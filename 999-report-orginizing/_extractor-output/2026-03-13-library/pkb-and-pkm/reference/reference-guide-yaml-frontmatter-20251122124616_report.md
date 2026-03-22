@@ -55,7 +55,7 @@ extraction_summary:
 
 ### Document Outline
 
-- # [[YAML Frontmatter]]: A Reference for PKB
+- # [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for PKB
   - ## 📇 Core Metadata Keys
   - ## ⚙️ Workflow & Status Keys
   - ## 🔗 Structural & Relational Keys
@@ -104,7 +104,7 @@ extraction_summary:
 #### 1. [DEFINITION] What is Frontmatter? *(Line 33)*
 
 > [!definition] What is Frontmatter?
-> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge Management]] workflows.
+> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge-Management|Knowledge Management]] workflows.
 
 ---
 
@@ -116,23 +116,23 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Obsidian]]
 - [[Breadcrumbs]]
 - [[Dataview]]
 - [[ISO 8601]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LLM]]
 - [[Markdown]]
 - [[Obsidian Plugins]]
 - [[Obsidian Publish]]
 - [[PKB]]
 - [[Project Management]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Source Note]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[YAML]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zotero]]
 - [[filename]]
@@ -141,26 +141,26 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[YAML Frontmatter]] | — | — | [[YAML Frontmatter]]: A Reference for... | 30 |
-| 2 | [[YAML]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 3 | [[Markdown]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 4 | [[PKB]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 5 | [[Obsidian]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 6 | [[Dataview]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 7 | [[Knowledge Management]] | — | — | [[YAML Frontmatter]]: A Reference for... | 34 |
+| 1 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 30 |
+| 2 | [[YAML]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 31 |
+| 3 | [[Markdown]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 31 |
+| 4 | [[PKB]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 31 |
+| 5 | [[Obsidian]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 31 |
+| 6 | [[Dataview]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 31 |
+| 7 | [[Knowledge-Management|Knowledge Management]] | — | — | [[YAML-Frontmatter|YAML Frontmatter]]: A Reference for... | 34 |
 | 8 | [[filename]] | — | — | 📇 Core Metadata Keys | 45 |
 | 9 | [[Zettelkasten]] | — | — | 📇 Core Metadata Keys | 46 |
 | 10 | [[ISO 8601]] | — | — | 📇 Core Metadata Keys | 47 |
 | 11 | [[Project Management]] | — | — | ⚙️ Workflow & Status Keys | 57 |
-| 12 | [[Task Management]] | — | — | ⚙️ Workflow & Status Keys | 57 |
-| 13 | [[Knowledge Graph]] | — | — | 🔗 Structural & Relational Keys | 72 |
+| 12 | [[Task-Management|Task Management]] | — | — | ⚙️ Workflow & Status Keys | 57 |
+| 13 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔗 Structural & Relational Keys | 72 |
 | 14 | [[Breadcrumbs]] | — | — | 🔗 Structural & Relational Keys | 72 |
 | 15 | [[Source Note]] | — | — | 📚 Source & Citation Keys | 86 |
 | 16 | [[Zotero]] | — | — | 📚 Source & Citation Keys | 93 |
 | 17 | [[Obsidian Plugins]] | — | — | 🔌 Plugin & Customization Keys | 100 |
 | 18 | [[Obsidian Publish]] | — | — | 🔌 Plugin & Customization Keys | 106 |
 | 19 | [[Dataview]] | — | — | 🔌 Plugin & Customization Keys | 107 |
-| 20 | [[Prompt Engineering]] | — | — | 🤖 Prompt Engineering Keys | 125 |
+| 20 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🤖 Prompt Engineering Keys | 125 |
 | 21 | [[LLM]] | — | — | 🤖 Prompt Engineering Keys | 131 |
 
 ---
@@ -287,23 +287,23 @@ link-related: []
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Obsidian]]
 - [[Breadcrumbs]]
 - [[Dataview]]
 - [[ISO 8601]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LLM]]
 - [[Markdown]]
 - [[Obsidian Plugins]]
 - [[Obsidian Publish]]
 - [[PKB]]
 - [[Project Management]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Source Note]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[YAML]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zotero]]
 - [[filename]]

@@ -127,7 +127,7 @@ extraction_summary:
 #### 2. [DEFINITION] Untitled *(Line 16)*
 
 > [!definition] Untitled
-> **[[Reading Fluency]]** is the ability to decode text automatically, accurately, and with appropriate prosodic expression, such that the cognitive resources that would otherwise be consumed by decoding are freed for *comprehension*—the construction of a coherent mental model from linguistic input. Reading fluency is not equivalent to reading *efficacy*: a reader may be perfectly fluent while retaining virtually nothing, because fluency addresses only the perceptual-linguistic front end of reading, leaving the equally critical processes of encoding, consolidation, and retrieval entirely unaddressed. The distinction is foundational to PKM-optimized reading: fluency is a prerequisite for effective reading, but the goal of knowledge management is the durable transformation of text into retrievable, connected understanding.
+> **[[Reading-Fluency|Reading Fluency]]** is the ability to decode text automatically, accurately, and with appropriate prosodic expression, such that the cognitive resources that would otherwise be consumed by decoding are freed for *comprehension*—the construction of a coherent mental model from linguistic input. Reading fluency is not equivalent to reading *efficacy*: a reader may be perfectly fluent while retaining virtually nothing, because fluency addresses only the perceptual-linguistic front end of reading, leaving the equally critical processes of encoding, consolidation, and retrieval entirely unaddressed. The distinction is foundational to PKM-optimized reading: fluency is a prerequisite for effective reading, but the goal of knowledge management is the durable transformation of text into retrievable, connected understanding.
 
 #### 3. [THE-PHILOSOPHY] Untitled *(Line 21)*
 
@@ -318,7 +318,7 @@ extraction_summary:
 - [[Interleaving]]
 - [[Interleaving in Knowledge Work - Beyond Laboratory Studies]]
 - [[John Dewey - Reflective Thinking]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Meaningful-Learning|Meaningful Learning]]
 - [[Metacognition]]
 - [[Metacognition and Metacognitive Awareness]]
@@ -331,7 +331,7 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Progressive Summarization - Forte]]
 - [[Protégé Effect]]
-- [[Reading Fluency]]
+- [[Reading-Fluency|Reading Fluency]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[Rote Learning]]
 - [[SECI-Model|SECI Model]]
@@ -339,7 +339,7 @@ extraction_summary:
 - [[SQ3R Method]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema Theory - Bartlett and Ausubel]]
-- [[Self-Explanation]]
+- [[self-explanation]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Spaced Repetition and the Ebbinghaus Legacy]]
 - [[Spacing-Effect|Spacing Effect]]
@@ -368,7 +368,7 @@ extraction_summary:
 | 6 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Document Start | 8 |
 | 7 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Document Start | 8 |
 | 8 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 14 |
-| 9 | [[Reading Fluency]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 17 |
+| 9 | [[Reading-Fluency|Reading Fluency]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 17 |
 | 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 19 |
 | 11 | [[Fluency-Illusion|Fluency Illusion]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 22 |
 | 12 | [[Familiarity Effect]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 22 |
@@ -404,12 +404,12 @@ extraction_summary:
 | 42 | [[Spacing-Effect|Spacing Effect]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 117 |
 | 43 | [[SM-2 Algorithm]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 119 |
 | 44 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 126 |
-| 45 | [[Knowledge Graph]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 128 |
+| 45 | [[Knowledge-Graph|Knowledge Graph]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 128 |
 | 46 | [[SQ3R Method]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 132 |
 | 47 | [[PQ4R Method]] | — | — | ⚙️ Phase 4: Mechanisms — How Reading ... | 132 |
 | 48 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 📊 Phase 5: Evidence Base — What the R... | 149 |
 | 49 | [[Progressive Elaboration]] | — | — | 📊 Phase 5: Evidence Base — What the R... | 149 |
-| 50 | [[Self-Explanation]] | — | — | 📊 Phase 5: Evidence Base — What the R... | 151 |
+| 50 | [[self-explanation]] | — | — | 📊 Phase 5: Evidence Base — What the R... | 151 |
 | 51 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🌍 Phase 6: Implications & Application... | 170 |
 | 52 | [[Metacognition]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
 | 53 | [[Metacognitive Awareness Inventory]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
@@ -506,7 +506,7 @@ $$
 - [[Interleaving]]
 - [[Interleaving in Knowledge Work - Beyond Laboratory Studies]]
 - [[John Dewey - Reflective Thinking]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Meaningful-Learning|Meaningful Learning]]
 - [[Metacognition]]
 - [[Metacognition and Metacognitive Awareness]]
@@ -519,7 +519,7 @@ $$
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Progressive Summarization - Forte]]
 - [[Protégé Effect]]
-- [[Reading Fluency]]
+- [[Reading-Fluency|Reading Fluency]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[Rote Learning]]
 - [[SECI-Model|SECI Model]]
@@ -527,7 +527,7 @@ $$
 - [[SQ3R Method]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema Theory - Bartlett and Ausubel]]
-- [[Self-Explanation]]
+- [[self-explanation]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Spaced Repetition and the Ebbinghaus Legacy]]
 - [[Spacing-Effect|Spacing Effect]]

@@ -1196,8 +1196,8 @@ secondary_domains:
 related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -1264,7 +1264,7 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
 
 extends:
@@ -1278,10 +1278,10 @@ aliases:
   - "[[FRP v1.0]]"
   - "[[Report Generator - Foundational]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
 link_related:
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
@@ -1588,7 +1588,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```
@@ -2262,8 +2262,8 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -2340,16 +2340,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 extends:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -2361,13 +2361,13 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Comparative Analysis Report Prompt]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
@@ -2716,7 +2716,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Test the reader's understanding of a critical concept BEFORE the report builds on it. This prevents the common failure mode where a reader loses the thread early but continues reading without real comprehension.
 
-**Cognitive Science Basis**: [[Elaborative Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
+**Cognitive Science Basis**: [[Elaborative-Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
 
 **Placement**: After introducing a critical concept that subsequent sections depend on. Placed within the text flow, not at section boundaries.
 
@@ -2729,7 +2729,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Help the reader assess and recalibrate their confidence in their understanding. Research on metacognition consistently shows that people overestimate their comprehension — calibration exercises correct this.
 
-**Cognitive Science Basis**: [[Calibration Training]] from [[Metacognitive Awareness]] research (Schraw & Dennison, 1994) — explicit calibration practice improves both monitoring accuracy and learning outcomes.
+**Cognitive Science Basis**: [[Calibration Training]] from [[metacognitive-awareness]] research (Schraw & Dennison, 1994) — explicit calibration practice improves both monitoring accuracy and learning outcomes.
 
 **Placement**: After particularly complex or dense sections. Used sparingly — 1-3 per report.
 
@@ -3101,7 +3101,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
+generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```
@@ -3893,8 +3893,8 @@ related_concepts:
   - "[[Cartesian Doubt]]"
   - "[[Axiomatic Reasoning]]"
   - "[[Assumption Stripping]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -3963,13 +3963,13 @@ prerequisites:
   - "[[First Principles Thinking]]"
 
 builds_on:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
 
 extends:
   - "[[Academic Report Generator]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # ALIASES & LINKING
@@ -3979,11 +3979,11 @@ aliases:
   - "[[FPRP v1.0]]"
   - "[[Report Generator - First Principles]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down: []
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -4121,7 +4121,7 @@ The same depth-first principles from the Foundational Report apply here, with an
 
 ## Section 2: Metadata Generation Protocol
 
-Every First Principles Report MUST begin with a complete YAML frontmatter block. The template is identical in structure to the Foundational Report metadata (see [[Foundational Report Generator v1.0]], Section 2) with the following field modifications:
+Every First Principles Report MUST begin with a complete YAML frontmatter block. The template is identical in structure to the Foundational Report metadata (see [[Foundational-Report-Generator-v1.0]], Section 2) with the following field modifications:
 
 ### Modified Metadata Fields
 
@@ -4157,10 +4157,10 @@ sections:
   - "Phase VII: Appendix"
 
 # Source & Generation:
-generation-prompt: "[[First Principles Report Generator v1.0]]"  # CHANGED
+generation-prompt: "[[First-Principles-Report-Generator-v1.0]]"  # CHANGED
 ```
 
-All other metadata fields follow the same template as the [[Foundational Report Generator v1.0]], Section 2. Generate the full YAML block with all fields populated.
+All other metadata fields follow the same template as the [[Foundational-Report-Generator-v1.0]], Section 2. Generate the full YAML block with all fields populated.
 
 ---
 
@@ -4370,10 +4370,10 @@ Every First Principles Report follows a seven-phase architecture with a distinct
   - Decomposition is influenced by the decomposer's framework and blind spots
   - "Fundamental" is relative to a domain and level of analysis — someone else might decompose differently
   - Some domains resist clean axiomatization; the method is more powerful in some contexts than others
-- **Relationship to Other Report Types**: Explicitly connect to the [[Foundational Report Generator v1.0|Foundational Report]] perspective on this topic:
+- **Relationship to Other Report Types**: Explicitly connect to the [[Foundational-Report-Generator-v1.0|Foundational Report]] perspective on this topic:
   - What does the Foundational view provide that First Principles does not? (Comprehensive landscape mapping, historical context, framework surveys)
   - What does First Principles provide that Foundational does not? (Epistemic audit, assumption transparency, reconstructive insight)
-  - How would a [[Socratic Dialogue Report Prompt|Socratic Dialogue]] approach this same topic differently? (Through dialectical exchange and aporia rather than systematic decomposition)
+  - How would a [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue]] approach this same topic differently? (Through dialectical exchange and aporia rather than systematic decomposition)
 - **PKB Connections Block**:
 
 > [!connections-and-links]
@@ -4404,7 +4404,7 @@ Every First Principles Report follows a seven-phase architecture with a distinct
 
 ### Phase VII: Appendix — Lexicon, References, and Expansion Topics
 
-The appendix structure is identical to the [[Foundational Report Generator v1.0]], Phase VII, with the following additions:
+The appendix structure is identical to the [[Foundational-Report-Generator-v1.0]], Phase VII, with the following additions:
 
 #### A. Lexicon of Key Terms
 
@@ -4442,7 +4442,7 @@ Same format as Foundational Report (`> [!further-exploration]` with nested `> [!
 
 ### All Standards from the Foundational Report Apply
 
-The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, active reading prompts, and progressive structure requirements from [[Foundational Report Generator v1.0]], Section 4 apply in full to First Principles Reports.
+The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, active reading prompts, and progressive structure requirements from [[Foundational-Report-Generator-v1.0]], Section 4 apply in full to First Principles Reports.
 
 ### Additional First Principles-Specific Standards
 
@@ -4498,7 +4498,7 @@ In Phase IV, explicitly mark where the reconstructed understanding converges wit
 
 ### All Protocols from the Foundational Report Apply
 
-The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational Report Generator v1.0]], Section 5 apply in full.
+The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational-Report-Generator-v1.0]], Section 5 apply in full.
 
 ### Additional First Principles-Specific Integration
 

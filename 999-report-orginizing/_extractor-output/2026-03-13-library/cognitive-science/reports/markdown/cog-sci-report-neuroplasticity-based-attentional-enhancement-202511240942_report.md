@@ -250,7 +250,7 @@ extraction_summary:
 - [[Conflict Monitoring Theory]]
 - [[Default Mode Network]]
 - [[Default Mode Network Dynamics and Self-Referential Processing]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
 - [[Functional Plasticity]]
 - [[Gray Matter Density]]
@@ -278,7 +278,7 @@ extraction_summary:
 | 3 | [[Mindfulness Meditation]] | — | — | Claude Thinking: | 70 |
 | 4 | [[Cognitive Training]] | — | — | Claude Thinking: | 70 |
 | 5 | [[03-notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | Claude Thinking: | 70 |
-| 6 | [[Executive Function]] | — | — | Claude Thinking: | 70 |
+| 6 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 70 |
 | 7 | [[Default Mode Network]] | — | — | Claude Thinking: | 70 |
 | 8 | [[Synaptic Plasticity]] | — | — | Claude Thinking: | 70 |
 | 9 | [[Long-Term Potentiation]] | — | — | Claude Thinking: | 70 |
@@ -302,7 +302,7 @@ extraction_summary:
 | 27 | [[Mindfulness Meditation]] | — | — | Phenomenology and Mechanisms of Mindf... | 155 |
 | 28 | [[Default Mode Network]] | — | — | Functional Reorganization: Enhanced A... | 179 |
 | 29 | [[Cognitive Training]] | — | — | Theoretical Foundations and Training ... | 194 |
-| 30 | [[Executive Function]] | — | — | Executive Function Training and Prefr... | 203 |
+| 30 | [[Executive-Function|Executive Function]] | — | — | Executive Function Training and Prefr... | 203 |
 | 31 | [[Default Mode Network Dynamics and Self-Referential Processing]] | — | — | 🔗 Related Topics for PKB Expansion | 274 |
 | 32 | [[Interoceptive Awareness and the Insular Cortex]] | — | — | 🔗 Related Topics for PKB Expansion | 279 |
 | 33 | [[Neurotransmitter Systems in Cognitive Control and Plasticity]] | — | — | 🔗 Related Topics for PKB Expansion | 284 |
@@ -354,7 +354,7 @@ extraction_summary:
 - [[Conflict Monitoring Theory]]
 - [[Default Mode Network]]
 - [[Default Mode Network Dynamics and Self-Referential Processing]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
 - [[Functional Plasticity]]
 - [[Gray Matter Density]]

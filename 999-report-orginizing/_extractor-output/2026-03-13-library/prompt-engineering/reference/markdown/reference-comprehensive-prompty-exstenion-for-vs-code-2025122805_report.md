@@ -85,7 +85,7 @@ extraction_summary:
 - # Start proxy server supporting multiple providers
 - # Configure Prompty to point to local proxy
 - # In .prompty file:
-    - ### Comparison with [[Claude Code]]
+    - ### Comparison with [[Claude-Code|Claude Code]]
   - ## Integration Strategy for Your Setup
     - ### Current Tool Landscape
     - ### Strategic Options for Prompty
@@ -220,7 +220,7 @@ extraction_summary:
 #### 3. [IMPORTANT] Critical Context for Your Setup *(Line 111)*
 
 > [!important] Critical Context for Your Setup
-> <span style='color: #FF00DC;'>**Key Limitation:**</span> Prompty does NOT natively integrate with [[Anthropic]] (Claude) or Google (Gemini) models. Your current setup uses [[Claude Code]] and [[Gemini Code Assist]], which are **separate tools** from Prompty. This reference note explains what Prompty does, its limitations, and strategic integration approaches for your multi-LLM prompt engineering library.
+> <span style='color: #FF00DC;'>**Key Limitation:**</span> Prompty does NOT natively integrate with [[Anthropic]] (Claude) or Google (Gemini) models. Your current setup uses [[Claude-Code|Claude Code]] and [[Gemini-Code-Assist|Gemini Code Assist]], which are **separate tools** from Prompty. This reference note explains what Prompty does, its limitations, and strategic integration approaches for your multi-LLM prompt engineering library.
 
 #### 4. [DEFINITION] Prompty Asset Class *(Line 130)*
 
@@ -419,7 +419,7 @@ extraction_summary:
 > - Observable, traceable prompt iterations
 > 
 > <span style='color: #FF00DC;'>**Not ideal for:**</span>
-> - [[Anthropic]] (Claude) exclusive workflows (use [[Claude Code]] instead)
+> - [[Anthropic]] (Claude) exclusive workflows (use [[Claude-Code|Claude Code]] instead)
 > - [[Google]] (Gemini) exclusive workflows (no native support)
 > - Non-technical prompt iteration (web UIs may be simpler)
 > - Already-established workflows with other prompt management tools
@@ -427,11 +427,11 @@ extraction_summary:
 #### 25. [CONNECTIONS-AND-LINKS] Related Concepts *(Line 681)*
 
 > [!connections-and-links] Related Concepts
-> - [[Prompt Engineering]] — Broader discipline of LLM interaction design
+> - [[Prompt-Engineering|Prompt Engineering]] — Broader discipline of LLM interaction design
 > - [[Version Control]] — Git workflows for prompt asset management
 > - [[Markdown]] — Format foundation enabling PKB integration
 > - [[Jinja2]] — Templating engine for dynamic prompt content
-> - [[Claude Code]] — Complementary tool for agentic coding
+> - [[Claude-Code|Claude Code]] — Complementary tool for agentic coding
 > - [[Obsidian]] — PKB platform for prompt library storage
 > - [[LLM Development Tools]] — Ecosystem of prompt engineering platforms
 > - [[YAML]] — Metadata format for structured configuration
@@ -737,7 +737,7 @@ extraction_summary:
 - [[Anthropic]]
 - [[Azure OpenAI]]
 - [[Claude]]
-- [[Claude Code]]
+- [[Claude-Code|Claude Code]]
 - [[Claude Code vs. GitHub Copilot vs. Cursor]]
 - [[Cohere]]
 - [[Common Scripting Misconceptions]]
@@ -750,7 +750,7 @@ extraction_summary:
 - [[First Principles]]
 - [[Future of Scripting: Emerging Trends]]
 - [[Gemini]]
-- [[Gemini Code Assist]]
+- [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Google]]
 - [[Groq]]
 - [[Historical Development of Scripting Languages]]
@@ -772,7 +772,7 @@ extraction_summary:
 - [[PKM]]
 - [[PKM Automation]]
 - [[PKM Fundamentals]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Framework Comparison]]
 - [[Prompt Flow]]
 - [[Prompt Versioning & Git Workflows]]
@@ -784,7 +784,7 @@ extraction_summary:
 - [[Systems Thinking]]
 - [[Technical]]
 - [[Templating Systems]]
-- [[VS Code]]
+- [[VS-Code|VS Code]]
 - [[VS Code Extensions]]
 - [[Version Control]]
 - [[YAML]]
@@ -802,8 +802,8 @@ extraction_summary:
 | 2 | [[OpenAI]] | — | — | Prompty VS Code Extension | 109 |
 | 3 | [[Azure OpenAI]] | — | — | Prompty VS Code Extension | 109 |
 | 4 | [[Anthropic]] | — | — | Prompty VS Code Extension | 112 |
-| 5 | [[Claude Code]] | — | — | Prompty VS Code Extension | 112 |
-| 6 | [[Gemini Code Assist]] | — | — | Prompty VS Code Extension | 112 |
+| 5 | [[Claude-Code|Claude Code]] | — | — | Prompty VS Code Extension | 112 |
+| 6 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Prompty VS Code Extension | 112 |
 | 7 | [[LangChain]] | — | — | Design Philosophy | 148 |
 | 8 | [[Semantic Kernel]] | — | — | Design Philosophy | 148 |
 | 9 | [[Prompt Flow]] | — | — | Design Philosophy | 148 |
@@ -818,10 +818,10 @@ extraction_summary:
 | 18 | [[Mistral]] | — | — | Native Provider Support | 399 |
 | 19 | [[Groq]] | — | — | Native Provider Support | 399 |
 | 20 | [[LiteLLM]] | — | — | Workaround: Proxy Layers | 405 |
-| 21 | [[Claude Code]] | — | — | Comparison with [[Claude Code]] | 427 |
-| 22 | [[Claude Code]] | — | — | Comparison with [[Claude Code]] | 429 |
-| 23 | [[Claude Code]] | — | — | Current Tool Landscape | 449 |
-| 24 | [[Gemini Code Assist]] | — | — | Current Tool Landscape | 450 |
+| 21 | [[Claude-Code|Claude Code]] | — | — | Comparison with [[Claude-Code|Claude Code]] | 427 |
+| 22 | [[Claude-Code|Claude Code]] | — | — | Comparison with [[Claude-Code|Claude Code]] | 429 |
+| 23 | [[Claude-Code|Claude Code]] | — | — | Current Tool Landscape | 449 |
+| 24 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Current Tool Landscape | 450 |
 | 25 | [[Obsidian]] | — | — | Current Tool Landscape | 451 |
 | 26 | [[OpenAI]] | — | — | Strategic Options for Prompty | 459 |
 | 27 | [[Azure OpenAI]] | — | — | Strategic Options for Prompty | 459 |
@@ -842,13 +842,13 @@ extraction_summary:
 | 42 | [[LangChain]] | — | — | 🎯 Synthesis & Mastery | 667 |
 | 43 | [[Semantic Kernel]] | — | — | 🎯 Synthesis & Mastery | 667 |
 | 44 | [[Anthropic]] | — | — | 🎯 Synthesis & Mastery | 672 |
-| 45 | [[Claude Code]] | — | — | 🎯 Synthesis & Mastery | 672 |
+| 45 | [[Claude-Code|Claude Code]] | — | — | 🎯 Synthesis & Mastery | 672 |
 | 46 | [[Google]] | — | — | 🎯 Synthesis & Mastery | 673 |
-| 47 | [[Prompt Engineering]] | — | — | 🔗 PKB Integration | 682 |
+| 47 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🔗 PKB Integration | 682 |
 | 48 | [[Version Control]] | — | — | 🔗 PKB Integration | 683 |
 | 49 | [[Markdown]] | — | — | 🔗 PKB Integration | 684 |
 | 50 | [[Jinja2]] | — | — | 🔗 PKB Integration | 685 |
-| 51 | [[Claude Code]] | — | — | 🔗 PKB Integration | 686 |
+| 51 | [[Claude-Code|Claude Code]] | — | — | 🔗 PKB Integration | 686 |
 | 52 | [[Obsidian]] | — | — | 🔗 PKB Integration | 687 |
 | 53 | [[LLM Development Tools]] | — | — | 🔗 PKB Integration | 688 |
 | 54 | [[YAML]] | — | — | 🔗 PKB Integration | 689 |
@@ -857,20 +857,20 @@ extraction_summary:
 | 57 | [[Google]] | — | — | 1. **[[LiteLLM Unified API Gateway]]** | 736 |
 | 58 | [[Prompt Versioning & Git Workflows]] | — | — | 2. **[[Prompt Versioning & Git Workfl... | 741 |
 | 59 | [[Version Control]] | — | — | 2. **[[Prompt Versioning & Git Workfl... | 745 |
-| 60 | [[Prompt Engineering]] | — | — | 2. **[[Prompt Versioning & Git Workfl... | 745 |
+| 60 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 2. **[[Prompt Versioning & Git Workfl... | 745 |
 | 61 | [[Jinja2 Templating for Dynamic Prompts]] | — | — | 3. **[[Jinja2 Templating for Dynamic ... | 748 |
 | 62 | [[Python]] | — | — | 3. **[[Jinja2 Templating for Dynamic ... | 752 |
 | 63 | [[LLM]] | — | — | 3. **[[Jinja2 Templating for Dynamic ... | 752 |
 | 64 | [[Obsidian + VS Code Dual-Editor Workflow]] | — | — | 4. **[[Obsidian + VS Code Dual-Editor... | 755 |
 | 65 | [[Obsidian]] | — | — | 4. **[[Obsidian + VS Code Dual-Editor... | 759 |
-| 66 | [[VS Code]] | — | — | 4. **[[Obsidian + VS Code Dual-Editor... | 759 |
+| 66 | [[VS-Code|VS Code]] | — | — | 4. **[[Obsidian + VS Code Dual-Editor... | 759 |
 | 67 | [[Prompt Engineering Framework Comparison]] | — | — | 5. **[[Prompt Engineering Framework C... | 762 |
 | 68 | [[LangChain]] | — | — | 5. **[[Prompt Engineering Framework C... | 764 |
 | 69 | [[Semantic Kernel]] | — | — | 5. **[[Prompt Engineering Framework C... | 764 |
 | 70 | [[Prompt Flow]] | — | — | 5. **[[Prompt Engineering Framework C... | 764 |
 | 71 | [[LLM Development Tools]] | — | — | 5. **[[Prompt Engineering Framework C... | 766 |
 | 72 | [[Claude Code vs. GitHub Copilot vs. Cursor]] | — | — | 6. **[[Claude Code vs. GitHub Copilot... | 769 |
-| 73 | [[Claude Code]] | — | — | 6. **[[Claude Code vs. GitHub Copilot... | 773 |
+| 73 | [[Claude-Code|Claude Code]] | — | — | 6. **[[Claude Code vs. GitHub Copilot... | 773 |
 | 74 | [[PKM Automation]] | — | — | STRUCTURAL REASONING | 957 |
 | 75 | [[VS Code Extensions]] | — | — | STRUCTURAL REASONING | 958 |
 | 76 | [[Scripting Platforms]] | — | — | STRUCTURAL REASONING | 959 |
@@ -1317,7 +1317,7 @@ description includes Review
 
 ### Table 1 *(Line 264, 7 rows)*
 
-| Feature | Prompty | [[Claude Code]] |
+| Feature | Prompty | [[Claude-Code|Claude Code]] |
 | --- | --- | --- |
 | **Primary Use** | Prompt asset management | Agentic coding assistant |
 | **Provider** | Microsoft (OpenAI focus) | Anthropic (Claude only) |
@@ -1449,7 +1449,7 @@ description includes Review
 - [[Anthropic]]
 - [[Azure OpenAI]]
 - [[Claude]]
-- [[Claude Code]]
+- [[Claude-Code|Claude Code]]
 - [[Claude Code vs. GitHub Copilot vs. Cursor]]
 - [[Cohere]]
 - [[Common Scripting Misconceptions]]
@@ -1462,7 +1462,7 @@ description includes Review
 - [[First Principles]]
 - [[Future of Scripting: Emerging Trends]]
 - [[Gemini]]
-- [[Gemini Code Assist]]
+- [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Google]]
 - [[Groq]]
 - [[Historical Development of Scripting Languages]]
@@ -1484,7 +1484,7 @@ description includes Review
 - [[PKM]]
 - [[PKM Automation]]
 - [[PKM Fundamentals]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Framework Comparison]]
 - [[Prompt Flow]]
 - [[Prompt Versioning & Git Workflows]]
@@ -1496,7 +1496,7 @@ description includes Review
 - [[Systems Thinking]]
 - [[Technical]]
 - [[Templating Systems]]
-- [[VS Code]]
+- [[VS-Code|VS Code]]
 - [[VS Code Extensions]]
 - [[Version Control]]
 - [[YAML]]

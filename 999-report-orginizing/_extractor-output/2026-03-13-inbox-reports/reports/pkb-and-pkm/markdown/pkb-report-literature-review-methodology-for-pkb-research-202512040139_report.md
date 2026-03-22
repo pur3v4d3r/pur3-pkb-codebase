@@ -363,8 +363,8 @@ extraction_summary:
 - [[Inter-Rater Reliability]]
 - [[Iterative Literature Review and Knowledge Base Maintenance]]
 - [[JBI Critical Appraisal Tools]]
-- [[Knowledge Graph]]
-- [[Large Language Models]]
+- [[Knowledge-Graph|Knowledge Graph]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Literature Note]]
 - [[Literature Notes]]
 - [[Maps-of-Content-—-MOCs|MOC]]
@@ -418,8 +418,8 @@ extraction_summary:
 - [[Theme Hub Notes]]
 - [[Theme Notes]]
 - [[Theory Notes]]
-- [[Wiki-Links]]
-- [[YAML Frontmatter]]
+- [[wiki-links]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten Method]]
 - [[Zotero]]
 - [[Zotero Integration]]
@@ -496,7 +496,7 @@ extraction_summary:
 | 64 | [[Risk of Bias Notes]] | — | — | Phase Four: Critical Appraisal and Qu... | 256 |
 | 65 | [[Study Quality Notes]] | — | — | Phase Four: Critical Appraisal and Qu... | 256 |
 | 66 | [[Structured Note Templates]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
-| 67 | [[YAML Frontmatter]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
+| 67 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
 | 68 | [[Inline Metadata]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
 | 69 | [[Dataview Queries]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
 | 70 | [[Synthesis Matrix]] | — | — | Phase Five: Data Extraction and Synth... | 262 |
@@ -509,7 +509,7 @@ extraction_summary:
 | 77 | [[Narrative Synthesis]] | — | — | Phase Six: Synthesis, Interpretation,... | 268 |
 | 78 | [[Thematic Synthesis]] | — | — | Phase Six: Synthesis, Interpretation,... | 268 |
 | 79 | [[Realist Synthesis]] | — | — | Phase Six: Synthesis, Interpretation,... | 268 |
-| 80 | [[Knowledge Graph]] | — | — | Phase Six: Synthesis, Interpretation,... | 270 |
+| 80 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Phase Six: Synthesis, Interpretation,... | 270 |
 | 81 | [[Gap Analysis]] | — | — | Phase Six: Synthesis, Interpretation,... | 270 |
 | 82 | [[Literature Notes]] | — | — | Phase Six: Synthesis, Interpretation,... | 272 |
 | 83 | [[Permanent Notes]] | — | — | Phase Six: Synthesis, Interpretation,... | 272 |
@@ -523,7 +523,7 @@ extraction_summary:
 | 91 | [[Obsidian]] | — | — | 🔗 Citation Management and Technical I... | 298 |
 | 92 | [[Better BibTeX]] | — | — | The Zotero-Obsidian Technical Stack | 302 |
 | 93 | [[Zotero Integration]] | — | — | The Zotero-Obsidian Technical Stack | 304 |
-| 94 | [[YAML Frontmatter]] | — | — | Template Design for Literature Notes | 310 |
+| 94 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Template Design for Literature Notes | 310 |
 | 95 | [[Citation Plugin]] | — | — | Template Design for Literature Notes | 310 |
 | 96 | [[Dataview Queries]] | — | — | Template Design for Literature Notes | 310 |
 | 97 | [[Dataview]] | — | — | Advanced Integration: Dataview Querie... | 320 |
@@ -544,7 +544,7 @@ extraction_summary:
 | 112 | [[Synthesis Note]] | — | — | Gap Analysis and Conceptual Framework... | 358 |
 | 113 | [[Pandoc]] | — | — | Multi-Layer Citation Architecture | 366 |
 | 114 | [[Citation]] | — | — | Multi-Layer Citation Architecture | 366 |
-| 115 | [[Wiki-Links]] | — | — | Multi-Layer Citation Architecture | 366 |
+| 115 | [[wiki-links]] | — | — | Multi-Layer Citation Architecture | 366 |
 | 116 | [[Citation Keys]] | — | — | Multi-Layer Citation Architecture | 366 |
 | 117 | [[Zotero URIs]] | — | — | Multi-Layer Citation Architecture | 366 |
 | 118 | [[DOI Links]] | — | — | Multi-Layer Citation Architecture | 366 |
@@ -563,7 +563,7 @@ extraction_summary:
 | 131 | [[Open Science]] | — | — | Relationship to Open Science and Rese... | 418 |
 | 132 | [[Research Compendia]] | — | — | Relationship to Open Science and Rese... | 418 |
 | 133 | [[Graph Analysis Algorithms]] | — | — | Evolution Toward Computational Knowle... | 424 |
-| 134 | [[Large Language Models]] | — | — | Evolution Toward Computational Knowle... | 426 |
+| 134 | [[Large-Language-Models|Large Language Models]] | — | — | Evolution Toward Computational Knowle... | 426 |
 | 135 | [[Algorithmic Filtering]] | — | — | Evolution Toward Computational Knowle... | 428 |
 | 136 | [[Over-Quantification]] | — | — | Evolution Toward Computational Knowle... | 428 |
 | 137 | [[Progressive Disclosure Annotation Strategies]] | — | — | 🔗 Related Topics for PKB Expansion | 434 |
@@ -826,8 +826,8 @@ LIMIT 15
 - [[Inter-Rater Reliability]]
 - [[Iterative Literature Review and Knowledge Base Maintenance]]
 - [[JBI Critical Appraisal Tools]]
-- [[Knowledge Graph]]
-- [[Large Language Models]]
+- [[Knowledge-Graph|Knowledge Graph]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Literature Note]]
 - [[Literature Notes]]
 - [[Maps-of-Content-—-MOCs|MOC]]
@@ -881,8 +881,8 @@ LIMIT 15
 - [[Theme Hub Notes]]
 - [[Theme Notes]]
 - [[Theory Notes]]
-- [[Wiki-Links]]
-- [[YAML Frontmatter]]
+- [[wiki-links]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten Method]]
 - [[Zotero]]
 - [[Zotero Integration]]

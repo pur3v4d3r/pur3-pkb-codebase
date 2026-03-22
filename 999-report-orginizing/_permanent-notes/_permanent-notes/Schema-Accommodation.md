@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
   - learning-experience-design
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - 17-note-making-knowledge-construction-pkm-framework-2026-03-14
@@ -50,6 +50,14 @@ see-also:
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Paul-Pintrich|Paul Pintrich]]"
+  - "[[Winne-and-Hadwin|Winne and Hadwin]]"
+  - "[[Constructivism|Constructivism]]"
+  - "[[Jean-Piaget|Jean Piaget]]"
+  - "[[Jerome-Bruner|Jerome Bruner]]"
+  - "[[Lev-Vygotsky|Lev Vygotsky]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Winne-and-Hadwin|Winne and Hadwin]]"
@@ -145,5 +153,9 @@ importance: high
 
 **Related concepts** *(from report-07-the-self-directed-learner.md)*:
 [[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from report-07-the-self-directed-learner.md)*:
+[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
+
 
 

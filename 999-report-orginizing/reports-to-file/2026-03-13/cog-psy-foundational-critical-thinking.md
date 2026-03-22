@@ -44,11 +44,11 @@ model_version: "claude-sonnet-4-20250514"
 related_concepts:
   - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Metacognition]]"
-  - "[[Executive Function]]"
+  - "[[Executive-Function|Executive Function]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Paul-Elder Framework]]"
-  - "[[Bloom's Taxonomy]]"
+  - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
+  - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
   - "[[Information Literacy]]"
   - "[[Knowledge-Management|Knowledge Management]]"
@@ -130,16 +130,16 @@ The cognitive psychological perspective reframes this philosophical ideal as con
 > [!definition] Cognitive-Psychological Conceptualization
 > **[CT-Cognitive-Process-Model**:: From cognitive science perspective, critical thinking comprises specific, measurable cognitive operations including semantic analysis (extracting meaning from text/speech), logical evaluation (assessing argument validity), evidence appraisal (judging claim support), inference generation (drawing conclusions), and synthesis (integrating multiple perspectives) - all executed within working memory constraints and regulated by executive control and metacognitive monitoring.]**
 >
-> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
+> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[Robert-Ennis|Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[Diane-Halpern|Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
 
 [**CT-Skill-vs-Disposition-Distinction**:: Critical distinction in CT research separates cognitive skills (ability to perform CT operations) from dispositions (consistent motivation to employ those skills) - explaining why knowledge of logic doesn't guarantee logical thinking in practice. Someone may possess analytical skills yet lack intellectual curiosity, open-mindedness, or truth-seeking disposition needed to consistently apply them.]
 
 The educational tradition synthesizes philosophical standards with psychological mechanisms to create pedagogical frameworks:
 
 > [!key-claim] Educational Synthesis
-> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's Depth of Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive operations across novel contexts.
+> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin-Bloom|Benjamin Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive operations across novel contexts.
 
-Research by [[Kuhn and Dean]] established critical thinking development as progression through three levels: (1) **realist** (truth exists independent of perspectives), (2) **absolutist** (multiple perspectives exist but one is correct), and (3) **multiplist** (perspectives are equally valid) - with expert CT emerging at fourth level: **evaluativist** (perspectives judged by standards of evidence and reasoning). This developmental model explains why CT instruction requires more than skill transfer - it necessitates epistemological development.
+Research by [[Kuhn-and-Dean|Kuhn and Dean]] established critical thinking development as progression through three levels: (1) **realist** (truth exists independent of perspectives), (2) **absolutist** (multiple perspectives exist but one is correct), and (3) **multiplist** (perspectives are equally valid) - with expert CT emerging at fourth level: **evaluativist** (perspectives judged by standards of evidence and reasoning). This developmental model explains why CT instruction requires more than skill transfer - it necessitates epistemological development.
 
 ### Core Characteristics: What Makes Thinking "Critical"
 
@@ -149,13 +149,13 @@ The term "critical" derives from Greek *kritikos* (able to discern) and *kriteri
 
 **Characteristic 1: Systematic Inquiry**
 
-Critical thinking employs structured methods rather than casual observation. While ordinary thinking may notice patterns haphazardly, CT deliberately searches for patterns using systematic frameworks. The [[Scientific Method]] exemplifies this characteristic: hypothesis formation, controlled observation, evidence gathering, analysis against predictions, and conclusion formation follow replicable procedures. Similarly, [[Argument Analysis]] employs systematic steps: identify conclusion, locate premises, evaluate logical structure, assess premise truth, judge argument strength.
+Critical thinking employs structured methods rather than casual observation. While ordinary thinking may notice patterns haphazardly, CT deliberately searches for patterns using systematic frameworks. The [[Scientific-Method|Scientific Method]] exemplifies this characteristic: hypothesis formation, controlled observation, evidence gathering, analysis against predictions, and conclusion formation follow replicable procedures. Similarly, [[Argument-Analysis|Argument Analysis]] employs systematic steps: identify conclusion, locate premises, evaluate logical structure, assess premise truth, judge argument strength.
 
 [**Systematic-vs-Haphazard-Distinction**:: Systematic thinking follows explicit procedures allowing verification and replication, while haphazard thinking lacks consistent method. A detective systematically examining crime scene evidence (documenting, categorizing, analyzing relationships) engages in CT; randomly speculating about culprits without structured investigation does not - regardless of whether either reaches correct conclusion.]
 
 **Characteristic 2: Standards-Based Judgment**
 
-Critical thinking evaluates information against explicit intellectual standards rather than personal preference or intuition. [[Paul and Elder]] identified nine essential intellectual standards: clarity (could you elaborate?), accuracy (is this true?), precision (could you be more specific?), relevance (how does this connect?), depth (what complexities are involved?), breadth (what other perspectives exist?), logic (does this follow?), significance (what's most important?), and fairness (am I biased?).
+Critical thinking evaluates information against explicit intellectual standards rather than personal preference or intuition. [[Paul-and-Elder|Paul and Elder]] identified nine essential intellectual standards: clarity (could you elaborate?), accuracy (is this true?), precision (could you be more specific?), relevance (how does this connect?), depth (what complexities are involved?), breadth (what other perspectives exist?), logic (does this follow?), significance (what's most important?), and fairness (am I biased?).
 
 > [!example] Standards Application
 > Consider evaluating the claim "Coffee is bad for your health." 
@@ -173,9 +173,9 @@ Critical thinking evaluates information against explicit intellectual standards 
 
 [**Metacognitive-Self-Regulation**:: The defining feature separating expert from novice CT is continuous metacognitive monitoring - the capacity to simultaneously execute cognitive operations while monitoring their quality, detecting errors, recognizing when different strategies needed, and adjusting approach accordingly. This "thinking about thinking" creates feedback loops enabling self-correction.]
 
-[[John Flavell]]'s pioneering research on metacognition identified two components: metacognitive knowledge (understanding of cognitive processes) and metacognitive regulation (monitoring and control of those processes). In CT, this manifests as **epistemic cognition** - awareness of one's knowledge state, confidence calibration, and recognition of uncertainty boundaries. Expert critical thinkers don't just think well; they *know* when they're thinking well, detect flawed reasoning in themselves, and implement corrective strategies.
+[[John-Flavell|John Flavell]]'s pioneering research on metacognition identified two components: metacognitive knowledge (understanding of cognitive processes) and metacognitive regulation (monitoring and control of those processes). In CT, this manifests as **epistemic cognition** - awareness of one's knowledge state, confidence calibration, and recognition of uncertainty boundaries. Expert critical thinkers don't just think well; they *know* when they're thinking well, detect flawed reasoning in themselves, and implement corrective strategies.
 
-Research by [[Dunning and Kruger]] revealed why metacognition matters: incompetent individuals systematically overestimate their abilities because lack of skill prevents recognizing skill absence - they lack metacognitive capacity to evaluate their own performance. Critical thinking requires not just analytical skill but meta-analytical skill to monitor analysis quality.
+Research by [[Dunning-and-Kruger|Dunning and Kruger]] revealed why metacognition matters: incompetent individuals systematically overestimate their abilities because lack of skill prevents recognizing skill absence - they lack metacognitive capacity to evaluate their own performance. Critical thinking requires not just analytical skill but meta-analytical skill to monitor analysis quality.
 
 **Characteristic 4: Context-Sensitive Yet Principled**
 
@@ -210,7 +210,7 @@ The conceptual precision of critical thinking requires clear boundaries with rel
 
 [**CT-Intelligence-Distinction**:: While general intelligence (g-factor) represents domain-general cognitive capacity measured by processing speed, working memory capacity, and abstract reasoning ability, critical thinking adds normative dimension and disposition components - someone may possess high IQ yet consistently fail to think critically due to lack of truth-seeking motivation or failure to apply intellectual standards.]**
 
-[[Keith Stanovich]]'s research demonstrates this dissociation: rational thinking dispositions (actively open-minded thinking, need for cognition, resistance to cognitive biases) predict real-world decision quality better than IQ alone. Studies show intelligent individuals fall prey to [[Myside-Bias|Myside Bias]], [[Anchoring Effects]], and [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] at rates comparable to lower-IQ individuals - intelligence enables sophisticated rationalization of biased thinking as easily as it enables sound reasoning.
+[[Keith-Stanovich|Keith Stanovich]]'s research demonstrates this dissociation: rational thinking dispositions (actively open-minded thinking, need for cognition, resistance to cognitive biases) predict real-world decision quality better than IQ alone. Studies show intelligent individuals fall prey to [[Myside-Bias|Myside Bias]], [[Anchoring-Effects|Anchoring Effects]], and [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] at rates comparable to lower-IQ individuals - intelligence enables sophisticated rationalization of biased thinking as easily as it enables sound reasoning.
 
 The key distinction: intelligence is capacity; critical thinking is disciplined application of capacity guided by epistemic values. High intelligence enables *more complex* thinking, not necessarily *better* thinking by CT standards.
 
@@ -227,7 +227,7 @@ Critical thinking requires all three, but emphasizes strategic knowledge - the m
 
 [**CT-Problem-Solving-Distinction**:: Problem solving seeks solutions to specific obstacles (how to achieve X given constraints Y), while critical thinking seeks justified beliefs about matters (what should I believe about claim X given evidence Y). Problem solving focuses on means-end analysis; CT focuses on epistemic justification. The distinction: problem solving asks "how to proceed?"; CT asks "what to believe?" - though well-structured problems integrate both.]**
 
-[[Newell and Simon]]'s problem space theory models problem solving as search through state space toward goal state. Critical thinking involves problem solving (analyzing arguments is a problem) but adds epistemological dimension: not merely finding *any* solution, but finding solutions that meet standards of evidence, logic, and intellectual responsibility.
+[[Newell-and-Simon|Newell and Simon]]'s problem space theory models problem solving as search through state space toward goal state. Critical thinking involves problem solving (analyzing arguments is a problem) but adds epistemological dimension: not merely finding *any* solution, but finding solutions that meet standards of evidence, logic, and intellectual responsibility.
 
 ### The Epistemological Dimension: CT as Justified Belief Formation
 
@@ -259,7 +259,7 @@ The epistemological dimension also clarifies what makes thinking "critical" rath
 
 [**CT-Information-Processing-Architecture**:: Critical thinking emerges from human information processing system characterized by limited-capacity working memory, vast long-term memory storage, executive control mechanisms coordinating cognitive operations, and metacognitive monitoring regulating the entire system - with CT quality constrained by working memory capacity, enhanced by long-term memory expertise, and enabled by executive function and metacognition.]**
 
-The [[Information Processing Theory]] established by [[Atkinson and Shiffrin]] provides foundational architecture for understanding cognitive limitations and capabilities underlying CT. This model conceptualizes cognition as flow through three memory systems:
+The [[Information-Processing-Theory|Information Processing Theory]] established by [[Atkinson and Shiffrin]] provides foundational architecture for understanding cognitive limitations and capabilities underlying CT. This model conceptualizes cognition as flow through three memory systems:
 
 1. **Sensory Memory**: Brief (~1 second) retention of raw sensory input
 2. **Working Memory**: Limited-capacity (~4 chunks) conscious processing workspace
@@ -313,7 +313,7 @@ This explains why CT benefits from:
 
 [**Inhibitory-Control-CT**:: The capacity to suppress prepotent (automatic, dominant) responses in favor of more appropriate alternatives - essential for CT because initial intuitions, emotional reactions, and confirmatory biases must be inhibited to engage in systematic analysis contradicting gut feelings or preferred conclusions.]**
 
-Research by [[Daniel Kahneman]] on [[Dual-Process-Theory|Dual Process Theory]] demonstrates why inhibition matters. [[System-1|System 1]] thinking (fast, automatic, intuitive) generates rapid judgments based on heuristics and associations. [[System-2|System 2]] thinking (slow, deliberate, analytical) performs the effortful reasoning characteristic of CT. However, System 1 outputs enter consciousness first and feel subjectively compelling - creating strong tendency to stop thinking and accept initial intuition.
+Research by [[Daniel-Kahneman|Daniel Kahneman]] on [[Dual-Process-Theory|Dual Process Theory]] demonstrates why inhibition matters. [[System-1|System 1]] thinking (fast, automatic, intuitive) generates rapid judgments based on heuristics and associations. [[System-2|System 2]] thinking (slow, deliberate, analytical) performs the effortful reasoning characteristic of CT. However, System 1 outputs enter consciousness first and feel subjectively compelling - creating strong tendency to stop thinking and accept initial intuition.
 
 > [!example] Inhibition in CT
 > The classic [[Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
@@ -352,7 +352,7 @@ Research on [[Wisconsin Card Sorting Task]] demonstrates individual differences 
 
 [**Metacognitive-CT-Architecture**:: Metacognition represents highest level of cognitive control - monitoring and regulation of cognitive processes themselves. In CT, metacognition manifests as epistemic monitoring (tracking one's knowledge state, confidence calibration, uncertainty recognition) and strategic regulation (selecting reasoning strategies, adjusting approach based on feedback, recognizing when external resources needed).]**
 
-[[John Flavell]] identified two metacognitive components:
+[[John-Flavell|John Flavell]] identified two metacognitive components:
 
 **Metacognitive Knowledge**:
 - **Person variables**: Understanding one's cognitive strengths/limitations
@@ -426,7 +426,7 @@ Critical thinking research has produced multiple conceptual frameworks, each ill
 
 ### The Paul-Elder Critical Thinking Framework
 
-[**Paul-Elder-Framework**:: Comprehensive CT model developed by [[Richard Paul]] and [[Linda Elder]] at [[Foundation for Critical Thinking]], organizing CT around three core dimensions: (1) Elements of Reasoning - eight fundamental structures underlying all thinking; (2) Intellectual Standards - nine criteria for evaluating reasoning quality; (3) Intellectual Traits - seven dispositions characterizing ideal critical thinker. Framework emphasizes applying standards to elements to develop traits.]**
+[**Paul-Elder-Framework**:: Comprehensive CT model developed by [[Richard-Paul|Richard Paul]] and [[Linda-Elder|Linda Elder]] at [[Foundation for Critical Thinking]], organizing CT around three core dimensions: (1) Elements of Reasoning - eight fundamental structures underlying all thinking; (2) Intellectual Standards - nine criteria for evaluating reasoning quality; (3) Intellectual Traits - seven dispositions characterizing ideal critical thinker. Framework emphasizes applying standards to elements to develop traits.]**
 
 The Paul-Elder framework represents the most pedagogically influential CT model, especially in North American education, due to its systematic structure and practical applicability.
 
@@ -527,7 +527,7 @@ The framework's widespread adoption stems from its systematic structure, practic
 
 [**Facione-Framework**:: Evidence-based CT framework derived from two-year [[Delphi Study]] (1988-1989) convening 46 CT experts from philosophy, education, social sciences, and physical sciences to reach consensus on CT definition, core skills, and ideal dispositions - resulting in most widely cited expert consensus on CT conceptualization.]**
 
-[[Peter Facione]]'s work represents empirical approach to CT definition: rather than philosophical speculation, gather expert consensus through systematic methodology. The Delphi process produced definition still considered authoritative:
+[[Peter-Facione|Peter Facione]]'s work represents empirical approach to CT definition: rather than philosophical speculation, gather expert consensus through systematic methodology. The Delphi process produced definition still considered authoritative:
 
 > [!definition] Delphi Consensus Definition
 > "Critical thinking is the process of purposeful, self-regulatory judgment. This process gives reasoned consideration to evidence, contexts, conceptualizations, methods, and criteria... CT is pervasive and self-rectifying human phenomenon... The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results."
@@ -588,13 +588,13 @@ The Delphi panel identified seven dispositions (later expanded in [[California C
 6. **Inquisitiveness**: Intellectual curiosity, desire to learn even when application unclear
 7. **Maturity**: Recognizing complexity, accepting ambiguity, avoiding premature judgment
 
-[**Disposition-Skill-Dissociation**:: Research using [[California Critical Thinking Skills Test]] (CCTST) and [[California Critical Thinking Disposition Inventory]] (CCTDI) reveals significant dissociation: students may score high on skills test while low on dispositions inventory, or vice versa. Correlation between CCTST and CCTDI typically r=0.3-0.4, indicating substantial independence. This empirically validates intuition that knowing how to think critically differs from consistently choosing to do so.]**
+[**Disposition-Skill-Dissociation**:: Research using [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] (CCTST) and [[California Critical Thinking Disposition Inventory]] (CCTDI) reveals significant dissociation: students may score high on skills test while low on dispositions inventory, or vice versa. Correlation between CCTST and CCTDI typically r=0.3-0.4, indicating substantial independence. This empirically validates intuition that knowing how to think critically differs from consistently choosing to do so.]**
 
 The Facione framework's strength lies in empirical grounding - not one researcher's conceptualization but consensus among field's leading experts. Its limitation is same: consensus definition may obscure genuine theoretical disagreements about CT's nature, privileging common ground over potentially productive disputes.
 
 ### Bloom's Taxonomy (Revised): CT as Higher-Order Thinking
 
-[**Blooms-Taxonomy**:: Hierarchical framework of educational objectives developed by [[Benjamin Bloom]] (1956), organizing cognitive goals into six levels: knowledge, comprehension, application, analysis, synthesis, evaluation - with analysis, synthesis, and evaluation representing higher-order thinking synonymous with critical thinking. [[Anderson and Krathwohl]]'s 2001 revision restructured taxonomy as Remember, Understand, Apply, Analyze, Evaluate, Create.]**
+[**Blooms-Taxonomy**:: Hierarchical framework of educational objectives developed by [[Benjamin-Bloom|Benjamin Bloom]] (1956), organizing cognitive goals into six levels: knowledge, comprehension, application, analysis, synthesis, evaluation - with analysis, synthesis, and evaluation representing higher-order thinking synonymous with critical thinking. [[Anderson and Krathwohl]]'s 2001 revision restructured taxonomy as Remember, Understand, Apply, Analyze, Evaluate, Create.]**
 
 While not exclusively a CT framework, Bloom's Taxonomy profoundly shaped educational conceptualization of critical thinking by positioning it as apex of cognitive objectives - the most sophisticated thinking students should develop.
 
@@ -793,7 +793,7 @@ Each framework also makes unique contributions:
 
 [**Information-Knowledge-Transformation**:: Critical thinking functions as essential mediating process transforming raw information (data, facts, claims) into genuine knowledge (justified, integrated, actionable understanding). Without CT, information accumulation produces erudition without insight; with CT, information becomes organized, evaluated, connected knowledge serving as foundation for expertise and wisdom.]**
 
-The distinction between information and knowledge proves crucial for understanding CT's role in learning and intellectual development. [[Michael Polanyi]]'s epistemology distinguishes:
+The distinction between information and knowledge proves crucial for understanding CT's role in learning and intellectual development. [[Michael-Polanyi|Michael Polanyi]]'s epistemology distinguishes:
 
 - **Information**: Discrete facts, data points, claims existing independently - can be transmitted, stored, retrieved without understanding
 - **Knowledge**: Integrated understanding embedding information in conceptual frameworks, evaluated for accuracy, connected to existing knowledge, and actionable for reasoning/decision-making
@@ -813,7 +813,7 @@ The transformation from first (information) to second (knowledge) requires criti
 
 ### CT's Role in Learning Theory
 
-[**CT-Constructivist-Learning**:: Critical thinking operationalizes [[Constructivist Learning Theory]]'s central claim that learners actively construct knowledge rather than passively receiving it. CT represents the cognitive operations through which construction occurs: analyzing new information, evaluating against criteria, integrating with existing schemas, resolving contradictions, synthesizing understanding.]**
+[**CT-Constructivist-Learning**:: Critical thinking operationalizes [[Constructivist-Learning-Theory|Constructivist Learning Theory]]'s central claim that learners actively construct knowledge rather than passively receiving it. CT represents the cognitive operations through which construction occurs: analyzing new information, evaluating against criteria, integrating with existing schemas, resolving contradictions, synthesizing understanding.]**
 
 Traditional transmission models of education treated learning as information transfer from expert to novice - successful learning meant accurate replication of expert knowledge. [[Constructivism]], pioneered by [[Piaget]], [[Vygotsky]], and [[Bruner]], challenged this model: learning involves active construction of mental models through interaction with information, not passive absorption.
 
@@ -1123,7 +1123,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 ---
 
-### 4. **[[Metacognition and Self-Regulated Learning]]**
+### 4. **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]**
 
 **Connection**: This report identifies metacognition as distinguishing feature of expert CT; dedicated treatment would examine metacognitive processes, development, training, and relationship to learning effectiveness.
 
@@ -1166,7 +1166,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 | [[Critical Thinking Development and Pedagogy]] | High | Theory → Practice |
 | [[Cognitive Biases and Critical Thinking]] | High | Obstacles to CT |
 | [[Argument Analysis and Logical Fallacies]] | High | Core CT Toolkit |
-| [[Metacognition and Self-Regulated Learning]] | High | CT Excellence Factor |
+| [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | High | CT Excellence Factor |
 | [[Domain-Specific Critical Thinking in STEM]] | Medium-High | Disciplinary Application |
 | [[Critical Thinking Assessment]] | Medium | Evaluation Methods |
 

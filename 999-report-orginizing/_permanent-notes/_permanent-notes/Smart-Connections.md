@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[PKB-Automation|PKB Automation]]"
   - "[[Obsidian|Obsidian]]"
   - "[[API|API]]"
+  - "[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
+  - "[[Templater|Templater]]"
+  - "[[Dataview|Dataview]]"
+  - "[[Claude-API|Claude API]]"
+  - "[[Prompt-Engineering|Prompt Engineering]]"
+  - "[[PKB-Automation|PKB Automation]]"
+  - "[[Obsidian|Obsidian]]"
+  - "[[API|API]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +114,7 @@ importance: medium
 # Smart Connections
 
 > [!definition] **Smart Connections**
-> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic Search]] using [[AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
+> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search]] using [[AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
 
 ## Core Explanation
 
@@ -127,4 +135,8 @@ importance: medium
 
 **Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
 [[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Large-Language-Models|Large Language Models]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[OpenAI|OpenAI]] * [[Anthropic-Claude|Anthropic Claude]] * [[Google-Gemini|Google Gemini]] * [[HuggingFace|HuggingFace]] * [[Ollama|Ollama]] * [[Template-System|Template System]] * [[ChatGPT|ChatGPT]] * [[Claude.ai|Claude.ai]]
+
+**Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
+[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Large-Language-Models|Large Language Models]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[Anthropic-Claude|Anthropic Claude]] * [[Google-Gemini|Google Gemini]] * [[Template-System|Template System]] * [[Cognitive-Load|Cognitive Load]] * [[Knowledge-Graph|Knowledge Graph]] * [[Reference-Note|Reference Note]] * [[Tokens|Tokens]] * [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]]
+
 

@@ -288,13 +288,13 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> [[Templater]] is the most powerful community plugin for [[obsidian]], enabling dynamic template creation through a custom [[Templating Language]], [[JavaScript]] execution, and [[System Command]] integration. This plugin transforms static [[Markdown]] files into intelligent, context-aware document generators that can manipulate [[Frontmatter]], create files programmatically, interact with the [[Obsidian API]], and automate complex [[workflow]] patterns within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
+> [[Templater]] is the most powerful community plugin for [[Obsidian]], enabling dynamic template creation through a custom [[Templating Language]], [[JavaScript]] execution, and [[System Command]] integration. This plugin transforms static [[Markdown]] files into intelligent, context-aware document generators that can manipulate [[Frontmatter]], create files programmatically, interact with the [[Obsidian API]], and automate complex [[workflow]] patterns within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 46)*
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering every aspect of Templater from novice installation through expert-level [[JavaScript]] scripting. Use the table of contents below for quick navigation, or search for specific functions using [[Wiki-Links]]. Each section includes detailed syntax specifications, practical examples with accurate code, and progressive skill-building from basic to advanced usage.
+> This reference note is organized into 10 major sections covering every aspect of Templater from novice installation through expert-level [[JavaScript]] scripting. Use the table of contents below for quick navigation, or search for specific functions using [[wiki-links]]. Each section includes detailed syntax specifications, practical examples with accurate code, and progressive skill-building from basic to advanced usage.
 
 #### 4. [DEFINITION] Untitled *(Line 77)*
 
@@ -524,7 +524,7 @@ extraction_summary:
 
 > [!warning] Untitled
 > **Dynamic Commands Are Deprecated**
-> As of Templater v2.0+, dynamic commands (`<%+`) are no longer actively maintained. Use [[dataview]] plugin for live-updating content instead.
+> As of Templater v2.0+, dynamic commands (`<%+`) are no longer actively maintained. Use [[Dataview]] plugin for live-updating content instead.
 
 #### 39. [CORE-PRINCIPLE] Untitled *(Line 1640)*
 
@@ -723,7 +723,7 @@ extraction_summary:
 - [[Asynchronous]]
 - [[Asynchronous Programming]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Automation]]
+- [[automation]]
 - [[Automation Workflows]]
 - [[Calendar]]
 - [[CommonJS]]
@@ -781,13 +781,13 @@ extraction_summary:
 - [[Templating Language]]
 - [[Tracker]]
 - [[User Functions]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Working Directory]]
 - [[YAML]]
 - [[Zettelkasten]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
-- [[obsidian]]
+- [[Dataview]]
+- [[Obsidian]]
 - [[rusty_engine]]
 - [[workflow]]
 
@@ -796,7 +796,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Templater]] | — | — | Document Start | 44 |
-| 2 | [[obsidian]] | — | — | Document Start | 44 |
+| 2 | [[Obsidian]] | — | — | Document Start | 44 |
 | 3 | [[Templating Language]] | — | — | Document Start | 44 |
 | 4 | [[JavaScript]] | — | — | Document Start | 44 |
 | 5 | [[System Command]] | — | — | Document Start | 44 |
@@ -806,9 +806,9 @@ extraction_summary:
 | 9 | [[workflow]] | — | — | Document Start | 44 |
 | 10 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 44 |
 | 11 | [[JavaScript]] | — | — | Document Start | 48 |
-| 12 | [[Wiki-Links]] | — | — | Document Start | 48 |
+| 12 | [[wiki-links]] | — | — | Document Start | 48 |
 | 13 | [[Templater]] | — | — | What is Templater? | 69 |
-| 14 | [[obsidian]] | — | — | What is Templater? | 69 |
+| 14 | [[Obsidian]] | — | — | What is Templater? | 69 |
 | 15 | [[templates]] | — | — | What is Templater? | 69 |
 | 16 | [[Templating Engine]] | — | — | What is Templater? | 69 |
 | 17 | [[rusty_engine]] | — | — | What is Templater? | 69 |
@@ -834,7 +834,7 @@ extraction_summary:
 | 37 | [[CommonJS]] | — | — | Script Files Folder Location | 211 |
 | 38 | [[Dashboard]] | — | — | Startup Templates | 217 |
 | 39 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Startup Templates | 218 |
-| 40 | [[Automation]] | — | — | Startup Templates | 219 |
+| 40 | [[automation]] | — | — | Startup Templates | 219 |
 | 41 | [[JavaScript]] | — | — | Execution Commands (`<%*`) | 269 |
 | 42 | [[Dot Notation]] | — | — | Function Invocation Syntax | 319 |
 | 43 | [[Asynchronous]] | — | — | Async/Await Syntax | 396 |
@@ -855,8 +855,8 @@ extraction_summary:
 | 58 | [[Obsidian API]] | — | — | tp.obsidian Module | 1313 |
 | 59 | [[Obsidian API]] | — | — | tp.app Module | 1353 |
 | 60 | [[Linter]] | — | — | tp.hooks.on_all_templates_executed() | 1460 |
-| 61 | [[dataview]] | — | — | Dynamic Commands (DEPRECATED) | 1612 |
-| 62 | [[dataview]] | — | — | Dynamic Commands (DEPRECATED) | 1626 |
+| 61 | [[Dataview]] | — | — | Dynamic Commands (DEPRECATED) | 1612 |
+| 62 | [[Dataview]] | — | — | Dynamic Commands (DEPRECATED) | 1626 |
 | 63 | [[Tracker]] | — | — | Dynamic Commands (DEPRECATED) | 1626 |
 | 64 | [[JavaScript]] | — | — | User Functions Overview | 1694 |
 | 65 | [[CommonJS]] | — | — | Setup Process | 1707 |
@@ -864,7 +864,7 @@ extraction_summary:
 | 67 | [[TSDoc]] | — | — | TSDoc Documentation for Intellisense | 1804 |
 | 68 | [[Environment Variables]] | — | — | Passing Arguments to System Commands | 1863 |
 | 69 | [[${f.basename}]] | — | — | Map Transformation | 1986 |
-| 70 | [[dataview]] | — | — | Templater + Dataview | 2130 |
+| 70 | [[Dataview]] | — | — | Templater + Dataview | 2130 |
 | 71 | [[Daily Notes]] | — | — | Templater + Calendar Plugin | 2161 |
 | 72 | [[<% tp.date.yesterday("YYYY-MM-DD") %>]] | ← Yesterday | — | 🌙 Evening | 2189 |
 | 73 | [[<% tp.date.tomorrow("YYYY-MM-DD") %>]] | Tomorrow → | — | 🌙 Evening | 2189 |
@@ -2763,7 +2763,7 @@ Let me execute targeted searches:
 - [[Asynchronous]]
 - [[Asynchronous Programming]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Automation]]
+- [[automation]]
 - [[Automation Workflows]]
 - [[Calendar]]
 - [[CommonJS]]
@@ -2821,13 +2821,13 @@ Let me execute targeted searches:
 - [[Templating Language]]
 - [[Tracker]]
 - [[User Functions]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Working Directory]]
 - [[YAML]]
 - [[Zettelkasten]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
-- [[obsidian]]
+- [[Dataview]]
+- [[Obsidian]]
 - [[rusty_engine]]
 - [[workflow]]
 

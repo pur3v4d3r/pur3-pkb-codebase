@@ -93,17 +93,17 @@ prerequisites:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Operant Conditioning]]"
-foundational-report: "[[Self-Determination Theory — Foundational Report]]"
+foundational-report: "[[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]"
 related:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Overjustification-Effect|Overjustification Effect]]"
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
   - "[[Attribution-Theory|Attribution Theory]]"
-  - "[[Goal-Setting Theory]]"
+  - "[[Goal-Setting-Theory|Goal-Setting Theory]]"
 broader:
   - "[[Motivation Theory]]"
   - "[[Educational-Psychology|Educational Psychology]]"
@@ -118,7 +118,7 @@ see-also:
   - "[[Gamification in Education]]"
 contrasts-with:
   - "[[Behaviourist Reinforcement Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Management Systems]]"
@@ -130,15 +130,15 @@ builds-on:
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
   - "[[Motivationally-Informed Feedback Design]]"
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
 expansion-topics:
-  - topic: "[[Basic Psychological Needs Theory]]"
+  - topic: "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
     description: CET posits autonomy and competence as mediating mechanisms, but BPNT provides the fuller theoretical architecture for understanding psychological needs as universal nutriments for growth. An expansion here would examine how need satisfaction and need frustration differ, and what the implications are for instructional contexts.
     priority: high
-  - topic: "[[Expectancy-Value Theory]]"
+  - topic: "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
     description: CET focuses on the source of motivation (intrinsic vs. extrinsic); EVT focuses on the structure of motivation (expectancy × value). Comparing these two frameworks exposes important complementarities and reveals where each is inadequate alone — particularly around how task value interacts with autonomy perceptions.
     priority: high
-  - topic: "[[Feedback Effects on Motivation and Learning]]"
+  - topic: "[[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]"
     description: CET's informational/controlling distinction maps directly onto the feedback literature, where normative feedback (controlling) and mastery-referenced feedback (informational) have markedly different effects. A focused analysis here would bridge CET with the feedback research tradition.
     priority: high
   - topic: "[[Gamification and Intrinsic Motivation]]"
@@ -175,7 +175,7 @@ document-features:
   cognitive-engagement-elements: 14
   analytical-commentary: 12
 source: claude-sonnet-4-6
-generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
+generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
 generation-date: 2026-03-13
 ---
 
@@ -198,7 +198,7 @@ This is not a minor anomaly or a curiosity. It is a phenomenon with profound imp
 
 **This report's analytical focus is specific**: it examines the central explanatory mechanism in CET — the concept of [[Functional-Significance|functional significance]] — and asks how and why an event's functional meaning determines its motivational impact. The central question is: *What cognitive-evaluative process determines whether an external event enhances or undermines intrinsic motivation, and what structural features of events influence which pathway is activated?*
 
-For comprehensive background on SDT's broader architecture — including [[Organismic-Integration-Theory|Organismic Integration Theory]], [[Basic-Psychological-Needs|Basic Psychological Needs Theory]], and the full continuum of [[self-determination]] — see the Foundational Report on [[Self-Determination-Theory|Self-Determination Theory]]. Here, we focus specifically on the sub-theory that addresses how external conditions modify intrinsic motivation states, drilling into mechanisms that the foundational treatment necessarily glosses.
+For comprehensive background on SDT's broader architecture — including [[Organismic-Integration-Theory|Organismic Integration Theory]], [[Basic-Psychological-Needs|Basic Psychological Needs Theory]], and the full continuum of [[Self-Determination]] — see the Foundational Report on [[Self-Determination-Theory|Self-Determination Theory]]. Here, we focus specifically on the sub-theory that addresses how external conditions modify intrinsic motivation states, drilling into mechanisms that the foundational treatment necessarily glosses.
 
 This analysis proceeds as follows: Phase II establishes the conceptual toolkit CET requires. Phase III examines the evidence base critically, including the major meta-analytic dispute that makes the field more contentious than it sometimes appears. Phase IV analyses the underlying psychological mechanisms — particularly the two separable pathways through which functional significance acts. Phase V traces the practical implications and is honest about the theory's limitations. Phase VI offers original synthetic contributions, including a model that integrates findings across the report in a new way. The analysis concludes with PKB connection notes and a structured appendix.
 
@@ -306,7 +306,7 @@ CET posits that functional significance acts on intrinsic motivation through two
 
 When an external event's controlling aspect is most salient, the person experiences their behaviour as being caused by the external pressure — a shift from internal PLOC toward external PLOC. This shift is not simply a cognitive re-labelling of why one is doing something. It reflects a genuine motivational transformation: the activity is no longer experienced as freely chosen, as expressive of one's interests and values, as an extension of the self. Instead, it becomes instrumental — a means to obtain the reward or avoid the consequence.
 
-The mechanism here operates at the level of psychological freedom. [[Self-determination]] is not just a philosophical value; within SDT, it is a basic psychological need whose satisfaction is necessary for well-being and sustained motivation. When PLOC shifts external, that need is frustrated. The activity may continue — extrinsic motivation can maintain behaviour for extended periods — but the phenomenological quality of engagement changes. Intrinsic motivation, which requires that the activity be experienced as volitional, diminishes.
+The mechanism here operates at the level of psychological freedom. [[Self-Determination]] is not just a philosophical value; within SDT, it is a basic psychological need whose satisfaction is necessary for well-being and sustained motivation. When PLOC shifts external, that need is frustrated. The activity may continue — extrinsic motivation can maintain behaviour for extended periods — but the phenomenological quality of engagement changes. Intrinsic motivation, which requires that the activity be experienced as volitional, diminishes.
 
 > [!analytical-insight] **The Invisible Transformation of Meaning**
 > What the autonomy pathway mechanism reveals is that rewards do not merely add a new reason to perform an activity alongside the pre-existing intrinsic reason. They can transform the *experienced meaning* of the activity itself. Before the reward, drawing was an act of self-expression. After repeated reward administration, drawing is an act of earning. The activity's identity — what it *is* for the person — has changed. This is why the effect persists after rewards are removed: you cannot simply subtract the reward and expect to return to the previous motivational state, because the activity's meaning has been reorganised. This is a far more radical claim than merely saying "people become accustomed to rewards" — it is a claim about how reward structures reshape the self-world relationship.
@@ -331,7 +331,7 @@ Initial task-contingent rewards may carry a mixed functional significance — th
 This is consistent with the finding that the undermining effect is often stronger in studies with longer reward administration periods, and that the effect on self-reported interest (a more internal, dispositional measure) typically lags behind the effect on free-choice behaviour. The motivational transformation takes time; it is a gradual reorganisation of the person's relationship to the activity.
 
 > [!cross-domain-connection] **CET and Communicative Pragmatics: The Same Sentence, Different Speech Acts**
-> Cognitive Evaluation Theory's central insight — that the same event carries different meaning depending on its functional significance — has a precise structural parallel in linguistic pragmatics, specifically [[speech act theory]] (Austin, 1962; Searle, 1969). In speech act theory, an utterance's meaning is not exhausted by its propositional content (what it literally says); its force depends on the social act it performs (a promise, a threat, a directive, an assessment). "You're good at this" can be a genuine expression of admiration (informational), a manipulative tool to elicit compliance ("since you're so good at this, you should keep doing it" — controlling), or a performance of social role. The *same surface form* carries radically different illocutionary force depending on context, relationship, power dynamics, and history. CET's functional significance is, in essence, the motivational analogue of illocutionary force: it is not what the event literally delivers but what social-psychological act it performs in the relationship that matters. This parallel suggests that CET would benefit from closer engagement with sociolinguistic and relational accounts of how competence and control signals are communicated — and why the same reward, administered by different people in different relational contexts, has such different effects.
+> Cognitive Evaluation Theory's central insight — that the same event carries different meaning depending on its functional significance — has a precise structural parallel in linguistic pragmatics, specifically [[speech-act-theory|speech act theory]] (Austin, 1962; Searle, 1969). In speech act theory, an utterance's meaning is not exhausted by its propositional content (what it literally says); its force depends on the social act it performs (a promise, a threat, a directive, an assessment). "You're good at this" can be a genuine expression of admiration (informational), a manipulative tool to elicit compliance ("since you're so good at this, you should keep doing it" — controlling), or a performance of social role. The *same surface form* carries radically different illocutionary force depending on context, relationship, power dynamics, and history. CET's functional significance is, in essence, the motivational analogue of illocutionary force: it is not what the event literally delivers but what social-psychological act it performs in the relationship that matters. This parallel suggests that CET would benefit from closer engagement with sociolinguistic and relational accounts of how competence and control signals are communicated — and why the same reward, administered by different people in different relational contexts, has such different effects.
 
 ### What Determines Functional Significance?
 
@@ -466,7 +466,7 @@ Positive competence feedback in an autonomy-supportive context can enhance intri
 >
 > **Cross-Report Links:**
 >
-> - **[[Self-Determination Theory — Foundational Report]]** — This focused analysis extends the foundational SDT treatment by providing a detailed mechanistic account of how external conditions affect the intrinsic/extrinsic motivation dimension. It adds the functional significance concept, the two-pathway model, and the temporal asymmetry analysis as layers that the Foundational Report does not cover in depth. Together, the two documents constitute a comprehensive treatment of SDT's motivation architecture.
+> - **[[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]** — This focused analysis extends the foundational SDT treatment by providing a detailed mechanistic account of how external conditions affect the intrinsic/extrinsic motivation dimension. It adds the functional significance concept, the two-pathway model, and the temporal asymmetry analysis as layers that the Foundational Report does not cover in depth. Together, the two documents constitute a comprehensive treatment of SDT's motivation architecture.
 >
 > **Synthetic Observation**: CET occupies a distinctive position in the PKB — it provides the most fine-grained motivational mechanism account currently available, but it connects outward to both the macro-level motivational architecture of SDT and the micro-level cognitive architecture of CLT and SRL. It is a bridge theory, and its greatest analytical value comes from examining it in relationship to these adjacent frameworks rather than in isolation. The knowledge network emerging across the SRL, CLT, and SDT reports suggests a coherent underlying theme: effective learning requires conditions that simultaneously optimise cognitive processing, motivational quality, and regulatory engagement — and these three dimensions are deeply interdependent rather than separable.
 
@@ -555,13 +555,13 @@ Positive competence feedback in an autonomy-supportive context can enhance intri
 
 > [!further-exploration] **Deepening Your Analysis**
 >
-> > [!topic-idea] [[Basic Psychological Needs Theory]]
+> > [!topic-idea] [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 > > CET is one of six SDT mini-theories, and it posits autonomy and competence as mediating mechanisms without fully developing their status as universal psychological needs. Basic Psychological Needs Theory (BPNT) provides this foundational layer, arguing that autonomy, competence, and relatedness are three universal organismic needs whose satisfaction predicts well-being and whose frustration predicts ill-being — across cultures, activities, and developmental stages. A focused analysis of BPNT would deepen the CET account by examining the need satisfaction/frustration asymmetry more carefully, connecting to the hedonic and eudaimonic well-being literature, and addressing the cross-cultural evidence that is both supportive and challenging for the universality claim.
 >
-> > [!topic-idea] [[Feedback Effects on Motivation and Learning]]
+> > [!topic-idea] [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
 > > CET's distinction between informational and controlling events maps most directly onto the feedback literature in educational psychology. A focused analysis here would synthesise CET with the Kluger and DeNisi (1996) meta-analysis of feedback effects, Hattie's feedback research, Shute's formative feedback framework, and the growing literature on computer-delivered feedback. The specific question is: what features of feedback operationalise CET's informational vs. controlling distinction in ways that are testable in educational contexts, and how does feedback design interact with the relational frame and motivational history constructs from the Interpretive Filter Model?
 >
-> > [!topic-idea] [[Expectancy-Value Theory]]
+> > [!topic-idea] [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 > > EVT (Eccles, Wigfield) and CET approach motivation from different directions: EVT focuses on the cognitive appraisal of tasks (do I expect to succeed? does this task have value for me?), while CET focuses on the source of regulation (am I doing this for internal or external reasons?). These frameworks are frequently treated as competitors, but they are better understood as complementary: EVT explains the structure of motivation (what determines whether someone will engage), while CET explains the quality and sustainability of motivation (what determines whether engagement is internally vs. externally regulated). A focused comparative analysis would map the intersection points, identify where each is insufficient alone, and propose an integration.
 >
 > > [!topic-idea] [[Growth Mindset and CET]]
@@ -572,4 +572,4 @@ Positive competence feedback in an autonomy-supportive context can enhance intri
 
 ---
 
-*Generated by [[Focused Analysis Report Generator v1.0]] | 2026-03-13*
+*Generated by [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | 2026-03-13*

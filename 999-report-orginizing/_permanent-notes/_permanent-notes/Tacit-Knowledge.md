@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -87,7 +87,7 @@ see-also:
   - "[[Externalization-Exercises|Externalization Exercises]]"
   - "[[understanding|understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Rote-memorization|Rote memorization]]"
   - "[[classical-mechanics|classical mechanics]]"
   - "[[Michael-Polanyi|Michael Polanyi]]"
@@ -95,7 +95,15 @@ see-also:
   - "[[Gilbert-Ryle|Gilbert Ryle]]"
   - "[[understanding|understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Pedagogy|pedagogy]]"
+  - "[[Rote-memorization|Rote memorization]]"
+  - "[[classical-mechanics|classical mechanics]]"
+  - "[[Michael-Polanyi|Michael Polanyi]]"
+  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
+  - "[[Gilbert-Ryle|Gilbert Ryle]]"
+  - "[[understanding|understanding]]"
+  - "[[Richard-Feynman|Richard Feynman]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Rote-memorization|Rote memorization]]"
   - "[[classical-mechanics|classical mechanics]]"
   - "[[Michael-Polanyi|Michael Polanyi]]"
@@ -200,7 +208,7 @@ importance: high
 [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Cognitive-Science|Cognitive Science]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Educational-Philosophy|Educational Philosophy]] · [[Embodied-Cognition|Embodied Cognition]] · [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Externalization-Exercises|Externalization Exercises]] · [[Knowledge-Management|Knowledge Management]] · [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] · [[Phenomenology]] · [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] · [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]] · [[Portfolio-of-Evidence|Portfolio of Evidence]]
 
 **Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[understanding|understanding]] * [[Richard-Feynman|Richard Feynman]] * [[pedagogy|pedagogy]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[knowing-how|knowing-how]] * [[knowing-that|knowing-that]] * [[electromagnetism|electromagnetism]] * [[cognitive-psychology|cognitive psychology]] * [[illusion-of-explanatory-depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]]
+[[understanding|understanding]] * [[Richard-Feynman|Richard Feynman]] * [[Pedagogy|pedagogy]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[knowing-how|knowing-how]] * [[knowing-that|knowing-that]] * [[electromagnetism|electromagnetism]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]]
 
 **Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -217,7 +225,7 @@ importance: high
 - [[Metacognition|Metacognition]]
 
 **Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[illusion-of-explanatory-depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[metacognitive-calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
 
 **Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -232,6 +240,26 @@ importance: high
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
 - [[fluency-effects|fluency effects]]
 - [[Metacognition|Metacognition]]
+
+**Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+
+
 
 
 

@@ -248,13 +248,13 @@ extraction_summary:
 - [[Time-Blocking Methodology]]
 - [[Workflow Automation]]
 - [[deep work]]
-- [[obsidian]]
+- [[Obsidian]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[obsidian]] | — | — | Executive Summary | 77 |
+| 1 | [[Obsidian]] | — | — | Executive Summary | 77 |
 | 2 | [[Daily Notes]] | — | — | Executive Summary | 77 |
 | 3 | [[2025-11-16]] | — | — | 1. Simple Task (No Time Block) | 402 |
 | 4 | [[2025-11-16]] | — | — | 2. Time-Blocked Task | 420 |
@@ -935,7 +935,7 @@ dv.taskList(unscheduled.limit(5), false);
 - [[Time-Blocking Methodology]]
 - [[Workflow Automation]]
 - [[deep work]]
-- [[obsidian]]
+- [[Obsidian]]
 
 ---
 

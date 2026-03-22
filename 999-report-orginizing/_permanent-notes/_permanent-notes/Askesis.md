@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,6 +85,14 @@ see-also:
   - "[[Report 05: Motivation Architecture]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
   - "[[Report 06: The Science of Remembering]]"
+  - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Amos-Tversky|Amos Tversky]]"
+  - "[[Debiasing-Interventions|Debiasing Interventions]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Linda-Zagzebski|Linda Zagzebski]]"
+  - "[[Jason-Baehr|Jason Baehr]]"
+  - "[[Heather-Battaly|Heather Battaly]]"
   - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
   - "[[Daniel-Kahneman|Daniel Kahneman]]"
   - "[[Amos-Tversky|Amos Tversky]]"
@@ -224,6 +232,26 @@ importance: high
 
 **Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
 - [[Fallibilism|Fallibilism]]
+
+**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
+[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Humility|Intellectual Humility]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+
+
+
+
 
 
 

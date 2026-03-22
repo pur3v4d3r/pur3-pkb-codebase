@@ -375,16 +375,16 @@ extraction_summary:
 - [[Cass Sunstein]]
 - [[Collective Intelligence Design Patterns]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Dan Sperber]]
-- [[Daniel Kahneman]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deliberative Democracy as Epistemic Practice]]
 - [[Dialogical Courage]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]]
-- [[Edwin Hutchins]]
+- [[Edwin-Hutchins|Edwin Hutchins]]
 - [[Epistemic Injustice]]
 - [[Epistemic Injustice in Healthcare and Clinical Epistemology]]
-- [[Gregory Vlastos]]
+- [[Gregory-Vlastos|Gregory Vlastos]]
 - [[Groupthink]]
 - [[Hermeneutical Humility]]
 - [[Hermeneutical-Injustice|Hermeneutical Injustice]]
@@ -393,7 +393,7 @@ extraction_summary:
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Irving Janis]]
 - [[James Surowiecki]]
-- [[Keith Stanovich]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Miranda Fricker]]
 - [[Polyphonic Contextualism and Epistemic Resistance]]
 - [[Report 14]]
@@ -410,21 +410,21 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Edwin Hutchins]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
+| 1 | [[Edwin-Hutchins|Edwin Hutchins]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 2 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 3 | [[Hugo Mercier]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
-| 4 | [[Dan Sperber]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
+| 4 | [[Dan-Sperber|Dan Sperber]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 5 | [[Argumentative Theory of Reasoning]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 6 | [[Miranda Fricker]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 7 | [[Epistemic Injustice]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 8 | [[Social Epistemic Virtue]] | — | — | Phase I 🧭 The Premise: The Individual... | 190 |
 | 9 | [[Argumentative Theory of Reasoning]] | — | — | The Argumentative Theory of Reasoning | 204 |
-| 10 | [[Daniel Kahneman]] | — | — | The Argumentative Theory of Reasoning | 204 |
-| 11 | [[Keith Stanovich]] | — | — | The Argumentative Theory of Reasoning | 204 |
+| 10 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | The Argumentative Theory of Reasoning | 204 |
+| 11 | [[Keith-Stanovich|Keith Stanovich]] | — | — | The Argumentative Theory of Reasoning | 204 |
 | 12 | [[Hugo Mercier]] | — | — | The Argumentative Theory of Reasoning | 206 |
-| 13 | [[Dan Sperber]] | — | — | The Argumentative Theory of Reasoning | 206 |
+| 13 | [[Dan-Sperber|Dan Sperber]] | — | — | The Argumentative Theory of Reasoning | 206 |
 | 14 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | The Argumentative Theory of Reasoning | 211 |
-| 15 | [[Edwin Hutchins]] | — | — | Distributed Cognition | 217 |
+| 15 | [[Edwin-Hutchins|Edwin Hutchins]] | — | — | Distributed Cognition | 217 |
 | 16 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Distributed Cognition | 217 |
 | 17 | [[Miranda Fricker]] | — | — | Epistemic Injustice | 230 |
 | 18 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | Social Epistemology and the Condition... | 244 |
@@ -436,7 +436,7 @@ extraction_summary:
 | 24 | [[C. Thi Nguyen]] | — | — | Social Epistemology and the Condition... | 251 |
 | 25 | [[Socratic-Method|Socratic Method]] | — | — | The Master Homology: Socratic Dialect... | 265 |
 | 26 | [[Argumentative Theory of Reasoning]] | — | — | The Master Homology: Socratic Dialect... | 265 |
-| 27 | [[Gregory Vlastos]] | — | — | The Master Homology: Socratic Dialect... | 267 |
+| 27 | [[Gregory-Vlastos|Gregory Vlastos]] | — | — | The Master Homology: Socratic Dialect... | 267 |
 | 28 | [[Socratic Elenchus]] | — | — | The Master Homology: Socratic Dialect... | 267 |
 | 29 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Fricker and the Epistemic-Ethical Int... | 300 |
 | 30 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | Fricker and the Epistemic-Ethical Int... | 300 |
@@ -513,16 +513,16 @@ extraction_summary:
 - [[Cass Sunstein]]
 - [[Collective Intelligence Design Patterns]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Dan Sperber]]
-- [[Daniel Kahneman]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deliberative Democracy as Epistemic Practice]]
 - [[Dialogical Courage]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]]
-- [[Edwin Hutchins]]
+- [[Edwin-Hutchins|Edwin Hutchins]]
 - [[Epistemic Injustice]]
 - [[Epistemic Injustice in Healthcare and Clinical Epistemology]]
-- [[Gregory Vlastos]]
+- [[Gregory-Vlastos|Gregory Vlastos]]
 - [[Groupthink]]
 - [[Hermeneutical Humility]]
 - [[Hermeneutical-Injustice|Hermeneutical Injustice]]
@@ -531,7 +531,7 @@ extraction_summary:
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Irving Janis]]
 - [[James Surowiecki]]
-- [[Keith Stanovich]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Miranda Fricker]]
 - [[Polyphonic Contextualism and Epistemic Resistance]]
 - [[Report 14]]

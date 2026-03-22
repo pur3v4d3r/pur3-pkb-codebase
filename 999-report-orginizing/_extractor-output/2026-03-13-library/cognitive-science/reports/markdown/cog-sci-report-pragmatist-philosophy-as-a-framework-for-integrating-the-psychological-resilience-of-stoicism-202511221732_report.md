@@ -206,22 +206,22 @@ extraction_summary:
 - [[Adaptive Learning]]
 - [[American-Pragmatism|American Pragmatism]]
 - [[Assimilation]]
-- [[Charles Sanders Peirce]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive Constructivism]]
 - [[Cognitive Flexibility]]
 - [[Cognitive Reframing]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Constructivism]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Experiential Learning]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
 - [[Knowledge Construction]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognition as Self-Regulation in Knowledge Work]]
 - [[Mindfulness]]
@@ -238,7 +238,7 @@ extraction_summary:
 - [[Social-Constructivism|Social Constructivism]]
 - [[Stoicism]]
 - [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Working Memory Architecture and PKM Design]]
 - [[Zeno of Citium]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -253,22 +253,22 @@ extraction_summary:
 | 4 | [[Stoicism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
 | 5 | [[Constructivism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
 | 6 | [[Pragmatism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
-| 7 | [[Charles Sanders Peirce]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
-| 8 | [[William James]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
+| 7 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
+| 8 | [[William-James|William James]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
 | 9 | [[John-Dewey|John Dewey]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
 | 10 | [[Stoicism]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 11 | [[Zeno of Citium]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 12 | [[Epictetus]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
-| 13 | [[Marcus Aurelius]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
+| 13 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 14 | [[Seneca]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 15 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
 | 16 | [[Locus-of-Control|Locus of Control]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
 | 17 | [[Psychological Resilience]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
 | 18 | [[Cognitive Reframing]] | — | — | The Stoic Foundation: Resilience Thro... | 81 |
-| 19 | [[Cognitive-Behavioral Therapy]] | — | — | The Stoic Foundation: Resilience Thro... | 81 |
+| 19 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The Stoic Foundation: Resilience Thro... | 81 |
 | 20 | [[Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 87 |
-| 21 | [[Jean Piaget]] | — | — | The Constructivist Revolution: Knowle... | 87 |
-| 22 | [[Lev Vygotsky]] | — | — | The Constructivist Revolution: Knowle... | 87 |
+| 21 | [[Jean-Piaget|Jean Piaget]] | — | — | The Constructivist Revolution: Knowle... | 87 |
+| 22 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 23 | [[John-Dewey|John Dewey]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 24 | [[Cognitive Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 89 |
 | 25 | [[Assimilation]] | — | — | The Constructivist Revolution: Knowle... | 89 |
@@ -299,16 +299,16 @@ extraction_summary:
 | 50 | [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 299 |
 | 51 | [[Pragmatism]] | — | — | 📚 References & Resources | 380 |
 | 52 | [[American-Pragmatism|American Pragmatism]] | — | — | 📚 References & Resources | 381 |
-| 53 | [[William James]] | — | — | 📚 References & Resources | 382 |
+| 53 | [[William-James|William James]] | — | — | 📚 References & Resources | 382 |
 | 54 | [[John-Dewey|John Dewey]] | — | — | 📚 References & Resources | 383 |
-| 55 | [[Charles Sanders Peirce]] | — | — | 📚 References & Resources | 384 |
+| 55 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📚 References & Resources | 384 |
 | 56 | [[Stoicism]] | — | — | 📚 References & Resources | 385 |
-| 57 | [[Marcus Aurelius]] | — | — | 📚 References & Resources | 386 |
+| 57 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 📚 References & Resources | 386 |
 | 58 | [[Epictetus]] | — | — | 📚 References & Resources | 387 |
 | 59 | [[Seneca]] | — | — | 📚 References & Resources | 388 |
 | 60 | [[Constructivism]] | — | — | 📚 References & Resources | 389 |
-| 61 | [[Jean Piaget]] | — | — | 📚 References & Resources | 390 |
-| 62 | [[Lev Vygotsky]] | — | — | 📚 References & Resources | 391 |
+| 61 | [[Jean-Piaget|Jean Piaget]] | — | — | 📚 References & Resources | 390 |
+| 62 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | 📚 References & Resources | 391 |
 | 63 | [[Psychological Resilience]] | — | — | 📚 References & Resources | 392 |
 | 64 | [[Cognitive Flexibility]] | — | — | 📚 References & Resources | 393 |
 | 65 | [[Metacognition]] | — | — | 📚 References & Resources | 394 |
@@ -413,22 +413,22 @@ This will require a sophisticated structure:
 - [[Adaptive Learning]]
 - [[American-Pragmatism|American Pragmatism]]
 - [[Assimilation]]
-- [[Charles Sanders Peirce]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive Constructivism]]
 - [[Cognitive Flexibility]]
 - [[Cognitive Reframing]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Constructivism]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Experiential Learning]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
 - [[Knowledge Construction]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognition as Self-Regulation in Knowledge Work]]
 - [[Mindfulness]]
@@ -445,7 +445,7 @@ This will require a sophisticated structure:
 - [[Social-Constructivism|Social Constructivism]]
 - [[Stoicism]]
 - [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Working Memory Architecture and PKM Design]]
 - [[Zeno of Citium]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]

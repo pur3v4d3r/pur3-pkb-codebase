@@ -154,7 +154,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Claude Librarian]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Prompt Component Library]]
 
 ### All Occurrences
@@ -162,7 +162,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Prompt Component Library]] | — | — | Tag Combination Rules & Best Practices | 172 |
-| 2 | [[Knowledge Graph]] | — | — | Tag Combination Rules & Best Practices | 172 |
+| 2 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Tag Combination Rules & Best Practices | 172 |
 | 3 | [[Claude Librarian]] | — | — | Tag Combination Rules & Best Practices | 172 |
 
 ---
@@ -314,7 +314,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Claude Librarian]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Prompt Component Library]]
 
 ---

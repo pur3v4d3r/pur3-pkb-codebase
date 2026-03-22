@@ -397,30 +397,30 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Albert Bandura]]
+- [[Albert-Bandura|Albert Bandura]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Bernard Weiner]]
-- [[Carol Dweck]]
-- [[Carol S. Dweck]]
-- [[Carole Ames]]
-- [[Claudia Mueller]]
+- [[Bernard-Weiner|Bernard Weiner]]
+- [[Carol-Dweck|Carol Dweck]]
+- [[Carol-S.-Dweck|Carol S. Dweck]]
+- [[Carole-Ames|Carole Ames]]
+- [[Claudia-Mueller|Claudia Mueller]]
 - [[Critiques and Limitations of Mindset Theory: A Balanced Assessment]]
 - [[David Yeager]]
 - [[Donald Hebb]]
-- [[Edward Deci]]
-- [[Ellen Leggett]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Edward-Deci|Edward Deci]]
+- [[Ellen-Leggett|Ellen Leggett]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Formative-Assessment|Formative assessment]]
 - [[Formative-Feedback|Formative feedback]]
 - [[Growth Mindset, Equity, and Structural Reform]]
 - [[Hebb's rule]]
-- [[John Elliot]]
-- [[John Hattie]]
+- [[John-Elliot|John Elliot]]
+- [[John-Hattie|John Hattie]]
 - [[Kali Trzesniewski]]
 - [[Linda Darling-Hammond]]
 - [[Lisa Blackwell]]
-- [[Mary Bandura]]
+- [[Mary-Bandura|Mary Bandura]]
 - [[Mary Murphy]]
 - [[Michael Merzenich]]
 - [[Mindset Interventions at Scale: Evidence, Design, and Conditions]]
@@ -429,9 +429,9 @@ extraction_summary:
 - [[Neuroplasticity and the Biology of Learning]]
 - [[Organizational Growth Mindset: Corporate Cultures and L&D]]
 - [[Paunesku et al. (2015)]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Efficacy Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Victoria Sisk]]
 - [[Yeager et al. (2019)]]
 - [[Achievement-Goal-Theory|achievement goal theory]]
@@ -444,49 +444,49 @@ extraction_summary:
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
 - [[mindset]]
-- [[motivation science]]
-- [[neuroplasticity]]
+- [[motivation-science|motivation science]]
+- [[Neuroplasticity]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Carol S. Dweck]] | — | — | Phase I: Orientation & Context Setting | 242 |
+| 1 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | Phase I: Orientation & Context Setting | 242 |
 | 2 | [[mindset]] | — | — | Phase I: Orientation & Context Setting | 242 |
 | 3 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Phase I: Orientation & Context Setting | 244 |
 | 4 | [[Fixed-Mindset|fixed mindset]] | — | — | Phase I: Orientation & Context Setting | 244 |
 | 5 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]] | — | — | Phase I: Orientation & Context Setting | 244 |
 | 6 | [[Educational-Psychology|educational psychology]] | — | — | Phase I: Orientation & Context Setting | 244 |
-| 7 | [[motivation science]] | — | — | Phase I: Orientation & Context Setting | 248 |
-| 8 | [[Carol Dweck]] | — | — | Historical Development | 287 |
+| 7 | [[motivation-science|motivation science]] | — | — | Phase I: Orientation & Context Setting | 248 |
+| 8 | [[Carol-Dweck|Carol Dweck]] | — | — | Historical Development | 287 |
 | 9 | [[Attribution-Theory|attribution theory]] | — | — | Historical Development | 289 |
-| 10 | [[Mary Bandura]] | — | — | Historical Development | 289 |
-| 11 | [[Ellen Leggett]] | — | — | Historical Development | 289 |
-| 12 | [[Claudia Mueller]] | — | — | Historical Development | 289 |
-| 13 | [[Claudia Mueller]] | — | — | Historical Development | 294 |
-| 14 | [[Carol Dweck]] | — | — | Historical Development | 296 |
+| 10 | [[Mary-Bandura|Mary Bandura]] | — | — | Historical Development | 289 |
+| 11 | [[Ellen-Leggett|Ellen Leggett]] | — | — | Historical Development | 289 |
+| 12 | [[Claudia-Mueller|Claudia Mueller]] | — | — | Historical Development | 289 |
+| 13 | [[Claudia-Mueller|Claudia Mueller]] | — | — | Historical Development | 294 |
+| 14 | [[Carol-Dweck|Carol Dweck]] | — | — | Historical Development | 296 |
 | 15 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Intellectual Genealogy | 300 |
-| 16 | [[motivation science]] | — | — | Intellectual Genealogy | 300 |
+| 16 | [[motivation-science|motivation science]] | — | — | Intellectual Genealogy | 300 |
 | 17 | [[Achievement-Goal-Theory|achievement goal theory]] | — | — | Intellectual Genealogy | 300 |
-| 18 | [[Carole Ames]] | — | — | Intellectual Genealogy | 300 |
-| 19 | [[John Elliot]] | — | — | Intellectual Genealogy | 300 |
+| 18 | [[Carole-Ames|Carole Ames]] | — | — | Intellectual Genealogy | 300 |
+| 19 | [[John-Elliot|John Elliot]] | — | — | Intellectual Genealogy | 300 |
 | 20 | [[Attribution-Theory|attribution theory]] | — | — | Intellectual Genealogy | 300 |
-| 21 | [[Bernard Weiner]] | — | — | Intellectual Genealogy | 300 |
-| 22 | [[neuroplasticity]] | — | — | Intellectual Genealogy | 302 |
+| 21 | [[Bernard-Weiner|Bernard Weiner]] | — | — | Intellectual Genealogy | 300 |
+| 22 | [[Neuroplasticity]] | — | — | Intellectual Genealogy | 302 |
 | 23 | [[Donald Hebb]] | — | — | Intellectual Genealogy | 302 |
 | 24 | [[Michael Merzenich]] | — | — | Intellectual Genealogy | 302 |
-| 25 | [[Edward Deci]] | — | — | Major Frameworks and Their Relationships | 320 |
-| 26 | [[Richard Ryan]] | — | — | Major Frameworks and Their Relationships | 320 |
-| 27 | [[Carole Ames]] | — | — | Major Frameworks and Their Relationships | 325 |
-| 28 | [[John Elliot]] | — | — | Major Frameworks and Their Relationships | 325 |
-| 29 | [[Carol Dweck]] | — | — | Major Frameworks and Their Relationships | 325 |
+| 25 | [[Edward-Deci|Edward Deci]] | — | — | Major Frameworks and Their Relationships | 320 |
+| 26 | [[Richard-Ryan|Richard Ryan]] | — | — | Major Frameworks and Their Relationships | 320 |
+| 27 | [[Carole-Ames|Carole Ames]] | — | — | Major Frameworks and Their Relationships | 325 |
+| 28 | [[John-Elliot|John Elliot]] | — | — | Major Frameworks and Their Relationships | 325 |
+| 29 | [[Carol-Dweck|Carol Dweck]] | — | — | Major Frameworks and Their Relationships | 325 |
 | 30 | [[Neuroplasticity]] | — | — | Major Frameworks and Their Relationships | 330 |
 | 31 | [[Hebb's rule]] | — | — | Major Frameworks and Their Relationships | 330 |
 | 32 | [[Michael Merzenich]] | — | — | Major Frameworks and Their Relationships | 330 |
 | 33 | [[Lisa Blackwell]] | — | — | Major Frameworks and Their Relationships | 333 |
 | 34 | [[Kali Trzesniewski]] | — | — | Major Frameworks and Their Relationships | 333 |
-| 35 | [[Self-Efficacy Theory]] | — | — | Major Frameworks and Their Relationships | 335 |
-| 36 | [[Albert Bandura]] | — | — | Major Frameworks and Their Relationships | 335 |
+| 35 | [[Self-Efficacy-Theory|Self-Efficacy Theory]] | — | — | Major Frameworks and Their Relationships | 335 |
+| 36 | [[Albert-Bandura|Albert Bandura]] | — | — | Major Frameworks and Their Relationships | 335 |
 | 37 | [[Victoria Sisk]] | — | — | Key Debates and Tensions | 341 |
 | 38 | [[Linda Darling-Hammond]] | — | — | Key Debates and Tensions | 351 |
 | 39 | [[Challenge-Avoidance|challenge avoidance]] | — | — | How Mindset Beliefs Operate as Motiva... | 370 |
@@ -496,7 +496,7 @@ extraction_summary:
 | 43 | [[David Yeager]] | — | — | How Mindset Beliefs Operate as Motiva... | 404 |
 | 44 | [[Mary Murphy]] | — | — | How Mindset Beliefs Operate as Motiva... | 404 |
 | 45 | [[Formative-Assessment|Formative assessment]] | — | — | Real-World Applications | 426 |
-| 46 | [[John Hattie]] | — | — | Real-World Applications | 426 |
+| 46 | [[John-Hattie|John Hattie]] | — | — | Real-World Applications | 426 |
 | 47 | [[Paunesku et al. (2015)]] | — | — | Real-World Applications | 430 |
 | 48 | [[Yeager et al. (2019)]] | — | — | Real-World Applications | 430 |
 | 49 | [[Mary Murphy]] | — | — | Real-World Applications | 437 |
@@ -507,7 +507,7 @@ extraction_summary:
 | 54 | [[Mindset Interventions at Scale: Evidence, Design, and Conditions]] | — | — | D. Expansion Topics | 575 |
 | 55 | [[Neuroplasticity and the Biology of Learning]] | — | — | D. Expansion Topics | 578 |
 | 56 | [[Critiques and Limitations of Mindset Theory: A Balanced Assessment]] | — | — | D. Expansion Topics | 581 |
-| 57 | [[Feedback Design for Autonomy and Mastery]] | — | — | D. Expansion Topics | 584 |
+| 57 | [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] | — | — | D. Expansion Topics | 584 |
 | 58 | [[Organizational Growth Mindset: Corporate Cultures and L&D]] | — | — | D. Expansion Topics | 587 |
 | 59 | [[Growth Mindset, Equity, and Structural Reform]] | — | — | D. Expansion Topics | 590 |
 
@@ -520,30 +520,30 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Albert Bandura]]
+- [[Albert-Bandura|Albert Bandura]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Bernard Weiner]]
-- [[Carol Dweck]]
-- [[Carol S. Dweck]]
-- [[Carole Ames]]
-- [[Claudia Mueller]]
+- [[Bernard-Weiner|Bernard Weiner]]
+- [[Carol-Dweck|Carol Dweck]]
+- [[Carol-S.-Dweck|Carol S. Dweck]]
+- [[Carole-Ames|Carole Ames]]
+- [[Claudia-Mueller|Claudia Mueller]]
 - [[Critiques and Limitations of Mindset Theory: A Balanced Assessment]]
 - [[David Yeager]]
 - [[Donald Hebb]]
-- [[Edward Deci]]
-- [[Ellen Leggett]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Edward-Deci|Edward Deci]]
+- [[Ellen-Leggett|Ellen Leggett]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Formative-Assessment|Formative assessment]]
 - [[Formative-Feedback|Formative feedback]]
 - [[Growth Mindset, Equity, and Structural Reform]]
 - [[Hebb's rule]]
-- [[John Elliot]]
-- [[John Hattie]]
+- [[John-Elliot|John Elliot]]
+- [[John-Hattie|John Hattie]]
 - [[Kali Trzesniewski]]
 - [[Linda Darling-Hammond]]
 - [[Lisa Blackwell]]
-- [[Mary Bandura]]
+- [[Mary-Bandura|Mary Bandura]]
 - [[Mary Murphy]]
 - [[Michael Merzenich]]
 - [[Mindset Interventions at Scale: Evidence, Design, and Conditions]]
@@ -552,9 +552,9 @@ extraction_summary:
 - [[Neuroplasticity and the Biology of Learning]]
 - [[Organizational Growth Mindset: Corporate Cultures and L&D]]
 - [[Paunesku et al. (2015)]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Efficacy Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Victoria Sisk]]
 - [[Yeager et al. (2019)]]
 - [[Achievement-Goal-Theory|achievement goal theory]]
@@ -567,8 +567,8 @@ extraction_summary:
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
 - [[mindset]]
-- [[motivation science]]
-- [[neuroplasticity]]
+- [[motivation-science|motivation science]]
+- [[Neuroplasticity]]
 
 ### Frontmatter Relationships
 
@@ -584,7 +584,7 @@ extraction_summary:
 - [[Neuroplasticity]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Productive-Failure|Productive Failure]]
-- [[Self-Efficacy Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Grit and Perseverance]]
 
 #### Broader
@@ -603,7 +603,7 @@ extraction_summary:
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 
 #### Contrasts With
 
@@ -622,12 +622,12 @@ extraction_summary:
 #### Builds On
 
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
-- [[Behaviorist vs. Cognitive Theories of Learning]]
+- [[Behaviorist-vs.-Cognitive-Theories-of-Learning|Behaviorist vs. Cognitive Theories of Learning]]
 
 #### Enables
 
 - [[Designing Growth-Oriented Learning Environments]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Equity-Focused Pedagogy]]
 
 ---

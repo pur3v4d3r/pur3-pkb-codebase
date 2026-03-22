@@ -169,7 +169,7 @@ extraction_summary:
 #### 8. [METHODOLOGY-AND-SOURCES] 📊 Research Grounding: Growth Mindset Evidence *(Line 256)*
 
 > [!methodology-and-sources] 📊 Research Grounding: Growth Mindset Evidence
-> It is important to note, as intellectual honesty requires, that the growth mindset research literature is more complex than popular accounts suggest. A critical 2023 meta-analysis by [[Macnamara & Burgoyne]] found that growth mindset interventions often produce small or inconsistent effects in real-world educational settings, and that effect sizes in controlled laboratory studies frequently fail to replicate with fidelity in applied contexts. The synthesis offered here does not ignore these findings. Rather, it distinguishes between the *neural reality* of the mindset disposition (which is robustly established) and the *intervention efficacy* (which is variable and context-dependent). The framework is real; the technology for reliably transmitting it remains under development.
+> It is important to note, as intellectual honesty requires, that the growth mindset research literature is more complex than popular accounts suggest. A critical 2023 meta-analysis by [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]] found that growth mindset interventions often produce small or inconsistent effects in real-world educational settings, and that effect sizes in controlled laboratory studies frequently fail to replicate with fidelity in applied contexts. The synthesis offered here does not ignore these findings. Rather, it distinguishes between the *neural reality* of the mindset disposition (which is robustly established) and the *intervention efficacy* (which is variable and context-dependent). The framework is real; the technology for reliably transmitting it remains under development.
 
 #### 9. [SUMMARY] 📋 Phase II Summary *(Line 259)*
 
@@ -367,56 +367,56 @@ extraction_summary:
 
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Carol Dweck]]
+- [[Carol-Dweck|Carol Dweck]]
 - [[Challenge-Skill-Balance|Challenge-Skill Balance]]
 - [[Cognitive-Vitality|Cognitive Vitality]]
 - [[Competence-Need|Competence Need]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Edward Deci]]
-- [[Fallibilist Epistemological Posture]]
-- [[Flow Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]]
+- [[Flow-Theory|Flow Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Howard et al.]]
-- [[Macnamara & Burgoyne]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Howard-et-al.|Howard et al.]]
+- [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Norsworthy et al.]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Prohairesis]]
 - [[Relatedness]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[SDT's Autonomy Need]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Stoic Askēsis]]
-- [[Stoic Prohairesis]]
+- [[Stoic-Prohairesis|Stoic Prohairesis]]
 - [[Striatum]]
 - [[System-2|System 2]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Transient-Hypofrontality|Transient Hypofrontality]]
-- [[Wang et al.]]
+- [[Wang-et-al.|Wang et al.]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[System 2 Thinking]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 188 |
+| 1 | [[System-2-Thinking|System 2 Thinking]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 188 |
 | 2 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 188 |
 | 3 | [[System-2|System 2]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 190 |
-| 4 | [[Fallibilist Epistemological Posture]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 190 |
+| 4 | [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 190 |
 | 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 195 |
-| 6 | [[Flow Theory]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 195 |
-| 7 | [[Stoic Prohairesis]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 195 |
+| 6 | [[Flow-Theory|Flow Theory]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 195 |
+| 7 | [[Stoic-Prohairesis|Stoic Prohairesis]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 195 |
 | 8 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 195 |
 | 9 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | 🎯 Phase I: The Premise — The Motivati... | 197 |
 | 10 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: The Three ... | 211 |
-| 11 | [[Edward Deci]] | — | — | Self-Determination Theory: The Three ... | 211 |
-| 12 | [[Richard Ryan]] | — | — | Self-Determination Theory: The Three ... | 211 |
-| 13 | [[Howard et al.]] | — | — | Self-Determination Theory: The Three ... | 211 |
+| 11 | [[Edward-Deci|Edward Deci]] | — | — | Self-Determination Theory: The Three ... | 211 |
+| 12 | [[Richard-Ryan|Richard Ryan]] | — | — | Self-Determination Theory: The Three ... | 211 |
+| 13 | [[Howard-et-al.|Howard et al.]] | — | — | Self-Determination Theory: The Three ... | 211 |
 | 14 | [[Basic-Psychological-Needs|Basic Psychological Needs]] | — | — | Self-Determination Theory: The Three ... | 213 |
 | 15 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Self-Determination Theory: The Three ... | 218 |
-| 16 | [[Wang et al.]] | — | — | Self-Determination Theory: The Three ... | 220 |
-| 17 | [[Flow Theory]] | — | — | Flow Theory: The Architecture of Opti... | 224 |
-| 18 | [[Mihaly Csikszentmihalyi]] | — | — | Flow Theory: The Architecture of Opti... | 224 |
+| 16 | [[Wang-et-al.|Wang et al.]] | — | — | Self-Determination Theory: The Three ... | 220 |
+| 17 | [[Flow-Theory|Flow Theory]] | — | — | Flow Theory: The Architecture of Opti... | 224 |
+| 18 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | Flow Theory: The Architecture of Opti... | 224 |
 | 19 | [[Norsworthy et al.]] | — | — | Flow Theory: The Architecture of Opti... | 226 |
 | 20 | [[Challenge-Skill-Balance|Challenge-Skill Balance]] | — | — | Flow Theory: The Architecture of Opti... | 228 |
 | 21 | [[Transient-Hypofrontality|Transient Hypofrontality]] | — | — | Flow Theory: The Architecture of Opti... | 233 |
@@ -425,11 +425,11 @@ extraction_summary:
 | 24 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoic Prohairesis and the Dichotomy o... | 244 |
 | 25 | [[Stoic Askēsis]] | — | — | Stoic Prohairesis and the Dichotomy o... | 246 |
 | 26 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Growth Mindset: The Neural Dispositio... | 250 |
-| 27 | [[Carol Dweck]] | — | — | Growth Mindset: The Neural Dispositio... | 250 |
-| 28 | [[Macnamara & Burgoyne]] | — | — | Growth Mindset: The Neural Dispositio... | 257 |
-| 29 | [[Stoic Prohairesis]] | — | — | The Central Structural Homology: Proh... | 271 |
+| 27 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset: The Neural Dispositio... | 250 |
+| 28 | [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]] | — | — | Growth Mindset: The Neural Dispositio... | 257 |
+| 29 | [[Stoic-Prohairesis|Stoic Prohairesis]] | — | — | The Central Structural Homology: Proh... | 271 |
 | 30 | [[SDT's Autonomy Need]] | — | — | The Central Structural Homology: Proh... | 271 |
-| 31 | [[Flow Theory]] | — | — | The Resolution of the Effortfulness P... | 286 |
+| 31 | [[Flow-Theory|Flow Theory]] | — | — | The Resolution of the Effortfulness P... | 286 |
 | 32 | [[Transient-Hypofrontality|Transient Hypofrontality]] | — | — | The Resolution of the Effortfulness P... | 291 |
 | 33 | [[Competence-Need|Competence Need]] | — | — | A Second Structural Homology: Flow's ... | 297 |
 | 34 | [[Relatedness]] | — | — | The Relatedness Need and Epistemic Co... | 303 |
@@ -465,48 +465,48 @@ extraction_summary:
 
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Carol Dweck]]
+- [[Carol-Dweck|Carol Dweck]]
 - [[Challenge-Skill-Balance|Challenge-Skill Balance]]
 - [[Cognitive-Vitality|Cognitive Vitality]]
 - [[Competence-Need|Competence Need]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Edward Deci]]
-- [[Fallibilist Epistemological Posture]]
-- [[Flow Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]]
+- [[Flow-Theory|Flow Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Howard et al.]]
-- [[Macnamara & Burgoyne]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Howard-et-al.|Howard et al.]]
+- [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Norsworthy et al.]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Prohairesis]]
 - [[Relatedness]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[SDT's Autonomy Need]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Stoic Askēsis]]
-- [[Stoic Prohairesis]]
+- [[Stoic-Prohairesis|Stoic Prohairesis]]
 - [[Striatum]]
 - [[System-2|System 2]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Transient-Hypofrontality|Transient Hypofrontality]]
-- [[Wang et al.]]
+- [[Wang-et-al.|Wang et al.]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Dewey's Reflective Thinking]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Fallibilism]]
 - [[Constructivism]]
 
 #### Related
 
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Transient-Hypofrontality|Transient Hypofrontality]]
 - [[Anterior Cingulate Cortex]]
@@ -519,11 +519,11 @@ extraction_summary:
 
 #### Broader
 
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Positive Psychology]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 
 ---
 

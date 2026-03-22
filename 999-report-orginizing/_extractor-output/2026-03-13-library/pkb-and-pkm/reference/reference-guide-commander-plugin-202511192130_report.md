@@ -146,7 +146,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 36)*
 
 > [!abstract] Untitled
-> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.
+> **Commander** is a powerful [[Obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.
 
 #### 2. [DEFINITION] Untitled *(Line 43)*
 
@@ -172,7 +172,7 @@ extraction_summary:
 >   - `Create New Note`
 >   - `Toggle Reading View/Edit Mode`
 > - **Plugin Integration**:
->   - [[dataview]]: `Open Dataview Query Sandbox`
+>   - [[Dataview]]: `Open Dataview Query Sandbox`
 >   - [[Templater]]: `Insert Template`
 >   - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]: Quick capture macros
 > - **PKB Maintenance**:
@@ -190,7 +190,7 @@ extraction_summary:
 >   - `Open Backlinks Pane`
 >   - `Open Outgoing Links`
 > - **Advanced Views**:
->   - [[canvas]] workspace toggles
+>   - [[Canvas]] workspace toggles
 >   - Database views (if using Dataview or similar)
 > - **Specialized Workflows**:
 >   - `Execute Code Block` (for technical notes)
@@ -258,7 +258,7 @@ extraction_summary:
 >   - `Toggle Spellcheck`
 > - **Plugin Controls**:
 >   - [[Tasks]]: `Show Due Tasks`
->   - [[Day Planner]]: `Open Today's Schedule`
+>   - [[Day-Planner|Day Planner]]: `Open Today's Schedule`
 >   - Calendar integration toggles
 
 #### 11. [WARNING] Untitled *(Line 189)*
@@ -411,7 +411,7 @@ extraction_summary:
 #### 19. [HELPFUL-TIP] Untitled *(Line 362)*
 
 > [!helpful-tip] Untitled
-> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.
+> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[Dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.
 
 #### 20. [METHODOLOGY-AND-SOURCES] Untitled *(Line 373)*
 
@@ -576,7 +576,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[API Documentation]]
 - [[Attention Management]]
-- [[Automation]]
+- [[automation]]
 - [[Capture]]
 - [[Capture Workflows]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Custom CSS]]
 - [[Daily Notes]]
 - [[Dataview]]
-- [[Day Planner]]
+- [[Day-Planner|Day Planner]]
 - [[Desktop Workflow]]
 - [[File Explorer]]
 - [[Flow State]]
@@ -620,18 +620,18 @@ extraction_summary:
 - [[Workspace]]
 - [[Workspace Architecture in Obsidian]]
 - [[Zettelkasten]]
-- [[canvas]]
+- [[Canvas]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
+- [[Dataview]]
 - [[hotkeys]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[workspace]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[obsidian]] | — | — | ⚙️ Commander Plugin for Obsidian | 37 |
+| 1 | [[Obsidian]] | — | — | ⚙️ Commander Plugin for Obsidian | 37 |
 | 2 | [[User Interface Customization]] | — | — | ⚙️ Commander Plugin for Obsidian | 37 |
 | 3 | [[Workflow Optimization]] | — | — | ⚙️ Commander Plugin for Obsidian | 37 |
 | 4 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | ⚙️ Commander Plugin for Obsidian | 37 |
@@ -640,16 +640,16 @@ extraction_summary:
 | 7 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
 | 8 | [[Context Switching]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
 | 9 | [[Cognitive-Load|Cognitive Load]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
-| 10 | [[dataview]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 80 |
+| 10 | [[Dataview]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 80 |
 | 11 | [[Templater]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 81 |
 | 12 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 82 |
-| 13 | [[canvas]] | — | — | 2️⃣ Right Ribbon (Contextual Tools) | 104 |
+| 13 | [[Canvas]] | — | — | 2️⃣ Right Ribbon (Contextual Tools) | 104 |
 | 14 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 3️⃣ Title Bar (Global Actions) | 129 |
 | 15 | [[Zettelkasten]] | — | — | 4️⃣ Page Header (Note-Specific Actions) | 154 |
 | 16 | [[Command Palette]] | — | — | 4️⃣ Page Header (Note-Specific Actions) | 164 |
 | 17 | [[Zettelkasten]] | — | — | 4️⃣ Page Header (Note-Specific Actions) | 166 |
 | 18 | [[Tasks]] | — | — | 5️⃣ Status Bar (Persistent Informatio... | 185 |
-| 19 | [[Day Planner]] | — | — | 5️⃣ Status Bar (Persistent Informatio... | 186 |
+| 19 | [[Day-Planner|Day Planner]] | — | — | 5️⃣ Status Bar (Persistent Informatio... | 186 |
 | 20 | [[File Explorer]] | — | — | 6️⃣ File Menu (Context Menu) | 198 |
 | 21 | [[Literature Notes]] | — | — | 📚 Setup #1: Academic Researcher Confi... | 229 |
 | 22 | [[Zettelkasten]] | — | — | 🧠 Setup #3: Zettelkasten Purist Confi... | 302 |
@@ -659,7 +659,7 @@ extraction_summary:
 | 26 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 333 |
 | 27 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 363 |
 | 28 | [[Tasks]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 363 |
-| 29 | [[dataview]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 363 |
+| 29 | [[Dataview]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 363 |
 | 30 | [[Templater]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 363 |
 | 31 | [[Technical Writing]] | — | — | 🔬 Setup #5: Technical Documentation &... | 371 |
 | 32 | [[API Documentation]] | — | — | 🔬 Setup #5: Technical Documentation &... | 371 |
@@ -671,7 +671,7 @@ extraction_summary:
 | 38 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔧 Installation & Configuration Workflow | 476 |
 | 39 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Essential Plugin Pairings | 559 |
 | 40 | [[Templater]] | — | — | Essential Plugin Pairings | 560 |
-| 41 | [[dataview]] | — | — | Essential Plugin Pairings | 561 |
+| 41 | [[Dataview]] | — | — | Essential Plugin Pairings | 561 |
 | 42 | [[Tasks]] | — | — | Essential Plugin Pairings | 562 |
 | 43 | [[workspace]] | — | — | Essential Plugin Pairings | 563 |
 | 44 | [[Hotkey Helper]] | — | — | Essential Plugin Pairings | 564 |
@@ -687,7 +687,7 @@ extraction_summary:
 | 54 | [[Attention Management]] | — | — | 🧭 Further Exploration | 651 |
 | 55 | [[Flow State]] | — | — | 🧭 Further Exploration | 651 |
 | 56 | [[QuickAdd Macro Development]] | — | — | 🧭 Further Exploration | 653 |
-| 57 | [[Automation]] | — | — | 🧭 Further Exploration | 656 |
+| 57 | [[automation]] | — | — | 🧭 Further Exploration | 656 |
 | 58 | [[Template Systems]] | — | — | 🧭 Further Exploration | 656 |
 | 59 | [[Capture Workflows]] | — | — | 🧭 Further Exploration | 656 |
 | 60 | [[Mobile PKB Workflows]] | — | — | 🧭 Further Exploration | 658 |
@@ -773,7 +773,7 @@ Information Architecture:
 | --- | --- |
 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | Add QuickAdd capture macros to Left Ribbon for one-click note creation |
 | [[Templater]] | Place template insertion commands in Page Header for context-aware note scaffolding |
-| [[dataview]] | Add custom Dataview query execution commands to Right Ribbon for instant data analysis |
+| [[Dataview]] | Add custom Dataview query execution commands to Right Ribbon for instant data analysis |
 | [[Tasks]] | Populate Status Bar with task count indicators and quick task creation commands |
 | [[workspace]] | Use Title Bar for workspace switchers, creating mode-based command profiles |
 | [[Hotkey Helper]] | Combine visual Commander buttons with keyboard shortcuts for multi-modal access |
@@ -792,7 +792,7 @@ Information Architecture:
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[API Documentation]]
 - [[Attention Management]]
-- [[Automation]]
+- [[automation]]
 - [[Capture]]
 - [[Capture Workflows]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -803,7 +803,7 @@ Information Architecture:
 - [[Custom CSS]]
 - [[Daily Notes]]
 - [[Dataview]]
-- [[Day Planner]]
+- [[Day-Planner|Day Planner]]
 - [[Desktop Workflow]]
 - [[File Explorer]]
 - [[Flow State]]
@@ -836,11 +836,11 @@ Information Architecture:
 - [[Workspace]]
 - [[Workspace Architecture in Obsidian]]
 - [[Zettelkasten]]
-- [[canvas]]
+- [[Canvas]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
+- [[Dataview]]
 - [[hotkeys]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[workspace]]
 
 ---

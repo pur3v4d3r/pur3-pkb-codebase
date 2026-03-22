@@ -26,7 +26,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -66,6 +66,14 @@ see-also:
   - "[[Working-Memory|Working Memory]]"
   - "[[Skill-Acquisition|Skill Acquisition]]"
   - "[[Expertise]]"
+  - "[[Cognitive-Control|Cognitive Control]]"
+  - "[[Procedural-Memory|Procedural Memory]]"
+  - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
+  - "[[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]"
+  - "[[Attention|Attention]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Skill-Acquisition|Skill Acquisition]]"
+  - "[[Expertise|Expertise]]"
   - "[[Cognitive-Control|Cognitive Control]]"
   - "[[Procedural-Memory|Procedural Memory]]"
   - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
@@ -136,4 +144,8 @@ importance: medium
 
 **Related concepts** *(from cog-psy-attentional-efficiency-and-skill-aquisition.md)*:
 [[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
+
+**Related concepts** *(from cog-psy-attentional-efficiency-and-skill-aquisition.md)*:
+[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
+
 

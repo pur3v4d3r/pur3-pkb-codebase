@@ -17,7 +17,7 @@ domain: other
 subdomains:
   - 
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - self-regulated-learning-focused-analysis-2026-03-06
@@ -43,6 +43,14 @@ see-also:
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[PKB]]"
+  - "[[Forethought-Phase|Forethought Phase]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Paul-Pintrich|Paul Pintrich]]"
+  - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
+  - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
+  - "[[PKB|PKB]]"
   - "[[Forethought-Phase|Forethought Phase]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
@@ -193,6 +201,32 @@ importance: high
 
 **Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
 - [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Related concepts** *(from sdt-srl-comparative-synthesis-2026-03-19.md, self-regulated-learning-focused-analysis-2026-03-06.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Forethought-Phase|Forethought Phase]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+
+
+
+
+
 
 
 

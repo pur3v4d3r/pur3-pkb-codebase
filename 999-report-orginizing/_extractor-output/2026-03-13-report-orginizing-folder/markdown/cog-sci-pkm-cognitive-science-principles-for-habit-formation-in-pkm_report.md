@@ -176,7 +176,7 @@ extraction_summary:
 #### 8. [ATOMIC-CONCEPT] Untitled *(Line 76)*
 
 > [!atomic-concept] Untitled
-> **[[Dual-Process-Theory|Dual Process Theory]]** (most systematically articulated by [[Daniel Kahneman]] in *Thinking, Fast and Slow*, drawing on earlier work by [[Keith Stanovich]] and [[Richard West]]) distinguishes between **System 1** processing—fast, automatic, unconscious, and associative—and **System 2** processing—slow, deliberate, effortful, and rule-governed. System 1 operates continuously and draws on habitual patterns stored in long-term memory, including the procedural memory encoded in the basal ganglia. System 2 relies on working memory and is subject to the same capacity constraints that Sweller's Cognitive Load Theory describes. The strategic implication for PKM is unambiguous: *PKM practices that remain in System 2—that require conscious deliberation each time they are executed—compete directly with the cognitive resources needed for the knowledge work they are designed to support.*
+> **[[Dual-Process-Theory|Dual Process Theory]]** (most systematically articulated by [[Daniel-Kahneman|Daniel Kahneman]] in *Thinking, Fast and Slow*, drawing on earlier work by [[Keith-Stanovich|Keith Stanovich]] and [[Richard-West|Richard West]]) distinguishes between **System 1** processing—fast, automatic, unconscious, and associative—and **System 2** processing—slow, deliberate, effortful, and rule-governed. System 1 operates continuously and draws on habitual patterns stored in long-term memory, including the procedural memory encoded in the basal ganglia. System 2 relies on working memory and is subject to the same capacity constraints that Sweller's Cognitive Load Theory describes. The strategic implication for PKM is unambiguous: *PKM practices that remain in System 2—that require conscious deliberation each time they are executed—compete directly with the cognitive resources needed for the knowledge work they are designed to support.*
 
 #### 9. [ANALOGY] Untitled *(Line 83)*
 
@@ -225,7 +225,7 @@ extraction_summary:
 #### 17. [CONNECTIONS-AND-LINKS] Untitled *(Line 173)*
 
 > [!connections-and-links] Untitled
-> This section connects directly to the broader knowledge base on [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Self-Determination-Theory|Self-Determination Theory]], and [[William James's Habit Theory]]. The principle that habit automation frees System 2 resources for higher-order cognition maps precisely onto the [[PENCRISAL]] critical thinking framework's emphasis on executive metacognitive monitoring as a precondition for skilled reasoning. The connection to [[Dewey's Reflective Thinking]] is also significant: Dewey's call for systematic, habitual reflective practice anticipates the PKM review cycle as a structured instantiation of reflective inquiry applied to personal knowledge.
+> This section connects directly to the broader knowledge base on [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Self-Determination-Theory|Self-Determination Theory]], and [[William James's Habit Theory]]. The principle that habit automation frees System 2 resources for higher-order cognition maps precisely onto the [[PENCRISAL]] critical thinking framework's emphasis on executive metacognitive monitoring as a precondition for skilled reasoning. The connection to [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] is also significant: Dewey's call for systematic, habitual reflective practice anticipates the PKM review cycle as a structured instantiation of reflective inquiry applied to personal knowledge.
 
 #### 18. [EXAMPLE] Untitled *(Line 182)*
 
@@ -327,7 +327,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[AI Integration Principles for Cognitively Optimized PKM]]
-- [[Albert Bandura]]
+- [[Albert-Bandura|Albert Bandura]]
 - [[B.F. Skinner]]
 - [[B.J. Fogg]]
 - [[Barbara Knowlton]]
@@ -335,29 +335,29 @@ extraction_summary:
 - [[CODE]]
 - [[CREB]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Daniel Oppenheimer]]
-- [[Dewey's Reflective Thinking]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Dorothea Skeels]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Ebbinghaus Forgetting Curve Applied to PKM Systems]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Embodied Cognition and Hybrid Analog-Digital PKM]]
 - [[Flow State Architecture for Deep PKM Sessions]]
-- [[Francis Bacon]]
+- [[Francis-Bacon|Francis Bacon]]
 - [[Germane-Cognitive-Load|Germane cognitive load]]
-- [[Gottfried Wilhelm Leibniz]]
+- [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]]
 - [[Habit Stacking Protocols for Knowledge Workers]]
 - [[Habit stacking]]
 - [[Hand-writing research]]
 - [[Henry Yin]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Interconnected note-taking]]
 - [[John B. Watson]]
 - [[John Dewey's Reflective Thinking]]
-- [[John Sweller]]
-- [[Keith Stanovich]]
+- [[John-Sweller|John Sweller]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Knowledge Graph Architecture]]
 - [[Law of Effect]]
 - [[Linking Your Thinking]]
@@ -367,7 +367,7 @@ extraction_summary:
 - [[Mem.ai]]
 - [[Metacognition]]
 - [[Metacognitive Awareness Inventory]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[NMDA receptor]]
 - [[Nick Milo]]
 - [[Niklas Luhmann]]
@@ -383,8 +383,8 @@ extraction_summary:
 - [[Peter Drucker]]
 - [[Peter Gollwitzer]]
 - [[Rainer Kuhlen]]
-- [[Richard Ryan]]
-- [[Richard West]]
+- [[Richard-Ryan|Richard Ryan]]
+- [[Richard-West|Richard West]]
 - [[Roam Research]]
 - [[Second Brain Methodology]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -394,17 +394,17 @@ extraction_summary:
 - [[Tiago Forte]]
 - [[Vannevar Bush]]
 - [[Victoria Ward]]
-- [[William James]]
+- [[William-James|William James]]
 - [[William James's Habit Theory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method]]
 - [[adaptive PKM systems]]
 - [[associative memory]]
-- [[autonomy]]
+- [[Autonomy]]
 - [[basal ganglia]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[Communities-of-Practice|communities of practice]]
-- [[competence]]
+- [[Competence]]
 - [[desirable difficulty principle]]
 - [[digital friction]]
 - [[dopaminergic anticipation response]]
@@ -413,7 +413,7 @@ extraction_summary:
 - [[dorsolateral striatum]]
 - [[Dual-Process-Theory|dual process theory]]
 - [[Embodied-Cognition|embodied cognition]]
-- [[executive function]]
+- [[Executive-Function|executive function]]
 - [[flow states]]
 - [[Forgetting-Curve|forgetting curve]]
 - [[forgetting curve modeling]]
@@ -426,14 +426,14 @@ extraction_summary:
 - [[knowledge economy]]
 - [[knowledge tracing]]
 - [[knowledge workers]]
-- [[memory consolidation]]
+- [[Memory-Consolidation|memory consolidation]]
 - [[Metacognitive-Monitoring|metacognitive monitoring]]
 - [[metacognitive science]]
 - [[neurofeedback]]
 - [[organizational knowledge management]]
 - [[pattern recognition]]
 - [[prefrontal cortex]]
-- [[relatedness]]
+- [[Relatedness]]
 - [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]]
 - [[routine installation]]
 - [[schema activation]]
@@ -463,7 +463,7 @@ extraction_summary:
 | 8 | [[prefrontal cortex]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 9 | [[hippocampus]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
-| 11 | [[John Sweller]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
+| 11 | [[John-Sweller|John Sweller]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
 | 12 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
 | 13 | [[Working-Memory|working memory]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
 | 14 | [[PKM systems]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 25 |
@@ -472,8 +472,8 @@ extraction_summary:
 | 17 | [[Zettelkasten]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 30 |
 | 18 | [[basal ganglia]] | — | — | 📜 Phase 2: Historical Foundations — P... | 37 |
 | 19 | [[dopaminergic reward system]] | — | — | 📜 Phase 2: Historical Foundations — P... | 37 |
-| 20 | [[Francis Bacon]] | — | — | The Knowledge Management Tradition | 41 |
-| 21 | [[Gottfried Wilhelm Leibniz]] | — | — | The Knowledge Management Tradition | 41 |
+| 20 | [[Francis-Bacon|Francis Bacon]] | — | — | The Knowledge Management Tradition | 41 |
+| 21 | [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] | — | — | The Knowledge Management Tradition | 41 |
 | 22 | [[Vannevar Bush]] | — | — | The Knowledge Management Tradition | 43 |
 | 23 | [[Obsidian]] | — | — | The Knowledge Management Tradition | 43 |
 | 24 | [[Roam Research]] | — | — | The Knowledge Management Tradition | 43 |
@@ -491,14 +491,14 @@ extraction_summary:
 | 36 | [[Sönke Ahrens]] | — | — | The Knowledge Management Tradition | 48 |
 | 37 | [[Nick Milo]] | — | — | The Knowledge Management Tradition | 48 |
 | 38 | [[Linking Your Thinking]] | — | — | The Knowledge Management Tradition | 48 |
-| 39 | [[William James]] | — | — | The Habit Science Tradition | 52 |
+| 39 | [[William-James|William James]] | — | — | The Habit Science Tradition | 52 |
 | 40 | [[Edward-Thorndike|Edward Thorndike]] | — | — | The Habit Science Tradition | 54 |
 | 41 | [[Law of Effect]] | — | — | The Habit Science Tradition | 54 |
 | 42 | [[Behaviorism]] | — | — | The Habit Science Tradition | 54 |
 | 43 | [[John B. Watson]] | — | — | The Habit Science Tradition | 54 |
 | 44 | [[B.F. Skinner]] | — | — | The Habit Science Tradition | 54 |
 | 45 | [[social cognitive theory]] | — | — | The Habit Science Tradition | 54 |
-| 46 | [[Albert Bandura]] | — | — | The Habit Science Tradition | 54 |
+| 46 | [[Albert-Bandura|Albert Bandura]] | — | — | The Habit Science Tradition | 54 |
 | 47 | [[basal ganglia]] | — | — | The Habit Science Tradition | 56 |
 | 48 | [[striatum]] | — | — | The Habit Science Tradition | 56 |
 | 49 | [[prefrontal cortex]] | — | — | The Habit Science Tradition | 56 |
@@ -512,17 +512,17 @@ extraction_summary:
 | 57 | [[NMDA receptor]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 58 | [[MAPK]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 59 | [[CREB]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
-| 60 | [[executive function]] | — | — | The Habit Loop and Its PKM Instantiation | 72 |
+| 60 | [[Executive-Function|executive function]] | — | — | The Habit Loop and Its PKM Instantiation | 72 |
 | 61 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual Process Theory and the Automatio... | 77 |
-| 62 | [[Daniel Kahneman]] | — | — | Dual Process Theory and the Automatio... | 77 |
-| 63 | [[Keith Stanovich]] | — | — | Dual Process Theory and the Automatio... | 77 |
-| 64 | [[Richard West]] | — | — | Dual Process Theory and the Automatio... | 77 |
+| 62 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Dual Process Theory and the Automatio... | 77 |
+| 63 | [[Keith-Stanovich|Keith Stanovich]] | — | — | Dual Process Theory and the Automatio... | 77 |
+| 64 | [[Richard-West|Richard West]] | — | — | Dual Process Theory and the Automatio... | 77 |
 | 65 | [[Habit stacking]] | — | — | Dual Process Theory and the Automatio... | 81 |
 | 66 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and PKM System ... | 88 |
 | 67 | [[Germane-Cognitive-Load|Germane cognitive load]] | — | — | Cognitive Load Theory and PKM System ... | 93 |
 | 68 | [[dopaminergic anticipation response]] | — | — | The Four-Stage PKM Workflow and Its H... | 103 |
 | 69 | [[Working-Memory|working memory]] | — | — | The Four-Stage PKM Workflow and Its H... | 108 |
-| 70 | [[executive function]] | — | — | The Four-Stage PKM Workflow and Its H... | 108 |
+| 70 | [[Executive-Function|executive function]] | — | — | The Four-Stage PKM Workflow and Its H... | 108 |
 | 71 | [[associative memory]] | — | — | The Four-Stage PKM Workflow and Its H... | 110 |
 | 72 | [[Interconnected note-taking]] | — | — | The Four-Stage PKM Workflow and Its H... | 110 |
 | 73 | [[pattern recognition]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
@@ -533,21 +533,21 @@ extraction_summary:
 | 78 | [[B.J. Fogg]] | — | — | Implementation Intentions and Environ... | 126 |
 | 79 | [[digital friction]] | — | — | Implementation Intentions and Environ... | 126 |
 | 80 | [[Spaced-Repetition-Spacing-Effect|spaced repetition]] | — | — | Spaced Repetition and the Science of ... | 134 |
-| 81 | [[Hermann Ebbinghaus]] | — | — | Spaced Repetition and the Science of ... | 134 |
+| 81 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | Spaced Repetition and the Science of ... | 134 |
 | 82 | [[Forgetting-Curve|forgetting curve]] | — | — | Spaced Repetition and the Science of ... | 134 |
 | 83 | [[desirable difficulty principle]] | — | — | Spaced Repetition and the Science of ... | 136 |
-| 84 | [[memory consolidation]] | — | — | Spaced Repetition and the Science of ... | 136 |
+| 84 | [[Memory-Consolidation|memory consolidation]] | — | — | Spaced Repetition and the Science of ... | 136 |
 | 85 | [[Testing-Effect|testing effect]] | — | — | Spaced Repetition and the Science of ... | 141 |
 | 86 | [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]] | — | — | Spaced Repetition and the Science of ... | 141 |
 | 87 | [[habit clusters]] | — | — | Habit Formation Timelines and Individ... | 148 |
 | 88 | [[routine installation]] | — | — | Habit Formation Timelines and Individ... | 148 |
 | 89 | [[temporal chunking]] | — | — | Habit Formation Timelines and Individ... | 148 |
 | 90 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Motivation, Self-Determination Theory... | 152 |
-| 91 | [[Edward Deci]] | — | — | Motivation, Self-Determination Theory... | 152 |
-| 92 | [[Richard Ryan]] | — | — | Motivation, Self-Determination Theory... | 152 |
-| 93 | [[autonomy]] | — | — | Motivation, Self-Determination Theory... | 152 |
-| 94 | [[competence]] | — | — | Motivation, Self-Determination Theory... | 152 |
-| 95 | [[relatedness]] | — | — | Motivation, Self-Determination Theory... | 152 |
+| 91 | [[Edward-Deci|Edward Deci]] | — | — | Motivation, Self-Determination Theory... | 152 |
+| 92 | [[Richard-Ryan|Richard Ryan]] | — | — | Motivation, Self-Determination Theory... | 152 |
+| 93 | [[Autonomy]] | — | — | Motivation, Self-Determination Theory... | 152 |
+| 94 | [[Competence]] | — | — | Motivation, Self-Determination Theory... | 152 |
+| 95 | [[Relatedness]] | — | — | Motivation, Self-Determination Theory... | 152 |
 | 96 | [[Communities-of-Practice|communities of practice]] | — | — | Motivation, Self-Determination Theory... | 154 |
 | 97 | [[Metacognition]] | — | — | The Role of Metacognition in Sustaini... | 169 |
 | 98 | [[Metacognitive-Monitoring|metacognitive monitoring]] | — | — | The Role of Metacognition in Sustaini... | 169 |
@@ -559,7 +559,7 @@ extraction_summary:
 | 104 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Role of Metacognition in Sustaini... | 174 |
 | 105 | [[William James's Habit Theory]] | — | — | The Role of Metacognition in Sustaini... | 174 |
 | 106 | [[PENCRISAL]] | — | — | The Role of Metacognition in Sustaini... | 174 |
-| 107 | [[Dewey's Reflective Thinking]] | — | — | The Role of Metacognition in Sustaini... | 174 |
+| 107 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | — | — | The Role of Metacognition in Sustaini... | 174 |
 | 108 | [[Obsidian]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 191 |
 | 109 | [[Mem.ai]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 191 |
 | 110 | [[Zone-of-Proximal-Development|zone of proximal development]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 193 |
@@ -568,7 +568,7 @@ extraction_summary:
 | 113 | [[forgetting curve modeling]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 196 |
 | 114 | [[PKM system design]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 196 |
 | 115 | [[flow states]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
-| 116 | [[Mihaly Csikszentmihalyi]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
+| 116 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
 | 117 | [[theta wave]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
 | 118 | [[neurofeedback]] | — | — | Neurofeedback and Flow State Optimiza... | 202 |
 | 119 | [[Embodied-Cognition|embodied cognition]] | — | — | The Embodied Dimension of PKM Habit F... | 206 |
@@ -648,7 +648,7 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[AI Integration Principles for Cognitively Optimized PKM]]
-- [[Albert Bandura]]
+- [[Albert-Bandura|Albert Bandura]]
 - [[B.F. Skinner]]
 - [[B.J. Fogg]]
 - [[Barbara Knowlton]]
@@ -656,29 +656,29 @@ $$
 - [[CODE]]
 - [[CREB]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Daniel Oppenheimer]]
-- [[Dewey's Reflective Thinking]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Dorothea Skeels]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Ebbinghaus Forgetting Curve Applied to PKM Systems]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Embodied Cognition and Hybrid Analog-Digital PKM]]
 - [[Flow State Architecture for Deep PKM Sessions]]
-- [[Francis Bacon]]
+- [[Francis-Bacon|Francis Bacon]]
 - [[Germane-Cognitive-Load|Germane cognitive load]]
-- [[Gottfried Wilhelm Leibniz]]
+- [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]]
 - [[Habit Stacking Protocols for Knowledge Workers]]
 - [[Habit stacking]]
 - [[Hand-writing research]]
 - [[Henry Yin]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Interconnected note-taking]]
 - [[John B. Watson]]
 - [[John Dewey's Reflective Thinking]]
-- [[John Sweller]]
-- [[Keith Stanovich]]
+- [[John-Sweller|John Sweller]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Knowledge Graph Architecture]]
 - [[Law of Effect]]
 - [[Linking Your Thinking]]
@@ -688,7 +688,7 @@ $$
 - [[Mem.ai]]
 - [[Metacognition]]
 - [[Metacognitive Awareness Inventory]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[NMDA receptor]]
 - [[Nick Milo]]
 - [[Niklas Luhmann]]
@@ -704,8 +704,8 @@ $$
 - [[Peter Drucker]]
 - [[Peter Gollwitzer]]
 - [[Rainer Kuhlen]]
-- [[Richard Ryan]]
-- [[Richard West]]
+- [[Richard-Ryan|Richard Ryan]]
+- [[Richard-West|Richard West]]
 - [[Roam Research]]
 - [[Second Brain Methodology]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -715,17 +715,17 @@ $$
 - [[Tiago Forte]]
 - [[Vannevar Bush]]
 - [[Victoria Ward]]
-- [[William James]]
+- [[William-James|William James]]
 - [[William James's Habit Theory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method]]
 - [[adaptive PKM systems]]
 - [[associative memory]]
-- [[autonomy]]
+- [[Autonomy]]
 - [[basal ganglia]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[Communities-of-Practice|communities of practice]]
-- [[competence]]
+- [[Competence]]
 - [[desirable difficulty principle]]
 - [[digital friction]]
 - [[dopaminergic anticipation response]]
@@ -734,7 +734,7 @@ $$
 - [[dorsolateral striatum]]
 - [[Dual-Process-Theory|dual process theory]]
 - [[Embodied-Cognition|embodied cognition]]
-- [[executive function]]
+- [[Executive-Function|executive function]]
 - [[flow states]]
 - [[Forgetting-Curve|forgetting curve]]
 - [[forgetting curve modeling]]
@@ -747,14 +747,14 @@ $$
 - [[knowledge economy]]
 - [[knowledge tracing]]
 - [[knowledge workers]]
-- [[memory consolidation]]
+- [[Memory-Consolidation|memory consolidation]]
 - [[Metacognitive-Monitoring|metacognitive monitoring]]
 - [[metacognitive science]]
 - [[neurofeedback]]
 - [[organizational knowledge management]]
 - [[pattern recognition]]
 - [[prefrontal cortex]]
-- [[relatedness]]
+- [[Relatedness]]
 - [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]]
 - [[routine installation]]
 - [[schema activation]]

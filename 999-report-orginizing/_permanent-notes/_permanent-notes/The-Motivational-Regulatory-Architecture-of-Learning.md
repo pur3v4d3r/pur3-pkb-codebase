@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-20
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,6 +43,7 @@ updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - "sdt-srl-comparative-synthesis-2026-03-19"
+  - "sdt-srl-comparative-synthesis-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -75,6 +76,14 @@ see-also:
   - "[[Barry-Zimmerman]]"
   - "[[Paul-Pintrich]]"
   - "[[Forethought-Phase]]"
+  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward-Deci]]"
+  - "[[Richard-Ryan|Richard-Ryan]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
+  - "[[Barry-Zimmerman|Barry-Zimmerman]]"
+  - "[[Paul-Pintrich|Paul-Pintrich]]"
+  - "[[Forethought-Phase|Forethought-Phase]]"
   - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -146,3 +155,11 @@ importance: high
 
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[Barry-Zimmerman]] · [[Paul-Pintrich]] · [[Forethought-Phase]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Self-Reflection-Phase]] · [[Autonomous-Motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Internalization]] · [[Autonomy]] · [[Zimmerman-SRL-Model]]
+
+**Related concepts** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Pintrich's-Motivational-Integration|Pintrich's-Motivational-Integration]] * [[Basic-Psychological-Needs|Basic-Psychological-Needs]] * [[Autonomy-Need|Autonomy-Need]] * [[Competence-Need|Competence-Need]] * [[Relatedness-Need|Relatedness-Need]] * [[Cognitive-Evaluation-Theory|Cognitive-Evaluation-Theory]] * [[Organismic-Integration-Theory|Organismic-Integration-Theory]] * [[Internalization-Continuum|Internalization-Continuum]] * [[External-Regulation|External-Regulation]] * [[Introjected-Regulation|Introjected-Regulation]] * [[Identified-Regulation|Identified-Regulation]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+

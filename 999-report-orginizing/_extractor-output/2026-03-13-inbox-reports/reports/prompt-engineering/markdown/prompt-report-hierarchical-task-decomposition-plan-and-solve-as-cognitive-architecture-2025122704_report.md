@@ -399,7 +399,7 @@ extraction_summary:
 - [[Allen Newell]]
 - [[AutoGPT]]
 - [[BabyAGI]]
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chase and Simon (1973)]]
 - [[Classical Planning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -419,7 +419,7 @@ extraction_summary:
 - [[Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture]]
 - [[HuggingGPT]]
 - [[James Hendler]]
-- [[John Sweller]]
+- [[John-Sweller|John Sweller]]
 - [[Kutluhan Erol]]
 - [[LangChain]]
 - [[Learning-Hierarchical-Task-Networks-from-Demonstrations]]
@@ -441,10 +441,10 @@ extraction_summary:
 - [[Self-Ask]]
 - [[Text-Generator-Plugin|TGP]]
 - [[Temporal-and-Resource-Constrained-Planning]]
-- [[Tree of Thoughts]]
-- [[Tree of Thoughts (ToT)]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts (ToT)]]
 - [[Verification-and-Validation-of-Hierarchical-Plans]]
-- [[Wang et al. (2023)]]
+- [[Wang-et-al.|Wang et al. (2023)]]
 - [[Working-Memory-as-Architectural-Constraint]]
 - [[classical planning theory]]
 - [[Working-Memory|working memory]]
@@ -455,8 +455,8 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture**]] | — | — | Foundational Understanding | 101 |
 | 2 | [[ReAct]] | — | — | Foundational Understanding | 114 |
-| 3 | [[Tree of Thoughts]] | — | — | Foundational Understanding | 114 |
-| 4 | [[Chain of Thought]] | — | — | Foundational Understanding | 114 |
+| 3 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Foundational Understanding | 114 |
+| 4 | [[Chain-of-Thought|Chain of Thought]] | — | — | Foundational Understanding | 114 |
 | 5 | [[Agentic Reasoning]] | — | — | Foundational Understanding | 114 |
 | 6 | [[General Problem Solver]] | — | — | Foundational Understanding | 115 |
 | 7 | [[Means-Ends Analysis]] | — | — | Foundational Understanding | 115 |
@@ -470,7 +470,7 @@ extraction_summary:
 | 15 | [[Cowan's Capacity Limit]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 16 | [[Miller's 7±2]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 17 | [[Chase and Simon (1973)]] | — | — | The Human Problem-Solving Heritage | 165 |
-| 18 | [[John Sweller]] | — | — | Cognitive Load Theory and Decompositi... | 189 |
+| 18 | [[John-Sweller|John Sweller]] | — | — | Cognitive Load Theory and Decompositi... | 189 |
 | 19 | [[Working-Memory-as-Architectural-Constraint]] | — | — | From Human Cognition to Computational... | 263 |
 | 20 | [[Goal-Regression-Efficiency]] | — | — | From Human Cognition to Computational... | 264 |
 | 21 | [[Abstraction-Hierarchy-Necessity]] | — | — | From Human Cognition to Computational... | 265 |
@@ -496,10 +496,10 @@ extraction_summary:
 | 41 | [[Contingent Planning]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
 | 42 | [[Online Planning]] | — | — | Modern Extensions: Temporal, Probabil... | 534 |
 | 43 | [[Execution Monitoring]] | — | — | Modern Extensions: Temporal, Probabil... | 534 |
-| 44 | [[Wang et al. (2023)]] | — | — | Plan-and-Solve Prompting | 620 |
+| 44 | [[Wang-et-al.|Wang et al. (2023)]] | — | — | Plan-and-Solve Prompting | 620 |
 | 45 | [[Self-Ask]] | — | — | Self-Ask Decomposition | 694 |
 | 46 | [[Press et al. (2022)]] | — | — | Self-Ask Decomposition | 694 |
-| 47 | [[Tree of Thoughts (ToT)]] | — | — | Tree of Thoughts for Hierarchical Pla... | 756 |
+| 47 | [[Tree-of-Thoughts|Tree of Thoughts (ToT)]] | — | — | Tree of Thoughts for Hierarchical Pla... | 756 |
 | 48 | [[HuggingGPT]] | — | — | HuggingGPT: Explicit Task Decompositi... | 1315 |
 | 49 | [[AutoGPT]] | — | — | AutoGPT: Iterative Decomposition with... | 1432 |
 | 50 | [[BabyAGI]] | — | — | BabyAGI: Minimalist Hierarchical Task... | 1516 |
@@ -2389,7 +2389,7 @@ graph TD
 - [[Allen Newell]]
 - [[AutoGPT]]
 - [[BabyAGI]]
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chase and Simon (1973)]]
 - [[Classical Planning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -2409,7 +2409,7 @@ graph TD
 - [[Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture]]
 - [[HuggingGPT]]
 - [[James Hendler]]
-- [[John Sweller]]
+- [[John-Sweller|John Sweller]]
 - [[Kutluhan Erol]]
 - [[LangChain]]
 - [[Learning-Hierarchical-Task-Networks-from-Demonstrations]]
@@ -2431,10 +2431,10 @@ graph TD
 - [[Self-Ask]]
 - [[Text-Generator-Plugin|TGP]]
 - [[Temporal-and-Resource-Constrained-Planning]]
-- [[Tree of Thoughts]]
-- [[Tree of Thoughts (ToT)]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts (ToT)]]
 - [[Verification-and-Validation-of-Hierarchical-Plans]]
-- [[Wang et al. (2023)]]
+- [[Wang-et-al.|Wang et al. (2023)]]
 - [[Working-Memory-as-Architectural-Constraint]]
 - [[classical planning theory]]
 - [[Working-Memory|working memory]]

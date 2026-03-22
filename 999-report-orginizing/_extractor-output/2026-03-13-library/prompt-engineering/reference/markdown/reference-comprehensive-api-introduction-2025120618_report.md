@@ -413,7 +413,7 @@ extraction_summary:
 > ├─ Agent architectures for research workflows
 > └─ Local LLM integration (Ollama)
 > **WIKI-LINK OPPORTUNITIES IDENTIFIED:**
-> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree of Thoughts]], [[Self-Consistency]], [[Constitutional AI]], [[RLHF]], [[Fine-tuning]], [[Few-shot Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic Search]], [[Knowledge Graphs]], [[Obsidian Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
+> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], [[Self-Consistency]], [[Constitutional AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning|Few-shot Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search|Semantic Search]], [[Knowledge Graphs]], [[Obsidian Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] - Executive overview
 > - [!important] - Cost considerations and breaking points
@@ -451,7 +451,7 @@ extraction_summary:
 > [!abstract] Untitled
 > **Executive Overview**
 > 
-> This comprehensive reference examines the transition from subscription-based chat interfaces to [[API-Based LLM]] usage, providing detailed analysis of economic models, technical implementation strategies, and agentic workflow considerations. It synthesizes pricing structures across major [[LLM Providers]] ([[OpenAI]], [[Anthropic]], [[Google Gemini]]), explores Python-based tooling ecosystems, and evaluates integration patterns for advanced users pursuing systematic knowledge work with [[Local LLM]] capabilities.
+> This comprehensive reference examines the transition from subscription-based chat interfaces to [[API-Based LLM]] usage, providing detailed analysis of economic models, technical implementation strategies, and agentic workflow considerations. It synthesizes pricing structures across major [[LLM Providers]] ([[OpenAI]], [[Anthropic]], [[Google-Gemini|Google Gemini]]), explores Python-based tooling ecosystems, and evaluates integration patterns for advanced users pursuing systematic knowledge work with [[Local LLM]] capabilities.
 
 #### 6. [HOW-TO-USE-THIS] Untitled *(Line 236)*
 
@@ -626,7 +626,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **Orchestration Framework**: Libraries like [[LangChain]] or [[LlamaIndex]] providing abstractions for complex LLM workflows
-> - **Vector Database**: Specialized storage for [[Embeddings]] enabling [[Semantic Search]]
+> - **Vector Database**: Specialized storage for [[Embeddings]] enabling [[Semantic-Search|Semantic Search]]
 > - **Prompt Management**: Systems for versioning, testing, and optimizing prompt templates
 
 #### 19. [HELPFUL-TIP] Untitled *(Line 837)*
@@ -907,7 +907,7 @@ extraction_summary:
 - [[Batch Processing]]
 - [[Chain-of-Thought]]
 - [[ChatGPT Plus]]
-- [[Claude API]]
+- [[Claude-API|Claude API]]
 - [[Claude Haiku]]
 - [[Claude Opus]]
 - [[Claude Pro]]
@@ -929,8 +929,8 @@ extraction_summary:
 - [[Error Handling]]
 - [[Exponential Backoff]]
 - [[Extended Context Windows]]
-- [[Few-Shot Learning]]
-- [[Few-shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-shot Learning]]
 - [[Feynman Technique]]
 - [[Fine-tuning]]
 - [[Function Calling]]
@@ -946,7 +946,7 @@ extraction_summary:
 - [[Gemini API]]
 - [[Generation-Effect|Generation Effect]]
 - [[Google AI API]]
-- [[Google Gemini]]
+- [[Google-Gemini|Google Gemini]]
 - [[Google GenerativeAI]]
 - [[Guidance]]
 - [[HTTP POST]]
@@ -990,7 +990,7 @@ extraction_summary:
 - [[OpenAI API]]
 - [[OpenAI Python]]
 - [[Output Tokens]]
-- [[Paul-Elder Critical Thinking Framework]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Postman]]
 - [[Prompt Caching]]
 - [[Prompt Flow]]
@@ -1012,11 +1012,11 @@ extraction_summary:
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Retrieval-Augmented Generation Architectures for Obsidian Vaults]]
 - [[Retry Logic]]
-- [[Richard Feynman]]
+- [[Richard-Feynman|Richard Feynman]]
 - [[Self-Consistency]]
 - [[Semantic Caching]]
 - [[Semantic Kernel]]
-- [[Semantic Search]]
+- [[Semantic-Search|Semantic Search]]
 - [[Sliding Window]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Speculative Decoding]]
@@ -1035,8 +1035,8 @@ extraction_summary:
 - [[Tool Definitions]]
 - [[Tool Use]]
 - [[Top-p Sampling]]
-- [[Tree of Thoughts]]
-- [[VS Code]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
+- [[VS-Code|VS Code]]
 - [[VSCode Extensions]]
 - [[Vector Databases]]
 - [[Web Search]]
@@ -1109,17 +1109,17 @@ extraction_summary:
 | 55 | [[Agent Protocols]] | — | — | API LLM Adoption | 195 |
 | 56 | [[ReAct Pattern]] | — | — | API LLM Adoption | 195 |
 | 57 | [[Chain-of-Thought]] | — | — | API LLM Adoption | 195 |
-| 58 | [[Tree of Thoughts]] | — | — | API LLM Adoption | 195 |
+| 58 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | API LLM Adoption | 195 |
 | 59 | [[Self-Consistency]] | — | — | API LLM Adoption | 195 |
 | 60 | [[Constitutional AI]] | — | — | API LLM Adoption | 195 |
 | 61 | [[RLHF]] | — | — | API LLM Adoption | 195 |
 | 62 | [[Fine-tuning]] | — | — | API LLM Adoption | 195 |
-| 63 | [[Few-shot Learning]] | — | — | API LLM Adoption | 195 |
+| 63 | [[Few-Shot-Learning|Few-shot Learning]] | — | — | API LLM Adoption | 195 |
 | 64 | [[Zero-shot Learning]] | — | — | API LLM Adoption | 195 |
 | 65 | [[Embeddings]] | — | — | API LLM Adoption | 195 |
 | 66 | [[Vector Databases]] | — | — | API LLM Adoption | 195 |
 | 67 | [[RAG Systems]] | — | — | API LLM Adoption | 195 |
-| 68 | [[Semantic Search]] | — | — | API LLM Adoption | 195 |
+| 68 | [[Semantic-Search|Semantic Search]] | — | — | API LLM Adoption | 195 |
 | 69 | [[Knowledge Graphs]] | — | — | API LLM Adoption | 195 |
 | 70 | [[Obsidian Dataview]] | — | — | API LLM Adoption | 195 |
 | 71 | [[Templater]] | — | — | API LLM Adoption | 195 |
@@ -1137,7 +1137,7 @@ extraction_summary:
 | 83 | [[LLM Providers]] | — | — | API LLM Adoption | 234 |
 | 84 | [[OpenAI]] | — | — | API LLM Adoption | 234 |
 | 85 | [[Anthropic]] | — | — | API LLM Adoption | 234 |
-| 86 | [[Google Gemini]] | — | — | API LLM Adoption | 234 |
+| 86 | [[Google-Gemini|Google Gemini]] | — | — | API LLM Adoption | 234 |
 | 87 | [[Local LLM]] | — | — | API LLM Adoption | 234 |
 | 88 | [[wiki-links]] | — | — | API LLM Adoption | 239 |
 | 89 | [[Token Consumption]] | — | — | 1️⃣ Economic Models: Subscription vs ... | 257 |
@@ -1161,7 +1161,7 @@ extraction_summary:
 | 107 | [[GPT-5]] | — | — | Provider-Specific Economic Characteri... | 287 |
 | 108 | [[Semantic Caching]] | — | — | Provider-Specific Economic Characteri... | 287 |
 | 109 | [[Batch API]] | — | — | Provider-Specific Economic Characteri... | 287 |
-| 110 | [[Claude API]] | — | — | Provider-Specific Economic Characteri... | 289 |
+| 110 | [[Claude-API|Claude API]] | — | — | Provider-Specific Economic Characteri... | 289 |
 | 111 | [[Claude Haiku]] | — | — | Provider-Specific Economic Characteri... | 289 |
 | 112 | [[Claude Sonnet]] | — | — | Provider-Specific Economic Characteri... | 289 |
 | 113 | [[Claude Opus]] | — | — | Provider-Specific Economic Characteri... | 289 |
@@ -1208,7 +1208,7 @@ extraction_summary:
 | 154 | [[Streaming Responses]] | — | — | Direct Claude API call | 491 |
 | 155 | [[LiteLLM]] | — | — | OpenAI SDK | 528 |
 | 156 | [[AISuite]] | — | — | Or Gemini | 552 |
-| 157 | [[VS Code]] | — | — | Windows Development Environment Setup | 618 |
+| 157 | [[VS-Code|VS Code]] | — | — | Windows Development Environment Setup | 618 |
 | 158 | [[Jupyter Lab]] | — | — | Windows Development Environment Setup | 621 |
 | 159 | [[PyCharm]] | — | — | Windows Development Environment Setup | 624 |
 | 160 | [[Cursor]] | — | — | Windows Development Environment Setup | 629 |
@@ -1216,7 +1216,7 @@ extraction_summary:
 | 162 | [[wiki-links]] | — | — | Request Structure & Message Roles | 645 |
 | 163 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Request Structure & Message Roles | 653 |
 | 164 | [[Multi-turn Conversations]] | — | — | Request Structure & Message Roles | 665 |
-| 165 | [[Few-shot Learning]] | — | — | Request Structure & Message Roles | 665 |
+| 165 | [[Few-Shot-Learning|Few-shot Learning]] | — | — | Request Structure & Message Roles | 665 |
 | 166 | [[Prompt Caching]] | — | — | Request Structure & Message Roles | 670 |
 | 167 | [[wiki-link]] | — | — | Request Structure & Message Roles | 676 |
 | 168 | [[Streaming Responses]] | — | — | Streaming vs. Complete Responses | 695 |
@@ -1224,7 +1224,7 @@ extraction_summary:
 | 170 | [[LangChain]] | — | — | 4️⃣ Development Tooling Ecosystem | 771 |
 | 171 | [[LlamaIndex]] | — | — | 4️⃣ Development Tooling Ecosystem | 771 |
 | 172 | [[Embeddings]] | — | — | 4️⃣ Development Tooling Ecosystem | 772 |
-| 173 | [[Semantic Search]] | — | — | 4️⃣ Development Tooling Ecosystem | 772 |
+| 173 | [[Semantic-Search|Semantic Search]] | — | — | 4️⃣ Development Tooling Ecosystem | 772 |
 | 174 | [[LangChain]] | — | — | Core Framework Comparison | 779 |
 | 175 | [[LangGraph]] | — | — | Core Framework Comparison | 779 |
 | 176 | [[LangGraph]] | — | — | Core Framework Comparison | 783 |
@@ -1253,13 +1253,13 @@ extraction_summary:
 | 199 | [[Rate Limits]] | — | — | Usage | 1103 |
 | 200 | [[Exponential Backoff]] | — | — | Usage | 1109 |
 | 201 | [[System Messages]] | — | — | Architectural Differences: Chat UI vs... | 1134 |
-| 202 | [[Few-Shot Learning]] | — | — | Architectural Differences: Chat UI vs... | 1135 |
+| 202 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | Architectural Differences: Chat UI vs... | 1135 |
 | 203 | [[Message Array]] | — | — | Architectural Differences: Chat UI vs... | 1136 |
 | 204 | [[wiki-links]] | — | — | Architectural Differences: Chat UI vs... | 1146 |
 | 205 | [[wiki-links]] | — | — | Format | 1166 |
-| 206 | [[Paul-Elder Critical Thinking Framework]] | — | — | Reasoning Framework | 1190 |
+| 206 | [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] | — | — | Reasoning Framework | 1190 |
 | 207 | [[Feynman Technique]] | — | — | Foundational Concepts | 1234 |
-| 208 | [[Richard Feynman]] | — | — | Foundational Concepts | 1234 |
+| 208 | [[Richard-Feynman|Richard Feynman]] | — | — | Foundational Concepts | 1234 |
 | 209 | [[Generation-Effect|Generation Effect]] | — | — | Foundational Concepts | 1234 |
 | 210 | [[Prompt Caching]] | — | — | Inject examples before user query | 1253 |
 | 211 | [[wiki-linked]] | — | — | Step 3: Cross-References | 1272 |
@@ -1940,7 +1940,7 @@ FEW_SHOT_EXAMPLES = [
 
 ## Foundational Concepts
 
-The [[Feynman Technique]] emerged from physicist [[Richard Feynman]]'s approach to mastering complex subjects through teaching. The method exploits the [[Generation-Effect|Generation Effect]]—the finding that actively producing information strengthens memory more than passive review...
+The [[Feynman Technique]] emerged from physicist [[Richard-Feynman|Richard Feynman]]'s approach to mastering complex subjects through teaching. The method exploits the [[Generation-Effect|Generation Effect]]—the finding that actively producing information strengthens memory more than passive review...
 
 [Full exemplar note continues with proper structure, wiki-links, callouts, depth]"""
     }
@@ -2685,7 +2685,7 @@ for (let letter of sortedLetters) {
 - [[Batch Processing]]
 - [[Chain-of-Thought]]
 - [[ChatGPT Plus]]
-- [[Claude API]]
+- [[Claude-API|Claude API]]
 - [[Claude Haiku]]
 - [[Claude Opus]]
 - [[Claude Pro]]
@@ -2707,8 +2707,8 @@ for (let letter of sortedLetters) {
 - [[Error Handling]]
 - [[Exponential Backoff]]
 - [[Extended Context Windows]]
-- [[Few-Shot Learning]]
-- [[Few-shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-shot Learning]]
 - [[Feynman Technique]]
 - [[Fine-tuning]]
 - [[Function Calling]]
@@ -2724,7 +2724,7 @@ for (let letter of sortedLetters) {
 - [[Gemini API]]
 - [[Generation-Effect|Generation Effect]]
 - [[Google AI API]]
-- [[Google Gemini]]
+- [[Google-Gemini|Google Gemini]]
 - [[Google GenerativeAI]]
 - [[Guidance]]
 - [[HTTP POST]]
@@ -2768,7 +2768,7 @@ for (let letter of sortedLetters) {
 - [[OpenAI API]]
 - [[OpenAI Python]]
 - [[Output Tokens]]
-- [[Paul-Elder Critical Thinking Framework]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Postman]]
 - [[Prompt Caching]]
 - [[Prompt Flow]]
@@ -2790,11 +2790,11 @@ for (let letter of sortedLetters) {
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Retrieval-Augmented Generation Architectures for Obsidian Vaults]]
 - [[Retry Logic]]
-- [[Richard Feynman]]
+- [[Richard-Feynman|Richard Feynman]]
 - [[Self-Consistency]]
 - [[Semantic Caching]]
 - [[Semantic Kernel]]
-- [[Semantic Search]]
+- [[Semantic-Search|Semantic Search]]
 - [[Sliding Window]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Speculative Decoding]]
@@ -2813,8 +2813,8 @@ for (let letter of sortedLetters) {
 - [[Tool Definitions]]
 - [[Tool Use]]
 - [[Top-p Sampling]]
-- [[Tree of Thoughts]]
-- [[VS Code]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
+- [[VS-Code|VS Code]]
 - [[VSCode Extensions]]
 - [[Vector Databases]]
 - [[Web Search]]

@@ -187,7 +187,7 @@ extraction_summary:
 #### 5. [DEFINITION] Untitled *(Line 54)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[Prompt Engineering]]
+> - **Key-Term**:: [[Prompt-Engineering|Prompt Engineering]]
 > - **Definition**:: A prompt engineering technique that enhances the output of large language models, particularly for complex tasks involving multistep reasoning, by refining inputs (prompts) to achieve the most accurate model outputs through systematic design and iteration.
 
 #### 6. [KEY-CLAIM] Untitled *(Line 66)*
@@ -373,7 +373,7 @@ extraction_summary:
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Design]]
 - [[Prompt Design Lifecycle]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Evaluation Metrics]]
 - [[Prompt Engineering Evolution]]
 - [[Prompt Engineering for Domain-Specific Applications]]
@@ -392,7 +392,7 @@ extraction_summary:
 - [[breadth-first search]]
 - [[depth-first search]]
 - [[feed-forward networks]]
-- [[few-shot learning]]
+- [[Few-Shot-Learning|few-shot learning]]
 - [[frequency penalty]]
 - [[hierarchical reinforcement learning]]
 - [[key]]
@@ -420,7 +420,7 @@ extraction_summary:
 | 7 | [[Obsidian]] | — | — | Document Start | 29 |
 | 8 | [[wiki-links]] | — | — | Document Start | 33 |
 | 9 | [[prompt-engineering_📚comprehensive-reference_🆔20251110201114]] | Here | From Best Practices to Principled Practice | 📑 Table of Contents | 48 |
-| 10 | [[Prompt Engineering]] | — | — | 1️⃣ ⚙️ Foundational Concepts | 55 |
+| 10 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 1️⃣ ⚙️ Foundational Concepts | 55 |
 | 11 | [[natural language processing]] | — | — | The Conceptual Foundation of Prompt E... | 60 |
 | 12 | [[LLM]] | — | — | The Conceptual Foundation of Prompt E... | 60 |
 | 13 | [[Transformer Architecture]] | transformer-based models | — | The Conceptual Foundation of Prompt E... | 62 |
@@ -433,7 +433,7 @@ extraction_summary:
 | 20 | [[feed-forward networks]] | — | — | How Large Language Models Process Pro... | 80 |
 | 21 | [[Temperature Parameter]] | — | — | The Probabilistic Nature of LLM Respo... | 90 |
 | 22 | [[Context Windows]] | — | — | The Probabilistic Nature of LLM Respo... | 96 |
-| 23 | [[few-shot learning]] | — | — | Historical Evolution and Current Land... | 100 |
+| 23 | [[Few-Shot-Learning|few-shot learning]] | — | — | Historical Evolution and Current Land... | 100 |
 | 24 | [[zero-shot learning]] | — | — | Historical Evolution and Current Land... | 100 |
 | 25 | [[GPT-3]] | — | — | Historical Evolution and Current Land... | 100 |
 | 26 | [[Prompting Techniques]] | — | — | 2️⃣ 🎯 Core Prompting Techniques | 109 |
@@ -664,7 +664,7 @@ I'll now conduct thorough research to create this comprehensive reference note o
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Design]]
 - [[Prompt Design Lifecycle]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Evaluation Metrics]]
 - [[Prompt Engineering Evolution]]
 - [[Prompt Engineering for Domain-Specific Applications]]
@@ -683,7 +683,7 @@ I'll now conduct thorough research to create this comprehensive reference note o
 - [[breadth-first search]]
 - [[depth-first search]]
 - [[feed-forward networks]]
-- [[few-shot learning]]
+- [[Few-Shot-Learning|few-shot learning]]
 - [[frequency penalty]]
 - [[hierarchical reinforcement learning]]
 - [[key]]

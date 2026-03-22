@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -66,6 +66,14 @@ narrower:
 see-also:
   - "[[Aporic-Receptivity|Aporic Receptivity]]"
   - "[[Fallibilism]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
+  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
+  - "[[Intellectual-Virtue|Intellectual Virtue]]"
+  - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Executive-Function|Executive Function]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
+  - "[[Fallibilism|Fallibilism]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
   - "[[Intellectual-Virtue|Intellectual Virtue]]"
@@ -137,4 +145,8 @@ importance: high
 
 **Related concepts** *(from report-09-the-embodied-thinker.md)*:
 [[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Propatheiai|Propatheiai]]
+
+**Related concepts** *(from report-09-the-embodied-thinker.md)*:
+[[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Francisco-Varela|Francisco Varela]]
+
 

@@ -126,14 +126,14 @@ extraction_summary:
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 30)*
 
 > [!the-philosophy] Untitled
-> The central piece of "common knowledge" or "best practice" that will be deconstructed is this: **We believe that to overcome [[as]], we simply need to be *aware* of it.** We assume that reading a list of biases—like [[Confirmation-Bias-Myside-Bias|Confirmation Bias]], the [[Sunk Cost Fallacy]], or [[Anchoring Bias]]—and acknowledging their existence is sufficient to inoculate ourselves from their effects during a critical moment of [[decision-making]].
+> The central piece of "common knowledge" or "best practice" that will be deconstructed is this: **We believe that to overcome [[as]], we simply need to be *aware* of it.** We assume that reading a list of biases—like [[Confirmation-Bias-Myside-Bias|Confirmation Bias]], the [[Sunk Cost Fallacy]], or [[Anchoring Bias]]—and acknowledging their existence is sufficient to inoculate ourselves from their effects during a critical moment of [[Decision-Making]].
 
 #### 3. [ABSTRACT] Untitled *(Line 35)*
 
 > [!abstract] Untitled
 > This analysis challenges the deeply-held "common knowledge" that simple awareness of [[as]] is an effective strategy for preventing it. We will treat this belief as a cognitive artifact to be systematically deconstructed. This deconstruction will begin by identifying the core, unexamined assumptions this belief rests upon—namely, that [[Cognitive Distortions]] are conscious errors that can be overcome with willpower, and that "awareness" is a sufficient intervention.
 > 
-> We will then ignore this artifact and proceed to identify the true [[first principles]] of human cognition, primarily derived from [[Dual-Process-Theory|Dual-Process Theory]]. These "atoms" of thought—such as the law of [[Cognitive Miserliness]], the automaticity of [[System-1|System 1]], and the lazy, deliberate nature of [[System-2|System 2]]—will form our foundation. We will establish that biases are not conscious flaws but rather the *unconscious byproducts* of an otherwise efficient default processing system.
+> We will then ignore this artifact and proceed to identify the true [[first principles]] of human cognition, primarily derived from [[Dual-Process-Theory|Dual-Process Theory]]. These "atoms" of thought—such as the law of [[Cognitive-Miserliness|Cognitive Miserliness]], the automaticity of [[System-1|System 1]], and the lazy, deliberate nature of [[System-2|System 2]]—will form our foundation. We will establish that biases are not conscious flaws but rather the *unconscious byproducts* of an otherwise efficient default processing system.
 > 
 > From these fundamental truths, we will "rebuild" a new, more robust solution. This reconstructed model demonstrates that the only reliable way to safeguard against distortion is not through passive awareness, but through *active, structured, and externalized intervention*. This new model is the [[Metacognitive Checkpoint System]]—a framework of tools like [[Pre-Mortem Analysis]], [[Decision Journaling Protocols]], and [[Epistemic Spot Checks]]—which act as a "cognitive exoskeleton" to deliberately interrupt our flawed default state and *force* the engagement of higher-level reasoning.
 
@@ -147,7 +147,7 @@ extraction_summary:
 > [!pre-read-questions] Untitled
 > - *What is my* **current, unexamined belief** *about this topic?*
 >  
->      - My unexamined belief is that if I am "smart" and "rational," and I have read books like *[[Thinking, Fast and Slow]]*, I will be able to *notice* when a cognitive bias is affecting my judgment. I believe I can "catch myself" in the act of being biased and correct my own course, much like correcting a simple math error.
+>      - My unexamined belief is that if I am "smart" and "rational," and I have read books like *[[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]*, I will be able to *notice* when a cognitive bias is affecting my judgment. I believe I can "catch myself" in the act of being biased and correct my own course, much like correcting a simple math error.
 > 
 > - *Why do I believe this? Is it from* **direct evidence** *or from* **analogy** *(i.e., "everyone says so")?*
 >  
@@ -183,7 +183,7 @@ extraction_summary:
 > [!principle-point] Untitled
 > - **First Principle 1:** **[[The Law of Cognitive Miserliness (Dual-Process Theory)]]**
 >  
->       - This is the foundational truth, articulated most famously by [[Daniel Kahneman]]. The human brain is not a single, unified processor. It operates on two distinct systems. **[[System-1|System 1]]** is fast, automatic, intuitive, emotional, and always on. It handles 95% of our life, from recognizing faces to driving a car on an empty road. **[[System-2|System 2]]** is slow, deliberate, analytical, logical, and *lazy*. It is the system that solves complex math problems or parks a car in a tight space.
+>       - This is the foundational truth, articulated most famously by [[Daniel-Kahneman|Daniel Kahneman]]. The human brain is not a single, unified processor. It operates on two distinct systems. **[[System-1|System 1]]** is fast, automatic, intuitive, emotional, and always on. It handles 95% of our life, from recognizing faces to driving a car on an empty road. **[[System-2|System 2]]** is slow, deliberate, analytical, logical, and *lazy*. It is the system that solves complex math problems or parks a car in a tight space.
 > This is not a "bug"; it is a "feature." The brain evolved to be a **cognitive miser**—it *must* conserve energy. Therefore, it will *always* default to the low-effort [[System-1|System 1]] unless it is absolutely forced to mobilize the "expensive" [[System-2|System 2]]. Biases are the predictable "mental shortcuts" or heuristics that [[System-1|System 1]] uses to achieve this efficiency.
 > **Analogy:** [[System-1|System 1]] is the plane's autopilot, flying capably on its own. [[System-2|System 2]] is the human pilot, who is in the back reading a magazine. The pilot *only* comes to the cockpit when an alarm blares, signaling a problem the autopilot cannot handle.
 
@@ -231,7 +231,7 @@ extraction_summary:
 > [!phase-two] Untitled
 > **Building from Principle 3:** **[[Constructing the External Scaffolding]]**
 > - What does this "external scaffolding" (P3) look like? It is a *structured process* that forces [[Metacognition]]. This is where the specific frameworks mentioned in the prompt are not just "good ideas" but are the *logical engineering solutions* to the first-principles problem.
-> - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System-1|System 1]] "coherent story" of success), the scaffold is **[[Pre-Mortem Analysis]]**. This tool, developed by [[Gary Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System-1|System 1]] narrative and *engages* [[System-2|System 2]] to analytically find risks.
+> - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System-1|System 1]] "coherent story" of success), the scaffold is **[[Pre-Mortem Analysis]]**. This tool, developed by [[Gary-Klein|Gary Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System-1|System 1]] narrative and *engages* [[System-2|System 2]] to analytically find risks.
 > - If our problem is [[Hindsight-Bias|Hindsight Bias]] and a failure to learn from mistakes (a [[System-1|System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System-2|System 2]] review.
 > - If our problem is [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] (a [[System-1|System 1]] tendency to seek agreeable facts), the scaffold is an **[[Epistemic Spot Check]]**. This is a *mandatory* checklist (like the "TWED" mnemonic) that forces you to ask: "What is the *quality* of this evidence? What is the *strongest argument for the other side*? Have I actively tried to *disprove* my own hypothesis?" These questions are the *external* trigger to force [[System-2|System 2]] to do the hard work of analytical validation.
 
@@ -247,7 +247,7 @@ extraction_summary:
 
 > [!outcome] Untitled
 > **The Rebuilt Solution:**
-> - The new, rebuilt model is a **[[Metacognitive Checkpoint System]]**. This is a framework for [[decision-making]] and [[active learning]] that operates on the *assumption* of default bias. It is not a "cure" for bias, but a *prosthetic* for the mind. It is a "cognitive exoskeleton" that provides the structure, rigor, and "cognitive decoupling" that our [[System-2|System 2]] needs to function, but is too "lazy" to build on its own in real-time. This system is a designed set of *tools*—checklists, protocols, and mandatory questions—that are integrated into a workflow to *force* reflective pauses.
+> - The new, rebuilt model is a **[[Metacognitive Checkpoint System]]**. This is a framework for [[Decision-Making]] and [[active learning]] that operates on the *assumption* of default bias. It is not a "cure" for bias, but a *prosthetic* for the mind. It is a "cognitive exoskeleton" that provides the structure, rigor, and "cognitive decoupling" that our [[System-2|System 2]] needs to function, but is too "lazy" to build on its own in real-time. This system is a designed set of *tools*—checklists, protocols, and mandatory questions—that are integrated into a workflow to *force* reflective pauses.
 
 #### 18. [INSIGHT] Untitled *(Line 146)*
 
@@ -339,11 +339,11 @@ extraction_summary:
 - [[Bias Blind Spot]]
 - [[Choice Architecture]]
 - [[Cognitive Distortions]]
-- [[Cognitive Miserliness]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructing the External Scaffolding]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Decision Journaling Protocol]]
 - [[Decision Journaling Protocols]]
 - [[Deconstruction]]
@@ -353,7 +353,7 @@ extraction_summary:
 - [[Epistemic Spot Check]]
 - [[Epistemic Spot Checks]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Gary Klein]]
+- [[Gary-Klein|Gary Klein]]
 - [[Habit-Formation|Habit Formation]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Mental-Models]]
@@ -374,10 +374,10 @@ extraction_summary:
 - [[The Opaque Nature of Bias]]
 - [[The Opaque Nature of Bias (The Bias Blind Spot)]]
 - [[The belief that 'willpower' is the key to productivity]]
-- [[Thinking, Fast and Slow]]
+- [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]
 - [[active learning]]
 - [[as]]
-- [[decision-making]]
+- [[Decision-Making]]
 - [[first principles]]
 
 ### All Occurrences
@@ -388,19 +388,19 @@ extraction_summary:
 | 2 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Document Start | 31 |
 | 3 | [[Sunk Cost Fallacy]] | — | — | Document Start | 31 |
 | 4 | [[Anchoring Bias]] | — | — | Document Start | 31 |
-| 5 | [[decision-making]] | — | — | Document Start | 31 |
+| 5 | [[Decision-Making]] | — | — | Document Start | 31 |
 | 6 | [[as]] | — | — | Document Start | 36 |
 | 7 | [[Cognitive Distortions]] | — | — | Document Start | 36 |
 | 8 | [[first principles]] | — | — | Document Start | 38 |
 | 9 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Document Start | 38 |
-| 10 | [[Cognitive Miserliness]] | — | — | Document Start | 38 |
+| 10 | [[Cognitive-Miserliness|Cognitive Miserliness]] | — | — | Document Start | 38 |
 | 11 | [[System-1|System 1]] | — | — | Document Start | 38 |
 | 12 | [[System-2|System 2]] | — | — | Document Start | 38 |
 | 13 | [[Metacognitive Checkpoint System]] | — | — | Document Start | 40 |
 | 14 | [[Pre-Mortem Analysis]] | — | — | Document Start | 40 |
 | 15 | [[Decision Journaling Protocols]] | — | — | Document Start | 40 |
 | 16 | [[Epistemic Spot Checks]] | — | — | Document Start | 40 |
-| 17 | [[Thinking, Fast and Slow]] | — | — | 1.0 🧐 THE ARTIFACT: DECONSTRUCTING "C... | 50 |
+| 17 | [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] | — | — | 1.0 🧐 THE ARTIFACT: DECONSTRUCTING "C... | 50 |
 | 18 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 1.0 🧐 THE ARTIFACT: DECONSTRUCTING "C... | 54 |
 | 19 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 1.0 🧐 THE ARTIFACT: DECONSTRUCTING "C... | 59 |
 | 20 | [[Anchoring Bias]] | — | — | 1.0 🧐 THE ARTIFACT: DECONSTRUCTING "C... | 60 |
@@ -409,7 +409,7 @@ extraction_summary:
 | 23 | [[System-1|System 1]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 79 |
 | 24 | [[System-2|System 2]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 79 |
 | 25 | [[The Law of Cognitive Miserliness (Dual-Process Theory)]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
-| 26 | [[Daniel Kahneman]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 84 |
+| 26 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 84 |
 | 27 | [[System-1|System 1]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 84 |
 | 28 | [[System-2|System 2]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 84 |
 | 29 | [[System-1|System 1]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 85 |
@@ -440,7 +440,7 @@ extraction_summary:
 | 54 | [[Planning Fallacy]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
 | 55 | [[System-1|System 1]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
 | 56 | [[Pre-Mortem Analysis]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
-| 57 | [[Gary Klein]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
+| 57 | [[Gary-Klein|Gary Klein]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
 | 58 | [[System-1|System 1]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
 | 59 | [[System-2|System 2]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 126 |
 | 60 | [[Hindsight-Bias|Hindsight Bias]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 127 |
@@ -454,7 +454,7 @@ extraction_summary:
 | 68 | [[System-1|System 1]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 133 |
 | 69 | [[System-1|System 1]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 134 |
 | 70 | [[Metacognitive Checkpoint System]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
-| 71 | [[decision-making]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
+| 71 | [[Decision-Making]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
 | 72 | [[active learning]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
 | 73 | [[System-2|System 2]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
 | 74 | [[System-1|System 1]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 149 |
@@ -520,11 +520,11 @@ extraction_summary:
 - [[Bias Blind Spot]]
 - [[Choice Architecture]]
 - [[Cognitive Distortions]]
-- [[Cognitive Miserliness]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructing the External Scaffolding]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Decision Journaling Protocol]]
 - [[Decision Journaling Protocols]]
 - [[Deconstruction]]
@@ -534,7 +534,7 @@ extraction_summary:
 - [[Epistemic Spot Check]]
 - [[Epistemic Spot Checks]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Gary Klein]]
+- [[Gary-Klein|Gary Klein]]
 - [[Habit-Formation|Habit Formation]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Mental-Models]]
@@ -555,10 +555,10 @@ extraction_summary:
 - [[The Opaque Nature of Bias]]
 - [[The Opaque Nature of Bias (The Bias Blind Spot)]]
 - [[The belief that 'willpower' is the key to productivity]]
-- [[Thinking, Fast and Slow]]
+- [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]
 - [[active learning]]
 - [[as]]
-- [[decision-making]]
+- [[Decision-Making]]
 - [[first principles]]
 
 ---

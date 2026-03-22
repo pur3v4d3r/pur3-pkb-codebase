@@ -214,19 +214,19 @@ extraction_summary:
 > 7. Advanced automation possibilities
 > 8. Cross-application integration
 > **Wiki-Link Opportunities:**
-> - [[obsidian]]
+> - [[Obsidian]]
 > - [[URI Scheme]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[Zettelkasten]]
-> - [[quickadd]]
+> - [[QuickAdd]]
 > - [[Templater]]
-> - [[dataview]]
+> - [[Dataview]]
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 > - [[Active Recall]]
 > - [[Metacognition]]
 > - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-> - [[Automation]]
+> - [[automation]]
 > - [[Deep Linking]]
 > - [[Cross-Application Integration]]
 > - [[Workflow Optimization]]
@@ -368,7 +368,7 @@ extraction_summary:
 
 > [!helpful-tip] Untitled
 > **Plugin Command Integration**
-> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[quickadd]] macros, [[dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.
+> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[QuickAdd]] macros, [[Dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.
 
 #### 20. [DEFINITION] Untitled *(Line 459)*
 
@@ -409,7 +409,7 @@ extraction_summary:
 > [!the-philosophy] Untitled
 > **Underlying Philosophy**
 > 
-> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Extraneous Cognitive Load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.
+> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.
 
 #### 23. [ANALOGY] Untitled *(Line 567)*
 
@@ -514,14 +514,14 @@ extraction_summary:
 - [[Advanced URI]]
 - [[AutoHotkey]]
 - [[AutoHotkey Scripting for PKB Automation]]
-- [[Automation]]
+- [[automation]]
 - [[Behavioral Psychology]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to PKB Design]]
 - [[Cross-Application Integration]]
 - [[Deep Linking]]
-- [[Executive Function]]
-- [[Extraneous Cognitive Load]]
+- [[Executive-Function|Executive Function]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[GTD]]
 - [[Hook]]
 - [[Keyboard Maestro]]
@@ -539,30 +539,30 @@ extraction_summary:
 - [[Workflow Optimization]]
 - [[Working-Memory|Working Memory]]
 - [[X-Callback-URL]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
-- [[dataview]]
-- [[obsidian]]
-- [[quickadd]]
+- [[Dataview]]
+- [[Obsidian]]
+- [[QuickAdd]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Obsidian URI]] | — | — | Obsidian URI | 40 |
-| 2 | [[obsidian]] | — | — | 📊 Note Metadata Dashboard | 79 |
+| 2 | [[Obsidian]] | — | — | 📊 Note Metadata Dashboard | 79 |
 | 3 | [[URI Scheme]] | — | — | 📊 Note Metadata Dashboard | 80 |
 | 4 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 📊 Note Metadata Dashboard | 81 |
 | 5 | [[Zettelkasten]] | — | — | 📊 Note Metadata Dashboard | 82 |
-| 6 | [[quickadd]] | — | — | 📊 Note Metadata Dashboard | 83 |
+| 6 | [[QuickAdd]] | — | — | 📊 Note Metadata Dashboard | 83 |
 | 7 | [[Templater]] | — | — | 📊 Note Metadata Dashboard | 84 |
-| 8 | [[dataview]] | — | — | 📊 Note Metadata Dashboard | 85 |
+| 8 | [[Dataview]] | — | — | 📊 Note Metadata Dashboard | 85 |
 | 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📊 Note Metadata Dashboard | 86 |
 | 10 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 📊 Note Metadata Dashboard | 87 |
 | 11 | [[Active Recall]] | — | — | 📊 Note Metadata Dashboard | 88 |
 | 12 | [[Metacognition]] | — | — | 📊 Note Metadata Dashboard | 89 |
 | 13 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📊 Note Metadata Dashboard | 90 |
-| 14 | [[Automation]] | — | — | 📊 Note Metadata Dashboard | 91 |
+| 14 | [[automation]] | — | — | 📊 Note Metadata Dashboard | 91 |
 | 15 | [[Deep Linking]] | — | — | 📊 Note Metadata Dashboard | 92 |
 | 16 | [[Cross-Application Integration]] | — | — | 📊 Note Metadata Dashboard | 93 |
 | 17 | [[Workflow Optimization]] | — | — | 📊 Note Metadata Dashboard | 94 |
@@ -584,18 +584,18 @@ extraction_summary:
 | 33 | [[X-Callback-URL]] | — | — | Basic Syntax | 357 |
 | 34 | [[Advanced URI]] | — | — | ⚡ 3. Advanced URI Plugin - Extended C... | 365 |
 | 35 | [[Templater]] | — | — | Command Execution | 437 |
-| 36 | [[quickadd]] | — | — | Command Execution | 437 |
-| 37 | [[dataview]] | — | — | Command Execution | 437 |
-| 38 | [[YAML Frontmatter]] | — | — | Frontmatter Manipulation | 441 |
+| 36 | [[QuickAdd]] | — | — | Command Execution | 437 |
+| 37 | [[Dataview]] | — | — | Command Execution | 437 |
+| 38 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Frontmatter Manipulation | 441 |
 | 39 | [[GTD]] | — | — | Frontmatter Manipulation | 447 |
 | 40 | [[Actions URI]] | — | — | 🔗 4. Actions URI Plugin - X-Callback ... | 460 |
 | 41 | [[X-Callback-URL]] | — | — | 🔗 4. Actions URI Plugin - X-Callback ... | 461 |
-| 42 | [[Extraneous Cognitive Load]] | — | — | 🧠 6. Cognitive Science Applications | 563 |
+| 42 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | 🧠 6. Cognitive Science Applications | 563 |
 | 43 | [[Working-Memory|Working Memory]] | — | — | 6.1 Aligning with Working Memory Cons... | 570 |
 | 44 | [[Behavioral Psychology]] | — | — | 6.2 Leveraging Environmental Triggers | 584 |
 | 45 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 6.4 Metacognitive Scaffolding | 617 |
-| 46 | [[Executive Function]] | — | — | 6.5 Reducing Decision Fatigue | 621 |
-| 47 | [[quickadd]] | — | — | 7.1 QuickAdd Integration | 636 |
+| 46 | [[Executive-Function|Executive Function]] | — | — | 6.5 Reducing Decision Fatigue | 621 |
+| 47 | [[QuickAdd]] | — | — | 7.1 QuickAdd Integration | 636 |
 | 48 | [[Shell Commands]] | — | — | 7.5 Shell Commands Plugin | 679 |
 | 49 | [[AutoHotkey Scripting for PKB Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 790 |
 | 50 | [[Cognitive Load Theory Applied to PKB Design]] | — | — | 🔗 Related Topics for PKB Expansion | 795 |
@@ -940,14 +940,14 @@ Start-Process "obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals
 - [[Advanced URI]]
 - [[AutoHotkey]]
 - [[AutoHotkey Scripting for PKB Automation]]
-- [[Automation]]
+- [[automation]]
 - [[Behavioral Psychology]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to PKB Design]]
 - [[Cross-Application Integration]]
 - [[Deep Linking]]
-- [[Executive Function]]
-- [[Extraneous Cognitive Load]]
+- [[Executive-Function|Executive Function]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[GTD]]
 - [[Hook]]
 - [[Keyboard Maestro]]
@@ -965,11 +965,11 @@ Start-Process "obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals
 - [[Workflow Optimization]]
 - [[Working-Memory|Working Memory]]
 - [[X-Callback-URL]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
-- [[dataview]]
-- [[obsidian]]
-- [[quickadd]]
+- [[Dataview]]
+- [[Obsidian]]
+- [[QuickAdd]]
 
 ---
 

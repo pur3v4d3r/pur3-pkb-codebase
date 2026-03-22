@@ -208,7 +208,7 @@ extraction_summary:
 > **Standard Definitions:**
 > 
 >   - **[[Intrinsic-Motivation|Intrinsic Motivation]]:** Doing something because it is inherently interesting or enjoyable.
->   - **[[Extrinsic Motivation]]:** Doing something because it leads to a separable outcome.
+>   - **[[Extrinsic-Motivation|Extrinsic Motivation]]:** Doing something because it leads to a separable outcome.
 >   - **[[Internalization]]:** The process of taking in values from the outside world.
 
 #### 8. [WARNING] Untitled *(Line 94)*
@@ -537,7 +537,7 @@ extraction_summary:
 - [[Axiomatic Motivation]]
 - [[Cybernetics and Self-Regulation]]
 - [[Evolutionary Origins of Social Cohesion]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Organismic Integration Logic]]
@@ -552,7 +552,7 @@ extraction_summary:
 | 2 | [[Organismic Integration Logic]] | — | — | First Principles Reconstruction: Self... | 43 |
 | 3 | [[Axiomatic Motivation]] | — | — | First Principles Reconstruction: Self... | 43 |
 | 4 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 1.2 The Inherited Framework | 90 |
-| 5 | [[Extrinsic Motivation]] | — | — | 1.2 The Inherited Framework | 91 |
+| 5 | [[Extrinsic-Motivation|Extrinsic Motivation]] | — | — | 1.2 The Inherited Framework | 91 |
 | 6 | [[Internalization]] | — | — | 1.2 The Inherited Framework | 92 |
 | 7 | [[Thermodynamics of Psychology]] | — | — | 11.0 📚 References & Resources | 436 |
 | 8 | [[Evolutionary Origins of Social Cohesion]] | — | — | 11.0 📚 References & Resources | 437 |
@@ -633,7 +633,7 @@ graph TB
 - [[Axiomatic Motivation]]
 - [[Cybernetics and Self-Regulation]]
 - [[Evolutionary Origins of Social Cohesion]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Organismic Integration Logic]]

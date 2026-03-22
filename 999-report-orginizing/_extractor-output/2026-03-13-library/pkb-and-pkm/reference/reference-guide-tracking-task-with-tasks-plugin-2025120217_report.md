@@ -278,12 +278,12 @@ extraction_summary:
 >    - Debugging queries
 >    - Best practices
 > **Wiki-Link Opportunities:**
-> - [[Tasks Plugin]]
+> - [[Tasks-Plugin|Tasks Plugin]]
 > - [[Dataview-Plugin|Dataview Plugin]]
 > - [[Obsidian]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
-> - [[Task Management]]
-> - [[YAML Frontmatter]]
+> - [[Task-Management|Task Management]]
+> - [[YAML-Frontmatter|YAML Frontmatter]]
 > - [[Metadata-Driven Workflows]]
 > - [[Query Languages]]
 > - [[Templater Plugin]]
@@ -314,12 +314,12 @@ extraction_summary:
 #### 9. [THE-PURPOSE] Untitled *(Line 252)*
 
 > [!the-purpose] Untitled
-> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview-Plugin|Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
+> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks-Plugin|Tasks Plugin]] and [[Dataview-Plugin|Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task-Management|Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
 
 #### 10. [CORE-PRINCIPLE] Untitled *(Line 259)*
 
 > [!core-principle] Untitled
-> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview-Plugin|Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].
+> The [[Tasks-Plugin|Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview-Plugin|Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].
 
 #### 11. [HELPFUL-TIP] Untitled *(Line 267)*
 
@@ -929,7 +929,7 @@ extraction_summary:
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
-- [[Day Planner]]
+- [[Day-Planner|Day Planner]]
 - [[GTD (Getting Things Done)]]
 - [[GTD (Getting Things Done) Implementation in Obsidian]]
 - [[Inline Fields]]
@@ -940,25 +940,25 @@ extraction_summary:
 - [[Project Management in Obsidian]]
 - [[Query Languages]]
 - [[Recurrence Patterns]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Task Prioritization]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Query Language]]
 - [[Templater Plugin]]
 - [[Tracking Tasks with Tasks Plugin and Dataview]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Tracking Tasks with Tasks Plugin and Dataview]] | — | — | Tracking Tasks with Tasks Plugin and ... | 40 |
-| 2 | [[Tasks Plugin]] | — | — | Review System | 212 |
+| 2 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Review System | 212 |
 | 3 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Review System | 213 |
 | 4 | [[Obsidian]] | — | — | Review System | 214 |
 | 5 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Review System | 215 |
-| 6 | [[Task Management]] | — | — | Review System | 216 |
-| 7 | [[YAML Frontmatter]] | — | — | Review System | 217 |
+| 6 | [[Task-Management|Task Management]] | — | — | Review System | 216 |
+| 7 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Review System | 217 |
 | 8 | [[Metadata-Driven Workflows]] | — | — | Review System | 218 |
 | 9 | [[Query Languages]] | — | — | Review System | 219 |
 | 10 | [[Templater Plugin]] | — | — | Review System | 220 |
@@ -972,17 +972,17 @@ extraction_summary:
 | 18 | [[Recurrence Patterns]] | — | — | Review System | 228 |
 | 19 | [[Context-Based Productivity]] | — | — | Review System | 229 |
 | 20 | [[Obsidian]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
-| 21 | [[Tasks Plugin]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
+| 21 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
 | 22 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
-| 23 | [[Task Management]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
-| 24 | [[Tasks Plugin]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
+| 23 | [[Task-Management|Task Management]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
+| 24 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
 | 25 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
 | 26 | [[Project Management in Obsidian]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
 | 27 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 265 |
-| 28 | [[Tasks Plugin]] | — | — | Basic Task Syntax | 317 |
+| 28 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Basic Task Syntax | 317 |
 | 29 | [[Templater Plugin]] | — | — | Templater Integration | 805 |
 | 30 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Principle 3: Context Over Collection | 936 |
-| 31 | [[Day Planner]] | — | — | Day Planner for Time Blocking | 968 |
+| 31 | [[Day-Planner|Day Planner]] | — | — | Day Planner for Time Blocking | 968 |
 | 32 | [[Tasks Plugin Query Language]] | — | — | 1. **[[Tasks Plugin Query Language]]** | 999 |
 | 33 | [[Dataview Query Optimization Strategies]] | — | — | 2. **[[Dataview Query Optimization St... | 1004 |
 | 34 | [[GTD (Getting Things Done) Implementation in Obsidian]] | — | — | 3. **[[GTD (Getting Things Done) Impl... | 1009 |
@@ -1600,7 +1600,7 @@ WHERE due < date(today)
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
-- [[Day Planner]]
+- [[Day-Planner|Day Planner]]
 - [[GTD (Getting Things Done)]]
 - [[GTD (Getting Things Done) Implementation in Obsidian]]
 - [[Inline Fields]]
@@ -1611,13 +1611,13 @@ WHERE due < date(today)
 - [[Project Management in Obsidian]]
 - [[Query Languages]]
 - [[Recurrence Patterns]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Task Prioritization]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Query Language]]
 - [[Templater Plugin]]
 - [[Tracking Tasks with Tasks Plugin and Dataview]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 
 ---
 

@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,19 +81,27 @@ see-also:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
   - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
-  - "[[Intrinsic-motivation|Intrinsic motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
   - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
-  - "[[Intrinsic-motivation|Intrinsic motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
+  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -260,7 +268,7 @@ importance: high
 [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Assessment-Design|Assessment Design]] · [[Autonomous-Motivation|Autonomous Motivation]] · [[Autonomy-Need|Autonomy Need]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competence-Need|Competence Need]] · [[Constructivism]] · [[Controlled-Motivation|Controlled Motivation]] · [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]] · [[Dichotomy-of-Control|Dichotomy of Control]] · [[Educational-Psychology|Educational Psychology]] · [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]] · [[Feedback-Design|Feedback Design]]
 
 **Related concepts** *(from sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[autonomy|autonomy]] * [[competence|competence]] * [[relatedness|relatedness]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-thwarting|Need thwarting]] * [[Csikszentmihalyi|Csikszentmihalyi]] * [[flow|flow]] * [[Conditional-regard|Conditional regard]] * [[Avi-Assor|Avi Assor]]
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Autonomy|autonomy]] * [[Competence|competence]] * [[Relatedness|relatedness]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Csikszentmihalyi|Csikszentmihalyi]] * [[Flow|flow]] * [[Conditional-Regard|Conditional regard]] * [[Avi-Assor|Avi Assor]]
 
 **Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
 - [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
@@ -291,7 +299,7 @@ importance: high
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 
 **Related concepts** *(from sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-thwarting|Need thwarting]] * [[Conditional-regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]]
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Conditional-Regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]]
 
 **Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
 - [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
@@ -320,6 +328,42 @@ importance: high
 - [[Motivational-Climate-Design|Motivational Climate Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Related concepts** *(from sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Conditional-Regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+
+
+
+
 
 
 

@@ -145,7 +145,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > **Andragogy and Higher-Order Cognition (in Adult Education)**
-> Andragogy, a term popularized by [[Malcolm Knowles]], is distinguishable from pedagogy by its insistence that adult learners are self-directed, experience-rich, and problem-centered rather than content-oriented. Higher-Order Cognitive Skills (HOCS) refer to the upper tiers of [[Bloom’s Taxonomy]]—specifically analysis, evaluation, and synthesis (creation)—which require the learner to manipulate information rather than merely recall it. In the context of this inquiry, the central topic is the *dependency* between these two: the hypothesis that the specific conditions of andragogy are the prerequisite substrate for developing HOCS.
+> Andragogy, a term popularized by [[Malcolm-Knowles|Malcolm Knowles]], is distinguishable from pedagogy by its insistence that adult learners are self-directed, experience-rich, and problem-centered rather than content-oriented. Higher-Order Cognitive Skills (HOCS) refer to the upper tiers of [[Bloom’s Taxonomy]]—specifically analysis, evaluation, and synthesis (creation)—which require the learner to manipulate information rather than merely recall it. In the context of this inquiry, the central topic is the *dependency* between these two: the hypothesis that the specific conditions of andragogy are the prerequisite substrate for developing HOCS.
 
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 66)*
 
@@ -338,7 +338,7 @@ extraction_summary:
 - [[Hebbian Learning]]
 - [[Higher-Order Cognition]]
 - [[Jack Mezirow]]
-- [[Malcolm Knowles]]
+- [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Metacognition]]
 - [[Neuroplasticity]]
 - [[Predictive Coding]]
@@ -354,7 +354,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Andragogy]] | — | — | 1. 🎯 The Core Concept: A Foundational... | 54 |
 | 2 | [[Higher-Order Cognition]] | — | — | 1. 🎯 The Core Concept: A Foundational... | 54 |
-| 3 | [[Malcolm Knowles]] | — | — | 1.1. Baseline Definition | 60 |
+| 3 | [[Malcolm-Knowles|Malcolm Knowles]] | — | — | 1.1. Baseline Definition | 60 |
 | 4 | [[Bloom’s Taxonomy]] | — | — | 1.1. Baseline Definition | 60 |
 | 5 | [[Critical-Thinking|Critical Thinking]] | — | — | 1.1. Baseline Definition | 62 |
 | 6 | [[Divergent Thinking]] | — | — | 1.2. Foundational Principles | 71 |
@@ -476,7 +476,7 @@ $$
 - [[Hebbian Learning]]
 - [[Higher-Order Cognition]]
 - [[Jack Mezirow]]
-- [[Malcolm Knowles]]
+- [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Metacognition]]
 - [[Neuroplasticity]]
 - [[Predictive Coding]]

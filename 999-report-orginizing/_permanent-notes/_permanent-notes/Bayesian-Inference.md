@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -63,7 +63,7 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Inductive-reasoning|Inductive reasoning]]"
+  - "[[Inductive-Reasoning|Inductive reasoning]]"
   - "[[David-Hume|David Hume]]"
   - "[[Karl-Popper|Karl Popper]]"
   - "[[Aristotle]]"
@@ -71,14 +71,22 @@ see-also:
   - "[[David-Hume|David Hume]]"
   - "[[John-Stuart-Mill|John Stuart Mill]]"
   - "[[Karl-Popper|Karl Popper]]"
-  - "[[Inductive-reasoning|Inductive reasoning]]"
+  - "[[Inductive-Reasoning|Inductive reasoning]]"
   - "[[David-Hume|David Hume]]"
   - "[[Karl-Popper|Karl Popper]]"
   - "[[Aristotle|Aristotle]]"
   - "[[Francis-Bacon|Francis Bacon]]"
   - "[[John-Stuart-Mill|John Stuart Mill]]"
-  - "[[Analogical-reasoning|Analogical reasoning]]"
-  - "[[Causal-induction|Causal induction]]"
+  - "[[Analogical-Reasoning|Analogical reasoning]]"
+  - "[[Causal-Induction|Causal induction]]"
+  - "[[Inductive-Reasoning|Inductive reasoning]]"
+  - "[[David-Hume|David Hume]]"
+  - "[[Karl-Popper|Karl Popper]]"
+  - "[[Aristotle|Aristotle]]"
+  - "[[Francis-Bacon|Francis Bacon]]"
+  - "[[John-Stuart-Mill|John Stuart Mill]]"
+  - "[[Analogical-Reasoning|Analogical reasoning]]"
+  - "[[Causal-Induction|Causal induction]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -140,7 +148,7 @@ importance: high
 > Research on the [[Fluency-Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that…
 
 > [!warning] **Key Distinction** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
-> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
+> Research on the [[Fluency-Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
 
 
 
@@ -163,10 +171,10 @@ importance: high
 - [[Transfer-of-Learning|Transfer of Learning]]
 
 **Related concepts:**
-[[Inductive-reasoning|Inductive reasoning]] · [[David-Hume|David Hume]] · [[Karl-Popper|Karl Popper]] · [[Aristotle]] · [[Francis-Bacon|Francis Bacon]] · [[David-Hume|David Hume]] · [[John-Stuart-Mill|John Stuart Mill]] · [[Karl-Popper|Karl Popper]] · [[Analogical-reasoning|Analogical reasoning]] · [[Causal-induction|Causal induction]] · [[Alison-Gopnik|Alison Gopnik]] · [[Joshua-Tenenbaum|Joshua Tenenbaum]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]]
+[[Inductive-Reasoning|Inductive reasoning]] · [[David-Hume|David Hume]] · [[Karl-Popper|Karl Popper]] · [[Aristotle]] · [[Francis-Bacon|Francis Bacon]] · [[David-Hume|David Hume]] · [[John-Stuart-Mill|John Stuart Mill]] · [[Karl-Popper|Karl Popper]] · [[Analogical-Reasoning|Analogical reasoning]] · [[Causal-Induction|Causal induction]] · [[Alison-Gopnik|Alison Gopnik]] · [[Joshua-Tenenbaum|Joshua Tenenbaum]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]]
 
 **Related concepts** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
-[[Inductive-reasoning|Inductive reasoning]] * [[David-Hume|David Hume]] * [[Karl-Popper|Karl Popper]] * [[Francis-Bacon|Francis Bacon]] * [[John-Stuart-Mill|John Stuart Mill]] * [[Analogical-reasoning|Analogical reasoning]] * [[Causal-induction|Causal induction]] * [[Alison-Gopnik|Alison Gopnik]] * [[Joshua-Tenenbaum|Joshua Tenenbaum]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Constructivism|Constructivism]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Jerome-Bruner|Jerome Bruner]]
+[[Inductive-Reasoning|Inductive reasoning]] * [[David-Hume|David Hume]] * [[Karl-Popper|Karl Popper]] * [[Francis-Bacon|Francis Bacon]] * [[John-Stuart-Mill|John Stuart Mill]] * [[Analogical-Reasoning|Analogical reasoning]] * [[Causal-Induction|Causal induction]] * [[Alison-Gopnik|Alison Gopnik]] * [[Joshua-Tenenbaum|Joshua Tenenbaum]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Constructivism|Constructivism]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Jerome-Bruner|Jerome Bruner]]
 
 **Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
@@ -177,6 +185,22 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Transfer-of-Learning|Transfer of Learning]]
+
+**Related concepts** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+[[Inductive-Reasoning|Inductive reasoning]] * [[David-Hume|David Hume]] * [[Karl-Popper|Karl Popper]] * [[Francis-Bacon|Francis Bacon]] * [[John-Stuart-Mill|John Stuart Mill]] * [[Analogical-Reasoning|Analogical reasoning]] * [[Causal-Induction|Causal induction]] * [[Alison-Gopnik|Alison Gopnik]] * [[Joshua-Tenenbaum|Joshua Tenenbaum]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Jerome-Bruner|Jerome Bruner]] * [[Discovery-Learning|Discovery Learning]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+
+
 
 
 

@@ -359,13 +359,13 @@ extraction_summary:
 - [[Term 1 goes here]]
 - [[Term 2 goes here]]
 - [[Term 3 goes here]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Wiki-Links]] | — | — | Manifestation 1: Unprecedented Struct... | 305 |
+| 1 | [[wiki-links]] | — | — | Manifestation 1: Unprecedented Struct... | 305 |
 | 2 | [[Term 1 goes here]] | — | — | Manifestation 1: Unprecedented Struct... | 305 |
 | 3 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
 | 4 | [[Term 1 goes here]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
@@ -465,7 +465,7 @@ graph TD
 - [[Term 1 goes here]]
 - [[Term 2 goes here]]
 - [[Term 3 goes here]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 
 ---
 

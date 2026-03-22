@@ -122,7 +122,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 29)*
 
 > [!abstract] Untitled
-> The three basic psychological needs identified by [[Self-Determination-Theory|Self-Determination Theory]] are **autonomy**, **competence**, and **relatedness**. These needs represent fundamental psychological nutrients that, when satisfied, foster intrinsic motivation, psychological growth, integration, and flourishing. Conversely, when these needs are frustrated or thwarted, individuals experience controlled regulation, diminished motivation, psychological distress, and eventual disengagement from activities. Developed through decades of empirical research by [[Edward Deci]] and [[Richard Ryan]], these needs have been validated across cultures, contexts, and developmental stages, establishing them as universal requirements for optimal human functioning. Understanding these needs provides the foundation for designing external support systems—including [[Personal-Knowledge-Base|Personal Knowledge Base]] architectures—that work with rather than against human psychological architecture.
+> The three basic psychological needs identified by [[Self-Determination-Theory|Self-Determination Theory]] are **autonomy**, **competence**, and **relatedness**. These needs represent fundamental psychological nutrients that, when satisfied, foster intrinsic motivation, psychological growth, integration, and flourishing. Conversely, when these needs are frustrated or thwarted, individuals experience controlled regulation, diminished motivation, psychological distress, and eventual disengagement from activities. Developed through decades of empirical research by [[Edward-Deci|Edward Deci]] and [[Richard-Ryan|Richard Ryan]], these needs have been validated across cultures, contexts, and developmental stages, establishing them as universal requirements for optimal human functioning. Understanding these needs provides the foundation for designing external support systems—including [[Personal-Knowledge-Base|Personal Knowledge Base]] architectures—that work with rather than against human psychological architecture.
 
 #### 3. [DEFINITION] Untitled *(Line 34)*
 
@@ -236,8 +236,8 @@ extraction_summary:
 
 - [[Autonomy Support versus Controlling Environments]]
 - [[Basic Psychological Need Theory]]
-- [[Edward Deci]]
-- [[Flow Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Flow-Theory|Flow Theory]]
 - [[Knowledge Hiding and Knowledge Sharing Motivations]]
 - [[Need Crafting and Job Crafting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -247,7 +247,7 @@ extraction_summary:
 - [[PKB Reward Structures]]
 - [[PKB Systems]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 
 ### All Occurrences
@@ -255,13 +255,13 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 30 |
-| 2 | [[Edward Deci]] | — | — | Document Start | 30 |
-| 3 | [[Richard Ryan]] | — | — | Document Start | 30 |
+| 2 | [[Edward-Deci|Edward Deci]] | — | — | Document Start | 30 |
+| 3 | [[Richard-Ryan|Richard Ryan]] | — | — | Document Start | 30 |
 | 4 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 30 |
 | 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Theoretical Foundation of Basic... | 35 |
 | 6 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Theoretical Foundation of Basic... | 37 |
 | 7 | [[PKB Architecture Design]] | — | — | 💪 Autonomy: The Need for Volition and... | 53 |
-| 8 | [[Flow Theory]] | flow experiences | — | 🎯 Competence: The Need for Effectiven... | 63 |
+| 8 | [[Flow-Theory|Flow Theory]] | flow experiences | — | 🎯 Competence: The Need for Effectiven... | 63 |
 | 9 | [[Basic Psychological Need Theory]] | — | — | 🔬 The Dual Processes: Need Satisfacti... | 89 |
 | 10 | [[PKB Architecture Design]] | — | — | 🏢 Applications to Knowledge Work and ... | 111 |
 | 11 | [[PKB Systems]] | — | — | 🏢 Applications to Knowledge Work and ... | 115 |
@@ -352,8 +352,8 @@ Search strategy:
 
 - [[Autonomy Support versus Controlling Environments]]
 - [[Basic Psychological Need Theory]]
-- [[Edward Deci]]
-- [[Flow Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Flow-Theory|Flow Theory]]
 - [[Knowledge Hiding and Knowledge Sharing Motivations]]
 - [[Need Crafting and Job Crafting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -363,7 +363,7 @@ Search strategy:
 - [[PKB Reward Structures]]
 - [[PKB Systems]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 
 ---

@@ -263,7 +263,7 @@ extraction_summary:
 #### 8. [DEFINITION] Untitled *(Line 107)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[Prompt Engineering]]
+> - **Key-Term**:: [[Prompt-Engineering|Prompt Engineering]]
 > - **Definition**:: The systematic practice of designing inputs (prompts) to language models to elicit desired outputs with maximum reliability, specificity, and quality. For Claude specifically, prompt engineering leverages the model's architectural preferences for structure, explicit reasoning, and constitutional alignment to achieve expert-level performance on complex tasks.
 
 #### 9. [KEY-CLAIM] Untitled *(Line 125)*
@@ -461,7 +461,7 @@ extraction_summary:
 > **Synthesis Approach**:
 > - Systematic analysis of successful prompting patterns
 > - Comparative evaluation of different prompting methodologies
-> - Integration of general [[Prompt Engineering]] principles with Claude-specific optimizations
+> - Integration of general [[Prompt-Engineering|Prompt Engineering]] principles with Claude-specific optimizations
 > - Practical testing and validation of recommended techniques
 > 
 > **Confidence Levels**:
@@ -497,7 +497,7 @@ extraction_summary:
 - [[Analysis & Synthesis]]
 - [[Anthropic]]
 - [[Anthropic API Integration Patterns]]
-- [[Anthropic Claude]]
+- [[Anthropic-Claude|Anthropic Claude]]
 - [[Attention Mechanisms in Transformer Architecture]]
 - [[Bias Detection and Mitigation in LLM Outputs]]
 - [[Byte-Pair Encoding and Tokenization Strategies]]
@@ -515,7 +515,7 @@ extraction_summary:
 - [[Creative Writing]]
 - [[Ethical Frameworks for AI Interaction Design]]
 - [[Ethical Reasoning]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Few-Shot Learning - Pattern Recognition in LLMs]]
 - [[In-Context Learning]]
 - [[Instruction Following]]
@@ -526,7 +526,7 @@ extraction_summary:
 - [[Meta-Prompting Techniques for Prompt Improvement]]
 - [[Production Prompt Engineering Workflows]]
 - [[Prompt Components]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Versioning and Management Systems]]
 - [[Prompting Methodology]]
 - [[Reinforcement Learning from Human Feedback]]
@@ -541,7 +541,7 @@ extraction_summary:
 - [[XML Schema Design for LLM Prompting]]
 - [[attention mechanism]]
 - [[byte-pair encoding]]
-- [[few-shot learning]]
+- [[Few-Shot-Learning|few-shot learning]]
 - [[positional encoding]]
 - [[sliding attention window]]
 - [[web search tools]]
@@ -552,7 +552,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Claude LLM]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
-| 2 | [[Anthropic Claude]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
+| 2 | [[Anthropic-Claude|Anthropic Claude]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 3 | [[Claude Prompt Engineering]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 4 | [[Claude AI Reference]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 5 | [[wiki-links]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 35 |
@@ -577,15 +577,15 @@ extraction_summary:
 | 24 | [[byte-pair encoding]] | — | — | Technical Specifications | 89 |
 | 25 | [[Constitutional AI training process]] | — | — | Technical Specifications | 91 |
 | 26 | [[web search tools]] | — | — | Knowledge Cutoff & Real-Time Limitations | 101 |
-| 27 | [[Prompt Engineering]] | — | — | 🎯 Prompt Engineering Theory for Claude | 108 |
+| 27 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🎯 Prompt Engineering Theory for Claude | 108 |
 | 28 | [[attention mechanism]] | — | — | Foundational Principles | 117 |
 | 29 | [[Constitutional AI]] | — | — | Foundational Principles | 119 |
-| 30 | [[few-shot learning]] | — | — | Foundational Principles | 121 |
+| 30 | [[Few-Shot-Learning|few-shot learning]] | — | — | Foundational Principles | 121 |
 | 31 | [[Chain-of-Thought]] | — | — | Foundational Principles | 123 |
 | 32 | [[In-Context Learning]] | — | — | Prompt Taxonomy: Categories of Prompt... | 190 |
 | 33 | [[Prompt Components]] | — | — | 📐 Core Prompting Components: Optimal ... | 216 |
 | 34 | [[Instruction Following]] | — | — | 📋 Instructions/Procedure | 380 |
-| 35 | [[few-shot learning]] | — | — | 📚 Examples/Demonstrations | 553 |
+| 35 | [[Few-Shot-Learning|few-shot learning]] | — | — | 📚 Examples/Demonstrations | 553 |
 | 36 | [[Constitutional AI]] | — | — | 🚫 Constraints/Boundaries | 659 |
 | 37 | [[Chain-of-Thought]] | — | — | 🔧 Thinking/Reasoning Instructions | 856 |
 | 38 | [[XML Prompting]] | — | — | 🏗️ XML Architecture: Claude's Structu... | 934 |
@@ -595,7 +595,7 @@ extraction_summary:
 | 42 | [[Chain-of-Thought-Prompting|Chain-of-Thought prompting]] | — | — | The Chain-of-Thought Prompting Pattern | 1395 |
 | 43 | [[Advanced Prompting Techniques]] | — | — | 🎓 Advanced Techniques: Pattern Library | 1664 |
 | 44 | [[Constitutional AI]] | — | — | 🎯 Synthesis: Mastery Framework | 2569 |
-| 45 | [[Prompt Engineering]] | — | — | 📊 Metadata & Attribution | 3175 |
+| 45 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 📊 Metadata & Attribution | 3175 |
 | 46 | [[Constitutional AI - Theory and Implementation]] | — | — | 🔗 Related Topics for PKB Expansion | 3265 |
 | 47 | [[Chain-of-Thought Reasoning - Mechanisms and Applications]] | — | — | 🔗 Related Topics for PKB Expansion | 3266 |
 | 48 | [[Few-Shot Learning - Pattern Recognition in LLMs]] | — | — | 🔗 Related Topics for PKB Expansion | 3267 |
@@ -617,7 +617,7 @@ extraction_summary:
 | 64 | [[System Prompts vs User Prompts - Architectural Differences]] | — | — | 🔗 Related Topics for PKB Expansion | 3283 |
 | 65 | [[Advanced XML Architectures for Complex Workflows]] | — | — | 🔗 Related Topics for PKB Expansion | 3284 |
 | 66 | [[Chain-of-Thought]] | — | — | Claude Thinking | 3361 |
-| 67 | [[Few-Shot Learning]] | — | — | Claude Thinking | 3361 |
+| 67 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | Claude Thinking | 3361 |
 | 68 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | Claude Thinking | 3361 |
 
 ---
@@ -2880,7 +2880,7 @@ graph TD
 - [[Analysis & Synthesis]]
 - [[Anthropic]]
 - [[Anthropic API Integration Patterns]]
-- [[Anthropic Claude]]
+- [[Anthropic-Claude|Anthropic Claude]]
 - [[Attention Mechanisms in Transformer Architecture]]
 - [[Bias Detection and Mitigation in LLM Outputs]]
 - [[Byte-Pair Encoding and Tokenization Strategies]]
@@ -2898,7 +2898,7 @@ graph TD
 - [[Creative Writing]]
 - [[Ethical Frameworks for AI Interaction Design]]
 - [[Ethical Reasoning]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Few-Shot Learning - Pattern Recognition in LLMs]]
 - [[In-Context Learning]]
 - [[Instruction Following]]
@@ -2909,7 +2909,7 @@ graph TD
 - [[Meta-Prompting Techniques for Prompt Improvement]]
 - [[Production Prompt Engineering Workflows]]
 - [[Prompt Components]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Versioning and Management Systems]]
 - [[Prompting Methodology]]
 - [[Reinforcement Learning from Human Feedback]]
@@ -2924,7 +2924,7 @@ graph TD
 - [[XML Schema Design for LLM Prompting]]
 - [[attention mechanism]]
 - [[byte-pair encoding]]
-- [[few-shot learning]]
+- [[Few-Shot-Learning|few-shot learning]]
 - [[positional encoding]]
 - [[sliding attention window]]
 - [[web search tools]]

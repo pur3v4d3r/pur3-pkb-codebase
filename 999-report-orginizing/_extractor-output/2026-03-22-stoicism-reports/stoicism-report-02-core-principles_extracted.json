@@ -1,0 +1,1552 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-22T02:18:55.726692",
+    "source_file": "stoicism-report-02-core-principles.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-stoicism\\reports\\stoicism-report-02-core-principles.md",
+    "source_file_size_bytes": 69466,
+    "processing_time_seconds": 0.016
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Core Principles: Virtue, Wisdom, and Self-Control",
+      "aliases": [
+        "Stoic Core Principles",
+        "Stoic Virtue Ethics",
+        "The Four Stoic Virtues",
+        "Stoicism Core Philosophy"
+      ],
+      "type": "permanent-note",
+      "status": "evergreen",
+      "confidence": "high",
+      "tags": [
+        "permanent-note",
+        "academic-synthesis",
+        "stoicism",
+        "philosophy/stoicism",
+        "philosophy/virtue-ethics",
+        "psychology/moral-psychology",
+        "psychology/self-regulation",
+        "series/stoicism-ancient-wisdom-modern-life",
+        "year/2026"
+      ],
+      "domain": "philosophy",
+      "subdomains": [
+        "stoicism",
+        "virtue-ethics",
+        "moral-psychology",
+        "ancient-philosophy"
+      ],
+      "created": "2026-03-04",
+      "updated": "2026-03-04",
+      "series": "Stoicism: Ancient Wisdom for Modern Life",
+      "series_number": 2,
+      "report_type": "Foundational",
+      "series_arc_position": "Foundation",
+      "source-type": "academic-synthesis",
+      "research-base": "philosophical-texts-and-empirical-studies",
+      "evidence-quality": "high",
+      "key-figures": [
+        {
+          "name": "Zeno of Citium",
+          "role": "Founder of Stoicism; originator of the virtue-as-sole-good thesis",
+          "key-work": "Republic (fragmentary)"
+        },
+        {
+          "name": "Chrysippus",
+          "role": "Third scholarch; systematizer of Stoic ethics and virtue theory",
+          "key-work": "On Virtues (fragmentary, preserved in Diogenes Laërtius)"
+        },
+        {
+          "name": "Epictetus",
+          "role": "Late Stoic; supreme exponent of prohairesis and practical virtue",
+          "key-work": "Enchiridion; Discourses"
+        },
+        {
+          "name": "Marcus Aurelius",
+          "role": "Roman Emperor and philosopher; applied virtue under extreme circumstance",
+          "key-work": "Meditations"
+        },
+        {
+          "name": "Seneca",
+          "role": "Roman statesman and philosopher; literary expositor of Stoic ethics",
+          "key-work": "Letters to Lucilius; On the Happy Life"
+        }
+      ],
+      "key-frameworks": [
+        {
+          "name": "The Four Cardinal Virtues",
+          "description": "Wisdom, Justice, Courage, Temperance — the complete moral taxonomy of Stoicism"
+        },
+        {
+          "name": "Dichotomy of Control",
+          "description": "The foundational Stoic operating principle distinguishing what is and is not 'up to us'"
+        },
+        {
+          "name": "Virtue as the Sole Good",
+          "description": "The Stoic thesis that virtue alone constitutes eudaimonia; external goods are merely preferred indifferents"
+        },
+        {
+          "name": "The Sage Ideal",
+          "description": "The theoretical perfectly virtuous person as regulative ideal for Stoic practice"
+        }
+      ],
+      "complexity-level": "accessible-advanced",
+      "target-audience": "Intelligent adult reader without philosophy training; family knowledge transfer",
+      "depth-level": "comprehensive",
+      "treatment-type": "foundational",
+      "prerequisites": [
+        "[[Stoicism MOC]]",
+        "[[Report 01 — Introduction to Stoicism: Origins and Key Figures]]"
+      ],
+      "related": [
+        "[[Stoicism]]",
+        "[[Marcus Aurelius]]",
+        "[[Epictetus]]",
+        "[[Seneca]]",
+        "[[Chrysippus]]",
+        "[[Zeno of Citium]]",
+        "[[Virtue Ethics]]",
+        "[[Aristotle]]",
+        "[[Eudaimonia]]",
+        "[[Dichotomy of Control]]",
+        "[[Prohairesis]]",
+        "[[Logos]]"
+      ],
+      "series-connections": {
+        "previous": "[[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "next": "[[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]]",
+        "related-reports": [
+          "[[Report 04 — Stoicism and Modern Psychology]]",
+          "[[Report 05 — Stoicism in Leadership and Decision-Making]]",
+          "[[Report 10 — Stoicism and CBT]]"
+        ]
+      },
+      "broader": [
+        "[[Philosophy MOC]]",
+        "[[Virtue Ethics]]",
+        "[[Ancient Philosophy]]",
+        "[[Moral Psychology]]"
+      ],
+      "narrower": [
+        "[[Sophia (Stoic Wisdom)]]",
+        "[[Dikaiosyne (Justice)]]",
+        "[[Andreia (Courage)]]",
+        "[[Sophrosyne (Temperance)]]",
+        "[[Preferred Indifferents]]",
+        "[[The Stoic Sage]]"
+      ],
+      "see-also": [
+        "[[Aristotelian Virtue Ethics]]",
+        "[[Cognitive Behavioral Therapy]]",
+        "[[Self-Determination Theory]]",
+        "[[Positive Psychology]]",
+        "[[Mindfulness]]"
+      ],
+      "primary-sources": [
+        "Marcus Aurelius — Meditations",
+        "Epictetus — Enchiridion",
+        "Epictetus — Discourses",
+        "Seneca — Letters to Lucilius (Epistulae Morales)",
+        "Seneca — On the Happy Life (De Vita Beata)",
+        "Diogenes Laërtius — Lives of the Eminent Philosophers, Book VII"
+      ],
+      "secondary-sources": [
+        "Hadot, Pierre — Philosophy as a Way of Life",
+        "Pigliucci, Massimo — How to Be a Stoic",
+        "Long, A.A. — Epictetus: A Stoic and Socratic Guide to Life",
+        "Inwood, Brad — Ethics and Human Action in Early Stoicism",
+        "Robertson, Donald — Stoicism and the Art of Happiness"
+      ],
+      "key-concepts": [
+        "Four Cardinal Virtues (sophia, dikaiosyne, andreia, sophrosyne)",
+        "Virtue as the sole good (arete as eudaimonia)",
+        "Preferred Indifferents (proegmena adiaphora)",
+        "Prohairesis (faculty of rational choice)",
+        "The Stoic Sage as regulative ideal",
+        "Unity of the virtues",
+        "Virtue as knowledge (episteme)"
+      ],
+      "practical-components": [
+        "exercises",
+        "worked-examples",
+        "application-protocols"
+      ],
+      "link-up": "[[Stoicism MOC]]",
+      "link-down": [
+        "[[Sophia (Stoic Wisdom)]]",
+        "[[Dikaiosyne (Justice)]]",
+        "[[Andreia (Courage)]]",
+        "[[Sophrosyne (Temperance)]]",
+        "[[Preferred Indifferents]]",
+        "[[The Stoic Sage]]",
+        "[[Prohairesis]]"
+      ],
+      "link-related": [
+        "[[Aristotelian Virtue Ethics]]",
+        "[[Cognitive Behavioral Therapy]]",
+        "[[Self-Regulation]]"
+      ],
+      "expansion-topics": [
+        {
+          "topic": "[[The Stoic Sage — Ideal and Reality]]",
+          "description": "The theoretical perfectly virtuous person as a regulative ideal deserves its own deep note — including the Stoics' own admission that a true Sage may be impossibly rare",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Unity of the Virtues]]",
+          "description": "The Stoic thesis that the four virtues are not separable — that genuine courage entails wisdom entails justice entails temperance — is philosophically fascinating and practically important",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Preferred Indifferents — A Complete Taxonomy]]",
+          "description": "The nuanced category of 'things valuable but not constitutive of the good' is persistently misunderstood and deserves thorough treatment",
+          "priority": "medium"
+        }
+      ],
+      "word-count": "~10500",
+      "callouts": 16,
+      "wiki-links": 38,
+      "primary-source-quotes": 7,
+      "review-frequency": "quarterly",
+      "mastery-stage": "budding",
+      "importance": "high"
+    },
+    "word_count": 8845,
+    "character_count": 58344,
+    "line_count": 412,
+    "heading_count": 23
+  },
+  "extraction_summary": {
+    "total_items_extracted": 120,
+    "by_type": {
+      "headings": 23,
+      "callouts": 25,
+      "wiki_links": 39,
+      "inline_fields": 17,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 16,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Core Principles: Virtue, Wisdom, and Self-Control",
+      "anchor": "core-principles-virtue-wisdom-and-self-control",
+      "line_number": 215,
+      "source": "stoicism-report-02-core-principles.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Part 1: The Question That Stoicism Answers — What Is a Good Life?",
+          "anchor": "part-1-the-question-that-stoicism-answers-what-is-a-good-life",
+          "line_number": 235,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 2: The Conceptual Architecture — What Is Virtue?",
+          "anchor": "part-2-the-conceptual-architecture-what-is-virtue",
+          "line_number": 257,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Virtue as a Technical Concept",
+              "anchor": "virtue-as-a-technical-concept",
+              "line_number": 259,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Critical Distinction: Goods, Bads, and Indifferents",
+              "anchor": "the-critical-distinction-goods-bads-and-indifferents",
+              "line_number": 274,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Part 3: The Four Cardinal Virtues — A Systematic Architecture",
+          "anchor": "part-3-the-four-cardinal-virtues-a-systematic-architecture",
+          "line_number": 291,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Wisdom (Sophia / Prudentia)",
+              "anchor": "1-wisdom-sophia-prudentia",
+              "line_number": 295,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Justice (Dikaiosyne)",
+              "anchor": "2-justice-dikaiosyne",
+              "line_number": 313,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Courage (Andreia)",
+              "anchor": "3-courage-andreia",
+              "line_number": 329,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Temperance (Sophrosyne)",
+              "anchor": "4-temperance-sophrosyne",
+              "line_number": 345,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Part 4: The Unity of the Virtues and the Figure of the Sage",
+          "anchor": "part-4-the-unity-of-the-virtues-and-the-figure-of-the-sage",
+          "line_number": 362,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 5: Prohairesis — The Architecture of Stoic Selfhood",
+          "anchor": "part-5-prohairesis-the-architecture-of-stoic-selfhood",
+          "line_number": 383,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 6: The Stoic Toolkit — Practical Exercises in Virtue",
+          "anchor": "part-6-the-stoic-toolkit-practical-exercises-in-virtue",
+          "line_number": 405,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 7: Stoicism and the Science of Mind — Modern Psychological Parallels",
+          "anchor": "part-7-stoicism-and-the-science-of-mind-modern-psychological-parallels",
+          "line_number": 444,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 8: Stoicism in Action — Worked Examples of Virtue in Practice",
+          "anchor": "part-8-stoicism-in-action-worked-examples-of-virtue-in-practice",
+          "line_number": 463,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Case 1: Marcus Aurelius and the Unity of Virtue Under Pressure",
+              "anchor": "case-1-marcus-aurelius-and-the-unity-of-virtue-under-pressure",
+              "line_number": 465,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Case 2: Epictetus and the Radical Freedom of Prohairesis",
+              "anchor": "case-2-epictetus-and-the-radical-freedom-of-prohairesis",
+              "line_number": 478,
+              "source": "stoicism-report-02-core-principles.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+          "anchor": "part-9-integration-how-this-report-connects-to-the-broader-stoic-architecture",
+          "line_number": 493,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Conclusion: The Living Architecture of Virtue",
+          "anchor": "conclusion-the-living-architecture-of-virtue",
+          "line_number": 510,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References and Primary Sources",
+          "anchor": "references-and-primary-sources",
+          "line_number": 528,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Further Reading",
+          "anchor": "further-reading",
+          "line_number": 560,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Expansion Topics for PKB",
+          "anchor": "expansion-topics-for-pkb",
+          "line_number": 575,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Glossary",
+          "anchor": "glossary",
+          "line_number": 592,
+          "source": "stoicism-report-02-core-principles.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.",
+        "line_number": 217,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 7743,
+        "char_end": 8484
+      },
+      {
+        "type": "index",
+        "title": "Untitled",
+        "body": "**Stoicism Series Navigation**\n\nThis is Report 02 of 10 in the [[Stoicism Series Overview]]\n\n← Previous: [[Report 01 — Introduction to Stoicism: Origins and Key Figures]]\n→ Next: [[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]]\n\n**Series Arc Position**: Foundation\n**Recommended Prerequisites**: [[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "line_number": 222,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 8490,
+        "char_end": 8902
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "\"If, therefore, any be unhappy, let him remember that he is unhappy by reason of himself alone.\"\n— **Epictetus**, *Discourses* I.6",
+        "line_number": 247,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 12187,
+        "char_end": 12333
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Virtue (Aretē)**: In Stoic philosophy, a stable disposition (*hexis*) of the rational soul constituted by comprehensive practical knowledge of what is genuinely good, genuinely bad, and genuinely indifferent — enabling the agent to act correctly in every circumstance. Virtue is not merely a tendency toward right action but the inner structure of reason that makes such action reliable and coherent.",
+        "line_number": 267,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 14323,
+        "char_end": 14744
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**The Most Common Misreading**: \"Indifferent\" does not mean *without value* or *to be ignored*. The Stoics explicitly distinguished between *preferred indifferents* (*proegmena adiaphora*) — things that are, in most circumstances, worth pursuing — and *dispreferred indifferents* (*apoproegmena adiaphora*) — things that are, in most circumstances, worth avoiding. Health is a preferred indifferent; illness a dispreferred indifferent. Wealth is preferred; poverty dispreferred. The point is not that these things do not matter at all, but that they do not matter in the way that virtue matters. They affect the *material* of your life, but not its *moral quality*.",
+        "line_number": 280,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 16441,
+        "char_end": 17122
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "\"Seek not the good in external things; seek it within yourself.\"\n— **Epictetus**, *Discourses* III.24",
+        "line_number": 303,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 20367,
+        "char_end": 20484
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "\"We are made for cooperation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another then is contrary to nature.\"\n— **Marcus Aurelius**, *Meditations* II.1",
+        "line_number": 321,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 23625,
+        "char_end": 23849
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "\"It is not death that a man should fear, but he should fear never beginning to live.\"\n— **Marcus Aurelius**, *Meditations* XII.1",
+        "line_number": 337,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 25847,
+        "char_end": 25991
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Temperance vs. Repression**: Stoic temperance (*sophrosyne*) is not the repression or elimination of desire — the Stoics were not ascetics. It is the regulation of desire by reason, ensuring that the pursuit of preferred indifferents does not override one's commitment to virtue. The temperate person is not immune to attraction; they are governed by their principles rather than their attractions.",
+        "line_number": 353,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 28257,
+        "char_end": 28676
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**The Unity Thesis in Practice**: The unity of the virtues means that Stoic virtue development is not a matter of building separate skills in parallel — working on honesty here, courage there, self-control elsewhere. It is a single integrated transformation of one's entire character and one's fundamental relationship to value. Partial progress is genuine progress; what is impossible is genuinely developing one virtue in isolation from the others.",
+        "line_number": 368,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 30752,
+        "char_end": 31222
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "\"Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing.\"\n— **Epictetus**, *Enchiridion* 5",
+        "line_number": 393,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 35738,
+        "char_end": 36042
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Exercise: The Evening Review of the Three Questions**\n\n**What to do**: At the end of each day, before sleep, review the day through three Stoic questions derived from Seneca's *On Anger* III.36: (1) *What bad habit did I cure today?* (2) *What fault did I resist?* (3) *In what respect am I better?*\n\n**When to do it**: Every evening, 5–10 minutes. Best done in writing — a journal entry or brief notes — because writing forces precision that mental review allows you to avoid.\n\n**Why it works**: The exercise operationalizes the Stoic commitment to virtue as the primary metric of a day's quality. By ending each day with virtue-focused questions rather than outcome-focused ones (Did I earn enough? Did people approve of me?), you gradually realign your evaluative attention toward the domain of prohairesis — toward what you could actually control. The psychological mechanism is *attentional retraining*: you are teaching yourself, through repetition, what kind of things to pay attention to.\n\n**Expected outcome**: Over weeks of consistent practice, a noticeable shift in the quality of self-evaluation — less anxious monitoring of external outcomes, more confident tracking of character development. Seneca reports this exercise produced genuine equanimity rather than merely suppressed anxiety.",
+        "line_number": 409,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 37820,
+        "char_end": 39152
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Exercise: The Virtue Lens — Asking \"What Would Wisdom Do?\"**\n\n**What to do**: When facing any decision — large or small, trivial or significant — pause and explicitly ask: \"What would a person of wisdom do here? What would justice look like? What would courage require? What would temperance counsel?\" Run the four virtues as explicit filters on the situation.\n\n**When to do it**: Particularly valuable before habitual reactions — the triggered email response, the instinctive retreat from difficulty, the reflexive indulgence. The pause between stimulus and response is exactly where prohairesis operates.\n\n**Why it works**: The exercise externalizes the evaluative framework that the Stoics are trying to internalize. By explicitly invoking the four virtues as decision criteria, you begin to train the cognitive habit of virtue-referenced evaluation. Over time, the explicit questioning becomes an internalized orientation — you begin to *see* situations in virtue terms rather than having to consciously switch into that mode. This mirrors what cognitive psychologists call *value-based decision making*: aligning executive function with explicitly held values.\n\n**Expected outcome**: Initially awkward and artificial. With consistent use over 30–90 days, a growing sense that virtue is a natural and stable reference point for decision-making rather than an aspirational add-on.",
+        "line_number": 420,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 39153,
+        "char_end": 40567
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Exercise: Values Clarification — Writing Your Character Commitments**\n\n**What to do**: Write a one-page document (ideally handwritten) that articulates what kind of person you are committed to being — not what you want to achieve or acquire, but what character you want to embody. Frame it explicitly in terms of the four virtues: What does wisdom look like in your specific life? What does justice demand given your relationships and responsibilities? Where does courage particularly challenge you? Where does temperance call you?\n\n**When to do it**: Once as a foundational exercise; reviewed quarterly. The document should evolve as your understanding deepens.\n\n**Why it works**: The exercise forces the transition from abstract virtue vocabulary to personal and concrete commitments. The Stoics emphasized that virtue is not generic — it is expressed through the specific roles and circumstances of one's actual life. Writing your character commitments externalizes the Stoic project, making it visible, reviewable, and subject to honest accountability. Research in goal psychology (Gollwitzer's implementation intentions) confirms that written, specific commitments dramatically outperform vague aspirational intentions.\n\n**Expected outcome**: Clarity about what your personal virtue project actually requires — and productive discomfort in facing the gaps between your stated commitments and your recent behaviour.",
+        "line_number": 431,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 40568,
+        "char_end": 42018
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "**Empirical Finding — Self-Determination Theory**: Deci and Ryan's foundational research establishes that psychological wellbeing depends on the satisfaction of three basic psychological needs: autonomy (the experience of one's actions as self-determined), competence (effective engagement with the environment), and relatedness (meaningful connection to others). The Stoic emphasis on prohairesis as the domain of genuine freedom maps directly onto autonomy need satisfaction — and the Stoic claim that virtue is sufficient for wellbeing is a philosophical anticipation of the empirical finding that intrinsic motivation (action for inherently meaningful reasons) produces more durable wellbeing than extrinsic motivation (action for external reward).",
+        "line_number": 448,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 42575,
+        "char_end": 43344
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "**Empirical Finding — Character Strengths and VIA Classification**: Martin Seligman and Christopher Peterson's Values in Action (VIA) classification of twenty-four character strengths, derived empirically from cross-cultural research, identifies six higher-order virtue categories that closely parallel the four Stoic cardinal virtues. *Wisdom and knowledge* maps directly to *sophia*; *justice* to *dikaiosyne*; *courage* to *andreia*; *temperance* to *sophrosyne*. The VIA research finds that individuals who identify and regularly exercise their signature character strengths report higher life satisfaction, greater engagement, and lower rates of depression — providing empirical support for the Stoic claim that virtue is closely related to flourishing.",
+        "line_number": 451,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 43345,
+        "char_end": 44120
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**The Philosophical–Psychological Bridge — Virtue as Skill**: Both the Stoic tradition and contemporary psychology converge on the insight that character virtues are not fixed traits but cultivatable skills. The Stoics understood virtue as a *hexis* — a stable disposition developed through practice and habituation. Modern positive psychology speaks of character strengths as capacities that can be developed through deliberate exercise. Neuroscience adds a third layer: the concept of *neuroplasticity* — the documented capacity of the brain to reorganize its structure in response to habitual patterns of thought and behaviour. The Stoic commitment to daily practice as the method of virtue development is, in contemporary neurological terms, a program of deliberate character-relevant neuroplastic change.",
+        "line_number": 454,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 44121,
+        "char_end": 44950
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Case: Marcus and the Antonine Plague**\n\nWhen the Antonine Plague devastated Rome from 165 to 180 CE, Marcus Aurelius faced conditions that would have broken many rulers — mass death, economic disruption, military pressure on multiple frontiers, and the constant temptation to respond with panic or denial. His Stoic training shows in the *Meditations*' repeated return to the impermanence of individual lives, the naturalness of death as part of the cosmic order, and the sufficiency of doing one's duty well regardless of outcome. He organized relief efforts, maintained military commitments, and continued to show up to his administrative responsibilities not because he was unaffected by the scale of suffering but because his commitment to justice and his understanding of duty were more fundamental than his fear or grief.\n\n**The Lesson**: Virtue in its unity does not eliminate difficulty or eliminate emotional response to difficulty. It provides a stable orientation — a commitment more fundamental than circumstance — that makes continued right action possible even under conditions of sustained adversity.",
+        "line_number": 471,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 47932,
+        "char_end": 49071
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Case: Epictetus and the Domain of the Will**\n\nWhen students came to Epictetus complaining that external circumstances were preventing them from living well, his standard response was to redirect their attention to the domain of prohairesis. Not: \"Things will get better.\" Not: \"You should change your circumstances.\" But: \"Your circumstance cannot touch what is genuinely yours — your choice of how to respond, what to value, what to pursue. The question is not what has happened to you but what you will do with your prohairesis given what has happened.\"\n\n**The Lesson**: The Stoic claim about prohairesis is not that circumstances don't matter — they clearly do — but that the quality of one's engagement with circumstances depends on one's inner orientation more than on the circumstances themselves. This is not consolation philosophy; it is a robust claim about the structure of agency that has been repeatedly supported by empirical research on resilience and post-traumatic growth.",
+        "line_number": 484,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 50245,
+        "char_end": 51257
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "**Series Connections**:\n\n- **Builds on**: [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] establishes who the Stoics were and what intellectual tradition they inherited. This report explains *what* they believed and *why* it is coherent.\n- **Enables**: [[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]] presupposes an understanding of what the exercises are *for* — namely, the cultivation of virtue through habitual practice. Without the framework established here, the practices risk being adopted as techniques rather than understood as philosophy.\n- **Underlies**: [[Report 05 — Stoicism in Leadership and Decision-Making]] draws directly on the concept of wisdom (*sophia*) as the core leadership virtue, and on the distinction between preferred indifferents (organizational success, social approval) and genuine goods (virtuous character).\n- **Illuminates**: [[Report 10 — Stoicism and CBT]] requires the philosophical framework established here — particularly the Epictetan cognitive model of disturbance and the role of prohairesis — to be fully intelligible as a genuine philosophical comparison rather than a surface-level analogy.\n- **In dialogue with**: [[Report 04 — Stoicism and Modern Psychology]] is where the empirical support for the framework outlined here receives its fullest treatment — where the claims about virtue, self-regulation, and wellbeing are tested against the findings of contemporary psychology.",
+        "line_number": 497,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 51760,
+        "char_end": 53267
+      },
+      {
+        "type": "key-takeaway",
+        "title": "Untitled",
+        "body": "The central insight of Stoic virtue ethics is that the quality of a human life is determined not by what happens to a person but by the character they bring to what happens — and character, understood as practical wisdom expressed in justice, courage, and self-governance, is something that can be cultivated deliberately through sustained practice. This means that genuine flourishing is not contingent on favorable external circumstances; it is the product of a particular relationship to whatever circumstances one faces.",
+        "line_number": 520,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 56192,
+        "char_end": 56737
+      },
+      {
+        "type": "reflection",
+        "title": "Untitled",
+        "body": "**A Question to Sit With**: Think of a recent situation in which you felt genuinely flourishing — alive, purposeful, at peace. Now examine that situation carefully: Was your sense of flourishing driven more by the external features of the situation (what was happening) or by your inner engagement with it (how you were meeting it)? What does your honest answer tell you about where the source of your wellbeing actually lies?",
+        "line_number": 523,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 56738,
+        "char_end": 57183
+      },
+      {
+        "type": "further-reading",
+        "title": "Untitled",
+        "body": "**For Deeper Exploration**:\n\n1. **Hadot, Pierre — *The Inner Citadel: The Meditations of Marcus Aurelius*** (Harvard University Press, 1998). The finest philosophical analysis of the *Meditations*; Hadot illuminates the specific Stoic practices Marcus is performing in each passage. Essential reading.\n\n2. **Long, A.A. — *Hellenistic Philosophy: Stoics, Epicureans, Sceptics*** (University of California Press, 1986). The best scholarly introduction to all three major Hellenistic schools; places Stoic virtue theory in its full intellectual context.\n\n3. **Nussbaum, Martha — *The Therapy of Desire: Theory and Practice in Hellenistic Ethics*** (Princeton University Press, 1994). A philosophically sophisticated comparison of Stoic, Epicurean, and Sceptical approaches to emotion and desire; particularly good on the relationship between philosophy and psychological wellbeing.\n\n4. **Robertson, Donald — *How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius*** (St. Martin's Press, 2019). Robertson integrates biographical narrative with practical Stoic exercises; written by a cognitive behavioural psychotherapist and excellent on the Marcus–virtue connection.",
+        "line_number": 562,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 60214,
+        "char_end": 61435
+      },
+      {
+        "type": "related-topics",
+        "title": "Untitled",
+        "body": "**Suggested New Notes**:\n\n- **[[The Stoic Sage — Ideal and Reality]]** — The figure of the perfectly virtuous person as a regulative ideal deserves its own deep treatment, including the Stoics' honest acknowledgment of the Sage's rarity, the philosophical function of regulative ideals, and the comparison to analogous ideals in Kantian ethics and Buddhist enlightenment traditions. Priority: **High**\n\n- **[[Unity of the Virtues — Philosophical Analysis]]** — The claim that genuine courage entails genuine wisdom entails genuine justice is one of the most provocative and sophisticated theses in ancient ethics. A dedicated note examining the arguments for and against this claim, including Aristotle's alternative conception of separable virtues, would significantly enrich the knowledge graph. Priority: **High**\n\n- **[[Preferred Indifferents — A Complete Taxonomy]]** — The trichotomy of goods/bads/indifferents, and particularly the category of preferred indifferents (*proegmena adiaphora*), is persistently misunderstood. A dedicated treatment covering the full taxonomy, the Stoic argument for the category, and the comparison to Aristotelian external goods would close an important gap. Priority: **High**\n\n- **[[Prohairesis — Epictetus' Central Concept]]** — While this report introduces prohairesis, the concept deserves its own dedicated note exploring its relationship to Aristotle's *prohairesis*, its connection to modern philosophy of action, and its implications for debates about free will and determinism. Priority: **Medium**\n\n- **[[The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism]]** — The comparison between the Stoic claim that virtue is *sufficient* for eudaimonia and the Aristotelian claim that virtue is *necessary but not sufficient* (that some external goods are also required) is one of the most productive tensions in ancient ethics. Priority: **Medium**",
+        "line_number": 577,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 61470,
+        "char_end": 63405
+      },
+      {
+        "type": "glossary",
+        "title": "Untitled",
+        "body": "**Adiaphora**: \"Indifferents\" — the broad Stoic category of things that are neither genuinely good nor genuinely bad, subdivided into preferred and dispreferred indifferents.\n\n**Andreia**: \"Courage\" — the Stoic cardinal virtue governing action in the face of difficulty, danger, or fear; wisdom applied to apparent threats.\n\n**Aretē**: \"Virtue\" or \"excellence\" — in Stoic usage, a stable disposition of the rational soul constituted by practical knowledge of genuine goods and evils.\n\n**Dikaiosyne**: \"Justice\" — the Stoic cardinal virtue governing relations with other persons; wisdom applied to the social domain.\n\n**Eudaimonia**: \"Flourishing\" or \"the good life\" — the condition of living and doing well; for the Stoics, constituted entirely by virtue.\n\n**Hegemonikon**: The \"ruling part\" or \"governing faculty\" of the soul in Stoic psychology — the seat of rationality, judgment, and prohairesis.\n\n**Hexis**: A stable disposition or settled character state — the form in which virtue is possessed; distinguished from a transient tendency or mood.\n\n**Logos**: The universal rational principle underlying the cosmos; in Stoic physics, both the structuring principle of nature and the divine reason in which all rational beings participate.\n\n**Preferred Indifferents (Proegmena Adiaphora)**: Things that have genuine instrumental value and that a rational agent will typically pursue — health, wealth, reputation, relationships — but which are not constitutive of eudaimonia.\n\n**Prohairesis**: Epictetus' central concept — the faculty of rational choice, moral purpose, and will; the innermost self; the one thing genuinely \"up to us.\"\n\n**Sage (Sophos/Sapiens)**: The theoretical figure of the perfectly virtuous person in Stoic ethics; a regulative ideal acknowledged as extremely rare or perhaps never instantiated.\n\n**Sophia**: \"Wisdom\" — the master Stoic cardinal virtue; practical knowledge of genuine goods and evils; the foundational virtue from which justice, courage, and temperance derive.\n\n**Sophrosyne**: \"Temperance\" or \"self-control\" — the Stoic cardinal virtue governing the relationship to one's own desires and impulses; wisdom applied to the domain of appetite.\n\n**Vice (Kakia)**: The only genuine bad in Stoic ethics — the condition of practical ignorance about genuine goods and evils, expressed in defective character and defective action.\n\n**Virtue (see Aretē)**: The only genuine good in Stoic ethics — practical knowledge of what is genuinely good, bad, and indifferent, expressed in stable and reliable excellent character.",
+        "line_number": 594,
+        "source": "stoicism-report-02-core-principles.md",
+        "char_start": 63424,
+        "char_end": 66032
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism]]",
+        "line_number": 218,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Prohairesis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prohairesis]]",
+        "line_number": 218,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 218,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 218,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 218,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Stoicism Series Overview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism Series Overview]]",
+        "line_number": 225,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> This is Report 02 of 10 in the [[Stoicism Series Overview]]",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 01 — Introduction to Stoicism: Origins and Key Figures",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "line_number": 227,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> ← Previous: [[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]]",
+        "line_number": 228,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> → Next: [[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]]",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 01 — Introduction to Stoicism: Origins and Key Figures",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "line_number": 231,
+        "section": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "context_line": "> **Recommended Prerequisites**: [[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Eudaimonia]]",
+        "line_number": 239,
+        "section": "Part 1: The Question That Stoicism Answers — What Is a Good Life?",
+        "context_line": "Every civilization that has endured long enough to produce philosophers has attempted an answer. The Confucian tradition spoke of social harmony and role fulfilment; the Buddhist tradition pointed toward the liberation from craving; various theological traditions anchored the good life in obedience to divine command. The ancient Greeks, with their characteristic preference for reason over revelation, approached the question differently. They called the condition of living well *[[Eudaimonia]]* — a word typically translated as \"happiness\" but better rendered as \"flourishing\" or \"the life going well.\" And they argued, with remarkable sophistication, about what conditions were necessary and sufficient for eudaimonia to obtain.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Zeno of Citium",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zeno of Citium]]",
+        "line_number": 241,
+        "section": "Part 1: The Question That Stoicism Answers — What Is a Good Life?",
+        "context_line": "The Stoics, emerging in Athens around 300 BCE under [[Zeno of Citium]] and later refined by the formidable intellect of [[Chrysippus]], gave one of the most ambitious and internally consistent answers ever articulated: *virtue is both necessary and sufficient for eudaimonia.* Not wealth. Not power. Not pleasure. Not health. Not even long life or the love of a devoted family — though the Stoics certainly valued these things in their own way. Only virtue. Only the cultivation and exercise of a certain kind of character, expressed through a certain kind of reasoning and action, constitutes the genuinely good life.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Chrysippus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chrysippus]]",
+        "line_number": 241,
+        "section": "Part 1: The Question That Stoicism Answers — What Is a Good Life?",
+        "context_line": "The Stoics, emerging in Athens around 300 BCE under [[Zeno of Citium]] and later refined by the formidable intellect of [[Chrysippus]], gave one of the most ambitious and internally consistent answers ever articulated: *virtue is both necessary and sufficient for eudaimonia.* Not wealth. Not power. Not pleasure. Not health. Not even long life or the love of a devoted family — though the Stoics certainly valued these things in their own way. Only virtue. Only the cultivation and exercise of a certain kind of character, expressed through a certain kind of reasoning and action, constitutes the genuinely good life.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Socrates",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socrates]]",
+        "line_number": 265,
+        "section": "Virtue as a Technical Concept",
+        "context_line": "For the Stoics, virtue is a form of *knowledge* — specifically, a stable and comprehensive knowledge of what is genuinely good, what is genuinely bad, and what is genuinely indifferent. This epistemological characterization of virtue descends directly from [[Socrates]], who famously held that no one does wrong willingly — that all wrongdoing is, at bottom, a form of ignorance, specifically ignorance of what is genuinely beneficial. [[Plato]] elaborated this into the view that virtue is a kind of wisdom (*sophia*), a knowledge of the Good itself. The Stoics inherited this Socratic-Platonic insight but developed it into a full systematic ethics.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Plato",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plato]]",
+        "line_number": 265,
+        "section": "Virtue as a Technical Concept",
+        "context_line": "For the Stoics, virtue is a form of *knowledge* — specifically, a stable and comprehensive knowledge of what is genuinely good, what is genuinely bad, and what is genuinely indifferent. This epistemological characterization of virtue descends directly from [[Socrates]], who famously held that no one does wrong willingly — that all wrongdoing is, at bottom, a form of ignorance, specifically ignorance of what is genuinely beneficial. [[Plato]] elaborated this into the view that virtue is a kind of wisdom (*sophia*), a knowledge of the Good itself. The Stoics inherited this Socratic-Platonic insight but developed it into a full systematic ethics.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Logos",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Logos]]",
+        "line_number": 315,
+        "section": "2. Justice (Dikaiosyne)",
+        "context_line": "[Dikaiosyne:: The Stoic virtue of justice — the disposition to give what is genuinely owed to all persons in accordance with their rational nature and shared humanity; encompasses honesty, fairness, and the sense of active social obligation that flows from recognizing the [[Logos]] we share with all rational beings.]",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Logos",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Logos]]",
+        "line_number": 317,
+        "section": "2. Justice (Dikaiosyne)",
+        "context_line": "Justice (*dikaiosyne*) is wisdom expressed in the social dimension of life — in all dealings with other persons and communities. The Stoics understood justice as far more than procedural fairness or the avoidance of obvious harm. It is grounded in their metaphysics: all rational beings participate in the same *[[Logos]]*, the universal rational principle that structures the cosmos. Because of this shared participation, all rational beings have genuine moral status, and justice is the recognition of and response to that status in every interaction.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 319,
+        "section": "2. Justice (Dikaiosyne)",
+        "context_line": "The Stoic conception of justice is, in this way, unusually cosmopolitan for its time. While Greek political thought routinely distinguished between the obligations owed to citizens versus foreigners or slaves, the Stoics argued for the moral equality of all rational beings — a position that made Stoicism both philosophically distinctive and politically radical. [[Epictetus]], himself a former slave, made this cosmopolitan commitment the foundation of his ethics. [[Marcus Aurelius]], ruling an empire of millions of subjects from dozens of ethnic and cultural backgrounds, returned repeatedly in the *Meditations* to the theme of his obligations to the whole human community, not merely to Rome or to his inner circle.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 319,
+        "section": "2. Justice (Dikaiosyne)",
+        "context_line": "The Stoic conception of justice is, in this way, unusually cosmopolitan for its time. While Greek political thought routinely distinguished between the obligations owed to citizens versus foreigners or slaves, the Stoics argued for the moral equality of all rational beings — a position that made Stoicism both philosophically distinctive and politically radical. [[Epictetus]], himself a former slave, made this cosmopolitan commitment the foundation of his ethics. [[Marcus Aurelius]], ruling an empire of millions of subjects from dozens of ethnic and cultural backgrounds, returned repeatedly in the *Meditations* to the theme of his obligations to the whole human community, not merely to Rome or to his inner circle.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 356,
+        "section": "4. Temperance (Sophrosyne)",
+        "context_line": "[[Seneca]] offers perhaps the most humanizing account of temperance in the Stoic tradition. In his *Letters to Lucilius*, he is refreshingly honest about his own continuing attachments — to good food, to friendship, to his books — while insisting that these attachments must not become dependencies that compromise his rational freedom. \"I do not withdraw myself from pleasures,\" he writes, in what Robertson characterizes as the essential Stoic position. \"I simply aim to possess them without being possessed by them.\" This is temperance: not the elimination of preference but the refusal to be governed by preference.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 373,
+        "section": "Part 4: The Unity of the Virtues and the Figure of the Sage",
+        "context_line": "This unity thesis generates one of the most challenging and provocative concepts in Stoic ethics: the figure of the *Sage* (*sophos* in Greek, *sapiens* in Latin). The Sage is the person who has achieved complete virtue — all four virtues in their unified fullness, the person for whom the [[Dichotomy of Control]] is not a principle to be remembered and applied but an instinct so deeply embodied that deviation from it would be psychologically impossible.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 385,
+        "section": "Part 5: Prohairesis — The Architecture of Stoic Selfhood",
+        "context_line": "No account of Stoic core principles can omit the concept that [[Epictetus]] placed at the very centre of his teaching: *[[Prohairesis]]* — the faculty of rational choice, will, or moral purpose. It is Epictetus' most significant technical contribution to the Stoic tradition, and it is the conceptual machinery through which the [[Dichotomy of Control]] operates at the level of individual psychology.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Prohairesis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prohairesis]]",
+        "line_number": 385,
+        "section": "Part 5: Prohairesis — The Architecture of Stoic Selfhood",
+        "context_line": "No account of Stoic core principles can omit the concept that [[Epictetus]] placed at the very centre of his teaching: *[[Prohairesis]]* — the faculty of rational choice, will, or moral purpose. It is Epictetus' most significant technical contribution to the Stoic tradition, and it is the conceptual machinery through which the [[Dichotomy of Control]] operates at the level of individual psychology.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 385,
+        "section": "Part 5: Prohairesis — The Architecture of Stoic Selfhood",
+        "context_line": "No account of Stoic core principles can omit the concept that [[Epictetus]] placed at the very centre of his teaching: *[[Prohairesis]]* — the faculty of rational choice, will, or moral purpose. It is Epictetus' most significant technical contribution to the Stoic tradition, and it is the conceptual machinery through which the [[Dichotomy of Control]] operates at the level of individual psychology.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Cognitive Behavioral Therapy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Behavioral Therapy]]",
+        "line_number": 459,
+        "section": "Part 7: Stoicism and the Science of Mind — Modern Psychological Parallels",
+        "context_line": "The connection to [[Cognitive Behavioral Therapy]] deserves particular mention, because CBT's philosophical debt to Stoicism is explicit and documented. Aaron Beck, the founder of cognitive therapy, explicitly acknowledged the influence of the Stoic tradition — and specifically the Epictetan insight that it is not events but our judgments of events that disturb us — on the development of his therapeutic model. Albert Ellis, the founder of Rational Emotive Behaviour Therapy (REBT), was even more explicit: he cited Epictetus by name as a foundational influence and structured his therapeutic approach around the core Stoic distinction between activating events, beliefs about those events, and the emotional consequences of those beliefs (the ABC model). The Stoic framework of prohairesis and the Epictetan cognitive model of disturbance are, in important respects, the ancient forerunner of what became the dominant therapeutic paradigm of the late twentieth century.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 467,
+        "section": "Case 1: Marcus Aurelius and the Unity of Virtue Under Pressure",
+        "context_line": "[[Marcus Aurelius]] was, by any external measure, one of the most fortunate men in Roman history — and one of the most tested. He ruled the Roman Empire at its geographical peak, held absolute power over millions, and possessed enormous personal wealth. He also governed through the devastating Antonine Plague, which killed an estimated five to ten million people; fought prolonged and brutal military campaigns on the northern frontier; and navigated the complex politics of court life, where flattery was ubiquitous and genuine counsel rare.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 480,
+        "section": "Case 2: Epictetus and the Radical Freedom of Prohairesis",
+        "context_line": "[[Epictetus]] was born into slavery, owned by Epaphroditus, a secretary to the Emperor Nero. His biography — a former slave who became the most influential Stoic teacher of the Roman period — is itself the most powerful demonstration of the Stoic thesis about prohairesis. The external conditions of his early life were among the most constrained imaginable; yet the philosophy he developed, and which he lived before he taught it, insists that such external constraints cannot reach what is genuinely one's own.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 01 — Introduction to Stoicism: Origins and Key Figures",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 01 — Introduction to Stoicism: Origins and Key Figures]]",
+        "line_number": 500,
+        "section": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+        "context_line": "> - **Builds on**: [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] establishes who the Stoics were and what intellectual tradition they inherited. This report explains *what* they believed and *why* it is coherent.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]]",
+        "line_number": 501,
+        "section": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+        "context_line": "> - **Enables**: [[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]] presupposes an understanding of what the exercises are *for* — namely, the cultivation of virtue through habitual practice. Without the framework established here, the practices risk being adopted as techniques rather than understood as philosophy.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 05 — Stoicism in Leadership and Decision-Making",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 05 — Stoicism in Leadership and Decision-Making]]",
+        "line_number": 502,
+        "section": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+        "context_line": "> - **Underlies**: [[Report 05 — Stoicism in Leadership and Decision-Making]] draws directly on the concept of wisdom (*sophia*) as the core leadership virtue, and on the distinction between preferred indifferents (organizational success, social approval) and genuine goods (virtuous character).",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 10 — Stoicism and CBT",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10 — Stoicism and CBT]]",
+        "line_number": 503,
+        "section": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+        "context_line": "> - **Illuminates**: [[Report 10 — Stoicism and CBT]] requires the philosophical framework established here — particularly the Epictetan cognitive model of disturbance and the role of prohairesis — to be fully intelligible as a genuine philosophical comparison rather than a surface-level analogy.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Report 04 — Stoicism and Modern Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 04 — Stoicism and Modern Psychology]]",
+        "line_number": 504,
+        "section": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+        "context_line": "> - **In dialogue with**: [[Report 04 — Stoicism and Modern Psychology]] is where the empirical support for the framework outlined here receives its fullest treatment — where the claims about virtue, self-regulation, and wellbeing are tested against the findings of contemporary psychology.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 518,
+        "section": "Conclusion: The Living Architecture of Virtue",
+        "context_line": "[[Marcus Aurelius]], ruling an empire; [[Epictetus]], born into slavery; [[Seneca]], navigating the political violence of Nero's court — these were not people who had the luxury of retreat into comfortable philosophy. They practised Stoicism in the middle of difficulty, as a live operational framework for remaining human and morally serious under circumstances that would have broken less reflective people. That is the tradition this series is exploring. And it begins, irreducibly, with the concept of virtue — the one thing the Stoics were certain was genuinely good, and the one thing they were equally certain was genuinely within our reach.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 518,
+        "section": "Conclusion: The Living Architecture of Virtue",
+        "context_line": "[[Marcus Aurelius]], ruling an empire; [[Epictetus]], born into slavery; [[Seneca]], navigating the political violence of Nero's court — these were not people who had the luxury of retreat into comfortable philosophy. They practised Stoicism in the middle of difficulty, as a live operational framework for remaining human and morally serious under circumstances that would have broken less reflective people. That is the tradition this series is exploring. And it begins, irreducibly, with the concept of virtue — the one thing the Stoics were certain was genuinely good, and the one thing they were equally certain was genuinely within our reach.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 518,
+        "section": "Conclusion: The Living Architecture of Virtue",
+        "context_line": "[[Marcus Aurelius]], ruling an empire; [[Epictetus]], born into slavery; [[Seneca]], navigating the political violence of Nero's court — these were not people who had the luxury of retreat into comfortable philosophy. They practised Stoicism in the middle of difficulty, as a live operational framework for remaining human and morally serious under circumstances that would have broken less reflective people. That is the tradition this series is exploring. And it begins, irreducibly, with the concept of virtue — the one thing the Stoics were certain was genuinely good, and the one thing they were equally certain was genuinely within our reach.",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "The Stoic Sage — Ideal and Reality",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Stoic Sage — Ideal and Reality]]",
+        "line_number": 580,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - **[[The Stoic Sage — Ideal and Reality]]** — The figure of the perfectly virtuous person as a regulative ideal deserves its own deep treatment, including the Stoics' honest acknowledgment of the Sage's rarity, the philosophical function of regulative ideals, and the comparison to analogous ideals in Kantian ethics and Buddhist enlightenment traditions. Priority: **High**",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Unity of the Virtues — Philosophical Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Unity of the Virtues — Philosophical Analysis]]",
+        "line_number": 582,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - **[[Unity of the Virtues — Philosophical Analysis]]** — The claim that genuine courage entails genuine wisdom entails genuine justice is one of the most provocative and sophisticated theses in ancient ethics. A dedicated note examining the arguments for and against this claim, including Aristotle's alternative conception of separable virtues, would significantly enrich the knowledge graph. Priority: **High**",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Preferred Indifferents — A Complete Taxonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Preferred Indifferents — A Complete Taxonomy]]",
+        "line_number": 584,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - **[[Preferred Indifferents — A Complete Taxonomy]]** — The trichotomy of goods/bads/indifferents, and particularly the category of preferred indifferents (*proegmena adiaphora*), is persistently misunderstood. A dedicated treatment covering the full taxonomy, the Stoic argument for the category, and the comparison to Aristotelian external goods would close an important gap. Priority: **High**",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "Prohairesis — Epictetus' Central Concept",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prohairesis — Epictetus' Central Concept]]",
+        "line_number": 586,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - **[[Prohairesis — Epictetus' Central Concept]]** — While this report introduces prohairesis, the concept deserves its own dedicated note exploring its relationship to Aristotle's *prohairesis*, its connection to modern philosophy of action, and its implications for debates about free will and determinism. Priority: **Medium**",
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "target": "The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism]]",
+        "line_number": 588,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - **[[The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism]]** — The comparison between the Stoic claim that virtue is *sufficient* for eudaimonia and the Aristotelian claim that virtue is *necessary but not sufficient* (that some external goods are also required) is one of the most productive tensions in ancient ethics. Priority: **Medium**",
+        "source": "stoicism-report-02-core-principles.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Stoic-Happiness-Thesis",
+        "value": "In Stoic philosophy, flourishing (eudaimonia) is constituted entirely by the possession and exercise of virtue; external circumstances affect the material conditions of life but not its moral quality, which depends entirely on the rational character and choices of the agent.",
+        "format": "bracket",
+        "line_number": 253,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Virtue-as-Knowledge",
+        "value": "The Stoic doctrine, inherited from Socrates, that virtue is a form of stable knowledge or expertise (episteme) about genuine goods and evils — not merely a tendency or disposition in the behavioural sense, but a comprehensive rational understanding that cannot coexist with vice.",
+        "format": "bracket",
+        "line_number": 270,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Preferred-Indifferents",
+        "value": "Things that have genuine instrumental value and that a rational agent will typically pursue — health, wealth, reputation, relationships — but which are not constitutive of eudaimonia and whose absence or loss does not, in itself, constitute unhappiness in the Stoic sense.",
+        "format": "bracket",
+        "line_number": 283,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Virtue-Sufficiency-Argument",
+        "value": "The Stoic logical argument that because external goods can be used for either good or ill — making their benefit conditional — only virtue, which cannot be turned toward harm, constitutes a genuine and unconditional good.",
+        "format": "bracket",
+        "line_number": 287,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Sophia",
+        "value": "The master virtue in Stoic ethics — practical wisdom as comprehensive knowledge of what is genuinely good, bad, and indifferent, enabling the correct choice of action in every circumstance. In the Roman tradition, rendered as prudentia.",
+        "format": "bracket",
+        "line_number": 297,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Meditative-Stripping",
+        "value": "Marcus Aurelius' characteristic cognitive practice of describing phenomena in their literal, unadorned terms — deliberately bypassing conventional valuations — as a method for cultivating the discernment that constitutes Stoic wisdom.",
+        "format": "bracket",
+        "line_number": 311,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Dikaiosyne",
+        "value": "The Stoic virtue of justice — the disposition to give what is genuinely owed to all persons in accordance with their rational nature and shared humanity; encompasses honesty, fairness, and the sense of active social obligation that flows from recognizing the [[Logos",
+        "format": "bracket",
+        "line_number": 315,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Cosmopolitan-Justice",
+        "value": "The Stoic thesis that justice extends to all rational beings regardless of political affiliation, ethnicity, or legal status — grounded in the shared participation of all persons in the universal Logos — making Stoic ethics unusually egalitarian by ancient standards.",
+        "format": "bracket",
+        "line_number": 327,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Andreia",
+        "value": "The Stoic virtue of courage — not merely physical bravery but the stable disposition to act correctly even in the face of difficulty, danger, discomfort, or the fear of loss. In Stoic terms, courage is wisdom applied to the domain of apparent threats and difficulties.",
+        "format": "bracket",
+        "line_number": 331,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Stoic-Courage-Redefined",
+        "value": "Courage in Stoic ethics is not fearlessness or emotional suppression but the stable disposition to act in accordance with wisdom and justice despite the presence of fear, discomfort, or costly consequences — making it applicable to moral and intellectual challenges as much as physical ones.",
+        "format": "bracket",
+        "line_number": 343,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Sophrosyne",
+        "value": "The Stoic virtue of temperance or self-control — the disposition to moderate one's desires, impulses, and appetites in accordance with reason; not the elimination of desire but its rational regulation so that it does not override judgment or override one's commitment to virtue.",
+        "format": "bracket",
+        "line_number": 347,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Temperance-as-Rational-Governance",
+        "value": "Sophrosyne involves not the suppression of natural desires but their rational regulation — the condition in which one can pursue and enjoy preferred indifferents without allowing that pursuit to compromise one's commitment to virtue or override one's rational judgment.",
+        "format": "bracket",
+        "line_number": 358,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Unity-of-Virtues",
+        "value": "The Stoic thesis that the four cardinal virtues — wisdom, justice, courage, and temperance — are not separable but aspects of a single unified excellent character; possessing any one in the genuine Stoic sense logically entails possessing all the others, because all derive from the same foundational practical knowledge.",
+        "format": "bracket",
+        "line_number": 371,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "The-Stoic-Sage",
+        "value": "The theoretical figure of the perfectly virtuous person in Stoic ethics — functioning as a regulative ideal that clarifies what virtue fully achieved would look like, acknowledged by the Stoics themselves to be extremely rare or perhaps never instantiated, but necessary as a conceptual anchor for the project of moral development.",
+        "format": "bracket",
+        "line_number": 377,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Prohairesis",
+        "value": "Epictetus' central concept — the faculty of rational choice, moral purpose, and will that constitutes the innermost self in Stoic psychology. Prohairesis is the one thing that is entirely \"up to us\" (eph' hēmin), the seat of virtue and the source of genuine freedom, because it is the only thing that cannot be externally compelled.",
+        "format": "bracket",
+        "line_number": 387,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Epictetus-Cognitive-Model",
+        "value": "Epictetus' psychological thesis that disturbance arises not from external events themselves but from the judgments (*kriseis*) we form about those events — making virtue, as correct judgment, the primary remedy for suffering and the foundation of freedom.",
+        "format": "bracket",
+        "line_number": 399,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "field_name": "Virtue-as-Neuroplastic-Practice",
+        "value": "Contemporary neuroscience supports the Stoic practical program: repeated practice of virtuous judgment and action produces structural changes in neural circuits governing evaluation, self-regulation, and emotional response — making the Stoic habituation model of virtue development compatible with modern brain science.",
+        "format": "bracket",
+        "line_number": 457,
+        "source": "stoicism-report-02-core-principles.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Core Principles: Virtue, Wisdom, and Self-Control",
+        "anchor": "core-principles-virtue-wisdom-and-self-control",
+        "line_number": 215,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 1: The Question That Stoicism Answers — What Is a Good Life?",
+        "anchor": "part-1-the-question-that-stoicism-answers-what-is-a-good-life",
+        "line_number": 235,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 2: The Conceptual Architecture — What Is Virtue?",
+        "anchor": "part-2-the-conceptual-architecture-what-is-virtue",
+        "line_number": 257,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "Virtue as a Technical Concept",
+        "anchor": "virtue-as-a-technical-concept",
+        "line_number": 259,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "The Critical Distinction: Goods, Bads, and Indifferents",
+        "anchor": "the-critical-distinction-goods-bads-and-indifferents",
+        "line_number": 274,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 3: The Four Cardinal Virtues — A Systematic Architecture",
+        "anchor": "part-3-the-four-cardinal-virtues-a-systematic-architecture",
+        "line_number": 291,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Wisdom (Sophia / Prudentia)",
+        "anchor": "1-wisdom-sophia-prudentia",
+        "line_number": 295,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Justice (Dikaiosyne)",
+        "anchor": "2-justice-dikaiosyne",
+        "line_number": 313,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Courage (Andreia)",
+        "anchor": "3-courage-andreia",
+        "line_number": 329,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Temperance (Sophrosyne)",
+        "anchor": "4-temperance-sophrosyne",
+        "line_number": 345,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 4: The Unity of the Virtues and the Figure of the Sage",
+        "anchor": "part-4-the-unity-of-the-virtues-and-the-figure-of-the-sage",
+        "line_number": 362,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 5: Prohairesis — The Architecture of Stoic Selfhood",
+        "anchor": "part-5-prohairesis-the-architecture-of-stoic-selfhood",
+        "line_number": 383,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 6: The Stoic Toolkit — Practical Exercises in Virtue",
+        "anchor": "part-6-the-stoic-toolkit-practical-exercises-in-virtue",
+        "line_number": 405,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 7: Stoicism and the Science of Mind — Modern Psychological Parallels",
+        "anchor": "part-7-stoicism-and-the-science-of-mind-modern-psychological-parallels",
+        "line_number": 444,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 8: Stoicism in Action — Worked Examples of Virtue in Practice",
+        "anchor": "part-8-stoicism-in-action-worked-examples-of-virtue-in-practice",
+        "line_number": 463,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "Case 1: Marcus Aurelius and the Unity of Virtue Under Pressure",
+        "anchor": "case-1-marcus-aurelius-and-the-unity-of-virtue-under-pressure",
+        "line_number": 465,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 3,
+        "text": "Case 2: Epictetus and the Radical Freedom of Prohairesis",
+        "anchor": "case-2-epictetus-and-the-radical-freedom-of-prohairesis",
+        "line_number": 478,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 9: Integration — How This Report Connects to the Broader Stoic Architecture",
+        "anchor": "part-9-integration-how-this-report-connects-to-the-broader-stoic-architecture",
+        "line_number": 493,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion: The Living Architecture of Virtue",
+        "anchor": "conclusion-the-living-architecture-of-virtue",
+        "line_number": 510,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "References and Primary Sources",
+        "anchor": "references-and-primary-sources",
+        "line_number": 528,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Further Reading",
+        "anchor": "further-reading",
+        "line_number": 560,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Expansion Topics for PKB",
+        "anchor": "expansion-topics-for-pkb",
+        "line_number": 575,
+        "source": "stoicism-report-02-core-principles.md"
+      },
+      {
+        "level": 2,
+        "text": "Glossary",
+        "anchor": "glossary",
+        "line_number": 592,
+        "source": "stoicism-report-02-core-principles.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "Marcus Aurelius. *Meditations*. Trans. Gregory Hays. Modern Library, 2002. (The most accessible contemporary translation; Hays captures the personal and urgent quality of the original.)",
+          "indent_level": 0,
+          "line_number": 531,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Epictetus. *Enchiridion*. Trans. P.E. Matheson. Oxford University Press, 2008. (The condensed handbook of Stoic practice; the essential Epictetus.)",
+          "indent_level": 0,
+          "line_number": 533,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Epictetus. *Discourses, Books 1–4*. Trans. Robin Hard. Oxford University Press, 2014. (The fuller treatment; essential for understanding the prohairesis concept in depth.)",
+          "indent_level": 0,
+          "line_number": 534,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Seneca. *Letters to Lucilius (Epistulae Morales)*. Trans. Richard Mott Gummere. Loeb Classical Library, 1917. (Freely available online via Project Gutenberg in the Barker translation.)",
+          "indent_level": 0,
+          "line_number": 535,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Seneca. *On the Happy Life (De Vita Beata)*. In *Dialogues and Essays*, trans. John Davie. Oxford University Press, 2008.",
+          "indent_level": 0,
+          "line_number": 536,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Diogenes Laërtius. *Lives of the Eminent Philosophers*, Book VII (On the Stoics). Trans. R.D. Hicks. Loeb Classical Library, 1925. (The primary ancient source for early Stoic doctrine.)",
+          "indent_level": 0,
+          "line_number": 537,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Hadot, Pierre. *Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault*. Blackwell, 1995. (Essential for understanding Stoic philosophy as lived practice rather than academic doctrine.)",
+          "indent_level": 0,
+          "line_number": 540,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Long, A.A. *Epictetus: A Stoic and Socratic Guide to Life*. Oxford University Press, 2002. (The definitive scholarly treatment of Epictetus; excellent on prohairesis.)",
+          "indent_level": 0,
+          "line_number": 542,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Inwood, Brad. *Ethics and Human Action in Early Stoicism*. Oxford University Press, 1985. (Technically demanding but indispensable for the philosophical foundations of Stoic virtue theory.)",
+          "indent_level": 0,
+          "line_number": 543,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Annas, Julia. *The Morality of Happiness*. Oxford University Press, 1993. (Best comparative treatment of ancient eudaimonist ethics, including the Stoics.)",
+          "indent_level": 0,
+          "line_number": 544,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Pigliucci, Massimo. *How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life*. Basic Books, 2017. (The best philosophically rigorous popular introduction; Pigliucci is a professional philosopher.)",
+          "indent_level": 0,
+          "line_number": 547,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Robertson, Donald. *Stoicism and the Art of Happiness*. Teach Yourself, 2013. (Written by a cognitive psychotherapist; excellent on the CBT connections.)",
+          "indent_level": 0,
+          "line_number": 549,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Holiday, Ryan and Hanselman, Stephen. *The Daily Stoic*. Portfolio, 2016. (Daily readings; useful for practice, though philosophically lighter than Pigliucci.)",
+          "indent_level": 0,
+          "line_number": 550,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Deci, E.L. and Ryan, R.M. \"The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behaviour.\" *Psychological Inquiry* 11(4), 2000.",
+          "indent_level": 0,
+          "line_number": 553,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Peterson, C. and Seligman, M.E.P. *Character Strengths and Virtues: A Handbook and Classification*. Oxford University Press, 2004. (The empirical classification of character virtues in positive psychology.)",
+          "indent_level": 0,
+          "line_number": 555,
+          "source": "stoicism-report-02-core-principles.md"
+        },
+        {
+          "text": "Rotter, J.B. \"Generalized expectancies for internal versus external control of reinforcement.\" *Psychological Monographs* 80(1), 1966. (The foundational paper on internal/external locus of control.)",
+          "indent_level": 0,
+          "line_number": 556,
+          "source": "stoicism-report-02-core-principles.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Chrysippus",
+      "Cognitive Behavioral Therapy",
+      "Dichotomy of Control",
+      "Epictetus",
+      "Eudaimonia",
+      "Logos",
+      "Marcus Aurelius",
+      "Plato",
+      "Preferred Indifferents — A Complete Taxonomy",
+      "Prohairesis",
+      "Prohairesis — Epictetus' Central Concept",
+      "Report 01 — Introduction to Stoicism: Origins and Key Figures",
+      "Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts",
+      "Report 04 — Stoicism and Modern Psychology",
+      "Report 05 — Stoicism in Leadership and Decision-Making",
+      "Report 10 — Stoicism and CBT",
+      "Seneca",
+      "Socrates",
+      "Stoicism",
+      "Stoicism Series Overview",
+      "The Stoic Sage — Ideal and Reality",
+      "The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism",
+      "Unity of the Virtues — Philosophical Analysis",
+      "Zeno of Citium"
+    ],
+    "unique_wiki_link_count": 24,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Stoicism MOC]]",
+        "[[Report 01 — Introduction to Stoicism: Origins and Key Figures]]"
+      ],
+      "related": [
+        "[[Stoicism]]",
+        "[[Marcus Aurelius]]",
+        "[[Epictetus]]",
+        "[[Seneca]]",
+        "[[Chrysippus]]",
+        "[[Zeno of Citium]]",
+        "[[Virtue Ethics]]",
+        "[[Aristotle]]",
+        "[[Eudaimonia]]",
+        "[[Dichotomy of Control]]",
+        "[[Prohairesis]]",
+        "[[Logos]]"
+      ],
+      "broader": [
+        "[[Philosophy MOC]]",
+        "[[Virtue Ethics]]",
+        "[[Ancient Philosophy]]",
+        "[[Moral Psychology]]"
+      ],
+      "narrower": [
+        "[[Sophia (Stoic Wisdom)]]",
+        "[[Dikaiosyne (Justice)]]",
+        "[[Andreia (Courage)]]",
+        "[[Sophrosyne (Temperance)]]",
+        "[[Preferred Indifferents]]",
+        "[[The Stoic Sage]]"
+      ],
+      "see-also": [
+        "[[Aristotelian Virtue Ethics]]",
+        "[[Cognitive Behavioral Therapy]]",
+        "[[Self-Determination Theory]]",
+        "[[Positive Psychology]]",
+        "[[Mindfulness]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Chrysippus",
+      "Cognitive Behavioral Therapy",
+      "Dichotomy of Control",
+      "Epictetus",
+      "Eudaimonia",
+      "Logos",
+      "Marcus Aurelius",
+      "Plato",
+      "Preferred Indifferents — A Complete Taxonomy",
+      "Prohairesis",
+      "Prohairesis — Epictetus' Central Concept",
+      "Report 01 — Introduction to Stoicism: Origins and Key Figures",
+      "Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts",
+      "Report 04 — Stoicism and Modern Psychology",
+      "Report 05 — Stoicism in Leadership and Decision-Making",
+      "Report 10 — Stoicism and CBT",
+      "Seneca",
+      "Socrates",
+      "Stoicism",
+      "Stoicism Series Overview",
+      "The Stoic Sage — Ideal and Reality",
+      "The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism",
+      "Unity of the Virtues — Philosophical Analysis",
+      "Zeno of Citium"
+    ]
+  }
+}

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,6 +72,14 @@ see-also:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
   - "[[KWL-Strategy|KWL Strategy]]"
   - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Advance-Organizers|Advance Organizers]]"
+  - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
+  - "[[David-Ausubel|David Ausubel]]"
+  - "[[Schema|Schema]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[KWL-Strategy|KWL Strategy]]"
+  - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Pre-questioning|Pre-questioning]]"
   - "[[Advance-Organizers|Advance Organizers]]"
   - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
   - "[[David-Ausubel|David Ausubel]]"
@@ -184,6 +192,26 @@ importance: high
 - [[Schema-Theory|Schema Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Patricia-Alexander|Patricia Alexander]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+
+
 
 
 

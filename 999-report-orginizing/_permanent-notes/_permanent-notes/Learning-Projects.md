@@ -17,7 +17,7 @@ domain: other
 subdomains:
   - 
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - self-directed-learning-foundational-report-2026-03-11
@@ -43,6 +43,14 @@ see-also:
   - "[[Learning-Contracts|Learning Contracts]]"
   - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
+  - "[[Allen-Tough|Allen Tough]]"
+  - "[[Adult-Education|Adult Education]]"
+  - "[[Online-Learning-Design|Online Learning Design]]"
+  - "[[Learning-Contracts|Learning Contracts]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
+  - "[[Malcolm-Knowles|Malcolm Knowles]]"
   - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[Allen-Tough|Allen Tough]]"
   - "[[Adult-Education|Adult Education]]"
@@ -139,6 +147,26 @@ importance: high
 - [[Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Related concepts** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
+[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Philip-Candy|Philip Candy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]] * [[Ralph-Hiemstra|Ralph Hiemstra]] * [[D.-Randy-Garrison|D. Randy Garrison]]
+
+**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+
+
 
 
 

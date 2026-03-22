@@ -169,7 +169,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This article presents a rigorous academic analysis of the [[Stoic Dichotomy of Control]]—the philosophical principle dividing reality into elements within personal control (prohairesis) and those beyond it—as a foundational metacognitive framework for enhancing self-behavioral management, psychological resilience, and motivational fortitude. Drawing from both classical Stoic texts and contemporary psychological research, we demonstrate that this ancient distinction functions as a sophisticated cognitive architecture for [[Emotional Regulation]], [[Self-Regulation-Theory]], and adaptive coping.
 > 
-> The analysis establishes that the Dichotomy of Control operates through multiple psychological mechanisms: it recalibrates [[attentional focus]] toward agentic domains, restructures [[causal attributions]] to emphasize internal locus of control, facilitates [[Cognitive-Reappraisal|Cognitive Reappraisal]] of adverse events, and promotes values-aligned action independent of outcome contingencies. Contemporary empirical research from [[Cognitive-Behavioral Therapy]] (CBT), [[Metacognition]] studies, resilience science, and [[Self-Determination-Theory|Self-Determination Theory]] converges to validate the psychological efficacy of this Stoic framework. We examine how systematic application of this principle enhances [[metacognitive awareness]], strengthens behavioral persistence, reduces maladaptive emotional reactivity, and cultivates what modern psychology terms "[[hardiness]]" or psychological resilience.
+> The analysis establishes that the Dichotomy of Control operates through multiple psychological mechanisms: it recalibrates [[attentional focus]] toward agentic domains, restructures [[causal attributions]] to emphasize internal locus of control, facilitates [[Cognitive-Reappraisal|Cognitive Reappraisal]] of adverse events, and promotes values-aligned action independent of outcome contingencies. Contemporary empirical research from [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] (CBT), [[Metacognition]] studies, resilience science, and [[Self-Determination-Theory|Self-Determination Theory]] converges to validate the psychological efficacy of this Stoic framework. We examine how systematic application of this principle enhances [[metacognitive-awareness|metacognitive awareness]], strengthens behavioral persistence, reduces maladaptive emotional reactivity, and cultivates what modern psychology terms "[[hardiness]]" or psychological resilience.
 > 
 > By integrating classical philosophical wisdom with contemporary neuroscience, cognitive psychology, and clinical research, this article reveals the Dichotomy of Control not merely as an abstract philosophical principle but as a concrete, trainable cognitive skill with profound implications for mental health, performance optimization, and human flourishing. The findings suggest that explicit training in this Stoic framework represents a powerful intervention for enhancing adaptive self-regulation across clinical, educational, and organizational contexts.
 
@@ -265,7 +265,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Core Principle 5: Metacognitive Architecture and Self-Regulation**
->     - The Dichotomy of Control functions as what cognitive scientists would recognize as a [[metacognitive strategy]]—a higher-order cognitive framework that structures how individuals monitor and regulate their own cognitive processes. Contemporary research distinguishes metacognition (thinking about thinking) from self-regulation (the broader process of monitoring and controlling cognition, motivation, and behavior), with metacognition serving as a crucial component enabling effective self-regulation.[^41]
+>     - The Dichotomy of Control functions as what cognitive scientists would recognize as a [[Metacognitive-Strategy|metacognitive strategy]]—a higher-order cognitive framework that structures how individuals monitor and regulate their own cognitive processes. Contemporary research distinguishes metacognition (thinking about thinking) from self-regulation (the broader process of monitoring and controlling cognition, motivation, and behavior), with metacognition serving as a crucial component enabling effective self-regulation.[^41]
 >     - The MAPS model of self-regulation integrates three essential components: Possible selves (conceptualization of future identity and goals), Agency (sense of personal efficacy and control), and Metacognitive strategies (knowledge and deployment of effective learning and regulatory tactics). The Dichotomy of Control enhances all three: it clarifies which aspects of possible selves are genuinely attainable, grounds agency in the sphere of actual control, and provides a concrete metacognitive strategy for evaluating and redirecting effort.[^42]
 >     - The framework also addresses what psychologists term [[regulatory focus]]—whether individuals orient toward promotion (achieving gains) or prevention (avoiding losses). Excessive focus on uncontrollable outcomes can generate maladaptive prevention focus, with individuals becoming paralyzed by fear of losses they cannot prevent. The Stoic reorientation toward controllable responses enables more balanced regulatory focus, maintaining motivation toward positive goals while accepting that losses may occur despite best efforts.[^43]
 >     - Recent neuroscience research supports the Stoic view of diachronic self-regulation through cultivation of second-order volition—the capacity to override first-order impulses through deliberate, voluntary intention. Evidence from studies on mindfulness and cognitive control demonstrates that these metacognitive capacities can be systematically trained, producing measurable changes in both brain activity patterns and behavioral outcomes.[^44]
@@ -391,7 +391,7 @@ extraction_summary:
 >     - The most striking insight is the radical internalization of control—the Stoic claim that even our own bodies, health, success, relationships, and reputation lie *outside* the sphere of absolute control, with genuine agency residing only in our judgments, intentions, and responses. This seems absurd initially: surely we control our bodies through diet and exercise, our success through hard work, our relationships through how we treat others? But the Stoics make a precise distinction: we *influence* these domains but cannot *guarantee* outcomes. Illness, accident, economic collapse, or others' choices can thwart our best efforts. What remains genuinely "up to us" is our volition—how we use our rational capacity, what we value, how we respond. This proves counterintuitive because it contradicts the modern narrative of total self-determination ("You can achieve anything if you just want it enough!"). Yet empirical psychology vindicates the Stoic view: individuals who maintain this distinction—focusing on controllable responses while accepting uncontrollable outcomes—demonstrate superior psychological well-being, greater persistence, and ironically often better outcomes than those who over-identify with external results. The surprise is that *accepting* limits on control paradoxically enhances both agency and achievement.
 > 
 > - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->     - [[Cognitive-Behavioral Therapy]] — The article directly connects with and deepens my understanding of CBT's philosophical foundations. I knew CBT involved "cognitive restructuring" and "challenging negative thoughts," but this analysis reveals these techniques as systematized applications of the specific Stoic practice of discriminating controllable from uncontrollable elements and reappraising situations accordingly. The article challenged my implicit assumption that CBT represented a distinctly modern innovation; instead, it appears contemporary psychology has essentially rediscovered and empirically validated principles the Stoics articulated two millennia ago. This recontextualizes CBT not as pioneering psychological technology but as rigorous scientific systematization of ancient philosophical wisdom. The practical implication: I can supplement CBT techniques by studying original Stoic texts, potentially gaining richer understanding of the cognitive frameworks underlying the therapeutic methods.
+>     - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] — The article directly connects with and deepens my understanding of CBT's philosophical foundations. I knew CBT involved "cognitive restructuring" and "challenging negative thoughts," but this analysis reveals these techniques as systematized applications of the specific Stoic practice of discriminating controllable from uncontrollable elements and reappraising situations accordingly. The article challenged my implicit assumption that CBT represented a distinctly modern innovation; instead, it appears contemporary psychology has essentially rediscovered and empirically validated principles the Stoics articulated two millennia ago. This recontextualizes CBT not as pioneering psychological technology but as rigorous scientific systematization of ancient philosophical wisdom. The practical implication: I can supplement CBT techniques by studying original Stoic texts, potentially gaining richer understanding of the cognitive frameworks underlying the therapeutic methods.
 
 #### 36. [QUOTE] Untitled *(Line 581)*
 
@@ -446,7 +446,7 @@ extraction_summary:
 - [[2025-11-07]]
 - [[Cognitive Neuroscience of Self-Regulation]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Emotional Regulation]]
 - [[Internal Locus of Control]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
@@ -476,12 +476,12 @@ extraction_summary:
 - [[Intrinsic-Motivation|intrinsic motivation]]
 - [[Learned-Helplessness|learned helplessness]]
 - [[Mental-Model|mental model]]
-- [[metacognitive awareness]]
-- [[metacognitive strategy]]
+- [[metacognitive-awareness|metacognitive awareness]]
+- [[Metacognitive-Strategy|metacognitive strategy]]
 - [[motivation]]
-- [[psychological well-being]]
+- [[psychological-well-being|psychological well-being]]
 - [[regulatory focus]]
-- [[self-determination]]
+- [[Self-Determination]]
 - [[stress resistance]]
 - [[values-based action]]
 - [[🗣️💭Quote_Everything-can-be-taken-from-a-person-but-one-thing_🆔20251107065938]]
@@ -504,10 +504,10 @@ extraction_summary:
 | 10 | [[attentional focus]] | — | — | Document Start | 39 |
 | 11 | [[causal attributions]] | — | — | Document Start | 39 |
 | 12 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Document Start | 39 |
-| 13 | [[Cognitive-Behavioral Therapy]] | — | — | Document Start | 39 |
+| 13 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Document Start | 39 |
 | 14 | [[Metacognition]] | — | — | Document Start | 39 |
 | 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 39 |
-| 16 | [[metacognitive awareness]] | — | — | Document Start | 39 |
+| 16 | [[metacognitive-awareness|metacognitive awareness]] | — | — | Document Start | 39 |
 | 17 | [[hardiness]] | — | — | Document Start | 39 |
 | 18 | [[Stoic Dichotomy of Control]] | — | — | 1.0 📜 Introduction | 48 |
 | 19 | [[Stoic Dichotomy of Control]] | — | — | 1.0 📜 Introduction | 54 |
@@ -519,7 +519,7 @@ extraction_summary:
 | 25 | [[adaptive coping]] | — | — | 1.0 📜 Introduction | 62 |
 | 26 | [[Intrinsic-Motivation|intrinsic motivation]] | — | — | 1.0 📜 Introduction | 64 |
 | 27 | [[grit]] | — | — | 1.0 📜 Introduction | 64 |
-| 28 | [[self-determination]] | — | — | 1.0 📜 Introduction | 64 |
+| 28 | [[Self-Determination]] | — | — | 1.0 📜 Introduction | 64 |
 | 29 | [[Metacognitive Architecture]] | — | — | 1.0 📜 Introduction | 66 |
 | 30 | [[cognitive schema]] | — | — | 1.0 📜 Introduction | 66 |
 | 31 | [[Mental-Model|mental model]] | — | — | 1.0 📜 Introduction | 66 |
@@ -537,7 +537,7 @@ extraction_summary:
 | 43 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 3.1 ⚛️ Foundational Principles | 180 |
 | 44 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 3.1 ⚛️ Foundational Principles | 186 |
 | 45 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 3.1 ⚛️ Foundational Principles | 196 |
-| 46 | [[metacognitive strategy]] | — | — | 3.1 ⚛️ Foundational Principles | 200 |
+| 46 | [[Metacognitive-Strategy|metacognitive strategy]] | — | — | 3.1 ⚛️ Foundational Principles | 200 |
 | 47 | [[regulatory focus]] | — | — | 3.1 ⚛️ Foundational Principles | 202 |
 | 48 | [[Metacognition]] | — | — | 3.1 ⚛️ Foundational Principles | 206 |
 | 49 | [[cognitive appraisal]] | — | — | 4.1 The Cognitive Appraisal Cascade | 216 |
@@ -546,12 +546,12 @@ extraction_summary:
 | 52 | [[cognitive distancing technique]] | — | — | 4.2 Emotional Regulation Through Cogn... | 254 |
 | 53 | [[grit]] | — | — | 4.3 Behavioral Persistence and Grit | 266 |
 | 54 | [[Learned-Helplessness|learned helplessness]] | — | — | 4.3 Behavioral Persistence and Grit | 276 |
-| 55 | [[psychological well-being]] | — | — | 4.5 Identity and Character Development | 302 |
+| 55 | [[psychological-well-being|psychological well-being]] | — | — | 4.5 Identity and Character Development | 302 |
 | 56 | [[Cognitive Neuroscience of Self-Regulation]] | — | — | 6.6 Neuroscience and Brain Plasticity | 450 |
 | 57 | [[2025-11-07]] | — | — | 7.6 Mechanisms of Long-Term Behavior ... | 517 |
 | 58 | [[Stoic Dichotomy of Control]] | — | — | 8.0 🦕 Conclusion | 547 |
 | 59 | [[🗣️💭Quote_The-chief-task-in-life-is-simply-this..._🆔20251107181716]] | — | — | 9.0 🧠 Key Questions | 568 |
-| 60 | [[Cognitive-Behavioral Therapy]] | — | — | 9.0 🧠 Key Questions | 579 |
+| 60 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 9.0 🧠 Key Questions | 579 |
 | 61 | [[Prohairesis]] | — | — | 9.0 🧠 Key Questions | 593 |
 | 62 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 9.0 🧠 Key Questions | 596 |
 | 63 | [[Psychological Resilience]] | — | — | 9.0 🧠 Key Questions | 599 |
@@ -676,7 +676,7 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 - [[2025-11-07]]
 - [[Cognitive Neuroscience of Self-Regulation]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Emotional Regulation]]
 - [[Internal Locus of Control]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
@@ -706,12 +706,12 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 - [[Intrinsic-Motivation|intrinsic motivation]]
 - [[Learned-Helplessness|learned helplessness]]
 - [[Mental-Model|mental model]]
-- [[metacognitive awareness]]
-- [[metacognitive strategy]]
+- [[metacognitive-awareness|metacognitive awareness]]
+- [[Metacognitive-Strategy|metacognitive strategy]]
 - [[motivation]]
-- [[psychological well-being]]
+- [[psychological-well-being|psychological well-being]]
 - [[regulatory focus]]
-- [[self-determination]]
+- [[Self-Determination]]
 - [[stress resistance]]
 - [[values-based action]]
 - [[🗣️💭Quote_Everything-can-be-taken-from-a-person-but-one-thing_🆔20251107065938]]

@@ -253,11 +253,11 @@ extraction_summary:
 > 
 > This report on Metacognition and Lifelong Learning connects to several nodes in your PKB:
 > 
-> - **[[Extended Thinking Architecture Implementation Guide]]** — The metacognitive monitoring and self-correction protocols described in the Extended Thinking guide are direct computational analogies to the monitoring-regulation distinction in human metacognition. The design of thinking blocks that evaluate their own reasoning quality mirrors the structure of human metacognitive regulation; studying either illuminates the other.
+> - **[[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]** — The metacognitive monitoring and self-correction protocols described in the Extended Thinking guide are direct computational analogies to the monitoring-regulation distinction in human metacognition. The design of thinking blocks that evaluate their own reasoning quality mirrors the structure of human metacognitive regulation; studying either illuminates the other.
 > 
-> - **[[Metacognitive Monitoring in MetaICL]]** — The Meta-In-Context Learning exemplar describes how LLMs learn to learn from demonstrations, which is functionally analogous to the human metacognitive capacity to transfer learning strategies across contexts. The question of when and whether such learning generalizes is structurally identical in both human and machine cases.
+> - **[[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]** — The Meta-In-Context Learning exemplar describes how LLMs learn to learn from demonstrations, which is functionally analogous to the human metacognitive capacity to transfer learning strategies across contexts. The question of when and whether such learning generalizes is structurally identical in both human and machine cases.
 > 
-> - **[[Prompt Engineering Specialist Agent v4.0]]** — The constitutional depth mandate and chain-of-density architecture in the Prompt Engineering Specialist are metacognitive protocols applied to AI output: monitoring for shallow coverage, regulating toward elaboration, evaluating completeness before finalizing output. Understanding human metacognition provides theoretical grounding for why these architectural choices produce better outputs.
+> - **[[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]** — The constitutional depth mandate and chain-of-density architecture in the Prompt Engineering Specialist are metacognitive protocols applied to AI output: monitoring for shallow coverage, regulating toward elaboration, evaluating completeness before finalizing output. Understanding human metacognition provides theoretical grounding for why these architectural choices produce better outputs.
 > 
 > The pattern of connections reveals something interesting: the knowledge base is, in one dimension, a study of metacognitive architecture across both biological and computational substrates. Human metacognition, AI extended thinking, and deliberate prompt engineering are three instantiations of the same fundamental capacity — the capacity of a reasoning system to monitor and regulate its own reasoning processes. This meta-insight suggests a productive research question for future investigation: what can the design of effective metacognitive AI systems teach us about the conditions that produce effective metacognitive practice in humans, and vice versa?
 
@@ -367,9 +367,9 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Practice
 
-#### 41. [TOPIC-IDEA] [[Retrieval Practice and the Testing Effect]] *(Line 589)*
+#### 41. [TOPIC-IDEA] [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] *(Line 589)*
 
-> [!topic-idea] [[Retrieval Practice and the Testing Effect]]
+> [!topic-idea] [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
 > A full treatment of the empirical science behind retrieval practice — the most robustly supported learning strategy in cognitive psychology. Would cover the mechanisms of the testing effect (retrieval practice strengthens memory traces and enhances metacognitive calibration simultaneously), the conditions under which it is most and least effective, practical protocols for implementing it across different content types, and its integration with spaced repetition systems. Priority: High — the testing effect is perhaps the single most actionable finding from the metacognitive research program.
 
 #### 42. [TOPIC-IDEA] [[Spaced-Repetition-Systems|Spaced Repetition Systems]] *(Line 592)*
@@ -412,63 +412,63 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Anders Ericsson]]
-- [[Ann Brown]]
-- [[Ann L. Brown]]
+- [[Anders-Ericsson|Anders Ericsson]]
+- [[Ann-Brown|Ann Brown]]
+- [[Ann-L.-Brown|Ann L. Brown]]
 - [[Annemarie Palincsar]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Bernard Weiner]]
+- [[Bernard-Weiner|Bernard Weiner]]
 - [[Calibration]]
-- [[Carol Dweck]]
+- [[Carol-Dweck|Carol Dweck]]
 - [[Claude Sonnet 4.6]]
 - [[Cognitive Biases and Their Impact on Self-Assessment]]
 - [[David Dunning]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]
-- [[Extended Thinking Architecture Implementation Guide]]
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]]
 - [[Flavell]]
 - [[Formative-Assessment|Formative assessment]]
-- [[Foundational Report Generator v1.0]]
-- [[Jean Piaget]]
-- [[John Flavell]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[John-Flavell|John Flavell]]
 - [[Judgment-of-Learning|Judgment of Learning (JOL)]]
 - [[Justin Kruger]]
-- [[Lev Vygotsky]]
-- [[Lifelong learning]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
+- [[Lifelong-learning|Lifelong learning]]
 - [[Metacognition]]
-- [[Metacognitive Experiences]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive Interventions in Education]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
-- [[Metacognitive Monitoring in MetaICL]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Personal Learning Architecture Design]]
-- [[Prompt Engineering Specialist Agent v4.0]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
 - [[Reflective-Practice|Reflective practice]]
-- [[Retrieval Practice and the Testing Effect]]
-- [[Robert Bjork]]
+- [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[The Science of Deliberate Practice]]
 - [[Vygotsky and Socio-Cultural Learning Theory]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]]
 - [[Attribution-Theory|attribution theory]]
 - [[clinical reasoning]]
-- [[conditional metacognitive knowledge]]
-- [[declarative metacognitive knowledge]]
-- [[deliberate practice]]
+- [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]]
+- [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Fixed-Mindset|fixed mindset]]
-- [[fluency]]
+- [[Fluency]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
-- [[interleaving]]
+- [[Interleaving]]
 - [[labor-in-vain effect]]
-- [[lifelong learning]]
+- [[Lifelong-learning|lifelong learning]]
 - [[medical education]]
 - [[metacognitive judgments]]
 - [[prefrontal cortex]]
-- [[procedural metacognitive knowledge]]
+- [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
 - [[reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
@@ -483,36 +483,36 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognition]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 2 | [[John Flavell]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 3 | [[Lifelong learning]] | — | — | Phase I: Orientation & Context Setting | 275 |
+| 2 | [[John-Flavell|John Flavell]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 3 | [[Lifelong-learning|Lifelong learning]] | — | — | Phase I: Orientation & Context Setting | 275 |
 | 4 | [[Flavell]] | — | — | Defining the Territory: What Metacogn... | 294 |
 | 5 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | Defining the Territory: What Metacogn... | 294 |
-| 6 | [[Metacognitive Experiences]] | — | — | Defining the Territory: What Metacogn... | 294 |
+| 6 | [[Metacognitive-Experiences|Metacognitive Experiences]] | — | — | Defining the Territory: What Metacogn... | 294 |
 | 7 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | Defining the Territory: What Metacogn... | 294 |
-| 8 | [[declarative metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
-| 9 | [[procedural metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
-| 10 | [[conditional metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
-| 11 | [[William James]] | — | — | The Intellectual Genealogy | 305 |
-| 12 | [[Jean Piaget]] | — | — | The Intellectual Genealogy | 305 |
-| 13 | [[Lev Vygotsky]] | — | — | The Intellectual Genealogy | 305 |
-| 14 | [[Ann L. Brown]] | — | — | The Intellectual Genealogy | 307 |
+| 8 | [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
+| 9 | [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
+| 10 | [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
+| 11 | [[William-James|William James]] | — | — | The Intellectual Genealogy | 305 |
+| 12 | [[Jean-Piaget|Jean Piaget]] | — | — | The Intellectual Genealogy | 305 |
+| 13 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | The Intellectual Genealogy | 305 |
+| 14 | [[Ann-L.-Brown|Ann L. Brown]] | — | — | The Intellectual Genealogy | 307 |
 | 15 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | The Self-Regulated Learning Framework | 323 |
 | 16 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | The Self-Regulated Learning Framework | 323 |
 | 17 | [[Calibration]] | — | — | Calibration: The Accuracy Problem | 336 |
-| 18 | [[Robert Bjork]] | — | — | Calibration: The Accuracy Problem | 338 |
-| 19 | [[fluency]] | — | — | Calibration: The Accuracy Problem | 338 |
+| 18 | [[Robert-Bjork|Robert Bjork]] | — | — | Calibration: The Accuracy Problem | 338 |
+| 19 | [[Fluency]] | — | — | Calibration: The Accuracy Problem | 338 |
 | 20 | [[Retrieval-Practice|retrieval practice]] | — | — | Calibration: The Accuracy Problem | 338 |
 | 21 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Calibration: The Accuracy Problem | 343 |
 | 22 | [[David Dunning]] | — | — | Calibration: The Accuracy Problem | 343 |
 | 23 | [[Justin Kruger]] | — | — | Calibration: The Accuracy Problem | 343 |
-| 24 | [[Carol Dweck]] | — | — | Growth Mindset and Its Relationship t... | 347 |
+| 24 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 25 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 26 | [[Fixed-Mindset|fixed mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 27 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
-| 28 | [[Robert Bjork]] | — | — | Desirable Difficulties and the Scienc... | 356 |
+| 28 | [[Robert-Bjork|Robert Bjork]] | — | — | Desirable Difficulties and the Scienc... | 356 |
 | 29 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Desirable Difficulties and the Scienc... | 356 |
 | 30 | [[spaced practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
-| 31 | [[interleaving]] | — | — | Desirable Difficulties and the Scienc... | 358 |
+| 31 | [[Interleaving]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 32 | [[Retrieval-Practice|retrieval practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 33 | [[variation practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 34 | [[metacognitive judgments]] | — | — | The Monitoring System: How the Mind W... | 374 |
@@ -522,35 +522,35 @@ extraction_summary:
 | 38 | [[study time allocation]] | — | — | The Feedback Architecture of Learning | 391 |
 | 39 | [[labor-in-vain effect]] | — | — | The Feedback Architecture of Learning | 391 |
 | 40 | [[self-control]] | — | — | The Feedback Architecture of Learning | 391 |
-| 41 | [[Carol Dweck]] | — | — | The Feedback Architecture of Learning | 393 |
-| 42 | [[Bernard Weiner]] | — | — | The Feedback Architecture of Learning | 393 |
+| 41 | [[Carol-Dweck|Carol Dweck]] | — | — | The Feedback Architecture of Learning | 393 |
+| 42 | [[Bernard-Weiner|Bernard Weiner]] | — | — | The Feedback Architecture of Learning | 393 |
 | 43 | [[Attribution-Theory|attribution theory]] | — | — | The Feedback Architecture of Learning | 393 |
-| 44 | [[Ann Brown]] | — | — | Metacognitive Development Across the ... | 402 |
+| 44 | [[Ann-Brown|Ann Brown]] | — | — | Metacognitive Development Across the ... | 402 |
 | 45 | [[prefrontal cortex]] | — | — | Metacognitive Development Across the ... | 404 |
 | 46 | [[reciprocal teaching]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
-| 47 | [[Ann Brown]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
+| 47 | [[Ann-Brown|Ann Brown]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 48 | [[Annemarie Palincsar]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 49 | [[Reflective-Practice|Reflective practice]] | — | — | Cultivating Metacognitive Practice: W... | 426 |
 | 50 | [[Formative-Assessment|Formative assessment]] | — | — | Cultivating Metacognitive Practice: W... | 428 |
 | 51 | [[medical education]] | — | — | Metacognition in Professional and Org... | 443 |
 | 52 | [[clinical reasoning]] | — | — | Metacognition in Professional and Org... | 443 |
-| 53 | [[deliberate practice]] | — | — | Metacognition in Professional and Org... | 445 |
-| 54 | [[Anders Ericsson]] | — | — | Metacognition in Professional and Org... | 445 |
+| 53 | [[Deliberate-Practice|deliberate practice]] | — | — | Metacognition in Professional and Org... | 445 |
+| 54 | [[Anders-Ericsson|Anders Ericsson]] | — | — | Metacognition in Professional and Org... | 445 |
 | 55 | [[pseudoexpertise]] | — | — | Metacognition in Professional and Org... | 448 |
 | 56 | [[Metacognition]] | — | — | The Deeper Pattern: Metacognition as ... | 474 |
-| 57 | [[lifelong learning]] | — | — | The Deeper Pattern: Metacognition as ... | 474 |
+| 57 | [[Lifelong-learning|lifelong learning]] | — | — | The Deeper Pattern: Metacognition as ... | 474 |
 | 58 | [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]] | — | — | Unresolved Questions for Future Inquiry | 492 |
-| 59 | [[Extended Thinking Architecture Implementation Guide]] | — | — | Unresolved Questions for Future Inquiry | 499 |
-| 60 | [[Metacognitive Monitoring in MetaICL]] | — | — | Unresolved Questions for Future Inquiry | 501 |
-| 61 | [[Prompt Engineering Specialist Agent v4.0]] | — | — | Unresolved Questions for Future Inquiry | 503 |
-| 62 | [[Retrieval Practice and the Testing Effect]] | — | — | D. Expansion Topics | 589 |
+| 59 | [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]] | — | — | Unresolved Questions for Future Inquiry | 499 |
+| 60 | [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]] | — | — | Unresolved Questions for Future Inquiry | 501 |
+| 61 | [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]] | — | — | Unresolved Questions for Future Inquiry | 503 |
+| 62 | [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] | — | — | D. Expansion Topics | 589 |
 | 63 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | D. Expansion Topics | 592 |
 | 64 | [[The Science of Deliberate Practice]] | — | — | D. Expansion Topics | 595 |
 | 65 | [[Cognitive Biases and Their Impact on Self-Assessment]] | — | — | D. Expansion Topics | 598 |
 | 66 | [[Metacognitive Interventions in Education]] | — | — | D. Expansion Topics | 601 |
 | 67 | [[Vygotsky and Socio-Cultural Learning Theory]] | — | — | D. Expansion Topics | 604 |
 | 68 | [[Personal Learning Architecture Design]] | — | — | D. Expansion Topics | 607 |
-| 69 | [[Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 612 |
+| 69 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 612 |
 | 70 | [[Claude Sonnet 4.6]] | — | — | D. Expansion Topics | 612 |
 
 ---
@@ -562,63 +562,63 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Anders Ericsson]]
-- [[Ann Brown]]
-- [[Ann L. Brown]]
+- [[Anders-Ericsson|Anders Ericsson]]
+- [[Ann-Brown|Ann Brown]]
+- [[Ann-L.-Brown|Ann L. Brown]]
 - [[Annemarie Palincsar]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Bernard Weiner]]
+- [[Bernard-Weiner|Bernard Weiner]]
 - [[Calibration]]
-- [[Carol Dweck]]
+- [[Carol-Dweck|Carol Dweck]]
 - [[Claude Sonnet 4.6]]
 - [[Cognitive Biases and Their Impact on Self-Assessment]]
 - [[David Dunning]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]
-- [[Extended Thinking Architecture Implementation Guide]]
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]]
 - [[Flavell]]
 - [[Formative-Assessment|Formative assessment]]
-- [[Foundational Report Generator v1.0]]
-- [[Jean Piaget]]
-- [[John Flavell]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[John-Flavell|John Flavell]]
 - [[Judgment-of-Learning|Judgment of Learning (JOL)]]
 - [[Justin Kruger]]
-- [[Lev Vygotsky]]
-- [[Lifelong learning]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
+- [[Lifelong-learning|Lifelong learning]]
 - [[Metacognition]]
-- [[Metacognitive Experiences]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive Interventions in Education]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
-- [[Metacognitive Monitoring in MetaICL]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Personal Learning Architecture Design]]
-- [[Prompt Engineering Specialist Agent v4.0]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
 - [[Reflective-Practice|Reflective practice]]
-- [[Retrieval Practice and the Testing Effect]]
-- [[Robert Bjork]]
+- [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[The Science of Deliberate Practice]]
 - [[Vygotsky and Socio-Cultural Learning Theory]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]]
 - [[Attribution-Theory|attribution theory]]
 - [[clinical reasoning]]
-- [[conditional metacognitive knowledge]]
-- [[declarative metacognitive knowledge]]
-- [[deliberate practice]]
+- [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]]
+- [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Fixed-Mindset|fixed mindset]]
-- [[fluency]]
+- [[Fluency]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
-- [[interleaving]]
+- [[Interleaving]]
 - [[labor-in-vain effect]]
-- [[lifelong learning]]
+- [[Lifelong-learning|lifelong learning]]
 - [[medical education]]
 - [[metacognitive judgments]]
 - [[prefrontal cortex]]
-- [[procedural metacognitive knowledge]]
+- [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
 - [[reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
@@ -634,12 +634,12 @@ extraction_summary:
 
 - [[Memory Systems and Encoding]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 
 #### Related
 
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Retrieval-Practice|Retrieval Practice]]

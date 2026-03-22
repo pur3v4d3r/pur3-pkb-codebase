@@ -470,7 +470,7 @@ extraction_summary:
 - [[Term 1 goes here]]
 - [[Term 2 goes here]]
 - [[Term 3 goes here]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[agent-gemini-gem-urg-011-20251020233318]]
 
 ### All Occurrences
@@ -479,8 +479,8 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[2025-10-21]] | — | — | Document Start | 70 |
 | 2 | [[agent-gemini-gem-urg-011-20251020233318]] | — | — | **Source:** [[agent-gemini-gem-urg-01... | 73 |
-| 3 | [[Wiki-Links]] | — | — | Prompt Description: Deep Exposition &... | 114 |
-| 4 | [[Wiki-Links]] | — | — | Prompt Description: Deep Exposition &... | 134 |
+| 3 | [[wiki-links]] | — | — | Prompt Description: Deep Exposition &... | 114 |
+| 4 | [[wiki-links]] | — | — | Prompt Description: Deep Exposition &... | 134 |
 | 5 | [[Term 1 goes here]] | — | — | Key Functions and Strategic Design | 244 |
 | 6 | [[Related Topic]] | — | — | 6. 🌍Broader Implications and Signific... | 339 |
 | 7 | [[Term 1 goes here]] | — | — | 9. 🧠Key Questions for Active Reading ... | 382 |
@@ -578,7 +578,7 @@ Then you can start to use other sources if you still need more information.
 
 **Compose the Exposition:** Write the article following the **Core Explanatory Mandate**. The goal is not just to state facts, but to make them deeply understood.
 
-**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[Wiki-Links]] where applicable.
+**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[wiki-links]] where applicable.
 ```
 
 ### Code Block 13 — `plaintext` *(Lines 157-221)*
@@ -715,7 +715,7 @@ This section traces the intellectual lineage of the key ideas. It will discuss t
 - [[Term 1 goes here]]
 - [[Term 2 goes here]]
 - [[Term 3 goes here]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[agent-gemini-gem-urg-011-20251020233318]]
 
 ---

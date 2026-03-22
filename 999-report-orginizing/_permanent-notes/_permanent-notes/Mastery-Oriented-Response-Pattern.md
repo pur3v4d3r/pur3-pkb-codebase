@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -66,18 +66,26 @@ narrower:
 see-also:
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[mindset]]"
-  - "[[growth-mindset|growth mindset]]"
-  - "[[fixed-mindset|fixed mindset]]"
+  - "[[Growth-Mindset|growth mindset]]"
+  - "[[Fixed-Mindset|fixed mindset]]"
   - "[[implicit-theories-of-intelligence|implicit theories of intelligence]]"
-  - "[[educational-psychology|educational psychology]]"
+  - "[[Educational-Psychology|educational psychology]]"
   - "[[motivation-science|motivation science]]"
   - "[[Carol-Dweck|Carol Dweck]]"
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[mindset|mindset]]"
-  - "[[growth-mindset|growth mindset]]"
-  - "[[fixed-mindset|fixed mindset]]"
+  - "[[Growth-Mindset|growth mindset]]"
+  - "[[Fixed-Mindset|fixed mindset]]"
   - "[[implicit-theories-of-intelligence|implicit theories of intelligence]]"
-  - "[[educational-psychology|educational psychology]]"
+  - "[[Educational-Psychology|educational psychology]]"
+  - "[[motivation-science|motivation science]]"
+  - "[[Carol-Dweck|Carol Dweck]]"
+  - "[[Carol-S.-Dweck|Carol S. Dweck]]"
+  - "[[mindset|mindset]]"
+  - "[[Growth-Mindset|growth mindset]]"
+  - "[[Fixed-Mindset|fixed mindset]]"
+  - "[[implicit-theories-of-intelligence|implicit theories of intelligence]]"
+  - "[[Educational-Psychology|educational psychology]]"
   - "[[motivation-science|motivation science]]"
   - "[[Carol-Dweck|Carol Dweck]]"
 
@@ -85,7 +93,7 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]"
+  - "[[implicit-theories-of-intelligence|Implicit Theories of Intelligence]]"
   - "[[Behaviorist-vs.-Cognitive-Theories-of-Learning|Behaviorist vs. Cognitive Theories of Learning]]"
 
 enables:
@@ -158,10 +166,10 @@ importance: high
 - [[Attribution-Theory|Attribution Theory]]
 
 **Related concepts:**
-[[Carol-S.-Dweck|Carol S. Dweck]] · [[mindset]] · [[growth-mindset|growth mindset]] · [[fixed-mindset|fixed mindset]] · [[implicit-theories-of-intelligence|implicit theories of intelligence]] · [[educational-psychology|educational psychology]] · [[motivation-science|motivation science]] · [[Carol-Dweck|Carol Dweck]] · [[attribution-theory|attribution theory]] · [[Mary-Bandura|Mary Bandura]] · [[Ellen-Leggett|Ellen Leggett]] · [[Claudia-Mueller|Claudia Mueller]] · [[Claudia-Mueller|Claudia Mueller]] · [[Carol-Dweck|Carol Dweck]] · [[cognitive-psychology|cognitive psychology]]
+[[Carol-S.-Dweck|Carol S. Dweck]] · [[mindset]] · [[Growth-Mindset|growth mindset]] · [[Fixed-Mindset|fixed mindset]] · [[implicit-theories-of-intelligence|implicit theories of intelligence]] · [[Educational-Psychology|educational psychology]] · [[motivation-science|motivation science]] · [[Carol-Dweck|Carol Dweck]] · [[Attribution-Theory|attribution theory]] · [[Mary-Bandura|Mary Bandura]] · [[Ellen-Leggett|Ellen Leggett]] · [[Claudia-Mueller|Claudia Mueller]] · [[Claudia-Mueller|Claudia Mueller]] · [[Carol-Dweck|Carol Dweck]] · [[Cognitive-Psychology|cognitive psychology]]
 
 **Related concepts** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
-[[Carol-S.-Dweck|Carol S. Dweck]] * [[growth-mindset|growth mindset]] * [[fixed-mindset|fixed mindset]] * [[implicit-theories-of-intelligence|implicit theories of intelligence]] * [[educational-psychology|educational psychology]] * [[motivation-science|motivation science]] * [[Carol-Dweck|Carol Dweck]] * [[attribution-theory|attribution theory]] * [[Mary-Bandura|Mary Bandura]] * [[Ellen-Leggett|Ellen Leggett]] * [[Claudia-Mueller|Claudia Mueller]] * [[cognitive-psychology|cognitive psychology]] * [[achievement-goal-theory|achievement goal theory]] * [[Carole-Ames|Carole Ames]] * [[John-Elliot|John Elliot]]
+[[Carol-S.-Dweck|Carol S. Dweck]] * [[Growth-Mindset|growth mindset]] * [[Fixed-Mindset|fixed mindset]] * [[implicit-theories-of-intelligence|implicit theories of intelligence]] * [[Educational-Psychology|educational psychology]] * [[motivation-science|motivation science]] * [[Carol-Dweck|Carol Dweck]] * [[Attribution-Theory|attribution theory]] * [[Mary-Bandura|Mary Bandura]] * [[Ellen-Leggett|Ellen Leggett]] * [[Claudia-Mueller|Claudia Mueller]] * [[Cognitive-Psychology|cognitive psychology]] * [[Achievement-Goal-Theory|achievement goal theory]] * [[Carole-Ames|Carole Ames]] * [[John-Elliot|John Elliot]]
 
 **Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -174,6 +182,24 @@ importance: high
 - [[Neuroplasticity|Neuroplasticity]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+[[Carol-S.-Dweck|Carol S. Dweck]] * [[Growth-Mindset|growth mindset]] * [[Fixed-Mindset|fixed mindset]] * [[implicit-theories-of-intelligence|implicit theories of intelligence]] * [[Educational-Psychology|educational psychology]] * [[motivation-science|motivation science]] * [[Carol-Dweck|Carol Dweck]] * [[Attribution-Theory|attribution theory]] * [[Mary-Bandura|Mary Bandura]] * [[Ellen-Leggett|Ellen Leggett]] * [[Claudia-Mueller|Claudia Mueller]] * [[Cognitive-Psychology|cognitive psychology]] * [[Achievement-Goal-Theory|achievement goal theory]] * [[Carole-Ames|Carole Ames]] * [[John-Elliot|John Elliot]]
+
+**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+
+
 
 
 

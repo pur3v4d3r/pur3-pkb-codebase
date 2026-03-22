@@ -269,11 +269,11 @@ extraction_summary:
 > 
 >       - **This showed:** When students are taught *explicit* metacognitive strategies—such as "think-aloud protocols" (where they verbalize their thought process while solving a problem) or "exam wrappers" (worksheets where they *evaluate* *why* they got questions wrong *after* an exam)—their learning and grades improve *significantly* more than control groups, even when "raw intelligence" is accounted for. [^3] We are not teaching them *what* to learn, but *how* to learn.
 > 
->   - [[Cognitive-Behavioral Therapy (CBT)]],
+>   - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy (CBT)]],
 > 
 >       - **This showed:** CBT is one of the most effective treatments for depression, anxiety, and PTSD. [^9] The *entire* basis of CBT is metacognitive. It trains patients to *monitor* their automatic negative thoughts (e.g., "I am worthless"), *evaluate* them for logical fallacies (a critical thinking skill), and *replace* them with more adaptive thoughts (a regulatory act). CBT is, in essence, applied metacognitive training for emotional management.
 > 
->   - [[Deliberate Practice]],
+>   - [[Deliberate-Practice|Deliberate Practice]],
 > 
 >       - **This showed:** The work of Anders Ericsson on "expert performance" (the "10,000-hour rule") revealed that it's not just "practice" that makes perfect; it's "**deliberate practice**." Deliberate practice is *intensely* metacognitive. It involves a "highly structured activity the explicit goal of which is to improve performance." [^11] This involves *planning* (setting a specific, narrow goal), *monitoring* (constant, real-time feedback on "am I doing it right?"), and *evaluating* (relentless post-practice reflection).
 
@@ -423,10 +423,10 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Cognitive-Behavioral Therapy (CBT)]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy (CBT)]]
 - [[Constructivist Learning]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Education Reform]]
 - [[Educational Interventions]]
 - [[Mental Health & Therapy]]
@@ -442,8 +442,8 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Educational Interventions]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 332 |
-| 2 | [[Cognitive-Behavioral Therapy (CBT)]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 336 |
-| 3 | [[Deliberate Practice]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 340 |
+| 2 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy (CBT)]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 336 |
+| 3 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 340 |
 | 4 | [[Education Reform]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 365 |
 | 5 | [[Mental Health & Therapy]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 371 |
 | 6 | [[Metacognitive Neuroscience]] | — | — | 7.0 ❔ FRONTIER RESEARCH | 400 |
@@ -524,10 +524,10 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Cognitive-Behavioral Therapy (CBT)]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy (CBT)]]
 - [[Constructivist Learning]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Education Reform]]
 - [[Educational Interventions]]
 - [[Mental Health & Therapy]]

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[System-1|System 1]]"
   - "[[Intellectual-Virtues|Intellectual Virtues]]"
   - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Jonathan-Evans|Jonathan Evans]]"
+  - "[[Keith-Stanovich|Keith Stanovich]]"
+  - "[[Stanovich|Stanovich]]"
+  - "[[Examined-Life|Examined Life]]"
+  - "[[System-1|System 1]]"
+  - "[[Intellectual-Virtues|Intellectual Virtues]]"
+  - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +114,7 @@ importance: high
 # Synkatathesis (Assent) and the Stoic Gap
 
 > [!definition] **Synkatathesis (Assent) and the Stoic Gap**
-> In Stoic epistemology, *synkatathesis* (συγκατάθεσις) — assent — is the cognitive act by which the mind endorses an impression and allows it to govern subsequent thought and action. The Stoic insight, developed most extensively by [[Chrysippus]] and transmitted through Epictetus, is that assent is not automatic: it is a voluntary act, and it is the primary site of rational agency. The impression arrives without our choosing. Whether we assent to it — whether we treat it as an accurate guide to reality and allow it to shape our responses — is, within limits, up to us. This is the Stoic [[Dichotomy of Control|locus of freedom]]: not freedom from impressions, but freedom in responding to them.
+> In Stoic epistemology, *synkatathesis* (συγκατάθεσις) — assent — is the cognitive act by which the mind endorses an impression and allows it to govern subsequent thought and action. The Stoic insight, developed most extensively by [[Chrysippus]] and transmitted through Epictetus, is that assent is not automatic: it is a voluntary act, and it is the primary site of rational agency. The impression arrives without our choosing. Whether we assent to it — whether we treat it as an accurate guide to reality and allow it to shape our responses — is, within limits, up to us. This is the Stoic [[Dichotomy-of-Control|locus of freedom]]: not freedom from impressions, but freedom in responding to them.
 
 ## Core Explanation
 
@@ -146,4 +154,8 @@ importance: high
 
 **Related concepts** *(from report-06-taming-system-1.md)*:
 [[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Working-Memory|Working Memory]]
+
+**Related concepts** *(from report-06-taming-system-1.md)*:
+[[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Working-Memory|Working Memory]]
+
 

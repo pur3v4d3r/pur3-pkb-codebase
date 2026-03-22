@@ -143,7 +143,7 @@ extraction_summary:
 #### 6. [EVIDENCE] Untitled *(Line 100)*
 
 > [!evidence] Untitled
-> Modern clinical psychology validates this ancient mechanism through [[Cognitive-Behavioral Therapy]] (CBT) and [[Rational Emotive Behavior Therapy]] (REBT). Studies consistently demonstrate that the cognitive reframing of negative stimuli (a Stoic practice) reduces cortisol responses and preserves executive function in the prefrontal cortex, which is biologically necessary for the complex learning required by Constructivism.
+> Modern clinical psychology validates this ancient mechanism through [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] (CBT) and [[Rational Emotive Behavior Therapy]] (REBT). Studies consistently demonstrate that the cognitive reframing of negative stimuli (a Stoic practice) reduces cortisol responses and preserves executive function in the prefrontal cortex, which is biologically necessary for the complex learning required by Constructivism.
 
 #### 7. [EQUATION] Untitled *(Line 103)*
 
@@ -174,7 +174,7 @@ extraction_summary:
 #### 11. [FURTHER-EXPLORATION] Untitled *(Line 128)*
 
 > [!further-exploration] Untitled
-> > [\!topic-idea] [[Bayesian Epistemology]]
+> > [\!topic-idea] [[Bayesian-Epistemology|Bayesian Epistemology]]
 > > [\!topic-idea] [[The OODA Loop (Observe-Orient-Decide-Act)]]
 > > [\!topic-idea] [[Radical Empiricism]]
 > > [\!topic-idea] [[Developmental Psychology]]
@@ -202,9 +202,9 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]]
-- [[Bayesian Epistemology]]
-- [[Charles Sanders Peirce]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Bayesian-Epistemology|Bayesian Epistemology]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Constructivism]]
 - [[Constructivist Resilience Model]]
 - [[Cybernetics]]
@@ -212,9 +212,9 @@ extraction_summary:
 - [[Epictetus]]
 - [[Epistemology of Action]]
 - [[Instrumentalism]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Pragmatic-Stoic Synthesis]]
 - [[Pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
@@ -223,7 +223,7 @@ extraction_summary:
 - [[Stoicism]]
 - [[The Adaptive Self-Architecture]]
 - [[The OODA Loop (Observe-Orient-Decide-Act)]]
-- [[William James]]
+- [[William-James|William James]]
 
 ### All Occurrences
 
@@ -232,26 +232,26 @@ extraction_summary:
 | 1 | [[Pragmatic-Stoic Synthesis]] | — | — | Synthetic Analysis of Pragmatist Phil... | 63 |
 | 2 | [[Constructivist Resilience Model]] | — | — | Synthetic Analysis of Pragmatist Phil... | 63 |
 | 3 | [[The Adaptive Self-Architecture]] | — | — | Synthetic Analysis of Pragmatist Phil... | 63 |
-| 4 | [[William James]] | — | — | 1. Define Core Parameters | 71 |
-| 5 | [[Jean Piaget]] | — | — | 1. Define Core Parameters | 71 |
+| 4 | [[William-James|William James]] | — | — | 1. Define Core Parameters | 71 |
+| 5 | [[Jean-Piaget|Jean Piaget]] | — | — | 1. Define Core Parameters | 71 |
 | 6 | [[Epictetus]] | — | — | 1. Define Core Parameters | 71 |
 | 7 | [[Instrumentalism]] | — | — | 1. Define Core Parameters | 71 |
-| 8 | [[Cognitive-Behavioral Therapy]] | — | — | 1. Define Core Parameters | 71 |
+| 8 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 1. Define Core Parameters | 71 |
 | 9 | [[Epistemology of Action]] | — | — | 1. Define Core Parameters | 71 |
 | 10 | [[John-Dewey|John Dewey]] | — | — | 2. Phase 1: Overture (The "Why & What") | 82 |
 | 11 | [[Pragmatism]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
-| 12 | [[William James]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
-| 13 | [[Charles Sanders Peirce]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
+| 12 | [[William-James|William James]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
+| 13 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
 | 14 | [[Stoicism]] | — | — | The Stoic Substrate: Regulating the I... | 98 |
 | 15 | [[Epictetus]] | — | — | The Stoic Substrate: Regulating the I... | 98 |
-| 16 | [[Cognitive-Behavioral Therapy]] | — | — | The Stoic Substrate: Regulating the I... | 101 |
+| 16 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The Stoic Substrate: Regulating the I... | 101 |
 | 17 | [[Rational Emotive Behavior Therapy]] | — | — | The Stoic Substrate: Regulating the I... | 101 |
 | 18 | [[Constructivism]] | — | — | The Constructivist Mechanic: The Arch... | 108 |
-| 19 | [[Lev Vygotsky]] | — | — | The Constructivist Mechanic: The Arch... | 108 |
+| 19 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | The Constructivist Mechanic: The Arch... | 108 |
 | 20 | [[Cybernetics]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 124 |
 | 21 | [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 125 |
 | 22 | [[Predictive-Processing|Predictive Processing]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 126 |
-| 23 | [[Bayesian Epistemology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 130 |
+| 23 | [[Bayesian-Epistemology|Bayesian Epistemology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 130 |
 | 24 | [[The OODA Loop (Observe-Orient-Decide-Act)]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 131 |
 | 25 | [[Radical Empiricism]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 132 |
 | 26 | [[Developmental Psychology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 133 |
@@ -318,9 +318,9 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]]
-- [[Bayesian Epistemology]]
-- [[Charles Sanders Peirce]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Bayesian-Epistemology|Bayesian Epistemology]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Constructivism]]
 - [[Constructivist Resilience Model]]
 - [[Cybernetics]]
@@ -328,9 +328,9 @@ extraction_summary:
 - [[Epictetus]]
 - [[Epistemology of Action]]
 - [[Instrumentalism]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Pragmatic-Stoic Synthesis]]
 - [[Pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
@@ -339,7 +339,7 @@ extraction_summary:
 - [[Stoicism]]
 - [[The Adaptive Self-Architecture]]
 - [[The OODA Loop (Observe-Orient-Decide-Act)]]
-- [[William James]]
+- [[William-James|William James]]
 
 ---
 

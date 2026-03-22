@@ -171,7 +171,7 @@ extraction_summary:
 #### 5. [DEFINITION] Mastery (Achievement Goal Theory, Growth Mindset Research) *(Line 318)*
 
 > [!definition] Mastery (Achievement Goal Theory, Growth Mindset Research)
-> A mastery orientation toward learning means that the individual's primary reference point for success is *self-improvement and task understanding*, rather than normative comparison with peers. Mastery is not the same as performance; it is possible to achieve high performance without mastery orientation (e.g., through cramming) and to be mastery-oriented without currently performing well. [[Carole Ames]] established the term "mastery goals" in contrast to "performance goals" in her 1992 framework; [[Carol Dweck]]'s parallel work distinguished "learning goals" from "performance goals." A mastery orientation is associated with deeper processing, greater persistence, and more adaptive responses to difficulty.
+> A mastery orientation toward learning means that the individual's primary reference point for success is *self-improvement and task understanding*, rather than normative comparison with peers. Mastery is not the same as performance; it is possible to achieve high performance without mastery orientation (e.g., through cramming) and to be mastery-oriented without currently performing well. [[Carole-Ames|Carole Ames]] established the term "mastery goals" in contrast to "performance goals" in her 1992 framework; [[Carol-Dweck|Carol Dweck]]'s parallel work distinguished "learning goals" from "performance goals." A mastery orientation is associated with deeper processing, greater persistence, and more adaptive responses to difficulty.
 
 #### 6. [DEFINITION] Intrinsic Motivation (Deci & Ryan) *(Line 321)*
 
@@ -197,7 +197,7 @@ extraction_summary:
 > 
 > **Level 2 — Process Level (FP)**: Feedback about the processes or strategies used to complete the task — the *how* of performance. ("You've used the evidence well here, but the conclusion doesn't follow from the premises you've assembled — try working backward from what you want to prove.") Particularly powerful for developing deep understanding and transferable strategies.
 > 
-> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated Learning|self-regulated learners]].
+> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated-Learning|self-regulated learners]].
 > 
 > **Level 4 — Self Level (FS)**: Feedback directed at the *person* — personal evaluations and affect about the learner. ("You're so clever," "I'm proud of you," "What a disappointment.") While such feedback is common, it contains minimal actionable information and, crucially, can be actively harmful to motivation and learning orientation when it triggers ego-evaluation processes.
 
@@ -346,15 +346,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> This report on [[Feedback Design for Autonomy and Mastery]] connects to existing knowledge in your PKB across multiple nodes and levels of analysis:
+> This report on [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] connects to existing knowledge in your PKB across multiple nodes and levels of analysis:
 > 
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — The growth mindset report provides the full theoretical genealogy of incremental vs. entity theory and the Mueller-Dweck experimental programme. The present report takes that foundation and translates it directly into feedback language architecture: how to embed incremental-theory attributions into the specific linguistic choices of everyday feedback. The two reports are complementary: Growth Mindset establishes *why* attribution language matters; Feedback Design establishes *how* to engineer it.
 > 
-> - **[[Metacognition & Motivation]]** — The metacognition-motivation nexus report addresses the interaction between self-awareness processes and motivational states. The self-regulation level of Hattie-Timperley's framework is the direct instructional intervention for cultivating the metacognitive monitoring capacity that the M&M report analyses at the psychological level. Feedback at Level 3 is, in effect, *deployed metacognition* — externalising the monitoring process that, once internalised, constitutes the learner's self-regulatory capacity.
+> - **[[Metacognition-&-Motivation|Metacognition & Motivation]]** — The metacognition-motivation nexus report addresses the interaction between self-awareness processes and motivational states. The self-regulation level of Hattie-Timperley's framework is the direct instructional intervention for cultivating the metacognitive monitoring capacity that the M&M report analyses at the psychological level. Feedback at Level 3 is, in effect, *deployed metacognition* — externalising the monitoring process that, once internalised, constitutes the learner's self-regulatory capacity.
 > 
-> - **[[Metacognition & Lifelong Learning]]** — Self-regulated learning and lifelong learning share the same developmental endpoint: the capacity to identify one's own learning needs, select strategies, monitor progress, and adjust — without external prompting. Autonomy-supportive feedback design is the *instructional infrastructure* through which that capacity is built. A reader of the Metacognition & Lifelong Learning report who wishes to understand the *pedagogical means* of cultivating that capacity will find it in the present report.
+> - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Self-regulated learning and lifelong learning share the same developmental endpoint: the capacity to identify one's own learning needs, select strategies, monitor progress, and adjust — without external prompting. Autonomy-supportive feedback design is the *instructional infrastructure* through which that capacity is built. A reader of the Metacognition & Lifelong Learning report who wishes to understand the *pedagogical means* of cultivating that capacity will find it in the present report.
 > 
-> - **[[Critical Thinking in Education]]** — Critical thinking development depends substantially on learners receiving feedback on the quality of their *reasoning processes* — not just their conclusions. The process-level feedback orientation developed here is directly applicable to critical thinking instruction: feedback that names specific reasoning moves, identifies where inference chains break down, and attributes reasoning quality to controllable strategies (rather than innate critical thinking ability) is the operational form of CT-developmental feedback.
+> - **[[Critical-Thinking-in-Education|Critical Thinking in Education]]** — Critical thinking development depends substantially on learners receiving feedback on the quality of their *reasoning processes* — not just their conclusions. The process-level feedback orientation developed here is directly applicable to critical thinking instruction: feedback that names specific reasoning moves, identifies where inference chains break down, and attributes reasoning quality to controllable strategies (rather than innate critical thinking ability) is the operational form of CT-developmental feedback.
 > 
 > - **[[Schema-Theory|Schema Theory]]** — Schema theory explains how knowledge is structured and how existing schemas constrain assimilation of new information. Task-level feedback that is pitched beyond the learner's current schema will not be meaningfully processed; it will either be rejected or distorted to fit existing structures. This provides a theoretical basis for the feedback dosage and timing principles: feedback is only processable when it maps onto existing schema structures sufficiently to be integrated. Novice-to-expert development is, in part, a story of developing the schemas necessary to make increasingly sophisticated feedback actionable.
 > 
@@ -481,19 +481,19 @@ extraction_summary:
 - [[Assessment for Learning]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Attribution Theory in Education]]
-- [[Avi Assor]]
-- [[Bernard Weiner]]
-- [[Black & Wiliam]]
-- [[Carol Dweck]]
-- [[Carole Ames]]
-- [[Claudia Mueller]]
+- [[Avi-Assor|Avi Assor]]
+- [[Bernard-Weiner|Bernard Weiner]]
+- [[Black-&-Wiliam|Black & Wiliam]]
+- [[Carol-Dweck|Carol Dweck]]
+- [[Carole-Ames|Carole Ames]]
+- [[Claudia-Mueller|Claudia Mueller]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Critical Thinking in Education]]
-- [[Edward Deci]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+- [[Edward-Deci|Edward Deci]]
 - [[Elliot & McGregor]]
 - [[Feed-Forward]]
 - [[Feedback-Design|Feedback Design]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback Timing]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Formative Assessment Design]]
@@ -501,23 +501,23 @@ extraction_summary:
 - [[Goal Orientation Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Guy Roth]]
-- [[Hattie & Timperley Feedback Model]]
+- [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]
 - [[Helen Timperley]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[John Hattie]]
-- [[John Sweller]]
+- [[John-Hattie|John Hattie]]
+- [[John-Sweller|John Sweller]]
 - [[Learned-Helplessness|Learned Helplessness]]
-- [[Metacognition & Lifelong Learning]]
-- [[Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Peer Feedback and Collaborative Assessment]]
 - [[Performance-Goals|Performance Goals]]
 - [[Pintrich]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Seligman]]
-- [[Summative Assessment]]
+- [[Summative-Assessment|Summative Assessment]]
 - [[Topping]]
 - [[Writing Instruction and Feedback Design]]
 - [[Zimmerman]]
@@ -527,54 +527,54 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Feedback-Design|Feedback Design]] | — | — | Scope | 282 |
-| 2 | [[Hattie & Timperley Feedback Model]] | the Hattie-Timperley feedback level model | — | Scope | 282 |
+| 2 | [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] | the Hattie-Timperley feedback level model | — | Scope | 282 |
 | 3 | [[Self-Determination-Theory|Self-Determination Theory]] | Self-Determination Theory (SDT) | — | Scope | 282 |
 | 4 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | growth mindset research | — | Scope | 282 |
 | 5 | [[Formative-Assessment|Formative Assessment]] | formative assessment tradition | — | Scope | 282 |
-| 6 | [[Black & Wiliam]] | — | — | Scope | 282 |
+| 6 | [[Black-&-Wiliam|Black & Wiliam]] | — | — | Scope | 282 |
 | 7 | [[Attribution-Theory|Attribution Theory]] | — | — | Scope | 282 |
-| 8 | [[Summative Assessment]] | — | — | Scope | 284 |
+| 8 | [[Summative-Assessment|Summative Assessment]] | — | — | Scope | 284 |
 | 9 | [[Formative-Feedback|Formative Feedback]] | — | — | Why This Matters | 288 |
 | 10 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Why This Matters | 288 |
 | 11 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Why This Matters | 288 |
 | 12 | [[Performance-Goals|Performance Goals]] | performance-avoidance orientations | — | Why This Matters | 288 |
 | 13 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Why This Matters | 290 |
 | 14 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Defining Feedback | 316 |
-| 15 | [[Carole Ames]] | — | — | Defining Feedback | 319 |
-| 16 | [[Carol Dweck]] | — | — | Defining Feedback | 319 |
-| 17 | [[Summative Assessment]] | summative | — | Foundational Distinctions | 328 |
+| 15 | [[Carole-Ames|Carole Ames]] | — | — | Defining Feedback | 319 |
+| 16 | [[Carol-Dweck|Carol Dweck]] | — | — | Defining Feedback | 319 |
+| 17 | [[Summative-Assessment|Summative Assessment]] | summative | — | Foundational Distinctions | 328 |
 | 18 | [[Feed-Forward]] | — | — | Foundational Distinctions | 333 |
-| 19 | [[John Hattie]] | — | — | The Hattie–Timperley Four-Level Model | 348 |
+| 19 | [[John-Hattie|John Hattie]] | — | — | The Hattie–Timperley Four-Level Model | 348 |
 | 20 | [[Helen Timperley]] | — | — | The Hattie–Timperley Four-Level Model | 348 |
 | 21 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learners | — | The Hattie–Timperley Four-Level Model | 357 |
-| 22 | [[Edward Deci]] | — | — | Self-Determination Theory and the Aut... | 365 |
-| 23 | [[Richard Ryan]] | — | — | Self-Determination Theory and the Aut... | 365 |
+| 22 | [[Edward-Deci|Edward Deci]] | — | — | Self-Determination Theory and the Aut... | 365 |
+| 23 | [[Richard-Ryan|Richard Ryan]] | — | — | Self-Determination Theory and the Aut... | 365 |
 | 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory and the Aut... | 365 |
-| 25 | [[Avi Assor]] | — | — | Self-Determination Theory and the Aut... | 375 |
+| 25 | [[Avi-Assor|Avi Assor]] | — | — | Self-Determination Theory and the Aut... | 375 |
 | 26 | [[Guy Roth]] | — | — | Self-Determination Theory and the Aut... | 375 |
-| 27 | [[Carol Dweck]] | — | — | Growth Mindset Theory: Attribution an... | 379 |
-| 28 | [[Claudia Mueller]] | — | — | Growth Mindset Theory: Attribution an... | 389 |
-| 29 | [[Carol Dweck]] | — | — | Growth Mindset Theory: Attribution an... | 389 |
-| 30 | [[Bernard Weiner]] | — | — | Attribution Theory: The Causal Landscape | 396 |
+| 27 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset Theory: Attribution an... | 379 |
+| 28 | [[Claudia-Mueller|Claudia Mueller]] | — | — | Growth Mindset Theory: Attribution an... | 389 |
+| 29 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset Theory: Attribution an... | 389 |
+| 30 | [[Bernard-Weiner|Bernard Weiner]] | — | — | Attribution Theory: The Causal Landscape | 396 |
 | 31 | [[Attribution-Theory|Attribution Theory]] | — | — | Attribution Theory: The Causal Landscape | 396 |
-| 32 | [[Black & Wiliam]] | — | — | The Formative Assessment Tradition: C... | 403 |
+| 32 | [[Black-&-Wiliam|Black & Wiliam]] | — | — | The Formative Assessment Tradition: C... | 403 |
 | 33 | [[Assessment for Learning]] | — | — | The Formative Assessment Tradition: C... | 403 |
 | 34 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Feedback Levels in Action: Moving Up ... | 443 |
 | 35 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Autonomy–Competence Interface | 449 |
 | 36 | [[Attribution-Theory|Attribution Theory]] | — | — | Attribution Retraining as Feedback Me... | 458 |
 | 37 | [[Feedback Timing]] | — | — | Feedback Timing, Dosage, and Mode | 467 |
-| 38 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 562 |
+| 38 | [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 562 |
 | 39 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Unresolved Questions | 564 |
-| 40 | [[Metacognition & Motivation]] | — | — | Unresolved Questions | 566 |
-| 41 | [[Metacognition & Lifelong Learning]] | — | — | Unresolved Questions | 568 |
-| 42 | [[Critical Thinking in Education]] | — | — | Unresolved Questions | 570 |
+| 40 | [[Metacognition-&-Motivation|Metacognition & Motivation]] | — | — | Unresolved Questions | 566 |
+| 41 | [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] | — | — | Unresolved Questions | 568 |
+| 42 | [[Critical-Thinking-in-Education|Critical Thinking in Education]] | — | — | Unresolved Questions | 570 |
 | 43 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 572 |
 | 44 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | D. Expansion Topics | 658 |
 | 45 | [[Zimmerman]] | — | — | D. Expansion Topics | 659 |
 | 46 | [[Pintrich]] | — | — | D. Expansion Topics | 659 |
 | 47 | [[Formative Assessment Design]] | — | — | D. Expansion Topics | 661 |
 | 48 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 664 |
-| 49 | [[John Sweller]] | — | — | D. Expansion Topics | 665 |
+| 49 | [[John-Sweller|John Sweller]] | — | — | D. Expansion Topics | 665 |
 | 50 | [[Goal Orientation Theory]] | — | — | D. Expansion Topics | 667 |
 | 51 | [[Elliot & McGregor]] | — | — | D. Expansion Topics | 668 |
 | 52 | [[Peer Feedback and Collaborative Assessment]] | — | — | D. Expansion Topics | 670 |
@@ -582,7 +582,7 @@ extraction_summary:
 | 54 | [[Attribution Theory in Education]] | — | — | D. Expansion Topics | 673 |
 | 55 | [[Seligman]] | — | — | D. Expansion Topics | 674 |
 | 56 | [[Abramson et al.]] | — | — | D. Expansion Topics | 674 |
-| 57 | [[Carol Dweck]] | — | — | D. Expansion Topics | 674 |
+| 57 | [[Carol-Dweck|Carol Dweck]] | — | — | D. Expansion Topics | 674 |
 | 58 | [[Academic Help-Seeking]] | — | — | D. Expansion Topics | 674 |
 | 59 | [[Writing Instruction and Feedback Design]] | — | — | D. Expansion Topics | 676 |
 
@@ -608,19 +608,19 @@ extraction_summary:
 - [[Assessment for Learning]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Attribution Theory in Education]]
-- [[Avi Assor]]
-- [[Bernard Weiner]]
-- [[Black & Wiliam]]
-- [[Carol Dweck]]
-- [[Carole Ames]]
-- [[Claudia Mueller]]
+- [[Avi-Assor|Avi Assor]]
+- [[Bernard-Weiner|Bernard Weiner]]
+- [[Black-&-Wiliam|Black & Wiliam]]
+- [[Carol-Dweck|Carol Dweck]]
+- [[Carole-Ames|Carole Ames]]
+- [[Claudia-Mueller|Claudia Mueller]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Critical Thinking in Education]]
-- [[Edward Deci]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+- [[Edward-Deci|Edward Deci]]
 - [[Elliot & McGregor]]
 - [[Feed-Forward]]
 - [[Feedback-Design|Feedback Design]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback Timing]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Formative Assessment Design]]
@@ -628,23 +628,23 @@ extraction_summary:
 - [[Goal Orientation Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Guy Roth]]
-- [[Hattie & Timperley Feedback Model]]
+- [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]
 - [[Helen Timperley]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[John Hattie]]
-- [[John Sweller]]
+- [[John-Hattie|John Hattie]]
+- [[John-Sweller|John Sweller]]
 - [[Learned-Helplessness|Learned Helplessness]]
-- [[Metacognition & Lifelong Learning]]
-- [[Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Peer Feedback and Collaborative Assessment]]
 - [[Performance-Goals|Performance Goals]]
 - [[Pintrich]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Seligman]]
-- [[Summative Assessment]]
+- [[Summative-Assessment|Summative Assessment]]
 - [[Topping]]
 - [[Writing Instruction and Feedback Design]]
 - [[Zimmerman]]
@@ -654,15 +654,15 @@ extraction_summary:
 #### Prerequisites
 
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Metacognition & Motivation]]
-- [[Critical Thinking in Education]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Schema-Theory|Schema Theory]]
 
 #### Related
 
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Metacognition & Motivation]]
-- [[Metacognition & Lifelong Learning]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Goal Orientation Theory]]
@@ -685,14 +685,14 @@ extraction_summary:
 
 #### See Also
 
-- [[Metacognition & Critical Thinking]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Inquiry-Based Learning Design]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 
 #### Contrasts With
 
-- [[Summative Assessment]]
+- [[Summative-Assessment|Summative Assessment]]
 - [[Behaviorist Reinforcement Schedules]]
 - [[Ego-Involving-Feedback|Ego-Involving Feedback]]
 
@@ -700,14 +700,14 @@ extraction_summary:
 
 - [[Classroom Instruction]]
 - [[Coaching and Mentoring]]
-- [[Online Learning Design]]
+- [[Online-Learning-Design|Online Learning Design]]
 - [[Corporate Training]]
 - [[Writing Instruction]]
 
 #### Builds On
 
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Metacognition & Motivation]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Schema-Theory|Schema Theory]]
 
 #### Enables

@@ -152,7 +152,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 5)*
 
 > [!abstract] Untitled
-> This exposition constitutes a comprehensive academic treatment of [[Socratic Questioning]] as a foundational epistemological methodology and its systematic application to [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) practices. Beginning with the ancient Athenian origins of the *elenctic method* and tracing the intellectual lineage through [[John-Dewey|John Dewey]]'s reflective inquiry, [[Richard Paul]] and [[Linda Elder]]'s [[Critical-Thinking|Critical Thinking]] taxonomy, and contemporary cognitive-scientific research, this document establishes Socratic questioning not merely as a pedagogical technique but as an architectural principle for how knowledge-workers should design the very reasoning processes embedded in their knowledge systems. The exposition proceeds through the six canonical question types established by Paul and Elder—clarification, assumptions, evidence, perspectives, implications, and meta-questions—before demonstrating, with operational specificity, how each category can be instantiated as a structural feature of PKM workflows, [[Atomic-Notes|Atomic Notes]], [[Zettelkasten]] methodology, template scaffolding, and review protocols. The evidentiary base draws on educational psychology, [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Metacognition]] research, and CBT clinical literature. The concluding sections project forward into emerging developments in AI-augmented questioning systems and adaptive PKM architectures. The reader will emerge with both a rigorous theoretical foundation and a practical operational toolkit for transforming their knowledge vault from a passive archive into an active reasoning environment.
+> This exposition constitutes a comprehensive academic treatment of [[Socratic-Questioning|Socratic Questioning]] as a foundational epistemological methodology and its systematic application to [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) practices. Beginning with the ancient Athenian origins of the *elenctic method* and tracing the intellectual lineage through [[John-Dewey|John Dewey]]'s reflective inquiry, [[Richard-Paul|Richard Paul]] and [[Linda-Elder|Linda Elder]]'s [[Critical-Thinking|Critical Thinking]] taxonomy, and contemporary cognitive-scientific research, this document establishes Socratic questioning not merely as a pedagogical technique but as an architectural principle for how knowledge-workers should design the very reasoning processes embedded in their knowledge systems. The exposition proceeds through the six canonical question types established by Paul and Elder—clarification, assumptions, evidence, perspectives, implications, and meta-questions—before demonstrating, with operational specificity, how each category can be instantiated as a structural feature of PKM workflows, [[Atomic-Notes|Atomic Notes]], [[Zettelkasten]] methodology, template scaffolding, and review protocols. The evidentiary base draws on educational psychology, [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Metacognition]] research, and CBT clinical literature. The concluding sections project forward into emerging developments in AI-augmented questioning systems and adaptive PKM architectures. The reader will emerge with both a rigorous theoretical foundation and a practical operational toolkit for transforming their knowledge vault from a passive archive into an active reasoning environment.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 16)*
 
@@ -164,7 +164,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > **Socratic Questioning Defined**
-> [[Socratic Questioning]] is a form of disciplined, systematic, and exploratory cooperative dialogue — or internal monologue — that uses carefully structured questions to uncover assumptions, test the coherence of reasoning, evaluate evidence, examine perspectives, and trace implications. Originating with [[Socrates]] in fifth-century Athens, and formalized as an educational framework by [[Richard Paul]] and [[Linda Elder]] in the twentieth and twenty-first centuries, it is distinguished from questioning in general by its intentional structure, its commitment to pursuing thought beneath surface formulations, and its primary goal of achieving what Paul and Elder term *intellectual self-governance* — the capacity to monitor, assess, and reconstitute one's own thinking processes through disciplined interrogation.
+> [[Socratic-Questioning|Socratic Questioning]] is a form of disciplined, systematic, and exploratory cooperative dialogue — or internal monologue — that uses carefully structured questions to uncover assumptions, test the coherence of reasoning, evaluate evidence, examine perspectives, and trace implications. Originating with [[Socrates]] in fifth-century Athens, and formalized as an educational framework by [[Richard-Paul|Richard Paul]] and [[Linda-Elder|Linda Elder]] in the twentieth and twenty-first centuries, it is distinguished from questioning in general by its intentional structure, its commitment to pursuing thought beneath surface formulations, and its primary goal of achieving what Paul and Elder term *intellectual self-governance* — the capacity to monitor, assess, and reconstitute one's own thinking processes through disciplined interrogation.
 
 #### 4. [CORE-PRINCIPLE] Untitled *(Line 28)*
 
@@ -193,7 +193,7 @@ extraction_summary:
 
 > [!atomic-concept] Untitled
 > **The Six-Type Taxonomy as a Complete Epistemic Architecture**
-> Paul and Elder's taxonomy is not hierarchical in the manner of [[Bloom's Taxonomy]] (which moves from lower to higher cognitive orders). Rather, it is *functional* — each type targets a different structural component of thinking, and a complete Socratic interrogation of any claim or idea requires, eventually, application of all six types. In PKM practice, different types naturally emerge at different stages of knowledge processing, but the architecture as a whole constitutes a complete *epistemic audit* of any unit of knowledge.
+> Paul and Elder's taxonomy is not hierarchical in the manner of [[Bloom's-Taxonomy|Bloom's Taxonomy]] (which moves from lower to higher cognitive orders). Rather, it is *functional* — each type targets a different structural component of thinking, and a complete Socratic interrogation of any claim or idea requires, eventually, application of all six types. In PKM practice, different types naturally emerge at different stages of knowledge processing, but the architecture as a whole constitutes a complete *epistemic audit* of any unit of knowledge.
 
 #### 9. [KEY-CLAIM] Untitled *(Line 105)*
 
@@ -246,7 +246,7 @@ extraction_summary:
 > — [[Metacognition]] as the governing intelligence layer of PKM systems aligns precisely with question types 2 (assumptions), 5 (implications), and 6 (meta-questions), which directly address metacognitive monitoring.
 > — [[Cognitive-Load-Theory|Cognitive Load Theory]] provides the theoretical basis for understanding why question type 1 (clarification) is foundational: it reduces the intrinsic load of ambiguous concepts before elaborative processing begins.
 > — [[Habit-Formation|Habit Formation]] as master variable: James' insight that intellectual virtues are habituated connects to the long-term strategy of embedding Socratic questions in templates so that the questioning disposition becomes automatic.
-> — [[Extended Thinking Architecture]] in your project documents models a computational analog of the Socratic questioning process — the thinking blocks that probe assumptions, evaluate evidence, and trace implications in LLM reasoning are a direct computational implementation of Paul-Elder taxonomy.
+> — [[Extended-Thinking-Architecture|Extended Thinking Architecture]] in your project documents models a computational analog of the Socratic questioning process — the thinking blocks that probe assumptions, evaluate evidence, and trace implications in LLM reasoning are a direct computational implementation of Paul-Elder taxonomy.
 
 #### 17. [EXAMPLE] Untitled *(Line 264)*
 
@@ -270,7 +270,7 @@ extraction_summary:
 
 > [!summary] Untitled
 > **Integrated Understanding**
-> Socratic questioning, properly understood, is not a technique supplemental to PKM practice but an architectural principle constitutive of what genuine PKM is. The six question types formalized by [[Richard Paul]] and [[Linda Elder]] — clarification, assumption-probing, evidence-probing, perspective-questioning, implication-probing, and meta-questioning — map onto the full structure of rigorous thinking identified in the Paul-Elder [[Critical-Thinking|Critical Thinking]] framework, and each type serves a distinct and irreplaceable epistemic function within the knowledge management lifecycle. When systematically embedded in capture templates, processing protocols, review workflows, linking conventions, and synthesis structures, these question types transform the PKM vault from a sophisticated retrieval archive into an active cognitive scaffolding architecture — a system that enforces deeper processing, surfaces hidden assumptions, drives inferential extension, and cultivates the intellectual virtues that constitute genuine epistemic mastery.
+> Socratic questioning, properly understood, is not a technique supplemental to PKM practice but an architectural principle constitutive of what genuine PKM is. The six question types formalized by [[Richard-Paul|Richard Paul]] and [[Linda-Elder|Linda Elder]] — clarification, assumption-probing, evidence-probing, perspective-questioning, implication-probing, and meta-questioning — map onto the full structure of rigorous thinking identified in the Paul-Elder [[Critical-Thinking|Critical Thinking]] framework, and each type serves a distinct and irreplaceable epistemic function within the knowledge management lifecycle. When systematically embedded in capture templates, processing protocols, review workflows, linking conventions, and synthesis structures, these question types transform the PKM vault from a sophisticated retrieval archive into an active cognitive scaffolding architecture — a system that enforces deeper processing, surfaces hidden assumptions, drives inferential extension, and cultivates the intellectual virtues that constitute genuine epistemic mastery.
 > 
 > The convergence of evidence from [[Educational-Psychology|Educational Psychology]] (elaborative interrogation research), [[Cognitive-Science|Cognitive Science]] ([[Desirable-Difficulties|Desirable Difficulties]] and the [[Testing-Effect|Testing Effect]]), [[Metacognition]] theory (Flavell, Brown), and [[Clinical Psychology]] (CBT Socratic dialogue) provides a robust, multi-disciplinary foundation for the claim that active interrogative engagement with knowledge produces learning outcomes — in retention, transfer, comprehension depth, and critical thinking development — that passive processing cannot match. The practical implementation of this evidence through adaptive Socratic PKM templates, typed inferential links, and multi-scale review protocols is achievable within existing PKM tools such as [[Obsidian]] and [[Logseq]], and represents one of the highest-leverage investments a serious knowledge-worker can make in the productive architecture of their intellectual infrastructure.
 
@@ -280,7 +280,7 @@ extraction_summary:
 > **PKB Integration — Existing Knowledge Connections**
 > The analysis developed in this exposition integrates with and extends several nodes already established in your knowledge vault:
 > — **[[Metacognition]] as the governing intelligence layer**: The six question types are the primary *operational instruments* of metacognitive monitoring in PKM contexts. Question types 1-3 target object-level knowledge quality; types 4-5 target relational and inferential quality; type 6 constitutes the highest metacognitive level — thinking about the thinking process itself.
-> — **[[Extended Thinking Architecture]] and reasoning scaffolding**: Your project documentation models a computational analog of Socratic questioning in LLM reasoning. The pre-research planning phase, mid-execution validation, and final validation protocols in your system prompts map precisely onto question types 2, 3, and 6 respectively.
+> — **[[Extended-Thinking-Architecture|Extended Thinking Architecture]] and reasoning scaffolding**: Your project documentation models a computational analog of Socratic questioning in LLM reasoning. The pre-research planning phase, mid-execution validation, and final validation protocols in your system prompts map precisely onto question types 2, 3, and 6 respectively.
 > — **[[Habit-Formation|Habit Formation]] as master variable**: The cultivation of automatic Socratic questioning habits through template architecture is a direct application of James' neuroplasticity-adjacent insight that intellectual virtues become habituated through repeated practice.
 > — **[[Cognitive-Load-Theory|Cognitive Load Theory]] and template design**: The constraint that questioning prompts must minimize *extraneous load* while maximizing *germane load* (productive difficulty that drives schema formation) directly informs the adaptive deployment strategy recommended here.
 > — **[[Zettelkasten]] and atomic notes**: The atomic note principle is, at its deepest level, a clarification requirement — and the typed inferential links proposed here extend the Zettelkasten architecture from topical to epistemic connectivity.
@@ -292,7 +292,7 @@ extraction_summary:
 > **Further Exploration — New Topics for Your Vault**
 > 
 > > [!topic-idea]
-> > [[Epistemic Friction as Knowledge System Design Principle]] — The concept of productive epistemic friction, drawn from [[Robert Bjork]]'s [[Desirable-Difficulties|Desirable Difficulties]] framework, as a foundational design principle for PKM architecture: exploring the optimal friction gradient across note types, review protocols, and synthesis workflows.
+> > [[Epistemic Friction as Knowledge System Design Principle]] — The concept of productive epistemic friction, drawn from [[Robert-Bjork|Robert Bjork]]'s [[Desirable-Difficulties|Desirable Difficulties]] framework, as a foundational design principle for PKM architecture: exploring the optimal friction gradient across note types, review protocols, and synthesis workflows.
 > 
 > > [!topic-idea]
 > > [[Typed Links and Inferential Knowledge Graphs]] — The theory and practice of moving beyond topical links (A is related to B) toward typed inferential links (A implies B, A challenges B's assumption, A provides evidence against B), and the implications for knowledge graph architecture and epistemological richness.
@@ -363,11 +363,11 @@ extraction_summary:
 
 - [[AI-Augmented PKM and Socratic Interlocution]]
 - [[Aaron Beck]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Clinical Psychology]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
@@ -381,43 +381,43 @@ extraction_summary:
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Friction as Knowledge System Design Principle]]
 - [[Extended Thinking]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Foundation for Critical Thinking]]
-- [[Generative Processing]]
+- [[Generative-Processing|Generative Processing]]
 - [[Graph of Thoughts]]
 - [[Habit-Formation|Habit Formation]]
 - [[Henry Roediger]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intelligent Tutoring Systems]]
 - [[Jeffrey Karpicke]]
-- [[John Anderson]]
+- [[John-Anderson|John Anderson]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Large Language Models]]
-- [[Linda Elder]]
+- [[Large-Language-Models|Large Language Models]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logseq]]
 - [[MCP Server]]
 - [[Metacognition]]
 - [[Multi-Perspective Knowledge Architecture]]
 - [[Obsidian]]
 - [[PKM]]
-- [[Paul and Elder]]
-- [[Paul-Elder Critical Thinking Framework]]
+- [[Paul-and-Elder|Paul and Elder]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Permanent Note]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Piaget]]
 - [[Plato]]
 - [[Productive Difficulty]]
-- [[Richard Paul]]
-- [[Robert Bjork]]
+- [[Richard-Paul|Richard Paul]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Robert Swartz]]
 - [[Social Cognition]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Social Epistemology and Collaborative PKM]]
 - [[Socrates]]
 - [[Socratic Dialogue in Cognitive Behavioral Therapy — Epistemic Mechanisms]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Source Quality Evaluation]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Sweller]]
@@ -426,18 +426,18 @@ extraction_summary:
 - [[The Paul-Elder Critical Thinking Framework — Intellectual Traits]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Typed Links and Inferential Knowledge Graphs]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Zettelkasten]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Socratic Questioning]] | — | — | Document Start | 6 |
+| 1 | [[Socratic-Questioning|Socratic Questioning]] | — | — | Document Start | 6 |
 | 2 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Document Start | 6 |
 | 3 | [[John-Dewey|John Dewey]] | — | — | Document Start | 6 |
-| 4 | [[Richard Paul]] | — | — | Document Start | 6 |
-| 5 | [[Linda Elder]] | — | — | Document Start | 6 |
+| 4 | [[Richard-Paul|Richard Paul]] | — | — | Document Start | 6 |
+| 5 | [[Linda-Elder|Linda Elder]] | — | — | Document Start | 6 |
 | 6 | [[Critical-Thinking|Critical Thinking]] | — | — | Document Start | 6 |
 | 7 | [[Atomic-Notes|Atomic Notes]] | — | — | Document Start | 6 |
 | 8 | [[Zettelkasten]] | — | — | Document Start | 6 |
@@ -447,36 +447,36 @@ extraction_summary:
 | 12 | [[Obsidian]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 12 |
 | 13 | [[Educational-Psychology|Educational Psychology]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 12 |
 | 14 | [[Metacognition]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 12 |
-| 15 | [[Socratic Questioning]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 14 |
-| 16 | [[Richard Paul]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 14 |
-| 17 | [[Linda Elder]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 14 |
-| 18 | [[Generative Processing]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 20 |
+| 15 | [[Socratic-Questioning|Socratic Questioning]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 14 |
+| 16 | [[Richard-Paul|Richard Paul]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 14 |
+| 17 | [[Linda-Elder|Linda Elder]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 14 |
+| 18 | [[Generative-Processing|Generative Processing]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 20 |
 | 19 | [[Testing-Effect|Testing Effect]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 20 |
 | 20 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 20 |
-| 21 | [[Socratic Questioning]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
+| 21 | [[Socratic-Questioning|Socratic Questioning]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
 | 22 | [[Socrates]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
-| 23 | [[Richard Paul]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
-| 24 | [[Linda Elder]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
+| 23 | [[Richard-Paul|Richard Paul]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
+| 24 | [[Linda-Elder|Linda Elder]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 24 |
 | 25 | [[Socrates]] | — | — | The Ancient Origins: Socrates, the Mi... | 38 |
 | 26 | [[Plato]] | — | — | The Ancient Origins: Socrates, the Mi... | 38 |
-| 27 | [[Paul and Elder]] | — | — | The Ancient Origins: Socrates, the Mi... | 40 |
+| 27 | [[Paul-and-Elder|Paul and Elder]] | — | — | The Ancient Origins: Socrates, the Mi... | 40 |
 | 28 | [[PKM]] | — | — | The Ancient Origins: Socrates, the Mi... | 40 |
 | 29 | [[Plato]] | — | — | The Platonic Legacy and Dialogic Epis... | 49 |
 | 30 | [[Metacognition]] | — | — | The Platonic Legacy and Dialogic Epis... | 49 |
 | 31 | [[John-Dewey|John Dewey]] | — | — | John Dewey and the Naturalization of ... | 55 |
-| 32 | [[William James]] | — | — | William James, Habit Formation, and t... | 65 |
-| 33 | [[Paul and Elder]] | — | — | William James, Habit Formation, and t... | 65 |
-| 34 | [[Richard Paul]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
-| 35 | [[Linda Elder]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
+| 32 | [[William-James|William James]] | — | — | William James, Habit Formation, and t... | 65 |
+| 33 | [[Paul-and-Elder|Paul and Elder]] | — | — | William James, Habit Formation, and t... | 65 |
+| 34 | [[Richard-Paul|Richard Paul]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
+| 35 | [[Linda-Elder|Linda Elder]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
 | 36 | [[Foundation for Critical Thinking]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
-| 37 | [[Paul-Elder Critical Thinking Framework]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
-| 38 | [[Bloom's Taxonomy]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 85 |
+| 37 | [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] | — | — | The Paul-Elder Framework: Systematizi... | 69 |
+| 38 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 85 |
 | 39 | [[Zettelkasten]] | — | — | Question Type 1: Questions for Clarif... | 91 |
 | 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Question Type 1: Questions for Clarif... | 93 |
 | 41 | [[Sweller]] | — | — | Question Type 1: Questions for Clarif... | 93 |
 | 42 | [[Metacognition]] | — | — | Question Type 2: Questions That Probe... | 109 |
-| 43 | [[John Flavell]] | — | — | Question Type 2: Questions That Probe... | 109 |
-| 44 | [[Ann Brown]] | — | — | Question Type 2: Questions That Probe... | 109 |
+| 43 | [[John-Flavell|John Flavell]] | — | — | Question Type 2: Questions That Probe... | 109 |
+| 44 | [[Ann-Brown|Ann Brown]] | — | — | Question Type 2: Questions That Probe... | 109 |
 | 45 | [[Source Quality Evaluation]] | — | — | Question Type 3: Questions That Probe... | 115 |
 | 46 | [[Testing-Effect|Testing Effect]] | — | — | Question Type 3: Questions That Probe... | 117 |
 | 47 | [[Henry Roediger]] | — | — | Question Type 3: Questions That Probe... | 117 |
@@ -489,18 +489,18 @@ extraction_summary:
 | 54 | [[Sönke Ahrens]] | — | — | Context 2: Knowledge Processing | 166 |
 | 55 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Context 3: Spaced Review | 172 |
 | 56 | [[Testing-Effect|Testing Effect]] | — | — | Context 3: Spaced Review | 172 |
-| 57 | [[Robert Bjork]] | — | — | Context 3: Spaced Review | 174 |
+| 57 | [[Robert-Bjork|Robert Bjork]] | — | — | Context 3: Spaced Review | 174 |
 | 58 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Context 3: Spaced Review | 174 |
 | 59 | [[Permanent Note]] | — | — | Methodological Approaches: Embedding ... | 192 |
 | 60 | [[Productive Difficulty]] | — | — | Methodological Approaches: Embedding ... | 192 |
-| 61 | [[Robert Bjork]] | — | — | Methodological Approaches: Embedding ... | 196 |
+| 61 | [[Robert-Bjork|Robert Bjork]] | — | — | Methodological Approaches: Embedding ... | 196 |
 | 62 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | The Cognitive Science of Active Inter... | 204 |
 | 63 | [[Educational-Psychology|Educational Psychology]] | — | — | The Cognitive Science of Active Inter... | 204 |
 | 64 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Cognitive Science of Active Inter... | 204 |
 | 65 | [[Metacognition]] | — | — | The Metacognition Evidence Base | 212 |
-| 66 | [[John Flavell]] | — | — | The Metacognition Evidence Base | 212 |
-| 67 | [[Ann Brown]] | — | — | The Metacognition Evidence Base | 214 |
-| 68 | [[Cognitive Behavioral Therapy]] | — | — | The CBT Literature: Clinical Evidence... | 218 |
+| 66 | [[John-Flavell|John Flavell]] | — | — | The Metacognition Evidence Base | 212 |
+| 67 | [[Ann-Brown|Ann Brown]] | — | — | The Metacognition Evidence Base | 214 |
+| 68 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | The CBT Literature: Clinical Evidence... | 218 |
 | 69 | [[Aaron Beck]] | — | — | The CBT Literature: Clinical Evidence... | 218 |
 | 70 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The CBT Literature: Clinical Evidence... | 224 |
 | 71 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | The Transfer Research: Socratic Quest... | 228 |
@@ -509,13 +509,13 @@ extraction_summary:
 | 74 | [[Metacognition]] | — | — | Redesigning the PKM Architecture Arou... | 243 |
 | 75 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Redesigning the PKM Architecture Arou... | 244 |
 | 76 | [[Habit-Formation|Habit Formation]] | — | — | Redesigning the PKM Architecture Arou... | 245 |
-| 77 | [[Extended Thinking Architecture]] | — | — | Redesigning the PKM Architecture Arou... | 246 |
+| 77 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | Redesigning the PKM Architecture Arou... | 246 |
 | 78 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Workflow Integration: The Socratic PK... | 266 |
-| 79 | [[Large Language Models]] | — | — | AI-Augmented Socratic Questioning in ... | 284 |
+| 79 | [[Large-Language-Models|Large Language Models]] | — | — | AI-Augmented Socratic Questioning in ... | 284 |
 | 80 | [[Extended Thinking]] | — | — | AI-Augmented Socratic Questioning in ... | 284 |
 | 81 | [[MCP Server]] | — | — | AI-Augmented Socratic Questioning in ... | 286 |
 | 82 | [[Intelligent Tutoring Systems]] | — | — | Adaptive Question Templates and Cogni... | 294 |
-| 83 | [[John Anderson]] | — | — | Adaptive Question Templates and Cogni... | 294 |
+| 83 | [[John-Anderson|John Anderson]] | — | — | Adaptive Question Templates and Cogni... | 294 |
 | 84 | [[Graph of Thoughts]] | — | — | The Graph-of-Questions Architecture | 298 |
 | 85 | [[Social Cognition]] | — | — | Embodied and Social Dimensions of Soc... | 304 |
 | 86 | [[Collaborative Learning]] | — | — | Embodied and Social Dimensions of Soc... | 304 |
@@ -523,8 +523,8 @@ extraction_summary:
 | 88 | [[Knowledge-Management|Knowledge Management]] | — | — | Embodied and Social Dimensions of Soc... | 306 |
 | 89 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | Embodied and Social Dimensions of Soc... | 306 |
 | 90 | [[Collaborative Learning]] | — | — | Embodied and Social Dimensions of Soc... | 306 |
-| 91 | [[Richard Paul]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 314 |
-| 92 | [[Linda Elder]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 314 |
+| 91 | [[Richard-Paul|Richard Paul]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 314 |
+| 92 | [[Linda-Elder|Linda Elder]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 314 |
 | 93 | [[Critical-Thinking|Critical Thinking]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 314 |
 | 94 | [[Educational-Psychology|Educational Psychology]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 95 | [[Cognitive-Science|Cognitive Science]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
@@ -535,13 +535,13 @@ extraction_summary:
 | 100 | [[Obsidian]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 101 | [[Logseq]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 102 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 321 |
-| 103 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 322 |
+| 103 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 322 |
 | 104 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 323 |
 | 105 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 324 |
 | 106 | [[Zettelkasten]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 325 |
 | 107 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 326 |
 | 108 | [[Epistemic Friction as Knowledge System Design Principle]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 332 |
-| 109 | [[Robert Bjork]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 332 |
+| 109 | [[Robert-Bjork|Robert Bjork]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 332 |
 | 110 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 332 |
 | 111 | [[Typed Links and Inferential Knowledge Graphs]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 335 |
 | 112 | [[The Paul-Elder Critical Thinking Framework — Intellectual Traits]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 338 |
@@ -618,11 +618,11 @@ $$
 
 - [[AI-Augmented PKM and Socratic Interlocution]]
 - [[Aaron Beck]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Clinical Psychology]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
@@ -636,43 +636,43 @@ $$
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Friction as Knowledge System Design Principle]]
 - [[Extended Thinking]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Foundation for Critical Thinking]]
-- [[Generative Processing]]
+- [[Generative-Processing|Generative Processing]]
 - [[Graph of Thoughts]]
 - [[Habit-Formation|Habit Formation]]
 - [[Henry Roediger]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intelligent Tutoring Systems]]
 - [[Jeffrey Karpicke]]
-- [[John Anderson]]
+- [[John-Anderson|John Anderson]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Large Language Models]]
-- [[Linda Elder]]
+- [[Large-Language-Models|Large Language Models]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logseq]]
 - [[MCP Server]]
 - [[Metacognition]]
 - [[Multi-Perspective Knowledge Architecture]]
 - [[Obsidian]]
 - [[PKM]]
-- [[Paul and Elder]]
-- [[Paul-Elder Critical Thinking Framework]]
+- [[Paul-and-Elder|Paul and Elder]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Permanent Note]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Piaget]]
 - [[Plato]]
 - [[Productive Difficulty]]
-- [[Richard Paul]]
-- [[Robert Bjork]]
+- [[Richard-Paul|Richard Paul]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Robert Swartz]]
 - [[Social Cognition]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Social Epistemology and Collaborative PKM]]
 - [[Socrates]]
 - [[Socratic Dialogue in Cognitive Behavioral Therapy — Epistemic Mechanisms]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Source Quality Evaluation]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Sweller]]
@@ -681,7 +681,7 @@ $$
 - [[The Paul-Elder Critical Thinking Framework — Intellectual Traits]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Typed Links and Inferential Knowledge Graphs]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Zettelkasten]]
 
 ---

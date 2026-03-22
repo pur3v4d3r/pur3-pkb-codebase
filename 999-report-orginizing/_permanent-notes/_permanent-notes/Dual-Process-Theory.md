@@ -5,6 +5,8 @@
 title: "Dual-Process Theory"
 aliases:
   - "Dual-Process Theory"
+  - "dual-process-theory"
+  - "Dual Process Theory"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -34,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,22 +78,30 @@ see-also:
   - "[[Cognitive-Miser|Cognitive Miser]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
-  - "[[deductive-reasoning|deductive reasoning]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
   - "[[Gottlob-Frege|Gottlob Frege]]"
   - "[[Peter-Wason|Peter Wason]]"
-  - "[[inductive-reasoning|inductive reasoning]]"
-  - "[[abductive-reasoning|abductive reasoning]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle|Aristotle]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[working-memory|working memory]]"
-  - "[[deductive-reasoning|deductive reasoning]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
   - "[[Gottlob-Frege|Gottlob Frege]]"
   - "[[Peter-Wason|Peter Wason]]"
-  - "[[inductive-reasoning|inductive reasoning]]"
-  - "[[abductive-reasoning|abductive reasoning]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle|Aristotle]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[working-memory|working memory]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
+  - "[[Gottlob-Frege|Gottlob Frege]]"
+  - "[[Peter-Wason|Peter Wason]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
+  - "[[Aristotle|Aristotle]]"
+  - "[[Mental-Models-Theory|Mental Models Theory]]"
+  - "[[Working-Memory|working memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -122,7 +132,7 @@ importance: high
 # Dual-Process Theory
 
 > [!definition] **Dual-Process Theory**
-> The theoretical framework distinguishing two systems of cognitive processing: [[System 1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System 2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive-Miser|Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
+> The theoretical framework distinguishing two systems of cognitive processing: [[System-1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System-2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive-Miser|Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
 
 ## Core Explanation
 
@@ -209,7 +219,7 @@ importance: high
 [[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]
 
 **Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-[[deductive-reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[inductive-reasoning|inductive reasoning]] * [[abductive-reasoning|abductive reasoning]] * [[Aristotle|Aristotle]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[working-memory|working memory]] * [[belief-bias|belief bias]] * [[categorical-syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]]
+[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Aristotle|Aristotle]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]]
 
 **Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
 - [[Deductive-Reasoning|Deductive Reasoning]]
@@ -226,7 +236,7 @@ importance: high
 - [[Schema-Theory|Schema Theory]]
 
 **Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-[[deductive-reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[inductive-reasoning|inductive reasoning]] * [[abductive-reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[working-memory|working memory]] * [[belief-bias|belief bias]] * [[categorical-syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]]
+[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]]
 
 **Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
 - [[Deductive-Reasoning|Deductive Reasoning]]
@@ -241,6 +251,26 @@ importance: high
 - [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]]
+
+**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+
+
 
 
 

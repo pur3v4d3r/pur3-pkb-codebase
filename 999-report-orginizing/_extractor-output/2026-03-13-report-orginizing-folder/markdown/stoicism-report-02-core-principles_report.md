@@ -138,7 +138,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 217)*
 
 > [!abstract] Untitled
-> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.
+> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.
 
 #### 2. [INDEX] Untitled *(Line 222)*
 
@@ -368,12 +368,12 @@ extraction_summary:
 ### Unique Targets
 
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Plato]]
 - [[Preferred Indifferents — A Complete Taxonomy]]
 - [[Prohairesis]]
@@ -398,7 +398,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism]] | — | — | Core Principles: Virtue, Wisdom, and ... | 218 |
 | 2 | [[Prohairesis]] | — | — | Core Principles: Virtue, Wisdom, and ... | 218 |
-| 3 | [[Marcus Aurelius]] | — | — | Core Principles: Virtue, Wisdom, and ... | 218 |
+| 3 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Core Principles: Virtue, Wisdom, and ... | 218 |
 | 4 | [[Epictetus]] | — | — | Core Principles: Virtue, Wisdom, and ... | 218 |
 | 5 | [[Seneca]] | — | — | Core Principles: Virtue, Wisdom, and ... | 218 |
 | 6 | [[Stoicism Series Overview]] | — | — | Core Principles: Virtue, Wisdom, and ... | 225 |
@@ -413,21 +413,21 @@ extraction_summary:
 | 15 | [[Logos]] | — | — | 2. Justice (Dikaiosyne) | 315 |
 | 16 | [[Logos]] | — | — | 2. Justice (Dikaiosyne) | 317 |
 | 17 | [[Epictetus]] | — | — | 2. Justice (Dikaiosyne) | 319 |
-| 18 | [[Marcus Aurelius]] | — | — | 2. Justice (Dikaiosyne) | 319 |
+| 18 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 2. Justice (Dikaiosyne) | 319 |
 | 19 | [[Seneca]] | — | — | 4. Temperance (Sophrosyne) | 356 |
 | 20 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Unity of the Virtues and ... | 373 |
 | 21 | [[Epictetus]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
 | 22 | [[Prohairesis]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
 | 23 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
-| 24 | [[Cognitive Behavioral Therapy]] | — | — | Part 7: Stoicism and the Science of M... | 459 |
-| 25 | [[Marcus Aurelius]] | — | — | Case 1: Marcus Aurelius and the Unity... | 467 |
+| 24 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Part 7: Stoicism and the Science of M... | 459 |
+| 25 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Case 1: Marcus Aurelius and the Unity... | 467 |
 | 26 | [[Epictetus]] | — | — | Case 2: Epictetus and the Radical Fre... | 480 |
 | 27 | [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] | — | — | Part 9: Integration — How This Report... | 500 |
 | 28 | [[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]] | — | — | Part 9: Integration — How This Report... | 501 |
 | 29 | [[Report 05 — Stoicism in Leadership and Decision-Making]] | — | — | Part 9: Integration — How This Report... | 502 |
 | 30 | [[Report 10 — Stoicism and CBT]] | — | — | Part 9: Integration — How This Report... | 503 |
 | 31 | [[Report 04 — Stoicism and Modern Psychology]] | — | — | Part 9: Integration — How This Report... | 504 |
-| 32 | [[Marcus Aurelius]] | — | — | Conclusion: The Living Architecture o... | 518 |
+| 32 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Conclusion: The Living Architecture o... | 518 |
 | 33 | [[Epictetus]] | — | — | Conclusion: The Living Architecture o... | 518 |
 | 34 | [[Seneca]] | — | — | Conclusion: The Living Architecture o... | 518 |
 | 35 | [[The Stoic Sage — Ideal and Reality]] | — | — | Expansion Topics for PKB | 580 |
@@ -473,12 +473,12 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Plato]]
 - [[Preferred Indifferents — A Complete Taxonomy]]
 - [[Prohairesis]]
@@ -507,12 +507,12 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
 - [[Zeno of Citium]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Aristotle]]
 - [[Eudaimonia]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -522,7 +522,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Ancient Philosophy]]
 - [[Moral Psychology]]
 
@@ -538,7 +538,7 @@ extraction_summary:
 #### See Also
 
 - [[Aristotelian Virtue Ethics]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Positive Psychology]]
 - [[Mindfulness]]

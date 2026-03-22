@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +79,14 @@ see-also:
   - "[[Linda-Zagzebski|Linda Zagzebski]]"
   - "[[Jason-Baehr|Jason Baehr]]"
   - "[[Heather-Battaly|Heather Battaly]]"
+  - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Amos-Tversky|Amos Tversky]]"
+  - "[[Debiasing-Interventions|Debiasing Interventions]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Linda-Zagzebski|Linda Zagzebski]]"
+  - "[[Jason-Baehr|Jason Baehr]]"
+  - "[[Heather-Battaly|Heather Battaly]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +113,7 @@ importance: high
 # Intellectual Perseverance
 
 > [!definition] **Intellectual Perseverance**
-> **Intellectual perseverance**, analyzed with particular precision by [[Heather Battaly]], is the disposition to continue pursuing worthwhile epistemic goals in the face of obstacles — to maintain inquiry through cognitive difficulty, fatigue, complexity, and the temptation to settle for adequate rather than excellent understanding. Battaly identifies three components: an appropriate response to specific obstacles, genuine epistemic motivation (not mere stubbornness), and genuine epistemic goals (not the mere defense of already-held positions). The persevering person is distinguished from both the irresolute person (who gives up too early) and the intransigent person (who fails to give up when they should).
+> **Intellectual perseverance**, analyzed with particular precision by [[Heather-Battaly]], is the disposition to continue pursuing worthwhile epistemic goals in the face of obstacles — to maintain inquiry through cognitive difficulty, fatigue, complexity, and the temptation to settle for adequate rather than excellent understanding. Battaly identifies three components: an appropriate response to specific obstacles, genuine epistemic motivation (not mere stubbornness), and genuine epistemic goals (not the mere defense of already-held positions). The persevering person is distinguished from both the irresolute person (who gives up too early) and the intransigent person (who fails to give up when they should).
 
 ## Core Explanation
 
@@ -159,6 +167,26 @@ importance: high
 
 **Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
 - [[Fallibilism|Fallibilism]]
+
+**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
+[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+
+
+
+
 
 
 

@@ -120,28 +120,28 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Behavioral-Science]]"
   - "[[Appraisal-Theory]]"
 
 related:
-  - "[[Schema Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
   - "[[Attribution-Theory]]"
   - "[[Self-Efficacy]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Metacognition]]"
   - "[[Emotion Regulation]]"
   - "[[Learned-Helplessness]]"
   - "[[Theory-of-Constructed-Emotion]]"
-  - "[[Cognitive Reappraisal]]"
-  - "[[Dual Process Theory]]"
+  - "[[Cognitive-Reappraisal|Cognitive Reappraisal]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
 
 broader:
-  - "[[Educational Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
 
 narrower:
-  - "[[Cognitive-Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]"
   - "[[Psychodynamic Theory]]"
   - "[[Therapeutic Alliance]]"
   - "[[Empirically Supported Treatments]]"
@@ -152,7 +152,7 @@ see-also:
   - "[[Somatic-Marker-Hypothesis]]"
   - "[[Core-Affect]]"
   - "[[Attribution-Style]]"
-  - "[[Locus of Control]]"
+  - "[[Locus-of-Control|Locus of Control]]"
 
 contrasts-with:
   - "[[Positive Psychology]]"
@@ -166,19 +166,19 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Behavioral-Science]]"
   - "[[Attribution-Theory]]"
-  - "[[Schema Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
 
 enables:
-  - "[[Cognitive-Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]"
   - "[[Psychopathology]]"
   - "[[Empirically Supported Treatments]]"
   - "[[Therapeutic Alliance]]"
 
 expansion-topics:
-  - topic: "[[Cognitive-Behavioral Therapy]]"
+  - topic: "[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]"
     description: "A dedicated report on CBT's theoretical architecture, core techniques, and evidence base — including cognitive restructuring, behavioral experiments, and schema-focused approaches."
     priority: high
   - topic: "[[Therapeutic Alliance]]"
@@ -187,7 +187,7 @@ expansion-topics:
   - topic: "[[Psychopathology]]"
     description: "Foundational treatment of how mental disorders are defined, classified, and understood — including the DSM vs. ICD debate, dimensional models, and the RDoC framework."
     priority: high
-  - topic: "[[Acceptance and Commitment Therapy]]"
+  - topic: "[[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]"
     description: "Report on ACT's philosophical grounding in functional contextualism, its six core processes (acceptance, defusion, present-moment contact, self-as-context, values, committed action), and evidence base."
     priority: high
   - topic: "[[Emotion Regulation]]"
@@ -245,7 +245,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
 generation-date: "2026-03-19"
 ---
 
@@ -262,7 +262,7 @@ There is a question that has haunted Western civilization since at least the anc
 
 Clinical psychology can be provisionally defined as the branch of psychology devoted to the understanding, assessment, diagnosis, and treatment of [[Psychopathology|psychological distress and disorder]] across the lifespan. But this definition immediately demands unpacking. "Understanding" here encompasses both scientific theory-building and the practical interpretive work of comprehending a specific individual's suffering in its full biographical, cultural, and contextual complexity. "Assessment" involves the disciplined gathering of evidence about a person's psychological functioning — through structured interviews, standardized tests, observational data, and collaborative exploration. "Diagnosis" remains one of the field's most contentious activities, involving the classification of patterns of distress into named categories — a process that carries genuine clinical utility but equally genuine conceptual risks. And "treatment" — [[Psychotherapy|psychotherapy]] in its many forms — is the heart of clinical practice: the disciplined, theoretically grounded application of psychological principles to relieve suffering and promote flourishing.
 
-This report matters to a learner invested in [[Cognitive Psychology]], [[Educational Psychology]], [[Metacognition]], and [[Self-Determined Learning]] for a reason that is anything but tangential: the mechanisms through which clinical psychology achieves change — cognitive restructuring, motivational enhancement, schema revision, emotion regulation, the building of self-awareness and self-compassion — are deeply continuous with the mechanisms through which *any* learning and growth occur. Clinical psychology is, in one sense, the study of the most difficult form of [[Conceptual-Change-Theory|conceptual change]]: the revision of deeply entrenched, emotionally loaded, self-referential beliefs that have organized a person's entire experience of the world. Understanding how that change happens illuminates how all significant psychological change happens.
+This report matters to a learner invested in [[Cognitive-Psychology|Cognitive Psychology]], [[Educational-Psychology|Educational Psychology]], [[Metacognition]], and [[Self-Determined Learning]] for a reason that is anything but tangential: the mechanisms through which clinical psychology achieves change — cognitive restructuring, motivational enhancement, schema revision, emotion regulation, the building of self-awareness and self-compassion — are deeply continuous with the mechanisms through which *any* learning and growth occur. Clinical psychology is, in one sense, the study of the most difficult form of [[Conceptual-Change-Theory|conceptual change]]: the revision of deeply entrenched, emotionally loaded, self-referential beliefs that have organized a person's entire experience of the world. Understanding how that change happens illuminates how all significant psychological change happens.
 
 The report proceeds through seven phases. Phase II establishes foundational definitions and traces the field's intellectual genealogy. Phase III maps the major theoretical frameworks — psychodynamic, behavioral, cognitive-behavioral, humanistic-existential, and the third-wave approaches. Phase IV descends into mechanism: how, precisely, does therapy work? Phase V examines applications, evidence, and limitations. Phase VI synthesizes and connects to your broader PKB. Phase VII provides a lexicon, references, and expansion topics.
 
@@ -292,7 +292,7 @@ Clinical psychology's intellectual genealogy begins not with Freud but with the 
 
 The behaviorist revolution of the early twentieth century offered a radically different genealogy. John Watson, building on Pavlov's classical conditioning, and later B.F. Skinner, building on Thorndike's instrumental learning, proposed that psychological problems were learned behavioral patterns that could be systematically unlearned through the manipulation of environmental contingencies. This framework — which treats maladaptive behavior rather than unconscious conflict as the target of intervention — gave rise to [[Behavioral-Science|behavior therapy]] and established the experimental, empirical tradition that now characterizes much of [[Evidence-Based Practice in Psychology|evidence-based clinical psychology]].
 
-The cognitive revolution of the 1950s-1970s integrated these streams with a new focus: the content and structure of thought. [[Aaron Beck]], treating depressed patients in the 1960s, noticed that they shared characteristic patterns of negative, distorted automatic thoughts — thoughts that felt true but that, upon examination, failed to match the evidence of their actual lives. From this observation emerged [[Cognitive-Behavioral Therapy]], which became the most extensively researched and validated form of psychological intervention in history.
+The cognitive revolution of the 1950s-1970s integrated these streams with a new focus: the content and structure of thought. [[Aaron Beck]], treating depressed patients in the 1960s, noticed that they shared characteristic patterns of negative, distorted automatic thoughts — thoughts that felt true but that, upon examination, failed to match the evidence of their actual lives. From this observation emerged [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], which became the most extensively researched and validated form of psychological intervention in history.
 
 The humanistic tradition, running parallel to both psychoanalysis and behaviorism, emphasized a different set of commitments: the person's inherent capacity for growth, the importance of subjective experience, and the therapeutic relationship characterized by Carl Rogers's triad of unconditional positive regard, accurate empathy, and congruence. This tradition finds its descendant in contemporary person-centered approaches and contributed crucially to our understanding of the [[Therapeutic Alliance]] as a universal ingredient of effective therapy.
 
@@ -318,16 +318,16 @@ Modern psychodynamic approaches — including attachment-based therapy, mentaliz
 
 ### Cognitive-Behavioral Therapy
 
-[[Cognitive-Behavioral Therapy]] is the most extensively researched psychotherapy tradition and has achieved something approaching the status of a default standard of care in many treatment guidelines. Its theoretical foundation integrates Beck's cognitive model with behavioral principles derived from learning theory. The cognitive model proposes that psychological disorders are maintained by characteristic patterns of dysfunctional thinking — specific cognitive content (automatic thoughts and images), underlying rules and assumptions (intermediate beliefs), and deep [[Schema Theory|core schemas]] about the self, world, and future that were formed in early experience and are activated by current stressors.
+[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] is the most extensively researched psychotherapy tradition and has achieved something approaching the status of a default standard of care in many treatment guidelines. Its theoretical foundation integrates Beck's cognitive model with behavioral principles derived from learning theory. The cognitive model proposes that psychological disorders are maintained by characteristic patterns of dysfunctional thinking — specific cognitive content (automatic thoughts and images), underlying rules and assumptions (intermediate beliefs), and deep [[Schema-Theory|core schemas]] about the self, world, and future that were formed in early experience and are activated by current stressors.
 
 > [!key-claim] **Beck's Cognitive Model**
 > Psychological distress is mediated by the content and structure of cognition. In depression, the "cognitive triad" — negative views of the self, the world, and the future — generates and maintains low mood and behavioral withdrawal. In anxiety, threat appraisal is inflated and coping capacity underestimated. These patterns are not merely epiphenomenal: they cause and maintain the disorder, not simply reflect it. Changing them is therefore therapeutically necessary, not merely palliative. The change mechanism involves collaborative empirical investigation of beliefs — treating thoughts as hypotheses to be tested rather than facts to be accepted — and the deliberate construction of new behavioral experiences that disconfirm maladaptive beliefs.
 
-This theoretical account has deep continuity with your PKB's existing frameworks. Beck's core schemas are a clinical instantiation of [[Schema Theory]] — the same basic cognitive structures that organize general knowledge organize self-relevant knowledge, and they are equally resistant to disconfirmation by schema-inconsistent information. The process of [[Cognitive Reappraisal]] — a core CBT technique — is precisely what [[Appraisal-Theory]] predicts: changing the appraisal of an event changes its emotional impact. And the learned helplessness model of depression, in which exposure to uncontrollable adversity leads to motivational, cognitive, and emotional deficits, is a direct bridge between clinical psychology and [[Learned-Helplessness]] and [[Attribution-Style]] — attributing bad events to stable, global, internal causes generates the hopelessness that defines clinical depression.
+This theoretical account has deep continuity with your PKB's existing frameworks. Beck's core schemas are a clinical instantiation of [[Schema-Theory|Schema Theory]] — the same basic cognitive structures that organize general knowledge organize self-relevant knowledge, and they are equally resistant to disconfirmation by schema-inconsistent information. The process of [[Cognitive-Reappraisal|Cognitive Reappraisal]] — a core CBT technique — is precisely what [[Appraisal-Theory]] predicts: changing the appraisal of an event changes its emotional impact. And the learned helplessness model of depression, in which exposure to uncontrollable adversity leads to motivational, cognitive, and emotional deficits, is a direct bridge between clinical psychology and [[Learned-Helplessness]] and [[Attribution-Style]] — attributing bad events to stable, global, internal causes generates the hopelessness that defines clinical depression.
 
 ### Humanistic and Existential Approaches
 
-Carl Rogers's person-centered therapy proposed a radical reorientation: the therapist's primary function is not to analyze, interpret, or even teach, but to provide the relational conditions — unconditional positive regard, accurate empathic understanding, and therapist genuineness — under which the client's own organismic growth tendency would naturally express itself. Rogers's model is explicitly consistent with [[Self-Determination Theory]]: psychological distress arises when conditional positive regard from significant others forces the person to suppress their authentic experiencing in order to maintain relational connection, creating a split between the ideal self (what one must be to be loved) and the actual experiencing self. Therapy heals this split by providing a relationship in which the person can be genuinely known and genuinely accepted — activating the same [[Autonomy-Support|autonomy-supportive]] conditions that SDT identifies as necessary for psychological integration.
+Carl Rogers's person-centered therapy proposed a radical reorientation: the therapist's primary function is not to analyze, interpret, or even teach, but to provide the relational conditions — unconditional positive regard, accurate empathic understanding, and therapist genuineness — under which the client's own organismic growth tendency would naturally express itself. Rogers's model is explicitly consistent with [[Self-Determination-Theory|Self-Determination Theory]]: psychological distress arises when conditional positive regard from significant others forces the person to suppress their authentic experiencing in order to maintain relational connection, creating a split between the ideal self (what one must be to be loved) and the actual experiencing self. Therapy heals this split by providing a relationship in which the person can be genuinely known and genuinely accepted — activating the same [[Autonomy-Support|autonomy-supportive]] conditions that SDT identifies as necessary for psychological integration.
 
 > [!insight] **Rogerian Therapy as SDT Before SDT**
 > Rogers's theoretical framework anticipates Self-Determination Theory by several decades. His concept of "conditions of worth" — the internalized demands of significant others that the person must meet to receive love — maps precisely onto SDT's concept of [[Introjected-Regulation]]: the form of motivation in which behavior is driven by internal coercion (shame, guilt, contingent self-esteem) rather than genuine identification with one's values. His concept of "organismic valuing process" — the innate capacity to evaluate experience in terms of its actual contribution to well-being — maps onto SDT's concept of the [[Organismic-Integration-Theory|organismic integration tendency]]. Therapy, on both accounts, creates the conditions for this natural integrative process to work unimpeded by defensive distortion.
@@ -341,7 +341,7 @@ Perhaps the most significant theoretical development of the past three decades h
 > [!key-claim] **The Third-Wave Paradigm Shift**
 > Classical CBT assumes that psychological suffering is caused by maladaptive cognitions and behaviors that need to be identified, challenged, and changed. Third-wave approaches propose a different account: suffering is often caused less by the *content* of distressing thoughts and emotions than by the person's *relationship* to that content — specifically, by cognitive fusion (treating thoughts as literal truths rather than mental events), experiential avoidance (attempting to suppress or escape from distressing inner experience), and behavioral rigidity (actions driven by the demand to avoid distress rather than by values). The therapeutic target is not the distressing thought itself but the way the person relates to it — changing the function of the thought without necessarily changing its content.
 
-**Acceptance and Commitment Therapy** (ACT), developed by Steven Hayes, is grounded in Relational Frame Theory — a behavioral account of human language and cognition — and organized around six core psychological processes: acceptance (willingness to experience difficult thoughts and emotions), defusion (stepping back from the literal content of thoughts), present-moment contact (mindful engagement with current experience), self-as-context (a stable observing self distinguished from transient mental content), values clarification, and committed action aligned with those values. ACT's explicit values-clarification component has deep resonance with [[Self-Determination Theory|SDT's goal content theory]] — the difference between intrinsic and extrinsic values is precisely the difference ACT locates between actions that express one's genuine self and those driven by experiential avoidance.
+**Acceptance and Commitment Therapy** (ACT), developed by Steven Hayes, is grounded in Relational Frame Theory — a behavioral account of human language and cognition — and organized around six core psychological processes: acceptance (willingness to experience difficult thoughts and emotions), defusion (stepping back from the literal content of thoughts), present-moment contact (mindful engagement with current experience), self-as-context (a stable observing self distinguished from transient mental content), values clarification, and committed action aligned with those values. ACT's explicit values-clarification component has deep resonance with [[Self-Determination-Theory|SDT's goal content theory]] — the difference between intrinsic and extrinsic values is precisely the difference ACT locates between actions that express one's genuine self and those driven by experiential avoidance.
 
 **Dialectical Behavior Therapy** (DBT), developed by Marsha Linehan for borderline personality disorder, integrates behavioral change techniques with acceptance and mindfulness in an explicit dialectical framework — the primary dialectic being acceptance *and* change simultaneously. DBT's skills training component — in mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness — represents a manualized form of psychological education in which specific skills are taught rather than general personality change pursued.
 
@@ -353,7 +353,7 @@ Perhaps the most significant theoretical development of the past three decades h
 > [!reflection] **Engaging the Landscape**
 > 1. The shift from classical CBT to third-wave approaches represents a fundamental change in what the target of therapy is. Can you articulate this shift in your own words? What does it imply about the nature of psychological suffering?
 > 2. If all four major traditions have empirical support, what does that fact suggest about the common factors debate — the possibility that what different therapies share matters more than what distinguishes them?
-> 3. The humanistic tradition places autonomy and self-determination at the center of therapeutic theory. How does this relate to the [[Self-Determination Theory|SDT]] framework you've already studied? What does each tradition add that the other doesn't?
+> 3. The humanistic tradition places autonomy and self-determination at the center of therapeutic theory. How does this relate to the [[Self-Determination-Theory|SDT]] framework you've already studied? What does each tradition add that the other doesn't?
 
 ---
 
@@ -372,7 +372,7 @@ The most consistently replicated finding in psychotherapy research is that the q
 
 ### Cognitive Change Mechanisms
 
-In cognitive-behavioral approaches, the primary mechanism is the modification of [[Schema Theory|maladaptive schemas]] and the automatic thoughts and beliefs they generate. This process involves several interlocking components. First, the identification and articulation of automatic thoughts — the rapid, reflexive cognitions that arise in response to triggering situations and are often accepted as unquestionable facts rather than interpretations. Second, the Socratic exploration of these thoughts — collaborative empirical investigation that treats the thought as a hypothesis and examines the evidence for and against it. Third, behavioral experiments — structured activities designed to test cognitive predictions and generate experiential evidence that disconfirms maladaptive beliefs. Fourth, schema-level work — identifying the deeper core beliefs that generate surface-level automatic thoughts and addressing them through historical reprocessing, experiential techniques (imagery rescripting), and the gradual accumulation of disconfirmatory experience.
+In cognitive-behavioral approaches, the primary mechanism is the modification of [[Schema-Theory|maladaptive schemas]] and the automatic thoughts and beliefs they generate. This process involves several interlocking components. First, the identification and articulation of automatic thoughts — the rapid, reflexive cognitions that arise in response to triggering situations and are often accepted as unquestionable facts rather than interpretations. Second, the Socratic exploration of these thoughts — collaborative empirical investigation that treats the thought as a hypothesis and examines the evidence for and against it. Third, behavioral experiments — structured activities designed to test cognitive predictions and generate experiential evidence that disconfirms maladaptive beliefs. Fourth, schema-level work — identifying the deeper core beliefs that generate surface-level automatic thoughts and addressing them through historical reprocessing, experiential techniques (imagery rescripting), and the gradual accumulation of disconfirmatory experience.
 
 The mechanism here maps precisely onto [[Conceptual-Change-Theory]]: entrenched, emotionally loaded beliefs are not revised through simple logical argument (any more than students' naive physics intuitions are revised by lecturing), but through a combination of cognitive challenge, experiential disconfirmation, and the construction of viable alternative frameworks. The resistance of core clinical schemas to change mirrors the resistance of deeply held scientific misconceptions — both require not merely new information but a reconstruction of the entire interpretive framework through which information is processed.
 
@@ -390,11 +390,11 @@ For anxiety disorders, the gold-standard behavioral mechanism is exposure — th
 
 For depression, one of the most empirically validated mechanisms is behavioral activation — the systematic increase in engagement with rewarding activities, particularly those associated with a sense of mastery, pleasure, or connection with values. Behavioral activation theory proposes that depression is maintained by a vicious cycle: low mood leads to behavioral withdrawal and avoidance, which produces further loss of positive reinforcement, which deepens low mood, which produces further withdrawal. Intervening on the behavioral component — increasing activity before mood lifts — breaks this cycle from the outside in.
 
-This mechanism maps onto [[Self-Determination Theory|SDT's]] account of autonomous motivation: engagement with activities aligned with one's values produces a qualitatively different form of reward than externally motivated activity, and it is this values-aligned engagement that behavioral activation seeks to restore. The connection to your PKB's work on [[Intrinsic Motivation]] is explicit: depression therapy is partly an exercise in reconnecting the person with the sources of intrinsic interest and value that the disorder has buried.
+This mechanism maps onto [[Self-Determination-Theory|SDT's]] account of autonomous motivation: engagement with activities aligned with one's values produces a qualitatively different form of reward than externally motivated activity, and it is this values-aligned engagement that behavioral activation seeks to restore. The connection to your PKB's work on [[Intrinsic-Motivation|Intrinsic Motivation]] is explicit: depression therapy is partly an exercise in reconnecting the person with the sources of intrinsic interest and value that the disorder has buried.
 
 ### Emotion Regulation Mechanisms
 
-[[Emotion Regulation|Emotion regulation]] is increasingly recognized as a transdiagnostic mechanism — a capacity whose disruption underlies a wide range of disorders and whose improvement is a common mechanism of change across therapies. Emotion regulation encompasses all the processes by which people influence which emotions they have, when they have them, and how they experience and express them. [[Cognitive Reappraisal]] — changing the appraisal of an emotional stimulus to alter its emotional impact — is among the most extensively studied strategies and is explicitly theorized in [[Appraisal-Theory]]: if the appraisal of an event determines its emotional significance, then changing the appraisal changes the emotion. Acceptance and mindfulness-based strategies work through a different mechanism: rather than changing the appraisal, they change the relationship to the emotion — reducing the secondary suffering caused by resisting, amplifying, or catastrophizing about primary emotional experience.
+[[Emotion Regulation|Emotion regulation]] is increasingly recognized as a transdiagnostic mechanism — a capacity whose disruption underlies a wide range of disorders and whose improvement is a common mechanism of change across therapies. Emotion regulation encompasses all the processes by which people influence which emotions they have, when they have them, and how they experience and express them. [[Cognitive-Reappraisal|Cognitive Reappraisal]] — changing the appraisal of an emotional stimulus to alter its emotional impact — is among the most extensively studied strategies and is explicitly theorized in [[Appraisal-Theory]]: if the appraisal of an event determines its emotional significance, then changing the appraisal changes the emotion. Acceptance and mindfulness-based strategies work through a different mechanism: rather than changing the appraisal, they change the relationship to the emotion — reducing the secondary suffering caused by resisting, amplifying, or catastrophizing about primary emotional experience.
 
 > [!ask-yourself-this] **Testing Mechanistic Understanding**
 > Before continuing: can you articulate, in your own words, why a cognitive-behavioral therapist and an ACT therapist would intervene differently on the same clinical presentation — say, a person with catastrophic thoughts about health? What is the mechanism each targets, and what does each leave untouched? The ability to answer this question with precision is a good test of whether your understanding of the theoretical landscape is genuinely mechanistic.
@@ -454,7 +454,7 @@ When the major traditions of clinical psychology are viewed together rather than
 
 The second deep theme is the centrality of relationship. Every major therapeutic tradition — however different its theory of mechanism — has come to assign primacy to the quality of the therapeutic relationship, not merely as a vehicle for delivering other interventions but as itself a principal mechanism of change. This convergence is striking and may reflect something fundamental about the relational nature of psychological development and healing: the structures that were formed in relationship (early attachment, schemas of self and other) are best modified through the experience of a different kind of relationship.
 
-The third deep theme is the role of avoidance in maintaining disorder. Across diagnoses and theoretical frameworks, avoidance — behavioral, cognitive, and emotional — appears as a core process that maintains and amplifies distress. The person who avoids feared situations maintains anxiety by preventing the corrective learning that exposure would provide. The person who avoids painful emotions through suppression, substance use, or rumination prevents the processing and integration that emotional experience requires. The person who avoids awareness of maladaptive schemas through defensive distortion prevents the insight that would make change possible. The common therapeutic move — across exposure therapy, [[Cognitive Reappraisal|cognitive restructuring]], ACT, and psychodynamic interpretation — is to create the conditions in which avoidance is reduced and direct engagement with difficult experience becomes possible.
+The third deep theme is the role of avoidance in maintaining disorder. Across diagnoses and theoretical frameworks, avoidance — behavioral, cognitive, and emotional — appears as a core process that maintains and amplifies distress. The person who avoids feared situations maintains anxiety by preventing the corrective learning that exposure would provide. The person who avoids painful emotions through suppression, substance use, or rumination prevents the processing and integration that emotional experience requires. The person who avoids awareness of maladaptive schemas through defensive distortion prevents the insight that would make change possible. The common therapeutic move — across exposure therapy, [[Cognitive-Reappraisal|cognitive restructuring]], ACT, and psychodynamic interpretation — is to create the conditions in which avoidance is reduced and direct engagement with difficult experience becomes possible.
 
 > [!key-insight] **Avoidance as the Transdiagnostic Maintenance Mechanism**
 > The convergence across theoretical traditions on avoidance as a core pathological process is one of the most theoretically important findings in contemporary clinical psychology. It suggests that beneath the surface diversity of diagnostic categories and symptom presentations, a common functional process — the systematic avoidance of psychological experience — generates and maintains suffering across conditions as diverse as depression, anxiety, substance use, and personality disorder. This transdiagnostic view has practical implications: it argues for treatment models (like unified protocol approaches) that target avoidance directly rather than disorder-specific symptom presentations.
@@ -464,11 +464,11 @@ The third deep theme is the role of avoidance in maintaining disorder. Across di
 >
 > This report on Clinical Psychology connects to existing knowledge in your PKB in the following substantive ways:
 >
-> - **[[Schema Theory]]** — Beck's cognitive schemas (core beliefs, intermediate beliefs, automatic thoughts) are a direct application of schema theory to self-referential knowledge. The same features that make scientific schemas resistant to disconfirmation — they are implicit, self-confirming, and emotionally invested — make clinical schemas resistant to change. Understanding schema theory illuminates why cognitive-behavioral therapy must do more than simply present contradictory evidence.
+> - **[[Schema-Theory|Schema Theory]]** — Beck's cognitive schemas (core beliefs, intermediate beliefs, automatic thoughts) are a direct application of schema theory to self-referential knowledge. The same features that make scientific schemas resistant to disconfirmation — they are implicit, self-confirming, and emotionally invested — make clinical schemas resistant to change. Understanding schema theory illuminates why cognitive-behavioral therapy must do more than simply present contradictory evidence.
 >
 > - **[[Conceptual-Change-Theory]]** — Therapeutic cognitive change is a form of conceptual change applied to the self-concept and world-model. The Vosniadou/Chi framework for understanding resistance to conceptual revision maps precisely onto the resistance to therapeutic change: entrenched beliefs form a coherent framework that generates confirmatory experience, require intelligible and plausible alternatives, and necessitate active engagement with disconfirmatory evidence. Every conceptual change principle you've studied has a direct clinical analogue.
 >
-> - **[[Self-Determination Theory]]** — Rogers's humanistic framework anticipates SDT's core claims about autonomy, authentic motivation, and the conditions necessary for psychological integration. DBT's dialectical model of acceptance *and* change maps onto SDT's integration of autonomous motivation *and* adaptive self-regulation. Motivational Interviewing — one of the most widely used clinical approaches — is SDT's therapeutic application: creating autonomy-supportive conditions that facilitate intrinsic motivation for change.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — Rogers's humanistic framework anticipates SDT's core claims about autonomy, authentic motivation, and the conditions necessary for psychological integration. DBT's dialectical model of acceptance *and* change maps onto SDT's integration of autonomous motivation *and* adaptive self-regulation. Motivational Interviewing — one of the most widely used clinical approaches — is SDT's therapeutic application: creating autonomy-supportive conditions that facilitate intrinsic motivation for change.
 >
 > - **[[Appraisal-Theory]]** — Cognitive restructuring in CBT is a technology of appraisal modification. The Lazarus-Folkman stress-appraisal model — in which the same stressor produces different emotions depending on whether it is appraised as a threat, challenge, or irrelevance — is the theoretical foundation for interventions that target the appraisal itself rather than the external situation. Your existing understanding of appraisal theory gives you a cognitive science basis for understanding why cognitive restructuring works when it does.
 >
@@ -556,7 +556,7 @@ The third deep theme is the role of avoidance in maintaining disorder. Across di
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Cognitive-Behavioral Therapy]]
+> > [!topic-idea] [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 > > A dedicated Foundational Report on CBT would provide comprehensive treatment of Beck's full cognitive model (including schema modes and schema therapy extensions), the range of CBT applications across different disorders (depression, anxiety, OCD, PTSD, eating disorders), the specific intervention techniques (Socratic questioning, behavioral experiments, thought records, imagery rescripting), and the evidence base supporting each application. It would also address recent developments including compassion-focused CBT (Gilbert) and the integration of third-wave acceptance-based elements into traditional CBT frameworks. This is the highest-priority expansion given CBT's centrality to contemporary clinical practice and evidence-based training.
 >
 > > [!topic-idea] [[Therapeutic Alliance]]
@@ -565,13 +565,13 @@ The third deep theme is the role of avoidance in maintaining disorder. Across di
 > > [!topic-idea] [[Psychopathology]]
 > > A foundational report on psychopathology would provide the missing diagnostic and nosological counterpart to this therapy-focused report. It would trace the development of the DSM from its first edition to DSM-5, examine the scientific validity debate (categorical vs. dimensional models), introduce the HiTOP hierarchical model and the RDoC framework as alternatives, and review the etiological models for major conditions (depression, anxiety, psychosis, personality disorder) across biological, psychological, and social levels. Essential for understanding the full clinical cycle from assessment and diagnosis through treatment.
 >
-> > [!topic-idea] [[Acceptance and Commitment Therapy]]
+> > [!topic-idea] [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 > > ACT warrants its own foundational report given its distinctive philosophical grounding in functional contextualism, its theoretical basis in Relational Frame Theory (a behavioral account of language and cognition), and the specificity of its six-process model. A dedicated report would also examine the empirical evidence base, the clinical application of ACT's experiential exercises and metaphors, and the theoretical relationship between ACT and other third-wave approaches. The connections to SDT, intrinsic motivation, and values-based action make ACT particularly relevant to your PKB's existing conceptual architecture.
 >
 > > [!topic-idea] [[Emotion Regulation]]
 > > This report would build a comprehensive architecture of emotion regulation — drawing on Gross's process model (distinguishing antecedent-focused strategies like cognitive reappraisal from response-focused strategies like expressive suppression), Linehan's biosocial theory of emotion dysregulation, and Gratz and Roemer's multidimensional model (awareness, acceptance, access to strategies, and impulse control). It would examine neural mechanisms, developmental trajectories, and clinical applications across the full range of emotional disorders. Critically, it bridges your existing work on appraisal theory and metacognition with the clinical applications of emotion regulation training.
 >
-> > [!topic-idea] [[Attachment Theory]]
+> > [!topic-idea] [[Attachment-Theory|Attachment Theory]]
 > > Bowlby's attachment theory is arguably the most empirically productive framework in developmental and clinical psychology, generating research from infant-caregiver observations through adult romantic relationships to the mechanisms of psychotherapy. A foundational report would cover the ethological origins of attachment theory, Ainsworth's Strange Situation paradigm and attachment classification system (secure, anxious, avoidant, disorganized), Main's Adult Attachment Interview and the transmission gap, and the clinical implications for understanding personality disorder, relationship dysfunction, and therapeutic process. Connects fundamentally to the relational and psychodynamic emphases of this report.
 >
 > > [!topic-idea] [[Common Factors Theory]]

@@ -129,11 +129,11 @@ prerequisites:
   - "[[Philosophy of Knowledge]]"
 
 related:
-  - "[[Critical Thinking Frameworks]]"
+  - "[[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]"
   - "[[Problem-Solving in Education]]"
-  - "[[Metacognition and Self-Regulated Learning]]"
+  - "[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Scientific Method]]"
+  - "[[Scientific-Method|Scientific Method]]"
   - "[[Epistemic-Cognition|Epistemic Cognition]]"
   - "[[Socratic Method in Teaching]]"
 
@@ -149,13 +149,13 @@ narrower:
   - "[[Analogical-Reasoning|Analogical Reasoning]]"
 
 see-also:
-  - "[[Argument Analysis]]"
-  - "[[Bloom's Taxonomy]]"
+  - "[[Argument-Analysis|Argument Analysis]]"
+  - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
   - "[[Inquiry-Based-Learning|Inquiry-Based Learning]]"
   - "[[Socratic Seminars]]"
 
 contrasts-with:
-  - "[[Rote Memorization]]"
+  - "[[Rote-memorization|Rote Memorization]]"
   - "[[Algorithmic Thinking]]"
 
 applied-in:
@@ -170,7 +170,7 @@ applied-in:
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Basic Logic and Argumentation]]"
-  - "[[Cognitive Development Theory]]"
+  - "[[Cognitive-Development-Theory|Cognitive Development Theory]]"
 
 enables:
   - "[[Advanced Critical Thinking Pedagogy]]"
@@ -242,7 +242,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
 generation-date: "2026-03-05"
 ---
 
@@ -262,7 +262,7 @@ This report establishes the conceptual and empirical bedrock of these three reas
 
 This report covers the three classical modes of inference — deduction, induction, and abduction — with particular attention to how each manifests in educational and learning contexts. It examines the theoretical traditions that gave rise to these categories, the cognitive mechanisms through which they operate, their pedagogical applications, and their known limitations. The treatment is broad rather than exhaustive: each of the three modes contains extensive sub-literatures (on syllogistic reasoning, statistical inference, scientific method, diagnostic reasoning, and so on) that merit dedicated reports of their own, several of which are proposed in Phase VII.
 
-This report does not claim that the three-type taxonomy is the only or the best way to carve up the space of human reasoning. It is, however, the most pedagogically useful starting point, and the one that has most influenced educational practice and [[Philosophy of Science|philosophy of science]].
+This report does not claim that the three-type taxonomy is the only or the best way to carve up the space of human reasoning. It is, however, the most pedagogically useful starting point, and the one that has most influenced educational practice and [[philosophy-of-science|philosophy of science]].
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
@@ -279,9 +279,9 @@ Understanding the types of reasoning is not merely an academic exercise in class
 
 The systematic study of reasoning begins with [[Aristotle]], whose *Prior Analytics* (c. 350 BCE) introduced formal logic and the [[Syllogism|syllogism]] — the archetypal form of deductive argument. For nearly two thousand years, Western intellectual tradition treated deduction as the paradigmatic form of reasoning, the gold standard against which all other inference was measured.
 
-The picture began to change with the empiricist philosophers of the early modern period, particularly [[Francis Bacon]] and [[David Hume]]. Bacon's *Novum Organum* (1620) argued that scientific knowledge must be built from particular observations upward to general laws — a program that privileged inductive inference. Hume, writing a century later, delivered the most devastating epistemological critique of induction ever formulated: no number of observed cases, however large, logically guarantees the truth of any general conclusion, because the next case might always be different. This is the [[Problem of Induction]], and it remains philosophically unresolved to this day.
+The picture began to change with the empiricist philosophers of the early modern period, particularly [[Francis-Bacon|Francis Bacon]] and [[David-Hume|David Hume]]. Bacon's *Novum Organum* (1620) argued that scientific knowledge must be built from particular observations upward to general laws — a program that privileged inductive inference. Hume, writing a century later, delivered the most devastating epistemological critique of induction ever formulated: no number of observed cases, however large, logically guarantees the truth of any general conclusion, because the next case might always be different. This is the [[Problem of Induction]], and it remains philosophically unresolved to this day.
 
-The third type — abductive reasoning — was named and theorized by the American philosopher and logician [[Charles Sanders Peirce]] in the late nineteenth century. Peirce recognized that scientific inquiry does not proceed purely by deduction from established principles or by induction from observations. It also proceeds by what he called *hypothesis*: the creative inference to the best available explanation of a puzzling phenomenon. Peirce's insight was radical: abduction is the only mode of reasoning that genuinely introduces new ideas into inquiry, making it the logical engine of discovery.
+The third type — abductive reasoning — was named and theorized by the American philosopher and logician [[Charles-Sanders-Peirce|Charles Sanders Peirce]] in the late nineteenth century. Peirce recognized that scientific inquiry does not proceed purely by deduction from established principles or by induction from observations. It also proceeds by what he called *hypothesis*: the creative inference to the best available explanation of a puzzling phenomenon. Peirce's insight was radical: abduction is the only mode of reasoning that genuinely introduces new ideas into inquiry, making it the logical engine of discovery.
 
 ### Core Definitions
 
@@ -292,13 +292,13 @@ The third type — abductive reasoning — was named and theorized by the Americ
 > Inductive reasoning is a form of inference in which specific observations serve as evidence for general conclusions. Unlike deduction, inductive conclusions are not guaranteed by their premises — they are *probable* given the evidence, but always defeasible (capable of being overturned by new evidence). The classic form is generalization from sample to population: "Every swan I have ever observed has been white; therefore, all swans are white." (The discovery of black swans in Australia famously falsified this conclusion.) Induction is truth-amplifying: it generates claims that go beyond the evidence, which is both its power and its epistemic vulnerability.
 
 > [!definition] **Abductive Reasoning**
-> Abductive reasoning is a form of inference that moves from an observation — often surprising or puzzling — to the hypothesis that would best explain it, if true. It is sometimes called *inference to the best explanation*. The paradigmatic form is: "I observe footprints in the snow; a human passing by would explain these footprints; therefore, a human probably passed by." Abduction does not guarantee its conclusions, and it requires an evaluative judgment about which explanation is "best." It is the reasoning mode most closely associated with creativity, diagnosis, scientific hypothesis formation, and detective work. The term was coined by [[Charles Sanders Peirce|Peirce]], who distinguished it sharply from both deduction and induction.
+> Abductive reasoning is a form of inference that moves from an observation — often surprising or puzzling — to the hypothesis that would best explain it, if true. It is sometimes called *inference to the best explanation*. The paradigmatic form is: "I observe footprints in the snow; a human passing by would explain these footprints; therefore, a human probably passed by." Abduction does not guarantee its conclusions, and it requires an evaluative judgment about which explanation is "best." It is the reasoning mode most closely associated with creativity, diagnosis, scientific hypothesis formation, and detective work. The term was coined by [[Charles-Sanders-Peirce|Peirce]], who distinguished it sharply from both deduction and induction.
 
 > [!definition] **Critical Thinking**
 > Critical thinking is the disciplined, reflective evaluation of beliefs and arguments based on evidence, logic, and intellectual standards. It involves both the capacity to reason well (using deductive, inductive, and abductive modes appropriately) and the disposition to do so — including intellectual humility, open-mindedness, and willingness to revise beliefs in light of new evidence. [[Critical-Thinking|Critical Thinking]] is not a single reasoning type but a meta-competence that orchestrates all three types in service of justified belief formation.
 
 > [!definition] **Metacognition**
-> Metacognition, theorized most influentially by [[John Flavell]] (1979), refers to cognition about cognition — the capacity to think about, monitor, and regulate one's own thinking processes. In the context of reasoning, metacognition enables learners to notice when they are using deductive versus inductive versus abductive inference, to evaluate whether the chosen mode is appropriate for the task, and to correct errors in their reasoning process. Metacognitive capacity is strongly predictive of learning outcomes across domains.
+> Metacognition, theorized most influentially by [[John-Flavell|John Flavell]] (1979), refers to cognition about cognition — the capacity to think about, monitor, and regulate one's own thinking processes. In the context of reasoning, metacognition enables learners to notice when they are using deductive versus inductive versus abductive inference, to evaluate whether the chosen mode is appropriate for the task, and to correct errors in their reasoning process. Metacognitive capacity is strongly predictive of learning outcomes across domains.
 
 > [!definition] **Transfer of Learning**
 > Transfer of learning refers to the application of knowledge or skills acquired in one context to a new and different context. It is particularly relevant to reasoning because one of the central debates in [[Educational-Psychology|Educational Psychology]] concerns whether reasoning skills transfer: can training in deductive reasoning in a logic class improve reasoning in history or science? The evidence, as we will see, is more qualified than optimists once hoped.
@@ -327,7 +327,7 @@ The most systematic theoretical account of the three reasoning types as a unifie
 
 ### The Cognitive Science Perspective: Dual Process Theory
 
-[[Dual-Process-Theory|Dual Process Theory]], developed across the work of [[Keith Stanovich]], [[Richard West]], [[Daniel Kahneman]], and others, proposes that human cognition involves two qualitatively different systems. **System 1** is fast, automatic, intuitive, and largely unconscious — the cognitive substrate of what we call "gut feelings" and quick pattern recognition. **System 2** is slow, deliberate, effortful, and rule-governed — the system engaged when we carefully work through a logic problem or evaluate a statistical argument.
+[[Dual-Process-Theory|Dual Process Theory]], developed across the work of [[Keith-Stanovich|Keith Stanovich]], [[Richard-West|Richard West]], [[Daniel-Kahneman|Daniel Kahneman]], and others, proposes that human cognition involves two qualitatively different systems. **System 1** is fast, automatic, intuitive, and largely unconscious — the cognitive substrate of what we call "gut feelings" and quick pattern recognition. **System 2** is slow, deliberate, effortful, and rule-governed — the system engaged when we carefully work through a logic problem or evaluate a statistical argument.
 
 This framework maps imperfectly but usefully onto the reasoning typology: deductive reasoning, in its full formal rigor, is paradigmatically a System 2 activity; the rapid pattern recognition that underlies everyday induction is often System 1; and abductive inference, depending on its sophistication, involves a complex interplay between both systems — an initial intuitive leap (System 1) refined through deliberate evaluation (System 2).
 
@@ -338,7 +338,7 @@ This framework maps imperfectly but usefully onto the reasoning typology: deduct
 
 [[Deanna Kuhn]]'s longitudinal research on argumentative reasoning in children and adolescents reveals that the capacity for explicit, reflective reasoning — particularly the ability to distinguish evidence from theory and to evaluate the logical support evidence provides for conclusions — develops slowly and unevenly through adolescence and even into adulthood. Many adults, Kuhn found, struggle to maintain a clear separation between what they observe and what they infer.
 
-[[Jean Piaget]]'s earlier developmental framework proposed that formal-operational reasoning — roughly, the capacity for systematic hypothetico-deductive thinking — emerges in adolescence. Subsequent research has substantially complicated this picture: the emergence of formal reasoning is far more domain-specific, context-sensitive, and culturally shaped than Piaget envisioned. Children as young as three can engage in proto-abductive inference (reasoning about unobserved causes), while many adults fail formal deductive tasks.
+[[Jean-Piaget|Jean Piaget]]'s earlier developmental framework proposed that formal-operational reasoning — roughly, the capacity for systematic hypothetico-deductive thinking — emerges in adolescence. Subsequent research has substantially complicated this picture: the emergence of formal reasoning is far more domain-specific, context-sensitive, and culturally shaped than Piaget envisioned. Children as young as three can engage in proto-abductive inference (reasoning about unobserved causes), while many adults fail formal deductive tasks.
 
 > [!counter-argument] **The Domain-Specificity Challenge**
 > A powerful challenge to any unified theory of reasoning development comes from research demonstrating that reasoning performance is highly domain-specific. An expert scientist who reasons impeccably within her domain may show naive inductive fallacies in unfamiliar domains. This suggests that what develops is not domain-general reasoning capacity but domain-specific reasoning schemas — a finding that complicates the educational project of "teaching reasoning" as a transferable skill.
@@ -377,7 +377,7 @@ Inductive reasoning operates through pattern recognition and generalization. The
 The mechanism has several identifiable components. First, **sampling**: the learner selects or attends to a subset of possible instances. The representativeness of this sample powerfully shapes the validity of the resulting generalization. Second, **pattern recognition**: the learner identifies shared features or regularities across instances. Third, **generalization**: the learner formulates a claim that goes beyond the observed instances to cover unobserved ones. Fourth — critically — **tentative commitment**: the learner holds the resulting generalization as provisional, subject to revision upon encountering counterexamples.
 
 > [!key-insight] **The Fragility of Inductive Generalizations**
-> The mechanism of induction contains a structural vulnerability: the generalization can never be confirmed by any finite number of instances, but it can be refuted by a single counterexample. This asymmetry — easily falsified, never fully verified — is the logical foundation of [[Karl Popper|Popper's]] falsificationist philosophy of science. For educators, the practical implication is that teaching learners to seek counterexamples is as important as teaching them to seek confirming instances.
+> The mechanism of induction contains a structural vulnerability: the generalization can never be confirmed by any finite number of instances, but it can be refuted by a single counterexample. This asymmetry — easily falsified, never fully verified — is the logical foundation of [[Karl-Popper|Popper's]] falsificationist philosophy of science. For educators, the practical implication is that teaching learners to seek counterexamples is as important as teaching them to seek confirming instances.
 
 > [!ask-yourself-this] **Testing Your Inductive Intuitions**
 > Consider a child who has encountered twenty dogs of various breeds, all of which were friendly. She concludes that "all dogs are friendly." What has gone wrong with her inductive inference? Specifically: what would a better-calibrated inductive reasoner do differently? Consider the role of sample size, sample diversity, and the child's prior knowledge about the variability of animal temperament.
@@ -410,7 +410,7 @@ The role of background knowledge in abduction is decisive and irreducible: a lea
 Instructional practices that emphasize deductive reasoning typically involve a "direct instruction" or "rule-then-example" sequence: the teacher presents a general principle or rule, then students practice applying it to specific cases. This approach is efficient when the goal is mastery of an established body of knowledge, and it is well-suited to domains like mathematics, formal grammar, and classical logic where the deductive structure of the subject matter is explicit.
 
 > [!best-practice] **Deductive Instruction: When and How**
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive-Load-Theory|Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner,-Sweller-&-Clark|Kirschner, Sweller & Clark]] (2006) on [[Cognitive-Load-Theory|Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
 
 However, a curriculum that is exclusively deductive risks producing learners who can apply known rules but are helpless when the rules run out — when they face genuinely novel problems where no established principle applies directly. The deductive mode, taken in isolation, is ultimately a tool for applying inherited knowledge, not for generating new knowledge.
 
@@ -418,7 +418,7 @@ However, a curriculum that is exclusively deductive risks producing learners who
 
 Inquiry-based and discovery-learning approaches — from [[Inquiry-Based-Learning|IBL]] in science education to [[Project-Based Learning|PBL]] in interdisciplinary contexts — make inductive reasoning central. Students are given phenomena, data sets, or cases and asked to derive patterns and principles themselves, rather than receiving rules from above and applying them downward.
 
-The research support for inquiry-based approaches is substantial but nuanced. [[John Hattie]]'s meta-analysis of educational interventions (*Visible Learning*, 2009) found that inductive approaches like problem-based learning show moderate effect sizes when implemented with adequate scaffolding, but can produce worse outcomes than direct instruction when scaffolding is absent — a finding consistent with [[Cognitive-Load-Theory|Cognitive Load Theory]], which predicts that unsupported discovery overloads the limited working memory of novices.
+The research support for inquiry-based approaches is substantial but nuanced. [[John-Hattie|John Hattie]]'s meta-analysis of educational interventions (*Visible Learning*, 2009) found that inductive approaches like problem-based learning show moderate effect sizes when implemented with adequate scaffolding, but can produce worse outcomes than direct instruction when scaffolding is absent — a finding consistent with [[Cognitive-Load-Theory|Cognitive Load Theory]], which predicts that unsupported discovery overloads the limited working memory of novices.
 
 > [!best-practice] **Scaffolded Inductive Learning**
 > The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
@@ -460,7 +460,7 @@ The three-type taxonomy, for all its utility, carries real limitations that hone
 
 What becomes visible when all three reasoning modes are considered together is a dynamic and complementary system — not a hierarchy with deduction at the apex, but an ecology in which each mode performs functions the others cannot. Abduction drives inquiry forward by generating hypotheses from puzzling observations. Induction tests those hypotheses against the accumulating evidence of experience, calibrating confidence through repeated encounter with confirming and disconfirming cases. Deduction systematizes the knowledge so gained, working out its implications with logical precision and extending it to new specific cases.
 
-This is, in essence, [[Charles Sanders Peirce|Peirce's]] vision of the scientific method at the level of individual cognition — and it maps with surprising fidelity onto what sophisticated learners actually do when they engage deeply with difficult material. The student who truly understands a domain moves fluidly between these modes: she deduces consequences from established principles, induces patterns from experience, and abduces explanations when faced with anomalies. The student who is locked into any single mode is cognitively constrained.
+This is, in essence, [[Charles-Sanders-Peirce|Peirce's]] vision of the scientific method at the level of individual cognition — and it maps with surprising fidelity onto what sophisticated learners actually do when they engage deeply with difficult material. The student who truly understands a domain moves fluidly between these modes: she deduces consequences from established principles, induces patterns from experience, and abduces explanations when faced with anomalies. The student who is locked into any single mode is cognitively constrained.
 
 ### The "So What?" for Educators
 
@@ -480,15 +480,15 @@ Several genuinely open questions remain at the intersection of reasoning theory 
 >
 > This report on reasoning types and learning connects to multiple nodes across the knowledge base:
 >
-> - **[[Metacognition and Self-Regulated Learning]]** — The capacity to choose and monitor reasoning modes is itself a metacognitive skill. The connection runs deep: training metacognition is largely training learners to be aware of their own inferential moves, to recognize when they are generalizing (inductively), deducing, or hypothesizing (abductively). This report provides the object-level content; the metacognition node provides the regulatory framework that orchestrates it.
+> - **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]** — The capacity to choose and monitor reasoning modes is itself a metacognitive skill. The connection runs deep: training metacognition is largely training learners to be aware of their own inferential moves, to recognize when they are generalizing (inductively), deducing, or hypothesizing (abductively). This report provides the object-level content; the metacognition node provides the regulatory framework that orchestrates it.
 >
 > - **[[Dual-Process-Theory|Dual Process Theory]]** — System 1 and System 2 processing map imperfectly but usefully onto the three reasoning modes. The deduction-induction-abduction triad operates at the level of inference type; the dual-process distinction operates at the level of cognitive effort and automaticity. Understanding both frameworks together illuminates why good reasoning is effortful and why learners default to heuristic shortcuts even when deliberate inference is required.
 >
 > - **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL pedagogies are, in essence, pedagogies of inductive and abductive reasoning. This report provides the theoretical foundation for understanding why IBL works when it works (it engages the generative and discovery-oriented modes of inference) and why it sometimes fails (unscaffolded induction overloads working memory; unsupported abduction produces poorly-calibrated hypotheses). The two nodes together constitute a complete account of discovery-based pedagogy.
 >
-> - **[[Critical Thinking Frameworks]]** — Critical thinking, as a meta-competency, presupposes fluency in the three reasoning modes. The critical-thinking literature is largely the literature of reasoning well — evaluating argument validity (deductive), assessing evidence quality (inductive), and evaluating explanatory hypotheses (abductive). This report establishes the component skills; the critical thinking node integrates them into a normative framework.
+> - **[[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]** — Critical thinking, as a meta-competency, presupposes fluency in the three reasoning modes. The critical-thinking literature is largely the literature of reasoning well — evaluating argument validity (deductive), assessing evidence quality (inductive), and evaluating explanatory hypotheses (abductive). This report establishes the component skills; the critical thinking node integrates them into a normative framework.
 >
-> - **[[Scientific Method]]** — The hypothetico-deductive model of scientific inquiry instantiates all three reasoning modes in a structured sequence: abduction (hypothesis generation) → deduction (prediction derivation) → induction (empirical testing). This report makes that structure conceptually explicit, providing a theoretical lens through which the scientific method can be understood and taught more deeply.
+> - **[[Scientific-Method|Scientific Method]]** — The hypothetico-deductive model of scientific inquiry instantiates all three reasoning modes in a structured sequence: abduction (hypothesis generation) → deduction (prediction derivation) → induction (empirical testing). This report makes that structure conceptually explicit, providing a theoretical lens through which the scientific method can be understood and taught more deeply.
 >
 > The pattern that emerges from these connections is significant: reasoning types are not a standalone topic but the conceptual infrastructure underlying most of the major frameworks in educational psychology and philosophy of mind. Developing this node strengthens connections across the PKB's entire cognitive-science cluster.
 
@@ -510,7 +510,7 @@ Several genuinely open questions remain at the intersection of reasoning theory 
 > An inference form that moves from specific observations to general conclusions. Conclusions are probabilistic — always defeasible by new counterevidence — but amplify knowledge beyond the directly observed. Distinguished from deduction (necessary) and abduction (explanatory). The epistemic foundation of empirical science and practical experience-based learning.
 
 > [!definition] **Abductive Reasoning (Inference to the Best Explanation)**
-> An inference form that moves from a puzzling observation to the hypothesis that would best explain it. Coined by [[Charles Sanders Peirce]]. Requires generation of candidate explanations and evaluation against criteria of scope, parsimony, plausibility, and testability. The reasoning mode of scientific discovery, medical diagnosis, historical interpretation, and detective inference. Neither guaranteed (like deduction) nor merely probabilistic (like induction) — it is *evaluative* creative inference.
+> An inference form that moves from a puzzling observation to the hypothesis that would best explain it. Coined by [[Charles-Sanders-Peirce|Charles Sanders Peirce]]. Requires generation of candidate explanations and evaluation against criteria of scope, parsimony, plausibility, and testability. The reasoning mode of scientific discovery, medical diagnosis, historical interpretation, and detective inference. Neither guaranteed (like deduction) nor merely probabilistic (like induction) — it is *evaluative* creative inference.
 
 > [!definition] **Validity (Logical)**
 > A property of arguments, not propositions: an argument is valid if and only if the conclusion follows necessarily from the premises, regardless of whether the premises are actually true. A valid argument with true premises is called *sound*. Validity is the criterion of evaluation for deductive arguments; it has no direct analogue in inductive or abductive contexts.
@@ -519,10 +519,10 @@ Several genuinely open questions remain at the intersection of reasoning theory 
 > A learner's understanding of the nature, sources, and limits of knowledge — including beliefs about whether knowledge is certain or uncertain, simple or complex, and given by authority or constructed through inquiry. Epistemic cognition shapes the quality of a learner's reasoning: those who believe knowledge is certain and given tend to reason deductively from authority; those who recognize uncertainty are more open to inductive and abductive modes.
 
 > [!definition] **Cognitive Load Theory (CLT)**
-> A theory of instruction developed by [[John Sweller]] and colleagues that posits three types of cognitive load on working memory: intrinsic (complexity of material), extraneous (poorly designed instruction), and germane (effort devoted to schema formation). CLT provides the theoretical basis for understanding why unsupported inductive and abductive learning sometimes backfires with novice learners, and why expert learners benefit more from open-ended inquiry.
+> A theory of instruction developed by [[John-Sweller|John Sweller]] and colleagues that posits three types of cognitive load on working memory: intrinsic (complexity of material), extraneous (poorly designed instruction), and germane (effort devoted to schema formation). CLT provides the theoretical basis for understanding why unsupported inductive and abductive learning sometimes backfires with novice learners, and why expert learners benefit more from open-ended inquiry.
 
 > [!definition] **Confirmation Bias**
-> The well-documented tendency to seek, interpret, and recall information in ways that confirm one's preexisting beliefs or hypotheses. Represents a systematic distortion of inductive reasoning, because it biases sampling toward confirming instances and away from disconfirming counterexamples. Identified by [[Peter Wason]] in the 2-4-6 task (1960) and subsequently replicated extensively. A key target of critical thinking instruction.
+> The well-documented tendency to seek, interpret, and recall information in ways that confirm one's preexisting beliefs or hypotheses. Represents a systematic distortion of inductive reasoning, because it biases sampling toward confirming instances and away from disconfirming counterexamples. Identified by [[Peter-Wason|Peter Wason]] in the 2-4-6 task (1960) and subsequently replicated extensively. A key target of critical thinking instruction.
 
 > [!definition] **Defeasibility**
 > A property of inductive and abductive conclusions: a conclusion is defeasible if it can be overturned or revised by new evidence, even if the original reasoning was valid. Deductive conclusions within a valid argument are not defeasible (given true premises); inductive and abductive conclusions always are. Recognizing defeasibility is central to the intellectual virtue of holding beliefs with appropriate tentativeness.
@@ -588,4 +588,4 @@ Several genuinely open questions remain at the intersection of reasoning theory 
 
 ---
 
-*Report generated by [[Foundational Report Generator v1.0]] on 2026-03-05. This document is a permanent node in your Personal Knowledge Base. Review frequency: quarterly. Next scheduled review: 2026-06-05.*
+*Report generated by [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] on 2026-03-05. This document is a permanent node in your Personal Knowledge Base. Review frequency: quarterly. Next scheduled review: 2026-06-05.*

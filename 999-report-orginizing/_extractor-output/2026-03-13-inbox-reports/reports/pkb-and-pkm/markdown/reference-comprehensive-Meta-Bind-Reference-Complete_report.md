@@ -214,7 +214,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Projects Dashboard]]
 - [[Projects MOC]]
 - [[wikilink]]
@@ -223,8 +223,8 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Note Name]] | — | — | 12. Suggester (Autocomplete) | 392 |
-| 2 | [[Note Name]] | — | — | 4. Open Action | 826 |
+| 1 | [[Note-Name|Note Name]] | — | — | 12. Suggester (Autocomplete) | 392 |
+| 2 | [[Note-Name|Note Name]] | — | — | 4. Open Action | 826 |
 | 3 | [[wikilink]] | — | — | 4. Open Action | 840 |
 | 4 | [[Projects MOC]] | — | — | Multi-Action Buttons | 1122 |
 | 5 | [[Projects Dashboard]] | — | — | Multi-Action Buttons | 1157 |
@@ -1537,7 +1537,7 @@ VIEW[{total} - {spent}][math:remaining]
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Projects Dashboard]]
 - [[Projects MOC]]
 - [[wikilink]]

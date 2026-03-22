@@ -106,21 +106,21 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[[Mindfulness]]"
   - "[[Buddhism]]"
   - "[[Sati]]"
   - "[[Prosoche]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
   - "[[Jon Kabat-Zinn]]"
   - "[[Mindfulness-Based Stress Reduction]]"
   - "[[Impermanence]]"
-  - "[[Pierre Hadot]]"
+  - "[[Pierre-Hadot]]"
   - "[[Present Moment Awareness]]"
 
 series-connections:
@@ -136,7 +136,7 @@ broader:
   - "[[Philosophy MOC]]"
   - "[[Contemplative Traditions]]"
   - "[[Comparative Philosophy]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
 
 narrower:
   - "[[Prosoche]]"
@@ -148,9 +148,9 @@ narrower:
   - "[[MBSR Protocol]]"
 
 see-also:
-  - "[[Acceptance and Commitment Therapy]]"
+  - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Mindfulness-Based Cognitive Therapy]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Epictetan Three Disciplines]]"
   - "[[Buddhist Psychology]]"
   - "[[Hellenistic Philosophy and Indian Philosophy]]"
@@ -257,7 +257,7 @@ importance: high
 
 ## Part 1: Introducing the Comparison — Why These Two Frameworks?
 
-There is a passage in [[Marcus Aurelius]]'s *Meditations* that has arrested readers for centuries. Writing in the second century CE — to himself, in private, with no intention of publication — he instructs himself: "Confine yourself to the present." The Greek is brief and almost percussive: *kata to paron monon*. Just the present. Only now. This instruction appears not once but dozens of times in the *Meditations*, in variations that would seem monotonous if they did not reveal, by their repetition, how difficult the practice actually is. The emperor of the known world, commanding armies and governing provinces, spent his private hours reminding himself of the same elementary thing: be here.
+There is a passage in [[Marcus-Aurelius]]'s *Meditations* that has arrested readers for centuries. Writing in the second century CE — to himself, in private, with no intention of publication — he instructs himself: "Confine yourself to the present." The Greek is brief and almost percussive: *kata to paron monon*. Just the present. Only now. This instruction appears not once but dozens of times in the *Meditations*, in variations that would seem monotonous if they did not reveal, by their repetition, how difficult the practice actually is. The emperor of the known world, commanding armies and governing provinces, spent his private hours reminding himself of the same elementary thing: be here.
 
 [Present-Moment-Imperative-Stoic:: The Stoic injunction to attend to the present moment — exemplified in Marcus Aurelius's repeated self-instructions to "confine yourself to the present" — is not a counsel of passivity or disengagement but the recognition that the past is inaccessible and the future is uncertain, while the present is the only arena in which rational choice (*prohairesis*) can actually operate. To live in mental anticipation of the future or rumination about the past is to remove oneself from the only place where virtue can be exercised.]
 
@@ -281,7 +281,7 @@ The Stoics were deeply interested in the present moment — but their interest w
 
 The Stoic universe is a rational cosmos, permeated by [[Logos]] — the universal reason that governs all things. Human beings, uniquely among earthly creatures, participate in this rationality through their capacity for [[Prohairesis]] — the faculty of rational choice. This capacity is the most important thing about us, the seat of our dignity, the ground of our moral worth, and the only thing that is genuinely "ours" in the sense Epictetus meant: it cannot be removed by illness, defeat, enslavement, or death. Everything else — health, wealth, reputation, pleasure, the opinions of others — belongs to the category of [[Preferred Indifferents]]: things worth pursuing under normal circumstances, but neither necessary for nor constitutive of the good life.
 
-This framework is essential context for understanding Stoic present-moment practice. When [[Marcus Aurelius]] instructs himself to confine himself to the present, he is not articulating a general preference for present-mindedness. He is making a philosophically precise point: the future and the past are not in our power; only the present is the arena of *prohairesis*. To live mentally in the future — to anxiously anticipate outcomes, to rehearse feared possibilities as though catastrophic loss were inevitable — is to remove oneself from the only place where one can actually act virtuously. To live mentally in the past — to ruminate on old grievances, to replay defeats, to nurse wounds — is equally a flight from the only moment in which virtue can be exercised.
+This framework is essential context for understanding Stoic present-moment practice. When [[Marcus-Aurelius]] instructs himself to confine himself to the present, he is not articulating a general preference for present-mindedness. He is making a philosophically precise point: the future and the past are not in our power; only the present is the arena of *prohairesis*. To live mentally in the future — to anxiously anticipate outcomes, to rehearse feared possibilities as though catastrophic loss were inevitable — is to remove oneself from the only place where one can actually act virtuously. To live mentally in the past — to ruminate on old grievances, to replay defeats, to nurse wounds — is equally a flight from the only moment in which virtue can be exercised.
 
 > [!quote]
 > "Confine yourself to the present. Understand that what happens to one person can happen to every person. And don't be astonished at it."
@@ -422,7 +422,7 @@ Buddhist mindfulness, particularly in its *vipassana* form, operates through a d
 
 ### Divergence 3: Teleology — Cosmic Rationalism versus Liberation from Suffering
 
-The Stoics inhabited a teleological cosmos: the universe is governed by divine [[Logos]], and everything that happens is, ultimately, rationally ordered. The apparent evils of human experience — illness, loss, death — are part of a rational providential order that the wise person affirms rather than resists. [[Marcus Aurelius]] returns repeatedly to this *amor fati* — the love of fate — as the culminating Stoic disposition. The practitioner who has truly internalized Stoic philosophy does not merely accept what happens; they affirm it as part of a rational whole.
+The Stoics inhabited a teleological cosmos: the universe is governed by divine [[Logos]], and everything that happens is, ultimately, rationally ordered. The apparent evils of human experience — illness, loss, death — are part of a rational providential order that the wise person affirms rather than resists. [[Marcus-Aurelius]] returns repeatedly to this *amor fati* — the love of fate — as the culminating Stoic disposition. The practitioner who has truly internalized Stoic philosophy does not merely accept what happens; they affirm it as part of a rational whole.
 
 [Stoic-Providential-Cosmos:: The Stoic cosmological commitment to a providential universe — governed by rational *logos*, ordered for the good of the whole — is not merely a theological add-on but integral to the Stoic psychological program. It grounds the disposition of *amor fati* (love of fate): the insight that everything that happens is, at the level of the whole, as it should be. This removes the deep-seated resistance that produces suffering not merely about what is happening but about the fact that it is happening at all. For the Stoics, genuine equanimity requires not just accepting events but affirming them as expressions of rational cosmic order — a much more demanding disposition than mere acceptance.]
 
@@ -436,7 +436,7 @@ Buddhism works from a very different cosmological premise. The universe is not a
 
 ### Divergence 4: Ethics and the Good Life
 
-The Stoics were, first and last, ethicists. The entire Stoic system — physics, logic, and ethics — was organized around the central question of how to live a good human life. [[Virtue Ethics]] was not a component of Stoicism; it was its point. The four cardinal virtues — wisdom (*sophia*), justice (*dikaiosynē*), courage (*andreia*), and temperance (*sōphrosynē*) — were both the means and the substance of [[Eudaimonia]] (flourishing). Present-moment attention, in the Stoic framework, is always already ethically freighted: to attend well to the present is to attend to the field in which virtue is exercised.
+The Stoics were, first and last, ethicists. The entire Stoic system — physics, logic, and ethics — was organized around the central question of how to live a good human life. [[Virtue-Ethics]] was not a component of Stoicism; it was its point. The four cardinal virtues — wisdom (*sophia*), justice (*dikaiosynē*), courage (*andreia*), and temperance (*sōphrosynē*) — were both the means and the substance of [[Eudaimonia]] (flourishing). Present-moment attention, in the Stoic framework, is always already ethically freighted: to attend well to the present is to attend to the field in which virtue is exercised.
 
 Buddhism's primary concern is with liberation from suffering, and its ethics (the precepts, the eightfold path) are structured as conditions for successful meditation and for living in a community (*sangha*) that supports practice. Virtue in Buddhism is instrumentally related to liberation, not constitutive of the ultimate good in the way Stoic virtue is.
 
@@ -456,14 +456,14 @@ Having mapped both the convergences and the divergences with appropriate care, w
 
 The integration begins with a recognition of what each tradition does particularly well. Stoicism is extraordinarily strong at the level of *why* — why one is engaging in contemplative practice, what it is in service of, what vision of human flourishing grounds the effort. The Stoic philosophical framework answers the question that mindfulness, particularly in its secular MBSR form, sometimes leaves implicit: what is all this attention *for*? Stoicism says: it is for the cultivation of virtue, for the exercise of rational choice, for a life lived in accordance with one's deepest nature as a rational being embedded in a community of rational beings. This is a rich, motivating answer that sustains practice through difficulty and integrates it into an account of the whole of life.
 
-Mindfulness, in turn, is extraordinarily strong at the level of *how* — specifically, at the level of attentional technique, phenomenological description, and moment-to-moment practice. The mindfulness tradition has developed, over centuries of careful contemplative investigation and decades of empirical research, an extraordinarily refined body of attentional training techniques. The systematic cultivation of breath awareness, body scan, loving-kindness meditation, and walking meditation provides a level of technical specification for the training of attention that the Stoic tradition, for all its richness, does not fully develop. When [[Pierre Hadot]] describes *prosoche* as the core Stoic practice, he offers a beautiful account of what the practice is for — but not the same granular instruction in technique that an experienced MBSR teacher can provide.
+Mindfulness, in turn, is extraordinarily strong at the level of *how* — specifically, at the level of attentional technique, phenomenological description, and moment-to-moment practice. The mindfulness tradition has developed, over centuries of careful contemplative investigation and decades of empirical research, an extraordinarily refined body of attentional training techniques. The systematic cultivation of breath awareness, body scan, loving-kindness meditation, and walking meditation provides a level of technical specification for the training of attention that the Stoic tradition, for all its richness, does not fully develop. When [[Pierre-Hadot]] describes *prosoche* as the core Stoic practice, he offers a beautiful account of what the practice is for — but not the same granular instruction in technique that an experienced MBSR teacher can provide.
 
 > [!key-insight]
 > **The Integration Insight**: Stoicism provides the *why* of contemplative practice with exceptional philosophical richness — grounding present-moment attention in a comprehensive account of value, virtue, and the good life. Mindfulness (both classical and modern) provides the *how* of attentional training with exceptional technical refinement. The practitioner who brings Stoic philosophical understanding to mindfulness practice has a motivational and ethical framework that MBSR alone does not supply. The practitioner who brings mindfulness technique to Stoic practice develops attentional capacities that enhance the Stoic exercises of prosoche and the Discipline of Assent. Together, they constitute a more complete contemplative system.
 
 At the practical level, the integration can be structured around three complementary functions:
 
-**Function 1 — Foundation (Stoic)**: The philosophical framework — the account of [[Dichotomy of Control]], the theory of value, the commitment to virtue and [[Eudaimonia]] — provides the motivational and ethical foundation within which all contemplative practice is embedded. The practitioner knows *why* they are sitting in meditation and what it is in service of.
+**Function 1 — Foundation (Stoic)**: The philosophical framework — the account of [[Dichotomy-of-Control]], the theory of value, the commitment to virtue and [[Eudaimonia]] — provides the motivational and ethical foundation within which all contemplative practice is embedded. The practitioner knows *why* they are sitting in meditation and what it is in service of.
 
 **Function 2 — Technique (Mindfulness)**: The specific attentional techniques developed in the mindfulness tradition — particularly breath awareness, body scan, and the formal meditation posture — provide more refined training in the quality of present-moment attention than the Stoic texts alone prescribe. The Stoic practitioner who incorporates even 15–20 minutes of formal mindfulness meditation daily is exercising and strengthening the *prosoche* that the Stoic tradition describes but does not train as systematically.
 

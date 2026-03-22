@@ -160,7 +160,7 @@ extraction_summary:
 >   	  - **[[Stock of Reflective Observations]]:** The accumulated body of reflections on experiences—analysis notes, pattern identifications, emotional responses documented, and comparative observations linking new experiences to previous ones. This stock grows as the learner engages in **[[Reflective-Observation|Reflective Observation]]**, creating notes that examine "what happened" and "what it means." In practice, these are often **[[Literature Notes]]**, **[[Reflection Prompts]]**, or **[[Comparative Analysis Notes]]**.
 >   	  - **[[Stock of Abstract Conceptualizations]]:** The accumulated theoretical frameworks, principles, models, and generalized understandings derived from reflections. This represents the **[[Permanent Notes]]** or **[[Atomic Concept Notes]]** in a **[[Zettelkasten]]** system—the distilled wisdom that transcends individual experiences. This is where experiential learning transforms into **[[Portable Knowledge]]** that can be applied across contexts.
 >   	  - **[[Stock of Experimental Results]]:** The accumulated evidence from testing conceptual frameworks in practice—documented outcomes of behavior changes, project results, failed experiments, and validated approaches. This stock includes **[[Success Patterns]]**, **[[Failure Post-Mortems]]**, and **[[Practice Logs]]** that close the learning loop by providing concrete feedback on whether abstractions work in reality.
->   	  - **[[Stock of Structural Knowledge]]:** The accumulated network of connections, **[[Maps-of-Content-—-MOCs|MOCs]]** (**[[Maps-of-Content-—-MOCs|Maps of Content]]**), tags, and links that create the **[[Knowledge Graph]]**. This meta-stock represents the *organization* and *accessibility* of knowledge—how findable and combinable the other stocks are.
+>   	  - **[[Stock of Structural Knowledge]]:** The accumulated network of connections, **[[Maps-of-Content-—-MOCs|MOCs]]** (**[[Maps-of-Content-—-MOCs|Maps of Content]]**), tags, and links that create the **[[Knowledge-Graph|Knowledge Graph]]**. This meta-stock represents the *organization* and *accessibility* of knowledge—how findable and combinable the other stocks are.
 
 #### 8. [PRINCIPLE-POINT] Untitled *(Line 62)*
 
@@ -169,7 +169,7 @@ extraction_summary:
 >   	  - **[[Experience Capture Rate]]:** The flow of new experiences into the PKB. This is influenced by **[[Capture Friction]]** (how easy it is to record an experience), **[[Salience Filters]]** (what the learner deems worthy of capture), and **[[capture tools]]** (mobile quick-capture, voice notes, templates). High friction reduces this flow; streamlined workflows increase it.
 >   	  - **[[Reflection Depth Rate]]:** The flow from raw experience notes into structured reflections. This depends on **[[Reflection Triggers]]** (prompts, scheduled review sessions), **[[Cognitive Energy Available]]**, and **[[Reflection Skills]]** (the learner's metacognitive capability). Many PKB systems fail here—experiences accumulate but never get processed into insights.
 >   	  - **[[Conceptualization Quality Rate]]:** The flow from reflections into robust, well-connected abstract concepts. This is governed by **[[Thinking Frameworks]]** (mental models, first principles thinking), **[[Linking Discipline]]** (how rigorously the learner connects new concepts to existing ones), and **[[Writing Clarity]]** (ability to articulate abstractions precisely).
->   	  - **[[Experimentation Frequency Rate]]:** The flow from abstract concepts into real-world tests. This outflow is often the weakest in knowledge systems—people accumulate concepts but never apply them. It's influenced by **[[Action Bias]]**, **[[Psychological Safety]]** to experiment, and **[[Feedback Mechanisms]]** that make results observable.
+>   	  - **[[Experimentation Frequency Rate]]:** The flow from abstract concepts into real-world tests. This outflow is often the weakest in knowledge systems—people accumulate concepts but never apply them. It's influenced by **[[Action Bias]]**, **[[Psychological-Safety|Psychological Safety]]** to experiment, and **[[Feedback Mechanisms]]** that make results observable.
 >   	  - **[[Knowledge Retrieval Rate]]:** The rate at which accumulated knowledge flows back into conscious awareness when needed. High-quality **[[Bidirectional Links]]**, **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]** systems, and **[[Serendipitous Discovery Mechanisms]]** (graph views, random note review) increase this rate.
 >   	  - **[[Knowledge Decay Rate]]:** The unfortunate outflow where knowledge becomes inaccessible through poor organization, obsolescence, or insufficient review. This is the "leaky bucket" problem that haunts poorly maintained PKBs.
 
@@ -273,7 +273,7 @@ extraction_summary:
 > - **Emergent Behavior 4: [[Personalized Epistemology Development]]**
 >   	  - The fourth emergent property is the development of a **[[Personalized Epistemology]]**—a customized framework for *how you know what you know*. Over time, the PKB accumulates not just knowledge but **[[Meta-Knowledge]]**: which sources you trust, which methodologies you've found reliable, which concepts have survived multiple testing cycles, which domains you have expertise in versus those where you're a novice. This meta-layer enables **[[Calibrated Confidence]]**—knowing when to trust your judgment and when to seek external validation.
 >   	  - **This emerges from:** The **[[Experimental Results Stock]]** accumulating over time, combined with explicit documentation of **[[Belief Updates]]** and **[[Confidence Intervals]]**. When your PKB contains not just "here's a concept" but also "I tested this in Project X and it failed because..." and "I've applied this principle successfully 15 times across 3 domains," you develop a *track record* of your own epistemological reliability.
->   	  - **Contrast with Non-Systematic Learning:** Most learners have a vague, poorly calibrated sense of their own knowledge. They "feel" competent or incompetent based on recent experiences or social comparison. A mature Kolb-PKB system makes **[[Metacognitive Awareness]]** explicit and traceable. You can literally query "show me all experiments where I predicted outcome X" and see your prediction accuracy rate. This transforms learning from an impressionistic art into a somewhat quantifiable practice.
+>   	  - **Contrast with Non-Systematic Learning:** Most learners have a vague, poorly calibrated sense of their own knowledge. They "feel" competent or incompetent based on recent experiences or social comparison. A mature Kolb-PKB system makes **[[metacognitive-awareness|Metacognitive Awareness]]** explicit and traceable. You can literally query "show me all experiments where I predicted outcome X" and see your prediction accuracy rate. This transforms learning from an impressionistic art into a somewhat quantifiable practice.
 
 #### 23. [QUOTE] Untitled *(Line 157)*
 
@@ -489,7 +489,7 @@ extraction_summary:
 - [[Insight Compounding Loop]]
 - [[Knowledge Decay Rate]]
 - [[Knowledge Gaps]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Retrieval Rate]]
 - [[Kolb ELC-PKB Integration System]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
@@ -508,7 +508,7 @@ extraction_summary:
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Matthew-Effect|Matthew Effect]]
 - [[Meta-Knowledge]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Methodological Frameworks]]
 - [[Navigation Infrastructure]]
@@ -531,7 +531,7 @@ extraction_summary:
 - [[Progressive Elaboration]]
 - [[Progressive Reflection Prompts]]
 - [[Project Logs]]
-- [[Psychological Safety]]
+- [[Psychological-Safety|Psychological Safety]]
 - [[Public Learning]]
 - [[Publication Perfectionism]]
 - [[Quality Control Gates]]
@@ -641,7 +641,7 @@ extraction_summary:
 | 46 | [[Stock of Structural Knowledge]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
 | 47 | [[Maps-of-Content-—-MOCs|MOCs]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
 | 48 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
-| 49 | [[Knowledge Graph]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
+| 49 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
 | 50 | [[Experience Capture Rate]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 64 |
 | 51 | [[Capture Friction]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 64 |
 | 52 | [[Salience Filters]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 64 |
@@ -656,7 +656,7 @@ extraction_summary:
 | 61 | [[Writing Clarity]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 66 |
 | 62 | [[Experimentation Frequency Rate]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 67 |
 | 63 | [[Action Bias]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 67 |
-| 64 | [[Psychological Safety]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 67 |
+| 64 | [[Psychological-Safety|Psychological Safety]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 67 |
 | 65 | [[Feedback Mechanisms]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 67 |
 | 66 | [[Knowledge Retrieval Rate]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 68 |
 | 67 | [[Bidirectional Links]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 68 |
@@ -743,7 +743,7 @@ extraction_summary:
 | 148 | [[Experimental Results Stock]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 154 |
 | 149 | [[Belief Updates]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 154 |
 | 150 | [[Confidence Intervals]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 154 |
-| 151 | [[Metacognitive Awareness]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 155 |
+| 151 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 155 |
 | 152 | [[Kurt Lewin]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 159 |
 | 153 | [[Donella Meadows]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 166 |
 | 154 | [[Twelve Leverage Points]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 166 |
@@ -983,7 +983,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Insight Compounding Loop]]
 - [[Knowledge Decay Rate]]
 - [[Knowledge Gaps]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Retrieval Rate]]
 - [[Kolb ELC-PKB Integration System]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
@@ -1002,7 +1002,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Matthew-Effect|Matthew Effect]]
 - [[Meta-Knowledge]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Methodological Frameworks]]
 - [[Navigation Infrastructure]]
@@ -1025,7 +1025,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Progressive Elaboration]]
 - [[Progressive Reflection Prompts]]
 - [[Project Logs]]
-- [[Psychological Safety]]
+- [[Psychological-Safety|Psychological Safety]]
 - [[Public Learning]]
 - [[Publication Perfectionism]]
 - [[Quality Control Gates]]

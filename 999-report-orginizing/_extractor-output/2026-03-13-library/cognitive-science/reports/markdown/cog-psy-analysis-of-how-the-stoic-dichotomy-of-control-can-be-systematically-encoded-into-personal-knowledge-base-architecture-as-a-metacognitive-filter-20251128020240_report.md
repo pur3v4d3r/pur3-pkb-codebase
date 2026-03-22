@@ -168,14 +168,14 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 225)*
 
 > [!abstract] Untitled
-> The **[[Stoic]] [[Dichotomy-of-Control|Dichotomy of Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[Cognitive Load Theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[Personal-Knowledge-Management|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[Metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[Locus-of-Control|Locus of Control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[Obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[Personal-Knowledge-Base|Personal Knowledge Base]] abandonment.
+> The **[[Stoic]] [[Dichotomy-of-Control|Dichotomy of Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[Cognitive-Load-Theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[Personal-Knowledge-Management|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[Metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[Locus-of-Control|Locus of Control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[Obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[Personal-Knowledge-Base|Personal Knowledge Base]] abandonment.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 234)*
 
 > [!the-philosophy] Untitled
 > **Core Stoic Epistemic Framework**
 > 
-> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working-Memory|Working Memory]] resources on variables immune to volitional influence.
+> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working-Memory|Working Memory]] resources on variables immune to volitional influence.
 
 #### 5. [EVIDENCE] Untitled *(Line 249)*
 
@@ -205,7 +205,7 @@ extraction_summary:
 > [!core-principle] Untitled
 > **The Principle of Metacognitive Gating**
 > 
-> The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[John Sweller]] in [[Cognitive-Load-Theory|Cognitive Load Theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[Automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
+> The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[John-Sweller|John Sweller]] in [[Cognitive-Load-Theory|Cognitive Load Theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[Automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
 
 #### 9. [WARNING] Untitled *(Line 303)*
 
@@ -544,7 +544,7 @@ extraction_summary:
 - [[Acceptance and Commitment Therapy Integration with PKM]]
 - [[Action Possibilities]]
 - [[Agency]]
-- [[Albert Bandura]]
+- [[Albert-Bandura|Albert Bandura]]
 - [[Albert Ellis]]
 - [[Analysis of How the Stoic Dichotomy of Control Can Be Systematically Encoded into Personal Knowledge Base Architecture as a Metacognitive Filter]]
 - [[Andragogy]]
@@ -556,7 +556,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Reappraisal Techniques in PKB Architecture]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Company Culture Fit]]
 - [[Company-Wide Policy Changes]]
 - [[Competence]]
@@ -568,7 +568,7 @@ extraction_summary:
 - [[Economic Cycles]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Forcing Functions]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Implementation Intentions and Prospective Memory in Knowledge Systems]]
@@ -577,10 +577,10 @@ extraction_summary:
 - [[Interview Performance Optimization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Job Market Conditions]]
-- [[John Sweller]]
+- [[John-Sweller|John Sweller]]
 - [[Julian Rotter]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Network Cultivation]]
@@ -638,9 +638,9 @@ extraction_summary:
 | 18 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 134 |
 | 19 | [[Emotional Regulation]] | — | — | Claude Thinking: | 135 |
 | 20 | [[Epictetus]] | — | — | Claude Thinking: | 136 |
-| 21 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 137 |
+| 21 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 137 |
 | 22 | [[Julian Rotter]] | — | — | Claude Thinking: | 138 |
-| 23 | [[Albert Bandura]] | — | — | Claude Thinking: | 139 |
+| 23 | [[Albert-Bandura|Albert Bandura]] | — | — | Claude Thinking: | 139 |
 | 24 | [[Self-Efficacy]] | — | — | Claude Thinking: | 140 |
 | 25 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking: | 141 |
 | 26 | [[Forcing Functions]] | — | — | Claude Thinking: | 142 |
@@ -666,14 +666,14 @@ extraction_summary:
 | 46 | [[Stoicism]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 47 | [[Zeno of Citium]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 48 | [[Epictetus]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
-| 49 | [[Marcus Aurelius]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
+| 49 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 50 | [[Seneca]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 51 | [[Cognitive-Load|Cognitive Load]] | cognitive resources | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 52 | [[Emotional Regulation]] | emotional responses | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 53 | [[Agency]] | psychological agency | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 54 | [[Albert Ellis]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 55 | [[Aaron Beck]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
-| 56 | [[Cognitive-Behavioral Therapy]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
+| 56 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 57 | [[Working-Memory|Working Memory]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 58 | [[Metacognitive]] | — | — | 📜 Historical Foundations: The Stoic O... | 239 |
 | 59 | [[Julian Rotter]] | — | — | Locus of Control: Rotter's Empirical ... | 247 |
@@ -683,19 +683,19 @@ extraction_summary:
 | 63 | [[Self-Regulation-Theory]] | — | — | Locus of Control: Rotter's Empirical ... | 256 |
 | 64 | [[Attention Allocation]] | — | — | Cognitive Control and Attention Alloc... | 260 |
 | 65 | [[Working-Memory|Working Memory]] | working memory | — | Cognitive Control and Attention Alloc... | 260 |
-| 66 | [[Executive Function]] | executive resources | — | Cognitive Control and Attention Alloc... | 260 |
+| 66 | [[Executive-Function|Executive Function]] | executive resources | — | Cognitive Control and Attention Alloc... | 260 |
 | 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Control and Attention Alloc... | 260 |
-| 68 | [[Executive Function]] | — | — | Cognitive Control and Attention Alloc... | 267 |
-| 69 | [[Executive Function]] | — | — | Self-Regulation: Executive Function a... | 273 |
+| 68 | [[Executive-Function|Executive Function]] | — | — | Cognitive Control and Attention Alloc... | 267 |
+| 69 | [[Executive-Function|Executive Function]] | — | — | Self-Regulation: Executive Function a... | 273 |
 | 70 | [[Self-Regulation-Theory]] | — | — | Self-Regulation: Executive Function a... | 273 |
 | 71 | [[Working-Memory|Working Memory]] | — | — | Self-Regulation: Executive Function a... | 278 |
 | 72 | [[Working-Memory|Working Memory]] | — | — | Self-Regulation: Executive Function a... | 278 |
-| 73 | [[Executive Function]] | — | — | Self-Regulation: Executive Function a... | 280 |
+| 73 | [[Executive-Function|Executive Function]] | — | — | Self-Regulation: Executive Function a... | 280 |
 | 74 | [[Cognitive-Load|Cognitive Load]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 75 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 76 | [[Information Theory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 77 | [[Metacognitive]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
-| 78 | [[John Sweller]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
+| 78 | [[John-Sweller|John Sweller]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 79 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 80 | [[Automaticity]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 81 | [[Rumination]] | — | — | Cognitive Load Reduction Through Cate... | 297 |
@@ -919,7 +919,7 @@ extraction_summary:
 - [[Acceptance and Commitment Therapy Integration with PKM]]
 - [[Action Possibilities]]
 - [[Agency]]
-- [[Albert Bandura]]
+- [[Albert-Bandura|Albert Bandura]]
 - [[Albert Ellis]]
 - [[Analysis of How the Stoic Dichotomy of Control Can Be Systematically Encoded into Personal Knowledge Base Architecture as a Metacognitive Filter]]
 - [[Andragogy]]
@@ -931,7 +931,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Reappraisal Techniques in PKB Architecture]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Company Culture Fit]]
 - [[Company-Wide Policy Changes]]
 - [[Competence]]
@@ -943,7 +943,7 @@ extraction_summary:
 - [[Economic Cycles]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Forcing Functions]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Implementation Intentions and Prospective Memory in Knowledge Systems]]
@@ -952,10 +952,10 @@ extraction_summary:
 - [[Interview Performance Optimization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Job Market Conditions]]
-- [[John Sweller]]
+- [[John-Sweller|John Sweller]]
 - [[Julian Rotter]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Network Cultivation]]

@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,6 +72,14 @@ see-also:
   - "[[Carol-Ames|Carol Ames]]"
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[Instructional-Design|Instructional Design]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Motivational-Psychology|Motivational Psychology]]"
+  - "[[John-G.-Nicholls|John G. Nicholls]]"
+  - "[[Carol-Ames|Carol Ames]]"
+  - "[[Carol-S.-Dweck|Carol S. Dweck]]"
+  - "[[Instructional-Design|Instructional Design]]"
+  - "[[Assessment-Design|Assessment Design]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Motivational-Psychology|Motivational Psychology]]"
@@ -247,6 +255,54 @@ importance: high
 - [[Growth-Mindset|Growth Mindset]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from achievement-goal-theory-foundational-report-2026-03-10.md, cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+[[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Educational-Psychology|Educational Psychology]] * [[Motivational-Psychology|Motivational Psychology]] * [[John-G.-Nicholls|John G. Nicholls]] * [[Carol-Ames|Carol Ames]] * [[Carol-S.-Dweck|Carol S. Dweck]] * [[Instructional-Design|Instructional Design]] * [[Assessment-Design|Assessment Design]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Growth-Mindset|Growth Mindset]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Conceptions-of-Ability|Conceptions of Ability]] * [[Fixed-Mindset|Fixed Mindset]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[speech-act-theory|speech act theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+
+
+
+
+
+
 
 
 

@@ -215,7 +215,7 @@ extraction_summary:
 #### 15. [KEY-INSIGHT] The Knowledge-CT Dependency *(Line 361)*
 
 > [!key-insight] The Knowledge-CT Dependency
-> A counterintuitive but empirically robust finding is that critical thinking is deeply dependent on domain knowledge. [[Daniel Willingham]]'s work on reading comprehension and thinking demonstrates that critical evaluation of a claim about climate science requires substantially more background scientific knowledge than most students (or adults) possess. This does not mean that CT should be deferred until students have acquired comprehensive domain knowledge — but it does mean that CT instruction divorced from content learning is likely to produce students who can apply CT procedures to trivial examples but fail to deploy them when it matters.
+> A counterintuitive but empirically robust finding is that critical thinking is deeply dependent on domain knowledge. [[Daniel-Willingham|Daniel Willingham]]'s work on reading comprehension and thinking demonstrates that critical evaluation of a claim about climate science requires substantially more background scientific knowledge than most students (or adults) possess. This does not mean that CT should be deferred until students have acquired comprehensive domain knowledge — but it does mean that CT instruction divorced from content learning is likely to produce students who can apply CT procedures to trivial examples but fail to deploy them when it matters.
 
 #### 16. [THOUGHT-EXPERIMENT] The Newspaper Headline Test *(Line 366)*
 
@@ -288,9 +288,9 @@ extraction_summary:
 > 
 > This report on Critical Thinking in Educational Settings connects to other knowledge nodes in the following ways:
 > 
-> **[[Metacognition in Learning]]** — Metacognition is not merely adjacent to CT — it is constitutive of it. The connection is bidirectional: understanding CT deepens understanding of why metacognitive monitoring matters; understanding metacognition explains the executive mechanism through which CT skills are deployed and corrected. Any note on metacognition should cross-reference the CT dispositions literature, and vice versa.
+> **[[Metacognition-in-Learning|Metacognition in Learning]]** — Metacognition is not merely adjacent to CT — it is constitutive of it. The connection is bidirectional: understanding CT deepens understanding of why metacognitive monitoring matters; understanding metacognition explains the executive mechanism through which CT skills are deployed and corrected. Any note on metacognition should cross-reference the CT dispositions literature, and vice versa.
 > 
-> **[[Bloom's Taxonomy]]** — Bloom's Revised Taxonomy provides the most widely used practical scaffold for operationalising CT in curriculum design. Understanding CT's theoretical depth enriches understanding of why "Analyse, Evaluate, Create" represent genuine cognitive advances rather than arbitrary additions to a list — they correspond to qualitatively distinct cognitive processes described in this report.
+> **[[Bloom's-Taxonomy|Bloom's Taxonomy]]** — Bloom's Revised Taxonomy provides the most widely used practical scaffold for operationalising CT in curriculum design. Understanding CT's theoretical depth enriches understanding of why "Analyse, Evaluate, Create" represent genuine cognitive advances rather than arbitrary additions to a list — they correspond to qualitatively distinct cognitive processes described in this report.
 > 
 > **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL is, in part, the pedagogical implementation of Dewey's reflective thinking model. Understanding CT theory explains *why* IBL works when it works (it provides authentic problems, knowledge scaffolding, and practised reasoning in context) and why it fails when it fails (absence of explicit CT instruction, insufficient knowledge base, no metacognitive prompting).
 > 
@@ -418,7 +418,7 @@ extraction_summary:
 > > [!topic-idea] [[Assessment of Critical Thinking — Tools and Methods]]
 > > This expansion would systematically review the validated instruments for CT measurement — the Watson-Glaser Critical Thinking Appraisal, the California Critical Thinking Skills Test, the Collegiate Learning Assessment (CLA), and performance-based assessments — evaluating their psychometric properties, practical constraints, and alignment with different CT frameworks. It would also address the design of classroom-level CT rubrics and the use of portfolio assessment for capturing CT development over time. Priority: High — the assessment challenge is the single most significant practical obstacle to systematic CT development in schools.
 > 
-> > [!topic-idea] [[Metacognition and Self-Regulated Learning]]
+> > [!topic-idea] [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 > > This report would provide a foundational treatment of metacognition as a construct, tracing its theoretical development from Flavell through Brown, Zimmerman, and Pintrich. It would examine the relationship between metacognitive monitoring, self-regulated learning strategies, and academic performance, with specific attention to how metacognitive habits can be explicitly taught. Priority: High — metacognition is identified in this report as the executive capacity underlying sustained CT, warranting dedicated foundational treatment.
 > 
 > > [!topic-idea] [[Argument Mapping — Theory and Practice]]
@@ -440,31 +440,31 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Argument Mapping — Theory and Practice]]
 - [[Assessment of Critical Thinking — Tools and Methods]]
-- [[Benjamin Bloom]]
-- [[Bloom's Taxonomy]]
-- [[California Critical Thinking Dispositions Inventory]]
-- [[California Critical Thinking Skills Test]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Critical Thinking Across the Curriculum — Subject-Specific Integration]]
 - [[Critical-Thinking|Critical thinking]]
-- [[Daniel Kahneman]]
-- [[Daniel Willingham]]
-- [[Foundational Report Generator v1.0]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
+- [[Daniel-Willingham|Daniel Willingham]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
-- [[John Sweller]]
+- [[John-Flavell|John Flavell]]
+- [[John-Sweller|John Sweller]]
 - [[Metacognition]]
-- [[Metacognition and Self-Regulated Learning]]
-- [[Metacognition in Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Metacognition-in-Learning|Metacognition in Learning]]
 - [[Philosophy for Children (P4C) — Lipman's Programme]]
-- [[Robert Ennis]]
+- [[Robert-Ennis|Robert Ennis]]
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Seminars — Design and Facilitation]]
-- [[Tim van Gelder]]
-- [[Watson-Glaser Critical Thinking Appraisal]]
+- [[Tim-van-Gelder|Tim van Gelder]]
+- [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]]
 - [[Working-Memory|Working memory]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[Critical-Thinking|critical thinking]]
@@ -474,37 +474,37 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Robert Ennis]] | — | — | Phase I: Orientation & Context Setting | 243 |
+| 1 | [[Robert-Ennis|Robert Ennis]] | — | — | Phase I: Orientation & Context Setting | 243 |
 | 2 | [[Critical-Thinking|critical thinking]] | — | — | Phase I: Orientation & Context Setting | 245 |
 | 3 | [[misinformation]] | — | — | Phase I: Orientation & Context Setting | 247 |
 | 4 | [[Critical-Thinking|Critical thinking]] | — | — | Phase I: Orientation & Context Setting | 247 |
 | 5 | [[Critical-Thinking|critical thinking]] | — | — | Defining Critical Thinking: A Contest... | 282 |
 | 6 | [[Socratic-Method|Socratic Method]] | — | — | Historical Development: From Socrates... | 295 |
 | 7 | [[John-Dewey|John Dewey]] | — | — | Historical Development: From Socrates... | 297 |
-| 8 | [[Benjamin Bloom]] | — | — | Historical Development: From Socrates... | 299 |
+| 8 | [[Benjamin-Bloom|Benjamin Bloom]] | — | — | Historical Development: From Socrates... | 299 |
 | 9 | [[Working-Memory|Working memory]] | — | — | How Critical Thinking Actually Works:... | 359 |
-| 10 | [[John Sweller]] | — | — | How Critical Thinking Actually Works:... | 359 |
+| 10 | [[John-Sweller|John Sweller]] | — | — | How Critical Thinking Actually Works:... | 359 |
 | 11 | [[Cognitive-Load-Theory|cognitive load theory]] | — | — | How Critical Thinking Actually Works:... | 359 |
-| 12 | [[Daniel Willingham]] | — | — | How Critical Thinking Actually Works:... | 362 |
-| 13 | [[Daniel Kahneman]] | — | — | How Critical Thinking Actually Works:... | 364 |
+| 12 | [[Daniel-Willingham|Daniel Willingham]] | — | — | How Critical Thinking Actually Works:... | 362 |
+| 13 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | How Critical Thinking Actually Works:... | 364 |
 | 14 | [[Metacognition]] | — | — | Metacognitive Regulation: The Executi... | 382 |
-| 15 | [[Ann Brown]] | — | — | Metacognitive Regulation: The Executi... | 384 |
-| 16 | [[John Flavell]] | — | — | Metacognitive Regulation: The Executi... | 384 |
-| 17 | [[Tim van Gelder]] | — | — | Pedagogical Strategies for Developing... | 407 |
-| 18 | [[Watson-Glaser Critical Thinking Appraisal]] | — | — | The Assessment Challenge | 423 |
-| 19 | [[California Critical Thinking Skills Test]] | — | — | The Assessment Challenge | 423 |
-| 20 | [[California Critical Thinking Dispositions Inventory]] | — | — | The Assessment Challenge | 423 |
-| 21 | [[Metacognition in Learning]] | — | — | The "So What?" — What This Understand... | 475 |
-| 22 | [[Bloom's Taxonomy]] | — | — | The "So What?" — What This Understand... | 477 |
+| 15 | [[Ann-Brown|Ann Brown]] | — | — | Metacognitive Regulation: The Executi... | 384 |
+| 16 | [[John-Flavell|John Flavell]] | — | — | Metacognitive Regulation: The Executi... | 384 |
+| 17 | [[Tim-van-Gelder|Tim van Gelder]] | — | — | Pedagogical Strategies for Developing... | 407 |
+| 18 | [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] | — | — | The Assessment Challenge | 423 |
+| 19 | [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] | — | — | The Assessment Challenge | 423 |
+| 20 | [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] | — | — | The Assessment Challenge | 423 |
+| 21 | [[Metacognition-in-Learning|Metacognition in Learning]] | — | — | The "So What?" — What This Understand... | 475 |
+| 22 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | The "So What?" — What This Understand... | 477 |
 | 23 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | The "So What?" — What This Understand... | 479 |
 | 24 | [[Socratic-Method|Socratic Method]] | — | — | The "So What?" — What This Understand... | 481 |
 | 25 | [[Socratic Seminars — Design and Facilitation]] | — | — | D. Expansion Topics | 574 |
 | 26 | [[Assessment of Critical Thinking — Tools and Methods]] | — | — | D. Expansion Topics | 577 |
-| 27 | [[Metacognition and Self-Regulated Learning]] | — | — | D. Expansion Topics | 580 |
+| 27 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | D. Expansion Topics | 580 |
 | 28 | [[Argument Mapping — Theory and Practice]] | — | — | D. Expansion Topics | 583 |
 | 29 | [[Critical Thinking Across the Curriculum — Subject-Specific Integration]] | — | — | D. Expansion Topics | 586 |
 | 30 | [[Philosophy for Children (P4C) — Lipman's Programme]] | — | — | D. Expansion Topics | 589 |
-| 31 | [[Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 594 |
+| 31 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 594 |
 
 ---
 
@@ -515,31 +515,31 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Argument Mapping — Theory and Practice]]
 - [[Assessment of Critical Thinking — Tools and Methods]]
-- [[Benjamin Bloom]]
-- [[Bloom's Taxonomy]]
-- [[California Critical Thinking Dispositions Inventory]]
-- [[California Critical Thinking Skills Test]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Critical Thinking Across the Curriculum — Subject-Specific Integration]]
 - [[Critical-Thinking|Critical thinking]]
-- [[Daniel Kahneman]]
-- [[Daniel Willingham]]
-- [[Foundational Report Generator v1.0]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
+- [[Daniel-Willingham|Daniel Willingham]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
-- [[John Sweller]]
+- [[John-Flavell|John Flavell]]
+- [[John-Sweller|John Sweller]]
 - [[Metacognition]]
-- [[Metacognition and Self-Regulated Learning]]
-- [[Metacognition in Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Metacognition-in-Learning|Metacognition in Learning]]
 - [[Philosophy for Children (P4C) — Lipman's Programme]]
-- [[Robert Ennis]]
+- [[Robert-Ennis|Robert Ennis]]
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Seminars — Design and Facilitation]]
-- [[Tim van Gelder]]
-- [[Watson-Glaser Critical Thinking Appraisal]]
+- [[Tim-van-Gelder|Tim van Gelder]]
+- [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]]
 - [[Working-Memory|Working memory]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[Critical-Thinking|critical thinking]]
@@ -554,11 +554,11 @@ extraction_summary:
 
 #### Related
 
-- [[Metacognition in Learning]]
+- [[Metacognition-in-Learning|Metacognition in Learning]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Socratic-Method|Socratic Method]]
 - [[Problem-Based Learning]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 
 #### Broader
 
@@ -590,8 +590,8 @@ extraction_summary:
 
 #### Builds On
 
-- [[Cognitive Development — Piaget and Vygotsky]]
-- [[Foundations of Formal Logic]]
+- [[Cognitive-Development-—-Piaget-and-Vygotsky|Cognitive Development — Piaget and Vygotsky]]
+- [[Foundations-of-Formal-Logic|Foundations of Formal Logic]]
 
 #### Enables
 

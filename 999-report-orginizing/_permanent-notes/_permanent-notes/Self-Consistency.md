@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,6 +72,14 @@ see-also:
   - "[[Cognitive-Diversity|Cognitive Diversity]]"
   - "[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]"
   - "[[Temperature-Sampling|Temperature Sampling]]"
+  - "[[**Self-Consistency-&-Complexity-Based-Consistency**|**Self-Consistency & Complexity-Based Consistency**]]"
+  - "[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]"
+  - "[[Ensemble-Methods|Ensemble Methods]]"
+  - "[[Reasoning-Verification|Reasoning Verification]]"
+  - "[[Majority-Voting|Majority Voting]]"
+  - "[[Cognitive-Diversity|Cognitive Diversity]]"
+  - "[[Temperature-Sampling|Temperature Sampling]]"
+  - "[[Ensemble-Learning|Ensemble Learning]]"
   - "[[**Self-Consistency-&-Complexity-Based-Consistency**|**Self-Consistency & Complexity-Based Consistency**]]"
   - "[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]"
   - "[[Ensemble-Methods|Ensemble Methods]]"
@@ -176,5 +184,17 @@ importance: medium
 - [[Chain-of-Thought|Chain-of-Thought]]
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Self-Refine|Self-Refine]]
+
+**Related concepts** *(from prompt-report-self-consistency-complexity-based-consistency-202512250916.md)*:
+[[**Self-Consistency-&-Complexity-Based-Consistency**|**Self-Consistency & Complexity-Based Consistency**]] * [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] * [[Ensemble-Methods|Ensemble Methods]] * [[Reasoning-Verification|Reasoning Verification]] * [[Cognitive-Diversity|Cognitive Diversity]] * [[Temperature-Sampling|Temperature Sampling]] * [[Ensemble-Learning|Ensemble Learning]] * [[Bayesian-Reasoning|Bayesian Reasoning]] * [[Complex-Reasoning-Tasks|Complex Reasoning Tasks]] * [[Math-Word-Problems|Math Word Problems]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Multi-Step-Inference|Multi-Step Inference]] * [[Prompt-Reliability-Engineering|Prompt Reliability Engineering]] * [[LLM-Calibration|LLM Calibration]] * [[Error-Detection|Error Detection]]
+
+**Cross-report connections** *(from prompt-report-self-consistency-complexity-based-consistency-202512250916.md)*:
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
+- [[Self-Consistency|Self-Consistency]]
+- [[Chain-of-Thought|Chain-of-Thought]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
+- [[Self-Refine|Self-Refine]]
+
+
 
 

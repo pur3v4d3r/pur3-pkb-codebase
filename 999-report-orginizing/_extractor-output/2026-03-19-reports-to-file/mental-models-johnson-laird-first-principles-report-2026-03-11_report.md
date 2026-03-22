@@ -376,16 +376,16 @@ extraction_summary:
 > 
 > - **[[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]** — Axiom 2 (representational construction) is the point of deepest overlap with schema theory. Both traditions hold that representation is active, elaborative, and prior-knowledge-dependent. The distinction is that schema theory specifies the schematic structure of prior knowledge; mental models theory specifies the model-like structure of the current-situation representation. Integrating these accounts yields the insight that schemas provide the *building blocks* for mental model construction — a synthesis that neither theory fully articulates on its own.
 > 
-> - **[[Situation Models (van Dijk & Kintsch)]]** — The situation model framework in discourse comprehension is Johnson-Laird's closest intellectual neighbor, and arguably the most successful application of the mental models construct. Situation models have generated an extensive empirical literature (foregrounding effects, spatial and temporal situation dimensions) with cleaner operationalization than the reasoning literature. Insights from that literature — particularly that comprehenders construct multi-dimensional representations that are updated dynamically — should feed back into the reasoning literature more than they currently do.
+> - **[[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]** — The situation model framework in discourse comprehension is Johnson-Laird's closest intellectual neighbor, and arguably the most successful application of the mental models construct. Situation models have generated an extensive empirical literature (foregrounding effects, spatial and temporal situation dimensions) with cleaner operationalization than the reasoning literature. Insights from that literature — particularly that comprehenders construct multi-dimensional representations that are updated dynamically — should feed back into the reasoning literature more than they currently do.
 > 
-> - **[[Oaksford & Chater Probabilistic Approach]]** — The probabilistic mental models framework represents the most developed alternative to the classical mental models account that still preserves the core insight. Their work on the Wason selection task and conditional reasoning shows that Bayesian inference over realistic priors predicts human data as well or better than mental models. The Phase IV insight about pragmatic construction bridges the two frameworks: probabilistic priors can be understood as encoding pragmatic assessments of what is likely and thus what is worth representing.
+> - **[[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]** — The probabilistic mental models framework represents the most developed alternative to the classical mental models account that still preserves the core insight. Their work on the Wason selection task and conditional reasoning shows that Bayesian inference over realistic priors predicts human data as well or better than mental models. The Phase IV insight about pragmatic construction bridges the two frameworks: probabilistic priors can be understood as encoding pragmatic assessments of what is likely and thus what is worth representing.
 > 
 > The pattern across these connections suggests that mental models theory occupies a node in a larger theoretical space defined by *constructive*, *content-sensitive*, *resource-limited* cognition — a space that cannot be adequately characterized by any single theory but requires triangulation from multiple frameworks.
 
 #### 33. [WARNING] Assumption Transfer Alert *(Line 412)*
 
 > [!warning] Assumption Transfer Alert
-> The assumption that the appropriate normative standard for human reasoning is classical deductive validity is commonly embedded in discussions of [[Reasoning Biases and Heuristics]], [[Bounded Rationality]], and [[Critical Thinking Pedagogy]]. Readers engaging with those nodes should be aware that this assumption does not survive first-principles scrutiny in the context of everyday pragmatic reasoning. See Phase II, Assumption 5 and Phase V for the full analysis.
+> The assumption that the appropriate normative standard for human reasoning is classical deductive validity is commonly embedded in discussions of [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]], [[Bounded-Rationality|Bounded Rationality]], and [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]]. Readers engaging with those nodes should be aware that this assumption does not survive first-principles scrutiny in the context of everyday pragmatic reasoning. See Phase II, Assumption 5 and Phase V for the full analysis.
 
 #### 34. [REFLECTION] The Method and Its Limits *(Line 415)*
 
@@ -541,31 +541,31 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Bounded Rationality]]
-- [[Critical Thinking Pedagogy]]
+- [[Bounded-Rationality|Bounded Rationality]]
+- [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[First Principles Report Generator v1.0]]
-- [[Foundational Report]]
-- [[Oaksford & Chater Probabilistic Approach]]
-- [[Reasoning Biases and Heuristics]]
+- [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
+- [[Foundational-Report|Foundational Report]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
+- [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]
 - [[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation Models (van Dijk & Kintsch)]]
-- [[Socratic Dialogue Report]]
+- [[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]
+- [[Socratic-Dialogue-Report|Socratic Dialogue Report]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Foundational Report]] | — | — | Relationship to Other Report Types | 389 |
-| 2 | [[Socratic Dialogue Report]] | — | — | Relationship to Other Report Types | 391 |
+| 1 | [[Foundational-Report|Foundational Report]] | — | — | Relationship to Other Report Types | 389 |
+| 2 | [[Socratic-Dialogue-Report|Socratic Dialogue Report]] | — | — | Relationship to Other Report Types | 391 |
 | 3 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Relationship to Other Report Types | 398 |
 | 4 | [[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]] | — | — | Relationship to Other Report Types | 400 |
-| 5 | [[Situation Models (van Dijk & Kintsch)]] | — | — | Relationship to Other Report Types | 402 |
-| 6 | [[Oaksford & Chater Probabilistic Approach]] | — | — | Relationship to Other Report Types | 404 |
-| 7 | [[Reasoning Biases and Heuristics]] | — | — | The Invitation to Reconstruct Further | 413 |
-| 8 | [[Bounded Rationality]] | — | — | The Invitation to Reconstruct Further | 413 |
-| 9 | [[Critical Thinking Pedagogy]] | — | — | The Invitation to Reconstruct Further | 413 |
-| 10 | [[First Principles Report Generator v1.0]] | — | — | D. Expansion Topics | 537 |
+| 5 | [[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]] | — | — | Relationship to Other Report Types | 402 |
+| 6 | [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] | — | — | Relationship to Other Report Types | 404 |
+| 7 | [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] | — | — | The Invitation to Reconstruct Further | 413 |
+| 8 | [[Bounded-Rationality|Bounded Rationality]] | — | — | The Invitation to Reconstruct Further | 413 |
+| 9 | [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] | — | — | The Invitation to Reconstruct Further | 413 |
+| 10 | [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] | — | — | D. Expansion Topics | 537 |
 
 ---
 
@@ -576,16 +576,16 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Bounded Rationality]]
-- [[Critical Thinking Pedagogy]]
+- [[Bounded-Rationality|Bounded Rationality]]
+- [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[First Principles Report Generator v1.0]]
-- [[Foundational Report]]
-- [[Oaksford & Chater Probabilistic Approach]]
-- [[Reasoning Biases and Heuristics]]
+- [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
+- [[Foundational-Report|Foundational Report]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
+- [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]
 - [[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation Models (van Dijk & Kintsch)]]
-- [[Socratic Dialogue Report]]
+- [[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]
+- [[Socratic-Dialogue-Report|Socratic Dialogue Report]]
 
 ### Frontmatter Relationships
 
@@ -593,11 +593,11 @@ extraction_summary:
 
 - [[Philosophy of Mental Representation]]
 - [[Propositional Logic Basics]]
-- [[Cognitive Psychology Foundations]]
+- [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
 
 #### Related Concepts
 
-- [[Mental Models Theory]]
+- [[Mental-Models-Theory|Mental Models Theory]]
 - [[Johnson-Laird]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Propositional-Representation|Propositional Representation]]

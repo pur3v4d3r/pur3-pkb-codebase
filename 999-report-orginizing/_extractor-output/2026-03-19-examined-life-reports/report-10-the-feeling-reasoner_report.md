@@ -173,7 +173,7 @@ extraction_summary:
 #### 8. [CONNECTION-IDEAS] 🔗 TCE Connects to Report 09's Interoceptive Inference *(Line 310)*
 
 > [!connection-ideas] 🔗 TCE Connects to Report 09's Interoceptive Inference
-> Barrett's account of core affect as interoceptive prediction connects directly to [[Anil Seth]]'s account of interoceptive inference from Report 09. Both are drawing on the same [[Predictive-Processing|Predictive Processing]] framework: the brain generates predictions about the body's internal state, and these predictions — when they are emotionally categorized — constitute emotional experience. This means that the emotional and physiological dimensions of cognition are not two separate systems but two levels of description of the same predictive process. Physiological metacognition (Report 09) and emotional metacognition (Report 10) are thus complementary practices targeting different aspects of the same underlying system.
+> Barrett's account of core affect as interoceptive prediction connects directly to [[Anil-Seth|Anil Seth]]'s account of interoceptive inference from Report 09. Both are drawing on the same [[Predictive-Processing|Predictive Processing]] framework: the brain generates predictions about the body's internal state, and these predictions — when they are emotionally categorized — constitute emotional experience. This means that the emotional and physiological dimensions of cognition are not two separate systems but two levels of description of the same predictive process. Physiological metacognition (Report 09) and emotional metacognition (Report 10) are thus complementary practices targeting different aspects of the same underlying system.
 
 #### 9. [DEFINITION] 🔖 Appraisal Theory *(Line 319)*
 
@@ -268,7 +268,7 @@ extraction_summary:
 #### 27. [CONNECTION-IDEAS] 🔗 Forward Connections to Tier 3 *(Line 509)*
 
 > [!connection-ideas] 🔗 Forward Connections to Tier 3
-> Report 10 connects forward to Report 13 (The Predictive Mind) in a specific way: emotional responses, in the predictive processing framework, are [[Affective Prediction Errors]] — signals that arise when the world fails to match the brain's predictions about affectively significant features of the environment. Understanding emotions as prediction errors provides the mechanistic account of why emotional responses are sometimes accurate (the prediction captures a genuine pattern) and sometimes miscalibrated (the prediction reflects a historical model that no longer fits). The calibration framework of Report 10 is the phenomenological description of what Report 13 explains mechanistically.
+> Report 10 connects forward to Report 13 (The Predictive Mind) in a specific way: emotional responses, in the predictive processing framework, are [[Affective-Prediction-Errors|Affective Prediction Errors]] — signals that arise when the world fails to match the brain's predictions about affectively significant features of the environment. Understanding emotions as prediction errors provides the mechanistic account of why emotional responses are sometimes accurate (the prediction captures a genuine pattern) and sometimes miscalibrated (the prediction reflects a historical model that no longer fits). The calibration framework of Report 10 is the phenomenological description of what Report 13 explains mechanistically.
 
 #### 28. [METHODOLOGY-AND-SOURCES] 📊 Research Grounding and Synthesis Claims *(Line 522)*
 
@@ -283,7 +283,7 @@ extraction_summary:
 #### 30. [DEFINITION] 🔖 Theory of Constructed Emotion (TCE) *(Line 534)*
 
 > [!definition] 🔖 Theory of Constructed Emotion (TCE)
-> [[Lisa Feldman Barrett]]'s framework holding that emotional experiences are constructed by the brain through the combination of interoceptive predictions (core affect) and learned emotion concepts. There are no dedicated emotion circuits; emotional experience is built from the same neural resources that support prediction, attention, and conceptualization throughout the brain.
+> [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]'s framework holding that emotional experiences are constructed by the brain through the combination of interoceptive predictions (core affect) and learned emotion concepts. There are no dedicated emotion circuits; emotional experience is built from the same neural resources that support prediction, attention, and conceptualization throughout the brain.
 
 #### 31. [DEFINITION] 🔖 Core Affect *(Line 537)*
 
@@ -323,12 +323,12 @@ extraction_summary:
 #### 38. [DEFINITION] 🔖 Somatic Marker Hypothesis *(Line 558)*
 
 > [!definition] 🔖 Somatic Marker Hypothesis
-> [[Antonio Damasio]]'s theory that specific bodily states (somatic markers) become associated with particular outcomes through learning and serve as rapid pre-screening signals in decision-making. Damage to vmPFC disrupts somatic marker generation and produces catastrophic decision-making deficits despite intact deliberative capacities.
+> [[Antonio-Damasio|Antonio Damasio]]'s theory that specific bodily states (somatic markers) become associated with particular outcomes through learning and serve as rapid pre-screening signals in decision-making. Damage to vmPFC disrupts somatic marker generation and produces catastrophic decision-making deficits despite intact deliberative capacities.
 
 #### 39. [DEFINITION] 🔖 Affect-as-Information Theory *(Line 561)*
 
 > [!definition] 🔖 Affect-as-Information Theory
-> [[Schwarz and Clore]]'s framework establishing that people use their current affective states as information when making judgments — asking "how do I feel about this?" as a heuristic for evaluating options, situations, and prospects. The theory predicts both appropriate and inappropriate uses of affective information depending on the relevance of the affective state to the judgment at hand.
+> [[Schwarz-and-Clore|Schwarz and Clore]]'s framework establishing that people use their current affective states as information when making judgments — asking "how do I feel about this?" as a heuristic for evaluating options, situations, and prospects. The theory predicts both appropriate and inappropriate uses of affective information depending on the relevance of the affective state to the judgment at hand.
 
 #### 40. [DEFINITION] 🔖 Emotional Calibration *(Line 564)*
 
@@ -410,7 +410,7 @@ extraction_summary:
 #### 59. [SUMMARY] 📋 PKB Expansion Topics *(Line 607)*
 
 > [!summary] 📋 PKB Expansion Topics
-> **Topic 1: [[Constructed Emotion Theory — Deep Dive]]** | *Priority: High*
+> **Topic 1: [[Constructed-Emotion-Theory-—-Deep-Dive|Constructed Emotion Theory — Deep Dive]]** | *Priority: High*
 > Comprehensive treatment of Barrett's predictive processing account, including the population thinking vs. typological thinking distinction, the role of language in emotion construction, the concept of degeneracy in emotional experience, and the empirical evidence challenging the classical view of discrete emotion circuits. This topic provides the detailed neuroscientific substrate for the brief TCE treatment in this report.
 > 
 > **Topic 2: [[Stoic Therapy of the Passions — Complete System]]** | *Priority: High*
@@ -419,7 +419,7 @@ extraction_summary:
 > **Topic 3: [[Emotional Granularity Training Protocols]]** | *Priority: High*
 > Evidence-based methods for developing fine-grained emotional differentiation in practice: journaling practices that build emotional vocabulary, mindfulness-based emotional labeling, the "How are you feeling?" practice of generating multiple specific emotion terms rather than global states, and the research evidence on which interventions produce durable granularity improvements.
 > 
-> **Topic 4: [[Affect-as-Information in Decision Making]]** | *Priority: Medium*
+> **Topic 4: [[Affect-as-Information-in-Decision-Making|Affect-as-Information in Decision Making]]** | *Priority: Medium*
 > Detailed treatment of Schwarz & Clore's framework with emphasis on the conditions under which affective information use is epistemically appropriate (when the affective state is responsive to features of the current situation) vs. inappropriate (when the affective state reflects irrelevant prior conditions). Applications to professional and personal decision contexts.
 > 
 > **Topic 5: [[Nussbaum's Upheavals of Thought — Key Arguments]]** | *Priority: Medium*
@@ -439,19 +439,19 @@ extraction_summary:
 ### Unique Targets
 
 - [[Affect-as-Information-Theory|Affect-as-Information Theory]]
-- [[Affect-as-Information in Decision Making]]
-- [[Affective Prediction Errors]]
+- [[Affect-as-Information-in-Decision-Making|Affect-as-Information in Decision Making]]
+- [[Affective-Prediction-Errors|Affective Prediction Errors]]
 - [[Affective-Realism|Affective Realism]]
-- [[Anil Seth]]
-- [[Antonio Damasio]]
-- [[Appraisal Accuracy]]
+- [[Anil-Seth|Anil Seth]]
+- [[Antonio-Damasio|Antonio Damasio]]
+- [[Appraisal-Accuracy|Appraisal Accuracy]]
 - [[Appraisal-Theory|Appraisal Theory]]
-- [[Barrett and Wormwood]]
+- [[Barrett-and-Wormwood|Barrett and Wormwood]]
 - [[Chrysippus]]
 - [[Cicero]]
-- [[Classical View of Emotion]]
-- [[Component Process Model]]
-- [[Constructed Emotion Theory — Deep Dive]]
+- [[Classical-View-of-Emotion|Classical View of Emotion]]
+- [[Component-Process-Model|Component Process Model]]
+- [[Constructed-Emotion-Theory-—-Deep-Dive|Constructed Emotion Theory — Deep Dive]]
 - [[Damasio]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Emotion Concepts]]
@@ -459,21 +459,21 @@ extraction_summary:
 - [[Emotion Regulation]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
-- [[Emotional Intelligence]]
+- [[Emotional-Intelligence|Emotional Intelligence]]
 - [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Eupatheia]]
 - [[Galen]]
-- [[Gerald Clore]]
+- [[Gerald-Clore|Gerald Clore]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Kahneman]]
 - [[Klaus Scherer]]
-- [[Lisa Feldman Barrett]]
+- [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Margaret Graver]]
 - [[Martha Nussbaum]]
 - [[Moral Emotions and Ethical Perception]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Norbert Schwarz]]
+- [[Norbert-Schwarz|Norbert Schwarz]]
 - [[Nussbaum's Upheavals of Thought — Key Arguments]]
 - [[O'Toole, Bovard-Abbo, and Weightman]]
 - [[Pathē]]
@@ -481,11 +481,11 @@ extraction_summary:
 - [[Propatheiai]]
 - [[Prosoche]]
 - [[Richard Lazarus]]
-- [[Schwarz and Clore]]
+- [[Schwarz-and-Clore|Schwarz and Clore]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
 - [[Siemer, Mauss, and Gross]]
-- [[Somatic Markers]]
+- [[Somatic-Markers|Somatic Markers]]
 - [[Stanovich]]
 - [[Stoic Therapy of the Passions — Complete System]]
 - [[System 1 Governance]]
@@ -500,31 +500,31 @@ extraction_summary:
 | 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 1.1 The Problem With Two Roles | 257 |
 | 2 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 1.1 The Problem With Two Roles | 257 |
 | 3 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 1.1 The Problem With Two Roles | 259 |
-| 4 | [[Antonio Damasio]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
+| 4 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
 | 5 | [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
-| 6 | [[Somatic Markers]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
-| 7 | [[Norbert Schwarz]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
-| 8 | [[Gerald Clore]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
+| 6 | [[Somatic-Markers|Somatic Markers]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
+| 7 | [[Norbert-Schwarz|Norbert Schwarz]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
+| 8 | [[Gerald-Clore|Gerald Clore]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
 | 9 | [[Affect-as-Information-Theory|Affect-as-Information Theory]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
 | 10 | [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
 | 11 | [[Appraisal-Theory|Appraisal Theory]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
 | 12 | [[Pathē]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
 | 13 | [[Eupatheia]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
 | 14 | [[Emotional-Granularity|Emotional Granularity]] | — | — | 1.3 Why This Matters for the Examined... | 283 |
-| 15 | [[Appraisal Accuracy]] | — | — | 1.3 Why This Matters for the Examined... | 283 |
-| 16 | [[Lisa Feldman Barrett]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
+| 15 | [[Appraisal-Accuracy|Appraisal Accuracy]] | — | — | 1.3 Why This Matters for the Examined... | 283 |
+| 16 | [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
 | 17 | [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
-| 18 | [[Classical View of Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
-| 19 | [[Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 299 |
+| 18 | [[Classical-View-of-Emotion|Classical View of Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
+| 19 | [[Anil-Seth|Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 299 |
 | 20 | [[Emotion Concepts]] | — | — | 2.1 The Theory of Constructed Emotion... | 306 |
 | 21 | [[Affective-Realism|Affective Realism]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
-| 22 | [[Barrett and Wormwood]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
-| 23 | [[Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
+| 22 | [[Barrett-and-Wormwood|Barrett and Wormwood]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
+| 23 | [[Anil-Seth|Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
 | 24 | [[Predictive-Processing|Predictive Processing]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
 | 25 | [[Appraisal-Theory|Appraisal Theory]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 26 | [[Richard Lazarus]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 27 | [[Klaus Scherer]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
-| 28 | [[Component Process Model]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
+| 28 | [[Component-Process-Model|Component Process Model]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 29 | [[Siemer, Mauss, and Gross]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 322 |
 | 30 | [[Chrysippus]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 331 |
 | 31 | [[Cicero]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 331 |
@@ -547,20 +547,20 @@ extraction_summary:
 | 48 | [[Propatheiai]] | — | — | 3.2 The Structural Homology: Stoic Co... | 385 |
 | 49 | [[Prosoche]] | — | — | 3.3 Resolving the Stoic Misreading | 405 |
 | 50 | [[Damasio]] | — | — | 3.4 The Limits of Deliberate Reasonin... | 409 |
-| 51 | [[Schwarz and Clore]] | — | — | 4.2 The Epistemic Limits of Emotional... | 455 |
-| 52 | [[Emotional Intelligence]] | — | — | 4.3 Developmental Implications | 472 |
+| 51 | [[Schwarz-and-Clore|Schwarz and Clore]] | — | — | 4.2 The Epistemic Limits of Emotional... | 455 |
+| 52 | [[Emotional-Intelligence|Emotional Intelligence]] | — | — | 4.3 Developmental Implications | 472 |
 | 53 | [[Martha Nussbaum]] | — | — | 5.1 The Emergent Insight: Emotional G... | 495 |
 | 54 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 501 |
 | 55 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
 | 56 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
-| 57 | [[Affective Prediction Errors]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 510 |
-| 58 | [[Lisa Feldman Barrett]] | — | — | 6.1 Key Terms and Definitions | 535 |
-| 59 | [[Antonio Damasio]] | — | — | 6.1 Key Terms and Definitions | 559 |
-| 60 | [[Schwarz and Clore]] | — | — | 6.1 Key Terms and Definitions | 562 |
-| 61 | [[Constructed Emotion Theory — Deep Dive]] | — | — | 6.3 Expansion Topics | 608 |
+| 57 | [[Affective-Prediction-Errors|Affective Prediction Errors]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 510 |
+| 58 | [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] | — | — | 6.1 Key Terms and Definitions | 535 |
+| 59 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 6.1 Key Terms and Definitions | 559 |
+| 60 | [[Schwarz-and-Clore|Schwarz and Clore]] | — | — | 6.1 Key Terms and Definitions | 562 |
+| 61 | [[Constructed-Emotion-Theory-—-Deep-Dive|Constructed Emotion Theory — Deep Dive]] | — | — | 6.3 Expansion Topics | 608 |
 | 62 | [[Stoic Therapy of the Passions — Complete System]] | — | — | 6.3 Expansion Topics | 611 |
 | 63 | [[Emotional Granularity Training Protocols]] | — | — | 6.3 Expansion Topics | 614 |
-| 64 | [[Affect-as-Information in Decision Making]] | — | — | 6.3 Expansion Topics | 617 |
+| 64 | [[Affect-as-Information-in-Decision-Making|Affect-as-Information in Decision Making]] | — | — | 6.3 Expansion Topics | 617 |
 | 65 | [[Nussbaum's Upheavals of Thought — Key Arguments]] | — | — | 6.3 Expansion Topics | 620 |
 | 66 | [[Moral Emotions and Ethical Perception]] | — | — | 6.3 Expansion Topics | 623 |
 
@@ -590,19 +590,19 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Affect-as-Information-Theory|Affect-as-Information Theory]]
-- [[Affect-as-Information in Decision Making]]
-- [[Affective Prediction Errors]]
+- [[Affect-as-Information-in-Decision-Making|Affect-as-Information in Decision Making]]
+- [[Affective-Prediction-Errors|Affective Prediction Errors]]
 - [[Affective-Realism|Affective Realism]]
-- [[Anil Seth]]
-- [[Antonio Damasio]]
-- [[Appraisal Accuracy]]
+- [[Anil-Seth|Anil Seth]]
+- [[Antonio-Damasio|Antonio Damasio]]
+- [[Appraisal-Accuracy|Appraisal Accuracy]]
 - [[Appraisal-Theory|Appraisal Theory]]
-- [[Barrett and Wormwood]]
+- [[Barrett-and-Wormwood|Barrett and Wormwood]]
 - [[Chrysippus]]
 - [[Cicero]]
-- [[Classical View of Emotion]]
-- [[Component Process Model]]
-- [[Constructed Emotion Theory — Deep Dive]]
+- [[Classical-View-of-Emotion|Classical View of Emotion]]
+- [[Component-Process-Model|Component Process Model]]
+- [[Constructed-Emotion-Theory-—-Deep-Dive|Constructed Emotion Theory — Deep Dive]]
 - [[Damasio]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Emotion Concepts]]
@@ -610,21 +610,21 @@ extraction_summary:
 - [[Emotion Regulation]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
-- [[Emotional Intelligence]]
+- [[Emotional-Intelligence|Emotional Intelligence]]
 - [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Eupatheia]]
 - [[Galen]]
-- [[Gerald Clore]]
+- [[Gerald-Clore|Gerald Clore]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Kahneman]]
 - [[Klaus Scherer]]
-- [[Lisa Feldman Barrett]]
+- [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Margaret Graver]]
 - [[Martha Nussbaum]]
 - [[Moral Emotions and Ethical Perception]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Norbert Schwarz]]
+- [[Norbert-Schwarz|Norbert Schwarz]]
 - [[Nussbaum's Upheavals of Thought — Key Arguments]]
 - [[O'Toole, Bovard-Abbo, and Weightman]]
 - [[Pathē]]
@@ -632,11 +632,11 @@ extraction_summary:
 - [[Propatheiai]]
 - [[Prosoche]]
 - [[Richard Lazarus]]
-- [[Schwarz and Clore]]
+- [[Schwarz-and-Clore|Schwarz and Clore]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
 - [[Siemer, Mauss, and Gross]]
-- [[Somatic Markers]]
+- [[Somatic-Markers|Somatic Markers]]
 - [[Stanovich]]
 - [[Stoic Therapy of the Passions — Complete System]]
 - [[System 1 Governance]]
@@ -656,7 +656,7 @@ extraction_summary:
 
 #### Related
 
-- [[Emotional Intelligence]]
+- [[Emotional-Intelligence|Emotional Intelligence]]
 - [[Affective Neuroscience]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Mindfulness and Affect Regulation]]
@@ -665,7 +665,7 @@ extraction_summary:
 
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 
 ---

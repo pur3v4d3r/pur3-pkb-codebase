@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,19 +85,27 @@ see-also:
   - "[[Critical-Thinking-Ethics|Critical Thinking Ethics]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]"
-  - "[[fallibilism|fallibilism]]"
+  - "[[Fallibilism|fallibilism]]"
   - "[[epistemology|epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
-  - "[[critical-thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Descartes|Descartes]]"
   - "[[scepticism|scepticism]]"
   - "[[epistemic-relativism|epistemic relativism]]"
-  - "[[fallibilism|fallibilism]]"
+  - "[[Fallibilism|fallibilism]]"
   - "[[epistemology|epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
-  - "[[critical-thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
+  - "[[Descartes|Descartes]]"
+  - "[[scepticism|scepticism]]"
+  - "[[epistemic-relativism|epistemic relativism]]"
+  - "[[Fallibilism|fallibilism]]"
+  - "[[epistemology|epistemology]]"
+  - "[[philosophy-of-science|philosophy of science]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Descartes|Descartes]]"
   - "[[scepticism|scepticism]]"
   - "[[epistemic-relativism|epistemic relativism]]"
@@ -216,7 +224,7 @@ importance: high
 [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Critical-Thinking-Ethics|Critical Thinking Ethics]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[Socratic-Method-Elenchus|Elenchus]] · [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]] · [[Epistemic-Cowardice|Epistemic Cowardice]] · [[Epistemic-Justice|Epistemic Justice]] · [[Epistemic-Status|Epistemic Status]]
 
 **Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
-[[fallibilism|fallibilism]] * [[epistemology|epistemology]] * [[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[pedagogy|pedagogy]] * [[Descartes|Descartes]] * [[scepticism|scepticism]] * [[epistemic-relativism|epistemic relativism]] * [[cognitive-psychology|cognitive psychology]] * [[Socrates|Socrates]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]]
+[[Fallibilism|fallibilism]] * [[epistemology|epistemology]] * [[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[Pedagogy|pedagogy]] * [[Descartes|Descartes]] * [[scepticism|scepticism]] * [[epistemic-relativism|epistemic relativism]] * [[Cognitive-Psychology|cognitive psychology]] * [[Socrates|Socrates]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]]
 
 **Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
 - [[Fallibilism|Fallibilism]]
@@ -233,7 +241,7 @@ importance: high
 - [[Deliberate-Practice|Deliberate Practice]]
 
 **Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
-[[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[epistemic-holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]]
+[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Cognitive-Psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[Falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]]
 
 **Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
 - [[Fallibilism|Fallibilism]]
@@ -248,6 +256,26 @@ importance: high
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Deliberate-Practice|Deliberate Practice]]
+
+**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
+[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Cognitive-Psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]] * [[Stewart-Cohen|Stewart Cohen]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+
+
 
 
 

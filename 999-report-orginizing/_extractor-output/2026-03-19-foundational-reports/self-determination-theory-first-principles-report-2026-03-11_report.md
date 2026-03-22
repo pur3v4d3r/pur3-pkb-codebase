@@ -365,15 +365,15 @@ extraction_summary:
 > 
 > This first-principles analysis of [[Self-Determination-Theory|Self-Determination Theory]] connects to existing knowledge in your PKB:
 > 
-> - **[[Intrinsic vs Extrinsic Motivation]]** — The reconstruction's recovery of the motivation quality dimension from axioms alone strengthens the empirical case for distinguishing intrinsic and extrinsic motivation while releasing that distinction from the SDT philosophical framework. Notes on this node should be updated to reflect that the distinction rests on Axiom 2 (motivation quality matters independently of quantity) rather than on the innateness of basic needs.
+> - **[[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]** — The reconstruction's recovery of the motivation quality dimension from axioms alone strengthens the empirical case for distinguishing intrinsic and extrinsic motivation while releasing that distinction from the SDT philosophical framework. Notes on this node should be updated to reflect that the distinction rests on Axiom 2 (motivation quality matters independently of quantity) rather than on the innateness of basic needs.
 > 
-> - **[[Humanistic Psychology]]** — SDT's philosophical debt to Rogers' actualising tendency and Maslow's needs hierarchy is substantial. The dissolution of SDT's innateness claim suggests that this humanistic inheritance should be treated as a useful generative heuristic in SDT's development, not as evidential support for its theoretical claims. The humanistic tradition's empirical weaknesses are partly inherited by SDT's philosophical architecture.
+> - **[[Humanistic-Psychology|Humanistic Psychology]]** — SDT's philosophical debt to Rogers' actualising tendency and Maslow's needs hierarchy is substantial. The dissolution of SDT's innateness claim suggests that this humanistic inheritance should be treated as a useful generative heuristic in SDT's development, not as evidential support for its theoretical claims. The humanistic tradition's empirical weaknesses are partly inherited by SDT's philosophical architecture.
 > 
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.
 > 
-> - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.
+> - **[[Philosophy-of-Agency|Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]], [[Bratman's-Planning-Theory|Bratman's Planning Theory]], and [[Korsgaard's-Self-Constitution|Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.
 > 
-> - **[[Cross-Cultural Psychology]]** — Markus & Kitayama's independent/interdependent self-construal framework is the most important theoretical lens for understanding what cross-cultural SDT data actually shows. The cultural variation in autonomy phenomenology documented there is more theoretically tractable through the relational-emergent autonomy framework than through SDT's standard universality claim.
+> - **[[Cross-Cultural-Psychology|Cross-Cultural Psychology]]** — Markus & Kitayama's independent/interdependent self-construal framework is the most important theoretical lens for understanding what cross-cultural SDT data actually shows. The cultural variation in autonomy phenomenology documented there is more theoretically tractable through the relational-emergent autonomy framework than through SDT's standard universality claim.
 > 
 > The pattern of connections reveals that SDT sits at the junction of empirical psychology and philosophical anthropology, and much of the confusion in its reception results from inadequate attention to the different epistemic requirements of each domain. The reconstruction treats these as separable enterprises, preserving the empirical contribution while releasing the unsupported philosophical claims.
 
@@ -557,56 +557,56 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Abraham Maslow]]
+- [[Abraham-Maslow|Abraham Maslow]]
 - [[Autonomy]]
-- [[Basic Psychological Needs Theory]]
-- [[Bratman's Planning Theory]]
-- [[Carl Rogers]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
+- [[Bratman's-Planning-Theory|Bratman's Planning Theory]]
+- [[Carl-Rogers|Carl Rogers]]
 - [[Challenge-Skill-Balance|Challenge-Skill Balance]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Competence]]
-- [[Cross-Cultural Psychology]]
+- [[Cross-Cultural-Psychology|Cross-Cultural Psychology]]
 - [[Effectance Motivation]]
-- [[Flow Theory]]
-- [[Frankfurt's Hierarchy of Desires]]
+- [[Flow-Theory|Flow Theory]]
+- [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Humanistic Psychology]]
-- [[Intrinsic vs Extrinsic Motivation]]
-- [[Korsgaard's Self-Constitution]]
-- [[Organismic Integration]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Korsgaard's-Self-Constitution|Korsgaard's Self-Constitution]]
+- [[Organismic-Integration|Organismic Integration]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Philosophy of Agency]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
 - [[Relatedness]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory Foundational Report]]
-- [[Socratic Dialogue on Autonomy and Self-Determination]]
+- [[Self-Determination-Theory-Foundational-Report|Self-Determination Theory Foundational Report]]
+- [[Socratic-Dialogue-on-Autonomy-and-Self-Determination|Socratic Dialogue on Autonomy and Self-Determination]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Basic Psychological Needs Theory]] | — | — | The Standard Account | 137 |
+| 1 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | The Standard Account | 137 |
 | 2 | [[Autonomy]] | — | — | The Standard Account | 137 |
 | 3 | [[Competence]] | — | — | The Standard Account | 137 |
 | 4 | [[Relatedness]] | — | — | The Standard Account | 137 |
 | 5 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Standard Account | 137 |
 | 6 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Standard Account | 137 |
-| 7 | [[Organismic Integration]] | — | — | The Standard Narrative | 144 |
-| 8 | [[Carl Rogers]] | — | — | The Standard Narrative | 144 |
-| 9 | [[Abraham Maslow]] | — | — | The Standard Narrative | 144 |
-| 10 | [[Self-Determination Theory Foundational Report]] | — | — | Relationship to Other Report Types | 418 |
-| 11 | [[Socratic Dialogue on Autonomy and Self-Determination]] | — | — | Relationship to Other Report Types | 420 |
+| 7 | [[Organismic-Integration|Organismic Integration]] | — | — | The Standard Narrative | 144 |
+| 8 | [[Carl-Rogers|Carl Rogers]] | — | — | The Standard Narrative | 144 |
+| 9 | [[Abraham-Maslow|Abraham Maslow]] | — | — | The Standard Narrative | 144 |
+| 10 | [[Self-Determination-Theory-Foundational-Report|Self-Determination Theory Foundational Report]] | — | — | Relationship to Other Report Types | 418 |
+| 11 | [[Socratic-Dialogue-on-Autonomy-and-Self-Determination|Socratic Dialogue on Autonomy and Self-Determination]] | — | — | Relationship to Other Report Types | 420 |
 | 12 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Relationship to Other Report Types | 425 |
-| 13 | [[Intrinsic vs Extrinsic Motivation]] | — | — | Relationship to Other Report Types | 427 |
-| 14 | [[Humanistic Psychology]] | — | — | Relationship to Other Report Types | 429 |
+| 13 | [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]] | — | — | Relationship to Other Report Types | 427 |
+| 14 | [[Humanistic-Psychology|Humanistic Psychology]] | — | — | Relationship to Other Report Types | 429 |
 | 15 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Relationship to Other Report Types | 431 |
-| 16 | [[Philosophy of Agency]] | — | — | Relationship to Other Report Types | 433 |
-| 17 | [[Frankfurt's Hierarchy of Desires]] | — | — | Relationship to Other Report Types | 433 |
-| 18 | [[Bratman's Planning Theory]] | — | — | Relationship to Other Report Types | 433 |
-| 19 | [[Korsgaard's Self-Constitution]] | — | — | Relationship to Other Report Types | 433 |
-| 20 | [[Cross-Cultural Psychology]] | — | — | Relationship to Other Report Types | 435 |
+| 16 | [[Philosophy-of-Agency|Philosophy of Agency]] | — | — | Relationship to Other Report Types | 433 |
+| 17 | [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]] | — | — | Relationship to Other Report Types | 433 |
+| 18 | [[Bratman's-Planning-Theory|Bratman's Planning Theory]] | — | — | Relationship to Other Report Types | 433 |
+| 19 | [[Korsgaard's-Self-Constitution|Korsgaard's Self-Constitution]] | — | — | Relationship to Other Report Types | 433 |
+| 20 | [[Cross-Cultural-Psychology|Cross-Cultural Psychology]] | — | — | Relationship to Other Report Types | 435 |
 | 21 | [[Effectance Motivation]] | — | — | The Invitation to Reconstruct Further | 441 |
-| 22 | [[Flow Theory]] | — | — | The Invitation to Reconstruct Further | 441 |
+| 22 | [[Flow-Theory|Flow Theory]] | — | — | The Invitation to Reconstruct Further | 441 |
 | 23 | [[Challenge-Skill-Balance|Challenge-Skill Balance]] | — | — | The Invitation to Reconstruct Further | 441 |
 
 ---
@@ -644,52 +644,52 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Abraham Maslow]]
+- [[Abraham-Maslow|Abraham Maslow]]
 - [[Autonomy]]
-- [[Basic Psychological Needs Theory]]
-- [[Bratman's Planning Theory]]
-- [[Carl Rogers]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
+- [[Bratman's-Planning-Theory|Bratman's Planning Theory]]
+- [[Carl-Rogers|Carl Rogers]]
 - [[Challenge-Skill-Balance|Challenge-Skill Balance]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Competence]]
-- [[Cross-Cultural Psychology]]
+- [[Cross-Cultural-Psychology|Cross-Cultural Psychology]]
 - [[Effectance Motivation]]
-- [[Flow Theory]]
-- [[Frankfurt's Hierarchy of Desires]]
+- [[Flow-Theory|Flow Theory]]
+- [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Humanistic Psychology]]
-- [[Intrinsic vs Extrinsic Motivation]]
-- [[Korsgaard's Self-Constitution]]
-- [[Organismic Integration]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Korsgaard's-Self-Constitution|Korsgaard's Self-Constitution]]
+- [[Organismic-Integration|Organismic Integration]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Philosophy of Agency]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
 - [[Relatedness]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory Foundational Report]]
-- [[Socratic Dialogue on Autonomy and Self-Determination]]
+- [[Self-Determination-Theory-Foundational-Report|Self-Determination Theory Foundational Report]]
+- [[Socratic-Dialogue-on-Autonomy-and-Self-Determination|Socratic Dialogue on Autonomy and Self-Determination]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
 - [[Motivational Psychology Foundations]]
-- [[Humanistic Psychology]]
-- [[Philosophy of Agency]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
 
 #### Related Concepts
 
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Internalization-Continuum|Internalization Continuum]]
 - [[Autonomy]]
 - [[Agency]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
-- [[Humanistic Psychology]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
 - [[Cross-Cultural Universality]]
-- [[Goal Contents Theory]]
+- [[Goal-Contents-Theory|Goal Contents Theory]]
 
 #### Link Related
 

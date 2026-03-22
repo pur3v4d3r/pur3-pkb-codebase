@@ -346,7 +346,7 @@ extraction_summary:
 #### 7. [HELPFUL-TIP] Reducing Capture Friction *(Line 471)*
 
 > [!helpful-tip] Reducing Capture Friction
-> <span style='color: #72FFF1;'>Configure capture tools to require zero formatting decisions during intake</span>. Template structures, automatic tagging, and default destinations eliminate [[Extraneous Cognitive Load]] that would otherwise slow capture velocity. Every formatting choice during capture is cognitive effort diverted from understanding.
+> <span style='color: #72FFF1;'>Configure capture tools to require zero formatting decisions during intake</span>. Template structures, automatic tagging, and default destinations eliminate [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] that would otherwise slow capture velocity. Every formatting choice during capture is cognitive effort diverted from understanding.
 
 #### 8. [METHODOLOGY-AND-SOURCES] Layer 2 Processing Heuristic *(Line 492)*
 
@@ -464,7 +464,7 @@ extraction_summary:
 - [[Attention as Limited Resource]]
 - [[Automation Strategies]]
 - [[Bidirectional Linking]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Building a Second Brain]]
 - [[Chunking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -480,7 +480,7 @@ extraction_summary:
 - [[Evergreen Notes]]
 - [[Excalidraw]]
 - [[Extended Mind]]
-- [[Extraneous Cognitive Load]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Forgetting-Curve|Forgetting Curve]]
 - [[Forgetting Curves]]
 - [[Formal Knowledge Representation]]
@@ -500,13 +500,13 @@ extraction_summary:
 - [[Information Theory Basics]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Knowledge Engineering]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Architecture]]
 - [[Knowledge Representation]]
 - [[Learning Science Applications]]
-- [[Levels of Processing Theory]]
+- [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Logseq]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Metacognitive Strategies]]
 - [[Network Science]]
 - [[Obsidian]]
@@ -535,7 +535,7 @@ extraction_summary:
 - [[Spreading Activation Theory]]
 - [[Sweller Instructional Design Principles]]
 - [[Sweller's Cognitive Load Theory]]
-- [[Template Engineering]]
+- [[Template-Engineering|Template Engineering]]
 - [[Templater]]
 - [[Testing-Effect|Testing Effect]]
 - [[The Spacing Effect and Optimal Review Scheduling]]
@@ -561,7 +561,7 @@ extraction_summary:
 | 6 | [[Atomic-Notes|Atomic Notes]] | — | — | Progressive Summarization and Increme... | 410 |
 | 7 | [[Knowledge Graph Architecture]] | — | — | Progressive Summarization and Increme... | 410 |
 | 8 | [[Working Memory Constraints]] | — | — | 📚 Progressive Summarization and Incre... | 417 |
-| 9 | [[Levels of Processing Theory]] | — | — | Depth of Processing Theory (Craik & L... | 423 |
+| 9 | [[Levels-of-Processing-Theory|Levels of Processing Theory]] | — | — | Depth of Processing Theory (Craik & L... | 423 |
 | 10 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Working Memory Constraints and Extern... | 442 |
 | 11 | [[Working-Memory|Working Memory]] | — | — | Working Memory Constraints and Extern... | 442 |
 | 12 | [[Cognitive Overload]] | — | — | Working Memory Constraints and Extern... | 442 |
@@ -571,13 +571,13 @@ extraction_summary:
 | 16 | [[Adaptive Memory Theory]] | — | — | The Forgetting Curve and Just-in-Time... | 457 |
 | 17 | [[GTD Methodology]] | Getting Things Done's | — | Layer 0: Strategic Capture (Pre-Summa... | 467 |
 | 18 | [[Zettelkasten]] | — | — | Layer 0: Strategic Capture (Pre-Summa... | 467 |
-| 19 | [[Extraneous Cognitive Load]] | — | — | Layer 0: Strategic Capture (Pre-Summa... | 472 |
+| 19 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | Layer 0: Strategic Capture (Pre-Summa... | 472 |
 | 20 | [[Zeigarnik Effect]] | — | — | Layer 1: Initial Notes (Raw Capture) | 482 |
 | 21 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Layer 2: Bold Passages (First Compres... | 497 |
 | 22 | [[Comprehension]] | — | — | Layer 3: Highlighted Passages (Second... | 520 |
 | 23 | [[Analysis]] | — | — | Layer 3: Highlighted Passages (Second... | 520 |
-| 24 | [[Bloom's Taxonomy]] | — | — | Layer 3: Highlighted Passages (Second... | 520 |
-| 25 | [[Extraneous Cognitive Load]] | — | — | Layer 3: Highlighted Passages (Second... | 522 |
+| 24 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Layer 3: Highlighted Passages (Second... | 520 |
+| 25 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | Layer 3: Highlighted Passages (Second... | 522 |
 | 26 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | germane load | — | Layer 3: Highlighted Passages (Second... | 522 |
 | 27 | [[Testing-Effect|Testing Effect]] | — | — | Layer 4: Executive Summary (Synthesis... | 542 |
 | 28 | [[Retrieval-Practice|Retrieval Practice]] | retrieval practice | — | Layer 4: Executive Summary (Synthesis... | 542 |
@@ -591,10 +591,10 @@ extraction_summary:
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Mechanisms of Formalization | 576 |
 | 37 | [[Chunking]] | — | — | Cognitive Mechanisms of Formalization | 588 |
 | 38 | [[Scaffolding]] | — | — | Cognitive Mechanisms of Formalization | 588 |
-| 39 | [[Bloom's Taxonomy]] | — | — | Cognitive Mechanisms of Formalization | 590 |
+| 39 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Cognitive Mechanisms of Formalization | 590 |
 | 40 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | appropriation | — | Formalization as Semantic Translation | 596 |
 | 41 | [[Atomic-Notes|Atomic Notes]] | — | — | Bidirectional Linking as Formalizatio... | 612 |
-| 42 | [[Knowledge Graph]] | — | — | Bidirectional Linking as Formalizatio... | 612 |
+| 42 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Bidirectional Linking as Formalizatio... | 612 |
 | 43 | [[Obsidian]] | — | — | Bidirectional Linking as Formalizatio... | 614 |
 | 44 | [[Roam Research]] | — | — | Bidirectional Linking as Formalizatio... | 614 |
 | 45 | [[Logseq]] | — | — | Bidirectional Linking as Formalizatio... | 614 |
@@ -603,7 +603,7 @@ extraction_summary:
 | 48 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | Bidirectional Linking as Formalizatio... | 619 |
 | 49 | [[Schema-Theory|Schema Theory]] | — | — | Bidirectional Linking as Formalizatio... | 619 |
 | 50 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | Bidirectional Linking as Formalizatio... | 620 |
-| 51 | [[Extraneous Cognitive Load]] | — | — | Bidirectional Linking as Formalizatio... | 620 |
+| 51 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | Bidirectional Linking as Formalizatio... | 620 |
 | 52 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | Bidirectional Linking as Formalizatio... | 621 |
 | 53 | [[Sweller Instructional Design Principles]] | — | — | Bidirectional Linking as Formalizatio... | 621 |
 | 54 | [[Semantic-Network|Semantic Network]] | — | — | Bidirectional Linking as Formalizatio... | 625 |
@@ -650,7 +650,7 @@ extraction_summary:
 | 95 | [[Spaced Repetition System]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1004 |
 | 96 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
 | 97 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
-| 98 | [[Memory Consolidation]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
+| 98 | [[Memory-Consolidation|Memory Consolidation]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
 | 99 | [[Forgetting Curves]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
 | 100 | [[Learning Science Applications]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
 | 101 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1012 |
@@ -678,7 +678,7 @@ extraction_summary:
 | 123 | [[Working-Memory|Working Memory]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1034 |
 | 124 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1034 |
 | 125 | [[Automation Strategies]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1034 |
-| 126 | [[Template Engineering]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1034 |
+| 126 | [[Template-Engineering|Template Engineering]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1034 |
 | 127 | [[Workflow Optimization]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1034 |
 | 128 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1038 |
 | 129 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 5. **[[Cognitive Load Theory and Inst... | 1038 |
@@ -1363,7 +1363,7 @@ for (let letter of sortedLetters) {
 - [[Attention as Limited Resource]]
 - [[Automation Strategies]]
 - [[Bidirectional Linking]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Building a Second Brain]]
 - [[Chunking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -1379,7 +1379,7 @@ for (let letter of sortedLetters) {
 - [[Evergreen Notes]]
 - [[Excalidraw]]
 - [[Extended Mind]]
-- [[Extraneous Cognitive Load]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Forgetting-Curve|Forgetting Curve]]
 - [[Forgetting Curves]]
 - [[Formal Knowledge Representation]]
@@ -1399,13 +1399,13 @@ for (let letter of sortedLetters) {
 - [[Information Theory Basics]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Knowledge Engineering]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Architecture]]
 - [[Knowledge Representation]]
 - [[Learning Science Applications]]
-- [[Levels of Processing Theory]]
+- [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Logseq]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Metacognitive Strategies]]
 - [[Network Science]]
 - [[Obsidian]]
@@ -1434,7 +1434,7 @@ for (let letter of sortedLetters) {
 - [[Spreading Activation Theory]]
 - [[Sweller Instructional Design Principles]]
 - [[Sweller's Cognitive Load Theory]]
-- [[Template Engineering]]
+- [[Template-Engineering|Template Engineering]]
 - [[Templater]]
 - [[Testing-Effect|Testing Effect]]
 - [[The Spacing Effect and Optimal Review Scheduling]]

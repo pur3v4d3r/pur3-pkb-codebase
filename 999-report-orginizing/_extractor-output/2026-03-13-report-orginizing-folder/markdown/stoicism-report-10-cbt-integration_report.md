@@ -163,7 +163,7 @@ extraction_summary:
 > → Next: *Series Complete*
 > 
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 #### 3. [CONNECTION-IDEAS] Untitled *(Line 282)*
 
@@ -207,7 +207,7 @@ extraction_summary:
 > [!practice] Untitled
 > **Shared Practice: The Thought Record as Stoic Diary**
 > 
-> The CBT thought record and [[Marcus Aurelius]]'s journaling practice in the *Meditations* are structurally identical tools serving the same purpose. Both involve: (1) noticing and recording a disturbing event, (2) identifying the automatic thought or impression attached to it, (3) examining that thought's accuracy, and (4) generating a more accurate or more adaptive appraisal. Marcus Aurelius practiced this daily in what became the *Meditations*. Beck formalized it as the "Daily Thought Record" — one of the most widely used tools in clinical CBT practice. The practitioner who uses CBT thought records as a vehicle for Stoic philosophical examination has access to both traditions simultaneously.
+> The CBT thought record and [[Marcus-Aurelius|Marcus Aurelius]]'s journaling practice in the *Meditations* are structurally identical tools serving the same purpose. Both involve: (1) noticing and recording a disturbing event, (2) identifying the automatic thought or impression attached to it, (3) examining that thought's accuracy, and (4) generating a more accurate or more adaptive appraisal. Marcus Aurelius practiced this daily in what became the *Meditations*. Beck formalized it as the "Daily Thought Record" — one of the most widely used tools in clinical CBT practice. The practitioner who uses CBT thought records as a vehicle for Stoic philosophical examination has access to both traditions simultaneously.
 
 #### 11. [KEY-INSIGHT] Untitled *(Line 392)*
 
@@ -282,7 +282,7 @@ extraction_summary:
 > 
 > **Duration**: 10–15 minutes
 > **Frequency**: Daily
-> **Stoic Grounding**: The morning meditation prescribed by [[Epictetus]] in the *Discourses* and practiced by [[Marcus Aurelius]] — anticipating the day's challenges, reviewing the principles that will govern responses
+> **Stoic Grounding**: The morning meditation prescribed by [[Epictetus]] in the *Discourses* and practiced by [[Marcus-Aurelius|Marcus Aurelius]] — anticipating the day's challenges, reviewing the principles that will govern responses
 > **CBT Grounding**: Cognitive preparation and anticipatory coping, adapted from Beck's "planning the day" protocol
 > 
 > **Protocol**:
@@ -470,7 +470,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Joseph Wolpe]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Three Epictetan Disciplines]]
@@ -480,7 +480,7 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 - [[The Stoic Philosopher as Physician of the Soul — Seneca's Therapeutic Letters]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 ### All Occurrences
 
@@ -491,7 +491,7 @@ extraction_summary:
 | 3 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 4 | [[Prohairesis]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 5 | [[Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
-| 6 | [[Virtue Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
+| 6 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 7 | [[Eudaimonia]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 8 | [[Albert Ellis]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
 | 9 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
@@ -502,18 +502,18 @@ extraction_summary:
 | 14 | [[Cognitive Distortions]] | — | — | Second Wave: The Cognitive Revolution... | 348 |
 | 15 | [[Steven Hayes]] | — | — | Third Wave: Acceptance and Commitment... | 355 |
 | 16 | [[Cognitive Defusion]] | — | — | Third Wave: Acceptance and Commitment... | 359 |
-| 17 | [[Marcus Aurelius]] | — | — | Third Wave: Acceptance and Commitment... | 359 |
-| 18 | [[Marcus Aurelius]] | — | — | Convergence 2: The Identification and... | 386 |
+| 17 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Third Wave: Acceptance and Commitment... | 359 |
+| 18 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Convergence 2: The Identification and... | 386 |
 | 19 | [[Eudaimonia]] | — | — | Convergence 5: Values Orientation in ... | 403 |
 | 20 | [[Logos]] | — | — | Divergence 2: Cosmology — The Stoic L... | 429 |
-| 21 | [[Marcus Aurelius]] | — | — | Level 2: The Teleological Complement ... | 486 |
+| 21 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Level 2: The Teleological Complement ... | 486 |
 | 22 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Level 3: The Cosmological Dimension —... | 499 |
 | 23 | [[Epictetus]] | — | — | Ellis's Explicit Acknowledgment | 517 |
-| 24 | [[Marcus Aurelius]] | — | — | Ellis's Explicit Acknowledgment | 517 |
+| 24 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Ellis's Explicit Acknowledgment | 517 |
 | 25 | [[Seneca]] | — | — | Ellis's Explicit Acknowledgment | 517 |
 | 26 | [[Donald Robertson]] | — | — | Donald Robertson's Synthesis | 530 |
 | 27 | [[Epictetus]] | — | — | Part 8: Practical Implications — A Co... | 543 |
-| 28 | [[Marcus Aurelius]] | — | — | Part 8: Practical Implications — A Co... | 543 |
+| 28 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 8: Practical Implications — A Co... | 543 |
 | 29 | [[Seneca]] | — | — | Part 8: Practical Implications — A Co... | 560 |
 | 30 | [[Epictetus]] | — | — | Part 8: Practical Implications — A Co... | 560 |
 | 31 | [[Donald Robertson and Stoic CBT — A Clinical Synthesis]] | — | — | Expansion Topics for PKB | 701 |
@@ -572,7 +572,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Joseph Wolpe]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Three Epictetan Disciplines]]
@@ -582,7 +582,7 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 - [[The Stoic Philosopher as Physician of the Soul — Seneca's Therapeutic Letters]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 ### Frontmatter Relationships
 
@@ -597,20 +597,20 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Albert Ellis]]
 - [[Aaron Beck]]
 - [[Steven Hayes]]
 - [[Donald Robertson]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
 - [[Preferred Indifferents]]
@@ -624,7 +624,7 @@ extraction_summary:
 
 - [[Philosophy MOC]]
 - [[Psychology MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[History of Psychotherapy]]
 - [[Contemplative Practice]]
 

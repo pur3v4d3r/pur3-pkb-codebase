@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -67,6 +67,14 @@ see-also:
   - "[[Jonathan-Evans|Jonathan Evans]]"
   - "[[Keith-Stanovich|Keith Stanovich]]"
   - "[[Stanovich]]"
+  - "[[Examined-Life|Examined Life]]"
+  - "[[System-1|System 1]]"
+  - "[[Intellectual-Virtues|Intellectual Virtues]]"
+  - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Jonathan-Evans|Jonathan Evans]]"
+  - "[[Keith-Stanovich|Keith Stanovich]]"
+  - "[[Stanovich|Stanovich]]"
   - "[[Examined-Life|Examined Life]]"
   - "[[System-1|System 1]]"
   - "[[Intellectual-Virtues|Intellectual Virtues]]"
@@ -145,4 +153,8 @@ importance: high
 
 **Related concepts** *(from report-06-taming-system-1.md)*:
 [[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Working-Memory|Working Memory]]
+
+**Related concepts** *(from report-06-taming-system-1.md)*:
+[[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Working-Memory|Working Memory]]
+
 

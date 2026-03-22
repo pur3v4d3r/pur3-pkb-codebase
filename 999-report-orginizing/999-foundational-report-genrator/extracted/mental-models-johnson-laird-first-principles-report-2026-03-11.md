@@ -21,7 +21,7 @@ secondary_domains:
   - computational-cognition
   - epistemology
 related_concepts:
-  - "[[Mental Models Theory]]"
+  - "[[Mental-Models-Theory|Mental Models Theory]]"
   - "[[Johnson-Laird]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Propositional-Representation|Propositional Representation]]"
@@ -70,7 +70,7 @@ sections:
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[First Principles Report Generator v1.0]]"
+generation-prompt: "[[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]"
 based_on:
   - "Johnson-Laird, P.N. (1983). Mental Models. Harvard University Press."
   - "Johnson-Laird, P.N. & Byrne, R.M.J. (1991). Deduction. Erlbaum."
@@ -84,13 +84,13 @@ based_on:
 prerequisites:
   - "[[Philosophy of Mental Representation]]"
   - "[[Propositional Logic Basics]]"
-  - "[[Cognitive Psychology Foundations]]"
+  - "[[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]"
 builds_on:
   - "[[Craik (1943) The Nature of Explanation]]"
   - "[[Model-Theoretic Semantics]]"
 extends:
   - "[[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]"
-  - "[[Situation Models (van Dijk & Kintsch)]]"
+  - "[[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]"
 
 aliases:
   - "[[Mental Models Theory Report]]"
@@ -386,9 +386,9 @@ This analysis has its own limitations. The analyst is working at the level of be
 
 ### Relationship to Other Report Types
 
-A [[Foundational Report]] on mental models theory would provide what this analysis cannot: a comprehensive survey of the empirical landscape — the range of reasoning phenomena studied, the development of the theory from 1983 through its most recent formulations, the comparative performance of mental models against competing theories on benchmark tasks, and the broader intellectual context of the cognitive revolution. That report would be essential reading before the present deconstruction, and its absence here means that some readers may find this analysis insufficiently grounded in the empirical details.
+A [[Foundational-Report|Foundational Report]] on mental models theory would provide what this analysis cannot: a comprehensive survey of the empirical landscape — the range of reasoning phenomena studied, the development of the theory from 1983 through its most recent formulations, the comparative performance of mental models against competing theories on benchmark tasks, and the broader intellectual context of the cognitive revolution. That report would be essential reading before the present deconstruction, and its absence here means that some readers may find this analysis insufficiently grounded in the empirical details.
 
-A [[Socratic Dialogue Report]] on this topic would productively develop the tension identified in Phase V's normativity problem: one interlocutor could defend deductive validity as the appropriate standard for assessing reasoning quality; the other could defend ecological validity and pragmatic calibration as the right benchmark. That dialogue would not resolve the tension — it would develop it into its most productive form.
+A [[Socratic-Dialogue-Report|Socratic Dialogue Report]] on this topic would productively develop the tension identified in Phase V's normativity problem: one interlocutor could defend deductive validity as the appropriate standard for assessing reasoning quality; the other could defend ecological validity and pragmatic calibration as the right benchmark. That dialogue would not resolve the tension — it would develop it into its most productive form.
 
 > [!connections-and-links]
 > **Internal PKB Connections:**
@@ -399,9 +399,9 @@ A [[Socratic Dialogue Report]] on this topic would productively develop the tens
 >
 > - **[[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]** — Axiom 2 (representational construction) is the point of deepest overlap with schema theory. Both traditions hold that representation is active, elaborative, and prior-knowledge-dependent. The distinction is that schema theory specifies the schematic structure of prior knowledge; mental models theory specifies the model-like structure of the current-situation representation. Integrating these accounts yields the insight that schemas provide the *building blocks* for mental model construction — a synthesis that neither theory fully articulates on its own.
 >
-> - **[[Situation Models (van Dijk & Kintsch)]]** — The situation model framework in discourse comprehension is Johnson-Laird's closest intellectual neighbor, and arguably the most successful application of the mental models construct. Situation models have generated an extensive empirical literature (foregrounding effects, spatial and temporal situation dimensions) with cleaner operationalization than the reasoning literature. Insights from that literature — particularly that comprehenders construct multi-dimensional representations that are updated dynamically — should feed back into the reasoning literature more than they currently do.
+> - **[[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]** — The situation model framework in discourse comprehension is Johnson-Laird's closest intellectual neighbor, and arguably the most successful application of the mental models construct. Situation models have generated an extensive empirical literature (foregrounding effects, spatial and temporal situation dimensions) with cleaner operationalization than the reasoning literature. Insights from that literature — particularly that comprehenders construct multi-dimensional representations that are updated dynamically — should feed back into the reasoning literature more than they currently do.
 >
-> - **[[Oaksford & Chater Probabilistic Approach]]** — The probabilistic mental models framework represents the most developed alternative to the classical mental models account that still preserves the core insight. Their work on the Wason selection task and conditional reasoning shows that Bayesian inference over realistic priors predicts human data as well or better than mental models. The Phase IV insight about pragmatic construction bridges the two frameworks: probabilistic priors can be understood as encoding pragmatic assessments of what is likely and thus what is worth representing.
+> - **[[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]** — The probabilistic mental models framework represents the most developed alternative to the classical mental models account that still preserves the core insight. Their work on the Wason selection task and conditional reasoning shows that Bayesian inference over realistic priors predicts human data as well or better than mental models. The Phase IV insight about pragmatic construction bridges the two frameworks: probabilistic priors can be understood as encoding pragmatic assessments of what is likely and thus what is worth representing.
 >
 > The pattern across these connections suggests that mental models theory occupies a node in a larger theoretical space defined by *constructive*, *content-sensitive*, *resource-limited* cognition — a space that cannot be adequately characterized by any single theory but requires triangulation from multiple frameworks.
 
@@ -410,7 +410,7 @@ A [[Socratic Dialogue Report]] on this topic would productively develop the tens
 The most generative direction suggested by this analysis is the application of first-principles thinking to the *normativity* question: What is the appropriate standard for assessing human reasoning? If reasoning is pragmatically guided construction — building representations that are relevant rather than representations that are complete — then the standard of deductive validity may be systematically misapplied to everyday reasoning. What would a genuinely adequate normative standard look like? That question, pursued from first principles, would likely reveal that our inherited standards of rationality are as assumption-laden as the representational accounts this report has subjected to scrutiny.
 
 > [!warning] **Assumption Transfer Alert**
-> The assumption that the appropriate normative standard for human reasoning is classical deductive validity is commonly embedded in discussions of [[Reasoning Biases and Heuristics]], [[Bounded Rationality]], and [[Critical Thinking Pedagogy]]. Readers engaging with those nodes should be aware that this assumption does not survive first-principles scrutiny in the context of everyday pragmatic reasoning. See Phase II, Assumption 5 and Phase V for the full analysis.
+> The assumption that the appropriate normative standard for human reasoning is classical deductive validity is commonly embedded in discussions of [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]], [[Bounded-Rationality|Bounded Rationality]], and [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]]. Readers engaging with those nodes should be aware that this assumption does not survive first-principles scrutiny in the context of everyday pragmatic reasoning. See Phase II, Assumption 5 and Phase V for the full analysis.
 
 > [!reflection] **The Method and Its Limits**
 > 1. This report has changed the question. We arrived to analyze "what are mental models?" and left asking "what is the right normative standard for human reasoning?" That migration of the fundamental question is itself diagnostic — it suggests that the conventional framing concealed a deeper issue.
@@ -534,4 +534,4 @@ The most generative direction suggested by this analysis is the application of f
 > > **Related Topics**: Educational psychology, behavioral economics, human factors
 ---
 
-*Generated by [[First Principles Report Generator v1.0]] · 2026-03-11 · claude-sonnet-4-6*
+*Generated by [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] · 2026-03-11 · claude-sonnet-4-6*

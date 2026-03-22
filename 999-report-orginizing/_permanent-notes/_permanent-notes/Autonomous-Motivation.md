@@ -24,7 +24,7 @@ domain: educational-psychology
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,6 +47,14 @@ see-also:
   - "[[Intrinsic-Motivation]]"
   - "[[Mastery-Goals]]"
   - "[[Optimal-Challenge]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Basic-Psychological-Needs|Basic-Psychological-Needs]]"
+  - "[[Autonomy-Need|Autonomy-Need]]"
+  - "[[Competence-Need|Competence-Need]]"
+  - "[[Relatedness-Need|Relatedness-Need]]"
+  - "[[Undermining-Effect|Undermining-Effect]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
@@ -173,5 +181,13 @@ importance: medium
 
 **Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
 - [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Related concepts** *(from sdt-srl-comparative-synthesis-2026-03-19.md, self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Autonomous-Motivation|Autonomous-Motivation]] * [[Controlled-Motivation|Controlled-Motivation]] * [[Relative-Autonomy-Index|Relative-Autonomy-Index]] * [[Perceived-Locus-of-Causality|Perceived-Locus-of-Causality]] * [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]] * [[Autonomy-Orientation|Autonomy-Orientation]] * [[Control-Orientation|Control-Orientation]] * [[Self-Concordance-Model|Self-Concordance-Model]] * [[Achievement-Goal.md|Achievement-Goal.md]] * [[Need-Frustration|Need-Frustration]] * [[Internalization-Continuum|Internalization-Continuum]] * [[Autonomy-Supportive-Environment|Autonomy-Supportive-Environment]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+
 
 

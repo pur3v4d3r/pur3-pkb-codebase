@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,6 +81,14 @@ see-also:
   - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
   - "[[Allostatic-Load|Allostatic Load]]"
   - "[[Working-Memory|Working Memory]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
+  - "[[Fallibilism|Fallibilism]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
+  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
+  - "[[Intellectual-Virtue|Intellectual Virtue]]"
+  - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
+  - "[[Allostatic-Load|Allostatic Load]]"
+  - "[[Working-Memory|Working Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,7 +115,7 @@ importance: high
 # Physiological Metacognition  Formal Definition
 
 > [!definition] **Physiological Metacognition  Formal Definition**
-> **Physiological metacognition** is the capacity to monitor and regulate one's bodily states as a form of cognitive self-management — extending the metacognitive self-regulation described in [[Metacognitive Monitoring]] frameworks into the physiological domain. A practitioner with developed physiological metacognition can: (1) detect changes in their interoceptive state that signal changes in cognitive capacity; (2) identify the physiological sources of cognitive degradation (sleep deficit, elevated cortisol, metabolic disruption) with sufficient accuracy to address them; (3) distinguish between somatic markers that carry genuine epistemic information and allostatic noise that contaminates evaluative processing; and (4) manage their extended cognitive ecology — sleep, movement, stress regulation, and environmental design — with the same intentionality that Tier 1 brought to managing their epistemic processes.
+> **Physiological metacognition** is the capacity to monitor and regulate one's bodily states as a form of cognitive self-management — extending the metacognitive self-regulation described in [[Metacognitive-Monitoring]] frameworks into the physiological domain. A practitioner with developed physiological metacognition can: (1) detect changes in their interoceptive state that signal changes in cognitive capacity; (2) identify the physiological sources of cognitive degradation (sleep deficit, elevated cortisol, metabolic disruption) with sufficient accuracy to address them; (3) distinguish between somatic markers that carry genuine epistemic information and allostatic noise that contaminates evaluative processing; and (4) manage their extended cognitive ecology — sleep, movement, stress regulation, and environmental design — with the same intentionality that Tier 1 brought to managing their epistemic processes.
 
 ## Core Explanation
 
@@ -138,4 +146,8 @@ importance: high
 
 **Related concepts** *(from report-09-the-embodied-thinker.md)*:
 [[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Allostatic-Load|Allostatic Load]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Propatheiai|Propatheiai]]
+
+**Related concepts** *(from report-09-the-embodied-thinker.md)*:
+[[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Allostatic-Load|Allostatic Load]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Francisco-Varela|Francisco Varela]]
+
 

@@ -70,7 +70,7 @@ My approach involves developing a systematic framework that maps thinking proces
 
 ## Abstract
 
-[**Extended-Thinking-Architecture**:: Claude's systematic capability to perform explicit, visible reasoning through structured XML tags that enable multi-step deliberation, self-correction, and metacognitive reflection before generating final responses.] This comprehensive report examines the theoretical foundations, technical implementation, and practical applications of Claude's thinking tag system—a paradigm shift in large language model interaction that transforms opaque token generation into transparent cognitive processes. Through analysis of reasoning frameworks including [[Chain of Thought]], [[Tree of Thoughts]], [[Self-Consistency]], and [[Reflexion]], we establish how structured thinking tags serve as cognitive scaffolding that enhances reasoning quality, enables verification, and provides unprecedented visibility into AI decision-making processes. This research synthesizes prompt engineering best practices, architectural insights, and empirical patterns to equip practitioners with actionable frameworks for leveraging Claude's advanced reasoning capabilities.
+[**Extended-Thinking-Architecture**:: Claude's systematic capability to perform explicit, visible reasoning through structured XML tags that enable multi-step deliberation, self-correction, and metacognitive reflection before generating final responses.] This comprehensive report examines the theoretical foundations, technical implementation, and practical applications of Claude's thinking tag system—a paradigm shift in large language model interaction that transforms opaque token generation into transparent cognitive processes. Through analysis of reasoning frameworks including [[Chain-of-Thought|Chain of Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], [[Self-Consistency]], and [[Reflexion]], we establish how structured thinking tags serve as cognitive scaffolding that enhances reasoning quality, enables verification, and provides unprecedented visibility into AI decision-making processes. This research synthesizes prompt engineering best practices, architectural insights, and empirical patterns to equip practitioners with actionable frameworks for leveraging Claude's advanced reasoning capabilities.
 
 ---
 
@@ -140,7 +140,7 @@ graph TD
     style J fill:#ffe1e1
 ```
 
-[**Thinking-Response-Decoupling**:: The architectural property where reasoning processes (in thinking blocks) can iterate, backtrack, and self-correct without these revisions appearing in final responses, enabling higher-quality outputs through invisible refinement cycles.] This is fundamentally different from visible [[Chain of Thought]], where reasoning errors become part of the response and can mislead users.
+[**Thinking-Response-Decoupling**:: The architectural property where reasoning processes (in thinking blocks) can iterate, backtrack, and self-correct without these revisions appearing in final responses, enabling higher-quality outputs through invisible refinement cycles.] This is fundamentally different from visible [[Chain-of-Thought|Chain of Thought]], where reasoning errors become part of the response and can mislead users.
 
 > [!example] Practical Manifestation: Error Correction Without Visible Revisions
 > Consider a mathematical problem where Claude's initial approach in a thinking block proves incorrect:
@@ -204,7 +204,7 @@ However, classical CoT has limitations:
 
 ### 3.2 Tree of Thoughts (ToT): Exploring Multiple Reasoning Paths
 
-[[Tree of Thoughts]] ([[Yao et al. 2023]]) extends CoT by [**Branching-Reasoning-Search**:: Systematic exploration of multiple reasoning trajectories organized in a tree structure, where each node represents a partial solution state and edges represent reasoning steps, enabling backtracking from dead-ends and comparison across alternative approaches.] This is particularly valuable for problems with no obvious single solution path.
+[[Tree-of-Thoughts|Tree of Thoughts]] ([[Yao et al. 2023]]) extends CoT by [**Branching-Reasoning-Search**:: Systematic exploration of multiple reasoning trajectories organized in a tree structure, where each node represents a partial solution state and edges represent reasoning steps, enabling backtracking from dead-ends and comparison across alternative approaches.] This is particularly valuable for problems with no obvious single solution path.
 
 **ToT Core Concepts**:
 

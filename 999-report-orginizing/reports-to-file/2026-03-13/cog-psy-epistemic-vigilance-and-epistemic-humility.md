@@ -6,7 +6,7 @@
 
 **Status**: 🌱 Budding  
 **Confidence**: ⭐⭐⭐⭐☆ Established  
-**Domain**: [[Epistemic-Autonomy-—-Epistemology|Epistemology]], [[Cognitive-Science|Cognitive Science]], [[Virtue Ethics]], [[Social Psychology]]  
+**Domain**: [[Epistemic-Autonomy-—-Epistemology|Epistemology]], [[Cognitive-Science|Cognitive Science]], [[Virtue-Ethics|Virtue Ethics]], [[Social Psychology]]  
 **Prerequisites**: [[Basic Epistemology]], [[Cognitive Bias Fundamentals]], [[Evolutionary Psychology Principles]]  
 **Complexity**: ⭐⭐⭐⭐☆ Advanced
 
@@ -328,4 +328,4 @@ These questions represent not gaps to be quickly filled but enduring research pr
 
 **Status**: 🌱 Budding → 🌿 Developing  
 **Next Review**: After completing [[Argumentative Theory of Reasoning]] and [[Virtue-Epistemology|Virtue Epistemology]] entries  
-**Cross-Reference Update Needed**: [[Socratic-Method|Socratic Method]], [[Stoic Epistemology]], [[Paul-Elder Framework]], [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+**Cross-Reference Update Needed**: [[Socratic-Method|Socratic Method]], [[Stoic Epistemology]], [[Paul-Elder-Framework|Paul-Elder Framework]], [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]

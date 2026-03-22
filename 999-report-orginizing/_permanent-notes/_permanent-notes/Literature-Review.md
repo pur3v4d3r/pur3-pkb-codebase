@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Citation-Management|Citation Management]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Literature-Notes|Literature Notes]]"
+  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
+  - "[[PRISMA-Guidelines|PRISMA Guidelines]]"
+  - "[[Zettelkasten-Method|Zettelkasten Method]]"
+  - "[[Zotero|Zotero]]"
+  - "[[Obsidian|Obsidian]]"
+  - "[[Citation-Management|Citation Management]]"
+  - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
+  - "[[Literature-Notes|Literature Notes]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +114,7 @@ importance: medium
 # Literature Review
 
 > [!definition] **Literature Review**
-> A systematic literature review represents a comprehensive approach to identifying, selecting, and analyzing relevant literature on specific research questions through structured protocols that minimize bias while maximizing the validity and reliability of findings. Within [[Personal Knowledge Management]] systems, this definition expands to encompass not merely the production of a review document but the *integration of sources into a living knowledge network* where individual insights become reusable nodes supporting multiple future investigations.
+> A systematic literature review represents a comprehensive approach to identifying, selecting, and analyzing relevant literature on specific research questions through structured protocols that minimize bias while maximizing the validity and reliability of findings. Within [[Personal-Knowledge-Management]] systems, this definition expands to encompass not merely the production of a review document but the *integration of sources into a living knowledge network* where individual insights become reusable nodes supporting multiple future investigations.
 
 ## Core Explanation
 
@@ -160,4 +168,8 @@ importance: medium
 
 **Related concepts** *(from pkb-report-literature-review-methodology-for-pkb-research-202512040139.md)*:
 [[Personal-Knowledge-Base|Personal Knowledge Base]] * [[PRISMA-Guidelines|PRISMA Guidelines]] * [[Zettelkasten-Method|Zettelkasten Method]] * [[Citation-Management|Citation Management]] * [[Literature-Notes|Literature Notes]] * [[Permanent-Notes|Permanent Notes]] * [[Bidirectional-Linking|Bidirectional Linking]] * [[Systematic-Review-Protocols|Systematic Review Protocols]] * [[Critical-Appraisal-Tools|Critical Appraisal Tools]] * [[Search-Strategy-Development|Search Strategy Development]] * [[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]] * [[Source-Evaluation|Source Evaluation]] * [[Atomic-Notes|Atomic Notes]] * [[Graph-View|Graph View]] * [[Bibliographic-Metadata|Bibliographic Metadata]]
+
+**Related concepts** *(from pkb-report-literature-review-methodology-for-pkb-research-202512040139.md)*:
+[[Personal-Knowledge-Base|Personal Knowledge Base]] * [[PRISMA-Guidelines|PRISMA Guidelines]] * [[Zettelkasten-Method|Zettelkasten Method]] * [[Citation-Management|Citation Management]] * [[Literature-Notes|Literature Notes]] * [[Permanent-Notes|Permanent Notes]] * [[Bidirectional-Linking|Bidirectional Linking]] * [[Systematic-Review-Protocols|Systematic Review Protocols]] * [[Critical-Appraisal-Tools|Critical Appraisal Tools]] * [[Search-Strategy-Development|Search Strategy Development]] * [[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]] * [[Source-Evaluation|Source Evaluation]] * [[Atomic-Notes|Atomic Notes]] * [[Graph-View|Graph View]] * [[Bibliographic-Metadata|Bibliographic Metadata]]
+
 

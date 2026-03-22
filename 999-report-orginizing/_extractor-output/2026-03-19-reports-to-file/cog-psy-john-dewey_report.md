@@ -176,7 +176,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 296)*
 
 > [!abstract] Untitled
-> [[John-Dewey|John Dewey]] (1859–1952) stands as arguably the most influential American philosopher of education, whose systematic theorization of [[Reflective-Thinking|reflective thinking]] fundamentally shaped modern conceptions of [[Critical-Thinking|critical thinking]] and transformed educational practice worldwide. As a founding figure in [[pragmatism]] and functional psychology, Dewey developed a comprehensive philosophical and psychological framework that revolutionized understanding of how learning occurs, how thinking should be cultivated, and how democratic societies should educate their citizens. His establishment of the [[University of Chicago Laboratory School]] in 1896 provided the experimental ground for testing his theories, producing empirical evidence that challenged traditional educational orthodoxy and laid the foundation for the [[progressive education movement]]. This exposition provides a comprehensive scholarly treatment of Dewey's contributions to critical thinking and educational psychology, tracing the intellectual genealogy of his ideas, explicating his theoretical architecture, examining the empirical foundations of his work, and analyzing his enduring influence on contemporary educational practice and critical thinking scholarship.
+> [[John-Dewey|John Dewey]] (1859–1952) stands as arguably the most influential American philosopher of education, whose systematic theorization of [[Reflective-Thinking|reflective thinking]] fundamentally shaped modern conceptions of [[Critical-Thinking|critical thinking]] and transformed educational practice worldwide. As a founding figure in [[Pragmatism]] and functional psychology, Dewey developed a comprehensive philosophical and psychological framework that revolutionized understanding of how learning occurs, how thinking should be cultivated, and how democratic societies should educate their citizens. His establishment of the [[University of Chicago Laboratory School]] in 1896 provided the experimental ground for testing his theories, producing empirical evidence that challenged traditional educational orthodoxy and laid the foundation for the [[progressive education movement]]. This exposition provides a comprehensive scholarly treatment of Dewey's contributions to critical thinking and educational psychology, tracing the intellectual genealogy of his ideas, explicating his theoretical architecture, examining the empirical foundations of his work, and analyzing his enduring influence on contemporary educational practice and critical thinking scholarship.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 301)*
 
@@ -251,7 +251,7 @@ extraction_summary:
 #### 16. [CONNECTIONS-AND-LINKS] Untitled *(Line 413)*
 
 > [!connections-and-links] Untitled
-> Dewey's account of cognitive development anticipated many insights later systematized in [[Lev Vygotsky]]'s concept of the [[Zone-of-Proximal-Development|Zone of Proximal Development]], the idea that learning occurs optimally when tasks are neither too easy (no challenge) nor too difficult (overwhelming) but within reach with appropriate guidance.
+> Dewey's account of cognitive development anticipated many insights later systematized in [[Lev-Vygotsky|Lev Vygotsky]]'s concept of the [[Zone-of-Proximal-Development|Zone of Proximal Development]], the idea that learning occurs optimally when tasks are neither too easy (no challenge) nor too difficult (overwhelming) but within reach with appropriate guidance.
 
 #### 17. [EVIDENCE] Untitled *(Line 420)*
 
@@ -271,7 +271,7 @@ extraction_summary:
 #### 20. [EVIDENCE] Untitled *(Line 447)*
 
 > [!evidence] Untitled
-> Modern [[Cognitive-Science|cognitive science]] and [[Educational-Psychology|educational psychology]] research has retrospectively validated many of Dewey's insights about learning and thinking. Studies on [[Transfer-of-Learning|transfer of learning]], [[metacognition]], [[problem-based learning]], and [[constructivism]] consistently support principles Dewey articulated a century ago.
+> Modern [[Cognitive-Science|cognitive science]] and [[Educational-Psychology|educational psychology]] research has retrospectively validated many of Dewey's insights about learning and thinking. Studies on [[Transfer-of-Learning|transfer of learning]], [[Metacognition]], [[problem-based learning]], and [[Constructivism]] consistently support principles Dewey articulated a century ago.
 
 #### 21. [KEY-CLAIM] Untitled *(Line 462)*
 
@@ -306,7 +306,7 @@ extraction_summary:
 #### 27. [EVIDENCE] Untitled *(Line 530)*
 
 > [!evidence] Untitled
-> Contemporary [[neuroscience]] research on learning and memory provides new evidence relevant to evaluating Dewey's psychological claims. Findings on [[neuroplasticity]], [[Embodied-Cognition|embodied cognition]], and the social brain both support and complicate aspects of Dewey's theory.
+> Contemporary [[neuroscience]] research on learning and memory provides new evidence relevant to evaluating Dewey's psychological claims. Findings on [[Neuroplasticity]], [[Embodied-Cognition|embodied cognition]], and the social brain both support and complicate aspects of Dewey's theory.
 
 #### 28. [CONNECTIONS-AND-LINKS] Untitled *(Line 543)*
 
@@ -329,7 +329,7 @@ extraction_summary:
 #### 31. [CONNECTIONS-AND-LINKS] Untitled *(Line 571)*
 
 > [!connections-and-links] Untitled
-> **PKB Integration:** This exposition on John Dewey connects fundamentally to your existing framework on [[metacognition]] and [[Critical-Thinking|critical thinking]] deployment. Dewey's five stages of reflective thinking map directly onto contemporary metacognitive frameworks like [[PENCRISAL]] (particularly the deductive and practical reasoning dimensions) and [[MAI]]'s regulation of cognition components. His emphasis on problem recognition as the trigger for inquiry aligns with your focus on [[recognition systems]] for deployment. The distinction he draws between routine and reflective thinking parallels the [[System-1|System 1]] vs. [[System-2|System 2]] distinction in [[Dual-Process-Theory|dual process theory]]. His account of how thinking develops from spontaneous to disciplined forms relates directly to questions of [[transfer]] and [[domain specificity]] in critical thinking skill development.
+> **PKB Integration:** This exposition on John Dewey connects fundamentally to your existing framework on [[Metacognition]] and [[Critical-Thinking|critical thinking]] deployment. Dewey's five stages of reflective thinking map directly onto contemporary metacognitive frameworks like [[PENCRISAL]] (particularly the deductive and practical reasoning dimensions) and [[MAI]]'s regulation of cognition components. His emphasis on problem recognition as the trigger for inquiry aligns with your focus on [[recognition systems]] for deployment. The distinction he draws between routine and reflective thinking parallels the [[System-1|System 1]] vs. [[System-2|System 2]] distinction in [[Dual-Process-Theory|dual process theory]]. His account of how thinking develops from spontaneous to disciplined forms relates directly to questions of [[Transfer]] and [[domain specificity]] in critical thinking skill development.
 
 #### 32. [TOPIC-IDEA] Untitled *(Line 578)*
 
@@ -401,10 +401,10 @@ extraction_summary:
 - [[21st century skills]]
 - [[American-Pragmatism|American Pragmatism]]
 - [[Basic Epistemology]]
-- [[California Critical Thinking Skills Test]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cartesian dualism]]
-- [[Charles Sanders Peirce]]
-- [[Cognitive Development Theory]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+- [[Cognitive-Development-Theory|Cognitive Development Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Columbia University]]
 - [[Constructivism]]
@@ -436,13 +436,13 @@ extraction_summary:
 - [[History of American Education]]
 - [[History of Psychology]]
 - [[Hull House]]
-- [[Immanuel Kant]]
+- [[Immanuel-Kant|Immanuel Kant]]
 - [[Information Literacy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Jane Addams]]
 - [[Jane Addams and Hull House Laboratory for Social Democracy]]
 - [[Jane Addams and Hull House: Laboratory for Social Democracy]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[Jessica Ching-Sze Wang]]
 - [[Jim Garrison]]
 - [[John-Dewey|John Dewey]]
@@ -450,7 +450,7 @@ extraction_summary:
 - [[Laboratory School Experimental Methods]]
 - [[Larry Hickman]]
 - [[Learning Theory Overview]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[MAI]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
@@ -460,7 +460,7 @@ extraction_summary:
 - [[Pattern of Inquiry]]
 - [[Paulo Freire]]
 - [[Paulo Freire and Critical Pedagogy]]
-- [[Peter Facione]]
+- [[Peter-Facione|Peter Facione]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Philosophy of Mind Foundations]]
 - [[Plato]]
@@ -472,9 +472,9 @@ extraction_summary:
 - [[Project-based learning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective Thinking Five-Phase Model]]
-- [[Richard Paul]]
+- [[Richard-Paul|Richard Paul]]
 - [[Richard Paul Elements of Reasoning]]
-- [[Robert Ennis]]
+- [[Robert-Ennis|Robert Ennis]]
 - [[Robert Ennis Critical Thinking Framework]]
 - [[Robert Westbrook]]
 - [[Samuel Taylor Coleridge]]
@@ -487,19 +487,19 @@ extraction_summary:
 - [[Theodor Adorno]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[University of Chicago Laboratory School]]
-- [[William James]]
+- [[William-James|William James]]
 - [[William James and the Psychology of Habit]]
 - [[William Schubert]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[Argumentation-Theory|argumentation theory]]
-- [[automaticity]]
+- [[Automaticity]]
 - [[business education]]
 - [[clinical reasoning]]
 - [[Cognitive-Disequilibrium|cognitive disequilibrium]]
-- [[cognitive neuroscience]]
+- [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Science|cognitive science]]
 - [[conscientization]]
-- [[constructivism]]
+- [[Constructivism]]
 - [[continuity]]
 - [[correspondence theory of truth]]
 - [[critical pedagogy]]
@@ -522,19 +522,19 @@ extraction_summary:
 - [[inquiry]]
 - [[Inquiry-Based-Learning|inquiry-based learning]]
 - [[inquiry-based science education]]
-- [[instrumentalism]]
+- [[Instrumentalism]]
 - [[interaction]]
 - [[legal education]]
 - [[medical education]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[metacognitive research]]
 - [[mirror neurons]]
 - [[misinformation]]
 - [[naturalistic]]
-- [[neuroplasticity]]
+- [[Neuroplasticity]]
 - [[neuroscience]]
-- [[open-mindedness]]
-- [[pragmatism]]
+- [[Open-Mindedness]]
+- [[Pragmatism]]
 - [[problem-based learning]]
 - [[progressive education]]
 - [[progressive education movement]]
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Situated-Cognition|situated cognition]]
 - [[Social-Constructivism|social constructivism]]
 - [[spectator theory of knowledge]]
-- [[transfer]]
+- [[Transfer]]
 - [[Transfer-of-Learning|transfer of learning]]
 - [[Warranted-Assertibility|warranted assertibility]]
 - [[whole-heartedness]]
@@ -567,11 +567,11 @@ extraction_summary:
 | 8 | [[Experiential Learning Principles]] | — | — | Hierarchical Relationships | 103 |
 | 9 | [[Pattern of Inquiry]] | — | — | Hierarchical Relationships | 104 |
 | 10 | [[Educative vs Miseducative Experience]] | — | — | Hierarchical Relationships | 105 |
-| 11 | [[William James]] | — | — | Core Relationships | 109 |
-| 12 | [[Charles Sanders Peirce]] | — | — | Core Relationships | 110 |
+| 11 | [[William-James|William James]] | — | — | Core Relationships | 109 |
+| 12 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Core Relationships | 110 |
 | 13 | [[Georg Wilhelm Friedrich Hegel]] | — | — | Core Relationships | 111 |
-| 14 | [[Jean Piaget]] | — | — | Core Relationships | 112 |
-| 15 | [[Lev Vygotsky]] | — | — | Core Relationships | 113 |
+| 14 | [[Jean-Piaget|Jean Piaget]] | — | — | Core Relationships | 112 |
+| 15 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Core Relationships | 113 |
 | 16 | [[Paulo Freire]] | — | — | Core Relationships | 114 |
 | 17 | [[Donald-Schön|Donald Schön]] | — | — | Core Relationships | 115 |
 | 18 | [[Jane Addams]] | — | — | Core Relationships | 116 |
@@ -586,7 +586,7 @@ extraction_summary:
 | 27 | [[Reflective-Practice|Reflective Practice]] | — | — | Core Relationships | 125 |
 | 28 | [[Educational Equity]] | — | — | Core Relationships | 126 |
 | 29 | [[Democratic Education]] | — | — | Core Relationships | 127 |
-| 30 | [[Cognitive Development Theory]] | — | — | Core Relationships | 128 |
+| 30 | [[Cognitive-Development-Theory|Cognitive Development Theory]] | — | — | Core Relationships | 128 |
 | 31 | [[Basic Epistemology]] | — | — | Prerequisites | 132 |
 | 32 | [[History of American Education]] | — | — | Prerequisites | 133 |
 | 33 | [[Philosophy of Mind Foundations]] | — | — | Prerequisites | 134 |
@@ -611,7 +611,7 @@ extraction_summary:
 | 52 | [[John-Dewey|John Dewey]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 53 | [[Reflective-Thinking|reflective thinking]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 54 | [[Critical-Thinking|critical thinking]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
-| 55 | [[pragmatism]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
+| 55 | [[Pragmatism]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 56 | [[University of Chicago Laboratory School]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 57 | [[progressive education movement]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 58 | [[inquiry]] | — | — | 📍 Introduction & Context: The Endurin... | 302 |
@@ -626,15 +626,15 @@ extraction_summary:
 | 67 | [[Epistemic-Vigilance|epistemic vigilance]] | — | — | 📍 Introduction & Context: The Endurin... | 308 |
 | 68 | [[John-Dewey|John Dewey]] | — | — | 📜 Historical Foundations: The Making ... | 318 |
 | 69 | [[Johns Hopkins University]] | — | — | 📜 Historical Foundations: The Making ... | 318 |
-| 70 | [[Immanuel Kant]] | — | — | 📜 Historical Foundations: The Making ... | 318 |
+| 70 | [[Immanuel-Kant|Immanuel Kant]] | — | — | 📜 Historical Foundations: The Making ... | 318 |
 | 71 | [[Hegelian idealism]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
 | 72 | [[George Sylvester Morris]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
 | 73 | [[Georg Wilhelm Friedrich Hegel]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
-| 74 | [[William James]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
-| 75 | [[Charles Sanders Peirce]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
-| 76 | [[pragmatism]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
+| 74 | [[William-James|William James]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
+| 75 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
+| 76 | [[Pragmatism]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
 | 77 | [[Samuel Taylor Coleridge]] | — | — | 📜 Historical Foundations: The Making ... | 323 |
-| 78 | [[instrumentalism]] | — | — | 📜 Historical Foundations: The Making ... | 325 |
+| 78 | [[Instrumentalism]] | — | — | 📜 Historical Foundations: The Making ... | 325 |
 | 79 | [[University of Chicago Laboratory School]] | — | — | 📜 Historical Foundations: The Making ... | 325 |
 | 80 | [[Robert Westbrook]] | — | — | 📜 Historical Foundations: The Making ... | 327 |
 | 81 | [[Columbia University]] | — | — | 📜 Historical Foundations: The Making ... | 332 |
@@ -642,8 +642,8 @@ extraction_summary:
 | 83 | [[functionalist]] | — | — | 📜 Historical Foundations: The Making ... | 334 |
 | 84 | [[progressive movement]] | — | — | 📜 Historical Foundations: The Making ... | 334 |
 | 85 | [[Epistemic-Autonomy-—-Epistemology|epistemology]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
-| 86 | [[pragmatism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
-| 87 | [[instrumentalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
+| 86 | [[Pragmatism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
+| 87 | [[Instrumentalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
 | 88 | [[cultural naturalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
 | 89 | [[representationalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
 | 90 | [[naturalistic]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
@@ -655,15 +655,15 @@ extraction_summary:
 | 96 | [[experience]] | — | — | Experiential Learning and the Theory ... | 373 |
 | 97 | [[continuity]] | — | — | Experiential Learning and the Theory ... | 373 |
 | 98 | [[interaction]] | — | — | Experiential Learning and the Theory ... | 373 |
-| 99 | [[open-mindedness]] | — | — | The Dynamics of Problem-Solving | 391 |
+| 99 | [[Open-Mindedness]] | — | — | The Dynamics of Problem-Solving | 391 |
 | 100 | [[whole-heartedness]] | — | — | The Dynamics of Problem-Solving | 391 |
-| 101 | [[Jean Piaget]] | — | — | The Dynamics of Problem-Solving | 393 |
+| 101 | [[Jean-Piaget|Jean Piaget]] | — | — | The Dynamics of Problem-Solving | 393 |
 | 102 | [[Cognitive-Disequilibrium|cognitive disequilibrium]] | — | — | The Dynamics of Problem-Solving | 393 |
 | 103 | [[imagination]] | — | — | The Dynamics of Problem-Solving | 398 |
 | 104 | [[Social-Constructivism|social constructivism]] | — | — | The Dynamics of Problem-Solving | 400 |
 | 105 | [[Situated-Cognition|situated cognition]] | — | — | The Dynamics of Problem-Solving | 400 |
 | 106 | [[scientific thinking]] | — | — | From Intuitive to Disciplined Thinking | 407 |
-| 107 | [[Lev Vygotsky]] | — | — | From Intuitive to Disciplined Thinking | 414 |
+| 107 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | From Intuitive to Disciplined Thinking | 414 |
 | 108 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | From Intuitive to Disciplined Thinking | 414 |
 | 109 | [[University of Chicago Laboratory School]] | — | — | The Laboratory School: Democracy as E... | 421 |
 | 110 | [[progressive education]] | — | — | The Laboratory School: Democracy as E... | 427 |
@@ -672,14 +672,14 @@ extraction_summary:
 | 113 | [[Cognitive-Science|cognitive science]] | — | — | Contemporary Research Validation | 448 |
 | 114 | [[Educational-Psychology|educational psychology]] | — | — | Contemporary Research Validation | 448 |
 | 115 | [[Transfer-of-Learning|transfer of learning]] | — | — | Contemporary Research Validation | 448 |
-| 116 | [[metacognition]] | — | — | Contemporary Research Validation | 448 |
+| 116 | [[Metacognition]] | — | — | Contemporary Research Validation | 448 |
 | 117 | [[problem-based learning]] | — | — | Contemporary Research Validation | 448 |
-| 118 | [[constructivism]] | — | — | Contemporary Research Validation | 448 |
-| 119 | [[metacognition]] | — | — | Contemporary Research Validation | 450 |
+| 118 | [[Constructivism]] | — | — | Contemporary Research Validation | 448 |
+| 119 | [[Metacognition]] | — | — | Contemporary Research Validation | 450 |
 | 120 | [[problem-based learning]] | — | — | Contemporary Research Validation | 452 |
 | 121 | [[Social-Constructivism|social constructivism]] | — | — | Contemporary Research Validation | 454 |
-| 122 | [[Jean Piaget]] | — | — | Contemporary Research Validation | 454 |
-| 123 | [[Lev Vygotsky]] | — | — | Contemporary Research Validation | 454 |
+| 122 | [[Jean-Piaget|Jean Piaget]] | — | — | Contemporary Research Validation | 454 |
+| 123 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Contemporary Research Validation | 454 |
 | 124 | [[progressive education movement]] | — | — | The Progressive Education Movement | 463 |
 | 125 | [[medical education]] | — | — | Contemporary Applications: From K-12 ... | 479 |
 | 126 | [[legal education]] | — | — | Contemporary Applications: From K-12 ... | 479 |
@@ -695,11 +695,11 @@ extraction_summary:
 | 136 | [[Organisation for Economic Co-operation and Development]] | — | — | Contemporary Applications: From K-12 ... | 487 |
 | 137 | [[Programme for International Student Assessment]] | — | — | Contemporary Applications: From K-12 ... | 487 |
 | 138 | [[Critical-Thinking|critical thinking]] | — | — | Critical Thinking and Dewey's Legacy | 496 |
-| 139 | [[Robert Ennis]] | — | — | Critical Thinking and Dewey's Legacy | 496 |
-| 140 | [[Richard Paul]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
-| 141 | [[Peter Facione]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
+| 139 | [[Robert-Ennis|Robert Ennis]] | — | — | Critical Thinking and Dewey's Legacy | 496 |
+| 140 | [[Richard-Paul|Richard Paul]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
+| 141 | [[Peter-Facione|Peter Facione]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 142 | [[Cornell Critical Thinking Tests]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
-| 143 | [[California Critical Thinking Skills Test]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
+| 143 | [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 144 | [[informal logic]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 145 | [[Argumentation-Theory|argumentation theory]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 146 | [[information literacy]] | — | — | Critical Thinking and Dewey's Legacy | 502 |
@@ -717,21 +717,21 @@ extraction_summary:
 | 158 | [[Paulo Freire]] | — | — | Dewey and Social Justice Education | 526 |
 | 159 | [[conscientization]] | — | — | Dewey and Social Justice Education | 526 |
 | 160 | [[neuroscience]] | — | — | Neuroscience and Dewey's Psychology | 531 |
-| 161 | [[neuroplasticity]] | — | — | Neuroscience and Dewey's Psychology | 531 |
+| 161 | [[Neuroplasticity]] | — | — | Neuroscience and Dewey's Psychology | 531 |
 | 162 | [[Embodied-Cognition|embodied cognition]] | — | — | Neuroscience and Dewey's Psychology | 531 |
-| 163 | [[cognitive neuroscience]] | — | — | Neuroscience and Dewey's Psychology | 533 |
+| 163 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | Neuroscience and Dewey's Psychology | 533 |
 | 164 | [[educational neuroscience]] | — | — | Neuroscience and Dewey's Psychology | 533 |
-| 165 | [[neuroplasticity]] | — | — | Neuroscience and Dewey's Psychology | 533 |
+| 165 | [[Neuroplasticity]] | — | — | Neuroscience and Dewey's Psychology | 533 |
 | 166 | [[Embodied-Cognition|embodied cognition]] | — | — | Neuroscience and Dewey's Psychology | 535 |
 | 167 | [[mirror neurons]] | — | — | Neuroscience and Dewey's Psychology | 535 |
-| 168 | [[automaticity]] | — | — | Neuroscience and Dewey's Psychology | 537 |
+| 168 | [[Automaticity]] | — | — | Neuroscience and Dewey's Psychology | 537 |
 | 169 | [[Jessica Ching-Sze Wang]] | — | — | Global Perspectives on Dewey | 546 |
 | 170 | [[John-Dewey|John Dewey]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 557 |
 | 171 | [[Reflective-Thinking|reflective thinking]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 557 |
 | 172 | [[Critical-Thinking|critical thinking]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 557 |
-| 173 | [[instrumentalism]] | instrumentalist | — | 🎯 Synthesis & Conclusion: Dewey's End... | 557 |
+| 173 | [[Instrumentalism]] | instrumentalist | — | 🎯 Synthesis & Conclusion: Dewey's End... | 557 |
 | 174 | [[University of Chicago Laboratory School]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 559 |
-| 175 | [[metacognition]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
+| 175 | [[Metacognition]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 176 | [[Critical-Thinking|critical thinking]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 177 | [[PENCRISAL]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 178 | [[MAI]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
@@ -739,7 +739,7 @@ extraction_summary:
 | 180 | [[System-1|System 1]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 181 | [[System-2|System 2]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 182 | [[Dual-Process-Theory|dual process theory]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
-| 183 | [[transfer]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
+| 183 | [[Transfer]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 184 | [[domain specificity]] | — | — | 🎯 Synthesis & Conclusion: Dewey's End... | 572 |
 | 185 | [[William James and the Psychology of Habit]] | — | — | 🌱 Further Exploration: Expanding the ... | 579 |
 | 186 | [[Jane Addams and Hull House: Laboratory for Social Democracy]] | — | — | 🌱 Further Exploration: Expanding the ... | 582 |
@@ -927,10 +927,10 @@ tags:
 - [[21st century skills]]
 - [[American-Pragmatism|American Pragmatism]]
 - [[Basic Epistemology]]
-- [[California Critical Thinking Skills Test]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cartesian dualism]]
-- [[Charles Sanders Peirce]]
-- [[Cognitive Development Theory]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+- [[Cognitive-Development-Theory|Cognitive Development Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Columbia University]]
 - [[Constructivism]]
@@ -962,13 +962,13 @@ tags:
 - [[History of American Education]]
 - [[History of Psychology]]
 - [[Hull House]]
-- [[Immanuel Kant]]
+- [[Immanuel-Kant|Immanuel Kant]]
 - [[Information Literacy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Jane Addams]]
 - [[Jane Addams and Hull House Laboratory for Social Democracy]]
 - [[Jane Addams and Hull House: Laboratory for Social Democracy]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[Jessica Ching-Sze Wang]]
 - [[Jim Garrison]]
 - [[John-Dewey|John Dewey]]
@@ -976,7 +976,7 @@ tags:
 - [[Laboratory School Experimental Methods]]
 - [[Larry Hickman]]
 - [[Learning Theory Overview]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[MAI]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
@@ -986,7 +986,7 @@ tags:
 - [[Pattern of Inquiry]]
 - [[Paulo Freire]]
 - [[Paulo Freire and Critical Pedagogy]]
-- [[Peter Facione]]
+- [[Peter-Facione|Peter Facione]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Philosophy of Mind Foundations]]
 - [[Plato]]
@@ -998,9 +998,9 @@ tags:
 - [[Project-based learning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective Thinking Five-Phase Model]]
-- [[Richard Paul]]
+- [[Richard-Paul|Richard Paul]]
 - [[Richard Paul Elements of Reasoning]]
-- [[Robert Ennis]]
+- [[Robert-Ennis|Robert Ennis]]
 - [[Robert Ennis Critical Thinking Framework]]
 - [[Robert Westbrook]]
 - [[Samuel Taylor Coleridge]]
@@ -1013,19 +1013,19 @@ tags:
 - [[Theodor Adorno]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[University of Chicago Laboratory School]]
-- [[William James]]
+- [[William-James|William James]]
 - [[William James and the Psychology of Habit]]
 - [[William Schubert]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[Argumentation-Theory|argumentation theory]]
-- [[automaticity]]
+- [[Automaticity]]
 - [[business education]]
 - [[clinical reasoning]]
 - [[Cognitive-Disequilibrium|cognitive disequilibrium]]
-- [[cognitive neuroscience]]
+- [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Science|cognitive science]]
 - [[conscientization]]
-- [[constructivism]]
+- [[Constructivism]]
 - [[continuity]]
 - [[correspondence theory of truth]]
 - [[critical pedagogy]]
@@ -1048,19 +1048,19 @@ tags:
 - [[inquiry]]
 - [[Inquiry-Based-Learning|inquiry-based learning]]
 - [[inquiry-based science education]]
-- [[instrumentalism]]
+- [[Instrumentalism]]
 - [[interaction]]
 - [[legal education]]
 - [[medical education]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[metacognitive research]]
 - [[mirror neurons]]
 - [[misinformation]]
 - [[naturalistic]]
-- [[neuroplasticity]]
+- [[Neuroplasticity]]
 - [[neuroscience]]
-- [[open-mindedness]]
-- [[pragmatism]]
+- [[Open-Mindedness]]
+- [[Pragmatism]]
 - [[problem-based learning]]
 - [[progressive education]]
 - [[progressive education movement]]
@@ -1074,7 +1074,7 @@ tags:
 - [[Situated-Cognition|situated cognition]]
 - [[Social-Constructivism|social constructivism]]
 - [[spectator theory of knowledge]]
-- [[transfer]]
+- [[Transfer]]
 - [[Transfer-of-Learning|transfer of learning]]
 - [[Warranted-Assertibility|warranted assertibility]]
 - [[whole-heartedness]]

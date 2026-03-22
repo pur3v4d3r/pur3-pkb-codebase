@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[AI-PKB-Integration|AI-PKB Integration]]"
   - "[[Prompt-Library-Management|Prompt Library Management]]"
   - "[[Claude-Code-Workflows|Claude Code Workflows]]"
+  - "[[**Comprehensive-Refernece:-MCP-Servers**|**Comprehensive Refernece: MCP Servers**]]"
+  - "[[API-Fundamentals|API Fundamentals]]"
+  - "[[JSON-RPC|JSON-RPC]]"
+  - "[[AI-Agent-Architecture|AI Agent Architecture]]"
+  - "[[Custom-MCP-Server-Development|Custom MCP Server Development]]"
+  - "[[AI-PKB-Integration|AI-PKB Integration]]"
+  - "[[Prompt-Library-Management|Prompt Library Management]]"
+  - "[[Claude-Code-Workflows|Claude Code Workflows]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +114,7 @@ importance: medium
 # Client-Server Architecture
 
 > [!definition] **Client-Server Architecture**
-> MCP follows a <span style='color: #72FFF1;'>client-server architecture</span> where an <span style='color: #FFC700;'>MCP Host</span> (an AI application like [[Claude Code]] or [[Claude Desktop]]) establishes connections to one or more <span style='color: #FFC700;'>MCP Servers</span> through <span style='color: #FFC700;'>MCP Clients</span> (connection managers).
+> MCP follows a <span style='color: #72FFF1;'>client-server architecture</span> where an <span style='color: #FFC700;'>MCP Host</span> (an AI application like [[Claude-Code]] or [[Claude-Desktop]]) establishes connections to one or more <span style='color: #FFC700;'>MCP Servers</span> through <span style='color: #FFC700;'>MCP Clients</span> (connection managers).
 
 ## Core Explanation
 
@@ -169,6 +177,26 @@ importance: medium
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[VS-Code|VS Code]]
 - [[Claude-Code|Claude Code]]
+
+**Related concepts** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
+[[**Comprehensive-Refernece:-MCP-Servers**|**Comprehensive Refernece: MCP Servers**]] * [[API-Fundamentals|API Fundamentals]] * [[AI-Agent-Architecture|AI Agent Architecture]] * [[Custom-MCP-Server-Development|Custom MCP Server Development]] * [[AI-PKB-Integration|AI-PKB Integration]] * [[Prompt-Library-Management|Prompt Library Management]] * [[Claude-Code-Workflows|Claude Code Workflows]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Obsidian-Automation|Obsidian Automation]] * [[Prompt-Engineering|Prompt Engineering]] * [[AI-Agents|AI Agents]] * [[Unix-Philosophy|Unix Philosophy]] * [[API-Design-Patterns|API Design Patterns]] * [[Knowledge-Graph-Theory|Knowledge Graph Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
+- [[Claude-Code|Claude Code]]
+- [[Obsidian|Obsidian]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[AI-Agent-Architecture|AI Agent Architecture]]
+- [[JSON-RPC|JSON-RPC]]
+
+**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[VS-Code|VS Code]]
+- [[Claude-Code|Claude Code]]
+
+
+
 
 
 

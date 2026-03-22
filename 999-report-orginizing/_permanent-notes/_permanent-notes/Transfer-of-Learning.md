@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -89,20 +89,28 @@ see-also:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]]"
   - "[[Daniel-Schwartz|Daniel Schwartz]]"
   - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[critical-thinking|critical thinking]]"
+  - "[[Critical-Thinking|critical thinking]]"
   - "[[misinformation|misinformation]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Working-memory|Working memory]]"
+  - "[[Working-Memory|Working memory]]"
   - "[[John-Sweller|John Sweller]]"
   - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[critical-thinking|critical thinking]]"
+  - "[[Critical-Thinking|critical thinking]]"
   - "[[misinformation|misinformation]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Working-memory|Working memory]]"
+  - "[[Working-Memory|Working memory]]"
+  - "[[John-Sweller|John Sweller]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[misinformation|misinformation]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Working-Memory|Working memory]]"
   - "[[John-Sweller|John Sweller]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -220,7 +228,7 @@ importance: high
 > Embedding explicit metacognitive prompts into learning activities significantly enhances CT development. Simple interventions — asking students to predict how confident they are in an answer before receiving feedback, to identify what specifically confused them in a difficult text, or to reflect on whether their initial analysis changed after discussion — activate the self-monitoring capacity that underlies sustained CT. These prompts are not merely reflective exercises; they train students to treat their own reasoning as an object of scrutiny.
 
 > [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner,-Sweller-&-Clark]] (2006) on [[Cognitive-Load-Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
 
 > [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
@@ -229,7 +237,7 @@ importance: high
 > A pervasive misconception conflates critical thinking with critical attitude — the disposition to find fault, doubt, or challenge. True CT is not primarily negative. It involves the fair, disciplined evaluation of claims, which means giving credit to well-supported claims with the same rigour applied to the rejection of poorly supported ones. Students who learn that CT means scepticism toward authority without developing the tools for constructive, evidence-based reasoning have learned a disposition without a skill — arguably more dangerous than having neither.
 
 > [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
+> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation-Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
 
 
@@ -279,7 +287,7 @@ importance: high
 [[Alan-Baddeley|Alan Baddeley]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Allan-Collins|Allan Collins]] · [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical-Transfer|Analogical Transfer]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]] · [[Daniel-Schwartz|Daniel Schwartz]] · [[Dedre-Gentner|Dedre Gentner]] · [[Dewey]] · [[Duncan-Godden|Duncan Godden]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Edward-Thorndike|Edward Thorndike]] · [[Elaboration-Theory|Elaboration Theory]]
 
 **Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md, types-of-reasoning-foundational-report-2026-03-05.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Robert-Ennis|Robert Ennis]] * [[critical-thinking|critical thinking]] * [[misinformation|misinformation]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-memory|Working memory]] * [[John-Sweller|John Sweller]] * [[cognitive-load-theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Metacognition|Metacognition]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]]
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[misinformation|misinformation]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Cognitive-Load-Theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Metacognition|Metacognition]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]]
 
 **Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
 - [[Metacognition-in-Learning|Metacognition in Learning]]
@@ -322,7 +330,7 @@ importance: high
 - [[Metacognition|Metacognition]]
 
 **Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md, types-of-reasoning-foundational-report-2026-03-05.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Robert-Ennis|Robert Ennis]] * [[critical-thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
 
 **Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
 - [[Metacognition-in-Learning|Metacognition in Learning]]
@@ -363,6 +371,56 @@ importance: high
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
 - [[fluency-effects|fluency effects]]
 - [[Metacognition|Metacognition]]
+
+**Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md, types-of-reasoning-foundational-report-2026-03-05.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+
+
+
+
+
+
 
 
 

@@ -147,7 +147,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 137)*
 
 > [!abstract] Untitled
-> This comprehensive examination explores how [[Self-Determination-Theory|Self-Determination Theory]] provides a robust psychological framework for designing [[Personal-Knowledge-Management|Personal Knowledge Management]] systems that cultivate sustainable learning habits through the satisfaction of three innate psychological needs. The theory posits that human beings oscillate between proactive engagement and passive alienation largely as a function of social and environmental conditions, with the satisfaction of needs for autonomy, competence, and relatedness yielding enhanced self-motivation and mental health. When applied to knowledge management systems, these principles reveal how system design choices can either facilitate or forestall the natural processes of self-motivation that underpin lifelong learning. The intersection of [[Cognitive Neuroscience]], [[Motivational Psychology]], and [[Information-Architecture|information architecture]] demonstrates that PKM systems function not merely as information repositories but as cognitive scaffolds that—when properly designed—support the neurological mechanisms underlying intrinsic motivation, habit formation, and sustained intellectual growth.
+> This comprehensive examination explores how [[Self-Determination-Theory|Self-Determination Theory]] provides a robust psychological framework for designing [[Personal-Knowledge-Management|Personal Knowledge Management]] systems that cultivate sustainable learning habits through the satisfaction of three innate psychological needs. The theory posits that human beings oscillate between proactive engagement and passive alienation largely as a function of social and environmental conditions, with the satisfaction of needs for autonomy, competence, and relatedness yielding enhanced self-motivation and mental health. When applied to knowledge management systems, these principles reveal how system design choices can either facilitate or forestall the natural processes of self-motivation that underpin lifelong learning. The intersection of [[cognitive-neuroscience|Cognitive Neuroscience]], [[Motivational-Psychology|Motivational Psychology]], and [[Information-Architecture|information architecture]] demonstrates that PKM systems function not merely as information repositories but as cognitive scaffolds that—when properly designed—support the neurological mechanisms underlying intrinsic motivation, habit formation, and sustained intellectual growth.
 
 #### 4. [DEFINITION] Untitled *(Line 142)*
 
@@ -242,11 +242,11 @@ extraction_summary:
 
 - [[Autonomy]]
 - [[Cognitive Load Theory and Working Memory Constraints]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Competence]]
 - [[Flow State and Optimal Experience in Knowledge Work]]
 - [[Habit Formation and Behavioral Architecture]]
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Relatedness]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -263,7 +263,7 @@ extraction_summary:
 - [[literature notes]]
 - [[nucleus accumbens]]
 - [[prefrontal cortex]]
-- [[self-efficacy]]
+- [[Self-Efficacy]]
 - [[striatum]]
 - [[ventral striatum]]
 - [[Zone-of-Proximal-Development|zone of proximal development]]
@@ -275,8 +275,8 @@ extraction_summary:
 | 1 | [[Self-Determination Theory as a Driver for Sustainable Knowledge Management Habits]] | — | — | Self-Determination Theory as a Driver... | 43 |
 | 2 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📈 Review System | 138 |
 | 3 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📈 Review System | 138 |
-| 4 | [[Cognitive Neuroscience]] | — | — | 📈 Review System | 138 |
-| 5 | [[Motivational Psychology]] | — | — | 📈 Review System | 138 |
+| 4 | [[cognitive-neuroscience|Cognitive Neuroscience]] | — | — | 📈 Review System | 138 |
+| 5 | [[Motivational-Psychology|Motivational Psychology]] | — | — | 📈 Review System | 138 |
 | 6 | [[Information-Architecture|information architecture]] | — | — | 📈 Review System | 138 |
 | 7 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Architecture of Self-Determinat... | 143 |
 | 8 | [[behaviorism]] | — | — | 🧠 The Architecture of Self-Determinat... | 145 |
@@ -284,7 +284,7 @@ extraction_summary:
 | 10 | [[Autonomy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 158 |
 | 11 | [[prefrontal cortex]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 160 |
 | 12 | [[Competence]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 162 |
-| 13 | [[self-efficacy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 162 |
+| 13 | [[Self-Efficacy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 162 |
 | 14 | [[striatum]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 15 | [[ventral striatum]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 16 | [[nucleus accumbens]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
@@ -372,11 +372,11 @@ extraction_summary:
 
 - [[Autonomy]]
 - [[Cognitive Load Theory and Working Memory Constraints]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Competence]]
 - [[Flow State and Optimal Experience in Knowledge Work]]
 - [[Habit Formation and Behavioral Architecture]]
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Relatedness]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -393,7 +393,7 @@ extraction_summary:
 - [[literature notes]]
 - [[nucleus accumbens]]
 - [[prefrontal cortex]]
-- [[self-efficacy]]
+- [[Self-Efficacy]]
 - [[striatum]]
 - [[ventral striatum]]
 - [[Zone-of-Proximal-Development|zone of proximal development]]

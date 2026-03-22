@@ -60,13 +60,13 @@ pipeline_sequence: 1
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Mindfulness]]"
   - "[[Emotional Resilience]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Metacognition]]"
   - "[[PKB Architecture]]"
 
@@ -230,7 +230,7 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[Topic-specific links]"
@@ -244,7 +244,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
 
 narrower:
@@ -324,12 +324,12 @@ Callouts must be **purposeful and semantically precise** — never decorative. U
 
 ## Wiki-Linking Protocol
 
-**[Wiki-Linking-Density:: Minimum 20 wiki-links per standard report. Every significant philosophical concept, psychological framework, named Stoic figure, and cross-series topic must be wiki-linked. Links should be formatted as [[Concept Name]] and should create genuine navigational value in the knowledge graph.]**
+**[Wiki-Linking-Density:: Minimum 20 wiki-links per standard report. Every significant philosophical concept, psychological framework, named Stoic figure, and cross-series topic must be wiki-linked. Links should be formatted as [[Concept-Name]] and should create genuine navigational value in the knowledge graph.]**
 
 Standard wiki-linking targets for all reports:
-- All four major Stoics: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]
-- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]
-- Psychological frameworks: [[Cognitive Behavioral Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]
+- All four major Stoics: [[Marcus-Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]
+- Core Stoic concepts: [[Dichotomy-of-Control]], [[Virtue-Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]
+- Psychological frameworks: [[Cognitive-Behavioral-Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]
 - Series nodes: [[Stoicism MOC]], [[Stoicism Series Overview]]
 - Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]
 
@@ -811,7 +811,7 @@ When the user requests a report, identify the appropriate scaffold based on the 
 > [Key empirical finding supporting a Stoic practice in this domain]
 
 > [!connection-ideas]
-> **Stoicism and [[Cognitive Behavioral Therapy]]**: [The specific bridge]
+> **Stoicism and [[Cognitive-Behavioral-Therapy]]**: [The specific bridge]
 
 ---
 
@@ -1061,7 +1061,7 @@ The series follows a three-phase arc:
 **Terminology Consistency**: Define key Stoic terms the same way across all reports. The first introduction of a term (in Report 01) establishes the canonical definition. Later reports may deepen the definition but must not contradict it.
 
 **Key terms to use consistently**:
-- [[Dichotomy of Control]]: The distinction between what is "up to us" (eph' hēmin) and what is not — the foundational Stoic operating principle
+- [[Dichotomy-of-Control]]: The distinction between what is "up to us" (eph' hēmin) and what is not — the foundational Stoic operating principle
 - [[Logos]]: The rational principle underlying the cosmos; the universal reason in which all beings participate
 - [[Prohairesis]]: The faculty of rational choice; the seat of moral character; what is genuinely "ours"
 - [[Virtue]]: The only true good; the four cardinal Stoic virtues are wisdom (sophia), justice (dikaiosynē), courage (andreia), and temperance (sōphrosynē)
@@ -1086,7 +1086,7 @@ The series follows a three-phase arc:
 ```
 
 **Series-Level Themes**: The following themes recur throughout the series and should be woven in wherever relevant:
-- The [[Dichotomy of Control]] as the master framework for Stoic practice
+- The [[Dichotomy-of-Control]] as the master framework for Stoic practice
 - The distinction between Stoic wisdom and modern misreadings (Stoicism ≠ emotional suppression)
 - The relationship between Stoicism and [[Eudaimonia]] — flourishing as the goal
 - Stoicism as a system, not a collection of aphorisms

@@ -315,7 +315,7 @@ extraction_summary:
 #### 6. [KEY-CLAIM] Network Metrics *(Line 244)*
 
 > [!key-claim] Network Metrics
-> Link analysis queries are fundamental to [[Knowledge Graph]] health monitoring and [[Zettelkasten]] maintenance.
+> Link analysis queries are fundamental to [[Knowledge-Graph|Knowledge Graph]] health monitoring and [[Zettelkasten]] maintenance.
 
 #### 7. [METHODOLOGY-AND-SOURCES] Custom Property Queries *(Line 284)*
 
@@ -464,7 +464,7 @@ extraction_summary:
 - [[File Properties]]
 - [[Frontmatter]]
 - [[Inline Queries]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Analytics Formulas]]
 - [[Link Analysis]]
 - [[Meta Bind Reactive Fields]]
@@ -490,7 +490,7 @@ extraction_summary:
 | 6 | [[YAML]] | — | — | Tags & Classification | 176 |
 | 7 | [[DQL]] | — | — | Tags & Classification | 176 |
 | 8 | [[Obsidian]] | — | — | Tags & Classification | 176 |
-| 9 | [[Knowledge Graph]] | — | — | Tags & Classification | 176 |
+| 9 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Tags & Classification | 176 |
 | 10 | [[Link Analysis]] | — | — | Tags & Classification | 176 |
 | 11 | [[Temporal Queries]] | — | — | Tags & Classification | 176 |
 | 12 | [[Aggregation Functions]] | — | — | Tags & Classification | 176 |
@@ -503,7 +503,7 @@ extraction_summary:
 | 19 | [[Dashboard Design]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
 | 20 | [[PKB Architecture]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
 | 21 | [[Obsidian]] | — | — | A. Basic File Metadata Access | 205 |
-| 22 | [[Knowledge Graph]] | — | — | B. Link & Relationship Analysis | 245 |
+| 22 | [[Knowledge-Graph|Knowledge Graph]] | — | — | B. Link & Relationship Analysis | 245 |
 | 23 | [[Zettelkasten]] | — | — | B. Link & Relationship Analysis | 245 |
 | 24 | [[YAML]] | — | — | C. Frontmatter Property Access | 285 |
 | 25 | [[Dataview]] | — | — | A. Date Arithmetic | 342 |
@@ -513,7 +513,7 @@ extraction_summary:
 | 29 | [[Dashboard Design]] | — | — | A. Reading Time Estimation | 639 |
 | 30 | [[Zettelkasten]] | — | — | 34. **Note Quality Indicators** | 663 |
 | 31 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 37. **Review Scheduling** | 701 |
-| 32 | [[Knowledge Graph]] | — | — | 41. **Network Status Panel** | 755 |
+| 32 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 41. **Network Status Panel** | 755 |
 | 33 | [[DQL]] | — | — | A. Complementary Inline Queries for T... | 846 |
 | 34 | [[PKB Architecture]] | — | — | A. Research & Academic Tracking | 888 |
 | 35 | [[Andragogy]] | — | — | A. Learning Path Tracking | 975 |
@@ -527,7 +527,7 @@ extraction_summary:
 | 43 | [[Meta Bind Reactive Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1134 |
 | 44 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1137 |
 | 45 | [[Knowledge Graph Analytics Formulas]] | — | — | 🔗 Related Topics for PKB Expansion | 1139 |
-| 46 | [[Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 1140 |
+| 46 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 1140 |
 | 47 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 1142 |
 
 ---
@@ -1365,7 +1365,7 @@ LIMIT 15
 - [[File Properties]]
 - [[Frontmatter]]
 - [[Inline Queries]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Analytics Formulas]]
 - [[Link Analysis]]
 - [[Meta Bind Reactive Fields]]

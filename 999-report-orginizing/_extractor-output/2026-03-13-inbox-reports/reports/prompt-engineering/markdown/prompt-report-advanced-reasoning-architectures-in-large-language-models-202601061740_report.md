@@ -227,7 +227,7 @@ extraction_summary:
 - [[Reflexion]]
 - [[Self-Consistency]]
 - [[Self-Refine]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Weaviate]]
 - [[sentence-transformers]]
 
@@ -243,7 +243,7 @@ extraction_summary:
 | 6 | [[Bereiter and Scardamalia's (1987)]] | — | — | The Role of Thinking Tags in Reasonin... | 167 |
 | 7 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Empirical Evidence for Extended Think... | 171 |
 | 8 | [[GSM8K]] | — | — | Empirical Evidence for Extended Think... | 171 |
-| 9 | [[Tree of Thoughts]] | — | — | Empirical Evidence for Extended Think... | 173 |
+| 9 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Empirical Evidence for Extended Think... | 173 |
 | 10 | [[Game of 24]] | — | — | Empirical Evidence for Extended Think... | 173 |
 | 11 | [[Self-Consistency]] | — | — | Empirical Evidence for Extended Think... | 175 |
 | 12 | [[Reflexion]] | — | — | Empirical Evidence for Extended Think... | 177 |
@@ -252,9 +252,9 @@ extraction_summary:
 | 15 | [[Self-Consistency]] | — | — | Ensemble Reasoning: Self-Consistency ... | 203 |
 | 16 | [[Condorcet's Jury Theorem]] | — | — | Ensemble Reasoning: Self-Consistency ... | 219 |
 | 17 | [[Chain-of-Thought]] | — | — | Tree-Structured Reasoning: Exploratio... | 231 |
-| 18 | [[Tree of Thoughts]] | — | — | Tree-Structured Reasoning: Exploratio... | 231 |
+| 18 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Tree-Structured Reasoning: Exploratio... | 231 |
 | 19 | [[Game of 24]] | — | — | Tree-Structured Reasoning: Exploratio... | 235 |
-| 20 | [[Tree of Thoughts]] | — | — | Graph-Structured Reasoning: Non-Linea... | 309 |
+| 20 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Graph-Structured Reasoning: Non-Linea... | 309 |
 | 21 | [[Graph of Thoughts]] | — | — | Graph-Structured Reasoning: Non-Linea... | 309 |
 | 22 | [[Chain of Verification]] | — | — | Verification-Augmented Reasoning: Err... | 394 |
 | 23 | [[Dhuliawala et al. (2023)]] | — | — | Verification-Augmented Reasoning: Err... | 433 |
@@ -268,15 +268,15 @@ extraction_summary:
 | 31 | [[OPRO]] | — | — | Optimization by Prompting (OPRO) | 714 |
 | 32 | [[Active Prompting]] | — | — | Active Prompting: Uncertainty-Based E... | 770 |
 | 33 | [[Chain-of-Thought]] | — | — | Principle 1: Match Framework to Probl... | 840 |
-| 34 | [[Tree of Thoughts]] | — | — | Principle 1: Match Framework to Probl... | 842 |
+| 34 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Principle 1: Match Framework to Probl... | 842 |
 | 35 | [[Graph of Thoughts]] | — | — | Principle 1: Match Framework to Probl... | 842 |
 | 36 | [[Self-Consistency]] | — | — | Principle 1: Match Framework to Probl... | 844 |
 | 37 | [[RAG]] | — | — | Principle 1: Match Framework to Probl... | 846 |
 | 38 | [[Generated Knowledge]] | — | — | Principle 1: Match Framework to Probl... | 846 |
 | 39 | [[Self-Refine]] | — | — | Principle 1: Match Framework to Probl... | 848 |
-| 40 | [[Tree of Thoughts]] | — | — | Principle 1: Match Framework to Probl... | 860 |
+| 40 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Principle 1: Match Framework to Probl... | 860 |
 | 41 | [[RAG]] | — | — | Principle 2: Layer Frameworks Synergi... | 876 |
-| 42 | [[Tree of Thoughts]] | — | — | Principle 2: Layer Frameworks Synergi... | 878 |
+| 42 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Principle 2: Layer Frameworks Synergi... | 878 |
 | 43 | [[Chain of Verification]] | — | — | Principle 2: Layer Frameworks Synergi... | 880 |
 | 44 | [[Self-Refine]] | — | — | Principle 2: Layer Frameworks Synergi... | 882 |
 | 45 | [[Self-Consistency]] | — | — | Principle 2: Layer Frameworks Synergi... | 888 |
@@ -1102,7 +1102,7 @@ description includes Review
 - [[Reflexion]]
 - [[Self-Consistency]]
 - [[Self-Refine]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Weaviate]]
 - [[sentence-transformers]]
 

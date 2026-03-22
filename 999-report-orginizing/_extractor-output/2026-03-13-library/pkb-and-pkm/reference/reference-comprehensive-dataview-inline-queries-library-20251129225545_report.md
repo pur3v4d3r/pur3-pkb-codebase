@@ -268,7 +268,7 @@ extraction_summary:
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference is organized into 12 functional categories covering every major use case for inline queries. Each category contains multiple working examples with explanatory context. Use the table of contents for quick navigation, or search for specific patterns using [[Wiki-Links]]. All examples are production-ready and can be copied directly into your vault.
+> This reference is organized into 12 functional categories covering every major use case for inline queries. Each category contains multiple working examples with explanatory context. Use the table of contents for quick navigation, or search for specific patterns using [[wiki-links]]. All examples are production-ready and can be copied directly into your vault.
 
 #### 11. [DEFINITION] Untitled *(Line 322)*
 
@@ -323,7 +323,7 @@ extraction_summary:
 #### 20. [DEFINITION] Untitled *(Line 456)*
 
 > [!definition] Untitled
-> **Link Queries** analyze the [[Knowledge Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.
+> **Link Queries** analyze the [[Knowledge-Graph|Knowledge Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.
 
 #### 21. [EXAMPLE] Untitled *(Line 468)*
 
@@ -343,7 +343,7 @@ extraction_summary:
 #### 24. [WHAT-THIS-DOES] Untitled *(Line 519)*
 
 > [!what-this-does] Untitled
-> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.
+> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter|YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.
 
 #### 25. [METHODOLOGY-AND-SOURCES] Untitled *(Line 529)*
 
@@ -388,12 +388,12 @@ extraction_summary:
 #### 33. [DEFINITION] Untitled *(Line 707)*
 
 > [!definition] Untitled
-> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.
+> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[wiki-links]], enabling relational data displays and inter-note dependencies.
 
 #### 34. [WHAT-THIS-DOES] Untitled *(Line 719)*
 
 > [!what-this-does] Untitled
-> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
+> Syntax: `[[Note-Name|Note Name]].field-name`. Works with both [[YAML-Frontmatter|YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
 
 #### 35. [WARNING] Untitled *(Line 752)*
 
@@ -509,14 +509,14 @@ extraction_summary:
 - [[Implicit Fields]]
 - [[Inline Fields]]
 - [[Inline Queries]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Linked Note]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Meeting Note]]
 - [[Metadata]]
 - [[Metadata Schema Design for PKBs]]
 - [[Note]]
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Note Templates]]
 - [[Obsidian]]
 - [[Parent Note]]
@@ -529,13 +529,13 @@ extraction_summary:
 - [[Project Management]]
 - [[QuickAdd]]
 - [[Reference]]
-- [[Related Note]]
+- [[Related-Note|Related Note]]
 - [[Team Roster]]
 - [[Template-Driven Note Architecture]]
 - [[Templater Plugin]]
 - [[Temporal Analysis]]
-- [[Wiki-Links]]
-- [[YAML Frontmatter]]
+- [[wiki-links]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 
 ### All Occurrences
@@ -553,9 +553,9 @@ extraction_summary:
 | 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Claude Thinking: | 261 |
 | 10 | [[Templater Plugin]] | — | — | Claude Thinking: | 262 |
 | 11 | [[File Properties]] | — | — | Claude Thinking: | 263 |
-| 12 | [[Wiki-Links]] | — | — | Claude Thinking: | 264 |
+| 12 | [[wiki-links]] | — | — | Claude Thinking: | 264 |
 | 13 | [[Backlinks]] | — | — | Claude Thinking: | 265 |
-| 14 | [[Knowledge Graph]] | — | — | Claude Thinking: | 266 |
+| 14 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Claude Thinking: | 266 |
 | 15 | [[Note Templates]] | — | — | Claude Thinking: | 267 |
 | 16 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Claude Thinking: | 268 |
 | 17 | [[Temporal Analysis]] | — | — | Claude Thinking: | 269 |
@@ -563,7 +563,7 @@ extraction_summary:
 | 19 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking: | 297 |
 | 20 | [[Obsidian]] | — | — | Claude Thinking: | 297 |
 | 21 | [[Note Templates]] | — | — | Claude Thinking: | 297 |
-| 22 | [[Wiki-Links]] | — | — | Claude Thinking: | 301 |
+| 22 | [[wiki-links]] | — | — | Claude Thinking: | 301 |
 | 23 | [[Metadata]] | — | — | 1. ⏰ Temporal & Date Queries | 323 |
 | 24 | [[Dataview Functions]] | — | — | 📅 Basic Date Display | 335 |
 | 25 | [[Implicit Fields]] | — | — | 📅 Basic Date Display | 335 |
@@ -571,23 +571,23 @@ extraction_summary:
 | 27 | [[Templater Plugin]] | — | — | ⏳ Deadline & Time-Until Calculations | 357 |
 | 28 | [[Project Management]] | — | — | ⏳ Deadline & Time-Until Calculations | 357 |
 | 29 | [[Dashboard Design]] | — | — | 📆 Relative Date Expressions | 370 |
-| 30 | [[Knowledge Graph]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
+| 30 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
 | 31 | [[Backlinks]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
 | 32 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Link Counting | 469 |
 | 33 | [[Zettelkasten]] | — | — | 🔍 Specific Link Access | 495 |
-| 34 | [[YAML Frontmatter]] | — | — | ✅ Field Existence Checks | 520 |
+| 34 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | ✅ Field Existence Checks | 520 |
 | 35 | [[Inline Fields]] | — | — | ✅ Field Existence Checks | 520 |
 | 36 | [[Metadata]] | — | — | 5. 🧮 Mathematical & Computational Que... | 559 |
 | 37 | [[Project Management]] | — | — | 📊 Percentage Calculations | 579 |
 | 38 | [[Implicit Fields]] | — | — | ✅ Task Counting | 624 |
 | 39 | [[Metadata]] | — | — | 8. 🌐 Cross-Page Data Access | 708 |
-| 40 | [[Wiki-Links]] | — | — | 8. 🌐 Cross-Page Data Access | 708 |
+| 40 | [[wiki-links]] | — | — | 8. 🌐 Cross-Page Data Access | 708 |
 | 41 | [[Project Alpha]] | — | — | 📎 Basic Link Field Access | 713 |
 | 42 | [[Book Note]] | — | — | 📎 Basic Link Field Access | 714 |
 | 43 | [[Reference]] | — | — | 📎 Basic Link Field Access | 715 |
-| 44 | [[Related Note]] | — | — | 📎 Basic Link Field Access | 716 |
-| 45 | [[Note Name]] | — | — | 📎 Basic Link Field Access | 720 |
-| 46 | [[YAML Frontmatter]] | — | — | 📎 Basic Link Field Access | 720 |
+| 44 | [[Related-Note|Related Note]] | — | — | 📎 Basic Link Field Access | 716 |
+| 45 | [[Note-Name|Note Name]] | — | — | 📎 Basic Link Field Access | 720 |
+| 46 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 📎 Basic Link Field Access | 720 |
 | 47 | [[Implicit Fields]] | — | — | 📎 Basic Link Field Access | 720 |
 | 48 | [[Project A]] | — | — | 🔗 Multi-Note Data Aggregation | 725 |
 | 49 | [[Project B]] | — | — | 🔗 Multi-Note Data Aggregation | 725 |
@@ -611,7 +611,7 @@ extraction_summary:
 | 67 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 🎯 Synthesis & Mastery | 955 |
 | 68 | [[Note]] | — | — | 🧠 Cognitive Models | 963 |
 | 69 | [[Templater Plugin]] | — | — | 🔄 Best Practices Framework | 988 |
-| 70 | [[YAML Frontmatter]] | — | — | 🛠️ Common Patterns & Anti-Patterns | 995 |
+| 70 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🛠️ Common Patterns & Anti-Patterns | 995 |
 | 71 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🛠️ Common Patterns & Anti-Patterns | 997 |
 | 72 | [[Dataview Functions Reference]] | — | — | 🔗 Related Topics for PKB Expansion | 1033 |
 | 73 | [[Dataview Query Language (DQL) Block Queries]] | — | — | 🔗 Related Topics for PKB Expansion | 1038 |
@@ -619,7 +619,7 @@ extraction_summary:
 | 75 | [[Templater Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 1045 |
 | 76 | [[QuickAdd]] | — | — | 🔗 Related Topics for PKB Expansion | 1045 |
 | 77 | [[Metadata Schema Design for PKBs]] | — | — | 🔗 Related Topics for PKB Expansion | 1048 |
-| 78 | [[YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 1050 |
+| 78 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 1050 |
 | 79 | [[Inline Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1050 |
 
 ---
@@ -1003,7 +1003,7 @@ LIMIT 15
 ## 8. 🌐 Cross-Page Data Access
 
 > [!definition]
-> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.
+> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[wiki-links]], enabling relational data displays and inter-note dependencies.
 
 ### 📎 Basic Link Field Access
 ```
@@ -1012,7 +1012,7 @@ LIMIT 15
 
 ```plaintext
 > [!what-this-does]
-> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
+> Syntax: `[[Note-Name|Note Name]].field-name`. Works with both [[YAML-Frontmatter|YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
 
 ### 🔗 Multi-Note Data Aggregation
 ```
@@ -1262,14 +1262,14 @@ LIMIT 15
 - [[Implicit Fields]]
 - [[Inline Fields]]
 - [[Inline Queries]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Linked Note]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Meeting Note]]
 - [[Metadata]]
 - [[Metadata Schema Design for PKBs]]
 - [[Note]]
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Note Templates]]
 - [[Obsidian]]
 - [[Parent Note]]
@@ -1282,13 +1282,13 @@ LIMIT 15
 - [[Project Management]]
 - [[QuickAdd]]
 - [[Reference]]
-- [[Related Note]]
+- [[Related-Note|Related Note]]
 - [[Team Roster]]
 - [[Template-Driven Note Architecture]]
 - [[Templater Plugin]]
 - [[Temporal Analysis]]
-- [[Wiki-Links]]
-- [[YAML Frontmatter]]
+- [[wiki-links]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 
 ---

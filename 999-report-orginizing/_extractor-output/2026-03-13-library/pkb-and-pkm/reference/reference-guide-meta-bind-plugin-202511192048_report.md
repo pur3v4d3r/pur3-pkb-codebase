@@ -162,14 +162,14 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
-> **Meta Bind transforms your static [[obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard Design]], [[Task Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
+> **Meta Bind transforms your static [[Obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML-Frontmatter|YAML Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard Design]], [[Task-Management|Task Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 2. [CORE-PRINCIPLE] Untitled *(Line 50)*
 
 > [!core-principle] Untitled
 > **The Meta Bind Philosophy: "Edit Metadata from Anywhere"**
 > 
-> Traditional [[obsidian]] workflows require you to edit frontmatter properties at the top of notes or through the properties panel. Meta Bind breaks this limitation by allowing you to create interactive input fields anywhere within your note body that remain synchronized with frontmatter properties in real-time. This enables you to build custom interfaces, interactive dashboards, and dynamic forms that feel more like applications than static documents.
+> Traditional [[Obsidian]] workflows require you to edit frontmatter properties at the top of notes or through the properties panel. Meta Bind breaks this limitation by allowing you to create interactive input fields anywhere within your note body that remain synchronized with frontmatter properties in real-time. This enables you to build custom interfaces, interactive dashboards, and dynamic forms that feel more like applications than static documents.
 
 #### 3. [DEFINITION] Untitled *(Line 74)*
 
@@ -199,7 +199,7 @@ extraction_summary:
 #### 8. [CONNECTION-IDEAS] Untitled *(Line 335)*
 
 > [!connection-ideas] Untitled
-> **Meta Bind's true power emerges through integrations** with other [[obsidian]] plugins, creating compound workflows that leverage each tool's strengths.
+> **Meta Bind's true power emerges through integrations** with other [[Obsidian]] plugins, creating compound workflows that leverage each tool's strengths.
 
 #### 9. [HELPFUL-TIP] Untitled *(Line 362)*
 
@@ -282,47 +282,47 @@ extraction_summary:
 - [[QuickAdd]]
 - [[Reactive Programming]]
 - [[Reactive Programming in PKM]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Tasks]]
-- [[Tasks Plugin]]
-- [[Template System]]
+- [[Tasks-Plugin|Tasks Plugin]]
+- [[Template-System|Template System]]
 - [[Templater]]
 - [[View Fields]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
+- [[Dataview]]
 - [[habit tracking]]
-- [[obsidian]]
+- [[Obsidian]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[obsidian]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
-| 2 | [[YAML Frontmatter]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
+| 1 | [[Obsidian]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
+| 2 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 3 | [[Dashboard Design]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
-| 4 | [[Task Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
+| 4 | [[Task-Management|Task Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 5 | [[habit tracking]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 6 | [[Project Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 7 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
-| 8 | [[obsidian]] | — | — | 🎯 Core Concept & Value Proposition | 53 |
+| 8 | [[Obsidian]] | — | — | 🎯 Core Concept & Value Proposition | 53 |
 | 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Why This Matters for PKM | 59 |
-| 10 | [[dataview]] | — | — | Why This Matters for PKM | 62 |
+| 10 | [[Dataview]] | — | — | Why This Matters for PKM | 62 |
 | 11 | [[GTD]] | — | — | Why This Matters for PKM | 63 |
 | 12 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Why This Matters for PKM | 64 |
 | 13 | [[habit tracking]] | — | — | Why This Matters for PKM | 64 |
 | 14 | [[Templater]] | — | — | 3. Buttons — Action Triggers | 145 |
 | 15 | [[Book Title]] | — | — | Book Review: [[Book Title]] | 252 |
 | 16 | [[2025-11-19]] | — | — | Daily Habits — [[2025-11-19]] | 278 |
-| 17 | [[obsidian]] | — | — | 🔌 Plugin Integration Ecosystem | 336 |
+| 17 | [[Obsidian]] | — | — | 🔌 Plugin Integration Ecosystem | 336 |
 | 18 | [[Templater]] | — | — | Integration with Templater | 367 |
 | 19 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Integration with QuickAdd | 392 |
-| 20 | [[dataview]] | — | — | Integration with QuickAdd | 396 |
+| 20 | [[Dataview]] | — | — | Integration with QuickAdd | 396 |
 | 21 | [[Projects MOC]] | — | — | Multi-Action Button Workflows | 492 |
 | 22 | [[Templater]] | — | — | 2. Template-First Design | 606 |
 | 23 | [[PKB Style Guide]] | — | — | 3. Metadata Schema Planning | 620 |
 | 24 | [[Metadata Schema MOC]] | — | — | 3. Metadata Schema Planning | 620 |
-| 25 | [[dataview]] | — | — | Recommended Plugin Stack | 662 |
+| 25 | [[Dataview]] | — | — | Recommended Plugin Stack | 662 |
 | 26 | [[Templater]] | — | — | Recommended Plugin Stack | 663 |
 | 27 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Recommended Plugin Stack | 664 |
 | 28 | [[Tasks]] | — | — | Recommended Plugin Stack | 665 |
@@ -334,10 +334,10 @@ extraction_summary:
 | 34 | [[Dashboard Design Principles]] | — | — | 🧭 Related Topics for PKB Expansion | 697 |
 | 35 | [[Metadata Schema Design for PKB]] | — | — | 🧭 Related Topics for PKB Expansion | 702 |
 | 36 | [[Obsidian]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
-| 37 | [[YAML Frontmatter]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
+| 37 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 38 | [[Dataview]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 39 | [[Templater]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
-| 40 | [[Tasks Plugin]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
+| 40 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 41 | [[QuickAdd]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 42 | [[Metadata]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 43 | [[PKM Automation]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
@@ -350,7 +350,7 @@ extraction_summary:
 | 50 | [[Habit Tracking]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 51 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 52 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
-| 53 | [[Template System]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
+| 53 | [[Template-System|Template System]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 54 | [[Reactive Programming]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 55 | [[Data Binding]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 
@@ -566,7 +566,7 @@ Combine [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738
 1. Meta Bind button triggers QuickAdd macro
 2. QuickAdd presents capture interface
 3. New note created with Meta Bind input fields pre-configured
-4. Return to dashboard with updated [[dataview]] query
+4. Return to dashboard with updated [[Dataview]] query
 
 ### Integration with Day Planner / Full Calendar
 
@@ -707,17 +707,17 @@ Maintain a **Reading List MOC** with:
 - [[QuickAdd]]
 - [[Reactive Programming]]
 - [[Reactive Programming in PKM]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Tasks]]
-- [[Tasks Plugin]]
-- [[Template System]]
+- [[Tasks-Plugin|Tasks Plugin]]
+- [[Template-System|Template System]]
 - [[Templater]]
 - [[View Fields]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
+- [[Dataview]]
 - [[habit tracking]]
-- [[obsidian]]
+- [[Obsidian]]
 
 ---
 

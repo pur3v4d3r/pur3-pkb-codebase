@@ -24,7 +24,7 @@ domain: other
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,6 +47,14 @@ see-also:
   - "[[Epitome]]"
   - "[[Prior-Knowledge-Activation]]"
   - "[[Schema]]"
+  - "[[Advance-Organizers|Advance Organizers]]"
+  - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
+  - "[[David-Ausubel|David Ausubel]]"
+  - "[[Schema|Schema]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[KWL-Strategy|KWL Strategy]]"
+  - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Pre-questioning|Pre-questioning]]"
   - "[[Advance-Organizers|Advance Organizers]]"
   - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
   - "[[David-Ausubel|David Ausubel]]"
@@ -105,7 +113,7 @@ importance: medium
 > [[Woloshyn, Pressley & Schneider (1992)]] compared elaborative interrogation to advance organizers across multiple studies and found that elaborative interrogation — asking learners to explain why stated facts are true — produced more robust learning benefits, particularly for learners with relevant prior knowledge. The mechanism proposed is that elaborative interrogation forces active integration of new information with existing knowledge during encoding, rather than simply providing scaffolding in advance. The implication is that prior knowledge activation is most powerful when it is not a front-loaded intervention but an ongoing cognitive stance — a habit of mind that connects new information to existing understanding throughout the learning experience.
 
 > [!analytical-insight] Key Insight *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
-> Prior knowledge does not help all learners equally. Learners with moderate prior knowledge benefit most from advance organizers and other activation strategies, because they have enough existing structure to make connections but not enough automaticity to self-organize new material efficiently. Novices lack the structures to connect to; experts have sufficiently developed schemas that they automatically integrate new information without needing explicit scaffolding. This creates what [[Patricia Alexander]] called the domain-knowledge paradox: the learners who most need activation support are often the ones hardest to help because activation strategies presuppose some existing structure to activate.
+> Prior knowledge does not help all learners equally. Learners with moderate prior knowledge benefit most from advance organizers and other activation strategies, because they have enough existing structure to make connections but not enough automaticity to self-organize new material efficiently. Novices lack the structures to connect to; experts have sufficiently developed schemas that they automatically integrate new information without needing explicit scaffolding. This creates what [[Patricia-Alexander]] called the domain-knowledge paradox: the learners who most need activation support are often the ones hardest to help because activation strategies presuppose some existing structure to activate.
 
 > [!analytical-insight] Key Insight *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
 > According to Ausubel's assimilation theory, meaningful learning requires that (1) the material to be learned is potentially meaningful — that is, it could in principle be related to the learner's existing knowledge — and (2) relevant anchoring ideas actually exist in the learner's cognitive structure. If either condition fails, rote learning is the result. The advance organizer's job is to satisfy condition (2) when it would otherwise not be met: either by activating existing anchoring ideas (comparative organizer) or by providing new superordinate structures (expository organizer) before instruction begins.
@@ -127,6 +135,26 @@ importance: medium
 
 > [!evidence] Supporting Evidence *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
+
+> [!evidence] Supporting Evidence *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> Keith Rayner's decades of eye movement research (summarized most comprehensively in Rayner et al., 2016) establish that skilled readers make approximately 4 fixations per second, with roughly 85% of content words receiving a direct fixation. High-frequency, short, predictable words are often skipped (approximately 30% of the time), but this skipping occurs because parafoveal preview has already partially processed them — not because they are being "seen" peripherally without fixation. Crucially, attempts to suppress fixations or reduce their duration consistently degrade comprehension for complex material.
+
+> [!evidence] Supporting Evidence *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> The eye movement literature does not show that skilled readers have cracked a peripheral vision code that novices haven't. It shows the opposite: the difference between skilled and average readers is primarily in fixation efficiency (less rereading, faster individual fixation processing, better parafoveal preview use) — not in an ability to extract meaning from unfixated text. Claims that one can "read" at 1,000+ WPM by reducing sub-vocalization or using peripheral scanning are inconsistent with the perceptual span data. At those speeds, something is happening — perhaps selective extraction of key content words — but it is more accurately called skimming than reading.
+
+> [!evidence] Supporting Evidence *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> Taken together, the evidence suggests that the most productive path to faster, higher-comprehension reading runs through vocabulary development, domain knowledge building, and comprehension monitoring training — not through eye movement mechanics, sub-vocalization suppression, or peripheral vision expansion. The strategies with the strongest evidence base are cognitively demanding but they produce genuine, durable gains. The strategies marketed as shortcuts tend to produce speed without comprehension, and often produce readers who don't notice the comprehension loss.
+
+> [!analytical-insight] Key Insight *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> The four bottlenecks do not operate independently. Lexical automaticity directly reduces working memory load, which in turn increases the capacity available for situation model construction. Conversely, high inference demands (Bottleneck 3) can overflow working memory (Bottleneck 2), which then degrades the metacognitive resources available for comprehension monitoring (Bottleneck 4). The system is a cascade, not a parallel array.
+
+> [!analytical-insight] Key Insight *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> A persistent debate in reading research concerns sub-vocalization — the inner speech that most readers experience when reading silently. Speed-reading advocates argue that sub-vocalization limits reading to speaking rate (~150 WPM) and must be suppressed. Research partially supports suppression: many readers do read faster when trained to reduce sub-vocalization. However, studies using articulatory suppression (physically preventing sub-vocalization by having readers say "la-la-la" continuously) show reliable comprehension *decrements* for syntactically complex sentences. The tension: skilled readers demonstrably do show less sub-vocalization than novices, but eliminating it entirely appears to hurt comprehension for demanding text. The resolution — explored in Phase IV — lies in understanding what sub-vocalization actually does for working memory maintenance.
+
+
+
+
+
 
 
 
@@ -158,6 +186,14 @@ importance: medium
 > [!warning] **Key Distinction** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > A common instructional error is to assume that prior knowledge is always facilitative. When learners hold strong, wrong schemas, activating them at the beginning of instruction can *strengthen* the incorrect framework rather than weaken it. Effective instruction in such cases often requires making the incorrect schema explicit, confronting it directly with disconfirming evidence, and providing a better alternative that is simultaneously comprehensible, plausible, and fruitful. This sequence — surface the misconception, create conflict, introduce the replacement, reconcile — is more cognitively demanding but more effective than ignoring the pre-existing schema.
 
+> [!example] **Application** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> These strategies are not independent — they must be sequenced correctly. Attempting to increase pace before building vocabulary automaticity will produce the characteristic speed-without-comprehension failure. The productive sequence is: (1) vocabulary automaticity first, (2) domain knowledge depth, (3) pacing increase with monitoring, (4) phrase-level chunking practice. Reversing or skipping stages in this sequence is the primary cause of speed-reading training failure.
+
+> [!warning] **Key Distinction** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> The most practically dangerous outcome of naïve speed-reading training is the [[Fluency-Illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more demanding texts. Always calibrate comprehension gains against your actual target reading materials.
+
+
+
 
 
 
@@ -182,6 +218,14 @@ importance: medium
 > 1. Which of these definitions — schema, assimilation, or accommodation — challenged your prior understanding most directly? What had you previously assumed these terms meant?
 > 2. Can you identify a recent learning experience in which you were clearly assimilating new information into an existing schema? Were you aware of it at the time?
 > 3. Why might Piaget's insistence on *construction* (rather than reception) of knowledge be philosophically significant — not just for education, but for epistemology more broadly?
+
+> [!reflection] **Reflect** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> Before reading this analysis, take a moment to articulate your current beliefs about reading speed improvement. Do you believe it is possible to substantially increase reading speed — say, double or triple it — without losing comprehension? What evidence or intuition supports your position? Have you tried any speed-reading techniques, and what happened to your understanding when you did? Write your position down. The distance between your starting point and where you end up is where the most productive learning will occur.
+
+> [!reflection] **Reflect** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> Before reading Phase II, predict: what do you think is the primary bottleneck limiting your own reading speed? Identify one specific cognitive process you believe is the limiting factor. Hold this prediction through the analysis.
+
+
 
 
 
@@ -273,6 +317,60 @@ importance: medium
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md, schema-theory-and-learning-foundational-report-2026-03-06.md, silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Assimilation-Theory|Assimilation Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
+- [[Schema-Automation|Schema-Automation]]
+
+
+
+
+
+
+
+
 
 
 

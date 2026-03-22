@@ -159,17 +159,17 @@ extraction_summary:
 #### 3. [DEFINITION] Autonomy Need (Deci & Ryan, 2000) *(Line 271)*
 
 > [!definition] Autonomy Need (Deci & Ryan, 2000)
-> The need for [[autonomy]] is the need to experience one's behavior as *volitional* — as emanating from one's own values, interests, and integrated sense of self rather than from external pressure or internal compulsion. Crucially, autonomy does NOT mean independence, self-reliance, or the absence of social influence. A person can willingly, genuinely internalize another's values and act on them in a fully autonomous manner. Conversely, a person can be physically independent and yet psychologically controlled by shame, guilt, or ego-involvement. The technical term for the underlying dimension is *perceived internal locus of causation* (de Charms, 1968): the sense that one is the author of one's own behavior.
+> The need for [[Autonomy]] is the need to experience one's behavior as *volitional* — as emanating from one's own values, interests, and integrated sense of self rather than from external pressure or internal compulsion. Crucially, autonomy does NOT mean independence, self-reliance, or the absence of social influence. A person can willingly, genuinely internalize another's values and act on them in a fully autonomous manner. Conversely, a person can be physically independent and yet psychologically controlled by shame, guilt, or ego-involvement. The technical term for the underlying dimension is *perceived internal locus of causation* (de Charms, 1968): the sense that one is the author of one's own behavior.
 
 #### 4. [DEFINITION] Competence Need (White, 1959; Deci & Ryan, 2000) *(Line 276)*
 
 > [!definition] Competence Need (White, 1959; Deci & Ryan, 2000)
-> The need for [[competence]] is the need to experience oneself as *effectively producing desired outcomes* in interaction with one's environment — to feel efficacious in the activities one undertakes. This is related to but distinct from [[self-efficacy]] as defined by Bandura: self-efficacy is domain-specific confidence about future performance capability, while the competence need refers to the ongoing experiential state of feeling capable and effective. The competence need is satisfied through *optimal challenge* — tasks that stretch current capacity without overwhelming it — and through informational feedback that communicates progress and mastery.
+> The need for [[Competence]] is the need to experience oneself as *effectively producing desired outcomes* in interaction with one's environment — to feel efficacious in the activities one undertakes. This is related to but distinct from [[Self-Efficacy]] as defined by Bandura: self-efficacy is domain-specific confidence about future performance capability, while the competence need refers to the ongoing experiential state of feeling capable and effective. The competence need is satisfied through *optimal challenge* — tasks that stretch current capacity without overwhelming it — and through informational feedback that communicates progress and mastery.
 
 #### 5. [DEFINITION] Relatedness Need (Baumeister & Leary, 1995; Deci & Ryan, 2000) *(Line 279)*
 
 > [!definition] Relatedness Need (Baumeister & Leary, 1995; Deci & Ryan, 2000)
-> The need for [[relatedness]] is the need to experience *genuine connection* with others — to feel that one belongs, that one matters to others, and that others matter to oneself. This is more than affiliation; it requires a sense of mutual care and significance rather than merely proximity or social contact. In educational contexts, the relatedness need encompasses connections to instructors, peers, and the broader learning community. Importantly, relatedness satisfaction does not require large social networks — a single deeply satisfying relational connection can substantially fulfill the need, while numerous superficial social contacts may leave it largely unmet.
+> The need for [[Relatedness]] is the need to experience *genuine connection* with others — to feel that one belongs, that one matters to others, and that others matter to oneself. This is more than affiliation; it requires a sense of mutual care and significance rather than merely proximity or social contact. In educational contexts, the relatedness need encompasses connections to instructors, peers, and the broader learning community. Importantly, relatedness satisfaction does not require large social networks — a single deeply satisfying relational connection can substantially fulfill the need, while numerous superficial social contacts may leave it largely unmet.
 
 #### 6. [ASK-YOURSELF-THIS] Conceptual Checkpoint *(Line 282)*
 
@@ -203,7 +203,7 @@ extraction_summary:
 #### 11. [EVIDENCE] Competence Need — Challenge and Feedback Effects *(Line 326)*
 
 > [!evidence] Competence Need — Challenge and Feedback Effects
-> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
+> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow-Theory|Flow Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
 
 #### 12. [EVIDENCE] Relatedness Need — The Belonging Literature *(Line 329)*
 
@@ -253,7 +253,7 @@ extraction_summary:
 #### 21. [CROSS-DOMAIN-CONNECTION] Attachment Theory → BPNT: The Secure Base Parallel *(Line 384)*
 
 > [!cross-domain-connection] Attachment Theory → BPNT: The Secure Base Parallel
-> Bowlby's [[Attachment Theory]] describes how a secure attachment relationship with a caregiver enables infants and children to explore their environment: the secure base permits autonomous exploration because the child has confidence that the attachment figure will be available if needed. The BPNT mechanism revealed by La Guardia et al. is structurally identical at a later developmental stage and in non-parental relationships: relational security (relatedness satisfaction) enables autonomous engagement (autonomy need expression) because the psychological risk of genuine engagement — vulnerability, the possibility of failure, the exposure of genuine preferences — is only tolerable when one feels genuinely cared for. This cross-theoretical parallel suggests that the relatedness-autonomy interaction documented in BPNT is not an artifact of motivational research but reflects a deep feature of human psychological functioning that appears across developmental stages and relational contexts.
+> Bowlby's [[Attachment-Theory|Attachment Theory]] describes how a secure attachment relationship with a caregiver enables infants and children to explore their environment: the secure base permits autonomous exploration because the child has confidence that the attachment figure will be available if needed. The BPNT mechanism revealed by La Guardia et al. is structurally identical at a later developmental stage and in non-parental relationships: relational security (relatedness satisfaction) enables autonomous engagement (autonomy need expression) because the psychological risk of genuine engagement — vulnerability, the possibility of failure, the exposure of genuine preferences — is only tolerable when one feels genuinely cared for. This cross-theoretical parallel suggests that the relatedness-autonomy interaction documented in BPNT is not an artifact of motivational research but reflects a deep feature of human psychological functioning that appears across developmental stages and relational contexts.
 
 #### 22. [ANALYTICAL-INSIGHT] Need Frustration as a Distinct Motivational Pathway, Not Just Low Satisfaction *(Line 395)*
 
@@ -362,13 +362,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination-Theory|Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and the [[Motivation-Continuum|Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
 > 
 > - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
 > 
-> - **[[Autonomy Support in Education]]** — The most direct application node for this analysis. Reeve's ASOS framework and the teaching behaviors that distinguish autonomy-supportive from controlling instruction are the practical implementation of BPNT's autonomy need satisfaction recommendations. This report's distinctions — autonomy ≠ independence, need frustration ≠ need absence, conjunctive need architecture — provide the theoretical grounding for *why* specific autonomy-supportive behaviors matter.
+> - **[[Autonomy-Support-in-Education|Autonomy Support in Education]]** — The most direct application node for this analysis. Reeve's ASOS framework and the teaching behaviors that distinguish autonomy-supportive from controlling instruction are the practical implementation of BPNT's autonomy need satisfaction recommendations. This report's distinctions — autonomy ≠ independence, need frustration ≠ need absence, conjunctive need architecture — provide the theoretical grounding for *why* specific autonomy-supportive behaviors matter.
 > 
 > **Cross-Report Analytical Contribution:**
 > The current PKB has treated motivation (SDT), cognitive capacity (CLT), and self-regulation (SRL) in analytically separate reports. The connection analysis above suggests a cross-report synthesis opportunity: a report that examines *how motivational structure (needs), cognitive structure (load), and regulatory capacity (SRL) interact in learning*, rather than treating them as independent determinants. This would represent a Phase VI-level original synthesis across the entire learning science knowledge base developed so far.
@@ -497,9 +497,9 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Knowledge Base
 
-#### 65. [TOPIC-IDEA] [[Autonomy Support — Mechanisms and Measurement]] *(Line 624)*
+#### 65. [TOPIC-IDEA] [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]] *(Line 624)*
 
-> [!topic-idea] [[Autonomy Support — Mechanisms and Measurement]]
+> [!topic-idea] [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
 > A focused analysis of Reeve's autonomy-supportive teaching framework: the specific behavioral repertoire (taking the learner's perspective, providing meaningful rationales, using informational rather than controlling language, minimizing external pressure) that constitutes genuine autonomy support rather than merely reduced directiveness. Would examine the Autonomy-Supportive Orientation Scale (ASOS), the experimental evidence that training teachers in autonomy-supportive behaviors produces measurable motivational and achievement gains, and the structural barriers (pressure for accountability, performance metrics, time constraints) that predictably push teachers toward controlling styles. Priority: HIGH — most directly actionable for educational design contexts.
 
 #### 66. [TOPIC-IDEA] [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]] *(Line 627)*
@@ -537,69 +537,69 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Attachment Theory]]
-- [[Autonomy Support in Education]]
-- [[Autonomy Support — Mechanisms and Measurement]]
+- [[Attachment-Theory|Attachment Theory]]
+- [[Autonomy-Support-in-Education|Autonomy Support in Education]]
+- [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
 - [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
 - [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
-- [[Edward Deci]]
-- [[Flow Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Flow-Theory|Flow Theory]]
 - [[Flow Theory and Competence Need — Structural Parallels]]
-- [[Focused Analysis Report Generator v1.0]]
-- [[Maarten Vansteenkiste]]
-- [[Motivation Continuum]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
+- [[Maarten-Vansteenkiste|Maarten Vansteenkiste]]
+- [[Motivation-Continuum|Motivation Continuum]]
 - [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[autonomy]]
-- [[competence]]
-- [[relatedness]]
-- [[self-efficacy]]
+- [[Autonomy]]
+- [[Competence]]
+- [[Relatedness]]
+- [[Self-Efficacy]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Focused Analysis Report Generator v1.0]] | — | — | Basic Psychological Needs Theory: The... | 227 |
-| 2 | [[Basic Psychological Needs Theory]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 3 | [[Edward Deci]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 4 | [[Richard Ryan]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 1 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | Basic Psychological Needs Theory: The... | 227 |
+| 2 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 3 | [[Edward-Deci|Edward Deci]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 4 | [[Richard-Ryan|Richard Ryan]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 6 | [[autonomy]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 7 | [[competence]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 8 | [[relatedness]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 9 | [[Maarten Vansteenkiste]] | — | — | The Arithmetic That Doesn't Work | 241 |
-| 10 | [[Richard Ryan]] | — | — | The Arithmetic That Doesn't Work | 241 |
+| 6 | [[Autonomy]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 7 | [[Competence]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 8 | [[Relatedness]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 9 | [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] | — | — | The Arithmetic That Doesn't Work | 241 |
+| 10 | [[Richard-Ryan|Richard Ryan]] | — | — | The Arithmetic That Doesn't Work | 241 |
 | 11 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
 | 12 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
 | 13 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
 | 14 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
 | 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 2.1 Situating BPNT Within SDT | 260 |
-| 16 | [[Basic Psychological Needs Theory]] | — | — | 2.1 Situating BPNT Within SDT | 260 |
-| 17 | [[autonomy]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
-| 18 | [[competence]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
-| 19 | [[relatedness]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
-| 20 | [[autonomy]] | — | — | 2.2 The Three Needs Defined with Prec... | 272 |
-| 21 | [[competence]] | — | — | 2.2 The Three Needs Defined with Prec... | 277 |
-| 22 | [[self-efficacy]] | — | — | 2.2 The Three Needs Defined with Prec... | 277 |
-| 23 | [[relatedness]] | — | — | 2.2 The Three Needs Defined with Prec... | 280 |
-| 24 | [[Flow Theory]] | — | — | 3.2 Evidence for Individual Need Impo... | 327 |
-| 25 | [[Attachment Theory]] | — | — | 4.2 The Relatedness-Autonomy Interact... | 385 |
+| 16 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | 2.1 Situating BPNT Within SDT | 260 |
+| 17 | [[Autonomy]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
+| 18 | [[Competence]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
+| 19 | [[Relatedness]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
+| 20 | [[Autonomy]] | — | — | 2.2 The Three Needs Defined with Prec... | 272 |
+| 21 | [[Competence]] | — | — | 2.2 The Three Needs Defined with Prec... | 277 |
+| 22 | [[Self-Efficacy]] | — | — | 2.2 The Three Needs Defined with Prec... | 277 |
+| 23 | [[Relatedness]] | — | — | 2.2 The Three Needs Defined with Prec... | 280 |
+| 24 | [[Flow-Theory|Flow Theory]] | — | — | 3.2 Evidence for Individual Need Impo... | 327 |
+| 25 | [[Attachment-Theory|Attachment Theory]] | — | — | 4.2 The Relatedness-Autonomy Interact... | 385 |
 | 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
 | 27 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
 | 28 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
-| 29 | [[Motivation Continuum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
+| 29 | [[Motivation-Continuum|Motivation Continuum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
 | 30 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 529 |
 | 31 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
-| 32 | [[Autonomy Support in Education]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
-| 33 | [[Autonomy Support — Mechanisms and Measurement]] | — | — | D. Expansion Topics | 624 |
+| 32 | [[Autonomy-Support-in-Education|Autonomy Support in Education]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
+| 33 | [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]] | — | — | D. Expansion Topics | 624 |
 | 34 | [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]] | — | — | D. Expansion Topics | 627 |
 | 35 | [[Cultural Universality of Basic Psychological Needs — A Critical Examination]] | — | — | D. Expansion Topics | 630 |
 | 36 | [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]] | — | — | D. Expansion Topics | 633 |
@@ -615,31 +615,31 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Attachment Theory]]
-- [[Autonomy Support in Education]]
-- [[Autonomy Support — Mechanisms and Measurement]]
+- [[Attachment-Theory|Attachment Theory]]
+- [[Autonomy-Support-in-Education|Autonomy Support in Education]]
+- [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
 - [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
 - [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
-- [[Edward Deci]]
-- [[Flow Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Flow-Theory|Flow Theory]]
 - [[Flow Theory and Competence Need — Structural Parallels]]
-- [[Focused Analysis Report Generator v1.0]]
-- [[Maarten Vansteenkiste]]
-- [[Motivation Continuum]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
+- [[Maarten-Vansteenkiste|Maarten Vansteenkiste]]
+- [[Motivation-Continuum|Motivation Continuum]]
 - [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[autonomy]]
-- [[competence]]
-- [[relatedness]]
-- [[self-efficacy]]
+- [[Autonomy]]
+- [[Competence]]
+- [[Relatedness]]
+- [[Self-Efficacy]]
 
 ### Frontmatter Relationships
 
@@ -654,7 +654,7 @@ extraction_summary:
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Autonomy Support in Education]]
+- [[Autonomy-Support-in-Education|Autonomy Support in Education]]
 
 #### Broader
 
@@ -672,7 +672,7 @@ extraction_summary:
 
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Self-Efficacy Theory — Bandura]]
-- [[Expectancy-Value Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 
 #### Contrasts With
 

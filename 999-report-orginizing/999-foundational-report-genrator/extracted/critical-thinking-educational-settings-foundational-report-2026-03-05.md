@@ -125,11 +125,11 @@ prerequisites:
   - "[[Philosophy of Education]]"
 
 related:
-  - "[[Metacognition in Learning]]"
+  - "[[Metacognition-in-Learning|Metacognition in Learning]]"
   - "[[Inquiry-Based-Learning|Inquiry-Based Learning]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Problem-Based Learning]]"
-  - "[[Bloom's Taxonomy]]"
+  - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
 
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
@@ -158,8 +158,8 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive Development — Piaget and Vygotsky]]"
-  - "[[Foundations of Formal Logic]]"
+  - "[[Cognitive-Development-—-Piaget-and-Vygotsky|Cognitive Development — Piaget and Vygotsky]]"
+  - "[[Foundations-of-Formal-Logic|Foundations of Formal Logic]]"
 
 enables:
   - "[[Advanced Argumentation and Rhetoric]]"
@@ -173,7 +173,7 @@ expansion-topics:
   - topic: "[[Assessment of Critical Thinking — Tools and Methods]]"
     description: "Systematic coverage of validated instruments for measuring CT, including the Watson-Glaser Critical Thinking Appraisal, the California Critical Thinking Skills Test, and portfolio-based approaches."
     priority: "high"
-  - topic: "[[Metacognition and Self-Regulated Learning]]"
+  - topic: "[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]"
     description: "Deep dive into how metacognitive awareness enables and sustains critical thinking, including strategies for building metacognitive habits in learners."
     priority: "high"
   - topic: "[[Argument Mapping — Theory and Practice]]"
@@ -230,7 +230,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
 generation-date: "2026-03-05"
 ---
 
@@ -240,7 +240,7 @@ generation-date: "2026-03-05"
 
 ## Phase I: Orientation & Context Setting
 
-In the autumn of 1961, a Harvard undergraduate enrolled in a course taught by philosopher [[Robert Ennis]]. The course was unremarkable by most measures — except for a single observation Ennis made that would shape decades of educational research: students who could cite dates, formulae, and passages with impressive accuracy often collapsed entirely when asked to *evaluate* a source, *detect* a fallacy, or *construct* an argument for a position they personally disagreed with. They had knowledge. What they lacked was the capacity to *do something disciplined* with it.
+In the autumn of 1961, a Harvard undergraduate enrolled in a course taught by philosopher [[Robert-Ennis|Robert Ennis]]. The course was unremarkable by most measures — except for a single observation Ennis made that would shape decades of educational research: students who could cite dates, formulae, and passages with impressive accuracy often collapsed entirely when asked to *evaluate* a source, *detect* a fallacy, or *construct* an argument for a position they personally disagreed with. They had knowledge. What they lacked was the capacity to *do something disciplined* with it.
 
 This gap — between information held and judgment exercised — is the animating problem of [[Critical-Thinking|critical thinking]] in education. It is not a new problem. Socrates identified it in fifth-century Athens. John Dewey named it in the progressive education movement of the early twentieth century. And yet, despite more than a century of pedagogical reform efforts, it remains stubbornly persistent. Contemporary students in nearly every national context arrive at university able to memorize and reproduce, but far less reliably able to analyse, evaluate, and reason with independence and rigour.
 
@@ -296,7 +296,7 @@ The [[Socratic-Method|Socratic Method]] is the oldest formalised practice of cri
 
 In the early twentieth century, the American philosopher and educational reformer [[John-Dewey|John Dewey]] gave critical thinking its first systematic modern treatment. Dewey's concept of "reflective thinking," developed primarily in *How We Think* (1910, revised 1933), identified five phases of productive thought: encountering a felt difficulty, defining the problem, generating hypotheses, evaluating the consequences of each hypothesis, and testing the surviving hypothesis empirically. For Dewey, reflective thought was not a luxury of intellectual life — it was the mechanism through which human beings solved genuine problems and grew in understanding. His insistence that education should cultivate this capacity rather than produce passive recipients of received knowledge laid the theoretical groundwork for all subsequent CT pedagogy.
 
-The mid-twentieth century saw the field become more formal and taxonomically ambitious. [[Benjamin Bloom]]'s *Taxonomy of Educational Objectives* (1956), revised by Anderson and Krathwohl in 2001, provided educators with a hierarchical model of cognitive demand: from remembering and understanding at the lower end, through applying and analysing in the middle, to evaluating and creating at the apex. This taxonomy made critical thinking *visible* in curriculum design by establishing that higher-order cognitive skills could be named, targeted, and assessed — a practical contribution of enormous consequence for classroom practice.
+The mid-twentieth century saw the field become more formal and taxonomically ambitious. [[Benjamin-Bloom|Benjamin Bloom]]'s *Taxonomy of Educational Objectives* (1956), revised by Anderson and Krathwohl in 2001, provided educators with a hierarchical model of cognitive demand: from remembering and understanding at the lower end, through applying and analysing in the middle, to evaluating and creating at the apex. This taxonomy made critical thinking *visible* in curriculum design by establishing that higher-order cognitive skills could be named, targeted, and assessed — a practical contribution of enormous consequence for classroom practice.
 
 The 1980s and 1990s witnessed an explosion of formal research on CT, driven partly by concern that American higher education was producing graduates who lacked basic reasoning competencies. Robert Ennis at the University of Illinois developed influential taxonomies of CT skills and dispositions. Richard Paul and Linda Elder at the Foundation for Critical Thinking developed what became the Paul-Elder framework — the most elaborated model of CT elements and standards to emerge from this period. Peter Facione convened the landmark Delphi study that produced an expert consensus definition of CT used widely to this day.
 
@@ -356,12 +356,12 @@ The third debate concerns the relationship between **CT and democratic citizensh
 
 Understanding critical thinking at the level of theoretical frameworks is necessary but insufficient. To effectively develop CT in students, educators need to understand the cognitive mechanisms that underlie it — the actual mental processes that constitute analysis, evaluation, and inference in practice.
 
-**Working Memory and Cognitive Load** form the neurological substrate within which CT operates. [[Working-Memory|Working memory]] is the cognitive system that temporarily holds and manipulates information during active thinking. Critical thinking is inherently demanding of working memory: to evaluate an argument, a thinker must simultaneously hold the conclusion, the supporting premises, the logical relationship between them, relevant background knowledge, and alternative interpretations. Research by [[John Sweller]] on [[Cognitive-Load-Theory|cognitive load theory]] reveals why novice learners struggle with CT tasks — their working memory is consumed by the basic comprehension demands of the content, leaving insufficient cognitive resources for the analytical overlay that CT requires. This has direct pedagogical implications: CT instruction must attend to the learner's existing knowledge base, because CT cannot be layered onto content ignorance.
+**Working Memory and Cognitive Load** form the neurological substrate within which CT operates. [[Working-Memory|Working memory]] is the cognitive system that temporarily holds and manipulates information during active thinking. Critical thinking is inherently demanding of working memory: to evaluate an argument, a thinker must simultaneously hold the conclusion, the supporting premises, the logical relationship between them, relevant background knowledge, and alternative interpretations. Research by [[John-Sweller|John Sweller]] on [[Cognitive-Load-Theory|cognitive load theory]] reveals why novice learners struggle with CT tasks — their working memory is consumed by the basic comprehension demands of the content, leaving insufficient cognitive resources for the analytical overlay that CT requires. This has direct pedagogical implications: CT instruction must attend to the learner's existing knowledge base, because CT cannot be layered onto content ignorance.
 
 > [!key-insight] **The Knowledge-CT Dependency**
-> A counterintuitive but empirically robust finding is that critical thinking is deeply dependent on domain knowledge. [[Daniel Willingham]]'s work on reading comprehension and thinking demonstrates that critical evaluation of a claim about climate science requires substantially more background scientific knowledge than most students (or adults) possess. This does not mean that CT should be deferred until students have acquired comprehensive domain knowledge — but it does mean that CT instruction divorced from content learning is likely to produce students who can apply CT procedures to trivial examples but fail to deploy them when it matters.
+> A counterintuitive but empirically robust finding is that critical thinking is deeply dependent on domain knowledge. [[Daniel-Willingham|Daniel Willingham]]'s work on reading comprehension and thinking demonstrates that critical evaluation of a claim about climate science requires substantially more background scientific knowledge than most students (or adults) possess. This does not mean that CT should be deferred until students have acquired comprehensive domain knowledge — but it does mean that CT instruction divorced from content learning is likely to produce students who can apply CT procedures to trivial examples but fail to deploy them when it matters.
 
-**Dual Process Theory** — associated with [[Daniel Kahneman]]'s distinction between System 1 (fast, intuitive, associative thinking) and System 2 (slow, deliberate, analytical thinking) — provides another important lens on the CT challenge. Most of the cognitive errors that CT instruction aims to correct — confirmation bias, availability heuristics, anchoring, in-group favouritism — arise from the automatic, fast operation of System 1 reasoning. Critical thinking essentially involves the strategic deployment of System 2 to check, correct, and supplement System 1 outputs. The implication is sobering: we are not naturally critical thinkers. We are naturally efficient pattern-recognisers whose System 1 processes produce enormous value in familiar, low-stakes environments but generate characteristic errors in complex, high-stakes, or novel situations.
+**Dual Process Theory** — associated with [[Daniel-Kahneman|Daniel Kahneman]]'s distinction between System 1 (fast, intuitive, associative thinking) and System 2 (slow, deliberate, analytical thinking) — provides another important lens on the CT challenge. Most of the cognitive errors that CT instruction aims to correct — confirmation bias, availability heuristics, anchoring, in-group favouritism — arise from the automatic, fast operation of System 1 reasoning. Critical thinking essentially involves the strategic deployment of System 2 to check, correct, and supplement System 1 outputs. The implication is sobering: we are not naturally critical thinkers. We are naturally efficient pattern-recognisers whose System 1 processes produce enormous value in familiar, low-stakes environments but generate characteristic errors in complex, high-stakes, or novel situations.
 
 > [!thought-experiment] **The Newspaper Headline Test**
 > Imagine you encounter the following headline: "Coffee linked to 30% reduction in heart disease risk." Before reading further, notice what happens automatically in your mind. Do you feel a surge of relief (if you drink coffee)? Scepticism (if you've seen similar headlines before)? An impulse to share it? These automatic reactions are System 1 in operation. Critical thinking involves pausing to ask: What kind of study produced this finding? Was it a correlation or a controlled experiment? What was the sample size, and was it representative? Was the study industry-funded? What is the absolute risk reduction, not just the relative one? None of these questions arise spontaneously for most readers — they require deliberate, disciplined effortful thought. This is the gap that CT education aims to close.
@@ -381,7 +381,7 @@ Understanding critical thinking at the level of theoretical frameworks is necess
 
 Underlying the specific processes of analysis, evaluation, and inference is the metacognitive capacity to *monitor and regulate* one's own reasoning. [[Metacognition]] operates at two levels: metacognitive *knowledge* (knowing that one tends toward confirmation bias, for instance, or knowing that unfamiliar content increases cognitive load) and metacognitive *regulation* (actively deploying strategies to compensate for known tendencies and limitations).
 
-Research by [[Ann Brown]], [[John Flavell]], and others has established that metacognitive skills are strongly associated with academic achievement and transferable learning. Students who can accurately assess their own understanding, identify when they are confused, and select appropriate strategies for resolving confusion substantially outperform those who cannot — even when controlling for general intelligence. Developing metacognitive awareness is, therefore, not a supplement to CT instruction but a central component of it.
+Research by [[Ann-Brown|Ann Brown]], [[John-Flavell|John Flavell]], and others has established that metacognitive skills are strongly associated with academic achievement and transferable learning. Students who can accurately assess their own understanding, identify when they are confused, and select appropriate strategies for resolving confusion substantially outperform those who cannot — even when controlling for general intelligence. Developing metacognitive awareness is, therefore, not a supplement to CT instruction but a central component of it.
 
 > [!ask-yourself-this] **Testing Your Understanding of Mechanisms**
 > Can you explain, in your own words, why a student might perform perfectly on a formal logic exercise in a philosophy class but then fail to detect an obvious logical fallacy in a political speech they agree with? What cognitive mechanisms account for this inconsistency? If you find this question difficult, it signals that the mechanisms described in this section merit a second, slower reading.
@@ -404,7 +404,7 @@ The translation of CT theory into classroom practice has generated an extensive 
 > [!best-practice] **Open-Ended Question Design for CT Development**
 > Questions that effectively develop CT share several features: they are genuinely open (multiple reasonable answers exist), they require substantiation (students cannot answer with a simple recall), they invite disagreement (they surface live intellectual tensions rather than directing toward a predetermined correct view), and they build on each other (successive questions increase the analytical demand). The most common mistake in would-be Socratic instruction is that teachers telegraph the "right" answer through their questioning sequence, converting genuine inquiry into a disguised lecture.
 
-**Argument Mapping** is a technique in which students visually represent the structure of arguments — drawing diagrams that show which claims serve as premises, which are conclusions, what logical connectors link them, and where objections might be raised. Research by [[Tim van Gelder]] and colleagues at the University of Melbourne demonstrated that structured practice in argument mapping produced significant gains in CT skills as measured by standardised instruments, with stronger effect sizes than comparison courses. The mechanism appears to be that externalising argument structure reduces cognitive load (by distributing reasoning across the diagram) and makes logical structure visible in ways that facilitate accurate evaluation.
+**Argument Mapping** is a technique in which students visually represent the structure of arguments — drawing diagrams that show which claims serve as premises, which are conclusions, what logical connectors link them, and where objections might be raised. Research by [[Tim-van-Gelder|Tim van Gelder]] and colleagues at the University of Melbourne demonstrated that structured practice in argument mapping produced significant gains in CT skills as measured by standardised instruments, with stronger effect sizes than comparison courses. The mechanism appears to be that externalising argument structure reduces cognitive load (by distributing reasoning across the diagram) and makes logical structure visible in ways that facilitate accurate evaluation.
 
 **Case-Based and Problem-Based Learning** embed CT in authentic, complex problems that resist algorithmic solutions. Rather than teaching analysis as an abstract skill, these approaches require students to deploy analytical capacities in the service of problems that matter — diagnosing a patient, analysing a legal case, designing an experiment, interpreting historical evidence. The research evidence is clear that problem-based approaches increase motivation and engagement, and some evidence supports improved CT transfer, though the effects are heterogeneous and depend heavily on implementation quality.
 
@@ -420,7 +420,7 @@ The translation of CT theory into classroom practice has generated an extensive 
 
 Assessing critical thinking is significantly more difficult than assessing content knowledge, and this difficulty has major practical consequences — including the troubling likelihood that because CT is difficult to assess, it is often not genuinely assessed at all.
 
-Validated assessment instruments include the [[Watson-Glaser Critical Thinking Appraisal]], the [[California Critical Thinking Skills Test]] (CCTST), and Facione's [[California Critical Thinking Dispositions Inventory]] (CCTDI). These tools are psychometrically robust but narrow — they measure specific CT sub-skills in decontextualised settings, and their relationship to how students actually reason in authentic disciplinary contexts is uncertain.
+Validated assessment instruments include the [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]], the [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] (CCTST), and Facione's [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] (CCTDI). These tools are psychometrically robust but narrow — they measure specific CT sub-skills in decontextualised settings, and their relationship to how students actually reason in authentic disciplinary contexts is uncertain.
 
 Portfolio-based assessment, analytic rubrics for written argumentation, and structured oral examination offer more authentic windows into CT development but are resource-intensive and require trained assessors to achieve reliability. The tension between reliability and authenticity in CT assessment remains one of the field's significant unresolved practical problems.
 
@@ -472,9 +472,9 @@ And it enables intellectual humility about the limits of current knowledge — r
 >
 > This report on Critical Thinking in Educational Settings connects to other knowledge nodes in the following ways:
 >
-> **[[Metacognition in Learning]]** — Metacognition is not merely adjacent to CT — it is constitutive of it. The connection is bidirectional: understanding CT deepens understanding of why metacognitive monitoring matters; understanding metacognition explains the executive mechanism through which CT skills are deployed and corrected. Any note on metacognition should cross-reference the CT dispositions literature, and vice versa.
+> **[[Metacognition-in-Learning|Metacognition in Learning]]** — Metacognition is not merely adjacent to CT — it is constitutive of it. The connection is bidirectional: understanding CT deepens understanding of why metacognitive monitoring matters; understanding metacognition explains the executive mechanism through which CT skills are deployed and corrected. Any note on metacognition should cross-reference the CT dispositions literature, and vice versa.
 >
-> **[[Bloom's Taxonomy]]** — Bloom's Revised Taxonomy provides the most widely used practical scaffold for operationalising CT in curriculum design. Understanding CT's theoretical depth enriches understanding of why "Analyse, Evaluate, Create" represent genuine cognitive advances rather than arbitrary additions to a list — they correspond to qualitatively distinct cognitive processes described in this report.
+> **[[Bloom's-Taxonomy|Bloom's Taxonomy]]** — Bloom's Revised Taxonomy provides the most widely used practical scaffold for operationalising CT in curriculum design. Understanding CT's theoretical depth enriches understanding of why "Analyse, Evaluate, Create" represent genuine cognitive advances rather than arbitrary additions to a list — they correspond to qualitatively distinct cognitive processes described in this report.
 >
 > **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL is, in part, the pedagogical implementation of Dewey's reflective thinking model. Understanding CT theory explains *why* IBL works when it works (it provides authentic problems, knowledge scaffolding, and practised reasoning in context) and why it fails when it fails (absence of explicit CT instruction, insufficient knowledge base, no metacognitive prompting).
 >
@@ -577,7 +577,7 @@ And it enables intellectual humility about the limits of current knowledge — r
 > > [!topic-idea] [[Assessment of Critical Thinking — Tools and Methods]]
 > > This expansion would systematically review the validated instruments for CT measurement — the Watson-Glaser Critical Thinking Appraisal, the California Critical Thinking Skills Test, the Collegiate Learning Assessment (CLA), and performance-based assessments — evaluating their psychometric properties, practical constraints, and alignment with different CT frameworks. It would also address the design of classroom-level CT rubrics and the use of portfolio assessment for capturing CT development over time. Priority: High — the assessment challenge is the single most significant practical obstacle to systematic CT development in schools.
 >
-> > [!topic-idea] [[Metacognition and Self-Regulated Learning]]
+> > [!topic-idea] [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 > > This report would provide a foundational treatment of metacognition as a construct, tracing its theoretical development from Flavell through Brown, Zimmerman, and Pintrich. It would examine the relationship between metacognitive monitoring, self-regulated learning strategies, and academic performance, with specific attention to how metacognitive habits can be explicitly taught. Priority: High — metacognition is identified in this report as the executive capacity underlying sustained CT, warranting dedicated foundational treatment.
 >
 > > [!topic-idea] [[Argument Mapping — Theory and Practice]]
@@ -591,4 +591,4 @@ And it enables intellectual humility about the limits of current knowledge — r
 
 ---
 
-*Report generated by [[Foundational Report Generator v1.0]] · Generation date: 2026-03-05 · Model: claude-sonnet-4-6*
+*Report generated by [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] · Generation date: 2026-03-05 · Model: claude-sonnet-4-6*

@@ -218,12 +218,12 @@ extraction_summary:
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Epistemic Curiosity]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Luhmann’s Zettelkasten]]
 - [[Metacognition]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Robert Bjork]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[Zeigarnik Effect]]
 
@@ -237,8 +237,8 @@ extraction_summary:
 | 4 | [[Luhmann’s Zettelkasten]] | — | — | 📈 Review System | 85 |
 | 5 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | The Philosophy of Nutritional Cognition | 100 |
 | 6 | [[Epistemic Curiosity]] | — | — | 1. Autonomy: The Necessity of Volition | 123 |
-| 7 | [[Flow Theory]] | — | — | 2. Competence: The Architecture of Ma... | 131 |
-| 8 | [[Robert Bjork]] | — | — | 2. Competence: The Architecture of Ma... | 138 |
+| 7 | [[Flow-Theory|Flow Theory]] | — | — | 2. Competence: The Architecture of Ma... | 131 |
+| 8 | [[Robert-Bjork|Robert Bjork]] | — | — | 2. Competence: The Architecture of Ma... | 138 |
 | 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase 3: Connective Tissue | 181 |
 | 10 | [[Luhmann’s Zettelkasten]] | — | — | Phase 3: Connective Tissue | 182 |
 | 11 | [[Metacognition]] | — | — | Phase 3: Connective Tissue | 183 |
@@ -272,12 +272,12 @@ $$
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Epistemic Curiosity]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Luhmann’s Zettelkasten]]
 - [[Metacognition]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Robert Bjork]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[Zeigarnik Effect]]
 

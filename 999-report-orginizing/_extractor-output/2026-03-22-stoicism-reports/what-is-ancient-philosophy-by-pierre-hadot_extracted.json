@@ -1,0 +1,2020 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-22T02:18:58.983971",
+    "source_file": "what-is-ancient-philosophy-by-pierre-hadot.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-stoicism\\reports\\what-is-ancient-philosophy-by-pierre-hadot.md",
+    "source_file_size_bytes": 767417,
+    "processing_time_seconds": 0.21
+  },
+  "document_metadata": {
+    "frontmatter": {},
+    "word_count": 119833,
+    "character_count": 740322,
+    "line_count": 18597,
+    "heading_count": 0
+  },
+  "extraction_summary": {
+    "total_items_extracted": 324,
+    "by_type": {
+      "headings": 0,
+      "callouts": 0,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 319,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Philosophy, Ancient. 1. Title.",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "ww",
+          "indent_level": 1,
+          "line_number": 11229,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "PHILOSOPHY BEFORE PHILOSOPHY",
+          "indent_level": 1,
+          "line_number": 11273,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "THE INCEPTION OF THE IDEA OF “DOING PHILOSOPHY”",
+          "indent_level": 1,
+          "line_number": 11373,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "23.",
+          "indent_level": 1,
+          "line_number": 11427,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "THE FIGURE OF SOCRATES",
+          "indent_level": 1,
+          "line_number": 11483,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "31.",
+          "indent_level": 1,
+          "line_number": 11593,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "33.",
+          "indent_level": 0,
+          "line_number": 11599,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "35.",
+          "indent_level": 0,
+          "line_number": 11601,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "M. Merleau-Ponty, Eloge de la philosophie et autres essais (Paris,",
+          "indent_level": 1,
+          "line_number": 11603,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "THE DEFINITION OF “PHILOSOPHER” IN PLATO'S SYMPOSIUM",
+          "indent_level": 1,
+          "line_number": 11624,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "20.",
+          "indent_level": 1,
+          "line_number": 11679,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "22.",
+          "indent_level": 0,
+          "line_number": 11685,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "24.",
+          "indent_level": 0,
+          "line_number": 11687,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "26.",
+          "indent_level": 0,
+          "line_number": 11691,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "L. Robin, “Notice,” in Plato, Le Banquet (Paris, 1981), Ist ed. (1929),",
+          "indent_level": 1,
+          "line_number": 11696,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "PLATO AND THE ACADEMY",
+          "indent_level": 1,
+          "line_number": 11719,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "43.",
+          "indent_level": 1,
+          "line_number": 11860,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "46.",
+          "indent_level": 0,
+          "line_number": 11867,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "48.",
+          "indent_level": 0,
+          "line_number": 11869,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "50.",
+          "indent_level": 1,
+          "line_number": 11873,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "52.",
+          "indent_level": 1,
+          "line_number": 11879,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "54.",
+          "indent_level": 0,
+          "line_number": 11883,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "56.",
+          "indent_level": 0,
+          "line_number": 11885,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "58.",
+          "indent_level": 0,
+          "line_number": 11887,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "60.",
+          "indent_level": 0,
+          "line_number": 11889,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "62.",
+          "indent_level": 1,
+          "line_number": 11891,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "64.",
+          "indent_level": 0,
+          "line_number": 11895,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "66.",
+          "indent_level": 1,
+          "line_number": 11897,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "68.",
+          "indent_level": 1,
+          "line_number": 11971,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "70.",
+          "indent_level": 1,
+          "line_number": 11975,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "72.",
+          "indent_level": 0,
+          "line_number": 11979,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "74.",
+          "indent_level": 1,
+          "line_number": 11981,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "76.",
+          "indent_level": 1,
+          "line_number": 11985,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "_",
+          "indent_level": 1,
+          "line_number": 11989,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "ARISTOTLE AND HIS SCHOOL",
+          "indent_level": 1,
+          "line_number": 12028,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "15.",
+          "indent_level": 1,
+          "line_number": 12060,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "17.",
+          "indent_level": 0,
+          "line_number": 12064,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "19.",
+          "indent_level": 1,
+          "line_number": 12068,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "21.",
+          "indent_level": 0,
+          "line_number": 12072,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "23.",
+          "indent_level": 0,
+          "line_number": 12074,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "25.",
+          "indent_level": 1,
+          "line_number": 12078,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "27.",
+          "indent_level": 1,
+          "line_number": 12151,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "29.",
+          "indent_level": 0,
+          "line_number": 12157,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "31.",
+          "indent_level": 0,
+          "line_number": 12159,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "33.",
+          "indent_level": 1,
+          "line_number": 12161,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "35.",
+          "indent_level": 1,
+          "line_number": 12165,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "37.",
+          "indent_level": 0,
+          "line_number": 12171,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "39.",
+          "indent_level": 0,
+          "line_number": 12173,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "41.",
+          "indent_level": 0,
+          "line_number": 12177,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Aristotle, Metaphysics, XII, 1075a7—10: “Just as it is in certain mo-",
+          "indent_level": 0,
+          "line_number": 12181,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "13.",
+          "indent_level": 1,
+          "line_number": 12241,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "THE HELLENISTIC SCHOOLS",
+          "indent_level": 1,
+          "line_number": 12245,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Diogenes Laertius, Lives of the Philosophers, IV, 16.",
+          "indent_level": 0,
+          "line_number": 12324,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See J. P. Lynch, Aristotle’s School: A Study of a Greek Educational Insti-",
+          "indent_level": 0,
+          "line_number": 12326,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Diogenes Laertius, Lives of the Philosophers, III, 41; V, 11, 51, 61, 69;",
+          "indent_level": 0,
+          "line_number": 12329,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "C. Diano, “La philosophie du plaisir et la société des amis, in Diano,",
+          "indent_level": 0,
+          "line_number": 12332,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Diogenes Laertius, Lives of the Philosophers, IV, 19.",
+          "indent_level": 0,
+          "line_number": 12342,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Ibid., V, 4; Lynch, Aristotle’s School, p. 82.",
+          "indent_level": 0,
+          "line_number": 12344,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Diogenes Laertius, Lives of the Philosophers, VII, 5-6; 36.",
+          "indent_level": 0,
+          "line_number": 12346,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Ibid., 10.",
+          "indent_level": 0,
+          "line_number": 12348,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Ibid., 27.",
+          "indent_level": 0,
+          "line_number": 12350,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Sextus Empiricus, Outlines of Pyrrhonism, 1, 16-17. Compare the",
+          "indent_level": 0,
+          "line_number": 12352,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "A.-J. Voelke, La philosophie comme thérapie de l’dme: Etudes de",
+          "indent_level": 0,
+          "line_number": 12357,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Alexander of Aphrodisias, In Aristotelis Topica comment., in the se-",
+          "indent_level": 0,
+          "line_number": 12360,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See P. Hadot, “Philosophie, dialectique, rhétorique dans |’ Antiquité,”",
+          "indent_level": 0,
+          "line_number": 12364,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Cicero, On the Ends of Goods and Evils, IV, 3, 7.",
+          "indent_level": 0,
+          "line_number": 12367,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "I. Hadot, “Epicure et l’enseignement philosophique hellénistique et",
+          "indent_level": 0,
+          "line_number": 12369,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Ibid., pp. 351-352.",
+          "indent_level": 0,
+          "line_number": 12373,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See P. Hadot, “Les modéles de bonheur proposés par les philosophies",
+          "indent_level": 0,
+          "line_number": 12375,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "33.",
+          "indent_level": 1,
+          "line_number": 12383,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "35.",
+          "indent_level": 0,
+          "line_number": 12389,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "37.",
+          "indent_level": 0,
+          "line_number": 12391,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "39.",
+          "indent_level": 0,
+          "line_number": 12395,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "4l.",
+          "indent_level": 0,
+          "line_number": 12397,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "43.",
+          "indent_level": 1,
+          "line_number": 12399,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "45.",
+          "indent_level": 1,
+          "line_number": 12403,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "47.",
+          "indent_level": 1,
+          "line_number": 12407,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Evidence has been collected in L. Paquet, Les Cyniques grecs: Frag-",
+          "indent_level": 0,
+          "line_number": 12411,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Ibid., 69.",
+          "indent_level": 0,
+          "line_number": 12470,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Epicure: Lettres, maximes, sentences, trans. and ed. J.-E Balaudé",
+          "indent_level": 0,
+          "line_number": 12471,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "69.",
+          "indent_level": 1,
+          "line_number": 12472,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "(Paris, 1994), cited in what follows as Balaudé. This work is an excel-",
+          "indent_level": 0,
+          "line_number": 12478,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See Arrighetti, ed., Epicuro, pp. 512-513.",
+          "indent_level": 1,
+          "line_number": 12543,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "72.",
+          "indent_level": 1,
+          "line_number": 12554,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "74.",
+          "indent_level": 0,
+          "line_number": 12560,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "76.",
+          "indent_level": 0,
+          "line_number": 12562,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "78.",
+          "indent_level": 0,
+          "line_number": 12564,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "80.",
+          "indent_level": 1,
+          "line_number": 12568,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "82.",
+          "indent_level": 1,
+          "line_number": 12574,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "84.",
+          "indent_level": 1,
+          "line_number": 12580,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "86.",
+          "indent_level": 1,
+          "line_number": 12584,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "88.",
+          "indent_level": 1,
+          "line_number": 12590,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "90.",
+          "indent_level": 1,
+          "line_number": 12596,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "92",
+          "indent_level": 1,
+          "line_number": 12663,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "94,",
+          "indent_level": 1,
+          "line_number": 12669,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "96.",
+          "indent_level": 1,
+          "line_number": 12675,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "98.",
+          "indent_level": 0,
+          "line_number": 12679,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "100.",
+          "indent_level": 0,
+          "line_number": 12681,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "102.",
+          "indent_level": 1,
+          "line_number": 12683,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "104.",
+          "indent_level": 1,
+          "line_number": 12689,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "106.",
+          "indent_level": 0,
+          "line_number": 12693,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "108.",
+          "indent_level": 0,
+          "line_number": 12695,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "110.",
+          "indent_level": 1,
+          "line_number": 12697,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "112.",
+          "indent_level": 1,
+          "line_number": 12701,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Horace, Epistles, 1, 4, 13; Philodemus, On Death, Book IV, cols. 38,",
+          "indent_level": 0,
+          "line_number": 12705,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "115.",
+          "indent_level": 1,
+          "line_number": 12767,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "117.",
+          "indent_level": 0,
+          "line_number": 12771,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "119.",
+          "indent_level": 0,
+          "line_number": 12773,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "121.",
+          "indent_level": 0,
+          "line_number": 12775,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "123.",
+          "indent_level": 0,
+          "line_number": 12779,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "125.",
+          "indent_level": 0,
+          "line_number": 12781,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "127.",
+          "indent_level": 1,
+          "line_number": 12783,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "129.",
+          "indent_level": 1,
+          "line_number": 12789,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "131.",
+          "indent_level": 1,
+          "line_number": 12855,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "133.",
+          "indent_level": 0,
+          "line_number": 12861,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "135.",
+          "indent_level": 1,
+          "line_number": 12863,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "137.",
+          "indent_level": 0,
+          "line_number": 12867,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "139.",
+          "indent_level": 0,
+          "line_number": 12869,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "141.",
+          "indent_level": 0,
+          "line_number": 12871,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "143.",
+          "indent_level": 0,
+          "line_number": 12875,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "145.",
+          "indent_level": 0,
+          "line_number": 12879,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "147.",
+          "indent_level": 0,
+          "line_number": 12883,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Cicero, On the Ends of Goods and Evils, Il, 1, 1-4.",
+          "indent_level": 0,
+          "line_number": 12890,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "149.",
+          "indent_level": 1,
+          "line_number": 12945,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "151.",
+          "indent_level": 0,
+          "line_number": 12951,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "153.",
+          "indent_level": 0,
+          "line_number": 12955,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "PHILOSOPHICAL SCHOOLS IN THE IMPERIAL WORLD",
+          "indent_level": 1,
+          "line_number": 12975,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "M.-D. Chenu, Introduction a létude de saint Thomas (Paris: Vrin,",
+          "indent_level": 0,
+          "line_number": 13036,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Diogenes Laertius, Lives of the Philosophers, VII, 53-54.",
+          "indent_level": 0,
+          "line_number": 13039,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Plato, Timaeus, 24c.",
+          "indent_level": 0,
+          "line_number": 13041,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See L. Robert, “Trois oracles de la Théosophie et un prophéte",
+          "indent_level": 0,
+          "line_number": 13043,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See P. Hadot, “Théologie, exégése, révélation, écriture dans la",
+          "indent_level": 0,
+          "line_number": 13048,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Epictetus, Discourses, III, 21-23; idem, Manual, $49.",
+          "indent_level": 0,
+          "line_number": 13052,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Plutarch, On Isis and Osiris, 382d. See also P. Hadot, “La division des",
+          "indent_level": 0,
+          "line_number": 13054,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "I. Hadot, Le probléme du néoplatonisme, pp. 160-164; eadem, Intro-",
+          "indent_level": 0,
+          "line_number": 13058,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Aulus Gellius, Attic Nights, I, 26, 1-111. On Epictetus, see J. Souilhé,",
+          "indent_level": 0,
+          "line_number": 13062,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Porphyry, Life of Plotinus, 3, 35.",
+          "indent_level": 0,
+          "line_number": 13065,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Aulus Gellius, Attic Nights, XVII, 8; VII, 13.",
+          "indent_level": 0,
+          "line_number": 13067,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "W. Burkert, Lore and Science in Ancient Pythagoreanism (Cambridge,",
+          "indent_level": 0,
+          "line_number": 13069,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Aristophon, The Pythagorist, quoted in J. P. Dumont, ed., Les",
+          "indent_level": 0,
+          "line_number": 13072,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Burkert, Lore and Science, pp. 150-175.",
+          "indent_level": 0,
+          "line_number": 13075,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "P. C. Van der Horst, ed., Les Vers d’or pythagoriciens (Leiden, 1932);",
+          "indent_level": 0,
+          "line_number": 13077,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Porphyre, Vie de Pythagore, ed. and trans. E. Des Places (Paris, 1982);",
+          "indent_level": 0,
+          "line_number": 13081,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Taurus, in Aulus Gellius, Attic Nights, I, 9. See also A.-J. Festugiére,",
+          "indent_level": 0,
+          "line_number": 13085,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Porphyry, On Abstinence, I, 2, 3; 3, 3.",
+          "indent_level": 0,
+          "line_number": 13089,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "32.",
+          "indent_level": 1,
+          "line_number": 13094,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "34.",
+          "indent_level": 0,
+          "line_number": 13098,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "36.",
+          "indent_level": 0,
+          "line_number": 13100,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "38.",
+          "indent_level": 0,
+          "line_number": 13102,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "40.",
+          "indent_level": 0,
+          "line_number": 13104,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "42.",
+          "indent_level": 0,
+          "line_number": 13106,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "44.",
+          "indent_level": 0,
+          "line_number": 13108,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "46.",
+          "indent_level": 0,
+          "line_number": 13112,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "48.",
+          "indent_level": 0,
+          "line_number": 13114,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "51.",
+          "indent_level": 1,
+          "line_number": 13119,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "53.",
+          "indent_level": 0,
+          "line_number": 13123,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "55.",
+          "indent_level": 0,
+          "line_number": 13125,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "57.",
+          "indent_level": 0,
+          "line_number": 13127,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "59.",
+          "indent_level": 1,
+          "line_number": 13129,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "61.",
+          "indent_level": 0,
+          "line_number": 13133,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "63.",
+          "indent_level": 1,
+          "line_number": 13210,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "65.",
+          "indent_level": 0,
+          "line_number": 13214,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "67.",
+          "indent_level": 0,
+          "line_number": 13216,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "69.",
+          "indent_level": 0,
+          "line_number": 13218,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "71.",
+          "indent_level": 0,
+          "line_number": 13222,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "73.",
+          "indent_level": 1,
+          "line_number": 13226,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "75.",
+          "indent_level": 1,
+          "line_number": 13232,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Enneads, VI, 9 (9), 3, 37-54.",
+          "indent_level": 1,
+          "line_number": 13238,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See, for instance, R. Masullo, “Il tema degli ‘Esercizi Spiritual’ nella",
+          "indent_level": 0,
+          "line_number": 13269,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "PHILOSOPHY AND PHILOSOPHICAL DISCOURSE",
+          "indent_level": 1,
+          "line_number": 13288,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": ". Diogenes Laertius, Lives of the Philosophers, IV, 18.",
+          "indent_level": 1,
+          "line_number": 13318,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "24,",
+          "indent_level": 1,
+          "line_number": 13394,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "26.",
+          "indent_level": 1,
+          "line_number": 13398,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "28.",
+          "indent_level": 0,
+          "line_number": 13404,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "30.",
+          "indent_level": 1,
+          "line_number": 13406,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "32.",
+          "indent_level": 0,
+          "line_number": 13410,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "34,",
+          "indent_level": 0,
+          "line_number": 13412,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "36.",
+          "indent_level": 0,
+          "line_number": 13416,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "38.",
+          "indent_level": 1,
+          "line_number": 13420,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "40.",
+          "indent_level": 0,
+          "line_number": 13424,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "42.",
+          "indent_level": 1,
+          "line_number": 13428,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "44.",
+          "indent_level": 0,
+          "line_number": 13432,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Iamblichus, Life of Pythagoras, §§ 164-165.",
+          "indent_level": 0,
+          "line_number": 13471,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Porphyry, Life of Pythagoras, §40.",
+          "indent_level": 0,
+          "line_number": 13481,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "46.",
+          "indent_level": 1,
+          "line_number": 13497,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "48.",
+          "indent_level": 0,
+          "line_number": 13501,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "51.",
+          "indent_level": 0,
+          "line_number": 13506,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "53.",
+          "indent_level": 1,
+          "line_number": 13510,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "55.",
+          "indent_level": 0,
+          "line_number": 13514,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "57.",
+          "indent_level": 1,
+          "line_number": 13516,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "59.",
+          "indent_level": 0,
+          "line_number": 13520,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "61.",
+          "indent_level": 0,
+          "line_number": 13522,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "63.",
+          "indent_level": 0,
+          "line_number": 13524,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "65.",
+          "indent_level": 1,
+          "line_number": 13528,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "67.",
+          "indent_level": 1,
+          "line_number": 13534,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "69.",
+          "indent_level": 1,
+          "line_number": 13604,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "71.",
+          "indent_level": 1,
+          "line_number": 13608,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "73.",
+          "indent_level": 0,
+          "line_number": 13612,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "76.",
+          "indent_level": 0,
+          "line_number": 13617,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "78.",
+          "indent_level": 1,
+          "line_number": 13621,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "80.",
+          "indent_level": 0,
+          "line_number": 13625,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "82.",
+          "indent_level": 1,
+          "line_number": 13629,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "84.",
+          "indent_level": 0,
+          "line_number": 13635,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "86.",
+          "indent_level": 0,
+          "line_number": 13637,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "88.",
+          "indent_level": 0,
+          "line_number": 13641,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "90.",
+          "indent_level": 1,
+          "line_number": 13643,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "92.",
+          "indent_level": 1,
+          "line_number": 13710,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "94,",
+          "indent_level": 0,
+          "line_number": 13716,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "96.",
+          "indent_level": 1,
+          "line_number": 13720,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "98.",
+          "indent_level": 1,
+          "line_number": 13724,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "100.",
+          "indent_level": 0,
+          "line_number": 13730,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "102.",
+          "indent_level": 0,
+          "line_number": 13733,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "104.",
+          "indent_level": 0,
+          "line_number": 13735,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "106.",
+          "indent_level": 0,
+          "line_number": 13737,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "108.",
+          "indent_level": 0,
+          "line_number": 13739,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "110.",
+          "indent_level": 1,
+          "line_number": 13743,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "112.",
+          "indent_level": 1,
+          "line_number": 13747,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "F. Refoulé, “Réves et vie spirituelle d’aprés Evagre le Pontique,”",
+          "indent_level": 1,
+          "line_number": 13751,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Marcus Aurelius, Meditations, XI, 1, 3; VII, 47, 1; X, 17.",
+          "indent_level": 0,
+          "line_number": 13808,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "115.",
+          "indent_level": 1,
+          "line_number": 13822,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "117.",
+          "indent_level": 0,
+          "line_number": 13826,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "119.",
+          "indent_level": 1,
+          "line_number": 13828,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "121.",
+          "indent_level": 0,
+          "line_number": 13832,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "123.",
+          "indent_level": 1,
+          "line_number": 13834,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "125.",
+          "indent_level": 0,
+          "line_number": 13838,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "127.",
+          "indent_level": 1,
+          "line_number": 13840,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "129.",
+          "indent_level": 1,
+          "line_number": 13844,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "131.",
+          "indent_level": 0,
+          "line_number": 13848,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "133.",
+          "indent_level": 0,
+          "line_number": 13850,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "135.",
+          "indent_level": 0,
+          "line_number": 13852,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "137.",
+          "indent_level": 1,
+          "line_number": 13854,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "139.",
+          "indent_level": 0,
+          "line_number": 13858,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "141.",
+          "indent_level": 0,
+          "line_number": 13862,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "E. Renan, Oeuvres completes, vol. 2 (Paris, 1948), p. 1037.",
+          "indent_level": 1,
+          "line_number": 13866,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "144.",
+          "indent_level": 1,
+          "line_number": 13939,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "146.",
+          "indent_level": 0,
+          "line_number": 13945,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "148.",
+          "indent_level": 0,
+          "line_number": 13949,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "150.",
+          "indent_level": 1,
+          "line_number": 13951,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "152.",
+          "indent_level": 0,
+          "line_number": 13955,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "154.",
+          "indent_level": 1,
+          "line_number": 13957,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "156.",
+          "indent_level": 0,
+          "line_number": 13961,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "158.",
+          "indent_level": 0,
+          "line_number": 13965,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "160.",
+          "indent_level": 0,
+          "line_number": 13967,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "162.",
+          "indent_level": 0,
+          "line_number": 13971,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "164.",
+          "indent_level": 0,
+          "line_number": 13973,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "166.",
+          "indent_level": 0,
+          "line_number": 13977,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "168.",
+          "indent_level": 0,
+          "line_number": 13979,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Plotinus, Enneads, V, 3 (49), 17, 1.",
+          "indent_level": 0,
+          "line_number": 14050,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "B. Frischer, The Sculpted Word: Epicureanism and Philosophical Re-",
+          "indent_level": 0,
+          "line_number": 14052,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Seneca, Letters, 92, 27; Stoicorum Veterum Fragmenta, III, §§245—-",
+          "indent_level": 0,
+          "line_number": 14055,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "172. Nietzsche, Posthumous Fragments, Fall 1887, 10 [90], in Nietzsche,",
+          "indent_level": 0,
+          "line_number": 14057,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "B. Groethuysen, Anthropologie philosophique (Paris, 1952), p. 80",
+          "indent_level": 0,
+          "line_number": 14062,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Marcus Aurelius, Meditations, IX, 32.",
+          "indent_level": 0,
+          "line_number": 14066,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Seneca, Letters, 64, 6. See also P. Hadot, “Le sage et le monde,” Le",
+          "indent_level": 0,
+          "line_number": 14068,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Lucretius, On Nature, II, 1023ff.",
+          "indent_level": 0,
+          "line_number": 14071,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "M. Hulin, La mystique sauvage (Paris, 1993).",
+          "indent_level": 0,
+          "line_number": 14073,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Seneca, Letters, 41, 3-4. See also I. Hadot, Seneca, p. 94.",
+          "indent_level": 0,
+          "line_number": 14075,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Kant, Critique of Practical Reason, Conclusion, vol. 5, p. 161.",
+          "indent_level": 0,
+          "line_number": 14077,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "P. Veyne, ed., Sénéque: Entretiens, Lettres a Lucilius (Paris, 1993),",
+          "indent_level": 0,
+          "line_number": 14079,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Lucian, Hermotimus, ch. 77.",
+          "indent_level": 0,
+          "line_number": 14082,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "J. Bouveresse, Wittgenstein, la rime et la raison (Paris, 1973), p. 74.",
+          "indent_level": 0,
+          "line_number": 14084,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Chrysippe, p. 219, note 1. Bréhier quotes Sutta Nipata, trans.",
+          "indent_level": 0,
+          "line_number": 14086,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Hulin, La mystique sauvage, pp. 243, 238-242.",
+          "indent_level": 0,
+          "line_number": 14089,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "CHRISTIANITY AS A REVEALED PHILOSOPHY",
+          "indent_level": 0,
+          "line_number": 14091,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Heraclitus, fragment B 1, in J. P. Dumont, ed., Les Présocratiques",
+          "indent_level": 0,
+          "line_number": 14093,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Amelius, in Eusebius, Evangelical Preparation, XI, 19.",
+          "indent_level": 0,
+          "line_number": 14096,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See L. Brisson, “Amélius: Sa vie, son oeuvre, sa doctrine, son style,”",
+          "indent_level": 0,
+          "line_number": 14098,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Justin, Apology II, 8, 1; 13, 3. Translated in A. Wartelle, ed., Saint",
+          "indent_level": 0,
+          "line_number": 14102,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "13.",
+          "indent_level": 1,
+          "line_number": 14111,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "18.",
+          "indent_level": 1,
+          "line_number": 14197,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "20.",
+          "indent_level": 1,
+          "line_number": 14203,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "22.",
+          "indent_level": 0,
+          "line_number": 14207,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "24.",
+          "indent_level": 0,
+          "line_number": 14211,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "26.",
+          "indent_level": 1,
+          "line_number": 14215,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "28.",
+          "indent_level": 1,
+          "line_number": 14221,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "30.",
+          "indent_level": 1,
+          "line_number": 14225,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "32.",
+          "indent_level": 0,
+          "line_number": 14229,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "34.",
+          "indent_level": 0,
+          "line_number": 14231,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Dorotheus of Gaza, Spiritual Works, §§111, 13 and 117, 7 (pp. 353,",
+          "indent_level": 0,
+          "line_number": 14263,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "36.",
+          "indent_level": 1,
+          "line_number": 14290,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "38.",
+          "indent_level": 0,
+          "line_number": 14296,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "40.",
+          "indent_level": 0,
+          "line_number": 14298,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "42.",
+          "indent_level": 0,
+          "line_number": 14302,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "44.",
+          "indent_level": 1,
+          "line_number": 14304,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "46.",
+          "indent_level": 0,
+          "line_number": 14310,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "ECLIPSES AND RECURRENCES OF THE ANCIENT CONCEPT",
+          "indent_level": 1,
+          "line_number": 14347,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "16.",
+          "indent_level": 1,
+          "line_number": 14382,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "22.",
+          "indent_level": 1,
+          "line_number": 14467,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "24.",
+          "indent_level": 0,
+          "line_number": 14473,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "27.",
+          "indent_level": 0,
+          "line_number": 14476,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "29.",
+          "indent_level": 0,
+          "line_number": 14480,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "31.",
+          "indent_level": 1,
+          "line_number": 14484,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "33.",
+          "indent_level": 1,
+          "line_number": 14490,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "35.",
+          "indent_level": 1,
+          "line_number": 14559,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "37.",
+          "indent_level": 1,
+          "line_number": 14565,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "39.",
+          "indent_level": 1,
+          "line_number": 14571,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "41.",
+          "indent_level": 1,
+          "line_number": 14577,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "43,",
+          "indent_level": 0,
+          "line_number": 14583,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "45.",
+          "indent_level": 0,
+          "line_number": 14587,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "47.",
+          "indent_level": 0,
+          "line_number": 14589,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "49.",
+          "indent_level": 1,
+          "line_number": 14593,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "51.",
+          "indent_level": 1,
+          "line_number": 14599,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "53.",
+          "indent_level": 0,
+          "line_number": 14603,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "55.",
+          "indent_level": 1,
+          "line_number": 14666,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "57.",
+          "indent_level": 0,
+          "line_number": 14670,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "59..",
+          "indent_level": 0,
+          "line_number": 14674,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "61.",
+          "indent_level": 1,
+          "line_number": 14678,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "_",
+          "indent_level": 1,
+          "line_number": 14684,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "QUESTIONS AND PERSPECTIVES",
+          "indent_level": 1,
+          "line_number": 14717,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": ". S. Zac, “Kant, les stoiciens et le christianisme, Revue de méta-",
+          "indent_level": 1,
+          "line_number": 14723,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "13.",
+          "indent_level": 1,
+          "line_number": 14763,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "15.",
+          "indent_level": 0,
+          "line_number": 14769,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "19.",
+          "indent_level": 1,
+          "line_number": 14834,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "21.",
+          "indent_level": 1,
+          "line_number": 14838,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "23.",
+          "indent_level": 1,
+          "line_number": 14844,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Boyancé, P. Lucréce et I’ picurisme. Paris, 1963.",
+          "indent_level": 0,
+          "line_number": 15093,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "330 SELECTED BIBLIOGRAPHY",
+          "indent_level": 0,
+          "line_number": 15120,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "See also Impassivity",
+          "indent_level": 0,
+          "line_number": 17474,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "We find traces of this practice in the second-century B.c. Letter",
+          "indent_level": 0,
+          "line_number": 8040,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "theoretical reason. As Kant says, “allinterest is ultimately practical,",
+          "indent_level": 0,
+          "line_number": 10773,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "semilegendary founder of Taoism and traditionally the author of the",
+          "indent_level": 1,
+          "line_number": 12447,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "Oeuvres de Saint Augustin, no. 8, Ist series: Opuscules, VIII: La foi",
+          "indent_level": 1,
+          "line_number": 14335,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        },
+        {
+          "text": "pure, 122; sublimated, 60, 69",
+          "indent_level": 0,
+          "line_number": 17257,
+          "source": "what-is-ancient-philosophy-by-pierre-hadot.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

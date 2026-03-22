@@ -333,7 +333,7 @@ extraction_summary:
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 1.  `[[Meta-Prompting]]`
 > 1.  `[[In-Context Learning (ICL)]]`
-> 1.  `[[Chain-of-Thought (CoT)]]`
+> 1.  `[[Chain-of-Thought|Chain-of-Thought (CoT)]]`
 
 #### 28. [QUESTION] Untitled *(Line 334)*
 
@@ -376,7 +376,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Chain-of-Thought (CoT)]]
+- [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[In-Context Learning (ICL)]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
@@ -392,7 +392,7 @@ extraction_summary:
 | 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 6. 🌍 Broader Implications and Signifi... | 252 |
 | 4 | [[Meta-Prompting]] | — | — | 9. 🧠 Key Questions for Active Reading... | 330 |
 | 5 | [[In-Context Learning (ICL)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 331 |
-| 6 | [[Chain-of-Thought (CoT)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 332 |
+| 6 | [[Chain-of-Thought|Chain-of-Thought (CoT)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 332 |
 
 ---
 
@@ -434,7 +434,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Chain-of-Thought (CoT)]]
+- [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[In-Context Learning (ICL)]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]

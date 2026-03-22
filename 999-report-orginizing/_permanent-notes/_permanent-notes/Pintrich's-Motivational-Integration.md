@@ -18,7 +18,7 @@ domain: other
 subdomains:
   - 
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - self-regulated-learning-focused-analysis-2026-03-06
@@ -43,6 +43,14 @@ see-also:
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[PKB]]"
+  - "[[Forethought-Phase|Forethought Phase]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Paul-Pintrich|Paul Pintrich]]"
+  - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
+  - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
+  - "[[PKB|PKB]]"
   - "[[Forethought-Phase|Forethought Phase]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
@@ -78,7 +86,7 @@ importance: high
 # Pintrich's Motivational Integration
 
 > [!definition] **Pintrich's Motivational Integration**
-> Pintrich extended Zimmerman's primarily cognitive account by foregrounding [[Motivational Regulation]] as a co-equal component of self-regulation alongside cognitive and metacognitive regulation. His framework distinguishes: **[[Goal-Orientation]]** (mastery vs. performance approach vs. performance avoidance — which shapes not just effort level but the qualitative nature of regulatory behavior); **[[Task Value]]** (intrinsic interest, utility value, and attainment value — which determine whether regulation is initiated in the first place); and **[[Self-Efficacy]] for learning and performance** (which governs not just persistence but the cognitive resources voluntarily allocated to the task). Pintrich's Motivated Strategies for Learning Questionnaire ([[MSLQ]]) operationalized these constructs and has been used in hundreds of studies.
+> Pintrich extended Zimmerman's primarily cognitive account by foregrounding [[Motivational-Regulation]] as a co-equal component of self-regulation alongside cognitive and metacognitive regulation. His framework distinguishes: **[[Goal-Orientation]]** (mastery vs. performance approach vs. performance avoidance — which shapes not just effort level but the qualitative nature of regulatory behavior); **[[Task-Value]]** (intrinsic interest, utility value, and attainment value — which determine whether regulation is initiated in the first place); and **[[Self-Efficacy]] for learning and performance** (which governs not just persistence but the cognitive resources voluntarily allocated to the task). Pintrich's Motivated Strategies for Learning Questionnaire ([[MSLQ]]) operationalized these constructs and has been used in hundreds of studies.
 
 ## Core Explanation
 
@@ -150,6 +158,28 @@ importance: high
 **Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
 - [[Adaptive-Immunity|Adaptive Immunity]]
 - [[Innate-Immunity|Innate Immunity]]
+
+**Related concepts** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Forethought-Phase|Forethought Phase]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Goal-Orientation|Goal Orientation]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+
+
+
+
 
 
 

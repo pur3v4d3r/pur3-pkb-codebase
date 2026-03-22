@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Obsidian-Basics|Obsidian Basics]]"
   - "[[Community-Plugins|Community Plugins]]"
   - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
+  - "[[Obsidian|Obsidian]]"
+  - "[[Visual-Thinking|Visual Thinking]]"
+  - "[[Knowledge-Visualization|Knowledge Visualization]]"
+  - "[[Mind-Mapping|Mind Mapping]]"
+  - "[[PKM|PKM]]"
+  - "[[Obsidian-Basics|Obsidian Basics]]"
+  - "[[Community-Plugins|Community Plugins]]"
+  - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -114,7 +122,7 @@ importance: medium
 > [**Visual-Thinking-Accessibility**:: Excalidraw removes the "I'm not artistic" barrier by providing hand-drawn aesthetics automatically—rough, sketch-like appearance makes imperfect drawings look intentional rather than amateur.]^established
 
 > [!analytical-insight] Key Insight
-> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual PKM]] rather than isolated sketches.]^verified-stable
+> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual-PKM]] rather than isolated sketches.]^verified-stable
 
 ## Practical Implications
 
@@ -131,4 +139,8 @@ importance: medium
 
 **Related concepts** *(from reference-comprehensive-excalidraw-and-markmind-2025121812.md)*:
 [[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[ExcaliBrain|ExcaliBrain]] * [[Markdown|Markdown]] * [[LaTeX|LaTeX]] * [[Note-Name|Note Name]] * [[wiki-links|wiki-links]] * [[Templater|Templater]] * [[QuickAdd|QuickAdd]] * [[JavaScript-Basics|JavaScript Basics]]
+
+**Related concepts** *(from reference-comprehensive-excalidraw-and-markmind-2025121812.md)*:
+[[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[Note-Name|Note Name]] * [[JavaScript-Basics|JavaScript Basics]] * [[Related-Note|Related Note]] * [[Domain|Domain]] * [[Subtopic-A|Subtopic A]] * [[Subtopic-B|Subtopic B]] * [[Concept-Name|Concept Name]] * [[Related-Concept|Related Concept]]
+
 

@@ -390,19 +390,19 @@ extraction_summary:
 > 
 > This focused analysis of SDT as a learning driver connects substantively to several adjacent areas in your knowledge base:
 > 
-> - **[[Growth Mindset and Incremental Intelligence Theory]]** — Dweck's growth mindset research and SDT's competence mechanism are deeply complementary but often treated separately. Both identify the challenge-seeking orientation as foundational to learning motivation; growth mindset addresses *beliefs about intelligence* as a moderator, while SDT's competence mechanism addresses *environmental conditions* as determinants. The interaction is theoretically important: a learner with a strong growth mindset may be better able to preserve autonomous competence-seeking even in mildly controlling environments, while a learner with a fixed mindset may be especially vulnerable to competence thwarting because failure confirms a fixed-ability narrative. Understanding this interaction requires integrating both frameworks.
+> - **[[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]** — Dweck's growth mindset research and SDT's competence mechanism are deeply complementary but often treated separately. Both identify the challenge-seeking orientation as foundational to learning motivation; growth mindset addresses *beliefs about intelligence* as a moderator, while SDT's competence mechanism addresses *environmental conditions* as determinants. The interaction is theoretically important: a learner with a strong growth mindset may be better able to preserve autonomous competence-seeking even in mildly controlling environments, while a learner with a fixed mindset may be especially vulnerable to competence thwarting because failure confirms a fixed-ability narrative. Understanding this interaction requires integrating both frameworks.
 > 
-> - **[[Metacognition and Self-Regulated Learning]]** — Self-regulated learning (SRL) and SDT address motivation from different angles. SRL frameworks (Zimmerman, Pintrich) describe the cognitive-metacognitive processes learners deploy to manage their learning; SDT describes the motivational conditions under which those processes are deployed with full engagement versus defensiveness or disengagement. The connection is that autonomous regulation is essentially the motivational precondition for self-regulation: learners can only engage in genuine self-monitoring, self-evaluation, and adaptive strategy deployment when they are motivated by mastery rather than performance management. SRL without SDT-compatible environments produces self-regulation in service of controlled goals.
+> - **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]** — Self-regulated learning (SRL) and SDT address motivation from different angles. SRL frameworks (Zimmerman, Pintrich) describe the cognitive-metacognitive processes learners deploy to manage their learning; SDT describes the motivational conditions under which those processes are deployed with full engagement versus defensiveness or disengagement. The connection is that autonomous regulation is essentially the motivational precondition for self-regulation: learners can only engage in genuine self-monitoring, self-evaluation, and adaptive strategy deployment when they are motivated by mastery rather than performance management. SRL without SDT-compatible environments produces self-regulation in service of controlled goals.
 > 
-> - **[[Psychological Safety in Learning Environments]]** — Edmondson's psychological safety construct (developed in organizational contexts) maps directly onto SDT's relatedness mechanism and risk architecture analysis. Both frameworks converge on the same functional claim: when felt relational safety is absent, risk-taking (intellectual, creative, experimental) is suppressed. Cross-referencing these two literatures strengthens both: SDT provides the needs-based theoretical mechanism for why psychological safety matters, while the organizational literature provides implementation-level evidence about how team leaders and teachers can create safety through specific behaviors (listening, non-judgment, welcoming error as information).
+> - **[[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]** — Edmondson's psychological safety construct (developed in organizational contexts) maps directly onto SDT's relatedness mechanism and risk architecture analysis. Both frameworks converge on the same functional claim: when felt relational safety is absent, risk-taking (intellectual, creative, experimental) is suppressed. Cross-referencing these two literatures strengthens both: SDT provides the needs-based theoretical mechanism for why psychological safety matters, while the organizational literature provides implementation-level evidence about how team leaders and teachers can create safety through specific behaviors (listening, non-judgment, welcoming error as information).
 > 
-> - **[[Expectancy-Value Theory]]** — Wigfield and Eccles' expectancy-value theory addresses motivation through learners' expectations of success and subjective task value. SDT and EVT are complementary in identifying why task value matters: in SDT terms, perceiving a task as valuable is the cognitive marker of identified regulation — the student has cognitively connected the task to their own goals and values. SDT goes further by identifying the *environmental conditions* that promote this value integration (autonomy support, rationale provision), while EVT goes further in specifying the content of subjective value (utility, interest, attainment, cost). Together they provide a fuller picture of academic motivation than either alone.
+> - **[[Expectancy-Value-Theory|Expectancy-Value Theory]]** — Wigfield and Eccles' expectancy-value theory addresses motivation through learners' expectations of success and subjective task value. SDT and EVT are complementary in identifying why task value matters: in SDT terms, perceiving a task as valuable is the cognitive marker of identified regulation — the student has cognitively connected the task to their own goals and values. SDT goes further by identifying the *environmental conditions* that promote this value integration (autonomy support, rationale provision), while EVT goes further in specifying the content of subjective value (utility, interest, attainment, cost). Together they provide a fuller picture of academic motivation than either alone.
 > 
-> - **[[Gamification in Learning]]** — Gamification is a theoretically interesting application domain for SDT because game mechanics can easily thwart or satisfy the three needs depending on implementation. Points, leaderboards, and badges are classic reward structures that CET predicts will undermine intrinsic motivation when they shift PLOC toward external — and the evidence from gamification research is consistent with this: competition-based leaderboards tend to undermine motivation for below-average performers and produce performance-goal orientation for all. Game mechanics that satisfy the competence need (optimal challenge, immediate feedback, mastery-based progression) and the autonomy need (choice, meaningful decisions, narrative agency) are more consistent with SDT's predictions about long-term engagement. This tension between popular gamification practice and SDT principles is a productive site for both research and design innovation.
+> - **[[Gamification-in-Learning|Gamification in Learning]]** — Gamification is a theoretically interesting application domain for SDT because game mechanics can easily thwart or satisfy the three needs depending on implementation. Points, leaderboards, and badges are classic reward structures that CET predicts will undermine intrinsic motivation when they shift PLOC toward external — and the evidence from gamification research is consistent with this: competition-based leaderboards tend to undermine motivation for below-average performers and produce performance-goal orientation for all. Game mechanics that satisfy the competence need (optimal challenge, immediate feedback, mastery-based progression) and the autonomy need (choice, meaningful decisions, narrative agency) are more consistent with SDT's predictions about long-term engagement. This tension between popular gamification practice and SDT principles is a productive site for both research and design innovation.
 > 
 > **Cross-Report Links:**
 > 
-> - **[[Self-Determination Theory — Foundational Overview]]** — This analysis extends the foundational treatment by drilling into the specific mechanisms through which each need drives learning outcomes, adding the need thwarting / need satisfaction asymmetry analysis, and offering the gateway model as an original synthesis. Readers should consult the foundational report for historical development, sub-theory architecture, and broad empirical landscape before engaging with this analysis.
+> - **[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]** — This analysis extends the foundational treatment by drilling into the specific mechanisms through which each need drives learning outcomes, adding the need thwarting / need satisfaction asymmetry analysis, and offering the gateway model as an original synthesis. Readers should consult the foundational report for historical development, sub-theory architecture, and broad empirical landscape before engaging with this analysis.
 > 
 > **Synthetic Observation:** The pattern of connections visible in this knowledge graph reveals that SDT occupies a distinctive theoretical position: it provides the *motivational mechanism layer* that many other frameworks in learning science presuppose without explaining. Growth mindset theory tells us what beliefs matter; SDT explains what environmental conditions produce those beliefs. SRL theory tells us what processes matter; SDT explains what motivational conditions make those processes available. Psychological safety research tells us what relational conditions matter; SDT explains *why* they matter through the relatedness mechanism. SDT is less a standalone framework than an explanatory infrastructure that makes other learning frameworks motivationally intelligible.
 
@@ -563,66 +563,66 @@ extraction_summary:
 ### Unique Targets
 
 - [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
-- [[Avi Assor]]
+- [[Avi-Assor|Avi Assor]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Conditional-Regard|Conditional regard]]
 - [[Csikszentmihalyi]]
 - [[Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]]
-- [[Edward Deci]]
-- [[Expectancy-Value Theory]]
-- [[Gamification in Learning]]
-- [[Growth Mindset and Incremental Intelligence Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
 - [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
 - [[Intrinsic-Motivation|Intrinsic motivation]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
-- [[Need deprivation]]
+- [[Need-deprivation|Need deprivation]]
 - [[Need-Thwarting|Need thwarting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Psychological Safety in Learning Environments]]
-- [[Richard Ryan]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]]
 - [[SDT and Formative Assessment: Feedback as Informational or Controlling]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory — Foundational Overview]]
-- [[autonomy]]
-- [[competence]]
-- [[flow]]
-- [[relatedness]]
+- [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]
+- [[Autonomy]]
+- [[Competence]]
+- [[Flow]]
+- [[Relatedness]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
-| 2 | [[Edward Deci]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
-| 3 | [[Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
-| 4 | [[autonomy]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
-| 5 | [[competence]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
-| 6 | [[relatedness]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
-| 7 | [[Self-Determination Theory — Foundational Overview]] | — | — | Phase I: Orientation & Analytical Focus | 255 |
+| 2 | [[Edward-Deci|Edward Deci]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
+| 3 | [[Richard-Ryan|Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
+| 4 | [[Autonomy]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
+| 5 | [[Competence]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
+| 6 | [[Relatedness]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
+| 7 | [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] | — | — | Phase I: Orientation & Analytical Focus | 255 |
 | 8 | [[Intrinsic-Motivation|Intrinsic motivation]] | — | — | Intrinsic Motivation and the Problem ... | 271 |
 | 9 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Regulatory Spectrum: From Amotiva... | 292 |
-| 10 | [[Need deprivation]] | — | — | The Evidence Landscape: Breadth, Dept... | 348 |
+| 10 | [[Need-deprivation|Need deprivation]] | — | — | The Evidence Landscape: Breadth, Dept... | 348 |
 | 11 | [[Need-Thwarting|Need thwarting]] | — | — | The Evidence Landscape: Breadth, Dept... | 348 |
 | 12 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Evidence Landscape: Breadth, Dept... | 358 |
 | 13 | [[Csikszentmihalyi]] | — | — | The Mechanism of Competence: Optimal ... | 399 |
-| 14 | [[flow]] | — | — | The Mechanism of Competence: Optimal ... | 399 |
+| 14 | [[Flow]] | — | — | The Mechanism of Competence: Optimal ... | 399 |
 | 15 | [[Conditional-Regard|Conditional regard]] | — | — | The Mechanism of Relatedness: Social ... | 416 |
-| 16 | [[Avi Assor]] | — | — | The Mechanism of Relatedness: Social ... | 416 |
-| 17 | [[Growth Mindset and Incremental Intelligence Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 539 |
-| 18 | [[Metacognition and Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 541 |
-| 19 | [[Psychological Safety in Learning Environments]] | — | — | Phase VII: PKB Connections & Cross-Re... | 543 |
-| 20 | [[Expectancy-Value Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 545 |
-| 21 | [[Gamification in Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 547 |
-| 22 | [[Self-Determination Theory — Foundational Overview]] | — | — | Phase VII: PKB Connections & Cross-Re... | 551 |
+| 16 | [[Avi-Assor|Avi Assor]] | — | — | The Mechanism of Relatedness: Social ... | 416 |
+| 17 | [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 539 |
+| 18 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 541 |
+| 19 | [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] | — | — | Phase VII: PKB Connections & Cross-Re... | 543 |
+| 20 | [[Expectancy-Value-Theory|Expectancy-Value Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 545 |
+| 21 | [[Gamification-in-Learning|Gamification in Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 547 |
+| 22 | [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] | — | — | Phase VII: PKB Connections & Cross-Re... | 551 |
 | 23 | [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] | — | — | D. Expansion Topics | 637 |
 | 24 | [[Autonomy Support in Digital and AI-Mediated Learning Environments]] | — | — | D. Expansion Topics | 640 |
 | 25 | [[SDT and Formative Assessment: Feedback as Informational or Controlling]] | — | — | D. Expansion Topics | 643 |
 | 26 | [[Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]] | — | — | D. Expansion Topics | 646 |
 | 27 | [[SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]] | — | — | D. Expansion Topics | 649 |
 | 28 | [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]] | — | — | D. Expansion Topics | 652 |
-| 29 | [[Self-Determination Theory — Foundational Overview]] | — | — | D. Expansion Topics | 657 |
+| 29 | [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] | — | — | D. Expansion Topics | 657 |
 
 ---
 
@@ -634,32 +634,32 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
-- [[Avi Assor]]
+- [[Avi-Assor|Avi Assor]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Conditional-Regard|Conditional regard]]
 - [[Csikszentmihalyi]]
 - [[Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]]
-- [[Edward Deci]]
-- [[Expectancy-Value Theory]]
-- [[Gamification in Learning]]
-- [[Growth Mindset and Incremental Intelligence Theory]]
+- [[Edward-Deci|Edward Deci]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
 - [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
 - [[Intrinsic-Motivation|Intrinsic motivation]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
-- [[Need deprivation]]
+- [[Need-deprivation|Need deprivation]]
 - [[Need-Thwarting|Need thwarting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Psychological Safety in Learning Environments]]
-- [[Richard Ryan]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]]
 - [[SDT and Formative Assessment: Feedback as Informational or Controlling]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory — Foundational Overview]]
-- [[autonomy]]
-- [[competence]]
-- [[flow]]
-- [[relatedness]]
+- [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]
+- [[Autonomy]]
+- [[Competence]]
+- [[Flow]]
+- [[Relatedness]]
 
 ### Frontmatter Relationships
 
@@ -670,18 +670,18 @@ extraction_summary:
 
 #### Related
 
-- [[Growth Mindset and Incremental Intelligence Theory]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Engagement Frameworks in Education]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Goal Orientation Theory]]
-- [[Psychological Safety in Learning Environments]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
 - [[Resilience and Academic Persistence]]
-- [[Expectancy-Value Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 
 #### Broader
 
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Educational-Psychology|Educational Psychology]]
 - [[Learning Science]]
 
@@ -693,8 +693,8 @@ extraction_summary:
 
 #### See Also
 
-- [[Self-Efficacy Theory (Bandura)]]
-- [[Flow Theory (Csikszentmihalyi)]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory (Bandura)]]
+- [[Flow-Theory|Flow Theory (Csikszentmihalyi)]]
 - [[Maslow's Hierarchy of Needs]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 
@@ -707,14 +707,14 @@ extraction_summary:
 
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Teacher Professional Development]]
-- [[Gamification in Learning]]
+- [[Gamification-in-Learning|Gamification in Learning]]
 - [[Student Wellbeing Frameworks]]
 
 #### Builds On
 
 - [[Intrinsic Motivation Research (Deci 1971 classic studies)]]
-- [[Organismic Theories of Human Development]]
-- [[Needs Theories in Psychology]]
+- [[Organismic-Theories-of-Human-Development|Organismic Theories of Human Development]]
+- [[Needs-Theories-in-Psychology|Needs Theories in Psychology]]
 
 #### Enables
 

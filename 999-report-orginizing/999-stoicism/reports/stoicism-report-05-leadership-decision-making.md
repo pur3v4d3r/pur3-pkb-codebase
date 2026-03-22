@@ -103,11 +103,11 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
-  - "[[Dichotomy of Control]]"
-  - "[[Virtue Ethics]]"
+  - "[[Dichotomy-of-Control]]"
+  - "[[Virtue-Ethics]]"
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Kathêkon]]"
@@ -115,8 +115,8 @@ related:
   - "[[Logos]]"
   - "[[James Stockdale]]"
   - "[[Emotional Regulation]]"
-  - "[[Cognitive Reappraisal]]"
-  - "[[Decision Theory]]"
+  - "[[Cognitive-Reappraisal]]"
+  - "[[Decision-Theory]]"
 
 series-connections:
   previous: "[[Stoicism and Modern Psychology - Parallels and Insights]]"
@@ -129,7 +129,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
   - "[[Leadership Philosophy]]"
 
@@ -193,7 +193,7 @@ link-down:
 link-related:
   - "[[Servant Leadership Theory]]"
   - "[[Authentic Leadership]]"
-  - "[[Cognitive Bias Research]]"
+  - "[[Cognitive-Bias-Research]]"
 
 expansion-topics:
   - topic: "[[James Stockdale — Stoicism Under Extreme Conditions]]"
@@ -225,7 +225,7 @@ importance: high
 # Stoicism in Leadership and Decision-Making
 
 > [!abstract]
-> This report applies Stoic philosophy systematically to the domain of leadership and organizational decision-making. It argues that the Stoic framework — built on virtue as the foundation of genuine authority, the [[Dichotomy of Control]] as a structural tool for navigating uncertainty, [[Kathêkon]] as a theory of role-specific duty, and emotional self-governance as a precondition of clear judgment — constitutes one of the most sophisticated and empirically defensible philosophies of leadership available to the modern practitioner. Drawing on primary sources (particularly the *Meditations* of [[Marcus Aurelius]], the *Letters* and *On Clemency* of [[Seneca]], and the *Discourses* of [[Epictetus]]), psychological research on decision-making and leadership effectiveness, and historical case studies ranging from antiquity to the twentieth century, the report builds a practical architecture that leaders at every level can deploy in their daily conduct.
+> This report applies Stoic philosophy systematically to the domain of leadership and organizational decision-making. It argues that the Stoic framework — built on virtue as the foundation of genuine authority, the [[Dichotomy-of-Control]] as a structural tool for navigating uncertainty, [[Kathêkon]] as a theory of role-specific duty, and emotional self-governance as a precondition of clear judgment — constitutes one of the most sophisticated and empirically defensible philosophies of leadership available to the modern practitioner. Drawing on primary sources (particularly the *Meditations* of [[Marcus-Aurelius]], the *Letters* and *On Clemency* of [[Seneca]], and the *Discourses* of [[Epictetus]]), psychological research on decision-making and leadership effectiveness, and historical case studies ranging from antiquity to the twentieth century, the report builds a practical architecture that leaders at every level can deploy in their daily conduct.
 
 > [!index]
 > **Stoicism Series Navigation**
@@ -258,7 +258,7 @@ The specific challenges that modern leaders face are varied in their surface fea
 
 [Leadership-Challenges-Taxonomy:: The core structural challenges of leadership that recur across contexts: uncertainty management, emotional self-regulation under pressure, scope-of-control clarity, integrity under incentive stress, sustained performance across adversity, and the orientation of leadership toward service rather than self-interest — each of which Stoic philosophy directly addresses.]
 
-Every one of these challenges maps with remarkable precision onto a domain that [[Stoicism]] explicitly theorizes and provides practical tools for navigating. This is not a coincidence. Stoicism was developed, in its most practically influential forms, by people who were themselves in positions of enormous consequence — [[Seneca]] as an imperial adviser, [[Marcus Aurelius]] as the emperor of Rome — and who were grappling with exactly these challenges in real time. The philosophy they developed was not an armchair exercise. It was a practical response to the specific demands that positions of power and responsibility place on human character.
+Every one of these challenges maps with remarkable precision onto a domain that [[Stoicism]] explicitly theorizes and provides practical tools for navigating. This is not a coincidence. Stoicism was developed, in its most practically influential forms, by people who were themselves in positions of enormous consequence — [[Seneca]] as an imperial adviser, [[Marcus-Aurelius]] as the emperor of Rome — and who were grappling with exactly these challenges in real time. The philosophy they developed was not an armchair exercise. It was a practical response to the specific demands that positions of power and responsibility place on human character.
 
 ---
 
@@ -268,10 +268,10 @@ The Stoic tradition does not have a dedicated treatise on leadership in the mode
 
 [Stoic-Leadership-Theory:: The Stoic view that genuine leadership authority derives not from positional power or technical expertise but from the quality of one's character — specifically, from the consistent exercise of the four cardinal virtues in relation to one's role obligations (kathêkon) — and that the most dangerous threats to effective leadership are the leader's own passions, cognitive distortions, and misidentification of success with external outcomes.]
 
-The foundational Stoic text on leadership is [[Marcus Aurelius]]'s *Meditations*. What makes the *Meditations* philosophically extraordinary is its genre: it is a private journal, not a treatise, written for no audience other than the author himself. This means it records the actual process by which a leader — arguably the most powerful individual on earth during his reign — worked to apply Stoic philosophy to the immediate, practical demands of his role. The entries are not theoretical. They are operational: reminders about how to conduct a difficult meeting, reflections on how he responded to a frustrating person, instructions to himself about how to think about a difficult decision. Reading the *Meditations* is reading a leadership philosophy laboratory, not a library.
+The foundational Stoic text on leadership is [[Marcus-Aurelius]]'s *Meditations*. What makes the *Meditations* philosophically extraordinary is its genre: it is a private journal, not a treatise, written for no audience other than the author himself. This means it records the actual process by which a leader — arguably the most powerful individual on earth during his reign — worked to apply Stoic philosophy to the immediate, practical demands of his role. The entries are not theoretical. They are operational: reminders about how to conduct a difficult meeting, reflections on how he responded to a frustrating person, instructions to himself about how to think about a difficult decision. Reading the *Meditations* is reading a leadership philosophy laboratory, not a library.
 
 > [!quote]
-> "You have power over your mind, not outside events. Realize this, and you will find strength." — [[Marcus Aurelius]], *Meditations* (attributed paraphrase; cf. V.19: "If it is not right, do not do it; if it is not true, do not say it.")
+> "You have power over your mind, not outside events. Realize this, and you will find strength." — [[Marcus-Aurelius]], *Meditations* (attributed paraphrase; cf. V.19: "If it is not right, do not do it; if it is not true, do not say it.")
 
 [[Seneca]]'s contribution to the Stoic theory of leadership is different in character but equally important. His *On Clemency* (*De Clementia*) — addressed to the young emperor Nero — is perhaps the most direct Stoic political philosophy text we have. In it, Seneca argues that the ruler's greatest power is not the power to punish but the power to show restraint, wisdom, and mercy. The truly powerful leader, on the Stoic account, is the one whose power over external circumstance is matched by an equal power of self-governance. The leader who can be destabilized by opposition, provoked into reactive decisions, or seduced by flattery has surrendered their most important power to circumstances they cannot control.
 
@@ -312,7 +312,7 @@ Consider each virtue in its specifically leadership-relevant application:
 
 ### Principle 2: The Dichotomy of Control as a Decision Architecture
 
-The [[Dichotomy of Control]] — the Stoic principle distinguishing what is "up to us" (*eph' hēmin*) from what is not — is perhaps the most practically powerful tool in the Stoic leadership toolkit. In the context of leadership, its application produces a specific and counter-intuitive insight: the leader's outcomes are largely not within their direct control, while the leader's conduct is entirely within it.
+The [[Dichotomy-of-Control]] — the Stoic principle distinguishing what is "up to us" (*eph' hēmin*) from what is not — is perhaps the most practically powerful tool in the Stoic leadership toolkit. In the context of leadership, its application produces a specific and counter-intuitive insight: the leader's outcomes are largely not within their direct control, while the leader's conduct is entirely within it.
 
 [Dichotomy-of-Control-in-Leadership:: The application of the Stoic principle that "what is up to us" (prohairesis — judgment, intention, conduct) and "what is not up to us" (outcomes, others' responses, organizational results) maps directly onto the leadership context, producing a framework in which the leader's primary domain of responsibility is the quality of their own decision-making process and conduct rather than the guarantee of particular outcomes.]
 
@@ -358,13 +358,13 @@ The Stoic response to these distortions is the practice of *prosoche* — contin
 
 The Stoic framework for leadership is not merely philosophically compelling; it has structural resonance with the most important findings in organizational psychology, decision science, and neuroscience. Understanding why the Stoic approach works at a mechanistic level deepens both the intellectual case for it and the practical ability to deploy it.
 
-The research on decision-making quality in leadership contexts is sobering. [[Daniel Kahneman]]'s work on cognitive bias establishes that expert decision-makers are subject to systematic, predictable distortions that they are typically unaware of. These include: overconfidence in the accuracy of their own judgment, anchoring on initial estimates, availability bias (overweighting vivid and easily recalled information), loss aversion (weighting losses more heavily than equivalent gains), and in-group favoritism. Crucially, these biases are not corrected by intelligence or expertise — in some cases, intelligence makes them worse, as smarter people are better at constructing post-hoc rationalizations for decisions already made on distorted grounds.
+The research on decision-making quality in leadership contexts is sobering. [[Daniel-Kahneman]]'s work on cognitive bias establishes that expert decision-makers are subject to systematic, predictable distortions that they are typically unaware of. These include: overconfidence in the accuracy of their own judgment, anchoring on initial estimates, availability bias (overweighting vivid and easily recalled information), loss aversion (weighting losses more heavily than equivalent gains), and in-group favoritism. Crucially, these biases are not corrected by intelligence or expertise — in some cases, intelligence makes them worse, as smarter people are better at constructing post-hoc rationalizations for decisions already made on distorted grounds.
 
 > [!research]
 > **Empirical Finding — Decision Contamination Under Stress**: Research by Mather and Lighthall (2012) and others in the field of "stress and decision-making" demonstrates that acute stress significantly alters decision-making in predictable ways: it increases reliance on prior habits (reducing flexibility), increases risk-taking in some domains while increasing risk-aversion in others, and narrows attentional focus to salient threats at the expense of broader contextual information. These are precisely the conditions under which leadership decisions are most consequential — and the Stoic practices of emotional self-regulation and the maintenance of equanimity are a direct counter-technology to these stress-induced distortions.
 
 > [!key-insight]
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 The research on authentic leadership — a body of work associated with Bruce Avolio, Bill George, and others — converges on a finding that is in deep accord with the Stoic framework: the leaders who sustain effectiveness over time, and whose organizations flourish rather than merely performing in the short term, are those whose self-awareness, values clarity, and relational integrity remain stable across changing circumstances. The correlation between what Avolio and George call "authentic leadership" and organizational outcomes is robust across cultures and contexts. This is essentially the empirical validation of the Stoic claim that virtue — understood as stable character rather than situational performance — is the foundation of genuine leadership effectiveness.
 
@@ -377,7 +377,7 @@ The research on authentic leadership — a body of work associated with Bruce Av
 
 ### Example 1: Marcus Aurelius and the Weight of the Purple
 
-The historical case of [[Marcus Aurelius]] as a leader is so instructive precisely because it was objectively the most demanding leadership scenario imaginable: supreme ruler of the Roman Empire during a period of simultaneous military threats on multiple frontiers, a devastating pandemic (the Antonine Plague, which killed millions), economic disruption, and the constant corrupting pressure of absolute power. The *Meditations* — written during military campaigns, in spare moments between the administrative and military demands of his role — record with remarkable honesty both his aspirations and his failures.
+The historical case of [[Marcus-Aurelius]] as a leader is so instructive precisely because it was objectively the most demanding leadership scenario imaginable: supreme ruler of the Roman Empire during a period of simultaneous military threats on multiple frontiers, a devastating pandemic (the Antonine Plague, which killed millions), economic disruption, and the constant corrupting pressure of absolute power. The *Meditations* — written during military campaigns, in spare moments between the administrative and military demands of his role — record with remarkable honesty both his aspirations and his failures.
 
 > [!example]
 > **Case: The Emperor's Morning Reminder**
@@ -404,7 +404,7 @@ The most dramatic modern case of Stoic leadership principles operating under ext
 > [!example]
 > **Case: Stoicism in the Hanoi Hilton**
 >
-> Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy of Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
+> Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 >
 > Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 >
@@ -425,7 +425,7 @@ The following practices translate the Stoic principles developed in this report 
 >
 > **Duration**: 5–10 minutes.
 >
-> **Stoic Grounding**: [[Epictetus]], *Enchiridion*, Chapter 1: "Some things are in our control and others not." The Discipline of Desire. The [[Dichotomy of Control]] as the foundational Stoic operating principle.
+> **Stoic Grounding**: [[Epictetus]], *Enchiridion*, Chapter 1: "Some things are in our control and others not." The Discipline of Desire. The [[Dichotomy-of-Control]] as the foundational Stoic operating principle.
 >
 > **Psychological Mechanism**: Redirects attentional resources from uncontrollable outcome-monitoring (which generates anxiety and distorted decision-making) to process-focused conduct (which generates both better decisions and greater equanimity). Directly counters loss aversion and catastrophizing by removing the framing of outcomes as the primary measure of success.
 >
@@ -470,7 +470,7 @@ The following practices translate the Stoic principles developed in this report 
 >
 > **Duration**: 5–15 minutes; can be done as a brief mental exercise or as a more extended written reflection.
 >
-> **Stoic Grounding**: The "View from Above" practice is described explicitly in the *Meditations* of [[Marcus Aurelius]] (e.g., VII.48, IX.30) and draws on the Stoic cosmological framework of [[Logos]] — the rational principle that encompasses the whole. Seeing oneself as a small part of a vast rational order naturally corrects for the ego-inflation and catastrophizing that proximity to problems tends to produce.
+> **Stoic Grounding**: The "View from Above" practice is described explicitly in the *Meditations* of [[Marcus-Aurelius]] (e.g., VII.48, IX.30) and draws on the Stoic cosmological framework of [[Logos]] — the rational principle that encompasses the whole. Seeing oneself as a small part of a vast rational order naturally corrects for the ego-inflation and catastrophizing that proximity to problems tends to produce.
 >
 > **Psychological Mechanism**: Activates what psychologists call "self-distancing" — the cognitively healthy capacity to view one's own situation with the kind of perspective one can more easily apply to others' situations. Research by Ethan Kross and Ozlem Ayduk demonstrates that self-distancing (including temporal self-distancing — "how will this look in ten years?") produces better-regulated emotional responses and more adaptive decision-making than immersed, self-focused processing.
 >
@@ -505,12 +505,12 @@ The application of Stoic philosophy to leadership encounters predictable obstacl
 > [!warning]
 > **Obstacle 2: Emotional Suppression Masquerading as Stoic Equanimity**
 >
-> A persistent misreading of Stoicism — particularly dangerous in leadership contexts — is the equation of Stoic equanimity with emotional suppression or the performance of not caring. This produces leaders who are unresponsive to their people, who present false fronts of invulnerability, and who mistake rigidity for strength. The Stoic framework explicitly rejects this. [[Epictetus]] and [[Marcus Aurelius]] both write about the existence of genuine emotional responses — they are not robots. What the Stoics argue is that one's judgment should not be *controlled by* emotion — that the assent-giving faculty should not defer to reactive emotional states in determining what is true or what is right. A Stoic leader can feel anger, fear, and grief; the Stoic practice is ensuring that those feelings do not distort judgment and conduct.
+> A persistent misreading of Stoicism — particularly dangerous in leadership contexts — is the equation of Stoic equanimity with emotional suppression or the performance of not caring. This produces leaders who are unresponsive to their people, who present false fronts of invulnerability, and who mistake rigidity for strength. The Stoic framework explicitly rejects this. [[Epictetus]] and [[Marcus-Aurelius]] both write about the existence of genuine emotional responses — they are not robots. What the Stoics argue is that one's judgment should not be *controlled by* emotion — that the assent-giving faculty should not defer to reactive emotional states in determining what is true or what is right. A Stoic leader can feel anger, fear, and grief; the Stoic practice is ensuring that those feelings do not distort judgment and conduct.
 
 > [!warning]
 > **Obstacle 3: Confusing the Acceptance of Difficulty with Passivity**
 >
-> The [[Dichotomy of Control]] is sometimes misread as a counsel of passive acceptance — if something is outside my control, why act at all? This misses the structure of the framework entirely. The Dichotomy of Control is not a counsel of inaction; it is a counsel of *focused* action. The Stoic who has clearly identified what is within their power will act on that domain with full energy and commitment, precisely because they are not dissipating their energy in futile attempts to control what they cannot. The leader who understands the Dichotomy will be more decisive, not less — because their decision-making is not paralyzed by anxiety about uncontrollable outcomes.
+> The [[Dichotomy-of-Control]] is sometimes misread as a counsel of passive acceptance — if something is outside my control, why act at all? This misses the structure of the framework entirely. The Dichotomy of Control is not a counsel of inaction; it is a counsel of *focused* action. The Stoic who has clearly identified what is within their power will act on that domain with full energy and commitment, precisely because they are not dissipating their energy in futile attempts to control what they cannot. The leader who understands the Dichotomy will be more decisive, not less — because their decision-making is not paralyzed by anxiety about uncontrollable outcomes.
 
 ---
 
@@ -522,7 +522,7 @@ The developmental sequence is: the Virtue Lens and the Leadership Dichotomy Revi
 
 A sustainable Stoic leadership practice is also self-correcting. The practices are not designed to produce perfect leadership; they are designed to produce progressively better leadership through honest self-assessment and iterative correction. The Stoics did not believe the ideal of the fully virtuous Sage was achievable in practice — but they did believe that the direction of travel toward that ideal was the most important thing a person could do with their time and character. For a leader, every day provides abundant opportunities to practice: difficult conversations to navigate, decisions to make under uncertainty, reactive impulses to notice and restrain, moments of courage to either take or defer.
 
-The integration of Stoic leadership practice with the broader series is worth making explicit. The [[Dichotomy of Control]] applied here in the leadership domain builds directly on its introduction in [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) and its practical deployment in [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03). The psychological mechanism behind emotional governance connects to the detailed analysis in [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04). The reader who proceeds to [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) will find that the resilience practices developed there are a deepening of the same principles applied here in the leadership context.
+The integration of Stoic leadership practice with the broader series is worth making explicit. The [[Dichotomy-of-Control]] applied here in the leadership domain builds directly on its introduction in [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) and its practical deployment in [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03). The psychological mechanism behind emotional governance connects to the detailed analysis in [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04). The reader who proceeds to [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) will find that the resilience practices developed there are a deepening of the same principles applied here in the leadership context.
 
 > [!connection-ideas]
 > **Series Connections**:
@@ -541,7 +541,7 @@ The history of leadership is largely a history of this truth being demonstrated 
 
 What the Stoic leader ultimately offers their organization is something that no amount of technical competence or strategic brilliance can substitute for: the stable moral presence of a person who can be trusted to act well, to tell the truth, to maintain their values under pressure, and to care genuinely about the people they lead. This is not a soft quality. It is the hardest thing to build and the most valuable thing a leader can bring. Organizations built around such leaders are qualitatively different from those built around mere performance — they are resilient in ways that cannot be fully explained by their strategies or their resources, because their resilience derives from something more fundamental than either: the character of the people who lead them.
 
-[[Marcus Aurelius]] was not a perfect leader. He writes with remarkable honesty in the *Meditations* about his failures — his irritability, his impatience, his moments of vanity, the times when he fell short of the standard his philosophy required. What makes him remarkable, and what makes his account valuable, is not that he achieved perfection but that he kept practicing — that the discipline of honest self-examination and virtue-aspiration was maintained across decades of the most demanding leadership conditions imaginable. That commitment is the model. It is achievable by ordinary leaders in ordinary circumstances, because it requires not exceptional talent but sustained practice — which is available to anyone who chooses to undertake it.
+[[Marcus-Aurelius]] was not a perfect leader. He writes with remarkable honesty in the *Meditations* about his failures — his irritability, his impatience, his moments of vanity, the times when he fell short of the standard his philosophy required. What makes him remarkable, and what makes his account valuable, is not that he achieved perfection but that he kept practicing — that the discipline of honest self-examination and virtue-aspiration was maintained across decades of the most demanding leadership conditions imaginable. That commitment is the model. It is achievable by ordinary leaders in ordinary circumstances, because it requires not exceptional talent but sustained practice — which is available to anyone who chooses to undertake it.
 
 > [!key-takeaway]
 > The Stoic framework reframes the central question of leadership from "How do I get better outcomes?" to "How do I become the kind of person whose conduct, consistently exercised over time, produces better outcomes than character alone can explain?" The answer is not a new strategy or a new set of competencies. It is the ancient and demanding project of character: the systematic cultivation of wisdom, justice, courage, and temperance, exercised daily in the conditions — the difficult conversations, the uncertain decisions, the competing obligations, the temptations of power — that leadership provides in abundance.
@@ -549,7 +549,7 @@ What the Stoic leader ultimately offers their organization is something that no 
 > [!reflection]
 > **Questions to Sit With**:
 > 1. When you review your most significant leadership failure (or the most significant failure you have witnessed), what character deficit was at its root — inadequate wisdom, courage, justice, or temperance? How does that analysis change what you would focus on developing?
-> 2. Apply the [[Dichotomy of Control]] to your current most significant leadership challenge: What is genuinely within your power? What is not? Are you spending your energy in proportion to these categories?
+> 2. Apply the [[Dichotomy-of-Control]] to your current most significant leadership challenge: What is genuinely within your power? What is not? Are you spending your energy in proportion to these categories?
 > 3. If a leader you deeply respect were to review your conduct over the past month — not your outcomes, but your conduct — what would they commend and what would they gently challenge?
 
 ---

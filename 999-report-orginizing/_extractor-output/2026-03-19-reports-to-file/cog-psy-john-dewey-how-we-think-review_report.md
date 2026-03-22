@@ -138,7 +138,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 9)*
 
 > [!abstract] Untitled
-> This exposition delivers a university-level treatment of [[John-Dewey|John Dewey]]'s theory of [[Reflective-Thinking|Reflective Thinking]] as articulated across two editions of *How We Think* (1910; 1933, revised as *A Restatement of the Relation of Reflective Thinking to the Educative Process*). Dewey's framework represents the foundational intellectual architecture from which nearly all modern conceptions of [[Critical-Thinking|critical thinking]], [[Inquiry-Based-Learning|inquiry-based learning]], and [[metacognition]] descend. The analysis moves systematically through the definition of reflective thought and its intimate structural relationship to the [[Process of Inquiry]]; the five non-linear phases through which genuine reflection unfolds; the psychological dispositions that make reflective thinking possible; the educational implications for classroom design, collaborative learning, and curricular philosophy; the applications to personal intellectual development; and the contemporary challenges and extensions of Dewey's framework in digital, collaborative, and technology-enhanced learning environments. This document is intended as a permanent intellectual asset for integrating Dewey's pragmatist epistemology with your broader knowledge base in [[metacognition]], [[Dual-Process-Theory|dual process theory]], and [[Educational-Psychology|educational psychology]].
+> This exposition delivers a university-level treatment of [[John-Dewey|John Dewey]]'s theory of [[Reflective-Thinking|Reflective Thinking]] as articulated across two editions of *How We Think* (1910; 1933, revised as *A Restatement of the Relation of Reflective Thinking to the Educative Process*). Dewey's framework represents the foundational intellectual architecture from which nearly all modern conceptions of [[Critical-Thinking|critical thinking]], [[Inquiry-Based-Learning|inquiry-based learning]], and [[Metacognition]] descend. The analysis moves systematically through the definition of reflective thought and its intimate structural relationship to the [[Process of Inquiry]]; the five non-linear phases through which genuine reflection unfolds; the psychological dispositions that make reflective thinking possible; the educational implications for classroom design, collaborative learning, and curricular philosophy; the applications to personal intellectual development; and the contemporary challenges and extensions of Dewey's framework in digital, collaborative, and technology-enhanced learning environments. This document is intended as a permanent intellectual asset for integrating Dewey's pragmatist epistemology with your broader knowledge base in [[Metacognition]], [[Dual-Process-Theory|dual process theory]], and [[Educational-Psychology|educational psychology]].
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 16)*
 
@@ -188,7 +188,7 @@ extraction_summary:
 #### 11. [EVIDENCE] Untitled *(Line 131)*
 
 > [!evidence] Untitled
-> Research on [[Metacognition]] — inaugurated systematically by [[John Flavell]]'s work in the 1970s and subsequently elaborated by researchers including [[Ann Brown]], [[Reuven Feuerstein]], and [[Barry-Zimmerman|Barry Zimmerman]] — provides robust empirical support for Dewey's claim that reflective awareness of one's own thinking processes is a powerful predictor of learning outcomes. Studies consistently show that students who monitor their comprehension, plan their problem-solving strategies, and evaluate the quality of their solutions outperform students who do not engage in this reflective self-regulation, independent of raw cognitive ability (Hattie & Timperley, 2007; Veenman et al., 2006).
+> Research on [[Metacognition]] — inaugurated systematically by [[John-Flavell|John Flavell]]'s work in the 1970s and subsequently elaborated by researchers including [[Ann-Brown|Ann Brown]], [[Reuven Feuerstein]], and [[Barry-Zimmerman|Barry Zimmerman]] — provides robust empirical support for Dewey's claim that reflective awareness of one's own thinking processes is a powerful predictor of learning outcomes. Studies consistently show that students who monitor their comprehension, plan their problem-solving strategies, and evaluate the quality of their solutions outperform students who do not engage in this reflective self-regulation, independent of raw cognitive ability (Hattie & Timperley, 2007; Veenman et al., 2006).
 
 #### 12. [EVIDENCE] Untitled *(Line 136)*
 
@@ -223,7 +223,7 @@ extraction_summary:
 > — **[[Dual-Process-Theory|Dual Process Theory]]** provides the neural and cognitive mechanistic account of the distinction between habitual and reflective thinking that Dewey described philosophically.
 > — **[[Cognitive-Load-Theory|Cognitive Load Theory]]** illuminates the conditions under which the demands of reflective inquiry are likely to exceed working memory capacity, clarifying practical design constraints for inquiry-based instruction.
 > — **[[Donald-Schön|Donald Schön]]'s Reflective Practice** framework extends Dewey's theory into professional and applied contexts with a more explicit account of reflection-in-action.
-> — **[[William James]]'s Habit Theory** provides the psychological foundation for understanding why reflective thinking is demanding and effortful — habit is the cognitive default, and reflection requires overriding it.
+> — **[[William-James|William James]]'s Habit Theory** provides the psychological foundation for understanding why reflective thinking is demanding and effortful — habit is the cognitive default, and reflection requires overriding it.
 
 #### 18. [INSIGHT] Untitled *(Line 205)*
 
@@ -241,7 +241,7 @@ extraction_summary:
 > **PKB Integration — Key Connections to Your Knowledge Base:**
 > — **[[Metacognition]]** and the [[Metacognitive Awareness Inventory|MAI]]'s eight subdimensions are the contemporary operationalization of Dewey's intellectual dispositions and his account of the self-regulatory dimension of reflective inquiry.
 > — **[[Dual-Process-Theory|Dual Process Theory]]** provides the cognitive-psychological architecture underlying the distinction between habitual action (System 1) and reflective inquiry (System 2) that Dewey described philosophically.
-> — **[[William James]] — Habit Theory** and **[[Principles of Psychology (1890)]]** (your current reading primer) — James's analysis of habit as the default cognitive mode provides the psychological counterpart to Dewey's philosophical account of why reflective thinking requires effort and cultivation.
+> — **[[William-James|William James]] — Habit Theory** and **[[Principles of Psychology (1890)]]** (your current reading primer) — James's analysis of habit as the default cognitive mode provides the psychological counterpart to Dewey's philosophical account of why reflective thinking requires effort and cultivation.
 > — **[[Critical-Thinking|Critical Thinking]] — Domain Specificity** and the **infusion approach** you have identified as superior to general training methods are directly grounded in Dewey's argument that genuine reflection arises from real problems encountered in domain-specific experience.
 > — **[[Donald-Schön|Donald Schön]] — Reflective Practice** extends Dewey's framework into professional contexts with the distinction between reflection-on-action and reflection-in-action.
 > — **[[Paulo Freire]] — Critical Pedagogy** represents the most significant radical extension and challenge to the Deweyan tradition.
@@ -332,10 +332,10 @@ extraction_summary:
 
 - [[Abductive-Reasoning|Abductive Reasoning]]
 - [[American-Pragmatism|American Pragmatism]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Belief Perseverance]]
-- [[Charles Sanders Peirce]]
+- [[belief-perseverance|Belief Perseverance]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive Closure]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Collaborative Learning]]
@@ -343,7 +343,7 @@ extraction_summary:
 - [[Critical Pedagogy]]
 - [[Critical Theory]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Democracy]]
 - [[Democracy and Education]]
 - [[Democratic Learning Community]]
@@ -376,9 +376,9 @@ extraction_summary:
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Jack Mezirow]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Jürgen Habermas]]
-- [[Keith Stanovich]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
 - [[Metacognitive Awareness Inventory]]
@@ -401,7 +401,7 @@ extraction_summary:
 - [[Reflective Practice — Donald Schön]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[Reuven Feuerstein]]
-- [[Richard West]]
+- [[Richard-West|Richard West]]
 - [[Rote Learning]]
 - [[Shallow-Processing|Shallow Processing]]
 - [[Socratic Seminars]]
@@ -411,12 +411,12 @@ extraction_summary:
 - [[Transformative Learning]]
 - [[Transformative Learning Theory — Mezirow]]
 - [[University of Chicago Laboratory School]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Critical-Thinking|critical thinking]]
 - [[Dual-Process-Theory|dual process theory]]
 - [[Educational-Psychology|educational psychology]]
 - [[Inquiry-Based-Learning|inquiry-based learning]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[Reflective-Practice|reflective practice]]
 
 ### All Occurrences
@@ -427,9 +427,9 @@ extraction_summary:
 | 2 | [[Reflective-Thinking|Reflective Thinking]] | — | — | Document Start | 10 |
 | 3 | [[Critical-Thinking|critical thinking]] | — | — | Document Start | 10 |
 | 4 | [[Inquiry-Based-Learning|inquiry-based learning]] | — | — | Document Start | 10 |
-| 5 | [[metacognition]] | — | — | Document Start | 10 |
+| 5 | [[Metacognition]] | — | — | Document Start | 10 |
 | 6 | [[Process of Inquiry]] | — | — | Document Start | 10 |
-| 7 | [[metacognition]] | — | — | Document Start | 10 |
+| 7 | [[Metacognition]] | — | — | Document Start | 10 |
 | 8 | [[Dual-Process-Theory|dual process theory]] | — | — | Document Start | 10 |
 | 9 | [[Educational-Psychology|educational psychology]] | — | — | Document Start | 10 |
 | 10 | [[Rote Learning]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 22 |
@@ -438,12 +438,12 @@ extraction_summary:
 | 13 | [[Plato]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 14 | [[Descartes]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 15 | [[American-Pragmatism|American Pragmatism]] | pragmatist | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
-| 16 | [[William James]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
-| 17 | [[Charles Sanders Peirce]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
+| 16 | [[William-James|William James]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
+| 17 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 18 | [[George Herbert Mead]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 19 | [[Pragmatist Philosophy]] | pragmatist epistemology | — | The Pragmatist Epistemological Context | 32 |
-| 20 | [[Charles Sanders Peirce]] | — | — | The Pragmatist Epistemological Context | 32 |
-| 21 | [[William James]] | — | — | The Pragmatist Epistemological Context | 32 |
+| 20 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatist Epistemological Context | 32 |
+| 21 | [[William-James|William James]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 22 | [[Pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 23 | [[Democratic Learning Community]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 24 | [[University of Chicago Laboratory School]] | — | — | The Pragmatist Epistemological Context | 34 |
@@ -460,10 +460,10 @@ extraction_summary:
 | 35 | [[Paul Feyerabend]] | — | — | The Architecture of a Complete Act of... | 101 |
 | 36 | [[Abductive-Reasoning|Abductive Reasoning]] | — | — | The Architecture of a Complete Act of... | 101 |
 | 37 | [[Epistemic-Humility|Epistemic Humility]] | — | — | The Three Intellectual Dispositions (... | 114 |
-| 38 | [[Belief Perseverance]] | — | — | The Three Intellectual Dispositions (... | 114 |
+| 38 | [[belief-perseverance|Belief Perseverance]] | — | — | The Three Intellectual Dispositions (... | 114 |
 | 39 | [[Metacognition]] | — | — | Empirical Validation and Research Ext... | 132 |
-| 40 | [[John Flavell]] | — | — | Empirical Validation and Research Ext... | 132 |
-| 41 | [[Ann Brown]] | — | — | Empirical Validation and Research Ext... | 132 |
+| 40 | [[John-Flavell|John Flavell]] | — | — | Empirical Validation and Research Ext... | 132 |
+| 41 | [[Ann-Brown|Ann Brown]] | — | — | Empirical Validation and Research Ext... | 132 |
 | 42 | [[Reuven Feuerstein]] | — | — | Empirical Validation and Research Ext... | 132 |
 | 43 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Empirical Validation and Research Ext... | 132 |
 | 44 | [[Problem-Based Learning]] | — | — | Empirical Validation and Research Ext... | 134 |
@@ -489,15 +489,15 @@ extraction_summary:
 | 64 | [[Collaborative Learning]] | — | — | Collaborative Learning and the Social... | 181 |
 | 65 | [[Peer Instruction]] | — | — | Collaborative Learning and the Social... | 181 |
 | 66 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Integration with Contemporary Cogniti... | 189 |
-| 67 | [[Daniel Kahneman]] | — | — | Integration with Contemporary Cogniti... | 189 |
-| 68 | [[Keith Stanovich]] | — | — | Integration with Contemporary Cogniti... | 189 |
-| 69 | [[Richard West]] | — | — | Integration with Contemporary Cogniti... | 189 |
+| 67 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Integration with Contemporary Cogniti... | 189 |
+| 68 | [[Keith-Stanovich|Keith Stanovich]] | — | — | Integration with Contemporary Cogniti... | 189 |
+| 69 | [[Richard-West|Richard West]] | — | — | Integration with Contemporary Cogniti... | 189 |
 | 70 | [[Metacognition]] | — | — | Integration with Contemporary Cogniti... | 193 |
 | 71 | [[Metacognitive Awareness Inventory]] | MAI | — | Integration with Contemporary Cogniti... | 193 |
 | 72 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Integration with Contemporary Cogniti... | 194 |
 | 73 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Integration with Contemporary Cogniti... | 195 |
 | 74 | [[Donald-Schön|Donald Schön]] | — | — | Integration with Contemporary Cogniti... | 196 |
-| 75 | [[William James]] | — | — | Integration with Contemporary Cogniti... | 197 |
+| 75 | [[William-James|William James]] | — | — | Integration with Contemporary Cogniti... | 197 |
 | 76 | [[Neuroplasticity]] | — | — | Integration with Contemporary Cogniti... | 199 |
 | 77 | [[Experiential Learning]] | — | — | Integration with Contemporary Cogniti... | 199 |
 | 78 | [[Synaptic Plasticity]] | — | — | Integration with Contemporary Cogniti... | 199 |
@@ -517,7 +517,7 @@ extraction_summary:
 | 92 | [[Metacognition]] | — | — | For Your Personal Intellectual Develo... | 231 |
 | 93 | [[Metacognitive Awareness Inventory]] | MAI | — | For Your Personal Intellectual Develo... | 231 |
 | 94 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | For Your Personal Intellectual Develo... | 232 |
-| 95 | [[William James]] | — | — | For Your Personal Intellectual Develo... | 233 |
+| 95 | [[William-James|William James]] | — | — | For Your Personal Intellectual Develo... | 233 |
 | 96 | [[Principles of Psychology (1890)]] | — | — | For Your Personal Intellectual Develo... | 233 |
 | 97 | [[Critical-Thinking|Critical Thinking]] | — | — | For Your Personal Intellectual Develo... | 234 |
 | 98 | [[Donald-Schön|Donald Schön]] | — | — | For Your Personal Intellectual Develo... | 235 |
@@ -555,10 +555,10 @@ extraction_summary:
 
 - [[Abductive-Reasoning|Abductive Reasoning]]
 - [[American-Pragmatism|American Pragmatism]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Belief Perseverance]]
-- [[Charles Sanders Peirce]]
+- [[belief-perseverance|Belief Perseverance]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive Closure]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Collaborative Learning]]
@@ -566,7 +566,7 @@ extraction_summary:
 - [[Critical Pedagogy]]
 - [[Critical Theory]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Democracy]]
 - [[Democracy and Education]]
 - [[Democratic Learning Community]]
@@ -599,9 +599,9 @@ extraction_summary:
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Jack Mezirow]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Jürgen Habermas]]
-- [[Keith Stanovich]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
 - [[Metacognitive Awareness Inventory]]
@@ -624,7 +624,7 @@ extraction_summary:
 - [[Reflective Practice — Donald Schön]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[Reuven Feuerstein]]
-- [[Richard West]]
+- [[Richard-West|Richard West]]
 - [[Rote Learning]]
 - [[Shallow-Processing|Shallow Processing]]
 - [[Socratic Seminars]]
@@ -634,12 +634,12 @@ extraction_summary:
 - [[Transformative Learning]]
 - [[Transformative Learning Theory — Mezirow]]
 - [[University of Chicago Laboratory School]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Critical-Thinking|critical thinking]]
 - [[Dual-Process-Theory|dual process theory]]
 - [[Educational-Psychology|educational psychology]]
 - [[Inquiry-Based-Learning|inquiry-based learning]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[Reflective-Practice|reflective practice]]
 
 ---

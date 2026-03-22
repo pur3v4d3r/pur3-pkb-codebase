@@ -5,6 +5,7 @@
 title: "Educational Psychology"
 aliases:
   - "Educational Psychology"
+  - "educational-psychology"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,7 +25,7 @@ domain: other
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,18 +51,26 @@ see-also:
   - "[[William-James|William James]]"
   - "[[psychology|psychology]]"
   - "[[philosophy|philosophy]]"
-  - "[[habit-formation|habit formation]]"
+  - "[[Habit-Formation|habit formation]]"
   - "[[consciousness|consciousness]]"
   - "[[Harvard-University|Harvard University]]"
-  - "[[American-pragmatism|American pragmatism]]"
+  - "[[American-Pragmatism|American pragmatism]]"
   - "[[evolutionary-theory|evolutionary theory]]"
   - "[[William-James|William James]]"
   - "[[psychology|psychology]]"
   - "[[philosophy|philosophy]]"
-  - "[[habit-formation|habit formation]]"
+  - "[[Habit-Formation|habit formation]]"
   - "[[consciousness|consciousness]]"
   - "[[Harvard-University|Harvard University]]"
-  - "[[American-pragmatism|American pragmatism]]"
+  - "[[American-Pragmatism|American pragmatism]]"
+  - "[[evolutionary-theory|evolutionary theory]]"
+  - "[[William-James|William James]]"
+  - "[[psychology|psychology]]"
+  - "[[philosophy|philosophy]]"
+  - "[[Habit-Formation|habit formation]]"
+  - "[[consciousness|consciousness]]"
+  - "[[Harvard-University|Harvard University]]"
+  - "[[American-Pragmatism|American pragmatism]]"
   - "[[evolutionary-theory|evolutionary theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -106,7 +115,7 @@ importance: high
 ## Core Explanation
 
 > [!evidence] Supporting Evidence *(from cog-psy-william-james.md)*
-> James marshaled evidence from diverse sources supporting his plasticity hypothesis, including comparative anatomy demonstrating [[nervous system]] complexity correlates with behavioral flexibility across species, clinical neurology revealing how [[brain lesions]] selectively impair specific habits while preserving others, [[animal training]] studies showing experience-dependent behavioral modification, and everyday observations of [[skill acquisition]] requiring initial conscious effort that gradually yields to effortless execution. While lacking direct neural evidence, this convergent multi-source approach established habit formation as legitimate scientific phenomenon requiring physiological explanation.
+> James marshaled evidence from diverse sources supporting his plasticity hypothesis, including comparative anatomy demonstrating [[nervous system]] complexity correlates with behavioral flexibility across species, clinical neurology revealing how [[brain lesions]] selectively impair specific habits while preserving others, [[animal training]] studies showing experience-dependent behavioral modification, and everyday observations of [[Skill-Acquisition]] requiring initial conscious effort that gradually yields to effortless execution. While lacking direct neural evidence, this convergent multi-source approach established habit formation as legitimate scientific phenomenon requiring physiological explanation.
 
 > [!evidence] Supporting Evidence *(from cog-psy-william-james.md)*
 > By 1900, *Principles* and the *Briefer Course* had achieved canonical status in American higher education, assigned in introductory psychology courses at most major universities and frequently cited in educational psychology texts, teacher training programs, and pedagogical discussions. James's concepts entered common intellectual vocabulary, with terms like "stream of consciousness," "habit formation," and "plasticity" becoming standard references across disciplines. This widespread adoption reflected both the work's intellectual merits and the absence of competing comprehensive English-language treatments at comparable sophistication level.
@@ -153,14 +162,14 @@ importance: high
 ## Connections & Context
 
 **Related concepts** *(from cog-psy-william-james.md)*:
-[[William-James|William James]] * [[psychology|psychology]] * [[philosophy|philosophy]] * [[habit-formation|habit formation]] * [[consciousness|consciousness]] * [[Harvard-University|Harvard University]] * [[American-pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[neurology|neurology]] * [[phenomenology|phenomenology]] * [[plasticity|plasticity]] * [[adaptation|adaptation]] * [[neuroscience|neuroscience]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]]
+[[William-James|William James]] * [[psychology|psychology]] * [[philosophy|philosophy]] * [[Habit-Formation|habit formation]] * [[consciousness|consciousness]] * [[Harvard-University|Harvard University]] * [[American-Pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[neurology|neurology]] * [[Phenomenology|phenomenology]] * [[plasticity|plasticity]] * [[adaptation|adaptation]] * [[neuroscience|neuroscience]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]]
 
 **Cross-report connections** *(from cog-psy-william-james.md)*:
 - [[pragmatic-philosophy|pragmatic philosophy]]
 
 **Cross-report connections** *(from cog-psy-william-james.md)*:
 - [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[Metacognitive-Awareness|Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -170,20 +179,20 @@ importance: high
 
 **Cross-report connections** *(from cog-psy-william-james.md)*:
 - [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[Metacognitive-Awareness|Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 
 **Related concepts** *(from cog-psy-william-james.md)*:
-[[William-James|William James]] * [[habit-formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[automaticity|automaticity]] * [[conscious-attention|conscious attention]] * [[procedural-memory|procedural memory]] * [[working-memory|working memory]] * [[attention|attention]] * [[cognitive-control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[neurogenesis|neurogenesis]]
+[[William-James|William James]] * [[Habit-Formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-Pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[Automaticity|automaticity]] * [[conscious-attention|conscious attention]] * [[Procedural-Memory|procedural memory]] * [[Working-Memory|working memory]] * [[Attention|attention]] * [[Cognitive-Control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[neurogenesis|neurogenesis]]
 
 **Cross-report connections** *(from cog-psy-william-james.md)*:
 - [[pragmatic-philosophy|pragmatic philosophy]]
 
 **Cross-report connections** *(from cog-psy-william-james.md)*:
 - [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[Metacognitive-Awareness|Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -193,10 +202,38 @@ importance: high
 
 **Cross-report connections** *(from cog-psy-william-james.md)*:
 - [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[Metacognitive-Awareness|Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
+
+**Related concepts** *(from cog-psy-william-james.md)*:
+[[William-James|William James]] * [[Habit-Formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-Pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[conscious-attention|conscious attention]] * [[Procedural-Memory|procedural memory]] * [[Working-Memory|working memory]] * [[Cognitive-Control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[experience-dependent-brain-development|experience-dependent brain development]] * [[Metacognition|metacognition]] * [[Critical-Thinking|critical thinking]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[pragmatic-philosophy|pragmatic philosophy]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[pragmatic-philosophy|pragmatic philosophy]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+
+
+
+
 
 
 

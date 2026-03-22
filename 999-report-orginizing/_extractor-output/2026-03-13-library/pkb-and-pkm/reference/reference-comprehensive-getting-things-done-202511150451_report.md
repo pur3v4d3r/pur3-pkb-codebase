@@ -437,19 +437,19 @@ extraction_summary:
 > - **Generated**:: 2025-11-14
 > - **Version**:: 1.0
 > - **Type**:: Reference Documentation
-> - **Author**:: David Allen (Methodology), Adapted for [[obsidian]] [[PKB]] Implementation
+> - **Author**:: David Allen (Methodology), Adapted for [[Obsidian]] [[PKB]] Implementation
 
 #### 2. [ABSTRACT] Untitled *(Line 40)*
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Getting Things Done is a personal productivity methodology developed by David Allen that transforms overwhelming task loads into stress-free productivity by capturing all commitments in a trusted external system and breaking them into clear, actionable steps. The system operates on the principle that "there is an inverse relationship between things on your mind and those things getting done," enabling practitioners to achieve what Allen calls "[[Mind Like Water]]"—a state of relaxed focus where you respond appropriately to inputs without mental clutter. This reference note provides exhaustive coverage of [[GTD]] principles, implementation strategies, and specialized guidance for deploying the system within an [[obsidian]]-based [[Personal-Knowledge-Base|Personal Knowledge Base]].
+> Getting Things Done is a personal productivity methodology developed by David Allen that transforms overwhelming task loads into stress-free productivity by capturing all commitments in a trusted external system and breaking them into clear, actionable steps. The system operates on the principle that "there is an inverse relationship between things on your mind and those things getting done," enabling practitioners to achieve what Allen calls "[[Mind Like Water]]"—a state of relaxed focus where you respond appropriately to inputs without mental clutter. This reference note provides exhaustive coverage of [[GTD]] principles, implementation strategies, and specialized guidance for deploying the system within an [[Obsidian]]-based [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 44)*
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into 12 major sections covering all aspects of GTD methodology and Obsidian-specific implementation. Use the table of contents below for quick navigation to specific topics, or search for concepts using [[Wiki-Links]]. The document progresses from foundational philosophy through tactical implementation, concluding with advanced integration strategies for knowledge workers.
+> This reference note is organized into 12 major sections covering all aspects of GTD methodology and Obsidian-specific implementation. Use the table of contents below for quick navigation to specific topics, or search for concepts using [[wiki-links]]. The document progresses from foundational philosophy through tactical implementation, concluding with advanced integration strategies for knowledge workers.
 
 #### 4. [DEFINITION] Untitled *(Line 67)*
 
@@ -701,7 +701,7 @@ extraction_summary:
 
 > [!what-this-does] Untitled
 > **Obsidian as GTD Platform**
-> [[obsidian]]'s plain-text [[Markdown]] foundation, robust plugin ecosystem, and bidirectional linking capabilities make it exceptionally suited for GTD implementation, particularly when integrated with broader [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] workflows.
+> [[Obsidian]]'s plain-text [[Markdown]] foundation, robust plugin ecosystem, and bidirectional linking capabilities make it exceptionally suited for GTD implementation, particularly when integrated with broader [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] workflows.
 
 #### 48. [HELPFUL-TIP] Untitled *(Line 1027)*
 
@@ -861,7 +861,7 @@ extraction_summary:
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 7) %>]]
 - [[<% tp.file.folder() %>]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Area - Academic Research]]
 - [[Area-Writing-Teaching]]
 - [[Areas]]
@@ -877,7 +877,7 @@ extraction_summary:
 - [[Central Limit Theorem Applications]]
 - [[Chronobiology]]
 - [[Clarification Algorithm]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Context-Based Organization]]
@@ -891,7 +891,7 @@ extraction_summary:
 - [[Eisenhower Matrix]]
 - [[Environmental Design]]
 - [[Expanding Interval Schedules]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Friction Reduction Economics]]
 - [[GTD]]
 - [[GTD Dashboard]]
@@ -996,7 +996,7 @@ extraction_summary:
 - [[Synthesis Note - When to Use Which Statistical Test]]
 - [[Systems Programming Best Practices MOC]]
 - [[Systems Thinking]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Testing Effect vs Spacing Effect]]
 - [[Time Blocking Method]]
 - [[Two-Minute Rule]]
@@ -1005,13 +1005,13 @@ extraction_summary:
 - [[Weekly Review Checklist]]
 - [[Weekly Review Importance]]
 - [[Weekly Review as Meta-Skill - Applications Beyond GTD]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Work Systems MOC]]
 - [[Workflow Design]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Methodology]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[productivity]]
 - [[time management]]
 
@@ -1019,27 +1019,27 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[obsidian]] | — | — | Document Start | 38 |
+| 1 | [[Obsidian]] | — | — | Document Start | 38 |
 | 2 | [[PKB]] | — | — | Document Start | 38 |
 | 3 | [[Mind Like Water]] | — | — | Document Start | 42 |
 | 4 | [[GTD]] | — | — | Document Start | 42 |
-| 5 | [[obsidian]] | — | — | Document Start | 42 |
+| 5 | [[Obsidian]] | — | — | Document Start | 42 |
 | 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 42 |
-| 7 | [[Wiki-Links]] | — | — | Document Start | 46 |
+| 7 | [[wiki-links]] | — | — | Document Start | 46 |
 | 8 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Foundational Concepts | 78 |
 | 9 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Foundational Concepts | 78 |
 | 10 | [[Working-Memory|Working Memory]] | — | — | Foundational Concepts | 78 |
 | 11 | [[time management]] | — | — | Foundational Concepts | 80 |
-| 12 | [[obsidian]] | — | — | Foundational Concepts | 82 |
+| 12 | [[Obsidian]] | — | — | Foundational Concepts | 82 |
 | 13 | [[Mind Like Water]] | — | — | The Mind Like Water Concept | 98 |
-| 14 | [[Flow Theory]] | — | — | The Mind Like Water Concept | 105 |
+| 14 | [[Flow-Theory|Flow Theory]] | — | — | The Mind Like Water Concept | 105 |
 | 15 | [[Processing System]] | — | — | Process 1: Capture | 159 |
 | 16 | [[PKB]] | — | — | Reference Materials | 434 |
 | 17 | [[Zettelkasten]] | — | — | Reference Materials | 434 |
 | 18 | [[Weekly Review]] | — | — | Horizon 1: Projects (10,000 ft) | 497 |
 | 19 | [[<% tp.date.now("YYYY-MM-DD") %>]] | — | — | Weekly Review - [[<% tp.date.now("YYY... | 804 |
 | 20 | [[Chronobiology]] | — | — | Low-Energy Actions (@low_energy) | 924 |
-| 21 | [[obsidian]] | — | — | 💻 7. Obsidian Implementation Architec... | 981 |
+| 21 | [[Obsidian]] | — | — | 💻 7. Obsidian Implementation Architec... | 981 |
 | 22 | [[Markdown]] | — | — | 💻 7. Obsidian Implementation Architec... | 981 |
 | 23 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 💻 7. Obsidian Implementation Architec... | 981 |
 | 24 | [[<% tp.date.now("YYYY-MM-DD") %>]] | — | — | 🎯 GTD Dashboard | 1041 |
@@ -1074,8 +1074,8 @@ extraction_summary:
 | 53 | [[Project: Develop Mindfulness Practice]] | — | — | Related Projects | 1905 |
 | 54 | [[Project: Improve Communication Skills]] | — | — | Related Projects | 1906 |
 | 55 | [[Project: Write Philosophy Blog Series]] | — | — | Related Projects | 1907 |
-| 56 | [[Cognitive Behavioral Therapy]] | — | — | Connections | 1915 |
-| 57 | [[Acceptance and Commitment Therapy]] | — | — | Connections | 1916 |
+| 56 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Connections | 1915 |
+| 57 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | Connections | 1916 |
 | 58 | [[Locus of Control Psychology]] | — | — | Connections | 1917 |
 | 59 | [[Project: Optimize Capture Points Across Life]] | — | — | Literature Note - Atomic Habits Chapt... | 1945 |
 | 60 | [[Habit Formation Research]] | — | — | Evidence | 1964 |
@@ -1189,7 +1189,7 @@ extraction_summary:
 | 168 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 3204 |
 | 169 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 3205 |
 | 170 | [[Workflow Design]] | — | — | 🔗 Related Topics for PKB Expansion | 3206 |
-| 171 | [[Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 3207 |
+| 171 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 3207 |
 | 172 | [[Reference System]] | — | — | 🔗 Related Topics for PKB Expansion | 3208 |
 | 173 | [[Capture System]] | — | — | 🔗 Related Topics for PKB Expansion | 3209 |
 | 174 | [[Weekly Review]] | — | — | 🔗 Related Topics for PKB Expansion | 3210 |
@@ -2042,8 +2042,8 @@ This concept informs:
 - [ ] Research Stoic journaling methods @computer
 
 ## Connections
-↔ [[Cognitive Behavioral Therapy]] - similar dichotomy of control
-↔ [[Acceptance and Commitment Therapy]] - acceptance of uncontrollables
+↔ [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] - similar dichotomy of control
+↔ [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] - acceptance of uncontrollables
 ↔ [[Locus of Control Psychology]] - internal vs external orientation
 ```
 
@@ -2591,7 +2591,7 @@ graph TD
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 7) %>]]
 - [[<% tp.file.folder() %>]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Area - Academic Research]]
 - [[Area-Writing-Teaching]]
 - [[Areas]]
@@ -2607,7 +2607,7 @@ graph TD
 - [[Central Limit Theorem Applications]]
 - [[Chronobiology]]
 - [[Clarification Algorithm]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Context-Based Organization]]
@@ -2621,7 +2621,7 @@ graph TD
 - [[Eisenhower Matrix]]
 - [[Environmental Design]]
 - [[Expanding Interval Schedules]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Friction Reduction Economics]]
 - [[GTD]]
 - [[GTD Dashboard]]
@@ -2726,7 +2726,7 @@ graph TD
 - [[Synthesis Note - When to Use Which Statistical Test]]
 - [[Systems Programming Best Practices MOC]]
 - [[Systems Thinking]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Testing Effect vs Spacing Effect]]
 - [[Time Blocking Method]]
 - [[Two-Minute Rule]]
@@ -2735,13 +2735,13 @@ graph TD
 - [[Weekly Review Checklist]]
 - [[Weekly Review Importance]]
 - [[Weekly Review as Meta-Skill - Applications Beyond GTD]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Work Systems MOC]]
 - [[Workflow Design]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Methodology]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[productivity]]
 - [[time management]]
 

@@ -144,7 +144,7 @@ extraction_summary:
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 67)*
 
 > [!core-principle] Untitled
-> **The Working Memory Bottleneck:** [[Working-Memory|Working Memory]] can process only $7 \pm 2$ units of information simultaneously (Miller's Law, with contemporary research suggesting closer to $4 \pm 1$ for complex tasks). Every aspect of PKB design must account for this severe constraint by reducing [[Extraneous Cognitive Load]], optimizing [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]], and maximizing [[Germane-Cognitive-Load|Germane Cognitive Load]]—the mental effort devoted to schema construction and automation.
+> **The Working Memory Bottleneck:** [[Working-Memory|Working Memory]] can process only $7 \pm 2$ units of information simultaneously (Miller's Law, with contemporary research suggesting closer to $4 \pm 1$ for complex tasks). Every aspect of PKB design must account for this severe constraint by reducing [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]], optimizing [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]], and maximizing [[Germane-Cognitive-Load|Germane Cognitive Load]]—the mental effort devoted to schema construction and automation.
 
 #### 6. [ANALOGY] Untitled *(Line 74)*
 
@@ -187,7 +187,7 @@ extraction_summary:
 #### 12. [EXAMPLE] Untitled *(Line 138)*
 
 > [!example] Untitled
-> **Construction in Practice:** Consider encountering a paper on [[Dual-Process-Theory|Dual Process Theory]] in decision-making. A storage-oriented system prompts users to file the paper in a "Decision Making" folder. A construction-oriented system prompts: "How does this theory connect to [[Bounded Rationality]]? Does it challenge or support [[Prospect Theory]]? What implications does it have for [[Self-Control Strategies]]?" These prompts force active construction of meaning rather than passive storage.
+> **Construction in Practice:** Consider encountering a paper on [[Dual-Process-Theory|Dual Process Theory]] in decision-making. A storage-oriented system prompts users to file the paper in a "Decision Making" folder. A construction-oriented system prompts: "How does this theory connect to [[Bounded-Rationality|Bounded Rationality]]? Does it challenge or support [[Prospect Theory]]? What implications does it have for [[Self-Control Strategies]]?" These prompts force active construction of meaning rather than passive storage.
 
 #### 13. [METHODOLOGY-AND-SOURCES] Untitled *(Line 149)*
 
@@ -245,7 +245,7 @@ extraction_summary:
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[Networked Thought]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Access-Control-Select]]
 - [[Andragogy]]
 - [[Associationism]]
@@ -253,7 +253,7 @@ extraction_summary:
 - [[Autonomy]]
 - [[Autonomy-Support|Autonomy Support]]
 - [[Baddeley]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Chunking]]
 - [[Cognitive Fit Theory]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -277,7 +277,7 @@ extraction_summary:
 - [[Emergence and Knowledge Synthesis in Networked Notes]]
 - [[Epistemic Accountability]]
 - [[Extended Mind]]
-- [[Extraneous Cognitive Load]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Feynman Technique]]
 - [[Focus of Attention]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
@@ -320,7 +320,7 @@ extraction_summary:
 - [[Ryan]]
 - [[Scaffolding]]
 - [[Schema]]
-- [[Schemas]]
+- [[schemas]]
 - [[Self Behavioral Management]]
 - [[Self-Control Strategies]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -337,7 +337,7 @@ extraction_summary:
 - [[System Building]]
 - [[The Collector's Fallacy and Digital Hoarding]]
 - [[Theory of Meaningful Learning]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -355,12 +355,12 @@ extraction_summary:
 | 7 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Document Start | 45 |
 | 8 | [[Metacognitive]] | — | — | Document Start | 45 |
 | 9 | [[Information-Architecture|Information Architecture]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
-| 10 | [[Personal Knowledge Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
+| 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
 | 11 | [[Personal Information Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 12 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 13 | [[Metacognition]] | metacognitive | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 14 | [[Theory of Meaningful Learning]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
-| 15 | [[Schemas]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
+| 15 | [[schemas]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 16 | [[Cognitive-Load|Cognitive Load]] | — | — | 🧠 The Psychological Foundation: Why M... | 59 |
 | 17 | [[Autonomy]] | — | — | 🧠 The Psychological Foundation: Why M... | 59 |
 | 18 | [[Competence]] | — | — | 🧠 The Psychological Foundation: Why M... | 59 |
@@ -368,20 +368,20 @@ extraction_summary:
 | 20 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Psychological Foundation: Why M... | 59 |
 | 21 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 The Psychological Foundation: Why M... | 61 |
 | 22 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Psychological Foundation: Why M... | 61 |
-| 23 | [[Extraneous Cognitive Load]] | — | — | 🧠 The Psychological Foundation: Why M... | 61 |
+| 23 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | 🧠 The Psychological Foundation: Why M... | 61 |
 | 24 | [[Autonomy]] | — | — | 🧠 The Psychological Foundation: Why M... | 61 |
 | 25 | [[Working-Memory|Working Memory]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 68 |
-| 26 | [[Extraneous Cognitive Load]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 68 |
+| 26 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 68 |
 | 27 | [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 68 |
 | 28 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 68 |
 | 29 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 70 |
 | 30 | [[Chunking]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 70 |
 | 31 | [[Working-Memory|Working Memory]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
 | 32 | [[Long-Term-Memory|Long-Term Memory]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
-| 33 | [[Schemas]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
+| 33 | [[schemas]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
 | 34 | [[Networked Thought]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 75 |
 | 35 | [[Retrieval Structures]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 75 |
-| 36 | [[Wiki-Links]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 77 |
+| 36 | [[wiki-links]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 77 |
 | 37 | [[Metadata]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 77 |
 | 38 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Motivational Architecture: Sustaini... | 86 |
 | 39 | [[Autonomy]] | — | — | 🎯 Motivational Architecture: Sustaini... | 86 |
@@ -408,7 +408,7 @@ extraction_summary:
 | 60 | [[Ausubel's Theory of Meaningful Learning]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 136 |
 | 61 | [[Zettelkasten]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 136 |
 | 62 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 139 |
-| 63 | [[Bounded Rationality]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 139 |
+| 63 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 139 |
 | 64 | [[Prospect Theory]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 139 |
 | 65 | [[Self-Control Strategies]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 139 |
 | 66 | [[Scaffolding]] | — | — | 🏗️ Constructivist Architecture: Suppo... | 143 |
@@ -451,7 +451,7 @@ extraction_summary:
 | 103 | [[Cognitive Load Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
 | 104 | [[Constructivism]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
 | 105 | [[Constructivist Learning]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
-| 106 | [[Schemas]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
+| 106 | [[schemas]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
 | 107 | [[Retrieval Structures]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
 | 108 | [[Scaffolding]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
 | 109 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
@@ -495,7 +495,7 @@ extraction_summary:
 | 147 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 🌐 Integration: The Forty Concepts as ... | 262 |
 | 148 | [[Signal Detection Theory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 262 |
 | 149 | [[Psychological Resilience]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
-| 150 | [[Personal Knowledge Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
+| 150 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
 | 151 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
 | 152 | [[Educational Neuroscience]] | — | — | Neuroscience-Informed Design | 278 |
 | 153 | [[Cognitive-Load|Cognitive Load]] | — | — | Neuroscience-Informed Design | 278 |
@@ -620,7 +620,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[Networked Thought]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Access-Control-Select]]
 - [[Andragogy]]
 - [[Associationism]]
@@ -628,7 +628,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Autonomy]]
 - [[Autonomy-Support|Autonomy Support]]
 - [[Baddeley]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Chunking]]
 - [[Cognitive Fit Theory]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -652,7 +652,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Emergence and Knowledge Synthesis in Networked Notes]]
 - [[Epistemic Accountability]]
 - [[Extended Mind]]
-- [[Extraneous Cognitive Load]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Feynman Technique]]
 - [[Focus of Attention]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
@@ -695,7 +695,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Ryan]]
 - [[Scaffolding]]
 - [[Schema]]
-- [[Schemas]]
+- [[schemas]]
 - [[Self Behavioral Management]]
 - [[Self-Control Strategies]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -712,7 +712,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[System Building]]
 - [[The Collector's Fallacy and Digital Hoarding]]
 - [[Theory of Meaningful Learning]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]

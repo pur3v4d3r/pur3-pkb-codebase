@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -63,19 +63,27 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[fallibilism]]"
+  - "[[Fallibilism]]"
   - "[[epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
-  - "[[critical-thinking|critical thinking]]"
-  - "[[pedagogy]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy]]"
   - "[[Descartes]]"
   - "[[scepticism]]"
-  - "[[Scepticism]]"
-  - "[[fallibilism|fallibilism]]"
+  - "[[scepticism]]"
+  - "[[Fallibilism|fallibilism]]"
   - "[[epistemology|epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
-  - "[[critical-thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
+  - "[[Descartes|Descartes]]"
+  - "[[scepticism|scepticism]]"
+  - "[[epistemic-relativism|epistemic relativism]]"
+  - "[[Fallibilism|fallibilism]]"
+  - "[[epistemology|epistemology]]"
+  - "[[philosophy-of-science|philosophy of science]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Descartes|Descartes]]"
   - "[[scepticism|scepticism]]"
   - "[[epistemic-relativism|epistemic relativism]]"
@@ -116,7 +124,7 @@ importance: high
 # Epistemic Calibration
 
 > [!definition] **Epistemic Calibration**
-> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
+> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[Cognitive-Psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
 
 ## Core Explanation
 
@@ -173,10 +181,10 @@ importance: high
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 
 **Related concepts:**
-[[fallibilism]] · [[epistemology]] · [[philosophy-of-science|philosophy of science]] · [[critical-thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[Scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+[[Fallibilism]] · [[epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[Pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[Cognitive-Psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 
 **Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
-[[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-humility|Epistemic humility]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]] * [[falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[epistemic-holism|epistemic holism]]
+[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]] * [[Falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]]
 
 **Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
 - [[Fallibilism|Fallibilism]]
@@ -191,6 +199,26 @@ importance: high
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Deliberate-Practice|Deliberate Practice]]
+
+**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
+[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]] * [[Stewart-Cohen|Stewart Cohen]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+
+
 
 
 

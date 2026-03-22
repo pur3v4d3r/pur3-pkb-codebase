@@ -475,11 +475,11 @@ extraction_summary:
 - [[Daily Stoic Intergration System]]
 - [[Epictetus]]
 - [[Epistemic-Growth-Chart]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Seneca]]
 - [[Stoic-Insights-MOC]]
 - [[Stoicism]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[{{VALUE:Link to PKB concepts}}]]
 
 ### All Occurrences
@@ -491,10 +491,10 @@ extraction_summary:
 | 3 | [[<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]] | Yesterday | — | Previous & Next Days | 1013 |
 | 4 | [[<%= tp.date.now("YYYY-MM-DD", 1, tp.file.title) %>]] | Tomorrow | — | Previous & Next Days | 1014 |
 | 5 | [[Stoicism]] | — | — | Related Stoic Concepts | 1036 |
-| 6 | [[Marcus Aurelius]] | — | — | Related Stoic Concepts | 1036 |
+| 6 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Related Stoic Concepts | 1036 |
 | 7 | [[Epictetus]] | — | — | Related Stoic Concepts | 1036 |
 | 8 | [[Seneca]] | — | — | Related Stoic Concepts | 1036 |
-| 9 | [[Virtue Ethics]] | — | — | Related Stoic Concepts | 1036 |
+| 9 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Related Stoic Concepts | 1036 |
 | 10 | [[{{VALUE:Link to PKB concepts}}]] | — | — | 💡 Insight Captured at {{TIME:HH:mm}} | 1151 |
 | 11 | [[Behavioral-Patterns-MOC]] | — | — | 🔗 RELATED DASHBOARDS | 1469 |
 | 12 | [[Epistemic-Growth-Chart]] | — | — | 🔗 RELATED DASHBOARDS | 1470 |
@@ -1514,11 +1514,11 @@ graph TB
 - [[Daily Stoic Intergration System]]
 - [[Epictetus]]
 - [[Epistemic-Growth-Chart]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Seneca]]
 - [[Stoic-Insights-MOC]]
 - [[Stoicism]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[{{VALUE:Link to PKB concepts}}]]
 
 ---

@@ -187,7 +187,7 @@ extraction_summary:
 #### 10. [COUNTER-ARGUMENT] Limits of the Bayesian Account *(Line 347)*
 
 > [!counter-argument] Limits of the Bayesian Account
-> Critics argue that the Bayesian model, while formally elegant, is not a complete psychological description. Humans routinely violate Bayesian norms: we neglect base rates, overweight vivid anecdotal evidence relative to statistical summaries, and fail to update symmetrically for confirming and disconfirming evidence. These systematic departures — studied extensively by [[Daniel Kahneman]] and [[Amos Tversky]] — suggest that human inductive reasoning is better described as a mixture of heuristic and analytic processes than as a pure Bayesian mechanism.
+> Critics argue that the Bayesian model, while formally elegant, is not a complete psychological description. Humans routinely violate Bayesian norms: we neglect base rates, overweight vivid anecdotal evidence relative to statistical summaries, and fail to update symmetrically for confirming and disconfirming evidence. These systematic departures — studied extensively by [[Daniel-Kahneman|Daniel Kahneman]] and [[Amos-Tversky|Amos Tversky]] — suggest that human inductive reasoning is better described as a mixture of heuristic and analytic processes than as a pure Bayesian mechanism.
 
 #### 11. [KEY-CLAIM] Constructivist Induction *(Line 356)*
 
@@ -265,9 +265,9 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> - **[[Metacognition and Lifelong Learning]]** — The relationship between inductive reasoning and metacognition is deep and bidirectional. Metacognition — specifically self-monitoring and self-regulation of thinking — is precisely what transforms raw inductive pattern recognition into disciplined inquiry. The Dunning-Kruger effect, the fluency illusion, and Bjork's desirable difficulties framework (all treated in the metacognition report) map directly onto the inductive reasoning challenges identified here: learners who cannot monitor the quality of their own inductive generalizations are vulnerable to false certainty and over-confident transfer. Conversely, understanding inductive reasoning as probabilistic inference provides a cognitive framework for the kind of epistemic humility that metacognitive theory prescribes.
+> - **[[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]** — The relationship between inductive reasoning and metacognition is deep and bidirectional. Metacognition — specifically self-monitoring and self-regulation of thinking — is precisely what transforms raw inductive pattern recognition into disciplined inquiry. The Dunning-Kruger effect, the fluency illusion, and Bjork's desirable difficulties framework (all treated in the metacognition report) map directly onto the inductive reasoning challenges identified here: learners who cannot monitor the quality of their own inductive generalizations are vulnerable to false certainty and over-confident transfer. Conversely, understanding inductive reasoning as probabilistic inference provides a cognitive framework for the kind of epistemic humility that metacognitive theory prescribes.
 > 
-> - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework for critical thinking and Schön's reflection-in/on-action both presuppose inductive competence: the ability to reason from specific observations and experiences to generalizable principles. Theory-evidence coordination — identified in this report as a central challenge in inductive learning — is a specific critical thinking skill addressed in the reflective judgment work of King and Kitchener. The two reports together constitute a more complete account of mature epistemic cognition than either achieves alone.
+> - **[[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]** — The Paul-Elder framework for critical thinking and Schön's reflection-in/on-action both presuppose inductive competence: the ability to reason from specific observations and experiences to generalizable principles. Theory-evidence coordination — identified in this report as a central challenge in inductive learning — is a specific critical thinking skill addressed in the reflective judgment work of King and Kitchener. The two reports together constitute a more complete account of mature epistemic cognition than either achieves alone.
 > 
 > - **[[Transfer-of-Learning|Transfer of Learning]]** — Transfer is the ultimate test of inductive learning: a generalization that cannot be applied beyond its original context is, from a learning science perspective, incomplete. The conditions identified in this report as supporting inductive learning — varied examples, explicit principle articulation, counterexample encounters — are closely aligned with the conditions identified in the transfer literature as supporting near and far transfer. A report on transfer would deepen the treatment of these conditions considerably.
 > 
@@ -394,8 +394,8 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Alison Gopnik]]
-- [[Amos Tversky]]
+- [[Alison-Gopnik|Alison Gopnik]]
+- [[Amos-Tversky|Amos Tversky]]
 - [[Analogical Reasoning in Learning]]
 - [[Analogical-Reasoning|Analogical reasoning]]
 - [[Aristotle]]
@@ -405,34 +405,34 @@ extraction_summary:
 - [[Causal-Induction|Causal induction]]
 - [[Confirmation Bias and Epistemic Calibration]]
 - [[Constructivism]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Data Literacy and Statistical Reasoning in Education]]
-- [[David Hume]]
+- [[David-Hume|David Hume]]
 - [[Deanna Kuhn]]
 - [[Dedre-Gentner|Dedre Gentner]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 - [[Document-Based Questioning]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Fluency-Illusion|Fluency Illusion]]
-- [[Foundational Report Generator v1.0]]
-- [[Francis Bacon]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Francis-Bacon|Francis Bacon]]
 - [[Inductive-Reasoning|Inductive reasoning]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Inquiry-Based Learning: Design and Evidence]]
-- [[Jean Piaget]]
-- [[Jerome Bruner]]
-- [[John Stuart Mill]]
-- [[Joshua Tenenbaum]]
-- [[Karl Popper]]
-- [[Lev Vygotsky]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[Jerome-Bruner|Jerome Bruner]]
+- [[John-Stuart-Mill|John Stuart Mill]]
+- [[Joshua-Tenenbaum|Joshua Tenenbaum]]
+- [[Karl-Popper|Karl Popper]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Metacognition]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Nisbett]]
-- [[Robert Bjork]]
-- [[Scientific Method]]
+- [[Robert-Bjork|Robert Bjork]]
+- [[Scientific-Method|Scientific Method]]
 - [[Sleep and Memory Consolidation]]
 - [[Statistical Learning Theory]]
 - [[Structure-Mapping-Theory|Structure-Mapping Theory]]
@@ -445,45 +445,45 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Inductive-Reasoning|Inductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 260 |
-| 2 | [[David Hume]] | — | — | Phase I: Orientation & Context Setting | 262 |
-| 3 | [[Karl Popper]] | — | — | Phase I: Orientation & Context Setting | 262 |
+| 2 | [[David-Hume|David Hume]] | — | — | Phase I: Orientation & Context Setting | 262 |
+| 3 | [[Karl-Popper|Karl Popper]] | — | — | Phase I: Orientation & Context Setting | 262 |
 | 4 | [[Aristotle]] | — | — | Defining the Territory | 282 |
-| 5 | [[Francis Bacon]] | — | — | Historical Development: From Bacon to... | 298 |
-| 6 | [[David Hume]] | — | — | Historical Development: From Bacon to... | 303 |
-| 7 | [[John Stuart Mill]] | — | — | Historical Development: From Bacon to... | 308 |
-| 8 | [[Karl Popper]] | — | — | Historical Development: From Bacon to... | 310 |
+| 5 | [[Francis-Bacon|Francis Bacon]] | — | — | Historical Development: From Bacon to... | 298 |
+| 6 | [[David-Hume|David Hume]] | — | — | Historical Development: From Bacon to... | 303 |
+| 7 | [[John-Stuart-Mill|John Stuart Mill]] | — | — | Historical Development: From Bacon to... | 308 |
+| 8 | [[Karl-Popper|Karl Popper]] | — | — | Historical Development: From Bacon to... | 310 |
 | 9 | [[Analogical-Reasoning|Analogical reasoning]] | — | — | Varieties of Inductive Reasoning | 321 |
 | 10 | [[Causal-Induction|Causal induction]] | — | — | Varieties of Inductive Reasoning | 325 |
-| 11 | [[Alison Gopnik]] | — | — | Varieties of Inductive Reasoning | 325 |
+| 11 | [[Alison-Gopnik|Alison Gopnik]] | — | — | Varieties of Inductive Reasoning | 325 |
 | 12 | [[Bayesian-Inference|Bayesian Inference]] | — | — | Bayesian Inference: The Normative Model | 338 |
-| 13 | [[Joshua Tenenbaum]] | — | — | Bayesian Inference: The Normative Model | 343 |
-| 14 | [[Daniel Kahneman]] | — | — | Bayesian Inference: The Normative Model | 348 |
-| 15 | [[Amos Tversky]] | — | — | Bayesian Inference: The Normative Model | 348 |
+| 13 | [[Joshua-Tenenbaum|Joshua Tenenbaum]] | — | — | Bayesian Inference: The Normative Model | 343 |
+| 14 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Bayesian Inference: The Normative Model | 348 |
+| 15 | [[Amos-Tversky|Amos Tversky]] | — | — | Bayesian Inference: The Normative Model | 348 |
 | 16 | [[Constructivism]] | — | — | Constructivism and Inductive Learning | 352 |
-| 17 | [[Jean Piaget]] | — | — | Constructivism and Inductive Learning | 352 |
-| 18 | [[Lev Vygotsky]] | — | — | Constructivism and Inductive Learning | 352 |
-| 19 | [[Jerome Bruner]] | — | — | Jerome Bruner and Discovery Learning | 361 |
-| 20 | [[Discovery Learning]] | — | — | Jerome Bruner and Discovery Learning | 363 |
+| 17 | [[Jean-Piaget|Jean Piaget]] | — | — | Constructivism and Inductive Learning | 352 |
+| 18 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Constructivism and Inductive Learning | 352 |
+| 19 | [[Jerome-Bruner|Jerome Bruner]] | — | — | Jerome Bruner and Discovery Learning | 361 |
+| 20 | [[Discovery-Learning|Discovery Learning]] | — | — | Jerome Bruner and Discovery Learning | 363 |
 | 21 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 363 |
 | 22 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 366 |
 | 23 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Dual-Process Theory and Inductive Heu... | 370 |
 | 24 | [[Metacognition]] | metacognitive | — | Dual-Process Theory and Inductive Heu... | 372 |
 | 25 | [[Statistical Learning Theory]] | statistical learning | — | How Inductive Reasoning Operates Duri... | 387 |
-| 26 | [[Scientific Method]] | — | — | How Inductive Reasoning Operates Duri... | 392 |
+| 26 | [[Scientific-Method|Scientific Method]] | — | — | How Inductive Reasoning Operates Duri... | 392 |
 | 27 | [[Deanna Kuhn]] | — | — | How Inductive Reasoning Operates Duri... | 394 |
 | 28 | [[Dedre-Gentner|Dedre Gentner]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
 | 29 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
 | 30 | [[Sleep and Memory Consolidation]] | sleep-dependent memory consolidation | — | How Inductive Reasoning Operates Duri... | 411 |
 | 31 | [[Retrieval-Practice|Retrieval Practice]] | repeated retrieval | — | How Inductive Reasoning Operates Duri... | 411 |
-| 32 | [[Robert Bjork]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
+| 32 | [[Robert-Bjork|Robert Bjork]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
 | 33 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
 | 34 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Real-World Applications in Education | 426 |
 | 35 | [[Document-Based Questioning]] | — | — | Real-World Applications in Education | 433 |
 | 36 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Instructional Design Principles | 444 |
 | 37 | [[Fluency-Illusion|Fluency Illusion]] | — | — | Limitations and Open Questions | 466 |
 | 38 | [[Richard Nisbett]] | — | — | Limitations and Open Questions | 468 |
-| 39 | [[Metacognition and Lifelong Learning]] | — | — | The "So What?" | 498 |
-| 40 | [[Metacognition and Critical Thinking]] | — | — | The "So What?" | 500 |
+| 39 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | The "So What?" | 498 |
+| 40 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | The "So What?" | 500 |
 | 41 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | The "So What?" | 502 |
 | 42 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | D. Expansion Topics | 591 |
 | 43 | [[Bayesian Reasoning and Probabilistic Thinking in Education]] | — | — | D. Expansion Topics | 594 |
@@ -492,7 +492,7 @@ extraction_summary:
 | 46 | [[Analogical Reasoning in Learning]] | — | — | D. Expansion Topics | 603 |
 | 47 | [[Data Literacy and Statistical Reasoning in Education]] | — | — | D. Expansion Topics | 606 |
 | 48 | [[Causal Reasoning and Scientific Understanding]] | — | — | D. Expansion Topics | 609 |
-| 49 | [[Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 614 |
+| 49 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 614 |
 | 50 | [[claude-sonnet-4-6]] | — | — | D. Expansion Topics | 614 |
 
 ---
@@ -504,8 +504,8 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Alison Gopnik]]
-- [[Amos Tversky]]
+- [[Alison-Gopnik|Alison Gopnik]]
+- [[Amos-Tversky|Amos Tversky]]
 - [[Analogical Reasoning in Learning]]
 - [[Analogical-Reasoning|Analogical reasoning]]
 - [[Aristotle]]
@@ -515,34 +515,34 @@ extraction_summary:
 - [[Causal-Induction|Causal induction]]
 - [[Confirmation Bias and Epistemic Calibration]]
 - [[Constructivism]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Data Literacy and Statistical Reasoning in Education]]
-- [[David Hume]]
+- [[David-Hume|David Hume]]
 - [[Deanna Kuhn]]
 - [[Dedre-Gentner|Dedre Gentner]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 - [[Document-Based Questioning]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Fluency-Illusion|Fluency Illusion]]
-- [[Foundational Report Generator v1.0]]
-- [[Francis Bacon]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Francis-Bacon|Francis Bacon]]
 - [[Inductive-Reasoning|Inductive reasoning]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Inquiry-Based Learning: Design and Evidence]]
-- [[Jean Piaget]]
-- [[Jerome Bruner]]
-- [[John Stuart Mill]]
-- [[Joshua Tenenbaum]]
-- [[Karl Popper]]
-- [[Lev Vygotsky]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[Jerome-Bruner|Jerome Bruner]]
+- [[John-Stuart-Mill|John Stuart Mill]]
+- [[Joshua-Tenenbaum|Joshua Tenenbaum]]
+- [[Karl-Popper|Karl Popper]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Metacognition]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Nisbett]]
-- [[Robert Bjork]]
-- [[Scientific Method]]
+- [[Robert-Bjork|Robert Bjork]]
+- [[Scientific-Method|Scientific Method]]
 - [[Sleep and Memory Consolidation]]
 - [[Statistical Learning Theory]]
 - [[Structure-Mapping-Theory|Structure-Mapping Theory]]
@@ -561,9 +561,9 @@ extraction_summary:
 
 - [[Deductive Reasoning in Education]]
 - [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Scientific Method]]
-- [[Metacognition and Lifelong Learning]]
-- [[Metacognition and Critical Thinking]]
+- [[Scientific-Method|Scientific Method]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 
@@ -585,7 +585,7 @@ extraction_summary:
 - [[Bayesian Reasoning]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Problem-Based Learning]]
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 
 #### Contrasts With
 
@@ -601,14 +601,14 @@ extraction_summary:
 
 #### Builds On
 
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 
 #### Enables
 
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
-- [[Scientific Reasoning in Education]]
+- [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]
 - [[Deliberate Practice Frameworks]]
 
 ---

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -69,6 +69,14 @@ see-also:
   - "[[Cognitive-Load-Theory-and-the-Attentional-Bottleneck-A-Quantitative-Analysis-of|Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Attention]]"
+  - "[[Executive-Function|Executive Function]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Attentional-Bottleneck|Attentional Bottleneck]]"
+  - "[[Cognitive-Load-Theory-and-the-Attentional-Bottleneck:-A-Quantitative-Analysis-of-Context-Switching-Costs-and-Monotasking-Protocols|Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Attention|Attention]]"
   - "[[Executive-Function|Executive Function]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -181,10 +189,10 @@ importance: medium
 > The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> Effective instruction is instruction that manages the demands placed on [[Working Memory]] such that cognitive resources are available for the processes that lead to [[Schema Theory|schema]] formation and automation in [[Long-Term Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
+> Effective instruction is instruction that manages the demands placed on [[Working-Memory]] such that cognitive resources are available for the processes that lead to [[Schema-Theory|schema]] formation and automation in [[Long-Term-Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan-Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive-Theory-of-Multimedia-Learning]].
 
 > [!analytical-insight] Key Insight *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
 > Peter Facione's Delphi Report (1990) identified seven core dispositions of the ideal critical thinker: inquisitiveness, open-mindedness, systematicity, analyticity, truth-seeking, self-confidence in reasoning, and maturity of judgment. These dispositions are not personality traits one either has or lacks at birth — they are cultivatable through educational environments that model, reward, and practise them. An educational approach that develops CT skills without cultivating CT dispositions produces students who *can* think critically but chronically *choose* not to.
@@ -212,7 +220,7 @@ importance: medium
 > <span style='color: #FF00DC;'>**Critical Misconception:**</span> Despite widespread belief in "multitasking" ability, neuroscientific evidence definitively demonstrates that the human brain **<span style='color: #27FF00;'>cannot simultaneously process multiple streams of complex information</span>**. What individuals perceive as multitasking represents <span style='color: #FF00DC;'>**rapid task-switching**</span>—the brain frantically alternating attention between discrete activities, with each…
 
 > [!example] **Application** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive Instruction]] systems that implement dynamic fading represent the state of the art.
+> CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive-Instruction]] systems that implement dynamic fading represent the state of the art.
 
 > [!example] **Application** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > (1) **Worked examples first**: For novices, begin with fully worked examples before introducing problem-solving practice. Use self-explanation prompts (ask learners to explain why each step was taken) to enhance schema formation from examples. (2) **Eliminate split attention**: Integrate mutually referring information sources; never require learners to search across separated sources. (3) **Avoid redundancy**: When information can be understood from one source, do not add a second that merely restates the first. (4) **Use the modality advantage**: For complex materials, pair visual presentations with spoken narration rather than written text. (5) **Sequence by element interactivity**: Teach lower-interactivity components before presenting high-interactivity configurations. (6) **Adapt to expertise**: Reduce guidance as learner schemas develop; do not maintain worked examples past the point at which expertise reversal operates.
@@ -224,7 +232,7 @@ importance: medium
 > Embedding explicit metacognitive prompts into learning activities significantly enhances CT development. Simple interventions — asking students to predict how confident they are in an answer before receiving feedback, to identify what specifically confused them in a difficult text, or to reflect on whether their initial analysis changed after discussion — activate the self-monitoring capacity that underlies sustained CT. These prompts are not merely reflective exercises; they train students to treat their own reasoning as an object of scrutiny.
 
 > [!warning] **Key Distinction** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> [[Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
+> [[Cognitive-Load-Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel-Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
 
 > [!warning] **Key Distinction** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
 > A pervasive misconception conflates critical thinking with critical attitude — the disposition to find fault, doubt, or challenge. True CT is not primarily negative. It involves the fair, disciplined evaluation of claims, which means giving credit to well-supported claims with the same rigour applied to the rejection of poorly supported ones. Students who learn that CT means scepticism toward authority without developing the tools for constructive, evidence-based reasoning have learned a disposition without a skill — arguably more dangerous than having neither.
@@ -244,7 +252,7 @@ importance: medium
 > [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > 1. Think of a domain where you are a novice versus a domain where you have substantial expertise. How does your working memory experience differ between them when you encounter challenging content? Can you identify what CLT would call "element interactivity" in the novice domain?
 > 2. The distinction between intrinsic and extraneous load implies that some instructional difficulty is structural (inherent to the content) while other difficulty is artificial (a product of poor design). What examples from your own learning history might fall into each category?
-> 3. How does the schema concept connect to your existing understanding from the [[Schema Theory]] node? What does CLT add to schema theory's account that wasn't already there?
+> 3. How does the schema concept connect to your existing understanding from the [[Schema-Theory]] node? What does CLT add to schema theory's account that wasn't already there?
 
 > [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
 > Before reading further, take a moment to articulate what you currently believe about critical thinking in education. What do you think it means? Where did your assumptions come from — your own schooling, professional experience, popular discourse? What questions are you hoping this report will answer? Noting your starting point makes the learning journey visible and gives you something concrete to compare against when you reach Phase VI.
@@ -290,6 +298,40 @@ importance: medium
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Socratic-Method|Socratic Method]]
+
+**Related concepts** *(from cog-psy-critical-examination-of-cognitive-load-theory-and-the-attentional-bottleneck-202512170123.md, cognitive-load-theory-foundational-report-2026-03-11.md, critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+[[Cognitive-Load-Theory-and-the-Attentional-Bottleneck:-A-Quantitative-Analysis-of-Context-Switching-Costs-and-Monotasking-Protocols|Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]] * [[Executive-Function|Executive Function]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Attentional-Bottleneck|Attentional Bottleneck]] * [[Context-Switching|Context Switching]] * [[Instructional-Design|Instructional Design]] * [[Productivity-Systems|Productivity Systems]] * [[Knowledge-Work|Knowledge Work]] * [[Working-Memory-Capacity|Working Memory Capacity]] * [[Prefrontal-Cortex|Prefrontal Cortex]] * [[Psychological-Refractory-Period|Psychological Refractory Period]] * [[Pomodoro-Technique|Pomodoro Technique]] * [[Psychological-Refractory-Period-and-Response-Selection-Bottlenecks|Psychological Refractory Period and Response Selection Bottlenecks]] * [[Reaction-Time-Measurement|Reaction Time Measurement]] * [[Response-Selection|Response Selection]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+
+
+
+
 
 
 

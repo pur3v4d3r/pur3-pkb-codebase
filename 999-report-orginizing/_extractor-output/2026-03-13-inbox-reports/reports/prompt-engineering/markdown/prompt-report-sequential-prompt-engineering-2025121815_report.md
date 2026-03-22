@@ -102,7 +102,7 @@ extraction_summary:
     - ### The Path Forward
 - # 🔗 Related Topics for PKB Expansion
   - ## Core Extensions
-    - ### 1. **[[Prompt Engineering Fundamentals]]**
+    - ### 1. **[[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]**
     - ### 2. **[[RAG Architecture and Implementation Patterns]]**
   - ## Cross-Domain Connections
     - ### 3. **[[MLOps and LLMOps: Production ML Infrastructure]]**
@@ -459,7 +459,7 @@ extraction_summary:
 - [[Orchestration Frameworks]]
 - [[Orchestration Frameworks and Sequential Prompt Engineering at Scale: An Evaluative Study]]
 - [[Production Deployment Patterns]]
-- [[Prompt Engineering Fundamentals]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 - [[Python Programming]]
 - [[RAG Architecture and Implementation Patterns]]
 - [[Semantic Kernel]]
@@ -478,7 +478,7 @@ extraction_summary:
 | 6 | [[AutoGen]] | — | — | 🏗️ Orchestration Frameworks and Seque... | 110 |
 | 7 | [[LangGraph]] | — | — | LangChain Ecosystem (LangChain + Lang... | 134 |
 | 8 | [[LangSmith]] | — | — | LangChain Ecosystem (LangChain + Lang... | 135 |
-| 9 | [[Prompt Engineering Fundamentals]] | — | — | LangChain Ecosystem (LangChain + Lang... | 136 |
+| 9 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | LangChain Ecosystem (LangChain + Lang... | 136 |
 | 10 | [[Python Programming]] | — | — | LangChain Ecosystem (LangChain + Lang... | 136 |
 | 11 | [[Workflow Module]] | — | — | LlamaIndex (formerly GPT Index) | 164 |
 | 12 | [[Azure AI Agent Service]] | — | — | Semantic Kernel (Microsoft) | 195 |
@@ -492,13 +492,13 @@ extraction_summary:
 | 20 | [[Semantic Kernel]] | — | — | Summary of Key Findings | 721 |
 | 21 | [[AutoGen]] | — | — | Summary of Key Findings | 721 |
 | 22 | [[DSPy]] | — | — | Summary of Key Findings | 721 |
-| 23 | [[Prompt Engineering Fundamentals]] | — | — | 1. **[[Prompt Engineering Fundamental... | 740 |
+| 23 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | 1. **[[Prompt Engineering Fundamental... | 740 |
 | 24 | [[RAG Architecture and Implementation Patterns]] | — | — | 2. **[[RAG Architecture and Implement... | 742 |
 | 25 | [[MLOps and LLMOps: Production ML Infrastructure]] | — | — | 3. **[[MLOps and LLMOps: Production M... | 745 |
 | 26 | [[Multi-Agent Systems and Distributed AI]] | — | — | 4. **[[Multi-Agent Systems and Distri... | 747 |
 | 27 | [[LLM Evaluation Methodologies and Metrics]] | — | — | 5. **[[LLM Evaluation Methodologies a... | 750 |
 | 28 | [[Orchestration Frameworks]] | — | — | 5. **[[LLM Evaluation Methodologies a... | 751 |
-| 29 | [[Prompt Engineering Fundamentals]] | — | — | 5. **[[LLM Evaluation Methodologies a... | 751 |
+| 29 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | 5. **[[LLM Evaluation Methodologies a... | 751 |
 | 30 | [[Statistical Testing Fundamentals]] | — | — | 5. **[[LLM Evaluation Methodologies a... | 751 |
 | 31 | [[Cost Optimization Strategies for LLM Infrastructure]] | — | — | 6. **[[Cost Optimization Strategies f... | 752 |
 | 32 | [[Orchestration Frameworks]] | — | — | 6. **[[Cost Optimization Strategies f... | 753 |
@@ -888,7 +888,7 @@ description includes Review
 - `%%mental-model: systems-thinking%%` *(Line 116)*
 - `%%mental-model: constraint-theory%%` *(Line 116)*
 - `%%ATOMIC: sequential-prompting-patterns | framework | critical | foundational-concept%%` *(Line 124)*
-- `%%prereq-hard: [[Prompt Engineering Fundamentals]]%%` *(Line 136)*
+- `%%prereq-hard: [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]%%` *(Line 136)*
 - `%%prereq-soft: [[Python Programming]]%%` *(Line 136)*
 - `%%evidence: meta-analysis%%` *(Line 154)*
 - `%%confidence: verified%%` *(Line 154)*
@@ -982,7 +982,7 @@ description includes Review
 - [[Orchestration Frameworks]]
 - [[Orchestration Frameworks and Sequential Prompt Engineering at Scale: An Evaluative Study]]
 - [[Production Deployment Patterns]]
-- [[Prompt Engineering Fundamentals]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 - [[Python Programming]]
 - [[RAG Architecture and Implementation Patterns]]
 - [[Semantic Kernel]]

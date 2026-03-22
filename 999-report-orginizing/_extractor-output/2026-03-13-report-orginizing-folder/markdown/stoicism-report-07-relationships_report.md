@@ -143,7 +143,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 245)*
 
 > [!abstract] Untitled
-> This report applies [[Stoicism]]'s philosophical architecture systematically to one of the most central and challenging domains of human life: our relationships with other people. Drawing on the Stoic theories of *oikeiosis* (natural affiliation), cosmopolitan justice, and virtue-based friendship — sourced directly from [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and [[Hierocles]] — the report maps the problem of relationship as the Stoics understood it, builds a practical framework grounded in five core principles, connects the Stoic approach to contemporary psychology (attachment theory, nonviolent communication, interpersonal neurobiology), provides worked examples from historical and everyday contexts, and delivers a systematic practice toolkit. The central argument is that Stoicism does not counsel emotional withdrawal from others — it offers a more demanding and ultimately more generous alternative: genuine engagement grounded in virtue, liberated from the need to control what cannot be controlled, and sustained by an understanding of the shared rational nature that all persons hold in common.
+> This report applies [[Stoicism]]'s philosophical architecture systematically to one of the most central and challenging domains of human life: our relationships with other people. Drawing on the Stoic theories of *oikeiosis* (natural affiliation), cosmopolitan justice, and virtue-based friendship — sourced directly from [[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], [[Seneca]], and [[Hierocles]] — the report maps the problem of relationship as the Stoics understood it, builds a practical framework grounded in five core principles, connects the Stoic approach to contemporary psychology (attachment theory, nonviolent communication, interpersonal neurobiology), provides worked examples from historical and everyday contexts, and delivers a systematic practice toolkit. The central argument is that Stoicism does not counsel emotional withdrawal from others — it offers a more demanding and ultimately more generous alternative: genuine engagement grounded in virtue, liberated from the need to control what cannot be controlled, and sustained by an understanding of the shared rational nature that all persons hold in common.
 
 #### 2. [INDEX] Untitled *(Line 250)*
 
@@ -465,7 +465,7 @@ extraction_summary:
 - [[Justice]]
 - [[Kathêkon]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Mary Ainsworth]]
 - [[Nonviolent Communication]]
 - [[Oikeiosis]]
@@ -487,7 +487,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism]] | — | — | Stoicism in Relationships: Building S... | 246 |
-| 2 | [[Marcus Aurelius]] | — | — | Stoicism in Relationships: Building S... | 246 |
+| 2 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Stoicism in Relationships: Building S... | 246 |
 | 3 | [[Epictetus]] | — | — | Stoicism in Relationships: Building S... | 246 |
 | 4 | [[Seneca]] | — | — | Stoicism in Relationships: Building S... | 246 |
 | 5 | [[Hierocles]] | — | — | Stoicism in Relationships: Building S... | 246 |
@@ -498,7 +498,7 @@ extraction_summary:
 | 10 | [[Dikaiosyne]] | — | — | Stoicism in Relationships: Building S... | 259 |
 | 11 | [[Justice]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
 | 12 | [[Oikeiosis]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
-| 13 | [[Marcus Aurelius]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
+| 13 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
 | 14 | [[Seneca]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
 | 15 | [[Epictetus]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
 | 16 | [[John Bowlby]] | — | — | Part 1: The Problem Relationships Pre... | 278 |
@@ -523,7 +523,7 @@ extraction_summary:
 | 35 | [[Interpersonal Neurobiology]] | — | — | Part 4: The Psychology Behind the Phi... | 430 |
 | 36 | [[View from Above]] | — | — | Part 4: The Psychology Behind the Phi... | 430 |
 | 37 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 435 |
-| 38 | [[Marcus Aurelius]] | — | — | Conclusion: Relationships Reframed | 631 |
+| 38 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Conclusion: Relationships Reframed | 631 |
 | 39 | [[Seneca on Friendship — De Amicitia and the Letters]] | — | — | Expansion Topics for PKB | 697 |
 | 40 | [[Stoic View of Anger — De Ira and Modern Applications]] | — | — | Expansion Topics for PKB | 699 |
 | 41 | [[Oikeiosis — Natural Affiliation and the Expansion of Care]] | — | — | Expansion Topics for PKB | 701 |
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Justice]]
 - [[Kathêkon]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Mary Ainsworth]]
 - [[Nonviolent Communication]]
 - [[Oikeiosis]]
@@ -601,21 +601,21 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
 - [[Hierocles]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Eudaimonia]]
 - [[Oikeiosis]]
 - [[Dikaiosyne]]
 - [[Cosmopolitanism]]
 - [[Kathêkon]]
 - [[Apatheia]]
-- [[Attachment Theory]]
+- [[Attachment-Theory|Attachment Theory]]
 - [[Nonviolent Communication]]
 - [[Interpersonal Neurobiology]]
 - [[Gottman Method]]
@@ -623,7 +623,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Ancient Philosophy]]
 - [[Psychology of Relationships]]
 
@@ -637,7 +637,7 @@ extraction_summary:
 
 #### See Also
 
-- [[Attachment Theory (Bowlby)]]
+- [[Attachment-Theory|Attachment Theory (Bowlby)]]
 - [[Nonviolent Communication (Rosenberg)]]
 - [[Gottman Four Horsemen]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

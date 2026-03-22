@@ -218,7 +218,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> QuickAdd is a powerful automation plugin for [[obsidian]] that transforms note creation, task capture, and knowledge management workflows through macros, templates, and intelligent choice menus. It serves as the connective tissue between rapid thought capture and structured knowledge organization, enabling friction-free information processing in your [[Personal-Knowledge-Base|Personal Knowledge Base]].
+> QuickAdd is a powerful automation plugin for [[Obsidian]] that transforms note creation, task capture, and knowledge management workflows through macros, templates, and intelligent choice menus. It serves as the connective tissue between rapid thought capture and structured knowledge organization, enabling friction-free information processing in your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 46)*
 
@@ -229,7 +229,7 @@ extraction_summary:
 #### 4. [DEFINITION] Untitled *(Line 65)*
 
 > [!definition] Untitled
-> - **QuickAdd**:: A meta-automation plugin for [[obsidian]] that enables rapid note creation, content capture, and workflow execution through a unified command palette interface
+> - **QuickAdd**:: A meta-automation plugin for [[Obsidian]] that enables rapid note creation, content capture, and workflow execution through a unified command palette interface
 > - **Macro**:: A sequence of automated actions (create note, insert template, run scripts) triggered by a single command
 > - **Choice**:: A decision point in the QuickAdd menu that branches to different actions based on user selection
 
@@ -462,7 +462,7 @@ extraction_summary:
 - [[${fileName}]]
 - [[${s.file}]]
 - [[${topic}]]
-- [[Automation]]
+- [[automation]]
 - [[Capture-to-Permanence Pipeline Architecture]]
 - [[Dataview]]
 - [[Dataview Query Optimization for Automated Indexes]]
@@ -477,11 +477,11 @@ extraction_summary:
 - [[Templater]]
 - [[Templater Advanced Patterns for QuickAdd Integration]]
 - [[Wiki-Link]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zettelkasten methodology]]
-- [[dataview]]
-- [[obsidian]]
+- [[Dataview]]
+- [[Obsidian]]
 - [[{{DATE:YYYY-MM-DD}}_daily-note]]
 - [[{{LINKCURRENT}}]]
 - [[{{VALUE:projectFolder}}]]
@@ -492,14 +492,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[obsidian]] | — | — | Document Start | 44 |
+| 1 | [[Obsidian]] | — | — | Document Start | 44 |
 | 2 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 44 |
-| 3 | [[obsidian]] | — | — | 🎯 Core Concepts & Architecture | 66 |
+| 3 | [[Obsidian]] | — | — | 🎯 Core Concepts & Architecture | 66 |
 | 4 | [[Templater]] | — | — | Foundational Understanding | 77 |
-| 5 | [[dataview]] | — | — | Foundational Understanding | 77 |
+| 5 | [[Dataview]] | — | — | Foundational Understanding | 77 |
 | 6 | [[Zettelkasten methodology]] | — | — | The QuickAdd Philosophy | 91 |
 | 7 | [[Getting Things Done]] | — | — | The QuickAdd Philosophy | 91 |
-| 8 | [[YAML Frontmatter]] | — | — | Template Choice | 118 |
+| 8 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Template Choice | 118 |
 | 9 | [[Templater]] | — | — | Template Choice | 121 |
 | 10 | [[{{LINKCURRENT}}]] | — | — | Variable System | 236 |
 | 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔧 Five Production-Ready Macro Examples | 311 |
@@ -524,9 +524,9 @@ extraction_summary:
 | 30 | [[Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 31 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 32 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
-| 33 | [[Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
+| 33 | [[automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 34 | [[Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
-| 35 | [[YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
+| 35 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 36 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 37 | [[Markdown]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 
@@ -1507,7 +1507,7 @@ Structural Planning:
   * Choice system
   * Advanced patterns and integration
   * Troubleshooting
-- Wiki-Link Opportunities: [[Obsidian]], [[Templater]], [[Dataview]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[Zettelkasten]], [[Automation]], [[Metadata]], [[YAML Frontmatter]], [[JavaScript]], [[Markdown]], etc.
+- Wiki-Link Opportunities: [[Obsidian]], [[Templater]], [[Dataview]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[Zettelkasten]], [[automation]], [[Metadata]], [[YAML-Frontmatter|YAML Frontmatter]], [[JavaScript]], [[Markdown]], etc.
 - Callout Strategy:
   * [!definition] for core concepts
   * [!methodology-and-sources] for macro implementation
@@ -1629,7 +1629,7 @@ graph TD
 - [[${fileName}]]
 - [[${s.file}]]
 - [[${topic}]]
-- [[Automation]]
+- [[automation]]
 - [[Capture-to-Permanence Pipeline Architecture]]
 - [[Dataview]]
 - [[Dataview Query Optimization for Automated Indexes]]
@@ -1644,11 +1644,11 @@ graph TD
 - [[Templater]]
 - [[Templater Advanced Patterns for QuickAdd Integration]]
 - [[Wiki-Link]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zettelkasten methodology]]
-- [[dataview]]
-- [[obsidian]]
+- [[Dataview]]
+- [[Obsidian]]
 - [[{{DATE:YYYY-MM-DD}}_daily-note]]
 - [[{{LINKCURRENT}}]]
 - [[{{VALUE:projectFolder}}]]

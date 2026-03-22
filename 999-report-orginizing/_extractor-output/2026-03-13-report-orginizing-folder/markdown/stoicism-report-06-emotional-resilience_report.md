@@ -136,7 +136,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 239)*
 
 > [!abstract] Untitled
-> This report examines [[Stoicism]] as a comprehensive architecture for emotional resilience — not as a prescription for suppressing pain or achieving unfeeling detachment, but as a rigorous philosophical technology for maintaining dignity, clarity, and purposeful action in the face of hardship. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary resilience science, neuroscience, and clinical psychology, the report maps the conceptual foundations of Stoic resilience, explains why they work psychologically, offers detailed worked examples from historical and contemporary cases, and provides a systematic practice toolkit deployable in the face of real adversity. The central argument is this: Stoicism does not promise that adversity will not hurt. It offers something more valuable — a way of meeting adversity that transforms it from mere suffering into material for human excellence.
+> This report examines [[Stoicism]] as a comprehensive architecture for emotional resilience — not as a prescription for suppressing pain or achieving unfeeling detachment, but as a rigorous philosophical technology for maintaining dignity, clarity, and purposeful action in the face of hardship. Drawing on primary sources in [[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary resilience science, neuroscience, and clinical psychology, the report maps the conceptual foundations of Stoic resilience, explains why they work psychologically, offers detailed worked examples from historical and contemporary cases, and provides a systematic practice toolkit deployable in the face of real adversity. The central argument is this: Stoicism does not promise that adversity will not hurt. It offers something more valuable — a way of meeting adversity that transforms it from mere suffering into material for human excellence.
 
 #### 2. [INDEX] Untitled *(Line 244)*
 
@@ -212,7 +212,7 @@ extraction_summary:
 #### 13. [CONNECTION-IDEAS] Untitled *(Line 403)*
 
 > [!connection-ideas] Untitled
-> **Stoicism and [[Acceptance and Commitment Therapy]]**: Of all modern psychological frameworks, ACT aligns most closely with the Stoic resilience model. ACT's emphasis on *acceptance* — the willingness to experience difficult thoughts and feelings without fighting or avoiding them — mirrors the Stoic distinction between what is within and outside our control. ACT's emphasis on *values-based action* — engaging with what genuinely matters to you even in the presence of difficult internal states — mirrors the Stoic insistence that virtue and purposeful action remain available even in the midst of adversity. The major difference is that ACT treats psychological flexibility as the core competency, while Stoicism frames the equivalent capacity within a rich metaphysical and ethical framework that gives it additional normative depth.
+> **Stoicism and [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]**: Of all modern psychological frameworks, ACT aligns most closely with the Stoic resilience model. ACT's emphasis on *acceptance* — the willingness to experience difficult thoughts and feelings without fighting or avoiding them — mirrors the Stoic distinction between what is within and outside our control. ACT's emphasis on *values-based action* — engaging with what genuinely matters to you even in the presence of difficult internal states — mirrors the Stoic insistence that virtue and purposeful action remain available even in the midst of adversity. The major difference is that ACT treats psychological flexibility as the core competency, while Stoicism frames the equivalent capacity within a rich metaphysical and ethical framework that gives it additional normative depth.
 
 #### 14. [RESEARCH] Untitled *(Line 406)*
 
@@ -290,7 +290,7 @@ extraction_summary:
 > 
 > **Duration**: 2–5 minutes for small adversities; longer deliberate reflection for significant ones.
 > 
-> **Stoic Grounding**: The direct application of the [[Dichotomy-of-Control|Dichotomy of Control]] from Epictetus (*Enchiridion* 1) and [[Marcus Aurelius]]'s repeated returns in the *Meditations* to the question of what is "up to us."
+> **Stoic Grounding**: The direct application of the [[Dichotomy-of-Control|Dichotomy of Control]] from Epictetus (*Enchiridion* 1) and [[Marcus-Aurelius|Marcus Aurelius]]'s repeated returns in the *Meditations* to the question of what is "up to us."
 > 
 > **Psychological Mechanism**: Redirects attention and cognitive resources from the domain of the uncontrollable (which produces helplessness and rumination) to the domain of the controllable (which produces agency and purposeful action). Prevents the conflation of external setback with personal defeat.
 > 
@@ -354,7 +354,7 @@ extraction_summary:
 > 
 > **The Misunderstanding**: Stoicism requires you to suppress or deny your emotional responses to adversity — to pretend you don't feel pain, grief, or fear.
 > 
-> **The Stoic Response**: This is among the most common and most damaging misreadings of the tradition. The Stoics explicitly endorsed natural emotional responses to genuine losses. [[Epictetus]] wept when his friend was ill. [[Marcus Aurelius]] grieved the deaths of his children and teachers. Seneca wrote some of the most searching and honest literature on grief in the ancient world. What the Stoics targeted was not emotion itself but the *additional* suffering generated by false philosophical judgments: the despair, the catastrophizing, the sense of identity-destruction that is the product of philosophical confusion rather than grief itself. Stoic practice aims to feel the right things in the right proportion — not nothing.
+> **The Stoic Response**: This is among the most common and most damaging misreadings of the tradition. The Stoics explicitly endorsed natural emotional responses to genuine losses. [[Epictetus]] wept when his friend was ill. [[Marcus-Aurelius|Marcus Aurelius]] grieved the deaths of his children and teachers. Seneca wrote some of the most searching and honest literature on grief in the ancient world. What the Stoics targeted was not emotion itself but the *additional* suffering generated by false philosophical judgments: the despair, the catastrophizing, the sense of identity-destruction that is the product of philosophical confusion rather than grief itself. Stoic practice aims to feel the right things in the right proportion — not nothing.
 
 #### 24. [WARNING] Untitled *(Line 562)*
 
@@ -363,7 +363,7 @@ extraction_summary:
 > 
 > **The Misunderstanding**: Deliberately reframing adversity as "material for virtue" or deploying the control triage feels forced and inauthentic when the pain is acute. The philosophical stance seems to require pretending to a equanimity one doesn't feel.
 > 
-> **The Stoic Response**: This is an accurate description of the early stage of any genuine practice. [[Marcus Aurelius]]'s *Meditations* repeatedly returns to the same philosophical principles across hundreds of entries — evidence that he was not writing from a position of settled equanimity but from a position of someone continuing to practice the return to philosophical orientation despite the pull of reactive emotions. The practice is not the performance of equanimity. It is the regular, imperfect, effortful direction of attention back to what is within one's power. Over months and years, this direction becomes progressively more natural and less effortful.
+> **The Stoic Response**: This is an accurate description of the early stage of any genuine practice. [[Marcus-Aurelius|Marcus Aurelius]]'s *Meditations* repeatedly returns to the same philosophical principles across hundreds of entries — evidence that he was not writing from a position of settled equanimity but from a position of someone continuing to practice the return to philosophical orientation despite the pull of reactive emotions. The practice is not the performance of equanimity. It is the regular, imperfect, effortful direction of attention back to what is within one's power. Over months and years, this direction becomes progressively more natural and less effortful.
 
 #### 25. [WARNING] Untitled *(Line 569)*
 
@@ -444,14 +444,14 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Amor Fati — The Stoic and Nietzschean Traditions]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Enchiridion]]
 - [[Epictetus]]
 - [[James Stockdale]]
 - [[James Stockdale and Stoic Resilience in Extremis]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Post-Traumatic Growth]]
 - [[Post-Traumatic Growth — The Stoic Dimension]]
 - [[Preferred Indifferents]]
@@ -471,7 +471,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism]] | — | — | Stoicism and Emotional Resilience: Co... | 240 |
-| 2 | [[Marcus Aurelius]] | — | — | Stoicism and Emotional Resilience: Co... | 240 |
+| 2 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Stoicism and Emotional Resilience: Co... | 240 |
 | 3 | [[Epictetus]] | — | — | Stoicism and Emotional Resilience: Co... | 240 |
 | 4 | [[Seneca]] | — | — | Stoicism and Emotional Resilience: Co... | 240 |
 | 5 | [[Stoicism Series Overview]] | — | — | Stoicism and Emotional Resilience: Co... | 247 |
@@ -479,7 +479,7 @@ extraction_summary:
 | 7 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | Stoicism and Emotional Resilience: Co... | 250 |
 | 8 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and Emotional Resilience: Co... | 253 |
 | 9 | [[Prohairesis]] | — | — | Stoicism and Emotional Resilience: Co... | 253 |
-| 10 | [[Marcus Aurelius]] | — | — | Part 1: The Problem Adversity Present... | 263 |
+| 10 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 11 | [[Epictetus]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 12 | [[Seneca]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 13 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 311 |
@@ -488,8 +488,8 @@ extraction_summary:
 | 16 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Framework Principle 1: The Dichotomy ... | 330 |
 | 17 | [[Post-Traumatic Growth]] | — | — | Framework Principle 2: Adversity as M... | 350 |
 | 18 | [[Seneca]] | — | — | Framework Principle 3: Amor Fati — Fr... | 360 |
-| 19 | [[Marcus Aurelius]] | — | — | Framework Principle 5: The Distinctio... | 389 |
-| 20 | [[Acceptance and Commitment Therapy]] | — | — | Part 4: The Psychology Behind the Phi... | 404 |
+| 19 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Framework Principle 5: The Distinctio... | 389 |
+| 20 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | Part 4: The Psychology Behind the Phi... | 404 |
 | 21 | [[Viktor Frankl]] | — | — | Part 4: The Psychology Behind the Phi... | 411 |
 | 22 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 411 |
 | 23 | [[Epictetus]] | — | — | Example 1: Epictetus — Structural Res... | 419 |
@@ -501,12 +501,12 @@ extraction_summary:
 | 29 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 2: James Stockdale — Epictetu... | 445 |
 | 30 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 3: A Modern Composite — Navig... | 456 |
 | 31 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 498 |
-| 32 | [[Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 498 |
+| 32 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 498 |
 | 33 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 537 |
 | 34 | [[Epictetus]] | — | — | Part 7: Common Obstacles and How the ... | 560 |
-| 35 | [[Marcus Aurelius]] | — | — | Part 7: Common Obstacles and How the ... | 560 |
-| 36 | [[Marcus Aurelius]] | — | — | Part 7: Common Obstacles and How the ... | 567 |
-| 37 | [[Marcus Aurelius]] | — | — | Conclusion: Adversity Reframed | 606 |
+| 35 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 7: Common Obstacles and How the ... | 560 |
+| 36 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 7: Common Obstacles and How the ... | 567 |
+| 37 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Conclusion: Adversity Reframed | 606 |
 | 38 | [[Post-Traumatic Growth — The Stoic Dimension]] | — | — | Expansion Topics for PKB | 670 |
 | 39 | [[Stoic Consolation Literature — Seneca and the Art of Grief]] | — | — | Expansion Topics for PKB | 672 |
 | 40 | [[James Stockdale and Stoic Resilience in Extremis]] | — | — | Expansion Topics for PKB | 674 |
@@ -542,14 +542,14 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Amor Fati — The Stoic and Nietzschean Traditions]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Enchiridion]]
 - [[Epictetus]]
 - [[James Stockdale]]
 - [[James Stockdale and Stoic Resilience in Extremis]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Post-Traumatic Growth]]
 - [[Post-Traumatic Growth — The Stoic Dimension]]
 - [[Preferred Indifferents]]
@@ -576,19 +576,19 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
 - [[Amor Fati]]
 - [[Memento Mori]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
-- [[Cognitive Behavioral Therapy]]
-- [[Acceptance and Commitment Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Post-Traumatic Growth]]
 - [[Emotional Regulation]]
@@ -597,7 +597,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Psychology of Resilience]]
 - [[Contemplative Practice]]
 
@@ -612,7 +612,7 @@ extraction_summary:
 #### See Also
 
 - [[Post-Traumatic Growth]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
 - [[Grief Processing Models]]
 - [[Hardiness Theory (Kobasa)]]

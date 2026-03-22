@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -89,19 +89,27 @@ see-also:
   - "[[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
   - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
   - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
-  - "[[fallibilism|fallibilism]]"
+  - "[[Fallibilism|fallibilism]]"
   - "[[epistemology|epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
-  - "[[critical-thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Descartes|Descartes]]"
   - "[[scepticism|scepticism]]"
   - "[[epistemic-relativism|epistemic relativism]]"
-  - "[[fallibilism|fallibilism]]"
+  - "[[Fallibilism|fallibilism]]"
   - "[[epistemology|epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
-  - "[[critical-thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
+  - "[[Descartes|Descartes]]"
+  - "[[scepticism|scepticism]]"
+  - "[[epistemic-relativism|epistemic relativism]]"
+  - "[[Fallibilism|fallibilism]]"
+  - "[[epistemology|epistemology]]"
+  - "[[philosophy-of-science|philosophy of science]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[Pedagogy|pedagogy]]"
   - "[[Descartes|Descartes]]"
   - "[[scepticism|scepticism]]"
   - "[[epistemic-relativism|epistemic relativism]]"
@@ -279,10 +287,10 @@ importance: high
 > Several evidence-informed strategies cultivate fallibilist dispositions in students. *Explicitly modelling intellectual revision* — teachers visibly updating their own positions in response to student challenges — teaches that revision is a sign of intellectual strength, not weakness. *Arguing for positions one does not hold* (the classical *in utramque partem* exercise from rhetoric) develops the capacity to imaginatively inhabit alternative perspectives. *Asking students to identify conditions under which their own conclusions could be wrong* transforms the act of forming a belief into an occasion for epistemic self-examination. *Structured academic controversy* — having students research and present opposing sides of genuine disputes — develops appreciation for the genuine complexity of contested questions.
 
 > [!example] **Application** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
-> The most effective reflection prompts are not open-ended ("What did you learn?") but specifically targeted at metacognitive dimensions: "What was the hardest part of this task, and why do you think you found it hard?" / "What strategy did you use, and would you use it again?" / "What would you need to understand better to improve your performance?" Research by [[John Hattie]] and [[Gregory Yates]] on visible learning confirms that specific, actionable feedback on learning processes (not just outcomes) produces significantly stronger learning gains than generic feedback.
+> The most effective reflection prompts are not open-ended ("What did you learn?") but specifically targeted at metacognitive dimensions: "What was the hardest part of this task, and why do you think you found it hard?" / "What strategy did you use, and would you use it again?" / "What would you need to understand better to improve your performance?" Research by [[John-Hattie]] and [[Gregory-Yates]] on visible learning confirms that specific, actionable feedback on learning processes (not just outcomes) produces significantly stronger learning gains than generic feedback.
 
 > [!example] **Application** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
-> [[King and Kitchener]]'s research on reflective judgment development suggests that genuine critical thinking development requires sustained engagement with *ill-structured problems* — problems where the evidence is incomplete, where experts disagree, and where multiple reasonable positions are defensible. Well-structured problems with clear correct answers can be solved by algorithm; ill-structured problems require the full apparatus of metacognitive monitoring and critical evaluation. Curricula that consist primarily of well-structured problems, however, fail to develop this capacity — producing students who can perform within the known structure but are disoriented by genuine intellectual complexity.
+> [[King-and-Kitchener]]'s research on reflective judgment development suggests that genuine critical thinking development requires sustained engagement with *ill-structured problems* — problems where the evidence is incomplete, where experts disagree, and where multiple reasonable positions are defensible. Well-structured problems with clear correct answers can be solved by algorithm; ill-structured problems require the full apparatus of metacognitive monitoring and critical evaluation. Curricula that consist primarily of well-structured problems, however, fail to develop this capacity — producing students who can perform within the known structure but are disoriented by genuine intellectual complexity.
 
 > [!example] **Application** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
 > A practical, evidence-based metacognitive protocol for any learning task:
@@ -388,7 +396,7 @@ importance: high
 [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Autonomy]] · [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Constructivism]]
 
 **Related concepts** *(from fallibilism-foundational-report-2026-03-06.md, metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md)*:
-[[fallibilism|fallibilism]] * [[epistemology|epistemology]] * [[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[pedagogy|pedagogy]] * [[Descartes|Descartes]] * [[scepticism|scepticism]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-humility|Epistemic humility]] * [[cognitive-psychology|cognitive psychology]] * [[Socrates|Socrates]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[pragmatism|pragmatism]]
+[[Fallibilism|fallibilism]] * [[epistemology|epistemology]] * [[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[Pedagogy|pedagogy]] * [[Descartes|Descartes]] * [[scepticism|scepticism]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[Cognitive-Psychology|cognitive psychology]] * [[Socrates|Socrates]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Pragmatism|pragmatism]]
 
 **Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
 - [[Fallibilism|Fallibilism]]
@@ -441,7 +449,7 @@ importance: high
 - [[Attribution-Theory|Attribution Theory]]
 
 **Related concepts** *(from fallibilism-foundational-report-2026-03-06.md, metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md, sdt-srl-comparative-synthesis-2026-03-19.md)*:
-[[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-humility|Epistemic humility]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[epistemic-holism|epistemic holism]]
+[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[Cognitive-Psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[Falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]]
 
 **Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
 - [[Fallibilism|Fallibilism]]
@@ -495,6 +503,72 @@ importance: high
 
 **Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
 - [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md, metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md, sdt-srl-comparative-synthesis-2026-03-19.md)*:
+[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[Cognitive-Psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+
+
+
+
+
+
+
+
+
 
 
 

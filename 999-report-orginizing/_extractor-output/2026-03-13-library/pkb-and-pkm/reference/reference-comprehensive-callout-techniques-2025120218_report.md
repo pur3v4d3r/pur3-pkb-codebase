@@ -564,7 +564,7 @@ extraction_summary:
 #### 43. [NOTE] Cross-References *(Line 722)*
 
 > [!note] Cross-References
-> See [[Related Note]] for more details.
+> See [[Related-Note|Related Note]] for more details.
 > Also check [[Another Note#Specific Section]].
 
 #### 44. [INFO] Resources *(Line 729)*
@@ -1056,7 +1056,7 @@ extraction_summary:
 - [[Information Architecture in Personal Knowledge Management]]
 - [[Inline Formatting]]
 - [[Internal Link]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Markdown]]
 - [[Markdown Extended Syntax Ecosystem]]
 - [[Markdown Tables]]
@@ -1069,8 +1069,8 @@ extraction_summary:
 - [[Obsidian CSS Snippets Architecture]]
 - [[Outline Pane]]
 - [[Plugin Integration]]
-- [[Related Note]]
-- [[Tasks Plugin]]
+- [[Related-Note|Related Note]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater Plugin]]
 - [[wiki-links|Wiki Links]]
 - [[YAML]]
@@ -1084,7 +1084,7 @@ extraction_summary:
 | 3 | [[Markdown]] | — | — | Claude Thinking | 226 |
 | 4 | [[Callout Syntax]] | — | — | Claude Thinking | 227 |
 | 5 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 228 |
-| 6 | [[Tasks Plugin]] | — | — | Claude Thinking | 229 |
+| 6 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Claude Thinking | 229 |
 | 7 | [[Templater Plugin]] | — | — | Claude Thinking | 230 |
 | 8 | [[CSS Customization]] | — | — | Claude Thinking | 231 |
 | 9 | [[Nested Structures]] | — | — | Claude Thinking | 232 |
@@ -1092,7 +1092,7 @@ extraction_summary:
 | 11 | [[wiki-links|Wiki Links]] | — | — | Claude Thinking | 234 |
 | 12 | [[Frontmatter]] | — | — | Claude Thinking | 235 |
 | 13 | [[YAML]] | — | — | Claude Thinking | 236 |
-| 14 | [[Knowledge Graph]] | — | — | Claude Thinking | 237 |
+| 14 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Claude Thinking | 237 |
 | 15 | [[Note-Taking Best Practices]] | — | — | Claude Thinking | 238 |
 | 16 | [[Information-Architecture|Information Architecture]] | — | — | Claude Thinking | 239 |
 | 17 | [[Callout Syntax]] | — | — | Claude Thinking | 285 |
@@ -1107,11 +1107,11 @@ extraction_summary:
 | 26 | [[Outline Pane]] | — | — | Headers Inside Callouts | 673 |
 | 27 | [[Note]] | — | Header | Headers Inside Callouts | 674 |
 | 28 | [[Markdown Tables]] | — | — | Tables in Callouts | 699 |
-| 29 | [[Related Note]] | — | — | Links and Embeds in Callouts | 723 |
+| 29 | [[Related-Note|Related Note]] | — | — | Links and Embeds in Callouts | 723 |
 | 30 | [[Another Note]] | — | Specific Section | Links and Embeds in Callouts | 724 |
 | 31 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Dataview Plugin Integration | 781 |
 | 32 | [[Note^callout-id]] | — | — | Callout Block References with Dataview | 863 |
-| 33 | [[Tasks Plugin]] | — | — | Tasks Plugin Integration | 869 |
+| 33 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin Integration | 869 |
 | 34 | [[Templater Plugin]] | — | — | Templater Plugin Integration | 903 |
 | 35 | [[Meta Bind Plugin]] | — | — | Meta Bind Plugin Integration | 920 |
 | 36 | [[Internal Link]] | — | — | Markdown Element Syntax | 1429 |
@@ -1483,7 +1483,7 @@ LIMIT 15
 
 ```markdown
 > [!note] Cross-References
-> See [[Related Note]] for more details.
+> See [[Related-Note|Related Note]] for more details.
 > Also check [[Another Note#Specific Section]].
 ```
 
@@ -2134,7 +2134,7 @@ graph TD
 - [[Information Architecture in Personal Knowledge Management]]
 - [[Inline Formatting]]
 - [[Internal Link]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Markdown]]
 - [[Markdown Extended Syntax Ecosystem]]
 - [[Markdown Tables]]
@@ -2147,8 +2147,8 @@ graph TD
 - [[Obsidian CSS Snippets Architecture]]
 - [[Outline Pane]]
 - [[Plugin Integration]]
-- [[Related Note]]
-- [[Tasks Plugin]]
+- [[Related-Note|Related Note]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater Plugin]]
 - [[wiki-links|Wiki Links]]
 - [[YAML]]

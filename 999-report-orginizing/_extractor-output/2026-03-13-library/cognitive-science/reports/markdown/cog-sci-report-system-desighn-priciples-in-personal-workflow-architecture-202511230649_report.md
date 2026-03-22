@@ -253,11 +253,11 @@ extraction_summary:
 - [[Information Theory]]
 - [[Iterative Design]]
 - [[Loose Coupling]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Nassim Nicholas Taleb]]
 - [[Niklas Luhmann]]
 - [[Norbert Wiener]]
-- [[Personal Workflow Architecture]]
+- [[Personal-Workflow-Architecture|Personal Workflow Architecture]]
 - [[Systems Design]]
 - [[Urban Planning]]
 - [[W. Ross Ashby]]
@@ -273,7 +273,7 @@ extraction_summary:
 | 4 | [[Information Entropy]] | — | — | Systems Design Principles in Personal... | 44 |
 | 5 | [[Loose Coupling]] | — | — | Systems Design Principles in Personal... | 44 |
 | 6 | [[Homeostasis]] | — | — | Systems Design Principles in Personal... | 44 |
-| 7 | [[Personal Workflow Architecture]] | — | — | 1\. Introduction: The Workflow as an ... | 48 |
+| 7 | [[Personal-Workflow-Architecture|Personal Workflow Architecture]] | — | — | 1\. Introduction: The Workflow as an ... | 48 |
 | 8 | [[Cognitive Friction]] | — | — | 1\. Introduction: The Workflow as an ... | 51 |
 | 9 | [[Cybernetics]] | — | — | 2\. Methodology and Lineage: From Cyb... | 60 |
 | 10 | [[Information Theory]] | — | — | 2\. Methodology and Lineage: From Cyb... | 60 |
@@ -293,7 +293,7 @@ extraction_summary:
 | 24 | [[Nassim Nicholas Taleb]] | — | — | 5\. Analysis: Rigid vs. Adaptive Systems | 107 |
 | 25 | [[Exocortex]] | — | — | 6\. Discussion: The Exocortex and Hom... | 114 |
 | 26 | [[Homeostasis]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
-| 27 | [[Mihaly Csikszentmihalyi]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
+| 27 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
 | 28 | [[Flow State]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
 | 29 | [[Biomimicry in Engineering]] | — | — | 7\. Conclusion | 129 |
 | 30 | [[Complex-Adaptive-Systems|Complex Adaptive Systems]] | — | — | 7\. Conclusion | 130 |
@@ -435,11 +435,11 @@ $$
 - [[Information Theory]]
 - [[Iterative Design]]
 - [[Loose Coupling]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Nassim Nicholas Taleb]]
 - [[Niklas Luhmann]]
 - [[Norbert Wiener]]
-- [[Personal Workflow Architecture]]
+- [[Personal-Workflow-Architecture|Personal Workflow Architecture]]
 - [[Systems Design]]
 - [[Urban Planning]]
 - [[W. Ross Ashby]]

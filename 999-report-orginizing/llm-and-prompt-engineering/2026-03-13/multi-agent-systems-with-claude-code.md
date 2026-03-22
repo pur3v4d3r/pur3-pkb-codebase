@@ -105,7 +105,7 @@ enables:
 > [!definition] Subagents vs. Coordinator
 > **Subagents** are specialized Claude instances with their own context windows, defined in markdown files with YAML frontmatter. The **coordinator** is not a separate file—it's the main Claude agent (the "general-purpose" agent) that you interact with directly. The coordinator analyzes tasks, routes them to appropriate subagents, and synthesizes their results.
 
-The architecture emerged from Anthropic's internal research showing that multi-agent systems with [[Claude Opus 4]] as the lead agent and [[Claude Sonnet 4]] subagents outperformed single-agent Claude Opus 4 by [**Performance-Improvement**:: 90.2% on internal research evaluations, achieved through task decomposition into parallel, specialized workstreams that prevented context pollution and leveraged domain expertise.]^verified-stable
+The architecture emerged from Anthropic's internal research showing that multi-agent systems with [[Claude-Opus-4|Claude Opus 4]] as the lead agent and [[Claude-Sonnet-4|Claude Sonnet 4]] subagents outperformed single-agent Claude Opus 4 by [**Performance-Improvement**:: 90.2% on internal research evaluations, achieved through task decomposition into parallel, specialized workstreams that prevented context pollution and leveraged domain expertise.]^verified-stable
 
 > [!key-claim] Context Isolation as Core Advantage
 > [**Context-Isolation-Benefit**:: Each subagent maintains a separate conversation history and context window from the main agent and other subagents, preventing the "context pollution" that degrades performance in long conversations where unrelated information competes for attention and reduces focus on the current subtask.]^verified-stable
@@ -2731,23 +2731,23 @@ Claude Code provides three delegation mechanisms:
 > **Connections to Foundational Mental Models**
 >
 > **Software Architecture**:
-> - Multi-agent systems mirror [[Microservices Architecture]]: independent services (agents), clear interfaces (descriptions), centralized orchestration (main agent as API gateway)
-> - Context isolation parallels [[Bounded Contexts]] in Domain-Driven Design: each agent operates within its domain boundary
-> - Shared state files function as [[Message Queues]] in distributed systems: asynchronous communication, eventual consistency
+> - Multi-agent systems mirror [[Microservices-Architecture|Microservices Architecture]]: independent services (agents), clear interfaces (descriptions), centralized orchestration (main agent as API gateway)
+> - Context isolation parallels [[Bounded-Contexts|Bounded Contexts]] in Domain-Driven Design: each agent operates within its domain boundary
+> - Shared state files function as [[Message-Queues|Message Queues]] in distributed systems: asynchronous communication, eventual consistency
 >
 > **Distributed Systems**:
 > - Sequential pipeline pattern implements [[MapReduce]]: map (parallelize subtasks) and reduce (synthesize results)
-> - Hook-based automation mirrors [[Event-Driven Architecture]]: agents publish events (status changes), hooks subscribe and react
-> - Error handling follows [[Circuit Breaker Pattern]]: detect failures, prevent cascades, implement fallbacks
+> - Hook-based automation mirrors [[Event-Driven-Architecture|Event-Driven Architecture]]: agents publish events (status changes), hooks subscribe and react
+> - Error handling follows [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]]: detect failures, prevent cascades, implement fallbacks
 >
 > **Team Dynamics**:
-> - Agent specialization reflects [[Conway's Law]]: system architecture mirrors communication structure (agents mirror team roles)
-> - Coordination strategies parallel [[Agile Standups]]: shared state files = async status updates, agents = team members reporting progress
-> - Tool restriction embodies [[Principle of Least Privilege]]: agents get minimum permissions needed, reducing security risk
+> - Agent specialization reflects [[Conway's-Law|Conway's Law]]: system architecture mirrors communication structure (agents mirror team roles)
+> - Coordination strategies parallel [[Agile-Standups|Agile Standups]]: shared state files = async status updates, agents = team members reporting progress
+> - Tool restriction embodies [[Principle-of-Least-Privilege|Principle of Least Privilege]]: agents get minimum permissions needed, reducing security risk
 >
 > **Cognitive Science**:
 > - Context isolation prevents [[Cognitive-Load|Cognitive Load]] overload: each agent processes limited, relevant information
-> - Specialization leverages [[Expertise Theory]]: deep knowledge in narrow domain > shallow knowledge across broad domain
+> - Specialization leverages [[Expertise-Theory|Expertise Theory]]: deep knowledge in narrow domain > shallow knowledge across broad domain
 > - Explicit communication reduces [[Working-Memory|Working Memory]] burden: written state > remembered state
 
 > [!application-context]
@@ -2803,27 +2803,27 @@ Claude Code provides three delegation mechanisms:
 > **Explicit Connections to Existing PKB Concepts**
 >
 > **Direct Prerequisites** (must understand before this):
-> - [[Claude Code Basics]] - Installation, configuration, fundamental usage
-> - [[CLAUDE.md Files]] - Project context and memory system
-> - [[Prompt Engineering Fundamentals]] - How to write effective agent prompts
-> - [[YAML Syntax]] - Required for agent frontmatter
+> - [[Claude-Code-Basics|Claude Code Basics]] - Installation, configuration, fundamental usage
+> - [[CLAUDE.md-Files|CLAUDE.md Files]] - Project context and memory system
+> - [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] - How to write effective agent prompts
+> - [[YAML-Syntax|YAML Syntax]] - Required for agent frontmatter
 >
 > **Sibling Concepts** (parallel systems, often used together):
-> - [[MCP Servers]] - Tool integration extends agent capabilities
-> - [[Custom Commands]] - Slash commands for orchestration templates
-> - [[Skills System]] - Auto-loaded knowledge for agents
-> - [[Output Styles]] - Meta-prompts changing orchestration behavior
-> - [[Hooks System]] - Lifecycle events for automation
+> - [[MCP-Servers|MCP Servers]] - Tool integration extends agent capabilities
+> - [[Custom-Commands|Custom Commands]] - Slash commands for orchestration templates
+> - [[Skills-System|Skills System]] - Auto-loaded knowledge for agents
+> - [[Output-Styles|Output Styles]] - Meta-prompts changing orchestration behavior
+> - [[Hooks-System|Hooks System]] - Lifecycle events for automation
 >
 > **Child Concepts** (specialized topics that elaborate this):
-> - [[Agent File Format Specification]] - Deep dive into YAML + markdown structure
+> - [[Agent-File-Format-Specification|Agent File Format Specification]] - Deep dive into YAML + markdown structure
 > - [[Coordination Pattern Library]] - Collection of proven orchestration strategies
 > - [[Tool Permission Grammar]] - Syntax for restricting agent capabilities
 > - [[State Management Protocols]] - Best practices for shared state files
 > - [[Agent Prompt Engineering]] - Specialized prompting for agents vs. main Claude
 >
 > **Cross-Domain Bridges** (connections to other fields):
-> - [[Microservices Architecture]] → Agent isolation mirrors service boundaries
+> - [[Microservices-Architecture|Microservices Architecture]] → Agent isolation mirrors service boundaries
 > - [[Distributed Systems Design]] → State management, error handling, coordination
 > - [[Multi-Agent AI Systems]] → Academic research on agent coordination
 > - [[Software Engineering Workflows]] → CI/CD, git integration, code review

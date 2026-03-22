@@ -133,7 +133,7 @@ extraction_summary:
 #### 4. [CONNECTIONS-AND-LINKS] European Influences *(Line 48)*
 
 > [!connections-and-links] European Influences
-> James's European sources prove equally important. From [[Hermann Lotze]]'s *Medicinische Psychologie* (1852) and *Mikrokosmos* (1856-64), James absorbed a sophisticated physiological psychology that refused to reduce mind to mechanism. Lotze argued that while mental phenomena depend on brain states, the subjective quality of experience cannot be derived from physical properties—a position James adopts and develops. From [[Wilhelm Wundt]]'s experimental program, James took the legitimacy of introspection as a scientific method while rejecting Wundt's elementalism. From [[John Stuart Mill]]'s *System of Logic* and *An Examination of Sir William Hamilton's Philosophy*, James inherited the empiricist commitment to experience as the foundation of knowledge, along with Mill's fallibilism about our ability to achieve certainty.
+> James's European sources prove equally important. From [[Hermann Lotze]]'s *Medicinische Psychologie* (1852) and *Mikrokosmos* (1856-64), James absorbed a sophisticated physiological psychology that refused to reduce mind to mechanism. Lotze argued that while mental phenomena depend on brain states, the subjective quality of experience cannot be derived from physical properties—a position James adopts and develops. From [[Wilhelm Wundt]]'s experimental program, James took the legitimacy of introspection as a scientific method while rejecting Wundt's elementalism. From [[John-Stuart-Mill|John Stuart Mill]]'s *System of Logic* and *An Examination of Sir William Hamilton's Philosophy*, James inherited the empiricist commitment to experience as the foundation of knowledge, along with Mill's fallibilism about our ability to achieve certainty.
 
 #### 5. [METHODOLOGY-AND-SOURCES] Navigational Strategy *(Line 89)*
 
@@ -187,30 +187,30 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Antonio Damasio]]
+- [[Antonio-Damasio|Antonio Damasio]]
 - [[Attention Process Training]]
 - [[Biofeedback]]
 - [[British Empiricism]]
 - [[Carl Lange]]
 - [[Carl Wernicke]]
 - [[Charles Renouvier]]
-- [[Charles Sanders Peirce]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Chicago School]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Deployment]]
 - [[Darwin]]
-- [[David Hume]]
+- [[David-Hume|David Hume]]
 - [[Donald Hebb]]
-- [[Edmund Husserl]]
+- [[Edmund-Husserl|Edmund Husserl]]
 - [[Eduard von Hartmann]]
 - [[Educational-Psychology|Educational Psychology]]
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Edward Titchener]]
 - [[Erving Goffman]]
 - [[Evolutionary Psychology]]
-- [[Executive Function]]
-- [[Frederic Bartlett]]
+- [[Executive-Function|Executive Function]]
+- [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Free Will]]
 - [[Functionalism]]
 - [[G. Stanley Hall]]
@@ -229,20 +229,20 @@ extraction_summary:
 - [[John-Dewey|John Dewey]]
 - [[John Dewey - Reflective Thinking]]
 - [[John Locke]]
-- [[John Stuart Mill]]
+- [[John-Stuart-Mill|John Stuart Mill]]
 - [[John Watson]]
 - [[Josiah Royce]]
 - [[Kant]]
 - [[Ludwig Wittgenstein]]
 - [[Martin Heidegger]]
-- [[Maurice Merleau-Ponty]]
+- [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]]
 - [[Metacognition]]
 - [[Metacognition and Self-Regulation]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metaphysical Club]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Paul Broca]]
 - [[Phenomenology]]
@@ -257,7 +257,7 @@ extraction_summary:
 - [[Wilhelm Wundt]]
 - [[Will]]
 - [[Will to Believe]]
-- [[William James]]
+- [[William-James|William James]]
 - [[William James - Habit and Education]]
 - [[Working-Memory|Working Memory]]
 - [[https://plato.stanford.edu/entries/james/]]
@@ -282,7 +282,7 @@ extraction_summary:
 | 12 | [[Josiah Royce]] | — | — | ⏳ The Twelve-Year Genesis: Compositio... | 36 |
 | 13 | [[Wilhelm Wundt]] | — | — | ⏳ The Twelve-Year Genesis: Compositio... | 36 |
 | 14 | [[Metaphysical Club]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
-| 15 | [[Charles Sanders Peirce]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
+| 15 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
 | 16 | [[Oliver Wendell Holmes Jr.]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
 | 17 | [[Pragmatism]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
 | 18 | [[Gestalt Psychology]] | — | — | 🎭 Intellectual Network & Philosophica... | 46 |
@@ -290,7 +290,7 @@ extraction_summary:
 | 20 | [[Process Philosophy]] | — | — | 🎭 Intellectual Network & Philosophica... | 46 |
 | 21 | [[Hermann Lotze]] | — | — | 🎭 Intellectual Network & Philosophica... | 49 |
 | 22 | [[Wilhelm Wundt]] | — | — | 🎭 Intellectual Network & Philosophica... | 49 |
-| 23 | [[John Stuart Mill]] | — | — | 🎭 Intellectual Network & Philosophica... | 49 |
+| 23 | [[John-Stuart-Mill|John Stuart Mill]] | — | — | 🎭 Intellectual Network & Philosophica... | 49 |
 | 24 | [[Charles Renouvier]] | — | — | 🎭 Intellectual Network & Philosophica... | 51 |
 | 25 | [[Hippolyte Taine]] | — | — | 🎭 Intellectual Network & Philosophica... | 51 |
 | 26 | [[Josiah Royce]] | — | — | 🎭 Intellectual Network & Philosophica... | 53 |
@@ -304,16 +304,16 @@ extraction_summary:
 | 34 | [[Hermann von Helmholtz]] | — | — | 📖 Structural Architecture: The 28 Cha... | 81 |
 | 35 | [[James-Lange Theory]] | — | — | 📖 Structural Architecture: The 28 Cha... | 85 |
 | 36 | [[John Locke]] | — | — | 1. Stream of Consciousness | 100 |
-| 37 | [[David Hume]] | — | — | 1. Stream of Consciousness | 100 |
+| 37 | [[David-Hume|David Hume]] | — | — | 1. Stream of Consciousness | 100 |
 | 38 | [[James Mill]] | — | — | 1. Stream of Consciousness | 100 |
-| 39 | [[Edmund Husserl]] | — | — | 1. Stream of Consciousness | 106 |
+| 39 | [[Edmund-Husserl|Edmund Husserl]] | — | — | 1. Stream of Consciousness | 106 |
 | 40 | [[Carl Lange]] | — | — | 2. The James-Lange Theory of Emotion | 110 |
 | 41 | [[Walter Cannon]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
 | 42 | [[Philip Bard]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
-| 43 | [[Antonio Damasio]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
+| 43 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
 | 44 | [[Donald Hebb]] | — | — | 3. The Architecture of Habit | 120 |
 | 45 | [[Habit-Formation|Habit Formation]] | — | — | 3. The Architecture of Habit | 126 |
-| 46 | [[Neural Plasticity]] | — | — | 3. The Architecture of Habit | 126 |
+| 46 | [[Neural-Plasticity|Neural Plasticity]] | — | — | 3. The Architecture of Habit | 126 |
 | 47 | [[Hebbian Learning]] | — | — | 3. The Architecture of Habit | 126 |
 | 48 | [[Wilhelm Wundt]] | — | — | 🧭 Methodological Stance & Philosophic... | 146 |
 | 49 | [[John Watson]] | — | — | 🧭 Methodological Stance & Philosophic... | 148 |
@@ -323,9 +323,9 @@ extraction_summary:
 | 53 | [[George Herbert Mead]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 54 | [[Chicago School]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 55 | [[Evolutionary Psychology]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
-| 56 | [[Frederic Bartlett]] | — | — | 🌐 Contemporary Significance & Endurin... | 172 |
-| 57 | [[Edmund Husserl]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
-| 58 | [[Maurice Merleau-Ponty]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
+| 56 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | 🌐 Contemporary Significance & Endurin... | 172 |
+| 57 | [[Edmund-Husserl|Edmund Husserl]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
+| 58 | [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
 | 59 | [[Martin Heidegger]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
 | 60 | [[Ludwig Wittgenstein]] | — | — | 🌐 Contemporary Significance & Endurin... | 176 |
 | 61 | [[Edward-Thorndike|Edward Thorndike]] | — | — | 🌐 Contemporary Significance & Endurin... | 180 |
@@ -333,22 +333,22 @@ extraction_summary:
 | 63 | [[Biofeedback]] | — | — | 🌐 Contemporary Significance & Endurin... | 182 |
 | 64 | [[Mindfulness-Based Cognitive Therapy]] | — | — | 🌐 Contemporary Significance & Endurin... | 184 |
 | 65 | [[Attention Process Training]] | — | — | 🌐 Contemporary Significance & Endurin... | 184 |
-| 66 | [[Antonio Damasio]] | — | — | 🌐 Contemporary Significance & Endurin... | 186 |
+| 66 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 🌐 Contemporary Significance & Endurin... | 186 |
 | 67 | [[Cognitive-Science|Cognitive Science]] | — | — | 🌐 Contemporary Significance & Endurin... | 189 |
 | 68 | [[Herbert Spencer]] | — | — | 📋 Reading Strategy & Approach | 203 |
 | 69 | [[Gustav Fechner]] | — | — | 📋 Reading Strategy & Approach | 203 |
 | 70 | [[Eduard von Hartmann]] | — | — | 📋 Reading Strategy & Approach | 203 |
 | 71 | [[Kant]] | — | — | 📋 Reading Strategy & Approach | 209 |
 | 72 | [[Helmholtz]] | — | — | 📋 Reading Strategy & Approach | 209 |
-| 73 | [[William James]] | — | — | 📋 Reading Strategy & Approach | 238 |
-| 74 | [[Charles Sanders Peirce]] | — | — | 📋 Reading Strategy & Approach | 238 |
+| 73 | [[William-James|William James]] | — | — | 📋 Reading Strategy & Approach | 238 |
+| 74 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📋 Reading Strategy & Approach | 238 |
 | 75 | [[Pragmatism]] | — | — | 📋 Reading Strategy & Approach | 238 |
 | 76 | [[Metacognition]] | — | — | 📋 Reading Strategy & Approach | 244 |
 | 77 | [[Educational-Psychology|Educational Psychology]] | — | — | 📋 Reading Strategy & Approach | 244 |
 | 78 | [[Critical-Thinking|Critical Thinking]] | — | — | 📋 Reading Strategy & Approach | 244 |
 | 79 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 📋 Reading Strategy & Approach | 246 |
 | 80 | [[Working-Memory|Working Memory]] | — | — | 📋 Reading Strategy & Approach | 248 |
-| 81 | [[Executive Function]] | — | — | 📋 Reading Strategy & Approach | 250 |
+| 81 | [[Executive-Function|Executive Function]] | — | — | 📋 Reading Strategy & Approach | 250 |
 | 82 | [[Social Psychology]] | — | — | 📋 Reading Strategy & Approach | 252 |
 | 83 | [[George Herbert Mead]] | — | — | 📋 Reading Strategy & Approach | 252 |
 | 84 | [[William James - Habit and Education]] | — | — | 🔗 Connections to Your Knowledge Base | 262 |
@@ -383,30 +383,30 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Antonio Damasio]]
+- [[Antonio-Damasio|Antonio Damasio]]
 - [[Attention Process Training]]
 - [[Biofeedback]]
 - [[British Empiricism]]
 - [[Carl Lange]]
 - [[Carl Wernicke]]
 - [[Charles Renouvier]]
-- [[Charles Sanders Peirce]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Chicago School]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Deployment]]
 - [[Darwin]]
-- [[David Hume]]
+- [[David-Hume|David Hume]]
 - [[Donald Hebb]]
-- [[Edmund Husserl]]
+- [[Edmund-Husserl|Edmund Husserl]]
 - [[Eduard von Hartmann]]
 - [[Educational-Psychology|Educational Psychology]]
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Edward Titchener]]
 - [[Erving Goffman]]
 - [[Evolutionary Psychology]]
-- [[Executive Function]]
-- [[Frederic Bartlett]]
+- [[Executive-Function|Executive Function]]
+- [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Free Will]]
 - [[Functionalism]]
 - [[G. Stanley Hall]]
@@ -425,20 +425,20 @@ extraction_summary:
 - [[John-Dewey|John Dewey]]
 - [[John Dewey - Reflective Thinking]]
 - [[John Locke]]
-- [[John Stuart Mill]]
+- [[John-Stuart-Mill|John Stuart Mill]]
 - [[John Watson]]
 - [[Josiah Royce]]
 - [[Kant]]
 - [[Ludwig Wittgenstein]]
 - [[Martin Heidegger]]
-- [[Maurice Merleau-Ponty]]
+- [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]]
 - [[Metacognition]]
 - [[Metacognition and Self-Regulation]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metaphysical Club]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Paul Broca]]
 - [[Phenomenology]]
@@ -453,7 +453,7 @@ extraction_summary:
 - [[Wilhelm Wundt]]
 - [[Will]]
 - [[Will to Believe]]
-- [[William James]]
+- [[William-James|William James]]
 - [[William James - Habit and Education]]
 - [[Working-Memory|Working Memory]]
 - [[https://plato.stanford.edu/entries/james/]]

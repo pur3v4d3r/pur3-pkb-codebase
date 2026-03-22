@@ -103,7 +103,7 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[[Chrysippus]]"
@@ -122,7 +122,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
   - "[[Hellenistic Period]]"
 
@@ -138,7 +138,7 @@ see-also:
   - "[[Cynicism]]"
   - "[[Platonism]]"
   - "[[Peripatetics]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Mindfulness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -185,16 +185,16 @@ link-down:
   - "[[Zeno of Citium]]"
   - "[[Chrysippus]]"
   - "[[Epictetus]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Seneca]]"
-  - "[[Dichotomy of Control]]"
-  - "[[Virtue Ethics]]"
+  - "[[Dichotomy-of-Control]]"
+  - "[[Virtue-Ethics]]"
   - "[[Logos]]"
 link-related:
   - "[[Cynicism]]"
   - "[[Socrates]]"
   - "[[Hellenistic Philosophy]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
 
 expansion-topics:
   - topic: "[[Stoa Poikile]]"
@@ -284,7 +284,7 @@ The Stoic school endured for approximately five centuries, evolving through thre
 
 **The Middle Stoa (c. 150–50 BCE)**: As Stoicism spread from Athens into the broader Mediterranean world, particularly to Rome, its leading figures began to engage more critically with Platonic and Aristotelian philosophy and to moderate some of the more austere doctrines of the Early Stoa. The key figures here are Panaetius of Rhodes (c. 185–109 BCE) and Posidonius of Apamea (c. 135–51 BCE). Panaetius spent considerable time in Rome, becoming a close associate of the statesman Scipio Aemilianus and introducing Stoic philosophy to the Roman elite. He modified the strict Stoic doctrine that only the virtuous sage can be happy, allowing that ordinary moral progress (as opposed to the idealized, perfect wisdom of the sage) had genuine value. This "humanization" of Stoicism made it more palatable to Roman readers and laid the groundwork for the Roman Stoicism that would produce the most widely read Stoic texts.
 
-**The Late Stoa (c. 50 BCE–180 CE)**: The three great names that anyone interested in Stoicism will encounter — [[Seneca]], [[Epictetus]], and [[Marcus Aurelius]] — all belong to the Roman Late Stoa. This phase of Stoicism is characterized by a decisive shift in emphasis: away from the technical logical and physical doctrines of the Early Stoa and toward ethics, practical psychology, and the question of how to live well in the face of adversity. It is no coincidence that all three figures wrote under conditions of personal difficulty or political constraint: Seneca navigated the treacherous court of Nero; Epictetus was born a slave and spent much of his life in chains; Marcus Aurelius wrote his *Meditations* on military campaigns, grappling with the burdens of empire and the deaths of his children. This is a philosophy shaped by real adversity, which is part of what makes it so resonant to modern readers facing their own challenges.
+**The Late Stoa (c. 50 BCE–180 CE)**: The three great names that anyone interested in Stoicism will encounter — [[Seneca]], [[Epictetus]], and [[Marcus-Aurelius]] — all belong to the Roman Late Stoa. This phase of Stoicism is characterized by a decisive shift in emphasis: away from the technical logical and physical doctrines of the Early Stoa and toward ethics, practical psychology, and the question of how to live well in the face of adversity. It is no coincidence that all three figures wrote under conditions of personal difficulty or political constraint: Seneca navigated the treacherous court of Nero; Epictetus was born a slave and spent much of his life in chains; Marcus Aurelius wrote his *Meditations* on military campaigns, grappling with the burdens of empire and the deaths of his children. This is a philosophy shaped by real adversity, which is part of what makes it so resonant to modern readers facing their own challenges.
 
 > [!key-insight]
 > **Why Stoicism Survived**: Of the four great Hellenistic philosophical schools — [[Epicureanism]], Skepticism, [[Cynicism]], and Stoicism — only Stoicism produced a continuous and evolving tradition across five centuries. Its survival owes much to two factors. First, Chrysippus's systematic rigor gave it intellectual staying power against philosophical critics. Second, its practical orientation — its direct engagement with the question of how to live — gave it a relevance that more theoretical philosophies lacked.
@@ -295,7 +295,7 @@ The Stoic school endured for approximately five centuries, evolving through thre
 
 ### Philosophy as a Unified System
 
-One of the most important things to understand about Stoicism is that it is not a collection of inspirational maxims. It is a unified philosophical system with three interdependent branches: [[logic]] (including epistemology and language theory), [[Stoic physics|physics]] (including cosmology, theology, and natural science), and ethics. The ancient Stoics used a memorable image to describe this unity: philosophy is like an orchard, where the fence protecting the garden is logic, the nourishing trees are physics, and the fruit those trees produce is ethics. Or, in another version, philosophy is like an egg: logic is the shell, physics is the white, and ethics is the yolk.
+One of the most important things to understand about Stoicism is that it is not a collection of inspirational maxims. It is a unified philosophical system with three interdependent branches: [[Logic]] (including epistemology and language theory), [[Stoic physics|physics]] (including cosmology, theology, and natural science), and ethics. The ancient Stoics used a memorable image to describe this unity: philosophy is like an orchard, where the fence protecting the garden is logic, the nourishing trees are physics, and the fruit those trees produce is ethics. Or, in another version, philosophy is like an egg: logic is the shell, physics is the white, and ethics is the yolk.
 
 [Stoic-System-Unity:: The Stoic insistence that logic, physics, and ethics form an organic unity — each requiring and supporting the others — distinguishes Stoicism from more fragmentary approaches to wisdom. Stoic ethics is not merely cultural convention but is grounded in claims about the structure of the cosmos (physics) and the capacities of rational minds to track truth (logic). You cannot fully understand the ethics without grasping the physics and logic that underpin it.]
 
@@ -325,7 +325,7 @@ If virtue is the only true good, then what do we make of health, wealth, reputat
 
 [Preferred-Indifferents:: External goods — health, wealth, reputation, pleasure, good relationships — that the Stoics classified as neither good nor bad in the strict moral sense, but as naturally preferred or dispreferred. The sage will pursue preferred indifferents when possible, but will not be distressed if they are lost, because she recognizes that her genuine good — her virtue — is entirely secure and cannot be taken away by external events.]
 
-This is the metaphysical foundation of what Epictetus would develop into the [[Dichotomy of Control]] — perhaps the single most practically powerful idea in all of Stoic philosophy.
+This is the metaphysical foundation of what Epictetus would develop into the [[Dichotomy-of-Control]] — perhaps the single most practically powerful idea in all of Stoic philosophy.
 
 > [!definition]
 > **The Dichotomy of Control** (*eph' hēmin / ouk eph' hēmin*): Epictetus's foundational operating principle, drawn from the *Enchiridion*: "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, reputation, command, and, in one word, whatever are not our own actions." Our internal responses — judgments, desires, intentions — are *eph' hēmin* (up to us). Everything external — our bodies, our reputations, the behavior of others, the weather, death — is *ouk eph' hēmin* (not up to us).
@@ -357,7 +357,7 @@ Virtually none of Zeno's own writings survive. We know his doctrines primarily t
 
 [Chrysippus-Role:: As the third head of the Stoic school and its most prolific writer, Chrysippus systematized and defended Stoic doctrine with extraordinary technical rigor, developing its formal logic, its theory of fate and freedom, its account of the passions, and its responses to Skeptical attacks. The ancient saying "if there had been no Chrysippus, there would have been no Stoa" reflects the consensus that he, more than anyone, gave Stoicism the intellectual substance to survive philosophical scrutiny across the centuries.]
 
-Chrysippus was arguably the most sophisticated logician in the ancient world before the modern period. His propositional logic — his analysis of conditionals, disjunctions, and argument forms — anticipates aspects of Frege's propositional calculus, developed over two millennia later. He also developed the Stoic account of the passions (*pathē*) with great psychological subtlety: passions, in his analysis, are not simply feelings that overcome rational judgment from outside but are themselves *mistaken judgments* — cognitive errors. If I am consumed by grief, it is because I have made the false judgment that the loss I have suffered is a genuine evil. Correct the judgment; correct the passion. This insight — that emotions are constituted by evaluative beliefs and can be modified by changing those beliefs — is the insight that would be rediscovered in the twentieth century by [[Aaron Beck]] and [[Albert Ellis]] in the development of [[Cognitive Behavioral Therapy]].
+Chrysippus was arguably the most sophisticated logician in the ancient world before the modern period. His propositional logic — his analysis of conditionals, disjunctions, and argument forms — anticipates aspects of Frege's propositional calculus, developed over two millennia later. He also developed the Stoic account of the passions (*pathē*) with great psychological subtlety: passions, in his analysis, are not simply feelings that overcome rational judgment from outside but are themselves *mistaken judgments* — cognitive errors. If I am consumed by grief, it is because I have made the false judgment that the loss I have suffered is a genuine evil. Correct the judgment; correct the passion. This insight — that emotions are constituted by evaluative beliefs and can be modified by changing those beliefs — is the insight that would be rediscovered in the twentieth century by [[Aaron Beck]] and [[Albert Ellis]] in the development of [[Cognitive-Behavioral-Therapy]].
 
 ### Seneca the Younger (c. 4 BCE–65 CE)
 
@@ -414,7 +414,7 @@ The *Meditations* is unlike any other philosophical text. It is not an argument,
 
 ## Part 4: The Stoic Toolkit — Practical Exercises and Applications
 
-Stoicism was conceived from the beginning as a practical philosophy — a *way of life*, not merely a set of doctrines. [[Pierre Hadot]], the great historian of ancient philosophy, coined the phrase "spiritual exercises" to describe the Stoic practices: concrete mental and behavioral disciplines that, performed regularly, reshape the practitioner's perceptions, desires, and responses. These are not optional supplements to the theory; they are how the theory gets implemented.
+Stoicism was conceived from the beginning as a practical philosophy — a *way of life*, not merely a set of doctrines. [[Pierre-Hadot]], the great historian of ancient philosophy, coined the phrase "spiritual exercises" to describe the Stoic practices: concrete mental and behavioral disciplines that, performed regularly, reshape the practitioner's perceptions, desires, and responses. These are not optional supplements to the theory; they are how the theory gets implemented.
 
 > [!practice]
 > **Exercise 1: The Morning Review (Premeditatio Malorum)**
@@ -453,7 +453,7 @@ Stoicism was conceived from the beginning as a practical philosophy — a *way o
 
 ## Part 5: Stoicism and the Science of Mind — Modern Psychological Parallels
 
-The modern reader who encounters Stoicism for the first time often has the uncanny experience of recognizing its insights from somewhere else. That "somewhere else" is usually modern psychology — specifically [[Cognitive Behavioral Therapy]] (CBT) and its close relatives, [[Acceptance and Commitment Therapy]] (ACT) and [[Rational Emotive Behavior Therapy]] (REBT).
+The modern reader who encounters Stoicism for the first time often has the uncanny experience of recognizing its insights from somewhere else. That "somewhere else" is usually modern psychology — specifically [[Cognitive-Behavioral-Therapy]] (CBT) and its close relatives, [[Acceptance-and-Commitment-Therapy]] (ACT) and [[Rational Emotive Behavior Therapy]] (REBT).
 
 The connection is not coincidental. [[Albert Ellis]], the psychologist who developed REBT in the 1950s, explicitly acknowledged Epictetus as a foundational influence. He was particularly struck by the line from the *Enchiridion* that reads: "Men are disturbed not by the things which happen, but by the opinions about the things." This is the cognitive model of emotion in a single sentence, written nearly two thousand years before Beck and Ellis articulated it clinically.
 
@@ -474,7 +474,7 @@ The connection to modern psychology is not merely structural — it is genealogi
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy of Control]], [[Virtue Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 The central question that this series is designed to answer is deceptively simple: *How should I live?* Stoicism's answer — *according to reason and virtue, attending carefully to what is and is not in your power* — sounds almost disappointingly plain when stripped of context. What this report has attempted to provide is that context: the historical world that made such an answer feel urgent and radical, the intellectual tradition that gave it philosophical grounding, the remarkable people who lived it in conditions of genuine difficulty, and the concrete practices through which it can be embodied rather than merely understood.

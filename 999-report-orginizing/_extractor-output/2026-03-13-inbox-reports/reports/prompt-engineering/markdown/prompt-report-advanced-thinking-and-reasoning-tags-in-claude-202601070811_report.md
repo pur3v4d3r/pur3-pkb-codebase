@@ -402,7 +402,7 @@ extraction_summary:
 - [[Production Deployment Patterns for Extended Thinking]]
 - [[Production ML Systems]]
 - [[Production Patterns]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quality Assurance]]
 - [[Quality Optimization]]
 - [[Reasoning Framework Integration Patterns]]
@@ -410,7 +410,7 @@ extraction_summary:
 - [[Self-Consistency]]
 - [[System 1 and System 2 Cognition]]
 - [[Thinking Quality Metrics and Benchmarking]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 
 ### All Occurrences
 
@@ -420,7 +420,7 @@ extraction_summary:
 | 2 | [[System 1 and System 2 Cognition]] | — | — | Dual-Process Theoretical Foundation | 692 |
 | 3 | [[Condorcet's Jury Theorem]] | — | — | Theoretical Foundation | 1943 |
 | 4 | [[Advanced Prompt Engineering for Extended Thinking]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2983 |
-| 5 | [[Prompt Engineering]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
+| 5 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
 | 6 | [[Extended Thinking]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
 | 7 | [[Metacognition]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
 | 8 | [[Quality Optimization]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
@@ -435,7 +435,7 @@ extraction_summary:
 | 17 | [[API Design]] | — | — | 3. **[[Production Deployment Patterns... | 3033 |
 | 18 | [[Cost Optimization]] | — | — | 3. **[[Production Deployment Patterns... | 3033 |
 | 19 | [[Reasoning Framework Integration Patterns]] | — | — | 4. **[[Reasoning Framework Integratio... | 3039 |
-| 20 | [[Tree of Thoughts]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
+| 20 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
 | 21 | [[Self-Consistency]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
 | 22 | [[Chain of Verification]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
 | 23 | [[Production Patterns]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
@@ -2618,7 +2618,7 @@ description includes Review
 - [[Production Deployment Patterns for Extended Thinking]]
 - [[Production ML Systems]]
 - [[Production Patterns]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quality Assurance]]
 - [[Quality Optimization]]
 - [[Reasoning Framework Integration Patterns]]
@@ -2626,7 +2626,7 @@ description includes Review
 - [[Self-Consistency]]
 - [[System 1 and System 2 Cognition]]
 - [[Thinking Quality Metrics and Benchmarking]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 
 ---
 

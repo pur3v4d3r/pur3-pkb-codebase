@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Somatic-Markers|Somatic Markers]]"
   - "[[Norbert-Schwarz|Norbert Schwarz]]"
   - "[[Gerald-Clore|Gerald Clore]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Motivated-Reasoning|Motivated Reasoning]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[Antonio-Damasio|Antonio Damasio]]"
+  - "[[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]"
+  - "[[Somatic-Markers|Somatic Markers]]"
+  - "[[Norbert-Schwarz|Norbert Schwarz]]"
+  - "[[Gerald-Clore|Gerald Clore]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +114,7 @@ importance: high
 # Somatic Marker Hypothesis
 
 > [!definition] **Somatic Marker Hypothesis**
-> [[Antonio Damasio]]'s theory that specific bodily states (somatic markers) become associated with particular outcomes through learning and serve as rapid pre-screening signals in decision-making. Damage to vmPFC disrupts somatic marker generation and produces catastrophic decision-making deficits despite intact deliberative capacities.
+> [[Antonio-Damasio]]'s theory that specific bodily states (somatic markers) become associated with particular outcomes through learning and serve as rapid pre-screening signals in decision-making. Damage to vmPFC disrupts somatic marker generation and produces catastrophic decision-making deficits despite intact deliberative capacities.
 
 ## Core Explanation
 
@@ -134,4 +142,8 @@ importance: high
 
 **Related concepts** *(from report-10-the-feeling-reasoner.md)*:
 [[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Emotional-Granularity|Emotional Granularity]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]] * [[Anil-Seth|Anil Seth]]
+
+**Related concepts** *(from report-10-the-feeling-reasoner.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Emotional-Granularity|Emotional Granularity]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]] * [[Anil-Seth|Anil Seth]]
+
 

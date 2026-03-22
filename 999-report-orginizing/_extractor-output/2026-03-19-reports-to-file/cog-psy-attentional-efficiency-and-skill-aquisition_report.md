@@ -336,17 +336,17 @@ extraction_summary:
 - [[Anderson ACT-R Framework]]
 - [[Attention]]
 - [[Attention Control and Executive Function in Complex Skills]]
-- [[Attention Theory]]
+- [[Attention-Theory|Attention Theory]]
 - [[Attentional Resources]]
 - [[Chase and Simon]]
 - [[Chunking Mechanisms in Skill Acquisition]]
-- [[Cognitive Control]]
+- [[Cognitive-Control|Cognitive Control]]
 - [[Cognitive Control Mechanisms]]
 - [[Cognitive Psychology Core Concepts]]
-- [[Cognitive Psychology Foundations]]
+- [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
 - [[Cognitive Psychology MOC]]
-- [[Comprehensive Academic Reference Workflow]]
-- [[Deliberate Practice]]
+- [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Effective connectivity]]
 - [[Ericsson]]
@@ -356,21 +356,21 @@ extraction_summary:
 - [[Expertise in Complex Real-World Domains]]
 - [[Fitts and Posner]]
 - [[Implicit Learning and Unconscious Skill Acquisition]]
-- [[Information Processing Theory]]
-- [[Instance Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
+- [[Instance-Theory|Instance Theory]]
 - [[Learning and Memory]]
 - [[Logan Instance Theory]]
 - [[Memory-Systems|Memory Systems]]
 - [[Neural Efficiency]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[Neural Plasticity Mechanisms in Skill Learning]]
-- [[Power Law of Practice]]
+- [[Power-Law-of-Practice|Power Law of Practice]]
 - [[Procedural-Memory|Procedural Memory]]
 - [[REM sleep]]
-- [[Shiffrin and Schneider Two-Process Theory]]
-- [[Skill Acquisition]]
+- [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
+- [[Skill-Acquisition|Skill Acquisition]]
 - [[Transfer of Training: Near and Far Transfer Phenomena]]
-- [[VADER Academic Report Generator v4.0]]
+- [[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]
 - [[Working-Memory|Working Memory]]
 - [[anterior cingulate cortex]]
 - [[attentional resource]]
@@ -378,7 +378,7 @@ extraction_summary:
 - [[Cognitive-Psychology|cognitive psychology]]
 - [[consistent mapping]]
 - [[declarative knowledge]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[dopamine]]
 - [[electrophysiology]]
 - [[expert performance]]
@@ -389,7 +389,7 @@ extraction_summary:
 - [[memory representation]]
 - [[motor skill learning]]
 - [[prefrontal cortex]]
-- [[procedural knowledge]]
+- [[Procedural-Knowledge|procedural knowledge]]
 - [[production system]]
 - [[production system theories]]
 - [[sleep]]
@@ -399,30 +399,30 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[VADER Academic Report Generator v4.0]] | — | — | SOURCE & ATTRIBUTION | 56 |
-| 2 | [[Comprehensive Academic Reference Workflow]] | — | — | SOURCE & ATTRIBUTION | 57 |
+| 1 | [[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] | — | — | SOURCE & ATTRIBUTION | 56 |
+| 2 | [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] | — | — | SOURCE & ATTRIBUTION | 57 |
 | 3 | [[Attention]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 61 |
 | 4 | [[Working-Memory|Working Memory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 62 |
-| 5 | [[Skill Acquisition]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 63 |
+| 5 | [[Skill-Acquisition|Skill Acquisition]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 63 |
 | 6 | [[Expertise]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 64 |
-| 7 | [[Cognitive Control]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 65 |
+| 7 | [[Cognitive-Control|Cognitive Control]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 65 |
 | 8 | [[Procedural-Memory|Procedural Memory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 66 |
-| 9 | [[Instance Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 67 |
-| 10 | [[Power Law of Practice]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 68 |
+| 9 | [[Instance-Theory|Instance Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 67 |
+| 10 | [[Power-Law-of-Practice|Power Law of Practice]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 68 |
 | 11 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 69 |
-| 12 | [[Neural Plasticity]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 70 |
-| 13 | [[Cognitive Psychology Foundations]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 73 |
-| 14 | [[Information Processing Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 74 |
+| 12 | [[Neural-Plasticity|Neural Plasticity]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 70 |
+| 13 | [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 73 |
+| 14 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 74 |
 | 15 | [[Memory-Systems|Memory Systems]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 75 |
-| 16 | [[Attention Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 76 |
-| 17 | [[Shiffrin and Schneider Two-Process Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 79 |
+| 16 | [[Attention-Theory|Attention Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 76 |
+| 17 | [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 79 |
 | 18 | [[Logan Instance Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 80 |
 | 19 | [[Anderson ACT-R Framework]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 81 |
 | 20 | [[Cognitive Control Mechanisms]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 84 |
 | 21 | [[Learning and Memory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 85 |
 | 22 | [[Cognitive Psychology Core Concepts]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 87 |
 | 23 | [[Cognitive Psychology MOC]] | — | — | ALIASES & LINKING | 102 |
-| 24 | [[Deliberate Practice]] | — | — | ALIASES & LINKING | 104 |
+| 24 | [[Deliberate-Practice|Deliberate Practice]] | — | — | ALIASES & LINKING | 104 |
 | 25 | [[Expertise Development]] | — | — | ALIASES & LINKING | 105 |
 | 26 | [[Attentional Resources]] | — | — | ALIASES & LINKING | 106 |
 | 27 | [[Neural Efficiency]] | — | — | ALIASES & LINKING | 107 |
@@ -439,7 +439,7 @@ extraction_summary:
 | 38 | [[production system]] | — | — | Integration with Production System Ar... | 169 |
 | 39 | [[ACT-R]] | — | — | Integration with Production System Ar... | 169 |
 | 40 | [[declarative knowledge]] | — | — | Integration with Production System Ar... | 169 |
-| 41 | [[procedural knowledge]] | — | — | Integration with Production System Ar... | 169 |
+| 41 | [[Procedural-Knowledge|procedural knowledge]] | — | — | Integration with Production System Ar... | 169 |
 | 42 | [[functional neuroimaging]] | — | — | Neural Mechanisms of Automatization: ... | 189 |
 | 43 | [[electrophysiology]] | — | — | Neural Mechanisms of Automatization: ... | 189 |
 | 44 | [[lesion studies]] | — | — | Neural Mechanisms of Automatization: ... | 189 |
@@ -454,11 +454,11 @@ extraction_summary:
 | 53 | [[REM sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
 | 54 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Distinguishing Automatic from Control... | 260 |
 | 55 | [[attentional resource]] | — | — | Effortlessness and Attentional Demand | 301 |
-| 56 | [[deliberate practice]] | — | — | Extensive Practice: Quantity and Qual... | 375 |
+| 56 | [[Deliberate-Practice|deliberate practice]] | — | — | Extensive Practice: Quantity and Qual... | 375 |
 | 57 | [[sleep]] | — | — | Practice Distribution and Consolidati... | 388 |
 | 58 | [[Fitts and Posner]] | — | — | The Three-Stage Model of Skill Acquis... | 511 |
 | 59 | [[Ericsson]] | — | — | Deliberate Practice and Expertise Dev... | 522 |
-| 60 | [[deliberate practice]] | — | — | Deliberate Practice and Expertise Dev... | 522 |
+| 60 | [[Deliberate-Practice|deliberate practice]] | — | — | Deliberate Practice and Expertise Dev... | 522 |
 | 61 | [[Chase and Simon]] | — | — | Expertise as Integrated Automaticity ... | 535 |
 | 62 | [[Chunking Mechanisms in Skill Acquisition]] | — | — | 1. [[Chunking Mechanisms in Skill Acq... | 609 |
 | 63 | [[Neural Plasticity Mechanisms in Skill Learning]] | — | — | 2. [[Neural Plasticity Mechanisms in ... | 621 |
@@ -862,17 +862,17 @@ production_ready: true
 - [[Anderson ACT-R Framework]]
 - [[Attention]]
 - [[Attention Control and Executive Function in Complex Skills]]
-- [[Attention Theory]]
+- [[Attention-Theory|Attention Theory]]
 - [[Attentional Resources]]
 - [[Chase and Simon]]
 - [[Chunking Mechanisms in Skill Acquisition]]
-- [[Cognitive Control]]
+- [[Cognitive-Control|Cognitive Control]]
 - [[Cognitive Control Mechanisms]]
 - [[Cognitive Psychology Core Concepts]]
-- [[Cognitive Psychology Foundations]]
+- [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
 - [[Cognitive Psychology MOC]]
-- [[Comprehensive Academic Reference Workflow]]
-- [[Deliberate Practice]]
+- [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Effective connectivity]]
 - [[Ericsson]]
@@ -882,21 +882,21 @@ production_ready: true
 - [[Expertise in Complex Real-World Domains]]
 - [[Fitts and Posner]]
 - [[Implicit Learning and Unconscious Skill Acquisition]]
-- [[Information Processing Theory]]
-- [[Instance Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
+- [[Instance-Theory|Instance Theory]]
 - [[Learning and Memory]]
 - [[Logan Instance Theory]]
 - [[Memory-Systems|Memory Systems]]
 - [[Neural Efficiency]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[Neural Plasticity Mechanisms in Skill Learning]]
-- [[Power Law of Practice]]
+- [[Power-Law-of-Practice|Power Law of Practice]]
 - [[Procedural-Memory|Procedural Memory]]
 - [[REM sleep]]
-- [[Shiffrin and Schneider Two-Process Theory]]
-- [[Skill Acquisition]]
+- [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
+- [[Skill-Acquisition|Skill Acquisition]]
 - [[Transfer of Training: Near and Far Transfer Phenomena]]
-- [[VADER Academic Report Generator v4.0]]
+- [[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]
 - [[Working-Memory|Working Memory]]
 - [[anterior cingulate cortex]]
 - [[attentional resource]]
@@ -904,7 +904,7 @@ production_ready: true
 - [[Cognitive-Psychology|cognitive psychology]]
 - [[consistent mapping]]
 - [[declarative knowledge]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[dopamine]]
 - [[electrophysiology]]
 - [[expert performance]]
@@ -915,7 +915,7 @@ production_ready: true
 - [[memory representation]]
 - [[motor skill learning]]
 - [[prefrontal cortex]]
-- [[procedural knowledge]]
+- [[Procedural-Knowledge|procedural knowledge]]
 - [[production system]]
 - [[production system theories]]
 - [[sleep]]

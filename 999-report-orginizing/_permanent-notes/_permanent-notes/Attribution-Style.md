@@ -17,7 +17,7 @@ domain: other
 subdomains:
   - 
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - metacognition-motivation-foundational-report-2026-03-05
@@ -43,6 +43,14 @@ see-also:
   - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
   - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
   - "[[John-Flavell|John Flavell]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
+  - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Ann-Brown|Ann Brown]]"
   - "[[Metacognition|Metacognition]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -150,6 +158,26 @@ importance: high
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+[[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] * [[Growth-Mindset-Theory|Growth Mindset Theory]] * [[John-Flavell|John Flavell]] * [[Ann-Brown|Ann Brown]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Feeling-of-Knowing|Feeling of Knowing]] * [[Ease-of-Learning|Ease of Learning]] * [[Judgment-of-Learning|Judgment of Learning]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+
+
 
 
 

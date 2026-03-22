@@ -163,12 +163,12 @@ extraction_summary:
 #### 5. [WHAT-THIS-DOES] Untitled *(Line 94)*
 
 > [!what-this-does] Untitled
-> Accesses [[YAML Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[YAML-Frontmatter|YAML Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 
 #### 6. [WHAT-THIS-DOES] Untitled *(Line 104)*
 
 > [!what-this-does] Untitled
-> Retrieves metadata from **other notes** via [[Wiki-Links]]. Essential for creating relational connections between notes.
+> Retrieves metadata from **other notes** via [[wiki-links]]. Essential for creating relational connections between notes.
 
 #### 7. [WHAT-THIS-DOES] Untitled *(Line 113)*
 
@@ -276,7 +276,7 @@ extraction_summary:
 #### 17. [WHAT-THIS-DOES] Untitled *(Line 218)*
 
 > [!what-this-does] Untitled
-> The `this.file.tasks` property accesses **all tasks in the current note**, enabling progress calculations without manual counting. Combine with [[Task Management]] plugins like Tasks for even more powerful workflows.
+> The `this.file.tasks` property accesses **all tasks in the current note**, enabling progress calculations without manual counting. Combine with [[Task-Management|Task Management]] plugins like Tasks for even more powerful workflows.
 
 #### 18. [EXAMPLE] Untitled *(Line 225)*
 
@@ -424,7 +424,7 @@ extraction_summary:
 #### 30. [HELPFUL-TIP] Untitled *(Line 372)*
 
 > [!helpful-tip] Untitled
-> Combine with a [[quickadd]] macro that updates `word-count` frontmatter field on save for fully automated progress tracking.
+> Combine with a [[QuickAdd]] macro that updates `word-count` frontmatter field on save for fully automated progress tracking.
 
 #### 31. [EXAMPLE] Untitled *(Line 379)*
 
@@ -529,7 +529,7 @@ extraction_summary:
 > 
 > 2. **Strategic Scoping** — Narrow queries to specific folders or tags rather than querying entire vault when possible. This maintains performance at scale.
 > 
-> 3. **Metadata First** — Establish robust [[YAML Frontmatter]] conventions before implementing complex queries. Consistent metadata architecture is foundational to reliable inline query results.
+> 3. **Metadata First** — Establish robust [[YAML-Frontmatter|YAML Frontmatter]] conventions before implementing complex queries. Consistent metadata architecture is foundational to reliable inline query results.
 
 #### 38. [HELPFUL-TIP] Untitled *(Line 486)*
 
@@ -565,22 +565,22 @@ extraction_summary:
 - [[JavaScript Dataview]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Note]]
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Obsidian Metadata]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Alpha]]
 - [[Projects]]
 - [[Regular Expressions]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Template Integration]]
 - [[Templater]]
 - [[Templater Plugin Integration]]
-- [[Wiki-Links]]
-- [[YAML Frontmatter]]
+- [[wiki-links]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[YAML Frontmatter Architecture]]
 - [[Zettelkasten]]
-- [[quickadd]]
+- [[QuickAdd]]
 
 ### All Occurrences
 
@@ -589,12 +589,12 @@ extraction_summary:
 | 1 | [[Dataview-Plugin|Dataview Plugin]] | — | — | ⚡ Dataview Inline Queries — Implement... | 49 |
 | 2 | [[Dataview Query Language]] | — | — | 🎯 Core Concept | 56 |
 | 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 Core Concept | 56 |
-| 4 | [[YAML Frontmatter]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
+| 4 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
 | 5 | [[Inline Fields]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
-| 6 | [[Note Name]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 99 |
+| 6 | [[Note-Name|Note Name]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 99 |
 | 7 | [[Project Alpha]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 100 |
 | 8 | [[2024-11-20]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 101 |
-| 9 | [[Wiki-Links]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 105 |
+| 9 | [[wiki-links]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 105 |
 | 10 | [[Dataview Functions]] | — | — | 3️⃣ **Query Results** (Vault-Wide Agg... | 114 |
 | 11 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 193 |
 | 12 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 195 |
@@ -604,19 +604,19 @@ extraction_summary:
 | 16 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 17 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 18 | [[Dashboard Design]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
-| 19 | [[Task Management]] | — | — | 📋 Task & Progress Tracking | 219 |
+| 19 | [[Task-Management|Task Management]] | — | — | 📋 Task & Progress Tracking | 219 |
 | 20 | [[Template Integration]] | — | — | 🧩 Template Integration | 294 |
 | 21 | [[Templater]] | — | — | 🧩 Template Integration | 294 |
 | 22 | [[Daily Notes]] | — | — | 🧩 Template Integration | 312 |
 | 23 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🖥️ Dashboard Construction | 341 |
 | 24 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 🔍 Note Review Systems | 350 |
-| 25 | [[quickadd]] | — | — | 📝 Writing Progress Tracking | 373 |
+| 25 | [[QuickAdd]] | — | — | 📝 Writing Progress Tracking | 373 |
 | 26 | [[Zettelkasten]] | — | — | 🔬 Research Organization | 380 |
 | 27 | [[DataviewJS]] | — | — | ⚠️ Common Pitfalls & Solutions | 423 |
 | 28 | [[JavaScript Dataview]] | — | — | 🧪 Advanced: Combining with JavaScript | 430 |
 | 29 | [[Note]] | — | — | 📚 Quick Reference | 458 |
 | 30 | [[Projects]] | — | — | 📚 Quick Reference | 458 |
-| 31 | [[YAML Frontmatter]] | — | — | 🎯 Best Practices Summary | 484 |
+| 31 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🎯 Best Practices Summary | 484 |
 | 32 | [[Note]] | — | — | 🎯 Best Practices Summary | 489 |
 | 33 | [[Template Integration]] | — | — | 🎯 Best Practices Summary | 492 |
 | 34 | [[Dashboard Design]] | — | — | 🎯 Best Practices Summary | 492 |
@@ -631,14 +631,14 @@ extraction_summary:
 | 43 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 570 |
 | 44 | [[Dataview Query Language]] | — | — | 🔗 Related Topics for PKB Expansion | 571 |
 | 45 | [[Obsidian Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 572 |
-| 46 | [[YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 573 |
+| 46 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 573 |
 | 47 | [[Inline Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 574 |
 | 48 | [[Dataview Functions]] | — | — | 🔗 Related Topics for PKB Expansion | 575 |
 | 49 | [[JavaScript Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 576 |
 | 50 | [[Template Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 577 |
 | 51 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 578 |
 | 52 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 579 |
-| 53 | [[Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 580 |
+| 53 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 580 |
 | 54 | [[Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 581 |
 | 55 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 582 |
 | 56 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🔗 Related Topics for PKB Expansion | 583 |
@@ -680,7 +680,7 @@ extraction_summary:
 ### Code Block 3 — `markdown` *(Lines 98-102)*
 
 ```markdown
-`= [[Note Name]].field-name`
+`= [[Note-Name|Note Name]].field-name`
 `= [[Project Alpha]].progress`
 `= [[2024-11-20]].mood`
 ```
@@ -917,14 +917,14 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]] (DQL)
 - [[Obsidian Metadata]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Inline Fields]]
 - [[Dataview Functions]]
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
 - [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content)
 - [[Dashboard Design]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Daily Notes]]
 - [[Zettelkasten]]
 - [[Progressive-Summarization|Progressive Summarization]]
@@ -983,22 +983,22 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[JavaScript Dataview]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Note]]
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Obsidian Metadata]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Alpha]]
 - [[Projects]]
 - [[Regular Expressions]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Template Integration]]
 - [[Templater]]
 - [[Templater Plugin Integration]]
-- [[Wiki-Links]]
-- [[YAML Frontmatter]]
+- [[wiki-links]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[YAML Frontmatter Architecture]]
 - [[Zettelkasten]]
-- [[quickadd]]
+- [[QuickAdd]]
 
 ---
 

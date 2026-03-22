@@ -102,17 +102,17 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Pierre Hadot]]"
+  - "[[Pierre-Hadot]]"
   - "[[Mindfulness]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
 
 series-connections:
   previous: "[[Core Principles - Virtue Wisdom and Self-Control]]"
@@ -124,7 +124,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Contemplative Practice]]"
   - "[[Applied Philosophy]]"
 
@@ -138,8 +138,8 @@ narrower:
 
 see-also:
   - "[[Mindfulness-Based Stress Reduction]]"
-  - "[[Cognitive Behavioral Therapy]]"
-  - "[[Acceptance and Commitment Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
+  - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Journaling as Psychological Practice]]"
   - "[[Buddhist Meditation]]"
 
@@ -194,9 +194,9 @@ link-down:
   - "[[Negative Visualization]]"
 link-related:
   - "[[Mindfulness]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Prosoche]]"
-  - "[[Pierre Hadot]]"
+  - "[[Pierre-Hadot]]"
 
 expansion-topics:
   - topic: "[[Prosoche — Stoic Self-Attention]]"
@@ -234,7 +234,7 @@ importance: high
 # Stoicism in Practice: Daily Exercises and Mindset Shifts
 
 > [!abstract]
-> This report is the practical heart of the series — the translation of Stoic philosophy from doctrine into daily discipline. Reports 01 and 02 established *what* Stoicism teaches; this report shows *how* to live it. Drawing on the systematic frameworks of [[Epictetus]], the personal testimony of [[Marcus Aurelius]] and [[Seneca]], and the modern scholarly recovery of Stoic practice by [[Pierre Hadot]], we examine seven core Stoic practices in depth: the Three Disciplines, *premeditatio malorum*, the evening review, *memento mori*, the View from Above, voluntary discomfort, and Stoic journaling. Each practice receives its historical grounding, psychological rationale, procedural specifics, and a worked example. The report concludes with an integrated practice architecture that gives the reader a concrete path from philosophical understanding to embodied wisdom.
+> This report is the practical heart of the series — the translation of Stoic philosophy from doctrine into daily discipline. Reports 01 and 02 established *what* Stoicism teaches; this report shows *how* to live it. Drawing on the systematic frameworks of [[Epictetus]], the personal testimony of [[Marcus-Aurelius]] and [[Seneca]], and the modern scholarly recovery of Stoic practice by [[Pierre-Hadot]], we examine seven core Stoic practices in depth: the Three Disciplines, *premeditatio malorum*, the evening review, *memento mori*, the View from Above, voluntary discomfort, and Stoic journaling. Each practice receives its historical grounding, psychological rationale, procedural specifics, and a worked example. The report concludes with an integrated practice architecture that gives the reader a concrete path from philosophical understanding to embodied wisdom.
 
 > [!index]
 > **Stoicism Series Navigation**
@@ -245,7 +245,7 @@ importance: high
 > → Next: [[Stoicism and Modern Psychology - Parallels and Insights]]
 >
 > **Series Arc Position**: Foundation
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]] (Report 01) and [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) are strongly recommended before this report, as the practices described here presuppose familiarity with the [[Dichotomy of Control]] and the role of [[Virtue Ethics]] in Stoic life.
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]] (Report 01) and [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) are strongly recommended before this report, as the practices described here presuppose familiarity with the [[Dichotomy-of-Control]] and the role of [[Virtue-Ethics]] in Stoic life.
 
 ---
 
@@ -265,7 +265,7 @@ Modern life intensifies this problem in ways the ancient Stoics could not have f
 > [!research]
 > **The Problem of Emotional Reactivity**: Separate research in emotion regulation — including work by [[James Gross]] at Stanford on the cognitive appraisal model of emotion — has established that emotional responses are not simply reactions to external events but are mediated by cognitive appraisals: the interpretive layer through which we assign meaning to what happens. The Stoic insight that it is not events but our *judgments* about events that disturb us (Epictetus: "Men are disturbed not by the things which happen, but by the opinions about the things") anticipates this empirical model by twenty-three centuries.
 
-There is also a subtler problem worth naming. Many people who encounter Stoicism are drawn to it in a moment of difficulty — after a loss, a failure, or a bout of anxiety. They absorb the philosophy as a kind of consolation. This is legitimate: Stoicism is genuinely consoling. But consolation is not transformation. What the philosophy promises, at its most ambitious, is not a way of feeling better when things go wrong, but a fundamental reorientation of what one takes to be good, important, and worth pursuing — a reorientation that makes equanimity the natural consequence of how one perceives the world, rather than an effort applied against the grain of one's perceptions. That reorientation requires practice. It requires, as [[Pierre Hadot]] argued in his landmark work *Philosophy as a Way of Life*, the kind of daily disciplined exercise that the ancient Stoics called *askēsis* — spiritual and cognitive training.
+There is also a subtler problem worth naming. Many people who encounter Stoicism are drawn to it in a moment of difficulty — after a loss, a failure, or a bout of anxiety. They absorb the philosophy as a kind of consolation. This is legitimate: Stoicism is genuinely consoling. But consolation is not transformation. What the philosophy promises, at its most ambitious, is not a way of feeling better when things go wrong, but a fundamental reorientation of what one takes to be good, important, and worth pursuing — a reorientation that makes equanimity the natural consequence of how one perceives the world, rather than an effort applied against the grain of one's perceptions. That reorientation requires practice. It requires, as [[Pierre-Hadot]] argued in his landmark work *Philosophy as a Way of Life*, the kind of daily disciplined exercise that the ancient Stoics called *askēsis* — spiritual and cognitive training.
 
 This report is a guide to that training.
 
@@ -277,7 +277,7 @@ The Stoics were unusually explicit about the structure of their practical progra
 
 [Premeditatio-Malorum-Definition:: The Stoic morning practice of deliberately anticipating potential difficulties and adversities before the day begins — not for the purpose of inducing anxiety but for the purpose of cognitive preparation: reducing the emotional shock of adversity when it arrives, pre-establishing rational response frameworks, and training the Discipline of Desire by rehearsing genuine equanimity toward anticipated losses.]
 
-The philosophical foundation rests on a premise that the preceding reports have established: the [[Dichotomy of Control]]. There are things "up to us" — our judgments, intentions, desires, and responses — and things "not up to us" — our body's condition, our reputation, our wealth, the behavior of others, and all external events. [[Eudaimonia]] — genuine flourishing — depends entirely on the former category and is unaffected, at the deepest level, by the latter.
+The philosophical foundation rests on a premise that the preceding reports have established: the [[Dichotomy-of-Control]]. There are things "up to us" — our judgments, intentions, desires, and responses — and things "not up to us" — our body's condition, our reputation, our wealth, the behavior of others, and all external events. [[Eudaimonia]] — genuine flourishing — depends entirely on the former category and is unaffected, at the deepest level, by the latter.
 
 [Dichotomy-Of-Control-Practical-Implication:: The practical consequence of the Dichotomy of Control for daily life is not passivity but a radical reorientation of what one takes to be at stake in any given situation. A practitioner who genuinely understands that their wellbeing depends on the quality of their responses rather than the favorability of outcomes will approach adversity with a fundamentally different cognitive posture than one who believes their wellbeing is contingent on external circumstances. This is the philosophical foundation from which all Stoic practices derive their rationale.]
 
@@ -304,7 +304,7 @@ The most systematic account of this practical program comes from [[Epictetus]], 
 > [!definition]
 > **The Three Disciplines of Epictetus**: The systematic practical framework at the heart of Stoic daily life. The Discipline of Desire trains the practitioner to want only what virtue and right reason endorse. The Discipline of Action trains them to act fully and energetically in the world while remaining emotionally detached from outcomes. The Discipline of Assent trains them to examine and qualify the automatic interpretations their minds generate before accepting them as true. Together, these three disciplines constitute a complete practical psychology of rational living.
 
-Beyond Epictetus's systematic framework, the Stoic tradition preserved a rich set of specific practices that give the disciplines concrete daily form. [[Pierre Hadot]] catalogued many of these in his scholarly recovery of Stoic practice, and they include: the morning *premeditatio malorum*, the evening review, *memento mori* contemplation, the View from Above, voluntary discomfort, and written self-examination. Each will receive detailed treatment in the sections that follow.
+Beyond Epictetus's systematic framework, the Stoic tradition preserved a rich set of specific practices that give the disciplines concrete daily form. [[Pierre-Hadot]] catalogued many of these in his scholarly recovery of Stoic practice, and they include: the morning *premeditatio malorum*, the evening review, *memento mori* contemplation, the View from Above, voluntary discomfort, and written self-examination. Each will receive detailed treatment in the sections that follow.
 
 What unites all of these practices beneath their surface diversity is a single cognitive operation: the deliberate, disciplined redirection of attention from the automatic and external to the chosen and internal. They are, in the deepest sense, exercises in [[Prohairesis]] — repeated training of the faculty of rational choice until that faculty becomes, over time, the governing center of the practitioner's psychological life rather than a minor voice drowned out by impulse, habit, and social pressure.
 
@@ -380,13 +380,13 @@ The Stoic practice of written self-examination — exemplified by Marcus Aureliu
 The mechanism Pennebaker identifies is directly analogous to what the Stoics called the Discipline of Assent: the act of writing forces the translation of diffuse emotional experience into structured linguistic propositions, which subjects those experiences to the same kind of rational examination that Epictetus prescribed. Writing about a distressing event is cognitively impossible without, to some degree, interpreting it — assigning it meaning, contextualizing it, connecting it to one's broader understanding of the world. That interpretive work is the Stoic exercise in practice.
 
 > [!connection-ideas]
-> **Stoic Practice and [[Cognitive Behavioral Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
+> **Stoic Practice and [[Cognitive-Behavioral-Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
 
 ### The Research on Voluntary Discomfort
 
 The Stoic practice of voluntary exposure to hardship — wearing light clothing in cold weather, skipping meals, sleeping on a hard surface — might seem merely ascetic. The psychological research suggests a more sophisticated rationale.
 
-[Voluntary-Discomfort-Rationale:: The Stoic practice of *meditatio paupertas* — periodic voluntary adoption of reduced circumstances — serves three distinct functions: (1) building self-efficacy through mastery experiences, demonstrating to the practitioner that they can function well in conditions below their accustomed standard; (2) resetting hedonic adaptation by temporarily depriving the practitioner of accustomed pleasures, which reliably increases the pleasure experienced when comfort is restored; and (3) calibrating the distinction between genuine needs and mere preferences, which is the experiential foundation of the [[Preferred Indifferents]] framework.] Studies on [[self-efficacy]] (Albert Bandura's concept of belief in one's own capacity to perform required behaviors) consistently show that successfully navigating challenging situations increases one's sense of competence and capacity for future challenges. Voluntary discomfort is, in this light, a form of *mastery experience* — deliberately engineering successful encounters with difficulty to build the psychological foundation for genuine resilience.
+[Voluntary-Discomfort-Rationale:: The Stoic practice of *meditatio paupertas* — periodic voluntary adoption of reduced circumstances — serves three distinct functions: (1) building self-efficacy through mastery experiences, demonstrating to the practitioner that they can function well in conditions below their accustomed standard; (2) resetting hedonic adaptation by temporarily depriving the practitioner of accustomed pleasures, which reliably increases the pleasure experienced when comfort is restored; and (3) calibrating the distinction between genuine needs and mere preferences, which is the experiential foundation of the [[Preferred Indifferents]] framework.] Studies on [[Self-Efficacy]] (Albert Bandura's concept of belief in one's own capacity to perform required behaviors) consistently show that successfully navigating challenging situations increases one's sense of competence and capacity for future challenges. Voluntary discomfort is, in this light, a form of *mastery experience* — deliberately engineering successful encounters with difficulty to build the psychological foundation for genuine resilience.
 
 There is also a hedonic mechanism: voluntary temporary deprivation of comfort reliably increases the pleasure experienced when the comfort is restored. This is the mechanism underlying the Stoic practice of periodic fasting — Seneca and Epictetus both recommended it — and it produces a direct counteraction to hedonic adaptation, the psychological process whereby pleasures diminish with habituation.
 
@@ -540,13 +540,13 @@ The following practices constitute the core Stoic practical curriculum. They are
 > [!practice]
 > **Practice 7: Stoic Journaling**
 >
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 >
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 >
 > **Duration**: 10–20 minutes for full effectiveness.
 >
-> **Stoic Grounding**: Marcus Aurelius's *Meditations* (the supreme example of the practice); Seneca's *Letters* (an epistolary form of philosophical self-examination); [[Pierre Hadot]]'s scholarship on written spiritual exercises.
+> **Stoic Grounding**: Marcus Aurelius's *Meditations* (the supreme example of the practice); Seneca's *Letters* (an epistolary form of philosophical self-examination); [[Pierre-Hadot]]'s scholarship on written spiritual exercises.
 >
 > **Psychological Mechanism**: Pennebaker's expressive writing research; forces translation of diffuse emotional experience into structured linguistic propositions subject to rational examination; creates a longitudinal record that reveals patterns invisible in single sessions; trains the Discipline of Assent through systematic retrospective analysis.
 >
@@ -578,7 +578,7 @@ Even the most intellectually committed practitioner encounters specific recurrin
 
 > [!warning]
 > **Obstacle 4: The Practice-Without-Philosophy Problem**
-> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy of Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
+> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy-of-Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
 >
 > **The Stoic Response**: Regular reading in the primary texts — not just motivational excerpts but sustained engagement with Epictetus's *Discourses*, Seneca's *Letters*, and Marcus Aurelius's *Meditations* — keeps the philosophical framework alive and prevents the practices from devolving into mere behavioral techniques. Hadot's point is crucial: the practices are "spiritual exercises" precisely because they are embedded in a coherent philosophical understanding of what constitutes the good life. Strip out the philosophy and you have techniques; keep the philosophy and you have a way of life.
 
@@ -725,7 +725,7 @@ What Stoicism offers, through its practices, is not a transformation that arrive
 >
 > **Prokopōn** (*προκόπων*): "One who is making progress." The Stoic term for the serious student of philosophy who is advancing toward virtue but has not yet achieved the near-impossible standard of the *sophos* (sage). The honest self-description of every serious Stoic practitioner, including Marcus Aurelius.
 >
-> **Prosoche** (*προσοχή*): Self-attention; self-watchfulness. The continuous, alert monitoring of one's own mental activity that [[Pierre Hadot]] identifies as the fundamental cognitive attitude of Stoic practice — catching distortions and irrational judgments before they harden into emotional reactions.
+> **Prosoche** (*προσοχή*): Self-attention; self-watchfulness. The continuous, alert monitoring of one's own mental activity that [[Pierre-Hadot]] identifies as the fundamental cognitive attitude of Stoic practice — catching distortions and irrational judgments before they harden into emotional reactions.
 >
 > **Reserve Clause**: The mental qualification appended to intentions and plans — the inner acknowledgment that external outcomes involve factors beyond one's control, expressed as "if nothing prevents me" or "fate permitting." Prevents attachment to outcomes from generating distress when plans encounter reality.
 >

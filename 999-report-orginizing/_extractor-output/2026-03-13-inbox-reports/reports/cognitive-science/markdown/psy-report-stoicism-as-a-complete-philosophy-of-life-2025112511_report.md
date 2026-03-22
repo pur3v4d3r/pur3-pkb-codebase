@@ -156,7 +156,7 @@ extraction_summary:
 #### 3. [ABSTRACT] 📜 **Overview: Stoicism as a Complete Philosophy of Life *(Line 140)*
 
 > [!abstract] 📜 **Overview: Stoicism as a Complete Philosophy of Life
-> [[Stoicism]] represents far more than an abstract philosophical system—it constitutes a comprehensive cognitive framework and applied methodology for developing psychological resilience, [[Eudaimonia|flourishing]], and rational self-mastery through systematic mental training. Born in [[Ancient Athens|Athens]] around 300 BCE and refined over eight centuries of practice, Stoicism offers a thoroughly integrated approach to understanding reality (**physics**), thinking correctly (**logic**), and living excellently (**ethics**). What distinguishes Stoicism from purely academic philosophy is its fundamentally practical orientation: the Stoics conceived of philosophy not as theoretical speculation but as *askēsis*—disciplined training that transforms one's entire mode of being. This ancient system has demonstrated remarkable endurance, directly inspiring modern [[Cognitive-Behavioral Therapy]], influencing countless historical figures from [[Marcus Aurelius]] to [[George Washington]], and experiencing a powerful contemporary revival as practitioners recognize its profound utility for navigating uncertainty, managing emotional turbulence, and cultivating [[Antifragility|antifragile]] character in an increasingly complex world.
+> [[Stoicism]] represents far more than an abstract philosophical system—it constitutes a comprehensive cognitive framework and applied methodology for developing psychological resilience, [[Eudaimonia|flourishing]], and rational self-mastery through systematic mental training. Born in [[Ancient Athens|Athens]] around 300 BCE and refined over eight centuries of practice, Stoicism offers a thoroughly integrated approach to understanding reality (**physics**), thinking correctly (**logic**), and living excellently (**ethics**). What distinguishes Stoicism from purely academic philosophy is its fundamentally practical orientation: the Stoics conceived of philosophy not as theoretical speculation but as *askēsis*—disciplined training that transforms one's entire mode of being. This ancient system has demonstrated remarkable endurance, directly inspiring modern [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], influencing countless historical figures from [[Marcus-Aurelius|Marcus Aurelius]] to [[George Washington]], and experiencing a powerful contemporary revival as practitioners recognize its profound utility for navigating uncertainty, managing emotional turbulence, and cultivating [[Antifragility|antifragile]] character in an increasingly complex world.
 
 #### 4. [KEY-CLAIM] 🎯 **The Tripartite Structure of Stoic Philosophy *(Line 149)*
 
@@ -292,7 +292,7 @@ extraction_summary:
 - [[Cleanthes of Assos]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Courage]]
 - [[Crates of Thebes]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -308,7 +308,7 @@ extraction_summary:
 - [[Letters from a Stoic]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditations]]
 - [[Mental-Models|Mental Models]]
 - [[Metacognition]]
@@ -335,7 +335,7 @@ extraction_summary:
 - [[Systems Thinking]]
 - [[Temperance]]
 - [[View from Above]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Zeno of Citium]]
 
@@ -345,18 +345,18 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism as a Complete Philosophy of Life]] | — | — | Stoicism as a Complete Philosophy of ... | 39 |
 | 2 | [[Stoicism]] | — | — | Claude Thinking: | 106 |
-| 3 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 106 |
+| 3 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 106 |
 | 4 | [[Epictetus]] | — | — | Claude Thinking: | 106 |
 | 5 | [[Seneca]] | — | — | Claude Thinking: | 106 |
 | 6 | [[Zeno of Citium]] | — | — | Claude Thinking: | 106 |
-| 7 | [[Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 107 |
+| 7 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 107 |
 | 8 | [[Metacognition]] | — | — | Claude Thinking: | 107 |
 | 9 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Claude Thinking: | 107 |
 | 10 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Claude Thinking: | 108 |
 | 11 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 108 |
 | 12 | [[Negative Visualization]] | — | — | Claude Thinking: | 108 |
 | 13 | [[Eudaimonia]] | — | — | Claude Thinking: | 109 |
-| 14 | [[Virtue Ethics]] | — | — | Claude Thinking: | 109 |
+| 14 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Claude Thinking: | 109 |
 | 15 | [[Apatheia]] | — | — | Claude Thinking: | 109 |
 | 16 | [[Ataraxia]] | — | — | Claude Thinking: | 109 |
 | 17 | [[Meditations]] | — | — | Claude Thinking: | 110 |
@@ -371,13 +371,13 @@ extraction_summary:
 | 26 | [[Stoicism]] | — | — | Claude Thinking: | 141 |
 | 27 | [[Eudaimonia]] | flourishing | — | Claude Thinking: | 141 |
 | 28 | [[Ancient Athens]] | Athens | — | Claude Thinking: | 141 |
-| 29 | [[Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 141 |
-| 30 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 141 |
+| 29 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 141 |
+| 30 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 141 |
 | 31 | [[George Washington]] | — | — | Claude Thinking: | 141 |
 | 32 | [[Antifragility]] | antifragile | — | Claude Thinking: | 141 |
 | 33 | [[Zeno of Citium]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
 | 34 | [[Epictetus]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
-| 35 | [[Marcus Aurelius]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
+| 35 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
 | 36 | [[Socrates]] | — | — | 🏛️ Historical Foundations and Intelle... | 147 |
 | 37 | [[Crates of Thebes]] | — | — | 🏛️ Historical Foundations and Intelle... | 147 |
 | 38 | [[Polemo]] | — | — | 🏛️ Historical Foundations and Intelle... | 147 |
@@ -390,11 +390,11 @@ extraction_summary:
 | 45 | [[Seneca the Younger]] | — | — | 🏛️ Historical Foundations and Intelle... | 156 |
 | 46 | [[Epictetus]] | — | — | 🏛️ Historical Foundations and Intelle... | 156 |
 | 47 | [[Arrian]] | — | — | 🏛️ Historical Foundations and Intelle... | 156 |
-| 48 | [[Marcus Aurelius]] | — | — | 🏛️ Historical Foundations and Intelle... | 156 |
+| 48 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical Foundations and Intelle... | 156 |
 | 49 | [[Logos]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 165 |
 | 50 | [[2025-11-25]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 168 |
 | 51 | [[Systems Thinking]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 172 |
-| 52 | [[Cognitive-Behavioral Therapy]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 179 |
+| 52 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 179 |
 | 53 | [[2025-11-25]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 179 |
 | 54 | [[2025-11-25]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 181 |
 | 55 | [[Eudaimonia]] | happiness | — | 🎯 Stoic Ethics: The Art of Living Exc... | 195 |
@@ -411,7 +411,7 @@ extraction_summary:
 | 66 | [[Prosochē]] | — | — | Prosochē: Mindful Attention to the Pr... | 247 |
 | 67 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Premeditatio Malorum: The Premeditati... | 273 |
 | 68 | [[View from Above]] | — | — | The View from Above: Cosmic Perspective | 311 |
-| 69 | [[Cognitive-Behavioral Therapy]] | — | — | 🧬 The Connection Between Ancient Stoi... | 333 |
+| 69 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🧬 The Connection Between Ancient Stoi... | 333 |
 | 70 | [[Albert Ellis]] | — | — | The Birth of Cognitive Therapy from S... | 337 |
 | 71 | [[Aaron Beck]] | — | — | The Birth of Cognitive Therapy from S... | 347 |
 | 72 | [[Antifragility]] | antifragile | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
@@ -419,13 +419,13 @@ extraction_summary:
 | 74 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 75 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 76 | [[Prosochē]] | — | — | Phase 1: Foundational Understanding (... | 386 |
-| 77 | [[Virtue Ethics]] | — | — | Phase 1: Foundational Understanding (... | 386 |
+| 77 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 78 | [[Eudaimonia]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 79 | [[Locus-of-Control|Locus of Control]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 80 | [[Systems Thinking]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 81 | [[Metacognition]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
-| 82 | [[Cognitive-Behavioral Therapy]] | — | — | 🔗 Related Topics for PKB Expansion | 439 |
-| 83 | [[Virtue Ethics]] | — | — | 🔗 Related Topics for PKB Expansion | 444 |
+| 82 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🔗 Related Topics for PKB Expansion | 439 |
+| 83 | [[Virtue-Ethics|Virtue Ethics]] | — | — | 🔗 Related Topics for PKB Expansion | 444 |
 | 84 | [[Eudaimonia]] | — | — | 🔗 Related Topics for PKB Expansion | 444 |
 | 85 | [[Moral Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 447 |
 | 86 | [[Character Development]] | — | — | 🔗 Related Topics for PKB Expansion | 447 |
@@ -505,7 +505,7 @@ extraction_summary:
 - [[Cleanthes of Assos]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Courage]]
 - [[Crates of Thebes]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -521,7 +521,7 @@ extraction_summary:
 - [[Letters from a Stoic]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditations]]
 - [[Mental-Models|Mental Models]]
 - [[Metacognition]]
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Systems Thinking]]
 - [[Temperance]]
 - [[View from Above]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Zeno of Citium]]
 

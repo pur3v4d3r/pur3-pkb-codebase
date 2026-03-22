@@ -132,8 +132,8 @@ prerequisites:
 related:
   - "[[Inductive-Reasoning|Inductive Reasoning]]"
   - "[[Abductive-Reasoning|Abductive Reasoning]]"
-  - "[[Critical Thinking in Education]]"
-  - "[[Metacognition & Lifelong Learning]]"
+  - "[[Critical-Thinking-in-Education|Critical Thinking in Education]]"
+  - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
@@ -154,7 +154,7 @@ see-also:
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Confirmation Bias & Epistemic Calibration]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-  - "[[Metacognition & Critical Thinking]]"
+  - "[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]"
 
 contrasts-with:
   - "[[Probabilistic Reasoning]]"
@@ -164,7 +164,7 @@ contrasts-with:
 applied-in:
   - "[[Mathematics Education]]"
   - "[[Legal Reasoning]]"
-  - "[[Scientific Method]]"
+  - "[[Scientific-Method|Scientific Method]]"
   - "[[Formal Argumentation]]"
   - "[[Computer Science Education]]"
 
@@ -175,7 +175,7 @@ builds-on:
   - "[[Inductive-Reasoning|Inductive Reasoning]]"
   - "[[Abductive-Reasoning|Abductive Reasoning]]"
   - "[[Schema-Theory|Schema Theory]]"
-  - "[[Critical Thinking in Education]]"
+  - "[[Critical-Thinking-in-Education|Critical Thinking in Education]]"
 
 enables:
   - "[[Mathematical Proof and Formal Verification]]"
@@ -249,7 +249,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
 generation-date: "2026-03-10"
 ---
 
@@ -261,13 +261,13 @@ generation-date: "2026-03-10"
 
 Consider the opening move of Euclid's *Elements*, written around 300 BCE. From five spare postulates — including the famous fifth, about parallel lines — Euclid derived an entire geometry of the physical world. Every subsequent theorem was guaranteed to be true if the postulates were true, because each step followed from the last with logical necessity. There was no guessing, no extrapolation from examples, no hedged probability. Either the conclusion followed from the premises, or the argument was invalid. This is the power and the promise of [[Deductive-Reasoning|deductive reasoning]]: it is the one form of human inference that, when executed correctly, transmits truth with certainty.
 
-That guarantee has made deductive reasoning the gold standard of intellectual rigor across two and a half millennia of Western thought — from Aristotle's syllogistics to the predicate calculus of [[Gottlob Frege]], from Euclid's proofs to the formal verification of software systems. It has shaped the architecture of mathematics, the adversarial logic of courtrooms, the hypothetico-deductive method of empirical science, and the argumentative structure of philosophical dialogue. To understand deductive reasoning is to understand the backbone of structured inquiry.
+That guarantee has made deductive reasoning the gold standard of intellectual rigor across two and a half millennia of Western thought — from Aristotle's syllogistics to the predicate calculus of [[Gottlob-Frege|Gottlob Frege]], from Euclid's proofs to the formal verification of software systems. It has shaped the architecture of mathematics, the adversarial logic of courtrooms, the hypothetico-deductive method of empirical science, and the argumentative structure of philosophical dialogue. To understand deductive reasoning is to understand the backbone of structured inquiry.
 
-Yet there is a deep and disquieting irony at the center of this story. Despite the antiquity and cultural prestige of deductive logic, human beings are remarkably poor natural deductive reasoners. Decades of cognitive-psychological research — beginning with [[Peter Wason]]'s landmark 1966 studies — have established that ordinary adults, including well-educated ones, systematically fail tasks that require formal deductive inference. They accept invalid arguments whose conclusions feel true, and reject valid arguments whose conclusions feel false. They confuse logical necessity with empirical plausibility. They reason well when familiar content activates useful schemas, and poorly when the same logical structure is presented in abstract form.
+Yet there is a deep and disquieting irony at the center of this story. Despite the antiquity and cultural prestige of deductive logic, human beings are remarkably poor natural deductive reasoners. Decades of cognitive-psychological research — beginning with [[Peter-Wason|Peter Wason]]'s landmark 1966 studies — have established that ordinary adults, including well-educated ones, systematically fail tasks that require formal deductive inference. They accept invalid arguments whose conclusions feel true, and reject valid arguments whose conclusions feel false. They confuse logical necessity with empirical plausibility. They reason well when familiar content activates useful schemas, and poorly when the same logical structure is presented in abstract form.
 
 This tension — between deduction's theoretical centrality and human deductive incompetence — is not merely an academic curiosity. It has profound implications for education. If deductive skill is neither automatic nor universal, it must be taught. And if it must be taught, educators need a rich understanding of what deductive reasoning actually is, how it operates cognitively, why it fails, and how instructional environments can cultivate it.
 
-This report addresses all of these questions. It establishes the conceptual foundations of deductive reasoning — carefully distinguishing it from [[Inductive-Reasoning|inductive reasoning]] and [[Abductive-Reasoning|abductive reasoning]], and tracing its intellectual genealogy from [[Aristotle]] to modern cognitive science. It maps the major theoretical frameworks that explain how humans actually perform deductive tasks, including [[Dual-Process-Theory|Dual-Process Theory]], [[Mental Models Theory]], and schema-based accounts. It reveals the cognitive mechanisms that govern deductive success and failure, including the role of [[Working-Memory|working memory]], [[Belief-Bias|belief bias]], and content effects. And it examines the pedagogical implications — how deductive skill can be cultivated in mathematics education, science education, and disciplinary reasoning more broadly.
+This report addresses all of these questions. It establishes the conceptual foundations of deductive reasoning — carefully distinguishing it from [[Inductive-Reasoning|inductive reasoning]] and [[Abductive-Reasoning|abductive reasoning]], and tracing its intellectual genealogy from [[Aristotle]] to modern cognitive science. It maps the major theoretical frameworks that explain how humans actually perform deductive tasks, including [[Dual-Process-Theory|Dual-Process Theory]], [[Mental-Models-Theory|Mental Models Theory]], and schema-based accounts. It reveals the cognitive mechanisms that govern deductive success and failure, including the role of [[Working-Memory|working memory]], [[Belief-Bias|belief bias]], and content effects. And it examines the pedagogical implications — how deductive skill can be cultivated in mathematics education, science education, and disciplinary reasoning more broadly.
 
 The report is structured for readers who bring intelligence and curiosity to the topic but no assumed expertise in formal logic or cognitive psychology. Technical vocabulary is introduced precisely before being deployed, and illustrative examples anchor abstract principles throughout.
 
@@ -318,9 +318,9 @@ The fact that large numbers of educated adults accept these invalid forms as val
 
 The intellectual history of deductive logic follows a roughly continuous arc from Aristotle through to contemporary cognitive science and formal computer science. [[Aristotle]]'s syllogistic dominated for nearly two millennia — it was the central subject of medieval *disputatio*, the logical skeleton of scholastic theology, and a required component of European university education through the nineteenth century. The Aristotelian tradition treated deductive reasoning as the paradigm of scientific knowledge: certain, universal, and demonstrative.
 
-The tradition was transformed in the seventeenth century by [[Gottfried Wilhelm Leibniz]], who envisioned a *calculus ratiocinator* — a symbolic calculus for reasoning — and by the nineteenth-century algebraists of logic, especially [[George Boole]] and [[Augustus de Morgan]], who translated logic into algebraic form. But the pivotal revolution came with [[Gottlob Frege]]'s *Begriffsschrift* (1879), which introduced quantificational logic — the logic of "all" and "some" with complex relational structures — and provided the formal foundation for modern [[predicate calculus]]. Frege's logic, extended and refined by [[Bertrand Russell]] and [[Alfred-North-Whitehead|Alfred North Whitehead]] in *Principia Mathematica* (1910–13), established the framework within which all subsequent formal systems have been developed.
+The tradition was transformed in the seventeenth century by [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]], who envisioned a *calculus ratiocinator* — a symbolic calculus for reasoning — and by the nineteenth-century algebraists of logic, especially [[George-Boole|George Boole]] and [[Augustus-de-Morgan|Augustus de Morgan]], who translated logic into algebraic form. But the pivotal revolution came with [[Gottlob-Frege|Gottlob Frege]]'s *Begriffsschrift* (1879), which introduced quantificational logic — the logic of "all" and "some" with complex relational structures — and provided the formal foundation for modern [[predicate-calculus|predicate calculus]]. Frege's logic, extended and refined by [[Bertrand-Russell|Bertrand Russell]] and [[Alfred-North-Whitehead|Alfred North Whitehead]] in *Principia Mathematica* (1910–13), established the framework within which all subsequent formal systems have been developed.
 
-The twentieth century added a new dimension: empirical inquiry into how human beings actually reason. The cognitive turn in psychology — marked by works like George Miller's "The Magical Number Seven" (1956) and the birth of [[Cognitive-Science|cognitive science]] — made deductive reasoning a psychological phenomenon to be studied, not merely a normative ideal to be taught. The research tradition inaugurated by [[Peter Wason]] in the 1960s revealed a striking gap between the logical norms and human performance, generating decades of productive debate about the nature of human rationality.
+The twentieth century added a new dimension: empirical inquiry into how human beings actually reason. The cognitive turn in psychology — marked by works like George Miller's "The Magical Number Seven" (1956) and the birth of [[Cognitive-Science|cognitive science]] — made deductive reasoning a psychological phenomenon to be studied, not merely a normative ideal to be taught. The research tradition inaugurated by [[Peter-Wason|Peter Wason]] in the 1960s revealed a striking gap between the logical norms and human performance, generating decades of productive debate about the nature of human rationality.
 
 > [!key-claim]
 > The intellectual history of deduction reveals a fundamental tension that persists into the present: deductive reasoning is simultaneously the most rigorous form of inference available to humans and among the most cognitively demanding. Understanding this tension — and not simply celebrating deduction's formal power — is the starting point for any educationally useful theory of deductive skill development.
@@ -336,11 +336,11 @@ The twentieth century added a new dimension: empirical inquiry into how human be
 
 ### The Central Puzzle: Why Do Intelligent People Reason Poorly?
 
-The modern cognitive science of deductive reasoning began with a puzzle. If humans are rational beings with the capacity for logical thought, why do they perform so poorly on formal deductive tasks? The [[Wason Selection Task]], developed by [[Peter Wason]] in 1966, crystallized this puzzle in a form that has generated more research than any other paradigm in the psychology of reasoning. The task presents four cards showing symbols on each face and asks participants to select the cards that must be turned over to test a conditional rule. The correct answer (requiring modus tollens) is selected by fewer than 10% of participants in the abstract version, yet the same logical structure with thematically rich content (e.g., "If a person is drinking beer, they must be over 18") elicits near-perfect performance. This dramatic content effect demands theoretical explanation.
+The modern cognitive science of deductive reasoning began with a puzzle. If humans are rational beings with the capacity for logical thought, why do they perform so poorly on formal deductive tasks? The [[Wason Selection Task]], developed by [[Peter-Wason|Peter Wason]] in 1966, crystallized this puzzle in a form that has generated more research than any other paradigm in the psychology of reasoning. The task presents four cards showing symbols on each face and asks participants to select the cards that must be turned over to test a conditional rule. The correct answer (requiring modus tollens) is selected by fewer than 10% of participants in the abstract version, yet the same logical structure with thematically rich content (e.g., "If a person is drinking beer, they must be over 18") elicits near-perfect performance. This dramatic content effect demands theoretical explanation.
 
 ### Mental Models Theory
 
-The most influential theoretical framework for understanding deductive reasoning is [[Philip Johnson-Laird]]'s [[Mental Models Theory]], developed through the 1980s and refined through decades of subsequent collaboration with [[Ruth Byrne]] and others. Johnson-Laird's central claim is that deductive reasoners do not manipulate abstract logical symbols according to formal rules. Instead, they construct internal *mental models* — representational structures that capture the states of affairs described by the premises — and then inspect these models to determine what must be true in all of them.
+The most influential theoretical framework for understanding deductive reasoning is [[Philip-Johnson-Laird|Philip Johnson-Laird]]'s [[Mental-Models-Theory|Mental Models Theory]], developed through the 1980s and refined through decades of subsequent collaboration with [[Ruth Byrne]] and others. Johnson-Laird's central claim is that deductive reasoners do not manipulate abstract logical symbols according to formal rules. Instead, they construct internal *mental models* — representational structures that capture the states of affairs described by the premises — and then inspect these models to determine what must be true in all of them.
 
 The theory predicts that difficulty in deductive reasoning is a function of the number of mental models required to represent the premises. Inferences that require only a single model are easy; inferences that require multiple models are hard, because working memory must simultaneously maintain and check them. This prediction has been extensively confirmed: the syllogistic figures that require multiple models consistently produce lower accuracy and longer response times than single-model problems.
 
@@ -351,7 +351,7 @@ The content effects documented in the [[Wason Selection Task]] and elsewhere rec
 
 ### Formal Rule Theory
 
-The major competing framework is [[Formal Rule Theory]], developed most systematically by [[Lance Rips]] in *The Psychology of Proof* (1994) and by [[Martin Braine]] and David O'Brien in their theory of natural deduction. The formal rule theorists argue that humans do possess something like an internal natural deduction system — a set of syntactic inference rules that operate on the logical form of propositions, not their content. Modus ponens is psychologically natural because it corresponds to a basic inference rule in the internal system; modus tollens is harder because it requires a more complex series of rule applications.
+The major competing framework is [[Formal Rule Theory]], developed most systematically by [[Lance-Rips|Lance Rips]] in *The Psychology of Proof* (1994) and by [[Martin-Braine|Martin Braine]] and David O'Brien in their theory of natural deduction. The formal rule theorists argue that humans do possess something like an internal natural deduction system — a set of syntactic inference rules that operate on the logical form of propositions, not their content. Modus ponens is psychologically natural because it corresponds to a basic inference rule in the internal system; modus tollens is harder because it requires a more complex series of rule applications.
 
 Formal rule theory can explain the ease of modus ponens and the difficulty of multi-step inferences, but it struggles with content effects. If deduction operates on formal structure, why should thematic richness matter? Proponents of the formal rule approach invoke *comprehension mechanisms* to explain content effects — the idea that familiar content facilitates translation of premises into their logical form — but critics regard this as an unprincipled escape hatch.
 
@@ -360,7 +360,7 @@ Formal rule theory can explain the ease of modus ponens and the difficulty of mu
 
 ### Dual-Process Theory
 
-A third framework, broadly influential across the psychology of reasoning, is [[Dual-Process-Theory|Dual-Process Theory]], associated especially with [[Jonathan Evans]], [[Keith Stanovich]], and [[Daniel Kahneman]]. The framework distinguishes two types of cognitive processing: System 1 (fast, automatic, associative, intuitive, low-effort) and System 2 (slow, deliberate, rule-governed, effortful). Formal deductive reasoning, on this account, is a System 2 achievement — it requires suppressing System 1's rapid, heuristic responses in favour of careful, stepwise analysis.
+A third framework, broadly influential across the psychology of reasoning, is [[Dual-Process-Theory|Dual-Process Theory]], associated especially with [[Jonathan-Evans|Jonathan Evans]], [[Keith-Stanovich|Keith Stanovich]], and [[Daniel-Kahneman|Daniel Kahneman]]. The framework distinguishes two types of cognitive processing: System 1 (fast, automatic, associative, intuitive, low-effort) and System 2 (slow, deliberate, rule-governed, effortful). Formal deductive reasoning, on this account, is a System 2 achievement — it requires suppressing System 1's rapid, heuristic responses in favour of careful, stepwise analysis.
 
 > [!definition] **System 1 / System 2 (Evans & Stanovich)**
 > System 1 processes are fast, automatic, and largely unconscious — they produce rapid intuitive responses by pattern-matching current input to stored associations. System 2 processes are slow, effortful, and consciously controlled — they enable sequential, rule-governed reasoning including formal deductive inference. In deductive tasks, System 1 often generates plausible but logically invalid responses based on belief or semantic content; valid deductive reasoning typically requires System 2 to override these responses.
@@ -419,7 +419,7 @@ Beyond belief bias, the content of a deductive problem exerts powerful effects o
 
 ### Development of Deductive Skill Across the Lifespan
 
-[[Jean Piaget]]'s stage theory proposed that formal operational reasoning — the capacity to reason about abstract hypotheticals and logical relationships — emerges in adolescence (roughly 11–15 years). Subsequent research has both confirmed and complicated this picture. Preschool children demonstrate rudimentary modus ponens in narrative contexts; middle-school students handle simple categorical syllogisms competently; but the ability to handle multi-model syllogisms, to suppress belief bias reliably, and to execute modus tollens in abstract form continues developing through late adolescence and is never fully mastered by many adults.
+[[Jean-Piaget|Jean Piaget]]'s stage theory proposed that formal operational reasoning — the capacity to reason about abstract hypotheticals and logical relationships — emerges in adolescence (roughly 11–15 years). Subsequent research has both confirmed and complicated this picture. Preschool children demonstrate rudimentary modus ponens in narrative contexts; middle-school students handle simple categorical syllogisms competently; but the ability to handle multi-model syllogisms, to suppress belief bias reliably, and to execute modus tollens in abstract form continues developing through late adolescence and is never fully mastered by many adults.
 
 Individual differences in deductive performance are substantial and correlate with measures of [[Working-Memory-Capacity|working memory capacity]], [[fluid intelligence]] (Gf), and what Stanovich calls "[[Actively-Open-Minded-Thinking|actively open-minded thinking]]" — a disposition to seek evidence that might disconfirm one's current beliefs. This dispositional dimension is educationally important: it suggests that cultivating the right epistemic attitudes, not merely teaching formal rules, is central to deductive skill development.
 
@@ -448,7 +448,7 @@ Research consistently shows that students struggle with proof for reasons that c
 
 The [[Hypothetico-Deductive-Method|hypothetico-deductive method]] is the logical core of empirical science: a scientist formulates a hypothesis (H), deduces what observable results should follow if H is true (O), performs the experiment, and interprets the presence or absence of O accordingly. The deductive component — deriving observational predictions from theoretical hypotheses — is a form of modus ponens; the falsifying inference when predictions fail — "not-O, therefore not-H" — is a form of modus tollens.
 
-Understanding this structure is essential for science literacy. Students who lack a firm grasp of [[Modus-Tollens|modus tollens]] cannot fully appreciate why a single disconfirming observation has the theoretical power to refute a universal hypothesis, while confirming observations can only lend probabilistic support. This is the logical basis of [[Karl Popper]]'s [[falsificationism]], and its mastery distinguishes students who understand the epistemological structure of science from those who merely know scientific facts.
+Understanding this structure is essential for science literacy. Students who lack a firm grasp of [[Modus-Tollens|modus tollens]] cannot fully appreciate why a single disconfirming observation has the theoretical power to refute a universal hypothesis, while confirming observations can only lend probabilistic support. This is the logical basis of [[Karl-Popper|Karl Popper]]'s [[Falsificationism]], and its mastery distinguishes students who understand the epistemological structure of science from those who merely know scientific facts.
 
 > [!example] **Inquiry-Based Learning as Deductive Scaffolding**
 > Structured inquiry activities that require students to form explicit predictions before observing results scaffold the hypothetico-deductive method in a pedagogically accessible way. Explicitly asking students to state: "If my hypothesis is true, then I expect to observe X" — and then comparing observation to prediction — builds the conditional reasoning structure that underpins scientific inference. Activities that require students to explain *why* a disconfirming result refutes the hypothesis (rather than merely confirming that the experiment "didn't work") directly train modus tollens in a meaningful context.
@@ -457,7 +457,7 @@ Understanding this structure is essential for science literacy. Students who lac
 
 [[Legal reasoning]] provides a high-stakes domain for deductive inference. Judicial syllogisms — in which a legal rule (major premise), a finding of fact (minor premise), and a legal conclusion are related — represent the formal deductive structure of legal adjudication. Students of law who understand this structure reason more clearly about the distinction between disputes about facts (minor premise) and disputes about legal interpretation (major premise) — a distinction that is central to legal practice.
 
-More broadly, the capacity for [[argumentation]] — the ability to construct, evaluate, and respond to structured arguments — depends fundamentally on deductive competence. Students who cannot identify the premises and logical structure of an argument cannot assess whether the conclusion follows, regardless of whether they agree with it. This is a prerequisite for intellectual autonomy in civic discourse.
+More broadly, the capacity for [[Argumentation]] — the ability to construct, evaluate, and respond to structured arguments — depends fundamentally on deductive competence. Students who cannot identify the premises and logical structure of an argument cannot assess whether the conclusion follows, regardless of whether they agree with it. This is a prerequisite for intellectual autonomy in civic discourse.
 
 ### Common Misconceptions and Pedagogical Pitfalls
 
@@ -493,7 +493,7 @@ Standing back from the details of Phase II through Phase V, a coherent picture e
 
 The educational upshot is that neither pure formalism nor pure content-immersion is sufficient. Teaching logic in a contentless vacuum produces formal competence that does not readily deploy in real situations. Teaching reasoning only through familiar content does not generalise beyond it. The most powerful instructional approaches do both: they use content-rich entry points — permission schemas, causal structures, mathematical proof templates — and then explicitly abstract the logical structure, naming it, practicing it in varied contexts, and building what might be called *structural fluency*: the capacity to recognise and manipulate the logical form of an argument independently of its subject matter.
 
-This structural fluency is precisely what [[metacognition]] makes possible. [[Metacognition & Critical Thinking]] — the ability to monitor and regulate one's own reasoning processes — provides the executive control that allows a reasoner to detect when System 1 is delivering a belief-congruent but logically invalid response, pause, and engage System 2 for careful analysis. Deductive competence without metacognitive oversight is brittle; it works when content is familiar and motivation is high, but breaks down under cognitive load or when conclusions are emotionally salient.
+This structural fluency is precisely what [[Metacognition]] makes possible. [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]] — the ability to monitor and regulate one's own reasoning processes — provides the executive control that allows a reasoner to detect when System 1 is delivering a belief-congruent but logically invalid response, pause, and engage System 2 for careful analysis. Deductive competence without metacognitive oversight is brittle; it works when content is familiar and motivation is high, but breaks down under cognitive load or when conclusions are emotionally salient.
 
 ### The "So What?": What Deductive Reasoning Gives the Learner
 
@@ -514,11 +514,11 @@ Three significant open questions remain for both the science and pedagogy of ded
 >
 > - **[[Abductive-Reasoning|Abductive Reasoning]]** — Abductive reasoning (inference to the best explanation) is what drives hypothesis formation; deductive reasoning is what drives hypothesis testing. Together they constitute the core logical machinery of empirical inquiry. Understanding how they differ — and how they cooperate in scientific reasoning — is essential for science education and for any account of integrated reasoning competence.
 >
-> - **[[Metacognition & Critical Thinking]]** — The dual-process account of deductive failure places metacognitive skill at the center of deductive competence. Belief bias — the most practically significant deductive error — is overcome by metacognitive monitoring of one's own reasoning process: detecting the System 1 "feels true" signal and overriding it with System 2 evaluation. The metacognition reports in the PKB provide the mechanisms that explain *how* deductive competence is sustained under conditions of motivated reasoning and belief challenge.
+> - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — The dual-process account of deductive failure places metacognitive skill at the center of deductive competence. Belief bias — the most practically significant deductive error — is overcome by metacognitive monitoring of one's own reasoning process: detecting the System 1 "feels true" signal and overriding it with System 2 evaluation. The metacognition reports in the PKB provide the mechanisms that explain *how* deductive competence is sustained under conditions of motivated reasoning and belief challenge.
 >
 > - **[[Schema-Theory|Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
 >
-> - **[[Critical Thinking in Education]]** — Deductive reasoning is one of the core competencies subsumed under the broader concept of critical thinking, but it is frequently conflated with critical thinking in general. The current report provides the precise technical specification of what deductive skill involves; the Critical Thinking in Education report provides the broader pedagogical framework within which deductive instruction should be situated.
+> - **[[Critical-Thinking-in-Education|Critical Thinking in Education]]** — Deductive reasoning is one of the core competencies subsumed under the broader concept of critical thinking, but it is frequently conflated with critical thinking in general. The current report provides the precise technical specification of what deductive skill involves; the Critical Thinking in Education report provides the broader pedagogical framework within which deductive instruction should be situated.
 >
 > - **[[Fallibilism]]** — Fallibilism — the philosophical view that all beliefs are in principle revisable — sits in productive tension with the certainty-preserving nature of valid deductive inference. A fallibilist can embrace deduction as locally certainty-preserving while maintaining that the premises themselves are revisable. Understanding this tension is essential for an epistemically mature relationship to deductive reasoning: neither dismissing its rigour nor overstating its foundations.
 >
@@ -621,4 +621,4 @@ Three significant open questions remain for both the science and pedagogy of ded
 
 ---
 
-*Generated by [[Foundational Report Generator v1.0]] · [[Deductive-Reasoning|Deductive Reasoning]] · March 10, 2026*
+*Generated by [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] · [[Deductive-Reasoning|Deductive Reasoning]] · March 10, 2026*

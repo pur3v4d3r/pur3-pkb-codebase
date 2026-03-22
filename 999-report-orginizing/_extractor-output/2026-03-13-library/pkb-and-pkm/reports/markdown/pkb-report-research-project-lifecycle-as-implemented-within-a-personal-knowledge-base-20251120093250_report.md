@@ -198,7 +198,7 @@ extraction_summary:
 > 
 > If atomicity creates the "nodes" of your exobrain, linking creates the "edges" or *synapses*. The system's intelligence does not reside *in* the notes themselves, but in the *connections between them*. A Personal Knowledge Base without links is a morgue of dead ideas; a Personal Knowledge Base *with* links is a living, growing ecosystem.
 > 
-> This is the execution of Vannevar Bush's "associative trails." [^1] In a modern Personal Knowledge Base, this is achieved with `[[Wiki-Links]]`. As you process a new idea (e.g., on "telephoto compression"), you explicitly ask, "What does this relate to that I already know?" You might link it to `[[Focal Length]]`, `[[Perspective]]`, and `[[Compositional Storytelling]]`.
+> This is the execution of Vannevar Bush's "associative trails." [^1] In a modern Personal Knowledge Base, this is achieved with `[[wiki-links]]`. As you process a new idea (e.g., on "telephoto compression"), you explicitly ask, "What does this relate to that I already know?" You might link it to `[[Focal Length]]`, `[[Perspective]]`, and `[[Compositional Storytelling]]`.
 > 
 > Crucially, these tools provide **bidirectional links** (or "backlinks"). When you look at your `[[Perspective]]` note, you *see* a list of all the *other* notes that link *to* it. This is a mechanism for *serendipity*. You might be reviewing your `[[Perspective]]` note and discover that, six months ago, you linked to it from a note on "Cubist painting." This sparks a new, emergent idea that you would *never* have had in a linear, folder-based system. The Personal Knowledge Base *surfaces* connections you have forgotten, acting as a "serendipity engine."
 
@@ -343,14 +343,14 @@ extraction_summary:
 - [[Photography MOC]]
 - [[Pre-visualization]]
 - [[The Philosophy of the Tripod]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Zettelkasten]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Wiki-Links]] | — | — | 3.1 ⚛️FOUNDATIONAL PRINCIPLES: THE "WHY" | 130 |
+| 1 | [[wiki-links]] | — | — | 3.1 ⚛️FOUNDATIONAL PRINCIPLES: THE "WHY" | 130 |
 | 2 | [[Focal Length]] | — | — | 3.1 ⚛️FOUNDATIONAL PRINCIPLES: THE "WHY" | 130 |
 | 3 | [[Perspective]] | — | — | 3.1 ⚛️FOUNDATIONAL PRINCIPLES: THE "WHY" | 130 |
 | 4 | [[Compositional Storytelling]] | — | — | 3.1 ⚛️FOUNDATIONAL PRINCIPLES: THE "WHY" | 130 |
@@ -439,7 +439,7 @@ graph TD
 - [[Photography MOC]]
 - [[Pre-visualization]]
 - [[The Philosophy of the Tripod]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Zettelkasten]]
 
 ---

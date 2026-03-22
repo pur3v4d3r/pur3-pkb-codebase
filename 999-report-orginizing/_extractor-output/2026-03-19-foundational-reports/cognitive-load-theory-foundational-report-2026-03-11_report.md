@@ -207,7 +207,7 @@ extraction_summary:
 #### 13. [KEY-CLAIM] The Modality Effect and Dual-Channel Processing *(Line 358)*
 
 > [!key-claim] The Modality Effect and Dual-Channel Processing
-> The [[Modality-Effect|Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual-Coding-Theory|Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+> The [[Modality-Effect|Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan-Paivio|Alan Paivio]]'s [[Dual-Coding-Theory|Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]].
 
 #### 14. [ASK-YOURSELF-THIS] Mapping the Effects *(Line 361)*
 
@@ -227,7 +227,7 @@ extraction_summary:
 #### 17. [INSIGHT] The Relationship Between CLT and CTML *(Line 380)*
 
 > [!insight] The Relationship Between CLT and CTML
-> CLT and CTML share a theoretical core but differ in focus and empirical strategy. CLT is the broader theoretical framework with roots in problem-solving research and strong claims about the architecture of learning; CTML is specifically focused on the design of multimedia presentations and has generated its own empirical program. The modality effect, split-attention effect, and redundancy effect appear in both literatures but are sometimes operationalized differently. Understanding the relationship helps avoid conflating the two: CLT does not require multimedia; CTML does not address all CLT phenomena (it says relatively little about worked examples, expertise reversal, or element interactivity). A dedicated report on [[Multimedia Learning]] would map this relationship in detail.
+> CLT and CTML share a theoretical core but differ in focus and empirical strategy. CLT is the broader theoretical framework with roots in problem-solving research and strong claims about the architecture of learning; CTML is specifically focused on the design of multimedia presentations and has generated its own empirical program. The modality effect, split-attention effect, and redundancy effect appear in both literatures but are sometimes operationalized differently. Understanding the relationship helps avoid conflating the two: CLT does not require multimedia; CTML does not address all CLT phenomena (it says relatively little about worked examples, expertise reversal, or element interactivity). A dedicated report on [[Multimedia-Learning|Multimedia Learning]] would map this relationship in detail.
 
 #### 18. [REFLECTION] Engaging the Landscape *(Line 383)*
 
@@ -244,12 +244,12 @@ extraction_summary:
 #### 20. [KEY-CLAIM] The Worked Example Mechanism Explained *(Line 403)*
 
 > [!key-claim] The Worked Example Mechanism Explained
-> [[Worked Examples]] reduce extraneous load by eliminating the goal-directed search process (means-ends analysis) that conventional problem solving imposes. When students solve problems by means-ends analysis — identify the goal, find the difference between current and goal state, apply operators to reduce that difference — they must hold the current state, the goal state, and potential operators simultaneously in working memory. This overhead consumes resources that could be devoted to noticing the structural features of the solution, which is precisely what schema formation requires. Worked examples give the student the solution directly, freeing working memory to process the solution's structure, identify the principles governing each step, and construct the schema that will make subsequent problem solving efficient.
+> [[Worked-Examples|Worked Examples]] reduce extraneous load by eliminating the goal-directed search process (means-ends analysis) that conventional problem solving imposes. When students solve problems by means-ends analysis — identify the goal, find the difference between current and goal state, apply operators to reduce that difference — they must hold the current state, the goal state, and potential operators simultaneously in working memory. This overhead consumes resources that could be devoted to noticing the structural features of the solution, which is precisely what schema formation requires. Worked examples give the student the solution directly, freeing working memory to process the solution's structure, identify the principles governing each step, and construct the schema that will make subsequent problem solving efficient.
 
 #### 21. [BEST-PRACTICE] Designing Fading Sequences *(Line 410)*
 
 > [!best-practice] Designing Fading Sequences
-> CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive Instruction]] systems that implement dynamic fading represent the state of the art.
+> CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive-Instruction|Adaptive Instruction]] systems that implement dynamic fading represent the state of the art.
 
 #### 22. [THOUGHT-EXPERIMENT] The Navigation Manual Problem *(Line 419)*
 
@@ -304,9 +304,9 @@ extraction_summary:
 > 
 > - **[[Schema-Theory|Schema Theory]]** — Schema theory is the foundation upon which CLT builds. Where the Schema Theory node establishes the nature and function of schemas as knowledge structures, CLT operationalizes schema formation and automation as the goal of instruction, and explains the working memory constraints that make schema acquisition effortful and design-sensitive. These two nodes constitute a unit: CLT without schema theory lacks its explanatory target; schema theory without CLT lacks an account of the cognitive costs and conditions of schema formation.
 > 
-> - **[[Metacognition & Motivation]]** and the **Metacognition Cluster** — CLT's account of when and how cognitive resources are directed has deep implications for metacognitive regulation. A learner who can accurately assess their own cognitive load and select study strategies accordingly — moving from worked examples to problem solving at the right moment, recognizing when extraneous load is obstructing progress — is exercising metacognitive skill. The metacognition cluster establishes that this kind of self-monitoring is teachable; CLT suggests what specifically it should be monitoring.
+> - **[[Metacognition-&-Motivation|Metacognition & Motivation]]** and the **Metacognition Cluster** — CLT's account of when and how cognitive resources are directed has deep implications for metacognitive regulation. A learner who can accurately assess their own cognitive load and select study strategies accordingly — moving from worked examples to problem solving at the right moment, recognizing when extraneous load is obstructing progress — is exercising metacognitive skill. The metacognition cluster establishes that this kind of self-monitoring is teachable; CLT suggests what specifically it should be monitoring.
 > 
-> - **[[Feedback Design for Autonomy and Mastery]]** — CLT provides the cognitive architecture account that feedback design research needs but rarely makes explicit. Effective feedback operates, in CLT terms, by reducing the gap between current and target schemas rather than simply informing the learner of error. Formative feedback that targets the specific schema gaps a learner has — rather than generic encouragement or error notification — is well aligned with CLT principles. The expertise reversal effect has direct implications for feedback design: as learners develop, feedback should become less directive and more schema-activating.
+> - **[[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]** — CLT provides the cognitive architecture account that feedback design research needs but rarely makes explicit. Effective feedback operates, in CLT terms, by reducing the gap between current and target schemas rather than simply informing the learner of error. Formative feedback that targets the specific schema gaps a learner has — rather than generic encouragement or error notification — is well aligned with CLT principles. The expertise reversal effect has direct implications for feedback design: as learners develop, feedback should become less directive and more schema-activating.
 > 
 > - **[[Achievement-Goal-Theory|Achievement Goal Theory]]** and **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — CLT's account of productive struggle connects to the motivational literature in important ways. The expertise reversal effect implies that presenting advanced learners with fully worked examples may inadvertently undermine mastery orientation by providing the answer before the learner has the opportunity to apply their developing schemas. The growth mindset literature's emphasis on learning-through-challenge can be grounded in CLT: the appropriate challenge level is one where intrinsic load is high but extraneous load is minimized — maximum useful difficulty, minimum useless difficulty.
 > 
@@ -469,42 +469,42 @@ extraction_summary:
 ### Unique Targets
 
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Adaptive Instruction]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
 - [[Adaptive Instruction and Expertise Reversal]]
-- [[Alan Paivio]]
+- [[Alan-Paivio|Alan Paivio]]
 - [[Automaticity]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Theory of Multimedia Learning]]
+- [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Completion Problem Effect]]
 - [[Daniel-Schwartz|Daniel Schwartz]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Element-Interactivity|Element Interactivity]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]
-- [[Fred Paas]]
+- [[Fred-Paas|Fred Paas]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Jeroen van Merriënboer]]
-- [[John Sweller]]
+- [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]]
+- [[John-Sweller|John Sweller]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Measurement and Operationalization of Cognitive Load]]
 - [[Metacognition]]
-- [[Metacognition & Motivation]]
-- [[Miller's Magical Number Seven]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]]
 - [[Modality-Effect|Modality Effect]]
-- [[Multimedia Learning]]
+- [[Multimedia-Learning|Multimedia Learning]]
 - [[Multimedia Learning Design — Evidence and Principles]]
 - [[Redundancy-Effect|Redundancy Effect]]
-- [[Richard Mayer]]
+- [[Richard-Mayer|Richard Mayer]]
 - [[Schema-Theory|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Sergei Kalyuga]]
+- [[Sergei-Kalyuga|Sergei Kalyuga]]
 - [[Split-Attention-Effect|Split-Attention Effect]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Worked-Example-Effect|Worked Example Effect]]
-- [[Worked Examples]]
+- [[Worked-Examples|Worked Examples]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Architecture — Multi-Component Models]]
 - [[e-Learning Design]]
@@ -515,65 +515,65 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Context Setting | 268 |
 | 2 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 3 | [[John Sweller]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 3 | [[John-Sweller|John Sweller]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 4 | [[Working-Memory|Working Memory]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 5 | [[Working-Memory|Working Memory]] | — | — | Phase I: Orientation & Context Setting | 272 |
 | 6 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Phase I: Orientation & Context Setting | 272 |
 | 7 | [[Schema-Theory|Schema Theory]] | schemas | — | Phase I: Orientation & Context Setting | 272 |
 | 8 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 274 |
-| 9 | [[Multimedia Learning]] | — | — | Phase I: Orientation & Context Setting | 274 |
+| 9 | [[Multimedia-Learning|Multimedia Learning]] | — | — | Phase I: Orientation & Context Setting | 274 |
 | 10 | [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]] | — | — | Phase I: Orientation & Context Setting | 274 |
-| 11 | [[Cognitive Theory of Multimedia Learning]] | — | — | Phase I: Orientation & Context Setting | 274 |
+| 11 | [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] | — | — | Phase I: Orientation & Context Setting | 274 |
 | 12 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 276 |
 | 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Cognitive Architecture Premise | 289 |
 | 14 | [[Working-Memory|Working Memory]] | — | — | The Cognitive Architecture Premise | 289 |
 | 15 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Cognitive Architecture Premise | 289 |
 | 16 | [[Schema-Theory|Schema Theory]] | schemas | — | The Cognitive Architecture Premise | 289 |
 | 17 | [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] | — | — | The Cognitive Architecture Premise | 292 |
-| 18 | [[Miller's Magical Number Seven]] | Miller's (1956) | — | The Cognitive Architecture Premise | 302 |
+| 18 | [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]] | Miller's (1956) | — | The Cognitive Architecture Premise | 302 |
 | 19 | [[Working-Memory|Working Memory]] | — | — | The Cognitive Architecture Premise | 305 |
 | 20 | [[Schema-Theory|Schema Theory]] | schema | — | The Cognitive Architecture Premise | 305 |
 | 21 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Cognitive Architecture Premise | 305 |
-| 22 | [[John Sweller]] | — | — | The Three-Component Taxonomy | 309 |
-| 23 | [[Fred Paas]] | — | — | The Three-Component Taxonomy | 309 |
-| 24 | [[Jeroen van Merriënboer]] | — | — | The Three-Component Taxonomy | 309 |
+| 22 | [[John-Sweller|John Sweller]] | — | — | The Three-Component Taxonomy | 309 |
+| 23 | [[Fred-Paas|Fred Paas]] | — | — | The Three-Component Taxonomy | 309 |
+| 24 | [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] | — | — | The Three-Component Taxonomy | 309 |
 | 25 | [[Element-Interactivity|Element Interactivity]] | — | — | The Three-Component Taxonomy | 312 |
 | 26 | [[Element-Interactivity|Element Interactivity]] | — | — | Element Interactivity as the Core Mec... | 325 |
-| 27 | [[Jeroen van Merriënboer]] | — | — | Element Interactivity as the Core Mec... | 327 |
+| 27 | [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] | — | — | Element Interactivity as the Core Mec... | 327 |
 | 28 | [[Schema-Theory|Schema Theory]] | — | — | Element Interactivity as the Core Mec... | 332 |
 | 29 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Foundational Experimental Program | 340 |
-| 30 | [[John Sweller]] | — | — | The Foundational Experimental Program | 340 |
-| 31 | [[Worked Examples]] | Worked examples | — | The Foundational Experimental Program | 340 |
+| 30 | [[John-Sweller|John Sweller]] | — | — | The Foundational Experimental Program | 340 |
+| 31 | [[Worked-Examples|Worked Examples]] | Worked examples | — | The Foundational Experimental Program | 340 |
 | 32 | [[Worked-Example-Effect|Worked Example Effect]] | — | — | The Foundational Experimental Program | 342 |
 | 33 | [[Split-Attention-Effect|Split-Attention Effect]] | — | — | The Major Instructional Effects | 351 |
 | 34 | [[Redundancy-Effect|Redundancy Effect]] | — | — | The Major Instructional Effects | 356 |
 | 35 | [[Modality-Effect|Modality Effect]] | — | — | The Major Instructional Effects | 359 |
-| 36 | [[Alan Paivio]] | — | — | The Major Instructional Effects | 359 |
+| 36 | [[Alan-Paivio|Alan Paivio]] | — | — | The Major Instructional Effects | 359 |
 | 37 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | The Major Instructional Effects | 359 |
-| 38 | [[Cognitive Theory of Multimedia Learning]] | — | — | The Major Instructional Effects | 359 |
+| 38 | [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] | — | — | The Major Instructional Effects | 359 |
 | 39 | [[Expertise-Reversal-Effect|Expertise Reversal Effect]] | — | — | The Major Instructional Effects | 364 |
-| 40 | [[Sergei Kalyuga]] | — | — | The Major Instructional Effects | 364 |
-| 41 | [[Richard Mayer]] | — | — | Theoretical Extensions: From Evolutio... | 378 |
-| 42 | [[Cognitive Theory of Multimedia Learning]] | — | — | Theoretical Extensions: From Evolutio... | 378 |
-| 43 | [[Multimedia Learning]] | — | — | Theoretical Extensions: From Evolutio... | 381 |
+| 40 | [[Sergei-Kalyuga|Sergei Kalyuga]] | — | — | The Major Instructional Effects | 364 |
+| 41 | [[Richard-Mayer|Richard Mayer]] | — | — | Theoretical Extensions: From Evolutio... | 378 |
+| 42 | [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] | — | — | Theoretical Extensions: From Evolutio... | 378 |
+| 43 | [[Multimedia-Learning|Multimedia Learning]] | — | — | Theoretical Extensions: From Evolutio... | 381 |
 | 44 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Schema Formation Cycle | 394 |
 | 45 | [[Working-Memory|Working Memory]] | — | — | The Schema Formation Cycle | 394 |
 | 46 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Schema Formation Cycle | 394 |
 | 47 | [[Schema-Theory|Schema Theory]] | schemas | — | The Schema Formation Cycle | 394 |
 | 48 | [[Automaticity]] | — | — | The Schema Formation Cycle | 401 |
 | 49 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Schema Formation Cycle | 401 |
-| 50 | [[Worked Examples]] | — | — | The Schema Formation Cycle | 404 |
+| 50 | [[Worked-Examples|Worked Examples]] | — | — | The Schema Formation Cycle | 404 |
 | 51 | [[Completion Problem Effect]] | Completion problems | — | The Fading Principle and Completion P... | 408 |
-| 52 | [[Adaptive Instruction]] | — | — | The Fading Principle and Completion P... | 411 |
+| 52 | [[Adaptive-Instruction|Adaptive Instruction]] | — | — | The Fading Principle and Completion P... | 411 |
 | 53 | [[Modality-Effect|Modality Effect]] | — | — | The Modality Effect: Working Memory a... | 424 |
 | 54 | [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] | — | — | The Modality Effect: Working Memory a... | 424 |
 | 55 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | CLT-Based Instructional Design in Pra... | 442 |
-| 56 | [[Jeroen van Merriënboer]] | — | — | CLT-Based Instructional Design in Pra... | 449 |
+| 56 | [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] | — | — | CLT-Based Instructional Design in Pra... | 449 |
 | 57 | [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]] | — | — | CLT-Based Instructional Design in Pra... | 449 |
 | 58 | [[e-Learning Design]] | — | — | CLT-Based Instructional Design in Pra... | 451 |
-| 59 | [[Multimedia Learning]] | — | — | CLT-Based Instructional Design in Pra... | 451 |
+| 59 | [[Multimedia-Learning|Multimedia Learning]] | — | — | CLT-Based Instructional Design in Pra... | 451 |
 | 60 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Measurement Challenge | 455 |
-| 61 | [[Fred Paas]] | — | — | The Measurement Challenge | 455 |
+| 61 | [[Fred-Paas|Fred Paas]] | — | — | The Measurement Challenge | 455 |
 | 62 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Limitations and Open Questions | 464 |
 | 63 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Limitations and Open Questions | 469 |
 | 64 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | Limitations and Open Questions | 469 |
@@ -586,8 +586,8 @@ extraction_summary:
 | 71 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Unresolved Questions | 501 |
 | 72 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 506 |
 | 73 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 508 |
-| 74 | [[Metacognition & Motivation]] | — | — | Unresolved Questions | 510 |
-| 75 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 512 |
+| 74 | [[Metacognition-&-Motivation|Metacognition & Motivation]] | — | — | Unresolved Questions | 510 |
+| 75 | [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 512 |
 | 76 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Unresolved Questions | 514 |
 | 77 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Unresolved Questions | 514 |
 | 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | A. Lexicon of Key Terms | 530 |
@@ -610,42 +610,42 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Adaptive Instruction]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
 - [[Adaptive Instruction and Expertise Reversal]]
-- [[Alan Paivio]]
+- [[Alan-Paivio|Alan Paivio]]
 - [[Automaticity]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Theory of Multimedia Learning]]
+- [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Completion Problem Effect]]
 - [[Daniel-Schwartz|Daniel Schwartz]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Element-Interactivity|Element Interactivity]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]
-- [[Fred Paas]]
+- [[Fred-Paas|Fred Paas]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Jeroen van Merriënboer]]
-- [[John Sweller]]
+- [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]]
+- [[John-Sweller|John Sweller]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Measurement and Operationalization of Cognitive Load]]
 - [[Metacognition]]
-- [[Metacognition & Motivation]]
-- [[Miller's Magical Number Seven]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]]
 - [[Modality-Effect|Modality Effect]]
-- [[Multimedia Learning]]
+- [[Multimedia-Learning|Multimedia Learning]]
 - [[Multimedia Learning Design — Evidence and Principles]]
 - [[Redundancy-Effect|Redundancy Effect]]
-- [[Richard Mayer]]
+- [[Richard-Mayer|Richard Mayer]]
 - [[Schema-Theory|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Sergei Kalyuga]]
+- [[Sergei-Kalyuga|Sergei Kalyuga]]
 - [[Split-Attention-Effect|Split-Attention Effect]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Worked-Example-Effect|Worked Example Effect]]
-- [[Worked Examples]]
+- [[Worked-Examples|Worked Examples]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Architecture — Multi-Component Models]]
 - [[e-Learning Design]]
@@ -661,11 +661,11 @@ extraction_summary:
 #### Related
 
 - [[Dual-Coding-Theory|Dual Coding Theory]]
-- [[Cognitive Theory of Multimedia Learning]]
+- [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Metacognition]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 
@@ -687,15 +687,15 @@ extraction_summary:
 #### See Also
 
 - [[Transfer-of-Learning|Transfer of Learning]]
-- [[Adaptive Instruction]]
-- [[Multimedia Learning]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
+- [[Multimedia-Learning|Multimedia Learning]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Automaticity]]
 
 #### Contrasts With
 
 - [[Problem-Based Learning]]
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 - [[Constructivism|Constructivism (Radical)]]
 
 #### Applied In
@@ -710,13 +710,13 @@ extraction_summary:
 
 - [[Schema-Theory|Schema Theory]]
 - [[Working-Memory|Working Memory]]
-- [[Miller's Magical Number Seven]]
+- [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]]
 
 #### Enables
 
 - [[Instructional Design Principles]]
 - [[Multimedia Learning Design]]
-- [[Adaptive Instruction]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 

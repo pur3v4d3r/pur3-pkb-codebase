@@ -163,7 +163,7 @@ extraction_summary:
 #### 7. [DEFINITION] 📖 Synkatathesis (Assent) and the Stoic Gap *(Line 229)*
 
 > [!definition] 📖 Synkatathesis (Assent) and the Stoic Gap
-> In Stoic epistemology, *synkatathesis* (συγκατάθεσις) — assent — is the cognitive act by which the mind endorses an impression and allows it to govern subsequent thought and action. The Stoic insight, developed most extensively by [[Chrysippus]] and transmitted through Epictetus, is that assent is not automatic: it is a voluntary act, and it is the primary site of rational agency. The impression arrives without our choosing. Whether we assent to it — whether we treat it as an accurate guide to reality and allow it to shape our responses — is, within limits, up to us. This is the Stoic [[Dichotomy of Control|locus of freedom]]: not freedom from impressions, but freedom in responding to them.
+> In Stoic epistemology, *synkatathesis* (συγκατάθεσις) — assent — is the cognitive act by which the mind endorses an impression and allows it to govern subsequent thought and action. The Stoic insight, developed most extensively by [[Chrysippus]] and transmitted through Epictetus, is that assent is not automatic: it is a voluntary act, and it is the primary site of rational agency. The impression arrives without our choosing. Whether we assent to it — whether we treat it as an accurate guide to reality and allow it to shape our responses — is, within limits, up to us. This is the Stoic [[Dichotomy-of-Control|locus of freedom]]: not freedom from impressions, but freedom in responding to them.
 
 #### 8. [INSIGHT] 💡 The Stoic Insight About Impressions *(Line 238)*
 
@@ -265,7 +265,7 @@ extraction_summary:
 #### 28. [PRINCIPLE-POINT] 🏛️ Emergent Insight: The Governed Attentional Gap *(Line 379)*
 
 > [!principle-point] 🏛️ Emergent Insight: The Governed Attentional Gap
-> The synthesis of [[Dual-Process-Theory|Dual Process Theory]], [[Prosoche|prosoche]], [[Metacognitive Self-Regulation]], and debiasing science generates a concept not present in any of these frameworks individually: the **[[Governed Attentional Gap]]** — the cultivated cognitive dwelling in the moment between automatic impression and deliberate assent, which functions as the primary regulatory site of the examined life.
+> The synthesis of [[Dual-Process-Theory|Dual Process Theory]], [[Prosoche|prosoche]], [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]], and debiasing science generates a concept not present in any of these frameworks individually: the **[[Governed Attentional Gap]]** — the cultivated cognitive dwelling in the moment between automatic impression and deliberate assent, which functions as the primary regulatory site of the examined life.
 > 
 > This is not simply "pausing before reacting" (the self-help formulation), nor is it [[Cognitive-Decoupling|Cognitive Decoupling]] (the technical process), nor is it prosoche (the philosophical practice), nor is it metacognitive monitoring (the scientific description). It is the synthesis of all four: a practiced, dispositionally grounded capacity to inhabit — not merely cross — the space between Type 1 impression and Type 2 evaluation. The Stoics called this space the domain of *prohairesis* (προαίρεσις) — the realm of what is properly ours, where rational agency operates. Cognitive science calls it the Type 2 override window. The governed attentional gap is what this space *becomes* when it has been cultivated as a cognitive dwelling rather than a fleeting emergency activation.
 
@@ -373,12 +373,12 @@ extraction_summary:
 #### 49. [CONNECTION-IDEAS] 🔗 Expansion Topic 2: [[Stoic Spiritual Exercises and Their Modern Descendants]] *(Line 479)*
 
 > [!connection-ideas] 🔗 Expansion Topic 2: [[Stoic Spiritual Exercises and Their Modern Descendants]]
-> Pierre Hadot's full account of prosoche, hypomnemata, the negative visualization (*premeditatio malorum*), and the evening self-examination, together with their contemporary descendants in [[Cognitive Behavioral Therapy]] and [[Acceptance and Commitment Therapy]]. The direct lineage from Epictetus through Albert Ellis to CBT provides a unique window into how philosophical metacognitive practice became clinical psychological intervention.
+> Pierre Hadot's full account of prosoche, hypomnemata, the negative visualization (*premeditatio malorum*), and the evening self-examination, together with their contemporary descendants in [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] and [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]. The direct lineage from Epictetus through Albert Ellis to CBT provides a unique window into how philosophical metacognitive practice became clinical psychological intervention.
 > **(Priority: High)**
 
-#### 50. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: [[Cognitive Reflection Test and Rationality Quotient]] *(Line 483)*
+#### 50. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: [[Cognitive-Reflection-Test-and-Rationality-Quotient|Cognitive Reflection Test and Rationality Quotient]] *(Line 483)*
 
-> [!connection-ideas] 🔗 Expansion Topic 3: [[Cognitive Reflection Test and Rationality Quotient]]
+> [!connection-ideas] 🔗 Expansion Topic 3: [[Cognitive-Reflection-Test-and-Rationality-Quotient|Cognitive Reflection Test and Rationality Quotient]]
 > Stanovich and colleagues' measures of the disposition to engage Type 2 override — the cognitive reflection test (Frederick) and the Rationality Quotient instrument. These measures distinguish intelligence (computational power) from rationality (disposition to regulated governance), and the empirical literature on individual differences in rationality disposition is directly relevant to the framework's account of who cultivates the governed attentional gap most readily.
 > **(Priority: High)**
 
@@ -388,9 +388,9 @@ extraction_summary:
 > Gollwitzer's if-then planning framework as a technology for encoding debiasing intentions into quasi-automatic responses — progressively moving bias-correction from Type 2 deliberation to Type 1 habitual response. This provides the mechanistic account of how the governed attentional gap transitions from effortful to dispositional over the developmental trajectory.
 > **(Priority: Medium)**
 
-#### 52. [CONNECTION-IDEAS] 🔗 Expansion Topic 5: [[Cognitive Forcing Functions in Clinical Reasoning]] *(Line 491)*
+#### 52. [CONNECTION-IDEAS] 🔗 Expansion Topic 5: [[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]] *(Line 491)*
 
-> [!connection-ideas] 🔗 Expansion Topic 5: [[Cognitive Forcing Functions in Clinical Reasoning]]
+> [!connection-ideas] 🔗 Expansion Topic 5: [[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]]
 > The medical education application of metacognitive governance through structured prompts (diagnostic timeout, forcing functions, checklists) that create the governed attentional gap in high-stakes clinical decision-making. The clinical domain provides particularly well-studied evidence of both the costs of ungoverned Type 1 diagnostic reasoning and the effectiveness of structured metacognitive interventions.
 > **(Priority: Medium)**
 
@@ -415,49 +415,49 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Acceptance and Commitment Therapy]]
-- [[Amos Tversky]]
-- [[Anchoring and Adjustment]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
+- [[Amos-Tversky|Amos Tversky]]
+- [[Anchoring-and-Adjustment|Anchoring and Adjustment]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Availability-Heuristic|Availability Heuristic]]
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
-- [[Cognitive Biases]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive-Decoupling|Cognitive Decoupling]]
-- [[Cognitive Forcing Functions in Clinical Reasoning]]
-- [[Cognitive Reflection Test and Rationality Quotient]]
+- [[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]]
+- [[Cognitive-Reflection-Test-and-Rationality-Quotient|Cognitive Reflection Test and Rationality Quotient]]
 - [[Cognitive-Vitality|Cognitive Vitality]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epictetus]]
-- [[Examined Life]]
-- [[Fallibilist Epistemology]]
-- [[Ghassani Swaryandini]]
+- [[Examined-Life|Examined Life]]
+- [[Fallibilist-Epistemology|Fallibilist Epistemology]]
+- [[Ghassani-Swaryandini|Ghassani Swaryandini]]
 - [[Governed Attentional Gap]]
-- [[Gregory Schraw]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Hypomnemata]]
 - [[Implementation Intentions and Bias Correction]]
 - [[Impression Management]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
-- [[John Flavell]]
-- [[Jonathan Evans]]
+- [[John-Flavell|John Flavell]]
+- [[Jonathan-Evans|Jonathan Evans]]
 - [[Kataleptic-Impression|Kataleptic Impression]]
-- [[Keith Stanovich]]
-- [[Marcus Aurelius]]
-- [[Metacognitive Self-Regulation]]
+- [[Keith-Stanovich|Keith Stanovich]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
+- [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Mindware and Cognitive Miserliness]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Nature Human Behaviour]]
-- [[Pierre Hadot]]
+- [[Nature-Human-Behaviour|Nature Human Behaviour]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Precision Weighting in Predictive Processing]]
 - [[Prosoche]]
 - [[Representativeness Heuristic]]
 - [[Stanovich]]
-- [[Stoic Prosoche]]
+- [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoic Spiritual Exercises and Their Modern Descendants]]
 - [[System-1|System 1]]
 - [[Working-Memory|Working Memory]]
@@ -466,45 +466,45 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Daniel Kahneman]] | Kahneman | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
-| 2 | [[Jonathan Evans]] | Evans | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
-| 3 | [[Keith Stanovich]] | Stanovich | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
+| 1 | [[Daniel-Kahneman|Daniel Kahneman]] | Kahneman | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
+| 2 | [[Jonathan-Evans|Jonathan Evans]] | Evans | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
+| 3 | [[Keith-Stanovich|Keith Stanovich]] | Stanovich | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
 | 4 | [[Stanovich]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
-| 5 | [[Examined Life]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
+| 5 | [[Examined-Life|Examined Life]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
 | 6 | [[System-1|System 1]] | System 1 processing | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
 | 7 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
-| 8 | [[Fallibilist Epistemology]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
+| 8 | [[Fallibilist-Epistemology|Fallibilist Epistemology]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
 | 9 | [[Epictetus]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 10 | [[Marcus Aurelius]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 11 | [[Pierre Hadot]] | Hadot's | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
+| 10 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
+| 11 | [[Pierre-Hadot|Pierre Hadot]] | Hadot's | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
 | 12 | [[Prosoche]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 13 | [[John Flavell]] | Flavell's | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 14 | [[Metacognitive Self-Regulation]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 15 | [[Ghassani Swaryandini]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 16 | [[Nature Human Behaviour]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
+| 13 | [[John-Flavell|John Flavell]] | Flavell's | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
+| 14 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
+| 15 | [[Ghassani-Swaryandini|Ghassani Swaryandini]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
+| 16 | [[Nature-Human-Behaviour|Nature Human Behaviour]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
 | 17 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
-| 18 | [[Jonathan Evans]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
-| 19 | [[Keith Stanovich]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
-| 20 | [[Daniel Kahneman]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
+| 18 | [[Jonathan-Evans|Jonathan Evans]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
+| 19 | [[Keith-Stanovich|Keith Stanovich]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
+| 20 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
 | 21 | [[Working-Memory|Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 207 |
 | 22 | [[Working-Memory|Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 210 |
 | 23 | [[Cognitive-Decoupling|Cognitive Decoupling]] | cognitive decoupling | — | 🧠 The Architecture of Automatic Thoug... | 210 |
-| 24 | [[Cognitive Biases]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 24 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 25 | [[Representativeness Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 26 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
-| 27 | [[Anchoring and Adjustment]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 27 | [[Anchoring-and-Adjustment|Anchoring and Adjustment]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 28 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 29 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
-| 30 | [[Amos Tversky]] | Tversky | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 30 | [[Amos-Tversky|Amos Tversky]] | Tversky | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 31 | [[Prosoche]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 225 |
-| 32 | [[Pierre Hadot]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 225 |
+| 32 | [[Pierre-Hadot|Pierre Hadot]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 225 |
 | 33 | [[Chrysippus]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
 | 34 | [[Dichotomy-of-Control|Dichotomy of Control]] | locus of freedom | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
 | 35 | [[Hypomnemata]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 234 |
 | 36 | [[Impression Management]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 236 |
-| 37 | [[John Flavell]] | John H. Flavell's | — | 🔬 The Scientific Framework: Metacogni... | 243 |
-| 38 | [[Gregory Schraw]] | — | — | 🔬 The Scientific Framework: Metacogni... | 245 |
-| 39 | [[Nature Human Behaviour]] | — | — | 🎓 The Debiasing Science: What Interve... | 256 |
+| 37 | [[John-Flavell|John Flavell]] | John H. Flavell's | — | 🔬 The Scientific Framework: Metacogni... | 243 |
+| 38 | [[Gregory-Schraw|Gregory Schraw]] | — | — | 🔬 The Scientific Framework: Metacogni... | 245 |
+| 39 | [[Nature-Human-Behaviour|Nature Human Behaviour]] | — | — | 🎓 The Debiasing Science: What Interve... | 256 |
 | 40 | [[Kataleptic-Impression|Kataleptic Impression]] | kataleptic impression | — | 🔁 The Structural Homology: Prosoche I... | 284 |
 | 41 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | ⚡ The Conceptual Tension: Why Do Debi... | 313 |
 | 42 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🔄 Retroactive Enrichment: What This R... | 320 |
@@ -512,18 +512,18 @@ extraction_summary:
 | 44 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
 | 45 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
 | 46 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
-| 47 | [[Stoic Prosoche]] | prosoche | — | ✨ The Emergent Insight: The Governed ... | 380 |
-| 48 | [[Metacognitive Self-Regulation]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
+| 47 | [[Stoic-Prosoche|Stoic Prosoche]] | prosoche | — | ✨ The Emergent Insight: The Governed ... | 380 |
+| 48 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
 | 49 | [[Governed Attentional Gap]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
 | 50 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | ✨ The Emergent Insight: The Governed ... | 382 |
 | 51 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | ⚠️ Honest Limitations | 410 |
 | 52 | [[Mindware and Cognitive Miserliness]] | — | — | 🗺️ Expansion Topics for PKB Development | 475 |
 | 53 | [[Stoic Spiritual Exercises and Their Modern Descendants]] | — | — | 🗺️ Expansion Topics for PKB Development | 479 |
-| 54 | [[Cognitive Behavioral Therapy]] | — | — | 🗺️ Expansion Topics for PKB Development | 480 |
-| 55 | [[Acceptance and Commitment Therapy]] | — | — | 🗺️ Expansion Topics for PKB Development | 480 |
-| 56 | [[Cognitive Reflection Test and Rationality Quotient]] | — | — | 🗺️ Expansion Topics for PKB Development | 483 |
+| 54 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | 🗺️ Expansion Topics for PKB Development | 480 |
+| 55 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | 🗺️ Expansion Topics for PKB Development | 480 |
+| 56 | [[Cognitive-Reflection-Test-and-Rationality-Quotient|Cognitive Reflection Test and Rationality Quotient]] | — | — | 🗺️ Expansion Topics for PKB Development | 483 |
 | 57 | [[Implementation Intentions and Bias Correction]] | — | — | 🗺️ Expansion Topics for PKB Development | 487 |
-| 58 | [[Cognitive Forcing Functions in Clinical Reasoning]] | — | — | 🗺️ Expansion Topics for PKB Development | 491 |
+| 58 | [[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]] | — | — | 🗺️ Expansion Topics for PKB Development | 491 |
 | 59 | [[Precision Weighting in Predictive Processing]] | — | — | 🗺️ Expansion Topics for PKB Development | 495 |
 
 ---
@@ -543,49 +543,49 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Acceptance and Commitment Therapy]]
-- [[Amos Tversky]]
-- [[Anchoring and Adjustment]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
+- [[Amos-Tversky|Amos Tversky]]
+- [[Anchoring-and-Adjustment|Anchoring and Adjustment]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Availability-Heuristic|Availability Heuristic]]
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
-- [[Cognitive Biases]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive-Decoupling|Cognitive Decoupling]]
-- [[Cognitive Forcing Functions in Clinical Reasoning]]
-- [[Cognitive Reflection Test and Rationality Quotient]]
+- [[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]]
+- [[Cognitive-Reflection-Test-and-Rationality-Quotient|Cognitive Reflection Test and Rationality Quotient]]
 - [[Cognitive-Vitality|Cognitive Vitality]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epictetus]]
-- [[Examined Life]]
-- [[Fallibilist Epistemology]]
-- [[Ghassani Swaryandini]]
+- [[Examined-Life|Examined Life]]
+- [[Fallibilist-Epistemology|Fallibilist Epistemology]]
+- [[Ghassani-Swaryandini|Ghassani Swaryandini]]
 - [[Governed Attentional Gap]]
-- [[Gregory Schraw]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Hypomnemata]]
 - [[Implementation Intentions and Bias Correction]]
 - [[Impression Management]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
-- [[John Flavell]]
-- [[Jonathan Evans]]
+- [[John-Flavell|John Flavell]]
+- [[Jonathan-Evans|Jonathan Evans]]
 - [[Kataleptic-Impression|Kataleptic Impression]]
-- [[Keith Stanovich]]
-- [[Marcus Aurelius]]
-- [[Metacognitive Self-Regulation]]
+- [[Keith-Stanovich|Keith Stanovich]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
+- [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Mindware and Cognitive Miserliness]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Nature Human Behaviour]]
-- [[Pierre Hadot]]
+- [[Nature-Human-Behaviour|Nature Human Behaviour]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Precision Weighting in Predictive Processing]]
 - [[Prosoche]]
 - [[Representativeness Heuristic]]
 - [[Stanovich]]
-- [[Stoic Prosoche]]
+- [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoic Spiritual Exercises and Their Modern Descendants]]
 - [[System-1|System 1]]
 - [[Working-Memory|Working Memory]]
@@ -597,7 +597,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Metacognition]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 
 #### Related
 

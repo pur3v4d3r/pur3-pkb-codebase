@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -63,6 +63,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[Levels-of-Processing-Theory|Levels of Processing Theory]]"
+  - "[[Fergus-I.-M.-Craik|Fergus I. M. Craik]]"
+  - "[[Robert-S.-Lockhart|Robert S. Lockhart]]"
+  - "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
+  - "[[Retrieval-Practice|Retrieval Practice]]"
+  - "[[Spaced-Repetition|Spaced Repetition]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Long-Term-Memory|Long-Term Memory]]"
   - "[[Levels-of-Processing-Theory|Levels of Processing Theory]]"
   - "[[Fergus-I.-M.-Craik|Fergus I. M. Craik]]"
   - "[[Robert-S.-Lockhart|Robert S. Lockhart]]"
@@ -141,7 +149,7 @@ importance: high
 > The LOP framework can be misapplied when practitioners assume that semantic elaboration is always superior regardless of the retrieval context. For skills-based learning, where performance requires retrieval of procedural knowledge under specific perceptual conditions, practice under those same conditions (high encoding-retrieval match) may be more important than semantic elaboration about underlying principles. The depth heuristic is most reliable for declarative, conceptually organized…
 
 > [!example] **Application** *(from levels-of-processing-foundational-report-2026-03-13.md)*
-> Instructors can leverage the [[Self-Reference Effect]] by explicitly prompting students to connect material to their own experiences, values, or goals: "Can you think of a time in your own life when this principle applied?" or "How does this concept relate to something you care about or have experienced?" These prompts are not mere engagement techniques — they are depth interventions that route encoding through the richest available associative structure.
+> Instructors can leverage the [[Self-Reference-Effect]] by explicitly prompting students to connect material to their own experiences, values, or goals: "Can you think of a time in your own life when this principle applied?" or "How does this concept relate to something you care about or have experienced?" These prompts are not mere engagement techniques — they are depth interventions that route encoding through the richest available associative structure.
 
 
 
@@ -151,7 +159,7 @@ importance: high
 > Before reading further, take a moment to notice your own assumptions about memory. Do you believe that re-reading the same material repeatedly is an effective study strategy? What do you think happens differently in your brain when you merely recognize a word versus when you explain what it means? Articulating your starting assumptions will make the conceptual shifts in this report more visible.
 
 > [!reflection] **Reflect** *(from levels-of-processing-foundational-report-2026-03-13.md)*
-> 1. The [[Atkinson-Shiffrin Multi-Store Model]] treated all rehearsal as essentially equivalent in its effect on long-term retention. What specific observations or intuitions suggest this is wrong? Can you think of examples from your own experience where more time with material did *not* produce better memory?
+> 1. The [[Atkinson-Shiffrin-Multi-Store-Model]] treated all rehearsal as essentially equivalent in its effect on long-term retention. What specific observations or intuitions suggest this is wrong? Can you think of examples from your own experience where more time with material did *not* produce better memory?
 > 2. The concept of "depth" as a continuum from structural to semantic seems intuitive for verbal material. How well does this continuum map onto other kinds of content — music, spatial layouts, procedural skills? Where does the metaphor stretch?
 > 3. Maintenance versus elaborative rehearsal is a distinction with significant implications for how we design practice activities. Can you identify a common educational activity that relies primarily on maintenance rehearsal? What would need to change to make it elaborative?
 
@@ -178,5 +186,17 @@ importance: high
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
+
+**Related concepts** *(from levels-of-processing-foundational-report-2026-03-13.md)*:
+[[Levels-of-Processing-Theory|Levels of Processing Theory]] * [[Fergus-I.-M.-Craik|Fergus I. M. Craik]] * [[Robert-S.-Lockhart|Robert S. Lockhart]] * [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] * [[Retrieval-Practice|Retrieval Practice]] * [[Spaced-Repetition|Spaced Repetition]] * [[Working-Memory|Working Memory]] * [[Long-Term-Memory|Long-Term Memory]] * [[LOP-Theory|LOP Theory]] * [[Craik-and-Lockhart's-1972-paper|Craik and Lockhart's 1972 paper]] * [[Multi-Store-Model|Multi-Store Model]] * [[Levels-of-Processing|Levels of Processing]] * [[Bartlett's-reconstructive-memory-theory|Bartlett's reconstructive memory theory]] * [[Jean-Piaget's|Jean Piaget's]] * [[Craik-and-Tulving|Craik and Tulving]]
+
+**Cross-report connections** *(from levels-of-processing-foundational-report-2026-03-13.md)*:
+- [[Levels-of-Processing-Theory|Levels of Processing Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+
+
 
 

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,6 +72,14 @@ see-also:
   - "[[Information]]"
   - "[[Inference]]"
   - "[[Concepts]]"
+  - "[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]"
+  - "[[Critical-Thinking|Critical Thinking]]"
+  - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
+  - "[[Purpose-in-Reasoning|Purpose in Reasoning]]"
+  - "[[Question-at-Issue|Question at Issue]]"
+  - "[[Information|Information]]"
+  - "[[Inference|Inference]]"
+  - "[[Concepts|Concepts]]"
   - "[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]"
   - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
@@ -186,5 +194,17 @@ importance: medium
 - [[Intellectual-Traits|Intellectual Traits]]
 - [[Argument-Analysis|Argument Analysis]]
 - [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
+
+**Related concepts** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
+[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Point-of-View|Point of View]] * [[Intellectual-Standards|Intellectual Standards]] * [[Analytical-Thinking|Analytical Thinking]] * [[Socratic-Questioning|Socratic Questioning]] * [[Intellectual-Traits|Intellectual Traits]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]] * [[Justified-True-Belief|Justified True Belief]]
+
+**Cross-report connections** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Intellectual-Standards|Intellectual Standards]]
+- [[Intellectual-Traits|Intellectual Traits]]
+- [[Argument-Analysis|Argument Analysis]]
+- [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
+
+
 
 

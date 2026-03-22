@@ -297,9 +297,9 @@ extraction_summary:
 > 
 > - **[[Schema-Theory|Schema Theory]]** — Schema Theory describes how internal knowledge structures are organised and activated; Extended Mind Theory proposes that the relevant structures may not always be internal. A mature synthesis would ask how schemas extend into environmental structures — how well-designed external systems (PKB architecture, concept maps, worked examples) can encode and activate schematic knowledge in a way that extends the individual's effective schema repertoire. Bartlett's original account of schemas was already attentive to the cultural embedding of memory; extended mind theory radicalises this insight.
 > 
-> - **[[Metacognition & Lifelong Learning]]** — Metacognition is the capacity to monitor and regulate one's own cognitive processes. Extended Mind Theory adds an important dimension: if cognitive processes can extend into the environment, then metacognitive monitoring and regulation must extend there too. Effective metacognition, on this view, includes awareness of one's extended cognitive system — knowing where one's knowledge is stored, whether one's external systems are reliable, and how to maintain and develop them. This reframes the metacognitive demand of lifelong learning.
+> - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Metacognition is the capacity to monitor and regulate one's own cognitive processes. Extended Mind Theory adds an important dimension: if cognitive processes can extend into the environment, then metacognitive monitoring and regulation must extend there too. Effective metacognition, on this view, includes awareness of one's extended cognitive system — knowing where one's knowledge is stored, whether one's external systems are reliable, and how to maintain and develop them. This reframes the metacognitive demand of lifelong learning.
 > 
-> - **[[Feedback Design for Autonomy and Mastery]]** — Feedback is a mechanism by which information from the environment enters the cognitive loop and modifies subsequent processing. On an extended mind view, well-designed feedback systems are not merely informing an internal cognitive system — they may be constituting part of the cognitive architecture of learning. This suggests that feedback design is, in part, cognitive architecture design.
+> - **[[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]** — Feedback is a mechanism by which information from the environment enters the cognitive loop and modifies subsequent processing. On an extended mind view, well-designed feedback systems are not merely informing an internal cognitive system — they may be constituting part of the cognitive architecture of learning. This suggests that feedback design is, in part, cognitive architecture design.
 > 
 > The pattern of connections across these nodes reveals a central theme: the boundary between mind and environment is not given but designed. Learning science, personal knowledge management, instructional design, and metacognitive practice are all, in part, the science and art of designing cognitive extensions.
 
@@ -435,32 +435,32 @@ extraction_summary:
 
 - [[4E-Cognition|4E Cognition]]
 - [[Affordances and Ecological Psychology]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Assistive Technology]]
 - [[Classical-Cognitivism|Classical Cognitivism]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Cognitive Scaffolding in Instructional Design]]
-- [[David Chalmers]]
+- [[David-Chalmers|David Chalmers]]
 - [[Distributed-Cognition|Distributed Cognition]]
-- [[Edwin Hutchins]]
-- [[Eleanor Rosch]]
+- [[Edwin-Hutchins|Edwin Hutchins]]
+- [[Eleanor-Rosch|Eleanor Rosch]]
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Enactivism]]
 - [[Enactivism and Embodied Meaning]]
-- [[Evan Thompson]]
+- [[Evan-Thompson|Evan Thompson]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
-- [[Feedback Design for Autonomy and Mastery]]
-- [[Francisco Varela]]
-- [[Frederick Adams]]
-- [[Hilary Putnam]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Francisco-Varela|Francisco Varela]]
+- [[Frederick-Adams|Frederick Adams]]
+- [[Hilary-Putnam|Hilary Putnam]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Kenneth Aizawa]]
-- [[Lawrence Barsalou]]
-- [[Lev Vygotsky]]
+- [[Lawrence-Barsalou|Lawrence Barsalou]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Maravita and Iriki]]
-- [[Maurice Merleau-Ponty]]
-- [[Metacognition & Lifelong Learning]]
+- [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal Knowledge Management — Cognitive Foundations]]
@@ -468,7 +468,7 @@ extraction_summary:
 - [[Robert Rupert]]
 - [[Schema-Theory|Schema Theory]]
 - [[Technology as Cognitive Prosthesis]]
-- [[Tyler Burge]]
+- [[Tyler-Burge|Tyler Burge]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
@@ -476,44 +476,44 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Classical-Cognitivism|Classical Cognitivism]] | — | — | Phase I: Orientation & Context Setting | 265 |
-| 2 | [[Andy Clark]] | — | — | Phase I: Orientation & Context Setting | 267 |
-| 3 | [[David Chalmers]] | — | — | Phase I: Orientation & Context Setting | 267 |
+| 2 | [[Andy-Clark|Andy Clark]] | — | — | Phase I: Orientation & Context Setting | 267 |
+| 3 | [[David-Chalmers|David Chalmers]] | — | — | Phase I: Orientation & Context Setting | 267 |
 | 4 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 5 | [[4E-Cognition|4E Cognition]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 6 | [[Embodied-Cognition|Embodied Cognition]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 7 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 8 | [[Classical-Cognitivism|Classical Cognitivism]] | — | — | The Target: Classical Cognitivism and... | 284 |
-| 9 | [[Hilary Putnam]] | — | — | Active vs. Passive Externalism | 314 |
-| 10 | [[Tyler Burge]] | — | — | Active vs. Passive Externalism | 314 |
+| 9 | [[Hilary-Putnam|Hilary Putnam]] | — | — | Active vs. Passive Externalism | 314 |
+| 10 | [[Tyler-Burge|Tyler Burge]] | — | — | Active vs. Passive Externalism | 314 |
 | 11 | [[Classical-Cognitivism|Classical Cognitivism]] | — | — | The Broader 4E Cognition Movement | 338 |
 | 12 | [[4E-Cognition|4E Cognition]] | — | — | The Broader 4E Cognition Movement | 338 |
 | 13 | [[Embodied-Cognition|Embodied Cognition]] | — | — | The Broader 4E Cognition Movement | 340 |
-| 14 | [[Maurice Merleau-Ponty]] | — | — | The Broader 4E Cognition Movement | 340 |
-| 15 | [[Lawrence Barsalou]] | — | — | The Broader 4E Cognition Movement | 340 |
+| 14 | [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] | — | — | The Broader 4E Cognition Movement | 340 |
+| 15 | [[Lawrence-Barsalou|Lawrence Barsalou]] | — | — | The Broader 4E Cognition Movement | 340 |
 | 16 | [[Enactivism]] | — | — | The Broader 4E Cognition Movement | 344 |
-| 17 | [[Francisco Varela]] | — | — | The Broader 4E Cognition Movement | 344 |
-| 18 | [[Evan Thompson]] | — | — | The Broader 4E Cognition Movement | 344 |
-| 19 | [[Eleanor Rosch]] | — | — | The Broader 4E Cognition Movement | 344 |
-| 20 | [[Edwin Hutchins]] | — | — | Distributed Cognition: Hutchins's Emp... | 351 |
+| 17 | [[Francisco-Varela|Francisco Varela]] | — | — | The Broader 4E Cognition Movement | 344 |
+| 18 | [[Evan-Thompson|Evan Thompson]] | — | — | The Broader 4E Cognition Movement | 344 |
+| 19 | [[Eleanor-Rosch|Eleanor Rosch]] | — | — | The Broader 4E Cognition Movement | 344 |
+| 20 | [[Edwin-Hutchins|Edwin Hutchins]] | — | — | Distributed Cognition: Hutchins's Emp... | 351 |
 | 21 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Distributed Cognition: Hutchins's Emp... | 351 |
-| 22 | [[Frederick Adams]] | — | — | The Critics: Adams, Aizawa, and the C... | 360 |
+| 22 | [[Frederick-Adams|Frederick Adams]] | — | — | The Critics: Adams, Aizawa, and the C... | 360 |
 | 23 | [[Kenneth Aizawa]] | — | — | The Critics: Adams, Aizawa, and the C... | 360 |
 | 24 | [[Robert Rupert]] | — | — | The Critics: Adams, Aizawa, and the C... | 370 |
 | 25 | [[Risko and Gilbert]] | — | — | Cognitive Offloading and the Phenomen... | 397 |
 | 26 | [[Maravita and Iriki]] | — | — | Cognitive Offloading and the Phenomen... | 404 |
-| 27 | [[Lev Vygotsky]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
+| 27 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
 | 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
 | 29 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
 | 30 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Scaffolding, Zone of Proximal Develop... | 414 |
 | 31 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Implications for Learning Environment... | 427 |
 | 32 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Implications for Personal Knowledge M... | 439 |
-| 33 | [[Andy Clark]] | — | — | Implications for Personal Knowledge M... | 439 |
+| 33 | [[Andy-Clark|Andy Clark]] | — | — | Implications for Personal Knowledge M... | 439 |
 | 34 | [[Assistive Technology]] | — | — | Applications in Assistive Technology ... | 445 |
 | 35 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Pulling the Threads Together | 488 |
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Pulling the Threads Together | 490 |
 | 37 | [[Schema-Theory|Schema Theory]] | — | — | Pulling the Threads Together | 492 |
-| 38 | [[Metacognition & Lifelong Learning]] | — | — | Pulling the Threads Together | 494 |
-| 39 | [[Feedback Design for Autonomy and Mastery]] | — | — | Pulling the Threads Together | 496 |
+| 38 | [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] | — | — | Pulling the Threads Together | 494 |
+| 39 | [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] | — | — | Pulling the Threads Together | 496 |
 | 40 | [[Embodied-Cognition|Embodied Cognition]] | — | — | D. Expansion Topics | 592 |
 | 41 | [[Distributed-Cognition|Distributed Cognition]] | — | — | D. Expansion Topics | 595 |
 | 42 | [[Cognitive Scaffolding in Instructional Design]] | — | — | D. Expansion Topics | 598 |
@@ -533,32 +533,32 @@ extraction_summary:
 
 - [[4E-Cognition|4E Cognition]]
 - [[Affordances and Ecological Psychology]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Assistive Technology]]
 - [[Classical-Cognitivism|Classical Cognitivism]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Cognitive Scaffolding in Instructional Design]]
-- [[David Chalmers]]
+- [[David-Chalmers|David Chalmers]]
 - [[Distributed-Cognition|Distributed Cognition]]
-- [[Edwin Hutchins]]
-- [[Eleanor Rosch]]
+- [[Edwin-Hutchins|Edwin Hutchins]]
+- [[Eleanor-Rosch|Eleanor Rosch]]
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Enactivism]]
 - [[Enactivism and Embodied Meaning]]
-- [[Evan Thompson]]
+- [[Evan-Thompson|Evan Thompson]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
-- [[Feedback Design for Autonomy and Mastery]]
-- [[Francisco Varela]]
-- [[Frederick Adams]]
-- [[Hilary Putnam]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Francisco-Varela|Francisco Varela]]
+- [[Frederick-Adams|Frederick Adams]]
+- [[Hilary-Putnam|Hilary Putnam]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Kenneth Aizawa]]
-- [[Lawrence Barsalou]]
-- [[Lev Vygotsky]]
+- [[Lawrence-Barsalou|Lawrence Barsalou]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Maravita and Iriki]]
-- [[Maurice Merleau-Ponty]]
-- [[Metacognition & Lifelong Learning]]
+- [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal Knowledge Management — Cognitive Foundations]]
@@ -566,7 +566,7 @@ extraction_summary:
 - [[Robert Rupert]]
 - [[Schema-Theory|Schema Theory]]
 - [[Technology as Cognitive Prosthesis]]
-- [[Tyler Burge]]
+- [[Tyler-Burge|Tyler Burge]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Enactivism]]
 - [[Situated-Learning|Situated Learning]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Metacognition & Lifelong Learning]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 
 #### Broader
 

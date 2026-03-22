@@ -334,14 +334,14 @@ extraction_summary:
 - [[Facetted Classification]]
 - [[Hierarchical Taxonomy]]
 - [[Information-Architecture|Information Architecture]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Metadata Schema Design]]
 - [[Metadata System Quick Reference]]
 - [[Obsidian Query Optimization]]
 - [[Prompt Component Library]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quick Switcher]]
-- [[Reference Note]]
+- [[Reference-Note|Reference Note]]
 - [[Taxonomy Design Principles]]
 - [[YAML Frontmatter Best Practices]]
 - [[artificial-intelligence-moc]]
@@ -374,9 +374,9 @@ extraction_summary:
 | 14 | [[2025-12]] | — | — | 2️⃣ Temporal / Date-Based Queries | 419 |
 | 15 | [[2025-Q4]] | — | — | 2️⃣ Temporal / Date-Based Queries | 422 |
 | 16 | [[cognitive-science-moc]] | — | — | 5️⃣ Link & Connection Queries | 527 |
-| 17 | [[Reference Note]] | — | — | Gemini Pro 3.0 Quick Reference | 722 |
+| 17 | [[Reference-Note|Reference Note]] | — | — | Gemini Pro 3.0 Quick Reference | 722 |
 | 18 | [[Dashboard]] | — | — | Gemini Pro 3.0 Quick Reference | 722 |
-| 19 | [[Knowledge Graph]] | — | — | Gemini Pro 3.0 Quick Reference | 726 |
+| 19 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Gemini Pro 3.0 Quick Reference | 726 |
 | 20 | [[Dataview]] | — | — | 1\. Core Metadata & Status Enums | 735 |
 | 21 | [[artificial-intelligence-moc]] | — | — | 2\. The Hub Network (MOC Link-Ups) | 760 |
 | 22 | [[cognitive-science-moc]] | — | — | 2\. The Hub Network (MOC Link-Ups) | 761 |
@@ -395,7 +395,7 @@ extraction_summary:
 | 35 | [[Hierarchical Taxonomy]] | — | — | 🔗 Related Topics for PKB Expansion | 842 |
 | 36 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 843 |
 | 37 | [[Prompt Component Library]] | — | — | 🔗 Related Topics for PKB Expansion | 844 |
-| 38 | [[Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 847 |
+| 38 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 847 |
 | 39 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 848 |
 | 40 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 851 |
 | 41 | [[DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 855 |
@@ -1067,14 +1067,14 @@ for (let letter of sortedLetters) {
 - [[Facetted Classification]]
 - [[Hierarchical Taxonomy]]
 - [[Information-Architecture|Information Architecture]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Metadata Schema Design]]
 - [[Metadata System Quick Reference]]
 - [[Obsidian Query Optimization]]
 - [[Prompt Component Library]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quick Switcher]]
-- [[Reference Note]]
+- [[Reference-Note|Reference Note]]
 - [[Taxonomy Design Principles]]
 - [[YAML Frontmatter Best Practices]]
 - [[artificial-intelligence-moc]]

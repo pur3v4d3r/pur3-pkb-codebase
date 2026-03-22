@@ -191,14 +191,14 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
 - [[Chain of Verification]]
 - [[Dhuliawala et al. 2023]]
 - [[Reflexion]]
 - [[Self-Consistency]]
 - [[Shinn et al. 2023]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Wang et al. 2022]]
 - [[Wei et al. 2022]]
 - [[Yao et al. 2023]]
@@ -207,14 +207,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Chain of Thought]] | — | — | Abstract | 21 |
-| 2 | [[Tree of Thoughts]] | — | — | Abstract | 21 |
+| 1 | [[Chain-of-Thought|Chain of Thought]] | — | — | Abstract | 21 |
+| 2 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Abstract | 21 |
 | 3 | [[Self-Consistency]] | — | — | Abstract | 21 |
 | 4 | [[Reflexion]] | — | — | Abstract | 21 |
-| 5 | [[Chain of Thought]] | — | — | 2.3 The Reasoning-Response Pipeline | 91 |
+| 5 | [[Chain-of-Thought|Chain of Thought]] | — | — | 2.3 The Reasoning-Response Pipeline | 91 |
 | 6 | [[Chain-of-Thought-Prompting|Chain of Thought Prompting]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 127 |
 | 7 | [[Wei et al. 2022]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 127 |
-| 8 | [[Tree of Thoughts]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 156 |
+| 8 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 156 |
 | 9 | [[Yao et al. 2023]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 156 |
 | 10 | [[Self-Consistency]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 181 |
 | 11 | [[Wang et al. 2022]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 181 |
@@ -932,14 +932,14 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
 - [[Chain of Verification]]
 - [[Dhuliawala et al. 2023]]
 - [[Reflexion]]
 - [[Self-Consistency]]
 - [[Shinn et al. 2023]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Wang et al. 2022]]
 - [[Wei et al. 2022]]
 - [[Yao et al. 2023]]

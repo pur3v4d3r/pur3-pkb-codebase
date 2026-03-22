@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -67,18 +67,26 @@ see-also:
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|basic psychological needs]]"
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[relatedness]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Autonomy]]"
+  - "[[Competence]]"
+  - "[[Relatedness]]"
   - "[[Relationship-Motivation-Theory|Relationship Motivation Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|basic psychological needs]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Relationship-Motivation-Theory|Relationship Motivation Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +124,7 @@ importance: high
 # RMT as the Motivational Infrastructure of Attachment Security
 
 > [!definition] **RMT as the Motivational Infrastructure of Attachment Security**
-> A second integrative synthesis concerns the relationship between RMT and [[Attachment Theory]]. Attachment security is typically described as the outcome of a history of responsive caregiving — a child develops secure attachment by experiencing a caregiver who is available, sensitive, and responsive to distress. What this formulation leaves underspecified is *why* secure attachment produces the psychological benefits it does. RMT provides a mechanistic account: secure attachment is functionally equivalent to a history of sustained need support. The securely attached individual has a working model of relationships as contexts in which their autonomy is respected, their competence is affirmed, and their relatedness need is genuinely met — and this working model functions as a motivational scaffold for engaging with new relationships from a position of trust rather than vigilance. The attachment security effect on well-being is, on this account, largely a need satisfaction effect: security means reliable, history-backed expectation of need support. This integration has empirical support in La Guardia et al.'s finding that secure attachment predicts overall need fulfillment across relationships, and it generates the testable prediction that need satisfaction should mediate the relationship between attachment security and well-being outcomes — a prediction that has received initial but not comprehensive empirical attention.
+> A second integrative synthesis concerns the relationship between RMT and [[Attachment-Theory]]. Attachment security is typically described as the outcome of a history of responsive caregiving — a child develops secure attachment by experiencing a caregiver who is available, sensitive, and responsive to distress. What this formulation leaves underspecified is *why* secure attachment produces the psychological benefits it does. RMT provides a mechanistic account: secure attachment is functionally equivalent to a history of sustained need support. The securely attached individual has a working model of relationships as contexts in which their autonomy is respected, their competence is affirmed, and their relatedness need is genuinely met — and this working model functions as a motivational scaffold for engaging with new relationships from a position of trust rather than vigilance. The attachment security effect on well-being is, on this account, largely a need satisfaction effect: security means reliable, history-backed expectation of need support. This integration has empirical support in La Guardia et al.'s finding that secure attachment predicts overall need fulfillment across relationships, and it generates the testable prediction that need satisfaction should mediate the relationship between attachment security and well-being outcomes — a prediction that has received initial but not comprehensive empirical attention.
 
 ## Core Explanation
 
@@ -162,12 +170,20 @@ importance: high
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
 
 **Related concepts:**
-[[Relationship-Motivation-Theory|Relationship Motivation Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[perceived-partner-responsiveness|perceived partner responsiveness]]
+[[Relationship-Motivation-Theory|Relationship Motivation Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
 
 **Related concepts** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
-[[Relationship-Motivation-Theory|Relationship Motivation Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[basic-psychological-needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[perceived-partner-responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Knee|Knee]] * [[Patrick|Patrick]] * [[Lonsbary|Lonsbary]] * [[Autonomy-support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Deci|Deci]] * [[Impett|Impett]]
+[[Relationship-Motivation-Theory|Relationship Motivation Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Knee|Knee]] * [[Patrick|Patrick]] * [[Lonsbary|Lonsbary]] * [[Autonomy-Support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Deci|Deci]] * [[Impett|Impett]]
 
 **Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+**Related concepts** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+[[Relationship-Motivation-Theory|Relationship Motivation Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Autonomy-Support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Conditional-Positive-Regard|conditional positive regard]] * [[Canevello|Canevello]] * [[Crocker|Crocker]] * [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]] * [[autonomy-relatedness-integration-problem|autonomy-relatedness integration problem]]
+
+**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+
 
 

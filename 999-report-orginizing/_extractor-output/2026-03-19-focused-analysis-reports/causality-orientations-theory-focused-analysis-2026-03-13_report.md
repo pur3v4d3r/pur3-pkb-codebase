@@ -156,7 +156,7 @@ extraction_summary:
 #### 3. [DEFINITION] Control Orientation (Deci & Ryan, 1985) *(Line 292)*
 
 > [!definition] Control Orientation (Deci & Ryan, 1985)
-> The tendency to orient toward and be regulated by external and internal controls: deadlines, rewards, surveillance, evaluations, and ego-involvement (the last being crucial). Individuals high in control orientation characteristically notice the evaluative and directive aspects of situations, treat feedback as indicative of their standing relative to standards or others, and experience their behavior as driven by demands they must satisfy. The critical conceptual point, which differentiates COT from [[Locus of Control|locus of control theory]], is that *control orientation includes internally-imposed controls* — guilt, shame, and ego-involvement function here as controls, even though they originate within the person.
+> The tendency to orient toward and be regulated by external and internal controls: deadlines, rewards, surveillance, evaluations, and ego-involvement (the last being crucial). Individuals high in control orientation characteristically notice the evaluative and directive aspects of situations, treat feedback as indicative of their standing relative to standards or others, and experience their behavior as driven by demands they must satisfy. The critical conceptual point, which differentiates COT from [[Locus-of-Control|locus of control theory]], is that *control orientation includes internally-imposed controls* — guilt, shame, and ego-involvement function here as controls, even though they originate within the person.
 
 #### 4. [DEFINITION] Impersonal Orientation (Deci & Ryan, 1985) *(Line 295)*
 
@@ -314,19 +314,19 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory — Focused Analysis]]** — COT is a direct sub-theory of SDT, and this report presupposes the foundational SDT architecture developed in the SDT focused analysis. The specific SDT constructs most relevant here are the motivational continuum from OIT (which provides the backdrop against which the three orientations make sense), the basic psychological needs (whose satisfaction and frustration is the developmental origin of orientations), and CET's analysis of how contextual factors affect intrinsic motivation (which COT translates into stable dispositional tendencies). The SDT report maps the landscape; this report drills the borehole of COT's individual-differences architecture. The two reports are best read as a pair.
+> - **[[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]** — COT is a direct sub-theory of SDT, and this report presupposes the foundational SDT architecture developed in the SDT focused analysis. The specific SDT constructs most relevant here are the motivational continuum from OIT (which provides the backdrop against which the three orientations make sense), the basic psychological needs (whose satisfaction and frustration is the developmental origin of orientations), and CET's analysis of how contextual factors affect intrinsic motivation (which COT translates into stable dispositional tendencies). The SDT report maps the landscape; this report drills the borehole of COT's individual-differences architecture. The two reports are best read as a pair.
 > 
-> - **[[Self-Regulated Learning — Focused Analysis]]** — The connection between COT and SRL is deep but has not been adequately theorized in either literature. The SRL cycle (forethought, performance, self-reflection) is not motivationally neutral: autonomy-oriented learners bring an intrinsic interest frame to forethought (generating goals that are personally meaningful rather than merely performance-based), respond to monitoring information with informational rather than evaluative processing, and engage in self-reflection that is attribution-consistent with a controllable, unstable causal model. Control-oriented learners, by contrast, bring a performance-ego frame to forethought, experience monitoring as evaluative, and tend toward ability attribution under failure — precisely the attribution pattern that severs the productive reflection-forethought connection identified in the SRL report. The impersonal orientation maps directly onto the forethought failure mode: if the environment is perceived as uncontrollable, the forethought phase may not generate genuine regulatory intentions at all, short-circuiting the SRL cycle before it begins. A synthesis of COT and SRL would explain why individuals with similar SRL knowledge and strategy repertoires differ so dramatically in their regulatory practice.
+> - **[[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]** — The connection between COT and SRL is deep but has not been adequately theorized in either literature. The SRL cycle (forethought, performance, self-reflection) is not motivationally neutral: autonomy-oriented learners bring an intrinsic interest frame to forethought (generating goals that are personally meaningful rather than merely performance-based), respond to monitoring information with informational rather than evaluative processing, and engage in self-reflection that is attribution-consistent with a controllable, unstable causal model. Control-oriented learners, by contrast, bring a performance-ego frame to forethought, experience monitoring as evaluative, and tend toward ability attribution under failure — precisely the attribution pattern that severs the productive reflection-forethought connection identified in the SRL report. The impersonal orientation maps directly onto the forethought failure mode: if the environment is perceived as uncontrollable, the forethought phase may not generate genuine regulatory intentions at all, short-circuiting the SRL cycle before it begins. A synthesis of COT and SRL would explain why individuals with similar SRL knowledge and strategy repertoires differ so dramatically in their regulatory practice.
 > 
-> - **[[Cognitive Load Theory — Focused Analysis]]** — The CLT-COT connection operates through an interaction that neither theory alone addresses. CLT research on the conditions that promote deep processing (reduced extraneous load, optimal intrinsic load, germane load directed at schema formation) is typically conducted without controlling for learner orientation. But COT predicts that the effects of cognitive load conditions may be moderated by orientation: autonomy-oriented learners may be better able to maintain intrinsic motivation under high intrinsic load (finding challenge interesting rather than threatening) while control-oriented learners may experience the same high load as evidence of incompetence and respond with ego-protective disengagement. The "germane load" concept — cognitive effort directed at schema formation — maps somewhat onto the distinction between autonomous motivation (intrinsic interest in building understanding) and controlled motivation (effort directed at satisfying external standards), suggesting that orientation partly determines whether effortful processing is genuinely germane.
+> - **[[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]** — The CLT-COT connection operates through an interaction that neither theory alone addresses. CLT research on the conditions that promote deep processing (reduced extraneous load, optimal intrinsic load, germane load directed at schema formation) is typically conducted without controlling for learner orientation. But COT predicts that the effects of cognitive load conditions may be moderated by orientation: autonomy-oriented learners may be better able to maintain intrinsic motivation under high intrinsic load (finding challenge interesting rather than threatening) while control-oriented learners may experience the same high load as evidence of incompetence and respond with ego-protective disengagement. The "germane load" concept — cognitive effort directed at schema formation — maps somewhat onto the distinction between autonomous motivation (intrinsic interest in building understanding) and controlled motivation (effort directed at satisfying external standards), suggesting that orientation partly determines whether effortful processing is genuinely germane.
 > 
 > - **[[Learned-Helplessness|Learned Helplessness]]** — The impersonal orientation is, in important respects, the motivational expression of a learned helplessness developmental trajectory. Seligman's work on response-outcome independence as the generator of helplessness maps directly onto COT's characterization of impersonal orientation development. The connection enriches both theories: COT provides the individual-differences architecture that specifies which individuals will develop helpless patterns; learned helplessness theory provides the experimental and developmental mechanism through which impersonal orientation is acquired and maintained.
 > 
-> - **[[Metacognition and Motivation]]** — COT's orientations modulate metacognitive engagement in ways that haven't been fully explored. Autonomy-oriented learners may be more likely to engage in genuine metacognitive monitoring (because monitoring is experienced as interesting and informative), while control-oriented learners may engage in monitoring that is primarily evaluative and ego-protective rather than genuinely diagnostic. This connection bridges COT with the metacognitive monitoring accuracy literature and suggests that orientation is a moderating variable in research on metacognition-learning relationships.
+> - **[[Metacognition-and-Motivation|Metacognition and Motivation]]** — COT's orientations modulate metacognitive engagement in ways that haven't been fully explored. Autonomy-oriented learners may be more likely to engage in genuine metacognitive monitoring (because monitoring is experienced as interesting and informative), while control-oriented learners may engage in monitoring that is primarily evaluative and ego-protective rather than genuinely diagnostic. This connection bridges COT with the metacognitive monitoring accuracy literature and suggests that orientation is a moderating variable in research on metacognition-learning relationships.
 > 
 > **Cross-Report Links:**
 > 
-> - **[[Self-Determination Theory — Focused Analysis]]** — Parent report, as noted above. This COT analysis extends the SDT report by providing a focused treatment of the individual-differences architecture that SDT's universalism tends to render secondary.
+> - **[[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]** — Parent report, as noted above. This COT analysis extends the SDT report by providing a focused treatment of the individual-differences architecture that SDT's universalism tends to render secondary.
 > 
 > **Synthetic Observation**: The pattern of connections from COT outward suggests that it functions as a *motivational moderator* across multiple domains of learning psychology: it moderates which SRL processes are deployed and how effectively, which CLT conditions produce deep versus surface processing, and which metacognitive practices are genuine versus defensive. This moderating role has been insufficiently recognized in the research literatures, where COT is typically treated as a stand-alone predictive construct rather than as a framework that enriches the predictions of adjacent theories. The most productive future research direction may not be more COT-outcomes research but rather COT-as-moderator research that examines how orientation shapes the effects of instructional, regulatory, and metacognitive interventions.
 
@@ -495,59 +495,59 @@ extraction_summary:
 ### Unique Targets
 
 - [[Amotivation]]
-- [[Attentional Deployment]]
+- [[Attentional-Deployment|Attentional Deployment]]
 - [[Autonomy-Orientation|Autonomy Orientation]]
 - [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
 - [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
 - [[Control-Orientation|Control Orientation]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[GCOS Psychometrics — Measurement Debates and Factor Structure]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Metacognition and Motivation]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Need Satisfaction and Developmental Trajectories]]
-- [[Selective Attention]]
-- [[Self-Determination Theory — Focused Analysis]]
-- [[Self-Regulated Learning — Focused Analysis]]
+- [[Selective-Attention|Selective Attention]]
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
 - [[The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Focused Analysis Report Generator v1.0]] | — | — | Causality Orientations Theory: Indivi... | 258 |
+| 1 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | Causality Orientations Theory: Indivi... | 258 |
 | 2 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | Phase I: Orientation & Analytical Focus | 264 |
 | 3 | [[Autonomy-Orientation|Autonomy Orientation]] | — | — | Phase I: Orientation & Analytical Focus | 266 |
 | 4 | [[Control-Orientation|Control Orientation]] | — | — | Phase I: Orientation & Analytical Focus | 266 |
 | 5 | [[Impersonal-Orientation|Impersonal Orientation]] | — | — | Phase I: Orientation & Analytical Focus | 266 |
 | 6 | [[Basic-Psychological-Needs|Basic Psychological Needs]] | — | — | Phase I: Orientation & Analytical Focus | 268 |
 | 7 | [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] | — | — | Phase I: Orientation & Analytical Focus | 268 |
-| 8 | [[Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 274 |
+| 8 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 274 |
 | 9 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Phase I: Orientation & Analytical Focus | 274 |
 | 10 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase I: Orientation & Analytical Focus | 274 |
-| 11 | [[Self-Determination Theory — Focused Analysis]] | — | — | Phase I: Orientation & Analytical Focus | 274 |
+| 11 | [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] | — | — | Phase I: Orientation & Analytical Focus | 274 |
 | 12 | [[Locus-of-Control|Locus of Control]] | locus of control theory | — | The Three Causality Orientations | 293 |
 | 13 | [[Amotivation]] | — | — | The Three Causality Orientations | 296 |
 | 14 | [[Learned-Helplessness|Learned Helplessness]] | — | — | The Three Causality Orientations | 296 |
 | 15 | [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] | — | — | The Three Causality Orientations | 298 |
 | 16 | [[Locus-of-Control|Locus of Control]] | — | — | The Crucial Distinction from Locus of... | 310 |
-| 17 | [[Attentional Deployment]] | — | — | Perceptual Attunement as the Core Mec... | 382 |
-| 18 | [[Selective Attention]] | — | — | Perceptual Attunement as the Core Mec... | 382 |
-| 19 | [[Self-Determination Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 513 |
-| 20 | [[Self-Regulated Learning — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 515 |
-| 21 | [[Cognitive Load Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 517 |
+| 17 | [[Attentional-Deployment|Attentional Deployment]] | — | — | Perceptual Attunement as the Core Mec... | 382 |
+| 18 | [[Selective-Attention|Selective Attention]] | — | — | Perceptual Attunement as the Core Mec... | 382 |
+| 19 | [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 513 |
+| 20 | [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 515 |
+| 21 | [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 517 |
 | 22 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Phase VII: PKB Connections & Cross-Re... | 519 |
-| 23 | [[Metacognition and Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 521 |
-| 24 | [[Self-Determination Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 525 |
+| 23 | [[Metacognition-and-Motivation|Metacognition and Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 521 |
+| 24 | [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 525 |
 | 25 | [[Psychological Need Satisfaction and Developmental Trajectories]] | — | — | D. Expansion Topics | 621 |
 | 26 | [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] | — | — | D. Expansion Topics | 624 |
 | 27 | [[The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]] | — | — | D. Expansion Topics | 627 |
@@ -565,29 +565,29 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Amotivation]]
-- [[Attentional Deployment]]
+- [[Attentional-Deployment|Attentional Deployment]]
 - [[Autonomy-Orientation|Autonomy Orientation]]
 - [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
 - [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
 - [[Control-Orientation|Control Orientation]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[GCOS Psychometrics — Measurement Debates and Factor Structure]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Metacognition and Motivation]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Need Satisfaction and Developmental Trajectories]]
-- [[Selective Attention]]
-- [[Self-Determination Theory — Focused Analysis]]
-- [[Self-Regulated Learning — Focused Analysis]]
+- [[Selective-Attention|Selective Attention]]
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
 - [[The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]]
 
 ### Frontmatter Relationships
@@ -595,15 +595,15 @@ extraction_summary:
 #### Prerequisites
 
 - [[Self-Determination Theory — Foundational Concepts]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 
 #### Related
 
-- [[Self-Regulated Learning — Focused Analysis]]
-- [[Cognitive Load Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
 - [[Goal Orientation Theory]]
-- [[Expectancy-Value Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Locus of Control — Rotter]]
 - [[Learned Helplessness — Seligman]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
@@ -611,7 +611,7 @@ extraction_summary:
 #### Broader
 
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Personality and Individual Differences]]
 
 #### Narrower
@@ -625,7 +625,7 @@ extraction_summary:
 - [[Regulatory Focus Theory — Higgins]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Psychological Safety and Motivational Context]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 
 #### Contrasts With
 
@@ -642,9 +642,9 @@ extraction_summary:
 
 #### Builds On
 
-- [[Self-Determination Theory — Focused Analysis]]
-- [[Basic Psychological Needs Theory]]
-- [[Intrinsic Motivation and Extrinsic Motivation]]
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
+- [[Intrinsic-Motivation-and-Extrinsic-Motivation|Intrinsic Motivation and Extrinsic Motivation]]
 
 #### Enables
 

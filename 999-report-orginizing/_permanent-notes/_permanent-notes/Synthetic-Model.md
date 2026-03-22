@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,6 +85,14 @@ see-also:
   - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Collins-and-Loftus|Collins and Loftus]]"
+  - "[[Philip-Johnson-Laird|Philip Johnson-Laird]]"
+  - "[[Mental-Models-Theory|Mental Models Theory]]"
+  - "[[Johnson-Laird|Johnson-Laird]]"
+  - "[[PKB|PKB]]"
+  - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
+  - "[[Multimedia-Learning|Multimedia Learning]]"
+  - "[[Schema-Theory|Schema Theory]]"
   - "[[Philip-Johnson-Laird|Philip Johnson-Laird]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
   - "[[Johnson-Laird|Johnson-Laird]]"
@@ -162,7 +170,7 @@ importance: high
 > The cognitive system constructs the simplest model consistent with the premises, not all possible models. This is adaptive (it conserves working memory resources) but introduces systematic error: the simplest model may be one of several valid possibilities, and a conclusion read off the simplest model may not hold in other valid models. Recognising this limitation is the key to understanding why deductive reasoning is genuinely difficult.
 
 > [!evidence] Supporting Evidence *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
-> The foundational text establishing [[Mental Models Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+> The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
 
 > [!evidence] Supporting Evidence *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
 > Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
@@ -238,6 +246,26 @@ importance: high
 - [[Schema-Theory|Schema Theory]]
 - [[Reasoning-Types-in-Education|Reasoning Types in Education]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
+
+**Related concepts** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
+[[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] * [[Conceptual-Change-Theory|Conceptual Change Theory]] * [[Multimedia-Learning|Multimedia Learning]] * [[Schema-Theory|Schema Theory]] * [[Mental-Models|Mental Models]] * [[Kenneth-Craik|Kenneth Craik]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[possible-worlds-semantics|possible worlds semantics]] * [[Formal-Rule-Theories-of-Reasoning|Formal Rule Theories of Reasoning]] * [[Propositional-Representation|Propositional Representation]] * [[Mental-Logic-Theory|Mental Logic Theory]] * [[Lance-Rips|Lance Rips]] * [[Martin-Braine|Martin Braine]] * [[Dual-Process-Theory|Dual Process Theory]]
+
+**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
+- [[Mental-Models-Theory|Mental Models Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+
+**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
+- [[Mental-Models-Theory|Mental Models Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+
+
+
 
 
 

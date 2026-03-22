@@ -128,14 +128,14 @@ extraction_summary:
 #### 1. [ABSTRACT] Overview *(Line 37)*
 
 > [!abstract] Overview
-> **Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[Self-Actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.
+> **Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic-Psychology|Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[self-actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.
 
 #### 2. [PRINCIPLE-POINT] Core Philosophical Commitments *(Line 42)*
 
 > [!principle-point] Core Philosophical Commitments
 > Humanistic Learning Theory rests on several non-negotiable assumptions about human nature and cognition:
 > 
-> 1. **Inherent Growth Orientation**: Humans possess an innate tendency toward [[Self-Actualization]]—a drive to realize their full potential that does not require external reinforcement
+> 1. **Inherent Growth Orientation**: Humans possess an innate tendency toward [[self-actualization]]—a drive to realize their full potential that does not require external reinforcement
 > 2. **Holistic Integration**: Cognitive development cannot be divorced from emotional, social, and existential dimensions of human experience
 > 3. **Subjective Reality**: The learner's phenomenological experience—their internal perception of reality—is the primary determinant of meaning-making
 > 4. **Intrinsic Motivation Primacy**: Authentic learning emerges from internal curiosity and personal relevance, not external rewards or punishments
@@ -203,7 +203,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Abraham Maslow]]
+- [[Abraham-Maslow|Abraham Maslow]]
 - [[Adult Learning Theory (Andragogy)]]
 - [[Affective Domain Learning]]
 - [[Aha Moments]]
@@ -212,8 +212,8 @@ extraction_summary:
 - [[Behaviorism]]
 - [[Behaviorist Learning Theory]]
 - [[Black Box]]
-- [[Bloom's Taxonomy]]
-- [[Carl Rogers]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Carl-Rogers|Carl Rogers]]
 - [[Cognitive Dissonance]]
 - [[Cognitive Learning]]
 - [[Cognitive Learning Theory]]
@@ -224,29 +224,29 @@ extraction_summary:
 - [[Constructivism]]
 - [[Constructivist Epistemology]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Critical Pedagogy]]
-- [[Cross-Cultural Psychology]]
-- [[Deliberate Practice]]
+- [[Cross-Cultural-Psychology|Cross-Cultural Psychology]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Empathic Understanding]]
 - [[Experiential Learning]]
 - [[Experiential Learning Theory]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Flow Theory and Optimal Experience]]
 - [[Freudian Psychology]]
 - [[Heutagogy]]
 - [[Hierarchy of Needs]]
-- [[Humanistic Psychology]]
-- [[Information Processing Theory]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Intrinsic Motivation Research]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Krathwohl's Affective Domain Taxonomy]]
 - [[Learning Transfer Theory]]
-- [[Malcolm Knowles]]
-- [[Metacognition and Self-Regulated Learning]]
-- [[Metacognitive Awareness]]
+- [[Malcolm-Knowles|Malcolm Knowles]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Reflection]]
 - [[Optimal-Challenge|Optimal Challenge]]
 - [[Overjustification-Effect|Overjustification Effect]]
@@ -258,7 +258,7 @@ extraction_summary:
 - [[Planning Fallacy]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Psychoanalysis]]
-- [[Psychological Safety]]
+- [[Psychological-Safety|Psychological Safety]]
 - [[Rationalist Epistemology]]
 - [[Reflective Practice Structures]]
 - [[Reflective Practice Theory]]
@@ -266,7 +266,7 @@ extraction_summary:
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Schema Addition]]
 - [[Schema Transformation]]
-- [[Self-Actualization]]
+- [[self-actualization]]
 - [[Self-Actualization Research]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
@@ -286,23 +286,23 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Behaviorism]] | — | — | Humanistic Learning Theory | 38 |
 | 2 | [[Psychoanalysis]] | — | — | Humanistic Learning Theory | 38 |
-| 3 | [[Humanistic Psychology]] | — | — | Humanistic Learning Theory | 38 |
-| 4 | [[Self-Actualization]] | — | — | Humanistic Learning Theory | 38 |
-| 5 | [[Self-Actualization]] | — | — | 🎯 Foundational Principles | 45 |
+| 3 | [[Humanistic-Psychology|Humanistic Psychology]] | — | — | Humanistic Learning Theory | 38 |
+| 4 | [[self-actualization]] | — | — | Humanistic Learning Theory | 38 |
+| 5 | [[self-actualization]] | — | — | 🎯 Foundational Principles | 45 |
 | 6 | [[Behaviorist Learning Theory]] | — | — | 🎯 Foundational Principles | 51 |
 | 7 | [[Freudian Psychology]] | — | — | 🎯 Foundational Principles | 51 |
-| 8 | [[Abraham Maslow]] | — | — | 📚 Historical Context and Key Theorists | 58 |
+| 8 | [[Abraham-Maslow|Abraham Maslow]] | — | — | 📚 Historical Context and Key Theorists | 58 |
 | 9 | [[Hierarchy of Needs]] | — | — | 📚 Historical Context and Key Theorists | 58 |
-| 10 | [[Self-Actualization]] | — | — | 📚 Historical Context and Key Theorists | 58 |
+| 10 | [[self-actualization]] | — | — | 📚 Historical Context and Key Theorists | 58 |
 | 11 | [[Peak Experiences]] | — | — | 📚 Historical Context and Key Theorists | 58 |
-| 12 | [[Carl Rogers]] | — | — | 📚 Historical Context and Key Theorists | 60 |
+| 12 | [[Carl-Rogers|Carl Rogers]] | — | — | 📚 Historical Context and Key Theorists | 60 |
 | 13 | [[Person-Centered Therapy]] | — | — | 📚 Historical Context and Key Theorists | 60 |
 | 14 | [[Unconditional Positive Regard]] | — | — | 📚 Historical Context and Key Theorists | 62 |
 | 15 | [[Empathic Understanding]] | — | — | 📚 Historical Context and Key Theorists | 63 |
 | 16 | [[Congruence]] | — | — | 📚 Historical Context and Key Theorists | 64 |
 | 17 | [[Cognitive Learning]] | — | — | 📚 Historical Context and Key Theorists | 66 |
 | 18 | [[Experiential Learning]] | — | — | 📚 Historical Context and Key Theorists | 66 |
-| 19 | [[Malcolm Knowles]] | — | — | 📚 Historical Context and Key Theorists | 68 |
+| 19 | [[Malcolm-Knowles|Malcolm Knowles]] | — | — | 📚 Historical Context and Key Theorists | 68 |
 | 20 | [[Andragogy]] | — | — | 📚 Historical Context and Key Theorists | 68 |
 | 21 | [[Rationalist Epistemology]] | — | — | 🧠 Cognitive Mechanisms and Learning P... | 73 |
 | 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Phenomenological Learning Cycle | 81 |
@@ -311,12 +311,12 @@ extraction_summary:
 | 25 | [[Metacognitive Reflection]] | — | — | The Phenomenological Learning Cycle | 85 |
 | 26 | [[Schema Transformation]] | — | — | The Phenomenological Learning Cycle | 85 |
 | 27 | [[Schema Addition]] | — | — | The Phenomenological Learning Cycle | 85 |
-| 28 | [[Bloom's Taxonomy]] | — | — | Affective Domain Primacy | 92 |
+| 28 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Affective Domain Primacy | 92 |
 | 29 | [[Krathwohl's Affective Domain Taxonomy]] | — | — | Affective Domain Primacy | 92 |
 | 30 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Self-Directed Learning Architecture | 108 |
-| 31 | [[Metacognitive Awareness]] | — | — | Self-Directed Learning Architecture | 110 |
+| 31 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | Self-Directed Learning Architecture | 110 |
 | 32 | [[Planning Fallacy]] | — | — | Self-Directed Learning Architecture | 112 |
-| 33 | [[Psychological Safety]] | — | — | The Facilitative Learning Environment | 125 |
+| 33 | [[Psychological-Safety|Psychological Safety]] | — | — | The Facilitative Learning Environment | 125 |
 | 34 | [[Unconditional Positive Regard]] | — | — | The Facilitative Learning Environment | 125 |
 | 35 | [[Resource Accessibility]] | — | — | The Facilitative Learning Environment | 127 |
 | 36 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Facilitative Learning Environment | 127 |
@@ -331,11 +331,11 @@ extraction_summary:
 | 45 | [[Overjustification-Effect|Overjustification Effect]] | — | — | Contrast with [[Behaviorism]] | 143 |
 | 46 | [[Black Box]] | — | — | Contrast with [[Behaviorism]] | 146 |
 | 47 | [[Constructivism]] | — | — | Alignment with [[Constructivism]] | 150 |
-| 48 | [[Constructivist Learning Theory]] | — | — | Alignment with [[Constructivism]] | 152 |
+| 48 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | Alignment with [[Constructivism]] | 152 |
 | 49 | [[Zone-of-Proximal-Development|Zone Of Proximal Development]] | — | — | Alignment with [[Constructivism]] | 159 |
 | 50 | [[Cognitivism]] | — | — | Relationship to [[Cognitivism]] | 161 |
 | 51 | [[Cognitive Learning Theory]] | — | — | Relationship to [[Cognitivism]] | 163 |
-| 52 | [[Information Processing Theory]] | — | — | Relationship to [[Cognitivism]] | 165 |
+| 52 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | Relationship to [[Cognitivism]] | 165 |
 | 53 | [[Experiential Learning Theory]] | — | — | Connection to [[Experiential Learning... | 171 |
 | 54 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Connection to [[Experiential Learning... | 173 |
 | 55 | [[Zettelkasten]] | — | — | 🎓 Implications for Self-Directed Cogn... | 190 |
@@ -343,19 +343,19 @@ extraction_summary:
 | 57 | [[Cognitive Dissonance]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
 | 58 | [[Metacognitive Reflection]] | — | — | 🎓 Implications for Self-Directed Cogn... | 197 |
 | 59 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🎓 Implications for Self-Directed Cogn... | 203 |
-| 60 | [[Deliberate Practice]] | — | — | 🎓 Implications for Self-Directed Cogn... | 207 |
+| 60 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 🎓 Implications for Self-Directed Cogn... | 207 |
 | 61 | [[Thinking Tool]] | — | — | 🎓 Implications for Self-Directed Cogn... | 208 |
-| 62 | [[Cross-Cultural Psychology]] | — | — | 🔄 Critiques and Limitations | 222 |
+| 62 | [[Cross-Cultural-Psychology|Cross-Cultural Psychology]] | — | — | 🔄 Critiques and Limitations | 222 |
 | 63 | [[Critical Pedagogy]] | — | — | 🔄 Critiques and Limitations | 224 |
 | 64 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔄 Critiques and Limitations | 228 |
 | 65 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 🔄 Critiques and Limitations | 228 |
 | 66 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🔄 Critiques and Limitations | 228 |
 | 67 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🔴 Tier 1: Foundational Prerequisites | 250 |
-| 68 | [[Metacognition and Self-Regulated Learning]] | — | — | 🔴 Tier 1: Foundational Prerequisites | 256 |
+| 68 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | 🔴 Tier 1: Foundational Prerequisites | 256 |
 | 69 | [[Constructivist Epistemology]] | — | — | 🔴 Tier 1: Foundational Prerequisites | 262 |
 | 70 | [[Experiential Learning Theory]] | — | — | 🔴 Tier 1: Foundational Prerequisites | 268 |
 | 71 | [[Intrinsic Motivation Research]] | — | — | 🟠 Tier 2: Theoretical Depth Extensions | 277 |
-| 72 | [[Flow Theory]] | — | — | 🟠 Tier 2: Theoretical Depth Extensions | 279 |
+| 72 | [[Flow-Theory|Flow Theory]] | — | — | 🟠 Tier 2: Theoretical Depth Extensions | 279 |
 | 73 | [[Optimal-Challenge|Optimal Challenge]] | — | — | 🟠 Tier 2: Theoretical Depth Extensions | 279 |
 | 74 | [[Autotelic Experience]] | — | — | 🟠 Tier 2: Theoretical Depth Extensions | 279 |
 | 75 | [[Affective Domain Learning]] | — | — | 🟠 Tier 2: Theoretical Depth Extensions | 282 |
@@ -370,7 +370,7 @@ extraction_summary:
 | 84 | [[Personal Knowledge Management Systems]] | — | — | 🟢 Tier 4: Implementation & Integration | 333 |
 | 85 | [[Learning Transfer Theory]] | — | — | 🟢 Tier 4: Implementation & Integration | 338 |
 | 86 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🗺️ Suggested Learning Path | 351 |
-| 87 | [[Metacognition and Self-Regulated Learning]] | — | — | 🗺️ Suggested Learning Path | 351 |
+| 87 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | 🗺️ Suggested Learning Path | 351 |
 | 88 | [[Constructivist Epistemology]] | — | — | 🗺️ Suggested Learning Path | 355 |
 | 89 | [[Experiential Learning Theory]] | — | — | 🗺️ Suggested Learning Path | 355 |
 | 90 | [[Behaviorist Learning Theory]] | — | — | 🗺️ Suggested Learning Path | 359 |
@@ -454,7 +454,7 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Abraham Maslow]]
+- [[Abraham-Maslow|Abraham Maslow]]
 - [[Adult Learning Theory (Andragogy)]]
 - [[Affective Domain Learning]]
 - [[Aha Moments]]
@@ -463,8 +463,8 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Behaviorism]]
 - [[Behaviorist Learning Theory]]
 - [[Black Box]]
-- [[Bloom's Taxonomy]]
-- [[Carl Rogers]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Carl-Rogers|Carl Rogers]]
 - [[Cognitive Dissonance]]
 - [[Cognitive Learning]]
 - [[Cognitive Learning Theory]]
@@ -475,29 +475,29 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Constructivism]]
 - [[Constructivist Epistemology]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Critical Pedagogy]]
-- [[Cross-Cultural Psychology]]
-- [[Deliberate Practice]]
+- [[Cross-Cultural-Psychology|Cross-Cultural Psychology]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Empathic Understanding]]
 - [[Experiential Learning]]
 - [[Experiential Learning Theory]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Flow Theory and Optimal Experience]]
 - [[Freudian Psychology]]
 - [[Heutagogy]]
 - [[Hierarchy of Needs]]
-- [[Humanistic Psychology]]
-- [[Information Processing Theory]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Intrinsic Motivation Research]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Krathwohl's Affective Domain Taxonomy]]
 - [[Learning Transfer Theory]]
-- [[Malcolm Knowles]]
-- [[Metacognition and Self-Regulated Learning]]
-- [[Metacognitive Awareness]]
+- [[Malcolm-Knowles|Malcolm Knowles]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Reflection]]
 - [[Optimal-Challenge|Optimal Challenge]]
 - [[Overjustification-Effect|Overjustification Effect]]
@@ -509,7 +509,7 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Planning Fallacy]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Psychoanalysis]]
-- [[Psychological Safety]]
+- [[Psychological-Safety|Psychological Safety]]
 - [[Rationalist Epistemology]]
 - [[Reflective Practice Structures]]
 - [[Reflective Practice Theory]]
@@ -517,7 +517,7 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Schema Addition]]
 - [[Schema Transformation]]
-- [[Self-Actualization]]
+- [[self-actualization]]
 - [[Self-Actualization Research]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]

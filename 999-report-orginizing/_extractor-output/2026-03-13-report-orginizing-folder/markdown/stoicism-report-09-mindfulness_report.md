@@ -384,11 +384,11 @@ extraction_summary:
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Logos]]
 - [[MBSR - Clinical Research Summary]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Memento Mori]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
@@ -400,7 +400,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 ### All Occurrences
 
@@ -412,12 +412,12 @@ extraction_summary:
 | 4 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
 | 5 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
 | 6 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
-| 7 | [[Marcus Aurelius]] | — | — | Part 1: Introducing the Comparison — ... | 260 |
+| 7 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 1: Introducing the Comparison — ... | 260 |
 | 8 | [[Siddhartha Gautama]] | — | — | Part 1: Introducing the Comparison — ... | 264 |
 | 9 | [[Logos]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
 | 10 | [[Prohairesis]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
 | 11 | [[Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
-| 12 | [[Marcus Aurelius]] | — | — | Part 2: Portrait of Framework A — Sto... | 284 |
+| 12 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: Portrait of Framework A — Sto... | 284 |
 | 13 | [[Epictetus]] | — | — | Part 2: Portrait of Framework A — Sto... | 290 |
 | 14 | [[Prosoche]] | — | — | Part 2: Portrait of Framework A — Sto... | 294 |
 | 15 | [[Seneca]] | — | — | Part 2: Portrait of Framework A — Sto... | 299 |
@@ -428,10 +428,10 @@ extraction_summary:
 | 20 | [[Apatheia]] | — | — | Convergence 4: Equanimity as the Idea... | 378 |
 | 21 | [[Logos]] | — | — | Divergence 1: The Nature of the Self | 401 |
 | 22 | [[Logos]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 425 |
-| 23 | [[Marcus Aurelius]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 425 |
-| 24 | [[Virtue Ethics]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
+| 23 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 425 |
+| 24 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
 | 25 | [[Eudaimonia]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
-| 26 | [[Pierre Hadot]] | — | — | Part 6: The Integration Opportunity —... | 459 |
+| 26 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 6: The Integration Opportunity —... | 459 |
 | 27 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Integration Opportunity —... | 466 |
 | 28 | [[Eudaimonia]] | — | — | Part 6: The Integration Opportunity —... | 466 |
 | 29 | [[Alexander the Great]] | — | — | Part 7: Historical Connections — Did ... | 490 |
@@ -490,11 +490,11 @@ extraction_summary:
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Logos]]
 - [[MBSR - Clinical Research Summary]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Memento Mori]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
@@ -506,7 +506,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 ### Frontmatter Relationships
 
@@ -520,7 +520,7 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Mindfulness]]
@@ -534,7 +534,7 @@ extraction_summary:
 - [[Jon Kabat-Zinn]]
 - [[Mindfulness-Based Stress Reduction]]
 - [[Impermanence]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Present Moment Awareness]]
 
 #### Broader
@@ -542,7 +542,7 @@ extraction_summary:
 - [[Philosophy MOC]]
 - [[Contemplative Traditions]]
 - [[Comparative Philosophy]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 #### Narrower
 
@@ -556,9 +556,9 @@ extraction_summary:
 
 #### See Also
 
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Mindfulness-Based Cognitive Therapy]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Epictetan Three Disciplines]]
 - [[Buddhist Psychology]]
 - [[Hellenistic Philosophy and Indian Philosophy]]

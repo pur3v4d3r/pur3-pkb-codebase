@@ -144,7 +144,7 @@ extraction_summary:
 #### 6. [CONNECTIONS-AND-LINKS] Untitled *(Line 83)*
 
 > [!connections-and-links] Untitled
-> Modern [[PKM]] systems represent the practical application of systems principles that emerged from mid-century cybernetics and systems theory. When we create interconnected note systems in tools like [[obsidian]], implement [[Progressive-Summarization|Progressive Summarization]], or build [[Maps-of-Content-—-MOCs|Maps of Content]], we are applying systems thinking to knowledge work—creating structures that enable [[Emergence|emergent]] insights through component interactions, establishing feedback loops that guide attention and effort, and building internal variety that matches the complexity of our intellectual environment.
+> Modern [[PKM]] systems represent the practical application of systems principles that emerged from mid-century cybernetics and systems theory. When we create interconnected note systems in tools like [[Obsidian]], implement [[Progressive-Summarization|Progressive Summarization]], or build [[Maps-of-Content-—-MOCs|Maps of Content]], we are applying systems thinking to knowledge work—creating structures that enable [[Emergence|emergent]] insights through component interactions, establishing feedback loops that guide attention and effort, and building internal variety that matches the complexity of our intellectual environment.
 
 #### 7. [DEFINITION] Untitled *(Line 92)*
 
@@ -320,9 +320,9 @@ extraction_summary:
 - [[2025-11-24]]
 - [[Activation Energy]]
 - [[Agile Software Development]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Anki]]
-- [[Barry Schwartz]]
+- [[Barry-Schwartz|Barry Schwartz]]
 - [[Bluma Zeigarnik]]
 - [[Building a Second Brain]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
@@ -335,7 +335,7 @@ extraction_summary:
 - [[Cybernetics]]
 - [[Damocles]]
 - [[David Allen]]
-- [[David Chalmers]]
+- [[David-Chalmers|David Chalmers]]
 - [[David Pauleen]]
 - [[David Rapp]]
 - [[Decentralization]]
@@ -351,14 +351,14 @@ extraction_summary:
 - [[Extraneous-Load|Extraneous Load]]
 - [[Feedback Loops]]
 - [[Flow State]]
-- [[Fred Paas]]
+- [[Fred-Paas|Fred Paas]]
 - [[Friction]]
 - [[General Systems Theory]]
 - [[Germane-Load|Germane Load]]
 - [[Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
 - [[Herbert Simon]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Hierarchical Task Network Planning]]
 - [[Hydra]]
 - [[Information Anxiety]]
@@ -367,7 +367,7 @@ extraction_summary:
 - [[Interstitial Journaling]]
 - [[Intrinsic-Load|Intrinsic Load]]
 - [[J.C.R. Licklider]]
-- [[John Sweller]]
+- [[John-Sweller|John Sweller]]
 - [[Kenneth Kiewra]]
 - [[Kirby Wright]]
 - [[Law of Requisite Variety]]
@@ -376,7 +376,7 @@ extraction_summary:
 - [[Louis Rosenfeld]]
 - [[Ludwig von Bertalanffy]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Minimum Viable System]]
 - [[Nassim Nicholas Taleb]]
 - [[Nassim Taleb]]
@@ -424,9 +424,9 @@ extraction_summary:
 - [[Yaneer Bar-Yam]]
 - [[Zeigarnik Effect]]
 - [[decision fatigue]]
-- [[flow]]
+- [[Flow]]
 - [[hormesis]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[para method]]
 - [[zettelkasten method]]
 
@@ -469,14 +469,14 @@ extraction_summary:
 | 33 | [[Tiago Forte]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 34 | [[para method]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 35 | [[PKM]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
-| 36 | [[obsidian]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
+| 36 | [[Obsidian]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
 | 37 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
 | 38 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
 | 39 | [[Emergence]] | emergent | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
 | 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | ⚙️ Foundational Principles: The Archi... | 88 |
 | 41 | [[Information-Architecture|Information Architecture]] | — | — | ⚙️ Foundational Principles: The Archi... | 88 |
 | 42 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | ⚙️ Foundational Principles: The Archi... | 90 |
-| 43 | [[John Sweller]] | — | — | ⚙️ Foundational Principles: The Archi... | 90 |
+| 43 | [[John-Sweller|John Sweller]] | — | — | ⚙️ Foundational Principles: The Archi... | 90 |
 | 44 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | ⚙️ Foundational Principles: The Archi... | 90 |
 | 45 | [[Working-Memory|Working Memory]] | — | — | ⚙️ Foundational Principles: The Archi... | 90 |
 | 46 | [[Cognitive-Load|Cognitive Load]] | — | — | ⚙️ Foundational Principles: The Archi... | 93 |
@@ -500,8 +500,8 @@ extraction_summary:
 | 64 | [[William Jones]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 139 |
 | 65 | [[PKM]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 144 |
 | 66 | [[Building a Second Brain]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 144 |
-| 67 | [[flow]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
-| 68 | [[Mihaly Csikszentmihalyi]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
+| 67 | [[Flow]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
+| 68 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
 | 69 | [[Flow State]] | Flow | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
 | 70 | [[David Allen]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 150 |
 | 71 | [[Getting Things Done]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 150 |
@@ -510,7 +510,7 @@ extraction_summary:
 | 74 | [[Wendy Wood]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 157 |
 | 75 | [[Activation Energy]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 164 |
 | 76 | [[decision fatigue]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
-| 77 | [[Barry Schwartz]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
+| 77 | [[Barry-Schwartz|Barry Schwartz]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 78 | [[Paradox of Choice]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 79 | [[Herbert Simon]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 170 |
 | 80 | [[Interstitial Journaling]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 177 |
@@ -533,10 +533,10 @@ extraction_summary:
 | 97 | [[Getting Things Done]] | — | — | 📊 Empirical Evidence: What Research R... | 205 |
 | 98 | [[Bluma Zeigarnik]] | — | — | 📊 Empirical Evidence: What Research R... | 205 |
 | 99 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 📊 Empirical Evidence: What Research R... | 210 |
-| 100 | [[Hermann Ebbinghaus]] | — | — | 📊 Empirical Evidence: What Research R... | 210 |
+| 100 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 📊 Empirical Evidence: What Research R... | 210 |
 | 101 | [[Anki]] | — | — | 📊 Empirical Evidence: What Research R... | 210 |
 | 102 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📊 Empirical Evidence: What Research R... | 212 |
-| 103 | [[Fred Paas]] | — | — | 📊 Empirical Evidence: What Research R... | 212 |
+| 103 | [[Fred-Paas|Fred Paas]] | — | — | 📊 Empirical Evidence: What Research R... | 212 |
 | 104 | [[Creativity]] | — | — | 📊 Empirical Evidence: What Research R... | 214 |
 | 105 | [[Liane Gabora]] | — | — | 📊 Empirical Evidence: What Research R... | 214 |
 | 106 | [[Niklas Luhmann]] | — | — | 📊 Empirical Evidence: What Research R... | 219 |
@@ -568,8 +568,8 @@ extraction_summary:
 | 132 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 279 |
 | 133 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 279 |
 | 134 | [[03-notes/01_permanent-notes/01_cognitive-development/Antifragility]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 279 |
-| 135 | [[Andy Clark]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 281 |
-| 136 | [[David Chalmers]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 281 |
+| 135 | [[Andy-Clark|Andy Clark]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 281 |
+| 136 | [[David-Chalmers|David Chalmers]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 281 |
 | 137 | [[Extended Mind]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 281 |
 | 138 | [[Systems Design Thinking]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 290 |
 | 139 | [[Separation of Concerns]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 292 |
@@ -679,9 +679,9 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[2025-11-24]]
 - [[Activation Energy]]
 - [[Agile Software Development]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Anki]]
-- [[Barry Schwartz]]
+- [[Barry-Schwartz|Barry Schwartz]]
 - [[Bluma Zeigarnik]]
 - [[Building a Second Brain]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
@@ -694,7 +694,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Cybernetics]]
 - [[Damocles]]
 - [[David Allen]]
-- [[David Chalmers]]
+- [[David-Chalmers|David Chalmers]]
 - [[David Pauleen]]
 - [[David Rapp]]
 - [[Decentralization]]
@@ -710,14 +710,14 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Extraneous-Load|Extraneous Load]]
 - [[Feedback Loops]]
 - [[Flow State]]
-- [[Fred Paas]]
+- [[Fred-Paas|Fred Paas]]
 - [[Friction]]
 - [[General Systems Theory]]
 - [[Germane-Load|Germane Load]]
 - [[Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
 - [[Herbert Simon]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Hierarchical Task Network Planning]]
 - [[Hydra]]
 - [[Information Anxiety]]
@@ -726,7 +726,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Interstitial Journaling]]
 - [[Intrinsic-Load|Intrinsic Load]]
 - [[J.C.R. Licklider]]
-- [[John Sweller]]
+- [[John-Sweller|John Sweller]]
 - [[Kenneth Kiewra]]
 - [[Kirby Wright]]
 - [[Law of Requisite Variety]]
@@ -735,7 +735,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Louis Rosenfeld]]
 - [[Ludwig von Bertalanffy]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Minimum Viable System]]
 - [[Nassim Nicholas Taleb]]
 - [[Nassim Taleb]]
@@ -783,9 +783,9 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Yaneer Bar-Yam]]
 - [[Zeigarnik Effect]]
 - [[decision fatigue]]
-- [[flow]]
+- [[Flow]]
 - [[hormesis]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[para method]]
 - [[zettelkasten method]]
 

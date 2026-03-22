@@ -350,7 +350,7 @@ extraction_summary:
 #### 22. [CONNECTION-IDEAS] Untitled *(Line 363)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of **[[Personal Knowledge Management]] (PKM)** and systems like [[Zettelkasten]].
+> The principles discussed here strongly connect to the field of **[[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM)** and systems like [[Zettelkasten]].
 > 
 >   - A common failure in PKM is creating "blob" notes—large, undifferentiated walls of text on a topic.
 >   - A "Zettelkasten" note, by contrast, is "atomic"—it's about *one idea, one concept.*
@@ -451,7 +451,7 @@ extraction_summary:
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 
 > 1.  `[[Task Decomposition]]`
-> 1.  `[[Chain of Thought (CoT)]]`
+> 1.  `[[Chain-of-Thought|Chain of Thought (CoT)]]`
 > 1.  `[[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]`
 
 #### 29. [QUESTION] Untitled *(Line 476)*
@@ -474,8 +474,8 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Personal Knowledge Management]]
-- [[Chain of Thought (CoT)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Chain-of-Thought|Chain of Thought (CoT)]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Logos and Control Link]]
@@ -489,7 +489,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Project Management]] | — | — | 4.2 🌳 Hierarchical Decomposition (The... | 258 |
-| 2 | [[Personal Knowledge Management]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
+| 2 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
 | 3 | [[Zettelkasten]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
 | 4 | [[Stoic Logos]] | — | — | 6\. 🌍 Broader Implications and Signif... | 370 |
 | 5 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 371 |
@@ -497,7 +497,7 @@ extraction_summary:
 | 7 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 372 |
 | 8 | [[Logos and Control Link]] | — | — | 6\. 🌍 Broader Implications and Signif... | 372 |
 | 9 | [[Task Decomposition]] | — | — | 9. 🧠 Key Questions for Active Reading... | 472 |
-| 10 | [[Chain of Thought (CoT)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 473 |
+| 10 | [[Chain-of-Thought|Chain of Thought (CoT)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 473 |
 | 11 | [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 474 |
 
 ---
@@ -564,8 +564,8 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Personal Knowledge Management]]
-- [[Chain of Thought (CoT)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Chain-of-Thought|Chain of Thought (CoT)]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Logos and Control Link]]

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -64,16 +64,24 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[phronesis]]"
+  - "[[Phronesis]]"
   - "[[Gerd-Gigerenzer|Gerd Gigerenzer]]"
-  - "[[kathekon]]"
+  - "[[Kathekon]]"
   - "[[hormê]]"
   - "[[Aristotle]]"
   - "[[Gary-Klein|Gary Klein]]"
   - "[[Naturalistic-Decision-Making|Naturalistic Decision Making]]"
   - "[[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]"
   - "[[Gerd-Gigerenzer|Gerd Gigerenzer]]"
-  - "[[kathekon|kathekon]]"
+  - "[[Kathekon|kathekon]]"
+  - "[[hormê|hormê]]"
+  - "[[Aristotle|Aristotle]]"
+  - "[[Gary-Klein|Gary Klein]]"
+  - "[[Naturalistic-Decision-Making|Naturalistic Decision Making]]"
+  - "[[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]"
+  - "[[Ecological-Rationality|Ecological Rationality]]"
+  - "[[Gerd-Gigerenzer|Gerd Gigerenzer]]"
+  - "[[Kathekon|kathekon]]"
   - "[[hormê|hormê]]"
   - "[[Aristotle|Aristotle]]"
   - "[[Gary-Klein|Gary Klein]]"
@@ -142,8 +150,12 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[phronesis]] · [[Gerd-Gigerenzer|Gerd Gigerenzer]] · [[kathekon]] · [[hormê]] · [[Aristotle]] · [[Gary-Klein|Gary Klein]] · [[Naturalistic-Decision-Making|Naturalistic Decision Making]] · [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] · [[Ecological-Rationality|Ecological Rationality]] · [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] · [[Frank-Knight|Frank Knight]] · [[Knightian-Uncertainty|Knightian Uncertainty]] · [[John-Kay|John Kay]] · [[Mervyn-King|Mervyn King]] · [[Aristotle]]
+[[Phronesis]] · [[Gerd-Gigerenzer|Gerd Gigerenzer]] · [[Kathekon]] · [[hormê]] · [[Aristotle]] · [[Gary-Klein|Gary Klein]] · [[Naturalistic-Decision-Making|Naturalistic Decision Making]] · [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] · [[Ecological-Rationality|Ecological Rationality]] · [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] · [[Frank-Knight|Frank Knight]] · [[Knightian-Uncertainty|Knightian Uncertainty]] · [[John-Kay|John Kay]] · [[Mervyn-King|Mervyn King]] · [[Aristotle]]
 
 **Related concepts** *(from report-11-the-practical-reasoner.md)*:
 [[Gerd-Gigerenzer|Gerd Gigerenzer]] * [[Gary-Klein|Gary Klein]] * [[Naturalistic-Decision-Making|Naturalistic Decision Making]] * [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] * [[Ecological-Rationality|Ecological Rationality]] * [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] * [[Frank-Knight|Frank Knight]] * [[Knightian-Uncertainty|Knightian Uncertainty]] * [[John-Kay|John Kay]] * [[Mervyn-King|Mervyn King]] * [[Nicomachean-Ethics|Nicomachean Ethics]] * [[theoretical-wisdom|theoretical wisdom]] * [[Kristjan-Kristjansson|Kristjan Kristjansson]] * [[Byron-Fowers|Byron Fowers]] * [[Barry-Schwartz|Barry Schwartz]]
+
+**Related concepts** *(from report-11-the-practical-reasoner.md)*:
+[[Gerd-Gigerenzer|Gerd Gigerenzer]] * [[Gary-Klein|Gary Klein]] * [[Naturalistic-Decision-Making|Naturalistic Decision Making]] * [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] * [[Ecological-Rationality|Ecological Rationality]] * [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] * [[Frank-Knight|Frank Knight]] * [[Knightian-Uncertainty|Knightian Uncertainty]] * [[John-Kay|John Kay]] * [[Mervyn-King|Mervyn King]] * [[Nicomachean-Ethics|Nicomachean Ethics]] * [[theoretical-wisdom|theoretical wisdom]] * [[Kristjan-Kristjansson|Kristjan Kristjansson]] * [[Byron-Fowers|Byron Fowers]] * [[Barry-Schwartz|Barry Schwartz]]
+
 

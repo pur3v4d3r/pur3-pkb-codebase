@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,6 +44,9 @@ source-reports:
   - "06-science-of-remembering-pkm-framework-2026-03-13"
   - "metacognition-and-critical-thinking-foundational-report-2026-03-05.md"
   - "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+  - "metacognition-in-learning-focused-analysis-2026-03-20.md"
+  - "metacognitive-scaffolding-focused-analysis-2026-03-20.md"
+  - "writing-techniques-effective-learning-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -77,16 +80,24 @@ see-also:
   - "[[12-the-reflective-pkb-pkm-framework]]"
   - "[[16-desirable-difficulties-by-design-pkm-framework]]"
   - "[[20-retrieval-enhanced-knowledge-networks-pkm-framework]]"
-  - "[[metacognition|metacognition]]"
-  - "[[Critical-thinking|Critical thinking]]"
+  - "[[Metacognition|metacognition]]"
+  - "[[Critical-Thinking|Critical thinking]]"
   - "[[John-Hattie|John Hattie]]"
   - "[[John-H.-Flavell|John H. Flavell]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Ann-Brown|Ann Brown]]"
   - "[[Socrates|Socrates]]"
   - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[metacognition|metacognition]]"
-  - "[[Critical-thinking|Critical thinking]]"
+  - "[[Metacognition|metacognition]]"
+  - "[[Critical-Thinking|Critical thinking]]"
+  - "[[John-Hattie|John Hattie]]"
+  - "[[John-H.-Flavell|John H. Flavell]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Ann-Brown|Ann Brown]]"
+  - "[[Socrates|Socrates]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[Metacognition|metacognition]]"
+  - "[[Critical-Thinking|Critical thinking]]"
   - "[[John-Hattie|John Hattie]]"
   - "[[John-H.-Flavell|John H. Flavell]]"
   - "[[John-Dewey|John Dewey]]"
@@ -173,6 +184,66 @@ importance: high
 > [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
 > Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
 
+> [!evidence] Supporting Evidence *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Research by Rawson and Dunlosky (2002) presented learners with texts and asked them to make comprehension judgments (JOLs) after reading. When texts were presented in a more difficult-to-read font (inducing disfluency), learners rated their comprehension *lower* — but actually *performed better* on subsequent tests. The monitoring signal (ease-of-processing) was inversely correlated with actual learning, while learners interpreted it as a positive comprehension indicator. The monitoring system was working — it was accurately detecting phenomenological ease — but interpreting that ease in a direction opposite to its actual evidential value.
+
+> [!evidence] Supporting Evidence *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> The fluency heuristic is not irrational in its origins. In most real-world contexts outside formal learning, ease of processing genuinely correlates with familiarity and prior exposure, which in turn correlates with available knowledge. The problem is that instructional design — especially clear explanations, well-organized presentations, and worked examples — systematically creates fluency *without* corresponding durable learning. The monitoring system is using a heuristic that worked well for its evolutionary and developmental context, but is systematically miscalibrated for the modern learning environment. This is not a failure of intelligence — it is an architectural mismatch.
+
+> [!evidence] Supporting Evidence *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> The convergent implication of the Dunning-Kruger research, the FOK literature, and the fluency illusion findings is that metacognitive monitoring accuracy is not a stable skill that transfers readily across domains — it is substantially domain-specific, developing alongside domain expertise and sharing its scaffolding. This means the common educational prescription to "teach metacognitive skills" as a domain-independent curriculum is partially misconceived. Metacognitive skill must be developed *in context*, with domain-appropriate calibration points, not as a generic transferable competence.
+
+> [!evidence] Supporting Evidence *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> King's study of reciprocal questioning, in which students were trained to generate and answer metacognitive questions about text they were reading ("How does this connect to what I already know?" "What evidence supports this claim?"), found significant gains in comprehension and knowledge integration compared to both reading-only and question-answering-only control conditions. The key finding was that the benefit came specifically from question generation, not question answering — suggesting that the monitoring act of formulating a question was the active ingredient, not the content of any answer.
+
+> [!evidence] Supporting Evidence *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> The IMPROVE instructional programme (Introducing new concepts, Metacognitive questioning, Practising, Reviewing, Obtaining mastery, Verifying, and Enriching) trained students in explicit metacognitive questioning during problem-solving. Students in IMPROVE conditions significantly outperformed control students on both standard and novel problem-solving tasks. Notably, effect sizes were larger for the novel transfer tasks than for the standard practiced tasks — suggesting that metacognitive scaffolding had trained a generalisable capacity rather than merely encoding task-specific procedures.
+
+> [!evidence] Supporting Evidence *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> Studies by Thiede and colleagues (Thiede & Anderson, 2003; Thiede, Anderson, & Therriault, 2003) on summary-writing as a metacognitive scaffolding technique found that delayed summary generation produced accurate monitoring of text comprehension. Students could correctly identify which texts they understood poorly. However, when given free choice about which texts to restudy, students did not consistently prioritise the texts their own monitoring identified as poorly understood. The monitoring signal was accurate; the control response was not reliably calibrated to it. This pattern — monitoring success, control failure — appears repeatedly across domains and represents, in my view, one of the most important underappreciated findings in the scaffolding literature.
+
+> [!evidence] Supporting Evidence *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> The evidentiary pattern across writing-to-learn studies is consistent: the learning gain is not primarily a function of how much students write but of what kind of writing they do. Open-ended writing tasks requiring reorganisation, explanation, and generation of examples produce reliably larger learning gains than structured tasks that permit close paraphrase of source material. This suggests that the pedagogical practice of assigning more writing is potentially misguided — what matters is assigning the right kind.
+
+> [!evidence] Supporting Evidence *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> A consistent moderator in the elaborative interrogation literature is the learner's existing knowledge of the domain. When prior knowledge is rich, elaboration dramatically accelerates integration — the new information has many anchors to attach to. When prior knowledge is sparse, elaboration can produce confusion or superficial connections that fragment rather than integrate. This expertise-sensitivity means that elaborative interrogation is differentially effective: it is a powerful technique for learners with some foundational understanding of a domain, but a potentially counterproductive one for complete novices encountering highly unfamiliar material.
+
+> [!evidence] Supporting Evidence *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> What the fluency illusion research suggests, taken together with the generative constraint framework, is that conventional educational writing practice systematically trains learners in the wrong metacognitive calibration. Students are repeatedly rewarded for producing clean, complete, detailed notes — external markers of diligence that bear little relationship to internal learning. Over years of this training, they come to associate the feeling of productive effort with writing that is detailed and faithful, when the research consistently shows that productive effort is associated with writing that is effortful, incomplete, and self-generated. The reform of writing practice requires not just telling students different techniques — it requires rebuilding their metacognitive standards for what "feeling like learning" should feel like.
+
+> [!analytical-insight] Key Insight *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Effective metacognitive regulation requires three conditions to hold simultaneously: (1) monitoring must produce accurate signals, (2) those signals must cross the motivational-attentional threshold required for regulatory action, and (3) an adequate regulatory response must be available. Most interventions target only condition 1. The analysis argues that conditions 2 and 3 are equally critical and substantially undertreated.
+
+> [!analytical-insight] Key Insight *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Research on [[Metacognitive-Calibration|metacognitive calibration]] has shown that more calibrated learners — those whose confidence better predicts their actual performance — do not consistently outperform less calibrated learners on learning outcomes. This is puzzling if monitoring accuracy is the primary driver of effective self-regulation. The resolution points toward the coupling: calibration training improves the *accuracy* of monitoring signals without necessarily strengthening the *mechanisms* that translate those signals into regulatory action. Accurate monitoring is a necessary but insufficient condition for effective self-regulation. The coupling must also be intact.
+
+> [!analytical-insight] Key Insight *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> Metacognitive scaffolding functions as a temporary external prosthetic for an internal process that is developmentally immature, situationally impaired, or constitutively unreliable in the domain in question. This framing has two important consequences: (1) it specifies that the goal of scaffolding is to build the internal process, not merely to support performance; (2) it implies that scaffolding which is too comfortable — that substitutes for rather than develops the internal process — will produce the same outcome as any prosthetic used beyond its developmental purpose: permanent functional deficit rather than recovery.
+
+> [!analytical-insight] Key Insight *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> A well-documented tension exists between interventions that improve metacognitive calibration (the accuracy of judgments of learning) and interventions that improve learning achievement. These are often treated as equivalent outcomes, but the evidence does not support that conflation. Hacker and colleagues (2000) found that students could be trained to make more accurate predictions about their performance — genuine calibration gains — without those gains translating into changes in study behavior or achievement. This dissociation suggests that accurate monitoring alone is insufficient; what is required is a trained and reliable coupling between monitoring output and control response. The scaffolding literature has invested heavily in the monitoring side of this coupling while largely neglecting the control side.
+
+> [!analytical-insight] Key Insight *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> For a writing technique to produce durable learning, it must engage the learner in processing that creates, elaborates, or strengthens connections in long-term memory. Transcription occupies working memory without creating these connections. Generation, elaboration, and retrieval do.
+
+> [!analytical-insight] Key Insight *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> There is a genuine tension in the retrieval practice literature between the benefits of effortful recall and the risk of consolidating errors. When learners retrieve inaccurate information, they can strengthen incorrect memories — a finding documented in the "testing effect with corrective feedback" literature (Butler, 2010). This means that writing from memory is not unconditionally superior to consulting sources: it is superior when combined with feedback — checking reconstructed notes against original material to correct errors. Retrieval practice without feedback can produce confident misconceptions. This is a limitation that practical implementations of retrieval-based writing must explicitly address.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -216,10 +287,10 @@ importance: high
 > Implementing spaced repetition in a PKB through flashcard-style review risks over-atomizing knowledge — reducing complex, interconnected understanding to discrete retrievable items that can be recalled in isolation but not integrated in application. The [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] is powerful, but it is most powerful when the retrieval cues and practice conditions match intended application contexts. A PKB designed entirely around SRS for factual recall may produce excellent performance on isolated…
 
 > [!example] **Application** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
-> The most effective reflection prompts are not open-ended ("What did you learn?") but specifically targeted at metacognitive dimensions: "What was the hardest part of this task, and why do you think you found it hard?" / "What strategy did you use, and would you use it again?" / "What would you need to understand better to improve your performance?" Research by [[John Hattie]] and [[Gregory Yates]] on visible learning confirms that specific, actionable feedback on learning processes (not just outcomes) produces significantly stronger learning gains than generic feedback.
+> The most effective reflection prompts are not open-ended ("What did you learn?") but specifically targeted at metacognitive dimensions: "What was the hardest part of this task, and why do you think you found it hard?" / "What strategy did you use, and would you use it again?" / "What would you need to understand better to improve your performance?" Research by [[John-Hattie]] and [[Gregory-Yates]] on visible learning confirms that specific, actionable feedback on learning processes (not just outcomes) produces significantly stronger learning gains than generic feedback.
 
 > [!example] **Application** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
-> [[King and Kitchener]]'s research on reflective judgment development suggests that genuine critical thinking development requires sustained engagement with *ill-structured problems* — problems where the evidence is incomplete, where experts disagree, and where multiple reasonable positions are defensible. Well-structured problems with clear correct answers can be solved by algorithm; ill-structured problems require the full apparatus of metacognitive monitoring and critical evaluation. Curricula that consist primarily of well-structured problems, however, fail to develop this capacity — producing students who can perform within the known structure but are disoriented by genuine intellectual complexity.
+> [[King-and-Kitchener]]'s research on reflective judgment development suggests that genuine critical thinking development requires sustained engagement with *ill-structured problems* — problems where the evidence is incomplete, where experts disagree, and where multiple reasonable positions are defensible. Well-structured problems with clear correct answers can be solved by algorithm; ill-structured problems require the full apparatus of metacognitive monitoring and critical evaluation. Curricula that consist primarily of well-structured problems, however, fail to develop this capacity — producing students who can perform within the known structure but are disoriented by genuine intellectual complexity.
 
 > [!example] **Application** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
 > A practical, evidence-based metacognitive protocol for any learning task:
@@ -235,6 +306,34 @@ importance: high
 
 > [!warning] **Key Distinction** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
 > One of the most persistent and consequential metacognitive errors in professional life is the equation of experience with competence. Research consistently shows that professional experience does not automatically produce skill improvement — and in some domains, inexperienced practitioners perform as well as or better than highly experienced ones on standardized assessments. Experience produces improvement only when it is accompanied by accurate feedback that allows monitoring signals to be calibrated against reality. Without that feedback, experience merely calcifies existing approaches, accurate or not. This pattern — called [[pseudoexpertise]] in some research traditions — is particularly dangerous in domains where feedback is delayed, ambiguous, or absent.
+
+> [!example] **Application** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Effective metacognitive training addresses all three mechanisms: (1) Replace fluency cues with retrieval cues by building low-stakes testing into every learning session before the learner judges their comprehension. (2) Increase threshold sensitivity by requiring explicit comprehension ratings *before* testing, creating a salient discrepancy when testing reveals miscalibration. (3) Expand the regulatory repertoire by teaching 3–5 specific strategic responses to different types of comprehension failure, practiced until they are fluent and automatically accessible. Each component is necessary; none is sufficient alone.
+
+> [!example] **Application** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> Design metacognitive scaffolding with explicit intentions about which component is being targeted. Monitoring scaffolds should be placed before or during learning tasks, at points where the learner is generating a judgment about their epistemic state. Control scaffolds should be placed after monitoring outputs are produced, providing structured decision frameworks for what to do in response to different monitoring outcomes. A well-designed intervention includes both, explicitly linked: "First, assess [monitoring scaffold]; then, based on your assessment, select from these responses [control scaffold]."
+
+> [!example] **Application** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> The open-ended reflective question — "What are you finding difficult about this material and why?" — is a valuable metacognitive scaffold when learners have sufficient resources to engage with it thoughtfully. Under high cognitive load, it is an additional demand on an already stressed system. A tiered approach — brief structured prompts during high-load task phases, richer reflective questions at phase boundaries — responds to this constraint without eliminating metacognitive scaffolding altogether.
+
+> [!example] **Application** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> The single most reliable heuristic derivable from the generative constraint framework is this: for any writing task intended to produce learning (rather than documentation), close the source before you write. Whether you are writing a summary, answering a question, generating an explanation, or building a concept map — the generative constraint is activated only when you cannot simply copy. The act of closing the source transforms a potential transcription task into a mandatory retrieval task. This one habit change, consistently applied, reorders the entire writing-for-learning enterprise.
+
+> [!example] **Application** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> Rather than writing notes as assertions ("X is Y"), write them as claims requiring justification ("X is Y **because** of mechanism Z, which implies that..."). The "because" and the "implies" are the generative operations. A note written as a bare assertion is knowledge-telling: it records a belief. A note written as a justified claim is knowledge-transforming: it creates a connection structure that will support retrieval in multiple contexts.
+
+> [!warning] **Key Distinction** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Personal Knowledge Base practices that emphasize re-reading, re-reviewing, and reorganizing notes are particularly vulnerable to the fluency trap. Reviewing existing notes produces familiarity and fluency without generating the retrieval-challenge signals that produce accurate monitoring. A PKB practice that includes regular "blank page" recall attempts — trying to reproduce note content without looking at the notes — provides the monitoring system with genuine information about what is actually retained versus merely familiar. The subjective discomfort of this practice is precisely the high-validity monitoring signal that makes it valuable.
+
+> [!warning] **Key Distinction** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> The effectiveness of a metacognitive scaffolding program, measured in the environment where it was implemented, is not a reliable predictor of its effectiveness as a capacity-building intervention. A program can produce excellent metacognitive performance within its training environment while producing essentially zero transfer to independent, unscaffolded contexts. This outcome is not merely suboptimal — it may be actively counterproductive if the scaffolded performance creates an illusion of developed capacity that delays the learner (or their instructor) from seeking the additional development that is actually needed.
+
+
+
+
+
+
+
 
 
 
@@ -260,6 +359,30 @@ importance: high
 > 2. How does the Vygotskian insight — that self-regulation originates in social interaction — change how you think about the role of teachers, mentors, and peers in developing metacognitive skill?
 > 3. Consider the distinction between declarative, procedural, and conditional metacognitive knowledge. Can you identify a learning strategy you know *about* but rarely use well? Is the gap declarative, procedural, or conditional?
 
+> [!reflection] **Reflect** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Before reading this analysis, take a moment to articulate your current understanding of the relationship between *knowing you don't understand something* and *doing something effective about it*. Have you ever had the experience of recognizing that your comprehension was superficial — and then, despite that recognition, failing to change your behavior? Or the reverse: being confident you understood something well, only to discover you couldn't actually retrieve or apply it? Write your intuitions down. The comparison between your starting position and what the analysis reveals is where the deepest learning lies.
+
+> [!reflection] **Reflect** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> Before reading the analytical framework, predict: what do you think is the most important reason that accurate monitoring fails to produce effective regulation? Is it motivational (the learner doesn't care enough), cognitive (they lack the strategic tools), structural (monitoring signals are too weak), or something else? Commit to a prediction. The comparison with the analysis ahead will sharpen your understanding substantially.
+
+> [!reflection] **Reflect** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> Before reading this analysis, take a moment to articulate your current understanding of metacognitive scaffolding. When you try to support another person's awareness of their own thinking — whether as a teacher, a mentor, or a peer — what do you actually do? What do you believe makes that support effective? Where does it seem to fail? Writing this down — not merely thinking it — activates the knowledge structures that anchor everything that follows. The comparison between your starting position and your understanding after the analysis is where the deepest learning lies.
+
+> [!reflection] **Reflect** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> Before reading Phase II, predict: Where do you think the primary failure of metacognitive scaffolding lies? Is it a failure of the monitoring component (learners don't accurately detect their epistemic state), a failure of the control component (learners detect their state but don't adjust), or a failure of the transfer from scaffolded to unscaffolded conditions (learners use the scaffold but don't internalise the capacity)? Commit to a prediction. The comparison between this prediction and the evidence in Phase IV is where the analysis will be most productive.
+
+> [!reflection] **Reflect** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> Before reading this analysis, take a moment to recall the last time you learned something genuinely well from writing. What were you actually doing — transcribing, summarising, explaining to yourself, arguing on paper, generating examples? Now recall a time you wrote extensively and retained almost nothing. What was different about the process? Writing down your observations here — not just thinking them — will activate the knowledge structures that make everything following land with real force. The contrast between your two episodes is already the heart of this analysis.
+
+> [!reflection] **Reflect** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*
+> Before reading the framework in Phase II, predict: which writing technique produces the best learning outcomes — taking detailed linear notes during reading, writing a summary from memory after reading, or answering self-generated questions about the material? Commit to your prediction and your reasoning. The comparison between what you expect and what the evidence shows is where the deepest understanding of this analysis lives.
+
+
+
+
+
+
+
 
 
 
@@ -276,7 +399,7 @@ importance: high
 [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Consolidation]]
 
 **Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-[[metacognition|metacognition]] * [[Critical-thinking|Critical thinking]] * [[John-Hattie|John Hattie]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Socrates|Socrates]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
+[[Metacognition|metacognition]] * [[Critical-Thinking|Critical thinking]] * [[John-Hattie|John Hattie]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Socrates|Socrates]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 
 **Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
@@ -301,7 +424,7 @@ importance: high
 - [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
 
 **Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-[[Critical-thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
+[[Critical-Thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
 
 **Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
@@ -324,6 +447,36 @@ importance: high
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
 - [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
 - [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-in-learning-focused-analysis-2026-03-20.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md, metacognitive-scaffolding-focused-analysis-2026-03-20.md, writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*:
+[[Critical-Thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+
+
+
+
 
 
 

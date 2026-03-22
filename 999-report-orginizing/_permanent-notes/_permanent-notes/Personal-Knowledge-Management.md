@@ -5,6 +5,7 @@
 title: "Personal Knowledge Management"
 aliases:
   - "Personal Knowledge Management"
+  - "personal-knowledge-management"
 type: permanent-note
 status: seedling
 confidence: low

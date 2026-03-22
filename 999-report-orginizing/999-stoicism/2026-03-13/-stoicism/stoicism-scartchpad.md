@@ -118,7 +118,7 @@ Mentally rehearse generic precepts
 
 ### Main
 - [[Stoicism]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 
 - [[Eudaimonia]]
 - [[Apatheia]]
@@ -140,7 +140,7 @@ Mentally rehearse generic precepts
 
 
 ### Key-Figures
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 
@@ -152,7 +152,7 @@ Mentally rehearse generic precepts
 #### Cognitive-Science
 [[Emotional Dysregulation]]
 [[Cognitive-Bias]]
-[[Cognitive Offloading]]
+[[Cognitive-Offloading]]
 
 
 ### Key-Terms/Key-words
@@ -180,7 +180,7 @@ Mentally rehearse generic precepts
 
 
 
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 
 
 
@@ -199,7 +199,7 @@ Mentally rehearse generic precepts
 
 
 ### Note on Writing
-Writing is a form of [[Cognitive Load Theory]] management, by taking your thoughts and writing them out you are effectively emptying part of your [[Working Memory]]. By doing this you gain a few advantages, one being the ability to go back and re-read your thoughts exactly as you wrote them, and take the time to develop them further free from the constraints of working memory. This also allows for deep thought and sophisticated [[Metacognition|metacognitive]] techniques.
+Writing is a form of [[Cognitive-Load-Theory]] management, by taking your thoughts and writing them out you are effectively emptying part of your [[Working-Memory]]. By doing this you gain a few advantages, one being the ability to go back and re-read your thoughts exactly as you wrote them, and take the time to develop them further free from the constraints of working memory. This also allows for deep thought and sophisticated [[Metacognition|metacognitive]] techniques.
 
 ### Strategy for behavior change
 1. Use intensive metacognitive monitoring (journaling) to establish desired behavioral patterns through conscious effort
@@ -222,17 +222,17 @@ Writing is a form of [[Cognitive Load Theory]] management, by taking your though
 > [!connections-and-links] 🕸️ Framework Integration Map
 > **Stoic Journaling** interfaces with:
 > 
-> → [[Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
+> → [[Self-Regulated-Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
 > 
-> → [[Self-Determination Theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
+> → [[Self-Determination-Theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
 > 
-> → [[Cognitive Load Theory]]: Reduces extraneous load through externalization while managing germane load through structured reflection.
+> → [[Cognitive-Load-Theory]]: Reduces extraneous load through externalization while managing germane load through structured reflection.
 > 
 > → [[Neuroplasticity]]: Provides mechanism for practice-dependent neural changes supporting enhanced executive function and emotional regulation.
 > 
-> → [[Memory Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
+> → [[Memory-Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
 > 
-> → [[Habit Formation]]: Establishes meta-habit of systematic reflection that monitors and reinforces object-level behavioral patterns.
+> → [[Habit-Formation]]: Establishes meta-habit of systematic reflection that monitors and reinforces object-level behavioral patterns.
 
 ### Important
 > The critical element is **consistency**—intermittent journaling provides limited benefit compared to daily practice sustained over weeks and months.
@@ -258,9 +258,9 @@ Writing is a form of [[Cognitive Load Theory]] management, by taking your though
 > 
 > - **Stoic journaling** functions as a "*cognitive laboratory*" where mental experiments are conducted with rigor impossible in purely internal thought. When Marcus Aurelius wrote "The impediment to action advances action; what stands in the way becomes the way," he wasn't simply documenting a thought—he was systematically testing and refining a cognitive framework through iterative written examination.
 - Metacognitive development through journaling is not instantaneous but requires sustained practice to yield measurable cognitive gains, paralleling the [[Stoicism|Stoic]] emphasis on daily discipline rather than sporadic effort.
-- [[Stoicism|Stoic]] practice, reflective writing enables what cognitive science calls **[[Cognitive Reappraisal|cognitive reappraisal]]**—*the conscious reevaluation of situations to alter their emotional impact*. Awareness of subconscious thoughts and feelings reveals how life is unknowingly controlled by impulsive reactions or carried assumptions, providing opportunity to consciously choose response modes rather than instinctually reacting harmfully. This capacity for **metacognitive distancing**—observing one's own thought processes as objects of analysis rather than being fully immersed in them—represents perhaps the most profound convergence between ancient [[Stoicism|Stoic]] philosophy and modern [[Cognitive Neuroscience|cognitive neuroscience]].
+- [[Stoicism|Stoic]] practice, reflective writing enables what cognitive science calls **[[Cognitive-Reappraisal|cognitive reappraisal]]**—*the conscious reevaluation of situations to alter their emotional impact*. Awareness of subconscious thoughts and feelings reveals how life is unknowingly controlled by impulsive reactions or carried assumptions, providing opportunity to consciously choose response modes rather than instinctually reacting harmfully. This capacity for **metacognitive distancing**—observing one's own thought processes as objects of analysis rather than being fully immersed in them—represents perhaps the most profound convergence between ancient [[Stoicism|Stoic]] philosophy and modern [[cognitive-neuroscience|cognitive neuroscience]].
 - Behavioral Commitment Through Textual Permanence: Written commitments create psychological accountability mechanisms that influence subsequent behavior through consistency pressure and identity alignment.
-- The implications for journaling practices are profound and empirically supported. Research using polysomnography found that **participants writing specific to-do lists at bedtime fell asleep significantly faster than those journaling about completed activities**, with more specific to-do lists associated with faster sleep onset, whereas the opposite trend was observed for completed activity journaling. Structured pre-sleep journaling functions as [[Cognitive Offloading|cognitive offloading]] that reduces the mental rehearsal otherwise preventing sleep onset.
+- The implications for journaling practices are profound and empirically supported. Research using polysomnography found that **participants writing specific to-do lists at bedtime fell asleep significantly faster than those journaling about completed activities**, with more specific to-do lists associated with faster sleep onset, whereas the opposite trend was observed for completed activity journaling. Structured pre-sleep journaling functions as [[Cognitive-Offloading|cognitive offloading]] that reduces the mental rehearsal otherwise preventing sleep onset.
 > [!evidence] 📊 Empirical Support: Pre-Sleep Writing and Sleep Architecture
 > Research into the neuroscience of journaling demonstrates that writing before sleep helps pre-organize experiences, making the brain's nighttime consolidation work more efficient, with consistent practice decreasing sleep onset time from 45 to approximately 15 minutes while improving self-reflection quality as internal dialogue shifts from harsh self-criticism toward curious and compassionate inquiry. This transformation occurs because regular writing strengthens connections between emotional and rational brain centers, effectively enhancing the prefrontal cortex's regulatory capacity over limbic emotional systems—precisely the neurobiological substrate of what Stoics conceptualized as "rational supremacy over passion."
 
@@ -271,7 +271,7 @@ Writing is a form of [[Cognitive Load Theory]] management, by taking your though
 	- Journaling facilitates this strengthening through multiple pathways:
 		- By making links to different brain regions so the web of connections thickens and spreads.
 		- By providing consistent rehearsal of desired behaviors through written commitment.
-		- By creating explicit awareness of the context-behavior contingencies that drive [[Habit Formation|habit automatization]].
+		- By creating explicit awareness of the context-behavior contingencies that drive [[Habit-Formation|habit automatization]].
 - *Use the Metacognitive Awareness Inventory to build your daily journaling Template.*
 
 > [!methodology-and-sources] 🛠️ The Stoic Evening Examination Protocol
@@ -294,19 +294,19 @@ Writing is a form of [[Cognitive Load Theory]] management, by taking your though
 > 
 > The Stoics frequently employed the metaphor of archery to illustrate the distinction between elements within and beyond our control—a distinction that maps precisely onto the relationship between cognitive effort and emotional outcome. An expert archer can control every aspect of technique—stance, grip, draw, aim, and release—yet cannot control the wind that might deflect the arrow from its target. The archer's *virtue* consists in the mastery of technique, not in guaranteed results. Similarly, we possess complete control over our cognitive appraisal processes—the attention we deploy, the interpretive frameworks we apply, the reasoning we engage—but we cannot directly command our emotional states to change. The Stoic practitioner, like the skilled archer, focuses mastery on the *controllables* (cognitive processes) rather than on the *outcomes* (emotional states), paradoxically discovering that this very shift in focus produces the most reliable emotional regulation.
 
-[[Epictetus]]'s instruction to address distressing thoughts by saying "You are just an impression and not at all the thing you claim to be." This technique, which contemporary [[Acceptance and Commitment Therapy|Acceptance and Commitment Therapy]] calls *cognitive defusion*, leverages the brain's capacity for [[Metacognition|metacognitive awareness]]—the ability to observe one's own mental processes as objects of awareness rather than identifying with them completely.[[2025-11-25]]
+[[Epictetus]]'s instruction to address distressing thoughts by saying "You are just an impression and not at all the thing you claim to be." This technique, which contemporary [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] calls *cognitive defusion*, leverages the brain's capacity for [[Metacognition|metacognitive awareness]]—the ability to observe one's own mental processes as objects of awareness rather than identifying with them completely.[[2025-11-25]]
 
 The Dichotomy of Control
 [[Epictetus]]'s foundational distinction between elements within our power (*ta eph' hēmin*) and elements not within our power (*ta ouk eph' hēmin*).
 > [!definition]
 > **The Dichotomy of Control: A Precise Formulation**
 > 
-> [[Epictetus]] articulates the [[Dichotomy of Control|dichotomy of control]] with remarkable precision at the opening of his *Enchiridion*: "Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and, in a word, whatever is not of our own doing." This formulation identifies a narrower sphere of control than most people intuitively assume. We control our *judgments, intentions, values, and responses*—the elements comprising what the Stoics termed *prohairesis* or moral character. We do not control *outcomes, other people's actions, external circumstances, or even many aspects of our own bodies and minds* (including automatic emotional reactions). The practice involves relentlessly redirecting attention and effort toward the former while cultivating acceptance of the latter.
+> [[Epictetus]] articulates the [[Dichotomy-of-Control|dichotomy of control]] with remarkable precision at the opening of his *Enchiridion*: "Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and, in a word, whatever is not of our own doing." This formulation identifies a narrower sphere of control than most people intuitively assume. We control our *judgments, intentions, values, and responses*—the elements comprising what the Stoics termed *prohairesis* or moral character. We do not control *outcomes, other people's actions, external circumstances, or even many aspects of our own bodies and minds* (including automatic emotional reactions). The practice involves relentlessly redirecting attention and effort toward the former while cultivating acceptance of the latter.
 
 > [!methodology-and-sources]
 > **The Three Forms of Premeditatio Malorum**
 > 
-> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
+> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus-Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
 > - The mechanism of *[[Premeditatio-Malorum|premeditatio malorum]]* differs fundamentally from pathological [[Worry|worry]] or catastrophizing. While worry represents uncontrolled, repetitive, abstract rumination that increases [[Anxiety|anxiety]] and depletes [[Cognitive Resources|cognitive resources]], *[[Premeditatio-Malorum|premeditatio malorum]]* involves deliberate, time-limited, concrete visualization paired with problem-solving and acceptance. The Stoic practitioner asks not merely "What terrible things might happen?" but rather "If this occurred, how would I cope? What resources would I draw upon? What would matter most?"
 > [!important]
 > **Distinguishing Premeditatio Malorum from Rumination**
@@ -316,7 +316,7 @@ The Dichotomy of Control
 > [!methodology-and-sources]
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 > [!the-philosophy] 🌟 **Living According to Nature: The Foundation of Stoic Ethics**
 > The fundamental ethical principle of Stoicism—"live according to nature" (*kata physin*)—emerges directly from this physics. Since human beings *are* part of nature (not separate from or opposed to it), and since we possess a fragment of the divine Logos in the form of our rational capacity, **to live according to nature means to live according to reason**. More specifically, it means developing our distinctively human capacity—reason—to its fullest potential, which the Stoics identified with **virtue** (*aretē*). Just as it is the nature of a tree to grow, produce fruit, and contribute to the forest ecosystem, it is human nature to reason, make choices, and contribute to the human community. We fulfill our nature not by pursuing pleasure or accumulating external goods, but by **developing excellent character** and exercising our rational faculties in service of appropriate action. This is why Epictetus could insist, even as a former slave with a permanent physical disability, that he possessed everything necessary for human flourishing—because what truly matters lies within the domain of choice and judgment, which no external force can touch without our complicity.
@@ -367,14 +367,14 @@ Epictetus
 | **Cato (Integrity)**    | Principled, unwavering, morally courageous            | Can become inflexible, judgmental, isolated                 | Practice adaptability, forgiveness         |
 ### The Three-Pillar Architecture
 [1. Philosophical Grounding]
-- [[Dichotomy of Control]] -> `Fundamental sorting of controllables/uncontrollables`
+- [[Dichotomy-of-Control]] -> `Fundamental sorting of controllables/uncontrollables`
 - [[Cognitive Primacy]] -> `Judgments create emotions, not events`
-- [[Virtue Ethics]] -> `Excellence of character as ultimate good`
+- [[Virtue-Ethics]] -> `Excellence of character as ultimate good`
 - [[Cosmopolitanism]] -> `Interconnection with humanity`
 - [[Memento Mori]] -> `Mortality awareness for perspective`
 [2. Psychological Mechanism]
-- [[Metacognitive Awareness]] -> `Thinking about thinking`
-- [[Cognitive Offloading]] -> `Externalizing working memory burden`
+- [[metacognitive-awareness]] -> `Thinking about thinking`
+- [[Cognitive-Offloading]] -> `Externalizing working memory burden`
 - [[Structured Prompts]] -> `Guiding effective reflection`
 - [[Pattern Recognition]] -> `Identifying recurring behavioral themes`
 - [[Neuroplastic Change]] -> `Reshaping neural architecture through repetition`
@@ -458,7 +458,7 @@ Throughout *Meditations*, Marcus employs recurring patterns:
 - This serves dual purposes:
 	1. **Mnemonic Function**: Strengthens episodic memory through rehearsal
 	2. **Pattern Recognition**: Reveals behavioral patterns through accumulated review
-		- [[Memory Consolidation]] approach—reviewing events before sleep enhances [[Hippocampal]] encoding.
+		- [[Memory-Consolidation]] approach—reviewing events before sleep enhances [[Hippocampal]] encoding.
 		- When combined with emotional reflection strengthens [[Amygdalar]] enhancement of memory.
 ### The Discipline of Assent
 **[[Discipline-of-Assent]]** -> [synkatathesis] -> [the practice of withholding automatic agreement with initial impressions until rational examination occurs.]

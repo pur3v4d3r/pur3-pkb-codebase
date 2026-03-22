@@ -152,7 +152,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Ecological-Psychology|Ecological Psychology]]
 - [[Embodied-Cognition|Embodied Cognition]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Habit-Formation|Habit Formation]]
 - [[Implicit Learning]]
 - [[Metacognition]]
@@ -171,7 +171,7 @@ extraction_summary:
 | 1 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 29 |
 | 2 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 42 |
 | 3 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 55 |
-| 4 | [[Executive Function]] | — | — | First-Principles Topics for Self-Regu... | 55 |
+| 4 | [[Executive-Function|Executive Function]] | — | — | First-Principles Topics for Self-Regu... | 55 |
 | 5 | [[Cognitive-Load|cognitive load]] | — | — | First-Principles Topics for Self-Regu... | 55 |
 | 6 | [[Habit-Formation|Habit Formation]] | — | — | First-Principles Topics for Self-Regu... | 55 |
 | 7 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 68 |
@@ -186,7 +186,7 @@ extraction_summary:
 | 16 | [[Cultural-Historical Activity Theory]] | — | — | Further Exploration | 92 |
 | 17 | [[Dual-Process Theories]] | — | — | Further Exploration | 93 |
 | 18 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 99 |
-| 19 | [[Executive Function]] | — | — | 🔗 Related Topics for PKB Expansion | 100 |
+| 19 | [[Executive-Function|Executive Function]] | — | — | 🔗 Related Topics for PKB Expansion | 100 |
 | 20 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 101 |
 | 21 | [[Zimmerman Self-Regulated Learning Model]] | — | — | 🔗 Related Topics for PKB Expansion | 102 |
 | 22 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 🔗 Related Topics for PKB Expansion | 103 |
@@ -270,7 +270,7 @@ Topic 4: Deconstruct what "self" means in self-regulated learning
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Ecological-Psychology|Ecological Psychology]]
 - [[Embodied-Cognition|Embodied Cognition]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Habit-Formation|Habit Formation]]
 - [[Implicit Learning]]
 - [[Metacognition]]

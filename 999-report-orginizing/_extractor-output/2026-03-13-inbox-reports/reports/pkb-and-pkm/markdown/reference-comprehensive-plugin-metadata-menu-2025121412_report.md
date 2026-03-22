@@ -407,13 +407,13 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> <span style='color: #FFC700;'>**Metadata Menu**</span> is a powerful [[Obsidian]] [[Community Plugin]] designed for <span style='color: #27FF00;'>data quality enthusiasts who need systematic, typed metadata management across their vault</span>. Unlike Obsidian's native [[Properties]] system, Metadata Menu provides comprehensive field typing, validation, autocompletion, contextual editing via multiple access points, and seamless integration with [[Dataview]] for creating editable database-style tables. The plugin bridges the gap between flexible inline [[Dataview Syntax|field notation]] (`field:: value`) and structured [[YAML Frontmatter]] properties, enabling users to transform their [[Personal Knowledge Base|PKB]] into a <span style='background-color: #72FFF140; color: #72FFF1;'>queryable, maintainable database with enforced data schemas</span>.
+> <span style='color: #FFC700;'>**Metadata Menu**</span> is a powerful [[Obsidian]] [[Community Plugin]] designed for <span style='color: #27FF00;'>data quality enthusiasts who need systematic, typed metadata management across their vault</span>. Unlike Obsidian's native [[Properties]] system, Metadata Menu provides comprehensive field typing, validation, autocompletion, contextual editing via multiple access points, and seamless integration with [[Dataview]] for creating editable database-style tables. The plugin bridges the gap between flexible inline [[Dataview Syntax|field notation]] (`field:: value`) and structured [[YAML-Frontmatter|YAML Frontmatter]] properties, enabling users to transform their [[Personal-Knowledge-Base|PKB]] into a <span style='background-color: #72FFF140; color: #72FFF1;'>queryable, maintainable database with enforced data schemas</span>.
 
 #### 6. [HOW-TO-USE-THIS] Untitled *(Line 402)*
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into 9 major sections covering installation, configuration, field architecture, fileClass systems, operational workflows, [[DataviewJS]] integration, API usage, and advanced optimization strategies. Use the table of contents below for quick navigation to specific topics, or search for technical terms using [[Wiki-Links]]. Code examples are provided throughout with actual syntax you can copy directly into your vault.
+> This reference note is organized into 9 major sections covering installation, configuration, field architecture, fileClass systems, operational workflows, [[DataviewJS]] integration, API usage, and advanced optimization strategies. Use the table of contents below for quick navigation to specific topics, or search for technical terms using [[wiki-links]]. Code examples are provided throughout with actual syntax you can copy directly into your vault.
 
 #### 7. [DEFINITION] Untitled *(Line 422)*
 
@@ -634,9 +634,9 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
 - [[Templater & QuickAdd Integration - Advanced Metadata Automation]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[YAML]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[links]]
 - [[wikilink]]
@@ -660,10 +660,10 @@ extraction_summary:
 | 13 | [[Properties]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
 | 14 | [[Dataview]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
 | 15 | [[Dataview Syntax]] | field notation | — | Comprehensive Reference: Metadata Menu | 400 |
-| 16 | [[YAML Frontmatter]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
+| 16 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
 | 17 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | PKB | — | Comprehensive Reference: Metadata Menu | 400 |
 | 18 | [[DataviewJS]] | — | — | Comprehensive Reference: Metadata Menu | 404 |
-| 19 | [[Wiki-Links]] | — | — | Comprehensive Reference: Metadata Menu | 404 |
+| 19 | [[wiki-links]] | — | — | Comprehensive Reference: Metadata Menu | 404 |
 | 20 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Foundational Understanding | 429 |
 | 21 | [[Obsidian]] | — | — | Foundational Understanding | 429 |
 | 22 | [[YAML]] | — | — | Foundational Understanding | 429 |
@@ -2110,9 +2110,9 @@ For <span style='color: #FF00DC;'>Lookup fields</span> that don't need real-time
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
 - [[Templater & QuickAdd Integration - Advanced Metadata Automation]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[YAML]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[links]]
 - [[wikilink]]

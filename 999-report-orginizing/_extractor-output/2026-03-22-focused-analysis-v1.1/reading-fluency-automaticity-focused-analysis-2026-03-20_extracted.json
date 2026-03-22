@@ -1,0 +1,2263 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-22T02:18:29.018611",
+    "source_file": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-focused-analysis-report-generator-v1.1.0\\reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+    "source_file_size_bytes": 95058,
+    "processing_time_seconds": 0.019
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "reading-fluency-automaticity-focused-analysis-v1-0",
+      "doc_type": "focused-analysis-report",
+      "doc_created": "2026-03-20",
+      "doc_modified": "2026-03-20",
+      "author": "claude-sonnet-4-6",
+      "report_generator": "Focused Analysis Report Generator v1.1.0",
+      "primary_domain": "cognitive-psychology",
+      "secondary_domains": [
+        "educational-psychology",
+        "reading-science",
+        "skill-acquisition",
+        "instructional-design"
+      ],
+      "related_concepts": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Schema-Automation]]",
+        "[[Dual-Process-Theory]]",
+        "[[Procedural-Memory]]",
+        "[[Focal-Subsidiary-Attention-Distinction]]",
+        "[[Matthew-Effect]]",
+        "[[Fluency]]",
+        "[[Transfer-of-Learning]]",
+        "[[Dreyfus-Skill-Acquisition-Model]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "reading-science",
+        "fluency",
+        "automaticity",
+        "cognitive-load",
+        "working-memory",
+        "skill-acquisition",
+        "instructional-design",
+        "reading-disability",
+        "decoding",
+        "phonological-processing"
+      ],
+      "status": "evergreen",
+      "maturity": "developed",
+      "confidence": "high",
+      "reasoning_tier": "Tier 3: Synthesis & Innovation",
+      "reasoning_methods": [
+        "Extended thinking with metacognitive scaffolding",
+        "Progressive depth elaboration",
+        "FAR transfer structural encoding",
+        "Cross-domain analogical reasoning"
+      ],
+      "transfer-contributions": {
+        "abstract-principles-extracted": "3",
+        "structural-analogues-identified": "6",
+        "target-domains-bridged": "4"
+      },
+      "transfer-principles": [
+        {
+          "principle": "Automatization liberates attentional bandwidth for higher-order processing",
+          "originating-finding": "Word-recognition automaticity predicts comprehension because it frees working memory",
+          "target-domains": [
+            "Musical performance",
+            "Mathematical reasoning",
+            "Programming",
+            "Athletic skill"
+          ]
+        },
+        {
+          "principle": "The bottleneck principle: fluency of subordinate skills determines ceiling on superordinate skill quality",
+          "originating-finding": "Non-automatic decoding consumes the working memory required for comprehension",
+          "target-domains": [
+            "Writing composition",
+            "Scientific reasoning",
+            "Language learning"
+          ]
+        },
+        {
+          "principle": "Exposure-frequency asymmetry: the rich get richer, the poor get poorer in cumulative skill growth",
+          "originating-finding": "Matthew Effect in reading — early fluency advantages compound over time",
+          "target-domains": [
+            "Vocabulary development",
+            "Mathematical fluency",
+            "Social skill development"
+          ]
+        }
+      ],
+      "source": "claude-sonnet-4-6",
+      "key_researchers": [
+        "LaBerge & Samuels (1974) — Automatic Information Processing Model",
+        "Gough & Tunmer (1986) — Simple View of Reading",
+        "Stanovich (1980, 1986) — Interactive-compensatory model; Matthew Effect",
+        "Wolf & Katzir-Cohen (2001) — RAVE-O; definition of fluency",
+        "Kuhn & Stahl (2003) — Fluency intervention meta-analysis",
+        "Rasinski (2004, 2012) — Fluency assessment and instruction",
+        "Perfetti (1985, 1992) — Verbal efficiency theory",
+        "National Reading Panel (2000)"
+      ],
+      "sections": [
+        "Phase I: Orientation & Analytical Focus",
+        "Phase II: Analytical Framework",
+        "Phase III: Critical Examination of Evidence",
+        "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "Phase V: Implications, Applications & Limitations",
+        "Phase VI: Synthesis, Integration & Original Contribution",
+        "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "Phase VIII: PKB Connections & Cross-Report Links",
+        "Phase IX: Appendix"
+      ],
+      "document-features": {
+        "callouts": "28",
+        "wiki-links": "42",
+        "reflective-questions": "21",
+        "cognitive-engagement-elements": "17",
+        "analytical-commentary": "11",
+        "section-end-summaries": "6",
+        "transfer-principles": "3",
+        "structural-analogues": "6",
+        "lexicon-entries": "12",
+        "references": "14",
+        "expansion-topics": "6"
+      },
+      "prerequisites": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Dual-Process-Theory]]"
+      ],
+      "builds_on": [
+        "[[Schema-Automation]]",
+        "[[Procedural-Memory]]",
+        "[[Focal-Subsidiary-Attention-Distinction]]",
+        "[[Dreyfus-Skill-Acquisition-Model]]"
+      ],
+      "link_related": [
+        "[[Matthew-Effect]]",
+        "[[Fluency]]",
+        "[[Transfer-of-Learning]]",
+        "[[Phonological-Loop]]",
+        "[[Spreading-Activation]]"
+      ],
+      "summary": "A focused analysis of how the automatization of word recognition liberates cognitive resources for reading comprehension — the central mechanism of reading fluency. The report examines LaBerge and Samuels' foundational automaticity theory, its integration with Cognitive Load Theory and Working Memory research, the instructional implications of failed automatization (including dyslexia), the Matthew Effect in reading development, and the metacognitive paradox created when disfluent readers cannot monitor their own comprehension failures. Transfers the automaticity-liberation principle to musical performance, mathematical reasoning, programming, and writing composition."
+    },
+    "word_count": 11425,
+    "character_count": 85611,
+    "line_count": 480,
+    "heading_count": 36
+  },
+  "extraction_summary": {
+    "total_items_extracted": 185,
+    "by_type": {
+      "headings": 36,
+      "callouts": 75,
+      "wiki_links": 72,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Reading Fluency and Automaticity: How Decoding Skill Liberates the Reading Mind",
+      "anchor": "reading-fluency-and-automaticity-how-decoding-skill-liberates-the-reading-mind",
+      "line_number": 149,
+      "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Analytical Focus",
+          "anchor": "phase-i-orientation-analytical-focus",
+          "line_number": 153,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework",
+          "anchor": "phase-ii-analytical-framework",
+          "line_number": 175,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Simple View of Reading",
+              "anchor": "the-simple-view-of-reading",
+              "line_number": 177,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "LaBerge and Samuels' Automaticity Theory",
+              "anchor": "laberge-and-samuels-automaticity-theory",
+              "line_number": 194,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Distinguishing Fluency's Components for Analysis",
+              "anchor": "distinguishing-fluencys-components-for-analysis",
+              "line_number": 211,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 229,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Evidence Landscape",
+              "anchor": "the-evidence-landscape",
+              "line_number": 231,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Key Evidence for the Bottleneck Mechanism",
+              "anchor": "key-evidence-for-the-bottleneck-mechanism",
+              "line_number": 238,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Intervention Evidence: Does Fluency Training Improve Comprehension?",
+              "anchor": "intervention-evidence-does-fluency-training-improve-comprehension",
+              "line_number": 248,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Matthew Effect: Longitudinal Evidence",
+              "anchor": "the-matthew-effect-longitudinal-evidence",
+              "line_number": 260,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Fluency Assessment Validity",
+              "anchor": "fluency-assessment-validity",
+              "line_number": 270,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+          "line_number": 287,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Working Memory Architecture of Reading",
+              "anchor": "the-working-memory-architecture-of-reading",
+              "line_number": 292,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Schema Automation and Long-Term Working Memory",
+              "anchor": "schema-automation-and-long-term-working-memory",
+              "line_number": 306,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Role of the Phonological Loop and Spreading Activation",
+              "anchor": "the-role-of-the-phonological-loop-and-spreading-activation",
+              "line_number": 317,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Focal-Subsidiary Attention Dynamic in Expert Reading",
+              "anchor": "the-focal-subsidiary-attention-dynamic-in-expert-reading",
+              "line_number": 324,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Compensation Trap: When Accuracy Masks Automaticity Failure",
+              "anchor": "the-compensation-trap-when-accuracy-masks-automaticity-failure",
+              "line_number": 333,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications, Applications & Limitations",
+          "anchor": "phase-v-implications-applications-limitations",
+          "line_number": 352,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Direct Instructional Implications",
+              "anchor": "direct-instructional-implications",
+              "line_number": 354,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading Disability and Dyslexia",
+              "anchor": "reading-disability-and-dyslexia",
+              "line_number": 368,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Common Misconceptions",
+              "anchor": "common-misconceptions",
+              "line_number": 378,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "What We Still Don't Know",
+              "anchor": "what-we-still-dont-know",
+              "line_number": 386,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 399,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Central Argument Restated",
+              "anchor": "the-central-argument-restated",
+              "line_number": 401,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Returning to the Phase II Concepts",
+              "anchor": "returning-to-the-phase-ii-concepts",
+              "line_number": 409,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+          "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+          "line_number": 433,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Abstract Principle 1: Automatization Liberates Attentional Bandwidth for Higher-Order Processing",
+              "anchor": "abstract-principle-1-automatization-liberates-attentional-bandwidth-for-higher-order-processing",
+              "line_number": 437,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Abstract Principle 2: The Bottleneck Principle — Fluency of Subordinate Skills Determines the Quality Ceiling of Superordinate Skills",
+              "anchor": "abstract-principle-2-the-bottleneck-principle-fluency-of-subordinate-skills-determines-the-quality-ceiling-of-superordinate-skills",
+              "line_number": 452,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Abstract Principle 3: The Exposure-Frequency Asymmetry — The Matthew Effect as Universal Skill Law",
+              "anchor": "abstract-principle-3-the-exposure-frequency-asymmetry-the-matthew-effect-as-universal-skill-law",
+              "line_number": 461,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-viii-pkb-connections-cross-report-links",
+          "line_number": 484,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IX: Appendix — Lexicon, References, and Expansion Topics",
+          "anchor": "phase-ix-appendix-lexicon-references-and-expansion-topics",
+          "line_number": 513,
+          "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 515,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 555,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 598,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 605,
+              "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Schema Activation — Before You Begin",
+        "body": "Before reading this analysis, take a moment to articulate your current understanding of reading fluency. When you think about what makes a skilled reader different from a struggling one, what comes to mind? Is fluency primarily about speed? Accuracy? Something else? What do you believe happens cognitively when a child learns to read — what changes between the halting, word-by-word reading of early literacy and the effortless comprehension of an experienced adult reader? Write this down or hold it clearly in mind. The contrast between your intuitions here and the mechanisms this analysis reveals is where the deepest learning lies.",
+        "line_number": 155,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 6473,
+        "char_end": 7177
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Before proceeding: predict what you think happens to a reader's comprehension when their decoding is slow but accurate. Do you expect comprehension to be roughly preserved (since they get the words right eventually), or substantially impaired? Commit to a prediction. The mechanism revealed in Phase IV will either confirm or significantly complicate your intuition.",
+        "line_number": 164,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 8752,
+        "char_end": 9165
+      },
+      {
+        "type": "definition",
+        "title": "Simple View of Reading (Gough & Tunmer, 1986)",
+        "body": "Reading Comprehension = Decoding × Language Comprehension. Reading comprehension is the product — not the sum — of two distinct and separable components: (1) decoding ability, the capacity to translate print to language, and (2) oral language comprehension, the capacity to understand language once it has been decoded. The multiplicative relationship implies that weakness in either component drives the product toward zero regardless of strength in the other.",
+        "line_number": 181,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 11494,
+        "char_end": 12024
+      },
+      {
+        "type": "key-claim",
+        "title": "Fluency as the Bridge Between Decoding and Comprehension",
+        "body": "The Simple View omits fluency as a third component, yet fluency is not merely a proxy for decoding skill — it is the mechanism by which adequate decoding becomes comprehension-supporting decoding. A reader who decodes accurately but slowly has not truly transitioned to reading; they have a bottleneck between the SVR's two components that prevents either from functioning at ceiling.",
+        "line_number": 186,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 12626,
+        "char_end": 13089
+      },
+      {
+        "type": "definition",
+        "title": "Reading Fluency (Wolf & Katzir-Cohen, 2001)",
+        "body": "Reading fluency is the ability to read connected text with accuracy, appropriate rate, and prosody — with sufficient ease that comprehension resources are available to focus on meaning-making rather than word identification. Fluency is not merely reading speed; it integrates accuracy (getting words right), automaticity (retrieving them without deliberate effort), and prosody (reading with appropriate expression, phrasing, and intonation that reflects comprehension of grammatical and semantic structure).",
+        "line_number": 189,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 13090,
+        "char_end": 13665
+      },
+      {
+        "type": "definition",
+        "title": "Automaticity (LaBerge & Samuels, 1974)",
+        "body": "A cognitive process is automatic when it can be executed rapidly, without conscious effort, and — critically — without drawing on the limited attentional resources available for other simultaneous processes. In reading, automaticity refers specifically to the recognition of orthographic patterns (letters, letter clusters, and whole words) without the deliberate deployment of attentional resources. Automatic recognition is distinguished from non-automatic recognition by three criteria: it is fast (sub-300ms), obligatory (recognition occurs whether or not the reader intends it), and resource-free (it proceeds without degrading concurrent processing).",
+        "line_number": 198,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 14312,
+        "char_end": 15030
+      },
+      {
+        "type": "definition",
+        "title": "Verbal Efficiency Theory (Perfetti, 1985, 1992)",
+        "body": "Charles Perfetti's verbal efficiency theory refines LaBerge and Samuels by specifying the locus of the bottleneck more precisely. Verbal efficiency refers to the speed and quality of local text processes — particularly word identification and the maintenance of decoded words in [[Working-Memory]] long enough to be integrated into propositions and sentences. Inefficient local processes create a resource drain that impairs not just the speed of comprehension but its quality and completeness, because the products of word recognition may fade from working memory before they can be integrated into the reader's text representation.",
+        "line_number": 203,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 15631,
+        "char_end": 16335
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Conceptual Checkpoint",
+        "body": "The argument from here forward depends on understanding the capacity-limited nature of working memory and its relationship to automaticity. Can you explain, in your own words, why a reader who accurately decodes every word might nonetheless fail to comprehend a passage? If you find yourself saying \"they got the words right, so they should understand,\" the mechanism of working memory competition may not yet be fully integrated.",
+        "line_number": 208,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 16759,
+        "char_end": 17241
+      },
+      {
+        "type": "key-claim",
+        "title": "The Accuracy-Automaticity Distinction",
+        "body": "Accuracy and automaticity are separable. A reader may be highly accurate (low error rate) without being automatic (resource-free). The disfluent reader who sounds out \"necessary\" correctly after four seconds has demonstrated accuracy but not automaticity. This distinction matters enormously because: (1) accuracy-focused instruction does not guarantee automaticity development, (2) assessments of accuracy (oral reading error rates) systematically underestimate reading difficulty by missing the resource cost of correct responses, and (3) the instructional practices that build automaticity (high-volume practice with familiar text) differ fundamentally from those that build accuracy (phonics instruction).",
+        "line_number": 215,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 17394,
+        "char_end": 18163
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Why was the multiplicative (rather than additive) form of the Simple View analytically significant? What does it imply about readers with severe weakness in one component but strength in the other?\n**Application**: Think of a specific domain outside reading in which you are not yet fully automatic. Which of the three frameworks — attention competition, verbal efficiency, or the accuracy-automaticity distinction — best characterizes the bottleneck you experience?\n**Extension**: The Simple View omits fluency as a distinct component. Is this an oversight or a principled theoretical choice? What would need to be true for fluency to deserve its own term in the equation?",
+        "line_number": 222,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 19060,
+        "char_end": 19805
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before reading this section's evidence: on a scale of 1-10, how confident are you that slow-but-accurate decoding causally impairs comprehension (rather than merely correlating with comprehension difficulties for independent reasons)? Record your confidence rating to compare after reading.",
+        "line_number": 235,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 20542,
+        "char_end": 20887
+      },
+      {
+        "type": "evidence",
+        "title": "Perfetti & Lesgold (1977) — The Resource Competition Paradigm",
+        "body": "In a foundational set of experiments, Perfetti and Lesgold demonstrated that lower-skill readers showed greater memory load effects during reading than higher-skill readers at equivalent text difficulty. The critical finding was that differences in comprehension between skill groups were most pronounced when texts required integration across sentences — precisely the condition where the working memory products of earlier decoding must remain available while later words are decoded. This is the signature of a working memory bottleneck, not merely a decoding accuracy difference.",
+        "line_number": 242,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 21720,
+        "char_end": 22386
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What the Bottleneck Evidence Collectively Suggests",
+        "body": "Taken across multiple experimental paradigms — dual-task studies, text manipulation studies, and individual differences research — the evidence converges on a specific causal pathway: non-automatic decoding creates a continuous resource drain that prevents the [[Working-Memory]] system from maintaining decoded text products long enough for integration into coherent sentence and discourse representations. This is not a story about general cognitive ability differences between good and poor readers; it is a story about a specific, addressable architectural bottleneck.",
+        "line_number": 245,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 22387,
+        "char_end": 23049
+      },
+      {
+        "type": "evidence",
+        "title": "Repeated Reading Research — Samuels (1979)",
+        "body": "Samuels' pioneering repeated reading paradigm — in which students read short passages multiple times until reaching a criterion fluency level — showed not only that fluency improved on practiced passages but that *generalization occurred to unpracticed text*. This transfer finding is analytically critical: if fluency improvement merely reflected familiarity with specific words, there would be no reason to expect transfer. The transfer evidence implies that what develops is not a list of memorized words but a *processing capability* — a more efficient decoding mechanism — that generalizes to new text.",
+        "line_number": 254,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 23808,
+        "char_end": 24479
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Comprehension Strategy Confound",
+        "body": "A genuine tension runs through the fluency-comprehension intervention literature. Many fluency interventions involve guided re-reading with feedback and discussion, which may improve comprehension through mechanisms entirely independent of automaticity — namely, through explicit meaning-making dialogue about text content. The strongest tests of the automaticity-liberation hypothesis require fluency interventions stripped of comprehension strategy components. A smaller set of studies with this design shows positive but somewhat weaker comprehension effects, suggesting that some portion of the comprehension gains in typical fluency programs come from non-automaticity mechanisms. The causal model is real but partial.",
+        "line_number": 257,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 24480,
+        "char_end": 25270
+      },
+      {
+        "type": "evidence",
+        "title": "Stanovich (1986) — The Compounding Inequality of Early Reading Skill",
+        "body": "Children who acquire fluency early read more, encounter more words, build larger vocabularies, develop richer background knowledge, and thereby become even more fluent readers. Children who fail to achieve fluency avoid reading (the effortful activity is aversive), encounter fewer words, develop smaller vocabularies, and fall further behind with each passing year. By middle school, the gap between skilled and unskilled readers that was modest in first grade has grown into a chasm that is extremely difficult to close. The Matthew Effect transforms an initially addressable skill difference into an entrenched developmental trajectory.",
+        "line_number": 264,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 25666,
+        "char_end": 26395
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Matthew Effect as a Positive Feedback Loop in Cognitive Architecture",
+        "body": "The [[Matthew-Effect]] is usually analyzed as a motivational and behavioral phenomenon — skilled readers enjoy reading, so they read more; struggling readers avoid it. But there is a deeper cognitive layer. Non-automatic decoding does not merely reduce the *pleasure* of reading; it reduces its *cognitive affordance*. A disfluent reader attempting to read text at grade level is operating near or above their cognitive capacity ceiling. At that load level, the [[Germane-Cognitive-Load|germane cognitive load]] required for schema construction is unavailable — meaning the reading experience does not build the knowledge structures that would make future reading easier. The struggling reader is not merely reading less enjoyable text; they are reading in a cognitive state that prevents the kind of deep processing that would generate lasting knowledge gains. The cognitive architecture itself guarantees that effortful reading produces less learning than effortless reading of the same text.",
+        "line_number": 267,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 26396,
+        "char_end": 27494
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "WCPM as a Metric: Strengths and Systematic Blind Spots",
+        "body": "Words Correct Per Minute (WCPM) is the dominant fluency assessment metric and has substantial predictive validity for comprehension. However, the evidence suggests WCPM systematically underestimates fluency problems in readers who have compensated for automaticity deficits by slowing down to maintain accuracy. These readers — sometimes called \"accurate but slow\" — appear to decode competently when assessed by error rate but show comprehension profiles consistent with working memory bottlenecks. WCPM also fails to capture prosodic fluency, which some evidence suggests is a stronger predictor of comprehension at upper-elementary levels than rate alone.",
+        "line_number": 272,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 27528,
+        "char_end": 28280
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: What is the single most compelling piece of evidence for the causal claim, and why?\n**Application**: If you were designing a study to isolate the automaticity-liberation mechanism from comprehension strategy effects in a fluency intervention, what would that design look like?\n**Extension**: Where do you find yourself resisting the evidence? Is it the Matthew Effect's determinism? The implication that pleasure in reading compounds skill — or that aversion compounds deficit?",
+        "line_number": 277,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 28938,
+        "char_end": 29486
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — After",
+        "body": "Return to your confidence rating from before this section. Has it shifted? Was the shift additive (new information supporting your existing intuition) or structural (a reorganization of how you think about the fluency-comprehension relationship)?",
+        "line_number": 282,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 29487,
+        "char_end": 29787
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead builds directly on the frameworks from Phase II (automaticity theory, verbal efficiency) and the evidence from Phase III (working memory competition, Matthew Effect). Here we move beneath phenomena to mechanisms. The question is no longer *whether* automaticity predicts comprehension but *how* — through what specific cognitive operations does the automatization of decoding change the resources available for meaning-making. The cognitive architecture is intricate; a quick return to Phase II if the frameworks feel unstable will pay dividends.",
+        "line_number": 289,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 29844,
+        "char_end": 30453
+      },
+      {
+        "type": "definition",
+        "title": "Working Memory in Reading (Baddeley's Model)",
+        "body": "[[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] includes three primary components relevant to reading: (1) the [[Phonological-Loop]], which holds verbal material in a phonological code for approximately 2 seconds through active rehearsal; (2) the visuospatial sketchpad, which processes visual features of text (orthography, spatial layout); and (3) the central executive, which allocates attentional resources, switches between tasks, and coordinates the interaction of long-term memory with active processing. Working memory capacity is limited — typically 3-4 chunks for the phonological loop — and reading creates high demands on all three components simultaneously.",
+        "line_number": 296,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 30626,
+        "char_end": 31384
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Invisible Comprehension Failure",
+        "body": "There is a profound asymmetry between the visibility of decoding failure and the invisibility of the comprehension failure it causes. When a child misreads a word, the error is detectable — by the child, the teacher, or any observer. But when a child decodes a word correctly yet so slowly that the phonological trace fades before sentence completion, the failure is invisible at the level of individual word reading. The child reads every word in the sentence correctly. Yet comprehension is impaired. This asymmetry means that purely accuracy-focused reading assessment systematically *misses* the most common source of comprehension difficulty in non-dyslexic struggling readers. The child's problem is not that they cannot read words — it is that they cannot read them fast enough to hold a sentence together. Accuracy-based assessment gives a false all-clear.",
+        "line_number": 303,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 32513,
+        "char_end": 33444
+      },
+      {
+        "type": "definition",
+        "title": "Schema Automation in Reading",
+        "body": "[[Schema-Automation]] in the reading context refers to the process by which orthographic patterns — from individual grapheme-phoneme correspondences to morphemes, syllables, and whole words — become encoded as unified long-term memory schemas that can be retrieved as wholes rather than constructed from parts. When the spelling pattern \"tion\" has been encountered sufficient times, its phonological equivalent /ʃən/ can be retrieved as a unit from long-term memory rather than assembled from four separate grapheme-phoneme correspondences. The automated schema bypasses the capacity-limited working memory construction process entirely.",
+        "line_number": 310,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 33824,
+        "char_end": 34513
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Prosody as Mechanism, Not Symptom",
+        "body": "Prosody in oral reading is typically treated as an indicator of fluency — a symptom that reflects comprehension. But there is a compelling case that prosody is also partially a *mechanism* — that reading aloud with appropriate phrasing and intonation forces the reader to parse syntactic structure during oral production, which in turn scaffolds the same parsing process in comprehension. When students engage in repeated reading with explicit prosodic feedback (read it like you're telling the story), the explicit prosodic processing may strengthen syntactic parsing routines that aid comprehension. Prosody may be both a consequence of fluency and a training target that builds it.",
+        "line_number": 321,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 36664,
+        "char_end": 37413
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Automaticity in Reading → Automaticity in Music: The Same Architecture",
+        "body": "When a beginning piano student learns a piece, their attention is entirely consumed by identifying the notes, finding the keys, and producing individual sounds. When a piece becomes automatic — when note-reading and finger-placement are handled by procedures running below conscious attention — the musician can attend to phrasing, dynamics, expression, and musical communication. The parallel to reading is structural, not merely metaphorical. Both cases involve the same cognitive architecture: (1) a limited attentional resource, (2) lower-level processes that initially consume that resource, (3) practice-driven automatization of those lower-level processes, and (4) consequent liberation of attention for higher-order processing. The Focal-Subsidiary-Attention-Distinction describes both. In music as in reading, the art — the meaning-making — only becomes possible after the mechanics become automatic.",
+        "line_number": 330,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 38601,
+        "char_end": 39617
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Compensation Trap and Its Motivational Consequences",
+        "body": "The compensation trap has a particularly damaging motivational dimension. Students in the trap have learned, implicitly, that careful slow reading is the response to comprehension difficulty. But careful slow reading — precisely because it consumes the attentional resources needed for comprehension — does not actually solve the problem. The student reads carefully, still doesn't understand, and attributes the failure to insufficient effort or intelligence rather than to insufficient automaticity. This attribution error — \"I'm not smart enough to understand\" rather than \"my decoding is still not automatic enough to free my comprehension resources\" — is academically and motivationally devastating. The compensation trap manufactures [[Attribution-Theory|attributional]] patterns that generalize far beyond reading.",
+        "line_number": 337,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 40354,
+        "char_end": 41262
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Calibration Check",
+        "body": "Rate your understanding of the working memory bottleneck mechanism (1-10). Now, without looking back, explain why two readers with identical decoding accuracy might have dramatically different comprehension performance. If you find yourself drawing primarily on individual differences (intelligence, prior knowledge), the bottleneck mechanism may not yet be the default frame.",
+        "line_number": 340,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 41263,
+        "char_end": 41687
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Which mechanism most changed your understanding — phonological trace decay, schema automation, spreading activation dissipation, or the compensation trap? Why?\n**Application**: Can you identify a domain in your own intellectual practice where you are in a compensation trap — where effortful care masks inadequate automaticity rather than building it?\n**Extension**: Where might these mechanisms operate in second-language learning or the acquisition of technical vocabulary?",
+        "line_number": 345,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 42281,
+        "char_end": 42829
+      },
+      {
+        "type": "best-practice",
+        "title": "The 80/20 Reading Principle for Fluency Development",
+        "body": "Research on independent reading and fluency development suggests that students developing automaticity benefit from the \"Goldilocks\" text level: texts they can read with approximately 95-98% accuracy (instructional-independent level) rather than frustration-level texts. This range — accurate enough that errors don't overwhelm, challenging enough that novel words are encountered — creates the conditions for both [[Schema-Automation]] (practice with frequent patterns) and vocabulary growth. Reading at frustration level (below 90% accuracy) consumes working memory for error management and produces less automaticity development despite more apparent effort.",
+        "line_number": 360,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 43992,
+        "char_end": 44731
+      },
+      {
+        "type": "best-practice",
+        "title": "Silent vs. Oral Reading: A Non-Obvious Implication",
+        "body": "The working memory mechanism implies a counterintuitive finding for assessment: struggling readers' comprehension may be *worse* on silent reading than on oral reading of the same text, because oral reading requires maintenance of the phonological representation (keeping the \"voice\" of reading active in the phonological loop) even when working memory would otherwise allow the trace to fade. This means that oral reading fluency assessments, while valuable for fluency measurement, may somewhat *overestimate* comprehension compared to the silent reading conditions in which most academic reading occurs. Assessments should include both oral and silent reading comprehension measures for students suspected of automaticity difficulties.",
+        "line_number": 365,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 45132,
+        "char_end": 45947
+      },
+      {
+        "type": "definition",
+        "title": "Dyslexia (International Dyslexia Association)",
+        "body": "Dyslexia is a specific learning disability neurobiological in origin. It is characterized by difficulties with accurate and/or fluent word recognition and by poor spelling and decoding abilities. These difficulties typically result from a deficit in the phonological component of language that is often unexpected in relation to other cognitive abilities and the provision of effective classroom instruction.",
+        "line_number": 370,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 45985,
+        "char_end": 46462
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What Dyslexia Research Reveals About Automaticity",
+        "body": "The dyslexia literature provides a kind of natural experiment for the automaticity-liberation hypothesis. Longitudinal studies of individuals with dyslexia who receive effective phonics instruction show interesting dissociations: some achieve high accuracy (low error rates on oral reading) but persistent slow rate; their comprehension, on timed tasks, remains impaired even though their accuracy is normal. This \"accuracy-without-fluency\" pattern — which would be invisible to accuracy-focused assessment — is specifically predicted by the working memory bottleneck mechanism. It also implies that effective reading disability treatment must target automaticity specifically, not merely accuracy — a distinction that remains underemphasized in much educational practice.",
+        "line_number": 375,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 47102,
+        "char_end": 47963
+      },
+      {
+        "type": "warning",
+        "title": "The Speed-Reading Fallacy",
+        "body": "A pervasive misconception holds that fluency training is primarily about reading faster. The mechanism reveals why this is backwards: speed is a *consequence* of automaticity, not the target. Training students to read faster without building the underlying schema automation — as some speed-reading programs do, by promoting regression elimination and reducing subvocalization — tends to impair comprehension rather than liberate it. The bottleneck is in the automaticity of recognition, not in the surface behavior of rate. Addressing the surface behavior without addressing the underlying mechanism produces comprehension failures that look exactly like the problem fluency intervention was meant to solve.",
+        "line_number": 380,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 47991,
+        "char_end": 48745
+      },
+      {
+        "type": "warning",
+        "title": "The Prosody-Without-Comprehension Problem",
+        "body": "Prosodic fluency — reading with appropriate expression — can be trained without comprehension. Students who practice oral reading can learn to mimic the prosodic patterns of skilled reading without building the syntactic parsing and semantic integration that prosody is supposed to reflect. This produces readers who *sound* fluent but are not comprehending — a phenomenon related to the [[Fluency-Illusion]] in cognitive psychology. Assessment of prosody must be accompanied by comprehension checks to avoid mistaking performed fluency for genuine cognitive fluency.",
+        "line_number": 383,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 48746,
+        "char_end": 49375
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Implications",
+        "body": "**Comprehension**: What is the most important limitation identified in this phase, and how does it affect what practitioners should claim with confidence?\n**Application**: If you were a literacy coach in an elementary school, which single implication from this phase would most change your current practice?\n**Extension**: What additional evidence would you need before recommending that silent and oral reading comprehension be assessed separately for all struggling readers?",
+        "line_number": 392,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 50597,
+        "char_end": 51129
+      },
+      {
+        "type": "original-synthesis",
+        "title": "Cognitive Bandwidth Liberation as the Unifying Mechanism",
+        "body": "The multiple mechanisms identified in Phase IV — phonological trace decay, schema automation, spreading activation dissipation, the compensation trap — can be unified under a single architectural principle: **reading fluency is a cognitive bandwidth liberation problem**. The human cognitive architecture has a fixed attentional bandwidth. Word recognition, when non-automatic, consumes bandwidth that should be available for meaning-making. The educational project of fluency development is not primarily about reading faster — it is about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero. This framing unifies the [[Cognitive-Load-Theory]] perspective (reducing extraneous load to free resources for germane processing) with the [[Dual-Process-Theory]] perspective ([[Type-1-Processing|Type 1]] automatic recognition enabling [[Type-2-Processing|Type 2]] deliberate meaning-making) and the [[Focal-Subsidiary-Attention-Distinction]] (from words-as-focal to words-as-subsidiary). The common structure in all three is the same liberation of higher-order capacity through automatization of lower-order processes.",
+        "line_number": 415,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 53492,
+        "char_end": 54767
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Fluency-Metacognition Paradox",
+        "body": "A second, deeper synthesis emerges from connecting the automaticity framework to [[Metacognition]]. [[Comprehension-Monitoring]] — the metacognitive ability to detect when comprehension has failed — itself requires working memory resources. Ironically, disfluent readers — the readers whose comprehension is most likely to fail — have the least available working memory for detecting that it has failed. They are comprehending poorly, but their cognitive load from decoding leaves insufficient residual capacity to notice they are comprehending poorly. This creates a devastating double failure: impaired comprehension AND impaired monitoring of comprehension. The [[Fluency-Illusion]] described in metacognitive psychology has a structural parallel here — but instead of falsely believing one understands something just read, the disfluent reader falsely believes one doesn't understand when in fact the problem is decoding automaticity, not comprehension ability per se. The therapeutic implication is that comprehension strategy instruction is insufficient for truly disfluent readers because the metacognitive capacity required to execute comprehension strategies is also in short supply. The bottleneck must be addressed before metacognitive interventions can take hold.",
+        "line_number": 418,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 54768,
+        "char_end": 56108
+      },
+      {
+        "type": "key-takeaway",
+        "title": "The Central Analytical Contribution",
+        "body": "This analysis establishes that the primary causal mechanism in the fluency-comprehension relationship is not merely speed or accuracy but **cognitive bandwidth liberation** — the freeing of working memory resources through automatization of lower-level processes. This framing is not merely terminologically new; it has implications for assessment (target automaticity, not accuracy), for instruction (target volume and schema automation, not accuracy or speed per se), for reading disability (automaticity failure is a distinct clinical profile from language comprehension failure), and for understanding why early fluency gaps compound (the Matthew Effect is cognitively guaranteed, not merely motivationally mediated).",
+        "line_number": 421,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 56109,
+        "char_end": 56891
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension**: What is the most practically consequential insight from this analysis — not the most interesting finding, but the one with the greatest implications for how reading instruction is practiced?\n**Application**: If explaining the cognitive bandwidth liberation principle to a parent of a struggling reader in three sentences, what would you say?\n**Extension**: The fluency-metacognition paradox suggests that metacognitive instruction might backfire for disfluent readers. What kind of evidence would test this claim?",
+        "line_number": 426,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 57337,
+        "char_end": 57914
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Automaticity in Reading → Mathematical Reasoning",
+        "body": "The principle of automatization liberating attentional bandwidth operates in mathematical reasoning with the same architectural clarity as in reading. A student who must effortfully reconstruct multiplication facts during multi-step problem solving has their working memory consumed by arithmetic retrieval — leaving insufficient resources for the algebraic or logical reasoning that is the actual point of the task. Research on mathematical fluency shows that students with automatized arithmetic facts produce better performance on complex problem solving *even when calculators are permitted*, because the cognitive benefit of automatization is not merely computation time — it is the working memory freed for higher-order mathematical reasoning. The [[Schema-Automation]] mechanism is identical: frequent exposure automates fact retrieval as schema chunks, enabling higher-order processing to proceed without a resource bottleneck.",
+        "line_number": 441,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 59276,
+        "char_end": 60296
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Automaticity in Reading → Programming Fluency",
+        "body": "Novice programmers consume enormous working memory on syntax — remembering that loops require colons, that function definitions precede calls, that parentheses must be balanced. Expert programmers do not think about syntax; they think about algorithm structure and design patterns, with syntax operating automatically in the background. The transition from novice to expert programming is, mechanistically, a transition from syntax-focal to design-focal attention — driven by exactly the [[Focal-Subsidiary-Attention-Distinction]] that characterizes reading fluency development. The practical implication is identical: programming education should include high-volume syntax practice with familiar patterns to automatize them, freeing attention for algorithmic reasoning.",
+        "line_number": 444,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 60297,
+        "char_end": 61150
+      },
+      {
+        "type": "best-practice",
+        "title": "Application Bridge: Identifying Automaticity Bottlenecks in Skill Instruction",
+        "body": "In any domain where you are teaching a hierarchical skill, conduct a systematic audit for automaticity bottlenecks: identify the lower-level processes that the higher-order task requires, test whether learners can perform those processes automatically (accurately *and* without apparent effort), and target fluency-building practice specifically at any that are not yet automatic. The key adaptation from reading: unlike reading, many domains permit practice of lower-level components in isolated drill (arithmetic facts, syntax, music scales) that is more efficient than reading's whole-text approach.",
+        "line_number": 449,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 61712,
+        "char_end": 62418
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Reading Fluency → Writing Composition",
+        "body": "Bereiter and Scardamalia's foundational work on writing identified a \"knowledge-telling\" vs. \"knowledge-transforming\" distinction that maps precisely onto the bottleneck principle. Knowledge-telling writers (typically less skilled) write what they know sequentially, driven by content retrieval. Knowledge-transforming writers (skilled) simultaneously manage the content domain and the rhetorical domain — restructuring knowledge to serve argument. Research shows that knowledge-telling is the default strategy when writers are under high cognitive load from lower-level writing processes (spelling, punctuation, sentence construction). When lower-level processes are automated, the cognitive resources for knowledge-transforming writing become available. The reading fluency mechanism operates in writing with the same architecture: automatized mechanics → available bandwidth → higher-order composing processes.",
+        "line_number": 456,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 62942,
+        "char_end": 63929
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Matthew Effect in Reading → Matthew Effect in Vocabulary and World Knowledge",
+        "body": "Stanovich's own analysis extended the Matthew Effect beyond reading fluency to vocabulary and world knowledge. Fluent readers encounter more words, across more domains, and build larger vocabularies and richer background knowledge — which makes future reading easier, more productive, and more intrinsically motivating. The structural analogue in any domain of declarative knowledge is identical: early fluency in processing a domain's vocabulary and conceptual schemas determines both the *rate* of future learning (more efficient processing) and the *probability* of future engagement (more enjoyable experience). Early knowledge begets subsequent knowledge acquisition in a compounding asymmetry that is architecturally guaranteed, not merely probabilistically likely.",
+        "line_number": 467,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 64981,
+        "char_end": 65865
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "The structural principle of cognitive bandwidth liberation was identified in reading. Can you identify a domain in your own work or study where automaticity of lower-level processes is the primary bottleneck to higher-order performance? What would you predict should happen to higher-order quality if you spent 30 minutes daily for 60 days on deliberate practice of those lower-level processes? Testing this prediction — not just thinking about it — is how transfer becomes genuine capability.",
+        "line_number": 470,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 65866,
+        "char_end": 66410
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Transfer",
+        "body": "**Comprehension**: Which structural analogue surprised you most? Was the writing composition connection obvious, or did the mechanism comparison reveal something non-obvious about writing instruction?\n**Application**: Choose one application bridge and draft a specific plan for applying it in your own practice or teaching. What would 60 days of deliberate practice targeting automaticity bottlenecks look like in a specific domain?\n**Extension**: What does the transferability of these insights tell you about the relationship between cognitive architecture and skill learning across domains?",
+        "line_number": 477,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 67695,
+        "char_end": 68340
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\nThis focused analysis of reading fluency and automaticity connects to existing PKB nodes through the cognitive-architectural mechanisms at the analysis's core:\n\n- **[[Working-Memory]]** — The primary resource system whose capacity constraints create the fluency bottleneck. The phonological trace decay mechanism analyzed in Phase IV is a specific application of working memory's capacity and temporal limitations. The connection is bidirectional: this analysis provides a concrete worked example of working memory's bottleneck function in naturalistic skill performance.\n\n- **[[Cognitive-Load-Theory]]** — The fluency-comprehension link is a precision application of CLT: non-automatic decoding creates [[Extraneous-Load]] (resource consumption not contributing to the learning goal of comprehension) that displaces the [[Germane-Cognitive-Load]] required for schema construction. This analysis enriches CLT by showing how extraneous load can be generated by accurate (not merely erroneous) performance when that performance is non-automatic.\n\n- **[[Schema-Automation]]** — Schema automation in the reading context provides the mechanism by which practice transforms effortful decoding into automatic recognition. This analysis shows schema automation operating on orthographic patterns — a concrete domain for a concept that is sometimes discussed abstractly. The connection is also predictive: whatever interferes with schema automation (insufficient practice volume, over-reliance on context guessing that bypasses orthographic processing) should impair fluency development.\n\n- **[[Dual-Process-Theory]]** — The automaticity-liberation framework maps cleanly onto Type 1/Type 2 processing: fluent word recognition is a Type 1 process operating outside conscious attention; comprehension strategy deployment is a Type 2 process requiring deliberate attentional resources. Fluency is the mechanism by which reading's most critical lower-level process transitions from Type 2 to Type 1, enabling higher-order Type 2 processing to operate unimpeded.\n\n- **[[Matthew-Effect]]** — This analysis provides the cognitive-mechanistic account of why early reading skill gaps compound: the bottleneck mechanism guarantees that lower-skill readers extract less learning from equivalent reading time, creating a cognitive (not merely motivational) basis for the Matthew Effect's operation. The Matthew Effect note likely focuses on the behavioral and motivational dynamics; this analysis adds the architectural explanation.\n\n- **[[Focal-Subsidiary-Attention-Distinction]]** — The transition from reading words focally to reading through words subsidiarily is the phenomenological description of the automaticity development process this report analyzes mechanistically. The Polanyi framework provides the phenomenological language for what CLT and automaticity theory describe architecturally.\n\n- **[[Procedural-Memory]]** — Automatized reading skills are procedural in character: fast, non-conscious, resistant to degradation under dual-task conditions. The procedural memory note connects to the mechanism through which practiced decoding becomes automatic — the long-term memory encoding of orthographic processing routines that operate without working memory recruitment.\n\n- **[[Fluency-Illusion]]** — The fluency-metacognition paradox identified in Phase VI connects directly to the Fluency Illusion: disfluent readers cannot reliably distinguish between genuine comprehension and the illusion of comprehension, because both the comprehension process and its monitoring draw on the same depleted working memory pool.\n\n- **[[Dreyfus-Skill-Acquisition-Model]]** — The novice-to-expert transition in reading follows the Dreyfus model precisely: novices focus explicitly on decoding rules; experts process meaning holistically. This analysis grounds the Dreyfus model's phenomenological description in specific cognitive mechanisms (working memory, schema automation) that explain *why* the transition from rule-following to intuitive performance occurs.\n\n**Synthetic Observation**: The pattern of connections reveals that reading fluency and automaticity is a domain-specific worked example of a set of domain-general architectural principles — [[Working-Memory]] constraints, [[Schema-Automation]], [[Dual-Process-Theory]], and the [[Focal-Subsidiary-Attention-Distinction]] — that operate across all hierarchically organized skills. The PKB's existing nodes on these general principles can be enriched by the concrete, evidence-grounded mechanisms this analysis develops. Reading science is, in this sense, an empirical laboratory for theories that belong to the PKB's broader cognitive architecture.",
+        "line_number": 486,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 68399,
+        "char_end": 73186
+      },
+      {
+        "type": "definition",
+        "title": "Automaticity (LaBerge & Samuels, 1974)",
+        "body": "A cognitive process is automatic when it executes rapidly (sub-300ms), obligatorily (without requiring conscious intention), and without drawing on limited attentional resources that would otherwise be available for concurrent processing. In reading, automaticity refers specifically to word recognition — the visual recognition of printed words that activates phonological and semantic representations without deliberate decoding effort. Distinguished from accuracy (correctness) by the resource-free criterion: automatic processes can occur simultaneously with other attentional demands without mutual interference.",
+        "line_number": 517,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 73288,
+        "char_end": 73967
+      },
+      {
+        "type": "definition",
+        "title": "Oral Reading Fluency (ORF)",
+        "body": "The integrated ability to read connected text aloud with accuracy (low error rate), appropriate rate (words per minute), and prosody (expression, phrasing, and intonation reflecting comprehension of grammatical and semantic structure). ORF assessments, typically 1-minute timed passages, yield a Words Correct Per Minute (WCPM) score that is among the strongest brief predictors of reading comprehension. WCPM does not capture prosody and systematically underestimates fluency problems in accurate-but-slow readers.",
+        "line_number": 520,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 73968,
+        "char_end": 74533
+      },
+      {
+        "type": "definition",
+        "title": "Simple View of Reading (SVR) (Gough & Tunmer, 1986)",
+        "body": "The theoretical framework that posits Reading Comprehension = Decoding × Language Comprehension. The multiplicative formulation implies that weakness in either component drives comprehension to zero regardless of strength in the other. The SVR identifies two distinct reading disability profiles: decoding failure (dyslexia) and language comprehension failure (hyperlexia or specific language comprehension disorders).",
+        "line_number": 523,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 74534,
+        "char_end": 75027
+      },
+      {
+        "type": "definition",
+        "title": "Verbal Efficiency Theory (Perfetti, 1985)",
+        "body": "The theoretical account proposing that skilled reading depends on the speed and quality of local text processes — specifically word identification and the maintenance of decoded word representations in working memory long enough for integration into propositional and discourse representations. Verbal inefficiency (slow, resource-costly decoding) impairs comprehension not through inaccuracy but through the fading of phonological traces before integration can occur.",
+        "line_number": 526,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 75028,
+        "char_end": 75561
+      },
+      {
+        "type": "definition",
+        "title": "Matthew Effect in Reading (Stanovich, 1986)",
+        "body": "The compounding inequality in reading development whereby early reading skill advantages generate increased reading volume, vocabulary growth, and world knowledge, creating a positive feedback loop that accelerates skill development in already-skilled readers — while early skill deficits generate reading avoidance, reduced word exposure, and slower vocabulary and knowledge growth, creating a negative feedback loop. Named after the biblical observation that \"to he who has, more shall be given.\"",
+        "line_number": 529,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 75562,
+        "char_end": 76127
+      },
+      {
+        "type": "definition",
+        "title": "Phonological Loop (Baddeley's Working Memory Model)",
+        "body": "The [[Phonological-Loop]] is the component of working memory that maintains verbal information in a phonological (sound-based) code through active rehearsal. It holds approximately 3-4 items for approximately 2 seconds without rehearsal. In reading, the phonological loop maintains the sound representations of recently decoded words while subsequent words are processed — making it the critical resource for sentence-level integration. Non-automatic decoding consumes phonological loop resources, leaving insufficient capacity for maintaining sentence-length phonological representations.",
+        "line_number": 532,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 76128,
+        "char_end": 76792
+      },
+      {
+        "type": "definition",
+        "title": "Prosody (in oral reading)",
+        "body": "The suprasegmental features of spoken language — including pitch variation, stress, rhythm, tempo, and phrasing — applied to oral reading. Prosodic oral reading requires simultaneous processing of syntactic structure and semantic content during production, making appropriate prosody both a marker of comprehension and potentially a mechanism that scaffolds syntactic parsing. Prosodic fluency assessment goes beyond rate and accuracy to capture the quality dimension of fluent reading.",
+        "line_number": 535,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 76793,
+        "char_end": 77328
+      },
+      {
+        "type": "definition",
+        "title": "Decoding",
+        "body": "The translation of printed symbols (graphemes) into their phonological equivalents (phonemes) and from there to word-level representations. Decoding is the primary focus of early reading instruction and is the foundation on which fluency and comprehension are built. Decoding accuracy (getting the correct phonological representation) is distinguished from decoding automaticity (getting it without consuming working memory resources).",
+        "line_number": 538,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 77329,
+        "char_end": 77796
+      },
+      {
+        "type": "definition",
+        "title": "Repeated Reading (Samuels, 1979)",
+        "body": "An evidence-based fluency intervention in which students read short passages multiple times until reaching a fluency criterion (typically a target WCPM score), with corrective feedback from a tutor or teacher. Samuels demonstrated that repeated reading produces not only fluency gains on practiced passages but generalization to unpracticed text, indicating that practice builds transferable decoding efficiency rather than merely word-specific memorization.",
+        "line_number": 541,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 77797,
+        "char_end": 78311
+      },
+      {
+        "type": "definition",
+        "title": "Cognitive Bandwidth Liberation",
+        "body": "An original analytical synthesis from this report. The principle that the educational project of fluency development is fundamentally about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero — achieved through the automatization of orthographic schemas via high-volume practice. Unifies [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], and [[Focal-Subsidiary-Attention-Distinction]] accounts of fluency under a single architectural principle.",
+        "line_number": 544,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 78312,
+        "char_end": 78885
+      },
+      {
+        "type": "definition",
+        "title": "Compensation Trap",
+        "body": "A pattern in which a reader with inadequate decoding automaticity compensates by slowing down to maintain accuracy, producing low error rates on oral reading assessments while sustaining the working memory bottleneck and its comprehension consequences. The compensation trap is educationally dangerous because it renders the student invisible to accuracy-based screening while the Matthew Effect runs in the negative direction.",
+        "line_number": 547,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 78886,
+        "char_end": 79354
+      },
+      {
+        "type": "definition",
+        "title": "Dyslexia (International Dyslexia Association)",
+        "body": "A specific learning disability neurobiological in origin characterized by difficulties with accurate and/or fluent word recognition and by poor spelling and decoding abilities. These difficulties typically result from a deficit in the phonological component of language that is often unexpected in relation to other cognitive abilities and the provision of effective classroom instruction. Secondary consequences include reduced reading experience and reduced vocabulary and background knowledge growth.",
+        "line_number": 550,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 79355,
+        "char_end": 79927
+      },
+      {
+        "type": "cite",
+        "title": "LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293-323.",
+        "body": "The foundational paper proposing that skilled reading requires automaticity in lower-level processes (letter and word recognition) so that attention can be devoted to comprehension. Introduced the concept of automatic processing as a prerequisite for fluent reading and shaped subsequent fluency research for five decades. Referenced in Phases II and IV.",
+        "line_number": 557,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 79952,
+        "char_end": 80464
+      },
+      {
+        "type": "cite",
+        "title": "Gough, P. B., & Tunmer, W. E. (1986). Decoding, reading, and reading disability. *Remedial and Special Education, 7*(1), 6-10.",
+        "body": "The original presentation of the Simple View of Reading. Brief but theoretically important for establishing the two-component architecture of reading comprehension and the diagnostic clarity it provides for reading disability classification. Referenced in Phase II.",
+        "line_number": 560,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 80465,
+        "char_end": 80874
+      },
+      {
+        "type": "cite",
+        "title": "Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360-407.",
+        "body": "The seminal paper establishing the Matthew Effect in reading development. Synthesized longitudinal and cross-sectional evidence for the compounding inequality of early reading skill and its consequences for vocabulary, world knowledge, and cognitive development. One of the most cited papers in educational psychology. Referenced in Phases III and VII.",
+        "line_number": 563,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 80875,
+        "char_end": 81419
+      },
+      {
+        "type": "cite",
+        "title": "Perfetti, C. A. (1985). *Reading Ability*. Oxford University Press.",
+        "body": "The foundational monograph developing verbal efficiency theory. Establishes the working memory mechanism of the fluency-comprehension link and provides the most precise account of how local text processing efficiency determines comprehension quality. Referenced in Phases II and IV.",
+        "line_number": 566,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 81420,
+        "char_end": 81787
+      },
+      {
+        "type": "cite",
+        "title": "Wolf, M., & Katzir-Cohen, T. (2001). Reading fluency and its intervention. *Scientific Studies of Reading, 5*(3), 211-239.",
+        "body": "Influential paper providing the three-component (accuracy, rate, prosody) definition of reading fluency and a comprehensive review of fluency intervention approaches. Also presents Wolf's RAVE-O program (Retrieval, Automaticity, Vocabulary elaboration, Engagement with language, Orthography) as a multidimensional fluency intervention. Referenced in Phase II.",
+        "line_number": 569,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 81788,
+        "char_end": 82287
+      },
+      {
+        "type": "cite",
+        "title": "National Reading Panel. (2000). *Teaching Children to Read: An Evidence-Based Assessment of the Scientific Research Literature on Reading and Its Implications for Reading Instruction*. National Institutes of Health.",
+        "body": "The comprehensive government-commissioned meta-analysis of reading research that identified phonemic awareness, phonics, fluency, vocabulary, and comprehension as the five pillars of reading instruction. Established the evidentiary basis for guided oral reading as an effective fluency intervention. Referenced in Phase III.",
+        "line_number": 572,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 82288,
+        "char_end": 82845
+      },
+      {
+        "type": "cite",
+        "title": "Samuels, S. J. (1979). The method of repeated readings. *The Reading Teacher, 32*(4), 403-408.",
+        "body": "The original paper describing the repeated reading technique for fluency development. Demonstrated that multiple readings of short passages to a fluency criterion produce both within-text fluency gains and generalization to new text — providing evidence for automatization of processing capabilities rather than text-specific memorization. Referenced in Phases III and V.",
+        "line_number": 575,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 82846,
+        "char_end": 83329
+      },
+      {
+        "type": "cite",
+        "title": "Baddeley, A. D. (1986). *Working Memory*. Oxford University Press.",
+        "body": "The foundational monograph developing the multi-component model of working memory including the phonological loop, visuospatial sketchpad, and central executive. Provides the theoretical basis for understanding how decoding resource demands interact with sentence-level integration. Referenced in Phase IV.",
+        "line_number": 578,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 83330,
+        "char_end": 83720
+      },
+      {
+        "type": "cite",
+        "title": "Kuhn, M. R., & Stahl, S. A. (2003). Fluency: A review of developmental and remedial practices. *Journal of Educational Psychology, 95*(1), 3-21.",
+        "body": "Comprehensive meta-analytic review of fluency development and intervention research. Established effect sizes for guided oral reading on fluency and comprehension outcomes and identified the conditions under which fluency interventions are most effective. Referenced in Phase III.",
+        "line_number": 581,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 83721,
+        "char_end": 84163
+      },
+      {
+        "type": "cite",
+        "title": "Rasinski, T. V. (2004). *The Fluent Reader: Oral Reading Strategies for Building Word Recognition, Fluency, and Comprehension*. Scholastic.",
+        "body": "Practical and theoretical synthesis of fluency research with instructional applications. Emphasizes prosody as a component of fluency and its relationship to comprehension. Accessible treatment for practitioners building on the same research base. Referenced in Phases II and V.",
+        "line_number": 584,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 84164,
+        "char_end": 84599
+      },
+      {
+        "type": "cite",
+        "title": "Kintsch, W., & van Dijk, T. A. (1978). Toward a model of text comprehension and production. *Psychological Review, 85*(5), 363-394.",
+        "body": "The foundational model of text comprehension as the construction of a situation model. Critical for understanding why fluency impairment affects not just word-level processing but the coherence of the mental representation of text content. Referenced in Phase IV.",
+        "line_number": 587,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 84600,
+        "char_end": 85012
+      },
+      {
+        "type": "cite",
+        "title": "Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.",
+        "body": "Philosophical work developing the focal-subsidiary attention distinction — the concept that skilled performance involves attending through tools (words, instruments, syntax) to goals (meaning, music, argument), with the tools operating subsidiarily rather than focally. Provides the phenomenological framework for the automaticity transition in reading. Referenced in Phase IV.",
+        "line_number": 590,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 85013,
+        "char_end": 85461
+      },
+      {
+        "type": "cite",
+        "title": "Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum.",
+        "body": "Foundational work distinguishing knowledge-telling from knowledge-transforming writing strategies. Provides the empirical basis for the bottleneck analysis in Phase VII: writing mechanics non-automaticity drives knowledge-telling as a low-cognitive-demand default strategy. Referenced in Phase VII.",
+        "line_number": 593,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 85462,
+        "char_end": 85876
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on three categories of evidence: (1) *Empirically established claims* — the correlation between oral reading fluency and comprehension; the evidence from dual-task paradigms for working memory competition; the meta-analytic evidence for repeated reading effects; and the longitudinal evidence for the Matthew Effect. These claims rest on substantial peer-reviewed evidence and are not in serious scientific dispute. (2) *Theoretical integrations* — the synthesis of LaBerge and Samuels' automaticity theory with Baddeley's working memory model and Perfetti's verbal efficiency theory as a unified bottleneck account; the Polanyi focal-subsidiary-attention framework as phenomenological description; the Dreyfus model as developmental description. These integrations are analytically defensible and well-grounded but represent synthetic framings rather than individually published positions. (3) *Claude's original analytical contributions* — the cognitive bandwidth liberation synthesis as a unifying principle across multiple theoretical traditions; the fluency-metacognition paradox as a second synthesis; the structural transfer analyses to programming, mathematics, and writing composition. These are marked throughout the report with analytical commentary callouts and are distinguished from the empirical and theoretical content. The FAR Transfer phase draws on the structural logic of the mechanisms identified, extrapolated to domains where the same cognitive architecture applies.",
+        "line_number": 600,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 85919,
+        "char_end": 87497
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "> [!topic-idea] **[[Phonological-Awareness-and-Fluency-Development]]** *(new PKB node)*\n> The phonological awareness research tradition — distinguishing phonological sensitivity, phonological memory, and phonological recoding in lexical access — provides the developmental precursors to the automaticity mechanisms analyzed here. A focused note would examine how phonological awareness instruction in pre-literacy and early literacy builds the phonological representation quality that determines the speed and accuracy with which grapheme-phoneme correspondences can be automatized through reading practice. Connects to [[Phonological-Loop]] and [[Schema-Automation]].\n\n> [!topic-idea] **[[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and Fluency Development]]**\n> The relationship between deliberate practice theory (Ericsson) and fluency-building practice in reading is conceptually rich. Deliberate practice requires operating at the edge of current competence — but fluency-building practice requires operating within comfortable competence (95-98% accuracy text) to maximize practice-volume-per-unit-time. These prescriptions conflict. A focused analysis would examine whether fluency development is best understood as deliberate practice or as high-volume proceduralization, and what the difference implies for instructional design.\n\n> [!topic-idea] **[[Fluency-Assessment-and-the-Accuracy-Automaticity-Gap]]** *(new PKB node)*\n> The compensation trap identified in this analysis — accurate-but-slow readers who are invisible to error-rate assessment — suggests a significant gap in current reading assessment practice. A focused analysis of fluency assessment methodology would examine the evidence for different assessment formats (WCPM, prosody rubrics, silent reading rate, maze tasks) and their differential ability to detect automaticity bottlenecks in readers who have compensated through rate reduction. Connects to [[Metacognitive-Monitoring]] and [[Formative-Assessment]].\n\n> [!topic-idea] **[[Automaticity-and-Skill-Hierarchies-in-Athletic-Performance]]** *(transfer-oriented)*\n> A transfer-oriented investigation extending the cognitive bandwidth liberation principle to athletic skill acquisition. Motor learning research on automaticity — the shift from controlled to automatic processing in movement execution — provides a rich parallel to reading fluency research. Key questions: Does motor automaticity liberate attentional bandwidth for tactical and situational awareness in the same way reading automaticity liberates bandwidth for comprehension? What are the practice conditions that most efficiently drive motor automatization? Connects to [[Dreyfus-Skill-Acquisition-Model]], [[Procedural-Memory]], and [[Transfer-of-Learning]].\n\n> [!topic-idea] **[[Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps]]** *(new PKB node)*\n> The Matthew Effect in reading is cognitively guaranteed once established — but it is not inevitable from birth. A focused analysis of prevention and early intervention research would examine which instructional approaches successfully interrupt the Matthew Effect trajectory: what timing (kindergarten vs. first grade), what intensity (Tier 2 vs. Tier 3), and what instructional components (phonemic awareness, phonics, fluency volume) are most effective for at-risk early readers. Connects to [[Formative-Assessment]], [[Deliberate-Practice-Log]], and [[Prior-Knowledge-Activation]].\n\n> [!topic-idea] **[[The-Fluency-Metacognition-Paradox-Instructional-Implications]]** *(new PKB node)*\n> The synthesis in Phase VI identifying that disfluent readers have simultaneously impaired comprehension and impaired comprehension monitoring deserves its own focused analysis. The instructional implications are non-trivial: metacognitive comprehension strategy instruction may be premature (or actively counterproductive) for readers below a fluency threshold because the cognitive bandwidth to execute it is not available. A focused analysis would examine the evidence for metacognitive intervention sequencing, the threshold question, and the design of metacognitive instruction scaffolded for high-cognitive-load reading conditions. Connects to [[Metacognitive-Monitoring]], [[Fluency-Illusion]], and [[Cognitive-Load-Theory]].",
+        "line_number": 607,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md",
+        "char_start": 87528,
+        "char_end": 91950
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 162,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "The question matters because the relationship between decoding fluency and reading comprehension is not merely correlational. It is architectural. The cognitive apparatus that reads — the [[Working-Memory]] system with its strictly limited capacity, the [[Phonological-Loop]] that maintains sound representations, the higher-order processes that construct meaning from sequential words — is not infinitely scalable. When word recognition consumes attentional resources, those resources are unavailable for comprehension. The child sounding out \"c-a-t\" syllable by syllable cannot simultaneously be constructing a mental model of what cats mean in the story. The architecture creates a bottleneck, and fluency is the mechanism for expanding it.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 162,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "The question matters because the relationship between decoding fluency and reading comprehension is not merely correlational. It is architectural. The cognitive apparatus that reads — the [[Working-Memory]] system with its strictly limited capacity, the [[Phonological-Loop]] that maintains sound representations, the higher-order processes that construct meaning from sequential words — is not infinitely scalable. When word recognition consumes attentional resources, those resources are unavailable for comprehension. The child sounding out \"c-a-t\" syllable by syllable cannot simultaneously be constructing a mental model of what cats mean in the story. The architecture creates a bottleneck, and fluency is the mechanism for expanding it.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Matthew-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Matthew-Effect]]",
+        "line_number": 169,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "**Scope and Boundaries**: This report focuses on the cognitive mechanisms linking automaticity to comprehension in alphabetic languages (primarily English), the developmental trajectory of fluency acquisition, evidence for its causal role (not merely correlation), instructional implications including evidence for repeated reading and fluency-building approaches, and the [[Matthew-Effect]] as a systemic consequence of early fluency failure. It does not deeply examine second-language reading, non-alphabetic writing systems, or the neuroscience of reading circuits (though brief connections are made). The emphasis throughout is on the *mechanisms*, not merely the phenomena.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 204,
+        "section": "LaBerge and Samuels' Automaticity Theory",
+        "context_line": "> Charles Perfetti's verbal efficiency theory refines LaBerge and Samuels by specifying the locus of the bottleneck more precisely. Verbal efficiency refers to the speed and quality of local text processes — particularly word identification and the maintenance of decoded words in [[Working-Memory]] long enough to be integrated into propositions and sentences. Inefficient local processes create a resource drain that impairs not just the speed of comprehension but its quality and completeness, because the products of word recognition may fade from working memory before they can be integrated into the reader's text representation.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 246,
+        "section": "Key Evidence for the Bottleneck Mechanism",
+        "context_line": "> Taken across multiple experimental paradigms — dual-task studies, text manipulation studies, and individual differences research — the evidence converges on a specific causal pathway: non-automatic decoding creates a continuous resource drain that prevents the [[Working-Memory]] system from maintaining decoded text products long enough for integration into coherent sentence and discourse representations. This is not a story about general cognitive ability differences between good and poor readers; it is a story about a specific, addressable architectural bottleneck.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Matthew-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Matthew-Effect]]",
+        "line_number": 262,
+        "section": "The Matthew Effect: Longitudinal Evidence",
+        "context_line": "Perhaps the most powerful evidence for the causal importance of early fluency is longitudinal. Stanovich's (1986) seminal synthesis of the **[[Matthew-Effect]]** in reading — named after the biblical observation that \"the rich get richer and the poor get poorer\" — showed that early differences in reading fluency compound dramatically over time.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Matthew-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Matthew-Effect]]",
+        "line_number": 268,
+        "section": "The Matthew Effect: Longitudinal Evidence",
+        "context_line": "> The [[Matthew-Effect]] is usually analyzed as a motivational and behavioral phenomenon — skilled readers enjoy reading, so they read more; struggling readers avoid it. But there is a deeper cognitive layer. Non-automatic decoding does not merely reduce the *pleasure* of reading; it reduces its *cognitive affordance*. A disfluent reader attempting to read text at grade level is operating near or above their cognitive capacity ceiling. At that load level, the [[Germane-Cognitive-Load|germane cognitive load]] required for schema construction is unavailable — meaning the reading experience does not build the knowledge structures that would make future reading easier. The struggling reader is not merely reading less enjoyable text; they are reading in a cognitive state that prevents the kind of deep processing that would generate lasting knowledge gains. The cognitive architecture itself guarantees that effortful reading produces less learning than effortless reading of the same text.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Germane-Cognitive-Load",
+        "heading": null,
+        "display_text": "germane cognitive load",
+        "full_match": "[[Germane-Cognitive-Load|germane cognitive load]]",
+        "line_number": 268,
+        "section": "The Matthew Effect: Longitudinal Evidence",
+        "context_line": "> The [[Matthew-Effect]] is usually analyzed as a motivational and behavioral phenomenon — skilled readers enjoy reading, so they read more; struggling readers avoid it. But there is a deeper cognitive layer. Non-automatic decoding does not merely reduce the *pleasure* of reading; it reduces its *cognitive affordance*. A disfluent reader attempting to read text at grade level is operating near or above their cognitive capacity ceiling. At that load level, the [[Germane-Cognitive-Load|germane cognitive load]] required for schema construction is unavailable — meaning the reading experience does not build the knowledge structures that would make future reading easier. The struggling reader is not merely reading less enjoyable text; they are reading in a cognitive state that prevents the kind of deep processing that would generate lasting knowledge gains. The cognitive architecture itself guarantees that effortful reading produces less learning than effortless reading of the same text.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Baddeley's-Working-Memory-Model",
+        "heading": null,
+        "display_text": "Baddeley's working memory model",
+        "full_match": "[[Baddeley's-Working-Memory-Model|Baddeley's working memory model]]",
+        "line_number": 297,
+        "section": "The Working Memory Architecture of Reading",
+        "context_line": "> [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] includes three primary components relevant to reading: (1) the [[Phonological-Loop]], which holds verbal material in a phonological code for approximately 2 seconds through active rehearsal; (2) the visuospatial sketchpad, which processes visual features of text (orthography, spatial layout); and (3) the central executive, which allocates attentional resources, switches between tasks, and coordinates the interaction of long-term memory with active processing. Working memory capacity is limited — typically 3-4 chunks for the phonological loop — and reading creates high demands on all three components simultaneously.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 297,
+        "section": "The Working Memory Architecture of Reading",
+        "context_line": "> [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] includes three primary components relevant to reading: (1) the [[Phonological-Loop]], which holds verbal material in a phonological code for approximately 2 seconds through active rehearsal; (2) the visuospatial sketchpad, which processes visual features of text (orthography, spatial layout); and (3) the central executive, which allocates attentional resources, switches between tasks, and coordinates the interaction of long-term memory with active processing. Working memory capacity is limited — typically 3-4 chunks for the phonological loop — and reading creates high demands on all three components simultaneously.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 308,
+        "section": "Schema Automation and Long-Term Working Memory",
+        "context_line": "LaBerge and Samuels' original model characterized automaticity in terms of attentional resources. A more refined account requires [[Schema-Automation]] — the process by which frequently encountered patterns are encoded in long-term memory as unified, retrievable chunks that bypass the capacity limitations of working memory.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 311,
+        "section": "Schema Automation and Long-Term Working Memory",
+        "context_line": "> [[Schema-Automation]] in the reading context refers to the process by which orthographic patterns — from individual grapheme-phoneme correspondences to morphemes, syllables, and whole words — become encoded as unified long-term memory schemas that can be retrieved as wholes rather than constructed from parts. When the spelling pattern \"tion\" has been encountered sufficient times, its phonological equivalent /ʃən/ can be retrieved as a unit from long-term memory rather than assembled from four separate grapheme-phoneme correspondences. The automated schema bypasses the capacity-limited working memory construction process entirely.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 313,
+        "section": "Schema Automation and Long-Term Working Memory",
+        "context_line": "The mechanism of [[Schema-Automation]] explains why repeated reading generalizes beyond practiced texts. What develops through extended practice is not a list of memorized word-to-pronunciation mappings but a richer and more differentiated set of orthographic schemas — for common letter patterns, morphemes, and high-frequency words — that can be assembled into novel word recognitions more efficiently than starting from scratch. This is why fluency instruction should include work with common sub-lexical patterns (onsets, rimes, morphemes) and not merely whole-word memorization.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Situation-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Situation-Model]]",
+        "line_number": 315,
+        "section": "Schema Automation and Long-Term Working Memory",
+        "context_line": "Kintsch and van Dijk's [[Situation-Model]] framework adds a further dimension: skilled reading constructs not just propositional representations of individual sentences but an integrated situational model of the text's described world. This construction process is itself cognitively demanding. When decoding consumes working memory resources, not only are individual propositions poorly integrated, but the construction of a coherent situation model becomes impossible — even if individual sentences are adequately decoded. This is why disfluent reading impairs comprehension even of texts whose individual sentences the reader could understand if presented aloud.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 319,
+        "section": "The Role of the Phonological Loop and Spreading Activation",
+        "context_line": "The [[Phonological-Loop]] is not merely a passive holding buffer — it interacts dynamically with long-term memory retrieval through [[Spreading-Activation]]. When a word is recognized, its phonological representation automatically activates semantically and syntactically related concepts in long-term memory. This activation fades over several seconds. For skilled readers, word recognition is rapid enough that spreading activation from word N is still potent when word N+5 or N+6 is processed, enabling syntactic and semantic integration across long stretches of text. For disfluent readers, the slow recognition pace means that spreading activation from early words has largely dissipated by the time later words are reached — making cross-sentence integration dependent on conscious re-activation rather than automatic priming.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Spreading-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Spreading-Activation]]",
+        "line_number": 319,
+        "section": "The Role of the Phonological Loop and Spreading Activation",
+        "context_line": "The [[Phonological-Loop]] is not merely a passive holding buffer — it interacts dynamically with long-term memory retrieval through [[Spreading-Activation]]. When a word is recognized, its phonological representation automatically activates semantically and syntactically related concepts in long-term memory. This activation fades over several seconds. For skilled readers, word recognition is rapid enough that spreading activation from word N is still potent when word N+5 or N+6 is processed, enabling syntactic and semantic integration across long stretches of text. For disfluent readers, the slow recognition pace means that spreading activation from early words has largely dissipated by the time later words are reached — making cross-sentence integration dependent on conscious re-activation rather than automatic priming.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Focal-Subsidiary-Attention-Distinction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal-Subsidiary-Attention-Distinction]]",
+        "line_number": 326,
+        "section": "The Focal-Subsidiary Attention Dynamic in Expert Reading",
+        "context_line": "One of the most illuminating frameworks for understanding how automaticity changes the character of reading comes from Polanyi's [[Focal-Subsidiary-Attention-Distinction]]. In skilled performance, attention shifts from the tool being used to the goal being pursued — from the subsidiary mechanisms to the focal task. Skilled readers do not focus on words; they focus through words to meaning. Beginning readers focus on words, which means meaning must be constructed in whatever attentional residue remains.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dreyfus-Skill-Acquisition-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dreyfus-Skill-Acquisition-Model]]",
+        "line_number": 328,
+        "section": "The Focal-Subsidiary Attention Dynamic in Expert Reading",
+        "context_line": "This framework connects to the [[Dreyfus-Skill-Acquisition-Model]], which describes novice-to-expert transitions in terms of precisely this shift: novices focus explicitly on rules and components; experts perceive and respond holistically, with rules operating in the background. Reading fluency is the specific mechanism by which novice word-focused reading transitions to expert meaning-focused reading. The Dreyfus model predicts — and fluency research confirms — that this transition is not primarily about learning new rules but about accumulated practice that transforms explicit rules into tacit competence.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": "attributional",
+        "full_match": "[[Attribution-Theory|attributional]]",
+        "line_number": 338,
+        "section": "The Compensation Trap: When Accuracy Masks Automaticity Failure",
+        "context_line": "> The compensation trap has a particularly damaging motivational dimension. Students in the trap have learned, implicitly, that careful slow reading is the response to comprehension difficulty. But careful slow reading — precisely because it consumes the attentional resources needed for comprehension — does not actually solve the problem. The student reads carefully, still doesn't understand, and attributes the failure to insufficient effort or intelligence rather than to insufficient automaticity. This attribution error — \"I'm not smart enough to understand\" rather than \"my decoding is still not automatic enough to free my comprehension resources\" — is academically and motivationally devastating. The compensation trap manufactures [[Attribution-Theory|attributional]] patterns that generalize far beyond reading.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 361,
+        "section": "Direct Instructional Implications",
+        "context_line": "> Research on independent reading and fluency development suggests that students developing automaticity benefit from the \"Goldilocks\" text level: texts they can read with approximately 95-98% accuracy (instructional-independent level) rather than frustration-level texts. This range — accurate enough that errors don't overwhelm, challenging enough that novel words are encountered — creates the conditions for both [[Schema-Automation]] (practice with frequent patterns) and vocabulary growth. Reading at frustration level (below 90% accuracy) consumes working memory for error management and produces less automaticity development despite more apparent effort.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 373,
+        "section": "Reading Disability and Dyslexia",
+        "context_line": "The phonological deficit account of dyslexia — the dominant scientific consensus — connects directly to the automaticity mechanism. Individuals with dyslexia show persistent difficulty automating the grapheme-phoneme correspondences that underlie fluent word recognition, even after extensive instruction. This is not a failure of accuracy (many individuals with dyslexia can decode correctly, slowly) but of automaticity — the decoding process never becomes resource-free. The [[Phonological-Loop]] representation that should activate rapidly upon visual word recognition remains slow and effortful throughout development in many cases.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 384,
+        "section": "Common Misconceptions",
+        "context_line": "> Prosodic fluency — reading with appropriate expression — can be trained without comprehension. Students who practice oral reading can learn to mimic the prosodic patterns of skilled reading without building the syntactic parsing and semantic integration that prosody is supposed to reflect. This produces readers who *sound* fluent but are not comprehending — a phenomenon related to the [[Fluency-Illusion]] in cognitive psychology. Assessment of prosody must be accompanied by comprehension checks to avoid mistaking performed fluency for genuine cognitive fluency.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 416,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> The multiple mechanisms identified in Phase IV — phonological trace decay, schema automation, spreading activation dissipation, the compensation trap — can be unified under a single architectural principle: **reading fluency is a cognitive bandwidth liberation problem**. The human cognitive architecture has a fixed attentional bandwidth. Word recognition, when non-automatic, consumes bandwidth that should be available for meaning-making. The educational project of fluency development is not primarily about reading faster — it is about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero. This framing unifies the [[Cognitive-Load-Theory]] perspective (reducing extraneous load to free resources for germane processing) with the [[Dual-Process-Theory]] perspective ([[Type-1-Processing|Type 1]] automatic recognition enabling [[Type-2-Processing|Type 2]] deliberate meaning-making) and the [[Focal-Subsidiary-Attention-Distinction]] (from words-as-focal to words-as-subsidiary). The common structure in all three is the same liberation of higher-order capacity through automatization of lower-order processes.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dual-Process-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process-Theory]]",
+        "line_number": 416,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> The multiple mechanisms identified in Phase IV — phonological trace decay, schema automation, spreading activation dissipation, the compensation trap — can be unified under a single architectural principle: **reading fluency is a cognitive bandwidth liberation problem**. The human cognitive architecture has a fixed attentional bandwidth. Word recognition, when non-automatic, consumes bandwidth that should be available for meaning-making. The educational project of fluency development is not primarily about reading faster — it is about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero. This framing unifies the [[Cognitive-Load-Theory]] perspective (reducing extraneous load to free resources for germane processing) with the [[Dual-Process-Theory]] perspective ([[Type-1-Processing|Type 1]] automatic recognition enabling [[Type-2-Processing|Type 2]] deliberate meaning-making) and the [[Focal-Subsidiary-Attention-Distinction]] (from words-as-focal to words-as-subsidiary). The common structure in all three is the same liberation of higher-order capacity through automatization of lower-order processes.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Type-1-Processing",
+        "heading": null,
+        "display_text": "Type 1",
+        "full_match": "[[Type-1-Processing|Type 1]]",
+        "line_number": 416,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> The multiple mechanisms identified in Phase IV — phonological trace decay, schema automation, spreading activation dissipation, the compensation trap — can be unified under a single architectural principle: **reading fluency is a cognitive bandwidth liberation problem**. The human cognitive architecture has a fixed attentional bandwidth. Word recognition, when non-automatic, consumes bandwidth that should be available for meaning-making. The educational project of fluency development is not primarily about reading faster — it is about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero. This framing unifies the [[Cognitive-Load-Theory]] perspective (reducing extraneous load to free resources for germane processing) with the [[Dual-Process-Theory]] perspective ([[Type-1-Processing|Type 1]] automatic recognition enabling [[Type-2-Processing|Type 2]] deliberate meaning-making) and the [[Focal-Subsidiary-Attention-Distinction]] (from words-as-focal to words-as-subsidiary). The common structure in all three is the same liberation of higher-order capacity through automatization of lower-order processes.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Type-2-Processing",
+        "heading": null,
+        "display_text": "Type 2",
+        "full_match": "[[Type-2-Processing|Type 2]]",
+        "line_number": 416,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> The multiple mechanisms identified in Phase IV — phonological trace decay, schema automation, spreading activation dissipation, the compensation trap — can be unified under a single architectural principle: **reading fluency is a cognitive bandwidth liberation problem**. The human cognitive architecture has a fixed attentional bandwidth. Word recognition, when non-automatic, consumes bandwidth that should be available for meaning-making. The educational project of fluency development is not primarily about reading faster — it is about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero. This framing unifies the [[Cognitive-Load-Theory]] perspective (reducing extraneous load to free resources for germane processing) with the [[Dual-Process-Theory]] perspective ([[Type-1-Processing|Type 1]] automatic recognition enabling [[Type-2-Processing|Type 2]] deliberate meaning-making) and the [[Focal-Subsidiary-Attention-Distinction]] (from words-as-focal to words-as-subsidiary). The common structure in all three is the same liberation of higher-order capacity through automatization of lower-order processes.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Focal-Subsidiary-Attention-Distinction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal-Subsidiary-Attention-Distinction]]",
+        "line_number": 416,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> The multiple mechanisms identified in Phase IV — phonological trace decay, schema automation, spreading activation dissipation, the compensation trap — can be unified under a single architectural principle: **reading fluency is a cognitive bandwidth liberation problem**. The human cognitive architecture has a fixed attentional bandwidth. Word recognition, when non-automatic, consumes bandwidth that should be available for meaning-making. The educational project of fluency development is not primarily about reading faster — it is about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero. This framing unifies the [[Cognitive-Load-Theory]] perspective (reducing extraneous load to free resources for germane processing) with the [[Dual-Process-Theory]] perspective ([[Type-1-Processing|Type 1]] automatic recognition enabling [[Type-2-Processing|Type 2]] deliberate meaning-making) and the [[Focal-Subsidiary-Attention-Distinction]] (from words-as-focal to words-as-subsidiary). The common structure in all three is the same liberation of higher-order capacity through automatization of lower-order processes.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 419,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> A second, deeper synthesis emerges from connecting the automaticity framework to [[Metacognition]]. [[Comprehension-Monitoring]] — the metacognitive ability to detect when comprehension has failed — itself requires working memory resources. Ironically, disfluent readers — the readers whose comprehension is most likely to fail — have the least available working memory for detecting that it has failed. They are comprehending poorly, but their cognitive load from decoding leaves insufficient residual capacity to notice they are comprehending poorly. This creates a devastating double failure: impaired comprehension AND impaired monitoring of comprehension. The [[Fluency-Illusion]] described in metacognitive psychology has a structural parallel here — but instead of falsely believing one understands something just read, the disfluent reader falsely believes one doesn't understand when in fact the problem is decoding automaticity, not comprehension ability per se. The therapeutic implication is that comprehension strategy instruction is insufficient for truly disfluent readers because the metacognitive capacity required to execute comprehension strategies is also in short supply. The bottleneck must be addressed before metacognitive interventions can take hold.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Comprehension-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Comprehension-Monitoring]]",
+        "line_number": 419,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> A second, deeper synthesis emerges from connecting the automaticity framework to [[Metacognition]]. [[Comprehension-Monitoring]] — the metacognitive ability to detect when comprehension has failed — itself requires working memory resources. Ironically, disfluent readers — the readers whose comprehension is most likely to fail — have the least available working memory for detecting that it has failed. They are comprehending poorly, but their cognitive load from decoding leaves insufficient residual capacity to notice they are comprehending poorly. This creates a devastating double failure: impaired comprehension AND impaired monitoring of comprehension. The [[Fluency-Illusion]] described in metacognitive psychology has a structural parallel here — but instead of falsely believing one understands something just read, the disfluent reader falsely believes one doesn't understand when in fact the problem is decoding automaticity, not comprehension ability per se. The therapeutic implication is that comprehension strategy instruction is insufficient for truly disfluent readers because the metacognitive capacity required to execute comprehension strategies is also in short supply. The bottleneck must be addressed before metacognitive interventions can take hold.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 419,
+        "section": "Returning to the Phase II Concepts",
+        "context_line": "> A second, deeper synthesis emerges from connecting the automaticity framework to [[Metacognition]]. [[Comprehension-Monitoring]] — the metacognitive ability to detect when comprehension has failed — itself requires working memory resources. Ironically, disfluent readers — the readers whose comprehension is most likely to fail — have the least available working memory for detecting that it has failed. They are comprehending poorly, but their cognitive load from decoding leaves insufficient residual capacity to notice they are comprehending poorly. This creates a devastating double failure: impaired comprehension AND impaired monitoring of comprehension. The [[Fluency-Illusion]] described in metacognitive psychology has a structural parallel here — but instead of falsely believing one understands something just read, the disfluent reader falsely believes one doesn't understand when in fact the problem is decoding automaticity, not comprehension ability per se. The therapeutic implication is that comprehension strategy instruction is insufficient for truly disfluent readers because the metacognitive capacity required to execute comprehension strategies is also in short supply. The bottleneck must be addressed before metacognitive interventions can take hold.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 435,
+        "section": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "context_line": "[**FAR-Transfer-Phase**:: This phase moves the analysis's most important insights beyond reading, extracting domain-independent structural principles and identifying their application in musical performance, mathematical reasoning, programming skill development, and writing composition. Grounded in [[Transfer-of-Learning]] research — transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding.]",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 442,
+        "section": "Abstract Principle 1: Automatization Liberates Attentional Bandwidth for Higher-Order Processing",
+        "context_line": "> The principle of automatization liberating attentional bandwidth operates in mathematical reasoning with the same architectural clarity as in reading. A student who must effortfully reconstruct multiplication facts during multi-step problem solving has their working memory consumed by arithmetic retrieval — leaving insufficient resources for the algebraic or logical reasoning that is the actual point of the task. Research on mathematical fluency shows that students with automatized arithmetic facts produce better performance on complex problem solving *even when calculators are permitted*, because the cognitive benefit of automatization is not merely computation time — it is the working memory freed for higher-order mathematical reasoning. The [[Schema-Automation]] mechanism is identical: frequent exposure automates fact retrieval as schema chunks, enabling higher-order processing to proceed without a resource bottleneck.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Focal-Subsidiary-Attention-Distinction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal-Subsidiary-Attention-Distinction]]",
+        "line_number": 445,
+        "section": "Abstract Principle 1: Automatization Liberates Attentional Bandwidth for Higher-Order Processing",
+        "context_line": "> Novice programmers consume enormous working memory on syntax — remembering that loops require colons, that function definitions precede calls, that parentheses must be balanced. Expert programmers do not think about syntax; they think about algorithm structure and design patterns, with syntax operating automatically in the background. The transition from novice to expert programming is, mechanistically, a transition from syntax-focal to design-focal attention — driven by exactly the [[Focal-Subsidiary-Attention-Distinction]] that characterizes reading fluency development. The practical implication is identical: programming education should include high-volume syntax practice with familiar patterns to automatize them, freeing attention for algorithmic reasoning.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Matthew-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Matthew-Effect]]",
+        "line_number": 463,
+        "section": "Abstract Principle 3: The Exposure-Frequency Asymmetry — The Matthew Effect as Universal Skill Law",
+        "context_line": "The [[Matthew-Effect]] in reading — the compounding of early fluency advantages — instantiates a structural principle that operates across virtually all domains of cumulative skill development:",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 491,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Working-Memory]]** — The primary resource system whose capacity constraints create the fluency bottleneck. The phonological trace decay mechanism analyzed in Phase IV is a specific application of working memory's capacity and temporal limitations. The connection is bidirectional: this analysis provides a concrete worked example of working memory's bottleneck function in naturalistic skill performance.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 493,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive-Load-Theory]]** — The fluency-comprehension link is a precision application of CLT: non-automatic decoding creates [[Extraneous-Load]] (resource consumption not contributing to the learning goal of comprehension) that displaces the [[Germane-Cognitive-Load]] required for schema construction. This analysis enriches CLT by showing how extraneous load can be generated by accurate (not merely erroneous) performance when that performance is non-automatic.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Extraneous-Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Extraneous-Load]]",
+        "line_number": 493,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive-Load-Theory]]** — The fluency-comprehension link is a precision application of CLT: non-automatic decoding creates [[Extraneous-Load]] (resource consumption not contributing to the learning goal of comprehension) that displaces the [[Germane-Cognitive-Load]] required for schema construction. This analysis enriches CLT by showing how extraneous load can be generated by accurate (not merely erroneous) performance when that performance is non-automatic.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Germane-Cognitive-Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Germane-Cognitive-Load]]",
+        "line_number": 493,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive-Load-Theory]]** — The fluency-comprehension link is a precision application of CLT: non-automatic decoding creates [[Extraneous-Load]] (resource consumption not contributing to the learning goal of comprehension) that displaces the [[Germane-Cognitive-Load]] required for schema construction. This analysis enriches CLT by showing how extraneous load can be generated by accurate (not merely erroneous) performance when that performance is non-automatic.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 495,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema-Automation]]** — Schema automation in the reading context provides the mechanism by which practice transforms effortful decoding into automatic recognition. This analysis shows schema automation operating on orthographic patterns — a concrete domain for a concept that is sometimes discussed abstractly. The connection is also predictive: whatever interferes with schema automation (insufficient practice volume, over-reliance on context guessing that bypasses orthographic processing) should impair fluency development.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dual-Process-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process-Theory]]",
+        "line_number": 497,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Dual-Process-Theory]]** — The automaticity-liberation framework maps cleanly onto Type 1/Type 2 processing: fluent word recognition is a Type 1 process operating outside conscious attention; comprehension strategy deployment is a Type 2 process requiring deliberate attentional resources. Fluency is the mechanism by which reading's most critical lower-level process transitions from Type 2 to Type 1, enabling higher-order Type 2 processing to operate unimpeded.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Matthew-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Matthew-Effect]]",
+        "line_number": 499,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Matthew-Effect]]** — This analysis provides the cognitive-mechanistic account of why early reading skill gaps compound: the bottleneck mechanism guarantees that lower-skill readers extract less learning from equivalent reading time, creating a cognitive (not merely motivational) basis for the Matthew Effect's operation. The Matthew Effect note likely focuses on the behavioral and motivational dynamics; this analysis adds the architectural explanation.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Focal-Subsidiary-Attention-Distinction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal-Subsidiary-Attention-Distinction]]",
+        "line_number": 501,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Focal-Subsidiary-Attention-Distinction]]** — The transition from reading words focally to reading through words subsidiarily is the phenomenological description of the automaticity development process this report analyzes mechanistically. The Polanyi framework provides the phenomenological language for what CLT and automaticity theory describe architecturally.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Procedural-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Procedural-Memory]]",
+        "line_number": 503,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Procedural-Memory]]** — Automatized reading skills are procedural in character: fast, non-conscious, resistant to degradation under dual-task conditions. The procedural memory note connects to the mechanism through which practiced decoding becomes automatic — the long-term memory encoding of orthographic processing routines that operate without working memory recruitment.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 505,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Fluency-Illusion]]** — The fluency-metacognition paradox identified in Phase VI connects directly to the Fluency Illusion: disfluent readers cannot reliably distinguish between genuine comprehension and the illusion of comprehension, because both the comprehension process and its monitoring draw on the same depleted working memory pool.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dreyfus-Skill-Acquisition-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dreyfus-Skill-Acquisition-Model]]",
+        "line_number": 507,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Dreyfus-Skill-Acquisition-Model]]** — The novice-to-expert transition in reading follows the Dreyfus model precisely: novices focus explicitly on decoding rules; experts process meaning holistically. This analysis grounds the Dreyfus model's phenomenological description in specific cognitive mechanisms (working memory, schema automation) that explain *why* the transition from rule-following to intuitive performance occurs.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 509,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> **Synthetic Observation**: The pattern of connections reveals that reading fluency and automaticity is a domain-specific worked example of a set of domain-general architectural principles — [[Working-Memory]] constraints, [[Schema-Automation]], [[Dual-Process-Theory]], and the [[Focal-Subsidiary-Attention-Distinction]] — that operate across all hierarchically organized skills. The PKB's existing nodes on these general principles can be enriched by the concrete, evidence-grounded mechanisms this analysis develops. Reading science is, in this sense, an empirical laboratory for theories that belong to the PKB's broader cognitive architecture.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 509,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> **Synthetic Observation**: The pattern of connections reveals that reading fluency and automaticity is a domain-specific worked example of a set of domain-general architectural principles — [[Working-Memory]] constraints, [[Schema-Automation]], [[Dual-Process-Theory]], and the [[Focal-Subsidiary-Attention-Distinction]] — that operate across all hierarchically organized skills. The PKB's existing nodes on these general principles can be enriched by the concrete, evidence-grounded mechanisms this analysis develops. Reading science is, in this sense, an empirical laboratory for theories that belong to the PKB's broader cognitive architecture.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dual-Process-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process-Theory]]",
+        "line_number": 509,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> **Synthetic Observation**: The pattern of connections reveals that reading fluency and automaticity is a domain-specific worked example of a set of domain-general architectural principles — [[Working-Memory]] constraints, [[Schema-Automation]], [[Dual-Process-Theory]], and the [[Focal-Subsidiary-Attention-Distinction]] — that operate across all hierarchically organized skills. The PKB's existing nodes on these general principles can be enriched by the concrete, evidence-grounded mechanisms this analysis develops. Reading science is, in this sense, an empirical laboratory for theories that belong to the PKB's broader cognitive architecture.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Focal-Subsidiary-Attention-Distinction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal-Subsidiary-Attention-Distinction]]",
+        "line_number": 509,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> **Synthetic Observation**: The pattern of connections reveals that reading fluency and automaticity is a domain-specific worked example of a set of domain-general architectural principles — [[Working-Memory]] constraints, [[Schema-Automation]], [[Dual-Process-Theory]], and the [[Focal-Subsidiary-Attention-Distinction]] — that operate across all hierarchically organized skills. The PKB's existing nodes on these general principles can be enriched by the concrete, evidence-grounded mechanisms this analysis develops. Reading science is, in this sense, an empirical laboratory for theories that belong to the PKB's broader cognitive architecture.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 533,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> The [[Phonological-Loop]] is the component of working memory that maintains verbal information in a phonological (sound-based) code through active rehearsal. It holds approximately 3-4 items for approximately 2 seconds without rehearsal. In reading, the phonological loop maintains the sound representations of recently decoded words while subsequent words are processed — making it the critical resource for sentence-level integration. Non-automatic decoding consumes phonological loop resources, leaving insufficient capacity for maintaining sentence-length phonological representations.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 545,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> An original analytical synthesis from this report. The principle that the educational project of fluency development is fundamentally about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero — achieved through the automatization of orthographic schemas via high-volume practice. Unifies [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], and [[Focal-Subsidiary-Attention-Distinction]] accounts of fluency under a single architectural principle.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dual-Process-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process-Theory]]",
+        "line_number": 545,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> An original analytical synthesis from this report. The principle that the educational project of fluency development is fundamentally about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero — achieved through the automatization of orthographic schemas via high-volume practice. Unifies [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], and [[Focal-Subsidiary-Attention-Distinction]] accounts of fluency under a single architectural principle.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Focal-Subsidiary-Attention-Distinction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal-Subsidiary-Attention-Distinction]]",
+        "line_number": 545,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> An original analytical synthesis from this report. The principle that the educational project of fluency development is fundamentally about expanding the effective cognitive bandwidth available for comprehension by driving the resource cost of decoding toward zero — achieved through the automatization of orthographic schemas via high-volume practice. Unifies [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], and [[Focal-Subsidiary-Attention-Distinction]] accounts of fluency under a single architectural principle.",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Awareness-and-Fluency-Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Awareness-and-Fluency-Development]]",
+        "line_number": 609,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] **[[Phonological-Awareness-and-Fluency-Development]]** *(new PKB node)*",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 610,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The phonological awareness research tradition — distinguishing phonological sensitivity, phonological memory, and phonological recoding in lexical access — provides the developmental precursors to the automaticity mechanisms analyzed here. A focused note would examine how phonological awareness instruction in pre-literacy and early literacy builds the phonological representation quality that determines the speed and accuracy with which grapheme-phoneme correspondences can be automatized through reading practice. Connects to [[Phonological-Loop]] and [[Schema-Automation]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 610,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The phonological awareness research tradition — distinguishing phonological sensitivity, phonological memory, and phonological recoding in lexical access — provides the developmental precursors to the automaticity mechanisms analyzed here. A focused note would examine how phonological awareness instruction in pre-literacy and early literacy builds the phonological representation quality that determines the speed and accuracy with which grapheme-phoneme correspondences can be automatized through reading practice. Connects to [[Phonological-Loop]] and [[Schema-Automation]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat",
+        "heading": null,
+        "display_text": "Deliberate Practice and Fluency Development",
+        "full_match": "[[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and Fluency Development]]",
+        "line_number": 612,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] **[[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and Fluency Development]]**",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Fluency-Assessment-and-the-Accuracy-Automaticity-Gap",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Assessment-and-the-Accuracy-Automaticity-Gap]]",
+        "line_number": 615,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] **[[Fluency-Assessment-and-the-Accuracy-Automaticity-Gap]]** *(new PKB node)*",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 616,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The compensation trap identified in this analysis — accurate-but-slow readers who are invisible to error-rate assessment — suggests a significant gap in current reading assessment practice. A focused analysis of fluency assessment methodology would examine the evidence for different assessment formats (WCPM, prosody rubrics, silent reading rate, maze tasks) and their differential ability to detect automaticity bottlenecks in readers who have compensated through rate reduction. Connects to [[Metacognitive-Monitoring]] and [[Formative-Assessment]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 616,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The compensation trap identified in this analysis — accurate-but-slow readers who are invisible to error-rate assessment — suggests a significant gap in current reading assessment practice. A focused analysis of fluency assessment methodology would examine the evidence for different assessment formats (WCPM, prosody rubrics, silent reading rate, maze tasks) and their differential ability to detect automaticity bottlenecks in readers who have compensated through rate reduction. Connects to [[Metacognitive-Monitoring]] and [[Formative-Assessment]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Automaticity-and-Skill-Hierarchies-in-Athletic-Performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Automaticity-and-Skill-Hierarchies-in-Athletic-Performance]]",
+        "line_number": 618,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] **[[Automaticity-and-Skill-Hierarchies-in-Athletic-Performance]]** *(transfer-oriented)*",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Dreyfus-Skill-Acquisition-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dreyfus-Skill-Acquisition-Model]]",
+        "line_number": 619,
+        "section": "D. Expansion Topics",
+        "context_line": "> > A transfer-oriented investigation extending the cognitive bandwidth liberation principle to athletic skill acquisition. Motor learning research on automaticity — the shift from controlled to automatic processing in movement execution — provides a rich parallel to reading fluency research. Key questions: Does motor automaticity liberate attentional bandwidth for tactical and situational awareness in the same way reading automaticity liberates bandwidth for comprehension? What are the practice conditions that most efficiently drive motor automatization? Connects to [[Dreyfus-Skill-Acquisition-Model]], [[Procedural-Memory]], and [[Transfer-of-Learning]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Procedural-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Procedural-Memory]]",
+        "line_number": 619,
+        "section": "D. Expansion Topics",
+        "context_line": "> > A transfer-oriented investigation extending the cognitive bandwidth liberation principle to athletic skill acquisition. Motor learning research on automaticity — the shift from controlled to automatic processing in movement execution — provides a rich parallel to reading fluency research. Key questions: Does motor automaticity liberate attentional bandwidth for tactical and situational awareness in the same way reading automaticity liberates bandwidth for comprehension? What are the practice conditions that most efficiently drive motor automatization? Connects to [[Dreyfus-Skill-Acquisition-Model]], [[Procedural-Memory]], and [[Transfer-of-Learning]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 619,
+        "section": "D. Expansion Topics",
+        "context_line": "> > A transfer-oriented investigation extending the cognitive bandwidth liberation principle to athletic skill acquisition. Motor learning research on automaticity — the shift from controlled to automatic processing in movement execution — provides a rich parallel to reading fluency research. Key questions: Does motor automaticity liberate attentional bandwidth for tactical and situational awareness in the same way reading automaticity liberates bandwidth for comprehension? What are the practice conditions that most efficiently drive motor automatization? Connects to [[Dreyfus-Skill-Acquisition-Model]], [[Procedural-Memory]], and [[Transfer-of-Learning]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps]]",
+        "line_number": 621,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] **[[Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps]]** *(new PKB node)*",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 622,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The Matthew Effect in reading is cognitively guaranteed once established — but it is not inevitable from birth. A focused analysis of prevention and early intervention research would examine which instructional approaches successfully interrupt the Matthew Effect trajectory: what timing (kindergarten vs. first grade), what intensity (Tier 2 vs. Tier 3), and what instructional components (phonemic awareness, phonics, fluency volume) are most effective for at-risk early readers. Connects to [[Formative-Assessment]], [[Deliberate-Practice-Log]], and [[Prior-Knowledge-Activation]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Deliberate-Practice-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice-Log]]",
+        "line_number": 622,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The Matthew Effect in reading is cognitively guaranteed once established — but it is not inevitable from birth. A focused analysis of prevention and early intervention research would examine which instructional approaches successfully interrupt the Matthew Effect trajectory: what timing (kindergarten vs. first grade), what intensity (Tier 2 vs. Tier 3), and what instructional components (phonemic awareness, phonics, fluency volume) are most effective for at-risk early readers. Connects to [[Formative-Assessment]], [[Deliberate-Practice-Log]], and [[Prior-Knowledge-Activation]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prior-Knowledge-Activation]]",
+        "line_number": 622,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The Matthew Effect in reading is cognitively guaranteed once established — but it is not inevitable from birth. A focused analysis of prevention and early intervention research would examine which instructional approaches successfully interrupt the Matthew Effect trajectory: what timing (kindergarten vs. first grade), what intensity (Tier 2 vs. Tier 3), and what instructional components (phonemic awareness, phonics, fluency volume) are most effective for at-risk early readers. Connects to [[Formative-Assessment]], [[Deliberate-Practice-Log]], and [[Prior-Knowledge-Activation]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "The-Fluency-Metacognition-Paradox-Instructional-Implications",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Fluency-Metacognition-Paradox-Instructional-Implications]]",
+        "line_number": 624,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] **[[The-Fluency-Metacognition-Paradox-Instructional-Implications]]** *(new PKB node)*",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 625,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The synthesis in Phase VI identifying that disfluent readers have simultaneously impaired comprehension and impaired comprehension monitoring deserves its own focused analysis. The instructional implications are non-trivial: metacognitive comprehension strategy instruction may be premature (or actively counterproductive) for readers below a fluency threshold because the cognitive bandwidth to execute it is not available. A focused analysis would examine the evidence for metacognitive intervention sequencing, the threshold question, and the design of metacognitive instruction scaffolded for high-cognitive-load reading conditions. Connects to [[Metacognitive-Monitoring]], [[Fluency-Illusion]], and [[Cognitive-Load-Theory]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 625,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The synthesis in Phase VI identifying that disfluent readers have simultaneously impaired comprehension and impaired comprehension monitoring deserves its own focused analysis. The instructional implications are non-trivial: metacognitive comprehension strategy instruction may be premature (or actively counterproductive) for readers below a fluency threshold because the cognitive bandwidth to execute it is not available. A focused analysis would examine the evidence for metacognitive intervention sequencing, the threshold question, and the design of metacognitive instruction scaffolded for high-cognitive-load reading conditions. Connects to [[Metacognitive-Monitoring]], [[Fluency-Illusion]], and [[Cognitive-Load-Theory]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 625,
+        "section": "D. Expansion Topics",
+        "context_line": "> > The synthesis in Phase VI identifying that disfluent readers have simultaneously impaired comprehension and impaired comprehension monitoring deserves its own focused analysis. The instructional implications are non-trivial: metacognitive comprehension strategy instruction may be premature (or actively counterproductive) for readers below a fluency threshold because the cognitive bandwidth to execute it is not available. A focused analysis would examine the evidence for metacognitive intervention sequencing, the threshold question, and the design of metacognitive instruction scaffolded for high-cognitive-load reading conditions. Connects to [[Metacognitive-Monitoring]], [[Fluency-Illusion]], and [[Cognitive-Load-Theory]].",
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "FAR-Transfer-Phase",
+        "value": "This phase moves the analysis's most important insights beyond reading, extracting domain-independent structural principles and identifying their application in musical performance, mathematical reasoning, programming skill development, and writing composition. Grounded in [[Transfer-of-Learning",
+        "format": "bracket",
+        "line_number": 435,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Reading Fluency and Automaticity: How Decoding Skill Liberates the Reading Mind",
+        "anchor": "reading-fluency-and-automaticity-how-decoding-skill-liberates-the-reading-mind",
+        "line_number": 149,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Analytical Focus",
+        "anchor": "phase-i-orientation-analytical-focus",
+        "line_number": 153,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework",
+        "anchor": "phase-ii-analytical-framework",
+        "line_number": 175,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Simple View of Reading",
+        "anchor": "the-simple-view-of-reading",
+        "line_number": 177,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "LaBerge and Samuels' Automaticity Theory",
+        "anchor": "laberge-and-samuels-automaticity-theory",
+        "line_number": 194,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Distinguishing Fluency's Components for Analysis",
+        "anchor": "distinguishing-fluencys-components-for-analysis",
+        "line_number": 211,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 229,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence Landscape",
+        "anchor": "the-evidence-landscape",
+        "line_number": 231,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Evidence for the Bottleneck Mechanism",
+        "anchor": "key-evidence-for-the-bottleneck-mechanism",
+        "line_number": 238,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Intervention Evidence: Does Fluency Training Improve Comprehension?",
+        "anchor": "intervention-evidence-does-fluency-training-improve-comprehension",
+        "line_number": 248,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Matthew Effect: Longitudinal Evidence",
+        "anchor": "the-matthew-effect-longitudinal-evidence",
+        "line_number": 260,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Fluency Assessment Validity",
+        "anchor": "fluency-assessment-validity",
+        "line_number": 270,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+        "line_number": 287,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Working Memory Architecture of Reading",
+        "anchor": "the-working-memory-architecture-of-reading",
+        "line_number": 292,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Schema Automation and Long-Term Working Memory",
+        "anchor": "schema-automation-and-long-term-working-memory",
+        "line_number": 306,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Role of the Phonological Loop and Spreading Activation",
+        "anchor": "the-role-of-the-phonological-loop-and-spreading-activation",
+        "line_number": 317,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Focal-Subsidiary Attention Dynamic in Expert Reading",
+        "anchor": "the-focal-subsidiary-attention-dynamic-in-expert-reading",
+        "line_number": 324,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Compensation Trap: When Accuracy Masks Automaticity Failure",
+        "anchor": "the-compensation-trap-when-accuracy-masks-automaticity-failure",
+        "line_number": 333,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications, Applications & Limitations",
+        "anchor": "phase-v-implications-applications-limitations",
+        "line_number": 352,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Direct Instructional Implications",
+        "anchor": "direct-instructional-implications",
+        "line_number": 354,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading Disability and Dyslexia",
+        "anchor": "reading-disability-and-dyslexia",
+        "line_number": 368,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Common Misconceptions",
+        "anchor": "common-misconceptions",
+        "line_number": 378,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "What We Still Don't Know",
+        "anchor": "what-we-still-dont-know",
+        "line_number": 386,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 399,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Argument Restated",
+        "anchor": "the-central-argument-restated",
+        "line_number": 401,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Returning to the Phase II Concepts",
+        "anchor": "returning-to-the-phase-ii-concepts",
+        "line_number": 409,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+        "line_number": 433,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 1: Automatization Liberates Attentional Bandwidth for Higher-Order Processing",
+        "anchor": "abstract-principle-1-automatization-liberates-attentional-bandwidth-for-higher-order-processing",
+        "line_number": 437,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 2: The Bottleneck Principle — Fluency of Subordinate Skills Determines the Quality Ceiling of Superordinate Skills",
+        "anchor": "abstract-principle-2-the-bottleneck-principle-fluency-of-subordinate-skills-determines-the-quality-ceiling-of-superordinate-skills",
+        "line_number": 452,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 3: The Exposure-Frequency Asymmetry — The Matthew Effect as Universal Skill Law",
+        "anchor": "abstract-principle-3-the-exposure-frequency-asymmetry-the-matthew-effect-as-universal-skill-law",
+        "line_number": 461,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-viii-pkb-connections-cross-report-links",
+        "line_number": 484,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IX: Appendix — Lexicon, References, and Expansion Topics",
+        "anchor": "phase-ix-appendix-lexicon-references-and-expansion-topics",
+        "line_number": 513,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 515,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 555,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 598,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 605,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "FAR-Transfer-Phase",
+        "definition": "This phase moves the analysis's most important insights beyond reading, extracting domain-independent structural principles and identifying their application in musical performance, mathematical reasoning, programming skill development, and writing composition. Grounded in [[Transfer-of-Learning",
+        "line_number": 435,
+        "source": "reading-fluency-automaticity-focused-analysis-2026-03-20.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Attribution-Theory",
+      "Automaticity-and-Skill-Hierarchies-in-Athletic-Performance",
+      "Baddeley's-Working-Memory-Model",
+      "Cognitive-Load-Theory",
+      "Comprehension-Monitoring",
+      "Deliberate-Practice-Log",
+      "Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat",
+      "Dreyfus-Skill-Acquisition-Model",
+      "Dual-Process-Theory",
+      "Extraneous-Load",
+      "Fluency-Assessment-and-the-Accuracy-Automaticity-Gap",
+      "Fluency-Illusion",
+      "Focal-Subsidiary-Attention-Distinction",
+      "Formative-Assessment",
+      "Germane-Cognitive-Load",
+      "Matthew-Effect",
+      "Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps",
+      "Metacognition",
+      "Metacognitive-Monitoring",
+      "Phonological-Awareness-and-Fluency-Development",
+      "Phonological-Loop",
+      "Prior-Knowledge-Activation",
+      "Procedural-Memory",
+      "Schema-Automation",
+      "Situation-Model",
+      "Spreading-Activation",
+      "The-Fluency-Metacognition-Paradox-Instructional-Implications",
+      "Transfer-of-Learning",
+      "Type-1-Processing",
+      "Type-2-Processing",
+      "Working-Memory"
+    ],
+    "unique_wiki_link_count": 31,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Dual-Process-Theory]]"
+      ],
+      "related_concepts": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Schema-Automation]]",
+        "[[Dual-Process-Theory]]",
+        "[[Procedural-Memory]]",
+        "[[Focal-Subsidiary-Attention-Distinction]]",
+        "[[Matthew-Effect]]",
+        "[[Fluency]]",
+        "[[Transfer-of-Learning]]",
+        "[[Dreyfus-Skill-Acquisition-Model]]"
+      ],
+      "link_related": [
+        "[[Matthew-Effect]]",
+        "[[Fluency]]",
+        "[[Transfer-of-Learning]]",
+        "[[Phonological-Loop]]",
+        "[[Spreading-Activation]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Attribution-Theory",
+      "Automaticity-and-Skill-Hierarchies-in-Athletic-Performance",
+      "Baddeley's-Working-Memory-Model",
+      "Cognitive-Load-Theory",
+      "Comprehension-Monitoring",
+      "Deliberate-Practice-Log",
+      "Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat",
+      "Dreyfus-Skill-Acquisition-Model",
+      "Dual-Process-Theory",
+      "Extraneous-Load",
+      "Fluency-Assessment-and-the-Accuracy-Automaticity-Gap",
+      "Fluency-Illusion",
+      "Focal-Subsidiary-Attention-Distinction",
+      "Formative-Assessment",
+      "Germane-Cognitive-Load",
+      "Matthew-Effect",
+      "Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps",
+      "Metacognition",
+      "Metacognitive-Monitoring",
+      "Phonological-Awareness-and-Fluency-Development",
+      "Phonological-Loop",
+      "Prior-Knowledge-Activation",
+      "Procedural-Memory",
+      "Schema-Automation",
+      "Situation-Model",
+      "Spreading-Activation",
+      "The-Fluency-Metacognition-Paradox-Instructional-Implications",
+      "Transfer-of-Learning",
+      "Type-1-Processing",
+      "Type-2-Processing",
+      "Working-Memory"
+    ]
+  }
+}

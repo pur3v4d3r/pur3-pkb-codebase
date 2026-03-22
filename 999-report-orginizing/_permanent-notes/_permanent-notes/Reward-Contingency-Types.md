@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -67,19 +67,27 @@ see-also:
   - "[[CET]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[SDT]]"
-  - "[[intrinsic-motivation|intrinsic motivation]]"
-  - "[[functional-significance|functional significance]]"
+  - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Functional-Significance|functional significance]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[self-determination]]"
+  - "[[Self-Determination]]"
   - "[[CET|CET]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[SDT|SDT]]"
-  - "[[intrinsic-motivation|intrinsic motivation]]"
-  - "[[functional-significance|functional significance]]"
+  - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Functional-Significance|functional significance]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[self-determination|self-determination]]"
+  - "[[Self-Determination|self-determination]]"
+  - "[[CET|CET]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[SDT|SDT]]"
+  - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Functional-Significance|functional significance]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Self-Determination|self-determination]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -161,10 +169,10 @@ importance: high
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 
 **Related concepts:**
-[[CET]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[SDT]] · [[intrinsic-motivation|intrinsic motivation]] · [[functional-significance|functional significance]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[self-determination]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[perceived-locus-of-causality|perceived locus of causality]] · [[perceived-competence|perceived competence]] · [[Self-determination]] · [[speech-act-theory|speech act theory]] · [[Gamification]] · [[autonomy-orientation|autonomy orientation]]
+[[CET]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[SDT]] · [[Intrinsic-Motivation|intrinsic motivation]] · [[Functional-Significance|functional significance]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Self-Determination]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Perceived-Locus-of-Causality|perceived locus of causality]] · [[Perceived-Competence|perceived competence]] · [[Self-Determination]] · [[speech-act-theory|speech act theory]] · [[Gamification]] · [[Autonomy-Orientation|autonomy orientation]]
 
 **Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[intrinsic-motivation|intrinsic motivation]] * [[functional-significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[perceived-locus-of-causality|perceived locus of causality]] * [[perceived-competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[autonomy-orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[control-orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Functional-Significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[Perceived-Competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 
 **Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
 - [[speech-act-theory|speech act theory]]
@@ -175,6 +183,22 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Functional-Significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[Perceived-Competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[speech-act-theory|speech act theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+
+
 
 
 

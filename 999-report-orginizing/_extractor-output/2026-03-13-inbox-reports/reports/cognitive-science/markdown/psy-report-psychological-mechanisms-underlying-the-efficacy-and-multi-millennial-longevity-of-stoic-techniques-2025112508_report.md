@@ -149,7 +149,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 128)*
 
 > [!abstract] Untitled
-> The remarkable longevity of [[Stoicism|Stoic]] philosophical practices—spanning more than two millennia—finds its validation not in tradition alone but in the fundamental correspondence between ancient introspective wisdom and modern [[Cognitive Neuroscience|cognitive neuroscience]]. Contemporary research reveals that [[Stoic Techniques|Stoic techniques]] operate through specific, measurable psychological mechanisms that systematically reframe cognitive appraisals, decouple external events from internal responses, and promote [[Psychological Resilience|psychological resilience]] by engaging precise neural circuits involved in [[Emotional Regulation|emotional regulation]], [[Executive Function|executive control]], and [[Neuroplasticity|adaptive plasticity]]. This convergence between ancient philosophy and empirical science demonstrates that [[Stoicism]] represents not merely a prescriptive ethical system but an evidence-based framework for cognitive restructuring whose efficacy derives from its alignment with the brain's inherent capacity for self-regulation and adaptive change.
+> The remarkable longevity of [[Stoicism|Stoic]] philosophical practices—spanning more than two millennia—finds its validation not in tradition alone but in the fundamental correspondence between ancient introspective wisdom and modern [[cognitive-neuroscience|cognitive neuroscience]]. Contemporary research reveals that [[Stoic Techniques|Stoic techniques]] operate through specific, measurable psychological mechanisms that systematically reframe cognitive appraisals, decouple external events from internal responses, and promote [[Psychological Resilience|psychological resilience]] by engaging precise neural circuits involved in [[Emotional Regulation|emotional regulation]], [[Executive-Function|executive control]], and [[Neuroplasticity|adaptive plasticity]]. This convergence between ancient philosophy and empirical science demonstrates that [[Stoicism]] represents not merely a prescriptive ethical system but an evidence-based framework for cognitive restructuring whose efficacy derives from its alignment with the brain's inherent capacity for self-regulation and adaptive change.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 135)*
 
@@ -177,7 +177,7 @@ extraction_summary:
 > [!evidence] Untitled
 > **Empirical Validation of Stoic Reappraisal Techniques**
 > 
-> Recent clinical trials provide compelling evidence for the efficacy of [[Stoicism|Stoic-inspired]] interventions. A controlled study conducted at Birkbeck's [[Affective and Cognitive Neuroscience Lab|Affective and Cognitive Neuroscience laboratory]] examined individuals at risk for [[Anxiety Disorders|anxiety]] and [[Depression|depression]] who completed eight days of structured [[Stoic Exercises|Stoic exercises]] including journaling and cognitive reframing. Results demonstrated an eighteen percent reduction in [[Rumination|rumination]] compared to control groups, alongside measurable improvements in [[Emotional Vulnerability|emotional vulnerability]] markers. These findings align with the broader literature on [[Cognitive-Behavioral Therapy|cognitive behavioral therapy]], where a living meta-analysis pooling four hundred forty-one randomized controlled trials encompassing thirty-three thousand eight hundred eighty-one patients confirms medium-to-large effect sizes for [[Depression|depression]] and all major [[Anxiety Spectrum Disorders|anxiety spectrum disorders]].
+> Recent clinical trials provide compelling evidence for the efficacy of [[Stoicism|Stoic-inspired]] interventions. A controlled study conducted at Birkbeck's [[Affective and Cognitive Neuroscience Lab|Affective and Cognitive Neuroscience laboratory]] examined individuals at risk for [[Anxiety Disorders|anxiety]] and [[Depression|depression]] who completed eight days of structured [[Stoic Exercises|Stoic exercises]] including journaling and cognitive reframing. Results demonstrated an eighteen percent reduction in [[Rumination|rumination]] compared to control groups, alongside measurable improvements in [[Emotional Vulnerability|emotional vulnerability]] markers. These findings align with the broader literature on [[Cognitive-Behavioral-Therapy|cognitive behavioral therapy]], where a living meta-analysis pooling four hundred forty-one randomized controlled trials encompassing thirty-three thousand eight hundred eighty-one patients confirms medium-to-large effect sizes for [[Depression|depression]] and all major [[Anxiety Spectrum Disorders|anxiety spectrum disorders]].
 
 #### 8. [DEFINITION] Untitled *(Line 181)*
 
@@ -198,7 +198,7 @@ extraction_summary:
 > [!methodology-and-sources] Untitled
 > **The Three Forms of Premeditatio Malorum**
 > 
-> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
+> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus-Aurelius|Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
 
 #### 11. [IMPORTANT] Untitled *(Line 212)*
 
@@ -226,7 +226,7 @@ extraction_summary:
 > [!methodology-and-sources] Untitled
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 #### 15. [KEY-CLAIM] Untitled *(Line 268)*
 
@@ -240,7 +240,7 @@ extraction_summary:
 > [!quote] Untitled
 > **Aaron Beck on Stoic Origins**
 > 
-> [[Aaron Beck]], whose [[Cognitive Therapy|cognitive therapy]] became the dominant form of [[Cognitive-Behavioral Therapy|CBT]], kept annotated copies of [[Epictetus]]'s *Enchiridion* on his desk throughout his career. While Beck's public acknowledgment of philosophical influences was more subdued than Ellis's, his private notes and early publications reveal extensive engagement with [[Stoic Psychology|Stoic psychological theory]]. The core mechanism of [[Cognitive Therapy|cognitive therapy]]—identifying, examining, and modifying [[Automatic Thoughts|automatic thoughts]] and [[Core Beliefs|core beliefs]]—corresponds precisely to the Stoic practice of examining *phantasiai* (impressions) and withholding or granting *synkatathesis* (assent) based on rational evaluation.
+> [[Aaron Beck]], whose [[Cognitive Therapy|cognitive therapy]] became the dominant form of [[Cognitive-Behavioral-Therapy|CBT]], kept annotated copies of [[Epictetus]]'s *Enchiridion* on his desk throughout his career. While Beck's public acknowledgment of philosophical influences was more subdued than Ellis's, his private notes and early publications reveal extensive engagement with [[Stoic Psychology|Stoic psychological theory]]. The core mechanism of [[Cognitive Therapy|cognitive therapy]]—identifying, examining, and modifying [[Automatic Thoughts|automatic thoughts]] and [[Core Beliefs|core beliefs]]—corresponds precisely to the Stoic practice of examining *phantasiai* (impressions) and withholding or granting *synkatathesis* (assent) based on rational evaluation.
 
 #### 17. [CONNECTIONS-AND-LINKS] Untitled *(Line 300)*
 
@@ -319,7 +319,7 @@ extraction_summary:
 - [[Abstract Construal]]
 - [[Abstract Reasoning]]
 - [[Acceptance]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Adequate Sleep]]
 - [[Aerobic Exercise]]
 - [[Affective Neuroscience]]
@@ -350,12 +350,12 @@ extraction_summary:
 - [[Cognitive Defusion]]
 - [[Cognitive Distancing]]
 - [[Cognitive Flexibility]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Resources]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Therapy]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
 - [[Competence]]
 - [[Complexity Science]]
@@ -368,7 +368,7 @@ extraction_summary:
 - [[Corticostriatal Pathways]]
 - [[Cosmopolitanism]]
 - [[Default Mode Network]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Depression]]
 - [[Dialectical Behavior Therapy]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -394,7 +394,7 @@ extraction_summary:
 - [[Evidence-Based Treatment]]
 - [[Evolutionary Biology]]
 - [[Executive Control]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Exercise Physiology]]
 - [[Experiential Avoidance]]
 - [[Expert Performance]]
@@ -424,7 +424,7 @@ extraction_summary:
 - [[Linguistic Relativity]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Magnetoencephalography]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Mastery Experiences]]
 - [[Medial Prefrontal Cortex]]
 - [[Meditation Research]]
@@ -476,7 +476,7 @@ extraction_summary:
 - [[Seneca]]
 - [[Seneca the Younger]]
 - [[Shame]]
-- [[Skill Acquisition]]
+- [[Skill-Acquisition|Skill Acquisition]]
 - [[Sleep Quality]]
 - [[Social Anxiety Disorder]]
 - [[Social Comparison]]
@@ -484,7 +484,7 @@ extraction_summary:
 - [[Social Fragmentation]]
 - [[Social Support]]
 - [[Socratic-Method|Socratic Method]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Status Anxiety]]
 - [[Stoic Approach]]
 - [[Stoic Exercise]]
@@ -536,25 +536,25 @@ extraction_summary:
 | 2 | [[Stoicism]] | — | — | Claude Thinking: | 109 |
 | 3 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 109 |
 | 4 | [[Emotional Regulation]] | — | — | Claude Thinking: | 109 |
-| 5 | [[Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 109 |
+| 5 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 109 |
 | 6 | [[Resilience]] | — | — | Claude Thinking: | 109 |
 | 7 | [[Neuroplasticity]] | — | — | Claude Thinking: | 109 |
 | 8 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 109 |
 | 9 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Claude Thinking: | 109 |
 | 10 | [[Cognitive Distancing]] | — | — | Claude Thinking: | 109 |
 | 11 | [[Epictetus]] | — | — | Claude Thinking: | 109 |
-| 12 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 109 |
+| 12 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 109 |
 | 13 | [[Seneca]] | — | — | Claude Thinking: | 109 |
 | 14 | [[Aaron Beck]] | — | — | Claude Thinking: | 109 |
 | 15 | [[Albert Ellis]] | — | — | Claude Thinking: | 109 |
 | 16 | [[Viktor Frankl]] | — | — | Claude Thinking: | 109 |
 | 17 | [[Rational Emotive Behavior Therapy]] | — | — | Claude Thinking: | 109 |
 | 18 | [[Stoicism]] | Stoic | — | Claude Thinking: | 129 |
-| 19 | [[Cognitive Neuroscience]] | cognitive neuroscience | — | Claude Thinking: | 129 |
+| 19 | [[cognitive-neuroscience|Cognitive Neuroscience]] | cognitive neuroscience | — | Claude Thinking: | 129 |
 | 20 | [[Stoic Techniques]] | Stoic techniques | — | Claude Thinking: | 129 |
 | 21 | [[Psychological Resilience]] | psychological resilience | — | Claude Thinking: | 129 |
 | 22 | [[Emotional Regulation]] | emotional regulation | — | Claude Thinking: | 129 |
-| 23 | [[Executive Function]] | executive control | — | Claude Thinking: | 129 |
+| 23 | [[Executive-Function|Executive Function]] | executive control | — | Claude Thinking: | 129 |
 | 24 | [[Neuroplasticity]] | adaptive plasticity | — | Claude Thinking: | 129 |
 | 25 | [[Stoicism]] | — | — | Claude Thinking: | 129 |
 | 26 | [[Stoic-Philosophy|Stoic Philosophy]] | Stoic philosophy | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
@@ -564,8 +564,8 @@ extraction_summary:
 | 30 | [[Well-being]] | psychological well-being | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
 | 31 | [[Epictetus]] | — | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
 | 32 | [[Seneca the Younger]] | Seneca | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
-| 33 | [[Marcus Aurelius]] | — | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
-| 34 | [[Cognitive-Behavioral Therapy]] | cognitive behavioral therapy | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
+| 33 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
+| 34 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | cognitive behavioral therapy | — | 🧠 The Central Paradox: Ancient Wisdom... | 133 |
 | 35 | [[Stoic Psychology]] | Stoic psychology | — | 🧠 The Central Paradox: Ancient Wisdom... | 138 |
 | 36 | [[Epictetus]] | — | — | 🧠 The Central Paradox: Ancient Wisdom... | 138 |
 | 37 | [[Affective Neuroscience]] | affective neuroscience | — | 🧠 The Central Paradox: Ancient Wisdom... | 138 |
@@ -583,7 +583,7 @@ extraction_summary:
 | 49 | [[Stoic Wisdom]] | Stoic wisdom | — | 📊 The Three-Phase Model of Stoic Emot... | 151 |
 | 50 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
 | 51 | [[Ventrolateral Prefrontal Cortex]] | ventrolateral prefrontal cortex | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
-| 52 | [[Executive Function]] | executive control | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
+| 52 | [[Executive-Function|Executive Function]] | executive control | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
 | 53 | [[Working-Memory|Working Memory]] | working memory | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
 | 54 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
 | 55 | [[Emotion Regulation]] | emotion regulation | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
@@ -612,11 +612,11 @@ extraction_summary:
 | 78 | [[Stoic Exercises]] | Stoic exercises | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
 | 79 | [[Rumination]] | rumination | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
 | 80 | [[Emotional Vulnerability]] | emotional vulnerability | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
-| 81 | [[Cognitive-Behavioral Therapy]] | cognitive behavioral therapy | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
+| 81 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | cognitive behavioral therapy | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
 | 82 | [[Depression]] | depression | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
 | 83 | [[Anxiety Spectrum Disorders]] | anxiety spectrum disorders | — | 🔬 Cognitive Reappraisal: The Central ... | 171 |
 | 84 | [[Epictetus]] | — | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
-| 85 | [[Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
+| 85 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
 | 86 | [[Metacognition]] | metacognitive awareness | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
 | 87 | [[Prefrontal Cortex]] | prefrontal control | — | 🔬 Cognitive Reappraisal: The Central ... | 175 |
 | 88 | [[Limbic Structures]] | limbic structures | — | 🔬 Cognitive Reappraisal: The Central ... | 175 |
@@ -658,7 +658,7 @@ extraction_summary:
 | 124 | [[Amygdala]] | amygdala | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
 | 125 | [[Stress Resilience]] | stress resilience | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
 | 126 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🌊 Premeditatio Malorum: Prospective C... | 206 |
-| 127 | [[Marcus Aurelius]] | — | — | 🌊 Premeditatio Malorum: Prospective C... | 206 |
+| 127 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🌊 Premeditatio Malorum: Prospective C... | 206 |
 | 128 | [[Seneca the Younger]] | Seneca | — | 🌊 Premeditatio Malorum: Prospective C... | 206 |
 | 129 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
 | 130 | [[Worry]] | worry | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
@@ -666,7 +666,7 @@ extraction_summary:
 | 132 | [[Cognitive Resources]] | cognitive resources | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
 | 133 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
 | 134 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
-| 135 | [[Executive Function]] | executive control | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
+| 135 | [[Executive-Function|Executive Function]] | executive control | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
 | 136 | [[Default Mode Network]] | default mode network | — | 🌊 Premeditatio Malorum: Prospective C... | 208 |
 | 137 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🌊 Premeditatio Malorum: Prospective C... | 210 |
 | 138 | [[Ventrolateral Prefrontal Cortex]] | VLPFC | — | 🌊 Premeditatio Malorum: Prospective C... | 210 |
@@ -683,7 +683,7 @@ extraction_summary:
 | 149 | [[Resilience]] | resilience | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
 | 150 | [[Emotional Regulation]] | emotional regulation | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
 | 151 | [[Stoic Exercise]] | Stoic exercise | — | 🧘 The View from Above: Cosmic Perspec... | 219 |
-| 152 | [[Marcus Aurelius]] | — | — | 🧘 The View from Above: Cosmic Perspec... | 219 |
+| 152 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🧘 The View from Above: Cosmic Perspec... | 219 |
 | 153 | [[Cognitive Distancing]] | cognitive distancing | — | 🧘 The View from Above: Cosmic Perspec... | 221 |
 | 154 | [[Abstract Reasoning]] | abstract reasoning | — | 🧘 The View from Above: Cosmic Perspec... | 221 |
 | 155 | [[Perspective-Taking]] | perspective-taking | — | 🧘 The View from Above: Cosmic Perspec... | 221 |
@@ -703,7 +703,7 @@ extraction_summary:
 | 169 | [[Self-Transcendence]] | self-transcendent experience | — | 🧘 The View from Above: Cosmic Perspec... | 230 |
 | 170 | [[Voluntary Discomfort]] | voluntary discomfort | — | 💪 Voluntary Discomfort: Building Resi... | 234 |
 | 171 | [[Seneca the Younger]] | Seneca | — | 💪 Voluntary Discomfort: Building Resi... | 234 |
-| 172 | [[Marcus Aurelius]] | — | — | 💪 Voluntary Discomfort: Building Resi... | 234 |
+| 172 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💪 Voluntary Discomfort: Building Resi... | 234 |
 | 173 | [[Exposure Therapy]] | graded exposure therapy | — | 💪 Voluntary Discomfort: Building Resi... | 236 |
 | 174 | [[Dorsomedial Prefrontal Cortex]] | dorsomedial prefrontal cortex | — | 💪 Voluntary Discomfort: Building Resi... | 236 |
 | 175 | [[Sympathetic Nervous System]] | sympathetic nervous system's | — | 💪 Voluntary Discomfort: Building Resi... | 236 |
@@ -733,14 +733,14 @@ extraction_summary:
 | 199 | [[Epictetus]] | — | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 200 | [[Episodic-Memory|Episodic Memory]] | episodic memory | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 201 | [[Virtue]] | virtue | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
-| 202 | [[Executive Function]] | executive function | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
+| 202 | [[Executive-Function|Executive Function]] | executive function | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 203 | [[Self-Regulation-Theory]] | self-regulatory | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 204 | [[Prefrontal Cortex]] | prefrontal cortex | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 205 | [[Stoic Principle]] | Stoic principle | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 206 | [[Implementation-Intentions|Implementation Intentions]] | implementation intentions | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 207 | [[Self-Reflection]] | self-reflection | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
 | 208 | [[Behavior Change]] | behavior change | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
-| 209 | [[Socratic Questioning]] | Socratic questioning | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
+| 209 | [[Socratic-Questioning|Socratic Questioning]] | Socratic questioning | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
 | 210 | [[Cognitive Therapy]] | cognitive therapy | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
 | 211 | [[Depression]] | depression | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
 | 212 | [[Error-Monitoring]] | error-monitoring cycles | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
@@ -752,7 +752,7 @@ extraction_summary:
 | 218 | [[Neuroplasticity]] | neuroplasticity | — | 🌐 The Neurobiology of Stoic Resilienc... | 264 |
 | 219 | [[Resilience]] | psychological resilience | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 220 | [[Prefrontal Cortex Volume]] | prefrontal cortex volume | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
-| 221 | [[Executive Function]] | executive function | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
+| 221 | [[Executive-Function|Executive Function]] | executive function | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 222 | [[Emotional Regulation]] | emotion regulation | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 223 | [[Prefrontal Cortex]] | prefrontal regions | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 224 | [[Amygdala]] | amygdala | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
@@ -786,7 +786,7 @@ extraction_summary:
 | 252 | [[Corticostriatal Circuits]] | corticostriatal memory systems | — | 🌐 The Neurobiology of Stoic Resilienc... | 275 |
 | 253 | [[Stoic System]] | Stoic system | — | 🌐 The Neurobiology of Stoic Resilienc... | 275 |
 | 254 | [[Stoicism]] | Stoic philosophy | — | 🔗 The Stoic-CBT Connection: Philosoph... | 279 |
-| 255 | [[Cognitive-Behavioral Therapy]] | cognitive behavioral therapy | — | 🔗 The Stoic-CBT Connection: Philosoph... | 279 |
+| 255 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | cognitive behavioral therapy | — | 🔗 The Stoic-CBT Connection: Philosoph... | 279 |
 | 256 | [[Aaron Beck]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 279 |
 | 257 | [[Cognitive Therapy]] | cognitive therapy | — | 🔗 The Stoic-CBT Connection: Philosoph... | 279 |
 | 258 | [[Albert Ellis]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 279 |
@@ -800,23 +800,23 @@ extraction_summary:
 | 266 | [[Cicero]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
 | 267 | [[Seneca the Younger]] | Seneca | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
 | 268 | [[Epictetus]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
-| 269 | [[Marcus Aurelius]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
+| 269 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
 | 270 | [[Epictetus]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
 | 271 | [[Rational Emotive Behavior Therapy]] | REBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 281 |
 | 272 | [[Aaron Beck]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 273 | [[Cognitive Therapy]] | cognitive therapy | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
-| 274 | [[Cognitive-Behavioral Therapy]] | CBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
+| 274 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 275 | [[Epictetus]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 276 | [[Stoic Psychology]] | Stoic psychological theory | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 277 | [[Cognitive Therapy]] | cognitive therapy | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 278 | [[Automatic Thoughts]] | automatic thoughts | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 279 | [[Core Beliefs]] | core beliefs | — | 🔗 The Stoic-CBT Connection: Philosoph... | 286 |
 | 280 | [[Stoicism]] | — | — | 🔗 The Stoic-CBT Connection: Philosoph... | 288 |
-| 281 | [[Cognitive-Behavioral Therapy]] | CBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 288 |
+| 281 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 288 |
 | 282 | [[Cognitive Restructuring]] | Cognitive restructuring | — | 🔗 The Stoic-CBT Connection: Philosoph... | 288 |
 | 283 | [[Socratic-Method|Socratic Method]] | Socratic method | — | 🔗 The Stoic-CBT Connection: Philosoph... | 288 |
 | 284 | [[Behavioral Experiments]] | Behavioral experiments | — | 🔗 The Stoic-CBT Connection: Philosoph... | 288 |
-| 285 | [[Cognitive-Behavioral Therapy]] | CBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
+| 285 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
 | 286 | [[Stoic Techniques]] | Stoic techniques | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
 | 287 | [[Mental Disorders]] | mental disorders | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
 | 288 | [[Depression]] | depression | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
@@ -827,7 +827,7 @@ extraction_summary:
 | 293 | [[Stoic Practice]] | Stoic practice | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
 | 294 | [[Stoic Training]] | Stoic training | — | 🔗 The Stoic-CBT Connection: Philosoph... | 290 |
 | 295 | [[Stoicism]] | Stoic practices | — | 🔮 Integration with Modern Psychologic... | 294 |
-| 296 | [[Cognitive-Behavioral Therapy]] | CBT | — | 🔮 Integration with Modern Psychologic... | 294 |
+| 296 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | 🔮 Integration with Modern Psychologic... | 294 |
 | 297 | [[Self-Determination-Theory|Self-Determination Theory]] | Self-determination theory | — | 🔮 Integration with Modern Psychologic... | 296 |
 | 298 | [[Autonomy]] | autonomy | — | 🔮 Integration with Modern Psychologic... | 296 |
 | 299 | [[Competence]] | competence | — | 🔮 Integration with Modern Psychologic... | 296 |
@@ -837,7 +837,7 @@ extraction_summary:
 | 303 | [[Stoic Exercises]] | systematic practice | — | 🔮 Integration with Modern Psychologic... | 296 |
 | 304 | [[Cosmopolitanism]] | cosmopolitan | — | 🔮 Integration with Modern Psychologic... | 296 |
 | 305 | [[Oikeiosis]] | oikeiōsis | — | 🔮 Integration with Modern Psychologic... | 296 |
-| 306 | [[Acceptance and Commitment Therapy]] | Acceptance and commitment therapy | — | 🔮 Integration with Modern Psychologic... | 298 |
+| 306 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | Acceptance and commitment therapy | — | 🔮 Integration with Modern Psychologic... | 298 |
 | 307 | [[Cognitive Defusion]] | cognitive defusion | — | 🔮 Integration with Modern Psychologic... | 298 |
 | 308 | [[Acceptance]] | acceptance | — | 🔮 Integration with Modern Psychologic... | 298 |
 | 309 | [[Contact with Present Moment]] | contact with present moment | — | 🔮 Integration with Modern Psychologic... | 298 |
@@ -906,7 +906,7 @@ extraction_summary:
 | 372 | [[Outcome Goals]] | outcome goals | — | 🌟 Why Stoicism Endures: Evolutionary ... | 335 |
 | 373 | [[Cognitive Behavioral Therapy - Historical Development and Philosophical Foundations]] | — | — | 🔗 Related Topics for PKB Expansion | 343 |
 | 374 | [[Stoicism]] | — | — | 🔗 Related Topics for PKB Expansion | 344 |
-| 375 | [[Cognitive-Behavioral Therapy]] | CBT | — | 🔗 Related Topics for PKB Expansion | 344 |
+| 375 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | 🔗 Related Topics for PKB Expansion | 344 |
 | 376 | [[Ancient Philosophy]] | ancient philosophy | — | 🔗 Related Topics for PKB Expansion | 346 |
 | 377 | [[History of Psychology]] | history of psychology | — | 🔗 Related Topics for PKB Expansion | 346 |
 | 378 | [[Clinical Practice]] | clinical practice | — | 🔗 Related Topics for PKB Expansion | 346 |
@@ -914,7 +914,7 @@ extraction_summary:
 | 380 | [[Neuroplasticity Mechanisms in Adult Learning and Habit Formation]] | — | — | 🔗 Related Topics for PKB Expansion | 348 |
 | 381 | [[Stoic Practices]] | Stoic practices | — | 🔗 Related Topics for PKB Expansion | 349 |
 | 382 | [[Neuroplasticity]] | neuroplasticity | — | 🔗 Related Topics for PKB Expansion | 349 |
-| 383 | [[Skill Acquisition]] | skill acquisition | — | 🔗 Related Topics for PKB Expansion | 350 |
+| 383 | [[Skill-Acquisition|Skill Acquisition]] | skill acquisition | — | 🔗 Related Topics for PKB Expansion | 350 |
 | 384 | [[Expert Performance]] | expertise development | — | 🔗 Related Topics for PKB Expansion | 350 |
 | 385 | [[Neuroscience]] | neuroscience | — | 🔗 Related Topics for PKB Expansion | 351 |
 | 386 | [[Learning Theory]] | learning theory | — | 🔗 Related Topics for PKB Expansion | 351 |
@@ -928,7 +928,7 @@ extraction_summary:
 | 394 | [[Emotion Research]] | emotion science | — | 🔗 Related Topics for PKB Expansion | 356 |
 | 395 | [[Linguistic Relativity]] | linguistic relativity | — | 🔗 Related Topics for PKB Expansion | 356 |
 | 396 | [[Constructivist Theories of Emotion]] | constructivist emotion theory | — | 🔗 Related Topics for PKB Expansion | 356 |
-| 397 | [[Acceptance and Commitment Therapy]] | ACT | — | 🔗 Related Topics for PKB Expansion | 356 |
+| 397 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | ACT | — | 🔗 Related Topics for PKB Expansion | 356 |
 | 398 | [[Dialectical Behavior Therapy]] | DBT | — | 🔗 Related Topics for PKB Expansion | 356 |
 | 399 | [[Stress Inoculation and Antifragility - Building Systems That Improve Under Pressure]] | — | — | 🔗 Related Topics for PKB Expansion | 358 |
 | 400 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🔗 Related Topics for PKB Expansion | 359 |
@@ -938,7 +938,7 @@ extraction_summary:
 | 404 | [[Exercise Physiology]] | exercise physiology | — | 🔗 Related Topics for PKB Expansion | 359 |
 | 405 | [[Toxicology]] | toxicology | — | 🔗 Related Topics for PKB Expansion | 359 |
 | 406 | [[Psychology]] | psychology | — | 🔗 Related Topics for PKB Expansion | 359 |
-| 407 | [[Deliberate Practice]] | deliberate practice | — | 🔗 Related Topics for PKB Expansion | 360 |
+| 407 | [[Deliberate-Practice|Deliberate Practice]] | deliberate practice | — | 🔗 Related Topics for PKB Expansion | 360 |
 | 408 | [[Post-Traumatic Growth]] | post-traumatic growth | — | 🔗 Related Topics for PKB Expansion | 360 |
 | 409 | [[Systems Theory]] | systems theory | — | 🔗 Related Topics for PKB Expansion | 361 |
 | 410 | [[Evolutionary Biology]] | evolutionary biology | — | 🔗 Related Topics for PKB Expansion | 361 |
@@ -1004,7 +1004,7 @@ extraction_summary:
 - [[Abstract Construal]]
 - [[Abstract Reasoning]]
 - [[Acceptance]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Adequate Sleep]]
 - [[Aerobic Exercise]]
 - [[Affective Neuroscience]]
@@ -1035,12 +1035,12 @@ extraction_summary:
 - [[Cognitive Defusion]]
 - [[Cognitive Distancing]]
 - [[Cognitive Flexibility]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Resources]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Therapy]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
 - [[Competence]]
 - [[Complexity Science]]
@@ -1053,7 +1053,7 @@ extraction_summary:
 - [[Corticostriatal Pathways]]
 - [[Cosmopolitanism]]
 - [[Default Mode Network]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Depression]]
 - [[Dialectical Behavior Therapy]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -1079,7 +1079,7 @@ extraction_summary:
 - [[Evidence-Based Treatment]]
 - [[Evolutionary Biology]]
 - [[Executive Control]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Exercise Physiology]]
 - [[Experiential Avoidance]]
 - [[Expert Performance]]
@@ -1109,7 +1109,7 @@ extraction_summary:
 - [[Linguistic Relativity]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Magnetoencephalography]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Mastery Experiences]]
 - [[Medial Prefrontal Cortex]]
 - [[Meditation Research]]
@@ -1161,7 +1161,7 @@ extraction_summary:
 - [[Seneca]]
 - [[Seneca the Younger]]
 - [[Shame]]
-- [[Skill Acquisition]]
+- [[Skill-Acquisition|Skill Acquisition]]
 - [[Sleep Quality]]
 - [[Social Anxiety Disorder]]
 - [[Social Comparison]]
@@ -1169,7 +1169,7 @@ extraction_summary:
 - [[Social Fragmentation]]
 - [[Social Support]]
 - [[Socratic-Method|Socratic Method]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Status Anxiety]]
 - [[Stoic Approach]]
 - [[Stoic Exercise]]

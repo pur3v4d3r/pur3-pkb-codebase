@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -64,16 +64,24 @@ narrower:
 
 see-also:
   - "[[Frederic-Bartlett|Frederic Bartlett]]"
-  - "[[Schema-theory|Schema theory]]"
-  - "[[advance-organizers|advance organizers]]"
+  - "[[Schema-Theory|Schema theory]]"
+  - "[[Advance-Organizers|advance organizers]]"
   - "[[metacognitive-awareness|metacognitive awareness]]"
   - "[[Bartlett]]"
   - "[[Piaget]]"
   - "[[Rumelhart]]"
   - "[[Schank-and-Abelson|Schank and Abelson]]"
   - "[[Frederic-Bartlett|Frederic Bartlett]]"
-  - "[[Schema-theory|Schema theory]]"
-  - "[[advance-organizers|advance organizers]]"
+  - "[[Schema-Theory|Schema theory]]"
+  - "[[Advance-Organizers|advance organizers]]"
+  - "[[metacognitive-awareness|metacognitive awareness]]"
+  - "[[Bartlett|Bartlett]]"
+  - "[[Piaget|Piaget]]"
+  - "[[Rumelhart|Rumelhart]]"
+  - "[[Schank-and-Abelson|Schank and Abelson]]"
+  - "[[Frederic-Bartlett|Frederic Bartlett]]"
+  - "[[Schema-Theory|Schema theory]]"
+  - "[[Advance-Organizers|advance organizers]]"
   - "[[metacognitive-awareness|metacognitive awareness]]"
   - "[[Bartlett|Bartlett]]"
   - "[[Piaget|Piaget]]"
@@ -107,7 +115,7 @@ importance: high
 # Reconstructive Memory
 
 > [!definition] **Reconstructive Memory**
-> The process by which recall involves active reconstruction of a plausible account from schema-consistent fragments, defaults, and elaborations, rather than retrieval of a faithful, intact record. Proposed by [[Frederic Bartlett]] (1932) and supported by extensive subsequent research. Reconstructive memory explains systematic recall errors, schema-consistent intrusions, and the rationalization of unfamiliar material toward familiar frameworks. Boundary: the reconstructive account does not deny that verbatim surface memory is sometimes possible; it claims that schema-guided reconstruction is the dominant mode for meaningful material over time.
+> The process by which recall involves active reconstruction of a plausible account from schema-consistent fragments, defaults, and elaborations, rather than retrieval of a faithful, intact record. Proposed by [[Frederic-Bartlett]] (1932) and supported by extensive subsequent research. Reconstructive memory explains systematic recall errors, schema-consistent intrusions, and the rationalization of unfamiliar material toward familiar frameworks. Boundary: the reconstructive account does not deny that verbatim surface memory is sometimes possible; it claims that schema-guided reconstruction is the dominant mode for meaningful material over time.
 
 ## Core Explanation
 
@@ -161,10 +169,10 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 **Related concepts:**
-[[Frederic-Bartlett|Frederic Bartlett]] · [[Schema-theory|Schema theory]] · [[advance-organizers|advance organizers]] · [[metacognitive-awareness|metacognitive awareness]] · [[Bartlett]] · [[Piaget]] · [[Rumelhart]] · [[Schank-and-Abelson|Schank and Abelson]] · [[Immanuel-Kant|Immanuel Kant]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] · [[Jean-Piaget|Jean Piaget]] · [[constructivist]] · [[Declarative-schemas|Declarative schemas]] · [[Procedural-schemas|Procedural schemas]]
+[[Frederic-Bartlett|Frederic Bartlett]] · [[Schema-Theory|Schema theory]] · [[Advance-Organizers|advance organizers]] · [[metacognitive-awareness|metacognitive awareness]] · [[Bartlett]] · [[Piaget]] · [[Rumelhart]] · [[Schank-and-Abelson|Schank and Abelson]] · [[Immanuel-Kant|Immanuel Kant]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] · [[Jean-Piaget|Jean Piaget]] · [[Constructivist]] · [[Declarative-schemas|Declarative schemas]] · [[Procedural-schemas|Procedural schemas]]
 
 **Related concepts** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-[[Schema-theory|Schema theory]] * [[advance-organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]] * [[information-processing|information processing]]
+[[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]] * [[information-processing|information processing]]
 
 **Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
 - [[Schema-Theory-and-Learning|Schema Theory and Learning]]
@@ -177,6 +185,24 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Related concepts** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+[[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]] * [[information-processing|information processing]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+
+
 
 
 

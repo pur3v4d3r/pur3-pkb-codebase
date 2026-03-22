@@ -108,7 +108,7 @@ document-features:
 # Writing to Learn: The Knowledge Transformation Problem
 
 *A Focused Analysis Report · v1.0 · 2026-03-21*
-*Extends: [[Writing-to-Learn]] · Series: [[Report Generation Prompt Suite]]*
+*Extends: [[Writing-to-Learn]] · Series: [[Report-Generation-Prompt-Suite]]*
 
 ---
 

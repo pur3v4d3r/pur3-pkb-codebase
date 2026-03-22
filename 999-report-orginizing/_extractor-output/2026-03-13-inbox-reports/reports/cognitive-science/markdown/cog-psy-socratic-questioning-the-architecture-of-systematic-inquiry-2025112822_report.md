@@ -162,7 +162,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 189)*
 
 > [!abstract] Untitled
-> **Socratic Questioning** represents the systematization of an ancient philosophical method into a modern pedagogical and analytical framework. Developed primarily by [[Richard Paul]] and [[Linda Elder]] through the [[Foundation for Critical Thinking]], this taxonomy transforms the classical [[Elenchus|Elenchus]] into a structured cognitive tool with six discrete question types, each targeting specific layers of thinking. Unlike casual inquiry, Socratic questioning operates as **disciplined, systematic, and deep interrogation** that probes foundational concepts, uncovers hidden assumptions, evaluates evidence quality, explores alternative perspectives, traces logical implications, and examines the questioning process itself. The framework functions simultaneously as an andragogical method for cultivating [[Critical-Thinking|Critical Thinking]], a metacognitive scaffold for [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], and a therapeutic technique in [[Cognitive-Behavioral Therapy]]. This reference note provides an encyclopedic examination of the structural components, cognitive mechanisms, pedagogical applications, and ethical considerations of Socratic questioning as both art and science.
+> **Socratic Questioning** represents the systematization of an ancient philosophical method into a modern pedagogical and analytical framework. Developed primarily by [[Richard-Paul|Richard Paul]] and [[Linda-Elder|Linda Elder]] through the [[Foundation for Critical Thinking]], this taxonomy transforms the classical [[Elenchus|Elenchus]] into a structured cognitive tool with six discrete question types, each targeting specific layers of thinking. Unlike casual inquiry, Socratic questioning operates as **disciplined, systematic, and deep interrogation** that probes foundational concepts, uncovers hidden assumptions, evaluates evidence quality, explores alternative perspectives, traces logical implications, and examines the questioning process itself. The framework functions simultaneously as an andragogical method for cultivating [[Critical-Thinking|Critical Thinking]], a metacognitive scaffold for [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], and a therapeutic technique in [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]. This reference note provides an encyclopedic examination of the structural components, cognitive mechanisms, pedagogical applications, and ethical considerations of Socratic questioning as both art and science.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 200)*
 
@@ -330,29 +330,29 @@ extraction_summary:
 
 - [[Andragogy]]
 - [[Aporia]]
-- [[Argument Analysis]]
+- [[Argument-Analysis|Argument Analysis]]
 - [[Assumption Analysis]]
 - [[Automatic Thoughts]]
 - [[Autonomy]]
 - [[Banking Model of Education]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Clarification Questions]]
 - [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive Restructuring]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Conceptual Confusion]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consequential Thinking]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Deep-Processing|Deep Processing]]
 - [[Dialectical Reasoning]]
 - [[Dialogic Teaching]]
 - [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 - [[Egocentric Thinking]]
 - [[Elements of Thought]]
 - [[Elements of Thought - The Architecture of Reasoning]]
@@ -374,12 +374,12 @@ extraction_summary:
 - [[Intellectual Standards in Critical Thinking - The Quality Criteria for Thought]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Kantian Ethics]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logical Consistency]]
 - [[Logical Fallacies]]
 - [[Maieutics]]
 - [[Metacognition]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Neuroplasticity]]
@@ -399,9 +399,9 @@ extraction_summary:
 - [[Questioning Strategies]]
 - [[Rational Discourse]]
 - [[Rational Epistemology]]
-- [[Richard Paul]]
+- [[Richard-Paul|Richard Paul]]
 - [[Scaffolding]]
-- [[Scientific Reasoning]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Self-Deception]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
@@ -427,8 +427,8 @@ extraction_summary:
 | 1 | [[Socratic Questioning: The Architecture of Systematic Inquiry]] | — | — | Socratic Questioning: The Architectur... | 45 |
 | 2 | [[Socratic-Method|Socratic Method]] | — | — | Main Sections (Planned Headers): | 128 |
 | 3 | [[Elenchus|Elenchus]] | — | — | Main Sections (Planned Headers): | 129 |
-| 4 | [[Richard Paul]] | — | — | Main Sections (Planned Headers): | 130 |
-| 5 | [[Linda Elder]] | — | — | Main Sections (Planned Headers): | 131 |
+| 4 | [[Richard-Paul|Richard Paul]] | — | — | Main Sections (Planned Headers): | 130 |
+| 5 | [[Linda-Elder|Linda Elder]] | — | — | Main Sections (Planned Headers): | 131 |
 | 6 | [[Foundation for Critical Thinking]] | — | — | Main Sections (Planned Headers): | 132 |
 | 7 | [[Critical-Thinking|Critical Thinking]] | — | — | Main Sections (Planned Headers): | 133 |
 | 8 | [[Metacognition]] | — | — | Main Sections (Planned Headers): | 134 |
@@ -440,12 +440,12 @@ extraction_summary:
 | 14 | [[Consequential Thinking]] | — | — | Main Sections (Planned Headers): | 140 |
 | 15 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Main Sections (Planned Headers): | 141 |
 | 16 | [[Intellectual-Courage|Intellectual Courage]] | — | — | Main Sections (Planned Headers): | 142 |
-| 17 | [[Bloom's Taxonomy]] | — | — | Main Sections (Planned Headers): | 143 |
+| 17 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Main Sections (Planned Headers): | 143 |
 | 18 | [[Higher-Order Thinking]] | — | — | Main Sections (Planned Headers): | 144 |
 | 19 | [[Socratic Circles]] | — | — | Main Sections (Planned Headers): | 145 |
 | 20 | [[Socratic Seminar]] | — | — | Main Sections (Planned Headers): | 146 |
 | 21 | [[Dialectical Reasoning]] | — | — | Main Sections (Planned Headers): | 147 |
-| 22 | [[Cognitive Biases]] | — | — | Main Sections (Planned Headers): | 148 |
+| 22 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Main Sections (Planned Headers): | 148 |
 | 23 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Main Sections (Planned Headers): | 149 |
 | 24 | [[Self-Deception]] | — | — | Main Sections (Planned Headers): | 150 |
 | 25 | [[Andragogy]] | — | — | Main Sections (Planned Headers): | 151 |
@@ -457,32 +457,32 @@ extraction_summary:
 | 31 | [[Deep-Processing|Deep Processing]] | — | — | Main Sections (Planned Headers): | 157 |
 | 32 | [[Surface Learning]] | — | — | Main Sections (Planned Headers): | 158 |
 | 33 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Main Sections (Planned Headers): | 159 |
-| 34 | [[Richard Paul]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
-| 35 | [[Linda Elder]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
+| 34 | [[Richard-Paul|Richard Paul]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
+| 35 | [[Linda-Elder|Linda Elder]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
 | 36 | [[Foundation for Critical Thinking]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
 | 37 | [[Elenchus|Elenchus]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
 | 38 | [[Critical-Thinking|Critical Thinking]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
 | 39 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
-| 40 | [[Cognitive-Behavioral Therapy]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
+| 40 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🎓 Abstract: The Architecture of Syste... | 190 |
 | 41 | [[Plato]] | — | — | The Socratic Legacy and Its Modern Tr... | 198 |
 | 42 | [[Intellectual-Humility|Intellectual Humility]] | — | — | The Socratic Legacy and Its Modern Tr... | 198 |
 | 43 | [[Maieutics]] | — | — | The Socratic Legacy and Its Modern Tr... | 201 |
 | 44 | [[Critical-Thinking|Critical Thinking]] | — | — | The Socratic Legacy and Its Modern Tr... | 203 |
 | 45 | [[Foundation for Critical Thinking]] | — | — | The Socratic Legacy and Its Modern Tr... | 203 |
-| 46 | [[Linda Elder]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
+| 46 | [[Linda-Elder|Linda Elder]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
 | 47 | [[Elements of Thought]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
 | 48 | [[Intellectual-Standards|Intellectual Standards]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
 | 49 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Socratic Legacy and Its Modern Tr... | 208 |
 | 50 | [[Conceptual Confusion]] | — | — | 🔍 Type 1: Questions for Clarification | 248 |
 | 51 | [[Operational Definition]] | — | — | 🔍 Type 1: Questions for Clarification | 250 |
-| 52 | [[Cognitive-Behavioral Therapy]] | — | — | 🔍 Type 1: Questions for Clarification | 250 |
+| 52 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🔍 Type 1: Questions for Clarification | 250 |
 | 53 | [[Automatic Thoughts]] | — | — | 🔍 Type 1: Questions for Clarification | 250 |
 | 54 | [[Presuppositions]] | — | — | 🧩 Type 2: Questions that Probe Assump... | 264 |
-| 55 | [[Cognitive Biases]] | — | — | 🧩 Type 2: Questions that Probe Assump... | 264 |
+| 55 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🧩 Type 2: Questions that Probe Assump... | 264 |
 | 56 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🧩 Type 2: Questions that Probe Assump... | 264 |
 | 57 | [[Epistemic-Humility|Epistemic Humility]] | — | — | 🧩 Type 2: Questions that Probe Assump... | 269 |
 | 58 | [[Socratic-Method|Socratic Method]] | — | — | 🧩 Type 2: Questions that Probe Assump... | 269 |
-| 59 | [[Scientific Reasoning]] | — | — | 📚 Type 3: Questions that Probe Reason... | 273 |
+| 59 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | 📚 Type 3: Questions that Probe Reason... | 273 |
 | 60 | [[Rational Epistemology]] | — | — | 📚 Type 3: Questions that Probe Reason... | 273 |
 | 61 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 📚 Type 3: Questions that Probe Reason... | 284 |
 | 62 | [[Evidence-Based Reasoning]] | — | — | 📚 Type 3: Questions that Probe Reason... | 284 |
@@ -491,7 +491,7 @@ extraction_summary:
 | 65 | [[Egocentric Thinking]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 292 |
 | 66 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 303 |
 | 67 | [[False Dichotomy Thinking]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 305 |
-| 68 | [[Bloom's Taxonomy]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 310 |
+| 68 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 310 |
 | 69 | [[Forward Reasoning]] | — | — | ⚡ Type 5: Questions that Probe Implic... | 314 |
 | 70 | [[Logical Consistency]] | — | — | ⚡ Type 5: Questions that Probe Implic... | 325 |
 | 71 | [[Consequential Thinking]] | — | — | ⚡ Type 5: Questions that Probe Implic... | 327 |
@@ -499,7 +499,7 @@ extraction_summary:
 | 73 | [[Universalizability]] | — | — | ⚡ Type 5: Questions that Probe Implic... | 332 |
 | 74 | [[Kantian Ethics]] | — | — | ⚡ Type 5: Questions that Probe Implic... | 332 |
 | 75 | [[Questioning Process]] | — | — | 🔄 Type 6: Questions about Questions (... | 336 |
-| 76 | [[Metacognitive Awareness]] | — | — | 🔄 Type 6: Questions about Questions (... | 347 |
+| 76 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 🔄 Type 6: Questions about Questions (... | 347 |
 | 77 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔄 Type 6: Questions about Questions (... | 354 |
 | 78 | [[Elements of Thought]] | — | — | The Structural Logic of Thought | 362 |
 | 79 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
@@ -511,11 +511,11 @@ extraction_summary:
 | 85 | [[Paulo Freire]] | — | — | The Authority Problem in Socratic Dia... | 427 |
 | 86 | [[Banking Model of Education]] | — | — | The Authority Problem in Socratic Dia... | 427 |
 | 87 | [[Intellectual-Humility|Intellectual Humility]] | — | — | The Authority Problem in Socratic Dia... | 434 |
-| 88 | [[Bloom's Taxonomy]] | — | — | Socratic Questioning and Bloom's Taxo... | 454 |
+| 88 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Socratic Questioning and Bloom's Taxo... | 454 |
 | 89 | [[Metacognition]] | — | — | Connection to Metacognition and Self-... | 460 |
 | 90 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Connection to Metacognition and Self-... | 468 |
 | 91 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Connection to Metacognition and Self-... | 468 |
-| 92 | [[Cognitive-Behavioral Therapy]] | — | — | Application in Cognitive Behavioral T... | 472 |
+| 92 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Application in Cognitive Behavioral T... | 472 |
 | 93 | [[Cognitive Restructuring]] | — | — | Application in Cognitive Behavioral T... | 472 |
 | 94 | [[Automatic Thoughts]] | — | — | Application in Cognitive Behavioral T... | 476 |
 | 95 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Synthesis with Existing Cognitive Fra... | 488 |
@@ -528,10 +528,10 @@ extraction_summary:
 | 102 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Synthesis with Existing Cognitive Fra... | 494 |
 | 103 | [[Dialectical Reasoning]] | — | — | Distinctions from Related Practices | 500 |
 | 104 | [[Aporia]] | — | — | Distinctions from Related Practices | 500 |
-| 105 | [[Discovery Learning]] | — | — | Distinctions from Related Practices | 502 |
+| 105 | [[Discovery-Learning|Discovery Learning]] | — | — | Distinctions from Related Practices | 502 |
 | 106 | [[Elements of Thought - The Architecture of Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 550 |
 | 107 | [[Logical Fallacies]] | — | — | 🔗 Related Topics for PKB Expansion | 553 |
-| 108 | [[Argument Analysis]] | — | — | 🔗 Related Topics for PKB Expansion | 553 |
+| 108 | [[Argument-Analysis|Argument Analysis]] | — | — | 🔗 Related Topics for PKB Expansion | 553 |
 | 109 | [[Intellectual-Standards|Intellectual Standards]] | — | — | 🔗 Related Topics for PKB Expansion | 553 |
 | 110 | [[Intellectual Standards in Critical Thinking - The Quality Criteria for Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 555 |
 | 111 | [[Epistemic Justification]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
@@ -544,7 +544,7 @@ extraction_summary:
 | 118 | [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]] | — | — | 🔗 Related Topics for PKB Expansion | 565 |
 | 119 | [[Pedagogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 120 | [[Andragogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
-| 121 | [[Constructivist Learning Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
+| 121 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 122 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 123 | [[Scaffolding]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 124 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
@@ -585,29 +585,29 @@ extraction_summary:
 
 - [[Andragogy]]
 - [[Aporia]]
-- [[Argument Analysis]]
+- [[Argument-Analysis|Argument Analysis]]
 - [[Assumption Analysis]]
 - [[Automatic Thoughts]]
 - [[Autonomy]]
 - [[Banking Model of Education]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Clarification Questions]]
 - [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive Restructuring]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Conceptual Confusion]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consequential Thinking]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Deep-Processing|Deep Processing]]
 - [[Dialectical Reasoning]]
 - [[Dialogic Teaching]]
 - [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 - [[Egocentric Thinking]]
 - [[Elements of Thought]]
 - [[Elements of Thought - The Architecture of Reasoning]]
@@ -629,12 +629,12 @@ extraction_summary:
 - [[Intellectual Standards in Critical Thinking - The Quality Criteria for Thought]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Kantian Ethics]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logical Consistency]]
 - [[Logical Fallacies]]
 - [[Maieutics]]
 - [[Metacognition]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Neuroplasticity]]
@@ -654,9 +654,9 @@ extraction_summary:
 - [[Questioning Strategies]]
 - [[Rational Discourse]]
 - [[Rational Epistemology]]
-- [[Richard Paul]]
+- [[Richard-Paul|Richard Paul]]
 - [[Scaffolding]]
-- [[Scientific Reasoning]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Self-Deception]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]

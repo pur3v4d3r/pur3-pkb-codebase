@@ -145,14 +145,14 @@ extraction_summary:
 > [!abstract] Untitled
 > This exposition examines the deep structural relationship between [[Metacognition]] and [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]], arguing that metacognitive capacity is not merely one useful skill among many in PKM practice but rather the architectural foundation upon which the entire enterprise of intelligent self-directed knowledge work depends. Without metacognition—the capacity to observe, evaluate, and regulate one's own cognitive processes—a PKM system is reduced to an elaborate filing cabinet: objects accumulate, but no living intelligence governs what is retained, how connections are drawn, when knowledge is sufficient, or where understanding has failed. With metacognition, the same system becomes a cognitive amplifier, a second mind that not only stores but reflects, not only organizes but interrogates.
 > 
-> The argument unfolds across eight phases. Beginning with the intellectual history of metacognition from Aristotle through [[John Flavell]]'s foundational 1979 model, the exposition establishes the theoretical architecture of the construct, distinguishing its two primary dimensions—[[Metacognitive-Knowledge|Metacognitive Knowledge]] and [[Metacognitive-Regulation|Metacognitive Regulation]]—and elaborating Flavell's four-component taxonomy of metacognitive knowledge (person variables, task variables, strategy variables, and the often-neglected [[Metacognitive Experiences]]). It then maps these theoretical constructs directly onto the core processes of PKM: capture, organization, elaboration, retrieval, and synthesis. The middle sections develop a comprehensive account of the mechanisms by which metacognitive skills transform PKM practice, marshaling evidence from cognitive science, educational psychology, and empirical PKM research. The exposition concludes by constructing a practical, evidence-based framework for fostering metacognitive skills within PKM workflows, with specific attention to [[Obsidian]]-based vault architectures, the [[Zettelkasten]] method, Tiago Forte's [[Building a Second Brain (BASB)]] methodology, and Harold Jarche's [[Seek-Sense-Share Framework]].
+> The argument unfolds across eight phases. Beginning with the intellectual history of metacognition from Aristotle through [[John-Flavell|John Flavell]]'s foundational 1979 model, the exposition establishes the theoretical architecture of the construct, distinguishing its two primary dimensions—[[Metacognitive-Knowledge|Metacognitive Knowledge]] and [[Metacognitive-Regulation|Metacognitive Regulation]]—and elaborating Flavell's four-component taxonomy of metacognitive knowledge (person variables, task variables, strategy variables, and the often-neglected [[Metacognitive-Experiences|Metacognitive Experiences]]). It then maps these theoretical constructs directly onto the core processes of PKM: capture, organization, elaboration, retrieval, and synthesis. The middle sections develop a comprehensive account of the mechanisms by which metacognitive skills transform PKM practice, marshaling evidence from cognitive science, educational psychology, and empirical PKM research. The exposition concludes by constructing a practical, evidence-based framework for fostering metacognitive skills within PKM workflows, with specific attention to [[Obsidian]]-based vault architectures, the [[Zettelkasten]] method, Tiago Forte's [[Building a Second Brain (BASB)]] methodology, and Harold Jarche's [[Seek-Sense-Share Framework]].
 > 
 > The central intellectual contribution is a unified theoretical model—the **Metacognitive PKM Architecture**—which positions metacognitive monitoring and regulation as the governing intelligence layer of any effective personal knowledge system, and derives from this model concrete design principles for PKM systems intended to be not merely repositories of information but dynamic instruments of intellectual growth.
 
 #### 2. [DEFINITION] Untitled *(Line 22)*
 
 > [!definition] Untitled
-> **Metacognition**, in its most precise formulation, refers to the capacity to take one's own cognitive processes as objects of awareness and deliberate regulation. The term, coined formally by developmental psychologist [[John H. Flavell]] in 1976, derives from the Greek prefix *meta* ("beyond" or "above"), signifying a level of cognitive operation that stands *above* first-order thinking and observes, evaluates, monitors, and controls it. Metacognition encompasses two functionally distinct but deeply interrelated dimensions: (1) **metacognitive knowledge**, the declarative store of beliefs and understanding about cognition in general and one's own cognitive capacities in particular; and (2) **metacognitive regulation**, the executive processes by which one actively monitors and modifies one's cognitive activity in real time. It is not mere introspection—it is *functional self-observation in service of learning goals*. What metacognition is NOT: it is not general intelligence, not domain expertise, not reflective personality as a stable trait, and not conscious rumination per se. It is a specific executive capacity with identifiable components, measurable in research contexts, and trainable through deliberate intervention.
+> **Metacognition**, in its most precise formulation, refers to the capacity to take one's own cognitive processes as objects of awareness and deliberate regulation. The term, coined formally by developmental psychologist [[John-H.-Flavell|John H. Flavell]] in 1976, derives from the Greek prefix *meta* ("beyond" or "above"), signifying a level of cognitive operation that stands *above* first-order thinking and observes, evaluates, monitors, and controls it. Metacognition encompasses two functionally distinct but deeply interrelated dimensions: (1) **metacognitive knowledge**, the declarative store of beliefs and understanding about cognition in general and one's own cognitive capacities in particular; and (2) **metacognitive regulation**, the executive processes by which one actively monitors and modifies one's cognitive activity in real time. It is not mere introspection—it is *functional self-observation in service of learning goals*. What metacognition is NOT: it is not general intelligence, not domain expertise, not reflective personality as a stable trait, and not conscious rumination per se. It is a specific executive capacity with identifiable components, measurable in research contexts, and trainable through deliberate intervention.
 
 #### 3. [DEFINITION] Untitled *(Line 25)*
 
@@ -237,7 +237,7 @@ extraction_summary:
 #### 19. [EVIDENCE] Untitled *(Line 149)*
 
 > [!evidence] Untitled
-> Research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]], building on the theoretical foundations of [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]], consistently demonstrates that learners who employ metacognitive monitoring and regulation—specifically, those who set specific learning goals, monitor progress against those goals, and adaptively modify their strategies in response to monitoring feedback—achieve substantially better outcomes than learners who process information passively without metacognitive oversight. Zimmerman's (2000) self-regulation cycle (forethought → performance → self-reflection) maps directly onto the core PKM cycle of planning (what am I trying to learn?), active processing (note-taking, elaboration, linking), and review (what did I actually understand, what gaps remain?). The structural parallelism is not coincidental: effective PKM practice is, at its core, applied self-regulated learning.
+> Research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]], building on the theoretical foundations of [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul-Pintrich|Paul Pintrich]], consistently demonstrates that learners who employ metacognitive monitoring and regulation—specifically, those who set specific learning goals, monitor progress against those goals, and adaptively modify their strategies in response to monitoring feedback—achieve substantially better outcomes than learners who process information passively without metacognitive oversight. Zimmerman's (2000) self-regulation cycle (forethought → performance → self-reflection) maps directly onto the core PKM cycle of planning (what am I trying to learn?), active processing (note-taking, elaboration, linking), and review (what did I actually understand, what gaps remain?). The structural parallelism is not coincidental: effective PKM practice is, at its core, applied self-regulated learning.
 
 #### 20. [EVIDENCE] Untitled *(Line 152)*
 
@@ -289,9 +289,9 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > The Seek-Sense-Share framework connects to several major conceptual threads in the knowledge base:
 > - [[Reflective-Practice|Reflective Practice]] (Dewey, Schön): The sensing phase is the operationalization of reflective practice in PKM contexts
-> - [[Dual-Process-Theory|Dual Process Theory]] ([[Daniel Kahneman]]): Seeking can operate on System 1 (intuitive attention signals) or System 2 (deliberate goal-directed search); sensing fundamentally requires System 2
+> - [[Dual-Process-Theory|Dual Process Theory]] ([[Daniel-Kahneman|Daniel Kahneman]]): Seeking can operate on System 1 (intuitive attention signals) or System 2 (deliberate goal-directed search); sensing fundamentally requires System 2
 > - [[Transfer-Appropriate-Processing|Transfer Appropriate Processing]]: The multi-context encoding promoted by sharing facilitates transfer of knowledge to novel contexts
-> - [[Social Learning Theory]] ([[Albert Bandura]]): The sharing phase creates metacognitive feedback through social response, calibrating self-assessment against external evaluation
+> - [[Social Learning Theory]] ([[Albert-Bandura|Albert Bandura]]): The sharing phase creates metacognitive feedback through social response, calibrating self-assessment against external evaluation
 > - [[Communities-of-Practice|Communities of Practice]] ([[Etienne Wenger]]): Jarche's framework situates PKM within a broader ecology of collective knowledge creation
 
 #### 30. [INSIGHT] Untitled *(Line 217)*
@@ -341,7 +341,7 @@ extraction_summary:
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]] → PKM as exocortical cognitive load management
 > - [[Transfer Problem in Critical Thinking]] → PKM as cross-domain knowledge architecture; Zettelkasten linking as transfer facilitation
 > - [[PENCRISAL-Framework|PENCRISAL Framework]] → metacognitive components map onto PENCRISAL's practical reasoning and problem-solving dimensions
-> - [[Extended Thinking Architecture]] (project knowledge) → AI-augmented metacognitive monitoring; thinking blocks as externalized metacognitive monitoring
+> - [[Extended-Thinking-Architecture|Extended Thinking Architecture]] (project knowledge) → AI-augmented metacognitive monitoring; thinking blocks as externalized metacognitive monitoring
 
 #### 37. [FURTHER-EXPLORATION] Untitled *(Line 272)*
 
@@ -431,15 +431,15 @@ extraction_summary:
 ### Unique Targets
 
 - [[AI-Augmented Metacognitive Scaffolding]]
-- [[Albert Bandura]]
-- [[Ann Brown]]
+- [[Albert-Bandura|Albert Bandura]]
+- [[Ann-Brown|Ann Brown]]
 - [[Aristotle]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Building a Second Brain (BASB)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Communities-of-Practice|Communities of Practice]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dave Snowden]]
 - [[David Allen]]
 - [[David Moshman]]
@@ -452,16 +452,16 @@ extraction_summary:
 - [[Etienne Wenger]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
 - [[Extended Mind Theory and Personal Knowledge Vaults]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Feynman Technique]]
 - [[Getting Things Done (GTD)]]
-- [[Gregory Schraw]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Harold Jarche]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
 - [[John Dewey's Reflective Thinking Theory]]
-- [[John Flavell]]
-- [[John H. Flavell]]
+- [[John-Flavell|John Flavell]]
+- [[John-H.-Flavell|John H. Flavell]]
 - [[Kahneman's Thinking Fast and Slow]]
 - [[Knowledge-of-Cognition|Knowledge of Cognition]]
 - [[Louis Narens]]
@@ -469,7 +469,7 @@ extraction_summary:
 - [[Metacognitive Awareness Inventory (MAI)]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration Training Protocols for PKM]]
-- [[Metacognitive Experiences]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive Failure Modes in PKM Practice]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
@@ -479,7 +479,7 @@ extraction_summary:
 - [[PARA Method]]
 - [[PENCRISAL-Framework|PENCRISAL Framework]]
 - [[Paul Dorsey]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Personal Information Management (PIM)]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Peter Drucker]]
@@ -507,27 +507,27 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognition]] | — | — | 🧠 The Role of Metacognition in Person... | 12 |
 | 2 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 🧠 The Role of Metacognition in Person... | 12 |
-| 3 | [[John Flavell]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
+| 3 | [[John-Flavell|John Flavell]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 4 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 5 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
-| 6 | [[Metacognitive Experiences]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
+| 6 | [[Metacognitive-Experiences|Metacognitive Experiences]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 7 | [[Obsidian]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 8 | [[Zettelkasten]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 9 | [[Building a Second Brain (BASB)]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 10 | [[Seek-Sense-Share Framework]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
-| 11 | [[John H. Flavell]] | — | — | 🎼 Phase 1: Overture & Foundation | 23 |
+| 11 | [[John-H.-Flavell|John H. Flavell]] | — | — | 🎼 Phase 1: Overture & Foundation | 23 |
 | 12 | [[Dave Snowden]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 13 | [[Paul Dorsey]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 14 | [[Personal Information Management (PIM)]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 15 | [[Organizational Knowledge Management (OKM)]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 16 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 17 | [[Aristotle]] | — | — | The Ancient Precursors | 37 |
-| 18 | [[Jean Piaget]] | — | — | The Ancient Precursors | 39 |
+| 18 | [[Jean-Piaget|Jean Piaget]] | — | — | The Ancient Precursors | 39 |
 | 19 | [[John-Dewey|John Dewey]] | — | — | The Ancient Precursors | 39 |
 | 20 | [[Reflective-Practice|Reflective Practice]] | — | — | The Ancient Precursors | 39 |
-| 21 | [[John H. Flavell]] | — | — | Flavell and the Formalization of Meta... | 43 |
-| 22 | [[Ann Brown]] | — | — | Flavell and the Formalization of Meta... | 45 |
-| 23 | [[Gregory Schraw]] | — | — | Flavell and the Formalization of Meta... | 45 |
+| 21 | [[John-H.-Flavell|John H. Flavell]] | — | — | Flavell and the Formalization of Meta... | 43 |
+| 22 | [[Ann-Brown|Ann Brown]] | — | — | Flavell and the Formalization of Meta... | 45 |
+| 23 | [[Gregory-Schraw|Gregory Schraw]] | — | — | Flavell and the Formalization of Meta... | 45 |
 | 24 | [[David Moshman]] | — | — | Flavell and the Formalization of Meta... | 45 |
 | 25 | [[Vannevar Bush]] | — | — | The Evolution of PKM as an Intellectu... | 49 |
 | 26 | [[Doug Engelbart]] | — | — | The Evolution of PKM as an Intellectu... | 49 |
@@ -556,7 +556,7 @@ extraction_summary:
 | 49 | [[Veenman, Van Hout-Wolters, and Afflerbach]] | — | — | Empirical Research on Metacognition a... | 147 |
 | 50 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning (SRL)]] | — | — | Empirical Research on Metacognition a... | 150 |
 | 51 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Empirical Research on Metacognition a... | 150 |
-| 52 | [[Paul Pintrich]] | — | — | Empirical Research on Metacognition a... | 150 |
+| 52 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Empirical Research on Metacognition a... | 150 |
 | 53 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | The Calibration Problem: Metacognitiv... | 160 |
 | 54 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | The Calibration Problem: Metacognitiv... | 160 |
 | 55 | [[Feynman Technique]] | — | — | The Calibration Problem: Metacognitiv... | 163 |
@@ -565,10 +565,10 @@ extraction_summary:
 | 58 | [[Harold Jarche]] | — | — | The Seek-Sense-Share Framework as Met... | 197 |
 | 59 | [[Reflective-Practice|Reflective Practice]] | — | — | The Seek-Sense-Share Framework as Met... | 203 |
 | 60 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Seek-Sense-Share Framework as Met... | 204 |
-| 61 | [[Daniel Kahneman]] | — | — | The Seek-Sense-Share Framework as Met... | 204 |
+| 61 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | The Seek-Sense-Share Framework as Met... | 204 |
 | 62 | [[Transfer-Appropriate-Processing|Transfer Appropriate Processing]] | — | — | The Seek-Sense-Share Framework as Met... | 205 |
 | 63 | [[Social Learning Theory]] | — | — | The Seek-Sense-Share Framework as Met... | 206 |
-| 64 | [[Albert Bandura]] | — | — | The Seek-Sense-Share Framework as Met... | 206 |
+| 64 | [[Albert-Bandura|Albert Bandura]] | — | — | The Seek-Sense-Share Framework as Met... | 206 |
 | 65 | [[Communities-of-Practice|Communities of Practice]] | — | — | The Seek-Sense-Share Framework as Met... | 207 |
 | 66 | [[Etienne Wenger]] | — | — | The Seek-Sense-Share Framework as Met... | 207 |
 | 67 | [[Epistemic Hygiene]] | — | — | Metacognitive Failure Modes in Digita... | 229 |
@@ -585,7 +585,7 @@ extraction_summary:
 | 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 267 |
 | 79 | [[Transfer Problem in Critical Thinking]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 268 |
 | 80 | [[PENCRISAL-Framework|PENCRISAL Framework]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 269 |
-| 81 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 270 |
+| 81 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 270 |
 | 82 | [[Metacognitive Calibration Training Protocols for PKM]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 276 |
 | 83 | [[Epistemic Hygiene in Digital Knowledge Systems]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 279 |
 | 84 | [[Extended Mind Theory and Personal Knowledge Vaults]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 282 |
@@ -636,15 +636,15 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[AI-Augmented Metacognitive Scaffolding]]
-- [[Albert Bandura]]
-- [[Ann Brown]]
+- [[Albert-Bandura|Albert Bandura]]
+- [[Ann-Brown|Ann Brown]]
 - [[Aristotle]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Building a Second Brain (BASB)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Communities-of-Practice|Communities of Practice]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dave Snowden]]
 - [[David Allen]]
 - [[David Moshman]]
@@ -657,16 +657,16 @@ extraction_summary:
 - [[Etienne Wenger]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
 - [[Extended Mind Theory and Personal Knowledge Vaults]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Feynman Technique]]
 - [[Getting Things Done (GTD)]]
-- [[Gregory Schraw]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Harold Jarche]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
 - [[John Dewey's Reflective Thinking Theory]]
-- [[John Flavell]]
-- [[John H. Flavell]]
+- [[John-Flavell|John Flavell]]
+- [[John-H.-Flavell|John H. Flavell]]
 - [[Kahneman's Thinking Fast and Slow]]
 - [[Knowledge-of-Cognition|Knowledge of Cognition]]
 - [[Louis Narens]]
@@ -674,7 +674,7 @@ extraction_summary:
 - [[Metacognitive Awareness Inventory (MAI)]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration Training Protocols for PKM]]
-- [[Metacognitive Experiences]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive Failure Modes in PKM Practice]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
@@ -684,7 +684,7 @@ extraction_summary:
 - [[PARA Method]]
 - [[PENCRISAL-Framework|PENCRISAL Framework]]
 - [[Paul Dorsey]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Personal Information Management (PIM)]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Peter Drucker]]

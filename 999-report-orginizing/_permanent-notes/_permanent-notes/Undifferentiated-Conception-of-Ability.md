@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[Instructional-Design|Instructional Design]]"
   - "[[Assessment-Design|Assessment Design]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Motivational-Psychology|Motivational Psychology]]"
+  - "[[John-G.-Nicholls|John G. Nicholls]]"
+  - "[[Carol-Ames|Carol Ames]]"
+  - "[[Carol-S.-Dweck|Carol S. Dweck]]"
+  - "[[Instructional-Design|Instructional Design]]"
+  - "[[Assessment-Design|Assessment Design]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -117,7 +125,7 @@ importance: high
 # Undifferentiated Conception of Ability
 
 > [!definition] **Undifferentiated Conception of Ability**
-> In an undifferentiated conception of ability, effort and ability are treated as the same thing — or at minimum, as inseparable. A person who works harder is understood to be more able, and ability is seen as something that grows through effort. Under this conception, success means improving and learning, and failure means simply "I haven't learned this yet." This conception is developmentally earlier (young children tend to operate under it) and is characteristic of what Nicholls called *task involvement*. It corresponds roughly to what [[Carol S. Dweck]] would later call the [[Growth Mindset]].
+> In an undifferentiated conception of ability, effort and ability are treated as the same thing — or at minimum, as inseparable. A person who works harder is understood to be more able, and ability is seen as something that grows through effort. Under this conception, success means improving and learning, and failure means simply "I haven't learned this yet." This conception is developmentally earlier (young children tend to operate under it) and is characteristic of what Nicholls called *task involvement*. It corresponds roughly to what [[Carol-S.-Dweck]] would later call the [[Growth-Mindset]].
 
 ## Core Explanation
 
@@ -187,6 +195,26 @@ importance: high
 - [[Growth-Mindset|Growth Mindset]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+[[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Educational-Psychology|Educational Psychology]] * [[Motivational-Psychology|Motivational Psychology]] * [[John-G.-Nicholls|John G. Nicholls]] * [[Carol-Ames|Carol Ames]] * [[Instructional-Design|Instructional Design]] * [[Assessment-Design|Assessment Design]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Conceptions-of-Ability|Conceptions of Ability]] * [[Fixed-Mindset|Fixed Mindset]] * [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] * [[Motivational-Climate|Motivational Climate]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+
+
 
 
 

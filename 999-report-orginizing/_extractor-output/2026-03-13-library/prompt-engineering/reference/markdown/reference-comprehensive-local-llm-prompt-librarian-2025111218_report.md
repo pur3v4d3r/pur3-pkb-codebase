@@ -333,13 +333,13 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> This comprehensive reference document establishes a complete framework for implementing a Local LLM-based [[Prompt Component Librarian]] system within an [[obsidian]] [[PKB]] environment. Unlike cloud-dependent solutions, this architecture prioritizes data sovereignty, [[Privacy]], and unlimited processing capacity through local inference on high-performance hardware. The system leverages [[Ollama]], [[RAG]] (Retrieval-Augmented Generation), and specialized [[Obsidian Community Plugins]] to create an intelligent, context-aware component management system that rivals cloud-based solutions while maintaining complete user control.
+> This comprehensive reference document establishes a complete framework for implementing a Local LLM-based [[Prompt Component Librarian]] system within an [[Obsidian]] [[PKB]] environment. Unlike cloud-dependent solutions, this architecture prioritizes data sovereignty, [[Privacy]], and unlimited processing capacity through local inference on high-performance hardware. The system leverages [[Ollama]], [[RAG]] (Retrieval-Augmented Generation), and specialized [[Obsidian Community Plugins]] to create an intelligent, context-aware component management system that rivals cloud-based solutions while maintaining complete user control.
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 50)*
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering conceptual foundations, technical feasibility, implementation architecture, and operational best practices. Use the table of contents below for quick navigation, or search for specific terms using [[Wiki-Links]]. Sections 1-3 establish the conceptual framework and hardware assessment, Sections 4-7 detail implementation specifics, and Sections 8-10 provide optimization strategies and comparative analysis.
+> This reference note is organized into 10 major sections covering conceptual foundations, technical feasibility, implementation architecture, and operational best practices. Use the table of contents below for quick navigation, or search for specific terms using [[wiki-links]]. Sections 1-3 establish the conceptual framework and hardware assessment, Sections 4-7 detail implementation specifics, and Sections 8-10 provide optimization strategies and comparative analysis.
 
 #### 4. [DEFINITION] Untitled *(Line 71)*
 
@@ -659,7 +659,7 @@ extraction_summary:
 - [[IDEA Prompt Development]]
 - [[Inference Speed]]
 - [[JSON Schema Validation Examples]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LLM]]
 - [[Local LLM]]
 - [[Meeting Notes Summarizer]]
@@ -678,14 +678,14 @@ extraction_summary:
 - [[Prompt Component Libraries]]
 - [[Prompt Component Versioning and Lifecycle Management]]
 - [[Prompt Components]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quantization]]
 - [[RAG]]
 - [[ReAct Agent Loop]]
 - [[Related Component 1]]
 - [[Related Component 2]]
 - [[Research Paper Analyzer]]
-- [[Semantic Search]]
+- [[Semantic-Search|Semantic Search]]
 - [[Semantic Similarity]]
 - [[Sentiment Analysis Demonstrations]]
 - [[Smart-Connections|Smart Connections]]
@@ -701,10 +701,10 @@ extraction_summary:
 - [[Vector Database]]
 - [[Vector Embeddings]]
 - [[Wiki-Link]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[XML]]
 - [[Zettelkasten]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[wiki-links]]
 
 ### All Occurrences
@@ -712,13 +712,13 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Prompt Component Librarian]] | — | — | Document Start | 48 |
-| 2 | [[obsidian]] | — | — | Document Start | 48 |
+| 2 | [[Obsidian]] | — | — | Document Start | 48 |
 | 3 | [[PKB]] | — | — | Document Start | 48 |
 | 4 | [[Privacy]] | — | — | Document Start | 48 |
 | 5 | [[Ollama]] | — | — | Document Start | 48 |
 | 6 | [[RAG]] | — | — | Document Start | 48 |
 | 7 | [[Obsidian Community Plugins]] | — | — | Document Start | 48 |
-| 8 | [[Wiki-Links]] | — | — | Document Start | 52 |
+| 8 | [[wiki-links]] | — | — | Document Start | 52 |
 | 9 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
 | 10 | [[Prompt Components]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
 | 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
@@ -744,14 +744,14 @@ extraction_summary:
 | 31 | [[Quantization]] | — | — | GPU: ASUS TUF RTX 4090 (24GB VRAM) | 143 |
 | 32 | [[Embedding]] | — | — | CPU: Intel i9-14000K (24 Cores) | 157 |
 | 33 | [[RAG]] | — | — | CPU: Intel i9-14000K (24 Cores) | 157 |
-| 34 | [[obsidian]] | — | — | CPU: Intel i9-14000K (24 Cores) | 158 |
+| 34 | [[Obsidian]] | — | — | CPU: Intel i9-14000K (24 Cores) | 158 |
 | 35 | [[Ollama]] | — | — | RAM: 32GB DDR5 | 166 |
 | 36 | [[ChromaDB]] | — | — | RAM: 32GB DDR5 | 167 |
 | 37 | [[Milvus]] | — | — | RAM: 32GB DDR5 | 167 |
-| 38 | [[obsidian]] | — | — | Storage: Multiple Samsung NVMe Drives | 176 |
+| 38 | [[Obsidian]] | — | — | Storage: Multiple Samsung NVMe Drives | 176 |
 | 39 | [[Ollama]] | — | — | The Ollama Ecosystem | 206 |
 | 40 | [[GGUF]] | — | — | The Ollama Ecosystem | 206 |
-| 41 | [[Semantic Search]] | — | — | **Tier 3: Embedding Models (Local RAG)** | 269 |
+| 41 | [[Semantic-Search|Semantic Search]] | — | — | **Tier 3: Embedding Models (Local RAG)** | 269 |
 | 42 | [[Vector Embeddings]] | — | — | **Smart Connections** (Currently Conf... | 356 |
 | 43 | [[ChromaDB]] | — | — | **Smart Connections** (Currently Conf... | 357 |
 | 44 | [[RAG]] | — | — | **Smart Connections** (Currently Conf... | 359 |
@@ -795,7 +795,7 @@ extraction_summary:
 | 82 | [[Smart-Connections|Smart Connections]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 83 | [[Text-Generator-Plugin|Text Generator Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 84 | [[Copilot Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
-| 85 | [[Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
+| 85 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 86 | [[Component Library]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 87 | [[RAG]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 88 | [[Vector Database]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
@@ -810,7 +810,7 @@ extraction_summary:
 | 97 | [[Plugin Ecosystem]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 98 | [[PKB]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 99 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
-| 100 | [[Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
+| 100 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 
 ---
 
@@ -2336,7 +2336,7 @@ graph TD
 - [[IDEA Prompt Development]]
 - [[Inference Speed]]
 - [[JSON Schema Validation Examples]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LLM]]
 - [[Local LLM]]
 - [[Meeting Notes Summarizer]]
@@ -2355,14 +2355,14 @@ graph TD
 - [[Prompt Component Libraries]]
 - [[Prompt Component Versioning and Lifecycle Management]]
 - [[Prompt Components]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quantization]]
 - [[RAG]]
 - [[ReAct Agent Loop]]
 - [[Related Component 1]]
 - [[Related Component 2]]
 - [[Research Paper Analyzer]]
-- [[Semantic Search]]
+- [[Semantic-Search|Semantic Search]]
 - [[Semantic Similarity]]
 - [[Sentiment Analysis Demonstrations]]
 - [[Smart-Connections|Smart Connections]]
@@ -2378,10 +2378,10 @@ graph TD
 - [[Vector Database]]
 - [[Vector Embeddings]]
 - [[Wiki-Link]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[XML]]
 - [[Zettelkasten]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[wiki-links]]
 
 ---

@@ -300,7 +300,7 @@ extraction_summary:
 #### 11. [HELPFUL-TIP] Untitled *(Line 204)*
 
 > [!helpful-tip] Untitled
-> **Reducing Friction**: Use [[Templater]] or [[quickadd]] hotkeys to auto-insert timestamps. Example: `Ctrl+T` expands to `### HH:MM - [Cursor Here]`
+> **Reducing Friction**: Use [[Templater]] or [[QuickAdd]] hotkeys to auto-insert timestamps. Example: `Ctrl+T` expands to `### HH:MM - [Cursor Here]`
 
 #### 12. [METHODOLOGY-AND-SOURCES] Untitled *(Line 209)*
 
@@ -340,7 +340,7 @@ extraction_summary:
 #### 19. [KEY-CLAIM] Untitled *(Line 433)*
 
 > [!key-claim] Untitled
-> **Methodology means nothing without sustainable execution.** This section translates theoretical logging approaches into concrete, maintainable systems within [[obsidian]] and other [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] platforms.
+> **Methodology means nothing without sustainable execution.** This section translates theoretical logging approaches into concrete, maintainable systems within [[Obsidian]] and other [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] platforms.
 
 #### 20. [METHODOLOGY-AND-SOURCES] Untitled *(Line 438)*
 
@@ -358,7 +358,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > **Key Realization**: 
-> **Applied To**: [[Related Concept]]
+> **Applied To**: [[Related-Concept|Related Concept]]
 > **Action**:
 
 #### 23. [CONNECTIONS-AND-LINKS] Untitled *(Line 508)*
@@ -656,7 +656,7 @@ extraction_summary:
 - [[Project Notes]]
 - [[Race Condition]]
 - [[Reflective-Practice|Reflective Practice]]
-- [[Related Concept]]
+- [[Related-Concept|Related Concept]]
 - [[RescueTime]]
 - [[Revision History]]
 - [[Roam Research]]
@@ -671,14 +671,14 @@ extraction_summary:
 - [[Workflow Automation]]
 - [[Zettelkasten]]
 - [[archives/project-proposal_v3.1.0.md]]
-- [[dataview]]
+- [[Dataview]]
 - [[diffs/v3.1-to-v3.2.diff]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[para method]]
 - [[project-proposal_v3.1.0_20251114.md]]
 - [[project-proposal_v3.2.0.md]]
 - [[project-proposal_v3.2.0_20251121.md]]
-- [[quickadd]]
+- [[QuickAdd]]
 - [[time management]]
 - [[wiki-link]]
 - [[wiki-links]]
@@ -702,7 +702,7 @@ extraction_summary:
 | 13 | [[Planning Fallacy]] | — | — | Cognitive Benefits: The Psychology of... | 139 |
 | 14 | [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] | — | — | 11:30 - Resume: API Integration | 189 |
 | 15 | [[Templater]] | — | — | 11:30 - Resume: API Integration | 205 |
-| 16 | [[quickadd]] | — | — | 11:30 - Resume: API Integration | 205 |
+| 16 | [[QuickAdd]] | — | — | 11:30 - Resume: API Integration | 205 |
 | 17 | [[OAuth Implementation Guide]] | — | — | ✅ API Integration: OAuth Implementation | 222 |
 | 18 | [[Concurrency Patterns]] | — | — | ✅ API Integration: OAuth Implementation | 223 |
 | 19 | [[2025-11-21_Auth-Incident]] | — | — | ✅ Bug Fix: Production Auth Failure | 230 |
@@ -718,24 +718,24 @@ extraction_summary:
 | 29 | [[Reflective-Practice|Reflective Practice]] | — | — | Week 2: Metadata Cleanup (2025-11-11 ... | 315 |
 | 30 | [[OAuth Implementation Guide]] | — | — | 2025-11-21 Daily Note | 362 |
 | 31 | [[Concurrency Patterns]] | — | — | 2025-11-21 Daily Note | 363 |
-| 32 | [[obsidian]] | — | — | ⚙️ III. Practical Implementation Systems | 434 |
+| 32 | [[Obsidian]] | — | — | ⚙️ III. Practical Implementation Systems | 434 |
 | 33 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | ⚙️ III. Practical Implementation Systems | 434 |
 | 34 | [[Obsidian Daily Notes]] | — | — | Implementation Pattern 1: Obsidian Da... | 439 |
 | 35 | [[Project Name]] | — | — | Morning Session (09:00 - 12:00) | 482 |
 | 36 | [[Project Name]] | — | — | Afternoon Session (13:00 - 17:00) | 492 |
-| 37 | [[Related Concept]] | — | — | 💡 Insights & Learning | 504 |
+| 37 | [[Related-Concept|Related Concept]] | — | — | 💡 Insights & Learning | 504 |
 | 38 | [[Weekly Review - Week <% tp.date.now("WW") %>]] | — | — | [[Weekly Review - Week <% tp.date.now... | 528 |
-| 39 | [[dataview]] | — | — | [[Weekly Review - Week <% tp.date.now... | 532 |
+| 39 | [[Dataview]] | — | — | [[Weekly Review - Week <% tp.date.now... | 532 |
 | 40 | [[Project Notes]] | — | — | [[Weekly Review - Week <% tp.date.now... | 535 |
 | 41 | [[Obsidian Tasks Plugin]] | — | — | Implementation Pattern 2: Task-Based ... | 543 |
 | 42 | [[2025-11-21_Auth-Incident-Postmortem]] | — | — | Completed Today | 559 |
 | 43 | [[OAuth Refresh Token Patterns]] | — | — | Completed Today | 564 |
-| 44 | [[dataview]] | — | — | Completed Today | 584 |
+| 44 | [[Dataview]] | — | — | Completed Today | 584 |
 | 45 | [[OAuth Refresh Token Implementation]] | — | — | 2025-11-21 (Week 3, Day 3) | 643 |
 | 46 | [[Concurrency Patterns for Token Management]] | — | — | 2025-11-21 (Week 3, Day 3) | 644 |
-| 47 | [[quickadd]] | — | — | Workflow Integration Strategies | 703 |
+| 47 | [[QuickAdd]] | — | — | Workflow Integration Strategies | 703 |
 | 48 | [[API Integration Project]] | — | — | 2025-11-21 Daily Note | 740 |
-| 49 | [[obsidian]] | — | — | Tool Ecosystem: Beyond Obsidian | 751 |
+| 49 | [[Obsidian]] | — | — | Tool Ecosystem: Beyond Obsidian | 751 |
 | 50 | [[Notion]] | — | — | Tool Ecosystem: Beyond Obsidian | 755 |
 | 51 | [[Roam Research]] | — | — | Tool Ecosystem: Beyond Obsidian | 756 |
 | 52 | [[Git]] | — | — | Tool Ecosystem: Beyond Obsidian | 757 |
@@ -759,7 +759,7 @@ extraction_summary:
 | 70 | [[project-proposal_v3.2.0.md]] | — | — | Document Evolution | 1306 |
 | 71 | [[archives/project-proposal_v3.1.0.md]] | — | — | Document Evolution | 1307 |
 | 72 | [[diffs/v3.1-to-v3.2.diff]] | — | — | Document Evolution | 1308 |
-| 73 | [[dataview]] | — | — | Integration Pattern 4: Dataview Queri... | 1329 |
+| 73 | [[Dataview]] | — | — | Integration Pattern 4: Dataview Queri... | 1329 |
 | 74 | [[Templater]] | — | — | Automation Layer 1: Templater Auto-Po... | 1393 |
 | 75 | [[<%= activeProject %>]] | — | — | <%= currentTime %> - <% tp.file.curso... | 1408 |
 | 76 | [[$commit_msg == *"RELEASE"*]] | — | — | Automatically tag commits that includ... | 1430 |
@@ -1910,7 +1910,7 @@ Callout Strategy:
 - [[Project Notes]]
 - [[Race Condition]]
 - [[Reflective-Practice|Reflective Practice]]
-- [[Related Concept]]
+- [[Related-Concept|Related Concept]]
 - [[RescueTime]]
 - [[Revision History]]
 - [[Roam Research]]
@@ -1925,14 +1925,14 @@ Callout Strategy:
 - [[Workflow Automation]]
 - [[Zettelkasten]]
 - [[archives/project-proposal_v3.1.0.md]]
-- [[dataview]]
+- [[Dataview]]
 - [[diffs/v3.1-to-v3.2.diff]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[para method]]
 - [[project-proposal_v3.1.0_20251114.md]]
 - [[project-proposal_v3.2.0.md]]
 - [[project-proposal_v3.2.0_20251121.md]]
-- [[quickadd]]
+- [[QuickAdd]]
 - [[time management]]
 - [[wiki-link]]
 - [[wiki-links]]

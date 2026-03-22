@@ -276,7 +276,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Executive Overview *(Line 77)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference covers two powerful [[Obsidian]] plugins that transform how you work with visual information: **[[Excalidraw]]** (sketching, diagramming, and visual note-taking) and **[[MarkMind]]** (mind mapping, outlining, and PDF annotation). Both plugins enable [[Visual Thinking]] workflows that complement text-based note-taking, creating a complete visual [[PKM]] system within Obsidian.
+> This comprehensive reference covers two powerful [[Obsidian]] plugins that transform how you work with visual information: **[[Excalidraw]]** (sketching, diagramming, and visual note-taking) and **[[MarkMind]]** (mind mapping, outlining, and PDF annotation). Both plugins enable [[Visual-Thinking|Visual Thinking]] workflows that complement text-based note-taking, creating a complete visual [[PKM]] system within Obsidian.
 
 #### 3. [DEFINITION] Excalidraw *(Line 109)*
 
@@ -338,7 +338,7 @@ extraction_summary:
 #### 9. [KEY-CLAIM] Integration as Core Feature *(Line 214)*
 
 > [!key-claim] Integration as Core Feature
-> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual PKM]] rather than isolated sketches.]^verified-stable
+> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual-PKM|Visual PKM]] rather than isolated sketches.]^verified-stable
 
 #### 10. [METHODOLOGY-AND-SOURCES] Linking Workflow Pattern *(Line 244)*
 
@@ -436,7 +436,7 @@ extraction_summary:
 
 > [!methodology-and-sources] Concept Sketching Process
 > **Phase 1: Capture** (5-10 min)
-> - Create blank Excalidraw: "[[Concept Name]] Sketch"
+> - Create blank Excalidraw: "[[Concept-Name|Concept Name]] Sketch"
 > - Central shape: Write concept name
 > - Free-form brainstorm: Add surrounding ideas rapidly
 > - No organization yet—pure ideation
@@ -445,7 +445,7 @@ extraction_summary:
 > - Group related ideas into frames
 > - Draw relationship arrows with labels
 > - Add color coding for categories
-> - Link to existing notes: `[[Related Concept]]`
+> - Link to existing notes: `[[Related-Concept|Related Concept]]`
 > 
 > **Phase 3: Elaborate** (15-20 min)
 > - Add explanatory text elements
@@ -515,7 +515,7 @@ extraction_summary:
 > ❌ "Draw complete sketch, then add links"
 > 
 > Do:
-> ✅ "As you add each concept box, immediately type `[[Concept Name]]` inside it"
+> ✅ "As you add each concept box, immediately type `[[Concept-Name|Concept Name]]` inside it"
 > 
 > Result: Drawing is natively integrated into knowledge graph from creation, not as afterthought.
 
@@ -535,7 +535,7 @@ extraction_summary:
 #### 30. [DEFINITION] MarkMind *(Line 687)*
 
 > [!definition] MarkMind
-> [**MarkMind**:: A comprehensive [[mind mapping]], [[outlining]], and [[PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
+> [**MarkMind**:: A comprehensive [[Mind-Mapping|mind mapping]], [[outlining]], and [[PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
 
 #### 31. [HOW-TO] Installing MarkMind *(Line 709)*
 
@@ -933,9 +933,9 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive Science Basics]]
-- [[Community Plugins]]
+- [[Community-Plugins|Community Plugins]]
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
-- [[Concept Name]]
+- [[Concept-Name|Concept Name]]
 - [[Dataview]]
 - [[Design Specs]]
 - [[Domain]]
@@ -948,10 +948,10 @@ extraction_summary:
 - [[ExcalidrawAutomate API Reference]]
 - [[Figma Files]]
 - [[Information Design]]
-- [[JavaScript Basics]]
+- [[JavaScript-Basics|JavaScript Basics]]
 - [[JavaScript Fundamentals]]
 - [[JavaScript in Obsidian]]
-- [[Knowledge Visualization]]
+- [[Knowledge-Visualization|Knowledge Visualization]]
 - [[LaTeX]]
 - [[Learning Theory]]
 - [[Learning Theory Basics]]
@@ -961,15 +961,15 @@ extraction_summary:
 - [[MarkMind Basics]]
 - [[MarkMind PDF Features]]
 - [[Markdown]]
-- [[Markdown Fundamentals]]
+- [[Markdown-Fundamentals|Markdown Fundamentals]]
 - [[MetaBind]]
-- [[Mind Mapping]]
+- [[Mind-Mapping|Mind Mapping]]
 - [[Mind Mapping Theory & Research]]
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Note-Taking Systems]]
 - [[Obsidian]]
-- [[Obsidian Automation]]
-- [[Obsidian Basics]]
+- [[Obsidian-Automation|Obsidian Automation]]
+- [[Obsidian-Basics|Obsidian Basics]]
 - [[PDF Annotation Workflows in Academia]]
 - [[PDF Name]]
 - [[PDF annotation]]
@@ -984,16 +984,16 @@ extraction_summary:
 - [[Project Name]]
 - [[QuickAdd]]
 - [[Reading Strategies]]
-- [[Related Concept]]
-- [[Related Note]]
+- [[Related-Concept|Related Concept]]
+- [[Related-Note|Related Note]]
 - [[Research Methodology Basics]]
 - [[Research Methods]]
 - [[Sketch-noting]]
 - [[Sketch-noting & Visual Note-Taking Techniques]]
 - [[Software Architecture Fundamentals]]
 - [[Software Engineering]]
-- [[Subtopic A]]
-- [[Subtopic B]]
+- [[Subtopic-A|Subtopic A]]
+- [[Subtopic-B|Subtopic B]]
 - [[System Architecture Mindmap]]
 - [[Systems Thinking]]
 - [[Systems Thinking Basics]]
@@ -1003,14 +1003,14 @@ extraction_summary:
 - [[Tasks]]
 - [[Templater]]
 - [[Templater Basics]]
-- [[Visual PKM]]
+- [[Visual-PKM|Visual PKM]]
 - [[Visual PKM Philosophy]]
 - [[Visual System Modeling & Diagramming]]
-- [[Visual Thinking]]
+- [[Visual-Thinking|Visual Thinking]]
 - [[Visual Thinking Principles]]
 - [[Working-Memory|Working Memory]]
-- [[Zsolt Viczian]]
-- [[mind mapping]]
+- [[Zsolt-Viczian|Zsolt Viczian]]
+- [[Mind-Mapping|mind mapping]]
 - [[outlining]]
 - [[wiki-links]]
 
@@ -1019,48 +1019,48 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Obsidian]] | — | — | Foundational Understanding | 61 |
-| 2 | [[Visual Thinking]] | — | — | Foundational Understanding | 61 |
-| 3 | [[Knowledge Visualization]] | — | — | Foundational Understanding | 61 |
-| 4 | [[Mind Mapping]] | — | — | Foundational Understanding | 61 |
+| 2 | [[Visual-Thinking|Visual Thinking]] | — | — | Foundational Understanding | 61 |
+| 3 | [[Knowledge-Visualization|Knowledge Visualization]] | — | — | Foundational Understanding | 61 |
+| 4 | [[Mind-Mapping|Mind Mapping]] | — | — | Foundational Understanding | 61 |
 | 5 | [[PKM]] | — | — | Foundational Understanding | 61 |
-| 6 | [[Obsidian Basics]] | — | — | Foundational Understanding | 69 |
-| 7 | [[Community Plugins]] | — | — | Foundational Understanding | 71 |
-| 8 | [[Markdown Fundamentals]] | — | — | Foundational Understanding | 72 |
+| 6 | [[Obsidian-Basics|Obsidian Basics]] | — | — | Foundational Understanding | 69 |
+| 7 | [[Community-Plugins|Community Plugins]] | — | — | Foundational Understanding | 71 |
+| 8 | [[Markdown-Fundamentals|Markdown Fundamentals]] | — | — | Foundational Understanding | 72 |
 | 9 | [[Obsidian]] | — | — | 🎨 Comprehensive Guide: Excalidraw & M... | 78 |
 | 10 | [[Excalidraw]] | — | — | 🎨 Comprehensive Guide: Excalidraw & M... | 78 |
 | 11 | [[MarkMind]] | — | — | 🎨 Comprehensive Guide: Excalidraw & M... | 78 |
-| 12 | [[Visual Thinking]] | — | — | 🎨 Comprehensive Guide: Excalidraw & M... | 78 |
+| 12 | [[Visual-Thinking|Visual Thinking]] | — | — | 🎨 Comprehensive Guide: Excalidraw & M... | 78 |
 | 13 | [[PKM]] | — | — | 🎨 Comprehensive Guide: Excalidraw & M... | 78 |
 | 14 | [[Obsidian]] | — | — | 🎯 Overview & Philosophy | 110 |
-| 15 | [[Zsolt Viczian]] | — | — | 🎯 Overview & Philosophy | 111 |
+| 15 | [[Zsolt-Viczian|Zsolt Viczian]] | — | — | 🎯 Overview & Philosophy | 111 |
 | 16 | [[ExcaliBrain]] | — | — | 🎯 Overview & Philosophy | 111 |
-| 17 | [[Visual PKM]] | — | — | 🎯 Overview & Philosophy | 112 |
+| 17 | [[Visual-PKM|Visual PKM]] | — | — | 🎯 Overview & Philosophy | 112 |
 | 18 | [[Obsidian]] | — | — | What Makes Excalidraw Unique | 114 |
 | 19 | [[Markdown]] | — | — | Text & Typography | 189 |
 | 20 | [[LaTeX]] | — | — | Text & Typography | 190 |
 | 21 | [[Obsidian]] | — | — | Linking & Embedding System | 215 |
-| 22 | [[Visual PKM]] | — | — | Linking & Embedding System | 215 |
-| 23 | [[Note Name]] | — | — | Six Strategies for Linking Visual Tho... | 219 |
-| 24 | [[Note Name]] | — | ^block-id | Six Strategies for Linking Visual Tho... | 229 |
+| 22 | [[Visual-PKM|Visual PKM]] | — | — | Linking & Embedding System | 215 |
+| 23 | [[Note-Name|Note Name]] | — | — | Six Strategies for Linking Visual Tho... | 219 |
+| 24 | [[Note-Name|Note Name]] | — | ^block-id | Six Strategies for Linking Visual Tho... | 229 |
 | 25 | [[wiki-links]] | — | — | Six Strategies for Linking Visual Tho... | 247 |
 | 26 | [[Obsidian]] | — | — | ExcalidrawAutomate: Scripting Engine | 317 |
 | 27 | [[Templater]] | — | — | What You Can Automate | 325 |
 | 28 | [[QuickAdd]] | — | — | What You Can Automate | 325 |
-| 29 | [[JavaScript Basics]] | — | — | What You Can Automate | 359 |
-| 30 | [[Related Note]] | — | — | The Obsidian Rocks Framework | 390 |
+| 29 | [[JavaScript-Basics|JavaScript Basics]] | — | — | What You Can Automate | 359 |
+| 30 | [[Related-Note|Related Note]] | — | — | The Obsidian Rocks Framework | 390 |
 | 31 | [[Domain]] | — | — | Pattern 1: Visual MOC (Map of Content) | 404 |
-| 32 | [[Subtopic A]] | — | — | Pattern 1: Visual MOC (Map of Content) | 406 |
-| 33 | [[Subtopic B]] | — | — | Pattern 1: Visual MOC (Map of Content) | 406 |
-| 34 | [[Concept Name]] | — | — | Pattern 2: Concept Sketching Workflow | 424 |
-| 35 | [[Related Concept]] | — | — | Pattern 2: Concept Sketching Workflow | 433 |
+| 32 | [[Subtopic-A|Subtopic A]] | — | — | Pattern 1: Visual MOC (Map of Content) | 406 |
+| 33 | [[Subtopic-B|Subtopic B]] | — | — | Pattern 1: Visual MOC (Map of Content) | 406 |
+| 34 | [[Concept-Name|Concept Name]] | — | — | Pattern 2: Concept Sketching Workflow | 424 |
+| 35 | [[Related-Concept|Related Concept]] | — | — | Pattern 2: Concept Sketching Workflow | 433 |
 | 36 | [[Task 1]] | — | — | Pattern 3: Meeting Sketch Notes | 466 |
 | 37 | [[Task 2]] | — | — | Pattern 3: Meeting Sketch Notes | 467 |
 | 38 | [[Task 3]] | — | — | Pattern 3: Meeting Sketch Notes | 468 |
 | 39 | [[Tasks]] | — | — | Pattern 3: Meeting Sketch Notes | 472 |
 | 40 | [[wiki-links]] | — | — | 4. **Link Early, Link Often** <span s... | 568 |
-| 41 | [[Concept Name]] | — | — | 4. **Link Early, Link Often** <span s... | 574 |
+| 41 | [[Concept-Name|Concept Name]] | — | — | 4. **Link Early, Link Often** <span s... | 574 |
 | 42 | [[Templater]] | — | — | Pitfall 4: Forgetting to Use Templates | 647 |
-| 43 | [[mind mapping]] | — | — | 🧠 Overview & Capabilities | 688 |
+| 43 | [[Mind-Mapping|mind mapping]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 44 | [[outlining]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 45 | [[PDF annotation]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 46 | [[Obsidian]] | — | — | 🧠 Overview & Capabilities | 688 |
@@ -1084,7 +1084,7 @@ extraction_summary:
 | 64 | [[Visual PKM Philosophy]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1430 |
 | 65 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1431 |
 | 66 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
-| 67 | [[Visual Thinking]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
+| 67 | [[Visual-Thinking|Visual Thinking]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
 | 68 | [[Cognitive-Load|Cognitive Load]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
 | 69 | [[Working-Memory|Working Memory]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
 | 70 | [[Cognitive Science Basics]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1435 |
@@ -1092,7 +1092,7 @@ extraction_summary:
 | 72 | [[Sketch-noting & Visual Note-Taking Techniques]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1438 |
 | 73 | [[Sketch-noting]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1440 |
 | 74 | [[Note-Taking Systems]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1441 |
-| 75 | [[Visual Thinking]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1441 |
+| 75 | [[Visual-Thinking|Visual Thinking]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1441 |
 | 76 | [[Information Design]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1441 |
 | 77 | [[Excalidraw Basics]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1443 |
 | 78 | [[Visual Thinking Principles]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1443 |
@@ -1112,7 +1112,7 @@ extraction_summary:
 | 92 | [[QuickAdd]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1466 |
 | 93 | [[Dataview]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1466 |
 | 94 | [[MetaBind]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1466 |
-| 95 | [[Obsidian Automation]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
+| 95 | [[Obsidian-Automation|Obsidian Automation]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
 | 96 | [[JavaScript in Obsidian]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
 | 97 | [[Plugin Development]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
 | 98 | [[JavaScript Fundamentals]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
@@ -1394,19 +1394,19 @@ extraction_summary:
 ### Code Block 2 — `markdown` *(Lines 218-220)*
 
 ```markdown
-[[Note Name]]
+[[Note-Name|Note Name]]
 ```
 
 ### Code Block 3 — `markdown` *(Lines 223-225)*
 
 ```markdown
-![[Note Name]]
+![[Note-Name|Note Name]]
 ```
 
 ### Code Block 4 — `markdown` *(Lines 228-230)*
 
 ```markdown
-[[Note Name#^block-id]]
+[[Note-Name#^block-id|Note Name]]
 ```
 
 ### Code Block 5 — `markdown` *(Lines 234-236)*
@@ -1458,7 +1458,7 @@ extraction_summary:
 ```markdown
 1. Create Excalidraw drawing titled "[[Domain]] Visual MOC"
 2. Central node: Main domain concept
-3. Branches: [[Subtopic A]], [[Subtopic B]], etc. as text elements
+3. Branches: [[Subtopic-A|Subtopic A]], [[Subtopic-B|Subtopic B]], etc. as text elements
 4. Connect with arrows showing relationships
 5. Embed sub-drawings for deep dives: ![[Subtopic A Detail.excalidraw]]
 6. Link frames to atomic notes for definitions
@@ -2010,7 +2010,7 @@ dv.table(["Confidence Level", "Count"],
 - `%%ATOMIC: excalidraw-latex-support | feature | medium | mathematical-notation%%` *(Line 200)*
 - `%%ATOMIC: excalidraw-templates | feature | high | workflow-optimization%%` *(Line 312)*
 - `%%confidence: established%%` *(Line 358)*
-- `%%prerequisite: [[JavaScript Basics]] for custom scripts%%` *(Line 359)*
+- `%%prerequisite: [[JavaScript-Basics|JavaScript Basics]] for custom scripts%%` *(Line 359)*
 - `%%applies-to: concept-development | deep-thinking | visual-synthesis%%` *(Line 446)*
 - `%%ATOMIC: excalidraw-templater-integration | workflow | high | automation-system%%` *(Line 682)*
 - `%%confidence: verified%%` *(Line 716)*
@@ -2074,9 +2074,9 @@ $$
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive Science Basics]]
-- [[Community Plugins]]
+- [[Community-Plugins|Community Plugins]]
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
-- [[Concept Name]]
+- [[Concept-Name|Concept Name]]
 - [[Dataview]]
 - [[Design Specs]]
 - [[Domain]]
@@ -2089,10 +2089,10 @@ $$
 - [[ExcalidrawAutomate API Reference]]
 - [[Figma Files]]
 - [[Information Design]]
-- [[JavaScript Basics]]
+- [[JavaScript-Basics|JavaScript Basics]]
 - [[JavaScript Fundamentals]]
 - [[JavaScript in Obsidian]]
-- [[Knowledge Visualization]]
+- [[Knowledge-Visualization|Knowledge Visualization]]
 - [[LaTeX]]
 - [[Learning Theory]]
 - [[Learning Theory Basics]]
@@ -2102,15 +2102,15 @@ $$
 - [[MarkMind Basics]]
 - [[MarkMind PDF Features]]
 - [[Markdown]]
-- [[Markdown Fundamentals]]
+- [[Markdown-Fundamentals|Markdown Fundamentals]]
 - [[MetaBind]]
-- [[Mind Mapping]]
+- [[Mind-Mapping|Mind Mapping]]
 - [[Mind Mapping Theory & Research]]
-- [[Note Name]]
+- [[Note-Name|Note Name]]
 - [[Note-Taking Systems]]
 - [[Obsidian]]
-- [[Obsidian Automation]]
-- [[Obsidian Basics]]
+- [[Obsidian-Automation|Obsidian Automation]]
+- [[Obsidian-Basics|Obsidian Basics]]
 - [[PDF Annotation Workflows in Academia]]
 - [[PDF Name]]
 - [[PDF annotation]]
@@ -2125,16 +2125,16 @@ $$
 - [[Project Name]]
 - [[QuickAdd]]
 - [[Reading Strategies]]
-- [[Related Concept]]
-- [[Related Note]]
+- [[Related-Concept|Related Concept]]
+- [[Related-Note|Related Note]]
 - [[Research Methodology Basics]]
 - [[Research Methods]]
 - [[Sketch-noting]]
 - [[Sketch-noting & Visual Note-Taking Techniques]]
 - [[Software Architecture Fundamentals]]
 - [[Software Engineering]]
-- [[Subtopic A]]
-- [[Subtopic B]]
+- [[Subtopic-A|Subtopic A]]
+- [[Subtopic-B|Subtopic B]]
 - [[System Architecture Mindmap]]
 - [[Systems Thinking]]
 - [[Systems Thinking Basics]]
@@ -2144,14 +2144,14 @@ $$
 - [[Tasks]]
 - [[Templater]]
 - [[Templater Basics]]
-- [[Visual PKM]]
+- [[Visual-PKM|Visual PKM]]
 - [[Visual PKM Philosophy]]
 - [[Visual System Modeling & Diagramming]]
-- [[Visual Thinking]]
+- [[Visual-Thinking|Visual Thinking]]
 - [[Visual Thinking Principles]]
 - [[Working-Memory|Working Memory]]
-- [[Zsolt Viczian]]
-- [[mind mapping]]
+- [[Zsolt-Viczian|Zsolt Viczian]]
+- [[Mind-Mapping|mind mapping]]
 - [[outlining]]
 - [[wiki-links]]
 

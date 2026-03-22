@@ -557,7 +557,7 @@ extraction_summary:
 - [[Conditional-Regard]]
 - [[Control-Orientation]]
 - [[Controlled-Motivation]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[External-Regulation]]
 - [[Goal-Content-Theory]]
 - [[Identified-Regulation]]
@@ -573,10 +573,10 @@ extraction_summary:
 - [[Relatedness-Need]]
 - [[Relationship-Motivation-Theory]]
 - [[Relative-Autonomy-Index]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Satisfaction-Frustration-Asymmetry]]
 - [[Self-Concordance-Model]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination-Theory]]
 - [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
 - [[The-Integration-Paradox]]
@@ -587,9 +587,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Thesis Articul... | 228 |
-| 2 | [[Edward Deci]] | — | — | Phase I: Orientation & Thesis Articul... | 228 |
-| 3 | [[Richard Ryan]] | — | — | Phase I: Orientation & Thesis Articul... | 228 |
+| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Thesis Articul... | 228 |
+| 2 | [[Edward-Deci|Edward Deci]] | — | — | Phase I: Orientation & Thesis Articul... | 228 |
+| 3 | [[Richard-Ryan|Richard Ryan]] | — | — | Phase I: Orientation & Thesis Articul... | 228 |
 | 4 | [[Basic-Psychological-Needs]] | basic psychological needs | — | Phase I: Orientation & Thesis Articul... | 230 |
 | 5 | [[Autonomy-Need]] | autonomy | — | Phase I: Orientation & Thesis Articul... | 233 |
 | 6 | [[Competence-Need]] | competence | — | Phase I: Orientation & Thesis Articul... | 233 |
@@ -689,7 +689,7 @@ extraction_summary:
 - [[Conditional-Regard]]
 - [[Control-Orientation]]
 - [[Controlled-Motivation]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[External-Regulation]]
 - [[Goal-Content-Theory]]
 - [[Identified-Regulation]]
@@ -705,10 +705,10 @@ extraction_summary:
 - [[Relatedness-Need]]
 - [[Relationship-Motivation-Theory]]
 - [[Relative-Autonomy-Index]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Satisfaction-Frustration-Asymmetry]]
 - [[Self-Concordance-Model]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination-Theory]]
 - [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
 - [[The-Integration-Paradox]]
@@ -719,7 +719,7 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic-Psychological-Needs]]
 - [[Intrinsic-Motivation]]
 

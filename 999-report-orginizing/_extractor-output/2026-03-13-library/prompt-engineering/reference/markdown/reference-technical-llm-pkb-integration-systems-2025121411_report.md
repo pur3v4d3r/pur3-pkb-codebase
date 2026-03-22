@@ -387,7 +387,7 @@ extraction_summary:
 > **Estimated Length**: 400-600 words
 > **Key Relationships**: 
 >   - →(superseded-by)→ [[Attenuation Model]]
->   - →(builds-on)→ [[Information Processing Theory]]
+>   - →(builds-on)→ [[Information-Processing-Theory|Information Processing Theory]]
 >   - →(tested-via)→ [[Dichotic Listening Paradigm]]
 > **Source Coverage**: Needs primary source review
 > **Extraction Trigger**: Referenced 3+ times in current vault
@@ -413,7 +413,7 @@ extraction_summary:
 > **Domains**: 
 >   - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] — curriculum sequencing
 >   - [[UX Design]] — interface complexity management
->   - [[Prompt Engineering]] — chunk complexity calibration
+>   - [[Prompt-Engineering|Prompt Engineering]] — chunk complexity calibration
 > **Trigger Conditions**:
 >   - "Learner seems overwhelmed" → reduce extraneous load
 >   - "Material isn't sticking" → check element interactivity
@@ -483,7 +483,7 @@ extraction_summary:
 
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information Processing Theory]] — foundational framework
+> - [[Information-Processing-Theory|Information Processing Theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -499,7 +499,7 @@ extraction_summary:
 > 
 > **Related Topics**:
 > - [[Expertise Development]] — schema automation
-> - [[Multimedia Learning]] — CLT application
+> - [[Multimedia-Learning|Multimedia Learning]] — CLT application
 
 #### 16. [TENSION] Descriptive Tension Name *(Line 1512)*
 
@@ -644,7 +644,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Attenuation Model]]
-- [[Automation]]
+- [[automation]]
 - [[Cognitive-Load-Theory|CLT]]
 - [[Capacity Model]]
 - [[Circle of Competence]]
@@ -680,7 +680,7 @@ extraction_summary:
 - [[Illusion of Competence]]
 - [[Inert-Knowledge|Inert Knowledge]]
 - [[Information Processing]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Instructional Design Principles]]
 - [[Intrinsic-Load|Intrinsic Load]]
@@ -694,7 +694,7 @@ extraction_summary:
 - [[Mental Model 1]]
 - [[Mental Model 2]]
 - [[Mental Model 3]]
-- [[Multimedia Learning]]
+- [[Multimedia-Learning|Multimedia Learning]]
 - [[Multiple Resource Theory]]
 - [[Obsidian Automation Workflows for Marker Processing]]
 - [[Occam's Razor]]
@@ -703,7 +703,7 @@ extraction_summary:
 - [[Perceptual Load]]
 - [[Primary Domain]]
 - [[Principle]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[RAM]]
 - [[Related Concept 1]]
 - [[Related Concept 2]]
@@ -736,10 +736,10 @@ extraction_summary:
 - [[concept-slug-5]]
 - [[concept-slug-6]]
 - [[concept-slug-7]]
-- [[information-processing-theory]]
+- [[Information-Processing-Theory]]
 - [[ref-author-year-title]]
 - [[ref-kahneman-1973]]
-- [[working-memory]]
+- [[Working-Memory]]
 
 ### All Occurrences
 
@@ -755,20 +755,20 @@ extraction_summary:
 | 8 | [[Working-Memory|Working Memory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 397 |
 | 9 | [[RAM]] | — | — | 2. Bidirectional Link Hints — Relatio... | 397 |
 | 10 | [[Schema Acquisition]] | — | — | 2. Bidirectional Link Hints — Relatio... | 398 |
-| 11 | [[Automation]] | — | — | 2. Bidirectional Link Hints — Relatio... | 398 |
+| 11 | [[automation]] | — | — | 2. Bidirectional Link Hints — Relatio... | 398 |
 | 12 | [[Late Selection Evidence]] | — | — | 2. Bidirectional Link Hints — Relatio... | 399 |
 | 13 | [[Early Selection Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 399 |
 | 14 | [[Load Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 15 | [[Cognitive-Load-Theory|CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 16 | [[Perceptual Load]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 17 | [[Attenuation Model]] | — | — | 3. Atomic Extraction Markers — Note S... | 419 |
-| 18 | [[Information Processing Theory]] | — | — | 3. Atomic Extraction Markers — Note S... | 420 |
+| 18 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | 3. Atomic Extraction Markers — Note S... | 420 |
 | 19 | [[Dichotic Listening Paradigm]] | — | — | 3. Atomic Extraction Markers — Note S... | 421 |
 | 20 | [[Illusion of Competence]] | — | — | 4-9. Remaining Proposals — Summary En... | 434 |
 | 21 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 11. **Application Context Markers** —... | 487 |
 | 22 | [[UX Design]] | — | — | 11. **Application Context Markers** —... | 488 |
-| 23 | [[Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 489 |
-| 24 | [[Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 498 |
+| 23 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 489 |
+| 24 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 498 |
 | 25 | [[Inert-Knowledge|Inert Knowledge]] | — | — | 11. **Application Context Markers** —... | 501 |
 | 26 | [[Evidence-Based Practice]] | — | — | 12. **Evidence Weight Indicators** — ... | 509 |
 | 27 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
@@ -789,7 +789,7 @@ extraction_summary:
 | 42 | [[Target]] | — | — | Syntax Patterns | 777 |
 | 43 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Syntax Patterns | 782 |
 | 44 | [[Working Memory Model]] | — | — | Syntax Patterns | 782 |
-| 45 | [[Information Processing Theory]] | — | — | Syntax Patterns | 782 |
+| 45 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | Syntax Patterns | 782 |
 | 46 | [[Filter Model]] | — | — | Syntax Patterns | 787 |
 | 47 | [[Attenuation Model]] | — | — | Syntax Patterns | 787 |
 | 48 | [[Capacity Model]] | — | — | Syntax Patterns | 787 |
@@ -807,15 +807,15 @@ extraction_summary:
 | 60 | [[concept-slug-5]] | — | — | YAML Frontmatter Format | 1224 |
 | 61 | [[concept-slug-6]] | — | — | YAML Frontmatter Format | 1225 |
 | 62 | [[concept-slug-7]] | — | — | YAML Frontmatter Format | 1227 |
-| 63 | [[Information Processing Theory]] | — | — | Inline Callout Alternative | 1241 |
+| 63 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | Inline Callout Alternative | 1241 |
 | 64 | [[Working Memory Basics]] | — | — | Inline Callout Alternative | 1242 |
 | 65 | [[History of Cognitive Psychology]] | — | — | Inline Callout Alternative | 1245 |
 | 66 | [[Research Methods in Cogsci]] | — | — | Inline Callout Alternative | 1246 |
 | 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Inline Callout Alternative | 1250 |
 | 68 | [[Instructional Design Principles]] | — | — | Inline Callout Alternative | 1251 |
 | 69 | [[Expertise Development]] | — | — | Inline Callout Alternative | 1254 |
-| 70 | [[Multimedia Learning]] | — | — | Inline Callout Alternative | 1255 |
-| 71 | [[working-memory]] | — | — | Learning Path Queries | 1315 |
+| 70 | [[Multimedia-Learning|Multimedia Learning]] | — | — | Inline Callout Alternative | 1255 |
+| 71 | [[Working-Memory]] | — | — | Learning Path Queries | 1315 |
 | 72 | [[Claim A]] | — | — | Inline Tension Markers | 1534 |
 | 73 | [[Claim B]] | — | — | Inline Tension Markers | 1534 |
 | 74 | [[Domain 1]] | — | — | Application Context Callout | 1709 |
@@ -854,12 +854,12 @@ extraction_summary:
 | 107 | [[Principle]] | — | — | Inline Boundary Markers | 2171 |
 | 108 | [[Claim]] | — | — | Inline Boundary Markers | 2173 |
 | 109 | [[Rule]] | — | — | Inline Boundary Markers | 2175 |
-| 110 | [[information-processing-theory]] | — | — | Example: Integrated Output Demonstration | 2252 |
+| 110 | [[Information-Processing-Theory]] | — | — | Example: Integrated Output Demonstration | 2252 |
 | 111 | [[arousal-theory]] | — | — | Example: Integrated Output Demonstration | 2252 |
 | 112 | [[ref-kahneman-1973]] | — | — | Core Components | 2269 |
 | 113 | [[Capacity Model]] | — | — | Core Components | 2272 |
 | 114 | [[Yerkes-Dodson Law]] | — | — | Core Components | 2272 |
-| 115 | [[Information Processing Theory]] | — | — | Core Components | 2272 |
+| 115 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | Core Components | 2272 |
 | 116 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Core Components | 2278 |
 | 117 | [[UX Design]] | — | — | Core Components | 2279 |
 | 118 | [[Multiple Resource Theory]] | — | — | Core Components | 2290 |
@@ -1406,7 +1406,7 @@ try {
 > **Estimated Length**: 400-600 words
 > **Key Relationships**: 
 >   - →(superseded-by)→ [[Attenuation Model]]
->   - →(builds-on)→ [[Information Processing Theory]]
+>   - →(builds-on)→ [[Information-Processing-Theory|Information Processing Theory]]
 >   - →(tested-via)→ [[Dichotic Listening Paradigm]]
 > **Source Coverage**: Needs primary source review
 > **Extraction Trigger**: Referenced 3+ times in current vault
@@ -1435,7 +1435,7 @@ cognitive-load:
 > **Domains**: 
 >   - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] — curriculum sequencing
 >   - [[UX Design]] — interface complexity management
->   - [[Prompt Engineering]] — chunk complexity calibration
+>   - [[Prompt-Engineering|Prompt Engineering]] — chunk complexity calibration
 > **Trigger Conditions**:
 >   - "Learner seems overwhelmed" → reduce extraneous load
 >   - "Material isn't sticking" → check element interactivity
@@ -1444,7 +1444,7 @@ cognitive-load:
 >   - Applying to entertainment content (not learning context)
 >   - Ignoring individual differences in prior knowledge
 
-[**Application-Domain**:: [[Prompt Engineering]] | trigger:"complex instructions failing" | action:"decompose into sequential steps"]
+[**Application-Domain**:: [[Prompt-Engineering|Prompt Engineering]] | trigger:"complex instructions failing" | action:"decompose into sequential steps"]
 ```
 
 ### Code Block 7 — `markdown` *(Lines 511-522)*
@@ -2801,7 +2801,7 @@ The model comprises several interacting elements:
 ^source:: [[ref-kahneman-1973]] p.47
 ^evidence-type:: theoretical-claim
 
-[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson Law]] + [[Information Processing Theory]]]
+[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson Law]] + [[Information-Processing-Theory|Information Processing Theory]]]
 
 %%QUERY-ANCHOR: attention:capacity-model-components%%
 
@@ -2867,7 +2867,7 @@ for (let letter of sortedLetters) {
 | `extends` | →(extends)→ | Theoretical elaboration | [[Cognitive-Load-Theory|CLT]] →(extends)→ [[Information Processing]] |
 | `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load|Intrinsic Load]] →(operationalizes)→ [[Element-Interactivity|Element Interactivity]] |
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working-Memory|Working Memory]] →(analogous-to)→ [[RAM]] |
-| `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[Automation]] |
+| `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[automation]] |
 | `falsifies` | →(falsifies)→ | Empirical refutation | [[Late Selection Evidence]] →(falsifies)→ [[Early Selection Theory]] |
 | `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load Theory]] →(synthesizes)→ [[Cognitive-Load-Theory|CLT]] + [[Perceptual Load]] |
 
@@ -2994,7 +2994,7 @@ for (let letter of sortedLetters) {
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Attenuation Model]]
-- [[Automation]]
+- [[automation]]
 - [[Cognitive-Load-Theory|CLT]]
 - [[Capacity Model]]
 - [[Circle of Competence]]
@@ -3030,7 +3030,7 @@ for (let letter of sortedLetters) {
 - [[Illusion of Competence]]
 - [[Inert-Knowledge|Inert Knowledge]]
 - [[Information Processing]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Instructional Design Principles]]
 - [[Intrinsic-Load|Intrinsic Load]]
@@ -3044,7 +3044,7 @@ for (let letter of sortedLetters) {
 - [[Mental Model 1]]
 - [[Mental Model 2]]
 - [[Mental Model 3]]
-- [[Multimedia Learning]]
+- [[Multimedia-Learning|Multimedia Learning]]
 - [[Multiple Resource Theory]]
 - [[Obsidian Automation Workflows for Marker Processing]]
 - [[Occam's Razor]]
@@ -3053,7 +3053,7 @@ for (let letter of sortedLetters) {
 - [[Perceptual Load]]
 - [[Primary Domain]]
 - [[Principle]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[RAM]]
 - [[Related Concept 1]]
 - [[Related Concept 2]]
@@ -3086,10 +3086,10 @@ for (let letter of sortedLetters) {
 - [[concept-slug-5]]
 - [[concept-slug-6]]
 - [[concept-slug-7]]
-- [[information-processing-theory]]
+- [[Information-Processing-Theory]]
 - [[ref-author-year-title]]
 - [[ref-kahneman-1973]]
-- [[working-memory]]
+- [[Working-Memory]]
 
 ---
 

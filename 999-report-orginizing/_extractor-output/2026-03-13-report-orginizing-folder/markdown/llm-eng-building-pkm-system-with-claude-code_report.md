@@ -129,7 +129,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 9)*
 
 > [!abstract] Untitled
-> This exposition examines the construction of a [[Personal-Knowledge-Management|Personal Knowledge Management]] system powered by [[Claude Code]] — Anthropic's agentic command-line interface — with particular attention to how the filesystem-native architecture of Claude Code creates a uniquely powerful coupling with [[Obsidian]] and markdown-based knowledge vaults. The analysis proceeds through three intellectual movements: first, establishing *why* this pairing is architecturally sound rather than incidental; second, delineating the precise technical anatomy of a production-grade implementation including the `CLAUDE.md` context file, `.claude/` directory schema, [[Slash Command System|slash commands]], [[Specialized PKM Agents|specialized agents]], and [[MCP Protocol]] integrations; and third, exploring the cognitive-scientific implications of deploying an agentic reasoning system as the executive layer of a [[Second Brain]] architecture. The treatment draws on the emerging body of practitioner implementations, the [[Ballred Obsidian-Claude-PKM]] open-source starter kit, the [[Claudian Plugin]] project, and the theoretical frameworks of [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Metacognition]], and [[Habit-Formation|Habit Formation]] that inform the project knowledge base. The argument advanced is that Claude Code transforms a PKM vault from a *passive repository* into an *active cognitive prosthetic* — executing the organizational, connective, and synthesizing work that human cognition reliably avoids due to the effort costs of [[Extraneous Cognitive Load]].
+> This exposition examines the construction of a [[Personal-Knowledge-Management|Personal Knowledge Management]] system powered by [[Claude-Code|Claude Code]] — Anthropic's agentic command-line interface — with particular attention to how the filesystem-native architecture of Claude Code creates a uniquely powerful coupling with [[Obsidian]] and markdown-based knowledge vaults. The analysis proceeds through three intellectual movements: first, establishing *why* this pairing is architecturally sound rather than incidental; second, delineating the precise technical anatomy of a production-grade implementation including the `CLAUDE.md` context file, `.claude/` directory schema, [[Slash Command System|slash commands]], [[Specialized PKM Agents|specialized agents]], and [[MCP Protocol]] integrations; and third, exploring the cognitive-scientific implications of deploying an agentic reasoning system as the executive layer of a [[Second Brain]] architecture. The treatment draws on the emerging body of practitioner implementations, the [[Ballred Obsidian-Claude-PKM]] open-source starter kit, the [[Claudian Plugin]] project, and the theoretical frameworks of [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Metacognition]], and [[Habit-Formation|Habit Formation]] that inform the project knowledge base. The argument advanced is that Claude Code transforms a PKM vault from a *passive repository* into an *active cognitive prosthetic* — executing the organizational, connective, and synthesizing work that human cognition reliably avoids due to the effort costs of [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]].
 
 #### 2. [DEFINITION] Untitled *(Line 12)*
 
@@ -174,7 +174,7 @@ extraction_summary:
 #### 10. [KEY-CLAIM] Untitled *(Line 82)*
 
 > [!key-claim] Untitled
-> The multi-agent architecture is not merely an organizational convenience — it implements a form of [[Cognitive Load Theory|cognitive load management]] within the AI system itself. Each specialized agent operates within a narrower context than a general assistant, which means its available reasoning capacity is concentrated on a bounded problem space. A note-organizer agent whose system prompt focuses entirely on vault structural health will perform that function with greater reliability and depth than a general assistant dividing attention across all possible PKM tasks. This parallels the established finding in educational psychology that [[Distributed Practice]] and [[Interleaving]] of specialized sub-skills produces better learning outcomes than undifferentiated practice on composite tasks.
+> The multi-agent architecture is not merely an organizational convenience — it implements a form of [[Cognitive-Load-Theory|cognitive load management]] within the AI system itself. Each specialized agent operates within a narrower context than a general assistant, which means its available reasoning capacity is concentrated on a bounded problem space. A note-organizer agent whose system prompt focuses entirely on vault structural health will perform that function with greater reliability and depth than a general assistant dividing attention across all possible PKM tasks. This parallels the established finding in educational psychology that [[Distributed Practice]] and [[Interleaving]] of specialized sub-skills produces better learning outcomes than undifferentiated practice on composite tasks.
 
 #### 11. [EQUATION] Untitled *(Line 91)*
 
@@ -204,7 +204,7 @@ extraction_summary:
 #### 16. [CONNECTIONS-AND-LINKS] Untitled *(Line 128)*
 
 > [!connections-and-links] Untitled
-> The architecture described here connects to multiple nodes in the project knowledge base: the [[Metacognition in Knowledge Management]] analysis applies directly to the agent monitoring layer, which externalizes metacognitive vault awareness; the [[Habit Formation and PKM]] analysis informs the trigger-routine-reward design of slash commands and hooks; [[Cognitive-Load-Theory|Cognitive Load Theory]] provides the theoretical grounding for the extraneous load elimination strategy; the [[Agentic Workflow Design Patterns]] document provides the technical vocabulary for the multi-agent architecture; and the [[Extended Thinking Architecture]] framework applies to how complex operations (cross-vault synthesis, goal alignment analysis) should be structured within Claude Code's reasoning pipeline.
+> The architecture described here connects to multiple nodes in the project knowledge base: the [[Metacognition in Knowledge Management]] analysis applies directly to the agent monitoring layer, which externalizes metacognitive vault awareness; the [[Habit Formation and PKM]] analysis informs the trigger-routine-reward design of slash commands and hooks; [[Cognitive-Load-Theory|Cognitive Load Theory]] provides the theoretical grounding for the extraneous load elimination strategy; the [[Agentic Workflow Design Patterns]] document provides the technical vocabulary for the multi-agent architecture; and the [[Extended-Thinking-Architecture|Extended Thinking Architecture]] framework applies to how complex operations (cross-vault synthesis, goal alignment analysis) should be structured within Claude Code's reasoning pipeline.
 
 #### 17. [INSIGHT] Untitled *(Line 141)*
 
@@ -219,7 +219,7 @@ extraction_summary:
 #### 19. [CONNECTIONS-AND-LINKS] Untitled *(Line 157)*
 
 > [!connections-and-links] Untitled
-> **Knowledge graph connections to expand:** This exposition connects to [[Metacognition in Knowledge Management]] (the agent monitoring layer as externalized metacognition), [[Habit Formation in PKM Systems]] (slash command trigger-routine-reward design), [[Cognitive Load Theory Applied to Note-Taking]] (extraneous load elimination through delegation), [[Agentic Workflow Design Patterns]] (multi-agent architecture principles), [[Extended Thinking Architecture]] (complex Claude Code operation structuring), [[Distributed Cognition Theory]] (theoretical grounding for extended mind applications), [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] (embedding-based semantic search for large vaults), and [[Zettelkasten Methodology]] (the atomic note philosophy that most naturally aligns with Claude Code's linking capabilities).
+> **Knowledge graph connections to expand:** This exposition connects to [[Metacognition in Knowledge Management]] (the agent monitoring layer as externalized metacognition), [[Habit Formation in PKM Systems]] (slash command trigger-routine-reward design), [[Cognitive Load Theory Applied to Note-Taking]] (extraneous load elimination through delegation), [[Agentic Workflow Design Patterns]] (multi-agent architecture principles), [[Extended-Thinking-Architecture|Extended Thinking Architecture]] (complex Claude Code operation structuring), [[Distributed Cognition Theory]] (theoretical grounding for extended mind applications), [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] (embedding-based semantic search for large vaults), and [[Zettelkasten Methodology]] (the atomic note philosophy that most naturally aligns with Claude Code's linking capabilities).
 
 #### 20. [FURTHER-EXPLORATION] Untitled *(Line 160)*
 
@@ -229,7 +229,7 @@ extraction_summary:
 #### 21. [TOPIC-IDEA] Untitled *(Line 163)*
 
 > [!topic-idea] Untitled
-> **[[CLAUDE.md as Cognitive Specification Language]]** — A systematic investigation of what information belongs in `CLAUDE.md` for different intellectual domains and PKM methodologies, potentially developing a formal specification schema that maximizes the precision of Claude Code's vault-specific context. This connects to [[Prompt Engineering]] as applied to persistent context files.
+> **[[CLAUDE.md as Cognitive Specification Language]]** — A systematic investigation of what information belongs in `CLAUDE.md` for different intellectual domains and PKM methodologies, potentially developing a formal specification schema that maximizes the precision of Claude Code's vault-specific context. This connects to [[Prompt-Engineering|Prompt Engineering]] as applied to persistent context files.
 
 #### 22. [TOPIC-IDEA] Untitled *(Line 166)*
 
@@ -309,12 +309,12 @@ extraction_summary:
 ### Unique Targets
 
 - [[Agentic Workflow Design Patterns]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Ballred Obsidian-Claude-PKM]]
 - [[Building a Second Brain]]
 - [[CLAUDE.md as Cognitive Specification Language]]
-- [[Claude Code]]
-- [[Claude Desktop]]
+- [[Claude-Code|Claude Code]]
+- [[Claude-Desktop|Claude Desktop]]
 - [[Claudian]]
 - [[Claudian Plugin]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -324,11 +324,11 @@ extraction_summary:
 - [[Distributed Cognition Theory]]
 - [[Distributed Cognition and Cognitive Offloading]]
 - [[Distributed Practice]]
-- [[Edwin Hutchins]]
+- [[Edwin-Hutchins|Edwin Hutchins]]
 - [[Embedding-Based Semantic Search for Personal Vaults]]
 - [[Extended Mind]]
-- [[Extended Thinking Architecture]]
-- [[Extraneous Cognitive Load]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation and PKM]]
@@ -347,7 +347,7 @@ extraction_summary:
 - [[Obsidian]]
 - [[PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Second Brain]]
 - [[Self-Updating Context Architecture]]
@@ -367,7 +367,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
-| 2 | [[Claude Code]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
+| 2 | [[Claude-Code|Claude Code]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
 | 3 | [[Obsidian]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
 | 4 | [[Slash Command System]] | slash commands | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
 | 5 | [[Specialized PKM Agents]] | specialized agents | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
@@ -378,7 +378,7 @@ extraction_summary:
 | 10 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
 | 11 | [[Metacognition]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
 | 12 | [[Habit-Formation|Habit Formation]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
-| 13 | [[Extraneous Cognitive Load]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
+| 13 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 10 |
 | 14 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 13 |
 | 15 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📜 Phase 2: Historical Foundations — F... | 22 |
 | 16 | [[Zettelkasten]] | — | — | 📜 Phase 2: Historical Foundations — F... | 24 |
@@ -389,16 +389,16 @@ extraction_summary:
 | 21 | [[Tiago Forte]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 22 | [[PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 23 | [[Obsidian]] | — | — | 📜 Phase 2: Historical Foundations — F... | 28 |
-| 24 | [[Claude Code]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
+| 24 | [[Claude-Code|Claude Code]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
 | 25 | [[Model-Context-Protocol|Model Context Protocol]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
-| 26 | [[Claude Desktop]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
+| 26 | [[Claude-Desktop|Claude Desktop]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
 | 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 40 |
 | 28 | [[Metacognition as Executive Function]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 44 |
 | 29 | [[Habit Formation as Architectural Variable]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 46 |
 | 30 | [[Template Scaffolding as Generative Friction]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 51 |
 | 31 | [[Distributed Cognition and Cognitive Offloading]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 53 |
-| 32 | [[Edwin Hutchins]] | Edwin Hutchins' | — | 🧠 Phase 3: Theoretical Architecture —... | 53 |
-| 33 | [[Andy Clark]] | Andy Clark's | — | 🧠 Phase 3: Theoretical Architecture —... | 53 |
+| 32 | [[Edwin-Hutchins|Edwin Hutchins]] | Edwin Hutchins' | — | 🧠 Phase 3: Theoretical Architecture —... | 53 |
+| 33 | [[Andy-Clark|Andy Clark]] | Andy Clark's | — | 🧠 Phase 3: Theoretical Architecture —... | 53 |
 | 34 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 56 |
 | 35 | [[Agentic Workflow Design Patterns]] | — | — | Specialized PKM Agents | 80 |
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | cognitive load management | — | Specialized PKM Agents | 83 |
@@ -411,7 +411,7 @@ extraction_summary:
 | 43 | [[Habit Formation and PKM]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
 | 44 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
 | 45 | [[Agentic Workflow Design Patterns]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
-| 46 | [[Extended Thinking Architecture]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
+| 46 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
 | 47 | [[Self-Updating Context Architecture]] | — | — | 🔮 Phase 7: Frontier Research — Emergi... | 139 |
 | 48 | [[Dataview]] | — | — | 🔮 Phase 7: Frontier Research — Emergi... | 144 |
 | 49 | [[Text Embeddings]] | text embeddings | — | 🔮 Phase 7: Frontier Research — Emergi... | 144 |
@@ -422,12 +422,12 @@ extraction_summary:
 | 54 | [[Habit Formation in PKM Systems]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
 | 55 | [[Cognitive Load Theory Applied to Note-Taking]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
 | 56 | [[Agentic Workflow Design Patterns]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
-| 57 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
+| 57 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
 | 58 | [[Distributed Cognition Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
 | 59 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
 | 60 | [[Zettelkasten Methodology]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 158 |
 | 61 | [[CLAUDE.md as Cognitive Specification Language]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 164 |
-| 62 | [[Prompt Engineering]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 164 |
+| 62 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 164 |
 | 63 | [[Vault Health Metrics and Knowledge Graph Quality Assessment]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 167 |
 | 64 | [[Embedding-Based Semantic Search for Personal Vaults]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 170 |
 | 65 | [[Multi-Agent PKM Orchestration Patterns]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 173 |
@@ -484,12 +484,12 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Agentic Workflow Design Patterns]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Ballred Obsidian-Claude-PKM]]
 - [[Building a Second Brain]]
 - [[CLAUDE.md as Cognitive Specification Language]]
-- [[Claude Code]]
-- [[Claude Desktop]]
+- [[Claude-Code|Claude Code]]
+- [[Claude-Desktop|Claude Desktop]]
 - [[Claudian]]
 - [[Claudian Plugin]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -499,11 +499,11 @@ extraction_summary:
 - [[Distributed Cognition Theory]]
 - [[Distributed Cognition and Cognitive Offloading]]
 - [[Distributed Practice]]
-- [[Edwin Hutchins]]
+- [[Edwin-Hutchins|Edwin Hutchins]]
 - [[Embedding-Based Semantic Search for Personal Vaults]]
 - [[Extended Mind]]
-- [[Extended Thinking Architecture]]
-- [[Extraneous Cognitive Load]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation and PKM]]
@@ -522,7 +522,7 @@ extraction_summary:
 - [[Obsidian]]
 - [[PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Second Brain]]
 - [[Self-Updating Context Architecture]]

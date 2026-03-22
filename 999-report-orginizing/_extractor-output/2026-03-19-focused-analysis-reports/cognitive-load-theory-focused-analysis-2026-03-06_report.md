@@ -252,7 +252,7 @@ extraction_summary:
 #### 20. [IMPORTANT] Complexity Transition *(Line 396)*
 
 > [!important] Complexity Transition
-> The analysis that follows moves beneath the empirical surface to examine the mechanistic architecture underlying CLT's effects. It builds directly on the three-load framework from Phase II and the evidence patterns from Phase III. Two concepts are load-bearing here: the relationship between [[Element-Interactivity|element interactivity]] and intrinsic load, and the mechanism by which [[expertise reversal]] operates. If either of these feels uncertain, a brief return to Phase II and Phase III will strengthen the foundation for what follows. The reward for engaging with this section at full depth is a mechanistic account that makes CLT's instructional prescriptions genuinely predictive rather than merely descriptive.
+> The analysis that follows moves beneath the empirical surface to examine the mechanistic architecture underlying CLT's effects. It builds directly on the three-load framework from Phase II and the evidence patterns from Phase III. Two concepts are load-bearing here: the relationship between [[Element-Interactivity|element interactivity]] and intrinsic load, and the mechanism by which [[expertise-reversal|expertise reversal]] operates. If either of these feels uncertain, a brief return to Phase II and Phase III will strengthen the foundation for what follows. The reward for engaging with this section at full depth is a mechanistic account that makes CLT's instructional prescriptions genuinely predictive rather than merely descriptive.
 
 #### 21. [ANALYTICAL-INSIGHT] The Expertise-Interactivity Coupling: An Underappreciated Implication *(Line 407)*
 
@@ -277,7 +277,7 @@ extraction_summary:
 #### 25. [CROSS-DOMAIN-CONNECTION] Expertise Reversal → Scaffolding Withdrawal in Skill Acquisition *(Line 443)*
 
 > [!cross-domain-connection] Expertise Reversal → Scaffolding Withdrawal in Skill Acquisition
-> The expertise reversal effect has a close structural parallel in [[motor learning]] and [[skill acquisition research]] that pre-dates CLT and provides convergent evidence for the underlying mechanism. In motor learning, augmented feedback (e.g., knowledge of results, real-time performance cues) consistently benefits novice learners but can impede skill transfer when provided to more advanced learners who have developed internal feedback loops. The phenomenon — called the "guidance hypothesis" in motor learning — mirrors expertise reversal: external support that reduces the learner's reliance on self-generated error-detection mechanisms can prevent the development of the very autonomy it is temporarily providing. Both effects suggest a general principle in skill development: externally provided information that substitutes for an internal process the learner has not yet developed is beneficial; the same information, once the internal process is operational, interferes with it. This convergence across very different domains strengthens the mechanistic plausibility of the expertise reversal account.
+> The expertise reversal effect has a close structural parallel in [[motor-learning|motor learning]] and [[skill-acquisition-research|skill acquisition research]] that pre-dates CLT and provides convergent evidence for the underlying mechanism. In motor learning, augmented feedback (e.g., knowledge of results, real-time performance cues) consistently benefits novice learners but can impede skill transfer when provided to more advanced learners who have developed internal feedback loops. The phenomenon — called the "guidance hypothesis" in motor learning — mirrors expertise reversal: external support that reduces the learner's reliance on self-generated error-detection mechanisms can prevent the development of the very autonomy it is temporarily providing. Both effects suggest a general principle in skill development: externally provided information that substitutes for an internal process the learner has not yet developed is beneficial; the same information, once the internal process is operational, interferes with it. This convergence across very different domains strengthens the mechanistic plausibility of the expertise reversal account.
 
 #### 26. [REFLECTION] Integrating the Mechanisms *(Line 446)*
 
@@ -349,18 +349,18 @@ extraction_summary:
 > 
 > **Application**: If you were to summarize the practical takeaway from this analysis for a colleague who had heard of CLT but never engaged with it deeply, what three-sentence encapsulation would you offer?
 > 
-> **Extension**: What is the next question this analysis leaves you wanting to pursue? Where does the treatment here open a gap that a follow-on analysis of [[Desirable-Difficulties|Desirable Difficulties]], [[Multimedia Learning Theory]], or [[Adaptive Instruction]] might close?
+> **Extension**: What is the next question this analysis leaves you wanting to pursue? Where does the treatment here open a gap that a follow-on analysis of [[Desirable-Difficulties|Desirable Difficulties]], [[Multimedia Learning Theory]], or [[Adaptive-Instruction|Adaptive Instruction]] might close?
 
 #### 38. [CONNECTIONS-AND-LINKS] Untitled *(Line 545)*
 
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Schema Theory and Knowledge Organization]]** — CLT is, at its foundation, an application of schema theory to the instructional design problem. The two nodes have a direct dependency relationship: CLT's account of why worked examples work and why expertise changes optimal instruction depends entirely on the schema theory account of how long-term memory is structured and how schemas undergo automation. Reading CLT without schema theory provides effects without mechanisms; reading schema theory without CLT misses its most practically significant instantiation. These nodes should be linked bidirectionally with CLT-focused annotations on the schema theory node explaining which schema processes are most instructionally consequential.
+> - **[[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]** — CLT is, at its foundation, an application of schema theory to the instructional design problem. The two nodes have a direct dependency relationship: CLT's account of why worked examples work and why expertise changes optimal instruction depends entirely on the schema theory account of how long-term memory is structured and how schemas undergo automation. Reading CLT without schema theory provides effects without mechanisms; reading schema theory without CLT misses its most practically significant instantiation. These nodes should be linked bidirectionally with CLT-focused annotations on the schema theory node explaining which schema processes are most instructionally consequential.
 > 
 > - **[[Expertise Development and Deliberate Practice]]** — The expertise reversal effect intersects directly with research on expert performance. CLT's account of expertise (schema automation reducing effective element interactivity) provides a cognitive architecture account of what deliberate practice actually does cognitively. Conversely, Ericsson's deliberate practice framework provides a motivational and task-structure account of how the schema construction that CLT theorizes actually gets operationalized in high-achievement domains. The expertise reversal effect adds an important cautionary note to deliberate practice-informed instruction: expert coaching must be sensitive to expertise level not just to maximize benefit but to avoid actively harming the learners it targets.
 > 
-> - **[[Metacognition and Self-Regulated Learning]]** — The calibration exercises embedded in this report reflect a deep connection between CLT and metacognitive research. CLT's expertise reversal effect assumes learners' working memory is being used efficiently; but research on metacognitive accuracy (Dunning-Kruger and related phenomena) shows that learners frequently misjudge their own expertise state. An important extension of CLT is the question of whether teaching learners to accurately monitor their own cognitive load would improve the effectiveness of CLT-informed instruction — a question that sits precisely at the intersection of CLT and metacognition research.
+> - **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]** — The calibration exercises embedded in this report reflect a deep connection between CLT and metacognitive research. CLT's expertise reversal effect assumes learners' working memory is being used efficiently; but research on metacognitive accuracy (Dunning-Kruger and related phenomena) shows that learners frequently misjudge their own expertise state. An important extension of CLT is the question of whether teaching learners to accurately monitor their own cognitive load would improve the effectiveness of CLT-informed instruction — a question that sits precisely at the intersection of CLT and metacognition research.
 > 
 > - **[[Desirable Difficulties — Bjork]]** — This node represents a productive tension with CLT that deserves careful analysis rather than simple integration. Bjork's desirable difficulties (spacing, interleaving, retrieval practice, generation effect) improve long-term retention by increasing encoding effort — which appears to contradict CLT's load-reduction emphasis. The resolution requires the schema-construction/extraneous load distinction: desirable difficulties increase schema-construction effort (productive) rather than extraneous effort (wasteful). But the practical implication — that sometimes harder is better — creates genuine instructional design tension that neither CLT nor desirable difficulties research alone fully resolves.
 > 
@@ -413,7 +413,7 @@ extraction_summary:
 #### 47. [DEFINITION] Schema Automation *(Line 592)*
 
 > [!definition] Schema Automation
-> The process by which frequently activated [[knowledge schemas]] in long-term memory become faster and less resource-demanding in working memory, eventually retrievable and deployable as single units rather than networks of individually active elements. Schema automation is the mechanism that underlies expertise: as schemas automate, effective element interactivity decreases, freeing working memory capacity for new learning. Schema automation is theorized to be the goal of all instructional schemas — what [[Germane-Load|germane load]] is supposed to support.
+> The process by which frequently activated [[knowledge-schemas|knowledge schemas]] in long-term memory become faster and less resource-demanding in working memory, eventually retrievable and deployable as single units rather than networks of individually active elements. Schema automation is the mechanism that underlies expertise: as schemas automate, effective element interactivity decreases, freeing working memory capacity for new learning. Schema automation is theorized to be the goal of all instructional schemas — what [[Germane-Load|germane load]] is supposed to support.
 
 #### 48. [DEFINITION] Guidance Fading Principle *(Line 595)*
 
@@ -524,8 +524,8 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Adaptive Instruction]]
-- [[Baddeley & Hitch's multicomponent model]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
+- [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]]
 - [[Cognitive Load Measurement: Methods, Validity, and the Measurement Crisis]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Science|Cognitive Science]]
@@ -538,29 +538,29 @@ extraction_summary:
 - [[Element-Interactivity|Element interactivity]]
 - [[Expertise Development and Deliberate Practice]]
 - [[Faded Worked Examples and Adaptive Instructional Design]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]
 - [[Instructional Design Models — Overview]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Multimedia Learning Theory]]
 - [[Multimedia Learning Theory and the Cognitive Theory of Multimedia Learning]]
 - [[Multimedia Learning Theory — Mayer]]
-- [[Schema Theory and Knowledge Organization]]
+- [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]
 - [[Self-Explanation Effect and Active Learning from Examples]]
 - [[Self-Determination-Theory|Self-determination theory]]
-- [[Self-explanation]]
+- [[self-explanation]]
 - [[automation]]
 - [[chunk]]
 - [[Cognitive-Load|cognitive load]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
-- [[cognitive neuroscience]]
+- [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Psychology|cognitive psychology]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Educational-Psychology|educational psychology]]
 - [[Element-Interactivity|element interactivity]]
-- [[expertise reversal]]
+- [[expertise-reversal|expertise reversal]]
 - [[Expertise-Reversal-Effect|expertise reversal effect]]
 - [[faded worked example]]
 - [[flow states]]
@@ -569,18 +569,18 @@ extraction_summary:
 - [[Guidance-Fading-Principle|guidance fading principle]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]]
 - [[interest]]
-- [[knowledge schemas]]
+- [[knowledge-schemas|knowledge schemas]]
 - [[Long-Term-Memory|long-term memory]]
-- [[motor learning]]
+- [[motor-learning|motor learning]]
 - [[Redundancy-Effect|redundancy effect]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[Schema-Construction|schema construction]]
 - [[Schema-Theory|schema theory]]
 - [[schemas]]
 - [[self-explanation]]
-- [[skill acquisition research]]
+- [[skill-acquisition-research|skill acquisition research]]
 - [[Split-Attention-Effect|split-attention effect]]
-- [[subjective mental effort ratings]]
+- [[subjective-mental-effort-ratings|subjective mental effort ratings]]
 - [[Worked-Example-Effect|worked example effect]]
 - [[Working-Memory|working memory]]
 
@@ -603,10 +603,10 @@ extraction_summary:
 | 13 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]] | — | — | Why This Analysis Matters | 271 |
 | 14 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Working Memory as the Instructional B... | 284 |
 | 15 | [[Working-Memory|working memory]] | — | — | Working Memory as the Instructional B... | 284 |
-| 16 | [[knowledge schemas]] | — | — | Working Memory as the Instructional B... | 284 |
+| 16 | [[knowledge-schemas|knowledge schemas]] | — | — | Working Memory as the Instructional B... | 284 |
 | 17 | [[Long-Term-Memory|long-term memory]] | — | — | Working Memory as the Instructional B... | 284 |
 | 18 | [[Working-Memory|working memory]] | — | — | Working Memory as the Instructional B... | 284 |
-| 19 | [[Baddeley & Hitch's multicomponent model]] | — | — | Working Memory as the Instructional B... | 284 |
+| 19 | [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] | — | — | Working Memory as the Instructional B... | 284 |
 | 20 | [[chunk]] | — | — | Working Memory as the Instructional B... | 289 |
 | 21 | [[schemas]] | — | — | Working Memory as the Instructional B... | 289 |
 | 22 | [[Element-Interactivity|Element interactivity]] | — | — | Working Memory as the Instructional B... | 289 |
@@ -620,21 +620,21 @@ extraction_summary:
 | 30 | [[self-explanation]] | — | — | The Worked Example Effect: CLT's Stro... | 340 |
 | 31 | [[Expertise-Reversal-Effect|expertise reversal effect]] | — | — | The Expertise Reversal Effect: Counte... | 352 |
 | 32 | [[Germane-Cognitive-Load|germane cognitive load]] | — | — | The Germane Load Evidence: Where the ... | 369 |
-| 33 | [[subjective mental effort ratings]] | — | — | The Germane Load Evidence: Where the ... | 371 |
+| 33 | [[subjective-mental-effort-ratings|subjective mental effort ratings]] | — | — | The Germane Load Evidence: Where the ... | 371 |
 | 34 | [[Element-Interactivity|element interactivity]] | — | — | Phase IV: Mechanisms, Dynamics & Deep... | 397 |
-| 35 | [[expertise reversal]] | — | — | Phase IV: Mechanisms, Dynamics & Deep... | 397 |
+| 35 | [[expertise-reversal|expertise reversal]] | — | — | Phase IV: Mechanisms, Dynamics & Deep... | 397 |
 | 36 | [[Element-Interactivity|Element interactivity]] | — | — | How Element Interactivity Drives Intr... | 401 |
 | 37 | [[automation]] | — | — | The Schema Automation Mechanism | 412 |
 | 38 | [[Germane-Load|germane load]] | — | — | The Schema Automation Mechanism | 412 |
 | 39 | [[Long-Term-Memory|long-term memory]] | — | — | The Schema Automation Mechanism | 414 |
 | 40 | [[Germane-Load|germane load]] | — | — | The Schema Automation Mechanism | 418 |
-| 41 | [[skill acquisition research]] | — | — | The Schema Automation Mechanism | 418 |
-| 42 | [[cognitive neuroscience]] | — | — | The Schema Automation Mechanism | 418 |
-| 43 | [[deliberate practice]] | — | — | The Schema Automation Mechanism | 418 |
+| 41 | [[skill-acquisition-research|skill acquisition research]] | — | — | The Schema Automation Mechanism | 418 |
+| 42 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | The Schema Automation Mechanism | 418 |
+| 43 | [[Deliberate-Practice|deliberate practice]] | — | — | The Schema Automation Mechanism | 418 |
 | 44 | [[Guidance-Fading-Principle|guidance fading principle]] | — | — | Dynamic Load Allocation and the Faded... | 436 |
 | 45 | [[faded worked example]] | — | — | Dynamic Load Allocation and the Faded... | 436 |
-| 46 | [[motor learning]] | — | — | Dynamic Load Allocation and the Faded... | 444 |
-| 47 | [[skill acquisition research]] | — | — | Dynamic Load Allocation and the Faded... | 444 |
+| 46 | [[motor-learning|motor learning]] | — | — | Dynamic Load Allocation and the Faded... | 444 |
+| 47 | [[skill-acquisition-research|skill acquisition research]] | — | — | Dynamic Load Allocation and the Faded... | 444 |
 | 48 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]] | — | — | Direct Implications for Instructional... | 460 |
 | 49 | [[Split-Attention-Effect|split-attention effect]] | — | — | Direct Implications for Instructional... | 470 |
 | 50 | [[Schema-Construction|schema construction]] | — | — | Common Misconceptions That Limit Effe... | 475 |
@@ -643,15 +643,15 @@ extraction_summary:
 | 53 | [[Self-Determination-Theory|Self-determination theory]] | — | — | Honest Assessment of Limitations | 491 |
 | 54 | [[interest]] | — | — | Honest Assessment of Limitations | 491 |
 | 55 | [[flow states]] | — | — | Honest Assessment of Limitations | 491 |
-| 56 | [[Self-explanation]] | — | — | The Three-Load Framework Revisited: W... | 514 |
+| 56 | [[self-explanation]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 57 | [[Desirable-Difficulties|desirable difficulties]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 58 | [[Retrieval-Practice|retrieval practice]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 59 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Central Question Revisited | 539 |
 | 60 | [[Multimedia Learning Theory]] | — | — | The Central Question Revisited | 539 |
-| 61 | [[Adaptive Instruction]] | — | — | The Central Question Revisited | 539 |
-| 62 | [[Schema Theory and Knowledge Organization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
+| 61 | [[Adaptive-Instruction|Adaptive Instruction]] | — | — | The Central Question Revisited | 539 |
+| 62 | [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
 | 63 | [[Expertise Development and Deliberate Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 550 |
-| 64 | [[Metacognition and Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 552 |
+| 64 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 552 |
 | 65 | [[Desirable Difficulties — Bjork]] | — | — | Phase VII: PKB Connections & Cross-Re... | 554 |
 | 66 | [[Multimedia Learning Theory — Mayer]] | — | — | Phase VII: PKB Connections & Cross-Re... | 556 |
 | 67 | [[Instructional Design Models — Overview]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
@@ -659,7 +659,7 @@ extraction_summary:
 | 69 | [[Working-Memory|working memory]] | — | — | A. Lexicon of Key Terms | 569 |
 | 70 | [[Element-Interactivity|element interactivity]] | — | — | A. Lexicon of Key Terms | 575 |
 | 71 | [[Redundancy-Effect|redundancy effect]] | — | — | A. Lexicon of Key Terms | 590 |
-| 72 | [[knowledge schemas]] | — | — | A. Lexicon of Key Terms | 593 |
+| 72 | [[knowledge-schemas|knowledge schemas]] | — | — | A. Lexicon of Key Terms | 593 |
 | 73 | [[Germane-Load|germane load]] | — | — | A. Lexicon of Key Terms | 593 |
 | 74 | [[faded worked example]] | — | — | A. Lexicon of Key Terms | 596 |
 | 75 | [[Cognitive-Load-Theory|cognitive load theory]] | — | — | C. Methodology and Sources Note | 643 |
@@ -670,7 +670,7 @@ extraction_summary:
 | 80 | [[Faded Worked Examples and Adaptive Instructional Design]] | — | — | D. Expansion Topics | 657 |
 | 81 | [[Cognitive Load Measurement: Methods, Validity, and the Measurement Crisis]] | — | — | D. Expansion Topics | 660 |
 | 82 | [[Self-Explanation Effect and Active Learning from Examples]] | — | — | D. Expansion Topics | 663 |
-| 83 | [[Focused Analysis Report Generator v1.0]] | — | — | D. Expansion Topics | 669 |
+| 83 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | D. Expansion Topics | 669 |
 
 ---
 
@@ -681,8 +681,8 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Adaptive Instruction]]
-- [[Baddeley & Hitch's multicomponent model]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
+- [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]]
 - [[Cognitive Load Measurement: Methods, Validity, and the Measurement Crisis]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Science|Cognitive Science]]
@@ -695,29 +695,29 @@ extraction_summary:
 - [[Element-Interactivity|Element interactivity]]
 - [[Expertise Development and Deliberate Practice]]
 - [[Faded Worked Examples and Adaptive Instructional Design]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]
 - [[Instructional Design Models — Overview]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Multimedia Learning Theory]]
 - [[Multimedia Learning Theory and the Cognitive Theory of Multimedia Learning]]
 - [[Multimedia Learning Theory — Mayer]]
-- [[Schema Theory and Knowledge Organization]]
+- [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]
 - [[Self-Explanation Effect and Active Learning from Examples]]
 - [[Self-Determination-Theory|Self-determination theory]]
-- [[Self-explanation]]
+- [[self-explanation]]
 - [[automation]]
 - [[chunk]]
 - [[Cognitive-Load|cognitive load]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
-- [[cognitive neuroscience]]
+- [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Psychology|cognitive psychology]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Educational-Psychology|educational psychology]]
 - [[Element-Interactivity|element interactivity]]
-- [[expertise reversal]]
+- [[expertise-reversal|expertise reversal]]
 - [[Expertise-Reversal-Effect|expertise reversal effect]]
 - [[faded worked example]]
 - [[flow states]]
@@ -726,18 +726,18 @@ extraction_summary:
 - [[Guidance-Fading-Principle|guidance fading principle]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]]
 - [[interest]]
-- [[knowledge schemas]]
+- [[knowledge-schemas|knowledge schemas]]
 - [[Long-Term-Memory|long-term memory]]
-- [[motor learning]]
+- [[motor-learning|motor learning]]
 - [[Redundancy-Effect|redundancy effect]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[Schema-Construction|schema construction]]
 - [[Schema-Theory|schema theory]]
 - [[schemas]]
 - [[self-explanation]]
-- [[skill acquisition research]]
+- [[skill-acquisition-research|skill acquisition research]]
 - [[Split-Attention-Effect|split-attention effect]]
-- [[subjective mental effort ratings]]
+- [[subjective-mental-effort-ratings|subjective mental effort ratings]]
 - [[Worked-Example-Effect|worked example effect]]
 - [[Working-Memory|working memory]]
 
@@ -752,7 +752,7 @@ extraction_summary:
 #### Related
 
 - [[Expertise Development and Deliberate Practice]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Multimedia Learning Theory — Mayer]]
 - [[Instructional Design Models]]
 - [[Skill Acquisition Theory — Anderson ACT-R]]
@@ -778,7 +778,7 @@ extraction_summary:
 
 #### Contrasts With
 
-- [[Discovery Learning]]
+- [[Discovery-Learning|Discovery Learning]]
 - [[Minimally Guided Instruction — Kirschner et al.]]
 - [[Constructivist Learning Approaches]]
 
@@ -791,9 +791,9 @@ extraction_summary:
 
 #### Builds On
 
-- [[Working Memory — Baddeley Model]]
-- [[Schema Theory and Knowledge Organization]]
-- [[Cognitive Architecture of Learning]]
+- [[Working-Memory-—-Baddeley-Model|Working Memory — Baddeley Model]]
+- [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]
+- [[Cognitive-Architecture-of-Learning|Cognitive Architecture of Learning]]
 
 #### Enables
 

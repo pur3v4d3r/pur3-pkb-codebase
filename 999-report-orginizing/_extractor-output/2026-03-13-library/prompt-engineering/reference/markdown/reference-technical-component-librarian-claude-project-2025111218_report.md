@@ -897,7 +897,7 @@ extraction_summary:
 > **Author**:: [[_dashboard-design-moc]]
 > **Status**:: 🌱seedling | 🌿growing | 🌳mature | 🍂deprecated
 > **Complexity**:: ⚪Basic | 🔵Intermediate | 🟣Advanced | ⚫Expert
-> **Domain**:: [[technical]] [[writing]] [[analysis]]
+> **Domain**:: [[technical]] [[writing]] [[Analysis]]
 > **Testing Coverage**:: ████████░░ 80%
 
 #### 65. [THE-PURPOSE] Untitled *(Line 2289)*
@@ -1032,7 +1032,7 @@ extraction_summary:
 - [[Prompt-Component]]
 - [[Role Components]]
 - [[Role-Python-Educator]]
-- [[Schemas]]
+- [[schemas]]
 - [[Security Models for Shared Knowledge Libraries]]
 - [[Technique Components]]
 - [[Technique-Reasoning-Step-by-Step-Explanation-v1]]
@@ -1041,7 +1041,7 @@ extraction_summary:
 - [[Version Control Strategies for Prompt Components]]
 - [[Zettelkasten]]
 - [[_dashboard-design-moc]]
-- [[analysis]]
+- [[Analysis]]
 - [[atomic components]]
 - [[component hierarchy model]]
 - [[component-that-this-builds-upon]]
@@ -1101,7 +1101,7 @@ extraction_summary:
 | 35 | [[Prompt-Component]] | prompt components | — | **Phase 2: Pattern Recognition | 1268 |
 | 36 | [[Prompt-Component]] | prompt components | — | **Phase 2: Pattern Recognition | 1272 |
 | 37 | [[Prompt-Component]] | — | — | **Phase 2: Pattern Recognition | 1272 |
-| 38 | [[Schemas]] | — | — | **Phase 3: Systematization | 1283 |
+| 38 | [[schemas]] | — | — | **Phase 3: Systematization | 1283 |
 | 39 | [[Dataview]] | — | — | **Phase 3: Systematization | 1284 |
 | 40 | [[Templater]] | — | — | **Phase 3: Systematization | 1288 |
 | 41 | [[✴️Claude-📝Prompt-📚Library_🗺️MOC]] | — | — | **Phase 4: Scaling & Refinement (Ongo... | 1430 |
@@ -1157,7 +1157,7 @@ extraction_summary:
 | 91 | [[_dashboard-design-moc]] | — | — | 🧩 [COMPONENT NAME] `v[version]` | 2281 |
 | 92 | [[technical]] | — | — | 🧩 [COMPONENT NAME] `v[version]` | 2284 |
 | 93 | [[writing]] | — | — | 🧩 [COMPONENT NAME] `v[version]` | 2284 |
-| 94 | [[analysis]] | — | — | 🧩 [COMPONENT NAME] `v[version]` | 2284 |
+| 94 | [[Analysis]] | — | — | 🧩 [COMPONENT NAME] `v[version]` | 2284 |
 | 95 | [[Component-A]] | — | — | 🔄 COMBINATION PATTERNS | 2332 |
 | 96 | [[Component-B]] | — | — | 🔄 COMBINATION PATTERNS | 2333 |
 | 97 | [[Component-C]] | — | — | 🔄 COMBINATION PATTERNS | 2334 |
@@ -2458,7 +2458,7 @@ graph LR
 - [[Prompt-Component]]
 - [[Role Components]]
 - [[Role-Python-Educator]]
-- [[Schemas]]
+- [[schemas]]
 - [[Security Models for Shared Knowledge Libraries]]
 - [[Technique Components]]
 - [[Technique-Reasoning-Step-by-Step-Explanation-v1]]
@@ -2467,7 +2467,7 @@ graph LR
 - [[Version Control Strategies for Prompt Components]]
 - [[Zettelkasten]]
 - [[_dashboard-design-moc]]
-- [[analysis]]
+- [[Analysis]]
 - [[atomic components]]
 - [[component hierarchy model]]
 - [[component-that-this-builds-upon]]

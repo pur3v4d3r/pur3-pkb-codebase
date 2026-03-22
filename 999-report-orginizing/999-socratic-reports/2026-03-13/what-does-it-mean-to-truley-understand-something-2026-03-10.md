@@ -14,7 +14,7 @@ secondary_domains:
 related_concepts:
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
   - "[[Propositional Knowledge]]"
-  - "[[Procedural Knowledge]]"
+  - "[[Procedural-Knowledge|Procedural Knowledge]]"
   - "[[Tacit-Knowledge|Tacit Knowledge]]"
   - "[[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]"
   - "[[Feynman Technique]]"
@@ -86,7 +86,7 @@ prerequisites:
   - "[[Cognitive-Science|Cognitive Science]]"
 
 builds_on:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
   - "[[Socratic Dialogue Report Generator v1.0]]"
 
 aliases:
@@ -138,14 +138,14 @@ keywords:
 
 **🔍 Questioner:** That's interesting. And how would we know, from the outside, whether someone had achieved that? Is there a test?
 
-**💭 Respondent:** The classic test is explanation. [[Richard Feynman]] said it as well as anyone: if you can explain something clearly — in plain terms, without jargon, to someone unfamiliar — then you understand it. The ability to teach it is the mark of genuine comprehension.
+**💭 Respondent:** The classic test is explanation. [[Richard-Feynman|Richard Feynman]] said it as well as anyone: if you can explain something clearly — in plain terms, without jargon, to someone unfamiliar — then you understand it. The ability to teach it is the mark of genuine comprehension.
 
 **🔍 Questioner:** So explanation is the criterion. The explanation-test, we might call it. And when you can pass that test, you've arrived at understanding?
 
 **💭 Respondent:** Yes, that's roughly it. Though I'd add that it's not just *any* explanation — it has to be accurate, and the person explaining has to be able to field follow-up questions. Genuine understanding is robust; it doesn't collapse when probed.
 
 > [!insight] **Analytical Interlude: The Stage Is Set**
-> The Respondent has committed to a specific, well-articulated thesis: **understanding = the capacity to explain clearly and robustly**. This is not a naive position. It has genuine intellectual pedigree — Feynman deployed a version of it as a personal learning heuristic, and it has been widely adopted in [[pedagogy]] as the "teach-back" method. The Respondent has also added an important refinement: the explanation must survive follow-up, making the test dynamic rather than static.
+> The Respondent has committed to a specific, well-articulated thesis: **understanding = the capacity to explain clearly and robustly**. This is not a naive position. It has genuine intellectual pedigree — Feynman deployed a version of it as a personal learning heuristic, and it has been widely adopted in [[Pedagogy]] as the "teach-back" method. The Respondent has also added an important refinement: the explanation must survive follow-up, making the test dynamic rather than static.
 >
 > This thesis now has a precise shape that can be examined. Three questions lurk beneath it, and the dialogue will surface them in sequence: (1) Can you explain something *without* genuinely understanding it? (2) Can you genuinely understand something *without* being able to explain it? (3) Even if explanation tracks understanding some of the time, does it identify *where* understanding ends and deeper understanding begins? The Questioner will approach these in order.
 
@@ -166,14 +166,14 @@ keywords:
 
 **🔍 Questioner:** I see. So you'd say that someone who scores perfectly on a test — who can reproduce every fact accurately — but who cannot explain *why* those facts hold, has not genuinely understood the material?
 
-**💭 Respondent:** That's right. [[Rote memorization]] is the paradigm case of knowledge without understanding. The student who can recite Newton's laws but cannot explain why objects in motion remain in motion — who has no feel for the absence of friction as the idealisation that makes the law work — hasn't understood [[classical mechanics]], however accurate their recall.
+**💭 Respondent:** That's right. [[Rote-memorization|Rote memorization]] is the paradigm case of knowledge without understanding. The student who can recite Newton's laws but cannot explain why objects in motion remain in motion — who has no feel for the absence of friction as the idealisation that makes the law work — hasn't understood [[classical-mechanics|classical mechanics]], however accurate their recall.
 
 **🔍 Questioner:** And the converse — someone who can explain it clearly has understood it?
 
 **💭 Respondent:** Yes, I'd say that follows. If you can explain the mechanism correctly and your explanation holds up under questioning, that's what understanding *is*. I'm not sure what more you'd want.
 
 > [!insight] **Analytical Interlude: Two Commitments Now in View**
-> The Respondent has made the thesis bidirectional — not merely "understanding entails the ability to explain" but the stronger "explanation entails understanding." This is the thesis in its most testable form, and it is exactly this stronger version that will be examined. The Questioner has two lines of attack: cases where explanation is present but understanding seems absent (the *parrot problem*), and cases where understanding seems present but explanation is absent (the [[Tacit-Knowledge|tacit knowledge]] problem associated with [[Michael Polanyi]]). The Respondent's confidence at this stage is appropriate — the thesis is genuinely plausible and widely held. What follows is not a demolition but a refinement through pressure.
+> The Respondent has made the thesis bidirectional — not merely "understanding entails the ability to explain" but the stronger "explanation entails understanding." This is the thesis in its most testable form, and it is exactly this stronger version that will be examined. The Questioner has two lines of attack: cases where explanation is present but understanding seems absent (the *parrot problem*), and cases where understanding seems present but explanation is absent (the [[Tacit-Knowledge|tacit knowledge]] problem associated with [[Michael-Polanyi|Michael Polanyi]]). The Respondent's confidence at this stage is appropriate — the thesis is genuinely plausible and widely held. What follows is not a demolition but a refinement through pressure.
 
 **🔍 Questioner:** Before I press on the thesis, I want to acknowledge something: there's real force to what you're saying. The explanation-test does seem to track something important. When I ask someone who merely memorised a formula to explain it, the explanation rapidly collapses — they can't answer simple "why" questions. And when someone genuinely understands, their explanation tends to be generative: they can extend it, modify it, apply it to new cases. You've put your finger on something real.
 
@@ -209,7 +209,7 @@ keywords:
 
 **💭 Respondent:** You're right that I said that. Let me think about this carefully. Maybe what I should say is: there are degrees of understanding, and the student has a high degree, but not complete understanding. The ability to make novel connections is the mark of the *deepest* understanding, not a binary threshold.
 
-**🔍 Questioner:** Good — that's a genuine revision. Understanding comes in degrees. Let's carry that forward. Now let me come at the explanation-test from a different direction. I want to ask about [[Tacit-Knowledge|tacit knowledge]] — knowledge that seems to resist any verbal formulation at all. Michael Polanyi's [[Polanyian Tacit Knowing]] is the classic source here, but the phenomenon is ubiquitous: an expert glassblower who can shape extraordinary forms but cannot teach the skill by verbal instruction alone. A master sommelier who can identify a wine's region and vintage with high accuracy but cannot fully articulate the cues she's using. A jazz musician who improvises with perfect idiomatic fluency but cannot explain exactly what makes a particular phrase *right* for that moment. Do these experts understand their domains?
+**🔍 Questioner:** Good — that's a genuine revision. Understanding comes in degrees. Let's carry that forward. Now let me come at the explanation-test from a different direction. I want to ask about [[Tacit-Knowledge|tacit knowledge]] — knowledge that seems to resist any verbal formulation at all. Michael Polanyi's [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] is the classic source here, but the phenomenon is ubiquitous: an expert glassblower who can shape extraordinary forms but cannot teach the skill by verbal instruction alone. A master sommelier who can identify a wine's region and vintage with high accuracy but cannot fully articulate the cues she's using. A jazz musician who improvises with perfect idiomatic fluency but cannot explain exactly what makes a particular phrase *right* for that moment. Do these experts understand their domains?
 
 **💭 Respondent:** I'd want to say yes — obviously yes. The glassblower's understanding is *demonstrated* in their work. The sommelier's understanding is demonstrated in their accuracy. This is paradigmatic understanding.
 
@@ -222,7 +222,7 @@ keywords:
 
 **🔍 Questioner:** I see. So you're proposing a distinction: there's conceptual or theoretical understanding, where the explanation-test applies, and procedural or perceptual understanding, where it doesn't. Do those count as different *types* of understanding, or is one the genuine article and the other something else — skill, perhaps, or expertise?
 
-**💭 Respondent:** I'd say they're both genuine understanding. Knowing *how* and knowing *that* are both forms of [[Gilbert Ryle|Rylean knowing]] — [[Knowing-That-Knowing-How|knowing-how]] and [[Knowing-That-Knowing-How|knowing-that]]. Understanding might encompass both.
+**💭 Respondent:** I'd say they're both genuine understanding. Knowing *how* and knowing *that* are both forms of [[Gilbert-Ryle|Rylean knowing]] — [[Knowing-That-Knowing-How|knowing-how]] and [[Knowing-That-Knowing-How|knowing-that]]. Understanding might encompass both.
 
 **🔍 Questioner:** Agreed. But then we have a problem. If the explanation-test only covers *one kind* of understanding, it cannot be the criterion for understanding in general. And here's what troubles me further: consider someone who understands a conceptual domain at the explanatory level — they can explain the mechanism — but they cannot use the knowledge in practice. The physics student who can recite Maxwell's equations and explain electromagnetic theory fluently, but who cannot solve a novel electromagnetic problem without extensive guidance. Have they truly understood [[electromagnetism]]?
 
@@ -241,7 +241,7 @@ keywords:
 
 ## Movement IV: The Deepening — Toward Aporia
 
-**🔍 Questioner:** Let me push further. I want to raise the [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] — a finding from [[Leonid Rozenblit]] and [[Frank Keil]] in 2002. In their experiments, people were asked to rate their understanding of everyday devices — zippers, toilets, bicycles. Before explaining, most rated their understanding moderately high. After being asked to explain in mechanistic detail, their self-assessments plummeted. The attempt to explain revealed, to themselves, that they had been misidentifying familiarity as understanding. What does this tell us about using the felt sense of understanding as a guide?
+**🔍 Questioner:** Let me push further. I want to raise the [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] — a finding from [[Leonid-Rozenblit|Leonid Rozenblit]] and [[Frank-Keil|Frank Keil]] in 2002. In their experiments, people were asked to rate their understanding of everyday devices — zippers, toilets, bicycles. Before explaining, most rated their understanding moderately high. After being asked to explain in mechanistic detail, their self-assessments plummeted. The attempt to explain revealed, to themselves, that they had been misidentifying familiarity as understanding. What does this tell us about using the felt sense of understanding as a guide?
 
 **💭 Respondent:** It tells us the felt sense is unreliable. We systematically overestimate how much we understand. That's important — it means we need external tests like explanation, rather than just introspective confidence.
 
@@ -278,7 +278,7 @@ keywords:
 > [!observation] **The Respondent's Posture Shifts**
 > The tone of the exchange has changed. The Respondent is no longer defending a position against the Questioner's challenges — they are actively thinking alongside the Questioner, using the pressure of the elenchus to reason toward something new. This is precisely the shift the Socratic tradition identifies as the gateway to genuine inquiry: the letting-go of a position not as defeat but as the precondition for honest thinking. The next Movement will confirm this shift by driving it to its completion — a moment of genuine aporia.
 
-**🔍 Questioner:** Let me put one final pressure on the felt sense of understanding, because I think it's doing hidden work in your original thesis. When we say we understand something, we often mean not just that we can explain it, but that it *feels* a certain way — there's a phenomenology to understanding, an [[Aha! moment]] or a settled sense of coherence. The mathematician who finally sees *why* the proof works describes something clicking into place. The student who finally grasps the concept feels a kind of relief or illumination. But the Rozenblit and Keil finding suggests that this feeling — this [[sense of coherence]] — is present even in people who deeply misunderstand. We feel we understand the bicycle, right up until the explanation collapses. So can we trust the phenomenology of understanding at all?
+**🔍 Questioner:** Let me put one final pressure on the felt sense of understanding, because I think it's doing hidden work in your original thesis. When we say we understand something, we often mean not just that we can explain it, but that it *feels* a certain way — there's a phenomenology to understanding, an [[Aha!-moment|Aha! moment]] or a settled sense of coherence. The mathematician who finally sees *why* the proof works describes something clicking into place. The student who finally grasps the concept feels a kind of relief or illumination. But the Rozenblit and Keil finding suggests that this feeling — this [[sense-of-coherence|sense of coherence]] — is present even in people who deeply misunderstand. We feel we understand the bicycle, right up until the explanation collapses. So can we trust the phenomenology of understanding at all?
 
 **💭 Respondent:** Probably not, on its own. The feeling of understanding is not reliable evidence that understanding is present. You can have the feeling without the substance.
 
@@ -333,7 +333,7 @@ keywords:
 
 **💭 Respondent:** I think it might be the most important marker. A sophisticated parrot can produce correct explanations but cannot detect incorrect ones. If you give them a subtly wrong explanation of something they've "explained" correctly, they have no internal resource to detect the error. Someone who genuinely understands, by contrast, has the domain organised in a way that makes wrong answers feel *off* — that creates friction with the internal model. Understanding generates error-sensitivity.
 
-**🔍 Questioner:** This connects to something in [[metacognition]] — the capacity to monitor and evaluate one's own cognitive processes. Part of understanding a domain might be having a calibrated sense of *what you understand well* and *where your understanding breaks down*. The Rozenblit and Keil studies showed that people without genuine understanding also lacked this calibration — they overestimated precisely because they had no internal structure that could detect their own errors.
+**🔍 Questioner:** This connects to something in [[Metacognition]] — the capacity to monitor and evaluate one's own cognitive processes. Part of understanding a domain might be having a calibrated sense of *what you understand well* and *where your understanding breaks down*. The Rozenblit and Keil studies showed that people without genuine understanding also lacked this calibration — they overestimated precisely because they had no internal structure that could detect their own errors.
 
 **💭 Respondent:** So understanding, on this reconstructed picture, involves [[Metacognitive-Calibration|metacognitive calibration]] — knowing what you know and knowing what you don't, within the domain. That would explain why experts are often better at expressing uncertainty than novices: not because they know less, but because they understand enough to see where the edges are.
 
@@ -346,7 +346,7 @@ keywords:
 >
 > - **[[Tacit-Knowledge|Tacit Knowledge (Polanyi)]]** — Polanyi's "we know more than we can tell" is not a footnote to the theory of understanding — it is a central constraint on any adequate account. The reconstruction offered here accommodates tacit knowledge by making explanation a *symptom* of understanding in some domains rather than its criterion in all domains. The glassblower's understanding is functional and integrated; it simply operates at a level that outstrips verbal articulation. This connection points toward the larger question of whether tacit and explicit knowledge are on a continuum or represent genuinely different epistemic categories.
 >
-> - **[[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]** — The Rozenblit and Keil finding does more than show that people overestimate their understanding. It reveals that the *feeling* of coherence — the sense that something makes sense, that one could explain it if pressed — is generated by exposure and familiarity, not by genuine structural grasp. This connects to research on [[fluency effects]] in learning: information that is easy to process feels more familiar and thus more understood, leading to systematic miscalibration. Understanding education through this lens suggests that difficulty, productive failure, and desirable difficulties may be features rather than bugs of genuine learning.
+> - **[[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]** — The Rozenblit and Keil finding does more than show that people overestimate their understanding. It reveals that the *feeling* of coherence — the sense that something makes sense, that one could explain it if pressed — is generated by exposure and familiarity, not by genuine structural grasp. This connects to research on [[fluency-effects|fluency effects]] in learning: information that is easy to process feels more familiar and thus more understood, leading to systematic miscalibration. Understanding education through this lens suggests that difficulty, productive failure, and desirable difficulties may be features rather than bugs of genuine learning.
 >
 > - **[[Metacognition]]** — The role of metacognitive calibration in the reconstructed account of understanding connects this dialogue to a substantial body of research (Flavell, Kruger and Dunning, Bjork) on the relationship between knowing and knowing what you know. The [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] can be partly reframed through the lens of this dialogue: it is not simply that incompetent people overestimate their ability — it is that they lack the internal structure that would allow them to detect their own errors, which is precisely what the functional integration account identifies as the mark of genuine understanding.
 

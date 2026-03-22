@@ -239,14 +239,14 @@ extraction_summary:
 > [!abstract] Untitled
 > **Executive Summary**
 > 
-> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive Bias|cognitive biases]] have been extensively catalogued since [[Daniel Kahneman]] and [[Amos Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[Choice Architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
+> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive-Bias|cognitive biases]] have been extensively catalogued since [[Daniel-Kahneman|Daniel Kahneman]] and [[Amos-Tversky|Amos Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[Choice Architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd-Gigerenzer|Gerd Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 190)*
 
 > [!key-claim] Untitled
 > **The Ecological Rationality Challenge**
 > 
-> [[Gerd Gigerenzer]] (2018) articulated what he termed the "bias bias"—the tendency of behavioral economists and psychologists to label any deviation from normative theory as an error requiring correction, without adequately examining whether the deviation might be adaptive in real-world conditions. This perspective suggests that the question "how can we debias judgment?" may itself be poorly framed, because many so-called biases are actually [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] that succeed precisely *because* they ignore information and avoid complex calculations.
+> [[Gerd-Gigerenzer|Gerd Gigerenzer]] (2018) articulated what he termed the "bias bias"—the tendency of behavioral economists and psychologists to label any deviation from normative theory as an error requiring correction, without adequately examining whether the deviation might be adaptive in real-world conditions. This perspective suggests that the question "how can we debias judgment?" may itself be poorly framed, because many so-called biases are actually [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] that succeed precisely *because* they ignore information and avoid complex calculations.
 
 #### 5. [DEFINITION] Untitled *(Line 205)*
 
@@ -394,7 +394,7 @@ extraction_summary:
 - [[Adaptive Behavior and Cognition (ABC) Research Group]]
 - [[Adaptive Toolbox]]
 - [[Affective Forecasting]]
-- [[Amos Tversky]]
+- [[Amos-Tversky|Amos Tversky]]
 - [[Anchoring Bias]]
 - [[Anne-Laure Sellier]]
 - [[Availability-Heuristic|Availability Heuristic]]
@@ -402,7 +402,7 @@ extraction_summary:
 - [[Base Rates]]
 - [[Bent Flyvbjerg]]
 - [[Bias Blind Spot]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Calibration Training]]
 - [[Carey Morewedge]]
 - [[Cass Sunstein]]
@@ -415,7 +415,7 @@ extraction_summary:
 - [[Consider-the-Opposite Strategy]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Daniel Gilbert]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deborah Mitchell]]
 - [[Default Effect]]
 - [[Devil's Advocate Technique]]
@@ -426,11 +426,11 @@ extraction_summary:
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Focalism]]
 - [[Fundamental Attribution Error]]
-- [[Gary Klein]]
-- [[Gerd Gigerenzer]]
+- [[Gary-Klein|Gary Klein]]
+- [[Gerd-Gigerenzer|Gerd Gigerenzer]]
 - [[Groupthink]]
 - [[Halo Effect]]
-- [[Heuristics and Biases Program]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
@@ -451,7 +451,7 @@ extraction_summary:
 - [[Optimism Bias]]
 - [[Outside View]]
 - [[Overconfidence Bias]]
-- [[Paul-Elder Critical Thinking Framework]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Planning Fallacy]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Premortem Technique]]
@@ -477,26 +477,26 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cognitive Bias Debiasing and Mitigation Strategies]] | — | — | Document Start | 39 |
 | 2 | [[Cognitive-Bias|Cognitive Bias]] | cognitive biases | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 3 | [[Daniel Kahneman]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 4 | [[Amos Tversky]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 3 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 4 | [[Amos-Tversky|Amos Tversky]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 5 | [[Consider-the-Opposite Strategy]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 6 | [[Premortem Technique]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 7 | [[Nudge Theory]] | nudges | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 8 | [[Choice Architecture]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 9 | [[Bias Blind Spot]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 10 | [[Gerd Gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 10 | [[Gerd-Gigerenzer|Gerd Gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 11 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 12 | [[Heuristics and Biases Program]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
+| 12 | [[Heuristics-and-Biases-Program|Heuristics and Biases Program]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
 | 13 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 14 | [[Anchoring Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 15 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 16 | [[Representativeness Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 17 | [[Hindsight-Bias|Hindsight Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 18 | [[Overconfidence Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
-| 19 | [[Gerd Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
+| 19 | [[Gerd-Gigerenzer|Gerd Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 20 | [[Adaptive Behavior and Cognition (ABC) Research Group]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 21 | [[Ecological-Rationality|Ecological Rationality]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
-| 22 | [[Gerd Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
+| 22 | [[Gerd-Gigerenzer|Gerd Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
 | 23 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
 | 24 | [[Take-the-Best Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 195 |
 | 25 | [[Adaptive Toolbox]] | — | — | 📜 The Foundational Tension: Are Biase... | 197 |
@@ -514,7 +514,7 @@ extraction_summary:
 | 37 | [[Ivar Fahsing]] | — | — | The Consider-the-Opposite Strategy | 234 |
 | 38 | [[Selective Accessibility]] | — | — | The Consider-the-Opposite Strategy | 236 |
 | 39 | [[Premortem Technique]] | — | — | The Premortem Technique | 240 |
-| 40 | [[Gary Klein]] | — | — | The Premortem Technique | 240 |
+| 40 | [[Gary-Klein|Gary Klein]] | — | — | The Premortem Technique | 240 |
 | 41 | [[Prospective Hindsight]] | — | — | The Premortem Technique | 240 |
 | 42 | [[Deborah Mitchell]] | — | — | The Premortem Technique | 240 |
 | 43 | [[Jay Russo]] | — | — | The Premortem Technique | 240 |
@@ -544,7 +544,7 @@ extraction_summary:
 | 67 | [[Fundamental Attribution Error]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
 | 68 | [[Anne-Laure Sellier]] | — | — | 🎮 Training Interventions: The Morewed... | 303 |
 | 69 | [[Irene Scopelliti]] | — | — | 🎮 Training Interventions: The Morewed... | 303 |
-| 70 | [[Paul-Elder Critical Thinking Framework]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
+| 70 | [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
 | 71 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
 | 72 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
 | 73 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
@@ -562,7 +562,7 @@ extraction_summary:
 | 85 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 86 | [[Negative Visualization]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 87 | [[Cognitive Reflection Test]] | — | — | 🔗 Related Topics for PKB Expansion | 387 |
-| 88 | [[Bounded Rationality]] | — | — | 🔗 Related Topics for PKB Expansion | 392 |
+| 88 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 🔗 Related Topics for PKB Expansion | 392 |
 | 89 | [[Structured Analytic Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 397 |
 | 90 | [[Calibration Training]] | — | — | 🔗 Related Topics for PKB Expansion | 402 |
 
@@ -781,7 +781,7 @@ for (let letter of sortedLetters) {
 - [[Adaptive Behavior and Cognition (ABC) Research Group]]
 - [[Adaptive Toolbox]]
 - [[Affective Forecasting]]
-- [[Amos Tversky]]
+- [[Amos-Tversky|Amos Tversky]]
 - [[Anchoring Bias]]
 - [[Anne-Laure Sellier]]
 - [[Availability-Heuristic|Availability Heuristic]]
@@ -789,7 +789,7 @@ for (let letter of sortedLetters) {
 - [[Base Rates]]
 - [[Bent Flyvbjerg]]
 - [[Bias Blind Spot]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Calibration Training]]
 - [[Carey Morewedge]]
 - [[Cass Sunstein]]
@@ -802,7 +802,7 @@ for (let letter of sortedLetters) {
 - [[Consider-the-Opposite Strategy]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Daniel Gilbert]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deborah Mitchell]]
 - [[Default Effect]]
 - [[Devil's Advocate Technique]]
@@ -813,11 +813,11 @@ for (let letter of sortedLetters) {
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Focalism]]
 - [[Fundamental Attribution Error]]
-- [[Gary Klein]]
-- [[Gerd Gigerenzer]]
+- [[Gary-Klein|Gary Klein]]
+- [[Gerd-Gigerenzer|Gerd Gigerenzer]]
 - [[Groupthink]]
 - [[Halo Effect]]
-- [[Heuristics and Biases Program]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
@@ -838,7 +838,7 @@ for (let letter of sortedLetters) {
 - [[Optimism Bias]]
 - [[Outside View]]
 - [[Overconfidence Bias]]
-- [[Paul-Elder Critical Thinking Framework]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Planning Fallacy]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Premortem Technique]]

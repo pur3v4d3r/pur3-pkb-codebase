@@ -136,7 +136,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Executive Summary *(Line 130)*
 
 > [!abstract] Executive Summary
-> **Self-Consistency** represents a paradigm shift in how we extract reliable reasoning from Large Language Models, transforming the fundamental approach from single-sample generation to ensemble-based reliability engineering. Introduced by [[Wang et al. (2022)]] in their landmark paper "Self-Consistency Improves Chain of Thought Reasoning in Language Models," this technique leverages the statistical principle that independent reasoning paths, when solving the same problem correctly, should converge on identical answers despite traversing different inferential trajectories. The method generates multiple diverse reasoning chains through high-temperature sampling, then selects the most frequently occurring final answer through majority voting. **Complexity-Based Consistency** extends this foundation by weighting votes according to reasoning chain length or complexity, operating on the empirical observation that more detailed, step-rich explanations correlate with higher accuracy in complex reasoning domains. Together, these techniques instantiate a form of internal wisdom-of-crowds, trading computational resources for substantial accuracy gains across mathematical reasoning, commonsense inference, and multi-step problem-solving tasks.
+> **Self-Consistency** represents a paradigm shift in how we extract reliable reasoning from Large Language Models, transforming the fundamental approach from single-sample generation to ensemble-based reliability engineering. Introduced by [[Wang-et-al.|Wang et al. (2022)]] in their landmark paper "Self-Consistency Improves Chain of Thought Reasoning in Language Models," this technique leverages the statistical principle that independent reasoning paths, when solving the same problem correctly, should converge on identical answers despite traversing different inferential trajectories. The method generates multiple diverse reasoning chains through high-temperature sampling, then selects the most frequently occurring final answer through majority voting. **Complexity-Based Consistency** extends this foundation by weighting votes according to reasoning chain length or complexity, operating on the empirical observation that more detailed, step-rich explanations correlate with higher accuracy in complex reasoning domains. Together, these techniques instantiate a form of internal wisdom-of-crowds, trading computational resources for substantial accuracy gains across mathematical reasoning, commonsense inference, and multi-step problem-solving tasks.
 
 #### 3. [DEFINITION] Self-Consistency *(Line 133)*
 
@@ -336,7 +336,7 @@ extraction_summary:
 > 
 > [[Self-Consistency]] requires [[Chain-of-Thought]] as its foundation—the technique aggregates reasoning paths, necessitating that reasoning be explicit rather than implicit. CoT quality directly determines Self-Consistency effectiveness: better-structured reasoning chains produce more reliable consensus. The combination represents a synergistic pairing where CoT enables interpretable multi-step reasoning and Self-Consistency filters its stochastic unreliability.
 > 
-> **[[Few-Shot Learning]] + Self-Consistency**
+> **[[Few-Shot-Learning|Few-Shot Learning]] + Self-Consistency**
 > 
 > Providing high-quality reasoning examples in few-shot prompts improves both individual chain accuracy (higher base $p$) and reasoning diversity (broader strategy exploration). The combination yields multiplicative improvements: few-shot guidance increases the probability each chain is correct, while Self-Consistency aggregates across these higher-quality chains. Research shows 3-5 diverse examples optimize this combination.
 > 
@@ -484,7 +484,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[**Self-Consistency & Complexity-Based Consistency**]]
-- [[AI Agents]]
+- [[AI-Agents|AI Agents]]
 - [[Adaptive Computation]]
 - [[Agentic AI]]
 - [[Automated Theorem Proving]]
@@ -497,7 +497,7 @@ extraction_summary:
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Claude-2]]
 - [[Cognitive Diversity]]
-- [[Commonsense Reasoning]]
+- [[Commonsense-Reasoning|Commonsense Reasoning]]
 - [[CommonsenseQA]]
 - [[Complex Reasoning Tasks]]
 - [[Complexity-Based Consistency]]
@@ -505,10 +505,10 @@ extraction_summary:
 - [[Early Stopping]]
 - [[Early Stopping for Self-Consistency]]
 - [[Ensemble Learning]]
-- [[Ensemble Methods]]
+- [[Ensemble-Methods|Ensemble Methods]]
 - [[Ensemble Prompting]]
 - [[Error Detection]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Function Calling]]
 - [[GPT-3]]
 - [[GPT-3.5]]
@@ -519,7 +519,7 @@ extraction_summary:
 - [[JSON Mode]]
 - [[LLM Calibration]]
 - [[Language Model]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Least-to-Most]]
 - [[Least-to-Most Prompting]]
 - [[Llama-2-70B]]
@@ -558,7 +558,7 @@ extraction_summary:
 - [[Triple Modular Redundancy]]
 - [[Uncertainty Quantification]]
 - [[Universal Self-Consistency]]
-- [[Wang et al. (2022)]]
+- [[Wang-et-al.|Wang et al. (2022)]]
 - [[Wisdom of Crowds]]
 
 ### All Occurrences
@@ -567,7 +567,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**Self-Consistency & Complexity-Based Consistency**]] | — | — | Foundational Understanding | 103 |
 | 2 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 116 |
-| 3 | [[Ensemble Methods]] | — | — | Foundational Understanding | 116 |
+| 3 | [[Ensemble-Methods|Ensemble Methods]] | — | — | Foundational Understanding | 116 |
 | 4 | [[Reasoning Verification]] | — | — | Foundational Understanding | 116 |
 | 5 | [[Majority Voting]] | — | — | Foundational Understanding | 116 |
 | 6 | [[Cognitive Diversity]] | — | — | Foundational Understanding | 116 |
@@ -577,16 +577,16 @@ extraction_summary:
 | 10 | [[Bayesian Reasoning]] | — | — | Foundational Understanding | 119 |
 | 11 | [[Complex Reasoning Tasks]] | — | — | Foundational Understanding | 121 |
 | 12 | [[Math Word Problems]] | — | — | Foundational Understanding | 121 |
-| 13 | [[Commonsense Reasoning]] | — | — | Foundational Understanding | 121 |
+| 13 | [[Commonsense-Reasoning|Commonsense Reasoning]] | — | — | Foundational Understanding | 121 |
 | 14 | [[Multi-Step Inference]] | — | — | Foundational Understanding | 121 |
 | 15 | [[Prompt Reliability Engineering]] | — | — | Foundational Understanding | 122 |
 | 16 | [[LLM Calibration]] | — | — | Foundational Understanding | 122 |
 | 17 | [[Error Detection]] | — | — | Foundational Understanding | 122 |
-| 18 | [[Wang et al. (2022)]] | — | — | 🎯 Self-Consistency & Complexity-Based... | 131 |
+| 18 | [[Wang-et-al.|Wang et al. (2022)]] | — | — | 🎯 Self-Consistency & Complexity-Based... | 131 |
 | 19 | [[Chain-of-Thought]] | — | — | 🎯 Self-Consistency & Complexity-Based... | 134 |
 | 20 | [[Majority Voting]] | — | — | 🎯 Self-Consistency & Complexity-Based... | 134 |
 | 21 | [[Self-Consistency]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 138 |
-| 22 | [[Large Language Models]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 138 |
+| 22 | [[Large-Language-Models|Large Language Models]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 138 |
 | 23 | [[Galton (1907)]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 140 |
 | 24 | [[Surowiecki (2004)]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 140 |
 | 25 | [[Wisdom of Crowds]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 142 |
@@ -597,7 +597,7 @@ extraction_summary:
 | 30 | [[Majority Voting]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 149 |
 | 31 | [[Self-Consistency]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 152 |
 | 32 | [[Chain-of-Thought]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 154 |
-| 33 | [[Wang et al. (2022)]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 156 |
+| 33 | [[Wang-et-al.|Wang et al. (2022)]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 156 |
 | 34 | [[GSM8K]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 159 |
 | 35 | [[MATH]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 159 |
 | 36 | [[StrategyQA]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 159 |
@@ -605,7 +605,7 @@ extraction_summary:
 | 38 | [[Self-Consistency]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 163 |
 | 39 | [[Self-Consistency]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 167 |
 | 40 | [[Chain-of-Thought]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 173 |
-| 41 | [[Wang et al. (2022)]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 199 |
+| 41 | [[Wang-et-al.|Wang et al. (2022)]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 199 |
 | 42 | [[GPT-3.5]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 199 |
 | 43 | [[PaLM]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 199 |
 | 44 | [[MATH]] | — | — | 🔧 Algorithmic Architecture: The Mecha... | 199 |
@@ -646,7 +646,7 @@ extraction_summary:
 | 79 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | 🔗 Integration with Broader Prompting ... | 388 |
 | 80 | [[Self-Consistency]] | — | — | 🔗 Integration with Broader Prompting ... | 390 |
 | 81 | [[Chain-of-Thought]] | — | — | 🔗 Integration with Broader Prompting ... | 390 |
-| 82 | [[Few-Shot Learning]] | — | — | 🔗 Integration with Broader Prompting ... | 392 |
+| 82 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | 🔗 Integration with Broader Prompting ... | 392 |
 | 83 | [[Self-Refine]] | — | — | 🔗 Integration with Broader Prompting ... | 396 |
 | 84 | [[Self-Refine]] | — | — | 🔗 Integration with Broader Prompting ... | 398 |
 | 85 | [[Least-to-Most Prompting]] | — | — | 🔗 Integration with Broader Prompting ... | 400 |
@@ -679,7 +679,7 @@ extraction_summary:
 | 112 | [[Tool-Augmented LLMs]] | — | — | 6. **[[Self-Consistency for Tool Use]]** | 562 |
 | 113 | [[Agentic AI]] | — | — | 6. **[[Self-Consistency for Tool Use]]** | 566 |
 | 114 | [[Function Calling]] | — | — | 6. **[[Self-Consistency for Tool Use]]** | 566 |
-| 115 | [[AI Agents]] | — | — | 6. **[[Self-Consistency for Tool Use]]** | 568 |
+| 115 | [[AI-Agents|AI Agents]] | — | — | 6. **[[Self-Consistency for Tool Use]]** | 568 |
 | 116 | [[Self-Consistency & Complexity-Based Consistency]] | — | — | Active Review Task | 627 |
 | 117 | [[Self-Consistency & Complexity-Based Consistency]] | — | — | Active Review Task | 630 |
 
@@ -1149,7 +1149,7 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[**Self-Consistency & Complexity-Based Consistency**]]
-- [[AI Agents]]
+- [[AI-Agents|AI Agents]]
 - [[Adaptive Computation]]
 - [[Agentic AI]]
 - [[Automated Theorem Proving]]
@@ -1162,7 +1162,7 @@ $$
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Claude-2]]
 - [[Cognitive Diversity]]
-- [[Commonsense Reasoning]]
+- [[Commonsense-Reasoning|Commonsense Reasoning]]
 - [[CommonsenseQA]]
 - [[Complex Reasoning Tasks]]
 - [[Complexity-Based Consistency]]
@@ -1170,10 +1170,10 @@ $$
 - [[Early Stopping]]
 - [[Early Stopping for Self-Consistency]]
 - [[Ensemble Learning]]
-- [[Ensemble Methods]]
+- [[Ensemble-Methods|Ensemble Methods]]
 - [[Ensemble Prompting]]
 - [[Error Detection]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Function Calling]]
 - [[GPT-3]]
 - [[GPT-3.5]]
@@ -1184,7 +1184,7 @@ $$
 - [[JSON Mode]]
 - [[LLM Calibration]]
 - [[Language Model]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Least-to-Most]]
 - [[Least-to-Most Prompting]]
 - [[Llama-2-70B]]
@@ -1223,7 +1223,7 @@ $$
 - [[Triple Modular Redundancy]]
 - [[Uncertainty Quantification]]
 - [[Universal Self-Consistency]]
-- [[Wang et al. (2022)]]
+- [[Wang-et-al.|Wang et al. (2022)]]
 - [[Wisdom of Crowds]]
 
 ---

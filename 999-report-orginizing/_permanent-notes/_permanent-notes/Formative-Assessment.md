@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +76,14 @@ see-also:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]"
   - "[[Complex-Adaptive-Systems|Complex Adaptive Systems]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
+  - "[[Formative-Feedback|Formative Feedback]]"
   - "[[Feedback-Design|Feedback Design]]"
   - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -163,7 +171,7 @@ importance: high
 > 
 > **Level 2 — Process Level (FP)**: Feedback about the processes or strategies used to complete the task — the *how* of performance. ("You've used the evidence well here, but the conclusion doesn't follow from the premises you've assembled — try working backward from what you want to prove.") Particularly powerful for developing deep understanding and transferable strategies.
 > 
-> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated Learning|self-regulated learners]].
+> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated-Learning|self-regulated learners]].
 > 
 > **Level 4 — Self Level (FS)**: Feedback directed at the *person* — personal evaluations and affect about the learner. ("You're so clever," "I'm proud of you," "What a disappointment.") While such feedback is common, it contains minimal actionable information and, crucially, can be actively harmful to motivation and learning orientation when it triggers ego-evaluation processes.
 
@@ -267,6 +275,26 @@ importance: high
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+
+
 
 
 

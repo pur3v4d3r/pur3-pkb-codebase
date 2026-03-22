@@ -190,7 +190,7 @@ extraction_summary:
 #### 6. [DEFINITION] Untitled *(Line 186)*
 
 > [!definition] Untitled
-> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory Consolidation]], [[Retrieval-Practice|Retrieval Practice]], and [[Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
+> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory-Consolidation|Memory Consolidation]], [[Retrieval-Practice|Retrieval Practice]], and [[Neural-Plasticity|Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
 > - **Core Mechanism**:: Spacing effects occur when information is repeatedly learned over spaced intervals, resulting in stronger encoding into long-term memory through enhanced consolidation processes
 
 #### 7. [KEY-CLAIM] Untitled *(Line 207)*
@@ -282,7 +282,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **The Meta-Learning Compound Effect**
-> Using your [[PKB]] creates data about your own learning patterns. Reviewing this data (via dashboards, progress tracking, learning logs) develops [[Metacognitive Awareness]], which improves how you use the system, which generates better data, which deepens awareness—a self-improving feedback loop.
+> Using your [[PKB]] creates data about your own learning patterns. Reviewing this data (via dashboards, progress tracking, learning logs) develops [[metacognitive-awareness|Metacognitive Awareness]], which improves how you use the system, which generates better data, which deepens awareness—a self-improving feedback loop.
 
 #### 13. [DEFINITION] Untitled *(Line 339)*
 
@@ -538,7 +538,7 @@ extraction_summary:
 - [[Control]]
 - [[Cue]]
 - [[Dataview]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Distributed Practice]]
 - [[Dopamine]]
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Emergent Properties]]
 - [[Evaluation]]
 - [[Execution]]
-- [[Extraneous Cognitive Load]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Feedback Loop]]
 - [[Flow State]]
 - [[Generation-Effect|Generation Effect]]
@@ -556,22 +556,22 @@ extraction_summary:
 - [[Habit Stacking for PKB Workflow Design]]
 - [[Interleaving]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Long-Term Potentiation]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Mental-Model|Mental Model]]
 - [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Metacognitive]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metadata]]
 - [[Metcalfe's Law]]
 - [[Monitoring]]
 - [[Motivational]]
 - [[Network Effect]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[PKB]]
 - [[PKB Feedback Mechanisms]]
 - [[Planning]]
@@ -584,7 +584,7 @@ extraction_summary:
 - [[Schema]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Efficacy]]
-- [[Self-Efficacy Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Self-Knowledge]]
 - [[Self-Monitoring]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
@@ -611,9 +611,9 @@ extraction_summary:
 | 6 | [[Schema-Theory|Schema Theory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 7 | [[Self-Efficacy]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 8 | [[Metacognition]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 9 | [[Knowledge Graph]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 9 | [[Knowledge-Graph|Knowledge Graph]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 10 | [[Habit-Formation|Habit Formation]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 11 | [[Neural Plasticity]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 11 | [[Neural-Plasticity|Neural Plasticity]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 12 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 13 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 14 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
@@ -630,7 +630,7 @@ extraction_summary:
 | 25 | [[Chunking]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 26 | [[Mental-Models|Mental Models]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 27 | [[Flow State]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 28 | [[Deliberate Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 28 | [[Deliberate-Practice|Deliberate Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 29 | [[Distributed Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 30 | [[Interleaving]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 31 | [[Generation-Effect|Generation Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
@@ -642,9 +642,9 @@ extraction_summary:
 | 37 | [[PKB]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
 | 38 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
 | 39 | [[wiki-links]] | — | — | PHASE 2: STRUCTURAL PLANNING | 167 |
-| 40 | [[Memory Consolidation]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
+| 40 | [[Memory-Consolidation|Memory Consolidation]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
 | 41 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
-| 42 | [[Neural Plasticity]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
+| 42 | [[Neural-Plasticity|Neural Plasticity]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
 | 43 | [[Synaptic Plasticity]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
 | 44 | [[Long-Term Potentiation]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
 | 45 | [[PKB]] | — | — | Foundational Concepts: The Retrieval-... | 196 |
@@ -668,13 +668,13 @@ extraction_summary:
 | 63 | [[Metadata]] | — | — | Foundational Concepts: The SRL Feedba... | 272 |
 | 64 | [[Self-Efficacy]] | — | — | Foundational Concepts: The SRL Feedba... | 274 |
 | 65 | [[PKB]] | — | — | The Metacognitive Awareness Loop in P... | 308 |
-| 66 | [[Metacognitive Awareness]] | — | — | The Metacognitive Awareness Loop in P... | 308 |
+| 66 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | The Metacognitive Awareness Loop in P... | 308 |
 | 67 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | Meta-Insight | 333 |
 | 68 | [[Self-Knowledge]] | — | — | Meta-Insight | 333 |
 | 69 | [[Self-Efficacy]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
 | 70 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
 | 71 | [[Flow State]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
-| 72 | [[Self-Efficacy Theory]] | — | — | Foundational Concepts: The Success-Mo... | 347 |
+| 72 | [[Self-Efficacy-Theory|Self-Efficacy Theory]] | — | — | Foundational Concepts: The Success-Mo... | 347 |
 | 73 | [[Self-Efficacy]] | — | — | Foundational Concepts: The Success-Mo... | 360 |
 | 74 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Foundational Concepts: The Success-Mo... | 366 |
 | 75 | [[PKB]] | — | — | Foundational Concepts: The Quality-Us... | 402 |
@@ -698,12 +698,12 @@ extraction_summary:
 | 93 | [[Network Effect]] | — | — | 🎯 Synthesis & Mastery Integration | 689 |
 | 94 | [[Cognitive Memory]] | — | — | 🎯 Synthesis & Mastery Integration | 690 |
 | 95 | [[Self-Efficacy]] | — | — | 🎯 Synthesis & Mastery Integration | 690 |
-| 96 | [[Neural Plasticity]] | — | — | Comparative Analysis: Functional Loop... | 716 |
+| 96 | [[Neural-Plasticity|Neural Plasticity]] | — | — | Comparative Analysis: Functional Loop... | 716 |
 | 97 | [[Self-Monitoring]] | — | — | Comparative Analysis: Functional Loop... | 717 |
 | 98 | [[Dopamine]] | — | — | Comparative Analysis: Functional Loop... | 718 |
 | 99 | [[Basal Ganglia]] | — | — | Comparative Analysis: Functional Loop... | 720 |
 | 100 | [[Cognitive Load Theory Applied to PKB Design]] | — | — | 🔗 Related Topics for PKB Expansion | 814 |
-| 101 | [[Extraneous Cognitive Load]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
+| 101 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
 | 102 | [[Working-Memory|Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
 | 103 | [[Zettelkasten Linking Strategies for Emergence]] | — | — | 🔗 Related Topics for PKB Expansion | 819 |
 | 104 | [[Habit Stacking for PKB Workflow Design]] | — | — | 🔗 Related Topics for PKB Expansion | 824 |
@@ -834,7 +834,7 @@ More serendipitous discoveries possible
 
 | Loop Category | Timescale | Mechanism | Primary Benefit | Failure Mode |
 | --- | --- | --- | --- | --- |
-| **Cognitive/Memory** | Days to months | [[Neural Plasticity]] | Knowledge consolidation | Forgetting from insufficient spacing |
+| **Cognitive/Memory** | Days to months | [[Neural-Plasticity|Neural Plasticity]] | Knowledge consolidation | Forgetting from insufficient spacing |
 | **Metacognitive** | Weeks to years | [[Self-Monitoring]] | Learning efficiency | Lack of reflection prevents improvement |
 | **Motivational** | Minutes to months | [[Dopamine]] reward | Sustained engagement | Initial failures create avoidance |
 | **System Quality** | Weeks to months | Iterative refinement | Usability improvement | Premature optimization wastes effort |
@@ -871,7 +871,7 @@ More serendipitous discoveries possible
 - [[Control]]
 - [[Cue]]
 - [[Dataview]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Distributed Practice]]
 - [[Dopamine]]
@@ -881,7 +881,7 @@ More serendipitous discoveries possible
 - [[Emergent Properties]]
 - [[Evaluation]]
 - [[Execution]]
-- [[Extraneous Cognitive Load]]
+- [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Feedback Loop]]
 - [[Flow State]]
 - [[Generation-Effect|Generation Effect]]
@@ -889,22 +889,22 @@ More serendipitous discoveries possible
 - [[Habit Stacking for PKB Workflow Design]]
 - [[Interleaving]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Long-Term Potentiation]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Mental-Model|Mental Model]]
 - [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Metacognitive]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metadata]]
 - [[Metcalfe's Law]]
 - [[Monitoring]]
 - [[Motivational]]
 - [[Network Effect]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[PKB]]
 - [[PKB Feedback Mechanisms]]
 - [[Planning]]
@@ -917,7 +917,7 @@ More serendipitous discoveries possible
 - [[Schema]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Efficacy]]
-- [[Self-Efficacy Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Self-Knowledge]]
 - [[Self-Monitoring]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]

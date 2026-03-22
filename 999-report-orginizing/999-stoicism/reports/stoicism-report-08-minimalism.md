@@ -111,13 +111,13 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[[Chrysippus]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
   - "[[Preferred Indifferents]]"
@@ -128,7 +128,7 @@ related:
   - "[[Epicureanism]]"
   - "[[Minimalism]]"
   - "[[Positive Psychology]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory]]"
 
 series-connections:
   previous: "[[Stoicism in Relationships - Building Stronger Connections]]"
@@ -142,7 +142,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Ethics of Consumption]]"
   - "[[Ancient Philosophy]]"
 
@@ -246,7 +246,7 @@ importance: high
 # Stoicism and Minimalism: Living a Simple, Fulfilling Life
 
 > [!abstract]
-> This report examines [[Stoicism]] as the ancient world's most rigorous philosophical foundation for what we today call minimalism — arguing that the Stoic commitment to voluntary simplicity is not an optional lifestyle preference but a direct expression of the core philosophical claim that genuine flourishing cannot be purchased, accumulated, or acquired. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary psychological research on materialism, hedonic adaptation, and wellbeing, this report maps the philosophical architecture of Stoic simplicity, explains why it works psychologically, offers worked examples from historical and contemporary cases, and provides a systematic toolkit of practices for cultivating sufficiency in a culture designed to manufacture insatiability. The central argument is this: Stoic minimalism is not about owning fewer things. It is about correcting a fundamental error in how we understand what makes a life go well — and then living, concretely and practically, from that corrected understanding.
+> This report examines [[Stoicism]] as the ancient world's most rigorous philosophical foundation for what we today call minimalism — arguing that the Stoic commitment to voluntary simplicity is not an optional lifestyle preference but a direct expression of the core philosophical claim that genuine flourishing cannot be purchased, accumulated, or acquired. Drawing on primary sources in [[Marcus-Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary psychological research on materialism, hedonic adaptation, and wellbeing, this report maps the philosophical architecture of Stoic simplicity, explains why it works psychologically, offers worked examples from historical and contemporary cases, and provides a systematic toolkit of practices for cultivating sufficiency in a culture designed to manufacture insatiability. The central argument is this: Stoic minimalism is not about owning fewer things. It is about correcting a fundamental error in how we understand what makes a life go well — and then living, concretely and practically, from that corrected understanding.
 
 ---
 
@@ -259,7 +259,7 @@ importance: high
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 >
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy of Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 ---
 
@@ -289,7 +289,7 @@ The Stoic engagement with material simplicity is not incidental to the system. I
 
 [Preferred-Indifferents-Status:: The Stoic category of things valuable enough to pursue through rational effort but not important enough to disturb one's equanimity if lost — a philosophically precise middle ground between "worthless" and "genuinely good" that most people, ancient and modern, fail to occupy because they treat preferred indifferents as if they were genuine goods.]
 
-This categorical framework is the philosophical engine of Stoic minimalism. Once you understand it, the entire Stoic attitude toward material goods follows with logical necessity. Wealth is worth having — the Stoics were not ascetics who thought poverty was virtuous in itself. [[Seneca]] was enormously wealthy; [[Marcus Aurelius]] was the most powerful person in the Western world. The Stoics did not pretend that poverty was pleasant or that comfort was undesirable. What they insisted was that wealth belongs in the category of preferred indifferents — to be sought through virtuous effort, enjoyed without excessive attachment, and surrendered without excessive distress. The person who cannot imagine happiness without a certain income, or who experiences genuine psychological devastation when wealth is lost, has committed an error — they have confused a preferred indifferent with a genuine good, and the confusion has given an external thing control over their inner life.
+This categorical framework is the philosophical engine of Stoic minimalism. Once you understand it, the entire Stoic attitude toward material goods follows with logical necessity. Wealth is worth having — the Stoics were not ascetics who thought poverty was virtuous in itself. [[Seneca]] was enormously wealthy; [[Marcus-Aurelius]] was the most powerful person in the Western world. The Stoics did not pretend that poverty was pleasant or that comfort was undesirable. What they insisted was that wealth belongs in the category of preferred indifferents — to be sought through virtuous effort, enjoyed without excessive attachment, and surrendered without excessive distress. The person who cannot imagine happiness without a certain income, or who experiences genuine psychological devastation when wealth is lost, has committed an error — they have confused a preferred indifferent with a genuine good, and the confusion has given an external thing control over their inner life.
 
 > [!quote]
 > *"Poverty is not an evil; but wealth is not a good. Neither poverty nor wealth is good or evil in itself; the difference lies in how you use them, and how you respond to them."* — **Seneca**, *Letters to Lucilius*, Letter LXXXVII
@@ -307,7 +307,7 @@ The philosophical sophistication of the Stoic position lies in its rejection of 
 
 This is the deepest level of Stoic minimalism. It is not primarily about the number of possessions one owns. It is about the quality of one's relationship to what one owns — whether those possessions are held freely, as tools serving one's life and values, or compulsively, as foundations of identity and security that cannot be surrendered without existential disruption.
 
-[[Marcus Aurelius]], writing in the most private journal we possess from the ancient world, returns repeatedly to the themes of simplicity and sufficiency. Despite commanding the resources of the Roman Empire, he consistently reminded himself that his role demanded virtue, not indulgence — that the purple robes and the palace and the power were preferred indifferents, useful instruments of governance, but not constitutive of who he was or what he was for.
+[[Marcus-Aurelius]], writing in the most private journal we possess from the ancient world, returns repeatedly to the themes of simplicity and sufficiency. Despite commanding the resources of the Roman Empire, he consistently reminded himself that his role demanded virtue, not indulgence — that the purple robes and the palace and the power were preferred indifferents, useful instruments of governance, but not constitutive of who he was or what he was for.
 
 > [!quote]
 > *"How much more grievous are the consequences of anger than the causes of it... Very little is needed to make a happy life; it is all within yourself, in your way of thinking."* — **Marcus Aurelius**, *Meditations*, Book IV
@@ -372,10 +372,10 @@ The concept of [[Hedonic-Adaptation]] — the mechanism by which humans rapidly 
 
 **Self-Determination Theory and Intrinsic Motivation**
 
-[[Self-Determination Theory]], developed by Edward Deci and Richard Ryan, distinguishes between intrinsic motivations — the pursuit of activities experienced as inherently meaningful, competence-building, and autonomously chosen — and extrinsic motivations, which include wealth, status, and social approval. The research literature consistently demonstrates that intrinsic motivation is associated with higher wellbeing, greater vitality, deeper psychological health, and more sustained engagement, while extrinsic motivation — even when "achieved" in the form of wealth and recognition — is associated with lower wellbeing, greater anxiety, and less satisfying relationships. This maps almost precisely onto the Stoic distinction between genuine goods (virtue, wisdom — inherently valuable, intrinsically motivating) and preferred indifferents (wealth, status — extrinsically valuable, subject to hedonic adaptation).
+[[Self-Determination-Theory]], developed by Edward Deci and Richard Ryan, distinguishes between intrinsic motivations — the pursuit of activities experienced as inherently meaningful, competence-building, and autonomously chosen — and extrinsic motivations, which include wealth, status, and social approval. The research literature consistently demonstrates that intrinsic motivation is associated with higher wellbeing, greater vitality, deeper psychological health, and more sustained engagement, while extrinsic motivation — even when "achieved" in the form of wealth and recognition — is associated with lower wellbeing, greater anxiety, and less satisfying relationships. This maps almost precisely onto the Stoic distinction between genuine goods (virtue, wisdom — inherently valuable, intrinsically motivating) and preferred indifferents (wealth, status — extrinsically valuable, subject to hedonic adaptation).
 
 > [!connection-ideas]
-> **Stoicism and [[Self-Determination Theory]]**
+> **Stoicism and [[Self-Determination-Theory]]**
 >
 > The deepest bridge between Stoic philosophy and contemporary motivational psychology is the shared claim that genuine wellbeing flows from the quality of one's engagement with chosen activity — what the Stoics called living according to virtue and reason, and what SDT researchers call autonomous intrinsic motivation — rather than from the accumulation of external goods. Both frameworks predict that a person whose motivational architecture is oriented primarily around extrinsic goods (wealth, status, approval) will be chronically less satisfied than their circumstances seem to warrant, because they are on the hedonic treadmill; while a person whose motivational architecture is oriented around intrinsic goods (meaningful activity, competence development, authentic relationships) will be chronically more satisfied than their circumstances seem to warrant, because intrinsic motivations are not subject to the same adaptation dynamics.
 
@@ -407,7 +407,7 @@ The most vivid first-person account of voluntary simplicity from the Stoic tradi
 
 **Example 2: Marcus Aurelius and the Emperor's Inner Poverty**
 
-The Stoic minimalist case of [[Marcus Aurelius]] is philosophically compelling precisely because the external circumstances are the opposite of minimalist. He ruled the largest empire in the Western world from the most lavish administrative apparatus that wealth could construct. He could have, at any moment, indulged every desire on a scale beyond the imagination of ordinary citizens. What his *Meditations* reveal is a man engaged in constant, effortful inner practice of simplicity — not external deprivation but philosophical non-attachment to the extraordinary comfort and power surrounding him.
+The Stoic minimalist case of [[Marcus-Aurelius]] is philosophically compelling precisely because the external circumstances are the opposite of minimalist. He ruled the largest empire in the Western world from the most lavish administrative apparatus that wealth could construct. He could have, at any moment, indulged every desire on a scale beyond the imagination of ordinary citizens. What his *Meditations* reveal is a man engaged in constant, effortful inner practice of simplicity — not external deprivation but philosophical non-attachment to the extraordinary comfort and power surrounding him.
 
 > [!example]
 > **Case: Marcus Aurelius — Simplicity Under the Purple**
@@ -429,7 +429,7 @@ The contemporary minimalism movement has produced a variety of practitioners who
 >
 > **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 >
-> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
+> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
 ---
 
@@ -472,7 +472,7 @@ The following practices translate the Stoic philosophical framework for material
 >
 > **Frequency**: Biannual (twice yearly); briefer weekly variants involve a single object each week, examined in the same spirit
 >
-> **Stoic Grounding**: The Stoic practice of philosophical examination extended to material life; the [[Dichotomy of Control]] applied to possessions (one's relationship to objects is within one's power; the continued existence of the objects is not).
+> **Stoic Grounding**: The Stoic practice of philosophical examination extended to material life; the [[Dichotomy-of-Control]] applied to possessions (one's relationship to objects is within one's power; the continued existence of the objects is not).
 >
 > **Psychological Mechanism**: Material possessions tend to accumulate not primarily because of deliberate choices but because of the path of least resistance — it is easier to keep than to release, easier to add than to evaluate. The biannual inventory reverses this inertia by creating a structured moment of conscious evaluation. The psychological benefit is not primarily the reduction of clutter (though this is real) but the clarification of relationship: after the inventory, the practitioner knows which objects they actively choose and use, and which have accumulated through inertia and now silently impose maintenance burden and quiet background anxiety.
 >
@@ -513,7 +513,7 @@ The path toward Stoic simplicity encounters several characteristic obstacles —
 > [!warning]
 > **Obstacle 1: The Fear of Missing Out and Social Comparison**
 >
-> The most powerful force sustaining consumption beyond genuine sufficiency is not need but social comparison — the tendency, documented extensively by social psychologists, to evaluate one's own material circumstances not against an internal standard of sufficiency but against the visible circumstances of one's peer group. This mechanism is evolutionarily ancient and psychologically powerful. The Stoic response is the [[Dichotomy of Control]] applied to social standing: other people's opinions of your lifestyle, and the social signals your possessions send, are not within your control. The only thing within your control is whether your relationship to your material life reflects correct philosophical valuation or inherited social convention. The practitioner who reduces consumption to genuine sufficiency will, almost certainly, experience social friction — comparisons, questions, occasional judgment. The Stoic preparation for this friction is to have asked, in advance, *whose opinion of my life is it rational for me to care about?* The answer should be: only the opinion of those whose judgment is wise and well-grounded, which does not include the ambient pressure of peer-group material status signaling.
+> The most powerful force sustaining consumption beyond genuine sufficiency is not need but social comparison — the tendency, documented extensively by social psychologists, to evaluate one's own material circumstances not against an internal standard of sufficiency but against the visible circumstances of one's peer group. This mechanism is evolutionarily ancient and psychologically powerful. The Stoic response is the [[Dichotomy-of-Control]] applied to social standing: other people's opinions of your lifestyle, and the social signals your possessions send, are not within your control. The only thing within your control is whether your relationship to your material life reflects correct philosophical valuation or inherited social convention. The practitioner who reduces consumption to genuine sufficiency will, almost certainly, experience social friction — comparisons, questions, occasional judgment. The Stoic preparation for this friction is to have asked, in advance, *whose opinion of my life is it rational for me to care about?* The answer should be: only the opinion of those whose judgment is wise and well-grounded, which does not include the ambient pressure of peer-group material status signaling.
 
 > [!warning]
 > **Obstacle 2: Confusing Stoic Simplicity with Joyless Asceticism**

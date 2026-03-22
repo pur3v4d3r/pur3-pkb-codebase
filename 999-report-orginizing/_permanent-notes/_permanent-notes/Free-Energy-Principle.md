@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -73,6 +73,14 @@ see-also:
   - "[[Thomas-Metzinger|Thomas Metzinger]]"
   - "[[Generative-Model|Generative Model]]"
   - "[[Karl-Friston|Karl Friston]]"
+  - "[[Predictive-Processing|Predictive Processing]]"
+  - "[[Karl-Friston|Karl Friston]]"
+  - "[[Andy-Clark|Andy Clark]]"
+  - "[[Jakob-Hohwy|Jakob Hohwy]]"
+  - "[[Anil-Seth|Anil Seth]]"
+  - "[[Thomas-Metzinger|Thomas Metzinger]]"
+  - "[[Generative-Model|Generative Model]]"
+  - "[[Precision-Weighting|Precision Weighting]]"
   - "[[Predictive-Processing|Predictive Processing]]"
   - "[[Karl-Friston|Karl Friston]]"
   - "[[Andy-Clark|Andy Clark]]"
@@ -138,4 +146,8 @@ importance: high
 
 **Related concepts** *(from report-13-the-predictive-mind.md)*:
 [[Predictive-Processing|Predictive Processing]] * [[Karl-Friston|Karl Friston]] * [[Andy-Clark|Andy Clark]] * [[Jakob-Hohwy|Jakob Hohwy]] * [[Anil-Seth|Anil Seth]] * [[Thomas-Metzinger|Thomas Metzinger]] * [[Generative-Model|Generative Model]] * [[Precision-Weighting|Precision Weighting]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Constructed-Emotion-Theory|Constructed Emotion Theory]] * [[Phenomenal-Self-Model|Phenomenal Self-Model]] * [[John-Dewey|John Dewey]] * [[Socrates|Socrates]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Fallibilism|Fallibilism]]
+
+**Related concepts** *(from report-13-the-predictive-mind.md)*:
+[[Predictive-Processing|Predictive Processing]] * [[Karl-Friston|Karl Friston]] * [[Andy-Clark|Andy Clark]] * [[Jakob-Hohwy|Jakob Hohwy]] * [[Anil-Seth|Anil Seth]] * [[Thomas-Metzinger|Thomas Metzinger]] * [[Generative-Model|Generative Model]] * [[Precision-Weighting|Precision Weighting]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Constructed-Emotion-Theory|Constructed Emotion Theory]] * [[Phenomenal-Self-Model|Phenomenal Self-Model]] * [[John-Dewey|John Dewey]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Jean-Piaget|Jean Piaget]] * [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
+
 

@@ -33,7 +33,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -68,6 +68,14 @@ narrower:
 
 see-also:
   - "[[Socrates]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[Diane-Halpern|Diane Halpern]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]"
+  - "[[Kuhn-and-Dean|Kuhn and Dean]]"
+  - "[[Scientific-Method|Scientific Method]]"
+  - "[[Socrates|Socrates]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[Diane-Halpern|Diane Halpern]]"
@@ -133,7 +141,7 @@ importance: medium
 ## Core Explanation
 
 > [!analytical-insight] Key Insight
-> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's Depth of Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive…
+> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin-Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's-Depth-of-Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive…
 
 > [!analytical-insight] Key Insight
 > **[CT-Epistemological-Grounding**:: Critical thinking translates abstract epistemological questions into concrete cognitive practices: "What can I know?" becomes "What evidence supports this claim?"; "How can I justify beliefs?" becomes "What reasoning validates this conclusion?"; "What distinguishes knowledge from opinion?" becomes "What standards separate justified from unjustified assertions?"]**
@@ -150,4 +158,8 @@ importance: medium
 
 **Related concepts** *(from cog-psy-foundational-critical-thinking.md)*:
 [[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Glaser|Glaser]] * [[Newell-and-Simon|Newell and Simon]]
+
+**Related concepts** *(from cog-psy-foundational-critical-thinking.md)*:
+[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Newell-and-Simon|Newell and Simon]] * [[Epistemology|Epistemology]]
+
 

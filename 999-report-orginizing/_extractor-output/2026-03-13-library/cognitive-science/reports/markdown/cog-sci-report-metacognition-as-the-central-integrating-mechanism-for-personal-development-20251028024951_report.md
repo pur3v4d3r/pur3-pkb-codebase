@@ -145,9 +145,9 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 34)*
 
 > [!abstract] Untitled
-> This comprehensive analysis examines metacognition—defined as thinking about thinking—as the central integrating mechanism that unifies and operationalizes three critical domains of personal development: constructivist learning theory, critical thinking frameworks, and self-behavioral management. Drawing upon foundational work by [[John Flavell]], [[Jean Piaget]], [[Lev Vygotsky]], and contemporary neuroscientific research, this article establishes that metacognition functions as a superordinate cognitive architecture that enables individuals to monitor, evaluate, and regulate their own cognitive processes.
+> This comprehensive analysis examines metacognition—defined as thinking about thinking—as the central integrating mechanism that unifies and operationalizes three critical domains of personal development: constructivist learning theory, critical thinking frameworks, and self-behavioral management. Drawing upon foundational work by [[John-Flavell|John Flavell]], [[Jean-Piaget|Jean Piaget]], [[Lev-Vygotsky|Lev Vygotsky]], and contemporary neuroscientific research, this article establishes that metacognition functions as a superordinate cognitive architecture that enables individuals to monitor, evaluate, and regulate their own cognitive processes.
 > 
-> The central thesis posits that metacognition is not merely an auxiliary cognitive function, but rather the essential mechanism through which learners actively construct knowledge ([[constructivism]]), evaluate the quality of their reasoning ([[Critical-Thinking|Critical Thinking]]), and exert strategic control over their behavior ([[Self-Regulation-Theory]]). Through detailed examination of historical development, neuropsychological substrates (particularly the [[rostrolateral prefrontal cortex]]), and practical applications, this article demonstrates how metacognitive strategies transform passive reception of information into active, self-directed learning.
+> The central thesis posits that metacognition is not merely an auxiliary cognitive function, but rather the essential mechanism through which learners actively construct knowledge ([[Constructivism]]), evaluate the quality of their reasoning ([[Critical-Thinking|Critical Thinking]]), and exert strategic control over their behavior ([[Self-Regulation-Theory]]). Through detailed examination of historical development, neuropsychological substrates (particularly the [[rostrolateral prefrontal cortex]]), and practical applications, this article demonstrates how metacognitive strategies transform passive reception of information into active, self-directed learning.
 > 
 > This synthesis reveals that personal development fundamentally depends upon metacognitive capacity—the ability to step outside one's immediate cognitive experience, observe one's own mental processes with critical awareness, and strategically deploy cognitive resources toward goal attainment. The implications extend across educational psychology, cognitive neuroscience, clinical interventions, and lifelong learning paradigms.
 
@@ -173,7 +173,7 @@ extraction_summary:
 > - *How did the* **historical development** *of this idea* **shape** *our current understanding?*
 >     - The historical trajectory from Locke's philosophical reflection through Piaget's constructivism and Vygotsky's sociocultural theory to Flavell's systematic framework reveals a progressive deepening of our understanding of self-directed cognition. Each theoretical contribution added essential dimensions: Piaget established that cognitive structures are actively constructed and can become objects of conscious reflection; Vygotsky demonstrated that higher mental functions emerge through internalization of social processes; Flavell synthesized these insights into an operational framework that distinguished between metacognitive knowledge and regulation. This developmental progression shaped our current understanding by establishing that metacognition is not a unitary skill but a complex system involving multiple components—awareness, monitoring, evaluation, and strategic control—that develop over time and can be enhanced through deliberate intervention.
 > - *Are there any* **abandoned theories** *that are as interesting as the current one?*
->     - The [[introspectionist movement]] in early psychology, championed by Wilhelm Wundt and Edward Titchener in the late 19th century, attempted to study consciousness through systematic self-observation. This approach was largely abandoned due to methodological concerns about reliability and the influence of behaviorism. However, introspectionism's core insight—that individuals can observe their own mental processes—presaged modern metacognitive research. Similarly, [[William James]]'s concept of "the stream of consciousness" and his distinction between the "I" (the knower) and the "Me" (the known) contained proto-metacognitive ideas about self-awareness that were not fully developed until the cognitive revolution. These abandoned or incomplete frameworks are fascinating because they identified the phenomenon of self-reflective consciousness but lacked the theoretical and methodological tools to investigate it rigorously, tools that modern metacognitive research now possesses.
+>     - The [[introspectionist movement]] in early psychology, championed by Wilhelm Wundt and Edward Titchener in the late 19th century, attempted to study consciousness through systematic self-observation. This approach was largely abandoned due to methodological concerns about reliability and the influence of behaviorism. However, introspectionism's core insight—that individuals can observe their own mental processes—presaged modern metacognitive research. Similarly, [[William-James|William James]]'s concept of "the stream of consciousness" and his distinction between the "I" (the knower) and the "Me" (the known) contained proto-metacognitive ideas about self-awareness that were not fully developed until the cognitive revolution. These abandoned or incomplete frameworks are fascinating because they identified the phenomenon of self-reflective consciousness but lacked the theoretical and methodological tools to investigate it rigorously, tools that modern metacognitive research now possesses.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 91)*
 
@@ -410,7 +410,7 @@ extraction_summary:
 - [[Adrian Wells]]
 - [[Alexander Luria]]
 - [[Alexander Rounis]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Asher Koriat]]
 - [[Assimilation-(Constructivist-Learning)]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
@@ -423,7 +423,7 @@ extraction_summary:
 - [[Constructivist Epistemology]]
 - [[Constructivist Learning]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[David Wood]]
+- [[David-Wood|David Wood]]
 - [[Deanna Kuhn]]
 - [[Delay of gratification]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
@@ -433,19 +433,19 @@ extraction_summary:
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Flavell's metamemory studies]]
-- [[Gail Ross]]
-- [[Gregory Schraw]]
+- [[Gail-Ross|Gail Ross]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Hybrid Human-AI Regulation]]
 - [[Illusions of Comprehension]]
 - [[Inge Molenaar]]
-- [[Jean Piaget]]
-- [[Jerome Bruner]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[Jerome-Bruner|Jerome Bruner]]
 - [[Joel Silvanto]]
-- [[John Flavell]]
-- [[John H. Flavell]]
+- [[John-Flavell|John Flavell]]
+- [[John-H.-Flavell|John H. Flavell]]
 - [[John Locke]]
-- [[Karl Popper]]
-- [[Lev Vygotsky]]
+- [[Karl-Popper|Karl Popper]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Liang Qiu]]
 - [[Louis Narens]]
 - [[Markman's comprehension monitoring research]]
@@ -456,7 +456,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Control|Metacognitive Control]]
-- [[Metacognitive Experiences]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Planning]]
@@ -466,8 +466,8 @@ extraction_summary:
 - [[Mindfulness and Metacognitive Awareness]]
 - [[More-Knowledgeable-Other|More Knowledgeable Other]]
 - [[Object-Level Cognition]]
-- [[Paul-Elder Critical Thinking Framework]]
-- [[Peter Facione]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
+- [[Peter-Facione|Peter Facione]]
 - [[Peter Galbraith]]
 - [[Peter Renshaw]]
 - [[Philip Abrami]]
@@ -490,12 +490,12 @@ extraction_summary:
 - [[Theory of Mind Development]]
 - [[Thomas Nelson]]
 - [[Veenman and colleagues' research]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Zimmerman's cyclical model of self-regulated learning]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[anterior insular cortex]]
+- [[Anterior-Insular-Cortex|anterior insular cortex]]
 - [[Assimilation-and-Accommodation|assimilation and accommodation]]
-- [[constructivism]]
+- [[Constructivism]]
 - [[controlling and regulating]]
 - [[dorsal anterior cingulate cortex]]
 - [[dorsolateral prefrontal cortex]]
@@ -534,10 +534,10 @@ extraction_summary:
 | 4 | [[Self-Regulation-Theory]] | — | — | Document Start | 27 |
 | 5 | [[prefrontal cortex]] | — | — | Document Start | 28 |
 | 6 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Document Start | 29 |
-| 7 | [[John Flavell]] | — | — | Document Start | 35 |
-| 8 | [[Jean Piaget]] | — | — | Document Start | 35 |
-| 9 | [[Lev Vygotsky]] | — | — | Document Start | 35 |
-| 10 | [[constructivism]] | — | — | Document Start | 37 |
+| 7 | [[John-Flavell|John Flavell]] | — | — | Document Start | 35 |
+| 8 | [[Jean-Piaget|Jean Piaget]] | — | — | Document Start | 35 |
+| 9 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Document Start | 35 |
+| 10 | [[Constructivism]] | — | — | Document Start | 37 |
 | 11 | [[Critical-Thinking|Critical Thinking]] | — | — | Document Start | 37 |
 | 12 | [[Self-Regulation-Theory]] | — | — | Document Start | 37 |
 | 13 | [[rostrolateral prefrontal cortex]] | — | — | Document Start | 37 |
@@ -546,28 +546,28 @@ extraction_summary:
 | 16 | [[Critical-Thinking|Critical Thinking]] | — | — | 1.0 📜 INTRODUCTION | 44 |
 | 17 | [[Self-Behavioral Management]] | — | — | 1.0 📜 INTRODUCTION | 44 |
 | 18 | [[John Locke]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 57 |
-| 19 | [[Jean Piaget]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
+| 19 | [[Jean-Piaget|Jean Piaget]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
 | 20 | [[Assimilation-(Constructivist-Learning)]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
 | 21 | [[Accommodation-(Constructivist-Learning)]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
 | 22 | [[reflective abstraction]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
-| 23 | [[Lev Vygotsky]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
+| 23 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 24 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 25 | [[inner speech]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 26 | [[Alexander Luria]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 27 | [[2025-11-04]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
-| 28 | [[John H. Flavell]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
+| 28 | [[John-H.-Flavell|John H. Flavell]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
 | 29 | [[metamemory]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
 | 30 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
-| 31 | [[Metacognitive Experiences]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 73 |
-| 32 | [[Ann Brown]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
+| 31 | [[Metacognitive-Experiences|Metacognitive Experiences]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 73 |
+| 32 | [[Ann-Brown|Ann Brown]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
 | 33 | [[knowing about knowing]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
 | 34 | [[controlling and regulating]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
 | 35 | [[Robert Sternberg]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 77 |
-| 36 | [[Gregory Schraw]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 77 |
+| 36 | [[Gregory-Schraw|Gregory Schraw]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 77 |
 | 37 | [[Rayne Dennison]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 77 |
 | 38 | [[2025-11-04]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 77 |
 | 39 | [[introspectionist movement]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
-| 40 | [[William James]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
+| 40 | [[William-James|William James]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
 | 41 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
 | 42 | [[Metacognitive-Control|Metacognitive Control]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
 | 43 | [[Thomas Nelson]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
@@ -604,7 +604,7 @@ extraction_summary:
 | 74 | [[Liang Qiu]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
 | 75 | [[lateral frontopolar cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
 | 76 | [[dorsal anterior cingulate cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
-| 77 | [[anterior insular cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
+| 77 | [[Anterior-Insular-Cortex|anterior insular cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
 | 78 | [[inferior parietal lobule]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
 | 79 | [[inner speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
 | 80 | [[Private Speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
@@ -626,9 +626,9 @@ extraction_summary:
 | 96 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 215 |
 | 97 | [[More-Knowledgeable-Other|More Knowledgeable Other]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 215 |
 | 98 | [[Scaffolding-(Constructivist-Learning)]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
-| 99 | [[Jerome Bruner]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
-| 100 | [[David Wood]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
-| 101 | [[Gail Ross]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
+| 99 | [[Jerome-Bruner|Jerome Bruner]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
+| 100 | [[David-Wood|David Wood]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
+| 101 | [[Gail-Ross|Gail Ross]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
 | 102 | [[Adaptive-Learning-Systems-—-Educational-Technology|Educational technology]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 221 |
 | 103 | [[intelligent tutoring systems]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 221 |
 | 104 | [[socially-mediated metacognition]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
@@ -636,13 +636,13 @@ extraction_summary:
 | 106 | [[Peter Galbraith]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
 | 107 | [[Peter Renshaw]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
 | 108 | [[Critical-Thinking|Critical Thinking]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 229 |
-| 109 | [[Paul-Elder Critical Thinking Framework]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 229 |
+| 109 | [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 229 |
 | 110 | [[Sergio Rivas]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 233 |
 | 111 | [[Carlos Saiz]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 233 |
 | 112 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
 | 113 | [[Reflective-Judgment|reflective judgment]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
-| 114 | [[Peter Facione]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 241 |
-| 115 | [[Karl Popper]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 243 |
+| 114 | [[Peter-Facione|Peter Facione]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 241 |
+| 115 | [[Karl-Popper|Karl Popper]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 243 |
 | 116 | [[Deanna Kuhn]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 247 |
 | 117 | [[Self-Regulation-Theory]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 253 |
 | 118 | [[Zimmerman's cyclical model of self-regulated learning]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 255 |
@@ -758,7 +758,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Adrian Wells]]
 - [[Alexander Luria]]
 - [[Alexander Rounis]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Asher Koriat]]
 - [[Assimilation-(Constructivist-Learning)]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
@@ -771,7 +771,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Constructivist Epistemology]]
 - [[Constructivist Learning]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[David Wood]]
+- [[David-Wood|David Wood]]
 - [[Deanna Kuhn]]
 - [[Delay of gratification]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
@@ -781,19 +781,19 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Flavell's metamemory studies]]
-- [[Gail Ross]]
-- [[Gregory Schraw]]
+- [[Gail-Ross|Gail Ross]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Hybrid Human-AI Regulation]]
 - [[Illusions of Comprehension]]
 - [[Inge Molenaar]]
-- [[Jean Piaget]]
-- [[Jerome Bruner]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[Jerome-Bruner|Jerome Bruner]]
 - [[Joel Silvanto]]
-- [[John Flavell]]
-- [[John H. Flavell]]
+- [[John-Flavell|John Flavell]]
+- [[John-H.-Flavell|John H. Flavell]]
 - [[John Locke]]
-- [[Karl Popper]]
-- [[Lev Vygotsky]]
+- [[Karl-Popper|Karl Popper]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Liang Qiu]]
 - [[Louis Narens]]
 - [[Markman's comprehension monitoring research]]
@@ -804,7 +804,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Metacognition]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Control|Metacognitive Control]]
-- [[Metacognitive Experiences]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Planning]]
@@ -814,8 +814,8 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Mindfulness and Metacognitive Awareness]]
 - [[More-Knowledgeable-Other|More Knowledgeable Other]]
 - [[Object-Level Cognition]]
-- [[Paul-Elder Critical Thinking Framework]]
-- [[Peter Facione]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
+- [[Peter-Facione|Peter Facione]]
 - [[Peter Galbraith]]
 - [[Peter Renshaw]]
 - [[Philip Abrami]]
@@ -838,12 +838,12 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Theory of Mind Development]]
 - [[Thomas Nelson]]
 - [[Veenman and colleagues' research]]
-- [[William James]]
+- [[William-James|William James]]
 - [[Zimmerman's cyclical model of self-regulated learning]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[anterior insular cortex]]
+- [[Anterior-Insular-Cortex|anterior insular cortex]]
 - [[Assimilation-and-Accommodation|assimilation and accommodation]]
-- [[constructivism]]
+- [[Constructivism]]
 - [[controlling and regulating]]
 - [[dorsal anterior cingulate cortex]]
 - [[dorsolateral prefrontal cortex]]

@@ -5,6 +5,7 @@
 title: "Control Orientation"
 aliases:
   - "Control Orientation"
+  - "control-orientation"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -29,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -63,6 +64,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
+  - "[[Autonomy-Orientation|Autonomy Orientation]]"
+  - "[[Impersonal-Orientation|Impersonal Orientation]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[General-Causality-Orientations-Scale|General Causality Orientations Scale]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Autonomy-Orientation|Autonomy Orientation]]"
@@ -116,7 +125,7 @@ importance: high
 # Control Orientation
 
 > [!definition] **Control Orientation**
-> The tendency to orient toward and be regulated by external and internal controls: deadlines, rewards, surveillance, evaluations, and ego-involvement (the last being crucial). Individuals high in control orientation characteristically notice the evaluative and directive aspects of situations, treat feedback as indicative of their standing relative to standards or others, and experience their behavior as driven by demands they must satisfy. The critical conceptual point, which differentiates COT from [[Locus of Control|locus of control theory]], is that *control orientation includes internally-imposed controls* — guilt, shame, and ego-involvement function here as controls, even though they originate within the person.
+> The tendency to orient toward and be regulated by external and internal controls: deadlines, rewards, surveillance, evaluations, and ego-involvement (the last being crucial). Individuals high in control orientation characteristically notice the evaluative and directive aspects of situations, treat feedback as indicative of their standing relative to standards or others, and experience their behavior as driven by demands they must satisfy. The critical conceptual point, which differentiates COT from [[Locus-of-Control|locus of control theory]], is that *control orientation includes internally-imposed controls* — guilt, shame, and ego-involvement function here as controls, even though they originate within the person.
 
 ## Core Explanation
 
@@ -130,7 +139,7 @@ importance: high
 > The GCOS presents respondents with 12 vignettes describing everyday situations (receiving performance feedback, starting a new job, encountering a difficult problem). For each vignette, three response options are provided, each keyed to one orientation. Respondents rate the likelihood of each response on a 7-point scale (the scoring is NOT ipsative — endorsing one response does not lower scores for others). The result is three subscale scores, each reflecting the respondent's tendency toward…
 
 > [!analytical-insight] Key Insight
-> Rotter's [[Locus of Control]] (LOC) construct asks: does the person attribute outcomes to their own behavior (internal LOC) or to external forces (external LOC)? COT asks a fundamentally different question: what motivational register governs the person's engagement with behavior? The distinction is sharpest for a specific case: a person can have an **internal LOC but a control orientation**. An individual who feels personally responsible for their outcomes but who is driven by shame, guilt,…
+> Rotter's [[Locus-of-Control]] (LOC) construct asks: does the person attribute outcomes to their own behavior (internal LOC) or to external forces (external LOC)? COT asks a fundamentally different question: what motivational register governs the person's engagement with behavior? The distinction is sharpest for a specific case: a person can have an **internal LOC but a control orientation**. An individual who feels personally responsible for their outcomes but who is driven by shame, guilt,…
 
 > [!evidence] Supporting Evidence *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
 > The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
@@ -186,6 +195,26 @@ importance: high
 - [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Metacognition-and-Motivation|Metacognition and Motivation]]
+
+**Related concepts** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Autonomy-Orientation|Autonomy Orientation]] * [[Impersonal-Orientation|Impersonal Orientation]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] * [[Learned-Helplessness|Learned Helplessness]] * [[Attentional-Deployment|Attentional Deployment]] * [[Selective-Attention|Selective Attention]] * [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] * [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
+
+**Cross-report connections** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
+- [[Learned-Helplessness|Learned Helplessness]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
+
+**Cross-report connections** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
+- [[Learned-Helplessness|Learned Helplessness]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
+
+
+
 
 
 

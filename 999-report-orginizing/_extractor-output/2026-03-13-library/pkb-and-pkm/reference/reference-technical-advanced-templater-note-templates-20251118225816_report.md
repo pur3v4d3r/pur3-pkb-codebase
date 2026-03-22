@@ -365,7 +365,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Purpose *(Line 32)*
 
 > [!abstract] Purpose
-> Comprehensive Templater templates for daily planning, execution tracking, and reflection. Integrates task management, time blocking, habit tracking, and learning capture into cohesive daily workflow systems optimized for the [[obsidian]] ecosystem.
+> Comprehensive Templater templates for daily planning, execution tracking, and reflection. Integrates task management, time blocking, habit tracking, and learning capture into cohesive daily workflow systems optimized for the [[Obsidian]] ecosystem.
 
 #### 2. [ABSTRACT] Daily Overview *(Line 719)*
 
@@ -466,8 +466,8 @@ extraction_summary:
 #### 17. [EXAMPLE] Key Concepts Learned *(Line 2171)*
 
 > [!example] Key Concepts Learned
-> - **[[Concept 1]]**: Brief description and why it matters
-> - **[[Concept 2]]**: Brief description and source
+> - **[[Concept-1|Concept 1]]**: Brief description and why it matters
+> - **[[Concept-2|Concept 2]]**: Brief description and source
 > - **[[Concept 3]]**: Application or next step
 
 #### 18. [HELPFUL-TIP] Gratitude Practice *(Line 2194)*
@@ -696,14 +696,14 @@ extraction_summary:
 - [[Claim to fact-check]]
 - [[Comparative Analysis Framework]]
 - [[Complementary Concept Conversation]]
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1|Concept 1]]
+- [[Concept-2|Concept 2]]
 - [[Concept 3]]
 - [[Concept A]]
 - [[Concept B]]
 - [[Concept Card 1]]
 - [[Concept Card 2]]
-- [[Concept Name]]
+- [[Concept-Name|Concept Name]]
 - [[Concept X]]
 - [[Concept Y]]
 - [[Concept to investigate]]
@@ -717,7 +717,7 @@ extraction_summary:
 - [[Daily Review Frameworks]]
 - [[Dataview]]
 - [[Dataview Queries for Daily Notes]]
-- [[Day Planner]]
+- [[Day-Planner|Day Planner]]
 - [[Dependencies]]
 - [[Domain MOC]]
 - [[Earlier LLM Conversation]]
@@ -730,13 +730,13 @@ extraction_summary:
 - [[GTD (Getting Things Done)]]
 - [[GTD Weekly Review]]
 - [[Getting Things Done]]
-- [[Goals MOC]]
+- [[Goals-MOC|Goals MOC]]
 - [[Habit Formation Science]]
 - [[Hybrid Human-AI Knowledge Creation Workflows]]
 - [[JavaScript in Obsidian Templates]]
 - [[Key Concepts]]
 - [[LLM Prompt Engineering for PKB]]
-- [[Learning Log]]
+- [[Learning-Log|Learning Log]]
 - [[Learning Theory]]
 - [[Literature Note 1]]
 - [[Literature Notes]]
@@ -753,7 +753,7 @@ extraction_summary:
 - [[Positive Psychology]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
-- [[Previous Concept]]
+- [[Previous-Concept|Previous Concept]]
 - [[Previous Understanding]]
 - [[Prior conversation about this topic]]
 - [[Problem this helps solve]]
@@ -781,7 +781,7 @@ extraction_summary:
 - [[Stoic Evening Meditation]]
 - [[Strategic Planning]]
 - [[Tasks]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
 - [[Technology Stack]]
 - [[The Power of Habit]]
@@ -800,14 +800,14 @@ extraction_summary:
 - [[Topic to investigate]]
 - [[Topic to research further 1]]
 - [[Topic to research further 2]]
-- [[Tracker Plugin]]
+- [[Tracker-Plugin|Tracker Plugin]]
 - [[Week <% tp.frontmatter.week_number + 1 %> Review - <% tp.frontmatter.year %>]]
 - [[Week <% tp.frontmatter.week_number - 1 %> Review - <% tp.frontmatter.year %>]]
 - [[What led to this question]]
 - [[Zotero]]
-- [[dataview]]
+- [[Dataview]]
 - [[deep work]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[productivity]]
 - [[wiki-links]]
 - [[work-life balance]]
@@ -816,18 +816,18 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[obsidian]] | — | — | Daily Planning & Daily Notes Templates | 33 |
-| 2 | [[Day Planner]] | — | — | Intelligent Time Block Generator with... | 227 |
-| 3 | [[Tasks Plugin]] | — | — | Priority Task Selector with Eisenhowe... | 399 |
-| 4 | [[dataview]] | — | — | Daily Habit Tracker with Streak Manag... | 555 |
-| 5 | [[Tracker Plugin]] | — | — | Daily Habit Tracker with Streak Manag... | 556 |
-| 6 | [[Goals MOC]] | — | — | Daily Habit Tracker with Streak Manag... | 557 |
-| 7 | [[Concept 1]] | — | — | Evening Reflection & Tomorrow Preview... | 617 |
-| 8 | [[Concept 2]] | — | — | Evening Reflection & Tomorrow Preview... | 618 |
-| 9 | [[Learning Log]] | — | — | Evening Reflection & Tomorrow Preview... | 695 |
-| 10 | [[Concept 1]] | — | — | 📚 Learning Log | 775 |
-| 11 | [[Concept 2]] | — | — | 📚 Learning Log | 776 |
-| 12 | [[Previous Concept]] | — | — | 📚 Learning Log | 787 |
+| 1 | [[Obsidian]] | — | — | Daily Planning & Daily Notes Templates | 33 |
+| 2 | [[Day-Planner|Day Planner]] | — | — | Intelligent Time Block Generator with... | 227 |
+| 3 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Priority Task Selector with Eisenhowe... | 399 |
+| 4 | [[Dataview]] | — | — | Daily Habit Tracker with Streak Manag... | 555 |
+| 5 | [[Tracker-Plugin|Tracker Plugin]] | — | — | Daily Habit Tracker with Streak Manag... | 556 |
+| 6 | [[Goals-MOC|Goals MOC]] | — | — | Daily Habit Tracker with Streak Manag... | 557 |
+| 7 | [[Concept-1|Concept 1]] | — | — | Evening Reflection & Tomorrow Preview... | 617 |
+| 8 | [[Concept-2|Concept 2]] | — | — | Evening Reflection & Tomorrow Preview... | 618 |
+| 9 | [[Learning-Log|Learning Log]] | — | — | Evening Reflection & Tomorrow Preview... | 695 |
+| 10 | [[Concept-1|Concept 1]] | — | — | 📚 Learning Log | 775 |
+| 11 | [[Concept-2|Concept 2]] | — | — | 📚 Learning Log | 776 |
+| 12 | [[Previous-Concept|Previous Concept]] | — | — | 📚 Learning Log | 787 |
 | 13 | [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | — | — | 🔗 Daily Connections | 876 |
 | 14 | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] | — | — | 🔗 Daily Connections | 877 |
 | 15 | [[<% tp.date.now("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Daily Connections | 880 |
@@ -871,11 +871,11 @@ extraction_summary:
 | 53 | [[Architecture Patterns]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 54 | [[Technology Stack]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 55 | [[Dependencies]] | — | — | Adaptive Content Scaffold Builder | 1683 |
-| 56 | [[Concept 1]] | — | — | Adaptive Content Scaffold Builder | 1685 |
-| 57 | [[Concept 2]] | — | — | Adaptive Content Scaffold Builder | 1685 |
+| 56 | [[Concept-1|Concept 1]] | — | — | Adaptive Content Scaffold Builder | 1685 |
+| 57 | [[Concept-2|Concept 2]] | — | — | Adaptive Content Scaffold Builder | 1685 |
 | 58 | [[Concept 3]] | — | — | Adaptive Content Scaffold Builder | 1685 |
 | 59 | [[QuickAdd]] | — | — | Adaptive Content Scaffold Builder | 1698 |
-| 60 | [[Day Planner]] | — | — | Adaptive Content Scaffold Builder | 1700 |
+| 60 | [[Day-Planner|Day Planner]] | — | — | Adaptive Content Scaffold Builder | 1700 |
 | 61 | [[Tasks]] | — | — | Adaptive Content Scaffold Builder | 1700 |
 | 62 | [[Dataview]] | — | — | 📅 Milestone Schedule | 1806 |
 | 63 | [[Tasks]] | — | — | 📅 Milestone Schedule | 1808 |
@@ -894,10 +894,10 @@ extraction_summary:
 | 76 | [[<% await tp.system.prompt("Link to main project note name") %>]] | — | — | Agile Sprint Planning Board Template | 1938 |
 | 77 | [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]] | — | — | 🔗 Related Sprints | 2053 |
 | 78 | [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) + 1 %>]] | — | — | 🔗 Related Sprints | 2054 |
-| 79 | [[Tasks Plugin]] | — | — | 🔗 Related Sprints | 2061 |
+| 79 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 🔗 Related Sprints | 2061 |
 | 80 | [[Dataview]] | — | — | 🔗 Related Sprints | 2061 |
-| 81 | [[Concept 1]] | — | — | New Knowledge Acquired | 2172 |
-| 82 | [[Concept 2]] | — | — | New Knowledge Acquired | 2173 |
+| 81 | [[Concept-1|Concept 1]] | — | — | New Knowledge Acquired | 2172 |
+| 82 | [[Concept-2|Concept 2]] | — | — | New Knowledge Acquired | 2173 |
 | 83 | [[Concept 3]] | — | — | New Knowledge Acquired | 2174 |
 | 84 | [[Source 1]] | — | — | Content Consumed | 2184 |
 | 85 | [[Source 2]] | — | — | Content Consumed | 2185 |
@@ -908,7 +908,7 @@ extraction_summary:
 | 90 | [[GTD (Getting Things Done)]] | — | — | 🔗 Connected Reviews | 2278 |
 | 91 | [[Bullet Journaling]] | — | — | 🔗 Connected Reviews | 2278 |
 | 92 | [[Positive Psychology]] | — | — | 🔗 Connected Reviews | 2278 |
-| 93 | [[Day Planner]] | — | — | 🔗 Connected Reviews | 2291 |
+| 93 | [[Day-Planner|Day Planner]] | — | — | 🔗 Connected Reviews | 2291 |
 | 94 | [[Dataview]] | — | — | 🔗 Connected Reviews | 2292 |
 | 95 | [[Theory Name]] | — | — | Theory 1: [[Theory Name]] | 2375 |
 | 96 | [[Theory Name]] | — | — | Theory 2: [[Theory Name]] | 2386 |
@@ -951,8 +951,8 @@ extraction_summary:
 | 133 | [[Existing Concept 1]] | — | — | 💡 Personal Synthesis & Insights | 3298 |
 | 134 | [[Previous Understanding]] | — | — | 💡 Personal Synthesis & Insights | 3299 |
 | 135 | [[Framework X]] | — | — | 💡 Personal Synthesis & Insights | 3300 |
-| 136 | [[Concept 1]] | — | — | Content Processing | 3322 |
-| 137 | [[Concept 2]] | — | — | Content Processing | 3322 |
+| 136 | [[Concept-1|Concept 1]] | — | — | Content Processing | 3322 |
+| 137 | [[Concept-2|Concept 2]] | — | — | Content Processing | 3322 |
 | 138 | [[Concept 3]] | — | — | Content Processing | 3322 |
 | 139 | [[MOC Name]] | — | — | PKB Integration | 3329 |
 | 140 | [[Research Topic 1]] | — | — | Knowledge Gaps Identified | 3336 |
@@ -981,10 +981,10 @@ extraction_summary:
 | 163 | [[Technology Concept]] | — | — | 🔗 Technical Context & References | 3907 |
 | 164 | [[Architecture Pattern]] | — | — | 🔗 Technical Context & References | 3908 |
 | 165 | [[Related Implementation]] | — | — | 🔗 Technical Context & References | 3909 |
-| 166 | [[Concept 1]] | — | — | Core Concepts Grasped | 4061 |
-| 167 | [[Concept 2]] | — | — | Core Concepts Grasped | 4067 |
+| 166 | [[Concept-1|Concept 1]] | — | — | Core Concepts Grasped | 4061 |
+| 167 | [[Concept-2|Concept 2]] | — | — | Core Concepts Grasped | 4067 |
 | 168 | [[Concept 3]] | — | — | Core Concepts Grasped | 4073 |
-| 169 | [[Concept Name]] | — | — | Analogies & Mental Models | 4085 |
+| 169 | [[Concept-Name|Concept Name]] | — | — | Analogies & Mental Models | 4085 |
 | 170 | [[Topic A]] | — | — | Placement in Knowledge Structure | 4140 |
 | 171 | [[Topic B]] | — | — | Placement in Knowledge Structure | 4141 |
 | 172 | [[Concept X]] | — | — | Placement in Knowledge Structure | 4144 |
@@ -1125,7 +1125,7 @@ for (let i = 1; i <= taskCount; i++) {
 - Energy-aware task scheduling for optimal performance
 
 **Integration Notes:**
-- Combine with [[Tasks Plugin]] for checkbox functionality and queries
+- Combine with [[Tasks-Plugin|Tasks Plugin]] for checkbox functionality and queries
 - Link to project management notes for strategic context
 - Track quadrant patterns over time to identify planning issues
 - Use with time block generator to assign tasks to energy-appropriate slots
@@ -1145,9 +1145,9 @@ for (let i = 1; i <= taskCount; i++) {
 - Integration with long-term behavior change goals
 
 **Integration Notes:**
-- Use [[dataview]] queries to calculate actual streaks across daily notes
-- Combine with [[Tracker Plugin]] for visual habit charts
-- Link to [[Goals MOC]] for alignment with long-term objectives
+- Use [[Dataview]] queries to calculate actual streaks across daily notes
+- Combine with [[Tracker-Plugin|Tracker Plugin]] for visual habit charts
+- Link to [[Goals-MOC|Goals MOC]] for alignment with long-term objectives
 - Export data for statistical analysis of habit success factors
 
 ---
@@ -1166,7 +1166,7 @@ for (let i = 1; i <= taskCount; i++) {
 
 **Integration Notes:**
 - Link completed tasks to project tracking notes
-- Connect learning captures to [[Learning Log]] or concept notes
+- Connect learning captures to [[Learning-Log|Learning Log]] or concept notes
 - Use day ratings for longitudinal mood/productivity tracking
 - Integrate tomorrow preview with morning planning routine
 
@@ -1353,7 +1353,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 - Expand scaffoldConfigs object with custom note types for your domain
 - Combine with [[QuickAdd]] for template selection shortcuts
 - Callout types reference your active Obsidian callout CSS customizations
-- Section headers can trigger [[Day Planner]] or [[Tasks]] plugin integrations
+- Section headers can trigger [[Day-Planner|Day Planner]] or [[Tasks]] plugin integrations
 
 ---
 ### Advanced Date Range Calculator with Business Logic
@@ -1406,7 +1406,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 16 — `plaintext` *(Lines 2059-2080)*
 
 ```plaintext
-**Template Purpose:** Comprehensive agile sprint tracking combining planning, daily execution, and retrospective analysis. Integrates [[Tasks Plugin]] metadata and [[Dataview]] calculations for real-time progress visualization.
+**Template Purpose:** Comprehensive agile sprint tracking combining planning, daily execution, and retrospective analysis. Integrates [[Tasks-Plugin|Tasks Plugin]] metadata and [[Dataview]] calculations for real-time progress visualization.
 
 **Key Features:**
 - Automatic sprint duration calculation (default 2-week sprints)
@@ -1442,7 +1442,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 - Modify habit tracking categories to match your personal goals
 - Adjust time allocation categories for your work context
 - Add domain-specific goal sections (creative projects, health metrics, financial)
-- Integrate with [[Day Planner]] for detailed daily time blocking
+- Integrate with [[Day-Planner|Day Planner]] for detailed daily time blocking
 - Connect to [[Dataview]] queries for automated habit statistics across multiple weeks
 
 ---
@@ -1831,7 +1831,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!key-claim] Primary Takeaways
 
-1. **[[Concept 1]]**: 
+1. **[[Concept-1|Concept 1]]**: 
    - **Definition**: 
 # ... (182 more lines truncated)
 ```
@@ -2117,14 +2117,14 @@ graph LR
 - [[Claim to fact-check]]
 - [[Comparative Analysis Framework]]
 - [[Complementary Concept Conversation]]
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1|Concept 1]]
+- [[Concept-2|Concept 2]]
 - [[Concept 3]]
 - [[Concept A]]
 - [[Concept B]]
 - [[Concept Card 1]]
 - [[Concept Card 2]]
-- [[Concept Name]]
+- [[Concept-Name|Concept Name]]
 - [[Concept X]]
 - [[Concept Y]]
 - [[Concept to investigate]]
@@ -2138,7 +2138,7 @@ graph LR
 - [[Daily Review Frameworks]]
 - [[Dataview]]
 - [[Dataview Queries for Daily Notes]]
-- [[Day Planner]]
+- [[Day-Planner|Day Planner]]
 - [[Dependencies]]
 - [[Domain MOC]]
 - [[Earlier LLM Conversation]]
@@ -2151,13 +2151,13 @@ graph LR
 - [[GTD (Getting Things Done)]]
 - [[GTD Weekly Review]]
 - [[Getting Things Done]]
-- [[Goals MOC]]
+- [[Goals-MOC|Goals MOC]]
 - [[Habit Formation Science]]
 - [[Hybrid Human-AI Knowledge Creation Workflows]]
 - [[JavaScript in Obsidian Templates]]
 - [[Key Concepts]]
 - [[LLM Prompt Engineering for PKB]]
-- [[Learning Log]]
+- [[Learning-Log|Learning Log]]
 - [[Learning Theory]]
 - [[Literature Note 1]]
 - [[Literature Notes]]
@@ -2174,7 +2174,7 @@ graph LR
 - [[Positive Psychology]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
-- [[Previous Concept]]
+- [[Previous-Concept|Previous Concept]]
 - [[Previous Understanding]]
 - [[Prior conversation about this topic]]
 - [[Problem this helps solve]]
@@ -2202,7 +2202,7 @@ graph LR
 - [[Stoic Evening Meditation]]
 - [[Strategic Planning]]
 - [[Tasks]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
 - [[Technology Stack]]
 - [[The Power of Habit]]
@@ -2221,14 +2221,14 @@ graph LR
 - [[Topic to investigate]]
 - [[Topic to research further 1]]
 - [[Topic to research further 2]]
-- [[Tracker Plugin]]
+- [[Tracker-Plugin|Tracker Plugin]]
 - [[Week <% tp.frontmatter.week_number + 1 %> Review - <% tp.frontmatter.year %>]]
 - [[Week <% tp.frontmatter.week_number - 1 %> Review - <% tp.frontmatter.year %>]]
 - [[What led to this question]]
 - [[Zotero]]
-- [[dataview]]
+- [[Dataview]]
 - [[deep work]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[productivity]]
 - [[wiki-links]]
 - [[work-life balance]]

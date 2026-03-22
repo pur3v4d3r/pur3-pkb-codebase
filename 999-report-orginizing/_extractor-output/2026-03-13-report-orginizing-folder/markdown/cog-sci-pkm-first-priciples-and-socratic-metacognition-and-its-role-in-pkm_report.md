@@ -280,7 +280,7 @@ extraction_summary:
 #### 23. [CONNECTION-IDEAS] Untitled *(Line 299)*
 
 > [!connection-ideas] Untitled
-> The four architectural requirements described above map strikingly onto the four components of [[Winne and Hadwin]]'s SRL model: making cognitive effort legible serves the goal-monitoring function; creating productive friction supports the enactment phase; developmental calibration addresses the metacognitive adaptation phase; and system-level reflection drives the task-redefinition phase. This alignment suggests that a metacognitive PKM system is, in the deepest sense, a technological implementation of self-regulated learning theory.
+> The four architectural requirements described above map strikingly onto the four components of [[Winne-and-Hadwin|Winne and Hadwin]]'s SRL model: making cognitive effort legible serves the goal-monitoring function; creating productive friction supports the enactment phase; developmental calibration addresses the metacognitive adaptation phase; and system-level reflection drives the task-redefinition phase. This alignment suggests that a metacognitive PKM system is, in the deepest sense, a technological implementation of self-regulated learning theory.
 
 #### 24. [INSIGHT] The PKM System as Psychological Safety Blanket *(Line 320)*
 
@@ -432,9 +432,9 @@ extraction_summary:
 > [!abstract] Untitled
 > The dominant narrative in [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) positions the discipline primarily as a challenge of *organization and tooling*. Enthusiasts debate the merits of [[Zettelkasten]] against the [[PARA Method|PARA framework]], of atomic notes against hierarchical folders, of [[Obsidian]] against [[Notion]]—as though the correct arrangement of external containers is the primary determinant of epistemic growth. This is not entirely wrong, but it is dangerously incomplete. It mistakes the scaffolding for the building.
 > 
-> A deconstruction of this belief reveals a deeper truth: the *animating intelligence* behind any PKM system is [[metacognition]]—the human capacity to think about one's own thinking, to monitor comprehension, evaluate knowledge gaps, and regulate the cognitive strategies one employs when encountering new information. Coined by developmental psychologist [[John H. Flavell]] in 1976, metacognition encompasses two primary dimensions: *metacognitive knowledge* (what one knows about one's own cognition) and *metacognitive regulation* (the active monitoring and adjustment of cognitive processes). These two capacities, not the tool architecture, determine whether a PKM system becomes a dynamic engine of insight or a passive archive of forgotten notes.
+> A deconstruction of this belief reveals a deeper truth: the *animating intelligence* behind any PKM system is [[Metacognition]]—the human capacity to think about one's own thinking, to monitor comprehension, evaluate knowledge gaps, and regulate the cognitive strategies one employs when encountering new information. Coined by developmental psychologist [[John-H.-Flavell|John H. Flavell]] in 1976, metacognition encompasses two primary dimensions: *metacognitive knowledge* (what one knows about one's own cognition) and *metacognitive regulation* (the active monitoring and adjustment of cognitive processes). These two capacities, not the tool architecture, determine whether a PKM system becomes a dynamic engine of insight or a passive archive of forgotten notes.
 > 
-> By rebuilding our understanding of PKM from first principles—beginning with the neuroscientific foundations of memory, the cognitive science of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]], and the pedagogical principles of [[deliberate practice]]—we arrive at a radically different model. A truly effective PKM is not a *storage system with metacognitive features tacked on*. It is, fundamentally, a *metacognitive practice that happens to require a storage system*. This reframe transforms how individuals design their workflows, select their strategies, and measure their progress, ultimately yielding a practice that genuinely accelerates learning, creativity, and intellectual well-being.
+> By rebuilding our understanding of PKM from first principles—beginning with the neuroscientific foundations of memory, the cognitive science of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]], and the pedagogical principles of [[Deliberate-Practice|deliberate practice]]—we arrive at a radically different model. A truly effective PKM is not a *storage system with metacognitive features tacked on*. It is, fundamentally, a *metacognitive practice that happens to require a storage system*. This reframe transforms how individuals design their workflows, select their strategies, and measure their progress, ultimately yielding a practice that genuinely accelerates learning, creativity, and intellectual well-being.
 
 #### 54. [THE-PURPOSE] Untitled *(Line 492)*
 
@@ -474,7 +474,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 1:** [[The Cognitive Architecture of Human Memory]]
->   - The human memory system is not a single unified archive—it is a complex, multi-component architecture with radically different properties at each layer. [[Working-Memory|Working Memory]], theorized by [[Alan-Baddeley|Alan Baddeley]] and first described in the early 1970s, is the site of active conscious thought. It is the "workbench of the mind"—but it is an extraordinarily small workbench. [[George Miller]]'s landmark 1956 paper established that working memory can hold approximately $7 \pm 2$ chunks of information; later research by [[Nelson Cowan]] refined this estimate to approximately $4$ chunks at any given moment. This is the fundamental constraint driving all knowledge management challenges. When this workbench is overloaded—a phenomenon Sweller termed [[cognitive overload]] in his 1988 formulation of [[Cognitive-Load-Theory|Cognitive Load Theory]]—learning degrades dramatically: new information cannot be encoded, connections between ideas cannot be forged, and the quality of reasoning collapses.
+>   - The human memory system is not a single unified archive—it is a complex, multi-component architecture with radically different properties at each layer. [[Working-Memory|Working Memory]], theorized by [[Alan-Baddeley|Alan Baddeley]] and first described in the early 1970s, is the site of active conscious thought. It is the "workbench of the mind"—but it is an extraordinarily small workbench. [[George-Miller|George Miller]]'s landmark 1956 paper established that working memory can hold approximately $7 \pm 2$ chunks of information; later research by [[Nelson Cowan]] refined this estimate to approximately $4$ chunks at any given moment. This is the fundamental constraint driving all knowledge management challenges. When this workbench is overloaded—a phenomenon Sweller termed [[cognitive overload]] in his 1988 formulation of [[Cognitive-Load-Theory|Cognitive Load Theory]]—learning degrades dramatically: new information cannot be encoded, connections between ideas cannot be forged, and the quality of reasoning collapses.
 > 
 >   In contrast, [[Long-Term-Memory|Long-Term Memory]] has a practically unlimited capacity and can persist for a lifetime. But LTM is not simply a larger version of working memory. It stores information through a process of *consolidation*, which is potentiated by emotionally significant, deeply processed, or frequently retrieved experiences. The critical biological insight—often called the [[Encoding-Specificity-Principle|Encoding Specificity Principle]] (Tulving & Thomson, 1973)—is that *how* information is processed at the moment of learning determines how *retrievable* it will be later. Passive reading or note-clipping produces shallow encoding. Active interrogation—self-questioning, paraphrasing, connecting to prior knowledge—produces deep encoding. This distinction is the neurological bedrock on which all metacognitive PKM practice must be built. A PKM tool that merely externalizes information without encouraging deep processing is offloading the work to a hard drive, not to a richer mind.
 
@@ -482,19 +482,19 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 2:** [[Metacognition as the Regulatory Layer of Cognition]]
->   - Metacognition—a term introduced by [[John H. Flavell]] in his seminal 1976 and 1979 papers—is defined as *"knowledge about cognition and control of cognition."* Flavell identified this as a higher-order cognitive capacity that operates *above* the level of ordinary thinking, monitoring and regulating cognitive processes the way an executive monitors and regulates an organization. He articulated a tripartite structure of **metacognitive knowledge** that remains foundational to the field: *declarative metacognitive knowledge* refers to what one knows about oneself as a cognitive agent ("I learn better by reading at night than in the morning"); *procedural metacognitive knowledge* refers to knowledge about strategies and how to execute them ("I know how to use elaborative interrogation to deepen my encoding"); and *conditional metacognitive knowledge* refers to understanding when and why specific strategies are appropriate ("I use active recall only after initial reading, not during it").
+>   - Metacognition—a term introduced by [[John-H.-Flavell|John H. Flavell]] in his seminal 1976 and 1979 papers—is defined as *"knowledge about cognition and control of cognition."* Flavell identified this as a higher-order cognitive capacity that operates *above* the level of ordinary thinking, monitoring and regulating cognitive processes the way an executive monitors and regulates an organization. He articulated a tripartite structure of **metacognitive knowledge** that remains foundational to the field: *declarative metacognitive knowledge* refers to what one knows about oneself as a cognitive agent ("I learn better by reading at night than in the morning"); *procedural metacognitive knowledge* refers to knowledge about strategies and how to execute them ("I know how to use elaborative interrogation to deepen my encoding"); and *conditional metacognitive knowledge* refers to understanding when and why specific strategies are appropriate ("I use active recall only after initial reading, not during it").
 > 
->   Beyond metacognitive knowledge, Flavell identified **metacognitive regulation** as the active, moment-to-moment control of one's thinking processes. [[Ann Brown]]'s subsequent elaboration (1984) organized regulation into three sub-processes that are essential for PKM design: *planning* (selecting strategies and allocating cognitive resources before engaging with material), *monitoring* (tracking comprehension and progress during cognitive work), and *evaluating* (assessing outcomes after a cognitive episode and adjusting future strategy). The profound implication of this framework is that metacognition is not a trait you either have or lack—it is a *set of learnable skills* that can be explicitly fostered through practice and system design. This means PKM systems can be intentionally architected to develop these skills, not merely to store their outputs.
+>   Beyond metacognitive knowledge, Flavell identified **metacognitive regulation** as the active, moment-to-moment control of one's thinking processes. [[Ann-Brown|Ann Brown]]'s subsequent elaboration (1984) organized regulation into three sub-processes that are essential for PKM design: *planning* (selecting strategies and allocating cognitive resources before engaging with material), *monitoring* (tracking comprehension and progress during cognitive work), and *evaluating* (assessing outcomes after a cognitive episode and adjusting future strategy). The profound implication of this framework is that metacognition is not a trait you either have or lack—it is a *set of learnable skills* that can be explicitly fostered through practice and system design. This means PKM systems can be intentionally architected to develop these skills, not merely to store their outputs.
 
 #### 61. [PRINCIPLE-POINT] Untitled *(Line 534)*
 
 > [!principle-point] Untitled
 > - **First Principle 3:** [[The Forgetting Curve and the Power of Retrieval Practice]]
->   - [[Hermann Ebbinghaus]] conducted his pioneering self-experiments on memory in the 1880s, producing the [[Forgetting-Curve|Forgetting Curve]]—a mathematical description of how memory trace strength decays exponentially over time in the absence of review. Ebbinghaus demonstrated that roughly half of newly learned material is lost within an hour, and the majority of what remains is gone within a week. Mathematically, this decay follows an exponential function of the form:
+>   - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] conducted his pioneering self-experiments on memory in the 1880s, producing the [[Forgetting-Curve|Forgetting Curve]]—a mathematical description of how memory trace strength decays exponentially over time in the absence of review. Ebbinghaus demonstrated that roughly half of newly learned material is lost within an hour, and the majority of what remains is gone within a week. Mathematically, this decay follows an exponential function of the form:
 >   $$R = e^{-t/S}$$
 >   where $R$ is memory retention, $t$ is time elapsed since learning, and $S$ is the *stability* of the memory trace—a function of how deeply the information was processed and how many times it has been retrieved. This is not merely a historical curiosity; it is a fundamental law of human cognition that every PKM practitioner is implicitly fighting against, whether they know it or not.
 > 
->   The critical *countermeasure* discovered by Ebbinghaus himself—and elaborated by [[Sebastian Leitner]]'s spaced repetition system in the 1970s and modern researchers including [[Robert Bjork]] and [[Henry Roediger III]]—is **retrieval practice** combined with [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]. The [[Testing-Effect|Testing Effect]] (also called the Retrieval Practice Effect) demonstrates that the act of *retrieving* information from memory is substantially more effective at strengthening that memory than the act of *re-reading* or *re-studying* it. Roediger and Karpicke's landmark 2006 study showed that students who took tests on material remembered *50% more* in the long term than those who re-studied the same material. The metacognitive implication is profound: a PKM system must not only *store* information but must *prompt its retrieval* at psychologically optimized intervals. Systems that do not incorporate this principle—that merely file away notes never to be interrogated again—are fighting physics and losing.
+>   The critical *countermeasure* discovered by Ebbinghaus himself—and elaborated by [[Sebastian Leitner]]'s spaced repetition system in the 1970s and modern researchers including [[Robert-Bjork|Robert Bjork]] and [[Henry Roediger III]]—is **retrieval practice** combined with [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]. The [[Testing-Effect|Testing Effect]] (also called the Retrieval Practice Effect) demonstrates that the act of *retrieving* information from memory is substantially more effective at strengthening that memory than the act of *re-reading* or *re-studying* it. Roediger and Karpicke's landmark 2006 study showed that students who took tests on material remembered *50% more* in the long term than those who re-studied the same material. The metacognitive implication is profound: a PKM system must not only *store* information but must *prompt its retrieval* at psychologically optimized intervals. Systems that do not incorporate this principle—that merely file away notes never to be interrogated again—are fighting physics and losing.
 
 #### 62. [PRINCIPLE-POINT] Untitled *(Line 542)*
 
@@ -516,9 +516,9 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 6:** [[The Principle of Elaborative Encoding and Generative Processing]]
->   - [[Endel Tulving]]'s work on memory encoding and [[Richard Mayer]]'s [[Cognitive Theory of Multimedia Learning]] both point to the same fundamental truth: *the depth and type of mental processing* at the moment of engagement with new information is the primary determinant of how well that information will be retained and how flexibly it can be applied. Mayer's framework distinguishes between passive, surface-level processing (reading text, watching a video without active engagement) and *generative processing*—the effortful mental work of organizing, integrating, and elaborating upon new information in relation to prior knowledge.
+>   - [[Endel Tulving]]'s work on memory encoding and [[Richard-Mayer|Richard Mayer]]'s [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] both point to the same fundamental truth: *the depth and type of mental processing* at the moment of engagement with new information is the primary determinant of how well that information will be retained and how flexibly it can be applied. Mayer's framework distinguishes between passive, surface-level processing (reading text, watching a video without active engagement) and *generative processing*—the effortful mental work of organizing, integrating, and elaborating upon new information in relation to prior knowledge.
 > 
->   [[Craik and Lockhart]]'s *Levels of Processing* framework (1972) provided an earlier conceptualization of this principle, demonstrating through experiment that information processed at a *semantic level* (for meaning, in relation to what one already knows) is retained far more durably than information processed at a *structural level* (for appearance, spelling, or surface features). When a PKM practitioner reads an article and clips it to Notion with a summary title, they are engaging in structural processing. When they read the same article and then write, *in their own words*, how it challenges or extends a position they have previously articulated in a different note—and then link that note to a cluster of related ideas—they are engaging in semantic, generative processing. The latter is not more effortful for its own sake; it is more effortful because *that effort is literally the learning*. [[Robert Bjork]]'s concept of "desirable difficulties" captures this precisely: cognitive challenges that *feel harder in the moment* produce dramatically superior long-term retention and transfer. Metacognition is the capacity to *embrace* desirable difficulties rather than flee from them.
+>   [[Craik and Lockhart]]'s *Levels of Processing* framework (1972) provided an earlier conceptualization of this principle, demonstrating through experiment that information processed at a *semantic level* (for meaning, in relation to what one already knows) is retained far more durably than information processed at a *structural level* (for appearance, spelling, or surface features). When a PKM practitioner reads an article and clips it to Notion with a summary title, they are engaging in structural processing. When they read the same article and then write, *in their own words*, how it challenges or extends a position they have previously articulated in a different note—and then link that note to a cluster of related ideas—they are engaging in semantic, generative processing. The latter is not more effortful for its own sake; it is more effortful because *that effort is literally the learning*. [[Robert-Bjork|Robert Bjork]]'s concept of "desirable difficulties" captures this precisely: cognitive challenges that *feel harder in the moment* produce dramatically superior long-term retention and transfer. Metacognition is the capacity to *embrace* desirable difficulties rather than flee from them.
 
 #### 65. [SUMMARY] Untitled *(Line 560)*
 
@@ -574,7 +574,7 @@ extraction_summary:
 > 
 > In practical terms, this might manifest as a simple question embedded in one's [[Zettelkasten]] notes or [[Obsidian]] templates: **"Confidence level: How well do I understand the concept in this note? What would it take to test this understanding?"** This is not mere navel-gazing—it is the practice of *calibration* that [[Dunning]] identified as the primary antidote to metacognitive blindness. When a practitioner regularly distinguishes between *"I have read about this topic"*, *"I can explain this topic in my own words"*, *"I can apply this topic to novel problems"*, and *"I can teach this topic to someone else"*, they are building a much more accurate model of their own knowledge state—what Schraw and Moshman call *metacognitive knowledge accuracy*.
 > 
-> [[Benjamin Bloom]]'s famous [[Taxonomy of Learning Objectives]] provides a useful scaffolding for these self-monitoring levels, moving from *Remember* → *Understand* → *Apply* → *Analyze* → *Evaluate* → *Create*. A metacognitively sophisticated PKM practitioner can use this taxonomy not as a curriculum framework but as a personal assessment instrument: tagging each significant note with the highest Bloom level at which they can currently engage with its content, and using that tag to guide the nature of their review sessions. Notes at the "Remember" level demand retrieval practice. Notes at the "Understand" level demand elaboration and re-statement. Notes at the "Apply" level demand connection to real problems. This is not a trivial organizational exercise—it is the operationalization of metacognitive regulation.
+> [[Benjamin-Bloom|Benjamin Bloom]]'s famous [[Taxonomy of Learning Objectives]] provides a useful scaffolding for these self-monitoring levels, moving from *Remember* → *Understand* → *Apply* → *Analyze* → *Evaluate* → *Create*. A metacognitively sophisticated PKM practitioner can use this taxonomy not as a curriculum framework but as a personal assessment instrument: tagging each significant note with the highest Bloom level at which they can currently engage with its content, and using that tag to guide the nature of their review sessions. Notes at the "Remember" level demand retrieval practice. Notes at the "Understand" level demand elaboration and re-statement. Notes at the "Apply" level demand connection to real problems. This is not a trivial organizational exercise—it is the operationalization of metacognitive regulation.
 
 #### 70. [PHASE-FOUR] Untitled *(Line 612)*
 
@@ -583,7 +583,7 @@ extraction_summary:
 > 
 > Because the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] and related [[Fluency-Illusion|fluency illusions]] can make us feel competent when we are not, a metacognitive PKM system must include mechanisms that *generate objective feedback*—moments where the practitioner's understanding is tested against something external to their own subjective feeling of comprehension. This is the most demanding architectural element because it requires intellectual vulnerability: the willingness to discover that one does not understand something one thought one did.
 > 
-> The most potent such mechanism is *writing for an audience*—producing explanatory text about concepts in one's PKM system that is intended for someone else to read and understand. This practice, sometimes called [[The Feynman Technique]] after physicist [[Richard Feynman]]'s reported learning method, exposes comprehension gaps with brutal efficiency. When one attempts to explain an idea simply and clearly for a non-expert reader, the hedges, vague language, and implicit assumptions that pass unnoticed in one's private notes become painfully visible. Every vague sentence is a metacognitive signal: "I have not understood this deeply enough to make it plain."
+> The most potent such mechanism is *writing for an audience*—producing explanatory text about concepts in one's PKM system that is intended for someone else to read and understand. This practice, sometimes called [[The Feynman Technique]] after physicist [[Richard-Feynman|Richard Feynman]]'s reported learning method, exposes comprehension gaps with brutal efficiency. When one attempts to explain an idea simply and clearly for a non-expert reader, the hedges, vague language, and implicit assumptions that pass unnoticed in one's private notes become painfully visible. Every vague sentence is a metacognitive signal: "I have not understood this deeply enough to make it plain."
 > 
 > A second calibration mechanism is *deliberate connection-making to problems*—regularly asking oneself: "Which note in my system is most relevant to a real challenge I currently face, and can I actually *apply* it?" This is the [[Testing-Effect|Testing Effect]] applied not to isolated propositions but to actionable knowledge. A PKM system that cannot be drawn upon to improve real decisions is, in Snowden's sense, not a knowledge management system at all—it is an information archive. Metacognitive calibration converts the archive into a living resource by repeatedly testing the connection between what is *stored* and what is *useful*.
 
@@ -631,10 +631,10 @@ extraction_summary:
 > - *Identify **three core "atoms"** from this deconstruction.*
 > 
 > 1. [[Metacognition — Flavell's Framework]]
->    - The human capacity to monitor and regulate one's own cognitive processes, comprising metacognitive *knowledge* (declarative, procedural, and conditional awareness of one's cognition) and metacognitive *regulation* (planning, monitoring, and evaluating cognitive activity). First formally defined by [[John H. Flavell]] in 1976 and 1979. The foundational insight: metacognition is a learnable skill, not a fixed trait, and is the primary predictor of learning effectiveness.
+>    - The human capacity to monitor and regulate one's own cognitive processes, comprising metacognitive *knowledge* (declarative, procedural, and conditional awareness of one's cognition) and metacognitive *regulation* (planning, monitoring, and evaluating cognitive activity). First formally defined by [[John-H.-Flavell|John H. Flavell]] in 1976 and 1979. The foundational insight: metacognition is a learnable skill, not a fixed trait, and is the primary predictor of learning effectiveness.
 > 
 > 2. [[The Forgetting Curve and Retrieval Practice]]
->    - [[Hermann Ebbinghaus]]'s empirical demonstration that memory traces decay exponentially ($R = e^{-t/S}$) in the absence of retrieval. The modern elaboration—the [[Testing-Effect|Testing Effect]] (Roediger & Karpicke, 2006)—demonstrates that *retrieving* information is substantially more effective at strengthening memory than *re-studying* it, yielding up to 50% better long-term retention. The practical implication: any PKM system that does not incorporate spaced retrieval is fighting the forgetting curve unarmed.
+>    - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]'s empirical demonstration that memory traces decay exponentially ($R = e^{-t/S}$) in the absence of retrieval. The modern elaboration—the [[Testing-Effect|Testing Effect]] (Roediger & Karpicke, 2006)—demonstrates that *retrieving* information is substantially more effective at strengthening memory than *re-studying* it, yielding up to 50% better long-term retention. The practical implication: any PKM system that does not incorporate spaced retrieval is fighting the forgetting curve unarmed.
 > 
 > 3. [[Self-Regulated Learning — Zimmerman's Cycle]]
 >    - [[Barry-Zimmerman|Barry Zimmerman]]'s cyclical model of expert learning comprising forethought (goal-setting and strategic planning), performance (self-monitoring and strategy execution), and self-reflection (self-evaluation and adaptive adjustment). Distinguished from tool-centric productivity by its emphasis on *recursive self-improvement*: the practitioner not only performs tasks but continuously improves the quality of their task performance by observing, evaluating, and revising their own cognitive behavior.
@@ -729,7 +729,7 @@ extraction_summary:
 
 > [!counter-argument] Untitled
 > - **What if these assumptions are false, or merely optional?**
->     - What if the bottleneck is not retrieval but *comprehension*—the failure to deeply understand something in the first place, which no amount of organized notes can remedy? What if you could have ten thousand beautifully linked Obsidian notes and still be unable to transfer any of that "knowledge" to a novel problem you have never seen before, precisely because you never developed the [[Metacognitive Self-Regulation]] that makes knowledge *portable*? What if the most important architecture in a PKM system is not the folder structure, but the *cognitive habits of the person operating the folders*?
+>     - What if the bottleneck is not retrieval but *comprehension*—the failure to deeply understand something in the first place, which no amount of organized notes can remedy? What if you could have ten thousand beautifully linked Obsidian notes and still be unable to transfer any of that "knowledge" to a novel problem you have never seen before, precisely because you never developed the [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] that makes knowledge *portable*? What if the most important architecture in a PKM system is not the folder structure, but the *cognitive habits of the person operating the folders*?
 
 #### 86. [KEY-TAKEAWAY] Key Takeaways *(Line 795)*
 
@@ -749,7 +749,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 1:** [[The Ebbinghaus Forgetting Curve and Memory Consolidation]]
->      - [[Hermann Ebbinghaus]] demonstrated in the 1880s—and subsequent neuroscience has confirmed in detail—that memories are not static files that are either stored or not stored. Memory is a **dynamic, biological process of encoding, consolidation, and retrieval**, and it degrades exponentially without re-activation. The mathematical form of the forgetting function approximates $R = e^{-t/S}$, where $R$ is memory retention, $t$ is time, and $S$ is relative memory strength. This is an indisputable biological law. No PKM tool, no matter how sophisticated, *circumvents* this law. It can only create scaffolding that motivates or prompts re-engagement with information—which is a behavioral intervention, not a storage solution. The implication is atomic and non-negotiable: **knowledge cannot be offloaded to a tool; it can only be consolidated through repeated, spaced cognitive engagement.** A note you never return to is not knowledge; it is archived forgetting.
+>      - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] demonstrated in the 1880s—and subsequent neuroscience has confirmed in detail—that memories are not static files that are either stored or not stored. Memory is a **dynamic, biological process of encoding, consolidation, and retrieval**, and it degrades exponentially without re-activation. The mathematical form of the forgetting function approximates $R = e^{-t/S}$, where $R$ is memory retention, $t$ is time, and $S$ is relative memory strength. This is an indisputable biological law. No PKM tool, no matter how sophisticated, *circumvents* this law. It can only create scaffolding that motivates or prompts re-engagement with information—which is a behavioral intervention, not a storage solution. The implication is atomic and non-negotiable: **knowledge cannot be offloaded to a tool; it can only be consolidated through repeated, spaced cognitive engagement.** A note you never return to is not knowledge; it is archived forgetting.
 
 #### 89. [PRINCIPLE-POINT] Untitled *(Line 817)*
 
@@ -761,19 +761,19 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 3:** [[The Metacognitive Architecture: Flavell's Two-Component Model]]
->      - [[John Flavell]]'s foundational work (1976, 1979) identified two irreducible components of metacognition that no PKM system can substitute for. The first is **[[Metacognitive-Knowledge|Metacognitive Knowledge]]**—one's beliefs and awareness about oneself as a cognitive agent (declarative: "I know I tend to skim-read when fatigued"), about tasks (procedural: "I know dense theoretical texts require active annotation, not passive reading"), and about strategies (conditional: "I know that [[The Feynman Technique]] works better for me than highlighting when learning a new concept"). The second is **[[Metacognitive-Regulation|Metacognitive Regulation]]**—the active, real-time management of one's cognitive processes through planning (choosing an appropriate learning strategy before beginning), monitoring (checking comprehension during a task), and evaluation (assessing the adequacy of one's understanding after a task). These are **biological and psychological constants**. Every human cognitive system has these capacities to varying degrees. The degree to which they are developed is one of the strongest predictors of learning outcomes across all domains. This is atomic: **metacognitive competence is not a tool feature; it is a human capacity that can only be developed through deliberate practice of self-monitoring and self-correction.**
+>      - [[John-Flavell|John Flavell]]'s foundational work (1976, 1979) identified two irreducible components of metacognition that no PKM system can substitute for. The first is **[[Metacognitive-Knowledge|Metacognitive Knowledge]]**—one's beliefs and awareness about oneself as a cognitive agent (declarative: "I know I tend to skim-read when fatigued"), about tasks (procedural: "I know dense theoretical texts require active annotation, not passive reading"), and about strategies (conditional: "I know that [[The Feynman Technique]] works better for me than highlighting when learning a new concept"). The second is **[[Metacognitive-Regulation|Metacognitive Regulation]]**—the active, real-time management of one's cognitive processes through planning (choosing an appropriate learning strategy before beginning), monitoring (checking comprehension during a task), and evaluation (assessing the adequacy of one's understanding after a task). These are **biological and psychological constants**. Every human cognitive system has these capacities to varying degrees. The degree to which they are developed is one of the strongest predictors of learning outcomes across all domains. This is atomic: **metacognitive competence is not a tool feature; it is a human capacity that can only be developed through deliberate practice of self-monitoring and self-correction.**
 
 #### 91. [PRINCIPLE-POINT] Untitled *(Line 825)*
 
 > [!principle-point] Untitled
 > - **First Principle 4:** [[The Transfer Problem and Contextual Encoding of Knowledge]]
->      - [[Diane Halpern]]'s research on [[Transfer-of-Learning|Transfer of Learning]] establishes another atomic truth: **knowledge is encoded with the context in which it was acquired.** This is why students who can solve a textbook problem fail when the same logical structure appears in a different domain—the knowledge is "locked" to its original context. Transfer requires that knowledge be encoded at a level of abstraction that is context-independent, which requires deliberate [[Structural Encoding]]—consciously asking "what is the underlying principle here, stripped of its specific context?" This is a fundamental constraint of human cognition. The implication for PKM is devastating to the tool-centric paradigm: **a perfectly organized vault of context-specific notes does almost nothing to promote transfer.** The work of generalization and abstraction must happen in the mind, not in the metadata.
+>      - [[Diane-Halpern|Diane Halpern]]'s research on [[Transfer-of-Learning|Transfer of Learning]] establishes another atomic truth: **knowledge is encoded with the context in which it was acquired.** This is why students who can solve a textbook problem fail when the same logical structure appears in a different domain—the knowledge is "locked" to its original context. Transfer requires that knowledge be encoded at a level of abstraction that is context-independent, which requires deliberate [[Structural Encoding]]—consciously asking "what is the underlying principle here, stripped of its specific context?" This is a fundamental constraint of human cognition. The implication for PKM is devastating to the tool-centric paradigm: **a perfectly organized vault of context-specific notes does almost nothing to promote transfer.** The work of generalization and abstraction must happen in the mind, not in the metadata.
 
 #### 92. [PRINCIPLE-POINT] Untitled *(Line 829)*
 
 > [!principle-point] Untitled
 > - **First Principle 5:** [[Calibration and the Dunning-Kruger Topology of Self-Knowledge]]
->      - [[Metacognitive-Calibration|Metacognitive Calibration]] is the accuracy of one's judgments about one's own knowledge. Research consistently shows that **humans are systematically miscalibrated**—they routinely overestimate their understanding of topics they have recently encountered but not deeply processed. The [[Illusion-of-Knowing|Illusion of Knowing]]—documented extensively by [[Robert Bjork]] and colleagues—means that *feeling like you know something* is not the same as *actually knowing it*. This is an atomic constraint on any knowledge system: **without explicit calibration mechanisms that force you to test your understanding against reality rather than against your feelings of familiarity, any PKM system will systematically accumulate the illusion of knowledge.** A beautiful, well-linked Obsidian vault full of highlights from books you "read" is, in the absence of calibration, a monument to the illusion of knowing.
+>      - [[Metacognitive-Calibration|Metacognitive Calibration]] is the accuracy of one's judgments about one's own knowledge. Research consistently shows that **humans are systematically miscalibrated**—they routinely overestimate their understanding of topics they have recently encountered but not deeply processed. The [[Illusion-of-Knowing|Illusion of Knowing]]—documented extensively by [[Robert-Bjork|Robert Bjork]] and colleagues—means that *feeling like you know something* is not the same as *actually knowing it*. This is an atomic constraint on any knowledge system: **without explicit calibration mechanisms that force you to test your understanding against reality rather than against your feelings of familiarity, any PKM system will systematically accumulate the illusion of knowledge.** A beautiful, well-linked Obsidian vault full of highlights from books you "read" is, in the absence of calibration, a monument to the illusion of knowing.
 
 #### 93. [SUMMARY] Untitled *(Line 833)*
 
@@ -786,7 +786,7 @@ extraction_summary:
 > [!key-takeaway] Key Takeaways
 > - The irreducible atomic truth of knowledge is that **memory is biological and dynamic**, governed by the $R = e^{-t/S}$ forgetting function—a tool cannot override this law, only scaffold engagement with it.
 > - [[Cognitive-Psychology|Cognitive Psychology]] establishes that **surface knowledge and structural knowledge are categorically different**, and only structural knowledge transfers. Note-taking, as commonly practiced, primarily produces surface knowledge.
-> - [[John Flavell]]'s two-component metacognition model—**knowledge of cognition** and **regulation of cognition**—represents the actual cognitive engine that any PKM system should be designed to develop.
+> - [[John-Flavell|John Flavell]]'s two-component metacognition model—**knowledge of cognition** and **regulation of cognition**—represents the actual cognitive engine that any PKM system should be designed to develop.
 > - **[[Metacognitive-Calibration|Metacognitive Calibration]]** is the accuracy of self-assessment; without explicit calibration practices, any knowledge system will accumulate the illusion of understanding rather than understanding itself.
 > - The [[Transfer Problem]] means that context-specific note storage is largely insufficient for developing genuinely portable, applicable knowledge.
 
@@ -912,12 +912,12 @@ extraction_summary:
 - [[Adrian Wells]]
 - [[Alain Hadwin]]
 - [[Alan-Baddeley|Alan Baddeley]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Anki]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Benjamin Bloom]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bidirectional Linking]]
 - [[Bloom's Taxonomy as a Metacognitive Assessment Tool]]
 - [[Building a Second Brain]]
@@ -928,22 +928,22 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory — Sweller 1988]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
-- [[Cognitive Theory of Multimedia Learning]]
+- [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Collector's Fallacy]]
-- [[Conditional Metacognitive Knowledge]]
+- [[conditional-metacognitive-knowledge|Conditional Metacognitive Knowledge]]
 - [[Craik and Lockhart]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Cynefin Framework]]
 - [[Dale Schunk]]
 - [[Dataview]]
 - [[Dave Snowden]]
-- [[David Chalmers]]
+- [[David-Chalmers|David Chalmers]]
 - [[David Dunning]]
-- [[Declarative Metacognitive Knowledge]]
+- [[declarative-metacognitive-knowledge|Declarative Metacognitive Knowledge]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulties Theory]]
 - [[Desirable Difficulties — Robert Bjork]]
-- [[Diane Halpern]]
+- [[Diane-Halpern|Diane Halpern]]
 - [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dunning]]
@@ -962,17 +962,17 @@ extraction_summary:
 - [[First-Principle Nodes]]
 - [[Fluency-Illusion|Fluency Illusion]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[George Miller]]
+- [[George-Miller|George Miller]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
 - [[Graph View]]
 - [[Henry Roediger III]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Intelligence-as-Information-Recall]]
 - [[Interleaving]]
 - [[James Webb Young]]
-- [[John Flavell]]
-- [[John H. Flavell]]
+- [[John-Flavell|John Flavell]]
+- [[John-H.-Flavell|John H. Flavell]]
 - [[John Keats]]
 - [[John Locke]]
 - [[Justin Kruger]]
@@ -994,7 +994,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Practice Architecture]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
-- [[Metacognitive Self-Regulation]]
+- [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Metacognitive Therapy]]
 - [[Negative Capability]]
 - [[Nelson Cowan]]
@@ -1008,7 +1008,7 @@ extraction_summary:
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philip Tetlock]]
 - [[Philip Winne]]
-- [[Procedural Metacognitive Knowledge]]
+- [[procedural-metacognitive-knowledge|Procedural Metacognitive Knowledge]]
 - [[Procrastination]]
 - [[Productivity-as-Output-Maximization]]
 - [[Progressive-Summarization|Progressive Summarization]]
@@ -1016,9 +1016,9 @@ extraction_summary:
 - [[Remote Associates]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
-- [[Richard Feynman]]
-- [[Richard Mayer]]
-- [[Robert Bjork]]
+- [[Richard-Feynman|Richard Feynman]]
+- [[Richard-Mayer|Richard Mayer]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Robert Boice]]
 - [[Schraw and Moshman]]
 - [[Sebastian Leitner]]
@@ -1064,7 +1064,7 @@ extraction_summary:
 - [[Transfer Problem]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[William Jones]]
-- [[Winne and Hadwin]]
+- [[Winne-and-Hadwin|Winne and Hadwin]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method and Its Metacognitive Implications]]
@@ -1074,9 +1074,9 @@ extraction_summary:
 - [[Zimmerman]]
 - [[associationist]]
 - [[cognitive overload]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[graph view]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 - [[shiny object syndrome]]
 - [[wiki-link]]
@@ -1090,13 +1090,13 @@ extraction_summary:
 | 2 | [[Zettelkasten]] | — | — | 📋 Document Map | 32 |
 | 3 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 📋 Document Map | 32 |
 | 4 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 📋 Document Map | 32 |
-| 5 | [[John Flavell]] | — | — | 🔭 The Architecture of Thinking About ... | 43 |
+| 5 | [[John-Flavell|John Flavell]] | — | — | 🔭 The Architecture of Thinking About ... | 43 |
 | 6 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 🔭 The Architecture of Thinking About ... | 45 |
 | 7 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 🔭 The Architecture of Thinking About ... | 45 |
 | 8 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🔭 The Architecture of Thinking About ... | 50 |
-| 9 | [[Declarative Metacognitive Knowledge]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 56 |
-| 10 | [[Procedural Metacognitive Knowledge]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 58 |
-| 11 | [[Conditional Metacognitive Knowledge]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 60 |
+| 9 | [[declarative-metacognitive-knowledge|Declarative Metacognitive Knowledge]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 56 |
+| 10 | [[procedural-metacognitive-knowledge|Procedural Metacognitive Knowledge]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 58 |
+| 11 | [[conditional-metacognitive-knowledge|Conditional Metacognitive Knowledge]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 60 |
 | 12 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 60 |
 | 13 | [[Metacognition]] | — | — | 🧩 The Three Types of Metacognitive Kn... | 63 |
 | 14 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | 🌊 The Dual-Process Background | 67 |
@@ -1105,8 +1105,8 @@ extraction_summary:
 | 17 | [[Socrates]] | — | — | 📜 The Ancient Roots of Self-Knowledge | 90 |
 | 18 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 📜 The Ancient Roots of Self-Knowledge | 90 |
 | 19 | [[John Locke]] | — | — | 📜 The Ancient Roots of Self-Knowledge | 92 |
-| 20 | [[John Flavell]] | — | — | 🔬 Flavell and the Formalization of Me... | 96 |
-| 21 | [[Ann Brown]] | — | — | 🔬 Flavell and the Formalization of Me... | 103 |
+| 20 | [[John-Flavell|John Flavell]] | — | — | 🔬 Flavell and the Formalization of Me... | 96 |
+| 21 | [[Ann-Brown|Ann Brown]] | — | — | 🔬 Flavell and the Formalization of Me... | 103 |
 | 22 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🏗️ The Architecture of Self-Regulated... | 107 |
 | 23 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | 🏗️ The Architecture of Self-Regulated... | 107 |
 | 24 | [[Philip Winne]] | — | — | 🏗️ The Architecture of Self-Regulated... | 107 |
@@ -1121,8 +1121,8 @@ extraction_summary:
 | 33 | [[Collector's Fallacy]] | — | — | 🔥 Tension I: Can Knowledge Be Managed... | 144 |
 | 34 | [[Sensemaking]] | — | — | 🔥 Tension I: Can Knowledge Be Managed... | 149 |
 | 35 | [[Marshall McLuhan]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 153 |
-| 36 | [[Andy Clark]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 153 |
-| 37 | [[David Chalmers]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 153 |
+| 36 | [[Andy-Clark|Andy Clark]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 153 |
+| 37 | [[David-Chalmers|David Chalmers]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 153 |
 | 38 | [[Obsidian]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 157 |
 | 39 | [[wiki-link]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 160 |
 | 40 | [[graph view]] | — | — | ⚖️ Tension II: The Tool Shapes the Th... | 160 |
@@ -1153,7 +1153,7 @@ extraction_summary:
 | 65 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | 🔬 Progressive Summarization as Metaco... | 242 |
 | 66 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🪞 Reflection Practices and the Review... | 254 |
 | 67 | [[Remote Associates]] | remote associative thinking | — | 🧪 Implementing the Metacognitive PKM ... | 271 |
-| 68 | [[Winne and Hadwin]] | — | — | 🌳 Toward a Metacognitive Architecture... | 300 |
+| 68 | [[Winne-and-Hadwin|Winne and Hadwin]] | — | — | 🌳 Toward a Metacognitive Architecture... | 300 |
 | 69 | [[James Webb Young]] | — | — | 🌱 The Creativity Dimension: From Know... | 306 |
 | 70 | [[Mark Jung-Beeman]] | — | — | 🌱 The Creativity Dimension: From Know... | 306 |
 | 71 | [[John Keats]] | — | — | 🌱 The Creativity Dimension: From Know... | 310 |
@@ -1180,10 +1180,10 @@ extraction_summary:
 | 92 | [[PARA Method]] | PARA framework | — | 🧠 The Architecture of the Thinking Se... | 482 |
 | 93 | [[Obsidian]] | — | — | 🧠 The Architecture of the Thinking Se... | 482 |
 | 94 | [[Notion]] | — | — | 🧠 The Architecture of the Thinking Se... | 482 |
-| 95 | [[metacognition]] | — | — | 🧠 The Architecture of the Thinking Se... | 484 |
-| 96 | [[John H. Flavell]] | — | — | 🧠 The Architecture of the Thinking Se... | 484 |
+| 95 | [[Metacognition]] | — | — | 🧠 The Architecture of the Thinking Se... | 484 |
+| 96 | [[John-H.-Flavell|John H. Flavell]] | — | — | 🧠 The Architecture of the Thinking Se... | 484 |
 | 97 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | 🧠 The Architecture of the Thinking Se... | 486 |
-| 98 | [[deliberate practice]] | — | — | 🧠 The Architecture of the Thinking Se... | 486 |
+| 98 | [[Deliberate-Practice|deliberate practice]] | — | — | 🧠 The Architecture of the Thinking Se... | 486 |
 | 99 | [[Fluency-Illusion|Fluency Illusion]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 499 |
 | 100 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 510 |
 | 101 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 510 |
@@ -1192,20 +1192,20 @@ extraction_summary:
 | 104 | [[The Cognitive Architecture of Human Memory]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 523 |
 | 105 | [[Working-Memory|Working Memory]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
 | 106 | [[Alan-Baddeley|Alan Baddeley]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
-| 107 | [[George Miller]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
+| 107 | [[George-Miller|George Miller]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
 | 108 | [[Nelson Cowan]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
 | 109 | [[cognitive overload]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
 | 110 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 524 |
 | 111 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 526 |
 | 112 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 526 |
 | 113 | [[Metacognition as the Regulatory Layer of Cognition]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 529 |
-| 114 | [[John H. Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 530 |
-| 115 | [[Ann Brown]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 532 |
+| 114 | [[John-H.-Flavell|John H. Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 530 |
+| 115 | [[Ann-Brown|Ann Brown]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 532 |
 | 116 | [[The Forgetting Curve and the Power of Retrieval Practice]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 535 |
-| 117 | [[Hermann Ebbinghaus]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 536 |
+| 117 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 536 |
 | 118 | [[Forgetting-Curve|Forgetting Curve]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 536 |
 | 119 | [[Sebastian Leitner]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 540 |
-| 120 | [[Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 540 |
+| 120 | [[Robert-Bjork|Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 540 |
 | 121 | [[Henry Roediger III]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 540 |
 | 122 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 540 |
 | 123 | [[Testing-Effect|Testing Effect]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 540 |
@@ -1220,10 +1220,10 @@ extraction_summary:
 | 132 | [[Fluency-Illusion|Fluency Illusion]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 552 |
 | 133 | [[The Principle of Elaborative Encoding and Generative Processing]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 555 |
 | 134 | [[Endel Tulving]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 556 |
-| 135 | [[Richard Mayer]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 556 |
-| 136 | [[Cognitive Theory of Multimedia Learning]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 556 |
+| 135 | [[Richard-Mayer|Richard Mayer]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 556 |
+| 136 | [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 556 |
 | 137 | [[Craik and Lockhart]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 558 |
-| 138 | [[Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 558 |
+| 138 | [[Robert-Bjork|Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 558 |
 | 139 | [[Working-Memory|working memory]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 565 |
 | 140 | [[Metacognition]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 567 |
 | 141 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | Metacognitive blindness | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 569 |
@@ -1238,12 +1238,12 @@ extraction_summary:
 | 150 | [[Zettelkasten]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 608 |
 | 151 | [[Obsidian]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 608 |
 | 152 | [[Dunning]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 608 |
-| 153 | [[Benjamin Bloom]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 610 |
+| 153 | [[Benjamin-Bloom|Benjamin Bloom]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 610 |
 | 154 | [[Taxonomy of Learning Objectives]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 610 |
 | 155 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 615 |
 | 156 | [[Fluency-Illusion|Fluency Illusion]] | fluency illusions | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 615 |
 | 157 | [[The Feynman Technique]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 617 |
-| 158 | [[Richard Feynman]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 617 |
+| 158 | [[Richard-Feynman|Richard Feynman]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 617 |
 | 159 | [[Testing-Effect|Testing Effect]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 619 |
 | 160 | [[Procrastination]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 623 |
 | 161 | [[Niklas Luhmann]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 623 |
@@ -1259,9 +1259,9 @@ extraction_summary:
 | 171 | [[Intelligence-as-Information-Recall]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 657 |
 | 172 | [[Expertise-as-Tool-Mastery]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 657 |
 | 173 | [[Metacognition — Flavell's Framework]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 663 |
-| 174 | [[John H. Flavell]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 664 |
+| 174 | [[John-H.-Flavell|John H. Flavell]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 664 |
 | 175 | [[The Forgetting Curve and Retrieval Practice]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 666 |
-| 176 | [[Hermann Ebbinghaus]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 667 |
+| 176 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 667 |
 | 177 | [[Testing-Effect|Testing Effect]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 667 |
 | 178 | [[Self-Regulated Learning — Zimmerman's Cycle]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 669 |
 | 179 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 670 |
@@ -1288,30 +1288,30 @@ extraction_summary:
 | 200 | [[Metacognition]] | — | — | 🧱 First-Principles-Structural-Scaffol... | 768 |
 | 201 | [[Building a Second Brain]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 783 |
 | 202 | [[Zettelkasten]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 783 |
-| 203 | [[Metacognitive Self-Regulation]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 791 |
+| 203 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 791 |
 | 204 | [[Metacognitive]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 799 |
 | 205 | [[The Ebbinghaus Forgetting Curve and Memory Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 814 |
-| 206 | [[Hermann Ebbinghaus]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 815 |
+| 206 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 815 |
 | 207 | [[The Distinction Between Surface Knowledge and Structural Knowledge]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 818 |
 | 208 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 209 | [[Chi, Feltovich, and Glaser]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 210 | [[Synaptic-Consolidation|Synaptic Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 211 | [[Long-Term Potentiation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 212 | [[The Metacognitive Architecture: Flavell's Two-Component Model]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 822 |
-| 213 | [[John Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
+| 213 | [[John-Flavell|John Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
 | 214 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
 | 215 | [[The Feynman Technique]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
 | 216 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
 | 217 | [[The Transfer Problem and Contextual Encoding of Knowledge]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 826 |
-| 218 | [[Diane Halpern]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 827 |
+| 218 | [[Diane-Halpern|Diane Halpern]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 827 |
 | 219 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 827 |
 | 220 | [[Structural Encoding]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 827 |
 | 221 | [[Calibration and the Dunning-Kruger Topology of Self-Knowledge]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 830 |
 | 222 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
 | 223 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
-| 224 | [[Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
+| 224 | [[Robert-Bjork|Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
 | 225 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 841 |
-| 226 | [[John Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 842 |
+| 226 | [[John-Flavell|John Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 842 |
 | 227 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 843 |
 | 228 | [[Transfer Problem]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 844 |
 | 229 | [[Metacognitive Practice Architecture]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 854 |
@@ -1454,12 +1454,12 @@ $$
 - [[Adrian Wells]]
 - [[Alain Hadwin]]
 - [[Alan-Baddeley|Alan Baddeley]]
-- [[Andy Clark]]
+- [[Andy-Clark|Andy Clark]]
 - [[Anki]]
-- [[Ann Brown]]
+- [[Ann-Brown|Ann Brown]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Benjamin Bloom]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bidirectional Linking]]
 - [[Bloom's Taxonomy as a Metacognitive Assessment Tool]]
 - [[Building a Second Brain]]
@@ -1470,22 +1470,22 @@ $$
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory — Sweller 1988]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
-- [[Cognitive Theory of Multimedia Learning]]
+- [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Collector's Fallacy]]
-- [[Conditional Metacognitive Knowledge]]
+- [[conditional-metacognitive-knowledge|Conditional Metacognitive Knowledge]]
 - [[Craik and Lockhart]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Cynefin Framework]]
 - [[Dale Schunk]]
 - [[Dataview]]
 - [[Dave Snowden]]
-- [[David Chalmers]]
+- [[David-Chalmers|David Chalmers]]
 - [[David Dunning]]
-- [[Declarative Metacognitive Knowledge]]
+- [[declarative-metacognitive-knowledge|Declarative Metacognitive Knowledge]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulties Theory]]
 - [[Desirable Difficulties — Robert Bjork]]
-- [[Diane Halpern]]
+- [[Diane-Halpern|Diane Halpern]]
 - [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dunning]]
@@ -1504,17 +1504,17 @@ $$
 - [[First-Principle Nodes]]
 - [[Fluency-Illusion|Fluency Illusion]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[George Miller]]
+- [[George-Miller|George Miller]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
 - [[Graph View]]
 - [[Henry Roediger III]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Intelligence-as-Information-Recall]]
 - [[Interleaving]]
 - [[James Webb Young]]
-- [[John Flavell]]
-- [[John H. Flavell]]
+- [[John-Flavell|John Flavell]]
+- [[John-H.-Flavell|John H. Flavell]]
 - [[John Keats]]
 - [[John Locke]]
 - [[Justin Kruger]]
@@ -1536,7 +1536,7 @@ $$
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Practice Architecture]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
-- [[Metacognitive Self-Regulation]]
+- [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Metacognitive Therapy]]
 - [[Negative Capability]]
 - [[Nelson Cowan]]
@@ -1550,7 +1550,7 @@ $$
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philip Tetlock]]
 - [[Philip Winne]]
-- [[Procedural Metacognitive Knowledge]]
+- [[procedural-metacognitive-knowledge|Procedural Metacognitive Knowledge]]
 - [[Procrastination]]
 - [[Productivity-as-Output-Maximization]]
 - [[Progressive-Summarization|Progressive Summarization]]
@@ -1558,9 +1558,9 @@ $$
 - [[Remote Associates]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
-- [[Richard Feynman]]
-- [[Richard Mayer]]
-- [[Robert Bjork]]
+- [[Richard-Feynman|Richard Feynman]]
+- [[Richard-Mayer|Richard Mayer]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Robert Boice]]
 - [[Schraw and Moshman]]
 - [[Sebastian Leitner]]
@@ -1606,7 +1606,7 @@ $$
 - [[Transfer Problem]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[William Jones]]
-- [[Winne and Hadwin]]
+- [[Winne-and-Hadwin|Winne and Hadwin]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method and Its Metacognitive Implications]]
@@ -1616,9 +1616,9 @@ $$
 - [[Zimmerman]]
 - [[associationist]]
 - [[cognitive overload]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[graph view]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 - [[shiny object syndrome]]
 - [[wiki-link]]

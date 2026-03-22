@@ -199,13 +199,13 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Organization within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents the systematic structuring of information to optimize retrieval, facilitate connections, and support knowledge work. This reference note explores the theoretical foundations, practical frameworks, and implementation strategies for organizing personal knowledge bases, with particular emphasis on [[obsidian]] and evidence-based cognitive principles.
+> Organization within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents the systematic structuring of information to optimize retrieval, facilitate connections, and support knowledge work. This reference note explores the theoretical foundations, practical frameworks, and implementation strategies for organizing personal knowledge bases, with particular emphasis on [[Obsidian]] and evidence-based cognitive principles.
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 33)*
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering all aspects of organization in PKM contexts. Use the table of contents below for quick navigation, or search for specific terms using [[Wiki-Links]]. Sections progress from theoretical foundations through practical implementation to advanced optimization strategies.
+> This reference note is organized into 10 major sections covering all aspects of organization in PKM contexts. Use the table of contents below for quick navigation, or search for specific terms using [[wiki-links]]. Sections progress from theoretical foundations through practical implementation to advanced optimization strategies.
 
 #### 4. [DEFINITION] Untitled *(Line 54)*
 
@@ -484,7 +484,7 @@ extraction_summary:
 > Imagine you need to find a specific note you created six months ago. You remember the general topic but not the exact title. A well-organized system should provide multiple pathways:
 > 1. **Memory path**: "I was working on Project X then" → Navigate to project folder
 > 2. **Categorical path**: "It was about cognitive science" → Search `#cognitive-science `tag
-> 3. **Associative path**: "It connected to my note on schemas" → Follow links from [[Schemas]]
+> 3. **Associative path**: "It connected to my note on schemas" → Follow links from [[schemas]]
 > 4. **Temporal path**: "It was around when I read that book" → Check notes from that timeframe
 > 5. **Semantic path**: Full-text search for key terms
 > 
@@ -541,14 +541,14 @@ extraction_summary:
 - [[Related Note 1]]
 - [[Related Note 2]]
 - [[Related Note 3]]
-- [[Schemas]]
+- [[schemas]]
 - [[Taxonomy]]
 - [[Wiki-Link]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Zettelkasten]]
 - [[double bracket syntax]]
 - [[double brackets]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[para method]]
 
 ### All Occurrences
@@ -556,13 +556,13 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Document Start | 31 |
-| 2 | [[obsidian]] | — | — | Document Start | 31 |
-| 3 | [[Wiki-Links]] | — | — | Document Start | 35 |
+| 2 | [[Obsidian]] | — | — | Document Start | 31 |
+| 3 | [[wiki-links]] | — | — | Document Start | 35 |
 | 4 | [[Personal Knowledge Bases]] | — | — | Organizational Dimensions in Knowledg... | 74 |
 | 5 | [[Taxonomy]] | — | — | Organizational Dimensions in Knowledg... | 76 |
 | 6 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]] | — | — | Organizational Dimensions in Knowledg... | 76 |
-| 7 | [[Wiki-Links]] | — | — | Organizational Dimensions in Knowledg... | 78 |
-| 8 | [[Wiki-Links]] | — | — | Technical Specifications of Organizat... | 95 |
+| 7 | [[wiki-links]] | — | — | Organizational Dimensions in Knowledg... | 78 |
+| 8 | [[wiki-links]] | — | — | Technical Specifications of Organizat... | 95 |
 | 9 | [[Mental frameworks]] | — | — | 2. 🧠 Cognitive Principles Underlying ... | 104 |
 | 10 | [[Chunking]] | — | — | Working Memory and Organizational Sca... | 124 |
 | 11 | [[para method]] | — | — | 3. 🎯 Organizational Frameworks & Meth... | 163 |
@@ -576,7 +576,7 @@ extraction_summary:
 | 19 | [[double brackets]] | — | — | 4. 🏛️ Obsidian-Specific Organizationa... | 246 |
 | 20 | [[Frontmatter]] | — | — | 4. 🏛️ Obsidian-Specific Organizationa... | 247 |
 | 21 | [[double bracket syntax]] | — | — | The Three Pillars of Obsidian Organiz... | 318 |
-| 22 | [[Wiki-Links]] | — | — | The Three Pillars of Obsidian Organiz... | 322 |
+| 22 | [[wiki-links]] | — | — | The Three Pillars of Obsidian Organiz... | 322 |
 | 23 | [[Note Title]] | Display Text | — | The Three Pillars of Obsidian Organiz... | 325 |
 | 24 | [[Fundamental Concept 1]] | — | — | Core Concepts | 350 |
 | 25 | [[Fundamental Concept 2]] | — | — | Core Concepts | 351 |
@@ -590,7 +590,7 @@ extraction_summary:
 | 33 | [[Project Name]] | — | — | Metadata Architecture in Knowledge Ma... | 425 |
 | 34 | [[Area of Responsibility]] | — | — | Metadata Architecture in Knowledge Ma... | 426 |
 | 35 | [[Wiki-Link]] | — | — | Link Types and Semantic Relationships | 595 |
-| 36 | [[Schemas]] | — | — | Cognitive Models for Understanding Or... | 1206 |
+| 36 | [[schemas]] | — | — | Cognitive Models for Understanding Or... | 1206 |
 | 37 | [[Advanced Dataview Queries for Dynamic Organization]] | — | — | 🔗 Related Topics for PKB Expansion | 1289 |
 | 38 | [[Cognitive Load Theory Applied to Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1294 |
 | 39 | [[MOC Design Patterns and Best Practices]] | — | — | 🔗 Related Topics for PKB Expansion | 1299 |
@@ -990,7 +990,7 @@ Depth requirement: HIGH - This is a foundational topic for the user's PKM master
 | **Storage Layer** | Physical/logical file storage | File system, database | Markdown files in vault folder |
 | **Structure Layer** | Hierarchical organization | Folders, subfolders | Numbered prefix folders |
 | **Classification Layer** | Categorical grouping | Tags, metadata | YAML frontmatter, inline tags |
-| **Connection Layer** | Associative linking | Internal links, backlinks | [[Wiki-Links]], graph view |
+| **Connection Layer** | Associative linking | Internal links, backlinks | [[wiki-links]], graph view |
 | **Discovery Layer** | Search and retrieval | Full-text search, filters | Omnisearch, tag explorer |
 | **Interface Layer** | User interaction | Visual presentation | File browser, graph, canvas |
 
@@ -1125,14 +1125,14 @@ Depth requirement: HIGH - This is a foundational topic for the user's PKM master
 - [[Related Note 1]]
 - [[Related Note 2]]
 - [[Related Note 3]]
-- [[Schemas]]
+- [[schemas]]
 - [[Taxonomy]]
 - [[Wiki-Link]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Zettelkasten]]
 - [[double bracket syntax]]
 - [[double brackets]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[para method]]
 
 ---

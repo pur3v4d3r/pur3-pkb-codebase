@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +79,14 @@ see-also:
   - "[[System-1|System 1]]"
   - "[[Intellectual-Virtues|Intellectual Virtues]]"
   - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Jonathan-Evans|Jonathan Evans]]"
+  - "[[Keith-Stanovich|Keith Stanovich]]"
+  - "[[Stanovich|Stanovich]]"
+  - "[[Examined-Life|Examined Life]]"
+  - "[[System-1|System 1]]"
+  - "[[Intellectual-Virtues|Intellectual Virtues]]"
+  - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +113,7 @@ importance: high
 # Type 2 Processing
 
 > [!definition] **Type 2 Processing**
-> The controlled, slow, serial cognitive processes that require [[Working Memory]] resources, compete with other cognitive demands for cognitive capacity, and involve what Stanovich calls *[[Cognitive-Decoupling|cognitive decoupling]]* — the capacity to hold representations of potential states of affairs in mind while keeping them separated from one's current representations of the actual state of affairs. Type 2 is the machinery of hypothetical thinking: the capacity to reason about what might be, or what was, without confusing those simulations with what is. Its defining property is this decoupling requirement, which is why sustained Type 2 engagement is metabolically and cognitively expensive.
+> The controlled, slow, serial cognitive processes that require [[Working-Memory]] resources, compete with other cognitive demands for cognitive capacity, and involve what Stanovich calls *[[Cognitive-Decoupling|cognitive decoupling]]* — the capacity to hold representations of potential states of affairs in mind while keeping them separated from one's current representations of the actual state of affairs. Type 2 is the machinery of hypothetical thinking: the capacity to reason about what might be, or what was, without confusing those simulations with what is. Its defining property is this decoupling requirement, which is why sustained Type 2 engagement is metabolically and cognitively expensive.
 
 ## Core Explanation
 
@@ -145,4 +153,8 @@ importance: high
 
 **Related concepts** *(from report-06-taming-system-1.md)*:
 [[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Cognitive-Decoupling|Cognitive Decoupling]]
+
+**Related concepts** *(from report-06-taming-system-1.md)*:
+[[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Cognitive-Decoupling|Cognitive Decoupling]]
+
 

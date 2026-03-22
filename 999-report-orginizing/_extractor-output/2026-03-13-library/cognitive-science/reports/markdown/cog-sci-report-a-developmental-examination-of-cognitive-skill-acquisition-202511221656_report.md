@@ -233,7 +233,7 @@ extraction_summary:
 - [[Cognitive Mastery]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Divergent Thinking]]
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
@@ -258,7 +258,7 @@ extraction_summary:
 | 4 | [[Novice to Expert Continuum]] | — | — | Expertise Development | 30 |
 | 5 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 1\. Define Core Parameters | 38 |
 | 6 | [[Andragogy]] | — | — | 1\. Define Core Parameters | 38 |
-| 7 | [[Deliberate Practice]] | — | — | 1\. Define Core Parameters | 38 |
+| 7 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 1\. Define Core Parameters | 38 |
 | 8 | [[Metacognition]] | — | — | 1\. Define Core Parameters | 38 |
 | 9 | [[Neuroplasticity]] | — | — | 1\. Define Core Parameters | 38 |
 | 10 | [[Dreyfus Model]] | — | — | 1\. Define Core Parameters | 38 |
@@ -357,7 +357,7 @@ $$
 - [[Cognitive Mastery]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Divergent Thinking]]
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]

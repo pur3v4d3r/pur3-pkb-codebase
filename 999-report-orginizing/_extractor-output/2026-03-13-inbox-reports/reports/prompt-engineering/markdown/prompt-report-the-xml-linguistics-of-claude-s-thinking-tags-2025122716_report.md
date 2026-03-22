@@ -527,7 +527,7 @@ extraction_summary:
 - [[**The XML Linguistics of Claude's Thinking Tags
 **]]
 - [[Advanced Prompt Engineering Architectures]]
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain of Verification]]
 - [[Chain of Verification Implementations]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -553,9 +553,9 @@ extraction_summary:
 | 3 | [[Working-Memory|Working Memory]] | — | — | 1.1 The Foundational Mechanism: Tags ... | 192 |
 | 4 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | 1.3 Distributed Cognition: Offloading... | 229 |
 | 5 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 1.4 Theoretical Grounding: Why Struct... | 297 |
-| 6 | [[Chain of Thought]] | — | — | **Function Class 2: Reasoning Phase M... | 358 |
+| 6 | [[Chain-of-Thought|Chain of Thought]] | — | — | **Function Class 2: Reasoning Phase M... | 358 |
 | 7 | [[Structured Outputs]] | — | — | **Function Class 5: Data Structuring** | 463 |
-| 8 | [[Chain of Thought]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 506 |
+| 8 | [[Chain-of-Thought|Chain of Thought]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 506 |
 | 9 | [[Chain of Verification]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 511 |
 | 10 | [[Few-Shot Prompting]] | — | — | **Pattern 3: The Multi-Shot Example C... | 1175 |
 | 11 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | 7.2 Future Directions | 1318 |
@@ -1518,7 +1518,7 @@ description includes Review
 
 | **Tag Pattern** | **Reasoning Operation** | **Mechanism** |
 | --- | --- | --- |
-| `<thinking>` | Explicit step-by-step reasoning | Activates [[Chain of Thought]] mode |
+| `<thinking>` | Explicit step-by-step reasoning | Activates [[Chain-of-Thought|Chain of Thought]] mode |
 | `<analysis>` | Breaking down into components | Triggers decomposition heuristics |
 | `<synthesis>` | Combining insights | Activates integration processes |
 | `<evaluation>` | Critical assessment | Engages evaluation criteria |
@@ -1565,7 +1565,7 @@ description includes Review
 - [[**The XML Linguistics of Claude's Thinking Tags
 **]]
 - [[Advanced Prompt Engineering Architectures]]
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain of Verification]]
 - [[Chain of Verification Implementations]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

@@ -300,7 +300,7 @@ extraction_summary:
 > 
 > The **third fundamental truth** is the **Primacy of [[Domain Knowledge]]**. All complex cognitive processes—such as problem-solving, critical thinking, and, yes, self-regulation—are utterly dependent on, and guided by, the content of [[Long-Term-Memory|Long-Term Memory]]. An "empty" brain cannot think, plan, or monitor.
 > 
-> The **fourth fundamental truth** is the **Mechanism of [[Schemas]]**. Knowledge is not stored as a random list of facts. It is organized into interconnected structures or models called schemas. These schemas are what allow experts to bypass the limits of [[Working-Memory|Working Memory]] by treating complex, multi-part ideas as a single "chunk."
+> The **fourth fundamental truth** is the **Mechanism of [[schemas]]**. Knowledge is not stored as a random list of facts. It is organized into interconnected structures or models called schemas. These schemas are what allow experts to bypass the limits of [[Working-Memory|Working Memory]] by treating complex, multi-part ideas as a single "chunk."
 
 #### 16. [CORE-PRINCIPLE] Untitled *(Line 184)*
 
@@ -371,7 +371,7 @@ extraction_summary:
 #### 23. [PRINCIPLE-POINT] Untitled *(Line 248)*
 
 > [!principle-point] Untitled
-> **Axiom 3: The [[Schemas]] Mechanism**
+> **Axiom 3: The [[schemas]] Mechanism**
 > 
 >   * **Statement:** Knowledge is not stored in LTM as a disorganized pile of facts. It is organized into high-level, interconnected structures called "schemas." A schema (e.g., your "schema" for "what a dog is," or a physicist's "schema" for "conservation of energy") incorporates many individual elements into a single, functional "chunk."
 >   * **Why This Is Axiomatic:** This principle, developed by cognitive scientists like Chase, Simon, and Chi, is the only coherent explanation for the Novice-Expert Gap (our key observable phenomenon). It explains *how* LTM (Axiom 2) solves the WM bottleneck (Axiom 1).
@@ -874,7 +874,7 @@ extraction_summary:
 > [!summary] Untitled
 > We began this analysis by examining a common artifact: the "study skills workshop," built on the "received wisdom" that [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] is a set of general-purpose, transferable skills. We accepted this premise on authority, yet we were confronted by its persistent failures—its inability to transfer, its failure to explain the gap between novice and expert. The conventional model was a house built on sand, mistaking the *symptoms* of expertise for the *cause*.
 > 
-> Through systematic deconstruction, we demolished that house. We threw out the flimsy, assumed "skills" of "planning" and "monitoring" and dug down to the non-negotiable bedrock of human cognition: the **[[Working-Memory|Working Memory]] Constraint**, the **[[Long-Term-Memory|Long-Term Memory]] Primacy**, and the **[[Schemas]] Mechanism**. These three axioms formed the indestructible foundation for our reconstruction.
+> Through systematic deconstruction, we demolished that house. We threw out the flimsy, assumed "skills" of "planning" and "monitoring" and dug down to the non-negotiable bedrock of human cognition: the **[[Working-Memory|Working Memory]] Constraint**, the **[[Long-Term-Memory|Long-Term Memory]] Primacy**, and the **[[schemas]] Mechanism**. These three axioms formed the indestructible foundation for our reconstruction.
 > 
 > From this foundation, we built a new structure, deriving *by pure logic* the *entire* phenomenon of learning. We proved that the novice *cannot* self-regulate (T1.1) and that the expert *cannot help* but self-regulate (T2.1). We proved that "self-regulation" is not a "skill" at all, but an *emergent property of deep, domain-specific knowledge*. We proved that the "general skill" is a fallacy (T3.1) and that the only path to regulation is through the acquisition of knowledge. This arduous process was not just an academic exercise; it was the act of *taking ownership* of knowledge, moving from "what I was told" to "what I can prove." The knowledge is now, truly, ours.
 
@@ -951,7 +951,7 @@ extraction_summary:
 - [[Political Ideologies]]
 - [[Problem Solving]]
 - [[Schema|Schema (Psychology)]]
-- [[Schemas]]
+- [[schemas]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[The Fallacy of General Skills]]
 - [[The Nature of Proof and Derivation]]
@@ -991,7 +991,7 @@ extraction_summary:
 | 20 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 2.2 Stripping to Bedrock | 178 |
 | 21 | [[Domain Knowledge]] | — | — | 2.2 Stripping to Bedrock | 180 |
 | 22 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 2.2 Stripping to Bedrock | 180 |
-| 23 | [[Schemas]] | — | — | 2.2 Stripping to Bedrock | 182 |
+| 23 | [[schemas]] | — | — | 2.2 Stripping to Bedrock | 182 |
 | 24 | [[Working-Memory|Working Memory]] | — | — | 2.2 Stripping to Bedrock | 182 |
 | 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 2.3 The Conceptual Inventory | 211 |
 | 26 | [[Working-Memory|Working Memory]] | — | — | 2.3 The Conceptual Inventory | 211 |
@@ -1007,7 +1007,7 @@ extraction_summary:
 | 36 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 3.1 First Principles: The Axioms | 243 |
 | 37 | [[Working-Memory|Working Memory]] | — | — | 3.1 First Principles: The Axioms | 243 |
 | 38 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 3.1 First Principles: The Axioms | 245 |
-| 39 | [[Schemas]] | — | — | 3.1 First Principles: The Axioms | 249 |
+| 39 | [[schemas]] | — | — | 3.1 First Principles: The Axioms | 249 |
 | 40 | [[Working-Memory|Working Memory]] | — | — | 3.1 First Principles: The Axioms | 253 |
 | 41 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 3.1 First Principles: The Axioms | 258 |
 | 42 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 4.1 Level 1: Immediate Derivations | 314 |
@@ -1043,7 +1043,7 @@ extraction_summary:
 | 72 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 10.0 🦕 Conclusion | 806 |
 | 73 | [[Working-Memory|Working Memory]] | — | — | 10.0 🦕 Conclusion | 808 |
 | 74 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 10.0 🦕 Conclusion | 808 |
-| 75 | [[Schemas]] | — | — | 10.0 🦕 Conclusion | 808 |
+| 75 | [[schemas]] | — | — | 10.0 🦕 Conclusion | 808 |
 | 76 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | 11.0 📚 References & Resources | 822 |
 | 77 | [[Domain-Specificity]] | — | — | 11.0 📚 References & Resources | 822 |
 | 78 | [[Axiomatic Foundations of Critical Thinking]] | — | — | 11.0 📚 References & Resources | 833 |
@@ -1194,7 +1194,7 @@ graph TB
 - [[Political Ideologies]]
 - [[Problem Solving]]
 - [[Schema|Schema (Psychology)]]
-- [[Schemas]]
+- [[schemas]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[The Fallacy of General Skills]]
 - [[The Nature of Proof and Derivation]]

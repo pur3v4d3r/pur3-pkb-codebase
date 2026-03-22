@@ -151,7 +151,7 @@ extraction_summary:
 > - [[Attention Restoration Theory]] and the role of restorative environments in sustaining cognitive performance
 > - [[Habit Stacking]] and [[Implementation-Intentions|Implementation Intentions]] as practical mechanisms for behavioral integration
 > - [[Energy Management]] frameworks that prioritize vitality over mere time management
-> - [[Deliberate Practice]] methodology and the structured acquisition of workflow-related meta-skills
+> - [[Deliberate-Practice|Deliberate Practice]] methodology and the structured acquisition of workflow-related meta-skills
 > - [[decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work
 > - [[Complexity Science]] applied to personal systems: emergence, self-organization, and adaptation in workflow
 > - [[Mindfulness and Metacognition]] practices for developing awareness of one's own workflow patterns and mental states
@@ -169,7 +169,7 @@ extraction_summary:
 - [[Attention Restoration Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complexity Science]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Ego Depletion]]
 - [[Energy Management]]
 - [[Habit Stacking]]
@@ -186,7 +186,7 @@ extraction_summary:
 | 3 | [[Habit Stacking]] | — | — | Further Exploration | 133 |
 | 4 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Further Exploration | 133 |
 | 5 | [[Energy Management]] | — | — | Further Exploration | 134 |
-| 6 | [[Deliberate Practice]] | — | — | Further Exploration | 135 |
+| 6 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Further Exploration | 135 |
 | 7 | [[decision fatigue]] | — | — | Further Exploration | 136 |
 | 8 | [[Ego Depletion]] | — | — | Further Exploration | 136 |
 | 9 | [[Complexity Science]] | — | — | Further Exploration | 137 |
@@ -301,7 +301,7 @@ Let me deconstruct this user request carefully. The user is asking for topics re
 - [[Attention Restoration Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complexity Science]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Ego Depletion]]
 - [[Energy Management]]
 - [[Habit Stacking]]

@@ -155,7 +155,7 @@ extraction_summary:
 #### 5. [DEFINITION] 📖 Intellectual Virtues (Responsibilist Account) *(Line 256)*
 
 > [!definition] 📖 Intellectual Virtues (Responsibilist Account)
-> **Intellectual virtues**, in the responsibilist tradition inaugurated by [[Linda Zagzebski]] and developed by [[Jason Baehr]] and [[Heather Battaly]], are stable, cultivated character traits whose exercise reliably promotes the acquisition of truth, the avoidance of error, and the achievement of epistemic goods (understanding, justified belief, intellectual growth). They have a two-component structure: a *motivational component* (genuine care for truth, understanding, and epistemic integrity) and a *competence component* (skill in the cognitive activities the virtue involves). Crucially, they are "personal" rather than merely sub-personal — they express the agency and character of the knower, not just the mechanical operation of their cognitive faculties.
+> **Intellectual virtues**, in the responsibilist tradition inaugurated by [[Linda-Zagzebski|Linda Zagzebski]] and developed by [[Jason-Baehr|Jason Baehr]] and [[Heather-Battaly|Heather Battaly]], are stable, cultivated character traits whose exercise reliably promotes the acquisition of truth, the avoidance of error, and the achievement of epistemic goods (understanding, justified belief, intellectual growth). They have a two-component structure: a *motivational component* (genuine care for truth, understanding, and epistemic integrity) and a *competence component* (skill in the cognitive activities the virtue involves). Crucially, they are "personal" rather than merely sub-personal — they express the agency and character of the knower, not just the mechanical operation of their cognitive faculties.
 
 #### 6. [DEFINITION] 📖 Intellectual Humility *(Line 267)*
 
@@ -175,7 +175,7 @@ extraction_summary:
 #### 9. [DEFINITION] 📖 Intellectual Perseverance *(Line 276)*
 
 > [!definition] 📖 Intellectual Perseverance
-> **Intellectual perseverance**, analyzed with particular precision by [[Heather Battaly]], is the disposition to continue pursuing worthwhile epistemic goals in the face of obstacles — to maintain inquiry through cognitive difficulty, fatigue, complexity, and the temptation to settle for adequate rather than excellent understanding. Battaly identifies three components: an appropriate response to specific obstacles, genuine epistemic motivation (not mere stubbornness), and genuine epistemic goals (not the mere defense of already-held positions). The persevering person is distinguished from both the irresolute person (who gives up too early) and the intransigent person (who fails to give up when they should).
+> **Intellectual perseverance**, analyzed with particular precision by [[Heather-Battaly|Heather Battaly]], is the disposition to continue pursuing worthwhile epistemic goals in the face of obstacles — to maintain inquiry through cognitive difficulty, fatigue, complexity, and the temptation to settle for adequate rather than excellent understanding. Battaly identifies three components: an appropriate response to specific obstacles, genuine epistemic motivation (not mere stubbornness), and genuine epistemic goals (not the mere defense of already-held positions). The persevering person is distinguished from both the irresolute person (who gives up too early) and the intransigent person (who fails to give up when they should).
 
 #### 10. [DEFINITION] 📖 Intellectual Integrity *(Line 279)*
 
@@ -437,21 +437,21 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Actor-Observer Bias]]
-- [[Amos Tversky]]
+- [[Actor-Observer-Bias|Actor-Observer Bias]]
+- [[Amos-Tversky|Amos Tversky]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Askēsis]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Backfire Effect]]
-- [[Behavioral Signatures]]
-- [[Cognitive Bias Research]]
-- [[Cognitive Miserliness]]
+- [[Backfire-Effect|Backfire Effect]]
+- [[Behavioral-Signatures|Behavioral Signatures]]
+- [[Cognitive-Bias-Research|Cognitive Bias Research]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Daniel Kahneman]]
-- [[Debiasing Interventions]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
+- [[Debiasing-Interventions|Debiasing Interventions]]
 - [[Debiasing Interventions: Meta-Analysis and Design]]
-- [[Disconfirmation Bias]]
+- [[Disconfirmation-Bias|Disconfirmation Bias]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Epictetus]]
 - [[Epistemic-Cowardice|Epistemic Cowardice]]
@@ -460,8 +460,8 @@ extraction_summary:
 - [[Ethnocentrism]]
 - [[Fallibilism]]
 - [[Fundamental Attribution Error]]
-- [[Heather Battaly]]
-- [[Heuristics and Biases Program]]
+- [[Heather-Battaly|Heather Battaly]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Identity-Protective Cognition]]
 - [[Identity-Protective Cognition and Science Literacy]]
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
@@ -472,9 +472,9 @@ extraction_summary:
 - [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Intellectual Virtue Development Interventions]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Jason Baehr]]
-- [[Linda Zagzebski]]
-- [[Marcus Aurelius]]
+- [[Jason-Baehr|Jason Baehr]]
+- [[Linda-Zagzebski|Linda Zagzebski]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Naive Realism]]
 - [[Overconfidence Bias]]
@@ -487,40 +487,40 @@ extraction_summary:
 - [[Situationist Critique of Virtue Ethics]]
 - [[Stoic Askēsis as Cognitive Training Protocol]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
-- [[Stoic Virtue Ethics]]
+- [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
-- [[Ziva Kunda]]
+- [[Ziva-Kunda|Ziva Kunda]]
 - [[in-group favoritism in epistemic evaluation]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Heuristics and Biases Program]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
-| 2 | [[Daniel Kahneman]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
-| 3 | [[Amos Tversky]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
-| 4 | [[Debiasing Interventions]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 231 |
+| 1 | [[Heuristics-and-Biases-Program|Heuristics and Biases Program]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
+| 2 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
+| 3 | [[Amos-Tversky|Amos Tversky]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
+| 4 | [[Debiasing-Interventions|Debiasing Interventions]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 231 |
 | 5 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 233 |
 | 6 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 7 | [[Linda Zagzebski]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 8 | [[Jason Baehr]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 9 | [[Heather Battaly]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 10 | [[Stoic Virtue Ethics]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 7 | [[Linda-Zagzebski|Linda Zagzebski]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 8 | [[Jason-Baehr|Jason Baehr]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 9 | [[Heather-Battaly|Heather Battaly]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 10 | [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 11 | [[Epictetus]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 12 | [[Marcus Aurelius]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 13 | [[Cognitive Bias Research]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 12 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 13 | [[Cognitive-Bias-Research|Cognitive Bias Research]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 14 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 15 | [[Ziva Kunda]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 15 | [[Ziva-Kunda|Ziva Kunda]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 16 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 240 |
 | 17 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
 | 18 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | traditional epistemology | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
 | 19 | [[Reliabilism]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
-| 20 | [[Linda Zagzebski]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
-| 21 | [[Jason Baehr]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
-| 22 | [[Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
-| 23 | [[Linda Zagzebski]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 259 |
-| 24 | [[Jason Baehr]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 261 |
-| 25 | [[Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 263 |
+| 20 | [[Linda-Zagzebski|Linda Zagzebski]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
+| 21 | [[Jason-Baehr|Jason Baehr]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
+| 22 | [[Heather-Battaly|Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
+| 23 | [[Linda-Zagzebski|Linda Zagzebski]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 259 |
+| 24 | [[Jason-Baehr|Jason Baehr]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 261 |
+| 25 | [[Heather-Battaly|Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 263 |
 | 26 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 263 |
 | 27 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
 | 28 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
@@ -528,44 +528,44 @@ extraction_summary:
 | 30 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
 | 31 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
 | 32 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 271 |
-| 33 | [[Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 277 |
+| 33 | [[Heather-Battaly|Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 277 |
 | 34 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 280 |
 | 35 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 284 |
 | 36 | [[Epictetus]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
-| 37 | [[Marcus Aurelius]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
+| 37 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
 | 38 | [[Askēsis]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
 | 39 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 293 |
-| 40 | [[Heuristics and Biases Program]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 300 |
+| 40 | [[Heuristics-and-Biases-Program|Heuristics and Biases Program]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 300 |
 | 41 | [[Overconfidence Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
 | 42 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
 | 43 | [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
 | 44 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
-| 45 | [[Disconfirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
-| 46 | [[Backfire Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
+| 45 | [[Disconfirmation-Bias|Disconfirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
+| 46 | [[Backfire-Effect|Backfire Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
 | 47 | [[Fundamental Attribution Error]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 48 | [[Naive Realism]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 49 | [[Perspective-Taking Failures]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 50 | [[Ethnocentrism]] | in-group favoritism in epistemic evaluation | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 51 | [[Satisficing]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
 | 52 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
-| 53 | [[Cognitive Miserliness]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
-| 54 | [[Ziva Kunda]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
+| 53 | [[Cognitive-Miserliness|Cognitive Miserliness]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
+| 54 | [[Ziva-Kunda|Ziva Kunda]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
 | 55 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
-| 56 | [[Actor-Observer Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
+| 56 | [[Actor-Observer-Bias|Actor-Observer Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
 | 57 | [[Identity-Protective Cognition]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
 | 58 | [[Situationist Critique]] | — | — | ⚖️ Conceptual Tension: Character Trai... | 342 |
-| 59 | [[Behavioral Signatures]] | — | — | ⚖️ Conceptual Tension: Character Trai... | 350 |
-| 60 | [[Ziva Kunda]] | — | — | 🔍 Conceptual Tension: Virtue Ethics v... | 365 |
+| 59 | [[Behavioral-Signatures|Behavioral Signatures]] | — | — | ⚖️ Conceptual Tension: Character Trai... | 350 |
+| 60 | [[Ziva-Kunda|Ziva Kunda]] | — | — | 🔍 Conceptual Tension: Virtue Ethics v... | 365 |
 | 61 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🗺️ The Complete Correspondence Map | 384 |
 | 62 | [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] | — | — | 🗺️ The Complete Correspondence Map | 384 |
 | 63 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
-| 64 | [[Disconfirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
-| 65 | [[Backfire Effect]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
+| 64 | [[Disconfirmation-Bias|Disconfirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
+| 65 | [[Backfire-Effect|Backfire Effect]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 66 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 67 | [[Naive Realism]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 68 | [[Fundamental Attribution Error]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 69 | [[in-group favoritism in epistemic evaluation]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
-| 70 | [[Cognitive Miserliness]] | — | — | 🗺️ The Complete Correspondence Map | 396 |
+| 70 | [[Cognitive-Miserliness|Cognitive Miserliness]] | — | — | 🗺️ The Complete Correspondence Map | 396 |
 | 71 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🗺️ The Complete Correspondence Map | 398 |
 | 72 | [[Identity-Protective Cognition]] | — | — | 🗺️ The Complete Correspondence Map | 400 |
 | 73 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 462 |
@@ -617,21 +617,21 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Actor-Observer Bias]]
-- [[Amos Tversky]]
+- [[Actor-Observer-Bias|Actor-Observer Bias]]
+- [[Amos-Tversky|Amos Tversky]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Askēsis]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Backfire Effect]]
-- [[Behavioral Signatures]]
-- [[Cognitive Bias Research]]
-- [[Cognitive Miserliness]]
+- [[Backfire-Effect|Backfire Effect]]
+- [[Behavioral-Signatures|Behavioral Signatures]]
+- [[Cognitive-Bias-Research|Cognitive Bias Research]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Daniel Kahneman]]
-- [[Debiasing Interventions]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
+- [[Debiasing-Interventions|Debiasing Interventions]]
 - [[Debiasing Interventions: Meta-Analysis and Design]]
-- [[Disconfirmation Bias]]
+- [[Disconfirmation-Bias|Disconfirmation Bias]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Epictetus]]
 - [[Epistemic-Cowardice|Epistemic Cowardice]]
@@ -640,8 +640,8 @@ extraction_summary:
 - [[Ethnocentrism]]
 - [[Fallibilism]]
 - [[Fundamental Attribution Error]]
-- [[Heather Battaly]]
-- [[Heuristics and Biases Program]]
+- [[Heather-Battaly|Heather Battaly]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Identity-Protective Cognition]]
 - [[Identity-Protective Cognition and Science Literacy]]
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
@@ -652,9 +652,9 @@ extraction_summary:
 - [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Intellectual Virtue Development Interventions]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Jason Baehr]]
-- [[Linda Zagzebski]]
-- [[Marcus Aurelius]]
+- [[Jason-Baehr|Jason Baehr]]
+- [[Linda-Zagzebski|Linda Zagzebski]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Naive Realism]]
 - [[Overconfidence Bias]]
@@ -667,9 +667,9 @@ extraction_summary:
 - [[Situationist Critique of Virtue Ethics]]
 - [[Stoic Askēsis as Cognitive Training Protocol]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
-- [[Stoic Virtue Ethics]]
+- [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
-- [[Ziva Kunda]]
+- [[Ziva-Kunda|Ziva Kunda]]
 - [[in-group favoritism in epistemic evaluation]]
 
 ### Frontmatter Relationships
@@ -687,7 +687,7 @@ extraction_summary:
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Cognitive Debiasing]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Epistemic Virtues]]
 - [[Open-Mindedness]]
 - [[Intellectual-Courage|Intellectual Courage]]

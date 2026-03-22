@@ -23,7 +23,7 @@ subdomains:
   - instructional-design
   - metacognition
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14
@@ -61,6 +61,14 @@ see-also:
   - "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Paul-Pintrich|Paul Pintrich]]"
+  - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
+  - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
+  - "[[PKB|PKB]]"
+  - "[[Self-Efficacy|Self-Efficacy]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
@@ -183,7 +191,7 @@ importance: high
 > The most evidence-supported instructional approach for building SRL capacity is one that develops learners' ability to generate accurate monitoring signals and then to translate those signals into targeted strategy adjustments — rather than simply expanding the menu of strategies available. Concretely: activities that ask learners to predict their performance before receiving feedback, compare their predictions to actual outcomes, and then attribute any discrepancy specifically target the monitoring-control coupling. Error analysis protocols that guide learners through causal attribution of mistakes — distinguishing strategy errors from knowledge gaps from procedural misapplications — build the specific reflection-to-forethought pathway that the cycle requires.
 
 > [!example] **Application** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
-> Self-efficacy is best developed through mastery experiences — successful regulatory performances in tasks of moderate difficulty. This has a specific instructional implication often ignored in practice: the optimal difficulty for SRL development is not the difficulty that maximizes immediate learning but the difficulty at which learners are likely to succeed with good regulatory effort. Tasks that are too easy build no efficacy because success is not attributed to regulatory skill. Tasks that are too difficult produce failure and efficacy-damaging attributions. The [[Zone of Proximal Development|zone of proximal development]] (Vygotsky) provides the developmental framework, but the mechanism is efficacy-building through calibrated regulatory success — which requires not just appropriate difficulty but feedback that makes the causal role of regulation visible.
+> Self-efficacy is best developed through mastery experiences — successful regulatory performances in tasks of moderate difficulty. This has a specific instructional implication often ignored in practice: the optimal difficulty for SRL development is not the difficulty that maximizes immediate learning but the difficulty at which learners are likely to succeed with good regulatory effort. Tasks that are too easy build no efficacy because success is not attributed to regulatory skill. Tasks that are too difficult produce failure and efficacy-damaging attributions. The [[Zone-of-Proximal-Development|zone of proximal development]] (Vygotsky) provides the developmental framework, but the mechanism is efficacy-building through calibrated regulatory success — which requires not just appropriate difficulty but feedback that makes the causal role of regulation visible.
 
 > [!warning] **Key Distinction** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > The most common institutional response to SRL research is to create a standalone study skills course where general self-regulatory strategies are taught in isolation from specific content domains. The evidence suggests this approach has minimal sustained effects on academic performance, for the precise mechanistic reason analyzed in Phase IV: effective monitoring requires sufficient domain knowledge to recognize quality differences in one's own performance. A student taught to self-monitor their reading comprehension in a generic study skills context cannot transfer that monitoring skill to advanced organic chemistry if they lack the domain knowledge to know what good understanding of organic chemistry looks like. General self-regulatory training that is not embedded in domain learning is, to use the mechanical analogy, like calibrating a thermostat without knowing what temperature the room should be.
@@ -260,6 +268,32 @@ importance: high
 
 **Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
 - [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Related concepts** *(from sdt-srl-comparative-synthesis-2026-03-19.md, self-regulated-learning-focused-analysis-2026-03-06.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+
+
+
+
+
 
 
 

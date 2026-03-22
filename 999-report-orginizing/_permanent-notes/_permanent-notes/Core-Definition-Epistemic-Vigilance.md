@@ -26,7 +26,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -61,6 +61,14 @@ narrower:
 
 see-also:
   - "[[Epistemology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Virtue-Ethics|Virtue Ethics]]"
+  - "[[Social-Psychology|Social Psychology]]"
+  - "[[Basic-Epistemology|Basic Epistemology]]"
+  - "[[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]]"
+  - "[[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]]"
+  - "[[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]]"
+  - "[[Epistemology|Epistemology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
   - "[[Virtue-Ethics|Virtue Ethics]]"
   - "[[Social-Psychology|Social Psychology]]"
@@ -120,4 +128,8 @@ importance: medium
 
 **Related concepts** *(from cog-psy-epistemic-vigilance-and-epistemic-humility.md)*:
 [[Cognitive-Science|Cognitive Science]] * [[Virtue-Ethics|Virtue Ethics]] * [[Social-Psychology|Social Psychology]] * [[Basic-Epistemology|Basic Epistemology]] * [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] * [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] * [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Testimonial-Knowledge|Testimonial Knowledge]] * [[Cultural-Transmission|Cultural Transmission]] * [[Theory-of-Mind|Theory of Mind]] * [[Source-Monitoring|Source Monitoring]] * [[Relevance-Theory|Relevance Theory]] * [[Confirmation-Bias|Confirmation Bias]] * [[Motivated-Reasoning|Motivated Reasoning]]
+
+**Related concepts** *(from cog-psy-epistemic-vigilance-and-epistemic-humility.md)*:
+[[Cognitive-Science|Cognitive Science]] * [[Virtue-Ethics|Virtue Ethics]] * [[Social-Psychology|Social Psychology]] * [[Basic-Epistemology|Basic Epistemology]] * [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] * [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] * [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Testimonial-Knowledge|Testimonial Knowledge]] * [[Cultural-Transmission|Cultural Transmission]] * [[Theory-of-Mind|Theory of Mind]] * [[Source-Monitoring|Source Monitoring]] * [[Relevance-Theory|Relevance Theory]] * [[Confirmation-Bias|Confirmation Bias]] * [[Motivated-Reasoning|Motivated Reasoning]]
+
 

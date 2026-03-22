@@ -400,7 +400,7 @@ extraction_summary:
 - [[Daily Workflow]]
 - [[Evaluation Framework]]
 - [[Evaluation Frameworks for LLM Outputs]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[GPT Model Evolution]]
 - [[Input Sanitization]]
 - [[Jailbreak Prevention]]
@@ -417,7 +417,7 @@ extraction_summary:
 - [[Persona Pattern]]
 - [[Production Deployment]]
 - [[Programming & Software Engineering MOC]]
-- [[Prompt Engineering Fundamentals]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 - [[Prompt Engineering Hub]]
 - [[Prompt Engineering for Specific Domains]]
 - [[Prompt Ideation Process]]
@@ -437,7 +437,7 @@ extraction_summary:
 - [[Template Pattern]]
 - [[Testing Your First Prompts]]
 - [[Tool-Using Agents]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Version Control for Prompts]]
 - [[Writing & Communication MOC]]
 - [[Zero-Shot Prompting]]
@@ -448,11 +448,11 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Zero-Shot Prompting]] | — | — | Fundamental Techniques | 964 |
-| 2 | [[Few-Shot Learning]] | — | — | Fundamental Techniques | 965 |
+| 2 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | Fundamental Techniques | 965 |
 | 3 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Fundamental Techniques | 966 |
 | 4 | [[Role-Based Prompting]] | — | — | Fundamental Techniques | 967 |
 | 5 | [[ReAct Framework]] | — | — | Reasoning & Agent Systems | 978 |
-| 6 | [[Tree of Thoughts]] | — | — | Reasoning & Agent Systems | 979 |
+| 6 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Reasoning & Agent Systems | 979 |
 | 7 | [[Autonomous Agents]] | — | — | Reasoning & Agent Systems | 980 |
 | 8 | [[Tool-Using Agents]] | — | — | Reasoning & Agent Systems | 981 |
 | 9 | [[Persona Pattern]] | — | — | Structural Patterns | 997 |
@@ -479,7 +479,7 @@ extraction_summary:
 | 30 | [[PKM System Hub]] | — | — | 🔗 Related MOCs | 1188 |
 | 31 | [[AI & Machine Learning MOC]] | — | — | 🔗 Related MOCs | 1189 |
 | 32 | [[Programming & Software Engineering MOC]] | — | — | 🔗 Related MOCs | 1190 |
-| 33 | [[Prompt Engineering Fundamentals]] | — | — | Beginner Path | 1197 |
+| 33 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | Beginner Path | 1197 |
 | 34 | [[Basic Prompt Anatomy]] | — | — | Beginner Path | 1198 |
 | 35 | [[Zero-Shot vs Few-Shot]] | — | — | Beginner Path | 1199 |
 | 36 | [[Simple Persona Patterns]] | — | — | Beginner Path | 1200 |
@@ -1330,7 +1330,7 @@ aliases:
 
 ### Fundamental Techniques
 - [[Zero-Shot Prompting]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Role-Based Prompting]]
 
@@ -1342,7 +1342,7 @@ aliases:
 ```plaintext
 ### Reasoning & Agent Systems
 - [[ReAct Framework]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Autonomous Agents]]
 - [[Tool-Using Agents]]
 
@@ -1516,7 +1516,7 @@ aliases:
 ## 📚 Learning Paths
 
 ### Beginner Path
-1. [[Prompt Engineering Fundamentals]]
+1. [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 2. [[Basic Prompt Anatomy]]
 3. [[Zero-Shot vs Few-Shot]]
 4. [[Simple Persona Patterns]]
@@ -1791,7 +1791,7 @@ I need to create:
 - [[Daily Workflow]]
 - [[Evaluation Framework]]
 - [[Evaluation Frameworks for LLM Outputs]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[GPT Model Evolution]]
 - [[Input Sanitization]]
 - [[Jailbreak Prevention]]
@@ -1808,7 +1808,7 @@ I need to create:
 - [[Persona Pattern]]
 - [[Production Deployment]]
 - [[Programming & Software Engineering MOC]]
-- [[Prompt Engineering Fundamentals]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 - [[Prompt Engineering Hub]]
 - [[Prompt Engineering for Specific Domains]]
 - [[Prompt Ideation Process]]
@@ -1828,7 +1828,7 @@ I need to create:
 - [[Template Pattern]]
 - [[Testing Your First Prompts]]
 - [[Tool-Using Agents]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Version Control for Prompts]]
 - [[Writing & Communication MOC]]
 - [[Zero-Shot Prompting]]

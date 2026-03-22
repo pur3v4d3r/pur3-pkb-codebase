@@ -326,7 +326,7 @@ extraction_summary:
 #### 9. [ABSTRACT] Executive Overview *(Line 174)*
 
 > [!abstract] Executive Overview
-> **Stoic Daily Journaling** represents a systematic practice of written self-examination rooted in ancient Greco-Roman philosophy, designed to cultivate [[Virtue]], develop [[Metacognitive Awareness]], and achieve psychological resilience through structured reflection on one's thoughts, actions, and alignment with [[Stoic-Philosophy|Stoic Philosophy]]. This practice bridges 2,000 years of philosophical tradition with contemporary [[Cognitive-Science|Cognitive Science]], offering an evidence-based methodology for [[Behavioral Change]], [[Epistemic Refinement]], and sustained [[Psychological Well-Being]].
+> **Stoic Daily Journaling** represents a systematic practice of written self-examination rooted in ancient Greco-Roman philosophy, designed to cultivate [[Virtue]], develop [[metacognitive-awareness|Metacognitive Awareness]], and achieve psychological resilience through structured reflection on one's thoughts, actions, and alignment with [[Stoic-Philosophy|Stoic Philosophy]]. This practice bridges 2,000 years of philosophical tradition with contemporary [[Cognitive-Science|Cognitive Science]], offering an evidence-based methodology for [[Behavioral Change]], [[Epistemic Refinement]], and sustained [[psychological-well-being|Psychological Well-Being]].
 
 #### 10. [HOW-TO-USE-THIS] Navigation Guide *(Line 177)*
 
@@ -336,7 +336,7 @@ extraction_summary:
 #### 11. [DEFINITION] Untitled *(Line 198)*
 
 > [!definition] Untitled
-> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
+> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness|Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
 
 #### 12. [KEY-CLAIM] Untitled *(Line 217)*
 
@@ -640,7 +640,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[${focusVirtue}]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Actions]]
 - [[Advanced Stoic Contemplative Practices]]
 - [[Amor Fati]]
@@ -675,7 +675,7 @@ extraction_summary:
 - [[Cognitive Responses]]
 - [[Cognitive Restructuring]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
 - [[Compound Interest]]
 - [[Connor-Davidson Resilience Scale]]
@@ -725,14 +725,14 @@ extraction_summary:
 - [[Letter 47]]
 - [[Linguistic Crystallization]]
 - [[Local Storage]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditations]]
 - [[Memento Mori]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Memory Enhancement]]
 - [[Meta Bind]]
 - [[Metacognition and Self-Regulated Learning - Research and Application]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Awareness Inventory]]
 - [[Metacognitive Journaling]]
 - [[Metacognitive Monitoring System]]
@@ -757,7 +757,7 @@ extraction_summary:
 - [[Perspective Shift]]
 - [[Philosopher-Emperor]]
 - [[Philosophy]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Plain Text]]
 - [[Prefrontal Cortex]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
@@ -766,7 +766,7 @@ extraction_summary:
 - [[Prospective Self-Monitoring]]
 - [[Psychological Flexibility]]
 - [[Psychological Resilience]]
-- [[Psychological Well-Being]]
+- [[psychological-well-being|Psychological Well-Being]]
 - [[Pythagorean Tradition]]
 - [[QuickAdd]]
 - [[Rational Emotive Behavior Therapy]]
@@ -782,7 +782,7 @@ extraction_summary:
 - [[Self-Regulated Learners]]
 - [[Seneca the Younger]]
 - [[Social Virtue]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Source]]
 - [[Sphere of Influence]]
 - [[Spiritual Exercises]]
@@ -805,7 +805,7 @@ extraction_summary:
 - [[Values Clarification]]
 - [[View from Above]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Working-Memory|Working Memory]]
 - [[Written Language]]
@@ -817,18 +817,18 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoic Daily Journaling: A systematic practice of written Self-Examination]] | — | — | Stoic Daily Journaling: A systematic ... | 43 |
 | 2 | [[Virtue]] | — | — | Review Checklist: | 175 |
-| 3 | [[Metacognitive Awareness]] | — | — | Review Checklist: | 175 |
+| 3 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | Review Checklist: | 175 |
 | 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Review Checklist: | 175 |
 | 5 | [[Cognitive-Science|Cognitive Science]] | — | — | Review Checklist: | 175 |
 | 6 | [[Behavioral Change]] | — | — | Review Checklist: | 175 |
 | 7 | [[Epistemic Refinement]] | — | — | Review Checklist: | 175 |
-| 8 | [[Psychological Well-Being]] | — | — | Review Checklist: | 175 |
+| 8 | [[psychological-well-being|Psychological Well-Being]] | — | — | Review Checklist: | 175 |
 | 9 | [[Self-Examination]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 10 | [[Greco-Roman Philosophy]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 11 | [[Stoic School]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 12 | [[Zeno of Citium]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 13 | [[Virtue]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
-| 14 | [[Metacognitive Awareness]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
+| 14 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 15 | [[Psychological Resilience]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 16 | [[Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 17 | [[Stoic Daily Journaling]] | — | — | The Ancient Lineage | 203 |
@@ -839,8 +839,8 @@ extraction_summary:
 | 22 | [[Interpretations]] | — | — | The Ancient Lineage | 205 |
 | 23 | [[External Events]] | — | — | The Ancient Lineage | 205 |
 | 24 | [[Emotional Responses]] | — | — | The Ancient Lineage | 205 |
-| 25 | [[Cognitive-Behavioral Therapy]] | — | — | The Ancient Lineage | 205 |
-| 26 | [[Marcus Aurelius]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 211 |
+| 25 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The Ancient Lineage | 205 |
+| 26 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 211 |
 | 27 | [[Philosopher-Emperor]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 211 |
 | 28 | [[Meditations]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 211 |
 | 29 | [[Morning Preparation]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 211 |
@@ -873,7 +873,7 @@ extraction_summary:
 | 56 | [[Moderation]] | — | — | The Four Cardinal Virtues | 261 |
 | 57 | [[External Achievement]] | — | — | The Four Cardinal Virtues | 265 |
 | 58 | [[Spiritual Exercises]] | — | — | Spiritual Exercises as Psychological ... | 269 |
-| 59 | [[Pierre Hadot]] | — | — | Spiritual Exercises as Psychological ... | 269 |
+| 59 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Spiritual Exercises as Psychological ... | 269 |
 | 60 | [[Prosoche]] | — | — | Spiritual Exercises as Psychological ... | 272 |
 | 61 | [[View from Above]] | — | — | Spiritual Exercises as Psychological ... | 273 |
 | 62 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Spiritual Exercises as Psychological ... | 274 |
@@ -894,7 +894,7 @@ extraction_summary:
 | 77 | [[Metacognitive Scaffold]] | — | — | The Metacognitive Foundation | 299 |
 | 78 | [[Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 305 |
 | 79 | [[Rational Emotive Behavior Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
-| 80 | [[Cognitive-Behavioral Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
+| 80 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
 | 81 | [[Cognitive Restructuring]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
 | 82 | [[Automatic Thoughts]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
 | 83 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
@@ -935,7 +935,7 @@ extraction_summary:
 | 118 | [[Self-Compassion]] | — | — | Epictetus's Three-Question Framework | 452 |
 | 119 | [[Defensive Avoidance]] | — | — | Epictetus's Three-Question Framework | 452 |
 | 120 | [[Memory Enhancement]] | — | — | The Pythagorean Memory Technique | 456 |
-| 121 | [[Memory Consolidation]] | — | — | The Pythagorean Memory Technique | 461 |
+| 121 | [[Memory-Consolidation|Memory Consolidation]] | — | — | The Pythagorean Memory Technique | 461 |
 | 122 | [[Hippocampal]] | — | — | The Pythagorean Memory Technique | 461 |
 | 123 | [[Amygdalar]] | — | — | The Pythagorean Memory Technique | 461 |
 | 124 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | The Discipline of Assent | 465 |
@@ -948,9 +948,9 @@ extraction_summary:
 | 131 | [[Metacognitive Journaling]] | — | — | The Minimalist vs. Comprehensive Spec... | 569 |
 | 132 | [[Implementation Friction]] | — | — | The Minimalist vs. Comprehensive Spec... | 569 |
 | 133 | [[Thought Record]] | — | — | Integration with Modern Psychological... | 574 |
-| 134 | [[Socratic Questioning]] | — | — | Integration with Modern Psychological... | 575 |
+| 134 | [[Socratic-Questioning|Socratic Questioning]] | — | — | Integration with Modern Psychological... | 575 |
 | 135 | [[Cognitive Distortions]] | — | — | Integration with Modern Psychological... | 576 |
-| 136 | [[Acceptance and Commitment Therapy]] | — | — | Integration with Modern Psychological... | 581 |
+| 136 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | Integration with Modern Psychological... | 581 |
 | 137 | [[Values Clarification]] | — | — | Integration with Modern Psychological... | 582 |
 | 138 | [[Cognitive Defusion]] | — | — | Integration with Modern Psychological... | 583 |
 | 139 | [[Psychological Flexibility]] | — | — | Integration with Modern Psychological... | 584 |
@@ -1004,7 +1004,7 @@ extraction_summary:
 | 187 | [[Virtue]] | — | — | The Comparison Trap | 1824 |
 | 188 | [[Virtue]] | — | — | Data Obsession | 1883 |
 | 189 | [[Flourishing]] | — | — | Data Obsession | 1883 |
-| 190 | [[Socratic Questioning]] | — | — | Socratic Self-Dialogue | 1918 |
+| 190 | [[Socratic-Questioning|Socratic Questioning]] | — | — | Socratic Self-Dialogue | 1918 |
 | 191 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Premeditated Catastrophe Analysis | 1950 |
 | 192 | [[Negative Visualization]] | — | — | Hedonic Adaptation Journaling | 2073 |
 | 193 | [[Gratitude]] | — | — | Hedonic Adaptation Journaling | 2073 |
@@ -1016,10 +1016,10 @@ extraction_summary:
 | 199 | [[Metacognitive System]] | — | — | The Stoic Journaling as Metacognitive... | 2219 |
 | 200 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Three-Pillar Architecture | 2232 |
 | 201 | [[Cognitive Primacy]] | — | — | The Three-Pillar Architecture | 2233 |
-| 202 | [[Virtue Ethics]] | — | — | The Three-Pillar Architecture | 2234 |
+| 202 | [[Virtue-Ethics|Virtue Ethics]] | — | — | The Three-Pillar Architecture | 2234 |
 | 203 | [[Cosmopolitanism]] | — | — | The Three-Pillar Architecture | 2235 |
 | 204 | [[Memento Mori]] | — | — | The Three-Pillar Architecture | 2236 |
-| 205 | [[Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 2243 |
+| 205 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 2243 |
 | 206 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 2244 |
 | 207 | [[Structured Prompts]] | — | — | The Three-Pillar Architecture | 2245 |
 | 208 | [[Pattern Recognition]] | — | — | The Three-Pillar Architecture | 2246 |
@@ -1690,7 +1690,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 > Each is a candidate for backlink creation in your PKB.
 
 - [[${focusVirtue}]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Actions]]
 - [[Advanced Stoic Contemplative Practices]]
 - [[Amor Fati]]
@@ -1725,7 +1725,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Cognitive Responses]]
 - [[Cognitive Restructuring]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
 - [[Compound Interest]]
 - [[Connor-Davidson Resilience Scale]]
@@ -1775,14 +1775,14 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Letter 47]]
 - [[Linguistic Crystallization]]
 - [[Local Storage]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditations]]
 - [[Memento Mori]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Memory Enhancement]]
 - [[Meta Bind]]
 - [[Metacognition and Self-Regulated Learning - Research and Application]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Awareness Inventory]]
 - [[Metacognitive Journaling]]
 - [[Metacognitive Monitoring System]]
@@ -1807,7 +1807,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Perspective Shift]]
 - [[Philosopher-Emperor]]
 - [[Philosophy]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Plain Text]]
 - [[Prefrontal Cortex]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
@@ -1816,7 +1816,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Prospective Self-Monitoring]]
 - [[Psychological Flexibility]]
 - [[Psychological Resilience]]
-- [[Psychological Well-Being]]
+- [[psychological-well-being|Psychological Well-Being]]
 - [[Pythagorean Tradition]]
 - [[QuickAdd]]
 - [[Rational Emotive Behavior Therapy]]
@@ -1832,7 +1832,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Self-Regulated Learners]]
 - [[Seneca the Younger]]
 - [[Social Virtue]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Source]]
 - [[Sphere of Influence]]
 - [[Spiritual Exercises]]
@@ -1855,7 +1855,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Values Clarification]]
 - [[View from Above]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Working-Memory|Working Memory]]
 - [[Written Language]]

@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -71,6 +71,14 @@ see-also:
   - "[[Fallibilism]]"
   - "[[Pragmatism]]"
   - "[[Constructivism]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
+  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
+  - "[[Fallibilism|Fallibilism]]"
+  - "[[Pragmatism|Pragmatism]]"
+  - "[[Constructivism|Constructivism]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
   - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
@@ -131,4 +139,8 @@ importance: high
 
 **Related concepts** *(from report-08-the-examined-life-in-practice.md)*:
 [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Schema-Theory|Schema Theory]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Integrity|Intellectual Integrity]]
+
+**Related concepts** *(from report-08-the-examined-life-in-practice.md)*:
+[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Schema-Theory|Schema Theory]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Integrity|Intellectual Integrity]]
+
 

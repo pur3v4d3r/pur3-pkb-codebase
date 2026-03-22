@@ -1044,18 +1044,18 @@ extraction_summary:
 - [[Deep Dive Report Prompt]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Cognition and Reflective Judgment]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[FARG v1.0]]
 - [[FPRP v1.0]]
 - [[FRP v1.0]]
-- [[First Principles Report Generator v1.0]]
+- [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
 - [[First Principles Report Prompt]]
 - [[First Principles Thinking]]
 - [[Focused Analysis Report Architecture]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Focused Analysis Report Prompt]]
 - [[Foundational Report Architecture]]
-- [[Foundational Report Generator v1.0]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Foundational Report Prompt]]
 - [[Foundational Report: Topic]]
 - [[Framework Name]]
@@ -1063,8 +1063,8 @@ extraction_summary:
 - [[Intellectual Virtues and Disposition Theory]]
 - [[Intellectual Virtues and Epistemic Character]]
 - [[Knowledge Graph Integration]]
-- [[Metacognitive Awareness]]
-- [[Metacognitive Scaffolding]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
+- [[Metacognitive-Scaffolding|Metacognitive Scaffolding]]
 - [[Obsidian Callout Taxonomy]]
 - [[Other Related Reports]]
 - [[PKB Metadata Standards]]
@@ -1079,12 +1079,12 @@ extraction_summary:
 - [[Related Topic 1]]
 - [[Related Topic 2]]
 - [[Related Topic 3]]
-- [[Report Generation Prompt Suite]]
+- [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]]
 - [[Report Generator - First Principles]]
 - [[Report Generator - Focused Analysis]]
 - [[Report Generator - Foundational]]
 - [[Researcher Name]]
-- [[Socratic Dialogue Report Prompt]]
+- [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]]
 - [[Socratic Questioning Techniques in Education]]
 - [[Topic]]
 - [[Topic X]]
@@ -1133,8 +1133,8 @@ extraction_summary:
 | 5 | [[Socratic Questioning Techniques in Education]] | — | — | Epistemic & Philosophical Extensions | 1088 |
 | 6 | [[Foundational Report Architecture]] | — | — | ═════════════════════════════════════... | 1174 |
 | 7 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 1175 |
-| 8 | [[Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 1176 |
-| 9 | [[Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 1177 |
+| 8 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 1176 |
+| 9 | [[Metacognitive-Scaffolding|Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 1177 |
 | 10 | [[Active Reading Pedagogy]] | — | — | ═════════════════════════════════════... | 1178 |
 | 11 | [[Knowledge Graph Integration]] | — | — | ═════════════════════════════════════... | 1179 |
 | 12 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 1180 |
@@ -1142,15 +1142,15 @@ extraction_summary:
 | 14 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 1239 |
 | 15 | [[Obsidian Callout Taxonomy]] | — | — | ═════════════════════════════════════... | 1240 |
 | 16 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 1243 |
-| 17 | [[Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 1244 |
+| 17 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 1244 |
 | 18 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 1245 |
 | 19 | [[Academic Report Generator]] | — | — | ═════════════════════════════════════... | 1248 |
 | 20 | [[Foundational Report Prompt]] | — | — | ═════════════════════════════════════... | 1254 |
 | 21 | [[FRP v1.0]] | — | — | ═════════════════════════════════════... | 1255 |
 | 22 | [[Report Generator - Foundational]] | — | — | ═════════════════════════════════════... | 1256 |
-| 23 | [[Report Generation Prompt Suite]] | — | — | ═════════════════════════════════════... | 1258 |
+| 23 | [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] | — | — | ═════════════════════════════════════... | 1258 |
 | 24 | [[First Principles Report Prompt]] | — | — | ═════════════════════════════════════... | 1260 |
-| 25 | [[Socratic Dialogue Report Prompt]] | — | — | ═════════════════════════════════════... | 1261 |
+| 25 | [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] | — | — | ═════════════════════════════════════... | 1261 |
 | 26 | [[Academic Report Generator]] | — | — | ═════════════════════════════════════... | 1263 |
 | 27 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 1264 |
 | 28 | [[{Prerequisite concept 1}]] | — | — | ═════════════════════════════════════... | 1476 |
@@ -1178,7 +1178,7 @@ extraction_summary:
 | 50 | [[{Advanced topic 2}]] | — | — | ═════════════════════════════════════... | 1517 |
 | 51 | [[{Expansion topic 1}]] | — | — | ═════════════════════════════════════... | 1520 |
 | 52 | [[{Expansion topic 2}]] | — | — | ═════════════════════════════════════... | 1523 |
-| 53 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 1568 |
+| 53 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 1568 |
 | 54 | [[wiki-link]] | — | — | Metadata Generation Rules | 1576 |
 | 55 | [[wiki-link]] | — | — | Phase II: Conceptual Foundations | 1623 |
 | 56 | [[Related Node 1]] | — | — | Phase VI: Synthesis & Integration | 1747 |
@@ -1197,8 +1197,8 @@ extraction_summary:
 | 69 | [[double-bracket]] | — | — | Critical Output Requirements | 2076 |
 | 70 | [[Focused Analysis Report Architecture]] | — | — | ═════════════════════════════════════... | 2240 |
 | 71 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 2241 |
-| 72 | [[Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 2242 |
-| 73 | [[Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 2243 |
+| 72 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 2242 |
+| 73 | [[Metacognitive-Scaffolding|Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 2243 |
 | 74 | [[Active Reading Pedagogy]] | — | — | ═════════════════════════════════════... | 2244 |
 | 75 | [[Knowledge Graph Integration]] | — | — | ═════════════════════════════════════... | 2245 |
 | 76 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 2246 |
@@ -1209,29 +1209,29 @@ extraction_summary:
 | 81 | [[Predictive Reading Framework]] | — | — | ═════════════════════════════════════... | 2251 |
 | 82 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 2318 |
 | 83 | [[Obsidian Callout Taxonomy]] | — | — | ═════════════════════════════════════... | 2319 |
-| 84 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2320 |
+| 84 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2320 |
 | 85 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 2323 |
-| 86 | [[Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 2324 |
+| 86 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 2324 |
 | 87 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 2325 |
-| 88 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2326 |
-| 89 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2329 |
+| 88 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2326 |
+| 89 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2329 |
 | 90 | [[Academic Report Generator]] | — | — | ═════════════════════════════════════... | 2330 |
 | 91 | [[Focused Analysis Report Prompt]] | — | — | ═════════════════════════════════════... | 2336 |
 | 92 | [[FARG v1.0]] | — | — | ═════════════════════════════════════... | 2337 |
 | 93 | [[Report Generator - Focused Analysis]] | — | — | ═════════════════════════════════════... | 2338 |
 | 94 | [[Deep Dive Report Prompt]] | — | — | ═════════════════════════════════════... | 2339 |
-| 95 | [[Report Generation Prompt Suite]] | — | — | ═════════════════════════════════════... | 2341 |
+| 95 | [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] | — | — | ═════════════════════════════════════... | 2341 |
 | 96 | [[First Principles Report Prompt]] | — | — | ═════════════════════════════════════... | 2343 |
-| 97 | [[Socratic Dialogue Report Prompt]] | — | — | ═════════════════════════════════════... | 2344 |
+| 97 | [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] | — | — | ═════════════════════════════════════... | 2344 |
 | 98 | [[Comparative Analysis Report Prompt]] | — | — | ═════════════════════════════════════... | 2345 |
-| 99 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2347 |
+| 99 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 2347 |
 | 100 | [[Academic Report Generator]] | — | — | ═════════════════════════════════════... | 2348 |
 | 101 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 2349 |
 | 102 | [[Topic X]] | — | — | What "Focused Analysis" Means | 2475 |
 | 103 | [[Prediction-Based Learning]] | — | — | Modality 1: Predictive Engagement | 2673 |
 | 104 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 2696 |
 | 105 | [[Calibration Training]] | — | — | Modality 3: Calibration Exercises | 2709 |
-| 106 | [[Metacognitive Awareness]] | — | — | Modality 3: Calibration Exercises | 2709 |
+| 106 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | Modality 3: Calibration Exercises | 2709 |
 | 107 | [[Concept A]] | — | — | The Return-and-Deepen Pattern | 2843 |
 | 108 | [[Concept B]] | — | — | The Return-and-Deepen Pattern | 2843 |
 | 109 | [[{Prerequisite concept 1}]] | — | — | ═════════════════════════════════════... | 2985 |
@@ -1260,7 +1260,7 @@ extraction_summary:
 | 132 | [[{Advanced topic 2}]] | — | — | ═════════════════════════════════════... | 3028 |
 | 133 | [[{Expansion topic 1}]] | — | — | ═════════════════════════════════════... | 3031 |
 | 134 | [[{Expansion topic 2}]] | — | — | ═════════════════════════════════════... | 3034 |
-| 135 | [[Focused Analysis Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3081 |
+| 135 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3081 |
 | 136 | [[wiki-link]] | — | — | Metadata Generation Rules | 3089 |
 | 137 | [[Topic]] | — | — | Phase I: Orientation & Analytical Focus | 3110 |
 | 138 | [[Concept X]] | — | — | Phase II: Analytical Framework | 3131 |
@@ -1281,37 +1281,37 @@ extraction_summary:
 | 153 | [[Cartesian Doubt]] | — | — | ═════════════════════════════════════... | 3870 |
 | 154 | [[Axiomatic Reasoning]] | — | — | ═════════════════════════════════════... | 3871 |
 | 155 | [[Assumption Stripping]] | — | — | ═════════════════════════════════════... | 3872 |
-| 156 | [[Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 3873 |
-| 157 | [[Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 3874 |
+| 156 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 3873 |
+| 157 | [[Metacognitive-Scaffolding|Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 3874 |
 | 158 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 3875 |
 | 159 | [[Knowledge Graph Integration]] | — | — | ═════════════════════════════════════... | 3876 |
 | 160 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 3877 |
 | 161 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 3938 |
 | 162 | [[Obsidian Callout Taxonomy]] | — | — | ═════════════════════════════════════... | 3939 |
 | 163 | [[First Principles Thinking]] | — | — | ═════════════════════════════════════... | 3940 |
-| 164 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3943 |
+| 164 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3943 |
 | 165 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 3944 |
-| 166 | [[Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 3945 |
+| 166 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | ═════════════════════════════════════... | 3945 |
 | 167 | [[Academic Report Generator]] | — | — | ═════════════════════════════════════... | 3948 |
-| 168 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3949 |
+| 168 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3949 |
 | 169 | [[First Principles Report Prompt]] | — | — | ═════════════════════════════════════... | 3955 |
 | 170 | [[FPRP v1.0]] | — | — | ═════════════════════════════════════... | 3956 |
 | 171 | [[Report Generator - First Principles]] | — | — | ═════════════════════════════════════... | 3957 |
-| 172 | [[Report Generation Prompt Suite]] | — | — | ═════════════════════════════════════... | 3959 |
-| 173 | [[Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3962 |
-| 174 | [[Socratic Dialogue Report Prompt]] | — | — | ═════════════════════════════════════... | 3963 |
+| 172 | [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] | — | — | ═════════════════════════════════════... | 3959 |
+| 173 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | ═════════════════════════════════════... | 3962 |
+| 174 | [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] | — | — | ═════════════════════════════════════... | 3963 |
 | 175 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 3964 |
-| 176 | [[Foundational Report Generator v1.0]] | — | — | Section 2: Metadata Generation Protocol | 4101 |
-| 177 | [[First Principles Report Generator v1.0]] | — | — | Source & Generation: | 4137 |
-| 178 | [[Foundational Report Generator v1.0]] | — | — | Source & Generation: | 4140 |
-| 179 | [[Foundational Report Generator v1.0]] | Foundational Report | — | Phase VI: Synthesis, Limitations & PK... | 4350 |
-| 180 | [[Socratic Dialogue Report Prompt]] | Socratic Dialogue | — | Phase VI: Synthesis, Limitations & PK... | 4353 |
+| 176 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | Section 2: Metadata Generation Protocol | 4101 |
+| 177 | [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] | — | — | Source & Generation: | 4137 |
+| 178 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | Source & Generation: | 4140 |
+| 179 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | Foundational Report | — | Phase VI: Synthesis, Limitations & PK... | 4350 |
+| 180 | [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] | Socratic Dialogue | — | Phase VI: Synthesis, Limitations & PK... | 4353 |
 | 181 | [[Related Node 1]] | — | — | Phase VI: Synthesis, Limitations & PK... | 4361 |
 | 182 | [[Related Node 2]] | — | — | Phase VI: Synthesis, Limitations & PK... | 4363 |
 | 183 | [[Related Node 3]] | — | — | Phase VI: Synthesis, Limitations & PK... | 4365 |
-| 184 | [[Foundational Report Generator v1.0]] | — | — | Phase VII: Appendix — Lexicon, Refere... | 4384 |
-| 185 | [[Foundational Report Generator v1.0]] | — | — | All Standards from the Foundational R... | 4422 |
-| 186 | [[Foundational Report Generator v1.0]] | — | — | All Protocols from the Foundational R... | 4478 |
+| 184 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | Phase VII: Appendix — Lexicon, Refere... | 4384 |
+| 185 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | All Standards from the Foundational R... | 4422 |
+| 186 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | All Protocols from the Foundational R... | 4478 |
 | 187 | [[{Topic} Foundational Report]] | — | — | Additional First Principles-Specific ... | 4486 |
 | 188 | [[Related Topic 1]] | — | — | Additional First Principles-Specific ... | 4495 |
 | 189 | [[Related Topic 2]] | — | — | Additional First Principles-Specific ... | 4495 |
@@ -1497,8 +1497,8 @@ secondary_domains:
 related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture|Extended Thinking Architecture]]"
+  - "[[Metacognitive-Scaffolding|Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -1657,8 +1657,8 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture|Extended Thinking Architecture]]"
+  - "[[Metacognitive-Scaffolding|Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -1871,8 +1871,8 @@ related_concepts:
   - "[[Cartesian Doubt]]"
   - "[[Axiomatic Reasoning]]"
   - "[[Assumption Stripping]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture|Extended Thinking Architecture]]"
+  - "[[Metacognitive-Scaffolding|Metacognitive Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -1918,7 +1918,7 @@ This report type draws from three traditions:
 ### Code Block 17 — `plaintext` *(Lines 4138-4430)*
 
 ```plaintext
-All other metadata fields follow the same template as the [[Foundational Report Generator v1.0]], Section 2. Generate the full YAML block with all fields populated.
+All other metadata fields follow the same template as the [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]], Section 2. Generate the full YAML block with all fields populated.
 
 ---
 
@@ -1987,7 +1987,7 @@ In Phase IV, explicitly mark where the reconstructed understanding converges wit
 
 ### All Protocols from the Foundational Report Apply
 
-The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational Report Generator v1.0]], Section 5 apply in full.
+The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]], Section 5 apply in full.
 
 ### Additional First Principles-Specific Integration
 
@@ -2109,18 +2109,18 @@ After outputting the artifact, provide a brief (3-5 sentence) summary in the cha
 - [[Deep Dive Report Prompt]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Cognition and Reflective Judgment]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[FARG v1.0]]
 - [[FPRP v1.0]]
 - [[FRP v1.0]]
-- [[First Principles Report Generator v1.0]]
+- [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
 - [[First Principles Report Prompt]]
 - [[First Principles Thinking]]
 - [[Focused Analysis Report Architecture]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Focused Analysis Report Prompt]]
 - [[Foundational Report Architecture]]
-- [[Foundational Report Generator v1.0]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Foundational Report Prompt]]
 - [[Foundational Report: Topic]]
 - [[Framework Name]]
@@ -2128,8 +2128,8 @@ After outputting the artifact, provide a brief (3-5 sentence) summary in the cha
 - [[Intellectual Virtues and Disposition Theory]]
 - [[Intellectual Virtues and Epistemic Character]]
 - [[Knowledge Graph Integration]]
-- [[Metacognitive Awareness]]
-- [[Metacognitive Scaffolding]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
+- [[Metacognitive-Scaffolding|Metacognitive Scaffolding]]
 - [[Obsidian Callout Taxonomy]]
 - [[Other Related Reports]]
 - [[PKB Metadata Standards]]
@@ -2144,12 +2144,12 @@ After outputting the artifact, provide a brief (3-5 sentence) summary in the cha
 - [[Related Topic 1]]
 - [[Related Topic 2]]
 - [[Related Topic 3]]
-- [[Report Generation Prompt Suite]]
+- [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]]
 - [[Report Generator - First Principles]]
 - [[Report Generator - Focused Analysis]]
 - [[Report Generator - Foundational]]
 - [[Researcher Name]]
-- [[Socratic Dialogue Report Prompt]]
+- [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]]
 - [[Socratic Questioning Techniques in Education]]
 - [[Topic]]
 - [[Topic X]]

@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -77,6 +77,14 @@ see-also:
   - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Advance-Organizers|Advance Organizers]]"
+  - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
+  - "[[David-Ausubel|David Ausubel]]"
+  - "[[Schema|Schema]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[KWL-Strategy|KWL Strategy]]"
+  - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Pre-questioning|Pre-questioning]]"
   - "[[Advance-Organizers|Advance Organizers]]"
   - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
   - "[[David-Ausubel|David Ausubel]]"
@@ -157,7 +165,7 @@ importance: high
 > [[Woloshyn, Pressley & Schneider (1992)]] compared elaborative interrogation to advance organizers across multiple studies and found that elaborative interrogation — asking learners to explain why stated facts are true — produced more robust learning benefits, particularly for learners with relevant prior knowledge. The mechanism proposed is that elaborative interrogation forces active integration of new information with existing knowledge during encoding, rather than simply providing scaffolding in advance. The implication is that prior knowledge activation is most powerful when it is not a front-loaded intervention but an ongoing cognitive stance — a habit of mind that connects new information to existing understanding throughout the learning experience.
 
 > [!analytical-insight] Key Insight *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
-> Prior knowledge does not help all learners equally. Learners with moderate prior knowledge benefit most from advance organizers and other activation strategies, because they have enough existing structure to make connections but not enough automaticity to self-organize new material efficiently. Novices lack the structures to connect to; experts have sufficiently developed schemas that they automatically integrate new information without needing explicit scaffolding. This creates what [[Patricia Alexander]] called the domain-knowledge paradox: the learners who most need activation support are often the ones hardest to help because activation strategies presuppose some existing structure to activate.
+> Prior knowledge does not help all learners equally. Learners with moderate prior knowledge benefit most from advance organizers and other activation strategies, because they have enough existing structure to make connections but not enough automaticity to self-organize new material efficiently. Novices lack the structures to connect to; experts have sufficiently developed schemas that they automatically integrate new information without needing explicit scaffolding. This creates what [[Patricia-Alexander]] called the domain-knowledge paradox: the learners who most need activation support are often the ones hardest to help because activation strategies presuppose some existing structure to activate.
 
 > [!analytical-insight] Key Insight *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
 > According to Ausubel's assimilation theory, meaningful learning requires that (1) the material to be learned is potentially meaningful — that is, it could in principle be related to the learner's existing knowledge — and (2) relevant anchoring ideas actually exist in the learner's cognitive structure. If either condition fails, rote learning is the result. The advance organizer's job is to satisfy condition (2) when it would otherwise not be met: either by activating existing anchoring ideas (comparative organizer) or by providing new superordinate structures (expository organizer) before instruction begins.
@@ -216,7 +224,7 @@ importance: high
 > Schema theory supports the principle of *progressive differentiation* — beginning instruction at a high level of abstraction and moving progressively toward more differentiated, specific knowledge. This contrasts with the common instructional tendency to begin with definitions and build toward concepts, which asks learners to accumulate specifics without the organizational framework that gives them meaning. Beginning with the big picture schema and elaborating inward aligns instruction with the hierarchical structure of schemas themselves.
 
 > [!warning] **Key Distinction** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
-> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual Change Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
+> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual-Change-Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
 
 > [!warning] **Key Distinction** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > A common instructional error is to assume that prior knowledge is always facilitative. When learners hold strong, wrong schemas, activating them at the beginning of instruction can *strengthen* the incorrect framework rather than weaken it. Effective instruction in such cases often requires making the incorrect schema explicit, confronting it directly with disconfirming evidence, and providing a better alternative that is simultaneously comprehensible, plausible, and fruitful. This sequence — surface the misconception, create conflict, introduce the replacement, reconcile — is more cognitively demanding but more effective than ignoring the pre-existing schema.
@@ -338,6 +346,54 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md, schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Assimilation-Theory|Assimilation Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+
+
+
+
+
+
 
 
 

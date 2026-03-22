@@ -104,21 +104,21 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[[Chrysippus]]"
   - "[[Hierocles]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Oikeiosis]]"
   - "[[Dikaiosyne]]"
   - "[[Cosmopolitanism]]"
   - "[[Kathêkon]]"
   - "[[Apatheia]]"
-  - "[[Attachment Theory]]"
+  - "[[Attachment-Theory]]"
   - "[[Nonviolent Communication]]"
   - "[[Interpersonal Neurobiology]]"
   - "[[Gottman Method]]"
@@ -135,7 +135,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
   - "[[Psychology of Relationships]]"
 
@@ -150,7 +150,7 @@ see-also:
   - "[[Attachment Theory (Bowlby)]]"
   - "[[Nonviolent Communication (Rosenberg)]]"
   - "[[Gottman Four Horsemen]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Interpersonal Acceptance and Commitment Therapy]]"
   - "[[Buddhist Metta (Lovingkindness)]]"
 
@@ -243,7 +243,7 @@ importance: high
 # Stoicism in Relationships: Building Stronger Connections
 
 > [!abstract]
-> This report applies [[Stoicism]]'s philosophical architecture systematically to one of the most central and challenging domains of human life: our relationships with other people. Drawing on the Stoic theories of *oikeiosis* (natural affiliation), cosmopolitan justice, and virtue-based friendship — sourced directly from [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and [[Hierocles]] — the report maps the problem of relationship as the Stoics understood it, builds a practical framework grounded in five core principles, connects the Stoic approach to contemporary psychology (attachment theory, nonviolent communication, interpersonal neurobiology), provides worked examples from historical and everyday contexts, and delivers a systematic practice toolkit. The central argument is that Stoicism does not counsel emotional withdrawal from others — it offers a more demanding and ultimately more generous alternative: genuine engagement grounded in virtue, liberated from the need to control what cannot be controlled, and sustained by an understanding of the shared rational nature that all persons hold in common.
+> This report applies [[Stoicism]]'s philosophical architecture systematically to one of the most central and challenging domains of human life: our relationships with other people. Drawing on the Stoic theories of *oikeiosis* (natural affiliation), cosmopolitan justice, and virtue-based friendship — sourced directly from [[Marcus-Aurelius]], [[Epictetus]], [[Seneca]], and [[Hierocles]] — the report maps the problem of relationship as the Stoics understood it, builds a practical framework grounded in five core principles, connects the Stoic approach to contemporary psychology (attachment theory, nonviolent communication, interpersonal neurobiology), provides worked examples from historical and everyday contexts, and delivers a systematic practice toolkit. The central argument is that Stoicism does not counsel emotional withdrawal from others — it offers a more demanding and ultimately more generous alternative: genuine engagement grounded in virtue, liberated from the need to control what cannot be controlled, and sustained by an understanding of the shared rational nature that all persons hold in common.
 
 ---
 
@@ -256,7 +256,7 @@ importance: high
 > → Next: [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 >
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–06. This report builds directly on the [[Dichotomy of Control]] (Report 01 & 02), the cardinal virtue of [[Dikaiosyne]] (Report 02), and the emotional self-governance framework (Reports 03 & 06). Readers new to the series will find the report accessible but will benefit from the fuller context of the earlier reports.
+> **Recommended Prerequisites**: Reports 01–06. This report builds directly on the [[Dichotomy-of-Control]] (Report 01 & 02), the cardinal virtue of [[Dikaiosyne]] (Report 02), and the emotional self-governance framework (Reports 03 & 06). Readers new to the series will find the report accessible but will benefit from the fuller context of the earlier reports.
 
 ---
 
@@ -266,7 +266,7 @@ There is a widely circulating misreading of Stoicism that positions it as a phil
 
 This interpretation is not Stoicism. It is a caricature that inverts the tradition's most important commitments.
 
-The Stoics placed our relationships with other people at the very center of ethical life. [[Justice]] (*dikaiosyne*), one of the four cardinal Stoic virtues, is by definition a social virtue — it cannot be exercised in isolation. The Stoic concept of *[[Oikeiosis]]* — the natural process by which care and affiliation expand outward from the self to others — grounds one of the most ambitious theories of human social obligation in all of ancient philosophy. [[Marcus Aurelius]], the philosopher-emperor, returns again and again in the *Meditations* to the theme of his obligations toward others, of his kinship with all rational beings, of the importance of acting for the good of the community even at personal cost. [[Seneca]] wrote more warmly and more extensively about friendship than almost any other ancient philosopher. [[Epictetus]], who had every reason to cultivate a self-sufficient detachment given his life as a slave, insisted that the highest expression of human character was not independence from others but right relationship with them — active, generous, and uncorrupted by the desire for reciprocal advantage.
+The Stoics placed our relationships with other people at the very center of ethical life. [[Justice]] (*dikaiosyne*), one of the four cardinal Stoic virtues, is by definition a social virtue — it cannot be exercised in isolation. The Stoic concept of *[[Oikeiosis]]* — the natural process by which care and affiliation expand outward from the self to others — grounds one of the most ambitious theories of human social obligation in all of ancient philosophy. [[Marcus-Aurelius]], the philosopher-emperor, returns again and again in the *Meditations* to the theme of his obligations toward others, of his kinship with all rational beings, of the importance of acting for the good of the community even at personal cost. [[Seneca]] wrote more warmly and more extensively about friendship than almost any other ancient philosopher. [[Epictetus]], who had every reason to cultivate a self-sufficient detachment given his life as a slave, insisted that the highest expression of human character was not independence from others but right relationship with them — active, generous, and uncorrupted by the desire for reciprocal advantage.
 
 [Stoicism-and-Relationships-Central-Claim:: The Stoic position is not that relationships are a necessary risk to be minimized but that they are the primary arena in which virtue is expressed and tested — that justice, courage, temperance, and wisdom are most fully realized not in solitary contemplation but in the sustained demands of genuine engagement with other people.]
 
@@ -333,7 +333,7 @@ Seneca was also, notably, the ancient philosopher most alert to the corrupting d
 
 ### Epictetus and the Limits of Relational Control
 
-[[Epictetus]] brings the signature Stoic tool — the [[Dichotomy of Control]] — to bear on the specific domain of relationships with a precision and practical urgency that no other ancient philosopher quite matches.
+[[Epictetus]] brings the signature Stoic tool — the [[Dichotomy-of-Control]] — to bear on the specific domain of relationships with a precision and practical urgency that no other ancient philosopher quite matches.
 
 His core claim is deceptively simple: in any relationship, what is genuinely "up to us" (*eph' hēmin*) is our own conduct — our honesty, our care, our patience, our willingness to be fully present. What is not up to us is how others respond to that conduct. This is not a counsel of indifference; it is a counsel of liberation. If I extend genuine care toward someone I love, and they fail to respond with care in return, I have not failed. I have done what virtue required. The response belongs to them, not to me.
 
@@ -432,7 +432,7 @@ The psychological mechanism connecting Stoic practice to relational improvement 
 > [!key-insight]
 > **The Self-Determination Theory Connection**
 >
-> [[Self-Determination Theory]] (Deci & Ryan) identifies three fundamental psychological needs — autonomy, competence, and relatedness — whose satisfaction predicts wellbeing across cultures. The Stoic relational framework is, in effect, a systematic way of satisfying all three: autonomy is preserved by locating responsibility in one's own character rather than in others' behavior; competence is exercised through the challenging practice of virtue under relational pressure; and relatedness — the experience of genuine connection with others — is cultivated precisely when we engage with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature rather than through the lens of what they can provide for us.
+> [[Self-Determination-Theory]] (Deci & Ryan) identifies three fundamental psychological needs — autonomy, competence, and relatedness — whose satisfaction predicts wellbeing across cultures. The Stoic relational framework is, in effect, a systematic way of satisfying all three: autonomy is preserved by locating responsibility in one's own character rather than in others' behavior; competence is exercised through the challenging practice of virtue under relational pressure; and relatedness — the experience of genuine connection with others — is cultivated precisely when we engage with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature rather than through the lens of what they can provide for us.
 
 ---
 
@@ -628,7 +628,7 @@ The Stoic reframing of relationships is, at its core, a liberation. It is libera
 
 This does not make relationships easier in the short term. It makes them deeper, more honest, and more resilient over time. The Stoic who engages with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature will sometimes be disappointed. The disappointment is real, and Stoicism does not pretend otherwise. What Stoicism offers is the capacity to hold that disappointment without being defined by it — to feel the pain of a relationship that has failed or fallen short while maintaining the inner stability that comes from knowing that one's own conduct was, to the best of one's ability, what virtue required.
 
-[[Marcus Aurelius]] was a man who governed millions of people, many of whom frustrated him, betrayed him, or failed to understand what he was trying to do. He continued, every day, to return to the practices — the morning reminders, the reasoning through others' perspectives, the commitment to justice in all his dealings — that the Stoic tradition had given him. He did not achieve perfection. The *Meditations* are the record of a man who fell short of his ideals repeatedly and kept returning to them. What he cultivated, over a lifetime of practice, was not a perfect character but an orientation: a consistent direction of effort toward the relational expression of wisdom, justice, courage, and temperance.
+[[Marcus-Aurelius]] was a man who governed millions of people, many of whom frustrated him, betrayed him, or failed to understand what he was trying to do. He continued, every day, to return to the practices — the morning reminders, the reasoning through others' perspectives, the commitment to justice in all his dealings — that the Stoic tradition had given him. He did not achieve perfection. The *Meditations* are the record of a man who fell short of his ideals repeatedly and kept returning to them. What he cultivated, over a lifetime of practice, was not a perfect character but an orientation: a consistent direction of effort toward the relational expression of wisdom, justice, courage, and temperance.
 
 That orientation is available to anyone willing to practice it. It does not require special talent, philosophical training, or unusual circumstances. It requires only the willingness to ask, in every relationship, not "What am I getting?" but "What does virtue require here?" — and to take that question seriously enough to shape one's actual behavior.
 

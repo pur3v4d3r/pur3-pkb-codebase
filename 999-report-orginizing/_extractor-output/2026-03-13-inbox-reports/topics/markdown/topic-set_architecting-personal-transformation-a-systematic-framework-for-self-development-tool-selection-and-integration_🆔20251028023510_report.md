@@ -150,9 +150,9 @@ extraction_summary:
 > Recommended continued study:
 > - **[[Dual-Process-Theory|Dual-Process Theory]]** and **[[System 1 vs System 2 Thinking]]**: Understanding the cognitive architecture that underlies many self-development challenges (automatic vs deliberate processing)
 > - **[[Implementation-Intentions|Implementation Intentions]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
-> - **[[Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
-> - **[[Growth Mindset Theory]]** and **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]**: How beliefs about changeability influence learning and persistence
-> - **[[Deliberate Practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development
+> - **[[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
+> - **[[Growth-Mindset-Theory|Growth Mindset Theory]]** and **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]**: How beliefs about changeability influence learning and persistence
+> - **[[Deliberate-Practice|Deliberate Practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development
 > - **[[Atomic Habits]]** and **[[Behavioral Design]]**: The environmental and architectural approach to sustainable behavior change
 > - **[[Epistemic-Humility|Epistemic Humility]]** and **[[Intellectual-Virtues|Intellectual Virtues]]**: Character-based approaches to improved thinking and learning
 
@@ -168,11 +168,11 @@ extraction_summary:
 
 - [[Atomic Habits]]
 - [[Behavioral Design]]
-- [[Cognitive Behavioral Therapy (CBT)]]
-- [[Deliberate Practice]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Epistemic-Humility|Epistemic Humility]]
-- [[Growth Mindset Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
@@ -187,10 +187,10 @@ extraction_summary:
 | 2 | [[System 1 vs System 2 Thinking]] | — | — | Further Exploration | 109 |
 | 3 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Further Exploration | 110 |
 | 4 | [[WOOP Model]] | — | — | Further Exploration | 110 |
-| 5 | [[Cognitive Behavioral Therapy (CBT)]] | — | — | Further Exploration | 111 |
-| 6 | [[Growth Mindset Theory]] | — | — | Further Exploration | 112 |
+| 5 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]] | — | — | Further Exploration | 111 |
+| 6 | [[Growth-Mindset-Theory|Growth Mindset Theory]] | — | — | Further Exploration | 112 |
 | 7 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | Further Exploration | 112 |
-| 8 | [[Deliberate Practice]] | — | — | Further Exploration | 113 |
+| 8 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Further Exploration | 113 |
 | 9 | [[Atomic Habits]] | — | — | Further Exploration | 114 |
 | 10 | [[Behavioral Design]] | — | — | Further Exploration | 114 |
 | 11 | [[Epistemic-Humility|Epistemic Humility]] | — | — | Further Exploration | 115 |
@@ -207,11 +207,11 @@ extraction_summary:
 
 - [[Atomic Habits]]
 - [[Behavioral Design]]
-- [[Cognitive Behavioral Therapy (CBT)]]
-- [[Deliberate Practice]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Epistemic-Humility|Epistemic Humility]]
-- [[Growth Mindset Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Intellectual-Virtues|Intellectual Virtues]]

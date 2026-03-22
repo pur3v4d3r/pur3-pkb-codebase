@@ -112,7 +112,7 @@ extraction_summary:
     - ### 1. **[[Critical Thinking Development and Pedagogy]]**
     - ### 2. **[[Cognitive Biases and Critical Thinking]]**
     - ### 3. **[[Argument Analysis and Logical Fallacies]]**
-    - ### 4. **[[Metacognition and Self-Regulated Learning]]**
+    - ### 4. **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]**
     - ### 5. **[[Domain-Specific Critical Thinking in STEM]]**
     - ### 6. **[[Critical Thinking Assessment and Measurement]]**
   - ## Summary of Expansion Priorities
@@ -179,12 +179,12 @@ extraction_summary:
 > [!definition] Cognitive-Psychological Conceptualization
 > **[CT-Cognitive-Process-Model**:: From cognitive science perspective, critical thinking comprises specific, measurable cognitive operations including semantic analysis (extracting meaning from text/speech), logical evaluation (assessing argument validity), evidence appraisal (judging claim support), inference generation (drawing conclusions), and synthesis (integrating multiple perspectives) - all executed within working memory constraints and regulated by executive control and metacognitive monitoring.]**
 > 
-> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
+> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[Robert-Ennis|Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[Diane-Halpern|Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
 
 #### 4. [KEY-CLAIM] Educational Synthesis *(Line 139)*
 
 > [!key-claim] Educational Synthesis
-> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's Depth of Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive operations across novel contexts.
+> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin-Bloom|Benjamin Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive operations across novel contexts.
 
 #### 5. [EXAMPLE] Standards Application *(Line 160)*
 
@@ -357,9 +357,9 @@ extraction_summary:
 - [[Ad Hominem]]
 - [[Alan-Baddeley|Alan Baddeley]]
 - [[Anchoring]]
-- [[Anchoring Effects]]
+- [[Anchoring-Effects|Anchoring Effects]]
 - [[Anderson and Krathwohl]]
-- [[Argument Analysis]]
+- [[Argument-Analysis|Argument Analysis]]
 - [[Argument Analysis and Logical Fallacies]]
 - [[Argument-Based Inquiry]]
 - [[Argumentation-Theory|Argumentation Theory]]
@@ -369,29 +369,29 @@ extraction_summary:
 - [[Availability-Heuristic|Availability Heuristic]]
 - [[Bat-and-Ball Problem]]
 - [[Behavioral Economics]]
-- [[Benjamin Bloom]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bruner]]
 - [[CRAAP Test]]
 - [[California Critical Thinking Disposition Inventory]]
-- [[California Critical Thinking Skills Test]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive Biases and Critical Thinking]]
 - [[Cognitive Development]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Cornell Critical Thinking Test]]
 - [[Cowan]]
 - [[Critical Thinking Assessment]]
 - [[Critical Thinking Assessment and Measurement]]
 - [[Critical Thinking Development and Pedagogy]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Delphi Study]]
-- [[Diane Halpern]]
+- [[Diane-Halpern|Diane Halpern]]
 - [[Domain-Specific Critical Thinking in STEM]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Dunning and Kruger]]
+- [[Dunning-and-Kruger|Dunning and Kruger]]
 - [[Dunning-Kruger]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Educational Assessment]]
@@ -410,43 +410,43 @@ extraction_summary:
 - [[Goel and Dolan]]
 - [[Halpern Critical Thinking Assessment]]
 - [[Information Literacy]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Judgment and Decision Making]]
-- [[Keith Stanovich]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Kruger and Dunning]]
-- [[Kuhn and Dean]]
+- [[Kuhn-and-Dean|Kuhn and Dean]]
 - [[Kuhn and Weinstock]]
 - [[Kuhn's]]
 - [[Larkin and Simon]]
 - [[Lateral Reading]]
 - [[Learning Strategies]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logic]]
 - [[Marton and Säljö]]
 - [[Mathematical Reasoning]]
 - [[McPeck]]
 - [[Measurement Theory]]
-- [[Metacognition and Self-Regulated Learning]]
-- [[Michael Polanyi]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Michael-Polanyi|Michael Polanyi]]
 - [[Miyake and Friedman]]
 - [[Modus-Ponens|Modus Ponens]]
 - [[Modus-Tollens|Modus Tollens]]
 - [[Myside-Bias|Myside Bias]]
-- [[Newell and Simon]]
-- [[Paul and Elder]]
+- [[Newell-and-Simon|Newell and Simon]]
+- [[Paul-and-Elder|Paul and Elder]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Peter Facione]]
+- [[Peter-Facione|Peter Facione]]
 - [[Piaget]]
 - [[Problem-Based Learning]]
 - [[Psychometrics]]
 - [[Rationalism]]
 - [[Rhetoric]]
-- [[Richard Paul]]
-- [[Robert Ennis]]
+- [[Richard-Paul|Richard Paul]]
+- [[Robert-Ennis|Robert Ennis]]
 - [[Science Education]]
-- [[Scientific Method]]
+- [[Scientific-Method|Scientific Method]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic-Method|Socratic Method]]
@@ -461,7 +461,7 @@ extraction_summary:
 - [[Walton's Argumentation Schemes]]
 - [[Wardle and Derakhshan]]
 - [[Watson-Glaser]]
-- [[Webb's Depth of Knowledge]]
+- [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]
 - [[Willingham]]
 - [[Wineburg]]
 - [[Wisconsin Card Sorting Task]]
@@ -473,65 +473,65 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Socrates]] | — | — | Defining Critical Thinking: A Multi-D... | 124 |
 | 2 | [[Socratic-Method|Socratic Method]] | — | — | Defining Critical Thinking: A Multi-D... | 126 |
-| 3 | [[Robert Ennis]] | — | — | Defining Critical Thinking: A Multi-D... | 133 |
-| 4 | [[Diane Halpern]] | — | — | Defining Critical Thinking: A Multi-D... | 133 |
-| 5 | [[Benjamin Bloom]] | — | — | Defining Critical Thinking: A Multi-D... | 140 |
-| 6 | [[Webb's Depth of Knowledge]] | — | — | Defining Critical Thinking: A Multi-D... | 140 |
-| 7 | [[Kuhn and Dean]] | — | — | Defining Critical Thinking: A Multi-D... | 142 |
-| 8 | [[Scientific Method]] | — | — | Core Characteristics: What Makes Thin... | 152 |
-| 9 | [[Argument Analysis]] | — | — | Core Characteristics: What Makes Thin... | 152 |
-| 10 | [[Paul and Elder]] | — | — | Core Characteristics: What Makes Thin... | 158 |
-| 11 | [[John Flavell]] | — | — | Core Characteristics: What Makes Thin... | 176 |
-| 12 | [[Dunning and Kruger]] | — | — | Core Characteristics: What Makes Thin... | 178 |
+| 3 | [[Robert-Ennis|Robert Ennis]] | — | — | Defining Critical Thinking: A Multi-D... | 133 |
+| 4 | [[Diane-Halpern|Diane Halpern]] | — | — | Defining Critical Thinking: A Multi-D... | 133 |
+| 5 | [[Benjamin-Bloom|Benjamin Bloom]] | — | — | Defining Critical Thinking: A Multi-D... | 140 |
+| 6 | [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] | — | — | Defining Critical Thinking: A Multi-D... | 140 |
+| 7 | [[Kuhn-and-Dean|Kuhn and Dean]] | — | — | Defining Critical Thinking: A Multi-D... | 142 |
+| 8 | [[Scientific-Method|Scientific Method]] | — | — | Core Characteristics: What Makes Thin... | 152 |
+| 9 | [[Argument-Analysis|Argument Analysis]] | — | — | Core Characteristics: What Makes Thin... | 152 |
+| 10 | [[Paul-and-Elder|Paul and Elder]] | — | — | Core Characteristics: What Makes Thin... | 158 |
+| 11 | [[John-Flavell|John Flavell]] | — | — | Core Characteristics: What Makes Thin... | 176 |
+| 12 | [[Dunning-and-Kruger|Dunning and Kruger]] | — | — | Core Characteristics: What Makes Thin... | 178 |
 | 13 | [[McPeck]] | — | — | Core Characteristics: What Makes Thin... | 184 |
 | 14 | [[Ennis]] | — | — | Core Characteristics: What Makes Thin... | 184 |
-| 15 | [[Keith Stanovich]] | — | — | Distinguishing Critical Thinking from... | 213 |
+| 15 | [[Keith-Stanovich|Keith Stanovich]] | — | — | Distinguishing Critical Thinking from... | 213 |
 | 16 | [[Myside-Bias|Myside Bias]] | — | — | Distinguishing Critical Thinking from... | 213 |
-| 17 | [[Anchoring Effects]] | — | — | Distinguishing Critical Thinking from... | 213 |
+| 17 | [[Anchoring-Effects|Anchoring Effects]] | — | — | Distinguishing Critical Thinking from... | 213 |
 | 18 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Distinguishing Critical Thinking from... | 213 |
 | 19 | [[Glaser]] | — | — | Distinguishing Critical Thinking from... | 219 |
-| 20 | [[Newell and Simon]] | — | — | Distinguishing Critical Thinking from... | 230 |
+| 20 | [[Newell-and-Simon|Newell and Simon]] | — | — | Distinguishing Critical Thinking from... | 230 |
 | 21 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | The Epistemological Dimension: CT as ... | 234 |
 | 22 | [[Empiricism]] | — | — | The Epistemological Dimension: CT as ... | 240 |
 | 23 | [[Rationalism]] | — | — | The Epistemological Dimension: CT as ... | 241 |
 | 24 | [[Fallibilism]] | — | — | The Epistemological Dimension: CT as ... | 242 |
 | 25 | [[Susan Haack]] | — | — | The Epistemological Dimension: CT as ... | 245 |
-| 26 | [[Information Processing Theory]] | — | — | The Information Processing Foundation | 262 |
+| 26 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | The Information Processing Foundation | 262 |
 | 27 | [[Atkinson and Shiffrin]] | — | — | The Information Processing Foundation | 262 |
 | 28 | [[Cowan]] | — | — | Working Memory: The Cognitive Workspace | 272 |
 | 29 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Working Memory: The Cognitive Workspace | 274 |
 | 30 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Working Memory: The Cognitive Workspace | 296 |
 | 31 | [[Modus-Ponens|Modus Ponens]] | — | — | Working Memory: The Cognitive Workspace | 302 |
 | 32 | [[Miyake and Friedman]] | — | — | Executive Function: The Cognitive Con... | 310 |
-| 33 | [[Daniel Kahneman]] | — | — | Executive Function: The Cognitive Con... | 316 |
+| 33 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 34 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 35 | [[System-1|System 1]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 36 | [[System-2|System 2]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 37 | [[Bat-and-Ball Problem]] | — | — | Executive Function: The Cognitive Con... | 319 |
 | 38 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Executive Function: The Cognitive Con... | 339 |
 | 39 | [[Wisconsin Card Sorting Task]] | — | — | Executive Function: The Cognitive Con... | 345 |
-| 40 | [[John Flavell]] | — | — | Metacognition: Self-Regulation of Thi... | 355 |
+| 40 | [[John-Flavell|John Flavell]] | — | — | Metacognition: Self-Regulation of Thi... | 355 |
 | 41 | [[Larkin and Simon]] | — | — | Metacognition: Self-Regulation of Thi... | 368 |
 | 42 | [[Kruger and Dunning]] | — | — | Metacognition: Self-Regulation of Thi... | 372 |
 | 43 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Metacognition: Self-Regulation of Thi... | 372 |
 | 44 | [[Goel and Dolan]] | — | — | Neural Substrates of Critical Thinking | 380 |
-| 45 | [[Richard Paul]] | — | — | The Paul-Elder Critical Thinking Fram... | 429 |
-| 46 | [[Linda Elder]] | — | — | The Paul-Elder Critical Thinking Fram... | 429 |
+| 45 | [[Richard-Paul|Richard Paul]] | — | — | The Paul-Elder Critical Thinking Fram... | 429 |
+| 46 | [[Linda-Elder|Linda Elder]] | — | — | The Paul-Elder Critical Thinking Fram... | 429 |
 | 47 | [[Foundation for Critical Thinking]] | — | — | The Paul-Elder Critical Thinking Fram... | 429 |
 | 48 | [[Delphi Study]] | — | — | Facione's Delphi Consensus Framework | 528 |
-| 49 | [[Peter Facione]] | — | — | Facione's Delphi Consensus Framework | 530 |
+| 49 | [[Peter-Facione|Peter Facione]] | — | — | Facione's Delphi Consensus Framework | 530 |
 | 50 | [[California Critical Thinking Disposition Inventory]] | — | — | Critical Thinking Dispositions | 581 |
-| 51 | [[California Critical Thinking Skills Test]] | — | — | Critical Thinking Dispositions | 591 |
+| 51 | [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] | — | — | Critical Thinking Dispositions | 591 |
 | 52 | [[California Critical Thinking Disposition Inventory]] | — | — | Critical Thinking Dispositions | 591 |
-| 53 | [[Benjamin Bloom]] | — | — | Bloom's Taxonomy (Revised): CT as Hig... | 597 |
+| 53 | [[Benjamin-Bloom|Benjamin Bloom]] | — | — | Bloom's Taxonomy (Revised): CT as Hig... | 597 |
 | 54 | [[Anderson and Krathwohl]] | — | — | Bloom's Taxonomy (Revised): CT as Hig... | 597 |
 | 55 | [[Anderson and Krathwohl]] | — | — | Revised Taxonomy (2001) | 620 |
 | 56 | [[Australian Council for Educational Research]] | — | — | Australian Council for Educational Re... | 641 |
 | 57 | [[Test of Reasoning and Argument]] | — | — | Australian Council for Educational Re... | 641 |
 | 58 | [[Modus-Ponens|Modus Ponens]] | — | — | Four Core Competencies | 655 |
 | 59 | [[Modus-Tollens|Modus Tollens]] | — | — | Four Core Competencies | 655 |
-| 60 | [[Michael Polanyi]] | — | — | The Information-Knowledge Transformat... | 796 |
-| 61 | [[Constructivist Learning Theory]] | — | — | CT's Role in Learning Theory | 816 |
+| 60 | [[Michael-Polanyi|Michael Polanyi]] | — | — | The Information-Knowledge Transformat... | 796 |
+| 61 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | CT's Role in Learning Theory | 816 |
 | 62 | [[Constructivism]] | — | — | CT's Role in Learning Theory | 818 |
 | 63 | [[Piaget]] | — | — | CT's Role in Learning Theory | 818 |
 | 64 | [[Vygotsky]] | — | — | CT's Role in Learning Theory | 818 |
@@ -578,7 +578,7 @@ extraction_summary:
 | 105 | [[Logic]] | — | — | 3. **[[Argument Analysis and Logical ... | 1120 |
 | 106 | [[Rhetoric]] | — | — | 3. **[[Argument Analysis and Logical ... | 1120 |
 | 107 | [[Argumentation-Theory|Argumentation Theory]] | — | — | 3. **[[Argument Analysis and Logical ... | 1120 |
-| 108 | [[Metacognition and Self-Regulated Learning]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1126 |
+| 108 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1126 |
 | 109 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1130 |
 | 110 | [[Learning Strategies]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1132 |
 | 111 | [[Cognitive Development]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1132 |
@@ -597,7 +597,7 @@ extraction_summary:
 | 124 | [[Critical Thinking Development and Pedagogy]] | — | — | Summary of Expansion Priorities | 1166 |
 | 125 | [[Cognitive Biases and Critical Thinking]] | — | — | Summary of Expansion Priorities | 1167 |
 | 126 | [[Argument Analysis and Logical Fallacies]] | — | — | Summary of Expansion Priorities | 1168 |
-| 127 | [[Metacognition and Self-Regulated Learning]] | — | — | Summary of Expansion Priorities | 1169 |
+| 127 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | Summary of Expansion Priorities | 1169 |
 | 128 | [[Domain-Specific Critical Thinking in STEM]] | — | — | Summary of Expansion Priorities | 1170 |
 | 129 | [[Critical Thinking Assessment]] | — | — | Summary of Expansion Priorities | 1171 |
 
@@ -1168,7 +1168,7 @@ extraction_summary:
 | [[Critical Thinking Development and Pedagogy]] | High | Theory → Practice |
 | [[Cognitive Biases and Critical Thinking]] | High | Obstacles to CT |
 | [[Argument Analysis and Logical Fallacies]] | High | Core CT Toolkit |
-| [[Metacognition and Self-Regulated Learning]] | High | CT Excellence Factor |
+| [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | High | CT Excellence Factor |
 | [[Domain-Specific Critical Thinking in STEM]] | Medium-High | Disciplinary Application |
 | [[Critical Thinking Assessment]] | Medium | Evaluation Methods |
 
@@ -1198,9 +1198,9 @@ extraction_summary:
 - [[Ad Hominem]]
 - [[Alan-Baddeley|Alan Baddeley]]
 - [[Anchoring]]
-- [[Anchoring Effects]]
+- [[Anchoring-Effects|Anchoring Effects]]
 - [[Anderson and Krathwohl]]
-- [[Argument Analysis]]
+- [[Argument-Analysis|Argument Analysis]]
 - [[Argument Analysis and Logical Fallacies]]
 - [[Argument-Based Inquiry]]
 - [[Argumentation-Theory|Argumentation Theory]]
@@ -1210,29 +1210,29 @@ extraction_summary:
 - [[Availability-Heuristic|Availability Heuristic]]
 - [[Bat-and-Ball Problem]]
 - [[Behavioral Economics]]
-- [[Benjamin Bloom]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bruner]]
 - [[CRAAP Test]]
 - [[California Critical Thinking Disposition Inventory]]
-- [[California Critical Thinking Skills Test]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive Biases and Critical Thinking]]
 - [[Cognitive Development]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Cornell Critical Thinking Test]]
 - [[Cowan]]
 - [[Critical Thinking Assessment]]
 - [[Critical Thinking Assessment and Measurement]]
 - [[Critical Thinking Development and Pedagogy]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Delphi Study]]
-- [[Diane Halpern]]
+- [[Diane-Halpern|Diane Halpern]]
 - [[Domain-Specific Critical Thinking in STEM]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Dunning and Kruger]]
+- [[Dunning-and-Kruger|Dunning and Kruger]]
 - [[Dunning-Kruger]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Educational Assessment]]
@@ -1251,43 +1251,43 @@ extraction_summary:
 - [[Goel and Dolan]]
 - [[Halpern Critical Thinking Assessment]]
 - [[Information Literacy]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Judgment and Decision Making]]
-- [[Keith Stanovich]]
+- [[Keith-Stanovich|Keith Stanovich]]
 - [[Kruger and Dunning]]
-- [[Kuhn and Dean]]
+- [[Kuhn-and-Dean|Kuhn and Dean]]
 - [[Kuhn and Weinstock]]
 - [[Kuhn's]]
 - [[Larkin and Simon]]
 - [[Lateral Reading]]
 - [[Learning Strategies]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logic]]
 - [[Marton and Säljö]]
 - [[Mathematical Reasoning]]
 - [[McPeck]]
 - [[Measurement Theory]]
-- [[Metacognition and Self-Regulated Learning]]
-- [[Michael Polanyi]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Michael-Polanyi|Michael Polanyi]]
 - [[Miyake and Friedman]]
 - [[Modus-Ponens|Modus Ponens]]
 - [[Modus-Tollens|Modus Tollens]]
 - [[Myside-Bias|Myside Bias]]
-- [[Newell and Simon]]
-- [[Paul and Elder]]
+- [[Newell-and-Simon|Newell and Simon]]
+- [[Paul-and-Elder|Paul and Elder]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Peter Facione]]
+- [[Peter-Facione|Peter Facione]]
 - [[Piaget]]
 - [[Problem-Based Learning]]
 - [[Psychometrics]]
 - [[Rationalism]]
 - [[Rhetoric]]
-- [[Richard Paul]]
-- [[Robert Ennis]]
+- [[Richard-Paul|Richard Paul]]
+- [[Robert-Ennis|Robert Ennis]]
 - [[Science Education]]
-- [[Scientific Method]]
+- [[Scientific-Method|Scientific Method]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic-Method|Socratic Method]]
@@ -1302,7 +1302,7 @@ extraction_summary:
 - [[Walton's Argumentation Schemes]]
 - [[Wardle and Derakhshan]]
 - [[Watson-Glaser]]
-- [[Webb's Depth of Knowledge]]
+- [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]
 - [[Willingham]]
 - [[Wineburg]]
 - [[Wisconsin Card Sorting Task]]
@@ -1319,11 +1319,11 @@ extraction_summary:
 
 - [[Critical-Thinking|Critical Thinking]]
 - [[Metacognition]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Working-Memory|Working Memory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Paul-Elder Framework]]
-- [[Bloom's Taxonomy]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Information Literacy]]
 - [[Knowledge-Management|Knowledge Management]]

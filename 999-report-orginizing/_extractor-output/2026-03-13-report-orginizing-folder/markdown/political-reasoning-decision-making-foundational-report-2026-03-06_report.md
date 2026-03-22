@@ -190,7 +190,7 @@ extraction_summary:
 #### 11. [COUNTER-ARGUMENT] Untitled *(Line 333)*
 
 > [!counter-argument] Untitled
-> The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo Mercier]] and [[Dan Sperber]]'s "argumentative theory of reasoning" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.
+> The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo Mercier]] and [[Dan-Sperber|Dan Sperber]]'s "argumentative theory of reasoning" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.
 
 #### 12. [EVIDENCE] Untitled *(Line 342)*
 
@@ -244,12 +244,12 @@ extraction_summary:
 #### 21. [BEST-PRACTICE] Untitled *(Line 437)*
 
 > [!best-practice] Untitled
-> Civic education interventions that show the most consistent evidence of improving reasoning quality include: (1) explicit instruction in the identification of cognitive biases and motivated reasoning, applied to participants' own political reasoning; (2) perspective-taking exercises that require substantive engagement with the strongest versions of opposing arguments ("steelmanning" rather than strawmanning); (3) argument mapping techniques that make logical structure visible and evaluable; and (4) [[Socratic questioning]] practices that surface tacit assumptions.
+> Civic education interventions that show the most consistent evidence of improving reasoning quality include: (1) explicit instruction in the identification of cognitive biases and motivated reasoning, applied to participants' own political reasoning; (2) perspective-taking exercises that require substantive engagement with the strongest versions of opposing arguments ("steelmanning" rather than strawmanning); (3) argument mapping techniques that make logical structure visible and evaluable; and (4) [[Socratic-Questioning|Socratic questioning]] practices that surface tacit assumptions.
 
 #### 22. [WARNING] Untitled *(Line 448)*
 
 > [!warning] Untitled
-> A significant limitation of media literacy interventions is the [[Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.
+> A significant limitation of media literacy interventions is the [[Backfire-Effect|Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan-Nyhan|Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.
 
 #### 23. [IMPORTANT] Untitled *(Line 457)*
 
@@ -273,9 +273,9 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Metacognition and Lifelong Learning]]** — The political reasoning literature extends the self-regulatory learning frameworks documented in this node. The metacognitive monitoring and control processes that support adaptive learning are precisely the capacities that, when directed toward political cognition, support epistemic citizenship. The Sophistication Paradox has a direct analogue in the Dunning-Kruger literature: both show that cognitive sophistication is not automatically self-correcting without metacognitive orientation.
+> - **[[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]** — The political reasoning literature extends the self-regulatory learning frameworks documented in this node. The metacognitive monitoring and control processes that support adaptive learning are precisely the capacities that, when directed toward political cognition, support epistemic citizenship. The Sophistication Paradox has a direct analogue in the Dunning-Kruger literature: both show that cognitive sophistication is not automatically self-correcting without metacognitive orientation.
 > 
-> - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework and Schön's reflective practitioner model both apply directly to political reasoning. "Reflection-in-action" in political contexts corresponds to the real-time identification of motivated reasoning during political information processing. The critical thinking disposition of "fair-mindedness" maps closely onto the epistemic virtue literature on epistemic humility in political judgment.
+> - **[[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]** — The Paul-Elder framework and Schön's reflective practitioner model both apply directly to political reasoning. "Reflection-in-action" in political contexts corresponds to the real-time identification of motivated reasoning during political information processing. The critical thinking disposition of "fair-mindedness" maps closely onto the epistemic virtue literature on epistemic humility in political judgment.
 > 
 > - **[[Epistemic-Calibration|Epistemic Calibration]]** — Tetlock's superforecaster research provides the most detailed empirical picture of what well-calibrated political judgment looks like and how it is developed. This node would extend the present report's treatment of accuracy-motivated versus directional-motivated reasoning into the specific cognitive and dispositional profiles of individuals who consistently do well at political prediction.
 > 
@@ -421,19 +421,19 @@ extraction_summary:
 - [[Affective Intelligence Theory — Full Treatment]]
 - [[Alexander Todorov]]
 - [[Arthur Lupia]]
-- [[Backfire Effect]]
-- [[Brendan Nyhan]]
+- [[Backfire-Effect|Backfire Effect]]
+- [[Brendan-Nyhan|Brendan Nyhan]]
 - [[Charles Taber]]
-- [[Christopher Achen]]
+- [[Christopher-Achen|Christopher Achen]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Cross-Cultural Variation in Political Reasoning]]
 - [[Dan Kahan]]
-- [[Dan Sperber]]
-- [[Daniel Kahneman]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deliberate Practice in Civic Reasoning]]
 - [[Deliberative Democracy and Epistemic Citizenship]]
 - [[Deliberative democratic]]
-- [[Drew Westen]]
+- [[Drew-Westen|Drew Westen]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic-Humility|Epistemic humility]]
@@ -443,20 +443,20 @@ extraction_summary:
 - [[Hugo Mercier]]
 - [[Inoculation-Theory|Inoculation theory]]
 - [[James Fishkin]]
-- [[John Jost]]
+- [[John-Jost|John Jost]]
 - [[John MacKuen]]
 - [[John Turner]]
 - [[Kahneman and Tversky]]
-- [[Larry Bartels]]
+- [[Larry-Bartels|Larry Bartels]]
 - [[Leonie Huddy]]
 - [[Media Literacy and Disinformation Resistance]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Michael Neuman]]
 - [[Mike Caulfield]]
 - [[Milton Lodge]]
 - [[Partisan Identity and Motivated Reasoning]]
-- [[Philip Converse]]
+- [[Philip-Converse|Philip Converse]]
 - [[Philip Tetlock]]
 - [[Political-Reasoning|Political reasoning]]
 - [[Retrospective voting]]
@@ -464,50 +464,50 @@ extraction_summary:
 - [[Samuel Popkin]]
 - [[Sander van der Linden]]
 - [[Social Identity Theory]]
-- [[Socratic questioning]]
+- [[Socratic-Questioning|Socratic questioning]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
-- [[Ziva Kunda]]
+- [[Ziva-Kunda|Ziva Kunda]]
 - [[Availability-Heuristic|availability heuristic]]
 - [[civic education]]
-- [[democratic self-governance]]
+- [[democratic-self-governance|democratic self-governance]]
 - [[Filter-Bubble-Information-Cocoon|filter bubble]]
 - [[Filter-Bubble-Information-Cocoon|information cocoon]]
-- [[information cocoons]]
+- [[information-cocoons|information cocoons]]
 - [[media literacy]]
 - [[Motivated-Reasoning|motivated reasoning]]
 - [[Partisan-Identity|partisan identity]]
 - [[partisan sorting]]
-- [[political heuristics]]
-- [[political polarization]]
+- [[political-heuristics|political heuristics]]
+- [[political-polarization|political polarization]]
 - [[representativeness heuristic]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Drew Westen]] | — | — | Phase I: Orientation & Context Setting | 252 |
+| 1 | [[Drew-Westen|Drew Westen]] | — | — | Phase I: Orientation & Context Setting | 252 |
 | 2 | [[Political-Reasoning|Political reasoning]] | — | — | Phase I: Orientation & Context Setting | 254 |
-| 3 | [[democratic self-governance]] | — | — | Phase I: Orientation & Context Setting | 258 |
-| 4 | [[information cocoons]] | — | — | Phase I: Orientation & Context Setting | 258 |
-| 5 | [[political polarization]] | — | — | Phase I: Orientation & Context Setting | 258 |
-| 6 | [[political heuristics]] | — | — | Phase I: Orientation & Context Setting | 260 |
-| 7 | [[Daniel Kahneman]] | — | — | Phase II: Conceptual Foundations | 283 |
+| 3 | [[democratic-self-governance|democratic self-governance]] | — | — | Phase I: Orientation & Context Setting | 258 |
+| 4 | [[information-cocoons|information cocoons]] | — | — | Phase I: Orientation & Context Setting | 258 |
+| 5 | [[political-polarization|political polarization]] | — | — | Phase I: Orientation & Context Setting | 258 |
+| 6 | [[political-heuristics|political heuristics]] | — | — | Phase I: Orientation & Context Setting | 260 |
+| 7 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Phase II: Conceptual Foundations | 283 |
 | 8 | [[System-1|System 1]] | — | — | Phase II: Conceptual Foundations | 283 |
 | 9 | [[System-2|System 2]] | — | — | Phase II: Conceptual Foundations | 283 |
-| 10 | [[Ziva Kunda]] | — | — | Phase II: Conceptual Foundations | 296 |
+| 10 | [[Ziva-Kunda|Ziva Kunda]] | — | — | Phase II: Conceptual Foundations | 296 |
 | 11 | [[Motivated-Reasoning|motivated reasoning]] | — | — | Phase II: Conceptual Foundations | 299 |
-| 12 | [[Philip Converse]] | — | — | Phase II: Conceptual Foundations | 303 |
+| 12 | [[Philip-Converse|Philip Converse]] | — | — | Phase II: Conceptual Foundations | 303 |
 | 13 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual Process Frameworks in Political ... | 320 |
-| 14 | [[John Jost]] | — | — | Dual Process Frameworks in Political ... | 320 |
-| 15 | [[Christopher Achen]] | — | — | Dual Process Frameworks in Political ... | 320 |
-| 16 | [[Larry Bartels]] | — | — | Dual Process Frameworks in Political ... | 320 |
+| 14 | [[John-Jost|John Jost]] | — | — | Dual Process Frameworks in Political ... | 320 |
+| 15 | [[Christopher-Achen|Christopher Achen]] | — | — | Dual Process Frameworks in Political ... | 320 |
+| 16 | [[Larry-Bartels|Larry Bartels]] | — | — | Dual Process Frameworks in Political ... | 320 |
 | 17 | [[Philip Tetlock]] | — | — | Dual Process Frameworks in Political ... | 322 |
 | 18 | [[Dan Kahan]] | — | — | Dual Process Frameworks in Political ... | 322 |
 | 19 | [[Milton Lodge]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
 | 20 | [[Charles Taber]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
 | 21 | [[Hugo Mercier]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
-| 22 | [[Dan Sperber]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
+| 22 | [[Dan-Sperber|Dan Sperber]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
 | 23 | [[Affective-Intelligence-Theory|Affective Intelligence Theory]] | — | — | Affective Intelligence Theory | 338 |
 | 24 | [[George Marcus]] | — | — | Affective Intelligence Theory | 338 |
 | 25 | [[Michael Neuman]] | — | — | Affective Intelligence Theory | 338 |
@@ -532,21 +532,21 @@ extraction_summary:
 | 44 | [[civic education]] | — | — | Civic Education and Critical Thinking | 433 |
 | 45 | [[Epistemic-Humility|Epistemic humility]] | — | — | Civic Education and Critical Thinking | 435 |
 | 46 | [[Philip Tetlock]] | — | — | Civic Education and Critical Thinking | 435 |
-| 47 | [[Socratic questioning]] | — | — | Civic Education and Critical Thinking | 438 |
+| 47 | [[Socratic-Questioning|Socratic questioning]] | — | — | Civic Education and Critical Thinking | 438 |
 | 48 | [[media literacy]] | — | — | Media Literacy and Disinformation Res... | 442 |
 | 49 | [[Inoculation-Theory|Inoculation theory]] | — | — | Media Literacy and Disinformation Res... | 444 |
 | 50 | [[Sander van der Linden]] | — | — | Media Literacy and Disinformation Res... | 444 |
 | 51 | [[SIFT protocol]] | — | — | Media Literacy and Disinformation Res... | 446 |
 | 52 | [[Mike Caulfield]] | — | — | Media Literacy and Disinformation Res... | 446 |
-| 53 | [[Backfire Effect]] | — | — | Media Literacy and Disinformation Res... | 449 |
-| 54 | [[Brendan Nyhan]] | — | — | Media Literacy and Disinformation Res... | 449 |
+| 53 | [[Backfire-Effect|Backfire Effect]] | — | — | Media Literacy and Disinformation Res... | 449 |
+| 54 | [[Brendan-Nyhan|Brendan Nyhan]] | — | — | Media Literacy and Disinformation Res... | 449 |
 | 55 | [[Deliberative democratic]] | — | — | Structural Conditions for Better Poli... | 455 |
 | 56 | [[James Fishkin]] | — | — | Structural Conditions for Better Poli... | 455 |
-| 57 | [[Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 488 |
+| 57 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 488 |
 | 58 | [[Deliberate Practice in Civic Reasoning]] | — | — | Phase VI: Synthesis & Integration | 490 |
 | 59 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 490 |
-| 60 | [[Metacognition and Lifelong Learning]] | — | — | Phase VI: Synthesis & Integration | 495 |
-| 61 | [[Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 497 |
+| 60 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | Phase VI: Synthesis & Integration | 495 |
+| 61 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 497 |
 | 62 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 499 |
 | 63 | [[Partisan Identity and Motivated Reasoning]] | — | — | C. Expansion Topics | 585 |
 | 64 | [[Affective Intelligence Theory — Full Treatment]] | — | — | C. Expansion Topics | 588 |
@@ -569,19 +569,19 @@ extraction_summary:
 - [[Affective Intelligence Theory — Full Treatment]]
 - [[Alexander Todorov]]
 - [[Arthur Lupia]]
-- [[Backfire Effect]]
-- [[Brendan Nyhan]]
+- [[Backfire-Effect|Backfire Effect]]
+- [[Brendan-Nyhan|Brendan Nyhan]]
 - [[Charles Taber]]
-- [[Christopher Achen]]
+- [[Christopher-Achen|Christopher Achen]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Cross-Cultural Variation in Political Reasoning]]
 - [[Dan Kahan]]
-- [[Dan Sperber]]
-- [[Daniel Kahneman]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deliberate Practice in Civic Reasoning]]
 - [[Deliberative Democracy and Epistemic Citizenship]]
 - [[Deliberative democratic]]
-- [[Drew Westen]]
+- [[Drew-Westen|Drew Westen]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic-Humility|Epistemic humility]]
@@ -591,20 +591,20 @@ extraction_summary:
 - [[Hugo Mercier]]
 - [[Inoculation-Theory|Inoculation theory]]
 - [[James Fishkin]]
-- [[John Jost]]
+- [[John-Jost|John Jost]]
 - [[John MacKuen]]
 - [[John Turner]]
 - [[Kahneman and Tversky]]
-- [[Larry Bartels]]
+- [[Larry-Bartels|Larry Bartels]]
 - [[Leonie Huddy]]
 - [[Media Literacy and Disinformation Resistance]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Michael Neuman]]
 - [[Mike Caulfield]]
 - [[Milton Lodge]]
 - [[Partisan Identity and Motivated Reasoning]]
-- [[Philip Converse]]
+- [[Philip-Converse|Philip Converse]]
 - [[Philip Tetlock]]
 - [[Political-Reasoning|Political reasoning]]
 - [[Retrospective voting]]
@@ -612,22 +612,22 @@ extraction_summary:
 - [[Samuel Popkin]]
 - [[Sander van der Linden]]
 - [[Social Identity Theory]]
-- [[Socratic questioning]]
+- [[Socratic-Questioning|Socratic questioning]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
-- [[Ziva Kunda]]
+- [[Ziva-Kunda|Ziva Kunda]]
 - [[Availability-Heuristic|availability heuristic]]
 - [[civic education]]
-- [[democratic self-governance]]
+- [[democratic-self-governance|democratic self-governance]]
 - [[Filter-Bubble-Information-Cocoon|filter bubble]]
 - [[Filter-Bubble-Information-Cocoon|information cocoon]]
-- [[information cocoons]]
+- [[information-cocoons|information cocoons]]
 - [[media literacy]]
 - [[Motivated-Reasoning|motivated reasoning]]
 - [[Partisan-Identity|partisan identity]]
 - [[partisan sorting]]
-- [[political heuristics]]
-- [[political polarization]]
+- [[political-heuristics|political heuristics]]
+- [[political-polarization|political polarization]]
 - [[representativeness heuristic]]
 
 ### Frontmatter Relationships
@@ -657,13 +657,13 @@ extraction_summary:
 #### Narrower
 
 - [[Partisan Identity and Reasoning]]
-- [[Political Heuristics]]
+- [[political-heuristics|Political Heuristics]]
 - [[Emotional Influences on Voting]]
 
 #### See Also
 
 - [[Transfer-of-Learning|Transfer of Learning]]
-- [[Metacognition and Critical Thinking]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Argument-Mapping|Argument Mapping]]
 
@@ -681,8 +681,8 @@ extraction_summary:
 
 #### Builds On
 
-- [[Metacognition and Lifelong Learning]]
-- [[Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 
 #### Enables
 

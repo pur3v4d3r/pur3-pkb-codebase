@@ -212,7 +212,7 @@ extraction_summary:
 #### 16. [PRINCIPLE-POINT] Knowledge as Construction *(Line 181)*
 
 > [!principle-point] Knowledge as Construction
-> [[Constructivist Learning Theory]] (Piaget, Vygotsky, von Glasersfeld) posits that learners actively construct understanding rather than passively receiving information. This has profound implications for how notes should evolve.
+> [[Constructivist-Learning-Theory|Constructivist Learning Theory]] (Piaget, Vygotsky, von Glasersfeld) posits that learners actively construct understanding rather than passively receiving information. This has profound implications for how notes should evolve.
 
 #### 17. [METHODOLOGY-AND-SOURCES] Implementation Pattern: The Iterative Deepening Cycle *(Line 194)*
 
@@ -305,7 +305,7 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science MOC]]
 - [[Competence]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Constructivist Note Evolution Protocols]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulties and Retrieval Practice Design]]
@@ -336,7 +336,7 @@ extraction_summary:
 - [[Intrinsic-Load|Intrinsic Load]]
 - [[Judgments of Learning]]
 - [[Learning Theories MOC]]
-- [[Levels of Processing Theory]]
+- [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Long-Term Memory Consolidation MOC]]
 - [[Machine Learning - Core Paradigms]]
 - [[Machine Learning - Mathematical Foundations]]
@@ -422,7 +422,7 @@ extraction_summary:
 | 49 | [[Feedback Loops in Personal Habits]] | — | — | 7. **[[Transfer-Oriented Knowledge St... | 176 |
 | 50 | [[Feedback Loops - Cross-Domain MOC]] | — | — | 7. **[[Transfer-Oriented Knowledge St... | 177 |
 | 51 | [[Constructivist Note Evolution Protocols]] | — | — | 8. **[[Constructivist Note Evolution ... | 179 |
-| 52 | [[Constructivist Learning Theory]] | — | — | 8. **[[Constructivist Note Evolution ... | 182 |
+| 52 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 8. **[[Constructivist Note Evolution ... | 182 |
 | 53 | [[Zone-of-Proximal-Development|Zone Of Proximal Development]] | — | — | 8. **[[Constructivist Note Evolution ... | 184 |
 | 54 | [[Self-Determination Theory and Intrinsic Motivation Design]] | — | — | 9. **[[Self-Determination Theory and ... | 201 |
 | 55 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 9. **[[Self-Determination Theory and ... | 203 |
@@ -440,7 +440,7 @@ extraction_summary:
 | 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 11. **[[Embodied Cognition and Spatia... | 253 |
 | 68 | [[Incremental Reading and Progressive Summarization]] | — | — | 12. **[[Incremental Reading and Progr... | 255 |
 | 69 | [[Incremental Learning]] | — | — | 12. **[[Incremental Reading and Progr... | 257 |
-| 70 | [[Levels of Processing Theory]] | — | — | 12. **[[Incremental Reading and Progr... | 257 |
+| 70 | [[Levels-of-Processing-Theory|Levels of Processing Theory]] | — | — | 12. **[[Incremental Reading and Progr... | 257 |
 | 71 | [[Incremental Learning]] | — | — | 🔧 Architectural Implementation Consid... | 290 |
 | 72 | [[Cognitive Apprenticeship Models in Self-Directed Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 304 |
 | 73 | [[Expertise Development Stages and PKB Architecture Evolution]] | — | — | 🔗 Related Topics for PKB Expansion | 309 |
@@ -536,7 +536,7 @@ Structural Planning:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science MOC]]
 - [[Competence]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Constructivist Note Evolution Protocols]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulties and Retrieval Practice Design]]
@@ -567,7 +567,7 @@ Structural Planning:
 - [[Intrinsic-Load|Intrinsic Load]]
 - [[Judgments of Learning]]
 - [[Learning Theories MOC]]
-- [[Levels of Processing Theory]]
+- [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Long-Term Memory Consolidation MOC]]
 - [[Machine Learning - Core Paradigms]]
 - [[Machine Learning - Mathematical Foundations]]

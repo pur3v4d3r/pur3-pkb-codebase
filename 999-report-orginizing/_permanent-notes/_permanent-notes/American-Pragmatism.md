@@ -5,6 +5,7 @@
 title: "American Pragmatism"
 aliases:
   - "American Pragmatism"
+  - "American-pragmatism"
 type: permanent-note
 status: seedling
 confidence: low

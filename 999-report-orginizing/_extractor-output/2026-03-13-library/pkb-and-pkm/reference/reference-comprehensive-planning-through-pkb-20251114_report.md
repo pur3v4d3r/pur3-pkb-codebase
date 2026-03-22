@@ -393,7 +393,7 @@ extraction_summary:
 > **Time Block Categories for Knowledge Work**
 > 
 > **Deep Work Blocks** (90-120 minutes)
-> - [[Deliberate Practice]] on challenging concepts
+> - [[Deliberate-Practice|Deliberate Practice]] on challenging concepts
 > - [[Creative Synthesis]] writing  
 > - Complex problem-solving
 > - Original research and analysis
@@ -425,7 +425,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **The Quadrant II Revolution**
-> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
+> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice|Deliberate Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
 
 #### 19. [DEFINITION] Untitled *(Line 325)*
 
@@ -716,8 +716,8 @@ extraction_summary:
 - [[Creative Synthesis]]
 - [[Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
-- [[Day Planner]]
-- [[Deliberate Practice]]
+- [[Day-Planner|Day Planner]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Extended Mind]]
 - [[GTD]]
@@ -747,8 +747,8 @@ extraction_summary:
 - [[Strategic Planning]]
 - [[System Building]]
 - [[Task Analysis]]
-- [[Task Management]]
-- [[Tasks Plugin]]
+- [[Task-Management|Task Management]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Technical Writing]]
 - [[Templater]]
 - [[Time Blocking]]
@@ -757,7 +757,7 @@ extraction_summary:
 - [[Weekly Reviews]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
-- [[dataview]]
+- [[Dataview]]
 - [[wiki-links]]
 
 ### All Occurrences
@@ -775,17 +775,17 @@ extraction_summary:
 | 9 | [[Working-Memory|Working Memory]] | — | — | Planning and Working Memory | 96 |
 | 10 | [[GTD]] | — | — | Planning and Working Memory | 96 |
 | 11 | [[Zettelkasten]] | — | — | The Dual Nature of Planning | 106 |
-| 12 | [[Deliberate Practice]] | — | — | The Dual Nature of Planning | 107 |
+| 12 | [[Deliberate-Practice|Deliberate Practice]] | — | — | The Dual Nature of Planning | 107 |
 | 13 | [[Distributed-Cognition|Distributed Cognition]] | — | — | The Five-Phase GTD Workflow | 162 |
 | 14 | [[Extended Mind]] | — | — | The Five-Phase GTD Workflow | 162 |
 | 15 | [[Retrieval-Practice|Retrieval Practice]] | — | — | GTD for Knowledge Work: Adaptations | 172 |
 | 16 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Time Blocking: Temporal Allocation | 222 |
-| 17 | [[Deliberate Practice]] | — | — | Types of Time Blocks | 260 |
+| 17 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Types of Time Blocks | 260 |
 | 18 | [[Creative Synthesis]] | — | — | Types of Time Blocks | 261 |
 | 19 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Types of Time Blocks | 274 |
 | 20 | [[Weekly Review]] | — | — | Types of Time Blocks | 278 |
 | 21 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Types of Time Blocks | 280 |
-| 22 | [[Deliberate Practice]] | — | — | The Four Quadrants | 311 |
+| 22 | [[Deliberate-Practice|Deliberate Practice]] | — | — | The Four Quadrants | 311 |
 | 23 | [[System Building]] | — | — | The Four Quadrants | 311 |
 | 24 | [[Relationship Cultivation]] | — | — | The Four Quadrants | 311 |
 | 25 | [[Strategic Planning]] | — | — | The Four Quadrants | 311 |
@@ -800,14 +800,14 @@ extraction_summary:
 | 34 | [[Statistical-Problem-Practice]] | — | — | Secondary Project: [[Statistical-Prob... | 496 |
 | 35 | [[Periodic Notes]] | — | — | Weekly Planning: Task Orchestration | 557 |
 | 36 | [[Templater]] | — | — | Weekly Planning: Task Orchestration | 557 |
-| 37 | [[dataview]] | — | — | Weekly Planning: Task Orchestration | 557 |
+| 37 | [[Dataview]] | — | — | Weekly Planning: Task Orchestration | 557 |
 | 38 | [[2025-W46]] | — | — | Daily Planning: Execution Roadmap | 613 |
 | 39 | [[Periodic Notes]] | — | — | Essential Planning Plugins | 694 |
 | 40 | [[Templater]] | — | — | Essential Planning Plugins | 695 |
-| 41 | [[dataview]] | — | — | Essential Planning Plugins | 696 |
-| 42 | [[Tasks Plugin]] | — | — | Essential Planning Plugins | 697 |
+| 41 | [[Dataview]] | — | — | Essential Planning Plugins | 696 |
+| 42 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Essential Planning Plugins | 697 |
 | 43 | [[Calendar Plugin]] | — | — | Essential Planning Plugins | 698 |
-| 44 | [[Day Planner]] | — | — | Essential Planning Plugins | 699 |
+| 44 | [[Day-Planner|Day Planner]] | — | — | Essential Planning Plugins | 699 |
 | 45 | [[2025-W43]] | — | — | Daily Note Template Architecture | 763 |
 | 46 | [[2025-10]] | — | — | Daily Note Template Architecture | 764 |
 | 47 | [[2025-Q4]] | — | — | Daily Note Template Architecture | 765 |
@@ -828,7 +828,7 @@ extraction_summary:
 | 62 | [[2025-03-07]] | — | — | Resources Needed | 1047 |
 | 63 | [[2025-03-08]] | — | — | Resources Needed | 1047 |
 | 64 | [[2025-03-09]] | — | — | Resources Needed | 1047 |
-| 65 | [[Deliberate Practice]] | — | — | Energy Log | 1664 |
+| 65 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Energy Log | 1664 |
 | 66 | [[Statistics]] | — | — | Project-Based Learning Planning | 1747 |
 | 67 | [[Statistical-Competency]] | — | — | Project-Based Learning Planning | 1748 |
 | 68 | [[Self-Regulated Learning Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 1943 |
@@ -843,9 +843,9 @@ extraction_summary:
 | 77 | [[Daily Notes]] | — | — | Structural Planning | 2001 |
 | 78 | [[Weekly Reviews]] | — | — | Structural Planning | 2002 |
 | 79 | [[Project Management]] | — | — | Structural Planning | 2003 |
-| 80 | [[Task Management]] | — | — | Structural Planning | 2004 |
+| 80 | [[Task-Management|Task Management]] | — | — | Structural Planning | 2004 |
 | 81 | [[Cognitive-Load|Cognitive Load]] | — | — | Structural Planning | 2005 |
-| 82 | [[Deliberate Practice]] | — | — | Structural Planning | 2006 |
+| 82 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Structural Planning | 2006 |
 | 83 | [[Time Blocking]] | — | — | Structural Planning | 2007 |
 | 84 | [[GTD]] | — | — | Structural Planning | 2008 |
 | 85 | [[PARA Method]] | — | — | Structural Planning | 2009 |
@@ -854,7 +854,7 @@ extraction_summary:
 | 88 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Structural Planning | 2012 |
 | 89 | [[Obsidian Templates]] | — | — | Structural Planning | 2013 |
 | 90 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Structural Planning | 2014 |
-| 91 | [[Tasks Plugin]] | — | — | Structural Planning | 2015 |
+| 91 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Structural Planning | 2015 |
 | 92 | [[Calendar Plugin]] | — | — | Structural Planning | 2016 |
 | 93 | [[Periodic Notes]] | — | — | Structural Planning | 2017 |
 
@@ -1696,7 +1696,7 @@ Match task types to energy levels:
 
 | Energy Level | Optimal Tasks | Time Blocking |
 |--------------|---------------|---------------|
-| **Peak (⚡⚡⚡)** | [[Deliberate Practice]], creative synthesis, complex problem-solving | 9:00-11:00 AM, 4:00-6:00 PM |
+| **Peak (⚡⚡⚡)** | [[Deliberate-Practice|Deliberate Practice]], creative synthesis, complex problem-solving | 9:00-11:00 AM, 4:00-6:00 PM |
 | **Moderate (⚡⚡)** | Learning, reading, note-making, routine practice | 2:00-4:00 PM |
 | **Low (⚡)** | Admin, email, organization, review, shallow work | 12:00-2:00 PM |
 
@@ -1809,7 +1809,7 @@ Borrowed from military strategy, the OODA loop (Observe-Orient-Decide-Act) provi
 | Planning Level | Function | Example in PKB Context |
 | --- | --- | --- |
 | **Strategic (Macro)** | Long-term goal architecture, system design | Designing a [[Zettelkasten]] structure for comprehensive topic coverage over years |
-| **Tactical (Micro)** | Daily task selection, session organization | Planning today's [[Deliberate Practice]] session on a specific concept |
+| **Tactical (Micro)** | Daily task selection, session organization | Planning today's [[Deliberate-Practice|Deliberate Practice]] session on a specific concept |
 | **Operational** | Real-time resource allocation | Deciding to switch from reading to note-making based on cognitive fatigue |
 
 ### Table 2 *(Line 205, 4 rows)*
@@ -1835,10 +1835,10 @@ Borrowed from military strategy, the OODA loop (Observe-Orient-Decide-Act) provi
 | --- | --- | --- |
 | **[[Periodic Notes]]** | Creates daily, weekly, monthly, quarterly, yearly notes with customizable templates | Temporal structure foundation |
 | **[[Templater]]** | Dynamic template engine with JavaScript capabilities for date manipulation, variable insertion, and automation | Template automation and note generation |
-| **[[dataview]]** | Query language and JavaScript API for filtering, sorting, and extracting data from markdown pages | Progress tracking, task aggregation, metrics visualization |
-| **[[Tasks Plugin]]** | Advanced task management with due dates, priorities, recurrence, filtering | Task lifecycle management |
+| **[[Dataview]]** | Query language and JavaScript API for filtering, sorting, and extracting data from markdown pages | Progress tracking, task aggregation, metrics visualization |
+| **[[Tasks-Plugin|Tasks Plugin]]** | Advanced task management with due dates, priorities, recurrence, filtering | Task lifecycle management |
 | **[[Calendar Plugin]]** | Monthly calendar view enabling visual navigation and note creation by clicking dates | Visual temporal navigation |
-| **[[Day Planner]]** | Timeline view of daily tasks with time-blocking interface, integrates with Google Calendar | Time-block visualization and execution |
+| **[[Day-Planner|Day Planner]]** | Timeline view of daily tasks with time-blocking interface, integrates with Google Calendar | Time-block visualization and execution |
 
 ### Table 5 *(Line 598, 4 rows)*
 
@@ -1923,8 +1923,8 @@ graph TD
 - [[Creative Synthesis]]
 - [[Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
-- [[Day Planner]]
-- [[Deliberate Practice]]
+- [[Day-Planner|Day Planner]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Extended Mind]]
 - [[GTD]]
@@ -1954,8 +1954,8 @@ graph TD
 - [[Strategic Planning]]
 - [[System Building]]
 - [[Task Analysis]]
-- [[Task Management]]
-- [[Tasks Plugin]]
+- [[Task-Management|Task Management]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Technical Writing]]
 - [[Templater]]
 - [[Time Blocking]]
@@ -1964,7 +1964,7 @@ graph TD
 - [[Weekly Reviews]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
-- [[dataview]]
+- [[Dataview]]
 - [[wiki-links]]
 
 ---

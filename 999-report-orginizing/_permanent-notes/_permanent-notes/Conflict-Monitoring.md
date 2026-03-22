@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -64,6 +64,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Reflective-Thinking|Reflective Thinking]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Reflective-Thinking|Reflective Thinking]]"
   - "[[Socratic-Method|Socratic Method]]"
@@ -142,8 +150,12 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[John-Dewey|John Dewey]] · [[Reflective-Thinking|Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Dual-Process-Theory|Dual Process Theory]] · [[John-Flavell|John Flavell]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[John-Dewey|John Dewey]] · [[Reflective-Thinking|Reflective Thinking]] · [[How-We-Think|How We Think]] · [[felt-difficulty|felt difficulty]] · [[habit]] · [[Socratic-Method|Socratic Method]] · [[Gregory-Vlastos|Gregory Vlastos]]
+[[John-Dewey|John Dewey]] · [[Reflective-Thinking|Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Dual-Process-Theory|Dual Process Theory]] · [[John-Flavell|John Flavell]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[John-Dewey|John Dewey]] · [[Reflective-Thinking|Reflective Thinking]] · [[How-We-Think|How We Think]] · [[Felt-Difficulty|felt difficulty]] · [[habit]] · [[Socratic-Method|Socratic Method]] · [[Gregory-Vlastos|Gregory Vlastos]]
 
 **Related concepts** *(from report-01-the-inquiry-engine.md)*:
-[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[felt-difficulty|felt difficulty]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[elenchus|elenchus]] * [[aporia|aporia]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]]
+[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[Felt-Difficulty|felt difficulty]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[Elenchus|elenchus]] * [[Aporia|aporia]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]]
+
+**Related concepts** *(from report-01-the-inquiry-engine.md)*:
+[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[Felt-Difficulty|felt difficulty]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Richard-West|Richard West]]
+
 

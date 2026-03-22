@@ -234,13 +234,13 @@ extraction_summary:
 - [[Digital Gardens]]
 - [[Digital Learning Environments]]
 - [[Eudaimonic Well-being]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Flow Theory and Knowledge Work]]
 - [[Forgiving Architecture]]
 - [[Goal Content Theory and Intrinsic Life Goals]]
-- [[Goal-Setting Theory]]
+- [[Goal-Setting-Theory|Goal-Setting Theory]]
 - [[Graduated Challenge]]
 - [[Habit-Formation|Habit Formation]]
 - [[Heutagogy]]
@@ -250,7 +250,7 @@ extraction_summary:
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Introjected-Regulation|Introjected Regulation]]
 - [[Knowledge Attrition]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Learning in Public]]
 - [[Mastery Learning]]
 - [[Mastery Pathways]]
@@ -260,7 +260,7 @@ extraction_summary:
 - [[Metacognitive]]
 - [[Metacognitive Kindness]]
 - [[Mindfulness]]
-- [[Motivation Science]]
+- [[motivation-science|Motivation Science]]
 - [[Operant Conditioning]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Personal Knowledge Graph]]
@@ -289,7 +289,7 @@ extraction_summary:
 | 2 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Document Start | 45 |
 | 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Foundations: The Architecture of Hu... | 50 |
 | 4 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
-| 5 | [[Motivation Science]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
+| 5 | [[motivation-science|Motivation Science]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
 | 6 | [[Behavioral Psychology]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
 | 7 | [[Operant Conditioning]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
 | 8 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🧬 Foundations: The Architecture of Hu... | 54 |
@@ -309,7 +309,7 @@ extraction_summary:
 | 22 | [[Controlled-Motivation|Controlled Motivation]] | — | — | The Role of Mindfulness and Self-Regu... | 116 |
 | 23 | [[Metacognitive Kindness]] | — | — | The Role of Mindfulness and Self-Regu... | 118 |
 | 24 | [[Flow]] | — | — | Flow, Vitality, and Sustainable Engag... | 122 |
-| 25 | [[Flow Theory]] | — | — | Flow, Vitality, and Sustainable Engag... | 124 |
+| 25 | [[Flow-Theory|Flow Theory]] | — | — | Flow, Vitality, and Sustainable Engag... | 124 |
 | 26 | [[Eudaimonic Well-being]] | — | — | Flow, Vitality, and Sustainable Engag... | 126 |
 | 27 | [[Digital Learning Environments]] | — | — | Educational Technology and Digital Le... | 132 |
 | 28 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Educational Technology and Digital Le... | 136 |
@@ -335,7 +335,7 @@ extraction_summary:
 | 48 | [[Re-Engagement Compassion]] | — | — | Addressing the Abandonment Pattern | 190 |
 | 49 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | Digital Technology and Evolving Motiv... | 196 |
 | 50 | [[Personal Knowledge Graph]] | — | — | Digital Technology and Evolving Motiv... | 196 |
-| 51 | [[Large Language Models]] | — | — | Digital Technology and Evolving Motiv... | 198 |
+| 51 | [[Large-Language-Models|Large Language Models]] | — | — | Digital Technology and Evolving Motiv... | 198 |
 | 52 | [[Andragogy]] | — | — | Lifespan Developmental Considerations | 208 |
 | 53 | [[Heutagogy]] | — | — | Lifespan Developmental Considerations | 208 |
 | 54 | [[Self-Compassion]] | — | — | 🔄 Synthesis: Motivation as the Master... | 223 |
@@ -345,19 +345,19 @@ extraction_summary:
 | 58 | [[Cognitive Scaffolding and Zone of Proximal Development]] | — | — | 🔗 Related Topics for PKB Expansion | 248 |
 | 59 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📚 References & Resources | 310 |
 | 60 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 📚 References & Resources | 311 |
-| 61 | [[Extrinsic Motivation]] | — | — | 📚 References & Resources | 312 |
+| 61 | [[Extrinsic-Motivation|Extrinsic Motivation]] | — | — | 📚 References & Resources | 312 |
 | 62 | [[Autonomy]] | — | — | 📚 References & Resources | 313 |
 | 63 | [[Competence]] | — | — | 📚 References & Resources | 314 |
 | 64 | [[Relatedness]] | — | — | 📚 References & Resources | 315 |
 | 65 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📚 References & Resources | 316 |
 | 66 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📚 References & Resources | 317 |
-| 67 | [[Flow Theory]] | — | — | 📚 References & Resources | 318 |
+| 67 | [[Flow-Theory|Flow Theory]] | — | — | 📚 References & Resources | 318 |
 | 68 | [[Andragogy]] | — | — | 📚 References & Resources | 319 |
 | 69 | [[Constructivist Learning]] | — | — | 📚 References & Resources | 320 |
 | 70 | [[Metacognition]] | — | — | 📚 References & Resources | 321 |
 | 71 | [[Behavioral Psychology]] | — | — | 📚 References & Resources | 322 |
 | 72 | [[Operant Conditioning]] | — | — | 📚 References & Resources | 323 |
-| 73 | [[Goal-Setting Theory]] | — | — | 📚 References & Resources | 324 |
+| 73 | [[Goal-Setting-Theory|Goal-Setting Theory]] | — | — | 📚 References & Resources | 324 |
 | 74 | [[Mastery Learning]] | — | — | 📚 References & Resources | 325 |
 | 75 | [[Social Learning Theory]] | — | — | 📚 References & Resources | 326 |
 | 76 | [[Zettelkasten]] | — | — | 📚 References & Resources | 327 |
@@ -417,7 +417,7 @@ Following the output_template structure:
 **Wiki-Link Opportunities:**
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 # ... (45 more lines truncated)
 ```
 
@@ -468,13 +468,13 @@ Following the output_template structure:
 - [[Digital Gardens]]
 - [[Digital Learning Environments]]
 - [[Eudaimonic Well-being]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 - [[Flow Theory and Knowledge Work]]
 - [[Forgiving Architecture]]
 - [[Goal Content Theory and Intrinsic Life Goals]]
-- [[Goal-Setting Theory]]
+- [[Goal-Setting-Theory|Goal-Setting Theory]]
 - [[Graduated Challenge]]
 - [[Habit-Formation|Habit Formation]]
 - [[Heutagogy]]
@@ -484,7 +484,7 @@ Following the output_template structure:
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Introjected-Regulation|Introjected Regulation]]
 - [[Knowledge Attrition]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Learning in Public]]
 - [[Mastery Learning]]
 - [[Mastery Pathways]]
@@ -494,7 +494,7 @@ Following the output_template structure:
 - [[Metacognitive]]
 - [[Metacognitive Kindness]]
 - [[Mindfulness]]
-- [[Motivation Science]]
+- [[motivation-science|Motivation Science]]
 - [[Operant Conditioning]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Personal Knowledge Graph]]

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[Instructional-Design|Instructional Design]]"
   - "[[Assessment-Design|Assessment Design]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Motivational-Psychology|Motivational Psychology]]"
+  - "[[John-G.-Nicholls|John G. Nicholls]]"
+  - "[[Carol-Ames|Carol Ames]]"
+  - "[[Carol-S.-Dweck|Carol S. Dweck]]"
+  - "[[Instructional-Design|Instructional Design]]"
+  - "[[Assessment-Design|Assessment Design]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -117,7 +125,7 @@ importance: high
 # Differentiated Conception of Ability
 
 > [!definition] **Differentiated Conception of Ability**
-> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol S. Dweck]] calls the [[Fixed-Mindset]] or [[Entity-Theory-of-Intelligence]].
+> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol-S.-Dweck]] calls the [[Fixed-Mindset]] or [[Entity-Theory-of-Intelligence]].
 
 ## Core Explanation
 
@@ -201,6 +209,42 @@ importance: high
 - [[Growth-Mindset|Growth Mindset]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+[[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Educational-Psychology|Educational Psychology]] * [[Motivational-Psychology|Motivational Psychology]] * [[John-G.-Nicholls|John G. Nicholls]] * [[Carol-Ames|Carol Ames]] * [[Instructional-Design|Instructional Design]] * [[Assessment-Design|Assessment Design]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Growth-Mindset|Growth Mindset]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Conceptions-of-Ability|Conceptions of Ability]] * [[Fixed-Mindset|Fixed Mindset]] * [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+
+
+
+
 
 
 

@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -86,16 +86,24 @@ see-also:
   - "[[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Frederic-Bartlett|Frederic Bartlett]]"
-  - "[[Schema-theory|Schema theory]]"
-  - "[[advance-organizers|advance organizers]]"
+  - "[[Schema-Theory|Schema theory]]"
+  - "[[Advance-Organizers|advance organizers]]"
   - "[[metacognitive-awareness|metacognitive awareness]]"
   - "[[Bartlett|Bartlett]]"
   - "[[Piaget|Piaget]]"
   - "[[Rumelhart|Rumelhart]]"
   - "[[Schank-and-Abelson|Schank and Abelson]]"
   - "[[Frederic-Bartlett|Frederic Bartlett]]"
-  - "[[Schema-theory|Schema theory]]"
-  - "[[advance-organizers|advance organizers]]"
+  - "[[Schema-Theory|Schema theory]]"
+  - "[[Advance-Organizers|advance organizers]]"
+  - "[[metacognitive-awareness|metacognitive awareness]]"
+  - "[[Bartlett|Bartlett]]"
+  - "[[Piaget|Piaget]]"
+  - "[[Rumelhart|Rumelhart]]"
+  - "[[Schank-and-Abelson|Schank and Abelson]]"
+  - "[[Frederic-Bartlett|Frederic Bartlett]]"
+  - "[[Schema-Theory|Schema theory]]"
+  - "[[Advance-Organizers|advance organizers]]"
   - "[[metacognitive-awareness|metacognitive awareness]]"
   - "[[Bartlett|Bartlett]]"
   - "[[Piaget|Piaget]]"
@@ -221,7 +229,7 @@ importance: high
 [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]] · [[Aporia]] · [[Argumentation-Theory|Argumentation Theory]] · [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]] · [[Aufhebung-in-PKB]] · [[Belief-Revision|Belief Revision]] · [[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]] · [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
 
 **Related concepts** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-theory|Schema theory]] * [[advance-organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Bartlett|Bartlett]] * [[Piaget|Piaget]] * [[Rumelhart|Rumelhart]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[constructivist|constructivist]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]]
+[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Bartlett|Bartlett]] * [[Piaget|Piaget]] * [[Rumelhart|Rumelhart]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Constructivist|constructivist]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]]
 
 **Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
 - [[Schema-Theory-and-Learning|Schema Theory and Learning]]
@@ -248,7 +256,7 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 **Related concepts** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-theory|Schema theory]] * [[advance-organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]]
+[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]]
 
 **Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
 - [[Schema-Theory-and-Learning|Schema Theory and Learning]]
@@ -273,6 +281,38 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Related concepts** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+
+
+
+
 
 
 

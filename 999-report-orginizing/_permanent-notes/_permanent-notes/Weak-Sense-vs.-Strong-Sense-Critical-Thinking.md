@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -65,20 +65,28 @@ narrower:
 
 see-also:
   - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[critical-thinking|critical thinking]]"
+  - "[[Critical-Thinking|critical thinking]]"
   - "[[misinformation]]"
-  - "[[Critical-thinking|Critical thinking]]"
-  - "[[critical-thinking|critical thinking]]"
+  - "[[Critical-Thinking|Critical thinking]]"
+  - "[[Critical-Thinking|critical thinking]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
   - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[critical-thinking|critical thinking]]"
+  - "[[Critical-Thinking|critical thinking]]"
   - "[[misinformation|misinformation]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Working-memory|Working memory]]"
+  - "[[Working-Memory|Working memory]]"
+  - "[[John-Sweller|John Sweller]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[Critical-Thinking|critical thinking]]"
+  - "[[misinformation|misinformation]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Working-Memory|Working memory]]"
   - "[[John-Sweller|John Sweller]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -161,10 +169,10 @@ importance: high
 - [[Socratic-Method|Socratic Method]]
 
 **Related concepts:**
-[[Robert-Ennis|Robert Ennis]] · [[critical-thinking|critical thinking]] · [[misinformation]] · [[Critical-thinking|Critical thinking]] · [[critical-thinking|critical thinking]] · [[Socratic-Method|Socratic Method]] · [[John-Dewey|John Dewey]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Working-memory|Working memory]] · [[John-Sweller|John Sweller]] · [[cognitive-load-theory|cognitive load theory]] · [[Daniel-Willingham|Daniel Willingham]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]]
+[[Robert-Ennis|Robert Ennis]] · [[Critical-Thinking|critical thinking]] · [[misinformation]] · [[Critical-Thinking|Critical thinking]] · [[Critical-Thinking|critical thinking]] · [[Socratic-Method|Socratic Method]] · [[John-Dewey|John Dewey]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Working-Memory|Working memory]] · [[John-Sweller|John Sweller]] · [[Cognitive-Load-Theory|cognitive load theory]] · [[Daniel-Willingham|Daniel Willingham]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]]
 
 **Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-[[Robert-Ennis|Robert Ennis]] * [[critical-thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-memory|Working memory]] * [[John-Sweller|John Sweller]] * [[cognitive-load-theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Cognitive-Load-Theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 
 **Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
 - [[Metacognition-in-Learning|Metacognition in Learning]]
@@ -177,6 +185,24 @@ importance: high
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Socratic-Method|Socratic Method]]
+
+**Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Cognitive-Load-Theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+
+
 
 
 

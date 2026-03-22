@@ -393,7 +393,7 @@ extraction_summary:
 - [[Belief Justification]]
 - [[Belief Revision Mechanisms]]
 - [[Bias Blind Spot]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Burden of Proof]]
 - [[Calibrated Probability Judgment]]
 - [[Calibration of Confidence]]
@@ -407,7 +407,7 @@ extraction_summary:
 - [[Cognitive Ease]]
 - [[Cognitive Immunology Hypothesis]]
 - [[Cognitive Load Externalization]]
-- [[Cognitive Miserliness]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Cognitive Reflection]]
 - [[Cognitive Reflection Test]]
 - [[Cognitive Resources]]
@@ -445,13 +445,13 @@ extraction_summary:
 - [[Expert-Novice Differences]]
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Heuristics and Biases Program]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Hidden Assumptions]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Inference Indicators]]
 - [[Informal Logic]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Integrative Thinking]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual Humility Training]]
@@ -460,7 +460,7 @@ extraction_summary:
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Logical Fallacies]]
 - [[Mental Effort]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Control|Metacognitive Control]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
@@ -503,7 +503,7 @@ extraction_summary:
 - [[Statistical Training Effects]]
 - [[Strategic Learning]]
 - [[System 1 Thinking]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Testimonial Knowledge]]
 - [[Toulmin's Argument Model]]
 - [[Type 1 vs Type 2 Processing]]
@@ -540,12 +540,12 @@ extraction_summary:
 | 19 | [[Evolutionary Psychology Principles]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
 | 20 | [[Dual Process Theory and Cognitive Architecture]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 115 |
 | 21 | [[System 1 Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 123 |
-| 22 | [[System 2 Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 124 |
-| 23 | [[Heuristics and Biases Program]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 125 |
+| 22 | [[System-2-Thinking|System 2 Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 124 |
+| 23 | [[Heuristics-and-Biases-Program|Heuristics and Biases Program]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 125 |
 | 24 | [[Cognitive Ease]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 126 |
 | 25 | [[Cognitive Reflection]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 127 |
 | 26 | [[Working-Memory-Capacity|Working Memory Capacity]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 128 |
-| 27 | [[Cognitive Miserliness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 129 |
+| 27 | [[Cognitive-Miserliness|Cognitive Miserliness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 129 |
 | 28 | [[Type 1 vs Type 2 Processing]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 130 |
 | 29 | [[Attribute Substitution]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 131 |
 | 30 | [[Mental Effort]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 132 |
@@ -553,7 +553,7 @@ extraction_summary:
 | 32 | [[Parallel Competitive Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 134 |
 | 33 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 135 |
 | 34 | [[Rationality Debate]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 136 |
-| 35 | [[Bounded Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 137 |
+| 35 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 137 |
 | 36 | [[Cognitive Closure]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 138 |
 | 37 | [[Reflective Mind]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 139 |
 | 38 | [[Algorithmic Mind]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 140 |
@@ -583,7 +583,7 @@ extraction_summary:
 | 62 | [[Basic Propositional Logic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 184 |
 | 63 | [[Deductive vs Inductive Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 184 |
 | 64 | [[Argument Terminology]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 184 |
-| 65 | [[Metacognition and Self-Regulated Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 194 |
+| 65 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 194 |
 | 66 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 202 |
 | 67 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 203 |
 | 68 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 204 |
@@ -608,7 +608,7 @@ extraction_summary:
 | 87 | [[Expert-Novice Differences]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 223 |
 | 88 | [[Working Memory Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
 | 89 | [[Schema-Theory|Schema Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
-| 90 | [[Information Processing Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
+| 90 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
 | 91 | [[Cognitive Bias Debiasing and Mitigation Strategies]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 237 |
 | 92 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 245 |
 | 93 | [[Anchoring Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 246 |
@@ -752,12 +752,12 @@ Epistemic vigilance as an "intellectual immune system"—just as your body must 
 This is perhaps the most influential framework in modern cognitive science for understanding reasoning and judgment. Kahneman's Nobel Prize-winning work synthesized decades of research showing that human cognition operates through two fundamentally different systems. The framework directly illuminates why critical thinking is difficult (System 2 is effortful and lazy), connects to your working memory capacity interests (System 2 is capacity-limited), and provides the cognitive architecture underlying virtually all biases and heuristics. It has sparked intense scholarly debate (Evans & Stanovich's multiple versions, Keren & Schul's criticisms, Melnikoff & Bargh's challenges), making it perfect for deep analysis.
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[System 1 Thinking]]
-- [[System 2 Thinking]]
-- [[Heuristics and Biases Program]]
+- [[System-2-Thinking|System 2 Thinking]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Cognitive Ease]]
 - [[Cognitive Reflection]]
 - [[Working-Memory-Capacity|Working Memory Capacity]]
-- [[Cognitive Miserliness]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Attribute Substitution]]
 - [[Mental Effort]]
@@ -765,7 +765,7 @@ This is perhaps the most influential framework in modern cognitive science for u
 - [[Parallel Competitive Model]]
 - [[Cognitive-Decoupling|Cognitive Decoupling]]
 - [[Rationality Debate]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Cognitive Closure]]
 - [[Reflective Mind]]
 - [[Algorithmic Mind]]
@@ -815,7 +815,7 @@ Argument mapping as "X-ray vision for reasoning"—just as medical imaging revea
 ### Code Block 4 — `plaintext` *(Lines 193-232)*
 
 ```plaintext
-**Topic**: [[Metacognition and Self-Regulated Learning]]
+**Topic**: [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 **Domain**: Educational Psychology, Cognitive Science, Developmental Psychology, Learning Sciences
 **Complexity Level**: ⭐⭐⭐⭐⭐
 **Depth Potential**: 3500-5000 words
@@ -1202,7 +1202,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Belief Justification]]
 - [[Belief Revision Mechanisms]]
 - [[Bias Blind Spot]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Burden of Proof]]
 - [[Calibrated Probability Judgment]]
 - [[Calibration of Confidence]]
@@ -1216,7 +1216,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Cognitive Ease]]
 - [[Cognitive Immunology Hypothesis]]
 - [[Cognitive Load Externalization]]
-- [[Cognitive Miserliness]]
+- [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Cognitive Reflection]]
 - [[Cognitive Reflection Test]]
 - [[Cognitive Resources]]
@@ -1254,13 +1254,13 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Expert-Novice Differences]]
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Heuristics and Biases Program]]
+- [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Hidden Assumptions]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Inference Indicators]]
 - [[Informal Logic]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Integrative Thinking]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual Humility Training]]
@@ -1269,7 +1269,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Logical Fallacies]]
 - [[Mental Effort]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Control|Metacognitive Control]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
@@ -1312,7 +1312,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Statistical Training Effects]]
 - [[Strategic Learning]]
 - [[System 1 Thinking]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Testimonial Knowledge]]
 - [[Toulmin's Argument Model]]
 - [[Type 1 vs Type 2 Processing]]

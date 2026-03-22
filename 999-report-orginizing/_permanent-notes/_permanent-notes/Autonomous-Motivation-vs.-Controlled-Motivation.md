@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -66,6 +66,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[System-2-Thinking|System 2 Thinking]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[System-2|System 2]]"
+  - "[[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Flow-Theory|Flow Theory]]"
+  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
   - "[[System-2-Thinking|System 2 Thinking]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[System-2|System 2]]"
@@ -174,4 +182,8 @@ importance: high
 
 **Related concepts** *(from report-03-the-motivated-mind.md, self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
 [[System-2-Thinking|System 2 Thinking]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-2|System 2]] * [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Flow-Theory|Flow Theory]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Growth-Mindset|Growth Mindset]] * [[Cognitive-Vitality|Cognitive Vitality]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Howard-et-al.|Howard et al.]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Wang-et-al.|Wang et al.]]
+
+**Related concepts** *(from report-03-the-motivated-mind.md, self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
+[[System-2-Thinking|System 2 Thinking]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-2|System 2]] * [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Flow-Theory|Flow Theory]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Growth-Mindset|Growth Mindset]] * [[Cognitive-Vitality|Cognitive Vitality]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Howard-et-al.|Howard et al.]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Wang-et-al.|Wang et al.]]
+
 

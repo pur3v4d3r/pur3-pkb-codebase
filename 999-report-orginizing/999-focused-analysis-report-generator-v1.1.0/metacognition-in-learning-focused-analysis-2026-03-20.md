@@ -336,7 +336,7 @@ The three-mechanism model generates several non-obvious instructional implicatio
 
 ### Implications for Self-Directed Learning Practice
 
-For individual learners — particularly those engaged in lifelong self-directed learning in a [[Personal Knowledge Management]] context — the three-mechanism model suggests a different practice architecture than the common "read, highlight, review" approach.
+For individual learners — particularly those engaged in lifelong self-directed learning in a [[Personal-Knowledge-Management]] context — the three-mechanism model suggests a different practice architecture than the common "read, highlight, review" approach.
 
 The most important implication is the primacy of **self-testing over re-reading** as a monitoring tool. Re-reading produces fluency without high-validity monitoring signals; self-testing produces retrieval success/failure signals that are far more valid indicators of durable learning. But beyond the well-known testing effect, the mechanism model adds a crucial nuance: self-testing is valuable not only because it produces better encoding (which it does), but because it provides the monitoring system with the high-validity cues it needs to generate accurate comprehension assessments.
 

@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -74,6 +74,14 @@ see-also:
   - "[[Chain-of-Thought-Prompting|Chain of Thought Prompting]]"
   - "[[Wei-et-al.-2022|Wei et al. 2022]]"
   - "[[Tree-of-Thoughts|Tree of Thoughts]]"
+  - "[[Chain-of-Thought|Chain of Thought]]"
+  - "[[Tree-of-Thoughts|Tree of Thoughts]]"
+  - "[[Self-Consistency|Self-Consistency]]"
+  - "[[Reflexion|Reflexion]]"
+  - "[[Chain-of-Thought-Prompting|Chain of Thought Prompting]]"
+  - "[[Wei-et-al.-2022|Wei et al. 2022]]"
+  - "[[Yao-et-al.-2023|Yao et al. 2023]]"
+  - "[[Wang-et-al.-2022|Wang et al. 2022]]"
   - "[[Chain-of-Thought|Chain of Thought]]"
   - "[[Tree-of-Thoughts|Tree of Thoughts]]"
   - "[[Self-Consistency|Self-Consistency]]"
@@ -135,4 +143,8 @@ importance: medium
 
 **Related concepts** *(from claudes-extended-thinking.md, report-claudes-extended-thinking-acrchitecture.md)*:
 [[Chain-of-Thought|Chain of Thought]] * [[Tree-of-Thoughts|Tree of Thoughts]] * [[Chain-of-Thought-Prompting|Chain of Thought Prompting]] * [[Wei-et-al.-2022|Wei et al. 2022]] * [[Yao-et-al.-2023|Yao et al. 2023]] * [[Wang-et-al.-2022|Wang et al. 2022]] * [[Shinn-et-al.-2023|Shinn et al. 2023]] * [[Chain-of-Verification|Chain of Verification]] * [[Dhuliawala-et-al.-2023|Dhuliawala et al. 2023]] * [[Prompt-Engineering-Taxonomy-and-Pattern-Library|Prompt Engineering Taxonomy and Pattern Library]] * [[Token-Economics-and-Cost-Optimization-for-Production-LLM-Systems|Token Economics and Cost Optimization for Production LLM Systems]] * [[Cognitive-Science-Foundations-of-LLM-Reasoning-Techniques|Cognitive Science Foundations of LLM Reasoning Techniques]] * [[Multi-Agent-Architectures-and-Agentic-Workflows|Multi-Agent Architectures and Agentic Workflows]] * [[Evaluation-Methodologies-for-LLM-Reasoning-Quality|Evaluation Methodologies for LLM Reasoning Quality]] * [[Safety-and-Alignment-Considerations-in-Advanced-Reasoning-Systems|Safety and Alignment Considerations in Advanced Reasoning Systems]]
+
+**Related concepts** *(from claudes-extended-thinking.md, report-claudes-extended-thinking-acrchitecture.md)*:
+[[Chain-of-Thought|Chain of Thought]] * [[Tree-of-Thoughts|Tree of Thoughts]] * [[Chain-of-Thought-Prompting|Chain of Thought Prompting]] * [[Wei-et-al.-2022|Wei et al. 2022]] * [[Yao-et-al.-2023|Yao et al. 2023]] * [[Wang-et-al.-2022|Wang et al. 2022]] * [[Shinn-et-al.-2023|Shinn et al. 2023]] * [[Chain-of-Verification|Chain of Verification]] * [[Dhuliawala-et-al.-2023|Dhuliawala et al. 2023]] * [[Prompt-Engineering-Taxonomy-and-Pattern-Library|Prompt Engineering Taxonomy and Pattern Library]] * [[Token-Economics-and-Cost-Optimization-for-Production-LLM-Systems|Token Economics and Cost Optimization for Production LLM Systems]] * [[Cognitive-Science-Foundations-of-LLM-Reasoning-Techniques|Cognitive Science Foundations of LLM Reasoning Techniques]] * [[Multi-Agent-Architectures-and-Agentic-Workflows|Multi-Agent Architectures and Agentic Workflows]] * [[Evaluation-Methodologies-for-LLM-Reasoning-Quality|Evaluation Methodologies for LLM Reasoning Quality]] * [[Safety-and-Alignment-Considerations-in-Advanced-Reasoning-Systems|Safety and Alignment Considerations in Advanced Reasoning Systems]]
+
 

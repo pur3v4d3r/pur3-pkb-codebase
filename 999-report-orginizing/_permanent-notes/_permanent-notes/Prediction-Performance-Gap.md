@@ -82,7 +82,7 @@ see-also:
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Metacognitive-Calibration|Metacognitive Calibration]]"
   - "[[Obsidian]]"
-  - "[[Report 04]]"
+  - "[[Report-04]]"
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -150,4 +150,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[Socratic-Method-Elenchus|Elenchus]] · [[Epistemic-Humility|Epistemic Humility]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Metacognitive-Calibration|Metacognitive Calibration]] · [[Obsidian]] · [[Personal-Knowledge-Base|Personal Knowledge Base]] · [[Report 04]] · [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] · [[Report 07: Critical Thinking as PKM Practice]]
+[[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[Socratic-Method-Elenchus|Elenchus]] · [[Epistemic-Humility|Epistemic Humility]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Metacognitive-Calibration|Metacognitive Calibration]] · [[Obsidian]] · [[Personal-Knowledge-Base|Personal Knowledge Base]] · [[Report-04]] · [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] · [[Report 07: Critical Thinking as PKM Practice]]

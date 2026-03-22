@@ -182,7 +182,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 3:** [[The Specificity and Time-Course of Biological Adaptation]]
->   - Biological adaptations follow the principle of [[Specific Adaptations to Imposed Demands]] (SAID Principle), meaning that organisms develop precisely the capacities required to handle specific encountered stressors rather than generalized improvements in all systems. Furthermore, different physiological adaptations operate on dramatically different timescales, creating complex temporal dynamics in capacity development. At the shortest timescale (seconds to minutes), [[phosphocreatine]] stores replenish and acute neural fatigue dissipates. At intermediate timescales (hours to days), [[glycogen repletion]] occurs, inflammatory processes resolve, protein synthesis rebuilds damaged tissue, and [[muscle protein synthesis]] peaks 24-48 hours post-exercise. At longer timescales (weeks to months), structural adaptations emerge including mitochondrial biogenesis, capillary density increases, neural pathway myelination, and the development of refined [[motor programs]]. Each of these processes requires specific temporal spacing between stress applications to optimize adaptation. Apply stress too frequently and recovery processes cannot complete, leading to accumulated damage; space stress applications too widely and [[detraining]] occurs as adaptations decay in the absence of maintenance stimuli. The art and science of [[periodization]]—the systematic planning of training variation over time—emerges as the solution to this complex optimization problem. By manipulating training variables (intensity, volume, frequency, specificity) across nested temporal cycles (microcycles of days, mesocycles of weeks, macrocycles of months to years), practitioners can optimize the timing of stress application to coincide with the peak of [[supercompensation]] from previous training, producing a continuously ascending trajectory of capacity development. This principle applies equally to cognitive skill development, where [[deliberate practice]] research by [[Anders Ericsson]] demonstrates that expertise emerges not from undifferentiated repetition but from highly structured practice sessions targeting specific performance limitations, interspersed with adequate recovery to allow [[consolidation]] of learning and the development of refined [[mental representations]].
+>   - Biological adaptations follow the principle of [[Specific Adaptations to Imposed Demands]] (SAID Principle), meaning that organisms develop precisely the capacities required to handle specific encountered stressors rather than generalized improvements in all systems. Furthermore, different physiological adaptations operate on dramatically different timescales, creating complex temporal dynamics in capacity development. At the shortest timescale (seconds to minutes), [[phosphocreatine]] stores replenish and acute neural fatigue dissipates. At intermediate timescales (hours to days), [[glycogen repletion]] occurs, inflammatory processes resolve, protein synthesis rebuilds damaged tissue, and [[muscle protein synthesis]] peaks 24-48 hours post-exercise. At longer timescales (weeks to months), structural adaptations emerge including mitochondrial biogenesis, capillary density increases, neural pathway myelination, and the development of refined [[motor programs]]. Each of these processes requires specific temporal spacing between stress applications to optimize adaptation. Apply stress too frequently and recovery processes cannot complete, leading to accumulated damage; space stress applications too widely and [[detraining]] occurs as adaptations decay in the absence of maintenance stimuli. The art and science of [[periodization]]—the systematic planning of training variation over time—emerges as the solution to this complex optimization problem. By manipulating training variables (intensity, volume, frequency, specificity) across nested temporal cycles (microcycles of days, mesocycles of weeks, macrocycles of months to years), practitioners can optimize the timing of stress application to coincide with the peak of [[supercompensation]] from previous training, producing a continuously ascending trajectory of capacity development. This principle applies equally to cognitive skill development, where [[Deliberate-Practice|deliberate practice]] research by [[Anders-Ericsson|Anders Ericsson]] demonstrates that expertise emerges not from undifferentiated repetition but from highly structured practice sessions targeting specific performance limitations, interspersed with adequate recovery to allow [[Consolidation]] of learning and the development of refined [[mental representations]].
 
 #### 11. [PRINCIPLE-POINT] Untitled *(Line 84)*
 
@@ -194,7 +194,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 5:** [[The Finite Nature of Attentional and Metabolic Resources]]
->   - Human attention and metabolic energy represent genuinely finite resources that deplete with use and require time to replenish. [[Cognitive-Load-Theory|Cognitive Load Theory]] demonstrates that working memory has severe capacity limitations (approximately 7±2 information chunks) and that sustained attention on demanding tasks progressively depletes a metabolically expensive resource that cognitive scientists model as [[ego depletion]] or [[decision fatigue]]. Research by [[Roy Baumeister]] and colleagues established that self-control, willpower, and focused attention draw upon a shared limited resource, with depletion in one domain impairing performance in others. While some aspects of ego depletion theory remain controversial, the broader finding of resource depletion with sustained cognitive work is robust and replicated. At the physiological level, intense cognitive work increases brain glucose metabolism, generates reactive oxygen species, and depletes neurotransmitter pools. These metabolic costs necessitate recovery periods during which damaged cellular structures are repaired, waste products are cleared, energy stores are replenished, and baseline function is restored. Similarly, [[deliberate practice]]—the form of highly focused, effortful training that drives skill acquisition—cannot be sustained for more than 3-5 hours per day even in elite performers, with beginners limited to 15-20 minutes of maximum concentration before requiring rest. [[Anders Ericsson]]'s research with expert musicians revealed that world-class violinists practiced deliberate practice for approximately 4 hours daily on average, typically structured as two 90-minute sessions separated by rest. Attempts to exceed these natural limits result not in proportionally greater improvement but rather in diminishing returns, increased error rates, degraded quality of practice, and elevated injury or burnout risk. The fundamental constraint is biological: the systems that enable focused attention and skilled performance have inherent metabolic costs and recovery requirements that cannot be overcome through motivation or discipline alone.
+>   - Human attention and metabolic energy represent genuinely finite resources that deplete with use and require time to replenish. [[Cognitive-Load-Theory|Cognitive Load Theory]] demonstrates that working memory has severe capacity limitations (approximately 7±2 information chunks) and that sustained attention on demanding tasks progressively depletes a metabolically expensive resource that cognitive scientists model as [[ego depletion]] or [[decision fatigue]]. Research by [[Roy Baumeister]] and colleagues established that self-control, willpower, and focused attention draw upon a shared limited resource, with depletion in one domain impairing performance in others. While some aspects of ego depletion theory remain controversial, the broader finding of resource depletion with sustained cognitive work is robust and replicated. At the physiological level, intense cognitive work increases brain glucose metabolism, generates reactive oxygen species, and depletes neurotransmitter pools. These metabolic costs necessitate recovery periods during which damaged cellular structures are repaired, waste products are cleared, energy stores are replenished, and baseline function is restored. Similarly, [[Deliberate-Practice|deliberate practice]]—the form of highly focused, effortful training that drives skill acquisition—cannot be sustained for more than 3-5 hours per day even in elite performers, with beginners limited to 15-20 minutes of maximum concentration before requiring rest. [[Anders-Ericsson|Anders Ericsson]]'s research with expert musicians revealed that world-class violinists practiced deliberate practice for approximately 4 hours daily on average, typically structured as two 90-minute sessions separated by rest. Attempts to exceed these natural limits result not in proportionally greater improvement but rather in diminishing returns, increased error rates, degraded quality of practice, and elevated injury or burnout risk. The fundamental constraint is biological: the systems that enable focused attention and skilled performance have inherent metabolic costs and recovery requirements that cannot be overcome through motivation or discipline alone.
 
 #### 13. [SUMMARY] Untitled *(Line 92)*
 
@@ -212,13 +212,13 @@ extraction_summary:
 
 > [!phase-one] Untitled
 > **Building from Principle 1:** [[Structuring the Microcycle—Daily Stress-Recovery Architecture]]
-> The [[ultradian rhythm]] of 90-120 minutes provides the fundamental building block for daily workflow structure. Research consistently demonstrates that cognitive performance follows this oscillatory pattern, with the first 60-90 minutes of a work block characterized by heightened alertness, efficient information processing, and strong executive function, followed by a 20-30 minute period of declining performance, increased distractibility, and rising error rates. Rather than fighting this biological reality through willpower and stimulants, we structure work to synchronize with it. Each "pulse" of the workday consists of a 90-minute block of **focused, high-intensity cognitive work** targeting a specific deliverable or skill development objective, followed by a 15-20 minute **active recovery period** during which the individual engages in activities that promote parasympathetic nervous system activation and metabolic replenishment. Critically, recovery is not mere cessation of work but rather deliberate engagement in restorative activities: brief walks (which increase cerebral blood flow and facilitate [[hippocampal]] memory consolidation), light stretching, mindfulness practice, social connection, or consumption of nutrients. The work blocks themselves must be protected from fragmentation through strict attention management protocols—no email checking, no meetings, no reactive work—as task-switching and interruptions dramatically increase [[extraneous cognitive load]] and accelerate attentional resource depletion. Studies comparing this structured approach to traditional continuous work demonstrate 40-50% improvements in both productivity and subjective well-being, with reduced end-of-day fatigue. Most critically, individuals working in alignment with ultradian rhythms can sustain approximately 3-4 such blocks daily (representing 4.5-6 hours of intensive cognitive work), matching the limit observed in elite performers across domains. Attempting to exceed this daily capacity does not produce proportionally greater output but rather triggers diminishing returns, increased errors, and accelerated resource depletion that impairs next-day performance. The microcycle thus consists of 3-4 ultradian pulses of intensive work interspersed with brief recovery, embedded within a circadian framework that schedules these pulses during periods of peak biological readiness.
+> The [[ultradian rhythm]] of 90-120 minutes provides the fundamental building block for daily workflow structure. Research consistently demonstrates that cognitive performance follows this oscillatory pattern, with the first 60-90 minutes of a work block characterized by heightened alertness, efficient information processing, and strong executive function, followed by a 20-30 minute period of declining performance, increased distractibility, and rising error rates. Rather than fighting this biological reality through willpower and stimulants, we structure work to synchronize with it. Each "pulse" of the workday consists of a 90-minute block of **focused, high-intensity cognitive work** targeting a specific deliverable or skill development objective, followed by a 15-20 minute **active recovery period** during which the individual engages in activities that promote parasympathetic nervous system activation and metabolic replenishment. Critically, recovery is not mere cessation of work but rather deliberate engagement in restorative activities: brief walks (which increase cerebral blood flow and facilitate [[hippocampal]] memory consolidation), light stretching, mindfulness practice, social connection, or consumption of nutrients. The work blocks themselves must be protected from fragmentation through strict attention management protocols—no email checking, no meetings, no reactive work—as task-switching and interruptions dramatically increase [[Extraneous-Cognitive-Load|extraneous cognitive load]] and accelerate attentional resource depletion. Studies comparing this structured approach to traditional continuous work demonstrate 40-50% improvements in both productivity and subjective well-being, with reduced end-of-day fatigue. Most critically, individuals working in alignment with ultradian rhythms can sustain approximately 3-4 such blocks daily (representing 4.5-6 hours of intensive cognitive work), matching the limit observed in elite performers across domains. Attempting to exceed this daily capacity does not produce proportionally greater output but rather triggers diminishing returns, increased errors, and accelerated resource depletion that impairs next-day performance. The microcycle thus consists of 3-4 ultradian pulses of intensive work interspersed with brief recovery, embedded within a circadian framework that schedules these pulses during periods of peak biological readiness.
 
 #### 16. [PHASE-TWO] Untitled *(Line 110)*
 
 > [!phase-two] Untitled
 > **Building from Principle 2:** [[Leveraging Circadian Architecture—Temporal Task Assignment]]
-> The dramatic circadian variation in cognitive capacity ($\approx 40$% difference between peak and trough) creates both constraints and opportunities for workflow optimization. Rather than treating all hours as equivalent, we map task types to circadian phases based on the specific cognitive resources each requires. During the **circadian peak** (typically mid-morning through late afternoon, though this varies by individual chronotype), we schedule tasks requiring maximum [[Executive Function]], [[creative synthesis]], [[complex problem-solving]], and [[error-sensitive precision]]—the "deliberate practice" equivalents of knowledge work that drive genuine skill development and produce highest-value outputs. These represent the 3-4 intensive ultradian blocks discussed above. During **circadian transition periods** (early morning and late afternoon), we schedule tasks requiring moderate cognitive engagement but lower executive function demands: routine meetings, administrative work, communication, and task planning. During the **circadian trough** (typically early morning for late chronotypes, evening for early chronotypes), we engage in minimal cognitive work, prioritizing instead physical activity, social connection, and sleep preparation activities that facilitate recovery and next-day readiness. The practical implication is that not all work hours are created equal, and attempting to fill all available hours with intensive cognitive work represents a fundamental misunderstanding of human performance architecture. A knowledge worker operating on this model might produce more high-quality deliverables in 4-5 hours of correctly timed intensive work than a colleague produces in 10 hours of poorly timed grinding. The key is not working less but rather working with exquisite timing precision, matching task demands to momentary cognitive capacity. Organizations implementing circadian-aware scheduling report improvements in both output quality and employee retention, as workers experience the satisfaction of consistent high-quality performance rather than the frustration of struggling against biological tides.
+> The dramatic circadian variation in cognitive capacity ($\approx 40$% difference between peak and trough) creates both constraints and opportunities for workflow optimization. Rather than treating all hours as equivalent, we map task types to circadian phases based on the specific cognitive resources each requires. During the **circadian peak** (typically mid-morning through late afternoon, though this varies by individual chronotype), we schedule tasks requiring maximum [[Executive-Function|Executive Function]], [[creative synthesis]], [[complex problem-solving]], and [[error-sensitive precision]]—the "deliberate practice" equivalents of knowledge work that drive genuine skill development and produce highest-value outputs. These represent the 3-4 intensive ultradian blocks discussed above. During **circadian transition periods** (early morning and late afternoon), we schedule tasks requiring moderate cognitive engagement but lower executive function demands: routine meetings, administrative work, communication, and task planning. During the **circadian trough** (typically early morning for late chronotypes, evening for early chronotypes), we engage in minimal cognitive work, prioritizing instead physical activity, social connection, and sleep preparation activities that facilitate recovery and next-day readiness. The practical implication is that not all work hours are created equal, and attempting to fill all available hours with intensive cognitive work represents a fundamental misunderstanding of human performance architecture. A knowledge worker operating on this model might produce more high-quality deliverables in 4-5 hours of correctly timed intensive work than a colleague produces in 10 hours of poorly timed grinding. The key is not working less but rather working with exquisite timing precision, matching task demands to momentary cognitive capacity. Organizations implementing circadian-aware scheduling report improvements in both output quality and employee retention, as workers experience the satisfaction of consistent high-quality performance rather than the frustration of struggling against biological tides.
 
 #### 17. [PHASE-THREE] Untitled *(Line 114)*
 
@@ -230,7 +230,7 @@ extraction_summary:
 
 > [!phase-four] Untitled
 > **Building from Principle 4 and 5:** [[Managing Load and Recovery—The Fitness-Fatigue Optimization]]
-> The [[fitness-fatigue model]] provides a quantitative framework for balancing stress and recovery across multiple timescales. At any moment, an individual's **preparedness** = **fitness** - **fatigue**. Fitness develops slowly and persists for weeks; fatigue accumulates rapidly but dissipates within days. During intensive work periods, fitness increases but fatigue accumulates faster, temporarily reducing preparedness. During recovery periods, fitness decays slowly while fatigue dissipates rapidly, increasing preparedness. The optimization challenge is ensuring that accumulated fatigue never exceeds recovery capacity while maximizing long-term fitness development. This requires continuous monitoring of both subjective (perceived energy, motivation, cognitive clarity) and objective (resting heart rate, heart rate variability, sleep quality) markers. When markers indicate excessive fatigue accumulation, the prescribed intervention is not increased effort but rather strategic load reduction through shortened work blocks, extended recovery periods, or an entire recovery mesocycle. This seemingly counterintuitive prescription—reducing work when falling behind—is justified by the recognition that continuing to accumulate stress in a fatigued state produces minimal fitness gains while risking system breakdown. Similarly, recognizing the finite nature of attentional resources requires accepting hard constraints on daily intensive work duration. Just as elite athletes cannot productively train for 10 hours daily regardless of motivation, knowledge workers cannot sustain more than 4-6 hours of genuine [[deliberate practice]] equivalent work without experiencing rapidly diminishing returns and elevated risk of [[cognitive overload]] and [[burnout]]. The solution is not to push through but rather to structure work so that available high-quality hours are protected, focused, and used maximally efficiently. This may mean working "less" by clock time but accomplishing far more in terms of genuine capacity development and high-value output production. Organizations that implement these principles report dramatic improvements in both productivity metrics and employee wellbeing indicators, as the system aligns biological reality with performance demands.
+> The [[fitness-fatigue model]] provides a quantitative framework for balancing stress and recovery across multiple timescales. At any moment, an individual's **preparedness** = **fitness** - **fatigue**. Fitness develops slowly and persists for weeks; fatigue accumulates rapidly but dissipates within days. During intensive work periods, fitness increases but fatigue accumulates faster, temporarily reducing preparedness. During recovery periods, fitness decays slowly while fatigue dissipates rapidly, increasing preparedness. The optimization challenge is ensuring that accumulated fatigue never exceeds recovery capacity while maximizing long-term fitness development. This requires continuous monitoring of both subjective (perceived energy, motivation, cognitive clarity) and objective (resting heart rate, heart rate variability, sleep quality) markers. When markers indicate excessive fatigue accumulation, the prescribed intervention is not increased effort but rather strategic load reduction through shortened work blocks, extended recovery periods, or an entire recovery mesocycle. This seemingly counterintuitive prescription—reducing work when falling behind—is justified by the recognition that continuing to accumulate stress in a fatigued state produces minimal fitness gains while risking system breakdown. Similarly, recognizing the finite nature of attentional resources requires accepting hard constraints on daily intensive work duration. Just as elite athletes cannot productively train for 10 hours daily regardless of motivation, knowledge workers cannot sustain more than 4-6 hours of genuine [[Deliberate-Practice|deliberate practice]] equivalent work without experiencing rapidly diminishing returns and elevated risk of [[cognitive overload]] and [[burnout]]. The solution is not to push through but rather to structure work so that available high-quality hours are protected, focused, and used maximally efficiently. This may mean working "less" by clock time but accomplishing far more in terms of genuine capacity development and high-value output production. Organizations that implement these principles report dramatic improvements in both productivity metrics and employee wellbeing indicators, as the system aligns biological reality with performance demands.
 
 #### 19. [HELPFUL-TIP] Untitled *(Line 122)*
 
@@ -355,7 +355,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Anders Ericsson]]
+- [[Anders-Ericsson|Anders Ericsson]]
 - [[Attention Restoration Theory]]
 - [[Basic Rest-Activity Cycle]]
 - [[Block Periodization vs. Linear Periodization]]
@@ -363,7 +363,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Creativity Through Unstructured Brainstorming]]
 - [[Decision Quality Through Extended Analysis]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[General Adaptation Syndrome]]
 - [[Hans Selye]]
 - [[Health Through Exercise Volume]]
@@ -400,16 +400,16 @@ extraction_summary:
 - [[circadian misalignment]]
 - [[cognitive overload]]
 - [[complex problem-solving]]
-- [[consolidation]]
+- [[Consolidation]]
 - [[cortisol]]
 - [[creative synthesis]]
 - [[decision fatigue]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[deliberate practice frameworks]]
 - [[detraining]]
 - [[ego depletion]]
 - [[error-sensitive precision]]
-- [[extraneous cognitive load]]
+- [[Extraneous-Cognitive-Load|extraneous cognitive load]]
 - [[fitness-fatigue model]]
 - [[glycogen repletion]]
 - [[hippocampal]]
@@ -470,9 +470,9 @@ extraction_summary:
 | 30 | [[detraining]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
 | 31 | [[periodization]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
 | 32 | [[supercompensation]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
-| 33 | [[deliberate practice]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
-| 34 | [[Anders Ericsson]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
-| 35 | [[consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
+| 33 | [[Deliberate-Practice|deliberate practice]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
+| 34 | [[Anders-Ericsson|Anders Ericsson]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
+| 35 | [[Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
 | 36 | [[mental representations]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
 | 37 | [[The Inverted-U Relationship Between Arousal and Performance]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 85 |
 | 38 | [[Yerkes-Dodson Law]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 86 |
@@ -482,14 +482,14 @@ extraction_summary:
 | 42 | [[ego depletion]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 43 | [[decision fatigue]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 44 | [[Roy Baumeister]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
-| 45 | [[deliberate practice]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
-| 46 | [[Anders Ericsson]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
+| 45 | [[Deliberate-Practice|deliberate practice]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
+| 46 | [[Anders-Ericsson|Anders Ericsson]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 47 | [[Structuring the Microcycle—Daily Stress-Recovery Architecture]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 107 |
 | 48 | [[ultradian rhythm]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 108 |
 | 49 | [[hippocampal]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 108 |
-| 50 | [[extraneous cognitive load]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 108 |
+| 50 | [[Extraneous-Cognitive-Load|extraneous cognitive load]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 108 |
 | 51 | [[Leveraging Circadian Architecture—Temporal Task Assignment]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 111 |
-| 52 | [[Executive Function]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 112 |
+| 52 | [[Executive-Function|Executive Function]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 112 |
 | 53 | [[creative synthesis]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 112 |
 | 54 | [[complex problem-solving]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 112 |
 | 55 | [[error-sensitive precision]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 112 |
@@ -499,7 +499,7 @@ extraction_summary:
 | 59 | [[macrocycle]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 116 |
 | 60 | [[Managing Load and Recovery—The Fitness-Fatigue Optimization]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 119 |
 | 61 | [[fitness-fatigue model]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
-| 62 | [[deliberate practice]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
+| 62 | [[Deliberate-Practice|deliberate practice]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
 | 63 | [[cognitive overload]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
 | 64 | [[burnout]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
 | 65 | [[Basic Rest-Activity Cycle]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 132 |
@@ -635,7 +635,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Anders Ericsson]]
+- [[Anders-Ericsson|Anders Ericsson]]
 - [[Attention Restoration Theory]]
 - [[Basic Rest-Activity Cycle]]
 - [[Block Periodization vs. Linear Periodization]]
@@ -643,7 +643,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Creativity Through Unstructured Brainstorming]]
 - [[Decision Quality Through Extended Analysis]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[General Adaptation Syndrome]]
 - [[Hans Selye]]
 - [[Health Through Exercise Volume]]
@@ -680,16 +680,16 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 - [[circadian misalignment]]
 - [[cognitive overload]]
 - [[complex problem-solving]]
-- [[consolidation]]
+- [[Consolidation]]
 - [[cortisol]]
 - [[creative synthesis]]
 - [[decision fatigue]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[deliberate practice frameworks]]
 - [[detraining]]
 - [[ego depletion]]
 - [[error-sensitive precision]]
-- [[extraneous cognitive load]]
+- [[Extraneous-Cognitive-Load|extraneous cognitive load]]
 - [[fitness-fatigue model]]
 - [[glycogen repletion]]
 - [[hippocampal]]

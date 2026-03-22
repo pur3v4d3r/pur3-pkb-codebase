@@ -130,7 +130,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 248)*
 
 > [!abstract] Untitled
-> This report examines [[Stoicism]] as the ancient world's most rigorous philosophical foundation for what we today call minimalism — arguing that the Stoic commitment to voluntary simplicity is not an optional lifestyle preference but a direct expression of the core philosophical claim that genuine flourishing cannot be purchased, accumulated, or acquired. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary psychological research on materialism, hedonic adaptation, and wellbeing, this report maps the philosophical architecture of Stoic simplicity, explains why it works psychologically, offers worked examples from historical and contemporary cases, and provides a systematic toolkit of practices for cultivating sufficiency in a culture designed to manufacture insatiability. The central argument is this: Stoic minimalism is not about owning fewer things. It is about correcting a fundamental error in how we understand what makes a life go well — and then living, concretely and practically, from that corrected understanding.
+> This report examines [[Stoicism]] as the ancient world's most rigorous philosophical foundation for what we today call minimalism — arguing that the Stoic commitment to voluntary simplicity is not an optional lifestyle preference but a direct expression of the core philosophical claim that genuine flourishing cannot be purchased, accumulated, or acquired. Drawing on primary sources in [[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary psychological research on materialism, hedonic adaptation, and wellbeing, this report maps the philosophical architecture of Stoic simplicity, explains why it works psychologically, offers worked examples from historical and contemporary cases, and provides a systematic toolkit of practices for cultivating sufficiency in a culture designed to manufacture insatiability. The central argument is this: Stoic minimalism is not about owning fewer things. It is about correcting a fundamental error in how we understand what makes a life go well — and then living, concretely and practically, from that corrected understanding.
 
 #### 2. [INDEX] Untitled *(Line 253)*
 
@@ -245,7 +245,7 @@ extraction_summary:
 > 
 > **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 > 
-> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
+> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
 #### 17. [PRACTICE] Untitled *(Line 440)*
 
@@ -438,7 +438,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Hedonic-Adaptation|Hedonic Adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
 - [[Preferred Indifferents]]
@@ -454,7 +454,7 @@ extraction_summary:
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Zeno of Citium]]
 
 ### All Occurrences
@@ -462,7 +462,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
-| 2 | [[Marcus Aurelius]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
+| 2 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
 | 3 | [[Epictetus]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
 | 4 | [[Seneca]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
 | 5 | [[Stoicism Series Overview]] | — | — | Stoicism and Minimalism: Living a Sim... | 256 |
@@ -476,13 +476,13 @@ extraction_summary:
 | 13 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 14 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
-| 16 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
+| 16 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
 | 17 | [[Diogenes of Sinope]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 18 | [[Crates of Thebes]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 19 | [[Zeno of Citium]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 20 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
 | 21 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
-| 22 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
+| 22 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
 | 23 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 330 |
 | 24 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 336 |
 | 25 | [[Hedonic-Adaptation|Hedonic Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
@@ -490,9 +490,9 @@ extraction_summary:
 | 27 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
 | 28 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 397 |
 | 29 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 404 |
-| 30 | [[Marcus Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 410 |
+| 30 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 410 |
 | 31 | [[Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 430 |
-| 32 | [[Virtue Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
+| 32 | [[Virtue-Ethics|Virtue Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
 | 33 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 449 |
 | 34 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 462 |
 | 35 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 475 |
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Hedonic-Adaptation|Hedonic Adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
 - [[Preferred Indifferents]]
@@ -564,7 +564,7 @@ extraction_summary:
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Zeno of Citium]]
 
 ### Frontmatter Relationships
@@ -579,13 +579,13 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
 - [[Preferred Indifferents]]
@@ -601,7 +601,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Ethics of Consumption]]
 - [[Ancient Philosophy]]
 

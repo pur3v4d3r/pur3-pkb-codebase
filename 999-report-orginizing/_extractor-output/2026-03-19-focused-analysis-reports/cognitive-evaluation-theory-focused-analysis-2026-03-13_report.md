@@ -244,7 +244,7 @@ extraction_summary:
 #### 20. [CROSS-DOMAIN-CONNECTION] CET and Communicative Pragmatics: The Same Sentence, Different Speech Acts *(Line 403)*
 
 > [!cross-domain-connection] CET and Communicative Pragmatics: The Same Sentence, Different Speech Acts
-> Cognitive Evaluation Theory's central insight — that the same event carries different meaning depending on its functional significance — has a precise structural parallel in linguistic pragmatics, specifically [[speech act theory]] (Austin, 1962; Searle, 1969). In speech act theory, an utterance's meaning is not exhausted by its propositional content (what it literally says); its force depends on the social act it performs (a promise, a threat, a directive, an assessment). "You're good at this" can be a genuine expression of admiration (informational), a manipulative tool to elicit compliance ("since you're so good at this, you should keep doing it" — controlling), or a performance of social role. The *same surface form* carries radically different illocutionary force depending on context, relationship, power dynamics, and history. CET's functional significance is, in essence, the motivational analogue of illocutionary force: it is not what the event literally delivers but what social-psychological act it performs in the relationship that matters. This parallel suggests that CET would benefit from closer engagement with sociolinguistic and relational accounts of how competence and control signals are communicated — and why the same reward, administered by different people in different relational contexts, has such different effects.
+> Cognitive Evaluation Theory's central insight — that the same event carries different meaning depending on its functional significance — has a precise structural parallel in linguistic pragmatics, specifically [[speech-act-theory|speech act theory]] (Austin, 1962; Searle, 1969). In speech act theory, an utterance's meaning is not exhausted by its propositional content (what it literally says); its force depends on the social act it performs (a promise, a threat, a directive, an assessment). "You're good at this" can be a genuine expression of admiration (informational), a manipulative tool to elicit compliance ("since you're so good at this, you should keep doing it" — controlling), or a performance of social role. The *same surface form* carries radically different illocutionary force depending on context, relationship, power dynamics, and history. CET's functional significance is, in essence, the motivational analogue of illocutionary force: it is not what the event literally delivers but what social-psychological act it performs in the relationship that matters. This parallel suggests that CET would benefit from closer engagement with sociolinguistic and relational accounts of how competence and control signals are communicated — and why the same reward, administered by different people in different relational contexts, has such different effects.
 
 #### 21. [TENSION-IDENTIFIED] The Operationalisation Problem: When Functional Significance Becomes Unfalsifiable *(Line 418)*
 
@@ -333,7 +333,7 @@ extraction_summary:
 > 
 > **Cross-Report Links:**
 > 
-> - **[[Self-Determination Theory — Foundational Report]]** — This focused analysis extends the foundational SDT treatment by providing a detailed mechanistic account of how external conditions affect the intrinsic/extrinsic motivation dimension. It adds the functional significance concept, the two-pathway model, and the temporal asymmetry analysis as layers that the Foundational Report does not cover in depth. Together, the two documents constitute a comprehensive treatment of SDT's motivation architecture.
+> - **[[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]** — This focused analysis extends the foundational SDT treatment by providing a detailed mechanistic account of how external conditions affect the intrinsic/extrinsic motivation dimension. It adds the functional significance concept, the two-pathway model, and the temporal asymmetry analysis as layers that the Foundational Report does not cover in depth. Together, the two documents constitute a comprehensive treatment of SDT's motivation architecture.
 > 
 > **Synthetic Observation**: CET occupies a distinctive position in the PKB — it provides the most fine-grained motivational mechanism account currently available, but it connects outward to both the macro-level motivational architecture of SDT and the micro-level cognitive architecture of CLT and SRL. It is a bridge theory, and its greatest analytical value comes from examining it in relationship to these adjacent frameworks rather than in isolation. The knowledge network emerging across the SRL, CLT, and SDT reports suggests a coherent underlying theme: effective learning requires conditions that simultaneously optimise cognitive processing, motivational quality, and regulatory engagement — and these three dimensions are deeply interdependent rather than separable.
 
@@ -457,13 +457,13 @@ extraction_summary:
 #### 55. [FURTHER-EXPLORATION] Deepening Your Analysis *(Line 626)*
 
 > [!further-exploration] Deepening Your Analysis
-> > [!topic-idea] [[Basic Psychological Needs Theory]]
+> > [!topic-idea] [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 > > CET is one of six SDT mini-theories, and it posits autonomy and competence as mediating mechanisms without fully developing their status as universal psychological needs. Basic Psychological Needs Theory (BPNT) provides this foundational layer, arguing that autonomy, competence, and relatedness are three universal organismic needs whose satisfaction predicts well-being and whose frustration predicts ill-being — across cultures, activities, and developmental stages. A focused analysis of BPNT would deepen the CET account by examining the need satisfaction/frustration asymmetry more carefully, connecting to the hedonic and eudaimonic well-being literature, and addressing the cross-cultural evidence that is both supportive and challenging for the universality claim.
 > 
-> > [!topic-idea] [[Feedback Effects on Motivation and Learning]]
+> > [!topic-idea] [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
 > > CET's distinction between informational and controlling events maps most directly onto the feedback literature in educational psychology. A focused analysis here would synthesise CET with the Kluger and DeNisi (1996) meta-analysis of feedback effects, Hattie's feedback research, Shute's formative feedback framework, and the growing literature on computer-delivered feedback. The specific question is: what features of feedback operationalise CET's informational vs. controlling distinction in ways that are testable in educational contexts, and how does feedback design interact with the relational frame and motivational history constructs from the Interpretive Filter Model?
 > 
-> > [!topic-idea] [[Expectancy-Value Theory]]
+> > [!topic-idea] [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 > > EVT (Eccles, Wigfield) and CET approach motivation from different directions: EVT focuses on the cognitive appraisal of tasks (do I expect to succeed? does this task have value for me?), while CET focuses on the source of regulation (am I doing this for internal or external reasons?). These frameworks are frequently treated as competitors, but they are better understood as complementary: EVT explains the structure of motivation (what determines whether someone will engage), while CET explains the quality and sustainability of motivation (what determines whether engagement is internally vs. externally regulated). A focused comparative analysis would map the intersection points, identify where each is insufficient alone, and propose an integration.
 > 
 > > [!topic-idea] [[Growth Mindset and CET]]
@@ -483,22 +483,22 @@ extraction_summary:
 ### Unique Targets
 
 - [[Attribution-Theory|Attribution Theory]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Cognitive-Evaluation-Theory|CET]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Expectancy-Value Theory]]
-- [[Feedback Effects on Motivation and Learning]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Gamification]]
 - [[Gamification in Educational Contexts]]
 - [[Growth Mindset and CET]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[SDT]]
+- [[Self-Determination-Theory|SDT]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory — Foundational Report]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-determination]]
+- [[Self-Determination]]
 - [[Attribution-Theory|attribution theory]]
 - [[Autonomy-Orientation|autonomy orientation]]
 - [[Control-Orientation|control orientation]]
@@ -506,8 +506,8 @@ extraction_summary:
 - [[Intrinsic-Motivation|intrinsic motivation]]
 - [[Perceived-Competence|perceived competence]]
 - [[Perceived-Locus-of-Causality|perceived locus of causality]]
-- [[self-determination]]
-- [[speech act theory]]
+- [[Self-Determination]]
+- [[speech-act-theory|speech act theory]]
 
 ### All Occurrences
 
@@ -515,17 +515,17 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cognitive-Evaluation-Theory|CET]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
 | 2 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
-| 3 | [[SDT]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
+| 3 | [[Self-Determination-Theory|SDT]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
 | 4 | [[Intrinsic-Motivation|intrinsic motivation]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
 | 5 | [[Functional-Significance|functional significance]] | — | — | Phase I: Orientation & Analytical Focus | 269 |
 | 6 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
-| 7 | [[Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
-| 8 | [[self-determination]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
+| 7 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
+| 8 | [[Self-Determination]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
 | 9 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
 | 10 | [[Perceived-Locus-of-Causality|perceived locus of causality]] | — | — | Phase II: Analytical Framework | 293 |
 | 11 | [[Perceived-Competence|perceived competence]] | — | — | Phase II: Analytical Framework | 293 |
-| 12 | [[Self-determination]] | — | — | The Two-Pathway Architecture | 379 |
-| 13 | [[speech act theory]] | — | — | The Temporal Dynamics of Functional S... | 404 |
+| 12 | [[Self-Determination]] | — | — | The Two-Pathway Architecture | 379 |
+| 13 | [[speech-act-theory|speech act theory]] | — | — | The Temporal Dynamics of Functional S... | 404 |
 | 14 | [[Gamification]] | — | — | Direct Implications | 449 |
 | 15 | [[Autonomy-Orientation|autonomy orientation]] | — | — | Limitations and Honest Boundaries | 462 |
 | 16 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | Limitations and Honest Boundaries | 462 |
@@ -534,14 +534,14 @@ extraction_summary:
 | 19 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
 | 20 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
 | 21 | [[Attribution-Theory|Attribution Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 535 |
-| 22 | [[Self-Determination Theory — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 539 |
+| 22 | [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 539 |
 | 23 | [[Attribution-Theory|attribution theory]] | — | — | A. Lexicon of Key Terms | 556 |
-| 24 | [[Basic Psychological Needs Theory]] | — | — | D. Expansion Topics | 628 |
-| 25 | [[Feedback Effects on Motivation and Learning]] | — | — | D. Expansion Topics | 631 |
-| 26 | [[Expectancy-Value Theory]] | — | — | D. Expansion Topics | 634 |
+| 24 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | D. Expansion Topics | 628 |
+| 25 | [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]] | — | — | D. Expansion Topics | 631 |
+| 26 | [[Expectancy-Value-Theory|Expectancy-Value Theory]] | — | — | D. Expansion Topics | 634 |
 | 27 | [[Growth Mindset and CET]] | — | — | D. Expansion Topics | 637 |
 | 28 | [[Gamification in Educational Contexts]] | — | — | D. Expansion Topics | 640 |
-| 29 | [[Focused Analysis Report Generator v1.0]] | — | — | D. Expansion Topics | 645 |
+| 29 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | D. Expansion Topics | 645 |
 
 ---
 
@@ -553,22 +553,22 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Attribution-Theory|Attribution Theory]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Cognitive-Evaluation-Theory|CET]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Expectancy-Value Theory]]
-- [[Feedback Effects on Motivation and Learning]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Gamification]]
 - [[Gamification in Educational Contexts]]
 - [[Growth Mindset and CET]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[SDT]]
+- [[Self-Determination-Theory|SDT]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory — Foundational Report]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-determination]]
+- [[Self-Determination]]
 - [[Attribution-Theory|attribution theory]]
 - [[Autonomy-Orientation|autonomy orientation]]
 - [[Control-Orientation|control orientation]]
@@ -576,8 +576,8 @@ extraction_summary:
 - [[Intrinsic-Motivation|intrinsic motivation]]
 - [[Perceived-Competence|perceived competence]]
 - [[Perceived-Locus-of-Causality|perceived locus of causality]]
-- [[self-determination]]
-- [[speech act theory]]
+- [[Self-Determination]]
+- [[speech-act-theory|speech act theory]]
 
 ### Frontmatter Relationships
 
@@ -590,14 +590,14 @@ extraction_summary:
 #### Related
 
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Overjustification-Effect|Overjustification Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Expectancy-Value Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Goal-Setting Theory]]
+- [[Goal-Setting-Theory|Goal-Setting Theory]]
 
 #### Broader
 
@@ -620,7 +620,7 @@ extraction_summary:
 #### Contrasts With
 
 - [[Behaviourist Reinforcement Theory]]
-- [[Expectancy-Value Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 
 #### Applied In
 
@@ -638,7 +638,7 @@ extraction_summary:
 
 - [[Autonomy-Supportive Instructional Design]]
 - [[Motivationally-Informed Feedback Design]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 
 ---
 

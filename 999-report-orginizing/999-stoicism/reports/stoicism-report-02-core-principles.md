@@ -98,15 +98,15 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[[Chrysippus]]"
   - "[[Zeno of Citium]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Aristotle]]"
   - "[[Eudaimonia]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
   - "[[Logos]]"
 
@@ -120,7 +120,7 @@ series-connections:
 
 broader:
   - "[[Philosophy MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
   - "[[Moral Psychology]]"
 
@@ -134,8 +134,8 @@ narrower:
 
 see-also:
   - "[[Aristotelian Virtue Ethics]]"
-  - "[[Cognitive Behavioral Therapy]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Positive Psychology]]"
   - "[[Mindfulness]]"
 
@@ -185,7 +185,7 @@ link-down:
   - "[[Prohairesis]]"
 link-related:
   - "[[Aristotelian Virtue Ethics]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Self-Regulation]]"
 
 expansion-topics:
@@ -215,7 +215,7 @@ importance: high
 # Core Principles: Virtue, Wisdom, and Self-Control
 
 > [!abstract]
-> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.
+> This report examines the philosophical architecture at the heart of [[Stoicism]] — the doctrine that virtue alone constitutes genuine flourishing, the taxonomy of the four cardinal virtues (wisdom, justice, courage, and temperance), the critical distinction between goods and preferred indifferents, and the role of [[Prohairesis]] as the faculty of rational choice at the seat of Stoic selfhood. Drawing on primary sources in [[Marcus-Aurelius]], [[Epictetus]], [[Seneca]], and the Early Stoa, and connecting these ancient frameworks to modern moral psychology and empirical research on self-regulation, this report establishes the conceptual foundations necessary for every applied domain the series subsequently explores.
 
 ---
 
@@ -316,7 +316,7 @@ Marcus Aurelius, writing in private to himself in what became the *Meditations*,
 
 Justice (*dikaiosyne*) is wisdom expressed in the social dimension of life — in all dealings with other persons and communities. The Stoics understood justice as far more than procedural fairness or the avoidance of obvious harm. It is grounded in their metaphysics: all rational beings participate in the same *[[Logos]]*, the universal rational principle that structures the cosmos. Because of this shared participation, all rational beings have genuine moral status, and justice is the recognition of and response to that status in every interaction.
 
-The Stoic conception of justice is, in this way, unusually cosmopolitan for its time. While Greek political thought routinely distinguished between the obligations owed to citizens versus foreigners or slaves, the Stoics argued for the moral equality of all rational beings — a position that made Stoicism both philosophically distinctive and politically radical. [[Epictetus]], himself a former slave, made this cosmopolitan commitment the foundation of his ethics. [[Marcus Aurelius]], ruling an empire of millions of subjects from dozens of ethnic and cultural backgrounds, returned repeatedly in the *Meditations* to the theme of his obligations to the whole human community, not merely to Rome or to his inner circle.
+The Stoic conception of justice is, in this way, unusually cosmopolitan for its time. While Greek political thought routinely distinguished between the obligations owed to citizens versus foreigners or slaves, the Stoics argued for the moral equality of all rational beings — a position that made Stoicism both philosophically distinctive and politically radical. [[Epictetus]], himself a former slave, made this cosmopolitan commitment the foundation of his ethics. [[Marcus-Aurelius]], ruling an empire of millions of subjects from dozens of ethnic and cultural backgrounds, returned repeatedly in the *Meditations* to the theme of his obligations to the whole human community, not merely to Rome or to his inner circle.
 
 > [!quote]
 > "We are made for cooperation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another then is contrary to nature."
@@ -370,7 +370,7 @@ The argument runs as follows: genuine wisdom — practical knowledge of what is 
 
 [Unity-of-Virtues:: The Stoic thesis that the four cardinal virtues — wisdom, justice, courage, and temperance — are not separable but aspects of a single unified excellent character; possessing any one in the genuine Stoic sense logically entails possessing all the others, because all derive from the same foundational practical knowledge.]
 
-This unity thesis generates one of the most challenging and provocative concepts in Stoic ethics: the figure of the *Sage* (*sophos* in Greek, *sapiens* in Latin). The Sage is the person who has achieved complete virtue — all four virtues in their unified fullness, the person for whom the [[Dichotomy of Control]] is not a principle to be remembered and applied but an instinct so deeply embodied that deviation from it would be psychologically impossible.
+This unity thesis generates one of the most challenging and provocative concepts in Stoic ethics: the figure of the *Sage* (*sophos* in Greek, *sapiens* in Latin). The Sage is the person who has achieved complete virtue — all four virtues in their unified fullness, the person for whom the [[Dichotomy-of-Control]] is not a principle to be remembered and applied but an instinct so deeply embodied that deviation from it would be psychologically impossible.
 
 The Stoics were remarkably honest about the status of the Sage. They acknowledged that a true Sage is extraordinarily rare — some Stoic texts suggest they doubted whether any actual human being had ever achieved the full ideal. The Sage functions in Stoic ethics as a *regulative ideal* — a pole star that orients moral development without necessarily being a destination that any living person fully reaches. This is analogous to the role of the ideal experimenter in physics or the perfectly rational agent in economics: a theoretical construct that clarifies the structure of the domain even if no actual instance exists.
 
@@ -382,7 +382,7 @@ What does the Sage look like? They are, in Stoic terms, the only genuinely free 
 
 ## Part 5: Prohairesis — The Architecture of Stoic Selfhood
 
-No account of Stoic core principles can omit the concept that [[Epictetus]] placed at the very centre of his teaching: *[[Prohairesis]]* — the faculty of rational choice, will, or moral purpose. It is Epictetus' most significant technical contribution to the Stoic tradition, and it is the conceptual machinery through which the [[Dichotomy of Control]] operates at the level of individual psychology.
+No account of Stoic core principles can omit the concept that [[Epictetus]] placed at the very centre of his teaching: *[[Prohairesis]]* — the faculty of rational choice, will, or moral purpose. It is Epictetus' most significant technical contribution to the Stoic tradition, and it is the conceptual machinery through which the [[Dichotomy-of-Control]] operates at the level of individual psychology.
 
 [Prohairesis:: Epictetus' central concept — the faculty of rational choice, moral purpose, and will that constitutes the innermost self in Stoic psychology. Prohairesis is the one thing that is entirely "up to us" (eph' hēmin), the seat of virtue and the source of genuine freedom, because it is the only thing that cannot be externally compelled.]
 
@@ -456,7 +456,7 @@ The Stoic framework of virtue, prohairesis, and the dichotomy of control was dev
 
 [Virtue-as-Neuroplastic-Practice:: Contemporary neuroscience supports the Stoic practical program: repeated practice of virtuous judgment and action produces structural changes in neural circuits governing evaluation, self-regulation, and emotional response — making the Stoic habituation model of virtue development compatible with modern brain science.]
 
-The connection to [[Cognitive Behavioral Therapy]] deserves particular mention, because CBT's philosophical debt to Stoicism is explicit and documented. Aaron Beck, the founder of cognitive therapy, explicitly acknowledged the influence of the Stoic tradition — and specifically the Epictetan insight that it is not events but our judgments of events that disturb us — on the development of his therapeutic model. Albert Ellis, the founder of Rational Emotive Behaviour Therapy (REBT), was even more explicit: he cited Epictetus by name as a foundational influence and structured his therapeutic approach around the core Stoic distinction between activating events, beliefs about those events, and the emotional consequences of those beliefs (the ABC model). The Stoic framework of prohairesis and the Epictetan cognitive model of disturbance are, in important respects, the ancient forerunner of what became the dominant therapeutic paradigm of the late twentieth century.
+The connection to [[Cognitive-Behavioral-Therapy]] deserves particular mention, because CBT's philosophical debt to Stoicism is explicit and documented. Aaron Beck, the founder of cognitive therapy, explicitly acknowledged the influence of the Stoic tradition — and specifically the Epictetan insight that it is not events but our judgments of events that disturb us — on the development of his therapeutic model. Albert Ellis, the founder of Rational Emotive Behaviour Therapy (REBT), was even more explicit: he cited Epictetus by name as a foundational influence and structured his therapeutic approach around the core Stoic distinction between activating events, beliefs about those events, and the emotional consequences of those beliefs (the ABC model). The Stoic framework of prohairesis and the Epictetan cognitive model of disturbance are, in important respects, the ancient forerunner of what became the dominant therapeutic paradigm of the late twentieth century.
 
 ---
 
@@ -464,7 +464,7 @@ The connection to [[Cognitive Behavioral Therapy]] deserves particular mention, 
 
 ### Case 1: Marcus Aurelius and the Unity of Virtue Under Pressure
 
-[[Marcus Aurelius]] was, by any external measure, one of the most fortunate men in Roman history — and one of the most tested. He ruled the Roman Empire at its geographical peak, held absolute power over millions, and possessed enormous personal wealth. He also governed through the devastating Antonine Plague, which killed an estimated five to ten million people; fought prolonged and brutal military campaigns on the northern frontier; and navigated the complex politics of court life, where flattery was ubiquitous and genuine counsel rare.
+[[Marcus-Aurelius]] was, by any external measure, one of the most fortunate men in Roman history — and one of the most tested. He ruled the Roman Empire at its geographical peak, held absolute power over millions, and possessed enormous personal wealth. He also governed through the devastating Antonine Plague, which killed an estimated five to ten million people; fought prolonged and brutal military campaigns on the northern frontier; and navigated the complex politics of court life, where flattery was ubiquitous and genuine counsel rare.
 
 The *Meditations* — written in Greek, in private, never intended for publication — reveal a man using Stoic philosophy not as a comfortable ideology but as a live operational practice for governing himself under extreme circumstance. What emerges from the text is a demonstration of all four virtues in unified operation. Wisdom: the relentless effort to see situations accurately, to resist the distortions of power and flattery, to remember what actually matters. Justice: the repeated return to his obligations toward his subjects, his responsibilities to Rome, his duty to treat even those he dislikes with basic fairness. Courage: the willingness to continue working, leading, and deciding through exhaustion, illness, grief, and the weight of death on a mass scale. Temperance: the conscious moderation of his response to power itself — the effort to remain human, connected, and morally serious despite the corrupting pressures of absolute authority.
 
@@ -515,7 +515,7 @@ The Stoic claim, examined at length here, is that the quality of a human life is
 
 The character of a life is set by prohairesis — by the ongoing exercise of rational choice in response to every circumstance, great and small, that one's existence delivers. And prohairesis can be cultivated. That is the most hopeful claim in the entire Stoic system: virtue is not a gift of temperament or circumstance. It is a skill, developed through practice, available to anyone willing to engage in the work of careful attention, honest self-examination, and sustained commitment.
 
-[[Marcus Aurelius]], ruling an empire; [[Epictetus]], born into slavery; [[Seneca]], navigating the political violence of Nero's court — these were not people who had the luxury of retreat into comfortable philosophy. They practised Stoicism in the middle of difficulty, as a live operational framework for remaining human and morally serious under circumstances that would have broken less reflective people. That is the tradition this series is exploring. And it begins, irreducibly, with the concept of virtue — the one thing the Stoics were certain was genuinely good, and the one thing they were equally certain was genuinely within our reach.
+[[Marcus-Aurelius]], ruling an empire; [[Epictetus]], born into slavery; [[Seneca]], navigating the political violence of Nero's court — these were not people who had the luxury of retreat into comfortable philosophy. They practised Stoicism in the middle of difficulty, as a live operational framework for remaining human and morally serious under circumstances that would have broken less reflective people. That is the tradition this series is exploring. And it begins, irreducibly, with the concept of virtue — the one thing the Stoics were certain was genuinely good, and the one thing they were equally certain was genuinely within our reach.
 
 > [!key-takeaway]
 > The central insight of Stoic virtue ethics is that the quality of a human life is determined not by what happens to a person but by the character they bring to what happens — and character, understood as practical wisdom expressed in justice, courage, and self-governance, is something that can be cultivated deliberately through sustained practice. This means that genuine flourishing is not contingent on favorable external circumstances; it is the product of a particular relationship to whatever circumstances one faces.

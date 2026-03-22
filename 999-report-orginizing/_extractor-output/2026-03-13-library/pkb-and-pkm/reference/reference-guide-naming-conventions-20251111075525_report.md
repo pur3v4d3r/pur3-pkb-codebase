@@ -632,10 +632,10 @@ extraction_summary:
 - [[Templater Automation]]
 - [[Templater and QuickAdd Automation]]
 - [[Unicode and Emoji in Filenames]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method]]
-- [[dataview]]
+- [[Dataview]]
 - [[linking your thinking]]
 - [[para method]]
 - [[zettelkasten method]]
@@ -653,14 +653,14 @@ extraction_summary:
 | 7 | [[linking your thinking]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
 | 8 | [[Maps-of-Content-—-MOCs|MOCs]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
 | 9 | [[Obsidian]] | — | — | 🖥️ Obsidian-Specific Considerations | 255 |
-| 10 | [[Wiki-Links]] | — | — | 🔗 Wiki-Link Best Practices | 284 |
+| 10 | [[wiki-links]] | — | — | 🔗 Wiki-Link Best Practices | 284 |
 | 11 | [[Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 286 |
 | 12 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 13 | [[Stoicism Overview]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 14 | [[Ancient Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 15 | [[Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 297 |
 | 16 | [[Folder/Note]] | — | — | 🔗 Wiki-Link Best Practices | 302 |
-| 17 | [[dataview]] | — | — | ⚡ Dataview Query Optimization | 306 |
+| 17 | [[Dataview]] | — | — | ⚡ Dataview Query Optimization | 306 |
 | 18 | [[Overview]] | — | — | 🚨 Anti-Patterns & Pitfalls | 571 |
 | 19 | [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
 | 20 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
@@ -997,10 +997,10 @@ for root, dirs, files in os.walk(vault_path):
 - [[Templater Automation]]
 - [[Templater and QuickAdd Automation]]
 - [[Unicode and Emoji in Filenames]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method]]
-- [[dataview]]
+- [[Dataview]]
 - [[linking your thinking]]
 - [[para method]]
 - [[zettelkasten method]]

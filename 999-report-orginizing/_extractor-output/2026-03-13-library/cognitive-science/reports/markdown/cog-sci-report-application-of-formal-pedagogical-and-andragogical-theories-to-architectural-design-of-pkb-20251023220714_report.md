@@ -364,7 +364,7 @@ extraction_summary:
 - [[Philosophy MOC]]
 - [[Physics MOC]]
 - [[Project A]]
-- [[Psychological Safety]]
+- [[Psychological-Safety|Psychological Safety]]
 - [[Quantum Mechanics]]
 - [[Team Comms MOC]]
 - [[The Uncertainty Principle]]
@@ -392,7 +392,7 @@ extraction_summary:
 | 13 | [[Consciousness]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
 | 14 | [[The Uncertainty Principle]] | — | — | MECHANISM 1: THE ATOMIC NOTE (THE ACT... | 253 |
 | 15 | [[Team Comms MOC]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
-| 16 | [[Psychological Safety]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
+| 16 | [[Psychological-Safety|Psychological Safety]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
 | 17 | [[Vygotsky's ZPD]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
 | 18 | [[Management Theory]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
 | 19 | [[My notes from 1-on-1 with Bob]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
@@ -481,7 +481,7 @@ graph TD
 - [[Philosophy MOC]]
 - [[Physics MOC]]
 - [[Project A]]
-- [[Psychological Safety]]
+- [[Psychological-Safety|Psychological Safety]]
 - [[Quantum Mechanics]]
 - [[Team Comms MOC]]
 - [[The Uncertainty Principle]]

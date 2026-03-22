@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -67,18 +67,26 @@ see-also:
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|basic psychological needs]]"
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[relatedness]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Autonomy]]"
+  - "[[Competence]]"
+  - "[[Relatedness]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|basic psychological needs]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -163,12 +171,20 @@ importance: high
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
 
 **Related concepts:**
-[[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[perceived-partner-responsiveness|perceived partner responsiveness]]
+[[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
 
 **Related concepts** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
-[[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[basic-psychological-needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[perceived-partner-responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Knee|Knee]] * [[Patrick|Patrick]] * [[Lonsbary|Lonsbary]] * [[Autonomy-support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Deci|Deci]] * [[Impett|Impett]] * [[conditional-positive-regard|conditional positive regard]]
+[[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Knee|Knee]] * [[Patrick|Patrick]] * [[Lonsbary|Lonsbary]] * [[Autonomy-Support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Deci|Deci]] * [[Impett|Impett]] * [[Conditional-Positive-Regard|conditional positive regard]]
 
 **Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+**Related concepts** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+[[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Autonomy-Support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Conditional-Positive-Regard|conditional positive regard]] * [[Canevello|Canevello]] * [[Crocker|Crocker]] * [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]] * [[autonomy-relatedness-integration-problem|autonomy-relatedness integration problem]] * [[Reeve|Reeve]]
+
+**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+
 
 

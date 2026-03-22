@@ -24,7 +24,7 @@ domain: educational-psychology
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -52,17 +52,25 @@ see-also:
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -109,7 +117,7 @@ importance: high
 > Deci's classic studies (1971) found that external reward for intrinsically motivated activity reduced subsequent intrinsic motivation — an effect attributed to the perception shift from internal to external locus of causation. Meta-analyses of this paradigm (Deci, Koestner & Ryan, 1999; 128 studies, N > 10,000) found that tangible expected rewards contingent on task engagement reliably undermined intrinsic motivation, while positive performance feedback (informational rather than controlling) enhanced it. This distinction — informational vs. controlling aspects of environmental events — is the operative mechanism for autonomy need satisfaction and frustration respectively.
 
 > [!evidence] Supporting Evidence *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
-> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
+> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow-Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
 
 > [!evidence] Supporting Evidence *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
 > Baumeister and Leary's (1995) landmark review synthesized evidence across diverse literatures to argue that the need to belong is a fundamental human motivation. They found that social exclusion produces reliable negative affect and cognitive interference even in minimal social situations; that relationship formation is readily initiated with little provocation; and that the disruption of social bonds produces well-being deficits disproportionate to the objective significance of the bond. Within SDT-specific research, studies by La Guardia et al. (2000) showed that the degree to which specific relationships satisfy the relatedness need (rather than relationship quantity) predicts both relationship quality and broader well-being. Notably, relatedness satisfaction in one relationship (e.g., with a teacher) appears to be relatively independent of relatedness satisfaction in another (e.g., with peers), suggesting the need is not satisfied holistically but is relationship-specific.
@@ -192,7 +200,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[autonomy|autonomy]] * [[competence|competence]] * [[relatedness|relatedness]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[self-efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Autonomy|autonomy]] * [[Competence|competence]] * [[Relatedness|relatedness]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Self-Efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]]
 
 **Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
 - [[Attachment-Theory|Attachment Theory]]
@@ -208,6 +216,18 @@ importance: high
 
 **Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Autonomy-Support-in-Education|Autonomy Support in Education]] * [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+
+
 
 
 

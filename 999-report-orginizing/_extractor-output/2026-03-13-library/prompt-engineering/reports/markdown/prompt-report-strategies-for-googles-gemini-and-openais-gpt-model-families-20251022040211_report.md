@@ -393,7 +393,7 @@ extraction_summary:
 > [!important] Untitled
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 
-> 1.  `[[Prompt Engineering]]`
+> 1.  `[[Prompt-Engineering|Prompt Engineering]]`
 > 1.  `[[In-Context Learning (Few-Shot Prompting)]]`
 > 1.  `[[Chain-of-Thought (CoT) Reasoning]]`
 
@@ -446,7 +446,7 @@ extraction_summary:
 - [[Digital Literacy]]
 - [[Human-Computer Interaction (HCI)]]
 - [[In-Context Learning (Few-Shot Prompting)]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 
 ### All Occurrences
 
@@ -454,7 +454,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Human-Computer Interaction (HCI)]] | — | — | 6. 🌍Broader Implications and Signific... | 390 |
 | 2 | [[Digital Literacy]] | — | — | 6. 🌍Broader Implications and Signific... | 395 |
-| 3 | [[Prompt Engineering]] | — | — | 9. 🧠Key Questions for Active Reading ... | 486 |
+| 3 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 9. 🧠Key Questions for Active Reading ... | 486 |
 | 4 | [[In-Context Learning (Few-Shot Prompting)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 487 |
 | 5 | [[Chain-of-Thought (CoT) Reasoning]] | — | — | 9. 🧠Key Questions for Active Reading ... | 488 |
 
@@ -527,7 +527,7 @@ extraction_summary:
 - [[Digital Literacy]]
 - [[Human-Computer Interaction (HCI)]]
 - [[In-Context Learning (Few-Shot Prompting)]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 
 ---
 

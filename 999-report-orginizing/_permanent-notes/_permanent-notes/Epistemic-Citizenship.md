@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -86,7 +86,7 @@ see-also:
   - "[[Illusion-of-Knowing|Illusion of Knowing]]"
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Drew-Westen|Drew Westen]]"
-  - "[[Political-reasoning|Political reasoning]]"
+  - "[[Political-Reasoning|Political reasoning]]"
   - "[[democratic-self-governance|democratic self-governance]]"
   - "[[information-cocoons|information cocoons]]"
   - "[[political-polarization|political polarization]]"
@@ -94,7 +94,15 @@ see-also:
   - "[[Daniel-Kahneman|Daniel Kahneman]]"
   - "[[System-1|System 1]]"
   - "[[Drew-Westen|Drew Westen]]"
-  - "[[Political-reasoning|Political reasoning]]"
+  - "[[Political-Reasoning|Political reasoning]]"
+  - "[[democratic-self-governance|democratic self-governance]]"
+  - "[[information-cocoons|information cocoons]]"
+  - "[[political-polarization|political polarization]]"
+  - "[[political-heuristics|political heuristics]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[System-1|System 1]]"
+  - "[[Drew-Westen|Drew Westen]]"
+  - "[[Political-Reasoning|Political reasoning]]"
   - "[[democratic-self-governance|democratic self-governance]]"
   - "[[information-cocoons|information cocoons]]"
   - "[[political-polarization|political polarization]]"
@@ -179,10 +187,10 @@ importance: high
 > **The Disconfirmation Protocol**: For any belief tagged `epistemic/established` or `epistemic/well-supported`, maintain a linked note titled `[Belief] — Challenges and Counterevidence`. This note should contain: (1) the strongest arguments against the belief, stated in their best form; (2) sources representing serious opposition; (3) the PKB user's current response to each challenge; and (4) the confidence rating *after* engaging with the challenges. This protocol makes the disconfirmation work…
 
 > [!example] **Application** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
-> Civic education interventions that show the most consistent evidence of improving reasoning quality include: (1) explicit instruction in the identification of cognitive biases and motivated reasoning, applied to participants' own political reasoning; (2) perspective-taking exercises that require substantive engagement with the strongest versions of opposing arguments ("steelmanning" rather than strawmanning); (3) argument mapping techniques that make logical structure visible and evaluable; and (4) [[Socratic questioning]] practices that surface tacit assumptions.
+> Civic education interventions that show the most consistent evidence of improving reasoning quality include: (1) explicit instruction in the identification of cognitive biases and motivated reasoning, applied to participants' own political reasoning; (2) perspective-taking exercises that require substantive engagement with the strongest versions of opposing arguments ("steelmanning" rather than strawmanning); (3) argument mapping techniques that make logical structure visible and evaluable; and (4) [[Socratic-Questioning]] practices that surface tacit assumptions.
 
 > [!warning] **Key Distinction** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
-> A significant limitation of media literacy interventions is the [[Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.
+> A significant limitation of media literacy interventions is the [[Backfire-Effect]] literature — findings, prominent from a 2010 paper by [[Brendan-Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.
 
 
 
@@ -211,7 +219,7 @@ importance: high
 [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Critical-Thinking-Ethics|Critical Thinking Ethics]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]] · [[Epistemic-Cowardice|Epistemic Cowardice]] · [[Epistemic-Justice|Epistemic Justice]] · [[Epistemic-Status|Epistemic Status]] · [[Epistemic-Vigilance|Epistemic Vigilance]] · [[Hindsight-Bias|Hindsight Bias]] · [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]] · [[Illusion-of-Knowing|Illusion of Knowing]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Confirmation-Bias-Myside-Bias|Myside Bias]] · [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
 
 **Related concepts** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
-[[Drew-Westen|Drew Westen]] * [[Political-reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[motivated-reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]]
+[[Drew-Westen|Drew Westen]] * [[Political-Reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[Motivated-Reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]]
 
 **Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
@@ -224,7 +232,7 @@ importance: high
 - [[Epistemic-Calibration|Epistemic Calibration]]
 
 **Related concepts** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
-[[Drew-Westen|Drew Westen]] * [[Political-reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[motivated-reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]]
+[[Drew-Westen|Drew Westen]] * [[Political-Reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[Motivated-Reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]]
 
 **Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
@@ -235,6 +243,22 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Related concepts** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+[[Drew-Westen|Drew Westen]] * [[Political-Reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[Motivated-Reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]]
+
+**Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+
+
 
 
 

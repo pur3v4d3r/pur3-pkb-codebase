@@ -127,7 +127,7 @@ extraction_summary:
   - ## 11. Related Topics
     - ### 🔗 Related Topics for PKB Expansion
       - #### Core Extensions
-        - ##### 1. **[[Prompt Engineering Fundamentals]]**
+        - ##### 1. **[[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]**
         - ##### 2. **[[Templater Plugin Advanced Patterns]]**
       - #### Cross-Domain Connections
         - ##### 3. **[[Cognitive Load Theory and PKB Design]]**
@@ -191,7 +191,7 @@ extraction_summary:
 #### 1. [OVERVIEW] ### <span style='color: #7200ff;'>Overview</span> *(Line 38)*
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Text Generator Plugin: Complete API Interface Reference]]
+> - **Title**: [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]
 > - **MOC**: `=this.link-up`
 
 #### 2. [ABSTRACT] ### 🏷️ Tag Intelligence *(Line 229)*
@@ -302,7 +302,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Executive Summary *(Line 356)*
 
 > [!abstract] Executive Summary
-> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large Language Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template Engineering]], [[Smart-Connections|Smart Connections]] integration, and replicating [[Claude Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
+> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large-Language-Models|Large Language Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template-Engineering|Template Engineering]], [[Smart-Connections|Smart Connections]] integration, and replicating [[Claude-Projects|Claude Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
 
 #### 4. [HOW-TO-USE-THIS] Navigation Guide *(Line 359)*
 
@@ -312,7 +312,7 @@ extraction_summary:
 #### 5. [DEFINITION] Text Generator Plugin *(Line 384)*
 
 > [!definition] Text Generator Plugin
-> [**Text-Generator-Plugin**:: An open-source [[Obsidian]] community plugin that provides a native interface to [[Large Language Models]] (LLMs) including [[OpenAI]], [[Anthropic Claude]], [[Google Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template System|template system]].]
+> [**Text-Generator-Plugin**:: An open-source [[Obsidian]] community plugin that provides a native interface to [[Large-Language-Models|Large Language Models]] (LLMs) including [[OpenAI]], [[Anthropic-Claude|Anthropic Claude]], [[Google-Gemini|Google Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template-System|template system]].]
 
 #### 6. [PRINCIPLE-POINT] The Vault-Centric AI Philosophy *(Line 405)*
 
@@ -423,7 +423,7 @@ extraction_summary:
 #### 23. [DEFINITION] Smart Connections *(Line 1124)*
 
 > [!definition] Smart Connections
-> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic Search]] using [[AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
+> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search|Semantic Search]] using [[AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
 
 #### 24. [IMPORTANT] Embedding Independence *(Line 1166)*
 
@@ -595,47 +595,47 @@ extraction_summary:
 - [[API Cost Optimization Strategies]]
 - [[Anthropic]]
 - [[Anthropic API]]
-- [[Anthropic Claude]]
+- [[Anthropic-Claude|Anthropic Claude]]
 - [[Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
 - [[Claude]]
 - [[Claude 3.5 Sonnet]]
-- [[Claude API]]
-- [[Claude Projects]]
+- [[Claude-API|Claude API]]
+- [[Claude-Projects|Claude Projects]]
 - [[Claude.ai]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and PKB Design]]
 - [[Dataview]]
 - [[Google]]
-- [[Google Gemini]]
+- [[Google-Gemini|Google Gemini]]
 - [[Handlebars]]
 - [[HuggingFace]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LLM]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Markdown]]
 - [[Obsidian]]
-- [[Obsidian Basics]]
+- [[Obsidian-Basics|Obsidian Basics]]
 - [[Ollama]]
 - [[OpenAI]]
 - [[PKB]]
-- [[PKB Automation]]
+- [[PKB-Automation|PKB Automation]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Prompt Engineering]]
-- [[Prompt Engineering Fundamentals]]
-- [[Reference Note]]
-- [[Semantic Search]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
+- [[Reference-Note|Reference Note]]
+- [[Semantic-Search|Semantic Search]]
 - [[Semantic Search Architecture for PKB]]
 - [[Smart-Connections|Smart Connections]]
-- [[Template Engineering]]
-- [[Template System]]
+- [[Template-Engineering|Template Engineering]]
+- [[Template-System|Template System]]
 - [[Templater]]
 - [[Templater Plugin Advanced Patterns]]
 - [[Text-Generator-Plugin|Text Generator Plugin]]
-- [[Text Generator Plugin: Complete API Interface Reference]]
+- [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]
 - [[Tokens]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[like this]]
 - [[related notes]]
@@ -646,43 +646,43 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Text Generator Plugin: Complete API Interface Reference]] | — | — | Document Start | 39 |
+| 1 | [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] | — | — | Document Start | 39 |
 | 2 | [[Smart-Connections|Smart Connections]] | — | — | Text Generator Plugin: Complete API I... | 344 |
 | 3 | [[Templater]] | — | — | Text Generator Plugin: Complete API I... | 344 |
 | 4 | [[Dataview]] | — | — | Text Generator Plugin: Complete API I... | 344 |
-| 5 | [[Claude API]] | — | — | Text Generator Plugin: Complete API I... | 344 |
-| 6 | [[Prompt Engineering]] | — | — | Text Generator Plugin: Complete API I... | 344 |
-| 7 | [[PKB Automation]] | — | — | Text Generator Plugin: Complete API I... | 344 |
+| 5 | [[Claude-API|Claude API]] | — | — | Text Generator Plugin: Complete API I... | 344 |
+| 6 | [[Prompt-Engineering|Prompt Engineering]] | — | — | Text Generator Plugin: Complete API I... | 344 |
+| 7 | [[PKB-Automation|PKB Automation]] | — | — | Text Generator Plugin: Complete API I... | 344 |
 | 8 | [[Obsidian]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 9 | [[API]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
-| 10 | [[Large Language Models]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
-| 11 | [[Template Engineering]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
+| 10 | [[Large-Language-Models|Large Language Models]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
+| 11 | [[Template-Engineering|Template Engineering]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 12 | [[Smart-Connections|Smart Connections]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
-| 13 | [[Claude Projects]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
+| 13 | [[Claude-Projects|Claude Projects]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 14 | [[PKB]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 15 | [[Obsidian]] | — | — | What is Text Generator Plugin? | 385 |
-| 16 | [[Large Language Models]] | — | — | What is Text Generator Plugin? | 385 |
+| 16 | [[Large-Language-Models|Large Language Models]] | — | — | What is Text Generator Plugin? | 385 |
 | 17 | [[OpenAI]] | — | — | What is Text Generator Plugin? | 385 |
-| 18 | [[Anthropic Claude]] | — | — | What is Text Generator Plugin? | 385 |
-| 19 | [[Google Gemini]] | — | — | What is Text Generator Plugin? | 385 |
+| 18 | [[Anthropic-Claude|Anthropic Claude]] | — | — | What is Text Generator Plugin? | 385 |
+| 19 | [[Google-Gemini|Google Gemini]] | — | — | What is Text Generator Plugin? | 385 |
 | 20 | [[HuggingFace]] | — | — | What is Text Generator Plugin? | 385 |
 | 21 | [[Ollama]] | — | — | What is Text Generator Plugin? | 385 |
-| 22 | [[Template System]] | template system | — | What is Text Generator Plugin? | 385 |
+| 22 | [[Template-System|Template System]] | template system | — | What is Text Generator Plugin? | 385 |
 | 23 | [[PKB]] | — | — | What is Text Generator Plugin? | 387 |
 | 24 | [[ChatGPT]] | — | — | What is Text Generator Plugin? | 387 |
 | 25 | [[Claude.ai]] | — | — | What is Text Generator Plugin? | 387 |
 | 26 | [[Cognitive-Load|Cognitive Load]] | — | — | What is Text Generator Plugin? | 387 |
 | 27 | [[API]] | — | — | Why Use Text Generator as Your Primar... | 391 |
-| 28 | [[Knowledge Graph]] | — | — | Why Use Text Generator as Your Primar... | 394 |
+| 28 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Why Use Text Generator as Your Primar... | 394 |
 | 29 | [[API]] | — | — | Why Use Text Generator as Your Primar... | 397 |
-| 30 | [[Template System]] | — | — | Why Use Text Generator as Your Primar... | 400 |
-| 31 | [[Prompt Engineering]] | — | — | Why Use Text Generator as Your Primar... | 400 |
+| 30 | [[Template-System|Template System]] | — | — | Why Use Text Generator as Your Primar... | 400 |
+| 31 | [[Prompt-Engineering|Prompt Engineering]] | — | — | Why Use Text Generator as Your Primar... | 400 |
 | 32 | [[Smart-Connections|Smart Connections]] | — | — | Why Use Text Generator as Your Primar... | 403 |
-| 33 | [[Semantic Search]] | — | — | Why Use Text Generator as Your Primar... | 403 |
+| 33 | [[Semantic-Search|Semantic Search]] | — | — | Why Use Text Generator as Your Primar... | 403 |
 | 34 | [[Templater]] | — | — | Why Use Text Generator as Your Primar... | 403 |
 | 35 | [[Dataview]] | — | — | Why Use Text Generator as Your Primar... | 403 |
-| 36 | [[Reference Note]] | — | — | When to Use Text Generator | 411 |
-| 37 | [[Prompt Engineering]] | — | — | When to Use Text Generator | 413 |
+| 36 | [[Reference-Note|Reference Note]] | — | — | When to Use Text Generator | 411 |
+| 37 | [[Prompt-Engineering|Prompt Engineering]] | — | — | When to Use Text Generator | 413 |
 | 38 | [[PKB]] | — | — | The Architecture of AI-Augmented PKB | 431 |
 | 39 | [[Tokens]] | — | — | Context Window Management | 452 |
 | 40 | [[Claude 3.5 Sonnet]] | — | — | Context Window Management | 452 |
@@ -695,7 +695,7 @@ extraction_summary:
 | 47 | [[Claude]] | — | — | Anthropic Claude Configuration | 512 |
 | 48 | [[Anthropic API]] | — | — | Anthropic Claude Configuration | 512 |
 | 49 | [[Markdown]] | — | — | Template File Specifications | 530 |
-| 50 | [[YAML Frontmatter]] | — | — | Template File Specifications | 530 |
+| 50 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Template File Specifications | 530 |
 | 51 | [[Handlebars]] | — | — | Context Variable Reference | 567 |
 | 52 | [[Handlebars]] | — | — | Handlebars Template Syntax | 726 |
 | 53 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Advanced Template Patterns | 798 |
@@ -709,19 +709,19 @@ extraction_summary:
 | 61 | [[wiki-links]] | — | — | Multi-Step Generation Workflows | 1045 |
 | 62 | [[wiki-links]] | — | — | Multi-Step Generation Workflows | 1065 |
 | 63 | [[Obsidian]] | — | — | Understanding Smart Connections | 1125 |
-| 64 | [[Semantic Search]] | — | — | Understanding Smart Connections | 1125 |
+| 64 | [[Semantic-Search|Semantic Search]] | — | — | Understanding Smart Connections | 1125 |
 | 65 | [[AI Embeddings]] | — | — | Understanding Smart Connections | 1125 |
 | 66 | [[wiki-links]] | — | — | Practical Integration Templates | 1232 |
 | 67 | [[wiki-link]] | — | — | Practical Integration Templates | 1241 |
 | 68 | [[<%= note.path %>]] | — | — | Practical Integration Templates | 1280 |
-| 69 | [[Claude Projects]] | — | — | Understanding Claude Projects Archite... | 1305 |
+| 69 | [[Claude-Projects|Claude Projects]] | — | — | Understanding Claude Projects Archite... | 1305 |
 | 70 | [[wiki-link]] | — | — | Core Behaviors | 1333 |
 | 71 | [[related notes]] | — | — | Output Standards | 1342 |
 | 72 | [[<%= note.basename %>]] | — | — | Component 2: Knowledge Base → Smart C... | 1418 |
 | 73 | [[wiki-links]] | — | — | Output Requirements | 1572 |
-| 74 | [[Prompt Engineering Fundamentals]] | — | — | 1. **[[Prompt Engineering Fundamental... | 1838 |
+| 74 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | 1. **[[Prompt Engineering Fundamental... | 1838 |
 | 75 | [[Templater Plugin Advanced Patterns]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1845 |
-| 76 | [[Obsidian Basics]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1850 |
+| 76 | [[Obsidian-Basics|Obsidian Basics]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1850 |
 | 77 | [[Cognitive Load Theory and PKB Design]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1856 |
 | 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1861 |
 | 79 | [[API Cost Optimization Strategies]] | — | — | 4. **[[API Cost Optimization Strategi... | 1863 |
@@ -730,7 +730,7 @@ extraction_summary:
 | 82 | [[Smart-Connections|Smart Connections]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
 | 83 | [[Semantic Search Architecture for PKB]] | — | — | 6. **[[Semantic Search Architecture f... | 1881 |
 | 84 | [[Smart-Connections|Smart Connections]] | — | — | 6. **[[Semantic Search Architecture f... | 1886 |
-| 85 | [[Obsidian Basics]] | — | — | 🔄 Version History | 1912 |
+| 85 | [[Obsidian-Basics|Obsidian Basics]] | — | — | 🔄 Version History | 1912 |
 | 86 | [[API Concepts]] | — | — | 🔄 Version History | 1913 |
 
 ---
@@ -1945,7 +1945,7 @@ flowchart TD
 - `%%applies-to: research-synthesis%%` *(Line 1909)*
 - `%%applies-to: api-cost-management%%` *(Line 1910)*
 - `%%mental-model: Zettelkasten%%` *(Line 1911)*
-- `%%prereq-soft: [[Obsidian Basics]]%%` *(Line 1912)*
+- `%%prereq-soft: [[Obsidian-Basics|Obsidian Basics]]%%` *(Line 1912)*
 - `%%prereq-soft: [[API Concepts]]%%` *(Line 1913)*
 
 ### Qa Tag (1)
@@ -2012,47 +2012,47 @@ $$
 - [[API Cost Optimization Strategies]]
 - [[Anthropic]]
 - [[Anthropic API]]
-- [[Anthropic Claude]]
+- [[Anthropic-Claude|Anthropic Claude]]
 - [[Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
 - [[Claude]]
 - [[Claude 3.5 Sonnet]]
-- [[Claude API]]
-- [[Claude Projects]]
+- [[Claude-API|Claude API]]
+- [[Claude-Projects|Claude Projects]]
 - [[Claude.ai]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and PKB Design]]
 - [[Dataview]]
 - [[Google]]
-- [[Google Gemini]]
+- [[Google-Gemini|Google Gemini]]
 - [[Handlebars]]
 - [[HuggingFace]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LLM]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Markdown]]
 - [[Obsidian]]
-- [[Obsidian Basics]]
+- [[Obsidian-Basics|Obsidian Basics]]
 - [[Ollama]]
 - [[OpenAI]]
 - [[PKB]]
-- [[PKB Automation]]
+- [[PKB-Automation|PKB Automation]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Prompt Engineering]]
-- [[Prompt Engineering Fundamentals]]
-- [[Reference Note]]
-- [[Semantic Search]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
+- [[Reference-Note|Reference Note]]
+- [[Semantic-Search|Semantic Search]]
 - [[Semantic Search Architecture for PKB]]
 - [[Smart-Connections|Smart Connections]]
-- [[Template Engineering]]
-- [[Template System]]
+- [[Template-Engineering|Template Engineering]]
+- [[Template-System|Template System]]
 - [[Templater]]
 - [[Templater Plugin Advanced Patterns]]
 - [[Text-Generator-Plugin|Text Generator Plugin]]
-- [[Text Generator Plugin: Complete API Interface Reference]]
+- [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]
 - [[Tokens]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[like this]]
 - [[related notes]]

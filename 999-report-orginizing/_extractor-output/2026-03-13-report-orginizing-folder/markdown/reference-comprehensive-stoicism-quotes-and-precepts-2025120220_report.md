@@ -210,13 +210,13 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Knowledge-Management|knowledge management]] systems.
+> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Knowledge-Management|knowledge management]] systems.
 
 #### 10. [HOW-TO-USE-THIS] Untitled *(Line 285)*
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into major sections covering fundamental Stoic precepts followed by thematic collections of quotes from the three master Stoics. Use the table of contents below for quick navigation, or search for specific concepts using [[Wiki-Links]]. Each quote includes complete citation metadata for scholarly reference and daily practice integration.
+> This reference note is organized into major sections covering fundamental Stoic precepts followed by thematic collections of quotes from the three master Stoics. Use the table of contents below for quick navigation, or search for specific concepts using [[wiki-links]]. Each quote includes complete citation metadata for scholarly reference and daily practice integration.
 
 #### 11. [STOIC-PRECEPT] The Dichotomy of Control *(Line 319)*
 
@@ -240,7 +240,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Central Principle**
-> The Dichotomy of Control is the master key to [[Stoic Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.
+> The Dichotomy of Control is the master key to [[Stoic-Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.
 
 #### 13. [STOIC-PRECEPT] Summum Bonum (The Highest Good) *(Line 349)*
 
@@ -1164,7 +1164,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Gratitude]]
 - [[Justice]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Memento Mori]]
 - [[Mindfulness]]
 - [[Negative Visualization]]
@@ -1187,8 +1187,8 @@ extraction_summary:
 - [[Templater]]
 - [[Tranquility]]
 - [[Virtue]]
-- [[Virtue Ethics]]
-- [[Wiki-Links]]
+- [[Virtue-Ethics|Virtue Ethics]]
+- [[wiki-links]]
 - [[Wisdom]]
 
 ### All Occurrences
@@ -1198,10 +1198,10 @@ extraction_summary:
 | 1 | [[Stoic Precepts and Quotes]] | — | — | Stoic Precepts and Quotes | 41 |
 | 2 | [[Stoicism]] | — | — | Claude Thinking | 210 |
 | 3 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking | 211 |
-| 4 | [[Virtue Ethics]] | — | — | Claude Thinking | 212 |
+| 4 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Claude Thinking | 212 |
 | 5 | [[Amor Fati]] | — | — | Claude Thinking | 213 |
 | 6 | [[Memento Mori]] | — | — | Claude Thinking | 214 |
-| 7 | [[Marcus Aurelius]] | — | — | Claude Thinking | 215 |
+| 7 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking | 215 |
 | 8 | [[Epictetus]] | — | — | Claude Thinking | 216 |
 | 9 | [[Seneca]] | — | — | Claude Thinking | 217 |
 | 10 | [[Daily Note]] | — | — | Claude Thinking | 218 |
@@ -1213,12 +1213,12 @@ extraction_summary:
 | 16 | [[Prosoche]] | — | — | Claude Thinking | 224 |
 | 17 | [[Stoicism]] | Stoic | — | Claude Thinking | 283 |
 | 18 | [[Stoic Precepts]] | precepts | — | Claude Thinking | 283 |
-| 19 | [[Marcus Aurelius]] | — | — | Claude Thinking | 283 |
+| 19 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking | 283 |
 | 20 | [[Epictetus]] | — | — | Claude Thinking | 283 |
 | 21 | [[Seneca]] | — | — | Claude Thinking | 283 |
 | 22 | [[Ancient Philosophy]] | ancient wisdom | — | Claude Thinking | 283 |
 | 23 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | knowledge management | — | Claude Thinking | 283 |
-| 24 | [[Wiki-Links]] | — | — | Claude Thinking | 287 |
+| 24 | [[wiki-links]] | — | — | Claude Thinking | 287 |
 | 25 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Dichotomy of Control | 335 |
 | 26 | [[Epictetus]] | — | — | The Dichotomy of Control | 335 |
 | 27 | [[Tranquility]] | tranquility | — | The Dichotomy of Control | 335 |
@@ -1228,10 +1228,10 @@ extraction_summary:
 | 31 | [[Dikaiosyne]] | — | — | Virtue as the Highest Good (Summum Bo... | 355 |
 | 32 | [[Sophrosyne]] | — | — | Virtue as the Highest Good (Summum Bo... | 356 |
 | 33 | [[Eudaimonia]] | flourishing | — | Virtue as the Highest Good (Summum Bo... | 358 |
-| 34 | [[Virtue Ethics]] | virtue | — | Virtue as the Highest Good (Summum Bo... | 360 |
+| 34 | [[Virtue-Ethics|Virtue Ethics]] | virtue | — | Virtue as the Highest Good (Summum Bo... | 360 |
 | 35 | [[Amor Fati]] | — | — | Amor Fati (Love of Fate) | 381 |
 | 36 | [[Gratitude]] | — | — | Memento Mori (Remember You Must Die) | 404 |
-| 37 | [[Marcus Aurelius]] | — | — | Marcus Aurelius - Meditations | 441 |
+| 37 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Marcus Aurelius - Meditations | 441 |
 | 38 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Marcus Aurelius - Meditations | 441 |
 | 39 | [[Epictetus]] | — | — | Epictetus - Discourses and Enchiridion | 700 |
 | 40 | [[Arrian]] | — | — | Epictetus - Discourses and Enchiridion | 702 |
@@ -1431,7 +1431,7 @@ Event → [Pause for Judgment] → Response
 - [[Eudaimonia]]
 - [[Gratitude]]
 - [[Justice]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Memento Mori]]
 - [[Mindfulness]]
 - [[Negative Visualization]]
@@ -1454,8 +1454,8 @@ Event → [Pause for Judgment] → Response
 - [[Templater]]
 - [[Tranquility]]
 - [[Virtue]]
-- [[Virtue Ethics]]
-- [[Wiki-Links]]
+- [[Virtue-Ethics|Virtue Ethics]]
+- [[wiki-links]]
 - [[Wisdom]]
 
 ---

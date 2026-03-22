@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +76,14 @@ see-also:
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
   - "[[Alan-Baddeley|Alan Baddeley]]"
+  - "[[Deductive-Reasoning|Deductive Reasoning]]"
+  - "[[Inductive-Reasoning|Inductive Reasoning]]"
+  - "[[Abductive-Reasoning|Abductive Reasoning]]"
+  - "[[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]"
+  - "[[Design-Thinking-Pedagogy|Design Thinking Pedagogy]]"
+  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
+  - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
+  - "[[Peirce|Peirce]]"
   - "[[Deductive-Reasoning|Deductive Reasoning]]"
   - "[[Inductive-Reasoning|Inductive Reasoning]]"
   - "[[Abductive-Reasoning|Abductive Reasoning]]"
@@ -173,7 +181,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!example] **Application** *(from abductive-reasoning-foundational-report-2026-03-06.md)*
-> Research by [[Manu Kapur]] and colleagues on *productive failure* provides strong empirical support for a specifically abductive pedagogical design. In productive failure studies, students are given complex problems without prior instruction, allowed to generate multiple (typically incorrect or incomplete) solution methods, and only then provided with direct instruction. The abductive process of hypothesis generation during the initial exploration phase, even when it produces wrong answers, significantly enhances subsequent learning from instruction compared to direct instruction from the start. The mechanism appears to be that struggling to generate hypotheses activates relevant prior knowledge, creates awareness of the knowledge gaps the instruction will address, and produces a richer schema for organizing the new information.
+> Research by [[Manu-Kapur]] and colleagues on *productive failure* provides strong empirical support for a specifically abductive pedagogical design. In productive failure studies, students are given complex problems without prior instruction, allowed to generate multiple (typically incorrect or incomplete) solution methods, and only then provided with direct instruction. The abductive process of hypothesis generation during the initial exploration phase, even when it produces wrong answers, significantly enhances subsequent learning from instruction compared to direct instruction from the start. The mechanism appears to be that struggling to generate hypotheses activates relevant prior knowledge, creates awareness of the knowledge gaps the instruction will address, and produces a richer schema for organizing the new information.
 
 > [!example] **Application** *(from abductive-reasoning-foundational-report-2026-03-06.md)*
 > Deliberately introducing anomalous data, counterintuitive demonstrations, or cases that confound prior expectations creates the abductive occasion. Science education research on *conceptual change* (Posner et al., 1982; Chi, 2008) converges on the finding that learners who encounter demonstrably anomalous data that contradicts their existing mental models are better motivated to engage in genuine conceptual restructuring. The pedagogical challenge is calibrating the anomaly: it must be surprising enough to motivate hypothesis generation but not so opaque as to be simply discouraging.
@@ -213,7 +221,7 @@ importance: high
 [[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Alan-Baddeley|Alan Baddeley]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Allan-Collins|Allan Collins]] · [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical-Transfer|Analogical Transfer]] · [[Anki]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]]
 
 **Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
-[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Peirce|Peirce]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[Philosophy-of-Science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]]
+[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Peirce|Peirce]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[philosophy-of-science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]]
 
 **Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
@@ -228,7 +236,7 @@ importance: high
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
 
 **Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
-[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[Philosophy-of-Science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]]
+[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[philosophy-of-science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]]
 
 **Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
@@ -241,6 +249,24 @@ importance: high
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[philosophy-of-science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+
+
 
 
 

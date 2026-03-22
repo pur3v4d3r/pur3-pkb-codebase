@@ -153,7 +153,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 133)*
 
 > [!abstract] Untitled
-> [[Basic Psychological Needs Theory]] represents one of the most empirically validated frameworks for understanding human motivation, optimal functioning, and sustained engagement across all life domains. As a cornerstone mini-theory within [[Self-Determination-Theory|Self-Determination Theory]], BPNT proposes that three universal psychological nutrients—[[Autonomy]], [[Competence]], and [[Relatedness]]—function as essential requirements for psychological growth, well-being, and high-performance functioning. When these needs are satisfied, individuals demonstrate enhanced [[Intrinsic-Motivation|Intrinsic Motivation]], superior cognitive performance, greater psychological resilience, and sustainable engagement in complex cognitive tasks. Conversely, need frustration precipitates vulnerability to psychopathology, decreased performance quality, and impaired self-regulatory capacity. This comprehensive analysis explores how BPNT provides the foundational motivational architecture that enables effective [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] and sustained high performance in demanding knowledge work contexts, integrating neurobiological evidence with practical applications for cognitive system design.
+> [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] represents one of the most empirically validated frameworks for understanding human motivation, optimal functioning, and sustained engagement across all life domains. As a cornerstone mini-theory within [[Self-Determination-Theory|Self-Determination Theory]], BPNT proposes that three universal psychological nutrients—[[Autonomy]], [[Competence]], and [[Relatedness]]—function as essential requirements for psychological growth, well-being, and high-performance functioning. When these needs are satisfied, individuals demonstrate enhanced [[Intrinsic-Motivation|Intrinsic Motivation]], superior cognitive performance, greater psychological resilience, and sustainable engagement in complex cognitive tasks. Conversely, need frustration precipitates vulnerability to psychopathology, decreased performance quality, and impaired self-regulatory capacity. This comprehensive analysis explores how BPNT provides the foundational motivational architecture that enables effective [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] and sustained high performance in demanding knowledge work contexts, integrating neurobiological evidence with practical applications for cognitive system design.
 
 #### 4. [DEFINITION] Untitled *(Line 138)*
 
@@ -165,7 +165,7 @@ extraction_summary:
 > [!the-philosophy] Untitled
 > **The Central Thesis: Humans as Growth-Oriented Organisms**
 > 
-> At its philosophical core, BPNT rejects **blank slate conceptions** of human nature wherein individuals are viewed as passive recipients of environmental conditioning, infinitely malleable and devoid of inherent psychological structure. Instead, the theory adopts an **organismic-dialectical** perspective that recognizes humans as inherently active organisms possessing evolved tendencies toward growth, integration, and mastery of ambient challenges. This meta-theoretical stance—developed primarily by psychologists [[Edward Deci]] and [[Richard Ryan]] beginning in the 1970s and culminating in their comprehensive 2017 treatise—positions BPNT as fundamentally humanistic while remaining rigorously empirical.
+> At its philosophical core, BPNT rejects **blank slate conceptions** of human nature wherein individuals are viewed as passive recipients of environmental conditioning, infinitely malleable and devoid of inherent psychological structure. Instead, the theory adopts an **organismic-dialectical** perspective that recognizes humans as inherently active organisms possessing evolved tendencies toward growth, integration, and mastery of ambient challenges. This meta-theoretical stance—developed primarily by psychologists [[Edward-Deci|Edward Deci]] and [[Richard-Ryan|Richard Ryan]] beginning in the 1970s and culminating in their comprehensive 2017 treatise—positions BPNT as fundamentally humanistic while remaining rigorously empirical.
 
 #### 6. [KEY-CLAIM] Untitled *(Line 158)*
 
@@ -302,7 +302,7 @@ extraction_summary:
 
 - [[Analysis of Basic Psychological Needs Theory as the Foundational Architecture for Self-Regulated Learning and High-Performance Knowledge Work]]
 - [[Autonomy]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Behaviorist]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
@@ -312,12 +312,12 @@ extraction_summary:
 - [[Competence]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Distributed-Cognition|Distributed Cognition]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Eudaimonia]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow State]]
-- [[Flow Theory]]
-- [[Goal-Setting Theory]]
+- [[Flow-Theory|Flow Theory]]
+- [[Goal-Setting-Theory|Goal-Setting Theory]]
 - [[Integrated-Regulation|Integrated Regulation]]
 - [[Interleaving]]
 - [[Internalization]]
@@ -333,7 +333,7 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Relatedness]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Robert White]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
@@ -347,22 +347,22 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Analysis of Basic Psychological Needs Theory as the Foundational Architecture for Self-Regulated Learning and High-Performance Knowledge Work]] | — | — | Analysis of Basic Psychological Needs... | 44 |
-| 2 | [[Basic Psychological Needs Theory]] | — | — | Claude Thinking: | 110 |
+| 2 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | Claude Thinking: | 110 |
 | 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Claude Thinking: | 110 |
 | 4 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Claude Thinking: | 110 |
 | 5 | [[Autonomy]] | — | — | Claude Thinking: | 110 |
 | 6 | [[Competence]] | — | — | Claude Thinking: | 110 |
 | 7 | [[Relatedness]] | — | — | Claude Thinking: | 110 |
 | 8 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking: | 110 |
-| 9 | [[Extrinsic Motivation]] | — | — | Claude Thinking: | 110 |
+| 9 | [[Extrinsic-Motivation|Extrinsic Motivation]] | — | — | Claude Thinking: | 110 |
 | 10 | [[Internalization]] | — | — | Claude Thinking: | 110 |
 | 11 | [[Integrated-Regulation|Integrated Regulation]] | — | — | Claude Thinking: | 110 |
 | 12 | [[Neuroplasticity]] | — | — | Claude Thinking: | 110 |
 | 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 110 |
 | 14 | [[Flow State]] | — | — | Claude Thinking: | 110 |
 | 15 | [[Metacognition]] | — | — | Claude Thinking: | 110 |
-| 16 | [[Goal-Setting Theory]] | — | — | Claude Thinking: | 110 |
-| 17 | [[Basic Psychological Needs Theory]] | — | — | 🎯 Abstract | 134 |
+| 16 | [[Goal-Setting-Theory|Goal-Setting Theory]] | — | — | Claude Thinking: | 110 |
+| 17 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | 🎯 Abstract | 134 |
 | 18 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Abstract | 134 |
 | 19 | [[Autonomy]] | — | — | 🎯 Abstract | 134 |
 | 20 | [[Competence]] | — | — | 🎯 Abstract | 134 |
@@ -370,8 +370,8 @@ extraction_summary:
 | 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🎯 Abstract | 134 |
 | 23 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Abstract | 134 |
 | 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📖 Definition of Basic Psychological N... | 139 |
-| 25 | [[Edward Deci]] | — | — | 🏛️ The Philosophical Foundation & Cor... | 146 |
-| 26 | [[Richard Ryan]] | — | — | 🏛️ The Philosophical Foundation & Cor... | 146 |
+| 25 | [[Edward-Deci|Edward Deci]] | — | — | 🏛️ The Philosophical Foundation & Cor... | 146 |
+| 26 | [[Richard-Ryan|Richard Ryan]] | — | — | 🏛️ The Philosophical Foundation & Cor... | 146 |
 | 27 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
 | 28 | [[Behaviorist]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
 | 29 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
@@ -387,7 +387,7 @@ extraction_summary:
 | 39 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Practical Implications for Knowledge ... | 253 |
 | 40 | [[Neuroplasticity]] | — | — | 🧠 Neurobiological Foundations: How Ne... | 259 |
 | 41 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎓 Application to High-Performance Kno... | 285 |
-| 42 | [[Flow Theory]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
+| 42 | [[Flow-Theory|Flow Theory]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 43 | [[Spacing-Effect|Spacing Effect]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 44 | [[Interleaving]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 45 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
@@ -437,7 +437,7 @@ extraction_summary:
 
 - [[Analysis of Basic Psychological Needs Theory as the Foundational Architecture for Self-Regulated Learning and High-Performance Knowledge Work]]
 - [[Autonomy]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Behaviorist]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
@@ -447,12 +447,12 @@ extraction_summary:
 - [[Competence]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Distributed-Cognition|Distributed Cognition]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Eudaimonia]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow State]]
-- [[Flow Theory]]
-- [[Goal-Setting Theory]]
+- [[Flow-Theory|Flow Theory]]
+- [[Goal-Setting-Theory|Goal-Setting Theory]]
 - [[Integrated-Regulation|Integrated Regulation]]
 - [[Interleaving]]
 - [[Internalization]]
@@ -468,7 +468,7 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Relatedness]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Robert White]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]

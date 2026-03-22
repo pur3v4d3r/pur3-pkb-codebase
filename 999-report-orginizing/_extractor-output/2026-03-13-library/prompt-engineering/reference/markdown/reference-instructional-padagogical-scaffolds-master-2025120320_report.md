@@ -570,7 +570,7 @@ extraction_summary:
 #### 36. [PRINCIPLE-POINT] Untitled *(Line 421)*
 
 > [!principle-point] Untitled
-> - **Required Concept 1:** {{[[Concept Name]]}}
+> - **Required Concept 1:** {{[[Concept-Name|Concept Name]]}}
 >      - {{A detailed explanation of the first major principle required to solve the problem. Explain *what* it is and *why* it is essential for this specific challenge.}}
 
 #### 37. [DEFINITION] Untitled *(Line 425)*
@@ -587,7 +587,7 @@ extraction_summary:
 #### 39. [PRINCIPLE-POINT] Untitled *(Line 432)*
 
 > [!principle-point] Untitled
-> - **Required Concept 2:** {{[[Concept Name]]}}
+> - **Required Concept 2:** {{[[Concept-Name|Concept Name]]}}
 >      - {{A detailed explanation of the second major principle. Continue this pattern for all concepts identified in the plan.}}
 
 #### 40. [YOUR-NEW-WORKFLOW] Untitled *(Line 440)*
@@ -1715,7 +1715,7 @@ extraction_summary:
 - [[Causal-Loop-Diagrams]]
 - [[Cognitive-Biases]]
 - [[Complex Concept]]
-- [[Concept Name]]
+- [[Concept-Name|Concept Name]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Decision-Making]]
 - [[Decision-Making-Frameworks]]
@@ -1779,9 +1779,9 @@ extraction_summary:
 | 6 | [[Logical Fallacies]] | — | — | 6.0 📚 Reference/Appendix | 362 |
 | 7 | [[First-Principles-Thinking]] | — | — | 6.0 📚 Reference/Appendix | 362 |
 | 8 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 6.0 📚 Reference/Appendix | 362 |
-| 9 | [[Concept Name]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 422 |
+| 9 | [[Concept-Name|Concept Name]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 422 |
 | 10 | [[Complex Concept]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 430 |
-| 11 | [[Concept Name]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 433 |
+| 11 | [[Concept-Name|Concept Name]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 433 |
 | 12 | [[wiki-link]] | — | — | 5.0 🌐 GENERALIZATION: Transferring th... | 491 |
 | 13 | [[Exposure Triangle]] | — | — | 7.0 📚 Reference/Appendix | 518 |
 | 14 | [[Camera Modes]] | — | — | 7.0 📚 Reference/Appendix | 518 |
@@ -2442,7 +2442,7 @@ Generate a batch of 4 new components for me. Look for gaps in any category (Pers
 - [[Causal-Loop-Diagrams]]
 - [[Cognitive-Biases]]
 - [[Complex Concept]]
-- [[Concept Name]]
+- [[Concept-Name|Concept Name]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Decision-Making]]
 - [[Decision-Making-Frameworks]]

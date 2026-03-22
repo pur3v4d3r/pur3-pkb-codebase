@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -64,21 +64,29 @@ narrower:
 
 see-also:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[worked-example-effect|worked example effect]]"
-  - "[[expertise-reversal-effect|expertise reversal effect]]"
-  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Worked-Example-Effect|worked example effect]]"
+  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[worked-example-effect|worked example effect]]"
-  - "[[expertise-reversal-effect|expertise reversal effect]]"
-  - "[[working-memory|working memory]]"
-  - "[[schema-theory|schema theory]]"
+  - "[[Worked-Example-Effect|worked example effect]]"
+  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Schema-Theory|schema theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Worked-Example-Effect|worked example effect]]"
+  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Schema-Theory|schema theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +124,7 @@ importance: high
 # Schema Automation
 
 > [!definition] **Schema Automation**
-> The process by which frequently activated [[knowledge schemas]] in long-term memory become faster and less resource-demanding in working memory, eventually retrievable and deployable as single units rather than networks of individually active elements. Schema automation is the mechanism that underlies expertise: as schemas automate, effective element interactivity decreases, freeing working memory capacity for new learning. Schema automation is theorized to be the goal of all instructional schemas — what [[germane load]] is supposed to support.
+> The process by which frequently activated [[knowledge-schemas]] in long-term memory become faster and less resource-demanding in working memory, eventually retrievable and deployable as single units rather than networks of individually active elements. Schema automation is the mechanism that underlies expertise: as schemas automate, effective element interactivity decreases, freeing working memory capacity for new learning. Schema automation is theorized to be the goal of all instructional schemas — what [[Germane-Load]] is supposed to support.
 
 ## Core Explanation
 
@@ -155,7 +163,7 @@ importance: high
 > CLT is often misread as a simple prescription to minimize cognitive effort. This misreading leads to instructional designs that are cognitively undemanding across the board — short exposures, heavy scaffolding, minimal challenge — which, paradoxically, can impair learning by reducing the [[Schema-Construction]] effort that produces durable encoding. The correct prescription is more nuanced: reduce *extraneous* load (effort that does not produce schemas) while preserving or increasing the…
 
 > [!example] **Application** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
-> The [[split-attention effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
+> The [[Split-Attention-Effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
 
 
 
@@ -175,10 +183,10 @@ importance: high
 - [[skill-acquisition-research|skill acquisition research]]
 
 **Related concepts:**
-[[Cognitive-Load-Theory|Cognitive Load Theory]] · [[germane-cognitive-load|germane cognitive load]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Educational-Psychology|Educational Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[worked-example-effect|worked example effect]] · [[expertise-reversal-effect|expertise reversal effect]] · [[germane-cognitive-load|germane cognitive load]] · [[working-memory|working memory]] · [[schema-theory|schema theory]] · [[cognitive-psychology|cognitive psychology]] · [[Educational-Psychology|Educational Psychology]] · [[Instructional-design|Instructional design]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[working-memory|working memory]]
+[[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Germane-Cognitive-Load|germane cognitive load]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Educational-Psychology|Educational Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Worked-Example-Effect|worked example effect]] · [[Expertise-Reversal-Effect|expertise reversal effect]] · [[Germane-Cognitive-Load|germane cognitive load]] · [[Working-Memory|working memory]] · [[Schema-Theory|schema theory]] · [[Cognitive-Psychology|cognitive psychology]] · [[Educational-Psychology|Educational Psychology]] · [[Instructional-Design|Instructional design]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Working-Memory|working memory]]
 
 **Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
-[[Cognitive-Load-Theory|Cognitive Load Theory]] * [[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[expertise-reversal-effect|expertise reversal effect]] * [[working-memory|working memory]] * [[schema-theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[long-term-memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]] * [[Element-interactivity|Element interactivity]]
+[[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Working-Memory|working memory]] * [[Schema-Theory|schema theory]] * [[Cognitive-Psychology|cognitive psychology]] * [[Instructional-Design|Instructional design]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]] * [[Element-Interactivity|Element interactivity]]
 
 **Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
 - [[motor-learning|motor learning]]
@@ -187,6 +195,20 @@ importance: high
 **Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
 - [[motor-learning|motor learning]]
 - [[skill-acquisition-research|skill acquisition research]]
+
+**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+[[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Working-Memory|working memory]] * [[Schema-Theory|schema theory]] * [[Cognitive-Psychology|cognitive psychology]] * [[Instructional-Design|Instructional design]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-Interactivity|Element interactivity]] * [[Cognitive-Load|cognitive load]] * [[automation|automation]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+
+
 
 
 

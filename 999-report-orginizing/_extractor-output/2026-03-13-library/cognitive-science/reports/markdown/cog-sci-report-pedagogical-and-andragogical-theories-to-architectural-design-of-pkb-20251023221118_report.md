@@ -154,7 +154,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 49)*
 
 > [!abstract] Untitled
-> This article presents a comprehensive theoretical and empirical investigation into how formal pedagogical and andragogical theories can inform the architectural design of [[Personal Knowledge Management]] (PKM) systems. We examine the profound congruence between [[Constructivist Learning Theory]]—particularly the work of Jean Piaget, Lev Vygotsky, and Jerome Bruner—and the structural principles underlying effective PKM systems such as the [[zettelkasten method]]. We demonstrate that PKM systems, when properly designed, function as externalized manifestations of constructivist epistemology, wherein knowledge is not passively received but actively constructed through the learner's engagement with information, the creation of personal meaning, and the deliberate linking of concepts across a network of notes.
+> This article presents a comprehensive theoretical and empirical investigation into how formal pedagogical and andragogical theories can inform the architectural design of [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) systems. We examine the profound congruence between [[Constructivist-Learning-Theory|Constructivist Learning Theory]]—particularly the work of Jean Piaget, Lev Vygotsky, and Jerome Bruner—and the structural principles underlying effective PKM systems such as the [[zettelkasten method]]. We demonstrate that PKM systems, when properly designed, function as externalized manifestations of constructivist epistemology, wherein knowledge is not passively received but actively constructed through the learner's engagement with information, the creation of personal meaning, and the deliberate linking of concepts across a network of notes.
 > 
 > Furthermore, we explore how Malcolm Knowles' theory of [[Andragogy]]—which posits that adult learners are fundamentally self-directed, experience-rich, problem-centered, and internally motivated—provides a theoretical foundation for understanding why PKM systems are particularly effective for lifelong learners. We analyze how Vygotsky's concept of the [[Zone-of-Proximal-Development|Zone of Proximal Development]] and the related practice of [[Scaffolding-(Constructivist-Learning)]] can be applied to progressive knowledge building within PKM architectures, where simpler atomic notes serve as foundational scaffolds for increasingly complex conceptual structures. Finally, we investigate the critical role of [[Metacognition]] and [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] in PKM practice, demonstrating that effective knowledge management requires high levels of metacognitive awareness, strategic planning, continuous self-monitoring, and adaptive regulation of learning processes. Through this multi-theoretical lens, we establish that PKM systems represent not merely organizational tools, but sophisticated cognitive environments that, when aligned with sound learning theory, can dramatically optimize knowledge synthesis, retention, and creative application.
 
@@ -368,7 +368,7 @@ extraction_summary:
 
 > [!links-to-related-notes] Untitled
 > - Identify **three key terms** or **concepts** from this article and create linked notes for them:
-> 1. [[Constructivist Learning Theory]]
+> 1. [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 >     - Constructivism is the epistemological position that knowledge is not transmitted intact from teacher to learner, but is actively constructed by each learner through interpretation, integration with prior knowledge, and personal sense-making. In education, this implies that effective teaching doesn't just deliver information but creates environments where learners can engage in cognitive construction work. In PKM, this means systems should require active transformation of information (paraphrasing, linking, synthesizing) rather than passive storage. Key thinkers include Jean Piaget (cognitive constructivism emphasizing individual mental schemas), Lev Vygotsky (social constructivism emphasizing cultural context and social interaction), and Jerome Bruner (discovery learning and scaffolding). The opposite of constructivism would be transmission or behaviorist models where learning is simply information transfer or stimulus-response conditioning.
 > 
 > 1. [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -451,12 +451,12 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Andragogy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Communities-of-Practice|Communities of Practice]]
 - [[Conceptual Metaphor Theory]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Distributed Cognition Theory]]
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Heutagogy]]
@@ -477,8 +477,8 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Management]] | — | — | Document Start | 50 |
-| 2 | [[Constructivist Learning Theory]] | — | — | Document Start | 50 |
+| 1 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Document Start | 50 |
+| 2 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | Document Start | 50 |
 | 3 | [[zettelkasten method]] | — | — | Document Start | 50 |
 | 4 | [[Andragogy]] | — | — | Document Start | 52 |
 | 5 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Document Start | 52 |
@@ -494,7 +494,7 @@ extraction_summary:
 | 15 | [[Heutagogy]] | — | — | 6.1 LIFELONG LEARNING AND ANDRAGOGICA... | 249 |
 | 16 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 312 |
 | 17 | [[Network Science]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 312 |
-| 18 | [[Constructivist Learning Theory]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 324 |
+| 18 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 324 |
 | 19 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 327 |
 | 20 | [[Metacognition]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 330 |
 | 21 | [[Distributed Cognition Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 394 |
@@ -622,12 +622,12 @@ I'll structure the article following the provided template, incorporating rich e
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Andragogy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Communities-of-Practice|Communities of Practice]]
 - [[Conceptual Metaphor Theory]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Distributed Cognition Theory]]
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Heutagogy]]

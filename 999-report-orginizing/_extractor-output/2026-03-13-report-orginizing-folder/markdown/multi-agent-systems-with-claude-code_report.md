@@ -2768,23 +2768,23 @@ extraction_summary:
 > **Connections to Foundational Mental Models**
 > 
 > **Software Architecture**:
-> - Multi-agent systems mirror [[Microservices Architecture]]: independent services (agents), clear interfaces (descriptions), centralized orchestration (main agent as API gateway)
-> - Context isolation parallels [[Bounded Contexts]] in Domain-Driven Design: each agent operates within its domain boundary
-> - Shared state files function as [[Message Queues]] in distributed systems: asynchronous communication, eventual consistency
+> - Multi-agent systems mirror [[Microservices-Architecture|Microservices Architecture]]: independent services (agents), clear interfaces (descriptions), centralized orchestration (main agent as API gateway)
+> - Context isolation parallels [[Bounded-Contexts|Bounded Contexts]] in Domain-Driven Design: each agent operates within its domain boundary
+> - Shared state files function as [[Message-Queues|Message Queues]] in distributed systems: asynchronous communication, eventual consistency
 > 
 > **Distributed Systems**:
 > - Sequential pipeline pattern implements [[MapReduce]]: map (parallelize subtasks) and reduce (synthesize results)
-> - Hook-based automation mirrors [[Event-Driven Architecture]]: agents publish events (status changes), hooks subscribe and react
-> - Error handling follows [[Circuit Breaker Pattern]]: detect failures, prevent cascades, implement fallbacks
+> - Hook-based automation mirrors [[Event-Driven-Architecture|Event-Driven Architecture]]: agents publish events (status changes), hooks subscribe and react
+> - Error handling follows [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]]: detect failures, prevent cascades, implement fallbacks
 > 
 > **Team Dynamics**:
-> - Agent specialization reflects [[Conway's Law]]: system architecture mirrors communication structure (agents mirror team roles)
-> - Coordination strategies parallel [[Agile Standups]]: shared state files = async status updates, agents = team members reporting progress
-> - Tool restriction embodies [[Principle of Least Privilege]]: agents get minimum permissions needed, reducing security risk
+> - Agent specialization reflects [[Conway's-Law|Conway's Law]]: system architecture mirrors communication structure (agents mirror team roles)
+> - Coordination strategies parallel [[Agile-Standups|Agile Standups]]: shared state files = async status updates, agents = team members reporting progress
+> - Tool restriction embodies [[Principle-of-Least-Privilege|Principle of Least Privilege]]: agents get minimum permissions needed, reducing security risk
 > 
 > **Cognitive Science**:
 > - Context isolation prevents [[Cognitive-Load|Cognitive Load]] overload: each agent processes limited, relevant information
-> - Specialization leverages [[Expertise Theory]]: deep knowledge in narrow domain > shallow knowledge across broad domain
+> - Specialization leverages [[Expertise-Theory|Expertise Theory]]: deep knowledge in narrow domain > shallow knowledge across broad domain
 > - Explicit communication reduces [[Working-Memory|Working Memory]] burden: written state > remembered state
 
 #### 93. [APPLICATION-CONTEXT] Untitled *(Line 2753)*
@@ -2840,27 +2840,27 @@ extraction_summary:
 > **Explicit Connections to Existing PKB Concepts**
 > 
 > **Direct Prerequisites** (must understand before this):
-> - [[Claude Code Basics]] - Installation, configuration, fundamental usage
-> - [[CLAUDE.md Files]] - Project context and memory system
-> - [[Prompt Engineering Fundamentals]] - How to write effective agent prompts
-> - [[YAML Syntax]] - Required for agent frontmatter
+> - [[Claude-Code-Basics|Claude Code Basics]] - Installation, configuration, fundamental usage
+> - [[CLAUDE.md-Files|CLAUDE.md Files]] - Project context and memory system
+> - [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] - How to write effective agent prompts
+> - [[YAML-Syntax|YAML Syntax]] - Required for agent frontmatter
 > 
 > **Sibling Concepts** (parallel systems, often used together):
-> - [[MCP Servers]] - Tool integration extends agent capabilities
-> - [[Custom Commands]] - Slash commands for orchestration templates
-> - [[Skills System]] - Auto-loaded knowledge for agents
-> - [[Output Styles]] - Meta-prompts changing orchestration behavior
-> - [[Hooks System]] - Lifecycle events for automation
+> - [[MCP-Servers|MCP Servers]] - Tool integration extends agent capabilities
+> - [[Custom-Commands|Custom Commands]] - Slash commands for orchestration templates
+> - [[Skills-System|Skills System]] - Auto-loaded knowledge for agents
+> - [[Output-Styles|Output Styles]] - Meta-prompts changing orchestration behavior
+> - [[Hooks-System|Hooks System]] - Lifecycle events for automation
 > 
 > **Child Concepts** (specialized topics that elaborate this):
-> - [[Agent File Format Specification]] - Deep dive into YAML + markdown structure
+> - [[Agent-File-Format-Specification|Agent File Format Specification]] - Deep dive into YAML + markdown structure
 > - [[Coordination Pattern Library]] - Collection of proven orchestration strategies
 > - [[Tool Permission Grammar]] - Syntax for restricting agent capabilities
 > - [[State Management Protocols]] - Best practices for shared state files
 > - [[Agent Prompt Engineering]] - Specialized prompting for agents vs. main Claude
 > 
 > **Cross-Domain Bridges** (connections to other fields):
-> - [[Microservices Architecture]] → Agent isolation mirrors service boundaries
+> - [[Microservices-Architecture|Microservices Architecture]] → Agent isolation mirrors service boundaries
 > - [[Distributed Systems Design]] → State management, error handling, coordination
 > - [[Multi-Agent AI Systems]] → Academic research on agent coordination
 > - [[Software Engineering Workflows]] → CI/CD, git integration, code review
@@ -2992,94 +2992,94 @@ extraction_summary:
 ### Unique Targets
 
 - [[Agent Definition File Format]]
-- [[Agent File Format Specification]]
+- [[Agent-File-Format-Specification|Agent File Format Specification]]
 - [[Agent Observability and Debugging Toolkit]]
 - [[Agent Prompt Engineering]]
 - [[Agentic Workflow Design Patterns]]
-- [[Agile Standups]]
-- [[Bounded Contexts]]
-- [[CLAUDE.md Files]]
-- [[Circuit Breaker Pattern]]
-- [[Claude Code Basics]]
+- [[Agile-Standups|Agile Standups]]
+- [[Bounded-Contexts|Bounded Contexts]]
+- [[CLAUDE.md-Files|CLAUDE.md Files]]
+- [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]]
+- [[Claude-Code-Basics|Claude Code Basics]]
 - [[Claude Code MCP Server Integration]]
-- [[Claude Opus 4]]
-- [[Claude Sonnet 4]]
+- [[Claude-Opus-4|Claude Opus 4]]
+- [[Claude-Sonnet-4|Claude Sonnet 4]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Context Isolation Architecture]]
-- [[Conway's Law]]
+- [[Conway's-Law|Conway's Law]]
 - [[Coordination Pattern Library]]
-- [[Custom Commands]]
+- [[Custom-Commands|Custom Commands]]
 - [[Description Field Optimization]]
 - [[DevOps Practices]]
 - [[Distributed Systems Design]]
 - [[Enterprise Multi-Agent Governance]]
 - [[Enterprise Software Architecture]]
 - [[Error Handling in Multi-Agent Systems]]
-- [[Event-Driven Architecture]]
-- [[Expertise Theory]]
+- [[Event-Driven-Architecture|Event-Driven Architecture]]
+- [[Expertise-Theory|Expertise Theory]]
 - [[Hook-Based Automation]]
-- [[Hooks System]]
+- [[Hooks-System|Hooks System]]
 - [[Knowledge Work Automation]]
-- [[MCP Servers]]
+- [[MCP-Servers|MCP Servers]]
 - [[Main Agent as Coordinator]]
 - [[MapReduce]]
-- [[Message Queues]]
-- [[Microservices Architecture]]
+- [[Message-Queues|Message Queues]]
+- [[Microservices-Architecture|Microservices Architecture]]
 - [[Model Selection Economics]]
 - [[Multi-Agent AI Systems]]
 - [[Multi-Agent PKM Automation]]
-- [[Output Styles]]
+- [[Output-Styles|Output Styles]]
 - [[PKM Systems]]
-- [[Principle of Least Privilege]]
+- [[Principle-of-Least-Privilege|Principle of Least Privilege]]
 - [[Production Agent Prompt Library]]
-- [[Prompt Engineering Fundamentals]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 - [[Security Governance]]
 - [[Sequential Pipeline Pattern]]
 - [[Shared State Coordination]]
 - [[Skills]]
-- [[Skills System]]
+- [[Skills-System|Skills System]]
 - [[Software Engineering Workflows]]
 - [[State Management Protocols]]
 - [[Team Collaboration Patterns]]
 - [[Tool Permission Grammar]]
 - [[Tool Restriction Strategies]]
 - [[Working-Memory|Working Memory]]
-- [[YAML Syntax]]
+- [[YAML-Syntax|YAML Syntax]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Claude Opus 4]] | — | — | Native Agent System Overview | 108 |
-| 2 | [[Claude Sonnet 4]] | — | — | Native Agent System Overview | 108 |
+| 1 | [[Claude-Opus-4|Claude Opus 4]] | — | — | Native Agent System Overview | 108 |
+| 2 | [[Claude-Sonnet-4|Claude Sonnet 4]] | — | — | Native Agent System Overview | 108 |
 | 3 | [[Skills]] | — | — | Agent Definition Format | 212 |
-| 4 | [[Microservices Architecture]] | — | — | 🎯 Synthesis & Mastery | 2734 |
-| 5 | [[Bounded Contexts]] | — | — | 🎯 Synthesis & Mastery | 2735 |
-| 6 | [[Message Queues]] | — | — | 🎯 Synthesis & Mastery | 2736 |
+| 4 | [[Microservices-Architecture|Microservices Architecture]] | — | — | 🎯 Synthesis & Mastery | 2734 |
+| 5 | [[Bounded-Contexts|Bounded Contexts]] | — | — | 🎯 Synthesis & Mastery | 2735 |
+| 6 | [[Message-Queues|Message Queues]] | — | — | 🎯 Synthesis & Mastery | 2736 |
 | 7 | [[MapReduce]] | — | — | 🎯 Synthesis & Mastery | 2739 |
-| 8 | [[Event-Driven Architecture]] | — | — | 🎯 Synthesis & Mastery | 2740 |
-| 9 | [[Circuit Breaker Pattern]] | — | — | 🎯 Synthesis & Mastery | 2741 |
-| 10 | [[Conway's Law]] | — | — | 🎯 Synthesis & Mastery | 2744 |
-| 11 | [[Agile Standups]] | — | — | 🎯 Synthesis & Mastery | 2745 |
-| 12 | [[Principle of Least Privilege]] | — | — | 🎯 Synthesis & Mastery | 2746 |
+| 8 | [[Event-Driven-Architecture|Event-Driven Architecture]] | — | — | 🎯 Synthesis & Mastery | 2740 |
+| 9 | [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] | — | — | 🎯 Synthesis & Mastery | 2741 |
+| 10 | [[Conway's-Law|Conway's Law]] | — | — | 🎯 Synthesis & Mastery | 2744 |
+| 11 | [[Agile-Standups|Agile Standups]] | — | — | 🎯 Synthesis & Mastery | 2745 |
+| 12 | [[Principle-of-Least-Privilege|Principle of Least Privilege]] | — | — | 🎯 Synthesis & Mastery | 2746 |
 | 13 | [[Cognitive-Load|Cognitive Load]] | — | — | 🎯 Synthesis & Mastery | 2749 |
-| 14 | [[Expertise Theory]] | — | — | 🎯 Synthesis & Mastery | 2750 |
+| 14 | [[Expertise-Theory|Expertise Theory]] | — | — | 🎯 Synthesis & Mastery | 2750 |
 | 15 | [[Working-Memory|Working Memory]] | — | — | 🎯 Synthesis & Mastery | 2751 |
-| 16 | [[Claude Code Basics]] | — | — | 🔗 PKB Integration | 2806 |
-| 17 | [[CLAUDE.md Files]] | — | — | 🔗 PKB Integration | 2807 |
-| 18 | [[Prompt Engineering Fundamentals]] | — | — | 🔗 PKB Integration | 2808 |
-| 19 | [[YAML Syntax]] | — | — | 🔗 PKB Integration | 2809 |
-| 20 | [[MCP Servers]] | — | — | 🔗 PKB Integration | 2812 |
-| 21 | [[Custom Commands]] | — | — | 🔗 PKB Integration | 2813 |
-| 22 | [[Skills System]] | — | — | 🔗 PKB Integration | 2814 |
-| 23 | [[Output Styles]] | — | — | 🔗 PKB Integration | 2815 |
-| 24 | [[Hooks System]] | — | — | 🔗 PKB Integration | 2816 |
-| 25 | [[Agent File Format Specification]] | — | — | 🔗 PKB Integration | 2819 |
+| 16 | [[Claude-Code-Basics|Claude Code Basics]] | — | — | 🔗 PKB Integration | 2806 |
+| 17 | [[CLAUDE.md-Files|CLAUDE.md Files]] | — | — | 🔗 PKB Integration | 2807 |
+| 18 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | 🔗 PKB Integration | 2808 |
+| 19 | [[YAML-Syntax|YAML Syntax]] | — | — | 🔗 PKB Integration | 2809 |
+| 20 | [[MCP-Servers|MCP Servers]] | — | — | 🔗 PKB Integration | 2812 |
+| 21 | [[Custom-Commands|Custom Commands]] | — | — | 🔗 PKB Integration | 2813 |
+| 22 | [[Skills-System|Skills System]] | — | — | 🔗 PKB Integration | 2814 |
+| 23 | [[Output-Styles|Output Styles]] | — | — | 🔗 PKB Integration | 2815 |
+| 24 | [[Hooks-System|Hooks System]] | — | — | 🔗 PKB Integration | 2816 |
+| 25 | [[Agent-File-Format-Specification|Agent File Format Specification]] | — | — | 🔗 PKB Integration | 2819 |
 | 26 | [[Coordination Pattern Library]] | — | — | 🔗 PKB Integration | 2820 |
 | 27 | [[Tool Permission Grammar]] | — | — | 🔗 PKB Integration | 2821 |
 | 28 | [[State Management Protocols]] | — | — | 🔗 PKB Integration | 2822 |
 | 29 | [[Agent Prompt Engineering]] | — | — | 🔗 PKB Integration | 2823 |
-| 30 | [[Microservices Architecture]] | — | — | 🔗 PKB Integration | 2826 |
+| 30 | [[Microservices-Architecture|Microservices Architecture]] | — | — | 🔗 PKB Integration | 2826 |
 | 31 | [[Distributed Systems Design]] | — | — | 🔗 PKB Integration | 2827 |
 | 32 | [[Multi-Agent AI Systems]] | — | — | 🔗 PKB Integration | 2828 |
 | 33 | [[Software Engineering Workflows]] | — | — | 🔗 PKB Integration | 2829 |
@@ -4973,59 +4973,59 @@ Main Agent (internal reasoning):
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Agent Definition File Format]]
-- [[Agent File Format Specification]]
+- [[Agent-File-Format-Specification|Agent File Format Specification]]
 - [[Agent Observability and Debugging Toolkit]]
 - [[Agent Prompt Engineering]]
 - [[Agentic Workflow Design Patterns]]
-- [[Agile Standups]]
-- [[Bounded Contexts]]
-- [[CLAUDE.md Files]]
-- [[Circuit Breaker Pattern]]
-- [[Claude Code Basics]]
+- [[Agile-Standups|Agile Standups]]
+- [[Bounded-Contexts|Bounded Contexts]]
+- [[CLAUDE.md-Files|CLAUDE.md Files]]
+- [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]]
+- [[Claude-Code-Basics|Claude Code Basics]]
 - [[Claude Code MCP Server Integration]]
-- [[Claude Opus 4]]
-- [[Claude Sonnet 4]]
+- [[Claude-Opus-4|Claude Opus 4]]
+- [[Claude-Sonnet-4|Claude Sonnet 4]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Context Isolation Architecture]]
-- [[Conway's Law]]
+- [[Conway's-Law|Conway's Law]]
 - [[Coordination Pattern Library]]
-- [[Custom Commands]]
+- [[Custom-Commands|Custom Commands]]
 - [[Description Field Optimization]]
 - [[DevOps Practices]]
 - [[Distributed Systems Design]]
 - [[Enterprise Multi-Agent Governance]]
 - [[Enterprise Software Architecture]]
 - [[Error Handling in Multi-Agent Systems]]
-- [[Event-Driven Architecture]]
-- [[Expertise Theory]]
+- [[Event-Driven-Architecture|Event-Driven Architecture]]
+- [[Expertise-Theory|Expertise Theory]]
 - [[Hook-Based Automation]]
-- [[Hooks System]]
+- [[Hooks-System|Hooks System]]
 - [[Knowledge Work Automation]]
-- [[MCP Servers]]
+- [[MCP-Servers|MCP Servers]]
 - [[Main Agent as Coordinator]]
 - [[MapReduce]]
-- [[Message Queues]]
-- [[Microservices Architecture]]
+- [[Message-Queues|Message Queues]]
+- [[Microservices-Architecture|Microservices Architecture]]
 - [[Model Selection Economics]]
 - [[Multi-Agent AI Systems]]
 - [[Multi-Agent PKM Automation]]
-- [[Output Styles]]
+- [[Output-Styles|Output Styles]]
 - [[PKM Systems]]
-- [[Principle of Least Privilege]]
+- [[Principle-of-Least-Privilege|Principle of Least Privilege]]
 - [[Production Agent Prompt Library]]
-- [[Prompt Engineering Fundamentals]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
 - [[Security Governance]]
 - [[Sequential Pipeline Pattern]]
 - [[Shared State Coordination]]
 - [[Skills]]
-- [[Skills System]]
+- [[Skills-System|Skills System]]
 - [[Software Engineering Workflows]]
 - [[State Management Protocols]]
 - [[Team Collaboration Patterns]]
 - [[Tool Permission Grammar]]
 - [[Tool Restriction Strategies]]
 - [[Working-Memory|Working Memory]]
-- [[YAML Syntax]]
+- [[YAML-Syntax|YAML Syntax]]
 
 ### Frontmatter Relationships
 
@@ -5033,8 +5033,8 @@ Main Agent (internal reasoning):
 
 - [[Claude Code fundamentals]]
 - [[Markdown basics]]
-- [[YAML syntax]]
-- [[Prompt engineering]]
+- [[YAML-Syntax|YAML syntax]]
+- [[Prompt-Engineering|Prompt engineering]]
 - [[Software architecture patterns]]
 - [[Distributed systems concepts]]
 

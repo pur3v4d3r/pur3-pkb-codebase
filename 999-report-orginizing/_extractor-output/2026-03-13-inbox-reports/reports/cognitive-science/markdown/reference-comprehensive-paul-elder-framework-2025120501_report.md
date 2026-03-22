@@ -374,10 +374,10 @@ extraction_summary:
 > Wiki-Link Opportunities (anticipated):
 > - [[Critical-Thinking|Critical Thinking]]
 > - [[Metacognition]]
-> - [[Cognitive Biases]]
-> - [[Socratic Questioning]]
+> - [[Cognitive-Biases|Cognitive Biases]]
+> - [[Socratic-Questioning|Socratic Questioning]]
 > - [[Intellectual-Humility|Intellectual Humility]]
-> - [[Bloom's Taxonomy]]
+> - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 > - [[Argumentation-Theory|Argumentation Theory]]
 > - [[Logic]]
 > - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
@@ -1080,11 +1080,11 @@ extraction_summary:
 - [[Affirming the consequent]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Assumptions]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Breadth]]
 - [[Circular reasoning]]
 - [[Clarity]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Comparative Analysis: Critical Thinking Frameworks]]
 - [[Concepts]]
 - [[Confidence in Reason]]
@@ -1121,15 +1121,15 @@ extraction_summary:
 - [[SEE-I method]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Significance]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Stages of Critical Thinking Development]]
 - [[Universal Intellectual Standards]]
 - [[accurate]]
 - [[anecdotal evidence]]
-- [[assumptions]]
+- [[Assumptions]]
 - [[clarity]]
-- [[cognitive biases]]
-- [[concepts]]
+- [[Cognitive-Biases|cognitive biases]]
+- [[Concepts]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[consistency]]
 - [[Distributed-Cognition|distributed cognition]]
@@ -1140,27 +1140,27 @@ extraction_summary:
 - [[frame of reference]]
 - [[freedom]]
 - [[human cognition]]
-- [[implications]]
+- [[Implications]]
 - [[inferences]]
-- [[information]]
+- [[Information]]
 - [[Intellectual-Empathy|intellectual empathy]]
 - [[Intellectual-Humility|intellectual humility]]
 - [[Intellectual-Integrity|intellectual integrity]]
 - [[Intellectual-Perseverance|intellectual perseverance]]
 - [[intellectual responsibility]]
-- [[intellectual traits]]
+- [[Intellectual-Traits|intellectual traits]]
 - [[justice]]
-- [[logic]]
+- [[Logic]]
 - [[logical]]
 - [[metacognitive]]
 - [[paradigm]]
 - [[Point-of-View|point of view]]
 - [[purpose]]
 - [[Question-at-Issue|question at issue]]
-- [[reasoning]]
+- [[Reasoning]]
 - [[relevant]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
-- [[virtue ethics]]
+- [[Virtue-Ethics|virtue ethics]]
 - [[wiki-links]]
 - [[Working-Memory|working memory]]
 
@@ -1171,10 +1171,10 @@ extraction_summary:
 | 1 | [[Paul-Elder Critical Thinking Model]] | — | — | Document Start | 44 |
 | 2 | [[Critical-Thinking|Critical Thinking]] | — | — | Paul-Elder Critical Thinking Model | 195 |
 | 3 | [[Metacognition]] | — | — | Paul-Elder Critical Thinking Model | 196 |
-| 4 | [[Cognitive Biases]] | — | — | Paul-Elder Critical Thinking Model | 197 |
-| 5 | [[Socratic Questioning]] | — | — | Paul-Elder Critical Thinking Model | 198 |
+| 4 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Paul-Elder Critical Thinking Model | 197 |
+| 5 | [[Socratic-Questioning|Socratic Questioning]] | — | — | Paul-Elder Critical Thinking Model | 198 |
 | 6 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Paul-Elder Critical Thinking Model | 199 |
-| 7 | [[Bloom's Taxonomy]] | — | — | Paul-Elder Critical Thinking Model | 200 |
+| 7 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Paul-Elder Critical Thinking Model | 200 |
 | 8 | [[Argumentation-Theory|Argumentation Theory]] | — | — | Paul-Elder Critical Thinking Model | 201 |
 | 9 | [[Logic]] | — | — | Paul-Elder Critical Thinking Model | 202 |
 | 10 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Paul-Elder Critical Thinking Model | 203 |
@@ -1205,9 +1205,9 @@ extraction_summary:
 | 35 | [[Fair-mindedness]] | — | — | Paul-Elder Critical Thinking Model | 228 |
 | 36 | [[wiki-links]] | — | — | Paul-Elder Critical Thinking Model | 264 |
 | 37 | [[human cognition]] | — | — | Philosophical Underpinnings | 329 |
-| 38 | [[reasoning]] | — | — | Philosophical Underpinnings | 329 |
+| 38 | [[Reasoning]] | — | — | Philosophical Underpinnings | 329 |
 | 39 | [[emotions]] | — | — | Philosophical Underpinnings | 335 |
-| 40 | [[cognitive biases]] | — | — | Philosophical Underpinnings | 335 |
+| 40 | [[Cognitive-Biases|cognitive biases]] | — | — | Philosophical Underpinnings | 335 |
 | 41 | [[Intellectual-Empathy|intellectual empathy]] | — | — | Philosophical Underpinnings | 340 |
 | 42 | [[Intellectual-Humility|intellectual humility]] | — | — | Philosophical Underpinnings | 340 |
 | 43 | [[Intellectual-Perseverance|intellectual perseverance]] | — | — | Philosophical Underpinnings | 340 |
@@ -1246,20 +1246,20 @@ extraction_summary:
 | 76 | [[Elements of Thought]] | — | — | Phase 1: Analysis (Elements) | 1145 |
 | 77 | [[purpose]] | — | — | Phase 1: Analysis (Elements) | 1146 |
 | 78 | [[Question-at-Issue|question at issue]] | — | — | Phase 1: Analysis (Elements) | 1146 |
-| 79 | [[assumptions]] | — | — | Phase 1: Analysis (Elements) | 1147 |
+| 79 | [[Assumptions]] | — | — | Phase 1: Analysis (Elements) | 1147 |
 | 80 | [[Point-of-View|point of view]] | — | — | Phase 1: Analysis (Elements) | 1147 |
-| 81 | [[information]] | — | — | Phase 1: Analysis (Elements) | 1148 |
-| 82 | [[concepts]] | — | — | Phase 1: Analysis (Elements) | 1148 |
+| 81 | [[Information]] | — | — | Phase 1: Analysis (Elements) | 1148 |
+| 82 | [[Concepts]] | — | — | Phase 1: Analysis (Elements) | 1148 |
 | 83 | [[inferences]] | — | — | Phase 1: Analysis (Elements) | 1149 |
-| 84 | [[implications]] | — | — | Phase 1: Analysis (Elements) | 1149 |
+| 84 | [[Implications]] | — | — | Phase 1: Analysis (Elements) | 1149 |
 | 85 | [[Universal Intellectual Standards]] | — | — | Phase 2: Evaluation (Standards) | 1152 |
 | 86 | [[Elements of Thought]] | — | — | The Question-Based Analysis Method | 1203 |
 | 87 | [[Intellectual-Standards|Intellectual Standards]] | — | — | The Question-Based Analysis Method | 1203 |
 | 88 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | Self-Directed Learning Protocol | 1346 |
-| 89 | [[intellectual traits]] | — | — | Daily Intellectual Routine | 1412 |
+| 89 | [[Intellectual-Traits|intellectual traits]] | — | — | Daily Intellectual Routine | 1412 |
 | 90 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Comprehensive Coverage | 1567 |
-| 91 | [[logic]] | — | — | Comprehensive Coverage | 1567 |
-| 92 | [[virtue ethics]] | — | — | Comprehensive Coverage | 1567 |
+| 91 | [[Logic]] | — | — | Comprehensive Coverage | 1567 |
+| 92 | [[Virtue-Ethics|virtue ethics]] | — | — | Comprehensive Coverage | 1567 |
 | 93 | [[metacognitive]] | — | — | Integration with Personal Knowledge M... | 1756 |
 | 94 | [[Intellectual-Humility|intellectual humility]] | — | — | The Lifelong Journey | 1800 |
 | 95 | [[Stages of Critical Thinking Development]] | — | — | 🔗 Related Topics for PKB Expansion | 1857 |
@@ -1527,11 +1527,11 @@ graph TD
 - [[Affirming the consequent]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Assumptions]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Breadth]]
 - [[Circular reasoning]]
 - [[Clarity]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Comparative Analysis: Critical Thinking Frameworks]]
 - [[Concepts]]
 - [[Confidence in Reason]]
@@ -1568,15 +1568,15 @@ graph TD
 - [[SEE-I method]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Significance]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Stages of Critical Thinking Development]]
 - [[Universal Intellectual Standards]]
 - [[accurate]]
 - [[anecdotal evidence]]
-- [[assumptions]]
+- [[Assumptions]]
 - [[clarity]]
-- [[cognitive biases]]
-- [[concepts]]
+- [[Cognitive-Biases|cognitive biases]]
+- [[Concepts]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[consistency]]
 - [[Distributed-Cognition|distributed cognition]]
@@ -1587,27 +1587,27 @@ graph TD
 - [[frame of reference]]
 - [[freedom]]
 - [[human cognition]]
-- [[implications]]
+- [[Implications]]
 - [[inferences]]
-- [[information]]
+- [[Information]]
 - [[Intellectual-Empathy|intellectual empathy]]
 - [[Intellectual-Humility|intellectual humility]]
 - [[Intellectual-Integrity|intellectual integrity]]
 - [[Intellectual-Perseverance|intellectual perseverance]]
 - [[intellectual responsibility]]
-- [[intellectual traits]]
+- [[Intellectual-Traits|intellectual traits]]
 - [[justice]]
-- [[logic]]
+- [[Logic]]
 - [[logical]]
 - [[metacognitive]]
 - [[paradigm]]
 - [[Point-of-View|point of view]]
 - [[purpose]]
 - [[Question-at-Issue|question at issue]]
-- [[reasoning]]
+- [[Reasoning]]
 - [[relevant]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
-- [[virtue ethics]]
+- [[Virtue-Ethics|virtue ethics]]
 - [[wiki-links]]
 - [[Working-Memory|working memory]]
 

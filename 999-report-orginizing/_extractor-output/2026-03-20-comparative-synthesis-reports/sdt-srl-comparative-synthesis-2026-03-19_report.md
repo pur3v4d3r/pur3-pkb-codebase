@@ -158,7 +158,7 @@ extraction_summary:
 > [!framework-profile] Self-Determination Theory — Edward Deci & Richard Ryan (1985–2017)
 > **Core claim**: Human beings are active, growth-oriented organisms who naturally tend toward psychological integration, competence development, and social participation. This natural tendency is supported or undermined by the degree to which the social environment satisfies three [[Basic-Psychological-Needs]]: [[Autonomy-Need|autonomy]] (the experience of volitional causation of one's actions), [[Competence-Need|competence]] (the experience of effective engagement with challenging activities), and [[Relatedness-Need|relatedness]] (the experience of meaningful connection with others). When these needs are satisfied, people exhibit autonomous motivation, psychological well-being, deep engagement, and integrative development. When they are frustrated or thwarted, people exhibit controlled motivation, psychological ill-being, and developmental rigidity.
 > 
-> **How it works**: SDT is not a single theory but a family of six related mini-theories. [[Cognitive-Evaluation-Theory]] (CET) explains how external events (rewards, deadlines, feedback) affect [[Intrinsic Motivation]] by influencing perceived autonomy and competence. [[Organismic-Integration-Theory]] (OIT) explains how initially external regulations become progressively internalised along the [[Internalization-Continuum|internalization continuum]] from [[External-Regulation|external regulation]] → [[Introjected-Regulation|introjected regulation]] → [[Identified-Regulation|identified regulation]] → [[Integrated-Regulation|integrated regulation]] → intrinsic motivation. [[Causality-Orientations-Theory|Causality Orientations Theory]] describes stable individual differences in tendency toward autonomy-oriented, control-oriented, or [[Amotivation|amotivated]] processing of environmental cues. Basic Psychological Needs Theory (BPNT) specifies the need satisfaction mechanisms in detail. Relatedness Motivation Theory (RMT) addresses quality of relationships, and Goal Contents Theory (GCT) addresses the distinction between intrinsic and extrinsic aspiration content.
+> **How it works**: SDT is not a single theory but a family of six related mini-theories. [[Cognitive-Evaluation-Theory]] (CET) explains how external events (rewards, deadlines, feedback) affect [[Intrinsic-Motivation|Intrinsic Motivation]] by influencing perceived autonomy and competence. [[Organismic-Integration-Theory]] (OIT) explains how initially external regulations become progressively internalised along the [[Internalization-Continuum|internalization continuum]] from [[External-Regulation|external regulation]] → [[Introjected-Regulation|introjected regulation]] → [[Identified-Regulation|identified regulation]] → [[Integrated-Regulation|integrated regulation]] → intrinsic motivation. [[Causality-Orientations-Theory|Causality Orientations Theory]] describes stable individual differences in tendency toward autonomy-oriented, control-oriented, or [[Amotivation|amotivated]] processing of environmental cues. Basic Psychological Needs Theory (BPNT) specifies the need satisfaction mechanisms in detail. Relatedness Motivation Theory (RMT) addresses quality of relationships, and Goal Contents Theory (GCT) addresses the distinction between intrinsic and extrinsic aspiration content.
 > 
 > **Distinctive contribution**: What SDT uniquely provides, and what no SRL framework replicates, is a *qualitative* theory of motivation — one that distinguishes not just high versus low motivation but the experiential and developmental quality of different motivational forms. A student can be highly motivated (high effort, persistence) under controlled regulation (anxiety about failure, desire for approval) or under autonomous regulation (genuine interest, personal meaning). SDT's central empirical finding is that these motivational qualities, despite sometimes producing similar short-term effort levels, have dramatically different long-term consequences for learning depth, creativity, well-being, and dispositional growth.
 > 
@@ -373,7 +373,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory]]** — The foundational SDT note is enriched by this comparison: comparison reveals SDT's relative incompleteness as a theory of regulatory architecture, suggesting that SDT-linked notes should cross-reference Zimmerman's model for the processual account of how autonomous motivation is enacted. The forethought phase particularly needs SDT's account of goal orientation and need satisfaction.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — The foundational SDT note is enriched by this comparison: comparison reveals SDT's relative incompleteness as a theory of regulatory architecture, suggesting that SDT-linked notes should cross-reference Zimmerman's model for the processual account of how autonomous motivation is enacted. The forethought phase particularly needs SDT's account of goal orientation and need satisfaction.
 > 
 > - **[[Self-Regulated Learning — SRL|Self-Regulated Learning]]** — The hub SRL note should incorporate the insight from this comparison that SRL frameworks collectively underspecify motivational quality, and that the [[Undermining-Effect]] and [[Internalization-Continuum|internalization continuum]] provide the missing motivational architecture.
 > 
@@ -385,7 +385,7 @@ extraction_summary:
 > 
 > - **[[Internalization-Continuum]]** — The developmental comparison with Zimmerman's regulatory development trajectory should be linked here: the isomorphism between motivational internalization and regulatory development is one of this report's most practically important integrative insights.
 > 
-> - **[[Metacognitive Monitoring]]** — Link to Winne & Hadwin's processing model and to SDT's analysis of how need frustration (particularly competence frustration) degrades monitoring quality by inducing defensive self-protective processing rather than accurate self-assessment.
+> - **[[Metacognitive-Monitoring|Metacognitive Monitoring]]** — Link to Winne & Hadwin's processing model and to SDT's analysis of how need frustration (particularly competence frustration) degrades monitoring quality by inducing defensive self-protective processing rather than accurate self-assessment.
 > 
 > - **[[Achievement-Goal-Theory]]** — The convergence between SDT's goal content analysis and achievement goal theory's mastery-performance distinction should be explicitly noted here, including the multi-framework support for mastery orientations.
 > 
@@ -572,10 +572,10 @@ extraction_summary:
 - [[Integrated-Regulation]]
 - [[Internalization]]
 - [[Internalization-Continuum]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Introjected-Regulation]]
 - [[MSLQ]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Calibration]]
 - [[Motivational-Interviewing]]
 - [[Organismic-Integration-Theory]]
@@ -585,10 +585,10 @@ extraction_summary:
 - [[Relatedness-Need]]
 - [[Richard-Ryan]]
 - [[Self-Concordance-Model]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy]]
 - [[Self-Reflection-Phase]]
-- [[Self-Regulated Learning — SRL]]
+- [[Self-Regulated-Learning|Self-Regulated Learning — SRL]]
 - [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
 - [[The-Motivational-Compounding-Model]]
 - [[Undermining-Effect]]
@@ -598,18 +598,18 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Comparative Focus | 139 |
+| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Comparative Focus | 139 |
 | 2 | [[Edward-Deci]] | Edward Deci | — | Phase I: Orientation & Comparative Focus | 139 |
 | 3 | [[Richard-Ryan]] | Richard Ryan | — | Phase I: Orientation & Comparative Focus | 139 |
 | 4 | [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] | Self-Regulated-Learning | — | Phase I: Orientation & Comparative Focus | 139 |
 | 5 | [[Barry-Zimmerman]] | Barry Zimmerman | — | Phase I: Orientation & Comparative Focus | 139 |
 | 6 | [[Paul-Pintrich]] | Paul Pintrich | — | Phase I: Orientation & Comparative Focus | 139 |
 | 7 | [[Forethought-Phase]] | forethought | — | Phase I: Orientation & Comparative Focus | 141 |
-| 8 | [[Metacognitive Monitoring]] | metacognitive monitoring | — | Phase I: Orientation & Comparative Focus | 141 |
+| 8 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | Phase I: Orientation & Comparative Focus | 141 |
 | 9 | [[Self-Reflection-Phase]] | self-reflection | — | Phase I: Orientation & Comparative Focus | 141 |
 | 10 | [[Autonomous-Motivation]] | autonomous motivational energy | — | Phase I: Orientation & Comparative Focus | 141 |
-| 11 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Comparative Focus | 143 |
-| 12 | [[Intrinsic Motivation]] | intrinsic motivation | — | Phase I: Orientation & Comparative Focus | 143 |
+| 11 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Comparative Focus | 143 |
+| 12 | [[Intrinsic-Motivation|Intrinsic Motivation]] | intrinsic motivation | — | Phase I: Orientation & Comparative Focus | 143 |
 | 13 | [[Internalization]] | — | — | Phase I: Orientation & Comparative Focus | 143 |
 | 14 | [[Autonomy]] | autonomy | — | Phase I: Orientation & Comparative Focus | 143 |
 | 15 | [[Zimmerman-SRL-Model]] | Zimmerman's Cyclical SRL Model | — | Phase I: Orientation & Comparative Focus | 145 |
@@ -619,7 +619,7 @@ extraction_summary:
 | 19 | [[Competence-Need]] | competence | — | Self-Determination Theory | 161 |
 | 20 | [[Relatedness-Need]] | relatedness | — | Self-Determination Theory | 161 |
 | 21 | [[Cognitive-Evaluation-Theory]] | — | — | Self-Determination Theory | 163 |
-| 22 | [[Intrinsic Motivation]] | — | — | Self-Determination Theory | 163 |
+| 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Self-Determination Theory | 163 |
 | 23 | [[Organismic-Integration-Theory]] | — | — | Self-Determination Theory | 163 |
 | 24 | [[Internalization-Continuum]] | internalization continuum | — | Self-Determination Theory | 163 |
 | 25 | [[External-Regulation]] | external regulation | — | Self-Determination Theory | 163 |
@@ -634,7 +634,7 @@ extraction_summary:
 | 34 | [[Introjected-Regulation]] | introjected | — | Self-Determination Theory | 173 |
 | 35 | [[Identified-Regulation]] | identified | — | Self-Determination Theory | 173 |
 | 36 | [[Integrated-Regulation]] | integrated | — | Self-Determination Theory | 173 |
-| 37 | [[Self-Regulated Learning — SRL]] | Self-regulated learning | — | Zimmerman's Cyclical SRL Model | 180 |
+| 37 | [[Self-Regulated-Learning|Self-Regulated Learning — SRL]] | Self-regulated learning | — | Zimmerman's Cyclical SRL Model | 180 |
 | 38 | [[Forethought-Phase]] | forethought | — | Zimmerman's Cyclical SRL Model | 180 |
 | 39 | [[Performance-Phase]] | performance | — | Zimmerman's Cyclical SRL Model | 180 |
 | 40 | [[Self-Reflection-Phase]] | self-reflection | — | Zimmerman's Cyclical SRL Model | 180 |
@@ -655,18 +655,18 @@ extraction_summary:
 | 55 | [[Achievement-Goal-Theory]] | — | — | Convergence Highlights | 371 |
 | 56 | [[Self-Efficacy]] | — | — | Convergence Highlights | 373 |
 | 57 | [[Deliberate-Practice-and-the-Competence-Need]] | deliberate practice is itself intrinsically rewarding | — | Integrative Yield | 456 |
-| 58 | [[Self-Determination Theory]] | — | — | FAR Transfer — Structural Analogues | 481 |
+| 58 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | FAR Transfer — Structural Analogues | 481 |
 | 59 | [[Self-Concordance-Model]] | self-concordance | — | FAR Transfer — Structural Analogues | 481 |
 | 60 | [[Motivational-Interviewing]] | motivational interviewing | — | FAR Transfer — Structural Analogues | 484 |
-| 61 | [[Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 512 |
-| 62 | [[Self-Regulated Learning — SRL]] | Self-Regulated Learning | — | Phase VII: PKB Connections & Cross-Re... | 514 |
+| 61 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 512 |
+| 62 | [[Self-Regulated-Learning|Self-Regulated Learning — SRL]] | Self-Regulated Learning | — | Phase VII: PKB Connections & Cross-Re... | 514 |
 | 63 | [[Undermining-Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 514 |
 | 64 | [[Internalization-Continuum]] | internalization continuum | — | Phase VII: PKB Connections & Cross-Re... | 514 |
 | 65 | [[Barry-Zimmerman]] | Barry Zimmerman | — | Phase VII: PKB Connections & Cross-Re... | 516 |
 | 66 | [[Zimmerman-SRL-Model]] | Zimmerman's SRL Model | — | Phase VII: PKB Connections & Cross-Re... | 518 |
 | 67 | [[Autonomous-Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 520 |
 | 68 | [[Internalization-Continuum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 522 |
-| 69 | [[Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 524 |
+| 69 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 524 |
 | 70 | [[Achievement-Goal-Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 526 |
 | 71 | [[Self-Efficacy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 528 |
 | 72 | [[The-Fourfold-Motivational-Architecture-for-PKB-Design]] | Fourfold Motivational Architecture for PKB Design | — | Phase VII: PKB Connections & Cross-Re... | 530 |
@@ -726,10 +726,10 @@ extraction_summary:
 - [[Integrated-Regulation]]
 - [[Internalization]]
 - [[Internalization-Continuum]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Introjected-Regulation]]
 - [[MSLQ]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Calibration]]
 - [[Motivational-Interviewing]]
 - [[Organismic-Integration-Theory]]
@@ -739,10 +739,10 @@ extraction_summary:
 - [[Relatedness-Need]]
 - [[Richard-Ryan]]
 - [[Self-Concordance-Model]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy]]
 - [[Self-Reflection-Phase]]
-- [[Self-Regulated Learning — SRL]]
+- [[Self-Regulated-Learning|Self-Regulated Learning — SRL]]
 - [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
 - [[The-Motivational-Compounding-Model]]
 - [[Undermining-Effect]]
@@ -752,8 +752,8 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning — SRL]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning — SRL]]
 - [[Metacognition]]
 - [[Basic-Psychological-Needs]]
 

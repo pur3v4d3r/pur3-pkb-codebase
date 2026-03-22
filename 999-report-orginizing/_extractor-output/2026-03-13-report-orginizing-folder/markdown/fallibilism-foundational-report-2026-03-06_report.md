@@ -191,7 +191,7 @@ extraction_summary:
 #### 10. [COUNTER-ARGUMENT] Challenges to Falsificationism *(Line 346)*
 
 > [!counter-argument] Challenges to Falsificationism
-> Popper's program faces significant objections. The [[Duhem-Quine thesis]] (developed independently by Pierre Duhem and W.V.O. Quine) points out that scientific theories are not tested in isolation: when an observation conflicts with a prediction, it is unclear whether to revise the core theory, an auxiliary hypothesis, or even a background assumption about the measuring instruments. This means that falsification is never as clean as Popper suggests — there is always logical room to protect a theory by adjusting its surrounding assumptions. Historians and sociologists of science (most notably [[Thomas Kuhn]]) also noted that scientists do not in practice abandon theories upon encountering anomalies; they persist within paradigms until the weight of anomalies becomes overwhelming. These objections do not refute fallibilism, but they complicate the picture of exactly how scientific self-correction proceeds.
+> Popper's program faces significant objections. The [[Duhem-Quine-thesis|Duhem-Quine thesis]] (developed independently by Pierre Duhem and W.V.O. Quine) points out that scientific theories are not tested in isolation: when an observation conflicts with a prediction, it is unclear whether to revise the core theory, an auxiliary hypothesis, or even a background assumption about the measuring instruments. This means that falsification is never as clean as Popper suggests — there is always logical room to protect a theory by adjusting its surrounding assumptions. Historians and sociologists of science (most notably [[Thomas-Kuhn|Thomas Kuhn]]) also noted that scientists do not in practice abandon theories upon encountering anomalies; they persist within paradigms until the weight of anomalies becomes overwhelming. These objections do not refute fallibilism, but they complicate the picture of exactly how scientific self-correction proceeds.
 
 #### 11. [INSIGHT] Holism's Implication for Fallibilism *(Line 355)*
 
@@ -266,13 +266,13 @@ extraction_summary:
 > 
 > This report on [[Fallibilism]] connects to existing knowledge across several nodes in the PKB:
 > 
-> - **[[Metacognition and Lifelong Learning]]** — Fallibilism provides the philosophical grounding for the metacognitive disposition of epistemic self-monitoring. The metacognitive learner who reflects on the reliability of their own cognitive processes and revises their strategies in light of evidence is operationalising fallibilism at the level of individual cognitive practice. Conversely, understanding fallibilism deepens the theoretical justification for metacognitive practices: monitoring one's own thinking matters because one's own thinking is fallible.
+> - **[[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]** — Fallibilism provides the philosophical grounding for the metacognitive disposition of epistemic self-monitoring. The metacognitive learner who reflects on the reliability of their own cognitive processes and revises their strategies in light of evidence is operationalising fallibilism at the level of individual cognitive practice. Conversely, understanding fallibilism deepens the theoretical justification for metacognitive practices: monitoring one's own thinking matters because one's own thinking is fallible.
 > 
-> - **[[Metacognition and Critical Thinking]]** — The [[Paul-Elder Framework]]'s emphasis on intellectual humility, fair-mindedness, and intellectual courage maps directly onto the dispositional dimension of fallibilism. Critical thinking, on a fallibilist account, is not merely a set of logical skills but a character-level commitment to the conditions under which one's reasoning can be genuinely challenged. Schön's reflection-in/on-action is a form of practical fallibilism — the professional who reflects on practice is treating their current approach as improvable rather than fixed.
+> - **[[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]** — The [[Paul-Elder-Framework|Paul-Elder Framework]]'s emphasis on intellectual humility, fair-mindedness, and intellectual courage maps directly onto the dispositional dimension of fallibilism. Critical thinking, on a fallibilist account, is not merely a set of logical skills but a character-level commitment to the conditions under which one's reasoning can be genuinely challenged. Schön's reflection-in/on-action is a form of practical fallibilism — the professional who reflects on practice is treating their current approach as improvable rather than fixed.
 > 
-> - **[[Deliberate Practice]]** (anticipated node) — Ericsson's deliberate practice framework requires that the practitioner receive genuine feedback and revise their technique accordingly. This is only productive if the practitioner holds their current technique fallibilistically — as improvable rather than optimal. The psychological conditions for effective deliberate practice are precisely the dispositional conditions fallibilism identifies: openness to correction, tolerance of error as information, and the absence of ego-investment in any particular performance.
+> - **[[Deliberate-Practice|Deliberate Practice]]** (anticipated node) — Ericsson's deliberate practice framework requires that the practitioner receive genuine feedback and revise their technique accordingly. This is only productive if the practitioner holds their current technique fallibilistically — as improvable rather than optimal. The psychological conditions for effective deliberate practice are precisely the dispositional conditions fallibilism identifies: openness to correction, tolerance of error as information, and the absence of ego-investment in any particular performance.
 > 
-> - **[[Epistemic-Calibration|Epistemic Calibration]]** (anticipated node) — Calibration is the quantitative, operational expression of fallibilism: how well does one's confidence match actual accuracy? The fallibilist thesis implies that calibration is a central epistemic goal, and research in [[Bayesian Epistemology]] and cognitive psychology provides the formal and empirical frameworks for understanding and improving it.
+> - **[[Epistemic-Calibration|Epistemic Calibration]]** (anticipated node) — Calibration is the quantitative, operational expression of fallibilism: how well does one's confidence match actual accuracy? The fallibilist thesis implies that calibration is a central epistemic goal, and research in [[Bayesian-Epistemology|Bayesian Epistemology]] and cognitive psychology provides the formal and empirical frameworks for understanding and improving it.
 > 
 > The pattern across these connections reveals a coherent intellectual thread: fallibilism is the philosophical foundation from which a cluster of related topics — metacognition, critical thinking, deliberate practice, calibration — all draw their justification. To understand fallibilism deeply is to understand why these other practices matter and how they cohere.
 
@@ -428,13 +428,13 @@ extraction_summary:
 ### Unique Targets
 
 - [[Barry Marshall]]
-- [[Bayesian Epistemology]]
-- [[Carol Dweck]]
-- [[Charles Sanders Peirce]]
+- [[Bayesian-Epistemology|Bayesian Epistemology]]
+- [[Carol-Dweck|Carol Dweck]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[David Lewis]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Descartes]]
-- [[Duhem-Quine thesis]]
+- [[Duhem-Quine-thesis|Duhem-Quine thesis]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic Calibration and Bayesian Updating]]
 - [[Epistemic Injustice and Structural Fallibilism]]
@@ -442,44 +442,44 @@ extraction_summary:
 - [[Ernest Sosa]]
 - [[Fallibilism]]
 - [[Intellectual Virtues and Epistemic Character]]
-- [[Karl Popper]]
-- [[Linda Zagzebski]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Karl-Popper|Karl Popper]]
+- [[Linda-Zagzebski|Linda Zagzebski]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Moral Fallibilism and Ethical Uncertainty]]
 - [[Nicholas Rescher]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Popper's Falsificationism — Deep Dive]]
-- [[Pyrrhonian sceptics]]
+- [[Pyrrhonian-sceptics|Pyrrhonian sceptics]]
 - [[Robin Warren]]
-- [[Scepticism]]
+- [[scepticism]]
 - [[Social Epistemology and Collective Fallibilism]]
 - [[Socrates]]
 - [[Socratic-Method|Socratic method]]
-- [[Stewart Cohen]]
+- [[Stewart-Cohen|Stewart Cohen]]
 - [[Teaching Fallibilism — Pedagogical Frameworks]]
-- [[Thomas Kuhn]]
+- [[Thomas-Kuhn|Thomas Kuhn]]
 - [[Virtue-Epistemology|Virtue epistemology]]
-- [[W.V.O. Quine]]
+- [[W.V.O.-Quine|W.V.O. Quine]]
 - [[adversarial epistemology]]
 - [[Cognitive-Psychology|cognitive psychology]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Critical-Thinking|critical thinking]]
 - [[Defeat-Defeater|defeater]]
-- [[demarcation problem]]
-- [[epistemic contextualism]]
+- [[demarcation-problem|demarcation problem]]
+- [[epistemic-contextualism|epistemic contextualism]]
 - [[Epistemic-Holism|epistemic holism]]
 - [[Epistemic-Humility|epistemic humility]]
 - [[epistemic justification]]
-- [[epistemic relativism]]
+- [[epistemic-relativism|epistemic relativism]]
 - [[Epistemic-Autonomy-—-Epistemology|epistemology]]
-- [[fallibilism]]
-- [[falsificationism]]
+- [[Fallibilism]]
+- [[Falsificationism]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[intellectual openness]]
-- [[pedagogy]]
-- [[philosophy of science]]
-- [[pragmatism]]
+- [[Pedagogy]]
+- [[philosophy-of-science|philosophy of science]]
+- [[Pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -487,38 +487,38 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[fallibilism]] | — | — | Phase I: Orientation & Context Setting | 269 |
+| 1 | [[Fallibilism]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 2 | [[Epistemic-Autonomy-—-Epistemology|epistemology]] | — | — | Phase I: Orientation & Context Setting | 271 |
-| 3 | [[philosophy of science]] | — | — | Phase I: Orientation & Context Setting | 271 |
+| 3 | [[philosophy-of-science|philosophy of science]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 4 | [[Critical-Thinking|critical thinking]] | — | — | Phase I: Orientation & Context Setting | 271 |
-| 5 | [[pedagogy]] | — | — | Phase I: Orientation & Context Setting | 271 |
+| 5 | [[Pedagogy]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 6 | [[Descartes]] | — | — | The Core Claim and Its Precision | 290 |
 | 7 | [[scepticism]] | — | — | The Critical Distinctions | 302 |
-| 8 | [[Scepticism]] | — | — | The Critical Distinctions | 302 |
-| 9 | [[epistemic relativism]] | — | — | The Critical Distinctions | 304 |
+| 8 | [[scepticism]] | — | — | The Critical Distinctions | 302 |
+| 9 | [[epistemic-relativism|epistemic relativism]] | — | — | The Critical Distinctions | 304 |
 | 10 | [[Epistemic-Humility|Epistemic humility]] | — | — | The Critical Distinctions | 307 |
 | 11 | [[Cognitive-Psychology|cognitive psychology]] | — | — | The Critical Distinctions | 310 |
 | 12 | [[Socrates]] | — | — | Historical Development | 314 |
 | 13 | [[Socratic-Method|Socratic method]] | — | — | Historical Development | 314 |
-| 14 | [[Pyrrhonian sceptics]] | — | — | Historical Development | 316 |
-| 15 | [[Charles Sanders Peirce]] | — | — | Historical Development | 318 |
-| 16 | [[pragmatism]] | — | — | Historical Development | 318 |
-| 17 | [[Karl Popper]] | — | — | Historical Development | 320 |
-| 18 | [[falsificationism]] | — | — | Historical Development | 320 |
-| 19 | [[W.V.O. Quine]] | — | — | Historical Development | 320 |
-| 20 | [[Charles Sanders Peirce]] | — | — | Peircean Pragmatist Fallibilism | 333 |
-| 21 | [[Karl Popper]] | — | — | Popperian Falsificationism | 342 |
-| 22 | [[demarcation problem]] | — | — | Popperian Falsificationism | 342 |
-| 23 | [[Duhem-Quine thesis]] | — | — | Popperian Falsificationism | 347 |
-| 24 | [[Thomas Kuhn]] | — | — | Popperian Falsificationism | 347 |
-| 25 | [[W.V.O. Quine]] | — | — | Quine's Web of Belief and Epistemic H... | 351 |
+| 14 | [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] | — | — | Historical Development | 316 |
+| 15 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Historical Development | 318 |
+| 16 | [[Pragmatism]] | — | — | Historical Development | 318 |
+| 17 | [[Karl-Popper|Karl Popper]] | — | — | Historical Development | 320 |
+| 18 | [[Falsificationism]] | — | — | Historical Development | 320 |
+| 19 | [[W.V.O.-Quine|W.V.O. Quine]] | — | — | Historical Development | 320 |
+| 20 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Peircean Pragmatist Fallibilism | 333 |
+| 21 | [[Karl-Popper|Karl Popper]] | — | — | Popperian Falsificationism | 342 |
+| 22 | [[demarcation-problem|demarcation problem]] | — | — | Popperian Falsificationism | 342 |
+| 23 | [[Duhem-Quine-thesis|Duhem-Quine thesis]] | — | — | Popperian Falsificationism | 347 |
+| 24 | [[Thomas-Kuhn|Thomas Kuhn]] | — | — | Popperian Falsificationism | 347 |
+| 25 | [[W.V.O.-Quine|W.V.O. Quine]] | — | — | Quine's Web of Belief and Epistemic H... | 351 |
 | 26 | [[Epistemic-Holism|epistemic holism]] | — | — | Quine's Web of Belief and Epistemic H... | 353 |
-| 27 | [[epistemic contextualism]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
-| 28 | [[Stewart Cohen]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
+| 27 | [[epistemic-contextualism|epistemic contextualism]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
+| 28 | [[Stewart-Cohen|Stewart Cohen]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
 | 29 | [[David Lewis]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
 | 30 | [[Virtue-Epistemology|Virtue epistemology]] | — | — | Virtue Epistemology's Contribution | 366 |
 | 31 | [[Ernest Sosa]] | — | — | Virtue Epistemology's Contribution | 366 |
-| 32 | [[Linda Zagzebski]] | — | — | Virtue Epistemology's Contribution | 366 |
+| 32 | [[Linda-Zagzebski|Linda Zagzebski]] | — | — | Virtue Epistemology's Contribution | 366 |
 | 33 | [[epistemic justification]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
 | 34 | [[Defeat-Defeater|defeater]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
 | 35 | [[Barry Marshall]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
@@ -526,21 +526,21 @@ extraction_summary:
 | 37 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | How Fallibilism Works: The Machinery ... | 397 |
 | 38 | [[adversarial epistemology]] | — | — | How Fallibilism Works: The Machinery ... | 399 |
 | 39 | [[Nicholas Rescher]] | — | — | How Fallibilism Works: The Machinery ... | 404 |
-| 40 | [[philosophy of science]] | — | — | Fallibilism in Science | 419 |
-| 41 | [[Karl Popper]] | — | — | Fallibilism in Science | 419 |
-| 42 | [[Thomas Kuhn]] | — | — | Fallibilism in Science | 419 |
+| 40 | [[philosophy-of-science|philosophy of science]] | — | — | Fallibilism in Science | 419 |
+| 41 | [[Karl-Popper|Karl Popper]] | — | — | Fallibilism in Science | 419 |
+| 42 | [[Thomas-Kuhn|Thomas Kuhn]] | — | — | Fallibilism in Science | 419 |
 | 43 | [[Epistemic-Humility|epistemic humility]] | — | — | Fallibilism in Education | 428 |
 | 44 | [[intellectual openness]] | — | — | Fallibilism in Education | 428 |
-| 45 | [[Carol Dweck]] | — | — | Fallibilism in Education | 430 |
+| 45 | [[Carol-Dweck|Carol Dweck]] | — | — | Fallibilism in Education | 430 |
 | 46 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Fallibilism in Education | 430 |
-| 47 | [[Karl Popper]] | — | — | Fallibilism in Democratic and Politic... | 441 |
+| 47 | [[Karl-Popper|Karl Popper]] | — | — | Fallibilism in Democratic and Politic... | 441 |
 | 48 | [[Fallibilism]] | — | — | The "So What?" | 480 |
-| 49 | [[Metacognition and Lifelong Learning]] | — | — | The "So What?" | 482 |
-| 50 | [[Metacognition and Critical Thinking]] | — | — | The "So What?" | 484 |
-| 51 | [[Paul-Elder Framework]] | — | — | The "So What?" | 484 |
-| 52 | [[Deliberate Practice]] | — | — | The "So What?" | 486 |
+| 49 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | The "So What?" | 482 |
+| 50 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | The "So What?" | 484 |
+| 51 | [[Paul-Elder-Framework|Paul-Elder Framework]] | — | — | The "So What?" | 484 |
+| 52 | [[Deliberate-Practice|Deliberate Practice]] | — | — | The "So What?" | 486 |
 | 53 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | The "So What?" | 488 |
-| 54 | [[Bayesian Epistemology]] | — | — | The "So What?" | 488 |
+| 54 | [[Bayesian-Epistemology|Bayesian Epistemology]] | — | — | The "So What?" | 488 |
 | 55 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]] | — | — | Unresolved Questions | 494 |
 | 56 | [[Epistemic Calibration and Bayesian Updating]] | — | — | D. Expansion Topics | 578 |
 | 57 | [[Popper's Falsificationism — Deep Dive]] | — | — | D. Expansion Topics | 581 |
@@ -560,13 +560,13 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Barry Marshall]]
-- [[Bayesian Epistemology]]
-- [[Carol Dweck]]
-- [[Charles Sanders Peirce]]
+- [[Bayesian-Epistemology|Bayesian Epistemology]]
+- [[Carol-Dweck|Carol Dweck]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[David Lewis]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Descartes]]
-- [[Duhem-Quine thesis]]
+- [[Duhem-Quine-thesis|Duhem-Quine thesis]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic Calibration and Bayesian Updating]]
 - [[Epistemic Injustice and Structural Fallibilism]]
@@ -574,44 +574,44 @@ extraction_summary:
 - [[Ernest Sosa]]
 - [[Fallibilism]]
 - [[Intellectual Virtues and Epistemic Character]]
-- [[Karl Popper]]
-- [[Linda Zagzebski]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Karl-Popper|Karl Popper]]
+- [[Linda-Zagzebski|Linda Zagzebski]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Moral Fallibilism and Ethical Uncertainty]]
 - [[Nicholas Rescher]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Popper's Falsificationism — Deep Dive]]
-- [[Pyrrhonian sceptics]]
+- [[Pyrrhonian-sceptics|Pyrrhonian sceptics]]
 - [[Robin Warren]]
-- [[Scepticism]]
+- [[scepticism]]
 - [[Social Epistemology and Collective Fallibilism]]
 - [[Socrates]]
 - [[Socratic-Method|Socratic method]]
-- [[Stewart Cohen]]
+- [[Stewart-Cohen|Stewart Cohen]]
 - [[Teaching Fallibilism — Pedagogical Frameworks]]
-- [[Thomas Kuhn]]
+- [[Thomas-Kuhn|Thomas Kuhn]]
 - [[Virtue-Epistemology|Virtue epistemology]]
-- [[W.V.O. Quine]]
+- [[W.V.O.-Quine|W.V.O. Quine]]
 - [[adversarial epistemology]]
 - [[Cognitive-Psychology|cognitive psychology]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Critical-Thinking|critical thinking]]
 - [[Defeat-Defeater|defeater]]
-- [[demarcation problem]]
-- [[epistemic contextualism]]
+- [[demarcation-problem|demarcation problem]]
+- [[epistemic-contextualism|epistemic contextualism]]
 - [[Epistemic-Holism|epistemic holism]]
 - [[Epistemic-Humility|epistemic humility]]
 - [[epistemic justification]]
-- [[epistemic relativism]]
+- [[epistemic-relativism|epistemic relativism]]
 - [[Epistemic-Autonomy-—-Epistemology|epistemology]]
-- [[fallibilism]]
-- [[falsificationism]]
+- [[Fallibilism]]
+- [[Falsificationism]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[intellectual openness]]
-- [[pedagogy]]
-- [[philosophy of science]]
-- [[pragmatism]]
+- [[Pedagogy]]
+- [[philosophy-of-science|philosophy of science]]
+- [[Pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -626,7 +626,7 @@ extraction_summary:
 #### Related
 
 - [[Critical-Thinking|Critical Thinking]]
-- [[Philosophy of Science]]
+- [[philosophy-of-science|Philosophy of Science]]
 - [[Pragmatism]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Reliabilism]]
@@ -646,30 +646,30 @@ extraction_summary:
 
 #### See Also
 
-- [[Bayesian Epistemology]]
+- [[Bayesian-Epistemology|Bayesian Epistemology]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Epistemic Injustice]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 
 #### Contrasts With
 
 - [[Infallibilism]]
 - [[Foundationalism — Classical]]
 - [[Cartesian Certainty]]
-- [[Epistemic Relativism]]
+- [[epistemic-relativism|Epistemic Relativism]]
 
 #### Applied In
 
 - [[Science Education]]
-- [[Critical Thinking Pedagogy]]
+- [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]]
 - [[Evidence-Based Practice]]
 - [[Democratic Deliberation]]
 
 #### Builds On
 
 - [[Justified-True-Belief|Justified True Belief]]
-- [[The Gettier Problem]]
-- [[Descartes — Meditations]]
+- [[The-Gettier-Problem|The Gettier Problem]]
+- [[Descartes-—-Meditations|Descartes — Meditations]]
 
 #### Enables
 

@@ -308,11 +308,11 @@ extraction_summary:
 - [[Aristotle]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Constructed Emotion Theory]]
+- [[Constructed-Emotion-Theory|Constructed Emotion Theory]]
 - [[Constructivism]]
 - [[Cross-Cultural Examined Life — Comparative Philosophy]]
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]]
-- [[Dewey's Reflective Thinking]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 - [[Dual-Process-Theory|Dual Process Theory]]
@@ -325,25 +325,25 @@ extraction_summary:
 - [[Examined Life Under Constraint — Resource-Limited Flourishing]]
 - [[Fallibilism]]
 - [[Flow]]
-- [[Gary Klein]]
+- [[Gary-Klein|Gary Klein]]
 - [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Interoception]]
-- [[Lisa Feldman Barrett]]
+- [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Logotherapy]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Miranda Fricker]]
 - [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
-- [[Narrative Identity]]
-- [[Naturalistic Decision Making]]
+- [[Narrative-Identity|Narrative Identity]]
+- [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]]
 - [[Pedagogy of the Examined Life — Stage-Specific Curricula]]
 - [[Peirce's Fallibilism]]
 - [[Phronesis]]
 - [[Phronimos]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
-- [[Piaget's Constructivism]]
+- [[Piaget's-Constructivism|Piaget's Constructivism]]
 - [[Pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
@@ -357,14 +357,14 @@ extraction_summary:
 - [[Socratic-Method|Socratic Method]]
 - [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Sophos]]
-- [[Stoic Prosoche]]
-- [[Stoic Virtue Ethics]]
+- [[Stoic-Prosoche|Stoic Prosoche]]
+- [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[Testimonial-Injustice|Testimonial Injustice]]
-- [[Tier 1 — Epistemic Architecture]]
-- [[Tier 2 — Practical Architecture]]
-- [[Tier 3 — Integrative Architecture]]
+- [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]
+- [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]]
+- [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
@@ -372,14 +372,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Tier 1 — Epistemic Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
-| 2 | [[Tier 2 — Practical Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
-| 3 | [[Tier 3 — Integrative Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
+| 1 | [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
+| 2 | [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
+| 3 | [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 4 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
-| 5 | [[Narrative Identity]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
+| 5 | [[Narrative-Identity|Narrative Identity]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 6 | [[Eudaimonia]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
-| 7 | [[Tier 1 — Epistemic Architecture]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 8 | [[Dewey's Reflective Thinking]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 7 | [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 8 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 9 | [[Socratic-Method|Socratic Method]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 10 | [[System-1|System 1]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 11 | [[Fallibilism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
@@ -390,44 +390,44 @@ extraction_summary:
 | 16 | [[Schema-Theory|Schema Theory]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 17 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 18 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 19 | [[Stoic Virtue Ethics]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 19 | [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 20 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 21 | [[Stoic Prosoche]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 21 | [[Stoic-Prosoche|Stoic Prosoche]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 22 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 23 | [[Tier 2 — Practical Architecture]] | — | — | The Three-Tier Architecture in Retros... | 206 |
+| 23 | [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] | — | — | The Three-Tier Architecture in Retros... | 206 |
 | 24 | [[Embodied-Cognition|Embodied Cognition]] | — | — | The Three-Tier Architecture in Retros... | 206 |
 | 25 | [[Interoception]] | — | — | The Three-Tier Architecture in Retros... | 206 |
-| 26 | [[Lisa Feldman Barrett]] | — | — | The Three-Tier Architecture in Retros... | 206 |
-| 27 | [[Constructed Emotion Theory]] | — | — | The Three-Tier Architecture in Retros... | 206 |
+| 26 | [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] | — | — | The Three-Tier Architecture in Retros... | 206 |
+| 27 | [[Constructed-Emotion-Theory|Constructed Emotion Theory]] | — | — | The Three-Tier Architecture in Retros... | 206 |
 | 28 | [[Aristotle]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 29 | [[Phronesis]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 30 | [[Gary Klein]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 31 | [[Naturalistic Decision Making]] | — | — | The Three-Tier Architecture in Retros... | 208 |
+| 30 | [[Gary-Klein|Gary Klein]] | — | — | The Three-Tier Architecture in Retros... | 208 |
+| 31 | [[Naturalistic-Decision-Making|Naturalistic Decision Making]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 32 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 33 | [[Distributed-Cognition|Distributed Cognition]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 34 | [[Miranda Fricker]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 35 | [[Epistemic Injustice]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 36 | [[Tier 3 — Integrative Architecture]] | — | — | The Three-Tier Architecture in Retros... | 210 |
+| 36 | [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 37 | [[Predictive-Processing|Predictive Processing]] | — | — | The Three-Tier Architecture in Retros... | 210 |
-| 38 | [[Narrative Identity]] | — | — | The Three-Tier Architecture in Retros... | 210 |
+| 38 | [[Narrative-Identity|Narrative Identity]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 39 | [[Logotherapy]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 40 | [[Eudaimonia]] | — | — | The Three-Tier Architecture in Retros... | 210 |
-| 41 | [[Dewey's Reflective Thinking]] | — | — | The Master Structural Homology: One T... | 226 |
+| 41 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | — | — | The Master Structural Homology: One T... | 226 |
 | 42 | [[Peirce's Fallibilism]] | — | — | The Master Structural Homology: One T... | 226 |
-| 43 | [[Piaget's Constructivism]] | — | — | The Master Structural Homology: One T... | 226 |
+| 43 | [[Piaget's-Constructivism|Piaget's Constructivism]] | — | — | The Master Structural Homology: One T... | 226 |
 | 44 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Master Structural Homology: One T... | 226 |
 | 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Master Structural Homology: One T... | 226 |
-| 46 | [[Stoic Prosoche]] | — | — | The Master Structural Homology: One T... | 226 |
+| 46 | [[Stoic-Prosoche|Stoic Prosoche]] | — | — | The Master Structural Homology: One T... | 226 |
 | 47 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | The Master Structural Homology: One T... | 226 |
 | 48 | [[Emotional-Granularity|Emotional Granularity]] | — | — | The Master Structural Homology: One T... | 226 |
 | 49 | [[Phronesis]] | — | — | The Master Structural Homology: One T... | 226 |
-| 50 | [[Narrative Identity]] | — | — | The Master Structural Homology: One T... | 226 |
+| 50 | [[Narrative-Identity|Narrative Identity]] | — | — | The Master Structural Homology: One T... | 226 |
 | 51 | [[Sophos]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
 | 52 | [[Phronimos]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
 | 53 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
 | 54 | [[Prokoptōn]] | — | — | The Central Conceptual Tension: Endpo... | 241 |
 | 55 | [[Flow]] | — | — | The Central Conceptual Tension: Endpo... | 244 |
-| 56 | [[Dewey's Reflective Thinking]] | — | — | The Universalism Tension: Whose Exami... | 250 |
+| 56 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | — | — | The Universalism Tension: Whose Exami... | 250 |
 | 57 | [[Self-Cultivation — Confucian]] | — | — | The Universalism Tension: Whose Exami... | 252 |
 | 58 | [[Rational Choice Theory]] | — | — | Worked Example One: The Epistemic Cha... | 266 |
 | 59 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Worked Example One: The Epistemic Cha... | 268 |
@@ -442,17 +442,17 @@ extraction_summary:
 | 68 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
 | 69 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
 | 70 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
-| 71 | [[Narrative Identity]] | — | — | Worked Example One: The Epistemic Cha... | 276 |
-| 72 | [[Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 284 |
+| 71 | [[Narrative-Identity|Narrative Identity]] | — | — | Worked Example One: The Epistemic Cha... | 276 |
+| 72 | [[Narrative-Identity|Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 284 |
 | 73 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | Worked Example Two: The Practical Lif... | 286 |
 | 74 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Worked Example Two: The Practical Lif... | 286 |
 | 75 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Worked Example Two: The Practical Lif... | 286 |
 | 76 | [[Phronesis]] | — | — | Worked Example Two: The Practical Lif... | 288 |
-| 77 | [[Gary Klein]] | — | — | Worked Example Two: The Practical Lif... | 288 |
+| 77 | [[Gary-Klein|Gary Klein]] | — | — | Worked Example Two: The Practical Lif... | 288 |
 | 78 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Worked Example Two: The Practical Lif... | 290 |
 | 79 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | Worked Example Two: The Practical Lif... | 292 |
 | 80 | [[Testimonial-Injustice|Testimonial Injustice]] | — | — | Worked Example Two: The Practical Lif... | 292 |
-| 81 | [[Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 294 |
+| 81 | [[Narrative-Identity|Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 294 |
 | 82 | [[Amor Fati]] | — | — | Worked Example Two: The Practical Lif... | 294 |
 | 83 | [[Fallibilism]] | — | — | The Developmental Staging Model: From... | 305 |
 | 84 | [[Aporia]] | — | — | The Developmental Staging Model: From... | 307 |
@@ -514,11 +514,11 @@ extraction_summary:
 - [[Aristotle]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Constructed Emotion Theory]]
+- [[Constructed-Emotion-Theory|Constructed Emotion Theory]]
 - [[Constructivism]]
 - [[Cross-Cultural Examined Life — Comparative Philosophy]]
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]]
-- [[Dewey's Reflective Thinking]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 - [[Dual-Process-Theory|Dual Process Theory]]
@@ -531,25 +531,25 @@ extraction_summary:
 - [[Examined Life Under Constraint — Resource-Limited Flourishing]]
 - [[Fallibilism]]
 - [[Flow]]
-- [[Gary Klein]]
+- [[Gary-Klein|Gary Klein]]
 - [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Interoception]]
-- [[Lisa Feldman Barrett]]
+- [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Logotherapy]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Miranda Fricker]]
 - [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
-- [[Narrative Identity]]
-- [[Naturalistic Decision Making]]
+- [[Narrative-Identity|Narrative Identity]]
+- [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]]
 - [[Pedagogy of the Examined Life — Stage-Specific Curricula]]
 - [[Peirce's Fallibilism]]
 - [[Phronesis]]
 - [[Phronimos]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
-- [[Piaget's Constructivism]]
+- [[Piaget's-Constructivism|Piaget's Constructivism]]
 - [[Pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
@@ -563,14 +563,14 @@ extraction_summary:
 - [[Socratic-Method|Socratic Method]]
 - [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Sophos]]
-- [[Stoic Prosoche]]
-- [[Stoic Virtue Ethics]]
+- [[Stoic-Prosoche|Stoic Prosoche]]
+- [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[Testimonial-Injustice|Testimonial Injustice]]
-- [[Tier 1 — Epistemic Architecture]]
-- [[Tier 2 — Practical Architecture]]
-- [[Tier 3 — Integrative Architecture]]
+- [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]
+- [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]]
+- [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 

@@ -5,6 +5,7 @@
 title: "Conditional Regard"
 aliases:
   - "Conditional Regard"
+  - "Conditional-regard"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -29,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -68,19 +69,27 @@ see-also:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[relatedness]]"
+  - "[[Autonomy]]"
+  - "[[Competence]]"
+  - "[[Relatedness]]"
   - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
-  - "[[Intrinsic-motivation|Intrinsic motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
   - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
-  - "[[Intrinsic-motivation|Intrinsic motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
+  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -147,7 +156,7 @@ importance: high
 > The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
 
 > [!evidence] Supporting Evidence *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> Some of the most compelling evidence for OIT comes from health psychology. [[Williams, Deci, and colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
+> Some of the most compelling evidence for OIT comes from health psychology. [[Williams,-Deci,-and-colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
 
 > [!evidence] Supporting Evidence *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The weight of evidence across educational, health, and organizational domains supports OIT's quality-over-quantity claim. Studies that measure both conceptual understanding and surface-level performance consistently find that autonomous motivation predicts the former more strongly than the latter, while controlled motivation sometimes predicts surface performance adequately but fails to predict depth of understanding, retention, and transfer. This pattern — which holds even when controlling for time-on-task — suggests that regulatory style affects *how* people engage, not merely *whether* they engage.
@@ -174,7 +183,7 @@ importance: high
 > **Intrinsic motivation** — behaviour enacted for the inherent satisfaction of the activity itself; the most self-determined form of regulation.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The standard presentation of OIT implies that internalization is a process one moves through — a journey from external to integrated. But the continuum is better understood as a spectrum of *current states* that are highly context-dependent. The same individual can operate at identified regulation for studying medicine because she chose to be a doctor, while operating at introjected regulation for studying anatomy because her father's approval is contingent on her surgical specialization. OIT's regulatory styles describe *within-person variability across activities*, not a fixed developmental level. This has profound practical implications: practitioners cannot treat a learner's "motivational profile" as a stable trait to be gradually improved — it must be assessed activity by activity.
@@ -259,10 +268,10 @@ importance: high
 - [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]
 
 **Related concepts:**
-[[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] · [[Intrinsic-motivation|Intrinsic motivation]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Need-deprivation|Need deprivation]] · [[Need-thwarting|Need thwarting]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Csikszentmihalyi]] · [[flow]] · [[Conditional-regard|Conditional regard]]
+[[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] · [[Intrinsic-Motivation|Intrinsic motivation]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Need-deprivation|Need deprivation]] · [[Need-Thwarting|Need thwarting]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Csikszentmihalyi]] · [[Flow]] · [[Conditional-Regard|Conditional regard]]
 
 **Related concepts** *(from organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]]
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]]
 
 **Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
 - [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
@@ -301,6 +310,54 @@ importance: high
 - [[Motivational-Climate-Design|Motivational Climate Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Related concepts** *(from organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+
+
+
+
+
+
 
 
 

@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,6 +72,14 @@ see-also:
   - "[[Prompt-Engineering|Prompt Engineering]]"
   - "[[PKB-Automation|PKB Automation]]"
   - "[[Obsidian]]"
+  - "[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
+  - "[[Smart-Connections|Smart Connections]]"
+  - "[[Templater|Templater]]"
+  - "[[Dataview|Dataview]]"
+  - "[[Claude-API|Claude API]]"
+  - "[[Prompt-Engineering|Prompt Engineering]]"
+  - "[[PKB-Automation|PKB Automation]]"
+  - "[[Obsidian|Obsidian]]"
   - "[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
   - "[[Smart-Connections|Smart Connections]]"
   - "[[Templater|Templater]]"
@@ -127,4 +135,8 @@ importance: medium
 
 **Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
 [[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Smart-Connections|Smart Connections]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Large-Language-Models|Large Language Models]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[OpenAI|OpenAI]] * [[Anthropic-Claude|Anthropic Claude]] * [[Google-Gemini|Google Gemini]] * [[HuggingFace|HuggingFace]] * [[Ollama|Ollama]] * [[Template-System|Template System]] * [[ChatGPT|ChatGPT]]
+
+**Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
+[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Smart-Connections|Smart Connections]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Large-Language-Models|Large Language Models]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[Anthropic-Claude|Anthropic Claude]] * [[Google-Gemini|Google Gemini]] * [[Template-System|Template System]] * [[Claude.ai|Claude.ai]] * [[Cognitive-Load|Cognitive Load]] * [[Knowledge-Graph|Knowledge Graph]] * [[Semantic-Search|Semantic Search]]
+
 

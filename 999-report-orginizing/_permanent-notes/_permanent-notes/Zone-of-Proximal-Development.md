@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +79,14 @@ see-also:
   - "[[Advance-Organizer|Advance Organizer]]"
   - "[[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]"
   - "[[Andragogy]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Lifelong-learning|Lifelong learning]]"
+  - "[[Flavell|Flavell]]"
+  - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
+  - "[[Metacognitive-Experiences|Metacognitive Experiences]]"
+  - "[[Metacognitive-Regulation|Metacognitive Regulation]]"
+  - "[[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]"
   - "[[Metacognition|Metacognition]]"
   - "[[John-Flavell|John Flavell]]"
   - "[[Lifelong-learning|Lifelong learning]]"
@@ -265,7 +273,7 @@ importance: high
 - [[Report-01|Report 01]]
 
 **Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md, report-04-cognitive-scaffolding.md, report-07-the-self-directed-learner.md)*:
-[[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[self-regulated-learning|self-regulated learning]] * [[Robert-Bjork|Robert Bjork]]
+[[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Self-Regulated-Learning|self-regulated learning]] * [[Robert-Bjork|Robert Bjork]]
 
 **Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
@@ -288,6 +296,36 @@ importance: high
 - [[Report-01|Report 01]]
 - [[Report-04|Report 04]]
 - [[Report-01|Report 01]]
+
+**Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md, report-04-cognitive-scaffolding.md, report-07-the-self-directed-learner.md)*:
+[[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Self-Regulated-Learning|self-regulated learning]] * [[Robert-Bjork|Robert Bjork]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+
+
+
+
 
 
 

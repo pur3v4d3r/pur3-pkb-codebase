@@ -1,0 +1,3397 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-22T02:18:55.093945",
+    "source_file": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-stoicism\\2026-03-13\\-stoicism\\the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+    "source_file_size_bytes": 41935,
+    "processing_time_seconds": 0.011
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "The Golden Sayings of Epictetus (Annotated)",
+      "id": 202511280100,
+      "type": "reference",
+      "status": "seedling",
+      "tags": [
+        "stoicism",
+        "philosophy/ancient",
+        "cognitive-science/reframing",
+        "source-material"
+      ],
+      "author": "Epictetus",
+      "translator": "Hastings Crossley"
+    },
+    "word_count": 7465,
+    "character_count": 41221,
+    "line_count": 945,
+    "heading_count": 129
+  },
+  "extraction_summary": {
+    "total_items_extracted": 279,
+    "by_type": {
+      "headings": 129,
+      "callouts": 139,
+      "wiki_links": 11,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 3,
+      "text": "I. The Hymn of the Rational Being",
+      "anchor": "i-the-hymn-of-the-rational-being",
+      "line_number": 27,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "II. The Inn and the Destination",
+      "anchor": "ii-the-inn-and-the-destination",
+      "line_number": 49,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "III. Community",
+      "anchor": "iii-community",
+      "line_number": 63,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "IV. The Rules of Use",
+      "anchor": "iv-the-rules-of-use",
+      "line_number": 68,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "V. The Mirror of Faults",
+      "anchor": "v-the-mirror-of-faults",
+      "line_number": 76,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "VI. The Portion of God",
+      "anchor": "vi-the-portion-of-god",
+      "line_number": 84,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "VII. The Cost of Leadership",
+      "anchor": "vii-the-cost-of-leadership",
+      "line_number": 99,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "VIII. The Purple Thread",
+      "anchor": "viii-the-purple-thread",
+      "line_number": 105,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "IX. Dual Citizenship (Earth & Heaven)",
+      "anchor": "ix-dual-citizenship-earth-heaven",
+      "line_number": 119,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "X. The Definition of Self",
+      "anchor": "x-the-definition-of-self",
+      "line_number": 132,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XI. The Iron Lamp (Attachment)",
+      "anchor": "xi-the-iron-lamp-attachment",
+      "line_number": 138,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XII. The Price of Virtue",
+      "anchor": "xii-the-price-of-virtue",
+      "line_number": 148,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XIII. The Observer",
+      "anchor": "xiii-the-observer",
+      "line_number": 156,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XIV. The Great Spectacle",
+      "anchor": "xiv-the-great-spectacle",
+      "line_number": 164,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XV. The Cosmopolitan",
+      "anchor": "xv-the-cosmopolitan",
+      "line_number": 174,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XVI. Freedom from Fear",
+      "anchor": "xvi-freedom-from-fear",
+      "line_number": 180,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XVII. The Desire to Escape",
+      "anchor": "xvii-the-desire-to-escape",
+      "line_number": 186,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XVIII. The Divine Signal",
+      "anchor": "xviii-the-divine-signal",
+      "line_number": 194,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XIX. The Tyrant's Power",
+      "anchor": "xix-the-tyrants-power",
+      "line_number": 202,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XX. The Equipment for Life",
+      "anchor": "xx-the-equipment-for-life",
+      "line_number": 213,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXI. The Exemplar",
+      "anchor": "xxi-the-exemplar",
+      "line_number": 221,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXII. The Nature of Freedom",
+      "anchor": "xxii-the-nature-of-freedom",
+      "line_number": 227,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXIII. Cognitive Petrifaction",
+      "anchor": "xxiii-cognitive-petrifaction",
+      "line_number": 233,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXIV. The Trap of Ambition",
+      "anchor": "xxiv-the-trap-of-ambition",
+      "line_number": 241,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXV. Pity vs. Reality",
+      "anchor": "xxv-pity-vs-reality",
+      "line_number": 249,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXVI. The Definition of Instruction",
+      "anchor": "xxvi-the-definition-of-instruction",
+      "line_number": 255,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXVII. The Exchange Rate",
+      "anchor": "xxvii-the-exchange-rate",
+      "line_number": 261,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXVIII. Theological Stances",
+      "anchor": "xxviii-theological-stances",
+      "line_number": 267,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXIX. Freedom and Madness",
+      "anchor": "xxix-freedom-and-madness",
+      "line_number": 273,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXX. Maintenance of Principles",
+      "anchor": "xxx-maintenance-of-principles",
+      "line_number": 283,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXI. Solitude vs. Crowd",
+      "anchor": "xxxi-solitude-vs-crowd",
+      "line_number": 289,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXII. The True Prison",
+      "anchor": "xxxii-the-true-prison",
+      "line_number": 296,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXIII. The Measure of Greatness",
+      "anchor": "xxxiii-the-measure-of-greatness",
+      "line_number": 302,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXIV. Dealing with Slaves (and Hierarchy)",
+      "anchor": "xxxiv-dealing-with-slaves-and-hierarchy",
+      "line_number": 308,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXV. The Banquet of Life",
+      "anchor": "xxxv-the-banquet-of-life",
+      "line_number": 314,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXVI. The Cosmic Sympathy",
+      "anchor": "xxxvi-the-cosmic-sympathy",
+      "line_number": 320,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXVII. The Guardian Within",
+      "anchor": "xxxvii-the-guardian-within",
+      "line_number": 330,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXVIII. Managing Conflict",
+      "anchor": "xxxviii-managing-conflict",
+      "line_number": 338,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XXXIX. The Law of Growth",
+      "anchor": "xxxix-the-law-of-growth",
+      "line_number": 345,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XL. The Valuation of Status",
+      "anchor": "xl-the-valuation-of-status",
+      "line_number": 353,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLI. The Golden Rule of Slavery",
+      "anchor": "xli-the-golden-rule-of-slavery",
+      "line_number": 361,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLII. The Source of Thanks",
+      "anchor": "xlii-the-source-of-thanks",
+      "line_number": 367,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLIII. The Vanity of Monuments",
+      "anchor": "xliii-the-vanity-of-monuments",
+      "line_number": 373,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLIV. The Exit Strategy",
+      "anchor": "xliv-the-exit-strategy",
+      "line_number": 379,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLV. The Metaphor of Smoke",
+      "anchor": "xlv-the-metaphor-of-smoke",
+      "line_number": 385,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLVI. Cognitive Indigestion",
+      "anchor": "xlvi-cognitive-indigestion",
+      "line_number": 394,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLVII. The Unexamined Life",
+      "anchor": "xlvii-the-unexamined-life",
+      "line_number": 400,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLVIII. Preparation for Crisis",
+      "anchor": "xlviii-preparation-for-crisis",
+      "line_number": 406,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XLIX. The Witness for God",
+      "anchor": "xlix-the-witness-for-god",
+      "line_number": 417,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "L. The Feedback Loop",
+      "anchor": "l-the-feedback-loop",
+      "line_number": 425,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LI. The Catechism of Indifference",
+      "anchor": "li-the-catechism-of-indifference",
+      "line_number": 431,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LII. The Separation of Self and Body",
+      "anchor": "lii-the-separation-of-self-and-body",
+      "line_number": 440,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LIII. The Messenger",
+      "anchor": "liii-the-messenger",
+      "line_number": 446,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LIV. The Reversal of Judgment",
+      "anchor": "liv-the-reversal-of-judgment",
+      "line_number": 452,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LV. The Fear of Fear",
+      "anchor": "lv-the-fear-of-fear",
+      "line_number": 458,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LVI. The Part and the Whole",
+      "anchor": "lvi-the-part-and-the-whole",
+      "line_number": 467,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LVII. The Silver Coin",
+      "anchor": "lvii-the-silver-coin",
+      "line_number": 475,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LVIII. The Traveller and the Guide",
+      "anchor": "lviii-the-traveller-and-the-guide",
+      "line_number": 481,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LIX. The Nature of the Good",
+      "anchor": "lix-the-nature-of-the-good",
+      "line_number": 487,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LX. The God Within",
+      "anchor": "lx-the-god-within",
+      "line_number": 493,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXI. The Living Statue",
+      "anchor": "lxi-the-living-statue",
+      "line_number": 501,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXII. Useful Labor",
+      "anchor": "lxii-useful-labor",
+      "line_number": 507,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXIII. The Lost Traveller",
+      "anchor": "lxiii-the-lost-traveller",
+      "line_number": 513,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXIV. The Value of the Soul",
+      "anchor": "lxiv-the-value-of-the-soul",
+      "line_number": 519,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXV. The Reply to Arrogance",
+      "anchor": "lxv-the-reply-to-arrogance",
+      "line_number": 527,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXVI. Imitatio Dei",
+      "anchor": "lxvi-imitatio-dei",
+      "line_number": 534,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXVII. The Mirror of Philosophy",
+      "anchor": "lxvii-the-mirror-of-philosophy",
+      "line_number": 540,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXVIII. The Great Fair",
+      "anchor": "lxviii-the-great-fair",
+      "line_number": 546,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXIX. The Obstinate Fool",
+      "anchor": "lxix-the-obstinate-fool",
+      "line_number": 554,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXX. Nostalgia vs. Cosmos",
+      "anchor": "lxx-nostalgia-vs-cosmos",
+      "line_number": 560,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXI. The Hercules Mindset",
+      "anchor": "lxxi-the-hercules-mindset",
+      "line_number": 566,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXII. The Barrier to Learning",
+      "anchor": "lxxii-the-barrier-to-learning",
+      "line_number": 574,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXIII. The True Champion",
+      "anchor": "lxxiii-the-true-champion",
+      "line_number": 580,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXIV. The Question of Sanity",
+      "anchor": "lxxiv-the-question-of-sanity",
+      "line_number": 586,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXV. The Biology of Habit",
+      "anchor": "lxxv-the-biology-of-habit",
+      "line_number": 592,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXVI. The Self-Audience",
+      "anchor": "lxxvi-the-self-audience",
+      "line_number": 602,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXVII. The Divine Trainer",
+      "anchor": "lxxvii-the-divine-trainer",
+      "line_number": 608,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXVIII. The Definition of a Stoic",
+      "anchor": "lxxviii-the-definition-of-a-stoic",
+      "line_number": 616,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXIX. The Actor's Failure",
+      "anchor": "lxxix-the-actors-failure",
+      "line_number": 622,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXX. The Uncorrected Student",
+      "anchor": "lxxx-the-uncorrected-student",
+      "line_number": 628,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXI. The Art of Hearing",
+      "anchor": "lxxxi-the-art-of-hearing",
+      "line_number": 634,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXII. The Basis of Friendship",
+      "anchor": "lxxxii-the-basis-of-friendship",
+      "line_number": 642,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXIII. The Sovereign Will",
+      "anchor": "lxxxiii-the-sovereign-will",
+      "line_number": 648,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXIV. The Ideal Death",
+      "anchor": "lxxxiv-the-ideal-death",
+      "line_number": 654,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXV. The Secret of Socrates",
+      "anchor": "lxxxv-the-secret-of-socrates",
+      "line_number": 660,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXVI. The Human Constitution",
+      "anchor": "lxxxvi-the-human-constitution",
+      "line_number": 666,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXVII. The Professional Focus",
+      "anchor": "lxxxvii-the-professional-focus",
+      "line_number": 672,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXVIII. Restorative Justice",
+      "anchor": "lxxxviii-restorative-justice",
+      "line_number": 678,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "LXXXIX. The Coin of Good",
+      "anchor": "lxxxix-the-coin-of-good",
+      "line_number": 685,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XC. Common Sense",
+      "anchor": "xc-common-sense",
+      "line_number": 691,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCI. Leadership by Example",
+      "anchor": "xci-leadership-by-example",
+      "line_number": 697,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCII. Fact vs. Judgment",
+      "anchor": "xcii-fact-vs-judgment",
+      "line_number": 703,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCIII. The Audit of Life",
+      "anchor": "xciii-the-audit-of-life",
+      "line_number": 711,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCIV. True Wealth",
+      "anchor": "xciv-true-wealth",
+      "line_number": 717,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCV. The Jar of Nuts",
+      "anchor": "xcv-the-jar-of-nuts",
+      "line_number": 723,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCVI. Forgiveness",
+      "anchor": "xcvi-forgiveness",
+      "line_number": 731,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCVII. The Dichotomy of Relations",
+      "anchor": "xcvii-the-dichotomy-of-relations",
+      "line_number": 737,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCVIII. Divine Solitude",
+      "anchor": "xcviii-divine-solitude",
+      "line_number": 744,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "XCIX. Social Contagion",
+      "anchor": "xcix-social-contagion",
+      "line_number": 750,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "C. Secret Asceticism",
+      "anchor": "c-secret-asceticism",
+      "line_number": 756,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CI. The Art of Giving",
+      "anchor": "ci-the-art-of-giving",
+      "line_number": 763,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CII. Social Contagion (Positive)",
+      "anchor": "cii-social-contagion-positive",
+      "line_number": 769,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CIII. The Solitary Singer",
+      "anchor": "ciii-the-solitary-singer",
+      "line_number": 775,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CIV. The Cost of Ambition (The Olympic Metaphor)",
+      "anchor": "civ-the-cost-of-ambition-the-olympic-metaphor",
+      "line_number": 781,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CV. The Definition of Childishness",
+      "anchor": "cv-the-definition-of-childishness",
+      "line_number": 791,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CVI. The Alchemy of Virtue",
+      "anchor": "cvi-the-alchemy-of-virtue",
+      "line_number": 797,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CVII. The Waxen Mind",
+      "anchor": "cvii-the-waxen-mind",
+      "line_number": 804,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CX. The Calling of the Cynic",
+      "anchor": "cx-the-calling-of-the-cynic",
+      "line_number": 810,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXIII. The Spy's Report",
+      "anchor": "cxiii-the-spys-report",
+      "line_number": 816,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXI. The School is a Hospital",
+      "anchor": "cxxi-the-school-is-a-hospital",
+      "line_number": 822,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXV. The Soldier's Post",
+      "anchor": "cxxv-the-soldiers-post",
+      "line_number": 828,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXX. The Nature of Change",
+      "anchor": "cxxx-the-nature-of-change",
+      "line_number": 834,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXXIII. Contextual Living",
+      "anchor": "cxxxiii-contextual-living",
+      "line_number": 841,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXXV. The Root of Fear",
+      "anchor": "cxxxv-the-root-of-fear",
+      "line_number": 847,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXXVI. The Definition of Freedom",
+      "anchor": "cxxxvi-the-definition-of-freedom",
+      "line_number": 853,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXXXVII. The Safe Traveller",
+      "anchor": "cxxxvii-the-safe-traveller",
+      "line_number": 859,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXLIV. The Declaration of Independence",
+      "anchor": "cxliv-the-declaration-of-independence",
+      "line_number": 865,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CXLIX. The Truth Seeker",
+      "anchor": "cxlix-the-truth-seeker",
+      "line_number": 871,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLII. The Open Door Policy",
+      "anchor": "clii-the-open-door-policy",
+      "line_number": 877,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLVII. The Crisis",
+      "anchor": "clvii-the-crisis",
+      "line_number": 884,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXII. The Target",
+      "anchor": "clxii-the-target",
+      "line_number": 892,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXXIV. The Two Handles (Famous)",
+      "anchor": "clxxiv-the-two-handles-famous",
+      "line_number": 898,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXXV. Theory vs. Practice",
+      "anchor": "clxxv-theory-vs-practice",
+      "line_number": 905,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXXVIII. The Two Guests",
+      "anchor": "clxxviii-the-two-guests",
+      "line_number": 911,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXXXIII. The Summary of Ethics",
+      "anchor": "clxxxiii-the-summary-of-ethics",
+      "line_number": 917,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXXXVI. The Captain of the Ship",
+      "anchor": "clxxxvi-the-captain-of-the-ship",
+      "line_number": 923,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "CLXXXIX. The Final Prayer",
+      "anchor": "clxxxix-the-final-prayer",
+      "line_number": 929,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "Appendix A: Fragments",
+      "anchor": "appendix-a-fragments",
+      "line_number": 937,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "Appendix B: The Hymn of Cleanthes",
+      "anchor": "appendix-b-the-hymn-of-cleanthes",
+      "line_number": 947,
+      "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "**Primary Objective**\nTo internalize the cognitive framework of Epictetus, specifically focusing on the separation of external events from internal judgments, and to align the PKB with the moral compass of a self-determined knowledge worker.",
+        "line_number": 16,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 253,
+        "char_end": 516
+      },
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "1. How does Epictetus define the relationship between the human mind and the Cosmic administration?\n2. What specific \"reframing\" techniques does he offer for moments of distress?\n3. How can I apply the concept of \"The Witness\" (God within) to my daily prompt engineering work?",
+        "line_number": 20,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 517,
+        "char_end": 824
+      },
+      {
+        "type": "cosmos-concept",
+        "title": "Untitled",
+        "body": "**The Teleological Argument**\nEpictetus argues that biological function implies a designer, but *cognitive* function implies a duty to praise that designer.",
+        "line_number": 29,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 869,
+        "char_end": 1050
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "*Great is God, for that He hath given us such instruments to till the ground withal! Great is God, for that He hath given us hands and the power of swallowing and digesting; of unconsciously growing and breathing while we sleep!*",
+        "line_number": 35,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 1375,
+        "char_end": 1618
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Great is God, for that He hath given us a mind to apprehend these things, and duly to use them!**",
+        "line_number": 40,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 1709,
+        "char_end": 1826
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**The Rational Function**\nBut now, since I am a **reasonable being**, I must sing to God: that is my work: I do it, nor will I desert this my post, as long as it is granted me to hold it; and upon you too I call to join in this self-same hymn.",
+        "line_number": 45,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 2154,
+        "char_end": 2416
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Distraction of the Pleasant Inn**\nLife is a journey; external pleasures are merely rest stops, not the destination.",
+        "line_number": 51,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 2454,
+        "char_end": 2593
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "Try to enjoy the great festival of life with other men.",
+        "line_number": 65,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 3388,
+        "char_end": 3467
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Sovereign Will**\nThe only thing truly entrusted to us is our Will ([[Prohairesis]]).",
+        "line_number": 70,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 3494,
+        "char_end": 3609
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**On Constructive Criticism**\nTrue praise helps us identify our errors.",
+        "line_number": 78,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 3890,
+        "char_end": 3979
+      },
+      {
+        "type": "analysis-cognitive",
+        "title": "Untitled",
+        "body": "**The Deal with Reality**\nWe trade control over the body and property for absolute control over our judgment.",
+        "line_number": 86,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 4317,
+        "char_end": 4455
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The Price of Excellence**\n*It is a kingly thing, O Cyrus, to do well and to be evil spoken of.*",
+        "line_number": 101,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 5203,
+        "char_end": 5320
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Thread in the Tunic**\nEpictetus uses the \"purple thread\" to explain why one should not conform to the majority (the white threads) if they wish to be distinct.",
+        "line_number": 107,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 5350,
+        "char_end": 5533
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**The Two Elements of Man**\nWe are a compound of body (animal) and Reason (Divine). Our self-image dictates our behavior.",
+        "line_number": 121,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 6293,
+        "char_end": 6433
+      },
+      {
+        "type": "question",
+        "title": "Untitled",
+        "body": "*Why then cling to the one [the flesh], and neglect the other [the Reason]?*",
+        "line_number": 129,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 6989,
+        "char_end": 7082
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**The Soul-Body Relation**\n*Thou art but a poor soul laden with a lifeless body.*",
+        "line_number": 134,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 7114,
+        "char_end": 7213
+      },
+      {
+        "type": "story",
+        "title": "Untitled",
+        "body": "**The Thief's Logic**\nEpictetus reframes the loss of property as an inevitability of the object's nature.",
+        "line_number": 140,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 7250,
+        "char_end": 7371
+      },
+      {
+        "type": "analysis-cognitive",
+        "title": "Untitled",
+        "body": "**The Transaction of Character**\nEvery external loss is a trade. The thief paid with his integrity to gain a lamp.",
+        "line_number": 150,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 7718,
+        "char_end": 7861
+      },
+      {
+        "type": "the-mission",
+        "title": "Untitled",
+        "body": "**Man as Spectator and Interpreter**\nGod introduced Man to be a spectator of Himself and of His works; and not a spectator only, but also an interpreter of them.",
+        "line_number": 158,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 8111,
+        "char_end": 8294
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**Endurance as Ticket Price**\nJust as we endure the heat at Olympia to see the games, we must endure life's hardships to witness the Universe.",
+        "line_number": 166,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 8587,
+        "char_end": 8749
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**Citizen of the World**\nNever, when asked one’s country, to answer, *“I am an Athenian or a Corinthian,”* but *“I am a citizen of the world.”*",
+        "line_number": 176,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 9113,
+        "char_end": 9275
+      },
+      {
+        "type": "logic",
+        "title": "Untitled",
+        "body": "**The Divine Kinship Security**\nIf kinship with Caesar protects you, surely kinship with God should protect you from sorrow and fear.",
+        "line_number": 182,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 9304,
+        "char_end": 9453
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Against Suicide (The Open Door)**\nEpictetus addresses young students who, realizing the body is a prison, wish to \"cast off these chains\" prematurely.",
+        "line_number": 188,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 9486,
+        "char_end": 9656
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**Wait for the Command**\nWe must remain at our post until God sounds the retreat.",
+        "line_number": 196,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 9909,
+        "char_end": 10015
+      },
+      {
+        "type": "analysis-logical",
+        "title": "Untitled",
+        "body": "**The Limits of External Power**\nTyrants only control the \"lifeless body,\" not the Will.",
+        "line_number": 204,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 10249,
+        "char_end": 10364
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**What they can do, we will not regard: what does concern us, that they cannot do.**",
+        "line_number": 210,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 10515,
+        "char_end": 10617
+      },
+      {
+        "type": "empowerment",
+        "title": "Untitled",
+        "body": "**The Toolkit of Faculties**\nGod gave us faculties to bear every event without being crushed. To complain is to ignore the tools in your hand.",
+        "line_number": 215,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 10650,
+        "char_end": 10814
+      },
+      {
+        "type": "exemplar",
+        "title": "Untitled",
+        "body": "**Socrates**\nHow did Socrates bear himself in this regard? How else than as became one who was fully assured that he was the kinsman of Gods?",
+        "line_number": 223,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 11111,
+        "char_end": 11271
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Absolute Agency**\nIf you choose, you are free; if you choose, you need blame no man—accuse no man. All things will be at once according to your mind and according to the Mind of God.",
+        "line_number": 229,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 11305,
+        "char_end": 11510
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Hardening of the Mind**\nThere is a \"petrifaction\" (turning to stone) of the sense of shame.",
+        "line_number": 235,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 11546,
+        "char_end": 11657
+      },
+      {
+        "type": "story",
+        "title": "Untitled",
+        "body": "**The Return to Rome**\nA story of an official who swore to retire, but was immediately seduced by a letter from the Emperor.",
+        "line_number": 243,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 11887,
+        "char_end": 12027
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**Rejection of Pity**\n*“I asked for your help, not for your pity. No evil has happened unto me.”*",
+        "line_number": 251,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 12320,
+        "char_end": 12437
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**True Instruction**\nTo learn to wish that each thing should come to pass as it does.",
+        "line_number": 257,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 12479,
+        "char_end": 12585
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Loss and Gain**\nHave this thought ever present with thee, when thou losest any outward thing, **what thou gainest in its stead**; and if this be the more precious, say not, I have suffered loss.",
+        "line_number": 263,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 12616,
+        "char_end": 12830
+      },
+      {
+        "type": "disposition",
+        "title": "Untitled",
+        "body": "**The Fifth Stance (Socrates & Ulysses)**\n*I move not without Thy knowledge!*",
+        "line_number": 269,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 12864,
+        "char_end": 12963
+      },
+      {
+        "type": "logic",
+        "title": "Untitled",
+        "body": "**The Logic of Freedom**\nFreedom is not \"getting what you want,\" but \"wanting what you get.\"",
+        "line_number": 275,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 12995,
+        "char_end": 13103
+      },
+      {
+        "type": "to-do",
+        "title": "Untitled",
+        "body": "**Daily Practice**\nYou must know that it is no easy thing for a principle to become a man’s own, unless each day he maintain it and hear it maintained, as well as work it out in life.",
+        "line_number": 285,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 13461,
+        "char_end": 13660
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**Contextual Re-labeling**\n- When alone: Call it **Tranquility** and **Freedom**.\n- When in a crowd: Call it an **Assembly** and a **Tribunal**.",
+        "line_number": 291,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 13691,
+        "char_end": 13857
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**The Prison of the Will**\nWherever a man is against his will, that to him is a prison. Thus Socrates was not in prison, since he was there with his own consent.",
+        "line_number": 298,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 13886,
+        "char_end": 14065
+      },
+      {
+        "type": "perspective",
+        "title": "Untitled",
+        "body": "**Reason is not Measured by Space**\nKnowest thou what a speck thou art in comparison with the Universe?—That is, with respect to the body; **since with respect to Reason, thou art not inferior to the Gods, nor less than they.**",
+        "line_number": 304,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 14104,
+        "char_end": 14353
+      },
+      {
+        "type": "social-dynamics",
+        "title": "Untitled",
+        "body": "**Universal Brotherhood**\nSlave, will you not endure your own brother, that has God to his forefather? … Do you see whither you are looking—down to the earth, to the pit, to those despicable laws of the dead? But to the laws of the Gods you do not look.",
+        "line_number": 310,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 14402,
+        "char_end": 14681
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Table Manners for Life**\nWhen we are invited to a banquet, we take what is set before us; and were one to call upon his host to set fish upon the table or sweet things, he would be deemed absurd. **Yet in a word, we ask the Gods for what they do not give; and that, although they have given us so many things!**",
+        "line_number": 316,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 14713,
+        "char_end": 15044
+      },
+      {
+        "type": "cosmos-concept",
+        "title": "Untitled",
+        "body": "**Sympatheia (Universal Interconnection)**\nDo you not hold that things on earth and things in heaven are continuous and in unison with each other?",
+        "line_number": 322,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 15077,
+        "char_end": 15248
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**The Daemon (Internal Guardian)**\nYou are never alone.",
+        "line_number": 332,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 15807,
+        "char_end": 15881
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**The limits of influence**\n*“How shall my brother cease to be wroth with me?”*\nBring him to me, and I will tell him. But to thee I have nothing to say about his anger.",
+        "line_number": 340,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 16289,
+        "char_end": 16479
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Fig Tree**\nNothing great is created suddenly, any more than a bunch of grapes or a fig.",
+        "line_number": 347,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 16510,
+        "char_end": 16621
+      },
+      {
+        "type": "story",
+        "title": "Untitled",
+        "body": "**The Shoemaker's Fortune**\nEpictetus mocks how we value people based on their proximity to power rather than their character.",
+        "line_number": 355,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 16978,
+        "char_end": 17120
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**Reciprocity of Freedom**\nWhat you shun enduring yourself, attempt not to impose on others.",
+        "line_number": 363,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 17405,
+        "char_end": 17522
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Misplaced Gratitude**\nIn truth we thank the Gods for that wherein we place our happiness.",
+        "line_number": 369,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 17555,
+        "char_end": 17664
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**Stone vs. Memory**\n*“Inscribe it on a stone and it will remain just as well. And think, beyond Nicopolis what memory of you will there be?”*",
+        "line_number": 375,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 17701,
+        "char_end": 17863
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**\"I Will Play No More\"**\nBe not more fearful than children; but as they, when they weary of the game, cry, *“I will play no more,”* even so, when thou art in the like case, cry, *“I will play no more”* and depart. But if thou stayest, make no lamentation.",
+        "line_number": 381,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 17893,
+        "char_end": 18167
+      },
+      {
+        "type": "metaphor",
+        "title": "Untitled",
+        "body": "**The Smoky Room**\nIf the room is smoky, I leave. If it is bearable, I stay. The door is always open.",
+        "line_number": 387,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 18200,
+        "char_end": 18320
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Assimilation before Application**\nAs it is, men who are not fit to swallow even a morsel, buy whole treatises and try to devour them. Accordingly they either vomit them up again, or suffer from indigestion…",
+        "line_number": 396,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 18632,
+        "char_end": 18858
+      },
+      {
+        "type": "exemplar",
+        "title": "Untitled",
+        "body": "**Socrates' Method**\nSocrates used to say that we should never lead a life not subjected to examination.",
+        "line_number": 402,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 18891,
+        "char_end": 19014
+      },
+      {
+        "type": "story",
+        "title": "Untitled",
+        "body": "**Socrates' Defense**\nWhen asked why he didn't prepare for his trial, Socrates replied that his whole life was the preparation.",
+        "line_number": 408,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 19051,
+        "char_end": 19194
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**The Divine Witness**\nWhen you suffer with dignity, you are testifying on God's behalf.",
+        "line_number": 419,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 19361,
+        "char_end": 19468
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Benevolence**\nWouldst thou have men speak good of thee? speak good of them. And when thou hast learned to speak good of them, try to do good unto them.",
+        "line_number": 427,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 19726,
+        "char_end": 19905
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Defining the Indifferent**\n*“Say then, what are things indifferent?”*\n*“Things that are not in our power.”*\n*“Say then, what follows?”*\n*“That things which are not in our power are nothing to me.”*",
+        "line_number": 433,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 19945,
+        "char_end": 20171
+      },
+      {
+        "type": "distinction",
+        "title": "Untitled",
+        "body": "**Anatomy of Injury**\nAnytus and Melitus may put me to death: to injure me is beyond their power.",
+        "line_number": 442,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 20214,
+        "char_end": 20333
+      },
+      {
+        "type": "cosmos-concept",
+        "title": "Untitled",
+        "body": "**Interpreting Signs**\nIf a raven croaks, it is not the raven, but God sending a sign through the raven.",
+        "line_number": 448,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 20359,
+        "char_end": 20488
+      },
+      {
+        "type": "story",
+        "title": "Untitled",
+        "body": "**Heraclitus**\n*“I will not entreat you: nor do I care what sentence you pass. It is you who are on your trial, not I!”*",
+        "line_number": 454,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 20524,
+        "char_end": 20660
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Herd of Deer**\nLike deer running into the nets to escape the feathers, we rush toward misery to escape our fear of it.",
+        "line_number": 460,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 20687,
+        "char_end": 20829
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Not death or pain is to be feared, but the fear of death or pain.**",
+        "line_number": 464,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 20830,
+        "char_end": 20917
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Foot**\nA foot, if it had understanding, would want to step in the mud if it helped the body.",
+        "line_number": 469,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 20951,
+        "char_end": 21067
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Self-Evident Quality**\nA piece of silver does not need a recommendation letter; its ring tells the tale.",
+        "line_number": 477,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 21514,
+        "char_end": 21638
+      },
+      {
+        "type": "metaphor",
+        "title": "Untitled",
+        "body": "**Asking Directions from God**\nEven as the traveller asks his way of him that he meets, inclined in no wise to bear to the right rather than to the left (for he desires only the way leading whither he would go), so should we come unto God as to a guide.",
+        "line_number": 483,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 21679,
+        "char_end": 21951
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Intelligence and Reason**\nWhat then is the real nature of God?—Intelligence, Knowledge, Right Reason. Here then without more ado seek the real nature of the Good.",
+        "line_number": 489,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 21985,
+        "char_end": 22170
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**Living Tabernacle**\nWretch, you are carrying a God around with you, and you don't know it!",
+        "line_number": 495,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 22195,
+        "char_end": 22306
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Art of the Self**\nIf you were a statue by Phidias, you would maintain your pose. You are a statue by God—maintain your character.",
+        "line_number": 503,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 22525,
+        "char_end": 22678
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Diogenes on Training**\nNo labour is good but that which aims at producing courage and strength of soul rather than of body.",
+        "line_number": 509,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 22703,
+        "char_end": 22854
+      },
+      {
+        "type": "behavior",
+        "title": "Untitled",
+        "body": "**Teaching vs. Mocking**\nA guide, on finding a man who has lost his way, brings him back to the right path—he does not mock and jeer at him.",
+        "line_number": 515,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 22886,
+        "char_end": 23045
+      },
+      {
+        "type": "value-hierarchy",
+        "title": "Untitled",
+        "body": "**The Most Precious Possession**\nYou trust your horse to a groom, your body to a doctor, but your soul to no one.",
+        "line_number": 521,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 23079,
+        "char_end": 23218
+      },
+      {
+        "type": "retort",
+        "title": "Untitled",
+        "body": "**Rich but not Wise**\n*“I am wise, for I have conversed with many wise men,”*\n*“I too have conversed with many rich men, yet I am not rich!”*",
+        "line_number": 529,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 23459,
+        "char_end": 23619
+      },
+      {
+        "type": "goal",
+        "title": "Untitled",
+        "body": "**Imitating the Divine**\nIf the Divine is faithful, he also must be faithful; if free, he also must be free… Thus as an imitator of God must he follow Him in every deed and word.",
+        "line_number": 536,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 23644,
+        "char_end": 23837
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Doctor's Diagnosis**\nUnless indeed the mirror harms the ill-favoured man by showing him to himself just as he is.",
+        "line_number": 542,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 23875,
+        "char_end": 24012
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Life as a Festival**\nMost people are like cattle, caring only for the fodder (material gain). The philosopher is the spectator who asks, \"Who runs this fair, and why?\"",
+        "line_number": 548,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 24041,
+        "char_end": 24228
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**False Strength**\n*“My resolve is fixed!”* —Why so madman say too; but the more firmly they believe in their delusions, the more they stand in need of treatment.",
+        "line_number": 556,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 24559,
+        "char_end": 24739
+      },
+      {
+        "type": "perspective",
+        "title": "Untitled",
+        "body": "**The Universe is Home**\n*“O! when shall I see Athens and its Acropolis again?”* —Miserable man! art thou not contented with the daily sights that meet thine eyes? canst thou behold aught greater or nobler than the Sun, Moon, and Stars?",
+        "line_number": 562,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 24771,
+        "char_end": 25029
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Labors of the Mind**\nJust as Hercules cleared the earth of monsters, we must clear our minds of internal monsters (Fear, Envy, Avarice).",
+        "line_number": 568,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 25062,
+        "char_end": 25222
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**The Cup is Full**\nIf a man would pursue Philosophy, his first task is to **throw away conceit**. For it is impossible for a man to begin to learn what he has a conceit that he already knows.",
+        "line_number": 576,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 25616,
+        "char_end": 25826
+      },
+      {
+        "type": "the-mission",
+        "title": "Untitled",
+        "body": "**The Ideal Student**\nGive me but one young man… who stands forth a champion of this cause, and says, *“All else I renounce, content if I am but able to pass my life free from hindrance and trouble… to look up to heaven as a friend of God, fearing nothing that may come to pass!”*",
+        "line_number": 582,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 25858,
+        "char_end": 26160
+      },
+      {
+        "type": "question",
+        "title": "Untitled",
+        "body": "**The Diagnostic**\n“The question at stake,” said Epictetus, “is no common one; it is this:—**Are we in our senses, or are we not?**”",
+        "line_number": 588,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 26196,
+        "char_end": 26347
+      },
+      {
+        "type": "analysis-cognitive",
+        "title": "Untitled",
+        "body": "**Neuroplasticity of Virtue**\nHabits and faculties are necessarily affected by the corresponding acts…. By frequent repetition, the mind in the long run becomes callous; and thus this mental disease produces confirmed Avarice.",
+        "line_number": 594,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 26380,
+        "char_end": 26635
+      },
+      {
+        "type": "to-do",
+        "title": "Untitled",
+        "body": "**The 30-Day Challenge**\nIf you do not wish to be prone to anger, do not feed the habit… At first, keep quiet and count the days when you were not angry: *“I used to be angry every day, then every other day: next every two, next every three days!”* and **if you succeed in passing thirty days, sacrifice to the Gods in thanksgiving.**",
+        "line_number": 598,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 26636,
+        "char_end": 26986
+      },
+      {
+        "type": "disposition",
+        "title": "Untitled",
+        "body": "**Internal Validation**\nResolve, now if never before, to **approve thyself to thyself**; resolve to show thyself fair in God’s sight.",
+        "line_number": 604,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 27017,
+        "char_end": 27172
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Wrestling Match**\nWhy does God send difficulties? To train you.",
+        "line_number": 610,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 27205,
+        "char_end": 27292
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**The Stoic Prototype**\nShow me a man that is sick—and happy; an exile—and happy; in evil report—and happy! Show me him, I ask again. **So help me Heaven, I long to see one Stoic!**",
+        "line_number": 618,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 27610,
+        "char_end": 27812
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Authenticity**\nIf you have assumed a character beyond your strength, you have both played a poor figure in that, and **neglected one that is within your powers.**",
+        "line_number": 624,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 27845,
+        "char_end": 28027
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Garbage In, Garbage Out**\nWho comes to the School with a sincere wish to learn: to submit his principles to correction and himself to treatment? … Why then be surprised if you carry home from the School exactly what you bring into it?",
+        "line_number": 630,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 28063,
+        "char_end": 28317
+      },
+      {
+        "type": "skill",
+        "title": "Untitled",
+        "body": "**Active Listening**\n*“Is there, do you think,”* replied Epictetus, *“an art of speaking as of other things…?”*\n*“Yes.”*\n*“And are all profited by what they hear, or only some among them? So that it seems **there is an art of hearing as well as of speaking.**”*",
+        "line_number": 636,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 28349,
+        "char_end": 28630
+      },
+      {
+        "type": "social-dynamics",
+        "title": "Untitled",
+        "body": "**Interest Alignment**\nThe heart of a bad man is faithless… now overpowered by one impression, now by another…. Ask not the usual questions, Were they born of the same parents… but ask this only, **in what they place their real interest—whether in outward things or in the [[Will]].**",
+        "line_number": 644,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 28668,
+        "char_end": 28978
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**Unassailable Agency**\nNo man can rob us of our [[Will]]—no man can lord it over that!",
+        "line_number": 650,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 29012,
+        "char_end": 29124
+      },
+      {
+        "type": "meditation",
+        "title": "Untitled",
+        "body": "**Found in Action**\nWhen disease and death overtake me, **I would fain be found engaged in the task of liberating mine own Will** from the assaults of passion, from hindrance, from resentment, from slavery.",
+        "line_number": 656,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 29154,
+        "char_end": 29381
+      },
+      {
+        "type": "exemplar",
+        "title": "Untitled",
+        "body": "**Consistency**\nSeemeth it nothing to you, never to accuse, never to blame either God or Man? to wear ever the same countenance in going forth as in coming in? **This was the secret of Socrates.**",
+        "line_number": 662,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 29417,
+        "char_end": 29632
+      },
+      {
+        "type": "identity",
+        "title": "Untitled",
+        "body": "**Capacity for Shame**\nHow are we constituted by Nature? To be free, to be noble, to be modest (for what other living thing is capable of blushing…?)",
+        "line_number": 668,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 29669,
+        "char_end": 29837
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Wise Man's Field**\nThe husbandman deals with land; physicians and trainers with the body; **the wise man with his own Mind.**",
+        "line_number": 674,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 29875,
+        "char_end": 30024
+      },
+      {
+        "type": "story",
+        "title": "Untitled",
+        "body": "**Lycurgus and the Eye**\nLycurgus, instead of punishing the youth who blinded him, educated him.\n*“I received this young man at your hands full of violence and wanton insolence; I restore him to you in his right mind and fit to serve his country.”*",
+        "line_number": 680,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 30060,
+        "char_end": 30326
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Immediate Recognition**\nA money-changer may not reject Caesar’s coin… So is it also with the Soul. **Once the Good appears, it attracts towards itself; evil repels.**",
+        "line_number": 687,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 30357,
+        "char_end": 30543
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Shared Principles**\nThere are certain things which men not entirely perverted see by the natural principles common to all. Such a constitution of the Mind is called Common Sense.",
+        "line_number": 693,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 30566,
+        "char_end": 30767
+      },
+      {
+        "type": "leadership",
+        "title": "Untitled",
+        "body": "**Imitation over Coercion**\nCanst thou judge men? … then make us imitators of thyself, as Socrates did. Do this, do not do that, else will I cast thee into prison: this is not governing men like reasonable creatures.",
+        "line_number": 699,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 30800,
+        "char_end": 31037
+      },
+      {
+        "type": "analysis-logical",
+        "title": "Untitled",
+        "body": "**The Addition of Misfortune**\n*“His son is dead.”* —What has happened? —*“His son is dead.”*\n*“Nothing more?”* —*“Nothing.”*\n**But that any of these things are misfortunes to him, is an addition which every one makes of his own.**",
+        "line_number": 705,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 31067,
+        "char_end": 31329
+      },
+      {
+        "type": "review",
+        "title": "Untitled",
+        "body": "**Reviewing Principles**\nWhen did you ever undertake a voyage for the purpose of reviewing your own principles and getting rid of any of them that proved unsound? … Did you examine your principles when a boy?",
+        "line_number": 713,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 31360,
+        "char_end": 31585
+      },
+      {
+        "type": "comparison",
+        "title": "Untitled",
+        "body": "**Earthenware Principles**\nI am richer than you: I am not racked with anxiety… **Your vessels may be of gold, but your reason, your principles, your accepted views… are of earthenware.**",
+        "line_number": 719,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 31609,
+        "char_end": 31816
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Narrow Neck**\nSee children thrusting their hands into a narrow-necked jar, and striving to pull out the nuts and figs it contains: if they fill the hand, they cannot pull it out again, and then they fall to tears.\n*“Let go a few of them, and then you can draw out the rest!”*\n**You, too, let your desire go! covet not many things, and you will obtain.**",
+        "line_number": 725,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 31843,
+        "char_end": 32224
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Gentleness vs. Savagery**\nForgiveness is better than revenge. The one shows native gentleness, the other savagery.",
+        "line_number": 733,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 32248,
+        "char_end": 32384
+      },
+      {
+        "type": "dichotomy",
+        "title": "Untitled",
+        "body": "**My Part vs. His Part**\n*“My brother ought not to have treated me thus.”*\nTrue: but he must see to that. However he may treat me, I must deal rightly by him. **This is what lies with me, what none can hinder.**",
+        "line_number": 739,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 32424,
+        "char_end": 32657
+      },
+      {
+        "type": "theology",
+        "title": "Untitled",
+        "body": "**Self-Sufficiency**\nNevertheless a man should also be prepared to be sufficient unto himself—to dwell with himself alone, even as God dwells with Himself alone.",
+        "line_number": 746,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 32687,
+        "char_end": 32867
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Live Coal**\nA live coal placed next a dead one will either kindle that or be quenched by it…. Remembering that one cannot rub shoulders with a soot-stained man without sharing the soot oneself.",
+        "line_number": 752,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 32896,
+        "char_end": 33113
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Silence in Discipline**\nIf you are bent upon a little private discipline, wait till you are choking with heat some day—then take a mouthful of cold water, and spit it out again, and **tell no man!**",
+        "line_number": 758,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 33140,
+        "char_end": 33359
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Training for Benevolence**\nStudy how to give as one that is sick: that thou mayest hereafter give as one that is whole. Fast; drink water only; abstain altogether from desire, that thou mayest hereafter conform thy desire to Reason.",
+        "line_number": 765,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 33388,
+        "char_end": 33641
+      },
+      {
+        "type": "social-dynamics",
+        "title": "Untitled",
+        "body": "**Infectious Goodness**\nThou wouldst do good unto men? then show them by thine own example… Eating, do good to them that eat with thee; drinking, to them that drink with thee; yield unto all, give way, and bear with them. **Thus shalt thou do them good: but vent not upon them thine own evil humour!**",
+        "line_number": 771,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 33680,
+        "char_end": 34007
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Chorus vs. The Soloist**\nEven as bad actors cannot sing alone, but only in chorus: so some cannot walk alone. Man, if thou art aught, strive to walk alone and hold converse with thyself.",
+        "line_number": 777,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 34039,
+        "char_end": 34249
+      },
+      {
+        "type": "project-kickstarter",
+        "title": "Untitled",
+        "body": "**Count the Cost**\nEpictetus warns against starting a project (or a life philosophy) without assessing the daily price of maintaining it.",
+        "line_number": 783,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 34304,
+        "char_end": 34471
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**The Unlearned**\nHe that hath no musical instruction is a child in Music; he that hath no letters is a child in Learning; he that is untaught is a child in Life.",
+        "line_number": 793,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 34965,
+        "char_end": 35148
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Rod of Hermes**\n\"Touch what you will with it, they say, and it becomes gold.\"\nNay, but bring what you will and I will transmute it into Good. Bring sickness, bring death, bring poverty and reproach… all these things through the rod of Hermes shall be turned to profit.",
+        "line_number": 799,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 35181,
+        "char_end": 35475
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Environmental Protection**\nWithdraw then somewhere far from the sun, while you have these waxen sentiments.",
+        "line_number": 806,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 35502,
+        "char_end": 35629
+      },
+      {
+        "type": "role-definition",
+        "title": "Untitled",
+        "body": "**The Messenger of God**\nIf a man put his hand to so weighty a matter without [[God]], the wrath of God abides upon him… For the true Cynic is a spy, a herald, and a King.",
+        "line_number": 812,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 35664,
+        "char_end": 35861
+      },
+      {
+        "type": "metaphor",
+        "title": "Untitled",
+        "body": "**Reconnaissance of Reality**\nThe Cynic must know that he is sent as a Messenger from God to men… And like Diogenes… the Cynic must remember that he is a Spy. For a Spy he really is—to bring back word what things are on Man’s side, and what against him.",
+        "line_number": 818,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 35891,
+        "char_end": 36163
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**The Surgery**\nA Philosopher’s school is a Surgery: **pain, not pleasure, you should have felt therein.** For on entering none of you is whole.",
+        "line_number": 824,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 36200,
+        "char_end": 36364
+      },
+      {
+        "type": "duty",
+        "title": "Untitled",
+        "body": "**Divine Command Theory**\nKnow you not that the thing is a warfare? … Every life is a warfare, and that long and various. You must fulfil a soldier’s duty, and obey each order at your commander’s nod.",
+        "line_number": 830,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 36395,
+        "char_end": 36610
+      },
+      {
+        "type": "cosmos-concept",
+        "title": "Untitled",
+        "body": "**Transformation, Not Destruction**\n*“But these are words of evil omen.”* …\nAs well say that the fall of the leaf is of evil omen… **All these are changes from a former state into another; not destruction, but an ordered economy, a fixed administration.**",
+        "line_number": 836,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 36643,
+        "char_end": 36925
+      },
+      {
+        "type": "focus",
+        "title": "Untitled",
+        "body": "**Be Where You Are**\nIf you are in Gyaros, do not let your mind dwell upon life at Rome… Rather be intent on this—how he that lives in Gyaros may live in Gyaros like a man of spirit.",
+        "line_number": 843,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 36958,
+        "char_end": 37156
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Fear of Death**\nReflect that the chief source of all evils to Man, and of baseness and cowardice, is not death, but the fear of death.",
+        "line_number": 849,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 37186,
+        "char_end": 37351
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Autonomy**\n**He is free who lives as he wishes to live;** to whom none can do violence, none hinder or compel; whose impulses are unimpeded, whose desires are attain their purpose, who falls not into what he would avoid.",
+        "line_number": 855,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 37391,
+        "char_end": 37634
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Divine Convoy**\nA traveller attaches himself to a proconsul for safety against robbers. The wise man attaches himself to God.",
+        "line_number": 861,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 37668,
+        "char_end": 37817
+      },
+      {
+        "type": "affirmation",
+        "title": "Untitled",
+        "body": "**The Stoic Creed**\nI am free, I am a friend of [[God]], ready to render Him willing obedience. Of all else I may set store by nothing…",
+        "line_number": 867,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 37862,
+        "char_end": 38019
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Certainty**\nIf you seek Truth, you will not seek to gain a victory by every possible means; and when you have found Truth, you need not fear being defeated.",
+        "line_number": 873,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 38049,
+        "char_end": 38225
+      },
+      {
+        "type": "metaphor",
+        "title": "Untitled",
+        "body": "**The Palace Guard**\n*“Whom then shall I fear? the lords of the Bedchamber, lest they should shut me out?”*\nIf they find me desirous of entering in, let them shut me out… **There is no such thing as being shut out for me, but only for them that would force their way in.**",
+        "line_number": 879,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 38258,
+        "char_end": 38551
+      },
+      {
+        "type": "reframing",
+        "title": "Untitled",
+        "body": "**The Training Partner**\nIt is the critical moment that shows the man. So when the crisis is upon you, remember that God, like a trainer of wrestlers, has matched you with a rough and stalwart antagonist.\n*“To what end?”*\n**That you may prove the victor at the Great Games.**",
+        "line_number": 886,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 38575,
+        "char_end": 38874
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Nature of Evil**\nAs a mark is not set up in order to be missed, so neither is such a thing as natural evil produced in the World.",
+        "line_number": 894,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 38898,
+        "char_end": 39051
+      },
+      {
+        "type": "mental-model",
+        "title": "Untitled",
+        "body": "**The Handle of Bearability**\nEverything has two handles, one by which it may be borne, the other by which it may not.\nIf your brother sin against you lay not hold of it by the handle of injustice, for by that it may not be borne: but rather by this, that he is your brother… and **thus you will lay hold on it so that it may be borne.**",
+        "line_number": 900,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 39090,
+        "char_end": 39452
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Don't Talk, Do**\nNever call yourself a Philosopher nor talk much among the unlearned about Principles, but do that which follows from them. **Thus at a banquet, do not discuss how people ought to eat; but eat as you ought.**",
+        "line_number": 907,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 39485,
+        "char_end": 39729
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Body and Soul**\nAt feasts, remember that you are entertaining two guests, body and soul. What you give to the body, you presently lose; what you give to the soul, you keep for ever.",
+        "line_number": 913,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 39760,
+        "char_end": 39961
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Anechou kai Apechou**\nIf a man will only have these two words at heart… he will for the most part fall into no sin: **Bear and Forbear.**",
+        "line_number": 919,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 39999,
+        "char_end": 40158
+      },
+      {
+        "type": "metaphor",
+        "title": "Untitled",
+        "body": "**The Storm**\nThe ship is foundering. What then have I to do? I do the only thing that remains to me—to be drowned without fear… knowing that what has been born must likewise perish. **For I am not Eternity, but a human being—a part of the whole, as an hour is part of the day.**",
+        "line_number": 925,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 40197,
+        "char_end": 40495
+      },
+      {
+        "type": "prayer",
+        "title": "Untitled",
+        "body": "**The Exit Interview**\nIf death surprise me thus employed, it is enough if I can stretch forth my hands to God and say, *“The faculties which I received at Thy hands… I have not neglected. As far as in me lay, I have done Thee no dishonour… For that Thou didst beget me, I thank Thee for that Thou hast given: for the time during which I have used the things that were Thine, it suffices me. Take them back and place them wherever Thou wilt!”*",
+        "line_number": 931,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 40527,
+        "char_end": 40987
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Fragment XVI**\nA ship should not ride on a single anchor, nor life on a single hope.",
+        "line_number": 939,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 41020,
+        "char_end": 41126
+      },
+      {
+        "type": "to-do",
+        "title": "Untitled",
+        "body": "**Fragment XIX**\nThink of God more often than thou breathest.",
+        "line_number": 943,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 41127,
+        "char_end": 41204
+      },
+      {
+        "type": "hymn",
+        "title": "Untitled",
+        "body": "**Zeus, Sovereign of Nature**\n*Lead me, O God, and Thou, O Destiny!*\n*Be what it may the goal appointed me,*\n*Bravely I’ll follow; nay, and if I would not,*\n*I’d prove a coward, yet must follow still!*",
+        "line_number": 949,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md",
+        "char_start": 41244,
+        "char_end": 41466
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Prohairesis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prohairesis]]",
+        "line_number": 72,
+        "section": "IV. The Rules of Use",
+        "context_line": "> The only thing truly entrusted to us is our Will ([[Prohairesis]]).",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "God",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[God]]",
+        "line_number": 74,
+        "section": "IV. The Rules of Use",
+        "context_line": "But I have one whom I must please, to whom I must be subject, whom I must obey:—[[God]], and those who come next to Him. He hath entrusted me with myself: **He hath made my will subject to myself alone and given me rules for the right use thereof.**",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "God",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[God]]",
+        "line_number": 125,
+        "section": "IX. Dual Citizenship (Earth & Heaven)",
+        "context_line": "If a man could be throughly penetrated, as he ought, with this thought, that we are all in an especial manner sprung from [[God]], and that God is the Father of men as well as of Gods, full surely he would never conceive aught ignoble or base of himself…",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "God",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[God]]",
+        "line_number": 326,
+        "section": "XXXVI. The Cosmic Sympathy",
+        "context_line": "“Else how should the trees so regularly, as though by [[God]]’s command, at His bidding flower… How else, as the Moon waxes and wanes, as the Sun approaches and recedes, can it be that such vicissitude and alternation is seen in earthly things?”",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "Guardian Spirit",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Guardian Spirit]]",
+        "line_number": 336,
+        "section": "XXXVII. The Guardian Within",
+        "context_line": "Yet God hath placed by the side of each a man’s own [[Guardian Spirit]], who is charged to watch over him—a Guardian who sleeps not nor is deceived… So when you have shut the doors and made a darkness within, remember never to say that you are alone; **for you are not alone, but God is within, and your Guardian Spirit, and what light do they need to behold what you do?**",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "Will",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Will]]",
+        "line_number": 359,
+        "section": "XL. The Valuation of Status",
+        "context_line": "*“How does the good Felicion? Kindly let me know!”* … Had he not sold him as good-for-nothing? Who had in a trice converted him into a wiseacre? **This is what comes of holding of importance anything but the things that depend on the [[Will]].**",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "God",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[God]]",
+        "line_number": 572,
+        "section": "LXXI. The Hercules Mindset",
+        "context_line": "But thou art not Hercules, thou sayest, and canst not deliver others from their iniquity… **Purge away thine own, cast forth thence—from thine own mind, not robbers and monsters, but Fear, Desire, Envy, Malignity, Avarice, Effeminacy, Intemperance.** And these may not be cast out, except by looking to [[God]] alone, by fixing thy affections on Him only.",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "Will",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Will]]",
+        "line_number": 646,
+        "section": "LXXXII. The Basis of Friendship",
+        "context_line": "> The heart of a bad man is faithless… now overpowered by one impression, now by another…. Ask not the usual questions, Were they born of the same parents… but ask this only, **in what they place their real interest—whether in outward things or in the [[Will]].**",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "Will",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Will]]",
+        "line_number": 652,
+        "section": "LXXXIII. The Sovereign Will",
+        "context_line": "> No man can rob us of our [[Will]]—no man can lord it over that!",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "God",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[God]]",
+        "line_number": 814,
+        "section": "CX. The Calling of the Cynic",
+        "context_line": "> If a man put his hand to so weighty a matter without [[God]], the wrath of God abides upon him… For the true Cynic is a spy, a herald, and a King.",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "target": "God",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[God]]",
+        "line_number": 869,
+        "section": "CXLIV. The Declaration of Independence",
+        "context_line": "> I am free, I am a friend of [[God]], ready to render Him willing obedience. Of all else I may set store by nothing…",
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 3,
+        "text": "I. The Hymn of the Rational Being",
+        "anchor": "i-the-hymn-of-the-rational-being",
+        "line_number": 27,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "II. The Inn and the Destination",
+        "anchor": "ii-the-inn-and-the-destination",
+        "line_number": 49,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "III. Community",
+        "anchor": "iii-community",
+        "line_number": 63,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "IV. The Rules of Use",
+        "anchor": "iv-the-rules-of-use",
+        "line_number": 68,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "V. The Mirror of Faults",
+        "anchor": "v-the-mirror-of-faults",
+        "line_number": 76,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "VI. The Portion of God",
+        "anchor": "vi-the-portion-of-god",
+        "line_number": 84,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "VII. The Cost of Leadership",
+        "anchor": "vii-the-cost-of-leadership",
+        "line_number": 99,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "VIII. The Purple Thread",
+        "anchor": "viii-the-purple-thread",
+        "line_number": 105,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "IX. Dual Citizenship (Earth & Heaven)",
+        "anchor": "ix-dual-citizenship-earth-heaven",
+        "line_number": 119,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "X. The Definition of Self",
+        "anchor": "x-the-definition-of-self",
+        "line_number": 132,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XI. The Iron Lamp (Attachment)",
+        "anchor": "xi-the-iron-lamp-attachment",
+        "line_number": 138,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XII. The Price of Virtue",
+        "anchor": "xii-the-price-of-virtue",
+        "line_number": 148,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XIII. The Observer",
+        "anchor": "xiii-the-observer",
+        "line_number": 156,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XIV. The Great Spectacle",
+        "anchor": "xiv-the-great-spectacle",
+        "line_number": 164,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XV. The Cosmopolitan",
+        "anchor": "xv-the-cosmopolitan",
+        "line_number": 174,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XVI. Freedom from Fear",
+        "anchor": "xvi-freedom-from-fear",
+        "line_number": 180,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XVII. The Desire to Escape",
+        "anchor": "xvii-the-desire-to-escape",
+        "line_number": 186,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XVIII. The Divine Signal",
+        "anchor": "xviii-the-divine-signal",
+        "line_number": 194,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XIX. The Tyrant's Power",
+        "anchor": "xix-the-tyrants-power",
+        "line_number": 202,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XX. The Equipment for Life",
+        "anchor": "xx-the-equipment-for-life",
+        "line_number": 213,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXI. The Exemplar",
+        "anchor": "xxi-the-exemplar",
+        "line_number": 221,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXII. The Nature of Freedom",
+        "anchor": "xxii-the-nature-of-freedom",
+        "line_number": 227,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXIII. Cognitive Petrifaction",
+        "anchor": "xxiii-cognitive-petrifaction",
+        "line_number": 233,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXIV. The Trap of Ambition",
+        "anchor": "xxiv-the-trap-of-ambition",
+        "line_number": 241,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXV. Pity vs. Reality",
+        "anchor": "xxv-pity-vs-reality",
+        "line_number": 249,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXVI. The Definition of Instruction",
+        "anchor": "xxvi-the-definition-of-instruction",
+        "line_number": 255,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXVII. The Exchange Rate",
+        "anchor": "xxvii-the-exchange-rate",
+        "line_number": 261,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXVIII. Theological Stances",
+        "anchor": "xxviii-theological-stances",
+        "line_number": 267,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXIX. Freedom and Madness",
+        "anchor": "xxix-freedom-and-madness",
+        "line_number": 273,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXX. Maintenance of Principles",
+        "anchor": "xxx-maintenance-of-principles",
+        "line_number": 283,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXI. Solitude vs. Crowd",
+        "anchor": "xxxi-solitude-vs-crowd",
+        "line_number": 289,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXII. The True Prison",
+        "anchor": "xxxii-the-true-prison",
+        "line_number": 296,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXIII. The Measure of Greatness",
+        "anchor": "xxxiii-the-measure-of-greatness",
+        "line_number": 302,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXIV. Dealing with Slaves (and Hierarchy)",
+        "anchor": "xxxiv-dealing-with-slaves-and-hierarchy",
+        "line_number": 308,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXV. The Banquet of Life",
+        "anchor": "xxxv-the-banquet-of-life",
+        "line_number": 314,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXVI. The Cosmic Sympathy",
+        "anchor": "xxxvi-the-cosmic-sympathy",
+        "line_number": 320,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXVII. The Guardian Within",
+        "anchor": "xxxvii-the-guardian-within",
+        "line_number": 330,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXVIII. Managing Conflict",
+        "anchor": "xxxviii-managing-conflict",
+        "line_number": 338,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XXXIX. The Law of Growth",
+        "anchor": "xxxix-the-law-of-growth",
+        "line_number": 345,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XL. The Valuation of Status",
+        "anchor": "xl-the-valuation-of-status",
+        "line_number": 353,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLI. The Golden Rule of Slavery",
+        "anchor": "xli-the-golden-rule-of-slavery",
+        "line_number": 361,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLII. The Source of Thanks",
+        "anchor": "xlii-the-source-of-thanks",
+        "line_number": 367,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLIII. The Vanity of Monuments",
+        "anchor": "xliii-the-vanity-of-monuments",
+        "line_number": 373,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLIV. The Exit Strategy",
+        "anchor": "xliv-the-exit-strategy",
+        "line_number": 379,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLV. The Metaphor of Smoke",
+        "anchor": "xlv-the-metaphor-of-smoke",
+        "line_number": 385,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLVI. Cognitive Indigestion",
+        "anchor": "xlvi-cognitive-indigestion",
+        "line_number": 394,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLVII. The Unexamined Life",
+        "anchor": "xlvii-the-unexamined-life",
+        "line_number": 400,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLVIII. Preparation for Crisis",
+        "anchor": "xlviii-preparation-for-crisis",
+        "line_number": 406,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XLIX. The Witness for God",
+        "anchor": "xlix-the-witness-for-god",
+        "line_number": 417,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "L. The Feedback Loop",
+        "anchor": "l-the-feedback-loop",
+        "line_number": 425,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LI. The Catechism of Indifference",
+        "anchor": "li-the-catechism-of-indifference",
+        "line_number": 431,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LII. The Separation of Self and Body",
+        "anchor": "lii-the-separation-of-self-and-body",
+        "line_number": 440,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LIII. The Messenger",
+        "anchor": "liii-the-messenger",
+        "line_number": 446,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LIV. The Reversal of Judgment",
+        "anchor": "liv-the-reversal-of-judgment",
+        "line_number": 452,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LV. The Fear of Fear",
+        "anchor": "lv-the-fear-of-fear",
+        "line_number": 458,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LVI. The Part and the Whole",
+        "anchor": "lvi-the-part-and-the-whole",
+        "line_number": 467,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LVII. The Silver Coin",
+        "anchor": "lvii-the-silver-coin",
+        "line_number": 475,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LVIII. The Traveller and the Guide",
+        "anchor": "lviii-the-traveller-and-the-guide",
+        "line_number": 481,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LIX. The Nature of the Good",
+        "anchor": "lix-the-nature-of-the-good",
+        "line_number": 487,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LX. The God Within",
+        "anchor": "lx-the-god-within",
+        "line_number": 493,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXI. The Living Statue",
+        "anchor": "lxi-the-living-statue",
+        "line_number": 501,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXII. Useful Labor",
+        "anchor": "lxii-useful-labor",
+        "line_number": 507,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXIII. The Lost Traveller",
+        "anchor": "lxiii-the-lost-traveller",
+        "line_number": 513,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXIV. The Value of the Soul",
+        "anchor": "lxiv-the-value-of-the-soul",
+        "line_number": 519,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXV. The Reply to Arrogance",
+        "anchor": "lxv-the-reply-to-arrogance",
+        "line_number": 527,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXVI. Imitatio Dei",
+        "anchor": "lxvi-imitatio-dei",
+        "line_number": 534,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXVII. The Mirror of Philosophy",
+        "anchor": "lxvii-the-mirror-of-philosophy",
+        "line_number": 540,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXVIII. The Great Fair",
+        "anchor": "lxviii-the-great-fair",
+        "line_number": 546,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXIX. The Obstinate Fool",
+        "anchor": "lxix-the-obstinate-fool",
+        "line_number": 554,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXX. Nostalgia vs. Cosmos",
+        "anchor": "lxx-nostalgia-vs-cosmos",
+        "line_number": 560,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXI. The Hercules Mindset",
+        "anchor": "lxxi-the-hercules-mindset",
+        "line_number": 566,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXII. The Barrier to Learning",
+        "anchor": "lxxii-the-barrier-to-learning",
+        "line_number": 574,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXIII. The True Champion",
+        "anchor": "lxxiii-the-true-champion",
+        "line_number": 580,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXIV. The Question of Sanity",
+        "anchor": "lxxiv-the-question-of-sanity",
+        "line_number": 586,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXV. The Biology of Habit",
+        "anchor": "lxxv-the-biology-of-habit",
+        "line_number": 592,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXVI. The Self-Audience",
+        "anchor": "lxxvi-the-self-audience",
+        "line_number": 602,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXVII. The Divine Trainer",
+        "anchor": "lxxvii-the-divine-trainer",
+        "line_number": 608,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXVIII. The Definition of a Stoic",
+        "anchor": "lxxviii-the-definition-of-a-stoic",
+        "line_number": 616,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXIX. The Actor's Failure",
+        "anchor": "lxxix-the-actors-failure",
+        "line_number": 622,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXX. The Uncorrected Student",
+        "anchor": "lxxx-the-uncorrected-student",
+        "line_number": 628,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXI. The Art of Hearing",
+        "anchor": "lxxxi-the-art-of-hearing",
+        "line_number": 634,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXII. The Basis of Friendship",
+        "anchor": "lxxxii-the-basis-of-friendship",
+        "line_number": 642,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXIII. The Sovereign Will",
+        "anchor": "lxxxiii-the-sovereign-will",
+        "line_number": 648,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXIV. The Ideal Death",
+        "anchor": "lxxxiv-the-ideal-death",
+        "line_number": 654,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXV. The Secret of Socrates",
+        "anchor": "lxxxv-the-secret-of-socrates",
+        "line_number": 660,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXVI. The Human Constitution",
+        "anchor": "lxxxvi-the-human-constitution",
+        "line_number": 666,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXVII. The Professional Focus",
+        "anchor": "lxxxvii-the-professional-focus",
+        "line_number": 672,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXVIII. Restorative Justice",
+        "anchor": "lxxxviii-restorative-justice",
+        "line_number": 678,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "LXXXIX. The Coin of Good",
+        "anchor": "lxxxix-the-coin-of-good",
+        "line_number": 685,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XC. Common Sense",
+        "anchor": "xc-common-sense",
+        "line_number": 691,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCI. Leadership by Example",
+        "anchor": "xci-leadership-by-example",
+        "line_number": 697,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCII. Fact vs. Judgment",
+        "anchor": "xcii-fact-vs-judgment",
+        "line_number": 703,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCIII. The Audit of Life",
+        "anchor": "xciii-the-audit-of-life",
+        "line_number": 711,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCIV. True Wealth",
+        "anchor": "xciv-true-wealth",
+        "line_number": 717,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCV. The Jar of Nuts",
+        "anchor": "xcv-the-jar-of-nuts",
+        "line_number": 723,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCVI. Forgiveness",
+        "anchor": "xcvi-forgiveness",
+        "line_number": 731,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCVII. The Dichotomy of Relations",
+        "anchor": "xcvii-the-dichotomy-of-relations",
+        "line_number": 737,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCVIII. Divine Solitude",
+        "anchor": "xcviii-divine-solitude",
+        "line_number": 744,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "XCIX. Social Contagion",
+        "anchor": "xcix-social-contagion",
+        "line_number": 750,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Secret Asceticism",
+        "anchor": "c-secret-asceticism",
+        "line_number": 756,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CI. The Art of Giving",
+        "anchor": "ci-the-art-of-giving",
+        "line_number": 763,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CII. Social Contagion (Positive)",
+        "anchor": "cii-social-contagion-positive",
+        "line_number": 769,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CIII. The Solitary Singer",
+        "anchor": "ciii-the-solitary-singer",
+        "line_number": 775,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CIV. The Cost of Ambition (The Olympic Metaphor)",
+        "anchor": "civ-the-cost-of-ambition-the-olympic-metaphor",
+        "line_number": 781,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CV. The Definition of Childishness",
+        "anchor": "cv-the-definition-of-childishness",
+        "line_number": 791,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CVI. The Alchemy of Virtue",
+        "anchor": "cvi-the-alchemy-of-virtue",
+        "line_number": 797,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CVII. The Waxen Mind",
+        "anchor": "cvii-the-waxen-mind",
+        "line_number": 804,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CX. The Calling of the Cynic",
+        "anchor": "cx-the-calling-of-the-cynic",
+        "line_number": 810,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXIII. The Spy's Report",
+        "anchor": "cxiii-the-spys-report",
+        "line_number": 816,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXI. The School is a Hospital",
+        "anchor": "cxxi-the-school-is-a-hospital",
+        "line_number": 822,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXV. The Soldier's Post",
+        "anchor": "cxxv-the-soldiers-post",
+        "line_number": 828,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXX. The Nature of Change",
+        "anchor": "cxxx-the-nature-of-change",
+        "line_number": 834,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXXIII. Contextual Living",
+        "anchor": "cxxxiii-contextual-living",
+        "line_number": 841,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXXV. The Root of Fear",
+        "anchor": "cxxxv-the-root-of-fear",
+        "line_number": 847,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXXVI. The Definition of Freedom",
+        "anchor": "cxxxvi-the-definition-of-freedom",
+        "line_number": 853,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXXXVII. The Safe Traveller",
+        "anchor": "cxxxvii-the-safe-traveller",
+        "line_number": 859,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXLIV. The Declaration of Independence",
+        "anchor": "cxliv-the-declaration-of-independence",
+        "line_number": 865,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CXLIX. The Truth Seeker",
+        "anchor": "cxlix-the-truth-seeker",
+        "line_number": 871,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLII. The Open Door Policy",
+        "anchor": "clii-the-open-door-policy",
+        "line_number": 877,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLVII. The Crisis",
+        "anchor": "clvii-the-crisis",
+        "line_number": 884,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXII. The Target",
+        "anchor": "clxii-the-target",
+        "line_number": 892,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXXIV. The Two Handles (Famous)",
+        "anchor": "clxxiv-the-two-handles-famous",
+        "line_number": 898,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXXV. Theory vs. Practice",
+        "anchor": "clxxv-theory-vs-practice",
+        "line_number": 905,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXXVIII. The Two Guests",
+        "anchor": "clxxviii-the-two-guests",
+        "line_number": 911,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXXXIII. The Summary of Ethics",
+        "anchor": "clxxxiii-the-summary-of-ethics",
+        "line_number": 917,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXXXVI. The Captain of the Ship",
+        "anchor": "clxxxvi-the-captain-of-the-ship",
+        "line_number": 923,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "CLXXXIX. The Final Prayer",
+        "anchor": "clxxxix-the-final-prayer",
+        "line_number": 929,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "Appendix A: Fragments",
+        "anchor": "appendix-a-fragments",
+        "line_number": 937,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      },
+      {
+        "level": 3,
+        "text": "Appendix B: The Hymn of Cleanthes",
+        "anchor": "appendix-b-the-hymn-of-cleanthes",
+        "line_number": 947,
+        "source": "the-golden-sayings-of-epictetus-(annotated)-20251128012340.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "God",
+      "Guardian Spirit",
+      "Prohairesis",
+      "Will"
+    ],
+    "unique_wiki_link_count": 4,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "God",
+      "Guardian Spirit",
+      "Prohairesis",
+      "Will"
+    ]
+  }
+}

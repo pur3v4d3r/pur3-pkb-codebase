@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -70,6 +70,14 @@ see-also:
   - "[[Few-Shot-Learning|Few-Shot Learning]]"
   - "[[Emergent-Abilities|Emergent Abilities]]"
   - "[[Self-Consistency]]"
+  - "[[Tree-of-Thoughts|Tree of Thoughts]]"
+  - "[[Logical-Reasoning|Logical Reasoning]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[**Chanin-Of-Thought**|**Chanin Of Thought**]]"
+  - "[[Transformer-Architecture|Transformer Architecture]]"
+  - "[[Few-Shot-Learning|Few-Shot Learning]]"
+  - "[[Emergent-Abilities|Emergent Abilities]]"
+  - "[[Self-Consistency|Self-Consistency]]"
   - "[[Tree-of-Thoughts|Tree of Thoughts]]"
   - "[[Logical-Reasoning|Logical Reasoning]]"
   - "[[Working-Memory|Working Memory]]"
@@ -188,5 +196,17 @@ importance: medium
 - [[Circuit-Complexity-Theory|Circuit Complexity Theory]]
 - [[Mechanistic-Interpretability|Mechanistic Interpretability]]
 - [[Prompt-Engineering|Prompt Engineering]]
+
+**Related concepts** *(from prompt-report-chain-of-thought-logic-2025122305.md)*:
+[[**Chanin-Of-Thought**|**Chanin Of Thought**]] * [[Transformer-Architecture|Transformer Architecture]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Emergent-Abilities|Emergent Abilities]] * [[Tree-of-Thoughts|Tree of Thoughts]] * [[Logical-Reasoning|Logical Reasoning]] * [[Working-Memory|Working Memory]] * [[Jason-Wei|Jason Wei]] * [[Google-Research|Google Research]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]] * [[Large-Language-Models|Large Language Models]] * [[Symbolic-Logic|Symbolic Logic]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Wei-et-al.-(2022)|Wei et al. (2022)]]
+
+**Cross-report connections** *(from prompt-report-chain-of-thought-logic-2025122305.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attention-Mechanism|Attention Mechanism]]
+- [[Circuit-Complexity-Theory|Circuit Complexity Theory]]
+- [[Mechanistic-Interpretability|Mechanistic Interpretability]]
+- [[Prompt-Engineering|Prompt Engineering]]
+
+
 
 

@@ -409,7 +409,7 @@ extraction_summary:
 - [[Dhuliawala et al. (2023)]]
 - [[Dunlosky and Metcalfe (2009)]]
 - [[Evaluator Module]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Madaan et al. (2023)]]
 - [[Meta-Recursive Intelligence]]
 - [[Multi-Agent Metacognition and Collective Self-Improvement]]
@@ -432,7 +432,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**]] | — | — | Foundational Understanding | 146 |
-| 2 | [[John Flavell]] | — | — | 1.1 Cognitive Science Origins | 177 |
+| 2 | [[John-Flavell|John Flavell]] | — | — | 1.1 Cognitive Science Origins | 177 |
 | 3 | [[Nelson and Narens (1990)]] | — | — | 1.1 Cognitive Science Origins | 181 |
 | 4 | [[Dunlosky and Metcalfe (2009)]] | — | — | 1.1 Cognitive Science Origins | 188 |
 | 5 | [[Meta-Recursive Intelligence]] | — | — | 1.2 Transfer to Artificial Systems | 209 |
@@ -1097,7 +1097,7 @@ flowchart TB
 - [[Dhuliawala et al. (2023)]]
 - [[Dunlosky and Metcalfe (2009)]]
 - [[Evaluator Module]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Madaan et al. (2023)]]
 - [[Meta-Recursive Intelligence]]
 - [[Multi-Agent Metacognition and Collective Self-Improvement]]

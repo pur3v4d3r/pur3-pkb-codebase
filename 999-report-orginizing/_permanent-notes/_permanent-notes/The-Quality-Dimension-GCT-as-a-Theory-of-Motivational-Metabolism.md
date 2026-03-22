@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -68,17 +68,25 @@ see-also:
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|basic psychological needs]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Goal-Contents-Theory|Goal Contents Theory]]"
   - "[[Tim-Kasser|Tim Kasser]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|basic psychological needs]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Goal-Contents-Theory|Goal Contents Theory]]"
+  - "[[Tim-Kasser|Tim Kasser]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Basic-Psychological-Needs|basic psychological needs]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +124,7 @@ importance: high
 # The Quality Dimension: GCT as a Theory of Motivational Metabolism
 
 > [!definition] **The Quality Dimension: GCT as a Theory of Motivational Metabolism**
-> A second synthetic observation: GCT can be understood as introducing a *qualitative* dimension into what has often been treated as a purely quantitative domain of goal research. Most influential goal theories — [[Goal Setting Theory]] in particular — have focused on the quantitative features of goals: their difficulty, specificity, temporal framing, and commitment level. GCT's contribution is to insist that these quantitative features are insufficient to predict well-being outcomes and, indeed, that optimizing quantitative features of the wrong goal content may accelerate rather than prevent motivational damage. Pursuing extrinsic goals with maximum commitment, specificity, and difficulty — exactly what goal-setting theory recommends — may be the most reliable path to the attainment paradox. This suggests that the appropriate theoretical integration is not to replace quantitative goal research with GCT, but to treat goal content analysis as a prerequisite to quantitative goal optimization: first determine whether the goal is constituted to satisfy basic needs; *then* optimize its quantitative features. Without this sequencing, ambitious, committed, highly specific goal pursuit may be building elaborate scaffolding toward an impoverished destination.
+> A second synthetic observation: GCT can be understood as introducing a *qualitative* dimension into what has often been treated as a purely quantitative domain of goal research. Most influential goal theories — [[Goal-Setting-Theory]] in particular — have focused on the quantitative features of goals: their difficulty, specificity, temporal framing, and commitment level. GCT's contribution is to insist that these quantitative features are insufficient to predict well-being outcomes and, indeed, that optimizing quantitative features of the wrong goal content may accelerate rather than prevent motivational damage. Pursuing extrinsic goals with maximum commitment, specificity, and difficulty — exactly what goal-setting theory recommends — may be the most reliable path to the attainment paradox. This suggests that the appropriate theoretical integration is not to replace quantitative goal research with GCT, but to treat goal content analysis as a prerequisite to quantitative goal optimization: first determine whether the goal is constituted to satisfy basic needs; *then* optimize its quantitative features. Without this sequencing, ambitious, committed, highly specific goal pursuit may be building elaborate scaffolding toward an impoverished destination.
 
 ## Core Explanation
 
@@ -159,7 +167,7 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[hedonic-adaptation|hedonic adaptation]]
+- [[Hedonic-Adaptation|hedonic adaptation]]
 
 **Cross-report connections:**
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -169,13 +177,13 @@ importance: high
 - [[Growth-Mindset|Growth Mindset]]
 
 **Related concepts:**
-[[Goal-Contents-Theory|Goal Contents Theory]] · [[Tim-Kasser|Tim Kasser]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Aspiration-Index|Aspiration Index]] · [[Aspiration-Index|Aspiration Index]]
+[[Goal-Contents-Theory|Goal Contents Theory]] · [[Tim-Kasser|Tim Kasser]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Aspiration-Index|Aspiration Index]] · [[Aspiration-Index|Aspiration Index]]
 
 **Related concepts** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
-[[Goal-Contents-Theory|Goal Contents Theory]] * [[Tim-Kasser|Tim Kasser]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[basic-psychological-needs|basic psychological needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Aspiration-Index|Aspiration Index]] * [[psychological-well-being|psychological well-being]] * [[ill-being|ill-being]] * [[self-actualization|self-actualization]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Edward-Deci|Edward Deci]] * [[Contingent-self-worth|Contingent self-worth]] * [[Kennon-Sheldon|Kennon Sheldon]] * [[Self-Concordance-Model|Self-Concordance Model]]
+[[Goal-Contents-Theory|Goal Contents Theory]] * [[Tim-Kasser|Tim Kasser]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Aspiration-Index|Aspiration Index]] * [[psychological-well-being|psychological well-being]] * [[ill-being|ill-being]] * [[self-actualization|self-actualization]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Edward-Deci|Edward Deci]] * [[Contingent-Self-Worth|Contingent self-worth]] * [[Kennon-Sheldon|Kennon Sheldon]] * [[Self-Concordance-Model|Self-Concordance Model]]
 
 **Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
-- [[hedonic-adaptation|hedonic adaptation]]
+- [[Hedonic-Adaptation|hedonic adaptation]]
 
 **Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -183,6 +191,22 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Growth-Mindset|Growth Mindset]]
+
+**Related concepts** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+[[Goal-Contents-Theory|Goal Contents Theory]] * [[Tim-Kasser|Tim Kasser]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Aspiration-Index|Aspiration Index]] * [[psychological-well-being|psychological well-being]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Edward-Deci|Edward Deci]] * [[Contingent-Self-Worth|Contingent self-worth]] * [[Kennon-Sheldon|Kennon Sheldon]] * [[Self-Concordance-Model|Self-Concordance Model]] * [[Hedonic-Adaptation|hedonic adaptation]] * [[Motivational-Interviewing|Motivational Interviewing]]
+
+**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+- [[Hedonic-Adaptation|hedonic adaptation]]
+
+**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Growth-Mindset|Growth Mindset]]
+
+
+
 
 
 

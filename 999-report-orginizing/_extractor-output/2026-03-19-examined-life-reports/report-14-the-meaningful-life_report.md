@@ -166,7 +166,7 @@ extraction_summary:
 #### 6. [DEFINITION] Untitled *(Line 233)*
 
 > [!definition] Untitled
-> **[[Narrative Identity]]**
+> **[[Narrative-Identity|Narrative Identity]]**
 > The internalized, evolving, and integrative life story that a person constructs and maintains as their identity in time. Narrative identity synthesizes autobiographical memories with anticipated futures, providing life with a sense of unity, purpose, and moral coherence. It is not a passive reflection of what happened but an active meaning-making construction that selects, interprets, and integrates episodes into a narrative whole. The "Big Three" dimensions of narrative identity are coherence (logical and causal consistency of the story), agency (sense of the narrator as active shaper of their life), and communion (sense of meaningful connection to others).
 
 #### 7. [DEFINITION] Untitled *(Line 247)*
@@ -268,7 +268,7 @@ extraction_summary:
 #### 23. [DEFINITION] Untitled *(Line 459)*
 
 > [!definition] Untitled
-> **[[Narrative Identity]]** — The internalized, evolving, and integrative life story a person constructs to provide their existence with unity, purpose, and moral coherence. Synthesizes autobiographical memory with anticipated future. Key dimensions: coherence (logical and causal consistency), agency (active self-authorship), and communion (meaningful connection). Empirically associated with psychological well-being, generativity, and adaptive functioning.
+> **[[Narrative-Identity|Narrative Identity]]** — The internalized, evolving, and integrative life story a person constructs to provide their existence with unity, purpose, and moral coherence. Synthesizes autobiographical memory with anticipated future. Key dimensions: coherence (logical and causal consistency), agency (active self-authorship), and communion (meaningful connection). Empirically associated with psychological well-being, generativity, and adaptive functioning.
 
 #### 24. [DEFINITION] Untitled *(Line 462)*
 
@@ -450,13 +450,13 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Existential Frustration]]
 - [[Externalised]]
-- [[Fallibilist-Constructivist Epistemological Posture]]
+- [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]]
 - [[Frank Martela]]
 - [[Ikigai]]
 - [[Ikigai and Cross-Cultural Meaning Frameworks]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Ipseity]]
-- [[Jerome Bruner]]
+- [[Jerome-Bruner|Jerome Bruner]]
 - [[Laura King]]
 - [[Lawrence Calhoun]]
 - [[Logotherapy]]
@@ -467,7 +467,7 @@ extraction_summary:
 - [[Meaning-Making After Collective Trauma]]
 - [[Metacognition]]
 - [[Michael Steger]]
-- [[Narrative Identity]]
+- [[Narrative-Identity|Narrative Identity]]
 - [[Narrative Metacognition]]
 - [[Narrative Therapy]]
 - [[Narrative Thought]]
@@ -490,7 +490,7 @@ extraction_summary:
 - [[Springboard Effect]]
 - [[Steger]]
 - [[Stoic]]
-- [[Stoic Prosoche]]
+- [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoics]]
 - [[Strong Evaluation]]
 - [[Terror Management Theory]]
@@ -503,28 +503,28 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 2 | [[Fallibilist-Constructivist Epistemological Posture]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 2 | [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 3 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 4 | [[Constructive-Attentiveness|Constructive Attentiveness]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 5 | [[Stoic Prosoche]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 5 | [[Stoic-Prosoche|Stoic Prosoche]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 6 | [[Phronesis]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 7 | [[Physiological-Metacognition|Physiological Metacognition]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 8 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 9 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 10 | [[Socrates]] | — | — | Phase I — The Premise: The Unanswered... | 203 |
-| 11 | [[Narrative Identity]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
+| 11 | [[Narrative-Identity|Narrative Identity]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 12 | [[Logotherapy]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 13 | [[Will to Meaning]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 14 | [[Meaning in Life]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 15 | [[Eudaimonia]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 16 | [[Charles Taylor]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 17 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
-| 18 | [[Narrative Identity]] | — | — | Narrative Identity: The Story We Live By | 227 |
+| 18 | [[Narrative-Identity|Narrative Identity]] | — | — | Narrative Identity: The Story We Live By | 227 |
 | 19 | [[Dan McAdams]] | — | — | Narrative Identity: The Story We Live By | 227 |
 | 20 | [[McAdams, D.P.]] | McAdams | — | Narrative Identity: The Story We Live By | 227 |
 | 21 | [[Redemptive Self]] | — | — | Narrative Identity: The Story We Live By | 231 |
-| 22 | [[Narrative Identity]] | — | — | Narrative Identity: The Story We Live By | 234 |
-| 23 | [[Jerome Bruner]] | — | — | Narrative Identity: The Story We Live By | 237 |
+| 22 | [[Narrative-Identity|Narrative Identity]] | — | — | Narrative Identity: The Story We Live By | 234 |
+| 23 | [[Jerome-Bruner|Jerome Bruner]] | — | — | Narrative Identity: The Story We Live By | 237 |
 | 24 | [[Paradigmatic Thought]] | — | — | Narrative Identity: The Story We Live By | 237 |
 | 25 | [[Narrative Thought]] | — | — | Narrative Identity: The Story We Live By | 237 |
 | 26 | [[Paul Ricoeur]] | — | — | Narrative Identity: The Story We Live By | 239 |
@@ -565,13 +565,13 @@ extraction_summary:
 | 61 | [[Lawrence Calhoun]] | — | — | Post-Traumatic Growth: The Empirical ... | 389 |
 | 62 | [[Post-Traumatic Growth]] | — | — | Post-Traumatic Growth: The Empirical ... | 389 |
 | 63 | [[Seismic Event]] | — | — | Post-Traumatic Growth: The Empirical ... | 391 |
-| 64 | [[Fallibilist-Constructivist Epistemological Posture]] | — | — | Retroactive Enrichment: What Earlier ... | 419 |
+| 64 | [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] | — | — | Retroactive Enrichment: What Earlier ... | 419 |
 | 65 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | Retroactive Enrichment: What Earlier ... | 421 |
 | 66 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | Retroactive Enrichment: What Earlier ... | 423 |
 | 67 | [[Phronesis]] | — | — | Retroactive Enrichment: What Earlier ... | 425 |
 | 68 | [[Narrative Metacognition]] | — | — | The Full Emergent Insight Stated | 429 |
 | 69 | [[Predictive-Processing|Predictive Processing]] | — | — | Honest Limitations | 445 |
-| 70 | [[Narrative Identity]] | — | — | Key Terms Lexicon | 460 |
+| 70 | [[Narrative-Identity|Narrative Identity]] | — | — | Key Terms Lexicon | 460 |
 | 71 | [[Narrative Metacognition]] | — | — | Key Terms Lexicon | 463 |
 | 72 | [[Eudaimonia]] | — | — | Key Terms Lexicon | 466 |
 | 73 | [[Will to Meaning]] | — | — | Key Terms Lexicon | 469 |
@@ -636,13 +636,13 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Existential Frustration]]
 - [[Externalised]]
-- [[Fallibilist-Constructivist Epistemological Posture]]
+- [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]]
 - [[Frank Martela]]
 - [[Ikigai]]
 - [[Ikigai and Cross-Cultural Meaning Frameworks]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Ipseity]]
-- [[Jerome Bruner]]
+- [[Jerome-Bruner|Jerome Bruner]]
 - [[Laura King]]
 - [[Lawrence Calhoun]]
 - [[Logotherapy]]
@@ -653,7 +653,7 @@ extraction_summary:
 - [[Meaning-Making After Collective Trauma]]
 - [[Metacognition]]
 - [[Michael Steger]]
-- [[Narrative Identity]]
+- [[Narrative-Identity|Narrative Identity]]
 - [[Narrative Metacognition]]
 - [[Narrative Therapy]]
 - [[Narrative Thought]]
@@ -676,7 +676,7 @@ extraction_summary:
 - [[Springboard Effect]]
 - [[Steger]]
 - [[Stoic]]
-- [[Stoic Prosoche]]
+- [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoics]]
 - [[Strong Evaluation]]
 - [[Terror Management Theory]]
@@ -688,11 +688,11 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Narrative Identity]]
+- [[Narrative-Identity|Narrative Identity]]
 - [[Eudaimonia]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 #### Related
 

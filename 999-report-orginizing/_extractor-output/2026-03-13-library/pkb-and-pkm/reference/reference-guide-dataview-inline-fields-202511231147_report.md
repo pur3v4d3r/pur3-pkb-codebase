@@ -152,7 +152,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 42)*
 
 > [!the-purpose] Untitled
-> **Inline fields** are a core [[Dataview-Plugin|Dataview Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
+> **Inline fields** are a core [[Dataview-Plugin|Dataview Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML-Frontmatter|YAML Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
 
 #### 2. [DEFINITION] Untitled *(Line 47)*
 
@@ -540,7 +540,7 @@ extraction_summary:
 > 3. Create simple LIST queries accessing single fields
 > 
 > **Level 2: Integration**
-> 4. Mix inline fields with [[YAML Frontmatter]]
+> 4. Mix inline fields with [[YAML-Frontmatter|YAML Frontmatter]]
 > 5. Add fields to tasks and query with TASK command
 > 6. Build TABLE queries with multiple field columns
 > 
@@ -600,7 +600,7 @@ extraction_summary:
 - [[Note A]]
 - [[Note B]]
 - [[Note C]]
-- [[Obsidian Automation]]
+- [[Obsidian-Automation|Obsidian Automation]]
 - [[PKB System Design]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project Beta]]
@@ -608,7 +608,7 @@ extraction_summary:
 - [[Tech Writer]]
 - [[Templater]]
 - [[VP of Engineering]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[YAML Frontmatter in Obsidian]]
 
 ### All Occurrences
@@ -616,7 +616,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
-| 2 | [[YAML Frontmatter]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
+| 2 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
 | 3 | [[Dataview Query Language]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
 | 4 | [[Markdown]] | — | — | 📐 What Are Inline Fields? | 48 |
 | 5 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 📐 What Are Inline Fields? | 56 |
@@ -651,7 +651,7 @@ extraction_summary:
 | 34 | [[Engineering Team]] | — | — | Project Alpha | 580 |
 | 35 | [[Templater]] | — | — | Template Integration | 633 |
 | 36 | [[<% tp.system.prompt("Assign to") %>]] | — | — | <% tp.file.title %> | 650 |
-| 37 | [[YAML Frontmatter]] | — | — | 🎓 Learning Path & Resources | 763 |
+| 37 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🎓 Learning Path & Resources | 763 |
 | 38 | [[Templater]] | — | — | 🎓 Learning Path & Resources | 774 |
 | 39 | [[YAML Frontmatter in Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 787 |
 | 40 | [[Metadata Management]] | — | — | 🔗 Related Topics for PKB Expansion | 790 |
@@ -659,7 +659,7 @@ extraction_summary:
 | 42 | [[Dataview Query Language (DQL)]] | — | — | 🔗 Related Topics for PKB Expansion | 792 |
 | 43 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 795 |
 | 44 | [[DataviewJS for Advanced Queries]] | — | — | 🔗 Related Topics for PKB Expansion | 797 |
-| 45 | [[Obsidian Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 800 |
+| 45 | [[Obsidian-Automation|Obsidian Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 800 |
 | 46 | [[Metadata Architecture for Personal Knowledge Bases]] | — | — | 🔗 Related Topics for PKB Expansion | 802 |
 | 47 | [[PKB System Design]] | — | — | 🔗 Related Topics for PKB Expansion | 805 |
 
@@ -1328,7 +1328,7 @@ dv.list(Array.from(fields).sort());
 - [[Note A]]
 - [[Note B]]
 - [[Note C]]
-- [[Obsidian Automation]]
+- [[Obsidian-Automation|Obsidian Automation]]
 - [[PKB System Design]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project Beta]]
@@ -1336,7 +1336,7 @@ dv.list(Array.from(fields).sort());
 - [[Tech Writer]]
 - [[Templater]]
 - [[VP of Engineering]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[YAML Frontmatter in Obsidian]]
 
 ---

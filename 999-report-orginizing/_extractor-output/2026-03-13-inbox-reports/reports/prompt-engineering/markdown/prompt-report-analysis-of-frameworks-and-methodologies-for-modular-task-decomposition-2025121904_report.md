@@ -60,10 +60,10 @@ extraction_summary:
   - ## 🏗️ Theoretical Foundations: Cognitive Architecture as Design Blueprint
     - ### The Tripartite Structure of Cognitive Load
     - ### From Theory to Architecture: The [[Decomposition Imperative]]
-  - ## 🔬 The Methodological Landscape: From [[Chain of Thought]] to [[Modular Prompt Architecture]]
-    - ### [[Chain of Thought]] Prompting: The Foundation
+  - ## 🔬 The Methodological Landscape: From [[Chain-of-Thought|Chain of Thought]] to [[Modular Prompt Architecture]]
+    - ### [[Chain-of-Thought|Chain of Thought]] Prompting: The Foundation
     - ### [[Decomposed Prompting]]: Modular Sub-Task Delegation
-    - ### [[Tree of Thoughts]]: Parallel Exploration and Deliberate Search
+    - ### [[Tree-of-Thoughts|Tree of Thoughts]]: Parallel Exploration and Deliberate Search
     - ### [[Least-to-Most Prompting]]: Progressive Complexity Scaffolding
     - ### [[Modular Prompt Architecture]]: The Compositional Frontier
   - ## 📊 Comparative Analysis: When to Apply Each Methodology
@@ -134,7 +134,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Overview *(Line 114)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference document synthesizes cutting-edge research from 2023-2025 on <span style='color: #FFC700;'>**modular task decomposition**</span> as applied to <span style='color: #FFC700;'>**sequential prompt engineering**</span> for <span style='color: #FFC700;'>**high-fidelity long-form document generation**</span>. Drawing from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Human-Computer Interaction]] principles, and recent advances in [[Large Language Model]] optimization, this analysis explores how breaking complex cognitive tasks into manageable sub-components fundamentally transforms the quality, reliability, and scalability of AI-generated content. The document examines both theoretical underpinnings---rooted in [[Working-Memory|Working Memory]] constraints and [[Schema-Theory|Schema Theory]]---and practical implementations including [[Decomposed Prompting]], [[Chain of Thought]], [[Tree of Thoughts]], and emerging [[Modular Prompt Architecture]] methodologies.
+> This comprehensive reference document synthesizes cutting-edge research from 2023-2025 on <span style='color: #FFC700;'>**modular task decomposition**</span> as applied to <span style='color: #FFC700;'>**sequential prompt engineering**</span> for <span style='color: #FFC700;'>**high-fidelity long-form document generation**</span>. Drawing from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Human-Computer Interaction]] principles, and recent advances in [[Large Language Model]] optimization, this analysis explores how breaking complex cognitive tasks into manageable sub-components fundamentally transforms the quality, reliability, and scalability of AI-generated content. The document examines both theoretical underpinnings---rooted in [[Working-Memory|Working Memory]] constraints and [[Schema-Theory|Schema Theory]]---and practical implementations including [[Decomposed Prompting]], [[Chain-of-Thought|Chain of Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], and emerging [[Modular Prompt Architecture]] methodologies.
 
 #### 2. [PRINCIPLE-POINT] The Capacity Bottleneck Principle *(Line 125)*
 
@@ -263,7 +263,7 @@ extraction_summary:
 #### 13. [SUMMARY] 🎯 Essential Synthesis *(Line 552)*
 
 > [!summary] 🎯 Essential Synthesis
-> The transformation of long-form document generation from fragile, inconsistent processes to reliable, high-fidelity systems hinges on embracing modular task decomposition rooted in cognitive science principles. By understanding working memory constraints through [[Cognitive-Load-Theory|Cognitive Load Theory]], applying systematic decomposition methodologies from [[Chain of Thought]] through [[Modular Prompt Architecture]], and building specialized component libraries that can be composed systematically, we elevate prompt engineering from artisanal craft to systematic engineering discipline. The empirical evidence is unambiguous: decomposition is not merely advantageous but **architecturally necessary** for sustained quality in complex generation tasks. Organizations and practitioners adopting these principles report not incremental improvements but categorical transformations in output quality, reliability, and development velocity. As large language models continue advancing in capability, the bottleneck to extracting their full value increasingly lies not in model sophistication but in our ability to structure interactions that respect cognitive constraints and leverage compositional reasoning. The future of high-fidelity AI-generated content depends on mastering these decomposition principles.
+> The transformation of long-form document generation from fragile, inconsistent processes to reliable, high-fidelity systems hinges on embracing modular task decomposition rooted in cognitive science principles. By understanding working memory constraints through [[Cognitive-Load-Theory|Cognitive Load Theory]], applying systematic decomposition methodologies from [[Chain-of-Thought|Chain of Thought]] through [[Modular Prompt Architecture]], and building specialized component libraries that can be composed systematically, we elevate prompt engineering from artisanal craft to systematic engineering discipline. The empirical evidence is unambiguous: decomposition is not merely advantageous but **architecturally necessary** for sustained quality in complex generation tasks. Organizations and practitioners adopting these principles report not incremental improvements but categorical transformations in output quality, reliability, and development velocity. As large language models continue advancing in capability, the bottleneck to extracting their full value increasingly lies not in model sophistication but in our ability to structure interactions that respect cognitive constraints and leverage compositional reasoning. The future of high-fidelity AI-generated content depends on mastering these decomposition principles.
 
 #### 14. [ASK-YOURSELF-THIS] 🤔 Reflective Questions for Deep Integration *(Line 557)*
 
@@ -310,7 +310,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain of Thought Reasoning]]
 - [[Cognitive Architecture and Attention Mechanisms in Transformer Models]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -322,7 +322,7 @@ extraction_summary:
 - [[Error Propagation and Cascading Failure Modes in Sequential Prompt Systems]]
 - [[Explainable AI]]
 - [[Fault Tolerance]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Formal Verification]]
 - [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]]
 - [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]]
@@ -330,7 +330,7 @@ extraction_summary:
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Lambda Calculus]]
 - [[Large Language Model]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Least-to-Most Prompting]]
 - [[Meta-Learning]]
 - [[Meta-Learning and Automated Decomposition Strategy Discovery]]
@@ -338,7 +338,7 @@ extraction_summary:
 - [[Model Checking]]
 - [[Modular Prompt Architecture]]
 - [[Program Synthesis]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quality Assurance Protocols]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Schema-Theory|Schema Theory]]
@@ -346,7 +346,7 @@ extraction_summary:
 - [[Symbolic AI]]
 - [[Systematic Generalization]]
 - [[Transformer Architecture]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Type Systems]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Models]]
@@ -358,7 +358,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Document Start | 109 |
 | 2 | [[Chain of Thought Reasoning]] | — | — | Document Start | 109 |
-| 3 | [[Large Language Models]] | — | — | Document Start | 109 |
+| 3 | [[Large-Language-Models|Large Language Models]] | — | — | Document Start | 109 |
 | 4 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Document Start | 109 |
 | 5 | [[Human-Computer Interaction]] | — | — | Document Start | 109 |
 | 6 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
@@ -367,33 +367,33 @@ extraction_summary:
 | 9 | [[Working-Memory|Working Memory]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
 | 10 | [[Schema-Theory|Schema Theory]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
 | 11 | [[Decomposed Prompting]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
-| 12 | [[Chain of Thought]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
-| 13 | [[Tree of Thoughts]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
+| 12 | [[Chain-of-Thought|Chain of Thought]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
+| 13 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
 | 14 | [[Modular Prompt Architecture]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
-| 15 | [[Prompt Engineering]] | — | — | 🎯 The Fundamental Problem: Complexity... | 121 |
+| 15 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🎯 The Fundamental Problem: Complexity... | 121 |
 | 16 | [[Large Language Model]] | — | — | 🎯 The Fundamental Problem: Complexity... | 121 |
 | 17 | [[Working-Memory|Working Memory]] | — | — | 🎯 The Fundamental Problem: Complexity... | 123 |
 | 18 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Tripartite Structure of Cognitive... | 160 |
 | 19 | [[Decomposition Imperative]] | — | — | From Theory to Architecture: The [[De... | 162 |
 | 20 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | From Theory to Architecture: The [[De... | 166 |
 | 21 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | From Theory to Architecture: The [[De... | 168 |
-| 22 | [[Chain of Thought]] | — | — | 🔬 The Methodological Landscape: From ... | 177 |
+| 22 | [[Chain-of-Thought|Chain of Thought]] | — | — | 🔬 The Methodological Landscape: From ... | 177 |
 | 23 | [[Modular Prompt Architecture]] | — | — | 🔬 The Methodological Landscape: From ... | 177 |
-| 24 | [[Chain of Thought]] | — | — | [[Chain of Thought]] Prompting: The F... | 185 |
+| 24 | [[Chain-of-Thought|Chain of Thought]] | — | — | [[Chain-of-Thought|Chain of Thought]] Prompting: The F... | 185 |
 | 25 | [[Decomposed Prompting]] | — | — | [[Decomposed Prompting]]: Modular Sub... | 212 |
-| 26 | [[Tree of Thoughts]] | — | — | [[Tree of Thoughts]]: Parallel Explor... | 241 |
+| 26 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | [[Tree-of-Thoughts|Tree of Thoughts]]: Parallel Explor... | 241 |
 | 27 | [[Least-to-Most Prompting]] | — | — | [[Least-to-Most Prompting]]: Progress... | 278 |
 | 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | [[Least-to-Most Prompting]]: Progress... | 286 |
 | 29 | [[Modular Prompt Architecture]] | — | — | [[Modular Prompt Architecture]]: The ... | 315 |
-| 30 | [[Chain of Thought]] | — | — | 📊 Comparative Analysis: When to Apply... | 380 |
+| 30 | [[Chain-of-Thought|Chain of Thought]] | — | — | 📊 Comparative Analysis: When to Apply... | 380 |
 | 31 | [[Decomposed Prompting]] | — | — | 📊 Comparative Analysis: When to Apply... | 381 |
-| 32 | [[Tree of Thoughts]] | — | — | 📊 Comparative Analysis: When to Apply... | 382 |
+| 32 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 📊 Comparative Analysis: When to Apply... | 382 |
 | 33 | [[Least-to-Most Prompting]] | — | — | 📊 Comparative Analysis: When to Apply... | 383 |
 | 34 | [[Modular Prompt Architecture]] | — | — | 📊 Comparative Analysis: When to Apply... | 384 |
 | 35 | [[Decomposed Prompting]] | — | — | The Multi-Phase Architecture | 422 |
 | 36 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | The Multi-Phase Architecture | 439 |
 | 37 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎓 Synthesis and Implications for Prac... | 553 |
-| 38 | [[Chain of Thought]] | — | — | 🎓 Synthesis and Implications for Prac... | 553 |
+| 38 | [[Chain-of-Thought|Chain of Thought]] | — | — | 🎓 Synthesis and Implications for Prac... | 553 |
 | 39 | [[Modular Prompt Architecture]] | — | — | 🎓 Synthesis and Implications for Prac... | 553 |
 | 40 | [[Cognitive Architecture and Attention Mechanisms in Transformer Models]] | — | — | 1. **[[Cognitive Architecture and Att... | 571 |
 | 41 | [[Working-Memory|Working Memory]] | — | — | 1. **[[Cognitive Architecture and Att... | 572 |
@@ -417,7 +417,7 @@ extraction_summary:
 | 59 | [[Mixed-Initiative Systems]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 599 |
 | 60 | [[Meta-Learning and Automated Decomposition Strategy Discovery]] | — | — | 5. **[[Meta-Learning and Automated De... | 603 |
 | 61 | [[Meta-Learning]] | — | — | 5. **[[Meta-Learning and Automated De... | 608 |
-| 62 | [[Few-Shot Learning]] | — | — | 5. **[[Meta-Learning and Automated De... | 608 |
+| 62 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | 5. **[[Meta-Learning and Automated De... | 608 |
 | 63 | [[Program Synthesis]] | — | — | 5. **[[Meta-Learning and Automated De... | 608 |
 | 64 | [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]] | — | — | 6. **[[Formal Verification and Correc... | 610 |
 | 65 | [[Formal Verification]] | — | — | 6. **[[Formal Verification and Correc... | 615 |
@@ -722,9 +722,9 @@ Output: Publication-ready document with quality report
 
 | <span style='color: #FFC700;'>**Methodology**</span> | <span style='color: #72FFF1;'>**Best For**</span> | <span style='color: #FF00DC;'>**Limitations**</span> | <span style='color: #27FF00;'>**Key Advantage**</span> |
 | --- | --- | --- | --- |
-| [[Chain of Thought]] | Linear multi-step reasoning; arithmetic; logic puzzles | Struggles with parallel constraints; doesn't support backtracking | <span style='color: #27FF00;'>Simplicity; broad applicability; strong zero-shot performance</span> |
+| [[Chain-of-Thought|Chain of Thought]] | Linear multi-step reasoning; arithmetic; logic puzzles | Struggles with parallel constraints; doesn't support backtracking | <span style='color: #27FF00;'>Simplicity; broad applicability; strong zero-shot performance</span> |
 | [[Decomposed Prompting]] | Heterogeneous sub-tasks; tasks benefiting from specialized handlers; integration with symbolic systems | Requires upfront decomposition design; orchestration complexity | <span style='color: #27FF00;'>Modularity; specialist optimization; hybrid system integration</span> |
-| [[Tree of Thoughts]] | Creative generation; problems with multiple solution paths; search-intensive tasks | Computational cost (multiple parallel evaluations); requires good heuristics | <span style='color: #27FF00;'>Systematic exploration; graceful handling of dead ends</span> |
+| [[Tree-of-Thoughts|Tree of Thoughts]] | Creative generation; problems with multiple solution paths; search-intensive tasks | Computational cost (multiple parallel evaluations); requires good heuristics | <span style='color: #27FF00;'>Systematic exploration; graceful handling of dead ends</span> |
 | [[Least-to-Most Prompting]] | Problems with clear complexity gradients; compositional generalization; learning from simpler cases | Less effective when sub-problems lack clear ordering | <span style='color: #27FF00;'>Progressive scaffolding; compositional reasoning support</span> |
 | [[Modular Prompt Architecture]] | Organizational-scale systems; reusable workflows; maintaining large prompt libraries | Initial development overhead; requires systematic design | <span style='color: #27FF00;'>Reusability; testability; maintainability; team scalability</span> |
 
@@ -908,7 +908,7 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain of Thought Reasoning]]
 - [[Cognitive Architecture and Attention Mechanisms in Transformer Models]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -920,7 +920,7 @@ $$
 - [[Error Propagation and Cascading Failure Modes in Sequential Prompt Systems]]
 - [[Explainable AI]]
 - [[Fault Tolerance]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Formal Verification]]
 - [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]]
 - [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]]
@@ -928,7 +928,7 @@ $$
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Lambda Calculus]]
 - [[Large Language Model]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Least-to-Most Prompting]]
 - [[Meta-Learning]]
 - [[Meta-Learning and Automated Decomposition Strategy Discovery]]
@@ -936,7 +936,7 @@ $$
 - [[Model Checking]]
 - [[Modular Prompt Architecture]]
 - [[Program Synthesis]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Quality Assurance Protocols]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Schema-Theory|Schema Theory]]
@@ -944,7 +944,7 @@ $$
 - [[Symbolic AI]]
 - [[Systematic Generalization]]
 - [[Transformer Architecture]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Type Systems]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Models]]

@@ -5,6 +5,7 @@
 title: "Procedural Memory"
 aliases:
   - "Procedural Memory"
+  - "procedural-memory"
 type: permanent-note
 status: evergreen
 confidence: high

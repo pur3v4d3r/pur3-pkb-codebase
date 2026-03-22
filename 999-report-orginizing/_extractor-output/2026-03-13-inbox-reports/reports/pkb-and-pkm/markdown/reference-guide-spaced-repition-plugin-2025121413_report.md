@@ -384,7 +384,7 @@ extraction_summary:
 #### 12. [HELPFUL-TIP] Untitled *(Line 669)*
 
 > [!helpful-tip] Untitled
-> Use [[YAML Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.
+> Use [[YAML-Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.
 
 #### 13. [WARNING] Untitled *(Line 689)*
 
@@ -515,9 +515,9 @@ extraction_summary:
 - [[Study Strategies]]
 - [[SuperMemo]]
 - [[SuperMemo Algorithm (SM-2)]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 
 ### All Occurrences
@@ -534,7 +534,7 @@ extraction_summary:
 | 8 | [[Markdown]] | — | — | Key Capabilities | 401 |
 | 9 | [[FSRS Algorithm]] | FSRS | — | Key Capabilities | 403 |
 | 10 | [[Obsidian]] | — | — | Standard Installation | 413 |
-| 11 | [[YAML Frontmatter]] | frontmatter tags | — | Tag-Based Decks (Recommended for Most... | 670 |
+| 11 | [[YAML-Frontmatter|YAML Frontmatter]] | frontmatter tags | — | Tag-Based Decks (Recommended for Most... | 670 |
 | 12 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | MOCs | — | 📝 Whole-Note Review | 743 |
 | 13 | [[SuperMemo]] | SM-2 algorithm | — | 🧮 Scheduling Algorithm: SM-2-OSR | 793 |
 | 14 | [[Obsidian Spaced Repetition Recall]] | obsidian-spaced-repetition-recall | — | Future Algorithm: FSRS | 850 |
@@ -549,7 +549,7 @@ extraction_summary:
 | 23 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | MOCs | — | PKM System Integration | 1136 |
 | 24 | [[Dataview]] | — | — | Plugin Synergies | 1141 |
 | 25 | [[Templater]] | — | — | Plugin Synergies | 1149 |
-| 26 | [[Tasks Plugin]] | — | — | Flashcards | 1161 |
+| 26 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Flashcards | 1161 |
 | 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Flashcards | 1164 |
 | 28 | [[Spaced Repetition Theory]] | — | — | Related Concepts for PKB Expansion | 1173 |
 | 29 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Related Concepts for PKB Expansion | 1176 |
@@ -1194,9 +1194,9 @@ for (let letter of sortedLetters) {
 - [[Study Strategies]]
 - [[SuperMemo]]
 - [[SuperMemo Algorithm (SM-2)]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 
 ---

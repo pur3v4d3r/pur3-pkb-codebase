@@ -152,23 +152,23 @@ extraction_summary:
 #### 3. [ABSTRACT] 📜 Overview *(Line 131)*
 
 > [!abstract] 📜 Overview
-> This encyclopedic examination explores the profound intersection between ancient [[Stoicism|Stoic]] philosophical practices and contemporary [[Cognitive Neuroscience|cognitive neuroscientific]] understanding of learning and behavior change. At its core lies the systematic investigation of how [[Reflective Writing|reflective writing]]—particularly as exemplified in the [[Marcus Aurelius|Stoic]] journaling tradition—functions as a sophisticated instrument for [[Metacognitive-Monitoring|metacognitive monitoring]], facilitating [[Memory Consolidation|memory consolidation]] processes and enabling sustainable [[Behavioral Modification|behavioral modification]] through mechanisms now validated by modern neuroscience and educational psychology research.
+> This encyclopedic examination explores the profound intersection between ancient [[Stoicism|Stoic]] philosophical practices and contemporary [[cognitive-neuroscience|cognitive neuroscientific]] understanding of learning and behavior change. At its core lies the systematic investigation of how [[Reflective Writing|reflective writing]]—particularly as exemplified in the [[Marcus-Aurelius|Stoic]] journaling tradition—functions as a sophisticated instrument for [[Metacognitive-Monitoring|metacognitive monitoring]], facilitating [[Memory-Consolidation|memory consolidation]] processes and enabling sustainable [[Behavioral Modification|behavioral modification]] through mechanisms now validated by modern neuroscience and educational psychology research.
 
 #### 4. [DEFINITION] 🔑 Core Concept Definition *(Line 134)*
 
 > [!definition] 🔑 Core Concept Definition
-> **Stoic Journaling as Metacognitive Tool**: The systematic practice of written self-examination rooted in ancient [[Stoic-Philosophy|Stoic philosophy]], wherein practitioners engage in structured reflection to monitor cognitive processes, evaluate judgments, regulate emotional responses, and consciously reshape behavioral patterns through the externalization of thought into permanent textual form. This practice operates simultaneously as philosophical discipline, cognitive scaffold, and neuroplasticity intervention, bridging the 2000-year gap between [[Marcus Aurelius]]'s *Meditations* and contemporary research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]].
+> **Stoic Journaling as Metacognitive Tool**: The systematic practice of written self-examination rooted in ancient [[Stoic-Philosophy|Stoic philosophy]], wherein practitioners engage in structured reflection to monitor cognitive processes, evaluate judgments, regulate emotional responses, and consciously reshape behavioral patterns through the externalization of thought into permanent textual form. This practice operates simultaneously as philosophical discipline, cognitive scaffold, and neuroplasticity intervention, bridging the 2000-year gap between [[Marcus-Aurelius|Marcus Aurelius]]'s *Meditations* and contemporary research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]].
 
 #### 5. [THE-PHILOSOPHY] ⚖️ Philosophical Framework *(Line 147)*
 
 > [!the-philosophy] ⚖️ Philosophical Framework
 > The Stoic journaling practice rests on several interconnected philosophical premises that map onto modern cognitive science with remarkable fidelity:
 > 
-> **The Dichotomy of Control**: Marcus teaches distinguishing between controllable and uncontrollable elements, directing all energy toward affecting controllable elements while accepting the rest as immutable—a framework that reduces [[Cognitive Load Theory|extraneous cognitive load]] by eliminating futile mental processing of unchangeable circumstances.
+> **The Dichotomy of Control**: Marcus teaches distinguishing between controllable and uncontrollable elements, directing all energy toward affecting controllable elements while accepting the rest as immutable—a framework that reduces [[Cognitive-Load-Theory|extraneous cognitive load]] by eliminating futile mental processing of unchangeable circumstances.
 > 
-> **Rational Supremacy Over Emotional Reactivity**: Stoic philosophy taught that events themselves are neutral, with only judgments about them creating suffering or joy, establishing a conceptual foundation for what modern [[Cognitive-Behavioral Therapy|CBT]] identifies as the mediating role of cognition between environmental stimuli and emotional responses.
+> **Rational Supremacy Over Emotional Reactivity**: Stoic philosophy taught that events themselves are neutral, with only judgments about them creating suffering or joy, establishing a conceptual foundation for what modern [[Cognitive-Behavioral-Therapy|CBT]] identifies as the mediating role of cognition between environmental stimuli and emotional responses.
 > 
-> **Systematic Self-Examination as Virtue Cultivation**: The practice operates as what [[Pierre Hadot]] termed "spiritual exercises"—not religious observances but systematic techniques for transforming consciousness and behavior through disciplined mental training.
+> **Systematic Self-Examination as Virtue Cultivation**: The practice operates as what [[Pierre-Hadot|Pierre Hadot]] termed "spiritual exercises"—not religious observances but systematic techniques for transforming consciousness and behavior through disciplined mental training.
 
 #### 6. [KEY-CLAIM] 💡 Central Argument: The Triple Function of Reflective Writing *(Line 168)*
 
@@ -233,7 +233,7 @@ extraction_summary:
 > 
 > → [[Neuroplasticity]]: Provides mechanism for practice-dependent neural changes supporting enhanced executive function and emotional regulation.
 > 
-> → [[Memory Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
+> → [[Memory-Consolidation|Memory Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
 > 
 > → [[Habit-Formation|Habit Formation]]: Establishes meta-habit of systematic reflection that monitors and reinforces object-level behavioral patterns.
 
@@ -284,11 +284,11 @@ extraction_summary:
 #### 16. [SUMMARY] 🎯 Synthesis and Integration *(Line 399)*
 
 > [!summary] 🎯 Synthesis and Integration
-> The examination of Stoic journaling practices through contemporary cognitive neuroscience reveals remarkable convergence between ancient philosophical wisdom and modern empirical findings. [[Marcus Aurelius]]'s systematic evening reflections, written nearly two millennia before the development of cognitive psychology or neuroscience, nevertheless instantiated sophisticated mechanisms for [[Metacognitive Monitoring|metacognitive enhancement]], [[Memory Consolidation|memory consolidation optimization]], and [[Behavioral Modification|sustainable behavior change]] that research now validates through controlled investigation.
+> The examination of Stoic journaling practices through contemporary cognitive neuroscience reveals remarkable convergence between ancient philosophical wisdom and modern empirical findings. [[Marcus-Aurelius|Marcus Aurelius]]'s systematic evening reflections, written nearly two millennia before the development of cognitive psychology or neuroscience, nevertheless instantiated sophisticated mechanisms for [[Metacognitive-Monitoring|metacognitive enhancement]], [[Memory-Consolidation|memory consolidation optimization]], and [[Behavioral Modification|sustainable behavior change]] that research now validates through controlled investigation.
 > 
 > The practice operates through multiple simultaneous mechanisms: externalizing mental content to reduce [[Working-Memory|working memory]] load and enable [[Cognitive-Offloading-—-Cognitive-Psychology|cognitive offloading]]; forcing explicit awareness of normally automatic cognitive processes to strengthen [[Metacognitive-Monitoring|metacognitive monitoring]]; creating textual permanence that enables longitudinal pattern recognition impossible in purely internal thought; priming content for sleep-dependent consolidation through pre-sleep organization; and establishing behavioral commitments that leverage consistency motivation and identity alignment to sustain action.
 > 
-> Contemporary applications benefit from integrating Stoic philosophical foundations with empirical insights from [[Self-Regulated Learning|SRL theory]], [[Self-Determination Theory|SDT]], [[Cognitive-Load-Theory|Cognitive Load Theory]], and [[Neuroplasticity|neuroscience]]. Optimal implementation balances structure with flexibility, consistency with sustainability, and honest self-examination with compassionate non-judgment. The practice proves valuable across diverse domains—academic learning, emotional regulation, habit formation, professional development—though individual responsiveness varies and long-term effects require further investigation.
+> Contemporary applications benefit from integrating Stoic philosophical foundations with empirical insights from [[Self-Regulated-Learning|SRL theory]], [[Self-Determination-Theory|SDT]], [[Cognitive-Load-Theory|Cognitive Load Theory]], and [[Neuroplasticity|neuroscience]]. Optimal implementation balances structure with flexibility, consistency with sustainability, and honest self-examination with compassionate non-judgment. The practice proves valuable across diverse domains—academic learning, emotional regulation, habit formation, professional development—though individual responsiveness varies and long-term effects require further investigation.
 > 
 > Ultimately, Stoic journaling represents more than a productivity technique or therapeutic intervention; it constitutes a comprehensive cognitive technology for systematic self-cultivation through recursive reflection, enabling practitioners to progressively refine their thinking, feeling, and acting toward greater alignment with consciously chosen values and principles.
 
@@ -342,7 +342,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Amygdala]]
 - [[Automaticity]]
 - [[Autonomy]]
@@ -355,30 +355,30 @@ extraction_summary:
 - [[Cognitive Distortion]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Competence]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dorsolateral Prefrontal Cortex]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Elaborative-Rehearsal|Elaborative Rehearsal]]
 - [[Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
-- [[Goal Setting Theory]]
+- [[Goal-Setting-Theory|Goal Setting Theory]]
 - [[Habit-Formation|Habit Formation]]
 - [[Implementation Intention]]
 - [[Journaling]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Long-Term Potentiation]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Medial Prefrontal Cortex]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Memory-Systems|Memory Systems]]
 - [[Metacognition]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
@@ -386,14 +386,14 @@ extraction_summary:
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Mindfulness Meditation]]
 - [[Neuroplasticity]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Posterior Cingulate Cortex]]
 - [[Progress Principle]]
 - [[Reflective Writing]]
 - [[Relatedness]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Rumination]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation Development]]
@@ -416,35 +416,35 @@ extraction_summary:
 | 2 | [[Stoicism]] | — | — | Claude Thinking: | 110 |
 | 3 | [[Metacognition]] | — | — | Claude Thinking: | 110 |
 | 4 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Claude Thinking: | 110 |
-| 5 | [[Memory Consolidation]] | — | — | Claude Thinking: | 110 |
+| 5 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Claude Thinking: | 110 |
 | 6 | [[Behavioral Modification]] | — | — | Claude Thinking: | 110 |
 | 7 | [[Reflective Writing]] | — | — | Claude Thinking: | 110 |
-| 8 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 110 |
+| 8 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 110 |
 | 9 | [[Seneca]] | — | — | Claude Thinking: | 110 |
 | 10 | [[Epictetus]] | — | — | Claude Thinking: | 110 |
 | 11 | [[Working-Memory|Working Memory]] | — | — | Claude Thinking: | 110 |
 | 12 | [[Neuroplasticity]] | — | — | Claude Thinking: | 110 |
 | 13 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Claude Thinking: | 110 |
-| 14 | [[Executive Function]] | — | — | Claude Thinking: | 110 |
+| 14 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 110 |
 | 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 110 |
-| 16 | [[Deliberate Practice]] | — | — | Claude Thinking: | 110 |
+| 16 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Claude Thinking: | 110 |
 | 17 | [[Habit-Formation|Habit Formation]] | — | — | Claude Thinking: | 110 |
 | 18 | [[Emotional Regulation]] | — | — | Claude Thinking: | 110 |
 | 19 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 110 |
 | 20 | [[Journaling]] | — | — | Claude Thinking: | 110 |
 | 21 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Claude Thinking: | 110 |
 | 22 | [[Stoicism]] | Stoic | — | Claude Thinking: | 132 |
-| 23 | [[Cognitive Neuroscience]] | cognitive neuroscientific | — | Claude Thinking: | 132 |
+| 23 | [[cognitive-neuroscience|Cognitive Neuroscience]] | cognitive neuroscientific | — | Claude Thinking: | 132 |
 | 24 | [[Reflective Writing]] | reflective writing | — | Claude Thinking: | 132 |
-| 25 | [[Marcus Aurelius]] | Stoic | — | Claude Thinking: | 132 |
+| 25 | [[Marcus-Aurelius|Marcus Aurelius]] | Stoic | — | Claude Thinking: | 132 |
 | 26 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | Claude Thinking: | 132 |
-| 27 | [[Memory Consolidation]] | memory consolidation | — | Claude Thinking: | 132 |
+| 27 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | Claude Thinking: | 132 |
 | 28 | [[Behavioral Modification]] | behavioral modification | — | Claude Thinking: | 132 |
 | 29 | [[Stoicism]] | Stoic philosophy | — | Claude Thinking: | 135 |
-| 30 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 135 |
+| 30 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 135 |
 | 31 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning | — | Claude Thinking: | 135 |
 | 32 | [[Stoicism]] | — | — | 🏛️ Historical and Philosophical Found... | 139 |
-| 33 | [[Marcus Aurelius]] | Roman Emperor Marcus Aurelius | — | 🏛️ Historical and Philosophical Found... | 139 |
+| 33 | [[Marcus-Aurelius|Marcus Aurelius]] | Roman Emperor Marcus Aurelius | — | 🏛️ Historical and Philosophical Found... | 139 |
 | 34 | [[Stoicism]] | Stoic | — | 🏛️ Historical and Philosophical Found... | 139 |
 | 35 | [[Cognitive-Psychology|Cognitive Psychology]] | cognitive psychology | — | 🏛️ Historical and Philosophical Found... | 141 |
 | 36 | [[Self-Regulation-Theory]] | cognitive self-regulation | — | 🏛️ Historical and Philosophical Found... | 141 |
@@ -454,36 +454,36 @@ extraction_summary:
 | 40 | [[Cognitive-Bias|Cognitive Bias]] | cognitive distortion | — | 🏛️ Historical and Philosophical Found... | 143 |
 | 41 | [[Emotional Dysregulation]] | emotional reactivity | — | 🏛️ Historical and Philosophical Found... | 143 |
 | 42 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🏛️ Historical and Philosophical Found... | 143 |
-| 43 | [[Marcus Aurelius]] | — | — | 🏛️ Historical and Philosophical Found... | 145 |
+| 43 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 44 | [[Metacognition]] | metacognitive monitoring | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 45 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 46 | [[Locus-of-Control|Locus of Control]] | locus of control | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 47 | [[Cognitive-Load|Cognitive Load]] | cognitive load | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 48 | [[Rumination]] | maladaptive rumination | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 49 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | extraneous cognitive load | — | 🏛️ Historical and Philosophical Found... | 150 |
-| 50 | [[Cognitive-Behavioral Therapy]] | CBT | — | 🏛️ Historical and Philosophical Found... | 152 |
-| 51 | [[Pierre Hadot]] | — | — | 🏛️ Historical and Philosophical Found... | 154 |
+| 50 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | 🏛️ Historical and Philosophical Found... | 152 |
+| 51 | [[Pierre-Hadot|Pierre Hadot]] | — | — | 🏛️ Historical and Philosophical Found... | 154 |
 | 52 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | 🧠 Neurocognitive Mechanisms: How Refl... | 158 |
 | 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Neurocognitive Mechanisms: How Refl... | 158 |
 | 54 | [[Working-Memory|Working Memory]] | working memory | — | 🧠 Neurocognitive Mechanisms: How Refl... | 158 |
 | 55 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | 🧠 Neurocognitive Mechanisms: How Refl... | 160 |
-| 56 | [[Marcus Aurelius]] | — | — | 🧠 Neurocognitive Mechanisms: How Refl... | 160 |
+| 56 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🧠 Neurocognitive Mechanisms: How Refl... | 160 |
 | 57 | [[Stoicism]] | Stoic | — | 🧠 Neurocognitive Mechanisms: How Refl... | 162 |
 | 58 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | knowledge of cognition | — | 🧠 Neurocognitive Mechanisms: How Refl... | 164 |
 | 59 | [[Metacognitive-Regulation|Metacognitive Regulation]] | regulation of cognition | — | 🧠 Neurocognitive Mechanisms: How Refl... | 164 |
 | 60 | [[Stoicism]] | Stoic | — | 🧠 Neurocognitive Mechanisms: How Refl... | 166 |
 | 61 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🧠 Neurocognitive Mechanisms: How Refl... | 166 |
 | 62 | [[Stoicism]] | Stoic | — | 🧠 Neurocognitive Mechanisms: How Refl... | 166 |
-| 63 | [[Cognitive Neuroscience]] | cognitive neuroscience | — | 🧠 Neurocognitive Mechanisms: How Refl... | 166 |
-| 64 | [[Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
+| 63 | [[cognitive-neuroscience|Cognitive Neuroscience]] | cognitive neuroscience | — | 🧠 Neurocognitive Mechanisms: How Refl... | 166 |
+| 64 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
 | 65 | [[Stoicism]] | Stoic | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
 | 66 | [[Sleep Neuroscience]] | sleep neuroscience | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
-| 67 | [[Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
+| 67 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
 | 68 | [[Stoicism]] | Stoic | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
 | 69 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | 💤 Memory Consolidation: The Neuroscie... | 186 |
 | 70 | [[Cognitive Arousal]] | cognitive arousal | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
-| 71 | [[Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
-| 72 | [[Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
+| 71 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
+| 72 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
 | 73 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | elaborative rehearsal | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
 | 74 | [[Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
 | 75 | [[Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
@@ -503,20 +503,20 @@ extraction_summary:
 | 89 | [[Stoicism]] | Stoic | — | 🔗 Integration with Modern Cognitive F... | 234 |
 | 90 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning | — | Self-Regulated Learning and the Cycli... | 238 |
 | 91 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Self-Regulated Learning and the Cycli... | 238 |
-| 92 | [[Paul Pintrich]] | — | — | Self-Regulated Learning and the Cycli... | 238 |
-| 93 | [[Marcus Aurelius]] | Stoic | — | Self-Regulated Learning and the Cycli... | 240 |
+| 92 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Self-Regulated Learning and the Cycli... | 238 |
+| 93 | [[Marcus-Aurelius|Marcus Aurelius]] | Stoic | — | Self-Regulated Learning and the Cycli... | 240 |
 | 94 | [[Metacognition]] | metacognitive | — | Self-Regulated Learning and the Cycli... | 242 |
 | 95 | [[Cognition]] | cognitive | — | Self-Regulated Learning and the Cycli... | 242 |
 | 96 | [[Self-Determination-Theory|Self-Determination Theory]] | Self-Determination Theory | — | Self-Determination Theory and Autonom... | 246 |
-| 97 | [[Edward Deci]] | — | — | Self-Determination Theory and Autonom... | 246 |
-| 98 | [[Richard Ryan]] | — | — | Self-Determination Theory and Autonom... | 246 |
+| 97 | [[Edward-Deci|Edward Deci]] | — | — | Self-Determination Theory and Autonom... | 246 |
+| 98 | [[Richard-Ryan|Richard Ryan]] | — | — | Self-Determination Theory and Autonom... | 246 |
 | 99 | [[Autonomy]] | autonomy | — | Self-Determination Theory and Autonom... | 246 |
 | 100 | [[Competence]] | competence | — | Self-Determination Theory and Autonom... | 246 |
 | 101 | [[Relatedness]] | relatedness | — | Self-Determination Theory and Autonom... | 246 |
 | 102 | [[Neuroplasticity]] | neuroscience | — | Neuroplasticity and the Neurobiology ... | 254 |
 | 103 | [[Long-Term Potentiation]] | long-term potentiation | — | Neuroplasticity and the Neurobiology ... | 256 |
 | 104 | [[Functional Connectivity]] | functional connectivity | — | Neuroplasticity and the Neurobiology ... | 256 |
-| 105 | [[Executive Function]] | executive control | — | Neuroplasticity and the Neurobiology ... | 258 |
+| 105 | [[Executive-Function|Executive Function]] | executive control | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 106 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 107 | [[Emotional Regulation]] | emotional regulation | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 108 | [[Amygdala]] | amygdala | — | Neuroplasticity and the Neurobiology ... | 258 |
@@ -527,18 +527,18 @@ extraction_summary:
 | 113 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Neuroplasticity and the Neurobiology ... | 265 |
 | 114 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Neuroplasticity and the Neurobiology ... | 267 |
 | 115 | [[Neuroplasticity]] | — | — | Neuroplasticity and the Neurobiology ... | 269 |
-| 116 | [[Memory Consolidation]] | — | — | Neuroplasticity and the Neurobiology ... | 271 |
+| 116 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Neuroplasticity and the Neurobiology ... | 271 |
 | 117 | [[Habit-Formation|Habit Formation]] | — | — | Neuroplasticity and the Neurobiology ... | 273 |
 | 118 | [[Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 287 |
 | 119 | [[Rumination]] | maladaptive rumination | — | Common Implementation Challenges and ... | 328 |
 | 120 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | Established Findings from Controlled ... | 342 |
 | 121 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | Unanswered Questions and Future Resea... | 358 |
 | 122 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | Unanswered Questions and Future Resea... | 358 |
-| 123 | [[Memory Consolidation]] | memory consolidation | — | Unanswered Questions and Future Resea... | 358 |
-| 124 | [[Cognitive-Behavioral Therapy]] | CBT | — | Unanswered Questions and Future Resea... | 358 |
+| 123 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | Unanswered Questions and Future Resea... | 358 |
+| 124 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | Unanswered Questions and Future Resea... | 358 |
 | 125 | [[Mindfulness Meditation]] | mindfulness training | — | Unanswered Questions and Future Resea... | 360 |
-| 126 | [[Cognitive-Behavioral Therapy]] | CBT | — | Unanswered Questions and Future Resea... | 360 |
-| 127 | [[Acceptance and Commitment Therapy]] | ACT | — | Unanswered Questions and Future Resea... | 360 |
+| 126 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | Unanswered Questions and Future Resea... | 360 |
+| 127 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | ACT | — | Unanswered Questions and Future Resea... | 360 |
 | 128 | [[Cognitive Behavioral Therapy and Stoicism Convergence]] | — | — | 🔗 Related Topics for PKB Expansion | 377 |
 | 129 | [[Emotional Regulation]] | — | — | 🔗 Related Topics for PKB Expansion | 380 |
 | 130 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 380 |
@@ -546,18 +546,18 @@ extraction_summary:
 | 132 | [[The Neuroscience of Habit Formation and Extinction]] | — | — | 🔗 Related Topics for PKB Expansion | 382 |
 | 133 | [[Self-Regulation-Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 385 |
 | 134 | [[Automaticity]] | — | — | 🔗 Related Topics for PKB Expansion | 385 |
-| 135 | [[Executive Function]] | — | — | 🔗 Related Topics for PKB Expansion | 385 |
+| 135 | [[Executive-Function|Executive Function]] | — | — | 🔗 Related Topics for PKB Expansion | 385 |
 | 136 | [[Sleep-Dependent Memory Consolidation Mechanisms]] | — | — | 🔗 Related Topics for PKB Expansion | 387 |
 | 137 | [[Memory-Systems|Memory Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 390 |
 | 138 | [[Neuroplasticity]] | — | — | 🔗 Related Topics for PKB Expansion | 390 |
-| 139 | [[Cognitive Neuroscience]] | — | — | 🔗 Related Topics for PKB Expansion | 390 |
+| 139 | [[cognitive-neuroscience|Cognitive Neuroscience]] | — | — | 🔗 Related Topics for PKB Expansion | 390 |
 | 140 | [[Self-Determination Theory and Intrinsic Motivation Development]] | — | — | 🔗 Related Topics for PKB Expansion | 392 |
 | 141 | [[Behavioral Modification]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
 | 142 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
-| 143 | [[Goal Setting Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
-| 144 | [[Marcus Aurelius]] | — | — | 🔗 Related Topics for PKB Expansion | 400 |
+| 143 | [[Goal-Setting-Theory|Goal Setting Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
+| 144 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔗 Related Topics for PKB Expansion | 400 |
 | 145 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive enhancement | — | 🔗 Related Topics for PKB Expansion | 400 |
-| 146 | [[Memory Consolidation]] | memory consolidation optimization | — | 🔗 Related Topics for PKB Expansion | 400 |
+| 146 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation optimization | — | 🔗 Related Topics for PKB Expansion | 400 |
 | 147 | [[Behavioral Modification]] | sustainable behavior change | — | 🔗 Related Topics for PKB Expansion | 400 |
 | 148 | [[Working-Memory|Working Memory]] | working memory | — | 🔗 Related Topics for PKB Expansion | 402 |
 | 149 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | 🔗 Related Topics for PKB Expansion | 402 |
@@ -628,7 +628,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Amygdala]]
 - [[Automaticity]]
 - [[Autonomy]]
@@ -641,30 +641,30 @@ extraction_summary:
 - [[Cognitive Distortion]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Competence]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Dorsolateral Prefrontal Cortex]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Elaborative-Rehearsal|Elaborative Rehearsal]]
 - [[Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
-- [[Goal Setting Theory]]
+- [[Goal-Setting-Theory|Goal Setting Theory]]
 - [[Habit-Formation|Habit Formation]]
 - [[Implementation Intention]]
 - [[Journaling]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Long-Term Potentiation]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Medial Prefrontal Cortex]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Memory-Systems|Memory Systems]]
 - [[Metacognition]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
@@ -672,14 +672,14 @@ extraction_summary:
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Mindfulness Meditation]]
 - [[Neuroplasticity]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Posterior Cingulate Cortex]]
 - [[Progress Principle]]
 - [[Reflective Writing]]
 - [[Relatedness]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Rumination]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation Development]]

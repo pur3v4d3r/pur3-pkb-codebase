@@ -401,7 +401,7 @@ extraction_summary:
 - [[Dichotic Listening Paradigm]]
 - [[Experimental Methodology]]
 - [[Implicit vs. Explicit Memory]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Load Theory]]
 - [[Markov models]]
 - [[Neural Mechanisms of Attentional Modulation]]
@@ -424,7 +424,7 @@ extraction_summary:
 - [[biased competition models]]
 - [[blindsight]]
 - [[capacity-sharing models]]
-- [[cognitive neuroscience]]
+- [[cognitive-neuroscience|cognitive neuroscience]]
 - [[communications engineering]]
 - [[conscious awareness]]
 - [[consciousness theories]]
@@ -432,14 +432,14 @@ extraction_summary:
 - [[depression]]
 - [[dichotic listening]]
 - [[dichotic listening tasks]]
-- [[executive function]]
+- [[Executive-Function|executive function]]
 - [[fMRI and ERP methodologies]]
 - [[fMRI methodology]]
 - [[hierarchical models]]
 - [[implicit learning]]
 - [[implicit memory]]
 - [[information processing model]]
-- [[information processing theory]]
+- [[Information-Processing-Theory|information processing theory]]
 - [[Long-Term-Memory|long-term memory]]
 - [[mere exposure effects]]
 - [[neural network basics]]
@@ -465,14 +465,14 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] | — | — | Document Start | 39 |
 | 2 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | The Evolution of Selective Attention ... | 373 |
-| 3 | [[Information Processing Theory]] | — | — | The Evolution of Selective Attention ... | 373 |
+| 3 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | The Evolution of Selective Attention ... | 373 |
 | 4 | [[Working-Memory|Working Memory]] | — | — | The Evolution of Selective Attention ... | 373 |
 | 5 | [[Perceptual Psychology]] | — | — | The Evolution of Selective Attention ... | 373 |
 | 6 | [[Experimental Methodology]] | — | — | The Evolution of Selective Attention ... | 373 |
 | 7 | [[dichotic listening tasks]] | — | — | 🧠 The Evolution of Selective Attentio... | 380 |
 | 8 | [[Cocktail Party Effect]] | — | — | 🧠 The Evolution of Selective Attentio... | 380 |
-| 9 | [[information processing theory]] | — | — | 🧠 The Evolution of Selective Attentio... | 382 |
-| 10 | [[Information Processing Theory]] | — | — | 📜 Historical and Theoretical Context:... | 389 |
+| 9 | [[Information-Processing-Theory|information processing theory]] | — | — | 🧠 The Evolution of Selective Attentio... | 382 |
+| 10 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | 📜 Historical and Theoretical Context:... | 389 |
 | 11 | [[dichotic listening]] | — | — | 📜 Historical and Theoretical Context:... | 391 |
 | 12 | [[information processing model]] | — | — | 🔬 Model I: Broadbent's Filter Theory ... | 402 |
 | 13 | [[communications engineering]] | — | — | 🔬 Model I: Broadbent's Filter Theory ... | 402 |
@@ -485,9 +485,9 @@ extraction_summary:
 | 20 | [[Shannon Information Theory]] | — | — | The Bottleneck Metaphor: Computationa... | 626 |
 | 21 | [[Working-Memory|Working memory]] | — | — | The Bottleneck Metaphor: Computationa... | 636 |
 | 22 | [[conscious awareness]] | — | — | The Bottleneck Metaphor: Computationa... | 636 |
-| 23 | [[cognitive neuroscience]] | — | — | Neural Correlates: Where in the Brain... | 642 |
+| 23 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | Neural Correlates: Where in the Brain... | 642 |
 | 24 | [[Working-Memory|working memory]] | — | — | Connections to Working Memory and Exe... | 662 |
-| 25 | [[executive function]] | — | — | Connections to Working Memory and Exe... | 662 |
+| 25 | [[Executive-Function|executive function]] | — | — | Connections to Working Memory and Exe... | 662 |
 | 26 | [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] | — | — | Connections to Working Memory and Exe... | 664 |
 | 27 | [[Cowan's Embedded Processes Model]] | — | — | Connections to Working Memory and Exe... | 666 |
 | 28 | [[biased competition models]] | — | — | Connections to Working Memory and Exe... | 668 |
@@ -872,7 +872,7 @@ for (let letter of sortedLetters) {
 | 2 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | Donald Broadbent's Filter Theory | 380 |
 | 3 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | Anne Treisman's Attenuation Model | 380 |
 | 4 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | Deutsch & Deutsch's Late Selection Model | 380 |
-| 5 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | [[Information Processing Theory]] | 389 |
+| 5 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | [[Information-Processing-Theory|Information Processing Theory]] | 389 |
 | 6 | `#FF5700` | Reference (Reactor Orange) — Citations, external sources | **E. Colin Cherry** | 391 |
 | 7 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | "cocktail party problem" | 391 |
 | 8 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | **Donald Broadbent** | 402 |
@@ -946,7 +946,7 @@ for (let letter of sortedLetters) {
 - [[Dichotic Listening Paradigm]]
 - [[Experimental Methodology]]
 - [[Implicit vs. Explicit Memory]]
-- [[Information Processing Theory]]
+- [[Information-Processing-Theory|Information Processing Theory]]
 - [[Load Theory]]
 - [[Markov models]]
 - [[Neural Mechanisms of Attentional Modulation]]
@@ -969,7 +969,7 @@ for (let letter of sortedLetters) {
 - [[biased competition models]]
 - [[blindsight]]
 - [[capacity-sharing models]]
-- [[cognitive neuroscience]]
+- [[cognitive-neuroscience|cognitive neuroscience]]
 - [[communications engineering]]
 - [[conscious awareness]]
 - [[consciousness theories]]
@@ -977,14 +977,14 @@ for (let letter of sortedLetters) {
 - [[depression]]
 - [[dichotic listening]]
 - [[dichotic listening tasks]]
-- [[executive function]]
+- [[Executive-Function|executive function]]
 - [[fMRI and ERP methodologies]]
 - [[fMRI methodology]]
 - [[hierarchical models]]
 - [[implicit learning]]
 - [[implicit memory]]
 - [[information processing model]]
-- [[information processing theory]]
+- [[Information-Processing-Theory|information processing theory]]
 - [[Long-Term-Memory|long-term memory]]
 - [[mere exposure effects]]
 - [[neural network basics]]

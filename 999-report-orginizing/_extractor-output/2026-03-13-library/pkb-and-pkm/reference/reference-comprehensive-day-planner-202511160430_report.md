@@ -1142,7 +1142,7 @@ extraction_summary:
 - [[Quarterly Planning]]
 - [[Quarterly Report]]
 - [[System Architecture Doc]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin for Obsidian]]
 - [[Technical Requirements]]
 - [[Templater]]
@@ -1150,13 +1150,13 @@ extraction_summary:
 - [[Timeboxing Methodology]]
 - [[Todoist]]
 - [[Toggl Track]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Wrike]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
+- [[Dataview]]
 - [[iCal Plugin]]
 - [[iCloud Calendar]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[obsidian-ics]]
 - [[parkinson's law]]
 
@@ -1165,21 +1165,21 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Community Plugin]] | — | — | 📘 What is Day Planner? | 35 |
-| 2 | [[obsidian]] | — | — | 📘 What is Day Planner? | 35 |
+| 2 | [[Obsidian]] | — | — | 📘 What is Day Planner? | 35 |
 | 3 | [[parkinson's law]] | — | — | 📘 What is Day Planner? | 41 |
 | 4 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Required Dependencies | 68 |
 | 5 | [[Daily Notes]] | — | — | Required Dependencies | 72 |
 | 6 | [[Periodic Notes]] | — | — | Required Dependencies | 72 |
 | 7 | [[Project Apollo]] | — | — | Work Block | 242 |
-| 8 | [[Wiki-Links]] | — | — | Work Block | 244 |
-| 9 | [[Tasks Plugin]] | — | — | Format 2: Tasks Plugin Integration (V... | 264 |
+| 8 | [[wiki-links]] | — | — | Work Block | 244 |
+| 9 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Format 2: Tasks Plugin Integration (V... | 264 |
 | 10 | [[Google Calendar]] | — | — | Format 3: Calendar Event Syntax (ICS ... | 312 |
 | 11 | [[iCloud Calendar]] | — | — | Format 3: Calendar Event Syntax (ICS ... | 312 |
 | 12 | [[Outlook]] | — | — | Format 3: Calendar Event Syntax (ICS ... | 312 |
 | 13 | [[Project Phoenix]] | — | — | Format 3: Calendar Event Syntax (ICS ... | 327 |
 | 14 | [[iCal Plugin]] | — | — | Troubleshooting Calendar Integration | 533 |
 | 15 | [[Morgen Tasks]] | — | — | Troubleshooting Calendar Integration | 533 |
-| 16 | [[dataview]] | — | — | Analyzing Tracked Time (Dataview Inte... | 656 |
+| 16 | [[Dataview]] | — | — | Analyzing Tracked Time (Dataview Inte... | 656 |
 | 17 | [[Obsidian Simple Time Tracker]] | — | — | Time Tracking Limitations | 725 |
 | 18 | [[PomoBar Plugin]] | — | — | Time Tracking Limitations | 726 |
 | 19 | [[Do Not Disturb]] | — | — | Desktop Notifications | 804 |
@@ -1203,8 +1203,8 @@ extraction_summary:
 | 37 | [[Quarterly Report]] | — | — | Focus Session Scheduling | 1138 |
 | 38 | [[Q3 Dataset]] | — | — | Focus Session Scheduling | 1143 |
 | 39 | [[Analysis Framework Template]] | — | — | Focus Session Scheduling | 1144 |
-| 40 | [[Tasks Plugin]] | — | — | Compatibility with Other Plugins | 1435 |
-| 41 | [[dataview]] | — | — | Compatibility with Other Plugins | 1436 |
+| 40 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Compatibility with Other Plugins | 1435 |
+| 41 | [[Dataview]] | — | — | Compatibility with Other Plugins | 1436 |
 | 42 | [[Templater]] | — | — | Compatibility with Other Plugins | 1437 |
 | 43 | [[Calendar Plugin]] | — | — | Compatibility with Other Plugins | 1438 |
 | 44 | [[Periodic Notes]] | — | — | Compatibility with Other Plugins | 1439 |
@@ -1214,7 +1214,7 @@ extraction_summary:
 | 48 | [[iCal Plugin]] | — | — | Known Limitations | 1492 |
 | 49 | [[PomoBar]] | — | — | Known Limitations | 1505 |
 | 50 | [[Planning Fallacy]] | — | — | Common Pain Points & Solutions | 1550 |
-| 51 | [[Tasks Plugin]] | — | — | Complementary Plugins for Gaps | 1579 |
+| 51 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Complementary Plugins for Gaps | 1579 |
 | 52 | [[PomoBar]] | — | — | Complementary Plugins for Gaps | 1580 |
 | 53 | [[iCal Plugin]] | — | — | Complementary Plugins for Gaps | 1581 |
 | 54 | [[Periodic Notes]] | — | — | Complementary Plugins for Gaps | 1582 |
@@ -1302,7 +1302,7 @@ extraction_summary:
 ## Work Block  
 - [ ] 09:00 - 11:00 [[Project Apollo]] - Phase 2 implementation
   - Link to project note for context
-  - Integration with other notes via [[Wiki-Links]]
+  - Integration with other notes via [[wiki-links]]
 
 ## Afternoon
 - [ ] 13:00 - 14:30 Client meeting: Q4 strategy #meetings
@@ -1742,8 +1742,8 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 
 | Plugin | Integration Point | Benefit |
 | --- | --- | --- |
-| **[[Tasks Plugin]]** | Scheduled task discovery | Vault-wide task scheduling |
-| **[[dataview]]** | Task queries, clock analysis | Advanced task filtering, time analytics |
+| **[[Tasks-Plugin|Tasks Plugin]]** | Scheduled task discovery | Vault-wide task scheduling |
+| **[[Dataview]]** | Task queries, clock analysis | Advanced task filtering, time analytics |
 | **[[Templater]]** | Daily note automation | Auto-insert Day Planner sections |
 | **[[Calendar Plugin]]** | Date navigation | Quick jump to specific daily notes |
 | **[[Periodic Notes]]** | Weekly/monthly notes | Extended planning beyond daily |
@@ -1760,7 +1760,7 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 
 | Need | Plugin | How It Helps |
 | --- | --- | --- |
-| **Recurring Tasks** | [[Tasks Plugin]] | Define recurrence patterns (daily, weekly, etc.) |
+| **Recurring Tasks** | [[Tasks-Plugin|Tasks Plugin]] | Define recurrence patterns (daily, weekly, etc.) |
 | **Pomodoro Timing** | [[PomoBar]] | 25/5 work/break timers |
 | **Calendar Export** | [[iCal Plugin]] | Export Obsidian tasks to external calendars |
 | **Weekly/Monthly Planning** | [[Periodic Notes]] | Extend time-boxing beyond daily notes |
@@ -1849,7 +1849,7 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 - [[Quarterly Planning]]
 - [[Quarterly Report]]
 - [[System Architecture Doc]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin for Obsidian]]
 - [[Technical Requirements]]
 - [[Templater]]
@@ -1857,13 +1857,13 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 - [[Timeboxing Methodology]]
 - [[Todoist]]
 - [[Toggl Track]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Wrike]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dataview]]
+- [[Dataview]]
 - [[iCal Plugin]]
 - [[iCloud Calendar]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[obsidian-ics]]
 - [[parkinson's law]]
 

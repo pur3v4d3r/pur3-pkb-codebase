@@ -236,7 +236,7 @@ extraction_summary:
 #### 19. [CROSS-DOMAIN-CONNECTION] Iterated Prisoner's Dilemmas → Relational Mutuality Dynamics *(Line 380)*
 
 > [!cross-domain-connection] Iterated Prisoner's Dilemmas → Relational Mutuality Dynamics
-> The dynamics of mutual need support bear a striking structural resemblance to the well-studied [[Iterated Prisoner's Dilemma]] in game theory. In repeated interactions between two agents, cooperate-cooperate outcomes are more productive for both than defect-defect outcomes, but each individual has a short-term incentive to defect (take without giving). The stability of cooperation depends critically on reputation effects and the shadow of the future — the expectation that the interaction will continue and that past behavior will inform future responses. The RMT mutuality dynamic is the psychological analog: compassionate goals are equivalent to a cooperative strategy, and the expectation that genuine investment will be reciprocated stabilizes the cooperative equilibrium. What RMT adds to the game-theoretic framing is the motivational interior: partners with compassionate goals are not calculating their cooperation rationally — they are genuinely motivated to benefit the other, which produces cooperative behavior that is *robust to short-term provocation* in a way that purely strategic cooperation is not.
+> The dynamics of mutual need support bear a striking structural resemblance to the well-studied [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]] in game theory. In repeated interactions between two agents, cooperate-cooperate outcomes are more productive for both than defect-defect outcomes, but each individual has a short-term incentive to defect (take without giving). The stability of cooperation depends critically on reputation effects and the shadow of the future — the expectation that the interaction will continue and that past behavior will inform future responses. The RMT mutuality dynamic is the psychological analog: compassionate goals are equivalent to a cooperative strategy, and the expectation that genuine investment will be reciprocated stabilizes the cooperative equilibrium. What RMT adds to the game-theoretic framing is the motivational interior: partners with compassionate goals are not calculating their cooperation rationally — they are genuinely motivated to benefit the other, which produces cooperative behavior that is *robust to short-term provocation* in a way that purely strategic cooperation is not.
 
 #### 20. [TENSION-IDENTIFIED] The Autonomy-Intimacy Tension: Universal Developmental Challenge or Pathological Pattern? *(Line 387)*
 
@@ -296,7 +296,7 @@ extraction_summary:
 #### 31. [ORIGINAL-SYNTHESIS] RMT as the Motivational Infrastructure of Attachment Security *(Line 450)*
 
 > [!original-synthesis] RMT as the Motivational Infrastructure of Attachment Security
-> A second integrative synthesis concerns the relationship between RMT and [[Attachment Theory]]. Attachment security is typically described as the outcome of a history of responsive caregiving — a child develops secure attachment by experiencing a caregiver who is available, sensitive, and responsive to distress. What this formulation leaves underspecified is *why* secure attachment produces the psychological benefits it does. RMT provides a mechanistic account: secure attachment is functionally equivalent to a history of sustained need support. The securely attached individual has a working model of relationships as contexts in which their autonomy is respected, their competence is affirmed, and their relatedness need is genuinely met — and this working model functions as a motivational scaffold for engaging with new relationships from a position of trust rather than vigilance. The attachment security effect on well-being is, on this account, largely a need satisfaction effect: security means reliable, history-backed expectation of need support. This integration has empirical support in La Guardia et al.'s finding that secure attachment predicts overall need fulfillment across relationships, and it generates the testable prediction that need satisfaction should mediate the relationship between attachment security and well-being outcomes — a prediction that has received initial but not comprehensive empirical attention.
+> A second integrative synthesis concerns the relationship between RMT and [[Attachment-Theory|Attachment Theory]]. Attachment security is typically described as the outcome of a history of responsive caregiving — a child develops secure attachment by experiencing a caregiver who is available, sensitive, and responsive to distress. What this formulation leaves underspecified is *why* secure attachment produces the psychological benefits it does. RMT provides a mechanistic account: secure attachment is functionally equivalent to a history of sustained need support. The securely attached individual has a working model of relationships as contexts in which their autonomy is respected, their competence is affirmed, and their relatedness need is genuinely met — and this working model functions as a motivational scaffold for engaging with new relationships from a position of trust rather than vigilance. The attachment security effect on well-being is, on this account, largely a need satisfaction effect: security means reliable, history-backed expectation of need support. This integration has empirical support in La Guardia et al.'s finding that secure attachment predicts overall need fulfillment across relationships, and it generates the testable prediction that need satisfaction should mediate the relationship between attachment security and well-being outcomes — a prediction that has received initial but not comprehensive empirical attention.
 
 #### 32. [REFLECTION] Final Integration *(Line 457)*
 
@@ -320,11 +320,11 @@ extraction_summary:
 > 
 > - **[[Conditional-Positive-Regard|Conditional Positive Regard]]** — This PKB node, if developed, would provide the deep conceptual analysis of CPR that the current report treats as a mechanism. The connection here is generative: the RMT report establishes the *consequences* of CPR within relationships; the CPR node would elaborate the *phenomenology and developmental origins* of CPR, including how parental CPR becomes internalized as contingent self-esteem, and how CPR in early caregiving relationships shapes the expectation patterns that determine how later relationships are interpreted.
 > 
-> - **[[Attachment Theory — Bowlby and Ainsworth]]** — The RMT-attachment integration proposed in Phase VI represents a genuine theoretical contribution: the claim that attachment security is functionally equivalent to a history of sustained need support, and that the well-being benefits of security are largely mediated by need satisfaction. This connection has empirical backing in La Guardia et al. (2000) but has not been fully developed in either the attachment or the SDT literature. A focused analysis of this integration would be a high-value PKB addition.
+> - **[[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]** — The RMT-attachment integration proposed in Phase VI represents a genuine theoretical contribution: the claim that attachment security is functionally equivalent to a history of sustained need support, and that the well-being benefits of security are largely mediated by need satisfaction. This connection has empirical backing in La Guardia et al. (2000) but has not been fully developed in either the attachment or the SDT literature. A focused analysis of this integration would be a high-value PKB addition.
 > 
 > **Cross-Report Links:**
 > 
-> - **[[Self-Regulated Learning — Focused Analysis]]** — The SRL report's analysis of motivational regulation as a neglected component of the SRL cycle is directly enriched by the RMT analysis. Both reports converge on the insight that motivation is not a stable personality trait but a dynamic state shaped by contextual factors — in SRL, by goal orientation and self-efficacy; in RMT, by the need-support quality of the relational context. Read together, they support a composite view in which the relational and the cognitive dimensions of motivational regulation are systematically interconnected.
+> - **[[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]** — The SRL report's analysis of motivational regulation as a neglected component of the SRL cycle is directly enriched by the RMT analysis. Both reports converge on the insight that motivation is not a stable personality trait but a dynamic state shaped by contextual factors — in SRL, by goal orientation and self-efficacy; in RMT, by the need-support quality of the relational context. Read together, they support a composite view in which the relational and the cognitive dimensions of motivational regulation are systematically interconnected.
 > 
 > **Synthetic Observation**: The pattern of connections visible from the RMT node reveals something important about the PKB's emerging architecture. The reports on SRL, CLT, and SDT/RMT are not simply parallel treatments of adjacent topics — they are building toward a unified account of the conditions for effective human functioning in which cognitive, motivational, and relational dimensions are shown to be mutually constitutive rather than independent. RMT is the relational layer that the SRL and CLT analyses imply but do not articulate: the quality of the relationships within which learning and motivated activity occur shapes the availability of the very resources that those theories treat as their primary explanatory variables.
 
@@ -495,11 +495,11 @@ extraction_summary:
 ### Unique Targets
 
 - [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
-- [[Attachment Theory]]
-- [[Attachment Theory — Bowlby and Ainsworth]]
+- [[Attachment-Theory|Attachment Theory]]
+- [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
 - [[Autonomy Support in Teaching — Mechanisms and Evidence]]
 - [[Autonomy-Support|Autonomy support]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Canevello]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
@@ -507,11 +507,11 @@ extraction_summary:
 - [[Conditional Positive Regard — Costs and Clinical Implications]]
 - [[Crocker]]
 - [[Deci]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Impett]]
-- [[Iterated Prisoner's Dilemma]]
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
 - [[Knee]]
-- [[La Guardia]]
+- [[La-Guardia|La Guardia]]
 - [[Lonsbary]]
 - [[Need Thwarting Dynamics — Beyond the Absence of Support]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -519,44 +519,44 @@ extraction_summary:
 - [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 - [[Reeve]]
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated Learning — Focused Analysis]]
-- [[autonomy]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Autonomy]]
 - [[Autonomy-Support|autonomy support]]
-- [[autonomy-relatedness integration problem]]
+- [[autonomy-relatedness-integration-problem|autonomy-relatedness integration problem]]
 - [[Basic-Psychological-Needs|basic psychological needs]]
-- [[competence]]
+- [[Competence]]
 - [[Conditional-Positive-Regard|conditional positive regard]]
 - [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
-- [[relatedness]]
+- [[Relatedness]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Relationship-Motivation-Theory|Relationship Motivation Theory]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 2 | [[Edward Deci]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 3 | [[Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 2 | [[Edward-Deci|Edward Deci]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 3 | [[Richard-Ryan|Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 4 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 5 | [[Basic-Psychological-Needs|basic psychological needs]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 6 | [[autonomy]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 7 | [[competence]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 8 | [[relatedness]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 6 | [[Autonomy]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 7 | [[Competence]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 8 | [[Relatedness]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 9 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 261 |
-| 10 | [[Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 261 |
-| 11 | [[Basic Psychological Needs Theory]] | — | — | The Basic Psychological Needs as Appl... | 269 |
-| 12 | [[autonomy]] | — | — | The Basic Psychological Needs as Appl... | 269 |
-| 13 | [[competence]] | — | — | The Basic Psychological Needs as Appl... | 269 |
-| 14 | [[relatedness]] | — | — | The Basic Psychological Needs as Appl... | 269 |
+| 10 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 261 |
+| 11 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | The Basic Psychological Needs as Appl... | 269 |
+| 12 | [[Autonomy]] | — | — | The Basic Psychological Needs as Appl... | 269 |
+| 13 | [[Competence]] | — | — | The Basic Psychological Needs as Appl... | 269 |
+| 14 | [[Relatedness]] | — | — | The Basic Psychological Needs as Appl... | 269 |
 | 15 | [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] | — | — | The Basic Psychological Needs as Appl... | 281 |
 | 16 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Autonomous vs. Controlled Motivation ... | 285 |
 | 17 | [[Knee]] | — | — | Autonomous vs. Controlled Motivation ... | 287 |
 | 18 | [[Patrick]] | — | — | Autonomous vs. Controlled Motivation ... | 287 |
 | 19 | [[Lonsbary]] | — | — | Autonomous vs. Controlled Motivation ... | 287 |
 | 20 | [[Autonomy-Support|Autonomy support]] | — | — | Need Support vs. Need Thwarting: A Cr... | 297 |
-| 21 | [[La Guardia]] | — | — | The Foundational Evidence: Need Fulfi... | 318 |
+| 21 | [[La-Guardia|La Guardia]] | — | — | The Foundational Evidence: Need Fulfi... | 318 |
 | 22 | [[Deci]] | — | — | The Controlled Motivation Cost | 325 |
 | 23 | [[Impett]] | — | — | The Evidence on Giving: Autonomous vs... | 337 |
 | 24 | [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] | — | — | The Evidence on Giving: Autonomous vs... | 342 |
@@ -565,17 +565,17 @@ extraction_summary:
 | 27 | [[Autonomy-Support|Autonomy support]] | — | — | The Autonomy Support Pathway | 367 |
 | 28 | [[Canevello]] | — | — | The Mutuality Dynamic | 378 |
 | 29 | [[Crocker]] | — | — | The Mutuality Dynamic | 378 |
-| 30 | [[Iterated Prisoner's Dilemma]] | — | — | The Mutuality Dynamic | 381 |
-| 31 | [[autonomy-relatedness integration problem]] | — | — | The Autonomy-Relatedness Integration ... | 385 |
+| 30 | [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]] | — | — | The Mutuality Dynamic | 381 |
+| 31 | [[autonomy-relatedness-integration-problem|autonomy-relatedness integration problem]] | — | — | The Autonomy-Relatedness Integration ... | 385 |
 | 32 | [[Reeve]] | — | — | Applications in Learning Contexts | 409 |
 | 33 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Relational Ecology Model: An Orig... | 448 |
-| 34 | [[Attachment Theory]] | — | — | The Relational Ecology Model: An Orig... | 451 |
+| 34 | [[Attachment-Theory|Attachment Theory]] | — | — | The Relational Ecology Model: An Orig... | 451 |
 | 35 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 472 |
 | 36 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 474 |
 | 37 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 476 |
 | 38 | [[Conditional-Positive-Regard|Conditional Positive Regard]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
-| 39 | [[Attachment Theory — Bowlby and Ainsworth]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
-| 40 | [[Self-Regulated Learning — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
+| 39 | [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
+| 40 | [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
 | 41 | [[Autonomy Support in Teaching — Mechanisms and Evidence]] | — | — | D. Expansion Topics | 576 |
 | 42 | [[Conditional Positive Regard — Costs and Clinical Implications]] | — | — | D. Expansion Topics | 579 |
 | 43 | [[Need Thwarting Dynamics — Beyond the Absence of Support]] | — | — | D. Expansion Topics | 582 |
@@ -593,11 +593,11 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
-- [[Attachment Theory]]
-- [[Attachment Theory — Bowlby and Ainsworth]]
+- [[Attachment-Theory|Attachment Theory]]
+- [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
 - [[Autonomy Support in Teaching — Mechanisms and Evidence]]
 - [[Autonomy-Support|Autonomy support]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Canevello]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
@@ -605,11 +605,11 @@ extraction_summary:
 - [[Conditional Positive Regard — Costs and Clinical Implications]]
 - [[Crocker]]
 - [[Deci]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Impett]]
-- [[Iterated Prisoner's Dilemma]]
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
 - [[Knee]]
-- [[La Guardia]]
+- [[La-Guardia|La Guardia]]
 - [[Lonsbary]]
 - [[Need Thwarting Dynamics — Beyond the Absence of Support]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -617,32 +617,32 @@ extraction_summary:
 - [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 - [[Reeve]]
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated Learning — Focused Analysis]]
-- [[autonomy]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Autonomy]]
 - [[Autonomy-Support|autonomy support]]
-- [[autonomy-relatedness integration problem]]
+- [[autonomy-relatedness-integration-problem|autonomy-relatedness integration problem]]
 - [[Basic-Psychological-Needs|basic psychological needs]]
-- [[competence]]
+- [[Competence]]
 - [[Conditional-Positive-Regard|conditional positive regard]]
 - [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
-- [[relatedness]]
+- [[Relatedness]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
 - [[Self-Determination Theory — Foundational Concepts]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 
 #### Related
 
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Basic Psychological Needs Theory]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Attachment Theory — Bowlby and Ainsworth]]
+- [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
 - [[Perceived-Partner-Responsiveness|Perceived Partner Responsiveness]]
 - [[Conditional-Positive-Regard|Conditional Positive Regard]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
@@ -650,7 +650,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Relationship Science]]
 - [[Social Psychology of Close Relationships]]
 
@@ -681,8 +681,8 @@ extraction_summary:
 #### Builds On
 
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Basic Psychological Needs Theory]]
-- [[Attachment Theory — Bowlby and Ainsworth]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
+- [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
 
 #### Enables
 

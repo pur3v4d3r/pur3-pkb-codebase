@@ -304,8 +304,8 @@ extraction_summary:
 > **Link Quality**: Generally high—meaningful conceptual connections
 > 
 > <span style='color: #27FF00;'>**Well-Executed Links:**</span>
-> - Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
-> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel Kahneman]]` (implied)
+> - Core constructs: `[[Selective-Attention|Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
+> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel-Kahneman|Daniel Kahneman]]` (implied)
 > - Related frameworks: `[[Working-Memory|Working Memory]]`, `[[Cognitive-Load-Theory|Cognitive Load Theory]]`, `[[Self-Determination-Theory|Self-Determination Theory]]`
 > - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`
 
@@ -429,7 +429,7 @@ extraction_summary:
 > 4. **Add missed wiki-links**:
 >    - `[[Yerkes-Dodson Law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
->    - `[[Iconic Memory]]` and `[[Echoic Memory]]` at line 396
+>    - `[[Iconic-Memory|Iconic Memory]]` and `[[Echoic-Memory|Echoic Memory]]` at line 396
 >    - `[[Information Theory]]` at line 372
 > 
 > 5. **Fix callout type** at line 337: Change `> [! ]` to valid callout type or remove
@@ -533,22 +533,22 @@ extraction_summary:
 - [[Chain-of-Density]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constitutional AI]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotic Listening Task]]
 - [[Donald Broadbent]]
 - [[Dorsal Attention Network]]
 - [[Dual-Task Performance]]
-- [[Echoic Memory]]
-- [[Few-Shot Learning]]
+- [[Echoic-Memory|Echoic Memory]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Filter Model]]
-- [[Iconic Memory]]
+- [[Iconic-Memory|Iconic Memory]]
 - [[Information Theory]]
 - [[Load Theory of Attention]]
 - [[Multiple Resources Theory]]
 - [[Output Analysis: The Evolution of Capacity Theories of Attention]]
 - [[Pupillometry as Cognitive Measure]]
 - [[ReAct]]
-- [[Selective Attention]]
+- [[Selective-Attention|Selective Attention]]
 - [[Self-Consistency]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Skeleton-of-Thought]]
@@ -559,7 +559,7 @@ extraction_summary:
 - [[Yerkes-Dodson Law]]
 - [[allocation-policy]]
 - [[arousal-capacity-relationship]]
-- [[attention]]
+- [[Attention]]
 - [[capacity-model-kahneman]]
 - [[cognitive-science-moc]]
 - [[cosmology-moc]]
@@ -577,15 +577,15 @@ extraction_summary:
 | 4 | [[Chain-of-Density]] | — | — | Dimension 2: Technique Signature Anal... | 416 |
 | 5 | [[Skeleton-of-Thought]] | — | — | Dimension 2: Technique Signature Anal... | 417 |
 | 6 | [[Constitutional AI]] | — | — | Dimension 2: Technique Signature Anal... | 418 |
-| 7 | [[Few-Shot Learning]] | — | — | Dimension 2: Technique Signature Anal... | 419 |
+| 7 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | Dimension 2: Technique Signature Anal... | 419 |
 | 8 | [[Self-Consistency]] | — | — | Dimension 2: Technique Signature Anal... | 425 |
 | 9 | [[ReAct]] | — | — | Dimension 2: Technique Signature Anal... | 427 |
 | 10 | [[Tree-of-Thoughts]] | — | — | Dimension 2: Technique Signature Anal... | 429 |
-| 11 | [[Selective Attention]] | — | — | Dimension 3: Knowledge Graph Potentia... | 442 |
+| 11 | [[Selective-Attention|Selective Attention]] | — | — | Dimension 3: Knowledge Graph Potentia... | 442 |
 | 12 | [[Allocation Policy]] | — | — | Dimension 3: Knowledge Graph Potentia... | 442 |
 | 13 | [[Dual-Task Performance]] | — | — | Dimension 3: Knowledge Graph Potentia... | 442 |
 | 14 | [[Donald Broadbent]] | — | — | Dimension 3: Knowledge Graph Potentia... | 443 |
-| 15 | [[Daniel Kahneman]] | — | — | Dimension 3: Knowledge Graph Potentia... | 443 |
+| 15 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Dimension 3: Knowledge Graph Potentia... | 443 |
 | 16 | [[Working-Memory|Working Memory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
 | 17 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
 | 18 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
@@ -597,8 +597,8 @@ extraction_summary:
 | 24 | [[cognitive-science-moc]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 568 |
 | 25 | [[Yerkes-Dodson Law]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 576 |
 | 26 | [[Anne Treisman]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 577 |
-| 27 | [[Iconic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
-| 28 | [[Echoic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
+| 27 | [[Iconic-Memory|Iconic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
+| 28 | [[Echoic-Memory|Echoic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
 | 29 | [[Information Theory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 579 |
 | 30 | [[Working-Memory|Working Memory]] | — | — | 🔵 Tier 2: Structural Enhancements (5-... | 600 |
 | 31 | [[Self-Consistency]] | — | — | Prompt Engineering Recommendations | 618 |
@@ -613,14 +613,14 @@ extraction_summary:
 | 40 | [[Filter Model]] | — | — | Mandatory Wiki-Link Targets | 701 |
 | 41 | [[Capacity Model]] | — | — | Mandatory Wiki-Link Targets | 701 |
 | 42 | [[Donald Broadbent]] | — | — | Mandatory Wiki-Link Targets | 702 |
-| 43 | [[Daniel Kahneman]] | — | — | Mandatory Wiki-Link Targets | 702 |
+| 43 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Mandatory Wiki-Link Targets | 702 |
 | 44 | [[Yerkes-Dodson Law]] | — | — | Mandatory Wiki-Link Targets | 703 |
 | 45 | [[Dichotic Listening Task]] | — | — | Mandatory Wiki-Link Targets | 704 |
-| 46 | [[Iconic Memory]] | — | — | Mandatory Wiki-Link Targets | 705 |
-| 47 | [[Echoic Memory]] | — | — | Mandatory Wiki-Link Targets | 705 |
+| 46 | [[Iconic-Memory|Iconic Memory]] | — | — | Mandatory Wiki-Link Targets | 705 |
+| 47 | [[Echoic-Memory|Echoic Memory]] | — | — | Mandatory Wiki-Link Targets | 705 |
 | 48 | [[cognitive-science-moc]] | — | — | Affected PKB Components | 718 |
 | 49 | [[learning-theory-moc]] | — | — | Affected PKB Components | 719 |
-| 50 | [[attention]] | — | — | Affected PKB Components | 720 |
+| 50 | [[Attention]] | — | — | Affected PKB Components | 720 |
 | 51 | [[Treisman Attenuation Model]] | — | — | 🔗 Related Topics for PKB Expansion | 768 |
 | 52 | [[Multiple Resources Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 773 |
 | 53 | [[Load Theory of Attention]] | — | — | 🔗 Related Topics for PKB Expansion | 778 |
@@ -817,10 +817,10 @@ Verify:
 
 For cognitive science content, ALWAYS wiki-link:
 - Named theories (e.g., [[Filter Model]], [[Capacity Model]])
-- Named researchers (e.g., [[Donald Broadbent]], [[Daniel Kahneman]])
+- Named researchers (e.g., [[Donald Broadbent]], [[Daniel-Kahneman|Daniel Kahneman]])
 - Named laws/principles (e.g., [[Yerkes-Dodson Law]])
 - Named experimental paradigms (e.g., [[Dichotic Listening Task]])
-- Memory systems (e.g., [[Iconic Memory]], [[Echoic Memory]])
+- Memory systems (e.g., [[Iconic-Memory|Iconic Memory]], [[Echoic-Memory|Echoic Memory]])
 - Related frameworks mentioned in connections section
 </wiki_link_requirements>
 ```
@@ -884,7 +884,7 @@ for (let letter of sortedLetters) {
 | [[Chain-of-Density]] | <span style='color: #27FF00;'>**Strong (9/10)**</span> | Progressive layering from foundational concepts → mechanisms → empirical evidence → implications |
 | [[Skeleton-of-Thought]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Clear outline-first structure evident in section organization |
 | [[Constitutional AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |
-| [[Few-Shot Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |
+| [[Few-Shot-Learning|Few-Shot Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |
 
 ### Table 3 *(Line 417, 5 rows)*
 
@@ -892,7 +892,7 @@ for (let letter of sortedLetters) {
 | --- | --- | --- |
 | `[[cognitive-science-moc]]` | High | Add this note as key reference |
 | `[[learning-theory-moc]]` | Medium | Cross-reference via Cognitive Load Theory |
-| `[[attention]]` tag family | High | Verify tag hierarchy consistency |
+| `[[Attention]]` tag family | High | Verify tag hierarchy consistency |
 | Permanent note template | Low | No template changes needed |
 | DataviewJS extraction | None | Inline fields already compatible |
 
@@ -986,22 +986,22 @@ for (let letter of sortedLetters) {
 - [[Chain-of-Density]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constitutional AI]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotic Listening Task]]
 - [[Donald Broadbent]]
 - [[Dorsal Attention Network]]
 - [[Dual-Task Performance]]
-- [[Echoic Memory]]
-- [[Few-Shot Learning]]
+- [[Echoic-Memory|Echoic Memory]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Filter Model]]
-- [[Iconic Memory]]
+- [[Iconic-Memory|Iconic Memory]]
 - [[Information Theory]]
 - [[Load Theory of Attention]]
 - [[Multiple Resources Theory]]
 - [[Output Analysis: The Evolution of Capacity Theories of Attention]]
 - [[Pupillometry as Cognitive Measure]]
 - [[ReAct]]
-- [[Selective Attention]]
+- [[Selective-Attention|Selective Attention]]
 - [[Self-Consistency]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Skeleton-of-Thought]]
@@ -1012,7 +1012,7 @@ for (let letter of sortedLetters) {
 - [[Yerkes-Dodson Law]]
 - [[allocation-policy]]
 - [[arousal-capacity-relationship]]
-- [[attention]]
+- [[Attention]]
 - [[capacity-model-kahneman]]
 - [[cognitive-science-moc]]
 - [[cosmology-moc]]

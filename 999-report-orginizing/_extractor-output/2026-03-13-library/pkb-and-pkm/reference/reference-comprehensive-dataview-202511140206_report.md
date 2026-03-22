@@ -313,7 +313,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[dql]], [[Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
+> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[DQL]], [[Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
 
 #### 4. [HOW-TO-USE-THIS] Untitled *(Line 49)*
 
@@ -324,7 +324,7 @@ extraction_summary:
 #### 5. [DEFINITION] Untitled *(Line 69)*
 
 > [!definition] Untitled
-> - **Dataview**: A [[Community Plugin]] for [[obsidian]] that treats your vault as a queryable database
+> - **Dataview**: A [[Community Plugin]] for [[Obsidian]] that treats your vault as a queryable database
 > - **Core Function**: Live index and query engine that keeps queries always up to date and makes data aggregation a breeze
 > - **Primary Use Case**: Automated views, dashboards, and data aggregation without manual maintenance
 
@@ -332,7 +332,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Central Principle**
-> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[dql]] for SQL-like queries, [[Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
+> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[DQL]] for SQL-like queries, [[Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
 
 #### 7. [WARNING] Untitled *(Line 102)*
 
@@ -344,7 +344,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > **Fundamental Design Philosophy**
->   provides three query methods with escalating power and complexity: [[dql]] for declarative SQL-like queries, [[Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
+>   provides three query methods with escalating power and complexity: [[DQL]] for declarative SQL-like queries, [[Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
 
 #### 9. [DEFINITION] Untitled *(Line 127)*
 
@@ -711,7 +711,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]]
 - [[Advanced Dataview Optimization Techniques]]
 - [[Alice]]
@@ -737,7 +737,7 @@ extraction_summary:
 - [[Inline Queries]]
 - [[JavaScript]]
 - [[John Smith]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LIST Query]]
 - [[Link Queries]]
 - [[Maps-of-Content-—-MOCs|MOC]]
@@ -753,39 +753,39 @@ extraction_summary:
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Project]]
 - [[Regular Expressions]]
-- [[Related Note]]
+- [[Related-Note|Related Note]]
 - [[SQL]]
 - [[TABLE Query]]
 - [[TASK Query]]
 - [[Templater]]
 - [[Wiki-Link]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dql]]
+- [[DQL]]
 - [[flatten]]
 - [[from]]
 - [[link]]
 - [[note]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[project-pur3v4d3r-20251121013128]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[dql]] | — | — | Document Start | 47 |
+| 1 | [[DQL]] | — | — | Document Start | 47 |
 | 2 | [[Inline Queries]] | — | — | Document Start | 47 |
 | 3 | [[DataviewJS]] | — | — | Document Start | 47 |
 | 4 | [[Community Plugin]] | — | — | ⚙️ Dataview Plugin Overview & Core Ar... | 70 |
-| 5 | [[obsidian]] | — | — | ⚙️ Dataview Plugin Overview & Core Ar... | 70 |
-| 6 | [[YAML Frontmatter]] | — | — | Foundational Understanding | 80 |
+| 5 | [[Obsidian]] | — | — | ⚙️ Dataview Plugin Overview & Core Ar... | 70 |
+| 6 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Foundational Understanding | 80 |
 | 7 | [[Inline Fields]] | — | — | Foundational Understanding | 80 |
 | 8 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]] | — | — | Foundational Understanding | 80 |
 | 9 | [[project-pur3v4d3r-20251121013128]] | — | — | Foundational Understanding | 80 |
 | 10 | [[Bullet Lists]] | — | — | Foundational Understanding | 80 |
 | 11 | [[File Metadata]] | — | — | Foundational Understanding | 80 |
-| 12 | [[dql]] | — | — | Foundational Understanding | 84 |
+| 12 | [[DQL]] | — | — | Foundational Understanding | 84 |
 | 13 | [[Inline Queries]] | — | — | Foundational Understanding | 84 |
 | 14 | [[DataviewJS]] | — | — | Foundational Understanding | 84 |
 | 15 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Plugin Capabilities & Limitations | 93 |
@@ -795,14 +795,14 @@ extraction_summary:
 | 19 | [[Calendar Views]] | — | — | Use Case Categories | 112 |
 | 20 | [[CALENDAR Query]] | — | — | Use Case Categories | 112 |
 | 21 | [[Backlink]] | — | — | Use Case Categories | 113 |
-| 22 | [[Knowledge Graph]] | — | — | Use Case Categories | 113 |
+| 22 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Use Case Categories | 113 |
 | 23 | [[from]] | — | — | Use Case Categories | 113 |
 | 24 | [[Link Queries]] | — | — | Use Case Categories | 113 |
 | 25 | [[TABLE Query]] | — | — | Use Case Categories | 114 |
 | 26 | [[Map of Content]] | — | — | Use Case Categories | 115 |
 | 27 | [[LIST Query]] | — | — | Use Case Categories | 115 |
 | 28 | [[GROUP BY]] | — | — | Use Case Categories | 115 |
-| 29 | [[dql]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
+| 29 | [[DQL]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
 | 30 | [[Inline Queries]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
 | 31 | [[DataviewJS]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
 | 32 | [[Exam Date]] | — | — | 2. Inline DQL Queries | 176 |
@@ -825,7 +825,7 @@ extraction_summary:
 | 49 | [[Page Name]] | Display Text | — | Link | 901 |
 | 50 | [[link]] | — | — | Link | 902 |
 | 51 | [[Parent Page]] | — | — | Link in frontmatter (MUST be quoted) | 907 |
-| 52 | [[Related Note]] | — | — | Inline field | 910 |
+| 52 | [[Related-Note|Related Note]] | — | — | Inline field | 910 |
 | 53 | [[Assignment Math]] | — | — | Query with link indexing | 913 |
 | 54 | [[Project]] | — | — | Query with link indexing | 914 |
 | 55 | [[John Smith]] | — | — | Project Note Schema Example | 1017 |
@@ -836,18 +836,18 @@ extraction_summary:
 | 60 | [[Wiki-Link]] | — | — | Metadata Management Guidelines | 1919 |
 | 61 | [[Advanced Dataview Optimization Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 1994 |
 | 62 | [[Metadata Schema Design Patterns for PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 1999 |
-| 63 | [[Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2002 |
+| 63 | [[Knowledge-Management|Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2002 |
 | 64 | [[DataviewJS Advanced Patterns & Custom Views]] | — | — | 🔗 Related Topics for PKB Expansion | 2004 |
 | 65 | [[Dataview Integration with Templater & Other Plugins]] | — | — | 🔗 Related Topics for PKB Expansion | 2009 |
 | 66 | [[Templater]] | — | — | 🔗 Related Topics for PKB Expansion | 2010 |
 | 67 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | 🔗 Related Topics for PKB Expansion | 2010 |
 | 68 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 2088 |
-| 69 | [[YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 2089 |
+| 69 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 2089 |
 | 70 | [[Metadata Schema Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2090 |
 | 71 | [[Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 2091 |
 | 72 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 2092 |
 | 73 | [[SQL]] | — | — | 🔗 Related Topics for PKB Expansion | 2093 |
-| 74 | [[Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 2094 |
+| 74 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 2094 |
 | 75 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 2095 |
 | 76 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2096 |
 | 77 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 2097 |
@@ -882,7 +882,7 @@ extraction_summary:
 | 19 | **Duration** | 2 hours 30 minutes | bare | 886 |
 | 20 | **Time** | 45 min | bare | 887 |
 | 21 | **Length** | 3 days | bare | 888 |
-| 22 | **Related** | [[Related Note]] | bare | 910 |
+| 22 | **Related** | [[Related-Note|Related Note]] | bare | 910 |
 | 23 | **Tags** | "fiction", "scifi", "award-winning" | bare | 945 |
 | 24 | **Numbers** | 1, 2, 3, 5, 8, 13 | bare | 946 |
 | 25 | **grocery** | flour | bare | 949 |
@@ -2182,7 +2182,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 | **Task Management** | Aggregate incomplete tasks across vault, filter by due date, create project-specific task views | [[TASK Query]] |
 | **Content Dashboards** | Book libraries with ratings, research paper collections, recipe databases | [[TABLE Query]] |
 | **Temporal Views** | Daily note creation trackers, [[Calendar Views]], deadline monitoring | [[CALENDAR Query]] |
-| **Relationship Mapping** | Pages linking to/from specific notes, [[Backlink]] analysis, [[Knowledge Graph]] exploration | [[from]] sources with [[Link Queries]] |
+| **Relationship Mapping** | Pages linking to/from specific notes, [[Backlink]] analysis, [[Knowledge-Graph|Knowledge Graph]] exploration | [[from]] sources with [[Link Queries]] |
 | **Progress Tracking** | Reading lists, habit tracking, project completion percentages | [[TABLE Query]] with calculations |
 | **Dynamic MOCs** | Auto-generating [[Map of Content]] pages based on tags or folder structure | [[LIST Query]] with [[GROUP BY]] |
 
@@ -2212,7 +2212,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]]
 - [[Advanced Dataview Optimization Techniques]]
 - [[Alice]]
@@ -2238,7 +2238,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[Inline Queries]]
 - [[JavaScript]]
 - [[John Smith]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[LIST Query]]
 - [[Link Queries]]
 - [[Maps-of-Content-—-MOCs|MOC]]
@@ -2254,21 +2254,21 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Project]]
 - [[Regular Expressions]]
-- [[Related Note]]
+- [[Related-Note|Related Note]]
 - [[SQL]]
 - [[TABLE Query]]
 - [[TASK Query]]
 - [[Templater]]
 - [[Wiki-Link]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
-- [[dql]]
+- [[DQL]]
 - [[flatten]]
 - [[from]]
 - [[link]]
 - [[note]]
-- [[obsidian]]
+- [[Obsidian]]
 - [[project-pur3v4d3r-20251121013128]]
 
 ---

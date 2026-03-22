@@ -253,9 +253,9 @@ extraction_summary:
 #### 5. [THE-PHILOSOPHY] The Mechanistic Logic of Mindfulness as Cognitive Training *(Line 367)*
 
 > [!the-philosophy] The Mechanistic Logic of Mindfulness as Cognitive Training
-> The theoretical proposition that [[Mindfulness Meditation]] can enhance executive function rests on a deceptively simple premise with profound mechanistic implications: the core practices of mindfulness meditation require the repeated, sustained engagement of the very cognitive processes that constitute executive function. [**Focused-Attention-Meditation**:: a contemplative practice involving the sustained direction of attention to a chosen object—typically the breath—with continuous monitoring and redirecting of attention when the mind wanders, thereby exercising attentional control mechanisms through thousands of repetitions during formal practice]. This practice essentially functions as resistance training for [[Selective Attention]] and [[Sustained Attention]], creating a naturalistic laboratory for strengthening the neural circuits underlying voluntary attention control.
+> The theoretical proposition that [[Mindfulness Meditation]] can enhance executive function rests on a deceptively simple premise with profound mechanistic implications: the core practices of mindfulness meditation require the repeated, sustained engagement of the very cognitive processes that constitute executive function. [**Focused-Attention-Meditation**:: a contemplative practice involving the sustained direction of attention to a chosen object—typically the breath—with continuous monitoring and redirecting of attention when the mind wanders, thereby exercising attentional control mechanisms through thousands of repetitions during formal practice]. This practice essentially functions as resistance training for [[Selective-Attention|Selective Attention]] and [[Sustained Attention]], creating a naturalistic laboratory for strengthening the neural circuits underlying voluntary attention control.
 > 
-> [**Open-Monitoring-Meditation**:: a contemplative practice characterized by non-reactive, non-judgmental awareness of any sensory, cognitive, or affective events arising in the field of experience, cultivating meta-awareness and the capacity to observe mental content without elaboration or emotional reactivity]. This practice trains the capacity to maintain attentional stability while simultaneously monitoring the contents of consciousness—a form of cognitive control that parallels the executive monitoring and conflict detection functions ascribed to the [[Anterior Cingulate Cortex]] in neurocognitive models of cognitive control. The proposition that "neurons that fire together wire together," grounded in [[Hebbian Learning]] principles and contemporary understanding of [[Neural Plasticity]], suggests that the systematic exercise of these attention-demanding practices should induce enduring changes in the neural systems that support executive function. The empirical question is whether this theoretical logic holds under rigorous experimental scrutiny—and if so, what effect sizes, durations, and boundary conditions characterize these training effects.
+> [**Open-Monitoring-Meditation**:: a contemplative practice characterized by non-reactive, non-judgmental awareness of any sensory, cognitive, or affective events arising in the field of experience, cultivating meta-awareness and the capacity to observe mental content without elaboration or emotional reactivity]. This practice trains the capacity to maintain attentional stability while simultaneously monitoring the contents of consciousness—a form of cognitive control that parallels the executive monitoring and conflict detection functions ascribed to the [[Anterior Cingulate Cortex]] in neurocognitive models of cognitive control. The proposition that "neurons that fire together wire together," grounded in [[Hebbian Learning]] principles and contemporary understanding of [[Neural-Plasticity|Neural Plasticity]], suggests that the systematic exercise of these attention-demanding practices should induce enduring changes in the neural systems that support executive function. The empirical question is whether this theoretical logic holds under rigorous experimental scrutiny—and if so, what effect sizes, durations, and boundary conditions characterize these training effects.
 
 #### 6. [KEY-CLAIM] Primary Meta-Analytic Finding: Small-to-Moderate Executive Function Enhancement *(Line 374)*
 
@@ -465,7 +465,7 @@ extraction_summary:
 > **Connection:** Both mindfulness and metacognition involve awareness of one's mental processes, and theoretical frameworks propose that mindfulness training enhances metacognitive abilities—potentially explaining cognitive benefits through improved self-monitoring and cognitive strategy selection.
 > **Depth Potential:** This connection integrates contemplative practice with the broader metacognition literature from educational psychology, examining whether mindfulness practitioners show enhanced metacognitive accuracy (knowing what they know), better calibration (confidence matching performance), and more effective cognitive strategy use.
 > **Knowledge Graph Role:** Connects contemplative neuroscience with educational psychology and self-regulated learning frameworks—establishing mindfulness as a metacognitive training approach.
-> **Prerequisites:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Cognitive Calibration]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], [[Flavell's Metacognitive Framework]].
+> **Prerequisites:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Cognitive Calibration]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], [[Flavell's-Metacognitive-Framework|Flavell's Metacognitive Framework]].
 > 
 > ### 3. **[[Default Mode Network Dysfunction Across Psychopathology]]**
 > **Connection:** The Default Mode Network shows consistent alterations across diverse psychiatric conditions (depression, anxiety, ADHD, autism, schizophrenia), and mindfulness training's effects on DMN connectivity suggest potential transdiagnostic therapeutic mechanism.
@@ -597,10 +597,10 @@ extraction_summary:
 - [[Embodied Cognition and Somatic Awareness]]
 - [[Environmental Neuroscience]]
 - [[Episodic-Buffer|Episodic Buffer]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Experience-Dependent Neuroplasticity]]
 - [[Flanker Task]]
-- [[Flavell's Metacognitive Framework]]
+- [[Flavell's-Metacognitive-Framework|Flavell's Metacognitive Framework]]
 - [[Frontoparietal Network]]
 - [[Gallant]]
 - [[Go/No-Go]]
@@ -627,7 +627,7 @@ extraction_summary:
 - [[Miyake]]
 - [[Network Neuroscience]]
 - [[Neural Darwinism]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[Neurofeedback and Mindfulness Synergies]]
 - [[Neuroplasticity Across Lifespan]]
 - [[Newman]]
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Richard Davidson]]
 - [[STRONG Project]]
 - [[Salience Network]]
-- [[Selective Attention]]
+- [[Selective-Attention|Selective Attention]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sensorimotor Grounding]]
 - [[Set Shifting]]
@@ -667,9 +667,9 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Mindfulness-Based Cognitive Training]] | — | — | Document Start | 39 |
-| 2 | [[Executive Function]] | — | — | Mindfulness-Based Cognitive Training | 350 |
+| 2 | [[Executive-Function|Executive Function]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 3 | [[Cognitive Training]] | — | — | Mindfulness-Based Cognitive Training | 350 |
-| 4 | [[Neural Plasticity]] | — | — | Mindfulness-Based Cognitive Training | 350 |
+| 4 | [[Neural-Plasticity|Neural Plasticity]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 5 | [[Attention Networks]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 6 | [[Working-Memory|Working Memory]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 7 | [[Default Mode Network]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
@@ -693,11 +693,11 @@ extraction_summary:
 | 25 | [[Wisconsin Card Sorting Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 26 | [[Trail Making Test Part B]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 27 | [[Mindfulness Meditation]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
-| 28 | [[Selective Attention]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
+| 28 | [[Selective-Attention|Selective Attention]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
 | 29 | [[Sustained Attention]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
 | 30 | [[Anterior Cingulate Cortex]] | — | — | 🧠 Theoretical Foundations: Executive ... | 370 |
 | 31 | [[Hebbian Learning]] | — | — | 🧠 Theoretical Foundations: Executive ... | 370 |
-| 32 | [[Neural Plasticity]] | — | — | 🧠 Theoretical Foundations: Executive ... | 370 |
+| 32 | [[Neural-Plasticity|Neural Plasticity]] | — | — | 🧠 Theoretical Foundations: Executive ... | 370 |
 | 33 | [[Zainal and Newman]] | — | — | 📊 Meta-Analytic Evidence: Quantitativ... | 375 |
 | 34 | [[Zainal]] | — | — | 📊 Meta-Analytic Evidence: Quantitativ... | 378 |
 | 35 | [[Newman]] | — | — | 📊 Meta-Analytic Evidence: Quantitativ... | 378 |
@@ -776,7 +776,7 @@ extraction_summary:
 | 108 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
 | 109 | [[Cognitive Calibration]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
 | 110 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
-| 111 | [[Flavell's Metacognitive Framework]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
+| 111 | [[Flavell's-Metacognitive-Framework|Flavell's Metacognitive Framework]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
 | 112 | [[Default Mode Network Dysfunction Across Psychopathology]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 597 |
 | 113 | [[Triple Network Model]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 601 |
 | 114 | [[Research Domain Criteria]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 601 |
@@ -1470,10 +1470,10 @@ for (let letter of sortedLetters) {
 - [[Embodied Cognition and Somatic Awareness]]
 - [[Environmental Neuroscience]]
 - [[Episodic-Buffer|Episodic Buffer]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Experience-Dependent Neuroplasticity]]
 - [[Flanker Task]]
-- [[Flavell's Metacognitive Framework]]
+- [[Flavell's-Metacognitive-Framework|Flavell's Metacognitive Framework]]
 - [[Frontoparietal Network]]
 - [[Gallant]]
 - [[Go/No-Go]]
@@ -1500,7 +1500,7 @@ for (let letter of sortedLetters) {
 - [[Miyake]]
 - [[Network Neuroscience]]
 - [[Neural Darwinism]]
-- [[Neural Plasticity]]
+- [[Neural-Plasticity|Neural Plasticity]]
 - [[Neurofeedback and Mindfulness Synergies]]
 - [[Neuroplasticity Across Lifespan]]
 - [[Newman]]
@@ -1513,7 +1513,7 @@ for (let letter of sortedLetters) {
 - [[Richard Davidson]]
 - [[STRONG Project]]
 - [[Salience Network]]
-- [[Selective Attention]]
+- [[Selective-Attention|Selective Attention]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sensorimotor Grounding]]
 - [[Set Shifting]]

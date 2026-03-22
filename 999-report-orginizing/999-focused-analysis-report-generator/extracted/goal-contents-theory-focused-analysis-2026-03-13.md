@@ -93,22 +93,22 @@ key-distinctions:
   - Goal framing vs. goal content
 prerequisites:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
-foundational-report: "[[Self-Determination Theory — Foundational Report]]"
+foundational-report: "[[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]"
 related:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Self-Concordance-Model|Self-Concordance Model]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Hedonic-Adaptation|Hedonic Adaptation]]"
-  - "[[Psychological Well-Being]]"
+  - "[[psychological-well-being|Psychological Well-Being]]"
 broader:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Positive Psychology]]"
-  - "[[Motivational Psychology]]"
+  - "[[Motivational-Psychology|Motivational Psychology]]"
 narrower:
   - "[[Aspiration-Index|Aspiration Index]]"
   - "[[Intrinsic Goal Taxonomy]]"
@@ -119,17 +119,17 @@ see-also:
   - "[[Terror Management Theory]]"
   - "[[Materialism Research]]"
 contrasts-with:
-  - "[[Goal Setting Theory (Locke & Latham)]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[Goal-Setting-Theory|Goal Setting Theory (Locke & Latham)]]"
+  - "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Educational Psychology Practice]]"
-  - "[[Motivational Interviewing]]"
+  - "[[Motivational-Interviewing|Motivational Interviewing]]"
   - "[[Organizational Psychology]]"
 builds-on:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic Psychological Needs Theory]]"
-  - "[[Organismic Valuing Process]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Organismic-Valuing-Process|Organismic Valuing Process]]"
 enables:
   - "[[Goal Framing in Instructional Design]]"
   - "[[Values-Based Curriculum Design]]"
@@ -141,7 +141,7 @@ expansion-topics:
   - topic: "[[Intrinsic Goal Framing in Instructional Design]]"
     description: Vansteenkiste et al.'s research applying GCT directly to learning contexts — translating theory into pedagogical practice
     priority: high
-  - topic: "[[Expectancy-Value Theory]]"
+  - topic: "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
     description: Eccles & Wigfield's framework provides a complementary angle — where EVT focuses on subjective task value, GCT focuses on distal goal content
     priority: high
   - topic: "[[Hedonic Adaptation and the Attainment Paradox]]"
@@ -177,7 +177,7 @@ document-features:
   cognitive-engagement-elements: 14
   analytical-commentary: 10
 source: claude-sonnet-4-6
-generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
+generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
 generation-date: 2026-03-13
 ---
 
@@ -190,7 +190,7 @@ generation-date: 2026-03-13
 
 There is a persistent and somewhat uncomfortable finding at the heart of motivational psychology: human beings are remarkably poor predictors of what will make them flourish. We pursue goals with genuine intensity and conviction, we achieve them at great personal cost, and we often discover — sometimes to our bewilderment — that the fulfillment we anticipated has not arrived, or has arrived and quickly faded. This phenomenon is familiar to most thoughtful people as a matter of lived experience. What is less obvious is that this pattern of disappointment is not evenly distributed across the kinds of goals people pursue. It concentrates, with striking regularity, around a specific category of aspiration.
 
-[[Goal Contents Theory]] (GCT), developed by [[Tim Kasser]] and [[Richard Ryan]] as a sub-theory within the broader framework of [[Self-Determination-Theory|Self-Determination Theory]], offers a rigorous account of why this is the case. Its central claim is deceptively simple: the *content* of what a person most aspires toward — independent of how hard they try, how committed they are, or whether they succeed — functions as a reliable predictor of their psychological well-being. Specifically, goals organized around personal growth, meaningful relationships, community contribution, and physical health (collectively designated as *intrinsic* goal content) tend to support psychological flourishing. Goals organized primarily around financial success, fame, public recognition, and attractive appearance (designated as *extrinsic* goal content) tend to undermine it.
+[[Goal-Contents-Theory|Goal Contents Theory]] (GCT), developed by [[Tim-Kasser|Tim Kasser]] and [[Richard-Ryan|Richard Ryan]] as a sub-theory within the broader framework of [[Self-Determination-Theory|Self-Determination Theory]], offers a rigorous account of why this is the case. Its central claim is deceptively simple: the *content* of what a person most aspires toward — independent of how hard they try, how committed they are, or whether they succeed — functions as a reliable predictor of their psychological well-being. Specifically, goals organized around personal growth, meaningful relationships, community contribution, and physical health (collectively designated as *intrinsic* goal content) tend to support psychological flourishing. Goals organized primarily around financial success, fame, public recognition, and attractive appearance (designated as *extrinsic* goal content) tend to undermine it.
 
 **This report examines a specific analytical question**: *How does the content of what people aspire toward independently predict psychological well-being outcomes, and what mechanisms link goal content to basic psychological needs satisfaction and frustration?* For comprehensive background on [[Self-Determination-Theory|Self-Determination Theory]] as a whole — its organismic meta-theory, the three-factor model of [[Basic-Psychological-Needs|basic psychological needs]], and the [[Organismic-Integration-Theory|Organismic Integration Theory]] sub-theory — readers are directed to the Foundational Report on [[Self-Determination-Theory|Self-Determination Theory]]. This analysis takes those foundations as given and drills into one of SDT's most empirically active and practically consequential sub-theories.
 
@@ -222,7 +222,7 @@ This distinction is more than definitional housekeeping — it has real empirica
 GCT proposes a taxonomic distinction between four intrinsic goal domains and three extrinsic goal domains:
 
 > [!definition] **Intrinsic Goal Content**
-> The four canonical intrinsic goal domains are: (1) **Personal growth** — developing oneself, learning new things, increasing self-understanding and psychological depth; (2) **Meaningful relationships** — building deep, authentic, mutually supportive connections with others; (3) **Community contribution** — working to make a positive difference in one's broader community or society; and (4) **Physical health and fitness** — maintaining and developing one's physical vitality and well-being. What unites these four domains, according to GCT, is that pursuing them tends to directly satisfy the basic psychological needs for [[autonomy]], [[competence]], and [[relatedness]] — needs whose satisfaction is, by SDT's definition, constitutive of psychological well-being.
+> The four canonical intrinsic goal domains are: (1) **Personal growth** — developing oneself, learning new things, increasing self-understanding and psychological depth; (2) **Meaningful relationships** — building deep, authentic, mutually supportive connections with others; (3) **Community contribution** — working to make a positive difference in one's broader community or society; and (4) **Physical health and fitness** — maintaining and developing one's physical vitality and well-being. What unites these four domains, according to GCT, is that pursuing them tends to directly satisfy the basic psychological needs for [[Autonomy]], [[Competence]], and [[Relatedness]] — needs whose satisfaction is, by SDT's definition, constitutive of psychological well-being.
 
 > [!definition] **Extrinsic Goal Content**
 > The three canonical extrinsic goal domains are: (1) **Financial success** — aspiring toward wealth, material possessions, and financial security beyond baseline needs; (2) **Fame and popularity** — seeking widespread public recognition, celebrity, and social approval from large audiences; and (3) **Attractive appearance** — prioritizing one's physical appearance as evaluated by others, including the pursuit of beauty ideals and bodily perfection. What unites these three domains is that they are primarily valued for the social comparison advantages and external approval they provide, and their pursuit tends to orient attention and energy toward conditional self-worth rather than direct needs satisfaction.
@@ -262,7 +262,7 @@ The evidence base can be organized around three tiers of findings, moving from c
 
 ### Tier 1: The Correlational Foundation
 
-The earliest and most replicated finding in GCT is a cluster of robust correlations: people who place higher relative importance on extrinsic goals tend to report lower [[psychological well-being]] (operationalized as life satisfaction, positive affect, vitality), higher [[ill-being]] (anxiety, depression, physical symptoms), and less [[self-actualization]]. These associations appear consistently with effect sizes in the small-to-medium range (r ≈ .20–.40 for individual goal domains), replicated across age groups from adolescents to adults in middle age.
+The earliest and most replicated finding in GCT is a cluster of robust correlations: people who place higher relative importance on extrinsic goals tend to report lower [[psychological-well-being|psychological well-being]] (operationalized as life satisfaction, positive affect, vitality), higher [[ill-being]] (anxiety, depression, physical symptoms), and less [[self-actualization]]. These associations appear consistently with effect sizes in the small-to-medium range (r ≈ .20–.40 for individual goal domains), replicated across age groups from adolescents to adults in middle age.
 
 > [!evidence] **Kasser & Ryan (1993, 1996) — The Founding Studies**
 > In two studies with college-age and young adult samples, Kasser and Ryan established the foundational associations. Participants rating financial success as a highly important life goal showed lower self-actualization, lower vitality, higher anxiety, and more depressive symptomatology compared with participants for whom financial success was a relatively lower priority. Critically, these associations persisted after controlling for income and parental socioeconomic status — establishing that the effects were not simply due to financial precarity making people anxious while they had low income.
@@ -275,7 +275,7 @@ The earliest and most replicated finding in GCT is a cluster of robust correlati
 
 ### Tier 2: The Experimental Evidence from Educational Framing
 
-A critical methodological contribution came from [[Maarten Vansteenkiste]] and colleagues, who conducted experimental studies manipulating the *framing* of learning tasks using intrinsic versus extrinsic goal language — rather than measuring pre-existing goal orientations.
+A critical methodological contribution came from [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] and colleagues, who conducted experimental studies manipulating the *framing* of learning tasks using intrinsic versus extrinsic goal language — rather than measuring pre-existing goal orientations.
 
 > [!evidence] **Vansteenkiste et al. (2004, 2007) — Goal Framing Experiments**
 > In a series of controlled experiments, participants were randomly assigned to learn identical content under one of two goal framings: an intrinsic framing (e.g., "this material will help you develop a better understanding of yourself and others") or an extrinsic framing (e.g., "this material will help you earn better grades and look good to employers"). Across multiple studies, participants in the intrinsic framing conditions showed: greater conceptual learning and deeper processing of content, higher intrinsic motivation during the task, greater persistence after initial failure, and better transfer performance. Participants in the extrinsic framing conditions showed more surface processing, greater performance anxiety under evaluative conditions, and worse long-term retention.
@@ -324,7 +324,7 @@ The most fundamental mechanism proposed by GCT is that intrinsic and extrinsic g
 
 Consider what the *process* of actively pursuing each goal type involves. Pursuing personal growth goals tends to require exercising one's capacities autonomously, choosing one's own direction of development, experiencing genuine competence feedback from mastery, and engaging in valued intrinsic activities — all of which are constitutively connected to needs satisfaction for autonomy and competence. Pursuing relational goals necessarily involves genuine engagement with other people in ways that, when the engagement is authentic, satisfy the relatedness need. Community contribution goals direct attention outward toward others and toward genuinely valued projects, creating meaning and connectedness.
 
-Contrast this with what pursuing extrinsic goals typically involves: orienting attention toward comparisons with others (how wealthy am I compared to my reference group?), toward external validators (how many followers do I have?), and toward contingent self-worth (I am valuable *if* I achieve this financial milestone). This orientation has been shown to activate what [[Edward Deci]] and Ryan call "ego involvement" — a mode of engagement in which self-worth feels contingent on outcomes, which chronically undermines the experience of autonomous self-determination.
+Contrast this with what pursuing extrinsic goals typically involves: orienting attention toward comparisons with others (how wealthy am I compared to my reference group?), toward external validators (how many followers do I have?), and toward contingent self-worth (I am valuable *if* I achieve this financial milestone). This orientation has been shown to activate what [[Edward-Deci|Edward Deci]] and Ryan call "ego involvement" — a mode of engagement in which self-worth feels contingent on outcomes, which chronically undermines the experience of autonomous self-determination.
 
 > [!analytical-insight] **Goals as Attentional Architectures**
 > One underappreciated mechanism connecting goal content to well-being is the *attentional architecture* each goal type creates. Intrinsic goals direct attention toward the intrinsic process of activity — the experience of growth, connection, contribution — in ways that are self-reinforcing: noticing progress in personal development is directly rewarding, deepening connection is directly rewarding, contributing meaningfully is directly rewarding. Extrinsic goals direct attention toward comparative metrics and external thresholds — how much, how recognized, how appealing relative to others — in ways that are structurally competitive (there is always someone with more, more recognized, more appealing). The attentional architecture of extrinsic goal pursuit thus creates a cognitive environment in which the person is chronically measuring themselves against an external standard that, by design, can always recede. This is not a side effect of extrinsic goals — it is intrinsic to what extrinsic goals are about.
@@ -351,7 +351,7 @@ The logic runs as follows. The basic psychological needs for autonomy, competenc
 
 ### Mechanism 4: Goal Self-Concordance and Energetic Dynamics
 
-A fourth mechanism, theorized more fully by [[Kennon Sheldon]] in his [[Self-Concordance-Model|Self-Concordance Model]], connects goal content to motivational energy in a way that complements and extends GCT.
+A fourth mechanism, theorized more fully by [[Kennon-Sheldon|Kennon Sheldon]] in his [[Self-Concordance-Model|Self-Concordance Model]], connects goal content to motivational energy in a way that complements and extends GCT.
 
 The Self-Concordance Model proposes that goals vary in how concordant they are with the person's authentic values and core self — with intrinsic goals tending to be more self-concordant (pursued because the person genuinely values them) and extrinsic goals tending to be more contingent or external in their motivation. Self-concordant goals tend to receive more sustained motivational investment, to generate more positive affect during pursuit, and to produce greater well-being benefits upon attainment — not because they are intrinsically goal content per se, but because the motivational quality of their pursuit is more autonomously regulated.
 
@@ -392,7 +392,7 @@ The attainment paradox is perhaps the most important single implication. The com
 
 ### Applications in Counseling and Coaching Contexts
 
-GCT has been applied in [[Motivational Interviewing]] contexts and in therapeutic settings, particularly in working with clients experiencing depression, anxiety, or chronic dissatisfaction despite apparent "success." When a client has achieved the external markers of success (wealth, status, recognition) and still feels empty or anxious, GCT provides a non-pathologizing conceptual framework: the goals achieved may genuinely be the wrong goals — not wrong in a moral sense, but wrong in the sense that they are not constituted to satisfy the psychological needs whose satisfaction is constitutive of flourishing.
+GCT has been applied in [[Motivational-Interviewing|Motivational Interviewing]] contexts and in therapeutic settings, particularly in working with clients experiencing depression, anxiety, or chronic dissatisfaction despite apparent "success." When a client has achieved the external markers of success (wealth, status, recognition) and still feels empty or anxious, GCT provides a non-pathologizing conceptual framework: the goals achieved may genuinely be the wrong goals — not wrong in a moral sense, but wrong in the sense that they are not constituted to satisfy the psychological needs whose satisfaction is constitutive of flourishing.
 
 > [!analytical-insight] **The Non-Pathologizing Reframe: A Therapeutic Contribution**
 > One of the underappreciated contributions of GCT to clinical and coaching practice is precisely its non-pathologizing character. When a person who has "made it" by every external metric is persistently unhappy, the dominant cultural narrative attributes this to deficiency: ingratitude, depression, a flawed personality, or an inability to appreciate what they have. GCT offers a structurally different explanation — one that does not locate the problem in the person's psychological deficits but in the *goal architecture* they have been pursuing. This reframe is often more therapeutically generative than explanations centered on pathology, because it opens a forward-looking question ("what would you actually aspire toward if you let yourself?") rather than requiring the person to identify and fix what is wrong with them.
@@ -439,7 +439,7 @@ Earlier, in Phase II, we established that GCT focuses on the *content* of goals 
 > The central original synthesis this analysis permits: a person's goal content profile — their aspiration hierarchy as revealed by instruments like the AI — functions not primarily as an independent variable acting on well-being, but as a *motivational diagnostic* reflecting the state of their basic psychological needs ecology. Just as a fever is both a symptom of illness and a mechanism that (in acute form) causes further distress, extrinsic goal emphasis is both a symptom of prior needs frustration and a mechanism that, once entrenched, perpetuates the conditions of needs frustration through the attentional architectures and contingent self-worth dynamics it creates. This reconceptualization has a practical implication: the most powerful intervention point is not goal content itself but the needs ecology that gives rise to goal content profiles. Educational environments, organizational cultures, and therapeutic relationships that reliably support autonomy, competence, and relatedness should expect, over time, to observe natural shifts in aspiration profiles toward more intrinsic content — not because intrinsic goals were directly prescribed, but because the needs environment changed.
 
 > [!original-synthesis] **The Quality Dimension: GCT as a Theory of Motivational Metabolism**
-> A second synthetic observation: GCT can be understood as introducing a *qualitative* dimension into what has often been treated as a purely quantitative domain of goal research. Most influential goal theories — [[Goal Setting Theory]] in particular — have focused on the quantitative features of goals: their difficulty, specificity, temporal framing, and commitment level. GCT's contribution is to insist that these quantitative features are insufficient to predict well-being outcomes and, indeed, that optimizing quantitative features of the wrong goal content may accelerate rather than prevent motivational damage. Pursuing extrinsic goals with maximum commitment, specificity, and difficulty — exactly what goal-setting theory recommends — may be the most reliable path to the attainment paradox. This suggests that the appropriate theoretical integration is not to replace quantitative goal research with GCT, but to treat goal content analysis as a prerequisite to quantitative goal optimization: first determine whether the goal is constituted to satisfy basic needs; *then* optimize its quantitative features. Without this sequencing, ambitious, committed, highly specific goal pursuit may be building elaborate scaffolding toward an impoverished destination.
+> A second synthetic observation: GCT can be understood as introducing a *qualitative* dimension into what has often been treated as a purely quantitative domain of goal research. Most influential goal theories — [[Goal-Setting-Theory|Goal Setting Theory]] in particular — have focused on the quantitative features of goals: their difficulty, specificity, temporal framing, and commitment level. GCT's contribution is to insist that these quantitative features are insufficient to predict well-being outcomes and, indeed, that optimizing quantitative features of the wrong goal content may accelerate rather than prevent motivational damage. Pursuing extrinsic goals with maximum commitment, specificity, and difficulty — exactly what goal-setting theory recommends — may be the most reliable path to the attainment paradox. This suggests that the appropriate theoretical integration is not to replace quantitative goal research with GCT, but to treat goal content analysis as a prerequisite to quantitative goal optimization: first determine whether the goal is constituted to satisfy basic needs; *then* optimize its quantitative features. Without this sequencing, ambitious, committed, highly specific goal pursuit may be building elaborate scaffolding toward an impoverished destination.
 
 > [!reflection] **Final Integration**
 > 
@@ -462,7 +462,7 @@ Earlier, in Phase II, we established that GCT focuses on the *content* of goals 
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection here is less obvious but analytically rich. CLT's concerns are primarily with the cognitive architecture of learning; GCT's concerns are with the motivational ecology. However, the Vansteenkiste et al. framing experiments suggest a possible interaction: extrinsic goal framing may increase extraneous cognitive load by activating performance anxiety and self-monitoring processes that consume working memory capacity, while intrinsic goal framing may reduce extraneous load by orienting attention toward the task itself rather than toward evaluation outcomes. This interaction has not been systematically tested, but it represents a genuinely underexplored interface between the PKB's motivational and cognitive reports.
 >
-> - **[[Expectancy-Value Theory]]** — EVT's construct of *task value* (intrinsic value, utility value, attainment value, cost) provides a partially overlapping but distinct framework for understanding why different goals carry different motivational weight. EVT's utility value is structurally similar to extrinsic goal content (the task is valuable because of what it instrumentally enables), while intrinsic value overlaps with intrinsic goal content. The key difference is that GCT treats the intrinsic-extrinsic distinction as rooted in basic needs theory, while EVT is largely agnostic about why task values have the effects they do. The PKB would benefit from a comparative analysis of how these two frameworks relate.
+> - **[[Expectancy-Value-Theory|Expectancy-Value Theory]]** — EVT's construct of *task value* (intrinsic value, utility value, attainment value, cost) provides a partially overlapping but distinct framework for understanding why different goals carry different motivational weight. EVT's utility value is structurally similar to extrinsic goal content (the task is valuable because of what it instrumentally enables), while intrinsic value overlaps with intrinsic goal content. The key difference is that GCT treats the intrinsic-extrinsic distinction as rooted in basic needs theory, while EVT is largely agnostic about why task values have the effects they do. The PKB would benefit from a comparative analysis of how these two frameworks relate.
 >
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's intelligence beliefs framework connects to GCT through a shared concern with the quality of achievement orientation. Fixed mindset, which orients persons toward performance goals (demonstrating ability), shares the extrinsic goal structure of attending to external validation and contingent competence. Growth mindset, which orients toward learning goals, shares the intrinsic goal structure of process engagement and mastery. The connection suggests that mindset interventions and goal content interventions may be operating on adjacent or overlapping psychological mechanisms.
 >
@@ -478,7 +478,7 @@ Earlier, in Phase II, we established that GCT focuses on the *content* of goals 
 > A sub-theory of [[Self-Determination-Theory|Self-Determination Theory]] proposing that personal goals differ in their qualitative content — what they aim toward — and that this qualitative dimension independently predicts psychological well-being. Distinguishes intrinsic goal content (personal growth, meaningful relationships, community contribution, physical health) from extrinsic goal content (financial success, fame, attractive appearance), with the hypothesis that intrinsic goal emphasis supports and extrinsic goal emphasis undermines the satisfaction of basic psychological needs.
 
 > [!definition] **Intrinsic Goal Content**
-> Goals organized around outcomes that are considered directly and inherently satisfying — that is, goals whose active pursuit tends to directly satisfy the basic psychological needs for [[autonomy]], [[competence]], and [[relatedness]]. The canonical domains are personal growth, meaningful relationships, community contribution, and physical health. NOT to be confused with intrinsic *motivation* (in OIT terms), which refers to the motivational quality of goal engagement, not the content of what the goal aims toward.
+> Goals organized around outcomes that are considered directly and inherently satisfying — that is, goals whose active pursuit tends to directly satisfy the basic psychological needs for [[Autonomy]], [[Competence]], and [[Relatedness]]. The canonical domains are personal growth, meaningful relationships, community contribution, and physical health. NOT to be confused with intrinsic *motivation* (in OIT terms), which refers to the motivational quality of goal engagement, not the content of what the goal aims toward.
 
 > [!definition] **Extrinsic Goal Content**
 > Goals organized primarily around external markers of value — financial success, public recognition, fame, and physical attractiveness as evaluated by others — rather than around activities or relationships intrinsically satisfying in themselves. GCT claims that extrinsic goal emphasis tends to frustrate basic needs satisfaction because their pursuit orients attention toward comparative metrics and contingent self-worth rather than toward intrinsically satisfying processes.

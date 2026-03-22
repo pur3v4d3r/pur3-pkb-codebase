@@ -239,7 +239,7 @@ extraction_summary:
 #### 1. [DEFINITION] # Definition *(Line 105)*
 
 > [!definition] # Definition
-> [**Note Title**:: [[**Comprehensive Refernece: MCP Servers**]]]
+> [**Note Title**:: [[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]]]
 > [**Prompt Used**:: ]
 > ##### [✅`= dateformat(this.file.ctime, "MMMM dd, yyyy")` - Initial Creation]
 
@@ -293,7 +293,7 @@ extraction_summary:
 #### 8. [DEFINITION] Client-Server Architecture *(Line 208)*
 
 > [!definition] Client-Server Architecture
-> MCP follows a <span style='color: #72FFF1;'>client-server architecture</span> where an <span style='color: #FFC700;'>MCP Host</span> (an AI application like [[Claude Code]] or [[Claude Desktop]]) establishes connections to one or more <span style='color: #FFC700;'>MCP Servers</span> through <span style='color: #FFC700;'>MCP Clients</span> (connection managers).
+> MCP follows a <span style='color: #72FFF1;'>client-server architecture</span> where an <span style='color: #FFC700;'>MCP Host</span> (an AI application like [[Claude-Code|Claude Code]] or [[Claude-Desktop|Claude Desktop]]) establishes connections to one or more <span style='color: #FFC700;'>MCP Servers</span> through <span style='color: #FFC700;'>MCP Clients</span> (connection managers).
 
 #### 9. [METHODOLOGY-AND-SOURCES] Transport Mechanisms *(Line 239)*
 
@@ -806,8 +806,8 @@ extraction_summary:
 > [!mental-model-anchor] Untitled
 > **Framework Connections**
 > 
-> - **[[Unix Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
-> - **[[API Design Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
+> - **[[Unix-Philosophy|Unix Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
+> - **[[API-Design-Patterns|API Design Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
 > - **[[Knowledge Graph Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
 
@@ -834,12 +834,12 @@ extraction_summary:
 > **Explicit PKB Connections**
 > 
 > This reference connects to:
-> - [[Claude Code]] — Primary MCP client for development workflows
+> - [[Claude-Code|Claude Code]] — Primary MCP client for development workflows
 > - [[Obsidian]] — PKB platform with MCP server support
-> - [[Prompt Engineering]] — Library management via MCP
-> - [[AI Agent Architecture]] — MCP as agent-tool interface
+> - [[Prompt-Engineering|Prompt Engineering]] — Library management via MCP
+> - [[AI-Agent-Architecture|AI Agent Architecture]] — MCP as agent-tool interface
 > - [[JSON-RPC]] — Underlying protocol specification
-> - [[API Design Patterns]] — Architectural foundations
+> - [[API-Design-Patterns|API Design Patterns]] — Architectural foundations
 
 #### 60. [ATOMIC-CANDIDATES] Untitled *(Line 1009)*
 
@@ -1164,11 +1164,11 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > - [[Personal-Knowledge-Base|Personal Knowledge Base]] – Source of `pkb://` resources
-> - [[Prompt Engineering]] – Domain for `prompt://` resources
+> - [[Prompt-Engineering|Prompt Engineering]] – Domain for `prompt://` resources
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]] – Framework for optimizing context delivery
-> - [[VS Code]] – Primary client environment
-> - [[Claude Code]] – Target reasoning engine
-> - [[Gemini Code Assist]] – Target reasoning engine
+> - [[VS-Code|VS Code]] – Primary client environment
+> - [[Claude-Code|Claude Code]] – Target reasoning engine
+> - [[Gemini-Code-Assist|Gemini Code Assist]] – Target reasoning engine
 
 #### 94. [ATOMIC-CANDIDATES] Untitled *(Line 1724)*
 
@@ -1211,33 +1211,33 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[**Comprehensive Refernece: MCP Servers**]]
+- [[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]]
 - [[2025-04-05]]
-- [[AI Agent Architecture]]
+- [[AI-Agent-Architecture|AI Agent Architecture]]
 - [[AI Agent Gateway]]
 - [[AI Agent Orchestration]]
-- [[AI Agents]]
+- [[AI-Agents|AI Agents]]
 - [[AI-Augmented Zettelkasten]]
-- [[AI-PKB Integration]]
-- [[API Design Patterns]]
-- [[API Fundamentals]]
+- [[AI-PKB-Integration|AI-PKB Integration]]
+- [[API-Design-Patterns|API Design Patterns]]
+- [[API-Fundamentals|API Fundamentals]]
 - [[Async Programming]]
-- [[Claude Code]]
-- [[Claude Code Workflows]]
-- [[Claude Desktop]]
+- [[Claude-Code|Claude Code]]
+- [[Claude-Code-Workflows|Claude Code Workflows]]
+- [[Claude-Desktop|Claude Desktop]]
 - [[Cognitive Engineering Stack]]
 - [[Cognitive Load Optimization]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Comprehensive Refernece: MCP Servers]]
 - [[Context-Aware Prompting]]
-- [[Custom MCP Server Development]]
+- [[Custom-MCP-Server-Development|Custom MCP Server Development]]
 - [[Dataview]]
 - [[DevOps Practices]]
 - [[Docker Fundamentals]]
 - [[Enterprise MCP Governance]]
 - [[FastMCP]]
 - [[FastMCP Development Guide]]
-- [[Gemini Code Assist]]
+- [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Git Fundamentals]]
 - [[HTTP/2 and SSE]]
 - [[Human-AI Collaboration]]
@@ -1255,20 +1255,20 @@ extraction_summary:
 - [[MCP Security]]
 - [[MCP Security Best Practices]]
 - [[MCP Security Hardening]]
-- [[MCP Servers]]
+- [[MCP-Servers|MCP Servers]]
 - [[MCP Tools]]
 - [[MCP Transport Layer Internals]]
 - [[Network Security Basics]]
 - [[Node.js]]
 - [[Obsidian]]
-- [[Obsidian Automation]]
+- [[Obsidian-Automation|Obsidian Automation]]
 - [[Obsidian MCP Integration]]
 - [[PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Basics]]
 - [[Prompt Engineering Version Control]]
-- [[Prompt Library Management]]
+- [[Prompt-Library-Management|Prompt Library Management]]
 - [[Prompt Library Schema]]
 - [[Prompt Versioning]]
 - [[Python Fundamentals]]
@@ -1276,8 +1276,8 @@ extraction_summary:
 - [[Second Brain Architecture]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
-- [[Unix Philosophy]]
-- [[VS Code]]
+- [[Unix-Philosophy|Unix Philosophy]]
+- [[VS-Code|VS Code]]
 - [[Zettelkasten]]
 - [[Zettelkasten Methodology]]
 
@@ -1285,38 +1285,38 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[**Comprehensive Refernece: MCP Servers**]] | — | — | Foundational Understanding | 106 |
-| 2 | [[API Fundamentals]] | — | — | Foundational Understanding | 125 |
+| 1 | [[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]] | — | — | Foundational Understanding | 106 |
+| 2 | [[API-Fundamentals|API Fundamentals]] | — | — | Foundational Understanding | 125 |
 | 3 | [[JSON-RPC]] | — | — | Foundational Understanding | 125 |
-| 4 | [[AI Agent Architecture]] | — | — | Foundational Understanding | 125 |
-| 5 | [[Custom MCP Server Development]] | — | — | Foundational Understanding | 127 |
-| 6 | [[AI-PKB Integration]] | — | — | Foundational Understanding | 127 |
-| 7 | [[Prompt Library Management]] | — | — | Foundational Understanding | 127 |
-| 8 | [[Claude Code Workflows]] | — | — | Foundational Understanding | 128 |
-| 9 | [[Gemini Code Assist]] | — | — | Foundational Understanding | 128 |
-| 10 | [[Obsidian Automation]] | — | — | Foundational Understanding | 128 |
-| 11 | [[Claude Code]] | — | — | Foundational Understanding | 129 |
-| 12 | [[Gemini Code Assist]] | — | — | Foundational Understanding | 129 |
+| 4 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | Foundational Understanding | 125 |
+| 5 | [[Custom-MCP-Server-Development|Custom MCP Server Development]] | — | — | Foundational Understanding | 127 |
+| 6 | [[AI-PKB-Integration|AI-PKB Integration]] | — | — | Foundational Understanding | 127 |
+| 7 | [[Prompt-Library-Management|Prompt Library Management]] | — | — | Foundational Understanding | 127 |
+| 8 | [[Claude-Code-Workflows|Claude Code Workflows]] | — | — | Foundational Understanding | 128 |
+| 9 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Foundational Understanding | 128 |
+| 10 | [[Obsidian-Automation|Obsidian Automation]] | — | — | Foundational Understanding | 128 |
+| 11 | [[Claude-Code|Claude Code]] | — | — | Foundational Understanding | 129 |
+| 12 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Foundational Understanding | 129 |
 | 13 | [[Obsidian]] | — | — | Foundational Understanding | 129 |
-| 14 | [[Prompt Engineering]] | — | — | Foundational Understanding | 129 |
-| 15 | [[AI Agents]] | — | — | Foundational Understanding | 129 |
-| 16 | [[Claude Code]] | — | — | Core Architecture | 209 |
-| 17 | [[Claude Desktop]] | — | — | Core Architecture | 209 |
-| 18 | [[Claude Code]] | — | — | Claude Code Integration | 348 |
-| 19 | [[Gemini Code Assist]] | — | — | Gemini Code Assist Integration | 459 |
+| 14 | [[Prompt-Engineering|Prompt Engineering]] | — | — | Foundational Understanding | 129 |
+| 15 | [[AI-Agents|AI Agents]] | — | — | Foundational Understanding | 129 |
+| 16 | [[Claude-Code|Claude Code]] | — | — | Core Architecture | 209 |
+| 17 | [[Claude-Desktop|Claude Desktop]] | — | — | Core Architecture | 209 |
+| 18 | [[Claude-Code|Claude Code]] | — | — | Claude Code Integration | 348 |
+| 19 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Gemini Code Assist Integration | 459 |
 | 20 | [[Obsidian]] | — | — | Obsidian MCP Server Implementations | 531 |
 | 21 | [[Dataview]] | — | — | Advanced Integration Patterns | 591 |
 | 22 | [[Templater]] | — | — | Advanced Integration Patterns | 591 |
-| 23 | [[Unix Philosophy]] | — | — | 🎯 Synthesis & Mastery | 974 |
-| 24 | [[API Design Patterns]] | — | — | 🎯 Synthesis & Mastery | 975 |
+| 23 | [[Unix-Philosophy|Unix Philosophy]] | — | — | 🎯 Synthesis & Mastery | 974 |
+| 24 | [[API-Design-Patterns|API Design Patterns]] | — | — | 🎯 Synthesis & Mastery | 975 |
 | 25 | [[Knowledge Graph Theory]] | — | — | 🎯 Synthesis & Mastery | 976 |
 | 26 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Synthesis & Mastery | 977 |
-| 27 | [[Claude Code]] | — | — | 🔗 PKB Integration | 1002 |
+| 27 | [[Claude-Code|Claude Code]] | — | — | 🔗 PKB Integration | 1002 |
 | 28 | [[Obsidian]] | — | — | 🔗 PKB Integration | 1003 |
-| 29 | [[Prompt Engineering]] | — | — | 🔗 PKB Integration | 1004 |
-| 30 | [[AI Agent Architecture]] | — | — | 🔗 PKB Integration | 1005 |
+| 29 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🔗 PKB Integration | 1004 |
+| 30 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | 🔗 PKB Integration | 1005 |
 | 31 | [[JSON-RPC]] | — | — | 🔗 PKB Integration | 1006 |
-| 32 | [[API Design Patterns]] | — | — | 🔗 PKB Integration | 1007 |
+| 32 | [[API-Design-Patterns|API Design Patterns]] | — | — | 🔗 PKB Integration | 1007 |
 | 33 | [[MCP Tools]] | — | — | 🔗 PKB Integration | 1012 |
 | 34 | [[MCP Resources]] | — | — | 🔗 PKB Integration | 1013 |
 | 35 | [[MCP Prompts]] | — | — | 🔗 PKB Integration | 1014 |
@@ -1335,11 +1335,11 @@ extraction_summary:
 | 48 | [[Network Security Basics]] | — | — | 2. **[[MCP Security Hardening]]** | 1078 |
 | 49 | [[AI-Augmented Zettelkasten]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1082 |
 | 50 | [[Zettelkasten]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
-| 51 | [[AI Agent Architecture]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
+| 51 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
 | 52 | [[Zettelkasten Methodology]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1087 |
-| 53 | [[MCP Servers]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1087 |
+| 53 | [[MCP-Servers|MCP Servers]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1087 |
 | 54 | [[Prompt Engineering Version Control]] | — | — | 4. **[[Prompt Engineering Version Con... | 1089 |
-| 55 | [[Prompt Engineering]] | — | — | 4. **[[Prompt Engineering Version Con... | 1092 |
+| 55 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 4. **[[Prompt Engineering Version Con... | 1092 |
 | 56 | [[DevOps Practices]] | — | — | 4. **[[Prompt Engineering Version Con... | 1092 |
 | 57 | [[Git Fundamentals]] | — | — | 4. **[[Prompt Engineering Version Con... | 1094 |
 | 58 | [[Prompt Engineering Basics]] | — | — | 4. **[[Prompt Engineering Version Con... | 1094 |
@@ -1352,10 +1352,10 @@ extraction_summary:
 | 65 | [[IT Governance Frameworks]] | — | — | 6. **[[Enterprise MCP Governance]]** ... | 1110 |
 | 66 | [[Comprehensive Refernece: MCP Servers]] | — | — | Active Review Task | 1384 |
 | 67 | [[Comprehensive Refernece: MCP Servers]] | — | — | Active Review Task | 1387 |
-| 68 | [[VS Code]] | — | — | QWEN TOT Search | 1408 |
+| 68 | [[VS-Code|VS Code]] | — | — | QWEN TOT Search | 1408 |
 | 69 | [[Node.js]] | — | — | QWEN TOT Search | 1408 |
 | 70 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | QWEN TOT Search | 1408 |
-| 71 | [[Prompt Engineering]] | — | — | QWEN TOT Search | 1408 |
+| 71 | [[Prompt-Engineering|Prompt Engineering]] | — | — | QWEN TOT Search | 1408 |
 | 72 | [[LSP]] | — | — | QWEN TOT Search | 1409 |
 | 73 | [[JSON-RPC]] | — | — | QWEN TOT Search | 1409 |
 | 74 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | QWEN TOT Search | 1409 |
@@ -1364,14 +1364,14 @@ extraction_summary:
 | 77 | [[Cognitive Engineering Stack]] | — | — | QWEN TOT Search | 1411 |
 | 78 | [[Second Brain]] | — | — | QWEN TOT Search | 1412 |
 | 79 | [[Human-AI Collaboration]] | — | — | QWEN TOT Search | 1412 |
-| 80 | [[Obsidian Automation]] | — | — | QWEN TOT Search | 1412 |
+| 80 | [[Obsidian-Automation|Obsidian Automation]] | — | — | QWEN TOT Search | 1412 |
 | 81 | [[2025-04-05]] | — | — | QWEN TOT Search | 1416 |
 | 82 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔗 PKB Integration | 1717 |
-| 83 | [[Prompt Engineering]] | — | — | 🔗 PKB Integration | 1718 |
+| 83 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🔗 PKB Integration | 1718 |
 | 84 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 PKB Integration | 1719 |
-| 85 | [[VS Code]] | — | — | 🔗 PKB Integration | 1720 |
-| 86 | [[Claude Code]] | — | — | 🔗 PKB Integration | 1721 |
-| 87 | [[Gemini Code Assist]] | — | — | 🔗 PKB Integration | 1722 |
+| 85 | [[VS-Code|VS Code]] | — | — | 🔗 PKB Integration | 1720 |
+| 86 | [[Claude-Code|Claude Code]] | — | — | 🔗 PKB Integration | 1721 |
+| 87 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | 🔗 PKB Integration | 1722 |
 | 88 | [[MCP Resource URI]] | — | — | 🔗 PKB Integration | 1725 |
 | 89 | [[Prompt Library Schema]] | — | — | 🔗 PKB Integration | 1726 |
 | 90 | [[AI Agent Gateway]] | — | — | 🔗 PKB Integration | 1727 |
@@ -1380,7 +1380,7 @@ extraction_summary:
 | 93 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🔗 PKB Integration | 1732 |
 | 94 | [[Local LLMs]] | — | — | 🔗 PKB Integration | 1733 |
 | 95 | [[AI Agent Orchestration]] | — | — | 🔗 Related Topics for PKB Expansion | 1757 |
-| 96 | [[Obsidian Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1760 |
+| 96 | [[Obsidian-Automation|Obsidian Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1760 |
 | 97 | [[Prompt Versioning]] | — | — | 🔗 Related Topics for PKB Expansion | 1763 |
 | 98 | [[Cognitive Load Optimization]] | — | — | 🔗 Related Topics for PKB Expansion | 1766 |
 | 99 | [[Local LLM Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 1769 |
@@ -1640,11 +1640,11 @@ freshness:
   last-verified: 2025-12-23
 prerequisites:
   hard: []
-  soft: [[API Fundamentals]], [[JSON-RPC]], [[AI Agent Architecture]]
+  soft: [[API-Fundamentals|API Fundamentals]], [[JSON-RPC]], [[AI-Agent-Architecture|AI Agent Architecture]]
 enables:
-  direct: [[Custom MCP Server Development]], [[AI-PKB Integration]], [[Prompt Library Management]]
-  related: [[Claude Code Workflows]], [[Gemini Code Assist]], [[Obsidian Automation]]
-related: [[Claude Code]], [[Gemini Code Assist]], [[Obsidian]], [[Prompt Engineering]], [[AI Agents]]
+  direct: [[Custom-MCP-Server-Development|Custom MCP Server Development]], [[AI-PKB-Integration|AI-PKB Integration]], [[Prompt-Library-Management|Prompt Library Management]]
+  related: [[Claude-Code-Workflows|Claude Code Workflows]], [[Gemini-Code-Assist|Gemini Code Assist]], [[Obsidian-Automation|Obsidian Automation]]
+related: [[Claude-Code|Claude Code]], [[Gemini-Code-Assist|Gemini Code Assist]], [[Obsidian]], [[Prompt-Engineering|Prompt Engineering]], [[AI-Agents|AI Agents]]
 ---
 ```
 
@@ -2004,11 +2004,11 @@ freshness:
   domain-volatility: moderate
   last-verified: 2025-04-05
 prerequisites:
-  hard: [[VS Code]], [[Node.js]], [[Personal-Knowledge-Base|Personal Knowledge Base]], [[Prompt Engineering]]
+  hard: [[VS-Code|VS Code]], [[Node.js]], [[Personal-Knowledge-Base|Personal Knowledge Base]], [[Prompt-Engineering|Prompt Engineering]]
   soft: [[LSP]], [[JSON-RPC]], [[Cognitive-Load-Theory|Cognitive Load Theory]]
 enables:
   direct: [[AI Agent Orchestration]], [[Context-Aware Prompting]], [[Cognitive Engineering Stack]]
-  related: [[Second Brain]], [[Human-AI Collaboration]], [[Obsidian Automation]]
+  related: [[Second Brain]], [[Human-AI Collaboration]], [[Obsidian-Automation|Obsidian Automation]]
 ```
 
 ### Code Block 24 — `toc` *(Lines 1437-1438)*
@@ -2372,33 +2372,33 @@ graph LR
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[**Comprehensive Refernece: MCP Servers**]]
+- [[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]]
 - [[2025-04-05]]
-- [[AI Agent Architecture]]
+- [[AI-Agent-Architecture|AI Agent Architecture]]
 - [[AI Agent Gateway]]
 - [[AI Agent Orchestration]]
-- [[AI Agents]]
+- [[AI-Agents|AI Agents]]
 - [[AI-Augmented Zettelkasten]]
-- [[AI-PKB Integration]]
-- [[API Design Patterns]]
-- [[API Fundamentals]]
+- [[AI-PKB-Integration|AI-PKB Integration]]
+- [[API-Design-Patterns|API Design Patterns]]
+- [[API-Fundamentals|API Fundamentals]]
 - [[Async Programming]]
-- [[Claude Code]]
-- [[Claude Code Workflows]]
-- [[Claude Desktop]]
+- [[Claude-Code|Claude Code]]
+- [[Claude-Code-Workflows|Claude Code Workflows]]
+- [[Claude-Desktop|Claude Desktop]]
 - [[Cognitive Engineering Stack]]
 - [[Cognitive Load Optimization]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Comprehensive Refernece: MCP Servers]]
 - [[Context-Aware Prompting]]
-- [[Custom MCP Server Development]]
+- [[Custom-MCP-Server-Development|Custom MCP Server Development]]
 - [[Dataview]]
 - [[DevOps Practices]]
 - [[Docker Fundamentals]]
 - [[Enterprise MCP Governance]]
 - [[FastMCP]]
 - [[FastMCP Development Guide]]
-- [[Gemini Code Assist]]
+- [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Git Fundamentals]]
 - [[HTTP/2 and SSE]]
 - [[Human-AI Collaboration]]
@@ -2416,20 +2416,20 @@ graph LR
 - [[MCP Security]]
 - [[MCP Security Best Practices]]
 - [[MCP Security Hardening]]
-- [[MCP Servers]]
+- [[MCP-Servers|MCP Servers]]
 - [[MCP Tools]]
 - [[MCP Transport Layer Internals]]
 - [[Network Security Basics]]
 - [[Node.js]]
 - [[Obsidian]]
-- [[Obsidian Automation]]
+- [[Obsidian-Automation|Obsidian Automation]]
 - [[Obsidian MCP Integration]]
 - [[PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Basics]]
 - [[Prompt Engineering Version Control]]
-- [[Prompt Library Management]]
+- [[Prompt-Library-Management|Prompt Library Management]]
 - [[Prompt Library Schema]]
 - [[Prompt Versioning]]
 - [[Python Fundamentals]]
@@ -2437,8 +2437,8 @@ graph LR
 - [[Second Brain Architecture]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
-- [[Unix Philosophy]]
-- [[VS Code]]
+- [[Unix-Philosophy|Unix Philosophy]]
+- [[VS-Code|VS Code]]
 - [[Zettelkasten]]
 - [[Zettelkasten Methodology]]
 

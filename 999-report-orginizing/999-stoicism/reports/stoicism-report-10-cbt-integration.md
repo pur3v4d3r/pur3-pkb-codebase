@@ -114,20 +114,20 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
   - "[[Chrysippus]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Rational Emotive Behavior Therapy]]"
-  - "[[Acceptance and Commitment Therapy]]"
+  - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Albert Ellis]]"
   - "[[Aaron Beck]]"
   - "[[Steven Hayes]]"
   - "[[Donald Robertson]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
   - "[[Preferred Indifferents]]"
@@ -151,7 +151,7 @@ series-connections:
 broader:
   - "[[Philosophy MOC]]"
   - "[[Psychology MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[History of Psychotherapy]]"
   - "[[Contemplative Practice]]"
 
@@ -216,9 +216,9 @@ link-down:
   - "[[Cognitive Defusion vs Stoic Assent]]"
 
 link-related:
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Psychological Flexibility]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[Mindfulness-Based Cognitive Therapy]]"
 
 expansion-topics:
@@ -265,7 +265,7 @@ importance: high
 > → Next: *Series Complete*
 >
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 ---
 
@@ -356,7 +356,7 @@ Beck's twelve-category taxonomy of [[Cognitive Distortions]] — including all-o
 
 [ACT-Core-Model:: Acceptance and Commitment Therapy (ACT) organizes its therapeutic goals around the construct of "psychological flexibility" — the capacity to be fully in contact with the present moment, including difficult internal experiences, while persisting in behavior aligned with one's chosen values. The hexaflex model identifies six core therapeutic processes: acceptance, cognitive defusion, present-moment awareness, self-as-context, values clarification, and committed action. This model has deep structural parallels with Stoic practice, particularly with Epictetus's discipline of assent and Marcus Aurelius's practice of "holding impressions lightly."]
 
-The ACT concept of [[Cognitive Defusion]] — learning to observe thoughts as mental events rather than as accurate representations of reality — is structurally very close to what [[Marcus Aurelius]] describes in several passages of the *Meditations* when he writes about examining impressions and stripping away the valuations the mind adds to them. The ACT practice of noticing a thought ("I am having the thought that this situation is terrible") rather than fusing with it ("this situation is terrible") mirrors the Stoic practice of withholding assent from an impression before examining it.
+The ACT concept of [[Cognitive Defusion]] — learning to observe thoughts as mental events rather than as accurate representations of reality — is structurally very close to what [[Marcus-Aurelius]] describes in several passages of the *Meditations* when he writes about examining impressions and stripping away the valuations the mind adds to them. The ACT practice of noticing a thought ("I am having the thought that this situation is terrible") rather than fusing with it ("this situation is terrible") mirrors the Stoic practice of withholding assent from an impression before examining it.
 
 > [!key-insight]
 > **The Three Waves and Three Stoic Disciplines**: There is a loose but instructive mapping between the three waves of CBT and Epictetus's three disciplines. First-wave behavioral therapy, focused on action patterns and environmental contingencies, maps onto Epictetus's *discipline of action* (kathēkon). Second-wave cognitive therapy, focused on examining and correcting thoughts, maps onto the *discipline of assent* (prohairesis). Third-wave ACT, focused on clarifying values and accepting what cannot be changed, maps onto the *discipline of desire* (orexis). This is not a perfect correspondence, but it suggests that the evolution of CBT over seventy years has progressively rediscovered the full architecture of Epictetan practice.
@@ -383,7 +383,7 @@ Both traditions have developed systematic methods for catching the evaluative th
 > [!practice]
 > **Shared Practice: The Thought Record as Stoic Diary**
 >
-> The CBT thought record and [[Marcus Aurelius]]'s journaling practice in the *Meditations* are structurally identical tools serving the same purpose. Both involve: (1) noticing and recording a disturbing event, (2) identifying the automatic thought or impression attached to it, (3) examining that thought's accuracy, and (4) generating a more accurate or more adaptive appraisal. Marcus Aurelius practiced this daily in what became the *Meditations*. Beck formalized it as the "Daily Thought Record" — one of the most widely used tools in clinical CBT practice. The practitioner who uses CBT thought records as a vehicle for Stoic philosophical examination has access to both traditions simultaneously.
+> The CBT thought record and [[Marcus-Aurelius]]'s journaling practice in the *Meditations* are structurally identical tools serving the same purpose. Both involve: (1) noticing and recording a disturbing event, (2) identifying the automatic thought or impression attached to it, (3) examining that thought's accuracy, and (4) generating a more accurate or more adaptive appraisal. Marcus Aurelius practiced this daily in what became the *Meditations*. Beck formalized it as the "Daily Thought Record" — one of the most widely used tools in clinical CBT practice. The practitioner who uses CBT thought records as a vehicle for Stoic philosophical examination has access to both traditions simultaneously.
 
 ### Convergence 3: The Structure of Maladaptive Cognition
 
@@ -483,7 +483,7 @@ The CBT tradition has developed highly refined clinical tools for this practice 
 
 At the intermediate level, the integration involves using Stoicism's teleological framework to give CBT's techniques a more stable and motivationally compelling ground. This addresses one of the limitations of pure CBT practice: people often successfully complete CBT for depression, reduce their symptoms, and then wonder — "reduced to what?" The practice of examining cognitions is instrumentally justified when it reduces symptoms; but what is the positive vision it is pointing toward?
 
-Stoicism answers this question with precision: the practice of examining one's cognitive appraisals is not merely a way to reduce psychological distress (though it does that); it is the concrete, daily practice of living as a rational being. When [[Marcus Aurelius]] examines his impressions in the *Meditations*, he is not managing his clinical symptoms — he is exercising his nature as a rational agent, which is the only thing that makes a human life genuinely good. This positive vision — rational self-governance as the ground of a flourishing life — gives the otherwise neutral CBT techniques a philosophical orientation that many practitioners find both more motivating and more stable than symptom reduction alone.
+Stoicism answers this question with precision: the practice of examining one's cognitive appraisals is not merely a way to reduce psychological distress (though it does that); it is the concrete, daily practice of living as a rational being. When [[Marcus-Aurelius]] examines his impressions in the *Meditations*, he is not managing his clinical symptoms — he is exercising his nature as a rational agent, which is the only thing that makes a human life genuinely good. This positive vision — rational self-governance as the ground of a flourishing life — gives the otherwise neutral CBT techniques a philosophical orientation that many practitioners find both more motivating and more stable than symptom reduction alone.
 
 [Teleological-Complement-Integration:: The most powerful level of Stoicism-CBT integration uses Stoicism's teleological framework to give CBT's techniques a stable and motivationally compelling philosophical grounding. CBT techniques are instrumentally justified by symptom reduction; Stoic philosophy reframes them as intrinsically valuable — as the concrete daily practice of living as a rational being in accordance with virtue. This reframing does not change the techniques; it changes what the practitioner understands themselves to be doing when they use them.]
 
@@ -496,7 +496,7 @@ ACT has developed sophisticated clinical tools for acceptance — particularly t
 > [!practice]
 > **Practice 2: The "Up to Me / Not Up to Me" Daily Audit**
 >
-> **What it is**: A five-minute morning practice that deploys the [[Dichotomy of Control]] as an ACT-compatible acceptance framework.
+> **What it is**: A five-minute morning practice that deploys the [[Dichotomy-of-Control]] as an ACT-compatible acceptance framework.
 >
 > **The Protocol**:
 > 1. *Name today's central concern or challenge*: What is most on your mind this morning?
@@ -514,7 +514,7 @@ Unlike the comparisons in earlier reports, there is no ambiguity here about hist
 
 ### Ellis's Explicit Acknowledgment
 
-Albert Ellis's debt to [[Epictetus]] was lifelong and explicit. He cited the opening lines of the *Enchiridion* in the foundational texts of REBT, incorporated the Stoic framework directly into his theoretical papers, and continued throughout his career to identify Epictetan philosophy as the primary philosophical source of his clinical approach. Ellis also drew on [[Marcus Aurelius]] and [[Seneca]], and he cited the broader Stoic tradition — along with Kant, Bertrand Russell, and Alfred Korzybski — as the philosophical influences that shaped his break with psychoanalysis.
+Albert Ellis's debt to [[Epictetus]] was lifelong and explicit. He cited the opening lines of the *Enchiridion* in the foundational texts of REBT, incorporated the Stoic framework directly into his theoretical papers, and continued throughout his career to identify Epictetan philosophy as the primary philosophical source of his clinical approach. Ellis also drew on [[Marcus-Aurelius]] and [[Seneca]], and he cited the broader Stoic tradition — along with Kant, Bertrand Russell, and Alfred Korzybski — as the philosophical influences that shaped his break with psychoanalysis.
 
 > [!research]
 > **The Ellis-Epictetus Connection**: In a 2001 paper titled "Rational and Irrational Aspects of Countertransference," Ellis summarized the relationship directly: "The Stoics, particularly Epictetus, largely created REBT." This is not false modesty but accurate intellectual history. The ABC model, the taxonomy of irrational beliefs, the disputational method of therapy — all of these derive their theoretical architecture from the Epictetan claim that emotions follow from judgments, not events, and that rational examination of judgments is the primary therapeutic intervention.
@@ -540,7 +540,7 @@ The theoretical architecture developed in this report now permits a comprehensiv
 >
 > **Duration**: 10–15 minutes
 > **Frequency**: Daily
-> **Stoic Grounding**: The morning meditation prescribed by [[Epictetus]] in the *Discourses* and practiced by [[Marcus Aurelius]] — anticipating the day's challenges, reviewing the principles that will govern responses
+> **Stoic Grounding**: The morning meditation prescribed by [[Epictetus]] in the *Discourses* and practiced by [[Marcus-Aurelius]] — anticipating the day's challenges, reviewing the principles that will govern responses
 > **CBT Grounding**: Cognitive preparation and anticipatory coping, adapted from Beck's "planning the day" protocol
 >
 > **Protocol**:

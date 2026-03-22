@@ -129,7 +129,7 @@ extraction_summary:
 - [[Autonomy Support versus Controlling Contexts in SDT]]
 - [[Autonomy Supportive Parenting/Teaching]]
 - [[Autonomy versus Control Cross-Cultural Debate]]
-- [[Basic Psychological Needs Theory (BPNT)]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory (BPNT)]]
 - [[Behavioral Regulation]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory (COT)]]
 - [[Chaos]]
@@ -150,7 +150,7 @@ extraction_summary:
 - [[Eudaimonic Well-Being]]
 - [[External-Regulation|External Regulation]]
 - [[Extrinsic Life Goals]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow State]]
 - [[Functional Significance of Events]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
@@ -158,7 +158,7 @@ extraction_summary:
 - [[Goal Theory]]
 - [[Healthcare Provider Autonomy Support]]
 - [[Hedonic Well-Being]]
-- [[Humanistic Psychology]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
 - [[Identified-Regulation|Identified Regulation]]
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Integrated-Regulation|Integrated Regulation]]
@@ -178,7 +178,7 @@ extraction_summary:
 - [[Need Thwarting versus Need Frustration in SDT]]
 - [[Neglect]]
 - [[Non-Controlling Competence Feedback]]
-- [[Organismic Integration]]
+- [[Organismic-Integration|Organismic Integration]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory (OIT)]]
 - [[Organismic-Dialectical Meta-Theory]]
@@ -221,7 +221,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking | 60 |
-| 2 | [[Extrinsic Motivation]] | — | — | Claude Thinking | 60 |
+| 2 | [[Extrinsic-Motivation|Extrinsic Motivation]] | — | — | Claude Thinking | 60 |
 | 3 | [[Autonomy]] | — | — | Claude Thinking | 61 |
 | 4 | [[Competence]] | — | — | Claude Thinking | 61 |
 | 5 | [[Relatedness]] | — | — | Claude Thinking | 61 |
@@ -235,10 +235,10 @@ extraction_summary:
 | 13 | [[Achievement Motivation]] | — | — | Claude Thinking | 65 |
 | 14 | [[Self-Efficacy]] | — | — | Claude Thinking | 66 |
 | 15 | [[Locus-of-Control|Locus of Control]] | — | — | Claude Thinking | 66 |
-| 16 | [[Organismic Integration]] | — | — | Claude Thinking | 67 |
+| 16 | [[Organismic-Integration|Organismic Integration]] | — | — | Claude Thinking | 67 |
 | 17 | [[Regulatory Styles]] | — | — | Claude Thinking | 67 |
 | 18 | [[2025-12-02]] | — | — | Claude Thinking | 86 |
-| 19 | [[Basic Psychological Needs Theory (BPNT)]] | — | — | Claude Thinking | 88 |
+| 19 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory (BPNT)]] | — | — | Claude Thinking | 88 |
 | 20 | [[Autonomy]] | — | — | Claude Thinking | 95 |
 | 21 | [[Competence]] | — | — | Claude Thinking | 96 |
 | 22 | [[Relatedness]] | — | — | Claude Thinking | 97 |
@@ -256,8 +256,8 @@ extraction_summary:
 | 34 | [[Extrinsic Life Goals]] | — | — | Claude Thinking | 105 |
 | 35 | [[Self-Determination Theory Overview]] | — | — | Claude Thinking | 109 |
 | 36 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking | 110 |
-| 37 | [[Extrinsic Motivation]] | — | — | Claude Thinking | 110 |
-| 38 | [[Humanistic Psychology]] | — | — | Claude Thinking | 111 |
+| 37 | [[Extrinsic-Motivation|Extrinsic Motivation]] | — | — | Claude Thinking | 110 |
+| 38 | [[Humanistic-Psychology|Humanistic Psychology]] | — | — | Claude Thinking | 111 |
 | 39 | [[Positive Psychology]] | — | — | Claude Thinking | 112 |
 | 40 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory (CET)]] | — | — | Claude Thinking | 123 |
 | 41 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking | 131 |
@@ -295,7 +295,7 @@ extraction_summary:
 | 73 | [[Simplex Structure]] | — | — | Claude Thinking | 180 |
 | 74 | [[Self-Determination Theory Overview]] | — | — | Claude Thinking | 184 |
 | 75 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking | 185 |
-| 76 | [[Extrinsic Motivation]] | — | — | Claude Thinking | 185 |
+| 76 | [[Extrinsic-Motivation|Extrinsic Motivation]] | — | — | Claude Thinking | 185 |
 | 77 | [[Autonomy]] | — | — | Claude Thinking | 186 |
 | 78 | [[Self-Concordance Theory]] | — | — | Claude Thinking | 187 |
 | 79 | [[Causality-Orientations-Theory|Causality Orientations Theory (COT)]] | — | — | Claude Thinking | 199 |
@@ -386,7 +386,7 @@ extraction_summary:
 ### Code Block 1 — `plaintext` *(Lines 87-118)*
 
 ```plaintext
-**Topic**: [[Basic Psychological Needs Theory (BPNT)]]
+**Topic**: [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory (BPNT)]]
 **Domain**: Motivational Psychology, Developmental Psychology, Cross-Cultural Psychology
 **Depth Potential**: 3000-5000 words
 **Core Question**: "What constitutes a universal psychological need, and how do autonomy, competence, and relatedness function as necessary nutrients for psychological growth across all human contexts?"
@@ -408,8 +408,8 @@ BPNT is the cornerstone mini-theory of SDT that makes the controversial claim th
 The three needs function like essential nutrients for plants—just as plants require nitrogen, phosphorus, and potassium (and one cannot substitute for another), humans require autonomy, competence, and relatedness for psychological flourishing, with deficiency in any creating specific pathologies.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[Intrinsic-Motivation|Intrinsic Motivation]] versus [[Extrinsic Motivation]]
-- [[Humanistic Psychology]] - theoretical lineage
+- [[Intrinsic-Motivation|Intrinsic Motivation]] versus [[Extrinsic-Motivation|Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]] - theoretical lineage
 - [[Positive Psychology]] movement
 **Research Starting Points**:
 - Ryan & Deci (2017) "Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness"
@@ -483,7 +483,7 @@ OIT is perhaps SDT's most sophisticated mini-theory, proposing a *continuum* of 
 Internalization resembles digestion—external "food" (values, regulations) can be swallowed whole (introjection), partially broken down (identification), or fully metabolized and integrated into the organism's structure (integration), with health depending on the thoroughness of the process.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[Intrinsic-Motivation|Intrinsic Motivation]] versus [[Extrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]] versus [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Autonomy]] as psychological need
 - [[Self-Concordance Theory]]
 **Research Starting Points**:
@@ -583,7 +583,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[Autonomy Support versus Controlling Contexts in SDT]]
 - [[Autonomy Supportive Parenting/Teaching]]
 - [[Autonomy versus Control Cross-Cultural Debate]]
-- [[Basic Psychological Needs Theory (BPNT)]]
+- [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory (BPNT)]]
 - [[Behavioral Regulation]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory (COT)]]
 - [[Chaos]]
@@ -604,7 +604,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[Eudaimonic Well-Being]]
 - [[External-Regulation|External Regulation]]
 - [[Extrinsic Life Goals]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow State]]
 - [[Functional Significance of Events]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
@@ -612,7 +612,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[Goal Theory]]
 - [[Healthcare Provider Autonomy Support]]
 - [[Hedonic Well-Being]]
-- [[Humanistic Psychology]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
 - [[Identified-Regulation|Identified Regulation]]
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Integrated-Regulation|Integrated Regulation]]
@@ -632,7 +632,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[Need Thwarting versus Need Frustration in SDT]]
 - [[Neglect]]
 - [[Non-Controlling Competence Feedback]]
-- [[Organismic Integration]]
+- [[Organismic-Integration|Organismic Integration]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory (OIT)]]
 - [[Organismic-Dialectical Meta-Theory]]

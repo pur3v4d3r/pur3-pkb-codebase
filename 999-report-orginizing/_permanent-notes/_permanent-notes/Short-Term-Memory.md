@@ -5,6 +5,7 @@
 title: "Short-Term Memory"
 aliases:
   - "Short-Term Memory"
+  - "short-term-memory"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -29,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +80,14 @@ see-also:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Forgetting-Curve|Forgetting Curve]]"
   - "[[Savings-in-Relearning|Savings in Relearning]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Long-Term-Memory|Long-Term Memory]]"
+  - "[[Hermann-Ebbinghaus|Hermann Ebbinghaus]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Forgetting-Curve|Forgetting Curve]]"
+  - "[[Savings-in-Relearning|Savings in Relearning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +115,7 @@ importance: high
 # Short-Term Memory
 
 > [!definition] **Short-Term Memory**
-> In the Atkinson-Shiffrin model, a limited-capacity (~7 ± 2 chunks), brief-duration (~15–30 seconds without rehearsal) store holding information that is currently active in consciousness. Information in STM is maintained through **rehearsal** (deliberate repetition) and is lost through either decay or displacement when the capacity limit is exceeded. Transfer to long-term memory was theorised to depend on rehearsal duration, though this relationship later proved more complex. STM was conceived as a passive holding buffer, a conception later replaced by the more dynamic [[Working Memory]] model.
+> In the Atkinson-Shiffrin model, a limited-capacity (~7 ± 2 chunks), brief-duration (~15–30 seconds without rehearsal) store holding information that is currently active in consciousness. Information in STM is maintained through **rehearsal** (deliberate repetition) and is lost through either decay or displacement when the capacity limit is exceeded. Transfer to long-term memory was theorised to depend on rehearsal duration, though this relationship later proved more complex. STM was conceived as a passive holding buffer, a conception later replaced by the more dynamic [[Working-Memory]] model.
 
 ## Core Explanation
 
@@ -136,7 +145,7 @@ importance: high
 > Given the testing effect, the dominant recommendation from applied memory research is to replace or supplement re-reading and massed review with retrieval practice: low-stakes quizzing, flashcard retrieval, free recall exercises, or practice tests. The effect is robust and large in magnitude relative to other learning strategies. Importantly, retrieval practice benefits long-term retention even — especially — when initial retrieval is effortful and involves some failures. The principle of…
 
 > [!warning] **Key Distinction**
-> Perhaps the most pervasive misconception about memory is the "video recorder" or "filing cabinet" metaphor — the idea that memory faithfully records experience and that accurate recall is a matter of successfully accessing an intact stored trace. This is comprehensively wrong. Memory is reconstructive, context-dependent, and highly susceptible to distortion, suggestion, and the incorporation of post-event information. The extensive research on [[Elizabeth Loftus]] on eyewitness testimony and…
+> Perhaps the most pervasive misconception about memory is the "video recorder" or "filing cabinet" metaphor — the idea that memory faithfully records experience and that accurate recall is a matter of successfully accessing an intact stored trace. This is comprehensively wrong. Memory is reconstructive, context-dependent, and highly susceptible to distortion, suggestion, and the incorporation of post-event information. The extensive research on [[Elizabeth-Loftus]] on eyewitness testimony and…
 
 
 ## Reflection Prompts
@@ -178,6 +187,26 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Related concepts** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
+[[Long-Term-Memory|Long-Term Memory]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] * [[Schema-Theory|Schema Theory]] * [[Forgetting-Curve|Forgetting Curve]] * [[Savings-in-Relearning|Savings in Relearning]] * [[George-Miller|George Miller]] * [[Richard-Atkinson|Richard Atkinson]] * [[Richard-Shiffrin|Richard Shiffrin]] * [[Iconic-Memory|Iconic Memory]] * [[Echoic-Memory|Echoic Memory]] * [[Alan-Baddeley|Alan Baddeley]] * [[Graham-Hitch|Graham Hitch]] * [[Phonological-Loop|Phonological Loop]]
+
+**Cross-report connections** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+
+
 
 
 

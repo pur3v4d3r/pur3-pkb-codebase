@@ -181,7 +181,7 @@ extraction_summary:
 #### 8. [ABSTRACT] Untitled *(Line 207)*
 
 > [!abstract] Untitled
-> The relationship between [[Critical-Thinking|Critical Thinking]], [[General Intelligence]], and [[Domain Expertise]] represents one of the most consequential yet misunderstood distinctions in cognitive science and educational psychology. While these constructs are often conflated in everyday discourse and even professional contexts, contemporary research reveals they constitute fundamentally different cognitive phenomena with distinct neurological substrates, developmental trajectories, and practical implications. Understanding these distinctions is essential not merely for theoretical precision but for addressing urgent practical questions about how we educate, select talent, and structure environments for optimal human performance. This exploration synthesizes findings from psychometrics, cognitive neuroscience, rationality research, and educational psychology to illuminate what makes critical thinking unique and why possessing high intelligence or deep expertise does not guarantee rational, effective thinking in real-world contexts.
+> The relationship between [[Critical-Thinking|Critical Thinking]], [[General-Intelligence|General Intelligence]], and [[Domain Expertise]] represents one of the most consequential yet misunderstood distinctions in cognitive science and educational psychology. While these constructs are often conflated in everyday discourse and even professional contexts, contemporary research reveals they constitute fundamentally different cognitive phenomena with distinct neurological substrates, developmental trajectories, and practical implications. Understanding these distinctions is essential not merely for theoretical precision but for addressing urgent practical questions about how we educate, select talent, and structure environments for optimal human performance. This exploration synthesizes findings from psychometrics, cognitive neuroscience, rationality research, and educational psychology to illuminate what makes critical thinking unique and why possessing high intelligence or deep expertise does not guarantee rational, effective thinking in real-world contexts.
 
 #### 9. [DEFINITION] Untitled *(Line 214)*
 
@@ -191,7 +191,7 @@ extraction_summary:
 #### 10. [DEFINITION] Untitled *(Line 217)*
 
 > [!definition] Untitled
-> **[[General Intelligence]]** (often symbolized as $g$ in psychometric literature) refers to the computational power and processing efficiency of cognitive systems, typically operationalized as performance on standardized tests measuring abilities such as [[Fluid Intelligence]] (abstract reasoning and novel problem-solving), [[Crystallized Intelligence]] (accumulated knowledge), working memory capacity, and processing speed. Intelligence represents the *algorithmic mind*—the raw computational machinery available for cognitive operations.
+> **[[General-Intelligence|General Intelligence]]** (often symbolized as $g$ in psychometric literature) refers to the computational power and processing efficiency of cognitive systems, typically operationalized as performance on standardized tests measuring abilities such as [[Fluid Intelligence]] (abstract reasoning and novel problem-solving), [[Crystallized Intelligence]] (accumulated knowledge), working memory capacity, and processing speed. Intelligence represents the *algorithmic mind*—the raw computational machinery available for cognitive operations.
 
 #### 11. [DEFINITION] Untitled *(Line 220)*
 
@@ -283,7 +283,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Active Open-Minded Thinking]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Flexibility]]
 - [[Comprehensive Assessment of Rational Thinking]]
 - [[Contaminated Mindware and Cognitive Immunology]]
@@ -293,9 +293,9 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dysrationalia]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Fluid Intelligence]]
-- [[General Intelligence]]
+- [[General-Intelligence|General Intelligence]]
 - [[Metacognition]]
 - [[Myside-Bias|Myside Bias]]
 - [[Myside Bias and Motivated Reasoning]]
@@ -311,23 +311,23 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[What distinguishes critical thinking from general intelligence or domain expertise?]] | — | — | What distinguishes critical thinking ... | 40 |
 | 2 | [[Critical-Thinking|Critical Thinking]] | — | — | Claude Thinking: | 188 |
-| 3 | [[General Intelligence]] | — | — | Claude Thinking: | 188 |
+| 3 | [[General-Intelligence|General Intelligence]] | — | — | Claude Thinking: | 188 |
 | 4 | [[Domain Expertise]] | — | — | Claude Thinking: | 188 |
 | 5 | [[Metacognition]] | — | — | Claude Thinking: | 188 |
-| 6 | [[Cognitive Biases]] | — | — | Claude Thinking: | 188 |
+| 6 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Claude Thinking: | 188 |
 | 7 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Claude Thinking: | 188 |
 | 8 | [[Fluid Intelligence]] | — | — | Claude Thinking: | 188 |
 | 9 | [[Crystallized Intelligence]] | — | — | Claude Thinking: | 188 |
 | 10 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | Claude Thinking: | 188 |
 | 11 | [[Reflective-Thinking|Reflective Thinking]] | — | — | Claude Thinking: | 188 |
-| 12 | [[Executive Function]] | — | — | Claude Thinking: | 188 |
+| 12 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 188 |
 | 13 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Claude Thinking: | 188 |
 | 14 | [[Cognitive Flexibility]] | — | — | Claude Thinking: | 188 |
 | 15 | [[Critical-Thinking|Critical Thinking]] | — | — | Claude Thinking: | 208 |
-| 16 | [[General Intelligence]] | — | — | Claude Thinking: | 208 |
+| 16 | [[General-Intelligence|General Intelligence]] | — | — | Claude Thinking: | 208 |
 | 17 | [[Domain Expertise]] | — | — | Claude Thinking: | 208 |
 | 18 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 The Fundamental Architecture: Three... | 215 |
-| 19 | [[General Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
+| 19 | [[General-Intelligence|General Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
 | 20 | [[Fluid Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
 | 21 | [[Crystallized Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
 | 22 | [[Domain Expertise]] | — | — | 🧠 The Fundamental Architecture: Three... | 221 |
@@ -469,7 +469,7 @@ LIMIT 15
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Active Open-Minded Thinking]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Flexibility]]
 - [[Comprehensive Assessment of Rational Thinking]]
 - [[Contaminated Mindware and Cognitive Immunology]]
@@ -479,9 +479,9 @@ LIMIT 15
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dysrationalia]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Fluid Intelligence]]
-- [[General Intelligence]]
+- [[General-Intelligence|General Intelligence]]
 - [[Metacognition]]
 - [[Myside-Bias|Myside Bias]]
 - [[Myside Bias and Motivated Reasoning]]

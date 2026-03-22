@@ -312,8 +312,8 @@ LIMIT 15
 > - ~100+ wiki-links anticipated (this is a reference hub)
 > - Every Greek term becomes a potential separate note
 > - Every virtue, emotion, practice becomes its own node
-> - Links to [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno]], [[Chrysippus]]
-> - Links to modern applications: [[Cognitive-Behavioral Therapy]], [[Modern Stoicism]]
+> - Links to [[Marcus-Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno]], [[Chrysippus]]
+> - Links to modern applications: [[Cognitive-Behavioral-Therapy]], [[Modern Stoicism]]
 > - Links to related philosophies: [[Ancient Greek Philosophy]], [[Hellenistic Philosophy]]
 > ## PHASE 3 PREPARATION COMPLETE
 > I now have:
@@ -340,8 +340,8 @@ aliases: [Stoic Terminology, Stoic Vocabulary, Stoic Key Terms, Stoic Lexicon, S
 > - **Generated**:: 2025-12-02
 > - **Version**:: 1.0.0
 > - **Type**:: Reference Documentation | Philosophical Lexicon
-> - **Primary Sources**:: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno of Citium]], [[Chrysippus]]
-> - **Classification**:: [[Ancient Greek Philosophy]] | [[Hellenistic Philosophy]] | [[Virtue Ethics]]
+> - **Primary Sources**:: [[Marcus-Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno of Citium]], [[Chrysippus]]
+> - **Classification**:: [[Ancient Greek Philosophy]] | [[Hellenistic Philosophy]] | [[Virtue-Ethics]]
 
 > [!abstract]
 > **Executive Overview**
@@ -406,7 +406,7 @@ The foundation of [[Stoicism]] rests on understanding **what we are striving for
 > - **Unity of Virtues**:: The Stoics believed all virtues are interconnected—possessing one fully means possessing all
 > - **Epictetus**: "Nothing can make you virtuous but yourself, and nothing can take your virtue from you" (Discourses 1.29)
 > - **Practical Application**:: In any situation, ask "What does virtue require of me here?" rather than "What benefits me?"
-> - **Modern Connection**:: Foundation of [[Character Ethics]] and [[Virtue Ethics]] movements
+> - **Modern Connection**:: Foundation of [[Character Ethics]] and [[Virtue-Ethics]] movements
 > - **Cross-References**:: See [[The Four Cardinal Virtues]], [[Kakon]], [[Eudaimonia]]
 
 ### Theory of Value: What Matters?
@@ -517,7 +517,7 @@ The Stoic [[Ethical Framework]] centers on [[Virtue]] as the sole good and [[Vic
 > - **Stoic Specification**:: Not suppression of all desire, but proper ordering of desires according to [[Logos]], desiring only what is truly good ([[Virtue]])
 > - **Sub-Virtues**: [[Kosmiotēs]] (orderliness), [[Aidēmosyne]] (sense of honor), [[Autarkeia]] (self-sufficiency), [[Enkrateia]] (self-mastery)
 > - **Epictetus**: "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control" (Discourses 4.1)
-> - **Psychological Dimension**: Maintaining [[Hegemonikon]] (ruling faculty) control over [[Hormê]] (impulses)
+> - **Psychological Dimension**: Maintaining [[Hegemonikon]] (ruling faculty) control over [[hormê]] (impulses)
 > - **Modern Application**: Resisting impulsive reactions, maintaining emotional equilibrium, disciplined habits
 > - **Practical Application**: Before acting on desire, ask: "Is this desire aligned with [[Virtue]], or am I being controlled by [[Pathos]]?"
 > - **Cross-References**:: See [[Enkrateia]], [[Autarkeia]], [[Apatheia]], [[Metriopatheia]]
@@ -581,7 +581,7 @@ The Stoic [[Ethical Framework]] centers on [[Virtue]] as the sole good and [[Vic
 The Stoic [[Philosophy of Mind]] provides a sophisticated model of how impressions become beliefs, beliefs become actions, and actions shape character. This psychological framework is the foundation of [[Stoic Practice]]—understanding the mental operations we control ([[Eph' Hêmin]]) versus what happens to us automatically.
 
 > [!key-claim]
-> **The Stoic Psychological Chain**: Events → [[Phantasia]] (impression) → [[Sunkatathesis]] (assent) → [[Hormê]] (impulse) → [[Praxis]] (action). The critical point where we have power is **assent**—we can examine impressions before accepting them as true.
+> **The Stoic Psychological Chain**: Events → [[Phantasia]] (impression) → [[Sunkatathesis]] (assent) → [[hormê]] (impulse) → [[Praxis]] (action). The critical point where we have power is **assent**—we can examine impressions before accepting them as true.
 
 ### The Psychological Chain: From Impression to Action
 
@@ -602,7 +602,7 @@ The Stoic [[Philosophy of Mind]] provides a sophisticated model of how impressio
 > - **Translation**:: "Ruling faculty" or "Commanding faculty"
 > - **Definition**:: The central rational faculty of the soul; the seat of consciousness, judgment, and decision-making; the part of us that gives or withholds [[Assent]]
 > - **Location**: Stoics believed it resided in the heart (not brain), coordinating all mental functions
-> - **Functions**: Receives [[Phantasia]] (impressions), gives [[Sunkatathesis]] (assent), forms [[Hormê]] (impulses), exercises reason
+> - **Functions**: Receives [[Phantasia]] (impressions), gives [[Sunkatathesis]] (assent), forms [[hormê]] (impulses), exercises reason
 > - **Marcus Aurelius**: "You have power over your mind—not outside events" (Meditations 6.52) — this power IS the [[Hegemonikon]]
 > - **Key Insight**: The [[Hegemonikon]] is the YOU that can step back and observe your own thoughts
 > - **Practical Application**: Cultivate awareness of your "inner observer"—the part of you that can question thoughts rather than identifying with them
@@ -810,7 +810,7 @@ Stoic [[Cosmology]] and [[Theology]] are inseparable from ethics—understanding
 Stoic [[Practical Philosophy]] transforms theoretical understanding into lived experience through systematic [[Spiritual Exercises]] ([[Askesis]]). This section provides the tools for daily practice—distinguishing what we control, cultivating mindfulness, rehearsing challenges, and maintaining the reflective practices that build [[Virtue]] into habit.
 
 > [!principle-point]
-> **From Theory to Practice**: The Stoics didn't merely theorize about virtue—they developed specific daily practices to train the mind. [[Pierre Hadot]] called these "spiritual exercises," disciplines that make philosophy a way of life rather than abstract knowledge.
+> **From Theory to Practice**: The Stoics didn't merely theorize about virtue—they developed specific daily practices to train the mind. [[Pierre-Hadot]] called these "spiritual exercises," disciplines that make philosophy a way of life rather than abstract knowledge.
 
 ### The Dichotomy of Control
 
@@ -824,7 +824,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Source of Freedom**: True freedom comes from investing energy only in [[Eph' Hêmin]]—what we actually control
 > - **Practical Framework**: Before any action/emotion, ask: "Is this response within my power? Am I controlling what I can control?"
 > - **The Core Practice**: Most Stoic exercises aim to redirect attention from [[Ouk Eph' Hêmin]] to [[Eph' Hêmin]]
-> - **Cross-References**:: See [[Ouk Eph' Hêmin]], [[Prohairesis]], [[Hegemonikon]], [[Dichotomy of Control]]
+> - **Cross-References**:: See [[Ouk Eph' Hêmin]], [[Prohairesis]], [[Hegemonikon]], [[Dichotomy-of-Control]]
 
 > [!definition]
 > - **Key-Term**:: [[Ta Ouk Eph' Hêmin]] (τὰ οὐκ ἐφ' ἡμῖν)
@@ -871,7 +871,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Pronunciation**:: pro-so-KHAY
 > - **Translation**:: Attention, mindfulness, vigilance, watchfulness
 > - **Definition**:: The continuous, vigilant attention to one's own [[Prohairesis]] (moral character); sustained awareness of impressions and judgments as they arise
-> - **Core Practice**: Maintaining moment-to-moment awareness of the [[Dichotomy of Control]] and quality of one's [[Assent]]
+> - **Core Practice**: Maintaining moment-to-moment awareness of the [[Dichotomy-of-Control]] and quality of one's [[Assent]]
 > - **Epictetus**: "Keep watch over yourself as over an enemy lying in ambush" (Discourses 4.12)
 > - **Pierre Hadot**: Called [[Prosochê]] "the fundamental Stoic spiritual attitude"—all other practices flow from this
 > - **Modern Connection**: Closely related to [[Mindfulness]] in Buddhist practice, but specifically focused on moral character
@@ -910,12 +910,12 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Pronunciation**:: hoo-pom-NAY-mah-tah
 > - **Translation**:: Notes, reminders, personal records, philosophical journal
 > - **Definition**:: Personal written records of philosophical insights, self-examinations, and Stoic principles for daily reflection and self-correction
-> - **Most Famous Example**: [[Marcus Aurelius]]' *Meditations* are [[Hypomnemata]]—notes to himself, not intended for publication
+> - **Most Famous Example**: [[Marcus-Aurelius]]' *Meditations* are [[Hypomnemata]]—notes to himself, not intended for publication
 > - **Purpose**: Externalize insights to review repeatedly, track progress, correct errors, reinforce principles
 > - **Seneca's Practice**: Nightly self-examination—"What bad habit did I cure today? What fault did I resist? In what way am I better?"
 > - **Content Examples**: Memorable quotes, personal challenges, analysis of [[Hamartia]] (errors), gratitude reflections
 > - **Michel Foucault**: Identified [[Hypomnemata]] as key technology of self in ancient philosophy
-> - **Practical Application**: Keep daily Stoic journal—evening review of day's events through lens of [[Dichotomy of Control]]
+> - **Practical Application**: Keep daily Stoic journal—evening review of day's events through lens of [[Dichotomy-of-Control]]
 > - **Cross-References**:: See [[Askesis]], [[Prosochê]], [[Evening Review]], [[Marcus Aurelius Meditations]]
 
 > [!definition]
@@ -945,7 +945,7 @@ Stoic [[Logic]] ([[Logikê]]) encompasses more than formal reasoning—it includ
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
-> - **Pierre Hadot**: Identified these as structuring principle of [[Marcus Aurelius]]' *Meditations*
+> - **Pierre Hadot**: Identified these as structuring principle of [[Marcus-Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
 > - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent]]
 
@@ -1056,7 +1056,7 @@ This section contains specialized terminology for deeper study—cosmological co
 
 The **Stoic Psychological Chain** provides a master framework for understanding human action:
 
-**External Event** → **[[Phantasia]]** (impression) → **[[Hegemonikon]]** processes → **[[Sunkatathesis]]** (assent) → **[[Hormê]]** (impulse) → **[[Praxis]]** (action)
+**External Event** → **[[Phantasia]]** (impression) → **[[Hegemonikon]]** processes → **[[Sunkatathesis]]** (assent) → **[[hormê]]** (impulse) → **[[Praxis]]** (action)
 
 The critical intervention point is **[[Sunkatathesis]]** (assent)—this is where [[Prohairesis]] exercises its power. By withholding or giving assent consciously, we maintain control over our responses to life.
 
@@ -1097,7 +1097,7 @@ Stoic philosophy operates on three integrated levels:
 > **Research Methodology**
 > 
 > This comprehensive reference synthesized:
-> - **Primary Ancient Sources**: [[Marcus Aurelius]]' *Meditations*, [[Epictetus]]' *Discourses* and *Enchiridion*, [[Seneca]]' *Moral Letters*, [[Diogenes Laertius]]' *Lives of the Eminent Philosophers*
+> - **Primary Ancient Sources**: [[Marcus-Aurelius]]' *Meditations*, [[Epictetus]]' *Discourses* and *Enchiridion*, [[Seneca]]' *Moral Letters*, [[Diogenes Laertius]]' *Lives of the Eminent Philosophers*
 > - **Secondary Scholarship**: [[Stanford Encyclopedia of Philosophy]] (Stoicism entries), specialized glossaries from Modern Stoicism movement, academic philosophical lexicons
 > - **Search Methodology**: 4 targeted web searches covering: (1) Core Greek/Latin terminology with etymologies, (2) Cardinal virtues framework and sub-virtues, (3) Stoic psychology and cognitive theory, (4) Cosmology and metaphysical concepts
 > - **Synthesis Approach**: Organized by functional domain (Foundation, Ethics, Psychology, Cosmology, Practice) rather than alphabetically to support practical use and knowledge graph building
@@ -1128,11 +1128,11 @@ Stoic philosophy operates on three integrated levels:
 
 2. **[[Marcus Aurelius' Meditations - Philosophical Analysis and Practical Guide]]**
    - *Connection*: The *Meditations* are [[Hypomnemata]] (personal notes) exemplifying daily Stoic practice—a living application of terms in this lexicon
-   - *Depth Potential*: Book-by-book analysis, identification of [[Three Disciplines]] structure (per [[Pierre Hadot]]), practical exercises extracted, historical context
+   - *Depth Potential*: Book-by-book analysis, identification of [[Three Disciplines]] structure (per [[Pierre-Hadot]]), practical exercises extracted, historical context
    - *Knowledge Graph Role*: Primary source hub for Roman Stoicism; connects theory to practice; demonstrates [[Prosochê]] and [[Askesis]] in action
 
 3. **[[Stoic Psychology vs. Modern Cognitive Science - Parallels and Divergences]]**
-   - *Connection*: The Stoic model of [[Phantasia]]→[[Sunkatathesis]]→[[Hormê]] anticipates modern cognitive theories and directly inspired [[Cognitive-Behavioral Therapy]]
+   - *Connection*: The Stoic model of [[Phantasia]]→[[Sunkatathesis]]→[[hormê]] anticipates modern cognitive theories and directly inspired [[Cognitive-Behavioral-Therapy]]
    - *Depth Potential*: Compare [[Prohairesis]] to agency/volition theories, [[First Movements]] to System 1/2 processing, [[Katalepsis]] to justified true belief, [[Pathos]] to emotional disorders
    - *Knowledge Graph Role*: Bridge between ancient philosophy and contemporary psychology; demonstrates continued relevance of Stoic frameworks
 

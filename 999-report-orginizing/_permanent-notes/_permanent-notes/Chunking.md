@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +76,14 @@ see-also:
   - "[[Coherence-Principle|Coherence Principle]]"
   - "[[Constructivism]]"
   - "[[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Long-Term-Memory|Long-Term Memory]]"
+  - "[[Hermann-Ebbinghaus|Hermann Ebbinghaus]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Forgetting-Curve|Forgetting Curve]]"
+  - "[[Savings-in-Relearning|Savings in Relearning]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Long-Term-Memory|Long-Term Memory]]"
   - "[[Hermann-Ebbinghaus|Hermann Ebbinghaus]]"
@@ -178,10 +186,10 @@ importance: high
 > One of the most reliably demonstrated findings in Cognitive Load Theory is the **worked example effect**: novice learners benefit from studying worked examples (problems with complete solutions) more than from problem-solving, because worked examples reduce extraneous and intrinsic load, freeing capacity for germane processing. As learners acquire expertise and the problem-solving elements begin to chunk, this advantage reverses (the **expertise reversal effect**) — experts are actually hindered by the redundant detail of worked examples that they could now process independently. This has direct implications for instructional sequencing.
 
 > [!example] **Application** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*
-> Given the testing effect, the dominant recommendation from applied memory research is to replace or supplement re-reading and massed review with retrieval practice: low-stakes quizzing, flashcard retrieval, free recall exercises, or practice tests. The effect is robust and large in magnitude relative to other learning strategies. Importantly, retrieval practice benefits long-term retention even — especially — when initial retrieval is effortful and involves some failures. The principle of **desirable difficulties** (coined by [[Robert Bjork]]) holds that conditions that slow and complicate initial acquisition often produce superior long-term retention because they require deeper engagement with the material.
+> Given the testing effect, the dominant recommendation from applied memory research is to replace or supplement re-reading and massed review with retrieval practice: low-stakes quizzing, flashcard retrieval, free recall exercises, or practice tests. The effect is robust and large in magnitude relative to other learning strategies. Importantly, retrieval practice benefits long-term retention even — especially — when initial retrieval is effortful and involves some failures. The principle of **desirable difficulties** (coined by [[Robert-Bjork]]) holds that conditions that slow and complicate initial acquisition often produce superior long-term retention because they require deeper engagement with the material.
 
 > [!warning] **Key Distinction** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*
-> Perhaps the most pervasive misconception about memory is the "video recorder" or "filing cabinet" metaphor — the idea that memory faithfully records experience and that accurate recall is a matter of successfully accessing an intact stored trace. This is comprehensively wrong. Memory is reconstructive, context-dependent, and highly susceptible to distortion, suggestion, and the incorporation of post-event information. The extensive research on [[Elizabeth Loftus]] on eyewitness testimony and false memory demonstrates that memories can be altered, and even fabricated wholesale, through leading questions, social pressure, and imagination inflation. Recognising memory's reconstructive character is not merely theoretically interesting; it has profound implications for clinical psychology, legal practice, and autobiographical self-understanding.
+> Perhaps the most pervasive misconception about memory is the "video recorder" or "filing cabinet" metaphor — the idea that memory faithfully records experience and that accurate recall is a matter of successfully accessing an intact stored trace. This is comprehensively wrong. Memory is reconstructive, context-dependent, and highly susceptible to distortion, suggestion, and the incorporation of post-event information. The extensive research on [[Elizabeth-Loftus]] on eyewitness testimony and false memory demonstrates that memories can be altered, and even fabricated wholesale, through leading questions, social pressure, and imagination inflation. Recognising memory's reconstructive character is not merely theoretically interesting; it has profound implications for clinical psychology, legal practice, and autobiographical self-understanding.
 
 
 
@@ -239,6 +247,26 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Related concepts** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
+[[Working-Memory|Working Memory]] * [[Long-Term-Memory|Long-Term Memory]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] * [[Schema-Theory|Schema Theory]] * [[Forgetting-Curve|Forgetting Curve]] * [[Savings-in-Relearning|Savings in Relearning]] * [[George-Miller|George Miller]] * [[Richard-Atkinson|Richard Atkinson]] * [[Richard-Shiffrin|Richard Shiffrin]] * [[Iconic-Memory|Iconic Memory]] * [[Echoic-Memory|Echoic Memory]] * [[Alan-Baddeley|Alan Baddeley]] * [[Graham-Hitch|Graham Hitch]]
+
+**Cross-report connections** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+
+
 
 
 

@@ -338,7 +338,7 @@ extraction_summary:
 > Wiki-Link Opportunities:
 > - [[Markdown]]
 > - [[Obsidian]]
-> - [[Task Management]]
+> - [[Task-Management|Task Management]]
 > - [[GTD (Getting Things Done)]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[CSS Snippets]]
@@ -379,7 +379,7 @@ extraction_summary:
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference note is organized into 7 major sections covering foundational concepts, complete syntax taxonomies, theme-specific implementations, plugin integrations, CSS customization, practical workflows, and synthesis frameworks. Use the table of contents for quick navigation, or search for specific checkbox characters using [[Wiki-Links]].
+> This reference note is organized into 7 major sections covering foundational concepts, complete syntax taxonomies, theme-specific implementations, plugin integrations, CSS customization, practical workflows, and synthesis frameworks. Use the table of contents for quick navigation, or search for specific checkbox characters using [[wiki-links]].
 
 #### 7. [DEFINITION] Untitled *(Line 249)*
 
@@ -467,13 +467,13 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **Key-Term**:: [[Custom Statuses]]
-> - **Definition**:: User-definable task state configurations in [[Tasks Plugin]] that map checkbox characters to semantic meanings, enable status-aware querying, and control task cycling behavior.
+> - **Definition**:: User-definable task state configurations in [[Tasks-Plugin|Tasks Plugin]] that map checkbox characters to semantic meanings, enable status-aware querying, and control task cycling behavior.
 
 #### 16. [HELPFUL-TIP] Untitled *(Line 597)*
 
 > [!helpful-tip] Untitled
 > **Workflow Optimization**
-> Replace [[Obsidian]]'s default "Toggle checkbox status" hotkey with [[Tasks Plugin]]'s "Tasks: Toggle Done" command for status-aware cycling that respects your custom status definitions.
+> Replace [[Obsidian]]'s default "Toggle checkbox status" hotkey with [[Tasks-Plugin|Tasks Plugin]]'s "Tasks: Toggle Done" command for status-aware cycling that respects your custom status definitions.
 
 #### 17. [CONNECTIONS-AND-LINKS] Untitled *(Line 655)*
 
@@ -481,7 +481,7 @@ extraction_summary:
 > **Plugin Synergy Matrix**
 > 
 > Optimal workflow combinations:
-> - **[[Tasks Plugin]] + [[Minimal Theme]]**: Full-featured task management with visual semantics
+> - **[[Tasks-Plugin|Tasks Plugin]] + [[Minimal Theme]]**: Full-featured task management with visual semantics
 > - **[[Task Status Plugin]] + [[ITS Theme]]**: Rapid status changes for creative writing workflows
 > - **[[Dataview]] + [[Checkbox Time Tracker]]**: Temporal analysis of task completion patterns
 > - **[[Checkbox Sync]] + hierarchical outlines**: Automated progress tracking for complex projects
@@ -512,7 +512,7 @@ extraction_summary:
 > - Managing complex multi-state workflows
 > - Requiring visual semantic indicators
 > - Building sophisticated [[Knowledge Work]] systems
-> - Integrating with [[Tasks Plugin]] or [[Dataview]]
+> - Integrating with [[Tasks-Plugin|Tasks Plugin]] or [[Dataview]]
 > - Tracking diverse information types beyond tasks
 
 #### 21. [TODO] Sprint Tasks *(Line 1154)*
@@ -654,24 +654,24 @@ extraction_summary:
 - [[Project Management]]
 - [[QuickAdd]]
 - [[Reading View]]
-- [[Reference Note]]
+- [[Reference-Note|Reference Note]]
 - [[SVG]]
 - [[Sanctum Theme]]
 - [[Semantic-Network|Semantic Network]]
 - [[Software Development]]
 - [[Source Mode]]
 - [[Style Settings Plugin]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Task Management Systems Comparison]]
 - [[Task Status Plugin]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater]]
 - [[Things 3]]
 - [[Things Theme]]
 - [[Visual Information Architecture]]
 - [[Visual Semantics]]
 - [[Visual Semantics in Knowledge Management]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Workflow Design]]
 - [[data-task Attribute]]
 
@@ -682,7 +682,7 @@ extraction_summary:
 | 1 | [[Alternative Checkboxes]] | — | — | Alternative Checkboxes | 39 |
 | 2 | [[Markdown]] | — | — | Tags & Classification | 190 |
 | 3 | [[Obsidian]] | — | — | Tags & Classification | 191 |
-| 4 | [[Task Management]] | — | — | Tags & Classification | 192 |
+| 4 | [[Task-Management|Task Management]] | — | — | Tags & Classification | 192 |
 | 5 | [[GTD (Getting Things Done)]] | — | — | Tags & Classification | 193 |
 | 6 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Tags & Classification | 194 |
 | 7 | [[CSS Snippets]] | — | — | Tags & Classification | 195 |
@@ -697,7 +697,7 @@ extraction_summary:
 | 16 | [[CSS Snippets]] | — | — | Tags & Classification | 229 |
 | 17 | [[Obsidian Plugins]] | — | — | Tags & Classification | 229 |
 | 18 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Tags & Classification | 229 |
-| 19 | [[Wiki-Links]] | — | — | Tags & Classification | 233 |
+| 19 | [[wiki-links]] | — | — | Tags & Classification | 233 |
 | 20 | [[Alternative Checkboxes]] | — | — | 🔍 Foundational Concepts | 250 |
 | 21 | [[Obsidian]] | — | — | 🔍 Foundational Concepts | 251 |
 | 22 | [[CSS]] | — | — | 🔍 Foundational Concepts | 251 |
@@ -725,14 +725,14 @@ extraction_summary:
 | 44 | [[CSS]] | — | — | Core Architectural Components | 271 |
 | 45 | [[Obsidian]] | — | — | Core Architectural Components | 273 |
 | 46 | [[Obsidian]] | — | — | Integration with Obsidian's Task Arch... | 277 |
-| 47 | [[Tasks Plugin]] | — | — | Integration with Obsidian's Task Arch... | 277 |
+| 47 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Integration with Obsidian's Task Arch... | 277 |
 | 48 | [[Dataview]] | — | — | Integration with Obsidian's Task Arch... | 277 |
 | 49 | [[Kanban Plugin]] | — | — | Integration with Obsidian's Task Arch... | 277 |
-| 50 | [[Tasks Plugin]] | — | — | Integration with Obsidian's Task Arch... | 277 |
+| 50 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Integration with Obsidian's Task Arch... | 277 |
 | 51 | [[Reading View]] | — | — | Integration with Obsidian's Task Arch... | 279 |
 | 52 | [[Edit Mode]] | — | — | Integration with Obsidian's Task Arch... | 279 |
 | 53 | [[Obsidian]] | — | — | Integration with Obsidian's Task Arch... | 279 |
-| 54 | [[Tasks Plugin]] | — | — | Integration with Obsidian's Task Arch... | 279 |
+| 54 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Integration with Obsidian's Task Arch... | 279 |
 | 55 | [[Markdown]] | — | — | Integration with Obsidian's Task Arch... | 283 |
 | 56 | [[CSS Snippets]] | — | — | Integration with Obsidian's Task Arch... | 283 |
 | 57 | [[Plain-Text Portability]] | — | — | Integration with Obsidian's Task Arch... | 283 |
@@ -770,28 +770,28 @@ extraction_summary:
 | 89 | [[ITS Theme]] | — | — | Primary Theme | 539 |
 | 90 | [[Things Theme]] | — | — | Primary Theme | 539 |
 | 91 | [[Primary Theme]] | — | — | Primary Theme | 539 |
-| 92 | [[Tasks Plugin]] | — | — | Tasks Plugin | 547 |
+| 92 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin | 547 |
 | 93 | [[Obsidian]] | — | — | Tasks Plugin | 547 |
 | 94 | [[Custom Statuses]] | — | — | Tasks Plugin | 550 |
-| 95 | [[Tasks Plugin]] | — | — | Tasks Plugin | 551 |
-| 96 | [[Tasks Plugin]] | — | — | Tasks Plugin | 555 |
-| 97 | [[Tasks Plugin]] | — | — | Tasks Plugin | 559 |
-| 98 | [[Tasks Plugin]] | — | — | Tasks Plugin | 569 |
+| 95 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin | 551 |
+| 96 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin | 555 |
+| 97 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin | 559 |
+| 98 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin | 569 |
 | 99 | [[Minimal Theme]] | — | — | Tasks Plugin | 571 |
 | 100 | [[ITS Theme]] | — | — | Tasks Plugin | 572 |
 | 101 | [[Obsidian]] | — | — | Query: Cancelled Tasks This Month | 599 |
-| 102 | [[Tasks Plugin]] | — | — | Query: Cancelled Tasks This Month | 599 |
+| 102 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Query: Cancelled Tasks This Month | 599 |
 | 103 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Dataview Integration | 603 |
 | 104 | [[Dataview]] | — | — | Dataview Integration | 615 |
 | 105 | [[Dataview]] | — | — | Dataview Integration | 624 |
 | 106 | [[Dataview]] | — | — | Dataview Integration | 624 |
-| 107 | [[Tasks Plugin]] | — | — | Dataview Integration | 624 |
+| 107 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Dataview Integration | 624 |
 | 108 | [[Task Status Plugin]] | — | — | Complementary Plugins | 630 |
 | 109 | [[Checkbox 3 States Plugin]] | — | — | Complementary Plugins | 641 |
 | 110 | [[Checkbox Time Tracker]] | — | — | Complementary Plugins | 645 |
 | 111 | [[Checkbox Sync Plugin]] | — | — | Complementary Plugins | 649 |
 | 112 | [[Completed Tasks Plugin]] | — | — | Complementary Plugins | 653 |
-| 113 | [[Tasks Plugin]] | — | — | Complementary Plugins | 659 |
+| 113 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Complementary Plugins | 659 |
 | 114 | [[Minimal Theme]] | — | — | Complementary Plugins | 659 |
 | 115 | [[Task Status Plugin]] | — | — | Complementary Plugins | 660 |
 | 116 | [[ITS Theme]] | — | — | Complementary Plugins | 660 |
@@ -824,7 +824,7 @@ extraction_summary:
 | 143 | [[GTD]] | — | — | Task Management Workflows | 907 |
 | 144 | [[ITS Theme]] | — | — | Creative Writing & Content Development | 952 |
 | 145 | [[Knowledge Work]] | — | — | Habit Tracking | 1145 |
-| 146 | [[Tasks Plugin]] | — | — | Habit Tracking | 1146 |
+| 146 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Habit Tracking | 1146 |
 | 147 | [[Dataview]] | — | — | Habit Tracking | 1146 |
 | 148 | [[Finite State Machine]] | — | — | Cognitive Models for Alternative Chec... | 1208 |
 | 149 | [[Bullet Journal]] | — | — | Cognitive Models for Alternative Chec... | 1232 |
@@ -834,8 +834,8 @@ extraction_summary:
 | 153 | [[Procedural-Memory|Procedural Memory]] | — | — | Design Principles for Checkbox Systems | 1259 |
 | 154 | [[Templater]] | — | — | General Tasks | 1295 |
 | 155 | [[QuickAdd]] | — | — | General Tasks | 1295 |
-| 156 | [[Tasks Plugin]] | — | — | Important Decisions | 1319 |
-| 157 | [[Reference Note]] | — | — | Common Pitfalls & Solutions | 1369 |
+| 156 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Important Decisions | 1319 |
+| 157 | [[Reference-Note|Reference Note]] | — | — | Common Pitfalls & Solutions | 1369 |
 | 158 | [[Task Status Plugin]] | — | — | Common Pitfalls & Solutions | 1381 |
 | 159 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Integration with Broader PKM Philosophy | 1415 |
 | 160 | [[Semantic-Network|Semantic Network]] | — | — | Integration with Broader PKM Philosophy | 1421 |
@@ -1800,24 +1800,24 @@ stateDiagram-v2
 - [[Project Management]]
 - [[QuickAdd]]
 - [[Reading View]]
-- [[Reference Note]]
+- [[Reference-Note|Reference Note]]
 - [[SVG]]
 - [[Sanctum Theme]]
 - [[Semantic-Network|Semantic Network]]
 - [[Software Development]]
 - [[Source Mode]]
 - [[Style Settings Plugin]]
-- [[Task Management]]
+- [[Task-Management|Task Management]]
 - [[Task Management Systems Comparison]]
 - [[Task Status Plugin]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater]]
 - [[Things 3]]
 - [[Things Theme]]
 - [[Visual Information Architecture]]
 - [[Visual Semantics]]
 - [[Visual Semantics in Knowledge Management]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Workflow Design]]
 - [[data-task Attribute]]
 

@@ -5,6 +5,7 @@
 title: "Felt Difficulty"
 aliases:
   - "Felt Difficulty"
+  - "felt-difficulty"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -34,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +77,14 @@ see-also:
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Aporia]]"
   - "[[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Reflective-Thinking|Reflective Thinking]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Reflective-Thinking|Reflective Thinking]]"
   - "[[Socratic-Method|Socratic Method]]"
@@ -217,9 +226,13 @@ importance: high
 [[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] · [[Child-Inquiry-Node]] · [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competing-View-Note]] · [[Constructivism]] · [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
 
 **Related concepts** *(from report-01-the-inquiry-engine.md)*:
-[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[habit|habit]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[elenchus|elenchus]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]]
+[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[habit|habit]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[Elenchus|elenchus]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]]
 
 **Related concepts** *(from report-01-the-inquiry-engine.md)*:
 [[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Richard-West|Richard West]] * [[System-1|System 1]]
+
+**Related concepts** *(from report-01-the-inquiry-engine.md)*:
+[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Richard-West|Richard West]] * [[System-1|System 1]]
+
 
 

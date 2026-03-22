@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-20
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,7 @@ updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - "self-determination-theory-dialectical-re-examination-2026-03-19"
+  - "self-determination-theory-dialectical-re-examination-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[Competence-Need]]"
   - "[[Relatedness-Need]]"
   - "[[Undermining-Effect]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Basic-Psychological-Needs|Basic-Psychological-Needs]]"
+  - "[[Autonomy-Need|Autonomy-Need]]"
+  - "[[Competence-Need|Competence-Need]]"
+  - "[[Relatedness-Need|Relatedness-Need]]"
+  - "[[Undermining-Effect|Undermining-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -135,3 +144,7 @@ importance: high
 
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Basic-Psychological-Needs]] · [[Autonomy-Need]] · [[Competence-Need]] · [[Relatedness-Need]] · [[Undermining-Effect]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Organismic-Integration-Theory]] · [[Causality-Orientations-Theory]] · [[Basic-Psychological-Needs]] · [[Relationship-Motivation-Theory]] · [[Goal-Content-Theory]]
+
+**Related concepts** *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[External-Regulation|External-Regulation]] * [[Introjected-Regulation|Introjected-Regulation]] * [[Identified-Regulation|Identified-Regulation]] * [[Integrated-Regulation|Integrated-Regulation]] * [[Intrinsic-Motivation|Intrinsic-Motivation]] * [[Autonomous-Motivation|Autonomous-Motivation]] * [[Controlled-Motivation|Controlled-Motivation]] * [[Relative-Autonomy-Index|Relative-Autonomy-Index]] * [[Overjustification-Effect|Overjustification-Effect]] * [[Perceived-Locus-of-Causality|Perceived-Locus-of-Causality]] * [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]] * [[Autonomy-Orientation|Autonomy-Orientation]]
+

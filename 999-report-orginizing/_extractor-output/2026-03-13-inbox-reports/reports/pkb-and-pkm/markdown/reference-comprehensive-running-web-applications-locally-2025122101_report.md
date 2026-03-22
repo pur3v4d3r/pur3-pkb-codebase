@@ -501,7 +501,7 @@ extraction_summary:
 - [[Performance Profiling and Optimization for Containerized Applications]]
 - [[PostgreSQL]]
 - [[Prometheus]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Python]]
 - [[REST API]]
 - [[Rails]]
@@ -531,7 +531,7 @@ extraction_summary:
 | 5 | [[Flask]] | — | — | Foundational Understanding | 116 |
 | 6 | [[DevOps]] | — | — | Foundational Understanding | 116 |
 | 7 | [[Full-Stack Development]] | — | — | Foundational Understanding | 116 |
-| 8 | [[Prompt Engineering]] | — | — | Why Run Applications Locally? | 170 |
+| 8 | [[Prompt-Engineering|Prompt Engineering]] | — | — | Why Run Applications Locally? | 170 |
 | 9 | [[AI Model]] | — | — | Why Run Applications Locally? | 171 |
 | 10 | [[Full-Stack Development]] | — | — | Why Run Applications Locally? | 172 |
 | 11 | [[API Development]] | — | — | Why Run Applications Locally? | 173 |
@@ -2185,7 +2185,7 @@ description includes Review
 - [[Performance Profiling and Optimization for Containerized Applications]]
 - [[PostgreSQL]]
 - [[Prometheus]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Python]]
 - [[REST API]]
 - [[Rails]]

@@ -354,7 +354,7 @@ extraction_summary:
 #### 45. [CONNECTION-IDEAS] 🔗 Expansion Topic 1: Expertise and Tacit Knowledge (Priority: High) *(Line 499)*
 
 > [!connection-ideas] 🔗 Expansion Topic 1: Expertise and Tacit Knowledge (Priority: High)
-> **Description:** Deep exploration of how practical wisdom is encoded in tacit, hard-to-articulate knowledge structures — extending [[Michael Polanyi]]'s "we know more than we can tell" to professional and practical domains. Addresses the acquisition, representation, and limits of tacit knowledge, including [[Harry Collins]]'s taxonomy of expertise and [[Dreyfus]]'s skill acquisition model. Connects directly to the RPD model's account of pattern-library development and to the series' developmental staging model.
+> **Description:** Deep exploration of how practical wisdom is encoded in tacit, hard-to-articulate knowledge structures — extending [[Michael-Polanyi|Michael Polanyi]]'s "we know more than we can tell" to professional and practical domains. Addresses the acquisition, representation, and limits of tacit knowledge, including [[Harry Collins]]'s taxonomy of expertise and [[Dreyfus]]'s skill acquisition model. Connects directly to the RPD model's account of pattern-library development and to the series' developmental staging model.
 
 #### 46. [CONNECTION-IDEAS] 🔗 Expansion Topic 2: Moral Perception in Professional Ethics (Priority: High) *(Line 502)*
 
@@ -374,7 +374,7 @@ extraction_summary:
 #### 49. [CONNECTION-IDEAS] 🔗 Expansion Topic 5: Cultural Variation in Practical Wisdom (Priority: Medium) *(Line 511)*
 
 > [!connection-ideas] 🔗 Expansion Topic 5: Cultural Variation in Practical Wisdom (Priority: Medium)
-> **Description:** Cross-cultural research on whether phronesis is a universal capacity or culturally situated practice. Addresses challenges to Aristotle's universalist assumptions from [[Confucian practical wisdom]] (yi, li, ren as practical virtues), [[Ubuntu philosophy]]'s communal account of practical wisdom, and empirical cross-cultural psychology of decision-making (Nisbett's *Geography of Thought*). Important for the series' honest limitations regarding cultural situatedness.
+> **Description:** Cross-cultural research on whether phronesis is a universal capacity or culturally situated practice. Addresses challenges to Aristotle's universalist assumptions from [[Confucian-practical-wisdom|Confucian practical wisdom]] (yi, li, ren as practical virtues), [[Ubuntu philosophy]]'s communal account of practical wisdom, and empirical cross-cultural psychology of decision-making (Nisbett's *Geography of Thought*). Important for the series' honest limitations regarding cultural situatedness.
 
 #### 50. [CONNECTION-IDEAS] 🔗 Expansion Topic 6: Shadowbox Training and Accelerated Expertise (Priority: Medium) *(Line 514)*
 
@@ -395,33 +395,33 @@ extraction_summary:
 - [[Aristotle]]
 - [[Artinger]]
 - [[Bandura]]
-- [[Barry Schwartz]]
+- [[Barry-Schwartz|Barry Schwartz]]
 - [[Bratman]]
-- [[Byron Fowers]]
-- [[Confucian practical wisdom]]
+- [[Byron-Fowers|Byron Fowers]]
+- [[Confucian-practical-wisdom|Confucian practical wisdom]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dreyfus]]
 - [[Ecological-Rationality|Ecological Rationality]]
 - [[Epictetus]]
 - [[Fallibilism]]
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
-- [[Frank Knight]]
-- [[Gary Klein]]
-- [[Gerd Gigerenzer]]
+- [[Frank-Knight|Frank Knight]]
+- [[Gary-Klein|Gary Klein]]
+- [[Gerd-Gigerenzer|Gerd Gigerenzer]]
 - [[Harry Collins]]
 - [[Herbert Simon]]
-- [[Hormê]]
-- [[John Kay]]
+- [[hormê]]
+- [[John-Kay|John Kay]]
 - [[Kathêkon]]
 - [[Knightian-Uncertainty|Knightian Uncertainty]]
-- [[Kristjan Kristjansson]]
+- [[Kristjan-Kristjansson|Kristjan Kristjansson]]
 - [[Merleau-Ponty]]
-- [[Mervyn King]]
-- [[Michael Polanyi]]
+- [[Mervyn-King|Mervyn King]]
+- [[Michael-Polanyi|Michael Polanyi]]
 - [[Nassim Taleb]]
-- [[Naturalistic Decision Making]]
+- [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Nel Noddings]]
-- [[Nicomachean Ethics]]
+- [[Nicomachean-Ethics|Nicomachean Ethics]]
 - [[Pellegrino]]
 - [[Phantasia]]
 - [[Ralf Stacey]]
@@ -437,11 +437,11 @@ extraction_summary:
 - [[commitment]]
 - [[hormê]]
 - [[intention]]
-- [[kathekon]]
-- [[phronesis]]
+- [[Kathekon]]
+- [[Phronesis]]
 - [[robust satisficing]]
 - [[scenario planning]]
-- [[theoretical wisdom]]
+- [[theoretical-wisdom|theoretical wisdom]]
 - [[via negativa]]
 - [[will]]
 
@@ -449,48 +449,48 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[phronesis]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
-| 2 | [[Gerd Gigerenzer]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
-| 3 | [[kathekon]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
+| 1 | [[Phronesis]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
+| 2 | [[Gerd-Gigerenzer|Gerd Gigerenzer]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
+| 3 | [[Kathekon]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
 | 4 | [[hormê]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 188 |
 | 5 | [[Aristotle]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
-| 6 | [[Gary Klein]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
-| 7 | [[Naturalistic Decision Making]] | naturalistic decision making | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
+| 6 | [[Gary-Klein|Gary Klein]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
+| 7 | [[Naturalistic-Decision-Making|Naturalistic Decision Making]] | naturalistic decision making | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
 | 8 | [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] | Recognition-Primed Decision (RPD) Model | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
 | 9 | [[Ecological-Rationality|Ecological Rationality]] | ecological rationality | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
 | 10 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | fast-and-frugal heuristics | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
-| 11 | [[Frank Knight]] | Frank Knight's | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
+| 11 | [[Frank-Knight|Frank Knight]] | Frank Knight's | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
 | 12 | [[Knightian-Uncertainty|Knightian Uncertainty]] | radical uncertainty | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
-| 13 | [[John Kay]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
-| 14 | [[Mervyn King]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
+| 13 | [[John-Kay|John Kay]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
+| 14 | [[Mervyn-King|Mervyn King]] | — | — | Phase I 🏛️ The Premise: The Gap the T... | 193 |
 | 15 | [[Aristotle]] | — | — | The Aristotelian Foundation: Phronesi... | 209 |
-| 16 | [[Nicomachean Ethics]] | — | — | The Aristotelian Foundation: Phronesi... | 209 |
-| 17 | [[theoretical wisdom]] | — | — | The Aristotelian Foundation: Phronesi... | 209 |
-| 18 | [[Kristjan Kristjansson]] | — | — | The Aristotelian Foundation: Phronesi... | 216 |
-| 19 | [[Byron Fowers]] | — | — | The Aristotelian Foundation: Phronesi... | 216 |
-| 20 | [[Barry Schwartz]] | — | — | The Aristotelian Foundation: Phronesi... | 218 |
-| 21 | [[Gary Klein]] | — | — | Gary Klein's Naturalistic Decision Ma... | 222 |
+| 16 | [[Nicomachean-Ethics|Nicomachean Ethics]] | — | — | The Aristotelian Foundation: Phronesi... | 209 |
+| 17 | [[theoretical-wisdom|theoretical wisdom]] | — | — | The Aristotelian Foundation: Phronesi... | 209 |
+| 18 | [[Kristjan-Kristjansson|Kristjan Kristjansson]] | — | — | The Aristotelian Foundation: Phronesi... | 216 |
+| 19 | [[Byron-Fowers|Byron Fowers]] | — | — | The Aristotelian Foundation: Phronesi... | 216 |
+| 20 | [[Barry-Schwartz|Barry Schwartz]] | — | — | The Aristotelian Foundation: Phronesi... | 218 |
+| 21 | [[Gary-Klein|Gary Klein]] | — | — | Gary Klein's Naturalistic Decision Ma... | 222 |
 | 22 | [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] | Recognition-Primed Decision (RPD) Model | — | Gary Klein's Naturalistic Decision Ma... | 222 |
 | 23 | [[Simon's]] | — | — | Gary Klein's Naturalistic Decision Ma... | 229 |
-| 24 | [[Gerd Gigerenzer]] | — | — | Gigerenzer's Ecological Rationality: ... | 233 |
+| 24 | [[Gerd-Gigerenzer|Gerd Gigerenzer]] | — | — | Gigerenzer's Ecological Rationality: ... | 233 |
 | 25 | [[Ecological-Rationality|Ecological Rationality]] | ecological rationality | — | Gigerenzer's Ecological Rationality: ... | 233 |
 | 26 | [[Herbert Simon]] | — | — | Gigerenzer's Ecological Rationality: ... | 243 |
 | 27 | [[Satisficing]] | satisficing | — | Gigerenzer's Ecological Rationality: ... | 243 |
 | 28 | [[Artinger]] | — | — | Gigerenzer's Ecological Rationality: ... | 243 |
 | 29 | [[Phantasia]] | phantasia | — | The Stoic Theory of Action: Kathekon ... | 247 |
 | 30 | [[Synkatathesis]] | synkatathesis | — | The Stoic Theory of Action: Kathekon ... | 247 |
-| 31 | [[Hormê]] | hormê | — | The Stoic Theory of Action: Kathekon ... | 247 |
+| 31 | [[hormê]] | hormê | — | The Stoic Theory of Action: Kathekon ... | 247 |
 | 32 | [[Kathêkon]] | kathêkon | — | The Stoic Theory of Action: Kathekon ... | 247 |
 | 33 | [[Epictetus]] | — | — | The Stoic Theory of Action: Kathekon ... | 256 |
-| 34 | [[Frank Knight]] | — | — | Knightian Uncertainty: When More Thin... | 260 |
+| 34 | [[Frank-Knight|Frank Knight]] | — | — | Knightian Uncertainty: When More Thin... | 260 |
 | 35 | [[Knightian-Uncertainty|Knightian Uncertainty]] | — | — | Knightian Uncertainty: When More Thin... | 260 |
-| 36 | [[John Kay]] | — | — | Knightian Uncertainty: When More Thin... | 265 |
-| 37 | [[Mervyn King]] | — | — | Knightian Uncertainty: When More Thin... | 265 |
+| 36 | [[John-Kay|John Kay]] | — | — | Knightian Uncertainty: When More Thin... | 265 |
+| 37 | [[Mervyn-King|Mervyn King]] | — | — | Knightian Uncertainty: When More Thin... | 265 |
 | 38 | [[Fallibilism]] | — | — | The Second Tension: Fallibilism and t... | 305 |
 | 39 | [[Analysis-Paralysis|Analysis paralysis]] | — | — | The Second Tension: Fallibilism and t... | 307 |
 | 40 | [[Epictetus]] | — | — | The Second Tension: Fallibilism and t... | 311 |
 | 41 | [[Dichotomy-of-Control|Dichotomy of Control]] | dichotomy of control | — | The Second Tension: Fallibilism and t... | 311 |
-| 42 | [[Michael Polanyi]] | — | — | PKB Expansion Topics | 500 |
+| 42 | [[Michael-Polanyi|Michael Polanyi]] | — | — | PKB Expansion Topics | 500 |
 | 43 | [[Harry Collins]] | — | — | PKB Expansion Topics | 500 |
 | 44 | [[Dreyfus]] | — | — | PKB Expansion Topics | 500 |
 | 45 | [[Pellegrino]] | — | — | PKB Expansion Topics | 503 |
@@ -510,7 +510,7 @@ extraction_summary:
 | 59 | [[Velleman]] | — | — | PKB Expansion Topics | 509 |
 | 60 | [[Bandura]] | — | — | PKB Expansion Topics | 509 |
 | 61 | [[Merleau-Ponty]] | — | — | PKB Expansion Topics | 509 |
-| 62 | [[Confucian practical wisdom]] | — | — | PKB Expansion Topics | 512 |
+| 62 | [[Confucian-practical-wisdom|Confucian practical wisdom]] | — | — | PKB Expansion Topics | 512 |
 | 63 | [[Ubuntu philosophy]] | — | — | PKB Expansion Topics | 512 |
 
 ---
@@ -534,33 +534,33 @@ extraction_summary:
 - [[Aristotle]]
 - [[Artinger]]
 - [[Bandura]]
-- [[Barry Schwartz]]
+- [[Barry-Schwartz|Barry Schwartz]]
 - [[Bratman]]
-- [[Byron Fowers]]
-- [[Confucian practical wisdom]]
+- [[Byron-Fowers|Byron Fowers]]
+- [[Confucian-practical-wisdom|Confucian practical wisdom]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dreyfus]]
 - [[Ecological-Rationality|Ecological Rationality]]
 - [[Epictetus]]
 - [[Fallibilism]]
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
-- [[Frank Knight]]
-- [[Gary Klein]]
-- [[Gerd Gigerenzer]]
+- [[Frank-Knight|Frank Knight]]
+- [[Gary-Klein|Gary Klein]]
+- [[Gerd-Gigerenzer|Gerd Gigerenzer]]
 - [[Harry Collins]]
 - [[Herbert Simon]]
-- [[Hormê]]
-- [[John Kay]]
+- [[hormê]]
+- [[John-Kay|John Kay]]
 - [[Kathêkon]]
 - [[Knightian-Uncertainty|Knightian Uncertainty]]
-- [[Kristjan Kristjansson]]
+- [[Kristjan-Kristjansson|Kristjan Kristjansson]]
 - [[Merleau-Ponty]]
-- [[Mervyn King]]
-- [[Michael Polanyi]]
+- [[Mervyn-King|Mervyn King]]
+- [[Michael-Polanyi|Michael Polanyi]]
 - [[Nassim Taleb]]
-- [[Naturalistic Decision Making]]
+- [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Nel Noddings]]
-- [[Nicomachean Ethics]]
+- [[Nicomachean-Ethics|Nicomachean Ethics]]
 - [[Pellegrino]]
 - [[Phantasia]]
 - [[Ralf Stacey]]
@@ -576,11 +576,11 @@ extraction_summary:
 - [[commitment]]
 - [[hormê]]
 - [[intention]]
-- [[kathekon]]
-- [[phronesis]]
+- [[Kathekon]]
+- [[Phronesis]]
 - [[robust satisficing]]
 - [[scenario planning]]
-- [[theoretical wisdom]]
+- [[theoretical-wisdom|theoretical wisdom]]
 - [[via negativa]]
 - [[will]]
 
@@ -597,10 +597,10 @@ extraction_summary:
 #### Related
 
 - [[Virtue-Epistemology|Virtue Epistemology]]
-- [[Decision Theory]]
+- [[Decision-Theory|Decision Theory]]
 - [[Moral Psychology]]
 - [[Expertise Research]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 
 #### Broader
 

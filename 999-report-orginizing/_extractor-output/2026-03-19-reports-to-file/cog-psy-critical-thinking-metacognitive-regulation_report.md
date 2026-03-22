@@ -199,7 +199,7 @@ extraction_summary:
 #### 1. [DEFINITION] Untitled *(Line 421)*
 
 > [!definition] Untitled
-> **[[Critical Thinking Skills and Metacognitive Self-Regulation]]**: An integrated framework encompassing the core analytical and evaluative techniques of critical thinking (deductive reasoning, inductive reasoning, practical reasoning, decision-making, and problem-solving) combined with metacognitive self-regulation strategies that enable practitioners to recognize when critical thinking is warranted, monitor the quality of their reasoning in real-time, and adjust their cognitive strategies for optimal epistemic outcomes. This topic focuses on the bidirectional relationship where metacognitive awareness enhances critical thinking deployment, while critical thinking strengthens metacognitive monitoring capabilities.
+> **[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]**: An integrated framework encompassing the core analytical and evaluative techniques of critical thinking (deductive reasoning, inductive reasoning, practical reasoning, decision-making, and problem-solving) combined with metacognitive self-regulation strategies that enable practitioners to recognize when critical thinking is warranted, monitor the quality of their reasoning in real-time, and adjust their cognitive strategies for optimal epistemic outcomes. This topic focuses on the bidirectional relationship where metacognitive awareness enhances critical thinking deployment, while critical thinking strengthens metacognitive monitoring capabilities.
 
 #### 2. [SCOPE] Untitled *(Line 428)*
 
@@ -218,7 +218,7 @@ extraction_summary:
 > This topic intentionally omits: 
 > - (1) **Pure foundational theory** - basic definitions of critical thinking, philosophical origins, and historical development (user already has foundational knowledge); 
 > - (2) **Domain-specific applications** - specialized critical thinking in narrow fields like medical diagnosis, legal reasoning, or scientific method (these deserve separate treatment); 
-> - (3) **Cognitive biases catalog** - while bias awareness is integrated where relevant, an exhaustive bias taxonomy belongs in a dedicated topic like [[Cognitive Biases and Debiasing Strategies]]; 
+> - (3) **Cognitive biases catalog** - while bias awareness is integrated where relevant, an exhaustive bias taxonomy belongs in a dedicated topic like [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]]; 
 > - (4) **Formal logic systems** - propositional calculus, predicate logic, modal logic (too narrow and technical for integrated framework); 
 > - (5) **Critical thinking pedagogy** - instructional design for teaching CT (different focus than personal skill development).
 > 
@@ -238,19 +238,19 @@ extraction_summary:
 > You likely have these prerequisites if you've: completed foundational coursework in critical thinking, logic, or reasoning; read introductory texts on thinking skills; or demonstrated practical analytical ability in academic or professional contexts.
 > 
 > **Helpful Background**:
-> While not required, understanding of the following would enhance comprehension: [[Dual-Process-Theory|Dual Process Theory]] (System 1 vs. System 2 thinking), [[Cognitive-Load-Theory|Cognitive Load Theory]] (working memory constraints affecting reasoning), [[Argumentation-Theory|Argumentation Theory]] (informal logic and argument mapping), [[Decision Theory]] (expected value, probability reasoning), [[Scientific Method]] (hypothesis testing, falsification).
+> While not required, understanding of the following would enhance comprehension: [[Dual-Process-Theory|Dual Process Theory]] (System 1 vs. System 2 thinking), [[Cognitive-Load-Theory|Cognitive Load Theory]] (working memory constraints affecting reasoning), [[Argumentation-Theory|Argumentation Theory]] (informal logic and argument mapping), [[Decision-Theory|Decision Theory]] (expected value, probability reasoning), [[Scientific-Method|Scientific Method]] (hypothesis testing, falsification).
 > 
 > **Prerequisite Gaps to Address**:
-> If your foundational knowledge is limited, consider first developing: [[Introduction to Critical Thinking]] - core concepts and importance; [[Argument Analysis Fundamentals]] - identifying and evaluating basic arguments; [[Introduction to Metacognition]] - self-monitoring and self-regulation basics. These can be pursued before or in parallel with this topic, but foundational understanding will maximize learning value.
+> If your foundational knowledge is limited, consider first developing: [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] - core concepts and importance; [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] - identifying and evaluating basic arguments; [[Introduction-to-Metacognition|Introduction to Metacognition]] - self-monitoring and self-regulation basics. These can be pursued before or in parallel with this topic, but foundational understanding will maximize learning value.
 
 #### 4. [CONNECTIONS-AND-LINKS] Untitled *(Line 474)*
 
 > [!connections-and-links] Untitled
 > **Connects To Existing PKB**:
-> This topic creates rich connections to your existing knowledge foundation: **Bidirectional enhancement with [[Metacognition]]** - critical thinking provides concrete domain for metacognitive practice; metacognition enables critical thinking deployment; **Practical application of [[Dual-Process-Theory|Dual Process Theory]]** - understanding when to engage System 2 analytical reasoning vs. relying on System 1 intuition; **Foundation for [[Epistemic-Vigilance|Epistemic Vigilance]]** - critical thinking as primary tool for evaluating information quality; **Integration with [[Decision Making]]** - critical thinking techniques directly enhance decision quality; **Bridge to [[Cognitive Biases]]** - critical thinking as debiasing mechanism; metacognitive monitoring as bias detection system; **Connection to [[Scientific Reasoning]]** - critical thinking as transferable skill applicable to hypothesis evaluation; **Support for [[Argument Analysis]]** - metacognitive awareness of when and how to deploy argument evaluation techniques.
+> This topic creates rich connections to your existing knowledge foundation: **Bidirectional enhancement with [[Metacognition]]** - critical thinking provides concrete domain for metacognitive practice; metacognition enables critical thinking deployment; **Practical application of [[Dual-Process-Theory|Dual Process Theory]]** - understanding when to engage System 2 analytical reasoning vs. relying on System 1 intuition; **Foundation for [[Epistemic-Vigilance|Epistemic Vigilance]]** - critical thinking as primary tool for evaluating information quality; **Integration with [[Decision-Making|Decision Making]]** - critical thinking techniques directly enhance decision quality; **Bridge to [[Cognitive-Biases|Cognitive Biases]]** - critical thinking as debiasing mechanism; metacognitive monitoring as bias detection system; **Connection to [[Scientific-Reasoning|Scientific Reasoning]]** - critical thinking as transferable skill applicable to hypothesis evaluation; **Support for [[Argument-Analysis|Argument Analysis]]** - metacognitive awareness of when and how to deploy argument evaluation techniques.
 > 
 > **Opens Pathways To**:
-> Mastering this topic naturally leads to exploration of: [[Socratic Questioning Methodology]] - structured questioning techniques for deeper analysis; [[Intellectual Humility and Epistemic Virtue]] - character traits supporting excellent reasoning; [[Bayesian Reasoning and Probabilistic Thinking]] - quantitative approaches to uncertainty; [[Argument Mapping and Visualization]] - visual tools for complex argument analysis; [[Cognitive Forcing Functions]] - environmental design to support better thinking; [[Epistemic Peer Disagreement]] - handling persistent disagreement between equally-informed reasoners; [[Reflective Equilibrium]] - method for achieving coherence between judgments and principles; [[Pre-Mortem Analysis]] - prospective hindsight for decision quality; [[Red Team Thinking]] - structured adversarial analysis; [[Cognitive Task Analysis]] - breaking down expert reasoning for skill development.
+> Mastering this topic naturally leads to exploration of: [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]] - structured questioning techniques for deeper analysis; [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]] - character traits supporting excellent reasoning; [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]] - quantitative approaches to uncertainty; [[Argument Mapping and Visualization]] - visual tools for complex argument analysis; [[Cognitive Forcing Functions]] - environmental design to support better thinking; [[Epistemic Peer Disagreement]] - handling persistent disagreement between equally-informed reasoners; [[Reflective Equilibrium]] - method for achieving coherence between judgments and principles; [[Pre-Mortem Analysis]] - prospective hindsight for decision quality; [[Red Team Thinking]] - structured adversarial analysis; [[Cognitive Task Analysis]] - breaking down expert reasoning for skill development.
 > 
 > **Cross-Domain Bridges**:
 > This topic creates bridges to multiple fields: **Philosophy** - epistemology (theories of knowledge and justification), logic (formal and informal), philosophy of science; **Psychology** - cognitive psychology (reasoning processes), educational psychology (learning transfer), social psychology (group reasoning); **Education** - instructional design (teaching thinking skills), assessment (measuring reasoning quality); **Computer Science** - artificial intelligence (modeling reasoning), computational epistemology; **Professional Domains** - medicine (diagnostic reasoning), law (legal reasoning), business (strategic thinking), science (hypothesis testing).
@@ -356,11 +356,11 @@ extraction_summary:
 > **To Generate Report**: Copy the following parameters to the report generator:
 > 
 > ```
-> [TOPIC]: [[Critical Thinking Skills and Metacognitive Self-Regulation]]
+> [TOPIC]: [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]
 > 
 > [DEPTH_LEVEL]: In-depth technical analysis with strong practical application focus
 > 
-> [EXISTING_CONCEPTS]: [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Argument Analysis]], [[Decision Making]], [[Cognitive Biases]], [[Scientific Reasoning]], [[Epistemic-Vigilance|Epistemic Vigilance]]
+> [EXISTING_CONCEPTS]: [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Argument-Analysis|Argument Analysis]], [[Decision-Making|Decision Making]], [[Cognitive-Biases|Cognitive Biases]], [[Scientific-Reasoning|Scientific Reasoning]], [[Epistemic-Vigilance|Epistemic Vigilance]]
 > 
 > [SPECIAL_REQUIREMENTS]: 
 > - Emphasize PRACTICAL APPLICATION over pure theory (user already has foundations)
@@ -376,7 +376,7 @@ extraction_summary:
 #### 9. [ABSTRACT] Untitled *(Line 703)*
 
 > [!abstract] Untitled
-> [[Critical Thinking Skills]] and [[Metacognitive Self-Regulation]] constitute a unified cognitive architecture where domain-general reasoning principles combine with domain-specific knowledge activation through metacognitive deployment mechanisms. This comprehensive analysis synthesizes empirical evidence from the [[PENCRISAL]] assessment framework, [[Metacognitive Awareness Inventory]], and [[Epistemic-Vigilance|Epistemic Vigilance]] research to establish practical frameworks for recognizing when to deploy specific reasoning strategies, calibrating self-assessment accuracy, and systematically debugging reasoning errors. The central challenge addressed is not whether critical thinking skills exist, but rather how to achieve reliable transfer across contexts through structured metacognitive control that bridges the gap between possessing cognitive tools and deploying them appropriately in naturalistic decision-making environments.
+> [[Critical Thinking Skills]] and [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] constitute a unified cognitive architecture where domain-general reasoning principles combine with domain-specific knowledge activation through metacognitive deployment mechanisms. This comprehensive analysis synthesizes empirical evidence from the [[PENCRISAL]] assessment framework, [[Metacognitive Awareness Inventory]], and [[Epistemic-Vigilance|Epistemic Vigilance]] research to establish practical frameworks for recognizing when to deploy specific reasoning strategies, calibrating self-assessment accuracy, and systematically debugging reasoning errors. The central challenge addressed is not whether critical thinking skills exist, but rather how to achieve reliable transfer across contexts through structured metacognitive control that bridges the gap between possessing cognitive tools and deploying them appropriately in naturalistic decision-making environments.
 
 #### 10. [DEFINITION] Critical Thinking as Metacognitively-Regulated Reasoning *(Line 706)*
 
@@ -391,7 +391,7 @@ extraction_summary:
 #### 12. [ATOMIC-CONCEPT] Three Types of Metacognitive Knowledge *(Line 728)*
 
 > [!atomic-concept] Three Types of Metacognitive Knowledge
-> **[[Declarative Knowledge]]** represents awareness of what cognitive resources exist ("I know that confirmation bias can distort my evaluation of evidence"), **[[Procedural Knowledge]]** captures understanding of how to execute cognitive strategies ("I know that I should actively seek disconfirming evidence when evaluating my hypothesis"), and **[[Conditional Knowledge]]** specifies when and why particular strategies apply ("I should deploy formal hypothesis testing when stakes are high and I have time for deliberate analysis, but rely on heuristic reasoning for routine low-stakes decisions").
+> **[[Declarative Knowledge]]** represents awareness of what cognitive resources exist ("I know that confirmation bias can distort my evaluation of evidence"), **[[Procedural-Knowledge|Procedural Knowledge]]** captures understanding of how to execute cognitive strategies ("I know that I should actively seek disconfirming evidence when evaluating my hypothesis"), and **[[Conditional Knowledge]]** specifies when and why particular strategies apply ("I should deploy formal hypothesis testing when stakes are high and I have time for deliberate analysis, but rely on heuristic reasoning for routine low-stakes decisions").
 
 #### 13. [CORE-PRINCIPLE] Five Regulatory Mechanisms *(Line 735)*
 
@@ -568,7 +568,7 @@ extraction_summary:
 > 
 > **Dimension 3: Receiver Evaluation (Self-Awareness)**
 > Deploy critical thinking when you notice:
-> - **Emotional Arousal**: Strong emotional reactions (anger, fear, excitement, moral outrage) signal potential for [[cognitive biases]]—emotion hijacks analytical processing. When you feel strong affect, engage System 2 deliberately.
+> - **Emotional Arousal**: Strong emotional reactions (anger, fear, excitement, moral outrage) signal potential for [[Cognitive-Biases|cognitive biases]]—emotion hijacks analytical processing. When you feel strong affect, engage System 2 deliberately.
 > - **Confirmation Alignment**: Information that perfectly confirms your pre-existing beliefs triggers feel-good acceptance without scrutiny. **Beware the satisfying explanation**—it's designed to bypass critical analysis.
 > - **Complexity Avoidance**: The temptation to accept simple explanations for complex phenomena. If a multi-factorial problem (e.g., poverty, climate change, educational outcomes) receives a single-cause explanation, activate skepticism.
 > - **Social Proof Pressure**: When group consensus creates pressure to accept claims without independent verification. Groupthink and informational cascades suppress critical evaluation—social validation isn't epistemic validation.
@@ -603,9 +603,9 @@ extraction_summary:
 
 > [!connections-and-links] Existing Vault Integration
 > Your existing vault concepts map to PENCRISAL dimensions:
-> - [[Argument Analysis]] → Practical Reasoning (PR) + Deductive Reasoning (DR)
-> - [[Decision Making]] → Decision-Making (DM) dimension
-> - [[Scientific Reasoning]] → Inductive Reasoning (IR) + Problem-Solving (PS)
+> - [[Argument-Analysis|Argument Analysis]] → Practical Reasoning (PR) + Deductive Reasoning (DR)
+> - [[Decision-Making|Decision Making]] → Decision-Making (DM) dimension
+> - [[Scientific-Reasoning|Scientific Reasoning]] → Inductive Reasoning (IR) + Problem-Solving (PS)
 > - [[Dual-Process-Theory|Dual Process Theory]] → Explains when heuristic (System 1) vs deliberate (System 2) reasoning is deployed
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]] → Informs why complex problems require systematic decomposition
 
@@ -860,10 +860,10 @@ extraction_summary:
 > - [[Metacognition]] ← Detailed operational architecture presented here
 > - [[Dual-Process-Theory|Dual Process Theory]] ← Explains when System 1 heuristics vs System 2 deliberation deploy
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]] ← Constrains working memory during analytical processing
-> - [[Argument Analysis]] ← Practical reasoning dimension of PENCRISAL
-> - [[Decision Making]] ← Decision-making dimension of PENCRISAL  
-> - [[Cognitive Biases]] ← Error patterns requiring debugging protocols
-> - [[Scientific Reasoning]] ← Inductive reasoning + problem-solving dimensions
+> - [[Argument-Analysis|Argument Analysis]] ← Practical reasoning dimension of PENCRISAL
+> - [[Decision-Making|Decision Making]] ← Decision-making dimension of PENCRISAL  
+> - [[Cognitive-Biases|Cognitive Biases]] ← Error patterns requiring debugging protocols
+> - [[Scientific-Reasoning|Scientific Reasoning]] ← Inductive reasoning + problem-solving dimensions
 > - [[Epistemic-Vigilance|Epistemic Vigilance]] ← Recognition patterns for deployment triggers
 
 #### 57. [FURTHER-EXPLORATION] Expansion Topics *(Line 1580)*
@@ -941,17 +941,17 @@ extraction_summary:
 
 - [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Anchoring Bias]]
-- [[Argument Analysis]]
-- [[Argument Analysis Fundamentals]]
+- [[Argument-Analysis|Argument Analysis]]
+- [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]]
 - [[Argument Mapping and Visualization]]
 - [[Argument Mining and Automated Feedback]]
 - [[Argument Strength]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Bayesian Reasoning and Probabilistic Thinking]]
+- [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]]
 - [[Cognitive Bias Mitigation Protocols]]
-- [[Cognitive Biases]]
-- [[Cognitive Biases and Debiasing Strategies]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]]
 - [[Cognitive Forcing Functions]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Task Analysis]]
@@ -962,28 +962,28 @@ extraction_summary:
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Architecture]]
 - [[Critical Thinking Skills]]
-- [[Critical Thinking Skills and Metacognitive Self-Regulation]]
+- [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]
 - [[Critical-Thinking|Critical thinking]]
-- [[Dan Sperber]]
-- [[Daniel Willingham]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[Daniel-Willingham|Daniel Willingham]]
 - [[Debugging Strategies]]
-- [[Decision Making]]
-- [[Decision Theory]]
+- [[Decision-Making|Decision Making]]
+- [[Decision-Theory|Decision Theory]]
 - [[Declarative Knowledge]]
-- [[Diane Halpern]]
+- [[Diane-Halpern|Diane Halpern]]
 - [[Domain-Specific Critical Thinking Standards]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epistemic Humility and Intellectual Virtue]]
 - [[Epistemic Peer Disagreement]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Extended Epistemic Vigilance Framework]]
-- [[Gregory Schraw]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Halpern]]
 - [[Hugo Mercier]]
 - [[Hypothesis Testing]]
-- [[Intellectual Humility and Epistemic Virtue]]
-- [[Introduction to Critical Thinking]]
-- [[Introduction to Metacognition]]
+- [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]]
+- [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]
+- [[Introduction-to-Metacognition|Introduction to Metacognition]]
 - [[John McPeck]]
 - [[Logical Fallacies]]
 - [[MAI]]
@@ -992,54 +992,54 @@ extraction_summary:
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Intervention Design]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
-- [[Metacognitive Self-Regulation]]
+- [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Neuroscience of Metacognition]]
 - [[PENCRISAL]]
 - [[Pattern Recognition]]
 - [[Pre-Mortem Analysis]]
-- [[Procedural Knowledge]]
+- [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Ramond Dennison]]
 - [[Real-Time Reasoning Quality Monitoring Systems]]
 - [[Red Team Thinking]]
 - [[Reflective Equilibrium]]
-- [[Robert Ennis]]
-- [[Scientific Method]]
-- [[Scientific Reasoning]]
-- [[Socratic Questioning Methodology]]
+- [[Robert-Ennis|Robert Ennis]]
+- [[Scientific-Method|Scientific Method]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
+- [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]]
 - [[Straw Man]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[Transfer Problem]]
 - [[Transfer-Enabling Pedagogical Frameworks]]
-- [[argument analysis]]
-- [[cognitive biases]]
+- [[Argument-Analysis|argument analysis]]
+- [[Cognitive-Biases|cognitive biases]]
 - [[Epistemic-Vigilance|epistemic vigilance]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Critical Thinking Skills and Metacognitive Self-Regulation]] | — | — | ═════════════════════════════════════... | 392 |
-| 2 | [[Critical Thinking Skills and Metacognitive Self-Regulation]] | — | — | 📝 Topic Definition | 422 |
-| 3 | [[Cognitive Biases and Debiasing Strategies]] | — | — | 🎯 Scope Boundaries | 443 |
+| 1 | [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] | — | — | ═════════════════════════════════════... | 392 |
+| 2 | [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] | — | — | 📝 Topic Definition | 422 |
+| 3 | [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] | — | — | 🎯 Scope Boundaries | 443 |
 | 4 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 📚 Prerequisite Knowledge | 465 |
 | 5 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📚 Prerequisite Knowledge | 465 |
 | 6 | [[Argumentation-Theory|Argumentation Theory]] | — | — | 📚 Prerequisite Knowledge | 465 |
-| 7 | [[Decision Theory]] | — | — | 📚 Prerequisite Knowledge | 465 |
-| 8 | [[Scientific Method]] | — | — | 📚 Prerequisite Knowledge | 465 |
-| 9 | [[Introduction to Critical Thinking]] | — | — | 📚 Prerequisite Knowledge | 468 |
-| 10 | [[Argument Analysis Fundamentals]] | — | — | 📚 Prerequisite Knowledge | 468 |
-| 11 | [[Introduction to Metacognition]] | — | — | 📚 Prerequisite Knowledge | 468 |
+| 7 | [[Decision-Theory|Decision Theory]] | — | — | 📚 Prerequisite Knowledge | 465 |
+| 8 | [[Scientific-Method|Scientific Method]] | — | — | 📚 Prerequisite Knowledge | 465 |
+| 9 | [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] | — | — | 📚 Prerequisite Knowledge | 468 |
+| 10 | [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] | — | — | 📚 Prerequisite Knowledge | 468 |
+| 11 | [[Introduction-to-Metacognition|Introduction to Metacognition]] | — | — | 📚 Prerequisite Knowledge | 468 |
 | 12 | [[Metacognition]] | — | — | 🕸️ Connection Opportunities | 476 |
 | 13 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🕸️ Connection Opportunities | 476 |
 | 14 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | 🕸️ Connection Opportunities | 476 |
-| 15 | [[Decision Making]] | — | — | 🕸️ Connection Opportunities | 476 |
-| 16 | [[Cognitive Biases]] | — | — | 🕸️ Connection Opportunities | 476 |
-| 17 | [[Scientific Reasoning]] | — | — | 🕸️ Connection Opportunities | 476 |
-| 18 | [[Argument Analysis]] | — | — | 🕸️ Connection Opportunities | 476 |
-| 19 | [[Socratic Questioning Methodology]] | — | — | 🕸️ Connection Opportunities | 479 |
-| 20 | [[Intellectual Humility and Epistemic Virtue]] | — | — | 🕸️ Connection Opportunities | 479 |
-| 21 | [[Bayesian Reasoning and Probabilistic Thinking]] | — | — | 🕸️ Connection Opportunities | 479 |
+| 15 | [[Decision-Making|Decision Making]] | — | — | 🕸️ Connection Opportunities | 476 |
+| 16 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🕸️ Connection Opportunities | 476 |
+| 17 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | 🕸️ Connection Opportunities | 476 |
+| 18 | [[Argument-Analysis|Argument Analysis]] | — | — | 🕸️ Connection Opportunities | 476 |
+| 19 | [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]] | — | — | 🕸️ Connection Opportunities | 479 |
+| 20 | [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]] | — | — | 🕸️ Connection Opportunities | 479 |
+| 21 | [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]] | — | — | 🕸️ Connection Opportunities | 479 |
 | 22 | [[Argument Mapping and Visualization]] | — | — | 🕸️ Connection Opportunities | 479 |
 | 23 | [[Cognitive Forcing Functions]] | — | — | 🕸️ Connection Opportunities | 479 |
 | 24 | [[Epistemic Peer Disagreement]] | — | — | 🕸️ Connection Opportunities | 479 |
@@ -1047,24 +1047,24 @@ extraction_summary:
 | 26 | [[Pre-Mortem Analysis]] | — | — | 🕸️ Connection Opportunities | 479 |
 | 27 | [[Red Team Thinking]] | — | — | 🕸️ Connection Opportunities | 479 |
 | 28 | [[Cognitive Task Analysis]] | — | — | 🕸️ Connection Opportunities | 479 |
-| 29 | [[Critical Thinking Skills and Metacognitive Self-Regulation]] | — | — | 🚀 Ready for Report Generation | 593 |
+| 29 | [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] | — | — | 🚀 Ready for Report Generation | 593 |
 | 30 | [[Metacognition]] | — | — | 🚀 Ready for Report Generation | 597 |
 | 31 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🚀 Ready for Report Generation | 597 |
 | 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🚀 Ready for Report Generation | 597 |
-| 33 | [[Argument Analysis]] | — | — | 🚀 Ready for Report Generation | 597 |
-| 34 | [[Decision Making]] | — | — | 🚀 Ready for Report Generation | 597 |
-| 35 | [[Cognitive Biases]] | — | — | 🚀 Ready for Report Generation | 597 |
-| 36 | [[Scientific Reasoning]] | — | — | 🚀 Ready for Report Generation | 597 |
+| 33 | [[Argument-Analysis|Argument Analysis]] | — | — | 🚀 Ready for Report Generation | 597 |
+| 34 | [[Decision-Making|Decision Making]] | — | — | 🚀 Ready for Report Generation | 597 |
+| 35 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🚀 Ready for Report Generation | 597 |
+| 36 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | 🚀 Ready for Report Generation | 597 |
 | 37 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | 🚀 Ready for Report Generation | 597 |
 | 38 | [[Critical Thinking Skills]] | — | — | 🧠 Abstract: The Architecture of Delib... | 704 |
-| 39 | [[Metacognitive Self-Regulation]] | — | — | 🧠 Abstract: The Architecture of Delib... | 704 |
+| 39 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | 🧠 Abstract: The Architecture of Delib... | 704 |
 | 40 | [[PENCRISAL]] | — | — | 🧠 Abstract: The Architecture of Delib... | 704 |
 | 41 | [[Metacognitive Awareness Inventory]] | — | — | 🧠 Abstract: The Architecture of Delib... | 704 |
 | 42 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | 🧠 Abstract: The Architecture of Delib... | 704 |
 | 43 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 Abstract: The Architecture of Delib... | 707 |
-| 44 | [[Diane Halpern]] | — | — | 🎯 The Deployment Challenge: From Skil... | 711 |
+| 44 | [[Diane-Halpern|Diane Halpern]] | — | — | 🎯 The Deployment Challenge: From Skil... | 711 |
 | 45 | [[Transfer Problem]] | — | — | 🎯 The Deployment Challenge: From Skil... | 711 |
-| 46 | [[Daniel Willingham]] | — | — | 🎯 The Deployment Challenge: From Skil... | 711 |
+| 46 | [[Daniel-Willingham|Daniel Willingham]] | — | — | 🎯 The Deployment Challenge: From Skil... | 711 |
 | 47 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 The Deployment Challenge: From Skil... | 714 |
 | 48 | [[System-1|System 1]] | — | — | 🎯 The Deployment Challenge: From Skil... | 714 |
 | 49 | [[System-2|System 2]] | — | — | 🎯 The Deployment Challenge: From Skil... | 714 |
@@ -1072,22 +1072,22 @@ extraction_summary:
 | 51 | [[Argument Strength]] | — | — | The Structure Training Imperative | 718 |
 | 52 | [[Hypothesis Testing]] | — | — | The Structure Training Imperative | 718 |
 | 53 | [[Pattern Recognition]] | — | — | The Structure Training Imperative | 718 |
-| 54 | [[Robert Ennis]] | — | — | The Structure Training Imperative | 720 |
+| 54 | [[Robert-Ennis|Robert Ennis]] | — | — | The Structure Training Imperative | 720 |
 | 55 | [[John McPeck]] | — | — | The Structure Training Imperative | 720 |
 | 56 | [[PENCRISAL]] | — | — | The Structure Training Imperative | 720 |
 | 57 | [[Metacognition]] | — | — | 🔍 Metacognitive Architecture: The Con... | 724 |
-| 58 | [[Gregory Schraw]] | — | — | 🔍 Metacognitive Architecture: The Con... | 724 |
+| 58 | [[Gregory-Schraw|Gregory Schraw]] | — | — | 🔍 Metacognitive Architecture: The Con... | 724 |
 | 59 | [[Ramond Dennison]] | — | — | 🔍 Metacognitive Architecture: The Con... | 724 |
 | 60 | [[Metacognitive Awareness Inventory]] | — | — | 🔍 Metacognitive Architecture: The Con... | 724 |
 | 61 | [[Declarative Knowledge]] | — | — | Knowledge of Cognition: The Declarati... | 729 |
-| 62 | [[Procedural Knowledge]] | — | — | Knowledge of Cognition: The Declarati... | 729 |
+| 62 | [[Procedural-Knowledge|Procedural Knowledge]] | — | — | Knowledge of Cognition: The Declarati... | 729 |
 | 63 | [[Conditional Knowledge]] | — | — | Knowledge of Cognition: The Declarati... | 729 |
 | 64 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | Knowledge of Cognition: The Declarati... | 731 |
 | 65 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Knowledge of Cognition: The Declarati... | 731 |
 | 66 | [[Hugo Mercier]] | — | — | Knowledge of Cognition: The Declarati... | 731 |
-| 67 | [[Dan Sperber]] | — | — | Knowledge of Cognition: The Declarati... | 731 |
+| 67 | [[Dan-Sperber|Dan Sperber]] | — | — | Knowledge of Cognition: The Declarati... | 731 |
 | 68 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | Regulation of Cognition: The Executiv... | 736 |
-| 69 | [[Dan Sperber]] | — | — | Epistemic Vigilance Triggers | 758 |
+| 69 | [[Dan-Sperber|Dan Sperber]] | — | — | Epistemic Vigilance Triggers | 758 |
 | 70 | [[Hugo Mercier]] | — | — | Epistemic Vigilance Triggers | 758 |
 | 71 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | Epistemic Vigilance Triggers | 758 |
 | 72 | [[Extended Epistemic Vigilance Framework]] | — | — | Epistemic Vigilance Triggers | 761 |
@@ -1098,7 +1098,7 @@ extraction_summary:
 | 77 | [[Metacognitive Awareness Inventory]] | — | — | The MAI-Based Self-Assessment Protocol | 780 |
 | 78 | [[Straw Man]] | — | — | Rubric-Based Performance Calibration | 795 |
 | 79 | [[Debugging Strategies]] | — | — | 🛠️ Debugging Protocols: Systematic Er... | 805 |
-| 80 | [[Cognitive Biases]] | — | — | Systematic Error Diagnosis | 819 |
+| 80 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Systematic Error Diagnosis | 819 |
 | 81 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Systematic Error Diagnosis | 821 |
 | 82 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Systematic Error Diagnosis | 823 |
 | 83 | [[Anchoring Bias]] | — | — | Systematic Error Diagnosis | 825 |
@@ -1117,21 +1117,21 @@ extraction_summary:
 | 96 | [[Metacognitive Awareness Inventory]] | — | — | Understanding the Control System | 1035 |
 | 97 | [[Critical-Thinking|Critical thinking]] | — | — | When Does Critical Thinking Get Trigg... | 1070 |
 | 98 | [[Epistemic-Vigilance|epistemic vigilance]] | — | — | Situational Triggers for Critical Thi... | 1077 |
-| 99 | [[cognitive biases]] | — | — | Situational Triggers for Critical Thi... | 1095 |
+| 99 | [[Cognitive-Biases|cognitive biases]] | — | — | Situational Triggers for Critical Thi... | 1095 |
 | 100 | [[PENCRISAL]] | — | — | ⚙️ III. Critical Thinking Skills: The... | 1123 |
-| 101 | [[argument analysis]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1134 |
-| 102 | [[Argument Analysis]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1144 |
-| 103 | [[Decision Making]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1145 |
-| 104 | [[Scientific Reasoning]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1146 |
+| 101 | [[Argument-Analysis|argument analysis]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1134 |
+| 102 | [[Argument-Analysis|Argument Analysis]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1144 |
+| 103 | [[Decision-Making|Decision Making]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1145 |
+| 104 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1146 |
 | 105 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1147 |
 | 106 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | PENCRISAL: Five-Dimensional Performan... | 1148 |
 | 107 | [[Metacognition]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1571 |
 | 108 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1572 |
 | 109 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1573 |
-| 110 | [[Argument Analysis]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1574 |
-| 111 | [[Decision Making]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1575 |
-| 112 | [[Cognitive Biases]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1576 |
-| 113 | [[Scientific Reasoning]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1577 |
+| 110 | [[Argument-Analysis|Argument Analysis]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1574 |
+| 111 | [[Decision-Making|Decision Making]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1575 |
+| 112 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1576 |
+| 113 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1577 |
 | 114 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1578 |
 | 115 | [[Domain-Specific Critical Thinking Standards]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1583 |
 | 116 | [[Metacognitive Intervention Design]] | — | — | 🔗 Synthesis & Integration: Operationa... | 1586 |
@@ -1157,7 +1157,7 @@ extraction_summary:
 # ═══════════════════════════════════════════════════════════════════════════
 topic_id: ct-metacognitive-regulation-001
 title: "Critical Thinking Skills and Metacognitive Self-Regulation"
-wiki_link: "[[Critical Thinking Skills and Metacognitive Self-Regulation]]"
+wiki_link: "[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]"
 created: 2026-02-01
 status: ready-for-report
 
@@ -1185,11 +1185,11 @@ quality_assessment:
 ### Code Block 2 — `plaintext` *(Lines 592-608)*
 
 ```plaintext
-> [TOPIC]: [[Critical Thinking Skills and Metacognitive Self-Regulation]]
+> [TOPIC]: [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]
 > 
 > [DEPTH_LEVEL]: In-depth technical analysis with strong practical application focus
 > 
-> [EXISTING_CONCEPTS]: [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Argument Analysis]], [[Decision Making]], [[Cognitive Biases]], [[Scientific Reasoning]], [[Epistemic-Vigilance|Epistemic Vigilance]]
+> [EXISTING_CONCEPTS]: [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Argument-Analysis|Argument Analysis]], [[Decision-Making|Decision Making]], [[Cognitive-Biases|Cognitive Biases]], [[Scientific-Reasoning|Scientific Reasoning]], [[Epistemic-Vigilance|Epistemic Vigilance]]
 > 
 > [SPECIAL_REQUIREMENTS]: 
 > - Emphasize PRACTICAL APPLICATION over pure theory (user already has foundations)
@@ -1457,17 +1457,17 @@ PROCESS STANDARDS
 
 - [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Anchoring Bias]]
-- [[Argument Analysis]]
-- [[Argument Analysis Fundamentals]]
+- [[Argument-Analysis|Argument Analysis]]
+- [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]]
 - [[Argument Mapping and Visualization]]
 - [[Argument Mining and Automated Feedback]]
 - [[Argument Strength]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Bayesian Reasoning and Probabilistic Thinking]]
+- [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]]
 - [[Cognitive Bias Mitigation Protocols]]
-- [[Cognitive Biases]]
-- [[Cognitive Biases and Debiasing Strategies]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]]
 - [[Cognitive Forcing Functions]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Task Analysis]]
@@ -1478,28 +1478,28 @@ PROCESS STANDARDS
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Architecture]]
 - [[Critical Thinking Skills]]
-- [[Critical Thinking Skills and Metacognitive Self-Regulation]]
+- [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]
 - [[Critical-Thinking|Critical thinking]]
-- [[Dan Sperber]]
-- [[Daniel Willingham]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[Daniel-Willingham|Daniel Willingham]]
 - [[Debugging Strategies]]
-- [[Decision Making]]
-- [[Decision Theory]]
+- [[Decision-Making|Decision Making]]
+- [[Decision-Theory|Decision Theory]]
 - [[Declarative Knowledge]]
-- [[Diane Halpern]]
+- [[Diane-Halpern|Diane Halpern]]
 - [[Domain-Specific Critical Thinking Standards]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epistemic Humility and Intellectual Virtue]]
 - [[Epistemic Peer Disagreement]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Extended Epistemic Vigilance Framework]]
-- [[Gregory Schraw]]
+- [[Gregory-Schraw|Gregory Schraw]]
 - [[Halpern]]
 - [[Hugo Mercier]]
 - [[Hypothesis Testing]]
-- [[Intellectual Humility and Epistemic Virtue]]
-- [[Introduction to Critical Thinking]]
-- [[Introduction to Metacognition]]
+- [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]]
+- [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]
+- [[Introduction-to-Metacognition|Introduction to Metacognition]]
 - [[John McPeck]]
 - [[Logical Fallacies]]
 - [[MAI]]
@@ -1508,34 +1508,34 @@ PROCESS STANDARDS
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Intervention Design]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
-- [[Metacognitive Self-Regulation]]
+- [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Neuroscience of Metacognition]]
 - [[PENCRISAL]]
 - [[Pattern Recognition]]
 - [[Pre-Mortem Analysis]]
-- [[Procedural Knowledge]]
+- [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Ramond Dennison]]
 - [[Real-Time Reasoning Quality Monitoring Systems]]
 - [[Red Team Thinking]]
 - [[Reflective Equilibrium]]
-- [[Robert Ennis]]
-- [[Scientific Method]]
-- [[Scientific Reasoning]]
-- [[Socratic Questioning Methodology]]
+- [[Robert-Ennis|Robert Ennis]]
+- [[Scientific-Method|Scientific Method]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
+- [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]]
 - [[Straw Man]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[Transfer Problem]]
 - [[Transfer-Enabling Pedagogical Frameworks]]
-- [[argument analysis]]
-- [[cognitive biases]]
+- [[Argument-Analysis|argument analysis]]
+- [[Cognitive-Biases|cognitive biases]]
 - [[Epistemic-Vigilance|epistemic vigilance]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Introduction to Critical Thinking]]
+- [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]
 - [[Metacognition Fundamentals]]
 - [[Basic Argument Analysis]]
 - [[Logical Reasoning Foundations]]
@@ -1548,10 +1548,10 @@ PROCESS STANDARDS
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Argument Analysis]]
+- [[Argument-Analysis|Argument Analysis]]
 - [[Decision Making Under Uncertainty]]
 - [[Cognitive Biases and Debiasing]]
-- [[Scientific Reasoning]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -1583,7 +1583,7 @@ PROCESS STANDARDS
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Bayesian Reasoning]]
 - [[Argument-Mapping|Argument Mapping]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Pre-Mortem Analysis]]
 - [[Red Team Thinking]]
 - [[Cognitive Forcing Functions]]
@@ -1604,15 +1604,15 @@ PROCESS STANDARDS
 
 #### Builds On
 
-- [[Foundational Logic]]
-- [[Cognitive Development Theory]]
-- [[Information Processing Models]]
+- [[Foundational-Logic|Foundational Logic]]
+- [[Cognitive-Development-Theory|Cognitive Development Theory]]
+- [[Information-Processing-Models|Information Processing Models]]
 
 #### Enables
 
 - [[Advanced Reasoning Techniques]]
 - [[Domain-Specific Critical Thinking]]
-- [[Debiasing Interventions]]
+- [[Debiasing-Interventions|Debiasing Interventions]]
 - [[Metacognitive Instruction Design]]
 - [[Epistemic Virtue Development]]
 

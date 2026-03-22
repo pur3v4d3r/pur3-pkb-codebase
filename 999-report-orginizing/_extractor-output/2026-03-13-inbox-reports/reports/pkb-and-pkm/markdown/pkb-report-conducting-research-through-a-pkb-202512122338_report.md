@@ -350,7 +350,7 @@ extraction_summary:
 > 
 > **[[Progressive-Summarization|Progressive Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.
 > 
-> **[[Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
+> **[[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
 > 
 > **[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
 > 
@@ -422,11 +422,11 @@ extraction_summary:
 - [[Atomic-Notes|Atomic notes]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Dataview]]
 - [[Dataview-Plugin|Dataview plugin]]
 - [[Distributed-Cognition|Distributed Cognition]]
-- [[George Miller]]
+- [[George-Miller|George Miller]]
 - [[Knowledge Graph Theory]]
 - [[Literature Review Matrix Methods]]
 - [[Map of Content]]
@@ -445,20 +445,20 @@ extraction_summary:
 - [[Research Question Development Frameworks]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Tasks]]
-- [[Tasks plugin]]
+- [[Tasks-Plugin|Tasks plugin]]
 - [[Templater]]
 - [[The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base]]
 - [[Zettelkasten methodology]]
 - [[Zotero]]
 - [[Zotero Integration]]
 - [[Atomic-Notes|atomic notes]]
-- [[chunking]]
+- [[Chunking]]
 - [[Distributed-Cognition|distributed cognition]]
 - [[extended mind]]
 - [[information processing]]
 - [[literature notes]]
 - [[meta-level cognition]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[object-level cognition]]
 - [[permanent notes]]
 - [[reference manager]]
@@ -476,7 +476,7 @@ extraction_summary:
 | 4 | [[Obsidian]] | — | — | 🔬 The Architecture of Research: Condu... | 377 |
 | 5 | [[Distributed-Cognition|distributed cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 387 |
 | 6 | [[extended mind]] | — | — | The Cognitive Foundation: Why PKB Cha... | 387 |
-| 7 | [[metacognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
+| 7 | [[Metacognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
 | 8 | [[object-level cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
 | 9 | [[meta-level cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
 | 10 | [[information processing]] | — | — | The Research Lifecycle: From Question... | 406 |
@@ -493,10 +493,10 @@ extraction_summary:
 | 21 | [[permanent notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
 | 22 | [[Atomic-Notes|Atomic notes]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 491 |
 | 23 | [[Niklas Luhmann]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
-| 24 | [[chunking]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
-| 25 | [[George Miller]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
+| 24 | [[Chunking]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
+| 25 | [[George-Miller|George Miller]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
 | 26 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | Maps of Content: Navigation and Emerg... | 524 |
-| 27 | [[Tasks plugin]] | — | — | Status Tracking Systems | 555 |
+| 27 | [[Tasks-Plugin|Tasks plugin]] | — | — | Status Tracking Systems | 555 |
 | 28 | [[Dataview-Plugin|Dataview plugin]] | — | — | Status Tracking Systems | 562 |
 | 29 | [[weekly review]] | — | — | The Weekly Review Ritual | 574 |
 | 30 | [[Dataview]] | — | — | Essential Plugin Stack for Research | 588 |
@@ -510,7 +510,7 @@ extraction_summary:
 | 38 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Maintaining Research Value Long-Term | 663 |
 | 39 | [[Zettelkasten methodology]] | — | — | Maintaining Research Value Long-Term | 665 |
 | 40 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Maintaining Research Value Long-Term | 667 |
-| 41 | [[Critical Thinking Frameworks]] | — | — | Maintaining Research Value Long-Term | 669 |
+| 41 | [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]] | — | — | Maintaining Research Value Long-Term | 669 |
 | 42 | [[Paul-Elder model]] | — | — | Maintaining Research Value Long-Term | 669 |
 | 43 | [[Knowledge Graph Theory]] | — | — | Maintaining Research Value Long-Term | 671 |
 | 44 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Maintaining Research Value Long-Term | 673 |
@@ -713,11 +713,11 @@ for (let letter of sortedLetters) {
 - [[Atomic-Notes|Atomic notes]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Dataview]]
 - [[Dataview-Plugin|Dataview plugin]]
 - [[Distributed-Cognition|Distributed Cognition]]
-- [[George Miller]]
+- [[George-Miller|George Miller]]
 - [[Knowledge Graph Theory]]
 - [[Literature Review Matrix Methods]]
 - [[Map of Content]]
@@ -736,20 +736,20 @@ for (let letter of sortedLetters) {
 - [[Research Question Development Frameworks]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Tasks]]
-- [[Tasks plugin]]
+- [[Tasks-Plugin|Tasks plugin]]
 - [[Templater]]
 - [[The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base]]
 - [[Zettelkasten methodology]]
 - [[Zotero]]
 - [[Zotero Integration]]
 - [[Atomic-Notes|atomic notes]]
-- [[chunking]]
+- [[Chunking]]
 - [[Distributed-Cognition|distributed cognition]]
 - [[extended mind]]
 - [[information processing]]
 - [[literature notes]]
 - [[meta-level cognition]]
-- [[metacognition]]
+- [[Metacognition]]
 - [[object-level cognition]]
 - [[permanent notes]]
 - [[reference manager]]

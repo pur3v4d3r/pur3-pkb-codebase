@@ -275,7 +275,7 @@ extraction_summary:
 #### 3. [THE-PURPOSE] Untitled *(Line 193)*
 
 > [!the-purpose] Untitled
-> This inquiry systematically interrogates a widespread assumption in educational philosophy: that mastering multiple [[Critical Thinking Frameworks]]—such as the [[Paul-Elder Model]], [[ACER Framework]], [[Facione's Dual-Dimensional Model]], and [[Bloom's Taxonomy]]—necessarily produces superior [[Critical Thinking Ability]]. Through rigorous Socratic questioning, we will expose hidden assumptions, explore contradictions, examine counter-evidence, and arrive at a more nuanced understanding of the relationship between explicit methodological knowledge and actual reasoning excellence.
+> This inquiry systematically interrogates a widespread assumption in educational philosophy: that mastering multiple [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]—such as the [[Paul-Elder Model]], [[ACER Framework]], [[Facione's Dual-Dimensional Model]], and [[Bloom's-Taxonomy|Bloom's Taxonomy]]—necessarily produces superior [[Critical Thinking Ability]]. Through rigorous Socratic questioning, we will expose hidden assumptions, explore contradictions, examine counter-evidence, and arrive at a more nuanced understanding of the relationship between explicit methodological knowledge and actual reasoning excellence.
 
 #### 4. [QUESTION] Untitled *(Line 208)*
 
@@ -340,13 +340,13 @@ extraction_summary:
 - [[ACER Framework]]
 - [[Adaptive Expertise]]
 - [[Automaticity Hypothesis]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Circular Validation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Ability]]
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Cultural Epistemologies: Non-Western Approaches to Reasoning and Judgment]]
 - [[Declarative Knowledge]]
 - [[Dreyfus Model in Clinical Problem-Solving]]
@@ -365,12 +365,12 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive Theory]]
 - [[Michael Polanyi's]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Paul-Elder Model]]
 - [[Paul-Elder's Elements of Thought]]
 - [[Pedagogical Content Knowledge]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Procedural Knowledge]]
+- [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Procedural-Declarative Distinction]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Neuroscience of Intuition: How Expert Judgment Emerges]]
@@ -384,22 +384,22 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Framework Mastery Paradox]] | — | — | Document Start | 39 |
-| 2 | [[Critical Thinking Frameworks]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
+| 2 | [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 3 | [[Paul-Elder Model]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 4 | [[ACER Framework]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 5 | [[Facione's Dual-Dimensional Model]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
-| 6 | [[Bloom's Taxonomy]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
+| 6 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 7 | [[Critical Thinking Ability]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 8 | [[Critical-Thinking|Critical Thinking]] | — | — | I. 🎯 The Premise: Articulating the Se... | 200 |
 | 9 | [[Paul-Elder's Elements of Thought]] | — | — | I. 🎯 The Premise: Articulating the Se... | 200 |
 | 10 | [[Explicit-Knowledge|Explicit Knowledge]] | — | — | I. 🎯 The Premise: Articulating the Se... | 202 |
-| 11 | [[Paul-Elder Framework]] | — | — | I. 🎯 The Premise: Articulating the Se... | 202 |
+| 11 | [[Paul-Elder-Framework|Paul-Elder Framework]] | — | — | I. 🎯 The Premise: Articulating the Se... | 202 |
 | 12 | [[Metacognitive Theory]] | — | — | I. 🎯 The Premise: Articulating the Se... | 204 |
 | 13 | [[Training Wheel Hypothesis]] | — | — | I. 🎯 The Premise: Articulating the Se... | 206 |
 | 14 | [[Declarative Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
 | 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
 | 16 | [[Working-Memory|Working Memory]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
-| 17 | [[Procedural Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 221 |
+| 17 | [[Procedural-Knowledge|Procedural Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 221 |
 | 18 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | What Constitutes "Mastery" of a Frame... | 223 |
 | 19 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 223 |
 | 20 | [[Circular Validation]] | — | — | What is "Critical Thinking Ability" I... | 231 |
@@ -418,7 +418,7 @@ extraction_summary:
 | 33 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 343 |
 | 34 | [[Procedural-Declarative Distinction]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 35 | [[Declarative Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
-| 36 | [[Procedural Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
+| 36 | [[Procedural-Knowledge|Procedural Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 37 | [[Expert-Novice Differences]] | — | — | The Training Wheels Hypothesis | 368 |
 | 38 | [[Pedagogical Content Knowledge]] | — | — | The Shared Vocabulary Hypothesis | 378 |
 | 39 | [[Adaptive Expertise]] | — | — | The Meta-Framework Analysis Hypothesis | 388 |
@@ -606,13 +606,13 @@ for (let letter of sortedLetters) {
 - [[ACER Framework]]
 - [[Adaptive Expertise]]
 - [[Automaticity Hypothesis]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Circular Validation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Ability]]
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Cultural Epistemologies: Non-Western Approaches to Reasoning and Judgment]]
 - [[Declarative Knowledge]]
 - [[Dreyfus Model in Clinical Problem-Solving]]
@@ -631,12 +631,12 @@ for (let letter of sortedLetters) {
 - [[Metacognition]]
 - [[Metacognitive Theory]]
 - [[Michael Polanyi's]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Paul-Elder Model]]
 - [[Paul-Elder's Elements of Thought]]
 - [[Pedagogical Content Knowledge]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Procedural Knowledge]]
+- [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Procedural-Declarative Distinction]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Neuroscience of Intuition: How Expert Judgment Emerges]]

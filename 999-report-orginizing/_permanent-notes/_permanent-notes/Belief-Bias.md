@@ -5,6 +5,7 @@
 title: "Belief Bias"
 aliases:
   - "Belief Bias"
+  - "belief-bias"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -29,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -63,19 +64,27 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[deductive-reasoning|deductive reasoning]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
   - "[[Gottlob-Frege|Gottlob Frege]]"
   - "[[Peter-Wason|Peter Wason]]"
-  - "[[inductive-reasoning|inductive reasoning]]"
-  - "[[abductive-reasoning|abductive reasoning]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[deductive-reasoning|deductive reasoning]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
   - "[[Gottlob-Frege|Gottlob Frege]]"
   - "[[Peter-Wason|Peter Wason]]"
-  - "[[inductive-reasoning|inductive reasoning]]"
-  - "[[abductive-reasoning|abductive reasoning]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
+  - "[[Aristotle|Aristotle]]"
+  - "[[Dual-Process-Theory|Dual-Process Theory]]"
+  - "[[Mental-Models-Theory|Mental Models Theory]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
+  - "[[Gottlob-Frege|Gottlob Frege]]"
+  - "[[Peter-Wason|Peter Wason]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle|Aristotle]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
@@ -164,10 +173,10 @@ importance: high
 - [[Fallibilism]]
 
 **Related concepts:**
-[[deductive-reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[inductive-reasoning|inductive reasoning]] · [[abductive-reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[working-memory|working memory]] · [[belief-bias|belief bias]] · [[Aristotle]] · [[categorical-syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]]
+[[Deductive-Reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[Inductive-Reasoning|inductive reasoning]] · [[Abductive-Reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Working-Memory|working memory]] · [[Belief-Bias|belief bias]] · [[Aristotle]] · [[Categorical-Syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]]
 
 **Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-[[deductive-reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[inductive-reasoning|inductive reasoning]] * [[abductive-reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[working-memory|working memory]] * [[categorical-syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]]
+[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]]
 
 **Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
 - [[Deductive-Reasoning|Deductive Reasoning]]
@@ -182,6 +191,26 @@ importance: high
 - [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]]
+
+**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+
+
 
 
 

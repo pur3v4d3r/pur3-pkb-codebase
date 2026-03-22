@@ -158,7 +158,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 38)*
 
 > [!abstract] Untitled
-> This comprehensive examination explores the architectural principles, implementation strategies, and empirical effectiveness of [[Metacognitive Checkpoint System]]—structured intervention frameworks designed to detect and mitigate [[Cognitive Biases]] during active learning and decision-making processes. Building upon foundational research by Daniel Kahneman, Amos Tversky, Gary Klein, and Julia Galef, we analyze how systematic "pause points" in cognitive processing can interrupt the automatic activation of heuristic-driven errors that emerge from [[System-1-and-System-2|dual-process cognition]].
+> This comprehensive examination explores the architectural principles, implementation strategies, and empirical effectiveness of [[Metacognitive Checkpoint System]]—structured intervention frameworks designed to detect and mitigate [[Cognitive-Biases|Cognitive Biases]] during active learning and decision-making processes. Building upon foundational research by Daniel Kahneman, Amos Tversky, Gary Klein, and Julia Galef, we analyze how systematic "pause points" in cognitive processing can interrupt the automatic activation of heuristic-driven errors that emerge from [[System-1-and-System-2|dual-process cognition]].
 > 
 > The article examines four primary checkpoint mechanisms: [[Pre-Mortem Analysis]], which leverages [[Prospective Hindsight]] to identify failure modes before project initiation; [[Epistemic Spot Check|epistemic spot checks]], which establish accountability protocols for belief justification; [[Decision Journal|decision journaling]], which creates feedback loops for calibrating [[Metacognitive-Calibration|metacognitive calibration]]; and algorithmic reasoning aids, which provide structured frameworks to counteract systematic cognitive distortions. We synthesize evidence from cognitive psychology, behavioral economics, and organizational decision science to assess the conditions under which these interventions demonstrate measurable effectiveness, their limitations in complex real-world environments, and the psychological mechanisms that explain both their successes and failures.
 > 
@@ -371,7 +371,7 @@ extraction_summary:
 > - *What was the most* **surprising or counter-intuitive** *concept presented?* **Why**?
 >     - The most surprising finding is that simply *knowing about* cognitive biases doesn't help you avoid them—even experts who teach about biases still exhibit them in their own reasoning. This is deeply counterintuitive because we assume awareness equals control. But the reason is fundamental: biases emerge from *automatic* cognitive processes that operate before conscious awareness kicks in. Knowing about anchoring bias doesn't prevent the initial anchor from affecting you; it just means you're *aware it might be happening* (but still lack the ability to correct for it reliably without external help). This explains why checkpoint systems focus on external procedures rather than internal training—you can't willpower your way past automatic processing, but you *can* design decision environments that interrupt those automatic processes at key moments.
 > - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->     - This connects strongly to [[Constructivist Learning Theory]] and [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] frameworks in educational psychology, which emphasize that effective learning requires metacognitive monitoring—knowing what you know and don't know. The checkpoint systems literature provides the decision-making analog: effective deciding requires metacognitive oversight of judgment processes. However, this article challenges the constructivist emphasis on *internal* self-regulation by demonstrating that external scaffolding (mandatory procedures, documentation, social accountability) typically works better than voluntary self-monitoring. This parallels the shift in behavioral economics from assuming people can be taught to make better choices to recognizing that *choice architecture* (designing better decision environments) is more effective than education alone. Both fields converge on the insight that improving human performance is fundamentally about environmental design rather than individual capacity enhancement.
+>     - This connects strongly to [[Constructivist-Learning-Theory|Constructivist Learning Theory]] and [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] frameworks in educational psychology, which emphasize that effective learning requires metacognitive monitoring—knowing what you know and don't know. The checkpoint systems literature provides the decision-making analog: effective deciding requires metacognitive oversight of judgment processes. However, this article challenges the constructivist emphasis on *internal* self-regulation by demonstrating that external scaffolding (mandatory procedures, documentation, social accountability) typically works better than voluntary self-monitoring. This parallels the shift in behavioral economics from assuming people can be taught to make better choices to recognizing that *choice architecture* (designing better decision environments) is more effective than education alone. Both fields converge on the insight that improving human performance is fundamentally about environmental design rather than individual capacity enhancement.
 
 #### 32. [QUOTE] Untitled *(Line 715)*
 
@@ -428,18 +428,18 @@ extraction_summary:
 - [[Backward Reasoning]]
 - [[Bayesian Reasoning and Base Rate Neglect]]
 - [[Bias Blind Spot]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Calibration]]
 - [[Calibration Training and Probability Judgment]]
 - [[Checklist Manifesto]]
 - [[Choice Architecture and Nudge Theory]]
 - [[Cognitive-Bias|Cognitive Bias]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Reflection Test]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consider the Opposite]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]]
 - [[Decision Journal]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Naturalistic Decision Making]]
+- [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Organizational Decision Architecture]]
 - [[Outside View]]
 - [[Pattern Recognition]]
@@ -491,7 +491,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Epistemic Accountability]] | — | — | Document Start | 33 |
 | 2 | [[Metacognitive Checkpoint System]] | — | — | Document Start | 39 |
-| 3 | [[Cognitive Biases]] | — | — | Document Start | 39 |
+| 3 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Document Start | 39 |
 | 4 | [[System-1-and-System-2|System 1 and System 2]] | dual-process cognition | — | Document Start | 39 |
 | 5 | [[Pre-Mortem Analysis]] | — | — | Document Start | 41 |
 | 6 | [[Prospective Hindsight]] | — | — | Document Start | 41 |
@@ -504,10 +504,10 @@ extraction_summary:
 | 13 | [[Epistemic Spot Check]] | epistemic spot checks | — | 1.0 📜 INTRODUCTION | 48 |
 | 14 | [[Decision Journal]] | decision journaling protocols | — | 1.0 📜 INTRODUCTION | 48 |
 | 15 | [[Algorithmic Reasoning Aid]] | algorithmic reasoning aids | — | 1.0 📜 INTRODUCTION | 48 |
-| 16 | [[Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
+| 16 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
 | 17 | [[Heuristics and Biases]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
 | 18 | [[Metacognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
-| 19 | [[Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 60 |
+| 19 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 60 |
 | 20 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
 | 21 | [[Representativeness Heuristic]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
 | 22 | [[Anchoring Effect]] | anchoring and adjustment | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
@@ -515,7 +515,7 @@ extraction_summary:
 | 24 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
 | 25 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
 | 26 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 69 |
-| 27 | [[Naturalistic Decision Making]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
+| 27 | [[Naturalistic-Decision-Making|Naturalistic Decision Making]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 28 | [[Pattern Recognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 29 | [[Mental-Simulation|Mental Simulation]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 30 | [[Pre-Mortem Analysis]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
@@ -565,7 +565,7 @@ extraction_summary:
 | 74 | [[Obsidian]] | — | — | 6.3 📚 IMPLICATIONS FOR LEARNING AND K... | 530 |
 | 75 | [[Roam Research]] | — | — | 6.3 📚 IMPLICATIONS FOR LEARNING AND K... | 530 |
 | 76 | [[Cognitive Reflection Test]] | — | — | 7.2 🧬 INDIVIDUAL DIFFERENCES AND PERS... | 598 |
-| 77 | [[Constructivist Learning Theory]] | — | — | 9.0 🧠 KEY QUESTIONS | 713 |
+| 77 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 9.0 🧠 KEY QUESTIONS | 713 |
 | 78 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 9.0 🧠 KEY QUESTIONS | 713 |
 | 79 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 9.0 🧠 KEY QUESTIONS | 725 |
 | 80 | [[Prospective Hindsight]] | — | — | 9.0 🧠 KEY QUESTIONS | 727 |
@@ -673,18 +673,18 @@ Let me conduct comprehensive web research first.
 - [[Backward Reasoning]]
 - [[Bayesian Reasoning and Base Rate Neglect]]
 - [[Bias Blind Spot]]
-- [[Bounded Rationality]]
+- [[Bounded-Rationality|Bounded Rationality]]
 - [[Calibration]]
 - [[Calibration Training and Probability Judgment]]
 - [[Checklist Manifesto]]
 - [[Choice Architecture and Nudge Theory]]
 - [[Cognitive-Bias|Cognitive Bias]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Reflection Test]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consider the Opposite]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]]
 - [[Decision Journal]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
@@ -707,7 +707,7 @@ Let me conduct comprehensive web research first.
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Naturalistic Decision Making]]
+- [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Organizational Decision Architecture]]
 - [[Outside View]]
 - [[Pattern Recognition]]

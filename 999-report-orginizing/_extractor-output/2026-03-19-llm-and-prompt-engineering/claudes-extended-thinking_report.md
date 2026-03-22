@@ -192,7 +192,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
 - [[Chain of Verification]]
 - [[Cognitive Science Foundations of LLM Reasoning Techniques]]
@@ -205,7 +205,7 @@ extraction_summary:
 - [[Self-Consistency]]
 - [[Shinn et al. 2023]]
 - [[Token Economics and Cost Optimization for Production LLM Systems]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Wang et al. 2022]]
 - [[Wei et al. 2022]]
 - [[Yao et al. 2023]]
@@ -214,14 +214,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Chain of Thought]] | — | — | Abstract | 73 |
-| 2 | [[Tree of Thoughts]] | — | — | Abstract | 73 |
+| 1 | [[Chain-of-Thought|Chain of Thought]] | — | — | Abstract | 73 |
+| 2 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Abstract | 73 |
 | 3 | [[Self-Consistency]] | — | — | Abstract | 73 |
 | 4 | [[Reflexion]] | — | — | Abstract | 73 |
-| 5 | [[Chain of Thought]] | — | — | 2.3 The Reasoning-Response Pipeline | 143 |
+| 5 | [[Chain-of-Thought|Chain of Thought]] | — | — | 2.3 The Reasoning-Response Pipeline | 143 |
 | 6 | [[Chain-of-Thought-Prompting|Chain of Thought Prompting]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
 | 7 | [[Wei et al. 2022]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
-| 8 | [[Tree of Thoughts]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
+| 8 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
 | 9 | [[Yao et al. 2023]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
 | 10 | [[Self-Consistency]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 232 |
 | 11 | [[Wang et al. 2022]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 232 |
@@ -944,7 +944,7 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Chain of Thought]]
+- [[Chain-of-Thought|Chain of Thought]]
 - [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
 - [[Chain of Verification]]
 - [[Cognitive Science Foundations of LLM Reasoning Techniques]]
@@ -957,7 +957,7 @@ graph TD
 - [[Self-Consistency]]
 - [[Shinn et al. 2023]]
 - [[Token Economics and Cost Optimization for Production LLM Systems]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Wang et al. 2022]]
 - [[Wei et al. 2022]]
 - [[Yao et al. 2023]]

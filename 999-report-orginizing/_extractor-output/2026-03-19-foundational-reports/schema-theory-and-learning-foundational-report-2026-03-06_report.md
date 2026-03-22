@@ -282,11 +282,11 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> This report on [[Schema Theory and Learning]] connects to existing knowledge in the PKB:
+> This report on [[Schema-Theory-and-Learning|Schema Theory and Learning]] connects to existing knowledge in the PKB:
 > 
-> - **[[Metacognition and Lifelong Learning]]** — Schema theory provides a structural account of what metacognitive monitoring is monitoring: the adequacy, activation, and fit of one's knowledge frameworks. The Flavellian notion of *metacognitive knowledge* about one's own cognitive characteristics is, in schema-theoretic terms, a meta-schema — a schema about one's own schemas. The DKE/fluency illusion phenomena documented in the metacognition report (mistaking assimilation for learning) are precisely the failures that schema theory predicts: when new material is schema-consistent, processing is fluent and feels like comprehension regardless of whether genuine encoding occurred.
+> - **[[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]** — Schema theory provides a structural account of what metacognitive monitoring is monitoring: the adequacy, activation, and fit of one's knowledge frameworks. The Flavellian notion of *metacognitive knowledge* about one's own cognitive characteristics is, in schema-theoretic terms, a meta-schema — a schema about one's own schemas. The DKE/fluency illusion phenomena documented in the metacognition report (mistaking assimilation for learning) are precisely the failures that schema theory predicts: when new material is schema-consistent, processing is fluent and feels like comprehension regardless of whether genuine encoding occurred.
 > 
-> - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework's emphasis on questioning assumptions connects directly to schema theory's account of schema interference: critical thinking, in part, is the capacity to surface, examine, and test the schemas through which one is currently interpreting a situation. Schön's reflection-in-action and reflection-on-action are, schema-theoretically, processes of schema examination during and after deployment. The Reflective Judgment Model's developmental progression maps neatly onto the schema-theoretic account of how knowledge frameworks become increasingly differentiated, calibrated, and epistemically aware.
+> - **[[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]** — The Paul-Elder framework's emphasis on questioning assumptions connects directly to schema theory's account of schema interference: critical thinking, in part, is the capacity to surface, examine, and test the schemas through which one is currently interpreting a situation. Schön's reflection-in-action and reflection-on-action are, schema-theoretically, processes of schema examination during and after deployment. The Reflective Judgment Model's developmental progression maps neatly onto the schema-theoretic account of how knowledge frameworks become increasingly differentiated, calibrated, and epistemically aware.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
 > 
@@ -302,7 +302,7 @@ extraction_summary:
 #### 29. [DEFINITION] Schema *(Line 507)*
 
 > [!definition] Schema
-> A structured mental framework that organizes generalized knowledge about a class of entities, events, situations, or relationships. Schemas contain variables (slots) with default values, are embedded in hierarchies of related schemas, and function as active knowledge structures that guide perception, inference, and reconstructive recall. The term was given its contemporary technical meaning by [[Frederic Bartlett]] (1932) and elaborated by [[David-Rumelhart|David Rumelhart]] (1975, 1980). Boundary condition: a schema is not an isolated fact, a simple category label, or a verbatim memory record.
+> A structured mental framework that organizes generalized knowledge about a class of entities, events, situations, or relationships. Schemas contain variables (slots) with default values, are embedded in hierarchies of related schemas, and function as active knowledge structures that guide perception, inference, and reconstructive recall. The term was given its contemporary technical meaning by [[Frederic-Bartlett|Frederic Bartlett]] (1932) and elaborated by [[David-Rumelhart|David Rumelhart]] (1975, 1980). Boundary condition: a schema is not an isolated fact, a simple category label, or a verbatim memory record.
 
 #### 30. [DEFINITION] Assimilation (Piaget) *(Line 510)*
 
@@ -337,7 +337,7 @@ extraction_summary:
 #### 36. [DEFINITION] Reconstructive Memory *(Line 528)*
 
 > [!definition] Reconstructive Memory
-> The process by which recall involves active reconstruction of a plausible account from schema-consistent fragments, defaults, and elaborations, rather than retrieval of a faithful, intact record. Proposed by [[Frederic Bartlett]] (1932) and supported by extensive subsequent research. Reconstructive memory explains systematic recall errors, schema-consistent intrusions, and the rationalization of unfamiliar material toward familiar frameworks. Boundary: the reconstructive account does not deny that verbatim surface memory is sometimes possible; it claims that schema-guided reconstruction is the dominant mode for meaningful material over time.
+> The process by which recall involves active reconstruction of a plausible account from schema-consistent fragments, defaults, and elaborations, rather than retrieval of a faithful, intact record. Proposed by [[Frederic-Bartlett|Frederic Bartlett]] (1932) and supported by extensive subsequent research. Reconstructive memory explains systematic recall errors, schema-consistent intrusions, and the rationalization of unfamiliar material toward familiar frameworks. Boundary: the reconstructive account does not deny that verbatim surface memory is sometimes possible; it claims that schema-guided reconstruction is the dominant mode for meaningful material over time.
 
 #### 37. [DEFINITION] Accretion, Tuning, Restructuring (Rumelhart and Norman, 1978) *(Line 531)*
 
@@ -408,7 +408,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[ACT-R theory]]
+- [[ACT-R-theory|ACT-R theory]]
 - [[Adriaan de Groot]]
 - [[Bartlett]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -419,33 +419,33 @@ extraction_summary:
 - [[Daniel-Schwartz|Daniel Schwartz]]
 - [[David-Ausubel|David Ausubel]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[Declarative schemas]]
-- [[Elizabeth Loftus]]
-- [[Ernst von Glasersfeld]]
+- [[Declarative-schemas|Declarative schemas]]
+- [[Elizabeth-Loftus|Elizabeth Loftus]]
+- [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]
 - [[Expert-Novice Differences in Knowledge Organization]]
-- [[Foundational Report Generator v1.0]]
-- [[Frederic Bartlett]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Frederic-Bartlett|Frederic Bartlett]]
 - [[George Posner]]
 - [[Herbert Simon]]
-- [[Hermann Ebbinghaus]]
-- [[Immanuel Kant]]
-- [[Jean Piaget]]
-- [[John Anderson]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
+- [[Immanuel-Kant|Immanuel Kant]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[John-Anderson|John Anderson]]
 - [[John Bransford]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Marcia Johnson]]
 - [[Marvin Minsky]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Piaget]]
 - [[Prior Knowledge and Learning — Research Synthesis]]
-- [[Procedural schemas]]
+- [[Procedural-schemas|Procedural schemas]]
 - [[Richard Anderson]]
 - [[Robert Abelson]]
 - [[Roger Schank]]
 - [[Rumelhart]]
-- [[Schank and Abelson]]
-- [[Schema Theory and Learning]]
+- [[Schank-and-Abelson|Schank and Abelson]]
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
 - [[Schema-Theory|Schema theory]]
 - [[Script Theory — Schank and Abelson in Depth]]
 - [[Stella Vosniadou]]
@@ -454,18 +454,18 @@ extraction_summary:
 - [[William Chase]]
 - [[adaptive expertise]]
 - [[Advance-Organizer|advance organizer]]
-- [[advance organizers]]
-- [[bottom-up processing]]
+- [[Advance-Organizers|advance organizers]]
+- [[bottom-up-processing|bottom-up processing]]
 - [[cognitive structure]]
 - [[conceptual change pedagogy]]
 - [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
-- [[constructivist]]
+- [[Constructivist]]
 - [[information processing]]
 - [[interleaved practice]]
 - [[knowledge representation]]
 - [[mathematics education]]
-- [[metacognitive awareness]]
+- [[metacognitive-awareness|metacognitive awareness]]
 - [[naive physics]]
 - [[parallel distributed processing]]
 - [[reading comprehension]]
@@ -473,32 +473,32 @@ extraction_summary:
 - [[spaced practice]]
 - [[Spreading-Activation|spreading activation]]
 - [[text structure]]
-- [[top-down processing]]
-- [[worked examples]]
+- [[top-down-processing|top-down processing]]
+- [[Worked-Examples|worked examples]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Frederic Bartlett]] | — | — | Phase I: Orientation & Context Setting | 264 |
+| 1 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | Phase I: Orientation & Context Setting | 264 |
 | 2 | [[Schema-Theory|Schema theory]] | — | — | Phase I: Orientation & Context Setting | 266 |
-| 3 | [[advance organizers]] | — | — | Phase I: Orientation & Context Setting | 268 |
-| 4 | [[metacognitive awareness]] | — | — | Phase I: Orientation & Context Setting | 268 |
+| 3 | [[Advance-Organizers|advance organizers]] | — | — | Phase I: Orientation & Context Setting | 268 |
+| 4 | [[metacognitive-awareness|metacognitive awareness]] | — | — | Phase I: Orientation & Context Setting | 268 |
 | 5 | [[Bartlett]] | — | — | Phase I: Orientation & Context Setting | 272 |
 | 6 | [[Piaget]] | — | — | Phase I: Orientation & Context Setting | 272 |
 | 7 | [[Rumelhart]] | — | — | Phase I: Orientation & Context Setting | 272 |
-| 8 | [[Schank and Abelson]] | — | — | Phase I: Orientation & Context Setting | 272 |
-| 9 | [[Immanuel Kant]] | — | — | The Core Concept: What Is a Schema? | 283 |
-| 10 | [[Frederic Bartlett]] | — | — | The Core Concept: What Is a Schema? | 283 |
-| 11 | [[Hermann Ebbinghaus]] | — | — | The Core Concept: What Is a Schema? | 283 |
-| 12 | [[Jean Piaget]] | — | — | The Piagetian Architecture: Assimilat... | 292 |
-| 13 | [[constructivist]] | — | — | The Piagetian Architecture: Assimilat... | 303 |
-| 14 | [[Declarative schemas]] | — | — | Foundational Distinctions | 314 |
-| 15 | [[Procedural schemas]] | — | — | Foundational Distinctions | 314 |
-| 16 | [[John Anderson]] | — | — | Foundational Distinctions | 314 |
-| 17 | [[ACT-R theory]] | — | — | Foundational Distinctions | 314 |
-| 18 | [[top-down processing]] | — | — | Foundational Distinctions | 316 |
-| 19 | [[bottom-up processing]] | — | — | Foundational Distinctions | 316 |
+| 8 | [[Schank-and-Abelson|Schank and Abelson]] | — | — | Phase I: Orientation & Context Setting | 272 |
+| 9 | [[Immanuel-Kant|Immanuel Kant]] | — | — | The Core Concept: What Is a Schema? | 283 |
+| 10 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | The Core Concept: What Is a Schema? | 283 |
+| 11 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | The Core Concept: What Is a Schema? | 283 |
+| 12 | [[Jean-Piaget|Jean Piaget]] | — | — | The Piagetian Architecture: Assimilat... | 292 |
+| 13 | [[Constructivist]] | — | — | The Piagetian Architecture: Assimilat... | 303 |
+| 14 | [[Declarative-schemas|Declarative schemas]] | — | — | Foundational Distinctions | 314 |
+| 15 | [[Procedural-schemas|Procedural schemas]] | — | — | Foundational Distinctions | 314 |
+| 16 | [[John-Anderson|John Anderson]] | — | — | Foundational Distinctions | 314 |
+| 17 | [[ACT-R-theory|ACT-R theory]] | — | — | Foundational Distinctions | 314 |
+| 18 | [[top-down-processing|top-down processing]] | — | — | Foundational Distinctions | 316 |
+| 19 | [[bottom-up-processing|bottom-up processing]] | — | — | Foundational Distinctions | 316 |
 | 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Rumelhart's Computational Schema Theory | 329 |
 | 21 | [[information processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
 | 22 | [[parallel distributed processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
@@ -515,27 +515,27 @@ extraction_summary:
 | 33 | [[Richard Anderson]] | — | — | Schema Activation: The Gateway to Com... | 378 |
 | 34 | [[John Bransford]] | — | — | Slot-Filling and Default Inference | 387 |
 | 35 | [[Marcia Johnson]] | — | — | Slot-Filling and Default Inference | 387 |
-| 36 | [[Elizabeth Loftus]] | — | — | Slot-Filling and Default Inference | 389 |
+| 36 | [[Elizabeth-Loftus|Elizabeth Loftus]] | — | — | Slot-Filling and Default Inference | 389 |
 | 37 | [[Adriaan de Groot]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 38 | [[William Chase]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 39 | [[Herbert Simon]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 40 | [[Conceptual-Change-Theory|conceptual change theory]] | — | — | Schema Change: From Learning to Conce... | 408 |
 | 41 | [[reading comprehension]] | — | — | Instructional Applications of Schema ... | 431 |
 | 42 | [[mathematics education]] | — | — | Instructional Applications of Schema ... | 431 |
-| 43 | [[worked examples]] | — | — | Instructional Applications of Schema ... | 431 |
+| 43 | [[Worked-Examples|worked examples]] | — | — | Instructional Applications of Schema ... | 431 |
 | 44 | [[naive physics]] | — | — | Instructional Applications of Schema ... | 438 |
 | 45 | [[conceptual change pedagogy]] | — | — | Instructional Applications of Schema ... | 438 |
 | 46 | [[Cognitive-Load-Theory|Cognitive load theory]] | — | — | Limitations and Open Questions | 454 |
 | 47 | [[spaced practice]] | — | — | Limitations and Open Questions | 454 |
 | 48 | [[interleaved practice]] | — | — | Limitations and Open Questions | 454 |
 | 49 | [[connectionist models]] | — | — | Unresolved Questions | 481 |
-| 50 | [[Schema Theory and Learning]] | — | — | Unresolved Questions | 486 |
-| 51 | [[Metacognition and Lifelong Learning]] | — | — | Unresolved Questions | 488 |
-| 52 | [[Metacognition and Critical Thinking]] | — | — | Unresolved Questions | 490 |
+| 50 | [[Schema-Theory-and-Learning|Schema Theory and Learning]] | — | — | Unresolved Questions | 486 |
+| 51 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | Unresolved Questions | 488 |
+| 52 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | Unresolved Questions | 490 |
 | 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 492 |
-| 54 | [[Frederic Bartlett]] | — | — | A. Lexicon of Key Terms | 508 |
+| 54 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | A. Lexicon of Key Terms | 508 |
 | 55 | [[David-Rumelhart|David Rumelhart]] | — | — | A. Lexicon of Key Terms | 508 |
-| 56 | [[Frederic Bartlett]] | — | — | A. Lexicon of Key Terms | 529 |
+| 56 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | A. Lexicon of Key Terms | 529 |
 | 57 | [[Cognitive Load Theory and Instructional Design]] | — | — | C. Expansion Topics | 570 |
 | 58 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | C. Expansion Topics | 573 |
 | 59 | [[George Posner]] | — | — | C. Expansion Topics | 574 |
@@ -549,9 +549,9 @@ extraction_summary:
 | 67 | [[adaptive expertise]] | — | — | C. Expansion Topics | 583 |
 | 68 | [[Script Theory — Schank and Abelson in Depth]] | — | — | C. Expansion Topics | 585 |
 | 69 | [[Constructivism — Theoretical Foundations and Variants]] | — | — | C. Expansion Topics | 588 |
-| 70 | [[Ernst von Glasersfeld]] | — | — | C. Expansion Topics | 589 |
-| 71 | [[Lev Vygotsky]] | — | — | C. Expansion Topics | 589 |
-| 72 | [[Foundational Report Generator v1.0]] | — | — | C. Expansion Topics | 593 |
+| 70 | [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] | — | — | C. Expansion Topics | 589 |
+| 71 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | C. Expansion Topics | 589 |
+| 72 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | C. Expansion Topics | 593 |
 
 ---
 
@@ -562,7 +562,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[ACT-R theory]]
+- [[ACT-R-theory|ACT-R theory]]
 - [[Adriaan de Groot]]
 - [[Bartlett]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -573,33 +573,33 @@ extraction_summary:
 - [[Daniel-Schwartz|Daniel Schwartz]]
 - [[David-Ausubel|David Ausubel]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[Declarative schemas]]
-- [[Elizabeth Loftus]]
-- [[Ernst von Glasersfeld]]
+- [[Declarative-schemas|Declarative schemas]]
+- [[Elizabeth-Loftus|Elizabeth Loftus]]
+- [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]
 - [[Expert-Novice Differences in Knowledge Organization]]
-- [[Foundational Report Generator v1.0]]
-- [[Frederic Bartlett]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Frederic-Bartlett|Frederic Bartlett]]
 - [[George Posner]]
 - [[Herbert Simon]]
-- [[Hermann Ebbinghaus]]
-- [[Immanuel Kant]]
-- [[Jean Piaget]]
-- [[John Anderson]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
+- [[Immanuel-Kant|Immanuel Kant]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[John-Anderson|John Anderson]]
 - [[John Bransford]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Marcia Johnson]]
 - [[Marvin Minsky]]
-- [[Metacognition and Critical Thinking]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Piaget]]
 - [[Prior Knowledge and Learning — Research Synthesis]]
-- [[Procedural schemas]]
+- [[Procedural-schemas|Procedural schemas]]
 - [[Richard Anderson]]
 - [[Robert Abelson]]
 - [[Roger Schank]]
 - [[Rumelhart]]
-- [[Schank and Abelson]]
-- [[Schema Theory and Learning]]
+- [[Schank-and-Abelson|Schank and Abelson]]
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
 - [[Schema-Theory|Schema theory]]
 - [[Script Theory — Schank and Abelson in Depth]]
 - [[Stella Vosniadou]]
@@ -608,18 +608,18 @@ extraction_summary:
 - [[William Chase]]
 - [[adaptive expertise]]
 - [[Advance-Organizer|advance organizer]]
-- [[advance organizers]]
-- [[bottom-up processing]]
+- [[Advance-Organizers|advance organizers]]
+- [[bottom-up-processing|bottom-up processing]]
 - [[cognitive structure]]
 - [[conceptual change pedagogy]]
 - [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
-- [[constructivist]]
+- [[Constructivist]]
 - [[information processing]]
 - [[interleaved practice]]
 - [[knowledge representation]]
 - [[mathematics education]]
-- [[metacognitive awareness]]
+- [[metacognitive-awareness|metacognitive awareness]]
 - [[naive physics]]
 - [[parallel distributed processing]]
 - [[reading comprehension]]
@@ -627,8 +627,8 @@ extraction_summary:
 - [[spaced practice]]
 - [[Spreading-Activation|spreading activation]]
 - [[text structure]]
-- [[top-down processing]]
-- [[worked examples]]
+- [[top-down-processing|top-down processing]]
+- [[Worked-Examples|worked examples]]
 
 ### Frontmatter Relationships
 
@@ -641,7 +641,7 @@ extraction_summary:
 #### Related
 
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Prior Knowledge Activation in Instruction]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
@@ -682,9 +682,9 @@ extraction_summary:
 
 #### Builds On
 
-- [[Gestalt Psychology and Perception]]
-- [[Piaget's Developmental Stages]]
-- [[Bartlett's Reconstructive Memory Experiments]]
+- [[Gestalt-Psychology-and-Perception|Gestalt Psychology and Perception]]
+- [[Piaget's-Developmental-Stages|Piaget's Developmental Stages]]
+- [[Bartlett's-Reconstructive-Memory-Experiments|Bartlett's Reconstructive Memory Experiments]]
 
 #### Enables
 

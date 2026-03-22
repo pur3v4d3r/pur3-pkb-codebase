@@ -626,7 +626,7 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Introduction to Critical Thinking]]"
+  - "[[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
@@ -638,10 +638,10 @@ related:
   - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Argument Analysis]]"
+  - "[[Argument-Analysis|Argument Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
-  - "[[Scientific Reasoning]]"
+  - "[[Scientific-Reasoning|Scientific Reasoning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
@@ -670,7 +670,7 @@ see-also:
   - "[[Intellectual-Humility|Intellectual Humility]]"
   - "[[Bayesian Reasoning]]"
   - "[[Argument-Mapping|Argument Mapping]]"
-  - "[[Socratic Questioning]]"
+  - "[[Socratic-Questioning|Socratic Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
   - "[[Cognitive Forcing Functions]]"
@@ -691,14 +691,14 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational Logic]]"
-  - "[[Cognitive Development Theory]]"
-  - "[[Information Processing Models]]"
+  - "[[Foundational-Logic|Foundational Logic]]"
+  - "[[Cognitive-Development-Theory|Cognitive Development Theory]]"
+  - "[[Information-Processing-Models|Information Processing Models]]"
 
 enables:
   - "[[Advanced Reasoning Techniques]]"
   - "[[Domain-Specific Critical Thinking]]"
-  - "[[Debiasing Interventions]]"
+  - "[[Debiasing-Interventions|Debiasing Interventions]]"
   - "[[Metacognitive Instruction Design]]"
   - "[[Epistemic Virtue Development]]"
 

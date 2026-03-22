@@ -378,8 +378,8 @@ extraction_summary:
 > - ~100+ wiki-links anticipated (this is a reference hub)
 > - Every Greek term becomes a potential separate note
 > - Every virtue, emotion, practice becomes its own node
-> - Links to [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno]], [[Chrysippus]]
-> - Links to modern applications: [[Cognitive-Behavioral Therapy]], [[Modern Stoicism]]
+> - Links to [[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno]], [[Chrysippus]]
+> - Links to modern applications: [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], [[Modern Stoicism]]
 > - Links to related philosophies: [[Ancient Greek Philosophy]], [[Hellenistic Philosophy]]
 > ## PHASE 3 PREPARATION COMPLETE
 > I now have:
@@ -400,8 +400,8 @@ extraction_summary:
 > - **Generated**:: 2025-12-02
 > - **Version**:: 1.0.0
 > - **Type**:: Reference Documentation | Philosophical Lexicon
-> - **Primary Sources**:: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno of Citium]], [[Chrysippus]]
-> - **Classification**:: [[Ancient Greek Philosophy]] | [[Hellenistic Philosophy]] | [[Virtue Ethics]]
+> - **Primary Sources**:: [[Marcus-Aurelius|Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno of Citium]], [[Chrysippus]]
+> - **Classification**:: [[Ancient Greek Philosophy]] | [[Hellenistic Philosophy]] | [[Virtue-Ethics|Virtue Ethics]]
 
 #### 5. [ABSTRACT] Untitled *(Line 346)*
 
@@ -459,7 +459,7 @@ extraction_summary:
 > - **Unity of Virtues**:: The Stoics believed all virtues are interconnected—possessing one fully means possessing all
 > - **Epictetus**: "Nothing can make you virtuous but yourself, and nothing can take your virtue from you" (Discourses 1.29)
 > - **Practical Application**:: In any situation, ask "What does virtue require of me here?" rather than "What benefits me?"
-> - **Modern Connection**:: Foundation of [[Character Ethics]] and [[Virtue Ethics]] movements
+> - **Modern Connection**:: Foundation of [[Character Ethics]] and [[Virtue-Ethics|Virtue Ethics]] movements
 > - **Cross-References**:: See [[The Four Cardinal Virtues]], [[Kakon]], [[Eudaimonia]]
 
 #### 11. [DEFINITION] Untitled *(Line 416)*
@@ -576,7 +576,7 @@ extraction_summary:
 > - **Stoic Specification**:: Not suppression of all desire, but proper ordering of desires according to [[Logos]], desiring only what is truly good ([[Virtue]])
 > - **Sub-Virtues**: [[Kosmiotēs]] (orderliness), [[Aidēmosyne]] (sense of honor), [[Autarkeia]] (self-sufficiency), [[Enkrateia]] (self-mastery)
 > - **Epictetus**: "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control" (Discourses 4.1)
-> - **Psychological Dimension**: Maintaining [[Hegemonikon]] (ruling faculty) control over [[Hormê]] (impulses)
+> - **Psychological Dimension**: Maintaining [[Hegemonikon]] (ruling faculty) control over [[hormê]] (impulses)
 > - **Modern Application**: Resisting impulsive reactions, maintaining emotional equilibrium, disciplined habits
 > - **Practical Application**: Before acting on desire, ask: "Is this desire aligned with [[Virtue]], or am I being controlled by [[Pathos]]?"
 > - **Cross-References**:: See [[Enkrateia]], [[Autarkeia]], [[Apatheia]], [[Metriopatheia]]
@@ -644,7 +644,7 @@ extraction_summary:
 #### 25. [KEY-CLAIM] Untitled *(Line 583)*
 
 > [!key-claim] Untitled
-> **The Stoic Psychological Chain**: Events → [[Phantasia]] (impression) → [[Sunkatathesis]] (assent) → [[Hormê]] (impulse) → [[Praxis]] (action). The critical point where we have power is **assent**—we can examine impressions before accepting them as true.
+> **The Stoic Psychological Chain**: Events → [[Phantasia]] (impression) → [[Sunkatathesis]] (assent) → [[hormê]] (impulse) → [[Praxis]] (action). The critical point where we have power is **assent**—we can examine impressions before accepting them as true.
 
 #### 26. [DEFINITION] Untitled *(Line 588)*
 
@@ -667,7 +667,7 @@ extraction_summary:
 > - **Translation**:: "Ruling faculty" or "Commanding faculty"
 > - **Definition**:: The central rational faculty of the soul; the seat of consciousness, judgment, and decision-making; the part of us that gives or withholds [[Stoic-Synkatathesis-—-Assent|Assent]]
 > - **Location**: Stoics believed it resided in the heart (not brain), coordinating all mental functions
-> - **Functions**: Receives [[Phantasia]] (impressions), gives [[Sunkatathesis]] (assent), forms [[Hormê]] (impulses), exercises reason
+> - **Functions**: Receives [[Phantasia]] (impressions), gives [[Sunkatathesis]] (assent), forms [[hormê]] (impulses), exercises reason
 > - **Marcus Aurelius**: "You have power over your mind—not outside events" (Meditations 6.52) — this power IS the [[Hegemonikon]]
 > - **Key Insight**: The [[Hegemonikon]] is the YOU that can step back and observe your own thoughts
 > - **Practical Application**: Cultivate awareness of your "inner observer"—the part of you that can question thoughts rather than identifying with them
@@ -889,7 +889,7 @@ extraction_summary:
 #### 43. [PRINCIPLE-POINT] Untitled *(Line 812)*
 
 > [!principle-point] Untitled
-> **From Theory to Practice**: The Stoics didn't merely theorize about virtue—they developed specific daily practices to train the mind. [[Pierre Hadot]] called these "spiritual exercises," disciplines that make philosophy a way of life rather than abstract knowledge.
+> **From Theory to Practice**: The Stoics didn't merely theorize about virtue—they developed specific daily practices to train the mind. [[Pierre-Hadot|Pierre Hadot]] called these "spiritual exercises," disciplines that make philosophy a way of life rather than abstract knowledge.
 
 #### 44. [DEFINITION] Untitled *(Line 817)*
 
@@ -1001,7 +1001,7 @@ extraction_summary:
 > - **Pronunciation**:: hoo-pom-NAY-mah-tah
 > - **Translation**:: Notes, reminders, personal records, philosophical journal
 > - **Definition**:: Personal written records of philosophical insights, self-examinations, and Stoic principles for daily reflection and self-correction
-> - **Most Famous Example**: [[Marcus Aurelius]]' *Meditations* are [[Hypomnemata]]—notes to himself, not intended for publication
+> - **Most Famous Example**: [[Marcus-Aurelius|Marcus Aurelius]]' *Meditations* are [[Hypomnemata]]—notes to himself, not intended for publication
 > - **Purpose**: Externalize insights to review repeatedly, track progress, correct errors, reinforce principles
 > - **Seneca's Practice**: Nightly self-examination—"What bad habit did I cure today? What fault did I resist? In what way am I better?"
 > - **Content Examples**: Memorable quotes, personal challenges, analysis of [[Hamartia]] (errors), gratitude reflections
@@ -1034,7 +1034,7 @@ extraction_summary:
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
-> - **Pierre Hadot**: Identified these as structuring principle of [[Marcus Aurelius]]' *Meditations*
+> - **Pierre Hadot**: Identified these as structuring principle of [[Marcus-Aurelius|Marcus Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
 > - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent|Discipline of Assent]]
 
@@ -1161,7 +1161,7 @@ extraction_summary:
 > **Research Methodology**
 > 
 > This comprehensive reference synthesized:
-> - **Primary Ancient Sources**: [[Marcus Aurelius]]' *Meditations*, [[Epictetus]]' *Discourses* and *Enchiridion*, [[Seneca]]' *Moral Letters*, [[Diogenes Laertius]]' *Lives of the Eminent Philosophers*
+> - **Primary Ancient Sources**: [[Marcus-Aurelius|Marcus Aurelius]]' *Meditations*, [[Epictetus]]' *Discourses* and *Enchiridion*, [[Seneca]]' *Moral Letters*, [[Diogenes Laertius]]' *Lives of the Eminent Philosophers*
 > - **Secondary Scholarship**: [[Stanford Encyclopedia of Philosophy]] (Stoicism entries), specialized glossaries from Modern Stoicism movement, academic philosophical lexicons
 > - **Search Methodology**: 4 targeted web searches covering: (1) Core Greek/Latin terminology with etymologies, (2) Cardinal virtues framework and sub-virtues, (3) Stoic psychology and cognitive theory, (4) Cosmology and metaphysical concepts
 > - **Synthesis Approach**: Organized by functional domain (Foundation, Ethics, Psychology, Cosmology, Practice) rather than alphabetically to support practical use and knowledge graph building
@@ -1204,7 +1204,7 @@ extraction_summary:
 - [[Chrysippus]]
 - [[Chrēstotēs]]
 - [[Cleanthes]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Cosmology]]
 - [[Cosmos]]
 - [[Courage]]
@@ -1250,7 +1250,7 @@ extraction_summary:
 - [[Heimarmenê]]
 - [[Hellenistic Philosophy]]
 - [[Hexis]]
-- [[Hormê]]
+- [[hormê]]
 - [[Human Flourishing]]
 - [[Hypomnemata]]
 - [[Hêdonê]]
@@ -1279,7 +1279,7 @@ extraction_summary:
 - [[Logos]]
 - [[Logos Spermatikos]]
 - [[Lupê]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Marcus Aurelius Meditations]]
 - [[Marcus Aurelius' Meditations - Philosophical Analysis and Practical Guide]]
 - [[Megalopsychia]]
@@ -1311,7 +1311,7 @@ extraction_summary:
 - [[Phronesis]]
 - [[Physics]]
 - [[Physis]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Pneuma]]
 - [[Practical Philosophy]]
 - [[Praemeditatio]]
@@ -1367,7 +1367,7 @@ extraction_summary:
 - [[View from Above]]
 - [[Vipassana]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Zeno]]
 - [[Zeno of Citium]]
@@ -1376,23 +1376,23 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Marcus Aurelius]] | — | — | Tags & Classification | 315 |
+| 1 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Tags & Classification | 315 |
 | 2 | [[Epictetus]] | — | — | Tags & Classification | 315 |
 | 3 | [[Seneca]] | — | — | Tags & Classification | 315 |
 | 4 | [[Zeno]] | — | — | Tags & Classification | 315 |
 | 5 | [[Chrysippus]] | — | — | Tags & Classification | 315 |
-| 6 | [[Cognitive-Behavioral Therapy]] | — | — | Tags & Classification | 316 |
+| 6 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Tags & Classification | 316 |
 | 7 | [[Modern Stoicism]] | — | — | Tags & Classification | 316 |
 | 8 | [[Ancient Greek Philosophy]] | — | — | Tags & Classification | 317 |
 | 9 | [[Hellenistic Philosophy]] | — | — | Tags & Classification | 317 |
-| 10 | [[Marcus Aurelius]] | — | — | Tags & Classification | 343 |
+| 10 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Tags & Classification | 343 |
 | 11 | [[Epictetus]] | — | — | Tags & Classification | 343 |
 | 12 | [[Seneca]] | — | — | Tags & Classification | 343 |
 | 13 | [[Zeno of Citium]] | — | — | Tags & Classification | 343 |
 | 14 | [[Chrysippus]] | — | — | Tags & Classification | 343 |
 | 15 | [[Ancient Greek Philosophy]] | — | — | Tags & Classification | 344 |
 | 16 | [[Hellenistic Philosophy]] | — | — | Tags & Classification | 344 |
-| 17 | [[Virtue Ethics]] | — | — | Tags & Classification | 344 |
+| 17 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Tags & Classification | 344 |
 | 18 | [[Stoicism]] | — | — | Tags & Classification | 349 |
 | 19 | [[Eudaimonia]] | — | — | Tags & Classification | 349 |
 | 20 | [[Arete]] | — | — | Tags & Classification | 349 |
@@ -1429,7 +1429,7 @@ extraction_summary:
 | 51 | [[Dikaiosyne]] | — | — | Core Terms: Life's Ultimate Aim | 405 |
 | 52 | [[Sophrosyne]] | — | — | Core Terms: Life's Ultimate Aim | 405 |
 | 53 | [[Character Ethics]] | — | — | Core Terms: Life's Ultimate Aim | 409 |
-| 54 | [[Virtue Ethics]] | — | — | Core Terms: Life's Ultimate Aim | 409 |
+| 54 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Core Terms: Life's Ultimate Aim | 409 |
 | 55 | [[The Four Cardinal Virtues]] | — | — | Core Terms: Life's Ultimate Aim | 410 |
 | 56 | [[Kakon]] | — | — | Core Terms: Life's Ultimate Aim | 410 |
 | 57 | [[Eudaimonia]] | — | — | Core Terms: Life's Ultimate Aim | 410 |
@@ -1522,7 +1522,7 @@ extraction_summary:
 | 144 | [[Autarkeia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 518 |
 | 145 | [[Enkrateia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 518 |
 | 146 | [[Hegemonikon]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 520 |
-| 147 | [[Hormê]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 520 |
+| 147 | [[hormê]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 520 |
 | 148 | [[Virtue]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 522 |
 | 149 | [[Pathos]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 522 |
 | 150 | [[Enkrateia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 523 |
@@ -1582,7 +1582,7 @@ extraction_summary:
 | 204 | [[Eph' Hêmin]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 581 |
 | 205 | [[Phantasia]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 584 |
 | 206 | [[Sunkatathesis]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 584 |
-| 207 | [[Hormê]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 584 |
+| 207 | [[hormê]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 584 |
 | 208 | [[Praxis]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 584 |
 | 209 | [[Phantasia]] | — | — | The Psychological Chain: From Impress... | 589 |
 | 210 | [[Phantasia]] | — | — | The Psychological Chain: From Impress... | 592 |
@@ -1596,7 +1596,7 @@ extraction_summary:
 | 218 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The Psychological Chain: From Impress... | 603 |
 | 219 | [[Phantasia]] | — | — | The Psychological Chain: From Impress... | 605 |
 | 220 | [[Sunkatathesis]] | — | — | The Psychological Chain: From Impress... | 605 |
-| 221 | [[Hormê]] | — | — | The Psychological Chain: From Impress... | 605 |
+| 221 | [[hormê]] | — | — | The Psychological Chain: From Impress... | 605 |
 | 222 | [[Hegemonikon]] | — | — | The Psychological Chain: From Impress... | 606 |
 | 223 | [[Hegemonikon]] | — | — | The Psychological Chain: From Impress... | 607 |
 | 224 | [[Prohairesis]] | — | — | The Psychological Chain: From Impress... | 609 |
@@ -1770,7 +1770,7 @@ extraction_summary:
 | 392 | [[Spiritual Exercises]] | — | — | 🛠️ Practical Philosophy - Daily Appli... | 810 |
 | 393 | [[Askesis]] | — | — | 🛠️ Practical Philosophy - Daily Appli... | 810 |
 | 394 | [[Virtue]] | — | — | 🛠️ Practical Philosophy - Daily Appli... | 810 |
-| 395 | [[Pierre Hadot]] | — | — | 🛠️ Practical Philosophy - Daily Appli... | 813 |
+| 395 | [[Pierre-Hadot|Pierre Hadot]] | — | — | 🛠️ Practical Philosophy - Daily Appli... | 813 |
 | 396 | [[Ta Eph' Hêmin]] | — | — | The Dichotomy of Control | 818 |
 | 397 | [[Prohairesis]] | — | — | The Dichotomy of Control | 821 |
 | 398 | [[Eph' Hêmin]] | — | — | The Dichotomy of Control | 824 |
@@ -1848,7 +1848,7 @@ extraction_summary:
 | 470 | [[View from Above]] | — | — | Spiritual Exercises & Daily Practices | 906 |
 | 471 | [[Melete Thanatou]] | — | — | Spiritual Exercises & Daily Practices | 906 |
 | 472 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 909 |
-| 473 | [[Marcus Aurelius]] | — | — | Spiritual Exercises & Daily Practices | 913 |
+| 473 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Spiritual Exercises & Daily Practices | 913 |
 | 474 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 913 |
 | 475 | [[Hamartia]] | — | — | Spiritual Exercises & Daily Practices | 916 |
 | 476 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 917 |
@@ -1877,7 +1877,7 @@ extraction_summary:
 | 499 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 500 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 501 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
-| 502 | [[Marcus Aurelius]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 948 |
+| 502 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 948 |
 | 503 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 504 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 505 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
@@ -1965,7 +1965,7 @@ extraction_summary:
 | 587 | [[Phantasia]] | — | — | Cognitive Models for Integration | 1059 |
 | 588 | [[Hegemonikon]] | — | — | Cognitive Models for Integration | 1059 |
 | 589 | [[Sunkatathesis]] | — | — | Cognitive Models for Integration | 1059 |
-| 590 | [[Hormê]] | — | — | Cognitive Models for Integration | 1059 |
+| 590 | [[hormê]] | — | — | Cognitive Models for Integration | 1059 |
 | 591 | [[Praxis]] | — | — | Cognitive Models for Integration | 1059 |
 | 592 | [[Sunkatathesis]] | — | — | Cognitive Models for Integration | 1061 |
 | 593 | [[Prohairesis]] | — | — | Cognitive Models for Integration | 1061 |
@@ -2002,7 +2002,7 @@ extraction_summary:
 | 624 | [[Nature]] | — | — | Comparative Framework: Stoicism vs. O... | 1089 |
 | 625 | [[Prosochê]] | — | — | Comparative Framework: Stoicism vs. O... | 1090 |
 | 626 | [[Vipassana]] | — | — | Comparative Framework: Stoicism vs. O... | 1090 |
-| 627 | [[Marcus Aurelius]] | — | — | 📊 Metadata & Attribution | 1100 |
+| 627 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 📊 Metadata & Attribution | 1100 |
 | 628 | [[Epictetus]] | — | — | 📊 Metadata & Attribution | 1100 |
 | 629 | [[Seneca]] | — | — | 📊 Metadata & Attribution | 1100 |
 | 630 | [[Diogenes Laertius]] | — | — | 📊 Metadata & Attribution | 1100 |
@@ -2016,14 +2016,14 @@ extraction_summary:
 | 638 | [[Marcus Aurelius' Meditations - Philosophical Analysis and Practical Guide]] | — | — | 🔗 Related Topics for PKB Expansion | 1129 |
 | 639 | [[Hypomnemata]] | — | — | 🔗 Related Topics for PKB Expansion | 1130 |
 | 640 | [[Three Disciplines]] | — | — | 🔗 Related Topics for PKB Expansion | 1131 |
-| 641 | [[Pierre Hadot]] | — | — | 🔗 Related Topics for PKB Expansion | 1131 |
+| 641 | [[Pierre-Hadot|Pierre Hadot]] | — | — | 🔗 Related Topics for PKB Expansion | 1131 |
 | 642 | [[Prosochê]] | — | — | 🔗 Related Topics for PKB Expansion | 1132 |
 | 643 | [[Askesis]] | — | — | 🔗 Related Topics for PKB Expansion | 1132 |
 | 644 | [[Stoic Psychology vs. Modern Cognitive Science - Parallels and Divergences]] | — | — | 🔗 Related Topics for PKB Expansion | 1134 |
 | 645 | [[Phantasia]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
 | 646 | [[Sunkatathesis]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
-| 647 | [[Hormê]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
-| 648 | [[Cognitive-Behavioral Therapy]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
+| 647 | [[hormê]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
+| 648 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
 | 649 | [[Prohairesis]] | — | — | 🔗 Related Topics for PKB Expansion | 1136 |
 | 650 | [[First Movements]] | — | — | 🔗 Related Topics for PKB Expansion | 1136 |
 | 651 | [[Katalepsis]] | — | — | 🔗 Related Topics for PKB Expansion | 1136 |
@@ -2324,7 +2324,7 @@ LIMIT 15
 - [[Chrysippus]]
 - [[Chrēstotēs]]
 - [[Cleanthes]]
-- [[Cognitive-Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Cosmology]]
 - [[Cosmos]]
 - [[Courage]]
@@ -2370,7 +2370,7 @@ LIMIT 15
 - [[Heimarmenê]]
 - [[Hellenistic Philosophy]]
 - [[Hexis]]
-- [[Hormê]]
+- [[hormê]]
 - [[Human Flourishing]]
 - [[Hypomnemata]]
 - [[Hêdonê]]
@@ -2399,7 +2399,7 @@ LIMIT 15
 - [[Logos]]
 - [[Logos Spermatikos]]
 - [[Lupê]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Marcus Aurelius Meditations]]
 - [[Marcus Aurelius' Meditations - Philosophical Analysis and Practical Guide]]
 - [[Megalopsychia]]
@@ -2431,7 +2431,7 @@ LIMIT 15
 - [[Phronesis]]
 - [[Physics]]
 - [[Physis]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot|Pierre Hadot]]
 - [[Pneuma]]
 - [[Practical Philosophy]]
 - [[Praemeditatio]]
@@ -2487,7 +2487,7 @@ LIMIT 15
 - [[View from Above]]
 - [[Vipassana]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Zeno]]
 - [[Zeno of Citium]]

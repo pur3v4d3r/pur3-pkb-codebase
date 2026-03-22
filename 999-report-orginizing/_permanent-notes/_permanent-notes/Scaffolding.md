@@ -22,7 +22,7 @@ subdomains:
   - self-regulated-learning
   - knowledge-management
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - 10-scaffolding-and-fading-pkm-framework-2026-03-14
@@ -57,6 +57,14 @@ see-also:
   - "[[Illusion-of-Knowing|Illusion of Knowing]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Report 01: Foundations of Knowledge Architecture]]"
+  - "[[Lev-Vygotsky|Lev Vygotsky]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Pragmatic-Maxim|Pragmatic Maxim]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Frederic-Bartlett|Frederic Bartlett]]"
+  - "[[Jean-Piaget|Jean Piaget]]"
+  - "[[David-Rumelhart|David Rumelhart]]"
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
   - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
   - "[[John-Dewey|John Dewey]]"
@@ -182,6 +190,17 @@ importance: high
 - [[Report-01|Report 01]]
 - [[Report-04|Report 04]]
 - [[Report-01|Report 01]]
+
+**Related concepts** *(from report-04-cognitive-scaffolding.md)*:
+[[Lev-Vygotsky|Lev Vygotsky]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[John-Dewey|John Dewey]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Schema-Theory|Schema Theory]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[Jean-Piaget|Jean Piaget]] * [[David-Rumelhart|David Rumelhart]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[John-Sweller|John Sweller]] * [[Fred-Paas|Fred Paas]] * [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Epistemic-Architecture|Epistemic Architecture]] * [[Tier-1|Tier 1]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+
 
 
 

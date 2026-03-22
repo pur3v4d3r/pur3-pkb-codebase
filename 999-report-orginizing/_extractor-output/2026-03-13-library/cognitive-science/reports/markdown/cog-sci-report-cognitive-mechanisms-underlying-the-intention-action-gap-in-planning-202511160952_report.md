@@ -279,7 +279,7 @@ extraction_summary:
 - [[Context Switching]]
 - [[Ego Depletion]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Goal Setting Theory]]
+- [[Goal-Setting-Theory|Goal Setting Theory]]
 - [[Goal-Directed Behavior]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]]
@@ -389,7 +389,7 @@ extraction_summary:
 | 77 | [[Knowledge Work]] | — | — | Structural Planning | 406 |
 | 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Structural Planning | 406 |
 | 79 | [[Self-Regulation]] | — | — | Structural Planning | 406 |
-| 80 | [[Goal Setting Theory]] | — | — | Structural Planning | 406 |
+| 80 | [[Goal-Setting-Theory|Goal Setting Theory]] | — | — | Structural Planning | 406 |
 | 81 | [[Habit-Formation|Habit Formation]] | — | — | Structural Planning | 406 |
 
 ---
@@ -501,7 +501,7 @@ Let me start my research phase to gather current information on these topics.
 - [[Context Switching]]
 - [[Ego Depletion]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Goal Setting Theory]]
+- [[Goal-Setting-Theory|Goal Setting Theory]]
 - [[Goal-Directed Behavior]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]]

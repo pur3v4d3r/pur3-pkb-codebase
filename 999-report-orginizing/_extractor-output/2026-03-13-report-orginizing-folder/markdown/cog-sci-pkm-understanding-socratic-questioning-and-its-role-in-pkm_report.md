@@ -142,7 +142,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 7)*
 
 > [!abstract] Untitled
-> This exposition provides a comprehensive, university-level examination of [[Socratic Questioning]] and its transformative role in [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM). The inquiry moves through three major intellectual registers: the historical and philosophical foundations of the Socratic method, rooted in ancient Athenian dialectic and consolidated through Plato's dialogues; its theoretical architecture as a cognitive and pedagogical technology, formalized in [[Paul-Elder Critical Thinking Framework|Paul and Elder's]] taxonomy of six question types; and its practical integration into contemporary PKM systems. A central thesis unifies this exposition: Socratic questioning is not merely a conversational technique but a *cognitive architecture* — a structured method for generating productive epistemic friction, activating [[Metacognition|metacognitive]] monitoring, and converting accumulated information into genuinely transformative knowledge. The document demonstrates that PKM systems designed without interrogative scaffolding risk becoming sophisticated filing systems rather than engines of intellectual development. When Socratic questioning is intentionally woven into the capture, processing, and synthesis stages of a PKM workflow — whether through [[Zettelkasten]]-style atomic questioning, [[Progressive-Summarization|Progressive Summarization]] prompts, or structured note templates — it functions as the animating principle that distinguishes deep understanding from passive archiving. Empirical evidence from educational psychology, cognitive science, and emerging [[AI-Assisted Learning]] research is marshaled to substantiate each claim. The exposition concludes by surveying the frontier of AI-mediated Socratic dialogue and its implications for next-generation PKM design.
+> This exposition provides a comprehensive, university-level examination of [[Socratic-Questioning|Socratic Questioning]] and its transformative role in [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM). The inquiry moves through three major intellectual registers: the historical and philosophical foundations of the Socratic method, rooted in ancient Athenian dialectic and consolidated through Plato's dialogues; its theoretical architecture as a cognitive and pedagogical technology, formalized in [[Paul-Elder-Critical-Thinking-Framework|Paul and Elder's]] taxonomy of six question types; and its practical integration into contemporary PKM systems. A central thesis unifies this exposition: Socratic questioning is not merely a conversational technique but a *cognitive architecture* — a structured method for generating productive epistemic friction, activating [[Metacognition|metacognitive]] monitoring, and converting accumulated information into genuinely transformative knowledge. The document demonstrates that PKM systems designed without interrogative scaffolding risk becoming sophisticated filing systems rather than engines of intellectual development. When Socratic questioning is intentionally woven into the capture, processing, and synthesis stages of a PKM workflow — whether through [[Zettelkasten]]-style atomic questioning, [[Progressive-Summarization|Progressive Summarization]] prompts, or structured note templates — it functions as the animating principle that distinguishes deep understanding from passive archiving. Empirical evidence from educational psychology, cognitive science, and emerging [[AI-Assisted Learning]] research is marshaled to substantiate each claim. The exposition concludes by surveying the frontier of AI-mediated Socratic dialogue and its implications for next-generation PKM design.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 14)*
 
@@ -262,7 +262,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Cross-Domain Connections in the Knowledge Vault:**
 > 
-> Socratic questioning in PKM connects to several existing concepts in this knowledge base: the relationship between [[Metacognitive Awareness]] and [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] is directly relevant — Socratic review transforms retrieval practice from a mechanical exercise into a generative cognitive operation. The connection to [[Cognitive-Load-Theory|Cognitive Load Theory]] is foundational — Socratic question design must respect working memory constraints while maximizing germane load. The link to [[Habit-Formation|Habit Formation]] is critical — the most important implementation challenge is converting Socratic questioning from an occasional conscious practice into an automated system behavior, which requires the same habit architecture that governs all PKM workflow design. The connection to [[John-Dewey|Dewey's Reflective Thinking]] establishes the philosophical lineage, while the link to [[Dual-Process-Theory|Dual Process Theory]] provides the cognitive science mechanism. The relationship to [[Paul-Elder Framework]] provides the operational taxonomy, and the connection to [[Zettelkasten]] provides the structural PKM context in which all of these elements can be practically instantiated.
+> Socratic questioning in PKM connects to several existing concepts in this knowledge base: the relationship between [[metacognitive-awareness|Metacognitive Awareness]] and [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] is directly relevant — Socratic review transforms retrieval practice from a mechanical exercise into a generative cognitive operation. The connection to [[Cognitive-Load-Theory|Cognitive Load Theory]] is foundational — Socratic question design must respect working memory constraints while maximizing germane load. The link to [[Habit-Formation|Habit Formation]] is critical — the most important implementation challenge is converting Socratic questioning from an occasional conscious practice into an automated system behavior, which requires the same habit architecture that governs all PKM workflow design. The connection to [[John-Dewey|Dewey's Reflective Thinking]] establishes the philosophical lineage, while the link to [[Dual-Process-Theory|Dual Process Theory]] provides the cognitive science mechanism. The relationship to [[Paul-Elder-Framework|Paul-Elder Framework]] provides the operational taxonomy, and the connection to [[Zettelkasten]] provides the structural PKM context in which all of these elements can be practically instantiated.
 
 #### 23. [INSIGHT] Untitled *(Line 224)*
 
@@ -286,7 +286,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **PKB Integration Connections:**
 > 
-> This exposition connects across the knowledge vault to [[Metacognitive Awareness Inventory]] (the primary measurement instrument for tracking the PKM effects of Socratic practice), [[Dual-Process-Theory|Dual Process Theory]] (the cognitive science foundation for why Socratic questions enforce System 2 engagement), [[Habit-Formation|Habit Formation]] (the master variable governing whether Socratic questioning becomes embedded behavioral practice or remains an aspirational framework), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the design science governing how much interrogative friction is productive versus overwhelming), [[Zettelkasten]] (the PKM architecture most philosophically aligned with Socratic knowledge construction), [[Elaborative-Interrogation|Elaborative Interrogation]] (the specific cognitive strategy — asking "why?" and "how?" about facts — that the empirical literature most consistently links to deep learning), [[John-Dewey|Deweyan Reflective Thinking]] (the pragmatist philosophical grounding), and [[Extended Thinking Architecture]] (the prompt engineering framework within which AI-mediated Socratic questioning for PKM can be implemented).
+> This exposition connects across the knowledge vault to [[Metacognitive Awareness Inventory]] (the primary measurement instrument for tracking the PKM effects of Socratic practice), [[Dual-Process-Theory|Dual Process Theory]] (the cognitive science foundation for why Socratic questions enforce System 2 engagement), [[Habit-Formation|Habit Formation]] (the master variable governing whether Socratic questioning becomes embedded behavioral practice or remains an aspirational framework), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the design science governing how much interrogative friction is productive versus overwhelming), [[Zettelkasten]] (the PKM architecture most philosophically aligned with Socratic knowledge construction), [[Elaborative-Interrogation|Elaborative Interrogation]] (the specific cognitive strategy — asking "why?" and "how?" about facts — that the empirical literature most consistently links to deep learning), [[John-Dewey|Deweyan Reflective Thinking]] (the pragmatist philosophical grounding), and [[Extended-Thinking-Architecture|Extended Thinking Architecture]] (the prompt engineering framework within which AI-mediated Socratic questioning for PKM can be implemented).
 
 #### 27. [FURTHER-EXPLORATION] Untitled *(Line 274)*
 
@@ -299,11 +299,11 @@ extraction_summary:
 > 
 > > [!topic-idea]
 > > **[[AI-Mediated Socratic Questioning]] — LLMs as Epistemic Interlocutors**
-> > An examination of how large language models can serve as Socratic interlocutors for PKM practitioners — reviewing notes, generating targeted questions, identifying assumptions, and modeling the blind-spot-correcting function that external questioners provide. Connects to [[Extended Thinking Architecture]] and the [[Chain of Verification]] pattern for self-correction.
+> > An examination of how large language models can serve as Socratic interlocutors for PKM practitioners — reviewing notes, generating targeted questions, identifying assumptions, and modeling the blind-spot-correcting function that external questioners provide. Connects to [[Extended-Thinking-Architecture|Extended Thinking Architecture]] and the [[Chain of Verification]] pattern for self-correction.
 > 
 > > [!topic-idea]
 > > **[[Epistemic Depth Metrics]] — Measuring Knowledge Quality in the Knowledge Graph**
-> > A formal treatment of how to measure, track, and optimize the epistemic depth of a knowledge base using graph-theoretic and information-theoretic methods. Would connect to [[Dataview]] query design, [[Knowledge Graph]] analysis, and the emerging field of personal analytics for intellectual development.
+> > A formal treatment of how to measure, track, and optimize the epistemic depth of a knowledge base using graph-theoretic and information-theoretic methods. Would connect to [[Dataview]] query design, [[Knowledge-Graph|Knowledge Graph]] analysis, and the emerging field of personal analytics for intellectual development.
 > 
 > > [!topic-idea]
 > > **[[Socratic Review Protocols]] — Interrogative Spaced Repetition**
@@ -385,12 +385,12 @@ extraction_summary:
 - [[Anki]]
 - [[Aporia as Productive Failure in Learning]]
 - [[Automatic Thoughts]]
-- [[Benjamin Bloom]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Boghossian (2012)]]
 - [[Building a Second Brain]]
 - [[Chain of Verification]]
 - [[Christopher Langdell]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -398,7 +398,7 @@ extraction_summary:
 - [[Cognitive Schema]]
 - [[Conceptual Bridges]]
 - [[Cornell Critical Thinking Test]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dataview]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulty]]
@@ -412,10 +412,10 @@ extraction_summary:
 - [[Epistemic Echo Chamber]]
 - [[Epistemic Friction]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Fleeting Notes]]
 - [[Foundation for Critical Thinking]]
-- [[Gregory Vlastos]]
+- [[Gregory-Vlastos|Gregory Vlastos]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Habit-Formation|Habit Formation]]
 - [[Higher-Order Thinking Skills]]
@@ -425,22 +425,22 @@ extraction_summary:
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Interrogative Note Design]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Kahneman]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Synthesis]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Literature Notes]]
 - [[Luhmann]]
 - [[Maieutics]]
 - [[Metacognition]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Awareness Inventory]]
 - [[Mintz (2006)]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
-- [[Paul-Elder Critical Thinking Framework]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Pedagogical Method]]
 - [[Permanent Notes]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
@@ -448,17 +448,17 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Pseudo-Understanding]]
 - [[Reflective-Thinking|Reflective Thinking]]
-- [[Richard Paul]]
-- [[Robert Bjork]]
+- [[Richard-Paul|Richard Paul]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Second-Order Learning]]
 - [[Second-Order Thinking]]
 - [[Socrates]]
 - [[Socratic Method in Law Schools]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Socratic Review Protocols]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[System 1 Thinking]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Testing-Effect|Testing Effect]]
 - [[Tiago Forte]]
 - [[Tolerance for Ambiguity]]
@@ -466,7 +466,7 @@ extraction_summary:
 - [[Transfer Learning]]
 - [[Vannevar Bush]]
 - [[Vygotsky]]
-- [[Watson-Glaser Critical Thinking Appraisal]]
+- [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]]
 - [[Xenophon]]
 - [[Zettelkasten]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -475,9 +475,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Socratic Questioning]] | — | — | Document Start | 8 |
+| 1 | [[Socratic-Questioning|Socratic Questioning]] | — | — | Document Start | 8 |
 | 2 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Document Start | 8 |
-| 3 | [[Paul-Elder Critical Thinking Framework]] | Paul and Elder's | — | Document Start | 8 |
+| 3 | [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] | Paul and Elder's | — | Document Start | 8 |
 | 4 | [[Metacognition]] | metacognitive | — | Document Start | 8 |
 | 5 | [[Zettelkasten]] | — | — | Document Start | 8 |
 | 6 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Document Start | 8 |
@@ -491,7 +491,7 @@ extraction_summary:
 | 14 | [[Pedagogical Method]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
 | 15 | [[Higher-Order Thinking Skills]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
 | 16 | [[Cognitive Restructuring]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
-| 17 | [[Cognitive Behavioral Therapy]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
+| 17 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
 | 18 | [[Socrates]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 22 |
 | 19 | [[Plato]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 22 |
 | 20 | [[Inquiry Engine]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 27 |
@@ -499,26 +499,26 @@ extraction_summary:
 | 22 | [[Plato]] | — | — | The Ancient Origins: Socrates and the... | 35 |
 | 23 | [[Xenophon]] | — | — | The Ancient Origins: Socrates and the... | 35 |
 | 24 | [[Elenchus|Elenchus]] | — | — | The Ancient Origins: Socrates and the... | 37 |
-| 25 | [[Gregory Vlastos]] | — | — | The Ancient Origins: Socrates and the... | 37 |
+| 25 | [[Gregory-Vlastos|Gregory Vlastos]] | — | — | The Ancient Origins: Socrates and the... | 37 |
 | 26 | [[Maieutics]] | — | — | The Ancient Origins: Socrates and the... | 42 |
 | 27 | [[Boghossian (2012)]] | — | — | The Ancient Origins: Socrates and the... | 44 |
 | 28 | [[Mintz (2006)]] | — | — | The Ancient Origins: Socrates and the... | 44 |
 | 29 | [[Cognitive-Bias|Cognitive Bias]] | cognitive biases | — | The Ancient Origins: Socrates and the... | 44 |
 | 30 | [[Kahneman]] | — | — | The Ancient Origins: Socrates and the... | 44 |
 | 31 | [[System 1 Thinking]] | System 1 | — | The Ancient Origins: Socrates and the... | 44 |
-| 32 | [[System 2 Thinking]] | System 2 | — | The Ancient Origins: Socrates and the... | 44 |
+| 32 | [[System-2-Thinking|System 2 Thinking]] | System 2 | — | The Ancient Origins: Socrates and the... | 44 |
 | 33 | [[Socratic Method in Law Schools]] | case method | — | The Modern Transformation: From Dialo... | 48 |
 | 34 | [[Christopher Langdell]] | — | — | The Modern Transformation: From Dialo... | 48 |
-| 35 | [[Richard Paul]] | — | — | The Modern Transformation: From Dialo... | 50 |
-| 36 | [[Linda Elder]] | — | — | The Modern Transformation: From Dialo... | 50 |
+| 35 | [[Richard-Paul|Richard Paul]] | — | — | The Modern Transformation: From Dialo... | 50 |
+| 36 | [[Linda-Elder|Linda Elder]] | — | — | The Modern Transformation: From Dialo... | 50 |
 | 37 | [[Foundation for Critical Thinking]] | — | — | The Modern Transformation: From Dialo... | 50 |
 | 38 | [[Elements of Thought]] | intellectual standards framework | — | The Modern Transformation: From Dialo... | 52 |
 | 39 | [[John-Dewey|John Dewey]] | — | — | Parallel Intellectual Currents: Dewey... | 61 |
 | 40 | [[Reflective-Thinking|Reflective Thinking]] | — | — | Parallel Intellectual Currents: Dewey... | 61 |
-| 41 | [[Benjamin Bloom]] | — | — | Parallel Intellectual Currents: Dewey... | 63 |
+| 41 | [[Benjamin-Bloom|Benjamin Bloom]] | — | — | Parallel Intellectual Currents: Dewey... | 63 |
 | 42 | [[Anderson and Krathwohl]] | — | — | Parallel Intellectual Currents: Dewey... | 63 |
 | 43 | [[Metacognition]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
-| 44 | [[John Flavell]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
+| 44 | [[John-Flavell|John Flavell]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
 | 45 | [[Metacognitive Awareness Inventory]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
 | 46 | [[Pseudo-Understanding]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 76 |
 | 47 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 82 |
@@ -527,13 +527,13 @@ extraction_summary:
 | 50 | [[Epistemic Echo Chamber]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 88 |
 | 51 | [[Second-Order Thinking]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 91 |
 | 52 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual Process Theory and the Cognitive... | 99 |
-| 53 | [[Daniel Kahneman]] | — | — | Dual Process Theory and the Cognitive... | 99 |
+| 53 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Dual Process Theory and the Cognitive... | 99 |
 | 54 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and Productive ... | 112 |
 | 55 | [[Vygotsky]] | — | — | Cognitive Load Theory and Productive ... | 114 |
 | 56 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Cognitive Load Theory and Productive ... | 114 |
 | 57 | [[Zettelkasten]] | — | — | The Socratic Note: Interrogative Capt... | 127 |
 | 58 | [[Desirable Difficulty]] | — | — | Template-Embedded Socratic Scaffolding | 133 |
-| 59 | [[Robert Bjork]] | — | — | Template-Embedded Socratic Scaffolding | 133 |
+| 59 | [[Robert-Bjork|Robert Bjork]] | — | — | Template-Embedded Socratic Scaffolding | 133 |
 | 60 | [[Obsidian]] | — | — | Template-Embedded Socratic Scaffolding | 136 |
 | 61 | [[Dataview]] | — | — | Template-Embedded Socratic Scaffolding | 136 |
 | 62 | [[Transfer Learning]] | — | — | Template-Embedded Socratic Scaffolding | 136 |
@@ -545,27 +545,27 @@ extraction_summary:
 | 68 | [[Conceptual Bridges]] | — | — | Socratic Questioning in the Synthesis... | 157 |
 | 69 | [[Higher-Order Thinking Skills]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
 | 70 | [[Cornell Critical Thinking Test]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
-| 71 | [[Watson-Glaser Critical Thinking Appraisal]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
+| 71 | [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
 | 72 | [[Torrance Tests of Creative Thinking]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
-| 73 | [[Cognitive Behavioral Therapy]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
+| 73 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 74 | [[Cognitive Restructuring]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 75 | [[Automatic Thoughts]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 76 | [[Cognitive Distortions]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 77 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Learning from Failures: Where Socrati... | 198 |
-| 78 | [[Metacognitive Awareness]] | — | — | The Knowledge Quality Spectrum | 216 |
+| 78 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 79 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 80 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 81 | [[Habit-Formation|Habit Formation]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 82 | [[John-Dewey|John Dewey]] | Dewey's Reflective Thinking | — | The Knowledge Quality Spectrum | 216 |
 | 83 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Knowledge Quality Spectrum | 216 |
-| 84 | [[Paul-Elder Framework]] | — | — | The Knowledge Quality Spectrum | 216 |
+| 84 | [[Paul-Elder-Framework|Paul-Elder Framework]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 85 | [[Zettelkasten]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 86 | [[Fleeting Notes]] | — | — | Customization and Workflow Integration | 222 |
 | 87 | [[Literature Notes]] | — | — | Customization and Workflow Integration | 222 |
 | 88 | [[Permanent Notes]] | — | — | Customization and Workflow Integration | 222 |
 | 89 | [[Second-Order Learning]] | — | — | Customization and Workflow Integration | 225 |
 | 90 | [[Epistemic Depth]] | — | — | Quantitative Models of Questioning Ef... | 246 |
-| 91 | [[Knowledge Graph]] | — | — | Quantitative Models of Questioning Ef... | 246 |
+| 91 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Quantitative Models of Questioning Ef... | 246 |
 | 92 | [[Elaborative Encoding]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
 | 93 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
 | 94 | [[Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
@@ -575,15 +575,15 @@ extraction_summary:
 | 98 | [[Zettelkasten]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 99 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 100 | [[John-Dewey|John Dewey]] | Deweyan Reflective Thinking | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
-| 101 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
+| 101 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 102 | [[Interrogative Note Design]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 278 |
 | 103 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 279 |
 | 104 | [[AI-Mediated Socratic Questioning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 282 |
-| 105 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 283 |
+| 105 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 283 |
 | 106 | [[Chain of Verification]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 283 |
 | 107 | [[Epistemic Depth Metrics]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 286 |
 | 108 | [[Dataview]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 287 |
-| 109 | [[Knowledge Graph]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 287 |
+| 109 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 287 |
 | 110 | [[Socratic Review Protocols]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 290 |
 | 111 | [[Anki]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 291 |
 | 112 | [[Testing-Effect|Testing Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 291 |
@@ -693,12 +693,12 @@ $$
 - [[Anki]]
 - [[Aporia as Productive Failure in Learning]]
 - [[Automatic Thoughts]]
-- [[Benjamin Bloom]]
+- [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Boghossian (2012)]]
 - [[Building a Second Brain]]
 - [[Chain of Verification]]
 - [[Christopher Langdell]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -706,7 +706,7 @@ $$
 - [[Cognitive Schema]]
 - [[Conceptual Bridges]]
 - [[Cornell Critical Thinking Test]]
-- [[Daniel Kahneman]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dataview]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulty]]
@@ -720,10 +720,10 @@ $$
 - [[Epistemic Echo Chamber]]
 - [[Epistemic Friction]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Fleeting Notes]]
 - [[Foundation for Critical Thinking]]
-- [[Gregory Vlastos]]
+- [[Gregory-Vlastos|Gregory Vlastos]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Habit-Formation|Habit Formation]]
 - [[Higher-Order Thinking Skills]]
@@ -733,22 +733,22 @@ $$
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Interrogative Note Design]]
 - [[John-Dewey|John Dewey]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Kahneman]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Synthesis]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Literature Notes]]
 - [[Luhmann]]
 - [[Maieutics]]
 - [[Metacognition]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Awareness Inventory]]
 - [[Mintz (2006)]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
-- [[Paul-Elder Critical Thinking Framework]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Pedagogical Method]]
 - [[Permanent Notes]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
@@ -756,17 +756,17 @@ $$
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Pseudo-Understanding]]
 - [[Reflective-Thinking|Reflective Thinking]]
-- [[Richard Paul]]
-- [[Robert Bjork]]
+- [[Richard-Paul|Richard Paul]]
+- [[Robert-Bjork|Robert Bjork]]
 - [[Second-Order Learning]]
 - [[Second-Order Thinking]]
 - [[Socrates]]
 - [[Socratic Method in Law Schools]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Socratic Review Protocols]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[System 1 Thinking]]
-- [[System 2 Thinking]]
+- [[System-2-Thinking|System 2 Thinking]]
 - [[Testing-Effect|Testing Effect]]
 - [[Tiago Forte]]
 - [[Tolerance for Ambiguity]]
@@ -774,7 +774,7 @@ $$
 - [[Transfer Learning]]
 - [[Vannevar Bush]]
 - [[Vygotsky]]
-- [[Watson-Glaser Critical Thinking Appraisal]]
+- [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]]
 - [[Xenophon]]
 - [[Zettelkasten]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]

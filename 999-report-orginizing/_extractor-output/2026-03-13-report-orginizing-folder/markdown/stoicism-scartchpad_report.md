@@ -169,7 +169,7 @@ extraction_summary:
 > 
 > → [[Neuroplasticity]]: Provides mechanism for practice-dependent neural changes supporting enhanced executive function and emotional regulation.
 > 
-> → [[Memory Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
+> → [[Memory-Consolidation|Memory Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
 > 
 > → [[Habit-Formation|Habit Formation]]: Establishes meta-habit of systematic reflection that monitors and reinforces object-level behavioral patterns.
 
@@ -227,7 +227,7 @@ extraction_summary:
 > [!methodology-and-sources] Untitled
 > **The Three Forms of Premeditatio Malorum**
 > 
-> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
+> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus-Aurelius|Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
 > - The mechanism of *[[Premeditatio-Malorum|premeditatio malorum]]* differs fundamentally from pathological [[Worry|worry]] or catastrophizing. While worry represents uncontrolled, repetitive, abstract rumination that increases [[Anxiety|anxiety]] and depletes [[Cognitive Resources|cognitive resources]], *[[Premeditatio-Malorum|premeditatio malorum]]* involves deliberate, time-limited, concrete visualization paired with problem-solving and acceptance. The Stoic practitioner asks not merely "What terrible things might happen?" but rather "If this occurred, how would I cope? What resources would I draw upon? What would matter most?"
 
 #### 12. [IMPORTANT] Untitled *(Line 311)*
@@ -242,7 +242,7 @@ extraction_summary:
 > [!methodology-and-sources] Untitled
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 #### 14. [THE-PHILOSOPHY] 🌟 **Living According to Nature: The Foundation of Stoic Ethics *(Line 321)*
 
@@ -371,7 +371,7 @@ extraction_summary:
 - [[reference-comprehensive-stoicism-journal-20251130195735]]
 - [[2025-11-25]]
 - [[2025-11-30]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Amor Fati]]
 - [[Amygdalar]]
 - [[Ancient Philosophy]]
@@ -384,7 +384,7 @@ extraction_summary:
 - [[Cognitive Distortion]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Narrowing]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
@@ -402,7 +402,7 @@ extraction_summary:
 - [[Epictetus]]
 - [[Episodic-Memory|Episodic Memory]]
 - [[Eudaimonia]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[External Achievement]]
 - [[Habit-Formation|Habit Formation]]
 - [[Hippocampal]]
@@ -413,12 +413,12 @@ extraction_summary:
 - [[Judgments]]
 - [[Justice]]
 - [[Learning Cycle]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Memento Mori]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Memory Enhancement]]
 - [[Metacognition]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Journaling]]
 - [[Moderation]]
 - [[Moral Hygiene]]
@@ -447,7 +447,7 @@ extraction_summary:
 - [[Structured Prompts]]
 - [[View from Above]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Working-Memory|Working Memory]]
 - [[Worry]]
@@ -462,14 +462,14 @@ extraction_summary:
 | 3 | [[Courage]] | — | — | The Four Cardinal Virtues | 61 |
 | 4 | [[Moderation]] | — | — | The Four Cardinal Virtues | 62 |
 | 5 | [[Stoicism]] | — | — | Main | 120 |
-| 6 | [[Virtue Ethics]] | — | — | Main | 121 |
+| 6 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Main | 121 |
 | 7 | [[Eudaimonia]] | — | — | Main | 123 |
 | 8 | [[Apatheia]] | — | — | Main | 124 |
 | 9 | [[Wisdom]] | — | — | Virtues | 129 |
 | 10 | [[Justice]] | — | — | Virtues | 131 |
 | 11 | [[Courage]] | — | — | Virtues | 133 |
 | 12 | [[Moderation]] | — | — | Virtues | 135 |
-| 13 | [[Marcus Aurelius]] | — | — | Key-Figures | 143 |
+| 13 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Key-Figures | 143 |
 | 14 | [[Epictetus]] | — | — | Key-Figures | 144 |
 | 15 | [[Seneca]] | — | — | Key-Figures | 145 |
 | 16 | [[Practical Philosophy]] | — | — | Philosophy/Practical Philosophy | 148 |
@@ -500,13 +500,13 @@ extraction_summary:
 | 41 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Stoicism Journaling | 227 |
 | 42 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Stoicism Journaling | 229 |
 | 43 | [[Neuroplasticity]] | — | — | Stoicism Journaling | 231 |
-| 44 | [[Memory Consolidation]] | — | — | Stoicism Journaling | 233 |
+| 44 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Stoicism Journaling | 233 |
 | 45 | [[Habit-Formation|Habit Formation]] | — | — | Stoicism Journaling | 235 |
 | 46 | [[Stoicism]] | Stoic | — | Metacognitive Development through Jou... | 260 |
 | 47 | [[Stoicism]] | Stoic | — | Metacognitive Development through Jou... | 261 |
 | 48 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | Metacognitive Development through Jou... | 261 |
 | 49 | [[Stoicism]] | Stoic | — | Metacognitive Development through Jou... | 261 |
-| 50 | [[Cognitive Neuroscience]] | cognitive neuroscience | — | Metacognitive Development through Jou... | 261 |
+| 50 | [[cognitive-neuroscience|Cognitive Neuroscience]] | cognitive neuroscience | — | Metacognitive Development through Jou... | 261 |
 | 51 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | Metacognitive Development through Jou... | 263 |
 | 52 | [[Progress Principle]] | progress principle | — | Metacognitive Development through Jou... | 269 |
 | 53 | [[Habit-Formation|Habit Formation]] | habit automatization | — | Metacognitive Development through Jou... | 274 |
@@ -517,14 +517,14 @@ extraction_summary:
 | 58 | [[Constructivism]] | — | — | Metacognitive Development through Jou... | 290 |
 | 59 | [[Pragmatism]] | — | — | Metacognitive Development through Jou... | 290 |
 | 60 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 297 |
-| 61 | [[Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | Metacognitive Development through Jou... | 297 |
+| 61 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | Metacognitive Development through Jou... | 297 |
 | 62 | [[Metacognition]] | metacognitive awareness | — | Metacognitive Development through Jou... | 297 |
 | 63 | [[2025-11-25]] | — | — | Metacognitive Development through Jou... | 297 |
 | 64 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 300 |
 | 65 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 304 |
 | 66 | [[Dichotomy-of-Control|Dichotomy of Control]] | dichotomy of control | — | Metacognitive Development through Jou... | 304 |
 | 67 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 309 |
-| 68 | [[Marcus Aurelius]] | — | — | Metacognitive Development through Jou... | 309 |
+| 68 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Metacognitive Development through Jou... | 309 |
 | 69 | [[Seneca the Younger]] | Seneca | — | Metacognitive Development through Jou... | 309 |
 | 70 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 310 |
 | 71 | [[Worry]] | worry | — | Metacognitive Development through Jou... | 310 |
@@ -542,7 +542,7 @@ extraction_summary:
 | 83 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 319 |
 | 84 | [[Episodic-Memory|Episodic Memory]] | episodic memory | — | Metacognitive Development through Jou... | 319 |
 | 85 | [[Virtue]] | virtue | — | Metacognitive Development through Jou... | 319 |
-| 86 | [[Executive Function]] | executive function | — | Metacognitive Development through Jou... | 319 |
+| 86 | [[Executive-Function|Executive Function]] | executive function | — | Metacognitive Development through Jou... | 319 |
 | 87 | [[Self-Regulation-Theory]] | self-regulatory | — | Metacognitive Development through Jou... | 319 |
 | 88 | [[Prefrontal Cortex]] | prefrontal cortex | — | Metacognitive Development through Jou... | 319 |
 | 89 | [[Stoic Principle]] | Stoic principle | — | Metacognitive Development through Jou... | 319 |
@@ -557,10 +557,10 @@ extraction_summary:
 | 98 | [[Defensive Avoidance]] | — | — | Notes from [[00-inbox/03-research/03-... | 360 |
 | 99 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Three-Pillar Architecture | 370 |
 | 100 | [[Cognitive Primacy]] | — | — | The Three-Pillar Architecture | 371 |
-| 101 | [[Virtue Ethics]] | — | — | The Three-Pillar Architecture | 372 |
+| 101 | [[Virtue-Ethics|Virtue Ethics]] | — | — | The Three-Pillar Architecture | 372 |
 | 102 | [[Cosmopolitanism]] | — | — | The Three-Pillar Architecture | 373 |
 | 103 | [[Memento Mori]] | — | — | The Three-Pillar Architecture | 374 |
-| 104 | [[Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 376 |
+| 104 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 376 |
 | 105 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 377 |
 | 106 | [[Structured Prompts]] | — | — | The Three-Pillar Architecture | 378 |
 | 107 | [[Pattern Recognition]] | — | — | The Three-Pillar Architecture | 379 |
@@ -578,7 +578,7 @@ extraction_summary:
 | 119 | [[Cognitive Narrowing]] | — | — | Marcus Aurelius | 432 |
 | 120 | [[Learning Cycle]] | — | — | Epictetus | 451 |
 | 121 | [[Memory Enhancement]] | — | — | The Pythagorean Memory Technique | 457 |
-| 122 | [[Memory Consolidation]] | — | — | The Pythagorean Memory Technique | 461 |
+| 122 | [[Memory-Consolidation|Memory Consolidation]] | — | — | The Pythagorean Memory Technique | 461 |
 | 123 | [[Hippocampal]] | — | — | The Pythagorean Memory Technique | 461 |
 | 124 | [[Amygdalar]] | — | — | The Pythagorean Memory Technique | 462 |
 | 125 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | The Discipline of Assent | 464 |
@@ -647,7 +647,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[reference-comprehensive-stoicism-journal-20251130195735]]
 - [[2025-11-25]]
 - [[2025-11-30]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Amor Fati]]
 - [[Amygdalar]]
 - [[Ancient Philosophy]]
@@ -660,7 +660,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Cognitive Distortion]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Narrowing]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
@@ -678,7 +678,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Epictetus]]
 - [[Episodic-Memory|Episodic Memory]]
 - [[Eudaimonia]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[External Achievement]]
 - [[Habit-Formation|Habit Formation]]
 - [[Hippocampal]]
@@ -689,12 +689,12 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Judgments]]
 - [[Justice]]
 - [[Learning Cycle]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Memento Mori]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation|Memory Consolidation]]
 - [[Memory Enhancement]]
 - [[Metacognition]]
-- [[Metacognitive Awareness]]
+- [[metacognitive-awareness|Metacognitive Awareness]]
 - [[Metacognitive Journaling]]
 - [[Moderation]]
 - [[Moral Hygiene]]
@@ -723,7 +723,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Structured Prompts]]
 - [[View from Above]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 - [[Wisdom]]
 - [[Working-Memory|Working Memory]]
 - [[Worry]]

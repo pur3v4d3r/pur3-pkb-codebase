@@ -166,12 +166,12 @@ extraction_summary:
 #### 3. [DEFINITION] Undifferentiated Conception of Ability *(Line 295)*
 
 > [!definition] Undifferentiated Conception of Ability
-> In an undifferentiated conception of ability, effort and ability are treated as the same thing — or at minimum, as inseparable. A person who works harder is understood to be more able, and ability is seen as something that grows through effort. Under this conception, success means improving and learning, and failure means simply "I haven't learned this yet." This conception is developmentally earlier (young children tend to operate under it) and is characteristic of what Nicholls called *task involvement*. It corresponds roughly to what [[Carol S. Dweck]] would later call the [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]].
+> In an undifferentiated conception of ability, effort and ability are treated as the same thing — or at minimum, as inseparable. A person who works harder is understood to be more able, and ability is seen as something that grows through effort. Under this conception, success means improving and learning, and failure means simply "I haven't learned this yet." This conception is developmentally earlier (young children tend to operate under it) and is characteristic of what Nicholls called *task involvement*. It corresponds roughly to what [[Carol-S.-Dweck|Carol S. Dweck]] would later call the [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]].
 
 #### 4. [DEFINITION] Differentiated Conception of Ability *(Line 298)*
 
 > [!definition] Differentiated Conception of Ability
-> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol S. Dweck]] calls the [[Fixed-Mindset|Fixed Mindset]] or [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]].
+> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol-S.-Dweck|Carol S. Dweck]] calls the [[Fixed-Mindset|Fixed Mindset]] or [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]].
 
 #### 5. [KEY-CLAIM] The Foundational Proposition of AGT *(Line 301)*
 
@@ -270,7 +270,7 @@ extraction_summary:
 #### 23. [EXAMPLE] The Study Strategy Divergence *(Line 429)*
 
 > [!example] The Study Strategy Divergence
-> Research by [[Ames and Archer]] (1988) and numerous subsequent studies has documented systematic differences in reported learning strategies between students in mastery-oriented versus performance-oriented conditions. Mastery-oriented students more frequently report using tactics associated with deep processing: self-testing for understanding, connecting new material to prior knowledge, seeking to understand the logic behind procedures rather than merely memorising them, and identifying areas of confusion and seeking help. Performance-oriented students (particularly those high on performance-avoidance) more frequently report surface strategies: rote memorisation, selective attention to likely test items, and avoidance of difficult material that might undermine confidence.
+> Research by [[Ames-and-Archer|Ames and Archer]] (1988) and numerous subsequent studies has documented systematic differences in reported learning strategies between students in mastery-oriented versus performance-oriented conditions. Mastery-oriented students more frequently report using tactics associated with deep processing: self-testing for understanding, connecting new material to prior knowledge, seeking to understand the logic behind procedures rather than merely memorising them, and identifying areas of confusion and seeking help. Performance-oriented students (particularly those high on performance-avoidance) more frequently report surface strategies: rote memorisation, selective attention to likely test items, and avoidance of difficult material that might undermine confidence.
 
 #### 24. [THOUGHT-EXPERIMENT] The Diagnostic Power of a Failure *(Line 440)*
 
@@ -338,15 +338,15 @@ extraction_summary:
 > 
 > This report on [[Achievement-Goal-Theory|Achievement Goal Theory]] connects to existing knowledge in your PKB in the following ways:
 > 
-> - **[[Metacognition & Motivation]]** — The intersection is direct and rich. AGT predicts that mastery-oriented learners will engage in more sophisticated metacognitive monitoring — because their goal is to understand, not merely to perform, they have a stronger incentive to accurately detect their own comprehension gaps. Performance-avoidance learners, by contrast, may engage in motivated inaccuracy: deliberately *not* monitoring their understanding too carefully, because accurate self-assessment might reveal incompetence. This suggests that metacognitive strategy instruction will be most effective when embedded in mastery-climate environments.
+> - **[[Metacognition-&-Motivation|Metacognition & Motivation]]** — The intersection is direct and rich. AGT predicts that mastery-oriented learners will engage in more sophisticated metacognitive monitoring — because their goal is to understand, not merely to perform, they have a stronger incentive to accurately detect their own comprehension gaps. Performance-avoidance learners, by contrast, may engage in motivated inaccuracy: deliberately *not* monitoring their understanding too carefully, because accurate self-assessment might reveal incompetence. This suggests that metacognitive strategy instruction will be most effective when embedded in mastery-climate environments.
 > 
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's growth mindset framework is in many ways the upstream cognitive cause of mastery goal adoption. An entity theory of intelligence (fixed mindset) predicts performance goal adoption because, if ability is fixed, the rational goal is to demonstrate it rather than develop it. An incremental theory (growth mindset) predicts mastery goal adoption because, if ability can be developed, then development is the rational focus. The two frameworks are therefore deeply complementary, with mindset theory explaining *why* individuals differ in goal orientation tendencies, and AGT specifying the *mechanisms* through which those tendencies translate into learning behaviours.
 > 
-> - **[[Metacognition & Critical Thinking]]** — Critical thinking requires intellectual risk-taking: the willingness to question assumptions, to entertain uncomfortable possibilities, and to revise beliefs in light of evidence. All of these behaviours are more natural under mastery orientation than under performance orientation. In a performance-oriented environment, intellectual risk-taking is potentially costly (you might be wrong, publicly), while in a mastery-oriented environment it is potentially rewarding (you might learn something new).
+> - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — Critical thinking requires intellectual risk-taking: the willingness to question assumptions, to entertain uncomfortable possibilities, and to revise beliefs in light of evidence. All of these behaviours are more natural under mastery orientation than under performance orientation. In a performance-oriented environment, intellectual risk-taking is potentially costly (you might be wrong, publicly), while in a mastery-oriented environment it is potentially rewarding (you might learn something new).
 > 
 > - **[[Schema-Theory|Schema Theory]]** — Schema formation and elaboration depend on the kind of deep processing that mastery goals preferentially support. When learners are focused on understanding rather than performance, they are more likely to engage in the effortful assimilation and accommodation that schema development requires. This connection suggests that schema formation is not merely a cognitive process but a motivationally conditioned one — the conditions under which deep learning occurs are also the conditions that AGT identifies as mastery-conducive.
 > 
-> - **[[Critical Thinking in Education]]** — Instructional approaches that aim to develop critical thinking are unlikely to succeed in performance-climate environments, because critical thinking requires the very intellectual behaviours — challenge engagement, error tolerance, cognitive risk — that performance-avoidance goals suppress. This suggests that critical thinking pedagogy and motivational climate design are not separate problems but deeply interconnected aspects of a single design challenge.
+> - **[[Critical-Thinking-in-Education|Critical Thinking in Education]]** — Instructional approaches that aim to develop critical thinking are unlikely to succeed in performance-climate environments, because critical thinking requires the very intellectual behaviours — challenge engagement, error tolerance, cognitive risk — that performance-avoidance goals suppress. This suggests that critical thinking pedagogy and motivational climate design are not separate problems but deeply interconnected aspects of a single design challenge.
 > 
 > The pattern these connections reveal is significant: Achievement Goal Theory is not merely a theory about motivation. It is a theory about the motivational conditions under which deep cognitive engagement becomes possible. It connects to virtually every aspect of your PKB focused on how learning actually works — because goal orientation shapes not just how much people learn, but what kind of learning they are capable of in a given moment.
 
@@ -456,9 +456,9 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Practice
 
-#### 57. [TOPIC-IDEA] [[Self-Determination Theory — Foundational Report]] *(Line 630)*
+#### 57. [TOPIC-IDEA] [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] *(Line 630)*
 
-> [!topic-idea] [[Self-Determination Theory — Foundational Report]]
+> [!topic-idea] [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 > Self-Determination Theory (Deci & Ryan, 1985, 2000) is the dominant motivational framework in contemporary educational psychology and represents the most important theoretical complement and counterpoint to AGT. Where AGT focuses on the *content* of goals (what standard of competence is operative), SDT focuses on the *regulatory style* of motivation (whether motivation is autonomous/intrinsic or controlled/extrinsic). A comparative treatment would clarify the significant areas of convergence (both frameworks identify conditions that support intrinsic motivation and deep learning) and important areas of distinction (SDT's autonomy construct maps onto mastery climate but is not identical to it; AGT's approach-avoidance dimension has no direct SDT parallel). Priority: **High** — SDT is encountered throughout the learning sciences literature and fluency in both frameworks is close to essential.
 
 #### 58. [TOPIC-IDEA] [[Motivational Climate Design — Applied Guide]] *(Line 633)*
@@ -471,14 +471,14 @@ extraction_summary:
 > [!topic-idea] [[Implicit Theories of Intelligence & Growth Mindset — Foundational Report]]
 > Dweck's framework on entity vs. incremental theories of intelligence is the cognitive-developmental upstream cause of goal orientation differences. Understanding *why* people adopt different goal orientations requires understanding the implicit beliefs about the nature of ability that drive those orientations. This report would cover the experimental evidence base for mindset interventions, the theoretical relationship between mindset and AGT, and the important recent replication debates that have complicated the field's earlier enthusiasm for brief mindset interventions. Priority: **High** — directly linked to this report and already referenced in the PKB.
 
-#### 60. [TOPIC-IDEA] [[Achievement Emotions — Pekrun's Control-Value Theory]] *(Line 639)*
+#### 60. [TOPIC-IDEA] [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory|Achievement Emotions — Pekrun's Control-Value Theory]] *(Line 639)*
 
-> [!topic-idea] [[Achievement Emotions — Pekrun's Control-Value Theory]]
+> [!topic-idea] [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory|Achievement Emotions — Pekrun's Control-Value Theory]]
 > Reinhard Pekrun's Control-Value Theory of achievement emotions provides a rich account of the affective consequences of achievement goal orientations, including enjoyment, boredom, anxiety, pride, shame, hopelessness, and relief. Because emotional experience is a major outcome variable in AGT research, and because emotions in turn influence cognitive processing and motivation, this framework deepens the AGT account significantly. The connection between performance-avoidance goals and test anxiety, and between mastery goals and epistemic enjoyment, are particularly well-developed in Pekrun's work. Priority: **Medium** — enriches AGT but is not necessary for applying it.
 
-#### 61. [TOPIC-IDEA] [[Assessment Design & Goal Orientation]] *(Line 642)*
+#### 61. [TOPIC-IDEA] [[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]] *(Line 642)*
 
-> [!topic-idea] [[Assessment Design & Goal Orientation]]
+> [!topic-idea] [[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]]
 > Assessment is the most powerful climate-signalling dimension in most formal educational settings, and yet it is also the dimension most resistant to change — external pressures (standardised testing, grading systems, institutional accountability) heavily constrain what educators can do. This report would examine the evidence on how different assessment practices (formative vs. summative, criterion-referenced vs. norm-referenced, portfolio vs. examination, self-assessment vs. external evaluation) signal different goal orientations, with attention to both the design of individual assessments and the systemic constraints that shape what is possible. Priority: **High** — assessment design is a critical application domain.
 
 #### 62. [TOPIC-IDEA] [[Epistemic Curiosity and the Intrinsic Pleasures of Inquiry]] *(Line 645)*
@@ -496,20 +496,20 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Achievement Emotions — Pekrun's Control-Value Theory]]
+- [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory|Achievement Emotions — Pekrun's Control-Value Theory]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Ames and Archer]]
-- [[Andrew J. Elliot]]
+- [[Ames-and-Archer|Ames and Archer]]
+- [[Andrew-J.-Elliot|Andrew J. Elliot]]
 - [[Assessment-Design|Assessment Design]]
-- [[Assessment Design & Goal Orientation]]
+- [[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Bernard Weiner]]
-- [[Carol Ames]]
-- [[Carol S. Dweck]]
-- [[Conceptions of Ability]]
-- [[Critical Thinking in Education]]
+- [[Bernard-Weiner|Bernard Weiner]]
+- [[Carol-Ames|Carol Ames]]
+- [[Carol-S.-Dweck|Carol S. Dweck]]
+- [[Conceptions-of-Ability|Conceptions of Ability]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
 - [[Epistemic Curiosity and the Intrinsic Pleasures of Inquiry]]
 - [[Fixed-Mindset|Fixed Mindset]]
@@ -520,22 +520,22 @@ extraction_summary:
 - [[Implicit Theories of Intelligence & Growth Mindset — Foundational Report]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[John G. Nicholls]]
+- [[John-G.-Nicholls|John G. Nicholls]]
 - [[Judith Harackiewicz]]
 - [[Kenji Murayama]]
 - [[Marcy Church]]
 - [[Metacognition]]
-- [[Metacognition & Critical Thinking]]
-- [[Metacognition & Motivation]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Motivational-Climate|Motivational Climate]]
 - [[Motivational Climate Design — Applied Guide]]
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Project-Based Learning]]
 - [[Reinhard Pekrun]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory — Foundational Report]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[Self-Efficacy]]
 - [[Self-Regulation]]
 - [[Sports Psychology]]
@@ -548,51 +548,51 @@ extraction_summary:
 | 1 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Why the Goals We Pursue Define How We... | 255 |
 | 2 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Why the Goals We Pursue Define How We... | 257 |
 | 3 | [[Educational-Psychology|Educational Psychology]] | — | — | Why the Goals We Pursue Define How We... | 257 |
-| 4 | [[Motivational Psychology]] | — | — | Why the Goals We Pursue Define How We... | 257 |
-| 5 | [[John G. Nicholls]] | — | — | Why the Goals We Pursue Define How We... | 257 |
-| 6 | [[Carol Ames]] | — | — | Why the Goals We Pursue Define How We... | 257 |
-| 7 | [[Carol S. Dweck]] | — | — | Why the Goals We Pursue Define How We... | 257 |
+| 4 | [[Motivational-Psychology|Motivational Psychology]] | — | — | Why the Goals We Pursue Define How We... | 257 |
+| 5 | [[John-G.-Nicholls|John G. Nicholls]] | — | — | Why the Goals We Pursue Define How We... | 257 |
+| 6 | [[Carol-Ames|Carol Ames]] | — | — | Why the Goals We Pursue Define How We... | 257 |
+| 7 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | Why the Goals We Pursue Define How We... | 257 |
 | 8 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Scope and Reader Positioning | 266 |
 | 9 | [[Assessment-Design|Assessment Design]] | — | — | Scope and Reader Positioning | 266 |
 | 10 | [[Self-Regulation]] | — | — | Scope and Reader Positioning | 266 |
-| 11 | [[Metacognition & Motivation]] | — | — | Scope and Reader Positioning | 266 |
+| 11 | [[Metacognition-&-Motivation|Metacognition & Motivation]] | — | — | Scope and Reader Positioning | 266 |
 | 12 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Scope and Reader Positioning | 266 |
 | 13 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Why This Matters | 272 |
 | 14 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Why This Matters | 272 |
 | 15 | [[Attribution-Theory|Attribution Theory]] | — | — | Why This Matters | 272 |
 | 16 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Why This Matters | 272 |
-| 17 | [[Conceptions of Ability]] | — | — | The Central Question: What Counts as ... | 289 |
-| 18 | [[John G. Nicholls]] | — | — | The Central Question: What Counts as ... | 289 |
-| 19 | [[John G. Nicholls]] | — | — | Nicholls's Founding Distinction: Diff... | 293 |
-| 20 | [[Carol S. Dweck]] | — | — | Nicholls's Founding Distinction: Diff... | 296 |
+| 17 | [[Conceptions-of-Ability|Conceptions of Ability]] | — | — | The Central Question: What Counts as ... | 289 |
+| 18 | [[John-G.-Nicholls|John G. Nicholls]] | — | — | The Central Question: What Counts as ... | 289 |
+| 19 | [[John-G.-Nicholls|John G. Nicholls]] | — | — | Nicholls's Founding Distinction: Diff... | 293 |
+| 20 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | Nicholls's Founding Distinction: Diff... | 296 |
 | 21 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Nicholls's Founding Distinction: Diff... | 296 |
-| 22 | [[Carol S. Dweck]] | — | — | Nicholls's Founding Distinction: Diff... | 299 |
+| 22 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | Nicholls's Founding Distinction: Diff... | 299 |
 | 23 | [[Fixed-Mindset|Fixed Mindset]] | — | — | Nicholls's Founding Distinction: Diff... | 299 |
 | 24 | [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] | — | — | Nicholls's Founding Distinction: Diff... | 299 |
-| 25 | [[Carol Ames]] | — | — | Ames's Contribution: Mastery and Perf... | 318 |
+| 25 | [[Carol-Ames|Carol Ames]] | — | — | Ames's Contribution: Mastery and Perf... | 318 |
 | 26 | [[Motivational-Climate|Motivational Climate]] | — | — | Ames's Contribution: Mastery and Perf... | 326 |
 | 27 | [[Attribution-Theory|Attribution Theory]] | — | — | The Intellectual Genealogy | 330 |
-| 28 | [[Bernard Weiner]] | — | — | The Intellectual Genealogy | 330 |
+| 28 | [[Bernard-Weiner|Bernard Weiner]] | — | — | The Intellectual Genealogy | 330 |
 | 29 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Intellectual Genealogy | 330 |
-| 30 | [[Edward Deci]] | — | — | The Intellectual Genealogy | 330 |
-| 31 | [[Richard Ryan]] | — | — | The Intellectual Genealogy | 330 |
+| 30 | [[Edward-Deci|Edward Deci]] | — | — | The Intellectual Genealogy | 330 |
+| 31 | [[Richard-Ryan|Richard Ryan]] | — | — | The Intellectual Genealogy | 330 |
 | 32 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Intellectual Genealogy | 330 |
-| 33 | [[Carol S. Dweck]] | — | — | The Intellectual Genealogy | 330 |
+| 33 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | The Intellectual Genealogy | 330 |
 | 34 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | The Intellectual Genealogy | 330 |
-| 35 | [[Andrew J. Elliot]] | — | — | The Trichotomous Model | 352 |
+| 35 | [[Andrew-J.-Elliot|Andrew J. Elliot]] | — | — | The Trichotomous Model | 352 |
 | 36 | [[Judith Harackiewicz]] | — | — | The Trichotomous Model | 352 |
-| 37 | [[Andrew J. Elliot]] | — | — | The 2×2 Framework | 364 |
+| 37 | [[Andrew-J.-Elliot|Andrew J. Elliot]] | — | — | The 2×2 Framework | 364 |
 | 38 | [[Marcy Church]] | — | — | The 2×2 Framework | 364 |
-| 39 | [[Andrew J. Elliot]] | — | — | The 3×2 Model and Beyond | 385 |
+| 39 | [[Andrew-J.-Elliot|Andrew J. Elliot]] | — | — | The 3×2 Model and Beyond | 385 |
 | 40 | [[Kenji Murayama]] | — | — | The 3×2 Model and Beyond | 385 |
 | 41 | [[Reinhard Pekrun]] | — | — | The 3×2 Model and Beyond | 385 |
-| 42 | [[Carol Ames]] | — | — | Ames's Motivational Climate Theory | 392 |
+| 42 | [[Carol-Ames|Carol Ames]] | — | — | Ames's Motivational Climate Theory | 392 |
 | 43 | [[Educational-Psychology|Educational Psychology]] | — | — | Ames's Motivational Climate Theory | 397 |
 | 44 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Ames's Motivational Climate Theory | 397 |
 | 45 | [[Assessment-Design|Assessment Design]] | — | — | Ames's Motivational Climate Theory | 397 |
-| 46 | [[Ames and Archer]] | — | — | Mechanism 2: Attention Allocation and... | 430 |
-| 47 | [[Carol S. Dweck]] | — | — | Mechanism 3: The Response to Failure ... | 436 |
-| 48 | [[Carol Ames]] | — | — | Mechanism 4: Motivational Climate and... | 445 |
+| 46 | [[Ames-and-Archer|Ames and Archer]] | — | — | Mechanism 2: Attention Allocation and... | 430 |
+| 47 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | Mechanism 3: The Response to Failure ... | 436 |
+| 48 | [[Carol-Ames|Carol Ames]] | — | — | Mechanism 4: Motivational Climate and... | 445 |
 | 49 | [[Motivational-Climate|Motivational Climate]] | — | — | Mechanism 4: Motivational Climate and... | 445 |
 | 50 | [[Self-Efficacy]] | — | — | Mechanism 5: Interaction with Compete... | 456 |
 | 51 | [[Metacognition]] | — | — | Mechanism 5: Interaction with Compete... | 461 |
@@ -600,19 +600,19 @@ extraction_summary:
 | 53 | [[Educational-Psychology|Educational Psychology]] | — | — | Applications in Educational and Instr... | 469 |
 | 54 | [[Sports Psychology]] | — | — | Applications in Sports, Workplace, an... | 485 |
 | 55 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | The "So What?": What This Understandi... | 534 |
-| 56 | [[Metacognition & Motivation]] | — | — | The "So What?": What This Understandi... | 536 |
+| 56 | [[Metacognition-&-Motivation|Metacognition & Motivation]] | — | — | The "So What?": What This Understandi... | 536 |
 | 57 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | The "So What?": What This Understandi... | 538 |
-| 58 | [[Metacognition & Critical Thinking]] | — | — | The "So What?": What This Understandi... | 540 |
+| 58 | [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]] | — | — | The "So What?": What This Understandi... | 540 |
 | 59 | [[Schema-Theory|Schema Theory]] | — | — | The "So What?": What This Understandi... | 542 |
-| 60 | [[Critical Thinking in Education]] | — | — | The "So What?": What This Understandi... | 544 |
-| 61 | [[Self-Determination Theory — Foundational Report]] | — | — | D. Expansion Topics | 630 |
+| 60 | [[Critical-Thinking-in-Education|Critical Thinking in Education]] | — | — | The "So What?": What This Understandi... | 544 |
+| 61 | [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] | — | — | D. Expansion Topics | 630 |
 | 62 | [[Motivational Climate Design — Applied Guide]] | — | — | D. Expansion Topics | 633 |
 | 63 | [[Universal Design for Learning]] | — | — | D. Expansion Topics | 634 |
 | 64 | [[Formative-Assessment|Formative Assessment]] | — | — | D. Expansion Topics | 634 |
 | 65 | [[Project-Based Learning]] | — | — | D. Expansion Topics | 634 |
 | 66 | [[Implicit Theories of Intelligence & Growth Mindset — Foundational Report]] | — | — | D. Expansion Topics | 636 |
-| 67 | [[Achievement Emotions — Pekrun's Control-Value Theory]] | — | — | D. Expansion Topics | 639 |
-| 68 | [[Assessment Design & Goal Orientation]] | — | — | D. Expansion Topics | 642 |
+| 67 | [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory|Achievement Emotions — Pekrun's Control-Value Theory]] | — | — | D. Expansion Topics | 639 |
+| 68 | [[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]] | — | — | D. Expansion Topics | 642 |
 | 69 | [[Epistemic Curiosity and the Intrinsic Pleasures of Inquiry]] | — | — | D. Expansion Topics | 645 |
 | 70 | [[Flow]] | — | — | D. Expansion Topics | 646 |
 
@@ -625,20 +625,20 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Achievement Emotions — Pekrun's Control-Value Theory]]
+- [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory|Achievement Emotions — Pekrun's Control-Value Theory]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Ames and Archer]]
-- [[Andrew J. Elliot]]
+- [[Ames-and-Archer|Ames and Archer]]
+- [[Andrew-J.-Elliot|Andrew J. Elliot]]
 - [[Assessment-Design|Assessment Design]]
-- [[Assessment Design & Goal Orientation]]
+- [[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Bernard Weiner]]
-- [[Carol Ames]]
-- [[Carol S. Dweck]]
-- [[Conceptions of Ability]]
-- [[Critical Thinking in Education]]
+- [[Bernard-Weiner|Bernard Weiner]]
+- [[Carol-Ames|Carol Ames]]
+- [[Carol-S.-Dweck|Carol S. Dweck]]
+- [[Conceptions-of-Ability|Conceptions of Ability]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
 - [[Epistemic Curiosity and the Intrinsic Pleasures of Inquiry]]
 - [[Fixed-Mindset|Fixed Mindset]]
@@ -649,22 +649,22 @@ extraction_summary:
 - [[Implicit Theories of Intelligence & Growth Mindset — Foundational Report]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[John G. Nicholls]]
+- [[John-G.-Nicholls|John G. Nicholls]]
 - [[Judith Harackiewicz]]
 - [[Kenji Murayama]]
 - [[Marcy Church]]
 - [[Metacognition]]
-- [[Metacognition & Critical Thinking]]
-- [[Metacognition & Motivation]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Motivational-Climate|Motivational Climate]]
 - [[Motivational Climate Design — Applied Guide]]
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 - [[Project-Based Learning]]
 - [[Reinhard Pekrun]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Determination Theory — Foundational Report]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[Self-Efficacy]]
 - [[Self-Regulation]]
 - [[Sports Psychology]]
@@ -675,14 +675,14 @@ extraction_summary:
 #### Prerequisites
 
 - [[Motivation — Foundational Concepts]]
-- [[Self-Efficacy Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Attribution-Theory|Attribution Theory]]
 
 #### Related
 
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Metacognition & Motivation]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Schema-Theory|Schema Theory]]
@@ -693,18 +693,18 @@ extraction_summary:
 
 - [[Achievement Motivation]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Motivational Psychology]]
+- [[Motivational-Psychology|Motivational Psychology]]
 
 #### Narrower
 
 - [[Mastery-Approach Goals]]
 - [[Performance-Avoidance Goals]]
-- [[Motivational Climate Design]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
 - [[3×2 Goal Framework]]
 
 #### See Also
 
-- [[Expectancy-Value Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Self-Worth Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 
@@ -712,7 +712,7 @@ extraction_summary:
 
 - [[Drive Theory of Motivation]]
 - [[Behaviourist Reinforcement Models]]
-- [[Flow Theory]]
+- [[Flow-Theory|Flow Theory]]
 
 #### Applied In
 
@@ -725,13 +725,13 @@ extraction_summary:
 #### Builds On
 
 - [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy Theory]]
-- [[Intrinsic vs. Extrinsic Motivation]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Intrinsic-vs.-Extrinsic-Motivation|Intrinsic vs. Extrinsic Motivation]]
 
 #### Enables
 
-- [[Motivational Climate Design]]
-- [[Adaptive Instruction]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
 - [[Metacognitive Strategy Instruction]]
 - [[Assessment for Learning]]
 

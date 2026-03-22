@@ -172,7 +172,7 @@ aliases: [Stoic Reflection Practice, Daily Stoic Journaling, Stoic Self-Examinat
 > - **Scope**: Exhaustive coverage of ancient and modern Stoic journaling practices
 
 > [!abstract] Executive Overview
-> **Stoic Daily Journaling** represents a systematic practice of written self-examination rooted in ancient Greco-Roman philosophy, designed to cultivate [[Virtue]], develop [[Metacognitive Awareness]], and achieve psychological resilience through structured reflection on one's thoughts, actions, and alignment with [[Stoic Philosophy]]. This practice bridges 2,000 years of philosophical tradition with contemporary [[Cognitive Science]], offering an evidence-based methodology for [[Behavioral Change]], [[Epistemic Refinement]], and sustained [[Psychological Well-Being]].
+> **Stoic Daily Journaling** represents a systematic practice of written self-examination rooted in ancient Greco-Roman philosophy, designed to cultivate [[Virtue]], develop [[metacognitive-awareness]], and achieve psychological resilience through structured reflection on one's thoughts, actions, and alignment with [[Stoic-Philosophy]]. This practice bridges 2,000 years of philosophical tradition with contemporary [[Cognitive-Science]], offering an evidence-based methodology for [[Behavioral Change]], [[Epistemic Refinement]], and sustained [[psychological-well-being]].
 
 > [!how-to-use-this] Navigation Guide
 > This reference note is organized into 12 comprehensive sections covering historical foundations, psychological mechanisms, practical frameworks, and implementation strategies. Use the table of contents for quick navigation, or search for specific concepts using wiki-links. The note integrates ancient wisdom with modern research to provide actionable guidance for establishing an effective Stoic journaling practice.
@@ -196,19 +196,19 @@ aliases: [Stoic Reflection Practice, Daily Stoic Journaling, Stoic Self-Examinat
 ## 1. 📜 Philosophical Foundations & Historical Context
 
 > [!definition]
-> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
+> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
 
 ### The Ancient Lineage
 
 [[Stoic Daily Journaling]] represents one of humanity's oldest documented psychological self-regulation practices, with evidence spanning from the 3rd century BCE through the 2nd century CE. The practice emerged from a philosophical tradition that viewed [[Philosophy]] not as abstract theorizing but as a practical [[Art of Living]]—what the Stoics called *technē peri ton bion* (craft concerning life).
 
-The foundational principle, articulated most clearly by [[Epictetus]] in his *[[Enchiridion]]*, establishes the cognitive primacy that would later become central to modern psychology: "Men are disturbed not by things, but by the views which they take of things." This insight—that our [[Interpretations]] rather than [[External Events]] determine our [[Emotional Responses]]—became the philosophical bedrock for what would emerge 2,000 years later as [[Cognitive-Behavioral Therapy]].
+The foundational principle, articulated most clearly by [[Epictetus]] in his *[[Enchiridion]]*, establishes the cognitive primacy that would later become central to modern psychology: "Men are disturbed not by things, but by the views which they take of things." This insight—that our [[Interpretations]] rather than [[External Events]] determine our [[Emotional Responses]]—became the philosophical bedrock for what would emerge 2,000 years later as [[Cognitive-Behavioral-Therapy]].
 
 ### The Three Pillars: Marcus, Seneca, Epictetus
 
 The practice manifests differently across the three major Roman Stoic voices:
 
-**[[Marcus Aurelius]] (121-180 CE)** - The [[Philosopher-Emperor]]'s *[[Meditations]]*, originally titled "To Himself" (*Ta eis heauton*), represents the most complete surviving example of Stoic journaling. Written between 170-180 CE during military campaigns, these twelve books were never intended for publication but served as personal spiritual exercises—reminders designed to make him humble, patient, empathetic, generous, and strong. His practice combined [[Morning Preparation]] with ongoing reflection, creating what we would now recognize as a comprehensive [[Metacognitive Monitoring System]].
+**[[Marcus-Aurelius]] (121-180 CE)** - The [[Philosopher-Emperor]]'s *[[Meditations]]*, originally titled "To Himself" (*Ta eis heauton*), represents the most complete surviving example of Stoic journaling. Written between 170-180 CE during military campaigns, these twelve books were never intended for publication but served as personal spiritual exercises—reminders designed to make him humble, patient, empathetic, generous, and strong. His practice combined [[Morning Preparation]] with ongoing reflection, creating what we would now recognize as a comprehensive [[Metacognitive Monitoring System]].
 
 **[[Seneca the Younger]] (4 BCE-65 CE)** - The playwright and advisor to Emperor Nero documented his [[Evening Review Practice]] most explicitly. As he described: "When the light has been removed and my wife has fallen silent, aware of this habit that's now mine, I examine my entire day and go back over what I've done and said, hiding nothing from myself, passing nothing by." Seneca's approach emphasized [[Forensic Self-Analysis]]—holding oneself accountable without harsh judgment, combining rigorous examination with [[Self-Compassion]].
 
@@ -234,7 +234,7 @@ In 2020, print sales of *Meditations* increased 28%, with ebook sales rising 356
 
 > [!principle-point]
 > **Foundational Axiom**
-> The [[Dichotomy of Control]], described as "the foundation of Epictetus' Handbook," requires maintaining a clear distinction between what is up to us (our judgments, intentions, desires, aversions) and what is not (external events, others' actions, outcomes)—taking more responsibility for our own actions while accepting what merely happens to us.
+> The [[Dichotomy-of-Control]], described as "the foundation of Epictetus' Handbook," requires maintaining a clear distinction between what is up to us (our judgments, intentions, desires, aversions) and what is not (external events, others' actions, outcomes)—taking more responsibility for our own actions while accepting what merely happens to us.
 
 This distinction forms the architectural foundation of Stoic journaling. Every reflection exercise, every evening review, every morning preparation returns to this fundamental sorting operation: Which aspects of this situation fall under my reasoned choice (*prohairesis*)? Which do not? The journal becomes a training ground for internalizing this distinction until it becomes automatic [[Cognitive Habit]].
 
@@ -266,7 +266,7 @@ Stoic journaling constantly returns to four evaluative standards:
 
 ### Spiritual Exercises as Psychological Technology
 
-The Stoics conceived of their practices as *askēsis* ([[Spiritual Exercises]])—systematic training regimens for the soul analogous to athletic training for the body. French philosopher [[Pierre Hadot]] recovered this understanding in his work *Philosophy as a Way of Life*, demonstrating that ancient philosophy consisted primarily of transformative practices rather than purely theoretical doctrine.
+The Stoics conceived of their practices as *askēsis* ([[Spiritual Exercises]])—systematic training regimens for the soul analogous to athletic training for the body. French philosopher [[Pierre-Hadot]] recovered this understanding in his work *Philosophy as a Way of Life*, demonstrating that ancient philosophy consisted primarily of transformative practices rather than purely theoretical doctrine.
 
 Journaling served as the container for multiple spiritual exercises:
 - **[[Prosoche]]** - Continuous attention to the present moment
@@ -280,7 +280,7 @@ Journaling served as the container for multiple spiritual exercises:
 
 The act of converting [[Internal Experience]] into [[Written Language]] creates multiple psychological effects:
 
-1. **[[Cognitive Offloading]]** - Transferring working memory burden to external medium
+1. **[[Cognitive-Offloading]]** - Transferring working memory burden to external medium
 2. **[[Linguistic Crystallization]]** - Forcing vague feelings into precise language
 3. **[[Temporal Distance]]** - Creating psychological space between experience and examination
 4. **[[Perspective Shift]]** - Moving from first-person participant to third-person observer
@@ -296,7 +296,7 @@ The act of converting [[Internal Experience]] into [[Written Language]] creates 
 
 ### The Metacognitive Foundation
 
-Modern [[Cognitive Science]] provides empirical validation for mechanisms the Stoics intuited. Research demonstrates that semi-structured reflective journaling effectively nurtures perceptions of regulation of cognition, with prompting questions enabling students to perceive themselves as [[Self-Regulated Learners]]. The Stoic practice essentially creates a [[Metacognitive Scaffold]]—a structured environment for thinking about thinking.
+Modern [[Cognitive-Science]] provides empirical validation for mechanisms the Stoics intuited. Research demonstrates that semi-structured reflective journaling effectively nurtures perceptions of regulation of cognition, with prompting questions enabling students to perceive themselves as [[Self-Regulated Learners]]. The Stoic practice essentially creates a [[Metacognitive Scaffold]]—a structured environment for thinking about thinking.
 
 **Metacognition** comprises two primary components:
 1. **Knowledge of Cognition** - Awareness of one's cognitive processes, strategies, and abilities
@@ -306,7 +306,7 @@ Studies using the [[Metacognitive Awareness Inventory]] (MAI) in 13-week interve
 
 ### The CBT Connection: Philosophical Origins
 
-Both Albert Ellis (founder of [[Rational Emotive Behavior Therapy]] - REBT) and Aaron Beck (founder of [[Cognitive-Behavioral Therapy]] - CBT) explicitly acknowledged Stoicism as the philosophical precursor of their treatment approaches. Ellis proudly claimed to have "brought Epictetus out of near-obscurity and made him famous all over again" in the 1950s, while Beck opened his first book on cognitive therapy by acknowledging that "the philosophical underpinnings go back thousands of years, certainly to the time of the Stoics."
+Both Albert Ellis (founder of [[Rational Emotive Behavior Therapy]] - REBT) and Aaron Beck (founder of [[Cognitive-Behavioral-Therapy]] - CBT) explicitly acknowledged Stoicism as the philosophical precursor of their treatment approaches. Ellis proudly claimed to have "brought Epictetus out of near-obscurity and made him famous all over again" in the 1950s, while Beck opened his first book on cognitive therapy by acknowledging that "the philosophical underpinnings go back thousands of years, certainly to the time of the Stoics."
 
 The parallel mechanisms are striking:
 
@@ -315,7 +315,7 @@ The parallel mechanisms are striking:
 | Separating judgments from events | [[Cognitive Restructuring]] | Identifying [[Automatic Thoughts]] |
 | Examining [[Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
 | Evening review | [[Thought Records]] | Documenting triggers and responses |
-| [[Dichotomy of Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
+| [[Dichotomy-of-Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
 | [[Premeditatio-Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
 | [[Virtue]] cultivation | [[Values Clarification]] | Aligning behavior with principles |
 
@@ -350,7 +350,7 @@ The repetitive nature of daily examination creates [[Automaticity]]—what the S
 
 ### Working Memory and Cognitive Load
 
-In clinical studies, journaling promotes self-introspection, reflection, and change in perceptions, behaviors, and cognitions, similar to its use in academia for acquiring and transferring cognitive and metacognitive skills. The mechanism involves [[Cognitive Offloading]]—transferring the burden of maintaining complex information from limited [[Working Memory]] (approximately 7±2 items) to external storage.
+In clinical studies, journaling promotes self-introspection, reflection, and change in perceptions, behaviors, and cognitions, similar to its use in academia for acquiring and transferring cognitive and metacognitive skills. The mechanism involves [[Cognitive-Offloading]]—transferring the burden of maintaining complex information from limited [[Working-Memory]] (approximately 7±2 items) to external storage.
 
 When wrestling with complex situations internally, working memory must simultaneously:
 - Hold details of the situation
@@ -458,7 +458,7 @@ The original Pythagorean purpose included [[Memory Enhancement]] through systema
 1. **Mnemonic Function**: Strengthens episodic memory through rehearsal
 2. **Pattern Recognition**: Reveals behavioral patterns through accumulated review
 
-Modern understanding of [[Memory Consolidation]] confirms this approach—reviewing events before sleep enhances [[Hippocampal]] encoding, particularly when combined with emotional reflection that strengthens [[Amygdalar]] enhancement of memory.
+Modern understanding of [[Memory-Consolidation]] confirms this approach—reviewing events before sleep enhances [[Hippocampal]] encoding, particularly when combined with emotional reflection that strengthens [[Amygdalar]] enhancement of memory.
 
 ### The Discipline of Assent
 
@@ -572,13 +572,13 @@ Many practitioners use:
 
 **CBT Integration**
 - Use Stoic evening review as [[Thought Record]]
-- Apply [[Socratic Questioning]] to examine judgments
+- Apply [[Socratic-Questioning]] to examine judgments
 - Identify [[Cognitive Distortions]] through Stoic lens:
   - Catastrophizing = Failing to apply dichotomy of control
   - Should statements = Demanding universe conform to preferences
   - Emotional reasoning = Confusing feelings with judgments about reality
 
-**ACT Integration** ([[Acceptance and Commitment Therapy]])
+**ACT Integration** ([[Acceptance-and-Commitment-Therapy]])
 - Use Stoic framework for [[Values Clarification]]
 - Practice [[Cognitive Defusion]] through judgment examination
 - Develop [[Psychological Flexibility]] via dichotomy of control
@@ -1262,7 +1262,7 @@ Create [[QuickAdd]] macro for instant evening reflection:
 
 From daily note to concepts:
 ```markdown
-Today I struggled with [[Anger]], forgetting the [[Dichotomy of Control]]. 
+Today I struggled with [[Anger]], forgetting the [[Dichotomy-of-Control]]. 
 Seneca's advice in [[Letter 47]] proved relevant.
 ```
 
@@ -1915,7 +1915,7 @@ For significant challenges, write three separate analyses:
 
 ### Socratic Self-Dialogue
 
-**Concept**: Use [[Socratic Questioning]] on yourself—dialectical examination of beliefs through written dialogue.
+**Concept**: Use [[Socratic-Questioning]] on yourself—dialectical examination of beliefs through written dialogue.
 
 Socratic Questioning was used to undermine irrational assumptions about virtue by exposing contradictions in thinking, compared to cross-examination in a trial, though done tactfully and with compassion.
 
@@ -2229,9 +2229,9 @@ Effective Stoic journaling rests on three interdependent pillars:
 **1. Philosophical Grounding**
 
 The practice requires understanding:
-- [[Dichotomy of Control]] - Fundamental sorting of controllables/uncontrollables
+- [[Dichotomy-of-Control]] - Fundamental sorting of controllables/uncontrollables
 - [[Cognitive Primacy]] - Judgments create emotions, not events
-- [[Virtue Ethics]] - Excellence of character as ultimate good
+- [[Virtue-Ethics]] - Excellence of character as ultimate good
 - [[Cosmopolitanism]] - Interconnection with humanity
 - [[Memento Mori]] - Mortality awareness for perspective
 
@@ -2240,8 +2240,8 @@ Without philosophical foundation, journaling becomes mere emotion logging. The f
 **2. Psychological Mechanism**
 
 The practice leverages:
-- [[Metacognitive Awareness]] - Thinking about thinking
-- [[Cognitive Offloading]] - Externalizing working memory burden
+- [[metacognitive-awareness]] - Thinking about thinking
+- [[Cognitive-Offloading]] - Externalizing working memory burden
 - [[Structured Prompts]] - Guiding effective reflection
 - [[Pattern Recognition]] - Identifying recurring behavioral themes
 - [[Neuroplastic Change]] - Reshaping neural architecture through repetition
@@ -2452,7 +2452,7 @@ Returning to foundational questions:
 - To live examined life worth living
 
 **What makes it distinctively Stoic?**
-- Emphasis on [[Dichotomy of Control]]
+- Emphasis on [[Dichotomy-of-Control]]
 - [[Virtue]] as evaluative framework
 - [[Cognitive]] rather than behavioral focus
 - [[Universal Reason]] as highest good

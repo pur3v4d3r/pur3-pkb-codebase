@@ -268,7 +268,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **New Connections for PKB Expansion**
 > 
->   * [[The Generation Effect]]
+>   * [[The-Generation-Effect|The Generation Effect]]
 >   * [[Distributed-Cognition|Distributed Cognition]]
 >   * [[Graph Theory in Learning]]
 >   * [[Epistemic Scaffolding]]
@@ -350,7 +350,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sense-Making]]
 - [[Systems Theory]]
-- [[The Generation Effect]]
+- [[The-Generation-Effect|The Generation Effect]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
@@ -399,7 +399,7 @@ extraction_summary:
 | 40 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 4.2. Emergent Insights & Connections | 149 |
 | 41 | [[Network Science]] | — | — | 5.1. A New, Multi-Dimensional Definition | 166 |
 | 42 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 5.1. A New, Multi-Dimensional Definition | 166 |
-| 43 | [[The Generation Effect]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 189 |
+| 43 | [[The-Generation-Effect|The Generation Effect]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 189 |
 | 44 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 190 |
 | 45 | [[Graph Theory in Learning]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 191 |
 | 46 | [[Epistemic Scaffolding]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 192 |
@@ -504,7 +504,7 @@ $$
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sense-Making]]
 - [[Systems Theory]]
-- [[The Generation Effect]]
+- [[The-Generation-Effect|The Generation Effect]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ---

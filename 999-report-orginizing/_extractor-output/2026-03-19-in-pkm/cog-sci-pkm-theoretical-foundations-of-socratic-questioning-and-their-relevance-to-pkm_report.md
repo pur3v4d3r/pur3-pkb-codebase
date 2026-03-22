@@ -125,7 +125,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 9)*
 
 > [!abstract] Untitled
-> This exposition provides a comprehensive scholarly treatment of [[Socratic Questioning]] as a philosophical method, an epistemological framework, and a practical cognitive architecture—with particular emphasis on its theoretical relevance to [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) system design. The method originated in the dialogues of ancient Athens and has evolved through more than two millennia of philosophical, pedagogical, and psychological refinement into one of the most rigorously documented approaches to the cultivation of critical thought. What begins as a historical inquiry into the teachings of Socrates quickly reveals itself to be a profoundly operational framework: one whose core mechanisms—the structured exposure of hidden assumptions, the productive cultivation of uncertainty, and the dialectical generation of understanding from within the learner—map with striking precision onto the epistemic demands of effective personal knowledge work.
+> This exposition provides a comprehensive scholarly treatment of [[Socratic-Questioning|Socratic Questioning]] as a philosophical method, an epistemological framework, and a practical cognitive architecture—with particular emphasis on its theoretical relevance to [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) system design. The method originated in the dialogues of ancient Athens and has evolved through more than two millennia of philosophical, pedagogical, and psychological refinement into one of the most rigorously documented approaches to the cultivation of critical thought. What begins as a historical inquiry into the teachings of Socrates quickly reveals itself to be a profoundly operational framework: one whose core mechanisms—the structured exposure of hidden assumptions, the productive cultivation of uncertainty, and the dialectical generation of understanding from within the learner—map with striking precision onto the epistemic demands of effective personal knowledge work.
 > 
 > This document is organized across eight phases. The first establishes the "why" and "what" of Socratic questioning, positioning it within the landscape of 21st-century information overload and the PKM practitioner's daily challenge of transforming consumed content into genuine understanding. Subsequent phases trace the method's historical lineage from classical Athens through Scholasticism, the Enlightenment, and contemporary cognitive science, before developing a rigorous account of its theoretical architecture and operational mechanisms. The final phases turn decisively toward application: how Socratic principles can be engineered into PKM workflows, template design, and note-taking practice to produce systems that do not merely *store* knowledge but actively *interrogate* it.
 
@@ -137,7 +137,7 @@ extraction_summary:
 #### 3. [DEFINITION] Untitled *(Line 23)*
 
 > [!definition] Untitled
-> **Socratic Questioning** is a disciplined method of inquiry employing structured, open-ended questions to expose hidden assumptions, reveal logical inconsistencies, clarify conceptual boundaries, and guide an interlocutor (or oneself) toward deeper understanding through the process of [[dialectic]] dialogue. It is distinguished from ordinary questioning by its systematic character, its commitment to intellectual humility on the part of the questioner, and its ultimate aim: not the transmission of pre-formulated answers, but the collaborative or self-directed *discovery* of understanding. What Socratic questioning is *not* is a rhetorical device for winning arguments, a pedagogical instrument for humiliating students, or a superficial technique of "asking open-ended questions." Its theoretical depth, properly recovered, runs far deeper than any of these popular mischaracterizations suggest.
+> **Socratic Questioning** is a disciplined method of inquiry employing structured, open-ended questions to expose hidden assumptions, reveal logical inconsistencies, clarify conceptual boundaries, and guide an interlocutor (or oneself) toward deeper understanding through the process of [[Dialectic]] dialogue. It is distinguished from ordinary questioning by its systematic character, its commitment to intellectual humility on the part of the questioner, and its ultimate aim: not the transmission of pre-formulated answers, but the collaborative or self-directed *discovery* of understanding. What Socratic questioning is *not* is a rhetorical device for winning arguments, a pedagogical instrument for humiliating students, or a superficial technique of "asking open-ended questions." Its theoretical depth, properly recovered, runs far deeper than any of these popular mischaracterizations suggest.
 
 #### 4. [CORE-PRINCIPLE] Untitled *(Line 26)*
 
@@ -191,7 +191,7 @@ extraction_summary:
 #### 13. [EVIDENCE] Untitled *(Line 115)*
 
 > [!evidence] Untitled
-> The most concentrated body of empirical research on Socratic questioning comes from educational psychology. A systematic review by [[Philippou and Christianides]] synthesizing research across multiple decades found consistent positive associations between Socratic questioning techniques and higher-order thinking skills as measured by [[Bloom's Taxonomy]] performance assessments—specifically, improvements in the analysis, synthesis, and evaluation domains compared to didactic instructional controls. The effect sizes were moderate to large ($d = 0.4\text{–}0.8$ across studies), though the heterogeneity of measurement instruments limits precise generalization.
+> The most concentrated body of empirical research on Socratic questioning comes from educational psychology. A systematic review by [[Philippou and Christianides]] synthesizing research across multiple decades found consistent positive associations between Socratic questioning techniques and higher-order thinking skills as measured by [[Bloom's-Taxonomy|Bloom's Taxonomy]] performance assessments—specifically, improvements in the analysis, synthesis, and evaluation domains compared to didactic instructional controls. The effect sizes were moderate to large ($d = 0.4\text{–}0.8$ across studies), though the heterogeneity of measurement instruments limits precise generalization.
 
 #### 14. [ARGUMENT] Untitled *(Line 120)*
 
@@ -231,7 +231,7 @@ extraction_summary:
 #### 21. [INSIGHT] Untitled *(Line 171)*
 
 > [!insight] Untitled
-> A particularly exciting frontier lies in the connection between Socratic questioning and [[Knowledge Graph]] theory within digital PKM environments. Contemporary tools—[[Obsidian]], [[Roam Research]], [[Logseq]]—represent knowledge as graphs of linked atomic notes. Each Socratic questioning episode, properly captured, adds new nodes (questions, objections, implications) and new edges (logical relationships, evidential dependencies, conceptual tensions) to this graph. A fully developed Socratic PKM system would therefore *grow the knowledge graph through interrogation*, with Socratic questioning serving as the primary mechanism of graph densification. The richness and connectivity of the resulting graph—measurable through graph-theoretic metrics like centrality, clustering coefficient, and path length—would serve as a proxy measure of the depth of understanding encoded in the vault.
+> A particularly exciting frontier lies in the connection between Socratic questioning and [[Knowledge-Graph|Knowledge Graph]] theory within digital PKM environments. Contemporary tools—[[Obsidian]], [[Roam Research]], [[Logseq]]—represent knowledge as graphs of linked atomic notes. Each Socratic questioning episode, properly captured, adds new nodes (questions, objections, implications) and new edges (logical relationships, evidential dependencies, conceptual tensions) to this graph. A fully developed Socratic PKM system would therefore *grow the knowledge graph through interrogation*, with Socratic questioning serving as the primary mechanism of graph densification. The richness and connectivity of the resulting graph—measurable through graph-theoretic metrics like centrality, clustering coefficient, and path length—would serve as a proxy measure of the depth of understanding encoded in the vault.
 
 #### 22. [SUMMARY] Untitled *(Line 180)*
 
@@ -243,7 +243,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Cross-connections within this knowledge vault:**
 > 
-> This note connects centrally to [[Metacognition and Knowledge Management]], as the metacognitive monitoring that Socratic questioning cultivates is the same capacity examined in that domain. The connection to [[Cognitive-Load-Theory|Cognitive Load Theory]] manifests through the template scaffolding application: properly designed Socratic prompts reduce extraneous load while increasing germane load, a direct operationalization of CLT principles. The link to [[John Dewey's Reflective Inquiry]] is genealogical: Dewey's entire educational philosophy is a pragmatist reconstruction of the Socratic insight. The relationship to [[Critical Thinking Frameworks]] (Paul & Elder, PENCRISAL) is taxonomic: those frameworks represent the most rigorous contemporary systematizations of Socratic question types. The connection to [[Extended Thinking Architecture]] within this vault's LLM reasoning documents is particularly rich: extended thinking protocols are, functionally, Socratic questioning applied to the model's own reasoning process—the model interrogating its own emerging conclusions through structured metacognitive review.
+> This note connects centrally to [[Metacognition and Knowledge Management]], as the metacognitive monitoring that Socratic questioning cultivates is the same capacity examined in that domain. The connection to [[Cognitive-Load-Theory|Cognitive Load Theory]] manifests through the template scaffolding application: properly designed Socratic prompts reduce extraneous load while increasing germane load, a direct operationalization of CLT principles. The link to [[John Dewey's Reflective Inquiry]] is genealogical: Dewey's entire educational philosophy is a pragmatist reconstruction of the Socratic insight. The relationship to [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]] (Paul & Elder, PENCRISAL) is taxonomic: those frameworks represent the most rigorous contemporary systematizations of Socratic question types. The connection to [[Extended-Thinking-Architecture|Extended Thinking Architecture]] within this vault's LLM reasoning documents is particularly rich: extended thinking protocols are, functionally, Socratic questioning applied to the model's own reasoning process—the model interrogating its own emerging conclusions through structured metacognitive review.
 
 #### 24. [FURTHER-EXPLORATION] Untitled *(Line 188)*
 
@@ -337,41 +337,41 @@ extraction_summary:
 ### Unique Targets
 
 - [[AI Socratic Partners — Design Principles for LLM-Assisted Knowledge Interrogation]]
-- [[Adaptive Instruction]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
 - [[Aporia]]
 - [[Aporia Engineering in PKM — Productive Confusion as Design Principle]]
 - [[Aristophanes]]
 - [[Aristotle]]
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Assumption Hunting]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Building a Second Brain]]
-- [[California Critical Thinking Dispositions Inventory]]
-- [[California Critical Thinking Skills Test]]
-- [[Cognitive Behavioral Therapy]]
+- [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive Dissonance]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Dewey]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Elizabeth Krumrei-Mancuso]]
 - [[Epistemic-Humility|Epistemic Humility]]
 - [[Evergreen Notes]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Foundation for Critical Thinking]]
-- [[Gregory Vlastos]]
+- [[Gregory-Vlastos|Gregory Vlastos]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual Humility as a PKM Disposition — Measuring and Cultivating the Socratic Stance]]
 - [[John Dewey's Reflective Inquiry]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Large Language Model]]
 - [[Learning Engineering]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logseq]]
 - [[Maieutics]]
-- [[Manu Kapur]]
+- [[Manu-Kapur|Manu Kapur]]
 - [[Mark Leary]]
 - [[Mark McDaniel]]
 - [[Metacognition]]
@@ -391,10 +391,10 @@ extraction_summary:
 - [[Pressley et al.]]
 - [[Productive-Failure|Productive Failure]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
-- [[Richard Paul]]
+- [[Richard-Paul|Richard Paul]]
 - [[Roam Research]]
 - [[Socrates]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Socratic Templates for Evergreen Note Design]]
 - [[Sophists]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
@@ -405,17 +405,17 @@ extraction_summary:
 - [[Vygotsky]]
 - [[Xenophon]]
 - [[Zettelkasten]]
-- [[dialectic]]
+- [[Dialectic]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Socratic Questioning]] | — | — | 🏛️ Theoretical Foundations of Socrati... | 10 |
+| 1 | [[Socratic-Questioning|Socratic Questioning]] | — | — | 🏛️ Theoretical Foundations of Socrati... | 10 |
 | 2 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🏛️ Theoretical Foundations of Socrati... | 10 |
 | 3 | [[PKM]] | — | — | 🎯 Phase 1: Overture & Foundation — Th... | 19 |
-| 4 | [[Socratic Questioning]] | — | — | 🎯 Phase 1: Overture & Foundation — Th... | 21 |
-| 5 | [[dialectic]] | — | — | 🎯 Phase 1: Overture & Foundation — Th... | 24 |
+| 4 | [[Socratic-Questioning|Socratic Questioning]] | — | — | 🎯 Phase 1: Overture & Foundation — Th... | 21 |
+| 5 | [[Dialectic]] | — | — | 🎯 Phase 1: Overture & Foundation — Th... | 24 |
 | 6 | [[Maieutics]] | — | — | 🎯 Phase 1: Overture & Foundation — Th... | 27 |
 | 7 | [[Socrates]] | — | — | 📜 Phase 2: Historical Foundations — W... | 33 |
 | 8 | [[Plato]] | — | — | 📜 Phase 2: Historical Foundations — W... | 33 |
@@ -423,10 +423,10 @@ extraction_summary:
 | 10 | [[Aristophanes]] | — | — | 📜 Phase 2: Historical Foundations — W... | 33 |
 | 11 | [[Sophists]] | — | — | 📜 Phase 2: Historical Foundations — W... | 35 |
 | 12 | [[Aristotle]] | — | — | 📜 Phase 2: Historical Foundations — W... | 46 |
-| 13 | [[Gregory Vlastos]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
+| 13 | [[Gregory-Vlastos|Gregory Vlastos]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
 | 14 | [[Platonic Studies]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
-| 15 | [[Richard Paul]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
-| 16 | [[Linda Elder]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
+| 15 | [[Richard-Paul|Richard Paul]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
+| 16 | [[Linda-Elder|Linda Elder]] | — | — | 📜 Phase 2: Historical Foundations — W... | 50 |
 | 17 | [[Epistemic-Humility|Epistemic Humility]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 61 |
 | 18 | [[Aporia]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 65 |
 | 19 | [[Productive-Failure|Productive Failure]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 65 |
@@ -448,14 +448,14 @@ extraction_summary:
 | 35 | [[Niklas Luhmann]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 104 |
 | 36 | [[Zettelkasten]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 104 |
 | 37 | [[Philippou and Christianides]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 116 |
-| 38 | [[Bloom's Taxonomy]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 116 |
-| 39 | [[Cognitive Behavioral Therapy]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 118 |
+| 38 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 116 |
+| 39 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 118 |
 | 40 | [[Foundation for Critical Thinking]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 123 |
 | 41 | [[Critical-Thinking|Critical Thinking]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 123 |
-| 42 | [[California Critical Thinking Skills Test]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 123 |
-| 43 | [[California Critical Thinking Dispositions Inventory]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 123 |
+| 42 | [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 123 |
+| 43 | [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 123 |
 | 44 | [[Productive-Failure|Productive Failure]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 128 |
-| 45 | [[Manu Kapur]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 128 |
+| 45 | [[Manu-Kapur|Manu Kapur]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 128 |
 | 46 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌍 Phase 6: Implications & Application... | 134 |
 | 47 | [[Building a Second Brain]] | — | — | 🌍 Phase 6: Implications & Application... | 139 |
 | 48 | [[Zettelkasten]] | — | — | 🌍 Phase 6: Implications & Application... | 139 |
@@ -478,18 +478,18 @@ extraction_summary:
 | 65 | [[Mark Leary]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 169 |
 | 66 | [[Elizabeth Krumrei-Mancuso]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 169 |
 | 67 | [[Tenelle Porter]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 169 |
-| 68 | [[Knowledge Graph]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 172 |
+| 68 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 172 |
 | 69 | [[Obsidian]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 172 |
 | 70 | [[Roam Research]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 172 |
 | 71 | [[Logseq]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 172 |
 | 72 | [[Personalized Learning]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 174 |
-| 73 | [[Adaptive Instruction]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 174 |
+| 73 | [[Adaptive-Instruction|Adaptive Instruction]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 174 |
 | 74 | [[Vygotsky]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 174 |
 | 75 | [[Metacognition and Knowledge Management]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
 | 76 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
 | 77 | [[John Dewey's Reflective Inquiry]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
-| 78 | [[Critical Thinking Frameworks]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
-| 79 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
+| 78 | [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
+| 79 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 186 |
 | 80 | [[Socratic Templates for Evergreen Note Design]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 192 |
 | 81 | [[Aporia Engineering in PKM — Productive Confusion as Design Principle]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 195 |
 | 82 | [[The Maieutic Dimension of the Zettelkasten — Niklas Luhmann as Socratic Practitioner]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 198 |
@@ -551,41 +551,41 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[AI Socratic Partners — Design Principles for LLM-Assisted Knowledge Interrogation]]
-- [[Adaptive Instruction]]
+- [[Adaptive-Instruction|Adaptive Instruction]]
 - [[Aporia]]
 - [[Aporia Engineering in PKM — Productive Confusion as Design Principle]]
 - [[Aristophanes]]
 - [[Aristotle]]
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Assumption Hunting]]
-- [[Bloom's Taxonomy]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Building a Second Brain]]
-- [[California Critical Thinking Dispositions Inventory]]
-- [[California Critical Thinking Skills Test]]
-- [[Cognitive Behavioral Therapy]]
+- [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+- [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
+- [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive Dissonance]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Dewey]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Elizabeth Krumrei-Mancuso]]
 - [[Epistemic-Humility|Epistemic Humility]]
 - [[Evergreen Notes]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Foundation for Critical Thinking]]
-- [[Gregory Vlastos]]
+- [[Gregory-Vlastos|Gregory Vlastos]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual Humility as a PKM Disposition — Measuring and Cultivating the Socratic Stance]]
 - [[John Dewey's Reflective Inquiry]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Large Language Model]]
 - [[Learning Engineering]]
-- [[Linda Elder]]
+- [[Linda-Elder|Linda Elder]]
 - [[Logseq]]
 - [[Maieutics]]
-- [[Manu Kapur]]
+- [[Manu-Kapur|Manu Kapur]]
 - [[Mark Leary]]
 - [[Mark McDaniel]]
 - [[Metacognition]]
@@ -605,10 +605,10 @@ $$
 - [[Pressley et al.]]
 - [[Productive-Failure|Productive Failure]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
-- [[Richard Paul]]
+- [[Richard-Paul|Richard Paul]]
 - [[Roam Research]]
 - [[Socrates]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning|Socratic Questioning]]
 - [[Socratic Templates for Evergreen Note Design]]
 - [[Sophists]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
@@ -619,7 +619,7 @@ $$
 - [[Vygotsky]]
 - [[Xenophon]]
 - [[Zettelkasten]]
-- [[dialectic]]
+- [[Dialectic]]
 
 ---
 

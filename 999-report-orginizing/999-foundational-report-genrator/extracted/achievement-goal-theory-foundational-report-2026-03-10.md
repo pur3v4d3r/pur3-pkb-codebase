@@ -119,13 +119,13 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Motivation — Foundational Concepts]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
   - "[[Attribution-Theory|Attribution Theory]]"
 
 related:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-  - "[[Metacognition & Motivation]]"
+  - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Schema-Theory|Schema Theory]]"
@@ -135,23 +135,23 @@ related:
 broader:
   - "[[Achievement Motivation]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Motivational Psychology]]"
+  - "[[Motivational-Psychology|Motivational Psychology]]"
 
 narrower:
   - "[[Mastery-Approach Goals]]"
   - "[[Performance-Avoidance Goals]]"
-  - "[[Motivational Climate Design]]"
+  - "[[Motivational-Climate-Design|Motivational Climate Design]]"
   - "[[3×2 Goal Framework]]"
 
 see-also:
-  - "[[Expectancy-Value Theory]]"
+  - "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]"
 
 contrasts-with:
   - "[[Drive Theory of Motivation]]"
   - "[[Behaviourist Reinforcement Models]]"
-  - "[[Flow Theory]]"
+  - "[[Flow-Theory|Flow Theory]]"
 
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
@@ -165,12 +165,12 @@ applied-in:
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Attribution-Theory|Attribution Theory]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Intrinsic vs. Extrinsic Motivation]]"
+  - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
+  - "[[Intrinsic-vs.-Extrinsic-Motivation|Intrinsic vs. Extrinsic Motivation]]"
 
 enables:
-  - "[[Motivational Climate Design]]"
-  - "[[Adaptive Instruction]]"
+  - "[[Motivational-Climate-Design|Motivational Climate Design]]"
+  - "[[Adaptive-Instruction|Adaptive Instruction]]"
   - "[[Metacognitive Strategy Instruction]]"
   - "[[Assessment for Learning]]"
 
@@ -178,7 +178,7 @@ expansion-topics:
   - topic: "[[Self-Determination-Theory|Self-Determination Theory]]"
     description: "SDT's autonomy-competence-relatedness triad complements AGT and is the dominant alternative framework for understanding intrinsic motivation in educational settings. A comparative treatment would clarify where the theories converge and diverge."
     priority: "high"
-  - topic: "[[Motivational Climate Design]]"
+  - topic: "[[Motivational-Climate-Design|Motivational Climate Design]]"
     description: "A deep dive into TARGET structures and other climate-engineering frameworks, with evidence on how instructional decisions (task design, authority, recognition, grouping, evaluation, time) shape students' goal adoption."
     priority: "high"
   - topic: "[[Implicit Theories of Intelligence & Growth Mindset]]"
@@ -187,7 +187,7 @@ expansion-topics:
   - topic: "[[Epistemic Curiosity & Intrinsic Motivation]]"
     description: "Exploration of how mastery-approach goals relate to curiosity, wonder, and the intrinsic pleasures of inquiry — connecting AGT to the broader literature on epistemic motivation."
     priority: "medium"
-  - topic: "[[Assessment Design & Goal Orientation]]"
+  - topic: "[[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]]"
     description: "How assessment practices signal goal orientation to learners, with particular attention to formative assessment, feedback language, grading practices, and the performative effects of testing regimes."
     priority: "high"
   - topic: "[[Achievement Emotions (Pekrun's Control-Value Theory)]]"
@@ -240,7 +240,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
 generation-date: "2026-03-10"
 ---
 
@@ -254,7 +254,7 @@ generation-date: "2026-03-10"
 
 Consider two students preparing for the same difficult examination. The first approaches the material with a question that quietly organises all her studying: *How much can I actually learn here? What will I understand that I didn't understand before?* The second student is preoccupied with a different question: *Will I do better than my classmates? Will this grade make me look competent?* Both students study hard. Both care about their performance. But the quality of their engagement, their response to difficulty, and their long-term relationship with the subject matter will differ in systematic, predictable, and consequential ways. [[Achievement-Goal-Theory|Achievement Goal Theory]] — the framework examined in this report — exists to explain exactly why.
 
-[[Achievement-Goal-Theory|Achievement Goal Theory]] (AGT) is one of the most empirically productive frameworks in [[Educational-Psychology|Educational Psychology]] and [[Motivational Psychology]]. Originating in the early 1980s through the work of [[John G. Nicholls]], [[Carol Ames]], and [[Carol S. Dweck]], it proposes that much of the motivational variation we observe in learning environments can be explained by the *type* of goal a person is pursuing — specifically, the standard of competence against which they are measuring themselves. Its central claim is deceptively simple: not all goals to achieve are alike, and the differences between them shape cognition, affect, behaviour, and long-term outcomes in deep and lasting ways.
+[[Achievement-Goal-Theory|Achievement Goal Theory]] (AGT) is one of the most empirically productive frameworks in [[Educational-Psychology|Educational Psychology]] and [[Motivational-Psychology|Motivational Psychology]]. Originating in the early 1980s through the work of [[John-G.-Nicholls|John G. Nicholls]], [[Carol-Ames|Carol Ames]], and [[Carol-S.-Dweck|Carol S. Dweck]], it proposes that much of the motivational variation we observe in learning environments can be explained by the *type* of goal a person is pursuing — specifically, the standard of competence against which they are measuring themselves. Its central claim is deceptively simple: not all goals to achieve are alike, and the differences between them shape cognition, affect, behaviour, and long-term outcomes in deep and lasting ways.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to reflect on a learning context that matters to you — a skill you are developing, a course you are taking, a project you are working on. What is the implicit question you are asking yourself as you engage with it? Are you asking *Am I getting better?* or are you asking *Am I doing better than others?* Or perhaps something more fearful: *Am I avoiding looking stupid?* Holding your own motivational profile in mind as you read will make the theory far more personally legible.
@@ -263,7 +263,7 @@ Consider two students preparing for the same difficult examination. The first ap
 
 This report provides a comprehensive foundational treatment of Achievement Goal Theory. It traces the theory's intellectual origins, maps the major theoretical models and their evolution, explains the psychological mechanisms through which goals shape learning, reviews the evidence base, and examines practical applications and limitations. The report assumes no prior background in educational psychology, but treats you as a capable adult who can handle technical distinctions and nuanced empirical claims without oversimplification.
 
-The report does not attempt an exhaustive review of every study in the field — that would require a textbook. Instead, it establishes the conceptual architecture you need to engage productively with any subsequent study of motivation, [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Assessment-Design|Assessment Design]], or [[Self-Regulation]]. It connects AGT to adjacent frameworks already in your PKB, particularly [[Metacognition & Motivation]] and [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]], and identifies the most important expansion topics for future inquiry.
+The report does not attempt an exhaustive review of every study in the field — that would require a textbook. Instead, it establishes the conceptual architecture you need to engage productively with any subsequent study of motivation, [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Assessment-Design|Assessment Design]], or [[Self-Regulation]]. It connects AGT to adjacent frameworks already in your PKB, particularly [[Metacognition-&-Motivation|Metacognition & Motivation]] and [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]], and identifies the most important expansion topics for future inquiry.
 
 ### Why This Matters
 
@@ -286,17 +286,17 @@ At the heart of Achievement Goal Theory lies a question that sounds obvious unti
 > [!definition] **Achievement Goal**
 > An achievement goal is a cognitive representation of the purpose a person is pursuing in an achievement context. It specifies what "success" means to the person, which in turn determines what counts as a competent performance, which tasks feel threatening or inviting, and which behaviours are rational responses to difficulty. Achievement goals are not merely preferences or wishes; they are organising frameworks that structure perception, attention, affect, and effort. The concept should not be confused with specific performance targets (e.g., "I want to score 90 on this test") — AGT goals are about the *type* of competence being sought, not the *level* of performance being targeted.
 
-The theory emerged from a fundamental observation about [[Conceptions of Ability]] — the implicit theories people hold about what ability is and how it works. [[John G. Nicholls]] (1978, 1984) was the first to systematically distinguish two radically different ways people conceptualise ability, and to show that these conceptions generate different motivational orientations.
+The theory emerged from a fundamental observation about [[Conceptions-of-Ability|Conceptions of Ability]] — the implicit theories people hold about what ability is and how it works. [[John-G.-Nicholls|John G. Nicholls]] (1978, 1984) was the first to systematically distinguish two radically different ways people conceptualise ability, and to show that these conceptions generate different motivational orientations.
 
 ### Nicholls's Founding Distinction: Differentiated vs. Undifferentiated Ability
 
-[[John G. Nicholls]]'s intellectual contribution was to notice that the concept of "ability" is not psychologically uniform. Children and adults can use the word "ability" — or "intelligence," or "skill" — to refer to very different psychological constructs, and these differences have cascading motivational consequences.
+[[John-G.-Nicholls|John G. Nicholls]]'s intellectual contribution was to notice that the concept of "ability" is not psychologically uniform. Children and adults can use the word "ability" — or "intelligence," or "skill" — to refer to very different psychological constructs, and these differences have cascading motivational consequences.
 
 > [!definition] **Undifferentiated Conception of Ability**
-> In an undifferentiated conception of ability, effort and ability are treated as the same thing — or at minimum, as inseparable. A person who works harder is understood to be more able, and ability is seen as something that grows through effort. Under this conception, success means improving and learning, and failure means simply "I haven't learned this yet." This conception is developmentally earlier (young children tend to operate under it) and is characteristic of what Nicholls called *task involvement*. It corresponds roughly to what [[Carol S. Dweck]] would later call the [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]].
+> In an undifferentiated conception of ability, effort and ability are treated as the same thing — or at minimum, as inseparable. A person who works harder is understood to be more able, and ability is seen as something that grows through effort. Under this conception, success means improving and learning, and failure means simply "I haven't learned this yet." This conception is developmentally earlier (young children tend to operate under it) and is characteristic of what Nicholls called *task involvement*. It corresponds roughly to what [[Carol-S.-Dweck|Carol S. Dweck]] would later call the [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]].
 
 > [!definition] **Differentiated Conception of Ability**
-> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol S. Dweck]] calls the [[Fixed-Mindset|Fixed Mindset]] or [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]].
+> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol-S.-Dweck|Carol S. Dweck]] calls the [[Fixed-Mindset|Fixed Mindset]] or [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]].
 
 > [!key-claim] **The Foundational Proposition of AGT**
 > The standard of competence a person is using to evaluate their performance determines the psychological meaning of effort, difficulty, and failure — and therefore determines the motivational consequences of those experiences. Achievement Goal Theory proposes that much of the variability in adaptive and maladaptive motivation in achievement contexts can be traced to which standard of competence is operative at a given moment.
@@ -315,7 +315,7 @@ Nicholls formalised his insights through the concepts of *task involvement* and 
 
 ### Ames's Contribution: Mastery and Performance Goal Constructs
 
-While Nicholls's framework emerged primarily from a developmental psychology perspective, [[Carol Ames]] translated these ideas into the language of educational motivation that became the dominant terminology in the field. Ames (1984, 1992) introduced the terms *mastery goals* and *performance goals* to describe the motivational orientations that correspond to task and ego involvement, respectively.
+While Nicholls's framework emerged primarily from a developmental psychology perspective, [[Carol-Ames|Carol Ames]] translated these ideas into the language of educational motivation that became the dominant terminology in the field. Ames (1984, 1992) introduced the terms *mastery goals* and *performance goals* to describe the motivational orientations that correspond to task and ego involvement, respectively.
 
 > [!definition] **Mastery Goal (Learning Goal, Task Goal)**
 > A mastery goal is an achievement goal in which the person defines success as developing competence — acquiring new skills, deepening understanding, or improving relative to one's own prior performance. The standard of reference is intrapersonal and/or task-inherent. Mastery goals are sometimes called *learning goals* (Dweck's terminology) or *task goals* (Nicholls's terminology). They are associated with the adoption of deep cognitive strategies, help-seeking when confused, persistence in the face of difficulty, positive affect during challenge, and long-term retention. Under mastery-oriented conditions, effort is unambiguously a sign of engagement and is positively valued.
@@ -327,7 +327,7 @@ Ames also made a crucial contribution to the study of [[Motivational-Climate|Mot
 
 ### The Intellectual Genealogy
 
-AGT did not emerge from a vacuum. It developed in dialogue with several prior intellectual traditions. [[Attribution-Theory|Attribution Theory]], developed by [[Bernard Weiner]] (1972), had already established that the causes students attribute to their successes and failures (ability, effort, task difficulty, luck) shape their subsequent motivation. AGT deepened this by explaining why students make the attributions they do — their conception of ability determines what counts as evidence about the underlying causes of performance. [[Intrinsic-Motivation|Intrinsic Motivation]] research, particularly the work of [[Edward Deci]] and [[Richard Ryan]] that would culminate in [[Self-Determination-Theory|Self-Determination Theory]], had established that not all motivation is equivalent: autonomous, self-determined motivation sustains learning better than controlled, external motivation. AGT contributed a more granular account of how the *content* of a person's goals — the specific standard of competence they are pursuing — mediates these motivational processes. And [[Carol S. Dweck]]'s work on [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] (entity vs. incremental theories) provided the cognitive substrate for understanding why individuals differ in their goal orientation tendencies — a thread we will follow in Phase IV.
+AGT did not emerge from a vacuum. It developed in dialogue with several prior intellectual traditions. [[Attribution-Theory|Attribution Theory]], developed by [[Bernard-Weiner|Bernard Weiner]] (1972), had already established that the causes students attribute to their successes and failures (ability, effort, task difficulty, luck) shape their subsequent motivation. AGT deepened this by explaining why students make the attributions they do — their conception of ability determines what counts as evidence about the underlying causes of performance. [[Intrinsic-Motivation|Intrinsic Motivation]] research, particularly the work of [[Edward-Deci|Edward Deci]] and [[Richard-Ryan|Richard Ryan]] that would culminate in [[Self-Determination-Theory|Self-Determination Theory]], had established that not all motivation is equivalent: autonomous, self-determined motivation sustains learning better than controlled, external motivation. AGT contributed a more granular account of how the *content* of a person's goals — the specific standard of competence they are pursuing — mediates these motivational processes. And [[Carol-S.-Dweck|Carol S. Dweck]]'s work on [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] (entity vs. incremental theories) provided the cognitive substrate for understanding why individuals differ in their goal orientation tendencies — a thread we will follow in Phase IV.
 
 > [!reflection] **Deepening Your Understanding**
 > 1. Which of these foundational distinctions — undifferentiated vs. differentiated ability, task vs. ego involvement, mastery vs. performance goals — most challenges an assumption you brought to this reading? What does that challenge reveal about your prior model of motivation?
@@ -349,7 +349,7 @@ This neat picture was, however, too neat. By the early 1990s, empirical anomalie
 
 ### The Trichotomous Model
 
-[[Andrew J. Elliot]] and [[Judith Harackiewicz]] (1996) proposed a solution: split the performance goal category into two distinct orientations based on whether the person's valence is positive (approaching success, outperforming others) or negative (avoiding failure, avoiding appearing incompetent). This gave rise to the *trichotomous model* of achievement goals.
+[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Judith Harackiewicz]] (1996) proposed a solution: split the performance goal category into two distinct orientations based on whether the person's valence is positive (approaching success, outperforming others) or negative (avoiding failure, avoiding appearing incompetent). This gave rise to the *trichotomous model* of achievement goals.
 
 > [!definition] **Performance-Approach Goal**
 > A performance-approach goal is oriented toward the positive possibility of normative competence — demonstrating that one is more competent than others. The motivational focus is appetitive: moving toward success in the normative sense. Under this orientation, competition and social comparison are energising rather than threatening, and success in outperforming others is the primary desired outcome.
@@ -361,7 +361,7 @@ The trichotomous model preserved the undivided mastery goal and divided the perf
 
 ### The 2×2 Framework
 
-[[Andrew J. Elliot]] and [[Marcy Church]] McGregor (2001) extended the approach-avoidance distinction to mastery goals as well, completing the logic that had motivated the trichotomous model. If approach and avoidance are fundamental motivational valences that can apply to any goal content, then there should also be a *mastery-avoidance* goal: the goal of avoiding doing worse than one has done before, or failing to live up to one's own past performance standards.
+[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Marcy Church]] McGregor (2001) extended the approach-avoidance distinction to mastery goals as well, completing the logic that had motivated the trichotomous model. If approach and avoidance are fundamental motivational valences that can apply to any goal content, then there should also be a *mastery-avoidance* goal: the goal of avoiding doing worse than one has done before, or failing to live up to one's own past performance standards.
 
 The resulting *2×2 framework* crossed two dimensions — goal content (mastery vs. performance) with motivational valence (approach vs. avoidance) — to yield four goal types:
 
@@ -382,14 +382,14 @@ The resulting *2×2 framework* crossed two dimensions — goal content (mastery 
 
 ### The 3×2 Model and Beyond
 
-[[Andrew J. Elliot]], [[Kenji Murayama]], and [[Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
+[[Andrew-J.-Elliot|Andrew J. Elliot]], [[Kenji Murayama]], and [[Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
 
 > [!insight] **The Pattern Across Frameworks**
 > Looking across the dichotomous, trichotomous, 2×2, and 3×2 models, a clear pattern emerges: theoretical progress in AGT has consistently been driven by two moves — finer-grained differentiation of the competence standard (what counts as "doing well") and the incorporation of fundamental motivational distinctions (approach vs. avoidance, task vs. self vs. other). Each refinement has clarified the empirical landscape by separating what earlier models conflated.
 
 ### Ames's Motivational Climate Theory
 
-Running parallel to the debates about individual goal orientations is [[Carol Ames]]'s highly influential work on *motivational climate* — the extent to which a learning environment (a classroom, a sports team, a workplace) signals to participants that success means mastering tasks (a *mastery climate*) or that success means outperforming others (a *performance climate*).
+Running parallel to the debates about individual goal orientations is [[Carol-Ames|Carol Ames]]'s highly influential work on *motivational climate* — the extent to which a learning environment (a classroom, a sports team, a workplace) signals to participants that success means mastering tasks (a *mastery climate*) or that success means outperforming others (a *performance climate*).
 
 > [!definition] **Motivational Climate**
 > Motivational climate refers to the achievement goal structure perceived to be operative in a particular setting. It is determined by the structural features of the environment — how tasks are designed, how authority is distributed, how recognition is given, how students are grouped, how evaluation is conducted, and how time is managed. Ames (1992) used the acronym TARGET (Task, Authority, Recognition, Grouping, Evaluation, Time) to identify the key structural dimensions that shape perceived motivational climate. Crucially, motivational climate influences which goals individuals *adopt* in that setting — independently of their personal goal orientation tendencies.
@@ -427,13 +427,13 @@ Under mastery goals, the operative question is "What am I learning? How does thi
 Under performance goals, the operative question is "What do I need to do to perform well on this evaluation?" This question directs attention toward what will be tested, toward surface patterns and correct answers, and away from genuine understanding. It tends to generate *surface processing* or *reproductive encoding* — the kind of engagement that produces temporary retrieval-ready knowledge that quickly decays and does not transfer to novel contexts.
 
 > [!example] **The Study Strategy Divergence**
-> Research by [[Ames and Archer]] (1988) and numerous subsequent studies has documented systematic differences in reported learning strategies between students in mastery-oriented versus performance-oriented conditions. Mastery-oriented students more frequently report using tactics associated with deep processing: self-testing for understanding, connecting new material to prior knowledge, seeking to understand the logic behind procedures rather than merely memorising them, and identifying areas of confusion and seeking help. Performance-oriented students (particularly those high on performance-avoidance) more frequently report surface strategies: rote memorisation, selective attention to likely test items, and avoidance of difficult material that might undermine confidence.
+> Research by [[Ames-and-Archer|Ames and Archer]] (1988) and numerous subsequent studies has documented systematic differences in reported learning strategies between students in mastery-oriented versus performance-oriented conditions. Mastery-oriented students more frequently report using tactics associated with deep processing: self-testing for understanding, connecting new material to prior knowledge, seeking to understand the logic behind procedures rather than merely memorising them, and identifying areas of confusion and seeking help. Performance-oriented students (particularly those high on performance-avoidance) more frequently report surface strategies: rote memorisation, selective attention to likely test items, and avoidance of difficult material that might undermine confidence.
 
 ### Mechanism 3: The Response to Failure and the Allocation of Attributions
 
 Perhaps the most consequential mechanism in Achievement Goal Theory concerns how different goal orientations shape the interpretation of — and response to — failure and difficulty. This is where the theory's practical importance is perhaps clearest.
 
-For a person operating under mastery goals, difficulty and even failure are informationally rich and motivationally manageable. Difficulty means the material is genuinely challenging — which means it is worth learning. Failure means "I haven't learned this yet, and here is specific information about what I need to work on." The attribution pattern under mastery orientations tends to emphasise effort and strategy as the primary controllable causes of performance — which means that poor performance can be addressed by adjusting effort and strategy. This produces what [[Carol S. Dweck]] has called a *mastery-oriented response pattern*: increased effort and strategy-seeking after failure, maintained or increased intrinsic interest, and emotional equanimity.
+For a person operating under mastery goals, difficulty and even failure are informationally rich and motivationally manageable. Difficulty means the material is genuinely challenging — which means it is worth learning. Failure means "I haven't learned this yet, and here is specific information about what I need to work on." The attribution pattern under mastery orientations tends to emphasise effort and strategy as the primary controllable causes of performance — which means that poor performance can be addressed by adjusting effort and strategy. This produces what [[Carol-S.-Dweck|Carol S. Dweck]] has called a *mastery-oriented response pattern*: increased effort and strategy-seeking after failure, maintained or increased intrinsic interest, and emotional equanimity.
 
 For a person operating under performance-avoidance goals, failure is not informationally useful — it is *threatening*. Because the operative standard is normative competence, poor performance is evidence of low ability, which is precisely the thing they are trying to avoid demonstrating. The attribution pattern under performance-avoidance conditions tends to gravitate toward ability attributions for failure — "I'm just not good at this" — because ability, under the differentiated conception, is the thing most at stake. This produces what Dweck called a *helpless response pattern*: decreased effort after failure, withdrawal from challenge, negative affect, and ultimately disengagement from the domain.
 
@@ -442,7 +442,7 @@ For a person operating under performance-avoidance goals, failure is not informa
 
 ### Mechanism 4: Motivational Climate and Goal Adoption
 
-A crucial and sometimes underappreciated mechanism concerns how goal orientations are not simply brought to learning contexts by individuals but are actively shaped — and sometimes dramatically overridden — by environmental signals. [[Carol Ames]]'s [[Motivational-Climate|Motivational Climate]] framework specifies how structural features of learning environments influence the goals individuals adopt.
+A crucial and sometimes underappreciated mechanism concerns how goal orientations are not simply brought to learning contexts by individuals but are actively shaped — and sometimes dramatically overridden — by environmental signals. [[Carol-Ames|Carol Ames]]'s [[Motivational-Climate|Motivational Climate]] framework specifies how structural features of learning environments influence the goals individuals adopt.
 
 The TARGET dimensions operate through a common mechanism: they signal to participants what success means in this environment. A classroom in which tasks are varied and offer genuine intellectual challenge, in which students have some authority over their learning choices, in which recognition is given for improvement and effort rather than only for top performance, in which assessment emphasises individual progress rather than normative ranking, and in which sufficient time is given for mastery before evaluation — such a classroom transmits strong mastery-climate signals. Students in such environments, regardless of their prior goal orientation tendencies, tend to adopt mastery goals more readily.
 
@@ -533,15 +533,15 @@ This framework does not excuse these behaviours, but it does *explain* them in w
 >
 > This report on [[Achievement-Goal-Theory|Achievement Goal Theory]] connects to existing knowledge in your PKB in the following ways:
 >
-> - **[[Metacognition & Motivation]]** — The intersection is direct and rich. AGT predicts that mastery-oriented learners will engage in more sophisticated metacognitive monitoring — because their goal is to understand, not merely to perform, they have a stronger incentive to accurately detect their own comprehension gaps. Performance-avoidance learners, by contrast, may engage in motivated inaccuracy: deliberately *not* monitoring their understanding too carefully, because accurate self-assessment might reveal incompetence. This suggests that metacognitive strategy instruction will be most effective when embedded in mastery-climate environments.
+> - **[[Metacognition-&-Motivation|Metacognition & Motivation]]** — The intersection is direct and rich. AGT predicts that mastery-oriented learners will engage in more sophisticated metacognitive monitoring — because their goal is to understand, not merely to perform, they have a stronger incentive to accurately detect their own comprehension gaps. Performance-avoidance learners, by contrast, may engage in motivated inaccuracy: deliberately *not* monitoring their understanding too carefully, because accurate self-assessment might reveal incompetence. This suggests that metacognitive strategy instruction will be most effective when embedded in mastery-climate environments.
 >
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's growth mindset framework is in many ways the upstream cognitive cause of mastery goal adoption. An entity theory of intelligence (fixed mindset) predicts performance goal adoption because, if ability is fixed, the rational goal is to demonstrate it rather than develop it. An incremental theory (growth mindset) predicts mastery goal adoption because, if ability can be developed, then development is the rational focus. The two frameworks are therefore deeply complementary, with mindset theory explaining *why* individuals differ in goal orientation tendencies, and AGT specifying the *mechanisms* through which those tendencies translate into learning behaviours.
 >
-> - **[[Metacognition & Critical Thinking]]** — Critical thinking requires intellectual risk-taking: the willingness to question assumptions, to entertain uncomfortable possibilities, and to revise beliefs in light of evidence. All of these behaviours are more natural under mastery orientation than under performance orientation. In a performance-oriented environment, intellectual risk-taking is potentially costly (you might be wrong, publicly), while in a mastery-oriented environment it is potentially rewarding (you might learn something new).
+> - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — Critical thinking requires intellectual risk-taking: the willingness to question assumptions, to entertain uncomfortable possibilities, and to revise beliefs in light of evidence. All of these behaviours are more natural under mastery orientation than under performance orientation. In a performance-oriented environment, intellectual risk-taking is potentially costly (you might be wrong, publicly), while in a mastery-oriented environment it is potentially rewarding (you might learn something new).
 >
 > - **[[Schema-Theory|Schema Theory]]** — Schema formation and elaboration depend on the kind of deep processing that mastery goals preferentially support. When learners are focused on understanding rather than performance, they are more likely to engage in the effortful assimilation and accommodation that schema development requires. This connection suggests that schema formation is not merely a cognitive process but a motivationally conditioned one — the conditions under which deep learning occurs are also the conditions that AGT identifies as mastery-conducive.
 >
-> - **[[Critical Thinking in Education]]** — Instructional approaches that aim to develop critical thinking are unlikely to succeed in performance-climate environments, because critical thinking requires the very intellectual behaviours — challenge engagement, error tolerance, cognitive risk — that performance-avoidance goals suppress. This suggests that critical thinking pedagogy and motivational climate design are not separate problems but deeply interconnected aspects of a single design challenge.
+> - **[[Critical-Thinking-in-Education|Critical Thinking in Education]]** — Instructional approaches that aim to develop critical thinking are unlikely to succeed in performance-climate environments, because critical thinking requires the very intellectual behaviours — challenge engagement, error tolerance, cognitive risk — that performance-avoidance goals suppress. This suggests that critical thinking pedagogy and motivational climate design are not separate problems but deeply interconnected aspects of a single design challenge.
 >
 > The pattern these connections reveal is significant: Achievement Goal Theory is not merely a theory about motivation. It is a theory about the motivational conditions under which deep cognitive engagement becomes possible. It connects to virtually every aspect of your PKB focused on how learning actually works — because goal orientation shapes not just how much people learn, but what kind of learning they are capable of in a given moment.
 
@@ -627,7 +627,7 @@ This framework does not excuse these behaviours, but it does *explain* them in w
 
 > [!further-exploration] **Deepening Your Practice**
 
-> [!topic-idea] [[Self-Determination Theory — Foundational Report]]
+> [!topic-idea] [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 > Self-Determination Theory (Deci & Ryan, 1985, 2000) is the dominant motivational framework in contemporary educational psychology and represents the most important theoretical complement and counterpoint to AGT. Where AGT focuses on the *content* of goals (what standard of competence is operative), SDT focuses on the *regulatory style* of motivation (whether motivation is autonomous/intrinsic or controlled/extrinsic). A comparative treatment would clarify the significant areas of convergence (both frameworks identify conditions that support intrinsic motivation and deep learning) and important areas of distinction (SDT's autonomy construct maps onto mastery climate but is not identical to it; AGT's approach-avoidance dimension has no direct SDT parallel). Priority: **High** — SDT is encountered throughout the learning sciences literature and fluency in both frameworks is close to essential.
 
 > [!topic-idea] [[Motivational Climate Design — Applied Guide]]
@@ -636,10 +636,10 @@ This framework does not excuse these behaviours, but it does *explain* them in w
 > [!topic-idea] [[Implicit Theories of Intelligence & Growth Mindset — Foundational Report]]
 > Dweck's framework on entity vs. incremental theories of intelligence is the cognitive-developmental upstream cause of goal orientation differences. Understanding *why* people adopt different goal orientations requires understanding the implicit beliefs about the nature of ability that drive those orientations. This report would cover the experimental evidence base for mindset interventions, the theoretical relationship between mindset and AGT, and the important recent replication debates that have complicated the field's earlier enthusiasm for brief mindset interventions. Priority: **High** — directly linked to this report and already referenced in the PKB.
 
-> [!topic-idea] [[Achievement Emotions — Pekrun's Control-Value Theory]]
+> [!topic-idea] [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory|Achievement Emotions — Pekrun's Control-Value Theory]]
 > Reinhard Pekrun's Control-Value Theory of achievement emotions provides a rich account of the affective consequences of achievement goal orientations, including enjoyment, boredom, anxiety, pride, shame, hopelessness, and relief. Because emotional experience is a major outcome variable in AGT research, and because emotions in turn influence cognitive processing and motivation, this framework deepens the AGT account significantly. The connection between performance-avoidance goals and test anxiety, and between mastery goals and epistemic enjoyment, are particularly well-developed in Pekrun's work. Priority: **Medium** — enriches AGT but is not necessary for applying it.
 
-> [!topic-idea] [[Assessment Design & Goal Orientation]]
+> [!topic-idea] [[Assessment-Design-&-Goal-Orientation|Assessment Design & Goal Orientation]]
 > Assessment is the most powerful climate-signalling dimension in most formal educational settings, and yet it is also the dimension most resistant to change — external pressures (standardised testing, grading systems, institutional accountability) heavily constrain what educators can do. This report would examine the evidence on how different assessment practices (formative vs. summative, criterion-referenced vs. norm-referenced, portfolio vs. examination, self-assessment vs. external evaluation) signal different goal orientations, with attention to both the design of individual assessments and the systemic constraints that shape what is possible. Priority: **High** — assessment design is a critical application domain.
 
 > [!topic-idea] [[Epistemic Curiosity and the Intrinsic Pleasures of Inquiry]]

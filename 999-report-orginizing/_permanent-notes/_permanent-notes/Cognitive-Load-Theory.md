@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,22 +78,30 @@ see-also:
   - "[[Constructivism]]"
   - "[[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[worked-example-effect|worked example effect]]"
-  - "[[expertise-reversal-effect|expertise reversal effect]]"
-  - "[[working-memory|working memory]]"
-  - "[[schema-theory|schema theory]]"
-  - "[[cognitive-psychology|cognitive psychology]]"
-  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Worked-Example-Effect|worked example effect]]"
+  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Schema-Theory|schema theory]]"
+  - "[[Cognitive-Psychology|cognitive psychology]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[worked-example-effect|worked example effect]]"
-  - "[[expertise-reversal-effect|expertise reversal effect]]"
-  - "[[working-memory|working memory]]"
-  - "[[schema-theory|schema theory]]"
-  - "[[cognitive-psychology|cognitive psychology]]"
+  - "[[Worked-Example-Effect|worked example effect]]"
+  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Schema-Theory|schema theory]]"
+  - "[[Cognitive-Psychology|cognitive psychology]]"
+  - "[[Germane-Cognitive-Load|germane cognitive load]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Worked-Example-Effect|worked example effect]]"
+  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Schema-Theory|schema theory]]"
+  - "[[Cognitive-Psychology|cognitive psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -211,7 +219,7 @@ importance: high
 > The [[Split-Attention-Effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
 
 > [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner,-Sweller-&-Clark]] (2006) on [[Cognitive-Load-Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
 
 > [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
@@ -220,10 +228,10 @@ importance: high
 > CLT is often misread as a simple prescription to minimize cognitive effort. This misreading leads to instructional designs that are cognitively undemanding across the board — short exposures, heavy scaffolding, minimal challenge — which, paradoxically, can impair learning by reducing the [[Schema-Construction]] effort that produces durable encoding. The correct prescription is more nuanced: reduce *extraneous* load (effort that does not produce schemas) while preserving or increasing the intrinsic load appropriate to the learner's expertise level. [[Desirable-Difficulties]] research (Bjork) provides complementary evidence that some cognitive challenges — spacing, interleaving, retrieval practice — improve long-term retention precisely because they are effortful, not despite it.
 
 > [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
+> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation-Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
 > [!example] **Application** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
-> The [[split-attention effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
+> The [[Split-Attention-Effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
 
 
 
@@ -261,7 +269,7 @@ importance: high
 [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] · [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Coherence-Principle|Coherence Principle]] · [[Constructivism]] · [[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]] · [[Educational-Psychology|Educational Psychology]] · [[Elaboration-Theory|Elaboration Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Germane-Load|Germane Load]] · [[Hub-Notes|Hub Notes]] · [[Information-Architecture|Information Architecture]] · [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 
 **Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
-[[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[expertise-reversal-effect|expertise reversal effect]] * [[working-memory|working memory]] * [[schema-theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[long-term-memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]] * [[Element-interactivity|Element interactivity]]
+[[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Working-Memory|working memory]] * [[Schema-Theory|schema theory]] * [[Cognitive-Psychology|cognitive psychology]] * [[Instructional-Design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]] * [[Element-Interactivity|Element interactivity]]
 
 **Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
 - [[motor-learning|motor learning]]
@@ -286,7 +294,7 @@ importance: high
 - [[Scientific-Method|Scientific Method]]
 
 **Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
-[[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[expertise-reversal-effect|expertise reversal effect]] * [[working-memory|working memory]] * [[schema-theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[long-term-memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-interactivity|Element interactivity]] * [[cognitive-load|cognitive load]] * [[automation|automation]]
+[[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Working-Memory|working memory]] * [[Schema-Theory|schema theory]] * [[Cognitive-Psychology|cognitive psychology]] * [[Instructional-Design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-Interactivity|Element interactivity]] * [[Cognitive-Load|cognitive load]] * [[automation|automation]]
 
 **Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
 - [[motor-learning|motor learning]]
@@ -309,6 +317,36 @@ importance: high
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Scientific-Method|Scientific Method]]
+
+**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
+[[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Working-Memory|working memory]] * [[Schema-Theory|schema theory]] * [[Cognitive-Psychology|cognitive psychology]] * [[Instructional-Design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-Interactivity|Element interactivity]] * [[Cognitive-Load|cognitive load]] * [[self-explanation|self-explanation]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+
+
+
+
 
 
 

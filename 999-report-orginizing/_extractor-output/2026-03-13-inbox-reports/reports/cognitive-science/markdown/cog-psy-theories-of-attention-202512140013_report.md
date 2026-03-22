@@ -268,7 +268,7 @@ extraction_summary:
 > [!abstract] Untitled
 > **Comprehensive Overview**
 > 
-> This reference note traces the theoretical evolution from early structural bottleneck models of attention to sophisticated capacity-based resource allocation frameworks. Beginning with <span style='color: #FFC700;'>**Donald Broadbent's Filter Model**</span> (1958), which conceptualized attention as a rigid structural limitation imposed by a fixed-capacity channel, the field underwent a profound paradigm shift toward <span style='color: #FFC700;'>**Daniel Kahneman's Capacity Model**</span> (1973), which reconceptualized attention as a flexible pool of mental resources dynamically allocated according to task demands, arousal state, and strategic control mechanisms. This transition represents a fundamental reconceptualization of [[Selective Attention]] from passive filtering of sensory input to active, effort-driven resource management guided by an [[Allocation Policy]] that determines performance outcomes during [[Dual-Task Performance]]. The narrative charts how empirical anomalies in dichotic listening tasks exposed the inadequacies of structural models, necessitating theories that could accommodate the fluid, context-dependent nature of attentional selection and the critical role of [[Arousal]] in modulating processing capacity.
+> This reference note traces the theoretical evolution from early structural bottleneck models of attention to sophisticated capacity-based resource allocation frameworks. Beginning with <span style='color: #FFC700;'>**Donald Broadbent's Filter Model**</span> (1958), which conceptualized attention as a rigid structural limitation imposed by a fixed-capacity channel, the field underwent a profound paradigm shift toward <span style='color: #FFC700;'>**Daniel Kahneman's Capacity Model**</span> (1973), which reconceptualized attention as a flexible pool of mental resources dynamically allocated according to task demands, arousal state, and strategic control mechanisms. This transition represents a fundamental reconceptualization of [[Selective-Attention|Selective Attention]] from passive filtering of sensory input to active, effort-driven resource management guided by an [[Allocation Policy]] that determines performance outcomes during [[Dual-Task Performance]]. The narrative charts how empirical anomalies in dichotic listening tasks exposed the inadequacies of structural models, necessitating theories that could accommodate the fluid, context-dependent nature of attentional selection and the critical role of [[Arousal]] in modulating processing capacity.
 
 #### 5. [THE-PHILOSOPHY] Untitled *(Line 380)*
 
@@ -369,13 +369,13 @@ extraction_summary:
 > 
 > **[[Working-Memory|Working Memory]]**: Kahneman's capacity model provided a theoretical foundation for understanding working memory limitations. Alan Baddeley's influential [[Working Memory Model]] explicitly incorporated capacity constraints, proposing that a limited-capacity central executive allocates resources to specialized slave systems (phonological loop, visuospatial sketchpad). The central executive's resource allocation function directly parallels Kahneman's allocation policy, and modern working memory research increasingly conceptualizes working memory capacity as attentional capacity—the ability to maintain task-relevant representations in an active, accessible state despite interference. The connection is bidirectional: working memory provides the temporary storage necessary for capacity allocation decisions (holding task goals and monitoring outcomes), while attentional resources determine how much information can be simultaneously maintained in working memory. Understanding capacity theory enriches your grasp of why working memory span varies with arousal, why dual-task demands reduce apparent working memory capacity, and why individual differences in working memory often reflect differences in attentional control rather than storage per se.
 > 
-> **[[Executive Function]]**: The allocation policy in Kahneman's model anticipated modern conceptions of executive function—the suite of control processes that regulate thought and action in goal-directed behavior. Contemporary executive function theories identify three core components: inhibitory control (suppressing prepotent responses), working memory updating (maintaining and manipulating task-relevant information), and cognitive flexibility (shifting between task sets). All three can be understood as aspects of attentional resource allocation: inhibition requires allocating resources to suppress automatically activated responses, working memory updating requires sustained allocation to maintain representations, and flexibility requires reallocating resources when task demands change. The connection to capacity theory suggests that executive function deficits—whether developmental, neurological, or induced by fatigue—might fundamentally reflect either reduced total capacity or impaired allocation policy function. This perspective unifies diverse executive phenomena under the common construct of capacity-limited resource management.
+> **[[Executive-Function|Executive Function]]**: The allocation policy in Kahneman's model anticipated modern conceptions of executive function—the suite of control processes that regulate thought and action in goal-directed behavior. Contemporary executive function theories identify three core components: inhibitory control (suppressing prepotent responses), working memory updating (maintaining and manipulating task-relevant information), and cognitive flexibility (shifting between task sets). All three can be understood as aspects of attentional resource allocation: inhibition requires allocating resources to suppress automatically activated responses, working memory updating requires sustained allocation to maintain representations, and flexibility requires reallocating resources when task demands change. The connection to capacity theory suggests that executive function deficits—whether developmental, neurological, or induced by fatigue—might fundamentally reflect either reduced total capacity or impaired allocation policy function. This perspective unifies diverse executive phenomena under the common construct of capacity-limited resource management.
 > 
 > **[[Cognitive-Load-Theory|Cognitive Load Theory]]**: John Sweller's influential Cognitive Load Theory, which guides instructional design, builds directly on capacity limitations identified in attention research. The theory distinguishes intrinsic load (inherent difficulty of material), extraneous load (load imposed by poor instructional design), and germane load (productive effort directed toward schema construction). These distinctions map onto Kahneman's framework: all three load types consume resources from the same limited capacity pool, total load must not exceed available capacity for effective learning, and the allocation policy determines how resources are distributed among load types. The connection illuminates why well-designed instruction minimizes extraneous load (freeing resources for germane processing) and why arousal states like anxiety (which reduce available capacity) or active engagement (which increases arousal to optimal levels) profoundly affect learning outcomes. Understanding capacity theory provides the cognitive foundation for instructional design principles.
 > 
 > **[[Self-Determination-Theory|Self-Determination Theory]]** and **[[Motivation]]**: Kahneman's emphasis on voluntary control (momentary intentions) and evaluation of demands connects directly to motivational psychology. Self-Determination Theory proposes that autonomous motivation (acting from intrinsic interest or personally endorsed values) supports sustained engagement with challenging tasks, while controlled motivation (acting from external pressure or contingencies) produces shallow, effort-minimizing engagement. In capacity terms, autonomous motivation may sustain higher arousal and greater willingness to allocate resources to demanding tasks, while controlled motivation leads to premature resource withdrawal when evaluation signals indicate insufficient resources. The theory also suggests that intrinsic motivation reduces the subjective effort cost of resource allocation—tasks pursued for inherent interest feel less effortful than tasks pursued for external rewards, even when objective resource demands are identical. This connection bridges cognitive and motivational perspectives on sustained goal pursuit.
 > 
-> **[[Automaticity]]** and **[[Skill Acquisition]]**: Kahneman's observation that practiced tasks require fewer resources provides the foundation for understanding automaticity—the development of skilled performance that occurs without conscious attention or effort. Through extensive practice, complex skills become automated, dramatically reducing their resource demands and freeing capacity for concurrent activities or higher-level strategic thinking. This explains the paradox of expertise: experts appear to effortlessly perform tasks that novices find overwhelmingly difficult, not because experts have more capacity but because automatization has reduced resource consumption. The progression from effortful, capacity-demanding novice performance to fluent, resource-efficient expert performance reflects a fundamental transformation in how tasks engage the cognitive system. Understanding this transformation informs theories of skill development, deliberate practice, and the transition from controlled to automatic processing.
+> **[[Automaticity]]** and **[[Skill-Acquisition|Skill Acquisition]]**: Kahneman's observation that practiced tasks require fewer resources provides the foundation for understanding automaticity—the development of skilled performance that occurs without conscious attention or effort. Through extensive practice, complex skills become automated, dramatically reducing their resource demands and freeing capacity for concurrent activities or higher-level strategic thinking. This explains the paradox of expertise: experts appear to effortlessly perform tasks that novices find overwhelmingly difficult, not because experts have more capacity but because automatization has reduced resource consumption. The progression from effortful, capacity-demanding novice performance to fluent, resource-efficient expert performance reflects a fundamental transformation in how tasks engage the cognitive system. Understanding this transformation informs theories of skill development, deliberate practice, and the transition from controlled to automatic processing.
 > 
 > **[[Metacognition]]** and **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]**: The evaluation of demands component in Kahneman's model represents a metacognitive monitoring system that assesses the adequacy of current resource allocation. This connects to broader theories of metacognition, which emphasize that effective learning and problem-solving require continuous monitoring of comprehension, accuracy, and progress toward goals. Self-regulated learners actively monitor their cognitive states, detect when understanding is inadequate or when current strategies are failing, and adaptively adjust resource allocation or strategic approaches. The capacity framework suggests that metacognitive judgments partly reflect sensitivity to resource availability and allocation—feelings of knowing, judgments of learning, and confidence ratings all potentially draw on the same evaluation system that monitors capacity sufficiency. This integration suggests that improving metacognitive accuracy might involve enhancing sensitivity to capacity states and allocation effectiveness.
 > 
@@ -416,7 +416,7 @@ extraction_summary:
 - [[Automaticity]]
 - [[Bilingualism]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
-- [[Cognitive Control]]
+- [[Cognitive-Control|Cognitive Control]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Dichotic Listening Task]]
 - [[Dorsal Attention Network]]
@@ -425,10 +425,10 @@ extraction_summary:
 - [[Dual-Task Paradigms]]
 - [[Dual-Task Performance]]
 - [[Early-Late Selection Debate]]
-- [[Echoic Memory]]
+- [[Echoic-Memory|Echoic Memory]]
 - [[Ego Depletion]]
-- [[Executive Function]]
-- [[Iconic Memory]]
+- [[Executive-Function|Executive Function]]
+- [[Iconic-Memory|Iconic Memory]]
 - [[Information Processing Approach]]
 - [[Information Theory]]
 - [[Load Theory of Attention]]
@@ -440,10 +440,10 @@ extraction_summary:
 - [[Neuroscience of Attention]]
 - [[Norepinephrine System]]
 - [[Response Selection]]
-- [[Selective Attention]]
+- [[Selective-Attention|Selective Attention]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Skill Acquisition]]
+- [[Skill-Acquisition|Skill Acquisition]]
 - [[The Evolution of Capacity Theories of Attention: From Structural Bottlenecks to Resource Allocation Models]]
 - [[Treisman's Attenuation Model]]
 - [[Ventral Attention Network]]
@@ -455,22 +455,22 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[The Evolution of Capacity Theories of Attention: From Structural Bottlenecks to Resource Allocation Models]] | — | — | Document Start | 39 |
-| 2 | [[Selective Attention]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
+| 2 | [[Selective-Attention|Selective Attention]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
 | 3 | [[Allocation Policy]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
 | 4 | [[Dual-Task Performance]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
 | 5 | [[Arousal]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
 | 6 | [[Information Theory]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 374 |
 | 7 | [[Information Processing Approach]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 378 |
 | 8 | [[Attentional Selection]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 378 |
-| 9 | [[Iconic Memory]] | — | — | The Engineering Metaphor and Informat... | 398 |
-| 10 | [[Echoic Memory]] | — | — | The Engineering Metaphor and Informat... | 398 |
+| 9 | [[Iconic-Memory|Iconic Memory]] | — | — | The Engineering Metaphor and Informat... | 398 |
+| 10 | [[Echoic-Memory|Echoic Memory]] | — | — | The Engineering Metaphor and Informat... | 398 |
 | 11 | [[Dichotic Listening Task]] | — | — | Empirical Foundations: The Dichotic L... | 404 |
 | 12 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | Theoretical Implications and Predicti... | 419 |
 | 13 | [[Early-Late Selection Debate]] | — | — | Empirical Challenges and the Breakdow... | 427 |
 | 14 | [[Bilingualism]] | — | — | Empirical Challenges and the Breakdow... | 434 |
 | 15 | [[Arousal]] | — | — | Theoretical Architecture and Core Pri... | 461 |
-| 16 | [[Executive Function]] | — | — | The Allocation Policy: The Executive ... | 467 |
-| 17 | [[Cognitive Control]] | — | — | The Allocation Policy: The Executive ... | 482 |
+| 16 | [[Executive-Function|Executive Function]] | — | — | The Allocation Policy: The Executive ... | 467 |
+| 17 | [[Cognitive-Control|Cognitive Control]] | — | — | The Allocation Policy: The Executive ... | 482 |
 | 18 | [[Dual-Process Theories]] | — | — | The Allocation Policy: The Executive ... | 482 |
 | 19 | [[Arousal]] | — | — | Arousal and the Modulation of Capacity | 486 |
 | 20 | [[Dual-Task Paradigms]] | — | — | Dual-Task Performance and Capacity Sh... | 505 |
@@ -489,12 +489,12 @@ extraction_summary:
 | 33 | [[Response Selection]] | — | — | Integration with Modern Frameworks | 580 |
 | 34 | [[Working-Memory|Working Memory]] | — | — | Integration with Modern Frameworks | 609 |
 | 35 | [[Working Memory Model]] | — | — | Integration with Modern Frameworks | 609 |
-| 36 | [[Executive Function]] | — | — | Integration with Modern Frameworks | 611 |
+| 36 | [[Executive-Function|Executive Function]] | — | — | Integration with Modern Frameworks | 611 |
 | 37 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Integration with Modern Frameworks | 613 |
 | 38 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Integration with Modern Frameworks | 615 |
 | 39 | [[Motivation]] | — | — | Integration with Modern Frameworks | 615 |
 | 40 | [[Automaticity]] | — | — | Integration with Modern Frameworks | 617 |
-| 41 | [[Skill Acquisition]] | — | — | Integration with Modern Frameworks | 617 |
+| 41 | [[Skill-Acquisition|Skill Acquisition]] | — | — | Integration with Modern Frameworks | 617 |
 | 42 | [[Metacognition]] | — | — | Integration with Modern Frameworks | 619 |
 | 43 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Integration with Modern Frameworks | 619 |
 | 44 | [[Attention Deficit Hyperactivity Disorder]] | — | — | Integration with Modern Frameworks | 621 |
@@ -854,7 +854,7 @@ for (let letter of sortedLetters) {
 - [[Automaticity]]
 - [[Bilingualism]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
-- [[Cognitive Control]]
+- [[Cognitive-Control|Cognitive Control]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Dichotic Listening Task]]
 - [[Dorsal Attention Network]]
@@ -863,10 +863,10 @@ for (let letter of sortedLetters) {
 - [[Dual-Task Paradigms]]
 - [[Dual-Task Performance]]
 - [[Early-Late Selection Debate]]
-- [[Echoic Memory]]
+- [[Echoic-Memory|Echoic Memory]]
 - [[Ego Depletion]]
-- [[Executive Function]]
-- [[Iconic Memory]]
+- [[Executive-Function|Executive Function]]
+- [[Iconic-Memory|Iconic Memory]]
 - [[Information Processing Approach]]
 - [[Information Theory]]
 - [[Load Theory of Attention]]
@@ -878,10 +878,10 @@ for (let letter of sortedLetters) {
 - [[Neuroscience of Attention]]
 - [[Norepinephrine System]]
 - [[Response Selection]]
-- [[Selective Attention]]
+- [[Selective-Attention|Selective Attention]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Skill Acquisition]]
+- [[Skill-Acquisition|Skill Acquisition]]
 - [[The Evolution of Capacity Theories of Attention: From Structural Bottlenecks to Resource Allocation Models]]
 - [[Treisman's Attenuation Model]]
 - [[Ventral Attention Network]]

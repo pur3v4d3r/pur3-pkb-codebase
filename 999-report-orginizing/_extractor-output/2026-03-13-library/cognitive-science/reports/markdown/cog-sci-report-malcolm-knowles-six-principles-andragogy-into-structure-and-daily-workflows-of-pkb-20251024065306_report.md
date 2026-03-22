@@ -170,7 +170,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 47)*
 
 > [!abstract] Untitled
-> This document presents a comprehensive methodological analysis of the intersection between [[Malcolm Knowles]]' six core principles of [[Andragogy]]—the science and art of adult learning—and the design, structural architecture, and daily workflows of [[Personal-Knowledge-Base|Personal Knowledge Base]] (Personal Knowledge Base) systems. We propose that Personal Knowledge Base systems, when properly understood and implemented, are not merely digital repositories for information storage, but rather are *integrated learning environments* that can either support or subvert the fundamental psychological and cognitive needs of adult learners.
+> This document presents a comprehensive methodological analysis of the intersection between [[Malcolm-Knowles|Malcolm Knowles]]' six core principles of [[Andragogy]]—the science and art of adult learning—and the design, structural architecture, and daily workflows of [[Personal-Knowledge-Base|Personal Knowledge Base]] (Personal Knowledge Base) systems. We propose that Personal Knowledge Base systems, when properly understood and implemented, are not merely digital repositories for information storage, but rather are *integrated learning environments* that can either support or subvert the fundamental psychological and cognitive needs of adult learners.
 > 
 > Through a systematic examination of each andragogical principle—the learner's need to know, the role of experience, self-concept and autonomy, readiness to learn, problem-centered orientation, and intrinsic motivation—we demonstrate how specific design decisions in Personal Knowledge Base architecture directly influence learning agency, knowledge integration, and intellectual development. This analysis reveals that the most effective Personal Knowledge Base systems are those that consciously embed andragogical principles into their foundational structure, treating the user not as a passive archivist but as an active constructor of meaning.
 > 
@@ -179,7 +179,7 @@ extraction_summary:
 #### 4. [THE-PURPOSE] Untitled *(Line 56)*
 
 > [!the-purpose] Untitled
-> This article exists at the intersection of two parallel revolutions in how we understand human learning and knowledge work. The first is the formalization of [[Andragogy]] as a distinct theory of adult learning, primarily through the pioneering work of Malcolm Knowles in the 1970s and 1980s. The second is the emergence of sophisticated [[Personal Knowledge Management]] (PKM) systems and [[Personal Knowledge Bases]] (PKBs) as essential tools for navigating the exponential growth of information in the 21st century. Our purpose is not merely to describe these two domains, but to reveal their deep structural relationship: that the design of knowledge management systems either enables or constrains the fundamental processes by which adults learn, and that understanding andragogy provides us with precise design principles for building more effective knowledge systems.
+> This article exists at the intersection of two parallel revolutions in how we understand human learning and knowledge work. The first is the formalization of [[Andragogy]] as a distinct theory of adult learning, primarily through the pioneering work of Malcolm Knowles in the 1970s and 1980s. The second is the emergence of sophisticated [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) systems and [[Personal Knowledge Bases]] (PKBs) as essential tools for navigating the exponential growth of information in the 21st century. Our purpose is not merely to describe these two domains, but to reveal their deep structural relationship: that the design of knowledge management systems either enables or constrains the fundamental processes by which adults learn, and that understanding andragogy provides us with precise design principles for building more effective knowledge systems.
 
 #### 5. [QUOTE] Untitled *(Line 61)*
 
@@ -483,7 +483,7 @@ extraction_summary:
 > [!ask-yourself-this] Untitled
 > **What pre-existing knowledge did this article connect with or challenge?**
 > 
-> This article connects most directly to [[Constructivist Learning Theory]], particularly the work of Piaget and Vygotsky on how learners actively construct understanding rather than passively receiving it. The emphasis on connection-making, elaboration, and integration of new knowledge with existing schemas is fundamentally constructivist. The Personal Knowledge Base becomes an external manifestation of constructivist processes—you can literally see the construction happening as notes are created, linked, and elaborated over time.
+> This article connects most directly to [[Constructivist-Learning-Theory|Constructivist Learning Theory]], particularly the work of Piaget and Vygotsky on how learners actively construct understanding rather than passively receiving it. The emphasis on connection-making, elaboration, and integration of new knowledge with existing schemas is fundamentally constructivist. The Personal Knowledge Base becomes an external manifestation of constructivist processes—you can literally see the construction happening as notes are created, linked, and elaborated over time.
 > 
 > It also resonates deeply with [[Systems Thinking]] approaches, particularly the recognition that the structure of a system shapes the behavior it produces. A Personal Knowledge Base structured around folders and categories will produce different thinking patterns than one structured around problems and connections. This is not merely a superficial difference—the architecture shapes cognition itself, making some thought patterns easy and others difficult. Understanding this gives you leverage: by consciously designing system structure, you can shape your own thinking patterns.
 > 
@@ -571,14 +571,14 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Obsidian]]
 - [[Andragogy]]
 - [[Anki]]
 - [[Anti-fragile]]
 - [[CODE]]
 - [[Constructivist Epistemology]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Digital Gardens and Learning in Public]]
 - [[Extended Cognition and Cognitive Enhancement]]
 - [[GTD]]
@@ -586,7 +586,7 @@ extraction_summary:
 - [[Heutagogy and Self-Determined Learning]]
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]
 - [[Knowledge Graph Theory]]
-- [[Malcolm Knowles]]
+- [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Maps of Content and Emergent Structure]]
 - [[Metacognition and Learning Strategies]]
@@ -629,11 +629,11 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Malcolm Knowles]] | — | — | Document Start | 48 |
+| 1 | [[Malcolm-Knowles|Malcolm Knowles]] | — | — | Document Start | 48 |
 | 2 | [[Andragogy]] | — | — | Document Start | 48 |
 | 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 48 |
 | 4 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 57 |
-| 5 | [[Personal Knowledge Management]] | — | — | 1.0 📜 INTRODUCTION | 57 |
+| 5 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 6 | [[Personal Knowledge Bases]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 7 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 67 |
 | 8 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1.0 📜 INTRODUCTION | 78 |
@@ -672,14 +672,14 @@ extraction_summary:
 | 41 | [[extended cognition]] | — | — | 6.4 🧠 COGNITIVE ENHANCEMENT AND HUMAN... | 610 |
 | 42 | [[Anki]] | — | — | 7.2 🧬 SPACED REPETITION AND LONG-TERM... | 643 |
 | 43 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 7.2 🧬 SPACED REPETITION AND LONG-TERM... | 643 |
-| 44 | [[Constructivist Learning Theory]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 734 |
+| 44 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 734 |
 | 45 | [[Systems Thinking]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 736 |
 | 46 | [[GTD]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 738 |
 | 47 | [[Andragogy]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 743 |
 | 48 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 746 |
 | 49 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 749 |
 | 50 | [[Metacognition and Learning Strategies]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 813 |
-| 51 | [[Constructivist Learning Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 814 |
+| 51 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 814 |
 | 52 | [[Extended Cognition and Cognitive Enhancement]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 815 |
 | 53 | [[Zettelkasten Method and Atomic Notes]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 816 |
 | 54 | [[Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 817 |
@@ -790,14 +790,14 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Obsidian]]
 - [[Andragogy]]
 - [[Anki]]
 - [[Anti-fragile]]
 - [[CODE]]
 - [[Constructivist Epistemology]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Digital Gardens and Learning in Public]]
 - [[Extended Cognition and Cognitive Enhancement]]
 - [[GTD]]
@@ -805,7 +805,7 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[Heutagogy and Self-Determined Learning]]
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]
 - [[Knowledge Graph Theory]]
-- [[Malcolm Knowles]]
+- [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Maps of Content and Emergent Structure]]
 - [[Metacognition and Learning Strategies]]

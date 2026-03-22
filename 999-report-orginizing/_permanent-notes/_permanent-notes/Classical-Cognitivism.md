@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -63,6 +63,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[Andy-Clark|Andy Clark]]"
+  - "[[David-Chalmers|David Chalmers]]"
+  - "[[Extended-Mind-Theory|Extended Mind Theory]]"
+  - "[[4E-Cognition|4E Cognition]]"
+  - "[[Embodied-Cognition|Embodied Cognition]]"
+  - "[[Distributed-Cognition|Distributed Cognition]]"
+  - "[[Hilary-Putnam|Hilary Putnam]]"
+  - "[[Tyler-Burge|Tyler Burge]]"
   - "[[Andy-Clark|Andy Clark]]"
   - "[[David-Chalmers|David Chalmers]]"
   - "[[Extended-Mind-Theory|Extended Mind Theory]]"
@@ -174,6 +182,26 @@ importance: high
 - [[Schema-Theory|Schema Theory]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Related concepts** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+[[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Extended-Mind-Theory|Extended Mind Theory]] * [[4E-Cognition|4E Cognition]] * [[Embodied-Cognition|Embodied Cognition]] * [[Distributed-Cognition|Distributed Cognition]] * [[Hilary-Putnam|Hilary Putnam]] * [[Tyler-Burge|Tyler Burge]] * [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] * [[Lawrence-Barsalou|Lawrence Barsalou]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]] * [[Edwin-Hutchins|Edwin Hutchins]] * [[Frederick-Adams|Frederick Adams]]
+
+**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+
+
 
 
 

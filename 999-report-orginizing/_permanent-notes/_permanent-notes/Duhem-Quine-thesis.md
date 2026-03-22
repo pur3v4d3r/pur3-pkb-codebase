@@ -1,0 +1,81 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Duhem-Quine-thesis"
+aliases:
+  - "Duhem-Quine-thesis"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - philosophy
+
+domain: philosophy
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-22
+updated: 2026-03-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 14
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[Calibration]]"
+  - "[[Confirmation-Bias]]"
+  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Corroboration]]"
+  - "[[Defeasibility]]"
+  - "[[Defeat-Defeater]]"
+  - "[[Epistemic-Calibration]]"
+  - "[[Epistemic-Holism]]"
+  - "[[Epistemic-Humility]]"
+  - "[[Fallibilism]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: medium
+---
+
+# Duhem-Quine-thesis
+
+> [!definition] **Duhem-Quine-thesis**
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 14 permanent notes.*
+
+## Referenced By
+
+- [[Calibration]]
+- [[Confirmation-Bias]]
+- [[Confirmation-Bias-Myside-Bias]]
+- [[Corroboration]]
+- [[Defeasibility]]
+- [[Defeat-Defeater]]
+- [[Epistemic-Calibration]]
+- [[Epistemic-Holism]]
+- [[Epistemic-Humility]]
+- [[Fallibilism]]
+- [[Infallibilism]]
+- [[Intellectual-Humility]]
+- [[Open-Society]]
+- [[Progressive-Approximation]]

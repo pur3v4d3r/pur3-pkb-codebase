@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +79,14 @@ see-also:
   - "[[KWL-Strategy|KWL Strategy]]"
   - "[[Bridging-Analogies|Bridging Analogies]]"
   - "[[Pre-questioning|Pre-questioning]]"
+  - "[[Advance-Organizers|Advance Organizers]]"
+  - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
+  - "[[David-Ausubel|David Ausubel]]"
+  - "[[Schema|Schema]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[KWL-Strategy|KWL Strategy]]"
+  - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Pre-questioning|Pre-questioning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,7 +115,7 @@ importance: high
 # Prior Knowledge
 
 > [!definition] **Prior Knowledge**
-> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic-Memory|episodic memories]], and [[Mental-Model|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
+> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural-Knowledge|procedures]], [[Episodic-Memory|episodic memories]], and [[Mental-Model|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
 
 ## Core Explanation
 
@@ -183,6 +191,26 @@ importance: high
 - [[Schema-Theory|Schema Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Patricia-Alexander|Patricia Alexander]] * [[Assimilation-Theory|Assimilation Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+
+
 
 
 

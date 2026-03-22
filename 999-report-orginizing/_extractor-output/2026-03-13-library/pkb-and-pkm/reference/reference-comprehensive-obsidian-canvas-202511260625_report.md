@@ -247,7 +247,7 @@ extraction_summary:
 
 > [!analogy] Untitled
 > **Illuminating Comparison**
-> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[Wiki-Links]] are roads (connections), [[Maps-of-Content-—-MOCs|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
+> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[wiki-links]] are roads (connections), [[Maps-of-Content-—-MOCs|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
 
 #### 9. [DEFINITION] Untitled *(Line 221)*
 
@@ -534,8 +534,8 @@ extraction_summary:
 - [[Knowledge Synthesis]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Markdown]]
-- [[Mind Mapping]]
-- [[Note Name]]
+- [[Mind-Mapping|Mind Mapping]]
+- [[Note-Name|Note Name]]
 - [[Note Name^block-id]]
 - [[Obsidian]]
 - [[Obsidian: Canvas]]
@@ -556,9 +556,9 @@ extraction_summary:
 - [[Visual Hierarchy]]
 - [[Visual Knowledge Management]]
 - [[Visual Synthesis]]
-- [[Visual Thinking]]
+- [[Visual-Thinking|Visual Thinking]]
 - [[Visual Thinking Methodologies]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[ZettelFlow]]
 - [[Zettelkasten]]
 - [[canvas-name]]
@@ -578,7 +578,7 @@ extraction_summary:
 | 4 | [[Spatial Thinking]] | — | — | Claude Thinking: | 105 |
 | 5 | [[Zettelkasten]] | — | — | Claude Thinking: | 106 |
 | 6 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Claude Thinking: | 107 |
-| 7 | [[Mind Mapping]] | — | — | Claude Thinking: | 108 |
+| 7 | [[Mind-Mapping|Mind Mapping]] | — | — | Claude Thinking: | 108 |
 | 8 | [[Concept Mapping]] | — | — | Claude Thinking: | 109 |
 | 9 | [[Graph View]] | — | — | Claude Thinking: | 110 |
 | 10 | [[Markdown]] | — | — | Claude Thinking: | 111 |
@@ -603,9 +603,9 @@ extraction_summary:
 | 29 | [[Visual Synthesis]] | — | — | Foundational Philosophy | 199 |
 | 30 | [[Flexibility Over Rigidity]] | — | — | Foundational Philosophy | 200 |
 | 31 | [[Obsidian]] | — | — | Foundational Philosophy | 204 |
-| 32 | [[Wiki-Links]] | — | — | Foundational Philosophy | 204 |
+| 32 | [[wiki-links]] | — | — | Foundational Philosophy | 204 |
 | 33 | [[Maps-of-Content-—-MOCs|MOC]] | MOCs | — | Foundational Philosophy | 204 |
-| 34 | [[Mind Mapping]] | — | — | Use Case Philosophy | 210 |
+| 34 | [[Mind-Mapping|Mind Mapping]] | — | — | Use Case Philosophy | 210 |
 | 35 | [[Concept Mapping]] | — | — | Use Case Philosophy | 211 |
 | 36 | [[Maps-of-Content-—-MOCs|MOC]] | Maps of Content | — | Use Case Philosophy | 214 |
 | 37 | [[Advanced Canvas]] | — | — | Technical Specifications | 279 |
@@ -613,12 +613,12 @@ extraction_summary:
 | 39 | [[Advanced Canvas]] | — | — | Technical Specifications | 283 |
 | 40 | [[Graph View]] | — | — | 1. **Text Cards** (Inline Content) | 327 |
 | 41 | [[Dataview]] | — | — | 1. **Text Cards** (Inline Content) | 332 |
-| 42 | [[Note Name]] | — | — | 2. **File Nodes** (Note References) | 348 |
-| 43 | [[Note Name]] | — | Section | 2. **File Nodes** (Note References) | 349 |
+| 42 | [[Note-Name|Note Name]] | — | — | 2. **File Nodes** (Note References) | 348 |
+| 43 | [[Note-Name|Note Name]] | — | Section | 2. **File Nodes** (Note References) | 349 |
 | 44 | [[Note Name^block-id]] | — | — | 2. **File Nodes** (Note References) | 350 |
 | 45 | [[Query Note]] | — | Section Name | 2. **File Nodes** (Note References) | 354 |
 | 46 | [[Advanced Canvas]] | — | — | 4. **Groups** (Visual Containers) | 390 |
-| 47 | [[Visual Thinking]] | — | — | 5. **Media Nodes** (Visual Assets) | 420 |
+| 47 | [[Visual-Thinking|Visual Thinking]] | — | — | 5. **Media Nodes** (Visual Assets) | 420 |
 | 48 | [[Advanced Canvas]] | — | — | Connection System | 482 |
 | 49 | [[Concept Mapping]] | — | — | Organizational Features | 502 |
 | 50 | [[Project Management]] | — | — | Organizational Features | 506 |
@@ -1100,8 +1100,8 @@ create_moc_canvas("03_permanent-notes/cognitive-science", "moc-canvas.canvas")
 - [[Knowledge Synthesis]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Markdown]]
-- [[Mind Mapping]]
-- [[Note Name]]
+- [[Mind-Mapping|Mind Mapping]]
+- [[Note-Name|Note Name]]
 - [[Note Name^block-id]]
 - [[Obsidian]]
 - [[Obsidian: Canvas]]
@@ -1122,9 +1122,9 @@ create_moc_canvas("03_permanent-notes/cognitive-science", "moc-canvas.canvas")
 - [[Visual Hierarchy]]
 - [[Visual Knowledge Management]]
 - [[Visual Synthesis]]
-- [[Visual Thinking]]
+- [[Visual-Thinking|Visual Thinking]]
 - [[Visual Thinking Methodologies]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[ZettelFlow]]
 - [[Zettelkasten]]
 - [[canvas-name]]

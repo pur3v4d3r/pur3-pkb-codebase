@@ -196,7 +196,7 @@ extraction_summary:
 #### 8. [ABSTRACT] Executive Overview *(Line 223)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin|Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
+> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin|Dataview Plugin]] queries for [[Task-Management|Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin|Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
 
 #### 9. [DEFINITION] TASK Query Type Fundamentals *(Line 232)*
 
@@ -279,7 +279,7 @@ extraction_summary:
 >   AND (contains(text, "⏫") OR contains(text, "🔼"))
 > ```
 > 
-> **What it does:** Finds incomplete tasks with missed deadlines that are high or highest priority (using [[Tasks Plugin]] emoji: ⏫ = highest, 🔼 = high)
+> **What it does:** Finds incomplete tasks with missed deadlines that are high or highest priority (using [[Tasks-Plugin|Tasks Plugin]] emoji: ⏫ = highest, 🔼 = high)
 > 
 > **Use case:** Emergency attention queue—what needs immediate action
 > 
@@ -512,7 +512,7 @@ extraction_summary:
 > SORT scheduled ASC
 > ```
 > 
-> **What it does:** Finds [[Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier
+> **What it does:** Finds [[Tasks-Plugin|Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier
 > 
 > **Use case:** Daily habit tracking / recurring maintenance tasks
 > 
@@ -691,7 +691,7 @@ extraction_summary:
 #### 35. [CONNECTIONS-AND-LINKS] Tasks Plugin + Dataview Synergy *(Line 783)*
 
 > [!connections-and-links] Tasks Plugin + Dataview Synergy
-> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin|Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
+> The [[Tasks-Plugin|Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin|Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
 
 #### 36. [EXAMPLE] Automated Daily Note Task Summary *(Line 814)*
 
@@ -947,12 +947,12 @@ extraction_summary:
 - [[Project X]]
 - [[Q4 Planning]]
 - [[Query Performance]]
-- [[Task Management]]
-- [[Tasks Plugin]]
+- [[Task-Management|Task Management]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Advanced Workflows]]
 - [[User Interface Design]]
 - [[WHERE Clause]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 
 ### All Occurrences
 
@@ -960,11 +960,11 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dataview Task Query Reference]] | — | — | Dataview Task Query Reference | 40 |
 | 2 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 185 |
-| 3 | [[Task Management]] | — | — | Claude Thinking | 186 |
+| 3 | [[Task-Management|Task Management]] | — | — | Claude Thinking | 186 |
 | 4 | [[DQL]] | — | — | Claude Thinking | 187 |
 | 5 | [[DataviewJS]] | — | — | Claude Thinking | 188 |
-| 6 | [[Tasks Plugin]] | — | — | Claude Thinking | 189 |
-| 7 | [[YAML Frontmatter]] | — | — | Claude Thinking | 190 |
+| 6 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Claude Thinking | 189 |
+| 7 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Claude Thinking | 190 |
 | 8 | [[Inline Fields]] | — | — | Claude Thinking | 191 |
 | 9 | [[Daily Notes]] | — | — | Claude Thinking | 192 |
 | 10 | [[WHERE Clause]] | — | — | Claude Thinking | 193 |
@@ -976,11 +976,11 @@ extraction_summary:
 | 16 | [[Dashboard Design]] | — | — | Claude Thinking | 199 |
 | 17 | [[Query Performance]] | — | — | Claude Thinking | 200 |
 | 18 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 224 |
-| 19 | [[Task Management]] | — | — | Claude Thinking | 224 |
+| 19 | [[Task-Management|Task Management]] | — | — | Claude Thinking | 224 |
 | 20 | [[Obsidian]] | — | — | Claude Thinking | 224 |
 | 21 | [[DQL]] | — | — | Claude Thinking | 224 |
 | 22 | [[DataviewJS]] | — | — | Claude Thinking | 224 |
-| 23 | [[Tasks Plugin]] | — | — | Claude Thinking | 224 |
+| 23 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Claude Thinking | 224 |
 | 24 | [[Inline Fields]] | — | — | Claude Thinking | 224 |
 | 25 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Claude Thinking | 224 |
 | 26 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🎯Core Concepts | 233 |
@@ -988,7 +988,7 @@ extraction_summary:
 | 28 | [[Note]] | — | Section | Task-Specific Implicit Fields | 274 |
 | 29 | [[Note]] | — | ^task-id | Task-Specific Implicit Fields | 275 |
 | 30 | [[Inline Fields]] | — | — | Task-Specific Implicit Fields | 279 |
-| 31 | [[Tasks Plugin]] | — | — | 2. Priority & Urgency Queries | 351 |
+| 31 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 2. Priority & Urgency Queries | 351 |
 | 32 | [[Priority Management]] | — | — | 2. Priority & Urgency Queries | 384 |
 | 33 | [[Project X]] | — | — | 4. Project & Context Queries | 448 |
 | 34 | [[Project Alpha]] | — | — | 4. Project & Context Queries | 460 |
@@ -1000,16 +1000,16 @@ extraction_summary:
 | 40 | [[Bob]] | — | — | 5. Custom Metadata Queries | 545 |
 | 41 | [[Carol]] | — | — | 5. Custom Metadata Queries | 546 |
 | 42 | [[Blocked]] | — | — | 6. Advanced Filtering Patterns | 562 |
-| 43 | [[Tasks Plugin]] | — | — | 6. Advanced Filtering Patterns | 583 |
+| 43 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 6. Advanced Filtering Patterns | 583 |
 | 44 | [[GTD Workflow]] | — | — | 6. Advanced Filtering Patterns | 606 |
 | 45 | [[DataviewJS]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 46 | [[DQL]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 47 | [[Dashboard Design]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
 | 48 | [[Query Performance]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
-| 49 | [[Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
+| 49 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
 | 50 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
 | 51 | [[Q4 Planning]] | — | — | Tasks Plugin Compatibility | 803 |
-| 52 | [[Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 807 |
+| 52 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 807 |
 | 53 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 808 |
 | 54 | [[Inline Fields]] | — | — | Tasks Plugin Compatibility | 809 |
 | 55 | [[Daily Notes]] | — | — | Daily Notes Integration | 849 |
@@ -1024,7 +1024,7 @@ extraction_summary:
 | 64 | [[Obsidian Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 65 | [[JavaScript Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 66 | [[Tasks Plugin Advanced Workflows]] | — | — | 🔗 Related Topics for PKB Expansion | 1038 |
-| 67 | [[Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
+| 67 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 68 | [[GTD Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 69 | [[Productivity Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 70 | [[DataviewJS Custom Functions Library]] | — | — | 🔗 Related Topics for PKB Expansion | 1043 |
@@ -1412,7 +1412,7 @@ LIMIT <number>
 
 ```plaintext
 > 
-> **What it does:** Finds [[Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier
+> **What it does:** Finds [[Tasks-Plugin|Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier
 > 
 > **Use case:** Daily habit tracking / recurring maintenance tasks
 > 
@@ -1546,7 +1546,7 @@ LIMIT <number>
 ### Tasks Plugin Compatibility
 
 > [!connections-and-links] Tasks Plugin + Dataview Synergy
-> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin|Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
+> The [[Tasks-Plugin|Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin|Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
 
 **Tasks Plugin Syntax Quick Reference:**
 
@@ -1569,7 +1569,7 @@ LIMIT <number>
 
 ```plaintext
 **What this enables:**
-- [[Tasks Plugin]] provides UI and recurrence handling
+- [[Tasks-Plugin|Tasks Plugin]] provides UI and recurrence handling
 - [[Dataview-Plugin|Dataview Plugin]] provides querying and dashboard capabilities
 - [[Inline Fields]] add custom metadata dimensions
 - All three systems work together seamlessly
@@ -1903,12 +1903,12 @@ LIMIT <number>
 - [[Project X]]
 - [[Q4 Planning]]
 - [[Query Performance]]
-- [[Task Management]]
-- [[Tasks Plugin]]
+- [[Task-Management|Task Management]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Advanced Workflows]]
 - [[User Interface Design]]
 - [[WHERE Clause]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 
 ---
 

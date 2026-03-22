@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +79,14 @@ see-also:
   - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
   - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
   - "[[Peirce|Peirce]]"
+  - "[[Deductive-Reasoning|Deductive Reasoning]]"
+  - "[[Inductive-Reasoning|Inductive Reasoning]]"
+  - "[[Abductive-Reasoning|Abductive Reasoning]]"
+  - "[[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]"
+  - "[[Design-Thinking-Pedagogy|Design Thinking Pedagogy]]"
+  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
+  - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
+  - "[[Peirce|Peirce]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,7 +115,7 @@ importance: high
 # Context of Discovery vs. Context of Justification
 
 > [!definition] **Context of Discovery vs. Context of Justification**
-> A foundational distinction in [[Philosophy of Science|philosophy of science]], associated with [[Hans Reichenbach]] (1938), between the *context of discovery* (the psychological and heuristic process by which hypotheses are generated) and the *context of justification* (the logical process by which hypotheses are tested and confirmed or disconfirmed). Peirce's abduction belongs primarily to the context of discovery, though [[Inference-to-the-Best-Explanation]] attempts to give it a role in the context of justification as well. The distinction matters pedagogically: abductive reasoning instruction concerns different cognitive skills than hypothesis-testing instruction, and conflating the two leads to curricular design errors.
+> A foundational distinction in [[philosophy-of-science|philosophy of science]], associated with [[Hans-Reichenbach]] (1938), between the *context of discovery* (the psychological and heuristic process by which hypotheses are generated) and the *context of justification* (the logical process by which hypotheses are tested and confirmed or disconfirmed). Peirce's abduction belongs primarily to the context of discovery, though [[Inference-to-the-Best-Explanation]] attempts to give it a role in the context of justification as well. The distinction matters pedagogically: abductive reasoning instruction concerns different cognitive skills than hypothesis-testing instruction, and conflating the two leads to curricular design errors.
 
 ## Core Explanation
 
@@ -132,7 +140,7 @@ importance: high
 ## Practical Implications
 
 > [!example] **Application**
-> Research by [[Manu Kapur]] and colleagues on *productive failure* provides strong empirical support for a specifically abductive pedagogical design. In productive failure studies, students are given complex problems without prior instruction, allowed to generate multiple (typically incorrect or incomplete) solution methods, and only then provided with direct instruction. The abductive process of hypothesis generation during the initial exploration phase, even when it produces wrong answers,…
+> Research by [[Manu-Kapur]] and colleagues on *productive failure* provides strong empirical support for a specifically abductive pedagogical design. In productive failure studies, students are given complex problems without prior instruction, allowed to generate multiple (typically incorrect or incomplete) solution methods, and only then provided with direct instruction. The abductive process of hypothesis generation during the initial exploration phase, even when it produces wrong answers,…
 
 > [!example] **Application**
 > Deliberately introducing anomalous data, counterintuitive demonstrations, or cases that confound prior expectations creates the abductive occasion. Science education research on *conceptual change* (Posner et al., 1982; Chi, 2008) converges on the finding that learners who encounter demonstrably anomalous data that contradicts their existing mental models are better motivated to engage in genuine conceptual restructuring. The pedagogical challenge is calibrating the anomaly: it must be…
@@ -161,7 +169,7 @@ importance: high
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
 
 **Related concepts:**
-[[Deductive-Reasoning|Deductive Reasoning]] · [[Inductive-Reasoning|Inductive Reasoning]] · [[Abductive-Reasoning|Abductive Reasoning]] · [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] · [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Peirce]] · [[Analogical-Reasoning|Analogical Reasoning]] · [[Philosophy-of-Science|Philosophy of Science]] · [[Hans-Reichenbach|Hans Reichenbach]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Gilbert-Harman|Gilbert Harman]]
+[[Deductive-Reasoning|Deductive Reasoning]] · [[Inductive-Reasoning|Inductive Reasoning]] · [[Abductive-Reasoning|Abductive Reasoning]] · [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] · [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Peirce]] · [[Analogical-Reasoning|Analogical Reasoning]] · [[philosophy-of-science|Philosophy of Science]] · [[Hans-Reichenbach|Hans Reichenbach]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Gilbert-Harman|Gilbert Harman]]
 
 **Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
 [[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]] * [[Embodied-Cognition|Embodied Cognition]] * [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
@@ -189,6 +197,38 @@ importance: high
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Abductive-Reasoning|Abductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]] * [[Embodied-Cognition|Embodied Cognition]] * [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+
+
+
+
 
 
 

@@ -241,7 +241,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Hellenistic Philosophy's Common Ground**
 > 
-> Despite their profound differences, the three major Hellenistic schools—[[Stoicism]], [[Epicureanism]], and [[Academic Skepticism]]—shared certain features distinguishing them from classical Greek philosophy. All three were "dogmatic" in the technical sense (claiming to possess knowledge), except the Skeptics who suspended judgment. All three emphasized philosophy as a way of life aimed at *[[eudaimonia]]*. All three developed systematic accounts spanning logic, physics, and ethics. And all three responded to the political instability of the Hellenistic age by focusing on what individuals could control regardless of external circumstances.
+> Despite their profound differences, the three major Hellenistic schools—[[Stoicism]], [[Epicureanism]], and [[Academic Skepticism]]—shared certain features distinguishing them from classical Greek philosophy. All three were "dogmatic" in the technical sense (claiming to possess knowledge), except the Skeptics who suspended judgment. All three emphasized philosophy as a way of life aimed at *[[Eudaimonia]]*. All three developed systematic accounts spanning logic, physics, and ethics. And all three responded to the political instability of the Hellenistic age by focusing on what individuals could control regardless of external circumstances.
 
 #### 15. [COUNTER-ARGUMENT] Untitled *(Line 255)*
 
@@ -283,16 +283,16 @@ extraction_summary:
 > [!historical-context] Untitled
 > **Philosophy on the Frontier**
 > 
-> [[Marcus Aurelius]] (121-180 CE) represents the remarkable culmination of Stoic political philosophy—a practicing Stoic as emperor of Rome. Yet his reign (161-180 CE) was anything but the peaceful rule that might allow philosophical contemplation. He spent most of his emperorship on the northern frontier, defending Rome against Germanic and Sarmatian invasions in the [[Marcomannic Wars]]. His philosophical notebook, the *[[Meditations]]* (*Ta eis heauton*, "To Himself"), was written in military camps, between battles, in moments stolen from imperial duties. The work has the feel of urgent self-reminder, philosophy desperately needed for psychological survival.
+> [[Marcus-Aurelius|Marcus Aurelius]] (121-180 CE) represents the remarkable culmination of Stoic political philosophy—a practicing Stoic as emperor of Rome. Yet his reign (161-180 CE) was anything but the peaceful rule that might allow philosophical contemplation. He spent most of his emperorship on the northern frontier, defending Rome against Germanic and Sarmatian invasions in the [[Marcomannic Wars]]. His philosophical notebook, the *[[Meditations]]* (*Ta eis heauton*, "To Himself"), was written in military camps, between battles, in moments stolen from imperial duties. The work has the feel of urgent self-reminder, philosophy desperately needed for psychological survival.
 
 #### 21. [CONNECTIONS-AND-LINKS] Untitled *(Line 359)*
 
 > [!connections-and-links] Untitled
 > **Integration with Existing Cognitive Frameworks**
 > 
-> Understanding Stoicism's historical development illuminates its connections to multiple domains within a comprehensive knowledge system. **[[Epistemic-Autonomy-—-Epistemology|Epistemology]]** emerges as central to Stoic thought through their debate with Academic Skeptics over the possibility and criteria of knowledge, particularly their theory of kataleptic impressions as self-evidencing truth. This connects to **[[Cognitive-Science|Cognitive Science]]** through Stoic psychology of judgment and its anticipation of cognitive-behavioral therapy—the recognition that emotions result from evaluative beliefs that can be modified through rational examination. The Stoic emphasis on **[[Cognitive Biases]]** in the form of false judgments about value anticipates modern research on how systematic errors in thinking create suffering.
+> Understanding Stoicism's historical development illuminates its connections to multiple domains within a comprehensive knowledge system. **[[Epistemic-Autonomy-—-Epistemology|Epistemology]]** emerges as central to Stoic thought through their debate with Academic Skeptics over the possibility and criteria of knowledge, particularly their theory of kataleptic impressions as self-evidencing truth. This connects to **[[Cognitive-Science|Cognitive Science]]** through Stoic psychology of judgment and its anticipation of cognitive-behavioral therapy—the recognition that emotions result from evaluative beliefs that can be modified through rational examination. The Stoic emphasis on **[[Cognitive-Biases|Cognitive Biases]]** in the form of false judgments about value anticipates modern research on how systematic errors in thinking create suffering.
 > 
-> **[[Political Philosophy]]** developed through Stoicism's transition from Greek city-state context to cosmopolitan Roman Empire, particularly their articulation of cosmopolitanism as moral framework transcending parochial loyalties. The tension between Stoic ideals and political realities visible in figures like Seneca and Marcus Aurelius connects to **[[Virtue Ethics]]** and its application in non-ideal circumstances. **[[Systems Thinking]]** appears in Stoic physics and its vision of cosmic interconnection, where individual events gain meaning through their place in larger rational order—an ancient anticipation of holistic approaches to understanding complex systems.
+> **[[Political-Philosophy|Political Philosophy]]** developed through Stoicism's transition from Greek city-state context to cosmopolitan Roman Empire, particularly their articulation of cosmopolitanism as moral framework transcending parochial loyalties. The tension between Stoic ideals and political realities visible in figures like Seneca and Marcus Aurelius connects to **[[Virtue-Ethics|Virtue Ethics]]** and its application in non-ideal circumstances. **[[Systems Thinking]]** appears in Stoic physics and its vision of cosmic interconnection, where individual events gain meaning through their place in larger rational order—an ancient anticipation of holistic approaches to understanding complex systems.
 > 
 > **[[Learning Theory]]** emerges through Epictetus's emphasis on *askēsis* and deliberate practice, recognizing that intellectual understanding alone doesn't change behavior without systematic training—a principle confirmed by modern research on habit formation and skill acquisition. Stoicism's therapeutic dimension connects to **[[Positive Psychology]]** through its focus on human flourishing, resilience, and the cultivation of practical wisdom rather than mere theoretical knowledge. The historical evolution from early systematic philosophy to late practical ethics demonstrates how **[[Paradigm Shifts]]** occur when changing circumstances demand new emphases while preserving core commitments.
 > 
@@ -361,7 +361,7 @@ extraction_summary:
 - [[Cato the Younger]]
 - [[Chrysippus of Soli]]
 - [[Cleanthes of Assos]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Commodus]]
 - [[Comparative Philosophy]]
@@ -391,7 +391,7 @@ extraction_summary:
 - [[Lucius Annaeus Seneca]]
 - [[Lyceum]]
 - [[Marcomannic Wars]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditations]]
 - [[Panaetius]]
 - [[Panaetius of Rhodes]]
@@ -401,7 +401,7 @@ extraction_summary:
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Plato]]
 - [[Platonic philosophy]]
-- [[Political Philosophy]]
+- [[Political-Philosophy|Political Philosophy]]
 - [[Posidonius]]
 - [[Posidonius of Apamea]]
 - [[Positive Psychology]]
@@ -420,13 +420,13 @@ extraction_summary:
 - [[Tacitus]]
 - [[The Historical and Intellectual Origins of Stoicism]]
 - [[The Stoic Theory of Passions and Therapy]]
-- [[Virtue Ethics]]
-- [[apatheia]]
+- [[Virtue-Ethics|Virtue Ethics]]
+- [[Apatheia]]
 - [[compatibilism]]
 - [[cosmic conflagration]]
 - [[cosmic perspective]]
 - [[cosmopolitanism]]
-- [[eudaimonia]]
+- [[Eudaimonia]]
 - [[indifferents]]
 - [[kataleptic impressions]]
 - [[living in agreement with nature]]
@@ -434,7 +434,7 @@ extraction_summary:
 - [[passions]]
 - [[pneuma]]
 - [[polis]]
-- [[prohairesis]]
+- [[Prohairesis]]
 - [[providence]]
 - [[social duty]]
 - [[wisdom]]
@@ -453,7 +453,7 @@ extraction_summary:
 | 8 | [[Diadochi]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
 | 9 | [[Plato]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 10 | [[Aristotle]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
-| 11 | [[eudaimonia]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
+| 11 | [[Eudaimonia]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 12 | [[Stoicism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 13 | [[Epicureanism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 14 | [[Academic Skepticism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
@@ -483,11 +483,11 @@ extraction_summary:
 | 38 | [[cosmic conflagration]] | — | — | Chrysippus: "Without Him, There Would... | 234 |
 | 39 | [[compatibilism]] | — | — | Chrysippus: "Without Him, There Would... | 234 |
 | 40 | [[passions]] | — | — | Chrysippus: "Without Him, There Would... | 236 |
-| 41 | [[apatheia]] | — | — | Chrysippus: "Without Him, There Would... | 236 |
+| 41 | [[Apatheia]] | — | — | Chrysippus: "Without Him, There Would... | 236 |
 | 42 | [[Stoicism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
 | 43 | [[Epicureanism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
 | 44 | [[Academic Skepticism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
-| 45 | [[eudaimonia]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
+| 45 | [[Eudaimonia]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
 | 46 | [[Stoicism]] | — | — | Stoicism and Epicureanism: Rival Visi... | 247 |
 | 47 | [[Epicureanism]] | — | — | Stoicism and Epicureanism: Rival Visi... | 247 |
 | 48 | [[Epicurus]] | — | — | Stoicism and Epicureanism: Rival Visi... | 247 |
@@ -513,12 +513,12 @@ extraction_summary:
 | 68 | [[Epistulae Morales ad Lucilium]] | — | — | Seneca the Younger: Wealth, Power, an... | 310 |
 | 69 | [[Tacitus]] | — | — | Seneca the Younger: Wealth, Power, an... | 314 |
 | 70 | [[Epictetus]] | — | — | Epictetus: From Slavery to Teaching | 321 |
-| 71 | [[prohairesis]] | — | — | Epictetus: From Slavery to Teaching | 323 |
+| 71 | [[Prohairesis]] | — | — | Epictetus: From Slavery to Teaching | 323 |
 | 72 | [[Enchiridion]] | — | — | Epictetus: From Slavery to Teaching | 323 |
 | 73 | [[Gaius Musonius Rufus]] | — | — | Epictetus: From Slavery to Teaching | 325 |
 | 74 | [[Arrian]] | — | — | Epictetus: From Slavery to Teaching | 325 |
 | 75 | [[Discourses]] | — | — | Epictetus: From Slavery to Teaching | 325 |
-| 76 | [[Marcus Aurelius]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 343 |
+| 76 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 343 |
 | 77 | [[Marcomannic Wars]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 343 |
 | 78 | [[Meditations]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 343 |
 | 79 | [[Quintus Junius Rusticus]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 345 |
@@ -530,9 +530,9 @@ extraction_summary:
 | 85 | [[Commodus]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 355 |
 | 86 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
 | 87 | [[Cognitive-Science|Cognitive Science]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
-| 88 | [[Cognitive Biases]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
-| 89 | [[Political Philosophy]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
-| 90 | [[Virtue Ethics]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
+| 88 | [[Cognitive-Biases|Cognitive Biases]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
+| 89 | [[Political-Philosophy|Political Philosophy]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
+| 90 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
 | 91 | [[Systems Thinking]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
 | 92 | [[Learning Theory]] | — | — | ⚡ Historical Context and Philosophica... | 366 |
 | 93 | [[Positive Psychology]] | — | — | ⚡ Historical Context and Philosophica... | 366 |
@@ -674,7 +674,7 @@ LIMIT 15
 - [[Cato the Younger]]
 - [[Chrysippus of Soli]]
 - [[Cleanthes of Assos]]
-- [[Cognitive Biases]]
+- [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Commodus]]
 - [[Comparative Philosophy]]
@@ -704,7 +704,7 @@ LIMIT 15
 - [[Lucius Annaeus Seneca]]
 - [[Lyceum]]
 - [[Marcomannic Wars]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Meditations]]
 - [[Panaetius]]
 - [[Panaetius of Rhodes]]
@@ -714,7 +714,7 @@ LIMIT 15
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Plato]]
 - [[Platonic philosophy]]
-- [[Political Philosophy]]
+- [[Political-Philosophy|Political Philosophy]]
 - [[Posidonius]]
 - [[Posidonius of Apamea]]
 - [[Positive Psychology]]
@@ -733,13 +733,13 @@ LIMIT 15
 - [[Tacitus]]
 - [[The Historical and Intellectual Origins of Stoicism]]
 - [[The Stoic Theory of Passions and Therapy]]
-- [[Virtue Ethics]]
-- [[apatheia]]
+- [[Virtue-Ethics|Virtue Ethics]]
+- [[Apatheia]]
 - [[compatibilism]]
 - [[cosmic conflagration]]
 - [[cosmic perspective]]
 - [[cosmopolitanism]]
-- [[eudaimonia]]
+- [[Eudaimonia]]
 - [[indifferents]]
 - [[kataleptic impressions]]
 - [[living in agreement with nature]]
@@ -747,7 +747,7 @@ LIMIT 15
 - [[passions]]
 - [[pneuma]]
 - [[polis]]
-- [[prohairesis]]
+- [[Prohairesis]]
 - [[providence]]
 - [[social duty]]
 - [[wisdom]]

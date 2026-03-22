@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,6 +85,14 @@ see-also:
   - "[[Classical-Epistemology|Classical Epistemology]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Amos-Tversky|Amos Tversky]]"
+  - "[[Debiasing-Interventions|Debiasing Interventions]]"
+  - "[[Linda-Zagzebski|Linda Zagzebski]]"
+  - "[[Jason-Baehr|Jason Baehr]]"
+  - "[[Heather-Battaly|Heather Battaly]]"
+  - "[[Stoic-Virtue-Ethics|Stoic Virtue Ethics]]"
   - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
   - "[[Daniel-Kahneman|Daniel Kahneman]]"
   - "[[Amos-Tversky|Amos Tversky]]"
@@ -218,6 +226,18 @@ importance: high
 
 **Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
 - [[Fallibilism|Fallibilism]]
+
+**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
+[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+
+
 
 
 

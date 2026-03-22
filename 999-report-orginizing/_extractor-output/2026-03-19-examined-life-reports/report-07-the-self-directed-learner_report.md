@@ -193,7 +193,7 @@ extraction_summary:
 #### 12. [CONNECTION-IDEAS] 🔗 Connection to Reports 01 and 03 *(Line 261)*
 
 > [!connection-ideas] 🔗 Connection to Reports 01 and 03
-> This structural homology retroactively deepens two previous reports in significant ways. [[Dewey's Reflective Thinking|Report 01's]] account of the activation of inquiry identified the "felt difficulty" as the trigger for reflective thought. The current synthesis reveals that this felt difficulty can only be genuinely and repeatedly productive when the learner has sufficient SRL development to respond to it constructively (forethought and planning), and sufficient OIT internalization to sustain engagement through the difficulty rather than retreating (autonomous motivation). Report 03's treatment of intrinsic motivation as the energetic basis of the examined life gains a developmental dimension: intrinsic motivation is not merely present or absent but *cultivated* through the internalization process that SRL development simultaneously enacts and requires.
+> This structural homology retroactively deepens two previous reports in significant ways. [[Dewey's-Reflective-Thinking|Report 01's]] account of the activation of inquiry identified the "felt difficulty" as the trigger for reflective thought. The current synthesis reveals that this felt difficulty can only be genuinely and repeatedly productive when the learner has sufficient SRL development to respond to it constructively (forethought and planning), and sufficient OIT internalization to sustain engagement through the difficulty rather than retreating (autonomous motivation). Report 03's treatment of intrinsic motivation as the energetic basis of the examined life gains a developmental dimension: intrinsic motivation is not merely present or absent but *cultivated* through the internalization process that SRL development simultaneously enacts and requires.
 
 #### 13. [INSIGHT] 💡 The Social Origins of Self-Direction *(Line 270)*
 
@@ -380,14 +380,14 @@ extraction_summary:
 > [!methodology-and-sources] 🔬 Research Methodology and Evidence Summary
 > This report integrates evidence from four empirically grounded traditions. The SRL evidence base is robust: Zimmerman's cyclical model has been tested across multiple experimental and correlational studies beginning in the late 1980s, and three major meta-analyses (Dignath & Büttner, 2008; Dignath et al., 2008; Sitzmann & Ely, 2011) confirm that SRL interventions produce significant positive effects on academic performance. The SDT evidence base is equally well-established, with Ryan and Deci's 2020 review summarizing over five decades of research across dozens of cultural contexts. The constructivist theoretical frameworks (Piaget, Vygotsky) are primarily theoretical but have generated substantial empirical educational research traditions. The metacognitive strategy tradition is well-validated through the MAI (Schraw & Dennison, 1994) and multiple intervention studies. The integration proposed here — that these four frameworks constitute a unified developmental architecture — represents this report's original synthetic contribution and extends beyond what any single existing study has directly tested. The emergent concept of Recursive Self-Authorship is a theoretical proposal grounded in the convergent logic of the synthesis rather than in direct empirical evidence, and should be treated as a hypothesis requiring further investigation.
 
-#### 53. [CONNECTION-IDEAS] 🔗 Expansion Topic 1: [[Deliberate Practice and Expert Development]] *(Line 453)*
+#### 53. [CONNECTION-IDEAS] 🔗 Expansion Topic 1: [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]] *(Line 453)*
 
-> [!connection-ideas] 🔗 Expansion Topic 1: [[Deliberate Practice and Expert Development]]
+> [!connection-ideas] 🔗 Expansion Topic 1: [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]]
 > Ericsson's research program on deliberate practice (high-quality, focused, feedback-rich practice at the edge of current capacity) is the empirical account of what sustained recursive self-authorship produces over time — expertise. Understanding how deliberate practice intersects with SRL's cyclical model and SDT's competence need would deepen this report's account of the long-term developmental trajectory significantly. Priority: **High**.
 
-#### 54. [CONNECTION-IDEAS] 🔗 Expansion Topic 2: [[Growth Mindset and Implicit Theories of Intelligence]] *(Line 456)*
+#### 54. [CONNECTION-IDEAS] 🔗 Expansion Topic 2: [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] *(Line 456)*
 
-> [!connection-ideas] 🔗 Expansion Topic 2: [[Growth Mindset and Implicit Theories of Intelligence]]
+> [!connection-ideas] 🔗 Expansion Topic 2: [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
 > Carol Dweck's research reveals that implicit theories about the fixed or malleable nature of intelligence systematically predict the adoption or avoidance of the fallibilist-constructivist posture essential to self-directed development. The growth mindset is the motivational belief architecture that makes recursive self-authorship sustainable when difficulties arise. Priority: **High**.
 
 #### 55. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: [[Transfer of Learning and Near vs. Far Transfer]] *(Line 459)*
@@ -405,9 +405,9 @@ extraction_summary:
 > [!connection-ideas] 🔗 Expansion Topic 5: [[Scaffolded Fading and Gradual Release of Responsibility]]
 > The instructional design literature on scaffolded fading — particularly the Gradual Release of Responsibility model (Pearson & Gallagher) — provides pedagogical specification for the developmental principle this report identifies but leaves operationally underspecified: how external support should be structured to develop rather than replace internal self-direction. Priority: **Medium**.
 
-#### 58. [CONNECTION-IDEAS] 🔗 Expansion Topic 6: [[Autonomy-Supportive Teaching and Learning Environments]] *(Line 468)*
+#### 58. [CONNECTION-IDEAS] 🔗 Expansion Topic 6: [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive Teaching and Learning Environments]] *(Line 468)*
 
-> [!connection-ideas] 🔗 Expansion Topic 6: [[Autonomy-Supportive Teaching and Learning Environments]]
+> [!connection-ideas] 🔗 Expansion Topic 6: [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive Teaching and Learning Environments]]
 > The SDT literature on autonomy-supportive teaching (Reeve, 2009) describes the specific environmental and interpersonal conditions that facilitate movement along the internalization continuum. For the adult self-directed learner, this translates to the design of one's own learning environment to be autonomy-supportive — an act of recursive self-authorship applied to the social and material conditions of one's intellectual development. Priority: **Medium**.
 
 ---
@@ -420,37 +420,37 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Albert Bandura]]
-- [[Autonomy-Supportive Teaching and Learning Environments]]
+- [[Albert-Bandura|Albert Bandura]]
+- [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive Teaching and Learning Environments]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Constructivism]]
-- [[Deci and Ryan]]
-- [[Deliberate Practice and Expert Development]]
-- [[Dewey's Reflective Thinking]]
+- [[Deci-and-Ryan|Deci and Ryan]]
+- [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
-- [[Edward Deci]]
-- [[Gregory Schraw]]
-- [[Growth Mindset and Implicit Theories of Intelligence]]
-- [[Jean Piaget]]
-- [[Jerome Bruner]]
-- [[John Flavell]]
-- [[Lev Vygotsky]]
-- [[Lovett et al.]]
+- [[Edward-Deci|Edward Deci]]
+- [[Gregory-Schraw|Gregory Schraw]]
+- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[Jerome-Bruner|Jerome Bruner]]
+- [[John-Flavell|John Flavell]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
+- [[Lovett-et-al.|Lovett et al.]]
 - [[Metacognition Awareness Inventory]]
-- [[Metacognitive Strategy]]
+- [[Metacognitive-Strategy|Metacognitive Strategy]]
 - [[Metacognitive strategies]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Personal Knowledge Management Systems and Spaced Repetition]]
 - [[Recursive-Self-Authorship|Recursive Self-Authorship]]
-- [[Richard Ryan]]
-- [[SDT Internalization Continuum]]
+- [[Richard-Ryan|Richard Ryan]]
+- [[SDT-Internalization-Continuum|SDT Internalization Continuum]]
 - [[Scaffolded Fading and Gradual Release of Responsibility]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]]
-- [[Winne and Hadwin]]
+- [[Winne-and-Hadwin|Winne and Hadwin]]
 - [[Zettelkasten]]
 - [[Zimmerman]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -459,52 +459,52 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Lev Vygotsky]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 178 |
+| 1 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 178 |
 | 2 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 3 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 4 | [[Paul Pintrich]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 5 | [[Winne and Hadwin]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 4 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 5 | [[Winne-and-Hadwin|Winne and Hadwin]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 6 | [[Constructivism]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 7 | [[Jean Piaget]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 8 | [[Lev Vygotsky]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 9 | [[Jerome Bruner]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 10 | [[SDT Internalization Continuum]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 7 | [[Jean-Piaget|Jean Piaget]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 8 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 9 | [[Jerome-Bruner|Jerome Bruner]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 10 | [[SDT-Internalization-Continuum|SDT Internalization Continuum]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 11 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 12 | [[Metacognitive Strategy]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 13 | [[Gregory Schraw]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 14 | [[Lovett et al.]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 12 | [[Metacognitive-Strategy|Metacognitive Strategy]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 13 | [[Gregory-Schraw|Gregory Schraw]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 14 | [[Lovett-et-al.|Lovett et al.]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 15 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Self-Regulated Learning Tradition... | 199 |
-| 16 | [[Albert Bandura]] | — | — | The Self-Regulated Learning Tradition... | 199 |
-| 17 | [[John Flavell]] | — | — | The Self-Regulated Learning Tradition... | 199 |
+| 16 | [[Albert-Bandura|Albert Bandura]] | — | — | The Self-Regulated Learning Tradition... | 199 |
+| 17 | [[John-Flavell|John Flavell]] | — | — | The Self-Regulated Learning Tradition... | 199 |
 | 18 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | The Self-Regulated Learning Tradition... | 201 |
-| 19 | [[Paul Pintrich]] | — | — | The Self-Regulated Learning Tradition... | 206 |
+| 19 | [[Paul-Pintrich|Paul Pintrich]] | — | — | The Self-Regulated Learning Tradition... | 206 |
 | 20 | [[Constructivism]] | — | — | Constructivism: How Is Knowledge Built? | 212 |
-| 21 | [[Jean Piaget]] | — | — | Constructivism: How Is Knowledge Built? | 214 |
+| 21 | [[Jean-Piaget|Jean Piaget]] | — | — | Constructivism: How Is Knowledge Built? | 214 |
 | 22 | [[Schema-Theory|Schema Theory]] | schemas | — | Constructivism: How Is Knowledge Built? | 214 |
-| 23 | [[Dewey's Reflective Thinking]] | Dewey | — | Constructivism: How Is Knowledge Built? | 217 |
-| 24 | [[Lev Vygotsky]] | — | — | Constructivism: How Is Knowledge Built? | 219 |
+| 23 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | Dewey | — | Constructivism: How Is Knowledge Built? | 217 |
+| 24 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Constructivism: How Is Knowledge Built? | 219 |
 | 25 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Constructivism: How Is Knowledge Built? | 219 |
-| 26 | [[Jerome Bruner]] | — | — | Constructivism: How Is Knowledge Built? | 221 |
+| 26 | [[Jerome-Bruner|Jerome Bruner]] | — | — | Constructivism: How Is Knowledge Built? | 221 |
 | 27 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | SDT's Internalization Continuum: How ... | 225 |
 | 28 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | SDT's Internalization Continuum: How ... | 225 |
-| 29 | [[Edward Deci]] | — | — | SDT's Internalization Continuum: How ... | 232 |
-| 30 | [[Richard Ryan]] | — | — | SDT's Internalization Continuum: How ... | 232 |
-| 31 | [[Gregory Schraw]] | — | — | Metacognitive Strategy Research: What... | 236 |
+| 29 | [[Edward-Deci|Edward Deci]] | — | — | SDT's Internalization Continuum: How ... | 232 |
+| 30 | [[Richard-Ryan|Richard Ryan]] | — | — | SDT's Internalization Continuum: How ... | 232 |
+| 31 | [[Gregory-Schraw|Gregory Schraw]] | — | — | Metacognitive Strategy Research: What... | 236 |
 | 32 | [[Metacognition Awareness Inventory]] | — | — | Metacognitive Strategy Research: What... | 241 |
 | 33 | [[Zimmerman]] | — | — | The Master Structural Homology: Two D... | 255 |
-| 34 | [[Deci and Ryan]] | — | — | The Master Structural Homology: Two D... | 255 |
-| 35 | [[Dewey's Reflective Thinking]] | Report 01's | — | The Master Structural Homology: Two D... | 262 |
+| 34 | [[Deci-and-Ryan|Deci and Ryan]] | — | — | The Master Structural Homology: Two D... | 255 |
+| 35 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | Report 01's | — | The Master Structural Homology: Two D... | 262 |
 | 36 | [[Metacognitive strategies]] | — | — | Metacognitive Strategies as the Opera... | 284 |
 | 37 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 300 |
 | 38 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | competence problem | — | Worked Example: The Autodidact at the... | 313 |
 | 39 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 355 |
-| 40 | [[Deliberate Practice and Expert Development]] | — | — | Expansion Topics for PKB Development | 453 |
-| 41 | [[Growth Mindset and Implicit Theories of Intelligence]] | — | — | Expansion Topics for PKB Development | 456 |
+| 40 | [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]] | — | — | Expansion Topics for PKB Development | 453 |
+| 41 | [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] | — | — | Expansion Topics for PKB Development | 456 |
 | 42 | [[Transfer of Learning and Near vs. Far Transfer]] | — | — | Expansion Topics for PKB Development | 459 |
 | 43 | [[Personal Knowledge Management Systems and Spaced Repetition]] | — | — | Expansion Topics for PKB Development | 462 |
 | 44 | [[Zettelkasten]] | — | — | Expansion Topics for PKB Development | 463 |
 | 45 | [[Scaffolded Fading and Gradual Release of Responsibility]] | — | — | Expansion Topics for PKB Development | 465 |
-| 46 | [[Autonomy-Supportive Teaching and Learning Environments]] | — | — | Expansion Topics for PKB Development | 468 |
+| 46 | [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive Teaching and Learning Environments]] | — | — | Expansion Topics for PKB Development | 468 |
 
 ---
 
@@ -525,37 +525,37 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Albert Bandura]]
-- [[Autonomy-Supportive Teaching and Learning Environments]]
+- [[Albert-Bandura|Albert Bandura]]
+- [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive Teaching and Learning Environments]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Constructivism]]
-- [[Deci and Ryan]]
-- [[Deliberate Practice and Expert Development]]
-- [[Dewey's Reflective Thinking]]
+- [[Deci-and-Ryan|Deci and Ryan]]
+- [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]]
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
-- [[Edward Deci]]
-- [[Gregory Schraw]]
-- [[Growth Mindset and Implicit Theories of Intelligence]]
-- [[Jean Piaget]]
-- [[Jerome Bruner]]
-- [[John Flavell]]
-- [[Lev Vygotsky]]
-- [[Lovett et al.]]
+- [[Edward-Deci|Edward Deci]]
+- [[Gregory-Schraw|Gregory Schraw]]
+- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[Jerome-Bruner|Jerome Bruner]]
+- [[John-Flavell|John Flavell]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
+- [[Lovett-et-al.|Lovett et al.]]
 - [[Metacognition Awareness Inventory]]
-- [[Metacognitive Strategy]]
+- [[Metacognitive-Strategy|Metacognitive Strategy]]
 - [[Metacognitive strategies]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Personal Knowledge Management Systems and Spaced Repetition]]
 - [[Recursive-Self-Authorship|Recursive Self-Authorship]]
-- [[Richard Ryan]]
-- [[SDT Internalization Continuum]]
+- [[Richard-Ryan|Richard Ryan]]
+- [[SDT-Internalization-Continuum|SDT Internalization Continuum]]
 - [[Scaffolded Fading and Gradual Release of Responsibility]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]]
-- [[Winne and Hadwin]]
+- [[Winne-and-Hadwin|Winne and Hadwin]]
 - [[Zettelkasten]]
 - [[Zimmerman]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -573,8 +573,8 @@ extraction_summary:
 #### Related
 
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Deliberate Practice]]
-- [[Lifelong Learning]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Lifelong-learning|Lifelong Learning]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Expert Development]]
 

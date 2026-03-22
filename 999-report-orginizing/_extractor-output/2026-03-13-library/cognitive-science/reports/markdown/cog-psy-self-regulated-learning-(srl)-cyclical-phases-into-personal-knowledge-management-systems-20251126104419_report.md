@@ -264,7 +264,7 @@ extraction_summary:
 #### 24. [CONNECTIONS-AND-LINKS] Untitled *(Line 339)*
 
 > [!connections-and-links] Untitled
-> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate Practice]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Transfer-of-Learning|Transfer of Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
+> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate-Practice|Deliberate Practice]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Transfer-of-Learning|Transfer of Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
 
 #### 25. [ATTENTION] Untitled *(Line 384)*
 
@@ -307,15 +307,15 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Strategies]]
 - [[Cybernetics]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Expertise Development]]
 - [[Feedback Loops]]
 - [[Forethought-Phase|Forethought Phase]]
 - [[Goal Setting]]
 - [[Information-Architecture|Information Architecture]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Learning Science]]
 - [[Long-Term-Memory|Long-Term Memory]]
@@ -367,12 +367,12 @@ extraction_summary:
 | 14 | [[Cognitive Strategies]] | — | — | Claude Thinking: | 116 |
 | 15 | [[Metacognitive Strategies]] | — | — | Claude Thinking: | 116 |
 | 16 | [[Motivation]] | — | — | Claude Thinking: | 116 |
-| 17 | [[Executive Function]] | — | — | Claude Thinking: | 116 |
+| 17 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 116 |
 | 18 | [[Cybernetics]] | — | — | Claude Thinking: | 116 |
 | 19 | [[Systems Thinking]] | — | — | Claude Thinking: | 116 |
 | 20 | [[Zettelkasten]] | — | — | Claude Thinking: | 116 |
 | 21 | [[Obsidian]] | — | — | Claude Thinking: | 116 |
-| 22 | [[Knowledge Graph]] | — | — | Claude Thinking: | 116 |
+| 22 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Claude Thinking: | 116 |
 | 23 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Claude Thinking: | 116 |
 | 24 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Claude Thinking: | 116 |
 | 25 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Claude Thinking: | 116 |
@@ -385,14 +385,14 @@ extraction_summary:
 | 32 | [[Personal Information Management]] | — | — | Personal Knowledge Management as Cogn... | 164 |
 | 33 | [[Knowledge-Management|Knowledge Management]] | — | — | Personal Knowledge Management as Cogn... | 164 |
 | 34 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Personal Knowledge Management as Cogn... | 164 |
-| 35 | [[Deliberate Practice]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
+| 35 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 36 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 37 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 38 | [[Expertise Development]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 39 | [[Cognitive-Science|Cognitive Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 40 | [[Neuroplasticity]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 41 | [[Learning Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
-| 42 | [[Executive Function]] | — | — | Links to Cognitive Science and Neurop... | 346 |
+| 42 | [[Executive-Function|Executive Function]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 43 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Links to Cognitive Science and Neurop... | 348 |
 | 44 | [[Working-Memory|Working Memory]] | — | — | Links to Cognitive Science and Neurop... | 350 |
 | 45 | [[Cybernetics]] | — | — | Connections to Systems Theory and Cyb... | 354 |
@@ -489,15 +489,15 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Strategies]]
 - [[Cybernetics]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Expertise Development]]
 - [[Feedback Loops]]
 - [[Forethought-Phase|Forethought Phase]]
 - [[Goal Setting]]
 - [[Information-Architecture|Information Architecture]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Learning Science]]
 - [[Long-Term-Memory|Long-Term Memory]]

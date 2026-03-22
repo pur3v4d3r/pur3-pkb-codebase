@@ -5,6 +5,7 @@
 title: "Habit Formation"
 aliases:
   - "Habit Formation"
+  - "habit-formation"
 type: permanent-note
 status: seedling
 confidence: low

@@ -625,7 +625,7 @@ extraction_summary:
 - [[QuickAdd]]
 - [[Semantic Markup Principles for Knowledge Management]]
 - [[Stoicism]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Template Design]]
 - [[Templater]]
 - [[Templater Plugin - Complete Automation Reference]]
@@ -685,7 +685,7 @@ extraction_summary:
 | 45 | [[Dataview]] | — | — | red-bold | 1367 |
 | 46 | [[Dataview]] | — | — | Plugin Synergies | 1386 |
 | 47 | [[Dataview]] | — | — | Plugin Synergies | 1398 |
-| 48 | [[Tasks Plugin]] | — | — | Plugin Synergies | 1414 |
+| 48 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Plugin Synergies | 1414 |
 | 49 | [[Canvas]] | — | — | Plugin Synergies | 1424 |
 | 50 | [[Metadata]] | — | — | Cognitive Models for Understanding Wr... | 1567 |
 | 51 | [[Templates]] | — | — | Cognitive Models for Understanding Wr... | 1571 |
@@ -1617,7 +1617,7 @@ const newPattern = "<span style='color: #DC2626; font-weight: 500;'>$1</span>";
 - [[QuickAdd]]
 - [[Semantic Markup Principles for Knowledge Management]]
 - [[Stoicism]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Template Design]]
 - [[Templater]]
 - [[Templater Plugin - Complete Automation Reference]]

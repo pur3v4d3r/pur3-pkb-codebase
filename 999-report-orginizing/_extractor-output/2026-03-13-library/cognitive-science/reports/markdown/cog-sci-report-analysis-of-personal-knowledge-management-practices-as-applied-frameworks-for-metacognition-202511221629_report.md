@@ -148,7 +148,7 @@ extraction_summary:
 
 > [!analysis-cognitive] Untitled
 > **The Decision Cost of Linking**
-> When a student utilizes [[Rote Memorization]], facts are stored in isolation. In contrast, [[Associative Learning]] through linking imposes a "desirable difficulty"—a term coined by Robert Bjork—that strengthens retention. The cognitive load required to determine *where* a note belongs and *what* it connects to effectively encodes the information into long-term memory.
+> When a student utilizes [[Rote-memorization|Rote Memorization]], facts are stored in isolation. In contrast, [[Associative Learning]] through linking imposes a "desirable difficulty"—a term coined by Robert Bjork—that strengthens retention. The cognitive load required to determine *where* a note belongs and *what* it connects to effectively encodes the information into long-term memory.
 
 #### 7. [KEY-CLAIM] Untitled *(Line 71)*
 
@@ -242,7 +242,7 @@ extraction_summary:
 - [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]]
 - [[Metacognition]]
 - [[Metacognitive PKM Frameworks]]
-- [[Rote Memorization]]
+- [[Rote-memorization|Rote Memorization]]
 - [[Self-Regulated Learning via PKM]]
 - [[Zeigarnik Effect]]
 - [[zettelkasten method]]
@@ -262,7 +262,7 @@ extraction_summary:
 | 9 | [[Constructivism]] | — | — | The Theoretical Basis: From Storage t... | 50 |
 | 10 | [[Concept A]] | — | — | Note-Linking as Associative Metacogni... | 58 |
 | 11 | [[Concept B]] | — | — | Note-Linking as Associative Metacogni... | 58 |
-| 12 | [[Rote Memorization]] | — | — | Note-Linking as Associative Metacogni... | 62 |
+| 12 | [[Rote-memorization|Rote Memorization]] | — | — | Note-Linking as Associative Metacogni... | 62 |
 | 13 | [[Associative Learning]] | — | — | Note-Linking as Associative Metacogni... | 62 |
 | 14 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | — | — | Structuring as Schema Construction | 69 |
 | 15 | [[Chunking]] | — | — | Structuring as Schema Construction | 75 |
@@ -326,7 +326,7 @@ $$
 - [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]]
 - [[Metacognition]]
 - [[Metacognitive PKM Frameworks]]
-- [[Rote Memorization]]
+- [[Rote-memorization|Rote Memorization]]
 - [[Self-Regulated Learning via PKM]]
 - [[Zeigarnik Effect]]
 - [[zettelkasten method]]

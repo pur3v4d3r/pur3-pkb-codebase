@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -82,19 +82,27 @@ see-also:
   - "[[CET|CET]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[SDT|SDT]]"
-  - "[[intrinsic-motivation|intrinsic motivation]]"
-  - "[[functional-significance|functional significance]]"
+  - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Functional-Significance|functional significance]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[self-determination|self-determination]]"
+  - "[[Self-Determination|self-determination]]"
   - "[[CET|CET]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[SDT|SDT]]"
-  - "[[intrinsic-motivation|intrinsic motivation]]"
-  - "[[functional-significance|functional significance]]"
+  - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Functional-Significance|functional significance]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[self-determination|self-determination]]"
+  - "[[Self-Determination|self-determination]]"
+  - "[[CET|CET]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[SDT|SDT]]"
+  - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Functional-Significance|functional significance]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Self-Determination|self-determination]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -156,7 +164,7 @@ importance: high
 > The undermining effect is real but not universal. Expected tangible rewards for task engagement (where reward receipt does not depend on quality) reliably undermine free-choice behaviour in laboratory paradigms. This effect is medium-sized and has been replicated across decades. However, the effect is highly conditional: it does not apply to unexpected rewards, it is weakened or reversed when rewards carry genuine positive competence information, it is sensitive to whether the controlling aspect is made salient by the administration context (how the reward is presented, by whom, and in what relational context), and it is moderated by individual differences in need for autonomy. The effect is NOT a universal property of rewards-as-objects; it is a property of the psychological meaning that particular reward interactions create in specific people in specific contexts.
 
 > [!evidence] Supporting Evidence *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> Some of the most compelling evidence for OIT comes from health psychology. [[Williams, Deci, and colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
+> Some of the most compelling evidence for OIT comes from health psychology. [[Williams,-Deci,-and-colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
 
 > [!evidence] Supporting Evidence *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The weight of evidence across educational, health, and organizational domains supports OIT's quality-over-quantity claim. Studies that measure both conceptual understanding and surface-level performance consistently find that autonomous motivation predicts the former more strongly than the latter, while controlled motivation sometimes predicts surface performance adequately but fails to predict depth of understanding, retention, and transfer. This pattern — which holds even when controlling for time-on-task — suggests that regulatory style affects *how* people engage, not merely *whether* they engage.
@@ -198,7 +206,7 @@ importance: high
 > Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 > [!analytical-insight] Key Insight *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*
 > SDT's most compelling formulation runs as follows. Human beings are, by nature, growth-oriented organisms: active, curious, and inclined toward integration of experience into an increasingly coherent self. This is not a value judgment but an observation about the natural trajectory of healthy development, akin to how seedlings orient toward light. When conditions support this natural tendency — specifically, when the environment satisfies the psychological needs for [[Autonomy-Need|autonomy]] (volition and self-authorship), [[Competence-Need|competence]] (effectiveness and mastery), and [[Relatedness-Need|relatedness]] (genuine connection) — organisms flourish: they engage more deeply, persist through difficulty, experience well-being, and develop the kind of integrated, flexible functioning that enables both personal and social flourishing. When these needs are chronically frustrated, organisms do not simply fail to flourish — they actively deteriorate: they become alienated, exhibit rigid or brittle functioning, and develop the substitutes for genuine need satisfaction (contingent self-worth, extrinsically oriented goals, defensive self-presentation) that create the appearance of motivation while its substance has been hollowed out. The theory's practical power derives from this tight link between environmental conditions, need satisfaction, and psychological outcomes: redesign the environment to support rather than control, and you predictably improve motivation quality, engagement depth, and human flourishing. This is a genuinely powerful and broadly supported framework.
@@ -325,7 +333,7 @@ importance: high
 [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Assessment-Design|Assessment Design]] · [[Autonomous-Motivation|Autonomous Motivation]] · [[Autonomy-Need|Autonomy Need]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Competence-Need|Competence Need]] · [[Constructivism]] · [[Controlled-Motivation|Controlled Motivation]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]
 
 **Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md, organismic-integration-theory-focused-analysis-2026-03-13.md)*:
-[[CET|CET]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[SDT|SDT]] * [[intrinsic-motivation|intrinsic motivation]] * [[functional-significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[self-determination|self-determination]] * [[perceived-locus-of-causality|perceived locus of causality]] * [[perceived-competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Gamification|Gamification]] * [[autonomy-orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[control-orientation|control orientation]]
+[[CET|CET]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[SDT|SDT]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Functional-Significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Self-Determination|self-determination]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[Perceived-Competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Gamification|Gamification]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]]
 
 **Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
 - [[speech-act-theory|speech act theory]]
@@ -358,7 +366,7 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 **Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md, organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-srl-comparative-synthesis-2026-03-19.md, self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[intrinsic-motivation|intrinsic motivation]] * [[functional-significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[perceived-locus-of-causality|perceived locus of causality]] * [[perceived-competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[autonomy-orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[control-orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Functional-Significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[Perceived-Competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 
 **Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
 - [[speech-act-theory|speech act theory]]
@@ -392,6 +400,50 @@ importance: high
 
 **Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
 - [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md, organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-srl-comparative-synthesis-2026-03-19.md, self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Functional-Significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[Perceived-Competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[speech-act-theory|speech act theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+
+
+
+
+
+
+
 
 
 

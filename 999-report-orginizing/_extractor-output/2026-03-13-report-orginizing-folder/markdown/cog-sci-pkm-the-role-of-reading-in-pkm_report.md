@@ -260,7 +260,7 @@ extraction_summary:
 #### 23. [CONNECTIONS-AND-LINKS] Untitled *(Line 254)*
 
 > [!connections-and-links] Untitled
-> **PKB Knowledge Graph Integration**: This note connects forward to [[Schema-Theory|Schema Theory]] (comprehensive treatment of Rumelhart's and Anderson's frameworks), [[Niklas Luhmann and the Zettelkasten]], [[Spaced Repetition Algorithms]], [[Cognitive Load Theory in Educational Design]], [[Tiago Forte and Building a Second Brain]], [[Active Reading Annotation Workflows]], [[Retrieval Practice and the Testing Effect]], [[Dual-Process-Theory|Dual Process Theory]], [[Working Memory Architecture]], and [[Transfer-of-Learning|Transfer of Learning]]. It connects backward to existing vault entries on [[Metacognition]], [[John Dewey's Reflective Thinking Theory]], [[William James and Habit Formation]], [[Dual-Process-Theory|Dual Process Theory]], and [[Cognitive Bias and System 1 Errors]].
+> **PKB Knowledge Graph Integration**: This note connects forward to [[Schema-Theory|Schema Theory]] (comprehensive treatment of Rumelhart's and Anderson's frameworks), [[Niklas Luhmann and the Zettelkasten]], [[Spaced Repetition Algorithms]], [[Cognitive Load Theory in Educational Design]], [[Tiago Forte and Building a Second Brain]], [[Active Reading Annotation Workflows]], [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]], [[Dual-Process-Theory|Dual Process Theory]], [[Working Memory Architecture]], and [[Transfer-of-Learning|Transfer of Learning]]. It connects backward to existing vault entries on [[Metacognition]], [[John Dewey's Reflective Thinking Theory]], [[William James and Habit Formation]], [[Dual-Process-Theory|Dual Process Theory]], and [[Cognitive Bias and System 1 Errors]].
 
 #### 24. [FURTHER-EXPLORATION] Untitled *(Line 257)*
 
@@ -372,10 +372,10 @@ extraction_summary:
 - [[Erasmus]]
 - [[FSRS (Free Spaced Repetition Scheduler)]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[Francis Bacon]]
-- [[Frederic Bartlett]]
+- [[Francis-Bacon|Francis Bacon]]
+- [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Hebbian plasticity]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Hypothesis]]
 - [[Interactive Model of Reading]]
 - [[John Dewey's Reflective Thinking Theory]]
@@ -399,7 +399,7 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Readwise]]
 - [[Readwise Reader]]
-- [[Retrieval Practice and the Testing Effect]]
+- [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
 - [[Retrieval-Practice|Retrieval practice]]
 - [[Richard Anderson]]
 - [[Roam Research]]
@@ -424,14 +424,14 @@ extraction_summary:
 - [[durable memory traces]]
 - [[Embodied-Cognition|embodied cognition]]
 - [[Generation-Effect|generation effect]]
-- [[generative processing]]
+- [[Generative-Processing|generative processing]]
 - [[interactive model]]
 - [[levels of processing framework]]
 - [[Long-Term-Memory|long-term memory]]
 - [[long-term potentiation]]
 - [[plasticity-learning nexus]]
 - [[Retrieval-Practice|retrieval practice]]
-- [[schema]]
+- [[Schema]]
 - [[schema activation]]
 - [[schema enrichment]]
 - [[schema instantiation]]
@@ -463,17 +463,17 @@ extraction_summary:
 | 15 | [[durable memory traces]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 62 |
 | 16 | [[schema enrichment]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 62 |
 | 17 | [[commonplace book]] | — | — | 📜 Phase 2: Historical Foundations — T... | 68 |
-| 18 | [[Francis Bacon]] | — | — | 📜 Phase 2: Historical Foundations — T... | 68 |
+| 18 | [[Francis-Bacon|Francis Bacon]] | — | — | 📜 Phase 2: Historical Foundations — T... | 68 |
 | 19 | [[John Locke]] | — | — | 📜 Phase 2: Historical Foundations — T... | 68 |
 | 20 | [[Erasmus]] | — | — | 📜 Phase 2: Historical Foundations — T... | 68 |
 | 21 | [[Niklas Luhmann]] | — | — | 📜 Phase 2: Historical Foundations — T... | 71 |
 | 22 | [[Niklas Luhmann]] | — | — | 📜 Phase 2: Historical Foundations — T... | 73 |
 | 23 | [[Zettelkasten]] | — | — | 📜 Phase 2: Historical Foundations — T... | 73 |
-| 24 | [[Hermann Ebbinghaus]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
+| 24 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
 | 25 | [[Forgetting-Curve|Forgetting Curve]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
 | 26 | [[Spacing-Effect|Spacing Effect]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
-| 27 | [[Frederic Bartlett]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
-| 28 | [[schema]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
+| 27 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
+| 28 | [[Schema]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 29 | [[Richard Anderson]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 30 | [[David-Rumelhart|David Rumelhart]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 31 | [[Interactive Model of Reading]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
@@ -528,7 +528,7 @@ extraction_summary:
 | 80 | [[PARA method]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
 | 81 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
 | 82 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 200 |
-| 83 | [[generative processing]] | — | — | Building a Second Brain: The CODE Fra... | 204 |
+| 83 | [[Generative-Processing|generative processing]] | — | — | Building a Second Brain: The CODE Fra... | 204 |
 | 84 | [[Map of Content]] | — | — | The Map of Content: Structural Naviga... | 208 |
 | 85 | [[Hebbian plasticity]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 86 | [[Neuroscience]] | — | — | The Map of Content: Structural Naviga... | 210 |
@@ -558,7 +558,7 @@ extraction_summary:
 | 110 | [[Cognitive Load Theory in Educational Design]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 111 | [[Tiago Forte and Building a Second Brain]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 112 | [[Active Reading Annotation Workflows]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
-| 113 | [[Retrieval Practice and the Testing Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
+| 113 | [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 114 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 115 | [[Working Memory Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 116 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
@@ -615,10 +615,10 @@ extraction_summary:
 - [[Erasmus]]
 - [[FSRS (Free Spaced Repetition Scheduler)]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[Francis Bacon]]
-- [[Frederic Bartlett]]
+- [[Francis-Bacon|Francis Bacon]]
+- [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Hebbian plasticity]]
-- [[Hermann Ebbinghaus]]
+- [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Hypothesis]]
 - [[Interactive Model of Reading]]
 - [[John Dewey's Reflective Thinking Theory]]
@@ -642,7 +642,7 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Readwise]]
 - [[Readwise Reader]]
-- [[Retrieval Practice and the Testing Effect]]
+- [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
 - [[Retrieval-Practice|Retrieval practice]]
 - [[Richard Anderson]]
 - [[Roam Research]]
@@ -667,14 +667,14 @@ extraction_summary:
 - [[durable memory traces]]
 - [[Embodied-Cognition|embodied cognition]]
 - [[Generation-Effect|generation effect]]
-- [[generative processing]]
+- [[Generative-Processing|generative processing]]
 - [[interactive model]]
 - [[levels of processing framework]]
 - [[Long-Term-Memory|long-term memory]]
 - [[long-term potentiation]]
 - [[plasticity-learning nexus]]
 - [[Retrieval-Practice|retrieval practice]]
-- [[schema]]
+- [[Schema]]
 - [[schema activation]]
 - [[schema enrichment]]
 - [[schema instantiation]]
@@ -701,7 +701,7 @@ extraction_summary:
 - [[Working-Memory|Working Memory]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 
 ---
 

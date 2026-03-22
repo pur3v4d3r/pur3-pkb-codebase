@@ -120,10 +120,10 @@ key-distinctions:
   - Autonomy-as-independence vs. autonomy-as-volitional-congruence
   - Internalization as teleological development vs. internalization as contextually-reversible process
 prerequisites:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Basic-Psychological-Needs]]"
   - "[[Intrinsic-Motivation]]"
-foundational-report: "[[Self-Determination Theory]]"
+foundational-report: "[[Self-Determination-Theory]]"
 focused-analysis: "[[Cognitive-Evaluation-Theory]]"
 related:
   - "[[Autonomous-Motivation]]"
@@ -225,7 +225,7 @@ generation-date: 2026-03-19
 > [!ask-yourself-this] **Schema Activation — Before You Begin**
 > Before reading this re-examination, take a moment to articulate what you currently believe about motivation. Specifically: Do you believe there are universal human needs whose satisfaction is necessary for genuine motivation? What role does volition — the sense that your actions originate from you — play in your experience of engaging with difficult material? And what happens, in your own learning or work, when external pressure replaces internal drive? Write these beliefs down explicitly. The distance between where you begin and where the dialectical process takes you is where the deepest learning resides.
 
-There is a peculiar crack in the standard account of human motivation, and it runs through the most celebrated motivational theory of the last forty years. [[Self-Determination Theory]], developed across five decades by [[Edward Deci]] and [[Richard Ryan]] and now encompassing six integrated mini-theories and several thousand empirical studies, has achieved something rare in social science: it is simultaneously the most comprehensively elaborated, most empirically investigated, and most practically influential theory of human motivation in existence. Its claims are taught in every graduate program in educational and organizational psychology, embedded in the design of therapeutic protocols, school curricula, and management systems worldwide.
+There is a peculiar crack in the standard account of human motivation, and it runs through the most celebrated motivational theory of the last forty years. [[Self-Determination-Theory]], developed across five decades by [[Edward-Deci]] and [[Richard-Ryan]] and now encompassing six integrated mini-theories and several thousand empirical studies, has achieved something rare in social science: it is simultaneously the most comprehensively elaborated, most empirically investigated, and most practically influential theory of human motivation in existence. Its claims are taught in every graduate program in educational and organizational psychology, embedded in the design of therapeutic protocols, school curricula, and management systems worldwide.
 
 And yet a careful reading of the evidence, philosophical architecture, and cross-cultural literature reveals that SDT's most sweeping claim — that three universal, innate [[Basic-Psychological-Needs|basic psychological needs]] determine motivational quality for all humans across all cultural contexts — rests on a foundation that is more conditional, more culturally inflected, and more philosophically loaded than the theory's confident presentation suggests. This is not a refutation. What the dialectical process will reveal is precisely what makes SDT genuinely valuable and what makes parts of it more fragile than proponents acknowledge.
 

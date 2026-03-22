@@ -115,23 +115,23 @@ prerequisites:
 
 related:
   - "[[Stoicism]]"
-  - "[[Marcus Aurelius]]"
+  - "[[Marcus-Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
-  - "[[Cognitive Behavioral Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Rational Emotive Behavior Therapy]]"
-  - "[[Acceptance and Commitment Therapy]]"
+  - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Positive Psychology]]"
   - "[[Mindfulness]]"
   - "[[Emotion Regulation]]"
-  - "[[Dichotomy of Control]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Albert Ellis]]"
   - "[[Aaron Beck]]"
   - "[[James Gross]]"
   - "[[Martin Seligman]]"
-  - "[[Cognitive Reappraisal]]"
+  - "[[Cognitive-Reappraisal]]"
 
 series-connections:
   previous: "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
@@ -146,7 +146,7 @@ series-connections:
 broader:
   - "[[Philosophy MOC]]"
   - "[[Psychology MOC]]"
-  - "[[Virtue Ethics]]"
+  - "[[Virtue-Ethics]]"
   - "[[History of Psychology]]"
 
 narrower:
@@ -219,8 +219,8 @@ link-down:
   - "[[Psychological Flexibility]]"
 
 link-related:
-  - "[[Cognitive Behavioral Therapy]]"
-  - "[[Acceptance and Commitment Therapy]]"
+  - "[[Cognitive-Behavioral-Therapy]]"
+  - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Positive Psychology]]"
   - "[[Emotion Regulation Science]]"
 
@@ -271,7 +271,7 @@ importance: high
 
 ## Part 1: Introducing the Comparison — Why These Two Frameworks?
 
-There is something disorienting about opening a first-century Roman philosophy text and finding, on nearly every page, something that reads like a cognitive therapy worksheet. The instruction to pause before reacting to a difficult impression, examine whether your automatic interpretation is accurate, test it against reason, and replace distorted judgments with more realistic ones — this is the operational core of both [[Epictetus]]'s philosophical practice as described in the *Enchiridion* and *Discourses*, and the session-by-session procedure of contemporary [[Cognitive Behavioral Therapy]]. The resemblance is too precise to be coincidental, and it isn't.
+There is something disorienting about opening a first-century Roman philosophy text and finding, on nearly every page, something that reads like a cognitive therapy worksheet. The instruction to pause before reacting to a difficult impression, examine whether your automatic interpretation is accurate, test it against reason, and replace distorted judgments with more realistic ones — this is the operational core of both [[Epictetus]]'s philosophical practice as described in the *Enchiridion* and *Discourses*, and the session-by-session procedure of contemporary [[Cognitive-Behavioral-Therapy]]. The resemblance is too precise to be coincidental, and it isn't.
 
 The comparison between Stoicism and modern psychology is valuable for at least four distinct reasons, each of which this report will develop. First, understanding the historical connection — which is documented and direct — illuminates why modern therapy works by showing the philosophical tradition it is implicitly drawing on. Second, each tradition has developed tools that the other lacks: Stoicism offers a comprehensive ethical and metaphysical framework that grounds its psychological prescriptions, while modern psychology offers empirical research methods and clinical refinements that ancient philosophy could not have. Third, understanding where the traditions genuinely diverge — and the divergences are real and philosophically significant — helps the practitioner make more discriminating use of both. Fourth, an integrated approach that draws consciously from both traditions is likely to be more effective than either alone, and this report provides a practical framework for that integration.
 
@@ -326,7 +326,7 @@ This account is, in structure, remarkably close to what modern cognitive therapi
 
 ## Part 3: Portrait of Framework B — Modern Psychology and the Cognitive Revolution
 
-Modern psychology's engagement with the relationship between thought and emotion is primarily a product of the cognitive revolution of the mid-twentieth century, which overthrew the behaviorist paradigm's exclusive focus on observable behavior in favor of attending to the internal cognitive processes that mediate between stimulus and response. The resulting frameworks — particularly [[Cognitive Behavioral Therapy]], [[Rational Emotive Behavior Therapy]], [[Acceptance and Commitment Therapy]], and the science of emotion regulation — are the primary modern counterparts to Stoic psychological practice.
+Modern psychology's engagement with the relationship between thought and emotion is primarily a product of the cognitive revolution of the mid-twentieth century, which overthrew the behaviorist paradigm's exclusive focus on observable behavior in favor of attending to the internal cognitive processes that mediate between stimulus and response. The resulting frameworks — particularly [[Cognitive-Behavioral-Therapy]], [[Rational Emotive Behavior Therapy]], [[Acceptance-and-Commitment-Therapy]], and the science of emotion regulation — are the primary modern counterparts to Stoic psychological practice.
 
 ### Cognitive Behavioral Therapy and REBT
 
@@ -379,7 +379,7 @@ The parallel extends to the *specific types* of cognitive distortion each tradit
 A third deep convergence concerns the relationship between psychological wellbeing and the focus of one's attention and effort. Both Stoicism and modern psychology emphasize the therapeutic importance of distinguishing between what is and is not within one's sphere of influence.
 
 > [!key-insight]
-> **Convergence Point 3 — Internal Locus of Control**: The Stoic [[Dichotomy of Control]] — the distinction between what is *eph' hēmin* (up to us) and what is *ouk eph' hēmin* (not up to us) — finds a direct empirical parallel in the psychological research on *locus of control*, first systematized by Julian Rotter in the 1950s and subsequently developed by an enormous body of research. The consistent finding of this literature is that an *internal* locus of control (the belief that one's outcomes are primarily determined by one's own actions and choices) is associated with lower anxiety, greater resilience, better health behaviors, and higher wellbeing — while an *external* locus of control (the belief that outcomes are determined by luck, fate, or powerful others) is associated with depression, anxiety, and learned helplessness. The Stoic practical prescription to focus attention and effort on what is genuinely one's own (judgment, intention, response) rather than on what is not (external outcomes, others' opinions, chance) is, in psychological terms, a systematic training in internal locus of control.
+> **Convergence Point 3 — Internal Locus of Control**: The Stoic [[Dichotomy-of-Control]] — the distinction between what is *eph' hēmin* (up to us) and what is *ouk eph' hēmin* (not up to us) — finds a direct empirical parallel in the psychological research on *locus of control*, first systematized by Julian Rotter in the 1950s and subsequently developed by an enormous body of research. The consistent finding of this literature is that an *internal* locus of control (the belief that one's outcomes are primarily determined by one's own actions and choices) is associated with lower anxiety, greater resilience, better health behaviors, and higher wellbeing — while an *external* locus of control (the belief that outcomes are determined by luck, fate, or powerful others) is associated with depression, anxiety, and learned helplessness. The Stoic practical prescription to focus attention and effort on what is genuinely one's own (judgment, intention, response) rather than on what is not (external outcomes, others' opinions, chance) is, in psychological terms, a systematic training in internal locus of control.
 
 Self-Determination Theory (SDT), developed by Edward Deci and Richard Ryan, provides an additional layer to this convergence. SDT identifies *autonomy* — the experience of one's actions as genuinely self-determined rather than externally coerced — as one of three fundamental psychological needs, the satisfaction of which is necessary for wellbeing. The Stoic emphasis on *prohairesis* as the domain of genuine human freedom, and the prescription to focus one's concern on exercises of prohairesis rather than on external outcomes, is, in SDT terms, a systematic cultivation of autonomy need satisfaction. The Stoic practitioner is, almost by definition, training themselves to experience their most important actions as genuinely self-determined — because they have limited the scope of their concern to precisely those actions that are genuinely in their power.
 

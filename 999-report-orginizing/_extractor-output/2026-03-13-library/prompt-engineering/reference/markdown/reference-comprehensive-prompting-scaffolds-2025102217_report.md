@@ -147,7 +147,7 @@ extraction_summary:
 > **Deconstruct.** I mapped the space into families: Reasoning & Search; Planning & Decomposition; Acting with Tools; Retrieval & Grounding; Critique & Verification; Structured Output & Guardrails; Community prompt patterns.
 > **Research.** I pulled primary papers and official docs for each family (arXiv/NeurIPS/ICLR, Anthropic/OpenAI docs), favoring methods with reproducible gains or broad adoption. ([arXiv][1])
 > **Synthesize.** I normalized each method into a **Technique Card** (what/why/how + best practices), plus drop-in scaffolds and persona frames.
-> **Compose.** Everything here is **PKB-ready Markdown** with `[[Wiki-Links]]`, callouts, and a small `mermaid` map to keep it navigable.
+> **Compose.** Everything here is **PKB-ready Markdown** with `[[wiki-links]]`, callouts, and a small `mermaid` map to keep it navigable.
 
 #### 3. [ABSTRACT] Core references (representative, not exhaustive) *(Line 38)*
 
@@ -244,7 +244,7 @@ extraction_summary:
 - [[Agentic Workflows in Obsidian (Dataview logs, Reflexion memories)]]
 - [[Algorithm-of-Thought (AoT)]]
 - [[CRISPE]]
-- [[Chain-of-Thought (CoT)]]
+- [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Chain-of-Verification]]
 - [[Chain-of-Verification (CoVe)]]
 - [[Constitutional AI (Prompt style)]]
@@ -289,8 +289,8 @@ extraction_summary:
 - [[Self-Consistency|Self-Consistency (SC)]]
 - [[Structured Output (JSON/Schemas)]]
 - [[Tree-of-Thoughts]]
-- [[Tree-of-Thoughts (ToT)]]
-- [[Wiki-Links]]
+- [[Tree-of-Thoughts|Tree-of-Thoughts (ToT)]]
+- [[wiki-links]]
 - [[Zero-Shot CoT (“Let’s think step by step”)]]
 
 ### All Occurrences
@@ -298,13 +298,13 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Obsidian]] | — | — | Comprehensive Reference: Prompt Engin... | 22 |
-| 2 | [[Wiki-Links]] | — | — | Plan of Attack (Deconstruct → Researc... | 32 |
+| 2 | [[wiki-links]] | — | — | Plan of Attack (Deconstruct → Researc... | 32 |
 | 3 | [[Obsidian]] | — | — | Visual Map of the Space | 88 |
 | 4 | [[Name (Acronym)]] | — | — | Technique Cards (what it is • how it ... | 137 |
-| 5 | [[Chain-of-Thought (CoT)]] | — | — | Reasoning & Search | 146 |
+| 5 | [[Chain-of-Thought|Chain-of-Thought (CoT)]] | — | — | Reasoning & Search | 146 |
 | 6 | [[Self-Consistency|Self-Consistency (SC)]] | — | — | Reasoning & Search | 152 |
 | 7 | [[Self-Ask with Search]] | — | — | Reasoning & Search | 158 |
-| 8 | [[Tree-of-Thoughts (ToT)]] | — | — | Reasoning & Search | 164 |
+| 8 | [[Tree-of-Thoughts|Tree-of-Thoughts (ToT)]] | — | — | Reasoning & Search | 164 |
 | 9 | [[Graph-of-Thoughts (GoT)]] | — | — | Reasoning & Search | 170 |
 | 10 | [[Least-to-Most Prompting (LtM)]] | — | — | Planning & Decomposition | 180 |
 | 11 | [[Plan-and-Solve / ReWOO-style]] | — | — | Planning & Decomposition | 186 |
@@ -331,7 +331,7 @@ extraction_summary:
 | 32 | [[JSON-First Answer]] | — | — | More Technique Cards (compact set you... | 361 |
 | 33 | [[Safety Pass / Constitutional Critique]] | — | — | More Technique Cards (compact set you... | 365 |
 | 34 | [[Guarded I/O]] | — | — | More Technique Cards (compact set you... | 369 |
-| 35 | [[Chain-of-Thought (CoT)]] | — | — | Cross-links (create these notes in yo... | 411 |
+| 35 | [[Chain-of-Thought|Chain-of-Thought (CoT)]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 36 | [[Self-Consistency]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 37 | [[Self-Ask with Search]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 38 | [[Tree-of-Thoughts]] | — | — | Cross-links (create these notes in yo... | 411 |
@@ -412,7 +412,7 @@ extraction_summary:
 ### Code Block 4 — `plaintext` *(Lines 145-149)*
 
 ```plaintext
-**Technique:** `[[Chain-of-Thought (CoT)]]`
+**Technique:** `[[Chain-of-Thought|Chain-of-Thought (CoT)]]`
 **Description:** CoT elicits step-by-step intermediate reasoning before the final answer, improving performance on arithmetic, commonsense, and symbolic tasks. It works by **demonstrating** or **requesting** explicit reasoning traces, letting the model decompose a problem into atomic steps. Zero-shot CoT can be triggered with instructions like “Let’s think step by step,” while few-shot CoT seeds the pattern with exemplars. CoT is foundational and composes with most other scaffolds.
 **Best Practices:** Use **few-shot** exemplars that mirror target difficulty; include **success criteria** and units; cap reasoning length; combine with **self-consistency** for robustness.
 ```
@@ -436,7 +436,7 @@ extraction_summary:
 ### Code Block 7 — `plaintext` *(Lines 163-167)*
 
 ```plaintext
-**Technique:** `[[Tree-of-Thoughts (ToT)]]`
+**Technique:** `[[Tree-of-Thoughts|Tree-of-Thoughts (ToT)]]`
 **Description:** ToT generalizes CoT from a single chain to a **search over multiple thought branches** with lookahead and backtracking, guided by an evaluator. It shines where early choices strongly affect outcomes (planning, puzzles). Expect higher cost than single-chain CoT due to branching. 
 **Best Practices:** Limit branching factor & depth; score partial thoughts against a rubric; prune aggressively; checkpoint intermediate states you could reuse.
 ```
@@ -751,7 +751,7 @@ mindmap
 - [[Agentic Workflows in Obsidian (Dataview logs, Reflexion memories)]]
 - [[Algorithm-of-Thought (AoT)]]
 - [[CRISPE]]
-- [[Chain-of-Thought (CoT)]]
+- [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Chain-of-Verification]]
 - [[Chain-of-Verification (CoVe)]]
 - [[Constitutional AI (Prompt style)]]
@@ -796,8 +796,8 @@ mindmap
 - [[Self-Consistency|Self-Consistency (SC)]]
 - [[Structured Output (JSON/Schemas)]]
 - [[Tree-of-Thoughts]]
-- [[Tree-of-Thoughts (ToT)]]
-- [[Wiki-Links]]
+- [[Tree-of-Thoughts|Tree-of-Thoughts (ToT)]]
+- [[wiki-links]]
 - [[Zero-Shot CoT (“Let’s think step by step”)]]
 
 ---

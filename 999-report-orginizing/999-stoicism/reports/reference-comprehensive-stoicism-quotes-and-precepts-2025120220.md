@@ -208,11 +208,11 @@ Information Architecture:
 
 Wiki-Link Opportunities:
 - [[Stoicism]]
-- [[Dichotomy of Control]]
-- [[Virtue Ethics]]
+- [[Dichotomy-of-Control]]
+- [[Virtue-Ethics]]
 - [[Amor Fati]]
 - [[Memento Mori]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Daily Note]]
@@ -280,11 +280,11 @@ aliases: [Stoic Philosophy Reference, Stoic Wisdom Collection, Daily Stoic Pract
 
 > [!abstract]
 > **Executive Overview**
-> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.
+> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus-Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal-Knowledge-Management|knowledge management]] systems.
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into major sections covering fundamental Stoic precepts followed by thematic collections of quotes from the three master Stoics. Use the table of contents below for quick navigation, or search for specific concepts using [[Wiki-Links]]. Each quote includes complete citation metadata for scholarly reference and daily practice integration.
+> This reference note is organized into major sections covering fundamental Stoic precepts followed by thematic collections of quotes from the three master Stoics. Use the table of contents below for quick navigation, or search for specific concepts using [[wiki-links]]. Each quote includes complete citation metadata for scholarly reference and daily practice integration.
 
 ## 📑 Table of Contents
 
@@ -332,7 +332,7 @@ aliases: [Stoic Philosophy Reference, Stoic Wisdom Collection, Daily Stoic Pract
 > - Our reputation
 > - Outcomes and results
 
-The [[Dichotomy of Control]] represents the foundational principle of Stoic philosophy, first articulated by [[Epictetus]] in his *Enchiridion* (Handbook). This precept teaches that freedom from anxiety and true [[Tranquility|tranquility]] come from recognizing this distinction and focusing our energy exclusively on what lies within our sphere of influence—our thoughts, judgments, and voluntary actions.
+The [[Dichotomy-of-Control]] represents the foundational principle of Stoic philosophy, first articulated by [[Epictetus]] in his *Enchiridion* (Handbook). This precept teaches that freedom from anxiety and true [[Tranquility|tranquility]] come from recognizing this distinction and focusing our energy exclusively on what lies within our sphere of influence—our thoughts, judgments, and voluntary actions.
 
 The Stoic philosophers taught that we should attach our happiness only to living virtuously in each moment, regardless of external circumstances. As Viktor Frankl later echoed this wisdom: everything can be taken from a person except one freedom—to choose one's attitude in any given circumstances.
 
@@ -340,7 +340,7 @@ This principle is not about passivity or resignation. Rather, it represents clar
 
 > [!key-claim]
 > **Central Principle**
-> The Dichotomy of Control is the master key to [[Stoic Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.
+> The Dichotomy of Control is the master key to [[Stoic-Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.
 
 ---
 
@@ -357,7 +357,7 @@ This principle is not about passivity or resignation. Rather, it represents clar
 
 *Summum Bonum* is a Latin expression meaning "the highest good." To the Stoics, virtue is the answer to what we should aim for in life. If we act virtuously, the Stoics believed, everything else important follows: happiness, meaning, and [[Eudaimonia|flourishing]].
 
-The Stoics did not claim the path of [[Virtue Ethics|virtue]] was easy or that it would always be recognized by others, only that it was essential. This represents a radical departure from other philosophical schools: external goods like wealth, health, and reputation are merely "preferred indifferents"—nice to have but not constitutive of the good life.
+The Stoics did not claim the path of [[Virtue-Ethics|virtue]] was easy or that it would always be recognized by others, only that it was essential. This represents a radical departure from other philosophical schools: external goods like wealth, health, and reputation are merely "preferred indifferents"—nice to have but not constitutive of the good life.
 
 Summum bonum means highest good, not merely a high good. There can only be one priority. This doesn't mean we ignore practical concerns, but rather that we evaluate all decisions through the lens of virtue first. The Stoic asks: "What would the wisest, most courageous, most just, and most temperate version of myself do in this situation?"
 
@@ -438,7 +438,7 @@ The practice isn't about pessimism but preparation. Premeditatio malorum is the 
 
 ### Marcus Aurelius - Meditations
 
-[[Marcus Aurelius]] (121-180 CE) was Roman Emperor from 161 to 180 CE and a devoted student of [[Stoic Philosophy]]. His *Meditations* were never intended for publication—they were personal journal entries written to himself during military campaigns and moments of reflection. The fact that Marcus goes to the same themes illustrates how much of Stoicism is essentially journaling and going over the same ideas, constantly reminding oneself of the standards set and who one aspires to be.
+[[Marcus-Aurelius]] (121-180 CE) was Roman Emperor from 161 to 180 CE and a devoted student of [[Stoic-Philosophy]]. His *Meditations* were never intended for publication—they were personal journal entries written to himself during military campaigns and moments of reflection. The fact that Marcus goes to the same themes illustrates how much of Stoicism is essentially journaling and going over the same ideas, constantly reminding oneself of the standards set and who one aspires to be.
 
 ---
 
@@ -1144,7 +1144,7 @@ Epictetus left no writings himself. His teachings were recorded by his student [
 
 ### Control and Acceptance
 
-The theme of control and acceptance represents the very foundation of Stoic practice—understanding the [[Dichotomy of Control]] and living in accordance with that understanding. These quotes emphasize the power we have over our internal responses and the necessity of accepting external events with equanimity.
+The theme of control and acceptance represents the very foundation of Stoic practice—understanding the [[Dichotomy-of-Control]] and living in accordance with that understanding. These quotes emphasize the power we have over our internal responses and the necessity of accepting external events with equanimity.
 
 > [!key-claim]
 > **Central Teaching**
@@ -1259,7 +1259,7 @@ This reference note is designed to be directly integrated into your daily note p
 
 > [!the-philosophy]
 > **Underlying Philosophy**
-> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
+> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
 
 ### Cognitive Models for Understanding Stoicism
 

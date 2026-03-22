@@ -219,7 +219,7 @@ extraction_summary:
 #### 13. [WARNING] Crucial Limitation: Superficial Coherence vs. Valid Reasoning *(Line 228)*
 
 > [!warning] Crucial Limitation: Superficial Coherence vs. Valid Reasoning
-> <span style='color: #FF00DC;'>⚠️ Critical Research Finding:</span> [[Wang et al. (2023)]] demonstrated that CoT prompting can produce seemingly coherent reasoning chains even when those chains contain <span style='color: #FF00DC;'>invalid logical steps</span>. In experiments with deliberately fallacious demonstration examples, models achieved 80-90% of their normal CoT performance—suggesting models optimize for <span style='color: #FF00DC;'>superficial structural coherence</span> (the *format* of reasoning) rather than genuine <span style='color: #27FF00;'>logical validity</span>. This "unfaithful reasoning" phenomenon means CoT traces may function as <span style='color: #FF00DC;'>plausible post-hoc rationalizations</span> rather than faithful accounts of the model's inference process.
+> <span style='color: #FF00DC;'>⚠️ Critical Research Finding:</span> [[Wang-et-al.|Wang et al. (2023)]] demonstrated that CoT prompting can produce seemingly coherent reasoning chains even when those chains contain <span style='color: #FF00DC;'>invalid logical steps</span>. In experiments with deliberately fallacious demonstration examples, models achieved 80-90% of their normal CoT performance—suggesting models optimize for <span style='color: #FF00DC;'>superficial structural coherence</span> (the *format* of reasoning) rather than genuine <span style='color: #27FF00;'>logical validity</span>. This "unfaithful reasoning" phenomenon means CoT traces may function as <span style='color: #FF00DC;'>plausible post-hoc rationalizations</span> rather than faithful accounts of the model's inference process.
 
 #### 14. [EVIDENCE] GSM8K Performance Gains *(Line 237)*
 
@@ -243,9 +243,9 @@ extraction_summary:
 > [[Mechanistic Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps
 > 
 > **Adjacent Domains:**  
-> [[Prompt Engineering]] — CoT represents foundational technique underlying advanced prompting strategies  
-> [[Few-Shot Learning]] — CoT evolved from few-shot paradigm by adding reasoning trace exemplars  
-> [[Ensemble Methods]] — Self-Consistency applies ensemble principles through stochastic sampling  
+> [[Prompt-Engineering|Prompt Engineering]] — CoT represents foundational technique underlying advanced prompting strategies  
+> [[Few-Shot-Learning|Few-Shot Learning]] — CoT evolved from few-shot paradigm by adding reasoning trace exemplars  
+> [[Ensemble-Methods|Ensemble Methods]] — Self-Consistency applies ensemble principles through stochastic sampling  
 > [[AI Safety]] — Reasoning transparency via CoT relates to interpretability and alignment research
 > 
 > **Foundational Prerequisites:**  
@@ -255,7 +255,7 @@ extraction_summary:
 > 
 > **Practical Applications:**  
 > [[Mathematical Problem Solving]] — Primary application domain showing 40-60% accuracy gains  
-> [[Scientific Reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
+> [[Scientific-Reasoning|Scientific Reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
 > [[Code Generation]] — Programming tasks benefit from step-by-step algorithmic decomposition  
 > [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]] — CoT enables tutoring systems that demonstrate solution processes
 
@@ -358,7 +358,7 @@ extraction_summary:
 - [[Cloud Computing Costs]]
 - [[Code Generation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Commonsense Reasoning]]
+- [[Commonsense-Reasoning|Commonsense Reasoning]]
 - [[Cost-Accuracy Pareto Frontiers]]
 - [[Creative Problem Solving]]
 - [[Cross-Cultural Cognition]]
@@ -374,10 +374,10 @@ extraction_summary:
 - [[Emergent Abilities]]
 - [[Emergent Abilities in LLMs]]
 - [[Ensemble Learning]]
-- [[Ensemble Methods]]
+- [[Ensemble-Methods|Ensemble Methods]]
 - [[Explicit Reasoning Protocols]]
 - [[Feng et al. (2024)]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Few-Shot Prompting]]
 - [[GPT-3]]
 - [[GSM8K]]
@@ -389,7 +389,7 @@ extraction_summary:
 - [[Jason Wei]]
 - [[Knowledge Distillation]]
 - [[LaMDA]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Logical Fallacies]]
 - [[Logical Reasoning]]
 - [[Mathematical Problem Solving]]
@@ -408,12 +408,12 @@ extraction_summary:
 - [[PaLM]]
 - [[Phase Transitions in Neural Networks]]
 - [[Process Supervision]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Injection]]
 - [[Protocol Analysis]]
 - [[Reinforcement Learning]]
 - [[Resource Optimization]]
-- [[Scientific Reasoning]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Self-Attention]]
 - [[Self-Consistency]]
 - [[Sparse Autoencoders]]
@@ -426,13 +426,13 @@ extraction_summary:
 - [[Training-Time Integration: CoT as Architectural Inductive Bias]]
 - [[Transformer Architecture]]
 - [[Transformer Architecture Design]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Vision Transformers]]
 - [[Vision-Language Models]]
 - [[Visual Reasoning]]
 - [[Walker et al. (2025)]]
-- [[Wang et al. (2022)]]
-- [[Wang et al. (2023)]]
+- [[Wang-et-al.|Wang et al. (2022)]]
+- [[Wang-et-al.|Wang et al. (2023)]]
 - [[Wei et al. (2022)]]
 - [[Working-Memory|Working Memory]]
 - [[Yao et al. (2023)]]
@@ -443,10 +443,10 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**Chanin Of Thought**]] | — | — | Foundational Understanding | 104 |
 | 2 | [[Transformer Architecture]] | — | — | Foundational Understanding | 120 |
-| 3 | [[Few-Shot Learning]] | — | — | Foundational Understanding | 120 |
+| 3 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | Foundational Understanding | 120 |
 | 4 | [[Emergent Abilities]] | — | — | Foundational Understanding | 120 |
 | 5 | [[Self-Consistency]] | — | — | Foundational Understanding | 120 |
-| 6 | [[Tree of Thoughts]] | — | — | Foundational Understanding | 120 |
+| 6 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Foundational Understanding | 120 |
 | 7 | [[Logical Reasoning]] | — | — | Foundational Understanding | 120 |
 | 8 | [[Working-Memory|Working Memory]] | — | — | Foundational Understanding | 120 |
 | 9 | [[Jason Wei]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
@@ -454,13 +454,13 @@ extraction_summary:
 | 11 | [[Transformer Architecture]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 12 | [[Working-Memory|Working Memory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
-| 14 | [[Few-Shot Learning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
+| 14 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 15 | [[GPT-3]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 16 | [[Explicit Reasoning Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 17 | [[Transformer Architecture]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
-| 18 | [[Large Language Models]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
+| 18 | [[Large-Language-Models|Large Language Models]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 19 | [[Symbolic Logic]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
-| 20 | [[Commonsense Reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
+| 20 | [[Commonsense-Reasoning|Commonsense Reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 21 | [[Wei et al. (2022)]] | — | — | 📜 Theoretical Foundations & Historica... | 132 |
 | 22 | [[Few-Shot Prompting]] | — | — | 📜 Theoretical Foundations & Historica... | 135 |
 | 23 | [[Protocol Analysis]] | — | — | 📜 Theoretical Foundations & Historica... | 136 |
@@ -476,7 +476,7 @@ extraction_summary:
 | 33 | [[Phase Transitions in Neural Networks]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 160 |
 | 34 | [[Mechanistic Interpretability]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 163 |
 | 35 | [[Meincke et al. (2025)]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 166 |
-| 36 | [[Wang et al. (2022)]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 170 |
+| 36 | [[Wang-et-al.|Wang et al. (2022)]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 170 |
 | 37 | [[Ensemble Learning]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
 | 38 | [[Bootstrap Aggregating]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
 | 39 | [[Yao et al. (2023)]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 186 |
@@ -488,28 +488,28 @@ extraction_summary:
 | 45 | [[Optimization Problems]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 46 | [[Reinforcement Learning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 209 |
 | 47 | [[Walker et al. (2025)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 221 |
-| 48 | [[Wang et al. (2023)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 229 |
-| 49 | [[Wang et al. (2023)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 230 |
+| 48 | [[Wang-et-al.|Wang et al. (2023)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 229 |
+| 49 | [[Wang-et-al.|Wang et al. (2023)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 230 |
 | 50 | [[AI Alignment]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 231 |
 | 51 | [[Interpretability]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 231 |
 | 52 | [[GSM8K]] | — | — | <span style='color: #9E6CD3;'>Arithme... | 236 |
 | 53 | [[MultiArith]] | — | — | <span style='color: #9E6CD3;'>Arithme... | 236 |
-| 54 | [[Commonsense Reasoning]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
+| 54 | [[Commonsense-Reasoning|Commonsense Reasoning]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
 | 55 | [[StrategyQA]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
 | 56 | [[Knowledge Distillation]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 267 |
 | 57 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 274 |
 | 58 | [[Attention Mechanism]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 275 |
 | 59 | [[Circuit Complexity Theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 276 |
 | 60 | [[Mechanistic Interpretability]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 277 |
-| 61 | [[Prompt Engineering]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 280 |
-| 62 | [[Few-Shot Learning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 281 |
-| 63 | [[Ensemble Methods]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 282 |
+| 61 | [[Prompt-Engineering|Prompt Engineering]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 280 |
+| 62 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 281 |
+| 63 | [[Ensemble-Methods|Ensemble Methods]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 282 |
 | 64 | [[AI Safety]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 283 |
 | 65 | [[Transformer Architecture]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 286 |
 | 66 | [[Emergent Abilities in LLMs]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 287 |
 | 67 | [[Working-Memory|Working Memory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 288 |
 | 68 | [[Mathematical Problem Solving]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 291 |
-| 69 | [[Scientific Reasoning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 292 |
+| 69 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 292 |
 | 70 | [[Code Generation]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 293 |
 | 71 | [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 294 |
 | 72 | [[Mechanistic Interpretability of Reasoning Circuits]] | — | — | 1. **[[Mechanistic Interpretability o... | 317 |
@@ -1133,7 +1133,7 @@ $$
 - [[Cloud Computing Costs]]
 - [[Code Generation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Commonsense Reasoning]]
+- [[Commonsense-Reasoning|Commonsense Reasoning]]
 - [[Cost-Accuracy Pareto Frontiers]]
 - [[Creative Problem Solving]]
 - [[Cross-Cultural Cognition]]
@@ -1149,10 +1149,10 @@ $$
 - [[Emergent Abilities]]
 - [[Emergent Abilities in LLMs]]
 - [[Ensemble Learning]]
-- [[Ensemble Methods]]
+- [[Ensemble-Methods|Ensemble Methods]]
 - [[Explicit Reasoning Protocols]]
 - [[Feng et al. (2024)]]
-- [[Few-Shot Learning]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Few-Shot Prompting]]
 - [[GPT-3]]
 - [[GSM8K]]
@@ -1164,7 +1164,7 @@ $$
 - [[Jason Wei]]
 - [[Knowledge Distillation]]
 - [[LaMDA]]
-- [[Large Language Models]]
+- [[Large-Language-Models|Large Language Models]]
 - [[Logical Fallacies]]
 - [[Logical Reasoning]]
 - [[Mathematical Problem Solving]]
@@ -1183,12 +1183,12 @@ $$
 - [[PaLM]]
 - [[Phase Transitions in Neural Networks]]
 - [[Process Supervision]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Injection]]
 - [[Protocol Analysis]]
 - [[Reinforcement Learning]]
 - [[Resource Optimization]]
-- [[Scientific Reasoning]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Self-Attention]]
 - [[Self-Consistency]]
 - [[Sparse Autoencoders]]
@@ -1201,13 +1201,13 @@ $$
 - [[Training-Time Integration: CoT as Architectural Inductive Bias]]
 - [[Transformer Architecture]]
 - [[Transformer Architecture Design]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Vision Transformers]]
 - [[Vision-Language Models]]
 - [[Visual Reasoning]]
 - [[Walker et al. (2025)]]
-- [[Wang et al. (2022)]]
-- [[Wang et al. (2023)]]
+- [[Wang-et-al.|Wang et al. (2022)]]
+- [[Wang-et-al.|Wang et al. (2023)]]
 - [[Wei et al. (2022)]]
 - [[Working-Memory|Working Memory]]
 - [[Yao et al. (2023)]]

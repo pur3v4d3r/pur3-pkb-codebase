@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -69,17 +69,25 @@ see-also:
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[relatedness]]"
+  - "[[Autonomy]]"
+  - "[[Competence]]"
+  - "[[Relatedness]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -163,12 +171,20 @@ importance: high
 - [[Attachment-Theory|Attachment Theory]]
 
 **Related concepts:**
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]]
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[self-efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Self-Efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 **Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
 - [[Attachment-Theory|Attachment Theory]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Autonomy-Support-in-Education|Autonomy Support in Education]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+
 
 

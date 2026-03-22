@@ -5,6 +5,7 @@
 title: "Spaced Repetition Systems"
 aliases:
   - "Spaced Repetition Systems"
+  - "spaced-repetition-systems"
   - "SRS"
 type: permanent-note
 status: evergreen

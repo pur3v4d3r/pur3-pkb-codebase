@@ -548,7 +548,7 @@ extraction_summary:
 - [[Breadcrumbs]]
 - [[Building a Second Brain with Obsidian]]
 - [[Chain-of-Thought]]
-- [[Claude Desktop]]
+- [[Claude-Desktop|Claude Desktop]]
 - [[Claude Desktop Advanced Features and Workflows]]
 - [[Claude Desktop PKB Integration]]
 - [[Claude interaction workflows]]
@@ -568,7 +568,7 @@ extraction_summary:
 - [[Execute Code]]
 - [[Implementation Framework]]
 - [[Kanban]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Theory and Practice]]
 - [[Knowledge Synthesis]]
 - [[Machine Learning]]
@@ -593,7 +593,7 @@ extraction_summary:
 - [[Projects feature]]
 - [[Prompt Component Librarian]]
 - [[Prompt Component Library Management]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering MOC]]
 - [[Prompt Engineering Patterns]]
 - [[Prompt Librarian Methodology]]
@@ -611,7 +611,7 @@ extraction_summary:
 - [[Templater]]
 - [[Tree-of-Thoughts]]
 - [[Versioning Strategy]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zettelkasten for Prompt Engineering]]
 - [[chain-of-thought-reasoning]]
@@ -621,7 +621,7 @@ extraction_summary:
 - [[conversation continuity]]
 - [[extended context window]]
 - [[externalized cognition]]
-- [[few-shot learning]]
+- [[Few-Shot-Learning|few-shot learning]]
 - [[role-definition-component]]
 - [[self-consistency checking]]
 - [[self-organizing system]]
@@ -649,15 +649,15 @@ extraction_summary:
 | 9 | [[Prompt Component Librarian]] | — | — | 1. 🎯 Conceptual Foundation | 77 |
 | 10 | [[CLAUDE]] | — | — | 1. 🎯 Conceptual Foundation | 78 |
 | 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1. 🎯 Conceptual Foundation | 78 |
-| 12 | [[Prompt Engineering]] | — | — | The Evolution from Ad-Hoc Prompting t... | 82 |
-| 13 | [[Knowledge Graph]] | — | — | The Evolution from Ad-Hoc Prompting t... | 84 |
+| 12 | [[Prompt-Engineering|Prompt Engineering]] | — | — | The Evolution from Ad-Hoc Prompting t... | 82 |
+| 13 | [[Knowledge-Graph|Knowledge Graph]] | — | — | The Evolution from Ad-Hoc Prompting t... | 84 |
 | 14 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Evolution from Ad-Hoc Prompting t... | 86 |
 | 15 | [[Obsidian vault]] | — | — | The Evolution from Ad-Hoc Prompting t... | 86 |
 | 16 | [[Zettelkasten]] | — | — | The Evolution from Ad-Hoc Prompting t... | 86 |
 | 17 | [[CLAUDE]] | Claude Desktop | — | Why Claude Desktop as Librarian? | 94 |
 | 18 | [[Model-Context-Protocol|Model Context Protocol]] | — | — | Why Claude Desktop as Librarian? | 94 |
 | 19 | [[Obsidian vault]] | — | — | Why Claude Desktop as Librarian? | 94 |
-| 20 | [[Knowledge Graph]] | — | — | Why Claude Desktop as Librarian? | 94 |
+| 20 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Why Claude Desktop as Librarian? | 94 |
 | 21 | [[extended context window]] | — | — | Why Claude Desktop as Librarian? | 96 |
 | 22 | [[Projects feature]] | — | — | Why Claude Desktop as Librarian? | 98 |
 | 23 | [[externalized cognition]] | — | — | Why Claude Desktop as Librarian? | 102 |
@@ -673,7 +673,7 @@ extraction_summary:
 | 33 | [[Monolithic prompting]] | — | — | Component-Based Prompting vs. Monolit... | 120 |
 | 34 | [[Component-based prompting]] | — | — | Component-Based Prompting vs. Monolit... | 124 |
 | 35 | [[Technical Architecture]] | — | — | 2. ⚙️ Technical Architecture | 137 |
-| 36 | [[Claude Desktop]] | — | — | Claude Desktop Capabilities & Integra... | 142 |
+| 36 | [[Claude-Desktop|Claude Desktop]] | — | — | Claude Desktop Capabilities & Integra... | 142 |
 | 37 | [[Model-Context-Protocol|Model Context Protocol]] | — | — | Claude Desktop Capabilities & Integra... | 142 |
 | 38 | [[Obsidian vault]] | — | — | Claude Desktop Capabilities & Integra... | 142 |
 | 39 | [[Projects feature]] | — | — | Projects as Organizational Containers | 171 |
@@ -683,16 +683,16 @@ extraction_summary:
 | 43 | [[Prompt Engineering Patterns]] | — | — | File System Architecture for Componen... | 217 |
 | 44 | [[Chain-of-Thought]] | — | — | File System Architecture for Componen... | 217 |
 | 45 | [[self-consistency checking]] | — | — | File System Architecture for Componen... | 217 |
-| 46 | [[few-shot learning]] | — | — | File System Architecture for Componen... | 217 |
+| 46 | [[Few-Shot-Learning|few-shot learning]] | — | — | File System Architecture for Componen... | 217 |
 | 47 | [[tree-of-thoughts exploration]] | — | — | File System Architecture for Componen... | 217 |
-| 48 | [[YAML Frontmatter]] | — | — | Metadata Schema for Components | 238 |
+| 48 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Metadata Schema for Components | 238 |
 | 49 | [[Dataview]] | — | — | Metadata Schema for Components | 238 |
 | 50 | [[Templater]] | — | — | Metadata Schema for Components | 238 |
 | 51 | [[Core-Task-API-Documentation-v1]] | — | — | Metadata Schema for Components | 262 |
 | 52 | [[Core-Output-Markdown-Documentation-v2]] | — | — | Metadata Schema for Components | 263 |
 | 53 | [[Technique-Reasoning-Step-by-Step-Explanation-v1]] | — | — | Metadata Schema for Components | 264 |
 | 54 | [[Core-Role-Technical-Writer-v1]] | — | — | Metadata Schema for Components | 265 |
-| 55 | [[Knowledge Graph]] | — | — | Metadata Schema for Components | 271 |
+| 55 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Metadata Schema for Components | 271 |
 | 56 | [[Obsidian plugins]] | — | — | Integration with Obsidian Plugin Ecos... | 285 |
 | 57 | [[Dataview]] | — | — | Integration with Obsidian Plugin Ecos... | 285 |
 | 58 | [[Templater]] | — | — | Integration with Obsidian Plugin Ecos... | 285 |
@@ -1011,7 +1011,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[Breadcrumbs]]
 - [[Building a Second Brain with Obsidian]]
 - [[Chain-of-Thought]]
-- [[Claude Desktop]]
+- [[Claude-Desktop|Claude Desktop]]
 - [[Claude Desktop Advanced Features and Workflows]]
 - [[Claude Desktop PKB Integration]]
 - [[Claude interaction workflows]]
@@ -1031,7 +1031,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[Execute Code]]
 - [[Implementation Framework]]
 - [[Kanban]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Theory and Practice]]
 - [[Knowledge Synthesis]]
 - [[Machine Learning]]
@@ -1056,7 +1056,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[Projects feature]]
 - [[Prompt Component Librarian]]
 - [[Prompt Component Library Management]]
-- [[Prompt Engineering]]
+- [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering MOC]]
 - [[Prompt Engineering Patterns]]
 - [[Prompt Librarian Methodology]]
@@ -1074,7 +1074,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[Templater]]
 - [[Tree-of-Thoughts]]
 - [[Versioning Strategy]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zettelkasten for Prompt Engineering]]
 - [[chain-of-thought-reasoning]]
@@ -1084,7 +1084,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[conversation continuity]]
 - [[extended context window]]
 - [[externalized cognition]]
-- [[few-shot learning]]
+- [[Few-Shot-Learning|few-shot learning]]
 - [[role-definition-component]]
 - [[self-consistency checking]]
 - [[self-organizing system]]

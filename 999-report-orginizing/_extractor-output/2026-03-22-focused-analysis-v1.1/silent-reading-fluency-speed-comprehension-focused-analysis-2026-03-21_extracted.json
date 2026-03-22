@@ -1,0 +1,2278 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-22T02:18:29.063448",
+    "source_file": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-focused-analysis-report-generator-v1.1.0\\silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+    "source_file_size_bytes": 84405,
+    "processing_time_seconds": 0.019
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21",
+      "doc_type": "focused-analysis-report",
+      "doc_created": "2026-03-21",
+      "doc_modified": "2026-03-21",
+      "author": "claude-sonnet-4-6",
+      "report_generator": "Focused Analysis Report Generator v1.1",
+      "primary_domain": "cognitive-psychology",
+      "secondary_domains": [
+        "reading-science",
+        "educational-psychology",
+        "metacognition",
+        "instructional-design"
+      ],
+      "related_concepts": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Schema]]",
+        "[[Fluency]]",
+        "[[Automaticity]]",
+        "[[Situation-Model]]",
+        "[[Chunking]]",
+        "[[Metacognitive-Monitoring]]",
+        "[[Dual-Process-Theory]]",
+        "[[Transfer-of-Learning]]",
+        "[[Levels-of-Processing]]",
+        "[[Phonological-Loop]]",
+        "[[Deep-Processing]]",
+        "[[Self-Regulated-Learning]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "reading-science",
+        "cognitive-psychology",
+        "fluency",
+        "speed-reading",
+        "comprehension",
+        "working-memory",
+        "automaticity",
+        "metacognition",
+        "evidence-based",
+        "focused-analysis"
+      ],
+      "status": "evergreen",
+      "maturity": "developed",
+      "confidence": "high",
+      "reasoning_tier": "Tier 3: Synthesis & Innovation",
+      "reasoning_technique": "Four-bottleneck analytical framework with bandwidth-expansion/compression distinction",
+      "transfer-contributions": {
+        "abstract-principles-extracted": "3",
+        "structural-analogues-identified": "6",
+        "target-domains-bridged": "4"
+      },
+      "transfer-principles": [
+        {
+          "principle": "Bottleneck Liberation — speed in complex skills is ceiling-set by the slowest component; training the bottleneck unlocks genuine performance gains",
+          "originating-finding": "Vocabulary automaticity frees working memory, enabling simultaneous speed and comprehension gains",
+          "target-domains": [
+            "musical performance",
+            "surgical skill acquisition",
+            "programming fluency"
+          ]
+        },
+        {
+          "principle": "Expertise-Mediated Compression — domain knowledge enables genuine chunking that reduces processing demands without skipping meaning construction",
+          "originating-finding": "Expert readers in familiar domains read faster with better comprehension than novices reading the same text slowly",
+          "target-domains": [
+            "chess",
+            "medical diagnosis",
+            "code review"
+          ]
+        },
+        {
+          "principle": "Monitoring Displacement — metacognitive monitoring is most needed precisely when cognitive resources are most depleted by speed demands",
+          "originating-finding": "Speed pressure degrades comprehension monitoring before it degrades surface-level reading metrics",
+          "target-domains": [
+            "time-pressured decision making",
+            "high-stakes assessment",
+            "agentic AI task execution"
+          ]
+        }
+      ],
+      "epistemic_status": "well-grounded-in-established-research",
+      "factual_verification": "verified",
+      "sections": [
+        "Phase I: Orientation & Analytical Focus",
+        "Phase II: Analytical Framework — The Four Reading Bottlenecks",
+        "Phase III: Critical Examination of Evidence",
+        "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "Phase V: Implications, Applications & Limitations",
+        "Phase VI: Synthesis, Integration & Original Contribution",
+        "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "Phase VIII: PKB Connections & Cross-Report Links",
+        "Phase IX: Appendix — Lexicon, References, Expansion Topics"
+      ],
+      "document-features": {
+        "callouts": "34",
+        "wiki-links": "38",
+        "reflective-questions": "21",
+        "cognitive-engagement-elements": "16",
+        "analytical-commentary": "10",
+        "section-end-summaries": "6",
+        "transfer-principles": "3",
+        "structural-analogues": "6"
+      },
+      "aliases": [
+        "[[Silent Reading Fluency and Speed Focused Analysis]]",
+        "[[Speed Without Sacrificing Comprehension]]",
+        "[[Reading Fluency Report]]"
+      ],
+      "link_up": "[[Reading Science and Literacy]]",
+      "link_related": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Schema]]",
+        "[[Metacognitive-Monitoring]]",
+        "[[Self-Regulated-Learning]]"
+      ],
+      "summary": "A focused analysis of strategies for improving silent reading fluency and speed without sacrificing comprehension. Advances a 'Four Bottlenecks' analytical framework and the original 'Bandwidth Expansion vs. Bandwidth Compression' distinction — arguing that genuine speed gains reduce processing load at cognitive bottlenecks (especially lexical automaticity), while illusory speed gains merely skip meaning construction. Evidence comprehensively dismantles popular speed-reading claims (500+ WPM with comprehension) while identifying evidence-grounded strategies that authentically expand reading bandwidth."
+    },
+    "word_count": 10280,
+    "character_count": 75811,
+    "line_count": 564,
+    "heading_count": 39
+  },
+  "extraction_summary": {
+    "total_items_extracted": 197,
+    "by_type": {
+      "headings": 39,
+      "callouts": 62,
+      "wiki_links": 65,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 14,
+      "lists_unordered": 17,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Strategies for Improving Silent Reading Fluency and Speed Without Sacrificing Comprehension",
+      "anchor": "strategies-for-improving-silent-reading-fluency-and-speed-without-sacrificing-comprehension",
+      "line_number": 130,
+      "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Analytical Focus",
+          "anchor": "phase-i-orientation-analytical-focus",
+          "line_number": 136,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Problem with Speed Reading — and With Dismissing It Entirely",
+              "anchor": "the-problem-with-speed-reading-and-with-dismissing-it-entirely",
+              "line_number": 141,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Question",
+              "anchor": "the-central-question",
+              "line_number": 149,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scope and Boundaries",
+              "anchor": "scope-and-boundaries",
+              "line_number": 155,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Why This Matters",
+              "anchor": "why-this-matters",
+              "line_number": 165,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Roadmap",
+              "anchor": "roadmap",
+              "line_number": 169,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — The Four Reading Bottlenecks",
+          "anchor": "phase-ii-analytical-framework-the-four-reading-bottlenecks",
+          "line_number": 178,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Why a Bottlenecks Framework?",
+              "anchor": "why-a-bottlenecks-framework",
+              "line_number": 180,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Four Bottlenecks",
+              "anchor": "the-four-bottlenecks",
+              "line_number": 195,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 243,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Eye Movement Evidence",
+              "anchor": "the-eye-movement-evidence",
+              "line_number": 248,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Speed Reading App and RSVP Evidence",
+              "anchor": "the-speed-reading-app-and-rsvp-evidence",
+              "line_number": 262,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Individual Differences and the Domain-Expertise Effect",
+              "anchor": "individual-differences-and-the-domain-expertise-effect",
+              "line_number": 278,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Comprehension Monitoring Deficit Under Speed Pressure",
+              "anchor": "the-comprehension-monitoring-deficit-under-speed-pressure",
+              "line_number": 287,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+          "line_number": 310,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Lexical Automaticity as the Master Lever",
+              "anchor": "lexical-automaticity-as-the-master-lever",
+              "line_number": 315,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Sub-Vocalization: What It Does and When You Need It",
+              "anchor": "sub-vocalization-what-it-does-and-when-you-need-it",
+              "line_number": 326,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Role of Chunking in Expert Reading",
+              "anchor": "the-role-of-chunking-in-expert-reading",
+              "line_number": 339,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Cascade Dynamics: When the System Fails",
+              "anchor": "the-cascade-dynamics-when-the-system-fails",
+              "line_number": 351,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Domain Knowledge as Pre-Processing: The Inference Engine Effect",
+              "anchor": "domain-knowledge-as-pre-processing-the-inference-engine-effect",
+              "line_number": 364,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications, Applications & Limitations",
+          "anchor": "phase-v-implications-applications-limitations",
+          "line_number": 386,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "What Actually Works: Evidence-Based Strategies",
+              "anchor": "what-actually-works-evidence-based-strategies",
+              "line_number": 388,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "What Does Not Work: Common Misconceptions",
+              "anchor": "what-does-not-work-common-misconceptions",
+              "line_number": 426,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Genuine Limitations of the Evidence Base",
+              "anchor": "genuine-limitations-of-the-evidence-base",
+              "line_number": 437,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 457,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Bandwidth Expansion vs. Bandwidth Compression Framework",
+              "anchor": "the-bandwidth-expansion-vs-bandwidth-compression-framework",
+              "line_number": 459,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Revisiting the Central Question",
+              "anchor": "revisiting-the-central-question",
+              "line_number": 470,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Unresolved Questions",
+              "anchor": "unresolved-questions",
+              "line_number": 489,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+          "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+          "line_number": 510,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Abstract Principle 1: Bottleneck Liberation",
+              "anchor": "abstract-principle-1-bottleneck-liberation",
+              "line_number": 512,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Abstract Principle 2: Expertise-Mediated Compression",
+              "anchor": "abstract-principle-2-expertise-mediated-compression",
+              "line_number": 527,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Abstract Principle 3: Monitoring Displacement Under Load",
+              "anchor": "abstract-principle-3-monitoring-displacement-under-load",
+              "line_number": 539,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-viii-pkb-connections-cross-report-links",
+          "line_number": 564,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IX: Appendix",
+          "anchor": "phase-ix-appendix",
+          "line_number": 595,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 597,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 632,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 664,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 669,
+              "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Schema Activation — Before You Begin",
+        "body": "Before reading this analysis, take a moment to articulate your current beliefs about reading speed improvement. Do you believe it is possible to substantially increase reading speed — say, double or triple it — without losing comprehension? What evidence or intuition supports your position? Have you tried any speed-reading techniques, and what happened to your understanding when you did? Write your position down. The distance between your starting point and where you end up is where the most productive learning will occur.",
+        "line_number": 138,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 5993,
+        "char_end": 6588
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Before reading Phase II, predict: what do you think is the primary bottleneck limiting your own reading speed? Identify one specific cognitive process you believe is the limiting factor. Hold this prediction through the analysis.",
+        "line_number": 173,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 11386,
+        "char_end": 11662
+      },
+      {
+        "type": "definition",
+        "title": "Reading Fluency",
+        "body": "The ability to read connected text accurately, at an appropriate rate, and with appropriate prosody (expressive quality). In silent reading, rate and accuracy are the primary components. Fluency is a bridge between decoding and comprehension: it is neither raw speed (which ignores accuracy and understanding) nor comprehension itself, but the quality of processing that makes deep comprehension possible.",
+        "line_number": 186,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 12733,
+        "char_end": 13177
+      },
+      {
+        "type": "definition",
+        "title": "Silent Reading Rate (SRR)",
+        "body": "Words processed per minute during silent reading with a target comprehension criterion (typically ≥70% on delayed recall or comprehension questions). Rate measured without a comprehension criterion is a speed metric, not a fluency metric.",
+        "line_number": 189,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 13178,
+        "char_end": 13465
+      },
+      {
+        "type": "definition",
+        "title": "Comprehension",
+        "body": "In this analysis, comprehension refers specifically to the construction of a [[Situation-Model]]: a mental representation of the situation described by the text, including not only what was explicitly stated but the inferences, causal relationships, and world-knowledge integrations needed to make the text coherent. Surface comprehension (remembering specific sentences) is a weaker standard; situation model construction is the goal of skilled reading.",
+        "line_number": 192,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 13466,
+        "char_end": 13957
+      },
+      {
+        "type": "definition",
+        "title": "Lexical Automaticity",
+        "body": "The state in which word recognition (mapping orthographic form to phonological and semantic representations) requires minimal attentional resources. Lexical automaticity is achieved through massive exposure to a word form across varied contexts. It is a graded property — recognition can be partially automatized — not a binary state.",
+        "line_number": 203,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 14964,
+        "char_end": 15342
+      },
+      {
+        "type": "key-claim",
+        "title": "The Four Bottlenecks Interact Asymmetrically",
+        "body": "The four bottlenecks do not operate independently. Lexical automaticity directly reduces working memory load, which in turn increases the capacity available for situation model construction. Conversely, high inference demands (Bottleneck 3) can overflow working memory (Bottleneck 2), which then degrades the metacognitive resources available for comprehension monitoring (Bottleneck 4). The system is a cascade, not a parallel array.",
+        "line_number": 229,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 18182,
+        "char_end": 18683
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Without looking back, can you explain why lexical automaticity affects working memory capacity? What is the causal chain?\n**Application**: Which of the four bottlenecks do you think is currently most limiting in your own reading of complex academic text? What evidence do you have for this?\n**Extension**: This framework assumes reading is a sequential bottleneck system. What evidence might suggest it is instead a more parallel system — and what would that imply for interventions?",
+        "line_number": 236,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 19127,
+        "char_end": 19682
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before this section, record your current confidence (1–10) in the claim: \"Speed-reading techniques can reliably double reading speed with maintained comprehension.\" What evidence are you drawing on?",
+        "line_number": 245,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 19736,
+        "char_end": 19989
+      },
+      {
+        "type": "evidence",
+        "title": "The Perceptual Span Constraint",
+        "body": "Keith Rayner's decades of eye movement research (summarized most comprehensively in Rayner et al., 2016) establish that skilled readers make approximately 4 fixations per second, with roughly 85% of content words receiving a direct fixation. High-frequency, short, predictable words are often skipped (approximately 30% of the time), but this skipping occurs because parafoveal preview has already partially processed them — not because they are being \"seen\" peripherally without fixation. Crucially, attempts to suppress fixations or reduce their duration consistently degrade comprehension for complex material.",
+        "line_number": 254,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 20992,
+        "char_end": 21657
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What Eye Movement Research Actually Says About Speed Limits",
+        "body": "The eye movement literature does not show that skilled readers have cracked a peripheral vision code that novices haven't. It shows the opposite: the difference between skilled and average readers is primarily in fixation efficiency (less rereading, faster individual fixation processing, better parafoveal preview use) — not in an ability to extract meaning from unfixated text. Claims that one can \"read\" at 1,000+ WPM by reducing sub-vocalization or using peripheral scanning are inconsistent with the perceptual span data. At those speeds, something is happening — perhaps selective extraction of key content words — but it is more accurately called skimming than reading.",
+        "line_number": 259,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 22046,
+        "char_end": 22821
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Sub-Vocalization Paradox",
+        "body": "A persistent debate in reading research concerns sub-vocalization — the inner speech that most readers experience when reading silently. Speed-reading advocates argue that sub-vocalization limits reading to speaking rate (~150 WPM) and must be suppressed. Research partially supports suppression: many readers do read faster when trained to reduce sub-vocalization. However, studies using articulatory suppression (physically preventing sub-vocalization by having readers say \"la-la-la\" continuously) show reliable comprehension *decrements* for syntactically complex sentences. The tension: skilled readers demonstrably do show less sub-vocalization than novices, but eliminating it entirely appears to hurt comprehension for demanding text. The resolution — explored in Phase IV — lies in understanding what sub-vocalization actually does for working memory maintenance.",
+        "line_number": 275,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 24052,
+        "char_end": 24984
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Two-Speed Reading Population",
+        "body": "This domain-expertise effect creates what might be called a \"two-speed reading population\" effect: for any given text, there is a population of readers for whom domain-specific vocabulary is fully automatized and schema support is rich (fast, high-comprehension reading), and a population for whom it is not (slow, lower-comprehension reading). This is not a stable individual trait — it is relative to text domain. The same person who reads cognitive psychology papers at 350 WPM with high comprehension may read organic chemistry papers at 150 WPM with moderate comprehension. Speed is domain-indexed, not person-indexed. This has a powerful implication for training: the most impactful way to increase reading speed on a specific text domain is to build deep background knowledge in that domain, not to train general \"reading speed.\"",
+        "line_number": 284,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 25963,
+        "char_end": 26863
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What the Evidence Suggests About Practical Training Priorities",
+        "body": "Taken together, the evidence suggests that the most productive path to faster, higher-comprehension reading runs through vocabulary development, domain knowledge building, and comprehension monitoring training — not through eye movement mechanics, sub-vocalization suppression, or peripheral vision expansion. The strategies with the strongest evidence base are cognitively demanding but they produce genuine, durable gains. The strategies marketed as shortcuts tend to produce speed without comprehension, and often produce readers who don't notice the comprehension loss.",
+        "line_number": 293,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 27690,
+        "char_end": 28365
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — After",
+        "body": "Return to your pre-section confidence rating. Has it changed? More importantly: has the nature of your belief changed — or just the confidence level? If you originally believed speed-reading works and now believe it doesn't, did the evidence change your mind, or merely add to it?",
+        "line_number": 300,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 28848,
+        "char_end": 29182
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: What is the single most important finding from eye movement research for someone considering a speed-reading app? State it in one clear sentence.\n**Application**: If you were designing a study to test whether domain knowledge training increases reading speed, what would your design look like?\n**Extension**: The domain-expertise effect suggests reading speed is relative to text domain. What does this imply about the validity of standardized reading speed tests as a measure of \"reading ability\"?",
+        "line_number": 303,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 29183,
+        "char_end": 29752
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead moves from describing what the evidence shows to explaining why it is true. It builds directly on the Four Bottlenecks framework and the evidence of Phase III, and takes a step up in mechanistic abstraction. The key concepts to hold active: working memory as a shared resource, lexical automaticity as the mechanism that frees that resource, and the cascade structure of the bottlenecks.",
+        "line_number": 312,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 29809,
+        "char_end": 30259
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Why Vocabulary Development is the Highest-Leverage Intervention",
+        "body": "Most reading instruction frames vocabulary development as serving comprehension: learn the words, understand the meaning. This is true but incomplete. Vocabulary automaticity — not merely knowing a word's definition but having its orthographic, phonological, and semantic representations fully consolidated into long-term memory — liberates working memory capacity that improves both reading speed and comprehension depth simultaneously. An investment in domain vocabulary is an investment in reading bandwidth, not just in knowledge. The mechanism is the key: automaticity, not familiarity. A reader can \"know\" a word without having it automatized, and partially-automatized recognition still consumes attentional resources.",
+        "line_number": 323,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 31357,
+        "char_end": 32177
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Selective Deployment Problem",
+        "body": "The resolution of the sub-vocalization paradox reveals a deeper challenge: the optimal reading strategy is not \"always sub-vocalize\" or \"never sub-vocalize\" but a dynamic, selective deployment based on real-time assessment of sentence complexity and comprehension monitoring signals. This selective deployment is itself a metacognitive skill — and it is absent in naïve speed reading training, which uniformly suppresses sub-vocalization regardless of text demands. Skilled expert readers appear to have learned this selective deployment implicitly through massive reading experience. Explicitly teaching it as a metacognitive strategy is an underexplored area of reading instruction.",
+        "line_number": 336,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 33602,
+        "char_end": 34350
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Monitoring-Speed Incompatibility",
+        "body": "Speed and metacognitive monitoring are structurally in tension at a resource level, not merely in time. Monitoring requires holding two representations active simultaneously — the current meaning of the text and a running assessment of how well that meaning is being constructed. This is a working memory cost. Under high speed pressure, working memory is already allocated to keeping up with incoming text — there is no spare capacity for the meta-level comparison. This may explain why most speed-reading training that does not include explicit comprehension monitoring instruction produces confident fast readers with degraded retention.",
+        "line_number": 361,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 37174,
+        "char_end": 37882
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Selective Updating vs. Comprehensive Construction: Chess and Reading",
+        "body": "Expert chess players do not see 64 squares with 32 pieces — they see a small number of familiar patterns with deviations. Their perceptual processing is radically different from a novice's: they compress the board's information into known schema, freeing attention for the genuinely novel elements. Expert readers engage in a structurally identical process: compressing text content into activated schema, attending selectively to what deviates from prediction. The analogy holds because both share the mechanism of pattern-triggered schema activation — [[Schema-Automation|schema automation]] enabling faster and more accurate processing not by processing less but by processing differently.",
+        "line_number": 372,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 39310,
+        "char_end": 40107
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Explain in your own words why vocabulary automaticity can improve both speed AND comprehension simultaneously. What is the key mechanism?\n**Application**: Think of a domain where you are an expert. How does your reading experience in that domain differ from reading in an unfamiliar domain? Can you identify specific moments when schema activation does the inference work automatically?\n**Extension**: If schema automation is the mechanism, what are the limits of this approach? Can you think of text types where high domain expertise would not help — or might even hinder — comprehension?",
+        "line_number": 379,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 40667,
+        "char_end": 41329
+      },
+      {
+        "type": "best-practice",
+        "title": "The Sequencing Principle",
+        "body": "These strategies are not independent — they must be sequenced correctly. Attempting to increase pace before building vocabulary automaticity will produce the characteristic speed-without-comprehension failure. The productive sequence is: (1) vocabulary automaticity first, (2) domain knowledge depth, (3) pacing increase with monitoring, (4) phrase-level chunking practice. Reversing or skipping stages in this sequence is the primary cause of speed-reading training failure.",
+        "line_number": 423,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 44772,
+        "char_end": 45298
+      },
+      {
+        "type": "warning",
+        "title": "The Fluency Illusion Risk",
+        "body": "The most practically dangerous outcome of naïve speed-reading training is the [[Fluency-Illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more demanding texts. Always calibrate comprehension gains against your actual target reading materials.",
+        "line_number": 434,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 46110,
+        "char_end": 46749
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Implications",
+        "body": "**Comprehension**: What is the most important limitation of the evidence base, and how does it affect practical recommendations?\n**Application**: If you were to apply one strategy tomorrow to improve your reading of a specific text domain, which would it be, and what specific action would it require?\n**Extension**: The sequencing principle suggests vocabulary first, pace second. Under what circumstances might this sequence be legitimately reversed?",
+        "line_number": 450,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 48178,
+        "char_end": 48686
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Bandwidth Expansion vs. Bandwidth Compression Distinction as a Diagnostic Framework",
+        "body": "This distinction is not merely descriptive — it is diagnostic. Any proposed reading speed improvement can be evaluated by asking: is the mechanism of this improvement bandwidth-expanding or bandwidth-compressing? Expanding mechanisms operate on the bottleneck (reducing bottleneck 1 or 2 load, pre-activating schema to reduce bottleneck 3 demands). Compressing mechanisms operate on the output (skipping fixations, reducing monitoring). The diagnostic question is: if this intervention produces faster reading, does it leave comprehension intact or degrade it? If a faster-reading person understands *less* per passage, the mechanism is bandwidth compression — moving to a worse point on the existing speed-comprehension curve. If they understand *as much or more*, the mechanism is bandwidth expansion — the curve itself has shifted. The evidence reviewed here strongly suggests that all genuine improvements come from bandwidth expansion, and all marketed speed-reading shortcuts are bandwidth compression.",
+        "line_number": 467,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 50134,
+        "char_end": 51261
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Irony of Speed Training Without Knowledge Training",
+        "body": "The speed-reading industry's fundamental error is inverting the correct causal sequence. It trains the output parameter (rate) directly, without addressing the bottlenecks (vocabulary automaticity, domain schema) that determine what rate is achievable with maintained comprehension. The result is like pressing the accelerator of a car with a clogged fuel line — the engine strains, a little speed is gained, and the fuel delivery (meaning construction) degrades proportionally. The correct approach addresses the fuel delivery first. Speed is then a natural downstream consequence of expanded processing capacity, not a directly trained parameter.",
+        "line_number": 486,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 52539,
+        "char_end": 53273
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension**: In two sentences, explain the Bandwidth Expansion vs. Compression distinction to a colleague who hasn't read this analysis.\n**Application**: Looking at your own reading practice, identify one specific context where you are likely engaging in bandwidth compression. What would bandwidth expansion look like in that context?\n**Extension**: What would have to be true about reading ability for the Bandwidth Expansion framework to be wrong? What evidence would falsify it?",
+        "line_number": 503,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 54413,
+        "char_end": 54946
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Bottleneck Liberation: Reading → Musical Performance",
+        "body": "In musical performance, the bottleneck for sight-reading is typically note recognition automaticity — the ability to instantly translate notated pitch-duration combinations into motor commands. Students who practice sight-reading by slowing down to their automaticity limit make genuine gains; students who play at full tempo with errors are training the output rate while bypassing the bottleneck. Expert musicians who sight-read well have automatized note-to-motor mappings to the point of near-zero attentional cost — exactly analogous to vocabulary automaticity in reading. The \"play it slowly until it's right, then speed it up\" pedagogical principle is Bottleneck Liberation theory applied to music. The analogy holds: rate training without automaticity building produces fluent errors, just as speed reading without vocabulary building produces fluent miscomprehension.",
+        "line_number": 518,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 55795,
+        "char_end": 56760
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Bottleneck Liberation: Reading → Software Engineering Productivity",
+        "body": "A developer's coding speed is constrained, for most experienced practitioners, not by typing speed but by the cognitive bottleneck of pattern recognition and solution architecture. The developer who has automatized common design patterns (reading them as chunks, not constructing them) programs faster and writes better code simultaneously — the exact bandwidth expansion pattern. Developer training focused on raw \"lines of code per day\" metrics is the bottleneck-bypassing error in another domain; training focused on design pattern fluency and code-reading automaticity is Bottleneck Liberation. The diagnostic question is identical: \"Is this developer going faster by doing less thinking, or by thinking the same things more efficiently?\"",
+        "line_number": 521,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 56761,
+        "char_end": 57606
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Expertise-Mediated Compression: Reading → Medical Diagnosis",
+        "body": "Experienced physicians demonstrably process patient presentations faster than residents — and with better diagnostic accuracy — through pattern-based recognition that compresses multiple symptom-sign combinations into familiar illness scripts. A cardiologist seeing an older male patient presenting with substernal chest pressure radiating to the left arm is not laboriously processing each symptom independently; the constellation is recognized as a familiar chunk with its associated management implications immediately available. This is structurally identical to the expert reader encountering a familiar argumentative structure: the compression is genuine (the whole is recognized, not assembled), and it improves both speed and accuracy simultaneously.",
+        "line_number": 533,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 58728,
+        "char_end": 59582
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "The principle of Expertise-Mediated Compression operates in any domain where repeated exposure to configurations builds pattern recognition. Can you identify a domain in your own work or study where you have experienced this? Notice when you recognize a familiar structure in new data and find yourself \"reading\" it rather than \"processing\" it — that is the mechanism at work. What would it take to deliberately accelerate this pattern consolidation?",
+        "line_number": 536,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 59583,
+        "char_end": 60084
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Transfer",
+        "body": "**Comprehension**: Which structural analogue surprised you most? What was non-obvious about the connection?\n**Application**: Choose the Bottleneck Liberation principle. Draft a specific plan for applying it to improve your performance in a non-reading skill you are currently developing.\n**Extension**: What does the transferability of these principles across such different domains (reading, music, medicine, software) tell you about the underlying cognitive architecture? Is this convergent evidence for a domain-general theory of skill acquisition?",
+        "line_number": 557,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 62805,
+        "char_end": 63408
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\nThis focused analysis of silent reading fluency and speed connects to your knowledge base in the following substantive ways:\n\n- **[[Working-Memory]]** — The entire argument of Phase IV turns on working memory as the shared resource governing both word recognition and meaning integration. The capacity constraints of working memory set the ceiling on comprehension-maintained reading speed; lexical automaticity liberates this resource. Any update to the Working Memory note should note this practical extension: WM capacity is domain-relativized in reading, because vocabulary automaticity effectively expands functional WM for text in familiar domains.\n\n- **[[Cognitive-Load-Theory]]** — The Four Bottlenecks framework is a reading-specific instantiation of CLT's intrinsic/extraneous/germane load distinctions. Lexical load for non-automatized vocabulary is an extraneous load that occupies working memory without contributing to schema construction; vocabulary automaticity eliminates this extraneous load. The [[Germane-Cognitive-Load|germane load]] of inference generation and situation model construction is the productive load that should not be reduced. This is an excellent practical case study for the CLT note.\n\n- **[[Schema]]** and **[[Schema-Automation]]** — The domain-expertise reading speed effect is a direct manifestation of schema automation in the reading domain. Expert readers don't read faster because they have better \"reading skill\" in the abstract — they read faster because their domain schemas are automated, reducing inference demands per sentence to near-zero. This is schema automation operationalized as a measurable performance outcome.\n\n- **[[Chunking]]** and **[[Cognitive-Chunking]]** — Phase IV's analysis of expert reading as \"recognizing\" rather than \"assembling\" text is a direct application of chunking theory. The domain-expertise effect, the phrase-level reading strategy, and the sub-vocalization selective deployment all reduce to chunking at different levels of the reading hierarchy.\n\n- **[[Metacognitive-Monitoring]]** — The comprehension monitoring bottleneck (Bottleneck 4) is a reading-domain application of metacognitive monitoring. The analysis adds a specific causal mechanism for why monitoring fails under speed pressure: working memory resource competition. This provides a mechanistic grounding for the [[Fluency-Illusion]] — fast reading disables monitoring through resource depletion, not through any inherent property of the monitoring process itself.\n\n- **[[Fluency-Illusion]]** — This analysis provides the mechanism for the fluency illusion in reading: bandwidth compression produces subjective fluency (smooth, confident processing) while degrading actual comprehension. The fluency illusion is not merely a metacognitive error — it is downstream of a resource allocation failure that prevents monitoring from occurring.\n\n- **[[Prior-Knowledge-Activation]]** — Pre-reading activation strategies (reviewing abstract, headings, conclusion) are validated here not merely as motivational priming but as a mechanism for reducing inference load during reading. Prior knowledge activation functions as bottleneck 3 pre-processing, and this mechanism connects directly to the [[Advance-Organizer|advance organizer]] literature.\n\n- **[[Dual-Process-Theory]]** — The bandwidth expansion/compression distinction maps cleanly onto System 1 (automatic, low-resource) vs. System 2 (controlled, high-resource) processing. Bandwidth expansion moves more processing from System 2 to System 1 through automatization; bandwidth compression forces System 2 processing to be skipped, not automated.\n\n- **[[Levels-of-Processing]]** and **[[Deep-Processing]]** — The analysis provides a mechanistic account of why deep processing requires more time: situation model construction, which is the hallmark of deep processing in reading, requires inference generation that cannot be compressed without comprehension loss. Shallow processing (surface encoding) is faster but produces situation models of lower resolution.\n\n- **[[Transfer-of-Learning]]** and **[[Far-Transfer]]** — The FAR Transfer phase identifies three abstract principles that demonstrate far transfer from reading science to musical performance, medical diagnosis, software engineering, and AI-assisted knowledge work. These represent structural analogues (not merely surface similarities), grounding the transfer in shared mechanisms.\n\n**Synthetic Observation**: The pattern of connections reveals that silent reading fluency analysis is, at its core, a case study in the interaction of automaticity, working memory, and metacognition — three concepts that are separately well-developed in this PKB but whose interaction in reading skill has not been explicitly mapped until now. This report provides a concrete, empirically grounded integration.",
+        "line_number": 566,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 63467,
+        "char_end": 68418
+      },
+      {
+        "type": "definition",
+        "title": "Silent Reading Fluency",
+        "body": "The capacity to read connected text silently with sufficient speed, accuracy, and automaticity to support deep comprehension. Distinguished from oral reading fluency by the absence of prosodic production demands, and from simple reading speed by its comprehension criterion.",
+        "line_number": 599,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 68476,
+        "char_end": 68796
+      },
+      {
+        "type": "definition",
+        "title": "Lexical Automaticity",
+        "body": "The state of word recognition in which the mapping from orthographic form to phonological and semantic representation is achieved with minimal attentional resource allocation. Achieved through high-frequency, varied contextual exposure plus consolidation through spaced retrieval. Graded and domain-relative, not binary.",
+        "line_number": 602,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 68797,
+        "char_end": 69161
+      },
+      {
+        "type": "definition",
+        "title": "[[Situation-Model|Situation Model]] (van Dijk & Kintsch, 1983)",
+        "body": "The mental representation of the situation described by a text, integrating textual propositions with world knowledge through inference generation. Situation model construction is the goal of skilled reading and the standard against which genuine comprehension should be measured.",
+        "line_number": 605,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 69162,
+        "char_end": 69528
+      },
+      {
+        "type": "definition",
+        "title": "Bandwidth Expansion (Original)",
+        "body": "A reading speed gain achieved by reducing cognitive bottleneck demands — through lexical automaticity, schema activation, or chunking consolidation — such that comprehension is maintained or improved. Contrasted with bandwidth compression. The operative test: does the gain leave the speed-comprehension function intact or shift it upward?",
+        "line_number": 608,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 69529,
+        "char_end": 69922
+      },
+      {
+        "type": "definition",
+        "title": "Bandwidth Compression (Original)",
+        "body": "A reading speed gain achieved by reducing the processing performed per text unit — skipping fixations, suppressing phonological maintenance, truncating inference generation — such that comprehension is degraded. Moves the reader to a worse point on the existing speed-comprehension curve without shifting the curve.",
+        "line_number": 611,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 69923,
+        "char_end": 70294
+      },
+      {
+        "type": "definition",
+        "title": "Perceptual Span",
+        "body": "The region from which useful information is extracted during a single eye fixation during reading. Approximately 14–15 characters to the right and 3–4 characters to the left of the fixation point in alphabetic scripts. Sets the physical upper limit on information available per fixation and is not substantively modifiable through training.",
+        "line_number": 614,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 70295,
+        "char_end": 70674
+      },
+      {
+        "type": "definition",
+        "title": "[[Phonological-Loop|Phonological Loop]] (Baddeley & Hitch, 1974)",
+        "body": "A component of [[Working-Memory|working memory]] responsible for maintaining phonological traces of verbal information in an active state for approximately 2 seconds, refreshable through subvocal rehearsal. In reading, the phonological loop maintains the phonological trace of sentences to support syntactic parsing across clausal boundaries.",
+        "line_number": 617,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 70675,
+        "char_end": 71105
+      },
+      {
+        "type": "definition",
+        "title": "[[Advance-Organizer|Advance Organizer]] (Ausubel, 1960)",
+        "body": "Introductory material presented before a learning task that provides an abstract, conceptual framework into which the incoming information can be assimilated. In reading, previewing abstract, headings, and conclusions functions as an advance organizer by pre-activating relevant schema and reducing inference load during primary reading.",
+        "line_number": 620,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 71106,
+        "char_end": 71522
+      },
+      {
+        "type": "definition",
+        "title": "[[Fluency-Illusion|Fluency Illusion]]",
+        "body": "The metacognitive error of conflating the subjective ease of processing (processing fluency) with actual comprehension depth. In reading, speed-trained readers often experience high processing fluency — smooth, fast reading — while their situation model construction has degraded. The illusion is produced because monitoring failure prevents awareness of the comprehension deficit.",
+        "line_number": 623,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 71523,
+        "char_end": 71965
+      },
+      {
+        "type": "definition",
+        "title": "Inferential Bridging",
+        "body": "The generation of implicit inferences needed to establish coherence between textual propositions that are not directly connected by explicit linguistic devices. A core component of situation model construction, requiring activation of world knowledge and causal reasoning. Inferential bridging demand is the primary determinant of text difficulty beyond the sentence level.",
+        "line_number": 626,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 71966,
+        "char_end": 72383
+      },
+      {
+        "type": "definition",
+        "title": "RSVP (Rapid Serial Visual Presentation)",
+        "body": "A text display mode presenting words one at a time at a fixed rate, eliminating saccadic eye movements. Used in speed-reading applications and research. RSVP disables strategic rereading and comprehension-monitoring-driven gaze control, producing comprehension deficits relative to normal reading at equivalent word rates for complex text.",
+        "line_number": 629,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 72384,
+        "char_end": 72786
+      },
+      {
+        "type": "cite",
+        "title": "Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.",
+        "body": "The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.",
+        "line_number": 634,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 72806,
+        "char_end": 73342
+      },
+      {
+        "type": "cite",
+        "title": "Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.",
+        "body": "Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.",
+        "line_number": 637,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 73343,
+        "char_end": 73835
+      },
+      {
+        "type": "cite",
+        "title": "Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.",
+        "body": "Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.",
+        "line_number": 640,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 73836,
+        "char_end": 74253
+      },
+      {
+        "type": "cite",
+        "title": "Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.",
+        "body": "Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of \"rauding\" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.",
+        "line_number": 643,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 74254,
+        "char_end": 74668
+      },
+      {
+        "type": "cite",
+        "title": "Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.",
+        "body": "The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.",
+        "line_number": 646,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 74669,
+        "char_end": 75052
+      },
+      {
+        "type": "cite",
+        "title": "Baddeley, A. D. (2000). The Episodic Buffer: A New Component of Working Memory? *Trends in Cognitive Sciences, 4*(11), 417–423.",
+        "body": "Updated working memory model including the episodic buffer, directly relevant to the situation model construction bottleneck. Provides theoretical grounding for Phase IV's treatment of working memory integration demands during reading.",
+        "line_number": 649,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 75053,
+        "char_end": 75433
+      },
+      {
+        "type": "cite",
+        "title": "Ausubel, D. P. (1960). The Use of Advance Organizers in the Learning and Retention of Meaningful Verbal Material. *Journal of Educational Psychology, 51*(5), 267–272.",
+        "body": "Original advance organizer study, providing empirical grounding for the prior knowledge pre-activation strategy in Phase V. Demonstrably improves both comprehension and retention through schema pre-activation.",
+        "line_number": 652,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 75434,
+        "char_end": 75827
+      },
+      {
+        "type": "cite",
+        "title": "Ericsson, K. A., & Kintsch, W. (1995). Long-Term Working Memory. *Psychological Review, 102*(2), 211–245.",
+        "body": "Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.",
+        "line_number": 655,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 75828,
+        "char_end": 76231
+      },
+      {
+        "type": "cite",
+        "title": "Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.",
+        "body": "Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.",
+        "line_number": 658,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 76232,
+        "char_end": 76737
+      },
+      {
+        "type": "cite",
+        "title": "Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. *Psychological Review, 101*(3), 371–395.",
+        "body": "Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.",
+        "line_number": 661,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 76738,
+        "char_end": 77163
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on three bodies of established empirical literature: (1) eye movement research in reading (Rayner and colleagues), representing decades of laboratory eye-tracking studies with strong internal validity; (2) cognitive psychology of working memory and text comprehension (Baddeley, Kintsch, van Dijk), representing both experimental and theoretical work; and (3) educational psychology of reading instruction (Perfetti, Carver), representing applied research with ecological validity. The Bandwidth Expansion/Bandwidth Compression distinction is Claude's original analytical framework, integrating findings from these three literatures into a unified diagnostic principle. This synthesis has not been articulated in this form in the primary literature, though its components are all empirically grounded. The FAR Transfer principles extend the analysis through structural analogical reasoning; the specific cross-domain applications are analytical contributions, not empirically tested claims.",
+        "line_number": 666,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 77201,
+        "char_end": 78280
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "",
+        "line_number": 671,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 78306,
+        "char_end": 78359
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Vocabulary-Acquisition-for-Reading-Automaticity]]",
+        "body": "A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[Spaced-Repetition-Systems]], [[Elaborative-Rehearsal]], and [[Levels-of-Processing]].",
+        "line_number": 673,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 78360,
+        "char_end": 78964
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Comprehension-Monitoring-Training-Protocols]]",
+        "body": "The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[Metacognitive-Regulation]], [[Self-Regulated-Learning]], and [[Formative-Assessment]].",
+        "line_number": 676,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 78965,
+        "char_end": 79541
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation]]",
+        "body": "This expansion topic follows the far-transfer direction: applies the Bottleneck Liberation principle to the question of how expertise development in a target domain should be optimized to accelerate reading speed in that domain. Should examine the relationship between vocabulary automaticity and conceptual schema depth as independent and interactive contributors to reading efficiency. A transfer-oriented investigation testing whether the bottleneck structure identified in reading science maps onto expertise acquisition in other cognitively demanding domains (chess, medical diagnosis, code review).",
+        "line_number": 679,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 79542,
+        "char_end": 80229
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[The-Situation-Model-in-Knowledge-Management]]",
+        "body": "The [[Situation-Model|situation model]] is the gold standard for reading comprehension, but it has underexplored implications for knowledge management design. Notes that support situation model construction — providing the inferential bridges that sparse propositions leave implicit, encoding causal and temporal relationships explicitly, connecting propositions to broader schemas — are more comprehension-supporting than those that merely record propositions. A design-oriented investigation of how PKB note-making practices can be optimized for situation model construction rather than mere propositional capture.",
+        "line_number": 682,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 80230,
+        "char_end": 80913
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[AI-Assisted-Reading-Comprehension-Risks-and-Safeguards]]",
+        "body": "An applied investigation of the monitoring displacement risk when AI summarization tools accelerate information intake. The structural parallel with speed-reading — fast, fluent processing that may bypass genuine situation model construction — is analytically well-grounded, but the specific magnitude of the comprehension risk and the most effective safeguards require dedicated investigation. Should examine protocols for calibrating AI-assisted reading against comprehension of primary sources.",
+        "line_number": 685,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md",
+        "char_start": 80914,
+        "char_end": 81489
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 163,
+        "section": "Scope and Boundaries",
+        "context_line": "This report does not attempt a comprehensive survey of reading science. For foundational treatment of [[Working-Memory]], [[Cognitive-Load-Theory]], and [[Schema-Theory]], those permanent notes provide the theoretical grounding assumed here.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 163,
+        "section": "Scope and Boundaries",
+        "context_line": "This report does not attempt a comprehensive survey of reading science. For foundational treatment of [[Working-Memory]], [[Cognitive-Load-Theory]], and [[Schema-Theory]], those permanent notes provide the theoretical grounding assumed here.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Schema-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory]]",
+        "line_number": 163,
+        "section": "Scope and Boundaries",
+        "context_line": "This report does not attempt a comprehensive survey of reading science. For foundational treatment of [[Working-Memory]], [[Cognitive-Load-Theory]], and [[Schema-Theory]], those permanent notes provide the theoretical grounding assumed here.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": "chunking theory",
+        "full_match": "[[Chunking|chunking theory]]",
+        "line_number": 182,
+        "section": "Why a Bottlenecks Framework?",
+        "context_line": "Reading speed is not determined by a single variable. It is the output of a system in which multiple cognitive processes must complete in sequence or in parallel, and the system's throughput is constrained by its slowest component. This is the central insight of [[Chunking|chunking theory]] applied to reading: units of processing define the temporal structure of comprehension, and different readers have different units bottlenecked at different stages.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Dual-Process-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process-Theory]]",
+        "line_number": 184,
+        "section": "Why a Bottlenecks Framework?",
+        "context_line": "The [[Dual-Process-Theory]] is relevant here as a structural analogy: just as System 1 processes are fast, automatic, and low-capacity while System 2 processes are slow, deliberate, and attention-demanding, reading involves both automatic lower-level processes (letter and word recognition) and controlled higher-level processes (inference generation, situation model construction). The speed-comprehension trade-off is, at its core, a story about which processes have been automatized and which have not.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Situation-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Situation-Model]]",
+        "line_number": 193,
+        "section": "Why a Bottlenecks Framework?",
+        "context_line": "> In this analysis, comprehension refers specifically to the construction of a [[Situation-Model]]: a mental representation of the situation described by the text, including not only what was explicitly stated but the inferences, causal relationships, and world-knowledge integrations needed to make the text coherent. Surface comprehension (remembering specific sentences) is a weaker standard; situation model construction is the goal of skilled reading.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency]]",
+        "line_number": 199,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Fluency]] in word recognition is the most empirically well-established predictor of reading rate. When a skilled reader encounters a familiar word, recognition is near-instantaneous: the word's phonological, orthographic, and semantic representations are activated simultaneously within approximately 150–200 milliseconds. This automatized process — the \"lexical reflex\" — requires no attentional resources and does not compete for [[Working-Memory]] capacity.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 199,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Fluency]] in word recognition is the most empirically well-established predictor of reading rate. When a skilled reader encounters a familiar word, recognition is near-instantaneous: the word's phonological, orthographic, and semantic representations are activated simultaneously within approximately 150–200 milliseconds. This automatized process — the \"lexical reflex\" — requires no attentional resources and does not compete for [[Working-Memory]] capacity.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 208,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Working-Memory]] maintains the active representation of what has been read while new input is being processed. Specifically, the [[Phonological-Loop]] holds a phonological trace of the current sentence, enabling the binding of syntactically separated elements (\"The committee that the senator who the lobbyist hired attacked passed the bill\" — parsing this requires holding multiple referents active simultaneously).",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phonological-Loop]]",
+        "line_number": 208,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Working-Memory]] maintains the active representation of what has been read while new input is being processed. Specifically, the [[Phonological-Loop]] holds a phonological trace of the current sentence, enabling the binding of syntactically separated elements (\"The committee that the senator who the lobbyist hired attacked passed the bill\" — parsing this requires holding multiple referents active simultaneously).",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Baddeley's-Working-Memory-Model",
+        "heading": null,
+        "display_text": "Baddeley's model",
+        "full_match": "[[Baddeley's-Working-Memory-Model|Baddeley's model]]",
+        "line_number": 210,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Baddeley's-Working-Memory-Model|Baddeley's model]] identifies the central executive as the resource governing this integration. Working memory capacity is both individual-varying and context-sensitive: anxiety, cognitive fatigue, and concurrent task demands all reduce the effective capacity available for reading. The working memory bottleneck sets the ceiling on the complexity of sentence structures that can be parsed at high speed.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Situation-Model",
+        "heading": null,
+        "display_text": "Situation model",
+        "full_match": "[[Situation-Model|Situation model]]",
+        "line_number": 214,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Situation-Model|Situation model]] construction is the most cognitively expensive phase of comprehension. It requires the reader to:",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": "prior knowledge activation",
+        "full_match": "[[Prior-Knowledge-Activation|prior knowledge activation]]",
+        "line_number": 221,
+        "section": "The Four Bottlenecks",
+        "context_line": "Each of these operations consumes time roughly proportional to the density of new inferential demands in the text. The inference bottleneck is why reading a technically dense unfamiliar domain is slower than reading familiar terrain: more inferences must be generated per sentence. This is also why [[Prior-Knowledge-Activation|prior knowledge activation]] before reading is not merely a motivational technique but a direct mechanism for reducing inference load.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 225,
+        "section": "The Four Bottlenecks",
+        "context_line": "[[Metacognitive-Monitoring]] during reading involves the ongoing assessment of one's own understanding: detecting comprehension failures, identifying confusion points, and triggering repair strategies (rereading, pausing, seeking external clarification). This monitoring consumes cognitive resources and, crucially, requires slowing down or pausing — it cannot be done at full forward speed.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": "prior knowledge",
+        "full_match": "[[Prior-Knowledge-Activation|prior knowledge]]",
+        "line_number": 282,
+        "section": "Individual Differences and the Domain-Expertise Effect",
+        "context_line": "Expert cardiologists read cardiology papers faster *and* with better comprehension than novice cardiologists — who in turn read them faster and with better comprehension than intelligent non-physicians reading the same text. This is not explained by faster raw word recognition (though vocabulary automaticity in the domain contributes). It is primarily explained by [[Prior-Knowledge-Activation|prior knowledge]] reducing inference demands: when an expert encounters a claim, the inferential work needed to situate it in a coherent situation model is dramatically reduced because the relevant [[Schema|schema]] is already highly developed.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Schema",
+        "heading": null,
+        "display_text": "schema",
+        "full_match": "[[Schema|schema]]",
+        "line_number": 282,
+        "section": "Individual Differences and the Domain-Expertise Effect",
+        "context_line": "Expert cardiologists read cardiology papers faster *and* with better comprehension than novice cardiologists — who in turn read them faster and with better comprehension than intelligent non-physicians reading the same text. This is not explained by faster raw word recognition (though vocabulary automaticity in the domain contributes). It is primarily explained by [[Prior-Knowledge-Activation|prior knowledge]] reducing inference demands: when an expert encounters a claim, the inferential work needed to situate it in a coherent situation model is dramatically reduced because the relevant [[Schema|schema]] is already highly developed.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 289,
+        "section": "The Comprehension Monitoring Deficit Under Speed Pressure",
+        "context_line": "A body of research on the [[Fluency-Illusion]] (the tendency to confuse the subjective ease of processing with actual comprehension) is directly relevant here. Studies by Bjork, Koriat, and colleagues establish that reading speed is negatively correlated with comprehension calibration accuracy: faster readers are less accurate in knowing whether they understood what they read.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": "working memory",
+        "full_match": "[[Working-Memory|working memory]]",
+        "line_number": 319,
+        "section": "Lexical Automaticity as the Master Lever",
+        "context_line": "When a word is not automatically recognized, processing it requires attention. Attention is a [[Working-Memory|working memory]] resource. Working memory capacity is the shared resource governing both word-level processing and sentence-level integration. Therefore: every word that requires effortful recognition consumes capacity that could otherwise support integration, inference generation, and situation model construction.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": "phonological loop",
+        "full_match": "[[Phonological-Loop|phonological loop]]",
+        "line_number": 328,
+        "section": "Sub-Vocalization: What It Does and When You Need It",
+        "context_line": "The sub-vocalization paradox from Phase III resolves when we examine the functional role of inner speech in reading. Sub-vocalization is not a quirk or a bad habit — it is the [[Phonological-Loop|phonological loop]] actively maintaining the phonological trace of processed text to support syntactic parsing and working memory integration.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": "Chunking",
+        "full_match": "[[Chunking|Chunking]]",
+        "line_number": 341,
+        "section": "The Role of Chunking in Expert Reading",
+        "context_line": "[[Chunking|Chunking]] — the grouping of lower-level units into higher-level units that can be held as a single item in working memory — is a fundamental mechanism of expertise across domains ([[Cognitive-Chunking|cognitive chunking theory]]). In reading, chunking operates at multiple levels:",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Cognitive-Chunking",
+        "heading": null,
+        "display_text": "cognitive chunking theory",
+        "full_match": "[[Cognitive-Chunking|cognitive chunking theory]]",
+        "line_number": 341,
+        "section": "The Role of Chunking in Expert Reading",
+        "context_line": "[[Chunking|Chunking]] — the grouping of lower-level units into higher-level units that can be held as a single item in working memory — is a fundamental mechanism of expertise across domains ([[Cognitive-Chunking|cognitive chunking theory]]). In reading, chunking operates at multiple levels:",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Situation-Model",
+        "heading": null,
+        "display_text": "situation model",
+        "full_match": "[[Situation-Model|situation model]]",
+        "line_number": 357,
+        "section": "The Cascade Dynamics: When the System Fails",
+        "context_line": "When a text contains a high density of non-automatized vocabulary (lexical bottleneck active), working memory fills with word-level processing, leaving insufficient capacity for syntactic integration (working memory bottleneck breached). Propositions are processed independently rather than integrated into a developing situation model. Inferences required to bridge propositions are not generated. The reader's [[Situation-Model|situation model]] remains a sparse, disconnected collection of propositions rather than a coherent representation.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": "metacognitive monitoring",
+        "full_match": "[[Metacognitive-Monitoring|metacognitive monitoring]]",
+        "line_number": 359,
+        "section": "The Cascade Dynamics: When the System Fails",
+        "context_line": "Critically, [[Metacognitive-Monitoring|metacognitive monitoring]] fails last — after comprehension has already failed. By the time the reader notices something is wrong (if they notice at all), multiple paragraphs of misread or unintegrated content lie behind them. This is why rereading is so commonly required at the end of difficult passages: comprehension monitoring was overwhelmed and is now compensating retroactively.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": "working memory",
+        "full_match": "[[Working-Memory|working memory]]",
+        "line_number": 368,
+        "section": "Domain Knowledge as Pre-Processing: The Inference Engine Effect",
+        "context_line": "When a cognitive psychologist reads a paper on [[Working-Memory|working memory]], the inference engine is constantly running: predicting experimental designs, anticipating results, pre-generating the conceptual implications of each finding. These operations, which would be slow and capacity-demanding for a novice, are automatic for the expert — they occur as a byproduct of schema activation rather than as deliberate inferential work.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": "schema automation",
+        "full_match": "[[Schema-Automation|schema automation]]",
+        "line_number": 373,
+        "section": "Domain Knowledge as Pre-Processing: The Inference Engine Effect",
+        "context_line": "> Expert chess players do not see 64 squares with 32 pieces — they see a small number of familiar patterns with deviations. Their perceptual processing is radically different from a novice's: they compress the board's information into known schema, freeing attention for the genuinely novel elements. Expert readers engage in a structurally identical process: compressing text content into activated schema, attending selectively to what deviates from prediction. The analogy holds because both share the mechanism of pattern-triggered schema activation — [[Schema-Automation|schema automation]] enabling faster and more accurate processing not by processing less but by processing differently.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Spaced-Repetition-Systems",
+        "heading": null,
+        "display_text": "Spaced repetition",
+        "full_match": "[[Spaced-Repetition-Systems|Spaced repetition]]",
+        "line_number": 397,
+        "section": "What Actually Works: Evidence-Based Strategies",
+        "context_line": "- [[Spaced-Repetition-Systems|Spaced repetition]] to consolidate representations across multiple retrieval cycles",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Schema",
+        "heading": null,
+        "display_text": "schema",
+        "full_match": "[[Schema|schema]]",
+        "line_number": 405,
+        "section": "What Actually Works: Evidence-Based Strategies",
+        "context_line": "Since domain knowledge reduces inference demands per sentence, activating relevant prior knowledge before reading reduces the bottleneck 3 load from the first sentence. Practically: previewing headings, abstract, and conclusion before reading an academic paper is not merely a reading strategy — it is an inference pre-loading mechanism. The reader arrives at each section with an active [[Schema|schema]] already primed to receive the content, reducing the construction demands.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": "advance organizer",
+        "full_match": "[[Advance-Organizer|advance organizer]]",
+        "line_number": 407,
+        "section": "What Actually Works: Evidence-Based Strategies",
+        "context_line": "The [[Advance-Organizer|advance organizer]] literature (Ausubel, 1960) captures this formally: expository advance organizers that present the conceptual structure of what is about to be read consistently improve both comprehension and retention. The mechanism is pre-activation of schema that reduces the inference load during actual reading.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": "fluency illusion",
+        "full_match": "[[Fluency-Illusion|fluency illusion]]",
+        "line_number": 435,
+        "section": "What Does Not Work: Common Misconceptions",
+        "context_line": "> The most practically dangerous outcome of naïve speed-reading training is the [[Fluency-Illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more demanding texts. Always calibrate comprehension gains against your actual target reading materials.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working-Memory]]",
+        "line_number": 571,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Working-Memory]]** — The entire argument of Phase IV turns on working memory as the shared resource governing both word recognition and meaning integration. The capacity constraints of working memory set the ceiling on comprehension-maintained reading speed; lexical automaticity liberates this resource. Any update to the Working Memory note should note this practical extension: WM capacity is domain-relativized in reading, because vocabulary automaticity effectively expands functional WM for text in familiar domains.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 573,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive-Load-Theory]]** — The Four Bottlenecks framework is a reading-specific instantiation of CLT's intrinsic/extraneous/germane load distinctions. Lexical load for non-automatized vocabulary is an extraneous load that occupies working memory without contributing to schema construction; vocabulary automaticity eliminates this extraneous load. The [[Germane-Cognitive-Load|germane load]] of inference generation and situation model construction is the productive load that should not be reduced. This is an excellent practical case study for the CLT note.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Germane-Cognitive-Load",
+        "heading": null,
+        "display_text": "germane load",
+        "full_match": "[[Germane-Cognitive-Load|germane load]]",
+        "line_number": 573,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive-Load-Theory]]** — The Four Bottlenecks framework is a reading-specific instantiation of CLT's intrinsic/extraneous/germane load distinctions. Lexical load for non-automatized vocabulary is an extraneous load that occupies working memory without contributing to schema construction; vocabulary automaticity eliminates this extraneous load. The [[Germane-Cognitive-Load|germane load]] of inference generation and situation model construction is the productive load that should not be reduced. This is an excellent practical case study for the CLT note.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Schema",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema]]",
+        "line_number": 575,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema]]** and **[[Schema-Automation]]** — The domain-expertise reading speed effect is a direct manifestation of schema automation in the reading domain. Expert readers don't read faster because they have better \"reading skill\" in the abstract — they read faster because their domain schemas are automated, reducing inference demands per sentence to near-zero. This is schema automation operationalized as a measurable performance outcome.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 575,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema]]** and **[[Schema-Automation]]** — The domain-expertise reading speed effect is a direct manifestation of schema automation in the reading domain. Expert readers don't read faster because they have better \"reading skill\" in the abstract — they read faster because their domain schemas are automated, reducing inference demands per sentence to near-zero. This is schema automation operationalized as a measurable performance outcome.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chunking]]",
+        "line_number": 577,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Chunking]]** and **[[Cognitive-Chunking]]** — Phase IV's analysis of expert reading as \"recognizing\" rather than \"assembling\" text is a direct application of chunking theory. The domain-expertise effect, the phrase-level reading strategy, and the sub-vocalization selective deployment all reduce to chunking at different levels of the reading hierarchy.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Cognitive-Chunking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Chunking]]",
+        "line_number": 577,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Chunking]]** and **[[Cognitive-Chunking]]** — Phase IV's analysis of expert reading as \"recognizing\" rather than \"assembling\" text is a direct application of chunking theory. The domain-expertise effect, the phrase-level reading strategy, and the sub-vocalization selective deployment all reduce to chunking at different levels of the reading hierarchy.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 579,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognitive-Monitoring]]** — The comprehension monitoring bottleneck (Bottleneck 4) is a reading-domain application of metacognitive monitoring. The analysis adds a specific causal mechanism for why monitoring fails under speed pressure: working memory resource competition. This provides a mechanistic grounding for the [[Fluency-Illusion]] — fast reading disables monitoring through resource depletion, not through any inherent property of the monitoring process itself.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 579,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognitive-Monitoring]]** — The comprehension monitoring bottleneck (Bottleneck 4) is a reading-domain application of metacognitive monitoring. The analysis adds a specific causal mechanism for why monitoring fails under speed pressure: working memory resource competition. This provides a mechanistic grounding for the [[Fluency-Illusion]] — fast reading disables monitoring through resource depletion, not through any inherent property of the monitoring process itself.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 581,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Fluency-Illusion]]** — This analysis provides the mechanism for the fluency illusion in reading: bandwidth compression produces subjective fluency (smooth, confident processing) while degrading actual comprehension. The fluency illusion is not merely a metacognitive error — it is downstream of a resource allocation failure that prevents monitoring from occurring.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prior-Knowledge-Activation]]",
+        "line_number": 583,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Prior-Knowledge-Activation]]** — Pre-reading activation strategies (reviewing abstract, headings, conclusion) are validated here not merely as motivational priming but as a mechanism for reducing inference load during reading. Prior knowledge activation functions as bottleneck 3 pre-processing, and this mechanism connects directly to the [[Advance-Organizer|advance organizer]] literature.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": "advance organizer",
+        "full_match": "[[Advance-Organizer|advance organizer]]",
+        "line_number": 583,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Prior-Knowledge-Activation]]** — Pre-reading activation strategies (reviewing abstract, headings, conclusion) are validated here not merely as motivational priming but as a mechanism for reducing inference load during reading. Prior knowledge activation functions as bottleneck 3 pre-processing, and this mechanism connects directly to the [[Advance-Organizer|advance organizer]] literature.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Dual-Process-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process-Theory]]",
+        "line_number": 585,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Dual-Process-Theory]]** — The bandwidth expansion/compression distinction maps cleanly onto System 1 (automatic, low-resource) vs. System 2 (controlled, high-resource) processing. Bandwidth expansion moves more processing from System 2 to System 1 through automatization; bandwidth compression forces System 2 processing to be skipped, not automated.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Levels-of-Processing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Levels-of-Processing]]",
+        "line_number": 587,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Levels-of-Processing]]** and **[[Deep-Processing]]** — The analysis provides a mechanistic account of why deep processing requires more time: situation model construction, which is the hallmark of deep processing in reading, requires inference generation that cannot be compressed without comprehension loss. Shallow processing (surface encoding) is faster but produces situation models of lower resolution.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Deep-Processing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deep-Processing]]",
+        "line_number": 587,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Levels-of-Processing]]** and **[[Deep-Processing]]** — The analysis provides a mechanistic account of why deep processing requires more time: situation model construction, which is the hallmark of deep processing in reading, requires inference generation that cannot be compressed without comprehension loss. Shallow processing (surface encoding) is faster but produces situation models of lower resolution.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 589,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Transfer-of-Learning]]** and **[[Far-Transfer]]** — The FAR Transfer phase identifies three abstract principles that demonstrate far transfer from reading science to musical performance, medical diagnosis, software engineering, and AI-assisted knowledge work. These represent structural analogues (not merely surface similarities), grounding the transfer in shared mechanisms.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Far-Transfer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Far-Transfer]]",
+        "line_number": 589,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Transfer-of-Learning]]** and **[[Far-Transfer]]** — The FAR Transfer phase identifies three abstract principles that demonstrate far transfer from reading science to musical performance, medical diagnosis, software engineering, and AI-assisted knowledge work. These represent structural analogues (not merely surface similarities), grounding the transfer in shared mechanisms.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Situation-Model",
+        "heading": null,
+        "display_text": "Situation Model",
+        "full_match": "[[Situation-Model|Situation Model]]",
+        "line_number": 605,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> [!definition] **[[Situation-Model|Situation Model]] (van Dijk & Kintsch, 1983)**",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Phonological-Loop",
+        "heading": null,
+        "display_text": "Phonological Loop",
+        "full_match": "[[Phonological-Loop|Phonological Loop]]",
+        "line_number": 617,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> [!definition] **[[Phonological-Loop|Phonological Loop]] (Baddeley & Hitch, 1974)**",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": "working memory",
+        "full_match": "[[Working-Memory|working memory]]",
+        "line_number": 618,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> A component of [[Working-Memory|working memory]] responsible for maintaining phonological traces of verbal information in an active state for approximately 2 seconds, refreshable through subvocal rehearsal. In reading, the phonological loop maintains the phonological trace of sentences to support syntactic parsing across clausal boundaries.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": "Advance Organizer",
+        "full_match": "[[Advance-Organizer|Advance Organizer]]",
+        "line_number": 620,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> [!definition] **[[Advance-Organizer|Advance Organizer]] (Ausubel, 1960)**",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": "Fluency Illusion",
+        "full_match": "[[Fluency-Illusion|Fluency Illusion]]",
+        "line_number": 623,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> [!definition] **[[Fluency-Illusion|Fluency Illusion]]**",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 659,
+        "section": "B. References",
+        "context_line": "> Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Vocabulary-Acquisition-for-Reading-Automaticity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Vocabulary-Acquisition-for-Reading-Automaticity]]",
+        "line_number": 673,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Vocabulary-Acquisition-for-Reading-Automaticity]]",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Spaced-Repetition-Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Spaced-Repetition-Systems]]",
+        "line_number": 674,
+        "section": "D. Expansion Topics",
+        "context_line": "> A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[Spaced-Repetition-Systems]], [[Elaborative-Rehearsal]], and [[Levels-of-Processing]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Elaborative-Rehearsal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Rehearsal]]",
+        "line_number": 674,
+        "section": "D. Expansion Topics",
+        "context_line": "> A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[Spaced-Repetition-Systems]], [[Elaborative-Rehearsal]], and [[Levels-of-Processing]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Levels-of-Processing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Levels-of-Processing]]",
+        "line_number": 674,
+        "section": "D. Expansion Topics",
+        "context_line": "> A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[Spaced-Repetition-Systems]], [[Elaborative-Rehearsal]], and [[Levels-of-Processing]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Comprehension-Monitoring-Training-Protocols",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Comprehension-Monitoring-Training-Protocols]]",
+        "line_number": 676,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Comprehension-Monitoring-Training-Protocols]]",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 677,
+        "section": "D. Expansion Topics",
+        "context_line": "> The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[Metacognitive-Regulation]], [[Self-Regulated-Learning]], and [[Formative-Assessment]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Metacognitive-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Regulation]]",
+        "line_number": 677,
+        "section": "D. Expansion Topics",
+        "context_line": "> The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[Metacognitive-Regulation]], [[Self-Regulated-Learning]], and [[Formative-Assessment]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 677,
+        "section": "D. Expansion Topics",
+        "context_line": "> The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[Metacognitive-Regulation]], [[Self-Regulated-Learning]], and [[Formative-Assessment]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 677,
+        "section": "D. Expansion Topics",
+        "context_line": "> The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[Metacognitive-Regulation]], [[Self-Regulated-Learning]], and [[Formative-Assessment]].",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation]]",
+        "line_number": 679,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation]]",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "The-Situation-Model-in-Knowledge-Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Situation-Model-in-Knowledge-Management]]",
+        "line_number": 682,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[The-Situation-Model-in-Knowledge-Management]]",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "Situation-Model",
+        "heading": null,
+        "display_text": "situation model",
+        "full_match": "[[Situation-Model|situation model]]",
+        "line_number": 683,
+        "section": "D. Expansion Topics",
+        "context_line": "> The [[Situation-Model|situation model]] is the gold standard for reading comprehension, but it has underexplored implications for knowledge management design. Notes that support situation model construction — providing the inferential bridges that sparse propositions leave implicit, encoding causal and temporal relationships explicitly, connecting propositions to broader schemas — are more comprehension-supporting than those that merely record propositions. A design-oriented investigation of how PKB note-making practices can be optimized for situation model construction rather than mere propositional capture.",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "target": "AI-Assisted-Reading-Comprehension-Risks-and-Safeguards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[AI-Assisted-Reading-Comprehension-Risks-and-Safeguards]]",
+        "line_number": 685,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[AI-Assisted-Reading-Comprehension-Risks-and-Safeguards]]",
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Strategies for Improving Silent Reading Fluency and Speed Without Sacrificing Comprehension",
+        "anchor": "strategies-for-improving-silent-reading-fluency-and-speed-without-sacrificing-comprehension",
+        "line_number": 130,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Analytical Focus",
+        "anchor": "phase-i-orientation-analytical-focus",
+        "line_number": 136,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Problem with Speed Reading — and With Dismissing It Entirely",
+        "anchor": "the-problem-with-speed-reading-and-with-dismissing-it-entirely",
+        "line_number": 141,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question",
+        "anchor": "the-central-question",
+        "line_number": 149,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Scope and Boundaries",
+        "anchor": "scope-and-boundaries",
+        "line_number": 155,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Why This Matters",
+        "anchor": "why-this-matters",
+        "line_number": 165,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Roadmap",
+        "anchor": "roadmap",
+        "line_number": 169,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — The Four Reading Bottlenecks",
+        "anchor": "phase-ii-analytical-framework-the-four-reading-bottlenecks",
+        "line_number": 178,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Why a Bottlenecks Framework?",
+        "anchor": "why-a-bottlenecks-framework",
+        "line_number": 180,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Four Bottlenecks",
+        "anchor": "the-four-bottlenecks",
+        "line_number": 195,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 243,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Eye Movement Evidence",
+        "anchor": "the-eye-movement-evidence",
+        "line_number": 248,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Speed Reading App and RSVP Evidence",
+        "anchor": "the-speed-reading-app-and-rsvp-evidence",
+        "line_number": 262,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Individual Differences and the Domain-Expertise Effect",
+        "anchor": "individual-differences-and-the-domain-expertise-effect",
+        "line_number": 278,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Comprehension Monitoring Deficit Under Speed Pressure",
+        "anchor": "the-comprehension-monitoring-deficit-under-speed-pressure",
+        "line_number": 287,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+        "line_number": 310,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Lexical Automaticity as the Master Lever",
+        "anchor": "lexical-automaticity-as-the-master-lever",
+        "line_number": 315,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Sub-Vocalization: What It Does and When You Need It",
+        "anchor": "sub-vocalization-what-it-does-and-when-you-need-it",
+        "line_number": 326,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Role of Chunking in Expert Reading",
+        "anchor": "the-role-of-chunking-in-expert-reading",
+        "line_number": 339,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Cascade Dynamics: When the System Fails",
+        "anchor": "the-cascade-dynamics-when-the-system-fails",
+        "line_number": 351,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Domain Knowledge as Pre-Processing: The Inference Engine Effect",
+        "anchor": "domain-knowledge-as-pre-processing-the-inference-engine-effect",
+        "line_number": 364,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications, Applications & Limitations",
+        "anchor": "phase-v-implications-applications-limitations",
+        "line_number": 386,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "What Actually Works: Evidence-Based Strategies",
+        "anchor": "what-actually-works-evidence-based-strategies",
+        "line_number": 388,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "What Does Not Work: Common Misconceptions",
+        "anchor": "what-does-not-work-common-misconceptions",
+        "line_number": 426,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Genuine Limitations of the Evidence Base",
+        "anchor": "genuine-limitations-of-the-evidence-base",
+        "line_number": 437,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 457,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "The Bandwidth Expansion vs. Bandwidth Compression Framework",
+        "anchor": "the-bandwidth-expansion-vs-bandwidth-compression-framework",
+        "line_number": 459,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Revisiting the Central Question",
+        "anchor": "revisiting-the-central-question",
+        "line_number": 470,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Unresolved Questions",
+        "anchor": "unresolved-questions",
+        "line_number": 489,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+        "line_number": 510,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 1: Bottleneck Liberation",
+        "anchor": "abstract-principle-1-bottleneck-liberation",
+        "line_number": 512,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 2: Expertise-Mediated Compression",
+        "anchor": "abstract-principle-2-expertise-mediated-compression",
+        "line_number": 527,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 3: Monitoring Displacement Under Load",
+        "anchor": "abstract-principle-3-monitoring-displacement-under-load",
+        "line_number": 539,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-viii-pkb-connections-cross-report-links",
+        "line_number": 564,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IX: Appendix",
+        "anchor": "phase-ix-appendix",
+        "line_number": 595,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 597,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 632,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 664,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 669,
+        "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Map text propositions onto prior world knowledge",
+          "indent_level": 0,
+          "line_number": 215,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Generate bridging inferences (filling logical gaps the text leaves implicit)",
+          "indent_level": 0,
+          "line_number": 217,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Maintain causal and temporal coherence across sentences",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Integrate new propositions with the developing situation model, updating or revising it when new information conflicts with earlier representations",
+          "indent_level": 0,
+          "line_number": 219,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "At equivalent word rates, RSVP yields *lower* comprehension than normal reading, particularly for complex sentences",
+          "indent_level": 0,
+          "line_number": 267,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "RSVP disrupts the reread-on-demand strategy that readers use for difficult passages",
+          "indent_level": 0,
+          "line_number": 269,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "For simple, highly familiar text (simple narratives, familiar topics), RSVP can match normal reading comprehension up to approximately 400 WPM",
+          "indent_level": 0,
+          "line_number": 270,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Above 400–500 WPM, comprehension degrades significantly for both modes",
+          "indent_level": 0,
+          "line_number": 271,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "A target pace slightly above comfortable rate (inducing mild speed pressure)",
+          "indent_level": 0,
+          "line_number": 412,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Explicit, mandatory comprehension-verification pauses at paragraph or section boundaries",
+          "indent_level": 0,
+          "line_number": 414,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Decision-triggered rereading: if the comprehension check fails, reread before proceeding",
+          "indent_level": 0,
+          "line_number": 415,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "**The optimal monitoring protocol**: What is the minimum comprehension monitoring that must be preserved for a given speed gain to be genuine? How frequently must verification pauses occur?",
+          "indent_level": 0,
+          "line_number": 492,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "**Transfer of training**: Do vocabulary automaticity gains in one domain transfer to reading speed in adjacent domains? The mechanism suggests they should if vocabulary overlaps, but the empirical data is sparse.",
+          "indent_level": 0,
+          "line_number": 494,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "**Individual differences in the bottleneck profile**: Do different readers have different primary bottlenecks? If so, the optimal intervention sequence would differ between readers whose primary limit is lexical versus working memory versus monitoring.",
+          "indent_level": 0,
+          "line_number": 496,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**Silent reading of continuous, meaning-dense text** (prose, academic papers, nonfiction books, long-form journalism). The findings do not transfer cleanly to poetry, technical code, highly mathematical text, or casual scanning of menus.",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "**Adult and late-adolescent readers** who have passed the foundational decoding stage. The developmental acquisition of reading fluency in children, while overlapping in mechanism, involves different instructional priorities and is not the primary focus.",
+          "indent_level": 0,
+          "line_number": 160,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "**Comprehension-preserving speed gains**: what works, what doesn't, and why.",
+          "indent_level": 0,
+          "line_number": 161,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "High-frequency exposure across varied contexts (not just definitional learning)",
+          "indent_level": 0,
+          "line_number": 395,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "[[Spaced-Repetition-Systems|Spaced repetition]] to consolidate representations across multiple retrieval cycles",
+          "indent_level": 0,
+          "line_number": 397,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Contextual reading in the domain (not word-list drills alone) to build collocation and phrase-level patterns alongside individual word forms",
+          "indent_level": 0,
+          "line_number": 398,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Deliberate attention to morphological structure (prefixes, roots, suffixes) as a generalization strategy",
+          "indent_level": 0,
+          "line_number": 399,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Most studies measure immediate comprehension; long-term retention outcomes are less studied",
+          "indent_level": 0,
+          "line_number": 440,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Lab text passages are typically shorter than the long-form reading (entire books, extended academic papers) that most professional development demands",
+          "indent_level": 0,
+          "line_number": 442,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "The relationship between comprehension and knowledge application — whether faster reading with measured comprehension translates to better decision-making with that knowledge — is under-studied",
+          "indent_level": 0,
+          "line_number": 443,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Individual differences in working memory capacity moderate the effects of most interventions, meaning average effect sizes understate gains for high-WM individuals and overstate them for low-WM individuals",
+          "indent_level": 0,
+          "line_number": 444,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Reading speed exceeds the rate at which the reader's current vocabulary automaticity and schema can support meaning construction",
+          "indent_level": 0,
+          "line_number": 475,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Speed pressure depletes the working memory capacity needed for comprehension monitoring",
+          "indent_level": 0,
+          "line_number": 476,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Text syntax is complex enough to require phonological loop support that sub-vocalization suppression removes",
+          "indent_level": 0,
+          "line_number": 477,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Lexical automaticity can be increased for the target domain's vocabulary (through deliberate practice)",
+          "indent_level": 0,
+          "line_number": 480,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Domain knowledge can be deepened (through background reading, structured study)",
+          "indent_level": 0,
+          "line_number": 481,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        },
+        {
+          "text": "Pacing increases are implemented with comprehension monitoring safeguards that catch degradation before it becomes habitual",
+          "indent_level": 0,
+          "line_number": 482,
+          "source": "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "AI-Assisted-Reading-Comprehension-Risks-and-Safeguards",
+      "Advance-Organizer",
+      "Baddeley's-Working-Memory-Model",
+      "Chunking",
+      "Cognitive-Chunking",
+      "Cognitive-Load-Theory",
+      "Comprehension-Monitoring-Training-Protocols",
+      "Deep-Processing",
+      "Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation",
+      "Dual-Process-Theory",
+      "Elaborative-Rehearsal",
+      "Far-Transfer",
+      "Fluency",
+      "Fluency-Illusion",
+      "Formative-Assessment",
+      "Germane-Cognitive-Load",
+      "Levels-of-Processing",
+      "Metacognitive-Monitoring",
+      "Metacognitive-Regulation",
+      "Phonological-Loop",
+      "Prior-Knowledge-Activation",
+      "Schema",
+      "Schema-Automation",
+      "Schema-Theory",
+      "Self-Regulated-Learning",
+      "Situation-Model",
+      "Spaced-Repetition-Systems",
+      "The-Situation-Model-in-Knowledge-Management",
+      "Transfer-of-Learning",
+      "Vocabulary-Acquisition-for-Reading-Automaticity",
+      "Working-Memory"
+    ],
+    "unique_wiki_link_count": 31,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "related_concepts": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Schema]]",
+        "[[Fluency]]",
+        "[[Automaticity]]",
+        "[[Situation-Model]]",
+        "[[Chunking]]",
+        "[[Metacognitive-Monitoring]]",
+        "[[Dual-Process-Theory]]",
+        "[[Transfer-of-Learning]]",
+        "[[Levels-of-Processing]]",
+        "[[Phonological-Loop]]",
+        "[[Deep-Processing]]",
+        "[[Self-Regulated-Learning]]"
+      ],
+      "link_related": [
+        "[[Working-Memory]]",
+        "[[Cognitive-Load-Theory]]",
+        "[[Schema]]",
+        "[[Metacognitive-Monitoring]]",
+        "[[Self-Regulated-Learning]]"
+      ],
+      "link_up": [
+        "[[Reading Science and Literacy]]"
+      ]
+    },
+    "backlink_candidates": [
+      "AI-Assisted-Reading-Comprehension-Risks-and-Safeguards",
+      "Advance-Organizer",
+      "Baddeley's-Working-Memory-Model",
+      "Chunking",
+      "Cognitive-Chunking",
+      "Cognitive-Load-Theory",
+      "Comprehension-Monitoring-Training-Protocols",
+      "Deep-Processing",
+      "Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation",
+      "Dual-Process-Theory",
+      "Elaborative-Rehearsal",
+      "Far-Transfer",
+      "Fluency",
+      "Fluency-Illusion",
+      "Formative-Assessment",
+      "Germane-Cognitive-Load",
+      "Levels-of-Processing",
+      "Metacognitive-Monitoring",
+      "Metacognitive-Regulation",
+      "Phonological-Loop",
+      "Prior-Knowledge-Activation",
+      "Schema",
+      "Schema-Automation",
+      "Schema-Theory",
+      "Self-Regulated-Learning",
+      "Situation-Model",
+      "Spaced-Repetition-Systems",
+      "The-Situation-Model-in-Knowledge-Management",
+      "Transfer-of-Learning",
+      "Vocabulary-Acquisition-for-Reading-Automaticity",
+      "Working-Memory"
+    ]
+  }
+}

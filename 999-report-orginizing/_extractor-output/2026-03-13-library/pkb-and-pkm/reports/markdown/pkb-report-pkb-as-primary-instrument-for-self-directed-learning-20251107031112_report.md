@@ -127,12 +127,12 @@ extraction_summary:
 #### 2. [THE-PURPOSE] Untitled *(Line 30)*
 
 > [!the-purpose] Untitled
-> This article's purpose is to analyze **[[Personal Knowledge Base|the Personal Knowledge Base (PKB)]]** not as a static collection of files or a digital filing cabinet, but as a dynamic, interconnected, self-amplifying *system* for human understanding. The PKB is, fundamentally, a system whose purpose is the transformation of raw information into actionable knowledge, the generation of novel insights through [[Emergent Properties|emergence]], and the cultivation of a thinking mind that grows more powerful with each iteration. The goal is to map its structure, understand its behavior, and identify the "leverage points" that can radically accelerate your intellectual growth.
+> This article's purpose is to analyze **[[Personal-Knowledge-Base|the Personal Knowledge Base (PKB)]]** not as a static collection of files or a digital filing cabinet, but as a dynamic, interconnected, self-amplifying *system* for human understanding. The PKB is, fundamentally, a system whose purpose is the transformation of raw information into actionable knowledge, the generation of novel insights through [[Emergent Properties|emergence]], and the cultivation of a thinking mind that grows more powerful with each iteration. The goal is to map its structure, understand its behavior, and identify the "leverage points" that can radically accelerate your intellectual growth.
 
 #### 3. [ABSTRACT] Untitled *(Line 35)*
 
 > [!abstract] Untitled
-> The **[[Personal Knowledge Base|PKB]]** functions as an open, self-organizing learning system where the practitioner transforms fragmented information into a coherent web of understanding. At its core, the system consists of three primary **stocks**: **[[Atomic Notes|Notes]]** (the discrete units of thought), **[[Connections]]** (the associative links between ideas), and **[[Mental-Models|Understanding]]** (the internalized cognitive structures). These stocks are regulated by powerful **flows**—the acts of **[[Note Creation]]**, **[[Linking]]**, **[[review]]**, **[[Retrieval]]**, and **[[synthesis]]**. The system's behavior is governed by two competing forces: a **reinforcing loop** (the "knowledge snowball") where more notes and connections exponentially generate more insights, and multiple **balancing loops** that manage cognitive load, attention allocation, and time constraints. The emergent property that distinguishes a mature PKB from a simple archive is its capacity for **serendipitous insight generation**—the spontaneous recognition of patterns that were not deliberately sought. The highest-leverage intervention point in this system is not the acquisition of more information, but rather the consistent practice of **[[Progressive Summarization|distillation]]** and **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition|periodic review]]**, which transforms the PKB from a passive repository into an active "conversation partner" for thought.
+> The **[[Personal-Knowledge-Base|PKB]]** functions as an open, self-organizing learning system where the practitioner transforms fragmented information into a coherent web of understanding. At its core, the system consists of three primary **stocks**: **[[Atomic-Notes|Notes]]** (the discrete units of thought), **[[Connections]]** (the associative links between ideas), and **[[Mental-Models|Understanding]]** (the internalized cognitive structures). These stocks are regulated by powerful **flows**—the acts of **[[Note Creation]]**, **[[Linking]]**, **[[review]]**, **[[Retrieval]]**, and **[[synthesis]]**. The system's behavior is governed by two competing forces: a **reinforcing loop** (the "knowledge snowball") where more notes and connections exponentially generate more insights, and multiple **balancing loops** that manage cognitive load, attention allocation, and time constraints. The emergent property that distinguishes a mature PKB from a simple archive is its capacity for **serendipitous insight generation**—the spontaneous recognition of patterns that were not deliberately sought. The highest-leverage intervention point in this system is not the acquisition of more information, but rather the consistent practice of **[[Progressive-Summarization|distillation]]** and **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition|periodic review]]**, which transforms the PKB from a passive repository into an active "conversation partner" for thought.
 
 #### 4. [THE-PURPOSE] Untitled *(Line 40)*
 
@@ -155,13 +155,13 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Key "Stocks" (The Accumulations):**
->   	  - The PKB accumulates three primary types of *stocks*—think of these as the "inventory" that defines the system's current state. First, there are **[[Atomic Notes|Notes]]**, the discrete packets of captured thought. In the [[Zettelkasten Method|Zettelkasten]] tradition, each note is "atomic," meaning it contains a single, complete idea that can stand alone and be combined with other ideas. These notes are not mere transcriptions; they are *reformulations* of external information through your own cognitive filter. Second, there are **[[Connections|Links]]**, the associative pathways between notes. In a mature PKB, the number of connections often exceeds the number of notes themselves, forming a dense web. These links represent your understanding of *relationships*—how concepts influence, contradict, or extend one another. Third, and most importantly, there is the stock of **[[Mental-Models|Understanding]]**—the internalized, tacit knowledge that resides not in the files themselves, but in *your mind* as a result of engaging with the system. This is the PKB's ultimate output: a transformed capacity for thought.
+>   	  - The PKB accumulates three primary types of *stocks*—think of these as the "inventory" that defines the system's current state. First, there are **[[Atomic-Notes|Notes]]**, the discrete packets of captured thought. In the [[Zettelkasten Method|Zettelkasten]] tradition, each note is "atomic," meaning it contains a single, complete idea that can stand alone and be combined with other ideas. These notes are not mere transcriptions; they are *reformulations* of external information through your own cognitive filter. Second, there are **[[Connections|Links]]**, the associative pathways between notes. In a mature PKB, the number of connections often exceeds the number of notes themselves, forming a dense web. These links represent your understanding of *relationships*—how concepts influence, contradict, or extend one another. Third, and most importantly, there is the stock of **[[Mental-Models|Understanding]]**—the internalized, tacit knowledge that resides not in the files themselves, but in *your mind* as a result of engaging with the system. This is the PKB's ultimate output: a transformed capacity for thought.
 
 #### 8. [PRINCIPLE-POINT] Untitled *(Line 55)*
 
 > [!principle-point] Untitled
 > - **Key "Flows" (The Rates of Change):**
->   	  - The stocks of the PKB are not static; they are continuously modified by a set of *flows*. The **inflows** that grow the system include **[[Capture|Note Creation]]** (the act of writing new notes), **[[Linking]]** (the act of creating new connections), and **[[Learning|Input]]** (the consumption of books, articles, and experiences). The **outflows** that modify or reduce certain stocks include **[[Pruning|Deletion]]** (removing outdated or irrelevant notes), **[[Consolidation|Merging]]** (combining redundant ideas), and most critically, **[[Retrieval|Extraction]]** (the use of notes for writing, projects, or decision-making, which doesn't delete them but represents their "exit" from latent potential into actualized value). There are also **modulating flows** that don't add or remove but *transform*: **[[review]]** (the periodic re-engagement with existing notes), **[[Progressive Summarization|Distillation]]** (the process of compressing notes to their essence), and **[[Integration|Integration]]** (the act of combining multiple notes into higher-order insights). These flows, particularly the transformational ones, are where the system's true power lies.
+>   	  - The stocks of the PKB are not static; they are continuously modified by a set of *flows*. The **inflows** that grow the system include **[[Capture|Note Creation]]** (the act of writing new notes), **[[Linking]]** (the act of creating new connections), and **[[Learning|Input]]** (the consumption of books, articles, and experiences). The **outflows** that modify or reduce certain stocks include **[[Pruning|Deletion]]** (removing outdated or irrelevant notes), **[[Consolidation|Merging]]** (combining redundant ideas), and most critically, **[[Retrieval|Extraction]]** (the use of notes for writing, projects, or decision-making, which doesn't delete them but represents their "exit" from latent potential into actualized value). There are also **modulating flows** that don't add or remove but *transform*: **[[review]]** (the periodic re-engagement with existing notes), **[[Progressive-Summarization|Distillation]]** (the process of compressing notes to their essence), and **[[Integration|Integration]]** (the act of combining multiple notes into higher-order insights). These flows, particularly the transformational ones, are where the system's true power lies.
 
 #### 9. [DEFINITION] Untitled *(Line 65)*
 
@@ -304,7 +304,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[Networked Thought]]
 - [[Obsidian]]
@@ -440,7 +440,7 @@ extraction_summary:
 | 74 | [[Mental-Models|Mental Models]] | — | — | 7.0 📚 Reference/Appendix | 217 |
 | 75 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 218 |
 | 76 | [[Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 224 |
-| 77 | [[Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 225 |
+| 77 | [[Knowledge-Management|Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 225 |
 | 78 | [[Networked Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 226 |
 | 79 | [[Second Brain]] | — | — | 🔗 Related Topics for PKB Expansion | 227 |
 | 80 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 228 |
@@ -524,7 +524,7 @@ Let me break down what I need to do:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[Networked Thought]]
 - [[Obsidian]]

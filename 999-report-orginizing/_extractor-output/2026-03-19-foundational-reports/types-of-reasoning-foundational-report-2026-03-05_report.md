@@ -163,7 +163,7 @@ extraction_summary:
 #### 4. [DEFINITION] Abductive Reasoning *(Line 294)*
 
 > [!definition] Abductive Reasoning
-> Abductive reasoning is a form of inference that moves from an observation — often surprising or puzzling — to the hypothesis that would best explain it, if true. It is sometimes called *inference to the best explanation*. The paradigmatic form is: "I observe footprints in the snow; a human passing by would explain these footprints; therefore, a human probably passed by." Abduction does not guarantee its conclusions, and it requires an evaluative judgment about which explanation is "best." It is the reasoning mode most closely associated with creativity, diagnosis, scientific hypothesis formation, and detective work. The term was coined by [[Charles Sanders Peirce|Peirce]], who distinguished it sharply from both deduction and induction.
+> Abductive reasoning is a form of inference that moves from an observation — often surprising or puzzling — to the hypothesis that would best explain it, if true. It is sometimes called *inference to the best explanation*. The paradigmatic form is: "I observe footprints in the snow; a human passing by would explain these footprints; therefore, a human probably passed by." Abduction does not guarantee its conclusions, and it requires an evaluative judgment about which explanation is "best." It is the reasoning mode most closely associated with creativity, diagnosis, scientific hypothesis formation, and detective work. The term was coined by [[Charles-Sanders-Peirce|Peirce]], who distinguished it sharply from both deduction and induction.
 
 #### 5. [DEFINITION] Critical Thinking *(Line 297)*
 
@@ -173,7 +173,7 @@ extraction_summary:
 #### 6. [DEFINITION] Metacognition *(Line 300)*
 
 > [!definition] Metacognition
-> Metacognition, theorized most influentially by [[John Flavell]] (1979), refers to cognition about cognition — the capacity to think about, monitor, and regulate one's own thinking processes. In the context of reasoning, metacognition enables learners to notice when they are using deductive versus inductive versus abductive inference, to evaluate whether the chosen mode is appropriate for the task, and to correct errors in their reasoning process. Metacognitive capacity is strongly predictive of learning outcomes across domains.
+> Metacognition, theorized most influentially by [[John-Flavell|John Flavell]] (1979), refers to cognition about cognition — the capacity to think about, monitor, and regulate one's own thinking processes. In the context of reasoning, metacognition enables learners to notice when they are using deductive versus inductive versus abductive inference, to evaluate whether the chosen mode is appropriate for the task, and to correct errors in their reasoning process. Metacognitive capacity is strongly predictive of learning outcomes across domains.
 
 #### 7. [DEFINITION] Transfer of Learning *(Line 303)*
 
@@ -222,7 +222,7 @@ extraction_summary:
 #### 15. [KEY-INSIGHT] The Fragility of Inductive Generalizations *(Line 379)*
 
 > [!key-insight] The Fragility of Inductive Generalizations
-> The mechanism of induction contains a structural vulnerability: the generalization can never be confirmed by any finite number of instances, but it can be refuted by a single counterexample. This asymmetry — easily falsified, never fully verified — is the logical foundation of [[Karl Popper|Popper's]] falsificationist philosophy of science. For educators, the practical implication is that teaching learners to seek counterexamples is as important as teaching them to seek confirming instances.
+> The mechanism of induction contains a structural vulnerability: the generalization can never be confirmed by any finite number of instances, but it can be refuted by a single counterexample. This asymmetry — easily falsified, never fully verified — is the logical foundation of [[Karl-Popper|Popper's]] falsificationist philosophy of science. For educators, the practical implication is that teaching learners to seek counterexamples is as important as teaching them to seek confirming instances.
 
 #### 16. [ASK-YOURSELF-THIS] Testing Your Inductive Intuitions *(Line 382)*
 
@@ -249,7 +249,7 @@ extraction_summary:
 #### 20. [BEST-PRACTICE] Deductive Instruction: When and How *(Line 412)*
 
 > [!best-practice] Deductive Instruction: When and How
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive-Load-Theory|Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner,-Sweller-&-Clark|Kirschner, Sweller & Clark]] (2006) on [[Cognitive-Load-Theory|Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
 
 #### 21. [BEST-PRACTICE] Scaffolded Inductive Learning *(Line 423)*
 
@@ -295,15 +295,15 @@ extraction_summary:
 > 
 > This report on reasoning types and learning connects to multiple nodes across the knowledge base:
 > 
-> - **[[Metacognition and Self-Regulated Learning]]** — The capacity to choose and monitor reasoning modes is itself a metacognitive skill. The connection runs deep: training metacognition is largely training learners to be aware of their own inferential moves, to recognize when they are generalizing (inductively), deducing, or hypothesizing (abductively). This report provides the object-level content; the metacognition node provides the regulatory framework that orchestrates it.
+> - **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]** — The capacity to choose and monitor reasoning modes is itself a metacognitive skill. The connection runs deep: training metacognition is largely training learners to be aware of their own inferential moves, to recognize when they are generalizing (inductively), deducing, or hypothesizing (abductively). This report provides the object-level content; the metacognition node provides the regulatory framework that orchestrates it.
 > 
 > - **[[Dual-Process-Theory|Dual Process Theory]]** — System 1 and System 2 processing map imperfectly but usefully onto the three reasoning modes. The deduction-induction-abduction triad operates at the level of inference type; the dual-process distinction operates at the level of cognitive effort and automaticity. Understanding both frameworks together illuminates why good reasoning is effortful and why learners default to heuristic shortcuts even when deliberate inference is required.
 > 
 > - **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL pedagogies are, in essence, pedagogies of inductive and abductive reasoning. This report provides the theoretical foundation for understanding why IBL works when it works (it engages the generative and discovery-oriented modes of inference) and why it sometimes fails (unscaffolded induction overloads working memory; unsupported abduction produces poorly-calibrated hypotheses). The two nodes together constitute a complete account of discovery-based pedagogy.
 > 
-> - **[[Critical Thinking Frameworks]]** — Critical thinking, as a meta-competency, presupposes fluency in the three reasoning modes. The critical-thinking literature is largely the literature of reasoning well — evaluating argument validity (deductive), assessing evidence quality (inductive), and evaluating explanatory hypotheses (abductive). This report establishes the component skills; the critical thinking node integrates them into a normative framework.
+> - **[[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]** — Critical thinking, as a meta-competency, presupposes fluency in the three reasoning modes. The critical-thinking literature is largely the literature of reasoning well — evaluating argument validity (deductive), assessing evidence quality (inductive), and evaluating explanatory hypotheses (abductive). This report establishes the component skills; the critical thinking node integrates them into a normative framework.
 > 
-> - **[[Scientific Method]]** — The hypothetico-deductive model of scientific inquiry instantiates all three reasoning modes in a structured sequence: abduction (hypothesis generation) → deduction (prediction derivation) → induction (empirical testing). This report makes that structure conceptually explicit, providing a theoretical lens through which the scientific method can be understood and taught more deeply.
+> - **[[Scientific-Method|Scientific Method]]** — The hypothetico-deductive model of scientific inquiry instantiates all three reasoning modes in a structured sequence: abduction (hypothesis generation) → deduction (prediction derivation) → induction (empirical testing). This report makes that structure conceptually explicit, providing a theoretical lens through which the scientific method can be understood and taught more deeply.
 > 
 > The pattern that emerges from these connections is significant: reasoning types are not a standalone topic but the conceptual infrastructure underlying most of the major frameworks in educational psychology and philosophy of mind. Developing this node strengthens connections across the PKB's entire cognitive-science cluster.
 
@@ -327,7 +327,7 @@ extraction_summary:
 #### 32. [DEFINITION] Abductive Reasoning (Inference to the Best Explanation) *(Line 512)*
 
 > [!definition] Abductive Reasoning (Inference to the Best Explanation)
-> An inference form that moves from a puzzling observation to the hypothesis that would best explain it. Coined by [[Charles Sanders Peirce]]. Requires generation of candidate explanations and evaluation against criteria of scope, parsimony, plausibility, and testability. The reasoning mode of scientific discovery, medical diagnosis, historical interpretation, and detective inference. Neither guaranteed (like deduction) nor merely probabilistic (like induction) — it is *evaluative* creative inference.
+> An inference form that moves from a puzzling observation to the hypothesis that would best explain it. Coined by [[Charles-Sanders-Peirce|Charles Sanders Peirce]]. Requires generation of candidate explanations and evaluation against criteria of scope, parsimony, plausibility, and testability. The reasoning mode of scientific discovery, medical diagnosis, historical interpretation, and detective inference. Neither guaranteed (like deduction) nor merely probabilistic (like induction) — it is *evaluative* creative inference.
 
 #### 33. [DEFINITION] Validity (Logical) *(Line 515)*
 
@@ -342,12 +342,12 @@ extraction_summary:
 #### 35. [DEFINITION] Cognitive Load Theory (CLT) *(Line 521)*
 
 > [!definition] Cognitive Load Theory (CLT)
-> A theory of instruction developed by [[John Sweller]] and colleagues that posits three types of cognitive load on working memory: intrinsic (complexity of material), extraneous (poorly designed instruction), and germane (effort devoted to schema formation). CLT provides the theoretical basis for understanding why unsupported inductive and abductive learning sometimes backfires with novice learners, and why expert learners benefit more from open-ended inquiry.
+> A theory of instruction developed by [[John-Sweller|John Sweller]] and colleagues that posits three types of cognitive load on working memory: intrinsic (complexity of material), extraneous (poorly designed instruction), and germane (effort devoted to schema formation). CLT provides the theoretical basis for understanding why unsupported inductive and abductive learning sometimes backfires with novice learners, and why expert learners benefit more from open-ended inquiry.
 
 #### 36. [DEFINITION] Confirmation Bias *(Line 524)*
 
 > [!definition] Confirmation Bias
-> The well-documented tendency to seek, interpret, and recall information in ways that confirm one's preexisting beliefs or hypotheses. Represents a systematic distortion of inductive reasoning, because it biases sampling toward confirming instances and away from disconfirming counterexamples. Identified by [[Peter Wason]] in the 2-4-6 task (1960) and subsequently replicated extensively. A key target of critical thinking instruction.
+> The well-documented tendency to seek, interpret, and recall information in ways that confirm one's preexisting beliefs or hypotheses. Represents a systematic distortion of inductive reasoning, because it biases sampling toward confirming instances and away from disconfirming counterexamples. Identified by [[Peter-Wason|Peter Wason]] in the 2-4-6 task (1960) and subsequently replicated extensively. A key target of critical thinking instruction.
 
 #### 37. [DEFINITION] Defeasibility *(Line 527)*
 
@@ -449,16 +449,16 @@ extraction_summary:
 - [[Aristotle]]
 - [[Assessment of Higher-Order Reasoning in Education]]
 - [[Causal Reasoning]]
-- [[Charles Sanders Peirce]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Conceptual Understanding]]
 - [[Concrete Examples]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Counterfactual Reasoning]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Critical Thinking Frameworks]]
-- [[Daniel Kahneman]]
-- [[David Hume]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
+- [[David-Hume|David Hume]]
 - [[Deanna Kuhn]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
 - [[Dual-Process-Theory|Dual Process Theory]]
@@ -466,28 +466,28 @@ extraction_summary:
 - [[Educational-Psychology|Educational Psychology]]
 - [[Epistemic Cognition - How Learners Understand Knowledge and Its Limits]]
 - [[Formal Reasoning]]
-- [[Foundational Report Generator v1.0]]
-- [[Francis Bacon]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Francis-Bacon|Francis Bacon]]
 - [[Inductive-Reasoning|Inductive Reasoning]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Jean Piaget]]
-- [[John Flavell]]
-- [[John Hattie]]
-- [[John Sweller]]
-- [[Karl Popper]]
-- [[Keith Stanovich]]
-- [[Kirschner, Sweller & Clark]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[John-Flavell|John Flavell]]
+- [[John-Hattie|John Hattie]]
+- [[John-Sweller|John Sweller]]
+- [[Karl-Popper|Karl Popper]]
+- [[Keith-Stanovich|Keith Stanovich]]
+- [[Kirschner,-Sweller-&-Clark|Kirschner, Sweller & Clark]]
 - [[Metacognition]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Metacognitive Interventions in K-12 Education — An Evidence Review]]
-- [[Peter Wason]]
-- [[Philosophy of Science]]
+- [[Peter-Wason|Peter Wason]]
+- [[philosophy-of-science|Philosophy of Science]]
 - [[Probabilistic Reasoning]]
 - [[Problem of Induction]]
 - [[Project-Based Learning]]
 - [[Richard Nisbett]]
-- [[Richard West]]
-- [[Scientific Method]]
+- [[Richard-West|Richard West]]
+- [[Scientific-Method|Scientific Method]]
 - [[Syllogism]]
 - [[The Socratic Method as a Reasoning Scaffold]]
 - [[WEIRD]]
@@ -499,34 +499,34 @@ extraction_summary:
 | 1 | [[Deductive-Reasoning|Deductive Reasoning]] | deduction | — | Phase I: Orientation & Context Setting | 257 |
 | 2 | [[Inductive-Reasoning|Inductive Reasoning]] | induction | — | Phase I: Orientation & Context Setting | 257 |
 | 3 | [[Abductive-Reasoning|Abductive Reasoning]] | abduction | — | Phase I: Orientation & Context Setting | 257 |
-| 4 | [[Philosophy of Science]] | philosophy of science | — | Scope and Boundaries | 265 |
+| 4 | [[philosophy-of-science|Philosophy of Science]] | philosophy of science | — | Scope and Boundaries | 265 |
 | 5 | [[Aristotle]] | — | — | The Intellectual Genealogy | 280 |
 | 6 | [[Syllogism]] | syllogism | — | The Intellectual Genealogy | 280 |
-| 7 | [[Francis Bacon]] | — | — | The Intellectual Genealogy | 282 |
-| 8 | [[David Hume]] | — | — | The Intellectual Genealogy | 282 |
+| 7 | [[Francis-Bacon|Francis Bacon]] | — | — | The Intellectual Genealogy | 282 |
+| 8 | [[David-Hume|David Hume]] | — | — | The Intellectual Genealogy | 282 |
 | 9 | [[Problem of Induction]] | — | — | The Intellectual Genealogy | 282 |
-| 10 | [[Charles Sanders Peirce]] | — | — | The Intellectual Genealogy | 284 |
-| 11 | [[Charles Sanders Peirce]] | Peirce | — | Core Definitions | 295 |
+| 10 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Intellectual Genealogy | 284 |
+| 11 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | Peirce | — | Core Definitions | 295 |
 | 12 | [[Critical-Thinking|Critical Thinking]] | — | — | Core Definitions | 298 |
-| 13 | [[John Flavell]] | — | — | Core Definitions | 301 |
+| 13 | [[John-Flavell|John Flavell]] | — | — | Core Definitions | 301 |
 | 14 | [[Educational-Psychology|Educational Psychology]] | — | — | Core Definitions | 304 |
 | 15 | [[Formal Reasoning]] | formal reasoning | — | Foundational Distinctions | 310 |
 | 16 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Cognitive Science Perspective: Du... | 330 |
-| 17 | [[Keith Stanovich]] | — | — | The Cognitive Science Perspective: Du... | 330 |
-| 18 | [[Richard West]] | — | — | The Cognitive Science Perspective: Du... | 330 |
-| 19 | [[Daniel Kahneman]] | — | — | The Cognitive Science Perspective: Du... | 330 |
+| 17 | [[Keith-Stanovich|Keith Stanovich]] | — | — | The Cognitive Science Perspective: Du... | 330 |
+| 18 | [[Richard-West|Richard West]] | — | — | The Cognitive Science Perspective: Du... | 330 |
+| 19 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | The Cognitive Science Perspective: Du... | 330 |
 | 20 | [[Deanna Kuhn]] | — | — | Developmental Trajectories: How Reaso... | 339 |
-| 21 | [[Jean Piaget]] | — | — | Developmental Trajectories: How Reaso... | 341 |
+| 21 | [[Jean-Piaget|Jean Piaget]] | — | — | Developmental Trajectories: How Reaso... | 341 |
 | 22 | [[Educational-Psychology|Educational Psychology]] | — | — | The Epistemological Debate: Is Reason... | 348 |
 | 23 | [[Richard Nisbett]] | — | — | The Epistemological Debate: Is Reason... | 350 |
 | 24 | [[Conceptual Understanding]] | conceptual learning | — | How Deductive Reasoning Works in Lear... | 368 |
-| 25 | [[Karl Popper]] | Popper's | — | How Inductive Reasoning Works in Lear... | 380 |
+| 25 | [[Karl-Popper|Karl Popper]] | Popper's | — | How Inductive Reasoning Works in Lear... | 380 |
 | 26 | [[Concrete Examples]] | concrete examples | — | How Inductive Reasoning Works in Lear... | 385 |
-| 27 | [[Kirschner, Sweller & Clark]] | — | — | Deductive Reasoning in Instructional ... | 413 |
+| 27 | [[Kirschner,-Sweller-&-Clark|Kirschner, Sweller & Clark]] | — | — | Deductive Reasoning in Instructional ... | 413 |
 | 28 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Deductive Reasoning in Instructional ... | 413 |
 | 29 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | IBL | — | Inductive Reasoning in the Classroom | 419 |
 | 30 | [[Project-Based Learning]] | PBL | — | Inductive Reasoning in the Classroom | 419 |
-| 31 | [[John Hattie]] | — | — | Inductive Reasoning in the Classroom | 421 |
+| 31 | [[John-Hattie|John Hattie]] | — | — | Inductive Reasoning in the Classroom | 421 |
 | 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Inductive Reasoning in the Classroom | 421 |
 | 33 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Inductive Reasoning in the Classroom | 427 |
 | 34 | [[Analogical-Reasoning|Analogical Reasoning]] | analogical reasoning | — | Limitations of Current Understanding | 448 |
@@ -534,23 +534,23 @@ extraction_summary:
 | 36 | [[Counterfactual Reasoning]] | counterfactual reasoning | — | Limitations of Current Understanding | 448 |
 | 37 | [[Probabilistic Reasoning]] | probabilistic reasoning | — | Limitations of Current Understanding | 448 |
 | 38 | [[WEIRD]] | — | — | Limitations of Current Understanding | 448 |
-| 39 | [[Charles Sanders Peirce]] | Peirce's | — | The Emergent Picture | 463 |
+| 39 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | Peirce's | — | The Emergent Picture | 463 |
 | 40 | [[Metacognition]] | metacognitive | — | The "So What?" for Educators | 469 |
-| 41 | [[Metacognition and Self-Regulated Learning]] | — | — | Unresolved Questions | 483 |
+| 41 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | Unresolved Questions | 483 |
 | 42 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Unresolved Questions | 485 |
 | 43 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Unresolved Questions | 487 |
-| 44 | [[Critical Thinking Frameworks]] | — | — | Unresolved Questions | 489 |
-| 45 | [[Scientific Method]] | — | — | Unresolved Questions | 491 |
-| 46 | [[Charles Sanders Peirce]] | — | — | A. Lexicon of Key Terms | 513 |
-| 47 | [[John Sweller]] | — | — | A. Lexicon of Key Terms | 522 |
-| 48 | [[Peter Wason]] | — | — | A. Lexicon of Key Terms | 525 |
+| 44 | [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]] | — | — | Unresolved Questions | 489 |
+| 45 | [[Scientific-Method|Scientific Method]] | — | — | Unresolved Questions | 491 |
+| 46 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | A. Lexicon of Key Terms | 513 |
+| 47 | [[John-Sweller|John Sweller]] | — | — | A. Lexicon of Key Terms | 522 |
+| 48 | [[Peter-Wason|Peter Wason]] | — | — | A. Lexicon of Key Terms | 525 |
 | 49 | [[Analogical Reasoning and Its Role in Conceptual Transfer]] | — | — | D. Expansion Topics | 571 |
 | 50 | [[Dual Process Theory and Its Implications for Instruction]] | — | — | D. Expansion Topics | 574 |
 | 51 | [[Metacognitive Interventions in K-12 Education — An Evidence Review]] | — | — | D. Expansion Topics | 577 |
 | 52 | [[Epistemic Cognition - How Learners Understand Knowledge and Its Limits]] | — | — | D. Expansion Topics | 580 |
 | 53 | [[Assessment of Higher-Order Reasoning in Education]] | — | — | D. Expansion Topics | 583 |
 | 54 | [[The Socratic Method as a Reasoning Scaffold]] | — | — | D. Expansion Topics | 586 |
-| 55 | [[Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 591 |
+| 55 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 591 |
 
 ---
 
@@ -567,16 +567,16 @@ extraction_summary:
 - [[Aristotle]]
 - [[Assessment of Higher-Order Reasoning in Education]]
 - [[Causal Reasoning]]
-- [[Charles Sanders Peirce]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Conceptual Understanding]]
 - [[Concrete Examples]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Counterfactual Reasoning]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[Critical Thinking Frameworks]]
-- [[Daniel Kahneman]]
-- [[David Hume]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Daniel-Kahneman|Daniel Kahneman]]
+- [[David-Hume|David Hume]]
 - [[Deanna Kuhn]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
 - [[Dual-Process-Theory|Dual Process Theory]]
@@ -584,28 +584,28 @@ extraction_summary:
 - [[Educational-Psychology|Educational Psychology]]
 - [[Epistemic Cognition - How Learners Understand Knowledge and Its Limits]]
 - [[Formal Reasoning]]
-- [[Foundational Report Generator v1.0]]
-- [[Francis Bacon]]
+- [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+- [[Francis-Bacon|Francis Bacon]]
 - [[Inductive-Reasoning|Inductive Reasoning]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Jean Piaget]]
-- [[John Flavell]]
-- [[John Hattie]]
-- [[John Sweller]]
-- [[Karl Popper]]
-- [[Keith Stanovich]]
-- [[Kirschner, Sweller & Clark]]
+- [[Jean-Piaget|Jean Piaget]]
+- [[John-Flavell|John Flavell]]
+- [[John-Hattie|John Hattie]]
+- [[John-Sweller|John Sweller]]
+- [[Karl-Popper|Karl Popper]]
+- [[Keith-Stanovich|Keith Stanovich]]
+- [[Kirschner,-Sweller-&-Clark|Kirschner, Sweller & Clark]]
 - [[Metacognition]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Metacognitive Interventions in K-12 Education — An Evidence Review]]
-- [[Peter Wason]]
-- [[Philosophy of Science]]
+- [[Peter-Wason|Peter Wason]]
+- [[philosophy-of-science|Philosophy of Science]]
 - [[Probabilistic Reasoning]]
 - [[Problem of Induction]]
 - [[Project-Based Learning]]
 - [[Richard Nisbett]]
-- [[Richard West]]
-- [[Scientific Method]]
+- [[Richard-West|Richard West]]
+- [[Scientific-Method|Scientific Method]]
 - [[Syllogism]]
 - [[The Socratic Method as a Reasoning Scaffold]]
 - [[WEIRD]]
@@ -620,11 +620,11 @@ extraction_summary:
 
 #### Related
 
-- [[Critical Thinking Frameworks]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Problem-Solving in Education]]
-- [[Metacognition and Self-Regulated Learning]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Scientific Method]]
+- [[Scientific-Method|Scientific Method]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Socratic Method in Teaching]]
 
@@ -643,14 +643,14 @@ extraction_summary:
 
 #### See Also
 
-- [[Argument Analysis]]
-- [[Bloom's Taxonomy]]
+- [[Argument-Analysis|Argument Analysis]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Socratic Seminars]]
 
 #### Contrasts With
 
-- [[Rote Memorization]]
+- [[Rote-memorization|Rote Memorization]]
 - [[Algorithmic Thinking]]
 
 #### Applied In
@@ -664,7 +664,7 @@ extraction_summary:
 #### Builds On
 
 - [[Basic Logic and Argumentation]]
-- [[Cognitive Development Theory]]
+- [[Cognitive-Development-Theory|Cognitive Development Theory]]
 
 #### Enables
 

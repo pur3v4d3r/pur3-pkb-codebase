@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
   - constructivism
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - 01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13
@@ -68,6 +68,14 @@ see-also:
   - "[[Schema-Formation|Schema Formation]]"
   - "[[Metacognition|Metacognition]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
+  - "[[Cognitive-Load|Cognitive Load]]"
+  - "[[Schema-Formation|Schema Formation]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Cognitive-Science|Cognitive Science]]"
@@ -138,22 +146,22 @@ importance: high
 > Studies of the worked example effect have demonstrated its operation in mathematics, physics, geometry, computer programming, chess, and medical diagnosis. The effect is moderated by expertise (see expertise reversal effect) and by the design of the examples themselves — poorly formatted examples that require learners to search for the relevant information reintroduce extraneous load and can eliminate the benefit. Meta-analyses by Sweller et al. (1998) and Atkinson et al. (2000) confirm the effect is robust and practically significant. The effect is typically defined as superior test performance following example study compared to equivalent problem-solving practice, controlling for time-on-task.
 
 > [!analytical-insight] Key Insight *(from topic-set-cognitive-science-pkb-achitecture-202511202330.md)*
-> [[Working Memory]] has a capacity limit of approximately 4±1 chunks for novel information (Cowan, 2001), with traditional estimates of 7±2 now considered inflated. This isn't a flaw—it's a design specification for your PKB.
+> [[Working-Memory]] has a capacity limit of approximately 4±1 chunks for novel information (Cowan, 2001), with traditional estimates of 7±2 now considered inflated. This isn't a flaw—it's a design specification for your PKB.
 
 > [!analytical-insight] Key Insight *(from topic-set-cognitive-science-pkb-achitecture-202511202330.md)*
-> Effective [[Self-Regulated Learning]] requires accurate [[Metacognition]]—awareness of what you know, what you don't know, and how well you're learning. Your PKB should function as an external metacognitive tool.
+> Effective [[Self-Regulated-Learning]] requires accurate [[Metacognition]]—awareness of what you know, what you don't know, and how well you're learning. Your PKB should function as an external metacognitive tool.
 
 > [!analytical-insight] Key Insight *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
-> Prior knowledge does not help all learners equally. Learners with moderate prior knowledge benefit most from advance organizers and other activation strategies, because they have enough existing structure to make connections but not enough automaticity to self-organize new material efficiently. Novices lack the structures to connect to; experts have sufficiently developed schemas that they automatically integrate new information without needing explicit scaffolding. This creates what [[Patricia Alexander]] called the domain-knowledge paradox: the learners who most need activation support are often the ones hardest to help because activation strategies presuppose some existing structure to activate.
+> Prior knowledge does not help all learners equally. Learners with moderate prior knowledge benefit most from advance organizers and other activation strategies, because they have enough existing structure to make connections but not enough automaticity to self-organize new material efficiently. Novices lack the structures to connect to; experts have sufficiently developed schemas that they automatically integrate new information without needing explicit scaffolding. This creates what [[Patricia-Alexander]] called the domain-knowledge paradox: the learners who most need activation support are often the ones hardest to help because activation strategies presuppose some existing structure to activate.
 
 > [!analytical-insight] Key Insight *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
 > According to Ausubel's assimilation theory, meaningful learning requires that (1) the material to be learned is potentially meaningful — that is, it could in principle be related to the learner's existing knowledge — and (2) relevant anchoring ideas actually exist in the learner's cognitive structure. If either condition fails, rote learning is the result. The advance organizer's job is to satisfy condition (2) when it would otherwise not be met: either by activating existing anchoring ideas (comparative organizer) or by providing new superordinate structures (expository organizer) before instruction begins.
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> Effective instruction is instruction that manages the demands placed on [[Working Memory]] such that cognitive resources are available for the processes that lead to [[Schema Theory|schema]] formation and automation in [[Long-Term Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
+> Effective instruction is instruction that manages the demands placed on [[Working-Memory]] such that cognitive resources are available for the processes that lead to [[Schema-Theory|schema]] formation and automation in [[Long-Term-Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan-Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive-Theory-of-Multimedia-Learning]].
 
 > [!analytical-insight] Key Insight *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > Bartlett's most radical and enduring claim is that memory is not reproductive but *reconstructive*. When we recall a past experience or a text we have read, we do not simply replay a stored recording. We reconstruct it — building a plausible account from schema-consistent fragments, filling gaps with schema-generated defaults, and unconsciously editing anomalies toward what our schemas lead us to expect. This explains why eyewitness testimony is unreliable, why students "remember" reading things they never read, and why expert knowledge both helps and occasionally misleads.
@@ -189,7 +197,7 @@ importance: high
 > Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. The foundational paper introducing Cognitive Load Theory. https://doi.org/10.1207/s15516709cog1202_4
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan-Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive-Theory-of-Multimedia-Learning]].
 
 
 
@@ -230,7 +238,7 @@ importance: high
 > Use comparative organizers when learners have relevant prior knowledge that needs to be made explicitly accessible and connected to new material. The organizer should: (a) identify the specific prior knowledge structure being activated; (b) map explicit parallels between the existing structure and the new material; (c) clearly delineate the boundaries of the analogy — where the comparison holds and where it breaks down; and (d) prepare the learner to notice and process the differences as well as the similarities. The failure mode of poorly designed comparative organizers is that learners attend only to the similarities and miss the critical differences, producing transfer-inappropriate analogical overgeneralization.
 
 > [!example] **Application** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive Instruction]] systems that implement dynamic fading represent the state of the art.
+> CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive-Instruction]] systems that implement dynamic fading represent the state of the art.
 
 > [!example] **Application** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > (1) **Worked examples first**: For novices, begin with fully worked examples before introducing problem-solving practice. Use self-explanation prompts (ask learners to explain why each step was taken) to enhance schema formation from examples. (2) **Eliminate split attention**: Integrate mutually referring information sources; never require learners to search across separated sources. (3) **Avoid redundancy**: When information can be understood from one source, do not add a second that merely restates the first. (4) **Use the modality advantage**: For complex materials, pair visual presentations with spoken narration rather than written text. (5) **Sequence by element interactivity**: Teach lower-interactivity components before presenting high-interactivity configurations. (6) **Adapt to expertise**: Reduce guidance as learner schemas develop; do not maintain worked examples past the point at which expertise reversal operates.
@@ -248,7 +256,7 @@ importance: high
 > When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual-Change-Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
 
 > [!warning] **Key Distinction** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> [[Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel-Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
+> [[Cognitive-Load-Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel-Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
 
 > [!warning] **Key Distinction** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > A common instructional error is to assume that prior knowledge is always facilitative. When learners hold strong, wrong schemas, activating them at the beginning of instruction can *strengthen* the incorrect framework rather than weaken it. Effective instruction in such cases often requires making the incorrect schema explicit, confronting it directly with disconfirming evidence, and providing a better alternative that is simultaneously comprehensible, plausible, and fruitful. This sequence — surface the misconception, create conflict, introduce the replacement, reconcile — is more cognitively demanding but more effective than ignoring the pre-existing schema.
@@ -280,7 +288,7 @@ importance: high
 > [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > 1. Think of a domain where you are a novice versus a domain where you have substantial expertise. How does your working memory experience differ between them when you encounter challenging content? Can you identify what CLT would call "element interactivity" in the novice domain?
 > 2. The distinction between intrinsic and extraneous load implies that some instructional difficulty is structural (inherent to the content) while other difficulty is artificial (a product of poor design). What examples from your own learning history might fall into each category?
-> 3. How does the schema concept connect to your existing understanding from the [[Schema Theory]] node? What does CLT add to schema theory's account that wasn't already there?
+> 3. How does the schema concept connect to your existing understanding from the [[Schema-Theory]] node? What does CLT add to schema theory's account that wasn't already there?
 
 > [!reflection] **Reflect** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > Before reading further, take a moment to articulate what you currently believe about how knowledge is stored in the mind. Do you think of memory as something like a filing cabinet — discrete, faithful records retrieved on demand? Or as something more like a living web of associations? What happens in your mind when you encounter a concept you already "know"? Noting your starting assumptions now will make the shift that schema theory invites all the more visible.
@@ -429,6 +437,77 @@ importance: high
 - [[Report-01|Report 01]]
 - [[Report-04|Report 04]]
 - [[Report-01|Report 01]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md, cognitive-load-theory-foundational-report-2026-03-11.md, report-02-the-fallible-knower.md, report-04-cognitive-scaffolding.md, schema-theory-and-learning-foundational-report-2026-03-06.md, topic-set-cognitive-science-pkb-achitecture-202511202330.md)*:
+[[Cognitive-Science|Cognitive Science]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[Cognitive-Load|Cognitive Load]] * [[Schema-Formation|Schema Formation]] * [[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]] * [[Machine-Learning---Core-Paradigms|Machine Learning - Core Paradigms]] * [[Machine-Learning---Mathematical-Foundations|Machine Learning - Mathematical Foundations]] * [[Machine-Learning---Practical-Implementation|Machine Learning - Practical Implementation]] * [[Desirable-Difficulties-and-Retrieval-Practice-Design|Desirable Difficulties and Retrieval Practice Design]] * [[Cognitive-Psychology|Cognitive Psychology]] * [[Retrieval-Practice|Retrieval Practice]] * [[Desirable-Difficulties|Desirable Difficulties]] * [[Bjork's-Desirable-Difficulties-Framework|Bjork's Desirable Difficulties Framework]] * [[Schema-Theory-and-MOC-Architecture|Schema Theory and MOC Architecture]] * [[Maps-of-Content|Maps of Content]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+
+
+
+
+
+
+
+
+
 
 
 

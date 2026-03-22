@@ -363,34 +363,34 @@ extraction_summary:
 
 > [!cite] 📖 Mathys, C. D., Lomakina, E. I., Daunizeau, J., Iglesias, S., Brodersen, K. H., Friston, K. J., & Stephan, K. E. (2014). Uncertainty in perception and the Hierarchical Gaussian Filter. *Frontiers in Human Neuroscience*, 8, 825. https://doi.org/10.3389/fnhum.2014.00825
 
-#### 51. [CONNECTION-IDEAS] 🗺️ Priority 1 (Critical) — [[Computational Psychiatry and the Examined Life]] *(Line 493)*
+#### 51. [CONNECTION-IDEAS] 🗺️ Priority 1 (Critical) — [[Computational-Psychiatry-and-the-Examined-Life|Computational Psychiatry and the Examined Life]] *(Line 493)*
 
-> [!connection-ideas] 🗺️ Priority 1 (Critical) — [[Computational Psychiatry and the Examined Life]]
+> [!connection-ideas] 🗺️ Priority 1 (Critical) — [[Computational-Psychiatry-and-the-Examined-Life|Computational Psychiatry and the Examined Life]]
 > The PP framework has generated one of the most productive programs in contemporary psychiatry: understanding psychiatric conditions as specific patterns of aberrant precision weighting. Depression may involve hyperactive prior precision (the world is exactly as bad as I predict, and nothing can surprise me out of this), psychosis may involve broken precision (sensory prediction errors are weighted so heavily that the model cannot stabilize), and anxiety may involve hyperactive interoceptive precision (the body's threat signals are amplified beyond their evidential value). This research program generates concrete therapeutic implications and deepens the practical dimension of the examined life by showing what the *failure modes* of precision calibration look like — and what practices might systematically address them.
 
-#### 52. [CONNECTION-IDEAS] 🗺️ Priority 2 (Critical) — [[Contemplative Practice and Predictive Processing]] *(Line 496)*
+#### 52. [CONNECTION-IDEAS] 🗺️ Priority 2 (Critical) — [[Contemplative-Practice-and-Predictive-Processing|Contemplative Practice and Predictive Processing]] *(Line 496)*
 
-> [!connection-ideas] 🗺️ Priority 2 (Critical) — [[Contemplative Practice and Predictive Processing]]
+> [!connection-ideas] 🗺️ Priority 2 (Critical) — [[Contemplative-Practice-and-Predictive-Processing|Contemplative Practice and Predictive Processing]]
 > A rapidly growing research area examines how meditation and contemplative practices systematically alter the brain's predictive architecture. Mindfulness meditation may work partly by reducing the precision of self-referential priors — making the phenomenal self-model less transparent and thereby reducing the cognitive rigidity associated with strong self-concept. Stoic prosoche, Buddhist vipassana, and related practices may all function as deliberate precision recalibration exercises, training the second-order monitoring system to detect when first-order priors are inappropriately overriding incoming evidence. This research program would provide empirical grounding for the claim that the examined life's practices produce lasting changes in precision-weighting architecture.
 
 #### 53. [CONNECTION-IDEAS] 🗺️ Priority 3 (High) — [[Neurophenomenology and First-Person Methods]] *(Line 499)*
 
 > [!connection-ideas] 🗺️ Priority 3 (High) — [[Neurophenomenology and First-Person Methods]]
-> [[Francisco Varela]]'s neurophenomenology proposes that first-person phenomenal data — the careful, disciplined first-person reports of subjective experience — should be treated as a constraint on neuroscientific models rather than merely as data to be explained away. This methodology is essential for grounding the PP framework's claims about consciousness, emotion, and selfhood, and it provides a scientific framework for the kind of disciplined first-person inquiry that the examined life's practices (journaling, contemplation, self-examination) produce. The connection between neurophenomenology and the examined life is particularly rich: both treat first-person experience as epistemically significant and both require disciplined methodology to generate reliable results.
+> [[Francisco-Varela|Francisco Varela]]'s neurophenomenology proposes that first-person phenomenal data — the careful, disciplined first-person reports of subjective experience — should be treated as a constraint on neuroscientific models rather than merely as data to be explained away. This methodology is essential for grounding the PP framework's claims about consciousness, emotion, and selfhood, and it provides a scientific framework for the kind of disciplined first-person inquiry that the examined life's practices (journaling, contemplation, self-examination) produce. The connection between neurophenomenology and the examined life is particularly rich: both treat first-person experience as epistemically significant and both require disciplined methodology to generate reliable results.
 
-#### 54. [CONNECTION-IDEAS] 🗺️ Priority 4 (High) — [[Active Inference and Ethical Agency]] *(Line 502)*
+#### 54. [CONNECTION-IDEAS] 🗺️ Priority 4 (High) — [[Active-Inference-and-Ethical-Agency|Active Inference and Ethical Agency]] *(Line 502)*
 
-> [!connection-ideas] 🗺️ Priority 4 (High) — [[Active Inference and Ethical Agency]]
+> [!connection-ideas] 🗺️ Priority 4 (High) — [[Active-Inference-and-Ethical-Agency|Active Inference and Ethical Agency]]
 > The FEP's account of agency through active inference has rich implications for ethics and moral philosophy. If action is fundamentally goal-directed prediction fulfillment, and if organisms can set their own prediction targets (preferred states), then genuine agency and moral responsibility can be grounded in the FEP framework without requiring libertarian free will. This connects the PP framework to the Stoic account of prohairesis (intentional choice), the virtue ethics account of moral character as stable dispositional patterns, and contemporary moral psychology's interest in the relationship between automatic and deliberate moral cognition. The question of whether the examined life's ethical commitments can be understood as learned preferred states in the active inference framework is philosophically fascinating.
 
-#### 55. [CONNECTION-IDEAS] 🗺️ Priority 5 (Medium) — [[Bayesian Brain — Empirical Status Review]] *(Line 505)*
+#### 55. [CONNECTION-IDEAS] 🗺️ Priority 5 (Medium) — [[Bayesian-Brain-—-Empirical-Status-Review|Bayesian Brain — Empirical Status Review]] *(Line 505)*
 
-> [!connection-ideas] 🗺️ Priority 5 (Medium) — [[Bayesian Brain — Empirical Status Review]]
+> [!connection-ideas] 🗺️ Priority 5 (Medium) — [[Bayesian-Brain-—-Empirical-Status-Review|Bayesian Brain — Empirical Status Review]]
 > The PP framework's claims vary widely in empirical support, and a careful review of the current state of evidence — distinguishing well-supported algorithmic claims from more speculative computational and philosophical extensions — is essential for using the framework responsibly. Recent critiques (2023-2025) have raised important challenges to specific PP claims, and engaging with these critiques with intellectual honesty is itself an expression of the examined life's core commitment to responsive precision calibration. A dedicated knowledge base entry would track the empirical status of specific PP claims and update as evidence accumulates.
 
-#### 56. [CONNECTION-IDEAS] 🗺️ Priority 6 (Medium) — [[Cultural Affordances in Active Inference]] *(Line 508)*
+#### 56. [CONNECTION-IDEAS] 🗺️ Priority 6 (Medium) — [[Cultural-Affordances-in-Active-Inference|Cultural Affordances in Active Inference]] *(Line 508)*
 
-> [!connection-ideas] 🗺️ Priority 6 (Medium) — [[Cultural Affordances in Active Inference]]
+> [!connection-ideas] 🗺️ Priority 6 (Medium) — [[Cultural-Affordances-in-Active-Inference|Cultural Affordances in Active Inference]]
 > [[Maxwell Ramstead]]'s work on cultural active inference proposes that cultural niches — the socially constructed environments of shared practices, tools, norms, and symbolic systems within which human cognition develops — function as extended generative models, providing prior structures that shape how individuals calibrate their precision weights. This research program grounds the PP framework in the social and cultural contexts that Reports 11 and 12 emphasized, showing that the examined life is not only an individual project but a cultural achievement — the examined life is partly constituted by the epistemic cultures and communities within which it is practiced.
 
 #### 57. [METHODOLOGY-AND-SOURCES] 📖 Research Grounding and Methodological Note *(Line 513)*
@@ -412,40 +412,40 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Active Inference and Ethical Agency]]
-- [[Andy Clark]]
-- [[Anil Seth]]
+- [[Active-Inference-and-Ethical-Agency|Active Inference and Ethical Agency]]
+- [[Andy-Clark|Andy Clark]]
+- [[Anil-Seth|Anil Seth]]
 - [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
-- [[Bayesian Brain — Empirical Status Review]]
-- [[Charles Sanders Peirce]]
+- [[Bayesian-Brain-—-Empirical-Status-Review|Bayesian Brain — Empirical Status Review]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Computational Psychiatry and the Examined Life]]
-- [[Constructed Emotion Theory]]
-- [[Contemplative Practice and Predictive Processing]]
-- [[Cultural Affordances in Active Inference]]
-- [[Dan Sperber]]
-- [[David Marr]]
+- [[Computational-Psychiatry-and-the-Examined-Life|Computational Psychiatry and the Examined Life]]
+- [[Constructed-Emotion-Theory|Constructed Emotion Theory]]
+- [[Contemplative-Practice-and-Predictive-Processing|Contemplative Practice and Predictive Processing]]
+- [[Cultural-Affordances-in-Active-Inference|Cultural Affordances in Active Inference]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[David-Marr|David Marr]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Epistemic Injustice]]
 - [[Epistemological Posture]]
 - [[Fallibilism]]
 - [[Flow]]
-- [[Francisco Varela]]
+- [[Francisco-Varela|Francisco Varela]]
 - [[Free-Energy-Principle|Free Energy Principle]]
 - [[Generative-Model|Generative Model]]
-- [[Hilary Putnam]]
+- [[Hilary-Putnam|Hilary Putnam]]
 - [[Hugo Mercier]]
 - [[Intellectual Character]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Empathy|Intellectual Empathy]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Interoceptive-Inference|Interoceptive Inference]]
-- [[Jakob Hohwy]]
-- [[Jean Piaget]]
+- [[Jakob-Hohwy|Jakob Hohwy]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
-- [[Karl Friston]]
-- [[Lisa Feldman Barrett]]
+- [[Karl-Friston|Karl Friston]]
+- [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Maxwell Ramstead]]
 - [[Metacognition]]
 - [[Miranda Fricker]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Socrates]]
 - [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
-- [[Thomas Metzinger]]
+- [[Thomas-Metzinger|Thomas Metzinger]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
@@ -470,25 +470,25 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
-| 2 | [[Karl Friston]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
-| 3 | [[Andy Clark]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
-| 4 | [[Jakob Hohwy]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
-| 5 | [[Anil Seth]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
-| 6 | [[Thomas Metzinger]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
+| 2 | [[Karl-Friston|Karl Friston]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
+| 3 | [[Andy-Clark|Andy Clark]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
+| 4 | [[Jakob-Hohwy|Jakob Hohwy]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
+| 5 | [[Anil-Seth|Anil Seth]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
+| 6 | [[Thomas-Metzinger|Thomas Metzinger]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
 | 7 | [[Generative-Model|Generative Model]] | — | — | The Generative Model: The Brain's Wor... | 211 |
-| 8 | [[Karl Friston]] | — | — | Free Energy: The Master Variable | 222 |
+| 8 | [[Karl-Friston|Karl Friston]] | — | — | Free Energy: The Master Variable | 222 |
 | 9 | [[Free-Energy-Principle|Free Energy Principle]] | — | — | Free Energy: The Master Variable | 222 |
 | 10 | [[Precision-Weighting|Precision Weighting]] | — | — | Precision Weighting: The Control Syst... | 233 |
-| 11 | [[Anil Seth]] | — | — | Interoceptive Inference: The Body's P... | 244 |
-| 12 | [[Lisa Feldman Barrett]] | — | — | Interoceptive Inference: The Body's P... | 246 |
-| 13 | [[Constructed Emotion Theory]] | — | — | Interoceptive Inference: The Body's P... | 246 |
-| 14 | [[Thomas Metzinger]] | — | — | Metzinger's Self-Model: Seeing Yourse... | 250 |
+| 11 | [[Anil-Seth|Anil Seth]] | — | — | Interoceptive Inference: The Body's P... | 244 |
+| 12 | [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] | — | — | Interoceptive Inference: The Body's P... | 246 |
+| 13 | [[Constructed-Emotion-Theory|Constructed Emotion Theory]] | — | — | Interoceptive Inference: The Body's P... | 246 |
+| 14 | [[Thomas-Metzinger|Thomas Metzinger]] | — | — | Metzinger's Self-Model: Seeing Yourse... | 250 |
 | 15 | [[Phenomenal-Self-Model|Phenomenal Self-Model]] | — | — | Metzinger's Self-Model: Seeing Yourse... | 250 |
 | 16 | [[John-Dewey|John Dewey]] | Dewey | — | The Master Homology: A Single Mechani... | 271 |
 | 17 | [[Socrates]] | Socratic | — | The Master Homology: A Single Mechani... | 271 |
-| 18 | [[Charles Sanders Peirce]] | Peirce | — | The Master Homology: A Single Mechani... | 273 |
+| 18 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | Peirce | — | The Master Homology: A Single Mechani... | 273 |
 | 19 | [[Fallibilism]] | fallibilism | — | The Master Homology: A Single Mechani... | 273 |
-| 20 | [[Jean Piaget]] | Piaget | — | The Master Homology: A Single Mechani... | 273 |
+| 20 | [[Jean-Piaget|Jean Piaget]] | Piaget | — | The Master Homology: A Single Mechani... | 273 |
 | 21 | [[Assimilation-and-Accommodation|Assimilation and Accommodation]] | assimilation and accommodation | — | The Master Homology: A Single Mechani... | 273 |
 | 22 | [[Flow]] | Flow theory | — | The Master Homology: A Single Mechani... | 275 |
 | 23 | [[Schema-Theory|Schema Theory]] | Schema theory | — | The Master Homology: A Single Mechani... | 277 |
@@ -502,26 +502,26 @@ extraction_summary:
 | 31 | [[Prosoche]] | prosoche | — | The Master Homology: A Single Mechani... | 284 |
 | 32 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | Damasio's somatic markers | — | The Master Homology: A Single Mechani... | 286 |
 | 33 | [[Interoceptive-Inference|Interoceptive Inference]] | Seth's interoceptive inference | — | The Master Homology: A Single Mechani... | 286 |
-| 34 | [[Constructed Emotion Theory]] | constructed emotions | — | The Master Homology: A Single Mechani... | 286 |
+| 34 | [[Constructed-Emotion-Theory|Constructed Emotion Theory]] | constructed emotions | — | The Master Homology: A Single Mechani... | 286 |
 | 35 | [[Emotional-Granularity|Emotional Granularity]] | Emotional granularity | — | The Master Homology: A Single Mechani... | 286 |
 | 36 | [[Phronesis]] | phronesis | — | The Master Homology: A Single Mechani... | 288 |
 | 37 | [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] | Recognition-Primed Decision | — | The Master Homology: A Single Mechani... | 288 |
 | 38 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | social epistemology | — | The Master Homology: A Single Mechani... | 290 |
 | 39 | [[Hugo Mercier]] | Mercier | — | The Master Homology: A Single Mechani... | 290 |
-| 40 | [[Dan Sperber]] | Sperber | — | The Master Homology: A Single Mechani... | 290 |
+| 40 | [[Dan-Sperber|Dan Sperber]] | Sperber | — | The Master Homology: A Single Mechani... | 290 |
 | 41 | [[Miranda Fricker]] | Fricker | — | The Master Homology: A Single Mechani... | 290 |
 | 42 | [[Epistemic Injustice]] | epistemic injustice | — | The Master Homology: A Single Mechani... | 290 |
-| 43 | [[Hilary Putnam]] | — | — | The Central Conceptual Tension: Mecha... | 299 |
-| 44 | [[David Marr]] | — | — | The Central Conceptual Tension: Mecha... | 299 |
+| 43 | [[Hilary-Putnam|Hilary Putnam]] | — | — | The Central Conceptual Tension: Mecha... | 299 |
+| 44 | [[David-Marr|David Marr]] | — | — | The Central Conceptual Tension: Mecha... | 299 |
 | 45 | [[Epistemological Posture]] | epistemological posture | — | The Emergent Insight: Precision Flexi... | 382 |
 | 46 | [[Intellectual Character]] | — | — | The Emergent Insight: Precision Flexi... | 382 |
-| 47 | [[Computational Psychiatry and the Examined Life]] | — | — | PKB Expansion Topics | 493 |
-| 48 | [[Contemplative Practice and Predictive Processing]] | — | — | PKB Expansion Topics | 496 |
+| 47 | [[Computational-Psychiatry-and-the-Examined-Life|Computational Psychiatry and the Examined Life]] | — | — | PKB Expansion Topics | 493 |
+| 48 | [[Contemplative-Practice-and-Predictive-Processing|Contemplative Practice and Predictive Processing]] | — | — | PKB Expansion Topics | 496 |
 | 49 | [[Neurophenomenology and First-Person Methods]] | — | — | PKB Expansion Topics | 499 |
-| 50 | [[Francisco Varela]] | — | — | PKB Expansion Topics | 500 |
-| 51 | [[Active Inference and Ethical Agency]] | — | — | PKB Expansion Topics | 502 |
-| 52 | [[Bayesian Brain — Empirical Status Review]] | — | — | PKB Expansion Topics | 505 |
-| 53 | [[Cultural Affordances in Active Inference]] | — | — | PKB Expansion Topics | 508 |
+| 50 | [[Francisco-Varela|Francisco Varela]] | — | — | PKB Expansion Topics | 500 |
+| 51 | [[Active-Inference-and-Ethical-Agency|Active Inference and Ethical Agency]] | — | — | PKB Expansion Topics | 502 |
+| 52 | [[Bayesian-Brain-—-Empirical-Status-Review|Bayesian Brain — Empirical Status Review]] | — | — | PKB Expansion Topics | 505 |
+| 53 | [[Cultural-Affordances-in-Active-Inference|Cultural Affordances in Active Inference]] | — | — | PKB Expansion Topics | 508 |
 | 54 | [[Maxwell Ramstead]] | — | — | PKB Expansion Topics | 509 |
 | 55 | [[Report 12 — The Social Thinker: Distributed Cognition, Epistemic Justice, and Thinking in Community]] | — | — | PKB Expansion Topics | 524 |
 | 56 | [[Report 14 — The Meaningful Life: Narrative Identity, Purpose, and the Telos of the Examined Life]] | — | — | PKB Expansion Topics | 526 |
@@ -554,40 +554,40 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Active Inference and Ethical Agency]]
-- [[Andy Clark]]
-- [[Anil Seth]]
+- [[Active-Inference-and-Ethical-Agency|Active Inference and Ethical Agency]]
+- [[Andy-Clark|Andy Clark]]
+- [[Anil-Seth|Anil Seth]]
 - [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
-- [[Bayesian Brain — Empirical Status Review]]
-- [[Charles Sanders Peirce]]
+- [[Bayesian-Brain-—-Empirical-Status-Review|Bayesian Brain — Empirical Status Review]]
+- [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Computational Psychiatry and the Examined Life]]
-- [[Constructed Emotion Theory]]
-- [[Contemplative Practice and Predictive Processing]]
-- [[Cultural Affordances in Active Inference]]
-- [[Dan Sperber]]
-- [[David Marr]]
+- [[Computational-Psychiatry-and-the-Examined-Life|Computational Psychiatry and the Examined Life]]
+- [[Constructed-Emotion-Theory|Constructed Emotion Theory]]
+- [[Contemplative-Practice-and-Predictive-Processing|Contemplative Practice and Predictive Processing]]
+- [[Cultural-Affordances-in-Active-Inference|Cultural Affordances in Active Inference]]
+- [[Dan-Sperber|Dan Sperber]]
+- [[David-Marr|David Marr]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Epistemic Injustice]]
 - [[Epistemological Posture]]
 - [[Fallibilism]]
 - [[Flow]]
-- [[Francisco Varela]]
+- [[Francisco-Varela|Francisco Varela]]
 - [[Free-Energy-Principle|Free Energy Principle]]
 - [[Generative-Model|Generative Model]]
-- [[Hilary Putnam]]
+- [[Hilary-Putnam|Hilary Putnam]]
 - [[Hugo Mercier]]
 - [[Intellectual Character]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Empathy|Intellectual Empathy]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Interoceptive-Inference|Interoceptive Inference]]
-- [[Jakob Hohwy]]
-- [[Jean Piaget]]
+- [[Jakob-Hohwy|Jakob Hohwy]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[John-Dewey|John Dewey]]
-- [[Karl Friston]]
-- [[Lisa Feldman Barrett]]
+- [[Karl-Friston|Karl Friston]]
+- [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Maxwell Ramstead]]
 - [[Metacognition]]
 - [[Miranda Fricker]]
@@ -604,7 +604,7 @@ extraction_summary:
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Socrates]]
 - [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
-- [[Thomas Metzinger]]
+- [[Thomas-Metzinger|Thomas Metzinger]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
@@ -613,7 +613,7 @@ extraction_summary:
 
 - [[Reports 01-12 - The Architecture of the Examined Life]]
 - [[Bayesian-Inference|Bayesian Inference]]
-- [[Cognitive Neuroscience]]
+- [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 
 #### Related

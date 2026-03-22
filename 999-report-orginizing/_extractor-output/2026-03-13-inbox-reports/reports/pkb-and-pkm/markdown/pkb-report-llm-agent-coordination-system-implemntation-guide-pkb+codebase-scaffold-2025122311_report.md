@@ -234,7 +234,7 @@ extraction_summary:
 #### 2. [ABSTRACT] System Overview *(Line 119)*
 
 > [!abstract] System Overview
-> This guide provides comprehensive scaffolding for implementing an AI Agent Coordination System where [[Claude Code]] and [[Gemini Code Assist]] function as intelligent coding partners and PKB librarians. The system leverages a structured vault architecture to enable agents to self-coordinate, access domain knowledge, maintain session context, and execute complex multi-step workflows. This document reduces cognitive load by breaking implementation into digestible phases with clear operational procedures.
+> This guide provides comprehensive scaffolding for implementing an AI Agent Coordination System where [[Claude-Code|Claude Code]] and [[Gemini-Code-Assist|Gemini Code Assist]] function as intelligent coding partners and PKB librarians. The system leverages a structured vault architecture to enable agents to self-coordinate, access domain knowledge, maintain session context, and execute complex multi-step workflows. This document reduces cognitive load by breaking implementation into digestible phases with clear operational procedures.
 
 #### 3. [ANALOGY] The Library Curator Framework *(Line 124)*
 
@@ -365,10 +365,10 @@ extraction_summary:
 - [[Agent Capability Development Framework]]
 - [[Agent Coordination Patterns]]
 - [[Agentic Prompt Engineering Workflows]]
-- [[Claude Code]]
+- [[Claude-Code|Claude Code]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to AI Coordination]]
-- [[Gemini Code Assist]]
+- [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Knowledge Graph Dynamics in Multi-Agent Systems]]
 - [[Multi-Modal Agent Coordination (Text + Vision + Code)]]
 - [[Note 1]]
@@ -385,13 +385,13 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**AI Agent Coordination System: Implementation Guide**]] | — | — | Foundational Understanding | 101 |
 | 2 | [[Sequential Prompt Engineering System]] | — | — | Foundational Understanding | 114 |
-| 3 | [[Claude Code]] | — | — | Foundational Understanding | 114 |
+| 3 | [[Claude-Code|Claude Code]] | — | — | Foundational Understanding | 114 |
 | 4 | [[Obsidian PKB Architecture]] | — | — | Foundational Understanding | 114 |
 | 5 | [[Agent Coordination Patterns]] | — | — | Foundational Understanding | 114 |
-| 6 | [[Claude Code]] | — | — | 🤖 AI Agent Coordination System: Imple... | 120 |
-| 7 | [[Gemini Code Assist]] | — | — | 🤖 AI Agent Coordination System: Imple... | 120 |
-| 8 | [[Gemini Code Assist]] | — | — | Integration with Gemini | 239 |
-| 9 | [[Claude Code]] | — | — | Integration with Claude | 336 |
+| 6 | [[Claude-Code|Claude Code]] | — | — | 🤖 AI Agent Coordination System: Imple... | 120 |
+| 7 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | 🤖 AI Agent Coordination System: Imple... | 120 |
+| 8 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Integration with Gemini | 239 |
+| 9 | [[Claude-Code|Claude Code]] | — | — | Integration with Claude | 336 |
 | 10 | [[Note 1]] | — | — | Atomic Note Schema | 660 |
 | 11 | [[Note 2]] | — | — | Atomic Note Schema | 660 |
 | 12 | [[Note 1]] | — | — | Reference Note Schema | 673 |
@@ -1291,10 +1291,10 @@ graph TD
 - [[Agent Capability Development Framework]]
 - [[Agent Coordination Patterns]]
 - [[Agentic Prompt Engineering Workflows]]
-- [[Claude Code]]
+- [[Claude-Code|Claude Code]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to AI Coordination]]
-- [[Gemini Code Assist]]
+- [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Knowledge Graph Dynamics in Multi-Agent Systems]]
 - [[Multi-Modal Agent Coordination (Text + Vision + Code)]]
 - [[Note 1]]

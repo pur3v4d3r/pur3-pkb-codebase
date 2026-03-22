@@ -159,12 +159,12 @@ extraction_summary:
 #### 4. [DEFINITION] Pintrich's Motivational Integration (Pintrich, 2000; Pintrich et al., 1993) *(Line 276)*
 
 > [!definition] Pintrich's Motivational Integration (Pintrich, 2000; Pintrich et al., 1993)
-> Pintrich extended Zimmerman's primarily cognitive account by foregrounding [[Motivational Regulation]] as a co-equal component of self-regulation alongside cognitive and metacognitive regulation. His framework distinguishes: **[[Goal-Orientation|Goal Orientation]]** (mastery vs. performance approach vs. performance avoidance — which shapes not just effort level but the qualitative nature of regulatory behavior); **[[Task Value]]** (intrinsic interest, utility value, and attainment value — which determine whether regulation is initiated in the first place); and **[[Self-Efficacy]] for learning and performance** (which governs not just persistence but the cognitive resources voluntarily allocated to the task). Pintrich's Motivated Strategies for Learning Questionnaire ([[MSLQ]]) operationalized these constructs and has been used in hundreds of studies.
+> Pintrich extended Zimmerman's primarily cognitive account by foregrounding [[Motivational-Regulation|Motivational Regulation]] as a co-equal component of self-regulation alongside cognitive and metacognitive regulation. His framework distinguishes: **[[Goal-Orientation|Goal Orientation]]** (mastery vs. performance approach vs. performance avoidance — which shapes not just effort level but the qualitative nature of regulatory behavior); **[[Task-Value|Task Value]]** (intrinsic interest, utility value, and attainment value — which determine whether regulation is initiated in the first place); and **[[Self-Efficacy]] for learning and performance** (which governs not just persistence but the cognitive resources voluntarily allocated to the task). Pintrich's Motivated Strategies for Learning Questionnaire ([[MSLQ]]) operationalized these constructs and has been used in hundreds of studies.
 
 #### 5. [DEFINITION] Flavell's Metacognitive Framework (Flavell, 1979, 1987) *(Line 279)*
 
 > [!definition] Flavell's Metacognitive Framework (Flavell, 1979, 1987)
-> Flavell distinguished **[[Metacognitive-Knowledge|Metacognitive Knowledge]]** (stable declarative knowledge about persons, tasks, and strategies — knowing that re-reading is an ineffective consolidation strategy, for instance) from **[[Metacognitive Experiences]]** (in-the-moment feelings of knowing, confusion, or fluency that trigger regulatory responses during active learning). This distinction is foundational to SRL theory: metacognitive knowledge provides the repertoire from which the learner selects strategies; metacognitive experiences are the monitoring signals that determine when regulation is needed. A learner can have extensive metacognitive knowledge but poor metacognitive sensitivity — they know what to do but fail to detect the signal that they should do it.
+> Flavell distinguished **[[Metacognitive-Knowledge|Metacognitive Knowledge]]** (stable declarative knowledge about persons, tasks, and strategies — knowing that re-reading is an ineffective consolidation strategy, for instance) from **[[Metacognitive-Experiences|Metacognitive Experiences]]** (in-the-moment feelings of knowing, confusion, or fluency that trigger regulatory responses during active learning). This distinction is foundational to SRL theory: metacognitive knowledge provides the repertoire from which the learner selects strategies; metacognitive experiences are the monitoring signals that determine when regulation is needed. A learner can have extensive metacognitive knowledge but poor metacognitive sensitivity — they know what to do but fail to detect the signal that they should do it.
 
 #### 6. [ASK-YOURSELF-THIS] Conceptual Checkpoint *(Line 290)*
 
@@ -213,7 +213,7 @@ extraction_summary:
 #### 14. [WHAT-THE-EVIDENCE-SUGGESTS] Self-Efficacy is Both a Precondition and an Output of SRL *(Line 333)*
 
 > [!what-the-evidence-suggests] Self-Efficacy is Both a Precondition and an Output of SRL
-> The evidence suggests that treating [[Self-Efficacy]] as merely a precondition for SRL (as earlier models implied) is theoretically incomplete. Self-efficacy is dynamically updated during the performance phase through interpretation of ongoing performance signals, and that updating process is itself a regulatory act. Learners who attribute monitoring signals to unstable, controllable causes (strategy choice rather than ability) maintain efficacy and continue regulating; those who attribute the same signals to stable, uncontrollable causes (fixed intelligence) reduce regulatory effort and disengage. This means self-efficacy is not just an input to the SRL cycle but a parameter that is continuously recalibrated by how the learner interprets their monitoring data — a process that is influenced by [[Goal-Orientation|goal orientation]] and the implicit theories of intelligence documented by [[Carol Dweck|Dweck]].
+> The evidence suggests that treating [[Self-Efficacy]] as merely a precondition for SRL (as earlier models implied) is theoretically incomplete. Self-efficacy is dynamically updated during the performance phase through interpretation of ongoing performance signals, and that updating process is itself a regulatory act. Learners who attribute monitoring signals to unstable, controllable causes (strategy choice rather than ability) maintain efficacy and continue regulating; those who attribute the same signals to stable, uncontrollable causes (fixed intelligence) reduce regulatory effort and disengage. This means self-efficacy is not just an input to the SRL cycle but a parameter that is continuously recalibrated by how the learner interprets their monitoring data — a process that is influenced by [[Goal-Orientation|goal orientation]] and the implicit theories of intelligence documented by [[Carol-Dweck|Dweck]].
 
 #### 15. [TENSION-IDENTIFIED] The Domain-Generality Assumption *(Line 336)*
 
@@ -242,7 +242,7 @@ extraction_summary:
 #### 19. [CROSS-DOMAIN-CONNECTION] Control Systems Theory → SRL Monitoring-Control Coupling *(Line 371)*
 
 > [!cross-domain-connection] Control Systems Theory → SRL Monitoring-Control Coupling
-> The monitoring-control dynamic in SRL maps precisely onto the architecture of a [[Negative Feedback Control System]] in engineering. In a proportional control system, the deviation between the current state and the target state generates a correction signal proportional to the error. The system's stability depends on the gain coefficient — too low, and the system corrects too slowly; too high, and it oscillates. The SRL analog is striking: learners with calibrated self-monitoring generate appropriately sized regulatory responses to detected discrepancies (moderate gain). Learners who catastrophize small discrepancies (high gain) show regulatory overreaction — they abandon working strategies after minor setbacks. Learners who discount performance feedback (low gain) persist with ineffective strategies long after monitoring signals should have triggered adjustment. The engineering framework suggests that the quality of the monitoring-control coupling is a tunable parameter — and that calibration rather than simply increasing monitoring intensity should be the intervention target.
+> The monitoring-control dynamic in SRL maps precisely onto the architecture of a [[Negative-Feedback-Control-System|Negative Feedback Control System]] in engineering. In a proportional control system, the deviation between the current state and the target state generates a correction signal proportional to the error. The system's stability depends on the gain coefficient — too low, and the system corrects too slowly; too high, and it oscillates. The SRL analog is striking: learners with calibrated self-monitoring generate appropriately sized regulatory responses to detected discrepancies (moderate gain). Learners who catastrophize small discrepancies (high gain) show regulatory overreaction — they abandon working strategies after minor setbacks. Learners who discount performance feedback (low gain) persist with ineffective strategies long after monitoring signals should have triggered adjustment. The engineering framework suggests that the quality of the monitoring-control coupling is a tunable parameter — and that calibration rather than simply increasing monitoring intensity should be the intervention target.
 
 #### 20. [ANALYTICAL-INSIGHT] The Reflection Loop's Structural Fragility *(Line 382)*
 
@@ -257,7 +257,7 @@ extraction_summary:
 #### 22. [CROSS-DOMAIN-CONNECTION] Immunology → SRL Regulatory Response Patterns *(Line 390)*
 
 > [!cross-domain-connection] Immunology → SRL Regulatory Response Patterns
-> Goal orientation's effect on error response in SRL parallels the distinction in immunology between [[Adaptive Immunity]] (which responds to specific pathogens with targeted, calibrated responses that build memory) and [[Innate Immunity]] (which mounts a rapid, undiscriminating inflammatory response to any detected threat). Mastery-oriented learners deploy adaptive regulatory responses to performance errors: they engage in specific diagnosis of what went wrong, targeted strategy adjustment, and the error is encoded as useful information. Performance-avoidance learners deploy something more like an innate response: threat is detected, a general defensive response (distancing, self-handicapping, disengagement) is mounted without careful diagnosis, and the error generates avoidance rather than adjustment. The biological analogy illuminates why mastery orientation does not simply increase effort — it changes the qualitative nature of the regulatory response.
+> Goal orientation's effect on error response in SRL parallels the distinction in immunology between [[Adaptive-Immunity|Adaptive Immunity]] (which responds to specific pathogens with targeted, calibrated responses that build memory) and [[Innate-Immunity|Innate Immunity]] (which mounts a rapid, undiscriminating inflammatory response to any detected threat). Mastery-oriented learners deploy adaptive regulatory responses to performance errors: they engage in specific diagnosis of what went wrong, targeted strategy adjustment, and the error is encoded as useful information. Performance-avoidance learners deploy something more like an innate response: threat is detected, a general defensive response (distancing, self-handicapping, disengagement) is mounted without careful diagnosis, and the error generates avoidance rather than adjustment. The biological analogy illuminates why mastery orientation does not simply increase effort — it changes the qualitative nature of the regulatory response.
 
 #### 23. [ASK-YOURSELF-THIS] Calibration Check *(Line 395)*
 
@@ -340,15 +340,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> - **[[Metacognition and Lifelong Learning]]** — This focused analysis drills into the monitoring-control coupling within SRL, while the metacognition note covers the broader architecture of metacognitive knowledge and experiences. The relationship is constitutive: [[Metacognitive-Monitoring|Metacognitive Monitoring]] is the mechanism through which SRL's performance phase operates, and the distinction between metacognitive knowledge and experiences (Flavell) is the theoretical foundation for the analysis in Phase III of why strategy instruction alone is insufficient. These two nodes form a dependent pair: metacognition provides the sensing system; SRL provides the regulatory system that uses sensing to drive adjustment.
+> - **[[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]** — This focused analysis drills into the monitoring-control coupling within SRL, while the metacognition note covers the broader architecture of metacognitive knowledge and experiences. The relationship is constitutive: [[Metacognitive-Monitoring|Metacognitive Monitoring]] is the mechanism through which SRL's performance phase operates, and the distinction between metacognitive knowledge and experiences (Flavell) is the theoretical foundation for the analysis in Phase III of why strategy instruction alone is insufficient. These two nodes form a dependent pair: metacognition provides the sensing system; SRL provides the regulatory system that uses sensing to drive adjustment.
 > 
-> - **[[Growth Mindset and Implicit Theories of Intelligence]]** — The analysis here connects directly to the reflection phase breakdown identified in Phase IV: ability attribution (the hallmark of a fixed mindset) severs the self-reflection loop and prevents productive forethought revision. Dweck's implicit theories research and Zimmerman's SRL model are mechanistically complementary — growth mindset interventions work precisely by changing the attribution pattern at the reflection phase, which repairs the cycle. Understanding the SRL mechanism makes it possible to understand exactly why mindset matters and where its effect is located.
+> - **[[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]** — The analysis here connects directly to the reflection phase breakdown identified in Phase IV: ability attribution (the hallmark of a fixed mindset) severs the self-reflection loop and prevents productive forethought revision. Dweck's implicit theories research and Zimmerman's SRL model are mechanistically complementary — growth mindset interventions work precisely by changing the attribution pattern at the reflection phase, which repairs the cycle. Understanding the SRL mechanism makes it possible to understand exactly why mindset matters and where its effect is located.
 > 
 > - **[[Goal-Setting Theory — Locke and Latham]]** — Locke and Latham's finding that specific, challenging goals produce superior performance relative to vague or easy goals has a natural SRL interpretation: specific goals are standards that make monitoring possible. You cannot detect a discrepancy without a reference point, and vague goals provide insufficient precision to support genuine monitoring. The SRL analysis enriches goal-setting theory by explaining why specific goals work — they activate the monitoring-control coupling — rather than simply asserting that they do.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The expertise reversal effect identified in Phase III as a moderator of SRL intervention effectiveness is a cognitive load phenomenon: the working memory cost of self-monitoring competes with the working memory demands of processing novel content. Cognitive load theory provides the capacity account that explains why SRL is not simply better than direct instruction at all points — it is superior when learners have sufficient domain knowledge to reduce intrinsic load to the point where regulatory processes can be supported without cognitive compromise.
 > 
-> - **[[Executive Function]]** — The monitoring and control functions described in Zimmerman's performance phase map onto the executive function constructs of inhibitory control, working memory updating, and cognitive flexibility. Understanding SRL as drawing on executive function resources suggests an important boundary condition: learners under high cognitive load, emotional stress, or motivational threat will have reduced executive function resources available for self-regulation, predicting the motivational regulation failures that Pintrich's framework identifies but does not fully mechanistically explain.
+> - **[[Executive-Function|Executive Function]]** — The monitoring and control functions described in Zimmerman's performance phase map onto the executive function constructs of inhibitory control, working memory updating, and cognitive flexibility. Understanding SRL as drawing on executive function resources suggests an important boundary condition: learners under high cognitive load, emotional stress, or motivational threat will have reduced executive function resources available for self-regulation, predicting the motivational regulation failures that Pintrich's framework identifies but does not fully mechanistically explain.
 > 
 > - **[[Deliberate Practice — Ericsson]]** — Ericsson's deliberate practice framework and Zimmerman's SRL model converge on a striking overlap: the structure of effective deliberate practice sessions (setting specific stretch goals, focused execution, immediate feedback, reflection and adjustment) is structurally isomorphic with a healthy SRL cycle. Deliberate practice may be SRL applied in expert coaching contexts — the coach externally scaffolds the forethought (goal-setting) and reflection (feedback interpretation) phases that the learner is not yet able to fully provide internally. This connection suggests that deliberate practice research provides process-level evidence for SRL mechanisms that is less subject to the self-report measurement problems of standard SRL research.
 > 
@@ -518,35 +518,35 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Adaptive Immunity]]
+- [[Adaptive-Immunity|Adaptive Immunity]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Carol Dweck]]
+- [[Carol-Dweck|Carol Dweck]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and SRL — The Resource Competition Model]]
 - [[Deliberate Practice — Ericsson]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Forethought-Phase|Forethought Phase]]
-- [[General Intelligence]]
+- [[General-Intelligence|General Intelligence]]
 - [[Goal-Orientation|Goal Orientation]]
 - [[Goal Orientation Theory — Achievement Goals in Depth]]
 - [[Goal-Setting Theory — Locke and Latham]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Growth Mindset and Implicit Theories of Intelligence]]
-- [[Innate Immunity]]
-- [[Learning Theory — Foundational Report]]
+- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
+- [[Innate-Immunity|Innate Immunity]]
+- [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]
 - [[MSLQ]]
-- [[Metacognition and Lifelong Learning]]
-- [[Metacognition — Foundational Concepts]]
-- [[Metacognitive Experiences]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Monitoring Accuracy and Calibration]]
-- [[Motivational Regulation]]
-- [[Negative Feedback Control System]]
+- [[Motivational-Regulation|Motivational Regulation]]
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
 - [[PKB]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Performance-Phase|Performance Phase]]
 - [[Philip Winne]]
 - [[SRL Intervention Design — Evidence-Based Principles]]
@@ -556,50 +556,50 @@ extraction_summary:
 - [[Self-Monitoring]]
 - [[Self-Reflection-Phase|Self-Reflection Phase]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Task Value]]
+- [[Task-Value|Task Value]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Focused Analysis Report Generator v1.0]] | — | — | Self-Regulated Learning: Mechanisms, ... | 241 |
+| 1 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | Self-Regulated Learning: Mechanisms, ... | 241 |
 | 2 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning | — | Phase I: Orientation & Analytical Focus | 247 |
 | 3 | [[Barry-Zimmerman|Barry Zimmerman]] | Zimmerman | — | Phase I: Orientation & Analytical Focus | 249 |
-| 4 | [[Paul Pintrich]] | Pintrich | — | Phase I: Orientation & Analytical Focus | 249 |
-| 5 | [[Learning Theory — Foundational Report]] | — | — | Phase I: Orientation & Analytical Focus | 253 |
-| 6 | [[Metacognition — Foundational Concepts]] | — | — | Phase I: Orientation & Analytical Focus | 253 |
+| 4 | [[Paul-Pintrich|Paul Pintrich]] | Pintrich | — | Phase I: Orientation & Analytical Focus | 249 |
+| 5 | [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] | — | — | Phase I: Orientation & Analytical Focus | 253 |
+| 6 | [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] | — | — | Phase I: Orientation & Analytical Focus | 253 |
 | 7 | [[PKB]] | personal knowledge base | — | Phase I: Orientation & Analytical Focus | 257 |
 | 8 | [[Forethought-Phase|Forethought Phase]] | — | — | The Three Pillars of SRL Theory | 274 |
 | 9 | [[Self-Efficacy]] | self-efficacy | — | The Three Pillars of SRL Theory | 274 |
 | 10 | [[Performance-Phase|Performance Phase]] | — | — | The Three Pillars of SRL Theory | 274 |
 | 11 | [[Self-Monitoring]] | self-monitoring | — | The Three Pillars of SRL Theory | 274 |
 | 12 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | The Three Pillars of SRL Theory | 274 |
-| 13 | [[Motivational Regulation]] | — | — | The Three Pillars of SRL Theory | 277 |
+| 13 | [[Motivational-Regulation|Motivational Regulation]] | — | — | The Three Pillars of SRL Theory | 277 |
 | 14 | [[Goal-Orientation|Goal Orientation]] | — | — | The Three Pillars of SRL Theory | 277 |
-| 15 | [[Task Value]] | — | — | The Three Pillars of SRL Theory | 277 |
+| 15 | [[Task-Value|Task Value]] | — | — | The Three Pillars of SRL Theory | 277 |
 | 16 | [[Self-Efficacy]] | — | — | The Three Pillars of SRL Theory | 277 |
 | 17 | [[MSLQ]] | — | — | The Three Pillars of SRL Theory | 277 |
 | 18 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | The Three Pillars of SRL Theory | 280 |
-| 19 | [[Metacognitive Experiences]] | — | — | The Three Pillars of SRL Theory | 280 |
-| 20 | [[General Intelligence]] | General cognitive ability | — | Two Critical Distinctions | 286 |
+| 19 | [[Metacognitive-Experiences|Metacognitive Experiences]] | — | — | The Three Pillars of SRL Theory | 280 |
+| 20 | [[General-Intelligence|General Intelligence]] | General cognitive ability | — | Two Critical Distinctions | 286 |
 | 21 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Evidence Landscape | 312 |
 | 22 | [[Expertise-Reversal-Effect|Expertise Reversal Effect]] | — | — | What the Evidence Actually Shows vs. ... | 322 |
 | 23 | [[Self-Efficacy]] | — | — | What the Evidence Actually Shows vs. ... | 334 |
 | 24 | [[Goal-Orientation|Goal Orientation]] | goal orientation | — | What the Evidence Actually Shows vs. ... | 334 |
-| 25 | [[Carol Dweck]] | Dweck | — | What the Evidence Actually Shows vs. ... | 334 |
+| 25 | [[Carol-Dweck|Carol Dweck]] | Dweck | — | What the Evidence Actually Shows vs. ... | 334 |
 | 26 | [[Philip Winne]] | Winne | — | The Performance Phase: Self-Monitorin... | 369 |
-| 27 | [[Negative Feedback Control System]] | — | — | The Performance Phase: Self-Monitorin... | 372 |
+| 27 | [[Negative-Feedback-Control-System|Negative Feedback Control System]] | — | — | The Performance Phase: Self-Monitorin... | 372 |
 | 28 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | growth mindset | — | The Performance Phase: Self-Monitorin... | 374 |
-| 29 | [[Adaptive Immunity]] | — | — | The Role of Goal Orientation in Shapi... | 391 |
-| 30 | [[Innate Immunity]] | — | — | The Role of Goal Orientation in Shapi... | 391 |
+| 29 | [[Adaptive-Immunity|Adaptive Immunity]] | — | — | The Role of Goal Orientation in Shapi... | 391 |
+| 30 | [[Innate-Immunity|Innate Immunity]] | — | — | The Role of Goal Orientation in Shapi... | 391 |
 | 31 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | zone of proximal development | — | Direct Implications for Theory and Pr... | 420 |
-| 32 | [[Metacognition and Lifelong Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 497 |
+| 32 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 497 |
 | 33 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 497 |
-| 34 | [[Growth Mindset and Implicit Theories of Intelligence]] | — | — | Phase VII: PKB Connections & Cross-Re... | 499 |
+| 34 | [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] | — | — | Phase VII: PKB Connections & Cross-Re... | 499 |
 | 35 | [[Goal-Setting Theory — Locke and Latham]] | — | — | Phase VII: PKB Connections & Cross-Re... | 501 |
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 503 |
-| 37 | [[Executive Function]] | — | — | Phase VII: PKB Connections & Cross-Re... | 505 |
+| 37 | [[Executive-Function|Executive Function]] | — | — | Phase VII: PKB Connections & Cross-Re... | 505 |
 | 38 | [[Deliberate Practice — Ericsson]] | — | — | Phase VII: PKB Connections & Cross-Re... | 507 |
 | 39 | [[Metacognitive Monitoring Accuracy and Calibration]] | — | — | D. Expansion Topics | 603 |
 | 40 | [[SRL in Digital and AI-Enhanced Learning Environments]] | — | — | D. Expansion Topics | 606 |
@@ -617,35 +617,35 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Adaptive Immunity]]
+- [[Adaptive-Immunity|Adaptive Immunity]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Carol Dweck]]
+- [[Carol-Dweck|Carol Dweck]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and SRL — The Resource Competition Model]]
 - [[Deliberate Practice — Ericsson]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-- [[Focused Analysis Report Generator v1.0]]
+- [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Forethought-Phase|Forethought Phase]]
-- [[General Intelligence]]
+- [[General-Intelligence|General Intelligence]]
 - [[Goal-Orientation|Goal Orientation]]
 - [[Goal Orientation Theory — Achievement Goals in Depth]]
 - [[Goal-Setting Theory — Locke and Latham]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Growth Mindset and Implicit Theories of Intelligence]]
-- [[Innate Immunity]]
-- [[Learning Theory — Foundational Report]]
+- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
+- [[Innate-Immunity|Innate Immunity]]
+- [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]
 - [[MSLQ]]
-- [[Metacognition and Lifelong Learning]]
-- [[Metacognition — Foundational Concepts]]
-- [[Metacognitive Experiences]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]
+- [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Monitoring Accuracy and Calibration]]
-- [[Motivational Regulation]]
-- [[Negative Feedback Control System]]
+- [[Motivational-Regulation|Motivational Regulation]]
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
 - [[PKB]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich|Paul Pintrich]]
 - [[Performance-Phase|Performance Phase]]
 - [[Philip Winne]]
 - [[SRL Intervention Design — Evidence-Based Principles]]
@@ -655,7 +655,7 @@ extraction_summary:
 - [[Self-Monitoring]]
 - [[Self-Reflection-Phase|Self-Reflection Phase]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Task Value]]
+- [[Task-Value|Task Value]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
@@ -663,14 +663,14 @@ extraction_summary:
 #### Prerequisites
 
 - [[Basic Learning Theory]]
-- [[Metacognition — Foundational Concepts]]
+- [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]
 
 #### Related
 
-- [[Metacognition and Lifelong Learning]]
-- [[Growth Mindset and Implicit Theories of Intelligence]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[Goal-Setting Theory — Locke and Latham]]
 
 #### Broader
@@ -703,8 +703,8 @@ extraction_summary:
 
 #### Builds On
 
-- [[Metacognition — Foundational Concepts]]
-- [[Social Cognitive Theory — Bandura]]
+- [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]
+- [[Social-Cognitive-Theory-—-Bandura|Social Cognitive Theory — Bandura]]
 
 #### Enables
 

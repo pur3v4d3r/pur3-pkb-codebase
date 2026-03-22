@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -69,17 +69,25 @@ see-also:
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[relatedness]]"
+  - "[[Autonomy]]"
+  - "[[Competence]]"
+  - "[[Relatedness]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[autonomy|autonomy]]"
-  - "[[competence|competence]]"
-  - "[[relatedness|relatedness]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Autonomy|autonomy]]"
+  - "[[Competence|competence]]"
+  - "[[Relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -151,7 +159,7 @@ importance: high
 > The literature on motivation uses "intrinsic" in two distinct ways that are often conflated. In OIT terms, intrinsic motivation describes the *process* of engaging in an activity for its own inherent interest and satisfaction — the motivation is self-generated rather than regulated by external contingencies. In GCT terms, intrinsic goal *content* describes the *object* of aspiration — what the goal aims at. A person can pursue a goal with deeply intrinsic motivation (driven entirely from within, not by external pressure) and yet be pursuing extrinsic goal content — for instance, the person who genuinely, passionately, and freely wants fame or wealth, with no external coercion whatsoever. Kasser and Ryan's key theoretical move is to claim that *even* this genuinely intrinsically-motivated pursuit of extrinsic content will, over time, tend to undermine well-being. This is a strong claim that most readers find surprising, and it separates GCT from simpler versions of motivation theory.
 
 > [!analytical-insight] Key Insight *(from goal-contents-theory-focused-analysis-2026-03-13.md)*
-> GCT does not claim that financial success, fame, or appearance are inherently damaging goals. Rather, the prediction concerns the *relative priority* a person places on intrinsic versus extrinsic goal content within their overall aspirational profile. A person who has high aspirations for both intrinsic and extrinsic goals may be less affected than one whose aspirational hierarchy is dominated by extrinsic content at the expense of intrinsic content. This is why the primary measurement instrument — the [[Aspiration Index]] — asks participants to rate the importance of goal domains *relative* to other domains, and analysts focus on the ratio or contrast between intrinsic and extrinsic endorsement.
+> GCT does not claim that financial success, fame, or appearance are inherently damaging goals. Rather, the prediction concerns the *relative priority* a person places on intrinsic versus extrinsic goal content within their overall aspirational profile. A person who has high aspirations for both intrinsic and extrinsic goals may be less affected than one whose aspirational hierarchy is dominated by extrinsic content at the expense of intrinsic content. This is why the primary measurement instrument — the [[Aspiration-Index]] — asks participants to rate the importance of goal domains *relative* to other domains, and analysts focus on the ratio or contrast between intrinsic and extrinsic endorsement.
 
 
 
@@ -203,16 +211,16 @@ importance: high
 - [[Attachment-Theory|Attachment Theory]]
 
 **Related concepts:**
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]]
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, goal-contents-theory-focused-analysis-2026-03-13.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[self-efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Self-Efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 **Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
 - [[Attachment-Theory|Attachment Theory]]
 
 **Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
-- [[hedonic-adaptation|hedonic adaptation]]
+- [[Hedonic-Adaptation|hedonic adaptation]]
 
 **Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -220,6 +228,26 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Growth-Mindset|Growth Mindset]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, goal-contents-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Autonomy-Support-in-Education|Autonomy Support in Education]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+- [[Hedonic-Adaptation|hedonic adaptation]]
+
+**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Growth-Mindset|Growth Mindset]]
+
+
+
+
 
 
 

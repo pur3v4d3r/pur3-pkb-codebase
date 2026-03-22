@@ -417,7 +417,7 @@ extraction_summary:
 - [[connectivity]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Dual-Coding-Theory|dual-coding theory]]
-- [[elaboration]]
+- [[Elaboration]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|extended mind theory]]
 - [[information asymmetry]]
 - [[institutional conservatism]]
@@ -445,7 +445,7 @@ extraction_summary:
 | 9 | [[Niklas Luhmann]] | — | — | 2.0 🧭 Historical Context & Foundation... | 62 |
 | 10 | [[atomicity]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
 | 11 | [[connectivity]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
-| 12 | [[elaboration]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
+| 12 | [[Elaboration]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
 | 13 | [[Dual-Coding-Theory|dual-coding theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
 | 14 | [[spreading activation theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
 | 15 | [[Desirable-Difficulties|desirable difficulties]] | — | — | 2.0 🧭 Historical Context & Foundation... | 68 |
@@ -554,7 +554,7 @@ I'll create a comprehensive academic article on the research project lifecycle w
 - [[connectivity]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Dual-Coding-Theory|dual-coding theory]]
-- [[elaboration]]
+- [[Elaboration]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|extended mind theory]]
 - [[information asymmetry]]
 - [[institutional conservatism]]

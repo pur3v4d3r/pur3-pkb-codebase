@@ -96,13 +96,13 @@ key-distinctions:
   - Feed-back (past performance) vs. feed-forward (future action)
 prerequisites:
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-  - "[[Metacognition & Motivation]]"
-  - "[[Critical Thinking in Education]]"
+  - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
+  - "[[Critical-Thinking-in-Education|Critical Thinking in Education]]"
   - "[[Schema-Theory|Schema Theory]]"
 related:
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-  - "[[Metacognition & Motivation]]"
-  - "[[Metacognition & Lifelong Learning]]"
+  - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
+  - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Goal Orientation Theory]]"
@@ -119,23 +119,23 @@ narrower:
   - "[[Portfolio Assessment]]"
   - "[[Feedback Timing and Mode]]"
 see-also:
-  - "[[Metacognition & Critical Thinking]]"
+  - "[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]"
   - "[[Inquiry-Based Learning Design]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
 contrasts-with:
-  - "[[Summative Assessment]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
   - "[[Behaviorist Reinforcement Schedules]]"
   - "[[Ego-Involving-Feedback|Ego-Involving Feedback]]"
 applied-in:
   - "[[Classroom Instruction]]"
   - "[[Coaching and Mentoring]]"
-  - "[[Online Learning Design]]"
+  - "[[Online-Learning-Design|Online Learning Design]]"
   - "[[Corporate Training]]"
   - "[[Writing Instruction]]"
 builds-on:
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-  - "[[Metacognition & Motivation]]"
+  - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
   - "[[Schema-Theory|Schema Theory]]"
 enables:
   - "[[Inquiry-Based Learning Design]]"
@@ -193,7 +193,7 @@ mastery-stage: budding
 importance: high
 foundational-for-future-learning: true
 source: claude-sonnet-4-6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
 generation-date: 2026-03-10
 ---
 
@@ -209,9 +209,9 @@ This example, which echoes decades of controlled research into feedback and moti
 
 ### Scope
 
-This report establishes the foundational intellectual architecture for understanding [[Feedback-Design|Feedback Design]] in service of two intertwined outcomes: **autonomy** — the learner's developing sense of agency over their own learning process — and **mastery** — the progressive deepening of competence in a domain. The report synthesises four converging bodies of scholarship: [[Hattie & Timperley Feedback Model|the Hattie-Timperley feedback level model]], [[Self-Determination-Theory|Self-Determination Theory (SDT)]], [[Growth Mindset|growth mindset research]], and the [[Formative-Assessment|formative assessment tradition]] of [[Black & Wiliam]]. Drawing on [[Attribution-Theory|Attribution Theory]] as a bridging framework, the report moves from conceptual foundations through theoretical landscape and operational mechanisms to specific, actionable design principles.
+This report establishes the foundational intellectual architecture for understanding [[Feedback-Design|Feedback Design]] in service of two intertwined outcomes: **autonomy** — the learner's developing sense of agency over their own learning process — and **mastery** — the progressive deepening of competence in a domain. The report synthesises four converging bodies of scholarship: [[Hattie-&-Timperley-Feedback-Model|the Hattie-Timperley feedback level model]], [[Self-Determination-Theory|Self-Determination Theory (SDT)]], [[Growth-Mindset|growth mindset research]], and the [[Formative-Assessment|formative assessment tradition]] of [[Black-&-Wiliam|Black & Wiliam]]. Drawing on [[Attribution-Theory|Attribution Theory]] as a bridging framework, the report moves from conceptual foundations through theoretical landscape and operational mechanisms to specific, actionable design principles.
 
-What this report does not cover in depth: the administrative and institutional dimensions of grading systems (though it acknowledges their influence), the full scope of [[Summative Assessment]] design, and the emerging literature on AI-generated feedback — though the principles developed here have direct application to automated feedback systems.
+What this report does not cover in depth: the administrative and institutional dimensions of grading systems (though it acknowledges their influence), the full scope of [[Summative-Assessment|Summative Assessment]] design, and the emerging literature on AI-generated feedback — though the principles developed here have direct application to automated feedback systems.
 
 ### Why This Matters
 
@@ -246,7 +246,7 @@ This definition is important because it narrows the concept in two consequential
 > In the technical vocabulary of [[Self-Determination-Theory|Self-Determination Theory]], autonomy does not mean independence or doing whatever one wishes. It means experiencing one's actions as *self-endorsed* — as emanating from one's own values and interests rather than from external compulsion or internal pressure generated by anxiety and guilt. An autonomous learner following a prescribed curriculum can be highly autonomous if they have internalised the value of the work; a learner choosing their own topic can be heteronomous if they are choosing only out of social pressure. Autonomy, in SDT, is fundamentally about the *locus of causality* that a person experiences relative to their actions.
 
 > [!definition] **Mastery (Achievement Goal Theory, Growth Mindset Research)**
-> A mastery orientation toward learning means that the individual's primary reference point for success is *self-improvement and task understanding*, rather than normative comparison with peers. Mastery is not the same as performance; it is possible to achieve high performance without mastery orientation (e.g., through cramming) and to be mastery-oriented without currently performing well. [[Carole Ames]] established the term "mastery goals" in contrast to "performance goals" in her 1992 framework; [[Carol Dweck]]'s parallel work distinguished "learning goals" from "performance goals." A mastery orientation is associated with deeper processing, greater persistence, and more adaptive responses to difficulty.
+> A mastery orientation toward learning means that the individual's primary reference point for success is *self-improvement and task understanding*, rather than normative comparison with peers. Mastery is not the same as performance; it is possible to achieve high performance without mastery orientation (e.g., through cramming) and to be mastery-oriented without currently performing well. [[Carole-Ames|Carole Ames]] established the term "mastery goals" in contrast to "performance goals" in her 1992 framework; [[Carol-Dweck|Carol Dweck]]'s parallel work distinguished "learning goals" from "performance goals." A mastery orientation is associated with deeper processing, greater persistence, and more adaptive responses to difficulty.
 
 > [!definition] **Intrinsic Motivation (Deci & Ryan)**
 > The motivation to engage in an activity for its inherent interest and enjoyment, rather than for separable external rewards or to avoid punishment. Intrinsically motivated learners are characterised by spontaneous curiosity, willingness to take on challenges, and sustained engagement. SDT posits that intrinsic motivation is neither rare nor fragile by nature — it is the natural state of healthy psychological functioning — but it is highly sensitive to the social conditions in which learning occurs, including, critically, the design and delivery of feedback.
@@ -255,7 +255,7 @@ This definition is important because it narrows the concept in two consequential
 
 Before proceeding to theoretical frameworks, three definitional distinctions deserve emphasis because confusing them produces systematic errors in practice.
 
-The first is the distinction between [[Summative Assessment|summative]] and formative feedback. Summative feedback arrives after a learning episode has concluded and its primary function is reporting or certifying; it cannot, by definition, close a learning gap that no longer exists. Formative feedback arrives *during* the learning process when the gap can still be closed. Much feedback labelled as "formative" in practice functions summatively because it arrives too late for the learner to act upon it.
+The first is the distinction between [[Summative-Assessment|summative]] and formative feedback. Summative feedback arrives after a learning episode has concluded and its primary function is reporting or certifying; it cannot, by definition, close a learning gap that no longer exists. Formative feedback arrives *during* the learning process when the gap can still be closed. Much feedback labelled as "formative" in practice functions summatively because it arrives too late for the learner to act upon it.
 
 > [!key-claim] The Timing Principle
 > Feedback is only formative insofar as the learner has time, capacity, and opportunity to act on it. The same information delivered a week after a task closes compared with a day before a revision opportunity is structurally different in its learning function, regardless of its content.
@@ -275,7 +275,7 @@ The third distinction is between feedback that targets the *learner as a person*
 
 ### The Hattie–Timperley Four-Level Model
 
-[[John Hattie]] and [[Helen Timperley]]'s 2007 synthesis, published in *Review of Educational Research*, represents the most influential contemporary theoretical architecture for understanding feedback. Drawing on Hattie's earlier meta-analyses of educational interventions — eventually consolidated in *Visible Learning* (2009) — Timperley and Hattie analysed not just whether feedback works but *what kinds* of feedback work, and why.
+[[John-Hattie|John Hattie]] and [[Helen Timperley]]'s 2007 synthesis, published in *Review of Educational Research*, represents the most influential contemporary theoretical architecture for understanding feedback. Drawing on Hattie's earlier meta-analyses of educational interventions — eventually consolidated in *Visible Learning* (2009) — Timperley and Hattie analysed not just whether feedback works but *what kinds* of feedback work, and why.
 
 Their central contribution is a taxonomy of four distinct levels at which feedback can operate:
 
@@ -284,7 +284,7 @@ Their central contribution is a taxonomy of four distinct levels at which feedba
 >
 > **Level 2 — Process Level (FP)**: Feedback about the processes or strategies used to complete the task — the *how* of performance. ("You've used the evidence well here, but the conclusion doesn't follow from the premises you've assembled — try working backward from what you want to prove.") Particularly powerful for developing deep understanding and transferable strategies.
 >
-> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated Learning|self-regulated learners]].
+> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated-Learning|self-regulated learners]].
 >
 > **Level 4 — Self Level (FS)**: Feedback directed at the *person* — personal evaluations and affect about the learner. ("You're so clever," "I'm proud of you," "What a disappointment.") While such feedback is common, it contains minimal actionable information and, crucially, can be actively harmful to motivation and learning orientation when it triggers ego-evaluation processes.
 
@@ -292,7 +292,7 @@ The crucial evaluative insight of the model is that Levels 2 and 3 are most powe
 
 ### Self-Determination Theory and the Autonomy–Competence Nexus
 
-[[Edward Deci]] and [[Richard Ryan]]'s [[Self-Determination-Theory|Self-Determination Theory]], developed across four decades of empirical research, provides the motivational architecture within which feedback effects must be understood. SDT posits three universal basic psychological needs whose satisfaction is necessary for psychological growth, integrity, and wellbeing:
+[[Edward-Deci|Edward Deci]] and [[Richard-Ryan|Richard Ryan]]'s [[Self-Determination-Theory|Self-Determination Theory]], developed across four decades of empirical research, provides the motivational architecture within which feedback effects must be understood. SDT posits three universal basic psychological needs whose satisfaction is necessary for psychological growth, integrity, and wellbeing:
 
 > [!definition] **Basic Psychological Needs (Deci & Ryan, 2000)**
 > **Autonomy**: The need to experience one's actions as self-determined, volitional, and self-endorsed rather than controlled by external forces or internal compulsion. **Competence**: The need to feel effective in one's interactions with the environment — to experience growth and mastery. **Relatedness**: The need to feel connected to and cared for by significant others. SDT's core claim is that social environments (including educational ones) that support all three needs will tend to produce intrinsically motivated, fully functioning individuals; environments that thwart them will produce controlled, amotivated, or passively compliant learners.
@@ -302,11 +302,11 @@ Feedback intersects with SDT at two nodes. First, feedback is a primary mechanis
 > [!key-claim] The Informational vs. Controlling Distinction
 > Feedback that is experienced as *informational* — providing relevant performance data without implying evaluative pressure — tends to support intrinsic motivation. Feedback experienced as *controlling* — implying that the learner must perform in a particular way to receive approval, avoid punishment, or maintain a self-image — tends to undermine intrinsic motivation. This distinction is partially about content but substantially about *tone, framing, and relational context*.
 
-[[Avi Assor]], [[Guy Roth]], and their colleagues have further elaborated the concept of *autonomy-supportive* versus *controlling* teaching, distinguishing behaviours that acknowledge learner perspective and foster self-initiation from those that impose demands and suppress voice. Their research confirms that students whose teachers are perceived as autonomy-supportive report higher intrinsic motivation, more conceptual learning, and greater psychological wellbeing — effects that hold across cultures and age groups.
+[[Avi-Assor|Avi Assor]], [[Guy Roth]], and their colleagues have further elaborated the concept of *autonomy-supportive* versus *controlling* teaching, distinguishing behaviours that acknowledge learner perspective and foster self-initiation from those that impose demands and suppress voice. Their research confirms that students whose teachers are perceived as autonomy-supportive report higher intrinsic motivation, more conceptual learning, and greater psychological wellbeing — effects that hold across cultures and age groups.
 
 ### Growth Mindset Theory: Attribution and Identity
 
-[[Carol Dweck]]'s research programme, initiated in the 1970s and synthesised in *Mindset* (2006), provides the third theoretical pillar. At its core, Dweck distinguishes two implicit theories of ability that people hold:
+[[Carol-Dweck|Carol Dweck]]'s research programme, initiated in the 1970s and synthesised in *Mindset* (2006), provides the third theoretical pillar. At its core, Dweck distinguishes two implicit theories of ability that people hold:
 
 > [!definition] **Entity Theory (Fixed Mindset)**
 > The belief that ability is a fixed, stable trait — something one either has or does not have in a given domain. Under entity theory, performance outcomes are treated as *diagnostic* of underlying ability. Failure reveals low ability; success confirms high ability. The rational response to this belief system is to protect one's self-image by avoiding challenges and seeking easy wins. Entity theorists tend to experience criticism and difficulty as threats to identity rather than information about performance.
@@ -316,21 +316,21 @@ Feedback intersects with SDT at two nodes. First, feedback is a primary mechanis
 
 The connection to feedback design is direct and empirically robust: the same feedback event will be processed differently depending on the recipient's implicit theory of ability. Feedback delivered in ways that implicitly affirm a fixed theory of ability ("You're naturally talented at this") tends to reinforce entity orientation and its maladaptive motivational consequences. Feedback delivered in ways that attribute outcomes to malleable factors ("Your revision strategy this time was much more systematic — that's what produced the improvement") tends to reinforce incremental orientation.
 
-[[Claudia Mueller]] and [[Carol Dweck]]'s 1998 experimental series, in which children were randomly assigned to receive either person praise ("You must be smart at this") or process praise ("You must have worked really hard at this") after a successful performance, documented the causal consequences with striking clarity. After identical initial success, children receiving person praise subsequently chose easier tasks over challenging ones, reported less enjoyment, and persisted less when faced with difficulty — effects completely absent in the process-praise group. The manipulation was a single sentence.
+[[Claudia-Mueller|Claudia Mueller]] and [[Carol-Dweck|Carol Dweck]]'s 1998 experimental series, in which children were randomly assigned to receive either person praise ("You must be smart at this") or process praise ("You must have worked really hard at this") after a successful performance, documented the causal consequences with striking clarity. After identical initial success, children receiving person praise subsequently chose easier tasks over challenging ones, reported less enjoyment, and persisted less when faced with difficulty — effects completely absent in the process-praise group. The manipulation was a single sentence.
 
 > [!evidence] Mueller & Dweck (1998) — The Praise Experiment
 > Across six studies, fifth-grade children who received person praise ("You must be smart") after an initial success subsequently showed decreased performance on harder problems, rated the tasks as less enjoyable, and were less likely to want to take the hard version in a future session, relative to children who received process praise ("You must have worked hard"). This finding has been replicated in multiple cultural contexts and provides one of the most methodologically clean demonstrations of feedback-content effects on motivation in the literature.
 
 ### Attribution Theory: The Causal Landscape
 
-[[Bernard Weiner]]'s [[Attribution-Theory|Attribution Theory]], developed through the 1970s and 1980s, provides a complementary framework that illuminates *why* the person/process feedback distinction has motivational consequences. Weiner proposed that individuals attribute their outcomes — successes and failures — to causes that can be classified along three dimensions: *locus* (internal vs. external), *stability* (stable vs. unstable), and *controllability* (controllable vs. uncontrollable).
+[[Bernard-Weiner|Bernard Weiner]]'s [[Attribution-Theory|Attribution Theory]], developed through the 1970s and 1980s, provides a complementary framework that illuminates *why* the person/process feedback distinction has motivational consequences. Weiner proposed that individuals attribute their outcomes — successes and failures — to causes that can be classified along three dimensions: *locus* (internal vs. external), *stability* (stable vs. unstable), and *controllability* (controllable vs. uncontrollable).
 
 > [!key-claim] Attribution Dimensions and Their Motivational Consequences
 > The motivationally critical dimension is *controllability*. Attribution of failure to an uncontrollable, stable factor (low ability: internal, stable, uncontrollable) produces helplessness, expectation of future failure, and affective shame. Attribution of failure to a controllable, unstable factor (insufficient effort or ineffective strategy: internal, unstable, controllable) preserves expectancy of success and produces guilt or determination — both more adaptive motivational states. Feedback that explicitly orients learners toward controllable causal attributions (strategies, effort allocation, preparation) effectively performs *attribution retraining* — shifting learners from helplessness-inducing to agency-preserving causal narratives.
 
 ### The Formative Assessment Tradition: Closing the Gap
 
-[[Black & Wiliam]]'s 1998 review — often cited as a landmark — synthesised evidence indicating that improving formative assessment practice could produce learning gains of 0.4 to 0.7 standard deviations, an effect size large enough to raise low-achieving students to the level of average-achieving students when applied systematically. Their framework, subsequently elaborated as the [[Assessment for Learning]] movement, centres on a simple but powerful model: learning occurs when there is a gap between where the learner is and where they need to be, and feedback is the mechanism through which that gap becomes visible and closeable to the learner.
+[[Black-&-Wiliam|Black & Wiliam]]'s 1998 review — often cited as a landmark — synthesised evidence indicating that improving formative assessment practice could produce learning gains of 0.4 to 0.7 standard deviations, an effect size large enough to raise low-achieving students to the level of average-achieving students when applied systematically. Their framework, subsequently elaborated as the [[Assessment for Learning]] movement, centres on a simple but powerful model: learning occurs when there is a gap between where the learner is and where they need to be, and feedback is the mechanism through which that gap becomes visible and closeable to the learner.
 
 > [!key-claim] The Gap Model of Formative Assessment
 > Black & Wiliam's core claim: effective formative feedback must accomplish three things simultaneously. It must make the *goal* clear enough to the learner that they can locate themselves relative to it. It must convey *current status* with sufficient precision that the learner understands what specifically they need to develop. And it must suggest or scaffold a *route to close the gap* — a specific next action or set of actions. Feedback that is accurate about current status but provides no pathway forward may be honest but is not formative.
@@ -489,15 +489,15 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> This report on [[Feedback Design for Autonomy and Mastery]] connects to existing knowledge in your PKB across multiple nodes and levels of analysis:
+> This report on [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] connects to existing knowledge in your PKB across multiple nodes and levels of analysis:
 >
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — The growth mindset report provides the full theoretical genealogy of incremental vs. entity theory and the Mueller-Dweck experimental programme. The present report takes that foundation and translates it directly into feedback language architecture: how to embed incremental-theory attributions into the specific linguistic choices of everyday feedback. The two reports are complementary: Growth Mindset establishes *why* attribution language matters; Feedback Design establishes *how* to engineer it.
 >
-> - **[[Metacognition & Motivation]]** — The metacognition-motivation nexus report addresses the interaction between self-awareness processes and motivational states. The self-regulation level of Hattie-Timperley's framework is the direct instructional intervention for cultivating the metacognitive monitoring capacity that the M&M report analyses at the psychological level. Feedback at Level 3 is, in effect, *deployed metacognition* — externalising the monitoring process that, once internalised, constitutes the learner's self-regulatory capacity.
+> - **[[Metacognition-&-Motivation|Metacognition & Motivation]]** — The metacognition-motivation nexus report addresses the interaction between self-awareness processes and motivational states. The self-regulation level of Hattie-Timperley's framework is the direct instructional intervention for cultivating the metacognitive monitoring capacity that the M&M report analyses at the psychological level. Feedback at Level 3 is, in effect, *deployed metacognition* — externalising the monitoring process that, once internalised, constitutes the learner's self-regulatory capacity.
 >
-> - **[[Metacognition & Lifelong Learning]]** — Self-regulated learning and lifelong learning share the same developmental endpoint: the capacity to identify one's own learning needs, select strategies, monitor progress, and adjust — without external prompting. Autonomy-supportive feedback design is the *instructional infrastructure* through which that capacity is built. A reader of the Metacognition & Lifelong Learning report who wishes to understand the *pedagogical means* of cultivating that capacity will find it in the present report.
+> - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Self-regulated learning and lifelong learning share the same developmental endpoint: the capacity to identify one's own learning needs, select strategies, monitor progress, and adjust — without external prompting. Autonomy-supportive feedback design is the *instructional infrastructure* through which that capacity is built. A reader of the Metacognition & Lifelong Learning report who wishes to understand the *pedagogical means* of cultivating that capacity will find it in the present report.
 >
-> - **[[Critical Thinking in Education]]** — Critical thinking development depends substantially on learners receiving feedback on the quality of their *reasoning processes* — not just their conclusions. The process-level feedback orientation developed here is directly applicable to critical thinking instruction: feedback that names specific reasoning moves, identifies where inference chains break down, and attributes reasoning quality to controllable strategies (rather than innate critical thinking ability) is the operational form of CT-developmental feedback.
+> - **[[Critical-Thinking-in-Education|Critical Thinking in Education]]** — Critical thinking development depends substantially on learners receiving feedback on the quality of their *reasoning processes* — not just their conclusions. The process-level feedback orientation developed here is directly applicable to critical thinking instruction: feedback that names specific reasoning moves, identifies where inference chains break down, and attributes reasoning quality to controllable strategies (rather than innate critical thinking ability) is the operational form of CT-developmental feedback.
 >
 > - **[[Schema-Theory|Schema Theory]]** — Schema theory explains how knowledge is structured and how existing schemas constrain assimilation of new information. Task-level feedback that is pitched beyond the learner's current schema will not be meaningfully processed; it will either be rejected or distorted to fit existing structures. This provides a theoretical basis for the feedback dosage and timing principles: feedback is only processable when it maps onto existing schema structures sufficiently to be integrated. Novice-to-expert development is, in part, a story of developing the schemas necessary to make increasingly sophisticated feedback actionable.
 >
@@ -592,7 +592,7 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 > > An operational guide to designing formative assessment sequences that generate actionable feedback in real time. Would cover exit ticket design, diagnostic questioning protocols, pre-assessment for schema activation, peer assessment scaffolding, comment-only marking, and the evidence base for each. Extends the Black-Wiliam tradition into the specific design decisions that practitioners face. A natural sequel to this report for anyone whose primary interest is in assessment practice rather than the motivational psychology underlying it. Priority: High.
 
 > > [!topic-idea] [[Cognitive-Load-Theory|Cognitive Load Theory]]
-> > [[John Sweller]]'s theory of working memory constraints and their instructional implications provides the processing architecture within which feedback must operate. Feedback that is perfectly calibrated to motivational and attribution principles can still fail if it overloads working memory — if it presents too many corrective dimensions simultaneously, or if it requires processing resources that compete with task performance. A Cognitive Load Theory report would complete the picture of the cognitive infrastructure for feedback reception. Priority: High.
+> > [[John-Sweller|John Sweller]]'s theory of working memory constraints and their instructional implications provides the processing architecture within which feedback must operate. Feedback that is perfectly calibrated to motivational and attribution principles can still fail if it overloads working memory — if it presents too many corrective dimensions simultaneously, or if it requires processing resources that compete with task performance. A Cognitive Load Theory report would complete the picture of the cognitive infrastructure for feedback reception. Priority: High.
 
 > > [!topic-idea] [[Goal Orientation Theory]]
 > > Full treatment of [[Elliot & McGregor]]'s 2 × 2 achievement goal framework — distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance orientations — and its implications for how learners process feedback. A performance-avoidance oriented learner receives even well-designed process feedback as a threat; a mastery-approach oriented learner processes the same feedback as valuable data. Understanding goal orientation allows practitioners to calibrate feedback not just to content and level but to the motivational stance of the recipient. Priority: High.
@@ -601,7 +601,7 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 > > The theoretical rationale and evidence base for structured peer feedback as a mechanism for scaling process-level commentary and developing evaluative vocabulary. Covers [[Topping]]'s peer assessment literature, the design of structured peer feedback protocols, conditions under which peer feedback is effective versus harmful, and the relationship between giving peer feedback and developing one's own self-assessment capacity. Addresses a practical scalability concern with individualised teacher feedback. Priority: Medium.
 
 > > [!topic-idea] [[Attribution Theory in Education]]
-> > Full treatment of Weiner's attribution theory and its educational applications, including the learned helplessness literature ([[Seligman]], [[Abramson et al.]]), [[Carol Dweck]]'s early attribution retraining research, and contemporary applications to [[Academic Help-Seeking]] and response to challenge. This report used attribution theory as a bridging framework; a standalone report would develop it with full depth. Priority: Medium.
+> > Full treatment of Weiner's attribution theory and its educational applications, including the learned helplessness literature ([[Seligman]], [[Abramson et al.]]), [[Carol-Dweck|Carol Dweck]]'s early attribution retraining research, and contemporary applications to [[Academic Help-Seeking]] and response to challenge. This report used attribution theory as a bridging framework; a standalone report would develop it with full depth. Priority: Medium.
 
 > > [!topic-idea] [[Writing Instruction and Feedback Design]]
 > > Applied synthesis of feedback design principles for writing instruction specifically — the domain in which the largest body of practical feedback research exists and in which feedback at the process level is most readily operationalised. Would cover response to drafts, commenting strategies, revision scaffolding, portfolio writing assessment, and the specific application of process praise and attribution retraining in writing development contexts. Priority: Medium.

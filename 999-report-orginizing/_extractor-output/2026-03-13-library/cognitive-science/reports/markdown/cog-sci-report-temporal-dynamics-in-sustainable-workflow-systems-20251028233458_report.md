@@ -345,7 +345,7 @@ extraction_summary:
 >   - *What was the most* **surprising or counter-intuitive** *concept presented?* **Why**?
 >       - The most counter-intuitive concept is likely that **"rest" is not "not working"; it is the *most productive* part of the work cycle.** In our culture, "recovery" is seen as a luxury or a sign of weakness. This article reframes it as the *biological mechanism of growth*. The "90-minute sprint" *creates* the *potential* for growth. The "20-minute rest" *actualizes* that growth. This shifts "taking a walk" from "slacking off" to "a critical phase of memory consolidation and metabolic clean-up."
 >   - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->       - [[Deliberate Practice]]: This article connected strongly with my understanding of [[Deliberate Practice]] from K. Anders Ericsson. It challenged the "10,000-hour" misinterpretation of his rule, which implies a simple accumulation of time. This article reframes it *temporally*, showing that *how* those hours are structured (in 90-minute blocks, aligned with circadian peaks) is the *actual* mechanism that makes the practice "deliberate" and effective. It's not 10,000 hours; it's \~4,000 *periodized, ultradian-aligned* hours.
+>       - [[Deliberate-Practice|Deliberate Practice]]: This article connected strongly with my understanding of [[Deliberate-Practice|Deliberate Practice]] from K. Anders Ericsson. It challenged the "10,000-hour" misinterpretation of his rule, which implies a simple accumulation of time. This article reframes it *temporally*, showing that *how* those hours are structured (in 90-minute blocks, aligned with circadian peaks) is the *actual* mechanism that makes the practice "deliberate" and effective. It's not 10,000 hours; it's \~4,000 *periodized, ultradian-aligned* hours.
 
 #### 28. [QUOTE] Untitled *(Line 368)*
 
@@ -391,7 +391,7 @@ extraction_summary:
 - [[Athletic Training Science]]
 - [[Cognitive Performance Research]]
 - [[Cognitive Periodization]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Longitudinal Expertise Studies]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Temporal Architecture]]
@@ -407,8 +407,8 @@ extraction_summary:
 | 4 | [[Cognitive Performance Research]] | — | — | 5.0 🔬 Observational Evidence | 261 |
 | 5 | [[Longitudinal Expertise Studies]] | — | — | 5.0 🔬 Observational Evidence | 263 |
 | 6 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6.1 From Depletion to Generation | 291 |
-| 7 | [[Deliberate Practice]] | — | — | 9.0 🧠 Key Questions | 366 |
-| 8 | [[Deliberate Practice]] | — | — | 9.0 🧠 Key Questions | 366 |
+| 7 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 9.0 🧠 Key Questions | 366 |
+| 8 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 9.0 🧠 Key Questions | 366 |
 | 9 | [[Temporal Architecture]] | — | — | 9.0 🧠 Key Questions | 382 |
 | 10 | [[Cognitive Periodization]] | — | — | 9.0 🧠 Key Questions | 384 |
 | 11 | [[Allostatic Overload]] | — | — | 9.0 🧠 Key Questions | 386 |
@@ -478,7 +478,7 @@ graph TD
 - [[Athletic Training Science]]
 - [[Cognitive Performance Research]]
 - [[Cognitive Periodization]]
-- [[Deliberate Practice]]
+- [[Deliberate-Practice|Deliberate Practice]]
 - [[Longitudinal Expertise Studies]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Temporal Architecture]]

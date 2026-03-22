@@ -5,6 +5,7 @@
 title: "Warranted Assertibility"
 aliases:
   - "Warranted Assertibility"
+  - "warranted-assertibility"
 type: permanent-note
 status: evergreen
 confidence: high

@@ -253,7 +253,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > - *The principles discussed here* **strongly connect to the field of:**
->     - [[Constructivist Learning Theory]]
+>     - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 >     - **The reason:**
 >         - Constructivist learning theory emphasizes that learners actively construct their understanding and knowledge through experiencing things and reflecting on those experiences—a process that inherently requires metacognitive monitoring and control. Without metacognition, learners cannot evaluate their current understanding, recognize knowledge gaps, or select appropriate strategies for knowledge construction. Metacognition provides the cognitive infrastructure that makes constructivist learning possible.
 
@@ -375,14 +375,14 @@ extraction_summary:
 
 - [[Cartesian separation]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Neuroimaging studies using fMRI and PET]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[phronesis]]
+- [[Phronesis]]
 - [[prefrontal cortex]]
 - [[reflective abstraction]]
 - [[tip-of-the-tongue]]
@@ -391,14 +391,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[John Flavell]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 62 |
-| 2 | [[phronesis]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 64 |
+| 1 | [[John-Flavell|John Flavell]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 62 |
+| 2 | [[Phronesis]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 64 |
 | 3 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 70 |
 | 4 | [[prefrontal cortex]] | — | — | 4.1 NEURAL SUBSTRATES OF METACOGNITIV... | 122 |
 | 5 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 135 |
 | 6 | [[tip-of-the-tongue]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 141 |
 | 7 | [[Neuroimaging studies using fMRI and PET]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 164 |
-| 8 | [[Constructivist Learning Theory]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 195 |
+| 8 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 195 |
 | 9 | [[reflective abstraction]] | — | — | 6.1 METACOGNITION AS THE ENGINE OF CO... | 203 |
 | 10 | [[Cartesian separation]] | — | — | 9.0 🧠 KEY QUESTIONS | 313 |
 | 11 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 9.0 🧠 KEY QUESTIONS | 327 |
@@ -452,14 +452,14 @@ I'll conduct comprehensive research on metacognition and its role as an integrat
 
 - [[Cartesian separation]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
-- [[Constructivist Learning Theory]]
+- [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[John Flavell]]
+- [[John-Flavell|John Flavell]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Neuroimaging studies using fMRI and PET]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[phronesis]]
+- [[Phronesis]]
 - [[prefrontal cortex]]
 - [[reflective abstraction]]
 - [[tip-of-the-tongue]]

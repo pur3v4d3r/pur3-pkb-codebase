@@ -33,7 +33,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -75,6 +75,14 @@ see-also:
   - "[[Long-Term-Memory|Long-Term Memory]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[John-Sweller|John Sweller]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Long-Term-Memory|Long-Term Memory]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Multimedia-Learning|Multimedia Learning]]"
+  - "[[Four-Component-Instructional-Design|Four-Component Instructional Design]]"
+  - "[[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[John-Sweller|John Sweller]]"
   - "[[Working-Memory|Working Memory]]"
@@ -128,7 +136,7 @@ importance: high
 > Studies of the worked example effect have demonstrated its operation in mathematics, physics, geometry, computer programming, chess, and medical diagnosis. The effect is moderated by expertise (see expertise reversal effect) and by the design of the examples themselves — poorly formatted examples that require learners to search for the relevant information reintroduce extraneous load and can eliminate the benefit. Meta-analyses by Sweller et al. (1998) and Atkinson et al. (2000) confirm the…
 
 > [!analytical-insight] Key Insight
-> Effective instruction is instruction that manages the demands placed on [[Working Memory]] such that cognitive resources are available for the processes that lead to [[Schema Theory|schema]] formation and automation in [[Long-Term Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
+> Effective instruction is instruction that manages the demands placed on [[Working-Memory]] such that cognitive resources are available for the processes that lead to [[Schema-Theory|schema]] formation and automation in [[Long-Term-Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
 
 > [!analytical-insight] Key Insight
 > The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both…
@@ -140,7 +148,7 @@ importance: high
 > The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan-Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive-Theory-of-Multimedia-Learning]].
 
 
 
@@ -154,7 +162,7 @@ importance: high
 > (1) **Worked examples first**: For novices, begin with fully worked examples before introducing problem-solving practice. Use self-explanation prompts (ask learners to explain why each step was taken) to enhance schema formation from examples. (2) **Eliminate split attention**: Integrate mutually referring information sources; never require learners to search across separated sources. (3) **Avoid redundancy**: When information can be understood from one source, do not add a second that merely…
 
 > [!warning] **Key Distinction**
-> [[Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation…
+> [[Cognitive-Load-Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation…
 
 
 ## Reflection Prompts
@@ -165,7 +173,7 @@ importance: high
 > [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > 1. Think of a domain where you are a novice versus a domain where you have substantial expertise. How does your working memory experience differ between them when you encounter challenging content? Can you identify what CLT would call "element interactivity" in the novice domain?
 > 2. The distinction between intrinsic and extraneous load implies that some instructional difficulty is structural (inherent to the content) while other difficulty is artificial (a product of poor design). What examples from your own learning history might fall into each category?
-> 3. How does the schema concept connect to your existing understanding from the [[Schema Theory]] node? What does CLT add to schema theory's account that wasn't already there?
+> 3. How does the schema concept connect to your existing understanding from the [[Schema-Theory]] node? What does CLT add to schema theory's account that wasn't already there?
 
 
 ## Connections & Context
@@ -197,6 +205,26 @@ importance: high
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Related concepts** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+[[John-Sweller|John Sweller]] * [[Multimedia-Learning|Multimedia Learning]] * [[Four-Component-Instructional-Design|Four-Component Instructional Design]] * [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] * [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]] * [[Fred-Paas|Fred Paas]] * [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] * [[Element-Interactivity|Element Interactivity]] * [[Worked-Examples|Worked Examples]] * [[Worked-Example-Effect|Worked Example Effect]] * [[Split-Attention-Effect|Split-Attention Effect]] * [[Redundancy-Effect|Redundancy Effect]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]] * [[Sergei-Kalyuga|Sergei Kalyuga]] * [[Richard-Mayer|Richard Mayer]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+
+
 
 
 

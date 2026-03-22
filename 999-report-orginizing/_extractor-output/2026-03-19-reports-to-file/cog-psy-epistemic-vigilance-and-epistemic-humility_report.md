@@ -144,7 +144,7 @@ extraction_summary:
 - [[Metacognitive Monitoring and Confidence Calibration]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Open-Mindedness]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Pragmatics]]
 - [[Relevance Theory]]
 - [[Second-Order Beliefs]]
@@ -158,7 +158,7 @@ extraction_summary:
 - [[Trust in Testimony and Social Epistemology]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Virtue Epistemology and Intellectual Character]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 ### All Occurrences
 
@@ -166,7 +166,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
 | 2 | [[Cognitive-Science|Cognitive Science]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
-| 3 | [[Virtue Ethics]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
+| 3 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
 | 4 | [[Social Psychology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
 | 5 | [[Basic Epistemology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 10 |
 | 6 | [[Cognitive Bias Fundamentals]] | — | — | Epistemic Vigilance and Epistemic Hum... | 10 |
@@ -202,7 +202,7 @@ extraction_summary:
 | 36 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 330 |
 | 37 | [[Socratic-Method|Socratic Method]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
 | 38 | [[Stoic Epistemology]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
-| 39 | [[Paul-Elder Framework]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
+| 39 | [[Paul-Elder-Framework|Paul-Elder Framework]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
 | 40 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
 
 ---
@@ -247,7 +247,7 @@ extraction_summary:
 - [[Metacognitive Monitoring and Confidence Calibration]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Open-Mindedness]]
-- [[Paul-Elder Framework]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Pragmatics]]
 - [[Relevance Theory]]
 - [[Second-Order Beliefs]]
@@ -261,7 +261,7 @@ extraction_summary:
 - [[Trust in Testimony and Social Epistemology]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Virtue Epistemology and Intellectual Character]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics|Virtue Ethics]]
 
 ---
 

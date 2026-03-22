@@ -53,30 +53,30 @@ confidence_markers_used: true
 # SOURCE & ATTRIBUTION
 source: "claude-sonnet-4.5"
 model_version: "claude-sonnet-4-20250514"
-based_on_prompts: ["[[VADER Academic Report Generator v4.0]]"]
-generated_via_workflow: "[[Comprehensive Academic Reference Workflow]]"
+based_on_prompts: ["[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"]
+generated_via_workflow: "[[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]"
 
 # KNOWLEDGE GRAPH INTEGRATION
 related_concepts:
   - "[[Attention]]"
   - "[[Working-Memory|Working Memory]]"
-  - "[[Skill Acquisition]]"
+  - "[[Skill-Acquisition|Skill Acquisition]]"
   - "[[Expertise]]"
-  - "[[Cognitive Control]]"
+  - "[[Cognitive-Control|Cognitive Control]]"
   - "[[Procedural-Memory|Procedural Memory]]"
-  - "[[Instance Theory]]"
-  - "[[Power Law of Practice]]"
+  - "[[Instance-Theory|Instance Theory]]"
+  - "[[Power-Law-of-Practice|Power Law of Practice]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
-  - "[[Neural Plasticity]]"
+  - "[[Neural-Plasticity|Neural Plasticity]]"
 
 prerequisites:
-  - "[[Cognitive Psychology Foundations]]"
-  - "[[Information Processing Theory]]"
+  - "[[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]"
+  - "[[Information-Processing-Theory|Information Processing Theory]]"
   - "[[Memory-Systems|Memory Systems]]"
-  - "[[Attention Theory]]"
+  - "[[Attention-Theory|Attention Theory]]"
 
 builds_on:
-  - "[[Shiffrin and Schneider Two-Process Theory]]"
+  - "[[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]"
   - "[[Logan Instance Theory]]"
   - "[[Anderson ACT-R Framework]]"
 
@@ -101,7 +101,7 @@ aliases:
 
 link_up: "[[Cognitive Psychology MOC]]"
 link_related:
-  - "[[Deliberate Practice]]"
+  - "[[Deliberate-Practice|Deliberate Practice]]"
   - "[[Expertise Development]]"
   - "[[Attentional Resources]]"
   - "[[Neural Efficiency]]"
@@ -166,7 +166,7 @@ The power law extends beyond simple reaction time to encompass accuracy improvem
 
 ### Integration with Production System Architectures
 
-While instance theory provides an elegant account of automaticity through memory mechanisms, [[production system]] architectures like [[ACT-R]] (Anderson, 1982, 1993) offer complementary insights through their focus on procedural knowledge compilation. ACT-R distinguishes between [[declarative knowledge]] (facts and instances) and [[procedural knowledge]] (condition-action rules called productions). Skill acquisition involves three stages:
+While instance theory provides an elegant account of automaticity through memory mechanisms, [[production system]] architectures like [[ACT-R]] (Anderson, 1982, 1993) offer complementary insights through their focus on procedural knowledge compilation. ACT-R distinguishes between [[declarative knowledge]] (facts and instances) and [[Procedural-Knowledge|procedural knowledge]] (condition-action rules called productions). Skill acquisition involves three stages:
 
 [**ACT-R-Skill-Acquisition-Stages**:: (1) Cognitive stage: explicit interpretive application of declarative knowledge; (2) Associative stage: proceduralization through knowledge compilation creating task-specific productions; (3) Autonomous stage: production tuning through parameter refinement and composition of productions into more efficient macro-productions.]
 
@@ -372,7 +372,7 @@ Developing robust automaticity requires **extensive practice** - typically thous
 > [!evidence] Practice Quantity in Skill Domains
 > Empirical estimates of practice requirements vary by domain. Schneider and Fisk (1982) found 1500-2000 consistent mapping trials sufficient for visual search automatization. Logan (1988) reported 500-1000 trials for alphabet arithmetic automatization. Bryan and Harter (1899) documented 10,000+ hours for telegraph operation expertise. Ericsson et al. (1993) estimated 10,000+ hours for expert musical performance. These variations reflect task complexity, consistency, and performance criterion.
 
-However, practice quantity alone proves insufficient - **practice quality** critically determines automatization effectiveness. Ericsson et al.'s (1993) concept of [[deliberate practice]] emphasizes that automaticity develops most efficiently when practice maintains focused attention, targets specific skill components, includes immediate feedback, and operates slightly beyond current competence level. Mindless repetition produces minimal learning; engaged, error-correcting practice drives automatization.
+However, practice quantity alone proves insufficient - **practice quality** critically determines automatization effectiveness. Ericsson et al.'s (1993) concept of [[Deliberate-Practice|deliberate practice]] emphasizes that automaticity develops most efficiently when practice maintains focused attention, targets specific skill components, includes immediate feedback, and operates slightly beyond current competence level. Mindless repetition produces minimal learning; engaged, error-correcting practice drives automatization.
 
 The attention deployment during practice appears particularly critical. Students who distribute attention across task components develop weak automaticity; those who focus intensively on specific components develop stronger automaticity for those components (but may neglect others). ^provisional This suggests that attentional focus during encoding determines which associations strengthen. The implication for training: early practice should maintain full attention on target skills until basic automaticity develops, after which attention can shift to higher-level integration.
 
@@ -519,7 +519,7 @@ The three-stage framework highlights that expert performance is not simply faste
 
 ### Deliberate Practice and Expertise Development
 
-[[Ericsson]]'s framework of [[deliberate practice]] (Ericsson et al., 1993) provides the most influential contemporary account of expertise development, emphasizing the specific practice characteristics that drive skill acquisition beyond basic automatization.
+[[Ericsson]]'s framework of [[Deliberate-Practice|deliberate practice]] (Ericsson et al., 1993) provides the most influential contemporary account of expertise development, emphasizing the specific practice characteristics that drive skill acquisition beyond basic automatization.
 
 [**Deliberate-Practice-Framework**:: Structured practice activities designed specifically to improve performance through focused attention on specific weaknesses, provision of immediate feedback, extensive repetition targeting components slightly beyond current competence level, and motivated effort maintained over years or decades - distinguishing expertise-building practice from mere experience accumulation or playful engagement.]
 

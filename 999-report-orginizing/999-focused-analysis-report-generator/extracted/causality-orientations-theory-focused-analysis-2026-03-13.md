@@ -135,23 +135,23 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Self-Determination Theory — Foundational Concepts]]"
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
 
-foundational-report: "[[Self-Determination Theory — Focused Analysis]]"
+foundational-report: "[[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]"
 
 related:
-  - "[[Self-Regulated Learning — Focused Analysis]]"
-  - "[[Cognitive Load Theory — Focused Analysis]]"
+  - "[[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]"
+  - "[[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]"
   - "[[Goal Orientation Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[Expectancy-Value-Theory|Expectancy-Value Theory]]"
   - "[[Locus of Control — Rotter]]"
   - "[[Learned Helplessness — Seligman]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
 
 broader:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Motivational Psychology]]"
+  - "[[Motivational-Psychology|Motivational Psychology]]"
   - "[[Personality and Individual Differences]]"
 
 narrower:
@@ -163,7 +163,7 @@ see-also:
   - "[[Regulatory Focus Theory — Higgins]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Psychological Safety and Motivational Context]]"
-  - "[[Metacognitive Awareness]]"
+  - "[[metacognitive-awareness|Metacognitive Awareness]]"
 
 contrasts-with:
   - "[[Locus of Control — Rotter]]"
@@ -180,9 +180,9 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination Theory — Focused Analysis]]"
-  - "[[Basic Psychological Needs Theory]]"
-  - "[[Intrinsic Motivation and Extrinsic Motivation]]"
+  - "[[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Intrinsic-Motivation-and-Extrinsic-Motivation|Intrinsic Motivation and Extrinsic Motivation]]"
 
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
@@ -249,13 +249,13 @@ document-features:
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
-generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
+generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
 generation-date: 2026-03-13
 ---
 
 # Causality Orientations Theory: Individual Differences in Motivational Functioning and the Universalism-Dispositional Paradox
 
-*A Focused Analysis Report | Generated via [[Focused Analysis Report Generator v1.0]]*
+*A Focused Analysis Report | Generated via [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]*
 
 ---
 
@@ -271,7 +271,7 @@ This is not merely a theoretical puzzle. The answer has direct practical implica
 
 This analysis examines COT's theoretical architecture, its evidence base, its mechanisms, and its unresolved tensions. The central argument developed across these phases is that causality orientations function as **motivational perceptual schemas** — cognitive structures that selectively filter, amplify, and organize motivational information from the environment — and that this reconceptualization explains both their relative stability and their genuine plasticity, while resolving the universalism-disposition paradox at the theoretical core of COT's place in SDT.
 
-**Scope**: This analysis assumes familiarity with SDT's foundational architecture, including [[Basic Psychological Needs Theory]] (BPNT), [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] (CET), and [[Organismic-Integration-Theory|Organismic Integration Theory]] (OIT). For foundational treatment of SDT, see the existing PKB report on [[Self-Determination Theory — Focused Analysis]]. This report focuses specifically on COT's theoretical architecture, mechanisms, and evidence base.
+**Scope**: This analysis assumes familiarity with SDT's foundational architecture, including [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] (BPNT), [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] (CET), and [[Organismic-Integration-Theory|Organismic Integration Theory]] (OIT). For foundational treatment of SDT, see the existing PKB report on [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]. This report focuses specifically on COT's theoretical architecture, mechanisms, and evidence base.
 
 **Roadmap**: Phase II establishes the conceptual tools — the three orientations, the GCOS instrument, and the critical distinction from locus of control. Phase III examines the evidence base critically. Phase IV drills into the causal mechanisms: how do orientations shape perception, regulate behavior, and perpetuate themselves? Phase V traces implications for design and practice. Phase VI offers an original synthesis of COT as a motivational perceptual schema system, which dissolves several apparent contradictions. Phase VII maps PKB connections. Phase VIII provides appendices.
 
@@ -290,7 +290,7 @@ Causality Orientations Theory cannot be understood in isolation from the broader
 > The tendency to orient toward and be regulated by intrinsic interest, personal value, and self-endorsed choice in one's interactions with the environment. Individuals high in autonomy orientation characteristically notice the interesting and meaningful aspects of tasks and situations, treat external feedback as informational rather than controlling, and experience their behavior as self-initiated and self-endorsed. The key boundary condition: autonomy orientation does NOT mean ignoring external demands or input. It means the *regulatory register* through which external information is processed remains autonomous — demands are integrated into self-endorsed behavior rather than experienced as impinging controls.
 
 > [!definition] **Control Orientation (Deci & Ryan, 1985)**
-> The tendency to orient toward and be regulated by external and internal controls: deadlines, rewards, surveillance, evaluations, and ego-involvement (the last being crucial). Individuals high in control orientation characteristically notice the evaluative and directive aspects of situations, treat feedback as indicative of their standing relative to standards or others, and experience their behavior as driven by demands they must satisfy. The critical conceptual point, which differentiates COT from [[Locus of Control|locus of control theory]], is that *control orientation includes internally-imposed controls* — guilt, shame, and ego-involvement function here as controls, even though they originate within the person.
+> The tendency to orient toward and be regulated by external and internal controls: deadlines, rewards, surveillance, evaluations, and ego-involvement (the last being crucial). Individuals high in control orientation characteristically notice the evaluative and directive aspects of situations, treat feedback as indicative of their standing relative to standards or others, and experience their behavior as driven by demands they must satisfy. The critical conceptual point, which differentiates COT from [[Locus-of-Control|locus of control theory]], is that *control orientation includes internally-imposed controls* — guilt, shame, and ego-involvement function here as controls, even though they originate within the person.
 
 > [!definition] **Impersonal Orientation (Deci & Ryan, 1985)**
 > The tendency to orient toward the environment as if one's behavior were beyond intentional control — as if outcomes are determined by forces (internal or external) that cannot be managed. Individuals high in impersonal orientation characteristically experience themselves as incapable of producing desired outcomes, attribute performance to luck, fate, or overwhelming circumstances, and often disengage from effortful pursuit. Impersonal orientation is theoretically associated with [[Amotivation]] in OIT's motivational continuum and with [[Learned-Helplessness|Learned Helplessness]] in Seligman's framework. Unlike the control orientation (which involves controlled motivation — the person is still trying), impersonal orientation involves the collapse of intentional motivation itself.
@@ -379,7 +379,7 @@ The theoretical description of causality orientations as tendencies to "orient t
 > [!analytical-insight] **Orientations as Motivational Perceptual Filters**
 > The perceptual dimension of causality orientations is undertheorized in the COT literature, which tends to focus on behavioral and emotional outcomes rather than on the upstream informational processes that produce them. But taking the perceptual account seriously reveals an important implication: orientations don't merely incline people toward certain regulatory styles — they actively shape what motivational information is available to conscious processing. An autonomy-oriented person encountering a new assignment may notice its intellectual interest, its relevance to their valued goals, and the choices it affords; a control-oriented person encountering the same assignment may notice its grading criteria, its relationship to comparison with peers, and the requirements it imposes. Both people are receiving the same objective situation, but processing fundamentally different motivational inputs. The behavioral differences downstream are a consequence of these upstream perceptual differences, not independent phenomena.
 
-This perceptual framing connects COT to the broader literature on [[Attentional Deployment]] and [[Selective Attention]] in emotional regulation. Research on threat appraisal (Lazarus & Folkman, 1984) and on motivated cognition (Kunda, 1990) consistently shows that stable individual differences in how situations are appraised shape the motivational response before any conscious deliberation occurs. Orientations, in this view, operate partly at the pre-deliberative level — they influence which features of a situation capture attention and which are screened out before the person ever has an opportunity to consciously choose a regulatory strategy.
+This perceptual framing connects COT to the broader literature on [[Attentional-Deployment|Attentional Deployment]] and [[Selective-Attention|Selective Attention]] in emotional regulation. Research on threat appraisal (Lazarus & Folkman, 1984) and on motivated cognition (Kunda, 1990) consistently shows that stable individual differences in how situations are appraised shape the motivational response before any conscious deliberation occurs. Orientations, in this view, operate partly at the pre-deliberative level — they influence which features of a situation capture attention and which are screened out before the person ever has an opportunity to consciously choose a regulatory strategy.
 
 > [!cross-domain-connection] **Signal Detection Theory → Motivational Perceptual Thresholds**
 > Signal detection theory (SDT in its original psychophysical sense) models perception as the result of a signal threshold: stimuli above threshold are detected, stimuli below threshold are not. Applying this framework to causality orientations generates a productive analogy. Each orientation can be understood as setting different thresholds for different categories of motivational signal. Autonomy orientation sets a low threshold for autonomy-relevant signals (interest, choice, value) — these signals are readily detected even when faint — while setting a high threshold for control signals (evaluative pressure, social comparison). Control orientation inverts this pattern: control-relevant signals are easily detected, autonomy signals require stronger environmental support to penetrate. Impersonal orientation can be understood as elevating thresholds across all signal types: the person is generally less responsive to motivational information of any kind, consistent with the amotivation construct. This signal-detection framing makes a testable prediction: in ambiguous motivational environments (neither clearly autonomy-supportive nor clearly controlling), orientations should show the greatest divergence in experienced motivation, because the "signal" that each orientation amplifies is most differentially influential when the environment is not strongly organized.

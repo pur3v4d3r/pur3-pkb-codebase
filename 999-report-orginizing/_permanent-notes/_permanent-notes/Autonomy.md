@@ -24,7 +24,7 @@ domain: educational-psychology
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,6 +47,14 @@ see-also:
   - "[[Integrated-Learning-System-Model]]"
   - "[[Integration-Metabolism]]"
   - "[[Learning-Metabolism]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
   - "[[Feedback-Design|Feedback Design]]"
   - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -114,13 +122,13 @@ importance: medium
 > Deci's classic studies (1971) found that external reward for intrinsically motivated activity reduced subsequent intrinsic motivation — an effect attributed to the perception shift from internal to external locus of causation. Meta-analyses of this paradigm (Deci, Koestner & Ryan, 1999; 128 studies, N > 10,000) found that tangible expected rewards contingent on task engagement reliably undermined intrinsic motivation, while positive performance feedback (informational rather than controlling) enhanced it. This distinction — informational vs. controlling aspects of environmental events — is the operative mechanism for autonomy need satisfaction and frustration respectively.
 
 > [!evidence] Supporting Evidence *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
-> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
+> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow-Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
 
 > [!evidence] Supporting Evidence *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
 > Baumeister and Leary's (1995) landmark review synthesized evidence across diverse literatures to argue that the need to belong is a fundamental human motivation. They found that social exclusion produces reliable negative affect and cognitive interference even in minimal social situations; that relationship formation is readily initiated with little provocation; and that the disruption of social bonds produces well-being deficits disproportionate to the objective significance of the bond. Within SDT-specific research, studies by La Guardia et al. (2000) showed that the degree to which specific relationships satisfy the relatedness need (rather than relationship quantity) predicts both relationship quality and broader well-being. Notably, relatedness satisfaction in one relationship (e.g., with a teacher) appears to be relatively independent of relatedness satisfaction in another (e.g., with peers), suggesting the need is not satisfied holistically but is relationship-specific.
 
 > [!evidence] Supporting Evidence *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> Some of the most compelling evidence for OIT comes from health psychology. [[Williams, Deci, and colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
+> Some of the most compelling evidence for OIT comes from health psychology. [[Williams,-Deci,-and-colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
 
 > [!evidence] Supporting Evidence *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The weight of evidence across educational, health, and organizational domains supports OIT's quality-over-quantity claim. Studies that measure both conceptual understanding and surface-level performance consistently find that autonomous motivation predicts the former more strongly than the latter, while controlled motivation sometimes predicts surface performance adequately but fails to predict depth of understanding, retention, and transfer. This pattern — which holds even when controlling for time-on-task — suggests that regulatory style affects *how* people engage, not merely *whether* they engage.
@@ -136,7 +144,7 @@ importance: medium
 > 
 > **Level 2 — Process Level (FP)**: Feedback about the processes or strategies used to complete the task — the *how* of performance. ("You've used the evidence well here, but the conclusion doesn't follow from the premises you've assembled — try working backward from what you want to prove.") Particularly powerful for developing deep understanding and transferable strategies.
 > 
-> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated Learning|self-regulated learners]].
+> **Level 3 — Self-Regulation Level (FR)**: Feedback directed at the learner's capacity to monitor, direct, and regulate their own performance — the metacognitive and volitional dimensions. ("Notice that you found the error yourself before I pointed it out — that self-checking strategy is something to apply routinely.") The most powerful lever for developing [[Self-Regulated-Learning|self-regulated learners]].
 > 
 > **Level 4 — Self Level (FS)**: Feedback directed at the *person* — personal evaluations and affect about the learner. ("You're so clever," "I'm proud of you," "What a disappointment.") While such feedback is common, it contains minimal actionable information and, crucially, can be actively harmful to motivation and learning orientation when it triggers ego-evaluation processes.
 
@@ -181,7 +189,7 @@ importance: medium
 > The cross-cultural challenge to BPNT's autonomy universality thesis typically takes the form of a reductio: if collectivist cultures value interdependence and subordination of individual will to group norms, how can the autonomy need be universal? The Chirkov et al. (2003) evidence reveals that this challenge rests on a conflation of *autonomy content* (what one chooses) with *autonomy function* (the experience of choosing volitionally). A collectivist student who genuinely endorses collective norms and enacts them from a place of authentic internalization is satisfying their autonomy need just as fully as an individualist student pursuing personal goals. What they both require — and what both will suffer without — is the experience of authorship over their own engagement, whether the content of that engagement is directed toward self or toward others. This distinction is critical for applying BPNT outside Western educational contexts.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The standard presentation of OIT implies that internalization is a process one moves through — a journey from external to integrated. But the continuum is better understood as a spectrum of *current states* that are highly context-dependent. The same individual can operate at identified regulation for studying medicine because she chose to be a doctor, while operating at introjected regulation for studying anatomy because her father's approval is contingent on her surgical specialization. OIT's regulatory styles describe *within-person variability across activities*, not a fixed developmental level. This has profound practical implications: practitioners cannot treat a learner's "motivational profile" as a stable trait to be gradually improved — it must be assessed activity by activity.
@@ -212,6 +220,67 @@ importance: medium
 
 > [!analytical-insight] Key Insight *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
 > The conjunctive thesis faces a genuine evidential challenge from studies of substitution. Sheldon and Gunz (2009) found that people whose relatedness need was thwarted showed increased preference for activities that satisfied their competence or autonomy needs — a pattern consistent with compensatory substitution. Importantly, this behavioral substitution produced some reduction in negative affect, suggesting partial compensation is psychologically real. The tension is not fully resolved: on one reading, this evidence shows that compensation fails to restore full well-being (partial compensation is not full compensation); on another reading, it shows that the three needs are more independent than the conjunctive thesis requires. This is one of the genuinely open questions in BPNT.
+
+> [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
+> **Primary Sources and Scholarly Works**
+> 
+> The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+> 
+> - [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+> - [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+> - [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+> - [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+> - [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+> - [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+> 
+> For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+> [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
+> Research into the neuroscience of journaling demonstrates that writing before sleep helps pre-organize experiences, making the brain's nighttime consolidation work more efficient, with consistent practice decreasing sleep onset time from 45 to approximately 15 minutes while improving self-reflection quality as internal dialogue shifts from harsh self-criticism toward curious and compassionate inquiry. This transformation occurs because regular writing strengthens connections between emotional and rational brain centers, effectively enhancing the prefrontal cortex's regulatory capacity over limbic emotional systems—precisely the neurobiological substrate of what Stoics conceptualized as "rational supremacy over passion."
+
+> [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
+> **Metacognition and Journaling:**
+> - [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+> - [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+> - [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+> - [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+> - [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+> - [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+> 
+> **Memory Consolidation and Sleep:**
+> - [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+> - [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+> - [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+> - [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+> - [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+> - [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+> 
+> **Stoic Philosophy and Marcus Aurelius:**
+> - [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+> - [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+> - [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+> 
+> **Behavioral Modification and Habit Formation:**
+> - [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+> - [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+> - [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+> - [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+> - [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+> [!analytical-insight] Key Insight *(from stoicism-codebase-pack.md)*
+> **Zeno's Core Innovation**
+> 
+> Zeno's distinctive contribution was synthesizing Cynic ethics with systematic natural philosophy. He agreed with the Cynics that living virtuously according to nature constitutes the sole good, but he grounded this claim in a comprehensive account of the cosmos as a rational, providentially ordered whole. Virtue was not merely human excellence but alignment with the [[Logos]]—the divine rational principle pervading all nature. This move transformed Cynic ethics from lifestyle provocation into metaphysical system, giving it philosophical respectability and explanatory power.
+
+> [!analytical-insight] Key Insight *(from stoicism-codebase-pack.md)*
+> **Philosophy as Freedom**
+> 
+> If Seneca represented the heights of Roman society adapting Stoicism to wealth and power, [[Epictetus]] (c. 50-135 CE) showed its relevance to those with no power whatsoever. Born into slavery in Hierapolis, Phrygia (modern-day Turkey), Epictetus endured a childhood and youth of complete powerlessness. Ancient sources report that his master, Epaphroditus (himself a freed slave serving in Nero's court), once twisted Epictetus's leg in a fit of anger, crippling him permanently. Epictetus reportedly responded calmly: "You will break my leg," and when the bone did snap, "Didn't I tell you that you would break it?"
+
+
+
+
+
 
 
 
@@ -296,6 +365,18 @@ importance: medium
 > [!warning] **Key Distinction** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The evidence on reward contingency is consistent: rewards structured as contingent on *doing well* (vs. contingent on mere participation, or non-contingent) undermine autonomous motivation, particularly when the activity has or might develop intrinsic value. This is the CET mechanism, but it applies in OIT contexts: rewards that make performance the condition for positive regard push learners toward introjection rather than identification.
 
+> [!example] **Application** *(from stoicism-codebase-pack.md)*
+> The highest-leverage intervention available to teachers and coaches is feedback that explicitly attributes specific failures to specific, correctable causes: "You didn't solve this because you tried to apply the algorithm before you understood the structure of the problem. Let's work on structure-recognition first." This is growth-mindset-in-action without being growth-mindset-as-lesson. It operates directly on Axiom 1.
+
+> [!example] **Application** *(from stoicism-codebase-pack.md)*
+> Instructional design should prioritize sequences of genuine mastery experiences — not artificially easy wins, but carefully scaffolded challenges that students can overcome with appropriate effort and are recognized as having overcome. The belief that effort produces growth is most durable when it is inductively arrived at from actual experience, not deductively adopted from instruction.
+
+> [!warning] **Key Distinction** *(from stoicism-codebase-pack.md)*
+> Praising effort indiscriminately can actively harm students who are already working at capacity, who genuinely lack prerequisite knowledge (where more effort at the same approach is futile), or who perceive effort praise as a signal of low expectations. Effort praise should be reserved for situations where effort is genuinely the limiting factor and where the student has actionable strategy choices.
+
+
+
+
 
 
 
@@ -355,6 +436,24 @@ importance: medium
 
 > [!reflection] **Reflect** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > Before proceeding, distinguish clearly in your own mind between *introjected* and *external* regulation. Both involve controlled motivation, but the psychological mechanism differs importantly. Can you articulate what specifically makes introjection a form of *internalization* even though the person hasn't made the value genuinely their own? This distinction becomes critical for understanding the evidence in Phase III.
+
+> [!reflection] **Reflect** *(from stoicism-codebase-pack.md)*
+> **Reflective Questions for Personal Application**
+> 
+> *First Reflection: Historical Distance and Contemporary Relevance* — The Stoics developed their philosophy to address specific historical challenges: the collapse of city-state autonomy, chronic political instability, limited individual power in vast empires. How do these original contexts both illuminate and potentially limit Stoicism's contemporary application? Consider whether the conditions that made Stoicism compelling in the Hellenistic and Roman periods parallel our current situation of rapid change, political uncertainty, and feelings of powerlessness amid global systems beyond individual control. Does recognizing Stoicism's original function as a response to concrete historical crisis change how you approach its practical application, or does it suggest that certain existential challenges transcend historical specificity? Examine whether your own attraction to Stoic principles reflects similar needs for psychological resilience and ethical clarity amid circumstances beyond your control, and whether understanding the tradition's origins helps you distinguish its timeless insights from historically contingent elements that may require adaptation.
+> 
+> *Second Reflection: The Evolution from System to Practice* — Stoicism transformed across five centuries from Chrysippus's technical philosophical system requiring expertise in logic and physics to Epictetus's stripped-down practical ethics and Marcus Aurelius's personal self-reminders, raising questions about what constitutes the "authentic" Stoic tradition. How does this evolution challenge the notion of philosophical systems as static bodies of doctrine? Consider your own engagement with Stoicism: do you approach it as a comprehensive metaphysical worldview requiring acceptance of Stoic physics and logic, or as a practical toolkit for ethical development and emotional resilience that can be extracted from its original theoretical framework? Reflect on whether this instrumentalist approach—taking what works while discarding theoretical commitments—represents legitimate philosophical adaptation or betrays essential features of the tradition. What would the early systematizers like Chrysippus say about late practical focus, and what would the late practical teachers like Epictetus say about early theoretical elaboration?
+> 
+> *Third Reflection: The Problem of Philosophical Hypocrisy* — The apparent contradiction between Seneca's Stoic teachings and his enormous wealth, political power, and compromised relationship with Nero raises enduring questions about the relationship between philosophical ideals and lived reality. How do you navigate the gap between philosophical aspirations and actual behavior in your own life? Consider whether expecting perfect consistency between principle and practice sets an impossible standard that discourages moral effort, or whether accepting "progress" (*prokopē*) rather than perfection licenses self-deception and rationalization of moral failure. Examine your current relationship with core Stoic principles: are there areas where you profess commitment to ideals your behavior contradicts, and how do you conceptualize this gap—as temporary imperfection to be overcome through practice, as inevitable human limitation requiring compassion, or as evidence that certain principles are unrealistic and should be revised? The historical Stoics themselves struggled with this tension, suggesting it may be inherent to philosophical life rather than a failure to be eliminated.
+
+> [!reflection] **Reflect** *(from stoicism-codebase-pack.md)*
+> **On Practice Commitment**: If systematic self-examination through journaling genuinely enhances cognitive capabilities, emotional resilience, and behavioral self-control as empirical evidence suggests, what justifies *not* implementing such practice? Are resistance patterns protecting against genuine difficulty or merely reflecting habitual avoidance of effortful cognitive work?
+> 
+> **On Philosophical Foundations**: Stoic journaling rests on specific metaphysical commitments—the dichotomy of control, virtue as sole good, rational nature of cosmos—that many contemporary individuals may not share. Can the practice mechanisms (metacognitive monitoring, cognitive reappraisal, behavioral tracking) function effectively when divorced from underlying Stoic philosophy, or does philosophical coherence prove essential for sustained motivation and meaningful interpretation?
+> 
+> **On Measurement and Optimization**: Modern culture emphasizes quantification and optimization across life domains. Does attempting to "optimize" journaling practice—through structured prompts, systematic schedules, measured outcomes—enhance its effectiveness or paradoxically undermine the authentic self-examination central to its value? Where does healthy structure end and counterproductive rigidity begin?
+
+
 
 
 
@@ -582,6 +681,154 @@ importance: medium
 - [[Humanistic-Psychology|Humanistic Psychology]]
 - [[Growth-Mindset|Growth Mindset]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-first-principles-report-2026-03-11.md, self-determination-theory-foundational-report-2026-03-11.md, stoicism-codebase-pack.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from stoicism-codebase-pack.md)*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Political-Philosophy|Political Philosophy]]
+- [[Virtue-Ethics|Virtue Ethics]]
+
+**Cross-report connections** *(from stoicism-codebase-pack.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory Consolidation]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

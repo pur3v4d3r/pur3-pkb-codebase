@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Decision-Theory|Decision Theory]]"
   - "[[Scientific-Method|Scientific Method]]"
   - "[[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]"
+  - "[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]"
+  - "[[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Argumentation-Theory|Argumentation Theory]]"
+  - "[[Decision-Theory|Decision Theory]]"
+  - "[[Scientific-Method|Scientific Method]]"
+  - "[[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -108,7 +116,7 @@ importance: high
 # Critical Thinking as Metacognitively-Regulated Reasoning
 
 > [!definition] **Critical Thinking as Metacognitively-Regulated Reasoning**
-> **[[Critical Thinking]]** is defined operationally as the deliberate application of reasoning skills and strategies that increase the probability of reaching sound conclusions through purposeful, reflective judgment, mediated by metacognitive monitoring and control processes that regulate strategy selection, execution monitoring, and error correction. This definition emphasizes that critical thinking is fundamentally a *metacognitive process* rather than simply a collection of reasoning techniques, distinguishing skilled critical thinkers not by their possession of reasoning tools but by their ability to deploy them appropriately based on task characteristics and contextual demands.
+> **[[Critical-Thinking]]** is defined operationally as the deliberate application of reasoning skills and strategies that increase the probability of reaching sound conclusions through purposeful, reflective judgment, mediated by metacognitive monitoring and control processes that regulate strategy selection, execution monitoring, and error correction. This definition emphasizes that critical thinking is fundamentally a *metacognitive process* rather than simply a collection of reasoning techniques, distinguishing skilled critical thinkers not by their possession of reasoning tools but by their ability to deploy them appropriately based on task characteristics and contextual demands.
 
 ## Core Explanation
 
@@ -229,6 +237,42 @@ importance: high
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Related concepts** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
+[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] * [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Argumentation-Theory|Argumentation Theory]] * [[Decision-Theory|Decision Theory]] * [[Scientific-Method|Scientific Method]] * [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] * [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] * [[Introduction-to-Metacognition|Introduction to Metacognition]] * [[Epistemic-Vigilance|Epistemic Vigilance]] * [[Decision-Making|Decision Making]] * [[Cognitive-Biases|Cognitive Biases]] * [[Scientific-Reasoning|Scientific Reasoning]] * [[Argument-Analysis|Argument Analysis]]
+
+**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
+- [[Metacognition|Metacognition]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[Decision-Making|Decision Making]]
+- [[Cognitive-Biases|Cognitive Biases]]
+
+**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
+- [[Argument-Analysis|Argument Analysis]]
+- [[Decision-Making|Decision Making]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
+- [[Metacognition|Metacognition]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[Decision-Making|Decision Making]]
+- [[Cognitive-Biases|Cognitive Biases]]
+
+**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
+- [[Argument-Analysis|Argument Analysis]]
+- [[Decision-Making|Decision Making]]
+- [[Scientific-Reasoning|Scientific Reasoning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+
+
+
+
 
 
 

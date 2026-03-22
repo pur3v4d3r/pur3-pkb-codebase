@@ -5,6 +5,7 @@
 title: "Schema Theory"
 aliases:
   - "Schema Theory"
+  - "Schema-theory"
 type: permanent-note
 status: seedling
 confidence: low

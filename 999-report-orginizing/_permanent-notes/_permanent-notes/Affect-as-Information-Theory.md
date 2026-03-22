@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -79,6 +79,14 @@ see-also:
   - "[[Somatic-Markers|Somatic Markers]]"
   - "[[Norbert-Schwarz|Norbert Schwarz]]"
   - "[[Gerald-Clore|Gerald Clore]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Motivated-Reasoning|Motivated Reasoning]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[Antonio-Damasio|Antonio Damasio]]"
+  - "[[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]"
+  - "[[Somatic-Markers|Somatic Markers]]"
+  - "[[Norbert-Schwarz|Norbert Schwarz]]"
+  - "[[Gerald-Clore|Gerald Clore]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +113,7 @@ importance: high
 # Affect-as-Information Theory
 
 > [!definition] **Affect-as-Information Theory**
-> [[Schwarz and Clore]]'s framework establishing that people use their current affective states as information when making judgments — asking "how do I feel about this?" as a heuristic for evaluating options, situations, and prospects. The theory predicts both appropriate and inappropriate uses of affective information depending on the relevance of the affective state to the judgment at hand.
+> [[Schwarz-and-Clore]]'s framework establishing that people use their current affective states as information when making judgments — asking "how do I feel about this?" as a heuristic for evaluating options, situations, and prospects. The theory predicts both appropriate and inappropriate uses of affective information depending on the relevance of the affective state to the judgment at hand.
 
 ## Core Explanation
 
@@ -133,4 +141,8 @@ importance: high
 
 **Related concepts** *(from report-10-the-feeling-reasoner.md)*:
 [[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Emotional-Granularity|Emotional Granularity]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]]
+
+**Related concepts** *(from report-10-the-feeling-reasoner.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Emotional-Granularity|Emotional Granularity]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]]
+
 

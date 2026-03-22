@@ -246,7 +246,7 @@ extraction_summary:
 #### 17. [IMPORTANT] Untitled *(Line 226)*
 
 > [!important] Untitled
-> The quality of concrete experience matters. [[Deliberate practice]]—experience specifically designed to stretch current capacities, with clear goals, focused attention, and immediate feedback—produces far greater learning than routine repetition. Not all experience is created equal.
+> The quality of concrete experience matters. [[Deliberate-Practice|Deliberate practice]]—experience specifically designed to stretch current capacities, with clear goals, focused attention, and immediate feedback—produces far greater learning than routine repetition. Not all experience is created equal.
 
 #### 18. [ANALOGY] Untitled *(Line 249)*
 
@@ -581,12 +581,12 @@ extraction_summary:
 - [[Cultural Differences in Motivation and Learning Styles]]
 - [[David-Kolb|David Kolb]]
 - [[Deliberate Practice and the 10,000 Hour Rule]]
-- [[Deliberate practice]]
+- [[Deliberate-Practice|Deliberate practice]]
 - [[Digital Tools for Personal Knowledge Management]]
 - [[Donald-Schön|Donald Schön]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Experiential Learning Theory]]
-- [[Extrinsic motivation]]
+- [[Extrinsic-Motivation|Extrinsic motivation]]
 - [[Gibbs' (1988) Reflective Cycle studies]]
 - [[Gollwitzer and Sheeran's (2006) meta-analysis]]
 - [[Growth Mindset vs Fixed Mindset Research]]
@@ -597,7 +597,7 @@ extraction_summary:
 - [[Implementation-Intentions|Implementation intentions]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|Intrinsic motivation]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[K. Anders Ericsson]]
 - [[Kolb]]
 - [[Kolb's Experiential Learning]]
@@ -605,7 +605,7 @@ extraction_summary:
 - [[Kurt Lewin]]
 - [[Learning Organizations]]
 - [[Learning Theory]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Meta-analyses of medical education]]
 - [[Metacognition]]
 - [[Neuroplasticity]]
@@ -616,7 +616,7 @@ extraction_summary:
 - [[Pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Sara Lazar]]
 - [[Scaffolding-(Constructivist-Learning)]]
 - [[Schön's (1983) observational studies]]
@@ -633,12 +633,12 @@ extraction_summary:
 - [[behavior tracking devices]]
 - [[behavioral psychology]]
 - [[computational narrative analysis]]
-- [[constructivism]]
+- [[Constructivism]]
 - [[continuous improvement]]
 - [[default mode network]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[Double-Loop-Learning|double-loop learning]]
-- [[fading]]
+- [[Fading]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[habit formation apps]]
@@ -652,8 +652,8 @@ extraction_summary:
 - [[medial prefrontal cortex]]
 - [[operant conditioning]]
 - [[prefrontal cortex]]
-- [[reflection-in-action]]
-- [[reflection-on-action]]
+- [[Reflection-in-Action]]
+- [[Reflection-on-Action]]
 - [[Reflective-Practice|reflective practice]]
 - [[Single-Loop-Learning|single-loop learning]]
 - [[Situated-Learning|situated learning]]
@@ -673,33 +673,33 @@ extraction_summary:
 | 7 | [[Vygotsky]] | — | — | Document Start | 39 |
 | 8 | [[intention-behavior gap]] | — | — | 1.0 📜 INTRODUCTION | 53 |
 | 9 | [[Donald-Schön|Donald Schön]] | — | — | 1.0 📜 INTRODUCTION | 61 |
-| 10 | [[reflection-in-action]] | — | — | 1.0 📜 INTRODUCTION | 61 |
+| 10 | [[Reflection-in-Action]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 11 | [[Reflective-Practice|reflective practice]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
 | 12 | [[Pragmatism]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
 | 13 | [[Kurt Lewin]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 79 |
 | 14 | [[David-Kolb|David Kolb]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
 | 15 | [[Experiential Learning Theory]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
 | 16 | [[Donald-Schön|Donald Schön]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 85 |
-| 17 | [[reflection-on-action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
-| 18 | [[reflection-in-action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
+| 17 | [[Reflection-on-Action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
+| 18 | [[Reflection-in-Action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
 | 19 | [[Chris Argyris]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
 | 20 | [[Single-Loop-Learning|single-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
 | 21 | [[Double-Loop-Learning|double-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
 | 22 | [[B.F. Skinner]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 97 |
 | 23 | [[operant conditioning]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 97 |
-| 24 | [[Edward Deci]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
-| 25 | [[Richard Ryan]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
+| 24 | [[Edward-Deci|Edward Deci]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
+| 25 | [[Richard-Ryan|Richard Ryan]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 27 | [[Autonomy]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 28 | [[Competence]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 29 | [[Relatedness]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 30 | [[Intrinsic-Motivation|Intrinsic motivation]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 101 |
-| 31 | [[Extrinsic motivation]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 101 |
-| 32 | [[Jean Piaget]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
-| 33 | [[constructivism]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
+| 31 | [[Extrinsic-Motivation|Extrinsic motivation]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 101 |
+| 32 | [[Jean-Piaget|Jean Piaget]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
+| 33 | [[Constructivism]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
 | 34 | [[Assimilation-(Constructivist-Learning)]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
 | 35 | [[Accommodation-(Constructivist-Learning)]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
-| 36 | [[Lev Vygotsky]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 109 |
+| 36 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 109 |
 | 37 | [[sociocultural theory]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 109 |
 | 38 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 111 |
 | 39 | [[Metacognition]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 125 |
@@ -718,10 +718,10 @@ extraction_summary:
 | 52 | [[Scaffolding-(Constructivist-Learning)]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 202 |
 | 53 | [[Kolb]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
 | 54 | [[continuous improvement]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
-| 55 | [[deliberate practice]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
+| 55 | [[Deliberate-Practice|deliberate practice]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
 | 56 | [[K. Anders Ericsson]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 212 |
 | 57 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 222 |
-| 58 | [[Deliberate practice]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 227 |
+| 58 | [[Deliberate-Practice|Deliberate practice]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 227 |
 | 59 | [[After-Action Reviews]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 233 |
 | 60 | [[journaling]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 234 |
 | 61 | [[Video review]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 235 |
@@ -742,7 +742,7 @@ extraction_summary:
 | 76 | [[Situated-Learning|situated learning]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 320 |
 | 77 | [[hidden curriculum]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 320 |
 | 78 | [[Scaffolding-(Constructivist-Learning)]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 322 |
-| 79 | [[fading]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 330 |
+| 79 | [[Fading]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 330 |
 | 80 | [[Metacognition]] | — | — | 4.5 METACOGNITION AND SELF-REGULATED ... | 337 |
 | 81 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 4.5 METACOGNITION AND SELF-REGULATED ... | 339 |
 | 82 | [[Gibbs' (1988) Reflective Cycle studies]] | — | — | 5.1 EMPIRICAL SUPPORT FOR REFLECTIVE ... | 363 |
@@ -930,12 +930,12 @@ graph TD
 - [[Cultural Differences in Motivation and Learning Styles]]
 - [[David-Kolb|David Kolb]]
 - [[Deliberate Practice and the 10,000 Hour Rule]]
-- [[Deliberate practice]]
+- [[Deliberate-Practice|Deliberate practice]]
 - [[Digital Tools for Personal Knowledge Management]]
 - [[Donald-Schön|Donald Schön]]
-- [[Edward Deci]]
+- [[Edward-Deci|Edward Deci]]
 - [[Experiential Learning Theory]]
-- [[Extrinsic motivation]]
+- [[Extrinsic-Motivation|Extrinsic motivation]]
 - [[Gibbs' (1988) Reflective Cycle studies]]
 - [[Gollwitzer and Sheeran's (2006) meta-analysis]]
 - [[Growth Mindset vs Fixed Mindset Research]]
@@ -946,7 +946,7 @@ graph TD
 - [[Implementation-Intentions|Implementation intentions]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|Intrinsic motivation]]
-- [[Jean Piaget]]
+- [[Jean-Piaget|Jean Piaget]]
 - [[K. Anders Ericsson]]
 - [[Kolb]]
 - [[Kolb's Experiential Learning]]
@@ -954,7 +954,7 @@ graph TD
 - [[Kurt Lewin]]
 - [[Learning Organizations]]
 - [[Learning Theory]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Meta-analyses of medical education]]
 - [[Metacognition]]
 - [[Neuroplasticity]]
@@ -965,7 +965,7 @@ graph TD
 - [[Pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
-- [[Richard Ryan]]
+- [[Richard-Ryan|Richard Ryan]]
 - [[Sara Lazar]]
 - [[Scaffolding-(Constructivist-Learning)]]
 - [[Schön's (1983) observational studies]]
@@ -982,12 +982,12 @@ graph TD
 - [[behavior tracking devices]]
 - [[behavioral psychology]]
 - [[computational narrative analysis]]
-- [[constructivism]]
+- [[Constructivism]]
 - [[continuous improvement]]
 - [[default mode network]]
-- [[deliberate practice]]
+- [[Deliberate-Practice|deliberate practice]]
 - [[Double-Loop-Learning|double-loop learning]]
-- [[fading]]
+- [[Fading]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[habit formation apps]]
@@ -1001,8 +1001,8 @@ graph TD
 - [[medial prefrontal cortex]]
 - [[operant conditioning]]
 - [[prefrontal cortex]]
-- [[reflection-in-action]]
-- [[reflection-on-action]]
+- [[Reflection-in-Action]]
+- [[Reflection-on-Action]]
 - [[Reflective-Practice|reflective practice]]
 - [[Single-Loop-Learning|single-loop learning]]
 - [[Situated-Learning|situated learning]]

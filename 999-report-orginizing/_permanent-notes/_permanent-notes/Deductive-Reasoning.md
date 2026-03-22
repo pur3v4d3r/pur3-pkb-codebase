@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -65,22 +65,30 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[deductive-reasoning|deductive reasoning]]"
+  - "[[Deductive-Reasoning|deductive reasoning]]"
   - "[[Gottlob-Frege|Gottlob Frege]]"
   - "[[Peter-Wason|Peter Wason]]"
-  - "[[inductive-reasoning|inductive reasoning]]"
-  - "[[abductive-reasoning|abductive reasoning]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
   - "[[Gottlob-Frege|Gottlob Frege]]"
   - "[[Peter-Wason|Peter Wason]]"
-  - "[[inductive-reasoning|inductive reasoning]]"
-  - "[[abductive-reasoning|abductive reasoning]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle|Aristotle]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[working-memory|working memory]]"
+  - "[[Working-Memory|working memory]]"
+  - "[[Gottlob-Frege|Gottlob Frege]]"
+  - "[[Peter-Wason|Peter Wason]]"
+  - "[[Inductive-Reasoning|inductive reasoning]]"
+  - "[[Abductive-Reasoning|abductive reasoning]]"
+  - "[[Aristotle|Aristotle]]"
+  - "[[Dual-Process-Theory|Dual-Process Theory]]"
+  - "[[Mental-Models-Theory|Mental Models Theory]]"
+  - "[[Working-Memory|working memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -189,16 +197,16 @@ importance: high
 > The CER framework, widely used in science education, asks students to explicitly articulate: (1) a claim (their generalization or hypothesis), (2) the specific evidence that supports it, and (3) their reasoning about why the evidence supports the claim. This structure makes the inductive relationship between observation and conclusion explicit and evaluable — both for the student and the teacher. Research supports its use for improving both reasoning quality and writing quality in science contexts.
 
 > [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner,-Sweller-&-Clark]] (2006) on [[Cognitive-Load-Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
 
 > [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
 
 > [!warning] **Key Distinction** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
-> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
+> Research on the [[Fluency-Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
 
 > [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
+> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation-Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
 
 
@@ -250,10 +258,10 @@ importance: high
 - [[Fallibilism]]
 
 **Related concepts:**
-[[deductive-reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[inductive-reasoning|inductive reasoning]] · [[abductive-reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[working-memory|working memory]] · [[belief-bias|belief bias]] · [[Aristotle]] · [[categorical-syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]]
+[[Deductive-Reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[Inductive-Reasoning|inductive reasoning]] · [[Abductive-Reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Working-Memory|working memory]] · [[Belief-Bias|belief bias]] · [[Aristotle]] · [[Categorical-Syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]]
 
 **Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md, inductive-reasoning-foundational-report-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
-[[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[inductive-reasoning|inductive reasoning]] * [[abductive-reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[working-memory|working memory]] * [[belief-bias|belief bias]] * [[categorical-syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]]
+[[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]]
 
 **Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
 - [[Deductive-Reasoning|Deductive Reasoning]]
@@ -306,6 +314,70 @@ importance: high
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Scientific-Method|Scientific Method]]
+
+**Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md, inductive-reasoning-foundational-report-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
+[[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]]
+
+**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
+- [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+
+
+
+
+
+
+
+
 
 
 

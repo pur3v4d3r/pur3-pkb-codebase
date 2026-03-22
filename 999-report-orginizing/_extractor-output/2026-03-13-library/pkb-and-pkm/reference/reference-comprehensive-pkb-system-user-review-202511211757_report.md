@@ -390,7 +390,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[obsidian]], integrating [[Periodic Notes]], [[Templater]], [[dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective-Practice|Reflective Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
+> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[Obsidian]], integrating [[Periodic Notes]], [[Templater]], [[Dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective-Practice|Reflective Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 48)*
 
@@ -468,7 +468,7 @@ extraction_summary:
 #### 11. [WHAT-THIS-DOES] Untitled *(Line 184)*
 
 > [!what-this-does] Untitled
-> This section maps the complete plugin architecture required for a comprehensive review system in [[obsidian]]. Each plugin serves specific functions that, when integrated, create a seamless review workflow.
+> This section maps the complete plugin architecture required for a comprehensive review system in [[Obsidian]]. Each plugin serves specific functions that, when integrated, create a seamless review workflow.
 
 #### 12. [DEFINITION] Untitled *(Line 193)*
 
@@ -507,7 +507,7 @@ extraction_summary:
 #### 16. [DEFINITION] Untitled *(Line 282)*
 
 > [!definition] Untitled
-> - **Dataview**:: [[dataview]]
+> - **Dataview**:: [[Dataview]]
 > - **Definition**:: Query language plugin that treats your vault as a database, enabling dynamic aggregation, filtering, and display of note data based on frontmatter, inline fields, tags, and content. Supports both declarative queries (DQL) and JavaScript (DataviewJS) for advanced operations.
 
 #### 17. [METHODOLOGY-AND-SOURCES] Untitled *(Line 296)*
@@ -557,7 +557,7 @@ extraction_summary:
 #### 19. [DEFINITION] Untitled *(Line 354)*
 
 > [!definition] Untitled
-> - **Tasks Plugin**:: [[Tasks Plugin]]
+> - **Tasks Plugin**:: [[Tasks-Plugin|Tasks Plugin]]
 > - **Definition**:: Advanced task management system with support for due dates, scheduled dates, recurring tasks, priorities, and powerful query syntax for task aggregation and filtering.
 
 #### 20. [WHAT-THIS-DOES] Untitled *(Line 375)*
@@ -568,7 +568,7 @@ extraction_summary:
 #### 21. [DEFINITION] Untitled *(Line 387)*
 
 > [!definition] Untitled
-> - **Tracker Plugin**:: [[Tracker Plugin]]
+> - **Tracker Plugin**:: [[Tracker-Plugin|Tracker Plugin]]
 > - **Definition**:: Visualization plugin that renders charts and graphs from inline field data across multiple notes, enabling visual habit tracking and metric analysis.
 
 #### 22. [EXAMPLE] Untitled *(Line 398)*
@@ -1078,7 +1078,7 @@ extraction_summary:
 - [[Daily Review]]
 - [[Daily-Template]]
 - [[Dataview]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[GTD (Getting Things Done)]]
 - [[GTD Implementation in Obsidian - Deep Dive]]
 - [[Goal Setting]]
@@ -1103,28 +1103,28 @@ extraction_summary:
 - [[Reflective-Practice|Reflective Practice]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater]]
 - [[Time-Block Planning]]
-- [[Tracker Plugin]]
+- [[Tracker-Plugin|Tracker Plugin]]
 - [[Weekly Review]]
 - [[Weekly-Template]]
 - [[Working-Memory|Working Memory]]
 - [[Yearly Reflection]]
 - [[Yearly-Template]]
 - [[Zettelkasten]]
-- [[dataview]]
-- [[obsidian]]
+- [[Dataview]]
+- [[Obsidian]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Personal Review Systems]] | — | — | Document Start | 46 |
-| 2 | [[obsidian]] | — | — | Document Start | 46 |
+| 2 | [[Obsidian]] | — | — | Document Start | 46 |
 | 3 | [[Periodic Notes]] | — | — | Document Start | 46 |
 | 4 | [[Templater]] | — | — | Document Start | 46 |
-| 5 | [[dataview]] | — | — | Document Start | 46 |
+| 5 | [[Dataview]] | — | — | Document Start | 46 |
 | 6 | [[Calendar Plugin]] | — | — | Document Start | 46 |
 | 7 | [[Reflective-Practice|Reflective Practice]] | — | — | Document Start | 46 |
 | 8 | [[Reflective-Practice|Reflective Practice]] | — | — | 🎯 Foundations: Why Personal Reviews M... | 76 |
@@ -1133,19 +1133,19 @@ extraction_summary:
 | 11 | [[GTD (Getting Things Done)]] | — | — | The Purpose of Systematic Reviews | 80 |
 | 12 | [[Building a Second Brain]] | — | — | The Purpose of Systematic Reviews | 80 |
 | 13 | [[Working-Memory|Working Memory]] | — | — | Review Cadences & Their Purposes | 95 |
-| 14 | [[Executive Function]] | — | — | Review Cadences & Their Purposes | 96 |
+| 14 | [[Executive-Function|Executive Function]] | — | — | Review Cadences & Their Purposes | 96 |
 | 15 | [[Metacognition]] | — | — | Review Cadences & Their Purposes | 97 |
 | 16 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | The Compounding Effect of Reviews | 114 |
 | 17 | [[Reflective-Practice|Reflective Practice]] | — | — | 🧠 Review Psychology & Cognitive Science | 121 |
 | 18 | [[Metacognition]] | — | — | 🧠 Review Psychology & Cognitive Science | 122 |
-| 19 | [[obsidian]] | — | — | 🏗️ Plugin Ecosystem Overview | 185 |
+| 19 | [[Obsidian]] | — | — | 🏗️ Plugin Ecosystem Overview | 185 |
 | 20 | [[Periodic Notes]] | — | — | 1. Periodic Notes Plugin | 194 |
 | 21 | [[Templater]] | — | — | 2. Templater Plugin | 243 |
 | 22 | [[<% tp.date.now("YYYY-MM") %>]] | This Month | — | 2. Templater Plugin | 275 |
 | 23 | [[<% tp.date.now("YYYY") %>]] | This Year | — | 2. Templater Plugin | 275 |
-| 24 | [[dataview]] | — | — | 3. Dataview Plugin | 283 |
-| 25 | [[Tasks Plugin]] | — | — | Tasks Plugin | 355 |
-| 26 | [[Tracker Plugin]] | — | — | Tracker Plugin | 388 |
+| 24 | [[Dataview]] | — | — | 3. Dataview Plugin | 283 |
+| 25 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin | 355 |
+| 26 | [[Tracker-Plugin|Tracker Plugin]] | — | — | Tracker Plugin | 388 |
 | 27 | [[DB Folder]] | — | — | DB Folder Plugin | 425 |
 | 28 | [[Daily-Template]] | — | — | Phase 3: Templater Configuration | 613 |
 | 29 | [[Weekly-Template]] | — | — | Phase 3: Templater Configuration | 621 |
@@ -2151,7 +2151,7 @@ Templater must have "Trigger on new file creation" enabled and the filename must
 | Review Type | Primary Function | Cognitive Focus | Time Investment |
 | --- | --- | --- | --- |
 | **Daily** | Capture & immediate reflection | [[Working-Memory|Working Memory]] management | 5-15 minutes |
-| **Weekly** | Processing & planning | [[Executive Function]] optimization | 30-90 minutes |
+| **Weekly** | Processing & planning | [[Executive-Function|Executive Function]] optimization | 30-90 minutes |
 | **Monthly** | Pattern analysis & goal alignment | [[Metacognition]] & strategic thinking | 45-120 minutes |
 | **Quarterly** | Direction assessment | Strategic evaluation & pivoting | 2-4 hours |
 | **Annual** | Identity & values alignment | Life trajectory & meaning-making | 4-8 hours |
@@ -2274,7 +2274,7 @@ graph TD
 - [[Daily Review]]
 - [[Daily-Template]]
 - [[Dataview]]
-- [[Executive Function]]
+- [[Executive-Function|Executive Function]]
 - [[GTD (Getting Things Done)]]
 - [[GTD Implementation in Obsidian - Deep Dive]]
 - [[Goal Setting]]
@@ -2299,18 +2299,18 @@ graph TD
 - [[Reflective-Practice|Reflective Practice]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
-- [[Tasks Plugin]]
+- [[Tasks-Plugin|Tasks Plugin]]
 - [[Templater]]
 - [[Time-Block Planning]]
-- [[Tracker Plugin]]
+- [[Tracker-Plugin|Tracker Plugin]]
 - [[Weekly Review]]
 - [[Weekly-Template]]
 - [[Working-Memory|Working Memory]]
 - [[Yearly Reflection]]
 - [[Yearly-Template]]
 - [[Zettelkasten]]
-- [[dataview]]
-- [[obsidian]]
+- [[Dataview]]
+- [[Obsidian]]
 
 ---
 

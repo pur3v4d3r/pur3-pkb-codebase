@@ -1157,7 +1157,7 @@ extraction_summary:
 - [[<% noteName %>]]
 - [[<% weekNumber %>]]
 - [[Amor Fati]]
-- [[Automation]]
+- [[automation]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Science-MOC]]
 - [[Context Switching]]
@@ -1309,7 +1309,7 @@ extraction_summary:
 | 80 | [[Information-Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 2596 |
 | 81 | [[Obsidian Plugin Interoperability]] | — | — | 🔗 Related Topics for PKB Expansion | 2598 |
 | 82 | [[advanced]] | — | — | 🔗 Related Topics for PKB Expansion | 2601 |
-| 83 | [[Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 2601 |
+| 83 | [[automation]] | — | — | 🔗 Related Topics for PKB Expansion | 2601 |
 | 84 | [[pkb-&-pkm-moc]] | — | — | Note 5: QuickAdd Macro Library | 2635 |
 | 85 | [[review-system-implementation-guide]] | — | — | Note 5: QuickAdd Macro Library | 2637 |
 | 86 | [[review-templates-library]] | — | — | Note 5: QuickAdd Macro Library | 2638 |
@@ -2690,7 +2690,7 @@ Or with formatting:
 4. **[[Obsidian Plugin Interoperability]]**
    - *Connection*: Meta Bind can trigger other plugin actions
    - *Depth Potential*: Plugin API patterns, cross-plugin workflows
-   - *Knowledge Graph Role*: Links to [[advanced]], [[Automation]]
+   - *Knowledge Graph Role*: Links to [[advanced]], [[automation]]
 
 ---
 ```
@@ -2961,7 +2961,7 @@ flowchart TD
 - [[<% noteName %>]]
 - [[<% weekNumber %>]]
 - [[Amor Fati]]
-- [[Automation]]
+- [[automation]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Science-MOC]]
 - [[Context Switching]]

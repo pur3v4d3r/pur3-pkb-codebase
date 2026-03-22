@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,6 +81,14 @@ see-also:
   - "[[Prompt-Engineering|Prompt Engineering]]"
   - "[[PKB-Automation|PKB Automation]]"
   - "[[Obsidian|Obsidian]]"
+  - "[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
+  - "[[Smart-Connections|Smart Connections]]"
+  - "[[Templater|Templater]]"
+  - "[[Dataview|Dataview]]"
+  - "[[Claude-API|Claude API]]"
+  - "[[Prompt-Engineering|Prompt Engineering]]"
+  - "[[PKB-Automation|PKB Automation]]"
+  - "[[Obsidian|Obsidian]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,7 +115,7 @@ importance: medium
 # Text Generator Plugin
 
 > [!definition] **Text Generator Plugin**
-> [**Text-Generator-Plugin**:: An open-source [[Obsidian]] community plugin that provides a native interface to [[Large Language Models]] (LLMs) including [[OpenAI]], [[Anthropic Claude]], [[Google Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template System|template system]].]
+> [**Text-Generator-Plugin**:: An open-source [[Obsidian]] community plugin that provides a native interface to [[Large-Language-Models]] (LLMs) including [[OpenAI]], [[Anthropic-Claude]], [[Google-Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template-System|template system]].]
 
 ## Core Explanation
 
@@ -128,4 +136,8 @@ importance: medium
 
 **Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
 [[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Smart-Connections|Smart Connections]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[ChatGPT|ChatGPT]] * [[Claude.ai|Claude.ai]] * [[Cognitive-Load|Cognitive Load]] * [[Knowledge-Graph|Knowledge Graph]] * [[Semantic-Search|Semantic Search]] * [[Reference-Note|Reference Note]] * [[Tokens|Tokens]] * [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]]
+
+**Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
+[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Smart-Connections|Smart Connections]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[Cognitive-Load|Cognitive Load]] * [[Knowledge-Graph|Knowledge Graph]] * [[Semantic-Search|Semantic Search]] * [[Reference-Note|Reference Note]] * [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]] * [[LLM|LLM]] * [[Anthropic|Anthropic]] * [[Google|Google]]
+
 

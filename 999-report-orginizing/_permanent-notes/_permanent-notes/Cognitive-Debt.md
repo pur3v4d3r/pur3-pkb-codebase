@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -70,8 +70,16 @@ see-also:
   - "[[Personal-Development|Personal Development]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Metacognition]]"
-  - "[[cognitive-biases|cognitive biases]]"
-  - "[[cognitive-debt|cognitive debt]]"
+  - "[[Cognitive-Biases|cognitive biases]]"
+  - "[[Cognitive-Debt|cognitive debt]]"
+  - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
+  - "[[Cognitive-Biases|Cognitive Biases]]"
+  - "[[Decision-Making|Decision-Making]]"
+  - "[[Personal-Development|Personal Development]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[technical-debt|technical debt]]"
+  - "[[human-cognition|human cognition]]"
   - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
   - "[[Cognitive-Biases|Cognitive Biases]]"
   - "[[Decision-Making|Decision-Making]]"
@@ -106,7 +114,7 @@ importance: medium
 # Cognitive Debt
 
 > [!definition] **Cognitive Debt**
-> <span style='color: #27FF00;'>**Cognitive debt** is the compounding deficit in psychological and developmental well-being arising from the persistent enactment of cognitive schemas, [[heuristics]], and [[cognitive biases]] that favor short-term, cognitively efficient responses over long-term, analytically optimal behaviors</span>. This debt manifests across two primary dimensions: an **internal dimension** (cognitive dissonance, reduced metacognitive awareness, diminished sense of agency) and an **external dimension** (suboptimal decisions, missed opportunities, relationship conflicts, career stagnation). The acquisition of cognitive debt is driven by systematic mechanisms including [[system-justification theory]], [[confirmation bias]], and [[anchoring effects]], which become self-reinforcing through repeated activation.
+> <span style='color: #27FF00;'>**Cognitive debt** is the compounding deficit in psychological and developmental well-being arising from the persistent enactment of cognitive schemas, [[heuristics]], and [[Cognitive-Biases]] that favor short-term, cognitively efficient responses over long-term, analytically optimal behaviors</span>. This debt manifests across two primary dimensions: an **internal dimension** (cognitive dissonance, reduced metacognitive awareness, diminished sense of agency) and an **external dimension** (suboptimal decisions, missed opportunities, relationship conflicts, career stagnation). The acquisition of cognitive debt is driven by systematic mechanisms including [[system-justification theory]], [[Confirmation-Bias]], and [[Anchoring-Effects]], which become self-reinforcing through repeated activation.
 
 ## Core Explanation
 
@@ -133,8 +141,12 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[cognitive-biases|cognitive biases]] · [[cognitive-debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[cognitive-biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[confirmation-bias|confirmation bias]] · [[anchoring-effects|anchoring effects]]
+[[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[Cognitive-Biases|cognitive biases]] · [[Cognitive-Debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[Cognitive-Biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[Confirmation-Bias|confirmation bias]] · [[Anchoring-Effects|anchoring effects]]
 
 **Related concepts** *(from cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md)*:
-[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[debiasing|debiasing]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[availability-heuristic|availability heuristic]] * [[compound-interest|compound interest]] * [[metacognitive-capacity|metacognitive capacity]] * [[Neural-Plasticity|Neural Plasticity]] * [[Adolescence|Adolescence]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]]
+[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[debiasing|debiasing]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[compound-interest|compound interest]] * [[Metacognitive-Capacity|metacognitive capacity]] * [[Neural-Plasticity|Neural Plasticity]] * [[Adolescence|Adolescence]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]]
+
+**Related concepts** *(from cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md)*:
+[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[compound-interest|compound interest]] * [[Metacognitive-Capacity|metacognitive capacity]] * [[Neural-Plasticity|Neural Plasticity]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]] * [[groupthink|groupthink]] * [[optimism-bias|optimism bias]]
+
 
