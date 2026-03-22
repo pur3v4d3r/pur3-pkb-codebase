@@ -896,31 +896,218 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 
 ---
 
-### Phase IX: Appendix — Lexicon, References, and Expansion Topics (renumbered from VIII)
+### Phase IX: Enhanced Resources Section (renumbered from VIII)
 
-#### A. Lexicon of Key Terms (minimum 10 entries)
+The appendix constitutes a structured knowledge asset with eleven subsections. Not all subsections are required for every report — conditional inclusion is determined by the "When Required" criteria below. Subsections marked "Always Required" are non-negotiable.
 
-> [!definition] **{Term} ({Attribution if applicable})**
-> {Precise, self-contained definition with boundary conditions.}
+| Subsection | When Required | Minimum Count |
+|-----------|---------------|---------------|
+| A. Lexicon of Key Terms | Always | 5 terms |
+| B. Key Figures & Intellectual Lineage | When covering established traditions | 3-4 figures |
+| C. Conceptual Tensions & Open Questions | When synthesizing competing frameworks | 2-3 tensions |
+| D. References | Always | 8 entries |
+| E. Methodology & Sources Note | Always (non-negotiable) | — |
+| F. Argument Maps & Visual Summaries | When report involves structural argument | 1 diagram |
+| G. Practical Application Protocols | When report has practical dimensions | 1 protocol |
+| H. Spaced Repetition Seeds | Always | 8 seeds |
+| I. Expansion Topics for the PKB | Always | 4 topics |
+| J. Cross-Report Navigation Map | When part of a series | 1 map |
+| K. Report Quality Self-Assessment | Always (non-negotiable) | — |
 
-#### B. References (minimum 10 entries)
+**Note:** PKB Connections are handled in the dedicated Phase VIII. The appendix cross-references that phase but does not duplicate it.
+
+#### A. Lexicon of Key Terms (minimum 5 entries)
+
+Every significant term defined or used with specialized meaning receives a formal enhanced lexicon entry:
+
+> [!definition] **{Term} ({Attribution — researcher or tradition})**
+> **Definition:** {Precise, self-contained definition with boundary conditions — what the term does NOT mean.}
+>
+> **Report-Specific Significance:** {Why this term matters for the specific analysis in this report.}
+>
+> **Operational Indicators:** {How you would recognize this concept in practice or in data.}
+>
+> **Etymology/Intellectual Lineage:** {Brief origin — who coined it, which tradition it belongs to.}
+>
+> **Cross-References:** [[Related Term 1]], [[Related Term 2]]
+
+#### B. Key Figures & Intellectual Lineage (when covering established traditions; 3-4 figures)
+
+> [!person] **{Name} ({Birth–Death/Active Dates})**
+> **Core Contribution:** {What this figure contributed to the topic under analysis.}
+>
+> **Relationship to Other Figures/Frameworks:** {Intellectual lineage — who influenced them, who they influenced, which school they belong to.}
+>
+> **Key Works:** *{Title 1}* ({Year}), *{Title 2}* ({Year})
+>
+> **Relevance to This Analysis:** {Specific connection to this report's focused argument.}
+
+**Optional:** Include a brief intellectual lineage diagram showing influence relationships when the topic involves a clear tradition of thought.
+
+#### C. Conceptual Tensions & Open Questions (when synthesizing competing frameworks; 2-3 tensions)
+
+> [!tension] **{Named Tension: X vs. Y}**
+> **Position A:** {Description of first position with key proponents.}
+>
+> **Position B:** {Description of second position with key proponents.}
+>
+> **Current Evidence State:** {What the evidence supports, where it's equivocal.}
+>
+> **Why This Matters:** {Stakes of the tension for theory and practice.}
+>
+> **This Report's Stance:** {How the analysis navigates or contributes to this tension.}
+
+> [!open-question] **{Unresolved Question}**
+> {2-4 sentences: What remains unknown, why it matters, what would resolve it.}
+
+#### D. References (minimum 8 entries, organized by category)
+
+Organize references into the most relevant categories from the following. Not all categories are required — use those that fit the report's evidence base:
+
+**Primary Sources** — Foundational works directly advancing the topic's core claims.
+
+**Empirical Evidence** — Studies, experiments, or data-driven works providing evidence.
+
+**Reviews & Meta-Analyses** — Systematic reviews or meta-analyses synthesizing evidence.
+
+**Methodological Sources** — Works informing the analytical approach or methodology.
+
+**Supplementary Sources** — Additional context, historical background, or tangential support.
 
 > [!cite] **{Author(s)} ({Year}). *{Title}*. {Publisher/Journal}. {DOI/URL if applicable}.**
-> {2-3 sentence annotation. Note which phases the source supports.}
+> {2-3 sentence annotation explaining relevance — what it contributes, which phases it supports, why a reader might consult it. Note recommended sections or chapters for focused reading.}
 
-#### C. Methodology and Sources Note
+#### E. Methodology & Sources Note (ALWAYS REQUIRED — non-negotiable)
 
 > [!methodology-and-sources] **Research Grounding for This Report**
-> {Transparent statement about evidence base. Distinguish: (1) empirically established claims, (2) theoretical integrations, (3) Claude's original analytical contributions. Note FAR Transfer methodology grounding.}
+>
+> **Traditions Synthesized:** {Which intellectual traditions inform this analysis.}
+>
+> **Claim-Type Taxonomy:**
+>
+> | Claim Type | Epistemic Status | Basis |
+> |-----------|-----------------|-------|
+> | {Empirically established claims} | Established | {Evidence base} |
+> | {Theoretical integrations} | Moderate–Established | {Framework(s)} |
+> | {Claude's original analytical contributions} | Provisional–Speculative | {Reasoning basis} |
+>
+> **Established vs. Original:** {Explicit statement distinguishing well-established knowledge from the report's original contributions. Each original contribution must be individually identified.}
+>
+> **Limitations:** {Honest assessment of what this analysis does NOT cover, methodological constraints, and population/scope limitations.}
+>
+> **AI Generation Transparency:** This report was generated by Claude (Anthropic) using extended thinking architecture. All claims reflect the evidence base available through training data and web search. Original analytical contributions are clearly marked throughout using the Analytical Commentary System. Human verification is recommended for all empirical claims before citation in academic work. Note FAR Transfer methodology grounding.
 
-#### D. Expansion Topics (4-8 entries)
+#### F. Argument Maps & Visual Summaries (when report involves structural argument; 1+ diagrams)
+
+> [!diagram] **{Title: Core Argument Structure}**
+> ```
+> {ASCII diagram representing the argument's logical structure,
+>  causal relationships, or conceptual architecture.
+>  Use box-and-arrow notation for clarity.}
+> ```
+> **Reading Guide:** {How to interpret the diagram and what it reveals about the argument.}
+
+#### G. Practical Application Protocols (when report has practical dimensions; 1+ protocols)
+
+> [!protocol] **{Protocol Title}**
+> **Context:** {When and why to use this protocol.}
+>
+> **Steps:**
+> 1. {Step with explanation}
+> 2. {Step with explanation}
+> 3. {Step with explanation}
+>
+> **Success Criteria:** {How to know the protocol is working.}
+>
+> **Common Pitfalls:** {What to watch out for.}
+
+#### H. Spaced Repetition Seeds (minimum 8 seeds)
+
+> [!flashcard] **Seed {N}**
+> **Q:** {Question — specific, unambiguous, answerable from report content.}
+>
+> **A:** {Answer — precise, self-contained, includes key nuance.}
+>
+> **Source:** Phase {N}, {specific section or argument reference}
+>
+> **Difficulty:** {Basic | Intermediate | Advanced}
+>
+> **Type:** {Definition | Distinction | Process | Application | Connection}
+>
+> **Tags:** #tag-1, #tag-2
+
+**Distribution requirement:** Seeds should span the report's phases, not cluster in one section. Include at least 2 Application or Connection type seeds. Difficulty distribution should include at least 2 Basic, 3 Intermediate, and 2 Advanced.
+
+#### I. Expansion Topics for the PKB (minimum 4 entries)
 
 > [!further-exploration] **Deepening Your Practice**
 >
 > > [!topic-idea] [[{Expansion Topic 1}]]
-> > {3-5 sentences. For v1.1, at least 1 expansion topic should be framed as a transfer-oriented investigation — extending the analysis's structural insights to a new domain.}
+> > {3-5 sentences: what it covers, why it extends this analysis, what specific questions it addresses.}
+> >
+> > **Connection to This Report:** {Specific link to the analysis.}
+> > **Priority:** {Critical | High | Medium | Exploratory}
+> > **Suggested Report Type:** {Foundational | Focused Analysis | Dialectical Re-Examination | Comparative Synthesis}
+> > **Prerequisites:** [[{Related Note 1}]], [[{Related Note 2}]]
 >
-> {Continue for 4-8 expansion topics.}
+> {Continue for 4-8 expansion topics. For v1.1, at least 1 expansion topic should be framed as a transfer-oriented investigation — extending the analysis's structural insights to a new domain.}
+
+#### J. Cross-Report Navigation Map (when part of a series)
+
+> [!navigation] **Series Position**
+> ```
+> {ASCII diagram showing this report's position within the series.
+>  Mark the current report with ★. Show prerequisite and follow-up
+>  reports with directional arrows.}
+> ```
+> **Reading Order:** {Recommended reading sequence with rationale.}
+> **This Report's Role:** {What this report contributes to the series arc.}
+
+#### K. Report Quality Self-Assessment (ALWAYS REQUIRED)
+
+> [!quality-assessment] **Report Quality Metrics**
+>
+> | Dimension | Score | Evidence | Notes |
+> |-----------|-------|----------|-------|
+> | **Depth of Coverage** | _/10 | {Word count, density layers per concept} | {Any gaps} |
+> | **Structural Completeness** | _/10 | {Callout count, wiki-link count, inline field count} | {Targets met?} |
+> | **Complexity Appropriateness** | _/10 | {Vocabulary level, audience match} | |
+> | **Coverage Completeness** | _/10 | {What was covered vs. what could have been} | {Identified gaps} |
+> | **Accuracy & Evidence** | _/10 | {Citation quality, epistemic status tracking} | |
+> | **Knowledge Graph Contribution** | _/10 | {Wiki-link count, PKB connection categories} | |
+> | **Practical Utility** | _/10 | {Protocols, flashcards, actionable content} | |
+> | **Originality** | _/10 | {Original contributions identified} | {Clearly marked?} |
+> |||||
+> | **Composite Score** | **_/10** | | **{PASS/FAIL}** (threshold: 8.0) |
+>
+> **Identified Limitations:**
+> - {Limitation 1}
+> - {Limitation 2}
+> - {Limitation 3}
+>
+> **Recommendations for Future Revision:**
+> - {Recommendation 1}
+> - {Recommendation 2}
+
+**Honesty mandate:** This section must be genuinely self-critical. Scores of 10/10 across all dimensions should be extremely rare. A report that cannot identify any limitations has not been critically examined.
+
+#### Appendix Implementation Checklist
+
+Before finalizing the appendix, verify:
+
+- [ ] **Lexicon:** ≥5 terms, each with boundary conditions, report significance, and wiki-link cross-references
+- [ ] **Key Figures:** ≥3 figures with lineage relationships (when applicable)
+- [ ] **Tensions:** ≥2 named tensions with positions and evidence (when applicable)
+- [ ] **References:** ≥8 annotated citations organized by category
+- [ ] **Methodology Note:** Claim-type taxonomy table, limitations, AI transparency statement
+- [ ] **Argument Maps:** ≥1 structural diagram (when applicable)
+- [ ] **Practical Protocols:** ≥1 actionable protocol (when applicable)
+- [ ] **SR Seeds:** ≥8 flashcard seeds with type distribution across phases
+- [ ] **Expansion Topics:** ≥4 topics with priority, suggested report type, and prerequisites
+- [ ] **Navigation Map:** Series position diagram (when part of series)
+- [ ] **Quality Self-Assessment:** All dimensional scores with composite, limitations, and revision recommendations
+- [ ] **Wiki-link density:** ≥15 wiki-links across appendix sections
+- [ ] **Callout density:** ≥12 callouts across appendix sections
 
 ---
 
@@ -950,6 +1137,15 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 **Connective:**
 - `> [!connections-and-links]`, `> [!further-exploration]`, `> [!topic-idea]`, `> [!cite]`
 
+**Appendix-Specific (Enhanced Resources Section):**
+- `> [!person]` — Key figure entries
+- `> [!tension]`, `> [!open-question]`, `> [!debate]` — Conceptual tensions and open questions
+- `> [!diagram]` — Argument maps and visual summaries
+- `> [!protocol]`, `> [!checklist]`, `> [!decision-tree]` — Practical application tools
+- `> [!flashcard]` — Spaced repetition seeds
+- `> [!navigation]` — Cross-report series positioning
+- `> [!quality-assessment]` — Report quality self-scoring
+
 ### Minimum Targets (Updated for v1.1)
 
 | Element | Minimum |
@@ -960,11 +1156,14 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 | **Cognitive engagement elements** | 14+ **(up from 12)** |
 | **Section-end summaries** | 6+ **(NEW)** |
 | **Unique wiki-links** | 30+ |
-| **Lexicon entries** | 10+ |
-| **References** | 10+ |
-| **Expansion topics** | 4-8 |
+| **Lexicon entries** | 5+ (enhanced format) |
+| **Key figures** (when applicable) | 3+ |
+| **References** (organized by category) | 8+ |
+| **Spaced repetition seeds** | 8+ |
+| **Expansion topics** (with priority/prerequisites) | 4-8 |
 | **Transfer principles** | 2+ **(NEW)** |
 | **Structural analogues** | 4+ **(NEW)** |
+| **Quality self-assessment** | Present (composite ≥8.0) |
 
 ### Wiki-Link Strategy (Enhanced for v1.1)
 
@@ -1199,9 +1398,14 @@ For each potential connection:
 - [ ] Cognitive engagement: 14+ ✓
 - [ ] Analytical commentary: 8+ ✓
 - [ ] Section-end summaries: 6+ ✓ **(NEW)**
-- [ ] Lexicon: 10+ ✓
-- [ ] References: 10+ ✓
-- [ ] Expansion topics: 4-8 ✓
+- [ ] Lexicon: 5+ with enhanced format (boundary conditions, report significance, cross-refs) ✓
+- [ ] Key figures: 3+ when applicable ✓
+- [ ] Conceptual tensions: 2+ when applicable ✓
+- [ ] References: 8+ organized by category ✓
+- [ ] Methodology note: Claim-type taxonomy table present ✓
+- [ ] Spaced repetition seeds: 8+ with type distribution ✓
+- [ ] Expansion topics: 4-8 with priority and prerequisites ✓
+- [ ] Quality self-assessment: All dimensions scored, composite ≥8.0 ✓
 - [ ] Transfer principles: 2+ ✓ **(NEW)**
 
 ### Section 8: Prose Quality (Score: _/10)

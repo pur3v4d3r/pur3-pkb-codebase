@@ -1316,38 +1316,239 @@ Every Dialectical Re-Examination Report follows an eight-phase architecture. Eac
 
 ---
 
-### Phase VIII: Appendix — Lexicon, References, and Expansion Topics
+### Phase VIII: Enhanced Resources Section
+
+The appendix constitutes a structured knowledge asset with eleven subsections. Not all subsections are required for every report — conditional inclusion is determined by the "When Required" criteria below. Subsections marked "Always Required" are non-negotiable. For dialectical reports, subsections should reflect the thesis-challenge-reconstruction arc where applicable.
+
+| Subsection | When Required | Minimum Count |
+|-----------|---------------|---------------|
+| A. Lexicon of Key Terms | Always | 10 terms |
+| B. Key Figures & Intellectual Lineage | When covering established traditions | 4-6 figures |
+| C. Conceptual Tensions & Open Questions | Always (central to dialectical analysis) | 4 tensions |
+| D. References | Always | 10 entries |
+| E. Methodology & Sources Note | Always (non-negotiable) | — |
+| F. Argument Maps & Visual Summaries | When report involves structural argument | 1 diagram |
+| G. Practical Application Protocols | When report has practical dimensions | 1 protocol |
+| H. Spaced Repetition Seeds | Always | 10 seeds |
+| I. Expansion Topics for the PKB | Always | 4 topics |
+| J. Cross-Report Navigation Map | When part of a series | 1 map |
+| K. Report Quality Self-Assessment | Always (non-negotiable) | — |
+
+**Note:** PKB Connections are handled in the dedicated Phase VII. The appendix cross-references that phase but does not duplicate it.
 
 #### A. Lexicon of Key Terms (minimum 10 entries)
 
-Every significant term defined or used with specialized meaning receives a formal lexicon entry:
+Every significant term defined or used with specialized meaning receives a formal enhanced lexicon entry:
 
-> [!definition] **{Term} ({Attribution if applicable})**
-> {Precise, self-contained definition. Include boundary conditions — what the term does NOT mean. Include intellectual tradition or researcher attribution. For dialectical reports, note if the term's meaning was reconstructed through the dialectical process.}
+> [!definition] **{Term} ({Attribution — researcher or tradition})**
+> **Definition:** {Precise, self-contained definition with boundary conditions — what the term does NOT mean. Include intellectual tradition or researcher attribution. For dialectical reports, note if the term's meaning was reconstructed through the dialectical process — what it meant at the thesis stage vs. what it means after reconstruction.}
+>
+> **Report-Specific Significance:** {Why this term matters for this dialectical re-examination specifically.}
+>
+> **Operational Indicators:** {How you would recognize this concept in practice or in data.}
+>
+> **Etymology/Intellectual Lineage:** {Brief origin — who coined it, which tradition it belongs to.}
+>
+> **Cross-References:** [[Related Term 1]], [[Related Term 2]]
 
-#### B. References (minimum 10 entries)
+#### B. Key Figures & Intellectual Lineage (when covering established traditions; 4-6 figures)
 
-Every cited work receives an annotated reference entry:
+> [!person] **{Name} ({Birth–Death/Active Dates})**
+> **Core Contribution:** {What this figure contributed to the topic under dialectical examination.}
+>
+> **Role in the Dialectical Arc:** {Did this figure's work primarily support the thesis (received view), provide the challenge (counter-evidence or alternative interpretation), or contribute to reconstruction?}
+>
+> **Relationship to Other Figures/Frameworks:** {Intellectual lineage — who influenced them, who they influenced, which school they belong to.}
+>
+> **Key Works:** *{Title 1}* ({Year}), *{Title 2}* ({Year})
+>
+> **Relevance to This Analysis:** {Specific connection to this report's dialectical argument.}
+
+**Optional:** Include a brief intellectual lineage diagram showing influence relationships, particularly when the dialectical tension maps onto different intellectual traditions.
+
+#### C. Conceptual Tensions & Open Questions (minimum 4 tensions — central to dialectical reports)
+
+For dialectical re-examination reports, this section is especially important. The tensions surfaced here should include both the primary dialectical tension of the report and secondary tensions discovered through the perspectival rotation.
+
+> [!tension] **{Named Tension: X vs. Y}**
+> **Position A (Thesis):** {Description of the received view position with key proponents.}
+>
+> **Position B (Challenge):** {Description of the challenging position with key proponents.}
+>
+> **Current Evidence State:** {What the evidence supports, where it's equivocal — drawing from the empirical, philosophical, practical, and critical lenses.}
+>
+> **Why This Matters:** {Stakes of the tension for theory and practice.}
+>
+> **This Report's Resolution:** {How the reconstructive synthesis navigated this tension — what survived, what was modified, what was replaced.}
+
+> [!open-question] **{Unresolved Question Surfaced by Dialectical Scrutiny}**
+> {2-4 sentences: What the dialectical process revealed as genuinely unresolved, why it matters, what evidence or investigation would help resolve it.}
+
+> [!debate] **{Active Scholarly Controversy}**
+> {2-4 sentences: An ongoing debate in the field that this report's dialectical analysis illuminates or contributes to.}
+
+#### D. References (minimum 10 entries, organized by category)
+
+Organize references into the most relevant categories from the following. Not all categories are required — use those that fit the report's evidence base. For dialectical reports, note which references support the thesis vs. challenge vs. reconstruction:
+
+**Primary Sources** — Foundational works that established the received view (thesis).
+
+**Counter-Evidence & Challenge Sources** — Works providing the strongest challenges to the received view.
+
+**Empirical Evidence** — Studies, experiments, or data-driven works providing evidence for either side.
+
+**Reviews & Meta-Analyses** — Systematic reviews synthesizing evidence.
+
+**Methodological Sources** — Works informing the dialectical methodology and perspectival rotation.
+
+**Reconstructive Sources** — Works that inform or support the reconstructed understanding.
+
+**Supplementary Sources** — Additional context, historical background, or tangential support.
 
 > [!cite] **{Author(s)} ({Year}). *{Title}*. {Publisher/Journal}. {DOI/URL if applicable}.**
-> {2-3 sentence annotation explaining relevance — what it contributes, which phases it supports, why a reader might consult it. For transfer literature, note which transfer operations it informs.}
+> {2-3 sentence annotation explaining relevance — what it contributes, which phases it supports (thesis, challenge, or reconstruction), why a reader might consult it. Note recommended sections. For transfer literature, note which transfer operations it informs.}
 
-#### C. Methodology and Sources Note
+#### E. Methodology & Sources Note (ALWAYS REQUIRED — non-negotiable)
 
 > [!methodology-and-sources] **Research Grounding for This Report**
-> {Transparent statement about evidence base. Which intellectual traditions drawn on? What types of evidence support the claims? Explicitly distinguish: (1) empirically established claims, (2) theoretical integrations, (3) Claude's original dialectical contributions. Note the role of the perspectival rotation — which lenses drew on which evidence traditions. Address the dialectical methodology itself: the thesis-challenge-reconstruction structure is a philosophical method with specific epistemic commitments and limitations.}
+>
+> **Traditions Synthesized:** {Which intellectual traditions inform this analysis.}
+>
+> **Claim-Type Taxonomy:**
+>
+> | Claim Type | Epistemic Status | Basis |
+> |-----------|-----------------|-------|
+> | {Empirically established claims} | Established | {Evidence base} |
+> | {Theoretical integrations} | Moderate–Established | {Framework(s)} |
+> | {Thesis claims preserved through scrutiny} | Established–Moderate | {Survived which lenses} |
+> | {Reconstructed understandings} | Moderate–Provisional | {Dialectical reasoning basis} |
+> | {Claude's original dialectical contributions} | Provisional–Speculative | {Reasoning basis} |
+>
+> **Established vs. Original:** {Explicit statement distinguishing well-established knowledge from the report's original contributions. Each original contribution — including reconstructed understandings — must be individually identified.}
+>
+> **Perspectival Rotation Note:** {Which lenses (empirical, philosophical, practical, critical) drew on which evidence traditions. Address which lenses were most productive for this topic and why.}
+>
+> **Dialectical Methodology Note:** {The thesis-challenge-reconstruction structure is a philosophical method with specific epistemic commitments and limitations. Note what this methodology reveals well and where its blind spots lie.}
+>
+> **Limitations:** {Honest assessment of what this analysis does NOT cover, methodological constraints, and population/scope limitations.}
+>
+> **AI Generation Transparency:** This report was generated by Claude (Anthropic) using extended thinking architecture. All claims reflect the evidence base available through training data and web search. Original dialectical contributions are clearly marked throughout using the Analytical Commentary System. Human verification is recommended for all empirical claims before citation in academic work.
 
-#### D. Expansion Topics (4-8 entries)
+#### F. Argument Maps & Visual Summaries (when report involves structural argument; 1+ diagrams)
+
+> [!diagram] **{Title: Dialectical Argument Structure}**
+> ```
+> {ASCII diagram representing the dialectical arc:
+>  Thesis → Challenges (from multiple lenses) → Reconstruction.
+>  Show which elements survived, which were modified, which replaced.
+>  Use box-and-arrow notation for clarity.}
+> ```
+> **Reading Guide:** {How to interpret the diagram and what it reveals about the dialectical process.}
+
+#### G. Practical Application Protocols (when report has practical dimensions; 1+ protocols)
+
+> [!protocol] **{Protocol Title}**
+> **Context:** {When and why to use this protocol — note if it reflects the reconstructed understanding rather than the original thesis.}
+>
+> **Steps:**
+> 1. {Step with explanation}
+> 2. {Step with explanation}
+> 3. {Step with explanation}
+>
+> **Success Criteria:** {How to know the protocol is working.}
+>
+> **Common Pitfalls:** {What to watch out for — including pitfalls that the dialectical analysis revealed.}
+
+#### H. Spaced Repetition Seeds (minimum 10 seeds)
+
+> [!flashcard] **Seed {N}**
+> **Q:** {Question — specific, unambiguous, answerable from report content.}
+>
+> **A:** {Answer — precise, self-contained, includes key nuance.}
+>
+> **Source:** Phase {N}, {specific section or argument reference}
+>
+> **Difficulty:** {Basic | Intermediate | Advanced}
+>
+> **Type:** {Definition | Distinction | Process | Application | Connection}
+>
+> **Tags:** #tag-1, #tag-2
+
+**Distribution requirement:** Seeds should span the report's dialectical arc (thesis, challenge, reconstruction, and transfer), not cluster in one phase. Include at least 2 seeds specifically testing the distinction between the thesis and reconstructed understanding. Include at least 2 Application or Connection type seeds. Difficulty distribution should include at least 2 Basic, 4 Intermediate, and 3 Advanced.
+
+#### I. Expansion Topics for the PKB (minimum 4 entries)
 
 > [!further-exploration] **Deepening Your Practice**
 >
 > > [!topic-idea] [[{Expansion Topic 1}]]
-> > {3-5 sentences: what it covers, why it extends this dialectical analysis, what specific questions it addresses, what value it adds. For dialectical reports, at least 2 expansion topics should themselves be framed as further dialectical examinations — "the reconstructed understanding of X invites its own re-examination, particularly regarding..."}
+> > {3-5 sentences: what it covers, why it extends this dialectical analysis, what specific questions it addresses, what value it adds.}
+> >
+> > **Connection to This Report:** {Specific link to the dialectical analysis.}
+> > **Priority:** {Critical | High | Medium | Exploratory}
+> > **Suggested Report Type:** {Foundational | Focused Analysis | Dialectical Re-Examination | Comparative Synthesis}
+> > **Prerequisites:** [[{Related Note 1}]], [[{Related Note 2}]]
 >
-> > [!topic-idea] [[{Expansion Topic 2}]]
-> > {Same depth.}
+> {Continue for 4-8 expansion topics, ordered by priority. At least 2 expansion topics should themselves be framed as further dialectical examinations — "the reconstructed understanding of X invites its own re-examination, particularly regarding..."}
+
+#### J. Cross-Report Navigation Map (when part of a series)
+
+> [!navigation] **Series Position**
+> ```
+> {ASCII diagram showing this report's position within the series.
+>  Mark the current report with ★. Show prerequisite and follow-up
+>  reports with directional arrows. For dialectical reports, note
+>  which reports provide thesis-source material and which extend
+>  the reconstruction.}
+> ```
+> **Reading Order:** {Recommended reading sequence with rationale.}
+> **This Report's Role:** {What this dialectical re-examination contributes to the series arc.}
+
+#### K. Report Quality Self-Assessment (ALWAYS REQUIRED)
+
+> [!quality-assessment] **Report Quality Metrics**
 >
-> {Continue for 4-8 expansion topics, ordered by priority.}
+> | Dimension | Score | Evidence | Notes |
+> |-----------|-------|----------|-------|
+> | **Depth of Coverage** | _/10 | {Word count, density layers per concept} | {Any gaps} |
+> | **Dialectical Integrity** | _/10 | {Was the challenge genuine? Did reconstruction earn its conclusions?} | {Honest assessment} |
+> | **Structural Completeness** | _/10 | {Callout count, wiki-link count, inline field count} | {Targets met?} |
+> | **Complexity Appropriateness** | _/10 | {Vocabulary level, audience match} | |
+> | **Coverage Completeness** | _/10 | {What was covered vs. what could have been} | {Identified gaps} |
+> | **Accuracy & Evidence** | _/10 | {Citation quality, epistemic status tracking} | |
+> | **Knowledge Graph Contribution** | _/10 | {Wiki-link count, PKB connection categories} | |
+> | **Practical Utility** | _/10 | {Protocols, flashcards, actionable content} | |
+> | **Originality** | _/10 | {Original contributions identified, reconstructed understandings} | {Clearly marked?} |
+> |||||
+> | **Composite Score** | **_/10** | | **{PASS/FAIL}** (threshold: 8.0) |
+>
+> **Identified Limitations:**
+> - {Limitation 1}
+> - {Limitation 2}
+> - {Limitation 3}
+>
+> **Recommendations for Future Revision:**
+> - {Recommendation 1}
+> - {Recommendation 2}
+
+**Honesty mandate:** This section must be genuinely self-critical. Scores of 10/10 across all dimensions should be extremely rare. A report that cannot identify any limitations has not been critically examined. For dialectical reports, special attention to whether the challenge phase was genuinely rigorous or merely performative.
+
+#### Appendix Implementation Checklist
+
+Before finalizing the appendix, verify:
+
+- [ ] **Lexicon:** ≥10 terms, each with boundary conditions, report significance, dialectical reconstruction notes, and wiki-link cross-references
+- [ ] **Key Figures:** ≥4 figures with lineage relationships and dialectical role (when applicable)
+- [ ] **Tensions:** ≥4 named tensions with thesis/challenge positions and evidence
+- [ ] **References:** ≥10 annotated citations organized by category (thesis/challenge/reconstruction)
+- [ ] **Methodology Note:** Claim-type taxonomy table, perspectival rotation note, dialectical methodology note, limitations, AI transparency
+- [ ] **Argument Maps:** ≥1 dialectical structure diagram (when applicable)
+- [ ] **Practical Protocols:** ≥1 actionable protocol (when applicable)
+- [ ] **SR Seeds:** ≥10 flashcard seeds spanning the dialectical arc with type distribution
+- [ ] **Expansion Topics:** ≥4 topics with priority, suggested report type, and prerequisites (≥2 framed as further dialectical examinations)
+- [ ] **Navigation Map:** Series position diagram (when part of series)
+- [ ] **Quality Self-Assessment:** All dimensional scores (including dialectical integrity) with composite, limitations, and revision recommendations
+- [ ] **Wiki-link density:** ≥20 wiki-links across appendix sections
+- [ ] **Callout density:** ≥15 callouts across appendix sections
 
 ---
 
@@ -1398,6 +1599,19 @@ Every cited work receives an annotated reference entry:
 - `> [!topic-idea]` — Individual expansion topic entries
 - `> [!cite]` — Reference entries (Phase VIII)
 
+**Appendix-Specific (Enhanced Resources Section):**
+- `> [!person]` — Key figures & intellectual lineage entries
+- `> [!tension]` — Named conceptual tensions with thesis/challenge positions
+- `> [!open-question]` — Unresolved questions surfaced by dialectical scrutiny
+- `> [!debate]` — Active scholarly controversies
+- `> [!diagram]` — Argument maps & visual summaries (dialectical arc)
+- `> [!protocol]` — Practical application protocols
+- `> [!checklist]` — Verification checklists
+- `> [!decision-tree]` — Decision frameworks
+- `> [!flashcard]` — Spaced repetition seed entries
+- `> [!navigation]` — Cross-report navigation maps
+- `> [!quality-assessment]` — Report quality self-assessment with dimensional scoring
+
 ### Minimum Targets
 
 | Element | Minimum |
@@ -1409,11 +1623,15 @@ Every cited work receives an annotated reference entry:
 | **Steel-man constructions specifically** | 1+ |
 | **Cognitive engagement elements** | 14+ |
 | **Unique wiki-links** | 30+ |
-| **Lexicon entries** | 10+ |
-| **References** | 10+ |
-| **Expansion topics** | 4-8 |
+| **Lexicon entries** | 10+ (enhanced format with boundary conditions, dialectical reconstruction notes, and cross-refs) |
+| **Key figures** | 4+ (with lineage relationships and dialectical role) |
+| **Conceptual tensions** | 4+ (with thesis/challenge positions and evidence state) |
+| **References** | 10+ (organized by category: thesis/challenge/reconstruction sources) |
+| **Spaced repetition seeds** | 10+ (spanning dialectical arc; ≥2 Basic, ≥4 Intermediate, ≥3 Advanced) |
+| **Expansion topics** | 4-8 (with priority, suggested report type, prerequisites; ≥2 as further dialectical examinations) |
 | **Transfer principles extracted** | 2+ |
 | **Structural analogues identified** | 4+ |
+| **Quality self-assessment** | Present (composite score ≥8.0) |
 
 ### Wiki-Link Strategy
 
@@ -1671,9 +1889,14 @@ When referencing other reports, note the *dialectical relationship*:
 - [ ] Analytical commentary: 13+ ✓
 - [ ] Assumption challenges: 2+ ✓
 - [ ] Steel-man constructions: 1+ ✓
-- [ ] Lexicon: 10+ entries ✓
-- [ ] References: 10+ entries ✓
-- [ ] Expansion topics: 4-8 ✓
+- [ ] Lexicon: 10+ entries with enhanced format (boundary conditions, dialectical reconstruction notes, cross-refs) ✓
+- [ ] Key figures: 4+ with lineage relationships and dialectical role ✓
+- [ ] Conceptual tensions: 4+ with thesis/challenge positions and evidence state ✓
+- [ ] References: 10+ entries organized by category (thesis/challenge/reconstruction) ✓
+- [ ] Methodology note: Claim-type taxonomy table, perspectival rotation note, dialectical methodology note ✓
+- [ ] Spaced repetition seeds: 10+ spanning dialectical arc with type distribution ✓
+- [ ] Expansion topics: 4-8 with priority, suggested report type, prerequisites ✓
+- [ ] Quality self-assessment: All dimensional scores with composite, limitations, recommendations ✓
 - [ ] Transfer principles: 2+ ✓
 
 ### Section 8: Prose Quality (Score: _/10)

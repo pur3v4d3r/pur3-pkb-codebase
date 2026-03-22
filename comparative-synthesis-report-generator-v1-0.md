@@ -977,34 +977,240 @@ Every Comparative Synthesis Report follows an eight-phase architecture. Each pha
 
 ---
 
-### Phase VIII: Appendix — Lexicon, References, and Expansion Topics
+### Phase VIII: Enhanced Resources Section
+
+The appendix constitutes a structured knowledge asset with eleven subsections. Not all subsections are required for every report — conditional inclusion is determined by the "When Required" criteria below. Subsections marked "Always Required" are non-negotiable. For comparative synthesis reports, subsections should reflect the multi-framework analysis and systematic dimensional comparison where applicable.
+
+| Subsection | When Required | Minimum Count |
+|-----------|---------------|---------------|
+| A. Lexicon of Key Terms | Always | 10 terms |
+| B. Key Figures & Intellectual Lineage | When covering established traditions | 5-8 figures |
+| C. Conceptual Tensions & Open Questions | Always | 3 tensions |
+| D. References | Always | 12 entries |
+| E. Methodology & Sources Note | Always (non-negotiable) | — |
+| F. Argument Maps & Visual Summaries | When report involves structural argument | 1 diagram |
+| G. Practical Application Protocols | When report has practical dimensions | 1 protocol |
+| H. Spaced Repetition Seeds | Always | 10 seeds |
+| I. Expansion Topics for the PKB | Always | 4 topics |
+| J. Cross-Report Navigation Map | When part of a series | 1 map |
+| K. Report Quality Self-Assessment | Always (non-negotiable) | — |
+
+**Note:** PKB Connections are handled in the dedicated Phase VII. The appendix cross-references that phase but does not duplicate it.
 
 #### A. Lexicon of Key Terms (minimum 10 entries)
 
-> [!definition] **{Term} ({Framework Attribution if applicable})**
-> {Precise, self-contained definition. For comparative reports, note if the term is used differently across frameworks — and if so, specify how each framework defines it. This disambiguation is one of the lexicon's most valuable functions.}
+Every significant term defined or used with specialized meaning receives a formal enhanced lexicon entry. For comparative reports, cross-framework disambiguation is one of the lexicon's most valuable functions:
 
-#### B. References (minimum 10 entries)
+> [!definition] **{Term} ({Framework Attribution if applicable})**
+> **Definition:** {Precise, self-contained definition with boundary conditions — what the term does NOT mean. For comparative reports, note if the term is used differently across frameworks — and if so, specify how each framework defines it. This disambiguation is critical.}
+>
+> **Report-Specific Significance:** {Why this term matters for this comparative synthesis specifically.}
+>
+> **Operational Indicators:** {How you would recognize this concept in practice or in data.}
+>
+> **Etymology/Intellectual Lineage:** {Brief origin — who coined it, which tradition it belongs to.}
+>
+> **Cross-References:** [[Related Term 1]], [[Related Term 2]]
+
+#### B. Key Figures & Intellectual Lineage (when covering established traditions; 5-8 figures)
+
+> [!person] **{Name} ({Birth–Death/Active Dates})**
+> **Core Contribution:** {What this figure contributed to the topic under comparison.}
+>
+> **Framework Affiliation:** {Which framework(s) this figure is primarily associated with and their role in developing it.}
+>
+> **Relationship to Other Figures/Frameworks:** {Intellectual lineage — who influenced them, who they influenced, which school they belong to.}
+>
+> **Key Works:** *{Title 1}* ({Year}), *{Title 2}* ({Year})
+>
+> **Relevance to This Analysis:** {Specific connection to this report's comparative argument.}
+
+**Optional:** Include a brief intellectual lineage diagram showing influence relationships across frameworks, particularly when the comparative tension maps onto different intellectual traditions.
+
+#### C. Conceptual Tensions & Open Questions (minimum 3 tensions)
+
+> [!tension] **{Named Tension: Framework X vs. Framework Y on Dimension Z}**
+> **Position A ({Framework X}):** {Description of how this framework approaches the dimension, with key proponents.}
+>
+> **Position B ({Framework Y}):** {Description of how this framework approaches the dimension, with key proponents.}
+>
+> **Classification:** {Complementarity | Conflict | Convergence — drawing from the report's dimensional analysis.}
+>
+> **Current Evidence State:** {What the evidence supports, where it's equivocal.}
+>
+> **Why This Matters:** {Stakes of the tension for theory and practice.}
+>
+> **This Report's Resolution:** {How the comparative synthesis navigated this tension — integrative yield, what survived, what was reconciled.}
+
+> [!open-question] **{Unresolved Question Surfaced by Comparative Analysis}**
+> {2-4 sentences: What the comparison revealed as genuinely unresolved, why it matters, what evidence or investigation would help resolve it.}
+
+> [!debate] **{Active Scholarly Controversy}**
+> {2-4 sentences: An ongoing debate in the field that this report's comparative analysis illuminates or contributes to.}
+
+#### D. References (minimum 12 entries, organized by category)
+
+Organize references into the most relevant categories from the following. Not all categories are required — use those that fit the report's evidence base. For comparative reports, note which framework(s) each source supports:
+
+**Framework-Specific Sources** — Subcategorized by framework:
+
+*{Framework A} Sources:*
+*{Framework B} Sources:*
+*{Framework C} Sources:* (if applicable)
+
+**Comparative & Integrative Sources** — Works that systematically compare these frameworks.
+
+**Empirical Evidence** — Studies, experiments, or data-driven works providing evidence for any framework.
+
+**Reviews & Meta-Analyses** — Systematic reviews synthesizing evidence across frameworks.
+
+**Methodological Sources** — Works informing the comparative methodology and dimensional mapping.
+
+**Supplementary Sources** — Additional context, historical background, or tangential support.
 
 > [!cite] **{Author(s)} ({Year}). *{Title}*. {Publisher/Journal}. {DOI/URL if applicable}.**
-> {2-3 sentence annotation. Note which framework(s) the source supports, which phases it informs, and why a reader might consult it directly.}
+> {2-3 sentence annotation explaining relevance — what it contributes, which framework(s) it supports, which phases it informs, and why a reader might consult it. Note recommended sections.}
 
-#### C. Methodology and Sources Note
+#### E. Methodology & Sources Note (ALWAYS REQUIRED — non-negotiable)
 
 > [!methodology-and-sources] **Research Grounding for This Report**
-> {Which traditions drawn on. Types of evidence. Explicitly distinguish: (1) empirically established claims within individual frameworks, (2) comparative findings derived from systematic dimensional analysis, (3) integrative syntheses and FAR transfer principles that represent Claude's original analytical contributions. Note the comparative methodology itself: dimensional mapping, complementarity/conflict/convergence classification, and integrative yield assessment.}
+>
+> **Traditions Synthesized:** {Which intellectual traditions inform this analysis — one per framework.}
+>
+> **Claim-Type Taxonomy:**
+>
+> | Claim Type | Epistemic Status | Basis |
+> |-----------|-----------------|-------|
+> | {Empirically established claims within individual frameworks} | Established | {Evidence base} |
+> | {Comparative findings from systematic dimensional analysis} | Moderate–Established | {Dimensional mapping methodology} |
+> | {Complementarity/conflict/convergence classifications} | Moderate | {Comparative evidence} |
+> | {Integrative syntheses and transfer principles} | Provisional–Moderate | {Claude's analytical synthesis} |
+> | {Claude's original comparative contributions} | Provisional–Speculative | {Reasoning basis} |
+>
+> **Established vs. Original:** {Explicit statement distinguishing well-established knowledge from the report's original contributions. Each original contribution — including integrative syntheses — must be individually identified.}
+>
+> **Comparative Methodology Note:** {Dimensional mapping, complementarity/conflict/convergence classification, and integrative yield assessment are analytical methods with specific epistemic commitments and limitations. Note what this comparative methodology reveals well and where its blind spots lie.}
+>
+> **Limitations:** {Honest assessment of what this analysis does NOT cover, methodological constraints, frameworks not included, and dimensions not examined.}
+>
+> **AI Generation Transparency:** This report was generated by Claude (Anthropic) using extended thinking architecture. All claims reflect the evidence base available through training data and web search. Original comparative contributions are clearly marked throughout using the Analytical Commentary System. Human verification is recommended for all empirical claims before citation in academic work.
 
-#### D. Expansion Topics (4-8 entries)
+#### F. Argument Maps & Visual Summaries (when report involves structural argument; 1+ diagrams)
+
+> [!diagram] **{Title: Comparative Framework Mapping}**
+> ```
+> {ASCII diagram representing the dimensional comparison:
+>  Show frameworks across dimensions, areas of complementarity,
+>  conflict, and convergence. Use box-and-arrow notation for clarity.
+>  May include: framework profiles mapped onto dimensional axes,
+>  integrative yield zones, or synthesis relationships.}
+> ```
+> **Reading Guide:** {How to interpret the diagram and what it reveals about the framework relationships.}
+
+#### G. Practical Application Protocols (when report has practical dimensions; 1+ protocols)
+
+> [!protocol] **{Protocol Title}**
+> **Context:** {When and why to use this protocol — note which framework(s) inform it and whether it reflects the integrative synthesis.}
+>
+> **Steps:**
+> 1. {Step with explanation}
+> 2. {Step with explanation}
+> 3. {Step with explanation}
+>
+> **Success Criteria:** {How to know the protocol is working.}
+>
+> **Common Pitfalls:** {What to watch out for — including cross-framework confusions the comparative analysis revealed.}
+
+#### H. Spaced Repetition Seeds (minimum 10 seeds)
+
+> [!flashcard] **Seed {N}**
+> **Q:** {Question — specific, unambiguous, answerable from report content.}
+>
+> **A:** {Answer — precise, self-contained, includes key nuance.}
+>
+> **Source:** Phase {N}, {specific section or argument reference}
+>
+> **Difficulty:** {Basic | Intermediate | Advanced}
+>
+> **Type:** {Definition | Distinction | Process | Application | Connection}
+>
+> **Tags:** #tag-1, #tag-2
+
+**Distribution requirement:** Seeds should span the report's comparative architecture (framework profiling, dimensional comparison, complementarity/conflict/convergence, synthesis, and transfer), not cluster in one phase. Include at least 2 seeds specifically testing cross-framework distinctions. Include at least 2 Application or Connection type seeds. Difficulty distribution should include at least 2 Basic, 4 Intermediate, and 3 Advanced.
+
+#### I. Expansion Topics for the PKB (minimum 4 entries)
 
 > [!further-exploration] **Deepening Your Practice**
 >
 > > [!topic-idea] [[{Expansion Topic 1}]]
-> > {3-5 sentences. For comparative reports, at least 2 expansion topics should involve extending the comparison — either adding frameworks not included, examining a dimension not covered, or applying the comparative methodology to a related framework landscape.}
+> > {3-5 sentences: what it covers, why it extends this comparative analysis, what specific questions it addresses, what value it adds.}
+> >
+> > **Connection to This Report:** {Specific link to the comparative analysis.}
+> > **Priority:** {Critical | High | Medium | Exploratory}
+> > **Suggested Report Type:** {Foundational | Focused Analysis | Dialectical Re-Examination | Comparative Synthesis}
+> > **Prerequisites:** [[{Related Note 1}]], [[{Related Note 2}]]
 >
-> > [!topic-idea] [[{Expansion Topic 2}]]
-> > {Same depth.}
+> {Continue for 4-8 expansion topics, ordered by priority. At least 2 expansion topics should involve extending the comparison — either adding frameworks not included, examining a dimension not covered, or applying the comparative methodology to a related framework landscape.}
+
+#### J. Cross-Report Navigation Map (when part of a series)
+
+> [!navigation] **Series Position**
+> ```
+> {ASCII diagram showing this report's position within the series.
+>  Mark the current report with ★. Show prerequisite and follow-up
+>  reports with directional arrows. For comparative reports, note
+>  which reports provide framework-specific deep dives and which
+>  extend the comparison.}
+> ```
+> **Reading Order:** {Recommended reading sequence with rationale.}
+> **This Report's Role:** {What this comparative synthesis contributes to the series arc.}
+
+#### K. Report Quality Self-Assessment (ALWAYS REQUIRED)
+
+> [!quality-assessment] **Report Quality Metrics**
 >
-> {Continue for 4-8 expansion topics, ordered by priority.}
+> | Dimension | Score | Evidence | Notes |
+> |-----------|-------|----------|-------|
+> | **Depth of Coverage** | _/10 | {Word count, density layers per concept} | {Any gaps} |
+> | **Comparative Rigor** | _/10 | {Was the dimensional analysis systematic? Were classifications evidence-based?} | {Honest assessment} |
+> | **Structural Completeness** | _/10 | {Callout count, wiki-link count, inline field count} | {Targets met?} |
+> | **Complexity Appropriateness** | _/10 | {Vocabulary level, audience match} | |
+> | **Coverage Completeness** | _/10 | {What was covered vs. what could have been} | {Identified gaps} |
+> | **Accuracy & Evidence** | _/10 | {Citation quality, epistemic status tracking} | |
+> | **Knowledge Graph Contribution** | _/10 | {Wiki-link count, PKB connection categories} | |
+> | **Practical Utility** | _/10 | {Protocols, flashcards, actionable content} | |
+> | **Originality** | _/10 | {Original contributions identified, integrative syntheses} | {Clearly marked?} |
+> |||||
+> | **Composite Score** | **_/10** | | **{PASS/FAIL}** (threshold: 8.0) |
+>
+> **Identified Limitations:**
+> - {Limitation 1}
+> - {Limitation 2}
+> - {Limitation 3}
+>
+> **Recommendations for Future Revision:**
+> - {Recommendation 1}
+> - {Recommendation 2}
+
+**Honesty mandate:** This section must be genuinely self-critical. Scores of 10/10 across all dimensions should be extremely rare. A report that cannot identify any limitations has not been critically examined. For comparative reports, special attention to whether the dimensional analysis was truly systematic or whether the comparison favored one framework.
+
+#### Appendix Implementation Checklist
+
+Before finalizing the appendix, verify:
+
+- [ ] **Lexicon:** ≥10 terms, each with boundary conditions, report significance, cross-framework disambiguation, and wiki-link cross-references
+- [ ] **Key Figures:** ≥5 figures with lineage relationships and framework affiliation (when applicable)
+- [ ] **Tensions:** ≥3 named tensions with framework positions and complementarity/conflict/convergence classification
+- [ ] **References:** ≥12 annotated citations organized by category (framework-specific + comparative)
+- [ ] **Methodology Note:** Claim-type taxonomy table, comparative methodology note, limitations, AI transparency
+- [ ] **Argument Maps:** ≥1 comparative framework mapping diagram (when applicable)
+- [ ] **Practical Protocols:** ≥1 actionable protocol (when applicable)
+- [ ] **SR Seeds:** ≥10 flashcard seeds spanning the comparative architecture with type distribution
+- [ ] **Expansion Topics:** ≥4 topics with priority, suggested report type, and prerequisites (≥2 extending the comparison)
+- [ ] **Navigation Map:** Series position diagram (when part of series)
+- [ ] **Quality Self-Assessment:** All dimensional scores (including comparative rigor) with composite, limitations, and revision recommendations
+- [ ] **Wiki-link density:** ≥20 wiki-links across appendix sections
+- [ ] **Callout density:** ≥15 callouts across appendix sections
 
 ---
 
@@ -1099,6 +1305,19 @@ Inherits the full suite taxonomy plus two new types:
 
 Plus all standard definitional, analytical, cognitive engagement, practical, and connective callout types from the suite.
 
+**Appendix-Specific (Enhanced Resources Section):**
+- `> [!person]` — Key figures & intellectual lineage entries
+- `> [!tension]` — Named conceptual tensions with framework positions
+- `> [!open-question]` — Unresolved questions surfaced by comparative analysis
+- `> [!debate]` — Active scholarly controversies
+- `> [!diagram]` — Argument maps & visual summaries (comparative framework mapping)
+- `> [!protocol]` — Practical application protocols
+- `> [!checklist]` — Verification checklists
+- `> [!decision-tree]` — Decision frameworks
+- `> [!flashcard]` — Spaced repetition seed entries
+- `> [!navigation]` — Cross-report navigation maps
+- `> [!quality-assessment]` — Report quality self-assessment with dimensional scoring
+
 ### Minimum Targets
 
 | Element | Minimum |
@@ -1110,10 +1329,14 @@ Plus all standard definitional, analytical, cognitive engagement, practical, and
 | **Other analytical commentary** | 5+ |
 | **Cognitive engagement elements** | 14+ |
 | **Unique wiki-links** | 30+ |
-| **Lexicon entries** | 10+ |
-| **References** | 10+ |
-| **Expansion topics** | 4-8 |
+| **Lexicon entries** | 10+ (enhanced format with boundary conditions, cross-framework disambiguation, and cross-refs) |
+| **Key figures** | 5+ (with lineage relationships and framework affiliation) |
+| **Conceptual tensions** | 3+ (with framework positions and C/C/C classification) |
+| **References** | 12+ (organized by category: framework-specific + comparative) |
+| **Spaced repetition seeds** | 10+ (spanning comparative architecture; ≥2 Basic, ≥4 Intermediate, ≥3 Advanced) |
+| **Expansion topics** | 4-8 (with priority, suggested report type, prerequisites; ≥2 extending the comparison) |
 | **Transfer principles** | 2+ |
+| **Quality self-assessment** | Present (composite score ≥8.0) |
 
 ### Wiki-Link Strategy
 
@@ -1334,9 +1557,22 @@ For each potential connection:
 - [ ] Application bridges specific enough to act on
 
 ### Section 7: Structural Completeness (Score: _/10)
-- [ ] All eight phases present
+- [ ] All eight phases present and complete
 - [ ] Metadata fully populated
-- [ ] All minimum targets met
+- [ ] Total callouts: 24+ ✓
+- [ ] Wiki-links: 30+ ✓
+- [ ] Cognitive engagement elements: 14+ ✓
+- [ ] Framework profiles: 3+ ✓
+- [ ] Comparative findings: 3+ ✓
+- [ ] Lexicon: 10+ entries with enhanced format (boundary conditions, cross-framework disambiguation, cross-refs) ✓
+- [ ] Key figures: 5+ with lineage relationships and framework affiliation ✓
+- [ ] Conceptual tensions: 3+ with framework positions and C/C/C classification ✓
+- [ ] References: 12+ entries organized by category (framework-specific + comparative) ✓
+- [ ] Methodology note: Claim-type taxonomy table, comparative methodology note ✓
+- [ ] Spaced repetition seeds: 10+ spanning comparative architecture with type distribution ✓
+- [ ] Expansion topics: 4-8 with priority, suggested report type, prerequisites ✓
+- [ ] Quality self-assessment: All dimensional scores with composite, limitations, recommendations ✓
+- [ ] Transfer principles: 2+ ✓
 
 ### Section 8: Prose Quality (Score: _/10)
 - [ ] Scholarly comparative prose throughout
