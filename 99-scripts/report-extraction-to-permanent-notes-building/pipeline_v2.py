@@ -789,7 +789,7 @@ def stage_index(execute: bool = False) -> StageResult:
 
     args = [
         "--input", str(PERMANENT_NOTES_DIR),
-        "--name", "_permanent-notes-index",
+        "--name", ".permanent-notes-index",
         "--exclude", "_pipeline-output,test-output",
     ]
 
