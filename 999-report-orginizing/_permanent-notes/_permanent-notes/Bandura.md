@@ -23,20 +23,22 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Adaptive-Inference]]"
+  - "[[Cyclical-Model-of-Self-Regulated-Learning]]"
   - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
   - "[[📖-Analysis-Paralysis]]"
   - "[[📖-Ecological-Rationality]]"
@@ -45,8 +47,6 @@ see-also:
   - "[[📖-Kathekon]]"
   - "[[📖-Kathêkon]]"
   - "[[📖-Knightian-Uncertainty]]"
-  - "[[📖-Phronesis]]"
-  - "[[📖-Recognition-Primed-Decision-Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,14 @@ importance: medium
 # Bandura
 
 > [!definition] **Bandura**
-> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
+- [[Adaptive-Inference]]
+- [[Cyclical-Model-of-Self-Regulated-Learning]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
 - [[📖-Analysis-Paralysis]]
 - [[📖-Ecological-Rationality]]

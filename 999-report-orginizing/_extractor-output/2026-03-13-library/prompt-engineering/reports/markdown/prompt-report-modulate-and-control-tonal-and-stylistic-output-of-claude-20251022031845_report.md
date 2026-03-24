@@ -312,7 +312,7 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > The principles discussed here strongly connect to the field of [[Human-Computer Interaction (HCI)]]. We are in the process of moving from *explicit* interfaces (buttons, menus) to *linguistic* interfaces. Learning to "prompt" effectively is analogous to learning a new programming language—a language for communicating *intent* to a non-human intelligence.
 > 
-> This also connects deeply to [[Cognitive-Science|Cognitive Science]] and [[Pedagogy]]. A student can use these techniques to transform Claude into an infinite variety of educational tools:
+> This also connects deeply to [[Cognitive-Science|Cognitive Science]] and [[pedagogy]]. A student can use these techniques to transform Claude into an infinite variety of educational tools:
 > 
 >   - `You are a Socratic tutor. Do not give me the answer. Instead, ask me leading questions to help me discover the answer myself.` (Analytical)
 >   - `You are a storytelling partner. We will write a story together. I will write one paragraph, and you will write the next.` (Creative)
@@ -401,7 +401,7 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Constitutional AI (CAI)]]
 - [[Human-Computer Interaction (HCI)]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Persona-Driven Prompting]]
 - [[Structural Scaffolding (LLMs)]]
 
@@ -411,7 +411,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 338 |
 | 2 | [[Cognitive-Science|Cognitive Science]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
-| 3 | [[Pedagogy]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
+| 3 | [[pedagogy]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
 | 4 | [[Constitutional AI (CAI)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 413 |
 | 5 | [[Persona-Driven Prompting]] | — | — | 9. 🧠Key Questions for Active Reading ... | 414 |
 | 6 | [[Structural Scaffolding (LLMs)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 415 |
@@ -498,7 +498,7 @@ Write a 500-word description of a traveler arriving at the gates of an ancient, 
 - [[Cognitive-Science|Cognitive Science]]
 - [[Constitutional AI (CAI)]]
 - [[Human-Computer Interaction (HCI)]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Persona-Driven Prompting]]
 - [[Structural Scaffolding (LLMs)]]
 

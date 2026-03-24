@@ -173,7 +173,7 @@ I need to explore Dataview's inline query capabilities systematically across mul
 - Expansion section linking to advanced topics
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge-Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]
+[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge-Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard-Design]], [[PKB Architecture]]
 
 
 ---
@@ -184,7 +184,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 # 📊 Dataview Inline Queries: Complete Reference Compendium
 
 > [!abstract] Overview
-> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard Design]] and [[PKB Architecture]] implementations.
+> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard-Design]] and [[PKB Architecture]] implementations.
 
 > [!important] Inline Query Fundamentals
 > **Syntax Structure:** `` `= <expression>` ``
@@ -636,7 +636,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### A. Reading Time Estimation
 
 > [!example] Content Analysis
-> Combine multiple metrics to derive useful composite values for [[Dashboard Design]].
+> Combine multiple metrics to derive useful composite values for [[Dashboard-Design]].
 
 #### 33. **Reading Time Variants**
 
@@ -1124,7 +1124,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 1. **[[DataviewJS Advanced Patterns]]**
    - *Connection*: DataviewJS provides programmatic query capabilities beyond inline syntax
    - *Depth Potential*: Complex filtering, custom rendering, dynamic dashboard generation
-   - *Knowledge Graph Role*: Advanced automation layer for [[Dashboard Design]]
+   - *Knowledge Graph Role*: Advanced automation layer for [[Dashboard-Design]]
 
 2. **[[Templater Integration with Dataview]]**
    - *Connection*: Combining [[Templater]] dynamic content generation with Dataview queries

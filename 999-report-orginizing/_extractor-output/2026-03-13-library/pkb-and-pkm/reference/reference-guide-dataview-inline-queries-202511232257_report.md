@@ -260,7 +260,7 @@ extraction_summary:
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 202)*
 
 > [!connections-and-links] Untitled
-> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content) architectures and [[Dashboard Design]].
+> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content) architectures and [[Dashboard-Design|Dashboard Design]].
 
 #### 16. [EXAMPLE] Untitled *(Line 209)*
 
@@ -539,7 +539,7 @@ extraction_summary:
 > 5. Progress to cross-note queries (`[[Note]].field`)
 > 6. Build confidence with counters and basic aggregations
 > 7. Advance to complex filtering and conditional logic
-> 8. Finally, integrate into [[Template Integration]] systems and [[Dashboard Design]]
+> 8. Finally, integrate into [[Template Integration]] systems and [[Dashboard-Design|Dashboard Design]]
 
 ---
 
@@ -554,7 +554,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[2024-11-20]]
 - [[Daily Notes]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview Functions]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]]
@@ -603,7 +603,7 @@ extraction_summary:
 | 15 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 199 |
 | 16 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 17 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
-| 18 | [[Dashboard Design]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
+| 18 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 19 | [[Task-Management|Task Management]] | — | — | 📋 Task & Progress Tracking | 219 |
 | 20 | [[Template Integration]] | — | — | 🧩 Template Integration | 294 |
 | 21 | [[Templater]] | — | — | 🧩 Template Integration | 294 |
@@ -619,11 +619,11 @@ extraction_summary:
 | 31 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🎯 Best Practices Summary | 484 |
 | 32 | [[Note]] | — | — | 🎯 Best Practices Summary | 489 |
 | 33 | [[Template Integration]] | — | — | 🎯 Best Practices Summary | 492 |
-| 34 | [[Dashboard Design]] | — | — | 🎯 Best Practices Summary | 492 |
+| 34 | [[Dashboard-Design|Dashboard Design]] | — | — | 🎯 Best Practices Summary | 492 |
 | 35 | [[Dataview Query Language (DQL)]] | — | — | 🔗 Related Topics for PKB Expansion | 498 |
 | 36 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔗 Related Topics for PKB Expansion | 501 |
 | 37 | [[DataviewJS — JavaScript API]] | — | — | 🔗 Related Topics for PKB Expansion | 503 |
-| 38 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 506 |
+| 38 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 506 |
 | 39 | [[YAML Frontmatter Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 508 |
 | 40 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 511 |
 | 41 | [[Templater Plugin Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 513 |
@@ -637,7 +637,7 @@ extraction_summary:
 | 49 | [[JavaScript Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 576 |
 | 50 | [[Template Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 577 |
 | 51 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 578 |
-| 52 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 579 |
+| 52 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 579 |
 | 53 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 580 |
 | 54 | [[Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 581 |
 | 55 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 582 |
@@ -923,7 +923,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
 - [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content)
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Task-Management|Task Management]]
 - [[Daily Notes]]
 - [[Zettelkasten]]
@@ -972,7 +972,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[2024-11-20]]
 - [[Daily Notes]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview Functions]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]]

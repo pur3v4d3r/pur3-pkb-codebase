@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -70,7 +70,7 @@ narrower:
 see-also:
   - "[[understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[Pedagogy]]"
+  - "[[pedagogy]]"
   - "[[Rote-memorization|Rote memorization]]"
   - "[[classical-mechanics|classical mechanics]]"
   - "[[Tacit-Knowledge|tacit knowledge]]"
@@ -78,15 +78,7 @@ see-also:
   - "[[Tacit-Knowledge|tacit knowledge]]"
   - "[[understanding|understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[Pedagogy|pedagogy]]"
-  - "[[Rote-memorization|Rote memorization]]"
-  - "[[classical-mechanics|classical mechanics]]"
-  - "[[Tacit-Knowledge|tacit knowledge]]"
-  - "[[Michael-Polanyi|Michael Polanyi]]"
-  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
-  - "[[understanding|understanding]]"
-  - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[Pedagogy|pedagogy]]"
+  - "[[pedagogy|pedagogy]]"
   - "[[Rote-memorization|Rote memorization]]"
   - "[[classical-mechanics|classical mechanics]]"
   - "[[Tacit-Knowledge|tacit knowledge]]"
@@ -103,7 +95,8 @@ enables:
   - "[[]]"
 
 expansion-topics:
-  - topic: "[[]]"
+  - topic: "[[!topic-idea-The-Teaching-Problem-Can-Understanding-Be-Transmitted-If-understandi|> [!topic-idea] **The Teaching Problem: Can Understanding Be Transmitted?**
+> If understanding is fu]]"
     description: ""
     priority: medium
 
@@ -133,15 +126,13 @@ importance: high
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> [!reflection] **Reflect**
 > The Questioner is about to pose what seems like a simple question: *What does it mean to truly understand something?* Before reading the Respondent's answer, formulate your own. You might reach for phrases like "being able to explain it," or "knowing why, not just what," or "being able to use it." Write something down — even a sentence. As the dialogue unfolds, you will encounter the same scrutiny applied to your answer. Let the Respondent speak for you.
 
-> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> [!reflection] **Reflect**
 > At this point, the Respondent's position is fully articulated: understanding is the capacity for structural, mechanistic explanation that survives probing. Do you agree? Think about a subject you feel you genuinely understand. Could you pass the explanation-test? And now think about a subject where you feel uncertain — would the test accurately capture your degree of understanding, or does something feel off about using explanation as the measure? Hold that intuition. It will matter.
-
 
 ## Connections & Context
 
@@ -154,27 +145,10 @@ importance: high
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 
 **Related concepts:**
-[[understanding]] · [[Richard-Feynman|Richard Feynman]] · [[Pedagogy]] · [[Rote-memorization|Rote memorization]] · [[classical-mechanics|classical mechanics]] · [[Tacit-Knowledge|tacit knowledge]] · [[Michael-Polanyi|Michael Polanyi]] · [[Tacit-Knowledge|tacit knowledge]] · [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] · [[Gilbert-Ryle|Gilbert Ryle]] · [[knowing-how]] · [[knowing-that]] · [[electromagnetism]] · [[Cognitive-Psychology|cognitive psychology]] · [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]
+[[understanding]] · [[Richard-Feynman|Richard Feynman]] · [[pedagogy]] · [[Rote-memorization|Rote memorization]] · [[classical-mechanics|classical mechanics]] · [[Tacit-Knowledge|tacit knowledge]] · [[Michael-Polanyi|Michael Polanyi]] · [[Tacit-Knowledge|tacit knowledge]] · [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] · [[Gilbert-Ryle|Gilbert Ryle]] · [[knowing-how]] · [[knowing-that]] · [[electromagnetism]] · [[cognitive-psychology|cognitive psychology]] · [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]
 
 **Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
 
 **Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -193,5 +167,16 @@ importance: high
 
 
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Research Grounding for This Dialogue**
+> This dialogue draws on two distinct traditions. The first is the Socratic method itself, as reconstructed primarily through Plato's early *elenctic* dialogues (*Euthyphro*, *Meno*, *Laches*, *Charmides*) and through Vlastos's analytical reconstruction of the elenctic procedure's logical structure. The Questioner's moves in this dialogue follow the Vlastosian pattern: eliciting additional commitments and demonstrating their incompatibility with the initial thesis.
+> 
+> The second tradition is empirical cognitive science and the philosophy of mind, specifically the literatures on tacit knowledge…
 
+---
+
+## Source Attribution
+
+**Extracted from:** [[what-does-it-mean-to-truley-understand-something-2026-03-10]]
+**Report ID:** `understanding-socratic-dialogue-2026-03-10`

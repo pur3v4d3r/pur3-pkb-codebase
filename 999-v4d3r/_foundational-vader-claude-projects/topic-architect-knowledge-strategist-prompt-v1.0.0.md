@@ -489,7 +489,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 5. **Prioritize by Impact**: Rank gaps by how much they'd strengthen the graph
 
 **Example**:
-- Existing: Notes on [[Behaviorism]], [[Cognitive-Psychology]], [[Neuroscience]]
+- Existing: Notes on [[Behaviorism]], [[cognitive-psychology]], [[Neuroscience]]
 - Gap Identified: Missing bridge between cognitive and neural levels
 - Topic Proposed: [[Neural Correlates of Cognitive Processes]] or [[Cognitive Neuroscience Methodology]]
 </methodology>

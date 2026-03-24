@@ -264,7 +264,7 @@ Second, the **empirical status and theoretical integrity of the [[Expertise-Reve
 
 Third, the **theoretical architecture of the three-load framework** — specifically whether [[Germane-Cognitive-Load|germane cognitive load]] is a scientifically sound construct or a theoretical artifact that generates explanatory flexibility at the cost of empirical rigor.
 
-For comprehensive treatment of [[Working-Memory|working memory]] architecture, [[Schema-Theory|schema theory]], and the broader history of [[Cognitive-Psychology|cognitive psychology]], foundational resources in [[Educational-Psychology|Educational Psychology]] provide appropriate depth. Here, we assume that background and drill into the specific analytical terrain described above.
+For comprehensive treatment of [[Working-Memory|working memory]] architecture, [[Schema-Theory|schema theory]], and the broader history of [[cognitive-psychology|cognitive psychology]], foundational resources in [[Educational-Psychology|Educational Psychology]] provide appropriate depth. Here, we assume that background and drill into the specific analytical terrain described above.
 
 ### Why This Analysis Matters
 

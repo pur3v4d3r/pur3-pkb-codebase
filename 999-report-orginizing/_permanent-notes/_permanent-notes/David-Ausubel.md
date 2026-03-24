@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "David Ausubel"
+title: "David-Ausubel"
 aliases:
-  - "David Ausubel"
+  - "David-Ausubel"
 type: permanent-note
 status: seedling
 confidence: low
@@ -15,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - person-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,66 +23,56 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 28
+referenced-by-count: 11
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Accommodation]]"
+  - "[[Advance-Organizer]]"
   - "[[Assimilation]]"
-  - "[[Assimilation-and-Accommodation]]"
-  - "[[Betweenness-Centrality]]"
-  - "[[Boundary-Objects]]"
-  - "[[Cognitive-Disequilibrium]]"
-  - "[[Conceptual-Change]]"
-  - "[[Constructive-Alignment]]"
-  - "[[Constructivism]]"
-  - "[[Elaboration-Theory]]"
+  - "[[Comparative-Advance-Organizer]]"
+  - "[[Comparative-Organizer]]"
+  - "[[Elaborative-Interrogation]]"
+  - "[[Expository-Advance-Organizer]]"
+  - "[[Expository-Organizer]]"
+  - "[[Meaningful-Learning]]"
+  - "[[Obliterative-Subsumption]]"
+  - "[[Prior-Knowledge]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
-# David Ausubel
+# David-Ausubel
 
-> [!definition] **David Ausubel**
-> *Stub note — person referenced by 28 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> [!definition] **David-Ausubel**
+> *Stub note — concept referenced by 11 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 28 permanent notes.*
+*Auto-generated stub — referenced by 11 permanent notes.*
 
 ## Referenced By
 
-- [[Accommodation]]
+- [[Advance-Organizer]]
 - [[Assimilation]]
-- [[Assimilation-and-Accommodation]]
-- [[Betweenness-Centrality]]
-- [[Boundary-Objects]]
-- [[Cognitive-Disequilibrium]]
-- [[Conceptual-Change]]
-- [[Constructive-Alignment]]
-- [[Constructivism]]
-- [[Elaboration-Theory]]
-- [[Epitome]]
-- [[Integration-Paradox]]
-- [[Integrative-Reconciliation]]
-- [[Knowledge-Integration]]
-- [[Prior-Knowledge-Activation]]
-- [[Progressive-Differentiation]]
-- [[Schema-Progressive-Architecture]]
-- [[Small-World-Network]]
-- [[Small-World-Networks]]
-- [[Small-World-PKB-Principle]]
-- *...and 8 more permanent notes*
+- [[Comparative-Advance-Organizer]]
+- [[Comparative-Organizer]]
+- [[Elaborative-Interrogation]]
+- [[Expository-Advance-Organizer]]
+- [[Expository-Organizer]]
+- [[Meaningful-Learning]]
+- [[Obliterative-Subsumption]]
+- [[Prior-Knowledge]]
+- [[Subsumer-Anchoring-Idea]]

@@ -1182,7 +1182,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 *Weekly review completed: [ ]*
 `````
 
-**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic Planning]] at the weekly cadence.
+**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning]] at the weekly cadence.
 
 **Key Features:**
 - Automatic weekly review triggers and checklists

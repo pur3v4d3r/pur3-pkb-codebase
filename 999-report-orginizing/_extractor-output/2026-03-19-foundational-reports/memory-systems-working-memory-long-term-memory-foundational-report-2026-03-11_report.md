@@ -749,7 +749,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Learning Science]]
 

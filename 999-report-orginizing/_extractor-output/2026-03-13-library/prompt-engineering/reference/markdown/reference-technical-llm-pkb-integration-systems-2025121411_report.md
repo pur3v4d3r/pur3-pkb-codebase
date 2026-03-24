@@ -425,7 +425,7 @@ extraction_summary:
 #### 9. [SYNTHESIS-OPPORTUNITY] Attention as Resource Allocation *(Line 535)*
 
 > [!synthesis-opportunity] Attention as Resource Allocation
-> **Source Domain**: [[Cognitive-Psychology|Cognitive Psychology]] — [[Kahneman Capacity Model]]
+> **Source Domain**: [[cognitive-psychology|Cognitive Psychology]] — [[Kahneman Capacity Model]]
 > **Target Domains**: 
 >   - [[Economics]] — scarcity/allocation parallels
 >   - [[Computer Science]] — CPU scheduling algorithms
@@ -654,7 +654,7 @@ extraction_summary:
 - [[Claim-Name-1]]
 - [[Claim-Name-2]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Comprehensive LLM-PKB Integration Systems]]
 - [[Computer Science]]
@@ -771,7 +771,7 @@ extraction_summary:
 | 24 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 498 |
 | 25 | [[Inert-Knowledge|Inert Knowledge]] | — | — | 11. **Application Context Markers** —... | 501 |
 | 26 | [[Evidence-Based Practice]] | — | — | 12. **Evidence Weight Indicators** — ... | 509 |
-| 27 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
+| 27 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
 | 28 | [[Kahneman Capacity Model]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
 | 29 | [[Economics]] | — | — | 13. **Synthesis Potential Markers** —... | 538 |
 | 30 | [[Computer Science]] | — | — | 13. **Synthesis Potential Markers** —... | 539 |
@@ -1466,7 +1466,7 @@ cognitive-load:
 
 ```markdown
 > [!synthesis-opportunity] Attention as Resource Allocation
-> **Source Domain**: [[Cognitive-Psychology|Cognitive Psychology]] — [[Kahneman Capacity Model]]
+> **Source Domain**: [[cognitive-psychology|Cognitive Psychology]] — [[Kahneman Capacity Model]]
 > **Target Domains**: 
 >   - [[Economics]] — scarcity/allocation parallels
 >   - [[Computer Science]] — CPU scheduling algorithms
@@ -3004,7 +3004,7 @@ for (let letter of sortedLetters) {
 - [[Claim-Name-1]]
 - [[Claim-Name-2]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Comprehensive LLM-PKB Integration Systems]]
 - [[Computer Science]]

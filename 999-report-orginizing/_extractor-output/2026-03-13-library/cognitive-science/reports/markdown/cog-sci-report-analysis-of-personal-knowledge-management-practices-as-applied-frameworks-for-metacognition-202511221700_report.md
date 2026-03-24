@@ -61,7 +61,7 @@ extraction_summary:
   - ## 1\. 🎯 The Core Concept: A Foundational Baseline
     - ### 1.1. Baseline Definition
     - ### 1.2. Foundational Principles
-  - ## 2\. 🌉 The First Bridge: Analysis via [[Cognitive-Psychology|Cognitive Psychology]]
+  - ## 2\. 🌉 The First Bridge: Analysis via [[cognitive-psychology|Cognitive Psychology]]
     - ### 2.1. A New Lens: Cognitive Psychology's Perspective
     - ### 2.2. Emergent Insights & Connections
   - ## 3\. 🌉 The Second Bridge: Analysis via [[Information-Science|Information Science]]
@@ -136,7 +136,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 36)*
 
 > [!abstract] Untitled
-> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive-Psychology|Cognitive Psychology]]**, **[[Information-Science|Information Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
+> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[cognitive-psychology|Cognitive Psychology]]**, **[[Information-Science|Information Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 45)*
 
@@ -161,7 +161,7 @@ extraction_summary:
 #### 6. [THE-PURPOSE] Untitled *(Line 69)*
 
 > [!the-purpose] Untitled
-> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[Cognitive-Psychology|Cognitive Psychology]]**, specifically through the lens of **[[Metacognition]]**.
+> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[cognitive-psychology|Cognitive Psychology]]**, specifically through the lens of **[[Metacognition]]**.
 
 #### 7. [QUESTION] Untitled *(Line 74)*
 
@@ -321,7 +321,7 @@ extraction_summary:
 - [[Algorithm of Thought]]
 - [[Associative Indexing]]
 - [[Bidirectional Link]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Computing]]
 - [[Connectivism]]
 - [[Constructivism]]
@@ -359,15 +359,15 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 34 |
 | 2 | [[Metacognition]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 34 |
-| 3 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
+| 3 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
 | 4 | [[Information-Science|Information Science]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
 | 5 | [[Educational Theory]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
 | 6 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 1\. 🎯 The Core Concept: A Foundationa... | 46 |
 | 7 | [[Productivity Science]] | — | — | 1\. 🎯 The Core Concept: A Foundationa... | 46 |
 | 8 | [[Information Overload]] | — | — | 1.1. Baseline Definition | 52 |
-| 9 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 65 |
+| 9 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 65 |
 | 10 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
-| 11 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
+| 11 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
 | 12 | [[Metacognition]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
 | 13 | [[Extended Cognition]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 76 |
 | 14 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 76 |
@@ -475,7 +475,7 @@ $$
 - [[Algorithm of Thought]]
 - [[Associative Indexing]]
 - [[Bidirectional Link]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Computing]]
 - [[Connectivism]]
 - [[Constructivism]]

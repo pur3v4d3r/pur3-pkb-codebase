@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,14 +72,6 @@ see-also:
   - "[[Autonomy]]"
   - "[[Competence]]"
   - "[[Relatedness]]"
-  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
-  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[Organismic-Integration|Organismic Integration]]"
-  - "[[Carl-Rogers|Carl Rogers]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Autonomy|Autonomy]]"
-  - "[[Competence|Competence]]"
-  - "[[Relatedness|Relatedness]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Organismic-Integration|Organismic Integration]]"
@@ -136,6 +128,15 @@ importance: high
 
 ## Core Explanation
 
+> [!evidence] Supporting Evidence
+> The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+> [!evidence] Supporting Evidence
+> The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+> [!evidence] Supporting Evidence
+> The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
 > [!analytical-insight] Key Insight
 > Human beings possess three innate, universal basic psychological needs — autonomy, competence, and relatedness. The satisfaction of these needs is the proximal cause of intrinsic motivation and psychological well-being; their frustration is the proximal cause of ill-being and controlled motivation. This causal relationship holds across cultures, developmental stages, and life domains.
 
@@ -143,15 +144,6 @@ importance: high
 > 1. Human motivation exists on a quality dimension from compelled-external to volitional-internal, and position on this dimension has independent causal effects on behavioural, cognitive, and affective outcomes.
 > 2. Motivation quality is a relational-emergent property of person-context transactions, not solely an internal property of the person.
 > 3. Social contexts that structure goal pursuit with rationale, choice, and informational (rather than controlling) feedback shift motivation quality…
-
-> [!evidence] Supporting Evidence *(from self-determination-theory-first-principles-report-2026-03-11.md)*
-> The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
-
-> [!evidence] Supporting Evidence *(from self-determination-theory-first-principles-report-2026-03-11.md)*
-> The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
-
-> [!evidence] Supporting Evidence *(from self-determination-theory-first-principles-report-2026-03-11.md)*
-> The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
 
 > [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
 > **Primary Sources and Scholarly Works**
@@ -214,9 +206,6 @@ importance: high
 
 
 
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -237,16 +226,14 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from self-determination-theory-first-principles-report-2026-03-11.md)*
-> Before the deconstruction begins, consider: what do you currently believe about why people are motivated? Do you believe there are universal human motivations that transcend culture? Do you think external rewards always undermine intrinsic interest, or only sometimes? Where did those beliefs come from — personal experience, your education, a specific course or book? The goal is not to abandon your priors but to make them visible, so you can track which ones survive the audit and which ones don't.
+> [!reflection] **Reflect**
+> Before the deconstruction begins, consider: what do you currently believe about why people are motivated? Do you believe there are universal human motivations that transcend culture? Do you think external rewards always undermine intrinsic interest, or only sometimes? Where did those beliefs come from — personal experience, your education, a specific course or book? The goal is not to abandon your priors but to make them visible, so you can track which ones survive the audit and which ones…
 
-> [!reflection] **Reflect** *(from self-determination-theory-first-principles-report-2026-03-11.md)*
+> [!reflection] **Reflect**
 > 1. Which assumption's dissolution surprised you most? For many readers, the innateness claim (Assumption 2) is assumed so deeply that its dissolution feels disorienting — needs seem so obviously basic. Its dissolution points to the difference between "reliably predicts well-being" and "is a biological necessity."
-> 2. Which survived most intact? The empirical core — that something like autonomy, competence, and relatedness satisfaction consistently predicts flourishing outcomes — is robustly supported, even if its theoretical framing as innate and universal is not.
-> 3. What does the assumption map reveal? The assumptions cluster around two underlying commitments: a philosophical anthropology (humans are naturally growth-oriented organisms with innate needs) and an empirical research programme (need satisfaction predicts well-being). These two layers are conflated in the standard presentation but are separable — the empirical programme can survive the dissolution of the philosophical anthropology.
+> 2. Which survived most intact? The empirical core — that something like autonomy, competence, and relatedness satisfaction consistently predicts flourishing outcomes — is robustly…
 
 > [!reflection] **Reflect** *(from stoicism-codebase-pack.md)*
 > **Reflective Questions for Personal Application**
@@ -266,7 +253,6 @@ importance: high
 
 
 
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -282,58 +268,6 @@ importance: high
 
 **Related concepts:**
 [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Organismic-Integration|Organismic Integration]] · [[Carl-Rogers|Carl Rogers]] · [[Abraham-Maslow|Abraham Maslow]] · [[Self-Determination-Theory-Foundational-Report|Self-Determination Theory Foundational Report]] · [[Socratic-Dialogue-on-Autonomy-and-Self-Determination|Socratic Dialogue on Autonomy and Self-Determination]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]] · [[Humanistic-Psychology|Humanistic Psychology]] · [[Growth-Mindset|Growth Mindset]]
-
-**Related concepts** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Organismic-Integration|Organismic Integration]] * [[Carl-Rogers|Carl Rogers]] * [[Abraham-Maslow|Abraham Maslow]] * [[Self-Determination-Theory-Foundational-Report|Self-Determination Theory Foundational Report]] * [[Socratic-Dialogue-on-Autonomy-and-Self-Determination|Socratic Dialogue on Autonomy and Self-Determination]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]] * [[Humanistic-Psychology|Humanistic Psychology]] * [[Growth-Mindset|Growth Mindset]] * [[Philosophy-of-Agency|Philosophy of Agency]] * [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]] * [[Bratman's-Planning-Theory|Bratman's Planning Theory]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
-
-**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
-- [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Philosophy-of-Agency|Philosophy of Agency]]
 
 **Related concepts** *(from self-determination-theory-first-principles-report-2026-03-11.md, stoicism-codebase-pack.md)*:
 [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Organismic-Integration|Organismic Integration]] * [[Carl-Rogers|Carl Rogers]] * [[Abraham-Maslow|Abraham Maslow]] * [[Self-Determination-Theory-Foundational-Report|Self-Determination Theory Foundational Report]] * [[Socratic-Dialogue-on-Autonomy-and-Self-Determination|Socratic Dialogue on Autonomy and Self-Determination]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]] * [[Humanistic-Psychology|Humanistic Psychology]] * [[Growth-Mindset|Growth Mindset]] * [[Philosophy-of-Agency|Philosophy of Agency]] * [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]] * [[Bratman's-Planning-Theory|Bratman's Planning Theory]]
@@ -419,6 +353,140 @@ importance: high
 
 
 
+## References
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Untitled**: **Primary Sources and Scholarly Works**
+
+The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+- [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+- [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+- [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+- [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+- [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+
+For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+- **Research Sources and Academic Literature**: **Metacognition and Journaling:**
+- [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+- [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+- [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+- [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+- [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+- [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+
+**Memory Consolidation and Sleep:**
+- [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+- [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+- [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+- [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+- [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+
+**Stoic Philosophy and Marcus Aurelius:**
+- [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+- [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+- [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+
+**Behavioral Modification and Habit Formation:**
+- [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+- [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+- [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+- [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+- [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
 
 
 
@@ -426,3 +494,67 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This analysis draws from three intellectual traditions: (1) the empirical SDT literature, primarily peer-reviewed publications from Deci, Ryan, and their collaborators spanning 1971–2023, including meta-analyses; (2) cross-cultural psychology, particularly the Markus-Kitayama tradition on self-construals; and (3) analytic philosophy of agency (Frankfurt, Bratman, Korsgaard) and philosophy of mind concerning innateness (Prinz, Griffiths).
+> 
+> The empirical audit of assumptions relies primarily on the SDT empirical literature itself, including internal revisions (the need satisfaction/frustration…
+
+---
+
+> [!methodology-and-sources] **🛠️ The Stoic Evening Examination Protocol** *(from stoicism-codebase-pack.md)*
+> Marcus Aurelius's practice, reconstructed from the *Meditations* and supplemented by modern neuroscientific understanding, follows a systematic structure:
+> 
+> **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
+> 
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> 
+> **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
+> 
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+
+
+## Source Attribution
+
+**Extracted from:** [[self-determination-theory-first-principles-report-2026-03-11]]
+**Report ID:** `self-determination-theory-first-principles-report-2026-03-11`

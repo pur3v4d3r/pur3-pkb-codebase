@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -82,14 +82,6 @@ see-also:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Attentional-Bottleneck|Attentional Bottleneck]]"
-  - "[[Cognitive-Load-Theory-and-the-Attentional-Bottleneck:-A-Quantitative-Analysis-of-Context-Switching-Costs-and-Monotasking-Protocols|Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Attention|Attention]]"
-  - "[[Executive-Function|Executive Function]]"
-  - "[[Schema-Theory|Schema Theory]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Attentional-Bottleneck|Attentional Bottleneck]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -125,50 +117,20 @@ importance: medium
 > 
 > A comprehensive quantitative study analyzing task-switching performance across 40 years of age range (N=356 participants, ages 6-45) revealed that multitasking exacts **<span style='color: #FF00DC;'>95% longer completion times and 120% more errors</span>** among high school students compared to monotask execution. This performance decrement remained consistent across all age groups and gender categories regardless of prior…
 
-> [!analytical-insight] Key Insight
-> <span style='color: #27FF00;'>Information processing operates through a fixed-capacity channel protected by an attentional filter that selects inputs based on physical properties (pitch, location, intensity) before any semantic analysis occurs, thereby preventing cognitive overload</span>. This early selection architecture implies that unattended information never reaches consciousness or undergoes meaningful processing, being discarded at the sensory buffer stage.
-
-> [!analytical-insight] Key Insight
-> <span style='color: #27FF00;'>Controlled experimental research demonstrates that monotasking **significantly outperforms** multitasking across multiple performance dimensions</span>. In studies where participants completed Sudoku and Word Search puzzles under different scheduling conditions—sequential execution versus forced alternation versus free choice—sequential (monotask) execution produced **<span style='color: #27FF00;'>superior overall performance</span>** compared to both forced…
-
-> [!evidence] Supporting Evidence *(from cog-psy-critical-examination-of-cognitive-load-theory-and-the-attentional-bottleneck-202512170123.md)*
+> [!evidence] Supporting Evidence
 > Altmann, E. M., & Trafton, J. G. (2002). Memory for goals: An activation-based model. *Cognitive Science, 26*(1), 39-83.
 > 
 > Broadbent, D. E. (1958). *Perception and communication.* Pergamon Press.
 > 
 > Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095-1102.
 > 
-> Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87-114.
-> 
-> Deutsch, J. A., & Deutsch, D. (1963). Attention: Some theoretical considerations. *Psychological Review, 70*(1), 80-90.
-> 
-> Dönmez, O., & Akbulut, Y. (2020). Timing and relevance of secondary tasks impact multitasking performance. *Computers & Education, 148*, 103801.
-> 
-> Draheim, C., Hicks, K. L., & Engle, R. W. (2016). Combining reaction time and accuracy: The relationship between working memory capacity and task switching as a case example. *Perspectives on Psychological Science, 11*(1), 133-155.
-> 
-> Lavie, N. (2005). Distracted and confused?: Selective attention under load. *Trends in Cognitive Sciences, 9*(2), 75-82.
-> 
-> Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. *Organizational Behavior and Human Decision Processes, 109*(2), 168-181.
-> 
-> Newport, C. (2016). *Deep work: Rules for focused success in a distracted world.* Grand Central Publishing. [https://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/](https://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/)
-> 
-> Rogers, R. D., & Monsell, S. (1995). Costs of a predictable switch between simple cognitive tasks. *Journal of Experimental Psychology: General, 124*(2), 207-231.
-> 
-> Stoet, G., O'Connor, D. B., Conner, M., & Laws, K. R. (2025). Multitasking. *Experimental Economics.* Cambridge University Press. [https://www.cambridge.org/core/journals/experimental-economics/article/multitasking/0D8CADEA4C6F6ACDBB1E51615B5D67DA](https://www.cambridge.org/core/journals/experimental-economics/article/multitasking/0D8CADEA4C6F6ACDBB1E51615B5D67DA)
-> 
-> Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.
-> 
-> Treisman, A. M. (1964). Selective attention in man. *British Medical Bulletin, 20*(1), 12-16.
-> 
-> **Empirical Performance Data:**
-> 
-> [Context switching performance metrics](https://reclaim.ai/blog/context-switching) — Comprehensive workplace statistics on switching frequency and cognitive capacity loss
-> 
-> [Task switching costs across age groups](https://www.researchgate.net/publication/329128035_THE_COST_OF_MULTITASKING_A_COMPUTER-ASSISTED_QUANTITATIVE_STUDY_OF_TASK-SWITCHING_COSTS_IN_SPEED_AND_ACCURACY_BY_AGE_AND_GENDER) — Large-scale quantitative study documenting 95% time increase and 120% error increase
-> 
-> [Memory encoding during task switching](https://pmc.ncbi.nlm.nih.gov/articles/PMC6716143/) — Experimental evidence for memory impairment on switch trials
-> 
-> [Drift diffusion modeling of switching](https://pmc.ncbi.nlm.nih.gov/articles/PMC5801306/) — Computational decomposition of cognitive processes underlying switch costs
+> Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity.…
+
+> [!analytical-insight] Key Insight
+> <span style='color: #27FF00;'>Information processing operates through a fixed-capacity channel protected by an attentional filter that selects inputs based on physical properties (pitch, location, intensity) before any semantic analysis occurs, thereby preventing cognitive overload</span>. This early selection architecture implies that unattended information never reaches consciousness or undergoes meaningful processing, being discarded at the sensory buffer stage.
+
+> [!analytical-insight] Key Insight
+> <span style='color: #27FF00;'>Controlled experimental research demonstrates that monotasking **significantly outperforms** multitasking across multiple performance dimensions</span>. In studies where participants completed Sudoku and Word Search puzzles under different scheduling conditions—sequential execution versus forced alternation versus free choice—sequential (monotask) execution produced **<span style='color: #27FF00;'>superior overall performance</span>** compared to both forced…
 
 > [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > Studies of the worked example effect have demonstrated its operation in mathematics, physics, geometry, computer programming, chess, and medical diagnosis. The effect is moderated by expertise (see expertise reversal effect) and by the design of the examples themselves — poorly formatted examples that require learners to search for the relevant information reintroduce extraneous load and can eliminate the benefit. Meta-analyses by Sweller et al. (1998) and Atkinson et al. (2000) confirm the effect is robust and practically significant. The effect is typically defined as superior test performance following example study compared to equivalent problem-solving practice, controlling for time-on-task.
@@ -199,7 +161,6 @@ importance: medium
 
 > [!analytical-insight] Key Insight *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
 > Paul and Elder's central insight is that poor critical thinking is not a unitary failure but a specific failure at a specific element measured against a specific standard. A student who produces a vague argument is failing on the standard of *clarity*. One who cites irrelevant evidence is failing on *relevance*. One who argues from only one point of view is failing on *breadth*. This diagnostic specificity is what makes the framework practically useful — it tells the educator *where* to intervene, not merely *that* intervention is needed.
-
 
 
 
@@ -299,41 +260,130 @@ importance: medium
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Socratic-Method|Socratic Method]]
 
-**Related concepts** *(from cog-psy-critical-examination-of-cognitive-load-theory-and-the-attentional-bottleneck-202512170123.md, cognitive-load-theory-foundational-report-2026-03-11.md, critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-[[Cognitive-Load-Theory-and-the-Attentional-Bottleneck:-A-Quantitative-Analysis-of-Context-Switching-Costs-and-Monotasking-Protocols|Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]] * [[Executive-Function|Executive Function]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Attentional-Bottleneck|Attentional Bottleneck]] * [[Context-Switching|Context Switching]] * [[Instructional-Design|Instructional Design]] * [[Productivity-Systems|Productivity Systems]] * [[Knowledge-Work|Knowledge Work]] * [[Working-Memory-Capacity|Working Memory Capacity]] * [[Prefrontal-Cortex|Prefrontal Cortex]] * [[Psychological-Refractory-Period|Psychological Refractory Period]] * [[Pomodoro-Technique|Pomodoro Technique]] * [[Psychological-Refractory-Period-and-Response-Selection-Bottlenecks|Psychological Refractory Period and Response Selection Bottlenecks]] * [[Reaction-Time-Measurement|Reaction Time Measurement]] * [[Response-Selection|Response Selection]]
-
-**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-- [[Metacognition-in-Learning|Metacognition in Learning]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Socratic-Method|Socratic Method]]
-
-**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-- [[Metacognition-in-Learning|Metacognition in Learning]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Socratic-Method|Socratic Method]]
 
 
 
 
 
+## References
+
+- **Primary Research Sources**: Altmann, E. M., & Trafton, J. G. (2002). Memory for goals: An activation-based model. *Cognitive Science, 26*(1), 39-83.
+
+Broadbent, D. E. (1958). *Perception and communication.* Pergamon Press.
+
+Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095-1102.
+
+Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87-114.
+
+Deutsch, J. A., & Deutsch, D. (1963). Attention: Some theoretical considerations. *Psychological Review, 70*(1), 80-90.
+
+Dönmez, O., & Akbulut, Y. (2020). Timing and relevance of secondary tasks impact multitasking performance. *Computers & Education, 148*, 103801.
+
+Draheim, C., Hicks, K. L., & Engle, R. W. (2016). Combining reaction time and accuracy: The relationship between working memory capacity and task switching as a case example. *Perspectives on Psychological Science, 11*(1), 133-155.
+
+Lavie, N. (2005). Distracted and confused?: Selective attention under load. *Trends in Cognitive Sciences, 9*(2), 75-82.
+
+Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. *Organizational Behavior and Human Decision Processes, 109*(2), 168-181.
+
+Newport, C. (2016). *Deep work: Rules for focused success in a distracted world.* Grand Central Publishing. [https://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/](https://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/)
+
+Rogers, R. D., & Monsell, S. (1995). Costs of a predictable switch between simple cognitive tasks. *Journal of Experimental Psychology: General, 124*(2), 207-231.
+
+Stoet, G., O'Connor, D. B., Conner, M., & Laws, K. R. (2025). Multitasking. *Experimental Economics.* Cambridge University Press. [https://www.cambridge.org/core/journals/experimental-economics/article/multitasking/0D8CADEA4C6F6ACDBB1E51615B5D67DA](https://www.cambridge.org/core/journals/experimental-economics/article/multitasking/0D8CADEA4C6F6ACDBB1E51615B5D67DA)
+
+Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.
+
+Treisman, A. M. (1964). Selective attention in man. *British Medical Bulletin, 20*(1), 12-16.
+
+**Empirical Performance Data:**
+
+[Context switching performance metrics](https://reclaim.ai/blog/context-switching) — Comprehensive workplace statistics on switching frequency and cognitive capacity loss
+
+[Task switching costs across age groups](https://www.researchgate.net/publication/329128035_THE_COST_OF_MULTITASKING_A_COMPUTER-ASSISTED_QUANTITATIVE_STUDY_OF_TASK-SWITCHING_COSTS_IN_SPEED_AND_ACCURACY_BY_AGE_AND_GENDER) — Large-scale quantitative study documenting 95% time increase and 120% error increase
+
+[Memory encoding during task switching](https://pmc.ncbi.nlm.nih.gov/articles/PMC6716143/) — Experimental evidence for memory impairment on switch trials
+
+[Drift diffusion modeling of switching](https://pmc.ncbi.nlm.nih.gov/articles/PMC5801306/) — Computational decomposition of cognitive processes underlying switch costs
+
+- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
+
+- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
+
+- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
+
+- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
+
+- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
+
+- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
+
+- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
+
+- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
+
+- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Drift Diffusion Modeling of Task-Switching**
+> Advanced computational techniques employing the **<span style='color: #72FFF1;'>Drift Diffusion Model (DDM)</span>** have decomposed task-switching costs into constituent cognitive processes, revealing that performance decrements stem primarily from changes in the **<span style='color: #72FFF1;'>decision boundary</span>** parameter—the amount of evidence required before initiating a response—rather than alterations in drift rate (information accumulation speed). Specifically, training on task-switching reduces decision boundaries more substantially than it improves drift rates (t(304) =…
+
+---
+
+> [!methodology-and-sources] **On the Evidence Base for CLT** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The empirical claims in this report are grounded in an extensive experimental literature spanning more than three decades. The bulk of this literature consists of controlled laboratory experiments with students as participants, manipulating presentation format and measuring immediate test performance. The strengths of this evidence base include: large number of experiments, consistent directional findings for major effects, replication across diverse domains. The limitations include: near-exclusive use of subjective single-item effort ratings; heavily laboratory-based designs that may not generalize to authentic classroom settings; predominantly WEIRD samples (Western, educated, industrialized, rich, democratic); short-term learning outcomes (hours to days) rather than long-term retention; emphasis on near transfer rather than far transfer. The CLT literature is robust but should be interpreted within these constraints.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> This report synthesises across three primary intellectual traditions: the philosophical tradition of epistemology and informal logic (Socrates, Dewey, Ennis, McPeck); the empirical educational psychology tradition (Bloom, Facione, Abrami et al.'s meta-analyses, Willingham); and the cognitive science tradition (Kahneman on dual process theory, Sweller on cognitive load, Flavell on metacognition). The synthesis is original in integrating these traditions into a unified picture of CT's cognitive architecture, pedagogical requirements, and limitations.
+> 
+> Claims about CT effectiveness are grounded in empirical research where such research exists, primarily Abrami et al.'s (2015) meta-analysis. Claims about cognitive mechanisms draw on well-established findings in cognitive psychology. Claims about theoretical frameworks represent scholarly consensus within the CT research community, with significant debates (e.g., domain-generality) presented as genuine open questions rather than resolved positions.
+> 
+> The primary limitation of this synthesis is that it draws most heavily on English-language, Western educational research contexts. The applicability of specific pedagogical strategies across cultural and linguistic contexts has not been systematically examined here and should be treated as an open empirical question.
+
+
+
+## Source Attribution
+
+**Extracted from:** [[cog-psy-critical-examination-of-cognitive-load-theory-and-the-attentional-bottleneck-202512170123]]

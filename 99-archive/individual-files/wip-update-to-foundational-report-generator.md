@@ -211,7 +211,7 @@ certainty: verified
 > [!definition] Testing Effect
 > [**Testing-Effect**:: The finding that actively retrieving information from memory strengthens retention more than passively re-studying the same material.]^verified-stable
 
-The [[Testing-Effect]] represents one of the most robust findings in [[Cognitive-Psychology]], demonstrating that the act of retrieval itself—not merely re-exposure—constitutes a powerful learning event. First systematically documented by [[Abbott (1909)]], the phenomenon gained renewed attention through the landmark work of [[Roediger and Karpicke (2006)]], whose experiments revealed that students who practiced retrieval retained approximately 50% more information after one week compared to students who spent equivalent time re-studying.
+The [[Testing-Effect]] represents one of the most robust findings in [[cognitive-psychology]], demonstrating that the act of retrieval itself—not merely re-exposure—constitutes a powerful learning event. First systematically documented by [[Abbott (1909)]], the phenomenon gained renewed attention through the landmark work of [[Roediger and Karpicke (2006)]], whose experiments revealed that students who practiced retrieval retained approximately 50% more information after one week compared to students who spent equivalent time re-studying.
 
 > [!key-claim]
 > [**Mechanism-Claim**:: Retrieval practice strengthens memory traces through elaborative processing and the creation of multiple retrieval routes.]^established
@@ -1204,7 +1204,7 @@ related: [[Desirable-Difficulties]], [[Spacing-Effect]], [[Cognitive-Load-Theory
 > [!definition] Testing Effect
 > [**Testing-Effect**:: The robust finding that actively retrieving information from memory strengthens long-term retention more effectively than passive re-study of the same material, even when retrieval attempts are unsuccessful.]^verified
 
-The [[Testing-Effect]] stands as one of the most replicated phenomena in [[Cognitive-Psychology]], fundamentally challenging the intuitive assumption that learning occurs primarily through encoding rather than retrieval. First systematically documented by [[Abbott (1909)]] and later crystallized through the landmark studies of [[Roediger and Karpicke (2006)]], this effect demonstrates that the act of retrieval itself—independent of feedback or additional study—constitutes a powerful memory-modifying event.
+The [[Testing-Effect]] stands as one of the most replicated phenomena in [[cognitive-psychology]], fundamentally challenging the intuitive assumption that learning occurs primarily through encoding rather than retrieval. First systematically documented by [[Abbott (1909)]] and later crystallized through the landmark studies of [[Roediger and Karpicke (2006)]], this effect demonstrates that the act of retrieval itself—independent of feedback or additional study—constitutes a powerful memory-modifying event.
 
 > [!key-claim]
 > [**Retrieval-as-Learning**:: The process of retrieving information is not merely a neutral readout of memory but an active learning event that modifies and strengthens the retrieved memory trace.]^verified
@@ -1644,7 +1644,7 @@ The framework involves four key components operating in concert:
 
 [**ToT-Performance-Gains**:: Yao et al. (2023) demonstrated that ToT substantially outperformed standard CoT on tasks requiring search and planning—achieving 74% success rate on Game of 24 versus 4% for standard prompting and 9% for CoT, and 78% on Creative Writing tasks versus 12% for IO prompting and 29% for CoT-SC.]^verified
 
-The <span style='color: #27FF00;'>power of ToT</span> manifests in tasks where <span style='color: #FFC700;'>initial decisions critically constrain outcomes</span> and require exploration of alternatives. [[Strategic Planning]], [[Creative Problem Solving]], and [[Optimization Problems]] benefit dramatically from the ability to <span style='color: #72FFF1;'>deliberately consider multiple approaches</span> rather than committing to a single reasoning path.
+The <span style='color: #27FF00;'>power of ToT</span> manifests in tasks where <span style='color: #FFC700;'>initial decisions critically constrain outcomes</span> and require exploration of alternatives. [[Strategic-Planning]], [[Creative Problem Solving]], and [[Optimization Problems]] benefit dramatically from the ability to <span style='color: #72FFF1;'>deliberately consider multiple approaches</span> rather than committing to a single reasoning path.
 
 However, ToT introduces substantial <span style='color: #FF00DC;'>computational overhead</span>—exploring a tree with branching factor $b$ and depth $d$ requires evaluating $O(b^d)$ thought candidates in worst case. Even with pruning through state evaluation, <span style='color: #FF00DC;'>practical ToT implementations may require 50-200 model calls</span> per problem, making deployment expensive. Recent work explores [[Reinforcement Learning]] approaches to train specialized "ToT Controllers" that learn efficient search strategies, reducing computational waste.
 

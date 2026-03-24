@@ -24,15 +24,15 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 34
+referenced-by-count: 35
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -60,9 +60,9 @@ importance: high
 # Metacognition-&-Critical-Thinking
 
 > [!definition] **Metacognition-&-Critical-Thinking**
-> *Stub note — concept referenced by 34 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 35 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 34 permanent notes.*
+*Auto-generated stub — referenced by 35 permanent notes.*
 
 ## Referenced By
 
@@ -81,9 +81,9 @@ importance: high
 - [[Hypothetico-Deductive-Method]]
 - [[Mastery-Approach-Goal]]
 - [[Mastery-Avoidance-Goal]]
-- [[Mastery-Goals]]
+- [[Mastery-Goal]]
 - [[Mental-Image]]
 - [[Mental-Models]]
 - [[Mental-Simulation]]
 - [[Model-Multiplicity]]
-- *...and 14 more permanent notes*
+- *...and 15 more permanent notes*

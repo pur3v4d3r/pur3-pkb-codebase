@@ -332,7 +332,7 @@ extraction_summary:
 #### 34. [METHODOLOGY-AND-SOURCES] Methodological Limitations of the Literature *(Line 478)*
 
 > [!methodology-and-sources] Methodological Limitations of the Literature
-> The advance organizer literature carries several methodological limitations that should temper confidence in aggregate findings. Most foundational studies were conducted with North American and Western European university students — the [[WEIRD-Sample Bias]] problem applies. Most studies use relatively short learning sessions (one to three hours) with text-based material, making it unclear how effects scale to extended learning, multimedia instruction, or procedural skill acquisition. Outcome measures are heterogeneous, with some studies measuring verbatim recall, others measuring comprehension, and others measuring transfer — measures that, as Mayer's work showed, produce different effect sizes for the same organizer manipulation. Meta-analytic aggregation across these different outcome types produces meaningless averages.
+> The advance organizer literature carries several methodological limitations that should temper confidence in aggregate findings. Most foundational studies were conducted with North American and Western European university students — the [[WEIRD-Sample-Bias|WEIRD-Sample Bias]] problem applies. Most studies use relatively short learning sessions (one to three hours) with text-based material, making it unclear how effects scale to extended learning, multimedia instruction, or procedural skill acquisition. Outcome measures are heterogeneous, with some studies measuring verbatim recall, others measuring comprehension, and others measuring transfer — measures that, as Mayer's work showed, produce different effect sizes for the same organizer manipulation. Meta-analytic aggregation across these different outcome types produces meaningless averages.
 
 #### 35. [REFLECTION] From Understanding to Action *(Line 481)*
 
@@ -547,7 +547,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stone (1983)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
-- [[WEIRD-Sample Bias]]
+- [[WEIRD-Sample-Bias|WEIRD-Sample Bias]]
 - [[Woloshyn,-Pressley-&-Schneider-1992|Woloshyn, Pressley & Schneider (1992)]]
 - [[Working-Memory|Working Memory]]
 - [[Working-Memory-Capacity|Working Memory Capacity]]
@@ -612,7 +612,7 @@ extraction_summary:
 | 53 | [[Schema-Theory|Schema Theory]] | — | — | Application: Prompting AI Systems to ... | 468 |
 | 54 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Application: Prompting AI Systems to ... | 468 |
 | 55 | [[Advance-Organizers|Advance Organizers]] | — | — | Application: Prompting AI Systems to ... | 468 |
-| 56 | [[WEIRD-Sample Bias]] | — | — | Limitations and Boundary Conditions | 479 |
+| 56 | [[WEIRD-Sample-Bias|WEIRD-Sample Bias]] | — | — | Limitations and Boundary Conditions | 479 |
 | 57 | [[Pre-questioning]] | — | — | The Coherent Picture | 494 |
 | 58 | [[Working-Memory-Capacity|Working Memory Capacity]] | — | — | Unresolved Questions | 504 |
 | 59 | [[Advance-Organizers|Advance Organizers]] | — | — | Unresolved Questions | 509 |
@@ -695,7 +695,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stone (1983)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
-- [[WEIRD-Sample Bias]]
+- [[WEIRD-Sample-Bias|WEIRD-Sample Bias]]
 - [[Woloshyn,-Pressley-&-Schneider-1992|Woloshyn, Pressley & Schneider (1992)]]
 - [[Working-Memory|Working Memory]]
 - [[Working-Memory-Capacity|Working Memory Capacity]]
@@ -721,7 +721,7 @@ extraction_summary:
 #### Broader
 
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower

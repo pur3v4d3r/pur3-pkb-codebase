@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -68,14 +68,6 @@ narrower:
 
 see-also:
   - "[[Socrates]]"
-  - "[[Socratic-Method|Socratic Method]]"
-  - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[Diane-Halpern|Diane Halpern]]"
-  - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]"
-  - "[[Kuhn-and-Dean|Kuhn and Dean]]"
-  - "[[Scientific-Method|Scientific Method]]"
-  - "[[Socrates|Socrates]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[Diane-Halpern|Diane Halpern]]"
@@ -140,7 +132,21 @@ importance: medium
 **Related concepts** *(from cog-psy-foundational-critical-thinking.md)*:
 [[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Glaser|Glaser]] * [[Newell-and-Simon|Newell and Simon]]
 
-**Related concepts** *(from cog-psy-foundational-critical-thinking.md)*:
-[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Newell-and-Simon|Newell and Simon]] * [[Epistemology|Epistemology]]
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Baddeley's Working Memory Components**
+> **Phonological Loop**: Maintains verbal information through rehearsal (e.g., remembering argument premises while evaluating conclusion)
+> 
+> **Visuospatial Sketchpad**: Manipulates visual-spatial information (e.g., mental diagram of logical relationships)
+> 
+> **Episodic Buffer**: Integrates information from multiple sources into coherent representations (e.g., synthesizing evidence from different passages)
+> 
+> **Central Executive**: Coordinates other systems, allocates attention, suppresses irrelevant information
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[cog-psy-foundational-critical-thinking]]
+**Report ID:** `report-critical-thinking-foundations-20260116143000`

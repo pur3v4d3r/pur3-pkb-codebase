@@ -99,7 +99,7 @@ related:
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
 broader:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
 narrower:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
@@ -415,7 +415,7 @@ Translating these into prompt engineering terms produces the following design pa
 > As detailed in Phase IV, prior knowledge activation is contraindicated when existing knowledge is substantially inaccurate. In practice, diagnostically assessing the accuracy of prior knowledge before applying activation strategies requires instructional infrastructure (diagnostic questioning, formative assessment) that is often unavailable or resource-intensive. The practical takeaway: be especially cautious about comparative advance organizers in domains where popular misconceptions are well-documented (physics, genetics, economics, probability), and consider prefacing activation strategies with explicit acknowledgment that common intuitions are sometimes systematically wrong in this domain.
 
 > [!methodology-and-sources] **Methodological Limitations of the Literature**
-> The advance organizer literature carries several methodological limitations that should temper confidence in aggregate findings. Most foundational studies were conducted with North American and Western European university students — the [[WEIRD-Sample Bias]] problem applies. Most studies use relatively short learning sessions (one to three hours) with text-based material, making it unclear how effects scale to extended learning, multimedia instruction, or procedural skill acquisition. Outcome measures are heterogeneous, with some studies measuring verbatim recall, others measuring comprehension, and others measuring transfer — measures that, as Mayer's work showed, produce different effect sizes for the same organizer manipulation. Meta-analytic aggregation across these different outcome types produces meaningless averages.
+> The advance organizer literature carries several methodological limitations that should temper confidence in aggregate findings. Most foundational studies were conducted with North American and Western European university students — the [[WEIRD-Sample-Bias|WEIRD-Sample Bias]] problem applies. Most studies use relatively short learning sessions (one to three hours) with text-based material, making it unclear how effects scale to extended learning, multimedia instruction, or procedural skill acquisition. Outcome measures are heterogeneous, with some studies measuring verbatim recall, others measuring comprehension, and others measuring transfer — measures that, as Mayer's work showed, produce different effect sizes for the same organizer manipulation. Meta-analytic aggregation across these different outcome types produces meaningless averages.
 
 > [!reflection] **From Understanding to Action**
 > 1. Given the evidence that elaborative interrogation may be more effective than advance organizers for learners with relevant prior knowledge, how would you modify the Foundational Report structure to incorporate more ongoing elaborative interrogation throughout the body of the report, not just at the start?

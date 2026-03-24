@@ -58,7 +58,7 @@ analytical-contributions:
   cross_domain_connection: 4
   original_synthesis: 2
 related-concepts:
-  - "[[Pedagogy]]"
+  - "[[pedagogy]]"
   - "[[Andragogy]]"
   - "[[Heutagogy]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]"

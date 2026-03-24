@@ -41,7 +41,7 @@ aliases: [Meta Bind Plugin, Input Fields Plugin, Dynamic Forms in Obsidian, Inte
 # 📝 Meta Bind Plugin — Interactive Metadata Management for Obsidian
 
 > [!the-purpose]
-> **Meta Bind transforms your static [[Obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML-Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard Design]], [[Task-Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base]].
+> **Meta Bind transforms your static [[Obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML-Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard-Design]], [[Task-Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base]].
 
 ---
 
@@ -738,7 +738,7 @@ Outline:
 9. Expansion topics (related plugins, advanced automation, etc.)
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[YAML-Frontmatter]], [[Dataview]], [[Templater]], [[Tasks-Plugin]], [[QuickAdd]], [[Metadata]], [[PKM Automation]], [[Dynamic Content]], [[Input Fields]], [[View Fields]], [[Button Actions]], [[Dashboard Design]], [[Project Management]], [[Habit Tracking]], [[Progressive-Summarization]], [[MOC]], [[Template-System]], [[Reactive Programming]], [[Data Binding]]
+[[Obsidian]], [[YAML-Frontmatter]], [[Dataview]], [[Templater]], [[Tasks-Plugin]], [[QuickAdd]], [[Metadata]], [[PKM Automation]], [[Dynamic Content]], [[Input Fields]], [[View Fields]], [[Button Actions]], [[Dashboard-Design]], [[Project Management]], [[Habit Tracking]], [[Progressive-Summarization]], [[MOC]], [[Template-System]], [[Reactive Programming]], [[Data Binding]]
 
 **CALLOUT STRATEGY:**
 - [!definition] for core concepts

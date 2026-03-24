@@ -856,7 +856,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[12 Week Year Methodology]]
 - [[<% tp.date.now("YYYY-MM-DD") %>]]
-- [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", -7) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 7) %>]]
@@ -879,7 +879,7 @@ extraction_summary:
 - [[Clarification Algorithm]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Context-Based Organization]]
 - [[Context-Based Productivity Systems - Theory and Implementation]]
 - [[Context-Based Task Organization]]
@@ -1026,7 +1026,7 @@ extraction_summary:
 | 5 | [[Obsidian]] | — | — | Document Start | 42 |
 | 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 42 |
 | 7 | [[wiki-links]] | — | — | Document Start | 46 |
-| 8 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Foundational Concepts | 78 |
+| 8 | [[cognitive-psychology|Cognitive Psychology]] | — | — | Foundational Concepts | 78 |
 | 9 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Foundational Concepts | 78 |
 | 10 | [[Working-Memory|Working Memory]] | — | — | Foundational Concepts | 78 |
 | 11 | [[time management]] | — | — | Foundational Concepts | 80 |
@@ -1056,7 +1056,7 @@ extraction_summary:
 | 35 | [[Projects]] | — | — | 📝 Notes & Progress Log | 1522 |
 | 36 | [[<% tp.file.folder() %>]] | — | — | 📝 Notes & Progress Log | 1522 |
 | 37 | [[Weekly Review]] | — | — | 📝 Notes & Progress Log | 1522 |
-| 38 | [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | ← Yesterday | — | Tomorrow's Preparation | 1575 |
+| 38 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | ← Yesterday | — | Tomorrow's Preparation | 1575 |
 | 39 | [[GTD Dashboard]] | Dashboard | — | Tomorrow's Preparation | 1575 |
 | 40 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | Tomorrow → | — | Tomorrow's Preparation | 1575 |
 | 41 | [[<% tp.date.now("YYYY-MM-DD", -7) %>]] | ← Last Week | — | 📊 Week Metrics | 1731 |
@@ -1177,7 +1177,7 @@ extraction_summary:
 | 156 | [[Eastern Wisdom Traditions]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
 | 157 | [[Context-Based Productivity Systems - Theory and Implementation]] | — | — | 🔗 Related Topics for PKB Expansion | 3170 |
 | 158 | [[Productivity Methods]] | — | — | 🔗 Related Topics for PKB Expansion | 3173 |
-| 159 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 3173 |
+| 159 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 3173 |
 | 160 | [[Environmental Design]] | — | — | 🔗 Related Topics for PKB Expansion | 3173 |
 | 161 | [[Ubiquitous Computing]] | — | — | 🔗 Related Topics for PKB Expansion | 3173 |
 | 162 | [[Weekly Review as Meta-Skill - Applications Beyond GTD]] | — | — | 🔗 Related Topics for PKB Expansion | 3175 |
@@ -2586,7 +2586,7 @@ graph TD
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[12 Week Year Methodology]]
 - [[<% tp.date.now("YYYY-MM-DD") %>]]
-- [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", -7) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 7) %>]]
@@ -2609,7 +2609,7 @@ graph TD
 - [[Clarification Algorithm]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Context-Based Organization]]
 - [[Context-Based Productivity Systems - Theory and Implementation]]
 - [[Context-Based Task Organization]]

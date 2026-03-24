@@ -65,7 +65,7 @@ Quick Referenc for Reference Type:
 	- Example: [[Constructivist Epistemology]]
 	- Example: [[Curve Of Forgetting]]
 	- Example: [[metacognitive-awareness]]
-	- Example: [[Strategic Planning]]
+	- Example: [[Strategic-Planning]]
 	- Example: [[Socratic-Method]]
 	- Example: [[The Law Of Cognitive Miserliness]]
 	- Example: [[Self Regulation Theory]]

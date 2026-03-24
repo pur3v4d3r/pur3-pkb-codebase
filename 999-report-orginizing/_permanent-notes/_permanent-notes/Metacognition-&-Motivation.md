@@ -24,15 +24,15 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 51
+referenced-by-count: 52
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -60,9 +60,9 @@ importance: high
 # Metacognition-&-Motivation
 
 > [!definition] **Metacognition-&-Motivation**
-> *Stub note — concept referenced by 51 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 52 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 51 permanent notes.*
+*Auto-generated stub — referenced by 52 permanent notes.*
 
 ## Referenced By
 
@@ -81,9 +81,9 @@ importance: high
 - [[Element-Interactivity]]
 - [[Entity-Theory]]
 - [[Expertise-Reversal-Effect]]
+- [[Extraneous-Cognitive-Load]]
 - [[Feed-Forward]]
 - [[Figure-Effect]]
 - [[Fleshing-Out]]
 - [[Formative-Assessment]]
-- [[Formative-Feedback]]
-- *...and 31 more permanent notes*
+- *...and 32 more permanent notes*

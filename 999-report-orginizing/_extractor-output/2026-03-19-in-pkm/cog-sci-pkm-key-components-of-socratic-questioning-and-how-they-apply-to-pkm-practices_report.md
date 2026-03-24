@@ -369,7 +369,7 @@ extraction_summary:
 - [[Clinical Psychology]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Collaborative Learning]]
 - [[Critical-Thinking|Critical Thinking]]
@@ -494,7 +494,7 @@ extraction_summary:
 | 59 | [[Permanent Note]] | — | — | Methodological Approaches: Embedding ... | 192 |
 | 60 | [[Productive Difficulty]] | — | — | Methodological Approaches: Embedding ... | 192 |
 | 61 | [[Robert-Bjork|Robert Bjork]] | — | — | Methodological Approaches: Embedding ... | 196 |
-| 62 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | The Cognitive Science of Active Inter... | 204 |
+| 62 | [[cognitive-psychology|Cognitive Psychology]] | — | — | The Cognitive Science of Active Inter... | 204 |
 | 63 | [[Educational-Psychology|Educational Psychology]] | — | — | The Cognitive Science of Active Inter... | 204 |
 | 64 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Cognitive Science of Active Inter... | 204 |
 | 65 | [[Metacognition]] | — | — | The Metacognition Evidence Base | 212 |
@@ -624,7 +624,7 @@ $$
 - [[Clinical Psychology]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Collaborative Learning]]
 - [[Critical-Thinking|Critical Thinking]]

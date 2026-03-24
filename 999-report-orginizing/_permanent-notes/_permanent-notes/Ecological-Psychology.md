@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Ecological Psychology"
+title: "Ecological-Psychology"
 aliases:
-  - "Ecological Psychology"
+  - "Ecological-Psychology"
 type: permanent-note
 status: seedling
 confidence: low
@@ -15,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - domain-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activity-Object]]"
-  - "[[Activity-System]]"
-  - "[[Affordance]]"
-  - "[[Constructivist-Learning-Environment]]"
-  - "[[Environment-as-Third-Teacher]]"
-  - "[[Epistemic-Actions]]"
-  - "[[Epistemic-Affordances]]"
-  - "[[Ill-Structured-Problems]]"
-  - "[[Learner-Journey]]"
-  - "[[Learning-Experience-Design]]"
+  - "[[4E-Cognition]]"
+  - "[[Active-Externalism]]"
+  - "[[Classical-Cognitivism]]"
+  - "[[Cognitive-Offloading]]"
+  - "[[Cognitive-Scaffolding]]"
+  - "[[Coupling-Constitution-Fallacy]]"
+  - "[[Distributed-Cognition]]"
+  - "[[Extended-Mind-Theory]]"
+  - "[[Internalism]]"
+  - "[[Mark-of-the-Cognitive]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -56,27 +56,26 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Ecological Psychology
+# Ecological-Psychology
 
-> [!definition] **Ecological Psychology**
-> *Stub note — academic domain/field referenced by 15 permanent notes. Expand with scope, key theories, foundational thinkers, and relationship to PKM practice.*
+> [!definition] **Ecological-Psychology**
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
-- [[Activity-Object]]
-- [[Activity-System]]
-- [[Affordance]]
-- [[Constructivist-Learning-Environment]]
-- [[Environment-as-Third-Teacher]]
-- [[Epistemic-Actions]]
-- [[Epistemic-Affordances]]
-- [[Ill-Structured-Problems]]
-- [[Learner-Journey]]
-- [[Learning-Experience-Design]]
-- [[Mindtools]]
-- [[More-Knowledgeable-Other]]
-- [[Personal-Constructed-Learning-Environment-—-PCLE]]
-- [[Storage-Metaphor-for-PKB]]
-- [[The-Personal-Constructed-Learning-Environment-PCLE-Framework]]
+- [[4E-Cognition]]
+- [[Active-Externalism]]
+- [[Classical-Cognitivism]]
+- [[Cognitive-Offloading]]
+- [[Cognitive-Scaffolding]]
+- [[Coupling-Constitution-Fallacy]]
+- [[Distributed-Cognition]]
+- [[Extended-Mind-Theory]]
+- [[Internalism]]
+- [[Mark-of-the-Cognitive]]
+- [[Parity-Principle]]
+- [[Passive-Externalism]]
+- [[The-Parity-Principle]]
+- [[Vehicle-Externalism]]

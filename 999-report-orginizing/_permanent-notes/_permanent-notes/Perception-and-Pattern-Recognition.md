@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Central-Executive]]"
+  - "[[Chunking]]"
   - "[[Declarative-Memory]]"
+  - "[[Encoding-Specificity-Principle]]"
   - "[[Episodic-Buffer]]"
   - "[[Episodic-Memory]]"
+  - "[[Memory-Consolidation]]"
   - "[[Non-Declarative-Memory]]"
   - "[[Phonological-Loop]]"
-  - "[[Semantic-Memory]]"
-  - "[[Sensory-Memory]]"
-  - "[[Short-Term-Memory]]"
-  - "[[Synaptic-Consolidation]]"
+  - "[[Retrieval-Practice-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,18 +59,22 @@ importance: medium
 # Perception-and-Pattern-Recognition
 
 > [!definition] **Perception-and-Pattern-Recognition**
-> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
 - [[Central-Executive]]
+- [[Chunking]]
 - [[Declarative-Memory]]
+- [[Encoding-Specificity-Principle]]
 - [[Episodic-Buffer]]
 - [[Episodic-Memory]]
+- [[Memory-Consolidation]]
 - [[Non-Declarative-Memory]]
 - [[Phonological-Loop]]
+- [[Retrieval-Practice-Effect]]
 - [[Semantic-Memory]]
 - [[Sensory-Memory]]
 - [[Short-Term-Memory]]

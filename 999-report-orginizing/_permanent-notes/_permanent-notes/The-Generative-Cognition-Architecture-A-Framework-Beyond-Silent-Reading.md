@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,6 +42,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "silent-reading-critical-analysis-focused-analysis-2026-03-21"
+  - "silent-reading-critical-analysis-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -75,6 +76,14 @@ see-also:
   - "[[Situation-Model]]"
   - "[[Metacognition]]"
   - "[[Schema-Theory]]"
+  - "[[Dual-Process-Theory|Dual-Process-Theory]]"
+  - "[[Working-Memory|Working-Memory]]"
+  - "[[Generative-Learning-Theory|Generative-Learning-Theory]]"
+  - "[[Metacognitive-Monitoring|Metacognitive-Monitoring]]"
+  - "[[Situation-Model|Situation-Model]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[Schema-Theory|Schema-Theory]]"
+  - "[[Illusion-of-Knowing|Illusion-of-Knowing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -132,6 +141,11 @@ importance: high
 > [!warning] **Key Distinction**
 > The evidence suggests that silent reading, even when optimally engaged (all four mechanisms active), has a ceiling on the critical analysis it produces when practiced in isolation from social discourse. The reason is structural: private hypothesis generation creates evaluative inferences, but private evaluation cannot easily detect [[Confirmation-Bias-Myside-Bias]] operating within the reader's own reasoning. A reader who already holds a [[Motivated-Reasoning|motivated view]] about a topic may…
 
+## Conceptual Tensions
+
+> [!tension] **The Self-Explanation Paradox**
+> Here is a genuine tension: the self-explanation effect depends on the reader verbalizing internally — using inner speech to construct explanations. But inner speech recruits the same phonological resources that vocalization occupies during oral reading. If silent reading "frees" the phonological loop, and self-explanation re-occupies it, is the "freedom" of silent reading illusory? The resolution may be that inner speech during self-explanation is qualitatively different from articulatory rehearsal during vocalization — less constrained, more controllable, capable of supporting evaluative…
+
 ## Reflection Prompts
 
 > [!reflection] **Reflect**
@@ -144,3 +158,42 @@ importance: high
 
 **Related concepts:**
 [[Dual-Process-Theory]] · [[Working-Memory]] · [[Generative-Learning-Theory]] · [[Working-Memory]] · [[Metacognitive-Monitoring]] · [[Situation-Model]] · [[Metacognition]] · [[Schema-Theory]] · [[Illusion-of-Knowing]] · [[ICAP-Framework]] · [[Levels-of-Processing]] · [[Working-Memory]] · [[Situation-Model]] · [[Situation-Model]] · [[Semantic-Memory]]
+
+**Related concepts** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*:
+[[Spreading-Activation|Spreading-Activation]] * [[Shallow-Processing|Shallow-Processing]] * [[Alan-Baddeley|Alan-Baddeley]] * [[Working-Memory-Capacity|Working-Memory-Capacity]] * [[Inference|Inference]] * [[Comprehension-Monitoring|Comprehension-Monitoring]] * [[Matthew-Effect|Matthew-Effect]] * [[Self-Explanation-Effect|Self-Explanation-Effect]] * [[Monitoring-Gap|Monitoring-Gap]] * [[Elaborative-Interrogation|Elaborative-Interrogation]] * [[Meaningful-Learning|Meaningful-Learning]] * [[Actively-Open-Minded-Thinking|Actively-Open-Minded-Thinking]] * [[Inert-Knowledge|Inert-Knowledge]] * [[Socio-Cognitive-Conflict|Socio-Cognitive-Conflict]] * [[Self-Determination-Theory|Self-Determination-Theory]]
+
+
+## References
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report integrates evidence from three distinct research traditions: cognitive reading research (eye-tracking studies, think-aloud protocols, working memory and reading comprehension research), metacognition research (comprehension monitoring, fluency illusion, elaborative interrogation), and reading-critical thinking relationships (ICAP Framework, self-explanation effect, Matthew Effect). All empirical claims draw on peer-reviewed research and are attributed. The Generative Cognition Architecture proposed in Phase VI is an original theoretical synthesis integrating findings across these…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[silent-reading-critical-analysis-focused-analysis-2026-03-21]]
+**Report ID:** `silent-reading-critical-analysis-focused-analysis-v1-0`

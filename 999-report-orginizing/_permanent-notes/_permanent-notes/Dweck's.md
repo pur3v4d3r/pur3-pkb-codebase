@@ -23,21 +23,22 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Integration]]"
+  - "[[Internalization]]"
   - "[[Introjection]]"
   - "[[OIT's-Continuum-as-Motivational-Landscape]]"
   - "[[Organismic-Integration-Tendency]]"
@@ -52,19 +53,20 @@ see-also:
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # Dweck's
 
 > [!definition] **Dweck's**
-> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
 - [[Integration]]
+- [[Internalization]]
 - [[Introjection]]
 - [[OIT's-Continuum-as-Motivational-Landscape]]
 - [[Organismic-Integration-Tendency]]

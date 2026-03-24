@@ -134,7 +134,7 @@ enables:
   - "[[Motivational-Interviewing|Motivational Interviewing]]"
   - "[[Self-Regulated Learning — Motivational Substrates]]"
 expansion-topics:
-  - topic: "[[Conditional Regard and the Introjection Trap]]"
+  - topic: "[[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]]"
     description: Deep analysis of how contingent parental/teacher approval drives introjected regulation, including Assor & Roth's empirical work on its long-term psychological costs and what distinguishes healthy from unhealthy internalization scaffolding
     priority: high
   - topic: "[[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]"
@@ -613,7 +613,7 @@ Practitioners who internalize (appropriately!) this framework can ask different 
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Conditional Regard and the Introjection Trap]]
+> > [!topic-idea] [[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]]
 > > This analysis identified introjection as OIT's most psychologically costly regulatory style and pointed to conditional regard as a primary pathway into persistent introjection. A focused expansion would examine Assor and Roth's research program in depth, including their longitudinal findings on the long-term effects of approval-contingent parenting on adult psychological functioning; the mechanisms connecting conditional regard to contingent self-worth and performance anxiety; and what distinguishes healthy from unhealthy internalization scaffolding — since some degree of evaluation and expectation is unavoidable in educational and developmental contexts. This would also be an appropriate place to examine whether instructional practices commonly deemed "supportive" (feedback-rich environments, mastery-based assessment) inadvertently create conditional-regard dynamics.
 >
 > > [!topic-idea] [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]

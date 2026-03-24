@@ -555,7 +555,7 @@ extraction_summary:
 - [[Cognitive-Load|cognitive load]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[Deliberate-Practice|deliberate practice]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Educational-Psychology|educational psychology]]
@@ -598,7 +598,7 @@ extraction_summary:
 | 8 | [[Germane-Cognitive-Load|germane cognitive load]] | — | — | Scope and Analytical Boundaries | 265 |
 | 9 | [[Working-Memory|working memory]] | — | — | Scope and Analytical Boundaries | 267 |
 | 10 | [[Schema-Theory|schema theory]] | — | — | Scope and Analytical Boundaries | 267 |
-| 11 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Scope and Analytical Boundaries | 267 |
+| 11 | [[cognitive-psychology|cognitive psychology]] | — | — | Scope and Analytical Boundaries | 267 |
 | 12 | [[Educational-Psychology|Educational Psychology]] | — | — | Scope and Analytical Boundaries | 267 |
 | 13 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]] | — | — | Why This Analysis Matters | 271 |
 | 14 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Working Memory as the Instructional B... | 284 |
@@ -712,7 +712,7 @@ extraction_summary:
 - [[Cognitive-Load|cognitive load]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[Deliberate-Practice|deliberate practice]]
 - [[Desirable-Difficulties|desirable difficulties]]
 - [[Educational-Psychology|educational psychology]]

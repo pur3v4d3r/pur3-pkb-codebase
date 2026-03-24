@@ -610,7 +610,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Applied Epistemology]]
 - [[Rationality Studies]]

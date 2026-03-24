@@ -508,7 +508,7 @@ extraction_summary:
 - [[Toulmin's Argument Model]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Warrant and Backing]]
-- [[Warranted-Assertibility|Warranted Assertibility]]
+- [[warranted-assertibility|Warranted Assertibility]]
 - [[Ways of Knowing]]
 - [[Working Memory Basics]]
 - [[Working-Memory-Capacity|Working Memory Capacity]]
@@ -534,7 +534,7 @@ extraction_summary:
 | 13 | [[Open-Mindedness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 98 |
 | 14 | [[Intellectual Virtue Ethics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 99 |
 | 15 | [[Source Credibility Assessment]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 100 |
-| 16 | [[Warranted-Assertibility|Warranted Assertibility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 101 |
+| 16 | [[warranted-assertibility|Warranted Assertibility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 101 |
 | 17 | [[Basic Epistemology]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
 | 18 | [[Cognitive Bias Fundamentals]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
 | 19 | [[Evolutionary Psychology Principles]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
@@ -729,7 +729,7 @@ Epistemic vigilance represents the cognitive machinery that evolved to help huma
 - [[Open-Mindedness]]
 - [[Intellectual Virtue Ethics]]
 - [[Source Credibility Assessment]]
-- [[Warranted-Assertibility|Warranted Assertibility]]
+- [[warranted-assertibility|Warranted Assertibility]]
 **Analogical Potential**:
 Epistemic vigilance as an "intellectual immune system"—just as your body must distinguish helpful bacteria from pathogens without attacking everything, your mind must calibrate trust in information sources without becoming either gullible or pathologically skeptical.
 **Prerequisite Knowledge**:
@@ -1317,7 +1317,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Toulmin's Argument Model]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Warrant and Backing]]
-- [[Warranted-Assertibility|Warranted Assertibility]]
+- [[warranted-assertibility|Warranted Assertibility]]
 - [[Ways of Knowing]]
 - [[Working Memory Basics]]
 - [[Working-Memory-Capacity|Working Memory Capacity]]

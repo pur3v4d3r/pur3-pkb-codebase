@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +41,7 @@ see-also:
   - "[[Abductive-Reasoning]]"
   - "[[Cognitive-Load-Theory]]"
   - "[[Cognitive-Psychological-Conceptualization]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Confirmation-Bias]]"
   - "[[Critical-Thinking]]"
   - "[[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
   - "[[Deductive-Reasoning]]"
@@ -69,7 +69,7 @@ importance: high
 - [[Abductive-Reasoning]]
 - [[Cognitive-Load-Theory]]
 - [[Cognitive-Psychological-Conceptualization]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Critical-Thinking]]
 - [[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]
 - [[Deductive-Reasoning]]

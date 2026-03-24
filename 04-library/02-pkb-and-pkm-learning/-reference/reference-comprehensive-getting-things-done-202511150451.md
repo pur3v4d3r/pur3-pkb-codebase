@@ -75,7 +75,7 @@ The GTD methodology emerged from David Allen's recognition that the human brain 
 
 The methodology addresses what Allen identifies as the fundamental productivity challenge of the information age: the overwhelming volume of inputs arriving through multiple channels—emails, texts, messages, articles, verbal requests, personal commitments, and professional obligations—each demanding attention and action decisions.
 
-Allen's core claim is that stress can be reduced and productivity increased by putting reminders about everything you're not working on into a trusted system external to your mind, allowing you to work on the task at hand without distraction from "incompletes." This externaliz ation creates what [[Cognitive-Psychology]] terms "[[Cognitive-Offloading]]"—the strategic use of external tools to reduce the computational demands on [[Working-Memory]].
+Allen's core claim is that stress can be reduced and productivity increased by putting reminders about everything you're not working on into a trusted system external to your mind, allowing you to work on the task at hand without distraction from "incompletes." This externaliz ation creates what [[cognitive-psychology]] terms "[[Cognitive-Offloading]]"—the strategic use of external tools to reduce the computational demands on [[Working-Memory]].
 
 The GTD framework distinguishes itself from traditional [[time management]] approaches through several key innovations:
 
@@ -3170,7 +3170,7 @@ GTD mastery requires both dimensions:
 3. **[[Context-Based Productivity Systems - Theory and Implementation]]**
    - *Connection*: GTD's context lists represent sophisticated application of situational action design—this principle extends beyond GTD
    - *Depth Potential*: Cognitive psychology of context-dependent memory, environmental design for productivity, digital context systems, location-based computing applications
-   - *Knowledge Graph Role*: Connects [[Productivity Methods]], [[Cognitive-Psychology]], [[Environmental Design]], [[Ubiquitous Computing]]
+   - *Knowledge Graph Role*: Connects [[Productivity Methods]], [[cognitive-psychology]], [[Environmental Design]], [[Ubiquitous Computing]]
 
 4. **[[Weekly Review as Meta-Skill - Applications Beyond GTD]]**
    - *Connection*: The weekly review ritual represents broader principle of systematic reflection and recalibration applicable to any pursuit

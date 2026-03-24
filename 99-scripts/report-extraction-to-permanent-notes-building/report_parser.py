@@ -27,6 +27,12 @@ from config import (
     MAX_EVIDENCE_PER_NOTE, MAX_INSIGHTS_PER_NOTE, MAX_CONNECTIONS_PER_NOTE,
     MAX_PRACTICES_PER_NOTE, MAX_WARNINGS_PER_NOTE, MAX_EXPANSION_TOPICS,
     MAX_REFLECTIONS_PER_NOTE,
+    FLASHCARD_CALLOUTS, PERSON_CALLOUTS, TENSION_CALLOUTS,
+    OPEN_QUESTION_CALLOUTS, PROTOCOL_CALLOUTS, DIAGRAM_CALLOUTS,
+    CITATION_CALLOUTS, METHODOLOGY_CALLOUTS,
+    MAX_FLASHCARDS_PER_NOTE, MAX_PERSONS_PER_NOTE, MAX_TENSIONS_PER_NOTE,
+    MAX_OPEN_QUESTIONS_PER_NOTE, MAX_PROTOCOLS_PER_NOTE, MAX_DIAGRAMS_PER_NOTE,
+    MAX_CITATIONS_PER_NOTE, MAX_METHODOLOGY_PER_NOTE,
 )
 
 
@@ -72,6 +78,15 @@ class NoteCandidate:
     expansion_topics: list[dict] = field(default_factory=list)
     wiki_links: list[str] = field(default_factory=list)
     reflections: list[str] = field(default_factory=list)
+    # Enhanced content fields (v2.1)
+    flashcards: list[dict] = field(default_factory=list)      # {q, a, source, difficulty, type}
+    persons: list[dict] = field(default_factory=list)          # {name, contribution, relationship, works, relevance}
+    tensions: list[dict] = field(default_factory=list)         # {title, position_a, position_b, evidence_state, body}
+    open_questions: list[dict] = field(default_factory=list)   # {title, body}
+    protocols: list[dict] = field(default_factory=list)        # {title, body}
+    diagrams: list[dict] = field(default_factory=list)         # {title, body}
+    citations: list[dict] = field(default_factory=list)        # {title, body}
+    methodology: list[dict] = field(default_factory=list)      # {title, body}
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -295,6 +310,15 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
     warning_items = []
     expansion_items = []
     reflection_items = []
+    # Enhanced content (v2.1)
+    flashcard_items = []
+    person_items = []
+    tension_items = []
+    open_question_items = []
+    protocol_items = []
+    diagram_items = []
+    citation_items = []
+    methodology_items = []
 
     for callout in callouts:
         ctype = callout.get("type", "")
@@ -330,6 +354,31 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
         elif ctype in REFLECTION_CALLOUTS and body:
             entry = f"**{title}**: {body}" if title else body
             reflection_items.append(entry)
+
+        # ── Enhanced callout types (v2.1) ─────────────────────────────────
+        elif ctype in FLASHCARD_CALLOUTS and body:
+            flashcard_items.append(_parse_flashcard(title, body))
+
+        elif ctype in PERSON_CALLOUTS and body:
+            person_items.append({"title": title, "body": body})
+
+        elif ctype in TENSION_CALLOUTS and body:
+            tension_items.append({"title": title, "body": body})
+
+        elif ctype in OPEN_QUESTION_CALLOUTS and body:
+            open_question_items.append({"title": title, "body": body})
+
+        elif ctype in PROTOCOL_CALLOUTS and body:
+            protocol_items.append({"title": title, "body": body})
+
+        elif ctype in DIAGRAM_CALLOUTS and body:
+            diagram_items.append({"title": title, "body": body})
+
+        elif ctype in CITATION_CALLOUTS and body:
+            citation_items.append({"title": title, "body": body})
+
+        elif ctype in METHODOLOGY_CALLOUTS and body:
+            methodology_items.append({"title": title, "body": body})
 
     # ── Extract note-generating callouts ──────────────────────────────────
     candidates = []
@@ -397,6 +446,15 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
             expansion_topics=expansion_items[:MAX_EXPANSION_TOPICS],
             wiki_links=all_wiki_links,
             reflections=reflection_items[:MAX_REFLECTIONS_PER_NOTE],
+            # Enhanced content (v2.1)
+            flashcards=flashcard_items[:MAX_FLASHCARDS_PER_NOTE],
+            persons=person_items[:MAX_PERSONS_PER_NOTE],
+            tensions=tension_items[:MAX_TENSIONS_PER_NOTE],
+            open_questions=open_question_items[:MAX_OPEN_QUESTIONS_PER_NOTE],
+            protocols=protocol_items[:MAX_PROTOCOLS_PER_NOTE],
+            diagrams=diagram_items[:MAX_DIAGRAMS_PER_NOTE],
+            citations=citation_items[:MAX_CITATIONS_PER_NOTE],
+            methodology=methodology_items[:MAX_METHODOLOGY_PER_NOTE],
         )
         candidates.append(candidate)
 
@@ -406,6 +464,38 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
 # ══════════════════════════════════════════════════════════════════════════════
 # UTILITY FUNCTIONS
 # ══════════════════════════════════════════════════════════════════════════════
+
+def _parse_flashcard(title: str, body: str) -> dict:
+    """
+    Parse a flashcard callout into a structured dict.
+    Flashcard callouts may contain Q/A pairs, difficulty, source, etc.
+    """
+    card = {"title": title, "body": body}
+
+    # Try to extract structured fields from the body
+    lines = body.split('\n')
+    for line in lines:
+        stripped = line.strip()
+        lower = stripped.lower()
+        if lower.startswith('q:') or lower.startswith('question:'):
+            card['question'] = stripped.split(':', 1)[1].strip()
+        elif lower.startswith('a:') or lower.startswith('answer:'):
+            card['answer'] = stripped.split(':', 1)[1].strip()
+        elif lower.startswith('difficulty:'):
+            card['difficulty'] = stripped.split(':', 1)[1].strip()
+        elif lower.startswith('type:'):
+            card['card_type'] = stripped.split(':', 1)[1].strip()
+        elif lower.startswith('source:'):
+            card['source'] = stripped.split(':', 1)[1].strip()
+
+    # If no structured Q/A found, use title as question, body as answer
+    if 'question' not in card and title:
+        card['question'] = title
+    if 'answer' not in card and body:
+        card['answer'] = body
+
+    return card
+
 
 def _strip_wikilink(text: str) -> str:
     """

@@ -459,7 +459,7 @@ if (bridges.length > 0) {
 
 **Learning & Memory ↔ Philosophy**
 - [[Learning Theory]] ↔ [[Epistemology]] (nature of knowledge)
-- [[Transfer-of-Learning]] ↔ [[Pragmatism]] (application to novel contexts)
+- [[Transfer-of-Learning]] ↔ [[pragmatism]] (application to novel contexts)
 - [[Schema-Theory]] ↔ [[Epistemic-Cognition]] (knowledge organization)
 
 **Learning & Memory ↔ Applied Techniques**

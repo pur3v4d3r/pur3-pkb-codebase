@@ -340,7 +340,7 @@ extraction_summary:
 - [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive Restructuring]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Conceptual Confusion]]
@@ -386,7 +386,7 @@ extraction_summary:
 - [[Nudge Theory]]
 - [[Operational Definition]]
 - [[Paulo Freire]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Perspective-Taking]]
 - [[Phronesis]]
 - [[Pimping]]
@@ -409,7 +409,7 @@ extraction_summary:
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning: The Architecture of Systematic Inquiry]]
 - [[Socratic Seminar]]
-- [[Socratic Seminars]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]
 - [[Stoic Epistemology]]
 - [[Stoicism]]
 - [[Surface Learning]]
@@ -449,7 +449,7 @@ extraction_summary:
 | 23 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Main Sections (Planned Headers): | 149 |
 | 24 | [[Self-Deception]] | — | — | Main Sections (Planned Headers): | 150 |
 | 25 | [[Andragogy]] | — | — | Main Sections (Planned Headers): | 151 |
-| 26 | [[Pedagogy]] | — | — | Main Sections (Planned Headers): | 152 |
+| 26 | [[pedagogy]] | — | — | Main Sections (Planned Headers): | 152 |
 | 27 | [[Dialogic Teaching]] | — | — | Main Sections (Planned Headers): | 153 |
 | 28 | [[Questioning Strategies]] | — | — | Main Sections (Planned Headers): | 154 |
 | 29 | [[Power Dynamics]] | — | — | Main Sections (Planned Headers): | 155 |
@@ -502,12 +502,12 @@ extraction_summary:
 | 76 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 🔄 Type 6: Questions about Questions (... | 347 |
 | 77 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔄 Type 6: Questions about Questions (... | 354 |
 | 78 | [[Elements of Thought]] | — | — | The Structural Logic of Thought | 362 |
-| 79 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
+| 79 | [[cognitive-psychology|Cognitive Psychology]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
 | 80 | [[Type-1-Processing|Type 1 Processing]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
 | 81 | [[Type-2-Processing|Type 2 Processing]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
 | 82 | [[Pimping]] | — | — | Critical Implementation Principles | 408 |
 | 83 | [[Socratic Circles]] | — | — | Critical Implementation Principles | 415 |
-| 84 | [[Socratic Seminars]] | — | — | Critical Implementation Principles | 415 |
+| 84 | [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]] | — | — | Critical Implementation Principles | 415 |
 | 85 | [[Paulo Freire]] | — | — | The Authority Problem in Socratic Dia... | 427 |
 | 86 | [[Banking Model of Education]] | — | — | The Authority Problem in Socratic Dia... | 427 |
 | 87 | [[Intellectual-Humility|Intellectual Humility]] | — | — | The Authority Problem in Socratic Dia... | 434 |
@@ -542,7 +542,7 @@ extraction_summary:
 | 116 | [[Prospect Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
 | 117 | [[Heuristics and Biases]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
 | 118 | [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]] | — | — | 🔗 Related Topics for PKB Expansion | 565 |
-| 119 | [[Pedagogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
+| 119 | [[pedagogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 120 | [[Andragogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 121 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 122 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
@@ -595,7 +595,7 @@ extraction_summary:
 - [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive Restructuring]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Conceptual Confusion]]
@@ -641,7 +641,7 @@ extraction_summary:
 - [[Nudge Theory]]
 - [[Operational Definition]]
 - [[Paulo Freire]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Perspective-Taking]]
 - [[Phronesis]]
 - [[Pimping]]
@@ -664,7 +664,7 @@ extraction_summary:
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning: The Architecture of Systematic Inquiry]]
 - [[Socratic Seminar]]
-- [[Socratic Seminars]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]
 - [[Stoic Epistemology]]
 - [[Stoicism]]
 - [[Surface Learning]]

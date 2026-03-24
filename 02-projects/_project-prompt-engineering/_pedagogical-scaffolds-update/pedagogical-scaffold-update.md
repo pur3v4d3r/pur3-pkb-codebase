@@ -124,7 +124,7 @@ You must format the following as `[[wiki-links]]` to build knowledge graph conne
 - **Extension concepts**: Link to more advanced or specialized topics
 - **Application domains**: `[[Instructional-Design]]`, `[[Learning Systems]]`, `[[Knowledge-Management]]`
 - **Historical context**: `[[Behaviorism]]`, `[[Gestalt Psychology]]`, `[[Information-Processing-Theory]]`
-- **Methodological approaches**: `[[Experimental Psychology]]`, `[[cognitive-neuroscience]]`, `[[Phenomenology]]`
+- **Methodological approaches**: `[[Experimental Psychology]]`, `[[cognitive-neuroscience]]`, `[[phenomenology]]`
 
 **Link Quality Requirements:**
 - First mention of a concept per major section should be linked

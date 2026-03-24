@@ -68,7 +68,7 @@ To understand continuous self-development as a systematic process, we must first
 
 ## THE PRAGMATIST ROOTS: DEWEY AND REFLECTIVE THOUGHT
 
-The concept of [[Reflective-Practice]] finds its philosophical origins in American [[Pragmatism]], particularly in the work of John Dewey (1859-1952). Dewey's 1910 work, *How We Think*, distinguished between routine action and reflective action. For Dewey, reflective thought was "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends."[^4] This was not mere rumination, but a disciplined form of inquiry.
+The concept of [[Reflective-Practice]] finds its philosophical origins in American [[pragmatism]], particularly in the work of John Dewey (1859-1952). Dewey's 1910 work, *How We Think*, distinguished between routine action and reflective action. For Dewey, reflective thought was "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends."[^4] This was not mere rumination, but a disciplined form of inquiry.
 
 Dewey proposed that reflective thought follows a pattern: a state of doubt or perplexity, followed by a search for materials to resolve the doubt, culminating in the elaboration and testing of hypotheses. This pattern bears striking similarity to what we now recognize as the scientific method—and indeed, Dewey saw reflective thinking as the application of scientific reasoning to everyday experience.
 

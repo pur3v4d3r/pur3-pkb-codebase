@@ -5,7 +5,6 @@
 title: "Lifelong-learning"
 aliases:
   - "Lifelong-learning"
-  - "Lifelong Learning"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,8 +38,8 @@ referenced-by-count: 6
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice-Log]]"
-  - "[[Feeling-of-Knowing-—-FOK]]"
+  - "[[Deliberate-Practice]]"
+  - "[[Feeling-of-Knowing]]"
   - "[[Fluency-Illusion]]"
   - "[[Judgment-of-Learning]]"
   - "[[Zone-of-Proximal-Development]]"
@@ -63,8 +62,8 @@ importance: low
 ## Referenced By
 
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
-- [[Deliberate-Practice-Log]]
-- [[Feeling-of-Knowing-—-FOK]]
+- [[Deliberate-Practice]]
+- [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
 - [[Judgment-of-Learning]]
 - [[Zone-of-Proximal-Development]]

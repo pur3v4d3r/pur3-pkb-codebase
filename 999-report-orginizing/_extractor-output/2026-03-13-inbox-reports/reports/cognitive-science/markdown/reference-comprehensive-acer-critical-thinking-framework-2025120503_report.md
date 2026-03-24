@@ -1089,7 +1089,7 @@ extraction_summary:
 - [[Causal Analysis]]
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Processes]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Comparative Analysis]]
 - [[Comprehension]]
@@ -1259,7 +1259,7 @@ extraction_summary:
 | 26 | [[Cognitive Processes]] | — | — | The Development Challenge | 281 |
 | 27 | [[Logical Analysis]] | — | — | Philosophical & Theoretical Foundations | 287 |
 | 28 | [[Argument Evaluation]] | — | — | Philosophical & Theoretical Foundations | 287 |
-| 29 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Philosophical & Theoretical Foundations | 289 |
+| 29 | [[cognitive-psychology|Cognitive Psychology]] | — | — | Philosophical & Theoretical Foundations | 289 |
 | 30 | [[Information Processing]] | — | — | Philosophical & Theoretical Foundations | 289 |
 | 31 | [[Metacognition]] | — | — | Philosophical & Theoretical Foundations | 289 |
 | 32 | [[Problem Solving]] | — | — | Philosophical & Theoretical Foundations | 289 |
@@ -1788,7 +1788,7 @@ graph TD
 - [[Causal Analysis]]
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Processes]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Comparative Analysis]]
 - [[Comprehension]]

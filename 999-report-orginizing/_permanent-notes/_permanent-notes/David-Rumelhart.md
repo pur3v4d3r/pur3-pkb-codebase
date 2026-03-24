@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "David Rumelhart"
+title: "David-Rumelhart"
 aliases:
-  - "David Rumelhart"
+  - "David-Rumelhart"
 type: permanent-note
 status: seedling
 confidence: low
@@ -15,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - person-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 20
+referenced-by-count: 26
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Accommodation]]"
-  - "[[Assimilation]]"
-  - "[[Assimilation-and-Accommodation]]"
-  - "[[Cognitive-Disequilibrium]]"
-  - "[[Constructive-Alignment]]"
-  - "[[Elaboration-Theory]]"
-  - "[[Elaborative-Retrieval]]"
-  - "[[Epitome]]"
-  - "[[Judgment-of-Learning]]"
-  - "[[Judgment-of-Learning-JOL]]"
+  - "[[Accretion,-Tuning,-Restructuring]]"
+  - "[[Assimilation,-Accommodation,-and-Equilibration]]"
+  - "[[Constructive-Attentiveness]]"
+  - "[[Dewey's-Continuity-and-Interaction-Principles]]"
+  - "[[Equilibration]]"
+  - "[[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]"
+  - "[[Reconstructive-Memory]]"
+  - "[[Scaffolding]]"
+  - "[[Slot-Default-Value]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -56,32 +56,33 @@ mastery-stage: seedling
 importance: high
 ---
 
-# David Rumelhart
+# David-Rumelhart
 
-> [!definition] **David Rumelhart**
-> *Stub note — person referenced by 20 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> [!definition] **David-Rumelhart**
+> *Stub note — concept referenced by 26 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 20 permanent notes.*
+*Auto-generated stub — referenced by 26 permanent notes.*
 
 ## Referenced By
 
 - [[Accommodation]]
-- [[Assimilation]]
-- [[Assimilation-and-Accommodation]]
-- [[Cognitive-Disequilibrium]]
-- [[Constructive-Alignment]]
-- [[Elaboration-Theory]]
-- [[Elaborative-Retrieval]]
-- [[Epitome]]
-- [[Judgment-of-Learning]]
-- [[Judgment-of-Learning-JOL]]
-- [[Memory-Reconsolidation]]
-- [[Network-Model-of-Memory]]
-- [[Prior-Knowledge-Activation]]
-- [[Retrieval-Enhanced-Network-Strengthening-RENS]]
-- [[Retrieval-Enhanced-Network-Strengthening-RENS-A-Unified-Framework-for-PKB-Retrie]]
-- [[Schema-Progressive-Architecture]]
-- [[Spaced-Repetition-Spacing-Effect]]
-- [[Spreading-Activation]]
-- [[Synthesizer]]
-- [[The-Schema-Progressive-Architecture-for-PKB-Design]]
+- [[Accretion,-Tuning,-Restructuring]]
+- [[Assimilation,-Accommodation,-and-Equilibration]]
+- [[Constructive-Attentiveness]]
+- [[Dewey's-Continuity-and-Interaction-Principles]]
+- [[Equilibration]]
+- [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
+- [[Reconstructive-Memory]]
+- [[Scaffolding]]
+- [[Slot-Default-Value]]
+- [[Working-Memory-and-Long-Term-Memory-in-CLT]]
+- [[📖-Accommodation]]
+- [[📖-Assimilation,-Accommodation,-and-Equilibration]]
+- [[📖-Constructive-Attentiveness]]
+- [[📖-Dewey's-Continuity-and-Interaction-Principles]]
+- [[📖-Expertise-Reversal-Effect]]
+- [[📖-Fallibilism]]
+- [[📖-Genetic-Epistemology]]
+- [[📖-Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
+- [[📖-Metacognitive-Self-Regulation]]
+- *...and 6 more permanent notes*

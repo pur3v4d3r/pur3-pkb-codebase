@@ -24,8 +24,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,9 +41,9 @@ see-also:
   - "[[Attribution-Style]]"
   - "[[Autonomy-Need]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice-Log]]"
-  - "[[Feeling-of-Knowing-—-FOK]]"
-  - "[[Flavell-Metacognition-Framework]]"
+  - "[[Deliberate-Practice]]"
+  - "[[Extrinsic-Motivation]]"
+  - "[[Feeling-of-Knowing]]"
   - "[[Fluency-Illusion]]"
   - "[[Forethought-Phase]]"
   - "[[Judgment-of-Learning]]"
@@ -69,9 +69,9 @@ importance: high
 - [[Attribution-Style]]
 - [[Autonomy-Need]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
-- [[Deliberate-Practice-Log]]
-- [[Feeling-of-Knowing-—-FOK]]
-- [[Flavell-Metacognition-Framework]]
+- [[Deliberate-Practice]]
+- [[Extrinsic-Motivation]]
+- [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
 - [[Forethought-Phase]]
 - [[Judgment-of-Learning]]

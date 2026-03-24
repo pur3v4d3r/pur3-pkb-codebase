@@ -858,7 +858,7 @@ related:
   - "[[Self-Regulated-Learning]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
 
 narrower:
@@ -913,7 +913,7 @@ importance: high
 
 [Foundational-Claim:: Working memory has a strictly limited capacity for processing novel information, and learning fails when this capacity is exceeded]
 
-Cognitive Load Theory (CLT) is a framework within [[Cognitive-Psychology]] and [[Educational-Psychology]] that explains how the architecture of human [[Working-Memory]] constrains learning and performance. Developed by John Sweller in the late 1980s, CLT posits that instructional effectiveness depends fundamentally on designing information presentation to respect working memory's finite processing capacity. The theory has become one of the most empirically validated frameworks in [[Instructional-Design]], with direct implications for how knowledge is structured, sequenced, and delivered.
+Cognitive Load Theory (CLT) is a framework within [[cognitive-psychology]] and [[Educational-Psychology]] that explains how the architecture of human [[Working-Memory]] constrains learning and performance. Developed by John Sweller in the late 1980s, CLT posits that instructional effectiveness depends fundamentally on designing information presentation to respect working memory's finite processing capacity. The theory has become one of the most empirically validated frameworks in [[Instructional-Design]], with direct implications for how knowledge is structured, sequenced, and delivered.
 
 [Key-Researcher:: John Sweller]
 [First-Described:: 1988]

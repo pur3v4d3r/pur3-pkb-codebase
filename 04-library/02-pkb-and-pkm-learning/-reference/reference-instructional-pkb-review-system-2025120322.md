@@ -1526,7 +1526,7 @@ _%>
 3. **[[Review Friction Reduction]]**
    - *Connection*: Templates should minimize friction to encourage consistent practice
    - *Depth Potential*: UX principles for knowledge management systems
-   - *Knowledge Graph Role*: Links to [[PKM/Workflow]], [[Productivity]]
+   - *Knowledge Graph Role*: Links to [[PKM/Workflow]], [[productivity]]
 
 4. **[[Template Versioning Strategies]]**
    - *Connection*: Templates evolve—need system for managing versions

@@ -586,7 +586,7 @@ extraction_summary:
 - [[Malcolm-Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
 - [[Organismic-Integration-Theory]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Pragmatist]]
 - [[Relatedness-Need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
@@ -614,7 +614,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Heutagogy]] | — | — | Phase I: Orientation & Synthesis Focus | 149 |
-| 2 | [[Pedagogy]] | — | — | The Synthesis Question | 158 |
+| 2 | [[pedagogy]] | — | — | The Synthesis Question | 158 |
 | 3 | [[Andragogy]] | — | — | The Synthesis Question | 158 |
 | 4 | [[Heutagogy]] | — | — | The Synthesis Question | 158 |
 | 5 | [[Report 10: Scaffolding and Fading]] | — | — | The Synthesis Question | 162 |
@@ -629,7 +629,7 @@ extraction_summary:
 | 14 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 15 | [[Transformative Learning Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 16 | [[Socratic Self-Examination]] | — | — | Scope and Cross-Domain Preview | 170 |
-| 17 | [[Pedagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
+| 17 | [[pedagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 18 | [[Andragogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 19 | [[Heutagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 20 | [[External-Regulation|External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
@@ -711,7 +711,7 @@ extraction_summary:
 - [[Malcolm-Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
 - [[Organismic-Integration-Theory]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Pragmatist]]
 - [[Relatedness-Need]]
 - [[Report 01: Foundations of Knowledge Architecture]]

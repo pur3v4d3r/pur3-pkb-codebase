@@ -931,7 +931,7 @@ extraction_summary:
 
 - [[Architecture Documentation]]
 - [[Cognitive-Load|Cognitive Load]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive Science Basics]]
 - [[Community-Plugins|Community Plugins]]
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
@@ -1097,7 +1097,7 @@ extraction_summary:
 | 77 | [[Excalidraw Basics]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1443 |
 | 78 | [[Visual Thinking Principles]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1443 |
 | 79 | [[Mind Mapping Theory & Research]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1447 |
-| 80 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1450 |
+| 80 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1450 |
 | 81 | [[Learning Theory]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1450 |
 | 82 | [[Learning Theory Basics]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1452 |
 | 83 | [[MarkMind Basics]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1452 |
@@ -2072,7 +2072,7 @@ $$
 
 - [[Architecture Documentation]]
 - [[Cognitive-Load|Cognitive Load]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive Science Basics]]
 - [[Community-Plugins|Community Plugins]]
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]

@@ -171,7 +171,7 @@ extraction_summary:
 #### 8. [METHODOLOGY-AND-SOURCES] 🔬 Evidence Base for the Somatic Marker Hypothesis *(Line 236)*
 
 > [!methodology-and-sources] 🔬 Evidence Base for the Somatic Marker Hypothesis
-> The primary experimental paradigm is the [[Iowa Gambling Task]], in which participants choose cards from four decks with different reward/punishment profiles. Normal participants develop anticipatory skin conductance responses — measurable physiological markers — to the disadvantageous decks *before* they can consciously articulate why those decks are problematic, suggesting that the body "knows" before the mind knows. VMPFC patients fail to develop these anticipatory responses and continue choosing from disadvantageous decks. The hypothesis also draws on a rich tradition of lesion studies, including Damasio's analysis of Phineas Gage. However, it is important to note that Edmund Rolls and others have proposed alternative interpretations of VMPFC deficits that do not require the somatic marker mechanism, and replication of the IGT findings across laboratories has been mixed. The somatic marker hypothesis remains the most influential account of the body's role in decision-making but should be held with appropriate epistemic humility.
+> The primary experimental paradigm is the [[Iowa-Gambling-Task|Iowa Gambling Task]], in which participants choose cards from four decks with different reward/punishment profiles. Normal participants develop anticipatory skin conductance responses — measurable physiological markers — to the disadvantageous decks *before* they can consciously articulate why those decks are problematic, suggesting that the body "knows" before the mind knows. VMPFC patients fail to develop these anticipatory responses and continue choosing from disadvantageous decks. The hypothesis also draws on a rich tradition of lesion studies, including Damasio's analysis of Phineas Gage. However, it is important to note that Edmund Rolls and others have proposed alternative interpretations of VMPFC deficits that do not require the somatic marker mechanism, and replication of the IGT findings across laboratories has been mixed. The somatic marker hypothesis remains the most influential account of the body's role in decision-making but should be held with appropriate epistemic humility.
 
 #### 9. [PRINCIPLE-POINT] 📌 The Hippocampus as the Examined Life's Most Vulnerable Structure *(Line 245)*
 
@@ -412,7 +412,7 @@ extraction_summary:
 - [[Intellectual-Virtue|Intellectual Virtue]]
 - [[Interoceptive-Inference|Interoceptive Inference]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Iowa Gambling Task]]
+- [[Iowa-Gambling-Task|Iowa Gambling Task]]
 - [[Joseph Eyer]]
 - [[Karl-Friston|Karl Friston]]
 - [[Lawrence Shapiro]]
@@ -470,7 +470,7 @@ extraction_summary:
 | 30 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
 | 31 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
 | 32 | [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
-| 33 | [[Iowa Gambling Task]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 237 |
+| 33 | [[Iowa-Gambling-Task|Iowa Gambling Task]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 237 |
 | 34 | [[Peter Sterling]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
 | 35 | [[Joseph Eyer]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
 | 36 | [[Homeostasis]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
@@ -538,7 +538,7 @@ extraction_summary:
 - [[Intellectual-Virtue|Intellectual Virtue]]
 - [[Interoceptive-Inference|Interoceptive Inference]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Iowa Gambling Task]]
+- [[Iowa-Gambling-Task|Iowa Gambling Task]]
 - [[Joseph Eyer]]
 - [[Karl-Friston|Karl Friston]]
 - [[Lawrence Shapiro]]
@@ -582,7 +582,7 @@ extraction_summary:
 
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
-- [[Phenomenology]]
+- [[phenomenology]]
 - [[Psychophysiology]]
 
 ---

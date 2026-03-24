@@ -234,7 +234,7 @@ cognitive-load:
 
 ```markdown
 > [!synthesis-opportunity] Attention as Resource Allocation
-> **Source Domain**: [[Cognitive-Psychology]] — [[Kahneman Capacity Model]]
+> **Source Domain**: [[cognitive-psychology]] — [[Kahneman Capacity Model]]
 > **Target Domains**: 
 >   - [[Economics]] — scarcity/allocation parallels
 >   - [[Computer Science]] — CPU scheduling algorithms
@@ -2315,7 +2315,7 @@ cognitive-load:
 
 ```markdown
 > [!synthesis-opportunity] Attention as Resource Allocation
-> **Source Domain**: [[Cognitive-Psychology]] — [[Kahneman Capacity Model]]
+> **Source Domain**: [[cognitive-psychology]] — [[Kahneman Capacity Model]]
 > **Target Domains**: 
 >   - [[Economics]] — scarcity/allocation parallels
 >   - [[Computer Science]] — CPU scheduling algorithms

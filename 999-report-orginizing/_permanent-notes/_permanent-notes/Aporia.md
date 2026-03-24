@@ -15,33 +15,31 @@ confidence: high
 tags:
   - permanent-note
   - evergreen
-  - educational-psychology
-  - pkm-framework
-  - inquiry-based-learning
-  - socratic-method
-  - pragmatism
-  - constructivism
+  - other
+  - socratic-dialogue-report
+  - dialectical-inquiry
+  - academic-synthesis
+  - epistemology
 
-domain: educational-psychology
+domain: other
 subdomains:
-  - educational-philosophy
-  - critical-thinking
-  - constructivism
-  - instructional-design
-  - cognitive-psychology
+  - philosophy-of-mind
+  - pedagogy
+  - cognitive-science
+  - philosophy-of-education
 
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "14-inquiry-based-knowledge-building-pkm-framework-2026-03-14"
+  - "what-does-it-mean-to-truley-understand-something-2026-03-10"
   - "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
   - "report-01-the-inquiry-engine.md"
 evidence-quality: high
@@ -69,33 +67,17 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
-  - "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]"
-  - "[[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]"
-  - "[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]"
-  - "[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]"
-  - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
-  - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
-  - "[[Anomalous-Data|Anomalous Data]]"
-  - "[[understanding|understanding]]"
+  - "[[understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[Pedagogy|pedagogy]]"
+  - "[[pedagogy]]"
   - "[[Rote-memorization|Rote memorization]]"
   - "[[classical-mechanics|classical mechanics]]"
   - "[[Tacit-Knowledge|tacit knowledge]]"
   - "[[Michael-Polanyi|Michael Polanyi]]"
-  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
-  - "[[understanding|understanding]]"
-  - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[Pedagogy|pedagogy]]"
-  - "[[Rote-memorization|Rote memorization]]"
-  - "[[classical-mechanics|classical mechanics]]"
   - "[[Tacit-Knowledge|tacit knowledge]]"
-  - "[[Michael-Polanyi|Michael Polanyi]]"
-  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
   - "[[understanding|understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[Pedagogy|pedagogy]]"
+  - "[[pedagogy|pedagogy]]"
   - "[[Rote-memorization|Rote memorization]]"
   - "[[classical-mechanics|classical mechanics]]"
   - "[[Tacit-Knowledge|tacit knowledge]]"
@@ -106,20 +88,14 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
-  - "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]"
-  - "[[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]"
-  - "[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]"
-  - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
+  - "[[]]"
 
 enables:
-  - "[[21-dialectical-knowledge-building-pkm-framework]]"
-  - "[[18-calibration-epistemic-humility-pkm-framework]]"
-  - "[[25-integration-problem-pkm-framework]]"
-  - "[[28-philosophy-of-personal-knowledge-pkm-framework]]"
+  - "[[]]"
 
 expansion-topics:
-  - topic: "[[]]"
+  - topic: "[[!topic-idea-The-Teaching-Problem-Can-Understanding-Be-Transmitted-If-understandi|> [!topic-idea] **The Teaching Problem: Can Understanding Be Transmitted?**
+> If understanding is fu]]"
     description: ""
     priority: medium
 
@@ -134,32 +110,15 @@ importance: high
 # Aporia
 
 > [!definition] **Aporia**
-> Aporia (Greek: ἀπορία, without passage or resource) names the state of productive intellectual perplexity induced by successful elenchus. The interlocutor who has undergone elenchus finds themselves in a condition of genuine uncertainty — unable to maintain their original confident belief but also not yet in possession of a better-grounded alternative. Far from being a failure state to be avoided, aporia is, in the Socratic framework, the most educationally productive state possible. It marks the transition from pseudo-knowledge (confident opinion without justification) to genuine inquiry (recognition of what one does not know, motivating the search for what one does not yet know). [[Aporia]] is, in this sense, epistemic clarity about one's actual situation.
-
-*Source: (defined across 4 reports)*
+> Literally, "impasse" or "without passage" (Greek: a- + poros). In Socratic philosophy, aporia is the state of productive intellectual impasse reached when a previously confident position has been shown to be inadequate, but before a replacement has been found. Aporia is not failure — in the Platonic dialogues, it is the precondition for genuine inquiry. Only someone who genuinely does not know what they thought they knew can begin to seek real understanding.
 
 ## Core Explanation
 
-> [!evidence] Supporting Evidence
-> **The Elaboration Evidence Points Toward Architectural Redesign**: The elaborative interrogation literature does not merely suggest "asking more why questions while learning." Its implications, taken at face value, are more radical: they suggest that the predominant mode of PKB note-making — recording assertions and summaries — systematically bypasses the cognitive process that produces understanding. If the causal mechanism is generative processing (constructing explanatory connections), and…
-
-> [!evidence] Supporting Evidence
-> **Failure as Epistemic Infrastructure**: Kapur's productive failure research suggests something the standard PKB workflow obscures almost entirely: the attempt to solve a problem before knowing the answer — and *failing* at that attempt — is not wasted effort. It is the most effective preparation for genuine understanding that the research has identified. Applied to PKB design, this implies that a note initiated by "here is what I do not yet understand about X, and here are my initial…
-
-> [!evidence] Supporting Evidence
-> **Inquiry Architecture Cultivates the Disposition That Makes It Necessary**: The evidence from the elaborative interrogation and self-explanation research, taken together with the Deweyan account of inquiry as a disposition and not merely a technique, suggests something that the narrow reading of those research traditions might miss: the benefit of question-driven learning is not only the immediate learning outcome (better comprehension of the specific material processed). It is the cultivation…
+> [!analytical-insight] Key Insight
+> Understanding is the capacity to provide structural explanation — an account of mechanism, causation, or logical necessity — that accurately represents *why* a phenomenon is the way it is, and that survives robust follow-up questioning. This distinguishes genuine understanding from mere familiarity (passive recognition without explanatory depth) and from rote knowledge (accurate reproduction without structural grasp). The explanation-test, properly applied, is both necessary and sufficient for…
 
 > [!analytical-insight] Key Insight
-> **The Generative Principle: Understanding Is Produced, Not Received**: Taken together, the Socratic method, Deweyan inquiry, constructivist learning theory, elaborative interrogation research, and the self-explanation effect all point to a single foundational claim: genuine understanding is always the product of active generative processing — questioning, explaining, connecting, testing, revising. It is never the product of passive reception, however attentive. This convergence from philosophy,…
-
-> [!analytical-insight] Key Insight
-> **The Pipeline Reveals Why Assertion-Based PKBs Cannot Produce Understanding**: The Aporia-to-Schema Pipeline reveals the precise mechanism by which standard assertion-based PKB note-making fails to produce understanding. When a note begins with an assertion — "X is the case" — it bypasses Stage 2 entirely. There is no induced aporia, no felt difficulty, no disequilibrium. The new information is presented to the cognitive system as something to be assimilated into existing schemas, not as…
-
-> [!analytical-insight] Key Insight *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
-> Understanding is the capacity to provide structural explanation — an account of mechanism, causation, or logical necessity — that accurately represents *why* a phenomenon is the way it is, and that survives robust follow-up questioning. This distinguishes genuine understanding from mere familiarity (passive recognition without explanatory depth) and from rote knowledge (accurate reproduction without structural grasp). The explanation-test, properly applied, is both necessary and sufficient for attributing understanding.
-
-> [!analytical-insight] Key Insight *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
-> Understanding is not a state but a capacity — specifically, the capacity for *functional integration*: the organisation of knowledge in a way that enables (1) productive inference across new cases; (2) accurate prediction of a domain's behaviour; (3) detection of anomaly or error — the knowledge reveals when things don't fit; (4) analogical extension — the ability to map the structure of the domain onto structurally similar domains; and (5) self-correction — the ability to recognise the limits and failures of one's own understanding. This is a *functional* rather than *propositional* conception of understanding.
+> Understanding is not a state but a capacity — specifically, the capacity for *functional integration*: the organisation of knowledge in a way that enables (1) productive inference across new cases; (2) accurate prediction of a domain's behaviour; (3) detection of anomaly or error — the knowledge reveals when things don't fit; (4) analogical extension — the ability to map the structure of the domain onto structurally similar domains; and (5) self-correction — the ability to recognise the limits…
 
 > [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
 > The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
@@ -173,52 +132,17 @@ importance: high
 
 
 
-
-
 ## Practical Implications
 
 > [!example] **Application**
-> **Inquiry Node Template for Obsidian**: An Inquiry Node is structured as follows:
-> 
-> ```
-> ---
-> inquiry-question: "Why does [X] occur even when [Y] is present?"
-> inquiry-status: active | provisional-answer | resolved | suspended
-> opened: YYYY-MM-DD
-> last-updated: YYYY-MM-DD
-> confidence: low | medium | high
-> epistemic-status: speculative | exploring | tested | warranted
-> ---
-> 
-> ## The Question
-> [State the question in the most precise form you currently have it.
->  Note how the question has evolved if it has…
-
-> [!example] **Application**
-> **Inquiry Trail Implementation in Obsidian**: Create an Inquiry Trail note that serves as the navigational spine:
-> 
-> ```
-> # Inquiry Trail: [Central Question or Theme]
-> 
-> ## Trail Summary
-> [2-3 sentences describing the inquiry arc — what drove it, where it led,
->  what remains open. Written retrospectively as the trail develops.]
-> 
-> ## Trail Nodes (in inquiry order)
-> 
-> 1. **[[Node-01-Opening-Question]]** — *Status: Provisional Answer*
->    The originating question. Led to the discovery of [key…
-
-> [!warning] **Key Distinction**
-> The inquiry-based approach described here is frequently misread as "a more elaborate way of taking notes" — adding question prompts and revision logs to what is essentially the same capture workflow. This misreads the architecture entirely. Inquiry-first PKB design is not a more elaborate capture workflow; it is a different cognitive activity. The note is not the destination; the inquiry is. The note is the record of an inquiry process that should occur primarily in the learner's mind — with…
-
+> *Describe how this concept applies in practice.*
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> [!reflection] **Reflect**
 > The Questioner is about to pose what seems like a simple question: *What does it mean to truly understand something?* Before reading the Respondent's answer, formulate your own. You might reach for phrases like "being able to explain it," or "knowing why, not just what," or "being able to use it." Write something down — even a sentence. As the dialogue unfolds, you will encounter the same scrutiny applied to your answer. Let the Respondent speak for you.
 
-> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> [!reflection] **Reflect**
 > At this point, the Respondent's position is fully articulated: understanding is the capacity for structural, mechanistic explanation that survives probing. Do you agree? Think about a subject you feel you genuinely understand. Could you pass the explanation-test? And now think about a subject where you feel uncertain — would the test accurately capture your degree of understanding, or does something feel off about using explanation as the measure? Hold that intuition. It will matter.
 
 > [!reflection] **Reflect** *(from report-01-the-inquiry-engine.md)*
@@ -230,53 +154,52 @@ importance: high
 
 
 
+## References
+
+- **Dewey, J. (1910, revised 1933). *How We Think*. D.C. Heath and Company.**: The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
+
+- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt and Company.**: Dewey's mature philosophical account of inquiry, extending the psychological account of *How We Think* into a full philosophical logic. Contains the most rigorous treatment of indeterminate situations and the transformation of problematic situations through inquiry.
+
+- **Vlastos, G. (1983). The Socratic elenchus. *Oxford Studies in Ancient Philosophy*, 1, 27–58.**: The landmark analytical reconstruction of Socratic method. Argues that the elenchus is a systematic procedure with identifiable logical structure, and that Socrates believed it could yield positive knowledge through the elimination of inconsistencies.
+
+- **Scott, G.A. (Ed.). (2002). *Does Socrates Have a Method? Rethinking the Elenchus in Plato's Dialogues and Beyond*. Penn State University Press.**: Important critical engagement with Vlastos's reconstruction. Multiple contributors argue that Socrates' argumentative strategies in the dialogues are more diverse and less unified than Vlastos suggests. Recommended for calibrating the strength of the Socratic synthesis claims in this report.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The definitive popular-scholarly synthesis of Dual Process Theory. Books I–III develop the System 1/System 2 distinction and its implications for judgment and decision-making. Chapters on cognitive ease and effort are especially relevant to the inquiry activation account in this report.
+
+- **Dewey, J. (1910, revised 1933). *How We Think*. D.C. Heath and Company.**: The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
+
+- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt and Company.**: Dewey's mature philosophical account of inquiry, extending the psychological account of *How We Think* into a full philosophical logic. Contains the most rigorous treatment of indeterminate situations and the transformation of problematic situations through inquiry.
+
+- **Vlastos, G. (1983). The Socratic elenchus. *Oxford Studies in Ancient Philosophy*, 1, 27–58.**: The landmark analytical reconstruction of Socratic method. Argues that the elenchus is a systematic procedure with identifiable logical structure, and that Socrates believed it could yield positive knowledge through the elimination of inconsistencies.
+
+- **Scott, G.A. (Ed.). (2002). *Does Socrates Have a Method? Rethinking the Elenchus in Plato's Dialogues and Beyond*. Penn State University Press.**: Important critical engagement with Vlastos's reconstruction. Multiple contributors argue that Socrates' argumentative strategies in the dialogues are more diverse and less unified than Vlastos suggests. Recommended for calibrating the strength of the Socratic synthesis claims in this report.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The definitive popular-scholarly synthesis of Dual Process Theory. Books I–III develop the System 1/System 2 distinction and its implications for judgment and decision-making. Chapters on cognitive ease and effort are especially relevant to the inquiry activation account in this report.
+
+
+
+
+
+
+
+
+
+
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Cognitive-Disequilibrium|Cognitive Disequilibrium]]
-
-**Cross-report connections:**
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-Polanyi|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]] · [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] · [[Argument-Mapping|Argument Mapping]] · [[Argumentation-Theory|Argumentation Theory]] · [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]]
+[[understanding]] · [[Richard-Feynman|Richard Feynman]] · [[pedagogy]] · [[Rote-memorization|Rote memorization]] · [[classical-mechanics|classical mechanics]] · [[Tacit-Knowledge|tacit knowledge]] · [[Michael-Polanyi|Michael Polanyi]] · [[Tacit-Knowledge|tacit knowledge]] · [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] · [[Gilbert-Ryle|Gilbert Ryle]] · [[knowing-how]] · [[knowing-that]] · [[electromagnetism]] · [[cognitive-psychology|cognitive psychology]] · [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]
 
 **Related concepts** *(from report-01-the-inquiry-engine.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[understanding|understanding]] * [[Richard-Feynman|Richard Feynman]] * [[Pedagogy|pedagogy]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[knowing-how|knowing-how]] * [[knowing-that|knowing-that]] * [[electromagnetism|electromagnetism]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Related concepts** *(from report-01-the-inquiry-engine.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Related concepts** *(from report-01-the-inquiry-engine.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[Cognitive-Psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
 
 **Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -295,8 +218,20 @@ importance: high
 
 
 
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Dialogue**
+> This dialogue draws on two distinct traditions. The first is the Socratic method itself, as reconstructed primarily through Plato's early *elenctic* dialogues (*Euthyphro*, *Meno*, *Laches*, *Charmides*) and through Vlastos's analytical reconstruction of the elenctic procedure's logical structure. The Questioner's moves in this dialogue follow the Vlastosian pattern: eliciting additional commitments and demonstrating their incompatibility with the initial thesis.
+> 
+> The second tradition is empirical cognitive science and the philosophy of mind, specifically the literatures on tacit knowledge…
+
+---
+
+> [!methodology-and-sources] **Methodological Note on the Homology Claim** *(from report-01-the-inquiry-engine.md)*
+> The claim that these four frameworks describe the same underlying mechanism is a theoretical synthesis claim, not an empirical finding. Each framework is independently well-supported by empirical research. The homology claim is the report's original synthesis contribution — it identifies structural isomorphism across frameworks and argues that this isomorphism is best explained by shared reference to the same underlying cognitive mechanism. This claim is theoretically productive and well-motivated, but it should be held as a hypothesis that awaits direct empirical investigation rather than as an established fact. Future research could directly test whether manipulations that affect one component (e.g., inducing felt difficulty through environmental disruption) produce the predicted effects in the others (e.g., increased System 2 engagement, activated metacognitive monitoring, curiosity signal).
 
 
+## Source Attribution
 
-
-
+**Extracted from:** [[what-does-it-mean-to-truley-understand-something-2026-03-10]]
+**Report ID:** `understanding-socratic-dialogue-2026-03-10`

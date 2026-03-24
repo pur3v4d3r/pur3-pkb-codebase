@@ -2,8 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Personal Knowledge Base"
+title: "Personal-Knowledge-Base"
 aliases:
+  - "Personal-Knowledge-Base"
   - "Personal Knowledge Base"
 type: permanent-note
 status: seedling
@@ -16,60 +17,67 @@ tags:
   - permanent-note
   - seedling
   - concept-stub
-  - learning-science
+  - other
 
-domain: learning-science
+domain: other
 
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 15
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Double-Ignorance]]"
-  - "[[Dunning-Kruger-Effect]]"
-  - "[[Epistemic-Accuracy-Architecture-—-EAA]]"
-  - "[[Hard-Easy-Effect]]"
-  - "[[Overconfidence-Effect]]"
-  - "[[Prediction-Performance-Gap]]"
-  - "[[Socratic-Ignorance-Knowing-One's-Ignorance]]"
-  - "[[The-Epistemic-Accuracy-Architecture-A-Four-Dimension-Framework-for-PKB-Knowledge]]"
-  - "[[The-Epistemic-Honesty-Flywheel]]"
+  - "[[Client-Server-Architecture]]"
+  - "[[Construction-Activation-Asymmetry]]"
+  - "[[Crystallization-Threshold]]"
+  - "[[Data-Layer-Components]]"
+  - "[[FastMCP]]"
+  - "[[Literature-Review]]"
+  - "[[Model-Context-Protocol]]"
+  - "[[Operational-Targets]]"
+  - "[[Restructuring]]"
+  - "[[Schema-Construction]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
-# Personal Knowledge Base
+# Personal-Knowledge-Base
 
-> [!definition] **Personal Knowledge Base**
-> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Personal-Knowledge-Base**
+> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 15 permanent notes.*
 
 ## Referenced By
 
-- [[Double-Ignorance]]
-- [[Dunning-Kruger-Effect]]
-- [[Epistemic-Accuracy-Architecture-—-EAA]]
-- [[Hard-Easy-Effect]]
-- [[Overconfidence-Effect]]
-- [[Prediction-Performance-Gap]]
-- [[Socratic-Ignorance-Knowing-One's-Ignorance]]
-- [[The-Epistemic-Accuracy-Architecture-A-Four-Dimension-Framework-for-PKB-Knowledge]]
-- [[The-Epistemic-Honesty-Flywheel]]
+- [[Client-Server-Architecture]]
+- [[Construction-Activation-Asymmetry]]
+- [[Crystallization-Threshold]]
+- [[Data-Layer-Components]]
+- [[FastMCP]]
+- [[Literature-Review]]
+- [[Model-Context-Protocol]]
+- [[Operational-Targets]]
+- [[Restructuring]]
+- [[Schema-Construction]]
+- [[Schema-Crystallization-Event]]
+- [[Structural-Analogue]]
+- [[The-Analogy-First-Instructional-Principle]]
+- [[The-Bootstrapping-Constraint]]
+- [[The-Construction-Activation-Asymmetry-as-Schema-Theory's-Productive-Frontier]]

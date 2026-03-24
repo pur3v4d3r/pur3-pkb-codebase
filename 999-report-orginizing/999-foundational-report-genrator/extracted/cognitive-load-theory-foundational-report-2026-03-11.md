@@ -95,7 +95,7 @@ related:
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
 narrower:
   - "[[Worked-Example-Effect|Worked Example Effect]]"

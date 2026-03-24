@@ -34,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-20
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -152,6 +152,14 @@ importance: high
 > [!warning] **Key Distinction**
 > **Error 1 — Treating motivational and regulatory failures as the same**: A student who lacks autonomous motivation requires fundamentally different intervention than a student with autonomous motivation but poor regulatory strategies. Applying strategy instruction to a motivationally controlled student adds cognitive burden without addressing the root condition. Applying motivational support to a learner with poor regulatory architecture addresses the energy quality without providing the…
 
+## Conceptual Tensions
+
+> [!tension] **The Effortlessness-Effort Paradox**
+> SDT's ideal is the effortlessly absorbed intrinsically motivated learner; Zimmerman's ideal is the effortfully and systematically self-regulating deliberate practitioner. These ideals are not identical, and their coexistence in the "ideal learner" is theoretically underdeveloped. One resolution: intrinsic motivation describes the *motivational quality* of engagement (volitional, non-pressured, interest-driven) while deliberate practice describes the *cognitive quality* of learning activity (systematically structured, feedback-rich, goal-directed). A learner could be intrinsically motivated…
+
+> [!tension] **Universal Needs, Variable Regulation**
+> SDT's universalism and SRL's implicit acknowledgment of cultural variability in regulatory strategies create a tension with practical implications. If need satisfaction is universal but the forms through which regulation is culturally organised are variable, then the same need-satisfying environment may need to look quite different across cultural contexts to produce equivalent regulatory quality. SDT acknowledges cultural variation in the *forms* of need satisfaction but has been challenged on whether even the basic need categories apply universally. SRL's variability evidence suggests the…
+
 ## Reflection Prompts
 
 > [!reflection] **Reflect**
@@ -175,3 +183,40 @@ importance: high
 - [[Motivational-Interviewing|Motivational-Interviewing]]
 
 
+
+## References
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
+
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on four decades of empirical literature in motivational psychology (primarily SDT research) and self-regulated learning research (Zimmerman, Pintrich, Winne & Hadwin traditions). The comparative analysis proceeds through dimensional mapping (identifying shared questions), complementarity/conflict/convergence classification (applying the five-operation Comparative Analysis Engine), and integrative yield assessment (identifying what becomes visible only through comparison).
+> 
+> Claims in the individual framework profiles (Phase II) are empirically grounded in the primary…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[sdt-srl-comparative-synthesis-2026-03-19]]
+**Report ID:** `sdt-srl-comparative-synthesis-2026-03-19`

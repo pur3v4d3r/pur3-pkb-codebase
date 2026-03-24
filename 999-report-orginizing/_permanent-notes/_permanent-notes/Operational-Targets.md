@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103"
+  - "prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[Self-Consistency]]"
   - "[[Reflexion]]"
   - "[[DSPy]]"
+  - "[[Advanced-Persona-Crafting|Advanced Persona Crafting]]"
+  - "[[Instructional-Scaffolding|Instructional Scaffolding]]"
+  - "[[Persona-Engineering|Persona Engineering]]"
+  - "[[Constitutional-AI|Constitutional AI]]"
+  - "[[ReAct|ReAct]]"
+  - "[[Self-Consistency|Self-Consistency]]"
+  - "[[Reflexion|Reflexion]]"
+  - "[[DSPy|DSPy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -114,3 +123,13 @@ importance: medium
 
 **Related concepts:**
 [[Advanced-Persona-Crafting|Advanced Persona Crafting]] · [[Instructional-Scaffolding|Instructional Scaffolding]] · [[Persona-Engineering|Persona Engineering]] · [[Constitutional-AI|Constitutional AI]] · [[ReAct]] · [[Self-Consistency]] · [[Reflexion]] · [[DSPy]] · [[Persona-Prompts|Persona_Prompts]] · [[Instructional-Scaffolding|Instructional Scaffolding]] · [[Constitutional-AI|Constitutional AI]] · [[ReAct]] · [[Self-Consistency]] · [[Reflexion]] · [[DSPy]]
+
+---
+
+**Related concepts** *(from prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103.md)*:
+[[Advanced-Persona-Crafting|Advanced Persona Crafting]] * [[Instructional-Scaffolding|Instructional Scaffolding]] * [[Persona-Engineering|Persona Engineering]] * [[Constitutional-AI|Constitutional AI]] * [[Persona_Prompts|Persona_Prompts]] * [[Toolformer|Toolformer]] * [[Science-Communication|Science Communication]] * [[Personal-Knowledge-Base|Personal Knowledge Base]] * [[wiki-links|Wiki-Links]] * [[Evaluation-Rubrics-for-LLM-Outputs|Evaluation Rubrics for LLM Outputs]] * [[Agent-Architecture-Patterns-(ReAct,-Plan-Act,-Toolformer)|Agent Architecture Patterns (ReAct, Plan-Act, Toolformer)]] * [[Prompt-Injection,-Agent-Hijacking,-and-Constitutional-Defenses|Prompt Injection, Agent Hijacking, and Constitutional Defenses]]
+
+
+## Source Attribution
+
+**Extracted from:** [[prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103]]

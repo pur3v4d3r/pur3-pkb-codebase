@@ -36,7 +36,7 @@ related_concepts:
   - "[[Graph of Thoughts]]"
   - "[[Beam Search]]"
   - "[[Monte Carlo Tree Search]]"
-  - "[[Counterfactual Reasoning]]"
+  - "[[Counterfactual-Reasoning]]"
   - "[[Prospective Memory]]"
   - "[[Working-Memory]]"
   - "[[Cognitive-Load-Theory]]"

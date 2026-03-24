@@ -460,7 +460,7 @@ extraction_summary:
 - [[conceptual change pedagogy]]
 - [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
-- [[Constructivist]]
+- [[constructivist]]
 - [[information processing]]
 - [[interleaved practice]]
 - [[knowledge representation]]
@@ -492,7 +492,7 @@ extraction_summary:
 | 10 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | The Core Concept: What Is a Schema? | 283 |
 | 11 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | The Core Concept: What Is a Schema? | 283 |
 | 12 | [[Jean-Piaget|Jean Piaget]] | — | — | The Piagetian Architecture: Assimilat... | 292 |
-| 13 | [[Constructivist]] | — | — | The Piagetian Architecture: Assimilat... | 303 |
+| 13 | [[constructivist]] | — | — | The Piagetian Architecture: Assimilat... | 303 |
 | 14 | [[Declarative-schemas|Declarative schemas]] | — | — | Foundational Distinctions | 314 |
 | 15 | [[Procedural-schemas|Procedural schemas]] | — | — | Foundational Distinctions | 314 |
 | 16 | [[John-Anderson|John Anderson]] | — | — | Foundational Distinctions | 314 |
@@ -614,7 +614,7 @@ extraction_summary:
 - [[conceptual change pedagogy]]
 - [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
-- [[Constructivist]]
+- [[constructivist]]
 - [[information processing]]
 - [[interleaved practice]]
 - [[knowledge representation]]
@@ -650,7 +650,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Learning Sciences]]
 
 #### Narrower

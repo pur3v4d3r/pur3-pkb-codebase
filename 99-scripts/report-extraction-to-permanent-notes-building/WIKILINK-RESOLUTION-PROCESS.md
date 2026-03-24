@@ -34,7 +34,7 @@ When auto-generating Obsidian markdown notes from structured report data, wiki-l
 [[Zone-of-Proximal-Development]]
 ```
 
-**Symptom in Obsidian:** These links appeared in **light red** (unresolved) in reading/preview mode, while single-word links like `[[Pedagogy]]` and `[[Andragogy]]` appeared in **blue** (resolved) and worked correctly.
+**Symptom in Obsidian:** These links appeared in **light red** (unresolved) in reading/preview mode, while single-word links like `[[pedagogy]]` and `[[Andragogy]]` appeared in **blue** (resolved) and worked correctly.
 
 **Scale of the problem:**
 - 665 permanent notes (398 originals + 267 stubs)
@@ -52,7 +52,7 @@ Obsidian does **NOT** automatically resolve spaces to hyphens in filenames.
 
 | Link in Markdown | Obsidian Looks For | Actual File on Disk | Result |
 |---|---|---|---|
-| `[[Pedagogy]]` | `Pedagogy.md` | `Pedagogy.md` | ✅ Works |
+| `[[pedagogy]]` | `Pedagogy.md` | `Pedagogy.md` | ✅ Works |
 | `[[Andragogy]]` | `Andragogy.md` | `Andragogy.md` | ✅ Works |
 | `[[Expertise-Reversal-Effect]]` | `Expertise Reversal Effect.md` | `Expertise-Reversal-Effect-...-Kalyuga,...md` | ❌ Broken |
 | `[[Cognitive-Load-Theory]]` | `Cognitive Load Theory.md` | `Cognitive-Load-Theory.md` | ❌ Broken |
@@ -105,7 +105,7 @@ Obsidian's pipe syntax directly targets the file by its exact filename stem:
 
 1. **Target** = the filename **without** `.md`, case-insensitive in Obsidian
 2. **Display** = the human-readable text shown in reading mode
-3. If target == display (single-word, no mismatch), pipe is optional: `[[Pedagogy]]` works fine
+3. If target == display (single-word, no mismatch), pipe is optional: `[[pedagogy]]` works fine
 4. If the filename has hyphens but the display has spaces, you **must** use pipe syntax
 
 ---

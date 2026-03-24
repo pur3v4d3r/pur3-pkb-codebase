@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 11
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,26 +42,25 @@ see-also:
   - "[[Disposition]]"
   - "[[Evaluation]]"
   - "[[Inference]]"
-  - "[[Memory-Consolidation]]"
   - "[[Metacognition]]"
-  - "[[Retrieval-Practice-Effect]]"
   - "[[Socratic-Method]]"
   - "[[Transfer-of-Learning]]"
+  - "[[Weak-Sense-vs.-Strong-Sense-Critical-Thinking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
 # Daniel-Willingham
 
 > [!definition] **Daniel-Willingham**
-> *Stub note — concept referenced by 11 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 11 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
@@ -70,9 +69,7 @@ importance: medium
 - [[Disposition]]
 - [[Evaluation]]
 - [[Inference]]
-- [[Memory-Consolidation]]
 - [[Metacognition]]
-- [[Retrieval-Practice-Effect]]
 - [[Socratic-Method]]
 - [[Transfer-of-Learning]]
 - [[Weak-Sense-vs.-Strong-Sense-Critical-Thinking]]

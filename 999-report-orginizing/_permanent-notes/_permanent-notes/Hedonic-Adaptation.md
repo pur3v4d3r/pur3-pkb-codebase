@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -71,14 +71,6 @@ see-also:
   - "[[Basic-Psychological-Needs|basic psychological needs]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Goal-Contents-Theory|Goal Contents Theory]]"
-  - "[[Tim-Kasser|Tim Kasser]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic-Psychological-Needs|basic psychological needs]]"
-  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[Autonomy|autonomy]]"
-  - "[[Competence|competence]]"
   - "[[Goal-Contents-Theory|Goal Contents Theory]]"
   - "[[Tim-Kasser|Tim Kasser]]"
   - "[[Richard-Ryan|Richard Ryan]]"
@@ -154,15 +146,18 @@ importance: high
 > [!warning] **Key Distinction**
 > A subtle but important pitfall for applying GCT in educational contexts is that attempts to promote intrinsic goal framing can themselves become controlling if they are delivered as prescriptions ("you *should* care about personal growth") rather than as invitations. Research on autonomy support consistently shows that conveying a rationale while acknowledging learners' perspectives and perspectives is more effective than mandating internal states. The goal is to create conditions where…
 
+## Conceptual Tensions
+
+> [!tension] **The Directionality Problem: Cause or Symptom?**
+> The most significant theoretical tension in GCT concerns causal directionality. The standard GCT narrative runs: extrinsic goal emphasis → reduced basic needs satisfaction → reduced well-being. But Kasser and colleagues (2014) have also developed the *compensatory hypothesis*, which runs in the opposite direction: basic needs frustration (from poor parenting, insecure attachment, economic scarcity, controlling environments) → individuals adopt extrinsic goals as substitute attempts to obtain what their needs are not directly providing. Under this model, both extrinsic goal emphasis and…
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*
-> Before reading further, consider this: Imagine two people with roughly equal resources, intelligence, and effort. One devotes the next five years primarily to building wealth and public recognition. The other devotes the same five years to deepening relationships, developing personal skills, and contributing to their community. Both achieve roughly what they set out to. Which person do you expect to feel more fulfilled five years from now — and why? Hold that prediction in mind. The evidence may complicate or confirm your intuition, but either way the comparison will sharpen your understanding of what's at stake in this analysis.
+> [!reflection] **Reflect**
+> Before reading further, consider this: Imagine two people with roughly equal resources, intelligence, and effort. One devotes the next five years primarily to building wealth and public recognition. The other devotes the same five years to deepening relationships, developing personal skills, and contributing to their community. Both achieve roughly what they set out to. Which person do you expect to feel more fulfilled five years from now — and why? Hold that prediction in mind. The evidence…
 
-> [!reflection] **Reflect** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*
+> [!reflection] **Reflect**
 > Before engaging with the formal framework, capture your current understanding of what makes a goal "intrinsic" versus "extrinsic." Is the distinction about the *source* of motivation (internal vs. external pressure)? About whether goals involve *tangible rewards*? About something else entirely? Write this down. The distinction GCT draws is genuinely different from what most readers initially assume, and tracking that shift in understanding is valuable.
-
 
 ## Connections & Context
 
@@ -171,7 +166,7 @@ importance: high
 
 **Cross-report connections:**
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Growth-Mindset|Growth Mindset]]
@@ -192,21 +187,42 @@ importance: high
 - [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Growth-Mindset|Growth Mindset]]
 
-**Related concepts** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
-[[Goal-Contents-Theory|Goal Contents Theory]] * [[Tim-Kasser|Tim Kasser]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Aspiration-Index|Aspiration Index]] * [[psychological-well-being|psychological well-being]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Edward-Deci|Edward Deci]] * [[Contingent-Self-Worth|Contingent self-worth]] * [[Kennon-Sheldon|Kennon Sheldon]] * [[Self-Concordance-Model|Self-Concordance Model]] * [[Motivational-Interviewing|Motivational Interviewing]] * [[Goal-Setting-Theory|Goal Setting Theory]]
-
-**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
-- [[Hedonic-Adaptation|hedonic adaptation]]
-
-**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Growth-Mindset|Growth Mindset]]
 
 
 
+## References
+
+- **Kasser, T., & Ryan, R.M. (1993). A dark side of the American dream: Correlates of financial success as a central life aspiration. *Journal of Personality and Social Psychology, 65*(2), 410–422.**: The founding empirical study establishing the association between financial aspiration centrality and reduced well-being outcomes (lower vitality, self-actualization, and higher anxiety/depression) in young adult samples. Controls for parental SES provide early evidence that the effects are not simply poverty effects. Essential reading for understanding the original theoretical motivation for GCT.
+- **Kasser, T., & Ryan, R.M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin, 22*(3), 280–287.**: The paper that introduced the formal distinction between intrinsic and extrinsic goal *domains* and developed the Aspiration Index as a measurement instrument. Extends the 1993 findings by comparing correlates of financial aspiration to correlates of intrinsic aspiration domains, establishing the full GCT taxonomy. Foundational methodological reference.
+- **Niemiec, C.P., Ryan, R.M., & Deci, E.L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. *Journal of Research in Personality, 43*(3), 291–306.**: The critical longitudinal study tracking post-college students' goal attainment and well-being. Provides the most direct evidence for the attainment paradox: intrinsic goal attainment → well-being gains; extrinsic goal attainment → no well-being gains or ill-being increases. Essential for evaluating GCT's claims about the differential psychological "payoff" of goal achievement.
+- **Grouzet, F.M.E., et al. (2005). The structure of goal contents across 15 cultures. *Journal of Personality and Social Psychology, 89*(5), 800–816.**: Large-scale cross-cultural validation study using multidimensional scaling to examine the structure of aspirations in 15 nations spanning developed and developing contexts, collectivistic and individualistic cultures. Finds both the intrinsic-extrinsic distinction and a second physical safety vs. self-transcendence dimension. Essential for evaluating cultural boundary conditions of GCT.
+- **Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K.M., & Deci, E.L. (2004). Motivating learning, performance, and persistence: The synergistic role of intrinsic goals and autonomy-support. *Journal of Personality and Social Psychology, 87*(2), 246–260.**: Controlled experimental study demonstrating that framing identical learning content in intrinsic (personal growth) versus extrinsic (financial gain) goal terms causally affects learning depth and intrinsic motivation. Critical for GCT's application in educational contexts and for establishing causal claims through experimental manipulation of goal framing.
+
+- **Kasser, T., & Ryan, R.M. (1993). A dark side of the American dream: Correlates of financial success as a central life aspiration. *Journal of Personality and Social Psychology, 65*(2), 410–422.**: The founding empirical study establishing the association between financial aspiration centrality and reduced well-being outcomes (lower vitality, self-actualization, and higher anxiety/depression) in young adult samples. Controls for parental SES provide early evidence that the effects are not simply poverty effects. Essential reading for understanding the original theoretical motivation for GCT.
+
+- **Kasser, T., & Ryan, R.M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin, 22*(3), 280–287.**: The paper that introduced the formal distinction between intrinsic and extrinsic goal *domains* and developed the Aspiration Index as a measurement instrument. Extends the 1993 findings by comparing correlates of financial aspiration to correlates of intrinsic aspiration domains, establishing the full GCT taxonomy. Foundational methodological reference.
+
+- **Niemiec, C.P., Ryan, R.M., & Deci, E.L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. *Journal of Research in Personality, 43*(3), 291–306.**: The critical longitudinal study tracking post-college students' goal attainment and well-being. Provides the most direct evidence for the attainment paradox: intrinsic goal attainment → well-being gains; extrinsic goal attainment → no well-being gains or ill-being increases. Essential for evaluating GCT's claims about the differential psychological "payoff" of goal achievement.
+
+- **Grouzet, F.M.E., et al. (2005). The structure of goal contents across 15 cultures. *Journal of Personality and Social Psychology, 89*(5), 800–816.**: Large-scale cross-cultural validation study using multidimensional scaling to examine the structure of aspirations in 15 nations spanning developed and developing contexts, collectivistic and individualistic cultures. Finds both the intrinsic-extrinsic distinction and a second physical safety vs. self-transcendence dimension. Essential for evaluating cultural boundary conditions of GCT.
+
+- **Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K.M., & Deci, E.L. (2004). Motivating learning, performance, and persistence: The synergistic role of intrinsic goals and autonomy-support. *Journal of Personality and Social Psychology, 87*(2), 246–260.**: Controlled experimental study demonstrating that framing identical learning content in intrinsic (personal growth) versus extrinsic (financial gain) goal terms causally affects learning depth and intrinsic motivation. Critical for GCT's application in educational contexts and for establishing causal claims through experimental manipulation of goal framing.
 
 
 
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws primarily on peer-reviewed empirical literature in motivational psychology and educational psychology, with particular focus on the GCT research program of Kasser, Ryan, and their collaborators. The evidence base includes correlational studies (cross-sectional and longitudinal), experimental studies (randomized framing manipulations), and cross-cultural replications. All empirical claims are attributed to specific studies or research programs in the annotated references.
+> 
+> The three original analytical contributions in this report — the framing of extrinsic goals as…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[goal-contents-theory-focused-analysis-2026-03-13]]
+**Analytical focus:** How the qualitative content of personal goals — independent of goal quantity, difficulty, and attainment — predicts psychological well-being outcomes, and what mechanisms link goal content to the satisfaction or frustration of basic psychological needs.

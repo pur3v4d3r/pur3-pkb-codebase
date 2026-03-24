@@ -286,7 +286,7 @@ The ACER Framework synthesizes four major traditions in critical thinking resear
 
 **Philosophical Tradition**: Drawing from Dewey's (1910) "reflective thinking," McPeck's (1981) "reflective skepticism," and Siegel's (1980) emphasis on rationality and principled reasoning. This tradition emphasizes [[Logical Analysis]], [[Argument Evaluation]], and adherence to objective standards.
 
-**Psychological Tradition**: Incorporating [[Cognitive-Psychology]] research on [[Information Processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
+**Psychological Tradition**: Incorporating [[cognitive-psychology]] research on [[Information Processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
 
 **Information Literacy Tradition**: Recognizing overlap with [[Information Literacy]] frameworks (American Library Association, 1989), the ACER model includes skills for recognizing knowledge gaps, evaluating source reliability, and organizing information effectively—essential for [[Knowledge Construction]].
 

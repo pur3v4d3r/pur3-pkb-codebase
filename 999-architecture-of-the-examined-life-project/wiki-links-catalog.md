@@ -145,7 +145,7 @@
   - *First appears in: RELATIONSHIPS*
 - [[Cognitive Mode of Being]]
   - *First appears in: RELATIONSHIPS*
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
   - *First appears in: RELATIONSHIPS*
 - [[Cognitive-Reappraisal]]
   - *First appears in: ═══════════════════════════════════════════════════════════════════════════*
@@ -553,7 +553,7 @@
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Flow]]** (4×)
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
-- **[[Pragmatism]]** (4×)
+- **[[pragmatism]]** (4×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
 - **[[Allostasis]]** (3×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
@@ -641,7 +641,7 @@
   - *First appears in: PKB Expansion Topics*
 - [[Phantasia|phantasia]]
   - *First appears in: The Stoic Theory of Action: Kathekon and Hormê*
-- [[Phenomenology]]
+- [[phenomenology]]
   - *First appears in: RELATIONSHIPS*
 - [[Phronesis|phronesis]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
@@ -1251,7 +1251,7 @@
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Interoceptive Training Protocols]]
   - *First appears in: LEARNING PATHWAYS*
-- [[Iowa Gambling Task]]
+- [[Iowa-Gambling-Task]]
   - *First appears in: 🎯 The Somatic Marker Hypothesis — The Body's Decision Counsel*
 - [[Iris Murdoch's Moral Vision]]
   - *First appears in: Addition 3: Attention as a Moral and Cognitive Practice*
@@ -1525,7 +1525,7 @@
   - *First appears in: The Aristotelian Foundation: Phronesis as Irreducible Intelligence*
 - [[via negativa]]
   - *First appears in: PKB Expansion Topics*
-- [[Warranted-Assertibility]]
+- [[warranted-assertibility]]
   - *First appears in: The Pragmatist Revolution in Epistemology*
 - [[will]]
   - *First appears in: PKB Expansion Topics*
@@ -1685,7 +1685,7 @@
 - [[Cognitive-Miserliness]] — 2×
 - [[Cognitive Mode of Being]]
 - [[cognitive-neuroscience]] — 3×
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Cognitive-Psychology-Foundations]] — 2×
 - [[Cognitive-Reappraisal]]
 - [[Cognitive Reflection Test and Rational Thinking]]
@@ -1919,7 +1919,7 @@
 - [[Interoceptive Training Protocols]]
 - [[Intrinsic-Motivation]] — 2×
 - [[Introduction to Epistemology]] — 2×
-- [[Iowa Gambling Task]]
+- [[Iowa-Gambling-Task]]
 - [[Ipseity]]
 - [[Iris Murdoch's Moral Vision]]
 - [[Irving Janis]]
@@ -2068,7 +2068,7 @@
 - [[Peter Sterling]]
 - [[Phantasia|phantasia]]
 - [[Phenomenal-Self-Model]]
-- [[Phenomenology]]
+- [[phenomenology]]
 - [[Philosophy of Action]]
 - [[Philosophy of Cognitive Science]]
 - [[Philosophy of Education]] — 3×
@@ -2091,7 +2091,7 @@
 - [[Practical Architecture - Reports 09-11]]
 - [[Practical Philosophy]]
 - [[Pragmatic-Maxim]] — 7×
-- [[Pragmatism]] — 4×
+- [[pragmatism]] — 4×
 - [[Precision-Weighting]] — 3×
 - [[Precision Weighting in Predictive Processing]]
 - [[Predictive-Processing]] — 13×
@@ -2374,7 +2374,7 @@
 
 ### W
 
-- [[Warranted-Assertibility]]
+- [[warranted-assertibility]]
 - [[wiki-links]] — 3×
 - [[will]]
 
@@ -2657,7 +2657,7 @@
 
 | [[cognitive-neuroscience]] | 3 | RELATIONSHIPS |
 
-| [[Cognitive-Psychology]] | 1 | RELATIONSHIPS |
+| [[cognitive-psychology]] | 1 | RELATIONSHIPS |
 
 | [[Cognitive-Psychology-Foundations]] | 2 | ═══════════════════════════════════════════════... |
 
@@ -3089,7 +3089,7 @@
 
 | [[Introduction to Epistemology]] | 2 | ═══════════════════════════════════════════════... |
 
-| [[Iowa Gambling Task]] | 1 | 🎯 The Somatic Marker Hypothesis — The Body's De... |
+| [[Iowa-Gambling-Task]] | 1 | 🎯 The Somatic Marker Hypothesis — The Body's De... |
 
 | [[Ipseity]] | 1 | Key Terms Lexicon |
 
@@ -3345,7 +3345,7 @@
 
 | [[Phenomenal-Self-Model]] | 1 | Metzinger's Self-Model: Seeing Yourself as a Pr... |
 
-| [[Phenomenology]] | 1 | RELATIONSHIPS |
+| [[phenomenology]] | 1 | RELATIONSHIPS |
 
 | [[Philosophy of Action]] | 1 | RELATIONSHIPS |
 
@@ -3391,7 +3391,7 @@
 
 | [[Pragmatic-Maxim]] | 7 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
-| [[Pragmatism]] | 4 | ═══════════════════════════════════════════════... |
+| [[pragmatism]] | 4 | ═══════════════════════════════════════════════... |
 
 | [[Precision-Weighting]] | 3 | Gap 5: Predictive Processing and Active Inference |
 
@@ -3819,7 +3819,7 @@
 
 | [[via negativa]] | 1 | PKB Expansion Topics |
 
-| [[Warranted-Assertibility]] | 1 | The Pragmatist Revolution in Epistemology |
+| [[warranted-assertibility]] | 1 | The Pragmatist Revolution in Epistemology |
 
 | [[wiki-links]] | 3 | Distinguished Research Scholar — Socratic Synth... |
 

@@ -1,0 +1,218 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Co-Constructed Criteria"
+aliases:
+  - "Co-Constructed Criteria"
+type: permanent-note
+status: evergreen
+confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - evergreen
+  - other
+  - foundational-report
+  - academic-synthesis
+  - learning-sciences/feedback-design
+  - learning-sciences/formative-assessment
+
+domain: other
+subdomains:
+  - 
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-19
+updated: 2026-03-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: report-extraction
+source-reports:
+  - "feedback-design-autonomy-mastery-foundational-report-2026-03-10"
+  - "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
+complexity-level: intermediate
+depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+prerequisites:
+  - "[[]]"
+
+related:
+  - "[[]]"
+
+broader:
+  - "[[]]"
+
+narrower:
+  - "[[]]"
+
+see-also:
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
+builds-on:
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
+  - "[[Schema-Theory|Schema Theory]]"
+
+enables:
+  - "[[]]"
+
+expansion-topics:
+  - topic: "[[]]"
+    description: ""
+    priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: high
+---
+
+# Co-Constructed Criteria
+
+> [!definition] **Co-Constructed Criteria**
+> Evaluative standards that are developed collaboratively by learners and educators, rather than unilaterally imposed. Co-construction serves two functions: it produces criteria that are better calibrated to learners' current understanding and language, and — critically — it shifts evaluative authority partially toward the learner, supporting the internalisation of standards necessary for self-assessment. Associated with greater learner engagement with feedback and more sophisticated self-monitoring.
+
+## Core Explanation
+
+> [!evidence] Supporting Evidence
+> Across six studies, fifth-grade children who received person praise ("You must be smart") after an initial success subsequently showed decreased performance on harder problems, rated the tasks as less enjoyable, and were less likely to want to take the hard version in a future session, relative to children who received process praise ("You must have worked hard"). This finding has been replicated in multiple cultural contexts and provides one of the most methodologically clean demonstrations of…
+
+> [!analytical-insight] Key Insight
+> Feedback is only formative insofar as the learner has time, capacity, and opportunity to act on it. The same information delivered a week after a task closes compared with a day before a revision opportunity is structurally different in its learning function, regardless of its content.
+
+> [!analytical-insight] Key Insight
+> **Level 1 — Task Level (FT)**: Feedback about how well a specific task has been performed — correctness, comprehensiveness, accuracy. ("This answer is incorrect; the correct formula is...") Most common in practice; highly effective when the task itself is the learning goal but ineffective when learners generalise it to their personal worth.
+> 
+> **Level 2 — Process Level (FP)**: Feedback about the processes or strategies used to complete the task — the *how* of performance. ("You've used the…
+
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+
+
+## Practical Implications
+
+> [!example] **Application**
+> A practical heuristic for attribution-conscious feedback: **A**ttribute → **B**ehaviour → **C**onsequence → **D**irection.
+> *Attribute* the outcome to a specific, nameable behaviour or strategy. *Describe* the behaviour precisely. *Connect* the behaviour to the consequence (the learning outcome). *Direct* toward the next action. Example: "The way you *structured your argument* with a clear claim-evidence-reasoning pattern (A-B) made it much easier to evaluate your reasoning's soundness (C). Next…
+
+> [!example] **Application**
+> Portfolio assessment, when designed to require learner-generated self-assessment commentary alongside collected work, operationalises multiple principles simultaneously: it makes progress over time visible (addressing mastery orientation), it positions the learner as the primary evaluator of their own development (supporting autonomy), and it provides a natural occasion for process-level commentary (promoting Level 2 feedback internalization). The key design feature is that the self-assessment…
+
+> [!warning] **Key Distinction**
+> **Misconception 1**: "Positive feedback is always motivating." False. Person-directed positive feedback is systematically demotivating in the long run, even while producing short-term positive affect. The motivational value of positive feedback depends entirely on what it is attributed to and what level it targets.
+> 
+> **Misconception 2**: "More feedback is better." False. Feedback density above a threshold reduces learner agency and self-monitoring development. Strategic selectivity in feedback…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> Before reading further, recall a piece of feedback you received that genuinely changed how you approached a task or domain — and one that did not. What distinguished them? Was the difference in the content of the feedback, or in something about how it was framed, when it arrived, or how it positioned you in relation to the work? Hold these examples in mind as anchor points throughout the report.
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> 1. How does the SDT definition of autonomy — as self-endorsed action rather than independence — challenge common assumptions about what "student choice" accomplishes in instructional design? Can you imagine contexts where giving students more choice might actually undermine autonomy in the technical sense?
+> 2. The distinction between formative and summative assessment rests on function rather than format. Can you identify three assessment formats that could serve either function depending on context? What determines the switch?
+> 3. Which of the foundational distinctions — summative/formative, feedback/feed-forward, person/work — seems most consequential for your own practice or the learning contexts you care about? Why?
+
+
+## Connections & Context
+
+**Cross-report connections:**
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+- [[Schema-Theory|Schema Theory]]
+
+**Related concepts:**
+[[Feedback-Design|Feedback Design]] · [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Growth-Mindset|Growth Mindset]] · [[Formative-Assessment|Formative Assessment]] · [[Black-&-Wiliam|Black & Wiliam]] · [[Attribution-Theory|Attribution Theory]] · [[Summative-Assessment|Summative Assessment]] · [[Formative-Feedback|Formative Feedback]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[Performance-Goals|Performance Goals]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Carole-Ames|Carole Ames]]
+
+**Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+
+
+
+
+

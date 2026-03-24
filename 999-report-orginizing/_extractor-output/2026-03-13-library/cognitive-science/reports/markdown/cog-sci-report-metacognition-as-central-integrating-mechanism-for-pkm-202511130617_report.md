@@ -466,7 +466,7 @@ extraction_summary:
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metamemory]]
 - [[Michelene Chi]]
-- [[Motivated Strategies for Learning Questionnaire]]
+- [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]]
 - [[Myside-Bias|Myside Bias]]
 - [[Nelson Cowan]]
 - [[Paul-Pintrich|Paul Pintrich]]
@@ -581,7 +581,7 @@ extraction_summary:
 | 69 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Zimmerman's Cyclical Phase Model | 256 |
 | 70 | [[Adaptive Expertise]] | — | — | The Cyclical Nature of Self-Regulation | 273 |
 | 71 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Pintrich's Integration of Motivation ... | 280 |
-| 72 | [[Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Integration of Motivation ... | 282 |
+| 72 | [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Integration of Motivation ... | 282 |
 | 73 | [[Philip Winne]] | — | — | Winne and Hadwin's Information Proces... | 288 |
 | 74 | [[Allyson Hadwin]] | — | — | Winne and Hadwin's Information Proces... | 288 |
 | 75 | [[Implementation-Intentions|Implementation Intentions]] | — | — | From Self-Regulated Learning to Self-... | 299 |
@@ -771,7 +771,7 @@ This requires the full academic report scaffold:
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metamemory]]
 - [[Michelene Chi]]
-- [[Motivated Strategies for Learning Questionnaire]]
+- [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]]
 - [[Myside-Bias|Myside Bias]]
 - [[Nelson Cowan]]
 - [[Paul-Pintrich|Paul Pintrich]]

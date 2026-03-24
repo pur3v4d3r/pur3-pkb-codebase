@@ -46,7 +46,7 @@ The user is requesting topic generation within the domain of **Socratic Thinking
    - Cognitive science research on questioning techniques
 
 4. **PKB Integration Potential**: ✅ EXCEPTIONAL
-   - Will connect to: [[Critical-Thinking]], [[Epistemology]], [[Dialectical Reasoning]], [[Pedagogy]], [[Philosophy of Education]], [[Informal Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
+   - Will connect to: [[Critical-Thinking]], [[Epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[Philosophy of Education]], [[Informal Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
    - Multiple cross-domain connections: philosophy, education, psychology, law, leadership
 
 5. **Conceptual Complexity**: ✅ HIGH

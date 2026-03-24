@@ -124,7 +124,7 @@ related:
 
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
 
 narrower:
   - "[[Praise and Feedback Research]]"
@@ -297,7 +297,7 @@ The landmark 1998 paper by [[Claudia-Mueller|Claudia Mueller]] and Dweck — inv
 
 ### Intellectual Genealogy
 
-Growth mindset theory draws on several intellectual traditions. From [[Cognitive-Psychology|cognitive psychology]], it inherits the emphasis on mental representations — specifically, how beliefs and schemas shape information processing. The concept of implicit theories connects to a broader tradition of research on naive epistemology and folk psychology. From [[motivation-science|motivation science]], it draws heavily on [[Achievement-Goal-Theory|achievement goal theory]] developed by [[Carole-Ames|Carole Ames]] and [[John-Elliot|John Elliot]], which distinguished mastery from performance orientations well before the mindset terminology became dominant. From [[Attribution-Theory|attribution theory]], associated with [[Bernard-Weiner|Bernard Weiner]], it inherits the insight that how learners interpret the causes of outcomes (stable vs. unstable, controllable vs. uncontrollable) shapes their subsequent motivation.
+Growth mindset theory draws on several intellectual traditions. From [[cognitive-psychology|cognitive psychology]], it inherits the emphasis on mental representations — specifically, how beliefs and schemas shape information processing. The concept of implicit theories connects to a broader tradition of research on naive epistemology and folk psychology. From [[motivation-science|motivation science]], it draws heavily on [[Achievement-Goal-Theory|achievement goal theory]] developed by [[Carole-Ames|Carole Ames]] and [[John-Elliot|John Elliot]], which distinguished mastery from performance orientations well before the mindset terminology became dominant. From [[Attribution-Theory|attribution theory]], associated with [[Bernard-Weiner|Bernard Weiner]], it inherits the insight that how learners interpret the causes of outcomes (stable vs. unstable, controllable vs. uncontrollable) shapes their subsequent motivation.
 
 The neuroscientific grounding of growth mindset theory — its claim that the brain literally changes through learning — connects to a long tradition of [[Neuroplasticity]] research, from [[Donald Hebb]]'s 1949 foundational work on synaptic strengthening to contemporary research by [[Michael Merzenich]] and others on experience-dependent cortical reorganization. This neuroscientific connection gives growth mindset its biological legitimacy: the claim is not merely that people *feel* more capable when they believe in malleability, but that the brain's architecture actually changes in response to learning.
 

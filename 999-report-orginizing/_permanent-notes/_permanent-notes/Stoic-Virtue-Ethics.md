@@ -5,7 +5,6 @@
 title: "Stoic-Virtue-Ethics"
 aliases:
   - "Stoic-Virtue-Ethics"
-  - "Stoic Virtue Ethics"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +37,7 @@ referenced-by-count: 12
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Askesis]]"
+  - "[[Asksis]]"
   - "[[Epistemic-Cowardice]]"
   - "[[Integrated-Cognitive-Personhood]]"
   - "[[Intellectual-Courage]]"
@@ -66,7 +65,7 @@ importance: medium
 
 ## Referenced By
 
-- [[Askesis]]
+- [[Asksis]]
 - [[Epistemic-Cowardice]]
 - [[Integrated-Cognitive-Personhood]]
 - [[Intellectual-Courage]]

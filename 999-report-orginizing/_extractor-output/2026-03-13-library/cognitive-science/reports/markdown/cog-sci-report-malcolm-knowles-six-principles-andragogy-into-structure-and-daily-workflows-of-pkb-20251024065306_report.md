@@ -596,7 +596,7 @@ extraction_summary:
 - [[Old Idea]]
 - [[Open Question Y]]
 - [[PARA]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal Knowledge Bases]]
 - [[Problem-Based Learning]]
@@ -637,7 +637,7 @@ extraction_summary:
 | 6 | [[Personal Knowledge Bases]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 7 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 67 |
 | 8 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1.0 📜 INTRODUCTION | 78 |
-| 9 | [[Pedagogy]] | — | — | THE BIRTH OF ANDRAGOGY AND THE RECOGN... | 92 |
+| 9 | [[pedagogy]] | — | — | THE BIRTH OF ANDRAGOGY AND THE RECOGN... | 92 |
 | 10 | [[Heutagogy]] | — | — | THE BIRTH OF ANDRAGOGY AND THE RECOGN... | 102 |
 | 11 | [[Zettelkasten]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 112 |
 | 12 | [[Zettelkasten]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 118 |
@@ -815,7 +815,7 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[Old Idea]]
 - [[Open Question Y]]
 - [[PARA]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal Knowledge Bases]]
 - [[Problem-Based Learning]]

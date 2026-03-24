@@ -2,8 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Feedback Design"
+title: "Feedback-Design"
 aliases:
+  - "Feedback-Design"
   - "Feedback Design"
 type: permanent-note
 status: seedling
@@ -23,58 +24,66 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 13
+referenced-by-count: 23
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Achievement-Goal-Theory]]"
+  - "[[Attribution-Retraining]]"
+  - "[[Autonomy]]"
+  - "[[Autonomy-Support]]"
   - "[[Basic-Psychological-Needs]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Fourfold-Motivational-Architecture]]"
-  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Mastery-Goals]]"
-  - "[[Optimal-Challenge]]"
-  - "[[Overjustification-Effect]]"
-  - "[[Performance-Goals]]"
+  - "[[Co-Constructed-Criteria]]"
+  - "[[Context-Regulation]]"
+  - "[[Ego-Involving-Feedback]]"
+  - "[[Entity-Theory]]"
+  - "[[Feed-Forward]]"
+  - "[[Formative-Assessment]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
-# Feedback Design
+# Feedback-Design
 
-> [!definition] **Feedback Design**
-> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Feedback-Design**
+> *Stub note — concept referenced by 23 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 13 permanent notes.*
+*Auto-generated stub — referenced by 23 permanent notes.*
 
 ## Referenced By
 
-- [[Achievement-Goal-Theory]]
+- [[Attribution-Retraining]]
+- [[Autonomy]]
+- [[Autonomy-Support]]
 - [[Basic-Psychological-Needs]]
-- [[Cognitive-Evaluation-Theory]]
-- [[Fourfold-Motivational-Architecture]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Co-Constructed-Criteria]]
+- [[Context-Regulation]]
+- [[Ego-Involving-Feedback]]
+- [[Entity-Theory]]
+- [[Feed-Forward]]
+- [[Formative-Assessment]]
+- [[Formative-Feedback]]
+- [[Incremental-Theory]]
 - [[Intrinsic-Motivation]]
-- [[Mastery-Goals]]
-- [[Optimal-Challenge]]
-- [[Overjustification-Effect]]
-- [[Performance-Goals]]
-- [[Self-Determination-Theory]]
-- [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
-- [[The-Motivational-Design-Imperative]]
+- [[Motivational-Regulation]]
+- [[Phase-vs.-Area-A-Critical-Distinction]]
+- [[Phase-vs.-Area-—-A-Critical-Distinction]]
+- [[Pintrich's-44-Matrix]]
+- [[Pintrich's-4×4-Matrix]]
+- [[Process-Praise]]
+- [[Regulatory-Reflexivity-Problem]]
+- *...and 3 more permanent notes*

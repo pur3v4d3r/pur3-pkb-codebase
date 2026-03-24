@@ -1190,7 +1190,7 @@ extraction_summary:
 - [[PKM/Workflow]]
 - [[Phronesis]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
-- [[Productivity]]
+- [[productivity]]
 - [[QuickAdd]]
 - [[REACT Protocol]]
 - [[ReAct Framework]]
@@ -1285,7 +1285,7 @@ extraction_summary:
 | 56 | [[Learning-Theory-MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
 | 57 | [[Review Friction Reduction]] | — | — | 🔗 Related Topics for PKB Expansion | 1526 |
 | 58 | [[PKM/Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1529 |
-| 59 | [[Productivity]] | — | — | 🔗 Related Topics for PKB Expansion | 1529 |
+| 59 | [[productivity]] | — | — | 🔗 Related Topics for PKB Expansion | 1529 |
 | 60 | [[Template Versioning Strategies]] | — | — | 🔗 Related Topics for PKB Expansion | 1531 |
 | 61 | [[PKB/Maintenance]] | — | — | 🔗 Related Topics for PKB Expansion | 1534 |
 | 62 | [[Version-Control]] | — | — | 🔗 Related Topics for PKB Expansion | 1534 |
@@ -2994,7 +2994,7 @@ flowchart TD
 - [[PKM/Workflow]]
 - [[Phronesis]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
-- [[Productivity]]
+- [[productivity]]
 - [[QuickAdd]]
 - [[REACT Protocol]]
 - [[ReAct Framework]]

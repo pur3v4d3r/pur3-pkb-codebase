@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +40,7 @@ see-also:
   - "[[Active-Inference]]"
   - "[[Calibration]]"
   - "[[Cognitive-Psychological-Conceptualization]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Confirmation-Bias]]"
   - "[[Controlled-Hallucination]]"
   - "[[Corroboration]]"
   - "[[Defeasibility]]"
@@ -68,7 +68,7 @@ importance: high
 - [[Active-Inference]]
 - [[Calibration]]
 - [[Cognitive-Psychological-Conceptualization]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Controlled-Hallucination]]
 - [[Corroboration]]
 - [[Defeasibility]]

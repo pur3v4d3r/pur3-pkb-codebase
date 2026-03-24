@@ -23,15 +23,15 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Ego-Involvement]]"
   - "[[Mastery-Approach-Goal]]"
   - "[[Mastery-Avoidance-Goal]]"
+  - "[[Mastery-Goal]]"
   - "[[Motivational-Climate]]"
   - "[[Performance-Approach-Goal]]"
   - "[[Performance-Avoidance-Goal]]"
-  - "[[TARGET-Framework]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: medium
 # Self-Determination-Theory-Deci-&-Ryan,-1985,-2000-is-the-dominant-motivational-f
 
 > [!definition] **Self-Determination-Theory-Deci-&-Ryan,-1985,-2000-is-the-dominant-motivational-f**
-> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
@@ -71,9 +71,11 @@ importance: medium
 - [[Ego-Involvement]]
 - [[Mastery-Approach-Goal]]
 - [[Mastery-Avoidance-Goal]]
+- [[Mastery-Goal]]
 - [[Motivational-Climate]]
 - [[Performance-Approach-Goal]]
 - [[Performance-Avoidance-Goal]]
+- [[Performance-Goal]]
 - [[TARGET-Framework]]
 - [[Task-Involvement]]
 - [[Undifferentiated-Conception-of-Ability]]

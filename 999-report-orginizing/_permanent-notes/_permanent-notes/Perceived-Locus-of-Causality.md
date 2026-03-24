@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -74,14 +74,6 @@ see-also:
   - "[[Autonomy]]"
   - "[[Competence]]"
   - "[[Relatedness]]"
-  - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
-  - "[[Intrinsic-Motivation|Intrinsic motivation]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Edward-Deci|Edward Deci]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Autonomy|autonomy]]"
-  - "[[Competence|competence]]"
-  - "[[Relatedness|relatedness]]"
   - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
   - "[[Intrinsic-Motivation|Intrinsic motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -249,14 +241,37 @@ importance: high
 
 
 
+## Conceptual Tensions
+
+> [!tension] **The Positive Feedback Paradox**
+> CET's predictions about feedback create a genuine tension that the empirical literature has not fully resolved. The theory predicts that positive feedback is motivationally enhancing when perceived as informational, but research on ego-involvement (Nicholls, 1984) and performance goal orientation (Dweck) suggests that some students — particularly those with fragile, contingent self-esteem — process positive feedback as ego-relevant rather than task-relevant, regardless of how it is delivered. The question of whether delivery can consistently override a student's pre-existing ego-involvement…
+
+> [!tension] **The Universality Claim and Cultural Moderation**
+> SDT asserts that the three basic needs are universal — that their satisfaction is beneficial and their thwarting harmful across all human beings regardless of cultural background. This universality claim has generated substantial debate, particularly in cross-cultural psychology. Research in East Asian educational contexts has sometimes found weaker (though rarely reversed) effects of autonomy support on motivation, and evidence from collectivist cultures suggests that relatedness may, in some contexts, function as a more powerful regulatory mechanism than autonomy — meaning that social…
+
+> [!tension] **The Meta-Analysis Interpretation Battle** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
+
+> [!tension] **The Operationalisation Problem: When Functional Significance Becomes Unfalsifiable** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> CET's most significant theoretical vulnerability is related to its greatest strength. The concept of functional significance is powerful precisely because it does not tie motivational effects to the structural properties of events — it allows the same event to have different effects depending on how it is experienced. But this flexibility comes at a cost: functional significance is extraordinarily difficult to operationalise independently of the motivational outcomes it is supposed to predict. In most studies, the researcher manipulates the event (reward type, feedback framing) and then measures intrinsic motivation. The functional significance is inferred from the outcome, not measured directly. This creates the risk of circular explanation: "The reward undermined intrinsic motivation because it was controlling; how do we know it was controlling? Because it undermined intrinsic motivation." The studies that get closest to independent measurement of functional significance (using manipulation checks, thought-listing procedures, or phenomenological reports) provide more compelling evidence — but they remain the minority. This is not a fatal flaw but a persistent limitation that needs to be held in mind when interpreting the evidence base.
+
+> [!tension] **The Cross-Cultural Replication Paradox** *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*
+> SDT replications in Japanese, Chinese, South Korean, and Turkish contexts show that need satisfaction predicts well-being as predicted — but that autonomy satisfaction manifests through choosing to conform to social expectations, through relationally-embedded decision-making, and through what researchers call "autonomous relatedness" rather than through the independence-oriented expression characteristic of North American samples. Chirkov and colleagues interpret this as confirming SDT's universality: people in collectivist cultures experience autonomy, but through culturally appropriate forms. SDT proponents accept this reading. But it creates a genuine interpretive tension: if what counts as autonomy satisfaction is itself culturally variable — if deciding to conform to one's group can be as autonomy-satisfying as deciding to deviate from it — then the empirical content of the universality claim is doing less theoretical work than it appears. The question "do all humans have an autonomy need?" starts to look importantly different from the question "do all humans need autonomy in the same way?"
+
+> [!tension] **The Motivational Climate Measurement Problem** *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*
+> The most common way to assess whether an environment is autonomy-supportive is self-report: asking participants whether their teacher/manager/therapist acknowledged their perspective, provided rationale, minimized pressure, and so forth. These measures are informative but systematically conflate the teacher's actual behavior with the student's interpretive frame. A student with high [[Control-Orientation|control orientation]] may experience explicit structure as pressure and interpret it as controlling even when the teacher's intention and behavior are autonomy-supportive by independent observer ratings. This measurement entanglement means that evidence for autonomy-supportive effects may be partly capturing individual differences in how participants interpret environments rather than pure environmental effects.
+
+
+
+
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> [!reflection] **Reflect**
 > Before reading further, take a moment to articulate your current intuition: Which of the three basic needs — autonomy, competence, or relatedness — do you believe is the *most* important driver of learning outcomes? Why? Is one need primary, or are they genuinely co-equal? Commit to a position. The evidence on this question is more complex and surprising than most practitioners expect, and your starting position will sharpen what you notice as you read.
 
-> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
-> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected regulation), even though the first two cases both involve external content? If you find yourself uncertain, re-read the regulatory spectrum definition — the entire Phase IV analysis depends on this distinction.
+> [!reflection] **Reflect**
+> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected…
 
 > [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
 > Before reading further, bring to mind a learning or work context in which you felt genuinely motivated — not because of external rewards or obligations, but because the activity itself was engaging or meaningful to you. Now bring to mind a contrasting context where motivation felt effortful, fragmented, or performed for external reasons. What was different about those two environments? What did the first context provide that the second did not? Hold these contrasts in mind as you read; SDT offers a precise vocabulary for articulating exactly what you are remembering.
@@ -277,7 +292,6 @@ importance: high
 
 > [!reflection] **Reflect** *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*
 > The dialectical argument ahead depends on the distinction between *universality of frustration effects* and *universality of satisfaction form*. Before continuing, try to articulate in your own words: why would it matter if the former holds but the latter doesn't? Specifically: if frustrating autonomy produces ill-being universally, but what satisfies autonomy differs across cultures — what would that imply for SDT's theoretical status and for its practical application in cross-cultural contexts?
-
 
 
 
@@ -339,46 +353,6 @@ importance: high
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 
-**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-dialectical-re-examination-2026-03-19.md, self-determination-theory-foundational-report-2026-03-11.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Conditional-Regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-
-**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
-- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Gamification-in-Learning|Gamification in Learning]]
-
-**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Motivational-Climate-Design|Motivational Climate Design]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[speech-act-theory|speech act theory]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
-
-**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
-- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Gamification-in-Learning|Gamification in Learning]]
-
-**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Motivational-Climate-Design|Motivational Climate Design]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 
 
 
@@ -386,6 +360,73 @@ importance: high
 
 
 
+## References
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105–115.**: The foundational experimental study establishing the undermining effect with monetary rewards and Soma puzzle performance. While methodologically modest by contemporary standards, this study launched a 50-year research programme. Its value for this report is as the original empirical instantiation of the claim that extrinsic rewards can reduce subsequent free-choice engagement with intrinsically interesting activities.
+
+- **Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis. *Journal of Personality and Social Psychology*, 28(1), 129–137.**: The paradigmatic overjustification study with preschool children and drawing materials. Methodologically important because it used a naturalistic observation measure (classroom free play) rather than laboratory free choice, providing greater ecological validity. The unexpected-reward control condition is particularly important for CET's theoretical interpretation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.**: The theoretical monograph that articulates Cognitive Evaluation Theory as a formal sub-theory and situates it within SDT. The most important primary source for understanding CET's conceptual architecture, including the functional significance concept, the two-pathway model, and the taxonomy of ambient conditions. Essential reading for anyone working seriously with CET.
+
+- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research*, 64(3), 363–423.**: The controversial meta-analysis arguing that rewards do not reliably undermine intrinsic motivation. Important as a cautionary methodological counterweight to uncritical acceptance of CET's claims. This report treats Cameron and Pierce's work not as refuting CET but as demonstrating the sensitivity of meta-analytic conclusions to coding and modelling decisions — and as providing useful disaggregation of reward types.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The comprehensive meta-analysis of 128 studies that provides the strongest evidence base for CET. The disaggregated findings by reward contingency type (engagement-contingent, completion-contingent, performance-contingent, verbal) are particularly important for instructional design applications. The exchange with Cameron and Pierce in the same issue of Psychological Bulletin is essential reading for understanding the limits of meta-analytic evidence.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical statement of SDT, introducing the basic needs framework, the internalization continuum, and cognitive evaluation theory. Essential reading for the received view this report examines. Particularly valuable for Phases I and II; the teleological elements of OIT are most visible in this original formulation.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The large-scale meta-analysis of 128 studies supporting the undermining effect. Central to Phase III's empirical challenge. Should be read alongside Cameron & Pierce's competing analyses for a complete view of the meta-analytic debate.
+
+- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423.**: The main competing meta-analysis challenging Deci et al.'s undermining effect claims. Cameron and Pierce found that verbal rewards enhance and tangible rewards do not reliably undermine intrinsic motivation. The methodological dispute between this work and Deci et al. (1999) constitutes one of motivational psychology's most productive empirical controversies and is central to Phase III's empirical challenge.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford.**: The comprehensive theoretical synthesis of SDT after four decades of development, covering all six mini-theories. The most authoritative current statement of the theory. Includes substantial treatment of cross-cultural research, need frustration, and relationship motivation theory not present in the 1985 formulation.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study demonstrating that autonomous functioning predicts well-being in both individualist and collectivist cultures, but that autonomy is expressed through relationally embedded decision-making in collectivist contexts. Central to Phase III's cross-cultural challenge and Phase V's reconceptualization of autonomy as volitional congruence.
 
 
 
@@ -393,3 +434,66 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This analysis draws on approximately five decades of SDT research, with heaviest reliance on meta-analytic syntheses, experimental studies, and theory-development papers from Deci, Ryan, Vansteenkiste, Reeve, Assor, and colleagues. The empirical claims in Phases III and IV are grounded in this literature and represent well-established findings within the SDT tradition.
+> 
+> The following distinctions apply across the analysis: (1) **Empirically established claims** include the reward-undermining-intrinsic-motivation effect, the learning advantages of autonomous over controlled regulation, and the…
+
+---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> This report draws on the primary theoretical literature of SDT from 1971 to the present — principally Deci and Ryan's original texts, the major review papers, and the meta-analytic syntheses. It represents an academic synthesis rather than a contribution of original empirical data. The claims made about basic psychological needs, the internalisation continuum, and the effects of need satisfaction and thwarting reflect the weight of the empirical literature as established in multiple meta-analyses and cross-cultural studies; they are not the author's independent derivations.
+> 
+> The theoretical architecture presented — the six mini-theories and their relationships — reflects SDT as presented by Deci, Ryan, and their collaborators. Where the report characterises debates (the cultural universality question, the integrated/intrinsic distinction), it attempts to represent the current state of the scholarly discussion fairly, though the framing inevitably reflects the perspective of the SDT tradition itself. Readers seeking more critical perspectives should consult Heine (2008) on the cultural psychology critique and Danner et al. (2016) on measurement issues in BPNT research.
+> 
+> The empirical evidence base for SDT is substantially stronger in some mini-theories (CET, BPNT) than others (RMT, COT), and substantially stronger for North American and Western European populations than for Global South populations. Practitioners should calibrate their confidence in applying SDT principles in accordance with this uneven evidentiary landscape.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> This report draws on the experimental and meta-analytic literature on Cognitive Evaluation Theory, the primary theoretical sources (Deci & Ryan, 1971–2000), and the meta-analytic debates (Cameron & Pierce, 1994; Deci, Koestner & Ryan, 1999). The claims in Phases III and IV are grounded in well-replicated empirical findings, though the specific effect sizes cited are drawn from meta-analytic estimates and should be treated as approximations. The functional significance mechanism is theoretically well-established within SDT, though the operationalisation problem identified in Phase IV represents a genuine empirical limitation.
+> 
+> The analytical contributions in Phases IV and VI — specifically the claim about the asymmetry between undermining and enhancement, the cross-domain connection to speech act theory, and the Interpretive Filter Model — are original syntheses by Claude that go beyond what individual sources establish. They are grounded in the evidence and logic presented throughout the report, but they should be treated as theoretical proposals rather than established findings. The Interpretive Filter Model in particular is a novel integration that has not been formally tested; it is offered as a framework that makes the functional significance concept more tractable, not as an empirically confirmed account.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*
+> This dialectical re-examination draws on four intellectual traditions. First, SDT's own empirical and theoretical literature (Deci, Ryan, and associated researchers), which provides both the received view and the technical resources for its qualified defense. Second, SDT's critics in the meta-analytic wars of the 1990s–2000s (Cameron, Pierce, Eisenberger), who provide the empirical basis for the moderator-conditionality reconstruction. Third, cross-cultural motivation researchers (Chirkov, Kaplan) who provide the empirical foundation for the universality qualification. Fourth, philosophical traditions — particularly Buddhist psychology, phenomenology, and post-structural theory — that provide the conceptual basis for challenging the bounded-self assumption; these traditions are not empirical in the experimental psychology sense, and readers who do not accept them as epistemically comparable to experimental evidence may reasonably assign the philosophical challenge less weight than the empirical challenge without abandoning the reconstruction's conclusions.
+> 
+> Empirically established claims in this report: the relative superiority of autonomous motivation for complex tasks; the moderator-conditionality of the undermining effect; the cross-cultural robustness of frustration-ill-being links; the need frustration-absence asymmetry; the conditional reversibility of internalization quality.
+> 
+> Theoretically integrated claims (supported but not established at the level of meta-analytic consensus): the reconceptualization of autonomy as volitional congruence; the vulnerability-structure reframing of basic needs; the teleological directionality critique of OIT.
+> 
+> Claude's analytical contributions: the Universality-of-Frustration vs. Variation-of-Satisfaction distinction as an explicitly stated principle; the Moderator-Conditionality Dissemination Gap as a structural pattern; the application of these principles to UX design, organizational change, and therapeutic practice; the Needs-as-Vulnerability-Structures synthesis.
+> 
+> The dialectical methodology — thesis, multi-perspectival challenge, reconstruction — is a philosophical method with specific epistemic commitments: it privileges frameworks that preserve robust findings while shedding overstatements, and it judges reconstruction quality by whether the resulting framework can handle the evidence that challenged the original without needing to dismiss that evidence.
+
+
+
+
+## Source Attribution
+
+**Extracted from:** [[sdt-focused-analysis-2026-03-06]]
+**Analytical focus:** How the three basic psychological needs in SDT function as learning drivers — examining the mechanistic role of need satisfaction and thwarting, the internalization spectrum from controlled to autonomous regulation, and the autonomy-supportive versus controlling distinction as the central environmental lever.

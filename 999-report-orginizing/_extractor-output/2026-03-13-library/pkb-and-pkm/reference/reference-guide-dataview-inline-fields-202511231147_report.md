@@ -589,7 +589,7 @@ extraction_summary:
 - [[Engineering Team]]
 - [[IPCC 2023 Report]]
 - [[Initiative Gamma]]
-- [[James Clear]]
+- [[James-Clear|James Clear]]
 - [[John Smith]]
 - [[Markdown]]
 - [[Metadata Architecture for Personal Knowledge Bases]]
@@ -636,7 +636,7 @@ extraction_summary:
 | 19 | [[Dev Team]] | — | — | Sprint Backlog | 241 |
 | 20 | [[Design Team]] | — | — | Sprint Backlog | 242 |
 | 21 | [[Tech Writer]] | — | — | Sprint Backlog | 243 |
-| 22 | [[James Clear]] | — | — | Atomic Habits | 277 |
+| 22 | [[James-Clear|James Clear]] | — | — | Atomic Habits | 277 |
 | 23 | [[IPCC 2023 Report]] | — | — | Climate Change Mitigation Strategies | 310 |
 | 24 | [[Nature 2024]] | — | — | Carbon Capture Technologies | 318 |
 | 25 | [[Acme Corp]] | — | — | Project: Website Redesign - Acme Corp | 338 |
@@ -743,7 +743,7 @@ extraction_summary:
 | 69 | **Due Date** | 2025-12-01 | bare | 79 |
 | 70 | **Project Lead** | [[John Smith]] | bare | 80 |
 | 71 | **Budget** | $50,000 | bare | 81 |
-| 72 | **author** | [[James Clear]] | bare | 277 |
+| 72 | **author** | [[James-Clear|James Clear]] | bare | 277 |
 | 73 | **published** | 2018 | bare | 278 |
 | 74 | **pages** | 320 | bare | 279 |
 | 75 | **rating** | 9/10 | bare | 280 |
@@ -943,7 +943,7 @@ type: #book
 
 # Atomic Habits
 
-author:: [[James Clear]]
+author:: [[James-Clear|James Clear]]
 published:: 2018
 pages:: 320
 rating:: 9/10
@@ -1317,7 +1317,7 @@ dv.list(Array.from(fields).sort());
 - [[Engineering Team]]
 - [[IPCC 2023 Report]]
 - [[Initiative Gamma]]
-- [[James Clear]]
+- [[James-Clear|James Clear]]
 - [[John Smith]]
 - [[Markdown]]
 - [[Metadata Architecture for Personal Knowledge Bases]]

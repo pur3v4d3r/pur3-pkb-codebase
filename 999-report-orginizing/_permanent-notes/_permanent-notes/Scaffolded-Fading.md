@@ -1,10 +1,17 @@
 ---
-title: Scaffolded Fading
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Scaffolded Fading"
 aliases:
-  - Scaffolded Fading
+  - "Scaffolded Fading"
 type: permanent-note
 status: evergreen
 confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -14,31 +21,52 @@ tags:
   - constructivism
   - self-determination-theory
   - metacognition
+
 domain: other
 subdomains:
   - 
-created: 2026-03-19
-updated: 2026-03-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-24
+updated: 2026-03-24
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - report-07-the-self-directed-learner
+  - "report-07-the-self-directed-learner"
   - "report-07-the-self-directed-learner.md"
   - "metacognitive-scaffolding-focused-analysis-2026-03-20.md"
 evidence-quality: high
-extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
 complexity-level: intermediate
 depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
+
 related:
   - "[[]]"
+
 broader:
   - "[[]]"
+
 narrower:
   - "[[]]"
+
 see-also:
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Winne-and-Hadwin|Winne and Hadwin]]"
@@ -53,22 +81,24 @@ see-also:
   - "[[Constructivism|Constructivism]]"
   - "[[Jean-Piaget|Jean Piaget]]"
   - "[[Jerome-Bruner|Jerome Bruner]]"
-  - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Barry-Zimmerman|Barry Zimmerman]]"
-  - "[[Paul-Pintrich|Paul Pintrich]]"
-  - "[[Winne-and-Hadwin|Winne and Hadwin]]"
-  - "[[Constructivism|Constructivism]]"
-  - "[[Jean-Piaget|Jean Piaget]]"
-  - "[[Jerome-Bruner|Jerome Bruner]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[]]"
+
 enables:
   - "[[]]"
+
 expansion-topics:
   - topic: "[[]]"
     description: ""
     priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -120,11 +150,10 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from report-07-the-self-directed-learner.md)*
-> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of how *you* learn best that is based on evidence from your own learning history — or is it based on what you have been told, what seems intuitively appealing, or what protects your sense of yourself as a capable learner?
+> [!reflection] **Reflect**
+> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of…
 
 > [!reflection] **Reflect** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
 > Before reading this analysis, take a moment to articulate your current understanding of metacognitive scaffolding. When you try to support another person's awareness of their own thinking — whether as a teacher, a mentor, or a peer — what do you actually do? What do you believe makes that support effective? Where does it seem to fail? Writing this down — not merely thinking it — activates the knowledge structures that anchor everything that follows. The comparison between your starting position and your understanding after the analysis is where the deepest learning lies.
@@ -134,15 +163,53 @@ importance: high
 
 
 
+
+## Conceptual Tensions
+
+> [!tension] **The Calibration-Achievement Dissociation** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> A well-documented tension exists between interventions that improve metacognitive calibration (the accuracy of judgments of learning) and interventions that improve learning achievement. These are often treated as equivalent outcomes, but the evidence does not support that conflation. Hacker and colleagues (2000) found that students could be trained to make more accurate predictions about their performance — genuine calibration gains — without those gains translating into changes in study behavior or achievement. This dissociation suggests that accurate monitoring alone is insufficient; what is required is a trained and reliable coupling between monitoring output and control response. The scaffolding literature has invested heavily in the monitoring side of this coupling while largely neglecting the control side.
+
+> [!tension] **The Load Paradox: Most Needed When Most Harmful** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> The conditions under which metacognitive scaffolding is most needed — high complexity, genuine unfamiliarity, edge-of-competence challenge — are precisely the conditions under which the cognitive overhead of metacognitive processing is most likely to be harmful. A learner struggling with the primary task will experience metacognitive questioning as disruptive rather than supportive if it exceeds their available working memory resources. The resolution of this paradox is not to eliminate metacognitive scaffolding under load, but to design it so that its cognitive overhead is minimised — using brief, highly structured prompts that require simple binary responses rather than open-ended reflective questions, and timing it at natural task boundaries rather than during peak processing demand.
+
+
+
+## References
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing the metacognitive knowledge/metacognitive experience distinction that structures this report's Phase II framework. Establishes the two-component model that subsequent researchers, including Nelson and Narens, extend into process-level accounts. Supports Phases II and IV.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation, 26*, 125–173.**: Introduces the monitoring-control hierarchical model that is the primary analytical tool of this report. The monitoring-control separation — with its implication that accurate monitoring does not automatically produce appropriate control — is the foundational insight on which this report's analysis of the monitoring-control dissociation in Phase III is built. Supports Phases II, IV, and V.
+
+- **Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100.**: Operational specification of the scaffolding construct with six tutoring functions. Introduces the contingency principle and the six functions of scaffolding that remain foundational to instructional design. Supports Phase II.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational paper introducing the desirable difficulties framework. The argument that conditions improving long-term retention often slow initial acquisition is central to this report's Phase IV argument that effective metacognitive scaffolding works by making shallow processing harder rather than making learning easier. Supports Phases IV and V.
+
+- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187–194.**: Documents the fluency illusion and its systematic decoupling of felt understanding from actual learning. Central to this report's Phase IV mechanistic account of why unscaffolded monitoring is unreliable. Supports Phases III and IV.
+
+
+
+
+
 ## Connections & Context
 
 **Related concepts:**
-[[Lev-Vygotsky|Lev Vygotsky]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Winne-and-Hadwin|Winne and Hadwin]] · [[Constructivism]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Jerome-Bruner|Jerome Bruner]] · [[SDT-Internalization-Continuum|SDT Internalization Continuum]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Metacognitive-Strategy|Metacognitive Strategy]] · [[Gregory-Schraw|Gregory Schraw]] · [[Lovett-et-al.|Lovett et al.]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
-
-**Related concepts** *(from report-07-the-self-directed-learner.md)*:
-[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
+[[Lev-Vygotsky|Lev Vygotsky]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Winne-and-Hadwin|Winne and Hadwin]] · [[Constructivism]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Jerome-Bruner|Jerome Bruner]] · [[SDT-Internalization-Continuum|SDT Internalization Continuum]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Metacognitive-Strategy|Metacognitive Strategy]] · [[Gregory-Schraw|Gregory Schraw]] · [[Lovett-et-al.|Lovett et al.]] · [[Self-Regulated-Learning|Self-Regulated Learning]]
 
 **Related concepts** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md, report-07-the-self-directed-learner.md)*:
 [[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
 
 
+## Methodology Notes
+
+> [!methodology-and-sources] **🔬 Empirical Grounding**
+> Metacognitive strategy use demonstrates robust positive correlations with learning performance across populations and contexts. Kim (2024) found significant positive relationships between metacognitive knowledge and both subjective learning performance (r = 0.34) and objective learning performance (r = 0.41) in a study of 135 nursing students. Lovett et al.'s (2023) synthesis of decades of learning science research identifies metacognitive capacity — specifically the ability to assess task demands, evaluate one's own knowledge, plan approaches, monitor progress, and adjust strategies — as…
+
+---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*
+> This report integrates evidence from empirical studies in educational psychology, cognitive psychology, and instructional design. Empirically established claims (the fluency illusion, the effectiveness advantage of adaptive over fixed scaffolding, the expertise reversal effect) draw on published experimental research identified in the references above. Theoretical integrations (the monitoring-control analysis applied to scaffolding design, the three-mechanism account of effective scaffolding) represent the report's synthesis of multiple research traditions. Claude's original analytical contributions (the "comfort trap" framing, the cognitive prosthetic synthesis, the design triangle, the externalised prefrontal function synthesis) are explicitly identified with the `[!original-synthesis]` and `[!analytical-insight]` callouts throughout. The FAR Transfer phase draws on the [[Structure-Mapping-Theory|structural mapping theory]] tradition (Gentner, 1983) and the [[Transfer-of-Learning]] literature. No fabricated references are included.
+
+
+## Source Attribution
+
+**Extracted from:** [[report-07-the-self-directed-learner]]

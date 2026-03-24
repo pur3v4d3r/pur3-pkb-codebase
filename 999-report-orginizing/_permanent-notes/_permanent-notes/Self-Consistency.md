@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,14 +72,6 @@ see-also:
   - "[[Cognitive-Diversity|Cognitive Diversity]]"
   - "[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]"
   - "[[Temperature-Sampling|Temperature Sampling]]"
-  - "[[**Self-Consistency-&-Complexity-Based-Consistency**|**Self-Consistency & Complexity-Based Consistency**]]"
-  - "[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]"
-  - "[[Ensemble-Methods|Ensemble Methods]]"
-  - "[[Reasoning-Verification|Reasoning Verification]]"
-  - "[[Majority-Voting|Majority Voting]]"
-  - "[[Cognitive-Diversity|Cognitive Diversity]]"
-  - "[[Temperature-Sampling|Temperature Sampling]]"
-  - "[[Ensemble-Learning|Ensemble Learning]]"
   - "[[**Self-Consistency-&-Complexity-Based-Consistency**|**Self-Consistency & Complexity-Based Consistency**]]"
   - "[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]"
   - "[[Ensemble-Methods|Ensemble Methods]]"
@@ -185,16 +177,63 @@ importance: medium
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Self-Refine|Self-Refine]]
 
-**Related concepts** *(from prompt-report-self-consistency-complexity-based-consistency-202512250916.md)*:
-[[**Self-Consistency-&-Complexity-Based-Consistency**|**Self-Consistency & Complexity-Based Consistency**]] * [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] * [[Ensemble-Methods|Ensemble Methods]] * [[Reasoning-Verification|Reasoning Verification]] * [[Cognitive-Diversity|Cognitive Diversity]] * [[Temperature-Sampling|Temperature Sampling]] * [[Ensemble-Learning|Ensemble Learning]] * [[Bayesian-Reasoning|Bayesian Reasoning]] * [[Complex-Reasoning-Tasks|Complex Reasoning Tasks]] * [[Math-Word-Problems|Math Word Problems]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Multi-Step-Inference|Multi-Step Inference]] * [[Prompt-Reliability-Engineering|Prompt Reliability Engineering]] * [[LLM-Calibration|LLM Calibration]] * [[Error-Detection|Error Detection]]
-
-**Cross-report connections** *(from prompt-report-self-consistency-complexity-based-consistency-202512250916.md)*:
-- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
-- [[Self-Consistency|Self-Consistency]]
-- [[Chain-of-Thought|Chain-of-Thought]]
-- [[Few-Shot-Learning|Few-Shot Learning]]
-- [[Self-Refine|Self-Refine]]
 
 
+## References
 
+- **📚 References & Resources**: **Primary Sources:**
 
+Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., Chowdhery, A., & Zhou, D. (2022). *Self-Consistency Improves Chain of Thought Reasoning in Language Models*. arXiv:2203.11171. [https://arxiv.org/abs/2203.11171](https://arxiv.org/abs/2203.11171)
+
+Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E., Le, Q., & Zhou, D. (2022). *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*. arXiv:2201.11903. [https://arxiv.org/abs/2201.11903](https://arxiv.org/abs/2201.11903)
+
+**Foundational Theoretical Works:**
+
+Galton, F. (1907). *Vox Populi*. Nature, 75, 450-451. [Classic formulation of wisdom of crowds principle]
+
+Surowiecki, J. (2004). *The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations*. Doubleday.
+
+**Extensions and Empirical Validation:**
+
+Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2023). *Large Language Models are Zero-Shot Reasoners*. arXiv:2205.11916.
+
+Brown, T., et al. (2023). *Complexity-Based Prompting for Multi-Step Reasoning*. ICLR 2023.
+
+**Application Studies:**
+
+Lewkowycz, A., et al. (2022). *Solving Quantitative Reasoning Problems with Language Models*. arXiv:2206.14858. [MATH dataset evaluation]
+
+Cobbe, K., et al. (2021). *Training Verifiers to Solve Math Word Problems*. arXiv:2110.14168. [GSM8K dataset introduction]
+
+**Further Reading:**
+
+Zhou, D., et al. (2023). *Least-to-Most Prompting Enables Complex Reasoning in Large Language Models*. arXiv:2205.10625.
+
+Yao, S., et al. (2023). *Tree of Thoughts: Deliberate Problem Solving with Large Language Models*. arXiv:2305.10601.
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Self-Consistency Algorithm (Standard Form)**
+> **Phase 1: Diverse Chain Generation**
+> 
+> Given input query $q$ and [[Chain-of-Thought]] prompt $p$:
+> 
+> 1. Configure high-temperature sampling ($T = 0.7$ to $1.0$)
+> 2. Generate $N$ independent reasoning chains: $\{(r_1, a_1), (r_2, a_2), ..., (r_N, a_N)\}$
+>    - Where $r_i$ = reasoning chain text
+>    - And $a_i$ = extracted final answer
+> 3. Each sample drawn independently (no inter-sample conditioning)
+> 
+> **Phase 2: Answer Extraction**
+> 
+> For each generated chain $(r_i, a_i)$:
+> 
+> 1. Parse reasoning chain $r_i$ to identify final answer $a_i$
+> 2. Normalize answer format (critical for voting accuracy)
+> 3. Handle…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[prompt-report-self-consistency-complexity-based-consistency-202512250916]]

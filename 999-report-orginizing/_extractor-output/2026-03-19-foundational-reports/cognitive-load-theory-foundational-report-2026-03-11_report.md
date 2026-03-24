@@ -672,7 +672,7 @@ extraction_summary:
 #### Broader
 
 - [[Educational-Psychology|Educational Psychology]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Learning Sciences]]
 
 #### Narrower

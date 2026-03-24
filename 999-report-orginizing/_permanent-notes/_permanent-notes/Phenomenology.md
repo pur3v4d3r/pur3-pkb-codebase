@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Phenomenology"
+title: "phenomenology"
 aliases:
-  - "Phenomenology"
+  - "phenomenology"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,55 +23,41 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 10
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Dreyfus-Skill-Acquisition-Model]]"
-  - "[[Embodied-Cognition]]"
-  - "[[Explicit-Knowledge]]"
-  - "[[Focal-Awareness]]"
-  - "[[Focal-Subsidiary-Attention-Distinction]]"
-  - "[[Procedural-Memory]]"
-  - "[[Subsidiary-Awareness]]"
-  - "[[Tacit-Knowledge]]"
-  - "[[Tacit-Knowledge-Observatory]]"
-  - "[[The-PKB-as-Tacit-Knowledge-Observatory]]"
+  - "[[Functional-Psychology]]"
+  - "[[Stream-of-Consciousness]]"
+  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
-# Phenomenology
+# phenomenology
 
-> [!definition] **Phenomenology**
-> *Stub note — academic domain/field referenced by 10 permanent notes. Expand with scope, key theories, foundational thinkers, and relationship to PKM practice.*
+> [!definition] **phenomenology**
+> *Stub note — academic domain/field referenced by 3 permanent notes. Expand with scope, key theories, foundational thinkers, and relationship to PKM practice.*
 
-*Auto-generated stub — referenced by 10 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
-- [[Dreyfus-Skill-Acquisition-Model]]
-- [[Embodied-Cognition]]
-- [[Explicit-Knowledge]]
-- [[Focal-Awareness]]
-- [[Focal-Subsidiary-Attention-Distinction]]
-- [[Procedural-Memory]]
-- [[Subsidiary-Awareness]]
-- [[Tacit-Knowledge]]
-- [[Tacit-Knowledge-Observatory]]
-- [[The-PKB-as-Tacit-Knowledge-Observatory]]
+- [[Functional-Psychology]]
+- [[Stream-of-Consciousness]]
+- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

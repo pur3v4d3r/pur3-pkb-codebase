@@ -24,15 +24,15 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 109
+referenced-by-count: 130
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -40,14 +40,14 @@ referenced-by-count: 109
 see-also:
   - "[[4E-Cognition]]"
   - "[[Active-Externalism]]"
+  - "[[Adaptive-Inference]]"
+  - "[[Advance-Organizer]]"
   - "[[Amotivation]]"
   - "[[Andragogy]]"
+  - "[[Assimilation]]"
   - "[[Attribution-Retraining]]"
   - "[[Autonomy]]"
   - "[[Autonomy-Support]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Central-Executive]]"
-  - "[[Chunking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Feedback-Design-for-Autonomy-and-Mastery
 
 > [!definition] **Feedback-Design-for-Autonomy-and-Mastery**
-> *Stub note — concept referenced by 109 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 130 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 109 permanent notes.*
+*Auto-generated stub — referenced by 130 permanent notes.*
 
 ## Referenced By
 
 - [[4E-Cognition]]
 - [[Active-Externalism]]
+- [[Adaptive-Inference]]
+- [[Advance-Organizer]]
 - [[Amotivation]]
 - [[Andragogy]]
+- [[Assimilation]]
 - [[Attribution-Retraining]]
 - [[Autonomy]]
 - [[Autonomy-Support]]
 - [[Basic-Psychological-Needs]]
+- [[Calibration-Engine]]
 - [[Central-Executive]]
 - [[Chunking]]
 - [[Classical-Cognitivism]]
 - [[Co-Constructed-Criteria]]
 - [[Cognitive-Evaluation-Theory]]
 - [[Cognitive-Load]]
-- [[Cognitive-Offloading-—-Cognitive-Psychology]]
+- [[Cognitive-Offloading]]
 - [[Cognitive-Scaffolding]]
-- [[Comparative-Advance-Organizer]]
-- [[Comparative-Organizer]]
-- [[Competence]]
-- [[Conditional-Regard]]
-- *...and 89 more permanent notes*
+- *...and 110 more permanent notes*

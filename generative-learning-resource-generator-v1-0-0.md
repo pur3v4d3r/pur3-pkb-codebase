@@ -84,19 +84,19 @@ related_concepts:
   - "[[Generation-Effect]]"
   - "[[Feynman Technique]]"
   - "[[Elaborative-Interrogation]]"
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
   - "[[Retrieval-Practice]]"
   - "[[Testing-Effect]]"
   - "[[Dual-Coding-Theory]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[Metacognitive-Monitoring]]"
   - "[[Socratic-Questioning]]"
-  - "[[Desirable Difficulties]]"
+  - "[[Desirable-Difficulties]]"
   - "[[Spacing-Effect]]"
   - "[[Interleaving]]"
   - "[[Elaborative-Rehearsal]]"
   - "[[Schema-Theory]]"
   - "[[Cognitive-Load-Theory]]"
-  - "[[Zone of Proximal Development]]"
+  - "[[Zone-of-Proximal-Development]]"
   - "[[Transfer-of-Learning]]"
 
 # GOVERNANCE & VERSIONING
@@ -309,7 +309,7 @@ technique:
   name: "Pre-Testing & Prediction"
   id: "PRE-TEST"
   scientific_basis: "Richland et al. (2009); Kornell et al. (2009) — attempting to answer before learning primes retrieval pathways and creates 'search sets' in memory that enhance subsequent encoding"
-  wiki_links: ["[[Testing-Effect]]", "[[Retrieval-Practice]]", "[[Desirable Difficulties]]", "[[Generation-Effect]]"]
+  wiki_links: ["[[Testing-Effect]]", "[[Retrieval-Practice]]", "[[Desirable-Difficulties]]", "[[Generation-Effect]]"]
   position_in_sequence: 1 (always first)
   scaffolding_type: "questions_before_learning"
   demonstration_length: "300-400 words"
@@ -389,7 +389,7 @@ technique:
   name: "Feynman Technique"
   id: "FEYNMAN"
   scientific_basis: "Based on Richard Feynman's learning method; supported by research on self-explanation effect (Chi et al., 1989) and generation effect — teaching forces identification of knowledge gaps"
-  wiki_links: ["[[Richard-Feynman]]", "[[Self-Explanation]]", "[[Elaboration]]", "[[Generative-Learning-Theory]]"]
+  wiki_links: ["[[Richard-Feynman]]", "[[self-explanation]]", "[[Elaboration]]", "[[Generative-Learning-Theory]]"]
   position_in_sequence: 3
   scaffolding_type: "explain_to_novice"
   demonstration_length: "500-700 words"
@@ -417,7 +417,7 @@ technique:
   name: "Self-Explanation"
   id: "SELF-EXPLAIN"
   scientific_basis: "Chi et al. (1989, 1994) — students who explain material to themselves learn more deeply; the process reveals gaps, promotes inference generation, and builds coherent mental models"
-  wiki_links: ["[[Self-Explanation]]", "[[Generative-Processing]]", "[[Metacognitive Monitoring]]", "[[Mental-Models]]"]
+  wiki_links: ["[[self-explanation]]", "[[Generative-Processing]]", "[[Metacognitive-Monitoring]]", "[[Mental-Models]]"]
   position_in_sequence: 5
   scaffolding_type: "explain_reasoning_steps"
   demonstration_length: "400-500 words"
@@ -459,7 +459,7 @@ technique:
   name: "Socratic Self-Questioning"
   id: "SOCRATIC"
   scientific_basis: "King (1994); Rosenshine et al. (1996) — self-generated questions enhance comprehension monitoring and promote deeper processing than passive review"
-  wiki_links: ["[[Socratic-Questioning]]", "[[Socratic-Method]]", "[[Metacognitive Monitoring]]", "[[Comprehension-Monitoring]]"]
+  wiki_links: ["[[Socratic-Questioning]]", "[[Socratic-Method]]", "[[Metacognitive-Monitoring]]", "[[Comprehension-Monitoring]]"]
   position_in_sequence: 8
   scaffolding_type: "question_generation"
   demonstration_length: "400-500 words"
@@ -501,7 +501,7 @@ technique:
   name: "Retrieval Practice"
   id: "RETRIEVAL"
   scientific_basis: "Roediger & Karpicke (2006); Dunlosky et al. (2013) highest-utility strategy — actively retrieving information from memory strengthens memory traces more than restudying"
-  wiki_links: ["[[Retrieval-Practice]]", "[[Testing-Effect]]", "[[Desirable Difficulties]]", "[[Spaced-Repetition]]"]
+  wiki_links: ["[[Retrieval-Practice]]", "[[Testing-Effect]]", "[[Desirable-Difficulties]]", "[[Spaced-Repetition]]"]
   position_in_sequence: 11
   scaffolding_type: "recall_without_notes"
   demonstration_length: "400-500 words"
@@ -515,7 +515,7 @@ technique:
   name: "Interleaved Practice"
   id: "INTERLEAVE"
   scientific_basis: "Rohrer & Taylor (2007); Kornell & Bjork (2008) — mixing different problem types or topics during practice enhances discrimination learning and transfer"
-  wiki_links: ["[[Interleaving]]", "[[Desirable Difficulties]]", "[[Transfer-of-Learning]]", "[[Discrimination-Learning]]"]
+  wiki_links: ["[[Interleaving]]", "[[Desirable-Difficulties]]", "[[Transfer-of-Learning]]", "[[Discrimination-Learning]]"]
   position_in_sequence: 12
   scaffolding_type: "mixed_application"
   demonstration_length: "300-400 words"
@@ -529,7 +529,7 @@ technique:
   name: "Metacognitive Reflection & Calibration"
   id: "META-REFLECT"
   scientific_basis: "Flavell (1979); Schraw & Dennison (1994) MAI — monitoring comprehension and calibrating confidence against actual understanding is essential for self-regulated learning"
-  wiki_links: ["[[Metacognitive Monitoring]]", "[[Metacognition]]", "[[Self-Regulated-Learning]]", "[[Comprehension-Monitoring]]"]
+  wiki_links: ["[[Metacognitive-Monitoring]]", "[[Metacognition]]", "[[Self-Regulated-Learning]]", "[[Comprehension-Monitoring]]"]
   position_in_sequence: 13 (always late in sequence)
   scaffolding_type: "learning_audit"
   demonstration_length: "300-400 words"

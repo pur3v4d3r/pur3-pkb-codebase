@@ -670,7 +670,7 @@ extraction_summary:
 #### Broader
 
 - [[Memory-Systems|Memory Systems]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Learning Sciences]]
 
 #### Narrower

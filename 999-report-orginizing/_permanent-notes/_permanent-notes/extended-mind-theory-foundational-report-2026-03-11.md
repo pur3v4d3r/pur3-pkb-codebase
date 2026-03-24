@@ -23,41 +23,62 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 17
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
-  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
-  - "[[_Master-Reference-Index|_Master-Reference-Index]]"
+  - "[[4E-Cognition]]"
+  - "[[Active-Externalism]]"
+  - "[[Classical-Cognitivism]]"
+  - "[[Cognitive-Offloading]]"
+  - "[[Cognitive-Scaffolding]]"
+  - "[[Coupling-Constitution-Fallacy]]"
+  - "[[Distributed-Cognition]]"
+  - "[[Extended-Mind-Theory]]"
+  - "[[Internalism]]"
+  - "[[Mark-of-the-Cognitive]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # extended-mind-theory-foundational-report-2026-03-11
 
 > [!definition] **extended-mind-theory-foundational-report-2026-03-11**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 17 permanent notes.*
 
 ## Referenced By
 
+- [[4E-Cognition]]
+- [[Active-Externalism]]
+- [[Classical-Cognitivism]]
+- [[Cognitive-Offloading]]
+- [[Cognitive-Scaffolding]]
+- [[Coupling-Constitution-Fallacy]]
+- [[Distributed-Cognition]]
+- [[Extended-Mind-Theory]]
+- [[Internalism]]
+- [[Mark-of-the-Cognitive]]
+- [[Parity-Principle]]
+- [[Passive-Externalism]]
+- [[The-Parity-Principle]]
+- [[Vehicle-Externalism]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
 - [[_Master-Reference-Index|_Master-Reference-Index]]

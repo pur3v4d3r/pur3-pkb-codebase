@@ -23,66 +23,61 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 27
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Accommodation]]"
-  - "[[Active-Construction-Imperative]]"
+  - "[[Advance-Organizer]]"
   - "[[Assimilation]]"
-  - "[[Assimilation-and-Accommodation]]"
-  - "[[Calibration]]"
-  - "[[Cognitive-Architecture-Isomorphism-Principle]]"
-  - "[[Cognitive-Disequilibrium]]"
-  - "[[Constructive-Alignment]]"
-  - "[[Constructivism]]"
-  - "[[Derived-Principle]]"
+  - "[[Comparative-Advance-Organizer]]"
+  - "[[Comparative-Organizer]]"
+  - "[[Elaborative-Interrogation]]"
+  - "[[Expository-Advance-Organizer]]"
+  - "[[Expository-Organizer]]"
+  - "[[Meaningful-Learning]]"
+  - "[[Mental-Model]]"
+  - "[[Obliterative-Subsumption]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Conceptual Change Theory
 
 > [!definition] **Conceptual Change Theory**
-> *Stub note — concept referenced by 27 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 27 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
-- [[Accommodation]]
-- [[Active-Construction-Imperative]]
+- [[Advance-Organizer]]
 - [[Assimilation]]
-- [[Assimilation-and-Accommodation]]
-- [[Calibration]]
-- [[Cognitive-Architecture-Isomorphism-Principle]]
-- [[Cognitive-Disequilibrium]]
-- [[Constructive-Alignment]]
-- [[Constructivism]]
-- [[Derived-Principle]]
-- [[Elaboration-Theory]]
-- [[Epitome]]
-- [[Five-Convergence-Zones]]
-- [[Foundational-Principle]]
-- [[Heutagogical-Self-Design]]
-- [[Integrated-Learning-System-Model]]
-- [[Integration-Metabolism]]
-- [[Prior-Knowledge-Activation]]
-- [[Refinement-Principle]]
+- [[Comparative-Advance-Organizer]]
+- [[Comparative-Organizer]]
+- [[Elaborative-Interrogation]]
+- [[Expository-Advance-Organizer]]
+- [[Expository-Organizer]]
+- [[Meaningful-Learning]]
+- [[Mental-Model]]
+- [[Obliterative-Subsumption]]
+- [[Prior-Knowledge]]
+- [[Propositional-Representation]]
 - [[Schema]]
-- *...and 7 more permanent notes*
+- [[Situation-Model]]
+- [[Subsumer-Anchoring-Idea]]
+- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

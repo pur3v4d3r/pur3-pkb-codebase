@@ -274,7 +274,7 @@ type: #book
 
 # Atomic Habits
 
-author:: [[James Clear]]
+author:: [[James-Clear]]
 published:: 2018
 pages:: 320
 rating:: 9/10

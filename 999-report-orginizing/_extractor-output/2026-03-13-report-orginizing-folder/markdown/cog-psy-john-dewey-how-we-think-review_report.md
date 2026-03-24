@@ -389,7 +389,7 @@ extraction_summary:
 - [[Paulo Freire]]
 - [[Peer Instruction]]
 - [[Plato]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatist Philosophy]]
 - [[Principles of Psychology (1890)]]
 - [[Problem-Based Learning]]
@@ -404,7 +404,7 @@ extraction_summary:
 - [[Richard-West|Richard West]]
 - [[Rote Learning]]
 - [[Shallow-Processing|Shallow Processing]]
-- [[Socratic Seminars]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]
 - [[Synaptic Plasticity]]
 - [[The Eight-Year Study (1933-1941)]]
 - [[Theodor Adorno]]
@@ -444,7 +444,7 @@ extraction_summary:
 | 19 | [[Pragmatist Philosophy]] | pragmatist epistemology | — | The Pragmatist Epistemological Context | 32 |
 | 20 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 21 | [[William-James|William James]] | — | — | The Pragmatist Epistemological Context | 32 |
-| 22 | [[Pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
+| 22 | [[pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 23 | [[Democratic Learning Community]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 24 | [[University of Chicago Laboratory School]] | — | — | The Pragmatist Epistemological Context | 34 |
 | 25 | [[Critical-Thinking|critical thinking]] | — | — | The Two Editions and Their Significance | 38 |
@@ -482,7 +482,7 @@ extraction_summary:
 | 57 | [[Interdisciplinary Learning]] | — | — | Designing the Reflective Classroom | 155 |
 | 58 | [[Project-Based Curricula]] | — | — | Designing the Reflective Classroom | 155 |
 | 59 | [[Reflective Journals]] | — | — | Fostering Genuine Inquiry: The Role o... | 164 |
-| 60 | [[Socratic Seminars]] | — | — | Fostering Genuine Inquiry: The Role o... | 166 |
+| 60 | [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]] | — | — | Fostering Genuine Inquiry: The Role o... | 166 |
 | 61 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Curiosity as the Motivational Engine | 172 |
 | 62 | [[Intellectual Interest]] | — | — | Curiosity as the Motivational Engine | 172 |
 | 63 | [[Epistemic Curiosity]] | — | — | Curiosity as the Motivational Engine | 172 |
@@ -612,7 +612,7 @@ extraction_summary:
 - [[Paulo Freire]]
 - [[Peer Instruction]]
 - [[Plato]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatist Philosophy]]
 - [[Principles of Psychology (1890)]]
 - [[Problem-Based Learning]]
@@ -627,7 +627,7 @@ extraction_summary:
 - [[Richard-West|Richard West]]
 - [[Rote Learning]]
 - [[Shallow-Processing|Shallow Processing]]
-- [[Socratic Seminars]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]
 - [[Synaptic Plasticity]]
 - [[The Eight-Year Study (1933-1941)]]
 - [[Theodor Adorno]]

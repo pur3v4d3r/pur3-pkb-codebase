@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Assessment Design"
+title: "Assessment-Design"
 aliases:
-  - "Assessment Design"
+  - "Assessment-Design"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,30 +23,30 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 15
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Dichotomy-of-Control]]"
-  - "[[Fourfold-Motivational-Architecture]]"
-  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence]]"
-  - "[[Internalization]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Mastery-Goals]]"
-  - "[[Optimal-Challenge]]"
+  - "[[22-Framework]]"
+  - "[[2×2-Framework]]"
+  - "[[Achievement-Goal]]"
+  - "[[Differentiated-Conception-of-Ability]]"
+  - "[[Ego-Involvement]]"
+  - "[[Mastery-Approach-Goal]]"
+  - "[[Mastery-Avoidance-Goal]]"
+  - "[[Mastery-Goal]]"
+  - "[[Motivational-Climate]]"
+  - "[[Performance-Approach-Goal]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -56,28 +56,27 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Assessment Design
+# Assessment-Design
 
-> [!definition] **Assessment Design**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Assessment-Design**
+> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 15 permanent notes.*
 
 ## Referenced By
 
-- [[Achievement-Goal-Theory]]
-- [[Basic-Psychological-Needs]]
-- [[Cognitive-Evaluation-Theory]]
-- [[Dichotomy-of-Control]]
-- [[Fourfold-Motivational-Architecture]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence]]
-- [[Internalization]]
-- [[Intrinsic-Motivation]]
-- [[Mastery-Goals]]
-- [[Optimal-Challenge]]
-- [[Overjustification-Effect]]
-- [[Performance-Goals]]
-- [[Premeditatio-Malorum]]
-- [[Self-Determination-Theory]]
-- [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
-- [[The-Motivational-Design-Imperative]]
+- [[22-Framework]]
+- [[2×2-Framework]]
+- [[Achievement-Goal]]
+- [[Differentiated-Conception-of-Ability]]
+- [[Ego-Involvement]]
+- [[Mastery-Approach-Goal]]
+- [[Mastery-Avoidance-Goal]]
+- [[Mastery-Goal]]
+- [[Motivational-Climate]]
+- [[Performance-Approach-Goal]]
+- [[Performance-Avoidance-Goal]]
+- [[Performance-Goal]]
+- [[TARGET-Framework]]
+- [[Task-Involvement]]
+- [[Undifferentiated-Conception-of-Ability]]

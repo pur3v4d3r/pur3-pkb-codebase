@@ -23,50 +23,55 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Adaptive-Inference]]"
+  - "[[Calibration-Dependency]]"
+  - "[[Calibration-Engine]]"
+  - "[[Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[Degenerate-Cycle]]"
   - "[[Expertise-Reversal-Effect]]"
-  - "[[Flavell-Metacognition-Framework]]"
+  - "[[Flavell's-Metacognitive-Framework]]"
   - "[[Forethought-Phase]]"
   - "[[Goal-Orientation]]"
   - "[[MSLQ]]"
-  - "[[Metacognitive-Experience]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Monitoring-Control-Coupling]]"
-  - "[[Performance-Phase]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
 # Negative-Feedback-Control-System
 
 > [!definition] **Negative-Feedback-Control-System**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 24 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 24 permanent notes.*
 
 ## Referenced By
 
+- [[Adaptive-Inference]]
+- [[Calibration-Dependency]]
+- [[Calibration-Engine]]
+- [[Cyclical-Model-of-Self-Regulated-Learning]]
+- [[Degenerate-Cycle]]
 - [[Expertise-Reversal-Effect]]
-- [[Flavell-Metacognition-Framework]]
+- [[Flavell's-Metacognitive-Framework]]
 - [[Forethought-Phase]]
 - [[Goal-Orientation]]
 - [[MSLQ]]
@@ -76,8 +81,8 @@ importance: medium
 - [[Monitoring-Control-Coupling]]
 - [[Performance-Phase]]
 - [[Pintrich's-Motivational-Integration]]
+- [[Regulatory-Overhead]]
 - [[Self-Efficacy]]
 - [[Self-Reflection-Phase]]
 - [[Self-Regulated-Learning]]
-- [[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]
-- [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+- *...and 4 more permanent notes*

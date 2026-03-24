@@ -72,7 +72,7 @@ Zimmerman's model breaks self-regulated learning into three cyclical phases:
 1. **Forethought Phase** (Planning Domain)
    - [[Goal Setting]]: Establishing specific, measurable learning objectives
    - [[Task Analysis]]: Breaking complex learning into component elements  
-   - [[Strategic Planning]]: Selecting appropriate methods and tools
+   - [[Strategic-Planning]]: Selecting appropriate methods and tools
    - [[Motivational Beliefs]]: Activating self-efficacy and outcome expectations
 
 2. **Performance Phase** (Execution Domain)
@@ -308,7 +308,7 @@ Effective time blocking follows this systematic approach:
 
 > [!key-claim]
 > **The Quadrant II Revolution**
-> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
+> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic-Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
 
 ### Eisenhower Matrix in PKB Planning
 
@@ -440,7 +440,7 @@ graph TD
 > **Theme**: "Year of Systematic Learning"
 > 
 > **Strategic Domains**:
-> 1. [[Cognitive-Psychology]]: Build research-level understanding
+> 1. [[cognitive-psychology]]: Build research-level understanding
 > 2. [[Statistical Analysis]]: Progress from novice to intermediate practitioner  
 > 3. [[Technical Writing]]: Develop publication-quality skills
 > 

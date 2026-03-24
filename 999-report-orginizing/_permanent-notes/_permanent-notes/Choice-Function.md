@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318"
+  - "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[YAML]]"
   - "[[DQL]]"
   - "[[Obsidian]]"
+  - "[[Dataview-Inline-Queries:-In-Note-Metadata-Panel|Dataview Inline Queries: In-Note Metadata Panel]]"
+  - "[[Dataview|Dataview]]"
+  - "[[Inline-Queries|Inline Queries]]"
+  - "[[Metadata|Metadata]]"
+  - "[[Frontmatter|Frontmatter]]"
+  - "[[YAML|YAML]]"
+  - "[[DQL|DQL]]"
+  - "[[Obsidian|Obsidian]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -119,3 +128,18 @@ importance: medium
 
 **Related concepts:**
 [[Dataview-Inline-Queries-In-Note-Metadata-Panel|Dataview Inline Queries: In-Note Metadata Panel]] · [[Dataview]] · [[Inline-Queries|Inline Queries]] · [[Metadata]] · [[Frontmatter]] · [[YAML]] · [[DQL]] · [[Obsidian]] · [[Knowledge-Graph|Knowledge Graph]] · [[Link-Analysis|Link Analysis]] · [[Temporal-Queries|Temporal Queries]] · [[Aggregation-Functions|Aggregation Functions]] · [[Conditional-Logic|Conditional Logic]] · [[String-Manipulation|String Manipulation]] · [[File-Properties|File Properties]]
+
+**Related concepts** *(from reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md)*:
+[[Dataview-Inline-Queries:-In-Note-Metadata-Panel|Dataview Inline Queries: In-Note Metadata Panel]] * [[Inline-Queries|Inline Queries]] * [[Link-Analysis|Link Analysis]] * [[Temporal-Queries|Temporal Queries]] * [[Aggregation-Functions|Aggregation Functions]] * [[Conditional-Logic|Conditional Logic]] * [[String-Manipulation|String Manipulation]] * [[File-Properties|File Properties]] * [[Dashboard-Design|Dashboard Design]] * [[PKB-Architecture|PKB Architecture]] * [["-+-l-+-"|" + l + "]] * [[03-notes/01_permanent-notes/01_cognitive-development/Spaced-Repetition|03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] * [[Andragogy|Andragogy]] * [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] * [[Templater-Integration-with-Dataview|Templater Integration with Dataview]]
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Custom Property Queries**
+> Access any [[YAML]] frontmatter property using `this.<property-name>` notation. Properties can be strings, numbers, dates, lists, or objects.
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318]]

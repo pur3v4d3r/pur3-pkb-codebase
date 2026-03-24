@@ -75,7 +75,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 - **[[Encoding-Variability]]** — Multiple encoding contexts improve transfer [Report 11]
 
 #### 2.4 Scaffolding & Expertise Development
-- **[[Pedagogy]]** — Teacher-directed learning for novices [Report 10]
+- **[[pedagogy]]** — Teacher-directed learning for novices [Report 10]
 - **[[Andragogy]]** — Self-directed adult learning (Knowles) [Report 10]
 - **[[Heutagogy]]** — Self-determined learning; learner designs the learning process itself (Hase & Kenyon) [Reports 10, 24]
 - **[[Zone-of-Proximal-Development]]** (ZPD) — Distance between independent and supported performance (Vygotsky) [Reports 10, 23, 30]
@@ -175,7 +175,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
   - [[Stoic-Assent]] (Synkatathesis) — Act of accepting or rejecting an impression as accurately representing reality [Report 29]
   - [[Dichotomy-of-Control]] — Focus only on what is genuinely within one's control [Reports 07, 13]
 - **[[Epistemic-Justice]]** — Whose testimony and experience is recognized as credible knowledge (Fricker) [Report 29]
-- **[[Pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
+- **[[pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
 
 ---
 

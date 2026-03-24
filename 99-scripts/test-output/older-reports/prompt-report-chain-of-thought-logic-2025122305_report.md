@@ -417,7 +417,7 @@ extraction_summary:
 - [[Self-Attention]]
 - [[Self-Consistency]]
 - [[Sparse Autoencoders]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[StrategyQA]]
 - [[Symbolic Logic]]
 - [[System Design]]
@@ -483,7 +483,7 @@ extraction_summary:
 | 40 | [[Breadth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
 | 41 | [[Depth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
 | 42 | [[Beam Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
-| 43 | [[Strategic Planning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
+| 43 | [[Strategic-Planning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 44 | [[Creative Problem Solving]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 45 | [[Optimization Problems]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 46 | [[Reinforcement Learning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 209 |
@@ -1192,7 +1192,7 @@ $$
 - [[Self-Attention]]
 - [[Self-Consistency]]
 - [[Sparse Autoencoders]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[StrategyQA]]
 - [[Symbolic Logic]]
 - [[System Design]]

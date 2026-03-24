@@ -148,7 +148,7 @@ dv.paragraph(`**Total Cognitive Science Notes**: ${total}`);
 ### Core Concepts
 - [[Cognitive-Science]] - Master overview of the field
 - [[Cognitive-Architecture]] - Structural frameworks of mind
-- [[Cognitive-Psychology]] - Experimental study of mental processes
+- [[cognitive-psychology]] - Experimental study of mental processes
 - [[Distributed-Cognition]] - Cognition as system-level phenomenon
 - [[Extended Mind]] - Mind beyond brain boundaries
 
@@ -355,7 +355,7 @@ LIMIT 12
 - [[Locus-of-Control]] - Agency attribution
 - [[Socratic-Method]] - Question-based inquiry
 - [[Socratic Thinking]] - Critical reasoning approach
-- [[Pragmatism]] - Action-oriented epistemology
+- [[pragmatism]] - Action-oriented epistemology
 
 ### Performance & Motivation
 - [[System-1]] - Fast, automatic processing

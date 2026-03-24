@@ -23,7 +23,7 @@ link-related:
   - "[[Automatic Thoughts]]"
   - "[[Default Mode Network]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
 maturity: seedling
 confidence: speculative
 status: active

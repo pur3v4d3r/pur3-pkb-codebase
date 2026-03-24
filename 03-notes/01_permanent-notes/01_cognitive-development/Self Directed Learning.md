@@ -17,7 +17,7 @@ link-related:
   - "[[2025-11-13|Daily-Note]]"
   - "[[permeant-note_moc]]"
   - "[[Metacognition]]"
-  - "[[Pedagogy]]"
+  - "[[pedagogy]]"
   - "[[schemas]]"
   - "[[Self-Regulated-Learning]]"
   - "[[Self-Regulation-Theory]]"
@@ -29,7 +29,7 @@ link-related:
   - "[[Focus Of Attention]]"
   - "[[Illusions Of Comprehension]]"
   - "[[Knowledge-Management]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Cognitive-Biases]]"
 maturity: seedling
 confidence: speculative

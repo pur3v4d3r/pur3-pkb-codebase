@@ -5,7 +5,6 @@
 title: "Polanyian-Tacit-Knowing"
 aliases:
   - "Polanyian-Tacit-Knowing"
-  - "Polanyian Tacit Knowing"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

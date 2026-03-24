@@ -28,6 +28,14 @@ from config import (
     MAX_PRACTICES_PER_NOTE,
     MAX_WARNINGS_PER_NOTE,
     MAX_WIKI_LINKS_DISPLAY,
+    MAX_FLASHCARDS_PER_NOTE,
+    MAX_PERSONS_PER_NOTE,
+    MAX_TENSIONS_PER_NOTE,
+    MAX_OPEN_QUESTIONS_PER_NOTE,
+    MAX_PROTOCOLS_PER_NOTE,
+    MAX_DIAGRAMS_PER_NOTE,
+    MAX_CITATIONS_PER_NOTE,
+    MAX_METHODOLOGY_PER_NOTE,
 )
 from report_parser import NoteCandidate
 from note_matcher import MatchResult, NoteIndex, _normalize
@@ -51,6 +59,15 @@ class UpdateAction:
     reflections_added: int = 0
     wiki_links_added: int = 0
     see_also_added: int = 0
+    # Enhanced content (v2.1)
+    flashcards_added: int = 0
+    persons_added: int = 0
+    tensions_added: int = 0
+    open_questions_added: int = 0
+    protocols_added: int = 0
+    diagrams_added: int = 0
+    citations_added: int = 0
+    methodology_added: int = 0
     timestamp_updated: bool = False
     errors: list[str] = field(default_factory=list)
 
@@ -66,6 +83,14 @@ class UpdateAction:
             + self.reflections_added
             + self.wiki_links_added
             + self.see_also_added
+            + self.flashcards_added
+            + self.persons_added
+            + self.tensions_added
+            + self.open_questions_added
+            + self.protocols_added
+            + self.diagrams_added
+            + self.citations_added
+            + self.methodology_added
         )
 
     @property
@@ -478,6 +503,148 @@ class NoteUpdater:
                     existing_reflections.append(reflection)
                     action.reflections_added += 1
 
+        # -- 7c. Add flashcard callouts (v2.1) -----------------------------
+        existing_flashcards = _extract_existing_callouts(body, "flashcard")
+        for c in candidates:
+            for card in getattr(c, 'flashcards', []):
+                q = card.get("question", card.get("title", ""))
+                a = card.get("answer", card.get("body", ""))
+                card_body = f"**Q:** {q}\n**A:** {a}"
+                if card.get("difficulty"):
+                    card_body += f"\n*Difficulty: {card['difficulty']}*"
+                if not _is_duplicate_callout(card_body, existing_flashcards):
+                    callout = _build_callout_block(
+                        "flashcard",
+                        f"**Spaced Repetition** *(from {c.source_report})*",
+                        card_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Spaced Repetition Seeds", callout
+                    )
+                    existing_flashcards.append(card_body)
+                    action.flashcards_added += 1
+
+        # -- 7d. Add person callouts (v2.1) --------------------------------
+        existing_persons = _extract_existing_callouts(body, "person")
+        for c in candidates:
+            for person in getattr(c, 'persons', []):
+                person_body = person.get("body", "")
+                person_title = person.get("title", "Key Figure")
+                if not _is_duplicate_callout(person_body, existing_persons):
+                    callout = _build_callout_block(
+                        "person",
+                        f"**{person_title}** *(from {c.source_report})*",
+                        person_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Key Figures & Intellectual Lineage", callout
+                    )
+                    existing_persons.append(person_body)
+                    action.persons_added += 1
+
+        # -- 7e. Add tension callouts (v2.1) -------------------------------
+        existing_tensions = _extract_existing_callouts(body, "tension")
+        for c in candidates:
+            for tension in getattr(c, 'tensions', []):
+                tension_body = tension.get("body", "")
+                tension_title = tension.get("title", "Unresolved Tension")
+                if not _is_duplicate_callout(tension_body, existing_tensions):
+                    callout = _build_callout_block(
+                        "tension",
+                        f"**{tension_title}** *(from {c.source_report})*",
+                        tension_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Conceptual Tensions", callout
+                    )
+                    existing_tensions.append(tension_body)
+                    action.tensions_added += 1
+
+        # -- 7f. Add open question callouts (v2.1) -------------------------
+        existing_oqs = _extract_existing_callouts(body, "open-question")
+        for c in candidates:
+            for oq in getattr(c, 'open_questions', []):
+                oq_body = oq.get("body", "")
+                oq_title = oq.get("title", "")
+                if not _is_duplicate_callout(oq_body, existing_oqs):
+                    callout = _build_callout_block(
+                        "open-question",
+                        f"**{oq_title}** *(from {c.source_report})*" if oq_title else f"*(from {c.source_report})*",
+                        oq_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Open Questions", callout
+                    )
+                    existing_oqs.append(oq_body)
+                    action.open_questions_added += 1
+
+        # -- 7g. Add protocol callouts (v2.1) ------------------------------
+        existing_protocols = _extract_existing_callouts(body, "protocol")
+        for c in candidates:
+            for protocol in getattr(c, 'protocols', []):
+                protocol_body = protocol.get("body", "")
+                protocol_title = protocol.get("title", "Method")
+                if not _is_duplicate_callout(protocol_body, existing_protocols):
+                    callout = _build_callout_block(
+                        "protocol",
+                        f"**{protocol_title}** *(from {c.source_report})*",
+                        protocol_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Protocols & Methods", callout
+                    )
+                    existing_protocols.append(protocol_body)
+                    action.protocols_added += 1
+
+        # -- 7h. Add diagram callouts (v2.1) -------------------------------
+        existing_diagrams = _extract_existing_callouts(body, "diagram")
+        for c in candidates:
+            for diagram in getattr(c, 'diagrams', []):
+                diagram_body = diagram.get("body", "")
+                diagram_title = diagram.get("title", "")
+                if not _is_duplicate_callout(diagram_body, existing_diagrams):
+                    callout = _build_callout_block(
+                        "diagram",
+                        f"**{diagram_title}**" if diagram_title else "",
+                        diagram_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Visual Representations", callout
+                    )
+                    existing_diagrams.append(diagram_body)
+                    action.diagrams_added += 1
+
+        # -- 7i. Add citation entries (v2.1) -------------------------------
+        for c in candidates:
+            for cite in getattr(c, 'citations', []):
+                cite_title = cite.get("title", "")
+                cite_body = cite.get("body", "")
+                cite_text = f"**{cite_title}**: {cite_body}" if cite_title else cite_body
+                # Simple dedup: check if cite text already in body
+                if _normalize_for_dedup(cite_text) not in _normalize_for_dedup(body):
+                    body = _insert_before_section_end(
+                        body, "References", f"- {cite_text}"
+                    )
+                    action.citations_added += 1
+
+        # -- 7j. Add methodology callouts (v2.1) ---------------------------
+        existing_methodology = _extract_existing_callouts(body, "methodology-and-sources")
+        for c in candidates:
+            for meth in getattr(c, 'methodology', []):
+                meth_body = meth.get("body", "")
+                meth_title = meth.get("title", "")
+                if not _is_duplicate_callout(meth_body, existing_methodology):
+                    callout = _build_callout_block(
+                        "methodology-and-sources",
+                        f"**{meth_title}** *(from {c.source_report})*" if meth_title else f"*(from {c.source_report})*",
+                        meth_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Methodology Notes", callout
+                    )
+                    existing_methodology.append(meth_body)
+                    action.methodology_added += 1
+
         # -- 8. Add new wiki-links to Connections section ------------------
         new_wl_for_body = []
         for c in candidates:
@@ -706,6 +873,22 @@ def main() -> None:
                 changes.append(f"+{a.wiki_links_added} links")
             if a.see_also_added:
                 changes.append(f"+{a.see_also_added} see-also")
+            if a.flashcards_added:
+                changes.append(f"+{a.flashcards_added} flashcards")
+            if a.persons_added:
+                changes.append(f"+{a.persons_added} persons")
+            if a.tensions_added:
+                changes.append(f"+{a.tensions_added} tensions")
+            if a.open_questions_added:
+                changes.append(f"+{a.open_questions_added} questions")
+            if a.protocols_added:
+                changes.append(f"+{a.protocols_added} protocols")
+            if a.diagrams_added:
+                changes.append(f"+{a.diagrams_added} diagrams")
+            if a.citations_added:
+                changes.append(f"+{a.citations_added} citations")
+            if a.methodology_added:
+                changes.append(f"+{a.methodology_added} methodology")
             change_str = ", ".join(changes)
             print(f"  {a.note_path.stem}: {change_str}")
 

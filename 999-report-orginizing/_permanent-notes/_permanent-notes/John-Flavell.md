@@ -5,7 +5,6 @@
 title: "John-Flavell"
 aliases:
   - "John-Flavell"
-  - "John Flavell"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 47
+referenced-by-count: 48
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -47,7 +46,7 @@ see-also:
   - "[[Conflict-Monitoring]]"
   - "[[Critical-Thinking]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice-Log]]"
+  - "[[Deliberate-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,9 +59,9 @@ importance: high
 # John-Flavell
 
 > [!definition] **John-Flavell**
-> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 48 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 47 permanent notes.*
+*Auto-generated stub — referenced by 48 permanent notes.*
 
 ## Referenced By
 
@@ -75,15 +74,15 @@ importance: high
 - [[Conflict-Monitoring]]
 - [[Critical-Thinking]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
-- [[Deliberate-Practice-Log]]
+- [[Deliberate-Practice]]
 - [[Delphi-Consensus-Definition]]
 - [[Disposition]]
 - [[Evaluation]]
-- [[Feeling-of-Knowing-—-FOK]]
+- [[Extrinsic-Motivation]]
+- [[Feeling-of-Knowing]]
 - [[Felt-Difficulty]]
 - [[Fluency-Illusion]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
 - [[Inference]]
 - [[Judgment-of-Learning]]
-- [[Metacognition]]
-- *...and 27 more permanent notes*
+- *...and 28 more permanent notes*

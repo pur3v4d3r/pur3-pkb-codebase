@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +40,7 @@ see-also:
   - "[[Affective-Intelligence-Theory]]"
   - "[[Availability-Heuristic]]"
   - "[[Cognitive-Bias]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Confirmation-Bias]]"
   - "[[Deliberative-Democracy]]"
   - "[[Epistemic-Citizenship]]"
   - "[[Filter-Bubble-Information-Cocoon]]"
@@ -68,7 +68,7 @@ importance: medium
 - [[Affective-Intelligence-Theory]]
 - [[Availability-Heuristic]]
 - [[Cognitive-Bias]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Deliberative-Democracy]]
 - [[Epistemic-Citizenship]]
 - [[Filter-Bubble-Information-Cocoon]]

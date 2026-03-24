@@ -377,7 +377,7 @@ extraction_summary:
 - [[Cognitive Biases and Critical Thinking]]
 - [[Cognitive Development]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
@@ -571,7 +571,7 @@ extraction_summary:
 | 98 | [[Myside-Bias|Myside Bias]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1106 |
 | 99 | [[Judgment and Decision Making]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1108 |
 | 100 | [[Behavioral Economics]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1108 |
-| 101 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1108 |
+| 101 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1108 |
 | 102 | [[Argument Analysis and Logical Fallacies]] | — | — | 3. **[[Argument Analysis and Logical ... | 1114 |
 | 103 | [[Toulmin-Model|Toulmin Model]] | — | — | 3. **[[Argument Analysis and Logical ... | 1118 |
 | 104 | [[Walton's Argumentation Schemes]] | — | — | 3. **[[Argument Analysis and Logical ... | 1118 |
@@ -1218,7 +1218,7 @@ extraction_summary:
 - [[Cognitive Biases and Critical Thinking]]
 - [[Cognitive Development]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
@@ -1328,7 +1328,7 @@ extraction_summary:
 - [[Information Literacy]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Learning Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 
 ---
 

@@ -496,7 +496,7 @@ extraction_summary:
 #### 60. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 675)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Conditional Regard and the Introjection Trap]]
+> > [!topic-idea] [[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]]
 > > This analysis identified introjection as OIT's most psychologically costly regulatory style and pointed to conditional regard as a primary pathway into persistent introjection. A focused expansion would examine Assor and Roth's research program in depth, including their longitudinal findings on the long-term effects of approval-contingent parenting on adult psychological functioning; the mechanisms connecting conditional regard to contingent self-worth and performance anxiety; and what distinguishes healthy from unhealthy internalization scaffolding — since some degree of evaluation and expectation is unavoidable in educational and developmental contexts. This would also be an appropriate place to examine whether instructional practices commonly deemed "supportive" (feedback-rich environments, mastery-based assessment) inadvertently create conditional-regard dynamics.
 > 
 > > [!topic-idea] [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
@@ -535,7 +535,7 @@ extraction_summary:
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Competence]]
-- [[Conditional Regard and the Introjection Trap]]
+- [[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]]
 - [[Conditional-Regard|Conditional regard]]
 - [[Deci-&-Ryan|Deci & Ryan]]
 - [[Deci,-Connell,-&-Ryan-1989|Deci, Connell, & Ryan (1989)]]
@@ -623,7 +623,7 @@ extraction_summary:
 | 44 | [[Dweck's]] | — | — | Phase VII: PKB Connections & Cross-Re... | 573 |
 | 45 | [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 577 |
 | 46 | [[Self-Regulated Learning — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 579 |
-| 47 | [[Conditional Regard and the Introjection Trap]] | — | — | D. Expansion Topics | 677 |
+| 47 | [[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]] | — | — | D. Expansion Topics | 677 |
 | 48 | [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]] | — | — | D. Expansion Topics | 680 |
 | 49 | [[Gamification Through an OIT Lens]] | — | — | D. Expansion Topics | 683 |
 | 50 | [[Motivational Interviewing as Applied OIT]] | — | — | D. Expansion Topics | 686 |
@@ -652,7 +652,7 @@ extraction_summary:
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Competence]]
-- [[Conditional Regard and the Introjection Trap]]
+- [[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]]
 - [[Conditional-Regard|Conditional regard]]
 - [[Deci-&-Ryan|Deci & Ryan]]
 - [[Deci,-Connell,-&-Ryan-1989|Deci, Connell, & Ryan (1989)]]

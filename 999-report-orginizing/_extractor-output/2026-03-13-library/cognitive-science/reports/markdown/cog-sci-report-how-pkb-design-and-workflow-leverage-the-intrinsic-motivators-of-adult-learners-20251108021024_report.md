@@ -326,7 +326,7 @@ extraction_summary:
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[PKB Psychology]]
 - [[PKB Workflow Psychology]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Disclosure|Progressive Disclosure]]
 - [[Progressive Enhancement]]
@@ -365,7 +365,7 @@ extraction_summary:
 | 19 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 The Fundamental Paradox of Personal... | 43 |
 | 20 | [[Malcolm-Knowles|Malcolm Knowles]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
 | 21 | [[Andragogy]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
-| 22 | [[Pedagogy]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
+| 22 | [[pedagogy]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
 | 23 | [[Zettelkasten]] | — | — | The Andragogical Revolution: Malcolm ... | 63 |
 | 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: The Three ... | 81 |
 | 25 | [[Edward-Deci|Edward Deci]] | — | — | Self-Determination Theory: The Three ... | 81 |
@@ -513,7 +513,7 @@ I'll conduct comprehensive research on the psychological foundations of PKB desi
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[PKB Psychology]]
 - [[PKB Workflow Psychology]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Disclosure|Progressive Disclosure]]
 - [[Progressive Enhancement]]

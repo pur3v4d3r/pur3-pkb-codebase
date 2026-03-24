@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,6 +42,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "writing-techniques-effective-learning-focused-analysis-2026-03-21"
+  - "writing-techniques-effective-learning-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -75,6 +76,14 @@ see-also:
   - "[[Working-Memory]]"
   - "[[Long-Term-Memory]]"
   - "[[Schema]]"
+  - "[[Testing-Effect|Testing-Effect]]"
+  - "[[Elaborative-Interrogation|Elaborative-Interrogation]]"
+  - "[[Self-Explanation-Effect|Self-Explanation-Effect]]"
+  - "[[Fluency-Illusion|Fluency-Illusion]]"
+  - "[[Writing-to-Learn|Writing-to-Learn]]"
+  - "[[Working-Memory|Working-Memory]]"
+  - "[[Long-Term-Memory|Long-Term-Memory]]"
+  - "[[Schema|Schema]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -129,6 +138,11 @@ importance: high
 > [!example] **Application**
 > Rather than writing notes as assertions ("X is Y"), write them as claims requiring justification ("X is Y **because** of mechanism Z, which implies that..."). The "because" and the "implies" are the generative operations. A note written as a bare assertion is knowledge-telling: it records a belief. A note written as a justified claim is knowledge-transforming: it creates a connection structure that will support retrieval in multiple contexts.
 
+## Conceptual Tensions
+
+> [!tension] **The Completeness-Learning Tradeoff in Retrieval Writing**
+> There is a genuine tension in the retrieval practice literature between the benefits of effortful recall and the risk of consolidating errors. When learners retrieve inaccurate information, they can strengthen incorrect memories — a finding documented in the "testing effect with corrective feedback" literature (Butler, 2010). This means that writing from memory is not unconditionally superior to consulting sources: it is superior when combined with feedback — checking reconstructed notes against original material to correct errors. Retrieval practice without feedback can produce confident…
+
 ## Reflection Prompts
 
 > [!reflection] **Reflect**
@@ -141,3 +155,57 @@ importance: high
 
 **Related concepts:**
 [[Testing-Effect]] · [[Elaborative-Interrogation]] · [[Self-Explanation-Effect]] · [[Fluency-Illusion]] · [[Writing-to-Learn]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Schema]] · [[Cognitive-Load-Theory]] · [[Germane-Cognitive-Load]] · [[Elaborative-Interrogation]] · [[Testing-Effect]] · [[Self-Explanation-Effect]] · [[Writing-to-Learn]] · [[Testing-Effect]]
+
+**Related concepts** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*:
+[[Encoding-Specificity|Encoding-Specificity]] * [[Spreading-Activation|Spreading-Activation]] * [[Elaboration|Elaboration]] * [[Worked-Example-Effect|Worked-Example-Effect]] * [[Advance-Organizer|Advance-Organizer]] * [[Element-Interactivity|Element-Interactivity]] * [[Metacognitive-Monitoring|Metacognitive-Monitoring]] * [[Active-Note-Making|Active-Note-Making]] * [[ICAP-Framework|ICAP-Framework]] * [[Working-Memory-Capacity|Working-Memory-Capacity]] * [[Transfer-Appropriate-Processing|Transfer-Appropriate-Processing]] * [[Desirable-Difficulties|Desirable-Difficulties]] * [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Metacognition|Metacognition]]
+
+
+## References
+
+- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
+- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
+- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
+- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
+- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
+
+- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
+
+- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
+
+- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
+
+- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
+
+- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
+
+- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
+
+- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
+
+- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
+
+- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
+
+- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This analysis draws on four empirical research traditions: the Writing-to-Learn literature (educational psychology, primarily 1990–present); the Testing Effect and retrieval practice literature (cognitive psychology, primarily 2006–present); the Elaborative Interrogation and self-explanation literature (cognitive science, primarily 1990–present); and the metacognition and fluency illusion literature (cognitive psychology, 1990–present). The claims about effect sizes are grounded in published meta-analyses (Dunlosky et al., 2013; Graham et al., 2020) and landmark individual studies (Roediger &…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[writing-techniques-effective-learning-focused-analysis-2026-03-21]]
+**Report ID:** `writing-techniques-effective-learning-focused-analysis-2026-03-21`

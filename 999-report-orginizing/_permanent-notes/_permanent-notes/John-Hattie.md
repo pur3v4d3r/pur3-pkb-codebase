@@ -2,8 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "John Hattie"
+title: "John-Hattie"
 aliases:
+  - "John-Hattie"
   - "John Hattie"
 type: permanent-note
 status: seedling
@@ -15,7 +16,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - person-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,26 +24,23 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 10
+referenced-by-count: 7
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Calibration]]"
-  - "[[Critical-Thinking]]"
   - "[[Desirable-Difficulties]]"
   - "[[Epistemic-Cognition]]"
   - "[[Intellectual-Standards]]"
-  - "[[Metacognition]]"
   - "[[Metacognitive-Knowledge]]"
   - "[[Metacognitive-Regulation]]"
   - "[[Reflective-Judgment]]"
@@ -53,24 +51,21 @@ see-also:
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
-# John Hattie
+# John-Hattie
 
-> [!definition] **John Hattie**
-> *Stub note — person referenced by 10 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> [!definition] **John-Hattie**
+> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 10 permanent notes.*
+*Auto-generated stub — referenced by 7 permanent notes.*
 
 ## Referenced By
 
-- [[Calibration]]
-- [[Critical-Thinking]]
 - [[Desirable-Difficulties]]
 - [[Epistemic-Cognition]]
 - [[Intellectual-Standards]]
-- [[Metacognition]]
 - [[Metacognitive-Knowledge]]
 - [[Metacognitive-Regulation]]
 - [[Reflective-Judgment]]

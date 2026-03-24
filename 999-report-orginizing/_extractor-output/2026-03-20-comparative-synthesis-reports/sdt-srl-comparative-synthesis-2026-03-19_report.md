@@ -545,7 +545,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[Academic-Emotions]]
 - [[Achievement-Goal-Theory]]
 - [[Amotivation]]
@@ -601,7 +601,7 @@ extraction_summary:
 | 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Comparative Focus | 139 |
 | 2 | [[Edward-Deci]] | Edward Deci | — | Phase I: Orientation & Comparative Focus | 139 |
 | 3 | [[Richard-Ryan]] | Richard Ryan | — | Phase I: Orientation & Comparative Focus | 139 |
-| 4 | [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] | Self-Regulated-Learning | — | Phase I: Orientation & Comparative Focus | 139 |
+| 4 | [[999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] | Self-Regulated-Learning | — | Phase I: Orientation & Comparative Focus | 139 |
 | 5 | [[Barry-Zimmerman]] | Barry Zimmerman | — | Phase I: Orientation & Comparative Focus | 139 |
 | 6 | [[Paul-Pintrich]] | Paul Pintrich | — | Phase I: Orientation & Comparative Focus | 139 |
 | 7 | [[Forethought-Phase]] | forethought | — | Phase I: Orientation & Comparative Focus | 141 |
@@ -699,7 +699,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[Academic-Emotions]]
 - [[Achievement-Goal-Theory]]
 - [[Amotivation]]

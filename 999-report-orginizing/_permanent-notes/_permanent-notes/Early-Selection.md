@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -65,14 +65,6 @@ narrower:
 
 see-also:
   - "[[The-Evolution-of-Selective-Attention-Theory-From-Broadbent's-Filter-to-Late-Sele|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]]"
-  - "[[Cognitive-Architecture|Cognitive Architecture]]"
-  - "[[Information-Processing-Theory|Information Processing Theory]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Perceptual-Psychology|Perceptual Psychology]]"
-  - "[[Experimental-Methodology|Experimental Methodology]]"
-  - "[[dichotic-listening-tasks|dichotic listening tasks]]"
-  - "[[Cocktail-Party-Effect|Cocktail Party Effect]]"
-  - "[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]]"
   - "[[Cognitive-Architecture|Cognitive Architecture]]"
   - "[[Information-Processing-Theory|Information Processing Theory]]"
   - "[[Working-Memory|Working Memory]]"
@@ -149,7 +141,25 @@ importance: medium
 **Related concepts** *(from cog-psy-evolution-of-selective-attention-theory-202512142019.md)*:
 [[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] * [[Cognitive-Architecture|Cognitive Architecture]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Working-Memory|Working Memory]] * [[Perceptual-Psychology|Perceptual Psychology]] * [[Experimental-Methodology|Experimental Methodology]] * [[dichotic-listening-tasks|dichotic listening tasks]] * [[Cocktail-Party-Effect|Cocktail Party Effect]] * [[dichotic-listening|dichotic listening]] * [[information-processing-model|information processing model]] * [[communications-engineering|communications engineering]] * [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] * [[Short-Term-Memory|short-term memory]] * [[Long-Term-Memory|long-term memory]] * [[priming|priming]]
 
-**Related concepts** *(from cog-psy-evolution-of-selective-attention-theory-202512142019.md)*:
-[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] * [[Cognitive-Architecture|Cognitive Architecture]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Working-Memory|Working Memory]] * [[Perceptual-Psychology|Perceptual Psychology]] * [[Experimental-Methodology|Experimental Methodology]] * [[dichotic-listening-tasks|dichotic listening tasks]] * [[Cocktail-Party-Effect|Cocktail Party Effect]] * [[dichotic-listening|dichotic listening]] * [[information-processing-model|information processing model]] * [[communications-engineering|communications engineering]] * [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] * [[Short-Term-Memory|short-term memory]] * [[Long-Term-Memory|long-term memory]] * [[implicit-memory|implicit memory]]
 
+## References
 
+- **Primary Sources**: - Broadbent, D. E. (1958). *Perception and Communication*. London: Pergamon Press.
+- Cherry, E. C. (1953). Some experiments on the recognition of speech with one and with two ears. *Journal of the Acoustical Society of America*, 25(5), 975-979.
+- Deutsch, J. A., & Deutsch, D. (1963). Attention: Some theoretical considerations. *Psychological Review*, 70(1), 80-90.
+- Moray, N. (1959). Attention in dichotic listening: Affective cues and the influence of instructions. *Quarterly Journal of Experimental Psychology*, 11(1), 56-60.
+- Treisman, A. M. (1964). Selective attention in man. *British Medical Bulletin*, 20(1), 12-16.
+
+**Methodological Extensions:**
+- Gray, J. A., & Wedderburn, A. A. (1960). Grouping strategies with simultaneous stimuli. *Quarterly Journal of Experimental Psychology*, 12(3), 180-184.
+- MacKay, D. G. (1973). Aspects of the theory of comprehension, memory and attention. *Quarterly Journal of Experimental Psychology*, 25(1), 22-40.
+
+**Contemporary Syntheses:**
+- Johnston, W. A., & Heinz, S. P. (1978). Flexibility and capacity demands of attention. *Journal of Experimental Psychology: General*, 107(4), 420-435.
+- Lavie, N. (1995). Perceptual load as a necessary condition for selective attention. *Journal of Experimental Psychology: Human Perception and Performance*, 21(3), 451-468.
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[cog-psy-evolution-of-selective-attention-theory-202512142019]]

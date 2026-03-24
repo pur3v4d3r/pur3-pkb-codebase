@@ -16,7 +16,7 @@ link-related:
   - "[[permeant-note_moc]]"
   - "[[Cognitive-Biases]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Critical-Thinking]]"
   - "[[Educational-Psychology]]"
   - "[[Illusions Of Comprehension]]"

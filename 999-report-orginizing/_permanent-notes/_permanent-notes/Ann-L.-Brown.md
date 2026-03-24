@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 8
+referenced-by-count: 6
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,9 +39,7 @@ referenced-by-count: 8
 see-also:
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
   - "[[Deliberate-Practice]]"
-  - "[[Deliberate-Practice-Log]]"
   - "[[Feeling-of-Knowing]]"
-  - "[[Feeling-of-Knowing-—-FOK]]"
   - "[[Fluency-Illusion]]"
   - "[[Judgment-of-Learning]]"
   - "[[Zone-of-Proximal-Development]]"
@@ -57,17 +55,15 @@ importance: low
 # Ann-L.-Brown
 
 > [!definition] **Ann-L.-Brown**
-> *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 8 permanent notes.*
+*Auto-generated stub — referenced by 6 permanent notes.*
 
 ## Referenced By
 
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
 - [[Deliberate-Practice]]
-- [[Deliberate-Practice-Log]]
 - [[Feeling-of-Knowing]]
-- [[Feeling-of-Knowing-—-FOK]]
 - [[Fluency-Illusion]]
 - [[Judgment-of-Learning]]
 - [[Zone-of-Proximal-Development]]

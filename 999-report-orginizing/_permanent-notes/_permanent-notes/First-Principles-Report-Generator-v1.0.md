@@ -5,7 +5,6 @@
 title: "First-Principles-Report-Generator-v1.0"
 aliases:
   - "First-Principles-Report-Generator-v1.0"
-  - "First Principles Report Generator v1.0"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

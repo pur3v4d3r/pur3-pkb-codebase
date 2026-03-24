@@ -143,7 +143,7 @@ This needs to be an exhaustive academic treatment that:
 - [[Decision Frameworks]]
 - [[Rational Assessment]]
 - [[Action Possibilities]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Constructivism]]
 
 **Callout Strategy:**
@@ -520,7 +520,7 @@ Metacognition serves as the central integrating mechanism for personal developme
 
 ### Pragmatist Methodology Bridge
 
-Pragmatism provides a methodological bridge for integrating Stoic psychological resilience practices with constructivist learning models. The Dichotomy exemplifies [[Pragmatism|pragmatist]] principles: it is evaluated not by metaphysical truth but by practical consequences, it emphasizes action over abstract theorizing, and it treats knowledge as a tool for navigating experience rather than a mirror of reality.
+Pragmatism provides a methodological bridge for integrating Stoic psychological resilience practices with constructivist learning models. The Dichotomy exemplifies [[pragmatism|pragmatist]] principles: it is evaluated not by metaphysical truth but by practical consequences, it emphasizes action over abstract theorizing, and it treats knowledge as a tool for navigating experience rather than a mirror of reality.
 
 In [[Constructivism|constructivist]] terms, the Dichotomy provides a cognitive scaffold that learners can use to actively construct understanding. It doesn't impose a fixed interpretation but rather provides a framework within which learners generate their own insights about what they can and cannot control in specific contexts. This aligns with adult learning principles from [[Andragogy]]: self-directed learners benefit from structured frameworks that guide without dictating, and the Dichotomy offers exactly this—a heuristic that must be applied through judgment rather than a rule that can be followed mechanically.
 

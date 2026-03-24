@@ -198,11 +198,11 @@ extraction_summary:
 > 
 > **Pre-Sleep Timing**: Conduct reflection 30–60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
 > 
-> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
 > 
 > **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
 > 
-> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
 
 #### 8. [THE-PHILOSOPHY] Untitled *(Line 289)*
 
@@ -379,7 +379,7 @@ extraction_summary:
 - [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Ataraxia]]
 - [[Character Cultivation]]
-- [[Cognitive Distortion]]
+- [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Narrowing]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
@@ -396,7 +396,7 @@ extraction_summary:
 - [[Depression]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Discipline-of-Assent]]
-- [[Emotional Dysregulation]]
+- [[Emotional-Dysregulation|Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
 - [[Episodic-Memory]]
@@ -406,7 +406,7 @@ extraction_summary:
 - [[Habit-Formation|Habit Formation]]
 - [[Hippocampal]]
 - [[Implementation Friction]]
-- [[Implementation Intention]]
+- [[Implementation-Intention|Implementation Intention]]
 - [[Implementation-Intentions]]
 - [[Impressions]]
 - [[Judgments]]
@@ -426,7 +426,7 @@ extraction_summary:
 - [[Neuroplasticity]]
 - [[Pattern Recognition]]
 - [[Practical Philosophy]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Progress Principle]]
@@ -475,7 +475,7 @@ extraction_summary:
 | 16 | [[Practical Philosophy]] | — | — | Philosophy/Practical Philosophy | 148 |
 | 17 | [[practical-philosophy-moc]] | — | — | Philosophy/Practical Philosophy | 148 |
 | 18 | [[Ancient Philosophy]] | — | — | Philosophy/Practical Philosophy | 149 |
-| 19 | [[Emotional Dysregulation]] | — | — | Cognitive-Science | 153 |
+| 19 | [[Emotional-Dysregulation|Emotional Dysregulation]] | — | — | Cognitive-Science | 153 |
 | 20 | [[Cognitive-Bias]] | — | — | Cognitive-Science | 154 |
 | 21 | [[Cognitive-Offloading|Cognitive Offloading]] | — | — | Cognitive-Science | 155 |
 | 22 | [[Prohairesis]] | — | — | Key-Terms/Key-words | 163 |
@@ -510,12 +510,12 @@ extraction_summary:
 | 51 | [[Cognitive-Offloading|Cognitive Offloading]] | cognitive offloading | — | Metacognitive Development through Jou... | 263 |
 | 52 | [[Progress Principle]] | progress principle | — | Metacognitive Development through Jou... | 269 |
 | 53 | [[Habit-Formation|Habit Formation]] | habit automatization | — | Metacognitive Development through Jou... | 274 |
-| 54 | [[Cognitive Distortion]] | cognitive distortions | — | Metacognitive Development through Jou... | 282 |
-| 55 | [[Emotional Dysregulation]] | dysregulation | — | Metacognitive Development through Jou... | 282 |
-| 56 | [[Implementation Intention]] | implementation intention | — | Metacognitive Development through Jou... | 286 |
+| 54 | [[Cognitive-Distortion|Cognitive Distortion]] | cognitive distortions | — | Metacognitive Development through Jou... | 282 |
+| 55 | [[Emotional-Dysregulation|Emotional Dysregulation]] | dysregulation | — | Metacognitive Development through Jou... | 282 |
+| 56 | [[Implementation-Intention|Implementation Intention]] | implementation intention | — | Metacognitive Development through Jou... | 286 |
 | 57 | [[Stoicism]] | — | — | Metacognitive Development through Jou... | 290 |
 | 58 | [[Constructivism]] | — | — | Metacognitive Development through Jou... | 290 |
-| 59 | [[Pragmatism]] | — | — | Metacognitive Development through Jou... | 290 |
+| 59 | [[pragmatism]] | — | — | Metacognitive Development through Jou... | 290 |
 | 60 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 297 |
 | 61 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | Metacognitive Development through Jou... | 297 |
 | 62 | [[Metacognition]] | metacognitive awareness | — | Metacognitive Development through Jou... | 297 |
@@ -582,7 +582,7 @@ extraction_summary:
 | 123 | [[Hippocampal]] | — | — | The Pythagorean Memory Technique | 461 |
 | 124 | [[Amygdalar]] | — | — | The Pythagorean Memory Technique | 462 |
 | 125 | [[Discipline-of-Assent]] | — | — | The Discipline of Assent | 464 |
-| 126 | [[Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 531 |
+| 126 | [[Implementation-Intention|Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 531 |
 | 127 | [[Rumination]] | maladaptive rumination | — | Common Implementation Challenges and ... | 572 |
 
 ---
@@ -655,7 +655,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Ataraxia]]
 - [[Character Cultivation]]
-- [[Cognitive Distortion]]
+- [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Narrowing]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
@@ -672,7 +672,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Depression]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Discipline-of-Assent]]
-- [[Emotional Dysregulation]]
+- [[Emotional-Dysregulation|Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
 - [[Episodic-Memory]]
@@ -682,7 +682,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Habit-Formation|Habit Formation]]
 - [[Hippocampal]]
 - [[Implementation Friction]]
-- [[Implementation Intention]]
+- [[Implementation-Intention|Implementation Intention]]
 - [[Implementation-Intentions]]
 - [[Impressions]]
 - [[Judgments]]
@@ -702,7 +702,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Neuroplasticity]]
 - [[Pattern Recognition]]
 - [[Practical Philosophy]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Progress Principle]]

@@ -75,7 +75,7 @@ The teaching-learning relationship involves a complex interplay where instructor
 
 The conceptualization of teaching methods has evolved dramatically across centuries, moving from the Socratic questioning methods of ancient Greece through medieval scholastic traditions to the progressive education movements of the 20th century. Each historical period contributed distinct insights into how humans learn and how instruction might be optimized. The scientific study of human learning dates back over 2000 years to Aristotle and Plato, with particularly rapid growth in educational theory development occurring in the last thirty years.
 
-Modern pedagogy distinguishes itself from historical approaches through systematic integration of empirical research from [[Cognitive-Psychology]], [[Neuroscience]], and [[Educational-Psychology]]. This evidence-based orientation has transformed pedagogy from an intuitive art practiced through apprenticeship into a disciplined field supported by rigorous research methodologies including [[Randomized Controlled Trials]], [[Meta-Analysis]], and [[Longitudinal Studies]].
+Modern pedagogy distinguishes itself from historical approaches through systematic integration of empirical research from [[cognitive-psychology]], [[Neuroscience]], and [[Educational-Psychology]]. This evidence-based orientation has transformed pedagogy from an intuitive art practiced through apprenticeship into a disciplined field supported by rigorous research methodologies including [[Randomized Controlled Trials]], [[Meta-Analysis]], and [[Longitudinal Studies]].
 
 ### The Pedagogy-Andragogy-Heutagogy Continuum
 

@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Obsidian"
+title: "obsidian"
 aliases:
-  - "Obsidian"
+  - "obsidian"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,29 +23,24 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 4
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Double-Ignorance]]"
-  - "[[Dunning-Kruger-Effect]]"
-  - "[[Epistemic-Accuracy-Architecture-—-EAA]]"
-  - "[[Hard-Easy-Effect]]"
-  - "[[Overconfidence-Effect]]"
-  - "[[Prediction-Performance-Gap]]"
-  - "[[Socratic-Ignorance-Knowing-One's-Ignorance]]"
-  - "[[The-Epistemic-Accuracy-Architecture-A-Four-Dimension-Framework-for-PKB-Knowledge]]"
-  - "[[The-Epistemic-Honesty-Flywheel]]"
+  - "[[Learning-Session-Overview]]"
+  - "[[Research-Context]]"
+  - "[[Research-Question]]"
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -55,21 +50,16 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Obsidian
+# obsidian
 
-> [!definition] **Obsidian**
-> *Stub note — tool/platform referenced by 9 permanent notes. Expand with purpose, key features, and PKB integration patterns.*
+> [!definition] **obsidian**
+> *Stub note — tool/platform referenced by 4 permanent notes. Expand with purpose, key features, and PKB integration patterns.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 4 permanent notes.*
 
 ## Referenced By
 
-- [[Double-Ignorance]]
-- [[Dunning-Kruger-Effect]]
-- [[Epistemic-Accuracy-Architecture-—-EAA]]
-- [[Hard-Easy-Effect]]
-- [[Overconfidence-Effect]]
-- [[Prediction-Performance-Gap]]
-- [[Socratic-Ignorance-Knowing-One's-Ignorance]]
-- [[The-Epistemic-Accuracy-Architecture-A-Four-Dimension-Framework-for-PKB-Knowledge]]
-- [[The-Epistemic-Honesty-Flywheel]]
+- [[Learning-Session-Overview]]
+- [[Research-Context]]
+- [[Research-Question]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

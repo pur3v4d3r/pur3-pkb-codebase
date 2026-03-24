@@ -24,15 +24,15 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 32
+referenced-by-count: 41
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -60,9 +60,9 @@ importance: high
 # Metacognition-and-Self-Regulated-Learning
 
 > [!definition] **Metacognition-and-Self-Regulated-Learning**
-> *Stub note — concept referenced by 32 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 41 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 32 permanent notes.*
+*Auto-generated stub — referenced by 41 permanent notes.*
 
 ## Referenced By
 
@@ -76,7 +76,8 @@ importance: high
 - [[Cognitive-Load-Theory]]
 - [[Competence]]
 - [[Conditional-Regard]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
+- [[Context-Regulation]]
 - [[Controlled-Regulation]]
 - [[Controlling-Environment]]
 - [[Critical-Thinking]]
@@ -85,5 +86,4 @@ importance: high
 - [[Effectance]]
 - [[Epistemic-Cognition]]
 - [[Identified-Regulation]]
-- [[Inductive-Reasoning]]
-- *...and 12 more permanent notes*
+- *...and 21 more permanent notes*

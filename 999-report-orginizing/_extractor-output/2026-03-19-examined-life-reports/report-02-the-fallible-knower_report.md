@@ -332,7 +332,7 @@ extraction_summary:
 - [[Metacognitive-Self-Regulation|metacognitive self-regulation]]
 - [[radical constructivism]]
 - [[Schema]]
-- [[Warranted-Assertibility|warranted assertibility]]
+- [[warranted-assertibility|warranted assertibility]]
 
 ### All Occurrences
 
@@ -355,7 +355,7 @@ extraction_summary:
 | 15 | [[Fallibilism]] | — | — | The Pragmatist Revolution in Epistemo... | 235 |
 | 16 | [[William-James|William James]] | — | — | The Pragmatist Revolution in Epistemo... | 236 |
 | 17 | [[John-Dewey|John Dewey]] | — | — | The Pragmatist Revolution in Epistemo... | 236 |
-| 18 | [[Warranted-Assertibility|warranted assertibility]] | — | — | The Pragmatist Revolution in Epistemo... | 236 |
+| 18 | [[warranted-assertibility|warranted assertibility]] | — | — | The Pragmatist Revolution in Epistemo... | 236 |
 | 19 | [[Fallibilism]] | — | — | The Pragmatist Revolution in Epistemo... | 239 |
 | 20 | [[Jean-Piaget|Jean Piaget]] | — | — | Constructivism: Knowledge as Built, N... | 243 |
 | 21 | [[Genetic-Epistemology|genetic epistemology]] | — | — | Constructivism: Knowledge as Built, N... | 243 |
@@ -467,7 +467,7 @@ extraction_summary:
 - [[Metacognitive-Self-Regulation|metacognitive self-regulation]]
 - [[radical constructivism]]
 - [[Schema]]
-- [[Warranted-Assertibility|warranted assertibility]]
+- [[warranted-assertibility|warranted assertibility]]
 
 ### Frontmatter Relationships
 
@@ -479,7 +479,7 @@ extraction_summary:
 
 #### Related
 
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Constructivism|Constructivism (Educational Psychology)]]
 - [[Schema-Theory|Schema Theory]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]

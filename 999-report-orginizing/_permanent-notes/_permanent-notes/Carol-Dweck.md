@@ -24,15 +24,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 50
+referenced-by-count: 46
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -46,8 +46,8 @@ see-also:
   - "[[Belonging-Uncertainty]]"
   - "[[Challenge-Avoidance]]"
   - "[[Co-Constructed-Criteria]]"
-  - "[[Confirmation-Bias]]"
-  - "[[Deliberate-Practice]]"
+  - "[[Dissolved-Assumption]]"
+  - "[[Ego-Involving-Feedback]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,9 +60,9 @@ importance: high
 # Carol-Dweck
 
 > [!definition] **Carol-Dweck**
-> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 46 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 50 permanent notes.*
+*Auto-generated stub — referenced by 46 permanent notes.*
 
 ## Referenced By
 
@@ -74,16 +74,16 @@ importance: high
 - [[Belonging-Uncertainty]]
 - [[Challenge-Avoidance]]
 - [[Co-Constructed-Criteria]]
-- [[Confirmation-Bias]]
-- [[Deliberate-Practice]]
 - [[Dissolved-Assumption]]
 - [[Ego-Involving-Feedback]]
 - [[Entity-Theory]]
 - [[Entity-Theory-of-Intelligence]]
-- [[Extrinsic-Motivation]]
 - [[Feed-Forward]]
-- [[Feeling-of-Knowing]]
 - [[Fixed-Mindset]]
-- [[Flavell's-Metacognitive-Framework]]
 - [[Formative-Assessment]]
-- *...and 30 more permanent notes*
+- [[Formative-Feedback]]
+- [[Goal-Orientation]]
+- [[Growth-Mindset]]
+- [[Helpless-Response-Pattern]]
+- [[Implicit-Theory-of-Intelligence]]
+- *...and 26 more permanent notes*

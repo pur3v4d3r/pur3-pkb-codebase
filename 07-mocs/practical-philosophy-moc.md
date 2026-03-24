@@ -33,8 +33,8 @@ link-up:
   - "[[pkb-&-pkm-moc]]"
 link-related:
   - "[[Stoicism]]"
-  - "[[epistemology]]"
-  - "[[Pragmatism]]"
+  - "[[Epistemology]]"
+  - "[[pragmatism]]"
 philosophy-filter: all
 ---
 
@@ -289,7 +289,7 @@ if (epistemicPages.length > 0) {
 > [!principle-point] Domain Focus
 > [**Pragmatism-Core-Thesis**:: The philosophical tradition holding that the meaning and truth of ideas are determined by their practical consequences—"truth is what works" in guiding successful action and inquiry.]
 
-[[Pragmatism]] provides the meta-philosophical framework for this entire MOC, emphasizing that philosophical concepts earn their place through **practical utility**.
+[[pragmatism]] provides the meta-philosophical framework for this entire MOC, emphasizing that philosophical concepts earn their place through **practical utility**.
 
 ### 🔗 Pragmatism Network
 
@@ -318,7 +318,7 @@ if (pragmaticPages.length > 0) {
 > [**Pragmatic-Maxim**:: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." — Charles Sanders Peirce]
 
 **Primary Notes:**
-- [[Pragmatism]] — *Philosophical foundation*
+- [[pragmatism]] — *Philosophical foundation*
 - [[Practical Wisdom]] — *Phronesis*
 - [[Instrumentalism]] — *Ideas as tools*
 
@@ -386,7 +386,7 @@ if (bridges.length > 0) {
 | Epistemology Concept | Connects To | Integration Insight |
 |----------------------|-------------|---------------------|
 | [[Epistemic-Cognition]] | [[Metacognition]] | Cognitive science operationalizes epistemology |
-| [[Evolutionary Epistemology]] | [[Pragmatism]] | Both naturalize knowledge processes |
+| [[Evolutionary Epistemology]] | [[pragmatism]] | Both naturalize knowledge processes |
 | [[Confidence Calibration]] | [[Stoic Reservation]] | Ancient and modern uncertainty management |
 
 ---
@@ -520,7 +520,7 @@ action:
 **Foundation Layer:**
 1. [[Stoicism]] → [[Dichotomy-of-Control]] → [[Locus-of-Control]]
 2. [[Epistemology]] → [[Epistemic Accountability]]
-3. [[Pragmatism]] → Evaluate philosophy by practical results
+3. [[pragmatism]] → Evaluate philosophy by practical results
 
 **Application Layer:**
 1. [[Stoic-Philosophy]] → Daily practice techniques
@@ -546,7 +546,7 @@ action:
   - [[learning-theory-moc]] — *Education philosophy*
 - **Down:** 
   - [[Stoicism|Stoicism Index]]
-  - [[epistemology|Epistemology Index]]
+  - [[Epistemology|Epistemology Index]]
 
 ```dataviewjs
 // 🔗 ORPHAN DETECTION - Philosophy notes not linked from this MOC
@@ -610,7 +610,7 @@ if (orphans.length > 0) {
    - *Depth Potential*: Document specific Stoic-CBT technique parallels
    - *Knowledge Graph Role*: Connect ancient philosophy to contemporary psychology
 
-3. **[[Phenomenology]]**
+3. **[[phenomenology]]**
    - *Connection*: Philosophical examination of conscious experience relevant to both Stoicism and epistemology
    - *Depth Potential*: Husserl, Heidegger, and their relevance to self-knowledge
    - *Knowledge Graph Role*: Expand Philosophy of Mind branch

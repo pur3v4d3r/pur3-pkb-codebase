@@ -176,7 +176,7 @@ related:
 
 broader:
   - "[[Cognitive-Architecture]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
 
 narrower:
   - "[[Intrinsic-Cognitive-Load]]"

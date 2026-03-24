@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,14 +81,6 @@ see-also:
   - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
   - "[[Peirce|Peirce]]"
   - "[[Analogical-Reasoning|Analogical Reasoning]]"
-  - "[[Deductive-Reasoning|Deductive Reasoning]]"
-  - "[[Inductive-Reasoning|Inductive Reasoning]]"
-  - "[[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]"
-  - "[[Design-Thinking-Pedagogy|Design Thinking Pedagogy]]"
-  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
-  - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
-  - "[[Peirce|Peirce]]"
-  - "[[Analogical-Reasoning|Analogical Reasoning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -121,20 +113,20 @@ importance: high
 
 ## Core Explanation
 
+> [!evidence] Supporting Evidence
+> The locus classicus for Peirce's mature formulation of abduction, containing the canonical statement of the abductive syllogism and the argument that all scientific ideas originate through abduction. Essential for any serious engagement with the philosophical foundations of the concept. Readers should also consult CP 2.623–2.625 for the early formulation of abduction in terms of the syllogistic components (Rule, Case, Result).
+
+> [!evidence] Supporting Evidence
+> The most systematic philosophical treatment of IBE, distinguishing the "loveliest" from the "likeliest" explanation and providing responses to objections including the bad lot problem. Lipton's distinction between different explanatory virtues is directly applicable to educational assessment of student hypothesis quality. Chapter 4 on contrastive explanation is particularly valuable for instructional design.
+
+> [!evidence] Supporting Evidence
+> The work that introduced the theory-ladenness of observation into philosophy of science and reconnected it with Peirce's abduction. Hanson's account of how scientific discoveries are possible — how a scientist can "see" a new phenomenon in a gestalt shift — anticipates much of the cognitive science of scientific reasoning. Chapter 4, "Theories," contains the central argument.
+
 > [!analytical-insight] Key Insight
 > Among the three forms of inference, only abduction generates genuinely *new* content — hypotheses that were not already present in the premises. Deduction is truth-preserving but non-ampliative (it cannot tell you more than the premises already contain). Induction is ampliative but not creative (it generalizes from what has already been observed). Abduction is both ampliative and creative: it projects an explanatory structure that was not directly observed and was not logically necessitated.…
 
 > [!analytical-insight] Key Insight
 > Lipton argued that explanation is typically contrastive: we explain why *P* rather than *Q* (where *Q* is a foil — the alternative that didn't happen). The contrastive structure helps sharpen abductive inference by clarifying what a good explanation must account for. A hypothesis is good not merely if it explains the observed fact, but if it explains *why that fact rather than the obvious alternative*. This contrastive dimension has significant pedagogical implications: teaching students to ask…
-
-> [!evidence] Supporting Evidence *(from abductive-reasoning-foundational-report-2026-03-06.md)*
-> The locus classicus for Peirce's mature formulation of abduction, containing the canonical statement of the abductive syllogism and the argument that all scientific ideas originate through abduction. Essential for any serious engagement with the philosophical foundations of the concept. Readers should also consult CP 2.623–2.625 for the early formulation of abduction in terms of the syllogistic components (Rule, Case, Result).
-
-> [!evidence] Supporting Evidence *(from abductive-reasoning-foundational-report-2026-03-06.md)*
-> The most systematic philosophical treatment of IBE, distinguishing the "loveliest" from the "likeliest" explanation and providing responses to objections including the bad lot problem. Lipton's distinction between different explanatory virtues is directly applicable to educational assessment of student hypothesis quality. Chapter 4 on contrastive explanation is particularly valuable for instructional design.
-
-> [!evidence] Supporting Evidence *(from abductive-reasoning-foundational-report-2026-03-06.md)*
-> The work that introduced the theory-ladenness of observation into philosophy of science and reconnected it with Peirce's abduction. Hanson's account of how scientific discoveries are possible — how a scientist can "see" a new phenomenon in a gestalt shift — anticipates much of the cognitive science of scientific reasoning. Chapter 4, "Theories," contains the central argument.
 
 > [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
 > The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
@@ -165,9 +157,6 @@ importance: high
 
 > [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A consistent finding in cognitive psychology is that human reasoners default to System 1 heuristics even in situations that call for System 2 deliberation. This means that without deliberate instruction and practice, learners will produce pseudo-deductive and pseudo-inductive conclusions — conclusions that feel reasoned but actually reflect intuitive shortcuts. This has profound implications for education.
-
-
-
 
 
 
@@ -214,16 +203,14 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from abductive-reasoning-foundational-report-2026-03-06.md)*
-> Before reading further, pause and recall a time you formed a hypothesis — about why a machine wasn't working, why a student seemed disengaged, why a historical event unfolded as it did, or why an experiment produced an unexpected result. What moved you from noticing the surprising fact to proposing an explanation? Was it logical necessity? Statistical regularity? Or something more like an imaginative leap? Hold that experience in mind as you read — you will encounter its theoretical description within the next several thousand words.
+> [!reflection] **Reflect**
+> Before reading further, pause and recall a time you formed a hypothesis — about why a machine wasn't working, why a student seemed disengaged, why a historical event unfolded as it did, or why an experiment produced an unexpected result. What moved you from noticing the surprising fact to proposing an explanation? Was it logical necessity? Statistical regularity? Or something more like an imaginative leap? Hold that experience in mind as you read — you will encounter its theoretical description…
 
-> [!reflection] **Reflect** *(from abductive-reasoning-foundational-report-2026-03-06.md)*
+> [!reflection] **Reflect**
 > 1. The distinction between deduction, induction, and abduction is not merely a textbook taxonomy — it maps onto fundamentally different cognitive acts. Which of the three most resembles how you typically approach novel problems? What might this suggest about blind spots in your thinking?
-> 2. Peirce's claim that science advances through abduction is both celebrated and contested. Can you think of a scientific discovery that appears to have followed an abductive pattern — where a surprising observation prompted a creative hypothesis?
-> 3. The distinction between the context of discovery and the context of justification has been criticized for being too clean. Do you think the process of generating a hypothesis is ever entirely separate from the process of evaluating it?
+> 2. Peirce's claim that science advances through abduction is both celebrated and contested. Can you think of a scientific discovery that appears to have followed an abductive pattern — where a surprising…
 
 > [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
 > Before reading further, take a moment to surface your own understanding of inductive reasoning. Can you produce an example from your own learning or professional life where you reasoned from specific observations to a general conclusion? Were you confident in that conclusion? What made you more or less certain? And what conditions, you suspect, would have led you to revise it? Holding these intuitions in mind will make the theoretical treatment that follows considerably more alive.
@@ -245,7 +232,6 @@ importance: high
 
 
 
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -258,60 +244,7 @@ importance: high
 [[Deductive-Reasoning|Deductive Reasoning]] · [[Inductive-Reasoning|Inductive Reasoning]] · [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] · [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Peirce]] · [[Analogical-Reasoning|Analogical Reasoning]] · [[philosophy-of-science|Philosophy of Science]] · [[Hans-Reichenbach|Hans Reichenbach]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Gilbert-Harman|Gilbert Harman]]
 
 **Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md, inductive-reasoning-foundational-report-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
-[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[philosophy-of-science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]] * [[Embodied-Cognition|Embodied Cognition]]
-
-**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
-
-**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
-- [[Scientific-Method|Scientific Method]]
-
-**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
-- [[Scientific-Method|Scientific Method]]
-
-**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
-
-**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
-- [[Scientific-Method|Scientific Method]]
-
-**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
-- [[Scientific-Method|Scientific Method]]
-
-**Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md, inductive-reasoning-foundational-report-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
-[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[philosophy-of-science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]] * [[Embodied-Cognition|Embodied Cognition]]
+[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[philosophy-of-science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]] * [[Embodied-Cognition|Embodied Cognition]] * [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
 
 **Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
@@ -372,6 +305,93 @@ importance: high
 
 
 
+## References
+
+- **Peirce, C. S. (1903). *The Harvard Lectures on Pragmatism*. In C. Hartshorne & P. Weiss (Eds.), *Collected Papers of Charles Sanders Peirce* (Vol. 5). Harvard University Press.**: The locus classicus for Peirce's mature formulation of abduction, containing the canonical statement of the abductive syllogism and the argument that all scientific ideas originate through abduction. Essential for any serious engagement with the philosophical foundations of the concept. Readers should also consult CP 2.623–2.625 for the early formulation of abduction in terms of the syllogistic components (Rule, Case, Result).
+- **Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). Routledge.**: The most systematic philosophical treatment of IBE, distinguishing the "loveliest" from the "likeliest" explanation and providing responses to objections including the bad lot problem. Lipton's distinction between different explanatory virtues is directly applicable to educational assessment of student hypothesis quality. Chapter 4 on contrastive explanation is particularly valuable for instructional design.
+- **Hanson, N. R. (1958). *Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science*. Cambridge University Press.**: The work that introduced the theory-ladenness of observation into philosophy of science and reconnected it with Peirce's abduction. Hanson's account of how scientific discoveries are possible — how a scientist can "see" a new phenomenon in a gestalt shift — anticipates much of the cognitive science of scientific reasoning. Chapter 4, "Theories," contains the central argument.
+- **Magnani, L. (2009). *Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning*. Springer.**: The most comprehensive treatment of abduction from a cognitive science perspective, distinguishing sentential, model-based, and manipulative abduction and situating the concept within extended and distributed cognition frameworks. Essential for any course or curriculum design project that takes embodied and hands-on learning seriously.
+- **Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48.**: The empirical study that established the Dual Space Search (SDDS) model of scientific discovery, demonstrating that both experts and children engage in hypothesis-first search strategies. Provides the most important empirical evidence for the naturalness of abductive reasoning and for the expert-novice differences in hypothesis generation quality.
+
+- **Peirce, C. S. (1903). *The Harvard Lectures on Pragmatism*. In C. Hartshorne & P. Weiss (Eds.), *Collected Papers of Charles Sanders Peirce* (Vol. 5). Harvard University Press.**: The locus classicus for Peirce's mature formulation of abduction, containing the canonical statement of the abductive syllogism and the argument that all scientific ideas originate through abduction. Essential for any serious engagement with the philosophical foundations of the concept. Readers should also consult CP 2.623–2.625 for the early formulation of abduction in terms of the syllogistic components (Rule, Case, Result).
+
+- **Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). Routledge.**: The most systematic philosophical treatment of IBE, distinguishing the "loveliest" from the "likeliest" explanation and providing responses to objections including the bad lot problem. Lipton's distinction between different explanatory virtues is directly applicable to educational assessment of student hypothesis quality. Chapter 4 on contrastive explanation is particularly valuable for instructional design.
+
+- **Hanson, N. R. (1958). *Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science*. Cambridge University Press.**: The work that introduced the theory-ladenness of observation into philosophy of science and reconnected it with Peirce's abduction. Hanson's account of how scientific discoveries are possible — how a scientist can "see" a new phenomenon in a gestalt shift — anticipates much of the cognitive science of scientific reasoning. Chapter 4, "Theories," contains the central argument.
+
+- **Magnani, L. (2009). *Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning*. Springer.**: The most comprehensive treatment of abduction from a cognitive science perspective, distinguishing sentential, model-based, and manipulative abduction and situating the concept within extended and distributed cognition frameworks. Essential for any course or curriculum design project that takes embodied and hands-on learning seriously.
+
+- **Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48.**: The empirical study that established the Dual Space Search (SDDS) model of scientific discovery, demonstrating that both experts and children engage in hypothesis-first search strategies. Provides the most important empirical evidence for the naturalness of abductive reasoning and for the expert-novice differences in hypothesis generation quality.
+
+- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
+
+- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
+
+- **Peirce, C. S. (1878). "Deduction, Induction, and Hypothesis." *Popular Science Monthly*, 13, 470–482.**: The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+- **Kuhn, D. (1991). *The Skills of Argument*. Cambridge University Press.**: A landmark developmental study of argumentative reasoning in children, adolescents, and adults. Kuhn demonstrates that the capacity to distinguish evidence from theory and evaluate argument quality develops slowly and unevenly. Essential for Phase III's discussion of developmental trajectories. Directly challenges over-optimistic assumptions about learners' natural reasoning capacity.
+
+- **Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The most comprehensive meta-analysis of educational interventions ever conducted, synthesizing effect sizes across hundreds of studies. Relevant to Phase V for its findings on metacognitive strategies (d = 0.69), problem-based learning, and direct instruction. An essential reference for evidence-based claims about instructional effectiveness.
+
+- **Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987). "Teaching Reasoning." *Science*, 238(4827), 625–631.**: Pivotal experimental study demonstrating that statistical (inductive) reasoning can transfer across domains under appropriate training conditions. Directly supports Phase III's discussion of the transfer debate and offers empirical grounds for cautious optimism about reasoning instruction. Supports Phase V's best-practice recommendations for scaffolded inductive learning.
+
+- **Peirce, C. S. (1878). "Deduction, Induction, and Hypothesis." *Popular Science Monthly*, 13, 470–482.**: The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+- **Kuhn, D. (1991). *The Skills of Argument*. Cambridge University Press.**: A landmark developmental study of argumentative reasoning in children, adolescents, and adults. Kuhn demonstrates that the capacity to distinguish evidence from theory and evaluate argument quality develops slowly and unevenly. Essential for Phase III's discussion of developmental trajectories. Directly challenges over-optimistic assumptions about learners' natural reasoning capacity.
+
+- **Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The most comprehensive meta-analysis of educational interventions ever conducted, synthesizing effect sizes across hundreds of studies. Relevant to Phase V for its findings on metacognitive strategies (d = 0.69), problem-based learning, and direct instruction. An essential reference for evidence-based claims about instructional effectiveness.
+
+- **Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987). "Teaching Reasoning." *Science*, 238(4827), 625–631.**: Pivotal experimental study demonstrating that statistical (inductive) reasoning can transfer across domains under appropriate training conditions. Directly supports Phase III's discussion of the transfer debate and offers empirical grounds for cautious optimism about reasoning instruction. Supports Phase V's best-practice recommendations for scaffolded inductive learning.
+
+- **Peirce, C. S. (1903). *The Harvard Lectures on Pragmatism*. In C. Hartshorne & P. Weiss (Eds.), *Collected Papers of Charles Sanders Peirce* (Vol. 5). Harvard University Press.**: The locus classicus for Peirce's mature formulation of abduction, containing the canonical statement of the abductive syllogism and the argument that all scientific ideas originate through abduction. Essential for any serious engagement with the philosophical foundations of the concept. Readers should also consult CP 2.623–2.625 for the early formulation of abduction in terms of the syllogistic components (Rule, Case, Result).
+
+- **Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). Routledge.**: The most systematic philosophical treatment of IBE, distinguishing the "loveliest" from the "likeliest" explanation and providing responses to objections including the bad lot problem. Lipton's distinction between different explanatory virtues is directly applicable to educational assessment of student hypothesis quality. Chapter 4 on contrastive explanation is particularly valuable for instructional design.
+
+- **Hanson, N. R. (1958). *Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science*. Cambridge University Press.**: The work that introduced the theory-ladenness of observation into philosophy of science and reconnected it with Peirce's abduction. Hanson's account of how scientific discoveries are possible — how a scientist can "see" a new phenomenon in a gestalt shift — anticipates much of the cognitive science of scientific reasoning. Chapter 4, "Theories," contains the central argument.
+
+- **Magnani, L. (2009). *Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning*. Springer.**: The most comprehensive treatment of abduction from a cognitive science perspective, distinguishing sentential, model-based, and manipulative abduction and situating the concept within extended and distributed cognition frameworks. Essential for any course or curriculum design project that takes embodied and hands-on learning seriously.
+
+- **Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48.**: The empirical study that established the Dual Space Search (SDDS) model of scientific discovery, demonstrating that both experts and children engage in hypothesis-first search strategies. Provides the most important empirical evidence for the naturalness of abductive reasoning and for the expert-novice differences in hypothesis generation quality.
+
+- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
+
+- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
+
+- **Peirce, C. S. (1878). "Deduction, Induction, and Hypothesis." *Popular Science Monthly*, 13, 470–482.**: The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+- **Kuhn, D. (1991). *The Skills of Argument*. Cambridge University Press.**: A landmark developmental study of argumentative reasoning in children, adolescents, and adults. Kuhn demonstrates that the capacity to distinguish evidence from theory and evaluate argument quality develops slowly and unevenly. Essential for Phase III's discussion of developmental trajectories. Directly challenges over-optimistic assumptions about learners' natural reasoning capacity.
+
+- **Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The most comprehensive meta-analysis of educational interventions ever conducted, synthesizing effect sizes across hundreds of studies. Relevant to Phase V for its findings on metacognitive strategies (d = 0.69), problem-based learning, and direct instruction. An essential reference for evidence-based claims about instructional effectiveness.
+
+- **Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987). "Teaching Reasoning." *Science*, 238(4827), 625–631.**: Pivotal experimental study demonstrating that statistical (inductive) reasoning can transfer across domains under appropriate training conditions. Directly supports Phase III's discussion of the transfer debate and offers empirical grounds for cautious optimism about reasoning instruction. Supports Phase V's best-practice recommendations for scaffolded inductive learning.
+
+- **Peirce, C. S. (1878). "Deduction, Induction, and Hypothesis." *Popular Science Monthly*, 13, 470–482.**: The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+- **Kuhn, D. (1991). *The Skills of Argument*. Cambridge University Press.**: A landmark developmental study of argumentative reasoning in children, adolescents, and adults. Kuhn demonstrates that the capacity to distinguish evidence from theory and evaluate argument quality develops slowly and unevenly. Essential for Phase III's discussion of developmental trajectories. Directly challenges over-optimistic assumptions about learners' natural reasoning capacity.
+
+- **Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The most comprehensive meta-analysis of educational interventions ever conducted, synthesizing effect sizes across hundreds of studies. Relevant to Phase V for its findings on metacognitive strategies (d = 0.69), problem-based learning, and direct instruction. An essential reference for evidence-based claims about instructional effectiveness.
+
+- **Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987). "Teaching Reasoning." *Science*, 238(4827), 625–631.**: Pivotal experimental study demonstrating that statistical (inductive) reasoning can transfer across domains under appropriate training conditions. Directly supports Phase III's discussion of the transfer debate and offers empirical grounds for cautious optimism about reasoning instruction. Supports Phase V's best-practice recommendations for scaffolded inductive learning.
 
 
 
@@ -380,3 +400,54 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on three intersecting intellectual traditions: (1) the philosophical tradition originating with Peirce and extending through analytic philosophy of science (Hanson, Harman, Lipton, van Fraassen), which provides the conceptual and normative framework for understanding what abductive inference is and when it is well-performed; (2) the cognitive science tradition (Klahr, Dunbar, Magnani), which provides empirical and theoretical accounts of how abductive reasoning actually operates in human minds and in extended cognitive systems; and (3) the educational research tradition…
+
+---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> This report synthesizes knowledge from three intellectual traditions: philosophy of science and epistemology (Hume, Mill, Popper, Bacon), cognitive science and learning science (Bayesian cognition, dual-process theory, analogical reasoning research, statistical learning), and educational research (inquiry-based learning meta-analyses, theory-evidence coordination, instructional design). Claims about the philosophical status of induction reflect the consensus position in philosophy of science that the problem of induction is genuine and lacks a fully satisfying logical solution, while probabilistic accounts represent the most defensible practical response. Claims about cognitive mechanisms reflect the empirical literature in cognitive and developmental psychology, which is robust for some phenomena (analogical mapping, pattern extraction, confirmation bias) and more exploratory for others (individual differences in inductive reasoning, cross-cultural variation). Claims about instructional design reflect primarily the meta-analytic literature on inquiry-based learning; the evidence base is moderate to strong for structured inquiry in science education and thinner for other domains. The synthetic connections between inductive reasoning, metacognition, and critical thinking are original intellectual integrations that go beyond what any single source establishes, and should be understood as theoretically motivated proposals rather than empirically established findings.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> This report draws primarily on the Western philosophical tradition in logic (Aristotle, Peirce), the cognitive psychology literature on reasoning and dual-process theory (Kahneman, Stanovich, Kuhn), and the educational psychology literature on instructional effectiveness (Hattie, Nisbett, Kirschner et al.). The synthesis offered here — particularly the framing of reasoning literacy as an overarching educational goal and the ecological view of the three reasoning modes as complementary rather than hierarchical — represents an original integration that goes beyond any single source. Claims about empirical effect sizes are attributed to specific studies. Developmental claims reflect the post-Piagetian consensus rather than any single theorist's position. The limitation regarding WEIRD populations is an honest acknowledgment of a gap in the literature that the author has not resolved but judges important to flag.
+
+
+
+## Source Attribution
+
+**Extracted from:** [[abductive-reasoning-foundational-report-2026-03-06]]

@@ -294,7 +294,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Overview *(Line 186)*
 
 > [!abstract] Overview
-> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard Design]] and [[PKB Architecture]] implementations.
+> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard-Design|Dashboard Design]] and [[PKB Architecture]] implementations.
 
 #### 4. [IMPORTANT] Inline Query Fundamentals *(Line 189)*
 
@@ -350,7 +350,7 @@ extraction_summary:
 #### 13. [EXAMPLE] Content Analysis *(Line 638)*
 
 > [!example] Content Analysis
-> Combine multiple metrics to derive useful composite values for [[Dashboard Design]].
+> Combine multiple metrics to derive useful composite values for [[Dashboard-Design|Dashboard Design]].
 
 #### 14. [KEY-CLAIM] Progressive Development *(Line 677)*
 
@@ -457,7 +457,7 @@ extraction_summary:
 - [[Andragogy]]
 - [[Conditional Logic]]
 - [[DQL]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview]]
 - [[Dataview Inline Queries: In-Note Metadata Panel]]
 - [[DataviewJS Advanced Patterns]]
@@ -497,10 +497,10 @@ extraction_summary:
 | 13 | [[Conditional Logic]] | — | — | Tags & Classification | 176 |
 | 14 | [[String Manipulation]] | — | — | Tags & Classification | 176 |
 | 15 | [[File Properties]] | — | — | Tags & Classification | 176 |
-| 16 | [[Dashboard Design]] | — | — | Tags & Classification | 176 |
+| 16 | [[Dashboard-Design|Dashboard Design]] | — | — | Tags & Classification | 176 |
 | 17 | [[PKB Architecture]] | — | — | Tags & Classification | 176 |
 | 18 | [[Dataview]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
-| 19 | [[Dashboard Design]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
+| 19 | [[Dashboard-Design|Dashboard Design]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
 | 20 | [[PKB Architecture]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
 | 21 | [[Obsidian]] | — | — | A. Basic File Metadata Access | 205 |
 | 22 | [[Knowledge-Graph|Knowledge Graph]] | — | — | B. Link & Relationship Analysis | 245 |
@@ -510,7 +510,7 @@ extraction_summary:
 | 26 | [[Dataview]] | — | — | C. List Aggregations | 474 |
 | 27 | [[Dataview]] | — | — | A. String Operations | 571 |
 | 28 | [[" + l + "]] | — | — | 32. **Advanced List Formatting** | 627 |
-| 29 | [[Dashboard Design]] | — | — | A. Reading Time Estimation | 639 |
+| 29 | [[Dashboard-Design|Dashboard Design]] | — | — | A. Reading Time Estimation | 639 |
 | 30 | [[Zettelkasten]] | — | — | 34. **Note Quality Indicators** | 663 |
 | 31 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 37. **Review Scheduling** | 701 |
 | 32 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 41. **Network Status Panel** | 755 |
@@ -520,7 +520,7 @@ extraction_summary:
 | 36 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 57. **Study Progress** | 987 |
 | 37 | [[Zettelkasten]] | — | — | A. Serendipity & Discovery | 1075 |
 | 38 | [[DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 1124 |
-| 39 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 1127 |
+| 39 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 1127 |
 | 40 | [[Templater Integration with Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 1129 |
 | 41 | [[Templater]] | — | — | 🔗 Related Topics for PKB Expansion | 1130 |
 | 42 | [[PKB Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1132 |
@@ -1358,7 +1358,7 @@ LIMIT 15
 - [[Andragogy]]
 - [[Conditional Logic]]
 - [[DQL]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview]]
 - [[Dataview Inline Queries: In-Note Metadata Panel]]
 - [[DataviewJS Advanced Patterns]]

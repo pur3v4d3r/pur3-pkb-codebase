@@ -5,7 +5,6 @@
 title: "Ann-Brown"
 aliases:
   - "Ann-Brown"
-  - "Ann Brown"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 22
+referenced-by-count: 20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,12 +41,12 @@ see-also:
   - "[[Attribution-Style]]"
   - "[[Autonomy-Need]]"
   - "[[Critical-Thinking]]"
-  - "[[Deliberate-Practice]]"
   - "[[Desirable-Difficulties]]"
   - "[[Disposition]]"
   - "[[Epistemic-Cognition]]"
   - "[[Evaluation]]"
   - "[[Extrinsic-Motivation]]"
+  - "[[Inference]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,9 +59,9 @@ importance: high
 # Ann-Brown
 
 > [!definition] **Ann-Brown**
-> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 22 permanent notes.*
+*Auto-generated stub — referenced by 20 permanent notes.*
 
 ## Referenced By
 
@@ -70,13 +69,11 @@ importance: high
 - [[Attribution-Style]]
 - [[Autonomy-Need]]
 - [[Critical-Thinking]]
-- [[Deliberate-Practice]]
 - [[Desirable-Difficulties]]
 - [[Disposition]]
 - [[Epistemic-Cognition]]
 - [[Evaluation]]
 - [[Extrinsic-Motivation]]
-- [[Feeling-of-Knowing]]
 - [[Inference]]
 - [[Intellectual-Standards]]
 - [[Metacognition]]
@@ -86,4 +83,5 @@ importance: high
 - [[Reflective-Judgment]]
 - [[Socratic-Method]]
 - [[Transfer]]
-- *...and 2 more permanent notes*
+- [[Transfer-of-Learning]]
+- [[Weak-Sense-vs.-Strong-Sense-Critical-Thinking]]

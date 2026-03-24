@@ -567,7 +567,7 @@ extraction_summary:
 - [[Externalization-Exercises|Externalization Exercises]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
-- [[Phenomenology]]
+- [[phenomenology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 - [[Portfolio-of-Evidence|Portfolio of Evidence]]
@@ -591,7 +591,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 2 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 3 | [[Phenomenology]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 3 | [[phenomenology]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 4 | [[Cognitive-Science|Cognitive Science]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 5 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 6 | [[Embodied-Cognition|Embodied Cognition]] | — | — | Embodied and Situated Cognition | 192 |
@@ -648,7 +648,7 @@ extraction_summary:
 - [[Externalization-Exercises|Externalization Exercises]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
-- [[Phenomenology]]
+- [[phenomenology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 - [[Portfolio-of-Evidence|Portfolio of Evidence]]

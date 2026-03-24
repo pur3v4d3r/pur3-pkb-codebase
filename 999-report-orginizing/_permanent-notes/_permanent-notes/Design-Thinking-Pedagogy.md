@@ -5,7 +5,6 @@
 title: "Design-Thinking-Pedagogy"
 aliases:
   - "Design-Thinking-Pedagogy"
-  - "Design Thinking Pedagogy"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

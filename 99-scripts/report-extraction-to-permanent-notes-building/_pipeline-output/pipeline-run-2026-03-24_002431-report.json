@@ -1,0 +1,99 @@
+{
+  "run_id": "pipeline-run-2026-03-24_002431",
+  "timestamp": "2026-03-24T00:24:31.919298",
+  "dry_run": false,
+  "summary": {
+    "notes_before": 806,
+    "notes_after": 1751,
+    "notes_created": 0,
+    "notes_updated": 685,
+    "stubs_created": 944,
+    "links_rewritten": 11,
+    "audit_resolution_rate": 0,
+    "audit_orphans": 1
+  },
+  "stages": [
+    {
+      "num": 0,
+      "name": "Pre-Flight",
+      "success": true,
+      "skipped": false,
+      "duration": 0.06,
+      "summary": "Pre-flight PASSED \u2014 806 existing notes, 502 JSON files",
+      "errors": []
+    },
+    {
+      "num": 1,
+      "name": "Extraction",
+      "success": true,
+      "skipped": true,
+      "duration": 0.0,
+      "summary": "Skipped \u2014 using existing extractions",
+      "errors": []
+    },
+    {
+      "num": 2,
+      "name": "Build Notes",
+      "success": true,
+      "skipped": false,
+      "duration": 12.27,
+      "summary": "Created 0 new, updated 685 existing notes",
+      "errors": []
+    },
+    {
+      "num": 2,
+      "name": "Dedicated Notes (2b)",
+      "success": true,
+      "skipped": false,
+      "duration": 0.6,
+      "summary": "Dedicated notes: 2437 defs, 1483 refs collected",
+      "errors": []
+    },
+    {
+      "num": 3,
+      "name": "Generate Stubs",
+      "success": true,
+      "skipped": false,
+      "duration": 1.3,
+      "summary": "Created 944 stub notes (min-refs=3)",
+      "errors": []
+    },
+    {
+      "num": 4,
+      "name": "Resolve Report Links",
+      "success": true,
+      "skipped": false,
+      "duration": 4.12,
+      "summary": "Processed report wiki-links (11 rewrites)",
+      "errors": []
+    },
+    {
+      "num": 5,
+      "name": "Normalise Links",
+      "success": true,
+      "skipped": false,
+      "duration": 5.98,
+      "summary": "Wiki-link normalisation complete",
+      "errors": []
+    },
+    {
+      "num": 6,
+      "name": "Audit",
+      "success": true,
+      "skipped": false,
+      "duration": 3.27,
+      "summary": "Resolution rate: N/A%, Orphans: 1",
+      "errors": []
+    },
+    {
+      "num": 7,
+      "name": "Index",
+      "success": true,
+      "skipped": false,
+      "duration": 3.54,
+      "summary": "Index updated",
+      "errors": []
+    }
+  ],
+  "errors": []
+}

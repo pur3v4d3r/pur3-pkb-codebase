@@ -5,7 +5,6 @@
 title: "Karl-Popper"
 aliases:
   - "Karl-Popper"
-  - "Karl Popper"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,7 +41,7 @@ see-also:
   - "[[Bayesian-Inference]]"
   - "[[Calibration]]"
   - "[[Causal-Induction]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Confirmation-Bias]]"
   - "[[Corroboration]]"
   - "[[Defeasibility]]"
   - "[[Defeat-Defeater]]"
@@ -70,7 +69,7 @@ importance: high
 - [[Bayesian-Inference]]
 - [[Calibration]]
 - [[Causal-Induction]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Corroboration]]
 - [[Defeasibility]]
 - [[Defeat-Defeater]]

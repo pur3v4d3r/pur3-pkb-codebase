@@ -24,15 +24,15 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 13
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,9 +45,9 @@ see-also:
   - "[[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]"
   - "[[Long-Term-Memory]]"
   - "[[Mental-Image]]"
-  - "[[Mental-Model]]"
   - "[[Mental-Simulation]]"
   - "[[Modality-Effect]]"
+  - "[[Model-Multiplicity]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,9 +60,9 @@ importance: medium
 # Multimedia-Learning
 
 > [!definition] **Multimedia-Learning**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 13 permanent notes.*
 
 ## Referenced By
 
@@ -73,12 +73,9 @@ importance: medium
 - [[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]
 - [[Long-Term-Memory]]
 - [[Mental-Image]]
-- [[Mental-Model]]
 - [[Mental-Simulation]]
 - [[Modality-Effect]]
 - [[Model-Multiplicity]]
 - [[Principle-of-Truth]]
-- [[Propositional-Representation]]
 - [[Redundancy-Effect]]
-- [[Situation-Model]]
 - [[Synthetic-Model]]

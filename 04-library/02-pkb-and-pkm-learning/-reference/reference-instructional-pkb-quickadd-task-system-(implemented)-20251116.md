@@ -975,7 +975,7 @@ dv.taskList(unscheduled.limit(5), false);
 3. **[[Dataview Query Language (DQL) Mastery]]**
    - *Connection*: Advanced queries unlock powerful task analytics and custom dashboards
    - *Depth Potential*: Complete DQL reference covering WHERE clauses, GROUP BY operations, functions, and DataviewJS for dynamic views
-   - *Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard Design]]
+   - *Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard-Design]]
 
 4. **[[Time-Blocking Methodology]]**
    - *Connection*: Day Planner integration implements Cal Newport's time-blocking philosophy

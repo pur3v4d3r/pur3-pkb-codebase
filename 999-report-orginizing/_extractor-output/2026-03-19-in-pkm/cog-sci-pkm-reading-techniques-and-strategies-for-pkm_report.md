@@ -381,7 +381,7 @@ extraction_summary:
 - [[Callender]]
 - [[Carol Donnelly]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Construction-Integration Model]]
 - [[Cornell Note-Taking System]]
 - [[Craik]]
@@ -533,7 +533,7 @@ extraction_summary:
 | 19 | [[Levels-of-Processing|Levels of Processing]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 20 | [[Fergus Craik]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 21 | [[Robert Lockhart]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
-| 22 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
+| 22 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 23 | [[Educational-Psychology|Educational Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 24 | [[Neuroscience of Learning]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 25 | [[Forgetting-Curve|forgetting curve]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 27 |
@@ -755,7 +755,7 @@ $$
 - [[Callender]]
 - [[Carol Donnelly]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Construction-Integration Model]]
 - [[Cornell Note-Taking System]]
 - [[Craik]]

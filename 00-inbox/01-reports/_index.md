@@ -446,7 +446,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Elements of Reasoning*, *Structures of Thought*
 
-**Links to:** [[Academic Writing]] · [[Analytical-Thinking]] · [[Applied Ethics]] · [[Argument-Analysis]] · [[Argumentation]] · [[Assumptions]] · [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]] · [[Cognitive-Psychology]] · [[Concepts]] · [[Critical-Thinking]] · [[Decision-Making]] · [[Dialectical Reasoning]] · [[Epistemology]] · [[Ethical Reasoning]] · [[Evidence-Based Argumentation]] · [[Experimental Design]] · [[Hermeneutics]] · [[Heuristics and Biases]] · [[Historical Interpretation]] · [[Hypothesis Testing]]
+**Links to:** [[Academic Writing]] · [[Analytical-Thinking]] · [[Applied Ethics]] · [[Argument-Analysis]] · [[Argumentation]] · [[Assumptions]] · [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]] · [[cognitive-psychology]] · [[Concepts]] · [[Critical-Thinking]] · [[Decision-Making]] · [[Dialectical Reasoning]] · [[Epistemology]] · [[Ethical Reasoning]] · [[Evidence-Based Argumentation]] · [[Experimental Design]] · [[Hermeneutics]] · [[Heuristics and Biases]] · [[Historical Interpretation]] · [[Hypothesis Testing]]
 *... and 36 more*
 
 **Content Features:** 54 headings · 36 callouts · 6 code blocks (mermaid, dataviewjs) · 📊 Dataview · ⚙️ Templater · 52 inline fields
@@ -610,7 +610,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Socratic Questions*, *Socratic Inquiry*, *Systematic Questioning*, *Paul's Taxonomy of Questions*
 
-**Links to:** [[Andragogy]] · [[Aporia]] · [[Argument-Analysis]] · [[Assumption Analysis]] · [[Automatic Thoughts]] · [[Autonomy]] · [[Banking Model of Education]] · [[Bloom's-Taxonomy]] · [[Clarification Questions]] · [[Cognitive-Apprenticeship]] · [[Cognitive-Biases]] · [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] · [[Cognitive-Psychology]] · [[Cognitive Restructuring]] · [[Cognitive-Behavioral-Therapy]] · [[Conceptual Confusion]] · [[Confirmation-Bias]] · [[Consequential Thinking]] · [[Constructivist-Learning-Theory]] · [[Critical-Thinking]]
+**Links to:** [[Andragogy]] · [[Aporia]] · [[Argument-Analysis]] · [[Assumption Analysis]] · [[Automatic Thoughts]] · [[Autonomy]] · [[Banking Model of Education]] · [[Bloom's-Taxonomy]] · [[Clarification Questions]] · [[Cognitive-Apprenticeship]] · [[Cognitive-Biases]] · [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] · [[cognitive-psychology]] · [[Cognitive Restructuring]] · [[Cognitive-Behavioral-Therapy]] · [[Conceptual Confusion]] · [[Confirmation-Bias]] · [[Consequential Thinking]] · [[Constructivist-Learning-Theory]] · [[Critical-Thinking]]
 *... and 71 more*
 
 **Content Features:** 39 headings · 23 callouts · ⚙️ Templater · 10 external links
@@ -1464,7 +1464,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Excalidraw & MarkMind Guide*, *Obsidian Visual Plugins*, *Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian*
 
-**Links to:** [[Architecture Documentation]] · [[Cognitive-Load]] · [[Cognitive-Psychology]] · [[Cognitive Science Basics]] · [[Community-Plugins]] · [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]] · [[Concept-Name]] · [[Dataview]] · [[Design Specs]] · [[Domain]] · [[Drawing]] · [[DrawingName.excalidraw]] · [[Dual-Coding-Theory]] · [[Established Theory]] · [[ExcaliBrain]] · [[Excalidraw]] · [[Excalidraw Advanced Features]] · [[Excalidraw Basics]] · [[ExcalidrawAutomate API Reference]] · [[Figma Files]]
+**Links to:** [[Architecture Documentation]] · [[Cognitive-Load]] · [[cognitive-psychology]] · [[Cognitive Science Basics]] · [[Community-Plugins]] · [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]] · [[Concept-Name]] · [[Dataview]] · [[Design Specs]] · [[Domain]] · [[Drawing]] · [[DrawingName.excalidraw]] · [[Dual-Coding-Theory]] · [[Established Theory]] · [[ExcaliBrain]] · [[Excalidraw]] · [[Excalidraw Advanced Features]] · [[Excalidraw Basics]] · [[ExcalidrawAutomate API Reference]] · [[Figma Files]]
 *... and 72 more*
 
 **Content Features:** 163 headings · 57 callouts · 49 code blocks (javascript, tasks, markdown, dataviewjs, dataview) · 📊 Dataview · 26 inline fields · 2 external links · 10 embeds
@@ -1739,7 +1739,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Obsidian SR*, *Spaced Repetition Plugin Guide*
 
-**Links to:** [[Active Recall vs. Passive Review]] · [[Anki]] · [[Cloze Deletion]] · [[Cognitive-Load-Theory]] · [[Cognitive-Psychology]] · [[Dataview]] · [[Desirable-Difficulties]] · [[Dual-Coding-Theory]] · [[Educational Technology]] · [[Effective Flashcard Design]] · [[FSRS Algorithm]] · [[Introduction to Spaced Repetition in Obsidian]] · [[Learning Science]] · [[Linking Your Thinking (LYT)]] · [[Maps of Content (MOCs)]] · [[Markdown]] · [[Metacognition]] · [[Obsidian]] · [[Obsidian Git]] · [[Obsidian Publish]]
+**Links to:** [[Active Recall vs. Passive Review]] · [[Anki]] · [[Cloze Deletion]] · [[Cognitive-Load-Theory]] · [[cognitive-psychology]] · [[Dataview]] · [[Desirable-Difficulties]] · [[Dual-Coding-Theory]] · [[Educational Technology]] · [[Effective Flashcard Design]] · [[FSRS Algorithm]] · [[Introduction to Spaced Repetition in Obsidian]] · [[Learning Science]] · [[Linking Your Thinking (LYT)]] · [[Maps of Content (MOCs)]] · [[Markdown]] · [[Metacognition]] · [[Obsidian]] · [[Obsidian Git]] · [[Obsidian Publish]]
 *... and 13 more*
 
 **Content Features:** 61 headings · 24 callouts · 64 code blocks (javascript, markdown, dataviewjs, dataview, python) · 📊 Dataview · ⚙️ Templater · 2 external links

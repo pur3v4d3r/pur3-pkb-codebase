@@ -5,7 +5,6 @@
 title: "Nutritive-Environment-Requirement"
 aliases:
   - "Nutritive-Environment-Requirement"
-  - "Nutritive-Environment Requirement"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +39,7 @@ referenced-by-count: 18
 see-also:
   - "[[Amotivation]]"
   - "[[Autonomy-Support]]"
-  - "[[Basic-Psychological-Needs]]"
+  - "[[Basic-Psychological-Needs-The-Three]]"
   - "[[Conditional-Positive-Regard]]"
   - "[[External-Regulation]]"
   - "[[Identified-Regulation]]"
@@ -68,7 +67,7 @@ importance: medium
 
 - [[Amotivation]]
 - [[Autonomy-Support]]
-- [[Basic-Psychological-Needs]]
+- [[Basic-Psychological-Needs-The-Three]]
 - [[Conditional-Positive-Regard]]
 - [[External-Regulation]]
 - [[Identified-Regulation]]

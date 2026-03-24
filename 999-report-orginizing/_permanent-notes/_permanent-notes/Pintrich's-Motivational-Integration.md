@@ -1,11 +1,18 @@
 ---
-title: Pintrich's Motivational Integration
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Pintrich's Motivational Integration"
 aliases:
-  - Pintrich's Motivational Integration
-  - PMI
+  - "Pintrich's Motivational Integration"
+  - "PMI"
 type: permanent-note
 status: evergreen
 confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -14,30 +21,51 @@ tags:
   - academic-synthesis
   - analytical-report
   - cognitive-science/learning-theory
+
 domain: other
 subdomains:
   - 
-created: 2026-03-19
-updated: 2026-03-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-24
+updated: 2026-03-24
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - self-regulated-learning-focused-analysis-2026-03-06
+  - "self-regulated-learning-focused-analysis-2026-03-06"
   - "self-regulated-learning-focused-analysis-2026-03-06.md"
 evidence-quality: high
-extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
 complexity-level: intermediate
 depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
+
 related:
   - "[[]]"
+
 broader:
   - "[[]]"
+
 narrower:
   - "[[]]"
+
 see-also:
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
@@ -52,19 +80,17 @@ see-also:
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[PKB|PKB]]"
   - "[[Forethought-Phase|Forethought Phase]]"
-  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Barry-Zimmerman|Barry Zimmerman]]"
-  - "[[Paul-Pintrich|Paul Pintrich]]"
-  - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
-  - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
-  - "[[PKB|PKB]]"
-  - "[[Forethought-Phase|Forethought Phase]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[Social-Cognitive-Theory-—-Bandura|Social Cognitive Theory — Bandura]]"
+
 enables:
   - "[[]]"
+
 expansion-topics:
   - topic: "[[This-expansion-addresses-the-Dunning-Kruger-phenomenon-and-related-research-on-t|This expansion addresses the Dunning-Kruger phenomenon and related research on the conditions under ]]"
     description: ""
@@ -78,6 +104,10 @@ expansion-topics:
   - topic: "[[A-focused-analysis-of-the-structural-tension-between-the-cognitive-resources-req|A focused analysis of the structural tension between the cognitive resources required for effective ]]"
     description: ""
     priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -100,14 +130,10 @@ importance: high
 > Hattie and Timperley's influential analysis of feedback research identified self-regulation as one of four feedback levels (task, process, self-regulation, and self). Their synthesis of meta-analytic data indicated that feedback at the self-regulation level — feedback that enhances self-monitoring, self-assessment, and self-correction rather than simply providing task-level correction — produced effect sizes averaging d = 0.75, substantially larger than task-level feedback (d = 0.34).…
 
 > [!analytical-insight] Key Insight
-> The evidence across multiple research traditions suggests something that the major SRL frameworks do not adequately theorize: monitoring and control can decouple. A learner can accurately detect that their comprehension is failing (good monitoring) and yet continue using the same ineffective strategy (poor control). Conversely, a learner can deploy sophisticated regulatory responses to inaccurately perceived signals (good control machinery triggered by faulty monitoring). Most SRL interventions…
+> A foundational tension in the SRL evidence base is that most of what we know about self-regulatory strategy use comes from self-report instruments (chiefly the MSLQ), while performance evidence suggests that self-reports of strategy use are only modestly correlated with observed behavior. Winne and Hadwin (1998) and subsequent trace methodology studies (using think-aloud protocols, log files, and process measures) have consistently found that learners substantially misrepresent their regulatory…
 
 > [!analytical-insight] Key Insight
-> The SRL literature sometimes treats goal setting as a cognitive tool that can be trained without attending to the motivational context in which it is deployed. But goal setting is deeply motivationally situated. The same learner who spontaneously sets specific, challenging proximal goals in a domain they care about and feel moderately confident in will set vague, self-protective goals in a domain where their self-efficacy is low or their goal orientation is avoidance-based. Training learners to…
-
-> [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
-> A foundational tension in the SRL evidence base is that most of what we know about self-regulatory strategy use comes from self-report instruments (chiefly the MSLQ), while performance evidence suggests that self-reports of strategy use are only modestly correlated with observed behavior. Winne and Hadwin (1998) and subsequent trace methodology studies (using think-aloud protocols, log files, and process measures) have consistently found that learners substantially misrepresent their regulatory behavior in questionnaires — overestimating monitoring frequency and strategy diversity. This creates criterion contamination: if the MSLQ measures something other than actual self-regulation behavior, then correlations between MSLQ scores and achievement may reflect a third variable (general academic conscientiousness, self-concept) rather than regulatory activity per se. The interventional evidence is more trustworthy, but the correlational base on which SRL's theoretical claims rest is softer than typically acknowledged.
-
+> The evidence across multiple research traditions suggests something that the major SRL frameworks do not adequately theorize: monitoring and control can decouple. A learner can accurately detect that their comprehension is failing (good monitoring) and yet continue using the same ineffective strategy (poor control). Conversely, a learner can deploy sophisticated regulatory responses to inaccurately perceived signals (good control machinery triggered by faulty monitoring). Most SRL interventions…
 
 ## Practical Implications
 
@@ -120,15 +146,21 @@ importance: high
 > [!warning] **Key Distinction**
 > The most common institutional response to SRL research is to create a standalone study skills course where general self-regulatory strategies are taught in isolation from specific content domains. The evidence suggests this approach has minimal sustained effects on academic performance, for the precise mechanistic reason analyzed in Phase IV: effective monitoring requires sufficient domain knowledge to recognize quality differences in one's own performance. A student taught to self-monitor…
 
+## Conceptual Tensions
+
+> [!tension] **The Self-Report Measurement Problem**
+> A foundational tension in the SRL evidence base is that most of what we know about self-regulatory strategy use comes from self-report instruments (chiefly the MSLQ), while performance evidence suggests that self-reports of strategy use are only modestly correlated with observed behavior. Winne and Hadwin (1998) and subsequent trace methodology studies (using think-aloud protocols, log files, and process measures) have consistently found that learners substantially misrepresent their regulatory behavior in questionnaires — overestimating monitoring frequency and strategy diversity. This…
+
+> [!tension] **The Domain-Generality Assumption**
+> A rarely examined assumption in the dominant SRL frameworks is that self-regulatory skills are substantially domain-general — that someone who self-regulates effectively in mathematics will transfer that regulatory competence to history, writing, or professional skill acquisition with modest friction. The empirical evidence is skeptical. Domain-specific knowledge appears to be necessary for effective monitoring: you cannot accurately assess the quality of your reasoning in a domain you don't understand well enough to recognize good reasoning. Expertise in self-regulation may therefore be…
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> [!reflection] **Reflect**
 > Before reading on, commit to a position: When students are explicitly taught self-regulatory strategies (goal-setting, self-monitoring, strategy selection), what happens to their academic performance? Does explicit instruction in SRL reliably improve outcomes, sometimes improve outcomes, or have negligible average effects? Write down your prediction and your reasoning — we will return to it in Phase III, where the evidence may complicate your expectation in an instructive direction.
 
-> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
-> The analysis ahead depends on the distinction between metacognitive knowledge and metacognitive experiences (Flavell). Before proceeding, articulate in your own words: why can a learner have excellent metacognitive knowledge but still fail to self-regulate effectively? What would have to be true about their metacognitive experiences for self-regulation to fail even when knowledge is present? If you find yourself paraphrasing the definitions above rather than reasoning from them, the distinction may not yet be fully integrated.
-
+> [!reflection] **Reflect**
+> The analysis ahead depends on the distinction between metacognitive knowledge and metacognitive experiences (Flavell). Before proceeding, articulate in your own words: why can a learner have excellent metacognitive knowledge but still fail to self-regulate effectively? What would have to be true about their metacognitive experiences for self-regulation to fail even when knowledge is present? If you find yourself paraphrasing the definitions above rather than reasoning from them, the distinction…
 
 ## Connections & Context
 
@@ -140,27 +172,10 @@ importance: high
 - [[Innate-Immunity|Innate Immunity]]
 
 **Related concepts:**
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] · [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] · [[PKB]] · [[Forethought-Phase|Forethought Phase]] · [[Self-Efficacy]] · [[Performance-Phase|Performance Phase]] · [[Self-Monitoring]] · [[Self-Reflection-Phase|Self-Reflection Phase]] · [[Motivational-Regulation|Motivational Regulation]] · [[Goal-Orientation|Goal Orientation]] · [[Task-Value|Task Value]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] · [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] · [[PKB]] · [[Forethought-Phase|Forethought Phase]] · [[Self-Efficacy]] · [[Performance-Phase|Performance Phase]] · [[Self-Monitoring]] · [[Self-Reflection-Phase|Self-Reflection Phase]] · [[Motivational-Regulation|Motivational Regulation]] · [[Goal-Orientation|Goal Orientation]] · [[Task-Value|Task Value]]
 
 **Related concepts** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Forethought-Phase|Forethought Phase]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Goal-Orientation|Goal Orientation]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Adaptive-Immunity|Adaptive Immunity]]
-- [[Innate-Immunity|Innate Immunity]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Adaptive-Immunity|Adaptive Immunity]]
-- [[Innate-Immunity|Innate Immunity]]
-
-**Related concepts** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Forethought-Phase|Forethought Phase]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Goal-Orientation|Goal Orientation]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Forethought-Phase|Forethought Phase]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Carol-Dweck|Carol Dweck]] * [[Philip-Winne|Philip Winne]]
 
 **Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
 - [[Negative-Feedback-Control-System|Negative Feedback Control System]]
@@ -181,7 +196,52 @@ importance: high
 
 
 
+## References
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The authoritative statement of Zimmerman's cyclical model, detailing the three-phase architecture and the role of self-motivational beliefs. Essential reading for the forethought phase mechanisms analyzed in Phases II and IV of this report.
+- **Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–250.**: Provides experimental evidence for the process-goal shift mechanism and the mediating role of self-efficacy. Directly supports the efficacy-calibration analysis in Phase IV.
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: Pintrich's definitive statement on motivational integration in SRL, distinguishing goal orientation types and their differential effects on regulatory behavior. Essential for Phase IV's goal orientation analysis.
+- **Pintrich, P. R., Smith, D. A., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the Motivated Strategies for Learning Questionnaire (MSLQ). *Educational and Psychological Measurement, 53*(3), 801–813.**: The primary validation study for the MSLQ. The limitations of self-report methodology discussed in Phase III require familiarity with this instrument's design and the assumptions embedded in it.
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper distinguishing metacognitive knowledge from metacognitive experiences. The theoretical architecture of this distinction underpins the monitoring analysis throughout Phase IV.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The authoritative statement of Zimmerman's cyclical model, detailing the three-phase architecture and the role of self-motivational beliefs. Essential reading for the forethought phase mechanisms analyzed in Phases II and IV of this report.
+
+- **Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–250.**: Provides experimental evidence for the process-goal shift mechanism and the mediating role of self-efficacy. Directly supports the efficacy-calibration analysis in Phase IV.
+
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: Pintrich's definitive statement on motivational integration in SRL, distinguishing goal orientation types and their differential effects on regulatory behavior. Essential for Phase IV's goal orientation analysis.
+
+- **Pintrich, P. R., Smith, D. A., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the Motivated Strategies for Learning Questionnaire (MSLQ). *Educational and Psychological Measurement, 53*(3), 801–813.**: The primary validation study for the MSLQ. The limitations of self-report methodology discussed in Phase III require familiarity with this instrument's design and the assumptions embedded in it.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper distinguishing metacognitive knowledge from metacognitive experiences. The theoretical architecture of this distinction underpins the monitoring analysis throughout Phase IV.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The authoritative statement of Zimmerman's cyclical model, detailing the three-phase architecture and the role of self-motivational beliefs. Essential reading for the forethought phase mechanisms analyzed in Phases II and IV of this report.
+
+- **Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–250.**: Provides experimental evidence for the process-goal shift mechanism and the mediating role of self-efficacy. Directly supports the efficacy-calibration analysis in Phase IV.
+
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: Pintrich's definitive statement on motivational integration in SRL, distinguishing goal orientation types and their differential effects on regulatory behavior. Essential for Phase IV's goal orientation analysis.
+
+- **Pintrich, P. R., Smith, D. A., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the Motivated Strategies for Learning Questionnaire (MSLQ). *Educational and Psychological Measurement, 53*(3), 801–813.**: The primary validation study for the MSLQ. The limitations of self-report methodology discussed in Phase III require familiarity with this instrument's design and the assumptions embedded in it.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper distinguishing metacognitive knowledge from metacognitive experiences. The theoretical architecture of this distinction underpins the monitoring analysis throughout Phase IV.
 
 
 
 
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This focused analysis draws on five decades of cognitive educational psychology, integrating theoretical frameworks (Zimmerman, Pintrich, Flavell) with empirical evidence from laboratory studies, meta-analyses, and intervention research. The theoretical claims about the cyclical model, goal orientation effects, and self-efficacy dynamics are well-established — supported by multiple independent research groups across cultural and age-group boundaries. The mechanistic analysis in Phase IV (particularly the monitoring-control coupling framework and the recency bias in efficacy updating)…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[self-regulated-learning-focused-analysis-2026-03-06]]
+**Analytical focus:** How do the regulatory mechanisms of SRL translate into durable learning improvements across contexts, and where does the cycle of forethought, performance, and self-reflection systematically break down?

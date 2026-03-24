@@ -380,7 +380,7 @@ extraction_summary:
 #### 43. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 557)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Metacognitive Scaffolding Design Patterns]]
+> > [!topic-idea] [[Metacognitive-Scaffolding-Design-Patterns]]
 > > A focused treatment of the specific instructional design patterns — think-aloud protocols, structured reflection prompts, metacognitive journals, peer critique frameworks, and self-assessment rubrics — that have the strongest evidence base for developing metacognitive capacity. Would include detailed templates, worked examples, and design principles for embedding these patterns into courses across domains. The primary value-add beyond this foundational report: specific, implementable tools for instructional practice.
 > 
 > > [!topic-idea] [[Critical Thinking Assessment and Measurement]]
@@ -430,7 +430,7 @@ extraction_summary:
 - [[Keith-Stanovich]]
 - [[King-and-Kitchener]]
 - [[Linda-Elder]]
-- [[Metacognitive Scaffolding Design Patterns]]
+- [[Metacognitive-Scaffolding-Design-Patterns]]
 - [[Patricia King]]
 - [[Paul-Elder-Critical-Thinking-Framework]]
 - [[Paul-Elder-Framework]]
@@ -503,7 +503,7 @@ extraction_summary:
 | 44 | [[Self-Regulated-Learning]] | — | — | Unresolved Questions | 469 |
 | 45 | [[Reflective-Practice]] | — | — | Unresolved Questions | 471 |
 | 46 | [[Bloom's-Taxonomy]] | — | — | Unresolved Questions | 473 |
-| 47 | [[Metacognitive Scaffolding Design Patterns]] | — | — | D. Expansion Topics | 559 |
+| 47 | [[Metacognitive-Scaffolding-Design-Patterns]] | — | — | D. Expansion Topics | 559 |
 | 48 | [[Critical Thinking Assessment and Measurement]] | — | — | D. Expansion Topics | 562 |
 | 49 | [[Epistemic Cognition and Reflective Judgment]] | — | — | D. Expansion Topics | 565 |
 | 50 | [[Socratic Questioning Techniques in Education]] | — | — | D. Expansion Topics | 568 |
@@ -541,7 +541,7 @@ extraction_summary:
 - [[Keith-Stanovich]]
 - [[King-and-Kitchener]]
 - [[Linda-Elder]]
-- [[Metacognitive Scaffolding Design Patterns]]
+- [[Metacognitive-Scaffolding-Design-Patterns]]
 - [[Patricia King]]
 - [[Paul-Elder-Critical-Thinking-Framework]]
 - [[Paul-Elder-Framework]]
@@ -583,7 +583,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Educational-Psychology]]
 
 #### Narrower

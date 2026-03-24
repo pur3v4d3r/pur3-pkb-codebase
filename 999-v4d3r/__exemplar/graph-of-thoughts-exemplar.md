@@ -2124,7 +2124,7 @@ def got_with_self_consistency(problem: str, perspectives: List[str],
 - **[[Research Synthesis]]**: Literature review and meta-analysis
   - **How GoT applies**: Analyze each paper independently → Compare papers pairwise → Refine paper summaries based on comparisons → Synthesize into comprehensive review
 
-- **[[Strategic Planning]]**: Corporate or project strategy development
+- **[[Strategic-Planning]]**: Corporate or project strategy development
   - **How GoT applies**: Generate strategic options → Analyze each option from multiple angles → Cross-validate analyses → Synthesize into coherent strategy
 
 - **[[Creative Writing]]**: Complex narrative development

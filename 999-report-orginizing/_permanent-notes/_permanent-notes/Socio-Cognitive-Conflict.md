@@ -2,159 +2,70 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Socio-Cognitive Conflict"
+title: "Socio-Cognitive-Conflict"
 aliases:
-  - "Socio-Cognitive Conflict"
+  - "Socio-Cognitive-Conflict"
 type: permanent-note
-status: evergreen
-confidence: high
+status: seedling
+confidence: low
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CLASSIFICATION
 # ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
-  - evergreen
-  - learning-science
-  - educational-philosophy/dialectic
-  - educational-philosophy/socratic-method
-  - critical-thinking/argumentation
-  - critical-thinking/steel-manning
-  - educational-psychology/cognitive-conflict
-
-domain: learning-science
-subdomains:
-  - educational-philosophy
-  - critical-thinking
-  - educational-psychology
+  - seedling
+  - concept-stub
   - cognitive-psychology
-  - argumentation-theory
+
+domain: cognitive-psychology
 
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
-source-type: report-extraction
-source-reports:
-  - "21-dialectical-knowledge-building-pkm-framework-2026-03-15"
-evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-complexity-level: advanced-practitioner
-depth-level: comprehensive
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 7
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
-prerequisites:
-  - "[[]]"
-
-related:
-  - "[[Socratic-Dialectic|Socratic Dialectic]]"
-  - "[[Socratic-Method-Elenchus|Elenchus]]"
-  - "[[Aporia]]"
-  - "[[Hegelian-Dialectic|Hegelian Dialectic]]"
-  - "[[Thesis-Antithesis-Synthesis]]"
-  - "[[Aufhebung]]"
-  - "[[Argumentation-Theory|Argumentation Theory]]"
-  - "[[Toulmin-Model|Toulmin Model]]"
-  - "[[Pragma-Dialectics]]"
-  - "[[Steel-Manning]]"
-
-broader:
-  - "[[]]"
-
-narrower:
-  - "[[]]"
-
 see-also:
-  - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
-  - "[[Anomalous-Data|Anomalous Data]]"
-  - "[[Antithesis]]"
-  - "[[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]"
-  - "[[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]]"
-  - "[[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]]"
-  - "[[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
-builds-on:
-  - "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]"
-  - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
-  - "[[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]"
-  - "[[Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts]]"
-  - "[[Report 14: Inquiry-Based Knowledge Building — Socratic and Pragmatist Methods in PKM]]"
-
-enables:
-  - "[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]"
-  - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
-  - "[[Report 27: The Complete PKM/PKB Design Framework]]"
-  - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]"
-  - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue]]"
-
-expansion-topics:
-  - topic: "[[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]"
-    description: "A focused technical report on using argumentation theory tools within a PKB, including how to implem"
-    priority: medium
-  - topic: "[[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]"
-    description: "An investigation of the conceptual change research tradition (Vosniadou, Chi, Carey, diSessa) and wh"
-    priority: medium
-  - topic: "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
-    description: "Addresses the solitary practice limitation identified in this report by examining how adversarial co"
-    priority: medium
-  - topic: "[[Dialectical-Thinking-as-Cognitive-Development-Basseches,-Labouvie-Vief,-and-the|Dialectical Thinking as Cognitive Development: Basseches, Labouvie-Vief, and the PKB as Development Environment]]"
-    description: "Extends the brief treatment of dialectical thinking as a developmental achievement into a full analy"
-    priority: medium
+  - "[[Constructive-Threshold]]"
+  - "[[Elaborative-Inference]]"
+  - "[[Generative-Cognition-Architecture]]"
+  - "[[Hermeneutic-Circle]]"
+  - "[[ICAP-Framework]]"
+  - "[[Matthew-Effect]]"
+  - "[[The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: low
 ---
 
-# Socio-Cognitive Conflict
+# Socio-Cognitive-Conflict
 
-> [!definition] **Socio-Cognitive Conflict**
-> [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]] is the mechanism, identified by Geneva School researchers in the 1970s-80s, by which cognitive development is accelerated through interaction with others who hold different cognitive perspectives. In contrast to Piaget's model (where conflict arises from individual encounters with the physical world), socio-cognitive conflict identifies interpersonal disagreement as a *specifically potent* driver of cognitive reorganization — because another person's incompatible response makes the inadequacy of one's own schemas directly visible in a way that abstract contradiction may not. Boundary conditions: the mechanism requires genuine perspective-taking, not mere social compliance; and the conflict must be cognitive (about the structure of understanding) rather than purely social (about status or approval).
+> [!definition] **Socio-Cognitive-Conflict**
+> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-## Core Explanation
+*Auto-generated stub — referenced by 7 permanent notes.*
 
-> [!evidence] Supporting Evidence
-> **Disagreement Produces Deeper Encoding (Multiple Research Traditions)**: A significant convergent body of research supports the claim that processing contradictions produces deeper cognitive encoding than processing consistent information. Graesser & Olde (2003) demonstrated that readers show enhanced memory and comprehension for text passages containing *violations of expectations* compared to passages that merely confirmed prior knowledge. Vosniadou & Brewer's (1992) framework for conceptual…
+## Referenced By
 
-> [!evidence] Supporting Evidence
-> **Myside Bias: The Default Against Dialectical Thinking**: Jonathan Stanovich and colleagues' extensive research program on [[Confirmation-Bias-Myside-Bias|Myside Bias]] — the tendency to evaluate arguments, evidence, and hypotheses in ways that favor one's pre-existing positions — establishes the baseline condition that dialectical PKB practice must overcome. Stanovich's findings (summarized in *The Bias That Divides Us*, 2021) are notable for two reasons: (1) myside bias is largely uncorrelated with general intelligence,…
-
-> [!evidence] Supporting Evidence
-> **The Evidence Points Beyond "Consider Both Sides"**: The research literature on cognitive conflict and belief revision converges on a finding that is easy to misread as merely "consider multiple perspectives." The actual finding is more specific and more demanding: what drives genuine schema reorganization is not the *presence* of an alternative view but the experience of *resolving a contradiction* — working through the tension between thesis and antithesis until a more adequate synthesis…
-
-> [!analytical-insight] Key Insight
-> **The Steel-Manning Imperative**: [[Steel-Manning]] — the practice of constructing the *strongest* possible version of a position one is about to criticize, rather than the weakest ([[Straw-Man-Fallacy|straw man]]) — is not merely a courtesy or a rhetorical strategy. It is an epistemic requirement for dialectical thinking. A synthesis that has defeated only a weakened antithesis is not an Aufhebung but a pseudo-synthesis: it carries the appearance of having resolved a contradiction without…
-
-> [!analytical-insight] Key Insight
-> **The Epistemic Difference Between Asserted and Examined Claims**: Two notes in a PKB might contain the same words — the same claim, the same supporting evidence. But if one note has been subjected to a full dialectical encounter (counter-argument generated, engaged, and resolved into synthesis) while the other is merely an asserted belief, they are epistemically different objects, even if they look identical on the page. The examined note encodes not just the claim but the *boundary conditions…
-
-## Practical Implications
-
-> [!example] **Application**
-> *Describe how this concept applies in practice.*
-
-> [!warning] **Key Distinction**
-> Perhaps the most common misunderstanding of what dialectical PKB practice requires is to conflate it with "presenting both sides" — adding a brief section noting that "some people disagree" to an otherwise standard thesis note. This is not dialectics; it is a performative gesture toward balance that preserves the thesis note's structure and thus its epistemic limitations. Genuine dialectical practice requires that the antithesis receive full architectural parity — its own note, its own…
-
-## Connections & Context
-
-**Related concepts:**
-[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]] · [[Aporia]] · [[Argumentation-Theory|Argumentation Theory]] · [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]] · [[Aufhebung-in-PKB]] · [[Belief-Revision|Belief Revision]] · [[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]] · [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
+- [[Constructive-Threshold]]
+- [[Elaborative-Inference]]
+- [[Generative-Cognition-Architecture]]
+- [[Hermeneutic-Circle]]
+- [[ICAP-Framework]]
+- [[Matthew-Effect]]
+- [[The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading]]

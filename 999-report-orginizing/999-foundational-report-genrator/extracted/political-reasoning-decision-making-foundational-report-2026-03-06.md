@@ -133,7 +133,7 @@ related:
 
 broader:
   - "[[Political Psychology]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Behavioral Economics]]"
 
 narrower:
@@ -170,7 +170,7 @@ enables:
   - "[[Instructional Design for Political Literacy]]"
 
 expansion-topics:
-  - topic: "[[Partisan Identity and Motivated Reasoning]]"
+  - topic: "[[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]"
     description: "Deep examination of how social identity processes drive politically motivated cognition, extending Lodge & Taber's John Bolton study into current polarization research"
     priority: "high"
   - topic: "[[Affective-Intelligence-Theory|Affective Intelligence Theory]]"
@@ -582,7 +582,7 @@ Even after comprehensive treatment, several fundamental questions remain genuine
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Partisan Identity and Motivated Reasoning]]
+> > [!topic-idea] [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]
 > > A full-length foundational report on this topic would provide the most detailed mechanistic treatment of how social identity drives motivated political cognition. It would cover Lodge and Taber's experimental program in depth, Kahan's "identity-protective cognition" research, Huddy's social identity approach to partisanship, and the growing literature on "affective polarization" as distinct from ideological polarization. The key question for the knowledge base: under what conditions does partisan identity override accuracy motivation entirely, and what structural or developmental factors moderate this? Priority: **high** — directly extends this report's core treatment.
 >
 > > [!topic-idea] [[Affective Intelligence Theory — Full Treatment]]

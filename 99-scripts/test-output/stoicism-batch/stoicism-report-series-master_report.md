@@ -4314,7 +4314,7 @@ extraction_summary:
 - [[Cognitive Forcing Functions]]
 - [[Cognitive-Load-Theory]]
 - [[Cognitive Model of Emotion]]
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Cognitive-Reappraisal]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Triad Beck]]
@@ -4587,7 +4587,7 @@ extraction_summary:
 - [[Stoicism in Leadership and Decision-Making]]
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[Structural Encoding Techniques]]
 - [[The Obstacle Is the Way]]
 - [[The Obstacle Is the Way (Principle)]]
@@ -4670,7 +4670,7 @@ extraction_summary:
 | 33 | [[Confirmation-Bias]] | — | — | ═════════════════════════════════════... | 551 |
 | 34 | [[Availability-Heuristic]] | — | — | ═════════════════════════════════════... | 552 |
 | 35 | [[Anchoring Bias]] | — | — | ═════════════════════════════════════... | 553 |
-| 36 | [[Cognitive-Psychology]] | — | — | ═════════════════════════════════════... | 556 |
+| 36 | [[cognitive-psychology]] | — | — | ═════════════════════════════════════... | 556 |
 | 37 | [[Educational-Psychology]] | — | — | ═════════════════════════════════════... | 557 |
 | 38 | [[Applied Epistemology]] | — | — | ═════════════════════════════════════... | 558 |
 | 39 | [[Rationality Studies]] | — | — | ═════════════════════════════════════... | 559 |
@@ -4696,7 +4696,7 @@ extraction_summary:
 | 59 | [[Unconscious Competence]] | — | — | ═════════════════════════════════════... | 585 |
 | 60 | [[Professional Decision Making]] | — | — | ═════════════════════════════════════... | 588 |
 | 61 | [[Academic Research]] | — | — | ═════════════════════════════════════... | 589 |
-| 62 | [[Strategic Planning]] | — | — | ═════════════════════════════════════... | 590 |
+| 62 | [[Strategic-Planning]] | — | — | ═════════════════════════════════════... | 590 |
 | 63 | [[Problem Solving in Complex Domains]] | — | — | ═════════════════════════════════════... | 591 |
 | 64 | [[Evidence-Based Practice]] | — | — | ═════════════════════════════════════... | 592 |
 | 65 | [[Foundational-Logic]] | — | — | ═════════════════════════════════════... | 598 |
@@ -5971,7 +5971,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Cognitive Forcing Functions]]
 - [[Cognitive-Load-Theory]]
 - [[Cognitive Model of Emotion]]
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Cognitive-Reappraisal]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Triad Beck]]
@@ -6244,7 +6244,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Stoicism in Leadership and Decision-Making]]
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[Structural Encoding Techniques]]
 - [[The Obstacle Is the Way]]
 - [[The Obstacle Is the Way (Principle)]]

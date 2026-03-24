@@ -375,7 +375,7 @@ When educational researchers, teachers, and students share framework vocabulary�
 
 But this communication benefit doesn't necessarily entail that individuals using framework vocabulary think better than those who lack it. Two philosophers engaging in dialogue without Paul-Elder terminology might reason with equal or superior sophistication, even though their ability to name and categorize their reasoning moves is less systematic.
 
-This hypothesis finds support in research on [[Pedagogical Content Knowledge]] (Shulman, 1986). Effective teaching requires not just subject matter expertise but also conceptual frameworks for representing and communicating that expertise to learners. Critical thinking frameworks might function primarily as pedagogical tools—devices that help teachers teach and students learn about reasoning—rather than as cognitive tools that directly improve reasoning performance.
+This hypothesis finds support in research on [[Pedagogical-Content-Knowledge]] (Shulman, 1986). Effective teaching requires not just subject matter expertise but also conceptual frameworks for representing and communicating that expertise to learners. Critical thinking frameworks might function primarily as pedagogical tools—devices that help teachers teach and students learn about reasoning—rather than as cognitive tools that directly improve reasoning performance.
 
 ### The Meta-Framework Analysis Hypothesis
 

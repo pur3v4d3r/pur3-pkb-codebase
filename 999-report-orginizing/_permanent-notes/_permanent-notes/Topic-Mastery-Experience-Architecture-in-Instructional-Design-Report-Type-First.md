@@ -23,15 +23,15 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 8
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,24 +42,26 @@ see-also:
   - "[[Entity-Theory-of-Intelligence]]"
   - "[[Fixed-Mindset]]"
   - "[[Goal-Orientation]]"
+  - "[[Growth-Mindset]]"
   - "[[Incremental-Theory-of-Intelligence]]"
   - "[[Mastery-Experience]]"
   - "[[Mindset-Intervention]]"
+  - "[[Self-Efficacy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # Topic-Mastery-Experience-Architecture-in-Instructional-Design-Report-Type-First
 
 > [!definition] **Topic-Mastery-Experience-Architecture-in-Instructional-Design-Report-Type-First**
-> *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 8 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
@@ -68,6 +70,8 @@ importance: low
 - [[Entity-Theory-of-Intelligence]]
 - [[Fixed-Mindset]]
 - [[Goal-Orientation]]
+- [[Growth-Mindset]]
 - [[Incremental-Theory-of-Intelligence]]
 - [[Mastery-Experience]]
 - [[Mindset-Intervention]]
+- [[Self-Efficacy]]

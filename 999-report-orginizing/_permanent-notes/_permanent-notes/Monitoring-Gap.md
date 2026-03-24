@@ -1,62 +1,80 @@
 ---
-title: Monitoring Gap
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Monitoring Gap"
 aliases:
-  - Monitoring Gap
+  - "Monitoring Gap"
 type: permanent-note
 status: evergreen
 confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
-  - learning-science
-  - metacognition/monitoring
-  - metacognition/calibration
-  - metacognition/embedding
-  - educational-psychology/self-regulated-learning
-  - educational-philosophy/reflective-inquiry
-domain: learning-science
-subdomains:
-  - cognitive-psychology
-  - educational-psychology
-  - educational-philosophy
-  - instructional-design
+  - other
   - metacognition
-created: 2026-03-18
-updated: 2026-03-22
+  - monitoring-control-coupling
+  - self-regulated-learning
+  - fluency-illusion
+  - calibration
+
+domain: other
+subdomains:
+  - educational-psychology
+  - self-regulated-learning
+  - learning-science
+  - instructional-design
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-24
+updated: 2026-03-24
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14
+  - "metacognition-in-learning-focused-analysis-2026-03-20"
   - "metacognition-in-learning-focused-analysis-2026-03-20.md"
 evidence-quality: high
-extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
 complexity-level: advanced-practitioner
 depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
+
 related:
-  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
-  - "[[Metacognitive-Control|Metacognitive Control]]"
-  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
-  - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
-  - "[[Nelson-Narens-Model|Nelson Narens Model]]"
-  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]"
-  - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
-  - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
-  - "[[Calibration]]"
+  - "[[]]"
+
 broader:
   - "[[]]"
+
 narrower:
   - "[[]]"
+
 see-also:
-  - "[[Behavioral-Science|Behavioral Science]]"
-  - "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
-  - "[[Educational-Philosophy|Educational Philosophy]]"
-  - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]"
-  - "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
-  - "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
+  - "[[Metacognition]]"
+  - "[[Metacognitive-Monitoring]]"
+  - "[[Metacognitive-Regulation]]"
+  - "[[Fluency-Illusion]]"
+  - "[[Dunning-Kruger-Effect]]"
+  - "[[Formative-Assessment]]"
+  - "[[Desirable-Difficulties]]"
+  - "[[Metacognitive-Monitoring]]"
   - "[[Metacognition|Metacognition]]"
   - "[[Metacognitive-Monitoring|Metacognitive-Monitoring]]"
   - "[[Metacognitive-Regulation|Metacognitive-Regulation]]"
@@ -65,29 +83,24 @@ see-also:
   - "[[Formative-Assessment|Formative-Assessment]]"
   - "[[Desirable-Difficulties|Desirable-Difficulties]]"
   - "[[Self-Regulated-Learning|Self-Regulated-Learning]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
-  - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
-  - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
-  - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
+  - "[[]]"
+
 enables:
-  - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
-  - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
-  - "[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]"
-  - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
+  - "[[]]"
+
 expansion-topics:
-  - topic: "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-    description: How does metacognitive calibration accuracy change with deliberate practice, and what is the traject
+  - topic: "[[!topic-idea-Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Developme|> [!topic-idea] [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|M]]"
+    description: ""
     priority: medium
-  - topic: "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
-    description: A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin
-    priority: medium
-  - topic: "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
-    description: Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found
-    priority: medium
-  - topic: "[[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]"
-    description: "Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level "
-    priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -96,78 +109,89 @@ importance: high
 # Monitoring Gap
 
 > [!definition] **Monitoring Gap**
-> The systematic divergence between (1) a PKB user's conceptual knowledge about the importance and mechanisms of metacognitive monitoring and (2) their actual monitoring behaviors in daily PKB practice. The monitoring gap is the primary phenomenon this report addresses; its cause is structural (PKB designs that make monitoring effortful) rather than motivational.
-
-*Source: Diagnostic Construct*
+> The documented discrepancy between what monitoring reveals (a comprehension failure) and what regulation enacts (a suboptimal response such as re-reading). The monitoring gap is evidence for coupling failure distinct from monitoring inaccuracy. See [[Monitoring-Gap]].
 
 ## Core Explanation
 
 > [!evidence] Supporting Evidence
-> **The Re-Reading vs. Testing Effect (Roediger & Karpicke 2006; Karpicke & Blunt 2011)**: In what became one of the most influential studies in educational psychology, Roediger and Karpicke (2006) compared four study conditions: (1) study once, (2) study four times, (3) study once then test three times, (4) study then create concept maps. On a recall test one week later, the retrieval practice condition (3) dramatically outperformed all others. Karpicke and Blunt (2011) further demonstrated that…
+> Research by Rawson and Dunlosky (2002) presented learners with texts and asked them to make comprehension judgments (JOLs) after reading. When texts were presented in a more difficult-to-read font (inducing disfluency), learners rated their comprehension *lower* — but actually *performed better* on subsequent tests. The monitoring signal (ease-of-processing) was inversely correlated with actual learning, while learners interpreted it as a positive comprehension indicator. The monitoring system…
 
 > [!evidence] Supporting Evidence
-> **The Re-Reading Default as a Structural Monitoring Failure**: The testing effect literature, taken together with the fluency illusion research, suggests that the majority of time spent in "review" by PKB users may not be producing the learning that monitoring is reporting. The tragedy of this situation is that it is not visible from inside the experience — the fluency illusion makes re-reading feel productive. This means that users without structural prompts to switch to retrieval-based review…
+> The fluency heuristic is not irrational in its origins. In most real-world contexts outside formal learning, ease of processing genuinely correlates with familiarity and prior exposure, which in turn correlates with available knowledge. The problem is that instructional design — especially clear explanations, well-organized presentations, and worked examples — systematically creates fluency *without* corresponding durable learning. The monitoring system is using a heuristic that worked well for…
 
 > [!evidence] Supporting Evidence
-> **Implementation Intentions and Self-Regulatory Depletion (Sheeran et al. 2005; Muraven & Baumeister 2000)**: Sheeran and colleagues found that implementation intentions maintained their efficacy even when participants' self-regulatory resources were depleted through a prior demanding task. This finding is particularly relevant to PKB use: monitoring is most important precisely when cognitive resources are most taxed — during active learning, problem-solving, or note-taking that places high…
+> The convergent implication of the Dunning-Kruger research, the FOK literature, and the fluency illusion findings is that metacognitive monitoring accuracy is not a stable skill that transfers readily across domains — it is substantially domain-specific, developing alongside domain expertise and sharing its scaffolding. This means the common educational prescription to "teach metacognitive skills" as a domain-independent curriculum is partially misconceived. Metacognitive skill must be developed…
 
 > [!analytical-insight] Key Insight
-> **The Three-Phase Design Gap**: The most common structural failure in PKB design is providing excellent support for content engagement (the performance phase) while providing little or no structural support for forethought (planning what to engage with, estimating difficulty, setting learning goals) and self-reflection (evaluating what was learned, attributing difficulties, revising strategies). This means that even disciplined PKB users are chronically operating with one-third of the SRL…
-
-> [!analytical-insight] Key Insight
-> **The Cue-Specificity Requirement for Monitoring Automation**: Implementation intentions research reveals a specificity principle that is directly actionable for PKB design: the narrower and more situation-specific the if-then trigger, the more reliable the behavioral automaticity. "When I finish reading a note" is too vague — it lacks a physical or digital marker that unambiguously signals the trigger moment. "When the cursor reaches the end of a note template and I encounter the…
-
-> [!evidence] Supporting Evidence *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> Research by Rawson and Dunlosky (2002) presented learners with texts and asked them to make comprehension judgments (JOLs) after reading. When texts were presented in a more difficult-to-read font (inducing disfluency), learners rated their comprehension *lower* — but actually *performed better* on subsequent tests. The monitoring signal (ease-of-processing) was inversely correlated with actual learning, while learners interpreted it as a positive comprehension indicator. The monitoring system was working — it was accurately detecting phenomenological ease — but interpreting that ease in a direction opposite to its actual evidential value.
-
-> [!evidence] Supporting Evidence *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> The fluency heuristic is not irrational in its origins. In most real-world contexts outside formal learning, ease of processing genuinely correlates with familiarity and prior exposure, which in turn correlates with available knowledge. The problem is that instructional design — especially clear explanations, well-organized presentations, and worked examples — systematically creates fluency *without* corresponding durable learning. The monitoring system is using a heuristic that worked well for its evolutionary and developmental context, but is systematically miscalibrated for the modern learning environment. This is not a failure of intelligence — it is an architectural mismatch.
-
-> [!evidence] Supporting Evidence *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> The convergent implication of the Dunning-Kruger research, the FOK literature, and the fluency illusion findings is that metacognitive monitoring accuracy is not a stable skill that transfers readily across domains — it is substantially domain-specific, developing alongside domain expertise and sharing its scaffolding. This means the common educational prescription to "teach metacognitive skills" as a domain-independent curriculum is partially misconceived. Metacognitive skill must be developed *in context*, with domain-appropriate calibration points, not as a generic transferable competence.
-
-> [!analytical-insight] Key Insight *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
 > Effective metacognitive regulation requires three conditions to hold simultaneously: (1) monitoring must produce accurate signals, (2) those signals must cross the motivational-attentional threshold required for regulatory action, and (3) an adequate regulatory response must be available. Most interventions target only condition 1. The analysis argues that conditions 2 and 3 are equally critical and substantially undertreated.
 
-> [!analytical-insight] Key Insight *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> Research on [[Metacognitive-Calibration|metacognitive calibration]] has shown that more calibrated learners — those whose confidence better predicts their actual performance — do not consistently outperform less calibrated learners on learning outcomes. This is puzzling if monitoring accuracy is the primary driver of effective self-regulation. The resolution points toward the coupling: calibration training improves the *accuracy* of monitoring signals without necessarily strengthening the *mechanisms* that translate those signals into regulatory action. Accurate monitoring is a necessary but insufficient condition for effective self-regulation. The coupling must also be intact.
-
-
-
-
-
+> [!analytical-insight] Key Insight
+> Research on [[Metacognitive-Calibration|metacognitive calibration]] has shown that more calibrated learners — those whose confidence better predicts their actual performance — do not consistently outperform less calibrated learners on learning outcomes. This is puzzling if monitoring accuracy is the primary driver of effective self-regulation. The resolution points toward the coupling: calibration training improves the *accuracy* of monitoring signals without necessarily strengthening the…
 
 ## Practical Implications
 
 > [!example] **Application**
-> **Template Architecture for Structural Priority**: Design note templates with this structure: (1) Note content fields — source, key claims, connections; (2) **Monitoring gateway** — `confidence:: [1-5]`, `can-explain-mechanism:: [yes/no/partial]`, `what-is-unclear::` — these appear before optional fields; (3) Optional enrichment — tags, links, expansion ideas. The "monitoring gateway" should not be passable without making at least a minimal monitoring gesture. In practice, this means the…
+> Effective metacognitive training addresses all three mechanisms: (1) Replace fluency cues with retrieval cues by building low-stakes testing into every learning session before the learner judges their comprehension. (2) Increase threshold sensitivity by requiring explicit comprehension ratings *before* testing, creating a salient discrepancy when testing reveals miscalibration. (3) Expand the regulatory repertoire by teaching 3–5 specific strategic responses to different types of comprehension…
 
-> [!example] **Application**
-> **Calibration Metadata Architecture**: Each substantive note should carry: `capture-confidence:: [1-5]` (assigned at note creation, expected to be fluency-contaminated); `retrieval-confidence:: [1-5]` (assigned at first retrieval practice attempt, target: 24+ hours after capture); `retrieval-date::` (enables calculation of delay); `calibration-discrepancy::` (computed by Dataview as the difference between capture and retrieval confidence, flagging notes where the fluency illusion was…
+> [!warning] **Key Distinction**
+> Personal Knowledge Base practices that emphasize re-reading, re-reviewing, and reorganizing notes are particularly vulnerable to the fluency trap. Reviewing existing notes produces familiarity and fluency without generating the retrieval-challenge signals that produce accurate monitoring. A PKB practice that includes regular "blank page" recall attempts — trying to reproduce note content without looking at the notes — provides the monitoring system with genuine information about what is…
 
-> [!example] **Application** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> Effective metacognitive training addresses all three mechanisms: (1) Replace fluency cues with retrieval cues by building low-stakes testing into every learning session before the learner judges their comprehension. (2) Increase threshold sensitivity by requiring explicit comprehension ratings *before* testing, creating a salient discrepancy when testing reveals miscalibration. (3) Expand the regulatory repertoire by teaching 3–5 specific strategic responses to different types of comprehension failure, practiced until they are fluent and automatically accessible. Each component is necessary; none is sufficient alone.
+## Conceptual Tensions
 
-> [!warning] **Key Distinction** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> Personal Knowledge Base practices that emphasize re-reading, re-reviewing, and reorganizing notes are particularly vulnerable to the fluency trap. Reviewing existing notes produces familiarity and fluency without generating the retrieval-challenge signals that produce accurate monitoring. A PKB practice that includes regular "blank page" recall attempts — trying to reproduce note content without looking at the notes — provides the monitoring system with genuine information about what is actually retained versus merely familiar. The subjective discomfort of this practice is precisely the high-validity monitoring signal that makes it valuable.
+> [!tension] **The Calibration-Action Disconnect**
+> Research on [[Metacognitive-Calibration|metacognitive calibration]] has shown that more calibrated learners — those whose confidence better predicts their actual performance — do not consistently outperform less calibrated learners on learning outcomes. This is puzzling if monitoring accuracy is the primary driver of effective self-regulation. The resolution points toward the coupling: calibration training improves the *accuracy* of monitoring signals without necessarily strengthening the *mechanisms* that translate those signals into regulatory action. Accurate monitoring is a necessary but…
 
-
-
+> [!tension] **The Strategy Knowledge vs. Strategy Execution Gap**
+> There is a well-documented discrepancy in the [[Self-Regulated-Learning|self-regulated learning]] literature between students' *declarative knowledge* of effective strategies (they can articulate that self-testing is more effective than re-reading) and their *procedural execution* of those strategies (they default to re-reading anyway). This gap mirrors the monitoring-control coupling problem at a different level: knowing what to do (analogous to accurate monitoring) and actually doing it (analogous to effective regulation) are separable, and the mechanisms that explain their decoupling are…
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
-> Before reading this analysis, take a moment to articulate your current understanding of the relationship between *knowing you don't understand something* and *doing something effective about it*. Have you ever had the experience of recognizing that your comprehension was superficial — and then, despite that recognition, failing to change your behavior? Or the reverse: being confident you understood something well, only to discover you couldn't actually retrieve or apply it? Write your intuitions down. The comparison between your starting position and what the analysis reveals is where the deepest learning lies.
+> [!reflection] **Reflect**
+> Before reading this analysis, take a moment to articulate your current understanding of the relationship between *knowing you don't understand something* and *doing something effective about it*. Have you ever had the experience of recognizing that your comprehension was superficial — and then, despite that recognition, failing to change your behavior? Or the reverse: being confident you understood something well, only to discover you couldn't actually retrieve or apply it? Write your…
 
-> [!reflection] **Reflect** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*
+> [!reflection] **Reflect**
 > Before reading the analytical framework, predict: what do you think is the most important reason that accurate monitoring fails to produce effective regulation? Is it motivational (the learner doesn't care enough), cognitive (they lack the strategic tools), structural (monitoring signals are too weak), or something else? Commit to a prediction. The comparison with the analysis ahead will sharpen your understanding substantially.
-
 
 ## Connections & Context
 
 **Related concepts:**
-[[Behavioral-Science|Behavioral Science]] · [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration-Tracking|Calibration Tracking]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] · [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]] · [[Implementation-Intentions|Implementation Intentions]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
+[[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[Fluency-Illusion]] · [[Dunning-Kruger-Effect]] · [[Formative-Assessment]] · [[Desirable-Difficulties]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Flavell-Metacognition-Framework]] · [[Flavell]] · [[Self-Regulated-Learning]] · [[Metacognitive-Knowledge]]
 
 **Related concepts** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*:
-[[Metacognition|Metacognition]] * [[Metacognitive-Monitoring|Metacognitive-Monitoring]] * [[Metacognitive-Regulation|Metacognitive-Regulation]] * [[Fluency-Illusion|Fluency-Illusion]] * [[Dunning-Kruger-Effect|Dunning-Kruger-Effect]] * [[Formative-Assessment|Formative-Assessment]] * [[Desirable-Difficulties|Desirable-Difficulties]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Flavell|Flavell]] * [[Metacognitive-Knowledge|Metacognitive-Knowledge]] * [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]] * [[Metacognitive-Experience|Metacognitive-Experience]] * [[Monitoring-Gap|Monitoring-Gap]] * [[Metacognitive-Calibration|Metacognitive-Calibration]] * [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+[[Monitoring-Control-Coupling|Monitoring-Control-Coupling]] * [[Metacognitive-Experience|Metacognitive-Experience]] * [[Feeling-of-Knowing-—-FOK|Feeling-of-Knowing-—-FOK]] * [[Achievement-Goal-Theory|Achievement-Goal-Theory]] * [[Mastery-Goal-Orientation|Mastery-Goal-Orientation]] * [[Motivated-Reasoning|Motivated-Reasoning]] * [[Self-Efficacy|Self-Efficacy]] * [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's-Three-Phase-SRL-Cycle]] * [[Working-Memory|Working-Memory]] * [[Dual-Process-Theory|Dual-Process-Theory]] * [[Elaborative-Interrogation|Elaborative-Interrogation]] * [[Self-Explanation-Effect|Self-Explanation-Effect]] * [[Generation-Effect|Generation-Effect]] * [[Spaced-Repetition-Spacing-Effect|Spaced-Repetition-Spacing-Effect]] * [[Advance-Organizer|Advance-Organizer]]
 
+
+## References
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational treatment of desirable difficulties as interventions that improve long-term learning by replacing fluency cues with retrieval cues. Directly supports the cue invalidity mechanism (Phase IV). Foundational for [[Desirable-Difficulties]] node.
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The original framework paper introducing the metacognitive knowledge/experience/monitoring architecture. The source of the [[Flavell-Metacognition-Framework]] node. Supports the three-component framework in Phase II.
+- **Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General*, 126(4), 349–370.**: Established the cue-utilization framework for metacognitive monitoring, demonstrating that JOLs are based on accessible cues rather than direct introspection. Core empirical support for the cue invalidity mechanism (Phase IV).
+- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The foundational Dunning-Kruger paper, documenting expertise-dependent monitoring accuracy. Supports the argument that monitoring accuracy is domain-specific and develops alongside domain knowledge (Phase III).
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.**: The meta-level/object-level model of metacognition. Defines the monitoring/control distinction foundational to the coupling analysis in Phase II. See [[Meta-Level-Object-Level-Model]].
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational treatment of desirable difficulties as interventions that improve long-term learning by replacing fluency cues with retrieval cues. Directly supports the cue invalidity mechanism (Phase IV). Foundational for [[Desirable-Difficulties]] node.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The original framework paper introducing the metacognitive knowledge/experience/monitoring architecture. The source of the [[Flavell-Metacognition-Framework]] node. Supports the three-component framework in Phase II.
+
+- **Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General*, 126(4), 349–370.**: Established the cue-utilization framework for metacognitive monitoring, demonstrating that JOLs are based on accessible cues rather than direct introspection. Core empirical support for the cue invalidity mechanism (Phase IV).
+
+- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The foundational Dunning-Kruger paper, documenting expertise-dependent monitoring accuracy. Supports the argument that monitoring accuracy is domain-specific and develops alongside domain knowledge (Phase III).
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.**: The meta-level/object-level model of metacognition. Defines the monitoring/control distinction foundational to the coupling analysis in Phase II. See [[Meta-Level-Object-Level-Model]].
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on three types of claims, which the reader should distinguish. First, *empirically established claims*: the fluency illusion, monitoring gap, and Dunning-Kruger findings are well-replicated and represent the settled empirical landscape; citations are provided. Second, *theoretical integrations*: the three-mechanism model (cue invalidity, threshold insensitivity, regulatory poverty) is an original analytical synthesis of the empirical literature; it is grounded in the evidence but goes beyond any single study or theoretical tradition. Third, *original analytical…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[metacognition-in-learning-focused-analysis-2026-03-20]]
+**Report ID:** `metacognition-in-learning-focused-analysis-2026-03-20`

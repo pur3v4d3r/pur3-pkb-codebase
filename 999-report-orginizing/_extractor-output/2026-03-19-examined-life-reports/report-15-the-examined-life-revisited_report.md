@@ -344,7 +344,7 @@ extraction_summary:
 - [[Phronimos]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Piaget's-Constructivism|Piaget's Constructivism]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
 - [[Prokoptōn]]
@@ -383,7 +383,7 @@ extraction_summary:
 | 9 | [[Socratic-Method|Socratic Method]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 10 | [[System-1|System 1]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 11 | [[Fallibilism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 12 | [[Pragmatism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 12 | [[pragmatism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 13 | [[Constructivism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 14 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 15 | [[Prohairesis]] | — | — | The Three-Tier Architecture in Retros... | 202 |
@@ -550,7 +550,7 @@ extraction_summary:
 - [[Phronimos]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Piaget's-Constructivism|Piaget's Constructivism]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
 - [[Prokoptōn]]

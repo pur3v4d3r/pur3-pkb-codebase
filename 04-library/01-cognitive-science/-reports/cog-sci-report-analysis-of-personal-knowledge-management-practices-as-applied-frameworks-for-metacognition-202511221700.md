@@ -34,7 +34,7 @@ link-related:
 # 🗺️ Interdisciplinary Synthesis Report: [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] as Applied [[Metacognition]]
 
 > [!abstract]
-> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive-Psychology]]**, **[[Information-Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
+> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[cognitive-psychology]]**, **[[Information-Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
 
 -----
 
@@ -62,12 +62,12 @@ This section defines the topic in its "native" or most common domain to establis
 
 -----
 
-## 2\. 🌉 The First Bridge: Analysis via [[Cognitive-Psychology]]
+## 2\. 🌉 The First Bridge: Analysis via [[cognitive-psychology]]
 
 This section performs the first "conceptual jump," analyzing the central topic from an entirely new perspective.
 
 > [!the-purpose]
-> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[Cognitive-Psychology]]**, specifically through the lens of **[[Metacognition]]**.
+> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[cognitive-psychology]]**, specifically through the lens of **[[Metacognition]]**.
 
 ### 2.1. A New Lens: Cognitive Psychology's Perspective
 

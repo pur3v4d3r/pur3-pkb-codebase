@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,6 +39,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-dataview-tasks-quieries-2025120204"
+  - "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -69,6 +70,14 @@ see-also:
   - "[[Task-Management|Task Management]]"
   - "[[DQL]]"
   - "[[DataviewJS]]"
+  - "[[Tasks-Plugin|Tasks Plugin]]"
+  - "[[YAML-Frontmatter|YAML Frontmatter]]"
+  - "[[Inline-Fields|Inline Fields]]"
+  - "[[Dataview-Task-Query-Reference|Dataview Task Query Reference]]"
+  - "[[Dataview-Plugin|Dataview Plugin]]"
+  - "[[Task-Management|Task Management]]"
+  - "[[DQL|DQL]]"
+  - "[[DataviewJS|DataviewJS]]"
   - "[[Tasks-Plugin|Tasks Plugin]]"
   - "[[YAML-Frontmatter|YAML Frontmatter]]"
   - "[[Inline-Fields|Inline Fields]]"
@@ -149,3 +158,23 @@ importance: medium
 
 **Related concepts:**
 [[Dataview-Task-Query-Reference|Dataview Task Query Reference]] · [[Dataview-Plugin|Dataview Plugin]] · [[Task-Management|Task Management]] · [[DQL]] · [[DataviewJS]] · [[Tasks-Plugin|Tasks Plugin]] · [[YAML-Frontmatter|YAML Frontmatter]] · [[Inline-Fields|Inline Fields]] · [[Daily-Notes|Daily Notes]] · [[WHERE-Clause|WHERE Clause]] · [[GROUP-BY|GROUP BY]] · [[Date-Functions|Date Functions]] · [[Priority-Management|Priority Management]] · [[03-notes01-permanent-notes02-personal-knowledge-baseTime-Blocking|03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] · [[GTD-Workflow|GTD Workflow]]
+
+**Related concepts** *(from reference-comprehensive-dataview-tasks-quieries-2025120204.md)*:
+[[Dataview-Task-Query-Reference|Dataview Task Query Reference]] * [[Task-Management|Task Management]] * [[Tasks-Plugin|Tasks Plugin]] * [[YAML-Frontmatter|YAML Frontmatter]] * [[Inline-Fields|Inline Fields]] * [[Daily-Notes|Daily Notes]] * [[WHERE-Clause|WHERE Clause]] * [[GROUP-BY|GROUP BY]] * [[Date-Functions|Date Functions]] * [[Priority-Management|Priority Management]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time-Blocking|03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] * [[GTD-Workflow|GTD Workflow]] * [[Dashboard-Design|Dashboard Design]] * [[Query-Performance|Query Performance]] * [[Obsidian|Obsidian]]
+
+**Cross-report connections** *(from reference-comprehensive-dataview-tasks-quieries-2025120204.md)*:
+- [[Tasks-Plugin|Tasks Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Task Metadata Architecture**
+> Every task in your vault automatically inherits these implicit fields from [[Dataview-Plugin]]:
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[reference-comprehensive-dataview-tasks-quieries-2025120204]]

@@ -5,7 +5,6 @@
 title: "Heuristics-and-Biases-Program"
 aliases:
   - "Heuristics-and-Biases-Program"
-  - "Heuristics and Biases Program"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +37,7 @@ referenced-by-count: 9
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Askesis]]"
+  - "[[Asksis]]"
   - "[[Epistemic-Cowardice]]"
   - "[[Intellectual-Courage]]"
   - "[[Intellectual-Empathy]]"
@@ -65,7 +64,7 @@ importance: low
 
 ## Referenced By
 
-- [[Askesis]]
+- [[Asksis]]
 - [[Epistemic-Cowardice]]
 - [[Intellectual-Courage]]
 - [[Intellectual-Empathy]]

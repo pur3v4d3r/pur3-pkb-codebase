@@ -120,7 +120,7 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Behavioral-Science]]"
   - "[[Appraisal-Theory]]"
 
@@ -166,7 +166,7 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Behavioral-Science]]"
   - "[[Attribution-Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
@@ -262,7 +262,7 @@ There is a question that has haunted Western civilization since at least the anc
 
 Clinical psychology can be provisionally defined as the branch of psychology devoted to the understanding, assessment, diagnosis, and treatment of [[Psychopathology|psychological distress and disorder]] across the lifespan. But this definition immediately demands unpacking. "Understanding" here encompasses both scientific theory-building and the practical interpretive work of comprehending a specific individual's suffering in its full biographical, cultural, and contextual complexity. "Assessment" involves the disciplined gathering of evidence about a person's psychological functioning — through structured interviews, standardized tests, observational data, and collaborative exploration. "Diagnosis" remains one of the field's most contentious activities, involving the classification of patterns of distress into named categories — a process that carries genuine clinical utility but equally genuine conceptual risks. And "treatment" — [[Psychotherapy|psychotherapy]] in its many forms — is the heart of clinical practice: the disciplined, theoretically grounded application of psychological principles to relieve suffering and promote flourishing.
 
-This report matters to a learner invested in [[Cognitive-Psychology|Cognitive Psychology]], [[Educational-Psychology|Educational Psychology]], [[Metacognition]], and [[Self-Determined Learning]] for a reason that is anything but tangential: the mechanisms through which clinical psychology achieves change — cognitive restructuring, motivational enhancement, schema revision, emotion regulation, the building of self-awareness and self-compassion — are deeply continuous with the mechanisms through which *any* learning and growth occur. Clinical psychology is, in one sense, the study of the most difficult form of [[Conceptual-Change-Theory|conceptual change]]: the revision of deeply entrenched, emotionally loaded, self-referential beliefs that have organized a person's entire experience of the world. Understanding how that change happens illuminates how all significant psychological change happens.
+This report matters to a learner invested in [[cognitive-psychology|Cognitive Psychology]], [[Educational-Psychology|Educational Psychology]], [[Metacognition]], and [[Self-Determined Learning]] for a reason that is anything but tangential: the mechanisms through which clinical psychology achieves change — cognitive restructuring, motivational enhancement, schema revision, emotion regulation, the building of self-awareness and self-compassion — are deeply continuous with the mechanisms through which *any* learning and growth occur. Clinical psychology is, in one sense, the study of the most difficult form of [[Conceptual-Change-Theory|conceptual change]]: the revision of deeply entrenched, emotionally loaded, self-referential beliefs that have organized a person's entire experience of the world. Understanding how that change happens illuminates how all significant psychological change happens.
 
 The report proceeds through seven phases. Phase II establishes foundational definitions and traces the field's intellectual genealogy. Phase III maps the major theoretical frameworks — psychodynamic, behavioral, cognitive-behavioral, humanistic-existential, and the third-wave approaches. Phase IV descends into mechanism: how, precisely, does therapy work? Phase V examines applications, evidence, and limitations. Phase VI synthesizes and connects to your broader PKB. Phase VII provides a lexicon, references, and expansion topics.
 

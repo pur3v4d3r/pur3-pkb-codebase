@@ -5,7 +5,6 @@
 title: "Constructed-Emotion-Theory-—-Deep-Dive"
 aliases:
   - "-Deep-Dive"
-  - "Constructed Emotion Theory — Deep Dive"
   - "Constructed-Emotion-Theory-"
   - "Constructed-Emotion-Theory-—-Deep-Dive"
 type: permanent-note
@@ -26,8 +25,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

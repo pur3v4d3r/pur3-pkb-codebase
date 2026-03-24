@@ -688,7 +688,7 @@ This return-and-deepen pattern is the structural mechanism by which the dialecti
 
 ## Section 6: FAR Transfer Architecture
 
-[**FAR-Transfer-Architecture**:: A dedicated, research-grounded architecture for ensuring that the dialectical insights from the report travel beyond their originating domain. Drawing on [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural Mapping Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] (Holyoak & Thagard, 1995), this system moves from concrete dialectical findings to abstract structural principles to specific applications in new domains.]
+[**FAR-Transfer-Architecture**:: A dedicated, research-grounded architecture for ensuring that the dialectical insights from the report travel beyond their originating domain. Drawing on [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural-Mapping-Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] (Holyoak & Thagard, 1995), this system moves from concrete dialectical findings to abstract structural principles to specific applications in new domains.]
 
 ### Why a Dedicated Phase
 
@@ -706,7 +706,7 @@ From the concrete dialectical findings, extract the underlying structural princi
 
 #### Operation 2: Structural Analogue Identification
 
-Identify other domains where the same abstract structural principle operates — not superficial similarity but genuine [[Structural Mapping Theory|structural isomorphism]] where the relational structure maps across domains.
+Identify other domains where the same abstract structural principle operates — not superficial similarity but genuine [[Structural-Mapping-Theory|structural isomorphism]] where the relational structure maps across domains.
 
 **Template**: *"The principle of {abstract principle} operates in {originating domain} through {mechanism A}. The same structural pattern appears in {target domain}, where it manifests as {mechanism B}. The analogy holds because both share {relational structure}, even though the surface elements ({surface features of domain A} vs {surface features of domain B}) differ."*
 

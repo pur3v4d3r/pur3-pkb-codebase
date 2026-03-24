@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,14 +81,6 @@ see-also:
   - "[[Black-&-Wiliam|Black & Wiliam]]"
   - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Summative-Assessment|Summative Assessment]]"
-  - "[[Feedback-Design|Feedback Design]]"
-  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Growth-Mindset|Growth Mindset]]"
-  - "[[Formative-Assessment|Formative Assessment]]"
-  - "[[Black-&-Wiliam|Black & Wiliam]]"
-  - "[[Attribution-Theory|Attribution Theory]]"
-  - "[[Summative-Assessment|Summative Assessment]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -124,6 +116,12 @@ importance: high
 > [!evidence] Supporting Evidence
 > Across six studies, fifth-grade children who received person praise ("You must be smart") after an initial success subsequently showed decreased performance on harder problems, rated the tasks as less enjoyable, and were less likely to want to take the hard version in a future session, relative to children who received process praise ("You must have worked hard"). This finding has been replicated in multiple cultural contexts and provides one of the most methodologically clean demonstrations of…
 
+> [!evidence] Supporting Evidence
+> The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+> [!evidence] Supporting Evidence
+> The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
 > [!analytical-insight] Key Insight
 > Feedback is only formative insofar as the learner has time, capacity, and opportunity to act on it. The same information delivered a week after a task closes compared with a day before a revision opportunity is structurally different in its learning function, regardless of its content.
 
@@ -131,12 +129,6 @@ importance: high
 > **Level 1 — Task Level (FT)**: Feedback about how well a specific task has been performed — correctness, comprehensiveness, accuracy. ("This answer is incorrect; the correct formula is...") Most common in practice; highly effective when the task itself is the learning goal but ineffective when learners generalise it to their personal worth.
 > 
 > **Level 2 — Process Level (FP)**: Feedback about the processes or strategies used to complete the task — the *how* of performance. ("You've used the…
-
-> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
-> The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
-
-> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
-> The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
 
 > [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
 > The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
@@ -146,12 +138,6 @@ importance: high
 
 > [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
 > The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
-
-> [!analytical-insight] Key Insight *(from growth-mindset-first-principles-report-2026-03-11.md)*
-> According to the conventional account, the mindset one holds acts as a lens that filters the entire experience of learning. A fixed mindset converts challenges into threats (because failure would reveal limited ability), produces helpless responses to difficulty, leads to avoidance of challenging tasks, and generates defensive explanations for setbacks. A growth mindset converts the same challenges into opportunities, produces mastery-oriented responses to difficulty, promotes engagement with hard material, and attributes setbacks to insufficient effort or strategy. The belief drives the behavior; the behavior drives the outcome.
-
-> [!analytical-insight] Key Insight *(from growth-mindset-first-principles-report-2026-03-11.md)*
-> The conventional view enables something practically valuable: it provides a simple, actionable vocabulary for discussing effort, persistence, and response to failure with students and employees. "You have a growth mindset" functions as praise that attributes success to modifiable behavior rather than fixed ability. "What would a growth mindset look like here?" is a useful coaching prompt. Whatever its epistemic status, the framework has genuine utility as a conversational technology for orienting people toward effort-attribution.
 
 > [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
 > **Primary Sources and Scholarly Works**
@@ -199,6 +185,12 @@ importance: high
 > - [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
 > - [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
 
+> [!analytical-insight] Key Insight *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> According to the conventional account, the mindset one holds acts as a lens that filters the entire experience of learning. A fixed mindset converts challenges into threats (because failure would reveal limited ability), produces helpless responses to difficulty, leads to avoidance of challenging tasks, and generates defensive explanations for setbacks. A growth mindset converts the same challenges into opportunities, produces mastery-oriented responses to difficulty, promotes engagement with hard material, and attributes setbacks to insufficient effort or strategy. The belief drives the behavior; the behavior drives the outcome.
+
+> [!analytical-insight] Key Insight *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The conventional view enables something practically valuable: it provides a simple, actionable vocabulary for discussing effort, persistence, and response to failure with students and employees. "You have a growth mindset" functions as praise that attributes success to modifiable behavior rather than fixed ability. "What would a growth mindset look like here?" is a useful coaching prompt. Whatever its epistemic status, the framework has genuine utility as a conversational technology for orienting people toward effort-attribution.
+
 > [!analytical-insight] Key Insight *(from stoicism-codebase-pack.md)*
 > **Zeno's Core Innovation**
 > 
@@ -208,8 +200,6 @@ importance: high
 > **Philosophy as Freedom**
 > 
 > If Seneca represented the heights of Roman society adapting Stoicism to wealth and power, [[Epictetus]] (c. 50-135 CE) showed its relevance to those with no power whatsoever. Born into slavery in Hierapolis, Phrygia (modern-day Turkey), Epictetus endured a childhood and youth of complete powerlessness. Ancient sources report that his master, Epaphroditus (himself a freed slave serving in Nero's court), once twisted Epictetus's leg in a fit of anger, crippling him permanently. Epictetus reportedly responded calmly: "You will break my leg," and when the bone did snap, "Didn't I tell you that you would break it?"
-
-
 
 
 
@@ -247,16 +237,14 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> [!reflection] **Reflect**
 > Before reading further, recall a piece of feedback you received that genuinely changed how you approached a task or domain — and one that did not. What distinguished them? Was the difference in the content of the feedback, or in something about how it was framed, when it arrived, or how it positioned you in relation to the work? Hold these examples in mind as anchor points throughout the report.
 
-> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> [!reflection] **Reflect**
 > 1. How does the SDT definition of autonomy — as self-endorsed action rather than independence — challenge common assumptions about what "student choice" accomplishes in instructional design? Can you imagine contexts where giving students more choice might actually undermine autonomy in the technical sense?
-> 2. The distinction between formative and summative assessment rests on function rather than format. Can you identify three assessment formats that could serve either function depending on context? What determines the switch?
-> 3. Which of the foundational distinctions — summative/formative, feedback/feed-forward, person/work — seems most consequential for your own practice or the learning contexts you care about? Why?
+> 2. The distinction between formative and summative assessment rests on function rather than format. Can you identify three assessment formats that could serve either function depending on…
 
 > [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
 > Before proceeding to the assumption audit, write down — or hold clearly in mind — what you currently believe about growth mindset. Do you believe that your own mindset has shaped your achievement? Do you believe intelligence is malleable? Where did this belief come from — personal experience, a book, a workshop, a teacher? Can you articulate what evidence convinced you, or did you adopt the view because it is culturally dominant? There is no wrong answer here. The point is to notice the difference between belief that arrived through reasoning and belief that arrived through cultural absorption.
@@ -286,7 +274,6 @@ importance: high
 
 
 
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -298,73 +285,7 @@ importance: high
 - [[Schema-Theory|Schema Theory]]
 
 **Related concepts:**
-[[Feedback-Design|Feedback Design]] · [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Growth-Mindset|Growth Mindset]] · [[Formative-Assessment|Formative Assessment]] · [[Black-&-Wiliam|Black & Wiliam]] · [[Attribution-Theory|Attribution Theory]] · [[Summative-Assessment|Summative Assessment]] · [[Formative-Feedback|Formative Feedback]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[Performance-Goals|Performance Goals]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Carole-Ames|Carole Ames]]
-
-**Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, growth-mindset-first-principles-report-2026-03-11.md)*:
-[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
-
-**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
+[[Feedback-Design|Feedback Design]] · [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Growth-Mindset|Growth Mindset]] · [[Formative-Assessment|Formative Assessment]] · [[Black-&-Wiliam|Black & Wiliam]] · [[Attribution-Theory|Attribution Theory]] · [[Summative-Assessment|Summative Assessment]] · [[Formative-Feedback|Formative Feedback]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[Performance-Goals|Performance Goals]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Carole-Ames|Carole Ames]]
 
 **Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, growth-mindset-first-principles-report-2026-03-11.md, stoicism-codebase-pack.md)*:
 [[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
@@ -466,6 +387,160 @@ importance: high
 
 
 
+## References
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Untitled**: **Primary Sources and Scholarly Works**
+
+The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+- [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+- [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+- [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+- [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+- [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+
+For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+- **Research Sources and Academic Literature**: **Metacognition and Journaling:**
+- [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+- [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+- [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+- [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+- [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+- [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+
+**Memory Consolidation and Sleep:**
+- [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+- [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+- [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+- [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+- [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+
+**Stoic Philosophy and Marcus Aurelius:**
+- [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+- [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+- [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+
+**Behavioral Modification and Habit Formation:**
+- [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+- [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+- [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+- [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+- [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
 
 
 
@@ -475,3 +550,82 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for Phase V**
+> The design principles here synthesise findings from controlled laboratory experiments (Mueller & Dweck), meta-analytic reviews (Hattie & Timperley, 2007; Black & Wiliam, 1998; Deci, Koestner & Ryan, 1999), longitudinal classroom studies (Black et al., 2003), and cross-cultural SDT research (Assor, Kaplan & Roth, 2002). The distinction between well-replicated mechanisms (process praise effects, attribution retraining, SDT basic need satisfaction) and contested application claims (large-scale mindset intervention effectiveness) is maintained throughout.
+
+---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> This analysis draws from three intellectual traditions: Aristotelian decomposition (identifying propositions that are known in themselves vs. derived), Cartesian methodological doubt (treating each assumption as provisional until independently verified), and applied first-principles reasoning in the spirit of Weiner and Bandura's theory-building approach (seek the most parsimonious explanation grounded in robust empirical findings).
+> 
+> The evidence base for assumption auditing draws primarily on (1) the replication and meta-analytic literature published from 2015 onward, which provides the most rigorous assessment of effect sizes and boundary conditions; (2) the attribution theory and achievement goal theory literatures, which provide the best-replicated empirical foundations in the domain; and (3) Bandura's self-efficacy program, which offers the most extensively validated account of the role of experience in ability belief formation.
+> 
+> The novel contributions of this report — specifically the Specificity Principle, the Mastery-Experience Primacy Hypothesis, and the Goal Orientation Bypass — are logical derivations from the identified axioms rather than independent empirical claims. They are theoretically motivated and consistent with available evidence, but they have not been directly tested as stated here.
+> 
+> The analyst's most significant potential bias is toward experimental and quantitative evidence. Practitioners with extensive classroom experience may have phenomenological access to mindset effects that aggregate studies miss. This report should be read as a reframing of the theoretical and mechanistic claims, not as a dismissal of practitioners' observations.
+
+> [!methodology-and-sources] **🛠️ The Stoic Evening Examination Protocol** *(from stoicism-codebase-pack.md)*
+> Marcus Aurelius's practice, reconstructed from the *Meditations* and supplemented by modern neuroscientific understanding, follows a systematic structure:
+> 
+> **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
+> 
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> 
+> **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
+> 
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+
+
+
+## Source Attribution
+
+**Extracted from:** [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]]

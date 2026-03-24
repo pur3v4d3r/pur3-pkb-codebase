@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,6 +39,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "reference-instructional-pkb-review-system-2025120322"
+  - "reference-instructional-pkb-review-system-2025120322.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -72,6 +73,14 @@ see-also:
   - "[[review-queries-library]]"
   - "[[review-templates-library]]"
   - "[[review-buttons-library]]"
+  - "[[PKB-Review-System:-Complete-Implementation-Package|PKB Review System: Complete Implementation Package]]"
+  - "[[Stoic-Philosophy|Stoic Philosophy]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[pkb-&-pkm-moc|pkb-&-pkm-moc]]"
+  - "[[cognitive-science-moc|cognitive-science-moc]]"
+  - "[[review-queries-library|review-queries-library]]"
+  - "[[review-templates-library|review-templates-library]]"
+  - "[[review-buttons-library|review-buttons-library]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -150,3 +159,24 @@ importance: medium
 
 **Related concepts:**
 [[PKB-Review-System-Complete-Implementation-Package|PKB Review System: Complete Implementation Package]] · [[Stoic-Philosophy|Stoic Philosophy]] · [[Cognitive-Science|Cognitive Science]] · [[pkb-&-pkm-moc]] · [[cognitive-science-moc]] · [[review-queries-library]] · [[review-templates-library]] · [[review-buttons-library]] · [[review-macros-library]] · [[External-Cognition|External Cognition]] · [[Epistemic-Beliefs|Epistemic Beliefs]] · [[Maturity]] · [[Extended-Cognition|Extended Cognition]] · [[Illusion-of-Competence|Illusion of Competence]] · [[Retrieval-Pathways|Retrieval Pathways]]
+
+**Related concepts** *(from reference-instructional-pkb-review-system-2025120322.md)*:
+[[PKB-Review-System:-Complete-Implementation-Package|PKB Review System: Complete Implementation Package]] * [[Stoic-Philosophy|Stoic Philosophy]] * [[Cognitive-Science|Cognitive Science]] * [[External-Cognition|External Cognition]] * [[Epistemic-Beliefs|Epistemic Beliefs]] * [[Extended-Cognition|Extended Cognition]] * [[Illusion-of-Competence|Illusion of Competence]] * [[Retrieval-Pathways|Retrieval Pathways]] * [[Testing-Effect|Testing Effect]] * [[Spacing-Effect|Spacing Effect]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Dichotomy-of-Control|Dichotomy of Control]] * [[Premeditatio-Malorum|Premeditatio Malorum]] * [[View-from-Above|View from Above]] * [[Memento-Mori|Memento Mori]]
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Confidence Assessment Rubric**
+> | Level | Definition | Evidence Required | Risk Profile |
+> |-------|-----------|-------------------|--------------|
+> | **speculative** | Hypothesis or intuition | Personal reasoning only | High error probability |
+> | **provisional** | Reasonable but unverified | Single source or limited evidence | Moderate error probability |
+> | **moderate** | Corroborated understanding | Multiple sources, some verification | Low error probability |
+> | **established** | Well-supported knowledge | Strong evidence, expert consensus | Very low error probability |
+> | **high** | Foundational certainty | Extensive…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[reference-instructional-pkb-review-system-2025120322]]

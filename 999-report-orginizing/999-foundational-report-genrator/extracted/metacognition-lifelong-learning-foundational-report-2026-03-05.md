@@ -98,7 +98,7 @@ key-distinctions:
   - Self-regulated learning vs. externally regulated learning
   - Desirable difficulties vs. undesirable difficulties
 prerequisites:
-  - "[[Memory Systems and Encoding]]"
+  - "[[Memory-Systems-and-Encoding|Memory Systems and Encoding]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Executive-Function|Executive Function]]"
 related:
@@ -111,7 +111,7 @@ related:
   - "[[Cognitive Biases in Learning]]"
   - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
 broader:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Lifespan Developmental Psychology]]"
 narrower:
@@ -135,8 +135,8 @@ applied-in:
   - "[[Workplace Learning]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
 builds-on:
-  - "[[Memory Systems and Encoding]]"
-  - "[[Attention and Cognitive Control]]"
+  - "[[Memory-Systems-and-Encoding|Memory Systems and Encoding]]"
+  - "[[Attention-and-Cognitive-Control|Attention and Cognitive Control]]"
   - "[[Schema-Theory|Schema Theory]]"
 enables:
   - "[[Expert-Level Skill Acquisition]]"

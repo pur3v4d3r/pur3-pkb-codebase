@@ -5,7 +5,6 @@
 title: "Bayesian-Brain-—-Empirical-Status-Review"
 aliases:
   - "-Empirical-Status-Review"
-  - "Bayesian Brain — Empirical Status Review"
   - "Bayesian-Brain-"
   - "Bayesian-Brain-—-Empirical-Status-Review"
 type: permanent-note
@@ -26,8 +25,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

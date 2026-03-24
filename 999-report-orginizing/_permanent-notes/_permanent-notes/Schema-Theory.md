@@ -2,10 +2,10 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Schema Theory"
+title: "Schema-theory"
 aliases:
-  - "Schema Theory"
   - "Schema-theory"
+  - "Schema Theory"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,66 +24,45 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 30
+referenced-by-count: 5
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Final-Synthesis-Across-the-Series]]"
-  - "[[Active-Construction-Imperative]]"
-  - "[[Basic-Level-Category]]"
-  - "[[Cognitive-Alignment-Principle]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Cognitive-Architecture-Isomorphism-Principle]]"
-  - "[[Cognitive-Chunking]]"
-  - "[[Derived-Principle]]"
-  - "[[Encoding-Specificity]]"
-  - "[[Faceted-Classification]]"
+  - "[[Accommodation]]"
+  - "[[Accretion,-Tuning,-Restructuring]]"
+  - "[[Equilibration]]"
+  - "[[Reconstructive-Memory]]"
+  - "[[Slot-Default-Value]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: low
 ---
 
-# Schema Theory
+# Schema-theory
 
-> [!definition] **Schema Theory**
-> *Stub note — concept referenced by 30 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Schema-theory**
+> *Stub note — concept referenced by 5 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 30 permanent notes.*
+*Auto-generated stub — referenced by 5 permanent notes.*
 
 ## Referenced By
 
-- [[A-Final-Synthesis-Across-the-Series]]
-- [[Active-Construction-Imperative]]
-- [[Basic-Level-Category]]
-- [[Cognitive-Alignment-Principle]]
-- [[Cognitive-Architecture]]
-- [[Cognitive-Architecture-Isomorphism-Principle]]
-- [[Cognitive-Chunking]]
-- [[Derived-Principle]]
-- [[Encoding-Specificity]]
-- [[Faceted-Classification]]
-- [[Five-Convergence-Zones]]
-- [[Foundational-Principle]]
-- [[Heutagogical-Self-Design]]
-- [[Information-Architecture-Isomorphism]]
-- [[Information-Scent]]
-- [[Integrated-Learning-System-Model]]
-- [[Integration-Metabolism]]
-- [[Knowledge-Organization-System-KOS]]
-- [[Maps-of-Content-—-MOCs]]
-- [[Refinement-Principle]]
-- *...and 10 more permanent notes*
+- [[Accommodation]]
+- [[Accretion,-Tuning,-Restructuring]]
+- [[Equilibration]]
+- [[Reconstructive-Memory]]
+- [[Slot-Default-Value]]

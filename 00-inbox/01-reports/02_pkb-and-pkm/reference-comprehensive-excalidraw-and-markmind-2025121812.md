@@ -1447,7 +1447,7 @@ Meeting: [Topic] - [Date]
 ### 3. **[[Mind Mapping Theory & Research]]**
 **Connection:** Academic foundations of mind mapping as cognitive tool—MarkMind implements principles from this research domain.
 **Depth Potential:** Examine Tony Buzan's original mind mapping research, cognitive science studies on radial vs. linear organization, effectiveness research comparing mind maps to outlines, and memory palace connections. Explore when mind maps work (and when they don't).
-**Knowledge Graph Role:** Theoretical bridge between [[Cognitive-Psychology]], [[Learning Theory]], and practical tools like MarkMind. Informs when to use hierarchical vs. freeform visual organization.
+**Knowledge Graph Role:** Theoretical bridge between [[cognitive-psychology]], [[Learning Theory]], and practical tools like MarkMind. Informs when to use hierarchical vs. freeform visual organization.
 **Priority:** Medium—enriches understanding but not essential for tool use.
 **Prerequisites:** [[Learning Theory Basics]], [[MarkMind Basics]] (this note)
 

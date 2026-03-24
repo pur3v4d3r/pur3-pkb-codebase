@@ -24,7 +24,7 @@ link-up:
 link-related:
   - "[[2025-11-22|Daily-Note]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Cognitive-Science]]"
   - "[[Cognitive Theory]]"
   - "[[Epistemic-Cognition]]"

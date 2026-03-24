@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,14 +72,6 @@ see-also:
   - "[[Carol-Ames|Carol Ames]]"
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[Instructional-Design|Instructional Design]]"
-  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
-  - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Motivational-Psychology|Motivational Psychology]]"
-  - "[[John-G.-Nicholls|John G. Nicholls]]"
-  - "[[Carol-Ames|Carol Ames]]"
-  - "[[Carol-S.-Dweck|Carol S. Dweck]]"
-  - "[[Instructional-Design|Instructional Design]]"
-  - "[[Assessment-Design|Assessment Design]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Motivational-Psychology|Motivational Psychology]]"
@@ -132,14 +124,14 @@ importance: high
 > [!evidence] Supporting Evidence
 > Elliot and McGregor (2001) validated the 2×2 model across two studies using confirmatory factor analysis, demonstrating that the four goal types are empirically distinct (not merely conceptually separable) and have different patterns of relationships to cognitive strategies, exam anxiety, and academic performance. Their results showed: mastery-approach goals predicted deep processing and positive test affect; performance-approach goals predicted surface processing but also higher exam…
 
-> [!analytical-insight] Key Insight
-> The standard of competence a person is using to evaluate their performance determines the psychological meaning of effort, difficulty, and failure — and therefore determines the motivational consequences of those experiences. Achievement Goal Theory proposes that much of the variability in adaptive and maladaptive motivation in achievement contexts can be traced to which standard of competence is operative at a given moment.
-
-> [!evidence] Supporting Evidence *(from achievement-goal-theory-foundational-report-2026-03-10.md)*
+> [!evidence] Supporting Evidence
 > The foundational theoretical paper in Achievement Goal Theory. Nicholls distinguishes differentiated from undifferentiated conceptions of ability and derives the task-involvement/ego-involvement distinction from this analysis. Essential reading for understanding the philosophical and developmental foundations of the theory. Directly relevant to Phases II and IV of this report.
 
-> [!evidence] Supporting Evidence *(from achievement-goal-theory-foundational-report-2026-03-10.md)*
+> [!evidence] Supporting Evidence
 > The seminal paper establishing the motivational climate framework and the TARGET dimensions. Ames synthesises classroom observational research with goal theory to produce a practically actionable framework for educational design. A cornerstone reference for applications in instructional and classroom design. Relevant to Phases III and V.
+
+> [!analytical-insight] Key Insight
+> The standard of competence a person is using to evaluate their performance determines the psychological meaning of effort, difficulty, and failure — and therefore determines the motivational consequences of those experiences. Achievement Goal Theory proposes that much of the variability in adaptive and maladaptive motivation in achievement contexts can be traced to which standard of competence is operative at a given moment.
 
 > [!evidence] Supporting Evidence *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
 > Children in the expected-reward condition showed significantly lower free-choice engagement with drawing materials 1–2 weeks after the reward phase, compared to unexpected-reward and no-reward controls. Effect sizes were substantial (Cohen's d estimates from later meta-analyses place the effect around 0.4–0.5 for expected tangible rewards). This study established the "overjustification effect" as a concept — the idea that externally justifying behaviour you already enjoy paradoxically weakens your motivation to engage in it.
@@ -155,8 +147,6 @@ importance: high
 
 > [!analytical-insight] Key Insight *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
 > Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
-
-
 
 
 
@@ -182,16 +172,15 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*
-> Before reading further, take a moment to reflect on a learning context that matters to you — a skill you are developing, a course you are taking, a project you are working on. What is the implicit question you are asking yourself as you engage with it? Are you asking *Am I getting better?* or are you asking *Am I doing better than others?* Or perhaps something more fearful: *Am I avoiding looking stupid?* Holding your own motivational profile in mind as you read will make the theory far more personally legible.
+> [!reflection] **Reflect**
+> Before reading further, take a moment to reflect on a learning context that matters to you — a skill you are developing, a course you are taking, a project you are working on. What is the implicit question you are asking yourself as you engage with it? Are you asking *Am I getting better?* or are you asking *Am I doing better than others?* Or perhaps something more fearful: *Am I avoiding looking stupid?* Holding your own motivational profile in mind as you read will make the theory far more…
 
-> [!reflection] **Reflect** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*
+> [!reflection] **Reflect**
 > 1. Which of these foundational distinctions — undifferentiated vs. differentiated ability, task vs. ego involvement, mastery vs. performance goals — most challenges an assumption you brought to this reading? What does that challenge reveal about your prior model of motivation?
 > 2. Can you identify a learning context in your own life where you have clearly operated in task-involved mode, and another where ego involvement was dominant? What was different about those experiences?
-> 3. Why might the differentiated conception of ability be developmentally *later* than the undifferentiated conception? What cognitive capacities does it require?
+> 3. Why might the…
 
 > [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
 > Before reading further, commit to a prediction: Suppose a child who genuinely loves drawing is given a gold-star certificate every time they complete a drawing. After several weeks, the certificates stop. Does the child draw *more*, *less*, or *about the same* as before the reward programme began? Write down your prediction and the intuition behind it. The answer — and the explanation — is the core of what this report analyses.
@@ -200,6 +189,15 @@ importance: high
 > The argument from here forward depends on the distinction between the controlling aspect and the informational aspect of an event. Before proceeding, test yourself: can you explain, in your own words, why the *same* verbal praise ("great job!") could be primarily controlling for one student and primarily informational for another? What factors would determine which meaning is more salient? If you're reaching for the definitions above rather than understanding them, consider re-reading before proceeding.
 
 
+
+
+## Conceptual Tensions
+
+> [!tension] **The Meta-Analysis Interpretation Battle** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
+
+> [!tension] **The Operationalisation Problem: When Functional Significance Becomes Unfalsifiable** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> CET's most significant theoretical vulnerability is related to its greatest strength. The concept of functional significance is powerful precisely because it does not tie motivational effects to the structural properties of events — it allows the same event to have different effects depending on how it is experienced. But this flexibility comes at a cost: functional significance is extraordinarily difficult to operationalise independently of the motivational outcomes it is supposed to predict. In most studies, the researcher manipulates the event (reward type, feedback framing) and then measures intrinsic motivation. The functional significance is inferred from the outcome, not measured directly. This creates the risk of circular explanation: "The reward undermined intrinsic motivation because it was controlling; how do we know it was controlling? Because it undermined intrinsic motivation." The studies that get closest to independent measurement of functional significance (using manipulation checks, thought-listing procedures, or phenomenological reports) provide more compelling evidence — but they remain the minority. This is not a fatal flaw but a persistent limitation that needs to be held in mind when interpreting the evidence base.
 
 
 ## Connections & Context
@@ -256,46 +254,6 @@ importance: high
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Schema-Theory|Schema Theory]]
 
-**Related concepts** *(from achievement-goal-theory-foundational-report-2026-03-10.md, cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-[[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Educational-Psychology|Educational Psychology]] * [[Motivational-Psychology|Motivational Psychology]] * [[John-G.-Nicholls|John G. Nicholls]] * [[Carol-Ames|Carol Ames]] * [[Carol-S.-Dweck|Carol S. Dweck]] * [[Instructional-Design|Instructional Design]] * [[Assessment-Design|Assessment Design]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Growth-Mindset|Growth Mindset]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Conceptions-of-Ability|Conceptions of Ability]] * [[Fixed-Mindset|Fixed Mindset]]
-
-**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[speech-act-theory|speech act theory]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
-
-**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from achievement-goal-theory-foundational-report-2026-03-10.md)*:
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Growth-Mindset|Growth Mindset]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
 
 
 
@@ -303,6 +261,63 @@ importance: high
 
 
 
+## References
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328–346.**: The foundational theoretical paper in Achievement Goal Theory. Nicholls distinguishes differentiated from undifferentiated conceptions of ability and derives the task-involvement/ego-involvement distinction from this analysis. Essential reading for understanding the philosophical and developmental foundations of the theory. Directly relevant to Phases II and IV of this report.
+- **Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: The seminal paper establishing the motivational climate framework and the TARGET dimensions. Ames synthesises classroom observational research with goal theory to produce a practically actionable framework for educational design. A cornerstone reference for applications in instructional and classroom design. Relevant to Phases III and V.
+- **Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.**: The paper that introduced and validated the 2×2 framework, distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance goals. Two studies using confirmatory factor analysis demonstrate the empirical distinctiveness of the four goal types and their differential relationships to cognitive and affective outcomes. The most influential recent theoretical paper in the field. Relevant to Phase III throughout.
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The paper that introduced the entity/incremental theory of intelligence distinction and connected it to helpless vs. mastery-oriented response patterns. Provides the cognitive-developmental foundation that explains *why* individuals differ in goal orientation tendencies. Bridges the AGT literature with the mindset literature. Directly relevant to Phase IV.
+- **Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422–449.**: A critical meta-analysis demonstrating that measurement inconsistency — specifically, differences in how performance goal items are worded — significantly moderates the effects attributed to performance goals. An essential corrective to naive readings of the empirical literature and a key text for understanding the limitations discussed in Phase V.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328–346.**: The foundational theoretical paper in Achievement Goal Theory. Nicholls distinguishes differentiated from undifferentiated conceptions of ability and derives the task-involvement/ego-involvement distinction from this analysis. Essential reading for understanding the philosophical and developmental foundations of the theory. Directly relevant to Phases II and IV of this report.
+
+- **Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: The seminal paper establishing the motivational climate framework and the TARGET dimensions. Ames synthesises classroom observational research with goal theory to produce a practically actionable framework for educational design. A cornerstone reference for applications in instructional and classroom design. Relevant to Phases III and V.
+
+- **Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.**: The paper that introduced and validated the 2×2 framework, distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance goals. Two studies using confirmatory factor analysis demonstrate the empirical distinctiveness of the four goal types and their differential relationships to cognitive and affective outcomes. The most influential recent theoretical paper in the field. Relevant to Phase III throughout.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The paper that introduced the entity/incremental theory of intelligence distinction and connected it to helpless vs. mastery-oriented response patterns. Provides the cognitive-developmental foundation that explains *why* individuals differ in goal orientation tendencies. Bridges the AGT literature with the mindset literature. Directly relevant to Phase IV.
+
+- **Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422–449.**: A critical meta-analysis demonstrating that measurement inconsistency — specifically, differences in how performance goal items are worded — significantly moderates the effects attributed to performance goals. An essential corrective to naive readings of the empirical literature and a key text for understanding the limitations discussed in Phase V.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328–346.**: The foundational theoretical paper in Achievement Goal Theory. Nicholls distinguishes differentiated from undifferentiated conceptions of ability and derives the task-involvement/ego-involvement distinction from this analysis. Essential reading for understanding the philosophical and developmental foundations of the theory. Directly relevant to Phases II and IV of this report.
+
+- **Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: The seminal paper establishing the motivational climate framework and the TARGET dimensions. Ames synthesises classroom observational research with goal theory to produce a practically actionable framework for educational design. A cornerstone reference for applications in instructional and classroom design. Relevant to Phases III and V.
+
+- **Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.**: The paper that introduced and validated the 2×2 framework, distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance goals. Two studies using confirmatory factor analysis demonstrate the empirical distinctiveness of the four goal types and their differential relationships to cognitive and affective outcomes. The most influential recent theoretical paper in the field. Relevant to Phase III throughout.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The paper that introduced the entity/incremental theory of intelligence distinction and connected it to helpless vs. mastery-oriented response patterns. Provides the cognitive-developmental foundation that explains *why* individuals differ in goal orientation tendencies. Bridges the AGT literature with the mindset literature. Directly relevant to Phase IV.
+
+- **Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422–449.**: A critical meta-analysis demonstrating that measurement inconsistency — specifically, differences in how performance goal items are worded — significantly moderates the effects attributed to performance goals. An essential corrective to naive readings of the empirical literature and a key text for understanding the limitations discussed in Phase V.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105–115.**: The foundational experimental study establishing the undermining effect with monetary rewards and Soma puzzle performance. While methodologically modest by contemporary standards, this study launched a 50-year research programme. Its value for this report is as the original empirical instantiation of the claim that extrinsic rewards can reduce subsequent free-choice engagement with intrinsically interesting activities.
+
+- **Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis. *Journal of Personality and Social Psychology*, 28(1), 129–137.**: The paradigmatic overjustification study with preschool children and drawing materials. Methodologically important because it used a naturalistic observation measure (classroom free play) rather than laboratory free choice, providing greater ecological validity. The unexpected-reward control condition is particularly important for CET's theoretical interpretation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.**: The theoretical monograph that articulates Cognitive Evaluation Theory as a formal sub-theory and situates it within SDT. The most important primary source for understanding CET's conceptual architecture, including the functional significance concept, the two-pathway model, and the taxonomy of ambient conditions. Essential reading for anyone working seriously with CET.
+
+- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research*, 64(3), 363–423.**: The controversial meta-analysis arguing that rewards do not reliably undermine intrinsic motivation. Important as a cautionary methodological counterweight to uncritical acceptance of CET's claims. This report treats Cameron and Pierce's work not as refuting CET but as demonstrating the sensitivity of meta-analytic conclusions to coding and modelling decisions — and as providing useful disaggregation of reward types.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The comprehensive meta-analysis of 128 studies that provides the strongest evidence base for CET. The disaggregated findings by reward contingency type (engagement-contingent, completion-contingent, performance-contingent, verbal) are particularly important for instructional design applications. The exchange with Cameron and Pierce in the same issue of Psychological Bulletin is essential reading for understanding the limits of meta-analytic evidence.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328–346.**: The foundational theoretical paper in Achievement Goal Theory. Nicholls distinguishes differentiated from undifferentiated conceptions of ability and derives the task-involvement/ego-involvement distinction from this analysis. Essential reading for understanding the philosophical and developmental foundations of the theory. Directly relevant to Phases II and IV of this report.
+
+- **Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: The seminal paper establishing the motivational climate framework and the TARGET dimensions. Ames synthesises classroom observational research with goal theory to produce a practically actionable framework for educational design. A cornerstone reference for applications in instructional and classroom design. Relevant to Phases III and V.
+
+- **Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.**: The paper that introduced and validated the 2×2 framework, distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance goals. Two studies using confirmatory factor analysis demonstrate the empirical distinctiveness of the four goal types and their differential relationships to cognitive and affective outcomes. The most influential recent theoretical paper in the field. Relevant to Phase III throughout.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The paper that introduced the entity/incremental theory of intelligence distinction and connected it to helpless vs. mastery-oriented response patterns. Provides the cognitive-developmental foundation that explains *why* individuals differ in goal orientation tendencies. Bridges the AGT literature with the mindset literature. Directly relevant to Phase IV.
+
+- **Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422–449.**: A critical meta-analysis demonstrating that measurement inconsistency — specifically, differences in how performance goal items are worded — significantly moderates the effects attributed to performance goals. An essential corrective to naive readings of the empirical literature and a key text for understanding the limitations discussed in Phase V.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328–346.**: The foundational theoretical paper in Achievement Goal Theory. Nicholls distinguishes differentiated from undifferentiated conceptions of ability and derives the task-involvement/ego-involvement distinction from this analysis. Essential reading for understanding the philosophical and developmental foundations of the theory. Directly relevant to Phases II and IV of this report.
+
+- **Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: The seminal paper establishing the motivational climate framework and the TARGET dimensions. Ames synthesises classroom observational research with goal theory to produce a practically actionable framework for educational design. A cornerstone reference for applications in instructional and classroom design. Relevant to Phases III and V.
+
+- **Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.**: The paper that introduced and validated the 2×2 framework, distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance goals. Two studies using confirmatory factor analysis demonstrate the empirical distinctiveness of the four goal types and their differential relationships to cognitive and affective outcomes. The most influential recent theoretical paper in the field. Relevant to Phase III throughout.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The paper that introduced the entity/incremental theory of intelligence distinction and connected it to helpless vs. mastery-oriented response patterns. Provides the cognitive-developmental foundation that explains *why* individuals differ in goal orientation tendencies. Bridges the AGT literature with the mindset literature. Directly relevant to Phase IV.
+
+- **Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422–449.**: A critical meta-analysis demonstrating that measurement inconsistency — specifically, differences in how performance goal items are worded — significantly moderates the effects attributed to performance goals. An essential corrective to naive readings of the empirical literature and a key text for understanding the limitations discussed in Phase V.
 
 
 
@@ -310,3 +325,38 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on foundational theoretical texts by Nicholls (1984), Ames (1992), and Elliot & McGregor (2001), as well as the extensive empirical literature generated by these frameworks over four decades. The treatment of mechanisms integrates findings from laboratory studies, classroom observational research, and longitudinal investigations. Meta-analytic evidence from Hulleman et al. (2010) and Murayama and Elliot (2012) is incorporated where it provides aggregated estimates of effect sizes. Claims about mechanism are generally well-supported by converging evidence from multiple…
+
+---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> This report draws on the experimental and meta-analytic literature on Cognitive Evaluation Theory, the primary theoretical sources (Deci & Ryan, 1971–2000), and the meta-analytic debates (Cameron & Pierce, 1994; Deci, Koestner & Ryan, 1999). The claims in Phases III and IV are grounded in well-replicated empirical findings, though the specific effect sizes cited are drawn from meta-analytic estimates and should be treated as approximations. The functional significance mechanism is theoretically well-established within SDT, though the operationalisation problem identified in Phase IV represents a genuine empirical limitation.
+> 
+> The analytical contributions in Phases IV and VI — specifically the claim about the asymmetry between undermining and enhancement, the cross-domain connection to speech act theory, and the Interpretive Filter Model — are original syntheses by Claude that go beyond what individual sources establish. They are grounded in the evidence and logic presented throughout the report, but they should be treated as theoretical proposals rather than established findings. The Interpretive Filter Model in particular is a novel integration that has not been formally tested; it is offered as a framework that makes the functional significance concept more tractable, not as an empirically confirmed account.
+
+
+## Source Attribution
+
+**Extracted from:** [[achievement-goal-theory-foundational-report-2026-03-10]]

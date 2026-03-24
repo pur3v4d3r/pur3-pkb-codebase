@@ -220,7 +220,7 @@ LIMIT 15
 > - [[Templater Plugin]]
 > - [[GTD (Getting Things Done)]]
 > - [[Project Management in Obsidian]]
-> - [[Dashboard Design]]
+> - [[Dashboard-Design]]
 > - [[Inline Fields]]
 > - [[JavaScript in Dataview]]
 > - [[Task Prioritization]]

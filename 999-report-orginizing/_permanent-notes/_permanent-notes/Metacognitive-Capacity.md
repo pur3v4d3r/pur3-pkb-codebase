@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,14 +81,6 @@ see-also:
   - "[[Metacognition|Metacognition]]"
   - "[[Cognitive-Debt|cognitive debt]]"
   - "[[technical-debt|technical debt]]"
-  - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
-  - "[[Cognitive-Biases|Cognitive Biases]]"
-  - "[[Decision-Making|Decision-Making]]"
-  - "[[Personal-Development|Personal Development]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Cognitive-Debt|cognitive debt]]"
-  - "[[technical-debt|technical debt]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -115,7 +107,7 @@ importance: medium
 # Metacognitive Capacity
 
 > [!definition] **Metacognitive Capacity**
-> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring]] (awareness of current cognitive states), and (3) [[Metacognitive-Control]] (ability to regulate cognitive processes based on monitoring)</span>
+> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring]] (awareness of current cognitive states), and (3) [[metacognitive control]] (ability to regulate cognitive processes based on monitoring)</span>
 
 ## Core Explanation
 
@@ -145,9 +137,36 @@ importance: medium
 [[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[Cognitive-Biases|cognitive biases]] · [[Cognitive-Debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[Cognitive-Biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[Confirmation-Bias|confirmation bias]] · [[Anchoring-Effects|anchoring effects]]
 
 **Related concepts** *(from cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md)*:
-[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[Confirmation-Bias|confirmation bias]] * [[Anchoring-Effects|anchoring effects]] * [[debiasing|debiasing]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[compound-interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]]
-
-**Related concepts** *(from cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md)*:
-[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[Confirmation-Bias|confirmation bias]] * [[Anchoring-Effects|anchoring effects]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[compound-interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[Adolescence|Adolescence]]
+[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[debiasing|debiasing]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[compound-interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[Adolescence|Adolescence]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]]
 
 
+## References
+
+- **Primary Sources**: - Korteling, J. E., Paradies, G. L., & Sassen-van Meer, J. P. (2023). Cognitive bias and how to improve sustainable decision making. *Frontiers in Psychology*, 14. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1129835/full
+
+- Booth, C., Songco, A., Parsons, S., Heathcote, L. C., Vincent, J., & Fox, E. (2020). Anxiety and depressive symptom trajectories in adolescence and the co-occurring development of cognitive biases: Evidence from the CogBIAS Longitudinal Study. *Research on Child and Adolescent Psychopathology*, 48(11). https://link.springer.com/article/10.1007/s10802-020-00694-9
+
+- Saposnik, G., Redelmeier, D., Ruff, C. C., & Tobler, P. N. (2016). Cognitive biases associated with medical decisions: A systematic review. *BMC Medical Informatics and Decision Making*, 16(1), 138. https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/
+
+- MIT Research Group (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. https://www.researchgate.net/publication/392560878
+
+- Tay, L., Batz, C., Parrigon, S., & Kuykendall, L. (2017). Debt and subjective well-being: The other side of the income-happiness coin. *Journal of Happiness Studies*, 18(3), 903-937. https://www.aeaweb.org/conference/2018/preliminary/paper/yaYn2DYb
+
+- Korteling, J. E., Paradies, G. L., & Sassen-van Meer, J. P. (2021). Retention and transfer of cognitive bias mitigation interventions: A systematic literature study. *Frontiers in Psychology*, 12. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.629354/full
+
+- McKinsey & Company (2025). Biases in decision-making: A guide for CFOs. https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/biases-in-decision-making-a-guide-for-cfos
+
+- Zavlis, O., Parsons, S., Fox, E., Booth, C., Songco, A., & Vincent, J. P. (2024). The effects of life experiences and polygenic risk for depression on the development of positive and negative cognitive biases across adolescence: The CogBIAS hypothesis. *Development and Psychopathology*, 37(1), 361–370.
+
+- Wang, Y., Zhang, Y., Li, Z., Wang, Y., & Su, Y. (2025). From context to self: Longitudinal overgeneralization of negative interpretive biases in adolescents. *Cognitive Therapy and Research*. https://link.springer.com/article/10.1007/s10608-025-10645-7
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Consider-the-Opposite Strategy**
+> One empirically-supported debiasing technique is <span style='color: #27FF00;'>**"consider the opposite"**</span>—deliberately generating alternative interpretations, explanations, or predictions contrary to one's initial intuition. Research shows this reduces [[Confirmation-Bias]], [[Anchoring-Effects]], and [[overconfidence]]. Implementation protocol: Before finalizing important decisions, explicitly ask: (1) <span style='color: #72FFF1;'>"What evidence would disconfirm my current belief?"</span> (2) <span style='color: #72FFF1;'>"What would someone holding the opposite position…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]]

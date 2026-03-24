@@ -24,15 +24,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 78
+referenced-by-count: 85
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -46,8 +46,8 @@ see-also:
   - "[[Autonomous-Motivation-vs.-Controlled-Motivation]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomous-Relationship-Motivation]]"
+  - "[[Autonomous-vs.-Controlled-Motivation]]"
   - "[[Autonomy-Need]]"
-  - "[[Autonomy-Relatedness-Integration]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,9 +60,9 @@ importance: high
 # Richard-Ryan
 
 > [!definition] **Richard-Ryan**
-> *Stub note — concept referenced by 78 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 85 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 78 permanent notes.*
+*Auto-generated stub — referenced by 85 permanent notes.*
 
 ## Referenced By
 
@@ -74,16 +74,16 @@ importance: high
 - [[Autonomous-Motivation-vs.-Controlled-Motivation]]
 - [[Autonomous-Regulation]]
 - [[Autonomous-Relationship-Motivation]]
+- [[Autonomous-vs.-Controlled-Motivation]]
 - [[Autonomy-Need]]
 - [[Autonomy-Relatedness-Integration]]
 - [[Autonomy-Supportive-Environment]]
+- [[Basic-Psychological-Need]]
+- [[Basic-Psychological-Needs-Theory]]
 - [[Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra]]
 - [[Challenge-Skill-Balance]]
 - [[Cognitive-Evaluation-Theory]]
 - [[Cognitive-Vitality]]
 - [[Compensatory-Hypothesis]]
 - [[Competence]]
-- [[Competence-Need]]
-- [[Conditional-Positive-Regard]]
-- [[Conditional-Regard]]
-- *...and 58 more permanent notes*
+- *...and 65 more permanent notes*

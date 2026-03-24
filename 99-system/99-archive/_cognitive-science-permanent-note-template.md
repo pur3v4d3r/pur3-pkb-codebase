@@ -232,7 +232,7 @@ link-up:
 link-related:
   - "[[<% dateNow %>|Daily-Note]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Cognitive-Science]]"
   - "[[Cognitive Theory]]"
   - "[[Epistemic-Cognition]]"

@@ -293,7 +293,7 @@ extraction_summary:
 #### 15. [WHAT-THIS-DOES] Untitled *(Line 369)*
 
 > [!what-this-does] Untitled
-> Uses Dataview's date manipulation functions for period-based calculations. `som` (start of month), `eom` (end of month), and `soy` (start of year) are predefined constants. Useful for [[Dashboard Design]] and periodic review systems.
+> Uses Dataview's date manipulation functions for period-based calculations. `som` (start of month), `eom` (end of month), and `soy` (start of year) are predefined constants. Useful for [[Dashboard-Design|Dashboard Design]] and periodic review systems.
 
 #### 16. [METHODOLOGY-AND-SOURCES] Untitled *(Line 388)*
 
@@ -493,7 +493,7 @@ extraction_summary:
 - [[Backlinks]]
 - [[Book Note]]
 - [[.md]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview Expressions]]
 - [[Dataview Functions]]
 - [[Dataview Functions Reference]]
@@ -570,7 +570,7 @@ extraction_summary:
 | 26 | [[Zettelkasten]] | — | — | 📊 Age & Staleness Calculations | 346 |
 | 27 | [[Templater Plugin]] | — | — | ⏳ Deadline & Time-Until Calculations | 357 |
 | 28 | [[Project Management]] | — | — | ⏳ Deadline & Time-Until Calculations | 357 |
-| 29 | [[Dashboard Design]] | — | — | 📆 Relative Date Expressions | 370 |
+| 29 | [[Dashboard-Design|Dashboard Design]] | — | — | 📆 Relative Date Expressions | 370 |
 | 30 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
 | 31 | [[Backlinks]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
 | 32 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Link Counting | 469 |
@@ -1246,7 +1246,7 @@ LIMIT 15
 - [[Backlinks]]
 - [[Book Note]]
 - [[.md]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview Expressions]]
 - [[Dataview Functions]]
 - [[Dataview Functions Reference]]

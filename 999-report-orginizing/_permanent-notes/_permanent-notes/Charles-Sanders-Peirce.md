@@ -24,15 +24,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 55
+referenced-by-count: 54
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,9 +45,9 @@ see-also:
   - "[[Anomaly]]"
   - "[[Calibration]]"
   - "[[Confirmation-Bias]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
   - "[[Context-of-Discovery-vs.-Context-of-Justification]]"
   - "[[Controlled-Hallucination]]"
+  - "[[Corroboration]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,9 +60,9 @@ importance: high
 # Charles-Sanders-Peirce
 
 > [!definition] **Charles-Sanders-Peirce**
-> *Stub note — concept referenced by 55 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 54 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 55 permanent notes.*
+*Auto-generated stub — referenced by 54 permanent notes.*
 
 ## Referenced By
 
@@ -73,7 +73,6 @@ importance: high
 - [[Anomaly]]
 - [[Calibration]]
 - [[Confirmation-Bias]]
-- [[Confirmation-Bias-Myside-Bias]]
 - [[Context-of-Discovery-vs.-Context-of-Justification]]
 - [[Controlled-Hallucination]]
 - [[Corroboration]]
@@ -84,6 +83,7 @@ importance: high
 - [[Epistemic-Humility]]
 - [[Fallibilism]]
 - [[Free-Energy-Principle]]
-- [[Functional-Psychology]]
 - [[Generative-Model]]
-- *...and 35 more permanent notes*
+- [[Genetic-Epistemology]]
+- [[Infallibilism]]
+- *...and 34 more permanent notes*

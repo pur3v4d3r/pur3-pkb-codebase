@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 6
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,10 +39,7 @@ referenced-by-count: 6
 see-also:
   - "[[Autonomy]]"
   - "[[Autonomy-Need]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Competence-Need]]"
   - "[[Need-Frustration]]"
-  - "[[Relatedness-Need]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -55,15 +52,12 @@ importance: low
 # Flow Theory
 
 > [!definition] **Flow Theory**
-> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 6 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
 - [[Autonomy]]
 - [[Autonomy-Need]]
-- [[Basic-Psychological-Needs]]
-- [[Competence-Need]]
 - [[Need-Frustration]]
-- [[Relatedness-Need]]

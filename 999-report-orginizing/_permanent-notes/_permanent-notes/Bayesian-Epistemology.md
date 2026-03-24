@@ -24,56 +24,59 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 17
+referenced-by-count: 20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Calibration]]"
   - "[[Confirmation-Bias]]"
   - "[[Corroboration]]"
   - "[[Defeasibility]]"
   - "[[Defeat-Defeater]]"
   - "[[Epistemic-Calibration]]"
   - "[[Epistemic-Holism]]"
+  - "[[Epistemic-Humility]]"
   - "[[Fallibilism]]"
   - "[[Infallibilism]]"
-  - "[[Open-Society]]"
-  - "[[Progressive-Approximation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
 # Bayesian-Epistemology
 
 > [!definition] **Bayesian-Epistemology**
-> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 17 permanent notes.*
+*Auto-generated stub — referenced by 20 permanent notes.*
 
 ## Referenced By
 
+- [[Calibration]]
 - [[Confirmation-Bias]]
 - [[Corroboration]]
 - [[Defeasibility]]
 - [[Defeat-Defeater]]
 - [[Epistemic-Calibration]]
 - [[Epistemic-Holism]]
+- [[Epistemic-Humility]]
 - [[Fallibilism]]
 - [[Infallibilism]]
+- [[Intellectual-Humility]]
 - [[Open-Society]]
 - [[Progressive-Approximation]]
 - [[📖-Accommodation]]

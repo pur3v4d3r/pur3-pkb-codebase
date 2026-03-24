@@ -149,7 +149,7 @@ This will be a comprehensive reference note with the following architecture:
 - [[Confirmation-Bias]]
 - [[Self-Deception]]
 - [[Andragogy]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Dialogic Teaching]]
 - [[Questioning Strategies]]
 - [[Power Dynamics]]
@@ -376,7 +376,7 @@ This systematic coverage prevents the common failure mode of questioning that re
 
 ### The Dual-Process Connection: Type 1 and Type 2 Thinking
 
-Contemporary [[Cognitive-Psychology]] distinguishes between two modes of cognitive processing: **[[Type-1-Processing]]** (fast, automatic, heuristic-based, intuitive) and **[[Type-2-Processing]]** (slow, deliberate, rule-based, analytical). Type 1 processing enables rapid responses but is vulnerable to systematic errors; Type 2 processing provides accuracy but requires cognitive effort.
+Contemporary [[cognitive-psychology]] distinguishes between two modes of cognitive processing: **[[Type-1-Processing]]** (fast, automatic, heuristic-based, intuitive) and **[[Type-2-Processing]]** (slow, deliberate, rule-based, analytical). Type 1 processing enables rapid responses but is vulnerable to systematic errors; Type 2 processing provides accuracy but requires cognitive effort.
 
 Socratic questioning functions as a **Type 2 activation mechanism**. The systematic, probing nature of Socratic questions disrupts automatic responding and forces engagement of deliberate, analytical reasoning. Research indicates that the Socratic method produces resistance to belief bias and logical inconsistency by highlighting inconsistencies between initial responses (attributable to Type 1's reliance on heuristics) and responses given later to detailed questions.
 
@@ -565,4 +565,4 @@ The framework's power lies in its dual character as both **art and science**. Th
 4. **[[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]**
    - *Connection*: Socratic questioning represents one approach to structuring educational dialogue, but it exists within a broader landscape of discourse strategies (IRE patterns, accountable talk, exploratory talk, etc.). Understanding this context clarifies when Socratic methods are optimal versus when alternatives are more appropriate.
    - *Depth Potential*: The research on classroom discourse patterns reveals that not all dialogue is equally educative. Some patterns reinforce passive compliance while others cultivate genuine thinking. Distinguishing productive from unproductive discourse requires detailed analysis.
-   - *Knowledge Graph Role*: This connects Socratic questioning to broader [[Pedagogy]], [[Andragogy]], and [[Constructivist-Learning-Theory]], creating links to [[Zone-of-Proximal-Development]], [[Scaffolding]], and [[Cognitive-Apprenticeship]].
+   - *Knowledge Graph Role*: This connects Socratic questioning to broader [[pedagogy]], [[Andragogy]], and [[Constructivist-Learning-Theory]], creating links to [[Zone-of-Proximal-Development]], [[Scaffolding]], and [[Cognitive-Apprenticeship]].

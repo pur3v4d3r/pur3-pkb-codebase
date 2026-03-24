@@ -818,7 +818,7 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 
 ### Phase VII: FAR Transfer — Structural Analogues Across Domains (NEW in v1.1) (600-1,200 words)
 
-[**FAR-Transfer-Phase**:: Dedicated phase ensuring the analysis's insights travel beyond their originating domain. Grounded in [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural Mapping Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] research (Holyoak & Thagard, 1995). Executes four transfer operations: abstract principle extraction, structural analogue identification, transfer encoding, and application bridging.]
+[**FAR-Transfer-Phase**:: Dedicated phase ensuring the analysis's insights travel beyond their originating domain. Grounded in [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural-Mapping-Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] research (Holyoak & Thagard, 1995). Executes four transfer operations: abstract principle extraction, structural analogue identification, transfer encoding, and application bridging.]
 
 **Purpose**: Move the analysis's most important insights from domain-specific findings to transferable understanding. Research on [[Transfer-of-Learning]] demonstrates that transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed.
 
@@ -828,7 +828,7 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 
   *Template*: "The analysis revealed that {concrete finding in this domain}. At an abstract structural level, this instantiates a more general principle: {domain-independent principle}. This principle operates whenever {conditions for applicability}."
 
-- **Structural Analogue Identification** (2-3 per principle): Identify other domains where the same structural pattern operates — genuine [[Structural Mapping Theory|structural isomorphism]], not surface similarity.
+- **Structural Analogue Identification** (2-3 per principle): Identify other domains where the same structural pattern operates — genuine [[Structural-Mapping-Theory|structural isomorphism]], not surface similarity.
 
   *Template*: "The principle of {abstract principle} operates through {mechanism A} in {originating domain}. The same structural pattern appears in {target domain}, manifesting as {mechanism B}. The analogy holds because both share {relational structure}."
 

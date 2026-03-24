@@ -42,7 +42,7 @@ concepts::
   - "[[Inline Queries]]"
   - "[[Query Generation]]"
   - "[[Index Notes]]"
-  - "[[Dashboard Design]]"
+  - "[[Dashboard-Design]]"
   - "[[Obsidian-Automation]]"
   - "[[Reference Generation]]"
   - "[[Code Snippet Collections]]"

@@ -487,7 +487,7 @@ related:
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
@@ -521,7 +521,7 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning]]"
   - "[[Problem Solving in Complex Domains]]"
   - "[[Evidence-Based Practice]]"
 

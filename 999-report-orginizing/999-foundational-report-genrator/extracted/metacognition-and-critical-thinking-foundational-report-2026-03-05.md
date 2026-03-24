@@ -97,7 +97,7 @@ related:
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Epistemic-Cognition|Epistemic Cognition]]"
 broader:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
 narrower:
   - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
@@ -127,7 +127,7 @@ enables:
   - "[[Evidence-Based Professional Practice]]"
   - "[[Research Methodology and Epistemology]]"
 expansion-topics:
-  - topic: "[[Metacognitive Scaffolding Design Patterns]]"
+  - topic: "[[Metacognitive-Scaffolding-Design-Patterns|Metacognitive Scaffolding Design Patterns]]"
     description: Detailed instructional design patterns for embedding metacognitive prompts, think-aloud protocols, and self-assessment tools into courses
     priority: high
   - topic: "[[Critical Thinking Assessment and Measurement]]"
@@ -495,7 +495,7 @@ The most important open questions at the intersection of metacognition and criti
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Metacognitive Scaffolding Design Patterns]]
+> > [!topic-idea] [[Metacognitive-Scaffolding-Design-Patterns|Metacognitive Scaffolding Design Patterns]]
 > > A focused treatment of the specific instructional design patterns — think-aloud protocols, structured reflection prompts, metacognitive journals, peer critique frameworks, and self-assessment rubrics — that have the strongest evidence base for developing metacognitive capacity. Would include detailed templates, worked examples, and design principles for embedding these patterns into courses across domains. The primary value-add beyond this foundational report: specific, implementable tools for instructional practice.
 >
 > > [!topic-idea] [[Critical Thinking Assessment and Measurement]]

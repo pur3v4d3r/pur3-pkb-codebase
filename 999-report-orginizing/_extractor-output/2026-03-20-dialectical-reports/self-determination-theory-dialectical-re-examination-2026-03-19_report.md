@@ -730,7 +730,7 @@ extraction_summary:
 - [[Organismic-Integration-Theory]]
 - [[Causality-Orientations-Theory]]
 - [[Achievement-Goal-Theory]]
-- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[Attribution-Theory]]
 - [[Flow]]
 

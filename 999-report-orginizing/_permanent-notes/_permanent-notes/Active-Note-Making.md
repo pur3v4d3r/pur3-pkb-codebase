@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Active Note-Making"
+title: "Active-Note-Making"
 aliases:
-  - "Active Note-Making"
+  - "Active-Note-Making"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,61 +23,66 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 23
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Betweenness-Centrality]]"
-  - "[[Boundary-Objects]]"
-  - "[[Conceptual-Change]]"
-  - "[[Inert-Knowledge]]"
-  - "[[Integration-Paradox]]"
-  - "[[Integrative-Reconciliation]]"
-  - "[[Knowledge-Integration]]"
-  - "[[Progressive-Differentiation]]"
-  - "[[Small-World-Network]]"
-  - "[[Small-World-Networks]]"
+  - "[[Articulatory-Construction-Principle]]"
+  - "[[Audience-Simulation-Effect]]"
+  - "[[Cognitive-Surface-Area]]"
+  - "[[Epistemic-Action]]"
+  - "[[Generative-Learning-Theory]]"
+  - "[[Generative-Processing]]"
+  - "[[Knowledge-Telling]]"
+  - "[[Knowledge-Telling-vs.-Knowledge-Transforming]]"
+  - "[[Knowledge-Transforming]]"
+  - "[[Productive-Friction]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
-# Active Note-Making
+# Active-Note-Making
 
-> [!definition] **Active Note-Making**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Active-Note-Making**
+> *Stub note — concept referenced by 23 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 23 permanent notes.*
 
 ## Referenced By
 
-- [[Betweenness-Centrality]]
-- [[Boundary-Objects]]
-- [[Conceptual-Change]]
-- [[Inert-Knowledge]]
-- [[Integration-Paradox]]
-- [[Integrative-Reconciliation]]
-- [[Knowledge-Integration]]
-- [[Progressive-Differentiation]]
-- [[Small-World-Network]]
-- [[Small-World-Networks]]
-- [[Small-World-PKB-Principle]]
-- [[Strength-of-Weak-Ties]]
-- [[Synthetic-Model]]
-- [[The-Integration-Paradox]]
-- [[The-Small-World-PKB-Principle]]
-- [[Threshold-Concepts]]
+- [[Articulatory-Construction-Principle]]
+- [[Audience-Simulation-Effect]]
+- [[Cognitive-Surface-Area]]
+- [[Epistemic-Action]]
+- [[Generative-Learning-Theory]]
+- [[Generative-Processing]]
+- [[Knowledge-Telling]]
+- [[Knowledge-Telling-vs.-Knowledge-Transforming]]
+- [[Knowledge-Transforming]]
+- [[Productive-Friction]]
+- [[Retrieval-Writing]]
+- [[Self-Explanation-Effect]]
+- [[Testing-Effect-Retrieval-Practice-Effect]]
+- [[The-Articulatory-Construction-Principle]]
+- [[The-Epistemic-Status-of-Notes-as-Process-Artifacts]]
+- [[The-Fluency-Illusion]]
+- [[The-Fluency-Trap]]
+- [[The-Four-Question-Generativity-Diagnostic]]
+- [[The-Friction-Architecture-of-Learning-Through-Writing]]
+- [[The-Generation-Effect]]
+- *...and 3 more permanent notes*

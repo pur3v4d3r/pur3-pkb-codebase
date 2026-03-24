@@ -20,7 +20,7 @@ link-related:
   - "[[Educational-Psychology]]"
   - "[[Knowledge-Management]]"
   - "[[Library Science]]"
-  - "[[Pedagogy]]"
+  - "[[pedagogy]]"
 maturity: seedling
 confidence: speculative
 

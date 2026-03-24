@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +38,7 @@ referenced-by-count: 60
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Analogical-Representation]]"
-  - "[[Askesis]]"
+  - "[[Asksis]]"
   - "[[Assumption-5-RuleModel-Dichotomy]]"
   - "[[Attribution-Retraining]]"
   - "[[Attribution-Theory]]"
@@ -66,7 +66,7 @@ importance: high
 ## Referenced By
 
 - [[Analogical-Representation]]
-- [[Askesis]]
+- [[Asksis]]
 - [[Assumption-5-RuleModel-Dichotomy]]
 - [[Attribution-Retraining]]
 - [[Attribution-Theory]]
@@ -81,7 +81,7 @@ importance: high
 - [[Epistemic-Cowardice]]
 - [[Fixed-Mindset]]
 - [[Goal-Orientation]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Growth-Mindset]]
 - [[Incremental-Theory-of-Intelligence]]
 - [[Intellectual-Courage]]
 - [[Intellectual-Empathy]]

@@ -303,7 +303,22 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def build_body(candidate: NoteCandidate) -> str:
-    """Build the markdown body for a permanent note."""
+    """Build the markdown body for a permanent note.
+
+    Structure (v2.1):
+      # Title
+      > [!definition] ...
+      ## Core Explanation (evidence + insights)
+      ## Practical Implications (practices + warnings)
+      ## Key Figures & Intellectual Lineage (persons)
+      ## Conceptual Tensions (tensions)
+      ## Open Questions (open questions)
+      ## Reflection Prompts (reflections)
+      ## Spaced Repetition Seeds (flashcards)
+      ## Protocols & Methods (protocols)
+      ## Connections & Context (connections + wiki-links)
+      ## Source Attribution (report metadata)
+    """
     lines = []
 
     # ── Title ─────────────────────────────────────────────────────────────
@@ -317,7 +332,7 @@ def build_body(candidate: NoteCandidate) -> str:
         lines.append(f'> {body_line}')
     lines.append('')
 
-    # Attribution
+    # Attribution inline
     if candidate.attribution:
         lines.append(f'*Source: {candidate.attribution}*')
         lines.append('')
@@ -366,6 +381,51 @@ def build_body(candidate: NoteCandidate) -> str:
                 lines.append(f'> {w_line}')
             lines.append('')
 
+    # ── Key Figures & Intellectual Lineage ─────────────────────────────────
+    if candidate.persons:
+        lines.append('## Key Figures & Intellectual Lineage')
+        lines.append('')
+        for person in candidate.persons:
+            title = person.get("title", "")
+            body = person.get("body", "")
+            if title:
+                lines.append(f'> [!person] **{title}**')
+            else:
+                lines.append('> [!person] **Key Figure**')
+            for p_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {p_line}')
+            lines.append('')
+
+    # ── Conceptual Tensions ───────────────────────────────────────────────
+    if candidate.tensions:
+        lines.append('## Conceptual Tensions')
+        lines.append('')
+        for tension in candidate.tensions:
+            title = tension.get("title", "")
+            body = tension.get("body", "")
+            if title:
+                lines.append(f'> [!tension] **{title}**')
+            else:
+                lines.append('> [!tension] **Unresolved Tension**')
+            for t_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {t_line}')
+            lines.append('')
+
+    # ── Open Questions ────────────────────────────────────────────────────
+    if candidate.open_questions:
+        lines.append('## Open Questions')
+        lines.append('')
+        for oq in candidate.open_questions:
+            title = oq.get("title", "")
+            body = oq.get("body", "")
+            if title:
+                lines.append(f'> [!open-question] **{title}**')
+            else:
+                lines.append('> [!open-question]')
+            for q_line in _wrap_callout_body(body, max_length=400):
+                lines.append(f'> {q_line}')
+            lines.append('')
+
     # ── Reflection Prompts ────────────────────────────────────────────────
     if candidate.reflections:
         lines.append('## Reflection Prompts')
@@ -376,13 +436,56 @@ def build_body(candidate: NoteCandidate) -> str:
                 lines.append(f'> {r_line}')
             lines.append('')
 
+    # ── Spaced Repetition Seeds ───────────────────────────────────────────
+    if candidate.flashcards:
+        lines.append('## Spaced Repetition Seeds')
+        lines.append('')
+        for i, card in enumerate(candidate.flashcards, 1):
+            q = card.get("question", card.get("title", ""))
+            a = card.get("answer", card.get("body", ""))
+            lines.append(f'> [!flashcard] **Card {i}**')
+            lines.append(f'> **Q:** {q}')
+            lines.append(f'> **A:** {a}')
+            if card.get("difficulty"):
+                lines.append(f'> *Difficulty: {card["difficulty"]}*')
+            lines.append('')
+
+    # ── Protocols & Methods ───────────────────────────────────────────────
+    if candidate.protocols:
+        lines.append('## Protocols & Methods')
+        lines.append('')
+        for protocol in candidate.protocols:
+            title = protocol.get("title", "")
+            body = protocol.get("body", "")
+            if title:
+                lines.append(f'> [!protocol] **{title}**')
+            else:
+                lines.append('> [!protocol] **Method**')
+            for pr_line in _wrap_callout_body(body, max_length=800):
+                lines.append(f'> {pr_line}')
+            lines.append('')
+
+    # ── Diagrams ──────────────────────────────────────────────────────────
+    if candidate.diagrams:
+        lines.append('## Visual Representations')
+        lines.append('')
+        for diagram in candidate.diagrams:
+            title = diagram.get("title", "")
+            body = diagram.get("body", "")
+            if title:
+                lines.append(f'> [!diagram] **{title}**')
+            else:
+                lines.append('> [!diagram]')
+            for d_line in body.split('\n'):
+                lines.append(f'> {d_line}')
+            lines.append('')
+
     # ── Connections & Context ─────────────────────────────────────────────
     lines.append('## Connections & Context')
     lines.append('')
 
     if candidate.connections:
         for conn in candidate.connections:
-            # Extract wiki-links from connection text for display
             conn_links = re.findall(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]', conn)
             if conn_links:
                 lines.append('**Cross-report connections:**')
@@ -395,11 +498,57 @@ def build_body(candidate: NoteCandidate) -> str:
         lines.append('**Related concepts:**')
         relevant_links = [
             wl for wl in candidate.wiki_links[:MAX_WIKI_LINKS_DISPLAY]
-            if wl != _clean_concept_name(candidate.concept_name)
+            if wl != clean_name
         ]
         link_text = ' \u00b7 '.join(_pipe_link(wl) for wl in relevant_links)
         lines.append(link_text)
         lines.append('')
+
+    # ── References & Citations ────────────────────────────────────────────
+    if candidate.citations:
+        lines.append('## References')
+        lines.append('')
+        for cite in candidate.citations:
+            title = cite.get("title", "")
+            body = cite.get("body", "")
+            if title:
+                lines.append(f'- **{title}**: {body}')
+            else:
+                lines.append(f'- {body}')
+        lines.append('')
+
+    # ── Methodology Notes ─────────────────────────────────────────────────
+    if candidate.methodology:
+        lines.append('## Methodology Notes')
+        lines.append('')
+        for meth in candidate.methodology:
+            title = meth.get("title", "")
+            body = meth.get("body", "")
+            if title:
+                lines.append(f'> [!methodology-and-sources] **{title}**')
+            else:
+                lines.append('> [!methodology-and-sources]')
+            for m_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {m_line}')
+            lines.append('')
+
+    # ── Source Attribution ─────────────────────────────────────────────────
+    lines.append('---')
+    lines.append('')
+    lines.append('## Source Attribution')
+    lines.append('')
+    if candidate.source_report:
+        report_name = candidate.source_report.replace('.md', '')
+        lines.append(f'**Extracted from:** [[{report_name}]]')
+    if candidate.report_metadata:
+        meta = candidate.report_metadata
+        if meta.doc_id:
+            lines.append(f'**Report ID:** `{meta.doc_id}`')
+        if meta.analytical_focus:
+            lines.append(f'**Analytical focus:** {meta.analytical_focus}')
+        if meta.series_position:
+            lines.append(f'**Series position:** {meta.series_position}')
+    lines.append('')
 
     return '\n'.join(lines)
 

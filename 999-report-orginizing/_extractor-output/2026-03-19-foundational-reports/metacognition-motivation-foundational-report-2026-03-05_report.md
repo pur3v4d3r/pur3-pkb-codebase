@@ -614,8 +614,8 @@ extraction_summary:
 
 #### Builds On
 
-- [[Metacognition Foundational Report]]
-- [[Motivation Theory Foundational Report]]
+- [[Metacognition-Foundational-Report|Metacognition Foundational Report]]
+- [[Motivation-Theory-Foundational-Report|Motivation Theory Foundational Report]]
 
 #### Enables
 

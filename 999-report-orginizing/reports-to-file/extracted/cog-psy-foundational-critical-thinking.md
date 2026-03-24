@@ -53,7 +53,7 @@ related_concepts:
   - "[[Information Literacy]]"
   - "[[Knowledge-Management|Knowledge Management]]"
   - "[[Learning Theory]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   
 prerequisites:
   - "[[Cognitive Science Fundamentals]]"
@@ -1105,7 +1105,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Depth Potential**: Would systematically catalog major biases ([[Confirmation-Bias-Myside-Bias|Confirmation Bias]], [[Anchoring]], [[Availability-Heuristic|Availability Heuristic]], [[Dunning-Kruger]], [[Myside-Bias|Myside Bias]]), explain underlying cognitive mechanisms, demonstrate real-world impacts, and detail debiasing interventions - bridging cognitive psychology with practical CT improvement.
 
-**Knowledge Graph Role**: Connects CT theory to [[Judgment and Decision Making]], [[Behavioral Economics]], [[Cognitive-Psychology|Cognitive Psychology]]; provides concrete targets for CT practice.
+**Knowledge Graph Role**: Connects CT theory to [[Judgment and Decision Making]], [[Behavioral Economics]], [[cognitive-psychology|Cognitive Psychology]]; provides concrete targets for CT practice.
 
 **Priority**: **High** - Biases represent primary obstacles to effective CT; understanding bias-CT relationship crucial for developing better thinking.
 

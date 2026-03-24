@@ -630,7 +630,7 @@ extraction_summary:
 > 
 > **What it does:** Generates a statistical summary of vault-wide task status
 > 
-> **Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
+> **Use case:** [[Dashboard-Design|Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
 
 #### 33. [EXAMPLE] Today's Schedule with Duration Extraction *(Line 721)*
 
@@ -919,7 +919,7 @@ extraction_summary:
 - [[Carol]]
 - [[DQL]]
 - [[Daily Notes]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dashboard Design Principles for PKM]]
 - [[Data Visualization]]
 - [[Dataview-Plugin|Dataview Plugin]]
@@ -973,7 +973,7 @@ extraction_summary:
 | 13 | [[Priority Management]] | — | — | Claude Thinking | 196 |
 | 14 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Claude Thinking | 197 |
 | 15 | [[GTD Workflow]] | — | — | Claude Thinking | 198 |
-| 16 | [[Dashboard Design]] | — | — | Claude Thinking | 199 |
+| 16 | [[Dashboard-Design|Dashboard Design]] | — | — | Claude Thinking | 199 |
 | 17 | [[Query Performance]] | — | — | Claude Thinking | 200 |
 | 18 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 224 |
 | 19 | [[Task-Management|Task Management]] | — | — | Claude Thinking | 224 |
@@ -1004,7 +1004,7 @@ extraction_summary:
 | 44 | [[GTD Workflow]] | — | — | 6. Advanced Filtering Patterns | 606 |
 | 45 | [[DataviewJS]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 46 | [[DQL]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
-| 47 | [[Dashboard Design]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
+| 47 | [[Dashboard-Design|Dashboard Design]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
 | 48 | [[Query Performance]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
 | 49 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
 | 50 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
@@ -1505,7 +1505,7 @@ LIMIT <number>
 > 
 > **What it does:** Generates a statistical summary of vault-wide task status
 > 
-> **Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
+> **Use case:** [[Dashboard-Design|Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
 
 ### Pattern 4: Dynamic Time-Blocked Schedule
 
@@ -1875,7 +1875,7 @@ LIMIT <number>
 - [[Carol]]
 - [[DQL]]
 - [[Daily Notes]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dashboard Design Principles for PKM]]
 - [[Data Visualization]]
 - [[Dataview-Plugin|Dataview Plugin]]

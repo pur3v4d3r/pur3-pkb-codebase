@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Argumentation Theory"
+title: "Argumentation-Theory"
 aliases:
-  - "Argumentation Theory"
+  - "Argumentation-Theory"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,64 +23,45 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 19
+referenced-by-count: 5
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Anomalous-Data]]"
-  - "[[Aporia]]"
-  - "[[Aufhebung]]"
-  - "[[Aufhebung-in-PKB]]"
-  - "[[Belief-Revision]]"
-  - "[[Chinn-&-Brewer-Anomalous-Data-Response-Model]]"
-  - "[[Cognitive-Conflict-Disequilibrium]]"
-  - "[[Dialectic]]"
-  - "[[Dialectic,-Hegelian]]"
-  - "[[Dialectical-Thinking]]"
+  - "[[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
+  - "[[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]"
+  - "[[Knowledge-of-Cognition]]"
+  - "[[PENCRISAL-Framework]]"
+  - "[[Regulation-of-Cognition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
-# Argumentation Theory
+# Argumentation-Theory
 
-> [!definition] **Argumentation Theory**
-> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Argumentation-Theory**
+> *Stub note — concept referenced by 5 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 19 permanent notes.*
+*Auto-generated stub — referenced by 5 permanent notes.*
 
 ## Referenced By
 
-- [[Anomalous-Data]]
-- [[Aporia]]
-- [[Aufhebung]]
-- [[Aufhebung-in-PKB]]
-- [[Belief-Revision]]
-- [[Chinn-&-Brewer-Anomalous-Data-Response-Model]]
-- [[Cognitive-Conflict-Disequilibrium]]
-- [[Dialectic]]
-- [[Dialectic,-Hegelian]]
-- [[Dialectical-Thinking]]
-- [[Socratic-Method-Elenchus|Elenchus]]
-- [[Equilibration]]
-- [[Pragma-Dialectics]]
-- [[Socio-Cognitive-Conflict]]
-- [[Steel-Manning]]
-- [[The-Dialectical-Note-Triad-DNT-An-Original-PKB-Architecture]]
-- [[The-Dialectical-PKB-as-a-System-of-Epistemic-Accountability]]
-- [[Toulmin-Model]]
-- [[Toulmin-Warrant]]
+- [[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]
+- [[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]
+- [[Knowledge-of-Cognition]]
+- [[PENCRISAL-Framework]]
+- [[Regulation-of-Cognition]]

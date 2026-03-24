@@ -150,7 +150,7 @@ Mentally rehearse generic precepts
 
 
 #### Cognitive-Science
-[[Emotional Dysregulation]]
+[[Emotional-Dysregulation]]
 [[Cognitive-Bias]]
 [[Cognitive-Offloading]]
 
@@ -279,15 +279,15 @@ Writing is a form of [[Cognitive-Load-Theory]] management, by taking your though
 > 
 > **Pre-Sleep Timing**: Conduct reflection 30–60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
 > 
-> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
 > 
 > **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
 > 
-> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
 > 
 
 > [!the-philosophy]
->[[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity.[[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[Pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience.
+>[[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity.[[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience.
 
 > [!analogy]
 > **The Archer's Control: A Stoic Metaphor for Agency**
@@ -528,7 +528,7 @@ The architecture of an effective journaling system must balance several competin
 
 **Timing and Consistency**: Marcus Aurelius began each day preparing for challenges and ended each evening reviewing actions, creating a feedback loop that continuously refined behavior, establishing both **prospective** (morning intention-setting) and **retrospective** (evening evaluation) components. Contemporary research supports this dual approach: morning sessions establish implementation intentions that guide behavior, while evening sessions consolidate learning and prepare content for sleep-dependent memory processing. The critical element is **consistency**—intermittent journaling provides limited benefit compared to daily practice sustained over weeks and months.
 
-**Integration with Behavioral Commitments**: Effective journaling transcends mere recording by creating explicit behavioral intentions that bridge reflection to action. Intention-setting creates a "soft landing" for the mind, finishing with possibility through tomorrow-focused intentions like "I want to approach conversations with more patience" or "I want to notice small moments of joy", transforming abstract philosophical principles into concrete behavioral targets. This aligns with research on [[Implementation Intention|implementation intentions]], which substantially increase goal-directed behavior execution by specifying precise if-then contingencies.
+**Integration with Behavioral Commitments**: Effective journaling transcends mere recording by creating explicit behavioral intentions that bridge reflection to action. Intention-setting creates a "soft landing" for the mind, finishing with possibility through tomorrow-focused intentions like "I want to approach conversations with more patience" or "I want to notice small moments of joy", transforming abstract philosophical principles into concrete behavioral targets. This aligns with research on [[Implementation-Intention|implementation intentions]], which substantially increase goal-directed behavior execution by specifying precise if-then contingencies.
 
 #### Domain-Specific Applications
 

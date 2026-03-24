@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Nelson Narens Model"
+title: "Nelson-Narens-Model"
 aliases:
-  - "Nelson Narens Model"
+  - "Nelson-Narens-Model"
 type: permanent-note
 status: seedling
 confidence: low
@@ -15,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - person-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,60 +23,66 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 29
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Calibration-Discrepancy]]"
-  - "[[Delayed-JOL-Effect]]"
-  - "[[Ease-of-Learning-—-EOL]]"
-  - "[[Embedded-Monitoring-Architecture]]"
-  - "[[Feeling-of-Knowing-—-FOK]]"
-  - "[[Forethought-Phase]]"
-  - "[[Forethought-Reflection-Closure]]"
-  - "[[Implementation-Intentions]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Monitoring-Gap]]"
+  - "[[Adaptive-Inference]]"
+  - "[[Calibration-Dependency]]"
+  - "[[Calibration-Engine]]"
+  - "[[Cognitive-Transparency-Assumption]]"
+  - "[[Control-Scaffolding]]"
+  - "[[Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[Defensive-Inference]]"
+  - "[[Degenerate-Cycle]]"
+  - "[[Distributed-Regulation]]"
+  - "[[Metacognitive-Accuracy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
-# Nelson Narens Model
+# Nelson-Narens-Model
 
-> [!definition] **Nelson Narens Model**
-> *Stub note — person referenced by 15 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> [!definition] **Nelson-Narens-Model**
+> *Stub note — concept referenced by 29 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 29 permanent notes.*
 
 ## Referenced By
 
-- [[Calibration-Discrepancy]]
-- [[Delayed-JOL-Effect]]
-- [[Ease-of-Learning-—-EOL]]
-- [[Embedded-Monitoring-Architecture]]
-- [[Feeling-of-Knowing-—-FOK]]
-- [[Forethought-Phase]]
-- [[Forethought-Reflection-Closure]]
-- [[Implementation-Intentions]]
-- [[Metacognitive-Monitoring]]
-- [[Monitoring-Gap]]
+- [[Adaptive-Inference]]
+- [[Calibration-Dependency]]
+- [[Calibration-Engine]]
+- [[Cognitive-Transparency-Assumption]]
+- [[Control-Scaffolding]]
+- [[Cyclical-Model-of-Self-Regulated-Learning]]
+- [[Defensive-Inference]]
+- [[Degenerate-Cycle]]
+- [[Distributed-Regulation]]
+- [[Metacognitive-Accuracy]]
+- [[Metacognitive-Scaffolding]]
+- [[Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function]]
+- [[Monitoring-Regulation-Coupling]]
+- [[Monitoring-Scaffolding]]
+- [[Normative-vs.-Descriptive-Model]]
+- [[Progressive-Disclosure]]
 - [[Pseudometacognition]]
-- [[Retrospective-Confidence-Judgment-—-RCJ]]
-- [[Structural-Metacognition-Principle]]
-- [[The-Structural-Metacognition-Principle]]
-- [[Zimmerman's-Three-Phase-SRL-Cycle]]
+- [[Scaffold-Dependence]]
+- [[Scaffolding-Instructional-Design]]
+- [[The-Metacognitive-Scaffolding-Design-Triangle]]
+- *...and 9 more permanent notes*

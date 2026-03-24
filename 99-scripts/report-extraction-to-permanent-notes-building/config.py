@@ -55,6 +55,8 @@ EXTRACTION_BATCHES = [
     # New batches (2026-03-22) — focused analysis v1.1 & stoicism reports
     EXTRACTOR_OUTPUT_ROOT / "2026-03-22-focused-analysis-v1.1",
     EXTRACTOR_OUTPUT_ROOT / "2026-03-22-stoicism-reports",
+    # New batches (2026-03-24) — enhanced reports (dialectical + focused v1.1 updated generators)
+    EXTRACTOR_OUTPUT_ROOT / "2026-03-24-enhanced-reports",
 ]
 
 # Original 30-report batch (already processed by v1 pipeline)
@@ -95,6 +97,23 @@ PRACTICE_CALLOUTS = ["best-practice"]
 EXPANSION_CALLOUTS = ["topic-idea", "further-exploration"]
 WARNING_CALLOUTS = ["warning"]
 REFLECTION_CALLOUTS = ["reflection", "ask-yourself-this"]
+
+# ══════════════════════════════════════════════════════════════════════════════
+# ENHANCED REPORT CONTENT CALLOUT TYPES (v2.1 — new report generator output)
+# ══════════════════════════════════════════════════════════════════════════════
+# These callout types appear in the enhanced report generators (Dialectical
+# Re-Examination v2, Focused Analysis v1.1) and were not previously extracted.
+
+FLASHCARD_CALLOUTS = ["flashcard"]
+PERSON_CALLOUTS = ["person"]
+TENSION_CALLOUTS = ["tension", "tension-identified"]
+OPEN_QUESTION_CALLOUTS = ["open-question"]
+PROTOCOL_CALLOUTS = ["protocol"]
+DIAGRAM_CALLOUTS = ["diagram"]
+NAVIGATION_CALLOUTS = ["navigation"]
+QUALITY_ASSESSMENT_CALLOUTS = ["quality-assessment"]
+METHODOLOGY_CALLOUTS = ["methodology-and-sources"]
+CITATION_CALLOUTS = ["cite", "citation"]
 
 # ══════════════════════════════════════════════════════════════════════════════
 # DOMAIN MAPPING
@@ -207,3 +226,13 @@ MAX_WIKI_LINKS_DISPLAY = 15
 MAX_RELATED_LINKS = 10
 MAX_SEE_ALSO_LINKS = 8
 MAX_REPORT_TAGS = 5
+
+# Enhanced content limits (v2.1)
+MAX_FLASHCARDS_PER_NOTE = 5
+MAX_PERSONS_PER_NOTE = 3
+MAX_TENSIONS_PER_NOTE = 2
+MAX_OPEN_QUESTIONS_PER_NOTE = 2
+MAX_PROTOCOLS_PER_NOTE = 2
+MAX_DIAGRAMS_PER_NOTE = 1
+MAX_CITATIONS_PER_NOTE = 5
+MAX_METHODOLOGY_PER_NOTE = 1

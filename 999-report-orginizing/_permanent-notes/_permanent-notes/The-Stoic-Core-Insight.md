@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,6 +39,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "reference-instructional-daily-stoicism-2025120322"
+  - "reference-instructional-daily-stoicism-2025120322.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -72,6 +73,14 @@ see-also:
   - "[[Marcus-Aurelius|Marcus Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
+  - "[[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]]"
+  - "[[Affect-Labeling|Affect Labeling]]"
+  - "[[<%=-tp.date.now("YYYY-MM-DD",--1,-tp.file.title)-%>|<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]]"
+  - "[[Stoicism|Stoicism]]"
+  - "[[Marcus-Aurelius|Marcus Aurelius]]"
+  - "[[Epictetus|Epictetus]]"
+  - "[[Seneca|Seneca]]"
+  - "[[Virtue-Ethics|Virtue Ethics]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -117,3 +126,18 @@ importance: medium
 
 **Related concepts:**
 [[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]] · [[Affect-Labeling|Affect Labeling]] · [[%=-tp.date.nowYYYY-MM-DD,-1,-tp.file.title-%|<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]] · [[%=-tp.date.nowYYYY-MM-DD,-1,-tp.file.title-%|<%= tp.date.now("YYYY-MM-DD", 1, tp.file.title) %>]] · [[Stoicism]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Epictetus]] · [[Seneca]] · [[Virtue-Ethics|Virtue Ethics]] · [[{{VALUELink-to-PKB-concepts}}|{{VALUE:Link to PKB concepts}}]] · [[Behavioral-Patterns-MOC]] · [[Epistemic-Growth-Chart]] · [[Stoic-Insights-MOC]]
+
+**Related concepts** *(from reference-instructional-daily-stoicism-2025120322.md)*:
+[[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]] * [[Affect-Labeling|Affect Labeling]] * [[<%=-tp.date.now("YYYY-MM-DD",--1,-tp.file.title)-%>|<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]] * [[<%=-tp.date.now("YYYY-MM-DD",-1,-tp.file.title)-%>|<%= tp.date.now("YYYY-MM-DD", 1, tp.file.title) %>]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Virtue-Ethics|Virtue Ethics]] * [[{{VALUE:Link-to-PKB-concepts}}|{{VALUE:Link to PKB concepts}}]]
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Template Architecture**
+> This template uses **phased revelation**: core Stoic structure loads immediately, with advanced analytics sections collapsing by default. Dataview queries are strategically placed to create "discovery moments" throughout the day, reinforcing metacognitive awareness through automated pattern recognition.
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[reference-instructional-daily-stoicism-2025120322]]

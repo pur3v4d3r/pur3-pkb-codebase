@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Memory Systems"
+title: "Memory-Systems"
 aliases:
-  - "Memory Systems"
+  - "Memory-Systems"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,26 +23,23 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 6
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Cognitive-Architecture]]"
-  - "[[Information-Architecture-Isomorphism]]"
-  - "[[Information-Scent]]"
-  - "[[Maps-of-Content-—-MOCs]]"
-  - "[[Structural-Affordance]]"
-  - "[[The-Cognitive-Architecture-Isomorphism-Principle-A-Unified-Design-Framework]]"
+  - "[[Cortico-Striatal-Learning-Loops]]"
+  - "[[Instance-Theory-Core-Mechanism]]"
+  - "[[Stage-Characteristics-and-Training-Implications]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -52,18 +49,15 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Memory Systems
+# Memory-Systems
 
-> [!definition] **Memory Systems**
-> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Memory-Systems**
+> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 6 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
-- [[Cognitive-Architecture]]
-- [[Information-Architecture-Isomorphism]]
-- [[Information-Scent]]
-- [[Maps-of-Content-—-MOCs]]
-- [[Structural-Affordance]]
-- [[The-Cognitive-Architecture-Isomorphism-Principle-A-Unified-Design-Framework]]
+- [[Cortico-Striatal-Learning-Loops]]
+- [[Instance-Theory-Core-Mechanism]]
+- [[Stage-Characteristics-and-Training-Implications]]

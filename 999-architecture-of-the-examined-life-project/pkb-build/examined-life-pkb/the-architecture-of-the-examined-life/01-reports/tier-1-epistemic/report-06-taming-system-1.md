@@ -99,7 +99,7 @@ related:
   - "[[Working Memory and Executive Function]]"
   - "[[Mindfulness and Attention Regulation]]"
 broader:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"

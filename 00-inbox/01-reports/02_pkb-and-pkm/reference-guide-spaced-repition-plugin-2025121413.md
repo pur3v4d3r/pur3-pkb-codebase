@@ -1173,7 +1173,7 @@ Track "Create flashcards for X" tasks:
 1. **[[Spaced Repetition Theory]]**
    - *Connection*: Theoretical foundation underlying the SR Plugin's scheduling algorithms
    - *Depth Potential*: Understanding forgetting curves, retention functions, and optimal spacing
-   - *Knowledge Graph Role*: Core learning science concept connecting to memory, [[Cognitive-Psychology]], and [[Educational Technology]]
+   - *Knowledge Graph Role*: Core learning science concept connecting to memory, [[cognitive-psychology]], and [[Educational Technology]]
 
 2. **[[SuperMemo Algorithm (SM-2)]]**
    - *Connection*: The scheduling algorithm implemented by the SR Plugin

@@ -2835,7 +2835,7 @@ The Dreyfus]]** *(from The Developmental Staging Model: From Conscious Incompete
 
 The]]** *(from Honest Limitations)*
 - **[[Intellectual Virtues Academy]]** *(from ══════════════════════════════════════════════════════════════════════════)*
-- **[[Iowa Gambling Task]]** *(from ⚠️ Honest Limitations)*
+- **[[Iowa-Gambling-Task]]** *(from ⚠️ Honest Limitations)*
 - **[[Making
 
 The]]** *(from Gap 6: Narrative Identity and Meaning-Making)*

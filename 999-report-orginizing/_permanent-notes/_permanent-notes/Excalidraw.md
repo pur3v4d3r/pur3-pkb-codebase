@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -69,14 +69,6 @@ see-also:
   - "[[Knowledge-Visualization|Knowledge Visualization]]"
   - "[[Mind-Mapping|Mind Mapping]]"
   - "[[PKM]]"
-  - "[[Obsidian-Basics|Obsidian Basics]]"
-  - "[[Community-Plugins|Community Plugins]]"
-  - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
-  - "[[Obsidian|Obsidian]]"
-  - "[[Visual-Thinking|Visual Thinking]]"
-  - "[[Knowledge-Visualization|Knowledge Visualization]]"
-  - "[[Mind-Mapping|Mind Mapping]]"
-  - "[[PKM|PKM]]"
   - "[[Obsidian-Basics|Obsidian Basics]]"
   - "[[Community-Plugins|Community Plugins]]"
   - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
@@ -140,7 +132,26 @@ importance: medium
 **Related concepts** *(from reference-comprehensive-excalidraw-and-markmind-2025121812.md)*:
 [[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[ExcaliBrain|ExcaliBrain]] * [[Markdown|Markdown]] * [[LaTeX|LaTeX]] * [[Note-Name|Note Name]] * [[wiki-links|wiki-links]] * [[Templater|Templater]] * [[QuickAdd|QuickAdd]] * [[JavaScript-Basics|JavaScript Basics]]
 
-**Related concepts** *(from reference-comprehensive-excalidraw-and-markmind-2025121812.md)*:
-[[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[Note-Name|Note Name]] * [[JavaScript-Basics|JavaScript Basics]] * [[Related-Note|Related Note]] * [[Domain|Domain]] * [[Subtopic-A|Subtopic A]] * [[Subtopic-B|Subtopic B]] * [[Concept-Name|Concept Name]] * [[Related-Concept|Related Concept]]
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Initial Settings Configuration**
+> **Basic Settings Tab:**
+> - **Default Folder**: Set dedicated folder (e.g., `Drawings/` or `Excalidraw/`)
+> - **Template**: Create a template with your default styles (stroke width, colors, fonts)
+> - **Filename Prefix/Suffix**: Organize drawings systematically
+> 
+> **Saving Tab:**
+> - **Autosave**: Enable with 10-15 second interval
+> - **Compression**: Keep enabled for vault size management
+> 
+> **Embed & Export Tab:**
+> - **Auto-export**: Enable PNG/SVG export for markdown embedding
+> - **Dark/Light Mode**: Generate both versions if you switch themes
+> - **Image Type**: SVG for scalability, PNG for…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[reference-comprehensive-excalidraw-and-markmind-2025121812]]

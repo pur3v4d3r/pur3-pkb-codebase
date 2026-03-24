@@ -368,7 +368,7 @@ extraction_summary:
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Paul-Elder Model]]
 - [[Paul-Elder's Elements of Thought]]
-- [[Pedagogical Content Knowledge]]
+- [[Pedagogical-Content-Knowledge|Pedagogical Content Knowledge]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Procedural-Declarative Distinction]]
@@ -420,7 +420,7 @@ extraction_summary:
 | 35 | [[Declarative Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 36 | [[Procedural-Knowledge|Procedural Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 37 | [[Expert-Novice Differences]] | — | — | The Training Wheels Hypothesis | 368 |
-| 38 | [[Pedagogical Content Knowledge]] | — | — | The Shared Vocabulary Hypothesis | 378 |
+| 38 | [[Pedagogical-Content-Knowledge|Pedagogical Content Knowledge]] | — | — | The Shared Vocabulary Hypothesis | 378 |
 | 39 | [[Adaptive Expertise]] | — | — | The Meta-Framework Analysis Hypothesis | 388 |
 | 40 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The Integration Model: Toward Sophist... | 432 |
 | 41 | [[Expertise Development]] | — | — | The Integration Model: Toward Sophist... | 432 |
@@ -634,7 +634,7 @@ for (let letter of sortedLetters) {
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Paul-Elder Model]]
 - [[Paul-Elder's Elements of Thought]]
-- [[Pedagogical Content Knowledge]]
+- [[Pedagogical-Content-Knowledge|Pedagogical Content Knowledge]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Procedural-Declarative Distinction]]

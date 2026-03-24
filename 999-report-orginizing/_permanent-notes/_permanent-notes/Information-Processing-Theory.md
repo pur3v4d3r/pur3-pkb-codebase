@@ -5,7 +5,6 @@
 title: "Information-Processing-Theory"
 aliases:
   - "Information-Processing-Theory"
-  - "Information Processing Theory"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,53 +23,57 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 12
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Cortico-Striatal-Learning-Loops]]"
+  - "[[Desirable-Difficulties]]"
   - "[[Early-Selection]]"
   - "[[Epistemic-Cognition]]"
   - "[[Instance-Theory-Core-Mechanism]]"
   - "[[Intellectual-Standards]]"
   - "[[Late-Selection]]"
+  - "[[Metacognitive-Knowledge]]"
+  - "[[Metacognitive-Regulation]]"
   - "[[Reflective-Judgment]]"
-  - "[[Stage-Characteristics-and-Training-Implications]]"
-  - "[[Transfer]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # Information-Processing-Theory
 
 > [!definition] **Information-Processing-Theory**
-> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 12 permanent notes.*
 
 ## Referenced By
 
 - [[Cortico-Striatal-Learning-Loops]]
+- [[Desirable-Difficulties]]
 - [[Early-Selection]]
 - [[Epistemic-Cognition]]
 - [[Instance-Theory-Core-Mechanism]]
 - [[Intellectual-Standards]]
 - [[Late-Selection]]
+- [[Metacognitive-Knowledge]]
+- [[Metacognitive-Regulation]]
 - [[Reflective-Judgment]]
 - [[Stage-Characteristics-and-Training-Implications]]
 - [[Transfer]]

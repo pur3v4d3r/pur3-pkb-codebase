@@ -386,7 +386,7 @@ extraction_summary:
 #### 47. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 583)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Partisan Identity and Motivated Reasoning]]
+> > [!topic-idea] [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]
 > > A full-length foundational report on this topic would provide the most detailed mechanistic treatment of how social identity drives motivated political cognition. It would cover Lodge and Taber's experimental program in depth, Kahan's "identity-protective cognition" research, Huddy's social identity approach to partisanship, and the growing literature on "affective polarization" as distinct from ideological polarization. The key question for the knowledge base: under what conditions does partisan identity override accuracy motivation entirely, and what structural or developmental factors moderate this? Priority: **high** — directly extends this report's core treatment.
 > 
 > > [!topic-idea] [[Affective Intelligence Theory — Full Treatment]]
@@ -455,7 +455,7 @@ extraction_summary:
 - [[Michael Neuman]]
 - [[Mike Caulfield]]
 - [[Milton Lodge]]
-- [[Partisan Identity and Motivated Reasoning]]
+- [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]
 - [[Philip-Converse|Philip Converse]]
 - [[Philip Tetlock]]
 - [[Political-Reasoning|Political reasoning]]
@@ -548,7 +548,7 @@ extraction_summary:
 | 60 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | Phase VI: Synthesis & Integration | 495 |
 | 61 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 497 |
 | 62 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 499 |
-| 63 | [[Partisan Identity and Motivated Reasoning]] | — | — | C. Expansion Topics | 585 |
+| 63 | [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]] | — | — | C. Expansion Topics | 585 |
 | 64 | [[Affective Intelligence Theory — Full Treatment]] | — | — | C. Expansion Topics | 588 |
 | 65 | [[Media Literacy and Disinformation Resistance]] | — | — | C. Expansion Topics | 591 |
 | 66 | [[Deliberative Democracy and Epistemic Citizenship]] | — | — | C. Expansion Topics | 594 |
@@ -603,7 +603,7 @@ extraction_summary:
 - [[Michael Neuman]]
 - [[Mike Caulfield]]
 - [[Milton Lodge]]
-- [[Partisan Identity and Motivated Reasoning]]
+- [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]
 - [[Philip-Converse|Philip Converse]]
 - [[Philip Tetlock]]
 - [[Political-Reasoning|Political reasoning]]
@@ -651,7 +651,7 @@ extraction_summary:
 #### Broader
 
 - [[Political Psychology]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Behavioral Economics]]
 
 #### Narrower

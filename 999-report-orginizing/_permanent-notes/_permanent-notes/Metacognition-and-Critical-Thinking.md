@@ -24,8 +24,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,7 +81,7 @@ importance: high
 - [[Calibration]]
 - [[Causal-Induction]]
 - [[Cognitive-Bias]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Context-of-Discovery-vs.-Context-of-Justification]]
 - [[Corroboration]]
 - [[Deductive-Reasoning]]

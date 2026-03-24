@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 10
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -40,9 +40,8 @@ see-also:
   - "[[Cognitive-Load]]"
   - "[[Element-Interactivity]]"
   - "[[Expertise-Reversal-Effect]]"
-  - "[[Germane-Cognitive-Load]]"
+  - "[[Extraneous-Cognitive-Load]]"
   - "[[Intrinsic-Cognitive-Load]]"
-  - "[[Long-Term-Memory]]"
   - "[[Schema]]"
   - "[[Split-Attention-Effect]]"
   - "[[Worked-Example-Effect]]"
@@ -53,24 +52,23 @@ see-also:
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
 # Adaptive Instruction
 
 > [!definition] **Adaptive Instruction**
-> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 10 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
 - [[Cognitive-Load]]
 - [[Element-Interactivity]]
 - [[Expertise-Reversal-Effect]]
-- [[Germane-Cognitive-Load]]
+- [[Extraneous-Cognitive-Load]]
 - [[Intrinsic-Cognitive-Load]]
-- [[Long-Term-Memory]]
 - [[Schema]]
 - [[Split-Attention-Effect]]
 - [[Worked-Example-Effect]]

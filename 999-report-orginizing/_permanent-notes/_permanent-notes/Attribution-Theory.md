@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,14 +76,6 @@ see-also:
   - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
   - "[[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]"
   - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
-  - "[[Growth-Mindset|Growth Mindset]]"
-  - "[[Carol-Dweck|Carol Dweck]]"
-  - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
-  - "[[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]"
-  - "[[Stereotype-Threat|Stereotype Threat]]"
-  - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
-  - "[[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]"
-  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Growth-Mindset|Growth Mindset]]"
   - "[[Carol-Dweck|Carol Dweck]]"
   - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
@@ -137,20 +129,20 @@ importance: high
 
 ## Core Explanation
 
+> [!evidence] Supporting Evidence
+> The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+> [!evidence] Supporting Evidence
+> The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+> [!evidence] Supporting Evidence
+> The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
 > [!analytical-insight] Key Insight
 > According to the conventional account, the mindset one holds acts as a lens that filters the entire experience of learning. A fixed mindset converts challenges into threats (because failure would reveal limited ability), produces helpless responses to difficulty, leads to avoidance of challenging tasks, and generates defensive explanations for setbacks. A growth mindset converts the same challenges into opportunities, produces mastery-oriented responses to difficulty, promotes engagement with…
 
 > [!analytical-insight] Key Insight
 > The conventional view enables something practically valuable: it provides a simple, actionable vocabulary for discussing effort, persistence, and response to failure with students and employees. "You have a growth mindset" functions as praise that attributes success to modifiable behavior rather than fixed ability. "What would a growth mindset look like here?" is a useful coaching prompt. Whatever its epistemic status, the framework has genuine utility as a conversational technology for…
-
-> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
-> The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
-
-> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
-> The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
-
-> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
-> The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
 
 > [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
 > **Primary Sources and Scholarly Works**
@@ -213,9 +205,6 @@ importance: high
 
 
 
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -227,16 +216,14 @@ importance: high
 > [!warning] **Key Distinction**
 > Praising effort indiscriminately can actively harm students who are already working at capacity, who genuinely lack prerequisite knowledge (where more effort at the same approach is futile), or who perceive effort praise as a signal of low expectations. Effort praise should be reserved for situations where effort is genuinely the limiting factor and where the student has actionable strategy choices.
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
-> Before proceeding to the assumption audit, write down — or hold clearly in mind — what you currently believe about growth mindset. Do you believe that your own mindset has shaped your achievement? Do you believe intelligence is malleable? Where did this belief come from — personal experience, a book, a workshop, a teacher? Can you articulate what evidence convinced you, or did you adopt the view because it is culturally dominant? There is no wrong answer here. The point is to notice the difference between belief that arrived through reasoning and belief that arrived through cultural absorption.
+> [!reflection] **Reflect**
+> Before proceeding to the assumption audit, write down — or hold clearly in mind — what you currently believe about growth mindset. Do you believe that your own mindset has shaped your achievement? Do you believe intelligence is malleable? Where did this belief come from — personal experience, a book, a workshop, a teacher? Can you articulate what evidence convinced you, or did you adopt the view because it is culturally dominant? There is no wrong answer here. The point is to notice the…
 
-> [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> [!reflection] **Reflect**
 > 1. Which assumption's dissolution surprised you most? Many practitioners feel the shock most strongly with Assumption 6 (intervention transfer) because the entire applied enterprise rests on it. Its dissolution does not mean the theoretical claims are false — only that brief, generic delivery of them does not reliably change outcomes.
-> 2. Did any assumption you expected to dissolve actually survive? Assumptions 1 and 8 partially survived in revised form, suggesting that ability beliefs are real psychological constructs worth attending to — just not in the domain-general, stability-assuming, instruction-responsive form the framework treats them as.
-> 3. Is the conventional understanding more or less stable than you expected? Significantly less stable — and the instability clusters specifically around the causal mechanism and the intervention architecture, which are exactly the parts that matter most for practice.
+> 2. Did any assumption you expected to dissolve actually survive? Assumptions 1 and 8 partially survived in revised form, suggesting that ability beliefs are real…
 
 > [!reflection] **Reflect** *(from stoicism-codebase-pack.md)*
 > **Reflective Questions for Personal Application**
@@ -256,7 +243,6 @@ importance: high
 
 
 
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -269,58 +255,6 @@ importance: high
 
 **Related concepts:**
 [[Growth-Mindset|Growth Mindset]] · [[Carol-Dweck|Carol Dweck]] · [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] · [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] · [[Stereotype-Threat|Stereotype Threat]] · [[Self-Efficacy-Theory|Self-Efficacy Theory]] · [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] · [[Self-Efficacy-Theory|Self-Efficacy Theory]] · [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] · [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]]
-
-**Related concepts** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-[[Growth-Mindset|Growth Mindset]] * [[Carol-Dweck|Carol Dweck]] * [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] * [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] * [[Stereotype-Threat|Stereotype Threat]] * [[Self-Efficacy-Theory|Self-Efficacy Theory]] * [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] * [[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] * [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] * [[Deliberate-Practice|Deliberate Practice]] * [[Mindset-Interventions-in-Education|Mindset Interventions in Education]] * [[Wise-Interventions-(Walton-&-Wilson)|Wise Interventions (Walton & Wilson)]] * [[Social-Psychological-Interventions-in-Education|Social-Psychological Interventions in Education]] * [[Motivational-Interviewing|Motivational Interviewing]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
-
-**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
-- [[Attribution-Theory|Attribution Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Stereotype-Threat|Stereotype Threat]]
 
 **Related concepts** *(from growth-mindset-first-principles-report-2026-03-11.md, stoicism-codebase-pack.md)*:
 [[Growth-Mindset|Growth Mindset]] * [[Carol-Dweck|Carol Dweck]] * [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] * [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] * [[Stereotype-Threat|Stereotype Threat]] * [[Self-Efficacy-Theory|Self-Efficacy Theory]] * [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] * [[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] * [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] * [[Deliberate-Practice|Deliberate Practice]] * [[Mindset-Interventions-in-Education|Mindset Interventions in Education]] * [[Wise-Interventions-(Walton-&-Wilson)|Wise Interventions (Walton & Wilson)]] * [[Social-Psychological-Interventions-in-Education|Social-Psychological Interventions in Education]] * [[Motivational-Interviewing|Motivational Interviewing]]
@@ -406,6 +340,140 @@ importance: high
 
 
 
+## References
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Untitled**: **Primary Sources and Scholarly Works**
+
+The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+- [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+- [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+- [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+- [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+- [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+
+For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+- **Research Sources and Academic Literature**: **Metacognition and Journaling:**
+- [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+- [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+- [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+- [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+- [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+- [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+
+**Memory Consolidation and Sleep:**
+- [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+- [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+- [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+- [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+- [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+
+**Stoic Philosophy and Marcus Aurelius:**
+- [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+- [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+- [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+
+**Behavioral Modification and Habit Formation:**
+- [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+- [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+- [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+- [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+- [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
 
 
 
@@ -413,3 +481,67 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This analysis draws from three intellectual traditions: Aristotelian decomposition (identifying propositions that are known in themselves vs. derived), Cartesian methodological doubt (treating each assumption as provisional until independently verified), and applied first-principles reasoning in the spirit of Weiner and Bandura's theory-building approach (seek the most parsimonious explanation grounded in robust empirical findings).
+> 
+> The evidence base for assumption auditing draws primarily on (1) the replication and meta-analytic literature published from 2015 onward, which provides the most…
+
+---
+
+> [!methodology-and-sources] **🛠️ The Stoic Evening Examination Protocol** *(from stoicism-codebase-pack.md)*
+> Marcus Aurelius's practice, reconstructed from the *Meditations* and supplemented by modern neuroscientific understanding, follows a systematic structure:
+> 
+> **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
+> 
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> 
+> **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
+> 
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+
+
+## Source Attribution
+
+**Extracted from:** [[growth-mindset-first-principles-report-2026-03-11]]
+**Report ID:** `growth-mindset-first-principles-report-2026-03-11`

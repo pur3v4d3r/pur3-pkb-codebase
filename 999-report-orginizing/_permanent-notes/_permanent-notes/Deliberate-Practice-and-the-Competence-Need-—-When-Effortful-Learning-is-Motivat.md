@@ -2,11 +2,11 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable"
+title: "Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat"
 aliases:
-  - "Deliberate Practice and the Competence Need"
-  - "Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable"
-  - "When Effortful Learning is Motivationally Sustainable"
+  - "-When-Effortful-Learning-is-Motivat"
+  - "Deliberate-Practice-and-the-Competence-Need-"
+  - "Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat"
 type: permanent-note
 status: seedling
 confidence: low
@@ -25,59 +25,43 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 4
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Fourfold-Motivational-Architecture]]"
-  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence]]"
-  - "[[Internalization]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Mastery-Goals]]"
-  - "[[Optimal-Challenge]]"
-  - "[[Overjustification-Effect]]"
+  - "[[Cognitive-Bandwidth-Liberation]]"
+  - "[[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]"
+  - "[[The-Fluency-Metacognition-Paradox]]"
+  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
-# Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable
+# Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat
 
-> [!definition] **Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable**
-> *Stub note — expansion topic suggested for future research, referenced by 14 permanent notes. This represents a potential deep-dive area connecting multiple concepts in the PKB.*
+> [!definition] **Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat**
+> *Stub note — expansion topic suggested for future research, referenced by 4 permanent notes. This represents a potential deep-dive area connecting multiple concepts in the PKB.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 4 permanent notes.*
 
 ## Referenced By
 
-- [[Achievement-Goal-Theory]]
-- [[Basic-Psychological-Needs]]
-- [[Cognitive-Evaluation-Theory]]
-- [[Fourfold-Motivational-Architecture]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence]]
-- [[Internalization]]
-- [[Intrinsic-Motivation]]
-- [[Mastery-Goals]]
-- [[Optimal-Challenge]]
-- [[Overjustification-Effect]]
-- [[Performance-Goals]]
-- [[Self-Determination-Theory]]
-- [[The-Fourfold-Motivational-Architecture-for-PKB-Design]]
-- [[The-Motivational-Design-Imperative]]
+- [[Cognitive-Bandwidth-Liberation]]
+- [[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]
+- [[The-Fluency-Metacognition-Paradox]]
+- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

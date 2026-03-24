@@ -1,11 +1,18 @@
 ---
-title: Identified Regulation vs. Integrated Regulation
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Identified Regulation vs. Integrated Regulation"
 aliases:
-  - Identified Regulation vs. Integrated Regulation
-  - IRVIR
+  - "Identified Regulation vs. Integrated Regulation"
+  - "IRVIR"
 type: permanent-note
 status: evergreen
 confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -15,30 +22,51 @@ tags:
   - constructivism
   - self-determination-theory
   - metacognition
+
 domain: other
 subdomains:
   - 
-created: 2026-03-19
-updated: 2026-03-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-24
+updated: 2026-03-24
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - report-07-the-self-directed-learner
+  - "report-07-the-self-directed-learner"
   - "report-07-the-self-directed-learner.md"
 evidence-quality: high
-extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
 complexity-level: intermediate
 depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
+
 related:
   - "[[]]"
+
 broader:
   - "[[]]"
+
 narrower:
   - "[[]]"
+
 see-also:
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Winne-and-Hadwin|Winne and Hadwin]]"
@@ -53,22 +81,24 @@ see-also:
   - "[[Constructivism|Constructivism]]"
   - "[[Jean-Piaget|Jean Piaget]]"
   - "[[Jerome-Bruner|Jerome Bruner]]"
-  - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Barry-Zimmerman|Barry Zimmerman]]"
-  - "[[Paul-Pintrich|Paul Pintrich]]"
-  - "[[Winne-and-Hadwin|Winne and Hadwin]]"
-  - "[[Constructivism|Constructivism]]"
-  - "[[Jean-Piaget|Jean Piaget]]"
-  - "[[Jerome-Bruner|Jerome Bruner]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[]]"
+
 enables:
   - "[[]]"
+
 expansion-topics:
   - topic: "[[]]"
     description: ""
     priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -88,21 +118,27 @@ importance: high
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from report-07-the-self-directed-learner.md)*
-> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of how *you* learn best that is based on evidence from your own learning history — or is it based on what you have been told, what seems intuitively appealing, or what protects your sense of yourself as a capable learner?
+> [!reflection] **Reflect**
+> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of…
 
 ## Connections & Context
 
 **Related concepts:**
-[[Lev-Vygotsky|Lev Vygotsky]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Winne-and-Hadwin|Winne and Hadwin]] · [[Constructivism]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Jerome-Bruner|Jerome Bruner]] · [[SDT-Internalization-Continuum|SDT Internalization Continuum]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Metacognitive-Strategy|Metacognitive Strategy]] · [[Gregory-Schraw|Gregory Schraw]] · [[Lovett-et-al.|Lovett et al.]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
+[[Lev-Vygotsky|Lev Vygotsky]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Winne-and-Hadwin|Winne and Hadwin]] · [[Constructivism]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Jerome-Bruner|Jerome Bruner]] · [[SDT-Internalization-Continuum|SDT Internalization Continuum]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Metacognitive-Strategy|Metacognitive Strategy]] · [[Gregory-Schraw|Gregory Schraw]] · [[Lovett-et-al.|Lovett et al.]] · [[Self-Regulated-Learning|Self-Regulated Learning]]
 
 **Related concepts** *(from report-07-the-self-directed-learner.md)*:
 [[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
 
-**Related concepts** *(from report-07-the-self-directed-learner.md)*:
-[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
 
+## Methodology Notes
 
+> [!methodology-and-sources] **🔬 Empirical Grounding**
+> Metacognitive strategy use demonstrates robust positive correlations with learning performance across populations and contexts. Kim (2024) found significant positive relationships between metacognitive knowledge and both subjective learning performance (r = 0.34) and objective learning performance (r = 0.41) in a study of 135 nursing students. Lovett et al.'s (2023) synthesis of decades of learning science research identifies metacognitive capacity — specifically the ability to assess task demands, evaluate one's own knowledge, plan approaches, monitor progress, and adjust strategies — as…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[report-07-the-self-directed-learner]]

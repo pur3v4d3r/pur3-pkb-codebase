@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -68,14 +68,6 @@ see-also:
   - "[[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]]"
   - "[[API-Fundamentals|API Fundamentals]]"
   - "[[JSON-RPC]]"
-  - "[[AI-Agent-Architecture|AI Agent Architecture]]"
-  - "[[Custom-MCP-Server-Development|Custom MCP Server Development]]"
-  - "[[AI-PKB-Integration|AI-PKB Integration]]"
-  - "[[Prompt-Library-Management|Prompt Library Management]]"
-  - "[[Claude-Code-Workflows|Claude Code Workflows]]"
-  - "[[**Comprehensive-Refernece:-MCP-Servers**|**Comprehensive Refernece: MCP Servers**]]"
-  - "[[API-Fundamentals|API Fundamentals]]"
-  - "[[JSON-RPC|JSON-RPC]]"
   - "[[AI-Agent-Architecture|AI Agent Architecture]]"
   - "[[Custom-MCP-Server-Development|Custom MCP Server Development]]"
   - "[[AI-PKB-Integration|AI-PKB Integration]]"
@@ -182,25 +174,16 @@ importance: medium
 - [[VS-Code|VS Code]]
 - [[Claude-Code|Claude Code]]
 
-**Related concepts** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-[[**Comprehensive-Refernece:-MCP-Servers**|**Comprehensive Refernece: MCP Servers**]] * [[API-Fundamentals|API Fundamentals]] * [[AI-Agent-Architecture|AI Agent Architecture]] * [[Custom-MCP-Server-Development|Custom MCP Server Development]] * [[AI-PKB-Integration|AI-PKB Integration]] * [[Prompt-Library-Management|Prompt Library Management]] * [[Claude-Code-Workflows|Claude Code Workflows]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Obsidian-Automation|Obsidian Automation]] * [[Claude-Code|Claude Code]] * [[Prompt-Engineering|Prompt Engineering]] * [[AI-Agents|AI Agents]] * [[Claude-Desktop|Claude Desktop]] * [[Unix-Philosophy|Unix Philosophy]] * [[API-Design-Patterns|API Design Patterns]]
-
-**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-- [[Claude-Code|Claude Code]]
-- [[Obsidian|Obsidian]]
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[AI-Agent-Architecture|AI Agent Architecture]]
-- [[JSON-RPC|JSON-RPC]]
-
-**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[VS-Code|VS Code]]
-- [[Claude-Code|Claude Code]]
 
 
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Transport Mechanisms**
+> MCP supports two primary transport protocols, each suited to different deployment scenarios:
 
+---
 
+## Source Attribution
+
+**Extracted from:** [[reference-comprehensive-mcp-servers-2025122412]]

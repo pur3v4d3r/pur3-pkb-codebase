@@ -100,7 +100,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Operational Indicator:** Recognized by the subjective sense of "something is wrong here" or "I don't know how to proceed" — a pre-reflective awareness that current understanding is inadequate.
 >
-> **See also:** [[Aporia]], [[Conflict Monitoring]], [[Metacognitive Monitoring]]
+> **See also:** [[Aporia]], [[Conflict-Monitoring]], [[Metacognitive-Monitoring]]
 
 > [!definition] **Reflective Thinking (Dewey)**
 > "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends" (*How We Think*, 1910). Distinguished from asocial or "idle" speculation by its orientation toward the resolution of genuine problems in lived experience.
@@ -127,7 +127,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Report-Specific Significance:** In this report, aporia functions as the conceptual bridge between ancient philosophy and contemporary cognitive science — the structural analog of what De Neys calls "conflict detection" and what Dewey calls "felt difficulty."
 >
-> **See also:** [[Felt Difficulty (Dewey)]], [[Conflict Monitoring]], [[Intellectual-Humility]]
+> **See also:** [[Felt Difficulty (Dewey)]], [[Conflict-Monitoring]], [[Intellectual-Humility]]
 
 > [!definition] **System 1 and System 2 (Kahneman)**
 > The two processing systems of [[Dual-Process-Theory]]. System 1 is fast, automatic, pattern-based, and effortless — the default cognitive mode. System 2 is slow, deliberate, effortful, and logical — activated by specific triggers against the default.
@@ -145,7 +145,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Research Status:** Supported by converging evidence from response time studies, confidence ratings, and neuroimaging (anterior cingulate cortex activation). The monitoring mechanism appears robust across cultures and task types, though the strength of the signal varies with cognitive load and individual differences.
 >
-> **See also:** [[Metacognitive Monitoring]], [[Dual-Process-Theory]], [[Cognitive-Load-Theory]]
+> **See also:** [[Metacognitive-Monitoring]], [[Dual-Process-Theory]], [[Cognitive-Load-Theory]]
 
 > [!definition] **Metacognitive Monitoring (Flavell)**
 > The ongoing, local evaluation of one's own cognitive processing — the tracking of comprehension, memory retrieval reliability, and reasoning quality as it unfolds. The metacognitive signal most directly relevant to inquiry activation is the "feeling of not knowing" — the sense that current understanding is inadequate to the situation.
@@ -166,13 +166,13 @@ Each definition SHOULD include (when relevant):
 > **See also:** [[Intellectual-Humility]], [[Myside-Bias]], [[Confirmation-Bias]], [[Open-Mindedness]]
 
 > [!definition] **Region of Proximal Learning (Metcalfe)**
-> The motivationally optimal zone of moderate epistemic uncertainty — close enough to understanding that curiosity is activated, far enough from certainty that inquiry is necessary. The psychological sweet spot where learning is most efficiently activated, connecting metacognitive research to Vygotsky's [[Zone of Proximal Development]] (see Report 04).
+> The motivationally optimal zone of moderate epistemic uncertainty — close enough to understanding that curiosity is activated, far enough from certainty that inquiry is necessary. The psychological sweet spot where learning is most efficiently activated, connecting metacognitive research to Vygotsky's [[Zone-of-Proximal-Development]] (see Report 04).
 >
 > **Boundary:** The RPL is defined by the *learner's* assessment of their own understanding, not by objective difficulty. Material that is objectively at the right level but that the learner perceives as either trivially easy or hopelessly difficult falls outside the RPL. This makes the RPL inherently metacognitive — it depends on the accuracy of self-monitoring.
 >
 > **Connection to Curiosity:** Loewenstein's (1994) information gap theory converges here: curiosity is maximized when the gap between what one knows and what one wants to know is moderate, not too large (overwhelming) or too small (uninteresting).
 >
-> **See also:** [[Zone of Proximal Development]], [[Optimal-Challenge]], [[Challenge-Skill-Balance]]
+> **See also:** [[Zone-of-Proximal-Development]], [[Optimal-Challenge]], [[Challenge-Skill-Balance]]
 
 > [!definition] **Aporic Receptivity**
 > The cultivated meta-disposition to welcome, sustain, and act from states of productive uncertainty. The orientation that transforms the cognitive disruption signals described by all four frameworks from experiences to be minimized into invitations to be followed. The foundational meta-disposition of the examined life as described in this series.
@@ -220,14 +220,14 @@ Each figure entry MUST include:
 > [!person] **John Dewey (1859–1952)**
 > American pragmatist philosopher and educational reformer. Provides the foundational theory of reflective thinking as inquiry triggered by genuine problems in lived experience. His *How We Think* (1910, rev. 1933) and *Logic: The Theory of Inquiry* (1938) are primary sources for this report.
 >
-> **Lineage:** Builds on [[Peirce]]'s pragmatic maxim and [[William James]]'s radical empiricism. Influenced by Hegel's dialectical method but rejected its idealist metaphysics. Extended by [[Donald Schön]]'s reflective practitioner framework and [[Jack Mezirow]]'s transformative learning theory.
+> **Lineage:** Builds on [[Peirce]]'s pragmatic maxim and [[William-James]]'s radical empiricism. Influenced by Hegel's dialectical method but rejected its idealist metaphysics. Extended by [[Donald-Schön]]'s reflective practitioner framework and [[Jack Mezirow]]'s transformative learning theory.
 >
 > **Relationship to Report:** Provides the philosophical architecture (felt difficulty → inquiry → resolution) that the cognitive science sections empirically ground.
 
 > [!person] **Daniel Kahneman (b. 1934)**
-> Israeli-American psychologist, Nobel laureate (2002). With [[Amos Tversky]], established the heuristics and biases research program that became Dual Process Theory. *Thinking, Fast and Slow* (2011) is the primary synthetic work referenced here.
+> Israeli-American psychologist, Nobel laureate (2002). With [[Amos-Tversky]], established the heuristics and biases research program that became Dual Process Theory. *Thinking, Fast and Slow* (2011) is the primary synthetic work referenced here.
 >
-> **Lineage:** Emerged from the judgment under uncertainty tradition of [[Ward Edwards]] and [[Herbert Simon]]. Tversky was the mathematical architect; Kahneman the psychological theorist. Extended by [[Keith Stanovich]]'s individual differences approach and [[Wim De Neys]]'s conflict monitoring research.
+> **Lineage:** Emerged from the judgment under uncertainty tradition of [[Ward Edwards]] and [[Herbert Simon]]. Tversky was the mathematical architect; Kahneman the psychological theorist. Extended by [[Keith-Stanovich]]'s individual differences approach and [[Wim De Neys]]'s conflict monitoring research.
 >
 > **Relationship to Report:** Provides the cognitive architecture (System 1/System 2) that operationalizes what Dewey described phenomenologically and what Socrates produced dialectically.
 
@@ -241,14 +241,14 @@ Each figure entry MUST include:
 > [!person] **John Flavell (b. 1928)**
 > American developmental psychologist, Stanford University. Founded metacognition as a research field with his 1979 *American Psychologist* paper. Defined the core constructs (metacognitive knowledge, metacognitive experiences, goals, strategies) that remain the framework's foundation.
 >
-> **Lineage:** Emerged from [[Piaget]]'s developmental epistemology and [[Vygotsky]]'s zone of proximal development. Extended by [[Gregory Schraw]]'s Metacognitive Awareness Inventory, [[Stephen Fleming]]'s neuroscience of metacognition, and [[Janet Metcalfe]]'s region of proximal learning framework.
+> **Lineage:** Emerged from [[Piaget]]'s developmental epistemology and [[Vygotsky]]'s zone of proximal development. Extended by [[Gregory-Schraw]]'s Metacognitive Awareness Inventory, [[Stephen Fleming]]'s neuroscience of metacognition, and [[Janet Metcalfe]]'s region of proximal learning framework.
 >
 > **Relationship to Report:** Provides the metacognitive architecture that explains *how* the monitoring signals described by De Neys and Dewey are represented, tracked, and acted upon.
 
 > [!person] **Wim De Neys (b. ~1975)**
 > Belgian cognitive psychologist, CNRS/University of Paris. Demonstrated that conflict monitoring occurs even when System 2 fails to correct System 1 errors — showing that the detection mechanism is more reliable than the correction mechanism.
 >
-> **Lineage:** Works within Kahneman's dual-process framework but challenges the strong form of "cognitive miserliness." Influenced by [[Jonathan Evans]]'s dual-process theory and [[Vinod Goel]]'s neuroimaging work on reasoning.
+> **Lineage:** Works within Kahneman's dual-process framework but challenges the strong form of "cognitive miserliness." Influenced by [[Jonathan-Evans]]'s dual-process theory and [[Vinod Goel]]'s neuroimaging work on reasoning.
 >
 > **Relationship to Report:** Provides the crucial empirical bridge between detection and correction — the "activation paradox" that makes inquiry activation a genuine problem rather than an automatic process.
 ````
@@ -282,7 +282,7 @@ When relationships between figures are complex, include a simplified lineage dia
 
 **Callout type:** Use `[!person]` for consistency with PKB callout taxonomy.
 
-**Wiki-link requirement:** Each figure name should be a wiki-link to their permanent note (e.g., `[[Daniel Kahneman]]`). Related figures mentioned within entries should also be wiki-linked.
+**Wiki-link requirement:** Each figure name should be a wiki-link to their permanent note (e.g., `[[Daniel-Kahneman]]`). Related figures mentioned within entries should also be wiki-linked.
 
 ---
 
@@ -320,7 +320,7 @@ Each tension MUST include:
 >
 > **This Report's Position:** The report adopts the integrative position that metacognitive self-regulation provides the *mechanism* for transfer — making the domain-general vs. domain-specific debate partly a false dichotomy. The question is not whether skills transfer but under what *metacognitive conditions* they transfer.
 >
-> **See also:** [[Transfer-of-Learning]], [[Near-Transfer]], [[Conditional-Metacognitive-Knowledge]]
+> **See also:** [[Transfer-of-Learning]], [[Near-Transfer]], [[conditional-metacognitive-knowledge]]
 
 > [!tension] **The Activation Paradox: Detection Without Correction**
 >
@@ -338,7 +338,7 @@ Each tension MUST include:
 >
 > **This Report's Position:** The report argues these three mechanisms are likely complementary rather than competing — operating at different levels of the cognitive architecture. The practical implication is that effective intervention must address all three levels.
 >
-> **See also:** [[Conflict Monitoring]], [[Cognitive-Load-Theory]], [[Actively-Open-Minded-Thinking]]
+> **See also:** [[Conflict-Monitoring]], [[Cognitive-Load-Theory]], [[Actively-Open-Minded-Thinking]]
 
 > [!open-question] **Can Aporic Receptivity Be Reliably Cultivated?**
 >
@@ -609,7 +609,7 @@ Where the report has practical implications, provide actionable templates, check
 >
 > **Level 2 — Reappraisal (Socratic/Stoic):**
 > - Am I treating this uncertainty as a problem to be eliminated quickly, or as an invitation to think more carefully?
-> - Can I reframe this discomfort as evidence that I'm at my [[Region of Proximal Learning]]?
+> - Can I reframe this discomfort as evidence that I'm at my [[Region-of-Proximal-Learning]]?
 > - Reframe: "This uncertainty means I'm about to learn something."
 >
 > **Level 3 — Regulation (Flavell/Schraw):**
@@ -868,7 +868,7 @@ Connections should be organized by relationship type:
 >
 > This report adds substantial depth to the following existing permanent notes:
 > - **[[Actively-Open-Minded-Thinking]]** — Now grounded in the full Stanovich framework, not just the label
-> - **[[Conflict Monitoring]]** — Now connected to philosophical antecedents (Dewey, Socrates)
+> - **[[Conflict-Monitoring]]** — Now connected to philosophical antecedents (Dewey, Socrates)
 > - **[[Intellectual-Humility]]** — Now understood as a cognitive-dispositional achievement, not merely an attitude
 > - **[[Comprehension-Monitoring]]** — Now linked to the inquiry activation framework
 >
@@ -1264,7 +1264,7 @@ related:
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
@@ -1298,7 +1298,7 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning]]"
   - "[[Problem Solving in Complex Domains]]"
   - "[[Evidence-Based Practice]]"
 

@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,7 +39,6 @@ referenced-by-count: 15
 see-also:
   - "[[Calibration]]"
   - "[[Confirmation-Bias]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
   - "[[Corroboration]]"
   - "[[Defeasibility]]"
   - "[[Defeat-Defeater]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Epistemic-Holism]]"
   - "[[Epistemic-Humility]]"
   - "[[Fallibilism]]"
+  - "[[Infallibilism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,15 +59,14 @@ importance: medium
 # Descartes
 
 > [!definition] **Descartes**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
 - [[Calibration]]
 - [[Confirmation-Bias]]
-- [[Confirmation-Bias-Myside-Bias]]
 - [[Corroboration]]
 - [[Defeasibility]]
 - [[Defeat-Defeater]]

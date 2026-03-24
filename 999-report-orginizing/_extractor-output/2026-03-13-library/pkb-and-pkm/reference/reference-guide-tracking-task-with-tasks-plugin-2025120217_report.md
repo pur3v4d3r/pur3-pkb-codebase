@@ -289,7 +289,7 @@ extraction_summary:
 > - [[Templater Plugin]]
 > - [[GTD (Getting Things Done)]]
 > - [[Project Management in Obsidian]]
-> - [[Dashboard Design]]
+> - [[Dashboard-Design|Dashboard Design]]
 > - [[Inline Fields]]
 > - [[JavaScript in Dataview]]
 > - [[Task Prioritization]]
@@ -925,7 +925,7 @@ extraction_summary:
 
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Context-Based Productivity]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
@@ -964,7 +964,7 @@ extraction_summary:
 | 10 | [[Templater Plugin]] | — | — | Review System | 220 |
 | 11 | [[GTD (Getting Things Done)]] | — | — | Review System | 221 |
 | 12 | [[Project Management in Obsidian]] | — | — | Review System | 222 |
-| 13 | [[Dashboard Design]] | — | — | Review System | 223 |
+| 13 | [[Dashboard-Design|Dashboard Design]] | — | — | Review System | 223 |
 | 14 | [[Inline Fields]] | — | — | Review System | 224 |
 | 15 | [[JavaScript in Dataview]] | — | — | Review System | 225 |
 | 16 | [[Task Prioritization]] | — | — | Review System | 226 |
@@ -1596,7 +1596,7 @@ WHERE due < date(today)
 
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Context-Based Productivity]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]

@@ -425,7 +425,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **The Quadrant II Revolution**
-> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice|Deliberate Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
+> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice|Deliberate Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic-Planning|Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
 
 #### 19. [DEFINITION] Untitled *(Line 325)*
 
@@ -479,7 +479,7 @@ extraction_summary:
 > **Theme**: "Year of Systematic Learning"
 > 
 > **Strategic Domains**:
-> 1. [[Cognitive-Psychology|Cognitive Psychology]]: Build research-level understanding
+> 1. [[cognitive-psychology|Cognitive Psychology]]: Build research-level understanding
 > 2. [[Statistical Analysis]]: Progress from novice to intermediate practitioner  
 > 3. [[Technical Writing]]: Develop publication-quality skills
 > 
@@ -712,7 +712,7 @@ extraction_summary:
 - [[Bayesian-Inference-Course]]
 - [[Calendar Plugin]]
 - [[Cognitive-Load|Cognitive Load]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Creative Synthesis]]
 - [[Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
@@ -744,7 +744,7 @@ extraction_summary:
 - [[Statistical-Competency]]
 - [[Statistical-Problem-Practice]]
 - [[Statistics]]
-- [[Strategic Planning]]
+- [[Strategic-Planning|Strategic Planning]]
 - [[System Building]]
 - [[Task Analysis]]
 - [[Task-Management|Task Management]]
@@ -770,7 +770,7 @@ extraction_summary:
 | 4 | [[wiki-links]] | — | — | Document Start | 36 |
 | 5 | [[Goal Setting]] | — | — | The Three-Phase Cycle of Self-Regulat... | 73 |
 | 6 | [[Task Analysis]] | — | — | The Three-Phase Cycle of Self-Regulat... | 74 |
-| 7 | [[Strategic Planning]] | — | — | The Three-Phase Cycle of Self-Regulat... | 75 |
+| 7 | [[Strategic-Planning|Strategic Planning]] | — | — | The Three-Phase Cycle of Self-Regulat... | 75 |
 | 8 | [[Motivational Beliefs]] | — | — | The Three-Phase Cycle of Self-Regulat... | 76 |
 | 9 | [[Working-Memory|Working Memory]] | — | — | Planning and Working Memory | 96 |
 | 10 | [[GTD]] | — | — | Planning and Working Memory | 96 |
@@ -788,9 +788,9 @@ extraction_summary:
 | 22 | [[Deliberate-Practice|Deliberate Practice]] | — | — | The Four Quadrants | 311 |
 | 23 | [[System Building]] | — | — | The Four Quadrants | 311 |
 | 24 | [[Relationship Cultivation]] | — | — | The Four Quadrants | 311 |
-| 25 | [[Strategic Planning]] | — | — | The Four Quadrants | 311 |
+| 25 | [[Strategic-Planning|Strategic Planning]] | — | — | The Four Quadrants | 311 |
 | 26 | [[Possible Selves]] | — | — | Yearly Planning: Strategic Vision | 426 |
-| 27 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Yearly Planning: Strategic Vision | 443 |
+| 27 | [[cognitive-psychology|Cognitive Psychology]] | — | — | Yearly Planning: Strategic Vision | 443 |
 | 28 | [[Statistical Analysis]] | — | — | Yearly Planning: Strategic Vision | 444 |
 | 29 | [[Technical Writing]] | — | — | Yearly Planning: Strategic Vision | 445 |
 | 30 | [[Obsidian Templates]] | — | — | Monthly Planning: Project Milestones | 480 |
@@ -1919,7 +1919,7 @@ graph TD
 - [[Bayesian-Inference-Course]]
 - [[Calendar Plugin]]
 - [[Cognitive-Load|Cognitive Load]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Creative Synthesis]]
 - [[Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
@@ -1951,7 +1951,7 @@ graph TD
 - [[Statistical-Competency]]
 - [[Statistical-Problem-Practice]]
 - [[Statistics]]
-- [[Strategic Planning]]
+- [[Strategic-Planning|Strategic Planning]]
 - [[System Building]]
 - [[Task Analysis]]
 - [[Task-Management|Task Management]]

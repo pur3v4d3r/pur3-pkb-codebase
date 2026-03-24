@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -73,14 +73,6 @@ see-also:
   - "[[2025-W50]]"
   - "[[2025-12]]"
   - "[[2025-12]]"
-  - "[[Metadata-System-Quick-Reference|Metadata System Quick Reference]]"
-  - "[[Dataview|Dataview]]"
-  - "[[cognitive-science-moc|cognitive-science-moc]]"
-  - "[[2025-W50|2025-W50]]"
-  - "[[2025-12|2025-12]]"
-  - "[[2025-Q4|2025-Q4]]"
-  - "[[2025|2025]]"
-  - "[[Reference-Note|Reference Note]]"
   - "[[Metadata-System-Quick-Reference|Metadata System Quick Reference]]"
   - "[[Dataview|Dataview]]"
   - "[[cognitive-science-moc|cognitive-science-moc]]"
@@ -134,7 +126,14 @@ importance: medium
 **Related concepts** *(from reference-taxonomy-current-metadata-system-2025121309.md)*:
 [[Metadata-System-Quick-Reference|Metadata System Quick Reference]] * [[Reference-Note|Reference Note]] * [[Dashboard|Dashboard]] * [[Knowledge-Graph|Knowledge Graph]] * [[artificial-intelligence-moc|artificial-intelligence-moc]] * [[cosmology-moc|cosmology-moc]] * [[educational-psychology-moc|educational-psychology-moc]] * [[learning-theory-moc|learning-theory-moc]] * [[neuroscience-moc|neuroscience-moc]] * [[pkb-&-pkm-moc|pkb-&-pkm-moc]] * [[practical-philosophy-moc|practical-philosophy-moc]] * [[prompt-engineering-moc|prompt-engineering-moc]] * [[Quick-Switcher|Quick Switcher]] * [[Dataviewjs-Query-Snippets|Dataviewjs Query Snippets]] * [[Taxonomy-Design-Principles|Taxonomy Design Principles]]
 
-**Related concepts** *(from reference-taxonomy-current-metadata-system-2025121309.md)*:
-[[Metadata-System-Quick-Reference|Metadata System Quick Reference]] * [[Reference-Note|Reference Note]] * [[Knowledge-Graph|Knowledge Graph]] * [[Quick-Switcher|Quick Switcher]] * [[Dataviewjs-Query-Snippets|Dataviewjs Query Snippets]] * [[Taxonomy-Design-Principles|Taxonomy Design Principles]] * [[Facetted-Classification|Facetted Classification]] * [[Hierarchical-Taxonomy|Hierarchical Taxonomy]] * [[Information-Architecture|Information Architecture]] * [[Prompt-Component-Library|Prompt Component Library]] * [[Prompt-Engineering|Prompt Engineering]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Cognitive-Science|Cognitive Science]] * [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] * [[Metadata-Schema-Design|Metadata Schema Design]]
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Inline Dataview**
+> These queries embed directly in note text using backticks.
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[reference-taxonomy-current-metadata-system-2025121309]]

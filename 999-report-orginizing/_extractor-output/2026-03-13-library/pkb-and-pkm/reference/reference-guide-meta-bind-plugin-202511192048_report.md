@@ -162,7 +162,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
-> **Meta Bind transforms your static [[Obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML-Frontmatter|YAML Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard Design]], [[Task-Management|Task Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
+> **Meta Bind transforms your static [[Obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML-Frontmatter|YAML Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard-Design|Dashboard Design]], [[Task-Management|Task Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 2. [CORE-PRINCIPLE] Untitled *(Line 50)*
 
@@ -259,7 +259,7 @@ extraction_summary:
 - [[Buttons]]
 - [[CSS Snippets]]
 - [[Callout Manager]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dashboard Design Principles]]
 - [[Data Binding]]
 - [[Dataview]]
@@ -300,7 +300,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Obsidian]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 2 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
-| 3 | [[Dashboard Design]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
+| 3 | [[Dashboard-Design|Dashboard Design]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 4 | [[Task-Management|Task Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 5 | [[habit tracking]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 6 | [[Project Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
@@ -345,7 +345,7 @@ extraction_summary:
 | 45 | [[Input Fields]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 46 | [[View Fields]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 47 | [[Button Actions]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
-| 48 | [[Dashboard Design]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
+| 48 | [[Dashboard-Design|Dashboard Design]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 49 | [[Project Management]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 50 | [[Habit Tracking]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 51 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
@@ -684,7 +684,7 @@ Maintain a **Reading List MOC** with:
 - [[Buttons]]
 - [[CSS Snippets]]
 - [[Callout Manager]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Dashboard Design Principles]]
 - [[Data Binding]]
 - [[Dataview]]

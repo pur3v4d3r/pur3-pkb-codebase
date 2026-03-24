@@ -2,9 +2,12 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning"
+title: "999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning"
 aliases:
-  - "999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning"
+  - "999-report-orginizing"
+  - "999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning"
+  - "Self-Regulated-Learning"
+  - "_permanent-notes"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,8 +26,8 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -54,9 +57,9 @@ mastery-stage: seedling
 importance: low
 ---
 
-# 999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning
+# 999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning
 
-> [!definition] **999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning**
+> [!definition] **999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning**
 > *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 *Auto-generated stub — referenced by 8 permanent notes.*

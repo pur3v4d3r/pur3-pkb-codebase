@@ -2,10 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Note-Making Under Time Pressure: When Generative Processing Is Not Feasible"
+title: "Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible"
 aliases:
-  - "Note-Making Under Time Pressure"
-  - "Note-Making Under Time Pressure: When Generative Processing Is Not Feasible"
+  - "Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible"
 type: permanent-note
 status: seedling
 confidence: low
@@ -16,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - expansion-topic-stub
+  - concept-stub
   - learning-science
 
 domain: learning-science
@@ -24,30 +23,30 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 15
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Articulatory-Construction-Principle]]"
-  - "[[Cognitive-Event-Model]]"
-  - "[[Constructive-Processing]]"
-  - "[[Elaborative-Interrogation]]"
+  - "[[Audience-Simulation-Effect]]"
+  - "[[Cognitive-Surface-Area]]"
+  - "[[Epistemic-Action]]"
   - "[[Generative-Learning-Theory]]"
-  - "[[ICAP-Framework]]"
-  - "[[Note-Making-vs.-Note-Taking]]"
-  - "[[Progressive-Summarization]]"
-  - "[[Schema-Accommodation]]"
-  - "[[Schema-Construction]]"
+  - "[[Generative-Processing]]"
+  - "[[Knowledge-Telling-vs.-Knowledge-Transforming]]"
+  - "[[Productive-Friction]]"
+  - "[[Retrieval-Writing]]"
+  - "[[The-Articulatory-Construction-Principle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -57,26 +56,27 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Note-Making Under Time Pressure: When Generative Processing Is Not Feasible
+# Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible
 
-> [!definition] **Note-Making Under Time Pressure: When Generative Processing Is Not Feasible**
-> *Stub note — expansion topic suggested for future research, referenced by 14 permanent notes. This represents a potential deep-dive area connecting multiple concepts in the PKB.*
+> [!definition] **Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible**
+> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 15 permanent notes.*
 
 ## Referenced By
 
 - [[Articulatory-Construction-Principle]]
-- [[Cognitive-Event-Model]]
-- [[Constructive-Processing]]
-- [[Elaborative-Interrogation]]
+- [[Audience-Simulation-Effect]]
+- [[Cognitive-Surface-Area]]
+- [[Epistemic-Action]]
 - [[Generative-Learning-Theory]]
-- [[ICAP-Framework]]
-- [[Note-Making-vs.-Note-Taking]]
-- [[Progressive-Summarization]]
-- [[Schema-Accommodation]]
-- [[Schema-Construction]]
-- [[Self-Explanation-Effect]]
+- [[Generative-Processing]]
+- [[Knowledge-Telling-vs.-Knowledge-Transforming]]
+- [[Productive-Friction]]
+- [[Retrieval-Writing]]
 - [[The-Articulatory-Construction-Principle]]
-- [[The-Cognitive-Event-Model-of-Note-Making]]
-- [[Writing-to-Learn]]
+- [[The-Epistemic-Status-of-Notes-as-Process-Artifacts]]
+- [[The-Fluency-Trap]]
+- [[The-Friction-Architecture-of-Learning-Through-Writing]]
+- [[The-Generation-Effect]]
+- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

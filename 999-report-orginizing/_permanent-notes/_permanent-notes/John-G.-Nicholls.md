@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +43,7 @@ see-also:
   - "[[Ego-Involvement]]"
   - "[[Mastery-Approach-Goal]]"
   - "[[Mastery-Avoidance-Goal]]"
-  - "[[Mastery-Goals]]"
+  - "[[Mastery-Goal]]"
   - "[[Motivational-Climate]]"
   - "[[Performance-Approach-Goal]]"
   - "[[Performance-Avoidance-Goal]]"
@@ -71,11 +71,11 @@ importance: medium
 - [[Ego-Involvement]]
 - [[Mastery-Approach-Goal]]
 - [[Mastery-Avoidance-Goal]]
-- [[Mastery-Goals]]
+- [[Mastery-Goal]]
 - [[Motivational-Climate]]
 - [[Performance-Approach-Goal]]
 - [[Performance-Avoidance-Goal]]
-- [[Performance-Goals]]
+- [[Performance-Goal]]
 - [[TARGET-Framework]]
 - [[Task-Involvement]]
 - [[Undifferentiated-Conception-of-Ability]]

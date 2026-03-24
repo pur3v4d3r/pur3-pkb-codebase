@@ -2,8 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "John Dewey"
+title: "John-Dewey"
 aliases:
+  - "John-Dewey"
   - "John Dewey"
 type: permanent-note
 status: seedling
@@ -15,7 +16,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - person-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,57 +24,66 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 43
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abstract-Conceptualization]]"
-  - "[[Active-Experimentation]]"
-  - "[[Concrete-Experience]]"
-  - "[[Experience-Processing-Architecture]]"
-  - "[[Inert-Ideas]]"
-  - "[[Kolb-Experiential-Learning-Cycle]]"
-  - "[[Pragmatist-Epistemology]]"
-  - "[[Pragmatist-PKB]]"
-  - "[[Reflection-on-Action]]"
-  - "[[Reflective-Observation]]"
+  - "[[Active-Inference]]"
+  - "[[Analysis]]"
+  - "[[Aporic-Receptivity]]"
+  - "[[Assimilation,-Accommodation,-and-Equilibration]]"
+  - "[[Conflict-Monitoring]]"
+  - "[[Constructive-Attentiveness]]"
+  - "[[Controlled-Hallucination]]"
+  - "[[Critical-Thinking]]"
+  - "[[Desirable-Difficulties]]"
+  - "[[Dewey's-Continuity-and-Interaction-Principles]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
-# John Dewey
+# John-Dewey
 
-> [!definition] **John Dewey**
-> *Stub note — person referenced by 12 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> [!definition] **John-Dewey**
+> *Stub note — concept referenced by 43 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 43 permanent notes.*
 
 ## Referenced By
 
-- [[Abstract-Conceptualization]]
-- [[Active-Experimentation]]
-- [[Concrete-Experience]]
-- [[Experience-Processing-Architecture]]
-- [[Inert-Ideas]]
-- [[Kolb-Experiential-Learning-Cycle]]
-- [[Pragmatist-Epistemology]]
-- [[Pragmatist-PKB]]
-- [[Reflection-on-Action]]
-- [[Reflective-Observation]]
-- [[The-Experience-Processing-Architecture]]
-- [[The-Pragmatist-PKB-A-Design-Philosophy]]
+- [[Active-Inference]]
+- [[Analysis]]
+- [[Aporic-Receptivity]]
+- [[Assimilation,-Accommodation,-and-Equilibration]]
+- [[Conflict-Monitoring]]
+- [[Constructive-Attentiveness]]
+- [[Controlled-Hallucination]]
+- [[Critical-Thinking]]
+- [[Desirable-Difficulties]]
+- [[Dewey's-Continuity-and-Interaction-Principles]]
+- [[Disposition]]
+- [[Epistemic-Cognition]]
+- [[Evaluation]]
+- [[Felt-Difficulty]]
+- [[Free-Energy-Principle]]
+- [[Functional-Psychology]]
+- [[Generative-Model]]
+- [[Genetic-Epistemology]]
+- [[Inference]]
+- [[Intellectual-Standards]]
+- *...and 23 more permanent notes*

@@ -1172,7 +1172,7 @@ PKM promotes creativity and innovation by synthesizing diverse sources of inform
 4. **Cross-Pollination**: Apply methods from one domain to problems in another
 5. **Collaborative Learning**: Engage with experts from other fields
 
-Your PKB system, with extensive cross-referencing between [[Cognitive-Psychology]], [[Instructional-Design]], [[Stoic-Philosophy]], and [[Knowledge-Management]], exemplifies this interdisciplinary approach.
+Your PKB system, with extensive cross-referencing between [[cognitive-psychology]], [[Instructional-Design]], [[Stoic-Philosophy]], and [[Knowledge-Management]], exemplifies this interdisciplinary approach.
 
 ### Synthesis Techniques
 

@@ -481,7 +481,7 @@ These fill critical theoretical gaps in your existing pillars:
 62. **[[Enactivism]]**
     - **Connection to MOC**: Radical embodied approach; cognition as action-perception loop
     - **Research Value**: Autopoiesis, sensorimotor contingencies, direct perception
-    - **Integration Points**: [[Active-Inference]] ↔ [[Ecological-Psychology]] ↔ [[Phenomenology]]
+    - **Integration Points**: [[Active-Inference]] ↔ [[Ecological-Psychology]] ↔ [[phenomenology]]
     - **Taxonomy Tags**: `#enactivism`, `#embodied-cognition`, `#theoretical-frameworks`
 
 63. **[[Grounded Cognition]]**

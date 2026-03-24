@@ -200,7 +200,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > ```
 
 > [!connections-and-links]
-> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[MOC]] (Maps of Content) architectures and [[Dashboard Design]].
+> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[MOC]] (Maps of Content) architectures and [[Dashboard-Design]].
 
 ---
 
@@ -489,7 +489,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > 5. Progress to cross-note queries (`[[Note]].field`)
 > 6. Build confidence with counters and basic aggregations
 > 7. Advance to complex filtering and conditional logic
-> 8. Finally, integrate into [[Template Integration]] systems and [[Dashboard Design]]
+> 8. Finally, integrate into [[Template Integration]] systems and [[Dashboard-Design]]
 
 ---
 
@@ -503,7 +503,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 2. **[[DataviewJS — JavaScript API]]**
    - *Connection*: When inline DQL hits limitations, DataviewJS provides full programmatic control over query rendering and computation
    - *Depth Potential*: Enables custom visualizations, external API integration, and complex data transformations beyond declarative DQL
-   - *Knowledge Graph Role*: Advanced automation layer for power users building sophisticated [[Dashboard Design]] systems
+   - *Knowledge Graph Role*: Advanced automation layer for power users building sophisticated [[Dashboard-Design]] systems
 
 3. **[[YAML Frontmatter Architecture]]**
    - *Connection*: Inline queries are only as powerful as the metadata they query; systematic frontmatter design is prerequisite knowledge
@@ -576,7 +576,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
 - [[MOC]] (Maps of Content)
-- [[Dashboard Design]]
+- [[Dashboard-Design]]
 - [[Task-Management]]
 - [[Daily Notes]]
 - [[Zettelkasten]]

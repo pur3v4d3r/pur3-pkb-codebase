@@ -5,7 +5,6 @@
 title: "Tier-1-—-Epistemic-Architecture"
 aliases:
   - "-Epistemic-Architecture"
-  - "Tier 1 — Epistemic Architecture"
   - "Tier-1-"
   - "Tier-1-—-Epistemic-Architecture"
 type: permanent-note
@@ -26,8 +25,8 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

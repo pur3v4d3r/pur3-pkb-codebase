@@ -5,7 +5,6 @@
 title: "Focused-Analysis-Report-Generator-v1.0"
 aliases:
   - "Focused-Analysis-Report-Generator-v1.0"
-  - "Focused Analysis Report Generator v1.0"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 39
+referenced-by-count: 36
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -60,9 +59,9 @@ importance: high
 # Focused-Analysis-Report-Generator-v1.0
 
 > [!definition] **Focused-Analysis-Report-Generator-v1.0**
-> *Stub note — concept referenced by 39 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 36 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 39 permanent notes.*
+*Auto-generated stub — referenced by 36 permanent notes.*
 
 ## Referenced By
 
@@ -76,14 +75,14 @@ importance: high
 - [[Conjunctive-System-Architecture]]
 - [[Control-Orientation]]
 - [[Developmental-Need-Satisfaction-History]]
-- [[Extraneous-Cognitive-Load]]
 - [[Flavell's-Metacognitive-Framework]]
-- [[Flavell-Metacognition-Framework]]
 - [[Forethought-Phase]]
 - [[General-Causality-Orientations-Scale]]
 - [[Impersonal-Orientation]]
-- [[Internalisation]]
 - [[Locus-of-Control]]
 - [[MSLQ]]
 - [[Metacognitive-Experience]]
-- *...and 19 more permanent notes*
+- [[Metacognitive-Monitoring]]
+- [[Monitoring-Control-Coupling]]
+- [[Motivational-Affordance]]
+- *...and 16 more permanent notes*

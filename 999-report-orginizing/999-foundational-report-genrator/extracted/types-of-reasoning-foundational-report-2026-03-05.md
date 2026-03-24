@@ -152,7 +152,7 @@ see-also:
   - "[[Argument-Analysis|Argument Analysis]]"
   - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
   - "[[Inquiry-Based-Learning|Inquiry-Based Learning]]"
-  - "[[Socratic Seminars]]"
+  - "[[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]"
 
 contrasts-with:
   - "[[Rote-memorization|Rote Memorization]]"
@@ -445,7 +445,7 @@ The key instructional move for developing abductive reasoning is making the hypo
 
 ### Limitations of Current Understanding
 
-The three-type taxonomy, for all its utility, carries real limitations that honest treatment requires acknowledging. First, it is a philosophical framework that predates modern cognitive science, and the mapping from philosophical categories to cognitive mechanisms is imperfect and contested. Second, the taxonomy excludes important reasoning forms — [[Analogical-Reasoning|analogical reasoning]], [[Causal Reasoning|causal reasoning]], [[Counterfactual Reasoning|counterfactual reasoning]], and [[Probabilistic Reasoning|probabilistic reasoning]] — that do not map cleanly onto the deduction-induction-abduction triad. Third, virtually all empirical research on reasoning has been conducted in [[WEIRD]] populations (Western, Educated, Industrialized, Rich, and Democratic), and cultural variation in reasoning styles is substantial enough to warrant caution about universal claims.
+The three-type taxonomy, for all its utility, carries real limitations that honest treatment requires acknowledging. First, it is a philosophical framework that predates modern cognitive science, and the mapping from philosophical categories to cognitive mechanisms is imperfect and contested. Second, the taxonomy excludes important reasoning forms — [[Analogical-Reasoning|analogical reasoning]], [[Causal Reasoning|causal reasoning]], [[Counterfactual-Reasoning|counterfactual reasoning]], and [[Probabilistic Reasoning|probabilistic reasoning]] — that do not map cleanly onto the deduction-induction-abduction triad. Third, virtually all empirical research on reasoning has been conducted in [[WEIRD]] populations (Western, Educated, Industrialized, Rich, and Democratic), and cultural variation in reasoning styles is substantial enough to warrant caution about universal claims.
 
 > [!reflection] **From Understanding to Action**
 > 1. If you were designing a unit in your subject area that deliberately engaged all three reasoning modes, what would it look like at each stage? Which mode would you introduce first, and why?

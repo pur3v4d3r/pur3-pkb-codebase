@@ -232,7 +232,7 @@ extraction_summary:
 - [[Calendar Blocking]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Daily Notes]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Data Analysis]]
 - [[Dataview Query Language (DQL) Mastery]]
 - [[FILENAME]]
@@ -278,7 +278,7 @@ extraction_summary:
 | 22 | [[Dataview Query Language (DQL) Mastery]] | — | — | 🔗 Related Topics for PKB Expansion | 975 |
 | 23 | [[Obsidian Power Users]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
 | 24 | [[Data Analysis]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
-| 25 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
+| 25 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
 | 26 | [[Time-Blocking Methodology]] | — | — | 🔗 Related Topics for PKB Expansion | 980 |
 | 27 | [[deep work]] | — | — | 🔗 Related Topics for PKB Expansion | 982 |
 | 28 | [[Attention Management]] | — | — | 🔗 Related Topics for PKB Expansion | 983 |
@@ -919,7 +919,7 @@ dv.taskList(unscheduled.limit(5), false);
 - [[Calendar Blocking]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Daily Notes]]
-- [[Dashboard Design]]
+- [[Dashboard-Design|Dashboard Design]]
 - [[Data Analysis]]
 - [[Dataview Query Language (DQL) Mastery]]
 - [[FILENAME]]

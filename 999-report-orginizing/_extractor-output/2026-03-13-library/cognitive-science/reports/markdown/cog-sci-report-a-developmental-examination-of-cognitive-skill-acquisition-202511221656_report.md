@@ -231,7 +231,7 @@ extraction_summary:
 - [[Andragogy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Mastery]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Divergent Thinking]]
@@ -256,7 +256,7 @@ extraction_summary:
 | 2 | [[Cognitive Mastery]] | — | — | Expertise Development | 30 |
 | 3 | [[Advanced Andragogy]] | — | — | Expertise Development | 30 |
 | 4 | [[Novice to Expert Continuum]] | — | — | Expertise Development | 30 |
-| 5 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 1\. Define Core Parameters | 38 |
+| 5 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 1\. Define Core Parameters | 38 |
 | 6 | [[Andragogy]] | — | — | 1\. Define Core Parameters | 38 |
 | 7 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 1\. Define Core Parameters | 38 |
 | 8 | [[Metacognition]] | — | — | 1\. Define Core Parameters | 38 |
@@ -355,7 +355,7 @@ $$
 - [[Andragogy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Mastery]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Divergent Thinking]]

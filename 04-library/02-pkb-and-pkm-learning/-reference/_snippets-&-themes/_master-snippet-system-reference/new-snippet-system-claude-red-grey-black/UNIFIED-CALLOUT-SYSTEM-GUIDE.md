@@ -321,7 +321,7 @@ TOTAL TIME: 3 minutes
 
 ```markdown
 > [!definition] Cognitive Load Theory
-> **Cognitive Load Theory** (CLT) is a [[Cognitive-Psychology]] framework
+> **Cognitive Load Theory** (CLT) is a [[cognitive-psychology]] framework
 > positing that instructional design effectiveness is fundamentally
 > constrained by [[Working-Memory]] capacity limitations.
 >

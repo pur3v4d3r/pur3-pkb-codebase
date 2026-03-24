@@ -5,7 +5,6 @@
 title: "Reasoning-Biases-and-Heuristics"
 aliases:
   - "Reasoning-Biases-and-Heuristics"
-  - "Reasoning Biases and Heuristics"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

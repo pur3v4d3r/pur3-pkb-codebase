@@ -145,7 +145,7 @@ extraction_summary:
 #### 5. [PRINCIPLE-POINT] The Retrieval Paradox *(Line 68)*
 
 > [!principle-point] The Retrieval Paradox
-> Making information *harder* to retrieve (within limits) actually strengthens long-term retention. This insight from [[Cognitive-Psychology|Cognitive Psychology]] fundamentally challenges typical PKB design that prioritizes frictionless access.
+> Making information *harder* to retrieve (within limits) actually strengthens long-term retention. This insight from [[cognitive-psychology|Cognitive Psychology]] fundamentally challenges typical PKB design that prioritizes frictionless access.
 
 #### 6. [METHODOLOGY-AND-SOURCES] Implementation Pattern: Active Reconstruction Protocol *(Line 80)*
 
@@ -301,7 +301,7 @@ extraction_summary:
 - [[Cognitive Load Management in Hierarchy Design]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Offloading vs. Cognitive Partnership in External Systems]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science MOC]]
 - [[Competence]]
@@ -384,7 +384,7 @@ extraction_summary:
 | 11 | [[Machine Learning - Mathematical Foundations]] | — | — | 1. **[[Working Memory Architecture in... | 62 |
 | 12 | [[Machine Learning - Practical Implementation]] | — | — | 1. **[[Working Memory Architecture in... | 63 |
 | 13 | [[Desirable Difficulties and Retrieval Practice Design]] | — | — | 2. **[[Desirable Difficulties and Ret... | 66 |
-| 14 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2. **[[Desirable Difficulties and Ret... | 69 |
+| 14 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2. **[[Desirable Difficulties and Ret... | 69 |
 | 15 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 2. **[[Desirable Difficulties and Ret... | 71 |
 | 16 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 2. **[[Desirable Difficulties and Ret... | 71 |
 | 17 | [[Bjork's Desirable Difficulties Framework]] | — | — | 2. **[[Desirable Difficulties and Ret... | 71 |
@@ -532,7 +532,7 @@ Structural Planning:
 - [[Cognitive Load Management in Hierarchy Design]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Offloading vs. Cognitive Partnership in External Systems]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science MOC]]
 - [[Competence]]

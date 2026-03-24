@@ -491,7 +491,7 @@ extraction_summary:
 - [[Thomas Nelson]]
 - [[Veenman and colleagues' research]]
 - [[William-James|William James]]
-- [[Zimmerman's cyclical model of self-regulated learning]]
+- [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[Anterior-Insular-Cortex|anterior insular cortex]]
 - [[Assimilation-and-Accommodation|assimilation and accommodation]]
@@ -645,7 +645,7 @@ extraction_summary:
 | 115 | [[Karl-Popper|Karl Popper]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 243 |
 | 116 | [[Deanna Kuhn]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 247 |
 | 117 | [[Self-Regulation-Theory]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 253 |
-| 118 | [[Zimmerman's cyclical model of self-regulated learning]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 255 |
+| 118 | [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 255 |
 | 119 | [[executive functions]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 257 |
 | 120 | [[Claudia Roebers]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 259 |
 | 121 | [[Delay of gratification]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 263 |
@@ -839,7 +839,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Thomas Nelson]]
 - [[Veenman and colleagues' research]]
 - [[William-James|William James]]
-- [[Zimmerman's cyclical model of self-regulated learning]]
+- [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[Anterior-Insular-Cortex|anterior insular cortex]]
 - [[Assimilation-and-Accommodation|assimilation and accommodation]]

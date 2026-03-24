@@ -142,7 +142,7 @@ related:
 broader:
   - "[[Reasoning and Rationality]]"
   - "[[Philosophy of Logic]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
 
 narrower:
   - "[[Syllogistic Reasoning]]"
@@ -184,7 +184,7 @@ enables:
   - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
 
 expansion-topics:
-  - topic: "[[Transfer of Learning and Deductive Skill]]"
+  - topic: "[[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]"
     description: "Examines whether deductive reasoning trained in one domain (e.g., mathematics) transfers to unrelated domains; foundational to debates about formal discipline and the value of logic instruction"
     priority: high
   - topic: "[[Conditional Reasoning and the Wason Selection Task]]"
@@ -601,7 +601,7 @@ Three significant open questions remain for both the science and pedagogy of ded
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Transfer of Learning and Deductive Skill]]
+> > [!topic-idea] [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]
 > > Whether deductive training in mathematics or formal logic confers reasoning benefits in other domains — the "formal discipline" hypothesis — is among the most consequential and contested questions in cognitive education research. A dedicated report would examine the transfer literature systematically, distinguishing near transfer (within-domain improvements), far transfer (cross-domain improvements), and dispositional transfer (changes in epistemic habits). It would engage the Nisbett et al. (1987) findings on statistical reasoning training and the more sceptical literature on formal logic courses, and would evaluate modern approaches — including structural abstraction and metacognitive scaffolding — for enhancing transfer. Priority: high.
 >
 > > [!topic-idea] [[Conditional Reasoning and the Wason Selection Task]]

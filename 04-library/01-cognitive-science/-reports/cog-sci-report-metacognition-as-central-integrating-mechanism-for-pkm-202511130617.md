@@ -20,7 +20,7 @@ link-up:
 link-related:
   - "[[2025-11-20|Daily-Note]]"
   - "[[Metacognition]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Self-Regulated-Learning]]"
   - "[[Critical-Thinking]]"
   - "[[Constructivist Learning]]"
@@ -279,7 +279,7 @@ The cyclical model also explains the development of **[[Adaptive Expertise]]**�
 > 
 > [[Paul-Pintrich]]'s model of self-regulated learning (2000, 2004) expanded the framework by systematically integrating cognitive, motivational/affective, behavioral, and contextual dimensions. His four-phase model (forethought/planning, monitoring, control, reflection/evaluation) explicitly includes metacognitive processes while showing how they interact with motivational states.
 
-Pintrich demonstrated that metacognitive capability alone proves insufficient for effective self-regulation—motivation must sustain the cognitive effort metacognitive monitoring and control demand. Students may possess sophisticated metacognitive knowledge and regulatory skill yet fail to deploy them when self-efficacy is low, goals lack personal relevance, or perceived costs exceed perceived benefits. His **[[Motivated Strategies for Learning Questionnaire]]** (MSLQ), widely used in research and practice, assesses both metacognitive strategy use and motivational beliefs, recognizing their inseparability in actual learning contexts.
+Pintrich demonstrated that metacognitive capability alone proves insufficient for effective self-regulation—motivation must sustain the cognitive effort metacognitive monitoring and control demand. Students may possess sophisticated metacognitive knowledge and regulatory skill yet fail to deploy them when self-efficacy is low, goals lack personal relevance, or perceived costs exceed perceived benefits. His **[[Motivated-Strategies-for-Learning-Questionnaire]]** (MSLQ), widely used in research and practice, assesses both metacognitive strategy use and motivational beliefs, recognizing their inseparability in actual learning contexts.
 
 The interaction between metacognition and motivation operates bidirectionally. Metacognitive processes influence motivation: recognizing progress through self-monitoring enhances self-efficacy; metacognitive awareness of effective strategies increases perceived control; attributing success to strategic choices (a metacognitive judgment) maintains motivation. Conversely, motivational states influence metacognition: high self-efficacy supports persistence in metacognitively demanding tasks like systematic monitoring; intrinsic task interest facilitates the sustained attention metacognitive regulation requires; performance-approach goals may undermine deep metacognitive reflection in favor of performance-optimizing shortcuts.
 

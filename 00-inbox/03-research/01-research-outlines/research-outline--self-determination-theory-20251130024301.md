@@ -714,7 +714,7 @@ The report should:
 2. **[[Autonomy Support in Educational Design - Practical Applications]]**
    - *Connection*: Translates SDT's autonomy concept into concrete instructional design principles
    - *Depth Potential*: Examining specific teaching practices, classroom structures, and assessment designs that support vs. thwart autonomy
-   - *Knowledge Graph Role*: Connects SDT to [[Instructional-Design]], [[Pedagogy]], and [[Educational Technology]] domains
+   - *Knowledge Graph Role*: Connects SDT to [[Instructional-Design]], [[pedagogy]], and [[Educational Technology]] domains
 
 3. **[[Cultural Variations in Basic Psychological Needs - The Universality Debate]]**
    - *Connection*: Addresses one of the most significant theoretical debates in SDT regarding cross-cultural applicability

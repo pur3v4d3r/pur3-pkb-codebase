@@ -207,7 +207,7 @@ prerequisites:
   - "[[Logical Reasoning Foundations]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Philosophy of Mind]]"
   - "[[Applied Epistemology]]"
@@ -513,7 +513,7 @@ The capstone report synthesizes insights from all seven preceding reports into a
 - [[Intuitive Judgment]]
 - [[Unconscious Competence]]
 - [[Conscious Incompetence]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[Evidence-Based Practice]]
 - [[Cognitive-Development-Theory]]
 - [[Educational Interventions]]
@@ -1006,7 +1006,7 @@ related:
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
@@ -1040,7 +1040,7 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning]]"
   - "[[Problem Solving in Complex Domains]]"
   - "[[Evidence-Based Practice]]"
 
@@ -1750,7 +1750,7 @@ related:
   - "[Add report-specific related notes]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
 
@@ -2082,7 +2082,7 @@ related:
   - "[[System-2-Thinking]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Philosophy of Mind]]"
@@ -2581,7 +2581,7 @@ related:
   - "[[Epistemology]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Philosophy of Mind]]"
@@ -3044,7 +3044,7 @@ related:
   - "[[Dichotomy-of-Control]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Philosophy of Mind]]"
@@ -3511,7 +3511,7 @@ related:
   - "[[Self-Regulated-Learning]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Philosophy of Education]]"
@@ -3983,7 +3983,7 @@ related:
   - "[[Critical-Thinking]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Philosophy of Mind]]"
@@ -4533,7 +4533,7 @@ related:
   - "[[System-2-Thinking]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
   - "[[Philosophy of Mind]]"
@@ -5005,7 +5005,7 @@ related:
   - "[[Lifelong-learning]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
 
@@ -5491,7 +5491,7 @@ related:
   - "[[Cognitive Integration]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Philosophy of Mind]]"

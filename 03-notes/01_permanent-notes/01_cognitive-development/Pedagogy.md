@@ -36,7 +36,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Pedagogy]]
+> - **Key-Term**:[[pedagogy]]
 > - [**Definition**:Traditionally emphasizes instructor-directed learning where the teacher determines what will be learned, how it will be learned, and when learning objectives have been achieved. The pedagogical model assumes learners depend heavily on the instructor's expertise and guidance, with limited intrinsic motivation requiring external structure and accountability.]
 
 

@@ -15,33 +15,28 @@ confidence: high
 tags:
   - permanent-note
   - evergreen
-  - learning-science
-  - epistemology/justified-true-belief
-  - epistemology/gettier-problem
-  - epistemology/virtue-epistemology
-  - pragmatist-philosophy/truth
-  - pragmatist-philosophy/dewey
+  - other
+  - academic-synthesis
+  - series-report
+  - virtue-epistemology
+  - cognitive-science
 
-domain: learning-science
+domain: other
 subdomains:
-  - epistemology
-  - philosophy-of-mind
-  - pragmatist-philosophy
-  - constructivism
-  - stoic-philosophy
+  - 
 
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15"
+  - "report-05-the-virtuous-reasoner"
   - "report-05-the-virtuous-reasoner.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
@@ -49,7 +44,7 @@ extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
 # ═══════════════════════════════════════════════════════════════════════════
-complexity-level: advanced-practitioner
+complexity-level: intermediate
 depth-level: comprehensive
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -59,16 +54,7 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Justified-True-Belief|Justified True Belief]]"
-  - "[[Gettier-Problem|Gettier Problem]]"
-  - "[[Virtue-Epistemology|Virtue Epistemology]]"
-  - "[[Pragmatist-Truth|Pragmatist Truth]]"
-  - "[[Constructivist-Knowledge|Constructivist Knowledge]]"
-  - "[[Kataleptic-Impression|Kataleptic Impression]]"
-  - "[[Socratic-Aporia|Socratic Aporia]]"
-  - "[[Epistemic-Humility|Epistemic Humility]]"
-  - "[[Illusion-of-Knowing|Illusion of Knowing]]"
-  - "[[Familiarity-vs.-Recollection|Familiarity vs. Recollection]]"
+  - "[[]]"
 
 broader:
   - "[[]]"
@@ -77,22 +63,6 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Accommodation]]"
-  - "[[American-Pragmatism|American Pragmatism]]"
-  - "[[Aporia]]"
-  - "[[Assimilation]]"
-  - "[[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]"
-  - "[[Classical-Epistemology|Classical Epistemology]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
-  - "[[Daniel-Kahneman|Daniel Kahneman]]"
-  - "[[Amos-Tversky|Amos Tversky]]"
-  - "[[Debiasing-Interventions|Debiasing Interventions]]"
-  - "[[Linda-Zagzebski|Linda Zagzebski]]"
-  - "[[Jason-Baehr|Jason Baehr]]"
-  - "[[Heather-Battaly|Heather Battaly]]"
-  - "[[Stoic-Virtue-Ethics|Stoic Virtue Ethics]]"
   - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
   - "[[Daniel-Kahneman|Daniel Kahneman]]"
   - "[[Amos-Tversky|Amos Tversky]]"
@@ -114,28 +84,14 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows]]"
-  - "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]"
-  - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
-  - "[[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]"
-  - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
+  - "[[]]"
 
 enables:
-  - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
-  - "[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]"
+  - "[[]]"
 
 expansion-topics:
-  - topic: "[[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]"
-    description: "How do we come to know things through testimony — through what we are told rather than what we direc"
-    priority: medium
-  - topic: "[[The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge|The Epistemology of Memory — When Does Memory Constitute Knowledge?]]"
-    description: "Memory is the cognitive mechanism that sustains knowledge over time, but memory is reconstructive ra"
-    priority: medium
-  - topic: "[[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]"
-    description: "Social epistemology examines how knowledge is generated, transmitted, and validated through social p"
-    priority: medium
-  - topic: "[[Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model|Philosophy of Science and PKM — Scientific Method as Epistemic Model]]"
-    description: "The philosophy of science offers sophisticated accounts of how knowledge is generated, tested, and r"
+  - topic: "[[]]"
+    description: ""
     priority: medium
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -149,86 +105,42 @@ importance: high
 # Virtue Epistemology
 
 > [!definition] **Virtue Epistemology**
-> The view that knowledge is understood in terms of intellectual virtues — stable, reliable dispositions of the epistemic agent that reliably produce true belief through their appropriate exercise. Virtues include intellectual humility (accurate assessment of one's epistemic limitations), intellectual courage (willingness to revise beliefs in response to evidence), intellectual thoroughness (not resting content with superficial understanding), and open-mindedness (genuine consideration of alternative views). Knowledge, on this account, is a credit to the knower's character — the agent must be responsible for their believing truly, not merely fortunate. This view transforms epistemology from a question about belief conditions to a question about the epistemic agent's character and practice.
-
-*Source: Contemporary Analytic Epistemology (defined across 2 reports)*
+> The branch of epistemology that investigates the intellectual virtues — the stable cognitive character traits that reliably promote epistemic goods including true belief, knowledge, understanding, and epistemic growth. The responsibilist strand (Zagzebski, Baehr, Battaly) focuses on cultivated character traits and their motivational structure; the reliabilist strand (Sosa, Greco) focuses on reliable cognitive faculties like perception and memory. This report draws primarily on the responsibilist tradition.
 
 ## Core Explanation
 
 > [!evidence] Supporting Evidence
-> **The Illusion of Knowing (Glenberg, Wilkinson & Epstein, 1982)**: In a classic series of experiments, Glenberg, Wilkinson, and Epstein demonstrated that people consistently and confidently overestimate how well they understand texts they have read. Participants who had read passages were asked to predict how well they could answer questions about them, then were tested. Comprehension was dramatically lower than predicted — participants felt they knew material they could not actually retrieve…
-
-> [!evidence] Supporting Evidence
-> **Fluency Is Not Understanding**: The convergence of illusion-of-knowing research, desirable difficulties research (Bjork, 1994), and the testing effect literature suggests a counterintuitive principle that the PKM community has been slow to internalize: the easier it is to process a note, the less likely that processing is to produce genuine knowledge. High-quality notes — clear, well-organized, elegantly written — are precisely the notes most likely to generate the illusion of knowing without…
-
-> [!evidence] Supporting Evidence
-> **Active Generation vs. Passive Reading (Slamecka & Graf, 1978; McDaniel et al., 2009)**: The generation effect — the finding that material generated by the learner is better remembered than material read — has been replicated hundreds of times since Slamecka and Graf's original demonstration. In PKB terms: notes that the user writes, reformulates, or elaborates in their own words are epistemically superior to notes that are copied, pasted, or captured verbatim from sources. The act of…
-
-> [!analytical-insight] Key Insight
-> **The Central Synthesis Claim**: A philosophically grounded account of personal knowledge — drawing on classical epistemology, pragmatism, constructivism, Stoic wisdom, and Socratic epistemics — reveals that knowledge is not a property of notes. It is a relationship between a learner and content, constituted through active engagement, tested application, and honest self-examination. This reconceptualization demands a radical rethinking of what a PKB is for and how it should be designed.
-
-> [!analytical-insight] Key Insight
-> **The Metacognitive Bootstrapping Problem**: There is a troubling implication in the calibration literature for PKB practice: the accuracy of your assessment of whether you "know" something in your PKB is itself limited by your level of knowledge in the domain. Early in learning a field, you are least equipped to judge what you don't know. You will read notes and feel understanding you don't have. You will link concepts you haven't truly integrated. You will write syntheses that feel profound…
-
-> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
 > The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
 
-> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
+> [!evidence] Supporting Evidence
 > Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
 
-> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
+> [!evidence] Supporting Evidence
 > The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
-
-
-
 
 ## Practical Implications
 
 > [!example] **Application**
-> **The Epistemic State System — Obsidian Implementation**: Implement four epistemic states as metadata tags on every substantive note:
-> 
-> **State 1 — `epistemic-state: encountered`**: Information processed and saved; not yet reviewed through retrieval practice or tested through application. Most newly created notes begin here. This is the honest label for most PKB content.
-> 
-> **State 2 — `epistemic-state: challenged`**: The note's content has been tested through retrieval practice, examination, or…
-
-> [!example] **Application**
-> **The Ignorance Map — Obsidian Implementation**: Maintain a dedicated note called `[[Ignorance-Map|Ignorance Map]]` or `[[Open-Questions-Registry|Open Questions Registry]]` — a structured catalog of genuine epistemic gaps: things you know you don't understand, claims in your PKB you haven't been able to verify, connections that feel plausible but haven't been tested, and topics where your notes contradict each other without resolution. This map should be treated as a high-value epistemic asset — it represents the frontier of your…
-
+> *Describe how this concept applies in practice.*
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from report-05-the-virtuous-reasoner.md)*
-> Think of a belief you hold strongly — about your own competence in some domain, about a political or social question, about a personal decision you have made. Now apply the bias-virtue correspondence: Which of the five biases is most likely distorting your epistemic relationship to evidence about this belief? Which corresponding virtue is most underdeveloped? What would it look like to engage with this belief from a position of fully deployed intellectual humility, courage, empathy, perseverance, and integrity simultaneously?
+> [!reflection] **Reflect**
+> Think of a belief you hold strongly — about your own competence in some domain, about a political or social question, about a personal decision you have made. Now apply the bias-virtue correspondence: Which of the five biases is most likely distorting your epistemic relationship to evidence about this belief? Which corresponding virtue is most underdeveloped? What would it look like to engage with this belief from a position of fully deployed intellectual humility, courage, empathy,…
 
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Report 07: Critical Thinking as PKM Practice]]
-- [[Report 18: Calibration and Epistemic Humility]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections:**
+- [[Fallibilism]]
 
 **Related concepts:**
-[[Accommodation]] · [[American-Pragmatism|American Pragmatism]] · [[Aporia]] · [[Assimilation]] · [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]] · [[Classical-Epistemology|Classical Epistemology]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Cognitive-Science|Cognitive Science]] · [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]] · [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Constructivism]] · [[Critical-Thinking-Ethics|Critical Thinking Ethics]] · [[Dichotomy-of-Control|Dichotomy of Control]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Elaborative-Interrogation|Elaborative Interrogation]]
+[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]] · [[Debiasing-Interventions|Debiasing Interventions]] · [[Linda-Zagzebski|Linda Zagzebski]] · [[Jason-Baehr|Jason Baehr]] · [[Heather-Battaly|Heather Battaly]] · [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] · [[Epictetus]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Cognitive-Bias-Research|Cognitive Bias Research]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Ziva-Kunda|Ziva Kunda]]
 
 **Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
-[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Epictetus|Epictetus]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Epistemology|Epistemology]] * [[Reliabilism|Reliabilism]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Aporic-Receptivity|Aporic Receptivity]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Fallibilism|Fallibilism]]
-
-**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
-[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Aporic-Receptivity|Aporic Receptivity]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Fallibilism|Fallibilism]]
-
-**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
-[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]]
+[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Epistemology|Epistemology]] * [[Reliabilism|Reliabilism]] * [[Intellectual-Perseverance|Intellectual Perseverance]]
 
 **Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
 - [[Aporic-Receptivity|Aporic Receptivity]]
@@ -239,8 +151,36 @@ importance: high
 
 
 
+## References
+
+- **📚 Zagzebski, L. T. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
+- **📚 Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.**: Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
+- **📚 Battaly, H. (2017). Intellectual perseverance. *Journal of Moral Philosophy*, 14(6), 658–708.**: The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
+- **📚 Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin*, 108(3), 480–498.**: The seminal account of motivated reasoning, distinguishing accuracy-motivated and directional-motivated reasoning and identifying the mechanisms through which directional motivations distort reasoning while maintaining the appearance of rationality. Cited 9,000+ times.
+- **📚 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The comprehensive synthesis of the heuristics and biases research program, providing the most accessible and complete account of systematic cognitive biases and their relationship to dual process theory. Essential background for the bias taxonomy used in this report.
+
+- **📚 Zagzebski, L. T. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
+
+- **📚 Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.**: Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
+
+- **📚 Battaly, H. (2017). Intellectual perseverance. *Journal of Moral Philosophy*, 14(6), 658–708.**: The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
+
+- **📚 Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin*, 108(3), 480–498.**: The seminal account of motivated reasoning, distinguishing accuracy-motivated and directional-motivated reasoning and identifying the mechanisms through which directional motivations distort reasoning while maintaining the appearance of rationality. Cited 9,000+ times.
+
+- **📚 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The comprehensive synthesis of the heuristics and biases research program, providing the most accessible and complete account of systematic cognitive biases and their relationship to dual process theory. Essential background for the bias taxonomy used in this report.
 
 
 
 
 
+
+## Methodology Notes
+
+> [!methodology-and-sources] **🔬 Research Grounding**
+> The organization of cognitive biases into five categories corresponding to intellectual virtues is a theoretical contribution of this synthesis and should not be treated as an established empirical taxonomy. Each individual bias is empirically documented with substantial replication evidence (though some, like the Dunning-Kruger effect, have faced replication challenges and theoretical reinterpretation). The correspondence between bias categories and virtues is a synthetic, analytical claim rather than a finding from empirical research. It is theoretically well-motivated but requires further…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[report-05-the-virtuous-reasoner]]

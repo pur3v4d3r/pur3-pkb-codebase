@@ -5,7 +5,6 @@
 title: "Fallibilist-Constructivist-Epistemological-Posture"
 aliases:
   - "Fallibilist-Constructivist-Epistemological-Posture"
-  - "Fallibilist-Constructivist Epistemological Posture"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,21 +23,22 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 10
+referenced-by-count: 11
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Genetic-Epistemology]]"
+  - "[[Metacognitive-Self-Regulation]]"
   - "[[Pragmatic-Maxim]]"
   - "[[Viability]]"
   - "[[📖-Accommodation]]"
@@ -47,7 +47,6 @@ see-also:
   - "[[📖-Metacognitive-Self-Regulation]]"
   - "[[📖-Pragmatic-Maxim]]"
   - "[[📖-Schema]]"
-  - "[[📖-Viability]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +59,14 @@ importance: medium
 # Fallibilist-Constructivist-Epistemological-Posture
 
 > [!definition] **Fallibilist-Constructivist-Epistemological-Posture**
-> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 11 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 10 permanent notes.*
+*Auto-generated stub — referenced by 11 permanent notes.*
 
 ## Referenced By
 
 - [[Genetic-Epistemology]]
+- [[Metacognitive-Self-Regulation]]
 - [[Pragmatic-Maxim]]
 - [[Viability]]
 - [[📖-Accommodation]]

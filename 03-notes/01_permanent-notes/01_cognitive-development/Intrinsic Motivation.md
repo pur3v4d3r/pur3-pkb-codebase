@@ -34,7 +34,7 @@ link-up:
   - "[[Andragogy]]"
   - "[[Autonomy]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Cognitive Restructuring]]"
   - "[[Cognitive-Science]]"
   - "[[Critical-Thinking]]"

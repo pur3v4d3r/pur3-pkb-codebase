@@ -135,7 +135,7 @@ prerequisites:
 related:
   - "[[Analogical-Reasoning|Analogical Reasoning]]"
   - "[[Causal Reasoning]]"
-  - "[[Counterfactual Reasoning]]"
+  - "[[Counterfactual-Reasoning|Counterfactual Reasoning]]"
   - "[[Situation Models]]"
   - "[[Text Comprehension]]"
   - "[[Spatial Cognition]]"
@@ -144,7 +144,7 @@ related:
   - "[[Dual-Process-Theory|Dual Process Theory]]"
 
 broader:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Knowledge Representation]]"
 
@@ -200,7 +200,7 @@ expansion-topics:
   - topic: "[[Multimedia-Learning|Multimedia Learning]]"
     description: "Mayer's cognitive theory of multimedia learning as an application of mental models; the dual-channel assumption, coherence principle, and evidence base for instructional design"
     priority: "high"
-  - topic: "[[Counterfactual Reasoning]]"
+  - topic: "[[Counterfactual-Reasoning|Counterfactual Reasoning]]"
     description: "Byrne's suppositional theory of counterfactuals; how the mental models framework explains why people find some counterfactuals easier than others and its implications for regret, blame, and causal judgment"
     priority: "medium"
   - topic: "[[Spatial Mental Models]]"
@@ -427,7 +427,7 @@ A particularly rich domain for mental models research is [[Spatial Cognition|spa
 
 ### Counterfactual Reasoning
 
-[[Ruth Byrne]]'s extension of MMT to [[Counterfactual Reasoning|counterfactual reasoning]] represents one of the framework's most creative applications. Counterfactuals — "If only I had studied harder, I would have passed the exam" — are not logical deductions about the actual world; they are inferences about what would be true in an alternative possible world. MMT provides a natural framework: counterfactual thinking involves constructing a model of the actual world, then mentally revising it by "undoing" one or more facts, and inspecting what consequences flow from the revised model.
+[[Ruth Byrne]]'s extension of MMT to [[Counterfactual-Reasoning|counterfactual reasoning]] represents one of the framework's most creative applications. Counterfactuals — "If only I had studied harder, I would have passed the exam" — are not logical deductions about the actual world; they are inferences about what would be true in an alternative possible world. MMT provides a natural framework: counterfactual thinking involves constructing a model of the actual world, then mentally revising it by "undoing" one or more facts, and inspecting what consequences flow from the revised model.
 
 > [!key-claim] **The Mental Models of Counterfactuals (Byrne, 2005)**
 > Counterfactual reasoning requires the simultaneous representation of two models: the actual world (what did happen) and the imagined alternative (what might have happened had things been different). This dual-model requirement makes counterfactual reasoning cognitively demanding and explains why people find some counterfactuals easier than others: counterfactuals about mutable events (things that could easily have been otherwise) are easier because the alternative model is more readily constructed. The emotional functions of counterfactual thinking — regret, blame, relief — emerge from comparing the actual and alternative models.
@@ -575,7 +575,7 @@ The most important unresolved questions in the MMT research programme include: (
 > Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
 
 > [!cite] **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**
-> Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual Reasoning]].
+> Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning|Counterfactual Reasoning]].
 
 > [!cite] **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**
 > Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
@@ -614,7 +614,7 @@ The most important unresolved questions in the MMT research programme include: (
 > [!topic-idea] [[Multimedia-Learning|Multimedia Learning]]
 > A foundational treatment of [[Richard-Mayer|Richard Mayer]]'s Cognitive Theory of Multimedia Learning as the most systematically developed instructional application of the mental models framework. The report would cover the dual-channel assumption, cognitive load as constraint on model construction, the twelve evidence-based principles of multimedia design (coherence, signalling, segmenting, etc.), and critical discussion of boundary conditions and replication concerns in the multimedia learning literature. Priority: **High** — immediately applicable to instructional design practice.
 
-> [!topic-idea] [[Counterfactual Reasoning]]
+> [!topic-idea] [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 > A foundational treatment of [[Ruth Byrne]]'s suppositional theory of counterfactuals, including the dual-model account (actual vs. imagined), the mutability principle (some facts are more easily mentally "undone" than others), and applications to regret, blame attribution, causal judgment, and legal reasoning. The report would engage with alternative accounts (simulation theory, possible worlds semantics) and discuss educational implications for teaching causal and hypothetical reasoning. Priority: **Medium**.
 
 > [!topic-idea] [[Spatial Mental Models]]

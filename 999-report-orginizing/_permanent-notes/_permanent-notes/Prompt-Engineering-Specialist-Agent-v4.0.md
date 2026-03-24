@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,9 +40,9 @@ referenced-by-count: 10
 see-also:
   - "[[Calibration]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice-Log]]"
+  - "[[Deliberate-Practice]]"
   - "[[Desirable-Difficulties]]"
-  - "[[Feeling-of-Knowing-—-FOK]]"
+  - "[[Feeling-of-Knowing]]"
   - "[[Fluency-Illusion]]"
   - "[[Judgment-of-Learning]]"
   - "[[Metacognition]]"
@@ -68,9 +68,9 @@ importance: medium
 
 - [[Calibration]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
-- [[Deliberate-Practice-Log]]
+- [[Deliberate-Practice]]
 - [[Desirable-Difficulties]]
-- [[Feeling-of-Knowing-—-FOK]]
+- [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
 - [[Judgment-of-Learning]]
 - [[Metacognition]]

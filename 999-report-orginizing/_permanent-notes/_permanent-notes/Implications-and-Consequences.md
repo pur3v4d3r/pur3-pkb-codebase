@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,14 +81,6 @@ see-also:
   - "[[Information|Information]]"
   - "[[Inference|Inference]]"
   - "[[Concepts|Concepts]]"
-  - "[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]"
-  - "[[Critical-Thinking|Critical Thinking]]"
-  - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
-  - "[[Purpose-in-Reasoning|Purpose in Reasoning]]"
-  - "[[Question-at-Issue|Question at Issue]]"
-  - "[[Information|Information]]"
-  - "[[Inference|Inference]]"
-  - "[[Concepts|Concepts]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -119,6 +111,12 @@ importance: medium
 
 ## Core Explanation
 
+> [!evidence] Supporting Evidence
+> **Foundation for Critical Thinking Resources**:
+> - Paul, R., & Elder, L. (2006). *The Miniature Guide to Critical Thinking: Concepts and Tools* (4th ed.). Foundation for Critical Thinking Press. [Comprehensive guide to the Paul-Elder framework, including detailed treatment of Elements]
+> - Paul, R., & Elder, L. (2008). *The Thinker's Guide to Analytic Thinking*. Foundation for Critical Thinking Press. [Focused specifically on element-based analysis]
+> - Paul, R., & Elder, L. (2002). *Critical…
+
 > [!analytical-insight] Key Insight
 > When analyzing thinking, ask these essential questions:
 > 
@@ -131,43 +129,19 @@ importance: medium
 > [!analytical-insight] Key Insight
 > <span style='color: #ff0075;'>Paul and Elder emphasize that how you frame the question dramatically constrains possible answers.</span> A poorly formulated question—vague, loaded, biased, or falsely dichotomous—makes good reasoning impossible regardless of subsequent cognitive work. Conversely, a well-formulated question—clear, precise, neutral, and appropriately scoped—creates the conditions for excellent reasoning.
 
-> [!evidence] Supporting Evidence *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*
-> **Foundation for Critical Thinking Resources**:
-> - Paul, R., & Elder, L. (2006). *The Miniature Guide to Critical Thinking: Concepts and Tools* (4th ed.). Foundation for Critical Thinking Press. [Comprehensive guide to the Paul-Elder framework, including detailed treatment of Elements]
-> - Paul, R., & Elder, L. (2008). *The Thinker's Guide to Analytic Thinking*. Foundation for Critical Thinking Press. [Focused specifically on element-based analysis]
-> - Paul, R., & Elder, L. (2002). *Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life*. Prentice Hall. [Extensive application of Elements to practical reasoning]
-> - Foundation for Critical Thinking. *Wheel of Reason*. https://community.criticalthinking.org/wheelOfReason.php [Visual representation and interactive exploration of Elements]
-> - *The Elements of Thought Online Resource*. https://theelementsofthought.org/ [Educational resource specifically devoted to teaching the Elements]
-> 
-> **Academic Applications and Research**:
-> - Ralston, P., & Bays, C. (2013). "Enhancing Critical Thinking Across The Undergraduate Experience: An Exemplar From Engineering." *American Journal of Engineering Education*, 4(2), 119-126. [Empirical study of Paul-Elder framework implementation in engineering curriculum]
-> - University of Louisville Ideas to Action. "Paul-Elder Critical Thinking Framework." https://louisville.edu/ideastoaction/about/criticalthinking/framework [Comprehensive institutional adoption of framework]
-> - Nosich, G. M. (2009). *Learning to Think Things Through: A Guide to Critical Thinking Across the Curriculum* (3rd ed.). Prentice Hall. [Application of Elements to disciplinary thinking]
-> 
-> **Philosophical Foundations**:
-> - Paul, R., & Elder, L. (2009). *The Miniature Guide to Critical Thinking Concepts and Tools* (updated). Foundation for Critical Thinking Press.
-> - Paul, R. (1992). "Critical Thinking: What, Why, and How." *New Directions for Community Colleges*, 1992(77), 3-24. [Theoretical foundations of Paul-Elder approach]
-> 
-> **Related Frameworks**:
-> - Halpern, D. F. (2014). *Thought and Knowledge: An Introduction to Critical Thinking* (5th ed.). Psychology Press. [Cognitive psychology perspective on thinking skills]
-> - Ennis, R. H. (1987). "A Taxonomy of Critical Thinking Dispositions and Abilities." In J. B. Baron & R. J. Sternberg (Eds.), *Teaching Thinking Skills: Theory and Practice*. W. H. Freeman. [Alternative framework for analyzing thinking]
-> - Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction*. California Academic Press. [Delphi consensus on critical thinking components]
-
-
 ## Practical Implications
 
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*
+> [!reflection] **Reflect**
 > **On Element Relationships**: Can you identify a case where weakness in one element cascaded through the system to produce overall reasoning failure? How did the elements' interconnection amplify the initial problem?
 > 
 > **On Personal Reasoning**: Select a strong belief you hold. Can you trace all eight elements in your reasoning supporting this belief? Are there elements you've never explicitly examined? What happens when you scrutinize assumptions and implications you've taken for granted?
 > 
-> **On Perspective-Taking**: Can you articulate an opposing viewpoint on an issue you care deeply about, identifying all eight elements from that alternative perspective? Not a caricature or straw man, but the strongest version of reasoning from a point of view different from your own? What does this exercise reveal about perspective's power?
+> **On…
 
 ## Connections & Context
 
@@ -187,17 +161,7 @@ importance: medium
 [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] · [[Critical-Thinking|Critical Thinking]] · [[Paul-Elder-Framework|Paul-Elder Framework]] · [[Purpose-in-Reasoning|Purpose in Reasoning]] · [[Question-at-Issue|Question at Issue]] · [[Information]] · [[Inference]] · [[Concepts]] · [[Assumptions]] · [[Implications]] · [[Point-of-View|Point of View]] · [[Intellectual-Standards|Intellectual Standards]] · [[Reasoning]] · [[Logic]] · [[Argumentation]]
 
 **Related concepts** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
-[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Point-of-View|Point of View]] * [[Intellectual-Standards|Intellectual Standards]] * [[Analytical-Thinking|Analytical Thinking]] * [[Metacognition|Metacognition]] * [[Socratic-Questioning|Socratic Questioning]] * [[Intellectual-Traits|Intellectual Traits]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]]
-
-**Cross-report connections** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Intellectual-Standards|Intellectual Standards]]
-- [[Intellectual-Traits|Intellectual Traits]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
-
-**Related concepts** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
-[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Point-of-View|Point of View]] * [[Intellectual-Standards|Intellectual Standards]] * [[Analytical-Thinking|Analytical Thinking]] * [[Socratic-Questioning|Socratic Questioning]] * [[Intellectual-Traits|Intellectual Traits]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]] * [[Justified-True-Belief|Justified True Belief]]
+[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Point-of-View|Point of View]] * [[Analytical-Thinking|Analytical Thinking]] * [[Metacognition|Metacognition]] * [[Socratic-Questioning|Socratic Questioning]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]] * [[Justified-True-Belief|Justified True Belief]] * [[Sources-of-Knowledge|Sources of Knowledge]]
 
 **Cross-report connections** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
@@ -208,4 +172,42 @@ importance: medium
 
 
 
+## References
 
+- **Primary Sources and Further Reading**: **Foundation for Critical Thinking Resources**:
+- Paul, R., & Elder, L. (2006). *The Miniature Guide to Critical Thinking: Concepts and Tools* (4th ed.). Foundation for Critical Thinking Press. [Comprehensive guide to the Paul-Elder framework, including detailed treatment of Elements]
+- Paul, R., & Elder, L. (2008). *The Thinker's Guide to Analytic Thinking*. Foundation for Critical Thinking Press. [Focused specifically on element-based analysis]
+- Paul, R., & Elder, L. (2002). *Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life*. Prentice Hall. [Extensive application of Elements to practical reasoning]
+- Foundation for Critical Thinking. *Wheel of Reason*. https://community.criticalthinking.org/wheelOfReason.php [Visual representation and interactive exploration of Elements]
+- *The Elements of Thought Online Resource*. https://theelementsofthought.org/ [Educational resource specifically devoted to teaching the Elements]
+
+**Academic Applications and Research**:
+- Ralston, P., & Bays, C. (2013). "Enhancing Critical Thinking Across The Undergraduate Experience: An Exemplar From Engineering." *American Journal of Engineering Education*, 4(2), 119-126. [Empirical study of Paul-Elder framework implementation in engineering curriculum]
+- University of Louisville Ideas to Action. "Paul-Elder Critical Thinking Framework." https://louisville.edu/ideastoaction/about/criticalthinking/framework [Comprehensive institutional adoption of framework]
+- Nosich, G. M. (2009). *Learning to Think Things Through: A Guide to Critical Thinking Across the Curriculum* (3rd ed.). Prentice Hall. [Application of Elements to disciplinary thinking]
+
+**Philosophical Foundations**:
+- Paul, R., & Elder, L. (2009). *The Miniature Guide to Critical Thinking Concepts and Tools* (updated). Foundation for Critical Thinking Press.
+- Paul, R. (1992). "Critical Thinking: What, Why, and How." *New Directions for Community Colleges*, 1992(77), 3-24. [Theoretical foundations of Paul-Elder approach]
+
+**Related Frameworks**:
+- Halpern, D. F. (2014). *Thought and Knowledge: An Introduction to Critical Thinking* (5th ed.). Psychology Press. [Cognitive psychology perspective on thinking skills]
+- Ennis, R. H. (1987). "A Taxonomy of Critical Thinking Dispositions and Abilities." In J. B. Baron & R. J. Sternberg (Eds.), *Teaching Thinking Skills: Theory and Practice*. W. H. Freeman. [Alternative framework for analyzing thinking]
+- Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction*. California Academic Press. [Delphi consensus on critical thinking components]
+
+## Methodology Notes
+
+> [!methodology-and-sources] **The Three-Component Paul-Elder System**
+> The complete framework consists of:
+> 
+> **1. Elements of Thought (Reasoning Structures)**: The eight fundamental components present in all thinking—the "parts" or "anatomy" of reasoning that this document examines in depth.
+> 
+> **2. [[Intellectual-Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.
+> 
+> **3. [[Intellectual-Traits]] (Virtues of the Critical…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[cog-psy-fundamental-structures-of-reasoning-202512050320]]

@@ -23,20 +23,26 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
+  - "[[Deliberate-Practice]]"
+  - "[[Feeling-of-Knowing]]"
+  - "[[Fluency-Illusion]]"
+  - "[[Judgment-of-Learning]]"
+  - "[[Zone-of-Proximal-Development]]"
   - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
   - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
   - "[[_Master-Reference-Index|_Master-Reference-Index]]"
@@ -52,12 +58,18 @@ importance: low
 # metacognition-lifelong-learning-foundational-report-2026-03-05
 
 > [!definition] **metacognition-lifelong-learning-foundational-report-2026-03-05**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
+- [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
+- [[Deliberate-Practice]]
+- [[Feeling-of-Knowing]]
+- [[Fluency-Illusion]]
+- [[Judgment-of-Learning]]
+- [[Zone-of-Proximal-Development]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
 - [[_Master-Reference-Index|_Master-Reference-Index]]

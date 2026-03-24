@@ -23,28 +23,24 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 8
+referenced-by-count: 4
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Contextual-Interference-Effect]]"
-  - "[[Germane-Cognitive-Load]]"
-  - "[[Interleaving-Effect]]"
-  - "[[Reconstruction-Imperative]]"
-  - "[[Testing-Effect]]"
-  - "[[The-Effortful-Processing-Architecture-A-Novel-Integration]]"
-  - "[[The-Reconstruction-Imperative-A-Design-Framework-for-Learning-Oriented-PKBs]]"
-  - "[[Zone-2]]"
+  - "[[Core-DataviewJS-Task-Methods]]"
+  - "[[TASK-Query-Type-Fundamentals]]"
+  - "[[_Master-Definition-Index|_Master-Definition-Index]]"
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -57,17 +53,13 @@ importance: low
 # Dataview Plugin
 
 > [!definition] **Dataview Plugin**
-> *Stub note — tool/platform referenced by 8 permanent notes. Expand with purpose, key features, and PKB integration patterns.*
+> *Stub note — tool/platform referenced by 4 permanent notes. Expand with purpose, key features, and PKB integration patterns.*
 
-*Auto-generated stub — referenced by 8 permanent notes.*
+*Auto-generated stub — referenced by 4 permanent notes.*
 
 ## Referenced By
 
-- [[Contextual-Interference-Effect]]
-- [[Germane-Cognitive-Load]]
-- [[Interleaving-Effect]]
-- [[Reconstruction-Imperative]]
-- [[Testing-Effect]]
-- [[The-Effortful-Processing-Architecture-A-Novel-Integration]]
-- [[The-Reconstruction-Imperative-A-Design-Framework-for-Learning-Oriented-PKBs]]
-- [[Zone-2]]
+- [[Core-DataviewJS-Task-Methods]]
+- [[TASK-Query-Type-Fundamentals]]
+- [[_Master-Definition-Index|_Master-Definition-Index]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

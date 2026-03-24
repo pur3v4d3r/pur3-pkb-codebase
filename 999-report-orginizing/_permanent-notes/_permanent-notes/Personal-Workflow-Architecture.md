@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,6 +39,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649"
+  - "cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -72,6 +73,14 @@ see-also:
   - "[[Homeostasis]]"
   - "[[Cognitive-Friction|Cognitive Friction]]"
   - "[[Cybernetics]]"
+  - "[[Systems-Design|Systems Design]]"
+  - "[[Cybernetics|Cybernetics]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Information-Entropy|Information Entropy]]"
+  - "[[Loose-Coupling|Loose Coupling]]"
+  - "[[Homeostasis|Homeostasis]]"
+  - "[[Cognitive-Friction|Cognitive Friction]]"
+  - "[[Information-Theory|Information Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -120,3 +129,22 @@ importance: medium
 
 **Related concepts:**
 [[Systems-Design|Systems Design]] · [[Cybernetics]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Information-Entropy|Information Entropy]] · [[Loose-Coupling|Loose Coupling]] · [[Homeostasis]] · [[Cognitive-Friction|Cognitive Friction]] · [[Cybernetics]] · [[Information-Theory|Information Theory]] · [[Norbert-Wiener|Norbert Wiener]] · [[W.-Ross-Ashby|W. Ross Ashby]] · [[Douglas-Engelbart|Douglas Engelbart]] · [[Niklas-Luhmann|Niklas Luhmann]] · [[Zettelkasten]]
+
+**Related concepts** *(from cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649.md)*:
+[[Systems-Design|Systems Design]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Information-Entropy|Information Entropy]] * [[Loose-Coupling|Loose Coupling]] * [[Information-Theory|Information Theory]] * [[Norbert-Wiener|Norbert Wiener]] * [[W.-Ross-Ashby|W. Ross Ashby]] * [[Douglas-Engelbart|Douglas Engelbart]] * [[Niklas-Luhmann|Niklas Luhmann]] * [[Entropy|Entropy]] * [[Information-Architecture|Information Architecture]] * [[Friction|Friction]] * [[Coupling|Coupling]] * [[Iterative-Design|Iterative Design]] * [[Antifragility|Antifragility]]
+
+
+## References
+
+- **Works Cited**: * [Introduction to Cybernetics](https://www.google.com/search?q=https://www.princeton.edu/~hos/frs122/ashby/intro.html) by **W. Ross Ashby**
+  * [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/content/view/138) by **Douglas Engelbart**
+  * [Cognitive Load Theory](https://link.springer.com/book/10.1007/978-1-4419-8126-4) by **John Sweller**
+  * [Antifragile: Things That Gain from Disorder](https://www.google.com/search?q=https://www.penguinrandomhouse.com/books/213367/antifragile-by-nassim-nicholas-taleb/) by **Nassim Nicholas Taleb**
+  * [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) by **Claude Shannon**
+  * [Flow: The Psychology of Optimal Experience](https://www.HarperCollins.com) by **Mihaly Csikszentmihalyi**
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649]]

@@ -133,7 +133,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Summary *(Line 9)*
 
 > [!abstract] Executive Summary
-> [[William-James|William James]] (1842-1910) stands as a towering figure in the intellectual landscape of modern [[psychology]] and [[philosophy]], whose *Principles of Psychology* (1890) fundamentally transformed our understanding of [[Habit-Formation|habit formation]], [[consciousness]], and mental life. As the inaugural professor of psychology at [[Harvard University]] and a founding architect of [[American-Pragmatism|American pragmatism]], James synthesized insights from [[evolutionary theory]], [[neurology]], and [[Phenomenology]] to construct a vision of mind that emphasized [[plasticity]], [[adaptation]], and the primacy of experience. His treatment of habit—conceptualized as neurological pathway formation through repeated experience—anticipated contemporary [[neuroscience]] discoveries by more than a century while simultaneously providing the psychological foundations that profoundly influenced [[John-Dewey|John Dewey]]'s educational philosophy and the broader [[progressive education]] movement.
+> [[William-James|William James]] (1842-1910) stands as a towering figure in the intellectual landscape of modern [[psychology]] and [[philosophy]], whose *Principles of Psychology* (1890) fundamentally transformed our understanding of [[Habit-Formation|habit formation]], [[consciousness]], and mental life. As the inaugural professor of psychology at [[Harvard University]] and a founding architect of [[American-Pragmatism|American pragmatism]], James synthesized insights from [[evolutionary theory]], [[neurology]], and [[phenomenology]] to construct a vision of mind that emphasized [[plasticity]], [[adaptation]], and the primacy of experience. His treatment of habit—conceptualized as neurological pathway formation through repeated experience—anticipated contemporary [[neuroscience]] discoveries by more than a century while simultaneously providing the psychological foundations that profoundly influenced [[John-Dewey|John Dewey]]'s educational philosophy and the broader [[progressive education]] movement.
 
 #### 2. [THE-PHILOSOPHY] Core Philosophy *(Line 14)*
 
@@ -238,7 +238,7 @@ extraction_summary:
 #### 22. [TOPIC-IDEA] [[James's Radical Empiricism and Pure Experience]] *(Line 176)*
 
 > [!topic-idea] [[James's Radical Empiricism and Pure Experience]]
-> James's later philosophical development toward "radical empiricism" treating relations as directly experienced rather than intellectually constructed, and "pure experience" as fundamental ontological category prior to subject-object distinction, represents sophisticated attempt to overcome Cartesian dualism. This metaphysical program connects to contemporary [[Phenomenology]], [[neutral monism]], and [[process philosophy]].
+> James's later philosophical development toward "radical empiricism" treating relations as directly experienced rather than intellectually constructed, and "pure experience" as fundamental ontological category prior to subject-object distinction, represents sophisticated attempt to overcome Cartesian dualism. This metaphysical program connects to contemporary [[phenomenology]], [[neutral monism]], and [[process philosophy]].
 
 #### 23. [TOPIC-IDEA] [[The Influence on Gestalt Psychology]] *(Line 179)*
 
@@ -342,7 +342,7 @@ extraction_summary:
 - [[Neuroscience Fundamentals]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prefrontal cortex]]
 - [[Psychoanalysts]]
 - [[REM sleep]]
@@ -454,7 +454,7 @@ extraction_summary:
 - [[operant conditioning]]
 - [[patient H.M.]]
 - [[personal]]
-- [[Phenomenology]]
+- [[phenomenology]]
 - [[philosophy]]
 - [[physical traces]]
 - [[physiological psychology]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[plasticity]]
 - [[practice]]
 - [[pragmatic philosophy]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[prefrontal cortex]]
 - [[problem-based]]
 - [[procedural learning]]
@@ -515,7 +515,7 @@ extraction_summary:
 | 7 | [[American-Pragmatism|American pragmatism]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 8 | [[evolutionary theory]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 9 | [[neurology]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
-| 10 | [[Phenomenology]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
+| 10 | [[phenomenology]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 11 | [[plasticity]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 12 | [[adaptation]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 13 | [[neuroscience]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
@@ -580,7 +580,7 @@ extraction_summary:
 | 72 | [[neurology]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 73 | [[brain anatomy]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 74 | [[experimental methods]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
-| 75 | [[Pragmatism]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
+| 75 | [[pragmatism]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 76 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 77 | [[nervous tissue]] | — | — | Layer 1: Foundational Understanding o... | 40 |
 | 78 | [[neural pathways]] | — | — | Layer 1: Foundational Understanding o... | 40 |
@@ -727,7 +727,7 @@ extraction_summary:
 | 219 | [[Oliver Wendell Holmes Jr.]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 174 |
 | 220 | [[Chauncey Wright]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 174 |
 | 221 | [[James's Radical Empiricism and Pure Experience]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 176 |
-| 222 | [[Phenomenology]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 177 |
+| 222 | [[phenomenology]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 177 |
 | 223 | [[neutral monism]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 177 |
 | 224 | [[process philosophy]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 177 |
 | 225 | [[The Influence on Gestalt Psychology]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 179 |
@@ -745,7 +745,7 @@ extraction_summary:
 | 237 | [[Cass Sunstein]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 238 | [[Educational-Psychology|Educational Psychology]] | — | — | 📚 References & Resources | 217 |
 | 239 | [[History of Psychology]] | — | — | 📚 References & Resources | 217 |
-| 240 | [[Pragmatism]] | — | — | 📚 References & Resources | 217 |
+| 240 | [[pragmatism]] | — | — | 📚 References & Resources | 217 |
 | 241 | [[Basic Psychology]] | — | — | 📚 References & Resources | 220 |
 | 242 | [[Neuroscience Fundamentals]] | — | — | 📚 References & Resources | 220 |
 | 243 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | 📚 References & Resources | 220 |
@@ -835,7 +835,7 @@ extraction_summary:
 - [[Neuroscience Fundamentals]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prefrontal cortex]]
 - [[Psychoanalysts]]
 - [[REM sleep]]
@@ -947,7 +947,7 @@ extraction_summary:
 - [[operant conditioning]]
 - [[patient H.M.]]
 - [[personal]]
-- [[Phenomenology]]
+- [[phenomenology]]
 - [[philosophy]]
 - [[physical traces]]
 - [[physiological psychology]]
@@ -955,7 +955,7 @@ extraction_summary:
 - [[plasticity]]
 - [[practice]]
 - [[pragmatic philosophy]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[prefrontal cortex]]
 - [[problem-based]]
 - [[procedural learning]]

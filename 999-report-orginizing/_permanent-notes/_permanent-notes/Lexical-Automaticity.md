@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,6 +41,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21"
+  - "silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -74,6 +75,14 @@ see-also:
   - "[[Situation-Model]]"
   - "[[Fluency]]"
   - "[[Working-Memory]]"
+  - "[[Working-Memory|Working-Memory]]"
+  - "[[Cognitive-Load-Theory|Cognitive-Load-Theory]]"
+  - "[[Schema-Theory|Schema-Theory]]"
+  - "[[Chunking|Chunking]]"
+  - "[[Dual-Process-Theory|Dual-Process-Theory]]"
+  - "[[Situation-Model|Situation-Model]]"
+  - "[[Fluency|Fluency]]"
+  - "[[Phonological-Loop|Phonological-Loop]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -136,6 +145,14 @@ importance: high
 > [!warning] **Key Distinction**
 > The most practically dangerous outcome of naïve speed-reading training is the [[Fluency-Illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more…
 
+## Conceptual Tensions
+
+> [!tension] **The Sub-Vocalization Paradox**
+> A persistent debate in reading research concerns sub-vocalization — the inner speech that most readers experience when reading silently. Speed-reading advocates argue that sub-vocalization limits reading to speaking rate (~150 WPM) and must be suppressed. Research partially supports suppression: many readers do read faster when trained to reduce sub-vocalization. However, studies using articulatory suppression (physically preventing sub-vocalization by having readers say "la-la-la" continuously) show reliable comprehension *decrements* for syntactically complex sentences. The tension: skilled…
+
+> [!tension] **The Monitoring-Speed Incompatibility**
+> Speed and metacognitive monitoring are structurally in tension at a resource level, not merely in time. Monitoring requires holding two representations active simultaneously — the current meaning of the text and a running assessment of how well that meaning is being constructed. This is a working memory cost. Under high speed pressure, working memory is already allocated to keeping up with incoming text — there is no spare capacity for the meta-level comparison. This may explain why most speed-reading training that does not include explicit comprehension monitoring instruction produces…
+
 ## Reflection Prompts
 
 > [!reflection] **Reflect**
@@ -151,3 +168,65 @@ importance: high
 
 **Related concepts:**
 [[Working-Memory]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Chunking]] · [[Dual-Process-Theory]] · [[Situation-Model]] · [[Fluency]] · [[Working-Memory]] · [[Working-Memory]] · [[Phonological-Loop]] · [[Baddeley's-Working-Memory-Model]] · [[Situation-Model]] · [[Prior-Knowledge-Activation]] · [[Metacognitive-Monitoring]] · [[Prior-Knowledge-Activation]]
+
+**Related concepts** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
+[[Schema|Schema]] * [[Cognitive-Chunking|Cognitive-Chunking]] * [[Spaced-Repetition-Systems|Spaced-Repetition-Systems]] * [[Advance-Organizer|Advance-Organizer]] * [[Germane-Cognitive-Load|Germane-Cognitive-Load]] * [[Levels-of-Processing|Levels-of-Processing]] * [[Deep-Processing|Deep-Processing]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Far-Transfer|Far-Transfer]] * [[Vocabulary-Acquisition-for-Reading-Automaticity|Vocabulary-Acquisition-for-Reading-Automaticity]] * [[Elaborative-Rehearsal|Elaborative-Rehearsal]] * [[Comprehension-Monitoring-Training-Protocols|Comprehension-Monitoring-Training-Protocols]] * [[Metacognitive-Regulation|Metacognitive-Regulation]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Formative-Assessment|Formative-Assessment]]
+
+**Cross-report connections** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
+- [[Schema-Automation|Schema-Automation]]
+
+**Cross-report connections** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
+- [[Schema-Automation|Schema-Automation]]
+
+
+
+
+## References
+
+- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
+- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
+- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
+- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
+- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
+
+- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
+
+- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
+
+- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
+
+- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
+
+- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
+
+- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
+
+- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
+
+- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
+
+- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
+
+- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on three bodies of established empirical literature: (1) eye movement research in reading (Rayner and colleagues), representing decades of laboratory eye-tracking studies with strong internal validity; (2) cognitive psychology of working memory and text comprehension (Baddeley, Kintsch, van Dijk), representing both experimental and theoretical work; and (3) educational psychology of reading instruction (Perfetti, Carver), representing applied research with ecological validity. The Bandwidth Expansion/Bandwidth Compression distinction is Claude's original analytical…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]]
+**Report ID:** `silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21`

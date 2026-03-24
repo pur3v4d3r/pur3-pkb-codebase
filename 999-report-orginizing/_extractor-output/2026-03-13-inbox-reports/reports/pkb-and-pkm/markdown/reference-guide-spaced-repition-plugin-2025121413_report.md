@@ -490,7 +490,7 @@ extraction_summary:
 - [[Anki]]
 - [[Cloze Deletion]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Dataview]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
@@ -552,7 +552,7 @@ extraction_summary:
 | 26 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Flashcards | 1161 |
 | 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Flashcards | 1164 |
 | 28 | [[Spaced Repetition Theory]] | — | — | Related Concepts for PKB Expansion | 1173 |
-| 29 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Related Concepts for PKB Expansion | 1176 |
+| 29 | [[cognitive-psychology|Cognitive Psychology]] | — | — | Related Concepts for PKB Expansion | 1176 |
 | 30 | [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]] | — | — | Related Concepts for PKB Expansion | 1176 |
 | 31 | [[SuperMemo Algorithm (SM-2)]] | — | — | Related Concepts for PKB Expansion | 1178 |
 | 32 | [[FSRS Algorithm]] | FSRS | — | Related Concepts for PKB Expansion | 1180 |
@@ -1169,7 +1169,7 @@ for (let letter of sortedLetters) {
 - [[Anki]]
 - [[Cloze Deletion]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Dataview]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]

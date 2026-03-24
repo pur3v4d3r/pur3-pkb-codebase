@@ -23,27 +23,29 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 7
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Conditionalized-Knowledge]]"
-  - "[[Contextual-Bridging-Architecture]]"
-  - "[[Preparation-for-Future-Learning]]"
-  - "[[Situated-Cognition]]"
-  - "[[Structure-Mapping-Theory]]"
-  - "[[The-Contextual-Bridging-Architecture-CBA]]"
-  - "[[Transfer-of-Learning]]"
+  - "[[Cognitive-Load]]"
+  - "[[Element-Interactivity]]"
+  - "[[Expertise-Reversal-Effect]]"
+  - "[[Extraneous-Cognitive-Load]]"
+  - "[[Intrinsic-Cognitive-Load]]"
+  - "[[Schema]]"
+  - "[[Split-Attention-Effect]]"
+  - "[[Worked-Example-Effect]]"
+  - "[[Working-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -56,16 +58,18 @@ importance: low
 # Daniel Schwartz
 
 > [!definition] **Daniel Schwartz**
-> *Stub note — person referenced by 7 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> *Stub note — person referenced by 9 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
 
-*Auto-generated stub — referenced by 7 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
-- [[Conditionalized-Knowledge]]
-- [[Contextual-Bridging-Architecture]]
-- [[Preparation-for-Future-Learning]]
-- [[Situated-Cognition]]
-- [[Structure-Mapping-Theory]]
-- [[The-Contextual-Bridging-Architecture-CBA]]
-- [[Transfer-of-Learning]]
+- [[Cognitive-Load]]
+- [[Element-Interactivity]]
+- [[Expertise-Reversal-Effect]]
+- [[Extraneous-Cognitive-Load]]
+- [[Intrinsic-Cognitive-Load]]
+- [[Schema]]
+- [[Split-Attention-Effect]]
+- [[Worked-Example-Effect]]
+- [[Working-Memory]]

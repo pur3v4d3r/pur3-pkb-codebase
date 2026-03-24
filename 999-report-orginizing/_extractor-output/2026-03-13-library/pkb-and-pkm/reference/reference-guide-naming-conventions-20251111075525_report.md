@@ -598,7 +598,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Obsidian]]
-- [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[Ancient Stoicism]]
 - [[BASB (Building a Second Brain)]]
@@ -662,7 +662,7 @@ extraction_summary:
 | 16 | [[Folder/Note]] | — | — | 🔗 Wiki-Link Best Practices | 302 |
 | 17 | [[Dataview]] | — | — | ⚡ Dataview Query Optimization | 306 |
 | 18 | [[Overview]] | — | — | 🚨 Anti-Patterns & Pitfalls | 571 |
-| 19 | [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
+| 19 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
 | 20 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
 | 21 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 742 |
 | 22 | [[Zettelkasten Method]] | — | — | 🧭 Further Exploration | 743 |
@@ -855,7 +855,7 @@ day: <% tp.date.now("dddd") %>
 
 # <% tp.date.now("MMMM Do, YYYY") %>
 
-← [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] →
+← [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] →
 
 ## 🌅 Morning
 
@@ -963,7 +963,7 @@ for root, dirs, files in os.walk(vault_path):
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Obsidian]]
-- [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[Ancient Stoicism]]
 - [[BASB (Building a Second Brain)]]

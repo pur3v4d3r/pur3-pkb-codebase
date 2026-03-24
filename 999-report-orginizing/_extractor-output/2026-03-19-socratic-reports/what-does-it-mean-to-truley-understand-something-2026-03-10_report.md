@@ -131,7 +131,7 @@ extraction_summary:
 #### 2. [INSIGHT] Analytical Interlude: The Stage Is Set *(Line 147)*
 
 > [!insight] Analytical Interlude: The Stage Is Set
-> The Respondent has committed to a specific, well-articulated thesis: **understanding = the capacity to explain clearly and robustly**. This is not a naive position. It has genuine intellectual pedigree — Feynman deployed a version of it as a personal learning heuristic, and it has been widely adopted in [[Pedagogy]] as the "teach-back" method. The Respondent has also added an important refinement: the explanation must survive follow-up, making the test dynamic rather than static.
+> The Respondent has committed to a specific, well-articulated thesis: **understanding = the capacity to explain clearly and robustly**. This is not a naive position. It has genuine intellectual pedigree — Feynman deployed a version of it as a personal learning heuristic, and it has been widely adopted in [[pedagogy]] as the "teach-back" method. The Respondent has also added an important refinement: the explanation must survive follow-up, making the test dynamic rather than static.
 > 
 > This thesis now has a precise shape that can be examined. Three questions lurk beneath it, and the dialogue will surface them in sequence: (1) Can you explain something *without* genuinely understanding it? (2) Can you genuinely understand something *without* being able to explain it? (3) Even if explanation tracks understanding some of the time, does it identify *where* understanding ends and deeper understanding begins? The Questioner will approach these in order.
 
@@ -377,7 +377,7 @@ extraction_summary:
 - [[Tacit-Knowledge|Tacit Knowledge (Polanyi)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[classical-mechanics|classical mechanics]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[electromagnetism]]
 - [[fluency-effects|fluency effects]]
 - [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]
@@ -385,7 +385,7 @@ extraction_summary:
 - [[Knowing-That-Knowing-How|knowing-that]]
 - [[Metacognition]]
 - [[Metacognitive-Calibration|metacognitive calibration]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|philosophy of mind]]
 - [[sense-of-coherence|sense of coherence]]
 - [[Tacit-Knowledge|tacit knowledge]]
@@ -397,7 +397,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[understanding]] | — | — | Movement I: The Opening — Establishin... | 135 |
 | 2 | [[Richard-Feynman|Richard Feynman]] | — | — | Movement I: The Opening — Establishin... | 141 |
-| 3 | [[Pedagogy]] | — | — | Movement I: The Opening — Establishin... | 148 |
+| 3 | [[pedagogy]] | — | — | Movement I: The Opening — Establishin... | 148 |
 | 4 | [[Rote-memorization|Rote memorization]] | — | — | Movement II: The Confident Position —... | 169 |
 | 5 | [[classical-mechanics|classical mechanics]] | — | — | Movement II: The Confident Position —... | 169 |
 | 6 | [[Tacit-Knowledge|tacit knowledge]] | — | — | Movement II: The Confident Position —... | 176 |
@@ -408,7 +408,7 @@ extraction_summary:
 | 11 | [[Knowing-That-Knowing-How|knowing-how]] | — | — | Movement III: The Examination — Elenc... | 225 |
 | 12 | [[Knowing-That-Knowing-How|knowing-that]] | — | — | Movement III: The Examination — Elenc... | 225 |
 | 13 | [[electromagnetism]] | — | — | Movement III: The Examination — Elenc... | 227 |
-| 14 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Movement III: The Examination — Elenc... | 229 |
+| 14 | [[cognitive-psychology|cognitive psychology]] | — | — | Movement III: The Examination — Elenc... | 229 |
 | 15 | [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
 | 16 | [[Leonid-Rozenblit|Leonid Rozenblit]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
 | 17 | [[Frank-Keil|Frank Keil]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
@@ -456,7 +456,7 @@ extraction_summary:
 - [[Tacit-Knowledge|Tacit Knowledge (Polanyi)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[classical-mechanics|classical mechanics]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[electromagnetism]]
 - [[fluency-effects|fluency effects]]
 - [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]
@@ -464,7 +464,7 @@ extraction_summary:
 - [[Knowing-That-Knowing-How|knowing-that]]
 - [[Metacognition]]
 - [[Metacognitive-Calibration|metacognitive calibration]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|philosophy of mind]]
 - [[sense-of-coherence|sense of coherence]]
 - [[Tacit-Knowledge|tacit knowledge]]

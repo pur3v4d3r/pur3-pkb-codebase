@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Integrated Regulation"
+title: "Integrated-Regulation"
 aliases:
-  - "Integrated Regulation"
+  - "Integrated-Regulation"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -15,33 +15,32 @@ confidence: high
 tags:
   - permanent-note
   - evergreen
-  - learning-science
-  - pkm-framework
-  - educational-science/heutagogy
-  - educational-science/andragogy
-  - educational-science/pedagogy
-  - self-determined-learning
+  - other
+  - self-determination-theory
+  - organismic-integration-theory
+  - internalization-mechanism
+  - regulatory-continuum
+  - basic-psychological-needs
 
-domain: learning-science
+domain: other
 subdomains:
-  - educational-science
-  - educational-philosophy
-  - self-determined-learning
   - educational-psychology
-  - cognitive-psychology
+  - self-regulation
+  - organismic-integration-theory
+  - learning-design
 
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "24-self-determined-learning-pkm-framework-2026-03-15"
+  - "self-determination-theory-focused-analysis-2026-03-19"
   - "self-determination-theory-focused-analysis-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
@@ -59,16 +58,7 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Andragogy]]"
-  - "[[Pedagogy]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Integrated-Regulation|Integrated Regulation]]"
-  - "[[Capability-Development|Capability Development]]"
-  - "[[Competency-Development|Competency Development]]"
-  - "[[Double-Loop-Learning|Double-Loop Learning]]"
-  - "[[Single-Loop-Learning|Single-Loop Learning]]"
-  - "[[Knowledge-Ecology|Knowledge Ecology]]"
+  - "[[]]"
 
 broader:
   - "[[]]"
@@ -77,14 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
-  - "[[Autonomy-Need|Autonomy Need]]"
-  - "[[Canvas]]"
-  - "[[Capability]]"
-  - "[[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]"
-  - "[[Competence-Need|Competence Need]]"
-  - "[[Competency]]"
-  - "[[Constructivist-Emergentist]]"
+  - "[[Self-Determination-Theory]]"
+  - "[[Amotivation]]"
+  - "[[External-Regulation]]"
+  - "[[Introjected-Regulation]]"
+  - "[[Identified-Regulation]]"
+  - "[[Intrinsic-Motivation]]"
+  - "[[Basic-Psychological-Needs]]"
+  - "[[Internalization]]"
   - "[[Self-Determination-Theory|Self-Determination-Theory]]"
   - "[[Amotivation|Amotivation]]"
   - "[[External-Regulation|External-Regulation]]"
@@ -98,29 +88,15 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
-  - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
-  - "[[Report 08: Reflective Practice and Experiential Learning]]"
-  - "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
-  - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
+  - "[[]]"
 
 enables:
-  - "[[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]"
-  - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]"
-  - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
+  - "[[]]"
 
 expansion-topics:
-  - topic: "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
-    description: "The unresolved question from Phase VI: how do AI tools like Claude change the dynamics of self-deter"
-    priority: medium
-  - topic: "[[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]]"
-    description: "Mezirow's research shows that perspective transformation is the deepest form of adult learning but r"
-    priority: medium
-  - topic: "[[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]"
-    description: "Blaschke's finding that heutagogical learners consistently seek collaborative dialogue creates an un"
-    priority: medium
-  - topic: "[[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]"
-    description: "The capability note type introduced in Phase V requires further development as a practice. What exac"
+  - topic: "[[!topic-idea-Relationship-Motivation-Theory-RMT-extends-the-SDT-internalization-a|> [!topic-idea] [[Relationship-Motivation-Theory]]
+> RMT extends the SDT internalization analysis to]]"
+    description: ""
     priority: medium
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -131,87 +107,70 @@ mastery-stage: seedling
 importance: high
 ---
 
-# Integrated Regulation
+# Integrated-Regulation
 
-> [!definition] **Integrated Regulation**
-> The most internalized form of extrinsic motivation — behavior that is fully assimilated into one's core identity and values, experienced as an authentic expression of self. Distinguished from intrinsic motivation (the activity is engaged in for its own inherent interest) but functionally similar: both represent autonomous, self-determined engagement. The motivational signature of the heutagogical learner.
-
-*Source: Deci & Ryan*
+> [!definition] **Integrated-Regulation**
+> The most autonomous form of extrinsic motivation. The person has assimilated the identified value into a coherent sense of self — the activity is pursued not merely because it is valued in isolation but because it coheres with the person's broader values, goals, and sense of identity. Integration differs from identification in its *systemic* character: identified regulation can be isolated and context-specific, while integrated regulation is woven into the self-concept as a whole. Integration is associated with the best outcomes short of intrinsic motivation and, unlike intrinsic motivation, can apply to activities one does not find inherently enjoyable.
 
 ## Core Explanation
 
 > [!evidence] Supporting Evidence
-> **Hase & Kenyon (2000, 2007) — The Original Heutagogy Research**: Hase and Kenyon's foundational papers established three core empirical claims. First: that graduates from conventional competency-focused programs systematically underperformed in novel professional environments compared to what their assessments predicted — a finding that replicated across vocational, nursing, and management education contexts. Second: that learners who had developed what they termed "self-determined learning…
+> The evidence accumulated over thirty years of SDT research suggests that introjected regulation is not merely a developmental stepping-stone toward identification. For many people in many domains, introjection is a stable regulatory endpoint — and its stability is maintained precisely by the conditions that create it. Controlling environments that produce introjection are self-sustaining systems: the [[Conditional-Regard]] that drives introjection communicates that the person's value is…
 
 > [!evidence] Supporting Evidence
-> **Blaschke (2012) — Heutagogy and Lifelong Learning**: Lisa Marie Blaschke's (2012) synthesis of the first decade of heutagogy research added crucial specificity. Blaschke documented that heutagogical learning environments consistently produced three outcomes that competency-based environments did not: (1) **Proactive agency** — learners didn't wait to be given learning tasks but generated their own based on their developing sense of what they needed; (2) **Reflective redesign** — learners…
+> The evidence from studies using bidimensional need measures — assessing both satisfaction and frustration independently rather than assuming they are endpoints of a single scale — consistently shows that frustration predicts ill-being outcomes over and above what low satisfaction predicts, and that the two dimensions have different antecedent profiles. [[Need-Thwarting]] environments that actively block need satisfaction produce different psychological outcomes (including more rigid defensive…
 
 > [!evidence] Supporting Evidence
-> **Knowles (1980); Merriam (2001) — The Andragogy Evidence**: Knowles's assumption that adults are "ready to learn" what their developmental tasks require them to learn was among the most empirically supported of his six. Research consistently showed that adult learners engage most deeply with content that is directly relevant to their current life situation — a finding that aligns with SDT's concept of identified regulation and with the pragmatist theory of knowledge embedded in andragogy. What…
-
-> [!analytical-insight] Key Insight
-> **The PAH Continuum as Epistemological Shift, Not Scaffolding Gradient**: The deepest claim of this report: the progression from pedagogy to andragogy to heutagogy is not primarily a matter of how much structure a learner needs. It is a matter of what theory of knowledge is operative. Each stage embodies a different epistemological stance — a different answer to the question "What is knowledge, and how do I relate to it?" A PKB that treats heutagogical learners as andragogical learners who need…
-
-> [!analytical-insight] Key Insight
-> **The PKB's Role in Need Satisfaction: Active, Not Passive**: A finding that standard PKM discourse consistently underestimates: the PKB is not a neutral repository that records learning irrespective of motivational context. Its architecture actively shapes need satisfaction. A PKB with rigid hierarchical folders and fixed mandatory templates creates *extrinsic regulation cues* — the structure tells the learner what counts as a valid note, what categories matter, what good capturing looks like.…
-
-> [!evidence] Supporting Evidence *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> The evidence accumulated over thirty years of SDT research suggests that introjected regulation is not merely a developmental stepping-stone toward identification. For many people in many domains, introjection is a stable regulatory endpoint — and its stability is maintained precisely by the conditions that create it. Controlling environments that produce introjection are self-sustaining systems: the [[Conditional-Regard]] that drives introjection communicates that the person's value is contingent on performance, which makes releasing the introjection feel existentially dangerous. The person is trapped in controlled motivation not because they haven't internalized "enough" but because the conditions for further internalization — specifically, unconditional relatedness support — are absent.
-
-> [!evidence] Supporting Evidence *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> The evidence from studies using bidimensional need measures — assessing both satisfaction and frustration independently rather than assuming they are endpoints of a single scale — consistently shows that frustration predicts ill-being outcomes over and above what low satisfaction predicts, and that the two dimensions have different antecedent profiles. [[Need-Thwarting]] environments that actively block need satisfaction produce different psychological outcomes (including more rigid defensive processes, greater [[Controlled-Motivation|controlled motivation]], and more severe ill-being) than environments that are merely indifferent to need support. This finding reconstitutes SDT as a theory not just of flourishing (promoted by need satisfaction) but of damage (produced by need frustration). The [[Satisfaction-Frustration-Asymmetry]] has significant implications for intervention design: need-supportive environments undo the effects of neutral environments, but they may not fully reverse the effects of need-thwarting environments. Damage and deprivation are not the same thing.
-
-> [!evidence] Supporting Evidence *(from self-determination-theory-focused-analysis-2026-03-19.md)*
 > The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
 
-> [!analytical-insight] Key Insight *(from self-determination-theory-focused-analysis-2026-03-19.md)*
+> [!analytical-insight] Key Insight
 > This report examines **the internalization mechanism in SDT's [[Organismic-Integration-Theory]]** — the process by which external regulatory structures are assimilated into the self, the environmental conditions that determine whether assimilation produces integration or the controlling internal deputy known as introjection, and the Integration Paradox that constitutes the deepest theoretical challenge within the framework.
 
-> [!analytical-insight] Key Insight *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> Regulatory style is best understood as varying along two related dimensions: (1) **[[Perceived-Locus-of-Causality]]** — the degree to which the person experiences themselves as the origin versus the pawn of their own behavior; and (2) **degree of integration** — how thoroughly the regulatory structure has been assimilated into the coherent self-system. These two dimensions are correlated but not identical, which is why the [[Autonomous-Motivation-vs.-Controlled-Motivation|autonomous/controlled distinction]] cuts across the continuum at identified regulation rather than at integration.
-
-
-
-
-
+> [!analytical-insight] Key Insight
+> Regulatory style is best understood as varying along two related dimensions: (1) **[[Perceived-Locus-of-Causality]]** — the degree to which the person experiences themselves as the origin versus the pawn of their own behavior; and (2) **degree of integration** — how thoroughly the regulatory structure has been assimilated into the coherent self-system. These two dimensions are correlated but not identical, which is why the [[Autonomous-Motivation-vs.-Controlled-Motivation|autonomous/controlled…
 
 ## Practical Implications
 
 > [!example] **Application**
-> **Pedagogical PKB: Obsidian Implementation**: In Obsidian, a Pedagogical PKB is characterized by: structured folder hierarchies that mirror the domain's established categories (matching the textbook, course, or field's organizational logic); mandatory templates for primary note types (ensuring consistency and completeness against external standards); explicit MOC (Map of Content) notes organized by subject area; and a review workflow focused on comprehension verification against source…
+> Educational environments working with students who have been in controlled motivational contexts for extended periods — high-stakes testing environments, authoritarian classrooms, conditional regard from parents — should not begin with the standard SDT toolkit of rationale provision and autonomy support. These students may not have the experiential autonomy base from which genuine identification can operate. The first design priority is unconditional regard and low-stakes engagement: creating…
 
 > [!example] **Application**
-> **Andragogical PKB: Obsidian Implementation**: The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[Maps-of-Content-—-MOCs|MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current…
+> [[Relationship-Motivation-Theory]] within SDT identifies the quality of close relationships as a domain governed by the same three basic needs. In therapeutic contexts, the mechanism described in Phase IV implies that therapeutic change is unlikely to proceed through internalization in a therapeutic relationship characterized by conditional regard — even if the conditionality is subtle (the therapist's warmth contingent on client progress, insight, or compliance with the therapeutic model). The…
 
-> [!example] **Application** *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> Educational environments working with students who have been in controlled motivational contexts for extended periods — high-stakes testing environments, authoritarian classrooms, conditional regard from parents — should not begin with the standard SDT toolkit of rationale provision and autonomy support. These students may not have the experiential autonomy base from which genuine identification can operate. The first design priority is unconditional regard and low-stakes engagement: creating the relational context in which the student can re-experience choice without it feeling existentially dangerous. Only then does autonomy-supportive instruction — providing rationale, choice, and challenge — have the motivational soil it requires to produce identification rather than introjection.
+> [!warning] **Key Distinction**
+> If a student has come from a need-thwarting environment, a merely need-neutral environment will not produce recovery. The asymmetry between frustration and satisfaction means that need-supportive environments are required — actively providing competence support, unconditional relatedness, and autonomy experiences — rather than merely removing the need-thwarting conditions. This has significant implications for differentiated classroom design: students with different need-support histories…
 
-> [!example] **Application** *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> [[Relationship-Motivation-Theory]] within SDT identifies the quality of close relationships as a domain governed by the same three basic needs. In therapeutic contexts, the mechanism described in Phase IV implies that therapeutic change is unlikely to proceed through internalization in a therapeutic relationship characterized by conditional regard — even if the conditionality is subtle (the therapist's warmth contingent on client progress, insight, or compliance with the therapeutic model). The therapist's unconditional positive regard is not merely a therapeutic nicety; it is, according to the SDT mechanism, the structural precondition for the client's integration process.
+## Conceptual Tensions
 
-> [!warning] **Key Distinction** *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> If a student has come from a need-thwarting environment, a merely need-neutral environment will not produce recovery. The asymmetry between frustration and satisfaction means that need-supportive environments are required — actively providing competence support, unconditional relatedness, and autonomy experiences — rather than merely removing the need-thwarting conditions. This has significant implications for differentiated classroom design: students with different need-support histories require different environmental affordances, not just different content.
+> [!tension] **The Conditional Regard Paradox in Educational Practice**
+> Most educational quality assurance systems that invoke SDT argue for autonomy-supportive environments and intrinsic motivation. Yet most of these same systems use evaluative practices — grading, ranking, competitive assessment — that structurally resemble conditional regard. The tension is genuine: an educational environment cannot simultaneously communicate that students are valued unconditionally as persons *and* that their academic worth is determined by performance on graded assessments. SDT does not resolve this tension; it sharpens it. The practical implication — that meaningful…
 
-
-
-
+> [!tension] **The Self-Continuity Trap in Introjection**
+> SDT implies that introjected regulation can be released through the provision of unconditional regard and autonomy support — and this is empirically supported in intervention studies. But there is a deeper philosophical tension: for many people, the introjected regulation has been operating so long that it is now part of how they *understand themselves*. The student who has always worked hard out of fear of shame may experience that drive as their identity. Releasing the introjection would require not merely removing the conditional regard structure but reorganizing a self-concept that has…
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from self-determination-theory-focused-analysis-2026-03-19.md)*
-> Before reading this analysis, take a moment to articulate your current understanding of Self-Determination Theory. Specifically: what do you believe happens when someone moves from doing something for external reward to doing it because they genuinely value it? What is the psychological process? What conditions enable or prevent this movement? Writing this down — not merely thinking it — activates the prior knowledge structures that anchor everything that follows. The comparison between your starting position and your position after the analysis is where the deepest learning lives.
+> [!reflection] **Reflect**
+> Before reading this analysis, take a moment to articulate your current understanding of Self-Determination Theory. Specifically: what do you believe happens when someone moves from doing something for external reward to doing it because they genuinely value it? What is the psychological process? What conditions enable or prevent this movement? Writing this down — not merely thinking it — activates the prior knowledge structures that anchor everything that follows. The comparison between your…
 
-> [!reflection] **Reflect** *(from self-determination-theory-focused-analysis-2026-03-19.md)*
+> [!reflection] **Reflect**
 > Before reading the framework section, predict: what do you think is the crucial difference between introjected regulation and identified regulation? Both are forms of "internalized" motivation in the sense that the person is no longer acting for external reward or punishment. So what distinguishes them? Commit to your prediction before proceeding.
-
 
 ## Connections & Context
 
+**Cross-report connections:**
+- [[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
+- [[Habit-Formation]]
+- [[Identity-Based-Habits]]
+
+**Cross-report connections:**
+- [[Satisfaction-Frustration-Asymmetry]]
+
 **Related concepts:**
-[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]] · [[Andragogy]] · [[Autonomy-Need|Autonomy Need]] · [[Canvas]] · [[Capability]] · [[Capability-Development|Capability Development]] · [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]] · [[Competence-Need|Competence Need]] · [[Competency]] · [[Competency-Development|Competency Development]] · [[Constructivist-Emergentist]] · [[Correspondence-Theory|Correspondence Theory]] · [[Dataview]] · [[Double-Loop-Learning|Double-Loop Learning]] · [[External-Regulation|External Regulation]]
+[[Self-Determination-Theory]] · [[Amotivation]] · [[External-Regulation]] · [[Introjected-Regulation]] · [[Identified-Regulation]] · [[Intrinsic-Motivation]] · [[Basic-Psychological-Needs]] · [[Internalization]] · [[Organismic-Integration-Theory]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Basic-Psychological-Needs]] · [[Self-Determination-Theory]] · [[SDT's-Regulatory-Continuum]]
 
 **Related concepts** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
-[[Self-Determination-Theory|Self-Determination-Theory]] * [[Amotivation|Amotivation]] * [[Introjected-Regulation|Introjected-Regulation]] * [[Identified-Regulation|Identified-Regulation]] * [[Integrated-Regulation|Integrated-Regulation]] * [[Intrinsic-Motivation|Intrinsic-Motivation]] * [[Basic-Psychological-Needs|Basic-Psychological-Needs]] * [[Internalization|Internalization]] * [[Organismic-Integration-Theory|Organismic-Integration-Theory]] * [[Cognitive-Evaluation-Theory|Cognitive-Evaluation-Theory]] * [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]] * [[Perceived-Internal-Locus-of-Causality|Perceived-Internal-Locus-of-Causality]] * [[Self-Determination|Self-Determination]] * [[Self-Esteem|Self-Esteem]] * [[Perceived-Locus-of-Causality|Perceived-Locus-of-Causality]]
+[[Integrated-Regulation|Integrated-Regulation]] * [[Perceived-Internal-Locus-of-Causality|Perceived-Internal-Locus-of-Causality]] * [[Self-Determination|Self-Determination]] * [[Self-Esteem|Self-Esteem]] * [[Autonomous-Motivation-vs.-Controlled-Motivation|Autonomous-Motivation-vs.-Controlled-Motivation]] * [[Autonomous-Motivation|Autonomous-Motivation]] * [[Controlled-Motivation|Controlled-Motivation]] * [[Autonomy-Need|Autonomy-Need]] * [[Competence-Need|Competence-Need]] * [[Relatedness-Need|Relatedness-Need]] * [[Contingent-Self-Worth|Contingent-Self-Worth]] * [[Ego-Involvement|Ego-Involvement]] * [[Conditional-Positive-Regard|Conditional-Positive-Regard]] * [[Need-Frustration|Need-Frustration]] * [[Undermining-Effect|Undermining-Effect]]
 
 **Cross-report connections** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
 - [[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
@@ -223,3 +182,38 @@ importance: high
 
 
 
+
+## References
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on the published empirical and theoretical SDT literature from 1971–2025, with particular emphasis on OIT-specific research (Deci et al., 1994; Ryan, 1982), need frustration research (Bartholomew et al., 2011), and conditional regard research (Roth et al., 2009). Empirical claims are grounded in specific studies or meta-analyses. Theoretical integrations — particularly the three-phase internalization mechanism and the dual pathway account — represent synthesized readings of the literature rather than direct claims by the original theorists. Original contributions in this…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[self-determination-theory-focused-analysis-2026-03-19]]
+**Report ID:** `self-determination-theory-focused-analysis-2026-03-19`

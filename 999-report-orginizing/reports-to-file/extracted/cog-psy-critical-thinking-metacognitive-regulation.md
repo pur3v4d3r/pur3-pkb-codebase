@@ -125,7 +125,7 @@ related:
   - "[[Availability-Heuristic|Availability Heuristic]]"
   - "[[Anchoring Bias]]"
 broader:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
@@ -155,7 +155,7 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning|Strategic Planning]]"
   - "[[Problem Solving in Complex Domains]]"
   - "[[Evidence-Based Practice]]"
 builds-on:

@@ -34,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -86,14 +86,6 @@ see-also:
   - "[[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]"
   - "[[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]"
   - "[[Bounded-Rationality|Bounded Rationality]]"
-  - "[[Foundational-Report|Foundational Report]]"
-  - "[[Socratic-Dialogue-Report|Socratic Dialogue Report]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]"
-  - "[[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]"
-  - "[[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]"
-  - "[[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]"
-  - "[[Bounded-Rationality|Bounded Rationality]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +97,9 @@ enables:
   - "[[]]"
 
 expansion-topics:
-  - topic: "[[]]"
+  - topic: "[[!topic-idea-Topic-Oaksford-&-Chater's-Probabilistic-Mental-Models-Report-Type-Fi|> [!topic-idea]
+> **Topic**: Oaksford & Chater's Probabilistic Mental Models
+> **Report Type**: Firs]]"
     description: ""
     priority: medium
 
@@ -124,20 +118,20 @@ importance: high
 
 ## Core Explanation
 
+> [!evidence] Supporting Evidence
+> The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+> [!evidence] Supporting Evidence
+> The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+> [!evidence] Supporting Evidence
+> The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
 > [!analytical-insight] Key Insight
 > When people reason — whether about spatial relations, conditional statements, syllogistic arguments, or causal sequences — they construct one or more mental models that represent possible states of the world described by the premises. A conclusion is endorsed if it holds in all constructed models. Reasoning errors occur not because inference rules are applied incorrectly, but because people typically construct an incomplete subset of the logically possible models, and a conclusion that seems to…
 
 > [!analytical-insight] Key Insight
 > From the four axioms together, the following conclusion follows: human reasoning is a *constructive, resource-sensitive, content-sensitive process that produces systematic patterns of success and failure*. This conclusion is robust. What does *not* follow from the axioms is the representational format of the construction — whether the constructed representations are analogical mental models, propositional rule applications, probabilistic estimates, or some multi-format combination. The axioms…
-
-> [!evidence] Supporting Evidence *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
-
-> [!evidence] Supporting Evidence *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
-
-> [!evidence] Supporting Evidence *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
 
 > [!evidence] Supporting Evidence *(from stoicism-codebase-pack.md)*
 > **Primary Sources and Scholarly Works**
@@ -200,9 +194,6 @@ importance: high
 
 
 
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -225,13 +216,12 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> Before we begin dismantling assumptions, take a moment to consider: what do you currently believe about mental models? Do you think human reasoning is fundamentally model-based, rule-based, or something else? Did you arrive at this view by examining evidence, or by absorbing it from coursework, popular accounts (Norman's *The Design of Everyday Things*), or the professional community you inhabit? Note that Johnson-Laird's precise technical sense of "mental model" and the loose colloquial sense are radically different — which one have you been thinking with?
+> [!reflection] **Reflect**
+> Before we begin dismantling assumptions, take a moment to consider: what do you currently believe about mental models? Do you think human reasoning is fundamentally model-based, rule-based, or something else? Did you arrive at this view by examining evidence, or by absorbing it from coursework, popular accounts (Norman's *The Design of Everyday Things*), or the professional community you inhabit? Note that Johnson-Laird's precise technical sense of "mental model" and the loose colloquial sense…
 
-> [!reflection] **Reflect** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
+> [!reflection] **Reflect**
 > Which of these assumption audits produced resistance? If you reacted to the dissolution of the rule/model dichotomy with "but that's obviously one or the other," note that reaction. The dichotomy is one of the field's inherited framings — it shaped careers, textbooks, and funding priorities — and its dissolution is therefore unsettling even when the evidence supports it. Productive discomfort here is the signal that we've found something load-bearing in the conventional understanding.
 
 > [!reflection] **Reflect** *(from stoicism-codebase-pack.md)*
@@ -252,7 +242,6 @@ importance: high
 
 
 
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -263,51 +252,6 @@ importance: high
 
 **Related concepts:**
 [[Foundational-Report|Foundational Report]] · [[Socratic-Dialogue-Report|Socratic Dialogue Report]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Schema-Theory-Bartlett,-Rumelhart|Schema Theory (Bartlett, Rumelhart)]] · [[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]] · [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] · [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] · [[Bounded-Rationality|Bounded Rationality]] · [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] · [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
-
-**Related concepts** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-[[Foundational-Report|Foundational Report]] * [[Socratic-Dialogue-Report|Socratic Dialogue Report]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]] * [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]] * [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] * [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] * [[Bounded-Rationality|Bounded Rationality]] * [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] * [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
 
 **Related concepts** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md, stoicism-codebase-pack.md)*:
 [[Foundational-Report|Foundational Report]] * [[Socratic-Dialogue-Report|Socratic Dialogue Report]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]] * [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]] * [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] * [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] * [[Bounded-Rationality|Bounded Rationality]] * [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] * [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] * [[2025-W49|2025-W49]] * [[2025-12|2025-12]] * [[2025-Q4|2025-Q4]] * [[2025|2025]] * [[practical-philosophy-moc|practical-philosophy-moc]]
@@ -385,6 +329,140 @@ importance: high
 
 
 
+## References
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Untitled**: **Primary Sources and Scholarly Works**
+
+The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+- [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+- [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+- [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+- [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+- [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+
+For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+- **Research Sources and Academic Literature**: **Metacognition and Journaling:**
+- [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+- [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+- [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+- [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+- [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+- [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+
+**Memory Consolidation and Sleep:**
+- [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+- [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+- [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+- [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+- [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+
+**Stoic Philosophy and Marcus Aurelius:**
+- [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+- [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+- [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+
+**Behavioral Modification and Habit Formation:**
+- [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+- [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+- [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+- [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+- [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
 
 
 
@@ -392,3 +470,67 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This analysis draws from the Aristotelian and Cartesian first-principles traditions as methodological scaffolding: systematic identification of what is asserted vs. what is assumed, followed by reconstruction from what survives scrutiny. The empirical claims are grounded in published meta-analyses and theoretical reviews in the cognitive psychology of reasoning literature through 2024. The assumption audit incorporates perspectives from both theoretical traditions (mental logic, mental models, probabilistic) and their philosophical underpinnings (philosophy of mind, formal semantics).
+> 
+> Where…
+
+---
+
+> [!methodology-and-sources] **🛠️ The Stoic Evening Examination Protocol** *(from stoicism-codebase-pack.md)*
+> Marcus Aurelius's practice, reconstructed from the *Meditations* and supplemented by modern neuroscientific understanding, follows a systematic structure:
+> 
+> **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
+> 
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> 
+> **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
+> 
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+
+
+## Source Attribution
+
+**Extracted from:** [[mental-models-johnson-laird-first-principles-report-2026-03-11]]
+**Report ID:** `mental-models-johnson-laird-first-principles-report-2026-03-11`

@@ -632,7 +632,7 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Memory Systems and Encoding]]
+- [[Memory-Systems-and-Encoding|Memory Systems and Encoding]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Executive-Function|Executive Function]]
 
@@ -649,7 +649,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Educational-Psychology|Educational Psychology]]
 - [[Lifespan Developmental Psychology]]
 
@@ -683,8 +683,8 @@ extraction_summary:
 
 #### Builds On
 
-- [[Memory Systems and Encoding]]
-- [[Attention and Cognitive Control]]
+- [[Memory-Systems-and-Encoding|Memory Systems and Encoding]]
+- [[Attention-and-Cognitive-Control|Attention and Cognitive Control]]
 - [[Schema-Theory|Schema Theory]]
 
 #### Enables

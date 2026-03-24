@@ -61,7 +61,7 @@ analytical-contributions:
 related-concepts:
   - "[[Heutagogy]]"
   - "[[Andragogy]]"
-  - "[[Pedagogy]]"
+  - "[[pedagogy]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Integrated-Regulation|Integrated Regulation]]"
   - "[[Capability-Development|Capability Development]]"
@@ -126,7 +126,7 @@ This report does not primarily ask how to build a better system for a beginner. 
 
 ### The Synthesis Question
 
-This report pursues a synthesis question that cannot be answered within any single disciplinary tradition: **How does the progression from [[Pedagogy]] through [[Andragogy]] to [[Heutagogy]] map onto distinct stages of PKB development — and what philosophical, psychological, and architectural transformation must occur at each transition for the PKB to remain genuinely supportive rather than progressively constraining?**
+This report pursues a synthesis question that cannot be answered within any single disciplinary tradition: **How does the progression from [[pedagogy]] through [[Andragogy]] to [[Heutagogy]] map onto distinct stages of PKB development — and what philosophical, psychological, and architectural transformation must occur at each transition for the PKB to remain genuinely supportive rather than progressively constraining?**
 
 Notice that this question has three layers. The surface layer is architectural: what should a PKB look like at each stage? The middle layer is psychological: what cognitive and motivational changes enable or require each transition? The deepest layer is philosophical: what theory of knowledge is implicitly embedded in each PKB design stage, and is that theory coherent with how the learner at that stage actually creates and uses knowledge?
 
@@ -150,7 +150,7 @@ Phase II establishes the cross-domain analytical framework, defining the core co
 
 ### The PAH Continuum: Beyond the Common Misunderstanding
 
-The [[Pedagogy]]-[[Andragogy]]-[[Heutagogy]] continuum is frequently misread as a sequence about scaffolding quantity — pedagogy gives lots of support, andragogy gives some, heutagogy gives none. This reading is not merely incomplete; it is structurally wrong in a way that leads to poor PKB design. To understand why, we must examine each stage with precision.
+The [[pedagogy]]-[[Andragogy]]-[[Heutagogy]] continuum is frequently misread as a sequence about scaffolding quantity — pedagogy gives lots of support, andragogy gives some, heutagogy gives none. This reading is not merely incomplete; it is structurally wrong in a way that leads to poor PKB design. To understand why, we must examine each stage with precision.
 
 > [!definition] **Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory)**
 > Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External-Regulation|External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence-Theory|Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.

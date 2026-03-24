@@ -23,7 +23,7 @@ link-related:
   - "[[2025-11-14|Daily-Note]]"
   - "[[permeant-note_moc]]"
   - "[[Goal Setting]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning]]"
   - "[[Motivational Beliefs]]"
   - "[[Planning]]"
   - "[[Working-Memory]]"

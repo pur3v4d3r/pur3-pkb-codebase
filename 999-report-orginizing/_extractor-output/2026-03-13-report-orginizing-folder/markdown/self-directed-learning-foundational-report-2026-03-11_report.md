@@ -451,7 +451,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Online-Learning-Design|Online Learning Design]]
 - [[Paul-Pintrich|Paul Pintrich]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal Learning Environments]]
 - [[Philip-Candy|Philip Candy]]
 - [[Ralph-Hiemstra|Ralph Hiemstra]]
@@ -480,7 +480,7 @@ extraction_summary:
 | 11 | [[Adult-Education|Adult Education]] | — | — | Historical and Intellectual Development | 306 |
 | 12 | [[Malcolm-Knowles|Malcolm Knowles]] | — | — | Historical and Intellectual Development | 308 |
 | 13 | [[Andragogy]] | — | — | Historical and Intellectual Development | 308 |
-| 14 | [[Pedagogy]] | — | — | Historical and Intellectual Development | 308 |
+| 14 | [[pedagogy]] | — | — | Historical and Intellectual Development | 308 |
 | 15 | [[Allen-Tough|Allen Tough]] | — | — | Historical and Intellectual Development | 310 |
 | 16 | [[Philip-Candy|Philip Candy]] | — | — | Historical and Intellectual Development | 312 |
 | 17 | [[Heutagogy]] | — | — | Historical and Intellectual Development | 317 |
@@ -554,7 +554,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Online-Learning-Design|Online Learning Design]]
 - [[Paul-Pintrich|Paul Pintrich]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal Learning Environments]]
 - [[Philip-Candy|Philip Candy]]
 - [[Ralph-Hiemstra|Ralph Hiemstra]]

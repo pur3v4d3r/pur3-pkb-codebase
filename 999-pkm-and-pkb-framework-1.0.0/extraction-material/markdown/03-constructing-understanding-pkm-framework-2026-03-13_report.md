@@ -546,7 +546,7 @@ extraction_summary:
 - [[Peter Graf]]
 - [[Peter Pearson]]
 - [[Posner]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prior Elaboration Note]]
 - [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 - [[Prior Knowledge Architecture]]
@@ -611,7 +611,7 @@ extraction_summary:
 | 24 | [[Jean-Piaget]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 25 | [[Lev-Vygotsky]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 26 | [[John-Dewey|John Dewey]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 27 | [[Pragmatism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 27 | [[pragmatism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Constructivism: The Philosophy of Kno... | 128 |
 | 29 | [[Charles-Reigeluth|Charles Reigeluth]] | — | — | Elaboration Theory: Designing Knowled... | 137 |
 | 30 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Elaboration Theory: Designing Knowled... | 137 |
@@ -787,7 +787,7 @@ extraction_summary:
 - [[Peter Graf]]
 - [[Peter Pearson]]
 - [[Posner]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prior Elaboration Note]]
 - [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 - [[Prior Knowledge Architecture]]

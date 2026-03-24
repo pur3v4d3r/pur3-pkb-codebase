@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +44,7 @@ see-also:
   - "[[Causal-Induction]]"
   - "[[Constructive-Attentiveness]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice-Log]]"
+  - "[[Deliberate-Practice]]"
   - "[[Dewey's-Continuity-and-Interaction-Principles]]"
   - "[[Enumerative-Induction]]"
   - "[[Falsificationism]]"
@@ -72,11 +72,11 @@ importance: high
 - [[Causal-Induction]]
 - [[Constructive-Attentiveness]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
-- [[Deliberate-Practice-Log]]
+- [[Deliberate-Practice]]
 - [[Dewey's-Continuity-and-Interaction-Principles]]
 - [[Enumerative-Induction]]
 - [[Falsificationism]]
-- [[Feeling-of-Knowing-—-FOK]]
+- [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
 - [[Inductive-Reasoning]]

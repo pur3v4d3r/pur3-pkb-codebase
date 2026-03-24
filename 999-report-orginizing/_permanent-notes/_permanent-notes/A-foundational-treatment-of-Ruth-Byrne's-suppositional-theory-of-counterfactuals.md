@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 7
+referenced-by-count: 8
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -44,6 +44,7 @@ see-also:
   - "[[Mental-Simulation]]"
   - "[[Model-Multiplicity]]"
   - "[[Principle-of-Truth]]"
+  - "[[Synthetic-Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -56,9 +57,9 @@ importance: low
 # A-foundational-treatment-of-Ruth-Byrne's-suppositional-theory-of-counterfactuals
 
 > [!definition] **A-foundational-treatment-of-Ruth-Byrne's-suppositional-theory-of-counterfactuals**
-> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 7 permanent notes.*
+*Auto-generated stub — referenced by 8 permanent notes.*
 
 ## Referenced By
 
@@ -69,3 +70,4 @@ importance: low
 - [[Mental-Simulation]]
 - [[Model-Multiplicity]]
 - [[Principle-of-Truth]]
+- [[Synthetic-Model]]

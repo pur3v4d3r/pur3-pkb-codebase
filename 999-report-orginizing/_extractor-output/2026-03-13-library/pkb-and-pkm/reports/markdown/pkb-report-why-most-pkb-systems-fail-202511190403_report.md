@@ -182,7 +182,7 @@ extraction_summary:
 #### 11. [THE-PHILOSOPHY] Untitled *(Line 131)*
 
 > [!the-philosophy] Untitled
-> **[[Constructivist|Constructivist]] Foundation:** Knowledge is not transmitted or stored but actively constructed through interaction with information, integration with existing schemas, and progressive refinement through multiple encounters. PKB systems must facilitate construction processes rather than merely providing storage infrastructure.
+> **[[constructivist|Constructivist]] Foundation:** Knowledge is not transmitted or stored but actively constructed through interaction with information, integration with existing schemas, and progressive refinement through multiple encounters. PKB systems must facilitate construction processes rather than merely providing storage infrastructure.
 
 #### 12. [EXAMPLE] Untitled *(Line 138)*
 
@@ -204,7 +204,7 @@ extraction_summary:
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 303)*
 
 > [!connections-and-links] Untitled
-> **Disciplinary Convergence:** This analysis sits at the nexus of [[Cognitive-Psychology|Cognitive Psychology]] (explaining how thinking works), [[Educational-Psychology|Educational Psychology]] (establishing how learning happens), [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management|Knowledge Management]] (establishing organizational knowledge practices), [[Human-Computer Interaction]] (ensuring usable interfaces), and [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
+> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology|Cognitive Psychology]] (explaining how thinking works), [[Educational-Psychology|Educational Psychology]] (establishing how learning happens), [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management|Knowledge Management]] (establishing organizational knowledge practices), [[Human-Computer Interaction]] (ensuring usable interfaces), and [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
 
 #### 16. [CITE] Untitled *(Line 310)*
 
@@ -259,7 +259,7 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Management]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive Scaffolds]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Competence]]
@@ -306,7 +306,7 @@ extraction_summary:
 - [[Motivational Beliefs]]
 - [[Motivational Fortitude]]
 - [[PARA Method]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal Information Management]]
 - [[Personal Reflection]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
@@ -357,7 +357,7 @@ extraction_summary:
 | 9 | [[Information-Architecture|Information Architecture]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
 | 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
 | 11 | [[Personal Information Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
-| 12 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
+| 12 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 13 | [[Metacognition]] | metacognitive | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 14 | [[Theory of Meaningful Learning]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 15 | [[schemas]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
@@ -475,7 +475,7 @@ extraction_summary:
 | 127 | [[Habit-Formation|Habit Formation]] | — | — | 🌐 Integration: The Forty Concepts as ... | 250 |
 | 128 | [[Andragogy]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
 | 129 | [[Heutagogy]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
-| 130 | [[Pedagogy]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
+| 130 | [[pedagogy]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
 | 131 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
 | 132 | [[Educational-Psychology|Educational Psychology]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
 | 133 | [[Methodological Frameworks]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
@@ -511,7 +511,7 @@ extraction_summary:
 | 163 | [[Constructivist Learning]] | — | — | 💡 Synthesis: From Principles to Practice | 297 |
 | 164 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 💡 Synthesis: From Principles to Practice | 297 |
 | 165 | [[Metacognition]] | metacognitive | — | 💡 Synthesis: From Principles to Practice | 297 |
-| 166 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
+| 166 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 167 | [[Educational-Psychology|Educational Psychology]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 168 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 169 | [[Library Science]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
@@ -634,7 +634,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Management]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive Scaffolds]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Competence]]
@@ -681,7 +681,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Motivational Beliefs]]
 - [[Motivational Fortitude]]
 - [[PARA Method]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal Information Management]]
 - [[Personal Reflection]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]

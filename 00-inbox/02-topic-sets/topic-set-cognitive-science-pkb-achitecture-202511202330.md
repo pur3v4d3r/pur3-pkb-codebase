@@ -66,7 +66,7 @@ The intersection of [[Cognitive-Science]] and [[03-notes/01_permanent-notes/02_p
 ### 2. **[[Desirable Difficulties and Retrieval Practice Design]]**
 
 > [!principle-point] The Retrieval Paradox
-> Making information *harder* to retrieve (within limits) actually strengthens long-term retention. This insight from [[Cognitive-Psychology]] fundamentally challenges typical PKB design that prioritizes frictionless access.
+> Making information *harder* to retrieve (within limits) actually strengthens long-term retention. This insight from [[cognitive-psychology]] fundamentally challenges typical PKB design that prioritizes frictionless access.
 
 **The Cognitive Principle**: [[Retrieval-Practice]] (testing effect) and [[Desirable-Difficulties]] create stronger memory traces than passive review. The cognitive effort required during retrieval strengthens neural pathways. [[Bjork's Desirable Difficulties Framework]] suggests optimal learning involves appropriate challenges during encoding and retrieval.
 

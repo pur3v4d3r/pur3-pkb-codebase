@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Amotivation]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomy-Supportive-Environment]]"
+  - "[[Cognitive-Evaluation-Theory]]"
+  - "[[Competence]]"
   - "[[Conditional-Regard]]"
   - "[[Controlled-Regulation]]"
   - "[[Controlling-Environment]]"
   - "[[Effectance]]"
   - "[[Identified-Regulation]]"
-  - "[[Introjected-Regulation]]"
-  - "[[Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score]]"
-  - "[[Need-Thwarting]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,14 +59,17 @@ importance: medium
 # Needs-Theories-in-Psychology
 
 > [!definition] **Needs-Theories-in-Psychology**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 18 permanent notes.*
 
 ## Referenced By
 
+- [[Amotivation]]
 - [[Autonomous-Regulation]]
 - [[Autonomy-Supportive-Environment]]
+- [[Cognitive-Evaluation-Theory]]
+- [[Competence]]
 - [[Conditional-Regard]]
 - [[Controlled-Regulation]]
 - [[Controlling-Environment]]

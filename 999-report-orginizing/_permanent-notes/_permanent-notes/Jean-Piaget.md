@@ -5,7 +5,6 @@
 title: "Jean-Piaget"
 aliases:
   - "Jean-Piaget"
-  - "Jean Piaget"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 51
+referenced-by-count: 48
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -46,7 +45,7 @@ see-also:
   - "[[Causal-Induction]]"
   - "[[Constructive-Attentiveness]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice-Log]]"
+  - "[[Deliberate-Practice]]"
   - "[[Dewey's-Continuity-and-Interaction-Principles]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -60,9 +59,9 @@ importance: high
 # Jean-Piaget
 
 > [!definition] **Jean-Piaget**
-> *Stub note — concept referenced by 51 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 48 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 51 permanent notes.*
+*Auto-generated stub — referenced by 48 permanent notes.*
 
 ## Referenced By
 
@@ -74,16 +73,16 @@ importance: high
 - [[Causal-Induction]]
 - [[Constructive-Attentiveness]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
-- [[Deliberate-Practice-Log]]
+- [[Deliberate-Practice]]
 - [[Dewey's-Continuity-and-Interaction-Principles]]
 - [[Enumerative-Induction]]
 - [[Equilibration]]
 - [[Falsificationism]]
-- [[Feeling-of-Knowing-—-FOK]]
+- [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
-- [[Free-Energy-Principle]]
-- [[Generative-Model]]
 - [[Genetic-Epistemology]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
 - [[Inductive-Reasoning]]
-- *...and 31 more permanent notes*
+- [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
+- [[Judgment-of-Learning]]
+- *...and 28 more permanent notes*

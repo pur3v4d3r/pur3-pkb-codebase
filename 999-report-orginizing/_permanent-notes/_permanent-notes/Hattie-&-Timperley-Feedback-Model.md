@@ -5,7 +5,6 @@
 title: "Hattie-&-Timperley-Feedback-Model"
 aliases:
   - "Hattie-&-Timperley-Feedback-Model"
-  - "Hattie & Timperley Feedback Model"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

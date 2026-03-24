@@ -5,7 +5,6 @@
 title: "Hermann-Ebbinghaus"
 aliases:
   - "Hermann-Ebbinghaus"
-  - "Hermann Ebbinghaus"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,7 +46,7 @@ see-also:
   - "[[Episodic-Buffer]]"
   - "[[Episodic-Memory]]"
   - "[[Equilibration]]"
-  - "[[Memory-Reconsolidation]]"
+  - "[[Memory-Consolidation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -75,15 +74,15 @@ importance: high
 - [[Episodic-Buffer]]
 - [[Episodic-Memory]]
 - [[Equilibration]]
-- [[Memory-Reconsolidation]]
+- [[Memory-Consolidation]]
 - [[Non-Declarative-Memory]]
 - [[Phonological-Loop]]
 - [[Reconstructive-Memory]]
+- [[Retrieval-Practice-Effect]]
 - [[Semantic-Memory]]
 - [[Sensory-Memory]]
 - [[Short-Term-Memory]]
 - [[Slot-Default-Value]]
 - [[Synaptic-Consolidation]]
 - [[Systems-Consolidation]]
-- [[Testing-Effect-Retrieval-Practice-Effect]]
 - *...and 1 more permanent notes*

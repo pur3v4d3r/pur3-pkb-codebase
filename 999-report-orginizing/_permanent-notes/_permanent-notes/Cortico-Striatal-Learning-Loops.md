@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -66,14 +66,6 @@ see-also:
   - "[[Working-Memory|Working Memory]]"
   - "[[Skill-Acquisition|Skill Acquisition]]"
   - "[[Expertise]]"
-  - "[[Cognitive-Control|Cognitive Control]]"
-  - "[[Procedural-Memory|Procedural Memory]]"
-  - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
-  - "[[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]"
-  - "[[Attention|Attention]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Skill-Acquisition|Skill Acquisition]]"
-  - "[[Expertise|Expertise]]"
   - "[[Cognitive-Control|Cognitive Control]]"
   - "[[Procedural-Memory|Procedural Memory]]"
   - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
@@ -145,7 +137,14 @@ importance: medium
 **Related concepts** *(from cog-psy-attentional-efficiency-and-skill-aquisition.md)*:
 [[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
 
-**Related concepts** *(from cog-psy-attentional-efficiency-and-skill-aquisition.md)*:
-[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Measuring the Power Law**
+> Researchers measure power law parameters through log-log transformation: log(RT) = log(a) - b·log(n) + log(c). This linearizes the power function, allowing standard regression to estimate parameters. The slope b indicates learning rate, the intercept log(a) indicates initial performance, and deviations from linearity reveal violations of the power law (which sometimes occur, particularly in motor learning where exponential functions may fit better). The coefficient of determination (R²) typically exceeds 0.95, indicating excellent fit.
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[cog-psy-attentional-efficiency-and-skill-aquisition]]

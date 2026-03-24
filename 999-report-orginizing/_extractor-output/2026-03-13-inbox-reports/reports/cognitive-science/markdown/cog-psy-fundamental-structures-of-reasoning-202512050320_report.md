@@ -594,7 +594,7 @@ extraction_summary:
 > 
 > **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
 > 
-> **Cognitive Psychology**: The Elements align with findings in [[Cognitive-Psychology|Cognitive Psychology]], [[Heuristics and Biases]], [[Decision-Making|Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
+> **Cognitive Psychology**: The Elements align with findings in [[cognitive-psychology|Cognitive Psychology]], [[Heuristics and Biases]], [[Decision-Making|Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
 > 
 > **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).
 > 
@@ -655,7 +655,7 @@ extraction_summary:
 - [[Argumentation]]
 - [[Assumptions]]
 - [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Concepts]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Decision-Making|Decision Making]]
@@ -758,7 +758,7 @@ extraction_summary:
 | 47 | [[Hermeneutics]] | — | — | 📚 Connections and Links | 961 |
 | 48 | [[Textual Analysis]] | — | — | 📚 Connections and Links | 961 |
 | 49 | [[Historical Interpretation]] | — | — | 📚 Connections and Links | 961 |
-| 50 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 📚 Connections and Links | 963 |
+| 50 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 📚 Connections and Links | 963 |
 | 51 | [[Heuristics and Biases]] | — | — | 📚 Connections and Links | 963 |
 | 52 | [[Decision-Making|Decision Making]] | — | — | 📚 Connections and Links | 963 |
 | 53 | [[Judgment Under Uncertainty]] | — | — | 📚 Connections and Links | 963 |
@@ -1478,7 +1478,7 @@ graph LR
 - [[Argumentation]]
 - [[Assumptions]]
 - [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Concepts]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Decision-Making|Decision Making]]

@@ -183,7 +183,7 @@ actions:
 - [[Philosophy]]
 	- [[Stoicism]]
 	- [[Locus-of-Control]]
-	- [[Pragmatism]]
+	- [[pragmatism]]
 	- [[Philosophy of Mind]]
 		- [[Stoic-Philosophy]]
 		- [[Socratic-Method]]
@@ -196,10 +196,10 @@ actions:
 
 - [[Andragogy]]
 - [[Heutagogy]]
-- [[Pedagogy]]
+- [[pedagogy]]
 
 - [[Cognitive-Science]]
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Cognitive-Architecture]]
 - [[Cognitive Development]]
 

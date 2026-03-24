@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -88,14 +88,6 @@ see-also:
   - "[[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]"
   - "[[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]"
   - "[[Bounded-Rationality|Bounded Rationality]]"
-  - "[[Foundational-Report|Foundational Report]]"
-  - "[[Socratic-Dialogue-Report|Socratic Dialogue Report]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]"
-  - "[[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]"
-  - "[[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]"
-  - "[[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]"
-  - "[[Bounded-Rationality|Bounded Rationality]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,7 +99,9 @@ enables:
   - "[[]]"
 
 expansion-topics:
-  - topic: "[[]]"
+  - topic: "[[!topic-idea-Topic-Oaksford-&-Chater's-Probabilistic-Mental-Models-Report-Type-Fi|> [!topic-idea]
+> **Topic**: Oaksford & Chater's Probabilistic Mental Models
+> **Report Type**: Firs]]"
     description: ""
     priority: medium
 
@@ -126,20 +120,20 @@ importance: high
 
 ## Core Explanation
 
+> [!evidence] Supporting Evidence
+> The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+> [!evidence] Supporting Evidence
+> The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+> [!evidence] Supporting Evidence
+> The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
 > [!analytical-insight] Key Insight
 > When people reason — whether about spatial relations, conditional statements, syllogistic arguments, or causal sequences — they construct one or more mental models that represent possible states of the world described by the premises. A conclusion is endorsed if it holds in all constructed models. Reasoning errors occur not because inference rules are applied incorrectly, but because people typically construct an incomplete subset of the logically possible models, and a conclusion that seems to…
 
 > [!analytical-insight] Key Insight
 > From the four axioms together, the following conclusion follows: human reasoning is a *constructive, resource-sensitive, content-sensitive process that produces systematic patterns of success and failure*. This conclusion is robust. What does *not* follow from the axioms is the representational format of the construction — whether the constructed representations are analogical mental models, propositional rule applications, probabilistic estimates, or some multi-format combination. The axioms…
-
-> [!evidence] Supporting Evidence *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
-
-> [!evidence] Supporting Evidence *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
-
-> [!evidence] Supporting Evidence *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
 
 > [!evidence] Supporting Evidence *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
 > Johnson-Laird & Bara (1984) tested all 64 syllogistic figures and found that error rates correlated significantly with the number of distinct mental models required for each. One-model problems yielded nearly perfect performance; three-model problems yielded error rates exceeding 50% in some figures. This graded difficulty function — and its prediction from a model-multiplicity metric computed *before* testing — constitutes one of the strongest pieces of evidence for MMT over mental logic alternatives.
@@ -149,12 +143,6 @@ importance: high
 
 > [!evidence] Supporting Evidence *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
 > Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
-
-> [!analytical-insight] Key Insight *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
-> Mental models represent only what is true in a described situation, not what is false. When people construct a model of a disjunction such as "Either there is a circle or there is a triangle (or both)", they typically build a model representing a circle, a model representing a triangle, and perhaps a model representing both — but they do NOT build models explicitly representing the falsity conditions (the case where there is neither). This parsimony reduces working memory load but systematically produces predictable errors when correct reasoning requires considering false cases.
-
-> [!analytical-insight] Key Insight *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
-> The cognitive system constructs the simplest model consistent with the premises, not all possible models. This is adaptive (it conserves working memory resources) but introduces systematic error: the simplest model may be one of several valid possibilities, and a conclusion read off the simplest model may not hold in other valid models. Recognising this limitation is the key to understanding why deductive reasoning is genuinely difficult.
 
 > [!evidence] Supporting Evidence *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*
 > The error detection paradigm is often interpreted as demonstrating that readers have poor monitoring skills — that they lack the ability to detect comprehension failures. A more precise reading of the evidence suggests something subtler: readers have the *capacity* for monitoring but deploy it selectively and inconsistently. The critical variable is not capacity but the conditions under which monitoring is spontaneously activated. This reframing has direct implications for intervention: if the problem is selective deployment, then strategy instruction that provides strategies without addressing the conditions of deployment will have limited generalizability.
@@ -229,6 +217,12 @@ importance: high
 > - [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
 > - [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
 
+> [!analytical-insight] Key Insight *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
+> Mental models represent only what is true in a described situation, not what is false. When people construct a model of a disjunction such as "Either there is a circle or there is a triangle (or both)", they typically build a model representing a circle, a model representing a triangle, and perhaps a model representing both — but they do NOT build models explicitly representing the falsity conditions (the case where there is neither). This parsimony reduces working memory load but systematically produces predictable errors when correct reasoning requires considering false cases.
+
+> [!analytical-insight] Key Insight *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
+> The cognitive system constructs the simplest model consistent with the premises, not all possible models. This is adaptive (it conserves working memory resources) but introduces systematic error: the simplest model may be one of several valid possibilities, and a conclusion read off the simplest model may not hold in other valid models. Recognising this limitation is the key to understanding why deductive reasoning is genuinely difficult.
+
 > [!analytical-insight] Key Insight *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*
 > Monitoring is the detection of a cognitive state — feeling confused, noticing an inconsistency, recognizing that a referent is unclear. Regulation is the action taken in response. These are empirically dissociable: monitoring can occur without regulation, and regulation (in the form of re-reading or slowing) can occur without conscious monitoring. The failure to keep this distinction sharp has muddled decades of research and intervention design.
 
@@ -282,9 +276,6 @@ importance: high
 
 
 
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -297,9 +288,6 @@ importance: high
 
 > [!example] **Application** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
 > Effective instruction should (1) provide concrete representations — diagrams, simulations, worked examples — that give learners the raw material from which to construct models; (2) ask questions that require model inspection rather than proposition retrieval ("What would happen if...?"); (3) create conditions that trigger counterexample search — present students with anomalies or contradictions that cannot be resolved by the current model and that therefore motivate model revision; (4) make the model itself visible and discussable, through concept mapping, think-alouds, or representational drawing.
-
-> [!warning] **Key Distinction** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
-> Simply presenting correct scientific information to a student whose model conflicts with it does not typically produce model revision. Instead, students frequently assimilate the new information to their existing model, distorting it to fit. A student who believes the Earth is flat may, when told it is spherical, construct a "synthetic model" of a sphere that is flat on the bottom — integrating the new fact without genuinely revising the model. Effective science instruction must create conditions of "cognitive conflict" — situations in which the student's existing model generates a clearly wrong prediction — before presenting the correct model. This process, called [[Conceptual-Change-Theory|conceptual change]], is structurally analogous to the counterexample search stage of deductive reasoning.
 
 > [!example] **Application** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*
 > Readers who fail to generate adequate monitoring signals benefit from explicit instruction in *what coherence failure feels like at the situation model level* — not just vocabulary difficulty or syntactic confusion. The Incoherence Flag Protocol involves training readers to actively flag, during reading, any moment when they cannot answer the question: "What just changed in the world of this text?" This question probes situation model construction directly and generates a salient signal even when the text itself is syntactically and lexically unproblematic. The key implementation detail: the flag must be explicit (a mark on the page, a note) rather than internal — because internal flags are suppressed by the fluency trap.
@@ -322,6 +310,9 @@ importance: high
 > [!example] **Application** *(from stoicism-codebase-pack.md)*
 > Instructional design should prioritize sequences of genuine mastery experiences — not artificially easy wins, but carefully scaffolded challenges that students can overcome with appropriate effort and are recognized as having overcome. The belief that effort produces growth is most durable when it is inductively arrived at from actual experience, not deductively adopted from instruction.
 
+> [!warning] **Key Distinction** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
+> Simply presenting correct scientific information to a student whose model conflicts with it does not typically produce model revision. Instead, students frequently assimilate the new information to their existing model, distorting it to fit. A student who believes the Earth is flat may, when told it is spherical, construct a "synthetic model" of a sphere that is flat on the bottom — integrating the new fact without genuinely revising the model. Effective science instruction must create conditions of "cognitive conflict" — situations in which the student's existing model generates a clearly wrong prediction — before presenting the correct model. This process, called [[Conceptual-Change-Theory|conceptual change]], is structurally analogous to the counterexample search stage of deductive reasoning.
+
 > [!warning] **Key Distinction** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*
 > The evidence suggests that silent reading, even when optimally engaged (all four mechanisms active), has a ceiling on the critical analysis it produces when practiced in isolation from social discourse. The reason is structural: private hypothesis generation creates evaluative inferences, but private evaluation cannot easily detect [[Confirmation-Bias-Myside-Bias]] operating within the reader's own reasoning. A reader who already holds a [[Motivated-Reasoning|motivated view]] about a topic may perform all four mechanisms correctly and still construct a Situation Model that filters evidence in self-serving ways. The corrective for this limitation is not more reading but exposure to others' interpretations — social discourse, collaborative reading, or at minimum engaging explicitly with textual counter-arguments.
 
@@ -343,13 +334,12 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
-> Before we begin dismantling assumptions, take a moment to consider: what do you currently believe about mental models? Do you think human reasoning is fundamentally model-based, rule-based, or something else? Did you arrive at this view by examining evidence, or by absorbing it from coursework, popular accounts (Norman's *The Design of Everyday Things*), or the professional community you inhabit? Note that Johnson-Laird's precise technical sense of "mental model" and the loose colloquial sense are radically different — which one have you been thinking with?
+> [!reflection] **Reflect**
+> Before we begin dismantling assumptions, take a moment to consider: what do you currently believe about mental models? Do you think human reasoning is fundamentally model-based, rule-based, or something else? Did you arrive at this view by examining evidence, or by absorbing it from coursework, popular accounts (Norman's *The Design of Everyday Things*), or the professional community you inhabit? Note that Johnson-Laird's precise technical sense of "mental model" and the loose colloquial sense…
 
-> [!reflection] **Reflect** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*
+> [!reflection] **Reflect**
 > Which of these assumption audits produced resistance? If you reacted to the dissolution of the rule/model dichotomy with "but that's obviously one or the other," note that reaction. The dichotomy is one of the field's inherited framings — it shaped careers, textbooks, and funding priorities — and its dissolution is therefore unsettling even when the evidence supports it. Productive discomfort here is the signal that we've found something load-bearing in the conventional understanding.
 
 > [!reflection] **Reflect** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
@@ -405,6 +395,27 @@ importance: high
 
 
 
+## Conceptual Tensions
+
+> [!tension] **Fluency as Both Resource and Liability** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*
+> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[Fluency-Illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency paradoxically suppresses the monitoring signals that comprehension requires. The reader who decodes effortlessly is, in some sense, *less* likely to notice when comprehension is failing than the reader who struggles slightly. This is not a trivial finding: it suggests that the solution to reading comprehension difficulties is not simply increased fluency practice, and that as students become more fluent, monitoring instruction becomes *more* rather than less important.
+
+> [!tension] **The Instructional Attribution Problem** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*
+> Comprehension monitoring interventions typically target one of these three mechanisms. But researchers and practitioners frequently attribute comprehension monitoring failures to the wrong mechanism — for instance, attributing effort abandonment to strategy ignorance and responding with more strategy instruction that doesn't change the effort-cost calculus. Or attributing signal threshold failure to strategy activation failure and responding with explicit strategy selection guides that don't address the signal's weakness in the first place. The field's inconsistent results may partly reflect this attribution confusion: interventions are often well-designed for the mechanism they target but misassigned to readers whose monitoring failures arise from different mechanisms.
+
+> [!tension] **The Self-Explanation Paradox** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*
+> Here is a genuine tension: the self-explanation effect depends on the reader verbalizing internally — using inner speech to construct explanations. But inner speech recruits the same phonological resources that vocalization occupies during oral reading. If silent reading "frees" the phonological loop, and self-explanation re-occupies it, is the "freedom" of silent reading illusory? The resolution may be that inner speech during self-explanation is qualitatively different from articulatory rehearsal during vocalization — less constrained, more controllable, capable of supporting evaluative operations that scripted vocalization cannot. But this distinction is not fully established empirically, making it one of the genuine open questions in reading research.
+
+> [!tension] **The Sub-Vocalization Paradox** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> A persistent debate in reading research concerns sub-vocalization — the inner speech that most readers experience when reading silently. Speed-reading advocates argue that sub-vocalization limits reading to speaking rate (~150 WPM) and must be suppressed. Research partially supports suppression: many readers do read faster when trained to reduce sub-vocalization. However, studies using articulatory suppression (physically preventing sub-vocalization by having readers say "la-la-la" continuously) show reliable comprehension *decrements* for syntactically complex sentences. The tension: skilled readers demonstrably do show less sub-vocalization than novices, but eliminating it entirely appears to hurt comprehension for demanding text. The resolution — explored in Phase IV — lies in understanding what sub-vocalization actually does for working memory maintenance.
+
+> [!tension] **The Monitoring-Speed Incompatibility** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> Speed and metacognitive monitoring are structurally in tension at a resource level, not merely in time. Monitoring requires holding two representations active simultaneously — the current meaning of the text and a running assessment of how well that meaning is being constructed. This is a working memory cost. Under high speed pressure, working memory is already allocated to keeping up with incoming text — there is no spare capacity for the meta-level comparison. This may explain why most speed-reading training that does not include explicit comprehension monitoring instruction produces confident fast readers with degraded retention.
+
+
+
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -416,81 +427,8 @@ importance: high
 **Related concepts:**
 [[Foundational-Report|Foundational Report]] · [[Socratic-Dialogue-Report|Socratic Dialogue Report]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Schema-Theory-Bartlett,-Rumelhart|Schema Theory (Bartlett, Rumelhart)]] · [[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]] · [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] · [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] · [[Bounded-Rationality|Bounded Rationality]] · [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] · [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
 
-**Related concepts** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md, mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-[[Foundational-Report|Foundational Report]] * [[Socratic-Dialogue-Report|Socratic Dialogue Report]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]] * [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]] * [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] * [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] * [[Bounded-Rationality|Bounded Rationality]] * [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] * [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] * [[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Johnson-Laird|Johnson-Laird]] * [[PKB|PKB]] * [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-- [[Mental-Models-Theory|Mental Models Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
-- [[Deductive-Reasoning|Deductive Reasoning]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-- [[Mental-Models-Theory|Mental Models Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
-- [[Deductive-Reasoning|Deductive Reasoning]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-- [[Mental-Models-Theory|Mental Models Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
-- [[Deductive-Reasoning|Deductive Reasoning]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-- [[Mental-Models-Theory|Mental Models Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
-- [[Deductive-Reasoning|Deductive Reasoning]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
-- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
-- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
-
 **Related concepts** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md, mental-models-johnson-laird-foundational-report-2026-03-11.md, metacognition-silent-reading-focused-analysis-2026-03-21.md, silent-reading-critical-analysis-focused-analysis-2026-03-21.md, silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md, stoicism-codebase-pack.md)*:
-[[Foundational-Report|Foundational Report]] * [[Socratic-Dialogue-Report|Socratic Dialogue Report]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]] * [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]] * [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] * [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] * [[Bounded-Rationality|Bounded Rationality]] * [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] * [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] * [[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] * [[Multimedia-Learning|Multimedia Learning]] * [[Schema-Theory|Schema Theory]] * [[Mental-Models|Mental Models]]
+[[Foundational-Report|Foundational Report]] * [[Socratic-Dialogue-Report|Socratic Dialogue Report]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]] * [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]] * [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]] * [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]] * [[Bounded-Rationality|Bounded Rationality]] * [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]] * [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]] * [[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Johnson-Laird|Johnson-Laird]] * [[PKB|PKB]] * [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
 
 **Cross-report connections** *(from mental-models-johnson-laird-first-principles-report-2026-03-11.md)*:
 - [[Dual-Process-Theory|Dual Process Theory]]
@@ -601,6 +539,230 @@ importance: high
 
 
 
+## References
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
+
+- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
+
+- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
+
+- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
+
+- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
+
+- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
+
+- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
+
+- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
+
+- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
+
+- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
+
+- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Untitled**: **Primary Sources and Scholarly Works**
+
+The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+- [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+- [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+- [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+- [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+- [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+
+For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+- **Research Sources and Academic Literature**: **Metacognition and Journaling:**
+- [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+- [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+- [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+- [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+- [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+- [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+
+**Memory Consolidation and Sleep:**
+- [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+- [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+- [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+- [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+- [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+
+**Stoic Philosophy and Marcus Aurelius:**
+- [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+- [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+- [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+
+**Behavioral Modification and Habit Formation:**
+- [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+- [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+- [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+- [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+- [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
 
 
 
@@ -612,3 +774,124 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This analysis draws from the Aristotelian and Cartesian first-principles traditions as methodological scaffolding: systematic identification of what is asserted vs. what is assumed, followed by reconstruction from what survives scrutiny. The empirical claims are grounded in published meta-analyses and theoretical reviews in the cognitive psychology of reasoning literature through 2024. The assumption audit incorporates perspectives from both theoretical traditions (mental logic, mental models, probabilistic) and their philosophical underpinnings (philosophy of mind, formal semantics).
+> 
+> Where…
+
+---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*
+> This report synthesises empirical research, computational theory, and educational applications from cognitive psychology, discourse theory, philosophy of mind, and science education. The empirical base is strongest for the core syllogistic reasoning findings (replicated across numerous laboratories since the 1980s) and the situation model literature (extensively cross-validated, though predominantly with WEIRD samples). The science education applications draw on a robust but more interpretively contested research tradition. The mechanistic claims about model construction (the three-stage inference cycle, the principle of truth) are theoretical proposals with strong predictive track records rather than directly observable processes. The report explicitly distinguishes between well-replicated empirical findings, theoretical integrations, and speculative proposals. Claims about neural implementation are marked as provisional given the current state of the neuroscientific literature. The author's synthetic contributions — particularly the connections drawn among MMT, metacognition, fallibilism, and feedback design — go beyond what any single primary source establishes and represent knowledge graph integration rather than summary.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*
+> This analysis draws primarily on cognitive and educational psychology research from the 1970s through the mid-2020s. The core claims fall into three epistemic categories. **Empirically established claims** (supported by replication across multiple labs and decades): the existence of the comprehension monitoring failure phenomenon; the effectiveness of self-explanation and reciprocal teaching; the fluency-comprehension dissociation; the textbase/situation model distinction. **Theoretical integrations** (well-supported by evidence but involving analytical synthesis beyond direct experimental demonstration): the three-mechanism account of monitoring-regulation decoupling; the three-tier monitoring architecture model; the characterization of externalization as the primary architectural mechanism. **Claude's original analytical contributions**: the "fluency trap" framing as a signal contamination problem; the explicit three-tier monitoring model; the three-domain transfer analysis in Phase VII; the "comprehension ROI frame" intervention. The FAR Transfer analysis in Phase VII is grounded in the general [[Transfer-of-Learning]] literature (Barnett & Ceci, 2002; Perkins & Salomon, 1992) and in specific domain literatures, but the structural analogies themselves represent original synthesis.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*
+> This report integrates evidence from three distinct research traditions: cognitive reading research (eye-tracking studies, think-aloud protocols, working memory and reading comprehension research), metacognition research (comprehension monitoring, fluency illusion, elaborative interrogation), and reading-critical thinking relationships (ICAP Framework, self-explanation effect, Matthew Effect). All empirical claims draw on peer-reviewed research and are attributed. The Generative Cognition Architecture proposed in Phase VI is an original theoretical synthesis integrating findings across these traditions — it is clearly marked as such and does not represent a finding from the existing literature but an inference drawn across it. The FAR Transfer principles in Phase VII are analytical extrapolations from the GCA framework, grounded in the transfer-of-learning research tradition but applied speculatively to domains beyond reading research.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*
+> This report draws on three bodies of established empirical literature: (1) eye movement research in reading (Rayner and colleagues), representing decades of laboratory eye-tracking studies with strong internal validity; (2) cognitive psychology of working memory and text comprehension (Baddeley, Kintsch, van Dijk), representing both experimental and theoretical work; and (3) educational psychology of reading instruction (Perfetti, Carver), representing applied research with ecological validity. The Bandwidth Expansion/Bandwidth Compression distinction is Claude's original analytical framework, integrating findings from these three literatures into a unified diagnostic principle. This synthesis has not been articulated in this form in the primary literature, though its components are all empirically grounded. The FAR Transfer principles extend the analysis through structural analogical reasoning; the specific cross-domain applications are analytical contributions, not empirically tested claims.
+
+> [!methodology-and-sources] **🛠️ The Stoic Evening Examination Protocol** *(from stoicism-codebase-pack.md)*
+> Marcus Aurelius's practice, reconstructed from the *Meditations* and supplemented by modern neuroscientific understanding, follows a systematic structure:
+> 
+> **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
+> 
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> 
+> **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
+> 
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+
+
+
+
+
+
+## Source Attribution
+
+**Extracted from:** [[mental-models-johnson-laird-first-principles-report-2026-03-11]]
+**Report ID:** `mental-models-johnson-laird-first-principles-report-2026-03-11`

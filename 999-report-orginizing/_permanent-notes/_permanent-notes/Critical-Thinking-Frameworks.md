@@ -24,8 +24,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +40,7 @@ referenced-by-count: 11
 see-also:
   - "[[Abductive-Reasoning]]"
   - "[[Cognitive-Load-Theory]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Confirmation-Bias]]"
   - "[[Critical-Thinking]]"
   - "[[Deductive-Reasoning]]"
   - "[[Defeasibility]]"
@@ -68,7 +68,7 @@ importance: medium
 
 - [[Abductive-Reasoning]]
 - [[Cognitive-Load-Theory]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Critical-Thinking]]
 - [[Deductive-Reasoning]]
 - [[Defeasibility]]

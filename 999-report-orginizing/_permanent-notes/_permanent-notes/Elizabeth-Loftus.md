@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +44,7 @@ see-also:
   - "[[Episodic-Buffer]]"
   - "[[Episodic-Memory]]"
   - "[[Long-Term-Memory]]"
-  - "[[Memory-Reconsolidation]]"
+  - "[[Memory-Consolidation]]"
   - "[[Non-Declarative-Memory]]"
   - "[[Phonological-Loop]]"
 
@@ -72,14 +72,14 @@ importance: medium
 - [[Episodic-Buffer]]
 - [[Episodic-Memory]]
 - [[Long-Term-Memory]]
-- [[Memory-Reconsolidation]]
+- [[Memory-Consolidation]]
 - [[Non-Declarative-Memory]]
 - [[Phonological-Loop]]
+- [[Retrieval-Practice-Effect]]
 - [[Semantic-Memory]]
 - [[Sensory-Memory]]
 - [[Short-Term-Memory]]
 - [[Synaptic-Consolidation]]
 - [[Systems-Consolidation]]
-- [[Testing-Effect-Retrieval-Practice-Effect]]
 - [[Visuospatial-Sketchpad]]
 - [[Working-Memory]]

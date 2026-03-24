@@ -35,7 +35,7 @@ Aliases: [[Expertise Development]], [[Cognitive Mastery]], [[Advanced Andragogy]
 
   * **[TOPIC]:** A Developmental Examination of Cognitive Skill Acquisition
   * **[DEPTH]:** Encyclopedic Analysis & Synthesis
-  * **[LINKS]:** [[Cognitive-Psychology]], [[Andragogy]], [[Deliberate-Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical-Thinking]], [[Divergent Thinking]]
+  * **[LINKS]:** [[cognitive-psychology]], [[Andragogy]], [[Deliberate-Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical-Thinking]], [[Divergent Thinking]]
 
 ### 2\. Phase 1: Overture (The "Why & What")
 

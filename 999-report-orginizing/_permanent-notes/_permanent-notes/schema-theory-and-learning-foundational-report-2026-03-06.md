@@ -23,41 +23,66 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 31
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
-  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
-  - "[[_Master-Reference-Index|_Master-Reference-Index]]"
+  - "[[Accommodation]]"
+  - "[[Accretion,-Tuning,-Restructuring]]"
+  - "[[Conceptual-Change]]"
+  - "[[Construction-Activation-Asymmetry]]"
+  - "[[Construction-Problem]]"
+  - "[[Crystallization-Threshold]]"
+  - "[[Cultural-Neutrality-Assumption]]"
+  - "[[Embodied-Cognition]]"
+  - "[[Equilibration]]"
+  - "[[Expert-Blind-Spot]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: high
 ---
 
 # schema-theory-and-learning-foundational-report-2026-03-06
 
 > [!definition] **schema-theory-and-learning-foundational-report-2026-03-06**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 31 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 31 permanent notes.*
 
 ## Referenced By
 
-- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
-- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
-- [[_Master-Reference-Index|_Master-Reference-Index]]
+- [[Accommodation]]
+- [[Accretion,-Tuning,-Restructuring]]
+- [[Conceptual-Change]]
+- [[Construction-Activation-Asymmetry]]
+- [[Construction-Problem]]
+- [[Crystallization-Threshold]]
+- [[Cultural-Neutrality-Assumption]]
+- [[Embodied-Cognition]]
+- [[Equilibration]]
+- [[Expert-Blind-Spot]]
+- [[Frederic-Bartlett]]
+- [[Reconstructive-Memory]]
+- [[Restructuring]]
+- [[Schema-Attractor]]
+- [[Schema-Construction]]
+- [[Schema-Crystallization-Event]]
+- [[Schemas-as-Soft-Cognitive-Attractors]]
+- [[Situated-Cognition]]
+- [[Slot-Default-Value]]
+- [[Structural-Analogue]]
+- *...and 11 more permanent notes*

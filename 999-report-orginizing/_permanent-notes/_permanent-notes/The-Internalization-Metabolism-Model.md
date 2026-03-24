@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,6 +42,7 @@ updated: 2026-03-22
 source-type: report-extraction
 source-reports:
   - "self-determination-theory-focused-analysis-2026-03-19"
+  - "self-determination-theory-focused-analysis-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -75,6 +76,14 @@ see-also:
   - "[[Integrated-Regulation]]"
   - "[[Intrinsic-Motivation]]"
   - "[[Basic-Psychological-Needs]]"
+  - "[[Self-Determination-Theory|Self-Determination-Theory]]"
+  - "[[Amotivation|Amotivation]]"
+  - "[[External-Regulation|External-Regulation]]"
+  - "[[Introjected-Regulation|Introjected-Regulation]]"
+  - "[[Identified-Regulation|Identified-Regulation]]"
+  - "[[Integrated-Regulation|Integrated-Regulation]]"
+  - "[[Intrinsic-Motivation|Intrinsic-Motivation]]"
+  - "[[Basic-Psychological-Needs|Basic-Psychological-Needs]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -132,6 +141,14 @@ importance: high
 > [!warning] **Key Distinction**
 > If a student has come from a need-thwarting environment, a merely need-neutral environment will not produce recovery. The asymmetry between frustration and satisfaction means that need-supportive environments are required — actively providing competence support, unconditional relatedness, and autonomy experiences — rather than merely removing the need-thwarting conditions. This has significant implications for differentiated classroom design: students with different need-support histories…
 
+## Conceptual Tensions
+
+> [!tension] **The Conditional Regard Paradox in Educational Practice**
+> Most educational quality assurance systems that invoke SDT argue for autonomy-supportive environments and intrinsic motivation. Yet most of these same systems use evaluative practices — grading, ranking, competitive assessment — that structurally resemble conditional regard. The tension is genuine: an educational environment cannot simultaneously communicate that students are valued unconditionally as persons *and* that their academic worth is determined by performance on graded assessments. SDT does not resolve this tension; it sharpens it. The practical implication — that meaningful…
+
+> [!tension] **The Self-Continuity Trap in Introjection**
+> SDT implies that introjected regulation can be released through the provision of unconditional regard and autonomy support — and this is empirically supported in intervention studies. But there is a deeper philosophical tension: for many people, the introjected regulation has been operating so long that it is now part of how they *understand themselves*. The student who has always worked hard out of fear of shame may experience that drive as their identity. Releasing the introjection would require not merely removing the conditional regard structure but reorganizing a self-concept that has…
+
 ## Reflection Prompts
 
 > [!reflection] **Reflect**
@@ -152,3 +169,52 @@ importance: high
 
 **Related concepts:**
 [[Self-Determination-Theory]] · [[Amotivation]] · [[External-Regulation]] · [[Introjected-Regulation]] · [[Identified-Regulation]] · [[Integrated-Regulation]] · [[Intrinsic-Motivation]] · [[Basic-Psychological-Needs]] · [[Internalization]] · [[Organismic-Integration-Theory]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Basic-Psychological-Needs]] · [[Self-Determination-Theory]] · [[SDT's-Regulatory-Continuum]]
+
+**Related concepts** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
+[[Perceived-Internal-Locus-of-Causality|Perceived-Internal-Locus-of-Causality]] * [[Self-Determination|Self-Determination]] * [[Self-Esteem|Self-Esteem]] * [[Autonomous-Motivation-vs.-Controlled-Motivation|Autonomous-Motivation-vs.-Controlled-Motivation]] * [[Autonomous-Motivation|Autonomous-Motivation]] * [[Controlled-Motivation|Controlled-Motivation]] * [[Autonomy-Need|Autonomy-Need]] * [[Competence-Need|Competence-Need]] * [[Relatedness-Need|Relatedness-Need]] * [[Contingent-Self-Worth|Contingent-Self-Worth]] * [[Ego-Involvement|Ego-Involvement]] * [[Conditional-Positive-Regard|Conditional-Positive-Regard]] * [[Need-Frustration|Need-Frustration]] * [[Undermining-Effect|Undermining-Effect]] * [[Overjustification-Effect|Overjustification-Effect]]
+
+**Cross-report connections** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
+- [[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Identity-Based-Habits|Identity-Based-Habits]]
+
+**Cross-report connections** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
+- [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]]
+
+
+
+
+## References
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report**
+> This report draws on the published empirical and theoretical SDT literature from 1971–2025, with particular emphasis on OIT-specific research (Deci et al., 1994; Ryan, 1982), need frustration research (Bartholomew et al., 2011), and conditional regard research (Roth et al., 2009). Empirical claims are grounded in specific studies or meta-analyses. Theoretical integrations — particularly the three-phase internalization mechanism and the dual pathway account — represent synthesized readings of the literature rather than direct claims by the original theorists. Original contributions in this…
+
+---
+
+## Source Attribution
+
+**Extracted from:** [[self-determination-theory-focused-analysis-2026-03-19]]
+**Report ID:** `self-determination-theory-focused-analysis-2026-03-19`

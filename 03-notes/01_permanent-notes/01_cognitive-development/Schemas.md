@@ -24,7 +24,7 @@ link-related:
   - "[[Constructivist Epistemology]]"
   - "[[Constructivist Learning]]"
   - "[[Metacognition]]"
-  - "[[Pedagogy]]"
+  - "[[pedagogy]]"
   - "[[Heutagogy]]"
   - "[[Andragogy]]"
   - "[[Self-Behavioral Management]]"

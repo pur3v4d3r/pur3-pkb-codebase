@@ -289,7 +289,7 @@ See [[00-PKM-PKB-Framework-Series-MOC]] for the complete annotated registry.
 
 | Discipline | Primary Contributions | Key Researchers |
 |-----------|----------------------|-----------------|
-| [[Cognitive-Psychology]] | Schema Theory, CLT, Memory Systems | Bartlett, Sweller, Baddeley |
+| [[cognitive-psychology]] | Schema Theory, CLT, Memory Systems | Bartlett, Sweller, Baddeley |
 | [[Educational-Psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
 | [[Educational-Philosophy]] | Constructivism, Pragmatism, Inquiry | Piaget, Dewey, Vygotsky |
 | [[Memory Science]] | Testing Effect, Spacing, Desirable Difficulties | Bjork, Roediger, Dunlosky |

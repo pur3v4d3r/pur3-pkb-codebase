@@ -98,7 +98,7 @@ Epistemic vigilance represents the cognitive machinery that evolved to help huma
 - [[Open-Mindedness]]
 - [[Intellectual Virtue Ethics]]
 - [[Source Credibility Assessment]]
-- [[Warranted-Assertibility]]
+- [[warranted-assertibility]]
 **Analogical Potential**:
 Epistemic vigilance as an "intellectual immune system"—just as your body must distinguish helpful bacteria from pathogens without attacking everything, your mind must calibrate trust in information sources without becoming either gullible or pathologically skeptical.
 **Prerequisite Knowledge**:

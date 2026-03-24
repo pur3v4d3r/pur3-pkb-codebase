@@ -454,7 +454,7 @@ extraction_summary:
 - [[Conceptual Understanding]]
 - [[Concrete Examples]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Counterfactual Reasoning]]
+- [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
@@ -531,7 +531,7 @@ extraction_summary:
 | 33 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Inductive Reasoning in the Classroom | 427 |
 | 34 | [[Analogical-Reasoning|Analogical Reasoning]] | analogical reasoning | — | Limitations of Current Understanding | 448 |
 | 35 | [[Causal Reasoning]] | causal reasoning | — | Limitations of Current Understanding | 448 |
-| 36 | [[Counterfactual Reasoning]] | counterfactual reasoning | — | Limitations of Current Understanding | 448 |
+| 36 | [[Counterfactual-Reasoning|Counterfactual Reasoning]] | counterfactual reasoning | — | Limitations of Current Understanding | 448 |
 | 37 | [[Probabilistic Reasoning]] | probabilistic reasoning | — | Limitations of Current Understanding | 448 |
 | 38 | [[WEIRD]] | — | — | Limitations of Current Understanding | 448 |
 | 39 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | Peirce's | — | The Emergent Picture | 463 |
@@ -572,7 +572,7 @@ extraction_summary:
 - [[Conceptual Understanding]]
 - [[Concrete Examples]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Counterfactual Reasoning]]
+- [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
@@ -646,7 +646,7 @@ extraction_summary:
 - [[Argument-Analysis|Argument Analysis]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Socratic Seminars]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]
 
 #### Contrasts With
 

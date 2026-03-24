@@ -196,7 +196,7 @@ Aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 - [[Priority Management]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]
 - [[GTD Workflow]]
-- [[Dashboard Design]]
+- [[Dashboard-Design]]
 - [[Query Performance]]
 
 **Callout Strategy:**
@@ -714,7 +714,7 @@ dv.taskList(tasks);
 > 
 > **What it does:** Generates a statistical summary of vault-wide task status
 > 
-> **Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
+> **Use case:** [[Dashboard-Design]] / productivity analytics / [[Query Performance]] monitoring
 
 ### Pattern 4: Dynamic Time-Blocked Schedule
 

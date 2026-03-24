@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,14 +72,6 @@ see-also:
   - "[[Bounded-Contexts|Bounded Contexts]]"
   - "[[Message-Queues|Message Queues]]"
   - "[[MapReduce]]"
-  - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
-  - "[[Claude-Opus-4|Claude Opus 4]]"
-  - "[[Claude-Sonnet-4|Claude Sonnet 4]]"
-  - "[[Skills|Skills]]"
-  - "[[Microservices-Architecture|Microservices Architecture]]"
-  - "[[Bounded-Contexts|Bounded Contexts]]"
-  - "[[Message-Queues|Message Queues]]"
-  - "[[MapReduce|MapReduce]]"
   - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
   - "[[Claude-Opus-4|Claude Opus 4]]"
   - "[[Claude-Sonnet-4|Claude Sonnet 4]]"
@@ -199,25 +191,20 @@ importance: medium
 - [[YAML-Syntax|YAML Syntax]]
 - [[MCP-Servers|MCP Servers]]
 
-**Related concepts** *(from multi-agent-systems-with-claude-code.md)*:
-[[Claude-Opus-4|Claude Opus 4]] * [[Claude-Sonnet-4|Claude Sonnet 4]] * [[Microservices-Architecture|Microservices Architecture]] * [[Bounded-Contexts|Bounded Contexts]] * [[Message-Queues|Message Queues]] * [[Event-Driven-Architecture|Event-Driven Architecture]] * [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] * [[Conway's-Law|Conway's Law]] * [[Agile-Standups|Agile Standups]] * [[Principle-of-Least-Privilege|Principle of Least Privilege]] * [[Cognitive-Load|Cognitive Load]] * [[Expertise-Theory|Expertise Theory]] * [[Working-Memory|Working Memory]] * [[Claude-Code-Basics|Claude Code Basics]] * [[CLAUDE.md-Files|CLAUDE.md Files]]
-
-**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
 
 
 
+## Methodology Notes
 
+> [!methodology-and-sources] **Frontmatter Field Semantics**
+> **`name`** (required): Identifier for explicit invocation ("Use the code-reviewer agent..."). Should be hyphenated lowercase.
+> 
+> **`description`** (required): [**Description-Field-Purpose**:: Natural language explanation of when this agent should be invoked; Claude analyzes this field during automatic delegation to match agent capabilities with task requirements.]^verified-stable This is the most critical field for automatic routing. Include terms like "use PROACTIVELY" or "MUST BE USED" to boost auto-activation.
+> 
+> **`tools`** (optional): [**Tool-Restriction-Pattern**:: Comma-separated list of…
 
+---
 
+## Source Attribution
+
+**Extracted from:** [[multi-agent-systems-with-claude-code]]

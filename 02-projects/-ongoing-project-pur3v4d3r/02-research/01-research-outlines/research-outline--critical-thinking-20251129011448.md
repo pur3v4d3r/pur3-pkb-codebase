@@ -1904,7 +1904,7 @@ This plan is a **living document**. Adapt based on:
 3. **[[Cognitive Science of Reasoning]]**
    - *Connection*: Scientific understanding of reasoning mechanisms underlying CT (dual-process theory, mental models, etc.)
    - *Depth Potential*: Empirical research on how humans actually reason vs how we ought to reason; neuroscience of executive function
-   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[Cognitive-Psychology]], [[Neuroscience]], [[Behavioral Economics]]
+   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[cognitive-psychology]], [[Neuroscience]], [[Behavioral Economics]]
 
 4. **[[Rhetoric and Persuasion]]**
    - *Connection*: Complements CT's analytical focus with understanding of how arguments are constructed to persuade

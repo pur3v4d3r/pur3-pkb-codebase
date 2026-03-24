@@ -174,7 +174,7 @@ extraction_summary:
 #### 7. [DEFINITION] Epistemic Calibration *(Line 309)*
 
 > [!definition] Epistemic Calibration
-> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[Cognitive-Psychology|cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
+> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[cognitive-psychology|cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
 
 #### 8. [REFLECTION] Deepening Your Understanding *(Line 322)*
 
@@ -462,7 +462,7 @@ extraction_summary:
 - [[Virtue-Epistemology|Virtue epistemology]]
 - [[W.V.O.-Quine|W.V.O. Quine]]
 - [[adversarial epistemology]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Critical-Thinking|critical thinking]]
 - [[Defeat-Defeater|defeater]]
@@ -477,9 +477,9 @@ extraction_summary:
 - [[Falsificationism]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[intellectual openness]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[philosophy-of-science|philosophy of science]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -491,18 +491,18 @@ extraction_summary:
 | 2 | [[Epistemic-Autonomy-—-Epistemology|epistemology]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 3 | [[philosophy-of-science|philosophy of science]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 4 | [[Critical-Thinking|critical thinking]] | — | — | Phase I: Orientation & Context Setting | 271 |
-| 5 | [[Pedagogy]] | — | — | Phase I: Orientation & Context Setting | 271 |
+| 5 | [[pedagogy]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 6 | [[Descartes]] | — | — | The Core Claim and Its Precision | 290 |
 | 7 | [[scepticism]] | — | — | The Critical Distinctions | 302 |
 | 8 | [[scepticism]] | — | — | The Critical Distinctions | 302 |
 | 9 | [[epistemic-relativism|epistemic relativism]] | — | — | The Critical Distinctions | 304 |
 | 10 | [[Epistemic-Humility|Epistemic humility]] | — | — | The Critical Distinctions | 307 |
-| 11 | [[Cognitive-Psychology|cognitive psychology]] | — | — | The Critical Distinctions | 310 |
+| 11 | [[cognitive-psychology|cognitive psychology]] | — | — | The Critical Distinctions | 310 |
 | 12 | [[Socrates]] | — | — | Historical Development | 314 |
 | 13 | [[Socratic-Method|Socratic method]] | — | — | Historical Development | 314 |
 | 14 | [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] | — | — | Historical Development | 316 |
 | 15 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Historical Development | 318 |
-| 16 | [[Pragmatism]] | — | — | Historical Development | 318 |
+| 16 | [[pragmatism]] | — | — | Historical Development | 318 |
 | 17 | [[Karl-Popper|Karl Popper]] | — | — | Historical Development | 320 |
 | 18 | [[Falsificationism]] | — | — | Historical Development | 320 |
 | 19 | [[W.V.O.-Quine|W.V.O. Quine]] | — | — | Historical Development | 320 |
@@ -594,7 +594,7 @@ extraction_summary:
 - [[Virtue-Epistemology|Virtue epistemology]]
 - [[W.V.O.-Quine|W.V.O. Quine]]
 - [[adversarial epistemology]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Critical-Thinking|critical thinking]]
 - [[Defeat-Defeater|defeater]]
@@ -609,9 +609,9 @@ extraction_summary:
 - [[Falsificationism]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[intellectual openness]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[philosophy-of-science|philosophy of science]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -627,7 +627,7 @@ extraction_summary:
 
 - [[Critical-Thinking|Critical Thinking]]
 - [[philosophy-of-science|Philosophy of Science]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Reliabilism]]
 - [[Contextualism — Epistemological]]

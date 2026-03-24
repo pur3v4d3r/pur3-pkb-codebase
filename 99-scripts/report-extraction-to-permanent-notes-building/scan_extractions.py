@@ -37,6 +37,14 @@ from config import (
     WARNING_CALLOUTS,
     EXPANSION_CALLOUTS,
     REFLECTION_CALLOUTS,
+    FLASHCARD_CALLOUTS,
+    PERSON_CALLOUTS,
+    TENSION_CALLOUTS,
+    OPEN_QUESTION_CALLOUTS,
+    PROTOCOL_CALLOUTS,
+    DIAGRAM_CALLOUTS,
+    CITATION_CALLOUTS,
+    METHODOLOGY_CALLOUTS,
     MAX_EVIDENCE_PER_NOTE,
     MAX_INSIGHTS_PER_NOTE,
     MAX_CONNECTIONS_PER_NOTE,
@@ -44,6 +52,14 @@ from config import (
     MAX_WARNINGS_PER_NOTE,
     MAX_EXPANSION_TOPICS,
     MAX_REFLECTIONS_PER_NOTE,
+    MAX_FLASHCARDS_PER_NOTE,
+    MAX_PERSONS_PER_NOTE,
+    MAX_TENSIONS_PER_NOTE,
+    MAX_OPEN_QUESTIONS_PER_NOTE,
+    MAX_PROTOCOLS_PER_NOTE,
+    MAX_DIAGRAMS_PER_NOTE,
+    MAX_CITATIONS_PER_NOTE,
+    MAX_METHODOLOGY_PER_NOTE,
 )
 from report_parser import (
     NoteCandidate,
@@ -53,6 +69,7 @@ from report_parser import (
     parse_definition_title,
     parse_synthesis_title,
     parse_framework_profile_title,
+    _parse_flashcard,
 )
 
 
@@ -134,6 +151,30 @@ def _collect_supporting(callouts: list[dict], types: list[str], limit: int) -> l
     return results
 
 
+def _collect_structured(
+    callouts: list[dict],
+    types: list[str],
+    limit: int,
+    parser=None,
+) -> list[dict]:
+    """Collect structured dicts from callouts of specified types.
+
+    If a parser function is provided, it receives (title, body) and returns a dict.
+    Otherwise, a default dict with title and body is produced.
+    """
+    results = []
+    for c in callouts:
+        if c.get("type", "").lower() in types and len(results) < limit:
+            title = c.get("title", "").strip()
+            body = c.get("body", "").strip()
+            if body:
+                if parser:
+                    results.append(parser(title, body))
+                else:
+                    results.append({"title": title, "body": body})
+    return results
+
+
 def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], list[str]]:
     """
     Parse a single JSON extraction file and return note candidates.
@@ -198,6 +239,16 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
 
     # Collect reflection prompts
     reflections = _collect_supporting(callouts, REFLECTION_CALLOUTS, MAX_REFLECTIONS_PER_NOTE)
+
+    # Enhanced content types (v2.1)
+    flashcards = _collect_structured(callouts, FLASHCARD_CALLOUTS, MAX_FLASHCARDS_PER_NOTE, _parse_flashcard)
+    persons = _collect_structured(callouts, PERSON_CALLOUTS, MAX_PERSONS_PER_NOTE)
+    tensions = _collect_structured(callouts, TENSION_CALLOUTS, MAX_TENSIONS_PER_NOTE)
+    open_questions = _collect_structured(callouts, OPEN_QUESTION_CALLOUTS, MAX_OPEN_QUESTIONS_PER_NOTE)
+    protocols = _collect_structured(callouts, PROTOCOL_CALLOUTS, MAX_PROTOCOLS_PER_NOTE)
+    diagrams = _collect_structured(callouts, DIAGRAM_CALLOUTS, MAX_DIAGRAMS_PER_NOTE)
+    citations = _collect_structured(callouts, CITATION_CALLOUTS, MAX_CITATIONS_PER_NOTE)
+    methodology_items = _collect_structured(callouts, METHODOLOGY_CALLOUTS, MAX_METHODOLOGY_PER_NOTE)
 
     # Process note-generating callouts
     for callout in callouts:
@@ -279,6 +330,15 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
             expansion_topics=expansion_topics,
             wiki_links=wiki_links,
             reflections=reflections,
+            # Enhanced content (v2.1)
+            flashcards=flashcards,
+            persons=persons,
+            tensions=tensions,
+            open_questions=open_questions,
+            protocols=protocols,
+            diagrams=diagrams,
+            citations=citations,
+            methodology=methodology_items,
         )
         candidates.append(candidate)
 

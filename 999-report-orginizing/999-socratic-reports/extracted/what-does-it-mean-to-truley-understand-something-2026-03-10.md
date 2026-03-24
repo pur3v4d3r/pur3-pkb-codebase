@@ -145,7 +145,7 @@ keywords:
 **💭 Respondent:** Yes, that's roughly it. Though I'd add that it's not just *any* explanation — it has to be accurate, and the person explaining has to be able to field follow-up questions. Genuine understanding is robust; it doesn't collapse when probed.
 
 > [!insight] **Analytical Interlude: The Stage Is Set**
-> The Respondent has committed to a specific, well-articulated thesis: **understanding = the capacity to explain clearly and robustly**. This is not a naive position. It has genuine intellectual pedigree — Feynman deployed a version of it as a personal learning heuristic, and it has been widely adopted in [[Pedagogy]] as the "teach-back" method. The Respondent has also added an important refinement: the explanation must survive follow-up, making the test dynamic rather than static.
+> The Respondent has committed to a specific, well-articulated thesis: **understanding = the capacity to explain clearly and robustly**. This is not a naive position. It has genuine intellectual pedigree — Feynman deployed a version of it as a personal learning heuristic, and it has been widely adopted in [[pedagogy]] as the "teach-back" method. The Respondent has also added an important refinement: the explanation must survive follow-up, making the test dynamic rather than static.
 >
 > This thesis now has a precise shape that can be examined. Three questions lurk beneath it, and the dialogue will surface them in sequence: (1) Can you explain something *without* genuinely understanding it? (2) Can you genuinely understand something *without* being able to explain it? (3) Even if explanation tracks understanding some of the time, does it identify *where* understanding ends and deeper understanding begins? The Questioner will approach these in order.
 
@@ -226,7 +226,7 @@ keywords:
 
 **🔍 Questioner:** Agreed. But then we have a problem. If the explanation-test only covers *one kind* of understanding, it cannot be the criterion for understanding in general. And here's what troubles me further: consider someone who understands a conceptual domain at the explanatory level — they can explain the mechanism — but they cannot use the knowledge in practice. The physics student who can recite Maxwell's equations and explain electromagnetic theory fluently, but who cannot solve a novel electromagnetic problem without extensive guidance. Have they truly understood [[electromagnetism]]?
 
-**💭 Respondent:** That's the classic distinction between declarative and procedural knowledge in [[Cognitive-Psychology|cognitive psychology]]. I'd want to say... they've *partially* understood. They have the conceptual map, but they haven't integrated it with the practice.
+**💭 Respondent:** That's the classic distinction between declarative and procedural knowledge in [[cognitive-psychology|cognitive psychology]]. I'd want to say... they've *partially* understood. They have the conceptual map, but they haven't integrated it with the practice.
 
 **🔍 Questioner:** So now we have understanding that is partial in three ways: incomplete in its contextual situatedness, incomplete in its generativity, and incomplete in its integration with practical use. The explanation-test, even when fully passed, can be passed in the presence of all three forms of partial understanding?
 

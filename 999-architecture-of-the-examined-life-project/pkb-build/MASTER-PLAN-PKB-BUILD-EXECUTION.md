@@ -1977,14 +1977,14 @@ accessibility-level: introductory
 
 | # | Report | The Key Question |
 |---|--------|-----------------|
-| 01 | [[Report-01-The-Inquiry-Engine]] | What sparks genuine thinking? |
-| 02 | [[Report-02-The-Fallible-Knower]] | How should we hold our beliefs? |
-| 03 | [[Report-03-The-Motivated-Mind]] | What sustains the will to think well? |
-| 04 | [[Report-04-Cognitive-Scaffolding]] | How do we build understanding? |
-| 05 | [[Report-05-The-Virtuous-Reasoner]] | What kind of character supports good thinking? |
-| 06 | [[Report-06-Taming-System-1]] | How do we catch our own mental shortcuts? |
-| 07 | [[Report-07-The-Self-Directed-Learner]] | How do we become architects of our own learning? |
-| 08 | [[Report-08-The-Examined-Life-In-Practice]] | What does all of this look like in action? |
+| 01 | [[report-01-the-inquiry-engine]] | What sparks genuine thinking? |
+| 02 | [[report-02-the-fallible-knower]] | How should we hold our beliefs? |
+| 03 | [[report-03-the-motivated-mind]] | What sustains the will to think well? |
+| 04 | [[report-04-cognitive-scaffolding]] | How do we build understanding? |
+| 05 | [[report-05-the-virtuous-reasoner]] | What kind of character supports good thinking? |
+| 06 | [[report-06-taming-system-1]] | How do we catch our own mental shortcuts? |
+| 07 | [[report-07-the-self-directed-learner]] | How do we become architects of our own learning? |
+| 08 | [[report-08-the-examined-life-in-practice]] | What does all of this look like in action? |
 
 ### Tier 2: Learning to Live Well (Reports 09–12)
 > [!info] The Practical Extension
@@ -1992,9 +1992,9 @@ accessibility-level: introductory
 
 | # | Report | The Key Question |
 |---|--------|-----------------|
-| 09 | [[Report-09-The-Embodied-Thinker]] | How does our body shape our thinking? |
-| 10 | [[Report-10-The-Feeling-Reasoner]] | Are emotions enemies or allies of good thinking? |
-| 11 | [[Report-11-The-Practical-Reasoner]] | How do we make wise decisions under uncertainty? |
+| 09 | [[report-09-the-embodied-thinker]] | How does our body shape our thinking? |
+| 10 | [[report-10-the-feeling-reasoner]] | Are emotions enemies or allies of good thinking? |
+| 11 | [[report-11-the-practical-reasoner]] | How do we make wise decisions under uncertainty? |
 | 12 | [[Report-12-The-Social-Thinker]] | How does thinking together differ from thinking alone? |
 
 ### Tier 3: Putting It All Together (Reports 13–15)
@@ -2003,17 +2003,17 @@ accessibility-level: introductory
 
 | # | Report | The Key Question |
 |---|--------|-----------------|
-| 13 | [[Report-13-The-Predictive-Mind]] | What's the brain mechanism behind all of this? |
+| 13 | [[report-13-the-predictive-mind]] | What's the brain mechanism behind all of this? |
 | 14 | [[Report-14-The-Meaningful-Life]] | What is the examined life *for*? |
-| 15 | [[Report-15-The-Examined-Life-Revisited]] | What does the complete picture look like? |
+| 15 | [[report-15-the-examined-life-revisited]] | What does the complete picture look like? |
 
 ---
 
 ## 🧭 How to Navigate This PKB
 
 > [!tip] Choose Your Path
-> **Start from the beginning:** [[Report-01-The-Inquiry-Engine]] — follow the journey report by report
-> **Get the big picture first:** [[Report-15-The-Examined-Life-Revisited]] — start with the complete vision
+> **Start from the beginning:** [[report-01-the-inquiry-engine]] — follow the journey report by report
+> **Get the big picture first:** [[report-15-the-examined-life-revisited]] — start with the complete vision
 > **Look up a concept:** [[Glossary-Examined-Life-Key-Terms]] — find any term alphabetically
 > **See where you are in development:** [[Developmental-Staging-of-the-Examined-Life]] — the five stages of growth
 > **Explore connections:** Browse the Connection Notes to see how these ideas relate to familiar topics like mindfulness, CBT, or growth mindset
@@ -2084,21 +2084,21 @@ accessibility-level: introductory
 
 ### 🌟 Active Inference
 **Definition:** The process by which an organism acts on the world to confirm its predictions or reduce prediction error — choosing actions that bring the world into alignment with the brain's generative model, rather than passively updating the model.
-**Introduced in:** [[Report-13-The-Predictive-Mind]]
-**Also appears in:** [[Report-15-The-Examined-Life-Revisited]]
+**Introduced in:** [[report-13-the-predictive-mind]]
+**Also appears in:** [[report-15-the-examined-life-revisited]]
 **Related concepts:** [[#Predictive Processing]], [[#Free Energy Principle]], [[#Precision Weighting]]
 **Everyday example:** When you tidy your desk before starting work, you're engaging in active inference — reshaping your environment to match your brain's prediction of what a productive workspace looks like.
 
 ### Allostasis
 **Definition:** The body's process of maintaining stability through change — adjusting physiological parameters proactively based on predicted needs rather than reactively in response to disruption.
-**Introduced in:** [[Report-09-The-Embodied-Thinker]]
+**Introduced in:** [[report-09-the-embodied-thinker]]
 **Related concepts:** [[#Interoception]], [[#Somatic Markers]], [[#Embodied Cognition]]
 **Everyday example:** Your body starting to produce stress hormones before a job interview, not because you're in danger but because it predicts the situation will demand heightened alertness.
 
 ### 🌟 Aporic Receptivity
 **Definition:** The cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty — the meta-disposition prerequisite to all genuine inquiry.
-**Introduced in:** [[Report-01-The-Inquiry-Engine]]
-**Also appears in:** [[Report-02-The-Fallible-Knower]], [[Report-08-The-Examined-Life-In-Practice]], [[Report-15-The-Examined-Life-Revisited]]
+**Introduced in:** [[report-01-the-inquiry-engine]]
+**Also appears in:** [[report-02-the-fallible-knower]], [[report-08-the-examined-life-in-practice]], [[report-15-the-examined-life-revisited]]
 **Related concepts:** [[#Felt Difficulty]], [[#Aporia]], [[#Intellectual Humility]]
 **Everyday example:** The difference between feeling confused and panicking versus feeling confused and thinking "Interesting — there's something here I don't understand yet, and that's worth exploring."
 
@@ -2143,9 +2143,9 @@ aliases:
   - "Growth Model"
 link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
 link-related:
-  - "[[Report-15-The-Examined-Life-Revisited]]"
-  - "[[Report-08-The-Examined-Life-In-Practice]]"
-  - "[[Report-07-The-Self-Directed-Learner]]"
+  - "[[report-15-the-examined-life-revisited]]"
+  - "[[report-08-the-examined-life-in-practice]]"
+  - "[[report-07-the-self-directed-learner]]"
 accessibility-level: introductory
 ---
 
@@ -2179,7 +2179,7 @@ accessibility-level: introductory
 **Practices that support growth here:**
 - [Practical suggestions]
 
-**Key reports for this stage:** [[Report-01-The-Inquiry-Engine]], [[Report-02-The-Fallible-Knower]]
+**Key reports for this stage:** [[report-01-the-inquiry-engine]], [[report-02-the-fallible-knower]]
 
 **Common misconceptions:**
 > [!warning] What This Stage Is NOT
@@ -2226,9 +2226,9 @@ accessibility-level: introductory
 
 ## Connections
 
-- [[Report-07-The-Self-Directed-Learner]] — Self-regulation as the engine of stage progression
-- [[Report-08-The-Examined-Life-In-Practice]] — What the transition from Stage 2 to Stage 4 looks like
-- [[Report-15-The-Examined-Life-Revisited]] — The full developmental model with scholarly grounding
+- [[report-07-the-self-directed-learner]] — Self-regulation as the engine of stage progression
+- [[report-08-the-examined-life-in-practice]] — What the transition from Stage 2 to Stage 4 looks like
+- [[report-15-the-examined-life-revisited]] — The full developmental model with scholarly grounding
 
 > [!nav] Navigation
 > [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | [[Glossary-Examined-Life-Key-Terms|Glossary]]
@@ -2540,7 +2540,7 @@ LIMIT 10
 
 ## Navigation Hub
 
-**Reports:** [[Report-01-The-Inquiry-Engine|01]] · [[Report-02-The-Fallible-Knower|02]] · [[Report-03-The-Motivated-Mind|03]] · [[Report-04-Cognitive-Scaffolding|04]] · [[Report-05-The-Virtuous-Reasoner|05]] · [[Report-06-Taming-System-1|06]] · [[Report-07-The-Self-Directed-Learner|07]] · [[Report-08-The-Examined-Life-In-Practice|08]] · [[Report-09-The-Embodied-Thinker|09]] · [[Report-10-The-Feeling-Reasoner|10]] · [[Report-11-The-Practical-Reasoner|11]] · [[Report-12-The-Social-Thinker|12]] · [[Report-13-The-Predictive-Mind|13]] · [[Report-14-The-Meaningful-Life|14]] · [[Report-15-The-Examined-Life-Revisited|15]]
+**Reports:** [[report-01-the-inquiry-engine|01]] · [[report-02-the-fallible-knower|02]] · [[report-03-the-motivated-mind|03]] · [[report-04-cognitive-scaffolding|04]] · [[report-05-the-virtuous-reasoner|05]] · [[report-06-taming-system-1|06]] · [[report-07-the-self-directed-learner|07]] · [[report-08-the-examined-life-in-practice|08]] · [[report-09-the-embodied-thinker|09]] · [[report-10-the-feeling-reasoner|10]] · [[report-11-the-practical-reasoner|11]] · [[Report-12-The-Social-Thinker|12]] · [[report-13-the-predictive-mind|13]] · [[Report-14-The-Meaningful-Life|14]] · [[report-15-the-examined-life-revisited|15]]
 
 **Core Resources:** [[Glossary-Examined-Life-Key-Terms|Glossary]] · [[Developmental-Staging-of-the-Examined-Life|Staging]] · [[Methodology-Research-Methods-and-Standards|Methodology]] · [[Index-The-Architecture-of-the-Examined-Life|Index]]
 
@@ -2872,19 +2872,19 @@ key-researchers:
 synthesis-type: emergent-insight
 emergent-insight: "The examined life is a mode of being — Integrated Cognitive Personhood — not a toolkit, constituting a coherent orientation toward experience that integrates all fifteen dimensions into what the person IS."
 builds-from:
-  - "[[Report-01-The-Inquiry-Engine]]"
-  - "[[Report-02-The-Fallible-Knower]]"
-  - "[[Report-03-The-Motivated-Mind]]"
-  - "[[Report-04-Cognitive-Scaffolding]]"
-  - "[[Report-05-The-Virtuous-Reasoner]]"
-  - "[[Report-06-Taming-System-1]]"
-  - "[[Report-07-The-Self-Directed-Learner]]"
-  - "[[Report-08-The-Examined-Life-In-Practice]]"
-  - "[[Report-09-The-Embodied-Thinker]]"
-  - "[[Report-10-The-Feeling-Reasoner]]"
-  - "[[Report-11-The-Practical-Reasoner]]"
+  - "[[report-01-the-inquiry-engine]]"
+  - "[[report-02-the-fallible-knower]]"
+  - "[[report-03-the-motivated-mind]]"
+  - "[[report-04-cognitive-scaffolding]]"
+  - "[[report-05-the-virtuous-reasoner]]"
+  - "[[report-06-taming-system-1]]"
+  - "[[report-07-the-self-directed-learner]]"
+  - "[[report-08-the-examined-life-in-practice]]"
+  - "[[report-09-the-embodied-thinker]]"
+  - "[[report-10-the-feeling-reasoner]]"
+  - "[[report-11-the-practical-reasoner]]"
   - "[[Report-12-The-Social-Thinker]]"
-  - "[[Report-13-The-Predictive-Mind]]"
+  - "[[report-13-the-predictive-mind]]"
   - "[[Report-14-The-Meaningful-Life]]"
 enables: []
 worked-example-domain: "dual — epistemic challenge + practical life challenge"
@@ -2907,8 +2907,8 @@ link-related:
   - "[[Methodology-Research-Methods-and-Standards]]"
 accessibility-level: intermediate
 prerequisite-notes:
-  - "[[Report-08-The-Examined-Life-In-Practice]]"
-  - "[[Report-13-The-Predictive-Mind]]"
+  - "[[report-08-the-examined-life-in-practice]]"
+  - "[[report-13-the-predictive-mind]]"
   - "[[Report-14-The-Meaningful-Life]]"
 ---
 
@@ -3066,7 +3066,7 @@ For the complete model with self-assessment indicators and growth practices, see
 > [!nav] Navigation
 > ← Previous: [[Report-14-The-Meaningful-Life]] | [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
 > **This is the final report in the series.**
-> **Tier 3:** [[Report-13-The-Predictive-Mind]] · [[Report-14-The-Meaningful-Life]] · Report 15 (this note)
+> **Tier 3:** [[report-13-the-predictive-mind]] · [[Report-14-The-Meaningful-Life]] · Report 15 (this note)
 ````
 
 ---
@@ -3125,28 +3125,28 @@ WHERE type = "glossary"
 
 ### Active Inference
 **Definition:** The brain's strategy of not just passively updating its predictions based on incoming data, but actively moving through the world to sample information that will confirm or update its models. You don't just wait to be surprised — you seek out information.
-**Introduced in:** [[Report-13-The-Predictive-Mind]]
-**Also appears in:** [[Report-09-The-Embodied-Thinker]], [[Report-15-The-Examined-Life-Revisited]]
+**Introduced in:** [[report-13-the-predictive-mind]]
+**Also appears in:** [[report-09-the-embodied-thinker]], [[report-15-the-examined-life-revisited]]
 **Related concepts:** [[#Predictive Processing]], [[#Free Energy Principle]], [[#Precision Weighting]]
 **Everyday example:** When you hear an unexpected noise downstairs at night, you don't just lie there updating your predictions — you go investigate. That's active inference: acting on the world to reduce your uncertainty.
 
 ### Allostasis
 **Definition:** The body's process of maintaining stability through change — anticipating the body's needs and adjusting physiological systems proactively rather than just reacting to disruptions after they occur.
-**Introduced in:** [[Report-09-The-Embodied-Thinker]]
+**Introduced in:** [[report-09-the-embodied-thinker]]
 **Related concepts:** [[#Interoception]], [[#Somatic Markers]], [[#Embodied Cognition]]
 **Everyday example:** Your body starts releasing cortisol before your alarm goes off because it has learned your schedule — it's preparing you for waking up before you actually need to be awake.
 
 ### Aporia
 **Definition:** A state of intellectual impasse — knowing that your previous confident belief was unjustified, without yet having a replacement. The Greek word literally means "without a path." In the Socratic tradition, this state of productive uncertainty is the beginning of genuine learning, not its failure.
-**Introduced in:** [[Report-01-The-Inquiry-Engine]]
-**Also appears in:** [[Report-02-The-Fallible-Knower]], [[Report-08-The-Examined-Life-In-Practice]]
+**Introduced in:** [[report-01-the-inquiry-engine]]
+**Also appears in:** [[report-02-the-fallible-knower]], [[report-08-the-examined-life-in-practice]]
 **Related concepts:** [[#Felt Difficulty]], [[#Elenchus]], [[#Aporic Receptivity]]
 **Everyday example:** That disorienting moment when you realize the political position you've confidently held for years has a serious flaw you hadn't noticed — and you don't yet know what to think instead. That uncomfortable between-beliefs state is aporia.
 
 ### Aporic Receptivity
 **Definition:** The cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty. The meta-disposition that makes all genuine inquiry possible — being willing to sit with "I don't know" rather than rushing to premature closure.
-**Introduced in:** [[Report-01-The-Inquiry-Engine]] (emergent insight)
-**Also appears in:** [[Report-02-The-Fallible-Knower]], [[Report-05-The-Virtuous-Reasoner]]
+**Introduced in:** [[report-01-the-inquiry-engine]] (emergent insight)
+**Also appears in:** [[report-02-the-fallible-knower]], [[report-05-the-virtuous-reasoner]]
 **Related concepts:** [[#Aporia]], [[#Epistemic Humility]], [[#Fallibilism]]
 **Everyday example:** When someone challenges your view and your first impulse is defensiveness — aporic receptivity is the capacity to override that impulse and genuinely consider whether they might be right.
 
@@ -3204,9 +3204,9 @@ aliases:
   - "Growth Model"
 link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
 link-related:
-  - "[[Report-15-The-Examined-Life-Revisited]]"
-  - "[[Report-07-The-Self-Directed-Learner]]"
-  - "[[Report-08-The-Examined-Life-In-Practice]]"
+  - "[[report-15-the-examined-life-revisited]]"
+  - "[[report-07-the-self-directed-learner]]"
+  - "[[report-08-the-examined-life-in-practice]]"
 accessibility-level: introductory
 ---
 
@@ -3242,8 +3242,8 @@ accessibility-level: introductory
 
 ### How This Connects to the Series
 [Links to specific reports that are most relevant at this stage]
-- [[Report-01-The-Inquiry-Engine]] — Understanding how genuine inquiry gets activated
-- [[Report-02-The-Fallible-Knower]] — Learning to hold beliefs honestly
+- [[report-01-the-inquiry-engine]] — Understanding how genuine inquiry gets activated
+- [[report-02-the-fallible-knower]] — Learning to hold beliefs honestly
 
 ### Common Misconceptions
 [Things people get wrong about this stage — e.g., "It means I'm stupid" → No, it means you're paying attention]
@@ -3288,7 +3288,7 @@ accessibility-level: introductory
 ---
 
 > [!nav] Navigation
-> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | [[Report-15-The-Examined-Life-Revisited|See the Full Capstone Synthesis]]
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | [[report-15-the-examined-life-revisited|See the Full Capstone Synthesis]]
 ````
 
 ---

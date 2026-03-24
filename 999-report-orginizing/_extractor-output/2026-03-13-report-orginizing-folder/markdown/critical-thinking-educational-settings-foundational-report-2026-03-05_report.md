@@ -412,7 +412,7 @@ extraction_summary:
 #### 50. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 572)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Socratic Seminars — Design and Facilitation]]
+> > [!topic-idea] [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]
 > > This expansion report would provide a comprehensive treatment of Socratic seminars as a CT pedagogical practice — covering the design of opening texts, the structure of pre-seminar student preparation, facilitator moves during discussion, and assessment approaches. It would address the most common implementation failures (teacher dominance, avoidance of genuine disagreement, confusion between discussion and dialogue) and provide evidence-based protocols for productive seminar design at different educational levels. Priority: High — the Socratic method is the oldest and most theoretically grounded CT pedagogy, deserving dedicated treatment.
 > 
 > > [!topic-idea] [[Assessment of Critical Thinking — Tools and Methods]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[Philosophy for Children (P4C) — Lipman's Programme]]
 - [[Robert-Ennis|Robert Ennis]]
 - [[Socratic-Method|Socratic Method]]
-- [[Socratic Seminars — Design and Facilitation]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]
 - [[Tim-van-Gelder|Tim van Gelder]]
 - [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]]
 - [[Working-Memory|Working memory]]
@@ -498,7 +498,7 @@ extraction_summary:
 | 22 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | The "So What?" — What This Understand... | 477 |
 | 23 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | The "So What?" — What This Understand... | 479 |
 | 24 | [[Socratic-Method|Socratic Method]] | — | — | The "So What?" — What This Understand... | 481 |
-| 25 | [[Socratic Seminars — Design and Facilitation]] | — | — | D. Expansion Topics | 574 |
+| 25 | [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]] | — | — | D. Expansion Topics | 574 |
 | 26 | [[Assessment of Critical Thinking — Tools and Methods]] | — | — | D. Expansion Topics | 577 |
 | 27 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | D. Expansion Topics | 580 |
 | 28 | [[Argument Mapping — Theory and Practice]] | — | — | D. Expansion Topics | 583 |
@@ -537,7 +537,7 @@ extraction_summary:
 - [[Philosophy for Children (P4C) — Lipman's Programme]]
 - [[Robert-Ennis|Robert Ennis]]
 - [[Socratic-Method|Socratic Method]]
-- [[Socratic Seminars — Design and Facilitation]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]
 - [[Tim-van-Gelder|Tim van Gelder]]
 - [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]]
 - [[Working-Memory|Working memory]]
@@ -568,7 +568,7 @@ extraction_summary:
 #### Narrower
 
 - [[Argument-Mapping|Argument Mapping]]
-- [[Socratic Seminars]]
+- [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]
 - [[Case-Based Reasoning in Education]]
 
 #### See Also

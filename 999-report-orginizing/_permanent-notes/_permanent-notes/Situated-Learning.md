@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Situated Learning"
+title: "Situated-Learning"
 aliases:
-  - "Situated Learning"
+  - "Situated-Learning"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,30 +23,30 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 22
+referenced-by-count: 28
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activity-Object]]"
-  - "[[Activity-System]]"
-  - "[[Affordance]]"
-  - "[[Conditionalized-Knowledge]]"
-  - "[[Constructivist-Learning-Environment]]"
-  - "[[Contextual-Bridging-Architecture]]"
-  - "[[Environment-as-Third-Teacher]]"
-  - "[[Epistemic-Actions]]"
-  - "[[Epistemic-Affordances]]"
-  - "[[Ill-Structured-Problems]]"
+  - "[[Calibration-Dependency]]"
+  - "[[Cognitive-Transparency-Assumption]]"
+  - "[[Conceptual-Change]]"
+  - "[[Construction-Problem]]"
+  - "[[Context-Regulation]]"
+  - "[[Cultural-Neutrality-Assumption]]"
+  - "[[Defensive-Inference]]"
+  - "[[Distributed-Regulation]]"
+  - "[[Embodied-Cognition]]"
+  - "[[Expert-Blind-Spot]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -56,33 +56,33 @@ mastery-stage: seedling
 importance: high
 ---
 
-# Situated Learning
+# Situated-Learning
 
-> [!definition] **Situated Learning**
-> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Situated-Learning**
+> *Stub note — concept referenced by 28 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 22 permanent notes.*
+*Auto-generated stub — referenced by 28 permanent notes.*
 
 ## Referenced By
 
-- [[Activity-Object]]
-- [[Activity-System]]
-- [[Affordance]]
-- [[Conditionalized-Knowledge]]
-- [[Constructivist-Learning-Environment]]
-- [[Contextual-Bridging-Architecture]]
-- [[Environment-as-Third-Teacher]]
-- [[Epistemic-Actions]]
-- [[Epistemic-Affordances]]
-- [[Ill-Structured-Problems]]
-- [[Learner-Journey]]
-- [[Learning-Experience-Design]]
-- [[Mindtools]]
-- [[More-Knowledgeable-Other]]
-- [[Personal-Constructed-Learning-Environment-—-PCLE]]
-- [[Preparation-for-Future-Learning]]
+- [[Calibration-Dependency]]
+- [[Cognitive-Transparency-Assumption]]
+- [[Conceptual-Change]]
+- [[Construction-Problem]]
+- [[Context-Regulation]]
+- [[Cultural-Neutrality-Assumption]]
+- [[Defensive-Inference]]
+- [[Distributed-Regulation]]
+- [[Embodied-Cognition]]
+- [[Expert-Blind-Spot]]
+- [[Frederic-Bartlett]]
+- [[Metacognitive-Accuracy]]
+- [[Monitoring-Regulation-Coupling]]
+- [[Normative-vs.-Descriptive-Model]]
+- [[Schema-Attractor]]
+- [[Schemas-as-Soft-Cognitive-Attractors]]
 - [[Situated-Cognition]]
-- [[Storage-Metaphor-for-PKB]]
-- [[Structure-Mapping-Theory]]
-- [[The-Contextual-Bridging-Architecture-CBA]]
-- *...and 2 more permanent notes*
+- [[The-Critical-Lens]]
+- [[The-Empirical-Lens]]
+- [[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]]
+- *...and 8 more permanent notes*

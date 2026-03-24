@@ -32,7 +32,7 @@ related_concepts:
   - "[[Cognitive-Load-Theory]]"
   - "[[Schema-Theory]]"
   - "[[Self-Determination-Theory]]"
-  - "[[Pragmatism]]"
+  - "[[pragmatism]]"
   - "[[Stoic-Philosophy]]"
   - "[[Critical-Thinking]]"
   - "[[Knowledge Organization]]"
@@ -264,9 +264,9 @@ Every report draws from a core set of disciplines, using them as complementary l
 | Discipline | What It Contributes | Key Frameworks |
 |-----------|-------------------|----------------|
 | **[[Cognitive-Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process-Theory]], [[Working-Memory]], [[Cognitive-Architecture]] |
-| **[[Cognitive-Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory]], [[Cognitive-Load-Theory]], [[Encoding-Specificity]] |
+| **[[cognitive-psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory]], [[Cognitive-Load-Theory]], [[Encoding-Specificity]] |
 | **[[Educational-Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Transfer]] |
-| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
+| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
 | **[[Instructional-Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory]] |
 | **[[Learning-Experience-Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
 | **[[Knowledge-Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems]] |
@@ -1089,7 +1089,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Complete PKB structural design framework
 
 **Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise**
-- **Synthesis Focus**: How do [[Pedagogy]], [[Andragogy]], and [[Heutagogy]] — combined with [[Cognitive-Load-Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
+- **Synthesis Focus**: How do [[pedagogy]], [[Andragogy]], and [[Heutagogy]] — combined with [[Cognitive-Load-Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
 - **Disciplines**: Educational Science (pedagogy/andragogy/heutagogy), Cognitive Psychology (expertise reversal), Instructional Design (scaffolding/fading), Self-Regulated Learning
 - **PKM/PKB Design Target**: Adaptive note structures, progressive complexity, expertise-sensitive review
 
@@ -1160,7 +1160,7 @@ These reports tackle the most sophisticated integration challenges and edge case
 - **Disciplines**: Educational Science, Constructivism, Learning Experience Design, Educational Technology
 
 **Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy**
-- **Synthesis Focus**: How does the progression from [[Pedagogy]] (teacher-directed) to [[Andragogy]] (self-directed) to [[Heutagogy]] (self-determined) map onto PKB development stages, and what does each stage demand from PKB design?
+- **Synthesis Focus**: How does the progression from [[pedagogy]] (teacher-directed) to [[Andragogy]] (self-directed) to [[Heutagogy]] (self-determined) map onto PKB development stages, and what does each stage demand from PKB design?
 - **Disciplines**: Educational Science, Heutagogy (Hase & Kenyon), SDT, Self-Regulated Learning
 
 **Report 25: The Integration Problem — How Separate Notes Become Connected Understanding**

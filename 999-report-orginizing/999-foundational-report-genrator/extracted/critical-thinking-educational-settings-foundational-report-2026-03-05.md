@@ -137,7 +137,7 @@ broader:
 
 narrower:
   - "[[Argument-Mapping|Argument Mapping]]"
-  - "[[Socratic Seminars]]"
+  - "[[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]]"
   - "[[Case-Based Reasoning in Education]]"
 
 see-also:
@@ -167,7 +167,7 @@ enables:
   - "[[Ethical Reasoning and Moral Philosophy]]"
 
 expansion-topics:
-  - topic: "[[Socratic Seminars — Design and Facilitation]]"
+  - topic: "[[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]"
     description: "Detailed treatment of structured Socratic dialogue as a classroom practice, including facilitation techniques, student preparation protocols, and assessment rubrics."
     priority: "high"
   - topic: "[[Assessment of Critical Thinking — Tools and Methods]]"
@@ -571,7 +571,7 @@ And it enables intellectual humility about the limits of current knowledge — r
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Socratic Seminars — Design and Facilitation]]
+> > [!topic-idea] [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]
 > > This expansion report would provide a comprehensive treatment of Socratic seminars as a CT pedagogical practice — covering the design of opening texts, the structure of pre-seminar student preparation, facilitator moves during discussion, and assessment approaches. It would address the most common implementation failures (teacher dominance, avoidance of genuine disagreement, confusion between discussion and dialogue) and provide evidence-based protocols for productive seminar design at different educational levels. Priority: High — the Socratic method is the oldest and most theoretically grounded CT pedagogy, deserving dedicated treatment.
 >
 > > [!topic-idea] [[Assessment of Critical Thinking — Tools and Methods]]

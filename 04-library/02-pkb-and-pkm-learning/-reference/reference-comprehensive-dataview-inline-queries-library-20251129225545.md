@@ -367,7 +367,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!what-this-does]
-> Uses Dataview's date manipulation functions for period-based calculations. `som` (start of month), `eom` (end of month), and `soy` (start of year) are predefined constants. Useful for [[Dashboard Design]] and periodic review systems.
+> Uses Dataview's date manipulation functions for period-based calculations. `som` (start of month), `eom` (end of month), and `soy` (start of year) are predefined constants. Useful for [[Dashboard-Design]] and periodic review systems.
 
 ### 🕰️ Time-Since-Last-Action Tracking
 

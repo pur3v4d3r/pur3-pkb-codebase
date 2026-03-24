@@ -755,7 +755,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 2:** [[The Distinction Between Surface Knowledge and Structural Knowledge]]
->      - [[Cognitive-Psychology|Cognitive Psychology]] has established a foundational distinction between knowing *that* something is true (surface, declarative knowledge) and understanding *why* and *how* it is true in a way that allows flexible application across contexts (structural, principled knowledge). Research by [[Chi, Feltovich, and Glaser]] (1981) on expert-novice differences demonstrated that novices categorize problems by their surface features while experts categorize them by their deep structural principles. This is an atomic truth: **the brain does not automatically extract structural knowledge from repeated exposure to surface information.** Writing a note that says "the Ebbinghaus Forgetting Curve shows memory decays exponentially" is surface knowledge. Understanding *why* spaced repetition works—because of the neurological mechanisms of [[Synaptic-Consolidation|Synaptic Consolidation]] and [[Long-Term Potentiation]]—is structural knowledge that transfers to every new learning situation you will ever encounter. No filing system, no tagging taxonomy, no bidirectional link can perform the cognitive transformation from surface to structural. Only *active reasoning* can do that.
+>      - [[cognitive-psychology|Cognitive Psychology]] has established a foundational distinction between knowing *that* something is true (surface, declarative knowledge) and understanding *why* and *how* it is true in a way that allows flexible application across contexts (structural, principled knowledge). Research by [[Chi, Feltovich, and Glaser]] (1981) on expert-novice differences demonstrated that novices categorize problems by their surface features while experts categorize them by their deep structural principles. This is an atomic truth: **the brain does not automatically extract structural knowledge from repeated exposure to surface information.** Writing a note that says "the Ebbinghaus Forgetting Curve shows memory decays exponentially" is surface knowledge. Understanding *why* spaced repetition works—because of the neurological mechanisms of [[Synaptic-Consolidation|Synaptic Consolidation]] and [[Long-Term Potentiation]]—is structural knowledge that transfers to every new learning situation you will ever encounter. No filing system, no tagging taxonomy, no bidirectional link can perform the cognitive transformation from surface to structural. Only *active reasoning* can do that.
 
 #### 90. [PRINCIPLE-POINT] Untitled *(Line 821)*
 
@@ -785,7 +785,7 @@ extraction_summary:
 
 > [!key-takeaway] Key Takeaways
 > - The irreducible atomic truth of knowledge is that **memory is biological and dynamic**, governed by the $R = e^{-t/S}$ forgetting function—a tool cannot override this law, only scaffold engagement with it.
-> - [[Cognitive-Psychology|Cognitive Psychology]] establishes that **surface knowledge and structural knowledge are categorically different**, and only structural knowledge transfers. Note-taking, as commonly practiced, primarily produces surface knowledge.
+> - [[cognitive-psychology|Cognitive Psychology]] establishes that **surface knowledge and structural knowledge are categorically different**, and only structural knowledge transfers. Note-taking, as commonly practiced, primarily produces surface knowledge.
 > - [[John-Flavell|John Flavell]]'s two-component metacognition model—**knowledge of cognition** and **regulation of cognition**—represents the actual cognitive engine that any PKM system should be designed to develop.
 > - **[[Metacognitive-Calibration|Metacognitive Calibration]]** is the accuracy of self-assessment; without explicit calibration practices, any knowledge system will accumulate the illusion of understanding rather than understanding itself.
 > - The [[Transfer Problem]] means that context-specific note storage is largely insufficient for developing genuinely portable, applicable knowledge.
@@ -927,7 +927,7 @@ extraction_summary:
 - [[Chi, Feltovich, and Glaser]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory — Sweller 1988]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Collector's Fallacy]]
 - [[conditional-metacognitive-knowledge|Conditional Metacognitive Knowledge]]
@@ -1293,7 +1293,7 @@ extraction_summary:
 | 205 | [[The Ebbinghaus Forgetting Curve and Memory Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 814 |
 | 206 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 815 |
 | 207 | [[The Distinction Between Surface Knowledge and Structural Knowledge]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 818 |
-| 208 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
+| 208 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 209 | [[Chi, Feltovich, and Glaser]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 210 | [[Synaptic-Consolidation|Synaptic Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 211 | [[Long-Term Potentiation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
@@ -1310,7 +1310,7 @@ extraction_summary:
 | 222 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
 | 223 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
 | 224 | [[Robert-Bjork|Robert Bjork]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 831 |
-| 225 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 841 |
+| 225 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 841 |
 | 226 | [[John-Flavell|John Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 842 |
 | 227 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 843 |
 | 228 | [[Transfer Problem]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 844 |
@@ -1469,7 +1469,7 @@ $$
 - [[Chi, Feltovich, and Glaser]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory — Sweller 1988]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
 - [[Collector's Fallacy]]
 - [[conditional-metacognitive-knowledge|Conditional Metacognitive Knowledge]]

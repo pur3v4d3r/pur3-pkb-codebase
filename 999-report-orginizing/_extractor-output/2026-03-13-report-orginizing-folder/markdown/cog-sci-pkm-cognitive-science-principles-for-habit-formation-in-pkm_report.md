@@ -422,7 +422,7 @@ extraction_summary:
 - [[Habit-Loop|habit loop]]
 - [[hippocampal-cortical transfer]]
 - [[hippocampus]]
-- [[implementation intention]]
+- [[Implementation-Intention|implementation intention]]
 - [[knowledge economy]]
 - [[knowledge tracing]]
 - [[knowledge workers]]
@@ -528,7 +528,7 @@ extraction_summary:
 | 73 | [[pattern recognition]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
 | 74 | [[schema activation]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
 | 75 | [[hippocampal-cortical transfer]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
-| 76 | [[implementation intention]] | — | — | Implementation Intentions and Environ... | 117 |
+| 76 | [[Implementation-Intention|implementation intention]] | — | — | Implementation Intentions and Environ... | 117 |
 | 77 | [[Peter Gollwitzer]] | — | — | Implementation Intentions and Environ... | 117 |
 | 78 | [[B.J. Fogg]] | — | — | Implementation Intentions and Environ... | 126 |
 | 79 | [[digital friction]] | — | — | Implementation Intentions and Environ... | 126 |
@@ -743,7 +743,7 @@ $$
 - [[Habit-Loop|habit loop]]
 - [[hippocampal-cortical transfer]]
 - [[hippocampus]]
-- [[implementation intention]]
+- [[Implementation-Intention|implementation intention]]
 - [[knowledge economy]]
 - [[knowledge tracing]]
 - [[knowledge workers]]

@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +38,7 @@ referenced-by-count: 16
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Expertise-Reversal-Effect]]"
-  - "[[Flavell-Metacognition-Framework]]"
+  - "[[Flavell's-Metacognitive-Framework]]"
   - "[[Forethought-Phase]]"
   - "[[Goal-Orientation]]"
   - "[[MSLQ]]"
@@ -66,7 +66,7 @@ importance: medium
 ## Referenced By
 
 - [[Expertise-Reversal-Effect]]
-- [[Flavell-Metacognition-Framework]]
+- [[Flavell's-Metacognitive-Framework]]
 - [[Forethought-Phase]]
 - [[Goal-Orientation]]
 - [[MSLQ]]

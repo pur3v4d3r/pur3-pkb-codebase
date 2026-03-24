@@ -396,7 +396,7 @@ extraction_summary:
 #### 44. [CITE] Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press. *(Line 577)*
 
 > [!cite] Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
-> Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual Reasoning]].
+> Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning|Counterfactual Reasoning]].
 
 #### 45. [CITE] Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182. *(Line 580)*
 
@@ -447,9 +447,9 @@ extraction_summary:
 > [!topic-idea] [[Multimedia-Learning|Multimedia Learning]]
 > A foundational treatment of [[Richard-Mayer|Richard Mayer]]'s Cognitive Theory of Multimedia Learning as the most systematically developed instructional application of the mental models framework. The report would cover the dual-channel assumption, cognitive load as constraint on model construction, the twelve evidence-based principles of multimedia design (coherence, signalling, segmenting, etc.), and critical discussion of boundary conditions and replication concerns in the multimedia learning literature. Priority: **High** — immediately applicable to instructional design practice.
 
-#### 55. [TOPIC-IDEA] [[Counterfactual Reasoning]] *(Line 617)*
+#### 55. [TOPIC-IDEA] [[Counterfactual-Reasoning|Counterfactual Reasoning]] *(Line 617)*
 
-> [!topic-idea] [[Counterfactual Reasoning]]
+> [!topic-idea] [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 > A foundational treatment of [[Ruth Byrne]]'s suppositional theory of counterfactuals, including the dual-model account (actual vs. imagined), the mutability principle (some facts are more easily mentally "undone" than others), and applications to regret, blame attribution, causal judgment, and legal reasoning. The report would engage with alternative accounts (simulation theory, possible worlds semantics) and discuss educational implications for teaching causal and hypothetical reasoning. Priority: **Medium**.
 
 #### 56. [TOPIC-IDEA] [[Spatial Mental Models]] *(Line 620)*
@@ -483,7 +483,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Computational Theory of Mind]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
-- [[Counterfactual Reasoning]]
+- [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 - [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dedre-Gentner|Dedre Gentner]]
@@ -582,7 +582,7 @@ extraction_summary:
 | 42 | [[Roger Shepard]] | — | — | Spatial Mental Models | 426 |
 | 43 | [[Lynn Cooper]] | — | — | Spatial Mental Models | 426 |
 | 44 | [[Ruth Byrne]] | — | — | Counterfactual Reasoning | 430 |
-| 45 | [[Counterfactual Reasoning]] | counterfactual reasoning | — | Counterfactual Reasoning | 430 |
+| 45 | [[Counterfactual-Reasoning|Counterfactual Reasoning]] | counterfactual reasoning | — | Counterfactual Reasoning | 430 |
 | 46 | [[Mental-Models|Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 446 |
 | 47 | [[Propositional-Representation|Propositional Representation]] | propositional knowledge | — | Instruction and the Goal of Model Bui... | 448 |
 | 48 | [[Richard-Mayer|Richard Mayer]] | — | — | Instruction and the Goal of Model Bui... | 453 |
@@ -615,7 +615,7 @@ extraction_summary:
 | 75 | [[Mental-Models-Theory|Mental Models Theory]] | — | — | Open Questions | 525 |
 | 76 | [[Perceptual Symbol Systems]] | — | — | A. Lexicon of Key Terms | 556 |
 | 77 | [[Mental-Models-Theory|Mental Models Theory]] | — | — | B. Annotated References | 569 |
-| 78 | [[Counterfactual Reasoning]] | — | — | B. Annotated References | 578 |
+| 78 | [[Counterfactual-Reasoning|Counterfactual Reasoning]] | — | — | B. Annotated References | 578 |
 | 79 | [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] | — | — | B. Annotated References | 581 |
 | 80 | [[Multimedia-Learning|Multimedia Learning]] | Multimedia Learning Theory | — | B. Annotated References | 590 |
 | 81 | [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] | — | — | D. Expansion Topics | 608 |
@@ -625,7 +625,7 @@ extraction_summary:
 | 85 | [[Stella Vosniadou]] | — | — | D. Expansion Topics | 612 |
 | 86 | [[Multimedia-Learning|Multimedia Learning]] | — | — | D. Expansion Topics | 614 |
 | 87 | [[Richard-Mayer|Richard Mayer]] | — | — | D. Expansion Topics | 615 |
-| 88 | [[Counterfactual Reasoning]] | — | — | D. Expansion Topics | 617 |
+| 88 | [[Counterfactual-Reasoning|Counterfactual Reasoning]] | — | — | D. Expansion Topics | 617 |
 | 89 | [[Ruth Byrne]] | — | — | D. Expansion Topics | 618 |
 | 90 | [[Spatial Mental Models]] | — | — | D. Expansion Topics | 620 |
 | 91 | [[Analogical-Reasoning|Analogical Reasoning]] | — | — | D. Expansion Topics | 623 |
@@ -648,7 +648,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Computational Theory of Mind]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
-- [[Counterfactual Reasoning]]
+- [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 - [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dedre-Gentner|Dedre Gentner]]
@@ -711,7 +711,7 @@ extraction_summary:
 
 - [[Analogical-Reasoning|Analogical Reasoning]]
 - [[Causal Reasoning]]
-- [[Counterfactual Reasoning]]
+- [[Counterfactual-Reasoning|Counterfactual Reasoning]]
 - [[Situation Models]]
 - [[Text Comprehension]]
 - [[Spatial Cognition]]
@@ -721,7 +721,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Knowledge Representation]]
 

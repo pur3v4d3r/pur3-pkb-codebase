@@ -24,15 +24,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 73
+referenced-by-count: 81
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,7 +42,7 @@ see-also:
   - "[[Analogical-Reasoning]]"
   - "[[Analysis]]"
   - "[[Aporic-Receptivity]]"
-  - "[[Askesis]]"
+  - "[[Asksis]]"
   - "[[Availability-Heuristic]]"
   - "[[Bayesian-Inference]]"
   - "[[Causal-Induction]]"
@@ -60,9 +60,9 @@ importance: high
 # Daniel-Kahneman
 
 > [!definition] **Daniel-Kahneman**
-> *Stub note — concept referenced by 73 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 81 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 73 permanent notes.*
+*Auto-generated stub — referenced by 81 permanent notes.*
 
 ## Referenced By
 
@@ -70,13 +70,14 @@ importance: high
 - [[Analogical-Reasoning]]
 - [[Analysis]]
 - [[Aporic-Receptivity]]
-- [[Askesis]]
+- [[Asksis]]
 - [[Availability-Heuristic]]
 - [[Bayesian-Inference]]
 - [[Causal-Induction]]
 - [[Cognitive-Bias]]
 - [[Cognitive-Decoupling]]
 - [[Conflict-Monitoring]]
+- [[Counterexample-Search]]
 - [[Critical-Thinking]]
 - [[Deliberative-Democracy]]
 - [[Disposition]]
@@ -85,5 +86,4 @@ importance: high
 - [[Epistemic-Cowardice]]
 - [[Evaluation]]
 - [[Falsificationism]]
-- [[Felt-Difficulty]]
-- *...and 53 more permanent notes*
+- *...and 61 more permanent notes*

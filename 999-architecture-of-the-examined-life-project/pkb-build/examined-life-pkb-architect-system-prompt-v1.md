@@ -248,7 +248,7 @@ Example: `Report-01-The-Inquiry-Engine.md`
 1. **Welcome** — Warm, inviting introduction explaining what this PKB is, who it's for, and how to use it. Written directly to the family audience.
 2. **What is "The Examined Life"?** — 3–4 paragraph accessible explanation of the series' central thesis, written without any academic jargon
 3. **The Three-Tier Journey** — Visual overview of the 15-report arc with brief (1–2 sentence) descriptions of each report, organized by tier
-4. **How to Navigate This PKB** — Practical guidance: "If you want to start from the beginning, go to [[Report-01-The-Inquiry-Engine]]. If you want to understand the big picture first, go to [[Report-15-The-Examined-Life-Revisited]]. If you're curious about a specific topic, check the [[Glossary]] or browse the tags."
+4. **How to Navigate This PKB** — Practical guidance: "If you want to start from the beginning, go to [[report-01-the-inquiry-engine]]. If you want to understand the big picture first, go to [[report-15-the-examined-life-revisited]]. If you're curious about a specific topic, check the [[Glossary]] or browse the tags."
 5. **Quick Links** — Links to all major PKB components: Dashboard, Glossary, Developmental Staging, Methodology, Connection Notes hub
 6. **About This Series** — Brief context about how and why the series was created
 
@@ -607,15 +607,15 @@ key-researchers:
 synthesis-type: structural-homology
 emergent-insight: "Stoic prosoche and metacognitive monitoring are functionally identical — both create a gap between stimulus and response through practiced attentiveness to one's own cognitive processes"
 builds-from:
-  - "[[Report-01-The-Inquiry-Engine]]"
-  - "[[Report-02-The-Fallible-Knower]]"
-  - "[[Report-03-The-Motivated-Mind]]"
-  - "[[Report-04-Cognitive-Scaffolding]]"
-  - "[[Report-05-The-Virtuous-Reasoner]]"
+  - "[[report-01-the-inquiry-engine]]"
+  - "[[report-02-the-fallible-knower]]"
+  - "[[report-03-the-motivated-mind]]"
+  - "[[report-04-cognitive-scaffolding]]"
+  - "[[report-05-the-virtuous-reasoner]]"
 enables:
-  - "[[Report-07-The-Self-Directed-Learner]]"
-  - "[[Report-10-The-Feeling-Reasoner]]"
-  - "[[Report-13-The-Predictive-Mind]]"
+  - "[[report-07-the-self-directed-learner]]"
+  - "[[report-10-the-feeling-reasoner]]"
+  - "[[report-13-the-predictive-mind]]"
 worked-example-domain: "cognitive bias governance"
 tags:
   - examined-life
@@ -639,8 +639,8 @@ link-related:
   - "[[Connection-Mindfulness-and-Contemplative-Practice]]"
 accessibility-level: intermediate
 prerequisite-notes:
-  - "[[Report-01-The-Inquiry-Engine]]"
-  - "[[Report-05-The-Virtuous-Reasoner]]"
+  - "[[report-01-the-inquiry-engine]]"
+  - "[[report-05-the-virtuous-reasoner]]"
 ---
 ```
 </sample_complete_yaml>
@@ -829,14 +829,14 @@ accessibility-level: introductory
 
 | # | Report | The Key Question |
 |---|--------|-----------------|
-| 01 | [[Report-01-The-Inquiry-Engine]] | What sparks genuine thinking? |
-| 02 | [[Report-02-The-Fallible-Knower]] | How should we hold our beliefs? |
-| 03 | [[Report-03-The-Motivated-Mind]] | What sustains the will to think well? |
-| 04 | [[Report-04-Cognitive-Scaffolding]] | How do we build understanding? |
-| 05 | [[Report-05-The-Virtuous-Reasoner]] | What kind of character supports good thinking? |
-| 06 | [[Report-06-Taming-System-1]] | How do we catch our own mental shortcuts? |
-| 07 | [[Report-07-The-Self-Directed-Learner]] | How do we become architects of our own learning? |
-| 08 | [[Report-08-The-Examined-Life-In-Practice]] | What does all of this look like in action? |
+| 01 | [[report-01-the-inquiry-engine]] | What sparks genuine thinking? |
+| 02 | [[report-02-the-fallible-knower]] | How should we hold our beliefs? |
+| 03 | [[report-03-the-motivated-mind]] | What sustains the will to think well? |
+| 04 | [[report-04-cognitive-scaffolding]] | How do we build understanding? |
+| 05 | [[report-05-the-virtuous-reasoner]] | What kind of character supports good thinking? |
+| 06 | [[report-06-taming-system-1]] | How do we catch our own mental shortcuts? |
+| 07 | [[report-07-the-self-directed-learner]] | How do we become architects of our own learning? |
+| 08 | [[report-08-the-examined-life-in-practice]] | What does all of this look like in action? |
 
 ### Tier 2: Learning to Live Well (Reports 09–12)
 > [!info] The Practical Extension
@@ -844,9 +844,9 @@ accessibility-level: introductory
 
 | # | Report | The Key Question |
 |---|--------|-----------------|
-| 09 | [[Report-09-The-Embodied-Thinker]] | How does our body shape our thinking? |
-| 10 | [[Report-10-The-Feeling-Reasoner]] | Are emotions enemies or allies of good thinking? |
-| 11 | [[Report-11-The-Practical-Reasoner]] | How do we make wise decisions under uncertainty? |
+| 09 | [[report-09-the-embodied-thinker]] | How does our body shape our thinking? |
+| 10 | [[report-10-the-feeling-reasoner]] | Are emotions enemies or allies of good thinking? |
+| 11 | [[report-11-the-practical-reasoner]] | How do we make wise decisions under uncertainty? |
 | 12 | [[Report-12-The-Social-Thinker]] | How does thinking together differ from thinking alone? |
 
 ### Tier 3: Putting It All Together (Reports 13–15)
@@ -855,17 +855,17 @@ accessibility-level: introductory
 
 | # | Report | The Key Question |
 |---|--------|-----------------|
-| 13 | [[Report-13-The-Predictive-Mind]] | What's the brain mechanism behind all of this? |
+| 13 | [[report-13-the-predictive-mind]] | What's the brain mechanism behind all of this? |
 | 14 | [[Report-14-The-Meaningful-Life]] | What is the examined life *for*? |
-| 15 | [[Report-15-The-Examined-Life-Revisited]] | What does the complete picture look like? |
+| 15 | [[report-15-the-examined-life-revisited]] | What does the complete picture look like? |
 
 ---
 
 ## 🧭 How to Navigate This PKB
 
 > [!tip] Choose Your Path
-> **Start from the beginning:** [[Report-01-The-Inquiry-Engine]] — follow the journey report by report
-> **Get the big picture first:** [[Report-15-The-Examined-Life-Revisited]] — start with the complete vision
+> **Start from the beginning:** [[report-01-the-inquiry-engine]] — follow the journey report by report
+> **Get the big picture first:** [[report-15-the-examined-life-revisited]] — start with the complete vision
 > **Look up a concept:** [[Glossary-Examined-Life-Key-Terms]] — find any term alphabetically
 > **See where you are in your development:** [[Developmental-Staging-of-the-Examined-Life]] — the five stages
 > **Explore connections:** Browse the [[#Connection Notes]] to see how these ideas relate to familiar topics
@@ -936,14 +936,14 @@ accessibility-level: introductory
 
 ### Active Inference
 **Definition:** [Clear accessible definition]
-**Introduced in:** [[Report-13-The-Predictive-Mind]]
-**Also appears in:** [[Report-15-The-Examined-Life-Revisited]]
+**Introduced in:** [[report-13-the-predictive-mind]]
+**Also appears in:** [[report-15-the-examined-life-revisited]]
 **Related concepts:** [[#Predictive Processing]], [[#Free Energy Principle]]
 **Everyday example:** [Concrete example]
 
 ### Allostasis
 **Definition:** [Clear accessible definition]
-**Introduced in:** [[Report-09-The-Embodied-Thinker]]
+**Introduced in:** [[report-09-the-embodied-thinker]]
 **Related concepts:** [[#Interoception]], [[#Somatic Markers]]
 **Everyday example:** [Concrete example]
 

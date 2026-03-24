@@ -25,51 +25,66 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 8
+referenced-by-count: 36
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[MSLQ]]"
-  - "[[Metacognitive-Experience]]"
-  - "[[Monitoring-Control-Coupling]]"
-  - "[[Performance-Phase]]"
-  - "[[Pintrich's-Motivational-Integration]]"
-  - "[[Self-Reflection-Phase]]"
-  - "[[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]"
-  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulation]]"
+  - "[[Adaptive-Inference]]"
+  - "[[Calibration-Dependency]]"
+  - "[[Calibration-Engine]]"
+  - "[[Cognitive-Transparency-Assumption]]"
+  - "[[Context-Regulation]]"
+  - "[[Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[Defensive-Inference]]"
+  - "[[Degenerate-Cycle]]"
+  - "[[Distributed-Regulation]]"
+  - "[[Flavell's-Metacognitive-Framework]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: high
 ---
 
 # Social-Cognitive-Theory-—-Bandura
 
 > [!definition] **Social-Cognitive-Theory-—-Bandura**
-> *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 36 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 8 permanent notes.*
+*Auto-generated stub — referenced by 36 permanent notes.*
 
 ## Referenced By
 
+- [[Adaptive-Inference]]
+- [[Calibration-Dependency]]
+- [[Calibration-Engine]]
+- [[Cognitive-Transparency-Assumption]]
+- [[Context-Regulation]]
+- [[Cyclical-Model-of-Self-Regulated-Learning]]
+- [[Defensive-Inference]]
+- [[Degenerate-Cycle]]
+- [[Distributed-Regulation]]
+- [[Flavell's-Metacognitive-Framework]]
+- [[Forethought-Phase]]
 - [[MSLQ]]
+- [[Mastery-Goal-Orientation]]
+- [[Metacognitive-Accuracy]]
 - [[Metacognitive-Experience]]
+- [[Metacognitive-Monitoring]]
 - [[Monitoring-Control-Coupling]]
-- [[Performance-Phase]]
-- [[Pintrich's-Motivational-Integration]]
-- [[Self-Reflection-Phase]]
-- [[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]
-- [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+- [[Monitoring-Regulation-Coupling]]
+- [[Motivational-Regulation]]
+- [[Normative-vs.-Descriptive-Model]]
+- *...and 16 more permanent notes*

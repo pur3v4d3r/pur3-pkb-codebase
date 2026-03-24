@@ -24,7 +24,7 @@ link-up:
 link-related:
   - "[[2025-11-21|Daily-Note]]"
   - "[[Behaviorism]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Cognitive Processes]]"
   - "[[Cognitive-Science]]"
 maturity: seedling

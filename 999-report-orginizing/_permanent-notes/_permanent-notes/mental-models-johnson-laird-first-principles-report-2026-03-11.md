@@ -23,41 +23,57 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 12
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Analogical-Representation]]"
+  - "[[Assumption-5-RuleModel-Dichotomy]]"
+  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
+  - "[[Mental-Model]]"
+  - "[[Model-Completeness-Hypothesis]]"
+  - "[[Pragmatic-Construction]]"
+  - "[[Pragmatic-Reasoning-Schemas]]"
+  - "[[Propositional-Representation]]"
+  - "[[Situation-Model]]"
   - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
-  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
-  - "[[_Master-Reference-Index|_Master-Reference-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # mental-models-johnson-laird-first-principles-report-2026-03-11
 
 > [!definition] **mental-models-johnson-laird-first-principles-report-2026-03-11**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 12 permanent notes.*
 
 ## Referenced By
 
+- [[Analogical-Representation]]
+- [[Assumption-5-RuleModel-Dichotomy]]
+- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
+- [[Mental-Model]]
+- [[Model-Completeness-Hypothesis]]
+- [[Pragmatic-Construction]]
+- [[Pragmatic-Reasoning-Schemas]]
+- [[Propositional-Representation]]
+- [[Situation-Model]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
 - [[_Master-Reference-Index|_Master-Reference-Index]]

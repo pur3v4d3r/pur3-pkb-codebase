@@ -157,7 +157,7 @@ extraction_summary:
 #### 3. [DEFINITION] Untitled *(Line 25)*
 
 > [!definition] Untitled
-> **Personal Knowledge Management (PKM)**, as formalized in the literature emerging from Frand and Hixon's 1999 working paper and subsequently developed through the contributions of [[Dave Snowden]], [[Paul Dorsey]], and Harold Jarche, refers to the set of processes, strategies, and tools by which an individual collects, classifies, stores, searches, retrieves, and shares knowledge in daily life, with particular emphasis on supporting intellectual work and continuous learning. PKM exists at the intersection of [[Personal Information Management (PIM)]], [[Organizational Knowledge Management (OKM)]], and [[Cognitive-Psychology|Cognitive Psychology]], drawing upon all three to construct a personal theory of information practice. Crucially, PKM is distinguished from simple note-taking or information archiving by its emphasis on *knowledge* rather than *data*—the expectation that raw information will be processed, contextualized, connected, and transformed into understanding that the individual can deploy creatively in new situations.
+> **Personal Knowledge Management (PKM)**, as formalized in the literature emerging from Frand and Hixon's 1999 working paper and subsequently developed through the contributions of [[Dave Snowden]], [[Paul Dorsey]], and Harold Jarche, refers to the set of processes, strategies, and tools by which an individual collects, classifies, stores, searches, retrieves, and shares knowledge in daily life, with particular emphasis on supporting intellectual work and continuous learning. PKM exists at the intersection of [[Personal Information Management (PIM)]], [[Organizational Knowledge Management (OKM)]], and [[cognitive-psychology|Cognitive Psychology]], drawing upon all three to construct a personal theory of information practice. Crucially, PKM is distinguished from simple note-taking or information archiving by its emphasis on *knowledge* rather than *data*—the expectation that raw information will be processed, contextualized, connected, and transformed into understanding that the individual can deploy creatively in new situations.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 28)*
 
@@ -437,7 +437,7 @@ extraction_summary:
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Building a Second Brain (BASB)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Communities-of-Practice|Communities of Practice]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dave Snowden]]
@@ -520,7 +520,7 @@ extraction_summary:
 | 13 | [[Paul Dorsey]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 14 | [[Personal Information Management (PIM)]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 15 | [[Organizational Knowledge Management (OKM)]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
-| 16 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
+| 16 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
 | 17 | [[Aristotle]] | — | — | The Ancient Precursors | 37 |
 | 18 | [[Jean-Piaget|Jean Piaget]] | — | — | The Ancient Precursors | 39 |
 | 19 | [[John-Dewey|John Dewey]] | — | — | The Ancient Precursors | 39 |
@@ -642,7 +642,7 @@ extraction_summary:
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Building a Second Brain (BASB)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Communities-of-Practice|Communities of Practice]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dave Snowden]]

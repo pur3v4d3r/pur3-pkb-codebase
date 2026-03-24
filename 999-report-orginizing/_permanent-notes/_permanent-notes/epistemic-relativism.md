@@ -23,8 +23,8 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +38,7 @@ referenced-by-count: 13
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Calibration]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
+  - "[[Confirmation-Bias]]"
   - "[[Corroboration]]"
   - "[[Defeasibility]]"
   - "[[Defeat-Defeater]]"
@@ -66,7 +66,7 @@ importance: medium
 ## Referenced By
 
 - [[Calibration]]
-- [[Confirmation-Bias-Myside-Bias]]
+- [[Confirmation-Bias]]
 - [[Corroboration]]
 - [[Defeasibility]]
 - [[Defeat-Defeater]]

@@ -113,7 +113,7 @@ This will require extensive exploration of:
 - Cross-domain connections to cybernetics, systems thinking, cognitive science
 
 **Wiki-Link Opportunities:**
-[[Self-Regulated-Learning]], [[Personal-Knowledge-Management]], [[Metacognition]], [[Feedback Loops]], [[Zimmerman's Cyclical Model]], [[Winne and Hadwin COPES]], [[Goal Setting]], [[Strategic Planning]], [[Self-Reflection]], [[Forethought-Phase]], [[Performance-Phase]], [[Self-Reflection-Phase]], [[Cognitive Strategies]], [[Metacognitive Strategies]], [[Motivation]], [[Executive-Function]], [[Cybernetics]], [[Systems Thinking]], [[Zettelkasten]], [[Obsidian]], [[Knowledge-Graph]], [[Spaced-Repetition]], [[Retrieval-Practice]], [[Elaborative-Interrogation]], [[Transfer Learning]], [[Cognitive-Load-Theory]], [[Working-Memory]], [[Long-Term-Memory]], [[Neuroplasticity]]
+[[Self-Regulated-Learning]], [[Personal-Knowledge-Management]], [[Metacognition]], [[Feedback Loops]], [[Zimmerman's Cyclical Model]], [[Winne and Hadwin COPES]], [[Goal Setting]], [[Strategic-Planning]], [[Self-Reflection]], [[Forethought-Phase]], [[Performance-Phase]], [[Self-Reflection-Phase]], [[Cognitive Strategies]], [[Metacognitive Strategies]], [[Motivation]], [[Executive-Function]], [[Cybernetics]], [[Systems Thinking]], [[Zettelkasten]], [[Obsidian]], [[Knowledge-Graph]], [[Spaced-Repetition]], [[Retrieval-Practice]], [[Elaborative-Interrogation]], [[Transfer Learning]], [[Cognitive-Load-Theory]], [[Working-Memory]], [[Long-Term-Memory]], [[Neuroplasticity]]
 
 **Callout Strategy:**
 - [!abstract] for opening overview
@@ -161,7 +161,7 @@ The integration addresses what cognitive scientist Daniel Willingham has termed 
 ### Personal Knowledge Management as Cognitive Infrastructure
 
 > [!definition]
-> **Personal Knowledge Management** encompasses the methodologies, practices, and technological systems through which individuals gather, organize, process, and utilize information in pursuit of intellectual and professional goals. PKM emerged as a response to the recognition that knowledge workers must assume responsibility for their own growth and learning, representing a bottom-up approach to knowledge management that prioritizes individual agency and personalized workflow design. The discipline integrates insights from [[Personal Information Management]], [[Knowledge-Management]], [[Cognitive-Psychology]], and organizational theory to create frameworks that respect both the limitations and capabilities of human cognition.
+> **Personal Knowledge Management** encompasses the methodologies, practices, and technological systems through which individuals gather, organize, process, and utilize information in pursuit of intellectual and professional goals. PKM emerged as a response to the recognition that knowledge workers must assume responsibility for their own growth and learning, representing a bottom-up approach to knowledge management that prioritizes individual agency and personalized workflow design. The discipline integrates insights from [[Personal Information Management]], [[Knowledge-Management]], [[cognitive-psychology]], and organizational theory to create frameworks that respect both the limitations and capabilities of human cognition.
 
 The evolution of PKM reflects deeper shifts in the nature of knowledge work itself. Knowledge work fundamentally involves creative problem-solving, requiring two complementary modes of thinking: divergent thinking, which expands the scope of inquiry and explores possibilities, and convergent thinking, which contracts focus and identifies viable solutions. This oscillation between exploration and exploitation, between generating options and selecting among them, mirrors the cyclical structure of SRL frameworks, creating natural points of integration.
 
@@ -408,7 +408,7 @@ The ultimate promise of SRL-PKM integration extends beyond purely intellectual d
 
 ## 🔗 Related Topics for PKB Expansion
 
-1. **[[Zimmerman's Cyclical Model of Self-Regulated Learning]]**
+1. **[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]**
    - *Connection*: Provides the foundational three-phase framework (Forethought, Performance, Self-Reflection) that structures the regulatory cycles implemented in PKM systems
    - *Depth Potential*: Deeper exploration of each phase's cognitive and motivational components, empirical validation studies, comparison with alternative SRL models, and specific operationalization strategies for different learning contexts
    - *Knowledge Graph Role*: Serves as a central theoretical node connecting educational psychology, cognitive science, and learning system design

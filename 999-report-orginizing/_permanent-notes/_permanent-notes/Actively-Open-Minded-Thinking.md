@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -82,14 +82,6 @@ see-also:
   - "[[Aristotle|Aristotle]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[Deductive-Reasoning|deductive reasoning]]"
-  - "[[Gottlob-Frege|Gottlob Frege]]"
-  - "[[Peter-Wason|Peter Wason]]"
-  - "[[Inductive-Reasoning|inductive reasoning]]"
-  - "[[Abductive-Reasoning|abductive reasoning]]"
-  - "[[Aristotle|Aristotle]]"
-  - "[[Dual-Process-Theory|Dual-Process Theory]]"
-  - "[[Mental-Models-Theory|Mental Models Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +96,8 @@ enables:
   - "[[]]"
 
 expansion-topics:
-  - topic: "[[]]"
+  - topic: "[[!topic-idea-Transfer-of-Learning-and-Deductive-Skill-Whether-deductive-training|> [!topic-idea] [[Transfer-of-Learning-and-Deductive-Skill]]
+> Whether deductive training in mathema]]"
     description: ""
     priority: medium
 
@@ -126,17 +119,17 @@ importance: high
 > [!evidence] Supporting Evidence
 > Evans, Barston, and Pollard's (1983) foundational belief bias studies presented participants with syllogisms that crossed logical validity (valid/invalid) with conclusion believability (believable/unbelievable). The results showed a clear interaction: validity affected acceptance rates, but so did believability, and the effect of believability was strongest for invalid arguments. The pattern has been replicated extensively across cultures and populations.
 
+> [!evidence] Supporting Evidence
+> The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
+
+> [!evidence] Supporting Evidence
+> The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
+
 > [!analytical-insight] Key Insight
 > The intellectual history of deduction reveals a fundamental tension that persists into the present: deductive reasoning is simultaneously the most rigorous form of inference available to humans and among the most cognitively demanding. Understanding this tension — and not simply celebrating deduction's formal power — is the starting point for any educationally useful theory of deductive skill development.
 
 > [!analytical-insight] Key Insight
 > On the Mental Models account, deductive reasoning is not the application of formal rules but the construction, inspection, and manipulation of semantic representations. Validity is established not by formal proof but by asking: "Is there any model of the premises in which the conclusion is false?" If no such model can be found, the reasoner accepts the conclusion as valid — though they may miss possible models, producing systematic errors.
-
-> [!evidence] Supporting Evidence *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*
-> The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-> [!evidence] Supporting Evidence *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*
-> The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
 
 > [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
 > The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
@@ -170,8 +163,6 @@ importance: high
 
 
 
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -195,16 +186,14 @@ importance: high
 
 
 
-
 ## Reflection Prompts
 
-> [!reflection] **Reflect** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*
+> [!reflection] **Reflect**
 > Before reading further, take a moment to articulate what you currently believe about deductive reasoning. When you think about the phrase "logical argument," what comes to mind? Do you consider yourself a good deductive reasoner? What experiences have shaped that self-assessment? Notice whether your intuition about your own deductive skill matches the challenge the research literature presents.
 
-> [!reflection] **Reflect** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*
+> [!reflection] **Reflect**
 > 1. The distinction between validity and truth is foundational but counterintuitive — most people conflate "this argument is valid" with "this argument is correct." Can you construct a valid argument with premises you believe to be false? What does this exercise reveal about the structural nature of logical validity?
-> 2. Modus ponens feels obvious; modus tollens requires effort. Why might reasoning *backward* through a conditional be harder than reasoning *forward*? What does this asymmetry suggest about how deductive schemas are mentally represented?
-> 3. The long dominance of Aristotelian logic in education suggests that formal deductive training was considered valuable for millennia. What purposes — intellectual, social, or vocational — might formal logic instruction have served in historical educational contexts?
+> 2. Modus ponens feels obvious; modus tollens requires effort. Why might reasoning *backward* through a conditional be harder than reasoning *forward*? What does this asymmetry…
 
 > [!reflection] **Reflect** *(from report-01-the-inquiry-engine.md)*
 > When did you last hold a belief with genuine confidence, then encounter evidence or argument that revealed it to be more fragile than you thought? What was your first response — genuine curiosity, discomfort, or defensiveness? That response pattern reveals a great deal about your current level of aporic receptivity.
@@ -223,6 +212,11 @@ importance: high
 
 
 
+## Conceptual Tensions
+
+> [!tension] **The Self-Explanation Paradox** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*
+> Here is a genuine tension: the self-explanation effect depends on the reader verbalizing internally — using inner speech to construct explanations. But inner speech recruits the same phonological resources that vocalization occupies during oral reading. If silent reading "frees" the phonological loop, and self-explanation re-occupies it, is the "freedom" of silent reading illusory? The resolution may be that inner speech during self-explanation is qualitatively different from articulatory rehearsal during vocalization — less constrained, more controllable, capable of supporting evaluative operations that scripted vocalization cannot. But this distinction is not fully established empirically, making it one of the genuine open questions in reading research.
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -236,23 +230,6 @@ importance: high
 
 **Related concepts:**
 [[Deductive-Reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[Inductive-Reasoning|inductive reasoning]] · [[Abductive-Reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Working-Memory|working memory]] · [[Belief-Bias|belief bias]] · [[Aristotle]] · [[Categorical-Syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]]
-
-**Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md, report-01-the-inquiry-engine.md)*:
-[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]]
-
-**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
 
 **Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md, report-01-the-inquiry-engine.md, silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*:
 [[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]]
@@ -274,5 +251,89 @@ importance: high
 
 
 
+## References
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
+- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
+- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
+- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
+
+- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
+
+- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
+
+- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
+
+- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
+
+- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
+
+- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
+
+- **Dewey, J. (1910, revised 1933). *How We Think*. D.C. Heath and Company.**: The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
+
+- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt and Company.**: Dewey's mature philosophical account of inquiry, extending the psychological account of *How We Think* into a full philosophical logic. Contains the most rigorous treatment of indeterminate situations and the transformation of problematic situations through inquiry.
+
+- **Vlastos, G. (1983). The Socratic elenchus. *Oxford Studies in Ancient Philosophy*, 1, 27–58.**: The landmark analytical reconstruction of Socratic method. Argues that the elenchus is a systematic procedure with identifiable logical structure, and that Socrates believed it could yield positive knowledge through the elimination of inconsistencies.
+
+- **Scott, G.A. (Ed.). (2002). *Does Socrates Have a Method? Rethinking the Elenchus in Plato's Dialogues and Beyond*. Penn State University Press.**: Important critical engagement with Vlastos's reconstruction. Multiple contributors argue that Socrates' argumentative strategies in the dialogues are more diverse and less unified than Vlastos suggests. Recommended for calibrating the strength of the Socratic synthesis claims in this report.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The definitive popular-scholarly synthesis of Dual Process Theory. Books I–III develop the System 1/System 2 distinction and its implications for judgment and decision-making. Chapters on cognitive ease and effort are especially relevant to the inquiry activation account in this report.
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Methodology Notes
+
+> [!methodology-and-sources] **On the Evidence Base for This Phase**
+> The applications discussed in this section draw on a research literature that is methodologically heterogeneous. Studies of proof instruction in mathematics range from controlled experiments to design-based research; science education studies vary widely in their operationalisation of deductive skill; legal reasoning research is largely theoretical or case-based. Effect sizes for instructional interventions targeting deductive skill development are generally modest (d = 0.3–0.5) and depend heavily on instructional context, assessment method, and population.
+
+---
+
+> [!methodology-and-sources] **Methodological Note on the Homology Claim** *(from report-01-the-inquiry-engine.md)*
+> The claim that these four frameworks describe the same underlying mechanism is a theoretical synthesis claim, not an empirical finding. Each framework is independently well-supported by empirical research. The homology claim is the report's original synthesis contribution — it identifies structural isomorphism across frameworks and argues that this isomorphism is best explained by shared reference to the same underlying cognitive mechanism. This claim is theoretically productive and well-motivated, but it should be held as a hypothesis that awaits direct empirical investigation rather than as an established fact. Future research could directly test whether manipulations that affect one component (e.g., inducing felt difficulty through environmental disruption) produce the predicted effects in the others (e.g., increased System 2 engagement, activated metacognitive monitoring, curiosity signal).
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*
+> This report integrates evidence from three distinct research traditions: cognitive reading research (eye-tracking studies, think-aloud protocols, working memory and reading comprehension research), metacognition research (comprehension monitoring, fluency illusion, elaborative interrogation), and reading-critical thinking relationships (ICAP Framework, self-explanation effect, Matthew Effect). All empirical claims draw on peer-reviewed research and are attributed. The Generative Cognition Architecture proposed in Phase VI is an original theoretical synthesis integrating findings across these traditions — it is clearly marked as such and does not represent a finding from the existing literature but an inference drawn across it. The FAR Transfer principles in Phase VII are analytical extrapolations from the GCA framework, grounded in the transfer-of-learning research tradition but applied speculatively to domains beyond reading research.
+
+
+
+## Source Attribution
+
+**Extracted from:** [[deductive-reasoning-learning-foundational-report-2026-03-10]]

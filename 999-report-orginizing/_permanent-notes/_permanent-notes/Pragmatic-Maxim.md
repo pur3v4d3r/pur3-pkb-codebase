@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-19
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -67,14 +67,6 @@ see-also:
   - "[[Confirmation-Bias|confirmation bias]]"
   - "[[belief-perseverance|belief perseverance]]"
   - "[[Fallibilism]]"
-  - "[[Jean-Piaget|Jean Piaget]]"
-  - "[[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]"
-  - "[[Constructivist-Stance|Constructivist Stance]]"
-  - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
-  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
-  - "[[Confirmation-Bias|confirmation bias]]"
-  - "[[belief-perseverance|belief perseverance]]"
-  - "[[Fallibilism|fallibilism]]"
   - "[[Jean-Piaget|Jean Piaget]]"
   - "[[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]"
   - "[[Constructivist-Stance|Constructivist Stance]]"
@@ -129,10 +121,12 @@ importance: high
 **Related concepts:**
 [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Confirmation-Bias|confirmation bias]] · [[belief-perseverance|belief perseverance]] · [[Fallibilism]] · [[Jean-Piaget|Jean Piaget]] · [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] · [[Constructivist-Stance|Constructivist Stance]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] · [[Metacognitive-Self-Regulation|metacognitive self-regulation]] · [[Aporic-Receptivity|aporic receptivity]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] · [[Fallibilism]]
 
-**Related concepts** *(from report-02-the-fallible-knower.md)*:
-[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Confirmation-Bias|confirmation bias]] * [[belief-perseverance|belief perseverance]] * [[Jean-Piaget|Jean Piaget]] * [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] * [[Constructivist-Stance|Constructivist Stance]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] * [[Aporic-Receptivity|aporic receptivity]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] * [[William-James|William James]] * [[John-Dewey|John Dewey]] * [[Warranted-Assertibility|warranted assertibility]] * [[Genetic-Epistemology|genetic epistemology]]
+---
 
 **Related concepts** *(from report-02-the-fallible-knower.md)*:
-[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Confirmation-Bias|confirmation bias]] * [[belief-perseverance|belief perseverance]] * [[Jean-Piaget|Jean Piaget]] * [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] * [[Constructivist-Stance|Constructivist Stance]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] * [[Aporic-Receptivity|aporic receptivity]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] * [[William-James|William James]] * [[John-Dewey|John Dewey]] * [[Warranted-Assertibility|warranted assertibility]] * [[Genetic-Epistemology|genetic epistemology]]
+[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Confirmation-Bias|confirmation bias]] * [[belief-perseverance|belief perseverance]] * [[Jean-Piaget|Jean Piaget]] * [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] * [[Constructivist-Stance|Constructivist Stance]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] * [[Aporic-Receptivity|aporic receptivity]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] * [[William-James|William James]] * [[John-Dewey|John Dewey]] * [[warranted-assertibility|warranted assertibility]] * [[Genetic-Epistemology|genetic epistemology]]
 
 
+## Source Attribution
+
+**Extracted from:** [[report-02-the-fallible-knower]]

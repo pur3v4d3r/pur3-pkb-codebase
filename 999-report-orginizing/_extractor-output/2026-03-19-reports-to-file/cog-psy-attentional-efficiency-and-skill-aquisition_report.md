@@ -375,7 +375,7 @@ extraction_summary:
 - [[anterior cingulate cortex]]
 - [[attentional resource]]
 - [[basal ganglia]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[consistent mapping]]
 - [[declarative knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
@@ -426,7 +426,7 @@ extraction_summary:
 | 25 | [[Expertise Development]] | — | — | ALIASES & LINKING | 105 |
 | 26 | [[Attentional Resources]] | — | — | ALIASES & LINKING | 106 |
 | 27 | [[Neural Efficiency]] | — | — | ALIASES & LINKING | 107 |
-| 28 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Theoretical Foundations: Instance The... | 120 |
+| 28 | [[cognitive-psychology|cognitive psychology]] | — | — | Theoretical Foundations: Instance The... | 120 |
 | 29 | [[motor skill learning]] | — | — | Theoretical Foundations: Instance The... | 120 |
 | 30 | [[language comprehension]] | — | — | Theoretical Foundations: Instance The... | 120 |
 | 31 | [[expert performance]] | — | — | Theoretical Foundations: Instance The... | 120 |
@@ -452,7 +452,7 @@ extraction_summary:
 | 51 | [[dopamine]] | — | — | Basal Ganglia and Procedural Consolid... | 233 |
 | 52 | [[sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
 | 53 | [[REM sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
-| 54 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Distinguishing Automatic from Control... | 260 |
+| 54 | [[cognitive-psychology|cognitive psychology]] | — | — | Distinguishing Automatic from Control... | 260 |
 | 55 | [[attentional resource]] | — | — | Effortlessness and Attentional Demand | 301 |
 | 56 | [[Deliberate-Practice|deliberate practice]] | — | — | Extensive Practice: Quantity and Qual... | 375 |
 | 57 | [[sleep]] | — | — | Practice Distribution and Consolidati... | 388 |
@@ -901,7 +901,7 @@ production_ready: true
 - [[anterior cingulate cortex]]
 - [[attentional resource]]
 - [[basal ganglia]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[consistent mapping]]
 - [[declarative knowledge]]
 - [[Deliberate-Practice|deliberate practice]]

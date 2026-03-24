@@ -98,7 +98,7 @@ related:
   - "[[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]"
 broader:
   - "[[Memory-Systems|Memory Systems]]"
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
 narrower:
   - "[[Self-Reference Effect in Memory]]"

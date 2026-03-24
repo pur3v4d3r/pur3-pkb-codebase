@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Baddeley's Working Memory Model"
+title: "Baddeley's-Working-Memory-Model"
 aliases:
-  - "Baddeley's Working Memory Model"
+  - "Baddeley's-Working-Memory-Model"
 type: permanent-note
 status: seedling
 confidence: low
@@ -15,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - person-stub
+  - concept-stub
   - cognitive-psychology
 
 domain: cognitive-psychology
@@ -23,60 +23,66 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-18
-updated: 2026-03-18
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 37
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Chunking]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Expertise-Reversal-Effect]]"
-  - "[[Extraneous-Load]]"
-  - "[[Germane-Load]]"
-  - "[[Information-Architecture]]"
-  - "[[Intrinsic-Load]]"
-  - "[[Load-Profile]]"
-  - "[[Mayer's-Cognitive-Theory-of-Multimedia-Learning]]"
-  - "[[Progressive-Disclosure]]"
+  - "[[Advance-OrganizerAdvance-Organizer]]"
+  - "[[Automaticity]]"
+  - "[[Bandwidth-Compression]]"
+  - "[[Bandwidth-Expansion]]"
+  - "[[Cognitive-Bandwidth-Liberation]]"
+  - "[[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]"
+  - "[[Compensation-Trap]]"
+  - "[[Comprehension]]"
+  - "[[Decoding]]"
+  - "[[Dyslexia]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
-# Baddeley's Working Memory Model
+# Baddeley's-Working-Memory-Model
 
-> [!definition] **Baddeley's Working Memory Model**
-> *Stub note — person referenced by 15 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> [!definition] **Baddeley's-Working-Memory-Model**
+> *Stub note — concept referenced by 37 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 37 permanent notes.*
 
 ## Referenced By
 
-- [[Chunking]]
-- [[Cognitive-Load-Theory]]
-- [[Expertise-Reversal-Effect]]
-- [[Extraneous-Load]]
-- [[Germane-Load]]
-- [[Information-Architecture]]
-- [[Intrinsic-Load]]
-- [[Load-Profile]]
-- [[Mayer's-Cognitive-Theory-of-Multimedia-Learning]]
-- [[Progressive-Disclosure]]
-- [[Schema]]
-- [[Signaling-Principle]]
-- [[Split-Attention-Effect]]
-- [[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]]
-- [[Working-Memory]]
+- [[Advance-OrganizerAdvance-Organizer]]
+- [[Automaticity]]
+- [[Bandwidth-Compression]]
+- [[Bandwidth-Expansion]]
+- [[Cognitive-Bandwidth-Liberation]]
+- [[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]
+- [[Compensation-Trap]]
+- [[Comprehension]]
+- [[Decoding]]
+- [[Dyslexia]]
+- [[Fluency-IllusionFluency-Illusion]]
+- [[Four-Component-Instructional-Design-4CID]]
+- [[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]
+- [[Germane-Cognitive-Load-Sweller,-van-Merriënboer-&-Paas,-1998-—-Original-Formulat]]
+- [[Inferential-Bridging]]
+- [[Lexical-Automaticity]]
+- [[Long-Term-Memory]]
+- [[Matthew-Effect-in-Reading]]
+- [[Modality-Effect]]
+- [[Oral-Reading-Fluency]]
+- *...and 17 more permanent notes*

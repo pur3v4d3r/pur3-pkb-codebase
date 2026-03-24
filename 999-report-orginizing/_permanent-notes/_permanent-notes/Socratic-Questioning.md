@@ -2,8 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Socratic questioning"
+title: "Socratic-Questioning"
 aliases:
+  - "Socratic-Questioning"
   - "Socratic questioning"
 type: permanent-note
 status: seedling
@@ -23,25 +24,26 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 5
+referenced-by-count: 6
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Availability-Heuristic]]"
-  - "[[Cognitive-Bias]]"
-  - "[[Confirmation-Bias-Myside-Bias]]"
-  - "[[Epistemic-Citizenship]]"
-  - "[[Motivated-Reasoning]]"
+  - "[[Assumptions]]"
+  - "[[Concepts]]"
+  - "[[Implications-and-Consequences]]"
+  - "[[Interpretation-and-Inference]]"
+  - "[[Point-of-View]]"
+  - "[[Question-at-Issue]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -51,17 +53,18 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Socratic questioning
+# Socratic-Questioning
 
-> [!definition] **Socratic questioning**
-> *Stub note — concept referenced by 5 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Socratic-Questioning**
+> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 5 permanent notes.*
+*Auto-generated stub — referenced by 6 permanent notes.*
 
 ## Referenced By
 
-- [[Availability-Heuristic]]
-- [[Cognitive-Bias]]
-- [[Confirmation-Bias-Myside-Bias]]
-- [[Epistemic-Citizenship]]
-- [[Motivated-Reasoning]]
+- [[Assumptions]]
+- [[Concepts]]
+- [[Implications-and-Consequences]]
+- [[Interpretation-and-Inference]]
+- [[Point-of-View]]
+- [[Question-at-Issue]]

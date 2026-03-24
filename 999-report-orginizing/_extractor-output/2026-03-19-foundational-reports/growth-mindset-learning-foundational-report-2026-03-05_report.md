@@ -438,7 +438,7 @@ extraction_summary:
 - [[Attribution-Theory|attribution theory]]
 - [[Challenge-Avoidance|challenge avoidance]]
 - [[challenge-seeking]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[Educational-Psychology|educational psychology]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
@@ -465,7 +465,7 @@ extraction_summary:
 | 12 | [[Claudia-Mueller|Claudia Mueller]] | — | — | Historical Development | 289 |
 | 13 | [[Claudia-Mueller|Claudia Mueller]] | — | — | Historical Development | 294 |
 | 14 | [[Carol-Dweck|Carol Dweck]] | — | — | Historical Development | 296 |
-| 15 | [[Cognitive-Psychology|cognitive psychology]] | — | — | Intellectual Genealogy | 300 |
+| 15 | [[cognitive-psychology|cognitive psychology]] | — | — | Intellectual Genealogy | 300 |
 | 16 | [[motivation-science|motivation science]] | — | — | Intellectual Genealogy | 300 |
 | 17 | [[Achievement-Goal-Theory|achievement goal theory]] | — | — | Intellectual Genealogy | 300 |
 | 18 | [[Carole-Ames|Carole Ames]] | — | — | Intellectual Genealogy | 300 |
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Attribution-Theory|attribution theory]]
 - [[Challenge-Avoidance|challenge avoidance]]
 - [[challenge-seeking]]
-- [[Cognitive-Psychology|cognitive psychology]]
+- [[cognitive-psychology|cognitive psychology]]
 - [[Educational-Psychology|educational psychology]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
@@ -590,7 +590,7 @@ extraction_summary:
 #### Broader
 
 - [[Educational-Psychology|Educational Psychology]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 
 #### Narrower
 

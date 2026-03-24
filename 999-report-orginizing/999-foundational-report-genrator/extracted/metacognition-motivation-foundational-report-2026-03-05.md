@@ -112,8 +112,8 @@ applied-in:
   - "[[Coaching and Mentorship]]"
   - "[[Learning-Experience-Design|Learning Experience Design]]"
 builds-on:
-  - "[[Metacognition Foundational Report]]"
-  - "[[Motivation Theory Foundational Report]]"
+  - "[[Metacognition-Foundational-Report|Metacognition Foundational Report]]"
+  - "[[Motivation-Theory-Foundational-Report|Motivation Theory Foundational Report]]"
 enables:
   - "[[Designing Metacognitive Learning Environments]]"
   - "[[Autonomy-Supportive Pedagogy]]"

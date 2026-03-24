@@ -186,7 +186,7 @@ extraction_summary:
 #### 7. [DEFINITION] Warranted Assertibility (Pragmatist Epistemology / Dewey) *(Line 164)*
 
 > [!definition] Warranted Assertibility (Pragmatist Epistemology / Dewey)
-> Dewey's alternative to the correspondence theory of truth — the claim that a proposition is "true" when it accurately represents a mind-independent reality — is the concept of [[Warranted-Assertibility|Warranted Assertibility]]. A proposition is warranted when it has successfully survived the process of inquiry: when it has been subjected to examination, tested against evidence and experience, and found adequate for resolving the problematic situation that initiated inquiry. Warranted assertibility is never absolute or final; it is always provisional, subject to revision if new inquiry reveals new problems. This has direct implications for PKB design: no note should carry the implicit status of "settled truth." Every assertion should be understood as warranted-at-a-particular-stage-of-inquiry — adequately grounded for current purposes, but open to revision as inquiry continues.
+> Dewey's alternative to the correspondence theory of truth — the claim that a proposition is "true" when it accurately represents a mind-independent reality — is the concept of [[warranted-assertibility|Warranted Assertibility]]. A proposition is warranted when it has successfully survived the process of inquiry: when it has been subjected to examination, tested against evidence and experience, and found adequate for resolving the problematic situation that initiated inquiry. Warranted assertibility is never absolute or final; it is always provisional, subject to revision if new inquiry reveals new problems. This has direct implications for PKB design: no note should carry the implicit status of "settled truth." Every assertion should be understood as warranted-at-a-particular-stage-of-inquiry — adequately grounded for current purposes, but open to revision as inquiry continues.
 
 #### 8. [DEFINITION] Constructivist Learning Environments / CLEs (Constructivism / Educational Psychology, Jonassen 1999) *(Line 167)*
 
@@ -221,7 +221,7 @@ extraction_summary:
 #### 14. [REFLECTION] Integrating the Framework *(Line 187)*
 
 > [!reflection] Integrating the Framework
-> **Comprehension**: Which concept from the frameworks above most disrupts your current understanding of what a PKB is for? The concept of [[Warranted-Assertibility|Warranted Assertibility]] — that no claim in a PKB should be treated as settled truth but only as adequately-grounded-for-current-inquiry — may be particularly disruptive if your PKB currently functions as an assertion archive.
+> **Comprehension**: Which concept from the frameworks above most disrupts your current understanding of what a PKB is for? The concept of [[warranted-assertibility|Warranted Assertibility]] — that no claim in a PKB should be treated as settled truth but only as adequately-grounded-for-current-inquiry — may be particularly disruptive if your PKB currently functions as an assertion archive.
 > 
 > **Application**: Looking at these concepts together, what does your current PKB most obviously lack? If the generative principle is correct, the crucial question is not "what have I captured?" but "where have I been required to explain, justify, and connect?" How much of your PKB represents that generative work versus received assertions filed for later use?
 > 
@@ -501,7 +501,7 @@ extraction_summary:
 > 
 > - **[[Report 21 — Dialectical Knowledge Building]]** — This report lays the foundation for Report 21 by introducing dialectical linking, the thesis-antithesis structure of inquiry-based connections, and the concept of the Dialectical Knowledge Graph. Report 21 will extend these foundations into a full framework for deepening understanding through structured intellectual disagreement with one's own notes — the Socratic dialogue internalized as PKB architecture.
 > 
-> - **[[Report 18 — Calibration and Epistemic Humility]]** — The concept of [[Warranted-Assertibility|Warranted Assertibility]] and the explicit confidence-tracking in the Inquiry Node template directly anticipate Report 18's focus on calibration — knowing what you know and what you don't. The revision log and epistemic status metadata proposed here provide the raw data for the calibration practices Report 18 will develop.
+> - **[[Report 18 — Calibration and Epistemic Humility]]** — The concept of [[warranted-assertibility|Warranted Assertibility]] and the explicit confidence-tracking in the Inquiry Node template directly anticipate Report 18's focus on calibration — knowing what you know and what you don't. The revision log and epistemic status metadata proposed here provide the raw data for the calibration practices Report 18 will develop.
 > 
 > **Synthetic Observation**: This report occupies a pivotal position in the framework. It extends the philosophical and psychological foundations laid in Tier 1 reports (03, 04, 07, 08) into a concrete architectural prescription that has implications for nearly every subsequent report in Tiers 2-4. The Inquiry-First PKB Architecture proposed here is not one design option among many — it is, if the philosophical and empirical synthesis is correct, the foundational design orientation from which other architectural decisions follow.
 
@@ -723,7 +723,7 @@ extraction_summary:
 - [[Socratic Seminars]]
 - [[Steel-Manning]]
 - [[The Maieutic Method and Knowledge Graph Design]]
-- [[Warranted-Assertibility|Warranted Assertibility]]
+- [[warranted-assertibility|Warranted Assertibility]]
 
 ### All Occurrences
 
@@ -758,13 +758,13 @@ extraction_summary:
 | 27 | [[Report 08 — Reflective Practice and Experiential Learning]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
 | 28 | [[Felt-Difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
 | 29 | [[Felt-Difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
-| 30 | [[Warranted-Assertibility|Warranted Assertibility]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 165 |
+| 30 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 165 |
 | 31 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 168 |
 | 32 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 174 |
 | 33 | [[Generative-Learning|Generative Learning]] | — | — | Generative Learning and the Self-Expl... | 179 |
 | 34 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | Generative Learning and the Self-Expl... | 182 |
 | 35 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | Generative Learning and the Self-Expl... | 182 |
-| 36 | [[Warranted-Assertibility|Warranted Assertibility]] | — | — | Generative Learning and the Self-Expl... | 189 |
+| 36 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Generative Learning and the Self-Expl... | 189 |
 | 37 | [[Productive-Failure|Productive Failure]] | — | — | The Evidence Landscape | 204 |
 | 38 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 204 |
 | 39 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | The Elaborative Interrogation Evidenc... | 212 |
@@ -779,7 +779,7 @@ extraction_summary:
 | 48 | [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] | — | — | The Aporia-to-Schema Pipeline | 262 |
 | 49 | [[Felt-Difficulty|Felt Difficulty]] | — | — | The Aporia-to-Schema Pipeline | 266 |
 | 50 | [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] | — | — | The Aporia-to-Schema Pipeline | 266 |
-| 51 | [[Warranted-Assertibility|Warranted Assertibility]] | — | — | The Aporia-to-Schema Pipeline | 270 |
+| 51 | [[warranted-assertibility|Warranted Assertibility]] | — | — | The Aporia-to-Schema Pipeline | 270 |
 | 52 | [[Dialectical-Thinking|Dialectical Thinking]] | — | — | The Dialectical Dynamics of Inquiry-B... | 279 |
 | 53 | [[Curiosity-Driven Knowledge Graph]] | — | — | The Curiosity-Driven Knowledge Graph | 286 |
 | 54 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Curiosity-Driven Knowledge Graph | 291 |
@@ -818,7 +818,7 @@ extraction_summary:
 | 87 | [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] | — | — | Phase VII: PKB Connections & Cross-Re... | 552 |
 | 88 | [[Report 21 — Dialectical Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 556 |
 | 89 | [[Report 18 — Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
-| 90 | [[Warranted-Assertibility|Warranted Assertibility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
+| 90 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
 | 91 | [[Report 08 — Reflective Practice and Experiential Learning]] | — | — | A. Lexicon of Key Terms | 581 |
 | 92 | [[Report 21 — Dialectical Knowledge Building: Synthesis Through Productive Disagreement]] | — | — | D. Expansion Topics | 646 |
 | 93 | [[Socratic Seminar Adaptation for Solo PKM Practice]] | — | — | D. Expansion Topics | 649 |
@@ -1039,7 +1039,7 @@ extraction_summary:
 - [[Socratic Seminars]]
 - [[Steel-Manning]]
 - [[The Maieutic Method and Knowledge Graph Design]]
-- [[Warranted-Assertibility|Warranted Assertibility]]
+- [[warranted-assertibility|Warranted Assertibility]]
 
 ### Frontmatter Relationships
 
@@ -1068,7 +1068,7 @@ extraction_summary:
 - [[Dialectical Linking]]
 - [[Assumption Surfacing]]
 - [[Intellectual-Humility|Intellectual Humility]]
-- [[Warranted-Assertibility|Warranted Assertibility]]
+- [[warranted-assertibility|Warranted Assertibility]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Inquiry-Based-Learning]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]

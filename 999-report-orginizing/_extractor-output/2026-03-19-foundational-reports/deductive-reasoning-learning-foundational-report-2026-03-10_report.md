@@ -414,7 +414,7 @@ extraction_summary:
 #### 48. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 602)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Transfer of Learning and Deductive Skill]]
+> > [!topic-idea] [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]
 > > Whether deductive training in mathematics or formal logic confers reasoning benefits in other domains — the "formal discipline" hypothesis — is among the most consequential and contested questions in cognitive education research. A dedicated report would examine the transfer literature systematically, distinguishing near transfer (within-domain improvements), far transfer (cross-domain improvements), and dispositional transfer (changes in epistemic habits). It would engage the Nisbett et al. (1987) findings on statistical reasoning training and the more sceptical literature on formal logic courses, and would evaluate modern approaches — including structural abstraction and metacognitive scaffolding — for enhancing transfer. Priority: high.
 > 
 > > [!topic-idea] [[Conditional Reasoning and the Wason Selection Task]]
@@ -481,7 +481,7 @@ extraction_summary:
 - [[Philip-Johnson-Laird|Philip Johnson-Laird]]
 - [[Ruth Byrne]]
 - [[Schema-Theory|Schema Theory]]
-- [[Transfer of Learning and Deductive Skill]]
+- [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]
 - [[Wason Selection Task]]
 - [[Abductive-Reasoning|abductive reasoning]]
 - [[Actively-Open-Minded-Thinking|actively open-minded thinking]]
@@ -578,7 +578,7 @@ extraction_summary:
 | 68 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 519 |
 | 69 | [[Critical-Thinking-in-Education|Critical Thinking in Education]] | — | — | Unresolved Questions | 521 |
 | 70 | [[Fallibilism]] | — | — | Unresolved Questions | 523 |
-| 71 | [[Transfer of Learning and Deductive Skill]] | — | — | D. Expansion Topics | 604 |
+| 71 | [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]] | — | — | D. Expansion Topics | 604 |
 | 72 | [[Conditional Reasoning and the Wason Selection Task]] | — | — | D. Expansion Topics | 607 |
 | 73 | [[Belief Bias and Epistemic Calibration]] | — | — | D. Expansion Topics | 610 |
 | 74 | [[Mathematical Proof in Secondary Education]] | — | — | D. Expansion Topics | 613 |
@@ -635,7 +635,7 @@ extraction_summary:
 - [[Philip-Johnson-Laird|Philip Johnson-Laird]]
 - [[Ruth Byrne]]
 - [[Schema-Theory|Schema Theory]]
-- [[Transfer of Learning and Deductive Skill]]
+- [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]
 - [[Wason Selection Task]]
 - [[Abductive-Reasoning|abductive reasoning]]
 - [[Actively-Open-Minded-Thinking|actively open-minded thinking]]
@@ -680,7 +680,7 @@ extraction_summary:
 
 - [[Reasoning and Rationality]]
 - [[Philosophy of Logic]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 
 #### Narrower
 

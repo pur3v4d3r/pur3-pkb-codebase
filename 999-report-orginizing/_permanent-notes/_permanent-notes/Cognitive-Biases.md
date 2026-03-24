@@ -5,7 +5,7 @@
 title: "Cognitive-Biases"
 aliases:
   - "Cognitive-Biases"
-  - "Cognitive Biases"
+  - "cognitive biases"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,15 +24,15 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 46
+referenced-by-count: 47
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -60,9 +60,9 @@ importance: high
 # Cognitive-Biases
 
 > [!definition] **Cognitive-Biases**
-> *Stub note — concept referenced by 46 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 46 permanent notes.*
+*Auto-generated stub — referenced by 47 permanent notes.*
 
 ## Referenced By
 
@@ -81,9 +81,9 @@ importance: high
 - [[Entity-Theory-of-Intelligence]]
 - [[Fixed-Mindset]]
 - [[Goal-Orientation]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Growth-Mindset]]
 - [[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]
 - [[Incremental-Theory-of-Intelligence]]
 - [[Internalization-Continuum]]
 - [[Intrinsic-Motivation]]
-- *...and 26 more permanent notes*
+- *...and 27 more permanent notes*

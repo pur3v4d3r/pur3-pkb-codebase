@@ -198,11 +198,11 @@ extraction_summary:
 > 
 > **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
 > 
-> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
 > 
 > **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
 > 
-> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
 
 #### 10. [KEY-CLAIM] 🎯 The Paradox of Effortful Automation *(Line 220)*
 
@@ -352,12 +352,12 @@ extraction_summary:
 - [[Cognitive Arousal]]
 - [[Cognitive Behavioral Therapy and Stoicism Convergence]]
 - [[Cognitive-Bias|Cognitive Bias]]
-- [[Cognitive Distortion]]
+- [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Competence]]
@@ -365,14 +365,14 @@ extraction_summary:
 - [[Dorsolateral Prefrontal Cortex]]
 - [[Edward-Deci|Edward Deci]]
 - [[Elaborative-Rehearsal|Elaborative Rehearsal]]
-- [[Emotional Dysregulation]]
+- [[Emotional-Dysregulation|Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
 - [[Goal-Setting-Theory|Goal Setting Theory]]
 - [[Habit-Formation|Habit Formation]]
-- [[Implementation Intention]]
+- [[Implementation-Intention|Implementation Intention]]
 - [[Journaling]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Long-Term Potentiation]]
@@ -446,13 +446,13 @@ extraction_summary:
 | 32 | [[Stoicism]] | — | — | 🏛️ Historical and Philosophical Found... | 139 |
 | 33 | [[Marcus-Aurelius|Marcus Aurelius]] | Roman Emperor Marcus Aurelius | — | 🏛️ Historical and Philosophical Found... | 139 |
 | 34 | [[Stoicism]] | Stoic | — | 🏛️ Historical and Philosophical Found... | 139 |
-| 35 | [[Cognitive-Psychology|Cognitive Psychology]] | cognitive psychology | — | 🏛️ Historical and Philosophical Found... | 141 |
+| 35 | [[cognitive-psychology|Cognitive Psychology]] | cognitive psychology | — | 🏛️ Historical and Philosophical Found... | 141 |
 | 36 | [[Self-Regulation-Theory]] | cognitive self-regulation | — | 🏛️ Historical and Philosophical Found... | 141 |
 | 37 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🏛️ Historical and Philosophical Found... | 141 |
 | 38 | [[Automaticity]] | behavioral automaticity | — | 🏛️ Historical and Philosophical Found... | 141 |
 | 39 | [[Stoicism]] | Stoic | — | 🏛️ Historical and Philosophical Found... | 143 |
 | 40 | [[Cognitive-Bias|Cognitive Bias]] | cognitive distortion | — | 🏛️ Historical and Philosophical Found... | 143 |
-| 41 | [[Emotional Dysregulation]] | emotional reactivity | — | 🏛️ Historical and Philosophical Found... | 143 |
+| 41 | [[Emotional-Dysregulation|Emotional Dysregulation]] | emotional reactivity | — | 🏛️ Historical and Philosophical Found... | 143 |
 | 42 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🏛️ Historical and Philosophical Found... | 143 |
 | 43 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical and Philosophical Found... | 145 |
 | 44 | [[Metacognition]] | metacognitive monitoring | — | 🏛️ Historical and Philosophical Found... | 145 |
@@ -485,9 +485,9 @@ extraction_summary:
 | 71 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
 | 72 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
 | 73 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | elaborative rehearsal | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
-| 74 | [[Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
-| 75 | [[Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
-| 76 | [[Implementation Intention]] | implementation intention | — | 💤 Memory Consolidation: The Neuroscie... | 204 |
+| 74 | [[Cognitive-Distortion|Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
+| 75 | [[Emotional-Dysregulation|Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
+| 76 | [[Implementation-Intention|Implementation Intention]] | implementation intention | — | 💤 Memory Consolidation: The Neuroscie... | 204 |
 | 77 | [[Behavioral Modification]] | behavioral change | — | 🔄 Behavioral Modification Through Sel... | 208 |
 | 78 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🔄 Behavioral Modification Through Sel... | 208 |
 | 79 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning | — | 🔄 Behavioral Modification Through Sel... | 208 |
@@ -529,7 +529,7 @@ extraction_summary:
 | 115 | [[Neuroplasticity]] | — | — | Neuroplasticity and the Neurobiology ... | 269 |
 | 116 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Neuroplasticity and the Neurobiology ... | 271 |
 | 117 | [[Habit-Formation|Habit Formation]] | — | — | Neuroplasticity and the Neurobiology ... | 273 |
-| 118 | [[Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 287 |
+| 118 | [[Implementation-Intention|Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 287 |
 | 119 | [[Rumination]] | maladaptive rumination | — | Common Implementation Challenges and ... | 328 |
 | 120 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | Established Findings from Controlled ... | 342 |
 | 121 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | Unanswered Questions and Future Resea... | 358 |
@@ -638,12 +638,12 @@ extraction_summary:
 - [[Cognitive Arousal]]
 - [[Cognitive Behavioral Therapy and Stoicism Convergence]]
 - [[Cognitive-Bias|Cognitive Bias]]
-- [[Cognitive Distortion]]
+- [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Competence]]
@@ -651,14 +651,14 @@ extraction_summary:
 - [[Dorsolateral Prefrontal Cortex]]
 - [[Edward-Deci|Edward Deci]]
 - [[Elaborative-Rehearsal|Elaborative Rehearsal]]
-- [[Emotional Dysregulation]]
+- [[Emotional-Dysregulation|Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
 - [[Goal-Setting-Theory|Goal Setting Theory]]
 - [[Habit-Formation|Habit Formation]]
-- [[Implementation Intention]]
+- [[Implementation-Intention|Implementation Intention]]
 - [[Journaling]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Long-Term Potentiation]]

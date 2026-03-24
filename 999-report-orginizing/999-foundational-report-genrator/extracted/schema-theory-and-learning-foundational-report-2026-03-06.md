@@ -138,7 +138,7 @@ related:
   - "[[Elaboration Theory of Instruction]]"
 
 broader:
-  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
 
 narrower:
@@ -300,7 +300,7 @@ The most systematically developed account of how schemas form and change comes f
 > [!definition] **Equilibration (Piaget)**
 > Equilibration is the regulatory process that governs the balance between assimilation and accommodation. When a learner's existing schemas are adequate to handle incoming experience, cognitive equilibrium exists. When experience produces systematic anomalies that schemas cannot accommodate, disequilibrium arises — a productive state of cognitive conflict that motivates accommodation. Piaget saw equilibration as the fundamental engine of cognitive development: the organism's drive toward increasingly stable and adequate cognitive organization.
 
-These three processes form an integrated system. Assimilation enables rapid, efficient processing of experience by leveraging existing knowledge. Accommodation enables growth and revision when existing frameworks fail. Equilibration regulates the interplay, with disequilibrium serving as the signal that accommodation is needed. Together, they describe a [[Constructivist]] account of learning — not as passive receipt of information, but as active construction and reconstruction of knowledge.
+These three processes form an integrated system. Assimilation enables rapid, efficient processing of experience by leveraging existing knowledge. Accommodation enables growth and revision when existing frameworks fail. Equilibration regulates the interplay, with disequilibrium serving as the signal that accommodation is needed. Together, they describe a [[constructivist]] account of learning — not as passive receipt of information, but as active construction and reconstruction of knowledge.
 
 > [!insight] **The Tension Between Efficiency and Growth**
 > Piaget's framework reveals a deep tension in all learning. Assimilation is efficient but conservative — it interprets the new through the lens of the old, which can mean distortion or oversimplification. Accommodation is transformative but costly — it requires disrupting established cognitive structures, which takes effort and introduces temporary instability. Good instruction, from this perspective, is instruction that creates productive disequilibrium: enough cognitive challenge to motivate accommodation, but not so much disruption that the learner is overwhelmed and retreats to assimilation or disengagement.

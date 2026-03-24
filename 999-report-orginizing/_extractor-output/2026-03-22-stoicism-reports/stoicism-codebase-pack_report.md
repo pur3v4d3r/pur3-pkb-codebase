@@ -2171,11 +2171,11 @@ extraction_summary:
 > 
 > **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
 > 
-> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
 > 
 > **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
 > 
-> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
 
 #### 34. [KEY-CLAIM] 🎯 The Paradox of Effortful Automation *(Line 709)*
 
@@ -12071,7 +12071,7 @@ extraction_summary:
 - [[Cognitive Defusion vs Stoic Reserve Clause — Are They Equivalent?]]
 - [[Cognitive-Development-Theory|Cognitive Development Theory]]
 - [[Cognitive Disputation]]
-- [[Cognitive Distortion]]
+- [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive Forcing Functions]]
@@ -12084,7 +12084,7 @@ extraction_summary:
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Responses]]
@@ -12182,7 +12182,7 @@ extraction_summary:
 - [[Emotion Regulation]]
 - [[Emotion Regulation Science]]
 - [[Emotional Control]]
-- [[Emotional Dysregulation]]
+- [[Emotional-Dysregulation|Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Resilience]]
@@ -12310,7 +12310,7 @@ extraction_summary:
 - [[Impermanence Contemplation]]
 - [[Impermanence Meditation]]
 - [[Implementation Friction]]
-- [[Implementation Intention]]
+- [[Implementation-Intention|Implementation Intention]]
 - [[Implicit Theories Deconstruction]]
 - [[implicit-theories-of-intelligence|Implicit Theories of Intelligence]]
 - [[Impressions]]
@@ -12728,7 +12728,7 @@ extraction_summary:
 - [[Stoicism in Leadership and Decision-Making]]
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
-- [[Strategic Planning]]
+- [[Strategic-Planning|Strategic Planning]]
 - [[Structural Encoding Techniques]]
 - [[Structured Prompts]]
 - [[Sunkatathesis]]
@@ -12991,13 +12991,13 @@ extraction_summary:
 | 148 | [[Stoicism]] | — | — | 🏛️ Historical and Philosophical Found... | 628 |
 | 149 | [[Marcus-Aurelius|Marcus Aurelius]] | Roman Emperor Marcus Aurelius | — | 🏛️ Historical and Philosophical Found... | 628 |
 | 150 | [[Stoicism]] | Stoic | — | 🏛️ Historical and Philosophical Found... | 628 |
-| 151 | [[Cognitive-Psychology|Cognitive Psychology]] | cognitive psychology | — | 🏛️ Historical and Philosophical Found... | 630 |
+| 151 | [[cognitive-psychology|Cognitive Psychology]] | cognitive psychology | — | 🏛️ Historical and Philosophical Found... | 630 |
 | 152 | [[Self-Regulation-Theory]] | cognitive self-regulation | — | 🏛️ Historical and Philosophical Found... | 630 |
 | 153 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🏛️ Historical and Philosophical Found... | 630 |
 | 154 | [[Automaticity]] | behavioral automaticity | — | 🏛️ Historical and Philosophical Found... | 630 |
 | 155 | [[Stoicism]] | Stoic | — | 🏛️ Historical and Philosophical Found... | 632 |
 | 156 | [[Cognitive-Bias|Cognitive Bias]] | cognitive distortion | — | 🏛️ Historical and Philosophical Found... | 632 |
-| 157 | [[Emotional Dysregulation]] | emotional reactivity | — | 🏛️ Historical and Philosophical Found... | 632 |
+| 157 | [[Emotional-Dysregulation|Emotional Dysregulation]] | emotional reactivity | — | 🏛️ Historical and Philosophical Found... | 632 |
 | 158 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🏛️ Historical and Philosophical Found... | 632 |
 | 159 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical and Philosophical Found... | 634 |
 | 160 | [[Metacognition]] | metacognitive monitoring | — | 🏛️ Historical and Philosophical Found... | 634 |
@@ -13030,9 +13030,9 @@ extraction_summary:
 | 187 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 677 |
 | 188 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 679 |
 | 189 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | elaborative rehearsal | — | 💤 Memory Consolidation: The Neuroscie... | 679 |
-| 190 | [[Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 689 |
-| 191 | [[Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 689 |
-| 192 | [[Implementation Intention]] | implementation intention | — | 💤 Memory Consolidation: The Neuroscie... | 693 |
+| 190 | [[Cognitive-Distortion|Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 689 |
+| 191 | [[Emotional-Dysregulation|Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 689 |
+| 192 | [[Implementation-Intention|Implementation Intention]] | implementation intention | — | 💤 Memory Consolidation: The Neuroscie... | 693 |
 | 193 | [[Behavioral Modification]] | behavioral change | — | 🔄 Behavioral Modification Through Sel... | 697 |
 | 194 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🔄 Behavioral Modification Through Sel... | 697 |
 | 195 | [[Self-Regulated-Learning|Self-Regulated Learning]] | self-regulated learning | — | 🔄 Behavioral Modification Through Sel... | 697 |
@@ -13074,7 +13074,7 @@ extraction_summary:
 | 231 | [[Neuroplasticity]] | — | — | Neuroplasticity and the Neurobiology ... | 758 |
 | 232 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Neuroplasticity and the Neurobiology ... | 760 |
 | 233 | [[Habit-Formation|Habit Formation]] | — | — | Neuroplasticity and the Neurobiology ... | 762 |
-| 234 | [[Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 776 |
+| 234 | [[Implementation-Intention|Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 776 |
 | 235 | [[Rumination]] | maladaptive rumination | — | Common Implementation Challenges and ... | 817 |
 | 236 | [[Cognitive-Offloading|Cognitive Offloading]] | cognitive offloading | — | Established Findings from Controlled ... | 831 |
 | 237 | [[Cognitive-Offloading|Cognitive Offloading]] | cognitive offloading | — | Unanswered Questions and Future Resea... | 847 |
@@ -15274,7 +15274,7 @@ extraction_summary:
 | 2431 | [[Confirmation-Bias|Confirmation Bias]] | — | — | ═════════════════════════════════════... | 45671 |
 | 2432 | [[Availability-Heuristic]] | — | — | ═════════════════════════════════════... | 45672 |
 | 2433 | [[Anchoring Bias]] | — | — | ═════════════════════════════════════... | 45673 |
-| 2434 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | ═════════════════════════════════════... | 45676 |
+| 2434 | [[cognitive-psychology|Cognitive Psychology]] | — | — | ═════════════════════════════════════... | 45676 |
 | 2435 | [[Educational-Psychology|Educational Psychology]] | — | — | ═════════════════════════════════════... | 45677 |
 | 2436 | [[Applied Epistemology]] | — | — | ═════════════════════════════════════... | 45678 |
 | 2437 | [[Rationality Studies]] | — | — | ═════════════════════════════════════... | 45679 |
@@ -15300,7 +15300,7 @@ extraction_summary:
 | 2457 | [[Unconscious Competence]] | — | — | ═════════════════════════════════════... | 45705 |
 | 2458 | [[Professional Decision Making]] | — | — | ═════════════════════════════════════... | 45708 |
 | 2459 | [[Academic Research]] | — | — | ═════════════════════════════════════... | 45709 |
-| 2460 | [[Strategic Planning]] | — | — | ═════════════════════════════════════... | 45710 |
+| 2460 | [[Strategic-Planning|Strategic Planning]] | — | — | ═════════════════════════════════════... | 45710 |
 | 2461 | [[Problem Solving in Complex Domains]] | — | — | ═════════════════════════════════════... | 45711 |
 | 2462 | [[Evidence-Based Practice]] | — | — | ═════════════════════════════════════... | 45712 |
 | 2463 | [[Foundational-Logic|Foundational Logic]] | — | — | ═════════════════════════════════════... | 45718 |
@@ -18548,7 +18548,7 @@ THE BELKNAP PRESS OF
 - [[Cognitive Defusion vs Stoic Reserve Clause — Are They Equivalent?]]
 - [[Cognitive-Development-Theory|Cognitive Development Theory]]
 - [[Cognitive Disputation]]
-- [[Cognitive Distortion]]
+- [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive Forcing Functions]]
@@ -18561,7 +18561,7 @@ THE BELKNAP PRESS OF
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
-- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Responses]]
@@ -18659,7 +18659,7 @@ THE BELKNAP PRESS OF
 - [[Emotion Regulation]]
 - [[Emotion Regulation Science]]
 - [[Emotional Control]]
-- [[Emotional Dysregulation]]
+- [[Emotional-Dysregulation|Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Resilience]]
@@ -18787,7 +18787,7 @@ THE BELKNAP PRESS OF
 - [[Impermanence Contemplation]]
 - [[Impermanence Meditation]]
 - [[Implementation Friction]]
-- [[Implementation Intention]]
+- [[Implementation-Intention|Implementation Intention]]
 - [[Implicit Theories Deconstruction]]
 - [[implicit-theories-of-intelligence|Implicit Theories of Intelligence]]
 - [[Impressions]]
@@ -19205,7 +19205,7 @@ THE BELKNAP PRESS OF
 - [[Stoicism in Leadership and Decision-Making]]
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
-- [[Strategic Planning]]
+- [[Strategic-Planning|Strategic Planning]]
 - [[Structural Encoding Techniques]]
 - [[Structured Prompts]]
 - [[Sunkatathesis]]

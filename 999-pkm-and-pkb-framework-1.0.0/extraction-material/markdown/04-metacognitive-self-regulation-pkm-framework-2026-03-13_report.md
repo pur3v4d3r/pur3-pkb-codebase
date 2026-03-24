@@ -546,7 +546,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective-Practitioner|Reflective Practitioner]]
@@ -585,7 +585,7 @@ extraction_summary:
 | 8 | [[Flavell]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 9 | [[Educational-Psychology|Educational Psychology]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 10 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 108 |
-| 11 | [[Pragmatism]] | — | — | Disciplinary Contributions and Their ... | 108 |
+| 11 | [[pragmatism]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 12 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 13 | [[Knowledge-Management|Knowledge Management]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 14 | [[Reflective-Practitioner|Reflective Practitioner]] | — | — | Disciplinary Contributions and Their ... | 108 |
@@ -694,7 +694,7 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 - [[Metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective-Practitioner|Reflective Practitioner]]

@@ -1207,7 +1207,7 @@ extraction_summary:
 - [[Cognitive Engagement Architecture]]
 - [[Cognitive Forcing Functions]]
 - [[Cognitive-Load-Theory]]
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Cognitive-Science]]
 - [[Cognitive-Load-Theory-Applied-to-LLM-Reasoning]]
 - [[Comparative Analysis Report Prompt]]
@@ -1332,12 +1332,12 @@ extraction_summary:
 - [[PKM Report Generator]]
 - [[PKM Report Topic Registry]]
 - [[PKM-LLL v1.0]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal-Knowledge-Base]]
 - [[Personal-Knowledge-Management]]
 - [[Polanyi's Tacit Knowledge]]
 - [[Practical Reasoning in Real-World Contexts]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatist-Epistemology]]
 - [[Pragmatist-Truth]]
 - [[Pre-Mortem Analysis]]
@@ -1396,7 +1396,7 @@ extraction_summary:
 - [[Stoicism and Modern Neuroscience: Ancient Wisdom Meets Contemporary Research]]
 - [[Stoicism and Relationships: Attachment Without Dependence]]
 - [[Stoicism, Social Justice, and Political Engagement]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[Structural Encoding Techniques]]
 - [[Testing-Effect]]
 - [[Theory B]]
@@ -1481,7 +1481,7 @@ extraction_summary:
 | 25 | [[Dewey's-Reflective-Inquiry]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
 | 26 | [[Kolb's-Experiential-Learning-Cycle]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
 | 27 | [[Pragmatist-Epistemology]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
-| 28 | [[Pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
+| 28 | [[pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 29 | [[Andragogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 30 | [[Heutagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 31 | [[Cognitive-Load-Theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
@@ -1531,7 +1531,7 @@ extraction_summary:
 | 75 | [[Zone-of-Proximal-Development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 76 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 77 | [[Educational Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
-| 78 | [[Pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
+| 78 | [[pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 79 | [[Andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 80 | [[Heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 81 | [[Knowledge-Integration]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
@@ -1563,7 +1563,7 @@ extraction_summary:
 | 107 | [[Cognitive-Load-Theory]] | — | — | ═════════════════════════════════════... | 595 |
 | 108 | [[Schema-Theory]] | — | — | ═════════════════════════════════════... | 596 |
 | 109 | [[Self-Determination-Theory]] | — | — | ═════════════════════════════════════... | 597 |
-| 110 | [[Pragmatism]] | — | — | ═════════════════════════════════════... | 598 |
+| 110 | [[pragmatism]] | — | — | ═════════════════════════════════════... | 598 |
 | 111 | [[Stoic-Philosophy]] | — | — | ═════════════════════════════════════... | 599 |
 | 112 | [[Critical-Thinking]] | — | — | ═════════════════════════════════════... | 600 |
 | 113 | [[Knowledge Organization]] | — | — | ═════════════════════════════════════... | 601 |
@@ -1595,7 +1595,7 @@ extraction_summary:
 | 139 | [[Dual-Process-Theory]] | — | — | The Disciplinary Toolkit | 905 |
 | 140 | [[Working-Memory]] | — | — | The Disciplinary Toolkit | 905 |
 | 141 | [[Cognitive-Architecture]] | — | — | The Disciplinary Toolkit | 905 |
-| 142 | [[Cognitive-Psychology]] | — | — | The Disciplinary Toolkit | 906 |
+| 142 | [[cognitive-psychology]] | — | — | The Disciplinary Toolkit | 906 |
 | 143 | [[Schema-Theory]] | — | — | The Disciplinary Toolkit | 906 |
 | 144 | [[Cognitive-Load-Theory]] | — | — | The Disciplinary Toolkit | 906 |
 | 145 | [[Encoding-Specificity]] | — | — | The Disciplinary Toolkit | 906 |
@@ -1604,7 +1604,7 @@ extraction_summary:
 | 148 | [[Achievement-Goal-Theory]] | — | — | The Disciplinary Toolkit | 907 |
 | 149 | [[Transfer]] | — | — | The Disciplinary Toolkit | 907 |
 | 150 | [[Educational-Philosophy]] | — | — | The Disciplinary Toolkit | 908 |
-| 151 | [[Pragmatism]] | — | — | The Disciplinary Toolkit | 908 |
+| 151 | [[pragmatism]] | — | — | The Disciplinary Toolkit | 908 |
 | 152 | [[Constructivism]] | — | — | The Disciplinary Toolkit | 908 |
 | 153 | [[Critical Pedagogy]] | — | — | The Disciplinary Toolkit | 908 |
 | 154 | [[Instructional-Design]] | — | — | The Disciplinary Toolkit | 909 |
@@ -1673,7 +1673,7 @@ extraction_summary:
 | 217 | [[Dewey's-Reflective-Inquiry]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
 | 218 | [[Kolb's-Experiential-Learning-Cycle]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
 | 219 | [[Pragmatist-Epistemology]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
-| 220 | [[Pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
+| 220 | [[pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 221 | [[Andragogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 222 | [[Heutagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 223 | [[Cognitive-Load-Theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
@@ -1723,7 +1723,7 @@ extraction_summary:
 | 267 | [[Zone-of-Proximal-Development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 268 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 269 | [[Educational Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
-| 270 | [[Pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
+| 270 | [[pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 271 | [[Andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 272 | [[Heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 273 | [[Knowledge-Integration]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
@@ -1926,7 +1926,7 @@ extraction_summary:
 | 470 | [[Confirmation-Bias]] | — | — | ═════════════════════════════════════... | 4949 |
 | 471 | [[Availability-Heuristic]] | — | — | ═════════════════════════════════════... | 4950 |
 | 472 | [[Anchoring Bias]] | — | — | ═════════════════════════════════════... | 4951 |
-| 473 | [[Cognitive-Psychology]] | — | — | ═════════════════════════════════════... | 4954 |
+| 473 | [[cognitive-psychology]] | — | — | ═════════════════════════════════════... | 4954 |
 | 474 | [[Educational-Psychology]] | — | — | ═════════════════════════════════════... | 4955 |
 | 475 | [[Applied Epistemology]] | — | — | ═════════════════════════════════════... | 4956 |
 | 476 | [[Rationality Studies]] | — | — | ═════════════════════════════════════... | 4957 |
@@ -1952,7 +1952,7 @@ extraction_summary:
 | 496 | [[Unconscious Competence]] | — | — | ═════════════════════════════════════... | 4983 |
 | 497 | [[Professional Decision Making]] | — | — | ═════════════════════════════════════... | 4986 |
 | 498 | [[Academic Research]] | — | — | ═════════════════════════════════════... | 4987 |
-| 499 | [[Strategic Planning]] | — | — | ═════════════════════════════════════... | 4988 |
+| 499 | [[Strategic-Planning]] | — | — | ═════════════════════════════════════... | 4988 |
 | 500 | [[Problem Solving in Complex Domains]] | — | — | ═════════════════════════════════════... | 4989 |
 | 501 | [[Evidence-Based Practice]] | — | — | ═════════════════════════════════════... | 4990 |
 | 502 | [[Foundational-Logic]] | — | — | ═════════════════════════════════════... | 4996 |
@@ -2904,7 +2904,7 @@ tags:
 - [[Cognitive Engagement Architecture]]
 - [[Cognitive Forcing Functions]]
 - [[Cognitive-Load-Theory]]
-- [[Cognitive-Psychology]]
+- [[cognitive-psychology]]
 - [[Cognitive-Science]]
 - [[Cognitive-Load-Theory-Applied-to-LLM-Reasoning]]
 - [[Comparative Analysis Report Prompt]]
@@ -3029,12 +3029,12 @@ tags:
 - [[PKM Report Generator]]
 - [[PKM Report Topic Registry]]
 - [[PKM-LLL v1.0]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Personal-Knowledge-Base]]
 - [[Personal-Knowledge-Management]]
 - [[Polanyi's Tacit Knowledge]]
 - [[Practical Reasoning in Real-World Contexts]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatist-Epistemology]]
 - [[Pragmatist-Truth]]
 - [[Pre-Mortem Analysis]]
@@ -3093,7 +3093,7 @@ tags:
 - [[Stoicism and Modern Neuroscience: Ancient Wisdom Meets Contemporary Research]]
 - [[Stoicism and Relationships: Attachment Without Dependence]]
 - [[Stoicism, Social Justice, and Political Engagement]]
-- [[Strategic Planning]]
+- [[Strategic-Planning]]
 - [[Structural Encoding Techniques]]
 - [[Testing-Effect]]
 - [[Theory B]]

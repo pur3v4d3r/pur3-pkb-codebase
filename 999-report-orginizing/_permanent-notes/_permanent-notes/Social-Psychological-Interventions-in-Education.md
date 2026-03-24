@@ -5,7 +5,6 @@
 title: "Social-Psychological-Interventions-in-Education"
 aliases:
   - "Social-Psychological-Interventions-in-Education"
-  - "Social-Psychological Interventions in Education"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +42,7 @@ see-also:
   - "[[Entity-Theory-of-Intelligence]]"
   - "[[Fixed-Mindset]]"
   - "[[Goal-Orientation]]"
-  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence]]"
+  - "[[Growth-Mindset]]"
   - "[[Incremental-Theory-of-Intelligence]]"
   - "[[Mastery-Experience]]"
   - "[[Mindset-Intervention]]"
@@ -71,7 +70,7 @@ importance: medium
 - [[Entity-Theory-of-Intelligence]]
 - [[Fixed-Mindset]]
 - [[Goal-Orientation]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Growth-Mindset]]
 - [[Incremental-Theory-of-Intelligence]]
 - [[Mastery-Experience]]
 - [[Mindset-Intervention]]

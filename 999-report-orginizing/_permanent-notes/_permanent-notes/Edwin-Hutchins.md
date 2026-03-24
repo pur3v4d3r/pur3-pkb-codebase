@@ -24,61 +24,43 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 4
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[4E-Cognition]]"
-  - "[[Active-Externalism]]"
   - "[[Classical-Cognitivism]]"
-  - "[[Cognitive-Offloading]]"
-  - "[[Cognitive-Offloading-—-Cognitive-Psychology]]"
-  - "[[Cognitive-Scaffolding]]"
-  - "[[Coupling-Constitution-Fallacy]]"
   - "[[Distributed-Cognition]]"
   - "[[Extended-Mind-Theory]]"
-  - "[[Extended-Mind-Theory-—-Philosophy-of-Mind]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
 # Edwin-Hutchins
 
 > [!definition] **Edwin-Hutchins**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 4 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 4 permanent notes.*
 
 ## Referenced By
 
 - [[4E-Cognition]]
-- [[Active-Externalism]]
 - [[Classical-Cognitivism]]
-- [[Cognitive-Offloading]]
-- [[Cognitive-Offloading-—-Cognitive-Psychology]]
-- [[Cognitive-Scaffolding]]
-- [[Coupling-Constitution-Fallacy]]
 - [[Distributed-Cognition]]
 - [[Extended-Mind-Theory]]
-- [[Extended-Mind-Theory-—-Philosophy-of-Mind]]
-- [[Internalism]]
-- [[Mark-of-the-Cognitive]]
-- [[Parity-Principle]]
-- [[Passive-Externalism]]
-- [[The-Parity-Principle]]
-- [[Vehicle-Externalism]]

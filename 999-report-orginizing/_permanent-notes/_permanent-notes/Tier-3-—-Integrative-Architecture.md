@@ -5,7 +5,6 @@
 title: "Tier-3-—-Integrative-Architecture"
 aliases:
   - "-Integrative-Architecture"
-  - "Tier 3 — Integrative Architecture"
   - "Tier-3-"
   - "Tier-3-—-Integrative-Architecture"
 type: permanent-note
@@ -26,8 +25,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

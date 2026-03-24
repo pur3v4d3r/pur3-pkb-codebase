@@ -23,8 +23,8 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +41,7 @@ see-also:
   - "[[Context-Window]]"
   - "[[Counterexample-Search]]"
   - "[[Figure-Effect]]"
-  - "[[Flavell-Metacognition-Framework]]"
+  - "[[Flavell's-Metacognitive-Framework]]"
   - "[[Fleshing-Out]]"
   - "[[Forethought-Phase]]"
   - "[[Handlebars]]"
@@ -69,7 +69,7 @@ importance: high
 - [[Context-Window]]
 - [[Counterexample-Search]]
 - [[Figure-Effect]]
-- [[Flavell-Metacognition-Framework]]
+- [[Flavell's-Metacognitive-Framework]]
 - [[Fleshing-Out]]
 - [[Forethought-Phase]]
 - [[Handlebars]]

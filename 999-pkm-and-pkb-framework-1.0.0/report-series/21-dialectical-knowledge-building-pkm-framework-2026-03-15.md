@@ -100,7 +100,7 @@ related-concepts:
   - "[[Anomalous Data Response]]"
   - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
   - "[[Confirmation-Bias-Myside-Bias|Myside Bias]]"
-  - "[[Warranted-Assertibility|Warranted Assertibility]]"
+  - "[[warranted-assertibility|Warranted Assertibility]]"
   - "[[Knowledge Claim]]"
   - "[[Aufhebung-in-PKB]]"
 

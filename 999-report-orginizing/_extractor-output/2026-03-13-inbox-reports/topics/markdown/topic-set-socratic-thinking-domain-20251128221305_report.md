@@ -175,7 +175,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Moral Relativism]]
 - [[Ostensive Definition]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Perspective-Taking]]
 - [[Peter Geach]]
 - [[Philosophy of Education]]
@@ -228,7 +228,7 @@ extraction_summary:
 | 2 | [[Critical-Thinking|Critical Thinking]] | — | — | Claude Thinking: | 49 |
 | 3 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Claude Thinking: | 49 |
 | 4 | [[Dialectical Reasoning]] | — | — | Claude Thinking: | 49 |
-| 5 | [[Pedagogy]] | — | — | Claude Thinking: | 49 |
+| 5 | [[pedagogy]] | — | — | Claude Thinking: | 49 |
 | 6 | [[Philosophy of Education]] | — | — | Claude Thinking: | 49 |
 | 7 | [[Informal Logic]] | — | — | Claude Thinking: | 49 |
 | 8 | [[Argumentation-Theory|Argumentation Theory]] | — | — | Claude Thinking: | 49 |
@@ -418,7 +418,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Moral Relativism]]
 - [[Ostensive Definition]]
-- [[Pedagogy]]
+- [[pedagogy]]
 - [[Perspective-Taking]]
 - [[Peter Geach]]
 - [[Philosophy of Education]]

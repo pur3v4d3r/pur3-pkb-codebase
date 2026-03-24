@@ -2,10 +2,10 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Instructional-design"
+title: "instructional design"
 aliases:
+  - "instructional design"
   - "Instructional-design"
-  - "Instructional Design"
 type: permanent-note
 status: seedling
 confidence: low
@@ -16,7 +16,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - concept-stub
+  - domain-stub
   - educational-psychology
 
 domain: educational-psychology
@@ -24,15 +24,15 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 13
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,12 +42,12 @@ see-also:
   - "[[Cognitive-Load-Theory]]"
   - "[[Element-Interactivity]]"
   - "[[Expertise-Reversal-Effect]]"
+  - "[[Extraneous-Cognitive-Load]]"
   - "[[Germane-Cognitive-Load]]"
   - "[[Guidance-Fading-Principle]]"
   - "[[Intrinsic-Cognitive-Load]]"
   - "[[Schema-Automation]]"
   - "[[Split-Attention-Effect]]"
-  - "[[Toward-an-Expertise-Indexed-Instructional-Design-Principle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -57,12 +57,12 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Instructional-design
+# instructional design
 
-> [!definition] **Instructional-design**
-> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **instructional design**
+> *Stub note — academic domain/field referenced by 14 permanent notes. Expand with scope, key theories, foundational thinkers, and relationship to PKM practice.*
 
-*Auto-generated stub — referenced by 13 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
@@ -70,6 +70,7 @@ importance: medium
 - [[Cognitive-Load-Theory]]
 - [[Element-Interactivity]]
 - [[Expertise-Reversal-Effect]]
+- [[Extraneous-Cognitive-Load]]
 - [[Germane-Cognitive-Load]]
 - [[Guidance-Fading-Principle]]
 - [[Intrinsic-Cognitive-Load]]

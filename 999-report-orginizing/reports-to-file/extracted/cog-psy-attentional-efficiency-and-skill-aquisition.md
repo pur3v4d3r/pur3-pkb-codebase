@@ -117,7 +117,7 @@ link_related:
 
 [**Automaticity**:: The capacity to execute cognitive or motor processes with minimal attentional demands, reduced conscious awareness, and increased efficiency - achieved through extensive practice that transforms controlled, effortful processing into rapid, parallel, and seemingly effortless performance.]
 
-The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[Cognitive-Psychology|cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.
+The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive-psychology|cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.
 
 ### Logan's Instance Theory: Memory-Based Automaticity
 
@@ -257,7 +257,7 @@ The systems-level reorganization during consolidation parallels the shift from c
 
 [**Automatic-Process-Characteristics**:: The defining features of automatized cognitive operations including speed (rapid execution), parallelism (simultaneous processing of multiple items), effortlessness (minimal attentional resource consumption), unavoidability (difficulty suppressing once triggered), and reduced awareness (limited conscious access to processing operations) - contrasting sharply with controlled processes that are slow, serial, effortful, controllable, and consciously accessible.]
 
-The conceptual distinction between automatic and controlled processing forms a foundational framework in [[Cognitive-Psychology|cognitive psychology]], originating with Shiffrin and Schneider's (1977) influential two-process theory and refined through decades of empirical investigation. While the dichotomy has been challenged and nuanced, understanding the characteristic features of each processing mode remains essential for analyzing skill acquisition and expertise development.
+The conceptual distinction between automatic and controlled processing forms a foundational framework in [[cognitive-psychology|cognitive psychology]], originating with Shiffrin and Schneider's (1977) influential two-process theory and refined through decades of empirical investigation. While the dichotomy has been challenged and nuanced, understanding the characteristic features of each processing mode remains essential for analyzing skill acquisition and expertise development.
 
 ### Shiffrin and Schneider's Two-Process Theory
 

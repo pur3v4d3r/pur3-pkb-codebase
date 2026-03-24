@@ -330,7 +330,7 @@ This domain synthesizes [[Schema-Theory]] (Bartlett 1932; Rumelhart 1980), [[Sem
 ### Domain 2: Learning Mechanisms & Active Construction
 
 > [!definition] Active Construction Imperative
-> Knowledge is constructed through effortful cognitive processing, not transferred through passive exposure. The [[Constructivist]] consensus — supported independently by [[Desirable-Difficulties]] research, [[Elaborative-Interrogation]], the [[Socratic-Method]], and [[Pragmatist-Epistemology]] — is that productive struggle constitutes the mechanism of learning itself.
+> Knowledge is constructed through effortful cognitive processing, not transferred through passive exposure. The [[constructivist]] consensus — supported independently by [[Desirable-Difficulties]] research, [[Elaborative-Interrogation]], the [[Socratic-Method]], and [[Pragmatist-Epistemology]] — is that productive struggle constitutes the mechanism of learning itself.
 
 [**Active-Construction-Imperative**:: The cross-disciplinary finding that knowledge must be actively constructed through effortful cognitive processing — not passively received or stored. Productive struggle is the mechanism of learning, not an obstacle to it. A PKB designed for efficient capture is therefore designed for poor learning.]
 
@@ -689,7 +689,7 @@ SORT doc_id ASC
 > - **Expansion Topics:** [[pkm-pkb-framework-expansion-topics]] — prioritized registry of future development topics
 > - **PKB Architecture:** Connects to [[Obsidian PKB Architecture]], [[Dataview Integration]], [[Templater Templates]]
 > - **SPES System:** Design principles inform prompt engineering component architecture via [[Sequential Prompt Engineering System]]
-> - **Cognitive Frameworks:** Deeply connects to [[Andragogy]], [[Pedagogy]], [[Heutagogy]], [[Metacognition]], [[Self-Regulated-Learning]]
+> - **Cognitive Frameworks:** Deeply connects to [[Andragogy]], [[pedagogy]], [[Heutagogy]], [[Metacognition]], [[Self-Regulated-Learning]]
 
 ---
 

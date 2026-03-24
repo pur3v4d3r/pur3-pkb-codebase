@@ -18,7 +18,7 @@ link-up:
 link-related:
   - "[[Cognitive Load Management]]"
   - "[[Cognitive-Load-Theory]]"
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Critical-Thinking]]"
   - "[[Germane-Load]]"
   - "[[Intrinsic-Load]]"

@@ -135,7 +135,7 @@ review
   - "[[Self-Directed-Learning]]"
   - "[[Self-Regulated-Learning]]"
   - "[[Self Regulation Theory]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning]]"
   - "[[System Building]]"
   - "[[Time Blocking]]"
   - "[[Weekly Review]]"

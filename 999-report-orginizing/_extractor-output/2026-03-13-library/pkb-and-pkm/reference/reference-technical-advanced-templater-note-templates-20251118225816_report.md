@@ -666,11 +666,11 @@ extraction_summary:
 - [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(3, 'days').format("YYYY-MM-DD") %>]]
 - [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(4, 'days').format("YYYY-MM-DD") %>]]
 - [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(5, 'days').format("YYYY-MM-DD") %>]]
-- [[<% tp.date.now("YYYY-MM") %> Monthly Review]]
-- [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]]
+- [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
-- [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
+- [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
 - [[<% tp.frontmatter.year %> Year in Review]]
 - [[@Source]]
 - [[@Source1]]
@@ -779,7 +779,7 @@ extraction_summary:
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]]
 - [[Statistical Technique]]
 - [[Stoic Evening Meditation]]
-- [[Strategic Planning]]
+- [[Strategic-Planning|Strategic Planning]]
 - [[Tasks]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
@@ -829,26 +829,26 @@ extraction_summary:
 | 11 | [[Concept-2|Concept 2]] | — | — | 📚 Learning Log | 776 |
 | 12 | [[Previous-Concept|Previous Concept]] | — | — | 📚 Learning Log | 787 |
 | 13 | [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | — | — | 🔗 Daily Connections | 876 |
-| 14 | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] | — | — | 🔗 Daily Connections | 877 |
-| 15 | [[<% tp.date.now("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Daily Connections | 880 |
+| 14 | [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] | — | — | 🔗 Daily Connections | 877 |
+| 15 | [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Daily Connections | 880 |
 | 16 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 📎 References & Links | 907 |
 | 17 | [[productivity]] | — | — | 📎 References & Links | 907 |
 | 18 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | ✅ Day Complete | 990 |
-| 19 | [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | ✅ Day Complete | 994 |
+| 19 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | ✅ Day Complete | 994 |
 | 20 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | ✅ Day Complete | 994 |
 | 21 | [[deep work]] | — | — | ✅ Day Complete | 997 |
 | 22 | [[Flow State]] | — | — | ✅ Day Complete | 997 |
 | 23 | [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] | — | — | ✅ Day Complete | 1010 |
-| 24 | [[<% tp.date.now("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Weekly Links | 1170 |
+| 24 | [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Weekly Links | 1170 |
 | 25 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(1, 'day').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1173 |
 | 26 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(2, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1174 |
 | 27 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(3, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1175 |
 | 28 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(4, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1176 |
 | 29 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(5, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1177 |
 | 30 | [[GTD Weekly Review]] | — | — | 🔗 Weekly Links | 1185 |
-| 31 | [[Strategic Planning]] | — | — | 🔗 Weekly Links | 1185 |
+| 31 | [[Strategic-Planning|Strategic Planning]] | — | — | 🔗 Weekly Links | 1185 |
 | 32 | [[Getting Things Done]] | — | — | 🔗 Weekly Links | 1194 |
-| 33 | [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | 🔗 Navigation | 1369 |
+| 33 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | 🔗 Navigation | 1369 |
 | 34 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | 🔗 Navigation | 1370 |
 | 35 | [[Burnout]] | — | — | 🔗 Navigation | 1378 |
 | 36 | [[work-life balance]] | — | — | 🔗 Navigation | 1378 |
@@ -1243,7 +1243,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 9 — `plaintext` *(Lines 1183-1208)*
 
 ```plaintext
-**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic Planning]] at the weekly cadence.
+**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning|Strategic Planning]] at the weekly cadence.
 
 **Key Features:**
 - Automatic weekly review triggers and checklists
@@ -2087,11 +2087,11 @@ graph LR
 - [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(3, 'days').format("YYYY-MM-DD") %>]]
 - [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(4, 'days').format("YYYY-MM-DD") %>]]
 - [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(5, 'days').format("YYYY-MM-DD") %>]]
-- [[<% tp.date.now("YYYY-MM") %> Monthly Review]]
-- [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
+- [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]]
+- [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
-- [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
+- [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
 - [[<% tp.frontmatter.year %> Year in Review]]
 - [[@Source]]
 - [[@Source1]]
@@ -2200,7 +2200,7 @@ graph LR
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]]
 - [[Statistical Technique]]
 - [[Stoic Evening Meditation]]
-- [[Strategic Planning]]
+- [[Strategic-Planning|Strategic Planning]]
 - [[Tasks]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]

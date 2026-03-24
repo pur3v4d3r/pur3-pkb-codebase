@@ -5,7 +5,6 @@
 title: "Nicomachean-Ethics"
 aliases:
   - "Nicomachean-Ethics"
-  - "Nicomachean Ethics"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,8 +23,8 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-22
-updated: 2026-03-22
+created: 2026-03-24
+updated: 2026-03-24
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING

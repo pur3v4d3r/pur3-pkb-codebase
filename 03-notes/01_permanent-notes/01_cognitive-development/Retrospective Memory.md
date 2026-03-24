@@ -49,7 +49,7 @@ link-related:
   - "[[Self-Directed-Learning]]"
   - "[[Self-Regulated-Learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Strategic Planning]]"
+  - "[[Strategic-Planning]]"
   - "[[System Building]]"
   - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]"
   - "[[Weekly Review]]"
