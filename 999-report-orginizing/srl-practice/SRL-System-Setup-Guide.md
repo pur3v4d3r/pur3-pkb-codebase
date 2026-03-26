@@ -47,10 +47,10 @@ This is an **8-document Obsidian-native system** implementing Zimmerman's Cyclic
 1. Open Obsidian Settings (`Ctrl/Cmd + ,`)
 2. Navigate to **Community Plugins**
 3. Verify each required plugin is installed and **enabled**:
-   - [ ] Templater
-   - [ ] Dataview
-   - [ ] Meta Bind
-   - [ ] Tasks
+   - [x] Templater
+   - [x] Dataview
+   - [x] Meta Bind
+   - [x] Tasks
 4. If any plugin is missing:
    - Click **Browse** in Community Plugins
    - Search for the plugin name
@@ -156,14 +156,14 @@ Open each persistent note and complete the initial setup:
 
 After installation, verify the system works:
 
-- [ ] Templates folder contains all 3 template files
-- [ ] SRL-System folder contains all 4 system documents + scaffold
-- [ ] SRL-Sessions and SRL-Reviews folders exist
-- [ ] Templater is configured with correct template folder path
-- [ ] Dataview JavaScript queries are enabled
-- [ ] Meta Bind buttons render in Reading Mode on the Dashboard
+- [x] Templates folder contains all 3 template files
+- [x] SRL-System folder contains all 4 system documents + scaffold
+- [x] SRL-Sessions and SRL-Reviews folders exist
+- [x] Templater is configured with correct template folder path
+- [x] Dataview JavaScript queries are enabled
+- [x] Meta Bind buttons render in Reading Mode on the Dashboard
 - [ ] Creating a new note in SRL-Sessions triggers the session template (if folder templates configured)
-- [ ] QuickAdd "New SRL Reading Session" appears in command palette (if configured)
+- [x] QuickAdd "New SRL Reading Session" appears in command palette (if configured)
 - [ ] Wiki-links in templates resolve to your existing permanent notes
 
 ---

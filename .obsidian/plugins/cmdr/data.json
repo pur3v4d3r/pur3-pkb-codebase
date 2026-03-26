@@ -314,6 +314,12 @@
       "name": "Prompt Engineering",
       "mode": "any",
       "color": "#ff0000"
+    },
+    {
+      "id": "quickadd:choice:8903b6fd-8e8c-4972-9209-539887fc542b",
+      "icon": "lucide-book-open",
+      "name": "SRL-Reading-Session",
+      "mode": "any"
     }
   ],
   "macros": [],

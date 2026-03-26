@@ -947,7 +947,7 @@
           "setFileExistsBehavior": true
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "e4d93bec-e052-46ea-a50c-608b7407594c",
@@ -1277,7 +1277,8 @@
           "fileExistsMode": "Increment the file name",
           "setFileExistsBehavior": true
         }
-      ]
+      ],
+      "collapsed": true
     },
     {
       "id": "d492bbf4-06e3-47fa-b752-ca481b39599b",
@@ -1405,7 +1406,8 @@
           "fileExistsMode": "Increment the file name",
           "setFileExistsBehavior": true
         }
-      ]
+      ],
+      "collapsed": true
     },
     {
       "id": "988ab87f-3ec4-43cf-ab40-ffe7c8493ca1",
@@ -1627,6 +1629,41 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "8903b6fd-8e8c-4972-9209-539887fc542b",
+      "name": "SRL-Reading-Session",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99-system/01-quickadd/02-templates/SRL-Reading-Session-Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}-{{TIME:HHmm}}-srl-session"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "999-report-orginizing/srl-practice/srl-sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": false,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "live",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
     }
   ],
   "inputPrompt": "multi-line",

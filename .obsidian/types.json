@@ -35,6 +35,7 @@
     "lt-picky": "checkbox",
     "lt-dictionary": "multitext",
     "type": "text",
-    "done": "checkbox"
+    "done": "checkbox",
+    "TQ_show_toolbar": "checkbox"
   }
 }
