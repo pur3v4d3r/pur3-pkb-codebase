@@ -5,7 +5,7 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --red-glow: #ff0000ff;
+  --red-glow: rgb(0, 0, 0);
   --red-glow-bright: #ff3333;
   --red-shadow: rgba(255, 0, 0, 0.7);
   --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 5px var(--red-shadow);
@@ -234,7 +234,7 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --red-shadow: rgba(255, 0, 0, 0.7);
+  --red-shadow: rgb(255, 0, 0);
   --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 5px var(--red-shadow);
 }
 
@@ -370,12 +370,12 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 */
 
 /* GREEN VARIANT */
-/*
+
 :root {
-  --red-glow: #00ff00;
-  --red-shadow: rgba(0, 255, 0, 0.9);
+  --red-glow: #ffffff;
+  --red-shadow: rgba(255, 0, 0, 0.9);
 }
-*/
+
 
 /* PURPLE VARIANT */
 /*

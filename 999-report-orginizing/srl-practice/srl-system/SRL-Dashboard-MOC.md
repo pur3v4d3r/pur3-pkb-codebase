@@ -39,8 +39,8 @@ id: new-srl-session
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: "_templates/SRL-Reading-Session-Template.md"
-    folderPath: "SRL-Sessions"
+    templateFile: "99-system/01-quickadd/02-templates/SRL-Reading-Session-Template.md"
+    folderPath: "999-report-orginizing/srl-practice/srl-sessions"
     fileName: ""
 ```
 
@@ -77,8 +77,8 @@ id: new-monthly-review
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: "_templates/SRL-Monthly-Review-Template.md"
-    folderPath: "SRL-Reviews"
+    templateFile: "99-system/01-quickadd/02-templates/SRL-Monthly-Review-Template.md"
+    folderPath: "999-report-orginizing/srl-practice/srl-reviews"
     fileName: ""
 ```
 
@@ -88,8 +88,8 @@ id: new-framework-activation
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: "_templates/SRL-Framework-Activation-Template.md"
-    folderPath: "SRL-Sessions"
+    templateFile: "99-system/01-quickadd/02-templates/SRL-Framework-Activation-Template.md"
+    folderPath: "999-report-orginizing/srl-practice/srl-sessions"
     fileName: ""
 ```
 
@@ -291,20 +291,19 @@ LIMIT 6
 
 ```
 Your Vault/
-├── _templates/
+├── 99-system/01-quickadd/02-templates/
 │   ├── SRL-Reading-Session-Template.md
 │   ├── SRL-Monthly-Review-Template.md
 │   └── SRL-Framework-Activation-Template.md
-├── SRL-System/
+├── 999-report-orginizing/srl-practice/srl-system/
 │   ├── SRL-Dashboard-MOC.md          ← You are here
 │   ├── SRL-Living-Learning-Agenda.md
 │   ├── SRL-Calibration-Log.md
 │   └── SRL-Quick-Reference-Cards.md
-├── SRL-Sessions/
-│   ├── 2026-03-25-0900-srl-session.md
-│   ├── 2026-03-26-1400-srl-session.md
+├── 999-report-orginizing/srl-practice/srl-sessions/
+│   ├── 2026-03-25-1054-srl-session.md
 │   └── ...
-└── SRL-Reviews/
+└── 999-report-orginizing/srl-practice/srl-reviews/
     ├── SRL-Monthly-Review-March-2026.md
     └── ...
 ```

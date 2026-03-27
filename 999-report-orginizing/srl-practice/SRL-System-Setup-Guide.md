@@ -62,14 +62,14 @@ This is an **8-document Obsidian-native system** implementing Zimmerman's Cyclic
 
 ### Step 1: Create Folder Structure
 
-Create the following folders in your vault:
+The following folders are used in your vault:
 
 ```
 Your Vault/
-├── _templates/              ← If you don't already have this
-├── SRL-System/              ← System documents live here
-├── SRL-Sessions/            ← Individual session notes
-└── SRL-Reviews/             ← Monthly review notes
+├── 99-system/01-quickadd/02-templates/  ← Templater templates
+├── 999-report-orginizing/srl-practice/srl-system/  ← System documents
+├── 999-report-orginizing/srl-practice/srl-sessions/  ← Individual session notes
+└── 999-report-orginizing/srl-practice/srl-reviews/  ← Monthly review notes
 ```
 
 **How to create folders:**
@@ -82,22 +82,22 @@ Move the downloaded files to the correct locations:
 
 | File | Destination |
 |------|------------|
-| `SRL-Reading-Session-Template.md` | `_templates/` |
-| `SRL-Monthly-Review-Template.md` | `_templates/` |
-| `SRL-Framework-Activation-Template.md` | `_templates/` |
-| `SRL-Dashboard-MOC.md` | `SRL-System/` |
-| `SRL-Living-Learning-Agenda.md` | `SRL-System/` |
-| `SRL-Calibration-Log.md` | `SRL-System/` |
-| `SRL-Quick-Reference-Cards.md` | `SRL-System/` |
-| `SRL-Self-Explanation-Scaffold.md` | `SRL-System/` |
+| `SRL-Reading-Session-Template.md` | `99-system/01-quickadd/02-templates/` |
+| `SRL-Monthly-Review-Template.md` | `99-system/01-quickadd/02-templates/` |
+| `SRL-Framework-Activation-Template.md` | `99-system/01-quickadd/02-templates/` |
+| `SRL-Dashboard-MOC.md` | `999-report-orginizing/srl-practice/srl-system/` |
+| `SRL-Living-Learning-Agenda.md` | `999-report-orginizing/srl-practice/srl-system/` |
+| `SRL-Calibration-Log.md` | `999-report-orginizing/srl-practice/srl-system/` |
+| `SRL-Quick-Reference-Cards.md` | `999-report-orginizing/srl-practice/srl-system/` |
+| `SRL-Self-Explanation-Scaffold.md` | `999-report-orginizing/srl-practice/srl-system/` |
 
 ### Step 3: Configure Templater
 
 1. Open **Settings** → **Templater**
-2. Set **Template Folder Location** to `_templates` (or wherever your templates folder is)
+2. Set **Template Folder Location** to `99-system/01-quickadd/02-templates` (or wherever your templates folder is)
 3. Enable **Trigger Templater on new file creation** (optional but recommended)
 4. Under **Folder Templates** (optional):
-   - Folder: `SRL-Sessions` → Template: `_templates/SRL-Reading-Session-Template.md`
+   - Folder: `999-report-orginizing/srl-practice/srl-sessions` → Template: `99-system/01-quickadd/02-templates/SRL-Reading-Session-Template.md`
 
 ### Step 4: Configure Dataview
 
@@ -110,7 +110,11 @@ Move the downloaded files to the correct locations:
 
 1. Open **Settings** → **Meta Bind**
 2. No special configuration needed — the buttons and inline selects in the templates will work with default settings
-3. **Important:** Meta Bind buttons work in **Reading Mode** — switch to Reading Mode to use the dashboard buttons
+3. **Important:** Meta Bind buttons work in **Reading Mode** or **Live Preview** — switch to either mode to use the dashboard buttons
+4. Ensure the template paths in the Dashboard button configurations match your actual template paths:
+   - Templates: `99-system/01-quickadd/02-templates/`
+   - Sessions output: `999-report-orginizing/srl-practice/srl-sessions/`
+   - Reviews output: `999-report-orginizing/srl-practice/srl-reviews/`
 
 ### Step 6: Set Up QuickAdd (Recommended)
 
@@ -121,9 +125,9 @@ This creates a one-click command to start a new reading session:
 3. **Name:** "New SRL Reading Session"
 4. **Type:** Template
 5. Click the ⚙️ gear icon on the new choice:
-   - **Template Path:** `_templates/SRL-Reading-Session-Template.md`
+   - **Template Path:** `99-system/01-quickadd/02-templates/SRL-Reading-Session-Template.md`
    - **File Name Format:** `{{DATE:YYYY-MM-DD}}-{{TIME:HHmm}}-srl-session`
-   - **Create in folder:** `SRL-Sessions`
+   - **Create in folder:** `999-report-orginizing/srl-practice/srl-sessions`
    - Enable **Open** (auto-open the new note)
 6. Repeat for Monthly Review and Framework Activation if desired
 7. Optionally add to command palette via **Manage Macros** or **Commander**
@@ -146,9 +150,12 @@ Open each persistent note and complete the initial setup:
    - Verify the Dataview queries render (may show "No data" initially — that's expected)
 
 3. **SRL-Dashboard-MOC:**
-   - Verify Meta Bind buttons render in Reading Mode
+   - Verify Meta Bind buttons render in Reading Mode or Live Preview
    - Verify Dataview queries render (will show empty/no-data initially)
-   - Adjust template paths in the Meta Bind button configurations if your template folder is different from `_templates/`
+   - The template paths in the Meta Bind button configurations are pre-configured for:
+     - Templates: `99-system/01-quickadd/02-templates/`
+     - Sessions: `999-report-orginizing/srl-practice/srl-sessions/`
+     - Reviews: `999-report-orginizing/srl-practice/srl-reviews/`
 
 ---
 

@@ -1672,7 +1672,7 @@
   "devMode": false,
   "templateFolderPath": "99-system/01-quickadd",
   "announceUpdates": "all",
-  "version": "2.10.0",
+  "version": "2.12.0",
   "globalVariables": {},
   "onePageInputEnabled": true,
   "disableOnlineFeatures": false,
