@@ -341,7 +341,7 @@ extraction_summary:
 > [!helpful-tip] Untitled
 > **Automatic Template Application**
 > Enable this to automatically apply templates when creating new files. This works with:
-> - [[Daily Notes]] core plugin
+> - [[Daily-Notes|Daily Notes]] core plugin
 > - [[Calendar]] plugin
 > - [[Periodic Notes]] plugin
 > - Any plugin that creates files programmatically
@@ -473,7 +473,7 @@ extraction_summary:
 
 > [!helpful-tip] Untitled
 > **Quote Formatting**
-> The quote returns as formatted [[Markdown]] blockquote with attribution. Perfect for [[Daily Notes]] motivation sections.
+> The quote returns as formatted [[Markdown]] blockquote with attribution. Perfect for [[Daily-Notes|Daily Notes]] motivation sections.
 
 #### 31. [DEFINITION] Untitled *(Line 1312)*
 
@@ -734,7 +734,7 @@ extraction_summary:
 - [[Components/task-block]]
 - [[Components/task-section]]
 - [[Custom JS]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard]]
 - [[Dataview]]
 - [[Date Objects]]
@@ -824,7 +824,7 @@ extraction_summary:
 | 27 | [[Frontmatter]] | — | — | How Templates Execute | 111 |
 | 28 | [[Safe Mode]] | — | — | Installation Process | 130 |
 | 29 | [[Markdown]] | — | — | Template Folder Location | 146 |
-| 30 | [[Daily Notes]] | — | — | Trigger Templater on New File Creation | 165 |
+| 30 | [[Daily-Notes|Daily Notes]] | — | — | Trigger Templater on New File Creation | 165 |
 | 31 | [[Calendar]] | — | — | Trigger Templater on New File Creation | 166 |
 | 32 | [[Periodic Notes]] | — | — | Trigger Templater on New File Creation | 167 |
 | 33 | [[Syntax Highlighting]] | — | — | Syntax Highlighting | 185 |
@@ -851,7 +851,7 @@ extraction_summary:
 | 54 | [[<% selectedFile.basename %>]] | — | — | tp.system.suggester() | 1179 |
 | 55 | [[${f.basename}]] | — | — | tp.system.multi_suggester() | 1243 |
 | 56 | [[Markdown]] | — | — | tp.web.daily_quote() | 1287 |
-| 57 | [[Daily Notes]] | — | — | tp.web.daily_quote() | 1287 |
+| 57 | [[Daily-Notes|Daily Notes]] | — | — | tp.web.daily_quote() | 1287 |
 | 58 | [[Obsidian API]] | — | — | tp.obsidian Module | 1313 |
 | 59 | [[Obsidian API]] | — | — | tp.app Module | 1353 |
 | 60 | [[Linter]] | — | — | tp.hooks.on_all_templates_executed() | 1460 |
@@ -865,7 +865,7 @@ extraction_summary:
 | 68 | [[Environment Variables]] | — | — | Passing Arguments to System Commands | 1863 |
 | 69 | [[${f.basename}]] | — | — | Map Transformation | 1986 |
 | 70 | [[Dataview]] | — | — | Templater + Dataview | 2130 |
-| 71 | [[Daily Notes]] | — | — | Templater + Calendar Plugin | 2161 |
+| 71 | [[Daily-Notes|Daily Notes]] | — | — | Templater + Calendar Plugin | 2161 |
 | 72 | [[<% tp.date.yesterday("YYYY-MM-DD") %>]] | ← Yesterday | — | 🌙 Evening | 2189 |
 | 73 | [[<% tp.date.tomorrow("YYYY-MM-DD") %>]] | Tomorrow → | — | 🌙 Evening | 2189 |
 | 74 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Templater + QuickAdd | 2194 |
@@ -883,7 +883,7 @@ extraction_summary:
 | 86 | [[Personal Knowledge Management System Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2706 |
 | 87 | [[Obsidian API Deep Reference]] | — | — | 🔗 Related Topics for PKB Expansion | 2711 |
 | 88 | [[Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 2778 |
-| 89 | [[Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 2778 |
+| 89 | [[Daily-Notes|Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 2778 |
 | 90 | [[Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 2778 |
 | 91 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 2779 |
 | 92 | [[Template Literals]] | — | — | 🔗 Related Topics for PKB Expansion | 2779 |
@@ -891,7 +891,7 @@ extraction_summary:
 | 94 | [[Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 2797 |
 | 95 | [[Templates]] | — | — | 🔗 Related Topics for PKB Expansion | 2797 |
 | 96 | [[Folders]] | — | — | 🔗 Related Topics for PKB Expansion | 2797 |
-| 97 | [[Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 2797 |
+| 97 | [[Daily-Notes|Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 2797 |
 | 98 | [[Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 2797 |
 | 99 | [[Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 2798 |
 | 100 | [[QuickAdd]] | — | — | 🔗 Related Topics for PKB Expansion | 2798 |
@@ -2774,7 +2774,7 @@ Let me execute targeted searches:
 - [[Components/task-block]]
 - [[Components/task-section]]
 - [[Custom JS]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard]]
 - [[Dataview]]
 - [[Date Objects]]

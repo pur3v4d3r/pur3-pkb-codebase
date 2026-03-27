@@ -595,7 +595,7 @@ related_concepts:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Stoic-Philosophy|Stoic Philosophy]]"
   - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Knowledge Organization]]"
@@ -905,7 +905,7 @@ Every report draws from a core set of disciplines, using them as complementary l
 | **[[Cognitive-Science|Cognitive Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process-Theory|Dual-Process Theory]], [[Working-Memory|Working Memory]], [[Cognitive-Architecture|Cognitive Architecture]] |
 | **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory|Schema Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Encoding-Specificity|Encoding Specificity]] |
 | **[[Educational-Psychology|Educational Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Transfer]] |
-| **[[Educational-Philosophy|Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
+| **[[Educational-Philosophy|Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
 | **[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory|Elaboration Theory]] |
 | **[[Learning-Experience-Design|Learning Experience Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
 | **[[Knowledge-Management|Knowledge Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model|SECI Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]] |

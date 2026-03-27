@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-psy-evolution-of-selective-attention-theory-202512142019"
-  - "cog-psy-evolution-of-selective-attention-theory-202512142019.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,27 +53,19 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[The-Evolution-of-Selective-Attention-Theory-From-Broadbent's-Filter-to-Late-Sele|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]]"
-  - "[[Cognitive-Architecture|Cognitive Architecture]]"
-  - "[[Information-Processing-Theory|Information Processing Theory]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Perceptual-Psychology|Perceptual Psychology]]"
-  - "[[Experimental-Methodology|Experimental Methodology]]"
-  - "[[dichotic-listening-tasks|dichotic listening tasks]]"
-  - "[[Cocktail-Party-Effect|Cocktail Party Effect]]"
-  - "[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]]"
   - "[[Cognitive-Architecture|Cognitive Architecture]]"
   - "[[Information-Processing-Theory|Information Processing Theory]]"
   - "[[Working-Memory|Working Memory]]"
@@ -85,15 +78,13 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -137,10 +128,6 @@ importance: medium
 
 **Related concepts:**
 [[The-Evolution-of-Selective-Attention-Theory-From-Broadbent's-Filter-to-Late-Sele|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] · [[Cognitive-Architecture|Cognitive Architecture]] · [[Information-Processing-Theory|Information Processing Theory]] · [[Working-Memory|Working Memory]] · [[Perceptual-Psychology|Perceptual Psychology]] · [[Experimental-Methodology|Experimental Methodology]] · [[dichotic-listening-tasks|dichotic listening tasks]] · [[Cocktail-Party-Effect|Cocktail Party Effect]] · [[Information-Processing-Theory|information processing theory]] · [[Information-Processing-Theory|Information Processing Theory]] · [[dichotic-listening|dichotic listening]] · [[information-processing-model|information processing model]] · [[communications-engineering|communications engineering]] · [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] · [[Short-Term-Memory|short-term memory]]
-
-**Related concepts** *(from cog-psy-evolution-of-selective-attention-theory-202512142019.md)*:
-[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] * [[Cognitive-Architecture|Cognitive Architecture]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Working-Memory|Working Memory]] * [[Perceptual-Psychology|Perceptual Psychology]] * [[Experimental-Methodology|Experimental Methodology]] * [[dichotic-listening-tasks|dichotic listening tasks]] * [[Cocktail-Party-Effect|Cocktail Party Effect]] * [[dichotic-listening|dichotic listening]] * [[information-processing-model|information processing model]] * [[communications-engineering|communications engineering]] * [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] * [[Short-Term-Memory|short-term memory]] * [[Long-Term-Memory|long-term memory]] * [[priming|priming]]
-
 
 ## References
 

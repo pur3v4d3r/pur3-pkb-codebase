@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "metacognition-and-critical-thinking-foundational-report-2026-03-05"
-  - "metacognition-and-critical-thinking-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metacognition]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[John-Dewey|John Dewey]]"
   - "[[Metacognition]]"
   - "[[Ann-Brown|Ann Brown]]"
-  - "[[Metacognition|metacognition]]"
-  - "[[Critical-Thinking|Critical thinking]]"
-  - "[[John-Hattie|John Hattie]]"
-  - "[[John-H.-Flavell|John H. Flavell]]"
-  - "[[John-Dewey|John Dewey]]"
-  - "[[Ann-Brown|Ann Brown]]"
-  - "[[Socrates|Socrates]]"
-  - "[[Robert-Ennis|Robert Ennis]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -89,7 +82,7 @@ builds-on:
   - "[[Information-Processing-Theory|Information Processing Theory]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Metacognitive-Scaffolding-Design-Patterns-A-focused-treatment-of-the|> [!topic-idea] [[Metacognitive-Scaffolding-Design-Patterns]]
@@ -158,24 +151,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[Critical-Thinking|Critical thinking]] · [[John-Hattie|John Hattie]] · [[Metacognition]] · [[John-H.-Flavell|John H. Flavell]] · [[John-Dewey|John Dewey]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]] · [[Critical-Thinking|Critical thinking]] · [[Socrates]] · [[Robert-Ennis|Robert Ennis]] · [[Delphi-Report|Delphi Report]] · [[Peter-Facione|Peter Facione]] · [[Immanuel-Kant|Immanuel Kant]] · [[William-James|William James]]
 
-**Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
-[[Critical-Thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
-
-**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Reflective-Practice|Reflective Practice]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-
-**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Reflective-Practice|Reflective Practice]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-
-
-
-
 ## References
 
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
@@ -183,36 +158,6 @@ importance: high
 - **Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. The California Academic Press.**: The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
 - **Paul, R., & Elder, L. (2020). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (4th ed.). Pearson.**: The most comprehensive practical treatment of the Paul-Elder Framework, presenting the elements of reasoning, intellectual standards, and intellectual traits in accessible form. Foundational for Phase III.
 - **Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.**: Introduces the distinction between reflection-in-action and reflection-on-action and the concept of knowing-in-action, applied across multiple professions. Foundational for understanding the temporal structure of metacognitive regulation in professional contexts. Supports Phase III.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
-
-- **Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding* (pp. 65–116). Lawrence Erlbaum Associates.**: Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
-
-- **Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. The California Academic Press.**: The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
-
-- **Paul, R., & Elder, L. (2020). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (4th ed.). Pearson.**: The most comprehensive practical treatment of the Paul-Elder Framework, presenting the elements of reasoning, intellectual standards, and intellectual traits in accessible form. Foundational for Phase III.
-
-- **Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.**: Introduces the distinction between reflection-in-action and reflection-on-action and the concept of knowing-in-action, applied across multiple professions. Foundational for understanding the temporal structure of metacognitive regulation in professional contexts. Supports Phase III.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
-
-- **Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding* (pp. 65–116). Lawrence Erlbaum Associates.**: Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
-
-- **Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. The California Academic Press.**: The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
-
-- **Paul, R., & Elder, L. (2020). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (4th ed.). Pearson.**: The most comprehensive practical treatment of the Paul-Elder Framework, presenting the elements of reasoning, intellectual standards, and intellectual traits in accessible form. Foundational for Phase III.
-
-- **Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.**: Introduces the distinction between reflection-in-action and reflection-on-action and the concept of knowing-in-action, applied across multiple professions. Foundational for understanding the temporal structure of metacognitive regulation in professional contexts. Supports Phase III.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

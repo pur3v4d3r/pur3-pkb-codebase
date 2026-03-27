@@ -418,7 +418,7 @@ extraction_summary:
 #### 48. [DEFINITION] Guidance Fading Principle *(Line 595)*
 
 > [!definition] Guidance Fading Principle
-> The CLT-derived instructional principle prescribing that the level of instructional scaffolding and support should decrease progressively as learner expertise grows, to avoid the expertise reversal effect. Operationalized most concretely in the [[faded worked example]] paradigm, where successive problems in a sequence include progressively fewer completed steps, tracking the learner's schema development. Supported by empirical research on faded examples and consistent with the expertise reversal mechanism.
+> The CLT-derived instructional principle prescribing that the level of instructional scaffolding and support should decrease progressively as learner expertise grows, to avoid the expertise reversal effect. Operationalized most concretely in the [[faded-worked-example|faded worked example]] paradigm, where successive problems in a sequence include progressively fewer completed steps, tracking the learner's schema development. Supported by empirical research on faded examples and consistent with the expertise reversal mechanism.
 
 #### 49. [DEFINITION] Split-Attention Effect *(Line 598)*
 
@@ -562,7 +562,7 @@ extraction_summary:
 - [[Element-Interactivity|element interactivity]]
 - [[expertise-reversal|expertise reversal]]
 - [[Expertise-Reversal-Effect|expertise reversal effect]]
-- [[faded worked example]]
+- [[faded-worked-example|faded worked example]]
 - [[flow states]]
 - [[Germane-Cognitive-Load|germane cognitive load]]
 - [[Germane-Load|germane load]]
@@ -632,7 +632,7 @@ extraction_summary:
 | 42 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | The Schema Automation Mechanism | 418 |
 | 43 | [[Deliberate-Practice|deliberate practice]] | — | — | The Schema Automation Mechanism | 418 |
 | 44 | [[Guidance-Fading-Principle|guidance fading principle]] | — | — | Dynamic Load Allocation and the Faded... | 436 |
-| 45 | [[faded worked example]] | — | — | Dynamic Load Allocation and the Faded... | 436 |
+| 45 | [[faded-worked-example|faded worked example]] | — | — | Dynamic Load Allocation and the Faded... | 436 |
 | 46 | [[motor-learning|motor learning]] | — | — | Dynamic Load Allocation and the Faded... | 444 |
 | 47 | [[skill-acquisition-research|skill acquisition research]] | — | — | Dynamic Load Allocation and the Faded... | 444 |
 | 48 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]] | — | — | Direct Implications for Instructional... | 460 |
@@ -661,7 +661,7 @@ extraction_summary:
 | 71 | [[Redundancy-Effect|redundancy effect]] | — | — | A. Lexicon of Key Terms | 590 |
 | 72 | [[knowledge-schemas|knowledge schemas]] | — | — | A. Lexicon of Key Terms | 593 |
 | 73 | [[Germane-Load|germane load]] | — | — | A. Lexicon of Key Terms | 593 |
-| 74 | [[faded worked example]] | — | — | A. Lexicon of Key Terms | 596 |
+| 74 | [[faded-worked-example|faded worked example]] | — | — | A. Lexicon of Key Terms | 596 |
 | 75 | [[Cognitive-Load-Theory|cognitive load theory]] | — | — | C. Methodology and Sources Note | 643 |
 | 76 | [[Working-Memory|working memory]] | — | — | C. Methodology and Sources Note | 643 |
 | 77 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]] | — | — | C. Methodology and Sources Note | 643 |
@@ -719,7 +719,7 @@ extraction_summary:
 - [[Element-Interactivity|element interactivity]]
 - [[expertise-reversal|expertise reversal]]
 - [[Expertise-Reversal-Effect|expertise reversal effect]]
-- [[faded worked example]]
+- [[faded-worked-example|faded worked example]]
 - [[flow states]]
 - [[Germane-Cognitive-Load|germane cognitive load]]
 - [[Germane-Load|germane load]]

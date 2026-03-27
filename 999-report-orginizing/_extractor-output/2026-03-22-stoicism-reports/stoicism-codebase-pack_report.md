@@ -2125,7 +2125,7 @@ extraction_summary:
 #### 27. [ABSTRACT] 📜 Overview *(Line 620)*
 
 > [!abstract] 📜 Overview
-> This encyclopedic examination explores the profound intersection between ancient [[Stoicism|Stoic]] philosophical practices and contemporary [[cognitive-neuroscience|cognitive neuroscientific]] understanding of learning and behavior change. At its core lies the systematic investigation of how [[Reflective Writing|reflective writing]]—particularly as exemplified in the [[Marcus-Aurelius|Stoic]] journaling tradition—functions as a sophisticated instrument for [[Metacognitive-Monitoring|metacognitive monitoring]], facilitating [[Memory-Consolidation|memory consolidation]] processes and enabling sustainable [[Behavioral Modification|behavioral modification]] through mechanisms now validated by modern neuroscience and educational psychology research.
+> This encyclopedic examination explores the profound intersection between ancient [[Stoicism|Stoic]] philosophical practices and contemporary [[cognitive-neuroscience|cognitive neuroscientific]] understanding of learning and behavior change. At its core lies the systematic investigation of how [[Reflective Writing|reflective writing]]—particularly as exemplified in the [[Marcus-Aurelius|Stoic]] journaling tradition—functions as a sophisticated instrument for [[Metacognitive-Monitoring|metacognitive monitoring]], facilitating [[Memory-Consolidation|memory consolidation]] processes and enabling sustainable [[Behavioral-Modification|behavioral modification]] through mechanisms now validated by modern neuroscience and educational psychology research.
 
 #### 28. [DEFINITION] 🔑 Core Concept Definition *(Line 623)*
 
@@ -2257,7 +2257,7 @@ extraction_summary:
 #### 40. [SUMMARY] 🎯 Synthesis and Integration *(Line 888)*
 
 > [!summary] 🎯 Synthesis and Integration
-> The examination of Stoic journaling practices through contemporary cognitive neuroscience reveals remarkable convergence between ancient philosophical wisdom and modern empirical findings. [[Marcus-Aurelius|Marcus Aurelius]]'s systematic evening reflections, written nearly two millennia before the development of cognitive psychology or neuroscience, nevertheless instantiated sophisticated mechanisms for [[Metacognitive-Monitoring|metacognitive enhancement]], [[Memory-Consolidation|memory consolidation optimization]], and [[Behavioral Modification|sustainable behavior change]] that research now validates through controlled investigation.
+> The examination of Stoic journaling practices through contemporary cognitive neuroscience reveals remarkable convergence between ancient philosophical wisdom and modern empirical findings. [[Marcus-Aurelius|Marcus Aurelius]]'s systematic evening reflections, written nearly two millennia before the development of cognitive psychology or neuroscience, nevertheless instantiated sophisticated mechanisms for [[Metacognitive-Monitoring|metacognitive enhancement]], [[Memory-Consolidation|memory consolidation optimization]], and [[Behavioral-Modification|sustainable behavior change]] that research now validates through controlled investigation.
 > 
 > The practice operates through multiple simultaneous mechanisms: externalizing mental content to reduce [[Working-Memory|working memory]] load and enable [[Cognitive-Offloading|cognitive offloading]]; forcing explicit awareness of normally automatic cognitive processes to strengthen [[Metacognition|metacognitive monitoring]]; creating textual permanence that enables longitudinal pattern recognition impossible in purely internal thought; priming content for sleep-dependent consolidation through pre-sleep organization; and establishing behavioral commitments that leverage consistency motivation and identity alignment to sustain action.
 > 
@@ -12013,7 +12013,7 @@ extraction_summary:
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Bayesian Reasoning]]
 - [[Behavioral Change]]
-- [[Behavioral Modification]]
+- [[Behavioral-Modification|Behavioral Modification]]
 - [[Beneficence]]
 - [[Bidirectional Linking]]
 - [[Body Scan Meditation]]
@@ -12129,7 +12129,7 @@ extraction_summary:
 - [[Cynicism (Philosophy)]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
 - [[Daily Note]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Daily Stoic]]
 - [[Daniel Gilbert]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
@@ -12512,7 +12512,7 @@ extraction_summary:
 - [[Philanthropia]]
 - [[Philoponia]]
 - [[Philosopher-Emperor]]
-- [[Philosophy]]
+- [[philosophy]]
 - [[Philosophy MOC]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 - [[Philosophy of Agency Report]]
@@ -12962,7 +12962,7 @@ extraction_summary:
 | 119 | [[Metacognition]] | — | — | Claude Thinking: | 599 |
 | 120 | [[Self-Regulated-Learning|Self-Regulated Learning]] | — | — | Claude Thinking: | 599 |
 | 121 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Claude Thinking: | 599 |
-| 122 | [[Behavioral Modification]] | — | — | Claude Thinking: | 599 |
+| 122 | [[Behavioral-Modification|Behavioral Modification]] | — | — | Claude Thinking: | 599 |
 | 123 | [[Reflective Writing]] | — | — | Claude Thinking: | 599 |
 | 124 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 599 |
 | 125 | [[Seneca]] | — | — | Claude Thinking: | 599 |
@@ -12984,7 +12984,7 @@ extraction_summary:
 | 141 | [[Marcus-Aurelius|Marcus Aurelius]] | Stoic | — | Claude Thinking: | 621 |
 | 142 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | Claude Thinking: | 621 |
 | 143 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | Claude Thinking: | 621 |
-| 144 | [[Behavioral Modification]] | behavioral modification | — | Claude Thinking: | 621 |
+| 144 | [[Behavioral-Modification|Behavioral Modification]] | behavioral modification | — | Claude Thinking: | 621 |
 | 145 | [[Stoicism]] | Stoic philosophy | — | Claude Thinking: | 624 |
 | 146 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 624 |
 | 147 | [[Self-Regulated-Learning|Self-Regulated Learning]] | self-regulated learning | — | Claude Thinking: | 624 |
@@ -13033,7 +13033,7 @@ extraction_summary:
 | 190 | [[Cognitive-Distortion|Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 689 |
 | 191 | [[Emotional-Dysregulation|Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 689 |
 | 192 | [[Implementation-Intention|Implementation Intention]] | implementation intention | — | 💤 Memory Consolidation: The Neuroscie... | 693 |
-| 193 | [[Behavioral Modification]] | behavioral change | — | 🔄 Behavioral Modification Through Sel... | 697 |
+| 193 | [[Behavioral-Modification|Behavioral Modification]] | behavioral change | — | 🔄 Behavioral Modification Through Sel... | 697 |
 | 194 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🔄 Behavioral Modification Through Sel... | 697 |
 | 195 | [[Self-Regulated-Learning|Self-Regulated Learning]] | self-regulated learning | — | 🔄 Behavioral Modification Through Sel... | 697 |
 | 196 | [[Self-Determination-Theory|Self-Determination Theory]] | motivational psychology | — | 🔄 Behavioral Modification Through Sel... | 697 |
@@ -13097,13 +13097,13 @@ extraction_summary:
 | 254 | [[Neuroplasticity]] | — | — | 🔗 Related Topics for PKB Expansion | 879 |
 | 255 | [[cognitive-neuroscience|Cognitive Neuroscience]] | — | — | 🔗 Related Topics for PKB Expansion | 879 |
 | 256 | [[Self-Determination Theory and Intrinsic Motivation Development]] | — | — | 🔗 Related Topics for PKB Expansion | 881 |
-| 257 | [[Behavioral Modification]] | — | — | 🔗 Related Topics for PKB Expansion | 884 |
+| 257 | [[Behavioral-Modification|Behavioral Modification]] | — | — | 🔗 Related Topics for PKB Expansion | 884 |
 | 258 | [[Self-Regulated-Learning|Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 884 |
 | 259 | [[Goal-Setting-Theory|Goal Setting Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 884 |
 | 260 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔗 Related Topics for PKB Expansion | 889 |
 | 261 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive enhancement | — | 🔗 Related Topics for PKB Expansion | 889 |
 | 262 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation optimization | — | 🔗 Related Topics for PKB Expansion | 889 |
-| 263 | [[Behavioral Modification]] | sustainable behavior change | — | 🔗 Related Topics for PKB Expansion | 889 |
+| 263 | [[Behavioral-Modification|Behavioral Modification]] | sustainable behavior change | — | 🔗 Related Topics for PKB Expansion | 889 |
 | 264 | [[Working-Memory|Working Memory]] | working memory | — | 🔗 Related Topics for PKB Expansion | 891 |
 | 265 | [[Cognitive-Offloading|Cognitive Offloading]] | cognitive offloading | — | 🔗 Related Topics for PKB Expansion | 891 |
 | 266 | [[Metacognition]] | metacognitive monitoring | — | 🔗 Related Topics for PKB Expansion | 891 |
@@ -13244,7 +13244,7 @@ extraction_summary:
 | 401 | [[Psychological Resilience]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
 | 402 | [[Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
 | 403 | [[Stoic Daily Journaling]] | — | — | The Ancient Lineage | 32894 |
-| 404 | [[Philosophy]] | — | — | The Ancient Lineage | 32894 |
+| 404 | [[philosophy]] | — | — | The Ancient Lineage | 32894 |
 | 405 | [[Art of Living]] | — | — | The Ancient Lineage | 32894 |
 | 406 | [[Epictetus]] | — | — | The Ancient Lineage | 32896 |
 | 407 | [[Enchiridion]] | — | — | The Ancient Lineage | 32896 |
@@ -13373,7 +13373,7 @@ extraction_summary:
 | 530 | [[Obsidian]] | — | — | Obsidian as a Stoic Journal Platform | 33664 |
 | 531 | [[Digital Stoic Practice Environment]] | — | — | Obsidian as a Stoic Journal Platform | 33664 |
 | 532 | [[Bidirectional Linking]] | — | — | Obsidian as a Stoic Journal Platform | 33667 |
-| 533 | [[Daily Notes]] | — | — | Obsidian as a Stoic Journal Platform | 33668 |
+| 533 | [[Daily-Notes|Daily Notes]] | — | — | Obsidian as a Stoic Journal Platform | 33668 |
 | 534 | [[Templates]] | — | — | Obsidian as a Stoic Journal Platform | 33669 |
 | 535 | [[Dataview]] | — | — | Obsidian as a Stoic Journal Platform | 33670 |
 | 536 | [[Tags]] | — | — | Obsidian as a Stoic Journal Platform | 33671 |
@@ -18490,7 +18490,7 @@ THE BELKNAP PRESS OF
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Bayesian Reasoning]]
 - [[Behavioral Change]]
-- [[Behavioral Modification]]
+- [[Behavioral-Modification|Behavioral Modification]]
 - [[Beneficence]]
 - [[Bidirectional Linking]]
 - [[Body Scan Meditation]]
@@ -18606,7 +18606,7 @@ THE BELKNAP PRESS OF
 - [[Cynicism (Philosophy)]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
 - [[Daily Note]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Daily Stoic]]
 - [[Daniel Gilbert]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
@@ -18989,7 +18989,7 @@ THE BELKNAP PRESS OF
 - [[Philanthropia]]
 - [[Philoponia]]
 - [[Philosopher-Emperor]]
-- [[Philosophy]]
+- [[philosophy]]
 - [[Philosophy MOC]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 - [[Philosophy of Agency Report]]

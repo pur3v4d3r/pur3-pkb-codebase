@@ -131,7 +131,7 @@ extraction_summary:
 #### 3. [DEFINITION] Personal Workflow Architecture *(Line 50)*
 
 > [!definition] Personal Workflow Architecture
-> A formalized, engineered structure of tools, protocols, and information pathways designed to capture, process, and synthesize information with minimal `[[Cognitive Friction]]`. It acts as an externalized cognitive scaffolding that supports high-order thinking by automating low-order management.
+> A formalized, engineered structure of tools, protocols, and information pathways designed to capture, process, and synthesize information with minimal `[[Cognitive-Friction|Cognitive Friction]]`. It acts as an externalized cognitive scaffolding that supports high-order thinking by automating low-order management.
 
 #### 4. [THE-PHILOSOPHY] The Philosophy of Architectural Determinism *(Line 55)*
 
@@ -235,7 +235,7 @@ extraction_summary:
 
 - [[Antifragility]]
 - [[Biomimicry in Engineering]]
-- [[Cognitive Friction]]
+- [[Cognitive-Friction|Cognitive Friction]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[Control Theory]]
@@ -274,7 +274,7 @@ extraction_summary:
 | 5 | [[Loose Coupling]] | — | — | Systems Design Principles in Personal... | 44 |
 | 6 | [[Homeostasis]] | — | — | Systems Design Principles in Personal... | 44 |
 | 7 | [[Personal-Workflow-Architecture|Personal Workflow Architecture]] | — | — | 1\. Introduction: The Workflow as an ... | 48 |
-| 8 | [[Cognitive Friction]] | — | — | 1\. Introduction: The Workflow as an ... | 51 |
+| 8 | [[Cognitive-Friction|Cognitive Friction]] | — | — | 1\. Introduction: The Workflow as an ... | 51 |
 | 9 | [[Cybernetics]] | — | — | 2\. Methodology and Lineage: From Cyb... | 60 |
 | 10 | [[Information Theory]] | — | — | 2\. Methodology and Lineage: From Cyb... | 60 |
 | 11 | [[Norbert Wiener]] | — | — | 2\. Methodology and Lineage: From Cyb... | 60 |
@@ -417,7 +417,7 @@ $$
 
 - [[Antifragility]]
 - [[Biomimicry in Engineering]]
-- [[Cognitive Friction]]
+- [[Cognitive-Friction|Cognitive Friction]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[Control Theory]]

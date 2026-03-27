@@ -163,7 +163,7 @@ extraction_summary:
 #### 5. [WHAT-THIS-DOES] Untitled *(Line 94)*
 
 > [!what-this-does] Untitled
-> Accesses [[YAML-Frontmatter|YAML Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[YAML-Frontmatter|YAML Frontmatter]] or [[Inline-Fields|Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 
 #### 6. [WHAT-THIS-DOES] Untitled *(Line 104)*
 
@@ -367,7 +367,7 @@ extraction_summary:
 #### 25. [CONNECTIONS-AND-LINKS] Untitled *(Line 311)*
 
 > [!connections-and-links] Untitled
-> This pattern creates **dynamic note headers** that update automatically. Pair with [[Daily Notes]] templates for powerful daily dashboard functionality.
+> This pattern creates **dynamic note headers** that update automatically. Pair with [[Daily-Notes|Daily Notes]] templates for powerful daily dashboard functionality.
 
 #### 26. [EXAMPLE] Untitled *(Line 318)*
 
@@ -553,7 +553,7 @@ extraction_summary:
 
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[2024-11-20]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dataview Functions]]
 - [[Dataview-Plugin|Dataview Plugin]]
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Dataview Query Language (DQL)]]
 - [[DataviewJS]]
 - [[DataviewJS — JavaScript API]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[JavaScript Dataview]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Note]]
@@ -590,7 +590,7 @@ extraction_summary:
 | 2 | [[Dataview Query Language]] | — | — | 🎯 Core Concept | 56 |
 | 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 Core Concept | 56 |
 | 4 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
-| 5 | [[Inline Fields]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
+| 5 | [[Inline-Fields|Inline Fields]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
 | 6 | [[Note-Name|Note Name]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 99 |
 | 7 | [[Project Alpha]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 100 |
 | 8 | [[2024-11-20]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 101 |
@@ -607,7 +607,7 @@ extraction_summary:
 | 19 | [[Task-Management|Task Management]] | — | — | 📋 Task & Progress Tracking | 219 |
 | 20 | [[Template Integration]] | — | — | 🧩 Template Integration | 294 |
 | 21 | [[Templater]] | — | — | 🧩 Template Integration | 294 |
-| 22 | [[Daily Notes]] | — | — | 🧩 Template Integration | 312 |
+| 22 | [[Daily-Notes|Daily Notes]] | — | — | 🧩 Template Integration | 312 |
 | 23 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🖥️ Dashboard Construction | 341 |
 | 24 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 🔍 Note Review Systems | 350 |
 | 25 | [[QuickAdd]] | — | — | 📝 Writing Progress Tracking | 373 |
@@ -632,14 +632,14 @@ extraction_summary:
 | 44 | [[Dataview Query Language]] | — | — | 🔗 Related Topics for PKB Expansion | 571 |
 | 45 | [[Obsidian Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 572 |
 | 46 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 573 |
-| 47 | [[Inline Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 574 |
+| 47 | [[Inline-Fields|Inline Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 574 |
 | 48 | [[Dataview Functions]] | — | — | 🔗 Related Topics for PKB Expansion | 575 |
 | 49 | [[JavaScript Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 576 |
 | 50 | [[Template Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 577 |
 | 51 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 578 |
 | 52 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 579 |
 | 53 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 580 |
-| 54 | [[Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 581 |
+| 54 | [[Daily-Notes|Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 581 |
 | 55 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 582 |
 | 56 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🔗 Related Topics for PKB Expansion | 583 |
 | 57 | [[Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 584 |
@@ -918,14 +918,14 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dataview Query Language]] (DQL)
 - [[Obsidian Metadata]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[Dataview Functions]]
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
 - [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content)
 - [[Dashboard-Design|Dashboard Design]]
 - [[Task-Management|Task Management]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Zettelkasten]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Regular Expressions]]
@@ -971,7 +971,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[2024-11-20]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dataview Functions]]
 - [[Dataview-Plugin|Dataview Plugin]]
@@ -979,7 +979,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dataview Query Language (DQL)]]
 - [[DataviewJS]]
 - [[DataviewJS — JavaScript API]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[JavaScript Dataview]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Note]]

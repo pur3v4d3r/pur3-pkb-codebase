@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,9 +42,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "pintrichs-framework-srl-focused-analysis-2026-03-23"
-  - "pintrichs-framework-srl-focused-analysis-2026-03-23.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -56,16 +57,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Paul-Pintrich|Paul Pintrich]]"
@@ -76,23 +77,15 @@ see-also:
   - "[[Social-Cognitive-Theory-—-Bandura]]"
   - "[[Achievement-Goal-Theory]]"
   - "[[Metacognition]]"
-  - "[[Paul-Pintrich|Paul Pintrich]]"
-  - "[[Self-Regulated-Learning|Self-Regulated-Learning]]"
-  - "[[self-regulated-learning-focused-analysis-2026-03-06|self-regulated-learning-focused-analysis-2026-03-06]]"
-  - "[[Zimmerman-SRL-Model|Zimmerman-SRL-Model]]"
-  - "[[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]]"
-  - "[[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]"
-  - "[[Achievement-Goal-Theory|Achievement-Goal-Theory]]"
-  - "[[Metacognition|Metacognition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Achievement-Goal-TheoryAchievement-Goal-Theory-—-Mastery-vs.-Perform|> [!topic-idea] [[Achievement-Goal-Theory|Achievement Goal Theory — Mastery vs. Performance Orientat]]"
@@ -240,54 +233,6 @@ importance: high
 **Type:** Distinction
 **Tags:** #context-regulation #pintrich #limitations #equity
 
-> [!flashcard] **Spaced Repetition** *(from pintrichs-framework-srl-focused-analysis-2026-03-23.md)*
-> **Q:** Seed 1
-> **A:** **Q:** What are the four regulated *areas* in Pintrich's SRL framework?
-> 
-> **A:** Cognition; Motivation/Affect; Behavior; Context/Task. The key innovation over most prior models is the explicit inclusion of Motivation/Affect and Context as regulated domains (not merely inputs).
-> 
-> **Source:** Phase II, The Core Innovation section
-> **Difficulty:** Basic
-> **Type:** Definition
-> **Tags:** #pintrich #srl #four-areas #motivation-regulation
-
-> [!flashcard] **Spaced Repetition** *(from pintrichs-framework-srl-focused-analysis-2026-03-23.md)*
-> **Q:** Seed 3
-> **A:** **Q:** What is the "self-efficacy monitoring loop" in Pintrich's framework?
-> 
-> **A:** Three stages: (a) Prior self-efficacy → strategy selection at forethought; (b) Monitoring signals → real-time self-efficacy updating during engagement; (c) Updated self-efficacy → regulatory response (persist, switch strategies, seek help, or disengage). The loop enables adaptive regulation when self-efficacy is monitored and repair strategies are applied; it becomes self-reinforcing in failure when monitoring is bypassed.
-> 
-> **Source:** Phase IV, Mechanism 1
-> **Difficulty:** Intermediate
-> **Type:** Process
-> **Tags:** #self-efficacy #metacognitive-monitoring #pintrich
-
-> [!flashcard] **Spaced Repetition** *(from pintrichs-framework-srl-focused-analysis-2026-03-23.md)*
-> **Q:** Seed 4
-> **A:** **Q:** Why does mastery goal orientation predict deeper cognitive strategy use?
-> 
-> **A:** The mechanism runs through threat interpretation: mastery-oriented learners interpret monitoring signals (comprehension failure) as information about strategy effectiveness rather than information about ability. This prevents defensive affect regulation from crowding out cognitive regulation, keeping cognitive strategy adjustment available. Performance-oriented learners interpret the same signals as threatening, activating affect regulation at the expense of strategy adaptation.
-> 
-> **Source:** Phase IV, Mechanism 2
-> **Difficulty:** Advanced
-> **Type:** Process
-> **Tags:** #achievement-goal-theory #mastery-orientation #metacognitive-monitoring
-
-> [!flashcard] **Spaced Repetition** *(from pintrichs-framework-srl-focused-analysis-2026-03-23.md)*
-> **Q:** Seed 5
-> **A:** **Q:** What is the "agency asymmetry" problem in context regulation?
-> 
-> **A:** Learners have unequal degrees of freedom to regulate context — some have private study spaces, flexible schedules, and multiple resource options; others face shared environments, constrained schedules, and limited resources. MSLQ studies measuring context regulation confound the *capacity* to regulate context with the *available opportunity* to do so. High-performing learners may appear better context regulators partly because they have more regulable contexts.
-> 
-> **Source:** Phase IV, Mechanism 3
-> **Difficulty:** Advanced
-> **Type:** Distinction
-> **Tags:** #context-regulation #pintrich #limitations #equity
-
-
-
-
-
 ## Protocols & Methods
 
 > [!protocol] **Four-Area Self-Assessment Protocol (PKB Learning Sessions)**
@@ -349,14 +294,6 @@ importance: high
 **Related concepts:**
 [[Paul-Pintrich|Paul Pintrich]] · [[Self-Regulated-Learning]] · [[self-regulated-learning-focused-analysis-2026-03-06]] · [[Zimmerman-SRL-Model]] · [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Achievement-Goal-Theory]] · [[Metacognition]] · [[Zimmerman's-Cyclical-SRL-Model]] · [[Metacognitive-Knowledge]] · [[Self-Efficacy]] · [[Zimmerman-SRL-Model]] · [[Self-Reflection-Phase]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Self-Efficacy]]
 
-**Related concepts** *(from pintrichs-framework-srl-focused-analysis-2026-03-23.md)*:
-[[Paul-Pintrich|Paul Pintrich]] * [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] * [[Forethought-Phase|Forethought-Phase]] * [[Metacognitive-Self-Regulation|Metacognitive-Self-Regulation]] * [[Cognitive-Architecture|Cognitive-Architecture]] * [[Working-Memory|Working-Memory]] * [[Feedback-Design|Feedback-Design]] * [[Self-Directed-Learning|Self-Directed-Learning]] * [[James-Clear|James Clear]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition-and-Self-Regulated-Learning]] * [[Fourfold-Motivational-Architecture|Fourfold-Motivational-Architecture]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Far-Transfer|Far-Transfer]] * [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
-
-**Cross-report connections** *(from pintrichs-framework-srl-focused-analysis-2026-03-23.md)*:
-- [[Constructivist-Learning-Theory|Constructivist-Learning-Theory]]
-
-
-
 ## References
 
 - **Pintrich, P.R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: The central theoretical statement of Pintrich's framework. Establishes the four-area architecture and articulates the claim that motivation and context are regulated domains. Essential reading for understanding the theoretical commitments analyzed in Phases II and IV. Particularly valuable for its extended discussion of goal orientation's interaction with cognitive strategy use.
@@ -364,21 +301,6 @@ importance: high
 - **Pintrich, P.R., & De Groot, E.V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology, 82*(1), 33–40.**: The foundational empirical study establishing that metacognitive self-regulation and cognitive strategy use predict academic performance, while self-efficacy and intrinsic goal orientation predict cognitive strategy use. The basis for the mediation claim discussed in Phase III. One of the most-cited papers in educational psychology.
 - **Wolters, C.A. (2003). Regulation of motivation: Evaluating an underemphasized aspect of self-regulated learning. *Educational Psychologist, 38*(4), 189–205.**: The primary empirical and theoretical treatment of motivational regulation within Pintrich's framework. Develops the taxonomy of motivational regulation strategies and presents survey evidence for their effects on academic outcomes. Directly supports Phase III's treatment of the motivational regulation evidence base.
 - **Pintrich, P.R., Smith, D.A.F., Garcia, T., & McKeachie, W.J. (1991). *A Manual for the Use of the Motivated Strategies for Learning Questionnaire (MSLQ)*. University of Michigan.**: The technical manual for the most widely used SRL measurement instrument. Essential for understanding how the framework's theoretical architecture has been operationalized. Particularly valuable for its discussion of subscale construction and validation.
-
-- **Pintrich, P.R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: The central theoretical statement of Pintrich's framework. Establishes the four-area architecture and articulates the claim that motivation and context are regulated domains. Essential reading for understanding the theoretical commitments analyzed in Phases II and IV. Particularly valuable for its extended discussion of goal orientation's interaction with cognitive strategy use.
-
-- **Pintrich, P.R. (2004). A conceptual framework for assessing motivation and self-regulated learning in college students. *Educational Psychology Review, 16*(4), 385–407.**: The most concise and complete statement of the 4×4 matrix framework. The 2004 paper is the standard reference for the framework's architecture. Supports Phases II and III directly. Recommended sections: the matrix table (pp. 390–392) and the discussion of context regulation (pp. 397–400).
-
-- **Pintrich, P.R., & De Groot, E.V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology, 82*(1), 33–40.**: The foundational empirical study establishing that metacognitive self-regulation and cognitive strategy use predict academic performance, while self-efficacy and intrinsic goal orientation predict cognitive strategy use. The basis for the mediation claim discussed in Phase III. One of the most-cited papers in educational psychology.
-
-- **Wolters, C.A. (2003). Regulation of motivation: Evaluating an underemphasized aspect of self-regulated learning. *Educational Psychologist, 38*(4), 189–205.**: The primary empirical and theoretical treatment of motivational regulation within Pintrich's framework. Develops the taxonomy of motivational regulation strategies and presents survey evidence for their effects on academic outcomes. Directly supports Phase III's treatment of the motivational regulation evidence base.
-
-- **Pintrich, P.R., Smith, D.A.F., Garcia, T., & McKeachie, W.J. (1991). *A Manual for the Use of the Motivated Strategies for Learning Questionnaire (MSLQ)*. University of Michigan.**: The technical manual for the most widely used SRL measurement instrument. Essential for understanding how the framework's theoretical architecture has been operationalized. Particularly valuable for its discussion of subscale construction and validation.
-
-
-
-
-
 
 ## Methodology Notes
 

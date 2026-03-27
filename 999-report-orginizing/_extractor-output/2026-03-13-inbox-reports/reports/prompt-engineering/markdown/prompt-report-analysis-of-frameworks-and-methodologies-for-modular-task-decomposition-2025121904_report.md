@@ -345,7 +345,7 @@ extraction_summary:
 - [[Self-Attention Mechanisms]]
 - [[Symbolic AI]]
 - [[Systematic Generalization]]
-- [[Transformer Architecture]]
+- [[Transformer-Architecture|Transformer Architecture]]
 - [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Type Systems]]
 - [[Working-Memory|Working Memory]]
@@ -398,7 +398,7 @@ extraction_summary:
 | 40 | [[Cognitive Architecture and Attention Mechanisms in Transformer Models]] | — | — | 1. **[[Cognitive Architecture and Att... | 571 |
 | 41 | [[Working-Memory|Working Memory]] | — | — | 1. **[[Cognitive Architecture and Att... | 572 |
 | 42 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 1. **[[Cognitive Architecture and Att... | 572 |
-| 43 | [[Transformer Architecture]] | — | — | 1. **[[Cognitive Architecture and Att... | 576 |
+| 43 | [[Transformer-Architecture|Transformer Architecture]] | — | — | 1. **[[Cognitive Architecture and Att... | 576 |
 | 44 | [[Self-Attention Mechanisms]] | — | — | 1. **[[Cognitive Architecture and Att... | 576 |
 | 45 | [[Working Memory Models]] | — | — | 1. **[[Cognitive Architecture and Att... | 576 |
 | 46 | [[Error Propagation and Cascading Failure Modes in Sequential Prompt Systems]] | — | — | 2. **[[Error Propagation and Cascadin... | 578 |
@@ -943,7 +943,7 @@ $$
 - [[Self-Attention Mechanisms]]
 - [[Symbolic AI]]
 - [[Systematic Generalization]]
-- [[Transformer Architecture]]
+- [[Transformer-Architecture|Transformer Architecture]]
 - [[Tree-of-Thoughts|Tree of Thoughts]]
 - [[Type Systems]]
 - [[Working-Memory|Working Memory]]

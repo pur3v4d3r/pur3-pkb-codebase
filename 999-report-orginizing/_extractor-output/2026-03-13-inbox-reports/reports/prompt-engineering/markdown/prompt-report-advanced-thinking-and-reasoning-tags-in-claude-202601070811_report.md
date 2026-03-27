@@ -394,7 +394,7 @@ extraction_summary:
 - [[Cost Optimization]]
 - [[Evaluation Metrics]]
 - [[Extended Thinking]]
-- [[Human Cognition]]
+- [[human-cognition|Human Cognition]]
 - [[Meta-Learning]]
 - [[Metacognition]]
 - [[Metacognitive AI Systems Beyond Thinking Tags]]
@@ -448,7 +448,7 @@ extraction_summary:
 | 30 | [[Cognitive-Science|Cognitive Science]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 31 | [[Neuroscience]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 32 | [[AI Architecture]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
-| 33 | [[Human Cognition]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
+| 33 | [[human-cognition|Human Cognition]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 34 | [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]] | — | — | Active Review Task | 3218 |
 | 35 | [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]] | — | — | Active Review Task | 3221 |
 
@@ -2610,7 +2610,7 @@ description includes Review
 - [[Cost Optimization]]
 - [[Evaluation Metrics]]
 - [[Extended Thinking]]
-- [[Human Cognition]]
+- [[human-cognition|Human Cognition]]
 - [[Meta-Learning]]
 - [[Metacognition]]
 - [[Metacognitive AI Systems Beyond Thinking Tags]]

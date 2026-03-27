@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-13-the-predictive-mind"
-  - "report-13-the-predictive-mind.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Predictive-Processing|Predictive Processing]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Thomas-Metzinger|Thomas Metzinger]]"
   - "[[Generative-Model|Generative Model]]"
   - "[[Karl-Friston|Karl Friston]]"
-  - "[[Predictive-Processing|Predictive Processing]]"
-  - "[[Karl-Friston|Karl Friston]]"
-  - "[[Andy-Clark|Andy Clark]]"
-  - "[[Jakob-Hohwy|Jakob Hohwy]]"
-  - "[[Anil-Seth|Anil Seth]]"
-  - "[[Thomas-Metzinger|Thomas Metzinger]]"
-  - "[[Generative-Model|Generative Model]]"
-  - "[[Precision-Weighting|Precision Weighting]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -133,10 +124,6 @@ importance: high
 
 **Related concepts:**
 [[Predictive-Processing|Predictive Processing]] · [[Karl-Friston|Karl Friston]] · [[Andy-Clark|Andy Clark]] · [[Jakob-Hohwy|Jakob Hohwy]] · [[Anil-Seth|Anil Seth]] · [[Thomas-Metzinger|Thomas Metzinger]] · [[Generative-Model|Generative Model]] · [[Karl-Friston|Karl Friston]] · [[Precision-Weighting|Precision Weighting]] · [[Anil-Seth|Anil Seth]] · [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] · [[Constructed-Emotion-Theory|Constructed Emotion Theory]] · [[Thomas-Metzinger|Thomas Metzinger]] · [[Phenomenal-Self-Model|Phenomenal Self-Model]]
-
-**Related concepts** *(from report-13-the-predictive-mind.md)*:
-[[Predictive-Processing|Predictive Processing]] * [[Karl-Friston|Karl Friston]] * [[Andy-Clark|Andy Clark]] * [[Jakob-Hohwy|Jakob Hohwy]] * [[Anil-Seth|Anil Seth]] * [[Thomas-Metzinger|Thomas Metzinger]] * [[Generative-Model|Generative Model]] * [[Precision-Weighting|Precision Weighting]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Constructed-Emotion-Theory|Constructed Emotion Theory]] * [[Phenomenal-Self-Model|Phenomenal Self-Model]] * [[John-Dewey|John Dewey]] * [[Socrates|Socrates]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Fallibilism|Fallibilism]]
-
 
 ## Methodology Notes
 

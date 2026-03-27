@@ -23,66 +23,57 @@ domain: neuroscience
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 42
+referenced-by-count: 12
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analogical-Representation]]"
-  - "[[Assumption-5-RuleModel-Dichotomy]]"
-  - "[[Attribution-Retraining]]"
-  - "[[Attribution-Theory]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
-  - "[[Basic-Psychological-Needs]]"
+  - "[[.permanent-notes-index]]"
   - "[[Belonging-Uncertainty]]"
   - "[[Challenge-Avoidance]]"
+  - "[[Core-Concept-Definition]]"
+  - "[[Helpless-Response-Pattern]]"
+  - "[[Implicit-Theory-of-Intelligence]]"
+  - "[[Mastery-Goal-Orientation]]"
+  - "[[Mastery-Oriented-Response-Pattern]]"
+  - "[[Performance-Goal-Orientation]]"
+  - "[[Productive-Struggle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Neuroplasticity
 
 > [!definition] **Neuroplasticity**
-> *Stub note — concept referenced by 42 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 42 permanent notes.*
+*Auto-generated stub — referenced by 12 permanent notes.*
 
 ## Referenced By
 
-- [[Analogical-Representation]]
-- [[Assumption-5-RuleModel-Dichotomy]]
-- [[Attribution-Retraining]]
-- [[Attribution-Theory]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
-- [[Basic-Psychological-Needs]]
+- [[.permanent-notes-index]]
 - [[Belonging-Uncertainty]]
 - [[Challenge-Avoidance]]
 - [[Core-Concept-Definition]]
-- [[Dissolved-Assumption]]
-- [[Entity-Theory-of-Intelligence]]
-- [[Fixed-Mindset]]
-- [[Formative-Feedback]]
-- [[Goal-Orientation]]
-- [[Growth-Mindset]]
 - [[Helpless-Response-Pattern]]
 - [[Implicit-Theory-of-Intelligence]]
-- [[Incremental-Theory-of-Intelligence]]
-- *...and 22 more permanent notes*
+- [[Mastery-Goal-Orientation]]
+- [[Mastery-Oriented-Response-Pattern]]
+- [[Performance-Goal-Orientation]]
+- [[Productive-Struggle]]
+- [[Stereotype-Threat]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

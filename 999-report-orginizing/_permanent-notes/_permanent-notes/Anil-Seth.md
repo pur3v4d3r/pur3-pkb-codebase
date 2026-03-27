@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 50
+referenced-by-count: 47
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Active-Inference]]"
-  - "[[Appraisal-Theory]]"
   - "[[Controlled-Hallucination]]"
-  - "[[Emotional-Granularity]]"
   - "[[Free-Energy-Principle]]"
   - "[[Generative-Model]]"
   - "[[Phenomenal-Self-Model]]"
   - "[[Precision-Flexibility]]"
   - "[[Precision-Weighting]]"
   - "[[Prediction-Error]]"
+  - "[[Predictive-Processing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,16 +60,15 @@ importance: high
 # Anil-Seth
 
 > [!definition] **Anil-Seth**
-> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 50 permanent notes.*
+*Auto-generated stub — referenced by 47 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Active-Inference]]
-- [[Appraisal-Theory]]
 - [[Controlled-Hallucination]]
-- [[Emotional-Granularity]]
 - [[Free-Energy-Principle]]
 - [[Generative-Model]]
 - [[Phenomenal-Self-Model]]
@@ -77,8 +76,6 @@ importance: high
 - [[Precision-Weighting]]
 - [[Prediction-Error]]
 - [[Predictive-Processing]]
-- [[Somatic-Marker-Hypothesis]]
-- [[Theory-of-Constructed-Emotion]]
 - [[📖-Allostasis]]
 - [[📖-Allostatic-Load]]
 - [[📖-Apatheia]]
@@ -86,4 +83,7 @@ importance: high
 - [[📖-Embodied-vs.-Extended-vs.-Enactive-Cognition]]
 - [[📖-Enactive-Cognition]]
 - [[📖-Interoception]]
-- *...and 30 more permanent notes*
+- [[📖-Interoceptive-Inference]]
+- [[📖-Physiological-Metacognition]]
+- [[📖-Physiological-Metacognition-—-Formal-Definition]]
+- *...and 27 more permanent notes*

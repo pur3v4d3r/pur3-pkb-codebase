@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 26
+referenced-by-count: 22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Accommodation]]"
-  - "[[Accretion,-Tuning,-Restructuring]]"
+  - "[[.permanent-notes-index]]"
   - "[[Assimilation,-Accommodation,-and-Equilibration]]"
   - "[[Constructive-Attentiveness]]"
   - "[[Dewey's-Continuity-and-Interaction-Principles]]"
-  - "[[Equilibration]]"
   - "[[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]"
-  - "[[Reconstructive-Memory]]"
   - "[[Scaffolding]]"
-  - "[[Slot-Default-Value]]"
+  - "[[Working-Memory-and-Long-Term-Memory-in-CLT]]"
+  - "[[📖-Accommodation]]"
+  - "[[📖-Assimilation,-Accommodation,-and-Equilibration]]"
+  - "[[📖-Constructive-Attentiveness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,22 +59,18 @@ importance: high
 # David-Rumelhart
 
 > [!definition] **David-Rumelhart**
-> *Stub note — concept referenced by 26 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 26 permanent notes.*
+*Auto-generated stub — referenced by 22 permanent notes.*
 
 ## Referenced By
 
-- [[Accommodation]]
-- [[Accretion,-Tuning,-Restructuring]]
+- [[.permanent-notes-index]]
 - [[Assimilation,-Accommodation,-and-Equilibration]]
 - [[Constructive-Attentiveness]]
 - [[Dewey's-Continuity-and-Interaction-Principles]]
-- [[Equilibration]]
 - [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
-- [[Reconstructive-Memory]]
 - [[Scaffolding]]
-- [[Slot-Default-Value]]
 - [[Working-Memory-and-Long-Term-Memory-in-CLT]]
 - [[📖-Accommodation]]
 - [[📖-Assimilation,-Accommodation,-and-Equilibration]]
@@ -85,4 +81,8 @@ importance: high
 - [[📖-Genetic-Epistemology]]
 - [[📖-Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
 - [[📖-Metacognitive-Self-Regulation]]
-- *...and 6 more permanent notes*
+- [[📖-Pragmatic-Maxim]]
+- [[📖-Scaffolding]]
+- [[📖-Schema]]
+- [[📖-Viability]]
+- *...and 2 more permanent notes*

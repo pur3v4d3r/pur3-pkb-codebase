@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 48
+referenced-by-count: 41
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Accommodation]]"
   - "[[Accretion,-Tuning,-Restructuring]]"
-  - "[[Analogical-Reasoning]]"
   - "[[Assimilation,-Accommodation,-and-Equilibration]]"
-  - "[[Bayesian-Inference]]"
-  - "[[Causal-Induction]]"
   - "[[Constructive-Attentiveness]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
   - "[[Deliberate-Practice]]"
   - "[[Dewey's-Continuity-and-Interaction-Principles]]"
+  - "[[Equilibration]]"
+  - "[[Feeling-of-Knowing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Jean-Piaget
 
 > [!definition] **Jean-Piaget**
-> *Stub note — concept referenced by 48 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 41 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 48 permanent notes.*
+*Auto-generated stub — referenced by 41 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Accommodation]]
 - [[Accretion,-Tuning,-Restructuring]]
-- [[Analogical-Reasoning]]
 - [[Assimilation,-Accommodation,-and-Equilibration]]
-- [[Bayesian-Inference]]
-- [[Causal-Induction]]
 - [[Constructive-Attentiveness]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
 - [[Deliberate-Practice]]
 - [[Dewey's-Continuity-and-Interaction-Principles]]
-- [[Enumerative-Induction]]
 - [[Equilibration]]
-- [[Falsificationism]]
 - [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
 - [[Genetic-Epistemology]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
-- [[Inductive-Reasoning]]
 - [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
 - [[Judgment-of-Learning]]
-- *...and 28 more permanent notes*
+- [[Metacognitive-Self-Regulation]]
+- [[Pragmatic-Maxim]]
+- [[Reconstructive-Memory]]
+- [[Recursive-Self-Authorship]]
+- [[Scaffolded-Fading]]
+- *...and 21 more permanent notes*

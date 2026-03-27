@@ -1108,7 +1108,7 @@ Q2: {verify_q2} → A2: {verified_a2} [✓/✗]
 - Token-level optimization differences inside vs outside thinking
 - Inference-time compute allocation strategies
 
-**Knowledge Graph Role**: Bridges high-level reasoning techniques with low-level architectural mechanisms, connecting to [[Transformer Architecture]], [[Constitutional AI]], and [[Training Methodologies]].
+**Knowledge Graph Role**: Bridges high-level reasoning techniques with low-level architectural mechanisms, connecting to [[Transformer-Architecture]], [[Constitutional-AI]], and [[Training Methodologies]].
 
 **Priority**: **Low** - Highly technical and primarily relevant to researchers/engineers building LLM systems rather than practitioners using them.
 

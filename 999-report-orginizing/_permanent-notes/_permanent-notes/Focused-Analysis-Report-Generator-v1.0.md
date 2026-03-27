@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 36
+referenced-by-count: 37
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Autonomy-Orientation]]"
   - "[[Basic-Psychological-Need]]"
   - "[[Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Competence-Need]]"
   - "[[Conjunctive-System-Architecture]]"
   - "[[Control-Orientation]]"
-  - "[[Developmental-Need-Satisfaction-History]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Focused-Analysis-Report-Generator-v1.0
 
 > [!definition] **Focused-Analysis-Report-Generator-v1.0**
-> *Stub note — concept referenced by 36 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 37 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 36 permanent notes.*
+*Auto-generated stub — referenced by 37 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Autonomy-Orientation]]
 - [[Basic-Psychological-Need]]
 - [[Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra]]
@@ -84,5 +85,4 @@ importance: high
 - [[Metacognitive-Experience]]
 - [[Metacognitive-Monitoring]]
 - [[Monitoring-Control-Coupling]]
-- [[Motivational-Affordance]]
-- *...and 16 more permanent notes*
+- *...and 17 more permanent notes*

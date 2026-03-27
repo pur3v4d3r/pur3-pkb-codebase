@@ -804,7 +804,7 @@ This follows your existing project structure pattern (see `02-projects/`).
 
 For `cognitive-load-types.md` (currently 1 in, 0 out):
 - Add outgoing links to: [[Working-Memory]], [[Instructional-Design]], [[learning-theory]]
-- Create incoming links from: [[cognitive-science-MOC]], [[Educational-Psychology]]
+- Create incoming links from: [[cognitive-science-moc]], [[Educational-Psychology]]
 - This will bring it to 4 connections (meets 2+ in/out threshold)
 ```
 

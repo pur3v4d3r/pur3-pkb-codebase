@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,9 +42,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "metacognition-in-learning-focused-analysis-2026-03-20"
-  - "metacognition-in-learning-focused-analysis-2026-03-20.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -56,16 +57,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metacognition]]"
@@ -76,23 +77,15 @@ see-also:
   - "[[Formative-Assessment]]"
   - "[[Desirable-Difficulties]]"
   - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Metacognitive-Monitoring|Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Regulation|Metacognitive-Regulation]]"
-  - "[[Fluency-Illusion|Fluency-Illusion]]"
-  - "[[Dunning-Kruger-Effect|Dunning-Kruger-Effect]]"
-  - "[[Formative-Assessment|Formative-Assessment]]"
-  - "[[Desirable-Difficulties|Desirable-Difficulties]]"
-  - "[[Self-Regulated-Learning|Self-Regulated-Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Developme|> [!topic-idea] [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|M]]"
@@ -158,10 +151,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[Fluency-Illusion]] · [[Dunning-Kruger-Effect]] · [[Formative-Assessment]] · [[Desirable-Difficulties]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Flavell-Metacognition-Framework]] · [[Flavell]] · [[Self-Regulated-Learning]] · [[Metacognitive-Knowledge]]
 
-**Related concepts** *(from metacognition-in-learning-focused-analysis-2026-03-20.md)*:
-[[Monitoring-Control-Coupling|Monitoring-Control-Coupling]] * [[Metacognitive-Experience|Metacognitive-Experience]] * [[Monitoring-Gap|Monitoring-Gap]] * [[Feeling-of-Knowing-—-FOK|Feeling-of-Knowing-—-FOK]] * [[Achievement-Goal-Theory|Achievement-Goal-Theory]] * [[Mastery-Goal-Orientation|Mastery-Goal-Orientation]] * [[Motivated-Reasoning|Motivated-Reasoning]] * [[Self-Efficacy|Self-Efficacy]] * [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's-Three-Phase-SRL-Cycle]] * [[Working-Memory|Working-Memory]] * [[Dual-Process-Theory|Dual-Process-Theory]] * [[Elaborative-Interrogation|Elaborative-Interrogation]] * [[Self-Explanation-Effect|Self-Explanation-Effect]] * [[Generation-Effect|Generation-Effect]] * [[Spaced-Repetition-Spacing-Effect|Spaced-Repetition-Spacing-Effect]]
-
-
 ## References
 
 - **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational treatment of desirable difficulties as interventions that improve long-term learning by replacing fluency cues with retrieval cues. Directly supports the cue invalidity mechanism (Phase IV). Foundational for [[Desirable-Difficulties]] node.
@@ -169,21 +158,6 @@ importance: high
 - **Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General*, 126(4), 349–370.**: Established the cue-utilization framework for metacognitive monitoring, demonstrating that JOLs are based on accessible cues rather than direct introspection. Core empirical support for the cue invalidity mechanism (Phase IV).
 - **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The foundational Dunning-Kruger paper, documenting expertise-dependent monitoring accuracy. Supports the argument that monitoring accuracy is domain-specific and develops alongside domain knowledge (Phase III).
 - **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.**: The meta-level/object-level model of metacognition. Defines the monitoring/control distinction foundational to the coupling analysis in Phase II. See [[Meta-Level-Object-Level-Model]].
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational treatment of desirable difficulties as interventions that improve long-term learning by replacing fluency cues with retrieval cues. Directly supports the cue invalidity mechanism (Phase IV). Foundational for [[Desirable-Difficulties]] node.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The original framework paper introducing the metacognitive knowledge/experience/monitoring architecture. The source of the [[Flavell-Metacognition-Framework]] node. Supports the three-component framework in Phase II.
-
-- **Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General*, 126(4), 349–370.**: Established the cue-utilization framework for metacognitive monitoring, demonstrating that JOLs are based on accessible cues rather than direct introspection. Core empirical support for the cue invalidity mechanism (Phase IV).
-
-- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The foundational Dunning-Kruger paper, documenting expertise-dependent monitoring accuracy. Supports the argument that monitoring accuracy is domain-specific and develops alongside domain knowledge (Phase III).
-
-- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.**: The meta-level/object-level model of metacognition. Defines the monitoring/control distinction foundational to the coupling analysis in Phase II. See [[Meta-Level-Object-Level-Model]].
-
-
-
-
-
 
 ## Methodology Notes
 

@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "metacognition-lifelong-learning-foundational-report-2026-03-05"
-  - "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,30 +52,22 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metacognition]]"
   - "[[John-Flavell|John Flavell]]"
   - "[[Lifelong-learning|Lifelong learning]]"
   - "[[Flavell]]"
-  - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
-  - "[[Metacognitive-Experiences|Metacognitive Experiences]]"
-  - "[[Metacognitive-Regulation|Metacognitive Regulation]]"
-  - "[[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[John-Flavell|John Flavell]]"
-  - "[[Lifelong-learning|Lifelong learning]]"
-  - "[[Flavell|Flavell]]"
   - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
   - "[[Metacognitive-Experiences|Metacognitive Experiences]]"
   - "[[Metacognitive-Regulation|Metacognitive Regulation]]"
@@ -89,7 +82,7 @@ builds-on:
   - "[[Schema-Theory|Schema Theory]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[A-full-treatment-of-the-empirical-science-behind-retrieval-practice-—-the-most-r|A full treatment of the empirical science behind retrieval practice — the most robustly supported le]]"
@@ -167,22 +160,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[John-Flavell|John Flavell]] · [[Lifelong-learning|Lifelong learning]] · [[Flavell]] · [[Metacognitive-Knowledge|Metacognitive Knowledge]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[Metacognitive-Regulation|Metacognitive Regulation]] · [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] · [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] · [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] · [[William-James|William James]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Ann-L.-Brown|Ann L. Brown]] · [[Barry-Zimmerman|Barry Zimmerman]]
 
-**Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-[[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Self-Regulated-Learning|self-regulated learning]] * [[Calibration|Calibration]]
-
-**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
-- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
-- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
-
-**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
-- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
-- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
-
-
-
-
 ## References
 
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
@@ -190,36 +167,6 @@ importance: high
 - **Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World* (pp. 59–68). Worth Publishers.**: An accessible synthesis of the desirable difficulties research program, including evidence for spaced practice, interleaving, and retrieval practice. Directly addresses the gap between subjective learning experience and objective learning outcomes — the core practical problem of metacognitive calibration.
 - **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: The landmark study establishing the testing effect under ecologically valid conditions. Participants who studied through retrieval practice retained 50% more material one week later than those who restudied. This paper is foundational for any practitioner interested in applying metacognitive research to actual study habits.
 - **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The original paper documenting the inverse relationship between competence and metacognitive accuracy at low levels of skill. Essential for understanding the calibration challenges facing novice learners in any domain. Subsequent debates about the statistical robustness of the effect have refined but not eliminated the core empirical finding.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World* (pp. 59–68). Worth Publishers.**: An accessible synthesis of the desirable difficulties research program, including evidence for spaced practice, interleaving, and retrieval practice. Directly addresses the gap between subjective learning experience and objective learning outcomes — the core practical problem of metacognitive calibration.
-
-- **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: The landmark study establishing the testing effect under ecologically valid conditions. Participants who studied through retrieval practice retained 50% more material one week later than those who restudied. This paper is foundational for any practitioner interested in applying metacognitive research to actual study habits.
-
-- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The original paper documenting the inverse relationship between competence and metacognitive accuracy at low levels of skill. Essential for understanding the calibration challenges facing novice learners in any domain. Subsequent debates about the statistical robustness of the effect have refined but not eliminated the core empirical finding.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World* (pp. 59–68). Worth Publishers.**: An accessible synthesis of the desirable difficulties research program, including evidence for spaced practice, interleaving, and retrieval practice. Directly addresses the gap between subjective learning experience and objective learning outcomes — the core practical problem of metacognitive calibration.
-
-- **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: The landmark study establishing the testing effect under ecologically valid conditions. Participants who studied through retrieval practice retained 50% more material one week later than those who restudied. This paper is foundational for any practitioner interested in applying metacognitive research to actual study habits.
-
-- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The original paper documenting the inverse relationship between competence and metacognitive accuracy at low levels of skill. Essential for understanding the calibration challenges facing novice learners in any domain. Subsequent debates about the statistical robustness of the effect have refined but not eliminated the core empirical finding.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

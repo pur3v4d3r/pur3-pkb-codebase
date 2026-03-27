@@ -331,7 +331,7 @@ The Socratic Method transforms teaching into structured dialogue where the instr
 #### Strengths and Limitations
 
 **Strengths**:
-- Develops [[Critical-Thinking]] and [[Logical Reasoning]]
+- Develops [[Critical-Thinking]] and [[Logical-Reasoning]]
 - Enhances [[metacognitive-awareness]]
 - Promotes active engagement with content
 - Reveals misconceptions for targeted intervention
@@ -530,7 +530,7 @@ Collaborative learning proves particularly effective for:
 
 > [!definition]
 > - **Problem-Based Learning**:: An instructional method where students learn content and develop skills by working to solve complex, open-ended problems without predetermined solutions
-> - **Theoretical Foundation**:: [[Constructivism]], [[Situated Learning Theory]]
+> - **Theoretical Foundation**:: [[Constructivism]], [[Situated-Learning-Theory]]
 > - **Origin**:: 1960s medical education (McMaster University)
 
 Problem-based learning presents students with real or realistic problems, using inductive reasoning to learn both information about the topic and how to think critically, with instructors facilitating and guiding rather than teaching directly.
@@ -1475,7 +1475,7 @@ Summative assessments should:
 
 > [!definition]
 > - **Authentic Assessment**:: Evaluation requiring students to demonstrate knowledge and skills through real-world application rather than artificial test contexts
-> - **Theoretical Foundation**:: [[Situated Learning Theory]], [[Transfer-of-Learning]]
+> - **Theoretical Foundation**:: [[Situated-Learning-Theory]], [[Transfer-of-Learning]]
 > - **Key Characteristic**:: Tasks resembling performances expected in professional or civic contexts
 
 Authentic assessment addresses limitations of traditional testing by evaluating whether students can apply learning in contexts resembling actual knowledge use.

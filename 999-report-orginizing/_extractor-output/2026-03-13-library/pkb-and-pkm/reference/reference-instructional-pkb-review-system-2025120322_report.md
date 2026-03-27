@@ -1159,7 +1159,7 @@ extraction_summary:
 - [[Amor Fati]]
 - [[automation]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive-Science-MOC]]
+- [[cognitive-science-moc]]
 - [[Context Switching]]
 - [[Dataview]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -1186,7 +1186,7 @@ extraction_summary:
 - [[PKB Review System: Complete Implementation Package]]
 - [[PKB/Design]]
 - [[PKB/Maintenance]]
-- [[metadata]]
+- [[Metadata]]
 - [[PKM/Workflow]]
 - [[Phronesis]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
@@ -1281,7 +1281,7 @@ extraction_summary:
 | 52 | [[advanced]] | — | — | 🔗 Related Topics for PKB Expansion | 1519 |
 | 53 | [[Template-Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1519 |
 | 54 | [[Spaced Repetition Algorithms]] | — | — | 🔗 Related Topics for PKB Expansion | 1521 |
-| 55 | [[Cognitive-Science-MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
+| 55 | [[cognitive-science-moc]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
 | 56 | [[Learning-Theory-MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
 | 57 | [[Review Friction Reduction]] | — | — | 🔗 Related Topics for PKB Expansion | 1526 |
 | 58 | [[PKM/Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1529 |
@@ -1302,7 +1302,7 @@ extraction_summary:
 | 73 | [[plugins]] | — | — | 🔗 Related Topics for PKB Expansion | 2586 |
 | 74 | [[Meta-Bind]] | — | — | 🔗 Related Topics for PKB Expansion | 2586 |
 | 75 | [[Frontmatter Schema Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2588 |
-| 76 | [[metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 2591 |
+| 76 | [[Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 2591 |
 | 77 | [[Frontmatter-Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2591 |
 | 78 | [[Interactive Note Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2593 |
 | 79 | [[PKB/Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2596 |
@@ -2680,7 +2680,7 @@ Or with formatting:
 2. **[[Frontmatter Schema Design]]**
    - *Connection*: Buttons operate on frontmatter fields
    - *Depth Potential*: Field naming conventions, data types, validation
-   - *Knowledge Graph Role*: Links to [[metadata]], [[Frontmatter-Design]]
+   - *Knowledge Graph Role*: Links to [[Metadata]], [[Frontmatter-Design]]
 
 3. **[[Interactive Note Design]]**
    - *Connection*: Buttons transform static notes into interactive interfaces
@@ -2963,7 +2963,7 @@ flowchart TD
 - [[Amor Fati]]
 - [[automation]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive-Science-MOC]]
+- [[cognitive-science-moc]]
 - [[Context Switching]]
 - [[Dataview]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -2990,7 +2990,7 @@ flowchart TD
 - [[PKB Review System: Complete Implementation Package]]
 - [[PKB/Design]]
 - [[PKB/Maintenance]]
-- [[metadata]]
+- [[Metadata]]
 - [[PKM/Workflow]]
 - [[Phronesis]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]

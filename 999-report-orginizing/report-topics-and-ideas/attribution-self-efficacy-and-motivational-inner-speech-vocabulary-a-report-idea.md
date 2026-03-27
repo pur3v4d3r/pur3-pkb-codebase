@@ -25,12 +25,12 @@ aliases:
 - strategies
 connections:
 - [[Self-Efficacy]]
-- [[Attribution Theory]]
+- [[Attribution-Theory]]
 - [[Goal Setting]]
 - [[Academic Reading]]
 - [[Inner Speech]]
 - [[Vocabulary]]
-- [[Mental Models]]
+- [[Mental-Models]]
 - [[Strategies]]
 produced:
 - 

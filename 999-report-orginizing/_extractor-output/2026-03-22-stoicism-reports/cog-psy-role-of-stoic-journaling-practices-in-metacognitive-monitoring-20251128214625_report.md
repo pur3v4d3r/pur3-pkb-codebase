@@ -152,7 +152,7 @@ extraction_summary:
 #### 3. [ABSTRACT] 📜 Overview *(Line 131)*
 
 > [!abstract] 📜 Overview
-> This encyclopedic examination explores the profound intersection between ancient [[Stoicism|Stoic]] philosophical practices and contemporary [[cognitive-neuroscience|cognitive neuroscientific]] understanding of learning and behavior change. At its core lies the systematic investigation of how [[Reflective Writing|reflective writing]]—particularly as exemplified in the [[Marcus-Aurelius|Stoic]] journaling tradition—functions as a sophisticated instrument for [[Metacognitive-Monitoring|metacognitive monitoring]], facilitating [[Memory-Consolidation|memory consolidation]] processes and enabling sustainable [[Behavioral Modification|behavioral modification]] through mechanisms now validated by modern neuroscience and educational psychology research.
+> This encyclopedic examination explores the profound intersection between ancient [[Stoicism|Stoic]] philosophical practices and contemporary [[cognitive-neuroscience|cognitive neuroscientific]] understanding of learning and behavior change. At its core lies the systematic investigation of how [[Reflective Writing|reflective writing]]—particularly as exemplified in the [[Marcus-Aurelius|Stoic]] journaling tradition—functions as a sophisticated instrument for [[Metacognitive-Monitoring|metacognitive monitoring]], facilitating [[Memory-Consolidation|memory consolidation]] processes and enabling sustainable [[Behavioral-Modification|behavioral modification]] through mechanisms now validated by modern neuroscience and educational psychology research.
 
 #### 4. [DEFINITION] 🔑 Core Concept Definition *(Line 134)*
 
@@ -284,7 +284,7 @@ extraction_summary:
 #### 16. [SUMMARY] 🎯 Synthesis and Integration *(Line 399)*
 
 > [!summary] 🎯 Synthesis and Integration
-> The examination of Stoic journaling practices through contemporary cognitive neuroscience reveals remarkable convergence between ancient philosophical wisdom and modern empirical findings. [[Marcus-Aurelius|Marcus Aurelius]]'s systematic evening reflections, written nearly two millennia before the development of cognitive psychology or neuroscience, nevertheless instantiated sophisticated mechanisms for [[Metacognitive-Monitoring|metacognitive enhancement]], [[Memory-Consolidation|memory consolidation optimization]], and [[Behavioral Modification|sustainable behavior change]] that research now validates through controlled investigation.
+> The examination of Stoic journaling practices through contemporary cognitive neuroscience reveals remarkable convergence between ancient philosophical wisdom and modern empirical findings. [[Marcus-Aurelius|Marcus Aurelius]]'s systematic evening reflections, written nearly two millennia before the development of cognitive psychology or neuroscience, nevertheless instantiated sophisticated mechanisms for [[Metacognitive-Monitoring|metacognitive enhancement]], [[Memory-Consolidation|memory consolidation optimization]], and [[Behavioral-Modification|sustainable behavior change]] that research now validates through controlled investigation.
 > 
 > The practice operates through multiple simultaneous mechanisms: externalizing mental content to reduce [[Working-Memory|working memory]] load and enable [[Cognitive-Offloading|cognitive offloading]]; forcing explicit awareness of normally automatic cognitive processes to strengthen [[Metacognition|metacognitive monitoring]]; creating textual permanence that enables longitudinal pattern recognition impossible in purely internal thought; priming content for sleep-dependent consolidation through pre-sleep organization; and establishing behavioral commitments that leverage consistency motivation and identity alignment to sustain action.
 > 
@@ -347,7 +347,7 @@ extraction_summary:
 - [[Automaticity]]
 - [[Autonomy]]
 - [[Barry-Zimmerman]]
-- [[Behavioral Modification]]
+- [[Behavioral-Modification|Behavioral Modification]]
 - [[Cognition]]
 - [[Cognitive Arousal]]
 - [[Cognitive Behavioral Therapy and Stoicism Convergence]]
@@ -417,7 +417,7 @@ extraction_summary:
 | 3 | [[Metacognition]] | — | — | Claude Thinking: | 110 |
 | 4 | [[Self-Regulated-Learning|Self-Regulated Learning]] | — | — | Claude Thinking: | 110 |
 | 5 | [[Memory-Consolidation|Memory Consolidation]] | — | — | Claude Thinking: | 110 |
-| 6 | [[Behavioral Modification]] | — | — | Claude Thinking: | 110 |
+| 6 | [[Behavioral-Modification|Behavioral Modification]] | — | — | Claude Thinking: | 110 |
 | 7 | [[Reflective Writing]] | — | — | Claude Thinking: | 110 |
 | 8 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 110 |
 | 9 | [[Seneca]] | — | — | Claude Thinking: | 110 |
@@ -439,7 +439,7 @@ extraction_summary:
 | 25 | [[Marcus-Aurelius|Marcus Aurelius]] | Stoic | — | Claude Thinking: | 132 |
 | 26 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | Claude Thinking: | 132 |
 | 27 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | Claude Thinking: | 132 |
-| 28 | [[Behavioral Modification]] | behavioral modification | — | Claude Thinking: | 132 |
+| 28 | [[Behavioral-Modification|Behavioral Modification]] | behavioral modification | — | Claude Thinking: | 132 |
 | 29 | [[Stoicism]] | Stoic philosophy | — | Claude Thinking: | 135 |
 | 30 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 135 |
 | 31 | [[Self-Regulated-Learning|Self-Regulated Learning]] | self-regulated learning | — | Claude Thinking: | 135 |
@@ -488,7 +488,7 @@ extraction_summary:
 | 74 | [[Cognitive-Distortion|Cognitive Distortion]] | cognitive distortions | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
 | 75 | [[Emotional-Dysregulation|Emotional Dysregulation]] | dysregulation | — | 💤 Memory Consolidation: The Neuroscie... | 200 |
 | 76 | [[Implementation-Intention|Implementation Intention]] | implementation intention | — | 💤 Memory Consolidation: The Neuroscie... | 204 |
-| 77 | [[Behavioral Modification]] | behavioral change | — | 🔄 Behavioral Modification Through Sel... | 208 |
+| 77 | [[Behavioral-Modification|Behavioral Modification]] | behavioral change | — | 🔄 Behavioral Modification Through Sel... | 208 |
 | 78 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🔄 Behavioral Modification Through Sel... | 208 |
 | 79 | [[Self-Regulated-Learning|Self-Regulated Learning]] | self-regulated learning | — | 🔄 Behavioral Modification Through Sel... | 208 |
 | 80 | [[Self-Determination-Theory|Self-Determination Theory]] | motivational psychology | — | 🔄 Behavioral Modification Through Sel... | 208 |
@@ -552,13 +552,13 @@ extraction_summary:
 | 138 | [[Neuroplasticity]] | — | — | 🔗 Related Topics for PKB Expansion | 390 |
 | 139 | [[cognitive-neuroscience|Cognitive Neuroscience]] | — | — | 🔗 Related Topics for PKB Expansion | 390 |
 | 140 | [[Self-Determination Theory and Intrinsic Motivation Development]] | — | — | 🔗 Related Topics for PKB Expansion | 392 |
-| 141 | [[Behavioral Modification]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
+| 141 | [[Behavioral-Modification|Behavioral Modification]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
 | 142 | [[Self-Regulated-Learning|Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
 | 143 | [[Goal-Setting-Theory|Goal Setting Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 395 |
 | 144 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔗 Related Topics for PKB Expansion | 400 |
 | 145 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive enhancement | — | 🔗 Related Topics for PKB Expansion | 400 |
 | 146 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation optimization | — | 🔗 Related Topics for PKB Expansion | 400 |
-| 147 | [[Behavioral Modification]] | sustainable behavior change | — | 🔗 Related Topics for PKB Expansion | 400 |
+| 147 | [[Behavioral-Modification|Behavioral Modification]] | sustainable behavior change | — | 🔗 Related Topics for PKB Expansion | 400 |
 | 148 | [[Working-Memory|Working Memory]] | working memory | — | 🔗 Related Topics for PKB Expansion | 402 |
 | 149 | [[Cognitive-Offloading|Cognitive Offloading]] | cognitive offloading | — | 🔗 Related Topics for PKB Expansion | 402 |
 | 150 | [[Metacognition]] | metacognitive monitoring | — | 🔗 Related Topics for PKB Expansion | 402 |
@@ -633,7 +633,7 @@ extraction_summary:
 - [[Automaticity]]
 - [[Autonomy]]
 - [[Barry-Zimmerman]]
-- [[Behavioral Modification]]
+- [[Behavioral-Modification|Behavioral Modification]]
 - [[Cognition]]
 - [[Cognitive Arousal]]
 - [[Cognitive Behavioral Therapy and Stoicism Convergence]]

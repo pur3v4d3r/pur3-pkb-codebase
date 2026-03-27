@@ -253,14 +253,14 @@ Each category should have:
 **WIKI-LINK OPPORTUNITIES:**
 - [[Dataview-Plugin]]
 - [[Obsidian]]
-- [[Inline Queries]]
+- [[Inline-Queries]]
 - [[Dataview Expressions]]
 - [[Metadata]]
 - [[Frontmatter]]
 - [[Zettelkasten]]
 - [[Personal-Knowledge-Base]]
 - [[Templater Plugin]]
-- [[File Properties]]
+- [[File-Properties]]
 - [[wiki-links]]
 - [[Backlinks]]
 - [[Knowledge-Graph]]
@@ -517,7 +517,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!what-this-does]
-> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.
+> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter]] or [[Inline-Fields]]. Essential for template validation and metadata quality control.
 
 ### 🎚️ Multi-Level Conditionals
 
@@ -1047,7 +1047,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 
 4. **[[Metadata Schema Design for PKBs]]**
    - *Connection*: Effective queries require well-designed metadata fields and naming conventions
-   - *Depth Potential*: [[YAML-Frontmatter]] standards, [[Inline Fields]] best practices, field naming taxonomies
+   - *Depth Potential*: [[YAML-Frontmatter]] standards, [[Inline-Fields]] best practices, field naming taxonomies
    - *Knowledge Graph Role*: Data architecture prerequisite for query effectiveness
 
 ---

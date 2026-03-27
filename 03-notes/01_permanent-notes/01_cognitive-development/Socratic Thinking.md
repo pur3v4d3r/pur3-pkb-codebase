@@ -156,7 +156,7 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Stoicism]]
 - [[Metacognition]]
 

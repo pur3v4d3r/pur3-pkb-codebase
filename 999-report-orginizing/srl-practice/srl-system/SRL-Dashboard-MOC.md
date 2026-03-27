@@ -315,6 +315,6 @@ Your Vault/
 > - [[Zimmerman's-Cyclical-SRL-Model]] — The theoretical architecture this system implements
 > - [[practical-philosophy-moc]] — Broader philosophical practice context
 > - [[Metacognition]] — The cognitive science foundation
-> - [[Self-Regulated Learning]] — The research domain
+> - [[Self-Regulated-Learning]] — The research domain
 > - [[PKB]] — The knowledge management system this integrates with
 > - [[Obsidian]] — The platform this system runs on

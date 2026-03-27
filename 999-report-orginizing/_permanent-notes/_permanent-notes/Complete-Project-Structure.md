@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "multi-agent-systems-with-claude-code"
-  - "multi-agent-systems-with-claude-code.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Claude-Opus-4|Claude Opus 4]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Message-Queues|Message Queues]]"
   - "[[MapReduce]]"
   - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
-  - "[[Claude-Opus-4|Claude Opus 4]]"
-  - "[[Claude-Sonnet-4|Claude Sonnet 4]]"
-  - "[[Skills|Skills]]"
-  - "[[Microservices-Architecture|Microservices Architecture]]"
-  - "[[Bounded-Contexts|Bounded Contexts]]"
-  - "[[Message-Queues|Message Queues]]"
-  - "[[MapReduce|MapReduce]]"
-  - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -183,26 +174,6 @@ importance: medium
 
 **Related concepts:**
 [[Claude-Opus-4|Claude Opus 4]] · [[Claude-Sonnet-4|Claude Sonnet 4]] · [[Skills]] · [[Microservices-Architecture|Microservices Architecture]] · [[Bounded-Contexts|Bounded Contexts]] · [[Message-Queues|Message Queues]] · [[MapReduce]] · [[Event-Driven-Architecture|Event-Driven Architecture]] · [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] · [[Conway's-Law|Conway's Law]] · [[Agile-Standups|Agile Standups]] · [[Principle-of-Least-Privilege|Principle of Least Privilege]] · [[Cognitive-Load|Cognitive Load]] · [[Expertise-Theory|Expertise Theory]] · [[Working-Memory|Working Memory]]
-
-**Related concepts** *(from multi-agent-systems-with-claude-code.md)*:
-[[Claude-Opus-4|Claude Opus 4]] * [[Claude-Sonnet-4|Claude Sonnet 4]] * [[Microservices-Architecture|Microservices Architecture]] * [[Bounded-Contexts|Bounded Contexts]] * [[Message-Queues|Message Queues]] * [[Event-Driven-Architecture|Event-Driven Architecture]] * [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] * [[Conway's-Law|Conway's Law]] * [[Agile-Standups|Agile Standups]] * [[Principle-of-Least-Privilege|Principle of Least Privilege]] * [[Cognitive-Load|Cognitive Load]] * [[Expertise-Theory|Expertise Theory]] * [[Working-Memory|Working Memory]] * [[Claude-Code-Basics|Claude Code Basics]] * [[CLAUDE.md-Files|CLAUDE.md Files]]
-
-**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-
-
 
 ## Methodology Notes
 

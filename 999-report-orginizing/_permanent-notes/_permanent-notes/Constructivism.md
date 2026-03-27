@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 33
+referenced-by-count: 26
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analogical-Reasoning]]"
+  - "[[.permanent-notes-index]]"
   - "[[Apt-Epistemic-Performance]]"
-  - "[[Bayesian-Inference]]"
-  - "[[Causal-Induction]]"
   - "[[Concurrent-Expression]]"
-  - "[[Enumerative-Induction]]"
   - "[[Epistemic-Character]]"
   - "[[Epistemic-Character-as-Concurrent-Expression]]"
-  - "[[Falsificationism]]"
   - "[[Identified-Regulation-vs.-Integrated-Regulation]]"
+  - "[[Integrated-Cognitive-Personhood]]"
+  - "[[Narrative-Coherence-as-Cognitive-Architecture]]"
+  - "[[Prokoptn]]"
+  - "[[Prokoptōn]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,23 +59,18 @@ importance: high
 # Constructivism
 
 > [!definition] **Constructivism**
-> *Stub note — concept referenced by 33 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 26 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 33 permanent notes.*
+*Auto-generated stub — referenced by 26 permanent notes.*
 
 ## Referenced By
 
-- [[Analogical-Reasoning]]
+- [[.permanent-notes-index]]
 - [[Apt-Epistemic-Performance]]
-- [[Bayesian-Inference]]
-- [[Causal-Induction]]
 - [[Concurrent-Expression]]
-- [[Enumerative-Induction]]
 - [[Epistemic-Character]]
 - [[Epistemic-Character-as-Concurrent-Expression]]
-- [[Falsificationism]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
-- [[Inductive-Reasoning]]
 - [[Integrated-Cognitive-Personhood]]
 - [[Narrative-Coherence-as-Cognitive-Architecture]]
 - [[Prokoptn]]
@@ -83,6 +78,11 @@ importance: high
 - [[Recursive-Self-Authorship]]
 - [[Scaffolded-Fading]]
 - [[Schema-Accommodation]]
-- [[The-Problem-of-Induction]]
 - [[The-Tier-1-Structural-Limitation]]
-- *...and 13 more permanent notes*
+- [[📖-Apt-Epistemic-Performance]]
+- [[📖-Concurrent-Expression]]
+- [[📖-Epistemic-Character]]
+- [[📖-Epistemic-Character-as-Concurrent-Expression]]
+- [[📖-Identified-Regulation-vs.-Integrated-Regulation]]
+- [[📖-Metacognitive-Regulation]]
+- *...and 6 more permanent notes*

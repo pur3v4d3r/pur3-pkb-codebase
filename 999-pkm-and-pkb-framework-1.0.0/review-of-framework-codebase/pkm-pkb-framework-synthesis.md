@@ -136,7 +136,7 @@ related_concepts:
   - "[[Cognitive Partnership Model]]"
 prerequisites:
   - "[[Personal-Knowledge-Management]]"
-  - "[[Obsidian PKB Architecture]]"
+  - "[[Obsidian-PKB-Architecture]]"
 builds_on:
   - "[[pkm-pkb-framework-working-notes]]"
 enables:
@@ -687,7 +687,7 @@ SORT doc_id ASC
 > - **Working Notes:** [[pkm-pkb-framework-working-notes]] — progressive analytical notes from all six review passes
 > - **Taxonomy:** [[pkm-pkb-framework-taxonomy]] — extracted concept registry with hierarchical classification
 > - **Expansion Topics:** [[pkm-pkb-framework-expansion-topics]] — prioritized registry of future development topics
-> - **PKB Architecture:** Connects to [[Obsidian PKB Architecture]], [[Dataview Integration]], [[Templater Templates]]
+> - **PKB Architecture:** Connects to [[Obsidian-PKB-Architecture]], [[Dataview Integration]], [[Templater Templates]]
 > - **SPES System:** Design principles inform prompt engineering component architecture via [[Sequential Prompt Engineering System]]
 > - **Cognitive Frameworks:** Deeply connects to [[Andragogy]], [[pedagogy]], [[Heutagogy]], [[Metacognition]], [[Self-Regulated-Learning]]
 

@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-psy-fundamental-structures-of-reasoning-202512050320"
-  - "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Information]]"
   - "[[Inference]]"
   - "[[Assumptions]]"
-  - "[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]"
-  - "[[Critical-Thinking|Critical Thinking]]"
-  - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
-  - "[[Purpose-in-Reasoning|Purpose in Reasoning]]"
-  - "[[Question-at-Issue|Question at Issue]]"
-  - "[[Information|Information]]"
-  - "[[Inference|Inference]]"
-  - "[[Assumptions|Assumptions]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -152,24 +143,12 @@ importance: medium
 - [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
 - [[Validity-and-Soundness|Validity and Soundness]]
 - [[Informal-Fallacies|Informal Fallacies]]
-- [[Epistemology]]
+- [[epistemology]]
 - [[Justified-True-Belief|Justified True Belief]]
 - [[Sources-of-Knowledge|Sources of Knowledge]]
 
 **Related concepts:**
 [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] · [[Critical-Thinking|Critical Thinking]] · [[Paul-Elder-Framework|Paul-Elder Framework]] · [[Purpose-in-Reasoning|Purpose in Reasoning]] · [[Question-at-Issue|Question at Issue]] · [[Information]] · [[Inference]] · [[Assumptions]] · [[Implications]] · [[Point-of-View|Point of View]] · [[Intellectual-Standards|Intellectual Standards]] · [[Reasoning]] · [[Logic]] · [[Argumentation]]
-
-**Related concepts** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
-[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Point-of-View|Point of View]] * [[Analytical-Thinking|Analytical Thinking]] * [[Metacognition|Metacognition]] * [[Socratic-Questioning|Socratic Questioning]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]] * [[Justified-True-Belief|Justified True Belief]] * [[Sources-of-Knowledge|Sources of Knowledge]]
-
-**Cross-report connections** *(from cog-psy-fundamental-structures-of-reasoning-202512050320.md)*:
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Intellectual-Standards|Intellectual Standards]]
-- [[Intellectual-Traits|Intellectual Traits]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
-
-
 
 ## References
 

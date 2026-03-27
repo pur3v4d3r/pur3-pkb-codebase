@@ -397,7 +397,7 @@ related:
 prerequisites:
   - "[[Basic Probability Theory]]"
   - "[[Neural Network Fundamentals]]"
-  - "[[Transformer Architecture]]"
+  - "[[Transformer-Architecture]]"
 ```
 
 ### 12. **see-also** (Array)

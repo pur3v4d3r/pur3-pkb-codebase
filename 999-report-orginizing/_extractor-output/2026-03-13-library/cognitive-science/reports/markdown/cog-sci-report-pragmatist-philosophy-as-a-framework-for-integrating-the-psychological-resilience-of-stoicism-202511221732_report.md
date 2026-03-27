@@ -131,12 +131,12 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 49)*
 
 > [!abstract] Untitled
-> This synthesis examines how [[pragmatism|pragmatist philosophy]] functions as an integrating framework for combining the psychological resilience mechanisms of [[Stoicism]] with the adaptive learning models of [[Constructivism]] to create a theoretically grounded, psychologically coherent approach to practical self-development. The analysis reveals that pragmatism's methodological emphasis on experiential validation and contextual truth provides the philosophical architecture necessary to bridge Stoic psychological practices with constructivist learning principles, creating a unified system where cognitive resilience supports adaptive knowledge construction, and learning processes reinforce psychological robustness. This integration addresses the fundamental challenge in Personal Knowledge Management systems: sustaining voluntary engagement through psychological compatibility rather than technical sophistication alone.
+> This synthesis examines how [[Pragmatism|pragmatist philosophy]] functions as an integrating framework for combining the psychological resilience mechanisms of [[Stoicism]] with the adaptive learning models of [[Constructivism]] to create a theoretically grounded, psychologically coherent approach to practical self-development. The analysis reveals that pragmatism's methodological emphasis on experiential validation and contextual truth provides the philosophical architecture necessary to bridge Stoic psychological practices with constructivist learning principles, creating a unified system where cognitive resilience supports adaptive knowledge construction, and learning processes reinforce psychological robustness. This integration addresses the fundamental challenge in Personal Knowledge Management systems: sustaining voluntary engagement through psychological compatibility rather than technical sophistication alone.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 54)*
 
 > [!the-philosophy] Untitled
-> The central philosophical proposition explored here is that effective self-development requires three distinct but complementary capacities that have traditionally been addressed by separate intellectual traditions. [[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity. [[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience. The synthesis argues that pragmatism's emphasis on experiential validation and contextual functionality allows these frameworks to inform rather than contradict each other, creating an integrated approach where psychological resilience enables sustained learning, adaptive learning reinforces resilience, and both are validated through their practical utility in navigating life's challenges.
+> The central philosophical proposition explored here is that effective self-development requires three distinct but complementary capacities that have traditionally been addressed by separate intellectual traditions. [[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity. [[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[Pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience. The synthesis argues that pragmatism's emphasis on experiential validation and contextual functionality allows these frameworks to inform rather than contradict each other, creating an integrated approach where psychological resilience enables sustained learning, adaptive learning reinforces resilience, and both are validated through their practical utility in navigating life's challenges.
 
 #### 3. [KEY-CLAIM] Untitled *(Line 260)*
 
@@ -204,7 +204,7 @@ extraction_summary:
 - [[2025-11-25]]
 - [[Accommodation]]
 - [[Adaptive Learning]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Assimilation]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
@@ -228,7 +228,7 @@ extraction_summary:
 - [[Negative Visualization]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philosophical Psychology]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Psychological Resilience]]
 - [[Scaffolding]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -247,12 +247,12 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[pragmatism]] | pragmatist philosophy | — | A Synthetic Analysis of Pragmatist Ph... | 50 |
+| 1 | [[Pragmatism]] | pragmatist philosophy | — | A Synthetic Analysis of Pragmatist Ph... | 50 |
 | 2 | [[Stoicism]] | — | — | A Synthetic Analysis of Pragmatist Ph... | 50 |
 | 3 | [[Constructivism]] | — | — | A Synthetic Analysis of Pragmatist Ph... | 50 |
 | 4 | [[Stoicism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
 | 5 | [[Constructivism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
-| 6 | [[pragmatism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
+| 6 | [[Pragmatism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
 | 7 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
 | 8 | [[William-James|William James]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
 | 9 | [[John-Dewey|John Dewey]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
@@ -290,15 +290,15 @@ extraction_summary:
 | 41 | [[Knowledge Construction]] | — | — | Adaptive System Design for Sustained ... | 160 |
 | 42 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Integration with Other Frameworks | 252 |
 | 43 | [[Mindfulness]] | — | — | Integration with Other Frameworks | 252 |
-| 44 | [[pragmatism]] | — | — | 🎓 Conclusion: Toward Psychologically-... | 258 |
+| 44 | [[Pragmatism]] | — | — | 🎓 Conclusion: Toward Psychologically-... | 258 |
 | 45 | [[Stoicism]] | — | — | 🎓 Conclusion: Toward Psychologically-... | 258 |
 | 46 | [[Constructivism]] | — | — | 🎓 Conclusion: Toward Psychologically-... | 258 |
 | 47 | [[Working Memory Architecture and PKM Design]] | — | — | 🔗 Related Topics for PKB Expansion | 284 |
 | 48 | [[Metacognition as Self-Regulation in Knowledge Work]] | — | — | 🔗 Related Topics for PKB Expansion | 289 |
 | 49 | [[Self-Determination Theory and PKM Abandonment]] | — | — | 🔗 Related Topics for PKB Expansion | 294 |
 | 50 | [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 299 |
-| 51 | [[pragmatism]] | — | — | 📚 References & Resources | 380 |
-| 52 | [[American-Pragmatism|American Pragmatism]] | — | — | 📚 References & Resources | 381 |
+| 51 | [[Pragmatism]] | — | — | 📚 References & Resources | 380 |
+| 52 | [[American-pragmatism|American Pragmatism]] | — | — | 📚 References & Resources | 381 |
 | 53 | [[William-James|William James]] | — | — | 📚 References & Resources | 382 |
 | 54 | [[John-Dewey|John Dewey]] | — | — | 📚 References & Resources | 383 |
 | 55 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📚 References & Resources | 384 |
@@ -411,7 +411,7 @@ This will require a sophisticated structure:
 - [[2025-11-25]]
 - [[Accommodation]]
 - [[Adaptive Learning]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Assimilation]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
@@ -435,7 +435,7 @@ This will require a sophisticated structure:
 - [[Negative Visualization]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philosophical Psychology]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Psychological Resilience]]
 - [[Scaffolding]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

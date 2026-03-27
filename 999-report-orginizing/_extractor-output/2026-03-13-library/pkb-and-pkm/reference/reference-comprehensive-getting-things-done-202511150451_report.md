@@ -935,7 +935,7 @@ extraction_summary:
 - [[Personal Knowledge Management Best Practices]]
 - [[Personal Knowledge Management MOC]]
 - [[Personal Learning System Design]]
-- [[Philosophy]]
+- [[philosophy]]
 - [[Pomodoro Technique]]
 - [[Probability Theory Fundamentals]]
 - [[Processing System]]
@@ -1171,7 +1171,7 @@ extraction_summary:
 | 150 | [[Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 3163 |
 | 151 | [[Mind Like Water Philosophy - Eastern Influences on Productivity]] | — | — | 🔗 Related Topics for PKB Expansion | 3165 |
 | 152 | [[GTD]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
-| 153 | [[Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
+| 153 | [[philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
 | 154 | [[Mindfulness]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
 | 155 | [[Peak Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
 | 156 | [[Eastern Wisdom Traditions]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
@@ -2665,7 +2665,7 @@ graph TD
 - [[Personal Knowledge Management Best Practices]]
 - [[Personal Knowledge Management MOC]]
 - [[Personal Learning System Design]]
-- [[Philosophy]]
+- [[philosophy]]
 - [[Pomodoro Technique]]
 - [[Probability Theory Fundamentals]]
 - [[Processing System]]

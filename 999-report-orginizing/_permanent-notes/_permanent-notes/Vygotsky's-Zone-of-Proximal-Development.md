@@ -23,55 +23,51 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 21
+referenced-by-count: 17
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Amotivation]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Conditional-Regard]]"
+  - "[[.permanent-notes-index]]"
   - "[[Desirable-Difficulties]]"
   - "[[Epistemic-Cognition]]"
-  - "[[Identified-Regulation]]"
   - "[[Integration]]"
   - "[[Intellectual-Standards]]"
   - "[[Internalization]]"
+  - "[[Introjection]]"
+  - "[[Metacognitive-Knowledge]]"
+  - "[[Metacognitive-Regulation]]"
+  - "[[OIT's-Continuum-as-Motivational-Landscape]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Vygotsky's-Zone-of-Proximal-Development
 
 > [!definition] **Vygotsky's-Zone-of-Proximal-Development**
-> *Stub note — concept referenced by 21 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 21 permanent notes.*
+*Auto-generated stub — referenced by 17 permanent notes.*
 
 ## Referenced By
 
-- [[Amotivation]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Conditional-Regard]]
+- [[.permanent-notes-index]]
 - [[Desirable-Difficulties]]
 - [[Epistemic-Cognition]]
-- [[Identified-Regulation]]
 - [[Integration]]
 - [[Intellectual-Standards]]
 - [[Internalization]]
@@ -85,4 +81,4 @@ importance: high
 - [[Relative-Autonomy-Index]]
 - [[Self-Determination]]
 - [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]
-- *...and 1 more permanent notes*
+- [[Transfer]]

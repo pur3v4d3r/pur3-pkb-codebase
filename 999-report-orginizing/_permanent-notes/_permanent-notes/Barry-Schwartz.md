@@ -23,59 +23,49 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 22
+referenced-by-count: 12
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analysis-Paralysis]]"
-  - "[[Ecological-Rationality]]"
-  - "[[Fast-and-Frugal-Heuristics]]"
-  - "[[Horm]]"
-  - "[[Kathekon]]"
-  - "[[Kathkon]]"
-  - "[[Knightian-Uncertainty]]"
-  - "[[Phronesis]]"
-  - "[[Recognition-Primed-Decision-Model]]"
-  - "[[Recognition-Primed-Decision-RPD-Model]]"
+  - "[[.permanent-notes-index]]"
+  - "[[📖-Analysis-Paralysis]]"
+  - "[[📖-Ecological-Rationality]]"
+  - "[[📖-Fast-and-Frugal-Heuristics]]"
+  - "[[📖-Hormê]]"
+  - "[[📖-Kathekon]]"
+  - "[[📖-Kathêkon]]"
+  - "[[📖-Knightian-Uncertainty]]"
+  - "[[📖-Phronesis]]"
+  - "[[📖-Recognition-Primed-Decision-Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Barry-Schwartz
 
 > [!definition] **Barry-Schwartz**
-> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 22 permanent notes.*
+*Auto-generated stub — referenced by 12 permanent notes.*
 
 ## Referenced By
 
-- [[Analysis-Paralysis]]
-- [[Ecological-Rationality]]
-- [[Fast-and-Frugal-Heuristics]]
-- [[Horm]]
-- [[Kathekon]]
-- [[Kathkon]]
-- [[Knightian-Uncertainty]]
-- [[Phronesis]]
-- [[Recognition-Primed-Decision-Model]]
-- [[Recognition-Primed-Decision-RPD-Model]]
-- [[Satisficing]]
+- [[.permanent-notes-index]]
 - [[📖-Analysis-Paralysis]]
 - [[📖-Ecological-Rationality]]
 - [[📖-Fast-and-Frugal-Heuristics]]
@@ -85,4 +75,5 @@ importance: high
 - [[📖-Knightian-Uncertainty]]
 - [[📖-Phronesis]]
 - [[📖-Recognition-Primed-Decision-Model]]
-- *...and 2 more permanent notes*
+- [[📖-Recognition-Primed-Decision-RPD-Model]]
+- [[📖-Satisficing]]

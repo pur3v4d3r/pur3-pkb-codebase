@@ -62,7 +62,7 @@ related_concepts:
   - "[[Extraction Pipeline]]"
   - "[[wiki-links]]"
   - "[[Callout Extraction]]"
-  - "[[Inline Fields]]"
+  - "[[Inline-Fields]]"
 
 # GOVERNANCE & VERSIONING
 stability: "stable"

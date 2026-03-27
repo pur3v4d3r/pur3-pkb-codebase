@@ -12,7 +12,7 @@ link-up:
 link-related:
   - "[[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]"
   - "[[Claude Project]]"
-  - "[[Constitutional Ai]]"
+  - "[[Constitutional-AI]]"
   - "[[Generative Ai]]"
   - "[[Large-Language-Models]]"
   - "[[Prompt-Engineering]]"

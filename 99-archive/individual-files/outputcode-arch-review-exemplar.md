@@ -33883,7 +33883,7 @@ The content is organized as follows:
 1867:         
 1868:         related_concepts:
 1869:           - "[[Self-Consistency]]"
-1870:           - "[[Constitutional AI]]"
+1870:           - "[[Constitutional-AI]]"
 1871:           - "[[Iterative Refinement]]"
 1872: 
 1873: ---

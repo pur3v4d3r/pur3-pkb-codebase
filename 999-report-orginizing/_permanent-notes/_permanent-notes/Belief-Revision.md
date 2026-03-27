@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 28
+referenced-by-count: 29
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Allostasis]]"
   - "[[Allostatic-Load]]"
   - "[[Apatheia]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Interoception]]"
   - "[[Interoceptive-Inference]]"
   - "[[Physiological-Metacognition]]"
-  - "[[Physiological-Metacognition-Formal-Definition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Belief-Revision
 
 > [!definition] **Belief-Revision**
-> *Stub note — concept referenced by 28 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 29 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 28 permanent notes.*
+*Auto-generated stub — referenced by 29 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Allostasis]]
 - [[Allostatic-Load]]
 - [[Apatheia]]
@@ -84,5 +85,4 @@ importance: high
 - [[📖-Apatheia]]
 - [[📖-As-If-Body-Loop]]
 - [[📖-Embodied-vs.-Extended-vs.-Enactive-Cognition]]
-- [[📖-Enactive-Cognition]]
-- *...and 8 more permanent notes*
+- *...and 9 more permanent notes*

@@ -591,8 +591,8 @@ Create MOCs when you have 10+ notes on a topic. MOC becomes navigation hub with 
 Creating links from Note A → Note B but Note B never links back creates one-way graph.
 
 **5. Duplicate Links in Same Sentence**
-❌ `[[React]] is a [[React]] framework...`
-✅ `[[React]] is a JavaScript framework...`
+❌ `[[ReAct]] is a [[ReAct]] framework...`
+✅ `[[ReAct]] is a JavaScript framework...`
 
 ---
 

@@ -316,7 +316,7 @@ Broken link: [[Non-Existent Note]]
 **Behavior**:
 1. Load SPES instruction files from `02-projects/_spes-.../01-claude-librarian-instructions/`
 2. Apply prompt engineering best practices
-3. Use [[Chain-of-Thought]], [[ReAct Framework]], [[Constitutional AI]] patterns
+3. Use [[Chain-of-Thought]], [[ReAct Framework]], [[Constitutional-AI]] patterns
 4. Structure for modularity and reusability
 5. Include validation/self-check mechanisms
 6. Document with comprehensive comments

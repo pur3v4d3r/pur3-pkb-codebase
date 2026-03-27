@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649"
-  - "cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Systems-Design|Systems Design]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Homeostasis]]"
   - "[[Cognitive-Friction|Cognitive Friction]]"
   - "[[Cybernetics]]"
-  - "[[Systems-Design|Systems Design]]"
-  - "[[Cybernetics|Cybernetics]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Information-Entropy|Information Entropy]]"
-  - "[[Loose-Coupling|Loose Coupling]]"
-  - "[[Homeostasis|Homeostasis]]"
-  - "[[Cognitive-Friction|Cognitive Friction]]"
-  - "[[Information-Theory|Information Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -129,10 +120,6 @@ importance: medium
 
 **Related concepts:**
 [[Systems-Design|Systems Design]] · [[Cybernetics]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Information-Entropy|Information Entropy]] · [[Loose-Coupling|Loose Coupling]] · [[Homeostasis]] · [[Cognitive-Friction|Cognitive Friction]] · [[Cybernetics]] · [[Information-Theory|Information Theory]] · [[Norbert-Wiener|Norbert Wiener]] · [[W.-Ross-Ashby|W. Ross Ashby]] · [[Douglas-Engelbart|Douglas Engelbart]] · [[Niklas-Luhmann|Niklas Luhmann]] · [[Zettelkasten]]
-
-**Related concepts** *(from cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649.md)*:
-[[Systems-Design|Systems Design]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Information-Entropy|Information Entropy]] * [[Loose-Coupling|Loose Coupling]] * [[Information-Theory|Information Theory]] * [[Norbert-Wiener|Norbert Wiener]] * [[W.-Ross-Ashby|W. Ross Ashby]] * [[Douglas-Engelbart|Douglas Engelbart]] * [[Niklas-Luhmann|Niklas Luhmann]] * [[Entropy|Entropy]] * [[Information-Architecture|Information Architecture]] * [[Friction|Friction]] * [[Coupling|Coupling]] * [[Iterative-Design|Iterative Design]] * [[Antifragility|Antifragility]]
-
 
 ## References
 

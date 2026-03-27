@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "self-determination-theory-dialectical-re-examination-2026-03-19"
-  - "self-determination-theory-dialectical-re-examination-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -72,14 +73,6 @@ see-also:
   - "[[Competence-Need]]"
   - "[[Relatedness-Need]]"
   - "[[Undermining-Effect]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Edward-Deci|Edward Deci]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Basic-Psychological-Needs|Basic-Psychological-Needs]]"
-  - "[[Autonomy-Need|Autonomy-Need]]"
-  - "[[Competence-Need|Competence-Need]]"
-  - "[[Relatedness-Need|Relatedness-Need]]"
-  - "[[Undermining-Effect|Undermining-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +83,7 @@ builds-on:
   - "[[Organismic-Integration-Theory]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Undermining-Effect-The-meta-analytic-wars-between-DeciKoestnerRyan-1|> [!topic-idea] [[Undermining-Effect]]
@@ -154,10 +147,6 @@ importance: high
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Basic-Psychological-Needs]] · [[Autonomy-Need]] · [[Competence-Need]] · [[Relatedness-Need]] · [[Undermining-Effect]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Organismic-Integration-Theory]] · [[Causality-Orientations-Theory]] · [[Basic-Psychological-Needs]] · [[Relationship-Motivation-Theory]] · [[Goal-Content-Theory]]
 
-**Related concepts** *(from self-determination-theory-dialectical-re-examination-2026-03-19.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[External-Regulation|External-Regulation]] * [[Introjected-Regulation|Introjected-Regulation]] * [[Identified-Regulation|Identified-Regulation]] * [[Integrated-Regulation|Integrated-Regulation]] * [[Intrinsic-Motivation|Intrinsic-Motivation]] * [[Overjustification-Effect|Overjustification-Effect]] * [[Perceived-Locus-of-Causality|Perceived-Locus-of-Causality]] * [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]] * [[Autonomy-Orientation|Autonomy-Orientation]] * [[Optimal-Challenge|Optimal-Challenge]] * [[Achievement-Goal-Theory|Achievement-Goal-Theory]] * [[Self-Concordance-Model|Self-Concordance-Model]]
-
-
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical statement of SDT, introducing the basic needs framework, the internalization continuum, and cognitive evaluation theory. Essential reading for the received view this report examines. Particularly valuable for Phases I and II; the teleological elements of OIT are most visible in this original formulation.
@@ -165,21 +154,6 @@ importance: high
 - **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423.**: The main competing meta-analysis challenging Deci et al.'s undermining effect claims. Cameron and Pierce found that verbal rewards enhance and tangible rewards do not reliably undermine intrinsic motivation. The methodological dispute between this work and Deci et al. (1999) constitutes one of motivational psychology's most productive empirical controversies and is central to Phase III's empirical challenge.
 - **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford.**: The comprehensive theoretical synthesis of SDT after four decades of development, covering all six mini-theories. The most authoritative current statement of the theory. Includes substantial treatment of cross-cultural research, need frustration, and relationship motivation theory not present in the 1985 formulation.
 - **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study demonstrating that autonomous functioning predicts well-being in both individualist and collectivist cultures, but that autonomy is expressed through relationally embedded decision-making in collectivist contexts. Central to Phase III's cross-cultural challenge and Phase V's reconceptualization of autonomy as volitional congruence.
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical statement of SDT, introducing the basic needs framework, the internalization continuum, and cognitive evaluation theory. Essential reading for the received view this report examines. Particularly valuable for Phases I and II; the teleological elements of OIT are most visible in this original formulation.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The large-scale meta-analysis of 128 studies supporting the undermining effect. Central to Phase III's empirical challenge. Should be read alongside Cameron & Pierce's competing analyses for a complete view of the meta-analytic debate.
-
-- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423.**: The main competing meta-analysis challenging Deci et al.'s undermining effect claims. Cameron and Pierce found that verbal rewards enhance and tangible rewards do not reliably undermine intrinsic motivation. The methodological dispute between this work and Deci et al. (1999) constitutes one of motivational psychology's most productive empirical controversies and is central to Phase III's empirical challenge.
-
-- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford.**: The comprehensive theoretical synthesis of SDT after four decades of development, covering all six mini-theories. The most authoritative current statement of the theory. Includes substantial treatment of cross-cultural research, need frustration, and relationship motivation theory not present in the 1985 formulation.
-
-- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study demonstrating that autonomous functioning predicts well-being in both individualist and collectivist cultures, but that autonomy is expressed through relationally embedded decision-making in collectivist contexts. Central to Phase III's cross-cultural challenge and Phase V's reconceptualization of autonomy as volitional congruence.
-
-
-
-
-
 
 ## Methodology Notes
 

@@ -159,7 +159,7 @@ dv.paragraph(`**Total Cognitive Science Notes**: ${total}`);
 
 ### Related Systems
 - [[Philosophy of Mind]] - Metaphysical foundations
-- [[Epistemology]] - Theory of knowledge
+- [[epistemology]] - Theory of knowledge
 - [[Evolutionary Epistemology]] - Evolution of cognitive systems
 
 ```dataview
@@ -355,7 +355,7 @@ LIMIT 12
 - [[Locus-of-Control]] - Agency attribution
 - [[Socratic-Method]] - Question-based inquiry
 - [[Socratic Thinking]] - Critical reasoning approach
-- [[pragmatism]] - Action-oriented epistemology
+- [[Pragmatism]] - Action-oriented epistemology
 
 ### Performance & Motivation
 - [[System-1]] - Fast, automatic processing
@@ -421,7 +421,7 @@ if (bridges.length > 0) {
 ### Known Integration Points
 
 **Cognitive Science ↔ Philosophy**
-- [[Epistemology]] ↔ [[Cognitive Development]] (developmental epistemology)
+- [[epistemology]] ↔ [[Cognitive Development]] (developmental epistemology)
 - [[Stoicism]] ↔ [[Cognitive Restructuring]] (ancient CBT parallels)
 - [[Philosophy of Mind]] ↔ [[Extended Mind]] (consciousness theories)
 

@@ -298,7 +298,7 @@ extraction_summary:
 > The phased generation pattern mirrors instructional design models like ADDIE (Analysis, Design, Development, Implementation, Evaluation) and Dick & Carey's systematic design model. The modular approach enables the application of evidence-based pedagogical principles ([[Scaffolding]], [[Progressive Elaboration]], [[Worked-Examples|Worked Examples]]) at the document generation level.
 > 
 > **Synthesis with [[Prompt-Engineering|Prompt Engineering]] Best Practices:**
-> Modular decomposition represents an architectural layer above individual prompt optimization techniques like [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]], [[Few-Shot-Learning|Few-Shot Learning]], or [[Constitutional AI]]. The framework provides structure for organizing these techniques into coherent systems. Chain-of-Thought can be applied within individual modules; Constitutional AI principles can govern module behavior specifications; Few-Shot examples can illustrate expected module outputs.
+> Modular decomposition represents an architectural layer above individual prompt optimization techniques like [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]], [[Few-Shot-Learning|Few-Shot Learning]], or [[Constitutional-AI|Constitutional AI]]. The framework provides structure for organizing these techniques into coherent systems. Chain-of-Thought can be applied within individual modules; Constitutional AI principles can govern module behavior specifications; Few-Shot examples can illustrate expected module outputs.
 > 
 > **Parallel to [[Project Management]] Methodologies:**
 > The approach exhibits structural parallels to [[Agile Development]] methodologies, particularly the emphasis on iterative refinement, adaptive planning, and modular component development. Similarly, [[Work Breakdown Structure]] concepts from traditional project management map onto functional decomposition in prompt engineering—both partition complex objectives into manageable work packages.
@@ -378,7 +378,7 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Management in Digital Knowledge Work]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Context Window Architectures and Memory Management]]
 - [[Ergonomics]]
 - [[Extraneous-Load|Extraneous Load]]
@@ -468,7 +468,7 @@ extraction_summary:
 | 44 | [[Prompt-Engineering|Prompt Engineering]] | — | — | The Document as Spaced Repetition System | 416 |
 | 45 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | The Document as Spaced Repetition System | 417 |
 | 46 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | The Document as Spaced Repetition System | 417 |
-| 47 | [[Constitutional AI]] | — | — | The Document as Spaced Repetition System | 417 |
+| 47 | [[Constitutional-AI|Constitutional AI]] | — | — | The Document as Spaced Repetition System | 417 |
 | 48 | [[Project Management]] | — | — | The Document as Spaced Repetition System | 419 |
 | 49 | [[Agile Development]] | — | — | The Document as Spaced Repetition System | 420 |
 | 50 | [[Work Breakdown Structure]] | — | — | The Document as Spaced Repetition System | 420 |
@@ -911,7 +911,7 @@ description includes Review
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Management in Digital Knowledge Work]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Context Window Architectures and Memory Management]]
 - [[Ergonomics]]
 - [[Extraneous-Load|Extraneous Load]]

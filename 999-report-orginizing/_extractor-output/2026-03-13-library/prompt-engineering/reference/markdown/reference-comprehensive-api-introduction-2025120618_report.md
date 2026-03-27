@@ -413,7 +413,7 @@ extraction_summary:
 > ├─ Agent architectures for research workflows
 > └─ Local LLM integration (Ollama)
 > **WIKI-LINK OPPORTUNITIES IDENTIFIED:**
-> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], [[Self-Consistency]], [[Constitutional AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning|Few-shot Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search|Semantic Search]], [[Knowledge Graphs]], [[Obsidian Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
+> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], [[Self-Consistency]], [[Constitutional-AI|Constitutional AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning|Few-shot Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search|Semantic Search]], [[Knowledge Graphs]], [[Obsidian Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] - Executive overview
 > - [!important] - Cost considerations and breaking points
@@ -914,7 +914,7 @@ extraction_summary:
 - [[Claude Sonnet]]
 - [[Claude Sonnet 4.5]]
 - [[Concurrent Requests]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Constrained Sampling]]
 - [[Context Caching]]
 - [[Context Length]]
@@ -1111,7 +1111,7 @@ extraction_summary:
 | 57 | [[Chain-of-Thought]] | — | — | API LLM Adoption | 195 |
 | 58 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | API LLM Adoption | 195 |
 | 59 | [[Self-Consistency]] | — | — | API LLM Adoption | 195 |
-| 60 | [[Constitutional AI]] | — | — | API LLM Adoption | 195 |
+| 60 | [[Constitutional-AI|Constitutional AI]] | — | — | API LLM Adoption | 195 |
 | 61 | [[RLHF]] | — | — | API LLM Adoption | 195 |
 | 62 | [[Fine-tuning]] | — | — | API LLM Adoption | 195 |
 | 63 | [[Few-Shot-Learning|Few-shot Learning]] | — | — | API LLM Adoption | 195 |
@@ -2692,7 +2692,7 @@ for (let letter of sortedLetters) {
 - [[Claude Sonnet]]
 - [[Claude Sonnet 4.5]]
 - [[Concurrent Requests]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Constrained Sampling]]
 - [[Context Caching]]
 - [[Context Length]]

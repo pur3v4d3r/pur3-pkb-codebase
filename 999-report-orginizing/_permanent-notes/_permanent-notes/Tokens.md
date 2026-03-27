@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,8 +37,8 @@ referenced-by-count: 3
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Context-Window]]"
-  - "[[Text-Generator-Plugin]]"
   - "[[_Master-Definition-Index|_Master-Definition-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -58,6 +58,6 @@ importance: low
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Context-Window]]
-- [[Text-Generator-Plugin]]
 - [[_Master-Definition-Index|_Master-Definition-Index]]

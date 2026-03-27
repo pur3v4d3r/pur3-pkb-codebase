@@ -171,7 +171,7 @@ extraction_summary:
 
 > [!example] Multi-Level Schema Implementation
 > For your cognitive science study:
-> - **Level 1 Schema**: [[Cognitive Science MOC]] - Broad domains (perception, memory, learning, reasoning)
+> - **Level 1 Schema**: [[cognitive-science-moc|Cognitive Science MOC]] - Broad domains (perception, memory, learning, reasoning)
 > - **Level 2 Schemas**: [[Memory Systems MOC]], [[Learning Theories MOC]] - Specialized areas
 > - **Level 3 Schemas**: [[Working Memory Models MOC]], [[Long-Term Memory Consolidation MOC]] - Specific phenomena
 > - **Atomic Notes**: Individual concepts, studies, principles
@@ -303,7 +303,7 @@ extraction_summary:
 - [[Cognitive Offloading vs. Cognitive Partnership in External Systems]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive Science MOC]]
+- [[cognitive-science-moc|Cognitive Science MOC]]
 - [[Competence]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Constructivist Note Evolution Protocols]]
@@ -392,7 +392,7 @@ extraction_summary:
 | 19 | [[Schema]] | — | — | 3. **[[Schema Theory and MOC Architec... | 89 |
 | 20 | [[Schema-Theory|Schema Theory]] | — | — | 3. **[[Schema Theory and MOC Architec... | 91 |
 | 21 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 3. **[[Schema Theory and MOC Architec... | 94 |
-| 22 | [[Cognitive Science MOC]] | — | — | 3. **[[Schema Theory and MOC Architec... | 105 |
+| 22 | [[cognitive-science-moc|Cognitive Science MOC]] | — | — | 3. **[[Schema Theory and MOC Architec... | 105 |
 | 23 | [[Memory Systems MOC]] | — | — | 3. **[[Schema Theory and MOC Architec... | 106 |
 | 24 | [[Learning Theories MOC]] | — | — | 3. **[[Schema Theory and MOC Architec... | 106 |
 | 25 | [[Working Memory Models MOC]] | — | — | 3. **[[Schema Theory and MOC Architec... | 107 |
@@ -534,7 +534,7 @@ Structural Planning:
 - [[Cognitive Offloading vs. Cognitive Partnership in External Systems]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Cognitive Science MOC]]
+- [[cognitive-science-moc|Cognitive Science MOC]]
 - [[Competence]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Constructivist Note Evolution Protocols]]

@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "schema-theory-dialectical-re-examination-2026-03-22"
-  - "schema-theory-dialectical-re-examination-2026-03-22.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Schema-Theory]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Bartlett]]"
   - "[[Schema-Accommodation]]"
   - "[[Schema-Automation]]"
-  - "[[Schema-Theory|Schema-Theory]]"
-  - "[[Frederic-Bartlett|Frederic-Bartlett]]"
-  - "[[Rumelhart|Rumelhart]]"
-  - "[[Chi-et-al|Chi-et-al]]"
-  - "[[Bartlett|Bartlett]]"
-  - "[[Schema-Accommodation|Schema-Accommodation]]"
-  - "[[Schema-Automation|Schema-Automation]]"
-  - "[[Assimilation-and-Accommodation|Assimilation-and-Accommodation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -89,7 +82,7 @@ builds-on:
   - "[[Rumelhart]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Conceptual-Change-The-dialectical-re-examination-of-schema-theory-re|> [!topic-idea] [[Conceptual-Change]]
@@ -221,24 +214,6 @@ importance: high
 **Difficulty**: Advanced
 **Type**: Application
 
-> [!flashcard] **Spaced Repetition** *(from schema-theory-dialectical-re-examination-2026-03-22.md)*
-> **Q:** Seed 1
-> **A:** **Q**: What is the "construction problem" in schema theory, and why is it significant?
-> **A**: The construction problem is the difficulty that schema theory cannot explain the formation of schemas without presupposing schemas — assimilation and accommodation both require an existing schema, so the first schema is inexplicable within the theory's own resources. It is significant because it reveals that schema theory cannot claim foundational status — it requires supplementary accounts (statistical learning, embodied regularization) for genesis.
-> **Source**: Phase III, Philosophical Challenge
-> **Difficulty**: Advanced
-> **Type**: Concept
-
-> [!flashcard] **Spaced Repetition** *(from schema-theory-dialectical-re-examination-2026-03-22.md)*
-> **Q:** Seed 3
-> **A:** **Q**: What is the expert blind spot, and why is it a problem for schema theory?
-> **A**: The expert blind spot is the documented tendency for subject-matter experts to be systematically worse instructors of novices because their schema automation places intermediate processing steps below conscious access. It is a problem for schema theory because the theory predicts that richer schemas should improve instruction — the expert blind spot is a direct prediction failure.
-> **Source**: Phase III, Practical Challenge
-> **Difficulty**: Intermediate
-> **Type**: Application
-
-
-
 ## Protocols & Methods
 
 > [!protocol] **Instructional Design for Restructuring Goals**
@@ -303,10 +278,6 @@ importance: high
 **Related concepts:**
 [[Schema-Theory]] · [[Schema-Theory]] · [[Frederic-Bartlett]] · [[Rumelhart]] · [[Chi-et-al]] · [[Bartlett]] · [[Schema-Accommodation]] · [[Schema-Automation]] · [[Assimilation-and-Accommodation]] · [[Long-Term-Memory]] · [[Accretion,-Tuning,-Restructuring]] · [[The-Schema-Progressive-Architecture-for-PKB-Design]] · [[Conceptual-Change]] · [[Frederic-Bartlett]] · [[Bransford-and-Johnson]]
 
-**Related concepts** *(from schema-theory-dialectical-re-examination-2026-03-22.md)*:
-[[Schank-and-Abelson|Schank-and-Abelson]] * [[Schema-Construction|Schema-Construction]] * [[Cognitive-Disequilibrium|Cognitive-Disequilibrium]] * [[Schema-Theory-and-Learning|Schema-Theory-and-Learning]] * [[Cognitive-Load-Theory|Cognitive-Load-Theory]] * [[Advance-Organizer|Advance-Organizer]] * [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema-Construction-Problem-—-Original-Analytical-Insight]] * [[schema-theory-and-learning-foundational-report-2026-03-06|schema-theory-and-learning-foundational-report-2026-03-06]] * [[Expertise-Reversal-Effect|Expertise-Reversal-Effect]] * [[Pedagogical-Content-Knowledge|Pedagogical-Content-Knowledge]] * [[Schema-Theory-and-Knowledge-Organization|Schema-Theory-and-Knowledge-Organization]] * [[Situated-Cognition|Situated-Cognition]] * [[Legitimate-Peripheral-Participation|Legitimate-Peripheral-Participation]] * [[Embodied-vs.-Extended-vs.-Enactive-Cognition|Embodied-vs.-Extended-vs.-Enactive-Cognition]] * [[Dual-Coding-Theory|Dual-Coding-Theory]]
-
-
 ## References
 
 - **Rumelhart, D. E., & Ortony, A. (1977). The representation of knowledge in memory. In R. C. Anderson, R. J. Spiro, & W. E. Montague (Eds.), *Schooling and the Acquisition of Knowledge*. Erlbaum.**: Foundational formalization of schema theory in computational terms; introduces slot-filler architecture. The primary target of the philosophical challenge regarding the representation assumption. Essential reading for understanding exactly what the received view claims. Recommend Chapters 2 and 4.
@@ -314,21 +285,6 @@ importance: high
 - **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The elegant context/schema activation study demonstrating that comprehension requires appropriate prior knowledge. Essential empirical support for the thesis; also consistent with the attractor account.
 - **Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299.**: The most comprehensive synthesis of Kapur's productive failure research program. Directly supports the schema-disruption-before-resources reconstructive prescription. Empirical challenge to the schema-activation-first instructional model.
 - **Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal, 40*(4), 905–928.**: Primary empirical source for the expert blind spot finding — a direct practical prediction failure of the schema automation model. Demonstrates that subject-matter expertise is negatively correlated with pedagogical effectiveness for novices.
-
-- **Rumelhart, D. E., & Ortony, A. (1977). The representation of knowledge in memory. In R. C. Anderson, R. J. Spiro, & W. E. Montague (Eds.), *Schooling and the Acquisition of Knowledge*. Erlbaum.**: Foundational formalization of schema theory in computational terms; introduces slot-filler architecture. The primary target of the philosophical challenge regarding the representation assumption. Essential reading for understanding exactly what the received view claims. Recommend Chapters 2 and 4.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The original and still most important primary source. Read both for its schema theory contribution AND for the culturally-embedded account that the later formalization tradition lost. Chapters 10–12 contain the "War of the Ghosts" studies; the final chapters contain Bartlett's own theoretical framework, which is richer and more nuanced than his heirs acknowledged.
-
-- **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The elegant context/schema activation study demonstrating that comprehension requires appropriate prior knowledge. Essential empirical support for the thesis; also consistent with the attractor account.
-
-- **Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299.**: The most comprehensive synthesis of Kapur's productive failure research program. Directly supports the schema-disruption-before-resources reconstructive prescription. Empirical challenge to the schema-activation-first instructional model.
-
-- **Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal, 40*(4), 905–928.**: Primary empirical source for the expert blind spot finding — a direct practical prediction failure of the schema automation model. Demonstrates that subject-matter expertise is negatively correlated with pedagogical effectiveness for novices.
-
-
-
-
-
 
 ## Methodology Notes
 

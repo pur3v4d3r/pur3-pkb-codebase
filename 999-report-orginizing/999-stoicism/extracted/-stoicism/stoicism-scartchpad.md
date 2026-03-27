@@ -287,7 +287,7 @@ Writing is a form of [[Cognitive-Load-Theory]] management, by taking your though
 > 
 
 > [!the-philosophy]
->[[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity.[[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience.
+>[[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity.[[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[Pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience.
 
 > [!analogy]
 > **The Archer's Control: A Stoic Metaphor for Agency**

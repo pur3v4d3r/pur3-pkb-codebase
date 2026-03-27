@@ -68,7 +68,7 @@ These fill critical theoretical gaps in your existing pillars:
 4. **[[Free-Energy-Principle]]**
    - **Connection to MOC**: Meta-theoretical framework potentially reorganizing entire MOC structure
    - **Research Value**: Karl Friston's unified theory of brain function
-   - **Integration Points**: [[Bayesian Brain]] ↔ [[Homeostasis]] ↔ [[Active-Inference]] ↔ [[Consciousness]]
+   - **Integration Points**: [[Bayesian Brain]] ↔ [[Homeostasis]] ↔ [[Active-Inference]] ↔ [[consciousness]]
    - **Taxonomy Tags**: `#theoretical-frameworks`, `#neuroscience`, `#predictive-processing`
 
 5. **[[Active-Inference]]**
@@ -326,7 +326,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Taxonomy Tags**: `#language`, `#clinical-cognition`, `#neuropsychology`
 
 41. **[[Inner Speech]]**
-    - **Connection to MOC**: Links [[Language]] ↔ [[Working-Memory]] ↔ [[Consciousness]]
+    - **Connection to MOC**: Links [[Language]] ↔ [[Working-Memory]] ↔ [[consciousness]]
     - **Research Value**: Phonological loop function, self-regulation, thought
     - **Integration Points**: [[Verbal Working Memory]] ↔ [[Self-Talk]] ↔ [[Metacognition]]
     - **Taxonomy Tags**: `#language`, `#inner-speech`, `#consciousness`
@@ -451,7 +451,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Integration Points**: [[Satisficing]] ↔ [[Search Strategies]] ↔ [[Knowledge Navigation]]
     - **Taxonomy Tags**: `#information-behavior`, `#search`, `#foraging-theory`
 
-59. **[[Cognitive Friction]]**
+59. **[[Cognitive-Friction]]**
     - **Connection to MOC**: Design concept applying [[Cognitive-Load-Theory]] to interfaces
     - **Research Value**: Unnecessary cognitive effort in task completion
     - **Integration Points**: [[Usability]] ↔ [[Extraneous-Load]] ↔ [[Flow State]]

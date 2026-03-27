@@ -585,7 +585,7 @@ extraction_summary:
 - [[Context Switching]]
 - [[Cross-Platform Knowledge Work]]
 - [[Custom CSS]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dataview]]
 - [[Day-Planner|Day Planner]]
 - [[Desktop Workflow]]
@@ -707,7 +707,7 @@ extraction_summary:
 | 74 | [[Quick Switcher]] | — | — | 🧭 Further Exploration | 699 |
 | 75 | [[File Explorer]] | — | — | 🧭 Further Exploration | 699 |
 | 76 | [[Graph View]] | — | — | 🧭 Further Exploration | 699 |
-| 77 | [[Daily Notes]] | — | — | 🧭 Further Exploration | 699 |
+| 77 | [[Daily-Notes|Daily Notes]] | — | — | 🧭 Further Exploration | 699 |
 | 78 | [[Templates]] | — | — | 🧭 Further Exploration | 699 |
 | 79 | [[Dataview]] | — | — | 🧭 Further Exploration | 699 |
 | 80 | [[Templater]] | — | — | 🧭 Further Exploration | 699 |
@@ -759,7 +759,7 @@ Information Architecture:
 8. Further Exploration
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[Maps-of-Content-—-MOCs|MOC]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
+[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes|Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[Maps-of-Content-—-MOCs|MOC]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
 # ... (20 more lines truncated)
 ```
 
@@ -801,7 +801,7 @@ Information Architecture:
 - [[Context Switching]]
 - [[Cross-Platform Knowledge Work]]
 - [[Custom CSS]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dataview]]
 - [[Day-Planner|Day Planner]]
 - [[Desktop Workflow]]

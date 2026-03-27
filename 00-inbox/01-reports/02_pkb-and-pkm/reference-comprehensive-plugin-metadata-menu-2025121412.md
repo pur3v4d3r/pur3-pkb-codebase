@@ -381,7 +381,7 @@ try {
 >         - [[Dataview]], [[YAML]], [[Obsidian Properties]]
 >         - [[Templater]], [[QuickAdd]] (for workflow integration)
 >         - [[Personal-Knowledge-Management]], [[Zettelkasten]]
->         - [[Inline Fields]], [[Metadata Schema]]
+>         - [[Inline-Fields]], [[Metadata Schema]]
 > Now I'll execute the research phase.
 > Now I have sufficient research to create a comprehensive reference note. Let me proceed with the response following the structure outlined in the thinking phase.
 

@@ -23,60 +23,49 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 25
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Affect-as-Information-Theory]]"
-  - "[[Affective-Realism]]"
-  - "[[Appraisal-Theory]]"
-  - "[[Core-Affect]]"
-  - "[[Emotional-Calibration]]"
-  - "[[Emotional-Granularity]]"
-  - "[[Emotional-Granularity-as-Epistemic-Precision]]"
-  - "[[Eupatheia]]"
-  - "[[Path]]"
-  - "[[Path-and-Eupatheia-The-Stoic-Distinction]]"
+  - "[[.permanent-notes-index]]"
+  - "[[🔖-Affect-as-Information-Theory]]"
+  - "[[🔖-Affective-Realism]]"
+  - "[[🔖-Appraisal-Theory]]"
+  - "[[🔖-Core-Affect]]"
+  - "[[🔖-Emotional-Calibration]]"
+  - "[[🔖-Emotional-Granularity]]"
+  - "[[🔖-Emotional-Granularity-as-Epistemic-Precision]]"
+  - "[[🔖-Eupatheia]]"
+  - "[[🔖-Pathē]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Classical-View-of-Emotion
 
 > [!definition] **Classical-View-of-Emotion**
-> *Stub note — concept referenced by 25 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 25 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
-- [[Affect-as-Information-Theory]]
-- [[Affective-Realism]]
-- [[Appraisal-Theory]]
-- [[Core-Affect]]
-- [[Emotional-Calibration]]
-- [[Emotional-Granularity]]
-- [[Emotional-Granularity-as-Epistemic-Precision]]
-- [[Eupatheia]]
-- [[Path]]
-- [[Path-and-Eupatheia-The-Stoic-Distinction]]
-- [[Somatic-Marker-Hypothesis]]
-- [[Theory-of-Constructed-Emotion]]
+- [[.permanent-notes-index]]
 - [[🔖-Affect-as-Information-Theory]]
 - [[🔖-Affective-Realism]]
 - [[🔖-Appraisal-Theory]]
@@ -85,4 +74,8 @@ importance: high
 - [[🔖-Emotional-Granularity]]
 - [[🔖-Emotional-Granularity-as-Epistemic-Precision]]
 - [[🔖-Eupatheia]]
-- *...and 5 more permanent notes*
+- [[🔖-Pathē]]
+- [[🔖-Pathē-and-Eupatheia-—-The-Stoic-Distinction]]
+- [[🔖-Propatheiai]]
+- [[🔖-Somatic-Marker-Hypothesis]]
+- [[🔖-Theory-of-Constructed-Emotion]]

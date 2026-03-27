@@ -401,8 +401,8 @@ extraction_summary:
 - [[Chain-of-Verification]]
 - [[Chain-of-Verification (CoVe)]]
 - [[Confabulated Reflections]]
-- [[Constitutional AI]]
-- [[Constitutional AI (CAI)]]
+- [[Constitutional-AI|Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI (CAI)]]
 - [[Constitutional AI: Principles, Implementation, and Extensions]]
 - [[DSPy]]
 - [[DSPy: Declarative Prompt Programming Framework]]
@@ -443,10 +443,10 @@ extraction_summary:
 | 10 | [[Self-Reflection Module]] | — | — | 2.1 Architectural Overview | 251 |
 | 11 | [[Capability ceilings]] | — | — | 2.5 Limitations of the Reflexion Appr... | 329 |
 | 12 | [[Confabulated Reflections]] | — | — | 2.5 Limitations of the Reflexion Appr... | 332 |
-| 13 | [[Constitutional AI]] | — | — | 3.1 Self-Critique as Architectural Pr... | 346 |
+| 13 | [[Constitutional-AI|Constitutional AI]] | — | — | 3.1 Self-Critique as Architectural Pr... | 346 |
 | 14 | [[Self-Refine]] | — | — | 3.1 Self-Critique as Architectural Pr... | 346 |
 | 15 | [[Chain-of-Verification]] | — | — | 3.1 Self-Critique as Architectural Pr... | 346 |
-| 16 | [[Constitutional AI (CAI)]] | — | — | 3.2 Constitutional AI: Self-Critique ... | 366 |
+| 16 | [[Constitutional-AI|Constitutional AI (CAI)]] | — | — | 3.2 Constitutional AI: Self-Critique ... | 366 |
 | 17 | [[Anthropic]] | — | — | 3.2 Constitutional AI: Self-Critique ... | 366 |
 | 18 | [[Bai et al. (2022)]] | — | — | 3.2 Constitutional AI: Self-Critique ... | 390 |
 | 19 | [[Self-Refine]] | — | — | 3.3 Self-Refine: Iterative Refinement... | 394 |
@@ -1089,8 +1089,8 @@ flowchart TB
 - [[Chain-of-Verification]]
 - [[Chain-of-Verification (CoVe)]]
 - [[Confabulated Reflections]]
-- [[Constitutional AI]]
-- [[Constitutional AI (CAI)]]
+- [[Constitutional-AI|Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI (CAI)]]
 - [[Constitutional AI: Principles, Implementation, and Extensions]]
 - [[DSPy]]
 - [[DSPy: Declarative Prompt Programming Framework]]

@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,9 +41,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "schema-construction-problem-focused-analysis-2026-03-22"
-  - "schema-construction-problem-focused-analysis-2026-03-22.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -55,16 +56,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Schema-Theory-and-Learning]]"
@@ -75,23 +76,15 @@ see-also:
   - "[[Personal-Knowledge-Base]]"
   - "[[Schema-Construction]]"
   - "[[Schema-Automation]]"
-  - "[[Schema-Theory-and-Learning|Schema-Theory-and-Learning]]"
-  - "[[Schema-Theory-Bartlett,-Rumelhart|Schema-Theory-Bartlett,-Rumelhart]]"
-  - "[[Schema-Theory|Schema-Theory]]"
-  - "[[Rumelhart|Rumelhart]]"
-  - "[[Frederic-Bartlett|Frederic-Bartlett]]"
-  - "[[Personal-Knowledge-Base|Personal-Knowledge-Base]]"
-  - "[[Schema-Construction|Schema-Construction]]"
-  - "[[Schema-Automation|Schema-Automation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Schema-Automation-and-Fluency-Development-Examines-the-post-crystall|> [!topic-idea] [[Schema-Automation-and-Fluency-Development]]
@@ -233,39 +226,6 @@ importance: high
 **Difficulty:** Advanced
 **Type:** Definition
 
-> [!flashcard] **Spaced Repetition** *(from schema-construction-problem-focused-analysis-2026-03-22.md)*
-> **Q:** Seed 2
-> **A:** **Q:** What is the difference between accommodation and restructuring in Schema Theory?
-> 
-> **A:** Accommodation modifies an existing schema to incorporate information that cannot be directly assimilated — it *adjusts* structure. Restructuring creates a new schema where none existed — it *builds* structure. Accommodation requires a relevant schema to exist and be modified; restructuring does not. Accommodation handles degree novelty; restructuring handles categorical novelty.
-> 
-> **Source:** Phase II
-> **Difficulty:** Intermediate
-> **Type:** Distinction
-
-> [!flashcard] **Spaced Repetition** *(from schema-construction-problem-focused-analysis-2026-03-22.md)*
-> **Q:** Seed 4
-> **A:** **Q:** What is the Schema-Timing Paradox revealed by Bransford and Johnson's research?
-> 
-> **A:** Schemas must be active *during* comprehension to organize incoming information. But building a schema requires comprehending material. The paradox: to comprehend material well enough to build a schema from it, you need a schema — but you're trying to build one because you don't have one. A schema provided post-hoc cannot retroactively organize already-processed material.
-> 
-> **Source:** Phase III
-> **Difficulty:** Advanced
-> **Type:** Process
-
-> [!flashcard] **Spaced Repetition** *(from schema-construction-problem-focused-analysis-2026-03-22.md)*
-> **Q:** Seed 5
-> **A:** **Q:** What is the Bootstrapping Constraint, and when does it bind most tightly?
-> 
-> **A:** The Bootstrapping Constraint is the structural constraint that schema construction requires existing schemas as inputs. It binds most tightly for *categorically novel* concepts — concepts that do not belong to any existing schema category. For categorically novel content, there is no existing schema to serve as the construction input, and the primary resolution is analogical scaffolding from a structurally isomorphic source domain.
-> 
-> **Source:** Phase IV
-> **Difficulty:** Advanced
-> **Type:** Definition
-
-
-
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -277,18 +237,6 @@ importance: high
 **Related concepts:**
 [[Schema-Theory-and-Learning]] · [[Schema-Theory-Bartlett,-Rumelhart]] · [[Schema-Theory]] · [[Rumelhart]] · [[Frederic-Bartlett]] · [[Personal-Knowledge-Base]] · [[Schema-Construction]] · [[Schema-Automation]] · [[Schema-Accommodation]] · [[Schema]] · [[Schema-Theory-Bartlett,-Rumelhart]] · [[Rumelhart]] · [[Assimilation-and-Accommodation]] · [[Assimilation]] · [[Schema-Accommodation]]
 
-**Related concepts** *(from schema-construction-problem-focused-analysis-2026-03-22.md)*:
-[[Assimilation-vs.-Accommodation|Assimilation-vs.-Accommodation]] * [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema-Construction-Problem-—-Original-Analytical-Insight]] * [[Analogical-Reasoning|Analogical-Reasoning]] * [[Schema-Progressive-Architecture|Schema-Progressive-Architecture]] * [[Advance-Organizer|Advance-Organizer]] * [[The-Schema-Progressive-Architecture-for-PKB-Design|The-Schema-Progressive-Architecture-for-PKB-Design]] * [[Advance-Organizers|Advance-Organizers]] * [[Structural-Mapping-Theory|Structural-Mapping-Theory]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Scaffolding-—-Instructional-Design|Scaffolding-—-Instructional-Design]] * [[Scaffolding-Instructional-Design|Scaffolding-Instructional-Design]] * [[Assimilation,-Accommodation,-and-Equilibration|Assimilation,-Accommodation,-and-Equilibration]] * [[schema-theory-and-learning-foundational-report-2026-03-06|schema-theory-and-learning-foundational-report-2026-03-06]] * [[advance-organizers-prior-knowledge-foundational-report-2026-03-11|advance-organizers-prior-knowledge-foundational-report-2026-03-11]] * [[Schema-Automation-and-Fluency-Development|Schema-Automation-and-Fluency-Development]]
-
-**Cross-report connections** *(from schema-construction-problem-focused-analysis-2026-03-22.md)*:
-- [[Scaffolding|Scaffolding]]
-
-**Cross-report connections** *(from schema-construction-problem-focused-analysis-2026-03-22.md)*:
-- [[Thomas-Kuhn|Thomas-Kuhn]]
-
-
-
-
 ## References
 
 - **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational empirical work demonstrating schema-guided reconstruction in memory. Bartlett's serial reproduction paradigm remains the clearest experimental evidence for schemas operating — and is, as this report argues, silent on how those schemas were formed. Essential for Phase III.
@@ -296,21 +244,6 @@ importance: high
 - **Chase, W.G., & Simon, H.A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81.**: The chess chunk studies providing the clearest evidence for schema construction through expertise development. The 50,000 chunks estimate and the 10-year rule are central to Phase III.
 - **Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170.**: The foundational paper on Structural Mapping Theory, providing the theoretical framework for the analogy-as-scaffolding mechanism analyzed in Phase IV. The core of the Analogy-First Instructional Principle.
 - **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.**: Piaget's developmental account of schema construction through sensorimotor interaction. The stage transition evidence is central to Phase III's claim that schema construction has a discontinuous character. The equilibration mechanism is the developmental precursor to the crystallization event model.
-
-- **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational empirical work demonstrating schema-guided reconstruction in memory. Bartlett's serial reproduction paradigm remains the clearest experimental evidence for schemas operating — and is, as this report argues, silent on how those schemas were formed. Essential for Phase III.
-
-- **Bransford, J.D., & Johnson, M.K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The "schema timing" paradigm demonstrating that schemas must be active *during* comprehension to be effective. The post-context condition evidence directly motivates the Schema-Timing Paradox in Phase III.
-
-- **Chase, W.G., & Simon, H.A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81.**: The chess chunk studies providing the clearest evidence for schema construction through expertise development. The 50,000 chunks estimate and the 10-year rule are central to Phase III.
-
-- **Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170.**: The foundational paper on Structural Mapping Theory, providing the theoretical framework for the analogy-as-scaffolding mechanism analyzed in Phase IV. The core of the Analogy-First Instructional Principle.
-
-- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.**: Piaget's developmental account of schema construction through sensorimotor interaction. The stage transition evidence is central to Phase III's claim that schema construction has a discontinuous character. The equilibration mechanism is the developmental precursor to the crystallization event model.
-
-
-
-
-
 
 ## Methodology Notes
 

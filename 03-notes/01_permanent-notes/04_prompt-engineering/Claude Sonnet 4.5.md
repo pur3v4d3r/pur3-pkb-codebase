@@ -19,8 +19,8 @@ link-related:
   - "[[Prompt Component Librarian]]"
   - "[[Prompt Architect]]"
   - "[[Reinforcement Learning From Human Feedback]]"
-  - "[[Transformer Architecture]]"
-  - "[[Constitutional Ai]]"
+  - "[[Transformer-Architecture]]"
+  - "[[Constitutional-AI]]"
   - "[[Gemini]]"
 maturity: seedling
 confidence: speculative

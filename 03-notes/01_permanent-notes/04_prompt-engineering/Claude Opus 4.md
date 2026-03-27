@@ -14,7 +14,7 @@ link-related:
   - "[[Claude Project]]"
   - "[[Claude Sonnet 4.5]]"
   - "[[Anthropic]]"
-  - "[[Constitutional Ai]]"
+  - "[[Constitutional-AI]]"
   - "[[Generative Ai]]"
   - "[[Gemini]]"
   - "[[Instruction Following]]"
@@ -24,7 +24,7 @@ link-related:
   - "[[Prompt Component Librarian]]"
   - "[[Prompt-Engineering]]"
   - "[[Reinforcement Learning From Human Feedback]]"
-  - "[[Transformer Architecture]]"
+  - "[[Transformer-Architecture]]"
 maturity: seedling
 confidence: speculative
 status: active

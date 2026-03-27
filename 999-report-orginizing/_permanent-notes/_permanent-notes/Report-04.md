@@ -24,29 +24,27 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 7
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Assimilation,-Accommodation,-and-Equilibration]]"
   - "[[Constructive-Attentiveness]]"
   - "[[Dewey's-Continuity-and-Interaction-Principles]]"
-  - "[[Expertise-Reversal-Effect]]"
   - "[[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]"
   - "[[Scaffolding]]"
-  - "[[Schema]]"
   - "[[Working-Memory-and-Long-Term-Memory-in-CLT]]"
-  - "[[Zone-of-Proximal-Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,18 +57,16 @@ importance: low
 # Report-04
 
 > [!definition] **Report-04**
-> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 7 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Assimilation,-Accommodation,-and-Equilibration]]
 - [[Constructive-Attentiveness]]
 - [[Dewey's-Continuity-and-Interaction-Principles]]
-- [[Expertise-Reversal-Effect]]
 - [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
 - [[Scaffolding]]
-- [[Schema]]
 - [[Working-Memory-and-Long-Term-Memory-in-CLT]]
-- [[Zone-of-Proximal-Development]]

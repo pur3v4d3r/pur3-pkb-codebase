@@ -136,7 +136,7 @@ extraction_summary:
 - [[Case-Based Reasoning]]
 - [[Clarification Questions]]
 - [[Cognitive-Biases|Cognitive Biases]]
-- [[Cognitive Dissonance]]
+- [[cognitive-dissonance|Cognitive Dissonance]]
 - [[Conceptual Analysis]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Continental Philosophy]]
@@ -276,7 +276,7 @@ extraction_summary:
 | 50 | [[The Meno Paradox]] | — | — | Topic 3 | 177 |
 | 51 | [[Innate Ideas]] | — | — | Topic 3 | 178 |
 | 52 | [[Facilitative Teaching]] | — | — | Topic 3 | 179 |
-| 53 | [[Cognitive Dissonance]] | — | — | Topic 3 | 180 |
+| 53 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | Topic 3 | 180 |
 | 54 | [[Socratic-Ignorance|Socratic Ignorance]] | — | — | Topic 3 | 181 |
 | 55 | [[Student-Centered Learning]] | — | — | Topic 3 | 182 |
 | 56 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Topic 3 | 183 |
@@ -379,7 +379,7 @@ extraction_summary:
 - [[Case-Based Reasoning]]
 - [[Clarification Questions]]
 - [[Cognitive-Biases|Cognitive Biases]]
-- [[Cognitive Dissonance]]
+- [[cognitive-dissonance|Cognitive Dissonance]]
 - [[Conceptual Analysis]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Continental Philosophy]]

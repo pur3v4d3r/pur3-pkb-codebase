@@ -214,7 +214,7 @@ extraction_summary:
 - [[Black Box]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Carl-Rogers|Carl Rogers]]
-- [[Cognitive Dissonance]]
+- [[cognitive-dissonance|Cognitive Dissonance]]
 - [[Cognitive Learning]]
 - [[Cognitive Learning Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -340,7 +340,7 @@ extraction_summary:
 | 54 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Connection to [[Experiential Learning... | 173 |
 | 55 | [[Zettelkasten]] | — | — | 🎓 Implications for Self-Directed Cogn... | 190 |
 | 56 | [[Aha Moments]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
-| 57 | [[Cognitive Dissonance]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
+| 57 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
 | 58 | [[Metacognitive Reflection]] | — | — | 🎓 Implications for Self-Directed Cogn... | 197 |
 | 59 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🎓 Implications for Self-Directed Cogn... | 203 |
 | 60 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 🎓 Implications for Self-Directed Cogn... | 207 |
@@ -465,7 +465,7 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Black Box]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Carl-Rogers|Carl Rogers]]
-- [[Cognitive Dissonance]]
+- [[cognitive-dissonance|Cognitive Dissonance]]
 - [[Cognitive Learning]]
 - [[Cognitive Learning Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

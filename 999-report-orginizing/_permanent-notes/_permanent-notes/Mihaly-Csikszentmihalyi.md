@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,8 +37,8 @@ referenced-by-count: 20
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Apt-Epistemic-Performance]]"
-  - "[[Cognitive-Vitality]]"
   - "[[Concurrent-Expression]]"
   - "[[Epistemic-Character]]"
   - "[[Epistemic-Character-as-Concurrent-Expression]]"
@@ -65,8 +65,8 @@ importance: high
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Apt-Epistemic-Performance]]
-- [[Cognitive-Vitality]]
 - [[Concurrent-Expression]]
 - [[Epistemic-Character]]
 - [[Epistemic-Character-as-Concurrent-Expression]]

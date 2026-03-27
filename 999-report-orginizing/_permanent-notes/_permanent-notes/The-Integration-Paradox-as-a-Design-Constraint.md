@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,9 +41,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "self-determination-theory-focused-analysis-2026-03-19"
-  - "self-determination-theory-focused-analysis-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -55,16 +56,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Self-Determination-Theory]]"
@@ -75,23 +76,15 @@ see-also:
   - "[[Integrated-Regulation]]"
   - "[[Intrinsic-Motivation]]"
   - "[[Basic-Psychological-Needs]]"
-  - "[[Self-Determination-Theory|Self-Determination-Theory]]"
-  - "[[Amotivation|Amotivation]]"
-  - "[[External-Regulation|External-Regulation]]"
-  - "[[Introjected-Regulation|Introjected-Regulation]]"
-  - "[[Identified-Regulation|Identified-Regulation]]"
-  - "[[Integrated-Regulation|Integrated-Regulation]]"
-  - "[[Intrinsic-Motivation|Intrinsic-Motivation]]"
-  - "[[Basic-Psychological-Needs|Basic-Psychological-Needs]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Relationship-Motivation-Theory-RMT-extends-the-SDT-internalization-a|> [!topic-idea] [[Relationship-Motivation-Theory]]
@@ -169,20 +162,6 @@ importance: high
 **Related concepts:**
 [[Self-Determination-Theory]] · [[Amotivation]] · [[External-Regulation]] · [[Introjected-Regulation]] · [[Identified-Regulation]] · [[Integrated-Regulation]] · [[Intrinsic-Motivation]] · [[Basic-Psychological-Needs]] · [[Internalization]] · [[Organismic-Integration-Theory]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Basic-Psychological-Needs]] · [[Self-Determination-Theory]] · [[SDT's-Regulatory-Continuum]]
 
-**Related concepts** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
-[[Perceived-Internal-Locus-of-Causality|Perceived-Internal-Locus-of-Causality]] * [[Self-Determination|Self-Determination]] * [[Self-Esteem|Self-Esteem]] * [[Autonomous-Motivation-vs.-Controlled-Motivation|Autonomous-Motivation-vs.-Controlled-Motivation]] * [[Autonomous-Motivation|Autonomous-Motivation]] * [[Controlled-Motivation|Controlled-Motivation]] * [[Autonomy-Need|Autonomy-Need]] * [[Competence-Need|Competence-Need]] * [[Relatedness-Need|Relatedness-Need]] * [[Contingent-Self-Worth|Contingent-Self-Worth]] * [[Ego-Involvement|Ego-Involvement]] * [[Conditional-Positive-Regard|Conditional-Positive-Regard]] * [[Need-Frustration|Need-Frustration]] * [[Undermining-Effect|Undermining-Effect]] * [[Overjustification-Effect|Overjustification-Effect]]
-
-**Cross-report connections** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
-- [[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
-- [[Habit-Formation|Habit-Formation]]
-- [[Identity-Based-Habits|Identity-Based-Habits]]
-
-**Cross-report connections** *(from self-determination-theory-focused-analysis-2026-03-19.md)*:
-- [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]]
-
-
-
-
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
@@ -190,21 +169,6 @@ importance: high
 - **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
 - **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
 - **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
-
-- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
-
-- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
-
-- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
-
-
-
-
-
 
 ## Methodology Notes
 

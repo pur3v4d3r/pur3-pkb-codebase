@@ -174,7 +174,7 @@ review-priority: medium
 > - Note Type: Technical reference with code examples
 > **Structural Planning:**
 > - Main sections: Problem analysis, Solution approaches, Complete implementations, Usage guide, Troubleshooting
-> - Wiki-Link Opportunities: [[Dataview]], [[DataviewJS]], [[Inline Fields]], [[Metadata]], [[YAML-Frontmatter]], [[Regex]], [[JavaScript]]
+> - Wiki-Link Opportunities: [[Dataview]], [[DataviewJS]], [[Inline-Fields]], [[Metadata]], [[YAML-Frontmatter]], [[Regex]], [[JavaScript]]
 > - Callout Strategy: Use methodology, example, code blocks, warnings, and tips
 > - Metadata: Tags for technical guide, Dataview, Obsidian automation
 > **Key Technical Considerations:**

@@ -207,7 +207,7 @@ Central hub for all Dataview-related documentation in this vault.
 
 ## 📚 Commands
 - [[FLATTEN]]
-- [[GROUP BY]]
+- [[GROUP-BY]]
 - [[WHERE]]
 - [[FROM]]
 - [[TABLE]]
@@ -309,7 +309,7 @@ WHERE contains(rows.L.children.dataCommands, this.file.link)
 
 - Query meta
   - QueryType:: [[DQL]]
-  - dataCommands:: [[TABLE]], [[WHERE]], [[FLATTEN]], [[GROUP BY]]
+  - dataCommands:: [[TABLE]], [[WHERE]], [[FLATTEN]], [[GROUP-BY]]
   - functions:: [[filter]], [[flat]], [[contains]], [[embed]]
   - tags:: 
   - image:: 
@@ -432,7 +432,7 @@ status:: `$= const value = Math.round(((dv.page(dv.current().file.name).file.tas
 # FLATTEN
 
 > [!definition]
-> **FLATTEN** is a Dataview data command that splits multi-value fields into separate rows. It's the opposite of [[GROUP BY]]—instead of combining rows, it expands them. Each value in an array becomes its own result row, with all other field data duplicated.
+> **FLATTEN** is a Dataview data command that splits multi-value fields into separate rows. It's the opposite of [[GROUP-BY]]—instead of combining rows, it expands them. Each value in an array becomes its own result row, with all other field data duplicated.
 
 - docs:: [FLATTEN Command Documentation](https://blacksmithgu.github.io/obsidian-dataview/queries/data-commands/#flatten)
 
@@ -513,7 +513,7 @@ WHERE contains(rows.L.children.dataCommands, this.file.link)
 
 - Query meta
   - QueryType:: [[DQL]]
-  - dataCommands:: [[TABLE]], [[WHERE]], [[FLATTEN]], [[GROUP BY]]
+  - dataCommands:: [[TABLE]], [[WHERE]], [[FLATTEN]], [[GROUP-BY]]
   - functions:: [[filter]], [[flat]], [[contains]], [[embed]]
   - tags:: #dataview #query-patterns #self-referential
   - image:: 
@@ -603,7 +603,7 @@ SORT progress DESC
 > Flattening `nested` won't expand the object properties.
 
 ## Related Concepts
-- [[GROUP BY]] - The opposite operation (combining rows)
+- [[GROUP-BY]] - The opposite operation (combining rows)
 - [[WHERE]] - Often used after FLATTEN for filtering
 - [[file.lists]] - Common field to flatten
 - [[file.tasks]] - Common field to flatten for task queries
@@ -679,7 +679,7 @@ SORT "Count" DESC
 
 - Query meta
   - QueryType:: [[DQL]]
-  - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[GROUP BY]], [[SORT]]
+  - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[GROUP-BY]], [[SORT]]
   - functions:: [[length]]
   - tags:: #books #library-management #genre-analysis
   - image:: 
@@ -793,7 +793,7 @@ The query should now display something like:
 
 | Sections | Metadata | Image |
 |----------|----------|-------|
-| Query 1: Books by Genre with Counts | QueryType:: [[DQL]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[GROUP BY]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[length]] | |
+| Query 1: Books by Genre with Counts | QueryType:: [[DQL]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[GROUP-BY]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[length]] | |
 | Query 2: Reading Progress Dashboard | QueryType:: [[DQL]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[where]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[round]] | |
 
 > [!attention]
@@ -885,7 +885,7 @@ Now update `Book Library Queries.md` to reference GROUP BY:
 ```markdown
 - Query meta
   - QueryType:: [[DQL]]
-  - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[GROUP BY]], [[SORT]]
+  - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[GROUP-BY]], [[SORT]]
   - functions:: [[length]]
 ```
 

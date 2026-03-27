@@ -23,66 +23,55 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 21
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Active-Inference]]"
-  - "[[Affect-as-Information-Theory]]"
-  - "[[Affective-Realism]]"
-  - "[[Appraisal-Theory]]"
   - "[[Controlled-Hallucination]]"
-  - "[[Core-Affect]]"
-  - "[[Emotional-Calibration]]"
-  - "[[Emotional-Granularity]]"
-  - "[[Emotional-Granularity-as-Epistemic-Precision]]"
-  - "[[Eupatheia]]"
+  - "[[Free-Energy-Principle]]"
+  - "[[Generative-Model]]"
+  - "[[Phenomenal-Self-Model]]"
+  - "[[Precision-Flexibility]]"
+  - "[[Precision-Weighting]]"
+  - "[[Prediction-Error]]"
+  - "[[Predictive-Processing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Lisa-Feldman-Barrett
 
 > [!definition] **Lisa-Feldman-Barrett**
-> *Stub note — concept referenced by 21 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 21 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Active-Inference]]
-- [[Affect-as-Information-Theory]]
-- [[Affective-Realism]]
-- [[Appraisal-Theory]]
 - [[Controlled-Hallucination]]
-- [[Core-Affect]]
-- [[Emotional-Calibration]]
-- [[Emotional-Granularity]]
-- [[Emotional-Granularity-as-Epistemic-Precision]]
-- [[Eupatheia]]
 - [[Free-Energy-Principle]]
 - [[Generative-Model]]
-- [[Path]]
-- [[Path-and-Eupatheia-The-Stoic-Distinction]]
 - [[Phenomenal-Self-Model]]
 - [[Precision-Flexibility]]
 - [[Precision-Weighting]]
 - [[Prediction-Error]]
 - [[Predictive-Processing]]
-- [[Somatic-Marker-Hypothesis]]
-- *...and 1 more permanent notes*

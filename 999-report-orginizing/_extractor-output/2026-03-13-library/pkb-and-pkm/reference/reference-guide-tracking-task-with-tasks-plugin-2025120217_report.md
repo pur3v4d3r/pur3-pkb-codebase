@@ -290,7 +290,7 @@ extraction_summary:
 > - [[GTD (Getting Things Done)]]
 > - [[Project Management in Obsidian]]
 > - [[Dashboard-Design|Dashboard Design]]
-> - [[Inline Fields]]
+> - [[Inline-Fields|Inline Fields]]
 > - [[JavaScript in Dataview]]
 > - [[Task Prioritization]]
 > - [[Date Management]]
@@ -932,7 +932,7 @@ extraction_summary:
 - [[Day-Planner|Day Planner]]
 - [[GTD (Getting Things Done)]]
 - [[GTD (Getting Things Done) Implementation in Obsidian]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[JavaScript in Dataview]]
 - [[Metadata-Driven Workflows]]
 - [[Metadata-Driven Workflows in PKM]]
@@ -965,7 +965,7 @@ extraction_summary:
 | 11 | [[GTD (Getting Things Done)]] | — | — | Review System | 221 |
 | 12 | [[Project Management in Obsidian]] | — | — | Review System | 222 |
 | 13 | [[Dashboard-Design|Dashboard Design]] | — | — | Review System | 223 |
-| 14 | [[Inline Fields]] | — | — | Review System | 224 |
+| 14 | [[Inline-Fields|Inline Fields]] | — | — | Review System | 224 |
 | 15 | [[JavaScript in Dataview]] | — | — | Review System | 225 |
 | 16 | [[Task Prioritization]] | — | — | Review System | 226 |
 | 17 | [[Date Management]] | — | — | Review System | 227 |
@@ -1603,7 +1603,7 @@ WHERE due < date(today)
 - [[Day-Planner|Day Planner]]
 - [[GTD (Getting Things Done)]]
 - [[GTD (Getting Things Done) Implementation in Obsidian]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[JavaScript in Dataview]]
 - [[Metadata-Driven Workflows]]
 - [[Metadata-Driven Workflows in PKM]]

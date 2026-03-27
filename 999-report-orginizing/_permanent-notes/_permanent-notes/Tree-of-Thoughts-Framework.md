@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "prompt-report-chain-of-thought-logic-2025122305"
-  - "prompt-report-chain-of-thought-logic-2025122305.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Chanin-Of-Thought|**Chanin Of Thought**]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Tree-of-Thoughts|Tree of Thoughts]]"
   - "[[Logical-Reasoning|Logical Reasoning]]"
   - "[[Working-Memory|Working Memory]]"
-  - "[[**Chanin-Of-Thought**|**Chanin Of Thought**]]"
-  - "[[Transformer-Architecture|Transformer Architecture]]"
-  - "[[Few-Shot-Learning|Few-Shot Learning]]"
-  - "[[Emergent-Abilities|Emergent Abilities]]"
-  - "[[Self-Consistency|Self-Consistency]]"
-  - "[[Tree-of-Thoughts|Tree of Thoughts]]"
-  - "[[Logical-Reasoning|Logical Reasoning]]"
-  - "[[Working-Memory|Working Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -153,18 +144,6 @@ importance: medium
 
 **Related concepts:**
 [[Chanin-Of-Thought|**Chanin Of Thought**]] · [[Transformer-Architecture|Transformer Architecture]] · [[Few-Shot-Learning|Few-Shot Learning]] · [[Emergent-Abilities|Emergent Abilities]] · [[Self-Consistency]] · [[Tree-of-Thoughts|Tree of Thoughts]] · [[Logical-Reasoning|Logical Reasoning]] · [[Working-Memory|Working Memory]] · [[Jason-Wei|Jason Wei]] · [[Google-Research|Google Research]] · [[Transformer-Architecture|Transformer Architecture]] · [[Working-Memory|Working Memory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Few-Shot-Learning|Few-Shot Learning]] · [[GPT-3]]
-
-**Related concepts** *(from prompt-report-chain-of-thought-logic-2025122305.md)*:
-[[**Chanin-Of-Thought**|**Chanin Of Thought**]] * [[Transformer-Architecture|Transformer Architecture]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Emergent-Abilities|Emergent Abilities]] * [[Tree-of-Thoughts|Tree of Thoughts]] * [[Logical-Reasoning|Logical Reasoning]] * [[Working-Memory|Working Memory]] * [[Jason-Wei|Jason Wei]] * [[Google-Research|Google Research]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]] * [[Large-Language-Models|Large Language Models]] * [[Symbolic-Logic|Symbolic Logic]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Wei-et-al.-(2022)|Wei et al. (2022)]]
-
-**Cross-report connections** *(from prompt-report-chain-of-thought-logic-2025122305.md)*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attention-Mechanism|Attention Mechanism]]
-- [[Circuit-Complexity-Theory|Circuit Complexity Theory]]
-- [[Mechanistic-Interpretability|Mechanistic Interpretability]]
-- [[Prompt-Engineering|Prompt Engineering]]
-
-
 
 ## References
 

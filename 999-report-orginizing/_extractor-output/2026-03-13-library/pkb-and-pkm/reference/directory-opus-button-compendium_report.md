@@ -201,7 +201,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Overview *(Line 18)*
 
 > [!abstract] Overview
-> This compendium provides **50+ production-ready buttons** for [[Directory Opus]], organized by functional category. Each button includes complete [[XML]] code, functional explanation, and customization notes. These buttons transform common multi-step operations into single-click actions, dramatically improving [[file management]] workflow efficiency.
+> This compendium provides **50+ production-ready buttons** for [[Directory-Opus|Directory Opus]], organized by functional category. Each button includes complete [[XML]] code, functional explanation, and customization notes. These buttons transform common multi-step operations into single-click actions, dramatically improving [[file-management|file management]] workflow efficiency.
 
 #### 2. [WHAT-THIS-DOES] Function *(Line 27)*
 
@@ -271,7 +271,7 @@ extraction_summary:
 #### 15. [WHAT-THIS-DOES] Function *(Line 278)*
 
 > [!what-this-does] Function
-> Converts spaces to underscores in filenames --- essential for [[command line]] compatibility and [[URL]]-safe naming.
+> Converts spaces to underscores in filenames --- essential for [[command-line|command line]] compatibility and [[URL]]-safe naming.
 
 #### 16. [WHAT-THIS-DOES] Function *(Line 297)*
 
@@ -406,7 +406,7 @@ extraction_summary:
 #### 42. [WHAT-THIS-DOES] Function *(Line 799)*
 
 > [!what-this-does] Function
-> Opens [[Command Prompt]] in the current directory.
+> Opens [[Command-Prompt|Command Prompt]] in the current directory.
 
 #### 43. [WHAT-THIS-DOES] Function *(Line 818)*
 
@@ -416,12 +416,12 @@ extraction_summary:
 #### 44. [WHAT-THIS-DOES] Function *(Line 837)*
 
 > [!what-this-does] Function
-> Opens [[Windows Terminal]] in the current directory.
+> Opens [[Windows-Terminal|Windows Terminal]] in the current directory.
 
 #### 45. [WHAT-THIS-DOES] Function *(Line 856)*
 
 > [!what-this-does] Function
-> Opens selected file(s) or folder in [[Visual Studio Code]].
+> Opens selected file(s) or folder in [[Visual-Studio-Code|Visual Studio Code]].
 
 #### 46. [HELPFUL-TIP] Path Customization *(Line 871)*
 
@@ -627,8 +627,8 @@ extraction_summary:
 - [[Basic Programming Logic]]
 - [[Beyond Compare]]
 - [[CLI Tool Proficiency]]
-- [[Command Prompt]]
-- [[Directory Opus]]
+- [[Command-Prompt|Command Prompt]]
+- [[Directory-Opus|Directory Opus]]
 - [[Directory Opus Button Basics]]
 - [[Directory Opus Evaluator Functions]]
 - [[Directory Opus Rename Scripts]]
@@ -653,16 +653,16 @@ extraction_summary:
 - [[SHA-256]]
 - [[URL]]
 - [[VBScript]]
-- [[Visual Studio Code]]
+- [[Visual-Studio-Code|Visual Studio Code]]
 - [[WinMerge]]
 - [[Windows Command Line Basics]]
 - [[Windows Shell Integration]]
-- [[Windows Terminal]]
+- [[Windows-Terminal|Windows Terminal]]
 - [[XML]]
 - [[ZIP]]
-- [[command line]]
+- [[command-line|command line]]
 - [[context menu]]
-- [[file management]]
+- [[file-management|file management]]
 - [[file taxonomy]]
 - [[regex]]
 - [[registry]]
@@ -671,21 +671,21 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Directory Opus]] | — | — | Quality of Life Upgrade Collection | 19 |
+| 1 | [[Directory-Opus|Directory Opus]] | — | — | Quality of Life Upgrade Collection | 19 |
 | 2 | [[XML]] | — | — | Quality of Life Upgrade Collection | 19 |
-| 3 | [[file management]] | — | — | Quality of Life Upgrade Collection | 19 |
+| 3 | [[file-management|file management]] | — | — | Quality of Life Upgrade Collection | 19 |
 | 4 | [[Markdown]] | — | — | Copy as URI Path | 182 |
-| 5 | [[command line]] | — | — | Replace Spaces with Underscores | 279 |
+| 5 | [[command-line|command line]] | — | — | Replace Spaces with Underscores | 279 |
 | 6 | [[URL]] | — | — | Replace Spaces with Underscores | 279 |
 | 7 | [[ZIP]] | — | — | Create ZIP (Same Location) | 568 |
 | 8 | [[7-Zip]] | — | — | Create 7z Archive | 663 |
 | 9 | [[EXIF]] | — | — | Rotate Image 90° Clockwise | 684 |
 | 10 | [[PNG]] | — | — | Convert to PNG | 741 |
 | 11 | [[JPEG]] | — | — | Convert to JPG | 760 |
-| 12 | [[Command Prompt]] | — | — | Open Command Prompt Here | 800 |
+| 12 | [[Command-Prompt|Command Prompt]] | — | — | Open Command Prompt Here | 800 |
 | 13 | [[PowerShell]] | — | — | Open PowerShell Here | 819 |
-| 14 | [[Windows Terminal]] | — | — | Open Windows Terminal Here | 838 |
-| 15 | [[Visual Studio Code]] | — | — | Open in VS Code | 857 |
+| 14 | [[Windows-Terminal|Windows Terminal]] | — | — | Open Windows Terminal Here | 838 |
+| 15 | [[Visual-Studio-Code|Visual Studio Code]] | — | — | Open in VS Code | 857 |
 | 16 | [[Obsidian]] | — | — | Go to Obsidian Vault | 1020 |
 | 17 | [[WinMerge]] | — | — | Compare Files (Side by Side) | 1269 |
 | 18 | [[Beyond Compare]] | — | — | Compare Files (Side by Side) | 1269 |
@@ -744,7 +744,7 @@ extraction_summary:
 ## Quality of Life Upgrade Collection
 
 > [!abstract] Overview
-> This compendium provides **50+ production-ready buttons** for [[Directory Opus]], organized by functional category. Each button includes complete [[XML]] code, functional explanation, and customization notes. These buttons transform common multi-step operations into single-click actions, dramatically improving [[file management]] workflow efficiency.
+> This compendium provides **50+ production-ready buttons** for [[Directory-Opus|Directory Opus]], organized by functional category. Each button includes complete [[XML]] code, functional explanation, and customization notes. These buttons transform common multi-step operations into single-click actions, dramatically improving [[file-management|file management]] workflow efficiency.
 
 - --
 
@@ -898,7 +898,7 @@ extraction_summary:
 ### Replace Spaces with Underscores
 
 > [!what-this-does] Function
-> Converts spaces to underscores in filenames --- essential for [[command line]] compatibility and [[URL]]-safe naming.
+> Converts spaces to underscores in filenames --- essential for [[command-line|command line]] compatibility and [[URL]]-safe naming.
 ```
 
 ### Code Block 15 — `plaintext` *(Lines 291-300)*
@@ -1203,7 +1203,7 @@ extraction_summary:
 ### Open Command Prompt Here
 
 > [!what-this-does] Function
-> Opens [[Command Prompt]] in the current directory.
+> Opens [[Command-Prompt|Command Prompt]] in the current directory.
 ```
 
 ### Code Block 42 — `plaintext` *(Lines 812-821)*
@@ -1225,7 +1225,7 @@ extraction_summary:
 ### Open Windows Terminal Here
 
 > [!what-this-does] Function
-> Opens [[Windows Terminal]] in the current directory.
+> Opens [[Windows-Terminal|Windows Terminal]] in the current directory.
 ```
 
 ### Code Block 44 — `plaintext` *(Lines 850-859)*
@@ -1236,7 +1236,7 @@ extraction_summary:
 ### Open in VS Code
 
 > [!what-this-does] Function
-> Opens selected file(s) or folder in [[Visual Studio Code]].
+> Opens selected file(s) or folder in [[Visual-Studio-Code|Visual Studio Code]].
 ```
 
 ### Code Block 45 — `plaintext` *(Lines 869-881)*
@@ -1655,8 +1655,8 @@ extraction_summary:
 - [[Basic Programming Logic]]
 - [[Beyond Compare]]
 - [[CLI Tool Proficiency]]
-- [[Command Prompt]]
-- [[Directory Opus]]
+- [[Command-Prompt|Command Prompt]]
+- [[Directory-Opus|Directory Opus]]
 - [[Directory Opus Button Basics]]
 - [[Directory Opus Evaluator Functions]]
 - [[Directory Opus Rename Scripts]]
@@ -1681,16 +1681,16 @@ extraction_summary:
 - [[SHA-256]]
 - [[URL]]
 - [[VBScript]]
-- [[Visual Studio Code]]
+- [[Visual-Studio-Code|Visual Studio Code]]
 - [[WinMerge]]
 - [[Windows Command Line Basics]]
 - [[Windows Shell Integration]]
-- [[Windows Terminal]]
+- [[Windows-Terminal|Windows Terminal]]
 - [[XML]]
 - [[ZIP]]
-- [[command line]]
+- [[command-line|command line]]
 - [[context menu]]
-- [[file management]]
+- [[file-management|file management]]
 - [[file taxonomy]]
 - [[regex]]
 - [[registry]]

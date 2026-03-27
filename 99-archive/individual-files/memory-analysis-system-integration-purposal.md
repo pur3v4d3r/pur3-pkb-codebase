@@ -123,7 +123,7 @@ The architecture recognizes three critical constraints of current [[LLM]] system
 
 | Technique | Implementation | Execution Quality |
 |-----------|----------------|-------------------|
-| [[Constitutional AI]] | Performance standards with explicit rewards/penalties | Strong (8/10) |
+| [[Constitutional-AI]] | Performance standards with explicit rewards/penalties | Strong (8/10) |
 | [[Self-Consistency]] | Checksum-based memory validation | Moderate (7/10) |
 | [[Chain-of-Thought]] | Task log format requiring step documentation | Strong (8/10) |
 | [[ReAct Framework]] | Event-driven handlers (TaskStart, ErrorDetected, TaskComplete) | Strong (8/10) |

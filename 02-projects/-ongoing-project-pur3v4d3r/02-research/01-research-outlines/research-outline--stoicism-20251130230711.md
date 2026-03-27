@@ -100,7 +100,7 @@ aliases: [Stoicism Research Plan, Applied Stoic Philosophy Study, Stoic Epistemo
 # 🎯 Research Plan: Stoicism as Epistemic & Metacognitive Operating System
 
 > [!abstract] Research Plan Overview
-> **Domain**: [[Stoic-Philosophy]], [[Practical Ethics]], [[Metacognition]], [[Epistemology]], [[Behavior Change]]
+> **Domain**: [[Stoic-Philosophy]], [[Practical Ethics]], [[Metacognition]], [[epistemology]], [[Behavior Change]]
 > **Scope**: Comprehensive study of Stoic philosophy from historical foundations through contemporary applications, with explicit integration into metacognitive frameworks, epistemic accountability practices, and lifelong learning identity development
 > **Duration**: 10-14 weeks (adaptable based on depth preferences)
 > **Learning Objective**: Develop operational mastery of Stoic principles sufficient to systematically modify behavior, strengthen epistemic practices, and cultivate metacognitive regulation—culminating in a coherent philosophical foundation for professional-level knowledge seeking
@@ -162,7 +162,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Zeno of Citium]], [[Cleanthes]], [[Chrysippus]], [[Seneca]], [[Epictetus]], [[Marcus-Aurelius]], [[Hellenistic Philosophy]], [[The Stoa]], [[Cynicism]], [[Socratic Philosophy]]
 - Recommended tags: #stoicism #philosophy-history #hellenistic-period #roman-philosophy
-- Connection points: Link to existing [[Epistemology]] notes; create foundation for later [[Virtue-Ethics]] exploration
+- Connection points: Link to existing [[epistemology]] notes; create foundation for later [[Virtue-Ethics]] exploration
 
 **Prerequisites**: General familiarity with ancient Greek philosophy (Socrates, Plato, Aristotle) is helpful but not required
 
@@ -189,7 +189,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Logos]], [[Stoic Physics]], [[Stoic Logic]], [[Stoic-Ethics]], [[Pneuma]], [[Living According to Nature]], [[Cosmic Determinism]], [[Providence (Stoic)]]
 - Recommended tags: #stoicism #metaphysics #systematic-philosophy #logos #first-principles
-- Connection points: Strong bridge to [[Epistemology]] through Stoic logic; connect to [[Systems Thinking]] principles
+- Connection points: Strong bridge to [[epistemology]] through Stoic logic; connect to [[Systems Thinking]] principles
 
 **Prerequisites**: Topic 1 (historical context)
 
@@ -243,7 +243,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Virtue-Ethics]], [[Cardinal Virtues]], [[Wisdom (Sophia/Phronesis)]], [[Courage (Andreia)]], [[Justice (Dikaiosyne)]], [[Temperance (Sophrosyne)]], [[Preferred Indifferents]], [[Dispreferred Indifferents]], [[Arete]], [[Eudaimonia]]
 - Recommended tags: #stoicism #virtue-ethics #moral-philosophy #ethical-framework
-- Connection points: Connect to [[Epistemology]] through wisdom as intellectual virtue; bridge to [[Moral Development]] literature
+- Connection points: Connect to [[epistemology]] through wisdom as intellectual virtue; bridge to [[Moral Development]] literature
 
 **Prerequisites**: Topics 1-3 (especially Stoic physics grounding virtue claims)
 
@@ -324,7 +324,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Phantasia (Impression)]], [[Synkatathesis (Assent)]], [[Katalepsis (Comprehension)]], [[Epistemic-Virtue]], [[Intellectual-Humility]], [[Epoche]], [[Dogmatism vs Skepticism]], [[Belief-Revision]]
 - Recommended tags: #stoicism #epistemology #epistemic-virtue #belief-formation #intellectual-humility
-- Connection points: Direct bridge to your [[Epistemology]] MOC; connect to [[Metacognition]] through monitoring of belief states
+- Connection points: Direct bridge to your [[epistemology]] MOC; connect to [[Metacognition]] through monitoring of belief states
 
 **Prerequisites**: Topics 1-4 (especially Stoic logic from Topic 2)
 

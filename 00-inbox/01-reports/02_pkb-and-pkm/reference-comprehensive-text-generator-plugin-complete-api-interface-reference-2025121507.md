@@ -449,7 +449,7 @@ The TGP approach transforms this into:
 ### Context Window Management
 
 > [!definition] Context Window
-> [**Context-Window**:: The maximum amount of text (measured in [[Tokens]]) that a language model can process in a single request. For [[Claude 3.5 Sonnet]], this is 200,000 tokens. Effective use of TGP requires understanding how to manage context window usage for both quality and cost optimization.]
+> [**Context-Window**:: The maximum amount of text (measured in [[Tokens]]) that a language model can process in a single request. For [[Claude-3.5-Sonnet]], this is 200,000 tokens. Effective use of TGP requires understanding how to manage context window usage for both quality and cost optimization.]
 
 TGP interacts with your context through several mechanisms:
 
@@ -1122,7 +1122,7 @@ promptTemplate: |
 ### Understanding Smart Connections
 
 > [!definition] Smart Connections
-> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search]] using [[AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
+> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search]] using [[AI-Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
 
 Smart Connections transforms your vault into a semantically queryable knowledge base. When combined with TGP, you gain the ability to:
 

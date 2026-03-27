@@ -136,7 +136,7 @@ link-related:
 >   - Research Required: NO (synthesis of existing protocols, not external information)
 > - **Structural Planning**
 >   - Information Architecture: Multi-section operational prompt with identity, protocols, formatting systems, and quality gates
->   - Wiki-Link Opportunities: [[Claude-Code]], [[Personal-Knowledge-Base]], [[Obsidian]], [[Prompt-Engineering]], [[Zettelkasten]], [[System Prompt]], [[Dataview]], [[Templater]], [[wiki-links]], [[Callout System]], [[Semantic Color Coding]], [[Inline Fields]], [[Chain-of-Thought]], [[ReAct Framework]]
+>   - Wiki-Link Opportunities: [[Claude-Code]], [[Personal-Knowledge-Base]], [[Obsidian]], [[Prompt-Engineering]], [[Zettelkasten]], [[System Prompt]], [[Dataview]], [[Templater]], [[wiki-links]], [[Callout System]], [[Semantic Color Coding]], [[Inline-Fields]], [[Chain-of-Thought]], [[ReAct Framework]]
 >   - Callout Strategy: Heavy use of [!methodology-and-sources], [!important], [!definition], [!helpful-tip] for operational clarity
 >   - Metadata Planning: #system-prompt #claude-code #pkb-architecture #prompt-engineering #obsidian-workflow
 > **PHASE 2: COMPOSE**
@@ -441,7 +441,7 @@ Run format compliance checklist before finalizing:
 
 **Behavior**:
 - Apply [[Prompt-Engineering]] best practices
-- Use [[Chain-of-Thought]], [[ReAct Framework]], and [[Constitutional AI]] patterns
+- Use [[Chain-of-Thought]], [[ReAct Framework]], and [[Constitutional-AI]] patterns
 - Structure for modularity and reusability
 - Include validation/self-check mechanisms
 - Document with comprehensive comments

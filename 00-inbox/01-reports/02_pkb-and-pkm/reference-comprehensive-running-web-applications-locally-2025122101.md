@@ -113,7 +113,7 @@ modified: 2025-12-20
 status: evergreen
 certainty: confident
 type: reference
-related: [[Docker]], [[Node.js]], [[React]], [[Flask]], [[DevOps]], [[Full-Stack Development]]
+related: [[Docker]], [[Node.js]], [[ReAct]], [[Flask]], [[DevOps]], [[Full-Stack Development]]
 - --
 
 # 🌐 Running Web Applications Locally: Comprehensive Implementation Guide
@@ -182,7 +182,7 @@ related: [[Docker]], [[Node.js]], [[React]], [[Flask]], [[DevOps]], [[Full-Stack
 | Pattern | Description | Use Case | Examples |
 |---------|-------------|----------|----------|
 | **Monolithic Dev Server** | Single process serves both frontend and backend | Small apps, rapid prototyping | [[Django]] runserver, [[Rails]] server |
-| **Multi-Process Architecture** | Separate frontend dev server + backend API server | [[Full-Stack Development]], [[Microservices]] | [[React]] (port 3000) + [[Flask]] (port 5000) |
+| **Multi-Process Architecture** | Separate frontend dev server + backend API server | [[Full-Stack Development]], [[Microservices]] | [[ReAct]] (port 3000) + [[Flask]] (port 5000) |
 | **Containerized Services** | [[Docker Compose]] orchestrates multiple containers | Complex architectures, team consistency | [[Docker]]-based [[Microservices]] stacks |
 
 %%mental-model: systems-thinking%%
@@ -1286,7 +1286,7 @@ if __name__ == '__main__':
 
 | Port | Service | Framework |
 |------|---------|-----------|
-| 3000 | Frontend Dev Server | [[React]], [[Next.js]], [[Vue.js]] |
+| 3000 | Frontend Dev Server | [[ReAct]], [[Next.js]], [[Vue.js]] |
 | 5173 | Vite Dev Server | [[Vite]] |
 | 5000 | Backend API | [[Flask]] |
 | 8000 | Backend API/Admin | [[Django]], [[FastAPI]] |

@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-09-the-embodied-thinker"
-  - "report-09-the-embodied-thinker.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,28 +53,20 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Aporic-Receptivity|Aporic Receptivity]]"
   - "[[Fallibilism]]"
-  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
-  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
-  - "[[Intellectual-Virtue|Intellectual Virtue]]"
-  - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Executive-Function|Executive Function]]"
-  - "[[Aporic-Receptivity|Aporic Receptivity]]"
-  - "[[Fallibilism|Fallibilism]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
   - "[[Intellectual-Virtue|Intellectual Virtue]]"
@@ -85,15 +78,13 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -132,10 +123,6 @@ importance: high
 
 **Related concepts:**
 [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[Intellectual-Virtue|Intellectual Virtue]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Working-Memory|Working Memory]] · [[Executive-Function|Executive Function]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Belief-Revision|Belief Revision]] · [[Physiological-Metacognition|Physiological Metacognition]] · [[Report-06|Report 06]] · [[Embodied-Cognition|Embodied Cognition]] · [[Interoceptive-Inference|Interoceptive Inference]]
-
-**Related concepts** *(from report-09-the-embodied-thinker.md)*:
-[[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Propatheiai|Propatheiai]]
-
 
 ## Methodology Notes
 

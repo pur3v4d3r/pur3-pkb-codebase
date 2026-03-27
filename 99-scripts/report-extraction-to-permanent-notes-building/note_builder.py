@@ -212,9 +212,21 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     for sr in source_reports:
         lines.append(f'  - "{_yaml_escape(sr)}"')
 
+    # ── Provenance chain ──────────────────────────────────────────────────
+    batch_name = ""
+    if candidate.source_report:
+        # Infer batch from source report path if available
+        batch_name = getattr(candidate, 'extraction_batch', '')
     lines.extend([
         f'evidence-quality: {confidence}',
         'extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"',
+        f'pipeline-version: "2.1.0"',
+        f'extraction-date: "{today}"',
+    ])
+    if batch_name:
+        lines.append(f'extraction-batch: "{_yaml_escape(batch_name)}"')
+
+    lines.extend([
         '',
         '# ═══════════════════════════════════════════════════════════════════════════',
         '# CONTENT CHARACTERISTICS',
@@ -226,29 +238,29 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
         '# RELATIONSHIPS',
         '# ═══════════════════════════════════════════════════════════════════════════',
         'prerequisites:',
-        '  - "[[]]"',
+        '  []',
         '',
         'related:',
     ])
     if related_links:
         lines.extend(related_links)
     else:
-        lines.append('  - "[[]]"')
+        lines.append('  []')
 
     lines.extend([
         '',
         'broader:',
-        '  - "[[]]"',
+        '  []',
         '',
         'narrower:',
-        '  - "[[]]"',
+        '  []',
         '',
         'see-also:',
     ])
     if see_also:
         lines.extend(see_also)
     else:
-        lines.append('  - "[[]]"')
+        lines.append('  []')
 
     lines.extend([
         '',
@@ -260,7 +272,7 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     if builds_on:
         lines.extend(builds_on)
     else:
-        lines.append('  - "[[]]"')
+        lines.append('  []')
 
     lines.extend([
         '',
@@ -269,7 +281,7 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     if enables:
         lines.extend(enables)
     else:
-        lines.append('  - "[[]]"')
+        lines.append('  []')
 
     lines.extend([
         '',
@@ -278,11 +290,7 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     if expansion_yaml:
         lines.extend(expansion_yaml)
     else:
-        lines.extend([
-            '  - topic: "[[]]"',
-            '    description: ""',
-            '    priority: medium',
-        ])
+        lines.append('  []')
 
     lines.extend([
         '',

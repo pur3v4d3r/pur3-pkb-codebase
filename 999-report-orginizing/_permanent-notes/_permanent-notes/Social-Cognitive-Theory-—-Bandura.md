@@ -25,20 +25,21 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 36
+referenced-by-count: 35
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Adaptive-Inference]]"
   - "[[Calibration-Dependency]]"
   - "[[Calibration-Engine]]"
@@ -48,7 +49,6 @@ see-also:
   - "[[Defensive-Inference]]"
   - "[[Degenerate-Cycle]]"
   - "[[Distributed-Regulation]]"
-  - "[[Flavell's-Metacognitive-Framework]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -61,12 +61,13 @@ importance: high
 # Social-Cognitive-Theory-—-Bandura
 
 > [!definition] **Social-Cognitive-Theory-—-Bandura**
-> *Stub note — concept referenced by 36 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 35 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 36 permanent notes.*
+*Auto-generated stub — referenced by 35 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Adaptive-Inference]]
 - [[Calibration-Dependency]]
 - [[Calibration-Engine]]
@@ -79,7 +80,6 @@ importance: high
 - [[Flavell's-Metacognitive-Framework]]
 - [[Forethought-Phase]]
 - [[MSLQ]]
-- [[Mastery-Goal-Orientation]]
 - [[Metacognitive-Accuracy]]
 - [[Metacognitive-Experience]]
 - [[Metacognitive-Monitoring]]
@@ -87,4 +87,4 @@ importance: high
 - [[Monitoring-Regulation-Coupling]]
 - [[Motivational-Regulation]]
 - [[Normative-vs.-Descriptive-Model]]
-- *...and 16 more permanent notes*
+- *...and 15 more permanent notes*

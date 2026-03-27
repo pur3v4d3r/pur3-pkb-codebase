@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "critical-thinking-educational-settings-foundational-report-2026-03-05"
-  - "critical-thinking-educational-settings-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Robert-Ennis|Robert Ennis]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[Critical-Thinking|critical thinking]]"
-  - "[[misinformation|misinformation]]"
-  - "[[Socratic-Method|Socratic Method]]"
-  - "[[John-Dewey|John Dewey]]"
-  - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Working-Memory|Working memory]]"
-  - "[[John-Sweller|John Sweller]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -88,7 +81,7 @@ builds-on:
   - "[[Foundations-of-Formal-Logic|Foundations of Formal Logic]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Socratic-Seminars-—-Design-and-Facilitation-This-expansion-report-wo|> [!topic-idea] [[Socratic-Seminars-—-Design-and-Facilitation]]
@@ -158,24 +151,6 @@ importance: high
 **Related concepts:**
 [[Robert-Ennis|Robert Ennis]] · [[Critical-Thinking|critical thinking]] · [[misinformation]] · [[Critical-Thinking|Critical thinking]] · [[Critical-Thinking|critical thinking]] · [[Socratic-Method|Socratic Method]] · [[John-Dewey|John Dewey]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Working-Memory|Working memory]] · [[John-Sweller|John Sweller]] · [[Cognitive-Load-Theory|cognitive load theory]] · [[Daniel-Willingham|Daniel Willingham]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]]
 
-**Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Cognitive-Load-Theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
-
-**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-- [[Metacognition-in-Learning|Metacognition in Learning]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Socratic-Method|Socratic Method]]
-
-**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
-- [[Metacognition-in-Learning|Metacognition in Learning]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Socratic-Method|Socratic Method]]
-
-
-
-
 ## References
 
 - **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
@@ -183,36 +158,6 @@ importance: high
 - **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
 - **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
 - **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
-
-- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
-
-- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
-
-- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
-
-- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
-
-- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
-
-- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
-
-- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
-
-- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
-
-- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
-
-- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

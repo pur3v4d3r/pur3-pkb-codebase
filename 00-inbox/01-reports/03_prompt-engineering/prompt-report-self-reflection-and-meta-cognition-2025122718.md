@@ -343,7 +343,7 @@ Despite impressive results, Reflexion exhibits fundamental constraints:
 
 Beyond task-specific reflection, a broader class of architectures employs **self-critique** as a general-purpose improvement mechanism. In self-critique architectures, the agent generates an initial output, then explicitly evaluates that output against quality criteria, and finally revises based on the critique.
 
-[**Self-Critique-Architecture**:: A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.] This pattern appears across multiple systems: [[Constitutional AI]], [[Self-Refine]], [[Chain-of-Verification]], and others.
+[**Self-Critique-Architecture**:: A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.] This pattern appears across multiple systems: [[Constitutional-AI]], [[Self-Refine]], [[Chain-of-Verification]], and others.
 
 The fundamental insight is that **generation and evaluation are separable capabilities** in LLMs, and evaluation may be more reliable than generation for certain tasks. An LLM might generate a flawed argument but correctly identify flaws when asked to critique it. Self-critique architectures exploit this asymmetry.
 

@@ -24,20 +24,21 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 52
+referenced-by-count: 44
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[22-Framework]]"
   - "[[Achievement-Goal]]"
   - "[[Attribution-Retraining]]"
@@ -45,7 +46,6 @@ see-also:
   - "[[Autonomy-Support]]"
   - "[[Basic-Psychological-Needs]]"
   - "[[Co-Constructed-Criteria]]"
-  - "[[Cognitive-Load]]"
   - "[[Counterexample-Search]]"
   - "[[Differentiated-Conception-of-Ability]]"
 
@@ -60,12 +60,13 @@ importance: high
 # Metacognition-&-Motivation
 
 > [!definition] **Metacognition-&-Motivation**
-> *Stub note — concept referenced by 52 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 52 permanent notes.*
+*Auto-generated stub — referenced by 44 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[22-Framework]]
 - [[Achievement-Goal]]
 - [[Attribution-Retraining]]
@@ -73,17 +74,16 @@ importance: high
 - [[Autonomy-Support]]
 - [[Basic-Psychological-Needs]]
 - [[Co-Constructed-Criteria]]
-- [[Cognitive-Load]]
 - [[Counterexample-Search]]
 - [[Differentiated-Conception-of-Ability]]
 - [[Ego-Involvement]]
 - [[Ego-Involving-Feedback]]
-- [[Element-Interactivity]]
 - [[Entity-Theory]]
-- [[Expertise-Reversal-Effect]]
-- [[Extraneous-Cognitive-Load]]
 - [[Feed-Forward]]
 - [[Figure-Effect]]
 - [[Fleshing-Out]]
 - [[Formative-Assessment]]
-- *...and 32 more permanent notes*
+- [[Formative-Feedback]]
+- [[Four-Component-Instructional-Design-4CID]]
+- [[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]
+- *...and 24 more permanent notes*

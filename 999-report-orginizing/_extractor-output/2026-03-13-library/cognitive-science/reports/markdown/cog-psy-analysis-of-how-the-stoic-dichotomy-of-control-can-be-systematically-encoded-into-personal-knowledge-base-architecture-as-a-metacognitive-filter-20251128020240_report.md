@@ -588,7 +588,7 @@ extraction_summary:
 - [[Others' Hiring Decisions]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Portfolio Building]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Preference Communication Strategy]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Assignments]]
@@ -647,7 +647,7 @@ extraction_summary:
 | 27 | [[Decision Frameworks]] | — | — | Claude Thinking: | 143 |
 | 28 | [[Rational Assessment]] | — | — | Claude Thinking: | 144 |
 | 29 | [[Action Possibilities]] | — | — | Claude Thinking: | 145 |
-| 30 | [[pragmatism]] | — | — | Claude Thinking: | 146 |
+| 30 | [[Pragmatism]] | — | — | Claude Thinking: | 146 |
 | 31 | [[Constructivism]] | — | — | Claude Thinking: | 147 |
 | 32 | [[Stoic]] | — | — | Claude Thinking: | 226 |
 | 33 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 226 |
@@ -743,7 +743,7 @@ extraction_summary:
 | 123 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Theory Implementation | 500 |
 | 124 | [[Metacognitive]] | — | — | Metacognition as Integrating Architec... | 506 |
 | 125 | [[Metacognition]] | — | — | Metacognition as Integrating Architec... | 511 |
-| 126 | [[pragmatism]] | pragmatist | — | Pragmatist Methodology Bridge | 523 |
+| 126 | [[Pragmatism]] | pragmatist | — | Pragmatist Methodology Bridge | 523 |
 | 127 | [[Constructivism]] | constructivist | — | Pragmatist Methodology Bridge | 525 |
 | 128 | [[Andragogy]] | — | — | Pragmatist Methodology Bridge | 525 |
 | 129 | [[Relevant Goal Note]] | — | — | Design Principle 3: Action-Possibilit... | 584 |
@@ -963,7 +963,7 @@ extraction_summary:
 - [[Others' Hiring Decisions]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Portfolio Building]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Preference Communication Strategy]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Assignments]]

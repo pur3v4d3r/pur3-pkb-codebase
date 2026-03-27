@@ -195,7 +195,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 
 **Just Right** (ACCEPT):
 - "[[Dual-Process-Theory]] in Cognitive Psychology" — Bounded framework with rich history and applications
-- "[[Transformer Architecture]] in Neural Networks" — Specific architecture with sufficient depth
+- "[[Transformer-Architecture]] in Neural Networks" — Specific architecture with sufficient depth
 - "[[The Copernican Revolution]] and its Philosophical Implications" — Bounded period with rich intellectual content
 
 **Scope Test Questions**:

@@ -139,7 +139,7 @@ prerequisites:
 related:
   - "[[Critical-Thinking|Critical Thinking]]"
   - "[[philosophy-of-science|Philosophy of Science]]"
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Virtue-Epistemology|Virtue Epistemology]]"
   - "[[Reliabilism]]"
   - "[[Contextualism — Epistemological]]"
@@ -315,7 +315,7 @@ The intellectual roots of fallibilism run deep in the Western philosophical trad
 
 The [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] of the ancient world pushed further, arguing that for every argument on any side of a question, an equally compelling counter-argument could be constructed, and that the appropriate response was suspension of judgment (*epoché*). This is more radical than fallibilism — the Pyrrhonists counsel abandonment of belief rather than provisional belief-holding — but the Pyrrhonian tradition did bequeath to Western epistemology a lasting sensitivity to the fragility of epistemic foundations.
 
-The modern articulation of fallibilism as a positive philosophical position — distinct from scepticism, not parasitic on doubt — belongs primarily to [[Charles-Sanders-Peirce|Charles Sanders Peirce]]. Writing in the late nineteenth century, Peirce coined the term "fallibilism" and developed it as a cornerstone of his [[pragmatism]]. For Peirce, inquiry is a self-correcting social process: the community of inquirers, over the long run of investigation, tends to converge on true beliefs precisely because it takes evidence seriously and revises its conclusions when evidence demands. Knowledge is not a fixed possession but a living process — provisional at each moment, progressive over time.
+The modern articulation of fallibilism as a positive philosophical position — distinct from scepticism, not parasitic on doubt — belongs primarily to [[Charles-Sanders-Peirce|Charles Sanders Peirce]]. Writing in the late nineteenth century, Peirce coined the term "fallibilism" and developed it as a cornerstone of his [[Pragmatism]]. For Peirce, inquiry is a self-correcting social process: the community of inquirers, over the long run of investigation, tends to converge on true beliefs precisely because it takes evidence seriously and revises its conclusions when evidence demands. Knowledge is not a fixed possession but a living process — provisional at each moment, progressive over time.
 
 In the twentieth century, [[Karl-Popper|Karl Popper]] offered the most influential expression of fallibilism in the philosophy of science. Popper's [[Falsificationism]] holds that the hallmark of scientific claims is their vulnerability to empirical refutation: a claim counts as scientific only if it is possible to specify observations that would show it to be false. Science progresses not by accumulating verified truths but by eliminating errors through rigorous attempts to falsify existing theories. [[W.V.O.-Quine|W.V.O. Quine]] contributed a different but complementary vision: his "web of belief" model showed that individual beliefs are not tested against experience in isolation but as part of a holistic network, which means that when experience conflicts with our system of beliefs, we have considerable latitude about where to make revisions.
 

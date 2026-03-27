@@ -35,29 +35,15 @@ PERMANENT_NOTES_DIR = (
 
 # Extraction batch directories — each contains *_extracted.json files
 EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-orginizing" / "_extractor-output"
-EXTRACTION_BATCHES = [
-    # Existing batches (2026-03-13)
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-13-inbox-reports",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-13-library",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-13-report-orginizing-folder",
-    # New batches (2026-03-19)
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-first-principles-reports",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-focused-analysis-reports",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-foundational-reports",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-socratic-reports",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-in-pkm",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-llm-and-prompt-engineering",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-reports-to-file",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-19-examined-life-reports",
-    # New batches (2026-03-20) — dialectical & comparative synthesis reports
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-20-dialectical-reports",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-20-comparative-synthesis-reports",
-    # New batches (2026-03-22) — focused analysis v1.1 & stoicism reports
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-22-focused-analysis-v1.1",
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-22-stoicism-reports",
-    # New batches (2026-03-24) — enhanced reports (dialectical + focused v1.1 updated generators)
-    EXTRACTOR_OUTPUT_ROOT / "2026-03-24-enhanced-reports",
-]
+
+# Auto-discover all extraction batch directories (no more manual list)
+# Add directory names here to exclude specific batches from processing.
+BATCH_EXCLUDES = set()  # e.g. {"2026-03-13-test-batch"}
+
+EXTRACTION_BATCHES = sorted(
+    d for d in (EXTRACTOR_OUTPUT_ROOT.iterdir() if EXTRACTOR_OUTPUT_ROOT.exists() else [])
+    if d.is_dir() and not d.name.startswith(".") and d.name not in BATCH_EXCLUDES
+)
 
 # Original 30-report batch (already processed by v1 pipeline)
 ORIGINAL_JSON_DIR = (

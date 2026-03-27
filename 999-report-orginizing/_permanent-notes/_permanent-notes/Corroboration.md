@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "fallibilism-foundational-report-2026-03-06"
-  - "fallibilism-foundational-report-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,34 +52,26 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Fallibilism]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
   - "[[Critical-Thinking|critical thinking]]"
   - "[[pedagogy]]"
   - "[[Descartes]]"
   - "[[scepticism]]"
   - "[[scepticism]]"
-  - "[[Fallibilism|fallibilism]]"
-  - "[[Epistemology|epistemology]]"
-  - "[[philosophy-of-science|philosophy of science]]"
-  - "[[Critical-Thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
-  - "[[Descartes|Descartes]]"
-  - "[[scepticism|scepticism]]"
-  - "[[epistemic-relativism|epistemic relativism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -89,7 +82,7 @@ builds-on:
   - "[[Descartes-—-Meditations|Descartes — Meditations]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[This-expansion-would-provide-a-rigorous-treatment-of-calibration-—-the-alignment|This expansion would provide a rigorous treatment of calibration — the alignment between confidence ]]"
@@ -167,27 +160,7 @@ importance: high
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 
 **Related concepts:**
-[[Fallibilism]] · [[Epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
-
-**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
-[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]] * [[Falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]]
-
-**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-
-
+[[Fallibilism]] · [[epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 
 ## References
 
@@ -196,36 +169,6 @@ importance: high
 - **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
 - **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
 - **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

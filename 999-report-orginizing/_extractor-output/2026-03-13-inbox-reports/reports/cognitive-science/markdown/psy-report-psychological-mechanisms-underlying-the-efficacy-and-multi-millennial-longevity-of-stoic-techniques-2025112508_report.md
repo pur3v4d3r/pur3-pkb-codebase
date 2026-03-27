@@ -460,7 +460,7 @@ extraction_summary:
 - [[Psychological Distance]]
 - [[Psychological Flexibility]]
 - [[Psychological Resilience]]
-- [[Psychology]]
+- [[psychology]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Relatedness]]
 - [[Resilience]]
@@ -937,7 +937,7 @@ extraction_summary:
 | 403 | [[Immunology]] | immunology | — | 🔗 Related Topics for PKB Expansion | 359 |
 | 404 | [[Exercise Physiology]] | exercise physiology | — | 🔗 Related Topics for PKB Expansion | 359 |
 | 405 | [[Toxicology]] | toxicology | — | 🔗 Related Topics for PKB Expansion | 359 |
-| 406 | [[Psychology]] | psychology | — | 🔗 Related Topics for PKB Expansion | 359 |
+| 406 | [[psychology]] | psychology | — | 🔗 Related Topics for PKB Expansion | 359 |
 | 407 | [[Deliberate-Practice|Deliberate Practice]] | deliberate practice | — | 🔗 Related Topics for PKB Expansion | 360 |
 | 408 | [[Post-Traumatic Growth]] | post-traumatic growth | — | 🔗 Related Topics for PKB Expansion | 360 |
 | 409 | [[Systems Theory]] | systems theory | — | 🔗 Related Topics for PKB Expansion | 361 |
@@ -1145,7 +1145,7 @@ extraction_summary:
 - [[Psychological Distance]]
 - [[Psychological Flexibility]]
 - [[Psychological Resilience]]
-- [[Psychology]]
+- [[psychology]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Relatedness]]
 - [[Resilience]]

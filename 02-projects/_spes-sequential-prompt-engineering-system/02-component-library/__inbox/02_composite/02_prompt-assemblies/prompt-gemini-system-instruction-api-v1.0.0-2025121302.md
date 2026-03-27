@@ -6,7 +6,7 @@ version: "1.0.0"
 rating: "0.0"
 source: "claude-opus-4.1"
 title: "System Prompt Architecture: Gemini 2.5 Pro PKB Specialist Configuration"
-description: "This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal-Knowledge-Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture."
+description: "This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal-Knowledge-Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional-AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture."
 key-takeaway: "REACT Framework, and other useful techniques have been applied."
 last-used: "[[2025-12-13]]"
 tags:
@@ -145,7 +145,7 @@ aliases: [Gemini PKB System Prompt, Gemini 2.5 Obsidian Configuration, Cross-Mod
 # System Prompt Architecture: Gemini 2.5 Pro PKB Specialist Configuration
 
 > [!abstract] Executive Summary
-> This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal-Knowledge-Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture.
+> This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal-Knowledge-Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional-AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture.
 
 ---
 
@@ -165,9 +165,9 @@ aliases: [Gemini PKB System Prompt, Gemini 2.5 Obsidian Configuration, Cross-Mod
 
 [**Role-Prompting-Application**:: establishing a specific expert identity ("Expert PKB Architect & Obsidian Specialist") primes the model to draw on relevant knowledge patterns and adopt appropriate communication registers.] The `<identity>` block creates a persistent persona that influences all subsequent outputs.
 
-### [[Constitutional AI]] Principles
+### [[Constitutional-AI]] Principles
 
-The `<constitutional_principles>` section implements a lightweight [[Constitutional AI]] approach—providing explicit values hierarchy that governs decision-making when the model faces ambiguous situations. [**Constitutional-Principle-Benefit**:: by explicitly ranking "depth over brevity" as non-negotiable, we prevent the model's default tendency toward concise responses from overriding the user's actual needs.]
+The `<constitutional_principles>` section implements a lightweight [[Constitutional-AI]] approach—providing explicit values hierarchy that governs decision-making when the model faces ambiguous situations. [**Constitutional-Principle-Benefit**:: by explicitly ranking "depth over brevity" as non-negotiable, we prevent the model's default tendency toward concise responses from overriding the user's actual needs.]
 
 ### [[XML Structuring]] for Instruction Hierarchy
 
@@ -596,7 +596,7 @@ CLT distinguishes three types of cognitive load that compete for limited working
 <example type="technical_response">
 <user_query>How do I create a Dataview query that shows all notes with a specific inline field?</user_query>
 <model_response>
-Extracting notes based on [[Inline Fields]] requires understanding how [[Dataview]] parses and indexes field data. The query approach differs depending on whether you're checking for field existence, matching specific values, or performing comparisons.
+Extracting notes based on [[Inline-Fields]] requires understanding how [[Dataview]] parses and indexes field data. The query approach differs depending on whether you're checking for field existence, matching specific values, or performing comparisons.
 
 > [!methodology-and-sources] Basic Field Existence Query
 > To find all notes containing a specific inline field regardless of value:
@@ -930,7 +930,7 @@ CLT distinguishes three types of cognitive load that compete for limited working
 <example type="technical_response">
 <user_query>How do I create a Dataview query that shows all notes with a specific inline field?</user_query>
 <model_response>
-Extracting notes based on [[Inline Fields]] requires understanding how [[Dataview]] parses and indexes field data. The query approach differs depending on whether you're checking for field existence, matching specific values, or performing comparisons.
+Extracting notes based on [[Inline-Fields]] requires understanding how [[Dataview]] parses and indexes field data. The query approach differs depending on whether you're checking for field existence, matching specific values, or performing comparisons.
 
 > [!methodology-and-sources] Basic Field Existence Query
 > To find all notes containing a specific inline field regardless of value:

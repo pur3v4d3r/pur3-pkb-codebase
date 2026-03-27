@@ -24,21 +24,21 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 13
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Amotivation]]"
+  - "[[.permanent-notes-index]]"
   - "[[Autonomy-Orientation]]"
   - "[[Causality-Orientation]]"
   - "[[Causality-Orientations-as-Motivational-Affordance-Systems]]"
@@ -60,13 +60,13 @@ importance: medium
 # Metacognition-and-Motivation
 
 > [!definition] **Metacognition-and-Motivation**
-> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 13 permanent notes.*
 
 ## Referenced By
 
-- [[Amotivation]]
+- [[.permanent-notes-index]]
 - [[Autonomy-Orientation]]
 - [[Causality-Orientation]]
 - [[Causality-Orientations-as-Motivational-Affordance-Systems]]
@@ -77,6 +77,5 @@ importance: medium
 - [[Locus-of-Control]]
 - [[Motivational-Affordance]]
 - [[Need-Satisfaction]]
-- [[Organismic-Integration-Theory]]
 - [[Perceptual-Attunement]]
 - [[The-Three-Orientation-System-as-a-Developmental-Risk-Architecture]]

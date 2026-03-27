@@ -5,7 +5,6 @@
 title: "Control Orientation"
 aliases:
   - "Control Orientation"
-  - "control-orientation"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -29,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "causality-orientations-theory-focused-analysis-2026-03-13"
-  - "causality-orientations-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,26 +52,18 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
-  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
-  - "[[Autonomy-Orientation|Autonomy Orientation]]"
-  - "[[Impersonal-Orientation|Impersonal Orientation]]"
-  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
-  - "[[General-Causality-Orientations-Scale|General Causality Orientations Scale]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Autonomy-Orientation|Autonomy Orientation]]"
@@ -90,7 +82,7 @@ builds-on:
   - "[[Intrinsic-Motivation-and-Extrinsic-Motivation|Intrinsic Motivation and Extrinsic Motivation]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[This-expansion-examines-the-developmental-pathways-through-which-chronic-need-sa|This expansion examines the developmental pathways through which chronic need satisfaction or frustr]]"
@@ -176,26 +168,6 @@ importance: high
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Autonomy-Orientation|Autonomy Orientation]] · [[Impersonal-Orientation|Impersonal Orientation]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] · [[Locus-of-Control|Locus of Control]] · [[Amotivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 
-**Related concepts** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Autonomy-Orientation|Autonomy Orientation]] * [[Impersonal-Orientation|Impersonal Orientation]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] * [[Learned-Helplessness|Learned Helplessness]] * [[Attentional-Deployment|Attentional Deployment]] * [[Selective-Attention|Selective Attention]] * [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] * [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
-
-**Cross-report connections** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
-- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
-- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
-- [[Learned-Helplessness|Learned Helplessness]]
-- [[Metacognition-and-Motivation|Metacognition and Motivation]]
-
-**Cross-report connections** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
-- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
-- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
-- [[Learned-Helplessness|Learned Helplessness]]
-- [[Metacognition-and-Motivation|Metacognition and Motivation]]
-
-
-
-
 ## References
 
 - **Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
@@ -203,36 +175,6 @@ importance: high
 - **Williams, G.C., Grow, V.M., Freedman, Z., Ryan, R.M., & Deci, E.L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology, 70*(1), 115–126.**: A landmark application of COT and autonomous motivation to health behavior change. Demonstrates that autonomous orientation (and autonomous motivation for behavior change) predicts better adherence and maintenance than controlled motivation — across a domain (weight loss) where most existing research focused on external incentives. Crucial for understanding how COT extends SDT predictions to real-world health outcomes.
 - **Koestner, R., Bernieri, F., & Zuckerman, M. (1992). Self-regulation and consistency between attitudes, traits, and behaviors. *Personality and Social Psychology Bulletin, 18*(1), 52–59.**: Provides evidence for the interpersonal transmission of causality orientations — specifically that control-oriented individuals tend to create more controlling conditions in their interactions with others. This study is important for the cascade mechanism described in Phase IV and for understanding how orientations have organizational and relational effects beyond individual psychology.
 - **Hodgins, H.S., Koestner, R., & Duncan, N. (1996). On the compatibility of autonomy and relatedness. *Personality and Social Psychology Bulletin, 22*(3), 227–237.**: Examines the relationship between autonomy orientation and relationship quality, addressing the potential misconception that autonomy orientation implies disconnection from others. Finds that autonomy orientation is associated with higher quality, more genuinely connected relationships — supporting SDT's claim that autonomy and relatedness are complementary rather than competing needs.
-
-- **Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
-
-- **Deci, E.L. & Ryan, R.M. (1985). The General Causality Orientations Scale: Self-determination in personality. *Journal of Research in Personality, 19*(2), 109–134.**: The instrument validation paper for the GCOS. Presents the scale, initial reliability and validity data, and the conceptual rationale for a multidimensional, non-ipsative measurement approach. The source for understanding the measurement architecture and the original evidence for GCOS validity.
-
-- **Williams, G.C., Grow, V.M., Freedman, Z., Ryan, R.M., & Deci, E.L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology, 70*(1), 115–126.**: A landmark application of COT and autonomous motivation to health behavior change. Demonstrates that autonomous orientation (and autonomous motivation for behavior change) predicts better adherence and maintenance than controlled motivation — across a domain (weight loss) where most existing research focused on external incentives. Crucial for understanding how COT extends SDT predictions to real-world health outcomes.
-
-- **Koestner, R., Bernieri, F., & Zuckerman, M. (1992). Self-regulation and consistency between attitudes, traits, and behaviors. *Personality and Social Psychology Bulletin, 18*(1), 52–59.**: Provides evidence for the interpersonal transmission of causality orientations — specifically that control-oriented individuals tend to create more controlling conditions in their interactions with others. This study is important for the cascade mechanism described in Phase IV and for understanding how orientations have organizational and relational effects beyond individual psychology.
-
-- **Hodgins, H.S., Koestner, R., & Duncan, N. (1996). On the compatibility of autonomy and relatedness. *Personality and Social Psychology Bulletin, 22*(3), 227–237.**: Examines the relationship between autonomy orientation and relationship quality, addressing the potential misconception that autonomy orientation implies disconnection from others. Finds that autonomy orientation is associated with higher quality, more genuinely connected relationships — supporting SDT's claim that autonomy and relatedness are complementary rather than competing needs.
-
-- **Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
-
-- **Deci, E.L. & Ryan, R.M. (1985). The General Causality Orientations Scale: Self-determination in personality. *Journal of Research in Personality, 19*(2), 109–134.**: The instrument validation paper for the GCOS. Presents the scale, initial reliability and validity data, and the conceptual rationale for a multidimensional, non-ipsative measurement approach. The source for understanding the measurement architecture and the original evidence for GCOS validity.
-
-- **Williams, G.C., Grow, V.M., Freedman, Z., Ryan, R.M., & Deci, E.L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology, 70*(1), 115–126.**: A landmark application of COT and autonomous motivation to health behavior change. Demonstrates that autonomous orientation (and autonomous motivation for behavior change) predicts better adherence and maintenance than controlled motivation — across a domain (weight loss) where most existing research focused on external incentives. Crucial for understanding how COT extends SDT predictions to real-world health outcomes.
-
-- **Koestner, R., Bernieri, F., & Zuckerman, M. (1992). Self-regulation and consistency between attitudes, traits, and behaviors. *Personality and Social Psychology Bulletin, 18*(1), 52–59.**: Provides evidence for the interpersonal transmission of causality orientations — specifically that control-oriented individuals tend to create more controlling conditions in their interactions with others. This study is important for the cascade mechanism described in Phase IV and for understanding how orientations have organizational and relational effects beyond individual psychology.
-
-- **Hodgins, H.S., Koestner, R., & Duncan, N. (1996). On the compatibility of autonomy and relatedness. *Personality and Social Psychology Bulletin, 22*(3), 227–237.**: Examines the relationship between autonomy orientation and relationship quality, addressing the potential misconception that autonomy orientation implies disconnection from others. Finds that autonomy orientation is associated with higher quality, more genuinely connected relationships — supporting SDT's claim that autonomy and relatedness are complementary rather than competing needs.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

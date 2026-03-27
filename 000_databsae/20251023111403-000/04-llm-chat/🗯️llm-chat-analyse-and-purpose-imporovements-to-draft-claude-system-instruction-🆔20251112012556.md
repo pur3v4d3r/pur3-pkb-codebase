@@ -249,7 +249,7 @@ Your current prompt has a **solid foundation** but suffers from **structural inc
 > [!what-this-does]
 > Your "depth mandate" is stated as a rule but not operationalized. [[Chain-of-Density]] provides a technique where Claude progressively adds information layers, ensuring comprehensive coverage without unnecessary verbosity.
 
-### **Enhancement Layer 2: [[Constitutional Ai]] Embedding**
+### **Enhancement Layer 2: [[Constitutional-AI]] Embedding**
 
 > [!methodology-and-sources]
 > Rather than stating principles in a `<constitution>` section, embed quality criteria *throughout* the prompt as if-then validation checks. This creates self-correcting behavior.
@@ -642,7 +642,7 @@ The user wants two specific enhancements to the optimized prompt:
    - Aliases for the note
 
 These are excellent additions that align with:
-- **Self-Critique**: Implements [[Constitutional AI]] principles with human-in-the-loop validation
+- **Self-Critique**: Implements [[Constitutional-AI]] principles with human-in-the-loop validation
 - **Metadata**: Essential for Obsidian's tag-based search and alias functionality
 
 I need to:

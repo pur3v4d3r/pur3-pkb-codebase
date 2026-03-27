@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404"
-  - "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Output-Analysis-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Constitutional-AI|Constitutional AI]]"
   - "[[Few-Shot-Learning|Few-Shot Learning]]"
   - "[[Self-Consistency]]"
-  - "[[Output-Analysis:-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]]"
-  - "[[Chain-of-Density|Chain-of-Density]]"
-  - "[[Skeleton-of-Thought|Skeleton-of-Thought]]"
-  - "[[Constitutional-AI|Constitutional AI]]"
-  - "[[Few-Shot-Learning|Few-Shot Learning]]"
-  - "[[Self-Consistency|Self-Consistency]]"
-  - "[[ReAct|ReAct]]"
-  - "[[Tree-of-Thoughts|Tree-of-Thoughts]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -127,10 +118,6 @@ importance: medium
 
 **Related concepts:**
 [[Output-Analysis-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]] · [[Chain-of-Density]] · [[Skeleton-of-Thought]] · [[Chain-of-Density]] · [[Skeleton-of-Thought]] · [[Constitutional-AI|Constitutional AI]] · [[Few-Shot-Learning|Few-Shot Learning]] · [[Self-Consistency]] · [[ReAct]] · [[Tree-of-Thoughts]] · [[Selective-Attention|Selective Attention]] · [[Allocation-Policy|Allocation Policy]] · [[Dual-Task-Performance|Dual-Task Performance]] · [[Donald-Broadbent|Donald Broadbent]] · [[Daniel-Kahneman|Daniel Kahneman]]
-
-**Related concepts** *(from reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md)*:
-[[Output-Analysis:-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]] * [[Constitutional-AI|Constitutional AI]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Selective-Attention|Selective Attention]] * [[Allocation-Policy|Allocation Policy]] * [[Dual-Task-Performance|Dual-Task Performance]] * [[Donald-Broadbent|Donald Broadbent]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Working-Memory|Working Memory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Dorsal-Attention-Network|Dorsal Attention Network]] * [[Ventral-Attention-Network|Ventral Attention Network]] * [[cosmology-moc|cosmology-moc]] * [[99-archive/05-moc's/cognitive-science-moc|99-archive/05-moc's/cognitive-science-moc]]
-
 
 ## Methodology Notes
 

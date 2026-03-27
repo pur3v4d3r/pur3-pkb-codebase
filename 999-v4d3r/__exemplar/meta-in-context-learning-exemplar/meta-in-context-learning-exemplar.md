@@ -54,7 +54,7 @@ version: 1.0.0
 
 - **Tasks requiring precise numerical computation**: Pattern matching via LMs doesn't provide mathematical precision. For symbolic reasoning → Use [[Program-of-Thoughts]] or hybrid neuro-symbolic systems.
 
-- **Adversarially robust applications**: Meta-training doesn't inherently provide adversarial robustness. In high-security contexts → Combine with [[Constitutional AI]] and adversarial training.
+- **Adversarially robust applications**: Meta-training doesn't inherently provide adversarial robustness. In high-security contexts → Combine with [[Constitutional-AI]] and adversarial training.
 
 ---
 

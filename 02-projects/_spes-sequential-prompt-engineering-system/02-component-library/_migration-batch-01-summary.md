@@ -109,7 +109,7 @@ created: 2025-12-17
 **Source**: `prompt-component-format-addin-definitions-system-v1.0.0-2025121221.md`
 **Target**: `atomic/output-formats/inline-field-definitions-system-v1.0.0.md`
 **Priority**: High (enables self-documenting dataview)
-**Concepts**: [[Inline Fields]], [[Dataview]], [[Metadata Extraction]], [[Glossary Generation]]
+**Concepts**: [[Inline-Fields]], [[Dataview]], [[Metadata Extraction]], [[Glossary Generation]]
 **Synergies**: [[claude-system-instructions-v2.0.0]], [[dataview-inline-queries-v2.0.0]]
 
 #### 6. Format: HTML Wrapper Support v1.0.0
@@ -167,7 +167,7 @@ created: 2025-12-17
 **Target**: `composite/prompt-assemblies/daily-note-components-v1.0.0.md`
 **Priority**: Medium (workflow template)
 **Type**: Sequential-chain
-**Concepts**: [[Daily Notes]], [[Templater]], [[Daily Workflow]]
+**Concepts**: [[Daily-Notes]], [[Templater]], [[Daily Workflow]]
 
 #### 14. Dashboard/MOC Generation v1.0.0
 **Source**: `prompt-generate-various-dashboard-and-moc-components-v1.0.0-2025121220.md`

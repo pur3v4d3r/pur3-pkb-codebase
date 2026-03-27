@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103"
-  - "prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Advanced-Persona-Crafting|Advanced Persona Crafting]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Self-Consistency]]"
   - "[[Reflexion]]"
   - "[[DSPy]]"
-  - "[[Advanced-Persona-Crafting|Advanced Persona Crafting]]"
-  - "[[Instructional-Scaffolding|Instructional Scaffolding]]"
-  - "[[Persona-Engineering|Persona Engineering]]"
-  - "[[Constitutional-AI|Constitutional AI]]"
-  - "[[ReAct|ReAct]]"
-  - "[[Self-Consistency|Self-Consistency]]"
-  - "[[Reflexion|Reflexion]]"
-  - "[[DSPy|DSPy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -125,10 +116,6 @@ importance: medium
 [[Advanced-Persona-Crafting|Advanced Persona Crafting]] · [[Instructional-Scaffolding|Instructional Scaffolding]] · [[Persona-Engineering|Persona Engineering]] · [[Constitutional-AI|Constitutional AI]] · [[ReAct]] · [[Self-Consistency]] · [[Reflexion]] · [[DSPy]] · [[Persona-Prompts|Persona_Prompts]] · [[Instructional-Scaffolding|Instructional Scaffolding]] · [[Constitutional-AI|Constitutional AI]] · [[ReAct]] · [[Self-Consistency]] · [[Reflexion]] · [[DSPy]]
 
 ---
-
-**Related concepts** *(from prompt-report-advanced-persona-crafting-and-instructional-scaffolding-techniques-for-maximizing-output-20251021215103.md)*:
-[[Advanced-Persona-Crafting|Advanced Persona Crafting]] * [[Instructional-Scaffolding|Instructional Scaffolding]] * [[Persona-Engineering|Persona Engineering]] * [[Constitutional-AI|Constitutional AI]] * [[Persona_Prompts|Persona_Prompts]] * [[Toolformer|Toolformer]] * [[Science-Communication|Science Communication]] * [[Personal-Knowledge-Base|Personal Knowledge Base]] * [[wiki-links|Wiki-Links]] * [[Evaluation-Rubrics-for-LLM-Outputs|Evaluation Rubrics for LLM Outputs]] * [[Agent-Architecture-Patterns-(ReAct,-Plan-Act,-Toolformer)|Agent Architecture Patterns (ReAct, Plan-Act, Toolformer)]] * [[Prompt-Injection,-Agent-Hijacking,-and-Constitutional-Defenses|Prompt Injection, Agent Hijacking, and Constitutional Defenses]]
-
 
 ## Source Attribution
 

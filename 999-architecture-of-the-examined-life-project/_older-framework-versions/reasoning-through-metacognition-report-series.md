@@ -96,7 +96,7 @@ related:
 
 broader:
   - "[[Philosophy of Mind]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
   - "[[Learning Science]]"
 
 narrower:
@@ -541,7 +541,7 @@ related:
 broader:
   - "[[Philosophy of Mind]]"
   - "[[Cognitive-Science]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
 
 narrower:
   - "[[Representation and Mental Content]]"
@@ -958,7 +958,7 @@ related:
 
 broader:
   - "[[Philosophy-of-Mind]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
 
 narrower:
   - "[[Intellectual-Virtues]]"
@@ -1519,7 +1519,7 @@ Having interrogated the definition of what you are doing, we can now excavate th
 **Assumption 3 — The Solo-Sufficiency Assumption:** The third and most significant assumption is perhaps the most invisible: the assumption that the project of improving one's thinking is, primarily, a solo project. The entire design of the PKB-as-thinking-infrastructure treats the individual cognitive agent as the unit of improvement. You read, you note, you link, you review. The Socratic tradition — which this report embodies — begins from an entirely different premise: that genuine inquiry is *dialogical*. [[Socrates]] did not write books. He found people who were confident they knew something important, and he asked them questions until neither party was certain any longer. The discomfort that productive inquiry requires — the [[Productive-Doubt]] that [[Dewey]] identified as the engine of reflective thinking — is significantly harder to generate alone than in dialogue. When you read, you can skim the uncomfortable parts. When you take notes, you can paraphrase in ways that soften the challenge. When an interlocutor asks you a question you cannot answer, there is no equivalent escape.
 
 > [!key-claim]
-> **Most Important Assumption Uncovered — The Solo-Sufficiency Assumption:** The assumption that individual reading, reflection, and note-taking are sufficient infrastructure for the cognitive transformation associated with genuine critical thinking — when the deepest traditions of [[Epistemology]], the empirical findings of [[Collaborative-Learning-Research]], and the structure of the Socratic method itself all suggest that interlocutors, disagreement, and social epistemic practices are not luxuries but constitutive features of serious inquiry. Your PKB cannot ask you a question you cannot answer. It cannot insist you explain yourself. It cannot notice when you have skipped over something uncomfortable. Another mind can.
+> **Most Important Assumption Uncovered — The Solo-Sufficiency Assumption:** The assumption that individual reading, reflection, and note-taking are sufficient infrastructure for the cognitive transformation associated with genuine critical thinking — when the deepest traditions of [[epistemology]], the empirical findings of [[Collaborative-Learning-Research]], and the structure of the Socratic method itself all suggest that interlocutors, disagreement, and social epistemic practices are not luxuries but constitutive features of serious inquiry. Your PKB cannot ask you a question you cannot answer. It cannot insist you explain yourself. It cannot notice when you have skipped over something uncomfortable. Another mind can.
 
 ---
 

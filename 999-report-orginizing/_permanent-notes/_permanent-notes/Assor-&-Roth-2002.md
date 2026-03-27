@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Amotivation]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Conditional-Regard]]"
-  - "[[Identified-Regulation]]"
+  - "[[.permanent-notes-index]]"
   - "[[Integration]]"
   - "[[Internalization]]"
   - "[[Introjection]]"
   - "[[OIT's-Continuum-as-Motivational-Landscape]]"
   - "[[Organismic-Integration-Tendency]]"
+  - "[[Regulatory-Style]]"
+  - "[[Relative-Autonomy-Index]]"
+  - "[[Self-Determination]]"
+  - "[[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,17 +59,13 @@ importance: medium
 # Assor & Roth (2002)
 
 > [!definition] **Assor & Roth (2002)**
-> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
-- [[Amotivation]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Conditional-Regard]]
-- [[Identified-Regulation]]
+- [[.permanent-notes-index]]
 - [[Integration]]
 - [[Internalization]]
 - [[Introjection]]

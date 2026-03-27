@@ -70,7 +70,7 @@ tags:
 > 
 > [**Chain-of-Verification**:: A prompting pattern where the model generates a baseline response, generates verification questions to check that response, answers those questions independently, and then generates a final verified response.
 > > [!elevated] CoVe in Practice
-> > **Turn 1 (Draft):** "Write a technical explanation of [[Transformer Architecture]]."
+> > **Turn 1 (Draft):** "Write a technical explanation of [[Transformer-Architecture]]."
 > > **Turn 2 (Critique):** "Review the text above. Identify 4 potential inaccuracies, simplifications, or missing mathematical context. List them as bullet points."
 > > **Turn 3 (Correction):** "Using the critique above, rewrite the explanation. Expand on the missing math and correct the simplifications."
 > 

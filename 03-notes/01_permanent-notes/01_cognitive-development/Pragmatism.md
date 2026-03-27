@@ -44,7 +44,7 @@ review-priority: medium
 # Pragmatism
 
 > [!definition]
-> - **Key-Term**:[[pragmatism]]
+> - **Key-Term**:[[Pragmatism]]
 > - [**Definition**:Pragmatism is a philosophical tradition centered on the idea that the truth or meaning of theories and beliefs is best tested by their practical application. It emphasizes the importance of consequences, utility, and workability in evaluating concepts, rather than relying solely on abstract principles or prior metaphysical truths. Originating in the United States in the late 19th century, it profoundly influenced philosophy, education, law, and politics.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -61,7 +61,7 @@ review-priority: medium
 
 ## Foundational Understanding
 
-### Outline of [[pragmatism]]
+### Outline of [[Pragmatism]]
 - `Historical Context`
     - Origins in late 19th-century America
     - Reaction against abstract, metaphysical, and rationalist philosophies

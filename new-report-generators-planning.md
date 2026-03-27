@@ -736,7 +736,7 @@ related_concepts:
   - "[[Cognitive-Load-Theory]]"
   - "[[Schema-Theory]]"
   - "[[Self-Determination-Theory]]"
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Stoic-Philosophy]]"
   - "[[Critical-Thinking]]"
   - "[[Knowledge Organization]]"
@@ -970,7 +970,7 @@ Every report draws from a core set of disciplines, using them as complementary l
 | **[[Cognitive-Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process-Theory]], [[Working-Memory]], [[Cognitive-Architecture]] |
 | **[[cognitive-psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory]], [[Cognitive-Load-Theory]], [[Encoding-Specificity]] |
 | **[[Educational-Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Transfer]] |
-| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
+| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
 | **[[Instructional-Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory]] |
 | **[[Learning-Experience-Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
 | **[[Knowledge-Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems]] |
@@ -1887,7 +1887,7 @@ These reports operate at the meta-level, integrating the entire framework.
 - **PKM/PKB Design Target**: Comprehensive design specification document
 
 **Report 28: The Philosophy of Personal Knowledge — What It Means to "Know" in a PKB**
-- **Synthesis Focus**: How do [[Epistemology]], [[Pragmatist-Truth]], [[Constructivist-Knowledge]], [[Stoic Wisdom]], and [[Socratic Knowing]] inform a coherent philosophy of what "knowledge" means in the context of a personal knowledge base?
+- **Synthesis Focus**: How do [[epistemology]], [[Pragmatist-Truth]], [[Constructivist-Knowledge]], [[Stoic Wisdom]], and [[Socratic Knowing]] inform a coherent philosophy of what "knowledge" means in the context of a personal knowledge base?
 - **Disciplines**: Philosophy (epistemology, pragmatism, Stoicism, Socratic), Cognitive Science, Knowledge Management
 
 **Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work**

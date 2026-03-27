@@ -234,7 +234,7 @@ The implications are profound: **the universe has a finite past but may have an 
 > - *What* **other "common knowledge"** *in my life or work might be based on a false analogy, and could benefit from this deconstruction?*
 >   - [[Economic Growth]]—we often speak of "the economy expanding" as if it's filling some pre-existing container of possible transactions. What if it's more like spatial expansion—new transaction space being created rather than motion through fixed economic space?  
 >   - [[Information Spread]]—we talk about ideas "spreading" through a network as if moving through fixed social space. What if network topology itself evolves, creating new connections rather than ideas merely flowing through static channels?  
->   - [[Consciousness]]—we often think of subjective experience as occurring "in" some pre-existing mental space. What if consciousness is more like expanding space—creating experiential dimensionality rather than motion through fixed phenomenological volume?
+>   - [[consciousness]]—we often think of subjective experience as occurring "in" some pre-existing mental space. What if consciousness is more like expanding space—creating experiential dimensionality rather than motion through fixed phenomenological volume?
 
 > [!links-to-related-notes]
 > **Identifying Core "Atoms" from the Deconstruction:**

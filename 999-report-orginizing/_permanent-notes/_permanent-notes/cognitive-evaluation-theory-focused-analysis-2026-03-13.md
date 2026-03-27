@@ -23,20 +23,21 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Causality-Orientations-Theory]]"
   - "[[Engagement-Contingent-Reward]]"
   - "[[Free-Choice-Behaviour]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Motivational-Asymmetry-and-Instructional-Design-Sequencing]]"
   - "[[Overjustification-Effect]]"
   - "[[Perceived-Competence]]"
-  - "[[Reward-Contingency-Types]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: medium
 # cognitive-evaluation-theory-focused-analysis-2026-03-13
 
 > [!definition] **cognitive-evaluation-theory-focused-analysis-2026-03-13**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Causality-Orientations-Theory]]
 - [[Engagement-Contingent-Reward]]
 - [[Free-Choice-Behaviour]]

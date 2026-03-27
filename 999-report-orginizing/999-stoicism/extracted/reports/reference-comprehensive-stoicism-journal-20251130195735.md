@@ -200,7 +200,7 @@ aliases: [Stoic Reflection Practice, Daily Stoic Journaling, Stoic Self-Examinat
 
 ### The Ancient Lineage
 
-[[Stoic Daily Journaling]] represents one of humanity's oldest documented psychological self-regulation practices, with evidence spanning from the 3rd century BCE through the 2nd century CE. The practice emerged from a philosophical tradition that viewed [[Philosophy]] not as abstract theorizing but as a practical [[Art of Living]]—what the Stoics called *technē peri ton bion* (craft concerning life).
+[[Stoic Daily Journaling]] represents one of humanity's oldest documented psychological self-regulation practices, with evidence spanning from the 3rd century BCE through the 2nd century CE. The practice emerged from a philosophical tradition that viewed [[philosophy]] not as abstract theorizing but as a practical [[Art of Living]]—what the Stoics called *technē peri ton bion* (craft concerning life).
 
 The foundational principle, articulated most clearly by [[Epictetus]] in his *[[Enchiridion]]*, establishes the cognitive primacy that would later become central to modern psychology: "Men are disturbed not by things, but by the views which they take of things." This insight—that our [[Interpretations]] rather than [[External Events]] determine our [[Emotional Responses]]—became the philosophical bedrock for what would emerge 2,000 years later as [[Cognitive-Behavioral-Therapy]].
 
@@ -974,7 +974,7 @@ Prompt Options:
 
 **Core Advantages**:
 1. **[[Bidirectional Linking]]** - Connect journal entries to philosophical concepts, creating living knowledge graph
-2. **[[Daily Notes]]** - Built-in structure for journaling workflow
+2. **[[Daily-Notes]]** - Built-in structure for journaling workflow
 3. **[[Templates]]** - Automate prompt systems for consistency
 4. **[[Dataview]]** - Query entries for pattern recognition
 5. **[[Tags]]** - Organize by virtue, theme, or practice type

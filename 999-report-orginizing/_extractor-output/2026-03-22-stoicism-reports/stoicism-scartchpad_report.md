@@ -426,7 +426,7 @@ extraction_summary:
 - [[Neuroplasticity]]
 - [[Pattern Recognition]]
 - [[Practical Philosophy]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Progress Principle]]
@@ -515,7 +515,7 @@ extraction_summary:
 | 56 | [[Implementation-Intention|Implementation Intention]] | implementation intention | — | Metacognitive Development through Jou... | 286 |
 | 57 | [[Stoicism]] | — | — | Metacognitive Development through Jou... | 290 |
 | 58 | [[Constructivism]] | — | — | Metacognitive Development through Jou... | 290 |
-| 59 | [[pragmatism]] | — | — | Metacognitive Development through Jou... | 290 |
+| 59 | [[Pragmatism]] | — | — | Metacognitive Development through Jou... | 290 |
 | 60 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 297 |
 | 61 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | Metacognitive Development through Jou... | 297 |
 | 62 | [[Metacognition]] | metacognitive awareness | — | Metacognitive Development through Jou... | 297 |
@@ -702,7 +702,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Neuroplasticity]]
 - [[Pattern Recognition]]
 - [[Practical Philosophy]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Progress Principle]]

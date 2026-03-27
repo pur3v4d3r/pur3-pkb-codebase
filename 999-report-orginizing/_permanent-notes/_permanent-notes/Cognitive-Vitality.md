@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-03-the-motivated-mind"
-  - "report-03-the-motivated-mind.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,26 +53,18 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
-  - "[[System-2-Thinking|System 2 Thinking]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[System-2|System 2]]"
-  - "[[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Flow-Theory|Flow Theory]]"
-  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
-  - "[[Growth-Mindset|Growth Mindset]]"
   - "[[System-2-Thinking|System 2 Thinking]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[System-2|System 2]]"
@@ -85,15 +78,13 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -133,10 +124,6 @@ importance: high
 
 **Related concepts:**
 [[System-2-Thinking|System 2 Thinking]] · [[Dual-Process-Theory|Dual Process Theory]] · [[System-2|System 2]] · [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Flow-Theory|Flow Theory]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[Growth-Mindset|Growth Mindset]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Howard-et-al.|Howard et al.]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]]
-
-**Related concepts** *(from report-03-the-motivated-mind.md)*:
-[[System-2-Thinking|System 2 Thinking]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-2|System 2]] * [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Flow-Theory|Flow Theory]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Growth-Mindset|Growth Mindset]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Howard-et-al.|Howard et al.]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Wang-et-al.|Wang et al.]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
-
 
 ## References
 

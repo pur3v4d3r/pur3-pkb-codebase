@@ -247,8 +247,8 @@ extraction_summary:
 - [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Chain-of-Verification]]
 - [[Chain-of-Verification (CoVe)]]
-- [[Constitutional AI (Prompt style)]]
-- [[Constitutional AI (Prompt-Style Variant)]]
+- [[Constitutional-AI|Constitutional AI (Prompt style)]]
+- [[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]]
 - [[Evaluation Harnesses for Prompts (Rubrics, Benchmarks, Human-in-the-Loop)]]
 - [[Function Calling / Tools]]
 - [[Function Calling / Tools (Structured APIs)]]
@@ -316,7 +316,7 @@ extraction_summary:
 | 17 | [[HyDE (Hypothetical Document Embeddings)]] | — | — | Retrieval & Grounding | 224 |
 | 18 | [[RAG]] | — | — | Retrieval & Grounding | 230 |
 | 19 | [[Reflexion]] | — | — | Critique, Verification & Multi-Agent ... | 237 |
-| 20 | [[Constitutional AI (Prompt-Style Variant)]] | — | — | Critique, Verification & Multi-Agent ... | 243 |
+| 20 | [[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]] | — | — | Critique, Verification & Multi-Agent ... | 243 |
 | 21 | [[LLM-as-a-Judge / Rubric Grading]] | — | — | Critique, Verification & Multi-Agent ... | 249 |
 | 22 | [[Multi-Agent Debate / Deliberation]] | — | — | Critique, Verification & Multi-Agent ... | 255 |
 | 23 | [[Chain-of-Verification (CoVe)]] | — | — | Critique, Verification & Multi-Agent ... | 261 |
@@ -345,7 +345,7 @@ extraction_summary:
 | 46 | [[RAG]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 47 | [[HyDE]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 48 | [[Reflexion]] | — | — | Cross-links (create these notes in yo... | 411 |
-| 49 | [[Constitutional AI (Prompt style)]] | — | — | Cross-links (create these notes in yo... | 411 |
+| 49 | [[Constitutional-AI|Constitutional AI (Prompt style)]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 50 | [[LLM-as-a-Judge]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 51 | [[Multi-Agent Debate]] | — | — | Cross-links (create these notes in yo... | 411 |
 | 52 | [[Chain-of-Verification]] | — | — | Cross-links (create these notes in yo... | 411 |
@@ -516,7 +516,7 @@ extraction_summary:
 ### Code Block 17 — `plaintext` *(Lines 242-246)*
 
 ```plaintext
-**Technique:** `[[Constitutional AI (Prompt-Style Variant)]]`
+**Technique:** `[[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]]`
 **Description:** Although originally a **training** method, you can adapt the idea at prompt-time: provide a short **constitution** of principles, ask the model to **self-critique** an answer against them, then revise. It yields safer, more policy-consistent outputs. ([Anthropic][8])
 **Best Practices:** Keep the constitution 5–12 short clauses; separate **Draft → Critique → Revision**; require the critique to quote the clause it invokes.
 ```
@@ -754,8 +754,8 @@ mindmap
 - [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Chain-of-Verification]]
 - [[Chain-of-Verification (CoVe)]]
-- [[Constitutional AI (Prompt style)]]
-- [[Constitutional AI (Prompt-Style Variant)]]
+- [[Constitutional-AI|Constitutional AI (Prompt style)]]
+- [[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]]
 - [[Evaluation Harnesses for Prompts (Rubrics, Benchmarks, Human-in-the-Loop)]]
 - [[Function Calling / Tools]]
 - [[Function Calling / Tools (Structured APIs)]]

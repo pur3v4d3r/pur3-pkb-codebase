@@ -166,7 +166,7 @@ extraction_summary:
     - ### Knowledge Graph Optimization
 - # 🔗 Related Topics for PKB Expansion
   - ## Core Extensions
-    - ### 1. **[[Agent Capability Development Framework]]**
+    - ### 1. **[[Agent-Capability-Development-Framework|Agent Capability Development Framework]]**
     - ### 2. **[[Session Memory Optimization Patterns]]**
   - ## Cross-Domain Connections
     - ### 3. **[[Cognitive Load Theory Applied to AI Coordination]]**
@@ -362,8 +362,8 @@ extraction_summary:
 
 - [[**AI Agent Coordination System: Implementation Guide**]]
 - [[AI Agent Coordination System: Implementation Guide]]
-- [[Agent Capability Development Framework]]
-- [[Agent Coordination Patterns]]
+- [[Agent-Capability-Development-Framework|Agent Capability Development Framework]]
+- [[Agent-Coordination-Patterns|Agent Coordination Patterns]]
 - [[Agentic Prompt Engineering Workflows]]
 - [[Claude-Code|Claude Code]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -374,7 +374,7 @@ extraction_summary:
 - [[Note 1]]
 - [[Note 2]]
 - [[Note 3]]
-- [[Obsidian PKB Architecture]]
+- [[Obsidian-PKB-Architecture|Obsidian PKB Architecture]]
 - [[SPES]]
 - [[Sequential Prompt Engineering System]]
 - [[Session Memory Optimization Patterns]]
@@ -386,8 +386,8 @@ extraction_summary:
 | 1 | [[**AI Agent Coordination System: Implementation Guide**]] | — | — | Foundational Understanding | 101 |
 | 2 | [[Sequential Prompt Engineering System]] | — | — | Foundational Understanding | 114 |
 | 3 | [[Claude-Code|Claude Code]] | — | — | Foundational Understanding | 114 |
-| 4 | [[Obsidian PKB Architecture]] | — | — | Foundational Understanding | 114 |
-| 5 | [[Agent Coordination Patterns]] | — | — | Foundational Understanding | 114 |
+| 4 | [[Obsidian-PKB-Architecture|Obsidian PKB Architecture]] | — | — | Foundational Understanding | 114 |
+| 5 | [[Agent-Coordination-Patterns|Agent Coordination Patterns]] | — | — | Foundational Understanding | 114 |
 | 6 | [[Claude-Code|Claude Code]] | — | — | 🤖 AI Agent Coordination System: Imple... | 120 |
 | 7 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | 🤖 AI Agent Coordination System: Imple... | 120 |
 | 8 | [[Gemini-Code-Assist|Gemini Code Assist]] | — | — | Integration with Gemini | 239 |
@@ -397,7 +397,7 @@ extraction_summary:
 | 12 | [[Note 1]] | — | — | Reference Note Schema | 673 |
 | 13 | [[Note 2]] | — | — | Reference Note Schema | 673 |
 | 14 | [[Note 3]] | — | — | Reference Note Schema | 673 |
-| 15 | [[Agent Capability Development Framework]] | — | — | 1. **[[Agent Capability Development F... | 1287 |
+| 15 | [[Agent-Capability-Development-Framework|Agent Capability Development Framework]] | — | — | 1. **[[Agent Capability Development F... | 1287 |
 | 16 | [[Session Memory Optimization Patterns]] | — | — | 2. **[[Session Memory Optimization Pa... | 1294 |
 | 17 | [[Cognitive Load Theory Applied to AI Coordination]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1303 |
 | 18 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1308 |
@@ -1288,8 +1288,8 @@ graph TD
 
 - [[**AI Agent Coordination System: Implementation Guide**]]
 - [[AI Agent Coordination System: Implementation Guide]]
-- [[Agent Capability Development Framework]]
-- [[Agent Coordination Patterns]]
+- [[Agent-Capability-Development-Framework|Agent Capability Development Framework]]
+- [[Agent-Coordination-Patterns|Agent Coordination Patterns]]
 - [[Agentic Prompt Engineering Workflows]]
 - [[Claude-Code|Claude Code]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -1300,7 +1300,7 @@ graph TD
 - [[Note 1]]
 - [[Note 2]]
 - [[Note 3]]
-- [[Obsidian PKB Architecture]]
+- [[Obsidian-PKB-Architecture|Obsidian PKB Architecture]]
 - [[SPES]]
 - [[Sequential Prompt Engineering System]]
 - [[Session Memory Optimization Patterns]]

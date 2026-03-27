@@ -458,8 +458,8 @@ if (bridges.length > 0) {
 - [[Cognitive-Load-Theory]] ↔ [[Cognitive-Behavioral-Therapy]] (working memory in rumination)
 
 **Learning & Memory ↔ Philosophy**
-- [[Learning Theory]] ↔ [[Epistemology]] (nature of knowledge)
-- [[Transfer-of-Learning]] ↔ [[pragmatism]] (application to novel contexts)
+- [[Learning Theory]] ↔ [[epistemology]] (nature of knowledge)
+- [[Transfer-of-Learning]] ↔ [[Pragmatism]] (application to novel contexts)
 - [[Schema-Theory]] ↔ [[Epistemic-Cognition]] (knowledge organization)
 
 **Learning & Memory ↔ Applied Techniques**
@@ -482,7 +482,7 @@ if (bridges.length > 0) {
 - **Instructional Design** → See Pillar V (Multimedia, Schema, Transfer, Assessment)
 
 ### External MOCs (Cross-References)
-- [[Cognitive Science MOC]] - Broader cognitive architecture context
+- [[cognitive-science-moc]] - Broader cognitive architecture context
 - [[Educational Psychology MOC]] - Developmental and motivational aspects
 - [[Neuroscience MOC]] - Neural mechanisms of learning and memory
 - [[Psychology MOC]] - Motivation, emotion, individual differences

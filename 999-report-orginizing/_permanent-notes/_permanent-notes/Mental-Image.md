@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "mental-models-johnson-laird-foundational-report-2026-03-11"
-  - "mental-models-johnson-laird-foundational-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Philip-Johnson-Laird|Philip Johnson-Laird]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
   - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
   - "[[Multimedia-Learning|Multimedia Learning]]"
-  - "[[Philip-Johnson-Laird|Philip Johnson-Laird]]"
-  - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[Johnson-Laird|Johnson-Laird]]"
-  - "[[PKB|PKB]]"
-  - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
-  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
-  - "[[Multimedia-Learning|Multimedia Learning]]"
-  - "[[Schema-Theory|Schema Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +83,7 @@ builds-on:
   - "[[Cognitive-Architecture|Cognitive Architecture]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[A-dedicated-foundational-report-on-this-topic-would-provide-comprehensive-treatm|A dedicated foundational report on this topic would provide comprehensive treatment of [[Walter Kint]]"
@@ -170,26 +163,6 @@ importance: high
 **Related concepts:**
 [[Philip-Johnson-Laird|Philip Johnson-Laird]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Johnson-Laird]] · [[PKB]] · [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Multimedia-Learning|Multimedia Learning]] · [[Schema-Theory|Schema Theory]] · [[Johnson-Laird]] · [[Mental-Models|Mental Models]] · [[Kenneth-Craik|Kenneth Craik]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[Schema-Theory|Schema Theory]] · [[possible-worlds-semantics|possible worlds semantics]]
 
-**Related concepts** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-[[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Conceptual-Change-Theory|Conceptual Change Theory]] * [[Multimedia-Learning|Multimedia Learning]] * [[Schema-Theory|Schema Theory]] * [[Mental-Models|Mental Models]] * [[Kenneth-Craik|Kenneth Craik]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[possible-worlds-semantics|possible worlds semantics]] * [[Formal-Rule-Theories-of-Reasoning|Formal Rule Theories of Reasoning]] * [[Propositional-Representation|Propositional Representation]] * [[Mental-Logic-Theory|Mental Logic Theory]] * [[Lance-Rips|Lance Rips]] * [[Martin-Braine|Martin Braine]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Daniel-Kahneman|Daniel Kahneman]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-- [[Mental-Models-Theory|Mental Models Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
-- [[Deductive-Reasoning|Deductive Reasoning]]
-
-**Cross-report connections** *(from mental-models-johnson-laird-foundational-report-2026-03-11.md)*:
-- [[Mental-Models-Theory|Mental Models Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
-- [[Deductive-Reasoning|Deductive Reasoning]]
-
-
-
-
 ## References
 
 - **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
@@ -197,36 +170,6 @@ importance: high
 - **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
 - **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
 - **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
-
-- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
-
-- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
-
-- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
-
-- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

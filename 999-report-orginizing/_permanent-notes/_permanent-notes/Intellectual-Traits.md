@@ -2,9 +2,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Intellectual-Traits"
+title: "Intellectual Traits"
 aliases:
-  - "Intellectual-Traits"
   - "Intellectual Traits"
 type: permanent-note
 status: seedling
@@ -24,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 6
+referenced-by-count: 7
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -44,6 +43,7 @@ see-also:
   - "[[Interpretation-and-Inference]]"
   - "[[Point-of-View]]"
   - "[[Question-at-Issue]]"
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -53,12 +53,12 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Intellectual-Traits
+# Intellectual Traits
 
-> [!definition] **Intellectual-Traits**
-> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Intellectual Traits**
+> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 6 permanent notes.*
+*Auto-generated stub — referenced by 7 permanent notes.*
 
 ## Referenced By
 
@@ -68,3 +68,4 @@ importance: low
 - [[Interpretation-and-Inference]]
 - [[Point-of-View]]
 - [[Question-at-Issue]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

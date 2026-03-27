@@ -23,26 +23,22 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 7
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Basic-Psychological-Needs-The-Three]]"
+  - "[[.permanent-notes-index]]"
   - "[[External-Regulation]]"
-  - "[[Integrated-Regulation]]"
-  - "[[Integration-Paradox]]"
-  - "[[The-Integration-Paradox-as-a-Design-Constraint]]"
-  - "[[The-Internalization-Metabolism-Model]]"
   - "[[_Master-Definition-Index|_Master-Definition-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -56,16 +52,12 @@ importance: low
 # Perceived-Internal-Locus-of-Causality
 
 > [!definition] **Perceived-Internal-Locus-of-Causality**
-> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 7 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
-- [[Basic-Psychological-Needs-The-Three]]
+- [[.permanent-notes-index]]
 - [[External-Regulation]]
-- [[Integrated-Regulation]]
-- [[Integration-Paradox]]
-- [[The-Integration-Paradox-as-a-Design-Constraint]]
-- [[The-Internalization-Metabolism-Model]]
 - [[_Master-Definition-Index|_Master-Definition-Index]]

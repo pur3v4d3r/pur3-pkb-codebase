@@ -18,6 +18,7 @@ from __future__ import annotations
 import re
 import datetime
 from dataclasses import dataclass, field
+from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Optional
 
@@ -124,6 +125,28 @@ class UpdateReport:
 _FRONTMATTER_RE = re.compile(r'^(---\s*\n)(.*?)(\n---)', re.DOTALL)
 _WIKILINK_RE = re.compile(r'\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]')
 
+# Patterns that indicate a garbage / non-concept wiki-link target
+_GARBAGE_LINK_PATTERNS = [
+    re.compile(r'<%'),                     # Templater syntax
+    re.compile(r'%>'),                     # Templater syntax
+    re.compile(r'tp\.'),                   # Templater function references
+    re.compile(r'^\*\*.*\*\*$'),           # Bold-wrapped text (not a concept)
+    re.compile(r'^__.*__$'),               # Underline-wrapped text
+    re.compile(r'^\d{1,4}$'),             # Pure numbers / years
+    re.compile(r'^Note-?\d+$', re.I),     # Template placeholders like Note-1
+    re.compile(r'^Note Title', re.I),     # Template placeholder text
+    re.compile(r'priority:|aliases:|topic:', re.I),  # YAML fragment leak
+    re.compile(r'^\s*$'),                 # Empty / whitespace-only
+    re.compile(r'^[^a-zA-Z]*$'),          # No alphabetic characters at all
+]
+
+
+def _is_garbage_link(target: str) -> bool:
+    """Return True if the wiki-link target is not a valid concept name."""
+    if not target or len(target.strip()) < 2:
+        return True
+    return any(p.search(target) for p in _GARBAGE_LINK_PATTERNS)
+
 
 def _read_note(filepath: Path) -> str:
     """Read a note file, returning its full text."""
@@ -224,7 +247,8 @@ def _is_duplicate_callout(new_body: str, existing_bodies: list[str]) -> bool:
     Check if new callout body is a duplicate of existing content.
 
     Uses normalized text comparison  -- strips formatting, lowers, and checks
-    for significant overlap.
+    for significant overlap. Enhanced with SequenceMatcher for near-duplicate
+    (paraphrased) detection.
     """
     new_norm = _normalize_for_dedup(new_body)
     if not new_norm or len(new_norm) < 20:
@@ -238,6 +262,11 @@ def _is_duplicate_callout(new_body: str, existing_bodies: list[str]) -> bool:
         # Check high overlap (first 100 chars match)
         if len(new_norm) > 50 and len(existing_norm) > 50:
             if new_norm[:100] == existing_norm[:100]:
+                return True
+        # SequenceMatcher fuzzy check for paraphrased duplicates
+        if len(new_norm) > 30 and len(existing_norm) > 30:
+            ratio = SequenceMatcher(None, new_norm[:300], existing_norm[:300]).ratio()
+            if ratio >= 0.80:
                 return True
     return False
 
@@ -400,6 +429,9 @@ class NoteUpdater:
             yaml_text = self._add_source_reports(yaml_text, new_reports)
             action.source_reports_added = new_reports
 
+        # -- 1b. Deduplicate source-reports (handle .md variants) ----------
+        yaml_text = self._deduplicate_source_reports(yaml_text)
+
         # -- 2. Update see-also in frontmatter -----------------------------
         existing_see_also = _extract_see_also(yaml_text)
         existing_see_also_lower = {s.lower() for s in existing_see_also}
@@ -408,6 +440,8 @@ class NoteUpdater:
         new_see_also = []
         for c in candidates:
             for wl in c.wiki_links:
+                if _is_garbage_link(wl):
+                    continue
                 wl_norm = _normalize(wl)
                 wl_stem = wl_norm.replace(" ", "-")
                 if (
@@ -422,6 +456,9 @@ class NoteUpdater:
         if new_see_also:
             yaml_text = self._add_see_also(yaml_text, new_see_also[:8])
             action.see_also_added = min(len(new_see_also), 8)
+
+        # -- 2b. Deduplicate existing see-also entries ----------------------
+        yaml_text = self._deduplicate_see_also(yaml_text)
 
         # -- 3. Update timestamp -------------------------------------------
         yaml_text = self._update_timestamp(yaml_text)
@@ -649,6 +686,8 @@ class NoteUpdater:
         new_wl_for_body = []
         for c in candidates:
             for wl in c.wiki_links:
+                if _is_garbage_link(wl):
+                    continue
                 wl_lower = wl.lower().strip()
                 if (
                     wl_lower not in existing_body_links
@@ -786,6 +825,74 @@ class NoteUpdater:
             return yaml_text[:insert_pos] + f"\nupdated: {self.today}" + yaml_text[insert_pos:]
 
         return yaml_text
+
+    def _deduplicate_see_also(self, yaml_text: str) -> str:
+        """Remove duplicate see-also entries from frontmatter YAML.
+
+        Normalizes wiki-link stems to lowercase for comparison, keeping
+        the first occurrence of each unique target.
+        """
+        lines = yaml_text.split("\n")
+        result_lines = []
+        in_see_also = False
+        seen_stems: set[str] = set()
+
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith("see-also:"):
+                in_see_also = True
+                result_lines.append(line)
+                continue
+
+            if in_see_also:
+                if stripped.startswith("- "):
+                    # Extract the wiki-link target for dedup
+                    val = stripped[2:].strip().strip('"').strip("'")
+                    # Extract stem from [[Stem|Display]] or [[Stem]]
+                    stem_match = re.search(r'\[\[([^\]|#]+)', val)
+                    stem_key = stem_match.group(1).strip().lower() if stem_match else val.lower()
+                    if stem_key in seen_stems:
+                        continue  # skip duplicate
+                    seen_stems.add(stem_key)
+                    result_lines.append(line)
+                    continue
+                else:
+                    in_see_also = False
+
+            result_lines.append(line)
+
+        return "\n".join(result_lines)
+
+    def _deduplicate_source_reports(self, yaml_text: str) -> str:
+        """Remove duplicate source-reports entries (with/without .md)."""
+        lines = yaml_text.split("\n")
+        result_lines = []
+        in_source_reports = False
+        seen: set[str] = set()
+
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith("source-reports:"):
+                in_source_reports = True
+                result_lines.append(line)
+                continue
+
+            if in_source_reports:
+                if stripped.startswith("- "):
+                    val = stripped[2:].strip().strip('"').strip("'")
+                    # Normalize: strip .md suffix for comparison
+                    norm = val.lower().removesuffix(".md")
+                    if norm in seen:
+                        continue  # skip duplicate
+                    seen.add(norm)
+                    result_lines.append(line)
+                    continue
+                else:
+                    in_source_reports = False
+
+            result_lines.append(line)
+
+        return "\n".join(result_lines)
 
     # -- Batch operations --------------------------------------------------
 

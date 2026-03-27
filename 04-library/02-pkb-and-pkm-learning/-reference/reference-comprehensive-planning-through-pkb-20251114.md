@@ -1998,7 +1998,7 @@ This structure flows from abstract understanding → concrete methodology → sp
 - [[Working-Memory]]
 - [[Goal Setting]]
 - [[Zettelkasten]]
-- [[Daily Notes]]
+- [[Daily-Notes]]
 - [[Weekly Reviews]]
 - [[Project Management]]
 - [[Task-Management]]

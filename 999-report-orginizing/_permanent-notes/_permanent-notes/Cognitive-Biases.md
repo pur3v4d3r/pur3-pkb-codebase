@@ -24,66 +24,61 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 47
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analogical-Representation]]"
-  - "[[Assumption-5-RuleModel-Dichotomy]]"
-  - "[[Attribution-Retraining]]"
-  - "[[Attribution-Theory]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
-  - "[[Basic-Psychological-Needs]]"
+  - "[[.permanent-notes-index]]"
   - "[[Cognitive-Debt]]"
-  - "[[Core-Concept-Definition]]"
+  - "[[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
+  - "[[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]"
+  - "[[Knowledge-of-Cognition]]"
+  - "[[Metacognitive-Capacity]]"
+  - "[[PENCRISAL-Framework]]"
+  - "[[Regulation-of-Cognition]]"
+  - "[[📖-Cognitive-Decoupling]]"
+  - "[[📖-Mindware]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Cognitive-Biases
 
 > [!definition] **Cognitive-Biases**
-> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 47 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
-- [[Analogical-Representation]]
-- [[Assumption-5-RuleModel-Dichotomy]]
-- [[Attribution-Retraining]]
-- [[Attribution-Theory]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
-- [[Basic-Psychological-Needs]]
+- [[.permanent-notes-index]]
 - [[Cognitive-Debt]]
-- [[Core-Concept-Definition]]
 - [[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]
-- [[Dissolved-Assumption]]
-- [[Entity-Theory-of-Intelligence]]
-- [[Fixed-Mindset]]
-- [[Goal-Orientation]]
-- [[Growth-Mindset]]
 - [[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]
-- [[Incremental-Theory-of-Intelligence]]
-- [[Internalization-Continuum]]
-- [[Intrinsic-Motivation]]
-- *...and 27 more permanent notes*
+- [[Knowledge-of-Cognition]]
+- [[Metacognitive-Capacity]]
+- [[PENCRISAL-Framework]]
+- [[Regulation-of-Cognition]]
+- [[📖-Cognitive-Decoupling]]
+- [[📖-Mindware]]
+- [[📖-Prosoche]]
+- [[📖-Synkatathesis]]
+- [[📖-Synkatathesis-Assent-and-the-Stoic-Gap]]
+- [[📖-The-Governed-Attentional-Gap]]
+- [[📖-Type-1-Processing]]
+- [[📖-Type-2-Processing]]

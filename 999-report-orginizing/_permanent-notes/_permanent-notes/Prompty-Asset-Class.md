@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-prompty-exstenion-for-vs-code-2025122805"
-  - "reference-comprehensive-prompty-exstenion-for-vs-code-2025122805.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Comprehensive-Reference-Prompty-Exstension-for-VS-Code|**Comprehensive Reference: Prompty Exstension for VS Code**]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Gemini-Code-Assist|Gemini Code Assist]]"
   - "[[LangChain]]"
   - "[[Semantic-Kernel|Semantic Kernel]]"
-  - "[[**Comprehensive-Reference:-Prompty-Exstension-for-VS-Code**|**Comprehensive Reference: Prompty Exstension for VS Code**]]"
-  - "[[OpenAI|OpenAI]]"
-  - "[[Azure-OpenAI|Azure OpenAI]]"
-  - "[[Anthropic|Anthropic]]"
-  - "[[Claude-Code|Claude Code]]"
-  - "[[Gemini-Code-Assist|Gemini Code Assist]]"
-  - "[[LangChain|LangChain]]"
-  - "[[Semantic-Kernel|Semantic Kernel]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -156,18 +147,6 @@ importance: medium
 
 **Related concepts:**
 [[Comprehensive-Reference-Prompty-Exstension-for-VS-Code|**Comprehensive Reference: Prompty Exstension for VS Code**]] · [[OpenAI]] · [[Azure-OpenAI|Azure OpenAI]] · [[Anthropic]] · [[Claude-Code|Claude Code]] · [[Gemini-Code-Assist|Gemini Code Assist]] · [[LangChain]] · [[Semantic-Kernel|Semantic Kernel]] · [[Prompt-Flow|Prompt Flow]] · [[Prompt-Flow|Prompt Flow]] · [[LangChain]] · [[Semantic-Kernel|Semantic Kernel]] · [[OpenAI]] · [[Azure-OpenAI|Azure OpenAI]] · [[Anthropic]]
-
-**Related concepts** *(from reference-comprehensive-prompty-exstenion-for-vs-code-2025122805.md)*:
-[[**Comprehensive-Reference:-Prompty-Exstension-for-VS-Code**|**Comprehensive Reference: Prompty Exstension for VS Code**]] * [[Claude-Code|Claude Code]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Semantic-Kernel|Semantic Kernel]] * [[Prompt-Flow|Prompt Flow]] * [[LiteLLM|LiteLLM]] * [[Claude|Claude]] * [[Gemini|Gemini]] * [[Dataview|Dataview]] * [[customer-support.prompty|customer-support.prompty]] * [[error-handling.prompty|error-handling.prompty]] * [[escalation.prompty|escalation.prompty]] * [[Prompt-Engineering|Prompt Engineering]] * [[Version-Control|Version Control]] * [[LLM-Development-Tools|LLM Development Tools]]
-
-**Cross-report connections** *(from reference-comprehensive-prompty-exstenion-for-vs-code-2025122805.md)*:
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[Version-Control|Version Control]]
-- [[Markdown|Markdown]]
-- [[Jinja2|Jinja2]]
-- [[Claude-Code|Claude Code]]
-
-
 
 ## Methodology Notes
 

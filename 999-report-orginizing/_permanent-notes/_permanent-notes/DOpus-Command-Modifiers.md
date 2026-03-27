@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "directory-opus-button-compendium"
-  - "directory-opus-button-compendium.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Directory-Opus|Directory Opus]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[URL]]"
   - "[[ZIP]]"
   - "[[7-Zip]]"
-  - "[[Directory-Opus|Directory Opus]]"
-  - "[[XML|XML]]"
-  - "[[file-management|file management]]"
-  - "[[Markdown|Markdown]]"
-  - "[[command-line|command line]]"
-  - "[[URL|URL]]"
-  - "[[ZIP|ZIP]]"
-  - "[[7-Zip|7-Zip]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -127,10 +118,6 @@ importance: medium
 [[Directory-Opus|Directory Opus]] · [[XML]] · [[file-management|file management]] · [[Markdown]] · [[command-line|command line]] · [[URL]] · [[ZIP]] · [[7-Zip]] · [[EXIF]] · [[PNG]] · [[JPEG]] · [[Command-Prompt|Command Prompt]] · [[PowerShell]] · [[Windows-Terminal|Windows Terminal]] · [[Visual-Studio-Code|Visual Studio Code]]
 
 ---
-
-**Related concepts** *(from directory-opus-button-compendium.md)*:
-[[Directory-Opus|Directory Opus]] * [[file-management|file management]] * [[command-line|command line]] * [[Command-Prompt|Command Prompt]] * [[Windows-Terminal|Windows Terminal]] * [[Visual-Studio-Code|Visual Studio Code]] * [[Obsidian|Obsidian]] * [[WinMerge|WinMerge]] * [[Beyond-Compare|Beyond Compare]] * [[MD5|MD5]] * [[SHA-256|SHA-256]] * [[Recycle-Bin|Recycle Bin]] * [[regex|regex]] * [[Directory-Opus-Scripting|Directory Opus Scripting]] * [[JScript|JScript]]
-
 
 ## Source Attribution
 

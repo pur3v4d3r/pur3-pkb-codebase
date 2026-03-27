@@ -29,7 +29,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Daily Notes]]
+> - **Key-Term**:: [[Daily-Notes]]
 > - **Definition**::
 
 

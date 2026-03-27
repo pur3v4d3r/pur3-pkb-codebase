@@ -46,7 +46,7 @@ related_concepts:
   - "[[Tree-of-Thoughts]]"
   - "[[Retrieval-Augmented-Generation]]"
   - "[[Self-Consistency]]"
-  - "[[Constitutional AI]]"
+  - "[[Constitutional-AI]]"
   - "[[Production Deployment]]"
   - "[[Quality Assurance]]"
 

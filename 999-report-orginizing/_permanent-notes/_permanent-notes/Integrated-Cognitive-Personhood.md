@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-15-the-examined-life-revisited"
-  - "report-15-the-examined-life-revisited.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Eudaimonia]]"
   - "[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]"
   - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
-  - "[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]"
-  - "[[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]]"
-  - "[[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]]"
-  - "[[Predictive-Processing|Predictive Processing]]"
-  - "[[Narrative-Identity|Narrative Identity]]"
-  - "[[Eudaimonia|Eudaimonia]]"
-  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
-  - "[[Socratic-Method|Socratic Method]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -128,11 +119,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] · [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] · [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] · [[Predictive-Processing|Predictive Processing]] · [[Narrative-Identity|Narrative Identity]] · [[Eudaimonia]] · [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] · [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[System-1|System 1]] · [[Fallibilism]] · [[pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Prohairesis]]
-
-**Related concepts** *(from report-15-the-examined-life-revisited.md)*:
-[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] * [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] * [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] * [[Predictive-Processing|Predictive Processing]] * [[Narrative-Identity|Narrative Identity]] * [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[System-1|System 1]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Schema-Theory|Schema Theory]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Stoic-Prosoche|Stoic Prosoche]]
-
+[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] · [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] · [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] · [[Predictive-Processing|Predictive Processing]] · [[Narrative-Identity|Narrative Identity]] · [[Eudaimonia]] · [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] · [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[System-1|System 1]] · [[Fallibilism]] · [[Pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Prohairesis]]
 
 ## Methodology Notes
 

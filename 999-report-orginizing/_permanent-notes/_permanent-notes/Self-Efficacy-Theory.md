@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 37
+referenced-by-count: 27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[22-Framework]]"
   - "[[Achievement-Goal]]"
-  - "[[Attribution-Retraining]]"
   - "[[Attribution-Theory]]"
-  - "[[Calibration-Dependency]]"
-  - "[[Cognitive-Transparency-Assumption]]"
-  - "[[Defensive-Inference]]"
   - "[[Differentiated-Conception-of-Ability]]"
   - "[[Dissolved-Assumption]]"
-  - "[[Distributed-Regulation]]"
+  - "[[Ego-Involvement]]"
+  - "[[Entity-Theory-of-Intelligence]]"
+  - "[[Fixed-Mindset]]"
+  - "[[Goal-Orientation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,22 +60,18 @@ importance: high
 # Self-Efficacy-Theory
 
 > [!definition] **Self-Efficacy-Theory**
-> *Stub note — concept referenced by 37 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 27 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 37 permanent notes.*
+*Auto-generated stub — referenced by 27 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[22-Framework]]
 - [[Achievement-Goal]]
-- [[Attribution-Retraining]]
 - [[Attribution-Theory]]
-- [[Calibration-Dependency]]
-- [[Cognitive-Transparency-Assumption]]
-- [[Defensive-Inference]]
 - [[Differentiated-Conception-of-Ability]]
 - [[Dissolved-Assumption]]
-- [[Distributed-Regulation]]
 - [[Ego-Involvement]]
 - [[Entity-Theory-of-Intelligence]]
 - [[Fixed-Mindset]]
@@ -86,4 +82,8 @@ importance: high
 - [[Mastery-Avoidance-Goal]]
 - [[Mastery-Experience]]
 - [[Mastery-Goal]]
-- *...and 17 more permanent notes*
+- [[Mindset-Intervention]]
+- [[Motivational-Climate]]
+- [[Performance-Approach-Goal]]
+- [[Performance-Avoidance-Goal]]
+- *...and 7 more permanent notes*

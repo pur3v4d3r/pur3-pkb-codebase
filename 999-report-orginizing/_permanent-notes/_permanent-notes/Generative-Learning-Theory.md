@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,9 +42,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "writing-to-learn-focused-analysis-2026-03-21"
-  - "writing-to-learn-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -56,16 +57,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Writing-to-Learn]]"
@@ -76,23 +77,15 @@ see-also:
   - "[[Writing-to-Learn]]"
   - "[[Writing-to-Learn]]"
   - "[[Writing-to-Learn]]"
-  - "[[Writing-to-Learn|Writing-to-Learn]]"
-  - "[[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]]"
-  - "[[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]"
-  - "[[Desirable-Difficulties|Desirable-Difficulties]]"
-  - "[[Generation-Effect|Generation-Effect]]"
-  - "[[Elaborative-Interrogation|Elaborative-Interrogation]]"
-  - "[[Working-Memory|Working-Memory]]"
-  - "[[Fluency-Illusion|Fluency-Illusion]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Self-Explanation-in-PKB-Practice-Chi's-self-explanation-research-is|> [!topic-idea] [[Self-Explanation-in-PKB-Practice]]
@@ -159,10 +152,6 @@ importance: high
 **Related concepts:**
 [[Writing-to-Learn]] · [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] · [[Testing-Effect-Retrieval-Practice-Effect]] · [[Desirable-Difficulties]] · [[Generative-Learning-Theory]] · [[Writing-to-Learn]] · [[Writing-to-Learn]] · [[Writing-to-Learn]] · [[Generative-Learning-Theory]] · [[Generation-Effect]] · [[Elaborative-Interrogation]] · [[Testing-Effect-Retrieval-Practice-Effect]] · [[Desirable-Difficulties]] · [[Working-Memory]] · [[Fluency-Illusion]]
 
-**Related concepts** *(from writing-to-learn-focused-analysis-2026-03-21.md)*:
-[[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] * [[The-Articulatory-Construction-Principle|The-Articulatory-Construction-Principle]] * [[Cognitive-Load-Theory|Cognitive-Load-Theory]] * [[Cognitive-Disequilibrium|Cognitive-Disequilibrium]] * [[Worked-Example-Effect|Worked-Example-Effect]] * [[Active-Note-Making|Active-Note-Making]] * [[Note-Making-vs.-Note-Taking|Note-Making-vs.-Note-Taking]] * [[Epistemic-Actions|Epistemic-Actions]] * [[Self-Explanation-in-PKB-Practice|Self-Explanation-in-PKB-Practice]] * [[AI-Assisted-Writing-and-the-Knowledge-Transformation-Mechanisms|AI-Assisted-Writing-and-the-Knowledge-Transformation-Mechanisms]] * [[The-Fluency-Illusion-in-Knowledge-Management|The-Fluency-Illusion-in-Knowledge-Management]] * [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible]] * [[The-Encoding-Specificity-Principle-and-PKB-Retrieval-Design|The-Encoding-Specificity-Principle-and-PKB-Retrieval-Design]] * [[Encoding-Specificity-Principle|Encoding-Specificity-Principle]]
-
-
 ## References
 
 - **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Erlbaum.**: The foundational text introducing the knowledge-telling/knowledge-transforming distinction. Essential reading for understanding the architectural difference between reproductive and constructive writing processes. Directly supports the Phase II framework and the Phase VI synthesis.
@@ -170,21 +159,6 @@ importance: high
 - **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145-182.**: The foundational self-explanation study showing that students who generate explanations during study dramatically outperform those who do not. Core empirical support for Mechanism 3 in Phase IV.
 - **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4-58.**: The comprehensive synthesis rating summarisation as "low utility" and elaborative interrogation as "moderate utility." Essential evidence for the Phase III argument that common writing strategies underperform their apparent effort.
 - **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing About Knowing*. MIT Press.**: The original theoretical statement of the desirable difficulties framework. Writing from memory and retrieval-writing are specific applications of the broader principle that conditions making encoding harder often make retention better. Supports the mechanism analysis in Phase IV.
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Erlbaum.**: The foundational text introducing the knowledge-telling/knowledge-transforming distinction. Essential reading for understanding the architectural difference between reproductive and constructive writing processes. Directly supports the Phase II framework and the Phase VI synthesis.
-
-- **Wittrock, M. C. (1990). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345-376.**: The definitive theoretical statement of generative learning theory. Argues that learning is a function of the generative relationships produced between new and existing knowledge. Supports the theoretical architecture in Phase II and the mechanism analysis in Phase IV.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145-182.**: The foundational self-explanation study showing that students who generate explanations during study dramatically outperform those who do not. Core empirical support for Mechanism 3 in Phase IV.
-
-- **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4-58.**: The comprehensive synthesis rating summarisation as "low utility" and elaborative interrogation as "moderate utility." Essential evidence for the Phase III argument that common writing strategies underperform their apparent effort.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing About Knowing*. MIT Press.**: The original theoretical statement of the desirable difficulties framework. Writing from memory and retrieval-writing are specific applications of the broader principle that conditions making encoding harder often make retention better. Supports the mechanism analysis in Phase IV.
-
-
-
-
-
 
 ## Methodology Notes
 

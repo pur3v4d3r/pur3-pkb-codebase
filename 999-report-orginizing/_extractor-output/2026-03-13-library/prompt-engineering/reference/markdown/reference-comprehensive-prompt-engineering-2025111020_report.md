@@ -386,7 +386,7 @@ extraction_summary:
 - [[Templater]]
 - [[Templater Advanced Workflows for Obsidian]]
 - [[Tokenization]]
-- [[Transformer Architecture]]
+- [[Transformer-Architecture|Transformer Architecture]]
 - [[Transformer Attention Mechanisms Explained]]
 - [[Zettelkasten]]
 - [[breadth-first search]]
@@ -423,7 +423,7 @@ extraction_summary:
 | 10 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 1️⃣ ⚙️ Foundational Concepts | 55 |
 | 11 | [[natural language processing]] | — | — | The Conceptual Foundation of Prompt E... | 60 |
 | 12 | [[LLM]] | — | — | The Conceptual Foundation of Prompt E... | 60 |
-| 13 | [[Transformer Architecture]] | transformer-based models | — | The Conceptual Foundation of Prompt E... | 62 |
+| 13 | [[Transformer-Architecture|Transformer Architecture]] | transformer-based models | — | The Conceptual Foundation of Prompt E... | 62 |
 | 14 | [[transformer models]] | — | — | How Large Language Models Process Pro... | 72 |
 | 15 | [[Tokenization]] | — | — | How Large Language Models Process Pro... | 74 |
 | 16 | [[Self-attention Mechanism]] | — | — | How Large Language Models Process Pro... | 76 |
@@ -677,7 +677,7 @@ I'll now conduct thorough research to create this comprehensive reference note o
 - [[Templater]]
 - [[Templater Advanced Workflows for Obsidian]]
 - [[Tokenization]]
-- [[Transformer Architecture]]
+- [[Transformer-Architecture|Transformer Architecture]]
 - [[Transformer Attention Mechanisms Explained]]
 - [[Zettelkasten]]
 - [[breadth-first search]]

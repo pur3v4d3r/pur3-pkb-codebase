@@ -327,7 +327,7 @@ extraction_summary:
 #### 8. [DEFINITION] Context Window *(Line 451)*
 
 > [!definition] Context Window
-> [**Context-Window**:: The maximum amount of text (measured in [[Tokens]]) that a language model can process in a single request. For [[Claude 3.5 Sonnet]], this is 200,000 tokens. Effective use of TGP requires understanding how to manage context window usage for both quality and cost optimization.]
+> [**Context-Window**:: The maximum amount of text (measured in [[Tokens]]) that a language model can process in a single request. For [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]], this is 200,000 tokens. Effective use of TGP requires understanding how to manage context window usage for both quality and cost optimization.]
 
 #### 9. [METHODOLOGY-AND-SOURCES] Context Assembly Pattern *(Line 462)*
 
@@ -423,7 +423,7 @@ extraction_summary:
 #### 23. [DEFINITION] Smart Connections *(Line 1124)*
 
 > [!definition] Smart Connections
-> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search|Semantic Search]] using [[AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
+> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search|Semantic Search]] using [[AI-Embeddings|AI Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
 
 #### 24. [IMPORTANT] Embedding Independence *(Line 1166)*
 
@@ -589,7 +589,7 @@ extraction_summary:
 
 - [[<%= note.basename %>]]
 - [[<%= note.path %>]]
-- [[AI Embeddings]]
+- [[AI-Embeddings|AI Embeddings]]
 - [[API]]
 - [[API Concepts]]
 - [[API Cost Optimization Strategies]]
@@ -599,7 +599,7 @@ extraction_summary:
 - [[Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
 - [[Claude]]
-- [[Claude 3.5 Sonnet]]
+- [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]]
 - [[Claude-API|Claude API]]
 - [[Claude-Projects|Claude Projects]]
 - [[Claude.ai]]
@@ -685,7 +685,7 @@ extraction_summary:
 | 37 | [[Prompt-Engineering|Prompt Engineering]] | — | — | When to Use Text Generator | 413 |
 | 38 | [[PKB]] | — | — | The Architecture of AI-Augmented PKB | 431 |
 | 39 | [[Tokens]] | — | — | Context Window Management | 452 |
-| 40 | [[Claude 3.5 Sonnet]] | — | — | Context Window Management | 452 |
+| 40 | [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]] | — | — | Context Window Management | 452 |
 | 41 | [[LLM]] | — | — | Supported Providers | 498 |
 | 42 | [[OpenAI]] | — | — | Supported Providers | 502 |
 | 43 | [[Anthropic]] | — | — | Supported Providers | 503 |
@@ -710,7 +710,7 @@ extraction_summary:
 | 62 | [[wiki-links]] | — | — | Multi-Step Generation Workflows | 1065 |
 | 63 | [[Obsidian]] | — | — | Understanding Smart Connections | 1125 |
 | 64 | [[Semantic-Search|Semantic Search]] | — | — | Understanding Smart Connections | 1125 |
-| 65 | [[AI Embeddings]] | — | — | Understanding Smart Connections | 1125 |
+| 65 | [[AI-Embeddings|AI Embeddings]] | — | — | Understanding Smart Connections | 1125 |
 | 66 | [[wiki-links]] | — | — | Practical Integration Templates | 1232 |
 | 67 | [[wiki-link]] | — | — | Practical Integration Templates | 1241 |
 | 68 | [[<%= note.path %>]] | — | — | Practical Integration Templates | 1280 |
@@ -2006,7 +2006,7 @@ $$
 
 - [[<%= note.basename %>]]
 - [[<%= note.path %>]]
-- [[AI Embeddings]]
+- [[AI-Embeddings|AI Embeddings]]
 - [[API]]
 - [[API Concepts]]
 - [[API Cost Optimization Strategies]]
@@ -2016,7 +2016,7 @@ $$
 - [[Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
 - [[Claude]]
-- [[Claude 3.5 Sonnet]]
+- [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]]
 - [[Claude-API|Claude API]]
 - [[Claude-Projects|Claude Projects]]
 - [[Claude.ai]]

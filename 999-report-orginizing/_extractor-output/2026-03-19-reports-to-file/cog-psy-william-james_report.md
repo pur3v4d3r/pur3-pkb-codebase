@@ -133,7 +133,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Summary *(Line 9)*
 
 > [!abstract] Executive Summary
-> [[William-James|William James]] (1842-1910) stands as a towering figure in the intellectual landscape of modern [[psychology]] and [[philosophy]], whose *Principles of Psychology* (1890) fundamentally transformed our understanding of [[Habit-Formation|habit formation]], [[consciousness]], and mental life. As the inaugural professor of psychology at [[Harvard University]] and a founding architect of [[American-Pragmatism|American pragmatism]], James synthesized insights from [[evolutionary theory]], [[neurology]], and [[phenomenology]] to construct a vision of mind that emphasized [[plasticity]], [[adaptation]], and the primacy of experience. His treatment of habit—conceptualized as neurological pathway formation through repeated experience—anticipated contemporary [[neuroscience]] discoveries by more than a century while simultaneously providing the psychological foundations that profoundly influenced [[John-Dewey|John Dewey]]'s educational philosophy and the broader [[progressive education]] movement.
+> [[William-James|William James]] (1842-1910) stands as a towering figure in the intellectual landscape of modern [[psychology]] and [[philosophy]], whose *Principles of Psychology* (1890) fundamentally transformed our understanding of [[Habit-Formation|habit formation]], [[consciousness]], and mental life. As the inaugural professor of psychology at [[Harvard-University|Harvard University]] and a founding architect of [[American-pragmatism|American pragmatism]], James synthesized insights from [[evolutionary-theory|evolutionary theory]], [[neurology]], and [[phenomenology]] to construct a vision of mind that emphasized [[plasticity]], [[adaptation]], and the primacy of experience. His treatment of habit—conceptualized as neurological pathway formation through repeated experience—anticipated contemporary [[neuroscience]] discoveries by more than a century while simultaneously providing the psychological foundations that profoundly influenced [[John-Dewey|John Dewey]]'s educational philosophy and the broader [[progressive education]] movement.
 
 #### 2. [THE-PHILOSOPHY] Core Philosophy *(Line 14)*
 
@@ -143,7 +143,7 @@ extraction_summary:
 #### 3. [DEFINITION] Functional Psychology *(Line 23)*
 
 > [!definition] Functional Psychology
-> The approach to psychology that emphasizes the adaptive functions of mental processes and consciousness in enabling organisms to survive and thrive in their environments, rather than merely analyzing the structure or contents of mental states. James's functionalism contrasted sharply with [[structuralism]] practiced by [[Edward Titchener]] and instead aligned with [[Darwinian]] evolutionary principles by treating psychological capacities as solutions to adaptive problems.
+> The approach to psychology that emphasizes the adaptive functions of mental processes and consciousness in enabling organisms to survive and thrive in their environments, rather than merely analyzing the structure or contents of mental states. James's functionalism contrasted sharply with [[structuralism]] practiced by [[Edward-Titchener|Edward Titchener]] and instead aligned with [[Darwinian]] evolutionary principles by treating psychological capacities as solutions to adaptive problems.
 
 #### 4. [QUOTE] James on Intellectual Sources *(Line 30)*
 
@@ -163,7 +163,7 @@ extraction_summary:
 #### 7. [EVIDENCE] Empirical Support from Contemporary Sources *(Line 55)*
 
 > [!evidence] Empirical Support from Contemporary Sources
-> James marshaled evidence from diverse sources supporting his plasticity hypothesis, including comparative anatomy demonstrating [[nervous system]] complexity correlates with behavioral flexibility across species, clinical neurology revealing how [[brain lesions]] selectively impair specific habits while preserving others, [[animal training]] studies showing experience-dependent behavioral modification, and everyday observations of [[Skill-Acquisition|skill acquisition]] requiring initial conscious effort that gradually yields to effortless execution. While lacking direct neural evidence, this convergent multi-source approach established habit formation as legitimate scientific phenomenon requiring physiological explanation.
+> James marshaled evidence from diverse sources supporting his plasticity hypothesis, including comparative anatomy demonstrating [[nervous system]] complexity correlates with behavioral flexibility across species, clinical neurology revealing how [[brain lesions]] selectively impair specific habits while preserving others, [[animal-training|animal training]] studies showing experience-dependent behavioral modification, and everyday observations of [[Skill-Acquisition|skill acquisition]] requiring initial conscious effort that gradually yields to effortless execution. While lacking direct neural evidence, this convergent multi-source approach established habit formation as legitimate scientific phenomenon requiring physiological explanation.
 
 #### 8. [CONNECTIONS-AND-LINKS] Integration with Pragmatism *(Line 64)*
 
@@ -213,7 +213,7 @@ extraction_summary:
 #### 17. [CONNECTIONS-AND-LINKS] PKB Integration *(Line 159)*
 
 > [!connections-and-links] PKB Integration
-> This exploration of William James connects to several existing knowledge domains: [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] provides educational applications of Jamesian principles; [[metacognitive-awareness|Metacognitive Awareness]] extends James's attention theory into contemporary frameworks; [[Dual-Process-Theory|Dual Process Theory]] elaborates the automatic-controlled distinction James recognized; [[Cognitive-Load-Theory|Cognitive Load Theory]] formalizes James's insights about attentional limitations; [[Transfer-of-Learning|Transfer of Learning]] addresses the flexibility-stability tension James identified in habit formation. The pragmatist philosophical framework underlying James's psychology also connects to [[Situated Learning Theory]], [[Communities-of-Practice|Communities of Practice]], and [[Sociocultural Approaches]] emphasizing learning as social participation rather than individual information acquisition.
+> This exploration of William James connects to several existing knowledge domains: [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] provides educational applications of Jamesian principles; [[metacognitive-awareness|Metacognitive Awareness]] extends James's attention theory into contemporary frameworks; [[Dual-Process-Theory|Dual Process Theory]] elaborates the automatic-controlled distinction James recognized; [[Cognitive-Load-Theory|Cognitive Load Theory]] formalizes James's insights about attentional limitations; [[Transfer-of-Learning|Transfer of Learning]] addresses the flexibility-stability tension James identified in habit formation. The pragmatist philosophical framework underlying James's psychology also connects to [[Situated-Learning-Theory|Situated Learning Theory]], [[Communities-of-Practice|Communities of Practice]], and [[Sociocultural-Approaches|Sociocultural Approaches]] emphasizing learning as social participation rather than individual information acquisition.
 
 #### 18. [FURTHER-EXPLORATION] Avenues for Continued Investigation *(Line 164)*
 
@@ -289,7 +289,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Alexander Bain]]
-- [[American-Pragmatism|American pragmatism]]
+- [[American-pragmatism|American pragmatism]]
 - [[Associationism]]
 - [[B.F. Skinner]]
 - [[Basic Psychology]]
@@ -313,14 +313,14 @@ extraction_summary:
 - [[Dopamine]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Edward Titchener]]
+- [[Edward-Titchener|Edward Titchener]]
 - [[François-Pierre Maine de Biran]]
 - [[French psychology]]
 - [[German idealism]]
 - [[Gestalt]]
 - [[Gestalt psychology]]
 - [[Gifford Lectures]]
-- [[Harvard University]]
+- [[Harvard-University|Harvard University]]
 - [[Hebbian learning]]
 - [[Hegel]]
 - [[Hegelian idealism]]
@@ -342,14 +342,14 @@ extraction_summary:
 - [[Neuroscience Fundamentals]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Prefrontal cortex]]
 - [[Psychoanalysts]]
 - [[REM sleep]]
 - [[Richard Thaler]]
 - [[Sigmund Freud]]
-- [[Situated Learning Theory]]
-- [[Sociocultural Approaches]]
+- [[Situated-Learning-Theory|Situated Learning Theory]]
+- [[Sociocultural-Approaches|Sociocultural Approaches]]
 - [[Structuralists]]
 - [[The Influence on Gestalt Psychology]]
 - [[The James-Lange Theory of Emotion]]
@@ -366,7 +366,7 @@ extraction_summary:
 - [[activity-dependent plasticity]]
 - [[adaptation]]
 - [[addiction]]
-- [[animal training]]
+- [[animal-training|animal training]]
 - [[anxiety]]
 - [[associationism]]
 - [[Attention]]
@@ -405,7 +405,7 @@ extraction_summary:
 - [[Embodied-Cognition|embodied cognition]]
 - [[embodied emotion]]
 - [[evolutionary]]
-- [[evolutionary theory]]
+- [[evolutionary-theory|evolutionary theory]]
 - [[executive functions]]
 - [[experience]]
 - [[experience-dependent brain development]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[plasticity]]
 - [[practice]]
 - [[pragmatic philosophy]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[prefrontal cortex]]
 - [[problem-based]]
 - [[procedural learning]]
@@ -511,9 +511,9 @@ extraction_summary:
 | 3 | [[philosophy]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 4 | [[Habit-Formation|habit formation]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 5 | [[consciousness]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
-| 6 | [[Harvard University]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
-| 7 | [[American-Pragmatism|American pragmatism]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
-| 8 | [[evolutionary theory]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
+| 6 | [[Harvard-University|Harvard University]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
+| 7 | [[American-pragmatism|American pragmatism]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
+| 8 | [[evolutionary-theory|evolutionary theory]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 9 | [[neurology]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 10 | [[phenomenology]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 11 | [[plasticity]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
@@ -557,7 +557,7 @@ extraction_summary:
 | 49 | [[brain anatomy]] | — | — | 📜 Historical Foundations: From Medici... | 21 |
 | 50 | [[neural structures]] | — | — | 📜 Historical Foundations: From Medici... | 21 |
 | 51 | [[structuralism]] | — | — | 📜 Historical Foundations: From Medici... | 24 |
-| 52 | [[Edward Titchener]] | — | — | 📜 Historical Foundations: From Medici... | 24 |
+| 52 | [[Edward-Titchener|Edward Titchener]] | — | — | 📜 Historical Foundations: From Medici... | 24 |
 | 53 | [[Darwinian]] | — | — | 📜 Historical Foundations: From Medici... | 24 |
 | 54 | [[comparative anatomy]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
 | 55 | [[physiology]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
@@ -580,7 +580,7 @@ extraction_summary:
 | 72 | [[neurology]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 73 | [[brain anatomy]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 74 | [[experimental methods]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
-| 75 | [[pragmatism]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
+| 75 | [[Pragmatism]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 76 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 77 | [[nervous tissue]] | — | — | Layer 1: Foundational Understanding o... | 40 |
 | 78 | [[neural pathways]] | — | — | Layer 1: Foundational Understanding o... | 40 |
@@ -596,7 +596,7 @@ extraction_summary:
 | 88 | [[limited attentional resources]] | — | — | Layer 2: Enrichment and Technical Spe... | 53 |
 | 89 | [[nervous system]] | — | — | Layer 2: Enrichment and Technical Spe... | 56 |
 | 90 | [[brain lesions]] | — | — | Layer 2: Enrichment and Technical Spe... | 56 |
-| 91 | [[animal training]] | — | — | Layer 2: Enrichment and Technical Spe... | 56 |
+| 91 | [[animal-training|animal training]] | — | — | Layer 2: Enrichment and Technical Spe... | 56 |
 | 92 | [[Skill-Acquisition|skill acquisition]] | — | — | Layer 2: Enrichment and Technical Spe... | 56 |
 | 93 | [[adaptation]] | — | — | Layer 3: Integration with Broader Fra... | 60 |
 | 94 | [[evolutionary]] | — | — | Layer 3: Integration with Broader Fra... | 60 |
@@ -638,7 +638,7 @@ extraction_summary:
 | 130 | [[Behaviorists]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 131 | [[John Watson]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 132 | [[Structuralists]] | — | — | Critical Reception and Alternative Fr... | 108 |
-| 133 | [[Edward Titchener]] | — | — | Critical Reception and Alternative Fr... | 108 |
+| 133 | [[Edward-Titchener|Edward Titchener]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 134 | [[Psychoanalysts]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 135 | [[Sigmund Freud]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 136 | [[Gestalt]] | — | — | Critical Reception and Alternative Fr... | 108 |
@@ -706,9 +706,9 @@ extraction_summary:
 | 198 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
 | 199 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
 | 200 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
-| 201 | [[Situated Learning Theory]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
+| 201 | [[Situated-Learning-Theory|Situated Learning Theory]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
 | 202 | [[Communities-of-Practice|Communities of Practice]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
-| 203 | [[Sociocultural Approaches]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
+| 203 | [[Sociocultural-Approaches|Sociocultural Approaches]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 160 |
 | 204 | [[Skill-Acquisition|skill acquisition]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 162 |
 | 205 | [[practice]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 162 |
 | 206 | [[repetition]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 162 |
@@ -745,7 +745,7 @@ extraction_summary:
 | 237 | [[Cass Sunstein]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 238 | [[Educational-Psychology|Educational Psychology]] | — | — | 📚 References & Resources | 217 |
 | 239 | [[History of Psychology]] | — | — | 📚 References & Resources | 217 |
-| 240 | [[pragmatism]] | — | — | 📚 References & Resources | 217 |
+| 240 | [[Pragmatism]] | — | — | 📚 References & Resources | 217 |
 | 241 | [[Basic Psychology]] | — | — | 📚 References & Resources | 220 |
 | 242 | [[Neuroscience Fundamentals]] | — | — | 📚 References & Resources | 220 |
 | 243 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | 📚 References & Resources | 220 |
@@ -782,7 +782,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Alexander Bain]]
-- [[American-Pragmatism|American pragmatism]]
+- [[American-pragmatism|American pragmatism]]
 - [[Associationism]]
 - [[B.F. Skinner]]
 - [[Basic Psychology]]
@@ -806,14 +806,14 @@ extraction_summary:
 - [[Dopamine]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Edward Titchener]]
+- [[Edward-Titchener|Edward Titchener]]
 - [[François-Pierre Maine de Biran]]
 - [[French psychology]]
 - [[German idealism]]
 - [[Gestalt]]
 - [[Gestalt psychology]]
 - [[Gifford Lectures]]
-- [[Harvard University]]
+- [[Harvard-University|Harvard University]]
 - [[Hebbian learning]]
 - [[Hegel]]
 - [[Hegelian idealism]]
@@ -835,14 +835,14 @@ extraction_summary:
 - [[Neuroscience Fundamentals]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Prefrontal cortex]]
 - [[Psychoanalysts]]
 - [[REM sleep]]
 - [[Richard Thaler]]
 - [[Sigmund Freud]]
-- [[Situated Learning Theory]]
-- [[Sociocultural Approaches]]
+- [[Situated-Learning-Theory|Situated Learning Theory]]
+- [[Sociocultural-Approaches|Sociocultural Approaches]]
 - [[Structuralists]]
 - [[The Influence on Gestalt Psychology]]
 - [[The James-Lange Theory of Emotion]]
@@ -859,7 +859,7 @@ extraction_summary:
 - [[activity-dependent plasticity]]
 - [[adaptation]]
 - [[addiction]]
-- [[animal training]]
+- [[animal-training|animal training]]
 - [[anxiety]]
 - [[associationism]]
 - [[Attention]]
@@ -898,7 +898,7 @@ extraction_summary:
 - [[Embodied-Cognition|embodied cognition]]
 - [[embodied emotion]]
 - [[evolutionary]]
-- [[evolutionary theory]]
+- [[evolutionary-theory|evolutionary theory]]
 - [[executive functions]]
 - [[experience]]
 - [[experience-dependent brain development]]
@@ -955,7 +955,7 @@ extraction_summary:
 - [[plasticity]]
 - [[practice]]
 - [[pragmatic philosophy]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[prefrontal cortex]]
 - [[problem-based]]
 - [[procedural learning]]

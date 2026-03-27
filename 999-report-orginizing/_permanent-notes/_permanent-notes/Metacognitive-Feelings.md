@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "metacognition-motivation-foundational-report-2026-03-05"
-  - "metacognition-motivation-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metacognition]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
   - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
   - "[[John-Flavell|John Flavell]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
-  - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
-  - "[[John-Flavell|John Flavell]]"
-  - "[[Ann-Brown|Ann Brown]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -88,7 +81,7 @@ builds-on:
   - "[[Motivation-Theory-Foundational-Report|Motivation Theory Foundational Report]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[A-deep-dive-into-Efklides'-work-on-the-phenomenological-dimension-of-metacogniti|A deep-dive into Efklides' work on the phenomenological dimension of metacognition — how Feelings of]]"
@@ -167,42 +160,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[Metacognition]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] · [[Growth-Mindset-Theory|Growth Mindset Theory]] · [[John-Flavell|John Flavell]] · [[Ann-Brown|Ann Brown]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[Feeling-of-Knowing|Feeling of Knowing]] · [[Ease-of-Learning|Ease of Learning]] · [[Judgment-of-Learning|Judgment of Learning]] · [[Efklides]] · [[Self-Determination-Theory|Self-Determination Theory]]
 
-**Related concepts** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-[[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] * [[Growth-Mindset-Theory|Growth Mindset Theory]] * [[John-Flavell|John Flavell]] * [[Ann-Brown|Ann Brown]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Feeling-of-Knowing|Feeling of Knowing]] * [[Ease-of-Learning|Ease of Learning]] * [[Judgment-of-Learning|Judgment of Learning]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]]
-
-**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Growth-Mindset-Theory|Growth Mindset Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-
-**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Growth-Mindset-Theory|Growth Mindset Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-
-**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Growth-Mindset-Theory|Growth Mindset Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-
-**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Growth-Mindset-Theory|Growth Mindset Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-
-
-
-
-
-
 ## References
 
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
@@ -210,66 +167,6 @@ importance: high
 - **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive statement of Zimmerman's cyclical SRL model. Integrates social-cognitive theory with metacognitive and motivational processes through the three-phase forethought-performance-self-reflection framework. The structural backbone of Phase III and Phase IV.
 - **Borkowski, J. G., Carr, M., Rellinger, E., & Pressley, M. (1990). Self-regulated cognition: Interdependence of metacognition, attributions, and self-esteem. In B. F. Jones & L. Idol (Eds.), *Dimensions of thinking and cognitive instruction* (pp. 53–92). Erlbaum.**: The original statement of the Cognitive-Motivational Model, explicitly positioning metacognition and motivation as co-constitutive. Important for understanding the "bootstrap problem" and why isolated metacognitive skill training fails without attendant motivational development.
 - **Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology*, 82(1), 33–40.**: Landmark empirical study demonstrating that motivational orientation (value, self-efficacy) predicts the quality and depth of self-regulatory strategy use in academic settings. Provides direct empirical support for the Phase IV claim that motivational orientation shapes metacognitive engagement quality.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive statement of Zimmerman's cyclical SRL model. Integrates social-cognitive theory with metacognitive and motivational processes through the three-phase forethought-performance-self-reflection framework. The structural backbone of Phase III and Phase IV.
-
-- **Borkowski, J. G., Carr, M., Rellinger, E., & Pressley, M. (1990). Self-regulated cognition: Interdependence of metacognition, attributions, and self-esteem. In B. F. Jones & L. Idol (Eds.), *Dimensions of thinking and cognitive instruction* (pp. 53–92). Erlbaum.**: The original statement of the Cognitive-Motivational Model, explicitly positioning metacognition and motivation as co-constitutive. Important for understanding the "bootstrap problem" and why isolated metacognitive skill training fails without attendant motivational development.
-
-- **Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology*, 82(1), 33–40.**: Landmark empirical study demonstrating that motivational orientation (value, self-efficacy) predicts the quality and depth of self-regulatory strategy use in academic settings. Provides direct empirical support for the Phase IV claim that motivational orientation shapes metacognitive engagement quality.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive statement of Zimmerman's cyclical SRL model. Integrates social-cognitive theory with metacognitive and motivational processes through the three-phase forethought-performance-self-reflection framework. The structural backbone of Phase III and Phase IV.
-
-- **Borkowski, J. G., Carr, M., Rellinger, E., & Pressley, M. (1990). Self-regulated cognition: Interdependence of metacognition, attributions, and self-esteem. In B. F. Jones & L. Idol (Eds.), *Dimensions of thinking and cognitive instruction* (pp. 53–92). Erlbaum.**: The original statement of the Cognitive-Motivational Model, explicitly positioning metacognition and motivation as co-constitutive. Important for understanding the "bootstrap problem" and why isolated metacognitive skill training fails without attendant motivational development.
-
-- **Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology*, 82(1), 33–40.**: Landmark empirical study demonstrating that motivational orientation (value, self-efficacy) predicts the quality and depth of self-regulatory strategy use in academic settings. Provides direct empirical support for the Phase IV claim that motivational orientation shapes metacognitive engagement quality.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive statement of Zimmerman's cyclical SRL model. Integrates social-cognitive theory with metacognitive and motivational processes through the three-phase forethought-performance-self-reflection framework. The structural backbone of Phase III and Phase IV.
-
-- **Borkowski, J. G., Carr, M., Rellinger, E., & Pressley, M. (1990). Self-regulated cognition: Interdependence of metacognition, attributions, and self-esteem. In B. F. Jones & L. Idol (Eds.), *Dimensions of thinking and cognitive instruction* (pp. 53–92). Erlbaum.**: The original statement of the Cognitive-Motivational Model, explicitly positioning metacognition and motivation as co-constitutive. Important for understanding the "bootstrap problem" and why isolated metacognitive skill training fails without attendant motivational development.
-
-- **Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology*, 82(1), 33–40.**: Landmark empirical study demonstrating that motivational orientation (value, self-efficacy) predicts the quality and depth of self-regulatory strategy use in academic settings. Provides direct empirical support for the Phase IV claim that motivational orientation shapes metacognitive engagement quality.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive statement of Zimmerman's cyclical SRL model. Integrates social-cognitive theory with metacognitive and motivational processes through the three-phase forethought-performance-self-reflection framework. The structural backbone of Phase III and Phase IV.
-
-- **Borkowski, J. G., Carr, M., Rellinger, E., & Pressley, M. (1990). Self-regulated cognition: Interdependence of metacognition, attributions, and self-esteem. In B. F. Jones & L. Idol (Eds.), *Dimensions of thinking and cognitive instruction* (pp. 53–92). Erlbaum.**: The original statement of the Cognitive-Motivational Model, explicitly positioning metacognition and motivation as co-constitutive. Important for understanding the "bootstrap problem" and why isolated metacognitive skill training fails without attendant motivational development.
-
-- **Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology*, 82(1), 33–40.**: Landmark empirical study demonstrating that motivational orientation (value, self-efficacy) predicts the quality and depth of self-regulatory strategy use in academic settings. Provides direct empirical support for the Phase IV claim that motivational orientation shapes metacognitive engagement quality.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

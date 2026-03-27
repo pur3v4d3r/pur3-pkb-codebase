@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-psy-critical-thinking-metacognitive-regulation"
-  - "cog-psy-critical-thinking-metacognitive-regulation.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]"
@@ -72,14 +73,6 @@ see-also:
   - "[[Argumentation-Theory|Argumentation Theory]]"
   - "[[Decision-Theory|Decision Theory]]"
   - "[[Scientific-Method|Scientific Method]]"
-  - "[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]"
-  - "[[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Argumentation-Theory|Argumentation Theory]]"
-  - "[[Decision-Theory|Decision Theory]]"
-  - "[[Scientific-Method|Scientific Method]]"
-  - "[[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +83,7 @@ builds-on:
   - "[[Information-Processing-Models|Information Processing Models]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik|**[[Computational Modeling of Metacognitive Control]]** uses cognitive architectures like ACT-R to s]]"
@@ -184,42 +177,6 @@ importance: high
 **Related concepts:**
 [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] · [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] · [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Argumentation-Theory|Argumentation Theory]] · [[Decision-Theory|Decision Theory]] · [[Scientific-Method|Scientific Method]] · [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] · [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] · [[Introduction-to-Metacognition|Introduction to Metacognition]] · [[Metacognition]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Epistemic-Vigilance|Epistemic Vigilance]] · [[Decision-Making|Decision Making]]
 
-**Related concepts** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
-[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] * [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Argumentation-Theory|Argumentation Theory]] * [[Decision-Theory|Decision Theory]] * [[Scientific-Method|Scientific Method]] * [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] * [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] * [[Introduction-to-Metacognition|Introduction to Metacognition]] * [[Epistemic-Vigilance|Epistemic Vigilance]] * [[Decision-Making|Decision Making]] * [[Cognitive-Biases|Cognitive Biases]] * [[Scientific-Reasoning|Scientific Reasoning]] * [[Argument-Analysis|Argument Analysis]]
-
-**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-
-**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-
-**Cross-report connections** *(from cog-psy-critical-thinking-metacognitive-regulation.md)*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-
-
-
-
-
 ## References
 
 - **Untitled**: **Core Assessment Frameworks:**
@@ -276,35 +233,6 @@ Tiruneh, D. T., Verburgh, A., & Elen, J. (2017). Transfer of critical thinking s
 [Teaching Critical Thinking for Transfer Across Domains](https://pubmed.ncbi.nlm.nih.gov/9572008/)
 
 [Developing and Evaluating the Extended Epistemic Vigilance Framework](https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21983)
-
-- **Untitled**: Bailin, S., Case, R., Coombs, J. R., & Daniels, L. B. (1999). Common misconceptions of critical thinking. *Journal of Curriculum Studies*, *31*(3), 269-283.
-
-Bielik, T., & Krüger, D. (2024). Developing and evaluating the extended epistemic vigilance framework. *Journal of Research in Science Teaching*. Advance online publication.
-
-Dwyer, C. P., Boswell, A., & Elliott, J. (2015). An evaluation of critical thinking competencies in business settings. *Journal of Education for Business*, *90*(5), 260-269.
-
-Halpern, D. F. (1998). Teaching critical thinking for transfer across domains: Disposition, skills, structure training, and metacognitive monitoring. *American Psychologist*, *53*(4), 449-455.
-
-Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, *26*, 125-173.
-
-Rivas, S. F., & Saiz, C. (2012). Validación y propiedades psicométricas de la prueba de pensamiento crítico PENCRISAL. *Revista Electrónica de Metodología Aplicada*, *17*(1), 18-34.
-
-Saiz, C., & Rivas, S. F. (2015). The effects of teaching critical thinking persist over time. *Journal of Educational and Developmental Psychology*, *5*(2), 242-250.
-
-Schraw, G., & Dennison, R. S. (1994). Assessing metacognitive awareness. *Contemporary Educational Psychology*, *19*(4), 460-475.
-
-Sperber, D., Clément, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). Epistemic vigilance. *Mind & Language*, *25*(4), 359-393.
-
-Tiruneh, D. T., Verburgh, A., & Elen, J. (2017). Transfer of critical thinking skills across domains: Implicit or explicit instructional approaches? *International Journal of Educational Research*, *86*, 22-32.
-
-[Assessing Higher Education Students' Critical Thinking with the PENCRISAL Test - Portuguese Short Version](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1196794/full)
-
-[Validation of Metacognitive Awareness Inventory from a Private Medical University in India](https://pmc.ncbi.nlm.nih.gov/articles/PMC8552251/)
-
-[Teaching Critical Thinking for Transfer Across Domains](https://pubmed.ncbi.nlm.nih.gov/9572008/)
-
-[Developing and Evaluating the Extended Epistemic Vigilance Framework](https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21983)
-
 
 ## Methodology Notes
 

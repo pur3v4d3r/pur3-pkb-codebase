@@ -545,7 +545,7 @@ The technique's applicability boundaries also deserve emphasis. [[Self-Consisten
 
 **Depth Potential**: Warrants comprehensive coverage of verification techniques (logical validators, step-by-step checking, external computation, retrieval verification) and when verification-based selection outperforms voting-based consensus.
 
-**Knowledge Graph Role**: Represents alternative paradigm to ensemble aggregation, connecting to [[Automated Theorem Proving]], [[Logical Reasoning]], and [[Program Synthesis]] verification methods.
+**Knowledge Graph Role**: Represents alternative paradigm to ensemble aggregation, connecting to [[Automated Theorem Proving]], [[Logical-Reasoning]], and [[Program Synthesis]] verification methods.
 
 **Priority**: **High** — Particularly relevant for domains where correctness verification is computationally cheaper than generating many samples.
 

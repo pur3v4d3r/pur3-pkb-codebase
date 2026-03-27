@@ -176,7 +176,7 @@ extraction_summary:
 #### 10. [ANALOGY] Untitled *(Line 92)*
 
 > [!analogy] Untitled
-> The elenctic mechanism is architecturally similar to what the cognitive scientist [[Piaget]] called [[Cognitive Dissonance]] (though historically predating and conceptually preceding it): the state of tension that arises when a new piece of information or argument conflicts with existing cognitive structures. Just as a software debugger does not tell you the correct code but reveals the lines that conflict with the expected output, the Socratic questioner does not provide answers but reveals the points at which the interlocutor's beliefs generate contradictions. The resolution of those contradictions—cognitive *accommodation* in Piaget's vocabulary—is where genuine learning occurs.
+> The elenctic mechanism is architecturally similar to what the cognitive scientist [[Piaget]] called [[cognitive-dissonance|Cognitive Dissonance]] (though historically predating and conceptually preceding it): the state of tension that arises when a new piece of information or argument conflicts with existing cognitive structures. Just as a software debugger does not tell you the correct code but reveals the lines that conflict with the expected output, the Socratic questioner does not provide answers but reveals the points at which the interlocutor's beliefs generate contradictions. The resolution of those contradictions—cognitive *accommodation* in Piaget's vocabulary—is where genuine learning occurs.
 
 #### 11. [EVIDENCE] Untitled *(Line 99)*
 
@@ -349,7 +349,7 @@ extraction_summary:
 - [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
-- [[Cognitive Dissonance]]
+- [[cognitive-dissonance|Cognitive Dissonance]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
@@ -437,7 +437,7 @@ extraction_summary:
 | 24 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 77 |
 | 25 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 82 |
 | 26 | [[Piaget]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 93 |
-| 27 | [[Cognitive Dissonance]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 93 |
+| 27 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 93 |
 | 28 | [[Metacognition]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 95 |
 | 29 | [[Mark McDaniel]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 97 |
 | 30 | [[Testing-Effect|Testing Effect]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 97 |
@@ -563,7 +563,7 @@ $$
 - [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
-- [[Cognitive Dissonance]]
+- [[cognitive-dissonance|Cognitive Dissonance]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]

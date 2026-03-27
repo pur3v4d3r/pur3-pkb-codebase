@@ -23,8 +23,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,10 +37,10 @@ referenced-by-count: 11
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Cue-Validity]]"
   - "[[Metacognitive-Infrastructure]]"
   - "[[Monitoring-Gap]]"
-  - "[[Motivational-Regulation]]"
   - "[[Phenomenological-Substitution]]"
   - "[[Regulatory-Poverty]]"
   - "[[Regulatory-Threshold]]"
@@ -65,10 +65,10 @@ importance: medium
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Cue-Validity]]
 - [[Metacognitive-Infrastructure]]
 - [[Monitoring-Gap]]
-- [[Motivational-Regulation]]
 - [[Phenomenological-Substitution]]
 - [[Regulatory-Poverty]]
 - [[Regulatory-Threshold]]

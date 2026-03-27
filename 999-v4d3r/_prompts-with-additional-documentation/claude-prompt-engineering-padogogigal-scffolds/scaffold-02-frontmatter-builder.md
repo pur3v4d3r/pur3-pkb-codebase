@@ -258,7 +258,7 @@ modified: 2025-01-15
 status: evergreen
 certainty: confident
 type: reference
-related: [[Obsidian Plugins MOC]], [[DataviewJS]], [[Inline Fields]], [[Query Syntax]]
+related: [[Obsidian Plugins MOC]], [[DataviewJS]], [[Inline-Fields]], [[Query Syntax]]
 source: https://blacksmithgu.github.io/obsidian-dataview/
 ---
 ```
@@ -273,7 +273,7 @@ created: 2025-01-01
 modified: 2025-01-15
 status: evergreen
 type: moc
-related: [[Cognitive Science MOC]], [[AI Development MOC]], [[Learning Theory MOC]]
+related: [[cognitive-science-moc]], [[AI Development MOC]], [[Learning Theory MOC]]
 ---
 ```
 

@@ -327,7 +327,7 @@ extraction_summary:
 #### 10. [EVIDENCE] Professional Decision-Making Impacts (Saposnik et al., 2016) *(Line 488)*
 
 > [!evidence] Professional Decision-Making Impacts (Saposnik et al., 2016)
-> A comprehensive review of cognitive bias research in four professional domains found: (1) <span style='color: #FFC700;'>**Management**</span>—risky-choice framing effects and CEO overconfidence systematically degrade strategic decisions; (2) <span style='color: #FFC700;'>**Finance**</span>—overconfidence and [[disposition effect]] (loss aversion consequence) impair investor performance; (3) <span style='color: #FFC700;'>**Medicine**</span>—anchoring effects, information bias, and overconfidence associate with diagnostic inaccuracies and therapeutic errors; (4) <span style='color: #FFC700;'>**Law**</span>—hindsight bias, anchoring, and framing effects influence judicial decision-making. Critically, <span style='background-color: #FF00DC40; color: #FF00DC;'>professional expertise and domain knowledge do not confer immunity to these biases</span>—in some cases, they provide false confidence enabling more consequential errors.
+> A comprehensive review of cognitive bias research in four professional domains found: (1) <span style='color: #FFC700;'>**Management**</span>—risky-choice framing effects and CEO overconfidence systematically degrade strategic decisions; (2) <span style='color: #FFC700;'>**Finance**</span>—overconfidence and [[disposition-effect|disposition effect]] (loss aversion consequence) impair investor performance; (3) <span style='color: #FFC700;'>**Medicine**</span>—anchoring effects, information bias, and overconfidence associate with diagnostic inaccuracies and therapeutic errors; (4) <span style='color: #FFC700;'>**Law**</span>—hindsight bias, anchoring, and framing effects influence judicial decision-making. Critically, <span style='background-color: #FF00DC40; color: #FF00DC;'>professional expertise and domain knowledge do not confer immunity to these biases</span>—in some cases, they provide false confidence enabling more consequential errors.
 
 #### 11. [EVIDENCE] Debt and Cognitive Functioning (Tay et al., 2017) *(Line 505)*
 
@@ -342,7 +342,7 @@ extraction_summary:
 #### 13. [KEY-CLAIM] Identity Protection Mechanisms *(Line 547)*
 
 > [!key-claim] Identity Protection Mechanisms
-> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition effect]] and [[sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
+> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive-dissonance|cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect|disposition effect]] and [[sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
 
 #### 14. [ATTENTION] Echo Chamber Dynamics *(Line 560)*
 
@@ -516,7 +516,7 @@ extraction_summary:
 - [[Neural-Plasticity|Neural Plasticity]]
 - [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]
 - [[Overconfidence bias]]
-- [[Personal Development]]
+- [[Personal-Development|Personal Development]]
 - [[Pre-mortem analysis]]
 - [[Psychopathology]]
 - [[Red team exercises]]
@@ -537,7 +537,7 @@ extraction_summary:
 - [[Cognitive-Bias|cognitive bias]]
 - [[Cognitive-Biases|cognitive biases]]
 - [[Cognitive-Debt|cognitive debt]]
-- [[cognitive dissonance]]
+- [[cognitive-dissonance|cognitive dissonance]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
 - [[cognitive restructuring]]
 - [[Cognitive-Science|cognitive science]]
@@ -549,7 +549,7 @@ extraction_summary:
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|debiasing]]
 - [[developmental psychology]]
-- [[disposition effect]]
+- [[disposition-effect|disposition effect]]
 - [[ego-defensive bias]]
 - [[evolutionary psychology]]
 - [[expertise development]]
@@ -558,7 +558,7 @@ extraction_summary:
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Habit-Formation|habit formation]]
 - [[heuristics]]
-- [[human cognition]]
+- [[human-cognition|human cognition]]
 - [[hypothalamic-pituitary-adrenal axis]]
 - [[identity formation]]
 - [[impostor syndrome]]
@@ -605,7 +605,7 @@ extraction_summary:
 - [[System-2|system 2]]
 - [[system-justification theory]]
 - [[systems theory]]
-- [[technical debt]]
+- [[technical-debt|technical debt]]
 - [[trait conscientiousness]]
 - [[trauma]]
 
@@ -616,13 +616,13 @@ extraction_summary:
 | 1 | [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] | — | — | Document Start | 39 |
 | 2 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 3 | [[Decision-Making]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
-| 4 | [[Personal Development]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
+| 4 | [[Personal-Development|Personal Development]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 6 | [[Metacognition]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 7 | [[Cognitive-Biases|cognitive biases]] | — | — | 🧠 Cognitive Debt: The Compounding Neg... | 387 |
 | 8 | [[Cognitive-Debt|cognitive debt]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
-| 9 | [[technical debt]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
-| 10 | [[human cognition]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
+| 9 | [[technical-debt|technical debt]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
+| 10 | [[human-cognition|human cognition]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
 | 11 | [[heuristics]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 12 | [[Cognitive-Biases|cognitive biases]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 13 | [[system-justification theory]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
@@ -643,15 +643,15 @@ extraction_summary:
 | 28 | [[interpretation bias]] | — | — | Adolescent Vulnerability: Critical Wi... | 467 |
 | 29 | [[memory bias]] | — | — | Adolescent Vulnerability: Critical Wi... | 467 |
 | 30 | [[negative interpretation bias]] | — | — | Adolescent Vulnerability: Critical Wi... | 469 |
-| 31 | [[disposition effect]] | — | — | Adult Trajectories: Career, Relations... | 489 |
+| 31 | [[disposition-effect|disposition effect]] | — | — | Adult Trajectories: Career, Relations... | 489 |
 | 32 | [[groupthink]] | — | — | Adult Trajectories: Career, Relations... | 496 |
 | 33 | [[optimism bias]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
 | 34 | [[present bias]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
 | 35 | [[sunk cost fallacy]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
 | 36 | [[belief schema]] | — | — | Self-Reinforcement Through Selective ... | 533 |
-| 37 | [[cognitive dissonance]] | — | — | Identity Integration: When Biases Bec... | 548 |
+| 37 | [[cognitive-dissonance|cognitive dissonance]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 38 | [[self-verification theory]] | — | — | Identity Integration: When Biases Bec... | 548 |
-| 39 | [[disposition effect]] | — | — | Identity Integration: When Biases Bec... | 548 |
+| 39 | [[disposition-effect|disposition effect]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 40 | [[sunk cost fallacy]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 41 | [[Identity Formation]] | — | — | Identity Integration: When Biases Bec... | 553 |
 | 42 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Reinforcement: Echo Cha... | 558 |
@@ -677,7 +677,7 @@ extraction_summary:
 | 62 | [[System-2|system 2]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
 | 63 | [[System-1|system 1]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
 | 64 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 666 |
-| 65 | [[cognitive dissonance]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
+| 65 | [[cognitive-dissonance|cognitive dissonance]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
 | 66 | [[Cognitive-Behavioral-Therapy|cognitive-behavioral therapy]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
 | 67 | [[cognitive restructuring]] | — | — | Tertiary Prevention: Structured Debt ... | 681 |
 | 68 | [[Metacognitive-Capacity|Metacognitive Capacity]] | — | — | Tertiary Prevention: Structured Debt ... | 693 |
@@ -1454,7 +1454,7 @@ $$
 - [[Neural-Plasticity|Neural Plasticity]]
 - [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]
 - [[Overconfidence bias]]
-- [[Personal Development]]
+- [[Personal-Development|Personal Development]]
 - [[Pre-mortem analysis]]
 - [[Psychopathology]]
 - [[Red team exercises]]
@@ -1475,7 +1475,7 @@ $$
 - [[Cognitive-Bias|cognitive bias]]
 - [[Cognitive-Biases|cognitive biases]]
 - [[Cognitive-Debt|cognitive debt]]
-- [[cognitive dissonance]]
+- [[cognitive-dissonance|cognitive dissonance]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
 - [[cognitive restructuring]]
 - [[Cognitive-Science|cognitive science]]
@@ -1487,7 +1487,7 @@ $$
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|debiasing]]
 - [[developmental psychology]]
-- [[disposition effect]]
+- [[disposition-effect|disposition effect]]
 - [[ego-defensive bias]]
 - [[evolutionary psychology]]
 - [[expertise development]]
@@ -1496,7 +1496,7 @@ $$
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Habit-Formation|habit formation]]
 - [[heuristics]]
-- [[human cognition]]
+- [[human-cognition|human cognition]]
 - [[hypothalamic-pituitary-adrenal axis]]
 - [[identity formation]]
 - [[impostor syndrome]]
@@ -1543,7 +1543,7 @@ $$
 - [[System-2|system 2]]
 - [[system-justification theory]]
 - [[systems theory]]
-- [[technical debt]]
+- [[technical-debt|technical debt]]
 - [[trait conscientiousness]]
 - [[trauma]]
 

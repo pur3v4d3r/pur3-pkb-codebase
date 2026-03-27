@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-07-the-self-directed-learner"
-  - "report-07-the-self-directed-learner.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Constructivism]]"
   - "[[Jean-Piaget|Jean Piaget]]"
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Barry-Zimmerman|Barry Zimmerman]]"
-  - "[[Paul-Pintrich|Paul Pintrich]]"
-  - "[[Winne-and-Hadwin|Winne and Hadwin]]"
-  - "[[Constructivism|Constructivism]]"
-  - "[[Jean-Piaget|Jean Piaget]]"
-  - "[[Jerome-Bruner|Jerome Bruner]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -126,10 +117,6 @@ importance: high
 
 **Related concepts:**
 [[Lev-Vygotsky|Lev Vygotsky]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Winne-and-Hadwin|Winne and Hadwin]] · [[Constructivism]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Jerome-Bruner|Jerome Bruner]] · [[SDT-Internalization-Continuum|SDT Internalization Continuum]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Metacognitive-Strategy|Metacognitive Strategy]] · [[Gregory-Schraw|Gregory Schraw]] · [[Lovett-et-al.|Lovett et al.]] · [[Self-Regulated-Learning|Self-Regulated Learning]]
-
-**Related concepts** *(from report-07-the-self-directed-learner.md)*:
-[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
-
 
 ## Methodology Notes
 

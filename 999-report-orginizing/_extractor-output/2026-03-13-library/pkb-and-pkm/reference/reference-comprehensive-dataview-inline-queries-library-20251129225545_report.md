@@ -343,7 +343,7 @@ extraction_summary:
 #### 24. [WHAT-THIS-DOES] Untitled *(Line 519)*
 
 > [!what-this-does] Untitled
-> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter|YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.
+> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter|YAML Frontmatter]] or [[Inline-Fields|Inline Fields]]. Essential for template validation and metadata quality control.
 
 #### 25. [METHODOLOGY-AND-SOURCES] Untitled *(Line 529)*
 
@@ -503,12 +503,12 @@ extraction_summary:
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Essay Part 1]]
 - [[Essay Part 2]]
-- [[File Properties]]
+- [[File-Properties|File Properties]]
 - [[Folder Structure]]
 - [[Frontmatter]]
 - [[Implicit Fields]]
-- [[Inline Fields]]
-- [[Inline Queries]]
+- [[Inline-Fields|Inline Fields]]
+- [[Inline-Queries|Inline Queries]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Linked Note]]
 - [[Maps-of-Content-—-MOCs|MOC]]
@@ -545,14 +545,14 @@ extraction_summary:
 | 1 | [[Dataview Inline Query Taxonomy]] | — | — | Dataview Inline Query Taxonomy | 41 |
 | 2 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking: | 254 |
 | 3 | [[Obsidian]] | — | — | Claude Thinking: | 255 |
-| 4 | [[Inline Queries]] | — | — | Claude Thinking: | 256 |
+| 4 | [[Inline-Queries|Inline Queries]] | — | — | Claude Thinking: | 256 |
 | 5 | [[Dataview Expressions]] | — | — | Claude Thinking: | 257 |
 | 6 | [[Metadata]] | — | — | Claude Thinking: | 258 |
 | 7 | [[Frontmatter]] | — | — | Claude Thinking: | 259 |
 | 8 | [[Zettelkasten]] | — | — | Claude Thinking: | 260 |
 | 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Claude Thinking: | 261 |
 | 10 | [[Templater Plugin]] | — | — | Claude Thinking: | 262 |
-| 11 | [[File Properties]] | — | — | Claude Thinking: | 263 |
+| 11 | [[File-Properties|File Properties]] | — | — | Claude Thinking: | 263 |
 | 12 | [[wiki-links]] | — | — | Claude Thinking: | 264 |
 | 13 | [[Backlinks]] | — | — | Claude Thinking: | 265 |
 | 14 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Claude Thinking: | 266 |
@@ -576,7 +576,7 @@ extraction_summary:
 | 32 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Link Counting | 469 |
 | 33 | [[Zettelkasten]] | — | — | 🔍 Specific Link Access | 495 |
 | 34 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | ✅ Field Existence Checks | 520 |
-| 35 | [[Inline Fields]] | — | — | ✅ Field Existence Checks | 520 |
+| 35 | [[Inline-Fields|Inline Fields]] | — | — | ✅ Field Existence Checks | 520 |
 | 36 | [[Metadata]] | — | — | 5. 🧮 Mathematical & Computational Que... | 559 |
 | 37 | [[Project Management]] | — | — | 📊 Percentage Calculations | 579 |
 | 38 | [[Implicit Fields]] | — | — | ✅ Task Counting | 624 |
@@ -620,7 +620,7 @@ extraction_summary:
 | 76 | [[QuickAdd]] | — | — | 🔗 Related Topics for PKB Expansion | 1045 |
 | 77 | [[Metadata Schema Design for PKBs]] | — | — | 🔗 Related Topics for PKB Expansion | 1048 |
 | 78 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 1050 |
-| 79 | [[Inline Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1050 |
+| 79 | [[Inline-Fields|Inline Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1050 |
 
 ---
 
@@ -1256,12 +1256,12 @@ LIMIT 15
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Essay Part 1]]
 - [[Essay Part 2]]
-- [[File Properties]]
+- [[File-Properties|File Properties]]
 - [[Folder Structure]]
 - [[Frontmatter]]
 - [[Implicit Fields]]
-- [[Inline Fields]]
-- [[Inline Queries]]
+- [[Inline-Fields|Inline Fields]]
+- [[Inline-Queries|Inline Queries]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Linked Note]]
 - [[Maps-of-Content-—-MOCs|MOC]]

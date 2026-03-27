@@ -145,7 +145,7 @@ extraction_summary:
 #### 1. [OVERVIEW] Untitled *(Line 39)*
 
 > [!overview] Untitled
-> - **Title**:: [[Dataview Task Query Reference]]
+> - **Title**:: [[Dataview-Task-Query-Reference|Dataview Task Query Reference]]
 > - **Prompt/Topic Used**:: 
 > - **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -196,7 +196,7 @@ extraction_summary:
 #### 8. [ABSTRACT] Executive Overview *(Line 223)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin|Dataview Plugin]] queries for [[Task-Management|Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin|Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
+> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin|Dataview Plugin]] queries for [[Task-Management|Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin|Tasks Plugin]], [[Inline-Fields|Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
 
 #### 9. [DEFINITION] TASK Query Type Fundamentals *(Line 232)*
 
@@ -211,7 +211,7 @@ extraction_summary:
 #### 11. [HELPFUL-TIP] Custom Inline Fields in Tasks *(Line 278)*
 
 > [!helpful-tip] Custom Inline Fields in Tasks
-> You can extend task metadata using [[Inline Fields]] syntax:
+> You can extend task metadata using [[Inline-Fields|Inline Fields]] syntax:
 > ```
 > - [ ] Implement auth system [priority:: high] [estimated:: 5h] [sprint:: 12]
 > ```
@@ -312,7 +312,7 @@ extraction_summary:
 > 
 > **What it does:** Creates a TABLE view grouped by priority level (Highest → High → Normal → Low → Lowest) with intelligent sorting
 > 
-> **Use case:** [[Priority Management]] dashboard for weekly planning
+> **Use case:** [[Priority-Management|Priority Management]] dashboard for weekly planning
 > 
 > **Priority Emoji Reference:**
 > - `⏫` = Highest
@@ -407,7 +407,7 @@ extraction_summary:
 > LIMIT 10
 > ```
 > 
-> **What it does:** Shows tasks from the 10 most recent [[Daily Notes]], grouped by date
+> **What it does:** Shows tasks from the 10 most recent [[Daily-Notes|Daily Notes]], grouped by date
 > 
 > **Use case:** "What did I capture this week?" review / task audit
 
@@ -438,7 +438,7 @@ extraction_summary:
 > SORT estimated DESC
 > ```
 > 
-> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline Fields]]
+> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline-Fields|Inline Fields]]
 > 
 > **Use case:** [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / capacity planning / velocity tracking
 > 
@@ -536,7 +536,7 @@ extraction_summary:
 > 
 > **What it does:** Filters out tasks in "waiting" or "someday/maybe" categories
 > 
-> **Use case:** Actionable task list (excluding deferred items per [[GTD Workflow]])
+> **Use case:** Actionable task list (excluding deferred items per [[GTD-Workflow|GTD Workflow]])
 
 #### 28. [METHODOLOGY-AND-SOURCES] DataviewJS for Tasks *(Line 612)*
 
@@ -729,7 +729,7 @@ extraction_summary:
 > 
 > **What this creates:** A comprehensive daily note with live-updating task views
 > 
-> **Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual
+> **Use case:** [[Daily-Notes|Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual
 
 #### 37. [HELPFUL-TIP] Query Performance Best Practices *(Line 855)*
 
@@ -918,28 +918,28 @@ extraction_summary:
 - [[Bob]]
 - [[Carol]]
 - [[DQL]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dashboard Design Principles for PKM]]
 - [[Data Visualization]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Techniques]]
-- [[Dataview Task Query Reference]]
+- [[Dataview-Task-Query-Reference|Dataview Task Query Reference]]
 - [[DataviewJS]]
 - [[DataviewJS Custom Functions Library]]
-- [[Date Functions]]
+- [[Date-Functions|Date Functions]]
 - [[Functional Programming]]
-- [[GROUP BY]]
-- [[GTD Workflow]]
+- [[GROUP-BY|GROUP BY]]
+- [[GTD-Workflow|GTD Workflow]]
 - [[Information-Architecture|Information Architecture]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[JavaScript]]
 - [[JavaScript Performance]]
 - [[Note]]
 - [[Obsidian]]
 - [[Obsidian API]]
 - [[Obsidian Architecture]]
-- [[Priority Management]]
+- [[Priority-Management|Priority Management]]
 - [[Productivity Systems]]
 - [[Project Alpha]]
 - [[Project Beta]]
@@ -951,28 +951,28 @@ extraction_summary:
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Advanced Workflows]]
 - [[User Interface Design]]
-- [[WHERE Clause]]
+- [[WHERE-Clause|WHERE Clause]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Dataview Task Query Reference]] | — | — | Dataview Task Query Reference | 40 |
+| 1 | [[Dataview-Task-Query-Reference|Dataview Task Query Reference]] | — | — | Dataview Task Query Reference | 40 |
 | 2 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 185 |
 | 3 | [[Task-Management|Task Management]] | — | — | Claude Thinking | 186 |
 | 4 | [[DQL]] | — | — | Claude Thinking | 187 |
 | 5 | [[DataviewJS]] | — | — | Claude Thinking | 188 |
 | 6 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Claude Thinking | 189 |
 | 7 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Claude Thinking | 190 |
-| 8 | [[Inline Fields]] | — | — | Claude Thinking | 191 |
-| 9 | [[Daily Notes]] | — | — | Claude Thinking | 192 |
-| 10 | [[WHERE Clause]] | — | — | Claude Thinking | 193 |
-| 11 | [[GROUP BY]] | — | — | Claude Thinking | 194 |
-| 12 | [[Date Functions]] | — | — | Claude Thinking | 195 |
-| 13 | [[Priority Management]] | — | — | Claude Thinking | 196 |
+| 8 | [[Inline-Fields|Inline Fields]] | — | — | Claude Thinking | 191 |
+| 9 | [[Daily-Notes|Daily Notes]] | — | — | Claude Thinking | 192 |
+| 10 | [[WHERE-Clause|WHERE Clause]] | — | — | Claude Thinking | 193 |
+| 11 | [[GROUP-BY|GROUP BY]] | — | — | Claude Thinking | 194 |
+| 12 | [[Date-Functions|Date Functions]] | — | — | Claude Thinking | 195 |
+| 13 | [[Priority-Management|Priority Management]] | — | — | Claude Thinking | 196 |
 | 14 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Claude Thinking | 197 |
-| 15 | [[GTD Workflow]] | — | — | Claude Thinking | 198 |
+| 15 | [[GTD-Workflow|GTD Workflow]] | — | — | Claude Thinking | 198 |
 | 16 | [[Dashboard-Design|Dashboard Design]] | — | — | Claude Thinking | 199 |
 | 17 | [[Query Performance]] | — | — | Claude Thinking | 200 |
 | 18 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 224 |
@@ -981,27 +981,27 @@ extraction_summary:
 | 21 | [[DQL]] | — | — | Claude Thinking | 224 |
 | 22 | [[DataviewJS]] | — | — | Claude Thinking | 224 |
 | 23 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Claude Thinking | 224 |
-| 24 | [[Inline Fields]] | — | — | Claude Thinking | 224 |
+| 24 | [[Inline-Fields|Inline Fields]] | — | — | Claude Thinking | 224 |
 | 25 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Claude Thinking | 224 |
 | 26 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🎯Core Concepts | 233 |
 | 27 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Task-Specific Implicit Fields | 258 |
 | 28 | [[Note]] | — | Section | Task-Specific Implicit Fields | 274 |
 | 29 | [[Note]] | — | ^task-id | Task-Specific Implicit Fields | 275 |
-| 30 | [[Inline Fields]] | — | — | Task-Specific Implicit Fields | 279 |
+| 30 | [[Inline-Fields|Inline Fields]] | — | — | Task-Specific Implicit Fields | 279 |
 | 31 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 2. Priority & Urgency Queries | 351 |
-| 32 | [[Priority Management]] | — | — | 2. Priority & Urgency Queries | 384 |
+| 32 | [[Priority-Management|Priority Management]] | — | — | 2. Priority & Urgency Queries | 384 |
 | 33 | [[Project X]] | — | — | 4. Project & Context Queries | 448 |
 | 34 | [[Project Alpha]] | — | — | 4. Project & Context Queries | 460 |
 | 35 | [[Project Beta]] | — | — | 4. Project & Context Queries | 461 |
-| 36 | [[Daily Notes]] | — | — | 4. Project & Context Queries | 479 |
-| 37 | [[Inline Fields]] | — | — | 5. Custom Metadata Queries | 510 |
+| 36 | [[Daily-Notes|Daily Notes]] | — | — | 4. Project & Context Queries | 479 |
+| 37 | [[Inline-Fields|Inline Fields]] | — | — | 5. Custom Metadata Queries | 510 |
 | 38 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | 5. Custom Metadata Queries | 512 |
 | 39 | [[Alice]] | — | — | 5. Custom Metadata Queries | 544 |
 | 40 | [[Bob]] | — | — | 5. Custom Metadata Queries | 545 |
 | 41 | [[Carol]] | — | — | 5. Custom Metadata Queries | 546 |
 | 42 | [[Blocked]] | — | — | 6. Advanced Filtering Patterns | 562 |
 | 43 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 6. Advanced Filtering Patterns | 583 |
-| 44 | [[GTD Workflow]] | — | — | 6. Advanced Filtering Patterns | 606 |
+| 44 | [[GTD-Workflow|GTD Workflow]] | — | — | 6. Advanced Filtering Patterns | 606 |
 | 45 | [[DataviewJS]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 46 | [[DQL]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 47 | [[Dashboard-Design|Dashboard Design]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
@@ -1011,8 +1011,8 @@ extraction_summary:
 | 51 | [[Q4 Planning]] | — | — | Tasks Plugin Compatibility | 803 |
 | 52 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 807 |
 | 53 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 808 |
-| 54 | [[Inline Fields]] | — | — | Tasks Plugin Compatibility | 809 |
-| 55 | [[Daily Notes]] | — | — | Daily Notes Integration | 849 |
+| 54 | [[Inline-Fields|Inline Fields]] | — | — | Tasks Plugin Compatibility | 809 |
+| 55 | [[Daily-Notes|Daily Notes]] | — | — | Daily Notes Integration | 849 |
 | 56 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Daily Notes Integration | 849 |
 | 57 | [[Project Name]] | — | — | Project Task Board | 994 |
 | 58 | [[Project Name]] | — | — | Project Task Board | 1004 |
@@ -1025,7 +1025,7 @@ extraction_summary:
 | 65 | [[JavaScript Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 66 | [[Tasks Plugin Advanced Workflows]] | — | — | 🔗 Related Topics for PKB Expansion | 1038 |
 | 67 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
-| 68 | [[GTD Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
+| 68 | [[GTD-Workflow|GTD Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 69 | [[Productivity Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 70 | [[DataviewJS Custom Functions Library]] | — | — | 🔗 Related Topics for PKB Expansion | 1043 |
 | 71 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
@@ -1313,7 +1313,7 @@ LIMIT <number>
 
 ```plaintext
 > 
-> **What it does:** Shows tasks from the 10 most recent [[Daily Notes]], grouped by date
+> **What it does:** Shows tasks from the 10 most recent [[Daily-Notes|Daily Notes]], grouped by date
 > 
 > **Use case:** "What did I capture this week?" review / task audit
 
@@ -1343,7 +1343,7 @@ LIMIT <number>
 
 ```plaintext
 > 
-> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline Fields]]
+> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline-Fields|Inline Fields]]
 > 
 > **Use case:** [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / capacity planning / velocity tracking
 > 
@@ -1435,7 +1435,7 @@ LIMIT <number>
 > 
 > **What it does:** Filters out tasks in "waiting" or "someday/maybe" categories
 > 
-> **Use case:** Actionable task list (excluding deferred items per [[GTD Workflow]])
+> **Use case:** Actionable task list (excluding deferred items per [[GTD-Workflow|GTD Workflow]])
 
 ---
 
@@ -1571,7 +1571,7 @@ LIMIT <number>
 **What this enables:**
 - [[Tasks-Plugin|Tasks Plugin]] provides UI and recurrence handling
 - [[Dataview-Plugin|Dataview Plugin]] provides querying and dashboard capabilities
-- [[Inline Fields]] add custom metadata dimensions
+- [[Inline-Fields|Inline Fields]] add custom metadata dimensions
 - All three systems work together seamlessly
 
 ### Daily Notes Integration
@@ -1619,7 +1619,7 @@ LIMIT <number>
 > 
 > **What this creates:** A comprehensive daily note with live-updating task views
 > 
-> **Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual
+> **Use case:** [[Daily-Notes|Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual
 
 ---
 
@@ -1874,28 +1874,28 @@ LIMIT <number>
 - [[Bob]]
 - [[Carol]]
 - [[DQL]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dashboard Design Principles for PKM]]
 - [[Data Visualization]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Techniques]]
-- [[Dataview Task Query Reference]]
+- [[Dataview-Task-Query-Reference|Dataview Task Query Reference]]
 - [[DataviewJS]]
 - [[DataviewJS Custom Functions Library]]
-- [[Date Functions]]
+- [[Date-Functions|Date Functions]]
 - [[Functional Programming]]
-- [[GROUP BY]]
-- [[GTD Workflow]]
+- [[GROUP-BY|GROUP BY]]
+- [[GTD-Workflow|GTD Workflow]]
 - [[Information-Architecture|Information Architecture]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[JavaScript]]
 - [[JavaScript Performance]]
 - [[Note]]
 - [[Obsidian]]
 - [[Obsidian API]]
 - [[Obsidian Architecture]]
-- [[Priority Management]]
+- [[Priority-Management|Priority Management]]
 - [[Productivity Systems]]
 - [[Project Alpha]]
 - [[Project Beta]]
@@ -1907,7 +1907,7 @@ LIMIT <number>
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Advanced Workflows]]
 - [[User Interface Design]]
-- [[WHERE Clause]]
+- [[WHERE-Clause|WHERE Clause]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 
 ---

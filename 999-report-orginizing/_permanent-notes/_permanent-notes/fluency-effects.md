@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ referenced-by-count: 8
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Aporia]]"
   - "[[Elenchus]]"
   - "[[Functional-Integration]]"
@@ -45,7 +46,6 @@ see-also:
   - "[[Knowing-That-Knowing-How]]"
   - "[[Metacognitive-Calibration]]"
   - "[[Tacit-Knowledge]]"
-  - "[[Transfer-of-Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -64,6 +64,7 @@ importance: low
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Aporia]]
 - [[Elenchus]]
 - [[Functional-Integration]]
@@ -71,4 +72,3 @@ importance: low
 - [[Knowing-That-Knowing-How]]
 - [[Metacognitive-Calibration]]
 - [[Tacit-Knowledge]]
-- [[Transfer-of-Learning]]

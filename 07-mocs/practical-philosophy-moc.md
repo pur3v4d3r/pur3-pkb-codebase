@@ -33,8 +33,8 @@ link-up:
   - "[[pkb-&-pkm-moc]]"
 link-related:
   - "[[Stoicism]]"
-  - "[[Epistemology]]"
-  - "[[pragmatism]]"
+  - "[[epistemology]]"
+  - "[[Pragmatism]]"
 philosophy-filter: all
 ---
 
@@ -236,7 +236,7 @@ if (mindPages.length > 0) {
 > [!principle-point] Domain Focus  
 > [**Epistemology-Practical-Focus**:: The study of knowledge, belief, and justification—particularly as applied to evaluating information sources, calibrating confidence levels, and maintaining intellectual honesty in personal knowledge work.]
 
-[[Epistemology]] grounds our [[PKM]] practice in philosophical rigor, ensuring we approach knowledge with appropriate [[Epistemic-Humility]] and [[validation practices]].
+[[epistemology]] grounds our [[PKM]] practice in philosophical rigor, ensuring we approach knowledge with appropriate [[Epistemic-Humility]] and [[validation practices]].
 
 ### 🔗 Epistemology Network
 
@@ -272,7 +272,7 @@ if (epistemicPages.length > 0) {
 > [**Epistemic-Cognition**:: The cognitive processes involved in acquiring, evaluating, and using knowledge—including how individuals understand the nature of knowledge itself and calibrate their confidence appropriately.]
 
 **Primary Notes:**
-- [[Epistemology]] — *Domain foundation*
+- [[epistemology]] — *Domain foundation*
 - [[Epistemic Accountability]] — *Intellectual responsibility*
 - [[Epistemic-Cognition]] — *Knowledge processing*
 - [[Evolutionary Epistemology]] — *Naturalized knowledge theory*
@@ -289,7 +289,7 @@ if (epistemicPages.length > 0) {
 > [!principle-point] Domain Focus
 > [**Pragmatism-Core-Thesis**:: The philosophical tradition holding that the meaning and truth of ideas are determined by their practical consequences—"truth is what works" in guiding successful action and inquiry.]
 
-[[pragmatism]] provides the meta-philosophical framework for this entire MOC, emphasizing that philosophical concepts earn their place through **practical utility**.
+[[Pragmatism]] provides the meta-philosophical framework for this entire MOC, emphasizing that philosophical concepts earn their place through **practical utility**.
 
 ### 🔗 Pragmatism Network
 
@@ -318,7 +318,7 @@ if (pragmaticPages.length > 0) {
 > [**Pragmatic-Maxim**:: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." — Charles Sanders Peirce]
 
 **Primary Notes:**
-- [[pragmatism]] — *Philosophical foundation*
+- [[Pragmatism]] — *Philosophical foundation*
 - [[Practical Wisdom]] — *Phronesis*
 - [[Instrumentalism]] — *Ideas as tools*
 
@@ -386,7 +386,7 @@ if (bridges.length > 0) {
 | Epistemology Concept | Connects To | Integration Insight |
 |----------------------|-------------|---------------------|
 | [[Epistemic-Cognition]] | [[Metacognition]] | Cognitive science operationalizes epistemology |
-| [[Evolutionary Epistemology]] | [[pragmatism]] | Both naturalize knowledge processes |
+| [[Evolutionary Epistemology]] | [[Pragmatism]] | Both naturalize knowledge processes |
 | [[Confidence Calibration]] | [[Stoic Reservation]] | Ancient and modern uncertainty management |
 
 ---
@@ -519,8 +519,8 @@ action:
 
 **Foundation Layer:**
 1. [[Stoicism]] → [[Dichotomy-of-Control]] → [[Locus-of-Control]]
-2. [[Epistemology]] → [[Epistemic Accountability]]
-3. [[pragmatism]] → Evaluate philosophy by practical results
+2. [[epistemology]] → [[Epistemic Accountability]]
+3. [[Pragmatism]] → Evaluate philosophy by practical results
 
 **Application Layer:**
 1. [[Stoic-Philosophy]] → Daily practice techniques
@@ -528,7 +528,7 @@ action:
 3. [[Epistemic-Cognition]] → PKB quality validation
 
 **Integration Layer:**
-1. Connect Stoic practices to [[daily notes|Daily Note]] routines
+1. Connect Stoic practices to [[Daily-Notes|Daily Note]] routines
 2. Apply epistemic principles to [[source evaluation|source quality]]
 3. Use pragmatic criteria to [[system design|refine PKB architecture]]
 
@@ -546,7 +546,7 @@ action:
   - [[learning-theory-moc]] — *Education philosophy*
 - **Down:** 
   - [[Stoicism|Stoicism Index]]
-  - [[Epistemology|Epistemology Index]]
+  - [[epistemology|Epistemology Index]]
 
 ```dataviewjs
 // 🔗 ORPHAN DETECTION - Philosophy notes not linked from this MOC

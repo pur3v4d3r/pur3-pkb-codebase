@@ -3088,7 +3088,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Consciousness and self-awareness questions
 - Cognitive biases and mitigation strategies
 
-**Knowledge Graph Role**: Provides deep theoretical foundation connecting AI capabilities to established cognitive science, linking [[Cognitive-Science]], [[Neuroscience]], [[AI Architecture]], [[Human Cognition]].
+**Knowledge Graph Role**: Provides deep theoretical foundation connecting AI capabilities to established cognitive science, linking [[Cognitive-Science]], [[Neuroscience]], [[AI Architecture]], [[human-cognition]].
 
 **Priority**: **Medium** - Intellectually valuable but primarily for researchers rather than practitioners focused on implementation.
 

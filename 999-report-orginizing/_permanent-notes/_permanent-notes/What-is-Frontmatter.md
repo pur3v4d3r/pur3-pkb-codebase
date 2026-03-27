@@ -26,8 +26,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -35,9 +35,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-guide-yaml-frontmatter-20251122124616"
-  - "reference-guide-yaml-frontmatter-20251122124616.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -49,16 +50,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[YAML-Frontmatter|YAML Frontmatter]]"
@@ -69,28 +70,18 @@ see-also:
   - "[[Dataview]]"
   - "[[03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]"
   - "[[filename]]"
-  - "[[YAML-Frontmatter|YAML Frontmatter]]"
-  - "[[YAML|YAML]]"
-  - "[[Markdown|Markdown]]"
-  - "[[PKB|PKB]]"
-  - "[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]"
-  - "[[Dataview|Dataview]]"
-  - "[[03_notes/01_permanent-notes/01_cognitive-development/Knowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]"
-  - "[[filename|filename]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -120,10 +111,6 @@ importance: medium
 [[YAML-Frontmatter|YAML Frontmatter]] · [[YAML]] · [[Markdown]] · [[PKB]] · [[04-library00-obsidian-documentation02-Official-Documentation02-⚫🔌PluginsPlugin-🤖|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] · [[Dataview]] · [[03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] · [[filename]] · [[Zettelkasten]] · [[ISO-8601|ISO 8601]] · [[Project-Management|Project Management]] · [[Task-Management|Task Management]] · [[Knowledge-Graph|Knowledge Graph]] · [[Breadcrumbs]] · [[Source-Note|Source Note]]
 
 ---
-
-**Related concepts** *(from reference-guide-yaml-frontmatter-20251122124616.md)*:
-[[YAML-Frontmatter|YAML Frontmatter]] * [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] * [[ISO-8601|ISO 8601]] * [[Project-Management|Project Management]] * [[Task-Management|Task Management]] * [[Knowledge-Graph|Knowledge Graph]] * [[Source-Note|Source Note]] * [[Zotero|Zotero]] * [[Obsidian-Plugins|Obsidian Plugins]] * [[Obsidian-Publish|Obsidian Publish]] * [[Prompt-Engineering|Prompt Engineering]] * [[LLM|LLM]]
-
 
 ## Source Attribution
 

@@ -2,9 +2,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Atkinson-Shiffrin-Multi-Store-Model"
+title: "Atkinson-Shiffrin Multi-Store Model"
 aliases:
-  - "Atkinson-Shiffrin-Multi-Store-Model"
   - "Atkinson-Shiffrin Multi-Store Model"
 type: permanent-note
 status: seedling
@@ -24,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -57,12 +56,12 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Atkinson-Shiffrin-Multi-Store-Model
+# Atkinson-Shiffrin Multi-Store Model
 
-> [!definition] **Atkinson-Shiffrin-Multi-Store-Model**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Atkinson-Shiffrin Multi-Store Model**
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
@@ -81,3 +80,4 @@ importance: medium
 - [[Shallow-Processing]]
 - [[Subsequent-Memory-Effect]]
 - [[Transfer-Appropriate-Processing]]
+- [[_Master-Definition-Index|_Master-Definition-Index]]

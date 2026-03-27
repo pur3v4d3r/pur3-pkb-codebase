@@ -152,7 +152,7 @@ STRUCTURAL REASONING:
 
   * **THINKING:** "The topic is a **critical analysis and improvement plan** for a provided 'Agentic Prompt Engineering Instruction Set.' The user wants me to evaluate this system prompt, identify weaknesses, and propose more optimal techniques, culminating in an improved version of the prompt itself."
   * **Primary Domain:** `[[Meta-Prompting]]` (the design of prompts that instruct an LLM on how to *be* an agent, in this case, a prompt engineering agent).
-  * **Adjacent Domains:** `[[Prompt-Engineering]]`, `[[LLM Cognitive Architecture]]`, `[[Instructional-Design]]` (the prompt's 5-phase structure is a form of instructional scaffolding), `[[Software Engineering]]` (the concepts of pipelines, testing, and validation), `[[Constitutional AI]]`, and model-specific optimizations (`[[Claude]]`, `[[Gemini]]`, `[[GPT]]`).
+  * **Adjacent Domains:** `[[Prompt-Engineering]]`, `[[LLM Cognitive Architecture]]`, `[[Instructional-Design]]` (the prompt's 5-phase structure is a form of instructional scaffolding), `[[Software Engineering]]` (the concepts of pipelines, testing, and validation), `[[Constitutional-AI]]`, and model-specific optimizations (`[[Claude]]`, `[[Gemini]]`, `[[GPT]]`).
   * **Depth Requirement:** Extremely high. This is a "prompt-on-prompt" analysis. I must deconstruct the provided prompt's logic, compare it against SOTA (State-of-the-Art) prompting research, and apply `[[Andragogy|andragogical]]` and `[[Heutagogy|heutagogical]]` principles (as per my persona) to improve its structure and efficacy for its purpose as an "agent."
 
 **2. Systematic Web Research**
@@ -188,7 +188,7 @@ STRUCTURAL REASONING:
 
   * **Query 5:** "Constitutional AI as a prompting technique"
 
-      * **Rationale:** The draft (Phase 2) lists `[[Constitutional AI]]` as an "ENHANCEMENT" for "Creative/Generative Tasks." This feels like a miscategorization.
+      * **Rationale:** The draft (Phase 2) lists `[[Constitutional-AI]]` as an "ENHANCEMENT" for "Creative/Generative Tasks." This feels like a miscategorization.
       * **Expected Insight:** Clarification on what Constitutional AI is. My understanding is that it's a *safety and quality guardrail system* applied at the model level (or as a meta-prompt), not a specific *generative technique* like `[[CoT]]`.
       * **Findings Summary:** The research confirms my suspicion. Constitutional AI is a *methodology* for aligning an AI with a set of explicit principles (a "constitution"). It should not be listed as a niche technique for creative tasks. Instead, it should be a *core, governing component* of the agent's *entire* identity and process, applied to *all* outputs. This is a significant flaw in the draft's logic.
 
@@ -199,7 +199,7 @@ STRUCTURAL REASONING:
     2.  **Integration of Advanced Techniques:** The "Advanced Techniques Repository" is just a list. A true `[[Heutagogy|heutagogical]]` (self-determined learning) agent would have a mechanism to *actively select and integrate* these techniques into its workflow, not just be "aware" of them.
     3.  **Dynamic Strategy vs. Static Matrix:** The "Technique Selection Matrix" is too rigid. A complex task might need `[[ReAct]]` *and* `[[CoT]]` *and* `[[Chain of Density]]`. The agent should *formulate a custom cognitive strategy*, not just pick from a menu.
   * **What's conflicting/mis-categorized?**
-    1.  The classification of `[[Constitutional AI]]` is incorrect and fundamentally misunderstands its purpose.
+    1.  The classification of `[[Constitutional-AI]]` is incorrect and fundamentally misunderstands its purpose.
     2.  The distinction between "reasoning," "creative," and "analytical" tasks in the matrix is blurry. `[[CoT]]` is vital for "analytical" tasks, and `[[ReAct]]` is a "reasoning-heavy" framework. This matrix oversimplifies and creates false dichotomies.
   * **Cutting-edge developments:** The prompt needs to incorporate `[[Step-Back Prompting]]` (for better analysis in Phase 1) and `[[Reflexion]]` (as a formal process for self-correction in Phase 5). The use of `[[XML Tags]]` for Claude is a critical, missing implementation detail.
 
@@ -217,7 +217,7 @@ My response will be a comprehensive analysis formatted as an authoritative refer
 │   └── Hierarchy Decisions: I will create a subsection for each of the 5 Phases, plus the "Identity" and "Repository" sections.
 │       ├── `[Identity]`: Good, but can be stronger.
 │       ├── `[Phase 1: Discovery]`: Solid, but can be more proactive (e.g., introducing `[[Step-Back Prompting]]`).
-│       ├── `[Phase 2: Technique Selection]`: **(Critical Flaw)** This section needs the most work. I will dismantle the rigid matrix and the miscategorization of `[[Constitutional AI]]`.
+│       ├── `[Phase 2: Technique Selection]`: **(Critical Flaw)** This section needs the most work. I will dismantle the rigid matrix and the miscategorization of `[[Constitutional-AI]]`.
 │       ├── `[Phase 3: Construction]`: Good, but the `[[SPARK Framework]]` is decent, and the `[SECTION]` syntax is suboptimal for `[[Claude]]`.
 │       ├── `[Phase 4: Enhancement]`: This is an excellent, well-thought-out phase.
 │       ├── `[Phase 5: Testing]`: Good, but can be more agentic by incorporating `[[Reflexion]]` and self-generation of test cases.
@@ -236,7 +236,7 @@ My response will be a comprehensive analysis formatted as an authoritative refer
 ├── A new, more powerful identity (Cognitive Systems Architect).
 COMMIT: `I will now generate the full response based on this plan.`
 ├── `[[XML Tags]]` for all structural elements.
-├── A `core_principles` block that *correctly* implements `[[Constitutional AI]]`.
+├── A `core_principles` block that *correctly* implements `[[Constitutional-AI]]`.
 ├── A *dynamic* "Phase 2: Cognitive Strategy Formulation" that replaces the rigid matrix.
 ├── Integration of `[[Step-Back Prompting]]` and `[[Reflexion]]` into the pipeline.
 ├── An "active repository" mechanism where the agent *must* consider its advanced techniques.
@@ -281,7 +281,7 @@ Here is a breakdown of the draft's strengths and critical areas for enhancement.
 ### `[Phase 2: Technique Selection Matrix]`
 
   * **Analysis:** This is the **weakest and most problematic phase** of the draft.
-  * **Critical Flaw 1: Mis-categorization of `[[Constitutional AI]]`:** As my research confirmed, `[[Constitutional AI]]` is *not* a generative technique for creative tasks. It is a **foundational guardrail system** for aligning an AI's *entire output* with a set of explicit principles (e.g., "be helpful," "be accurate," "avoid ambiguity"). It should be moved out of this matrix and into the agent's core identity or a new "Core Principles" section.
+  * **Critical Flaw 1: Mis-categorization of `[[Constitutional-AI]]`:** As my research confirmed, `[[Constitutional-AI]]` is *not* a generative technique for creative tasks. It is a **foundational guardrail system** for aligning an AI's *entire output* with a set of explicit principles (e.g., "be helpful," "be accurate," "avoid ambiguity"). It should be moved out of this matrix and into the agent's core identity or a new "Core Principles" section.
   * **Critical Flaw 2: Rigid, False Dichotomies:** The matrix's "Reasoning," "Creative," and "Analytical" buckets are overly simplistic.
       * `[[Chain-of-Thought]]` is essential for "Analytical" tasks, not just "Reasoning-Heavy" ones.
       * `[[ReAct]]` is a "Reasoning-Heavy" framework, not just "Analytical."
@@ -419,7 +419,7 @@ Here is a complete, rewritten system prompt that incorporates all of these impro
 
 This new architecture directly addresses the flaws in the original:
 
-1.  **`[[Constitutional AI]]`** is now correctly implemented as `Core Principles`.
+1.  **`[[Constitutional-AI]]`** is now correctly implemented as `Core Principles`.
 2.  The rigid **Technique Matrix** is replaced by a dynamic `Cognitive Strategy Formulation`.
 3.  **`[[Step-Back Prompting]]`** is added to Phase 1 to improve analysis.
 4.  **`[[Reflexion (Self-Correction)]]`** is added to Phase 5 to formalize testing.

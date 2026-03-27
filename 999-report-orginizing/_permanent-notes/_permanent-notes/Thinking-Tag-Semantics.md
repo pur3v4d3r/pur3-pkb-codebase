@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "prompt-report-advanced-thinking-and-reasoning-tags-in-claude-202601070811"
-  - "prompt-report-advanced-thinking-and-reasoning-tags-in-claude-202601070811.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Advanced-Thinking-and-Reasoning-Tags-in-Claude's-LLM-A-Comprehensive-Technical-R|**Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report**]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Extended-Thinking|Extended Thinking]]"
   - "[[Metacognition]]"
   - "[[Quality-Optimization|Quality Optimization]]"
-  - "[[**Advanced-Thinking-and-Reasoning-Tags-in-Claude's-LLM:-A-Comprehensive-Technical-Report**|**Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report**]]"
-  - "[[System-1-and-System-2-Cognition|System 1 and System 2 Cognition]]"
-  - "[[Condorcet's-Jury-Theorem|Condorcet's Jury Theorem]]"
-  - "[[Advanced-Prompt-Engineering-for-Extended-Thinking|Advanced Prompt Engineering for Extended Thinking]]"
-  - "[[Prompt-Engineering|Prompt Engineering]]"
-  - "[[Extended-Thinking|Extended Thinking]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Quality-Optimization|Quality Optimization]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -129,10 +120,6 @@ importance: medium
 
 **Related concepts:**
 [[Advanced-Thinking-and-Reasoning-Tags-in-Claude's-LLM-A-Comprehensive-Technical-R|**Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report**]] · [[System-1-and-System-2-Cognition|System 1 and System 2 Cognition]] · [[Condorcet's-Jury-Theorem|Condorcet's Jury Theorem]] · [[Advanced-Prompt-Engineering-for-Extended-Thinking|Advanced Prompt Engineering for Extended Thinking]] · [[Prompt-Engineering|Prompt Engineering]] · [[Extended-Thinking|Extended Thinking]] · [[Metacognition]] · [[Quality-Optimization|Quality Optimization]] · [[Metacognitive-AI-Systems-Beyond-Thinking-Tags|Metacognitive AI Systems Beyond Thinking Tags]] · [[Cognitive-Science|Cognitive Science]] · [[AI-Consciousness|AI Consciousness]] · [[Self-Aware-Systems|Self-Aware Systems]] · [[Meta-Learning]] · [[Production-Deployment-Patterns-for-Extended-Thinking|Production Deployment Patterns for Extended Thinking]] · [[Extended-Thinking|Extended Thinking]]
-
-**Related concepts** *(from prompt-report-advanced-thinking-and-reasoning-tags-in-claude-202601070811.md)*:
-[[**Advanced-Thinking-and-Reasoning-Tags-in-Claude's-LLM:-A-Comprehensive-Technical-Report**|**Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report**]] * [[System-1-and-System-2-Cognition|System 1 and System 2 Cognition]] * [[Condorcet's-Jury-Theorem|Condorcet's Jury Theorem]] * [[Advanced-Prompt-Engineering-for-Extended-Thinking|Advanced Prompt Engineering for Extended Thinking]] * [[Prompt-Engineering|Prompt Engineering]] * [[Extended-Thinking|Extended Thinking]] * [[Quality-Optimization|Quality Optimization]] * [[Metacognitive-AI-Systems-Beyond-Thinking-Tags|Metacognitive AI Systems Beyond Thinking Tags]] * [[Cognitive-Science|Cognitive Science]] * [[AI-Consciousness|AI Consciousness]] * [[Self-Aware-Systems|Self-Aware Systems]] * [[Production-Deployment-Patterns-for-Extended-Thinking|Production Deployment Patterns for Extended Thinking]] * [[Production-ML-Systems|Production ML Systems]] * [[API-Design|API Design]] * [[Cost-Optimization|Cost Optimization]]
-
 
 ## Methodology Notes
 

@@ -135,7 +135,7 @@ extraction_summary:
 #### 1. [PLAN] Working Plan — Deconstruct → Research → Synthesize → Compose *(Line 25)*
 
 > [!plan] Working Plan — Deconstruct → Research → Synthesize → Compose
-> I begin by precisely defining the problem space and success criteria for [[Persona Engineering]] and scaffolding. I then anchor the discussion in the most influential research programs (e.g., [[Constitutional AI]], [[ReAct]], [[Self-Consistency]], [[Reflexion]], and [[DSPy]]), drawing explicit implications for practice. Next, I integrate these ideas into a single instruction stack that unifies **norms**, **roles**, **procedures**, **tools**, and **evaluation**. Finally, I deliver PKB-ready templates, control-loop diagrams, and implementation guidance you can drop into your Obsidian vault or API workflows. Citations are included at key load-bearing claims.
+> I begin by precisely defining the problem space and success criteria for [[Persona Engineering]] and scaffolding. I then anchor the discussion in the most influential research programs (e.g., [[Constitutional-AI|Constitutional AI]], [[ReAct]], [[Self-Consistency]], [[Reflexion]], and [[DSPy]]), drawing explicit implications for practice. Next, I integrate these ideas into a single instruction stack that unifies **norms**, **roles**, **procedures**, **tools**, and **evaluation**. Finally, I deliver PKB-ready templates, control-loop diagrams, and implementation guidance you can drop into your Obsidian vault or API workflows. Citations are included at key load-bearing claims.
 
 #### 2. [DEFINITION] Operational Targets *(Line 36)*
 
@@ -192,7 +192,7 @@ extraction_summary:
 
 - [[Advanced Persona Crafting]]
 - [[Agent Architecture Patterns (ReAct, Plan-Act, Toolformer)]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[DSPy]]
 - [[Evaluation Rubrics for LLM Outputs]]
 - [[Instructional Scaffolding]]
@@ -214,14 +214,14 @@ extraction_summary:
 | 1 | [[Advanced Persona Crafting]] | — | — | A Comprehensive Analysis of [[Advance... | 23 |
 | 2 | [[Instructional Scaffolding]] | — | — | A Comprehensive Analysis of [[Advance... | 23 |
 | 3 | [[Persona Engineering]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
-| 4 | [[Constitutional AI]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
+| 4 | [[Constitutional-AI|Constitutional AI]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
 | 5 | [[ReAct]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
 | 6 | [[Self-Consistency]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
 | 7 | [[Reflexion]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
 | 8 | [[DSPy]] | — | — | A Comprehensive Analysis of [[Advance... | 26 |
 | 9 | [[Persona_Prompts]] | — | — | 1) Deconstruct — What “Persona” and “... | 32 |
 | 10 | [[Instructional Scaffolding]] | — | — | 1) Deconstruct — What “Persona” and “... | 34 |
-| 11 | [[Constitutional AI]] | — | — | 2) Research — What the Literature Tea... | 47 |
+| 11 | [[Constitutional-AI|Constitutional AI]] | — | — | 2) Research — What the Literature Tea... | 47 |
 | 12 | [[ReAct]] | — | — | 2) Research — What the Literature Tea... | 49 |
 | 13 | [[Self-Consistency]] | — | — | 2) Research — What the Literature Tea... | 51 |
 | 14 | [[Reflexion]] | — | — | 2) Research — What the Literature Tea... | 53 |
@@ -407,7 +407,7 @@ sequenceDiagram
 
 - [[Advanced Persona Crafting]]
 - [[Agent Architecture Patterns (ReAct, Plan-Act, Toolformer)]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[DSPy]]
 - [[Evaluation Rubrics for LLM Outputs]]
 - [[Instructional Scaffolding]]

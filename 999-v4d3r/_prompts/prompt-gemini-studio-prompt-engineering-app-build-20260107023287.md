@@ -731,7 +731,7 @@ DECISION: VIABLE — Good alternative if user wants some creative framing
 ## Phase 4: Constructed Prompt
 
 > [!methodology-and-sources] **Architecture Applied**
-> This prompt implements [[Chain-of-Thought]] reasoning with explicit phase markers, [[Constitutional AI]] principles for balanced assessment, [[Self-Validation]] checkpoints for completeness verification, and [[Modular Prompt Architecture]] enabling section-level reliability.
+> This prompt implements [[Chain-of-Thought]] reasoning with explicit phase markers, [[Constitutional-AI]] principles for balanced assessment, [[Self-Validation]] checkpoints for completeness verification, and [[Modular Prompt Architecture]] enabling section-level reliability.
 
 ```markdown
 # ACADEMIC PAPER ANALYZER: PROMPT ENGINEERING RESEARCH SPECIALIST

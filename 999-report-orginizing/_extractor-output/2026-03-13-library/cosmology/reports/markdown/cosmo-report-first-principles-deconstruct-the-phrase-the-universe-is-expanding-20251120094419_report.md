@@ -302,7 +302,7 @@ extraction_summary:
 > - *What* **other "common knowledge"** *in my life or work might be based on a false analogy, and could benefit from this deconstruction?*
 >   - [[Economic Growth]]—we often speak of "the economy expanding" as if it's filling some pre-existing container of possible transactions. What if it's more like spatial expansion—new transaction space being created rather than motion through fixed economic space?  
 >   - [[Information Spread]]—we talk about ideas "spreading" through a network as if moving through fixed social space. What if network topology itself evolves, creating new connections rather than ideas merely flowing through static channels?  
->   - [[Consciousness]]—we often think of subjective experience as occurring "in" some pre-existing mental space. What if consciousness is more like expanding space—creating experiential dimensionality rather than motion through fixed phenomenological volume?
+>   - [[consciousness]]—we often think of subjective experience as occurring "in" some pre-existing mental space. What if consciousness is more like expanding space—creating experiential dimensionality rather than motion through fixed phenomenological volume?
 
 #### 24. [LINKS-TO-RELATED-NOTES] Untitled *(Line 239)*
 
@@ -382,7 +382,7 @@ extraction_summary:
 - [[Big Bang]]
 - [[CMB Temperature Scaling]]
 - [[Comoving Coordinates]]
-- [[Consciousness]]
+- [[consciousness]]
 - [[Cosmic Horizons]]
 - [[Cosmic Microwave Background]]
 - [[Cosmological Expansion]]
@@ -467,7 +467,7 @@ extraction_summary:
 | 31 | [[Hubble's law]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 217 |
 | 32 | [[Economic Growth]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 235 |
 | 33 | [[Information Spread]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 236 |
-| 34 | [[Consciousness]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 237 |
+| 34 | [[consciousness]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 237 |
 | 35 | [[Redshift as Metric Expansion]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 242 |
 | 36 | [[Cosmological Principle: Homogeneity and Isotropy]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 245 |
 | 37 | [[Finite Cosmic Age and Hot Big Bang]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 248 |
@@ -645,7 +645,7 @@ $$
 - [[Big Bang]]
 - [[CMB Temperature Scaling]]
 - [[Comoving Coordinates]]
-- [[Consciousness]]
+- [[consciousness]]
 - [[Cosmic Horizons]]
 - [[Cosmic Microwave Background]]
 - [[Cosmological Expansion]]

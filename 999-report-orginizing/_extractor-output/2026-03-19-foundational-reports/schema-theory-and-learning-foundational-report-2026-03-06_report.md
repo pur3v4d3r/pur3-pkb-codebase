@@ -670,7 +670,7 @@ extraction_summary:
 
 - [[Behaviorism — Stimulus-Response Learning]]
 - [[Rote Memorization Approaches]]
-- [[Information Processing Model (Pure Stage Model)]]
+- [[information-processing-model|Information Processing Model (Pure Stage Model)]]
 
 #### Applied In
 

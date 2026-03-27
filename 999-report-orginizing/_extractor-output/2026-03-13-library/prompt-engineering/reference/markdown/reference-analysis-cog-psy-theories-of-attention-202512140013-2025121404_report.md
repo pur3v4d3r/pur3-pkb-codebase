@@ -532,7 +532,7 @@ extraction_summary:
 - [[Capacity Model]]
 - [[Chain-of-Density]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotic Listening Task]]
 - [[Donald Broadbent]]
@@ -576,7 +576,7 @@ extraction_summary:
 | 3 | [[Skeleton-of-Thought]] | — | — | Dimensional Assessment Summary | 376 |
 | 4 | [[Chain-of-Density]] | — | — | Dimension 2: Technique Signature Anal... | 416 |
 | 5 | [[Skeleton-of-Thought]] | — | — | Dimension 2: Technique Signature Anal... | 417 |
-| 6 | [[Constitutional AI]] | — | — | Dimension 2: Technique Signature Anal... | 418 |
+| 6 | [[Constitutional-AI|Constitutional AI]] | — | — | Dimension 2: Technique Signature Anal... | 418 |
 | 7 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | Dimension 2: Technique Signature Anal... | 419 |
 | 8 | [[Self-Consistency]] | — | — | Dimension 2: Technique Signature Anal... | 425 |
 | 9 | [[ReAct]] | — | — | Dimension 2: Technique Signature Anal... | 427 |
@@ -883,7 +883,7 @@ for (let letter of sortedLetters) {
 | --- | --- | --- |
 | [[Chain-of-Density]] | <span style='color: #27FF00;'>**Strong (9/10)**</span> | Progressive layering from foundational concepts → mechanisms → empirical evidence → implications |
 | [[Skeleton-of-Thought]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Clear outline-first structure evident in section organization |
-| [[Constitutional AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |
+| [[Constitutional-AI|Constitutional AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |
 | [[Few-Shot-Learning|Few-Shot Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |
 
 ### Table 3 *(Line 417, 5 rows)*
@@ -985,7 +985,7 @@ for (let letter of sortedLetters) {
 - [[Capacity Model]]
 - [[Chain-of-Density]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotic Listening Task]]
 - [[Donald Broadbent]]

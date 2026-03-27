@@ -162,7 +162,7 @@ Once installed, configure Templater through Settings → Templater:
 > [!helpful-tip]
 > **Automatic Template Application**
 > Enable this to automatically apply templates when creating new files. This works with:
-> - [[Daily Notes]] core plugin
+> - [[Daily-Notes]] core plugin
 > - [[Calendar]] plugin
 > - [[Periodic Notes]] plugin
 > - Any plugin that creates files programmatically
@@ -1284,7 +1284,7 @@ tp.web.daily_quote()
 
 > [!helpful-tip]
 > **Quote Formatting**
-> The quote returns as formatted [[Markdown]] blockquote with attribution. Perfect for [[Daily Notes]] motivation sections.
+> The quote returns as formatted [[Markdown]] blockquote with attribution. Perfect for [[Daily-Notes]] motivation sections.
 
 #### tp.web.random_picture()
 
@@ -2158,7 +2158,7 @@ AND file.mtime >= date(this.week)
 
 ### Templater + Calendar Plugin
 
-Auto-create [[Daily Notes]] with rich templates when clicking calendar dates.
+Auto-create [[Daily-Notes]] with rich templates when clicking calendar dates.
 
 **Configuration**:
 1. Install Calendar plugin
@@ -2775,7 +2775,7 @@ STRUCTURAL REASONING:
 │
 └── Cross-referencing Strategy
     ├── Internal links to related sections (e.g., "See [[#User Functions]] for custom scripting")
-    ├── Wiki-links for Obsidian concepts ([[Dataview]], [[Daily Notes]], [[Frontmatter]])
+    ├── Wiki-links for Obsidian concepts ([[Dataview]], [[Daily-Notes]], [[Frontmatter]])
     ├── Wiki-links for programming concepts ([[JavaScript]], [[Template Literals]], [[Asynchronous Programming]])
     └── Expansion topics toward adjacent plugin ecosystem and advanced PKM patterns
 
@@ -2794,7 +2794,7 @@ Aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 - [!use-cases-and-examples] for practical applications
 
 **WIKI-LINK OPPORTUNITIES:**
-- Obsidian core concepts: [[Frontmatter]], [[Templates]], [[Folders]], [[Daily Notes]], [[Metadata]]
+- Obsidian core concepts: [[Frontmatter]], [[Templates]], [[Folders]], [[Daily-Notes]], [[Metadata]]
 - Related plugins: [[Dataview]], [[QuickAdd]], [[Custom JS]], [[Natural Language Dates]]
 - Programming concepts: [[JavaScript]], [[Regular Expressions]], [[Async/Await]], [[Promises]], [[Date Objects]]
 - PKM concepts: [[Zettelkasten]], [[MOC]], [[Atomic-Notes]], [[Template Systems]], [[Automation Workflows]]

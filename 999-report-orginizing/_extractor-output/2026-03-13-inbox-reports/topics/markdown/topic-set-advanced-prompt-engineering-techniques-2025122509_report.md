@@ -105,13 +105,13 @@ extraction_summary:
 - [[Agentic Workflows (ReAct & Plan-and-Solve)]]
 - [[Context Window Management]]
 - [[Human-in-the-Loop (HITL) Reinforcement]]
-- [[Mechanistic Interpretability]]
+- [[Mechanistic-Interpretability|Mechanistic Interpretability]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Mechanistic Interpretability]] | — | — | **## 🔗 Related Topics for PKB Expansi... | 138 |
+| 1 | [[Mechanistic-Interpretability|Mechanistic Interpretability]] | — | — | **## 🔗 Related Topics for PKB Expansi... | 138 |
 | 2 | [[Agentic Workflows (ReAct & Plan-and-Solve)]] | — | — | **## 🔗 Related Topics for PKB Expansi... | 144 |
 | 3 | [[Context Window Management]] | — | — | **## 🔗 Related Topics for PKB Expansi... | 150 |
 | 4 | [[Human-in-the-Loop (HITL) Reinforcement]] | — | — | **## 🔗 Related Topics for PKB Expansi... | 156 |
@@ -150,7 +150,7 @@ These topics are for a Claude Project that has been engineered to produce extrem
 - [[Agentic Workflows (ReAct & Plan-and-Solve)]]
 - [[Context Window Management]]
 - [[Human-in-the-Loop (HITL) Reinforcement]]
-- [[Mechanistic Interpretability]]
+- [[Mechanistic-Interpretability|Mechanistic Interpretability]]
 
 ---
 

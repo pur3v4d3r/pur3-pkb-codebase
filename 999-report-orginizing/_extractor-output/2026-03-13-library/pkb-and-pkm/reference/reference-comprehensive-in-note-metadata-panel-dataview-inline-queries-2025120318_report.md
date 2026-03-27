@@ -453,25 +453,25 @@ extraction_summary:
 
 - [[" + l + "]]
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[Aggregation Functions]]
+- [[Aggregation-Functions|Aggregation Functions]]
 - [[Andragogy]]
-- [[Conditional Logic]]
+- [[Conditional-Logic|Conditional Logic]]
 - [[DQL]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dataview]]
 - [[Dataview Inline Queries: In-Note Metadata Panel]]
 - [[DataviewJS Advanced Patterns]]
-- [[File Properties]]
+- [[File-Properties|File Properties]]
 - [[Frontmatter]]
-- [[Inline Queries]]
+- [[Inline-Queries|Inline Queries]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Analytics Formulas]]
-- [[Link Analysis]]
+- [[Link-Analysis|Link Analysis]]
 - [[Meta Bind Reactive Fields]]
 - [[Metadata]]
 - [[Obsidian]]
 - [[PKB Architecture]]
-- [[String Manipulation]]
+- [[String-Manipulation|String Manipulation]]
 - [[Templater]]
 - [[Templater Integration with Dataview]]
 - [[Temporal Queries]]
@@ -484,19 +484,19 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dataview Inline Queries: In-Note Metadata Panel]] | — | — | Dataview Inline Queries: In-Note Meta... | 39 |
 | 2 | [[Dataview]] | — | — | Tags & Classification | 176 |
-| 3 | [[Inline Queries]] | — | — | Tags & Classification | 176 |
+| 3 | [[Inline-Queries|Inline Queries]] | — | — | Tags & Classification | 176 |
 | 4 | [[Metadata]] | — | — | Tags & Classification | 176 |
 | 5 | [[Frontmatter]] | — | — | Tags & Classification | 176 |
 | 6 | [[YAML]] | — | — | Tags & Classification | 176 |
 | 7 | [[DQL]] | — | — | Tags & Classification | 176 |
 | 8 | [[Obsidian]] | — | — | Tags & Classification | 176 |
 | 9 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Tags & Classification | 176 |
-| 10 | [[Link Analysis]] | — | — | Tags & Classification | 176 |
+| 10 | [[Link-Analysis|Link Analysis]] | — | — | Tags & Classification | 176 |
 | 11 | [[Temporal Queries]] | — | — | Tags & Classification | 176 |
-| 12 | [[Aggregation Functions]] | — | — | Tags & Classification | 176 |
-| 13 | [[Conditional Logic]] | — | — | Tags & Classification | 176 |
-| 14 | [[String Manipulation]] | — | — | Tags & Classification | 176 |
-| 15 | [[File Properties]] | — | — | Tags & Classification | 176 |
+| 12 | [[Aggregation-Functions|Aggregation Functions]] | — | — | Tags & Classification | 176 |
+| 13 | [[Conditional-Logic|Conditional Logic]] | — | — | Tags & Classification | 176 |
+| 14 | [[String-Manipulation|String Manipulation]] | — | — | Tags & Classification | 176 |
+| 15 | [[File-Properties|File Properties]] | — | — | Tags & Classification | 176 |
 | 16 | [[Dashboard-Design|Dashboard Design]] | — | — | Tags & Classification | 176 |
 | 17 | [[PKB Architecture]] | — | — | Tags & Classification | 176 |
 | 18 | [[Dataview]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
@@ -1354,25 +1354,25 @@ LIMIT 15
 
 - [[" + l + "]]
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[Aggregation Functions]]
+- [[Aggregation-Functions|Aggregation Functions]]
 - [[Andragogy]]
-- [[Conditional Logic]]
+- [[Conditional-Logic|Conditional Logic]]
 - [[DQL]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dataview]]
 - [[Dataview Inline Queries: In-Note Metadata Panel]]
 - [[DataviewJS Advanced Patterns]]
-- [[File Properties]]
+- [[File-Properties|File Properties]]
 - [[Frontmatter]]
-- [[Inline Queries]]
+- [[Inline-Queries|Inline Queries]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Analytics Formulas]]
-- [[Link Analysis]]
+- [[Link-Analysis|Link Analysis]]
 - [[Meta Bind Reactive Fields]]
 - [[Metadata]]
 - [[Obsidian]]
 - [[PKB Architecture]]
-- [[String Manipulation]]
+- [[String-Manipulation|String Manipulation]]
 - [[Templater]]
 - [[Templater Integration with Dataview]]
 - [[Temporal Queries]]

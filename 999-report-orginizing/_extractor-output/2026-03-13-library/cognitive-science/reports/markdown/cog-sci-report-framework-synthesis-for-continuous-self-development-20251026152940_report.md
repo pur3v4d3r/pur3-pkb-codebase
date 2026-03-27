@@ -613,7 +613,7 @@ extraction_summary:
 - [[Organizational Learning]]
 - [[Organizational Learning and Knowledge Management Systems]]
 - [[Peter Gollwitzer]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
 - [[Richard-Ryan|Richard Ryan]]
@@ -675,7 +675,7 @@ extraction_summary:
 | 9 | [[Donald-Schön|Donald Schön]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 10 | [[Reflection-in-Action]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 11 | [[Reflective-Practice|reflective practice]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
-| 12 | [[pragmatism]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
+| 12 | [[Pragmatism]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
 | 13 | [[Kurt Lewin]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 79 |
 | 14 | [[David-Kolb|David Kolb]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
 | 15 | [[Experiential Learning Theory]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
@@ -962,7 +962,7 @@ graph TD
 - [[Organizational Learning]]
 - [[Organizational Learning and Knowledge Management Systems]]
 - [[Peter Gollwitzer]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
 - [[Richard-Ryan|Richard Ryan]]

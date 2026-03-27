@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 38
+referenced-by-count: 34
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
   - "[[Aspiration-Index]]"
   - "[[Attainment-Paradox]]"
   - "[[Autonomous-Regulation]]"
-  - "[[Autonomy]]"
   - "[[Autonomy-Supportive-Environment]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Causality-Orientations-Theory]]"
   - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Compensatory-Hypothesis]]"
+  - "[[Competence]]"
+  - "[[Conditional-Regard]]"
+  - "[[Contingent-Self-Worth]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,22 +60,19 @@ importance: high
 # Expectancy-Value-Theory
 
 > [!definition] **Expectancy-Value-Theory**
-> *Stub note — concept referenced by 38 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 34 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 38 permanent notes.*
+*Auto-generated stub — referenced by 34 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Amotivation]]
 - [[Aspiration-Index]]
 - [[Attainment-Paradox]]
 - [[Autonomous-Regulation]]
-- [[Autonomy]]
 - [[Autonomy-Supportive-Environment]]
-- [[Basic-Psychological-Needs]]
-- [[Causality-Orientations-Theory]]
 - [[Cognitive-Evaluation-Theory]]
-- [[Compensatory-Hypothesis]]
 - [[Competence]]
 - [[Conditional-Regard]]
 - [[Contingent-Self-Worth]]
@@ -86,4 +83,7 @@ importance: high
 - [[Goal-Content]]
 - [[Goal-Content-Theory]]
 - [[Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror]]
-- *...and 18 more permanent notes*
+- [[Goal-Framing]]
+- [[Hedonic-Adaptation]]
+- [[Identified-Regulation]]
+- *...and 14 more permanent notes*

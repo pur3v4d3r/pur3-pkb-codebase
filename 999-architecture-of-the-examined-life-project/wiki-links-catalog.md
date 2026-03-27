@@ -549,11 +549,11 @@
   - *First appears in: Recommendation 2: Expand to a Three-Tier Architecture*
 - **[[Prosoche]]** (6×)
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
-- **[[Epistemology]]** (4×)
+- **[[epistemology]]** (4×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Flow]]** (4×)
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
-- **[[pragmatism]]** (4×)
+- **[[Pragmatism]]** (4×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
 - **[[Allostasis]]** (3×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
@@ -1173,7 +1173,7 @@
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Epistemological Posture|epistemological posture]]
   - *First appears in: The Emergent Insight: Precision Flexibility as Cognitive Character*
-- [[Epistemology|traditional epistemology]]
+- [[epistemology|traditional epistemology]]
   - *First appears in: 🏛️ Virtue Epistemology: The Architecture of Intellectual Character*
 - [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
   - *First appears in: 2.4 Emotional Granularity: The Epistemic Precision of Fine-Grained Feeling*
@@ -1799,8 +1799,8 @@
 - [[Epistemic Motivation]]
 - [[Epistemic Virtues]] — 2×
 - [[Epistemological Posture|epistemological posture]]
-- [[Epistemology]] — 4×
-- [[Epistemology|traditional epistemology]]
+- [[epistemology]] — 4×
+- [[epistemology|traditional epistemology]]
 - [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Ernst-von-Glasersfeld]] — 2×
 - [[Ethnocentrism|in-group favoritism in epistemic evaluation]]
@@ -2091,7 +2091,7 @@
 - [[Practical Architecture - Reports 09-11]]
 - [[Practical Philosophy]]
 - [[Pragmatic-Maxim]] — 7×
-- [[pragmatism]] — 4×
+- [[Pragmatism]] — 4×
 - [[Precision-Weighting]] — 3×
 - [[Precision Weighting in Predictive Processing]]
 - [[Predictive-Processing]] — 13×
@@ -2873,9 +2873,9 @@
 
 | [[Epistemological Posture|epistemological posture]] | 1 | The Emergent Insight: Precision Flexibility as ... |
 
-| [[Epistemology]] | 4 | Distinguished Research Scholar — Socratic Synth... |
+| [[epistemology]] | 4 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Epistemology|traditional epistemology]] | 1 | 🏛️ Virtue Epistemology: The Architecture of Int... |
+| [[epistemology|traditional epistemology]] | 1 | 🏛️ Virtue Epistemology: The Architecture of Int... |
 
 | [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] | 1 | 2.4 Emotional Granularity: The Epistemic Precis... |
 
@@ -3391,7 +3391,7 @@
 
 | [[Pragmatic-Maxim]] | 7 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
-| [[pragmatism]] | 4 | ═══════════════════════════════════════════════... |
+| [[Pragmatism]] | 4 | ═══════════════════════════════════════════════... |
 
 | [[Precision-Weighting]] | 3 | Gap 5: Predictive Processing and Active Inference |
 

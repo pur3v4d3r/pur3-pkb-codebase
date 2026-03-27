@@ -23,8 +23,8 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,12 +37,12 @@ referenced-by-count: 14
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Context-Regulation]]"
+  - "[[.permanent-notes-index]]"
+  - "[[Autonomous-Motivation]]"
+  - "[[Controlled-Motivation]]"
   - "[[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]"
-  - "[[Motivational-Regulation]]"
   - "[[Pintrich's-Integrative-SRL-Framework]]"
   - "[[Regulatory-Overhead]]"
-  - "[[Regulatory-Reflexivity-Problem]]"
   - "[[Self-Determined-Self-Regulation]]"
   - "[[Self-Regulated-Learning-SRL]]"
   - "[[The-Motivational-Regulatory-Architecture-of-Learning]]"
@@ -65,12 +65,12 @@ importance: medium
 
 ## Referenced By
 
-- [[Context-Regulation]]
+- [[.permanent-notes-index]]
+- [[Autonomous-Motivation]]
+- [[Controlled-Motivation]]
 - [[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]
-- [[Motivational-Regulation]]
 - [[Pintrich's-Integrative-SRL-Framework]]
 - [[Regulatory-Overhead]]
-- [[Regulatory-Reflexivity-Problem]]
 - [[Self-Determined-Self-Regulation]]
 - [[Self-Regulated-Learning-SRL]]
 - [[The-Motivational-Regulatory-Architecture-of-Learning]]

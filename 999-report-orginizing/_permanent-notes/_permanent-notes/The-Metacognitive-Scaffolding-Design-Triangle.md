@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,9 +42,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "metacognitive-scaffolding-focused-analysis-2026-03-20"
-  - "metacognitive-scaffolding-focused-analysis-2026-03-20.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -56,16 +57,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metacognition]]"
@@ -76,23 +77,15 @@ see-also:
   - "[[Fluency-Illusion]]"
   - "[[Flavell-Metacognition-Framework]]"
   - "[[Nelson-Narens-Model]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Metacognitive-Knowledge|Metacognitive-Knowledge]]"
-  - "[[Flavell-Metacognition-Framework|Flavell-Metacognition-Framework]]"
-  - "[[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]"
-  - "[[Fluency-Illusion|Fluency-Illusion]]"
-  - "[[Nelson-Narens-Model|Nelson-Narens-Model]]"
-  - "[[Vygotsky|Vygotsky]]"
-  - "[[Zone-of-Proximal-Development|Zone-of-Proximal-Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Metacognitive-Calibration-The-relationship-between-monitoring-accura|> [!topic-idea] [[Metacognitive-Calibration]]
@@ -162,10 +155,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[Metacognition]] · [[Metacognitive-Knowledge]] · [[Flavell-Metacognition-Framework]] · [[Monitoring-Control-Coupling]] · [[Fluency-Illusion]] · [[Flavell-Metacognition-Framework]] · [[Nelson-Narens-Model]] · [[Vygotsky]] · [[Zone-of-Proximal-Development]] · [[Zone-of-Proximal-Development]] · [[Scaffolded-Fading]] · [[Fluency-Illusion]] · [[Prediction-Performance-Gap]] · [[Expertise-Reversal-Effect]]
 
-**Related concepts** *(from metacognitive-scaffolding-focused-analysis-2026-03-20.md)*:
-[[Self-Explanation-Effect|Self-Explanation-Effect]] * [[Desirable-Difficulties|Desirable-Difficulties]] * [[Germane-Cognitive-Load|Germane-Cognitive-Load]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Metacognitive-Regulation|Metacognitive-Regulation]] * [[Working-Memory|Working-Memory]] * [[Intrinsic-Cognitive-Load|Intrinsic-Cognitive-Load]] * [[Productive-Failure|Productive-Failure]] * [[Productive-Struggle|Productive-Struggle]] * [[Germane-Load|Germane-Load]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Pseudometacognition|Pseudometacognition]] * [[Far-Transfer|Far-Transfer]] * [[Metacognitive-Monitoring|Metacognitive-Monitoring]] * [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-
-
 ## References
 
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing the metacognitive knowledge/metacognitive experience distinction that structures this report's Phase II framework. Establishes the two-component model that subsequent researchers, including Nelson and Narens, extend into process-level accounts. Supports Phases II and IV.
@@ -173,21 +162,6 @@ importance: high
 - **Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100.**: Operational specification of the scaffolding construct with six tutoring functions. Introduces the contingency principle and the six functions of scaffolding that remain foundational to instructional design. Supports Phase II.
 - **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational paper introducing the desirable difficulties framework. The argument that conditions improving long-term retention often slow initial acquisition is central to this report's Phase IV argument that effective metacognitive scaffolding works by making shallow processing harder rather than making learning easier. Supports Phases IV and V.
 - **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187–194.**: Documents the fluency illusion and its systematic decoupling of felt understanding from actual learning. Central to this report's Phase IV mechanistic account of why unscaffolded monitoring is unreliable. Supports Phases III and IV.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing the metacognitive knowledge/metacognitive experience distinction that structures this report's Phase II framework. Establishes the two-component model that subsequent researchers, including Nelson and Narens, extend into process-level accounts. Supports Phases II and IV.
-
-- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation, 26*, 125–173.**: Introduces the monitoring-control hierarchical model that is the primary analytical tool of this report. The monitoring-control separation — with its implication that accurate monitoring does not automatically produce appropriate control — is the foundational insight on which this report's analysis of the monitoring-control dissociation in Phase III is built. Supports Phases II, IV, and V.
-
-- **Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100.**: Operational specification of the scaffolding construct with six tutoring functions. Introduces the contingency principle and the six functions of scaffolding that remain foundational to instructional design. Supports Phase II.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational paper introducing the desirable difficulties framework. The argument that conditions improving long-term retention often slow initial acquisition is central to this report's Phase IV argument that effective metacognitive scaffolding works by making shallow processing harder rather than making learning easier. Supports Phases IV and V.
-
-- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187–194.**: Documents the fluency illusion and its systematic decoupling of felt understanding from actual learning. Central to this report's Phase IV mechanistic account of why unscaffolded monitoring is unreliable. Supports Phases III and IV.
-
-
-
-
-
 
 ## Methodology Notes
 

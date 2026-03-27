@@ -23,7 +23,7 @@ link-related:
 # A Comprehensive Analysis of [[Advanced Persona Crafting]] and [[Instructional Scaffolding]] Techniques for Maximizing Output Relevance, Precision, and Consistency in Large Language Models
 
 > [!plan] **Working Plan — Deconstruct → Research → Synthesize → Compose**
-> I begin by precisely defining the problem space and success criteria for [[Persona Engineering]] and scaffolding. I then anchor the discussion in the most influential research programs (e.g., [[Constitutional AI]], [[ReAct]], [[Self-Consistency]], [[Reflexion]], and [[DSPy]]), drawing explicit implications for practice. Next, I integrate these ideas into a single instruction stack that unifies **norms**, **roles**, **procedures**, **tools**, and **evaluation**. Finally, I deliver PKB-ready templates, control-loop diagrams, and implementation guidance you can drop into your Obsidian vault or API workflows. Citations are included at key load-bearing claims.
+> I begin by precisely defining the problem space and success criteria for [[Persona Engineering]] and scaffolding. I then anchor the discussion in the most influential research programs (e.g., [[Constitutional-AI]], [[ReAct]], [[Self-Consistency]], [[Reflexion]], and [[DSPy]]), drawing explicit implications for practice. Next, I integrate these ideas into a single instruction stack that unifies **norms**, **roles**, **procedures**, **tools**, and **evaluation**. Finally, I deliver PKB-ready templates, control-loop diagrams, and implementation guidance you can drop into your Obsidian vault or API workflows. Citations are included at key load-bearing claims.
 
 ---
 
@@ -44,7 +44,7 @@ A [[Persona_Prompts]] is a **controlled prior**: a compact, high-information des
 
 The last three years produced a coherent set of ideas that, assembled together, explain why personas and scaffolds work:
 
-1. **[[Constitutional AI]]** shows that normative guidance (principles/rules) can be internalized and enforced through model-mediated feedback, reducing the need for fine-grained human labels and improving safety alignment. In practice, you can carry a mini-constitution into your instruction stack and use it for **on-the-fly critique** of candidate outputs. ([arXiv][1])
+1. **[[Constitutional-AI]]** shows that normative guidance (principles/rules) can be internalized and enforced through model-mediated feedback, reducing the need for fine-grained human labels and improving safety alignment. In practice, you can carry a mini-constitution into your instruction stack and use it for **on-the-fly critique** of candidate outputs. ([arXiv][1])
 
 2. **[[ReAct]] (Reason + Act)** demonstrates that interleaving chain-of-thought with *actions* (search, tools, environment steps) improves performance and transparency. Scaffolds that alternate “think → act → observe → revise” achieve better supervision and error recovery than think-only prompts. ([arXiv][2])
 

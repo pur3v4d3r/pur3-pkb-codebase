@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,10 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "fallibilism-foundational-report-2026-03-06"
-  - "fallibilism-foundational-report-2026-03-06.md"
-  - "report-05-the-virtuous-reasoner.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,34 +52,26 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Fallibilism]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
   - "[[Critical-Thinking|critical thinking]]"
   - "[[pedagogy]]"
   - "[[Descartes]]"
   - "[[scepticism]]"
   - "[[scepticism]]"
-  - "[[Fallibilism|fallibilism]]"
-  - "[[Epistemology|epistemology]]"
-  - "[[philosophy-of-science|philosophy of science]]"
-  - "[[Critical-Thinking|critical thinking]]"
-  - "[[pedagogy|pedagogy]]"
-  - "[[Descartes|Descartes]]"
-  - "[[scepticism|scepticism]]"
-  - "[[epistemic-relativism|epistemic relativism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +82,7 @@ builds-on:
   - "[[Descartes-—-Meditations|Descartes — Meditations]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[This-expansion-would-provide-a-rigorous-treatment-of-calibration-—-the-alignment|This expansion would provide a rigorous treatment of calibration — the alignment between confidence ]]"
@@ -136,18 +128,6 @@ importance: high
 > [!analytical-insight] Key Insight
 > The scientific method does not require that any particular inquiry be infallible. What it requires is that the method itself have the property of correcting its own errors over time. Error-detection and error-correction are baked into inquiry through the mechanisms of hypothesis testing, peer review, replication, and the social accountability of the scientific community. Individual fallibility and collective progress are not merely compatible — the acknowledgment of individual fallibility is a…
 
-> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
-> The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
-
-> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
-> Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
-
-> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
-> The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
-
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -168,10 +148,6 @@ importance: high
 > 1. Which historical figure's version of epistemic caution resonates most with you — Socrates's method of relentless questioning, Peirce's community-based self-correction, or Popper's falsificationism? What does your intuitive response reveal about your own epistemic values?
 > 2. The distinction between fallibilism and scepticism is philosophically sharp, but in practice many people conflate them. Why do you think this conflation is so common? What cognitive or rhetorical tendencies might drive…
 
-> [!reflection] **Reflect** *(from report-05-the-virtuous-reasoner.md)*
-> Think of a belief you hold strongly — about your own competence in some domain, about a political or social question, about a personal decision you have made. Now apply the bias-virtue correspondence: Which of the five biases is most likely distorting your epistemic relationship to evidence about this belief? Which corresponding virtue is most underdeveloped? What would it look like to engage with this belief from a position of fully deployed intellectual humility, courage, empathy, perseverance, and integrity simultaneously?
-
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -184,35 +160,7 @@ importance: high
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 
 **Related concepts:**
-[[Fallibilism]] · [[Epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
-
-**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md, report-05-the-virtuous-reasoner.md)*:
-[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-Humility|Epistemic humility]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]] * [[Falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]]
-
-**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Aporic-Receptivity|Aporic Receptivity]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Fallibilism|Fallibilism]]
-
-
-
-
-
+[[Fallibilism]] · [[epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 
 ## References
 
@@ -222,61 +170,12 @@ importance: high
 - **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
 - **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
 
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **📚 Zagzebski, L. T. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
-
-- **📚 Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.**: Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
-
-- **📚 Battaly, H. (2017). Intellectual perseverance. *Journal of Moral Philosophy*, 14(6), 658–708.**: The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
-
-- **📚 Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin*, 108(3), 480–498.**: The seminal account of motivated reasoning, distinguishing accuracy-motivated and directional-motivated reasoning and identifying the mechanisms through which directional motivations distort reasoning while maintaining the appearance of rationality. Cited 9,000+ times.
-
-- **📚 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The comprehensive synthesis of the heuristics and biases research program, providing the most accessible and complete account of systematic cognitive biases and their relationship to dual process theory. Essential background for the bias taxonomy used in this report.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Methodology Notes
 
 > [!methodology-and-sources] **Research Grounding for This Report**
 > This report synthesises the primary literature in epistemology and philosophy of science concerning fallibilism. It draws on the canonical texts of Peirce, Popper, Quine, and Dewey, and on secondary literature in virtue epistemology, contextualism, and educational philosophy. The historical narrative in Phase II is well established in the scholarly literature. The theoretical characterisations in Phase III represent the mainstream scholarly understanding of each framework, with genuine tensions and objections noted rather than flattened. The applications in Phase V draw on a combination of…
 
 ---
-
-> [!methodology-and-sources] **🔬 Research Grounding** *(from report-05-the-virtuous-reasoner.md)*
-> The organization of cognitive biases into five categories corresponding to intellectual virtues is a theoretical contribution of this synthesis and should not be treated as an established empirical taxonomy. Each individual bias is empirically documented with substantial replication evidence (though some, like the Dunning-Kruger effect, have faced replication challenges and theoretical reinterpretation). The correspondence between bias categories and virtues is a synthetic, analytical claim rather than a finding from empirical research. It is theoretically well-motivated but requires further empirical development.
-
 
 ## Source Attribution
 

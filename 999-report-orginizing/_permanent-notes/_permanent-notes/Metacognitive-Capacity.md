@@ -5,7 +5,6 @@
 title: "Metacognitive Capacity"
 aliases:
   - "Metacognitive Capacity"
-  - "metacognitive-capacity"
 type: permanent-note
 status: evergreen
 confidence: medium
@@ -30,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535"
-  - "cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
@@ -73,28 +73,18 @@ see-also:
   - "[[Metacognition]]"
   - "[[Cognitive-Biases|cognitive biases]]"
   - "[[Cognitive-Debt|cognitive debt]]"
-  - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
-  - "[[Cognitive-Biases|Cognitive Biases]]"
-  - "[[Decision-Making|Decision-Making]]"
-  - "[[Personal-Development|Personal Development]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Cognitive-Debt|cognitive debt]]"
-  - "[[technical-debt|technical debt]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -134,11 +124,7 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[Cognitive-Biases|cognitive biases]] · [[Cognitive-Debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[Cognitive-Biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[Confirmation-Bias|confirmation bias]] · [[Anchoring-Effects|anchoring effects]]
-
-**Related concepts** *(from cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md)*:
-[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[debiasing|debiasing]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[compound-interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[Adolescence|Adolescence]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]]
-
+[[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[Cognitive-Biases|cognitive biases]] · [[Cognitive-Debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[Cognitive-Biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[Confirmation-Bias|confirmation bias]] · [[anchoring-effects|anchoring effects]]
 
 ## References
 
@@ -163,7 +149,7 @@ importance: medium
 ## Methodology Notes
 
 > [!methodology-and-sources] **Consider-the-Opposite Strategy**
-> One empirically-supported debiasing technique is <span style='color: #27FF00;'>**"consider the opposite"**</span>—deliberately generating alternative interpretations, explanations, or predictions contrary to one's initial intuition. Research shows this reduces [[Confirmation-Bias]], [[Anchoring-Effects]], and [[overconfidence]]. Implementation protocol: Before finalizing important decisions, explicitly ask: (1) <span style='color: #72FFF1;'>"What evidence would disconfirm my current belief?"</span> (2) <span style='color: #72FFF1;'>"What would someone holding the opposite position…
+> One empirically-supported debiasing technique is <span style='color: #27FF00;'>**"consider the opposite"**</span>—deliberately generating alternative interpretations, explanations, or predictions contrary to one's initial intuition. Research shows this reduces [[Confirmation-Bias]], [[anchoring effects]], and [[overconfidence]]. Implementation protocol: Before finalizing important decisions, explicitly ask: (1) <span style='color: #72FFF1;'>"What evidence would disconfirm my current belief?"</span> (2) <span style='color: #72FFF1;'>"What would someone holding the opposite position…
 
 ---
 

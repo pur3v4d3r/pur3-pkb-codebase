@@ -71,7 +71,7 @@ builds_on:
 >
 > > [!topic-idea] [[PKM Implementation Companion — Twelve Master Principles]]
 > > **Gap Identified:** The framework provides exceptional theoretical design principles (the [[Twelve-Master-Principles]]) but zero implementation artifacts. No [[Templater]] templates, no [[Dataview]] queries, no [[QuickAdd]] macros, no [[Meta Bind]] configurations. This is the single largest gap in the entire series.
-> > **Where It Would Connect:** [[Report 27 — The Complete PKM/PKB Design Framework]], [[Obsidian PKB Architecture]], [[pkm-pkb-framework-synthesis]]
+> > **Where It Would Connect:** [[Report 27 — The Complete PKM/PKB Design Framework]], [[Obsidian-PKB-Architecture]], [[pkm-pkb-framework-synthesis]]
 > > **Estimated Effort:** <span style='color: #E50000;'>Substantial</span> — Each of the 12 principles requires specific tooling
 > > **Value Proposition:** Transforms the framework from theoretical resource to operational blueprint
 > > **Suggested Approach:**

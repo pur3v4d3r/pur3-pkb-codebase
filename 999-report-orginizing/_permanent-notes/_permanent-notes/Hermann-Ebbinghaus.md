@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 21
+referenced-by-count: 22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Accommodation]]"
   - "[[Accretion,-Tuning,-Restructuring]]"
   - "[[Central-Executive]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Episodic-Buffer]]"
   - "[[Episodic-Memory]]"
   - "[[Equilibration]]"
-  - "[[Memory-Consolidation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Hermann-Ebbinghaus
 
 > [!definition] **Hermann-Ebbinghaus**
-> *Stub note — concept referenced by 21 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 21 permanent notes.*
+*Auto-generated stub — referenced by 22 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Accommodation]]
 - [[Accretion,-Tuning,-Restructuring]]
 - [[Central-Executive]]
@@ -84,5 +85,4 @@ importance: high
 - [[Short-Term-Memory]]
 - [[Slot-Default-Value]]
 - [[Synaptic-Consolidation]]
-- [[Systems-Consolidation]]
-- *...and 1 more permanent notes*
+- *...and 2 more permanent notes*

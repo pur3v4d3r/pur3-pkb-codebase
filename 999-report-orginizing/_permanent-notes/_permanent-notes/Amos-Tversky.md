@@ -5,7 +5,6 @@
 title: "Amos-Tversky"
 aliases:
   - "Amos-Tversky"
-  - "Amos Tversky"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 36
+referenced-by-count: 37
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Analogical-Reasoning]]"
   - "[[Asksis]]"
   - "[[Bayesian-Inference]]"
@@ -47,7 +47,6 @@ see-also:
   - "[[Falsificationism]]"
   - "[[Inductive-Reasoning]]"
   - "[[Intellectual-Courage]]"
-  - "[[Intellectual-Empathy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,12 +59,13 @@ importance: high
 # Amos-Tversky
 
 > [!definition] **Amos-Tversky**
-> *Stub note — concept referenced by 36 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 37 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 36 permanent notes.*
+*Auto-generated stub — referenced by 37 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Analogical-Reasoning]]
 - [[Asksis]]
 - [[Bayesian-Inference]]
@@ -85,5 +85,4 @@ importance: high
 - [[Virtue-Epistemology]]
 - [[📖-Askēsis]]
 - [[📖-Cognitive-Decoupling]]
-- [[📖-Epistemic-Cowardice]]
-- *...and 16 more permanent notes*
+- *...and 17 more permanent notes*

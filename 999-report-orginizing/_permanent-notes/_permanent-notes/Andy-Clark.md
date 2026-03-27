@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 47
+referenced-by-count: 48
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[4E-Cognition]]"
   - "[[Active-Externalism]]"
   - "[[Active-Inference]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Controlled-Hallucination]]"
   - "[[Coupling-Constitution-Fallacy]]"
   - "[[Distributed-Cognition]]"
-  - "[[Extended-Mind-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Andy-Clark
 
 > [!definition] **Andy-Clark**
-> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 48 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 47 permanent notes.*
+*Auto-generated stub — referenced by 48 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[4E-Cognition]]
 - [[Active-Externalism]]
 - [[Active-Inference]]
@@ -84,5 +85,4 @@ importance: high
 - [[Phenomenal-Self-Model]]
 - [[Precision-Flexibility]]
 - [[Precision-Weighting]]
-- [[Prediction-Error]]
-- *...and 27 more permanent notes*
+- *...and 28 more permanent notes*

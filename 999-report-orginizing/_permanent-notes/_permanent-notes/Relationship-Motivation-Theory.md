@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "relationship-motivation-theory-focused-analysis-2026-03-13"
-  - "relationship-motivation-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Edward-Deci|Edward Deci]]"
@@ -72,14 +73,6 @@ see-also:
   - "[[Competence]]"
   - "[[Relatedness]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Edward-Deci|Edward Deci]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic-Psychological-Needs|basic psychological needs]]"
-  - "[[Autonomy|autonomy]]"
-  - "[[Competence|competence]]"
-  - "[[Relatedness|relatedness]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +83,7 @@ builds-on:
   - "[[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[This-analysis-would-drill-into-Reeve's-ISLE-Internally-Structured-Learning-Envir|This analysis would drill into Reeve's ISLE (Internally Structured Learning Environment) model and t]]"
@@ -171,14 +164,6 @@ importance: high
 **Related concepts:**
 [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
 
-**Related concepts** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
-[[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Knee|Knee]] * [[Patrick|Patrick]] * [[Lonsbary|Lonsbary]] * [[Autonomy-Support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Deci|Deci]] * [[Impett|Impett]] * [[Conditional-Positive-Regard|conditional positive regard]] * [[Canevello|Canevello]]
-
-**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
-- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
-
-
-
 ## References
 
 - **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: The foundational study establishing that need fulfillment varies within-person across specific relationships, and that within-person variation in need satisfaction predicts within-person variation in relationship quality and attachment security. Essential for understanding how RMT's claims apply not to relationships in the abstract but to specific dyadic contexts, and for the integration of attachment theory and basic needs theory.
@@ -186,21 +171,6 @@ importance: high
 - **Patrick, H., Knee, C. R., Canevello, A., & Lonsbary, C. (2007). The role of need fulfillment in relationship functioning and well-being: A self-determination theory perspective. *Journal of Personality and Social Psychology*, 92(3), 434–457.**: Two studies establishing need fulfillment as a mediator between perceived partner responsiveness and both relationship quality and individual well-being. Provides the clearest empirical evidence for the mechanism through which partner behavior translates into well-being outcomes, and establishes that competence and autonomy needs contribute to this mediation within the relational context, not just relatedness.
 - **Knee, C. R., Patrick, H., & Lonsbary, C. (2003). Implicit theories of relationships: Orientations toward evaluation and cultivation. *Personality and Social Psychology Review*, 7(1), 41–55.**: The study establishing how autonomous vs. controlled relationship motivation moderates conflict response, attribution, and resilience in the face of relational challenge. The daily diary design provides temporal evidence for the causal role of motivational quality in shaping relational processes over time.
 - **Impett, E. A., Gordon, A. M., Kogan, A., Oveis, C., Gable, S. L., & Keltner, D. (2010). Moving toward more perfect unions: Daily and long-term consequences of approach and avoidance goals in romantic relationships. *Journal of Personality and Social Psychology*, 99(6), 948–963.**: The autonomous vs. controlled sacrifice study. Demonstrates that the motivational quality of prosocial behavior within relationships predicts relationship outcomes independently of the behavior itself, and provides evidence that receivers are sensitive to the motivational quality of a partner's giving. Central to the Phase III analysis of how motivational quality permeates relational behavior.
-
-- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: The foundational study establishing that need fulfillment varies within-person across specific relationships, and that within-person variation in need satisfaction predicts within-person variation in relationship quality and attachment security. Essential for understanding how RMT's claims apply not to relationships in the abstract but to specific dyadic contexts, and for the integration of attachment theory and basic needs theory.
-
-- **Deci, E. L., La Guardia, J. G., Moller, A. C., Scheiner, M. J., & Ryan, R. M. (2006). On the benefits of giving as well as receiving autonomy support: Mutuality in close friendships. *Personality and Social Psychology Bulletin*, 32(3), 313–327.**: The study most directly examining controlled motivation for relationship maintenance and its effects on well-being and daily functioning. Shows that equivalent relationship satisfaction predicts different well-being outcomes depending on motivational quality, and documents the spillover from controlled relationship motivation to reduced autonomous functioning in non-relational domains. Central to the Phase III evidence review.
-
-- **Patrick, H., Knee, C. R., Canevello, A., & Lonsbary, C. (2007). The role of need fulfillment in relationship functioning and well-being: A self-determination theory perspective. *Journal of Personality and Social Psychology*, 92(3), 434–457.**: Two studies establishing need fulfillment as a mediator between perceived partner responsiveness and both relationship quality and individual well-being. Provides the clearest empirical evidence for the mechanism through which partner behavior translates into well-being outcomes, and establishes that competence and autonomy needs contribute to this mediation within the relational context, not just relatedness.
-
-- **Knee, C. R., Patrick, H., & Lonsbary, C. (2003). Implicit theories of relationships: Orientations toward evaluation and cultivation. *Personality and Social Psychology Review*, 7(1), 41–55.**: The study establishing how autonomous vs. controlled relationship motivation moderates conflict response, attribution, and resilience in the face of relational challenge. The daily diary design provides temporal evidence for the causal role of motivational quality in shaping relational processes over time.
-
-- **Impett, E. A., Gordon, A. M., Kogan, A., Oveis, C., Gable, S. L., & Keltner, D. (2010). Moving toward more perfect unions: Daily and long-term consequences of approach and avoidance goals in romantic relationships. *Journal of Personality and Social Psychology*, 99(6), 948–963.**: The autonomous vs. controlled sacrifice study. Demonstrates that the motivational quality of prosocial behavior within relationships predicts relationship outcomes independently of the behavior itself, and provides evidence that receivers are sensitive to the motivational quality of a partner's giving. Central to the Phase III analysis of how motivational quality permeates relational behavior.
-
-
-
-
-
 
 ## Methodology Notes
 

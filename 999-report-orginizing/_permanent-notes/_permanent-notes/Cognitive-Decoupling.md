@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-06-taming-system-1"
-  - "report-06-taming-system-1.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Daniel-Kahneman|Daniel Kahneman]]"
@@ -71,28 +72,18 @@ see-also:
   - "[[System-1|System 1]]"
   - "[[Intellectual-Virtues|Intellectual Virtues]]"
   - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
-  - "[[Daniel-Kahneman|Daniel Kahneman]]"
-  - "[[Jonathan-Evans|Jonathan Evans]]"
-  - "[[Keith-Stanovich|Keith Stanovich]]"
-  - "[[Stanovich|Stanovich]]"
-  - "[[Examined-Life|Examined Life]]"
-  - "[[System-1|System 1]]"
-  - "[[Intellectual-Virtues|Intellectual Virtues]]"
-  - "[[Fallibilist-Epistemology|Fallibilist Epistemology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -136,10 +127,6 @@ importance: high
 **Related concepts:**
 [[Daniel-Kahneman|Daniel Kahneman]] · [[Jonathan-Evans|Jonathan Evans]] · [[Keith-Stanovich|Keith Stanovich]] · [[Stanovich]] · [[Examined-Life|Examined Life]] · [[System-1|System 1]] · [[Intellectual-Virtues|Intellectual Virtues]] · [[Fallibilist-Epistemology|Fallibilist Epistemology]] · [[Epictetus]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Pierre-Hadot|Pierre Hadot]] · [[Prosoche]] · [[John-Flavell|John Flavell]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Ghassani-Swaryandini|Ghassani Swaryandini]]
 
-**Related concepts** *(from report-06-taming-system-1.md)*:
-[[Daniel-Kahneman|Daniel Kahneman]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Examined-Life|Examined Life]] * [[System-1|System 1]] * [[Intellectual-Virtues|Intellectual Virtues]] * [[Fallibilist-Epistemology|Fallibilist Epistemology]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Pierre-Hadot|Pierre Hadot]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Ghassani-Swaryandini|Ghassani Swaryandini]] * [[Nature-Human-Behaviour|Nature Human Behaviour]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Working-Memory|Working Memory]]
-
-
 ## References
 
 - **📑 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The foundational popular synthesis of dual process theory, distinguishing System 1 (fast, automatic, intuitive) from System 2 (slow, deliberate, effortful) processing and documenting the heuristics and biases that arise from ungoverned System 1 cognition. Essential background for this report's regulatory framework.
@@ -147,21 +134,6 @@ importance: high
 - **📑 Stanovich, K.E. (2018). Miserliness in human cognition: The interaction of detection, override and mindware. *Thinking & Reasoning*, 24(4), 423–444.**: Stanovich's synthesis of the three requirements for effective Type 2 override of Type 1 responses: detecting that override is warranted, having the capacity to override, and possessing the mindware to execute the override effectively. Directly relevant to the analysis of why brief debiasing interventions produce modest effects.
 - **📑 Flavell, J.H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The founding paper of the metacognition research tradition, defining metacognition as active monitoring and regulation of cognitive processes and establishing the framework within which Schraw and later researchers developed the metacognitive self-regulation model central to this report.
 - **📑 Schraw, G. (1998). Promoting general metacognitive awareness. *Instructional Science*, 26, 113–125.**: Schraw's synthesis of the knowledge of cognition / regulation of cognition distinction, providing the operational framework for metacognitive self-regulation that this report synthesizes with the Stoic prosoche tradition.
-
-- **📑 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The foundational popular synthesis of dual process theory, distinguishing System 1 (fast, automatic, intuitive) from System 2 (slow, deliberate, effortful) processing and documenting the heuristics and biases that arise from ungoverned System 1 cognition. Essential background for this report's regulatory framework.
-
-- **📑 Evans, J.S.B.T., & Stanovich, K.E. (2013). Dual-process theories of higher cognition: Advancing the debate. *Perspectives on Psychological Science*, 8(3), 223–241.**: The authoritative theoretical statement of the default-interventionist version of dual process theory, establishing cognitive decoupling as the defining feature of Type 2 processing and autonomy as the defining feature of Type 1 processing. Provides the mechanistic architecture underlying this report's regulatory framework.
-
-- **📑 Stanovich, K.E. (2018). Miserliness in human cognition: The interaction of detection, override and mindware. *Thinking & Reasoning*, 24(4), 423–444.**: Stanovich's synthesis of the three requirements for effective Type 2 override of Type 1 responses: detecting that override is warranted, having the capacity to override, and possessing the mindware to execute the override effectively. Directly relevant to the analysis of why brief debiasing interventions produce modest effects.
-
-- **📑 Flavell, J.H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The founding paper of the metacognition research tradition, defining metacognition as active monitoring and regulation of cognitive processes and establishing the framework within which Schraw and later researchers developed the metacognitive self-regulation model central to this report.
-
-- **📑 Schraw, G. (1998). Promoting general metacognitive awareness. *Instructional Science*, 26, 113–125.**: Schraw's synthesis of the knowledge of cognition / regulation of cognition distinction, providing the operational framework for metacognitive self-regulation that this report synthesizes with the Stoic prosoche tradition.
-
-
-
-
-
 
 ## Methodology Notes
 

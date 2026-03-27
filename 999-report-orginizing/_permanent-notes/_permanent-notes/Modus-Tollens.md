@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "deductive-reasoning-learning-foundational-report-2026-03-10"
-  - "deductive-reasoning-learning-foundational-report-2026-03-10.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Deductive-Reasoning|deductive reasoning]]"
@@ -69,14 +70,6 @@ see-also:
   - "[[Inductive-Reasoning|inductive reasoning]]"
   - "[[Abductive-Reasoning|abductive reasoning]]"
   - "[[Aristotle]]"
-  - "[[Dual-Process-Theory|Dual-Process Theory]]"
-  - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[Deductive-Reasoning|deductive reasoning]]"
-  - "[[Gottlob-Frege|Gottlob Frege]]"
-  - "[[Peter-Wason|Peter Wason]]"
-  - "[[Inductive-Reasoning|inductive reasoning]]"
-  - "[[Abductive-Reasoning|abductive reasoning]]"
-  - "[[Aristotle|Aristotle]]"
   - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Mental-Models-Theory|Mental Models Theory]]"
 
@@ -90,7 +83,7 @@ builds-on:
   - "[[Critical-Thinking-in-Education|Critical Thinking in Education]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Transfer-of-Learning-and-Deductive-Skill-Whether-deductive-training|> [!topic-idea] [[Transfer-of-Learning-and-Deductive-Skill]]
@@ -162,42 +155,6 @@ importance: high
 **Related concepts:**
 [[Deductive-Reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[Inductive-Reasoning|inductive reasoning]] · [[Abductive-Reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Working-Memory|working memory]] · [[Belief-Bias|belief bias]] · [[Aristotle]] · [[Categorical-Syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]]
 
-**Related concepts** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Belief-Bias|belief bias]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]]
-
-**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from deductive-reasoning-learning-foundational-report-2026-03-10.md)*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-
-
-
-
-
 ## References
 
 - **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
@@ -205,66 +162,6 @@ importance: high
 - **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
 - **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
 - **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

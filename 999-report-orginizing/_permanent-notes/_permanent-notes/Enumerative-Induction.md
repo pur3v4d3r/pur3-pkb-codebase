@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "inductive-reasoning-foundational-report-2026-03-06"
-  - "inductive-reasoning-foundational-report-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Inductive-Reasoning|Inductive reasoning]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[David-Hume|David Hume]]"
   - "[[John-Stuart-Mill|John Stuart Mill]]"
   - "[[Karl-Popper|Karl Popper]]"
-  - "[[Inductive-Reasoning|Inductive reasoning]]"
-  - "[[David-Hume|David Hume]]"
-  - "[[Karl-Popper|Karl Popper]]"
-  - "[[Aristotle|Aristotle]]"
-  - "[[Francis-Bacon|Francis Bacon]]"
-  - "[[John-Stuart-Mill|John Stuart Mill]]"
-  - "[[Analogical-Reasoning|Analogical reasoning]]"
-  - "[[Causal-Induction|Causal induction]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -88,12 +81,10 @@ builds-on:
   - "[[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -156,22 +147,6 @@ importance: high
 **Related concepts:**
 [[Inductive-Reasoning|Inductive reasoning]] · [[David-Hume|David Hume]] · [[Karl-Popper|Karl Popper]] · [[Aristotle]] · [[Francis-Bacon|Francis Bacon]] · [[David-Hume|David Hume]] · [[John-Stuart-Mill|John Stuart Mill]] · [[Karl-Popper|Karl Popper]] · [[Analogical-Reasoning|Analogical reasoning]] · [[Causal-Induction|Causal induction]] · [[Alison-Gopnik|Alison Gopnik]] · [[Bayesian-Inference|Bayesian Inference]] · [[Joshua-Tenenbaum|Joshua Tenenbaum]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]]
 
-**Related concepts** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
-[[Inductive-Reasoning|Inductive reasoning]] * [[David-Hume|David Hume]] * [[Karl-Popper|Karl Popper]] * [[Francis-Bacon|Francis Bacon]] * [[John-Stuart-Mill|John Stuart Mill]] * [[Analogical-Reasoning|Analogical reasoning]] * [[Causal-Induction|Causal induction]] * [[Alison-Gopnik|Alison Gopnik]] * [[Bayesian-Inference|Bayesian Inference]] * [[Joshua-Tenenbaum|Joshua Tenenbaum]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Constructivism|Constructivism]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]]
-
-**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-
-
-
 ## References
 
 - **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
@@ -179,36 +154,6 @@ importance: high
 - **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
 - **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
 - **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
-
-- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
-
-- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
-
-- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
-
-- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
-
-- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
-
-- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
-
-- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
-
-- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
-
-- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
-
-- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

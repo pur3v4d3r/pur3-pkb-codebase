@@ -32,7 +32,7 @@ from collections import defaultdict
 # Ensure scripts/ is on the path for sibling imports
 sys.path.insert(0, str(Path(__file__).parent))
 
-from audit_notes import run_audit, AuditResult
+from audit_notes import run_audit, AuditResult, build_resolution_index
 from config import OUTPUT_DIR, MAX_FILENAME_LENGTH
 
 
@@ -420,6 +420,8 @@ def build_stub_plans(
     """
     plans: list[StubPlan] = []
     existing_files = {f.stem.lower() for f in notes_dir.glob('*.md')}
+    # Build alias resolution index to catch case-variants and known aliases
+    resolve_map = build_resolution_index(list(notes_dir.glob('*.md')))
 
     for target, sources in audit.missing_concepts.items():
         if len(sources) < min_refs:
@@ -436,6 +438,9 @@ def build_stub_plans(
 
         # Skip if file already exists (from a prior run, or name collision)
         if fname.lower() in existing_files:
+            continue
+        # Skip if the concept resolves to an existing note via alias/case-variant
+        if target.lower() in resolve_map:
             continue
 
         filepath = notes_dir / f"{fname}.md"

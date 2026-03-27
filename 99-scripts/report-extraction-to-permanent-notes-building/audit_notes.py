@@ -34,6 +34,28 @@ WIKILINK_PATTERN = re.compile(r'\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]')
 REPORT_PATTERN = re.compile(r'^(\d{2}-|Report\s)')
 PLACEHOLDER_NAMES = {"Note Title", "Note Title A", "Note Title B", ""}
 
+# Patterns that indicate a garbage / non-concept wiki-link target
+_GARBAGE_LINK_PATTERNS = [
+    re.compile(r'<%'),                     # Templater syntax
+    re.compile(r'%>'),                     # Templater syntax
+    re.compile(r'tp\.'),                   # Templater function references
+    re.compile(r'^\*\*.*\*\*$'),           # Bold-wrapped text
+    re.compile(r'^__.*__$'),               # Underline-wrapped text
+    re.compile(r'^\d{1,4}$'),             # Pure numbers / years
+    re.compile(r'^Note-?\d+$', re.I),     # Template placeholders
+    re.compile(r'^Note Title', re.I),     # Template placeholder text
+    re.compile(r'priority:|aliases:|topic:', re.I),  # YAML fragment leak
+    re.compile(r'^\s*$'),                 # Empty / whitespace-only
+    re.compile(r'^[^a-zA-Z]*$'),          # No alphabetic characters
+]
+
+
+def _is_garbage_link(target: str) -> bool:
+    """Return True if the wiki-link target is not a valid concept name."""
+    if not target or len(target.strip()) < 2:
+        return True
+    return any(p.search(target) for p in _GARBAGE_LINK_PATTERNS)
+
 
 # ══════════════════════════════════════════════════════════════════════════════
 # CORE AUDIT ENGINE
@@ -110,7 +132,7 @@ def run_audit(notes_dir: Path = NOTES_DIR) -> AuditResult:
 
         for m in WIKILINK_PATTERN.finditer(content):
             target = m.group(1).strip()
-            if not target:
+            if not target or _is_garbage_link(target):
                 continue
             targets_in_note.add(target)
             target_sources[target].add(f.stem)

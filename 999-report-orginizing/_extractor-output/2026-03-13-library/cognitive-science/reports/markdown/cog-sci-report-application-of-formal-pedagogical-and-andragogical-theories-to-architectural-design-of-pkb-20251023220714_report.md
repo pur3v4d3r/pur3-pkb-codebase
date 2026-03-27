@@ -239,7 +239,7 @@ extraction_summary:
 #### 14. [ANALOGY] Untitled *(Line 240)*
 
 > [!analogy] Untitled
-> A networked system is a **roundtable discussion**. Every "note" is a "person" (an expert on one topic). You can "tap" any note on the shoulder and ask, "Who else in this room do you know?" The note `[[Free Will]]` will point you to `[[Quantum Mechanics]]` and `[[Consciousness]]`. You are not a librarian; you are a *facilitator of a conversation* between your own ideas.
+> A networked system is a **roundtable discussion**. Every "note" is a "person" (an expert on one topic). You can "tap" any note on the shoulder and ask, "Who else in this room do you know?" The note `[[Free Will]]` will point you to `[[Quantum Mechanics]]` and `[[consciousness]]`. You are not a librarian; you are a *facilitator of a conversation* between your own ideas.
 
 #### 15. [DEFINITION] Untitled *(Line 270)*
 
@@ -353,7 +353,7 @@ extraction_summary:
 - [[Andragogy vs. Pedagogy]]
 - [[Book Project Ideas]]
 - [[Cognitive-Bias|Cognitive Bias]]
-- [[Consciousness]]
+- [[consciousness]]
 - [[Constructivism|Constructivism (Learning Theory)]]
 - [[Free Will]]
 - [[Generative AI]]
@@ -389,7 +389,7 @@ extraction_summary:
 | 10 | [[Marketing]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 237 |
 | 11 | [[Free Will]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
 | 12 | [[Quantum Mechanics]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
-| 13 | [[Consciousness]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
+| 13 | [[consciousness]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
 | 14 | [[The Uncertainty Principle]] | — | — | MECHANISM 1: THE ATOMIC NOTE (THE ACT... | 253 |
 | 15 | [[Team Comms MOC]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
 | 16 | [[Psychological-Safety|Psychological Safety]] | — | — | MECHANISM 2: MAPS OF CONTENT (MOCS) (... | 259 |
@@ -470,7 +470,7 @@ graph TD
 - [[Andragogy vs. Pedagogy]]
 - [[Book Project Ideas]]
 - [[Cognitive-Bias|Cognitive Bias]]
-- [[Consciousness]]
+- [[consciousness]]
 - [[Constructivism|Constructivism (Learning Theory)]]
 - [[Free Will]]
 - [[Generative AI]]

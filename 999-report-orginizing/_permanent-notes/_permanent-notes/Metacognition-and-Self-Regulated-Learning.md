@@ -24,30 +24,30 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 41
+referenced-by-count: 22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abductive-Reasoning]]"
+  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
   - "[[Autonomous-Regulation]]"
-  - "[[Autonomy]]"
   - "[[Autonomy-Supportive-Environment]]"
-  - "[[Basic-Psychological-Needs]]"
   - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
   - "[[Competence]]"
   - "[[Conditional-Regard]]"
+  - "[[Controlled-Regulation]]"
+  - "[[Controlling-Environment]]"
+  - "[[Effectance]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Metacognition-and-Self-Regulated-Learning
 
 > [!definition] **Metacognition-and-Self-Regulated-Learning**
-> *Stub note — concept referenced by 41 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 41 permanent notes.*
+*Auto-generated stub — referenced by 22 permanent notes.*
 
 ## Referenced By
 
-- [[Abductive-Reasoning]]
+- [[.permanent-notes-index]]
 - [[Amotivation]]
 - [[Autonomous-Regulation]]
-- [[Autonomy]]
 - [[Autonomy-Supportive-Environment]]
-- [[Basic-Psychological-Needs]]
 - [[Cognitive-Evaluation-Theory]]
-- [[Cognitive-Load-Theory]]
 - [[Competence]]
 - [[Conditional-Regard]]
-- [[Confirmation-Bias]]
-- [[Context-Regulation]]
 - [[Controlled-Regulation]]
 - [[Controlling-Environment]]
-- [[Critical-Thinking]]
-- [[Deductive-Reasoning]]
-- [[Defeasibility]]
 - [[Effectance]]
-- [[Epistemic-Cognition]]
 - [[Identified-Regulation]]
-- *...and 21 more permanent notes*
+- [[Introjected-Regulation]]
+- [[Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score]]
+- [[Need-Thwarting]]
+- [[Organismic-Integration-Theory]]
+- [[Perceived-Locus-of-Causality]]
+- [[Phase-vs.-Area-—-A-Critical-Distinction]]
+- [[Pintrich's-4×4-Matrix]]
+- [[Relatedness]]
+- [[The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper]]
+- *...and 2 more permanent notes*

@@ -2,9 +2,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "John-Hattie"
+title: "John Hattie"
 aliases:
-  - "John-Hattie"
   - "John Hattie"
 type: permanent-note
 status: seedling
@@ -16,7 +15,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - concept-stub
+  - person-stub
   - other
 
 domain: other
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -54,10 +53,10 @@ mastery-stage: seedling
 importance: low
 ---
 
-# John-Hattie
+# John Hattie
 
-> [!definition] **John-Hattie**
-> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **John Hattie**
+> *Stub note — person referenced by 7 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
 
 *Auto-generated stub — referenced by 7 permanent notes.*
 

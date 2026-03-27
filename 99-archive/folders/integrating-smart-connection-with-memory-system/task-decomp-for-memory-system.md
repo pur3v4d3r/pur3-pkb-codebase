@@ -674,7 +674,7 @@ REST API with PostgreSQL backend
 
 ### Subtask 2.1: Define Agent Memory Protocols
 
-**Reasoning Technique**: [[Constitutional AI]] (establish rules and rewards)
+**Reasoning Technique**: [[Constitutional-AI]] (establish rules and rewards)
 
 **Protocol Document**: `.clinerules` (project root or `.claude/core/.clinerules`)
 
@@ -2363,7 +2363,7 @@ def generate_temporal_graph(vault_path: str, days_back: int = 30):
 
 ### Subtask 4.1: Agent Identity & Namespace Management
 
-**Reasoning Technique**: [[Constitutional AI]] (establish rules for multi-agent operation)
+**Reasoning Technique**: [[Constitutional-AI]] (establish rules for multi-agent operation)
 
 **Goal**: Prevent conflicts when multiple agents access same memory vault
 

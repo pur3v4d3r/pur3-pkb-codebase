@@ -175,7 +175,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
   - [[Stoic-Assent]] (Synkatathesis) — Act of accepting or rejecting an impression as accurately representing reality [Report 29]
   - [[Dichotomy-of-Control]] — Focus only on what is genuinely within one's control [Reports 07, 13]
 - **[[Epistemic-Justice]]** — Whose testimony and experience is recognized as credible knowledge (Fricker) [Report 29]
-- **[[pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
+- **[[Pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
 
 ---
 

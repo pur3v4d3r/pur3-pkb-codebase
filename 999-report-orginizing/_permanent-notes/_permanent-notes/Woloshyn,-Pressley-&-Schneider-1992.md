@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 11
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: medium
 # Woloshyn, Pressley & Schneider (1992)
 
 > [!definition] **Woloshyn, Pressley & Schneider (1992)**
-> *Stub note — person referenced by 12 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> *Stub note — person referenced by 11 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 11 permanent notes.*
 
 ## Referenced By
 
@@ -75,5 +75,4 @@ importance: medium
 - [[Meaningful-Learning]]
 - [[Obliterative-Subsumption]]
 - [[Prior-Knowledge]]
-- [[Schema]]
 - [[Subsumer-Anchoring-Idea]]

@@ -226,7 +226,7 @@ OPTION B: New Conversation
 
 **Example**:
 ```
-TURN 1: Create atomic note for [[Attention Mechanism]]
+TURN 1: Create atomic note for [[Attention-Mechanism]]
 [Model has no knowledge of other concepts]
 
 [NEW CONVERSATION]

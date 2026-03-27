@@ -16,7 +16,7 @@ type: reference
 ## Quality of Life Upgrade Collection
 
 > [!abstract] Overview
-> This compendium provides **50+ production-ready buttons** for [[Directory Opus]], organized by functional category. Each button includes complete [[XML]] code, functional explanation, and customization notes. These buttons transform common multi-step operations into single-click actions, dramatically improving [[file management]] workflow efficiency.
+> This compendium provides **50+ production-ready buttons** for [[Directory-Opus]], organized by functional category. Each button includes complete [[XML]] code, functional explanation, and customization notes. These buttons transform common multi-step operations into single-click actions, dramatically improving [[file-management]] workflow efficiency.
 
 - --
 
@@ -276,7 +276,7 @@ type: reference
 ### Replace Spaces with Underscores
 
 > [!what-this-does] Function
-> Converts spaces to underscores in filenames --- essential for [[command line]] compatibility and [[URL]]-safe naming.
+> Converts spaces to underscores in filenames --- essential for [[command-line]] compatibility and [[URL]]-safe naming.
 
 ```xml
 <?xml version="1.0"?>
@@ -797,7 +797,7 @@ type: reference
 ### Open Command Prompt Here
 
 > [!what-this-does] Function
-> Opens [[Command Prompt]] in the current directory.
+> Opens [[Command-Prompt]] in the current directory.
 
 ```xml
 <?xml version="1.0"?>
@@ -835,7 +835,7 @@ type: reference
 ### Open Windows Terminal Here
 
 > [!what-this-does] Function
-> Opens [[Windows Terminal]] in the current directory.
+> Opens [[Windows-Terminal]] in the current directory.
 
 ```xml
 <?xml version="1.0"?>
@@ -854,7 +854,7 @@ type: reference
 ### Open in VS Code
 
 > [!what-this-does] Function
-> Opens selected file(s) or folder in [[Visual Studio Code]].
+> Opens selected file(s) or folder in [[Visual-Studio-Code]].
 
 ```xml
 <?xml version="1.0"?>

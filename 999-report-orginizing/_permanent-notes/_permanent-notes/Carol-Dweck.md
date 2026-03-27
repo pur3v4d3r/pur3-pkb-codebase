@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 46
+referenced-by-count: 30
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Attribution-Retraining]]"
+  - "[[.permanent-notes-index]]"
   - "[[Attribution-Theory]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Basic-Psychological-Needs]]"
   - "[[Belonging-Uncertainty]]"
   - "[[Challenge-Avoidance]]"
-  - "[[Co-Constructed-Criteria]]"
   - "[[Dissolved-Assumption]]"
-  - "[[Ego-Involving-Feedback]]"
+  - "[[Entity-Theory-of-Intelligence]]"
+  - "[[Fixed-Mindset]]"
+  - "[[Goal-Orientation]]"
+  - "[[Growth-Mindset]]"
+  - "[[Helpless-Response-Pattern]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Carol-Dweck
 
 > [!definition] **Carol-Dweck**
-> *Stub note — concept referenced by 46 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 30 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 46 permanent notes.*
+*Auto-generated stub — referenced by 30 permanent notes.*
 
 ## Referenced By
 
-- [[Attribution-Retraining]]
+- [[.permanent-notes-index]]
 - [[Attribution-Theory]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Basic-Psychological-Needs]]
 - [[Belonging-Uncertainty]]
 - [[Challenge-Avoidance]]
-- [[Co-Constructed-Criteria]]
 - [[Dissolved-Assumption]]
-- [[Ego-Involving-Feedback]]
-- [[Entity-Theory]]
 - [[Entity-Theory-of-Intelligence]]
-- [[Feed-Forward]]
 - [[Fixed-Mindset]]
-- [[Formative-Assessment]]
-- [[Formative-Feedback]]
 - [[Goal-Orientation]]
 - [[Growth-Mindset]]
 - [[Helpless-Response-Pattern]]
 - [[Implicit-Theory-of-Intelligence]]
-- *...and 26 more permanent notes*
+- [[Incremental-Theory-of-Intelligence]]
+- [[Mastery-Experience]]
+- [[Mastery-Goal-Orientation]]
+- [[Mastery-Oriented-Response-Pattern]]
+- [[Mindset-Intervention]]
+- [[Performance-Goal-Orientation]]
+- [[Productive-Struggle]]
+- [[Self-Efficacy]]
+- [[Stereotype-Threat]]
+- *...and 10 more permanent notes*

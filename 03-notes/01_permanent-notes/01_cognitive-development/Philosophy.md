@@ -42,7 +42,7 @@ review-interval: 3
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Philosophy]]
+> - **Title**: [[philosophy]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

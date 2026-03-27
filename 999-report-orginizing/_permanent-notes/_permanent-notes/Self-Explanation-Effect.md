@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,9 +41,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "writing-techniques-effective-learning-focused-analysis-2026-03-21"
-  - "writing-techniques-effective-learning-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -55,16 +56,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Testing-Effect]]"
@@ -75,23 +76,15 @@ see-also:
   - "[[Working-Memory]]"
   - "[[Long-Term-Memory]]"
   - "[[Schema]]"
-  - "[[Testing-Effect|Testing-Effect]]"
-  - "[[Elaborative-Interrogation|Elaborative-Interrogation]]"
-  - "[[Fluency-Illusion|Fluency-Illusion]]"
-  - "[[Writing-to-Learn|Writing-to-Learn]]"
-  - "[[Working-Memory|Working-Memory]]"
-  - "[[Long-Term-Memory|Long-Term-Memory]]"
-  - "[[Schema|Schema]]"
-  - "[[Cognitive-Load-Theory|Cognitive-Load-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Spacing-Effect-and-Its-Interaction-with-Writing-Techniques-Spaced-re|> [!topic-idea] [[Spacing-Effect]] and Its Interaction with Writing Techniques
@@ -155,10 +148,6 @@ importance: high
 **Related concepts:**
 [[Testing-Effect]] · [[Elaborative-Interrogation]] · [[Self-Explanation-Effect]] · [[Fluency-Illusion]] · [[Writing-to-Learn]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Schema]] · [[Cognitive-Load-Theory]] · [[Germane-Cognitive-Load]] · [[Elaborative-Interrogation]] · [[Testing-Effect]] · [[Self-Explanation-Effect]] · [[Writing-to-Learn]] · [[Testing-Effect]]
 
-**Related concepts** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*:
-[[Encoding-Specificity|Encoding-Specificity]] * [[Spreading-Activation|Spreading-Activation]] * [[Elaboration|Elaboration]] * [[Worked-Example-Effect|Worked-Example-Effect]] * [[Advance-Organizer|Advance-Organizer]] * [[Element-Interactivity|Element-Interactivity]] * [[Metacognitive-Monitoring|Metacognitive-Monitoring]] * [[Active-Note-Making|Active-Note-Making]] * [[ICAP-Framework|ICAP-Framework]] * [[Working-Memory-Capacity|Working-Memory-Capacity]] * [[Transfer-Appropriate-Processing|Transfer-Appropriate-Processing]] * [[Desirable-Difficulties|Desirable-Difficulties]] * [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Metacognition|Metacognition]]
-
-
 ## References
 
 - **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
@@ -166,21 +155,6 @@ importance: high
 - **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
 - **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
 - **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
-
-- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
-
-- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
-
-- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
-
-- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
-
-
-
-
-
 
 ## Methodology Notes
 

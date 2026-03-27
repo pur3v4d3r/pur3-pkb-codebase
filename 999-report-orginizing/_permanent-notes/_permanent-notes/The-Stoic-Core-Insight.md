@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-instructional-daily-stoicism-2025120322"
-  - "reference-instructional-daily-stoicism-2025120322.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Marcus-Aurelius|Marcus Aurelius]]"
   - "[[Epictetus]]"
   - "[[Seneca]]"
-  - "[[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]]"
-  - "[[Affect-Labeling|Affect Labeling]]"
-  - "[[<%=-tp.date.now("YYYY-MM-DD",--1,-tp.file.title)-%>|<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]]"
-  - "[[Stoicism|Stoicism]]"
-  - "[[Marcus-Aurelius|Marcus Aurelius]]"
-  - "[[Epictetus|Epictetus]]"
-  - "[[Seneca|Seneca]]"
-  - "[[Virtue-Ethics|Virtue Ethics]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -126,10 +117,6 @@ importance: medium
 
 **Related concepts:**
 [[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]] · [[Affect-Labeling|Affect Labeling]] · [[%=-tp.date.nowYYYY-MM-DD,-1,-tp.file.title-%|<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]] · [[%=-tp.date.nowYYYY-MM-DD,-1,-tp.file.title-%|<%= tp.date.now("YYYY-MM-DD", 1, tp.file.title) %>]] · [[Stoicism]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Epictetus]] · [[Seneca]] · [[Virtue-Ethics|Virtue Ethics]] · [[{{VALUELink-to-PKB-concepts}}|{{VALUE:Link to PKB concepts}}]] · [[Behavioral-Patterns-MOC]] · [[Epistemic-Growth-Chart]] · [[Stoic-Insights-MOC]]
-
-**Related concepts** *(from reference-instructional-daily-stoicism-2025120322.md)*:
-[[Daily-Stoic-Intergration-System|Daily Stoic Intergration System]] * [[Affect-Labeling|Affect Labeling]] * [[<%=-tp.date.now("YYYY-MM-DD",--1,-tp.file.title)-%>|<%= tp.date.now("YYYY-MM-DD", -1, tp.file.title) %>]] * [[<%=-tp.date.now("YYYY-MM-DD",-1,-tp.file.title)-%>|<%= tp.date.now("YYYY-MM-DD", 1, tp.file.title) %>]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Virtue-Ethics|Virtue Ethics]] * [[{{VALUE:Link-to-PKB-concepts}}|{{VALUE:Link to PKB concepts}}]]
-
 
 ## Methodology Notes
 

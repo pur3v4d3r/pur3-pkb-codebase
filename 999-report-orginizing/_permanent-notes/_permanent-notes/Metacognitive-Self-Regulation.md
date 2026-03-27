@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,10 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-02-the-fallible-knower"
-  - "report-02-the-fallible-knower.md"
-  - "report-06-taming-system-1.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
@@ -73,28 +73,18 @@ see-also:
   - "[[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]"
   - "[[Constructivist-Stance|Constructivist Stance]]"
   - "[[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]]"
-  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
-  - "[[Confirmation-Bias|confirmation bias]]"
-  - "[[belief-perseverance|belief perseverance]]"
-  - "[[Fallibilism|fallibilism]]"
-  - "[[Jean-Piaget|Jean Piaget]]"
-  - "[[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]"
-  - "[[Constructivist-Stance|Constructivist Stance]]"
-  - "[[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -113,70 +103,10 @@ importance: high
 
 <!-- Expand this section with deeper explanation -->
 
-> [!evidence] Supporting Evidence *(from report-06-taming-system-1.md)*
-> The foundational popular synthesis of dual process theory, distinguishing System 1 (fast, automatic, intuitive) from System 2 (slow, deliberate, effortful) processing and documenting the heuristics and biases that arise from ungoverned System 1 cognition. Essential background for this report's regulatory framework.
-
-> [!evidence] Supporting Evidence *(from report-06-taming-system-1.md)*
-> The authoritative theoretical statement of the default-interventionist version of dual process theory, establishing cognitive decoupling as the defining feature of Type 2 processing and autonomy as the defining feature of Type 1 processing. Provides the mechanistic architecture underlying this report's regulatory framework.
-
-> [!evidence] Supporting Evidence *(from report-06-taming-system-1.md)*
-> Stanovich's synthesis of the three requirements for effective Type 2 override of Type 1 responses: detecting that override is warranted, having the capacity to override, and possessing the mindware to execute the override effectively. Directly relevant to the analysis of why brief debiasing interventions produce modest effects.
-
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
-
-
-## Reflection Prompts
-
-> [!reflection] **Reflect** *(from report-06-taming-system-1.md)*
-> In what domains of your own reasoning do you notice the strongest feelings of immediate certainty? These are precisely the domains where your Type 1 processing has the most well-worn patterns — and therefore where the distinction between genuine expertise and confident miscalibration is hardest to detect without practiced metacognitive attention. Where in your professional or personal life do you routinely accept the first impression? What would it look like to cultivate a brief, habitual governed gap in those specific domains?
-
-> [!reflection] **Reflect** *(from report-06-taming-system-1.md)*
-> Consider the last three significant decisions you made — professional, personal, or intellectual. For each decision, ask: how much of the cognitive work occurred before you had already formed an initial impression? At what point in your deliberation did you become aware of having a preferred conclusion? How reliably do you create a governed attentional gap between your initial impression and your final judgment? These questions, practiced regularly, constitute the beginnings of the prosoche described in this report.
-
-
-
-## References
-
-- **📑 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The foundational popular synthesis of dual process theory, distinguishing System 1 (fast, automatic, intuitive) from System 2 (slow, deliberate, effortful) processing and documenting the heuristics and biases that arise from ungoverned System 1 cognition. Essential background for this report's regulatory framework.
-
-- **📑 Evans, J.S.B.T., & Stanovich, K.E. (2013). Dual-process theories of higher cognition: Advancing the debate. *Perspectives on Psychological Science*, 8(3), 223–241.**: The authoritative theoretical statement of the default-interventionist version of dual process theory, establishing cognitive decoupling as the defining feature of Type 2 processing and autonomy as the defining feature of Type 1 processing. Provides the mechanistic architecture underlying this report's regulatory framework.
-
-- **📑 Stanovich, K.E. (2018). Miserliness in human cognition: The interaction of detection, override and mindware. *Thinking & Reasoning*, 24(4), 423–444.**: Stanovich's synthesis of the three requirements for effective Type 2 override of Type 1 responses: detecting that override is warranted, having the capacity to override, and possessing the mindware to execute the override effectively. Directly relevant to the analysis of why brief debiasing interventions produce modest effects.
-
-- **📑 Flavell, J.H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The founding paper of the metacognition research tradition, defining metacognition as active monitoring and regulation of cognitive processes and establishing the framework within which Schraw and later researchers developed the metacognitive self-regulation model central to this report.
-
-- **📑 Schraw, G. (1998). Promoting general metacognitive awareness. *Instructional Science*, 26, 113–125.**: Schraw's synthesis of the knowledge of cognition / regulation of cognition distinction, providing the operational framework for metacognitive self-regulation that this report synthesizes with the Stoic prosoche tradition.
-
-- **📑 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The foundational popular synthesis of dual process theory, distinguishing System 1 (fast, automatic, intuitive) from System 2 (slow, deliberate, effortful) processing and documenting the heuristics and biases that arise from ungoverned System 1 cognition. Essential background for this report's regulatory framework.
-
-- **📑 Evans, J.S.B.T., & Stanovich, K.E. (2013). Dual-process theories of higher cognition: Advancing the debate. *Perspectives on Psychological Science*, 8(3), 223–241.**: The authoritative theoretical statement of the default-interventionist version of dual process theory, establishing cognitive decoupling as the defining feature of Type 2 processing and autonomy as the defining feature of Type 1 processing. Provides the mechanistic architecture underlying this report's regulatory framework.
-
-- **📑 Stanovich, K.E. (2018). Miserliness in human cognition: The interaction of detection, override and mindware. *Thinking & Reasoning*, 24(4), 423–444.**: Stanovich's synthesis of the three requirements for effective Type 2 override of Type 1 responses: detecting that override is warranted, having the capacity to override, and possessing the mindware to execute the override effectively. Directly relevant to the analysis of why brief debiasing interventions produce modest effects.
-
-- **📑 Flavell, J.H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The founding paper of the metacognition research tradition, defining metacognition as active monitoring and regulation of cognitive processes and establishing the framework within which Schraw and later researchers developed the metacognitive self-regulation model central to this report.
-
-- **📑 Schraw, G. (1998). Promoting general metacognitive awareness. *Instructional Science*, 26, 113–125.**: Schraw's synthesis of the knowledge of cognition / regulation of cognition distinction, providing the operational framework for metacognitive self-regulation that this report synthesizes with the Stoic prosoche tradition.
-
-
-
-
-
-
-
-
-
-
-
-## Methodology Notes
-
-> [!methodology-and-sources] **🔬 The Neural Substrate of Override** *(from report-06-taming-system-1.md)*
-> A 2024 ALE meta-analysis of dual-process neuroimaging research (published in *Brain Sciences*) identified convergent activation in the medial frontal cortex, superior frontal cortex, anterior cingulate cortex, insula, and left inferior frontal gyrus during Type 2 override of Type 1 responses. This corresponds to Evans and Stanovich's theoretical prediction: "conflict detection is indicated by activation of the anterior cingulate cortex and the override of belief-based responding with reasoning signaled by activation of regions of the right prefrontal cortex known to be associated with executive control." The neural evidence confirms that the Type 2/Type 1 distinction is not merely a psychological metaphor but reflects genuinely different computational processes implemented in distinguishable neural circuits.
 
 ## Connections & Context
 
@@ -184,10 +114,6 @@ importance: high
 [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Confirmation-Bias|confirmation bias]] · [[belief-perseverance|belief perseverance]] · [[Fallibilism]] · [[Jean-Piaget|Jean Piaget]] · [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] · [[Constructivist-Stance|Constructivist Stance]] · [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] · [[Metacognitive-Self-Regulation|metacognitive self-regulation]] · [[Aporic-Receptivity|aporic receptivity]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Pragmatic-Maxim|Pragmatic Maxim]] · [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] · [[Fallibilism]]
 
 ---
-
-**Related concepts** *(from report-02-the-fallible-knower.md, report-06-taming-system-1.md)*:
-[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Confirmation-Bias|confirmation bias]] * [[belief-perseverance|belief perseverance]] * [[Jean-Piaget|Jean Piaget]] * [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] * [[Constructivist-Stance|Constructivist Stance]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] * [[Aporic-Receptivity|aporic receptivity]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] * [[William-James|William James]] * [[John-Dewey|John Dewey]] * [[warranted-assertibility|warranted assertibility]]
-
 
 ## Source Attribution
 

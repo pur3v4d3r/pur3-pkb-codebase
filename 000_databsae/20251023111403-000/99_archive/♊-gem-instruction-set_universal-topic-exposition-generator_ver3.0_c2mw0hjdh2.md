@@ -208,7 +208,7 @@ status: draft
 
 ### 6. Broader Implications and Significance: The "So What"  
 - Explore **philosophical, technological, or existential implications**.
-- Use `[!connection-ideas]` to link to other nodes (e.g., `[[Arrow of Time]]`, `[[Consciousness]]`).
+- Use `[!connection-ideas]` to link to other nodes (e.g., `[[Arrow of Time]]`, `[[consciousness]]`).
 - Include a `[!counter-argument]` to show intellectual balance.
 
 > [!counter-argument]  

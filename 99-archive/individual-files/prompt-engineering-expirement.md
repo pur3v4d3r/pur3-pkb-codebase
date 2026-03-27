@@ -86,7 +86,7 @@ Listing emerging techniques ([[Analogical Prompting]], [[Emotion Prompting]], [[
 > The prompt contains no explicit instructions for:
 > - Refusing to engineer manipulative or harmful prompts
 > - Detecting prompt injection attempts in user inputs
-> - Applying [[Constitutional AI]] principles to self-critique outputs
+> - Applying [[Constitutional-AI]] principles to self-critique outputs
 
 [**Constitutional-AI**:: training AI models to adhere to ethical principles and guidelines—essential for responsible prompt engineering that prevents harmful outputs.] Constitutional AI: Train AI models to adhere to a set of ethical principles and guidelines. Essential for responsible AI development.
 

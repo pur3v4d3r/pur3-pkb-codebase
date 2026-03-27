@@ -246,7 +246,7 @@ link-related:
 > This creates **compounding returns on reflection**—today's insight connects to patterns from months ago, philosophical readings illuminate current challenges, and the entire system becomes greater than the sum of individual entries.
 - **Core Advantages**:
 	1. **[[Bidirectional Linking]]** - Connect journal entries to philosophical concepts, creating living knowledge graph
-	2. **[[Daily Notes]]** - Built-in structure for journaling workflow
+	2. **[[Daily-Notes]]** - Built-in structure for journaling workflow
 	3. **[[Templates]]** - Automate prompt systems for consistency
 	4. **[[Dataview]]** - Query entries for pattern recognition
 	5. **[[Tags]]** - Organize by virtue, theme, or practice type

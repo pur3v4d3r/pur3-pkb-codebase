@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-excalidraw-and-markmind-2025121812"
-  - "reference-comprehensive-excalidraw-and-markmind-2025121812.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Obsidian]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Obsidian-Basics|Obsidian Basics]]"
   - "[[Community-Plugins|Community Plugins]]"
   - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
-  - "[[Obsidian|Obsidian]]"
-  - "[[Visual-Thinking|Visual Thinking]]"
-  - "[[Knowledge-Visualization|Knowledge Visualization]]"
-  - "[[Mind-Mapping|Mind Mapping]]"
-  - "[[PKM|PKM]]"
-  - "[[Obsidian-Basics|Obsidian Basics]]"
-  - "[[Community-Plugins|Community Plugins]]"
-  - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -128,10 +119,6 @@ importance: medium
 
 **Related concepts:**
 [[Obsidian]] · [[Visual-Thinking|Visual Thinking]] · [[Knowledge-Visualization|Knowledge Visualization]] · [[Mind-Mapping|Mind Mapping]] · [[PKM]] · [[Obsidian-Basics|Obsidian Basics]] · [[Community-Plugins|Community Plugins]] · [[Markdown-Fundamentals|Markdown Fundamentals]] · [[Obsidian]] · [[Excalidraw]] · [[Visual-Thinking|Visual Thinking]] · [[PKM]] · [[Obsidian]] · [[Zsolt-Viczian|Zsolt Viczian]]
-
-**Related concepts** *(from reference-comprehensive-excalidraw-and-markmind-2025121812.md)*:
-[[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[ExcaliBrain|ExcaliBrain]] * [[Markdown|Markdown]] * [[LaTeX|LaTeX]] * [[Note-Name|Note Name]] * [[wiki-links|wiki-links]] * [[Templater|Templater]] * [[QuickAdd|QuickAdd]] * [[JavaScript-Basics|JavaScript Basics]] * [[Related-Note|Related Note]]
-
 
 ## Methodology Notes
 

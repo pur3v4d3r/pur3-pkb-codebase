@@ -128,7 +128,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Self-Regulated-Learning]]"
 prerequisites:
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
   - "[[Cognitive-Science]]"
   - "[[Philosophy of Mind]]"
 builds_on:

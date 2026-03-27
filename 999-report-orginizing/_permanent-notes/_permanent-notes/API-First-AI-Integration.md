@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507"
-  - "reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[Prompt-Engineering|Prompt Engineering]]"
   - "[[PKB-Automation|PKB Automation]]"
   - "[[Obsidian]]"
-  - "[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
-  - "[[Smart-Connections|Smart Connections]]"
-  - "[[Templater|Templater]]"
-  - "[[Dataview|Dataview]]"
-  - "[[Claude-API|Claude API]]"
-  - "[[Prompt-Engineering|Prompt Engineering]]"
-  - "[[PKB-Automation|PKB Automation]]"
-  - "[[Obsidian|Obsidian]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -125,10 +116,6 @@ importance: medium
 
 **Related concepts:**
 [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] · [[Smart-Connections|Smart Connections]] · [[Templater]] · [[Dataview]] · [[Claude-API|Claude API]] · [[Prompt-Engineering|Prompt Engineering]] · [[PKB-Automation|PKB Automation]] · [[Obsidian]] · [[API]] · [[Large-Language-Models|Large Language Models]] · [[Template-Engineering|Template Engineering]] · [[Smart-Connections|Smart Connections]] · [[Claude-Projects|Claude Projects]] · [[PKB]] · [[Obsidian]]
-
-**Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
-[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Smart-Connections|Smart Connections]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Large-Language-Models|Large Language Models]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[OpenAI|OpenAI]] * [[Anthropic-Claude|Anthropic Claude]] * [[Google-Gemini|Google Gemini]] * [[HuggingFace|HuggingFace]] * [[Ollama|Ollama]] * [[Template-System|Template System]] * [[ChatGPT|ChatGPT]]
-
 
 ## Methodology Notes
 

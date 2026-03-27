@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-10-the-feeling-reasoner"
-  - "report-10-the-feeling-reasoner.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,26 +52,18 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Motivated-Reasoning|Motivated Reasoning]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Antonio-Damasio|Antonio Damasio]]"
-  - "[[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]"
-  - "[[Somatic-Markers|Somatic Markers]]"
-  - "[[Norbert-Schwarz|Norbert Schwarz]]"
-  - "[[Gerald-Clore|Gerald Clore]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Motivated-Reasoning|Motivated Reasoning]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
@@ -84,15 +77,13 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -128,10 +119,6 @@ importance: high
 
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Antonio-Damasio|Antonio Damasio]] · [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] · [[Somatic-Markers|Somatic Markers]] · [[Norbert-Schwarz|Norbert Schwarz]] · [[Gerald-Clore|Gerald Clore]] · [[Affect-as-Information-Theory|Affect-as-Information Theory]] · [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] · [[Appraisal-Theory|Appraisal Theory]] · [[Pathē]] · [[Eupatheia]] · [[Appraisal-Accuracy|Appraisal Accuracy]]
-
-**Related concepts** *(from report-10-the-feeling-reasoner.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]] * [[Anil-Seth|Anil Seth]]
-
 
 ## Methodology Notes
 

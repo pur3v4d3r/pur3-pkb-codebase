@@ -92,7 +92,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 ```
 
 > [!what-this-does]
-> Accesses [[YAML-Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[YAML-Frontmatter]] or [[Inline-Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 
 #### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
@@ -309,7 +309,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > ```
 
 > [!connections-and-links]
-> This pattern creates **dynamic note headers** that update automatically. Pair with [[Daily Notes]] templates for powerful daily dashboard functionality.
+> This pattern creates **dynamic note headers** that update automatically. Pair with [[Daily-Notes]] templates for powerful daily dashboard functionality.
 
 ---
 
@@ -571,14 +571,14 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dataview Query Language]] (DQL)
 - [[Obsidian Metadata]]
 - [[YAML-Frontmatter]]
-- [[Inline Fields]]
+- [[Inline-Fields]]
 - [[Dataview Functions]]
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
 - [[MOC]] (Maps of Content)
 - [[Dashboard-Design]]
 - [[Task-Management]]
-- [[Daily Notes]]
+- [[Daily-Notes]]
 - [[Zettelkasten]]
 - [[Progressive-Summarization]]
 - [[Regular Expressions]]

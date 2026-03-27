@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -34,9 +34,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-psy-epistemic-vigilance-and-epistemic-humility"
-  - "cog-psy-epistemic-vigilance-and-epistemic-humility.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -48,27 +49,19 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
-  - "[[Epistemology]]"
-  - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[Virtue-Ethics|Virtue Ethics]]"
-  - "[[Social-Psychology|Social Psychology]]"
-  - "[[Basic-Epistemology|Basic Epistemology]]"
-  - "[[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]]"
-  - "[[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]]"
-  - "[[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]]"
-  - "[[Epistemology|Epistemology]]"
+  - "[[epistemology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
   - "[[Virtue-Ethics|Virtue Ethics]]"
   - "[[Social-Psychology|Social Psychology]]"
@@ -81,15 +74,13 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -116,13 +107,9 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Epistemology]] · [[Cognitive-Science|Cognitive Science]] · [[Virtue-Ethics|Virtue Ethics]] · [[Social-Psychology|Social Psychology]] · [[Basic-Epistemology|Basic Epistemology]] · [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] · [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] · [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Testimonial-Knowledge|Testimonial Knowledge]] · [[Cultural-Transmission|Cultural Transmission]] · [[Theory-of-Mind|Theory of Mind]] · [[Source-Monitoring|Source Monitoring]] · [[Pragmatics]] · [[Relevance-Theory|Relevance Theory]]
+[[epistemology]] · [[Cognitive-Science|Cognitive Science]] · [[Virtue-Ethics|Virtue Ethics]] · [[Social-Psychology|Social Psychology]] · [[Basic-Epistemology|Basic Epistemology]] · [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] · [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] · [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Testimonial-Knowledge|Testimonial Knowledge]] · [[Cultural-Transmission|Cultural Transmission]] · [[Theory-of-Mind|Theory of Mind]] · [[Source-Monitoring|Source Monitoring]] · [[Pragmatics]] · [[Relevance-Theory|Relevance Theory]]
 
 ---
-
-**Related concepts** *(from cog-psy-epistemic-vigilance-and-epistemic-humility.md)*:
-[[Cognitive-Science|Cognitive Science]] * [[Virtue-Ethics|Virtue Ethics]] * [[Social-Psychology|Social Psychology]] * [[Basic-Epistemology|Basic Epistemology]] * [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] * [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] * [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Testimonial-Knowledge|Testimonial Knowledge]] * [[Cultural-Transmission|Cultural Transmission]] * [[Theory-of-Mind|Theory of Mind]] * [[Source-Monitoring|Source Monitoring]] * [[Relevance-Theory|Relevance Theory]] * [[Confirmation-Bias|Confirmation Bias]] * [[Motivated-Reasoning|Motivated Reasoning]]
-
 
 ## Source Attribution
 

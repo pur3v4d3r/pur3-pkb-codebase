@@ -24,27 +24,26 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 7
+referenced-by-count: 6
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[API-First-AI-Integration]]"
-  - "[[Chain-of-Thought-Prompting]]"
   - "[[Context-Window]]"
   - "[[Handlebars]]"
   - "[[Smart-Connections]]"
   - "[[Text-Generator-Plugin]]"
-  - "[[Tree-of-Thoughts-Framework]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -57,16 +56,15 @@ importance: low
 # Large-Language-Models
 
 > [!definition] **Large-Language-Models**
-> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 7 permanent notes.*
+*Auto-generated stub — referenced by 6 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[API-First-AI-Integration]]
-- [[Chain-of-Thought-Prompting]]
 - [[Context-Window]]
 - [[Handlebars]]
 - [[Smart-Connections]]
 - [[Text-Generator-Plugin]]
-- [[Tree-of-Thoughts-Framework]]

@@ -645,7 +645,7 @@ Every comprehensive response MUST conclude with 4 related topics:
 **Behavior**:
 - Load SPES instruction files
 - Apply prompt engineering best practices
-- Use [[Chain-of-Thought]], [[ReAct Framework]], and [[Constitutional AI]] patterns
+- Use [[Chain-of-Thought]], [[ReAct Framework]], and [[Constitutional-AI]] patterns
 - Structure for modularity and reusability
 - Include validation/self-check mechanisms
 - Document with comprehensive comments

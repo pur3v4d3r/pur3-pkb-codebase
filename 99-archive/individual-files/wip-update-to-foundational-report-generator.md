@@ -1505,7 +1505,7 @@ modified: 2024-12-22
 status: evergreen
 certainty: verified
 type: reference
-related: [[Transformer Architecture]], [[Few-Shot-Learning]], [[Emergent Abilities]], [[Self-Consistency]], [[Tree-of-Thoughts]], [[Logical Reasoning]], [[Working-Memory]]
+related: [[Transformer-Architecture]], [[Few-Shot-Learning]], [[Emergent-Abilities]], [[Self-Consistency]], [[Tree-of-Thoughts]], [[Logical-Reasoning]], [[Working-Memory]]
 freshness:
   domain-volatility: high
   last-verified: 2024-12-22
@@ -1515,11 +1515,11 @@ freshness:
 # <span style='color: #FFC700;'>Chain-of-Thought Prompting: Intermediate Token Generation as Cognitive Scaffolding in Transformer-Based Reasoning</span>
 
 > [!abstract] Executive Overview
-> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason Wei]] and colleagues at [[Google Research]] in 2022, fundamentally altered understanding of [[Transformer Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[Working-Memory]] theory and [[Cognitive-Load-Theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
+> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[Working-Memory]] theory and [[Cognitive-Load-Theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
 
 ## 📜 Theoretical Foundations & Historical Context
 
-<span style='color: #FFC700;'>**Chain-of-Thought prompting**</span> emerged from the convergence of three intellectual streams: the [[Few-Shot-Learning]] paradigm pioneered by [[GPT-3]], cognitive science research on [[Explicit Reasoning Protocols]], and computational complexity theory addressing the <span style='color: #FF00DC;'>serial computation bottleneck</span> in [[Transformer Architecture]]. Prior to CoT, [[Large-Language-Models]] demonstrated remarkable fluency and knowledge retrieval but struggled catastrophically with <span style='color: #72FFF1;'>multi-step reasoning tasks</span> requiring systematic decomposition—arithmetic word problems, [[Symbolic Logic]], and [[Commonsense-Reasoning]] chains showed minimal improvement despite massive parameter scaling.
+<span style='color: #FFC700;'>**Chain-of-Thought prompting**</span> emerged from the convergence of three intellectual streams: the [[Few-Shot-Learning]] paradigm pioneered by [[GPT-3]], cognitive science research on [[Explicit Reasoning Protocols]], and computational complexity theory addressing the <span style='color: #FF00DC;'>serial computation bottleneck</span> in [[Transformer-Architecture]]. Prior to CoT, [[Large-Language-Models]] demonstrated remarkable fluency and knowledge retrieval but struggled catastrophically with <span style='color: #72FFF1;'>multi-step reasoning tasks</span> requiring systematic decomposition—arithmetic word problems, [[Symbolic Logic]], and [[Commonsense-Reasoning]] chains showed minimal improvement despite massive parameter scaling.
 
 [**Historical-Context**:: CoT prompting originated from observing that transformers trained on internet-scale data had encountered reasoning traces in their training corpus (mathematics solutions, tutorial explanations, proof derivations) but lacked explicit mechanisms to surface these patterns during inference.]^established
 
@@ -1536,7 +1536,7 @@ The relationship to [[Human Reasoning]] processes proves instructive. Cognitive 
 
 ## ⚙️ Core Mechanism: Intermediate Token Generation as Computational Resource Allocation
 
-The efficacy of Chain-of-Thought prompting hinges on a profound architectural property of <span style='color: #72FFF1;'>autoregressive transformers</span>: each generated token provides additional computational depth through which the model can refine representations and distribute reasoning across sequential steps. This insight connects to [[Circuit Complexity Theory]] and the expressiveness limitations of constant-depth transformers.
+The efficacy of Chain-of-Thought prompting hinges on a profound architectural property of <span style='color: #72FFF1;'>autoregressive transformers</span>: each generated token provides additional computational depth through which the model can refine representations and distribute reasoning across sequential steps. This insight connects to [[Circuit-Complexity-Theory]] and the expressiveness limitations of constant-depth transformers.
 
 > [!key-claim] Computational Depth Through Token Generation
 > [**CoT-Computational-Mechanism**:: Chain-of-Thought prompting enables transformers to solve problems requiring serial computation by converting depth-limited parallel processing into iterative sequential processing, where each intermediate token serves as a computational "thinking step" that refines hidden representations and accumulates reasoning progress.]^verified
@@ -1545,7 +1545,7 @@ Recent theoretical work by [[Feng et al. (2024)]] demonstrates that <span style=
 
 [**Expressiveness-Theorem**:: For sequence length $n$, a constant-precision transformer with $T$ intermediate CoT steps and $O(\log n)$ embedding dimension can compute any circuit-solvable function of size $T$, effectively converting architecture depth constraints into sequence length resources.]^verified
 
-The practical manifestation appears in the [[Attention Mechanism]]'s operation across reasoning chains. As the model generates each intermediate token, <span style='color: #72FFF1;'>self-attention</span> allows subsequent tokens to <span style='color: #FFC700;'>attend to all previous reasoning steps</span>, creating an information propagation pathway that mimics serial computation. Each token's hidden state $h_t$ incorporates attention-weighted combinations of all prior states $h_1, ..., h_{t-1}$, enabling cumulative reasoning where conclusions build upon intermediate inferences.
+The practical manifestation appears in the [[Attention-Mechanism]]'s operation across reasoning chains. As the model generates each intermediate token, <span style='color: #72FFF1;'>self-attention</span> allows subsequent tokens to <span style='color: #FFC700;'>attend to all previous reasoning steps</span>, creating an information propagation pathway that mimics serial computation. Each token's hidden state $h_t$ incorporates attention-weighted combinations of all prior states $h_1, ..., h_{t-1}$, enabling cumulative reasoning where conclusions build upon intermediate inferences.
 
 > [!analogy] Working Memory Externalization
 > Consider how humans solve complex arithmetic mentally versus on paper. Mental arithmetic requires holding all intermediate values in limited [[Working-Memory]], causing frequent errors and capacity constraints. Writing steps externally offloads these memory demands to physical substrate, dramatically improving accuracy. <span style='color: #27FF00;'>CoT prompting performs analogous externalization</span>: intermediate tokens function as <span style='color: #FFC700;'>external memory</span> where partial computations persist across the reasoning chain, accessible via attention mechanisms. The model's "working memory" (fixed-size hidden states) no longer must simultaneously hold all intermediate values—instead, they're serialized across the token sequence.
@@ -1579,7 +1579,7 @@ The [[LaMDA]] and [[PaLM]] model families provided systematic evidence across mu
 
 **Hypothesis 2 — Reasoning Trace Coverage:** Larger models trained on trillion-token corpora encounter more <span style='color: #72FFF1;'>explicit reasoning traces</span> in training data (mathematical solutions, tutorial explanations, proof derivations). Above capacity thresholds, models internalize sufficient examples to enable pattern matching during inference.
 
-**Hypothesis 3 — Circuit Capacity:** Drawing from [[Mechanistic Interpretability]] research, reasoning requires forming specific <span style='color: #27FF00;'>neural circuits</span> for operations like arithmetic composition, variable tracking, and logical inference. These circuits require minimum complexity (layer depth × attention heads × hidden dimensions) achievable only at scale.
+**Hypothesis 3 — Circuit Capacity:** Drawing from [[Mechanistic-Interpretability]] research, reasoning requires forming specific <span style='color: #27FF00;'>neural circuits</span> for operations like arithmetic composition, variable tracking, and logical inference. These circuits require minimum complexity (layer depth × attention heads × hidden dimensions) achievable only at scale.
 
 > [!warning] Emergence Unpredictability
 > <span style='color: #FF00DC;'>⚠️ Critical Limitation:</span> The discontinuous emergence of CoT capabilities creates <span style='color: #FF00DC;'>prediction challenges</span> for AI safety research. If reasoning abilities manifest suddenly above parameter thresholds, <span style='color: #FF00DC;'>smaller-scale testing may fail to reveal behaviors</span> that emerge in production systems. This "capability overhang" means model evaluations performed at 10B parameters cannot reliably predict performance at 100B+ scales.
@@ -1767,19 +1767,19 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 >
 > **Theoretical Frameworks:**  
 > [[Cognitive-Load-Theory]] — CoT externalization parallels working memory offloading in human cognition  
-> [[Attention Mechanism]] — Self-attention over reasoning chains implements message-passing computation  
-> [[Circuit Complexity Theory]] — Formalizes how token generation converts depth-limited parallel processing into serial computation  
-> [[Mechanistic Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps
+> [[Attention-Mechanism]] — Self-attention over reasoning chains implements message-passing computation  
+> [[Circuit-Complexity-Theory]] — Formalizes how token generation converts depth-limited parallel processing into serial computation  
+> [[Mechanistic-Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps
 >
 > **Adjacent Domains:**  
 > [[Prompt-Engineering]] — CoT represents foundational technique underlying advanced prompting strategies  
 > [[Few-Shot-Learning]] — CoT evolved from few-shot paradigm by adding reasoning trace exemplars  
 > [[Ensemble-Methods]] — Self-Consistency applies ensemble principles through stochastic sampling  
-> [[AI Safety]] — Reasoning transparency via CoT relates to interpretability and alignment research
+> [[AI-Safety]] — Reasoning transparency via CoT relates to interpretability and alignment research
 >
 > **Foundational Prerequisites:**  
-> [[Transformer Architecture]] — Understanding self-attention and autoregressive generation essential for CoT mechanism  
-> [[Emergent Abilities in LLMs]] — Scale-dependent CoT emergence exemplifies broader emergence phenomena  
+> [[Transformer-Architecture]] — Understanding self-attention and autoregressive generation essential for CoT mechanism  
+> [[Emergent-Abilities-in-LLMs]] — Scale-dependent CoT emergence exemplifies broader emergence phenomena  
 > [[Working-Memory]] — Human cognitive architecture provides analogy for understanding CoT benefits
 >
 > **Practical Applications:**  
@@ -1818,11 +1818,11 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 
 **Depth Potential:** Applying [[Activation Patching]], [[Causal Tracing]], and [[Sparse Autoencoders]] to identify reasoning-critical circuits could reveal whether models develop specialized "reasoning modules" or distribute reasoning across general-purpose circuits. This could inform targeted intervention strategies to improve reasoning reliability.
 
-**Knowledge Graph Role:** Bridges [[Chain-of-Thought-Prompting]] with [[Mechanistic Interpretability]] and [[Neural Network Circuits]], providing mechanistic grounding for observed empirical phenomena.
+**Knowledge Graph Role:** Bridges [[Chain-of-Thought-Prompting]] with [[Mechanistic-Interpretability]] and [[Neural Network Circuits]], providing mechanistic grounding for observed empirical phenomena.
 
 **Priority:** High — Understanding mechanisms is essential for reliable deployment and improvement strategies
 
-**Prerequisites:** [[Transformer Architecture]], [[Attention Visualization]], [[Activation Analysis]]
+**Prerequisites:** [[Transformer-Architecture]], [[Attention Visualization]], [[Activation Analysis]]
 
 ---
 
@@ -1831,11 +1831,11 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 
 **Depth Potential:** Systematic adversarial testing could reveal which reasoning vulnerabilities persist despite CoT, informing development of more robust prompting strategies or architectural modifications. Particularly relevant for security-critical applications (medical AI, autonomous systems, financial analysis).
 
-**Knowledge Graph Role:** Connects [[Chain-of-Thought-Prompting]] with [[Adversarial Examples]], [[AI Safety]], and [[Logical Fallacies]], extending robustness evaluation beyond standard benchmarks to adversarial scenarios.
+**Knowledge Graph Role:** Connects [[Chain-of-Thought-Prompting]] with [[Adversarial Examples]], [[AI-Safety]], and [[Logical Fallacies]], extending robustness evaluation beyond standard benchmarks to adversarial scenarios.
 
 **Priority:** High — Security implications demand understanding worst-case rather than average-case performance
 
-**Prerequisites:** [[Logical Reasoning]], [[Adversarial Machine Learning]], [[Prompt Injection]]
+**Prerequisites:** [[Logical-Reasoning]], [[Adversarial Machine Learning]], [[Prompt Injection]]
 
 ---
 

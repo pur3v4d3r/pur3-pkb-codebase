@@ -180,16 +180,16 @@ actions:
 
 
 ```
-- [[Philosophy]]
+- [[philosophy]]
 	- [[Stoicism]]
 	- [[Locus-of-Control]]
-	- [[pragmatism]]
+	- [[Pragmatism]]
 	- [[Philosophy of Mind]]
 		- [[Stoic-Philosophy]]
 		- [[Socratic-Method]]
 		- [[Socratic Thinking]]
 			- [[Dichotomy-of-Control]]
-	- [[Epistemology]]
+	- [[epistemology]]
 		- [[Epistemic Accountability]]
 		- [[Epistemic-Cognition]]
 		- [[Evolutionary Epistemology]]

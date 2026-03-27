@@ -23,30 +23,30 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Asksis]]"
   - "[[Epistemic-Cowardice]]"
-  - "[[Integrated-Cognitive-Personhood]]"
   - "[[Intellectual-Courage]]"
   - "[[Intellectual-Empathy]]"
   - "[[Intellectual-Integrity]]"
   - "[[Intellectual-Perseverance]]"
   - "[[Intellectual-Virtues]]"
-  - "[[Narrative-Coherence-as-Cognitive-Architecture]]"
-  - "[[Prokoptn]]"
+  - "[[The-Bias-Virtue-Correspondence]]"
+  - "[[Virtue-Epistemology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,21 +59,19 @@ importance: medium
 # Stoic-Virtue-Ethics
 
 > [!definition] **Stoic-Virtue-Ethics**
-> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Asksis]]
 - [[Epistemic-Cowardice]]
-- [[Integrated-Cognitive-Personhood]]
 - [[Intellectual-Courage]]
 - [[Intellectual-Empathy]]
 - [[Intellectual-Integrity]]
 - [[Intellectual-Perseverance]]
 - [[Intellectual-Virtues]]
-- [[Narrative-Coherence-as-Cognitive-Architecture]]
-- [[Prokoptn]]
 - [[The-Bias-Virtue-Correspondence]]
 - [[Virtue-Epistemology]]

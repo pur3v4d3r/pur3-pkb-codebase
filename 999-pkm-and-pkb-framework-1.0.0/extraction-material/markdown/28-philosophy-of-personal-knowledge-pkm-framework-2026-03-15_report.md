@@ -584,7 +584,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Accommodation]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Aporia]]
 - [[Assimilation]]
 - [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
@@ -652,7 +652,7 @@ extraction_summary:
 | 13 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | The Classical Inheritance: Justified ... | 169 |
 | 14 | [[Report 18: Calibration and Epistemic Humility]] | — | — | The Classical Inheritance: Justified ... | 169 |
 | 15 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | The Classical Inheritance: Justified ... | 171 |
-| 16 | [[American-Pragmatism|American Pragmatism]] | pragmatist | — | The Pragmatist Transformation: Truth ... | 180 |
+| 16 | [[American-pragmatism|American Pragmatism]] | pragmatist | — | The Pragmatist Transformation: Truth ... | 180 |
 | 17 | [[Constructivism]] | — | — | Constructivism: Knowledge as Built, N... | 192 |
 | 18 | [[Assimilation]] | — | — | Constructivism: Knowledge as Built, N... | 197 |
 | 19 | [[Accommodation]] | — | — | Constructivism: Knowledge as Built, N... | 197 |
@@ -714,7 +714,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Accommodation]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Aporia]]
 - [[Assimilation]]
 - [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]

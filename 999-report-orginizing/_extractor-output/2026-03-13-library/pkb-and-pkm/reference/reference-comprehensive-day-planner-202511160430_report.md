@@ -227,7 +227,7 @@ extraction_summary:
 >    - Day Planner uses Dataview's query engine to discover tasks across your vault
 >    - Without Dataview, the plugin will not function
 > 
-> 2. **[[Daily Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED
+> 2. **[[Daily-Notes|Daily Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED
 >    - Provides the infrastructure for Day Planner to "see" and interact with daily notes
 >    - At least one must be enabled for timeline functionality
 
@@ -1114,7 +1114,7 @@ extraction_summary:
 - [[Circadian Rhythms]]
 - [[Command Palette]]
 - [[Community Plugin]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Do Not Disturb]]
 - [[Follow-Up Task]]
@@ -1168,7 +1168,7 @@ extraction_summary:
 | 2 | [[Obsidian]] | — | — | 📘 What is Day Planner? | 35 |
 | 3 | [[parkinson's law]] | — | — | 📘 What is Day Planner? | 41 |
 | 4 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Required Dependencies | 68 |
-| 5 | [[Daily Notes]] | — | — | Required Dependencies | 72 |
+| 5 | [[Daily-Notes|Daily Notes]] | — | — | Required Dependencies | 72 |
 | 6 | [[Periodic Notes]] | — | — | Required Dependencies | 72 |
 | 7 | [[Project Apollo]] | — | — | Work Block | 242 |
 | 8 | [[wiki-links]] | — | — | Work Block | 244 |
@@ -1195,7 +1195,7 @@ extraction_summary:
 | 29 | [[Todoist]] | — | — | Integration with External Task Managers | 1007 |
 | 30 | [[Wrike]] | — | — | Integration with External Task Managers | 1007 |
 | 31 | [[Wrike]] | — | — | Integration with External Task Managers | 1035 |
-| 32 | [[Daily Notes]] | — | — | Meeting Note Preparation | 1056 |
+| 32 | [[Daily-Notes|Daily Notes]] | — | — | Meeting Note Preparation | 1056 |
 | 33 | [[Q4 Strategy Document]] | — | — | Meeting Note Preparation | 1067 |
 | 34 | [[Previous Q3 Retrospective]] | — | — | Meeting Note Preparation | 1068 |
 | 35 | [[Follow-Up Task]] | — | — | Meeting Note Preparation | 1094 |
@@ -1821,7 +1821,7 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 - [[Circadian Rhythms]]
 - [[Command Palette]]
 - [[Community Plugin]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Do Not Disturb]]
 - [[Follow-Up Task]]

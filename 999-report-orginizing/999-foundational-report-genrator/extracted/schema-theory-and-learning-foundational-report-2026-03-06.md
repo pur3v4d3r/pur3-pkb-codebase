@@ -155,7 +155,7 @@ see-also:
 contrasts-with:
   - "[[Behaviorism — Stimulus-Response Learning]]"
   - "[[Rote Memorization Approaches]]"
-  - "[[Information Processing Model (Pure Stage Model)]]"
+  - "[[information-processing-model|Information Processing Model (Pure Stage Model)]]"
 
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"

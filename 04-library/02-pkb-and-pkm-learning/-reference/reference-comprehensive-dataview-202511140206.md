@@ -44,7 +44,7 @@ aliases: [Dataview Plugin, DQL, Dataview Query Language, Obsidian Dataview, Data
 
 > [!abstract]
 > **Executive Overview**
-> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[DQL]], [[Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
+> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[DQL]], [[Inline-Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -77,11 +77,11 @@ Dataview operates on metadata in your Markdown files through data indexing and d
 
 The plugin's architecture centers on two building blocks: **Data Indexing** (what information Dataview can "see") and **Data Querying** (how you retrieve and manipulate that information). Understanding this distinction is critical—Dataview cannot query arbitrary text content within your notes, but only specifically indexed data types.
 
-Dataview indexes certain information like tags and list items and the data you add via fields. This includes [[YAML-Frontmatter]], [[Inline Fields]], [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], [[project-pur3v4d3r-20251121013128]], [[Bullet Lists]], and implicit [[File Metadata]]. The indexing happens automatically and continuously as you work, ensuring query results remain current without manual intervention.
+Dataview indexes certain information like tags and list items and the data you add via fields. This includes [[YAML-Frontmatter]], [[Inline-Fields]], [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], [[project-pur3v4d3r-20251121013128]], [[Bullet Lists]], and implicit [[File Metadata]]. The indexing happens automatically and continuously as you work, ensuring query results remain current without manual intervention.
 
 > [!key-claim]
 > **Central Principle**
-> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[DQL]] for SQL-like queries, [[Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
+> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[DQL]] for SQL-like queries, [[Inline-Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
 
 ### Plugin Capabilities & Limitations
 
@@ -112,7 +112,7 @@ Dataview indexes certain information like tags and list items and the data you a
 | **Temporal Views** | Daily note creation trackers, [[Calendar Views]], deadline monitoring | [[CALENDAR Query]] |
 | **Relationship Mapping** | Pages linking to/from specific notes, [[Backlink]] analysis, [[Knowledge-Graph]] exploration | [[from]] sources with [[Link Queries]] |
 | **Progress Tracking** | Reading lists, habit tracking, project completion percentages | [[TABLE Query]] with calculations |
-| **Dynamic MOCs** | Auto-generating [[Map of Content]] pages based on tags or folder structure | [[LIST Query]] with [[GROUP BY]] |
+| **Dynamic MOCs** | Auto-generating [[Map of Content]] pages based on tags or folder structure | [[LIST Query]] with [[GROUP-BY]] |
 
 ---
 
@@ -120,7 +120,7 @@ Dataview indexes certain information like tags and list items and the data you a
 
 > [!principle-point]
 > **Fundamental Design Philosophy**
->   provides three query methods with escalating power and complexity: [[DQL]] for declarative SQL-like queries, [[Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
+>   provides three query methods with escalating power and complexity: [[DQL]] for declarative SQL-like queries, [[Inline-Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
 
 ### 1. Dataview Query Language (DQL)
 

@@ -934,7 +934,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 
 ## 🔍 Logic & Epistemology - Reasoning & Truth
 
-Stoic [[Logic]] ([[Logikê]]) encompasses more than formal reasoning—it includes [[Epistemology]] (theory of knowledge), [[Rhetoric]], and the study of language. For Stoics, logic was essential as the foundation for correct judgment, which in turn determines [[Virtue]]. The [[Three Disciplines]] structure Stoic spiritual practice around proper use of impressions, desires, and actions.
+Stoic [[Logic]] ([[Logikê]]) encompasses more than formal reasoning—it includes [[epistemology]] (theory of knowledge), [[Rhetoric]], and the study of language. For Stoics, logic was essential as the foundation for correct judgment, which in turn determines [[Virtue]]. The [[Three Disciplines]] structure Stoic spiritual practice around proper use of impressions, desires, and actions.
 
 > [!definition]
 > - **Key-Term**:: [[The Three Disciplines / Topoi]] (τόποι)

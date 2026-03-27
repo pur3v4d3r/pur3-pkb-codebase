@@ -192,7 +192,7 @@ This cycle embodies the humanistic emphasis on learning through personally meani
 
 **Integrate Affective Dimensions**: Traditional note-taking systems treat information as emotionally neutral. A humanistic approach suggests:
 - Capturing not just "what" but "why this matters to me"
-- Recording [[Aha Moments]] and [[Cognitive Dissonance]] experiences
+- Recording [[Aha Moments]] and [[cognitive-dissonance]] experiences
 - Tracking how ideas change your perspective and self-concept
 - Using your PKB as a mirror for [[Metacognitive Reflection]]
 

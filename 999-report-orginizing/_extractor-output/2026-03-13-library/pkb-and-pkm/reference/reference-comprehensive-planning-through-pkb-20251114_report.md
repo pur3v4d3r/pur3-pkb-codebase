@@ -714,7 +714,7 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Creative Synthesis]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Day-Planner|Day Planner]]
 - [[Deliberate-Practice|Deliberate Practice]]
@@ -840,7 +840,7 @@ extraction_summary:
 | 74 | [[Working-Memory|Working Memory]] | — | — | Structural Planning | 1998 |
 | 75 | [[Goal Setting]] | — | — | Structural Planning | 1999 |
 | 76 | [[Zettelkasten]] | — | — | Structural Planning | 2000 |
-| 77 | [[Daily Notes]] | — | — | Structural Planning | 2001 |
+| 77 | [[Daily-Notes|Daily Notes]] | — | — | Structural Planning | 2001 |
 | 78 | [[Weekly Reviews]] | — | — | Structural Planning | 2002 |
 | 79 | [[Project Management]] | — | — | Structural Planning | 2003 |
 | 80 | [[Task-Management|Task Management]] | — | — | Structural Planning | 2004 |
@@ -1921,7 +1921,7 @@ graph TD
 - [[Cognitive-Load|Cognitive Load]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Creative Synthesis]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dataview-Plugin|Dataview Plugin]]
 - [[Day-Planner|Day Planner]]
 - [[Deliberate-Practice|Deliberate Practice]]

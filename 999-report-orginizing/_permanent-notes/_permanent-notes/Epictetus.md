@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 60
+referenced-by-count: 31
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analogical-Representation]]"
+  - "[[.permanent-notes-index]]"
   - "[[Asksis]]"
-  - "[[Assumption-5-RuleModel-Dichotomy]]"
-  - "[[Attribution-Retraining]]"
-  - "[[Attribution-Theory]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
-  - "[[Basic-Psychological-Needs]]"
   - "[[Cognitive-Decoupling]]"
+  - "[[Core-Concept-Definition]]"
+  - "[[Epistemic-Cowardice]]"
+  - "[[Intellectual-Courage]]"
+  - "[[Intellectual-Empathy]]"
+  - "[[Intellectual-Integrity]]"
+  - "[[Intellectual-Perseverance]]"
+  - "[[Intellectual-Virtues]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Epictetus
 
 > [!definition] **Epictetus**
-> *Stub note — concept referenced by 60 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 31 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 60 permanent notes.*
+*Auto-generated stub — referenced by 31 permanent notes.*
 
 ## Referenced By
 
-- [[Analogical-Representation]]
+- [[.permanent-notes-index]]
 - [[Asksis]]
-- [[Assumption-5-RuleModel-Dichotomy]]
-- [[Attribution-Retraining]]
-- [[Attribution-Theory]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
-- [[Basic-Psychological-Needs]]
 - [[Cognitive-Decoupling]]
 - [[Core-Concept-Definition]]
-- [[Dissolved-Assumption]]
-- [[Entity-Theory-of-Intelligence]]
 - [[Epistemic-Cowardice]]
-- [[Fixed-Mindset]]
-- [[Goal-Orientation]]
-- [[Growth-Mindset]]
-- [[Incremental-Theory-of-Intelligence]]
 - [[Intellectual-Courage]]
 - [[Intellectual-Empathy]]
-- *...and 40 more permanent notes*
+- [[Intellectual-Integrity]]
+- [[Intellectual-Perseverance]]
+- [[Intellectual-Virtues]]
+- [[Mindware]]
+- [[Prosoche]]
+- [[Synkatathesis]]
+- [[Synkatathesis-Assent-and-the-Stoic-Gap]]
+- [[The-Bias-Virtue-Correspondence]]
+- [[The-Governed-Attentional-Gap]]
+- [[The-Stoic-Core-Insight]]
+- [[Type-1-Processing]]
+- [[Type-2-Processing]]
+- [[Virtue-Epistemology]]
+- *...and 11 more permanent notes*

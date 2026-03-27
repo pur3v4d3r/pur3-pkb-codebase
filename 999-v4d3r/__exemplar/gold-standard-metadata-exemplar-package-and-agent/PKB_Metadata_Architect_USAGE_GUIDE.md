@@ -104,7 +104,7 @@ created: 2024-02-01
 updated: 2024-02-01
 
 related:
-  - "[[Attention Mechanism]]"
+  - "[[Attention-Mechanism]]"
   - "[[Self-Attention]]"
   - "[[Neural Machine Translation]]"
   - "[[Sequence-to-Sequence Models]]"

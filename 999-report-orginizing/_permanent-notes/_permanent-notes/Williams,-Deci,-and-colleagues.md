@@ -23,53 +23,47 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Amotivation]]"
-  - "[[Autonomy]]"
-  - "[[Autonomy-Support]]"
-  - "[[Conditional-Regard]]"
-  - "[[Identified-Regulation]]"
   - "[[Integration]]"
   - "[[Internalization]]"
   - "[[Introjection]]"
   - "[[OIT's-Continuum-as-Motivational-Landscape]]"
   - "[[Organismic-Integration-Tendency]]"
+  - "[[Regulatory-Style]]"
+  - "[[Relative-Autonomy-Index]]"
+  - "[[Self-Determination]]"
+  - "[[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
 # Williams, Deci, and colleagues
 
 > [!definition] **Williams, Deci, and colleagues**
-> *Stub note — person referenced by 14 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
+> *Stub note — person referenced by 9 permanent notes. Expand with biographical context, key contributions, and theoretical significance.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
-- [[Amotivation]]
-- [[Autonomy]]
-- [[Autonomy-Support]]
-- [[Conditional-Regard]]
-- [[Identified-Regulation]]
 - [[Integration]]
 - [[Internalization]]
 - [[Introjection]]

@@ -146,7 +146,7 @@ extraction_summary:
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 20)*
 
 > [!the-philosophy] Untitled
-> We are living through the most dramatic expansion of accessible information in human history. A knowledge worker in 2026 is exposed, in a single day, to what a Renaissance scholar might have encountered across a decade of concentrated study. Yet the biological hardware processing that deluge—the roughly $1.4$ kilograms of neural tissue comprising the [[prefrontal cortex]], [[hippocampus]], and associated cortical networks—has not meaningfully changed in ten thousand years. This radical asymmetry between the external information environment and internal cognitive capacity is the foundational problem that [[Personal-Knowledge-Management|Personal Knowledge Management]] attempts to address.
+> We are living through the most dramatic expansion of accessible information in human history. A knowledge worker in 2026 is exposed, in a single day, to what a Renaissance scholar might have encountered across a decade of concentrated study. Yet the biological hardware processing that deluge—the roughly $1.4$ kilograms of neural tissue comprising the [[prefrontal cortex]], [[Hippocampus]], and associated cortical networks—has not meaningfully changed in ten thousand years. This radical asymmetry between the external information environment and internal cognitive capacity is the foundational problem that [[Personal-Knowledge-Management|Personal Knowledge Management]] attempts to address.
 
 #### 3. [KEY-CLAIM] Untitled *(Line 27)*
 
@@ -421,7 +421,7 @@ extraction_summary:
 - [[habit formation neuroscience]]
 - [[Habit-Loop|habit loop]]
 - [[hippocampal-cortical transfer]]
-- [[hippocampus]]
+- [[Hippocampus]]
 - [[Implementation-Intention|implementation intention]]
 - [[knowledge economy]]
 - [[knowledge tracing]]
@@ -461,7 +461,7 @@ extraction_summary:
 | 6 | [[metacognitive science]] | — | — | 🧠 The Cognitive Science of PKM Habit ... | 12 |
 | 7 | [[Self-Determination-Theory|self-determination theory]] | — | — | 🧠 The Cognitive Science of PKM Habit ... | 12 |
 | 8 | [[prefrontal cortex]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
-| 9 | [[hippocampus]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
+| 9 | [[Hippocampus]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 11 | [[John-Sweller|John Sweller]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
 | 12 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
@@ -742,7 +742,7 @@ $$
 - [[habit formation neuroscience]]
 - [[Habit-Loop|habit loop]]
 - [[hippocampal-cortical transfer]]
-- [[hippocampus]]
+- [[Hippocampus]]
 - [[Implementation-Intention|implementation intention]]
 - [[knowledge economy]]
 - [[knowledge tracing]]

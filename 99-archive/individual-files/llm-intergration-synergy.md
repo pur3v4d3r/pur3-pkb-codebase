@@ -136,7 +136,7 @@ This connects to [[Yerkes-Dodson Law]]
 > **Proposed Note Type**: atomic-concept
 > **Priority**: high
 > **Key Content**: Early selection theory positing structural bottleneck…
-> **Connections**: [[Dichotic Listening]], [[Early-Selection]], [[Attention]]
+> **Connections**: [[dichotic-listening]], [[Early-Selection]], [[Attention]]
 ```
 
 **Prompt Component Addition**:

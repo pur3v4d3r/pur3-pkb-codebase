@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "pkb-report-literature-review-methodology-for-pkb-research-202512040139"
-  - "pkb-report-literature-review-methodology-for-pkb-research-202512040139.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[Citation-Management|Citation Management]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Literature-Notes|Literature Notes]]"
-  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
-  - "[[PRISMA-Guidelines|PRISMA Guidelines]]"
-  - "[[Zettelkasten-Method|Zettelkasten Method]]"
-  - "[[Zotero|Zotero]]"
-  - "[[Obsidian|Obsidian]]"
-  - "[[Citation-Management|Citation Management]]"
-  - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
-  - "[[Literature-Notes|Literature Notes]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -125,10 +116,6 @@ importance: medium
 
 **Related concepts:**
 [[Personal-Knowledge-Base|Personal Knowledge Base]] · [[PRISMA-Guidelines|PRISMA Guidelines]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Zotero]] · [[Obsidian]] · [[Citation-Management|Citation Management]] · [[Personal-Knowledge-Management|Personal Knowledge Management]] · [[Literature-Notes|Literature Notes]] · [[Permanent-Notes|Permanent Notes]] · [[Bidirectional-Linking|Bidirectional Linking]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Systematic-Review-Protocols|Systematic Review Protocols]] · [[Critical-Appraisal-Tools|Critical Appraisal Tools]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Search-Strategy-Development|Search Strategy Development]]
-
-**Related concepts** *(from pkb-report-literature-review-methodology-for-pkb-research-202512040139.md)*:
-[[Personal-Knowledge-Base|Personal Knowledge Base]] * [[PRISMA-Guidelines|PRISMA Guidelines]] * [[Zettelkasten-Method|Zettelkasten Method]] * [[Citation-Management|Citation Management]] * [[Literature-Notes|Literature Notes]] * [[Permanent-Notes|Permanent Notes]] * [[Bidirectional-Linking|Bidirectional Linking]] * [[Systematic-Review-Protocols|Systematic Review Protocols]] * [[Critical-Appraisal-Tools|Critical Appraisal Tools]] * [[Search-Strategy-Development|Search Strategy Development]] * [[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]] * [[Source-Evaluation|Source Evaluation]] * [[Atomic-Notes|Atomic Notes]] * [[Graph-View|Graph View]] * [[Bibliographic-Metadata|Bibliographic Metadata]]
-
 
 ## References
 

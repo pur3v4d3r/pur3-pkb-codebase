@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "schema-theory-and-learning-foundational-report-2026-03-06"
-  - "schema-theory-and-learning-foundational-report-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Frederic-Bartlett|Frederic Bartlett]]"
@@ -70,14 +71,6 @@ see-also:
   - "[[Bartlett]]"
   - "[[Piaget]]"
   - "[[Rumelhart]]"
-  - "[[Schank-and-Abelson|Schank and Abelson]]"
-  - "[[Frederic-Bartlett|Frederic Bartlett]]"
-  - "[[Schema-Theory|Schema theory]]"
-  - "[[Advance-Organizers|advance organizers]]"
-  - "[[metacognitive-awareness|metacognitive awareness]]"
-  - "[[Bartlett|Bartlett]]"
-  - "[[Piaget|Piaget]]"
-  - "[[Rumelhart|Rumelhart]]"
   - "[[Schank-and-Abelson|Schank and Abelson]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -89,12 +82,10 @@ builds-on:
   - "[[Bartlett's-Reconstructive-Memory-Experiments|Bartlett's Reconstructive Memory Experiments]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -158,38 +149,6 @@ importance: high
 **Related concepts:**
 [[Frederic-Bartlett|Frederic Bartlett]] · [[Schema-Theory|Schema theory]] · [[Advance-Organizers|advance organizers]] · [[metacognitive-awareness|metacognitive awareness]] · [[Bartlett]] · [[Piaget]] · [[Rumelhart]] · [[Schank-and-Abelson|Schank and Abelson]] · [[Immanuel-Kant|Immanuel Kant]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] · [[Jean-Piaget|Jean Piaget]] · [[constructivist]] · [[Declarative-schemas|Declarative schemas]] · [[Procedural-schemas|Procedural schemas]]
 
-**Related concepts** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]]
-
-**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
-- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-
-
-
-
-
 ## References
 
 - **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
@@ -197,66 +156,6 @@ importance: high
 - **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
 - **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
 - **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
-
-- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
-
-- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
-
-- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
-
-- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
-
-- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
-
-- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
-
-- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
-
-- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
-
-- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
-
-- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
-
-- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
-
-- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
-
-- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
-
-- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
-
-- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
-
-- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

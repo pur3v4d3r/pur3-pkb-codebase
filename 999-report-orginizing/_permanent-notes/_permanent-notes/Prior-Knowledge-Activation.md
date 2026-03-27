@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ referenced-by-count: 28
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Advance-Organizer]]"
   - "[[Advance-OrganizerAdvance-Organizer]]"
   - "[[Assimilation]]"
@@ -47,7 +48,6 @@ see-also:
   - "[[Comparative-Organizer]]"
   - "[[Comprehension]]"
   - "[[Elaborative-Interrogation]]"
-  - "[[Expository-Advance-Organizer]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -66,6 +66,7 @@ importance: high
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Advance-Organizer]]
 - [[Advance-OrganizerAdvance-Organizer]]
 - [[Assimilation]]
@@ -85,5 +86,4 @@ importance: high
 - [[Perceptual-Span]]
 - [[Phonological-LoopPhonological-Loop]]
 - [[Prior-Knowledge]]
-- [[RSVP]]
 - *...and 8 more permanent notes*

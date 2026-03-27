@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 44
+referenced-by-count: 45
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Actively-Open-Minded-Thinking]]"
   - "[[Analogical-Reasoning]]"
   - "[[Analysis-Paralysis]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Causal-Induction]]"
   - "[[Deductive-Reasoning]]"
   - "[[Dual-Process-Theory]]"
-  - "[[Ecological-Rationality]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Aristotle
 
 > [!definition] **Aristotle**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 45 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+*Auto-generated stub — referenced by 45 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Actively-Open-Minded-Thinking]]
 - [[Analogical-Reasoning]]
 - [[Analysis-Paralysis]]
@@ -84,5 +85,4 @@ importance: high
 - [[Kathekon]]
 - [[Kathkon]]
 - [[Knightian-Uncertainty]]
-- [[Mental-Models]]
-- *...and 24 more permanent notes*
+- *...and 25 more permanent notes*

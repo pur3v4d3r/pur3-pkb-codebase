@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 22
+referenced-by-count: 23
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Affective-Intelligence-Theory]]"
   - "[[Asksis]]"
   - "[[Availability-Heuristic]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Epistemic-Cowardice]]"
   - "[[Filter-Bubble-Information-Cocoon]]"
   - "[[Inoculation-Theory]]"
-  - "[[Intellectual-Courage]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Ziva-Kunda
 
 > [!definition] **Ziva-Kunda**
-> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 23 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 22 permanent notes.*
+*Auto-generated stub — referenced by 23 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Affective-Intelligence-Theory]]
 - [[Asksis]]
 - [[Availability-Heuristic]]
@@ -84,5 +85,4 @@ importance: high
 - [[Political-Decision-Making]]
 - [[Political-Reasoning]]
 - [[System-1]]
-- [[System-2]]
-- *...and 2 more permanent notes*
+- *...and 3 more permanent notes*

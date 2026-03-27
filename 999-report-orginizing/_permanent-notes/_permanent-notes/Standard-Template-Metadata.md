@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-taxonomy-current-metadata-system-2025121309"
-  - "reference-taxonomy-current-metadata-system-2025121309.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +54,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metadata-System-Quick-Reference|Metadata System Quick Reference]]"
@@ -73,28 +74,18 @@ see-also:
   - "[[2025-W50]]"
   - "[[2025-12]]"
   - "[[2025-12]]"
-  - "[[Metadata-System-Quick-Reference|Metadata System Quick Reference]]"
-  - "[[Dataview|Dataview]]"
-  - "[[cognitive-science-moc|cognitive-science-moc]]"
-  - "[[2025-W50|2025-W50]]"
-  - "[[2025-12|2025-12]]"
-  - "[[2025-Q4|2025-Q4]]"
-  - "[[2025|2025]]"
-  - "[[Reference-Note|Reference Note]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -122,10 +113,6 @@ importance: medium
 
 **Related concepts:**
 [[Metadata-System-Quick-Reference|Metadata System Quick Reference]] · [[Dataview]] · [[cognitive-science-moc]] · [[cognitive-science-moc]] · [[2025-W50]] · [[2025-W50]] · [[2025-12]] · [[2025-12]] · [[2025-Q4]] · [[2025-Q4]] · [[2025]] · [[2025]] · [[2025-W50]] · [[2025-12]] · [[2025-Q4]]
-
-**Related concepts** *(from reference-taxonomy-current-metadata-system-2025121309.md)*:
-[[Metadata-System-Quick-Reference|Metadata System Quick Reference]] * [[Reference-Note|Reference Note]] * [[Dashboard|Dashboard]] * [[Knowledge-Graph|Knowledge Graph]] * [[artificial-intelligence-moc|artificial-intelligence-moc]] * [[cosmology-moc|cosmology-moc]] * [[educational-psychology-moc|educational-psychology-moc]] * [[learning-theory-moc|learning-theory-moc]] * [[neuroscience-moc|neuroscience-moc]] * [[pkb-&-pkm-moc|pkb-&-pkm-moc]] * [[practical-philosophy-moc|practical-philosophy-moc]] * [[prompt-engineering-moc|prompt-engineering-moc]] * [[Quick-Switcher|Quick Switcher]] * [[Dataviewjs-Query-Snippets|Dataviewjs Query Snippets]] * [[Taxonomy-Design-Principles|Taxonomy Design Principles]]
-
 
 ## Methodology Notes
 

@@ -31,8 +31,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,9 +40,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "what-does-it-mean-to-truley-understand-something-2026-03-10"
-  - "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -54,16 +55,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[understanding]]"
@@ -74,23 +75,15 @@ see-also:
   - "[[Tacit-Knowledge|tacit knowledge]]"
   - "[[Michael-Polanyi|Michael Polanyi]]"
   - "[[Tacit-Knowledge|tacit knowledge]]"
-  - "[[understanding|understanding]]"
-  - "[[Richard-Feynman|Richard Feynman]]"
-  - "[[pedagogy|pedagogy]]"
-  - "[[Rote-memorization|Rote memorization]]"
-  - "[[classical-mechanics|classical mechanics]]"
-  - "[[Tacit-Knowledge|tacit knowledge]]"
-  - "[[Michael-Polanyi|Michael Polanyi]]"
-  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-The-Teaching-Problem-Can-Understanding-Be-Transmitted-If-understandi|> [!topic-idea] **The Teaching Problem: Can Understanding Be Transmitted?**
@@ -144,26 +137,6 @@ importance: high
 
 **Related concepts:**
 [[understanding]] · [[Richard-Feynman|Richard Feynman]] · [[pedagogy]] · [[Rote-memorization|Rote memorization]] · [[classical-mechanics|classical mechanics]] · [[Tacit-Knowledge|tacit knowledge]] · [[Michael-Polanyi|Michael Polanyi]] · [[Tacit-Knowledge|tacit knowledge]] · [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] · [[Gilbert-Ryle|Gilbert Ryle]] · [[knowing-how]] · [[knowing-that]] · [[electromagnetism]] · [[cognitive-psychology|cognitive psychology]] · [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]
-
-**Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-
-
 
 ## Methodology Notes
 

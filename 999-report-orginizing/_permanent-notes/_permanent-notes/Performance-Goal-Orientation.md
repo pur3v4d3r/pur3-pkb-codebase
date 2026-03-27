@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "growth-mindset-learning-foundational-report-2026-03-05"
-  - "growth-mindset-learning-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,28 +53,20 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Carol-S.-Dweck|Carol S. Dweck]]"
   - "[[mindset]]"
-  - "[[Growth-Mindset|growth mindset]]"
-  - "[[Fixed-Mindset|fixed mindset]]"
-  - "[[implicit-theories-of-intelligence|implicit theories of intelligence]]"
-  - "[[Educational-Psychology|educational psychology]]"
-  - "[[motivation-science|motivation science]]"
-  - "[[Carol-Dweck|Carol Dweck]]"
-  - "[[Carol-S.-Dweck|Carol S. Dweck]]"
-  - "[[mindset|mindset]]"
   - "[[Growth-Mindset|growth mindset]]"
   - "[[Fixed-Mindset|fixed mindset]]"
   - "[[implicit-theories-of-intelligence|implicit theories of intelligence]]"
@@ -89,12 +82,10 @@ builds-on:
   - "[[Behaviorist-vs.-Cognitive-Theories-of-Learning|Behaviorist vs. Cognitive Theories of Learning]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -155,24 +146,6 @@ importance: high
 **Related concepts:**
 [[Carol-S.-Dweck|Carol S. Dweck]] · [[mindset]] · [[Growth-Mindset|growth mindset]] · [[Fixed-Mindset|fixed mindset]] · [[implicit-theories-of-intelligence|implicit theories of intelligence]] · [[Educational-Psychology|educational psychology]] · [[motivation-science|motivation science]] · [[Carol-Dweck|Carol Dweck]] · [[Attribution-Theory|attribution theory]] · [[Mary-Bandura|Mary Bandura]] · [[Ellen-Leggett|Ellen Leggett]] · [[Claudia-Mueller|Claudia Mueller]] · [[Claudia-Mueller|Claudia Mueller]] · [[Carol-Dweck|Carol Dweck]] · [[cognitive-psychology|cognitive psychology]]
 
-**Related concepts** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
-[[Carol-S.-Dweck|Carol S. Dweck]] * [[Growth-Mindset|growth mindset]] * [[Fixed-Mindset|fixed mindset]] * [[implicit-theories-of-intelligence|implicit theories of intelligence]] * [[Educational-Psychology|educational psychology]] * [[motivation-science|motivation science]] * [[Carol-Dweck|Carol Dweck]] * [[Attribution-Theory|attribution theory]] * [[Mary-Bandura|Mary Bandura]] * [[Ellen-Leggett|Ellen Leggett]] * [[Claudia-Mueller|Claudia Mueller]] * [[cognitive-psychology|cognitive psychology]] * [[Achievement-Goal-Theory|achievement goal theory]] * [[Carole-Ames|Carole Ames]] * [[John-Elliot|John Elliot]]
-
-**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Neuroplasticity|Neuroplasticity]]
-- [[Formative-Assessment|Formative Assessment]]
-- [[Attribution-Theory|Attribution Theory]]
-
-**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Neuroplasticity|Neuroplasticity]]
-- [[Formative-Assessment|Formative Assessment]]
-- [[Attribution-Theory|Attribution Theory]]
-
-
-
-
 ## References
 
 - **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
@@ -180,36 +153,6 @@ importance: high
 - **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
 - **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
 - **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
-
-- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
-
-- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
-
-- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
-
-- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
-
-- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
-
-- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
-
-- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
-
-- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
-
-- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
-
-- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

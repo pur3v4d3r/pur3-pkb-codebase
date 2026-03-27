@@ -46,7 +46,7 @@ review-priority: medium
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Psychology]]
+> - **Title**: [[psychology]]
 > - **MOC**: `this.link-up`
 
 ```dataviewjs

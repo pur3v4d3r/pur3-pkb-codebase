@@ -474,13 +474,13 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Epistemology]]
+- [[epistemology]]
 - [[Philosophy of Education]]
 - [[Cognitive-Science]]
 
 #### Related Concepts
 
-- [[Epistemology]]
+- [[epistemology]]
 - [[Propositional Knowledge]]
 - [[Procedural-Knowledge]]
 - [[Tacit-Knowledge]]

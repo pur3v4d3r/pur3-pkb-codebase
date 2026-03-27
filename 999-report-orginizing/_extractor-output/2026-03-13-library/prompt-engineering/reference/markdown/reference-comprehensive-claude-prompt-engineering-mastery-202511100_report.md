@@ -240,13 +240,13 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **Key-Term**:: [[CLAUDE]]
-> - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
+> - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional-AI|Constitutional AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
 
 #### 5. [KEY-CLAIM] Untitled *(Line 66)*
 
 > [!key-claim] Untitled
 > **Central Principle of Claude Architecture**
-> Claude's design philosophy centers on "[[Constitutional AI]]"—the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.
+> Claude's design philosophy centers on "[[Constitutional-AI|Constitutional AI]]"—the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.
 
 #### 6. [THOUGHT-EXPERIMENT] Untitled *(Line 93)*
 
@@ -396,7 +396,7 @@ extraction_summary:
 > 
 > Effective Claude prompting reflects a partnership model rather than a command-and-control paradigm. Claude is not a database to query or a tool to command, but a reasoning engine to guide. The most effective prompts establish clear goals, provide necessary context, demonstrate desired patterns, specify constraints, and then trust Claude's capabilities to execute.
 > 
-> This philosophy emerges from Claude's [[Constitutional AI]] training, which cultivates helpfulness, harmlessness, and honesty as core values. Prompts that align with these values—that clarify intent, acknowledge limitations, and explicitly request reasoning—produce consistently superior results.
+> This philosophy emerges from Claude's [[Constitutional-AI|Constitutional AI]] training, which cultivates helpfulness, harmlessness, and honesty as core values. Prompts that align with these values—that clarify intent, acknowledge limitations, and explicitly request reasoning—produce consistently superior results.
 
 #### 26. [ANALOGY] Untitled *(Line 2605)*
 
@@ -509,7 +509,7 @@ extraction_summary:
 - [[Claude Prompt Engineering]]
 - [[Code Generation]]
 - [[Comparative Analysis - Claude vs GPT-4 vs Gemini Prompting]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Constitutional AI - Theory and Implementation]]
 - [[Constitutional AI training process]]
 - [[Creative Writing]]
@@ -539,7 +539,7 @@ extraction_summary:
 - [[Tree-of-Thoughts - Multi-Path Reasoning Strategies]]
 - [[XML Prompting]]
 - [[XML Schema Design for LLM Prompting]]
-- [[attention mechanism]]
+- [[Attention-Mechanism|attention mechanism]]
 - [[byte-pair encoding]]
 - [[Few-Shot-Learning|few-shot learning]]
 - [[positional encoding]]
@@ -558,10 +558,10 @@ extraction_summary:
 | 5 | [[wiki-links]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 35 |
 | 6 | [[CLAUDE]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 53 |
 | 7 | [[Anthropic]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
-| 8 | [[Constitutional AI]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
+| 8 | [[Constitutional-AI|Constitutional AI]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
 | 9 | [[Reinforcement Learning from Human Feedback]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
 | 10 | [[AI capabilities]] | — | — | The Claude Model Family | 58 |
-| 11 | [[Constitutional AI]] | — | — | The Claude Model Family | 68 |
+| 11 | [[Constitutional-AI|Constitutional AI]] | — | — | The Claude Model Family | 68 |
 | 12 | [[Long-Context Reasoning]] | — | — | Core Capabilities Matrix | 74 |
 | 13 | [[Structured Thinking]] | — | — | Core Capabilities Matrix | 75 |
 | 14 | [[Chain-of-Thought]] | — | — | Core Capabilities Matrix | 75 |
@@ -578,23 +578,23 @@ extraction_summary:
 | 25 | [[Constitutional AI training process]] | — | — | Technical Specifications | 91 |
 | 26 | [[web search tools]] | — | — | Knowledge Cutoff & Real-Time Limitations | 101 |
 | 27 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🎯 Prompt Engineering Theory for Claude | 108 |
-| 28 | [[attention mechanism]] | — | — | Foundational Principles | 117 |
-| 29 | [[Constitutional AI]] | — | — | Foundational Principles | 119 |
+| 28 | [[Attention-Mechanism|attention mechanism]] | — | — | Foundational Principles | 117 |
+| 29 | [[Constitutional-AI|Constitutional AI]] | — | — | Foundational Principles | 119 |
 | 30 | [[Few-Shot-Learning|few-shot learning]] | — | — | Foundational Principles | 121 |
 | 31 | [[Chain-of-Thought]] | — | — | Foundational Principles | 123 |
 | 32 | [[In-Context Learning]] | — | — | Prompt Taxonomy: Categories of Prompt... | 190 |
 | 33 | [[Prompt Components]] | — | — | 📐 Core Prompting Components: Optimal ... | 216 |
 | 34 | [[Instruction Following]] | — | — | 📋 Instructions/Procedure | 380 |
 | 35 | [[Few-Shot-Learning|few-shot learning]] | — | — | 📚 Examples/Demonstrations | 553 |
-| 36 | [[Constitutional AI]] | — | — | 🚫 Constraints/Boundaries | 659 |
+| 36 | [[Constitutional-AI|Constitutional AI]] | — | — | 🚫 Constraints/Boundaries | 659 |
 | 37 | [[Chain-of-Thought]] | — | — | 🔧 Thinking/Reasoning Instructions | 856 |
 | 38 | [[XML Prompting]] | — | — | 🏗️ XML Architecture: Claude's Structu... | 934 |
-| 39 | [[attention mechanism]] | — | — | Why XML Works for Claude | 939 |
+| 39 | [[Attention-Mechanism|attention mechanism]] | — | — | Why XML Works for Claude | 939 |
 | 40 | [[byte-pair encoding]] | — | — | Why XML Works for Claude | 941 |
 | 41 | [[Prompting Methodology]] | — | — | ⚙️ Working Methodologies: Systematic ... | 1230 |
 | 42 | [[Chain-of-Thought-Prompting|Chain-of-Thought prompting]] | — | — | The Chain-of-Thought Prompting Pattern | 1395 |
 | 43 | [[Advanced Prompting Techniques]] | — | — | 🎓 Advanced Techniques: Pattern Library | 1664 |
-| 44 | [[Constitutional AI]] | — | — | 🎯 Synthesis: Mastery Framework | 2569 |
+| 44 | [[Constitutional-AI|Constitutional AI]] | — | — | 🎯 Synthesis: Mastery Framework | 2569 |
 | 45 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 📊 Metadata & Attribution | 3175 |
 | 46 | [[Constitutional AI - Theory and Implementation]] | — | — | 🔗 Related Topics for PKB Expansion | 3265 |
 | 47 | [[Chain-of-Thought Reasoning - Mechanisms and Applications]] | — | — | 🔗 Related Topics for PKB Expansion | 3266 |
@@ -2892,7 +2892,7 @@ graph TD
 - [[Claude Prompt Engineering]]
 - [[Code Generation]]
 - [[Comparative Analysis - Claude vs GPT-4 vs Gemini Prompting]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Constitutional AI - Theory and Implementation]]
 - [[Constitutional AI training process]]
 - [[Creative Writing]]
@@ -2922,7 +2922,7 @@ graph TD
 - [[Tree-of-Thoughts - Multi-Path Reasoning Strategies]]
 - [[XML Prompting]]
 - [[XML Schema Design for LLM Prompting]]
-- [[attention mechanism]]
+- [[Attention-Mechanism|attention mechanism]]
 - [[byte-pair encoding]]
 - [[Few-Shot-Learning|few-shot learning]]
 - [[positional encoding]]

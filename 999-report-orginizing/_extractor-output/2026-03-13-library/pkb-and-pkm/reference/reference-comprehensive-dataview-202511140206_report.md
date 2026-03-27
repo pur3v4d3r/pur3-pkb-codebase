@@ -313,7 +313,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[DQL]], [[Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
+> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[DQL]], [[Inline-Queries|Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
 
 #### 4. [HOW-TO-USE-THIS] Untitled *(Line 49)*
 
@@ -332,7 +332,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Central Principle**
-> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[DQL]] for SQL-like queries, [[Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
+> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[DQL]] for SQL-like queries, [[Inline-Queries|Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
 
 #### 7. [WARNING] Untitled *(Line 102)*
 
@@ -344,7 +344,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > **Fundamental Design Philosophy**
->   provides three query methods with escalating power and complexity: [[DQL]] for declarative SQL-like queries, [[Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
+>   provides three query methods with escalating power and complexity: [[DQL]] for declarative SQL-like queries, [[Inline-Queries|Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
 
 #### 9. [DEFINITION] Untitled *(Line 127)*
 
@@ -732,9 +732,9 @@ extraction_summary:
 - [[File Metadata]]
 - [[Food]]
 - [[Friend Name]]
-- [[GROUP BY]]
-- [[Inline Fields]]
-- [[Inline Queries]]
+- [[GROUP-BY|GROUP BY]]
+- [[Inline-Fields|Inline Fields]]
+- [[Inline-Queries|Inline Queries]]
 - [[JavaScript]]
 - [[John Smith]]
 - [[Knowledge-Graph|Knowledge Graph]]
@@ -775,18 +775,18 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[DQL]] | — | — | Document Start | 47 |
-| 2 | [[Inline Queries]] | — | — | Document Start | 47 |
+| 2 | [[Inline-Queries|Inline Queries]] | — | — | Document Start | 47 |
 | 3 | [[DataviewJS]] | — | — | Document Start | 47 |
 | 4 | [[Community Plugin]] | — | — | ⚙️ Dataview Plugin Overview & Core Ar... | 70 |
 | 5 | [[Obsidian]] | — | — | ⚙️ Dataview Plugin Overview & Core Ar... | 70 |
 | 6 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Foundational Understanding | 80 |
-| 7 | [[Inline Fields]] | — | — | Foundational Understanding | 80 |
+| 7 | [[Inline-Fields|Inline Fields]] | — | — | Foundational Understanding | 80 |
 | 8 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]] | — | — | Foundational Understanding | 80 |
 | 9 | [[project-pur3v4d3r-20251121013128]] | — | — | Foundational Understanding | 80 |
 | 10 | [[Bullet Lists]] | — | — | Foundational Understanding | 80 |
 | 11 | [[File Metadata]] | — | — | Foundational Understanding | 80 |
 | 12 | [[DQL]] | — | — | Foundational Understanding | 84 |
-| 13 | [[Inline Queries]] | — | — | Foundational Understanding | 84 |
+| 13 | [[Inline-Queries|Inline Queries]] | — | — | Foundational Understanding | 84 |
 | 14 | [[DataviewJS]] | — | — | Foundational Understanding | 84 |
 | 15 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Plugin Capabilities & Limitations | 93 |
 | 16 | [[PKM]] | — | — | Plugin Capabilities & Limitations | 104 |
@@ -801,9 +801,9 @@ extraction_summary:
 | 25 | [[TABLE Query]] | — | — | Use Case Categories | 114 |
 | 26 | [[Map of Content]] | — | — | Use Case Categories | 115 |
 | 27 | [[LIST Query]] | — | — | Use Case Categories | 115 |
-| 28 | [[GROUP BY]] | — | — | Use Case Categories | 115 |
+| 28 | [[GROUP-BY|GROUP BY]] | — | — | Use Case Categories | 115 |
 | 29 | [[DQL]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
-| 30 | [[Inline Queries]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
+| 30 | [[Inline-Queries|Inline Queries]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
 | 31 | [[DataviewJS]] | — | — | 🗣️ Query Language Taxonomy: Three Par... | 123 |
 | 32 | [[Exam Date]] | — | — | 2. Inline DQL Queries | 176 |
 | 33 | [[Page Name]] | — | — | 2. Inline DQL Queries | 183 |
@@ -2184,7 +2184,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 | **Temporal Views** | Daily note creation trackers, [[Calendar Views]], deadline monitoring | [[CALENDAR Query]] |
 | **Relationship Mapping** | Pages linking to/from specific notes, [[Backlink]] analysis, [[Knowledge-Graph|Knowledge Graph]] exploration | [[from]] sources with [[Link Queries]] |
 | **Progress Tracking** | Reading lists, habit tracking, project completion percentages | [[TABLE Query]] with calculations |
-| **Dynamic MOCs** | Auto-generating [[Map of Content]] pages based on tags or folder structure | [[LIST Query]] with [[GROUP BY]] |
+| **Dynamic MOCs** | Auto-generating [[Map of Content]] pages based on tags or folder structure | [[LIST Query]] with [[GROUP-BY|GROUP BY]] |
 
 ### Table 2 *(Line 160, 6 rows)*
 
@@ -2233,9 +2233,9 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[File Metadata]]
 - [[Food]]
 - [[Friend Name]]
-- [[GROUP BY]]
-- [[Inline Fields]]
-- [[Inline Queries]]
+- [[GROUP-BY|GROUP BY]]
+- [[Inline-Fields|Inline Fields]]
+- [[Inline-Queries|Inline Queries]]
 - [[JavaScript]]
 - [[John Smith]]
 - [[Knowledge-Graph|Knowledge Graph]]

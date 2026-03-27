@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,10 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cognitive-load-theory-focused-analysis-2026-03-06"
-  - "cognitive-load-theory-focused-analysis-2026-03-06.md"
-  - "types-of-reasoning-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Germane-Cognitive-Load|germane cognitive load]]"
@@ -73,14 +73,6 @@ see-also:
   - "[[Germane-Cognitive-Load|germane cognitive load]]"
   - "[[Working-Memory|working memory]]"
   - "[[Schema-Theory|schema theory]]"
-  - "[[Germane-Cognitive-Load|germane cognitive load]]"
-  - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[Worked-Example-Effect|worked example effect]]"
-  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
-  - "[[Working-Memory|working memory]]"
-  - "[[Schema-Theory|schema theory]]"
-  - "[[cognitive-psychology|cognitive psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -91,7 +83,7 @@ builds-on:
   - "[[Cognitive-Architecture-of-Learning|Cognitive Architecture of Learning]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learning-CTML-is-the-most-systema|Richard Mayer's Cognitive Theory of Multimedia Learning (CTML) is the most systematically developed ]]"
@@ -137,26 +129,6 @@ importance: high
 > [!analytical-insight] Key Insight
 > The theoretical tension is severe: germane load is defined as the load that produces schemas, and schema production is identified by better learning outcomes. This means the construct is identified by its consequences rather than by any independent characteristic that could be measured prior to observing the outcome. A researcher cannot designate an instructional condition as "high germane load" before running the study; they can only apply that label after seeing that learning improved. This…
 
-> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> In a series of experiments, Nisbett and colleagues found that graduate students trained in statistics, economics, and psychology showed significantly greater use of statistical and methodological reasoning principles in everyday situations than students in chemistry and law — whose training emphasized deductive and rule-based reasoning respectively. The implication is that training in probabilistic (inductive) reasoning under the right conditions does generalize beyond its training domain.
-
-> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
-
-> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
-
-> [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Peirce held that scientific inquiry requires all three modes in sequence: abduction to generate hypotheses, deduction to derive their testable predictions, and induction to test those predictions against observation. No single mode suffices for genuine epistemic progress. This sequencing is now recognized as a sophisticated anticipation of the hypothetico-deductive method.
-
-> [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> A consistent finding in cognitive psychology is that human reasoners default to System 1 heuristics even in situations that call for System 2 deliberation. This means that without deliberate instruction and practice, learners will produce pseudo-deductive and pseudo-inductive conclusions — conclusions that feel reasoned but actually reflect intuitive shortcuts. This has profound implications for education.
-
-
-
-
-
-
 ## Practical Implications
 
 > [!example] **Application**
@@ -167,18 +139,6 @@ importance: high
 
 > [!warning] **Key Distinction**
 > CLT is often misread as a simple prescription to minimize cognitive effort. This misreading leads to instructional designs that are cognitively undemanding across the board — short exposures, heavy scaffolding, minimal challenge — which, paradoxically, can impair learning by reducing the [[Schema-Construction]] effort that produces durable encoding. The correct prescription is more nuanced: reduce *extraneous* load (effort that does not produce schemas) while preserving or increasing the…
-
-> [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner,-Sweller-&-Clark]] (2006) on [[Cognitive-Load-Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
-
-> [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
-
-> [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation-Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
-
-
-
 
 ## Conceptual Tensions
 
@@ -196,16 +156,6 @@ importance: high
 > [!reflection] **Reflect**
 > The analysis ahead depends critically on understanding the distinction between intrinsic and extraneous load. Before proceeding, test yourself: If a physics instructor presents the same conceptual content (Newton's laws interacting with friction, momentum, and gravity) in a cluttered, split-attention format versus a clean, integrated diagram, which load type has changed between these two presentations, and which has remained constant? If you find yourself reaching for the exact definitions…
 
-> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
-
-> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> 1. Which of the three reasoning types maps most naturally to how you approach problems in your professional or personal life? Which do you use least, and why might that be?
-> 2. The distinction between validity and truth is subtle but consequential. Can you construct your own example of a valid-but-unsound argument from everyday life?
-> 3. Why do you think Western educational tradition has historically privileged deductive reasoning? What might have been lost as a result?
-
-
-
 ## Connections & Context
 
 **Cross-report connections:**
@@ -215,36 +165,6 @@ importance: high
 **Related concepts:**
 [[Germane-Cognitive-Load|germane cognitive load]] · [[Educational-Psychology|Educational Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Worked-Example-Effect|worked example effect]] · [[Expertise-Reversal-Effect|expertise reversal effect]] · [[Germane-Cognitive-Load|germane cognitive load]] · [[Working-Memory|working memory]] · [[Schema-Theory|schema theory]] · [[cognitive-psychology|cognitive psychology]] · [[Educational-Psychology|Educational Psychology]] · [[Instructional-Design|Instructional design]] · [[Working-Memory|working memory]]
 
-**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
-[[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Schema-Theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[knowledge-schemas|knowledge schemas]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]] * [[Element-Interactivity|Element interactivity]] * [[Cognitive-Load|cognitive load]] * [[automation|automation]]
-
-**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
-- [[motor-learning|motor learning]]
-- [[skill-acquisition-research|skill acquisition research]]
-
-**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
-- [[Scientific-Method|Scientific Method]]
-
-**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
-- [[motor-learning|motor learning]]
-- [[skill-acquisition-research|skill acquisition research]]
-
-**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
-- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
-- [[Scientific-Method|Scientific Method]]
-
-
-
-
-
-
 ## References
 
 - **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The foundational paper establishing Cognitive Load Theory, introducing the key argument that means-ends analysis in problem-solving consumes working memory resources without producing schemas, and that worked examples offer an efficient alternative for novice learners. Essential for understanding CLT's original theoretical motivation and its grounding in working memory architecture research.
@@ -253,76 +173,12 @@ importance: high
 - **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Baddeley's revision of the original working memory model to include the episodic buffer — a multimodal, capacity-limited component that integrates information across subsystems and with long-term memory. Important for CLT because it refines the cognitive architecture that CLT's prescriptions depend on, particularly for multimedia learning contexts where multiple information modalities are simultaneously active.
 - **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: The influential research demonstrating that the quality of learning from worked examples is mediated by learner self-explanation — active elaboration of solution steps produces significantly better transfer than passive reading of the same examples. Critical for understanding the boundary conditions of the worked example effect and for integrating CLT with research on active learning and metacognition.
 
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The foundational paper establishing Cognitive Load Theory, introducing the key argument that means-ends analysis in problem-solving consumes working memory resources without producing schemas, and that worked examples offer an efficient alternative for novice learners. Essential for understanding CLT's original theoretical motivation and its grounding in working memory architecture research.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. G. W. C. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The paper that introduced the three-load framework (intrinsic, extraneous, germane) in its canonical form, extending CLT from its original worked example focus to a comprehensive instructional design theory. The primary reference for the germane load construct and the paper that both advanced CLT's scope and introduced the theoretical vulnerability that subsequent critics would exploit.
-
-- **Kalyuga, S., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The canonical paper documenting and naming the expertise reversal effect, synthesizing earlier findings and providing a systematic CLT-based account of why instructional scaffolding that benefits novices becomes harmful for experts. The primary empirical reference for the expertise reversal effect and a foundational source for understanding CLT's dynamic, expertise-responsive prescriptions.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Baddeley's revision of the original working memory model to include the episodic buffer — a multimodal, capacity-limited component that integrates information across subsystems and with long-term memory. Important for CLT because it refines the cognitive architecture that CLT's prescriptions depend on, particularly for multimedia learning contexts where multiple information modalities are simultaneously active.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: The influential research demonstrating that the quality of learning from worked examples is mediated by learner self-explanation — active elaboration of solution steps produces significantly better transfer than passive reading of the same examples. Critical for understanding the boundary conditions of the worked example effect and for integrating CLT with research on active learning and metacognition.
-
-- **Peirce, C. S. (1878). "Deduction, Induction, and Hypothesis." *Popular Science Monthly*, 13, 470–482.**: The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
-
-- **Kuhn, D. (1991). *The Skills of Argument*. Cambridge University Press.**: A landmark developmental study of argumentative reasoning in children, adolescents, and adults. Kuhn demonstrates that the capacity to distinguish evidence from theory and evaluate argument quality develops slowly and unevenly. Essential for Phase III's discussion of developmental trajectories. Directly challenges over-optimistic assumptions about learners' natural reasoning capacity.
-
-- **Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The most comprehensive meta-analysis of educational interventions ever conducted, synthesizing effect sizes across hundreds of studies. Relevant to Phase V for its findings on metacognitive strategies (d = 0.69), problem-based learning, and direct instruction. An essential reference for evidence-based claims about instructional effectiveness.
-
-- **Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987). "Teaching Reasoning." *Science*, 238(4827), 625–631.**: Pivotal experimental study demonstrating that statistical (inductive) reasoning can transfer across domains under appropriate training conditions. Directly supports Phase III's discussion of the transfer debate and offers empirical grounds for cautious optimism about reasoning instruction. Supports Phase V's best-practice recommendations for scaffolded inductive learning.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The foundational paper establishing Cognitive Load Theory, introducing the key argument that means-ends analysis in problem-solving consumes working memory resources without producing schemas, and that worked examples offer an efficient alternative for novice learners. Essential for understanding CLT's original theoretical motivation and its grounding in working memory architecture research.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. G. W. C. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The paper that introduced the three-load framework (intrinsic, extraneous, germane) in its canonical form, extending CLT from its original worked example focus to a comprehensive instructional design theory. The primary reference for the germane load construct and the paper that both advanced CLT's scope and introduced the theoretical vulnerability that subsequent critics would exploit.
-
-- **Kalyuga, S., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The canonical paper documenting and naming the expertise reversal effect, synthesizing earlier findings and providing a systematic CLT-based account of why instructional scaffolding that benefits novices becomes harmful for experts. The primary empirical reference for the expertise reversal effect and a foundational source for understanding CLT's dynamic, expertise-responsive prescriptions.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Baddeley's revision of the original working memory model to include the episodic buffer — a multimodal, capacity-limited component that integrates information across subsystems and with long-term memory. Important for CLT because it refines the cognitive architecture that CLT's prescriptions depend on, particularly for multimedia learning contexts where multiple information modalities are simultaneously active.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: The influential research demonstrating that the quality of learning from worked examples is mediated by learner self-explanation — active elaboration of solution steps produces significantly better transfer than passive reading of the same examples. Critical for understanding the boundary conditions of the worked example effect and for integrating CLT with research on active learning and metacognition.
-
-- **Peirce, C. S. (1878). "Deduction, Induction, and Hypothesis." *Popular Science Monthly*, 13, 470–482.**: The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
-
-- **Kuhn, D. (1991). *The Skills of Argument*. Cambridge University Press.**: A landmark developmental study of argumentative reasoning in children, adolescents, and adults. Kuhn demonstrates that the capacity to distinguish evidence from theory and evaluate argument quality develops slowly and unevenly. Essential for Phase III's discussion of developmental trajectories. Directly challenges over-optimistic assumptions about learners' natural reasoning capacity.
-
-- **Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The most comprehensive meta-analysis of educational interventions ever conducted, synthesizing effect sizes across hundreds of studies. Relevant to Phase V for its findings on metacognitive strategies (d = 0.69), problem-based learning, and direct instruction. An essential reference for evidence-based claims about instructional effectiveness.
-
-- **Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987). "Teaching Reasoning." *Science*, 238(4827), 625–631.**: Pivotal experimental study demonstrating that statistical (inductive) reasoning can transfer across domains under appropriate training conditions. Directly supports Phase III's discussion of the transfer debate and offers empirical grounds for cautious optimism about reasoning instruction. Supports Phase V's best-practice recommendations for scaffolded inductive learning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Methodology Notes
 
 > [!methodology-and-sources] **Research Grounding for This Report**
 > This report draws on approximately four decades of experimental and theoretical research in [[Cognitive-Load-Theory]], [[Working-Memory]] research, and [[Instructional-Design]]. The empirical claims about the worked example effect and expertise reversal effect are grounded in a combination of original experimental studies and meta-analytic syntheses with consistent and substantial effect sizes in well-structured domains. The theoretical claims about the three-load framework — particularly the critique of germane load — are grounded in published methodological critiques from within the CLT…
 
 ---
-
-> [!methodology-and-sources] **Research Grounding for This Report** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
-> This report draws primarily on the Western philosophical tradition in logic (Aristotle, Peirce), the cognitive psychology literature on reasoning and dual-process theory (Kahneman, Stanovich, Kuhn), and the educational psychology literature on instructional effectiveness (Hattie, Nisbett, Kirschner et al.). The synthesis offered here — particularly the framing of reasoning literacy as an overarching educational goal and the ecological view of the three reasoning modes as complementary rather than hierarchical — represents an original integration that goes beyond any single source. Claims about empirical effect sizes are attributed to specific studies. Developmental claims reflect the post-Piagetian consensus rather than any single theorist's position. The limitation regarding WEIRD populations is an honest acknowledgment of a gap in the literature that the author has not resolved but judges important to flag.
-
 
 ## Source Attribution
 

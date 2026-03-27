@@ -102,7 +102,7 @@ The intersection of [[Cognitive-Science]] and [[03-notes/01_permanent-notes/02_p
 
 > [!example] Multi-Level Schema Implementation
 > For your cognitive science study:
-> - **Level 1 Schema**: [[Cognitive Science MOC]] - Broad domains (perception, memory, learning, reasoning)
+> - **Level 1 Schema**: [[cognitive-science-moc]] - Broad domains (perception, memory, learning, reasoning)
 > - **Level 2 Schemas**: [[Memory Systems MOC]], [[Learning Theories MOC]] - Specialized areas
 > - **Level 3 Schemas**: [[Working Memory Models MOC]], [[Long-Term Memory Consolidation MOC]] - Specific phenomena
 > - **Atomic Notes**: Individual concepts, studies, principles

@@ -377,7 +377,7 @@ modified: 2025-12-15
 status: evergreen
 certainty: confident
 type: reference
-related: [[Cognitive-Biases]], [[Decision-Making]], [[Personal Development]], [[Self-Determination-Theory]], [[Metacognition]]
+related: [[Cognitive-Biases]], [[Decision-Making]], [[Personal-Development]], [[Self-Determination-Theory]], [[Metacognition]]
 
 ---
 
@@ -390,7 +390,7 @@ related: [[Cognitive-Biases]], [[Decision-Making]], [[Personal Development]], [[
 
 ### The Debt Metaphor: From Technical to Cognitive Domains
 
-The concept of [[Cognitive-Debt]] borrows its foundational metaphor from Ward Cunningham's influential notion of [[technical debt]] in software engineering. <span style='color: #FFC700;'>**Technical debt**</span> describes decisions that achieve short-term gains—shipping code quickly—but accrue long-term maintenance costs requiring eventual "repayment" through refactoring. This metaphor proves remarkably apt when extended to [[human cognition]]: our brains evolved to prioritize immediate survival over long-term optimization, creating systematic patterns of thinking that serve us well in ancestral environments but generate compounding liabilities in modern contexts.
+The concept of [[Cognitive-Debt]] borrows its foundational metaphor from Ward Cunningham's influential notion of [[technical-debt]] in software engineering. <span style='color: #FFC700;'>**Technical debt**</span> describes decisions that achieve short-term gains—shipping code quickly—but accrue long-term maintenance costs requiring eventual "repayment" through refactoring. This metaphor proves remarkably apt when extended to [[human-cognition]]: our brains evolved to prioritize immediate survival over long-term optimization, creating systematic patterns of thinking that serve us well in ancestral environments but generate compounding liabilities in modern contexts.
 
 [**Cognitive-Debt-Definition**:: <span style='color: #27FF00;'>The cumulative psychological, emotional, and developmental burden that accumulates when cognitive biases and faulty reasoning patterns remain unexamined and uncorrected over extended periods, resulting in progressively degraded decision-making quality, reduced agency, and diminished life outcomes</span>]
 
@@ -486,7 +486,7 @@ Additional longitudinal evidence from animal models demonstrates long-term effec
 Cognitive debt accumulated during youth compounds throughout adulthood, manifesting in professional, interpersonal, and health domains. Research examining cognitive biases in professional decision-making across management, finance, medicine, and law reveals consistent patterns of bias-driven suboptimality with escalating stakes.
 
 > [!evidence] Professional Decision-Making Impacts (Saposnik et al., 2016)
-> A comprehensive review of cognitive bias research in four professional domains found: (1) <span style='color: #FFC700;'>**Management**</span>—risky-choice framing effects and CEO overconfidence systematically degrade strategic decisions; (2) <span style='color: #FFC700;'>**Finance**</span>—overconfidence and [[disposition effect]] (loss aversion consequence) impair investor performance; (3) <span style='color: #FFC700;'>**Medicine**</span>—anchoring effects, information bias, and overconfidence associate with diagnostic inaccuracies and therapeutic errors; (4) <span style='color: #FFC700;'>**Law**</span>—hindsight bias, anchoring, and framing effects influence judicial decision-making. Critically, <span style='background-color: #FF00DC40; color: #FF00DC;'>professional expertise and domain knowledge do not confer immunity to these biases</span>—in some cases, they provide false confidence enabling more consequential errors.
+> A comprehensive review of cognitive bias research in four professional domains found: (1) <span style='color: #FFC700;'>**Management**</span>—risky-choice framing effects and CEO overconfidence systematically degrade strategic decisions; (2) <span style='color: #FFC700;'>**Finance**</span>—overconfidence and [[disposition-effect]] (loss aversion consequence) impair investor performance; (3) <span style='color: #FFC700;'>**Medicine**</span>—anchoring effects, information bias, and overconfidence associate with diagnostic inaccuracies and therapeutic errors; (4) <span style='color: #FFC700;'>**Law**</span>—hindsight bias, anchoring, and framing effects influence judicial decision-making. Critically, <span style='background-color: #FF00DC40; color: #FF00DC;'>professional expertise and domain knowledge do not confer immunity to these biases</span>—in some cases, they provide false confidence enabling more consequential errors.
 
 [**Expertise-Bias-Paradox**:: <span style='color: #FF5700;'>The counterintuitive finding that domain expertise can amplify rather than reduce cognitive bias impact, as confidence in professional judgment reduces willingness to engage systematic analytic processes or consider disconfirming evidence</span>]
 
@@ -545,7 +545,7 @@ A critical inflection point in cognitive debt accumulation occurs when biases tr
 %%extract-atomic: Identity-Level Bias Integration%%
 
 > [!key-claim] Identity Protection Mechanisms
-> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition effect]] and [[sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
+> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive-dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect]] and [[sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
 
 The longitudinal research on adolescent bias development reveals this integration process empirically. Zavlis et al. (2024) found that domain-specific negative interpretive biases (academic, family, peer) predicted development of self-referential negative interpretations. This represents identity integration: what began as situational processing tendencies ("I tend to interpret teacher feedback negatively") consolidates into trait characteristics ("I'm the kind of person who disappoints authority figures"). The cognitive debt has now colonized core identity structures.
 
@@ -669,7 +669,7 @@ The effectiveness of continuous monitoring depends critically on [[Metacognitive
 
 ### Tertiary Prevention: Structured Debt Repayment Programs
 
-For individuals carrying substantial accumulated cognitive debt—identifiable through persistent suboptimal decisions, chronic [[cognitive dissonance]], relationship conflicts, career stagnation, or psychological distress—<span style='color: #FFC700;'>**structured debt repayment programs**</span> analogous to financial debt counseling become necessary. These typically require external professional support ([[Cognitive-Behavioral-Therapy]], executive coaching, structured decision analysis) to provide the metacognitive scaffolding that internal resources can no longer supply.
+For individuals carrying substantial accumulated cognitive debt—identifiable through persistent suboptimal decisions, chronic [[cognitive-dissonance]], relationship conflicts, career stagnation, or psychological distress—<span style='color: #FFC700;'>**structured debt repayment programs**</span> analogous to financial debt counseling become necessary. These typically require external professional support ([[Cognitive-Behavioral-Therapy]], executive coaching, structured decision analysis) to provide the metacognitive scaffolding that internal resources can no longer supply.
 
 > [!how-to] Cognitive Debt Repayment Framework
 > Structured repayment typically follows this progression: 

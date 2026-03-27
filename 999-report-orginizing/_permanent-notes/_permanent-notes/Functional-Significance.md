@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cognitive-evaluation-theory-focused-analysis-2026-03-13"
-  - "cognitive-evaluation-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[CET]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Self-Determination]]"
-  - "[[CET|CET]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[SDT|SDT]]"
-  - "[[Intrinsic-Motivation|intrinsic motivation]]"
-  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Self-Determination|self-determination]]"
-  - "[[Perceived-Locus-of-Causality|perceived locus of causality]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -88,7 +81,7 @@ builds-on:
   - "[[Attribution-Theory|Attribution Theory]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Basic-Psychological-Needs-Theory-CET-is-one-of-six-SDT-mini-theories|> [!topic-idea] [[Basic-Psychological-Needs-Theory]]
@@ -165,22 +158,6 @@ importance: high
 **Related concepts:**
 [[CET]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[SDT]] · [[Intrinsic-Motivation|intrinsic motivation]] · [[Functional-Significance|functional significance]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Self-Determination]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Perceived-Locus-of-Causality|perceived locus of causality]] · [[Perceived-Competence|perceived competence]] · [[Self-Determination]] · [[speech-act-theory|speech act theory]] · [[Gamification]] · [[Autonomy-Orientation|autonomy orientation]]
 
-**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[Perceived-Competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] * [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[speech-act-theory|speech act theory]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
-
-
-
-
 ## References
 
 - **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105–115.**: The foundational experimental study establishing the undermining effect with monetary rewards and Soma puzzle performance. While methodologically modest by contemporary standards, this study launched a 50-year research programme. Its value for this report is as the original empirical instantiation of the claim that extrinsic rewards can reduce subsequent free-choice engagement with intrinsically interesting activities.
@@ -188,21 +165,6 @@ importance: high
 - **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.**: The theoretical monograph that articulates Cognitive Evaluation Theory as a formal sub-theory and situates it within SDT. The most important primary source for understanding CET's conceptual architecture, including the functional significance concept, the two-pathway model, and the taxonomy of ambient conditions. Essential reading for anyone working seriously with CET.
 - **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research*, 64(3), 363–423.**: The controversial meta-analysis arguing that rewards do not reliably undermine intrinsic motivation. Important as a cautionary methodological counterweight to uncritical acceptance of CET's claims. This report treats Cameron and Pierce's work not as refuting CET but as demonstrating the sensitivity of meta-analytic conclusions to coding and modelling decisions — and as providing useful disaggregation of reward types.
 - **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The comprehensive meta-analysis of 128 studies that provides the strongest evidence base for CET. The disaggregated findings by reward contingency type (engagement-contingent, completion-contingent, performance-contingent, verbal) are particularly important for instructional design applications. The exchange with Cameron and Pierce in the same issue of Psychological Bulletin is essential reading for understanding the limits of meta-analytic evidence.
-
-- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105–115.**: The foundational experimental study establishing the undermining effect with monetary rewards and Soma puzzle performance. While methodologically modest by contemporary standards, this study launched a 50-year research programme. Its value for this report is as the original empirical instantiation of the claim that extrinsic rewards can reduce subsequent free-choice engagement with intrinsically interesting activities.
-
-- **Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis. *Journal of Personality and Social Psychology*, 28(1), 129–137.**: The paradigmatic overjustification study with preschool children and drawing materials. Methodologically important because it used a naturalistic observation measure (classroom free play) rather than laboratory free choice, providing greater ecological validity. The unexpected-reward control condition is particularly important for CET's theoretical interpretation.
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.**: The theoretical monograph that articulates Cognitive Evaluation Theory as a formal sub-theory and situates it within SDT. The most important primary source for understanding CET's conceptual architecture, including the functional significance concept, the two-pathway model, and the taxonomy of ambient conditions. Essential reading for anyone working seriously with CET.
-
-- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research*, 64(3), 363–423.**: The controversial meta-analysis arguing that rewards do not reliably undermine intrinsic motivation. Important as a cautionary methodological counterweight to uncritical acceptance of CET's claims. This report treats Cameron and Pierce's work not as refuting CET but as demonstrating the sensitivity of meta-analytic conclusions to coding and modelling decisions — and as providing useful disaggregation of reward types.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The comprehensive meta-analysis of 128 studies that provides the strongest evidence base for CET. The disaggregated findings by reward contingency type (engagement-contingent, completion-contingent, performance-contingent, verbal) are particularly important for instructional design applications. The exchange with Cameron and Pierce in the same issue of Psychological Bulletin is essential reading for understanding the limits of meta-analytic evidence.
-
-
-
-
-
 
 ## Methodology Notes
 

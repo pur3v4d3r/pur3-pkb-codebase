@@ -1139,7 +1139,7 @@ extraction_summary:
 - [[entropy]]
 - [[frame of reference]]
 - [[freedom]]
-- [[human cognition]]
+- [[human-cognition|human cognition]]
 - [[Implications]]
 - [[inferences]]
 - [[Information]]
@@ -1204,7 +1204,7 @@ extraction_summary:
 | 34 | [[Confidence in Reason]] | — | — | Paul-Elder Critical Thinking Model | 227 |
 | 35 | [[Fair-mindedness]] | — | — | Paul-Elder Critical Thinking Model | 228 |
 | 36 | [[wiki-links]] | — | — | Paul-Elder Critical Thinking Model | 264 |
-| 37 | [[human cognition]] | — | — | Philosophical Underpinnings | 329 |
+| 37 | [[human-cognition|human cognition]] | — | — | Philosophical Underpinnings | 329 |
 | 38 | [[Reasoning]] | — | — | Philosophical Underpinnings | 329 |
 | 39 | [[emotions]] | — | — | Philosophical Underpinnings | 335 |
 | 40 | [[Cognitive-Biases|cognitive biases]] | — | — | Philosophical Underpinnings | 335 |
@@ -1586,7 +1586,7 @@ graph TD
 - [[entropy]]
 - [[frame of reference]]
 - [[freedom]]
-- [[human cognition]]
+- [[human-cognition|human cognition]]
 - [[Implications]]
 - [[inferences]]
 - [[Information]]

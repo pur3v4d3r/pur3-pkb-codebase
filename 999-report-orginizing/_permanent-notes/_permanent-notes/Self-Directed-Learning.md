@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "self-directed-learning-foundational-report-2026-03-11"
-  - "self-directed-learning-foundational-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Allen-Tough|Allen Tough]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Adult-Education|Adult Education]]"
   - "[[Malcolm-Knowles|Malcolm Knowles]]"
-  - "[[Allen-Tough|Allen Tough]]"
-  - "[[Adult-Education|Adult Education]]"
-  - "[[Online-Learning-Design|Online Learning Design]]"
-  - "[[Learning-Contracts|Learning Contracts]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
-  - "[[Malcolm-Knowles|Malcolm Knowles]]"
-  - "[[Andragogy|Andragogy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -89,7 +82,7 @@ builds-on:
   - "[[Growth-Mindset|Growth Mindset]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Self-Regulated-Learning-A-dedicated-Foundational-Report-on-Self-Regu|> [!topic-idea] [[Self-Regulated-Learning]]
@@ -157,42 +150,6 @@ importance: high
 **Related concepts:**
 [[Allen-Tough|Allen Tough]] · [[Adult-Education|Adult Education]] · [[Online-Learning-Design|Online Learning Design]] · [[Learning-Contracts|Learning Contracts]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] · [[Adult-Education|Adult Education]] · [[Malcolm-Knowles|Malcolm Knowles]] · [[Andragogy]] · [[pedagogy]] · [[Allen-Tough|Allen Tough]]
 
-**Related concepts** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Philip-Candy|Philip Candy]] * [[Heutagogy|Heutagogy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]] * [[Ralph-Hiemstra|Ralph Hiemstra]]
-
-**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-- [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-- [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-- [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-- [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-
-
-
-
-
 ## References
 
 - **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
@@ -200,66 +157,6 @@ importance: high
 - **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
 - **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
 - **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-- **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
-
-- **Tough, A. (1971). *The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning*. Ontario Institute for Studies in Education.**: The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
-
-- **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
-
-- **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
-
-- **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-- **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
-
-- **Tough, A. (1971). *The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning*. Ontario Institute for Studies in Education.**: The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
-
-- **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
-
-- **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
-
-- **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-- **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
-
-- **Tough, A. (1971). *The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning*. Ontario Institute for Studies in Education.**: The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
-
-- **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
-
-- **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
-
-- **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-- **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
-
-- **Tough, A. (1971). *The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning*. Ontario Institute for Studies in Education.**: The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
-
-- **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
-
-- **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
-
-- **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

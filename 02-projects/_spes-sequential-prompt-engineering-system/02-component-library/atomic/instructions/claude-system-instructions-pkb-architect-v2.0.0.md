@@ -38,7 +38,7 @@ atomic-type: instruction
 concepts::
   - "[[System Prompt]]"
   - "[[Identity Frame]]"
-  - "[[Constitutional AI]]"
+  - "[[Constitutional-AI]]"
   - "[[ReAct Framework]]"
   - "[[Chain-of-Density]]"
   - "[[Knowledge Graph Building]]"

@@ -24,30 +24,30 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 54
+referenced-by-count: 51
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Abduction]]"
   - "[[Abductive-Competence]]"
   - "[[Abductive-Reasoning]]"
   - "[[Accommodation]]"
   - "[[Accretion,-Tuning,-Restructuring]]"
-  - "[[Advance-Organizer]]"
   - "[[Affective-Intelligence-Theory]]"
   - "[[Analogical-Reasoning]]"
   - "[[Anomaly]]"
-  - "[[Assimilation]]"
+  - "[[Availability-Heuristic]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,22 +60,21 @@ importance: high
 # Metacognition-and-Critical-Thinking
 
 > [!definition] **Metacognition-and-Critical-Thinking**
-> *Stub note — concept referenced by 54 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 51 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 54 permanent notes.*
+*Auto-generated stub — referenced by 51 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Abduction]]
 - [[Abductive-Competence]]
 - [[Abductive-Reasoning]]
 - [[Accommodation]]
 - [[Accretion,-Tuning,-Restructuring]]
-- [[Advance-Organizer]]
 - [[Affective-Intelligence-Theory]]
 - [[Analogical-Reasoning]]
 - [[Anomaly]]
-- [[Assimilation]]
 - [[Availability-Heuristic]]
 - [[Bayesian-Inference]]
 - [[Calibration]]
@@ -84,6 +83,7 @@ importance: high
 - [[Confirmation-Bias]]
 - [[Context-of-Discovery-vs.-Context-of-Justification]]
 - [[Corroboration]]
-- [[Deductive-Reasoning]]
 - [[Defeasibility]]
-- *...and 34 more permanent notes*
+- [[Defeat-Defeater]]
+- [[Deliberative-Democracy]]
+- *...and 31 more permanent notes*

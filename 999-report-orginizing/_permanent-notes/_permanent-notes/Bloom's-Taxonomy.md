@@ -24,23 +24,22 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 18
+referenced-by-count: 17
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Analysis]]"
-  - "[[Calibration]]"
-  - "[[Cognitive-Load]]"
   - "[[Critical-Thinking]]"
   - "[[Desirable-Difficulties]]"
   - "[[Disposition]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Evaluation]]"
   - "[[Inference]]"
   - "[[Intellectual-Standards]]"
+  - "[[Metacognition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,15 +60,14 @@ importance: medium
 # Bloom's-Taxonomy
 
 > [!definition] **Bloom's-Taxonomy**
-> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 18 permanent notes.*
+*Auto-generated stub — referenced by 17 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Analysis]]
-- [[Calibration]]
-- [[Cognitive-Load]]
 - [[Critical-Thinking]]
 - [[Desirable-Difficulties]]
 - [[Disposition]]

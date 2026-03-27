@@ -216,7 +216,7 @@ extraction_summary:
 - [[John-Dewey|John Dewey]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Pragmatic-Stoic Synthesis]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Radical Empiricism]]
 - [[Rational Emotive Behavior Therapy]]
@@ -239,7 +239,7 @@ extraction_summary:
 | 8 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 1. Define Core Parameters | 71 |
 | 9 | [[Epistemology of Action]] | — | — | 1. Define Core Parameters | 71 |
 | 10 | [[John-Dewey|John Dewey]] | — | — | 2. Phase 1: Overture (The "Why & What") | 82 |
-| 11 | [[pragmatism]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
+| 11 | [[Pragmatism]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
 | 12 | [[William-James|William James]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
 | 13 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
 | 14 | [[Stoicism]] | — | — | The Stoic Substrate: Regulating the I... | 98 |
@@ -332,7 +332,7 @@ extraction_summary:
 - [[John-Dewey|John Dewey]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Pragmatic-Stoic Synthesis]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Radical Empiricism]]
 - [[Rational Emotive Behavior Therapy]]

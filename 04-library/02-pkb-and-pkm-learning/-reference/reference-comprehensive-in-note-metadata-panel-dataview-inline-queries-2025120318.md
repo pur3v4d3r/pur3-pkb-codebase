@@ -173,7 +173,7 @@ I need to explore Dataview's inline query capabilities systematically across mul
 - Expansion section linking to advanced topics
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge-Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard-Design]], [[PKB Architecture]]
+[[Dataview]], [[Inline-Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge-Graph]], [[Link-Analysis]], [[Temporal Queries]], [[Aggregation-Functions]], [[Conditional-Logic]], [[String-Manipulation]], [[File-Properties]], [[Dashboard-Design]], [[PKB Architecture]]
 
 
 ---

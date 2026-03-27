@@ -259,7 +259,7 @@ SORT StudyType ASC
 ## 🔍 Query Meta
 
 - QueryType:: [[Self-Discovery Query]]
-- dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[GROUP BY]]
+- dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[GROUP-BY]]
 - functions:: [[meta()]]
 - targetFolder:: "01-Applications"
 
@@ -498,7 +498,7 @@ SORT StudyType ASC
 ## 🔍 Query Meta
 
 - QueryType:: [[Self-Discovery Query]]
-- dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[GROUP BY]]
+- dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[GROUP-BY]]
 - functions:: [[meta()]]
 - targetFolder:: "01-Applications"
 
@@ -994,7 +994,7 @@ SORT Complexity ASC
 ## 🔍 Query Meta
 
 - QueryType:: [[Self-Discovery Query]]
-- dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[GROUP BY]]
+- dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[GROUP-BY]]
 - functions:: [[meta()]]
 - targetFolder:: "01-Applications"
 

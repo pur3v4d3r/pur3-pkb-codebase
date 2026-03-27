@@ -3165,7 +3165,7 @@ GTD mastery requires both dimensions:
 2. **[[Mind Like Water Philosophy - Eastern Influences on Productivity]]**
    - *Connection*: Allen's "Mind Like Water" concept draws from martial arts and Zen Buddhism—exploring these philosophical roots provides deeper understanding
    - *Depth Potential*: Trace concept through Taoist thought, Japanese martial arts, modern mindfulness research; connect to Flow Theory and presence practices
-   - *Knowledge Graph Role*: Links [[GTD]] with [[Philosophy]], [[Mindfulness]], [[Peak Performance]], [[Eastern Wisdom Traditions]]
+   - *Knowledge Graph Role*: Links [[GTD]] with [[philosophy]], [[Mindfulness]], [[Peak Performance]], [[Eastern Wisdom Traditions]]
 
 3. **[[Context-Based Productivity Systems - Theory and Implementation]]**
    - *Connection*: GTD's context lists represent sophisticated application of situational action design—this principle extends beyond GTD

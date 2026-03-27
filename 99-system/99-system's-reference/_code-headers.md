@@ -6,7 +6,7 @@
 # Architectural Patterns for Script Documentation and Metadata
 The integration of robust documentation patterns within script templates is a foundational requirement for a high-functioning [[Professional Knowledge Base]] (PKB). In the context of [[Workflow Automation]] and [[Software Engineering]], comments serve not merely as passive explanations but as active nodes for [[Knowledge Extraction]]. By utilizing standardized comment structures, an advanced practitioner can ensure that scripts remain maintainable, searchable, and compatible with [[Static Analysis]] tools.
 > [!abstract]
-> This reference note delineates various structural patterns for script comments, ranging from high-level metadata headers to granular inline logic explanations. These patterns are designed to facilitate [[Computational Thinking]] and long-term [[Technical Debt]] reduction.
+> This reference note delineates various structural patterns for script comments, ranging from high-level metadata headers to granular inline logic explanations. These patterns are designed to facilitate [[Computational Thinking]] and long-term [[technical-debt]] reduction.
 
 ---
 ## 1. The Standard Metadata Header

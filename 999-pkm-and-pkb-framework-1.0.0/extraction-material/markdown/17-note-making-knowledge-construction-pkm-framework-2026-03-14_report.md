@@ -195,7 +195,7 @@ extraction_summary:
 #### 8. [DEFINITION] Constructivism (Educational Philosophy — Piaget, Vygotsky, Dewey) *(Line 181)*
 
 > [!definition] Constructivism (Educational Philosophy — Piaget, Vygotsky, Dewey)
-> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social-Constructivism|Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.
+> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social-Constructivism|Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.
 
 #### 9. [CROSS-DOMAIN-CONNECTION] Wittrock Meets Vygotsky: Language as the Medium of Construction *(Line 188)*
 
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 - [[Obsidian]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 03: Constructing Understanding]]
@@ -604,7 +604,7 @@ extraction_summary:
 | 21 | [[Report 03: Constructing Understanding]] | — | — | The Disciplinary Lens Array | 179 |
 | 22 | [[Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
 | 23 | [[Social-Constructivism|Social Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
-| 24 | [[pragmatism]] | — | — | The Disciplinary Lens Array | 182 |
+| 24 | [[Pragmatism]] | — | — | The Disciplinary Lens Array | 182 |
 | 25 | [[Writing-to-Learn|Writing to Learn]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 26 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 27 | [[self-explanation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
@@ -697,7 +697,7 @@ extraction_summary:
 - [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 - [[Obsidian]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 03: Constructing Understanding]]

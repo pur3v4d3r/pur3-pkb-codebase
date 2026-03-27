@@ -24,20 +24,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Deep-Processing]]"
   - "[[Distinctiveness]]"
   - "[[Elaboration]]"
@@ -47,7 +48,6 @@ see-also:
   - "[[Maintenance-Rehearsal]]"
   - "[[Memory-Trace-Durability]]"
   - "[[Orienting-Task]]"
-  - "[[Orienting-Task-Paradigm]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,12 +60,13 @@ importance: medium
 # Levels-of-Processing-Theory
 
 > [!definition] **Levels-of-Processing-Theory**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Deep-Processing]]
 - [[Distinctiveness]]
 - [[Elaboration]]

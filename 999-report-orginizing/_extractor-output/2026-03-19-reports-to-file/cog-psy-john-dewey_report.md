@@ -176,7 +176,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 296)*
 
 > [!abstract] Untitled
-> [[John-Dewey|John Dewey]] (1859–1952) stands as arguably the most influential American philosopher of education, whose systematic theorization of [[Reflective-Thinking|reflective thinking]] fundamentally shaped modern conceptions of [[Critical-Thinking|critical thinking]] and transformed educational practice worldwide. As a founding figure in [[pragmatism]] and functional psychology, Dewey developed a comprehensive philosophical and psychological framework that revolutionized understanding of how learning occurs, how thinking should be cultivated, and how democratic societies should educate their citizens. His establishment of the [[University of Chicago Laboratory School]] in 1896 provided the experimental ground for testing his theories, producing empirical evidence that challenged traditional educational orthodoxy and laid the foundation for the [[progressive education movement]]. This exposition provides a comprehensive scholarly treatment of Dewey's contributions to critical thinking and educational psychology, tracing the intellectual genealogy of his ideas, explicating his theoretical architecture, examining the empirical foundations of his work, and analyzing his enduring influence on contemporary educational practice and critical thinking scholarship.
+> [[John-Dewey|John Dewey]] (1859–1952) stands as arguably the most influential American philosopher of education, whose systematic theorization of [[Reflective-Thinking|reflective thinking]] fundamentally shaped modern conceptions of [[Critical-Thinking|critical thinking]] and transformed educational practice worldwide. As a founding figure in [[Pragmatism]] and functional psychology, Dewey developed a comprehensive philosophical and psychological framework that revolutionized understanding of how learning occurs, how thinking should be cultivated, and how democratic societies should educate their citizens. His establishment of the [[University of Chicago Laboratory School]] in 1896 provided the experimental ground for testing his theories, producing empirical evidence that challenged traditional educational orthodoxy and laid the foundation for the [[progressive education movement]]. This exposition provides a comprehensive scholarly treatment of Dewey's contributions to critical thinking and educational psychology, tracing the intellectual genealogy of his ideas, explicating his theoretical architecture, examining the empirical foundations of his work, and analyzing his enduring influence on contemporary educational practice and critical thinking scholarship.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 301)*
 
@@ -399,7 +399,7 @@ extraction_summary:
 
 - [[21st Century Skills Frameworks]]
 - [[21st century skills]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Basic Epistemology]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cartesian dualism]]
@@ -534,7 +534,7 @@ extraction_summary:
 - [[Neuroplasticity]]
 - [[neuroscience]]
 - [[Open-Mindedness]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[problem-based learning]]
 - [[progressive education]]
 - [[progressive education movement]]
@@ -558,7 +558,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Hierarchical Relationships | 94 |
-| 2 | [[American-Pragmatism|American Pragmatism]] | — | — | Hierarchical Relationships | 95 |
+| 2 | [[American-pragmatism|American Pragmatism]] | — | — | Hierarchical Relationships | 95 |
 | 3 | [[History of Psychology]] | — | — | Hierarchical Relationships | 96 |
 | 4 | [[Progressive Era Reforms]] | — | — | Hierarchical Relationships | 97 |
 | 5 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | Hierarchical Relationships | 98 |
@@ -611,7 +611,7 @@ extraction_summary:
 | 52 | [[John-Dewey|John Dewey]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 53 | [[Reflective-Thinking|reflective thinking]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 54 | [[Critical-Thinking|critical thinking]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
-| 55 | [[pragmatism]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
+| 55 | [[Pragmatism]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 56 | [[University of Chicago Laboratory School]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 57 | [[progressive education movement]] | — | — | 🎓 John Dewey: Architect of Reflective... | 297 |
 | 58 | [[inquiry]] | — | — | 📍 Introduction & Context: The Endurin... | 302 |
@@ -632,7 +632,7 @@ extraction_summary:
 | 73 | [[Georg Wilhelm Friedrich Hegel]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
 | 74 | [[William-James|William James]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
 | 75 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
-| 76 | [[pragmatism]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
+| 76 | [[Pragmatism]] | — | — | 📜 Historical Foundations: The Making ... | 320 |
 | 77 | [[Samuel Taylor Coleridge]] | — | — | 📜 Historical Foundations: The Making ... | 323 |
 | 78 | [[Instrumentalism]] | — | — | 📜 Historical Foundations: The Making ... | 325 |
 | 79 | [[University of Chicago Laboratory School]] | — | — | 📜 Historical Foundations: The Making ... | 325 |
@@ -642,7 +642,7 @@ extraction_summary:
 | 83 | [[functionalist]] | — | — | 📜 Historical Foundations: The Making ... | 334 |
 | 84 | [[progressive movement]] | — | — | 📜 Historical Foundations: The Making ... | 334 |
 | 85 | [[Epistemic-Autonomy-—-Epistemology|epistemology]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
-| 86 | [[pragmatism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
+| 86 | [[Pragmatism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
 | 87 | [[Instrumentalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
 | 88 | [[cultural naturalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
 | 89 | [[representationalism]] | — | — | Pragmatism and Instrumentalism: A New... | 343 |
@@ -925,7 +925,7 @@ tags:
 
 - [[21st Century Skills Frameworks]]
 - [[21st century skills]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Basic Epistemology]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cartesian dualism]]
@@ -1060,7 +1060,7 @@ tags:
 - [[Neuroplasticity]]
 - [[neuroscience]]
 - [[Open-Mindedness]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[problem-based learning]]
 - [[progressive education]]
 - [[progressive education movement]]

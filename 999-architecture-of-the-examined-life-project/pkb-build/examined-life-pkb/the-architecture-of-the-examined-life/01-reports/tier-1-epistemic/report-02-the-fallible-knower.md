@@ -130,7 +130,7 @@ prerequisites:
   - "[[Report 01 — The Inquiry Engine]]"
 
 related:
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Constructivism|Constructivism (Educational Psychology)]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"

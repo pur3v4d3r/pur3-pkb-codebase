@@ -5059,7 +5059,7 @@ Identify and link any term that meets these criteria:
 - Obsidian plugins: [[Dataview]], [[Templater]], [[QuickAdd]]
 - Software applications: [[Obsidian]], [[Notion]], [[Roam Research]]
 - Programming languages: [[Python]], [[JavaScript]], [[CSS]]
-- Frameworks/libraries: [[React]], [[Vue]], [[FastMCP]]
+- Frameworks/libraries: [[ReAct]], [[Vue]], [[FastMCP]]
 
 ✓ **Technical Syntax & Concepts**
 
@@ -5080,7 +5080,7 @@ Identify and link any term that meets these criteria:
 
 - [[Andragogy]], [[Heutagogy]], [[Constructivism]]
 - [[Information-Architecture]], [[Knowledge Engineering]]
-- [[Prompt-Engineering]], [[Constitutional AI]]
+- [[Prompt-Engineering]], [[Constitutional-AI]]
 
 **CATEGORY 4: Cross-Reference Opportunities**
 

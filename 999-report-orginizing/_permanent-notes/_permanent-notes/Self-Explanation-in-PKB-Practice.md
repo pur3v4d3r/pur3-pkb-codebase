@@ -23,20 +23,21 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Articulatory-Construction-Principle]]"
   - "[[Audience-Simulation-Effect]]"
   - "[[Cognitive-Surface-Area]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Knowledge-Telling-vs.-Knowledge-Transforming]]"
   - "[[Productive-Friction]]"
   - "[[Retrieval-Writing]]"
-  - "[[The-Articulatory-Construction-Principle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: medium
 # Self-Explanation-in-PKB-Practice
 
 > [!definition] **Self-Explanation-in-PKB-Practice**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Articulatory-Construction-Principle]]
 - [[Audience-Simulation-Effect]]
 - [[Cognitive-Surface-Area]]

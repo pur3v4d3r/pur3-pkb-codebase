@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,9 +42,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "metacognition-silent-reading-focused-analysis-2026-03-21"
-  - "metacognition-silent-reading-focused-analysis-2026-03-21.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -56,16 +57,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Metacognition]]"
@@ -76,23 +77,15 @@ see-also:
   - "[[Metacognitive-Regulation]]"
   - "[[Metacognitive-Knowledge]]"
   - "[[Metacognitive-Regulation]]"
-  - "[[Metacognition|Metacognition]]"
-  - "[[Self-Regulated-Learning|Self-Regulated-Learning]]"
-  - "[[Flavell-Metacognition-Framework|Flavell-Metacognition-Framework]]"
-  - "[[Metacognitive-Knowledge|Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation|Metacognitive-Regulation]]"
-  - "[[Metacognitive-Experience|Metacognitive-Experience]]"
-  - "[[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]"
-  - "[[Monitoring-Gap|Monitoring-Gap]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Metacognitive-Calibration-in-Reading-Assessment-The-analysis-identif|> [!topic-idea] [[Metacognitive-Calibration]] in Reading Assessment
@@ -159,10 +152,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Flavell-Metacognition-Framework]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Metacognitive-Experience]] · [[Monitoring-Control-Coupling]] · [[Monitoring-Gap]] · [[Situation-Model]] · [[Situation-Model]] · [[Situation-Model]] · [[Fluency-Illusion]]
 
-**Related concepts** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*:
-[[Self-Explanation-Effect|Self-Explanation-Effect]] * [[Working-Memory|Working-Memory]] * [[Working-Memory-Capacity|Working-Memory-Capacity]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Metacognitive-Monitoring|Metacognitive-Monitoring]] * [[Far-Transfer|Far-Transfer]] * [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's-Three-Phase-SRL-Cycle]] * [[Metacognitive-Calibration|Metacognitive-Calibration]] * [[Pseudometacognition|Pseudometacognition]]
-
-
 ## References
 
 - **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
@@ -170,21 +159,6 @@ importance: high
 - **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
 - **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
-
-- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
-
-- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
-
-- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
-
-
-
-
-
 
 ## Methodology Notes
 

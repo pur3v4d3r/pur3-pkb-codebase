@@ -210,7 +210,7 @@ FLATTEN file.lists as L
 
 > [!definition]
 > **FLATTEN Mechanics**: 
-> - [[flatten]] is the opposite of [[GROUP BY]]
+> - [[flatten]] is the opposite of [[GROUP-BY]]
 > - For each file, it creates a **new row** for each list item
 > - Each row is a full duplicate of the original file data, except the flattened field
 > - `as L` creates a new field called `L` that contains each individual list item
@@ -302,7 +302,7 @@ For the self-discovery query to work, other notes must follow this list structur
 ```markdown
 - Query meta
   - QueryType:: [[DQL]]
-  - dataCommands:: [[Table]], [[WHERE]], [[FLATTEN]], [[GROUP BY]]
+  - dataCommands:: [[Table]], [[WHERE]], [[FLATTEN]], [[GROUP-BY]]
   - functions:: [[filter]], [[flat]], [[contains]], [[embed]]
   - tags:: #data-processing #automation
   - image:: [[Screenshot.png]]
@@ -518,7 +518,7 @@ Add complexity tracking to Query meta:
 - Query meta
   - QueryType:: [[DQL]]
   - complexity:: intermediate
-  - dataCommands:: [[FLATTEN]], [[GROUP BY]]
+  - dataCommands:: [[FLATTEN]], [[GROUP-BY]]
 ```
 
 Then filter queries by complexity level:
@@ -534,7 +534,7 @@ Extend the system for domain-specific documentation:
 
 ```markdown
 - Query meta
-  - QueryType:: [[dataviewjs]]
+  - QueryType:: [[DataviewJS]]
   - domain:: [[Task-Management]]
   - useCase:: [[Habit Tracking]]
   - dataCommands:: 

@@ -681,7 +681,7 @@ extraction_summary:
 - [[Connor-Davidson Resilience Scale]]
 - [[Cosmopolitanism]]
 - [[Courage]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Daily Stoic]]
 - [[Dataview]]
 - [[Default Mode Network]]
@@ -756,7 +756,7 @@ extraction_summary:
 - [[Permanence]]
 - [[Perspective Shift]]
 - [[Philosopher-Emperor]]
-- [[Philosophy]]
+- [[philosophy]]
 - [[Pierre-Hadot|Pierre Hadot]]
 - [[Plain Text]]
 - [[Prefrontal Cortex]]
@@ -832,7 +832,7 @@ extraction_summary:
 | 15 | [[Psychological Resilience]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 16 | [[Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 17 | [[Stoic Daily Journaling]] | — | — | The Ancient Lineage | 203 |
-| 18 | [[Philosophy]] | — | — | The Ancient Lineage | 203 |
+| 18 | [[philosophy]] | — | — | The Ancient Lineage | 203 |
 | 19 | [[Art of Living]] | — | — | The Ancient Lineage | 203 |
 | 20 | [[Epictetus]] | — | — | The Ancient Lineage | 205 |
 | 21 | [[Enchiridion]] | — | — | The Ancient Lineage | 205 |
@@ -961,7 +961,7 @@ extraction_summary:
 | 144 | [[Obsidian]] | — | — | Obsidian as a Stoic Journal Platform | 973 |
 | 145 | [[Digital Stoic Practice Environment]] | — | — | Obsidian as a Stoic Journal Platform | 973 |
 | 146 | [[Bidirectional Linking]] | — | — | Obsidian as a Stoic Journal Platform | 976 |
-| 147 | [[Daily Notes]] | — | — | Obsidian as a Stoic Journal Platform | 977 |
+| 147 | [[Daily-Notes|Daily Notes]] | — | — | Obsidian as a Stoic Journal Platform | 977 |
 | 148 | [[Templates]] | — | — | Obsidian as a Stoic Journal Platform | 978 |
 | 149 | [[Dataview]] | — | — | Obsidian as a Stoic Journal Platform | 979 |
 | 150 | [[Tags]] | — | — | Obsidian as a Stoic Journal Platform | 980 |
@@ -1731,7 +1731,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Connor-Davidson Resilience Scale]]
 - [[Cosmopolitanism]]
 - [[Courage]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Daily Stoic]]
 - [[Dataview]]
 - [[Default Mode Network]]
@@ -1806,7 +1806,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Permanence]]
 - [[Perspective Shift]]
 - [[Philosopher-Emperor]]
-- [[Philosophy]]
+- [[philosophy]]
 - [[Pierre-Hadot|Pierre Hadot]]
 - [[Plain Text]]
 - [[Prefrontal Cortex]]

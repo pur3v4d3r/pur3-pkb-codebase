@@ -128,7 +128,7 @@ D:\10_pur3v4d3r's-vault/
 ---
 
 ### **01_daily-notes** 📅
-**Purpose**: [[Daily Notes]] temporal knowledge capture; chronological entry points
+**Purpose**: [[Daily-Notes]] temporal knowledge capture; chronological entry points
 - Function: Daily reflections, time-sensitive observations, circadian knowledge flow
 - Connection: Bridge between [[00_inbox]] (capture) and [[03_notes]] (processing)
 - Supported by: Day Planner plugin for time-blocking and [[Task Integration]]

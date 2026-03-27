@@ -111,7 +111,7 @@ modified: 2025-12-23
 status: evergreen
 certainty: confident
 type: reference
-related: [[Sequential Prompt Engineering System]], [[Claude-Code]], [[Obsidian PKB Architecture]], [[Agent Coordination Patterns]]
+related: [[Sequential Prompt Engineering System]], [[Claude-Code]], [[Obsidian-PKB-Architecture]], [[Agent-Coordination-Patterns]]
 ---
 
 # 🤖 AI Agent Coordination System: Implementation Guide
@@ -1284,7 +1284,7 @@ Agent uses knowledge graph + semantic similarity
 
 ## Core Extensions
 
-### 1. **[[Agent Capability Development Framework]]**
+### 1. **[[Agent-Capability-Development-Framework]]**
 **Connection:** Guides creating specialized agents beyond basic coordinators  
 **Depth Potential:** Complete methodology for agent persona design, capability mapping, testing protocols  
 **Knowledge Graph Role:** Bridges agent architecture to practical implementation  

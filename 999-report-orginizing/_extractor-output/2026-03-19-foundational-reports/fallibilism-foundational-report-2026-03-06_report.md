@@ -479,7 +479,7 @@ extraction_summary:
 - [[intellectual openness]]
 - [[pedagogy]]
 - [[philosophy-of-science|philosophy of science]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -502,7 +502,7 @@ extraction_summary:
 | 13 | [[Socratic-Method|Socratic method]] | — | — | Historical Development | 314 |
 | 14 | [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] | — | — | Historical Development | 316 |
 | 15 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Historical Development | 318 |
-| 16 | [[pragmatism]] | — | — | Historical Development | 318 |
+| 16 | [[Pragmatism]] | — | — | Historical Development | 318 |
 | 17 | [[Karl-Popper|Karl Popper]] | — | — | Historical Development | 320 |
 | 18 | [[Falsificationism]] | — | — | Historical Development | 320 |
 | 19 | [[W.V.O.-Quine|W.V.O. Quine]] | — | — | Historical Development | 320 |
@@ -611,7 +611,7 @@ extraction_summary:
 - [[intellectual openness]]
 - [[pedagogy]]
 - [[philosophy-of-science|philosophy of science]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -627,7 +627,7 @@ extraction_summary:
 
 - [[Critical-Thinking|Critical Thinking]]
 - [[philosophy-of-science|Philosophy of Science]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Reliabilism]]
 - [[Contextualism — Epistemological]]

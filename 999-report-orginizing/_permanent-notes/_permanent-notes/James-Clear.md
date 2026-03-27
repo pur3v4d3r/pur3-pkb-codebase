@@ -5,7 +5,6 @@
 title: "James-Clear"
 aliases:
   - "James-Clear"
-  - "James Clear"
 type: permanent-note
 status: seedling
 confidence: low
@@ -24,28 +23,23 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 8
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Context-Regulation]]"
-  - "[[Motivational-Regulation]]"
-  - "[[Phase-vs.-Area-A-Critical-Distinction]]"
+  - "[[.permanent-notes-index]]"
   - "[[Phase-vs.-Area-—-A-Critical-Distinction]]"
-  - "[[Pintrich's-44-Matrix]]"
   - "[[Pintrich's-4×4-Matrix]]"
-  - "[[Regulatory-Reflexivity-Problem]]"
-  - "[[The-Regulatory-Reflexivity-Problem-A-Novel-Framing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -58,17 +52,12 @@ importance: low
 # James-Clear
 
 > [!definition] **James-Clear**
-> *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 8 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
-- [[Context-Regulation]]
-- [[Motivational-Regulation]]
-- [[Phase-vs.-Area-A-Critical-Distinction]]
+- [[.permanent-notes-index]]
 - [[Phase-vs.-Area-—-A-Critical-Distinction]]
-- [[Pintrich's-44-Matrix]]
 - [[Pintrich's-4×4-Matrix]]
-- [[Regulatory-Reflexivity-Problem]]
-- [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing]]

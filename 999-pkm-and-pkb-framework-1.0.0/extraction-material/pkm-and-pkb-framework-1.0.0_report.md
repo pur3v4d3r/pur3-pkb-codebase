@@ -1258,7 +1258,7 @@ extraction_summary:
 - [[Epistemic-Vigilance]]
 - [[Epistemic Virtue Development]]
 - [[Epistemic Virtues]]
-- [[Epistemology]]
+- [[epistemology]]
 - [[Evidence-Based Practice]]
 - [[Expertise Development]]
 - [[Extended-Thinking-Architecture]]
@@ -1337,7 +1337,7 @@ extraction_summary:
 - [[Personal-Knowledge-Management]]
 - [[Polanyi's Tacit Knowledge]]
 - [[Practical Reasoning in Real-World Contexts]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Pragmatist-Epistemology]]
 - [[Pragmatist-Truth]]
 - [[Pre-Mortem Analysis]]
@@ -1542,7 +1542,7 @@ extraction_summary:
 | 86 | [[Self-Regulation Cycles]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
 | 87 | [[Learning-Analytics]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
 | 88 | [[Iterative Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
-| 89 | [[Epistemology]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
+| 89 | [[epistemology]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
 | 90 | [[Pragmatist-Truth]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
 | 91 | [[Constructivist-Knowledge]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
 | 92 | [[Stoic Wisdom]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
@@ -1563,7 +1563,7 @@ extraction_summary:
 | 107 | [[Cognitive-Load-Theory]] | — | — | ═════════════════════════════════════... | 595 |
 | 108 | [[Schema-Theory]] | — | — | ═════════════════════════════════════... | 596 |
 | 109 | [[Self-Determination-Theory]] | — | — | ═════════════════════════════════════... | 597 |
-| 110 | [[pragmatism]] | — | — | ═════════════════════════════════════... | 598 |
+| 110 | [[Pragmatism]] | — | — | ═════════════════════════════════════... | 598 |
 | 111 | [[Stoic-Philosophy]] | — | — | ═════════════════════════════════════... | 599 |
 | 112 | [[Critical-Thinking]] | — | — | ═════════════════════════════════════... | 600 |
 | 113 | [[Knowledge Organization]] | — | — | ═════════════════════════════════════... | 601 |
@@ -1604,7 +1604,7 @@ extraction_summary:
 | 148 | [[Achievement-Goal-Theory]] | — | — | The Disciplinary Toolkit | 907 |
 | 149 | [[Transfer]] | — | — | The Disciplinary Toolkit | 907 |
 | 150 | [[Educational-Philosophy]] | — | — | The Disciplinary Toolkit | 908 |
-| 151 | [[pragmatism]] | — | — | The Disciplinary Toolkit | 908 |
+| 151 | [[Pragmatism]] | — | — | The Disciplinary Toolkit | 908 |
 | 152 | [[Constructivism]] | — | — | The Disciplinary Toolkit | 908 |
 | 153 | [[Critical Pedagogy]] | — | — | The Disciplinary Toolkit | 908 |
 | 154 | [[Instructional-Design]] | — | — | The Disciplinary Toolkit | 909 |
@@ -1734,7 +1734,7 @@ extraction_summary:
 | 278 | [[Self-Regulation Cycles]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
 | 279 | [[Learning-Analytics]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
 | 280 | [[Iterative Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
-| 281 | [[Epistemology]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
+| 281 | [[epistemology]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
 | 282 | [[Pragmatist-Truth]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
 | 283 | [[Constructivist-Knowledge]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
 | 284 | [[Stoic Wisdom]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
@@ -2955,7 +2955,7 @@ tags:
 - [[Epistemic-Vigilance]]
 - [[Epistemic Virtue Development]]
 - [[Epistemic Virtues]]
-- [[Epistemology]]
+- [[epistemology]]
 - [[Evidence-Based Practice]]
 - [[Expertise Development]]
 - [[Extended-Thinking-Architecture]]
@@ -3034,7 +3034,7 @@ tags:
 - [[Personal-Knowledge-Management]]
 - [[Polanyi's Tacit Knowledge]]
 - [[Practical Reasoning in Real-World Contexts]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Pragmatist-Epistemology]]
 - [[Pragmatist-Truth]]
 - [[Pre-Mortem Analysis]]

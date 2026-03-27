@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cognitive-load-theory-focused-analysis-2026-03-06"
-  - "cognitive-load-theory-focused-analysis-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
@@ -72,14 +73,6 @@ see-also:
   - "[[Worked-Example-Effect|worked example effect]]"
   - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
   - "[[Germane-Cognitive-Load|germane cognitive load]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Germane-Cognitive-Load|germane cognitive load]]"
-  - "[[Educational-Psychology|Educational Psychology]]"
-  - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[Worked-Example-Effect|worked example effect]]"
-  - "[[Expertise-Reversal-Effect|expertise reversal effect]]"
-  - "[[Working-Memory|working memory]]"
-  - "[[Schema-Theory|schema theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +83,7 @@ builds-on:
   - "[[Cognitive-Architecture-of-Learning|Cognitive Architecture of Learning]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learning-CTML-is-the-most-systema|Richard Mayer's Cognitive Theory of Multimedia Learning (CTML) is the most systematically developed ]]"
@@ -172,20 +165,6 @@ importance: high
 **Related concepts:**
 [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Germane-Cognitive-Load|germane cognitive load]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Educational-Psychology|Educational Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Worked-Example-Effect|worked example effect]] · [[Expertise-Reversal-Effect|expertise reversal effect]] · [[Germane-Cognitive-Load|germane cognitive load]] · [[Working-Memory|working memory]] · [[Schema-Theory|schema theory]] · [[cognitive-psychology|cognitive psychology]] · [[Educational-Psychology|Educational Psychology]] · [[Instructional-Design|Instructional design]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Working-Memory|working memory]]
 
-**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
-[[Germane-Cognitive-Load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[Worked-Example-Effect|worked example effect]] * [[Expertise-Reversal-Effect|expertise reversal effect]] * [[Schema-Theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[knowledge-schemas|knowledge schemas]] * [[Long-Term-Memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]] * [[Element-Interactivity|Element interactivity]] * [[Cognitive-Load|cognitive load]] * [[automation|automation]]
-
-**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
-- [[motor-learning|motor learning]]
-- [[skill-acquisition-research|skill acquisition research]]
-
-**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
-- [[motor-learning|motor learning]]
-- [[skill-acquisition-research|skill acquisition research]]
-
-
-
-
 ## References
 
 - **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The foundational paper establishing Cognitive Load Theory, introducing the key argument that means-ends analysis in problem-solving consumes working memory resources without producing schemas, and that worked examples offer an efficient alternative for novice learners. Essential for understanding CLT's original theoretical motivation and its grounding in working memory architecture research.
@@ -193,36 +172,6 @@ importance: high
 - **Kalyuga, S., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The canonical paper documenting and naming the expertise reversal effect, synthesizing earlier findings and providing a systematic CLT-based account of why instructional scaffolding that benefits novices becomes harmful for experts. The primary empirical reference for the expertise reversal effect and a foundational source for understanding CLT's dynamic, expertise-responsive prescriptions.
 - **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Baddeley's revision of the original working memory model to include the episodic buffer — a multimodal, capacity-limited component that integrates information across subsystems and with long-term memory. Important for CLT because it refines the cognitive architecture that CLT's prescriptions depend on, particularly for multimedia learning contexts where multiple information modalities are simultaneously active.
 - **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: The influential research demonstrating that the quality of learning from worked examples is mediated by learner self-explanation — active elaboration of solution steps produces significantly better transfer than passive reading of the same examples. Critical for understanding the boundary conditions of the worked example effect and for integrating CLT with research on active learning and metacognition.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The foundational paper establishing Cognitive Load Theory, introducing the key argument that means-ends analysis in problem-solving consumes working memory resources without producing schemas, and that worked examples offer an efficient alternative for novice learners. Essential for understanding CLT's original theoretical motivation and its grounding in working memory architecture research.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. G. W. C. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The paper that introduced the three-load framework (intrinsic, extraneous, germane) in its canonical form, extending CLT from its original worked example focus to a comprehensive instructional design theory. The primary reference for the germane load construct and the paper that both advanced CLT's scope and introduced the theoretical vulnerability that subsequent critics would exploit.
-
-- **Kalyuga, S., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The canonical paper documenting and naming the expertise reversal effect, synthesizing earlier findings and providing a systematic CLT-based account of why instructional scaffolding that benefits novices becomes harmful for experts. The primary empirical reference for the expertise reversal effect and a foundational source for understanding CLT's dynamic, expertise-responsive prescriptions.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Baddeley's revision of the original working memory model to include the episodic buffer — a multimodal, capacity-limited component that integrates information across subsystems and with long-term memory. Important for CLT because it refines the cognitive architecture that CLT's prescriptions depend on, particularly for multimedia learning contexts where multiple information modalities are simultaneously active.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: The influential research demonstrating that the quality of learning from worked examples is mediated by learner self-explanation — active elaboration of solution steps produces significantly better transfer than passive reading of the same examples. Critical for understanding the boundary conditions of the worked example effect and for integrating CLT with research on active learning and metacognition.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The foundational paper establishing Cognitive Load Theory, introducing the key argument that means-ends analysis in problem-solving consumes working memory resources without producing schemas, and that worked examples offer an efficient alternative for novice learners. Essential for understanding CLT's original theoretical motivation and its grounding in working memory architecture research.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. G. W. C. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The paper that introduced the three-load framework (intrinsic, extraneous, germane) in its canonical form, extending CLT from its original worked example focus to a comprehensive instructional design theory. The primary reference for the germane load construct and the paper that both advanced CLT's scope and introduced the theoretical vulnerability that subsequent critics would exploit.
-
-- **Kalyuga, S., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The canonical paper documenting and naming the expertise reversal effect, synthesizing earlier findings and providing a systematic CLT-based account of why instructional scaffolding that benefits novices becomes harmful for experts. The primary empirical reference for the expertise reversal effect and a foundational source for understanding CLT's dynamic, expertise-responsive prescriptions.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Baddeley's revision of the original working memory model to include the episodic buffer — a multimodal, capacity-limited component that integrates information across subsystems and with long-term memory. Important for CLT because it refines the cognitive architecture that CLT's prescriptions depend on, particularly for multimedia learning contexts where multiple information modalities are simultaneously active.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: The influential research demonstrating that the quality of learning from worked examples is mediated by learner self-explanation — active elaboration of solution steps produces significantly better transfer than passive reading of the same examples. Critical for understanding the boundary conditions of the worked example effect and for integrating CLT with research on active learning and metacognition.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

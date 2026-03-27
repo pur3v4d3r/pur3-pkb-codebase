@@ -74,7 +74,7 @@ aliases: [Task Capture System, QuickAdd Task Format, Obsidian Task Integration, 
 
 ## Executive Summary
 
-This system redesigns task capture for [[Obsidian]] [[Daily Notes]] to maximize interoperability across **Tasks plugin**, **Dataview**, **Day Planner**, and **QuickAdd**. The unified format supports both time-blocked and non-time-blocked tasks while maintaining queryability, minimizing user friction (2 prompts maximum), and preserving log integrity. Core philosophy: **metadata fields must serve multiple plugins synergistically without breaking existing workflows**.
+This system redesigns task capture for [[Obsidian]] [[Daily-Notes]] to maximize interoperability across **Tasks plugin**, **Dataview**, **Day Planner**, and **QuickAdd**. The unified format supports both time-blocked and non-time-blocked tasks while maintaining queryability, minimizing user friction (2 prompts maximum), and preserving log integrity. Core philosophy: **metadata fields must serve multiple plugins synergistically without breaking existing workflows**.
 
 **Key Improvements:**
 - Unified metadata schema queryable by all four plugins

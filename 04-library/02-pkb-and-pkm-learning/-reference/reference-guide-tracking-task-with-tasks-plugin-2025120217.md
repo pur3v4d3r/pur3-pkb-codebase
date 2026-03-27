@@ -221,7 +221,7 @@ LIMIT 15
 > - [[GTD (Getting Things Done)]]
 > - [[Project Management in Obsidian]]
 > - [[Dashboard-Design]]
-> - [[Inline Fields]]
+> - [[Inline-Fields]]
 > - [[JavaScript in Dataview]]
 > - [[Task Prioritization]]
 > - [[Date Management]]

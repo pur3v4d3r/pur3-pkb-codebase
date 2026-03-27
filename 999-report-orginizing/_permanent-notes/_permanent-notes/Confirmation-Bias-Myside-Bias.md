@@ -23,59 +23,53 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Actively-Open-Minded-Thinking]]"
+  - "[[.permanent-notes-index]]"
   - "[[Constructive-Threshold]]"
   - "[[Elaborative-Inference]]"
-  - "[[Fluency-Illusion]]"
   - "[[Generative-Cognition-Architecture]]"
   - "[[Hermeneutic-Circle]]"
   - "[[ICAP-Framework]]"
-  - "[[Levels-of-Processing]]"
   - "[[Matthew-Effect]]"
-  - "[[Metacognitive-Monitoring]]"
+  - "[[The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading]]"
+  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
 # Confirmation-Bias-Myside-Bias
 
 > [!definition] **Confirmation-Bias-Myside-Bias**
-> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
-- [[Actively-Open-Minded-Thinking]]
+- [[.permanent-notes-index]]
 - [[Constructive-Threshold]]
 - [[Elaborative-Inference]]
-- [[Fluency-Illusion]]
 - [[Generative-Cognition-Architecture]]
 - [[Hermeneutic-Circle]]
 - [[ICAP-Framework]]
-- [[Levels-of-Processing]]
 - [[Matthew-Effect]]
-- [[Metacognitive-Monitoring]]
-- [[Phonological-Loop]]
-- [[Situation-Model]]
 - [[The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

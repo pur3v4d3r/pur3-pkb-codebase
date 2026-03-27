@@ -1874,7 +1874,7 @@ prompting_techniques:
         
         related_concepts:
           - "[[Self-Consistency]]"
-          - "[[Constitutional AI]]"
+          - "[[Constitutional-AI]]"
           - "[[Iterative Refinement]]"
 
 ---

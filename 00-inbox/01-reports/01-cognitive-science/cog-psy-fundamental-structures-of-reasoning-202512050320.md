@@ -950,7 +950,7 @@ This developmental progression—from technical skill to character virtue—expl
 > 
 > **Logic and Argumentation**: Element analysis directly supports [[Argument-Analysis]], [[Premise-Conclusion-Structure]], [[Validity-and-Soundness]], and [[Informal-Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.
 > 
-> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified-True-Belief]], [[Sources-of-Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
+> **Epistemology**: The Information and Inference elements connect to [[epistemology]], [[Justified-True-Belief]], [[Sources-of-Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
 > 
 > **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring]], [[Self-Regulated-Learning]], and [[Reflective-Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 

@@ -31,7 +31,7 @@ connections:
   - [[Formative-Assessment]]
   - [[Achievement-Goal-Theory]]
   - [[Deliberate-Practice]]
-  - [[Metacognitive-Awareness]]
+  - [[metacognitive-awareness]]
   - [[Metacognitive-Regulation]]
   - [[Metacognitive-Calibration-Training]]
   - [[Attribution-Theory]]

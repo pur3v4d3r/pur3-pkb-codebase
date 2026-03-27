@@ -24,20 +24,21 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 43
+referenced-by-count: 44
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Aporia]]"
   - "[[Belonging-Uncertainty]]"
   - "[[CLT-as-a-Dynamic-Load-Optimization-Problem]]"
@@ -47,7 +48,6 @@ see-also:
   - "[[Confirmation-Bias]]"
   - "[[Corroboration]]"
   - "[[Defeasibility]]"
-  - "[[Defeat-Defeater]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,12 +60,13 @@ importance: high
 # cognitive-psychology
 
 > [!definition] **cognitive-psychology**
-> *Stub note — concept referenced by 43 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 43 permanent notes.*
+*Auto-generated stub — referenced by 44 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Aporia]]
 - [[Belonging-Uncertainty]]
 - [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
@@ -85,5 +86,4 @@ importance: high
 - [[Extraneous-Cognitive-Load]]
 - [[Fallibilism]]
 - [[Functional-Integration]]
-- [[Germane-Cognitive-Load]]
-- *...and 23 more permanent notes*
+- *...and 24 more permanent notes*

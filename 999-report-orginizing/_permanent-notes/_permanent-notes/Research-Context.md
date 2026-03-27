@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-technical-advanced-templater-note-templates-20251118225816"
-  - "reference-technical-advanced-templater-note-templates-20251118225816.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Obsidian]]"
@@ -71,28 +72,18 @@ see-also:
   - "[[Goals-MOC|Goals MOC]]"
   - "[[Concept-1|Concept 1]]"
   - "[[Concept-2|Concept 2]]"
-  - "[[Obsidian|obsidian]]"
-  - "[[Day-Planner|Day Planner]]"
-  - "[[Tasks-Plugin|Tasks Plugin]]"
-  - "[[Dataview|dataview]]"
-  - "[[Tracker-Plugin|Tracker Plugin]]"
-  - "[[Goals-MOC|Goals MOC]]"
-  - "[[Concept-1|Concept 1]]"
-  - "[[Concept-2|Concept 2]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -133,10 +124,6 @@ importance: medium
 
 **Related concepts:**
 [[Obsidian]] · [[Day-Planner|Day Planner]] · [[Tasks-Plugin|Tasks Plugin]] · [[Dataview]] · [[Tracker-Plugin|Tracker Plugin]] · [[Goals-MOC|Goals MOC]] · [[Concept-1|Concept 1]] · [[Concept-2|Concept 2]] · [[Learning-Log|Learning Log]] · [[Concept-1|Concept 1]] · [[Concept-2|Concept 2]] · [[Previous-Concept|Previous Concept]] · [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] · [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] · [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]]
-
-**Related concepts** *(from reference-technical-advanced-templater-note-templates-20251118225816.md)*:
-[[Day-Planner|Day Planner]] * [[Tasks-Plugin|Tasks Plugin]] * [[Tracker-Plugin|Tracker Plugin]] * [[Goals-MOC|Goals MOC]] * [[Concept-1|Concept 1]] * [[Concept-2|Concept 2]] * [[Learning-Log|Learning Log]] * [[Previous-Concept|Previous Concept]] * [[<%-tp.date.now("YYYY-MM-DD",--1,-tp.file.title,-"YYYY-MM-DD")-%>|<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] * [[<%-tp.date.now("YYYY-MM-DD",-1,-tp.file.title,-"YYYY-MM-DD")-%>|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] * [[<%-tp.date.now("YYYY-MM")-%>-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[productivity|productivity]] * [[<%-tp.date.now("YYYY-MM-DD",-1)-%>|<% tp.date.now("YYYY-MM-DD", 1) %>]] * [[<%-tp.date.now("YYYY-MM-DD",--1)-%>|<% tp.date.now("YYYY-MM-DD", -1) %>]]
-
 
 ## Methodology Notes
 

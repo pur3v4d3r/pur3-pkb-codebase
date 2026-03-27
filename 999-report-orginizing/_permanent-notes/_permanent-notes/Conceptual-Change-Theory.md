@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 12
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,8 +45,8 @@ see-also:
   - "[[Expository-Advance-Organizer]]"
   - "[[Expository-Organizer]]"
   - "[[Meaningful-Learning]]"
-  - "[[Mental-Model]]"
   - "[[Obliterative-Subsumption]]"
+  - "[[Prior-Knowledge]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: medium
 # Conceptual Change Theory
 
 > [!definition] **Conceptual Change Theory**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 12 permanent notes.*
 
 ## Referenced By
 
@@ -73,11 +73,7 @@ importance: medium
 - [[Expository-Advance-Organizer]]
 - [[Expository-Organizer]]
 - [[Meaningful-Learning]]
-- [[Mental-Model]]
 - [[Obliterative-Subsumption]]
 - [[Prior-Knowledge]]
-- [[Propositional-Representation]]
-- [[Schema]]
-- [[Situation-Model]]
 - [[Subsumer-Anchoring-Idea]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

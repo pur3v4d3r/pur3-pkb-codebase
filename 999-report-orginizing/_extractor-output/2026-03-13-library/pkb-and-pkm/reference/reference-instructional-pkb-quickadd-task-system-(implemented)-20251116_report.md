@@ -231,7 +231,7 @@ extraction_summary:
 - [[Attention Management]]
 - [[Calendar Blocking]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Data Analysis]]
 - [[Dataview Query Language (DQL) Mastery]]
@@ -255,7 +255,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Obsidian]] | — | — | Executive Summary | 77 |
-| 2 | [[Daily Notes]] | — | — | Executive Summary | 77 |
+| 2 | [[Daily-Notes|Daily Notes]] | — | — | Executive Summary | 77 |
 | 3 | [[2025-11-16]] | — | — | 1. Simple Task (No Time Block) | 402 |
 | 4 | [[2025-11-16]] | — | — | 2. Time-Blocked Task | 420 |
 | 5 | [[2025-11-16]] | — | — | 3. High-Priority Urgent Task | 438 |
@@ -918,7 +918,7 @@ dv.taskList(unscheduled.limit(5), false);
 - [[Attention Management]]
 - [[Calendar Blocking]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
-- [[Daily Notes]]
+- [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
 - [[Data Analysis]]
 - [[Dataview Query Language (DQL) Mastery]]

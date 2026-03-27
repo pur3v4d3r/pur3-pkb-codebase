@@ -147,7 +147,7 @@ extraction_summary:
 #### 4. [KEY-CLAIM] Untitled *(Line 28)*
 
 > [!key-claim] Untitled
-> Claude Code did not emerge in a vacuum. It is the convergence of at least three independent research and engineering lineages: the [[ReAct Framework]] for interleaved reasoning and action in language models (Yao et al., 2022), the [[Agentic Coding]] research tradition pioneered by SWE-bench and related benchmarks, and Anthropic's own [[Constitutional AI]] work that makes it possible to deploy autonomous agents with sufficient reliability for production use. Understanding these lineages illuminates why the system behaves as it does and where its strengths and limitations originate.
+> Claude Code did not emerge in a vacuum. It is the convergence of at least three independent research and engineering lineages: the [[ReAct Framework]] for interleaved reasoning and action in language models (Yao et al., 2022), the [[Agentic Coding]] research tradition pioneered by SWE-bench and related benchmarks, and Anthropic's own [[Constitutional-AI|Constitutional AI]] work that makes it possible to deploy autonomous agents with sufficient reliability for production use. Understanding these lineages illuminates why the system behaves as it does and where its strengths and limitations originate.
 
 #### 5. [QUOTE] Untitled *(Line 39)*
 
@@ -325,7 +325,7 @@ extraction_summary:
 - [[CLAUDE.md as Institutional Knowledge Architecture]]
 - [[Chain of Verification]]
 - [[Claude-Code|Claude Code]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Cost Architecture for Claude Code Report Automation at Scale]]
 - [[Data Mesh]]
 - [[Data Pipeline]]
@@ -368,7 +368,7 @@ extraction_summary:
 | 11 | [[Knowledge-Management|Knowledge Management]] | — | — | 🎼 Phase 1: Introduction & Context | 22 |
 | 12 | [[ReAct Framework]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
 | 13 | [[Agentic Coding]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
-| 14 | [[Constitutional AI]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
+| 14 | [[Constitutional-AI|Constitutional AI]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
 | 15 | [[Reasoning-Action Loop]] | — | — | 📜 Phase 2: Historical Foundations | 31 |
 | 16 | [[Model-Context-Protocol|Model Context Protocol (MCP)]] | — | — | 📜 Phase 2: Historical Foundations | 37 |
 | 17 | [[Business Intelligence (BI)]] | — | — | 📜 Phase 2: Historical Foundations | 42 |
@@ -490,7 +490,7 @@ Export to /reports/weekly/$(date +%Y-W%V).html
 - [[CLAUDE.md as Institutional Knowledge Architecture]]
 - [[Chain of Verification]]
 - [[Claude-Code|Claude Code]]
-- [[Constitutional AI]]
+- [[Constitutional-AI|Constitutional AI]]
 - [[Cost Architecture for Claude Code Report Automation at Scale]]
 - [[Data Mesh]]
 - [[Data Pipeline]]

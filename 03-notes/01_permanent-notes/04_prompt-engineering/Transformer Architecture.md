@@ -34,7 +34,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Transformer Architecture]]
+> - **Key-Term**:: [[Transformer-Architecture]]
 > - [**Definition**:: A novel neural network architecture introduced in 2017 that relies entirely on self-attention mechanisms to process sequential data, replacing the recurrent and convolutional layers previously dominant in sequence modeling tasks like machine translation and text generation.]
 
 

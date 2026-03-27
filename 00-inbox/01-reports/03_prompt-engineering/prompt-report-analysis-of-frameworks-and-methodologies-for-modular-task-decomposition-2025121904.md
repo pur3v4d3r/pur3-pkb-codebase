@@ -573,7 +573,7 @@ The synthesis of cognitive-theoretical foundations with practical methodological
 * *Depth Potential:** Examining papers like "Attention Is All You Need" (Vaswani et al., 2017) alongside cognitive science literature on attention and working memory could reveal precisely *why* certain decomposition strategies work, mechanistically explaining the performance improvements rather than simply documenting them.
 * *Knowledge Graph Role:** Bridge between neuroscience/cognitive psychology and machine learning systems architecture, creating bidirectional enrichment between understanding biological intelligence and engineering artificial systems.
 * *Priority:** High - Understanding the *why* beneath the *what* is essential for principled prompt engineering rather than cargo-cult pattern application.
-* *Prerequisites:** [[Transformer Architecture]], [[Self-Attention Mechanisms]], [[Working Memory Models]]
+* *Prerequisites:** [[Transformer-Architecture]], [[Self-Attention Mechanisms]], [[Working Memory Models]]
 
 ### 2. **[[Error Propagation and Cascading Failure Modes in Sequential Prompt Systems]]**
 * *Connection:** While this document emphasizes the *benefits* of decomposition, it touches only lightly on potential failure modes---particularly how errors in early sub-tasks can propagate and amplify through downstream modules. A comprehensive analysis of failure modes, mitigation strategies, and quality assurance protocols is critical for production deployment.

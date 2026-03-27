@@ -239,7 +239,7 @@ The alternative architecture is the **networked** or **graph-based** model. This
 
 > [!analogy]
 >
-> A networked system is a **roundtable discussion**. Every "note" is a "person" (an expert on one topic). You can "tap" any note on the shoulder and ask, "Who else in this room do you know?" The note `[[Free Will]]` will point you to `[[Quantum Mechanics]]` and `[[Consciousness]]`. You are not a librarian; you are a *facilitator of a conversation* between your own ideas.
+> A networked system is a **roundtable discussion**. Every "note" is a "person" (an expert on one topic). You can "tap" any note on the shoulder and ask, "Who else in this room do you know?" The note `[[Free Will]]` will point you to `[[Quantum Mechanics]]` and `[[consciousness]]`. You are not a librarian; you are a *facilitator of a conversation* between your own ideas.
 
 ### 4.3 CORE MECHANISMS OF A CONSTRUCTIVIST PKM
 

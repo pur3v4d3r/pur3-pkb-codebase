@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "basic-psychological-needs-theory-focused-analysis-2026-03-13"
-  - "basic-psychological-needs-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Autonomy]]"
   - "[[Competence]]"
   - "[[Relatedness]]"
-  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Edward-Deci|Edward Deci]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Autonomy|autonomy]]"
-  - "[[Competence|competence]]"
-  - "[[Relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -88,7 +81,7 @@ builds-on:
   - "[[Organismic-Meta-Theory|Organismic Meta-Theory]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[A-focused-analysis-of-Reeve's-autonomy-supportive-teaching-framework-the-specifi|A focused analysis of Reeve's autonomy-supportive teaching framework: the specific behavioral repert]]"
@@ -166,14 +159,6 @@ importance: high
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]]
 
-**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Self-Efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
-- [[Attachment-Theory|Attachment Theory]]
-
-
-
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
@@ -181,21 +166,6 @@ importance: high
 - **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
 - **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
 - **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
-
-- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
-
-- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
-
-- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
-
-- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
-
-
-
-
-
 
 ## Methodology Notes
 

@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11"
-  - "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Working-Memory|Working Memory]]"
@@ -72,14 +73,6 @@ see-also:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Hermann-Ebbinghaus|Hermann Ebbinghaus]]"
   - "[[Forgetting-Curve|Forgetting Curve]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Long-Term-Memory|Long-Term Memory]]"
-  - "[[Hermann-Ebbinghaus|Hermann Ebbinghaus]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]"
-  - "[[Schema-Theory|Schema Theory]]"
-  - "[[Forgetting-Curve|Forgetting Curve]]"
-  - "[[Savings-in-Relearning|Savings in Relearning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -89,7 +82,7 @@ builds-on:
   - "[[Perception-and-Pattern-Recognition|Perception and Pattern Recognition]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Cognitive-Load-Theory-Priority-High.-This-is-the-most-direct-applica|> [!topic-idea] [[Cognitive-Load-Theory]]
@@ -160,26 +153,6 @@ importance: high
 **Related concepts:**
 [[Working-Memory|Working Memory]] · [[Long-Term-Memory|Long-Term Memory]] · [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] · [[Schema-Theory|Schema Theory]] · [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] · [[Forgetting-Curve|Forgetting Curve]] · [[Savings-in-Relearning|Savings in Relearning]] · [[George-Miller|George Miller]] · [[Richard-Atkinson|Richard Atkinson]] · [[Richard-Shiffrin|Richard Shiffrin]] · [[Iconic-Memory|Iconic Memory]] · [[Echoic-Memory|Echoic Memory]] · [[Working-Memory|Working Memory]]
 
-**Related concepts** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
-[[Long-Term-Memory|Long-Term Memory]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]] * [[Schema-Theory|Schema Theory]] * [[Forgetting-Curve|Forgetting Curve]] * [[Savings-in-Relearning|Savings in Relearning]] * [[George-Miller|George Miller]] * [[Richard-Atkinson|Richard Atkinson]] * [[Richard-Shiffrin|Richard Shiffrin]] * [[Iconic-Memory|Iconic Memory]] * [[Echoic-Memory|Echoic Memory]] * [[Alan-Baddeley|Alan Baddeley]] * [[Graham-Hitch|Graham Hitch]] * [[Phonological-Loop|Phonological Loop]]
-
-**Cross-report connections** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md)*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-
-
-
 ## References
 
 - **Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.**: The foundational multi-store model paper. Introduced the sensory register, short-term store, and long-term store as a unified architecture, along with the concept of control processes (rehearsal, coding strategies) that modulate transfer between stores. Essential background for understanding what Baddeley & Hitch were responding to. Dated in its specifics but historically indispensable; still the clearest articulation of the case for structurally distinct memory stores.
@@ -187,36 +160,6 @@ importance: high
 - **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.**: Introduces the episodic buffer as a fourth component of the working memory model, addressing the original three-component model's difficulty explaining how information from different systems and from long-term memory is integrated into multimodal representations. Concise and accessible. Also important as a record of how the model was updated in response to anomalies — a useful example of theory revision in cognitive psychology.
 - **Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.**: One of the most cited papers in psychology. Established the ~7-item capacity limit of short-term memory, introduced the concept of chunking as the mechanism explaining how the limit applies to meaningful units rather than raw information, and demonstrated the value of information-theoretic analysis for cognitive psychology. The "magic number" has been revised downward in subsequent research (particularly by Cowan, who argues for ~4 as the capacity of the attentional focus), but the paper remains definitively influential.
 - **Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W. Donaldson (Eds.), *Organization of Memory* (pp. 381–403). Academic Press.**: The first systematic articulation of the episodic/semantic distinction within long-term memory. Tulving argued that episodic memory is temporally oriented and personally experienced, while semantic memory is a cognitive map of the world stripped of episodic context. The distinction has generated substantial subsequent debate (particularly about whether the two are neurologically independent), but the conceptual framework remains foundational for the entire multiple memory systems approach.
-
-- **Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.**: The foundational multi-store model paper. Introduced the sensory register, short-term store, and long-term store as a unified architecture, along with the concept of control processes (rehearsal, coding strategies) that modulate transfer between stores. Essential background for understanding what Baddeley & Hitch were responding to. Dated in its specifics but historically indispensable; still the clearest articulation of the case for structurally distinct memory stores.
-
-- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. A. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47–89). Academic Press.**: The paper introducing the working memory model. Presented dual-task evidence undermining the unitary STM construct and proposed the phonological loop, visuospatial sketchpad, and central executive as the three-component working memory system. The most influential single paper in the history of short-term memory research. Readers interested in the empirical methodology underlying the model (particularly the dual-task paradigm) should read this alongside Baddeley's 2000 update below.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.**: Introduces the episodic buffer as a fourth component of the working memory model, addressing the original three-component model's difficulty explaining how information from different systems and from long-term memory is integrated into multimodal representations. Concise and accessible. Also important as a record of how the model was updated in response to anomalies — a useful example of theory revision in cognitive psychology.
-
-- **Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.**: One of the most cited papers in psychology. Established the ~7-item capacity limit of short-term memory, introduced the concept of chunking as the mechanism explaining how the limit applies to meaningful units rather than raw information, and demonstrated the value of information-theoretic analysis for cognitive psychology. The "magic number" has been revised downward in subsequent research (particularly by Cowan, who argues for ~4 as the capacity of the attentional focus), but the paper remains definitively influential.
-
-- **Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W. Donaldson (Eds.), *Organization of Memory* (pp. 381–403). Academic Press.**: The first systematic articulation of the episodic/semantic distinction within long-term memory. Tulving argued that episodic memory is temporally oriented and personally experienced, while semantic memory is a cognitive map of the world stripped of episodic context. The distinction has generated substantial subsequent debate (particularly about whether the two are neurologically independent), but the conceptual framework remains foundational for the entire multiple memory systems approach.
-
-- **Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.**: The foundational multi-store model paper. Introduced the sensory register, short-term store, and long-term store as a unified architecture, along with the concept of control processes (rehearsal, coding strategies) that modulate transfer between stores. Essential background for understanding what Baddeley & Hitch were responding to. Dated in its specifics but historically indispensable; still the clearest articulation of the case for structurally distinct memory stores.
-
-- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. A. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47–89). Academic Press.**: The paper introducing the working memory model. Presented dual-task evidence undermining the unitary STM construct and proposed the phonological loop, visuospatial sketchpad, and central executive as the three-component working memory system. The most influential single paper in the history of short-term memory research. Readers interested in the empirical methodology underlying the model (particularly the dual-task paradigm) should read this alongside Baddeley's 2000 update below.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.**: Introduces the episodic buffer as a fourth component of the working memory model, addressing the original three-component model's difficulty explaining how information from different systems and from long-term memory is integrated into multimodal representations. Concise and accessible. Also important as a record of how the model was updated in response to anomalies — a useful example of theory revision in cognitive psychology.
-
-- **Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.**: One of the most cited papers in psychology. Established the ~7-item capacity limit of short-term memory, introduced the concept of chunking as the mechanism explaining how the limit applies to meaningful units rather than raw information, and demonstrated the value of information-theoretic analysis for cognitive psychology. The "magic number" has been revised downward in subsequent research (particularly by Cowan, who argues for ~4 as the capacity of the attentional focus), but the paper remains definitively influential.
-
-- **Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W. Donaldson (Eds.), *Organization of Memory* (pp. 381–403). Academic Press.**: The first systematic articulation of the episodic/semantic distinction within long-term memory. Tulving argued that episodic memory is temporally oriented and personally experienced, while semantic memory is a cognitive map of the world stripped of episodic context. The distinction has generated substantial subsequent debate (particularly about whether the two are neurologically independent), but the conceptual framework remains foundational for the entire multiple memory systems approach.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

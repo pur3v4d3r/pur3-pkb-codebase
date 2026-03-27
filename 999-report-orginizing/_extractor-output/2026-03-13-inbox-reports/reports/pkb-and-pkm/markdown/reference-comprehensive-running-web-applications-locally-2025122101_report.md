@@ -505,7 +505,7 @@ extraction_summary:
 - [[Python]]
 - [[REST API]]
 - [[Rails]]
-- [[React]]
+- [[ReAct]]
 - [[Redis]]
 - [[Running Web Applications Locally: Comprehensive Implementation Guide]]
 - [[Server-Sent Events (SSE)]]
@@ -527,7 +527,7 @@ extraction_summary:
 | 1 | [[**Running Web Applications Locally: Comprehensive Implementation Guide**]] | — | — | Foundational Understanding | 101 |
 | 2 | [[Docker]] | — | — | Foundational Understanding | 116 |
 | 3 | [[Node.js]] | — | — | Foundational Understanding | 116 |
-| 4 | [[React]] | — | — | Foundational Understanding | 116 |
+| 4 | [[ReAct]] | — | — | Foundational Understanding | 116 |
 | 5 | [[Flask]] | — | — | Foundational Understanding | 116 |
 | 6 | [[DevOps]] | — | — | Foundational Understanding | 116 |
 | 7 | [[Full-Stack Development]] | — | — | Foundational Understanding | 116 |
@@ -540,7 +540,7 @@ extraction_summary:
 | 14 | [[Rails]] | — | — | Architecture Patterns for Local Hosting | 184 |
 | 15 | [[Full-Stack Development]] | — | — | Architecture Patterns for Local Hosting | 185 |
 | 16 | [[Microservices]] | — | — | Architecture Patterns for Local Hosting | 185 |
-| 17 | [[React]] | — | — | Architecture Patterns for Local Hosting | 185 |
+| 17 | [[ReAct]] | — | — | Architecture Patterns for Local Hosting | 185 |
 | 18 | [[Flask]] | — | — | Architecture Patterns for Local Hosting | 185 |
 | 19 | [[Docker Compose]] | — | — | Architecture Patterns for Local Hosting | 186 |
 | 20 | [[Docker]] | — | — | Architecture Patterns for Local Hosting | 186 |
@@ -564,7 +564,7 @@ extraction_summary:
 | 38 | [[Next.js]] | — | — | Hot Module Replacement (HMR) | 1209 |
 | 39 | [[Flask]] | — | — | Hot Module Replacement (HMR) | 1210 |
 | 40 | [[Django]] | — | — | Hot Module Replacement (HMR) | 1211 |
-| 41 | [[React]] | — | — | Understanding Ports | 1289 |
+| 41 | [[ReAct]] | — | — | Understanding Ports | 1289 |
 | 42 | [[Next.js]] | — | — | Understanding Ports | 1289 |
 | 43 | [[Vue.js]] | — | — | Understanding Ports | 1289 |
 | 44 | [[Vite]] | — | — | Understanding Ports | 1290 |
@@ -1944,7 +1944,7 @@ description includes Review
 | Pattern | Description | Use Case | Examples |
 | --- | --- | --- | --- |
 | **Monolithic Dev Server** | Single process serves both frontend and backend | Small apps, rapid prototyping | [[Django]] runserver, [[Rails]] server |
-| **Multi-Process Architecture** | Separate frontend dev server + backend API server | [[Full-Stack Development]], [[Microservices]] | [[React]] (port 3000) + [[Flask]] (port 5000) |
+| **Multi-Process Architecture** | Separate frontend dev server + backend API server | [[Full-Stack Development]], [[Microservices]] | [[ReAct]] (port 3000) + [[Flask]] (port 5000) |
 | **Containerized Services** | [[Docker Compose]] orchestrates multiple containers | Complex architectures, team consistency | [[Docker]]-based [[Microservices]] stacks |
 
 ### Table 2 *(Line 247, 5 rows)*
@@ -1983,7 +1983,7 @@ description includes Review
 
 | Port | Service | Framework |
 | --- | --- | --- |
-| 3000 | Frontend Dev Server | [[React]], [[Next.js]], [[Vue.js]] |
+| 3000 | Frontend Dev Server | [[ReAct]], [[Next.js]], [[Vue.js]] |
 | 5173 | Vite Dev Server | [[Vite]] |
 | 5000 | Backend API | [[Flask]] |
 | 8000 | Backend API/Admin | [[Django]], [[FastAPI]] |
@@ -2189,7 +2189,7 @@ description includes Review
 - [[Python]]
 - [[REST API]]
 - [[Rails]]
-- [[React]]
+- [[ReAct]]
 - [[Redis]]
 - [[Running Web Applications Locally: Comprehensive Implementation Guide]]
 - [[Server-Sent Events (SSE)]]

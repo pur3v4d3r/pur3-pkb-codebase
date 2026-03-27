@@ -35,8 +35,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,9 +44,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "sdt-srl-comparative-synthesis-2026-03-19"
-  - "sdt-srl-comparative-synthesis-2026-03-19.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -58,16 +59,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -78,23 +79,15 @@ see-also:
   - "[[Paul-Pintrich]]"
   - "[[Forethought-Phase]]"
   - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Edward-Deci|Edward-Deci]]"
-  - "[[Richard-Ryan|Richard-Ryan]]"
-  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
-  - "[[Barry-Zimmerman|Barry-Zimmerman]]"
-  - "[[Paul-Pintrich|Paul-Pintrich]]"
-  - "[[Forethought-Phase|Forethought-Phase]]"
-  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-The-Fourfold-Motivational-Architecture-for-PKB-DesignThe-Fourfold-Mo|> [!topic-idea] [[The-Fourfold-Motivational-Architecture-for-PKB-Design|The Fourfold Motivational Ar]]"
@@ -165,14 +158,6 @@ importance: high
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[Barry-Zimmerman]] · [[Paul-Pintrich]] · [[Forethought-Phase]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Self-Reflection-Phase]] · [[Autonomous-Motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Internalization]] · [[Autonomy]] · [[Zimmerman-SRL-Model]]
 
-**Related concepts** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Pintrich's-Motivational-Integration|Pintrich's-Motivational-Integration]] * [[Basic-Psychological-Needs|Basic-Psychological-Needs]] * [[Autonomy-Need|Autonomy-Need]] * [[Competence-Need|Competence-Need]] * [[Relatedness-Need|Relatedness-Need]] * [[Cognitive-Evaluation-Theory|Cognitive-Evaluation-Theory]] * [[Organismic-Integration-Theory|Organismic-Integration-Theory]] * [[Internalization-Continuum|Internalization-Continuum]] * [[External-Regulation|External-Regulation]] * [[Introjected-Regulation|Introjected-Regulation]] * [[Identified-Regulation|Identified-Regulation]]
-
-**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
-- [[Motivational-Interviewing|Motivational-Interviewing]]
-
-
-
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
@@ -180,21 +165,6 @@ importance: high
 - **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
 - **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
 - **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
-
-- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
-
-- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
-
-
-
-
-
 
 ## Methodology Notes
 

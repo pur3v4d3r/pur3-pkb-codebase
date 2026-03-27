@@ -1158,7 +1158,7 @@ extraction_summary:
 - [[Lifelong-learning|Lifelong Learning]]
 - [[Logical Analysis]]
 - [[Logical Fallacies]]
-- [[Logical Reasoning]]
+- [[Logical-Reasoning|Logical Reasoning]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Making Decisions]]
 - [[Metacognition]]
@@ -1311,7 +1311,7 @@ extraction_summary:
 | 78 | [[Personal Knowledge Bases]] | — | — | Aspect 1.3: Organizing Information | 441 |
 | 79 | [[Capture, Process, Connect]] | — | — | Aspect 1.3: Organizing Information | 441 |
 | 80 | [[Zettelkasten]] | — | — | Aspect 1.3: Organizing Information | 441 |
-| 81 | [[Logical Reasoning]] | — | — | Foundational Concepts | 452 |
+| 81 | [[Logical-Reasoning|Logical Reasoning]] | — | — | Foundational Concepts | 452 |
 | 82 | [[Argument-Analysis|Argument Analysis]] | — | — | Foundational Concepts | 452 |
 | 83 | [[Evidence-Based Reasoning]] | — | — | Foundational Concepts | 452 |
 | 84 | [[Informal Logic]] | — | — | Foundational Concepts | 454 |
@@ -1857,7 +1857,7 @@ graph TD
 - [[Lifelong-learning|Lifelong Learning]]
 - [[Logical Analysis]]
 - [[Logical Fallacies]]
-- [[Logical Reasoning]]
+- [[Logical-Reasoning|Logical Reasoning]]
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Making Decisions]]
 - [[Metacognition]]

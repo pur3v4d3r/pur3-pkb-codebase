@@ -430,7 +430,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 > [!hub-moc]
 > **Connection to Broader Knowledge**
 >
->   - **Parent Topic**: [[Cognitive-Science]], [[Psychology]], [[Behavioral Economics]]
+>   - **Parent Topic**: [[Cognitive-Science]], [[psychology]], [[Behavioral Economics]]
 >   - **Sibling Topics**: [[Logical Fallacies]], [[Mental-Models]], [[heuristics]]
 >   - **Child Topics**: [[Confirmation-Bias]], [[Anchoring]], [[Loss Aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability-Heuristic]], [[Sunk Cost Fallacy]]
 

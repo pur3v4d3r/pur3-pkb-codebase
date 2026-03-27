@@ -24,24 +24,24 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 33
+referenced-by-count: 32
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Attribution-Style]]"
-  - "[[Autonomy-Need]]"
+  - "[[.permanent-notes-index]]"
+  - "[[Autonomous-Motivation]]"
   - "[[Context-Regulation]]"
-  - "[[Extrinsic-Motivation]]"
+  - "[[Controlled-Motivation]]"
   - "[[Flavell's-Metacognitive-Framework]]"
   - "[[Forethought-Phase]]"
   - "[[Identified-Regulation-vs.-Integrated-Regulation]]"
@@ -60,23 +60,22 @@ importance: high
 # Paul-Pintrich
 
 > [!definition] **Paul-Pintrich**
-> *Stub note — concept referenced by 33 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 32 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 33 permanent notes.*
+*Auto-generated stub — referenced by 32 permanent notes.*
 
 ## Referenced By
 
-- [[Attribution-Style]]
-- [[Autonomy-Need]]
+- [[.permanent-notes-index]]
+- [[Autonomous-Motivation]]
 - [[Context-Regulation]]
-- [[Extrinsic-Motivation]]
+- [[Controlled-Motivation]]
 - [[Flavell's-Metacognitive-Framework]]
 - [[Forethought-Phase]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
 - [[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]
 - [[MSLQ]]
 - [[Metacognitive-Experience]]
-- [[Metacognitive-Feelings]]
 - [[Metacognitive-Monitoring]]
 - [[Monitoring-Control-Coupling]]
 - [[Motivational-Regulation]]
@@ -86,4 +85,5 @@ importance: high
 - [[Pintrich's-Integrative-SRL-Framework]]
 - [[Pintrich's-Motivational-Integration]]
 - [[Recursive-Self-Authorship]]
-- *...and 13 more permanent notes*
+- [[Regulatory-Overhead]]
+- *...and 12 more permanent notes*

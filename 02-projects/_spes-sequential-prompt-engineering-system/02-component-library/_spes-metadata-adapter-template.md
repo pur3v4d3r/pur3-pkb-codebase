@@ -187,7 +187,7 @@ component-category: instruction
 atomic-type: instruction
 
 # Intelligence Layer
-concepts:: [[System Prompt]], [[Identity Frame]], [[Constitutional AI]], [[ReAct Framework]], [[Chain-of-Density]], [[Knowledge Graph Building]], [[Instructional-Design]]
+concepts:: [[System Prompt]], [[Identity Frame]], [[Constitutional-AI]], [[ReAct Framework]], [[Chain-of-Density]], [[Knowledge Graph Building]], [[Instructional-Design]]
 use-cases::
   - Comprehensive reference note generation for PKB
   - Technical documentation with proper Obsidian formatting

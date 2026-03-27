@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 30
+referenced-by-count: 29
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Accommodation]]"
   - "[[Accretion,-Tuning,-Restructuring]]"
   - "[[Conceptual-Change]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Cultural-Neutrality-Assumption]]"
   - "[[Embodied-Cognition]]"
   - "[[Equilibration]]"
-  - "[[Expert-Blind-Spot]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Rumelhart
 
 > [!definition] **Rumelhart**
-> *Stub note — concept referenced by 30 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 29 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 30 permanent notes.*
+*Auto-generated stub — referenced by 29 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Accommodation]]
 - [[Accretion,-Tuning,-Restructuring]]
 - [[Conceptual-Change]]
@@ -76,13 +77,12 @@ importance: high
 - [[Equilibration]]
 - [[Expert-Blind-Spot]]
 - [[Frederic-Bartlett]]
-- [[Productive-Failure]]
 - [[Reconstructive-Memory]]
 - [[Restructuring]]
-- [[Schema]]
 - [[Schema-Attractor]]
 - [[Schema-Construction]]
 - [[Schema-Crystallization-Event]]
 - [[Schemas-as-Soft-Cognitive-Attractors]]
 - [[Situated-Cognition]]
-- *...and 10 more permanent notes*
+- [[Slot-Default-Value]]
+- *...and 9 more permanent notes*

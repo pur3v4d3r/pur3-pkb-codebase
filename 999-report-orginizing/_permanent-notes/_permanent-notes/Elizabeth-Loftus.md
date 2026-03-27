@@ -23,15 +23,15 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 18
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Encoding-Specificity-Principle]]"
   - "[[Episodic-Buffer]]"
   - "[[Episodic-Memory]]"
-  - "[[Long-Term-Memory]]"
   - "[[Memory-Consolidation]]"
   - "[[Non-Declarative-Memory]]"
   - "[[Phonological-Loop]]"
+  - "[[Retrieval-Practice-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: medium
 # Elizabeth Loftus
 
 > [!definition] **Elizabeth Loftus**
-> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 18 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
@@ -71,7 +71,6 @@ importance: medium
 - [[Encoding-Specificity-Principle]]
 - [[Episodic-Buffer]]
 - [[Episodic-Memory]]
-- [[Long-Term-Memory]]
 - [[Memory-Consolidation]]
 - [[Non-Declarative-Memory]]
 - [[Phonological-Loop]]
@@ -82,4 +81,3 @@ importance: medium
 - [[Synaptic-Consolidation]]
 - [[Systems-Consolidation]]
 - [[Visuospatial-Sketchpad]]
-- [[Working-Memory]]

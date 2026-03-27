@@ -172,7 +172,7 @@ extraction_summary:
 #### 5. [CROSS-DOMAIN-CONNECTION] Situated Cognition Meets Deweyan Pragmatism *(Line 162)*
 
 > [!cross-domain-connection] Situated Cognition Meets Deweyan Pragmatism
-> The situated cognition framework and John Dewey's [[pragmatism]] are structurally identical at a deep level, though they arrived at their shared conclusion through very different routes. Dewey's pragmatic maxim — that the meaning of a concept is exhausted by its possible practical consequences — implies that knowledge is inherently action-oriented: to know something is to know what it enables you to do, not merely to possess a verbal or symbolic formulation. Lave and Wenger arrived at a closely parallel position through anthropological fieldwork rather than philosophical argument: they observed that genuine knowing is constituted in and through practice. Both traditions converge on a claim that standard PKM practice violates: that knowledge divorced from its action contexts is, in an important sense, not yet fully knowledge. This convergence is not coincidental. It suggests that the transfer problem is a structural feature of treating knowledge as an object that can be stored independently of the contexts that give it meaning and deployability.
+> The situated cognition framework and John Dewey's [[Pragmatism]] are structurally identical at a deep level, though they arrived at their shared conclusion through very different routes. Dewey's pragmatic maxim — that the meaning of a concept is exhausted by its possible practical consequences — implies that knowledge is inherently action-oriented: to know something is to know what it enables you to do, not merely to possess a verbal or symbolic formulation. Lave and Wenger arrived at a closely parallel position through anthropological fieldwork rather than philosophical argument: they observed that genuine knowing is constituted in and through practice. Both traditions converge on a claim that standard PKM practice violates: that knowledge divorced from its action contexts is, in an important sense, not yet fully knowledge. This convergence is not coincidental. It suggests that the transfer problem is a structural feature of treating knowledge as an object that can be stored independently of the contexts that give it meaning and deployability.
 
 #### 6. [DEFINITION] Encoding Specificity Principle (Cognitive Psychology; Tulving & Thomson 1973) *(Line 169)*
 
@@ -529,7 +529,7 @@ extraction_summary:
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
 - [[Productive-Failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
@@ -578,7 +578,7 @@ extraction_summary:
 | 8 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 9 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 10 | [[Dewey]] | — | — | The Most Expensive Failure in Persona... | 124 |
-| 11 | [[pragmatism]] | — | — | The Most Expensive Failure in Persona... | 124 |
+| 11 | [[Pragmatism]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 12 | [[Educational-Philosophy|Educational Philosophy]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 13 | [[Report 03: Constructing Understanding]] | — | — | The Most Expensive Failure in Persona... | 130 |
 | 14 | [[Report 06: The Science of Remembering]] | — | — | The Most Expensive Failure in Persona... | 130 |
@@ -599,7 +599,7 @@ extraction_summary:
 | 29 | [[John Seely Brown]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 30 | [[Allan-Collins|Allan Collins]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 31 | [[Paul Duguid]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
-| 32 | [[pragmatism]] | — | — | Situated Cognition: Knowledge Is Neve... | 163 |
+| 32 | [[Pragmatism]] | — | — | Situated Cognition: Knowledge Is Neve... | 163 |
 | 33 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Encoding Specificity and Encoding Var... | 167 |
 | 34 | [[Encoding-Variability|Encoding Variability]] | — | — | Encoding Specificity and Encoding Var... | 167 |
 | 35 | [[Endel Tulving]] | — | — | Encoding Specificity and Encoding Var... | 172 |
@@ -629,7 +629,7 @@ extraction_summary:
 | 59 | [[Expected Value Theory]] | — | — | The Productive Failure Mechanism | 266 |
 | 60 | [[Mimetic Desire]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
 | 61 | [[Social Proof]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
-| 62 | [[pragmatism]] | — | — | The Pragmatist Account of What Must C... | 283 |
+| 62 | [[Pragmatism]] | — | — | The Pragmatist Account of What Must C... | 283 |
 | 63 | [[Nash-Equilibria|Nash Equilibria]] | — | — | Design Principle 2: Structural Linkin... | 309 |
 | 64 | [[Nash-Equilibria|Nash Equilibria]] | — | — | Design Principle 2: Structural Linkin... | 309 |
 | 65 | [[Encoding-Variability|Encoding Variability]] | — | — | Design Principle 3: Multiple Context ... | 313 |
@@ -729,7 +729,7 @@ extraction_summary:
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
 - [[Productive-Failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]

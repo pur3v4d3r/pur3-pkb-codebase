@@ -14,7 +14,7 @@ link-related:
   - "[[Anthropic]]"
   - "[[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]"
   - "[[Claude Project]]"
-  - "[[Constitutional Ai]]"
+  - "[[Constitutional-AI]]"
   - "[[Generative Ai]]"
   - "[[Instruction Following]]"
 maturity: seedling

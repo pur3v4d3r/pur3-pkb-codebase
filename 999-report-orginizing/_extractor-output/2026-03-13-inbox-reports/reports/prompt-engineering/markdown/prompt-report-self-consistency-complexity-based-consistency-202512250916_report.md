@@ -523,7 +523,7 @@ extraction_summary:
 - [[Least-to-Most]]
 - [[Least-to-Most Prompting]]
 - [[Llama-2-70B]]
-- [[Logical Reasoning]]
+- [[Logical-Reasoning|Logical Reasoning]]
 - [[MATH]]
 - [[MMLU]]
 - [[Majority Voting]]
@@ -670,7 +670,7 @@ extraction_summary:
 | 103 | [[Sequential Decision Making]] | — | — | 3. **[[Early Stopping for Self-Consis... | 539 |
 | 104 | [[Reasoning Verification]] | — | — | 4. **[[Reasoning Verification]]** | 543 |
 | 105 | [[Automated Theorem Proving]] | — | — | 4. **[[Reasoning Verification]]** | 548 |
-| 106 | [[Logical Reasoning]] | — | — | 4. **[[Reasoning Verification]]** | 548 |
+| 106 | [[Logical-Reasoning|Logical Reasoning]] | — | — | 4. **[[Reasoning Verification]]** | 548 |
 | 107 | [[Program Synthesis]] | — | — | 4. **[[Reasoning Verification]]** | 548 |
 | 108 | [[Mixture of Reasoning Experts]] | — | — | 5. **[[Mixture of Reasoning Experts]]** | 552 |
 | 109 | [[Mixture of Experts]] | — | — | 5. **[[Mixture of Reasoning Experts]]** | 557 |
@@ -1188,7 +1188,7 @@ $$
 - [[Least-to-Most]]
 - [[Least-to-Most Prompting]]
 - [[Llama-2-70B]]
-- [[Logical Reasoning]]
+- [[Logical-Reasoning|Logical Reasoning]]
 - [[MATH]]
 - [[MMLU]]
 - [[Majority Voting]]

@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "advance-organizers-prior-knowledge-foundational-report-2026-03-11"
-  - "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Advance-Organizers|Advance Organizers]]"
@@ -72,14 +73,6 @@ see-also:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
   - "[[KWL-Strategy|KWL Strategy]]"
   - "[[Bridging-Analogies|Bridging Analogies]]"
-  - "[[Advance-Organizers|Advance Organizers]]"
-  - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
-  - "[[David-Ausubel|David Ausubel]]"
-  - "[[Schema|Schema]]"
-  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
-  - "[[KWL-Strategy|KWL Strategy]]"
-  - "[[Bridging-Analogies|Bridging Analogies]]"
-  - "[[Pre-questioning|Pre-questioning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -90,7 +83,7 @@ builds-on:
   - "[[Meaningful-Learning-Theory|Meaningful Learning Theory]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
   - topic: "[[!topic-idea-Conceptual-Change-Theory-When-prior-knowledge-is-not-merely-absent-b|> [!topic-idea] [[Conceptual-Change-Theory]]
@@ -165,26 +158,6 @@ importance: high
 **Related concepts:**
 [[Advance-Organizers|Advance Organizers]] · [[Prior-Knowledge-Activation|Prior Knowledge Activation]] · [[David-Ausubel|David Ausubel]] · [[Schema]] · [[Advance-Organizers|Advance Organizers]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[KWL-Strategy|KWL Strategy]] · [[Bridging-Analogies|Bridging Analogies]] · [[Pre-questioning]] · [[Schema-Theory|Schema Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Transfer-of-Learning|Transfer of Learning]] · [[Schema-Theory|Schema Theory]] · [[Schema]] · [[Procedural-Knowledge|Procedural Knowledge]]
 
-**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
-[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Patricia-Alexander|Patricia Alexander]]
-
-**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
-- [[Advance-Organizers|Advance Organizers]]
-- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
-- [[Schema-Theory|Schema Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-
-**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
-- [[Advance-Organizers|Advance Organizers]]
-- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
-- [[Schema-Theory|Schema Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-
-
-
-
 ## References
 
 - **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
@@ -192,36 +165,6 @@ importance: high
 - **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
 - **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
 - **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
-
-- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
-
-- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
-
-- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
-
-- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
-
-- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
-
-- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
-
-- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
-
-- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
-
-- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

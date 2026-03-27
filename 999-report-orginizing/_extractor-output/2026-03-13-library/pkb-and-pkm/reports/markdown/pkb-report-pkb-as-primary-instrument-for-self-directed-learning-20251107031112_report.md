@@ -201,7 +201,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > - **Emergent Behavior 3: Personalized Epistemology**
->   	  - A third, more subtle emergent property is the development of a **[[Epistemology|personalized epistemology]]**—a unique way of knowing and structuring knowledge that reflects *your* cognitive style, interests, and values. No two mature PKBs are alike, even if they use the same tools and methods, because the system co-evolves with the user. Your choice of what to capture, how to phrase notes, which connections to make, and which areas to develop reflects *your* thinking. Over time, the PKB becomes a mirror—not just of *what* you know, but of *how* you think. This emergent behavior arises from the cumulative effect of thousands of micro-decisions made within the loops. It is the PKB's "personality."
+>   	  - A third, more subtle emergent property is the development of a **[[epistemology|personalized epistemology]]**—a unique way of knowing and structuring knowledge that reflects *your* cognitive style, interests, and values. No two mature PKBs are alike, even if they use the same tools and methods, because the system co-evolves with the user. Your choice of what to capture, how to phrase notes, which connections to make, and which areas to develop reflects *your* thinking. Over time, the PKB becomes a mirror—not just of *what* you know, but of *how* you think. This emergent behavior arises from the cumulative effect of thousands of micro-decisions made within the loops. It is the PKB's "personality."
 
 #### 16. [QUOTE] Untitled *(Line 133)*
 

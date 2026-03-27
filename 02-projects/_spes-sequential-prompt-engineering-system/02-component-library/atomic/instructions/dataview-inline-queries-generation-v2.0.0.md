@@ -39,7 +39,7 @@ atomic-type: instruction
 concepts::
   - "[[Dataview]]"
   - "[[DataviewJS]]"
-  - "[[Inline Queries]]"
+  - "[[Inline-Queries]]"
   - "[[Query Generation]]"
   - "[[Index Notes]]"
   - "[[Dashboard-Design]]"

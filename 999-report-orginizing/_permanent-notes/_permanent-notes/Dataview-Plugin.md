@@ -2,8 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Dataview Plugin"
+title: "Dataview-Plugin"
 aliases:
+  - "Dataview-Plugin"
   - "Dataview Plugin"
 type: permanent-note
 status: seedling
@@ -15,7 +16,7 @@ confidence: low
 tags:
   - permanent-note
   - seedling
-  - tool-stub
+  - concept-stub
   - other
 
 domain: other
@@ -23,24 +24,23 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 4
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Core-DataviewJS-Task-Methods]]"
   - "[[TASK-Query-Type-Fundamentals]]"
-  - "[[_Master-Definition-Index|_Master-Definition-Index]]"
-  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -50,16 +50,15 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Dataview Plugin
+# Dataview-Plugin
 
-> [!definition] **Dataview Plugin**
-> *Stub note — tool/platform referenced by 4 permanent notes. Expand with purpose, key features, and PKB integration patterns.*
+> [!definition] **Dataview-Plugin**
+> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 4 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Core-DataviewJS-Task-Methods]]
 - [[TASK-Query-Type-Fundamentals]]
-- [[_Master-Definition-Index|_Master-Definition-Index]]
-- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

@@ -146,7 +146,7 @@ LIMIT 10
 
 ### Direct Connections
 - [[Metacognition]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Dichotomy-of-Control]]
 
 ## Practical Applications

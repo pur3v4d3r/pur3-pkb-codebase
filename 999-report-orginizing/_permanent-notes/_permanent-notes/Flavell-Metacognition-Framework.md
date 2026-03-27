@@ -23,30 +23,30 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 38
+referenced-by-count: 31
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Comprehension-Monitoring]]"
   - "[[Control-Scaffolding]]"
   - "[[Cue-Validity]]"
-  - "[[Desirable-Difficulties]]"
   - "[[Effort-Abandonment]]"
   - "[[Externalization-Protocol]]"
-  - "[[Feeling-of-Knowing]]"
   - "[[Fix-Up-Strategy]]"
-  - "[[Fluency-Illusion]]"
   - "[[Fluency-Trap]]"
+  - "[[Metacognitive-Infrastructure]]"
+  - "[[Metacognitive-Scaffolding]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Flavell-Metacognition-Framework
 
 > [!definition] **Flavell-Metacognition-Framework**
-> *Stub note — concept referenced by 38 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 31 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 38 permanent notes.*
+*Auto-generated stub — referenced by 31 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Comprehension-Monitoring]]
 - [[Control-Scaffolding]]
 - [[Cue-Validity]]
-- [[Desirable-Difficulties]]
 - [[Effort-Abandonment]]
 - [[Externalization-Protocol]]
-- [[Feeling-of-Knowing]]
 - [[Fix-Up-Strategy]]
-- [[Fluency-Illusion]]
 - [[Fluency-Trap]]
-- [[Metacognitive-Experience]]
 - [[Metacognitive-Infrastructure]]
-- [[Metacognitive-Knowledge]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation]]
 - [[Metacognitive-Scaffolding]]
 - [[Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function]]
-- [[Monitoring-Control-Coupling]]
 - [[Monitoring-Gap]]
 - [[Monitoring-Regulation-Decoupling]]
-- *...and 18 more permanent notes*
+- [[Monitoring-Scaffolding]]
+- [[Phenomenological-Substitution]]
+- [[Progressive-Disclosure]]
+- [[Pseudometacognition]]
+- [[Regulatory-Poverty]]
+- [[Regulatory-Threshold]]
+- [[Scaffold-Dependence]]
+- *...and 11 more permanent notes*

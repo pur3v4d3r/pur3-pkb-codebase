@@ -415,7 +415,7 @@ improvement-potential: "Medium"
 |-----------|-------------------|----------|
 | [[Chain-of-Density]] | <span style='color: #27FF00;'>**Strong (9/10)**</span> | Progressive layering from foundational concepts → mechanisms → empirical evidence → implications |
 | [[Skeleton-of-Thought]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Clear outline-first structure evident in section organization |
-| [[Constitutional AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |
+| [[Constitutional-AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |
 | [[Few-Shot-Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |
 
 > [!helpful-tip] Technique Recommendations

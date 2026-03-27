@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -34,9 +34,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "cog-psy-attentional-efficiency-and-skill-aquisition"
-  - "cog-psy-attentional-efficiency-and-skill-aquisition.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -48,16 +49,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
@@ -68,28 +69,18 @@ see-also:
   - "[[Expertise]]"
   - "[[Cognitive-Control|Cognitive Control]]"
   - "[[Procedural-Memory|Procedural Memory]]"
-  - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
-  - "[[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]"
-  - "[[Attention|Attention]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Skill-Acquisition|Skill Acquisition]]"
-  - "[[Expertise|Expertise]]"
-  - "[[Cognitive-Control|Cognitive Control]]"
-  - "[[Procedural-Memory|Procedural Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -133,10 +124,6 @@ importance: medium
 
 **Related concepts:**
 [[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] · [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] · [[Attention]] · [[Working-Memory|Working Memory]] · [[Skill-Acquisition|Skill Acquisition]] · [[Expertise]] · [[Cognitive-Control|Cognitive Control]] · [[Procedural-Memory|Procedural Memory]] · [[Instance-Theory|Instance Theory]] · [[Power-Law-of-Practice|Power Law of Practice]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Neural-Plasticity|Neural Plasticity]] · [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] · [[Information-Processing-Theory|Information Processing Theory]] · [[Memory-Systems|Memory Systems]]
-
-**Related concepts** *(from cog-psy-attentional-efficiency-and-skill-aquisition.md)*:
-[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]
-
 
 ## Methodology Notes
 

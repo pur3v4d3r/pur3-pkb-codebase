@@ -23,20 +23,21 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 27
+referenced-by-count: 28
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomy-Supportive-Environment]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Controlled-Regulation]]"
   - "[[Controlling-Environment]]"
   - "[[Effectance]]"
-  - "[[Identified-Regulation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,12 +59,13 @@ importance: high
 # Csikszentmihalyi
 
 > [!definition] **Csikszentmihalyi**
-> *Stub note — concept referenced by 27 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 28 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 27 permanent notes.*
+*Auto-generated stub — referenced by 28 permanent notes.*
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Amotivation]]
 - [[Autonomous-Regulation]]
 - [[Autonomy-Supportive-Environment]]
@@ -84,5 +85,4 @@ importance: high
 - [[The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper]]
 - [[The-Regulatory-Spectrum]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
-- [[📖-Assimilation,-Accommodation,-and-Equilibration]]
-- *...and 7 more permanent notes*
+- *...and 8 more permanent notes*

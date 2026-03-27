@@ -28,8 +28,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "extended-mind-theory-foundational-report-2026-03-11"
-  - "extended-mind-theory-foundational-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -51,16 +52,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Classical-Cognitivism|Classical Cognitivism]]"
@@ -71,14 +72,6 @@ see-also:
   - "[[Embodied-Cognition|Embodied Cognition]]"
   - "[[Distributed-Cognition|Distributed Cognition]]"
   - "[[Classical-Cognitivism|Classical Cognitivism]]"
-  - "[[Classical-Cognitivism|Classical Cognitivism]]"
-  - "[[Andy-Clark|Andy Clark]]"
-  - "[[David-Chalmers|David Chalmers]]"
-  - "[[Extended-Mind-Theory|Extended Mind Theory]]"
-  - "[[4E-Cognition|4E Cognition]]"
-  - "[[Embodied-Cognition|Embodied Cognition]]"
-  - "[[Distributed-Cognition|Distributed Cognition]]"
-  - "[[Hilary-Putnam|Hilary Putnam]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -89,12 +82,10 @@ builds-on:
   - "[[Ecological-Psychology|Ecological Psychology]]"
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -154,26 +145,6 @@ importance: high
 **Related concepts:**
 [[Classical-Cognitivism|Classical Cognitivism]] · [[Andy-Clark|Andy Clark]] · [[David-Chalmers|David Chalmers]] · [[Extended-Mind-Theory|Extended Mind Theory]] · [[4E-Cognition|4E Cognition]] · [[Embodied-Cognition|Embodied Cognition]] · [[Distributed-Cognition|Distributed Cognition]] · [[Classical-Cognitivism|Classical Cognitivism]] · [[Hilary-Putnam|Hilary Putnam]] · [[Tyler-Burge|Tyler Burge]] · [[Classical-Cognitivism|Classical Cognitivism]] · [[4E-Cognition|4E Cognition]] · [[Embodied-Cognition|Embodied Cognition]] · [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] · [[Lawrence-Barsalou|Lawrence Barsalou]]
 
-**Related concepts** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
-[[Classical-Cognitivism|Classical Cognitivism]] * [[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Extended-Mind-Theory|Extended Mind Theory]] * [[4E-Cognition|4E Cognition]] * [[Embodied-Cognition|Embodied Cognition]] * [[Distributed-Cognition|Distributed Cognition]] * [[Hilary-Putnam|Hilary Putnam]] * [[Tyler-Burge|Tyler Burge]] * [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] * [[Lawrence-Barsalou|Lawrence Barsalou]] * [[Enactivism|Enactivism]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]]
-
-**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
-- [[Extended-Mind-Theory|Extended Mind Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-
-**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
-- [[Extended-Mind-Theory|Extended Mind Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-
-
-
-
 ## References
 
 - **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
@@ -181,36 +152,6 @@ importance: high
 - **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
 - **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
 - **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
-
-- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
-
-- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
-
-- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
-
-- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
-
-- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
-
-- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
-
-- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
-
-- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
-
-- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
-
-- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

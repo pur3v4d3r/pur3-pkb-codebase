@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,9 +39,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "report-08-the-examined-life-in-practice"
-  - "report-08-the-examined-life-in-practice.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -53,32 +54,24 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Aporic-Receptivity|Aporic Receptivity]]"
   - "[[Fallibilism]]"
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Constructivism]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
-  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
-  - "[[Socratic-Method|Socratic Method]]"
-  - "[[Aporic-Receptivity|Aporic Receptivity]]"
-  - "[[Fallibilism|Fallibilism]]"
-  - "[[pragmatism|Pragmatism]]"
-  - "[[Constructivism|Constructivism]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
 
@@ -86,15 +79,13 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -126,11 +117,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] · [[Prohairesis]] · [[Zone-of-Proximal-Development|Zone of Proximal Development]] · [[Schema-Theory|Schema Theory]] · [[Pragmatic-Maxim|Pragmatic Maxim]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructive-Attentiveness|Constructive Attentiveness]] · [[Intellectual-Humility|Intellectual Humility]]
-
-**Related concepts** *(from report-08-the-examined-life-in-practice.md)*:
-[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Schema-Theory|Schema Theory]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Integrity|Intellectual Integrity]]
-
+[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[Pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] · [[Prohairesis]] · [[Zone-of-Proximal-Development|Zone of Proximal Development]] · [[Schema-Theory|Schema Theory]] · [[Pragmatic-Maxim|Pragmatic Maxim]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructive-Attentiveness|Constructive Attentiveness]] · [[Intellectual-Humility|Intellectual Humility]]
 
 ## Methodology Notes
 

@@ -213,4 +213,4 @@ This section analyzes the new solution that was "rebuilt" in Section 3.0. We now
 > - [[Dual-Process-Theory]]
 > - [[Choice Architecture]]
 > - [[Systems Thinking]]
-> - [[Epistemology]]
+> - [[epistemology]]

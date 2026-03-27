@@ -135,7 +135,7 @@ Here are the **10 High-Quality Topics** selected for your Claude Project. Each i
 
 ### **## 🔗 Related Topics for PKB Expansion**
 
-1. **[[Mechanistic Interpretability]]**
+1. **[[Mechanistic-Interpretability]]**
 * **Connection:** Understanding *how* these prompting techniques actually activate different circuits in the LLM.
 * **Depth Potential:** Connects high-level prompting to low-level neural weights.
 * **Knowledge Graph Role:** A bridge between AI Engineering and Neuroscience.

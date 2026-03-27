@@ -47,7 +47,7 @@ created: 2025-12-17
 **Priority**: High (enables self-documenting dataview)
 
 **Suggested Concepts**:
-- [[Inline Fields]]
+- [[Inline-Fields]]
 - [[Dataview]]
 - [[Metadata Extraction]]
 - [[Glossary Generation]]
@@ -124,7 +124,7 @@ created: 2025-12-17
 - [[Reference Generation]]
 - [[Stoicism]]
 - [[Term Definitions]]
-- [[Philosophy]]
+- [[philosophy]]
 
 ---
 
@@ -193,7 +193,7 @@ created: 2025-12-17
 **Type**: Sequential-chain
 
 **Suggested Concepts**:
-- [[Daily Notes]]
+- [[Daily-Notes]]
 - [[Templater]]
 - [[Daily Workflow]]
 

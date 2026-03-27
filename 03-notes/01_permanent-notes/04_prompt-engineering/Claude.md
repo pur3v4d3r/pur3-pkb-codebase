@@ -20,7 +20,7 @@ link-related:
   - "[[Claude-Opus-4]]"
   - "[[Claude Project]]"
   - "[[Anthropic]]"
-  - "[[Transformer Architecture]]"
+  - "[[Transformer-Architecture]]"
   - "[[Generative Ai]]"
   - "[[Large-Language-Models]]"
   - "[[Meta-Prompt]]"
@@ -41,7 +41,7 @@ review-priority: medium
 
 > [!definition]
 > - **Key-Term**:: [[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]
-> - [**Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional Ai]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning From Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.]
+> - [**Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional-AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning From Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.]
 
 >[!important] Key aspects of Claude include:
 > - **Developer**: Anthropic, an AI safety and research company founded by former OpenAI researchers.
@@ -66,7 +66,7 @@ Claude represents a tiered approach to [[Ai Capabilities]], with each model opti
 
 > [!key-claim]
 > **Central Principle of Claude Architecture**
-> Claude's design philosophy centers on "[[Constitutional Ai]]"—the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.
+> Claude's design philosophy centers on "[[Constitutional-AI]]"—the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.
 
 > [!connections-and-links]
 > - [[atomic-notes_moc]]: This is a link to the *Main Hub* for all **Atomic Notes**, from there you will find sections of each of the various *Subjects* I have been **working on**.

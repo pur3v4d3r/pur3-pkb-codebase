@@ -184,7 +184,7 @@ extraction_summary:
 #### 9. [DEFINITION] Central Executive *(Line 319)*
 
 > [!definition] Central Executive
-> The attention-controlling component of the working memory system. Unlike the phonological loop and visuospatial sketchpad, the central executive is not a storage buffer but an attentional controller that supervises and coordinates the slave systems, switches between tasks, directs attention toward relevant information, suppresses irrelevant information, and integrates information from different sources. Baddeley has characterised it as a limited-capacity attentional system analogous to [[Norman and Shallice]]'s Supervisory Attentional System (SAS). The central executive is the most theoretically underdetermined component of the working memory model — a acknowledged problem sometimes called the "homunculus problem."
+> The attention-controlling component of the working memory system. Unlike the phonological loop and visuospatial sketchpad, the central executive is not a storage buffer but an attentional controller that supervises and coordinates the slave systems, switches between tasks, directs attention toward relevant information, suppresses irrelevant information, and integrates information from different sources. Baddeley has characterised it as a limited-capacity attentional system analogous to [[Norman-and-Shallice|Norman and Shallice]]'s Supervisory Attentional System (SAS). The central executive is the most theoretically underdetermined component of the working memory model — a acknowledged problem sometimes called the "homunculus problem."
 
 #### 10. [DEFINITION] Episodic Buffer *(Line 322)*
 
@@ -246,7 +246,7 @@ extraction_summary:
 #### 21. [DEFINITION] Systems Consolidation *(Line 383)*
 
 > [!definition] Systems Consolidation
-> The slower, large-scale process by which hippocampus-dependent memories are gradually transferred to neocortical long-term storage over months to years. The dominant account, the [[Standard Model of Consolidation]] (Squire & Alvarez, 1995), proposes that the hippocampus acts as an index that binds together distributed neocortical representations during encoding. During subsequent sleep and quiet wakefulness, coordinated replay between the hippocampus and neocortex allows the memory to become gradually independent of the hippocampus, as direct neocortical connections strengthen. This explains the retrograde amnesia gradient seen in many hippocampal amnesics: recent memories (not yet consolidated) are lost, while remote memories (fully consolidated into neocortex) are spared.
+> The slower, large-scale process by which hippocampus-dependent memories are gradually transferred to neocortical long-term storage over months to years. The dominant account, the [[Standard-Model-of-Consolidation|Standard Model of Consolidation]] (Squire & Alvarez, 1995), proposes that the hippocampus acts as an index that binds together distributed neocortical representations during encoding. During subsequent sleep and quiet wakefulness, coordinated replay between the hippocampus and neocortex allows the memory to become gradually independent of the hippocampus, as direct neocortical connections strengthen. This explains the retrograde amnesia gradient seen in many hippocampal amnesics: recent memories (not yet consolidated) are lost, while remote memories (fully consolidated into neocortex) are spared.
 
 #### 22. [COUNTER-ARGUMENT] Multiple Trace Theory *(Line 386)*
 
@@ -559,7 +559,7 @@ extraction_summary:
 - [[Multiple Trace Theory]]
 - [[Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
-- [[Norman and Shallice]]
+- [[Norman-and-Shallice|Norman and Shallice]]
 - [[Phonological-Loop|Phonological Loop]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
 - [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Sleep and Memory Consolidation]]
 - [[Spacing Effect and Distributed Practice]]
-- [[Standard Model of Consolidation]]
+- [[Standard-Model-of-Consolidation|Standard Model of Consolidation]]
 - [[Tip-of-the-Tongue Phenomenon]]
 - [[Ulric Neisser]]
 - [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
@@ -604,11 +604,11 @@ extraction_summary:
 | 19 | [[Visuospatial-Sketchpad|Visuospatial Sketchpad]] | — | — | The Working Memory Revolution | 311 |
 | 20 | [[Central-Executive|Central Executive]] | — | — | The Working Memory Revolution | 311 |
 | 21 | [[Episodic-Buffer|Episodic Buffer]] | — | — | The Working Memory Revolution | 311 |
-| 22 | [[Norman and Shallice]] | — | — | The Working Memory Revolution | 320 |
+| 22 | [[Norman-and-Shallice|Norman and Shallice]] | — | — | The Working Memory Revolution | 320 |
 | 23 | [[Endel Tulving]] | — | — | The Long-Term Memory Taxonomy | 332 |
 | 24 | [[Hippocampus]] | — | — | The Long-Term Memory Taxonomy | 335 |
 | 25 | [[Central-Executive|Central Executive]] | — | — | The Dominance and Limits of the Worki... | 357 |
-| 26 | [[Norman and Shallice]] | — | — | The Dominance and Limits of the Worki... | 357 |
+| 26 | [[Norman-and-Shallice|Norman and Shallice]] | — | — | The Dominance and Limits of the Worki... | 357 |
 | 27 | [[Miyake and colleagues]] | — | — | The Dominance and Limits of the Worki... | 357 |
 | 28 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 29 | [[Schema-Theory|Schema Theory]] | — | — | The Dominance and Limits of the Worki... | 359 |
@@ -620,7 +620,7 @@ extraction_summary:
 | 35 | [[Endel Tulving]] | — | — | The Multiple Memory Systems Framework | 366 |
 | 36 | [[Basal Ganglia]] | — | — | The Multiple Memory Systems Framework | 371 |
 | 37 | [[Amygdala]] | — | — | The Multiple Memory Systems Framework | 371 |
-| 38 | [[Standard Model of Consolidation]] | — | — | Consolidation: The Transition from Fr... | 384 |
+| 38 | [[Standard-Model-of-Consolidation|Standard Model of Consolidation]] | — | — | Consolidation: The Transition from Fr... | 384 |
 | 39 | [[Lynn Nadel]] | — | — | Consolidation: The Transition from Fr... | 387 |
 | 40 | [[Morris Moscovitch]] | — | — | Consolidation: The Transition from Fr... | 387 |
 | 41 | [[Fergus Craik]] | — | — | Encoding: How Information Enters Memory | 403 |
@@ -711,7 +711,7 @@ extraction_summary:
 - [[Multiple Trace Theory]]
 - [[Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
-- [[Norman and Shallice]]
+- [[Norman-and-Shallice|Norman and Shallice]]
 - [[Phonological-Loop|Phonological Loop]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
 - [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
@@ -723,7 +723,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Sleep and Memory Consolidation]]
 - [[Spacing Effect and Distributed Practice]]
-- [[Standard Model of Consolidation]]
+- [[Standard-Model-of-Consolidation|Standard Model of Consolidation]]
 - [[Tip-of-the-Tongue Phenomenon]]
 - [[Ulric Neisser]]
 - [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]

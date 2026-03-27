@@ -392,7 +392,7 @@ extraction_summary:
 >         - [[Dataview]], [[YAML]], [[Obsidian Properties]]
 >         - [[Templater]], [[QuickAdd]] (for workflow integration)
 >         - [[Personal-Knowledge-Management|Personal Knowledge Management]], [[Zettelkasten]]
->         - [[Inline Fields]], [[Metadata Schema]]
+>         - [[Inline-Fields|Inline Fields]], [[Metadata Schema]]
 > Now I'll execute the research phase.
 > Now I have sufficient research to create a comprehensive reference note. Let me proceed with the response following the structure outlined in the thinking phase.
 
@@ -620,7 +620,7 @@ extraction_summary:
 - [[Dataview Syntax]]
 - [[DataviewJS]]
 - [[GTD]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[Kanban]]
 - [[Metadata Schema]]
 - [[Obsidian]]
@@ -653,7 +653,7 @@ extraction_summary:
 | 6 | [[QuickAdd]] | — | — | Comprehensive Reference: Metadata Menu | 382 |
 | 7 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Comprehensive Reference: Metadata Menu | 383 |
 | 8 | [[Zettelkasten]] | — | — | Comprehensive Reference: Metadata Menu | 383 |
-| 9 | [[Inline Fields]] | — | — | Comprehensive Reference: Metadata Menu | 384 |
+| 9 | [[Inline-Fields|Inline Fields]] | — | — | Comprehensive Reference: Metadata Menu | 384 |
 | 10 | [[Metadata Schema]] | — | — | Comprehensive Reference: Metadata Menu | 384 |
 | 11 | [[Obsidian]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
 | 12 | [[Community Plugin]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
@@ -2096,7 +2096,7 @@ For <span style='color: #FF00DC;'>Lookup fields</span> that don't need real-time
 - [[Dataview Syntax]]
 - [[DataviewJS]]
 - [[GTD]]
-- [[Inline Fields]]
+- [[Inline-Fields|Inline Fields]]
 - [[Kanban]]
 - [[Metadata Schema]]
 - [[Obsidian]]

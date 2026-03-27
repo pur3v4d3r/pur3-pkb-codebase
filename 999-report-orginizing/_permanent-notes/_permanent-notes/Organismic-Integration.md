@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,10 +37,10 @@ referenced-by-count: 5
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Internalization-Continuum]]"
   - "[[Need-Frustration]]"
   - "[[Relational-Emergent-Autonomy]]"
-  - "[[Self-Determination-Theory]]"
   - "[[Undermining-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -60,8 +60,8 @@ importance: low
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Internalization-Continuum]]
 - [[Need-Frustration]]
 - [[Relational-Emergent-Autonomy]]
-- [[Self-Determination-Theory]]
 - [[Undermining-Effect]]

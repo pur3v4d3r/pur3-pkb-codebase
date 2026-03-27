@@ -69,7 +69,7 @@ Before installing Day Planner, you **must** have these plugins enabled:
 >    - Day Planner uses Dataview's query engine to discover tasks across your vault
 >    - Without Dataview, the plugin will not function
 > 
-> 2. **[[Daily Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED
+> 2. **[[Daily-Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED
 >    - Provides the infrastructure for Day Planner to "see" and interact with daily notes
 >    - At least one must be enabled for timeline functionality
 
@@ -1053,7 +1053,7 @@ From research: Curtis uses Day Planner alongside [[Wrike]] (team project managem
 
 ### Meeting Note Preparation
 
-Day Planner excels at preparing for and documenting meetings through its integration with [[Daily Notes]].
+Day Planner excels at preparing for and documenting meetings through its integration with [[Daily-Notes]].
 
 **Pre-Meeting Workflow:**
 

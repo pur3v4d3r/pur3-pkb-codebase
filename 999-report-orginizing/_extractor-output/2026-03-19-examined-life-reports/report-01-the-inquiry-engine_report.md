@@ -604,7 +604,7 @@ extraction_summary:
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Epistemic Virtues]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Socratic-Method|Socratic Method]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 

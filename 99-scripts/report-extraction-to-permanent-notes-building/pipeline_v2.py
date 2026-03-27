@@ -57,6 +57,8 @@ import time
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from batch_tracker import mark_batch_processed
+
 # ══════════════════════════════════════════════════════════════════════════════
 # FORCE UTF-8 ON WINDOWS
 # ══════════════════════════════════════════════════════════════════════════════
@@ -96,6 +98,57 @@ REPORT_FOLDERS = [
     VAULT_ROOT / "999-report-orginizing" / "999-stoicism",
     VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator-v1.1.0",
 ]
+
+# Processed-batches tracker file for diff-aware runs
+PROCESSED_BATCHES_FILE = PIPELINE_DIR / "_pipeline-output" / "_processed-batches.json"
+
+
+def discover_unprocessed_report_dirs() -> list[Path]:
+    """
+    Auto-discover report directories that have not yet been extracted.
+
+    Compares REPORT_FOLDERS against existing extraction batch names
+    to find directories with .md files that haven't been processed yet.
+    Returns a list of report directories to extract.
+    """
+    existing_batches = set()
+    if EXTRACTOR_OUTPUT_ROOT.exists():
+        for d in EXTRACTOR_OUTPUT_ROOT.iterdir():
+            if d.is_dir():
+                # Batch names are typically "YYYY-MM-DD-<foldername>"
+                # Strip date prefix if present
+                name = d.name
+                parts = name.split("-", 3)
+                if len(parts) >= 4 and parts[0].isdigit():
+                    existing_batches.add(parts[3])
+                existing_batches.add(name)
+
+    # Also load from processed-batches tracker if it exists
+    if PROCESSED_BATCHES_FILE.exists():
+        try:
+            data = json.loads(PROCESSED_BATCHES_FILE.read_text(encoding="utf-8"))
+            existing_batches.update(data.get("processed_dirs", []))
+        except (json.JSONDecodeError, KeyError):
+            pass
+
+    unprocessed = []
+    for folder in REPORT_FOLDERS:
+        if not folder.exists():
+            continue
+        # Check if this folder's name appears in any existing batch
+        if folder.name in existing_batches:
+            continue
+        # Check if there are .md files to extract
+        md_files = [
+            f for f in folder.rglob("*.md")
+            if not f.name.startswith("_")
+            and f.name.lower() not in ("readme.md", "index.md")
+        ]
+        if md_files:
+            unprocessed.append(folder)
+
+    return unprocessed
+
 
 # Pipeline output directory for logs and reports
 PIPELINE_OUTPUT_DIR = PIPELINE_DIR / "_pipeline-output"
@@ -144,6 +197,43 @@ class PipelineReport:
     audit_resolution_rate: float = 0.0
     audit_orphans: int = 0
     errors: list[str] = field(default_factory=list)
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# PIPELINE STATE (for --resume)
+# ══════════════════════════════════════════════════════════════════════════════
+
+PIPELINE_STATE_FILE = PIPELINE_OUTPUT_DIR / "_pipeline-state.json"
+
+
+def _load_pipeline_state() -> dict:
+    """Load the last pipeline run state, or empty dict."""
+    if PIPELINE_STATE_FILE.exists():
+        try:
+            return json.loads(PIPELINE_STATE_FILE.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+def _save_pipeline_state(state: dict) -> None:
+    """Persist pipeline state to disk."""
+    PIPELINE_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    PIPELINE_STATE_FILE.write_text(
+        json.dumps(state, indent=2, default=str), encoding="utf-8"
+    )
+
+
+def _update_stage_state(state: dict, stage_num: int, result: StageResult) -> None:
+    """Update state dict after a stage completes."""
+    completed = state.get("completed_stages", [])
+    if result.success and stage_num not in completed:
+        completed.append(stage_num)
+    state["completed_stages"] = sorted(completed)
+    state["last_stage"] = stage_num
+    state["last_timestamp"] = datetime.datetime.now().isoformat()
+    state["run_id"] = RUN_ID
+    _save_pipeline_state(state)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -1075,6 +1165,8 @@ def build_cli() -> argparse.ArgumentParser:
                              help="Skip extraction stage (use existing JSON)")
     stage_group.add_argument("--skip-dedicated", action="store_true", default=False,
                              help="Skip dedicated aggregate notes build (stage 2b)")
+    stage_group.add_argument("--resume", action="store_true", default=False,
+                             help="Resume from the last successfully completed stage")
 
     # Input configuration
     input_group = p.add_argument_group("Input Configuration")
@@ -1082,6 +1174,8 @@ def build_cli() -> argparse.ArgumentParser:
                              help="Directory of report .md files to extract")
     input_group.add_argument("--output-dir", type=str, metavar="DIR",
                              help="Output directory for new extractions")
+    input_group.add_argument("--auto-discover", action="store_true", default=False,
+                             help="Auto-discover unprocessed report directories and extract them")
     input_group.add_argument("--include-original", action="store_true", default=False,
                              help="Include original v1 extraction batch")
     input_group.add_argument("--min-stub-refs", type=int, default=DEFAULT_MIN_STUB_REFS,
@@ -1119,6 +1213,24 @@ def main() -> None:
 
     report_dir = Path(args.report_dir) if args.report_dir else None
     output_dir = Path(args.output_dir) if args.output_dir else None
+    auto_discover = getattr(args, 'auto_discover', False)
+    resume = getattr(args, 'resume', False)
+
+    # Handle --resume: load last state and advance start_stage
+    pipeline_state: dict = {}
+    if resume:
+        pipeline_state = _load_pipeline_state()
+        completed = pipeline_state.get("completed_stages", [])
+        if completed:
+            resume_from = max(completed) + 1
+            if resume_from > start_stage:
+                print(f"  ♻️  Resuming: stages {completed} already completed → starting at stage {resume_from}")
+                start_stage = resume_from
+        else:
+            print("  ♻️  No previous state found — starting from the beginning.")
+    else:
+        # Fresh run — clear any old state
+        pipeline_state = {"completed_stages": [], "run_id": RUN_ID}
 
     # Pipeline report
     pipeline_report = PipelineReport(
@@ -1142,6 +1254,7 @@ def main() -> None:
     if start_stage <= 0 <= end_stage:
         result = stage_preflight(report_dir)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 0, result)
         pipeline_report.notes_before = result.details.get("existing_notes", 0)
         if not result.success:
             print("\n  ❌ Pre-flight failed. Fix errors above before continuing.")
@@ -1150,12 +1263,37 @@ def main() -> None:
 
     # ── Stage 1: Extract ────────────────────────────────────────────────
     if start_stage <= 1 <= end_stage and not args.skip_extract:
-        result = stage_extract(report_dir, output_dir, execute)
-        pipeline_report.stages.append(result)
-        if not result.success:
-            print("\n  ❌ Extraction failed. Check errors above.")
-            _finalize(pipeline_report)
-            return
+        if auto_discover and not report_dir:
+            # Auto-discover unprocessed report directories
+            unprocessed = discover_unprocessed_report_dirs()
+            if unprocessed:
+                print(f"\n  Auto-discovered {len(unprocessed)} unprocessed report directories:")
+                for d in unprocessed:
+                    print(f"    • {d.name}")
+                for disco_dir in unprocessed:
+                    result = stage_extract(disco_dir, None, execute)
+                    pipeline_report.stages.append(result)
+                    _update_stage_state(pipeline_state, 1, result)
+                    if result.success and execute:
+                        mark_batch_processed(disco_dir)
+                    if not result.success:
+                        print(f"\n  ❌ Extraction failed for {disco_dir.name}.")
+            else:
+                print("\n  Auto-discover: No unprocessed report directories found.")
+                pipeline_report.stages.append(StageResult(
+                    stage_num=1, stage_name="Extraction", success=True,
+                    summary="Auto-discover found no new directories", skipped=True,
+                ))
+        else:
+            result = stage_extract(report_dir, output_dir, execute)
+            pipeline_report.stages.append(result)
+            _update_stage_state(pipeline_state, 1, result)
+            if result.success and execute and report_dir:
+                mark_batch_processed(report_dir)
+            if not result.success:
+                print("\n  ❌ Extraction failed. Check errors above.")
+                _finalize(pipeline_report)
+                return
     elif args.skip_extract and start_stage <= 1:
         pipeline_report.stages.append(StageResult(
             stage_num=1, stage_name="Extraction", success=True,
@@ -1166,6 +1304,7 @@ def main() -> None:
     if start_stage <= 2 <= end_stage:
         result = stage_build_notes(execute, args.include_original)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 2, result)
         pipeline_report.notes_created = result.details.get("created", result.details.get("notes_created", 0))
         pipeline_report.notes_updated = result.details.get("updated", 0)
 
@@ -1178,23 +1317,27 @@ def main() -> None:
     if start_stage <= 3 <= end_stage:
         result = stage_generate_stubs(execute, args.min_stub_refs)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 3, result)
         pipeline_report.stubs_created = result.details.get("stubs_created", 0)
 
     # ── Stage 4: Resolve Report Links ───────────────────────────────────
     if start_stage <= 4 <= end_stage:
         result = stage_resolve_report_links(execute)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 4, result)
         pipeline_report.links_rewritten = result.details.get("links_rewritten", 0)
 
     # ── Stage 5: Normalise Links ────────────────────────────────────────
     if start_stage <= 5 <= end_stage:
         result = stage_normalise_links(execute)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 5, result)
 
     # ── Stage 6: Audit ──────────────────────────────────────────────────
     if start_stage <= 6 <= end_stage:
         result = stage_audit()
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 6, result)
         pipeline_report.audit_resolution_rate = result.details.get("resolution_rate", 0)
         pipeline_report.audit_orphans = result.details.get("orphan_count", 0)
 
@@ -1202,6 +1345,7 @@ def main() -> None:
     if start_stage <= 7 <= end_stage:
         result = stage_index(execute)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 7, result)
 
     # Finalize counts
     pipeline_report.notes_after = count_notes(PERMANENT_NOTES_DIR)
@@ -1210,11 +1354,13 @@ def main() -> None:
     if start_stage <= 8 <= end_stage:
         result = stage_report(pipeline_report)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 8, result)
 
     # ── Stage 9: Git Commit ─────────────────────────────────────────────
     if start_stage <= 9 <= end_stage and auto_commit:
         result = stage_commit(pipeline_report, execute)
         pipeline_report.stages.append(result)
+        _update_stage_state(pipeline_state, 9, result)
     elif auto_commit and not execute:
         print("\n  ⚠️  --auto-commit ignored in dry-run mode")
 

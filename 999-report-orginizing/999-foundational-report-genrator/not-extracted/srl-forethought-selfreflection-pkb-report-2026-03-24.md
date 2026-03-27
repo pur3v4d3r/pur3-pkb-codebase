@@ -139,7 +139,7 @@ related:
 
 broader:
   - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Metacognition]]"
   - "[[Deliberate-Practice]]"
 
@@ -401,7 +401,7 @@ Self-evaluation is the process of comparing what was produced or experienced dur
 >
 > **Boundary:** Self-evaluation is not the same as self-criticism. It is a comparison operation, not an affective verdict. The emotional loading of self-evaluation is determined by the Self-Reaction component that follows — not by self-evaluation itself.
 >
-> **See also:** [[Formative Assessment]], [[The-SRL-Cycle-as-a-Calibration-Engine]], [[Metacognitive-Monitoring]]
+> **See also:** [[Formative-Assessment|Formative Assessment]], [[The-SRL-Cycle-as-a-Calibration-Engine]], [[Metacognitive-Monitoring]]
 
 The single most important structural feature of effective self-evaluation is that it evaluates against the **process goals established in Forethought**, not against vague impressions of "how it went." This is why process goals matter so much: they create the evaluative scaffolding that makes self-evaluation informative rather than impressionistic. "Did I generate a question from each major section that I could not immediately answer?" is evaluable. "Did I understand this report?" is not — or rather, it is evaluable only in a surface sense, through exactly the fluency-as-comprehension illusion that the SRL cycle is designed to counteract.
 
@@ -553,7 +553,7 @@ The most direct way that Forethought and Self-Reflection prompts can preserve in
 > [!key-claim] **The Motivational Grammar of Self-Reflection Prompts**
 > The language of self-reflection prompts carries an implicit motivational grammar. Questions framed in mastery grammar ("What did you understand better by the end of this session than you did at the beginning?") activate a learning-improvement frame. Questions framed in performance grammar ("How well did you understand this material?") activate a judgment frame. The performance frame has two problems: it activates evaluation anxiety that interferes with honest assessment, and it conflates performance with learning — which are correlated but distinct. Consistent mastery grammar in prompts cultivates a mastery-approach orientation through repeated activation.
 >
-> **See also:** [[Achievement-Goal-Theory]], [[Formative Assessment]], [[Autonomy-Supportive-Teaching-and-Learning-Environments]]
+> **See also:** [[Achievement-Goal-Theory]], [[Formative-Assessment|Formative Assessment]], [[Autonomy-Supportive-Teaching-and-Learning-Environments]]
 
 ### Formative Assessment Principles in Self-Directed Practice
 
@@ -1427,7 +1427,7 @@ The system is not separate from your PKB — it is implemented *within* it. The 
 >
 > - **[[Transfer-of-Learning]]** — Transfer of learning from academic texts to real contexts depends on deep, elaborative processing that goes beyond surface familiarity. The generative calibration tests and process-goal architecture specifically target the processing depth required for transfer.
 >
-> - **[[Self-Directed Learning]]** — This report provides the operational architecture for self-directed learning at the session level. A subsequent treatment of self-directed learning at the curriculum level would build on this session-level foundation.
+> - **[[Self-Directed-Learning|Self-Directed Learning]]** — This report provides the operational architecture for self-directed learning at the session level. A subsequent treatment of self-directed learning at the curriculum level would build on this session-level foundation.
 >
 > **Lateral Connections (mutual enrichment):**
 >

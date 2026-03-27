@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,10 @@ updated: 2026-03-24
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-mcp-servers-2025122412"
-  - "reference-comprehensive-mcp-servers-2025122412.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -52,16 +53,16 @@ depth-level: comprehensive
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[]]"
+  []
 
 related:
-  - "[[]]"
+  []
 
 broader:
-  - "[[]]"
+  []
 
 narrower:
-  - "[[]]"
+  []
 
 see-also:
   - "[[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]]"
@@ -72,28 +73,18 @@ see-also:
   - "[[AI-PKB-Integration|AI-PKB Integration]]"
   - "[[Prompt-Library-Management|Prompt Library Management]]"
   - "[[Claude-Code-Workflows|Claude Code Workflows]]"
-  - "[[**Comprehensive-Refernece:-MCP-Servers**|**Comprehensive Refernece: MCP Servers**]]"
-  - "[[API-Fundamentals|API Fundamentals]]"
-  - "[[JSON-RPC|JSON-RPC]]"
-  - "[[AI-Agent-Architecture|AI Agent Architecture]]"
-  - "[[Custom-MCP-Server-Development|Custom MCP Server Development]]"
-  - "[[AI-PKB-Integration|AI-PKB Integration]]"
-  - "[[Prompt-Library-Management|Prompt Library Management]]"
-  - "[[Claude-Code-Workflows|Claude Code Workflows]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[]]"
+  []
 
 enables:
-  - "[[]]"
+  []
 
 expansion-topics:
-  - topic: "[[]]"
-    description: ""
-    priority: medium
+  []
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -152,26 +143,6 @@ importance: medium
 
 **Related concepts:**
 [[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]] · [[API-Fundamentals|API Fundamentals]] · [[JSON-RPC]] · [[AI-Agent-Architecture|AI Agent Architecture]] · [[Custom-MCP-Server-Development|Custom MCP Server Development]] · [[AI-PKB-Integration|AI-PKB Integration]] · [[Prompt-Library-Management|Prompt Library Management]] · [[Claude-Code-Workflows|Claude Code Workflows]] · [[Gemini-Code-Assist|Gemini Code Assist]] · [[Obsidian-Automation|Obsidian Automation]] · [[Claude-Code|Claude Code]] · [[Gemini-Code-Assist|Gemini Code Assist]] · [[Obsidian]] · [[Prompt-Engineering|Prompt Engineering]] · [[AI-Agents|AI Agents]]
-
-**Related concepts** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-[[**Comprehensive-Refernece:-MCP-Servers**|**Comprehensive Refernece: MCP Servers**]] * [[API-Fundamentals|API Fundamentals]] * [[AI-Agent-Architecture|AI Agent Architecture]] * [[Custom-MCP-Server-Development|Custom MCP Server Development]] * [[AI-PKB-Integration|AI-PKB Integration]] * [[Prompt-Library-Management|Prompt Library Management]] * [[Claude-Code-Workflows|Claude Code Workflows]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Obsidian-Automation|Obsidian Automation]] * [[Claude-Code|Claude Code]] * [[Prompt-Engineering|Prompt Engineering]] * [[AI-Agents|AI Agents]] * [[Claude-Desktop|Claude Desktop]] * [[Dataview|Dataview]] * [[Templater|Templater]]
-
-**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-- [[Claude-Code|Claude Code]]
-- [[Obsidian|Obsidian]]
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[AI-Agent-Architecture|AI Agent Architecture]]
-- [[JSON-RPC|JSON-RPC]]
-
-**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[VS-Code|VS Code]]
-- [[Claude-Code|Claude Code]]
-
-
-
 
 ## Methodology Notes
 

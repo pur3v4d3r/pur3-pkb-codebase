@@ -257,7 +257,7 @@ extraction_summary:
 - [[behaviorism]]
 - [[default mode network]]
 - [[digital gardens]]
-- [[hippocampus]]
+- [[Hippocampus]]
 - [[Information-Architecture|information architecture]]
 - [[knowledge work]]
 - [[literature notes]]
@@ -297,7 +297,7 @@ extraction_summary:
 | 23 | [[literature notes]] | — | — | 🤝 Relatedness and the Social Dimensio... | 221 |
 | 24 | [[digital gardens]] | — | — | 🤝 Relatedness and the Social Dimensio... | 223 |
 | 25 | [[prefrontal cortex]] | — | — | 🎭 The Prefrontal Cortex: Executive Co... | 236 |
-| 26 | [[hippocampus]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 253 |
+| 26 | [[Hippocampus]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 253 |
 | 27 | [[default mode network]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 255 |
 | 28 | [[digital gardens]] | — | — | 📚 Knowledge as Living System | 278 |
 | 29 | [[Zone-of-Proximal-Development|zone of proximal development]] | — | — | 🎓 Implications for Lifelong Learning ... | 290 |
@@ -387,7 +387,7 @@ extraction_summary:
 - [[behaviorism]]
 - [[default mode network]]
 - [[digital gardens]]
-- [[hippocampus]]
+- [[Hippocampus]]
 - [[Information-Architecture|information architecture]]
 - [[knowledge work]]
 - [[literature notes]]

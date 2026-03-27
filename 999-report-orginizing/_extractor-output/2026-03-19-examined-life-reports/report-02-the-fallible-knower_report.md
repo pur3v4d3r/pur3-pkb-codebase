@@ -479,7 +479,7 @@ extraction_summary:
 
 #### Related
 
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Constructivism|Constructivism (Educational Psychology)]]
 - [[Schema-Theory|Schema Theory]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]

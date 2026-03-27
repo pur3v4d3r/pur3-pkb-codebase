@@ -37,7 +37,7 @@ link-related:
 # Dataview Task Query Reference
 
 > [!overview]
-> - **Title**:: [[Dataview Task Query Reference]]
+> - **Title**:: [[Dataview-Task-Query-Reference]]
 > - **Prompt/Topic Used**:: 
 > - **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -188,14 +188,14 @@ Aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 - [[DataviewJS]]
 - [[Tasks-Plugin]]
 - [[YAML-Frontmatter]]
-- [[Inline Fields]]
-- [[Daily Notes]]
-- [[WHERE Clause]]
-- [[GROUP BY]]
-- [[Date Functions]]
-- [[Priority Management]]
+- [[Inline-Fields]]
+- [[Daily-Notes]]
+- [[WHERE-Clause]]
+- [[GROUP-BY]]
+- [[Date-Functions]]
+- [[Priority-Management]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]
-- [[GTD Workflow]]
+- [[GTD-Workflow]]
 - [[Dashboard-Design]]
 - [[Query Performance]]
 
@@ -221,7 +221,7 @@ aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 ---
 
 > [!abstract] Executive Overview
-> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin]] queries for [[Task-Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
+> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin]] queries for [[Task-Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin]], [[Inline-Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
 
 ---
 
@@ -276,7 +276,7 @@ LIMIT <number>
 | `file` | object | Source file metadata | `<file object>` |
 
 > [!helpful-tip] Custom Inline Fields in Tasks
-> You can extend task metadata using [[Inline Fields]] syntax:
+> You can extend task metadata using [[Inline-Fields]] syntax:
 > ```
 > - [ ] Implement auth system [priority:: high] [estimated:: 5h] [sprint:: 12]
 > ```
@@ -381,7 +381,7 @@ LIMIT <number>
 > 
 > **What it does:** Creates a TABLE view grouped by priority level (Highest → High → Normal → Low → Lowest) with intelligent sorting
 > 
-> **Use case:** [[Priority Management]] dashboard for weekly planning
+> **Use case:** [[Priority-Management]] dashboard for weekly planning
 > 
 > **Priority Emoji Reference:**
 > - `⏫` = Highest
@@ -476,7 +476,7 @@ LIMIT <number>
 > LIMIT 10
 > ```
 > 
-> **What it does:** Shows tasks from the 10 most recent [[Daily Notes]], grouped by date
+> **What it does:** Shows tasks from the 10 most recent [[Daily-Notes]], grouped by date
 > 
 > **Use case:** "What did I capture this week?" review / task audit
 
@@ -507,7 +507,7 @@ LIMIT <number>
 > SORT estimated DESC
 > ```
 > 
-> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline Fields]]
+> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline-Fields]]
 > 
 > **Use case:** [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / capacity planning / velocity tracking
 > 
@@ -603,7 +603,7 @@ LIMIT <number>
 > 
 > **What it does:** Filters out tasks in "waiting" or "someday/maybe" categories
 > 
-> **Use case:** Actionable task list (excluding deferred items per [[GTD Workflow]])
+> **Use case:** Actionable task list (excluding deferred items per [[GTD-Workflow]])
 
 ---
 
@@ -806,7 +806,7 @@ dv.taskList(tasks);
 **What this enables:**
 - [[Tasks-Plugin]] provides UI and recurrence handling
 - [[Dataview-Plugin]] provides querying and dashboard capabilities
-- [[Inline Fields]] add custom metadata dimensions
+- [[Inline-Fields]] add custom metadata dimensions
 - All three systems work together seamlessly
 
 ### Daily Notes Integration
@@ -846,7 +846,7 @@ dv.taskList(tasks);
 > 
 > **What this creates:** A comprehensive daily note with live-updating task views
 > 
-> **Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual
+> **Use case:** [[Daily-Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual
 
 ---
 
@@ -1038,7 +1038,7 @@ dv.taskList(tasks);
 2. **[[Tasks Plugin Advanced Workflows]]**
    - *Connection*: This guide covers Dataview integration; separate guide needed for pure Tasks plugin capabilities
    - *Depth Potential*: Comprehensive coverage of recurrence rules, custom statuses, natural language parsing, and Tasks-specific filtering syntax
-   - *Knowledge Graph Role*: Complementary system documentation linking [[Task-Management]], [[GTD Workflow]], [[Productivity Systems]]
+   - *Knowledge Graph Role*: Complementary system documentation linking [[Task-Management]], [[GTD-Workflow]], [[Productivity Systems]]
 
 3. **[[DataviewJS Custom Functions Library]]**
    - *Connection*: Advanced task manipulation patterns require reusable JavaScript functions

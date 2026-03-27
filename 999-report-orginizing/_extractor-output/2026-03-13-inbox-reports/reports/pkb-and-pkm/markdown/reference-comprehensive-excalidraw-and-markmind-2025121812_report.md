@@ -535,7 +535,7 @@ extraction_summary:
 #### 30. [DEFINITION] MarkMind *(Line 687)*
 
 > [!definition] MarkMind
-> [**MarkMind**:: A comprehensive [[Mind-Mapping|mind mapping]], [[outlining]], and [[PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
+> [**MarkMind**:: A comprehensive [[Mind-Mapping|mind mapping]], [[outlining]], and [[PDF-annotation|PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
 
 #### 31. [HOW-TO] Installing MarkMind *(Line 709)*
 
@@ -972,7 +972,7 @@ extraction_summary:
 - [[Obsidian-Basics|Obsidian Basics]]
 - [[PDF Annotation Workflows in Academia]]
 - [[PDF Name]]
-- [[PDF annotation]]
+- [[PDF-annotation|PDF annotation]]
 - [[PDF++]]
 - [[PKM]]
 - [[Paper Title]]
@@ -1062,7 +1062,7 @@ extraction_summary:
 | 42 | [[Templater]] | — | — | Pitfall 4: Forgetting to Use Templates | 647 |
 | 43 | [[Mind-Mapping|mind mapping]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 44 | [[outlining]] | — | — | 🧠 Overview & Capabilities | 688 |
-| 45 | [[PDF annotation]] | — | — | 🧠 Overview & Capabilities | 688 |
+| 45 | [[PDF-annotation|PDF annotation]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 46 | [[Obsidian]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 47 | [[PDF Name]] | — | ^block-ref | Method 2: Auto-Create Links | 1058 |
 | 48 | [[Paper Title]] | — | — | Pattern 1: Research Paper Processing | 1093 |
@@ -2113,7 +2113,7 @@ $$
 - [[Obsidian-Basics|Obsidian Basics]]
 - [[PDF Annotation Workflows in Academia]]
 - [[PDF Name]]
-- [[PDF annotation]]
+- [[PDF-annotation|PDF annotation]]
 - [[PDF++]]
 - [[PKM]]
 - [[Paper Title]]

@@ -83,7 +83,7 @@ related_concepts:
   - "[[Extended Thinking]]"
   - "[[Chain of Density]]"
   - "[[Graph of Thoughts]]"
-  - "[[Obsidian PKB Architecture]]"
+  - "[[Obsidian-PKB-Architecture]]"
   - "[[Dataview Integration]]"
   - "[[Mermaid Diagrams]]"
   - "[[Pedagogical Pathways]]"

@@ -331,7 +331,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Abductive-Reasoning|Abductive Reasoning]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Ann-Brown|Ann Brown]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[belief-perseverance|Belief Perseverance]]
@@ -389,7 +389,7 @@ extraction_summary:
 - [[Paulo Freire]]
 - [[Peer Instruction]]
 - [[Plato]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Pragmatist Philosophy]]
 - [[Principles of Psychology (1890)]]
 - [[Problem-Based Learning]]
@@ -437,14 +437,14 @@ extraction_summary:
 | 12 | [[Progressive Education]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 22 |
 | 13 | [[Plato]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 14 | [[Descartes]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
-| 15 | [[American-Pragmatism|American Pragmatism]] | pragmatist | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
+| 15 | [[American-pragmatism|American Pragmatism]] | pragmatist | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 16 | [[William-James|William James]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 17 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 18 | [[George Herbert Mead]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 19 | [[Pragmatist Philosophy]] | pragmatist epistemology | — | The Pragmatist Epistemological Context | 32 |
 | 20 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 21 | [[William-James|William James]] | — | — | The Pragmatist Epistemological Context | 32 |
-| 22 | [[pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
+| 22 | [[Pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 23 | [[Democratic Learning Community]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 24 | [[University of Chicago Laboratory School]] | — | — | The Pragmatist Epistemological Context | 34 |
 | 25 | [[Critical-Thinking|critical thinking]] | — | — | The Two Editions and Their Significance | 38 |
@@ -554,7 +554,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Abductive-Reasoning|Abductive Reasoning]]
-- [[American-Pragmatism|American Pragmatism]]
+- [[American-pragmatism|American Pragmatism]]
 - [[Ann-Brown|Ann Brown]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[belief-perseverance|Belief Perseverance]]
@@ -612,7 +612,7 @@ extraction_summary:
 - [[Paulo Freire]]
 - [[Peer Instruction]]
 - [[Plato]]
-- [[pragmatism]]
+- [[Pragmatism]]
 - [[Pragmatist Philosophy]]
 - [[Principles of Psychology (1890)]]
 - [[Problem-Based Learning]]

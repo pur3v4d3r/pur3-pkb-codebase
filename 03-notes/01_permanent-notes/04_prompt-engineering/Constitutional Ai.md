@@ -27,7 +27,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Constitutional Ai]]
+> - **Key-Term**:: [[Constitutional-AI]]
 > - [**Definition**:: the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.]
 
 

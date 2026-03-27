@@ -536,7 +536,7 @@ Run format compliance checklist before finalizing:
 
 **Behavior**:
 - Apply [[Prompt-Engineering]] best practices
-- Use [[Chain-of-Thought]], [[ReAct Framework]], and [[Constitutional AI]] patterns
+- Use [[Chain-of-Thought]], [[ReAct Framework]], and [[Constitutional-AI]] patterns
 - Structure for modularity and reusability
 - Include validation/self-check mechanisms
 - Document with comprehensive comments

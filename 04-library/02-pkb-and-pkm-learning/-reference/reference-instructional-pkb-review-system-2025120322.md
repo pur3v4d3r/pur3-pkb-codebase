@@ -1521,7 +1521,7 @@ _%>
 2. **[[Spaced Repetition Algorithms]]**
    - *Connection*: Review intervals could be dynamically calculated using SM-2 or similar
    - *Depth Potential*: Implement algorithmic interval adjustment based on review success
-   - *Knowledge Graph Role*: Links to [[Cognitive-Science-MOC]], [[Learning-Theory-MOC]]
+   - *Knowledge Graph Role*: Links to [[cognitive-science-moc]], [[Learning-Theory-MOC]]
 
 3. **[[Review Friction Reduction]]**
    - *Connection*: Templates should minimize friction to encourage consistent practice

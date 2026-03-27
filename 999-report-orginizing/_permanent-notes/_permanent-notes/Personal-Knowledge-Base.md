@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ referenced-by-count: 15
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Client-Server-Architecture]]"
   - "[[Construction-Activation-Asymmetry]]"
   - "[[Crystallization-Threshold]]"
@@ -45,7 +46,6 @@ see-also:
   - "[[FastMCP]]"
   - "[[Literature-Review]]"
   - "[[Model-Context-Protocol]]"
-  - "[[Operational-Targets]]"
   - "[[Restructuring]]"
   - "[[Schema-Construction]]"
 
@@ -66,6 +66,7 @@ importance: medium
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Client-Server-Architecture]]
 - [[Construction-Activation-Asymmetry]]
 - [[Crystallization-Threshold]]
@@ -73,7 +74,6 @@ importance: medium
 - [[FastMCP]]
 - [[Literature-Review]]
 - [[Model-Context-Protocol]]
-- [[Operational-Targets]]
 - [[Restructuring]]
 - [[Schema-Construction]]
 - [[Schema-Crystallization-Event]]

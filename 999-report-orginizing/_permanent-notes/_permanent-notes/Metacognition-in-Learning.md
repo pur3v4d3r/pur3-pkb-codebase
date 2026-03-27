@@ -24,8 +24,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,8 +38,8 @@ referenced-by-count: 10
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[.permanent-notes-index]]"
   - "[[Analysis]]"
-  - "[[Cognitive-Load]]"
   - "[[Critical-Thinking]]"
   - "[[Disposition]]"
   - "[[Evaluation]]"
@@ -66,8 +66,8 @@ importance: medium
 
 ## Referenced By
 
+- [[.permanent-notes-index]]
 - [[Analysis]]
-- [[Cognitive-Load]]
 - [[Critical-Thinking]]
 - [[Disposition]]
 - [[Evaluation]]

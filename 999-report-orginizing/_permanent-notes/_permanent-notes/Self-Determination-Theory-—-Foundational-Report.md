@@ -26,30 +26,30 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-24
-updated: 2026-03-24
+created: 2026-03-27
+updated: 2026-03-27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 26
+referenced-by-count: 22
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Amotivation]]"
-  - "[[Autonomy-Orientation]]"
+  - "[[.permanent-notes-index]]"
   - "[[Causality-Orientations-Theory]]"
-  - "[[Ego-Involvement]]"
   - "[[Engagement-Contingent-Reward]]"
   - "[[Free-Choice-Behaviour]]"
   - "[[Functional-Significance]]"
   - "[[Informational-Feedback]]"
   - "[[Integration]]"
   - "[[Internalisation]]"
+  - "[[Internalization]]"
+  - "[[Introjection]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -62,16 +62,14 @@ importance: high
 # Self-Determination-Theory-—-Foundational-Report
 
 > [!definition] **Self-Determination-Theory-—-Foundational-Report**
-> *Stub note — concept referenced by 26 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 26 permanent notes.*
+*Auto-generated stub — referenced by 22 permanent notes.*
 
 ## Referenced By
 
-- [[Amotivation]]
-- [[Autonomy-Orientation]]
+- [[.permanent-notes-index]]
 - [[Causality-Orientations-Theory]]
-- [[Ego-Involvement]]
 - [[Engagement-Contingent-Reward]]
 - [[Free-Choice-Behaviour]]
 - [[Functional-Significance]]
@@ -79,13 +77,15 @@ importance: high
 - [[Integration]]
 - [[Internalisation]]
 - [[Internalization]]
-- [[Intrinsic-Motivation]]
 - [[Introjection]]
 - [[Motivational-Asymmetry-and-Instructional-Design-Sequencing]]
 - [[OIT's-Continuum-as-Motivational-Landscape]]
 - [[Organismic-Integration-Tendency]]
 - [[Overjustification-Effect]]
 - [[Perceived-Competence]]
-- [[Perceived-Locus-of-Causality]]
 - [[Regulatory-Style]]
-- *...and 6 more permanent notes*
+- [[Relative-Autonomy-Index]]
+- [[Reward-Contingency-Types]]
+- [[Self-Determination]]
+- [[Surveillance]]
+- *...and 2 more permanent notes*

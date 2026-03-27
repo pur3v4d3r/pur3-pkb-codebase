@@ -449,7 +449,7 @@ Organization transforms interpreted information into usable knowledge structures
 
 ### Foundational Concepts
 
-The second strand addresses the *critical* dimension of critical thinking—systematic evaluation of existing ideas, arguments, and reasoning. This reflects the philosophical tradition of critical thinking, emphasizing [[Logical Reasoning]], [[Argument-Analysis]], and [[Evidence-Based Reasoning]]. Where Strand 1 focuses on building knowledge, Strand 2 focuses on assessing the quality and validity of knowledge claims.
+The second strand addresses the *critical* dimension of critical thinking—systematic evaluation of existing ideas, arguments, and reasoning. This reflects the philosophical tradition of critical thinking, emphasizing [[Logical-Reasoning]], [[Argument-Analysis]], and [[Evidence-Based Reasoning]]. Where Strand 1 focuses on building knowledge, Strand 2 focuses on assessing the quality and validity of knowledge claims.
 
 Evaluation in the ACER Framework requires understanding of logical principles, standards of evidence, and rational analysis. It encompasses skills associated with [[Informal Logic]], [[Argumentation-Theory]], and [[Scientific-Reasoning]]. This strand is particularly crucial for identifying [[Cognitive-Biases]], [[Logical Fallacies]], and [[misinformation]].
 

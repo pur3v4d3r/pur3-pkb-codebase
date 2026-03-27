@@ -37,7 +37,7 @@ review-priority: medium
 > > **The Principle of Use-Dependent Plasticity**
 > > The brain's structure literally reflects your behavior patterns. Whatever you practice—whether productive or counterproductive—becomes neurologically reinforced. This is why [[Deliberate-Practice]] and intentional habit formation are foundational to self-improvement.
 > 
-> - Psychologist [[K. Anders Ericsson]], a professor of [[Psychology]] at Florida State University, was a pioneer in researching [[Deliberate-Practice]] and what it means.
+> - Psychologist [[K. Anders Ericsson]], a professor of [[psychology]] at Florida State University, was a pioneer in researching [[Deliberate-Practice]] and what it means.
 
 
 

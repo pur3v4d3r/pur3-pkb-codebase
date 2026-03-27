@@ -51,7 +51,7 @@ Aliases: [[Claude LLM]], [[Anthropic-Claude]], [[Claude Prompt Engineering]], [[
 
 > [!definition]
 > - **Key-Term**:: [[CLAUDE]]
-> - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
+> - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional-AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
 
 ### The Claude Model Family
 
@@ -65,7 +65,7 @@ Claude represents a tiered approach to [[AI capabilities]], with each model opti
 
 > [!key-claim]
 > **Central Principle of Claude Architecture**
-> Claude's design philosophy centers on "[[Constitutional AI]]"—the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.
+> Claude's design philosophy centers on "[[Constitutional-AI]]"—the model is trained not just to be capable, but to be helpful, harmless, and honest according to a predefined set of principles. This makes Claude particularly responsive to structured, principle-based prompting and explicit value alignment in instructions.
 
 ### Core Capabilities Matrix
 
@@ -114,9 +114,9 @@ Prompt engineering for Claude operates on fundamentally different principles tha
 
 **Principle 1: Explicit Over Implicit**. Claude's training emphasizes following explicit instructions over inferring implicit intent. Where other models might successfully "read between the lines," Claude performs optimally when instructions are stated directly. This doesn't mean verbose—it means clear, unambiguous, and structurally obvious. A prompt that says "Analyze this with attention to X, Y, and Z" will consistently outperform one that expects Claude to infer that these are important dimensions.
 
-**Principle 2: Structure Enhances Reasoning**. Claude's architecture is particularly receptive to structured inputs because its [[attention mechanism]] can more efficiently process and maintain relationships between clearly delineated components. When you wrap instructions in `<tags>`, you're not just organizing for human readability—you're creating computational scaffolding that guides the model's internal reasoning process. This is why XML-structured prompts often produce dramatically better results than free-form prose instructions.
+**Principle 2: Structure Enhances Reasoning**. Claude's architecture is particularly receptive to structured inputs because its [[Attention-Mechanism]] can more efficiently process and maintain relationships between clearly delineated components. When you wrap instructions in `<tags>`, you're not just organizing for human readability—you're creating computational scaffolding that guides the model's internal reasoning process. This is why XML-structured prompts often produce dramatically better results than free-form prose instructions.
 
-**Principle 3: Constitutional Alignment is a Feature**. Claude's [[Constitutional AI]] training means it actively seeks to understand the *values* and *goals* behind requests. Prompts that explicitly state desired outcomes, constraints, and success criteria align with this training, producing more reliable results. This is why prompts that begin with "Your goal is to…" or "The user needs…" often work better than purely imperative instructions.
+**Principle 3: Constitutional Alignment is a Feature**. Claude's [[Constitutional-AI]] training means it actively seeks to understand the *values* and *goals* behind requests. Prompts that explicitly state desired outcomes, constraints, and success criteria align with this training, producing more reliable results. This is why prompts that begin with "Your goal is to…" or "The user needs…" often work better than purely imperative instructions.
 
 **Principle 4: Show, Don't Just Tell**. Claude's training incorporates extensive [[Few-Shot-Learning]] capabilities. Providing examples of desired output, even a single high-quality example, dramatically improves Claude's ability to match style, format, and quality. This is particularly important for specialized formats or domain-specific conventions.
 
@@ -656,7 +656,7 @@ Too vague, no root cause identified, no specific fix proposed, not actionable.
 
 **Purpose**: Explicitly defines what Claude should NOT do, limits to respect, or boundaries to stay within.
 
-**Why It Works**: Claude's [[Constitutional AI]] training makes it particularly responsive to explicit constraint specification. Negative constraints often prevent common failure modes.
+**Why It Works**: Claude's [[Constitutional-AI]] training makes it particularly responsive to explicit constraint specification. Negative constraints often prevent common failure modes.
 
 **Optimal Phrasing Patterns**:
 
@@ -936,7 +936,7 @@ Document your answers to these questions, then provide your final analysis.
 
 ### Why XML Works for Claude
 
-Claude's preference for XML-structured prompts is not merely a convenience—it reflects fundamental aspects of how the model's [[attention mechanism]] processes input and how its training shaped pattern recognition.
+Claude's preference for XML-structured prompts is not merely a convenience—it reflects fundamental aspects of how the model's [[Attention-Mechanism]] processes input and how its training shaped pattern recognition.
 
 **Tokenization Alignment**: XML tags align naturally with Claude's [[byte-pair encoding]] tokenizer. Opening and closing tags typically form complete token units, creating clean semantic boundaries that the model can efficiently process. When you write `<persona>Expert researcher</persona>`, the model treats the tags as clear delimiters, making the enclosed content easier to isolate and process as a discrete unit.
 
@@ -2566,7 +2566,7 @@ Explanation succeeds if reader can:
 > 
 > Effective Claude prompting reflects a partnership model rather than a command-and-control paradigm. Claude is not a database to query or a tool to command, but a reasoning engine to guide. The most effective prompts establish clear goals, provide necessary context, demonstrate desired patterns, specify constraints, and then trust Claude's capabilities to execute.
 >
-> This philosophy emerges from Claude's [[Constitutional AI]] training, which cultivates helpfulness, harmlessness, and honesty as core values. Prompts that align with these values—that clarify intent, acknowledge limitations, and explicitly request reasoning—produce consistently superior results.
+> This philosophy emerges from Claude's [[Constitutional-AI]] training, which cultivates helpfulness, harmlessness, and honesty as core values. Prompts that align with these values—that clarify intent, acknowledge limitations, and explicitly request reasoning—produce consistently superior results.
 
 ### Cognitive Models for Prompt Design
 

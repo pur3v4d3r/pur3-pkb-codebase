@@ -372,7 +372,7 @@ extraction_summary:
 > [!important] Untitled
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 
-> 1.  `[[Constitutional AI (CAI)]]`
+> 1.  `[[Constitutional-AI|Constitutional AI (CAI)]]`
 > 1.  `[[Persona-Driven Prompting]]`
 > 1.  `[[Structural Scaffolding (LLMs)]]`
 
@@ -399,7 +399,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Cognitive-Science|Cognitive Science]]
-- [[Constitutional AI (CAI)]]
+- [[Constitutional-AI|Constitutional AI (CAI)]]
 - [[Human-Computer Interaction (HCI)]]
 - [[pedagogy]]
 - [[Persona-Driven Prompting]]
@@ -412,7 +412,7 @@ extraction_summary:
 | 1 | [[Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 338 |
 | 2 | [[Cognitive-Science|Cognitive Science]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
 | 3 | [[pedagogy]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
-| 4 | [[Constitutional AI (CAI)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 413 |
+| 4 | [[Constitutional-AI|Constitutional AI (CAI)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 413 |
 | 5 | [[Persona-Driven Prompting]] | — | — | 9. 🧠Key Questions for Active Reading ... | 414 |
 | 6 | [[Structural Scaffolding (LLMs)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 415 |
 
@@ -496,7 +496,7 @@ Write a 500-word description of a traveler arriving at the gates of an ancient, 
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Cognitive-Science|Cognitive Science]]
-- [[Constitutional AI (CAI)]]
+- [[Constitutional-AI|Constitutional AI (CAI)]]
 - [[Human-Computer Interaction (HCI)]]
 - [[pedagogy]]
 - [[Persona-Driven Prompting]]

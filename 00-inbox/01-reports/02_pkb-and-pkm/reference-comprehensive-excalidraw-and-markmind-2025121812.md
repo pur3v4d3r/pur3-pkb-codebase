@@ -685,7 +685,7 @@ Use Templater scripts to:
 # Part II: MarkMind Plugin
 ## 🧠 Overview & Capabilities
 > [!definition] MarkMind
-> [**MarkMind**:: A comprehensive [[Mind-Mapping]], [[outlining]], and [[PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
+> [**MarkMind**:: A comprehensive [[Mind-Mapping]], [[outlining]], and [[PDF-annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
 [**Creator**:: MarkMind Team (MarkMindCkm on GitHub)]^verified
 [**Core Functionality**:: Three integrated modes—Mind Map creation, Outline structuring, and PDF annotation—all working with markdown-native files stored in your vault.]^established
 ### What MarkMind Provides

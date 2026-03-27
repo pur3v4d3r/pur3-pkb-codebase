@@ -621,7 +621,7 @@ This sequencing prioritizes the gaps most immediately relevant to your stated go
         
         <report number="02" title="The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance">
             <central_synthesis>
-                [[Epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] collectively describe a single *epistemological posture* — treating one's beliefs as provisional constructions with practical consequences. This posture is structurally identical to metacognitive self-regulation.
+                [[epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] collectively describe a single *epistemological posture* — treating one's beliefs as provisional constructions with practical consequences. This posture is structurally identical to metacognitive self-regulation.
             </central_synthesis>
             <frameworks>Epistemology, Pragmatic Maxim (Peirce, James, Dewey), Fallibilism (Peirce, Popper), Constructivism (Piaget, Von Glasersfeld), Schema Theory (Bartlett, Rumelhart)</frameworks>
             <synthesis_moves>
@@ -1635,7 +1635,7 @@ related:
   - "[[Cognitive-Bias]]"
   - "[[Epistemic Virtues]]"
   - "[[Self-Regulated-Learning]]"
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Socratic-Method]]"
   - "[[Growth-Mindset]]"
 
@@ -2169,7 +2169,7 @@ prerequisites:
   - "[[Report 01 — The Inquiry Engine]]"
 
 related:
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
   - "[[Constructivism (Educational Psychology)]]"
   - "[[Schema-Theory]]"
   - "[[Metacognitive-Self-Regulation]]"
@@ -2180,7 +2180,7 @@ related:
 
 broader:
   - "[[Philosophy of Mind]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
   - "[[Educational-Psychology]]"
   - "[[Cognitive-Science]]"
 
@@ -3742,7 +3742,7 @@ The argument proceeds in layers. First, we examine the conceptual architecture o
 
 ### 🏛️ Virtue Epistemology: The Architecture of Intellectual Character
 
-[[Virtue-Epistemology]] as a field emerged in the 1980s as a response to perceived limitations in both [[Epistemology|traditional epistemology]] (with its exclusive focus on justified belief and propositional knowledge) and the then-dominant [[Reliabilism]] that equated epistemic virtue with reliable belief-forming processes like perception and memory. The key move in what became the responsibilist strand of virtue epistemology was to shift focus from *reliable cognitive faculties* (what reliabilism emphasized) to *cultivated intellectual character traits* — to the dimensions of cognitive character that explain why some people are systematically better thinkers than others, not because they have better perceptual systems, but because they have developed better cognitive habits, dispositions, and motivations.
+[[Virtue-Epistemology]] as a field emerged in the 1980s as a response to perceived limitations in both [[epistemology|traditional epistemology]] (with its exclusive focus on justified belief and propositional knowledge) and the then-dominant [[Reliabilism]] that equated epistemic virtue with reliable belief-forming processes like perception and memory. The key move in what became the responsibilist strand of virtue epistemology was to shift focus from *reliable cognitive faculties* (what reliabilism emphasized) to *cultivated intellectual character traits* — to the dimensions of cognitive character that explain why some people are systematically better thinkers than others, not because they have better perceptual systems, but because they have developed better cognitive habits, dispositions, and motivations.
 
 > [!definition] 📖 Intellectual Virtues (Responsibilist Account)
 > **Intellectual virtues**, in the responsibilist tradition inaugurated by [[Linda-Zagzebski]] and developed by [[Jason-Baehr]] and [[Heather-Battaly]], are stable, cultivated character traits whose exercise reliably promotes the acquisition of truth, the avoidance of error, and the achievement of epistemic goods (understanding, justified belief, intellectual growth). They have a two-component structure: a *motivational component* (genuine care for truth, understanding, and epistemic integrity) and a *competence component* (skill in the cognitive activities the virtue involves). Crucially, they are "personal" rather than merely sub-personal — they express the agency and character of the knower, not just the mechanical operation of their cognitive faculties.
@@ -5225,7 +5225,7 @@ The research literature supports this integrated picture more directly than migh
 
 ### The Epistemological Layer: The Stance of the Inquiring Mind
 
-[[Fallibilism]], [[pragmatism]], and [[Constructivism]], as integrated in Report 02, establish the *epistemological posture* of the inquirer who has been activated by aporic receptivity. This posture — treating beliefs as provisional constructions with practical consequences, open to revision in light of evidence, never claimed as certainly or finally true — is the stance that makes productive inquiry possible rather than merely activating it. Aporic receptivity without the fallibilist-constructivist posture would be pure skepticism: confusion without the epistemological resources to make that confusion productive. The fallibilist posture provides what inquiry needs to move forward: the recognition that one's current beliefs are the best available construction of reality, not reality itself, and therefore that revision is not defeat but development.
+[[Fallibilism]], [[Pragmatism]], and [[Constructivism]], as integrated in Report 02, establish the *epistemological posture* of the inquirer who has been activated by aporic receptivity. This posture — treating beliefs as provisional constructions with practical consequences, open to revision in light of evidence, never claimed as certainly or finally true — is the stance that makes productive inquiry possible rather than merely activating it. Aporic receptivity without the fallibilist-constructivist posture would be pure skepticism: confusion without the epistemological resources to make that confusion productive. The fallibilist posture provides what inquiry needs to move forward: the recognition that one's current beliefs are the best available construction of reality, not reality itself, and therefore that revision is not defeat but development.
 
 ### The Motivational Layer: The Engine of Sustained Engagement
 
@@ -6131,7 +6131,7 @@ broader:
   - "[[Philosophy of Mind]]"
   - "[[Cognitive-Science]]"
   - "[[Virtue-Ethics]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -7738,7 +7738,7 @@ related:
   - "[[Consciousness Studies]]"
   - "[[Computational Psychiatry]]"
   - "[[Metacognition]]"
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
 broader:
   - "[[Philosophy of Cognitive Science]]"
   - "[[Neurophenomenology]]"
@@ -8926,7 +8926,7 @@ This report is not a summary. A summary of what has come before would be redunda
 
 The decision to organize the series into three tiers was not arbitrary. It reflected a genuine structural feature of the examined life: that excellent thinking, living well, and meaningful existence are related not as means to end — thinking well as a tool for living well, living well as a tool for meaning — but as *progressively deeper aspects of a single phenomenon*. To see this clearly, one needs to hold all three tiers together.
 
-[[Tier-1-—-Epistemic-Architecture]] describes the cognitive infrastructure that makes reflective engagement with the world possible at all. It begins, appropriately, with activation — with [[Dewey's-Reflective-Thinking]] and the [[Socratic-Method]] converging on the insight that inquiry is not a skill one deploys but a mode of encountering the world when one is *genuinely disrupted* by it. The "felt difficulty" that Dewey identifies as the trigger of reflective thought and the *aporia* that Socrates systematically induced in his interlocutors are, as Report 01 demonstrated, the same cognitive event described from different philosophical traditions: the moment when the smooth flow of [[System-1]] automaticity is interrupted, and the world demands that one actually think. Report 02 established the epistemological posture that the activated inquirer brings: [[Fallibilism]], [[pragmatism]], and [[Constructivism]] converging on the recognition that belief is never a fixed possession but an ongoing construction, always provisional, always in principle revisable. Report 03 asked why anyone would sustain the effort required by this epistemological posture, and found the answer in [[Self-Determination-Theory]]'s account of intrinsic motivation and in Stoic *[[Prohairesis]]* — the recognition that autonomous, self-authored engagement is both cognitively necessary for deep thought and the primary condition of psychological vitality.
+[[Tier-1-—-Epistemic-Architecture]] describes the cognitive infrastructure that makes reflective engagement with the world possible at all. It begins, appropriately, with activation — with [[Dewey's-Reflective-Thinking]] and the [[Socratic-Method]] converging on the insight that inquiry is not a skill one deploys but a mode of encountering the world when one is *genuinely disrupted* by it. The "felt difficulty" that Dewey identifies as the trigger of reflective thought and the *aporia* that Socrates systematically induced in his interlocutors are, as Report 01 demonstrated, the same cognitive event described from different philosophical traditions: the moment when the smooth flow of [[System-1]] automaticity is interrupted, and the world demands that one actually think. Report 02 established the epistemological posture that the activated inquirer brings: [[Fallibilism]], [[Pragmatism]], and [[Constructivism]] converging on the recognition that belief is never a fixed possession but an ongoing construction, always provisional, always in principle revisable. Report 03 asked why anyone would sustain the effort required by this epistemological posture, and found the answer in [[Self-Determination-Theory]]'s account of intrinsic motivation and in Stoic *[[Prohairesis]]* — the recognition that autonomous, self-authored engagement is both cognitively necessary for deep thought and the primary condition of psychological vitality.
 
 Reports 04 through 07 built out the cognitive architecture: [[Schema-Theory]] and the [[Zone-of-Proximal-Development]] describing how understanding is constructed at the edge of existing competence (Report 04); [[Virtue-Epistemology]] and [[Stoic-Virtue-Ethics]] revealing that intellectual virtues are functional cognitive tools, each correcting a specific systematic reasoning failure (Report 05); [[Dual-Process-Theory]] and [[Stoic-Prosoche]] demonstrating that governing the System 1 processes that generate automatic impressions is both cognitively necessary and philosophically virtuous (Report 06); and [[Self-Regulated-Learning]] establishing that the mature inquirer does not merely use cognitive tools but becomes the architect of their own learning architecture (Report 07). Report 08 integrated all of Tier 1, arguing that these seven dimensions together describe not a set of skills but a coherent *epistemic character* — what an excellent thinker is, rather than merely what they do.
 
