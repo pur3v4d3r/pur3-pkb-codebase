@@ -29,15 +29,14 @@
     "callout-mod-neon",
     "callout-mod-16-floating-light",
     "callout-mod-card",
-    "callout-mod-12-icon-style-variations",
-    "callout-icon",
     "callout-mod-15-premium-card",
     "01-glowing-headers",
     "square-bracket-glow",
     "custom-ordered-list-numbers-(colored)-",
     "custom-horizontal-rules-",
-    "unified-callout-system",
-    "callout-mod-raised"
+    "callout-mod-raised",
+    "pur3v4d3r-ultimate-callout-system",
+    "dark-shadow-callout-system"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
@@ -46,7 +45,7 @@
   "showRibbon": false,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "theme": "obsidian",
   "accentColor": "#ff0000"
 }
