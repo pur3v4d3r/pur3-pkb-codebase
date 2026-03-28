@@ -1,0 +1,1042 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ UNIFIED CALLOUT SYSTEM v3.0 - Modular Architecture
+ Purpose: Single-file callout system replacing 15+ snippet files
+ Author: Pur3v4d3r (designed by Claude)
+ Date: 2025-12-27
+ Theme: Dark Cyberspace with Crimson accents
+ 
+ FEATURES:
+ - 60+ semantic callout types in single registry
+ - 5 visual style variants (default/minimal/neon/outlined/compact)
+ - Switchable via body classes (no snippet toggling required)
+ - Complete design token system
+ - Advanced animation library
+ - Maintainable and extensible
+ 
+ USAGE:
+ 1. Enable this single snippet
+ 2. Add body class for style variant:
+    - body.callout-variant-minimal
+    - body.callout-variant-neon
+    - body.callout-variant-outlined
+    - body.callout-variant-compact
+    - body.callout-variant-raised
+ 3. Use callouts: [!callout-type] in markdown
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   🎨 SECTION 1: DESIGN TOKEN SYSTEM
+   Central repository for all customization variables
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ────────────────────────────────────────────────────────────────────────
+     🌈 COLOR PALETTE - Crimson & Greyscale Foundation
+     ──────────────────────────────────────────────────────────────────────── */
+  
+  /* Primary Crimson Spectrum */
+  --callout-crimson: 229, 0, 0;              /* #E50000 - Vivid */
+  --callout-crimson-bright: 255, 0, 0;       /* #FF0000 - Bright */
+  --callout-crimson-dim: 204, 0, 0;          /* #CC0000 - Dim */
+  --callout-crimson-dark: 179, 0, 0;         /* #B30000 - Dark */
+  --callout-crimson-ultra: 153, 0, 0;        /* #990000 - Ultra Dim */
+  --callout-crimson-soft: 255, 102, 102;     /* #FF6666 - Soft */
+  
+  /* Greyscale Hierarchy */
+  --callout-grey-high: 224, 224, 224;        /* #E0E0E0 - High emphasis */
+  --callout-grey-medium: 163, 163, 163;      /* #A3A3A3 - Medium */
+  --callout-grey-low: 122, 122, 122;         /* #7A7A7A - Low */
+  
+  /* Accent Colors */
+  --callout-orange: 255, 77, 0;              /* #FF4D00 - Warm accent */
+  
+  /* Structural Colors */
+  --callout-disabled: 90, 90, 90;            /* #5A5A5A */
+  --callout-border: 42, 42, 42;              /* #2A2A2A */
+  --callout-surface: 30, 30, 30;             /* #1E1E1E */
+  
+  /* ────────────────────────────────────────────────────────────────────────
+     🎭 GRADIENT DEFINITIONS
+     ──────────────────────────────────────────────────────────────────────── */
+  
+  --gradient-crimson: linear-gradient(135deg,
+    rgba(var(--callout-crimson), 0.08) 0%,
+    rgba(var(--callout-crimson-bright), 0.04) 100%);
+    
+  --gradient-grey: linear-gradient(135deg,
+    rgba(var(--callout-grey-medium), 0.08) 0%,
+    rgba(var(--callout-grey-low), 0.04) 100%);
+    
+  --gradient-monochrome: linear-gradient(135deg,
+    rgba(var(--callout-grey-high), 0.05) 0%,
+    rgba(var(--callout-grey-medium), 0.05) 50%,
+    rgba(var(--callout-grey-low), 0.05) 100%);
+  
+  /* ────────────────────────────────────────────────────────────────────────
+     🏗️ STRUCTURAL PARAMETERS
+     ──────────────────────────────────────────────────────────────────────── */
+  
+  /* Border System */
+  --callout-border-width: 1.5px;
+  --callout-border-width-thin: 1px;
+  --callout-border-width-medium: 2px;
+  --callout-border-width-thick: 4px;
+  --callout-border-radius: 16px;
+  --callout-inner-radius: 12px;
+  
+  /* Spacing System */
+  --callout-padding: 14px 10px;
+  --callout-padding-small: 8px 6px;
+  --callout-title-padding: 1px 18px;
+  --callout-margin: 0.5em 0;
+  --callout-gap: 5px;
+  
+  /* Opacity Levels */
+  --callout-title-bg-opacity: 0.15;
+  --callout-content-bg-opacity: 0.05;
+  --callout-border-opacity: 0.6;
+  
+  /* ────────────────────────────────────────────────────────────────────────
+     ✨ DEPTH & SHADOW SYSTEM
+     ──────────────────────────────────────────────────────────────────────── */
+  
+  --shadow-depth-1: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-depth-2: 0 4px 16px rgba(0, 0, 0, 0.4);
+  --shadow-depth-3: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --glow-intensity: 0.3;
+  
+  /* ────────────────────────────────────────────────────────────────────────
+     🎬 ANIMATION PARAMETERS
+     ──────────────────────────────────────────────────────────────────────── */
+  
+  --animation-speed-fast: 0.2s;
+  --animation-speed-normal: 0.35s;
+  --animation-speed-slow: 0.5s;
+  --animation-easing: cubic-bezier(0.4, 0.0, 0.2, 1);
+  --animation-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   🎬 SECTION 2: ANIMATION KEYFRAME LIBRARY
+   Reusable animations for all callout types
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@keyframes slideInFromLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes glowPulse {
+  0%, 100% {
+    box-shadow:
+      0 0 0 rgba(var(--callout-color), 0),
+      var(--shadow-depth-2);
+  }
+  50% {
+    box-shadow:
+      0 0 20px rgba(var(--callout-color), var(--glow-intensity)),
+      0 0 40px rgba(var(--callout-color), calc(var(--glow-intensity) * 0.5)),
+      var(--shadow-depth-2);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -1000px 0; }
+  100% { background-position: 1000px 0; }
+}
+
+@keyframes iconBounce {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.1) rotate(-5deg); }
+  75% { transform: scale(1.15) rotate(5deg); }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   🏗️ SECTION 3: BASE CALLOUT ARCHITECTURE
+   Core structure applied to all callout types
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout {
+  /* Structural Foundation */
+  position: relative !important;
+  margin: var(--callout-margin) !important;
+  border-radius: var(--callout-border-radius) !important;
+  border-left: var(--callout-border-width-thick) solid rgb(var(--callout-color)) !important;
+  background: transparent !important;
+  box-shadow: var(--shadow-depth-1) !important;
+  overflow: hidden !important;
+  padding: 8px !important;
+  
+  /* Animation */
+  animation: fadeInScale var(--animation-speed-normal) var(--animation-easing);
+  
+  /* Smooth Transitions */
+  transition:
+    transform var(--animation-speed-normal) var(--animation-easing),
+    box-shadow var(--animation-speed-normal) var(--animation-easing),
+    border-color var(--animation-speed-fast) var(--animation-easing);
+}
+
+/* Top Accent Line (glow on hover) */
+.callout::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(var(--callout-color), 0.5) 50%,
+    transparent 100%);
+  opacity: 0;
+  transition: opacity var(--animation-speed-normal);
+  pointer-events: none;
+}
+
+.callout:hover::before {
+  opacity: 1;
+}
+
+/* Hover Elevation */
+.callout:hover {
+  transform: translateY(-2px);
+  border-left-color: rgb(var(--callout-color));
+  box-shadow:
+    0 0 20px rgba(var(--callout-color), var(--glow-intensity)),
+    var(--shadow-depth-2);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   📝 SECTION 4: TITLE & CONTENT STYLING
+   Typography and content area formatting
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-title {
+  position: relative !important;
+  padding: var(--callout-title-padding) !important;
+  background: rgba(var(--callout-color), var(--callout-title-bg-opacity)) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 600 !important;
+  font-size: 0.95em !important;
+  letter-spacing: 0.3px !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: var(--callout-gap) !important;
+  transition:
+    background var(--animation-speed-fast) var(--animation-easing),
+    color var(--animation-speed-fast);
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--callout-color), calc(var(--callout-title-bg-opacity) * 1.3)) !important;
+}
+
+/* Title Underline Glow */
+.callout-title::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(var(--callout-color), 0.6) 50%,
+    transparent 100%);
+  opacity: 0;
+  transition: opacity var(--animation-speed-normal);
+  pointer-events: none;
+}
+
+.callout:hover .callout-title::after {
+  opacity: 1;
+}
+
+/* Content Area */
+.callout-content {
+  padding: var(--callout-padding) !important;
+  background: rgba(var(--callout-color), var(--callout-content-bg-opacity)) !important;
+  transition: background var(--animation-speed-fast) !important;
+}
+
+.callout:hover .callout-content {
+  background: rgba(var(--callout-color), calc(var(--callout-content-bg-opacity) * 1.5)) !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   📝 TEXT FORMATTING SUPPORT
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout-content strong,
+.callout-content b,
+.callout-title strong,
+.callout-title b {
+  font-weight: 700 !important;
+  color: #E50000 !important;  /* Vivid Crimson */
+}
+
+.callout-content em,
+.callout-content i,
+.callout-title em,
+.callout-title i {
+  font-style: italic;
+  color: inherit;
+}
+
+.callout-content strong em,
+.callout-content em strong,
+.callout-content b i,
+.callout-content i b {
+  font-weight: 700;
+  font-style: italic;
+  color: #E50000;
+}
+
+/* Icon Styling */
+.callout-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform var(--animation-speed-normal) var(--animation-easing);
+}
+
+.callout:hover .callout-icon {
+  transform: scale(1.1) rotate(5deg);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   🎨 SECTION 5: CALLOUT TYPE REGISTRY
+   Semantic callout definitions with color assignments
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────────
+   💎 CRIMSON FAMILY - Knowledge, Structure, Primary Content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="key-claim"],
+.callout[data-callout="evidence"],
+.callout[data-callout="insight"],
+.callout[data-callout="principle-point"],
+.callout[data-callout="definition"],
+.callout[data-callout="what-this-does"],
+.callout[data-callout="methodology-and-sources"],
+.callout[data-callout="overview"],
+.callout[data-callout="to-do"],
+.callout[data-callout="project-link"],
+.callout[data-callout="hub-moc"],
+.callout[data-callout="connections-and-links"],
+.callout[data-callout="core-principle"],
+.callout[data-callout="argument"],
+.callout[data-callout="atomic-concept"],
+.callout[data-callout="cosmos-concept"],
+.callout[data-callout="equation"],
+.callout[data-callout="thought-experiment"],
+.callout[data-callout="analogy"],
+.callout[data-callout="math"],
+.callout[data-callout="analysis-rhetorical"],
+.callout[data-callout="analysis-logical"],
+.callout[data-callout="analysis-contextual"],
+.callout[data-callout="analysis-cognitive"],
+.callout[data-callout="feynman-technique"],
+.callout[data-callout="goal"],
+.callout[data-callout="objective"],
+.callout[data-callout="target"],
+.callout[data-callout="strategy"],
+.callout[data-callout="tactic"],
+.callout[data-callout="method"],
+.callout[data-callout="discovery"],
+.callout[data-callout="learning"],
+.callout[data-callout="comprehensive-reference"],
+.callout[data-callout="key"],
+.callout[data-callout="purpose"],
+.callout[data-callout="important"],
+.callout[data-callout="decision"],
+.callout[data-callout="action"],
+.callout[data-callout="outcome"],
+.callout[data-callout="the-goal"],
+.callout[data-callout="the-mission"],
+.callout[data-callout="the-purpose"] {
+  --callout-color: var(--callout-crimson);
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🔴 DEEP CRIMSON - Critical/Warning Content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="alert"],
+.callout[data-callout="critical"],
+.callout[data-callout="danger"],
+.callout[data-callout="attention"],
+.callout[data-callout="error"],
+.callout[data-callout="bug"],
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"],
+.callout[data-callout="blocked"] {
+  --callout-color: var(--callout-crimson-dim);
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🟠 ORANGE ACCENT - Experimental/Active Content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="experiment"],
+.callout[data-callout="test"],
+.callout[data-callout="lab"],
+.callout[data-callout="stage"],
+.callout[data-callout="demo"],
+.callout[data-callout="presentation"],
+.callout[data-callout="project"],
+.callout[data-callout="workflow"],
+.callout[data-callout="process"],
+.callout[data-callout="phase-one"],
+.callout[data-callout="phase-two"],
+.callout[data-callout="phase-three"],
+.callout[data-callout="phase-four"],
+.callout[data-callout="plan"],
+.callout[data-callout="kanban"],
+.callout[data-callout="project-kickstarter"],
+.callout[data-callout="your-new-workflow"],
+.callout[data-callout="progress"] {
+  --callout-color: var(--callout-orange);
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   ✅ SUCCESS/COMPLETION - Positive States (Green-tinted Grey)
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"],
+.callout[data-callout="complete"],
+.callout[data-callout="read-complete"] {
+  --callout-color: 122, 163, 122; /* Green-tinted grey */
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   ⚪ GREYSCALE - Neutral/Supporting Content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="note"],
+.callout[data-callout="info"],
+.callout[data-callout="context"],
+.callout[data-callout="background"],
+.callout[data-callout="random"],
+.callout[data-callout="tangent"],
+.callout[data-callout="lunar"],
+.callout[data-callout="dream"],
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"],
+.callout[data-callout="quote"],
+.callout[data-callout="cite"],
+.callout[data-callout="example"],
+.callout[data-callout="code"],
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"],
+.callout[data-callout="system"],
+.callout[data-callout="meta"],
+.callout[data-callout="debug"],
+.callout[data-callout="theory"],
+.callout[data-callout="hypothesis"],
+.callout[data-callout="outline"],
+.callout[data-callout="draft"],
+.callout[data-callout="review"],
+.callout[data-callout="feedback"],
+.callout[data-callout="description"],
+.callout[data-callout="disposition"],
+.callout[data-callout="thoughts"],
+.callout[data-callout="custom"],
+.callout[data-callout="highlight"],
+.callout[data-callout="document"],
+.callout[data-callout="capture"],
+.callout[data-callout="revist"],
+.callout[data-callout="message"],
+.callout[data-callout="how-to-use"],
+.callout[data-callout="how-to-use-this"],
+.callout[data-callout="starting-message"],
+.callout[data-callout="helpful-tip"],
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="the-start"],
+.callout[data-callout="related-topics-to-consider"],
+.callout[data-callout="topic-idea"],
+.callout[data-callout="links-to-related-notes"],
+.callout[data-callout="start-of-chat"],
+.callout[data-callout="further-exploration"],
+.callout[data-callout="use-cases-and-examples"],
+.callout[data-callout="idea"] {
+  --callout-color: var(--callout-grey-medium);
+}
+
+/* ────────────────────────────────────────────────────────────────────────   📋 TASK/WORKFLOW MANAGEMENT - Medium Grey with Orange accent
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="task"],
+.callout[data-callout="todo"],
+.callout[data-callout="tasks"],
+.callout[data-callout="pending"],
+.callout[data-callout="reading-in-progress"],
+.callout[data-callout="read-asap"],
+.callout[data-callout="meeting"],
+.callout[data-callout="agenda"] {
+  --callout-color: var(--callout-grey-medium);
+  border-left: 3px solid rgba(255, 77, 0, 0.6); /* Orange accent */
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🧠 RESEARCH/ANALYSIS - Academic and analytical content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="research"],
+.callout[data-callout="analysis"],
+.callout[data-callout="casual-link"],
+.callout[data-callout="no-evidence"],
+.callout[data-callout="zettelkasten-incubator"],
+.callout[data-callout="pre-read-questions"],
+.callout[data-callout="pre-read-thoughts"],
+.callout[data-callout="ask-yourself-this"] {
+  --callout-color: var(--callout-grey-high);
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🔧 TOOLS/TECHNICAL - Technical and tool-related content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="note-toolbar"],
+.callout[data-callout="problem-clarity-solution"],
+.callout[data-callout="shot-idea"],
+.callout[data-callout="lighting-setup"],
+.callout[data-callout="composition"],
+.callout[data-callout="post-processing"],
+.callout[data-callout="important-links"],
+.callout[data-callout="constraints-and-pitfalls"],
+.callout[data-callout="quick-reference"],
+.callout[data-callout="how-this-dashboard-works"],
+.callout[data-callout="changes-from-prompting-dashboard"] {
+  --callout-color: var(--callout-grey-low);
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🤔 PHILOSOPHICAL/CONCEPTUAL - Deep thinking and philosophy
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="confusion"],
+.callout[data-callout="connection-ideas"],
+.callout[data-callout="choice-a"],
+.callout[data-callout="choice-b"],
+.callout[data-callout="the-philosophy"] {
+  --callout-color: var(--callout-grey-medium);
+  border-style: dashed;
+  border-width: 2px;
+  border-left-style: solid;
+  border-left-width: 3px;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🤖 AI/LLM SPECIFIC - AI and language model related content
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="gemini-pro-response"],
+.callout[data-callout="claude-thinking"],
+.callout[data-callout="key-changes"] {
+  --callout-color: 255, 199, 0; /* Golden yellow from data.json */
+  border-left-width: 3px;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   🌟 SPECIAL CUSTOM CALLOUTS - Unique user-defined types
+   ──────────────────────────────────────────────────────────────────────── */
+
+.callout[data-callout="stoic-quote"] {
+  --callout-color: 255, 199, 0; /* Golden yellow */
+  border-left-width: 4px;
+  font-style: italic;
+}
+
+.callout[data-callout="in-note-metadata"] {
+  --callout-color: 158, 108, 211; /* Purple from data.json */
+  border-left-width: 2px;
+  font-size: 0.9em;
+}
+
+.callout[data-callout="caltab"],
+.callout[data-callout="your-name"] {
+  --callout-color: 255, 0, 0; /* Bright red */
+  border-left-width: 3px;
+}
+
+/* ────────────────────────────────────────────────────────────────────────   🎯 SPECIAL EFFECT CALLOUTS - Unique Visual Treatments
+   ──────────────────────────────────────────────────────────────────────── */
+
+/* DNA - Shimmer Animation */
+.callout[data-callout="dna"],
+.callout[data-callout="fundamental"],
+.callout[data-callout="core-concept"] {
+  --callout-color: var(--callout-crimson);
+  background: linear-gradient(135deg,
+    rgba(229, 0, 0, 0.03) 0%,
+    rgba(229, 0, 0, 0.03) 50%,
+    rgba(229, 0, 0, 0.03) 100%);
+  background-size: 200% 200%;
+  animation: shimmer 8s linear infinite, fadeInScale var(--animation-speed-normal) var(--animation-easing);
+}
+
+/* Diamond - Enhanced Glow */
+.callout[data-callout="diamond"],
+.callout[data-callout="premium"],
+.callout[data-callout="valuable"] {
+  --callout-color: var(--callout-crimson);
+  border: 2px solid rgba(229, 0, 0, 0.4);
+  border-left-width: 4px;
+  box-shadow:
+    0 0 20px rgba(229, 0, 0, 0.2),
+    0 0 40px rgba(229, 0, 0, 0.1),
+    var(--shadow-depth-2);
+}
+
+/* Ember - Pulsing Glow */
+.callout[data-callout="ember"],
+.callout[data-callout="hot"],
+.callout[data-callout="active"] {
+  --callout-color: var(--callout-crimson);
+  animation: glowPulse 2s infinite, fadeInScale var(--animation-speed-normal) var(--animation-easing);
+  border-left-width: 4px;
+}
+
+/* Raised - 3D Elevation Effect */
+.callout[data-callout="raised"],
+.callout[data-callout="elevated"],
+.callout[data-callout="lift"] {
+  --callout-color: var(--callout-crimson);
+  border-left-width: 4px;
+  transform: translateY(-4px);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.5),
+    0 16px 32px rgba(0, 0, 0, 0.35),
+    0 0 20px rgba(229, 0, 0, 0.2),
+    inset 0 1px 0 rgba(224, 224, 224, 0.1);
+  background: linear-gradient(180deg,
+    rgba(30, 30, 30, 0.8) 0%,
+    rgba(20, 20, 20, 0.6) 100%);
+}
+
+/* Pin - Visual Pin Icon */
+.callout[data-callout="pin"],
+.callout[data-callout="pinned"],
+.callout[data-callout="bookmark"] {
+  --callout-color: var(--callout-crimson);
+  border-top: 2px solid rgba(229, 0, 0, 0.4);
+  border-left-width: 4px;
+}
+
+.callout[data-callout="pin"]::before,
+.callout[data-callout="pinned"]::before,
+.callout[data-callout="bookmark"]::before {
+  content: '📌';
+  position: absolute;
+  top: -10px;
+  right: 20px;
+  font-size: 1.2em;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  opacity: 0.8;
+  background: none;  /* Override default ::before */
+  height: auto;
+}
+
+/* Bullseye - Concentric Ring Effect */
+.callout[data-callout="bullseye"],
+.callout[data-callout="precision"],
+.callout[data-callout="exact"] {
+  --callout-color: var(--callout-crimson);
+  border: 2px solid rgba(229, 0, 0, 0.3);
+  border-left: 4px solid rgb(229, 0, 0);
+  box-shadow:
+    0 0 0 4px rgba(229, 0, 0, 0.1),
+    var(--shadow-depth-2);
+}
+
+/* Action - Heavy Left Border */
+.callout[data-callout="action"],
+.callout[data-callout="next-step"],
+.callout[data-callout="do-this"] {
+  --callout-color: var(--callout-crimson);
+  border-left-width: 5px;
+  box-shadow:
+    -3px 0 0 rgba(229, 0, 0, 0.3),
+    var(--shadow-depth-2);
+}
+
+.callout[data-callout="action"] .callout-title,
+.callout[data-callout="next-step"] .callout-title,
+.callout[data-callout="do-this"] .callout-title {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Counter-Argument - Dashed Border */
+.callout[data-callout="counter-argument"],
+.callout[data-callout="objection"],
+.callout[data-callout="alternative"] {
+  --callout-color: var(--callout-grey-medium);
+  border-style: dashed;
+  border-width: 2px;
+  border-left-style: solid;
+  border-left-width: 3px;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   🎭 SECTION 6: STYLE VARIANT OVERRIDES
+   Switchable visual modes via body classes
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────────
+   VARIANT 1: MINIMAL - Transparent with borders only
+   Usage: Add class "callout-variant-minimal" to body
+   ──────────────────────────────────────────────────────────────────────── */
+
+body.callout-variant-minimal .callout {
+  background: transparent;
+  border: 1px solid rgba(var(--callout-color), 0.25);
+  border-left: 3px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  box-shadow: none;
+  padding: 8px;
+}
+
+body.callout-variant-minimal .callout:hover {
+  background: rgba(var(--callout-color), 0.03);
+  border-color: rgba(var(--callout-color), 0.4);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transform: none;
+}
+
+body.callout-variant-minimal .callout-title {
+  background: transparent;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.15);
+  padding: 8px 12px;
+}
+
+body.callout-variant-minimal .callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.05);
+  border-bottom-color: rgba(var(--callout-color), 0.25);
+}
+
+body.callout-variant-minimal .callout-content {
+  background: transparent;
+  padding: 12px;
+}
+
+body.callout-variant-minimal .callout::before,
+body.callout-variant-minimal .callout-title::after {
+  display: none;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   VARIANT 2: NEON - Intense glow effects
+   Usage: Add class "callout-variant-neon" to body
+   ──────────────────────────────────────────────────────────────────────── */
+
+body.callout-variant-neon .callout {
+  background: rgba(10, 10, 10, 0.85);
+  border: 2px solid rgba(var(--callout-color), 0.6);
+  border-left: 4px solid rgb(var(--callout-color));
+  box-shadow:
+    0 0 10px rgba(var(--callout-color), 0.3),
+    0 0 20px rgba(var(--callout-color), 0.2),
+    0 0 40px rgba(var(--callout-color), 0.1),
+    0 4px 12px rgba(0, 0, 0, 0.5);
+  animation: glowPulse 3s infinite;
+}
+
+body.callout-variant-neon .callout:hover {
+  border-color: rgba(var(--callout-color), 0.8);
+  box-shadow:
+    0 0 15px rgba(var(--callout-color), 0.5),
+    0 0 30px rgba(var(--callout-color), 0.3),
+    0 0 60px rgba(var(--callout-color), 0.2),
+    0 6px 16px rgba(0, 0, 0, 0.6);
+  transform: translateY(-2px);
+}
+
+body.callout-variant-neon .callout-title {
+  background: rgba(var(--callout-color), 0.15);
+  text-shadow:
+    0 0 5px rgba(var(--callout-color), 0.5),
+    0 0 10px rgba(var(--callout-color), 0.3),
+    0 2px 4px rgba(0, 0, 0, 0.8);
+  font-weight: 600;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.4);
+}
+
+body.callout-variant-neon .callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.22);
+  text-shadow:
+    0 0 8px rgba(var(--callout-color), 0.7),
+    0 0 15px rgba(var(--callout-color), 0.4),
+    0 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+body.callout-variant-neon .callout-content {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+body.callout-variant-neon .callout::before {
+  opacity: 1;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(var(--callout-color), 0.8) 50%,
+    transparent 100%);
+  height: 2px;
+  box-shadow: 0 0 10px rgba(var(--callout-color), 0.6);
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   VARIANT 3: OUTLINED - Clean bordered boxes
+   Usage: Add class "callout-variant-outlined" to body
+   ──────────────────────────────────────────────────────────────────────── */
+
+body.callout-variant-outlined .callout {
+  background: transparent;
+  border: 2px solid rgba(var(--callout-color), 0.4);
+  border-left: 4px solid rgba(var(--callout-color), 0.8);
+  border-radius: 8px;
+  padding: 0;
+}
+
+body.callout-variant-outlined .callout::before {
+  display: none;
+}
+
+body.callout-variant-outlined .callout-title {
+  background: transparent;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.25);
+  padding: 8px 12px;
+}
+
+body.callout-variant-outlined .callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.05);
+  border-bottom-color: rgba(var(--callout-color), 0.4);
+}
+
+body.callout-variant-outlined .callout-content {
+  background: transparent;
+  padding: 12px;
+}
+
+body.callout-variant-outlined .callout:hover {
+  border-color: rgba(var(--callout-color), 0.6);
+  box-shadow: 0 0 15px rgba(var(--callout-color), 0.15);
+  transform: none;
+}
+
+body.callout-variant-outlined .callout-title::after {
+  display: none;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   VARIANT 4: COMPACT - Dense information layout
+   Usage: Add class "callout-variant-compact" to body
+   ──────────────────────────────────────────────────────────────────────── */
+
+body.callout-variant-compact .callout {
+  margin: 0.3em 0;
+  border-radius: 8px;
+  padding: 4px;
+}
+
+body.callout-variant-compact .callout-title {
+  padding: 6px 10px;
+  font-size: 0.85em;
+  font-weight: 600;
+  gap: 6px;
+}
+
+body.callout-variant-compact .callout-content {
+  padding: 8px 10px;
+  font-size: 0.92em;
+  line-height: 1.5;
+}
+
+body.callout-variant-compact .callout-icon {
+  width: 18px;
+  height: 18px;
+  font-size: 0.85em;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   VARIANT 5: RAISED - Deep 3D shadows for all callouts
+   Usage: Add class "callout-variant-raised" to body
+   ──────────────────────────────────────────────────────────────────────── */
+
+body.callout-variant-raised .callout {
+  border-left-width: 4px;
+  transform: translateY(-4px);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.5),
+    0 16px 32px rgba(0, 0, 0, 0.35),
+    0 0 20px rgba(var(--callout-color), 0.2),
+    inset 0 1px 0 rgba(224, 224, 224, 0.1);
+  background: linear-gradient(180deg,
+    rgba(30, 30, 30, 0.8) 0%,
+    rgba(20, 20, 20, 0.6) 100%);
+}
+
+body.callout-variant-raised .callout:hover {
+  transform: translateY(-6px);
+  box-shadow:
+    0 12px 24px rgba(0, 0, 0, 0.6),
+    0 24px 48px rgba(0, 0, 0, 0.4),
+    0 0 30px rgba(var(--callout-color), 0.3),
+    inset 0 1px 0 rgba(224, 224, 224, 0.15);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   🔧 SECTION 7: UTILITY OVERRIDES & SPECIAL CASES
+   Edge cases and nested callout handling
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Nested Callouts - Reduce effects */
+.callout .callout {
+  margin: 1em 0;
+  transform: translateY(0);
+  box-shadow: 
+    0 4px 8px rgba(0, 0, 0, 0.2),
+    0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+/* Foldable Callouts - Preserve fold icon */
+.callout.is-collapsible .callout-fold {
+  padding: 0 8px;
+}
+
+/* Print Styles - Remove animations and shadows */
+@media print {
+  .callout {
+    animation: none;
+    box-shadow: none;
+    transform: none;
+    page-break-inside: avoid;
+  }
+  
+  .callout::before,
+  .callout-title::after {
+    display: none;
+  }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   📝 SECTION 8: CONFIGURATION GUIDE & USAGE EXAMPLES
+   ═══════════════════════════════════════════════════════════════════════════
+
+   QUICK START:
+   ───────────────────────────────────────────────────────────────────────────
+   1. Enable this snippet in Obsidian (Settings → Appearance → CSS snippets)
+   2. Choose a visual style variant:
+   
+      DEFAULT (no body class):
+      - Rich backgrounds with gradients
+      - Subtle glow effects
+      - Hover animations
+      
+      MINIMAL (add to Settings → Appearance → CSS snippets → Style Settings):
+      body.callout-variant-minimal
+      - Transparent backgrounds
+      - Border-only design
+      - Minimal visual weight
+      
+      NEON (cyberpunk aesthetic):
+      body.callout-variant-neon
+      - Intense glow effects
+      - Pulsing animations
+      - Maximum visual impact
+      
+      OUTLINED (clean professional):
+      body.callout-variant-outlined
+      - Full border outlines
+      - Transparent interiors
+      - Clean corporate look
+      
+      COMPACT (information density):
+      body.callout-variant-compact
+      - Reduced spacing
+      - Smaller fonts
+      - Maximum content per screen
+      
+      RAISED (3D depth):
+      body.callout-variant-raised
+      - Deep shadows
+      - Elevated appearance
+      - Strong visual hierarchy
+   
+   3. Use callouts in markdown:
+      > [!key-claim] Important Concept
+      > This is my claim with supporting evidence
+      
+      > [!warning] Critical Warning
+      > Pay attention to this
+      
+      > [!diamond] Premium Content
+      > High-value information here
+
+   CUSTOMIZATION:
+   ───────────────────────────────────────────────────────────────────────────
+   All design tokens are in :root {} at the top of this file.
+   
+   To customize colors, edit these variables:
+   - --callout-crimson: 229, 0, 0;        (change to your brand color)
+   - --callout-grey-high: 224, 224, 224;  (adjust greyscale palette)
+   - --glow-intensity: 0.3;               (increase/decrease glow strength)
+   
+   To customize spacing:
+   - --callout-padding: 14px 10px;        (content area padding)
+   - --callout-margin: 0.5em 0;           (vertical spacing between callouts)
+   - --callout-border-radius: 16px;       (corner rounding)
+   
+   To customize animations:
+   - --animation-speed-normal: 0.35s;     (hover transition speed)
+   - --animation-easing: cubic-bezier...  (easing curve)
+
+   ADVANCED:
+   ───────────────────────────────────────────────────────────────────────────
+   Create custom callout types by adding to SECTION 5:
+   
+   .callout[data-callout="your-type"] {
+     --callout-color: R, G, B;  (RGB values without rgb())
+   }
+   
+   Apply special effects from the Special Effects section or create your own.
+
+   ═══════════════════════════════════════════════════════════════════════════
+*/

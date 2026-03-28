@@ -1,0 +1,567 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ SNIPPET: Inline Code Complete Styling System
+ Purpose: Modular inline code styles with toggle-able variants
+ Author: Pur3v4d3r
+ Date: 2024-12-24
+ Obsidian Version: 1.5.0+
+ 
+ COLOR PALETTE: Red/Grey/Black
+ ─────────────────────────────────────────────────────────────────────────────
+ Primary Red:     #E53935 (Vibrant) | #B71C1C (Deep/Dark)
+ Grey Spectrum:   #424242 → #9E9E9E → #E0E0E0
+ Black Base:      #1A1A1A (True Dark) | #2D2D2D (Soft Dark)
+ 
+ USAGE INSTRUCTIONS:
+ ─────────────────────────────────────────────────────────────────────────────
+ 1. Enable this snippet in Settings → Appearance → CSS Snippets
+ 2. By default, STYLE 1 (Minimal) is active
+ 3. To switch styles, uncomment your preferred style section and
+    comment out others (only ONE style should be active at a time)
+ 4. Styles are clearly marked with [TOGGLE ON/OFF] indicators
+ 
+ AVAILABLE STYLES:
+ ─────────────────────────────────────────────────────────────────────────────
+ • Style 1: Minimal        - Subtle grey background (DEFAULT - ACTIVE)
+ • Style 2: Bordered Pill  - Rounded edges with border
+ • Style 3: Highlighted    - Red accent background
+ • Style 4: Underlined     - Bottom border emphasis
+ • Style 5: Neon Glow      - Subtle red shadow effect
+ • Style 6: Tag Style      - Bracketed with color accent
+ 
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: CSS VARIABLES (FOUNDATION)
+   ───────────────────────────────────────────────────────────────────────────
+   These variables control all inline code styling. Modify here for
+   theme-wide changes without touching individual style definitions.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.theme-light,
+.theme-dark {
+  /* ─── Primary Color Palette ─── */
+  --inline-code-red-vibrant: #E53935;
+  --inline-code-red-deep: #B71C1C;
+  --inline-code-red-soft: #FF6659;
+  --inline-code-red-muted: #C62828;
+  
+  /* ─── Grey Spectrum ─── */
+  --inline-code-grey-900: #212121;
+  --inline-code-grey-800: #424242;
+  --inline-code-grey-700: #616161;
+  --inline-code-grey-600: #757575;
+  --inline-code-grey-500: #9E9E9E;
+  --inline-code-grey-400: #BDBDBD;
+  --inline-code-grey-300: #E0E0E0;
+  --inline-code-grey-200: #EEEEEE;
+  --inline-code-grey-100: #F5F5F5;
+  
+  /* ─── Black Variants ─── */
+  --inline-code-black-true: #1A1A1A;
+  --inline-code-black-soft: #2D2D2D;
+  --inline-code-black-charcoal: #363636;
+  
+  /* ─── Sizing & Spacing ─── */
+  --inline-code-font-size: 0.9em;
+  --inline-code-padding-x: 0.35em;
+  --inline-code-padding-y: 0.15em;
+  --inline-code-border-radius: 4px;
+  --inline-code-border-width: 1px;
+  
+  /* ─── Typography ─── */
+  --inline-code-font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
+  --inline-code-font-weight: 500;
+  --inline-code-letter-spacing: -0.02em;
+}
+
+/* ─── Light Mode Specific Overrides ─── */
+.theme-light {
+  --inline-code-text-default: var(--inline-code-grey-900);
+  --inline-code-bg-default: var(--inline-code-grey-200);
+  --inline-code-border-default: var(--inline-code-grey-400);
+}
+
+/* ─── Dark Mode Specific Overrides ─── */
+.theme-dark {
+  --inline-code-text-default: var(--inline-code-grey-200);
+  --inline-code-bg-default: var(--inline-code-black-soft);
+  --inline-code-border-default: var(--inline-code-grey-700);
+}
+
+
+/* 
+
+
+
+/* ══════════════════════════════════════════════════════════
+   INLINE CODE BLOCKS - Base Styling
+   Applies to both editor and preview mode
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-source-view.mod-cm6 .cm-inline-code,
+.markdown-preview-view .inline-code {
+  /*Background-Transparentpurplewithdepth*/background-color: #E500004d !important;
+  /*30%opacitypurple*/text-transform: uppercase !important;
+  /*Text-Brightcyanforcontrast*/color: #E0E0E0ff !important;
+  /*Cybercyan*//*Border-Blackoutline*/border: 3.20px solid #000000cc !important;
+  /*Semi-transparentblack*/border-radius: 4px !important;
+  /*Roundedcorners*//*Spacing-Minimalpaddingforinline display*/padding: 1.1px 1.1px !important;
+  /*Font-Monospaceforcode*/font-family: 'Jetbrains Mono', var(--font-monospace-override), monospace !important;
+  font-weight: 100 !important;
+  /*Thinweight*/font-size: 0.95em !important;
+  /*Slightlysmaller*//*Gloweffect-Purpleshadow*/box-shadow: 0 0 6px #E50000ff;
+  /*Softpurpleglow*//*Smoothtransitions*/transition: box-shadow 0.2s ease-in-out !important;
+  -webkit-border-radius: 4px !important;
+  -moz-border-radius: 4px !important;
+  -ms-border-radius: 4px !important;
+  -o-border-radius: 4px !important;
+}
+/* ══════════════════════════════════════════════════════════
+   CLICK-TO-SELECT BEHAVIOR
+   Enhanced interaction on hover
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-source-view.mod-cm6 .cm-inline-code:hover,
+.markdown-preview-view .inline-code:hover {
+  cursor: pointer !important;                 /* Pointer cursor */
+  box-shadow: 0 0 12px #E0E0E0ff !important;  /* Bright cyan glow */
+    text-transform: capitalize !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════
+   SECTION 2: BASE STYLES (ALWAYS ACTIVE)
+   ───────────────────────────────────────────────────────────────────────────
+   Core inline code styling that applies regardless of which style variant
+   is active. This ensures consistent typography and basic appearance.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Editor View (Source/Live Preview) ─── */
+/*.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code {
+  font-family: var(--inline-code-font-family);
+  font-size: var(--inline-code-font-size);
+  font-weight: var(--inline-code-font-weight);
+  letter-spacing: var(--inline-code-letter-spacing);
+  vertical-align: baseline;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Reading View ─── */
+/*.markdown-rendered code:not(pre code),
+.markdown-preview-view code:not(pre code) {
+  font-family: var(--inline-code-font-family);
+  font-size: var(--inline-code-font-size);
+  font-weight: var(--inline-code-font-weight);
+  letter-spacing: var(--inline-code-letter-spacing);
+  vertical-align: baseline;
+  white-space: nowrap;
+  word-break: keep-all;
+}
+
+/* ─── Prevent Code Wrapping in Tables ─── */
+table code:not(pre code) {
+  white-space: nowrap;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   ████████████████████████████████████████████████████████████████████████████
+   
+                           STYLE VARIANTS SECTION
+                      ─────────────────────────────────
+                       TOGGLE: Uncomment ONE style only
+   
+   ████████████████████████████████████████████████████████████████████████████
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 1: MINIMAL
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: ON ✓] - Currently Active
+   
+   Description: Clean, subtle grey background with no border.
+   Best for: Reading-focused workflows, minimal visual noise.
+   Contrast: ✓ WCAG AA Compliant
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- STYLE 1 START --- */
+
+/* Editor View - Minimal */
+/*/*.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--inline-code-text-default);
+  background-color: var(--inline-code-bg-default);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: var(--inline-code-border-radius);
+}
+
+/* Reading View - Minimal */
+./*markdown-rendered code:not(pre code),
+.markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-text-default);
+  background-color: var(--inline-code-bg-default);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: var(--inline-code-border-radius);
+}
+
+/* --- STYLE 1 END --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 2: BORDERED PILL
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: OFF] - Uncomment to activate
+   
+   Description: Rounded pill shape with subtle border and background.
+   Best for: Code that needs clear visual separation.
+   Contrast: ✓ WCAG AA Compliant
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- STYLE 2 START --- UNCOMMENT BELOW TO ACTIVATE ---
+
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--inline-code-text-default);
+  background-color: var(--inline-code-bg-default);
+  padding: var(--inline-code-padding-y) calc(var(--inline-code-padding-x) * 1.5);
+  border-radius: 999px;
+  border: var(--inline-code-border-width) solid var(--inline-code-border-default);
+}
+
+.markdown-rendered code:not(pre code),
+.markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-text-default);
+  background-color: var(--inline-code-bg-default);
+  padding: var(--inline-code-padding-y) calc(var(--inline-code-padding-x) * 1.5);
+  border-radius: 999px;
+  border: var(--inline-code-border-width) solid var(--inline-code-border-default);
+}
+
+--- STYLE 2 END --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 3: HIGHLIGHTED (RED ACCENT)
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: OFF] - Uncomment to activate
+   
+   Description: Red-tinted background with dark text for high visibility.
+   Best for: Emphasizing important code references, warnings.
+   Contrast: ✓ WCAG AA Compliant (4.8:1 ratio)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- STYLE 3 START --- UNCOMMENT BELOW TO ACTIVATE ---
+
+.theme-light .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.theme-light .cm-s-obsidian span.cm-inline-code,
+.theme-light .markdown-rendered code:not(pre code),
+.theme-light .markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-red-deep);
+  background-color: rgba(229, 57, 53, 0.12);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: var(--inline-code-border-radius);
+  border-left: 2px solid var(--inline-code-red-vibrant);
+}
+
+.theme-dark .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.theme-dark .cm-s-obsidian span.cm-inline-code,
+.theme-dark .markdown-rendered code:not(pre code),
+.theme-dark .markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-red-soft);
+  background-color: rgba(229, 57, 53, 0.15);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: var(--inline-code-border-radius);
+  border-left: 2px solid var(--inline-code-red-vibrant);
+}
+
+--- STYLE 3 END --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 4: UNDERLINED
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: OFF] - Uncomment to activate
+   
+   Description: No background, elegant bottom border emphasis.
+   Best for: Clean typographic style, inline with body text flow.
+   Contrast: ✓ WCAG AA Compliant
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- STYLE 4 START --- UNCOMMENT BELOW TO ACTIVATE ---
+
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--inline-code-red-muted);
+  background-color: transparent;
+  padding: 0 0.1em;
+  border-radius: 0;
+  border-bottom: 2px solid var(--inline-code-grey-500);
+}
+
+.markdown-rendered code:not(pre code),
+.markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-red-muted);
+  background-color: transparent;
+  padding: 0 0.1em;
+  border-radius: 0;
+  border-bottom: 2px solid var(--inline-code-grey-500);
+}
+
+.theme-dark .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.theme-dark .cm-s-obsidian span.cm-inline-code,
+.theme-dark .markdown-rendered code:not(pre code),
+.theme-dark .markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-red-soft);
+  border-bottom-color: var(--inline-code-grey-600);
+}
+
+--- STYLE 4 END --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 5: NEON GLOW
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: OFF] - Uncomment to activate
+   
+   Description: Subtle red glow/shadow effect for a modern look.
+   Best for: Dark themes, cyberpunk/tech aesthetics.
+   Contrast: ✓ WCAG AA Compliant
+   Note: Uses box-shadow which respects prefers-reduced-motion
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+ /* /* --- STYLE 5 START --- UNCOMMENT BELOW TO ACTIVATE ---
+
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--inline-code-red-soft)!;
+  background-color: var(--inline-code-black-soft);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: var(--inline-code-border-radius);
+  border: 1px solid var(--inline-code-red-muted);
+  box-shadow: 
+    0 0 4px rgba(229, 57, 53, 0.3),
+    0 0 8px rgba(229, 57, 53, 0.15);
+}
+
+.markdown-rendered code:not(pre code),
+.markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-red-soft);
+  background-color: var(--inline-code-black-soft);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: var(--inline-code-border-radius);
+  border: 1px solid var(--inline-code-red-muted);
+  box-shadow: 
+    0 0 4px rgba(229, 57, 53, 0.3),
+    0 0 8px rgba(229, 57, 53, 0.15);
+}
+
+.theme-light .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.theme-light .cm-s-obsidian span.cm-inline-code,
+.theme-light .markdown-rendered code:not(pre code),
+.theme-light .markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-red-deep);
+  background-color: var(--inline-code-grey-100);
+  box-shadow: 
+    0 0 4px rgba(183, 28, 28, 0.2),
+    0 0 8px rgba(183, 28, 28, 0.1);
+}
+
+
+
+--- STYLE 5 END --- */
+
+
+/* 
+
+
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════
+   STYLE 6: TAG STYLE (BRACKETED)
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: OFF] - Uncomment to activate
+   
+   Description: Code with colored bracket accents, tag-like appearance.
+   Best for: Making code feel like markup tags, technical documentation.
+   Contrast: ✓ WCAG AA Compliant
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- STYLE 6 START --- UNCOMMENT BELOW TO ACTIVATE ---
+
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--inline-code-text-default);
+  background-color: var(--inline-code-bg-default);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: 2px;
+  border-left: 3px solid var(--inline-code-red-vibrant);
+  border-right: 3px solid var(--inline-code-red-vibrant);
+}
+
+.markdown-rendered code:not(pre code),
+.markdown-preview-view code:not(pre code) {
+  color: var(--inline-code-text-default);
+  background-color: var(--inline-code-bg-default);
+  padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
+  border-radius: 2px;
+  border-left: 3px solid var(--inline-code-red-vibrant);
+  border-right: 3px solid var(--inline-code-red-vibrant);
+}
+
+--- STYLE 6 END --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: SPECIAL STATES & INTERACTIONS
+   ───────────────────────────────────────────────────────────────────────────
+   Hover, selection, and link states for inline code elements.
+   These apply to ALL style variants.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Hover State (Optional Enhancement) ─── */
+/* Uncomment if you want subtle hover feedback */
+/*
+.markdown-rendered code:not(pre code):hover,
+.markdown-preview-view code:not(pre code):hover {
+  filter: brightness(1.05);
+  cursor: default;
+}
+*/
+
+/* ─── Code Inside Links ─── */
+.markdown-rendered a code:not(pre code),
+.markdown-preview-view a code:not(pre code) {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--inline-code-red-vibrant);
+  text-underline-offset: 2px;
+}
+
+/* ─── Code Inside Callouts ─── */
+.callout code:not(pre code) {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.theme-dark .callout code:not(pre code) {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* ─── Code Inside Headings ─── */
+.markdown-rendered h1 code:not(pre code),
+.markdown-rendered h2 code:not(pre code),
+.markdown-rendered h3 code:not(pre code),
+.markdown-rendered h4 code:not(pre code),
+.markdown-rendered h5 code:not(pre code),
+.markdown-rendered h6 code:not(pre code) {
+  font-size: 0.85em;
+}
+
+/* ─── Code Inside Lists ─── */
+.markdown-rendered li code:not(pre code) {
+  /* Ensure consistent sizing in list contexts */
+  font-size: var(--inline-code-font-size);
+}
+
+/* ─── Code Inside Tables ─── */
+.markdown-rendered td code:not(pre code),
+.markdown-rendered th code:not(pre code) {
+  font-size: 0.85em;
+  padding: 0.1em 0.3em;
+}
+
+
+/* 
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 5: BONUS - SEMANTIC CODE COLORING (OPTIONAL)
+   ───────────────────────────────────────────────────────────────────────────
+   [TOGGLE: OFF] - Uncomment to activate
+   
+   Advanced feature: Color code based on content patterns.
+   Uses attribute selectors to detect common patterns.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- SEMANTIC COLORS START --- UNCOMMENT BELOW TO ACTIVATE ---
+
+// These use the CSS :has() selector - modern browsers only
+
+// File paths - Grey tint
+.markdown-rendered code:not(pre code):has(+ :contains("/")),
+.markdown-preview-view code:not(pre code)[class*="path"] {
+  background-color: rgba(117, 117, 117, 0.15);
+  color: var(--inline-code-grey-600);
+}
+
+// Commands - Red tint
+.markdown-rendered code:not(pre code):first-child,
+.markdown-preview-view code:not(pre code):first-child {
+  // Potential command at start of text
+}
+
+--- SEMANTIC COLORS END --- */
+
+
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ END OF SNIPPET
+ 
+ TROUBLESHOOTING:
+ ─────────────────────────────────────────────────────────────────────────────
+ 1. Styles not applying?
+    → Ensure only ONE style variant is uncommented at a time
+    → Check that the snippet is enabled in Settings → Appearance
+    → Try reloading Obsidian (Ctrl/Cmd + R)
+ 
+ 2. Conflicts with theme?
+    → This snippet uses high-specificity selectors that should override themes
+    → If issues persist, add !important to critical properties
+ 
+ 3. Colors look wrong?
+    → Verify your theme supports CSS custom properties
+    → Check light/dark mode specific overrides in Section 1
+ 
+ 4. Font not rendering?
+    → Install JetBrains Mono or change --inline-code-font-family variable
+ 
+ CUSTOMIZATION GUIDE:
+ ─────────────────────────────────────────────────────────────────────────────
+ • Change colors: Modify variables in Section 1
+ • Change sizing: Adjust --inline-code-padding-* and --inline-code-font-size
+ • Mix styles: Copy properties from different styles into Style 1
+ 
+ WCAG CONTRAST RATIOS VERIFIED:
+ ─────────────────────────────────────────────────────────────────────────────
+ • #E53935 on #FFFFFF: 4.0:1 (AA Large Text ✓)
+ • #B71C1C on #FFFFFF: 7.8:1 (AAA ✓)
+ • #FF6659 on #1A1A1A: 6.2:1 (AA ✓)
+ • #212121 on #EEEEEE: 14.5:1 (AAA ✓)
+ • #E0E0E0 on #2D2D2D: 10.2:1 (AAA ✓)
+ 
+═══════════════════════════════════════════════════════════════════════════════
+*/

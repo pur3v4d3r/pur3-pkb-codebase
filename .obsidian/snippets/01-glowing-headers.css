@@ -9,13 +9,13 @@
 
  Description:
  Complete heading hierarchy (H1-H6) featuring dark text with glowing
- red neon text-shadow effects. Uses JetBrains Mono with all-small-caps
+ purple neon text-shadow effects. Uses JetBrains Mono with all-small-caps
  for a professional cyberpunk aesthetic.
 
  Color Palette:
- - Primary Glow: #FF0000 (Pure Red)
- - Secondary Glow: #E50000 (Deep Red)
- - Tertiary Glow: #B30000 (Dark Red)
+ - Primary Glow: #9500FF (Vivid Purple)
+ - Secondary Glow: #8600E5 (Deep Purple)
+ - Tertiary Glow: #6800B3 (Dark Purple)
  - Text Base: #040404 (Near Black)
  - Accent Grey: #858585 (Medium Grey)
 
@@ -43,9 +43,9 @@ h1 {
     font-variant: all-small-caps !important;
     color: #000000 !important;                  /* Pure Black */
     text-decoration: underline !important;
-    text-shadow: 0 0 3px #ff0000ff, 0 0 6px #ff0000ee, 0 0 10px #ff0000cc,
-                 0 0 14px #ff0000aa, 0 0 18px #ff000077;
-                 /* Strong red neon glow */
+    text-shadow: 0 0 3px #9500ffff, 0 0 6px #9500ffee, 0 0 10px #9500ffcc,
+                 0 0 14px #9500ffaa, 0 0 18px #9500ff77;
+                 /* Strong purple neon glow */
   }
   
 /* ══════════════════════════════════════════════════════════
@@ -64,9 +64,9 @@ h2 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 3px #ff0000ff, 0 0 6px #ff0000ee, 0 0 10px #ff0000cc,
-               0 0 14px #ff0000aa, 0 0 18px #ff000077;
-               /* Strong red neon glow */
+  text-shadow: 0 0 3px #9500ffff, 0 0 6px #9500ffee, 0 0 10px #9500ffcc,
+               0 0 14px #9500ffaa, 0 0 18px #9500ff77;
+               /* Strong purple neon glow */
 }
 
 /* ══════════════════════════════════════════════════════════
@@ -85,9 +85,9 @@ h3 {
     font-variant: all-small-caps !important;
     color: #000000ff !important;                  /* Pure Black */
     text-decoration: underline !important;
-    text-shadow: 0 0 30px #5c0000ff, 0 0 20px #000000ee, 0 0 30px #ff0000cc,
-                 0 0 30px #000000aa, 0 0 50px #ff000077;
-                 /* Strong red neon glow */
+    text-shadow: 0 0 30px #36005cff, 0 0 20px #000000ee, 0 0 30px #9500ffcc,
+                 0 0 30px #000000aa, 0 0 50px #9500ff77;
+                 /* Strong purple neon glow */
   }
 
 /* ══════════════════════════════════════════════════════════
@@ -106,9 +106,9 @@ h4 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #ff0000dd, 0 0 5px #ff0000bb, 0 0 8px #ff000099,
-               0 0 11px #ff000066;
-               /* Subtle red neon glow */
+  text-shadow: 0 0 2px #9500ffdd, 0 0 5px #9500ffbb, 0 0 8px #9500ff99,
+               0 0 11px #9500ff66;
+               /* Subtle purple neon glow */
 }
 
 /* ══════════════════════════════════════════════════════════
@@ -127,14 +127,14 @@ h5 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #ff0000cc, 0 0 4px #ff0000aa, 0 0 7px #ff000077,
-               0 0 10px #ff000055;
-               /* Soft red neon glow */
+  text-shadow: 0 0 2px #9500ffcc, 0 0 4px #9500ffaa, 0 0 7px #9500ff77,
+               0 0 10px #9500ff55;
+               /* Soft purple neon glow */
 }
 
 /* ══════════════════════════════════════════════════════════
    HEADING LEVEL 6 - Minimal Red Glow
-   Smallest headings with faint red effect
+   Smallest headings with faint purple effect
    ══════════════════════════════════════════════════════════ */
 .theme-dark .markdown-preview-view h6,
 .theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-6,
@@ -148,8 +148,8 @@ h6 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #ff0000aa, 0 0 4px #ff000088, 0 0 6px #ff000055;
-               /* Minimal red neon glow */
+  text-shadow: 0 0 2px #9500ffaa, 0 0 4px #9500ff88, 0 0 6px #9500ff55;
+               /* Minimal purple neon glow */
 }
 
 /* ══════════════════════════════════════════════════════════

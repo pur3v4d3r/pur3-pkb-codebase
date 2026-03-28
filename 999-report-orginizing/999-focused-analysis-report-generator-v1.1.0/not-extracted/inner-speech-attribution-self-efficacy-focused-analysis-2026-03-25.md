@@ -656,6 +656,7 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 
 > [!cite] **Weiner, B. (1985). An Attributional Theory of Achievement Motivation and Emotion. *Psychological Review*, 92(4), 548–573.**
 > The foundational paper for the three-dimensional attribution model (locus, stability, controllability) and their emotional and motivational consequences. Phases II, III, and IV of this report draw directly on this dimensional architecture. Recommended for anyone wanting the empirical foundation for the attribution vocabulary tools.
+[[2026-03-28-0218-srl-session]]
 
 > [!cite] **Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. W.H. Freeman.**
 > The comprehensive synthesis of self-efficacy theory, including the four-sources model and the verbal persuasion source. The treatment of verbal persuasion (Chapter 4) is the theoretical basis for this report's extension of the concept to inner speech. Chapters 3 and 4 most relevant to the self-efficacy calibration mechanism.

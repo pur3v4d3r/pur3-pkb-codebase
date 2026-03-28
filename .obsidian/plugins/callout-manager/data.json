@@ -493,6 +493,7 @@
       "cite": [
         {
           "changes": {
+            "icon": "lucide-book-marked",
             "color": "64, 64, 64"
           }
         }
@@ -745,6 +746,7 @@
       "key-claim": [
         {
           "changes": {
+            "icon": "lucide-file-key",
             "color": "220, 20, 60"
           }
         }
@@ -1207,7 +1209,8 @@
       "methodology-and-sources": [
         {
           "changes": {
-            "color": "36, 36, 36"
+            "icon": "lucide-brain-cog",
+            "color": "0, 0, 0"
           }
         }
       ],
@@ -1382,6 +1385,7 @@
       "about-the-author": [
         {
           "changes": {
+            "icon": "lucide-user",
             "color": "255, 0, 0"
           }
         }
@@ -1389,6 +1393,7 @@
       "acknowledgments": [
         {
           "changes": {
+            "icon": "lucide-book-user",
             "color": "255, 0, 0"
           }
         }
@@ -1396,6 +1401,7 @@
       "action-items": [
         {
           "changes": {
+            "icon": "lucide-zap",
             "color": "255, 0, 0"
           }
         }
@@ -1403,6 +1409,7 @@
       "actionable-tips": [
         {
           "changes": {
+            "icon": "lucide-key",
             "color": "255, 0, 0"
           }
         }
@@ -1410,6 +1417,7 @@
       "additional-resources": [
         {
           "changes": {
+            "icon": "lucide-book-up-2",
             "color": "255, 0, 0"
           }
         }
@@ -1431,6 +1439,7 @@
       "appendix": [
         {
           "changes": {
+            "icon": "lucide-scroll",
             "color": "255, 0, 0"
           }
         }
@@ -1445,6 +1454,7 @@
       "assumption": [
         {
           "changes": {
+            "icon": "lucide-message-circle-question",
             "color": "255, 0, 0"
           }
         }
@@ -1452,6 +1462,7 @@
       "best-practice": [
         {
           "changes": {
+            "icon": "lucide-wrench",
             "color": "255, 0, 0"
           }
         }
@@ -1466,6 +1477,7 @@
       "brainstorm": [
         {
           "changes": {
+            "icon": "lucide-brain",
             "color": "255, 0, 0"
           }
         }
@@ -1508,6 +1520,7 @@
       "claim": [
         {
           "changes": {
+            "icon": "lucide-laptop-minimal-check",
             "color": "255, 0, 0"
           }
         }
@@ -1522,6 +1535,7 @@
       "concept": [
         {
           "changes": {
+            "icon": "lucide-microscope",
             "color": "255, 0, 0"
           }
         }
@@ -1529,6 +1543,7 @@
       "conclusion": [
         {
           "changes": {
+            "icon": "lucide-message-circle-question",
             "color": "255, 0, 0"
           }
         }
@@ -1564,6 +1579,7 @@
       "critical": [
         {
           "changes": {
+            "icon": "lucide-file-exclamation-point",
             "color": "255, 0, 0"
           }
         }
@@ -1613,6 +1629,7 @@
       "diagram": [
         {
           "changes": {
+            "icon": "lucide-chart-pie",
             "color": "255, 0, 0"
           }
         }
@@ -1886,6 +1903,7 @@
       "reflection": [
         {
           "changes": {
+            "icon": "lucide-brain",
             "color": "255, 0, 0"
           }
         }
@@ -2138,6 +2156,7 @@
       "analytical-insight": [
         {
           "changes": {
+            "icon": "lucide-message-circle",
             "color": "255, 0, 0"
           }
         }
@@ -2145,6 +2164,7 @@
       "cross-domain-connection": [
         {
           "changes": {
+            "icon": "links-going-out",
             "color": "255, 0, 0"
           }
         }
@@ -2152,6 +2172,7 @@
       "original-synthesis": [
         {
           "changes": {
+            "icon": "lucide-brain-circuit",
             "color": "255, 0, 0"
           }
         }
@@ -2159,6 +2180,7 @@
       "what-the-evidence-suggests": [
         {
           "changes": {
+            "icon": "lucide-message-circle",
             "color": "255, 0, 0"
           }
         }
@@ -2166,6 +2188,7 @@
       "tension-identified": [
         {
           "changes": {
+            "icon": "lucide-split",
             "color": "255, 0, 0"
           }
         }
@@ -2208,6 +2231,7 @@
       "person": [
         {
           "changes": {
+            "icon": "lucide-user",
             "color": "0, 0, 0"
           }
         }
@@ -2215,6 +2239,7 @@
       "tension": [
         {
           "changes": {
+            "icon": "lucide-split",
             "color": "25, 0, 0"
           }
         }
@@ -2222,6 +2247,7 @@
       "open-question": [
         {
           "changes": {
+            "icon": "lucide-message-circle-question",
             "color": "0, 0, 0"
           }
         }
@@ -2229,6 +2255,7 @@
       "protocol": [
         {
           "changes": {
+            "icon": "lucide-wrench",
             "color": "255, 255, 255"
           }
         }
@@ -2236,6 +2263,7 @@
       "flashcard": [
         {
           "changes": {
+            "icon": "lucide-credit-card",
             "color": "46, 46, 46"
           }
         }
@@ -2250,7 +2278,16 @@
       "quality-assessment": [
         {
           "changes": {
+            "icon": "lucide-test-tube-diagonal",
             "color": "0, 0, 0"
+          }
+        }
+      ],
+      "grid": [
+        {
+          "changes": {
+            "icon": "lucide-grid",
+            "color": "255, 0, 0"
           }
         }
       ]
