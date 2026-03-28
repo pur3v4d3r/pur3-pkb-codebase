@@ -1,0 +1,647 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   V4D3R MERMAID, TABLES & PLUGINS SNIPPET SYSTEM - PART 1: MERMAID
+   Author: TaskMaster Agent | Theme: Red/Black/Grey
+   
+   TOGGLE SYSTEM: Comment/uncomment sections to enable/disable features
+   Each feature block is marked with [TOGGLE] for easy identification
+   
+   ⚠️ IMPORTANT: Disable conflicting mermaid snippets (e.g., 10-mermaid.css)
+   to prevent style conflicts causing blank nodes or incorrect colors.
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: CSS CUSTOM PROPERTIES (COLOR PALETTE)
+═══════════════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ─── PRIMARY RED PALETTE ─── */
+  --v4d3r-teal-primary: #00fff7ff;
+  --v4d3r-teal-dark: #1B9995;
+  --v4d3r-teal-darker: #1D7F7C;
+  --v4d3r-teal-light: #44EFE9;
+  --v4d3r-teal-pale: #00fff7ff;
+  --v4d3r-teal-glow: rgba(38, 220, 214, 0.4);
+  
+  /* ─── BLACK PALETTE ─── */
+  --v4d3r-black-pure: #000000;
+  --v4d3r-black-soft: #0A0A0A;
+  --v4d3r-black-charcoal: #1A1A1A;
+  --v4d3r-black-rich: #1d1d1dff;
+  
+  /* ─── GREY PALETTE ─── */
+  --v4d3r-grey-darkest: #374151;
+  --v4d3r-grey-dark: #4B5563;
+  --v4d3r-grey-medium: #6B7280;
+  --v4d3r-grey-light: #9CA3AF;
+  --v4d3r-grey-pale: #D1D5DB;
+  --v4d3r-grey-ghost: #E5E7EB;
+  --v4d3r-grey-snow: #F3F4F6;
+  
+  /* ─── ACCENT COLORS ─── */
+  --v4d3r-accent-crimson: #1CB9B4;
+  --v4d3r-accent-rose: #1DE1AF;
+  --v4d3r-accent-maroon: #138860;
+  
+  /* ─── SEMANTIC COLORS ─── */
+  --v4d3r-success: #059669;
+  --v4d3r-warning: #066FD9;
+  --v4d3r-info: #6B7280;
+  --v4d3r-error: var(--v4d3r-teal-primary);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M4: MERMAID EDGE/LINK STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .edgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+  stroke-width: 2px !important;
+}
+
+/* Edge labels - comprehensive selectors */
+.mermaid .edgeLabel,
+.mermaid .edgeLabel rect,
+.mermaid .edgeLabel .label {
+  background-color: var(--v4d3r-black-charcoal) !important;
+  fill: var(--v4d3r-black-charcoal) !important;
+}
+
+.mermaid .edgeLabel text,
+.mermaid .edgeLabel span,
+.mermaid .edgeLabel .edgeLabel,
+.mermaid .label foreignObject div {
+  color: var(--v4d3r-grey-light) !important;
+  fill: var(--v4d3r-grey-light) !important;
+  background: transparent !important;
+}
+
+/* Arrowheads - multiple selector patterns */
+.mermaid marker#arrowhead path,
+.mermaid marker path,
+.mermaid .marker {
+  fill: var(--v4d3r-teal-primary) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M5: MERMAID SUBGRAPH STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .cluster rect {
+  fill: var(--v4d3r-black-soft) !important;
+  stroke: var(--v4d3r-grey-dark) !important;
+  stroke-width: 1px !important;
+  rx: 8px;
+  ry: 8px;
+}
+
+.mermaid .cluster .label {
+  color: var(--v4d3r-teal-light) !important;
+  fill: var(--v4d3r-teal-light) !important;
+  font-weight: 600;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M6: FLOWCHART SPECIFIC STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .flowchart-link {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+
+.mermaid .marker {
+  fill: var(--v4d3r-teal-primary) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M7: SEQUENCE DIAGRAM STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .actor rect,
+.mermaid .actor circle,
+.mermaid .actor ellipse,
+.mermaid .actor polygon {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .actor text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .messageLine {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .messageText {
+  fill: var(--v4d3r-grey-light) !important;
+}
+.mermaid .activationRect {
+  fill: var(--v4d3r-teal-dark) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .sequenceDiagram .divider {
+  stroke: var(--v4d3r-grey-dark) !important;
+}
+.mermaid .sequenceDiagram .noteRect {
+  fill: var(--v4d3r-black-charcoal) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .sequenceDiagram .noteText {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .actor {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+.mermaid .actor-line {
+  stroke: var(--v4d3r-grey-dark) !important;
+}
+
+.mermaid text.actor {
+  fill: var(--v4d3r-grey-pale) !important;
+  font-weight: 500;
+}
+
+.mermaid .messageLine0,
+.mermaid .messageLine1 {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+
+.mermaid .messageText {
+  fill: var(--v4d3r-grey-light) !important;
+}
+
+.mermaid .activation0,
+.mermaid .activation1,
+.mermaid .activation2 {
+  fill: var(--v4d3r-teal-dark) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M8: GANTT CHART STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .gantt-bar {
+  fill: var(--v4d3r-teal-primary) !important;
+  stroke: var(--v4d3r-black-pure) !important;
+  stroke-width: 1px !important;
+}
+.mermaid .gantt-bar-label {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .gantt-axis text {
+  fill: var(--v4d3r-grey-light) !important;
+}
+.mermaid .gantt-grid line {
+  stroke: var(--v4d3r-grey-dark) !important;
+  stroke-dasharray: 2,2 !important;
+}
+
+.mermaid .section0,
+.mermaid .section2 {
+  fill: var(--v4d3r-black-rich) !important;
+}
+
+.mermaid .section1,
+.mermaid .section3 {
+  fill: var(--v4d3r-black-charcoal) !important;
+}
+
+.mermaid .task {
+  fill: var(--v4d3r-teal-dark) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+.mermaid .taskText {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+
+.mermaid .taskTextOutsideRight,
+.mermaid .taskTextOutsideLeft {
+  fill: var(--v4d3r-grey-light) !important;
+}
+
+.mermaid .grid .tick line {
+  stroke: var(--v4d3r-grey-dark) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M9: PIE CHART STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .pieSlice {
+  stroke: var(--v4d3r-black-rich) !important;
+  stroke-width: 2px !important;
+}
+.mermaid .pieLabel {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .pieTitleText {
+  fill: var(--v4d3r-grey-pale) !important;
+  font-weight: 600;
+}
+
+.mermaid .slice {
+  stroke: var(--v4d3r-black-pure) !important;
+  stroke-width: 2px !important;
+}
+
+.mermaid .legend text {
+  fill: var(--v4d3r-grey-light) !important;
+}
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M10: CLASS DIAGRAM STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .classNode rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .classNode text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .classEdgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .classMarker path {
+  fill: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .classGroup rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .classGroup .title {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+
+.mermaid .classGroup rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+.mermaid .classGroup .title {
+  fill: var(--v4d3r-teal-light) !important;
+}
+
+.mermaid .classGroup line {
+  stroke: var(--v4d3r-grey-dark) !important;
+}
+
+.mermaid .classLabel .box {
+  fill: var(--v4d3r-black-charcoal) !important;
+  stroke: var(--v4d3r-grey-dark) !important;
+}
+
+.mermaid .classLabel .label {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+
+.mermaid .relation {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M11: STATE DIAGRAM STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .stateNode rect,
+.mermaid .stateNode circle,
+.mermaid .stateNode ellipse {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .stateNode text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .stateEdgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .stateMarker path {
+  fill: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .stateGroup rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+
+.mermaid .stateGroup .title {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+
+.mermaid .stateGroup .composit {
+  fill: var(--v4d3r-black-soft) !important;
+}
+
+.mermaid .start-state,
+.mermaid .end-state {
+  fill: var(--v4d3r-teal-primary) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M12: MINDMAP STYLING
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .mindmap-node rect,
+.mermaid .mindmap-node circle,
+.mermaid .mindmap-node ellipse,
+.mermaid .mindmap-node polygon {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .mindmap-node text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .mindmap-edgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .mindmap-marker path {
+  fill: var(--v4d3r-teal-primary) !important;
+}
+.mermaid .mindmap-node rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-teal-primary) !important;
+  rx: 8px;
+  ry: 8px;
+}
+
+.mermaid .mindmap-node text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+
+.mermaid .mindmap-edge {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] M13: HOVER EFFECTS FOR ALL MERMAID NODES
+───────────────────────────────────────────────────────────────────────── */
+.mermaid .node:hover rect,
+.mermaid .node:hover circle,
+.mermaid .node:hover ellipse,
+.mermaid .node:hover polygon,
+.mermaid .node:hover path {
+  stroke: var(--v4d3r-accent-crimson) !important;
+  stroke-width: 8px !important;
+  filter: drop-shadow(0 0 6px var(--v4d3r-teal-glow)) !important;
+
+}
+.mermaid .node:hover .label {
+  fill: var(--v4d3r-accent-crimson) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF PART 1 - MERMAID STYLING
+   Continue to Part 2 for TABLE styling
+   Continue to Part 3 for PLUGIN styling
+═══════════════════════════════════════════════════════════════════════════ */
+
+
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF V4D3R SNIPPET SYSTEM
+   
+   USAGE:
+   1. Enable all 3 snippet files in Obsidian Settings > Appearance > Snippets
+   2. Toggle individual features by commenting/uncommenting sections
+   3. Use cssclass variants in frontmatter for tables: table-compact, 
+      table-wide, table-borderless, table-minimal, table-latex, 
+      table-shadow, table-mono, table-align-center, table-align-right
+   
+   TOTAL FEATURES: 47 toggleable styling options
+   - M1-M13: Mermaid diagrams (13 features)
+   - T1-T17: Tables (17 features)  
+   - P1-P17: Plugins (17 features)
+═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Mermaid Diagram Resizer
+ Category: Diagrams
+ Purpose: Resizable and scrollable Mermaid diagrams
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Adds drag-to-resize functionality to Mermaid diagram blocks
+ with automatic scrolling for large diagrams. Features visual
+ feedback on hover and flexible resizing options (both
+ directions or vertical only).
+
+ Dependencies: None
+ Standalone: Yes
+
+ Features:
+ - Drag handle in bottom-right corner
+ - Resize both horizontally and vertically
+ - Automatic scrolling for overflow
+ - Visual feedback on hover
+ - Centered diagram layout
+ - Optional fixed window mode
+
+ Mermaid Documentation:
+ https://mermaid.js.org/
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   MERMAID CONTAINER
+   Main wrapper for diagram
+   ══════════════════════════════════════════════════════════ */
+
+.mermaid {
+  /* ─────────────────────────────────────────
+     ENABLE DRAG RESIZING
+     ───────────────────────────────────────── */
+  resize: both !important;                    /* Adds drag handle bottom-right */
+  overflow: auto !important;                  /* Required for resize to work */
+
+  /* ─────────────────────────────────────────
+     LAYOUT & POSITIONING
+     ───────────────────────────────────────── */
+  display: flex !important;                   /* Flexbox for centering */
+  justify-content: center;                    /* Center horizontally */
+  align-items: center;                        /* Center vertically */
+
+  /* ─────────────────────────────────────────
+     VISUAL CUES
+     ───────────────────────────────────────── */
+  border: 1px dashed var(--background-modifier-border); /* Faint border */
+  background-color: var(--background-primary-alt);
+  padding: 10px;
+  margin: 1rem auto;                          /* Center container itself */
+
+  /* ─────────────────────────────────────────
+     INITIAL DIMENSIONS
+     ───────────────────────────────────────── */
+  width: 100%;                                /* Start full width */
+  max-width: 100%;
+  min-height: 150px;                          /* Prevent collapsing */
+
+  /* ─────────────────────────────────────────
+     SMOOTH TRANSITIONS
+     ───────────────────────────────────────── */
+  transition: box-shadow 0.2s ease;
+}
+
+/* ══════════════════════════════════════════════════════════
+   HOVER EFFECTS
+   Visual feedback when interacting
+   ══════════════════════════════════════════════════════════ */
+
+.mermaid:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);    /* Lift effect */
+  border-color: var(--text-accent);           /* Highlight border (gold) */
+}
+.mermaid:hover svg {
+  /* Optional: Slight scale-up on hover */
+  /* transform: scale(1.02); */
+}
+.mermaid:hover {
+  cursor: nwse-resize;                        /* Resize cursor */
+}
+.merrmaid svg:hover {
+  cursor: move;                               /* Move cursor over diagram */
+}
+.mermaid:hover {
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  border-color: #009792ff; /* Red Arrow Highlight */
+}
+.node rect, .node circle, .node polygon {
+  fill: #121212 !important; stroke: #26DCD6 !important; stroke-width: 2px !important;
+}
+.edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
+.marker { fill: #26DCD6 !important; stroke: #26DCD6 !important; }
+.label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
+/*node Hover effect*/
+.node:hover rect, .node:hover circle, .node:hover polygon {
+  fill: #1F1F1F !important; stroke: #00FFF7 !important; stroke-width: 2px !important;
+}
+.edgePath:hover .path { stroke: #00FFF7 !important; stroke-width: 2px !important; }
+.marker:hover { fill: #00FFF7 !important; stroke-width: 2px !important; }
+.label:hover { color: #FFFFFF !important; font-family: "JetBrains Mono" !important; }
+
+
+
+/* ══════════════════════════════════════════════════════════
+   SVG DIAGRAM
+   Internal diagram scaling
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * Ensures the diagram scales WITH the container as you drag
+ */
+.mermaid svg {
+  width: auto !important;
+  height: auto !important;
+  max-width: none !important;                 /* Remove default caps */
+}
+
+/* ══════════════════════════════════════════════════════════
+   ALTERNATIVE: FIXED WINDOW MODE
+   Vertical-only resizing with scrolling
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * Uncomment this section if you prefer a scrollable window
+ * over full resizing. This locks horizontal width and allows
+ * only vertical adjustment.
+ *
+ * .mermaid {
+ *   resize: vertical;
+ *   overflow: scroll;
+ *   max-height: 600px;
+ *   justify-content: flex-start;
+ * }
+ */
+
+/* ══════════════════════════════════════════════════════════
+   DARK MODE THEME INTEGRATION
+   Optional Mermaid theme colors
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * These styles attempt to match Mermaid's generated SVG
+ * to your Obsidian theme. Results may vary based on
+ * Mermaid's internal styling.
+ */
+
+.theme-dark .mermaid {
+  /* Background already set above */
+}
+
+/* Mermaid text elements */
+.theme-dark .mermaid text {
+  fill: var(--text-normal) !important;        /* Match theme text */
+}
+
+/* Mermaid node backgrounds */
+.theme-dark .mermaid rect,
+.theme-dark .mermaid circle {
+  fill: var(--background-secondary) !important;
+  stroke: var(--color-accent) !important;     /* Purple stroke */
+}
+
+/* Mermaid connections/arrows */
+.theme-dark .mermaid path,
+.theme-dark .mermaid line {
+  stroke: var(--color-accent) !important;     /* Purple lines */
+}
+
+/* ══════════════════════════════════════════════════════════
+   MERMAID SPECIFIC DIAGRAM TYPES
+   Flowcharts, sequence diagrams, etc.
+   ══════════════════════════════════════════════════════════ */
+
+/* Flowchart nodes */
+.theme-dark .mermaid .node rect {
+  fill: rgba(0, 229, 221, 0.1) !important;    /* Purple tint */
+  stroke: #00E5DD !important;                 /* Purple border */
+  stroke-width: 2px;
+}
+
+/* Sequence diagram boxes */
+.theme-dark .mermaid .actor {
+  fill: var(--background-secondary) !important;
+  stroke: #00E5DD !important;                 /* Gold border */
+}
+
+
+
+/* ══════════════════════════════════════════════════════════
+   USAGE INSTRUCTIONS
+   ══════════════════════════════════════════════════════════
+
+   HOW TO RESIZE:
+   1. Hover over the Mermaid diagram
+   2. Look for the resize handle in the bottom-right corner
+   3. Click and drag to resize
+
+   SCROLLING:
+   - If diagram exceeds container size, scrollbars appear
+   - Use mouse wheel or scrollbar to navigate
+
+   CUSTOMIZATION:
+   - Change initial height: Adjust 'min-height' value
+   - Change max height: Add 'max-height' property
+   - Lock aspect ratio: Use 'resize: vertical' only
+   - Remove border: Set 'border: none'
+
+   EXAMPLE MERMAID CODE:
+   ```mermaid
+   graph TD
+       A[Start] --> B{Decision}
+       B -->|Yes| C[Action 1]
+       B -->|No| D[Action 2]
+       C --> E[End]
+       D --> E
+   ```
+
+   ══════════════════════════════════════════════════════════ */
+
+/* ══════════════════════════════════════════════════════════
+   END OF MERMAID STYLING
+   ══════════════════════════════════════════════════════════ */

@@ -1,0 +1,884 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: Pur3v4d3r's Custom File Tree Theme
+ Purpose: Color-coded file explorer matching vault structure
+ Author: Pur3v4d3r
+ Date: 2025-12-05
+ Vault Structure: Custom PKB with numbered folder system
+ Installation: Place in .obsidian/snippets/ and enable
+═══════════════════════════════════════════════════════════
+*/
+
+/* [FOUNDATION] Base File Explorer Styling - FIXED */
+.nav-files-container {
+  padding: 10px 6px;
+  font-family: var(--font-interface);
+}
+
+.nav-folder-title,
+.nav-file-title {
+  transition: background-color 0.2s ease, color 0.2s ease; /* Only transition visual properties */
+  border-radius: 4px;
+}
+
+/* [ROOT FOLDERS] Your Main Vault Structure */
+
+/* 00-inbox - Critical Red (Processing Zone) */
+.nav-folder-title[data-path="00-inbox"] {
+  color: #C0C0C0!important;
+  font-weight: 300;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="00-inbox"]::before {
+  content: "📥 ";
+  margin-right: 6px;
+}
+
+/* 000_databsae - Dark Teal (Core Data) */
+.nav-folder-title[data-path="000_databsae"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="000_databsae"]::before {
+  content: "💾";
+  margin-right: 6px;
+}
+
+/* 01_daily-notes - Light Grey (Time-based) */
+.nav-folder-title[data-path="01_daily-notes"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="01_daily-notes"]::before {
+  content: "📅 ";
+  margin-right: 6px;
+}
+
+/* 02-projects - Bright Red (Active Work) - FIXED */
+.nav-folder-title[data-path="02-projects"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="02-projects"]::before {
+  content: "🔬";
+  margin-right: 6px;
+  
+}
+
+/* 03-notes - Medium Grey (Knowledge) */
+.nav-folder-title[data-path="03-notes"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="03-notes"]::before {
+  content: "📄";
+  margin-right: 6px;
+}
+
+/* 04-library - Dark Grey (Reference Material) */
+.nav-folder-title[data-path="04-library"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="04-library"]::before {
+  content: "📚 ";
+  margin-right: 6px;
+}
+
+/* 05-tasks-&-reviews - Teal (Action Items) */
+.nav-folder-title[data-path="05-tasks-&-reviews"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="05-tasks-&-reviews"]::before {
+  content: "✅ ";
+  margin-right: 6px;
+}
+
+/* 06-dashboards - Pale Grey (Overview/Navigation) */
+.nav-folder-title[data-path="06-dashboards"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="06-dashboards"]::before {
+  content: "📊 ";
+  margin-right: 6px;
+}
+
+/* 07-mocs - Light Grey (Maps of Content) */
+.nav-folder-title[data-path="07-mocs"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="07-mocs"]::before {
+  content: "🗺️ ";
+  margin-right: 6px;
+}
+
+/* 99-archive - Light Gray (Historical) */
+.nav-folder-title[data-path="99-archive"] {
+  color: #C0C0C0!important;
+  font-weight: 600!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  opacity: 0.85!important;
+  font-size: 18px!important;
+  border-right: 3px solid #008B86!important;
+  padding: 4px 8px!important;
+}
+
+.nav-folder-title[data-path="99-scripts"]::before {
+  content: "👾";
+  margin-right: 6px;
+}
+
+/* 99-system - Dark Teal (Infrastructure) */
+.nav-folder-title[data-path="99-system"] {
+  color: #C0C0C0!important;
+  font-weight: 600!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  opacity: 0.85!important;
+  font-size: 18px!important;
+  border-right: 3px solid #008B86!important;
+  padding: 4px 8px!important;
+}
+
+/* 99-scripts - Dark Teal (Infrastructure) */
+.nav-folder-title[data-path="99-scripts"] {
+  color: #C0C0C0!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  font-weight: 600!important;
+  opacity: 0.9!important;
+  font-size: 18px!important; /* INCREASED from 12px */
+  font-style: italic!important;
+  border-right: 3px solid #008B86!important;
+  padding: 4px 8px!important;
+}
+
+.nav-folder-title[data-path="99-archive"]::before {
+  content: "🗄️";
+  margin-right: 6px;
+}
+
+.nav-folder-title[data-path="99-system"]::before {
+  content: "⚙️ ";
+  margin-right: 6px;
+}
+/* 00-meta - Dark Teal (Infrastructure) */
+.nav-folder-title[data-path="00-meta"] {
+  color: #C0C0C0!important;
+  background: rgba(0, 255, 247, 0.12)!important;
+  font-weight: 600!important;
+  opacity: 0.9!important;
+   border-right: 3px solid #008B86!important;
+  font-size: 18px !important; /* INCREASED from 12px */
+  padding: 4px 8px!important;
+}
+
+.nav-folder-title[data-path="00-meta"]::before {
+  content: "♾️ ";
+  margin-right: 6px;
+} 
+/* ═══════════════════════════════════════════════════════════
+   [SPECIAL SUBFOLDERS] Custom Nested Folder Styling
+   ══════════════════════════════════════════════════════════ */
+
+/* Inbox Topic Sets - Organized Capture Area */
+.nav-folder-title[data-path="00-inbox/02-topic-sets"] {
+  color: #B0B0B0 !important;
+  font-weight: 650!important;
+  background: rgba(176, 176, 176, 0.12)!important;
+  padding: 4px 8px!important;
+  border-left: 3px solid #B0B0B0!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="00-inbox/02-topic-sets"]::before {
+  content: "✍️ " !important;
+  margin-right: 6px!important;
+  opacity: 0.9!important;
+}
+
+/* [NESTED FOLDERS] Sub-folder Styling */
+.nav-folder-children .nav-folder-title {
+  font-size: 18px !important; /* INCREASED from 12px */
+  padding-left: 12px !important;
+  font-weight: 500 !important;
+  opacity: 0.9 !important;
+}
+
+/* Add subtle connector lines for nested structure */
+.nav-folder-children {
+  position: relative!important;
+  margin-left: 8px!important;
+  padding-left: 12px!important;
+}
+
+.nav-folder-children::before {
+  content: ""!important;
+  position: absolute!important;
+  left: 4px!important;
+  top: 0!important;
+  bottom: 8px!important;
+  width: 2px!important;
+  background: linear-gradient(180deg,    rgba(0, 255, 247, 0.3) 0%,    transparent 100%)!important;
+  border-radius: 2px!important;
+  -webkit-border-radius: 2px!important;
+  -moz-border-radius: 2px!important;
+  -ms-border-radius: 2px!important;
+  -o-border-radius: 2px!important;
+}
+
+/* [FILES] File Styling */
+.nav-file-title {
+  padding: 3px 8px 3px 28px!important; /* Increased left padding for icon space */
+  font-size: 18px!important; /* INCREASED from 13px */
+  color: var(--text-normal)!important;
+}
+
+/* File type icons */
+.nav-file-title[data-path$=".md"]::before {
+  content: "📄 "!important;
+  margin-right: 6px!important;
+  opacity: 0.5!important;
+  font-size: 18px!important; /* INCREASED from 12px */
+}
+
+.nav-file-title[data-path$=".canvas"]::before {
+  content: "🎨 "!important;
+  margin-right: 6px!important;
+  opacity: 0.7!important;
+}
+
+/* Daily note files special styling */
+.nav-file-title[data-path^="01_daily-notes/2025"]::before {
+  content: "📆 "!important;
+  opacity: 0.6!important;
+}
+
+/* [ACTIVE FILE] Current file highlight - FIXED */
+.nav-file-title.is-active {
+  color: #00E5DD!important;
+  background: linear-gradient(90deg,
+    rgba(0, 229, 221, 0.25) 0%,
+    rgba(0, 229, 221, 0.08) 100%!important);
+  border-left: 4px solid #00E5DD!important;
+  font-weight: 600!important;
+  padding-left: 24px!important; /* 4px border + 24px padding = 28px total (matches base) */
+  box-shadow: 0 2px 8px rgba(0, 229, 221, 0.2)!important;
+}
+
+/* [HOVER EFFECTS] Interactive States - FIXED */
+.nav-folder-title:hover {
+  background: rgba(0, 229, 221, 0.15)!important;
+  /* REMOVED: transform: translateX(2px); */
+  cursor: pointer!important;
+}
+
+.nav-file-title:hover {
+  background: rgba(224, 224, 224, 0.1)!important;
+  /* REMOVED: transform: translateX(2px); */
+  border-left: 2px solid #E0E0E0!important;
+  padding-left: 26px!important; /* 2px border + 26px padding = 28px total (matches base) */
+  cursor: pointer!important;
+}
+
+/* [COLLAPSE INDICATORS] Folder State Icons */
+.nav-folder-collapse-indicator {
+  padding: 4px!important;
+  margin-left: -4px!important;
+}
+
+.nav-folder.is-collapsed > .nav-folder-title .nav-folder-collapse-indicator {
+  transform: rotate(-90deg)!important;
+  color: var(--text-muted)!important;
+  -webkit-transform: rotate(-90deg)!important;
+  -moz-transform: rotate(-90deg)!important;
+  -ms-transform: rotate(-90deg)!important;
+  -o-transform: rotate(-90deg)!important;
+}
+
+.nav-folder:not(.is-collapsed) > .nav-folder-title .nav-folder-collapse-indicator {
+  color: #00E5DD!important;
+}
+
+/* [SPECIAL FILES] Highlight important file patterns */
+
+/* System/Template Files (underscore prefix) - Bright Purple with System Icon */
+.nav-file-title[data-path*="/_"] {
+  color: #00E5DD !important;
+  opacity: 0.95!important;
+  font-style: italic!important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="/_"]::before {
+  content: "⚙️ " !important;
+  opacity: 0.8!important;
+  font-size: 18px!important;
+}
+
+/* Reference Files - Reactor Orange */
+.nav-file-title[data-path*="reference"] {
+  color: #00FFF7!important;
+  font-style: italic!important;
+}
+
+/* Template Files (generic) - Bright Purple */
+.nav-file-title[data-path*="template"] {
+  color: #00E5DD!important;
+  opacity: 0.95!important;
+}
+
+/* Dashboard Files - Terminal Green */
+.nav-file-title[data-path*="dashboard"] {
+  color: #00E5DD!important;
+  font-weight: 500!important;
+}
+
+/* Topic Set Notes - Organized Teal */
+.nav-file-title[data-path*="02-topic-sets/"] {
+  color: #E0E0E0 !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="02-topic-sets/"]::before {
+  content: "📑 " !important;
+  opacity: 0.7!important;
+}
+
+/* MOC Files - Electric Blue Navigation */
+.nav-file-title[data-path*="moc"],
+.nav-file-title[data-path*="07-mocs/"] {
+  color: #00E5DD !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="moc"]::before,
+.nav-file-title[data-path*="07-mocs/"]::before {
+  content: "🗺️ " !important;
+  opacity: 0.7!important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   [REPORT NOTES] Domain-Categorized Report Styling
+   ══════════════════════════════════════════════════════════ */
+
+/* Cognitive Science Reports - Brain Purple */
+.nav-file-title[data-path*="cog-"],
+.nav-file-title[data-path*="cog-sci-report-"],
+.nav-file-title[data-path*="psy-report-"],
+.nav-file-title[data-path*="cog-psy-"] {
+  color: #00E5DD !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="cog-"]::before,
+.nav-file-title[data-path*="cog-sci-report-"]::before,
+.nav-file-title[data-path*="cog-psy-"]::before {
+  content: "🧠 " !important;
+  opacity: 0.7!important;
+}
+
+/* PKB/PKM Reports - Knowledge Gold */
+.nav-file-title[data-path*="pkb-report-"],
+.nav-file-title[data-path*="pkm-report-"] {
+  color: #00E5DD !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="pkb-report-"]::before,
+.nav-file-title[data-path*="pkm-report-"]::before {
+  content: "📖 " !important;
+  opacity: 0.7!important;
+}
+
+/* Prompt Engineering Reports - AI Cyan */
+.nav-file-title[data-path*="prompt-report-"],
+.nav-file-title[data-path*="prompt-eng-"] {
+  color: #00E5DD !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="prompt-report-"]::before,
+.nav-file-title[data-path*="prompt-eng-"]::before {
+  content: "🤖 " !important;
+  opacity: 0.7!important;
+}
+
+/* Cosmology Reports */
+.nav-file-title[data-path*="cosmo-report-"],
+.nav-file-title[data-path*="astro-"] {
+  color: #00E5DD !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="cosmo-report-"]::before,
+.nav-file-title[data-path*="astro-"]::before {
+  content: "🌌 " !important;
+  opacity: 0.7!important;
+}
+
+/* Generic Report Files (fallback for reports without specific prefix) */
+.nav-file-title[data-path*="-report-"]:not([data-path*="cog-"]):not([data-path*="pkb-"]):not([data-path*="prompt-"]):not([data-path*="cosmo-"]) {
+  color: #E0E0E0 !important;
+  font-weight: 500!important;
+}
+
+.nav-file-title[data-path*="-report-"]::before {
+  content: "📕"!important;
+  opacity: 0.6!important;
+}
+
+/* [VISUAL HIERARCHY] Indentation Enhancement */
+.mod-root > .nav-folder > .nav-folder-children > .nav-folder {
+  margin-left: 4px!important;
+}
+
+.mod-root > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px!important;
+  padding: 4px 0!important;
+  margin: 2px 0 2px 4px!important;
+  -webkit-border-radius: 4px!important;
+  -moz-border-radius: 4px!important;
+  -ms-border-radius: 4px!important;
+  -o-border-radius: 4px!important;
+}
+
+/* [ACCESSIBILITY] Motion & Focus States */
+@media (prefers-reduced-motion: reduce) {
+  .nav-folder-title,
+  .nav-file-title,
+  .nav-folder-title:hover,
+  .nav-file-title:hover {
+    transition: none!important;
+    transform: none!important;
+    -webkit-transition: none!important;
+    -moz-transition: none!important;
+    -ms-transition: none!important;
+    -o-transition: none!important;
+    -webkit-transform: none!important;
+    -moz-transform: none!important;
+    -ms-transform: none!important;
+    -o-transform: none!important;
+}
+}
+
+.nav-folder-title:focus-visible,
+.nav-file-title:focus-visible {
+  outline: 2px solid #00E5DD!important;
+  outline-offset: 2px!important;
+}
+
+/* [SCROLLBAR] Match theme */
+.nav-files-container::-webkit-scrollbar-thumb {
+  background: rgba(0, 229, 221, 0.3)!important;
+  border-radius: 4px;
+}
+
+.nav-files-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 229, 221, 0.5)!important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   [OPTIONAL FEATURES] Uncomment sections below to enable
+   To enable: Remove the comment markers around the section
+   To disable: Re-add comment markers at start and end
+   ══════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 1: Index File Highlighting
+   Makes -index.md files stand out with special styling
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title[data-path*="-index.md"],
+.nav-file-title[data-path*="_index.md"] {
+  color: #00FFF7 !important;
+  font-weight: 600!important;
+  background: rgba(53, 208, 255, 0.1);
+  border-left: 3px solid #00FFF7!important;
+  padding-left: 25px1!important; /* 3px border + 25px padding = 28px total (matches base) */
+}
+
+.nav-file-title[data-path*="-index.md"]::before,
+.nav-file-title[data-path*="_index.md"]::before {
+  content: "📑 " !important;
+  opacity: 0.8!important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 2: Library Subfolder Color Coding
+   Applies distinct colors to each library subject area
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title[data-path^="04-library/01-cognitive-science"] {
+  color: #C0C0C0;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="04-library/01-cognitive-science"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+
+.nav-folder-title[data-path^="04-library/02-pkb-and-pkm-learning"] {
+  color: #C0C0C0;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="04-library/02-pkb-and-pkm-learning"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+.nav-folder-title[data-path^="04-library/03-prompt-engineering"] {
+  color: #C0C0C0;
+  font-weight: 700;
+  background: rgba(0, 0, 0, 0.09);
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="04-library/03-prompt-engineering"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+
+.nav-folder-title[data-path^="04-library/04-cosmology"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="04-library/04-cosmology"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+.nav-folder-title[data-path^="03-notes/01_permanent-notes"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="03-notes/01_permanent-notes"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+.nav-folder-title[data-path^="03-notes/02_quotes"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="03-notes/02_quotes"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+.nav-folder-title[data-path^="03-notes/05-stoic-notes"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #008B86!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path="03-notes/05-stoic-notes"]::before {
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
+}
+
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 3: Timestamp Badge Display
+   Shows timestamp from filename as a subtle badge
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title[data-path*="2025"]::after,
+.nav-file-title[data-path*="2026"]::after,
+.nav-file-title[data-path*="2027"]::after,
+.nav-file-title[data-path*="2024"]::after {
+  content: "🕐" !important;
+  margin-left: 6px!important;
+  opacity: 0.4!important;
+  font-size: 18px!important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 4: Reference vs Report Folder Distinction
+   Makes -reference and -reports folders visually distinct
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title[data-path*="-reference"] {
+    color: #B0B0B0 !important;
+    font-weight: 650!important;
+    background: rgba(176, 176, 176, 0.12)!important;
+    padding: 4px 8px!important;
+    border-left: 3px solid #B0B0B0!important;
+    font-size: 18px!important;
+  }
+.nav-folder-title[data-path*="-reference"]::before {
+  content: "📚 " !important;
+}
+
+.nav-folder-title[data-path*="-reports"] {
+  color: #B0B0B0 !important;
+  font-weight: 650!important;
+  background: rgba(176, 176, 176, 0.12)!important;
+  padding: 4px 8px!important;
+  border-left: 3px solid #B0B0B0!important;
+  font-size: 18px!important;
+}
+
+.nav-folder-title[data-path*="-reports"]::before {
+  content: "📝" !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 5: File Badge System
+   Adds visual indicators based on note maturity level
+   Requires notes to include maturity keywords in filename
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title[data-path*="seedling"]::after {
+  content: "🌱" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="budding"]::after {
+  content: "🌿" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="evergreen"]::after {
+  content: "🌲" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="crit"]::after {
+  content: "🔴" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="high"]::after {
+  content: "🟠" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="mid"]::after {
+  content: "🟡" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+.nav-file-title[data-path*="low"]::after {
+  content: "🟢" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="gemini"]::after,
+.nav-file-title[data-path*="gem"]::after {
+
+  content: "♊" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="claude"]::after {
+  content: "🐉" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="prompt"]::after {
+  content: "📋" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+
+.nav-file-title[data-path*="component"]::after {
+  content: "🧩" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+.nav-file-title[data-path*="reference"]::after {
+  content: "🍄" !important;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
+}
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 6: Compact Mode - Reduced Spacing
+   Tighter spacing for file tree (more files visible)
+   ───────────────────────────────────────────────────────── */
+
+.nav-files-container {
+  padding: 6px 4px !important;
+}
+
+.nav-folder-title,
+.nav-file-title {
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  font-size: 18px !important;
+}
+
+.nav-folder-children {
+  margin-left: 6px !important;
+  padding-left: 8px !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 7: Rainbow Indent Lines
+   Colorful nested folder indicators by depth
+   ───────────────────────────────────────────────────────── */
+   /* ─────────────────────────────────────────────────────────
+   .nav-folder-children::before {
+  background: linear-gradient(180deg,
+    rgba(0, 229, 221, 0.4) 0%,
+    rgba(224, 224, 224, 0.3) 50%,
+    rgba(0, 153, 255, 0.2) 100%) !important;
+}
+
+.nav-folder-children .nav-folder-children::before {
+  background: linear-gradient(180deg,
+    rgba(224, 224, 224, 0.4) 0%,
+    rgba(203, 255, 0, 0.3) 50%,
+    transparent 100%) !important;
+}
+*/
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 8: Hide File Extensions
+   Removes .md extension from file names in tree
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title-content {
+  display: inline-block !important;
+}
+
+.nav-file-title-content::after {
+  content: "" !important;
+}
+
+.tree-item-self .nav-file-title-content {
+  max-width: calc(100% - 30px) !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 9: Animated Hover Effects
+   Adds smooth scaling and glow on hover
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title:hover {
+  transform: scale(1.02) !important;
+  box-shadow: 0 2px 12px rgba(0, 229, 221, 0.3) !important;
+}
+
+.nav-file-title:hover {
+  transform: translateX(4px) scale(1.01) !important;
+  box-shadow: 0 2px 8px rgba(224, 224, 224, 0.2) !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 10: High Contrast Mode
+   Increases contrast for better visibility
+   ───────────────────────────────────────────────────────── */
+
+   * ─────────────────────────────────────────────────────────
+   .nav-folder-title,
+.nav-file-title {
+  filter: brightness(1.2) contrast(1.1) !important;
+}
+
+.nav-folder-title[data-path^="00-"],
+.nav-folder-title[data-path^="01-"],
+.nav-folder-title[data-path^="02-"],
+.nav-folder-title[data-path^="03-"],
+.nav-folder-title[data-path^="04-"],
+.nav-folder-title[data-path^="05-"],
+.nav-folder-title[data-path^="06-"],
+.nav-folder-title[data-path^="07-"] {
+  font-weight: 300 !important;
+  text-shadow: 0 0 0px currentColor !important;
+}

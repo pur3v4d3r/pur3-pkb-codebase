@@ -1,0 +1,401 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   V4D3R MERMAID, TABLES & PLUGINS SNIPPET SYSTEM - PART 3: PLUGINS
+   Author: TaskMaster Agent | Theme: Red/Black/Grey
+   
+   TOGGLE SYSTEM: Comment/uncomment sections to enable/disable features
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: PLUGIN STYLING
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P1: DATAVIEW TABLE STYLING
+───────────────────────────────────────────────────────────────────────── */
+.dataview.table-view-table {
+  background: var(--v4d3r-black-charcoal);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+}
+
+.dataview.table-view-table th {
+  background: var(--v4d3r-pink-dark);
+  color: var(--v4d3r-grey-snow);
+  border-bottom: 2px solid var(--v4d3r-pink-primary);
+}
+
+.dataview.table-view-table td {
+  color: var(--v4d3r-grey-pale);
+}
+
+.dataview.table-view-table tr:hover {
+  background: rgba(220, 38, 129, 0.1);
+}
+.dataview.table-view-table tr:nth-child(even) {
+  background: var(--v4d3r-black-rich);
+}
+.dataview.table-view-table tr:nth-child(odd) {
+  background: var(--v4d3r-black-soft);
+}
+.dataview.table-view-table td,
+.dataview.table-view-table th {
+  padding: 8px 12px;
+}
+.dataview.table-view-table th {
+  font-weight: 600;
+}
+.dataview.table-view-table td {
+  border-top: 1px solid var(--v4d3r-grey-dark);
+}
+.dataview.table-view-table th:first-child,
+.dataview.table-view-table td:first-child {
+  border-left: none;
+}
+
+.dataview.table-view-table th:last-child,
+.dataview.table-view-table td:last-child {
+  border-right: none;
+}
+.dataview.table-view-table tbody tr:last-child td {
+  border-bottom: none;
+}
+.dataview.table-view-table th {
+  text-align: left;
+}
+.dataview.table-view-table th.sortable:hover {
+  background: var(--v4d3r-pink-primary);
+  cursor: pointer;
+}
+.dataview.table-view-table th.sortable:after {
+  content: ' ⇅';
+  font-size: 0.8em;
+  color: var(--v4d3r-grey-medium);
+}
+.dataview.table-view-table th.sorted-asc:after {
+  content: ' ↑';
+  color: var(--v4d3r-pink-light);
+}
+.dataview.table-view-table th.sorted-desc:after {
+  content: ' ↓';
+  color: var(--v4d3r-pink-light);
+}
+.dataview.table-view-table th,
+.dataview.table-view-table td {
+  border-left: 1px solid var(--v4d3r-grey-dark);
+}
+.dataview.table-view-table th:first-child,
+.dataview.table-view-table td:first-child {
+  border-left: none;
+}
+.dataview.table-view-table th:last-child,
+.dataview.table-view-table td:last-child {
+  border-right: none;
+}
+.dataview.table-view-table tbody tr:last-child td {
+  border-bottom: none;
+}
+.dataview.table-view-table th {
+  text-align: left;
+}
+.dataview.table-view-table th.sortable:hover {
+  background: var(--v4d3r-pink-primary);
+  cursor: pointer;
+}
+.dataview.table-view-table th.sortable:after {
+  content: ' ⇅';
+  font-size: 0.8em;
+  color: var(--v4d3r-grey-medium);
+}
+.dataview.table-view-table th.sorted-asc:after {
+  content: ' ↑';
+  color: var(--v4d3r-pink-light);
+}
+.dataview.table-view-table th.sorted-desc:after {
+  content: ' ↓';
+  color: var(--v4d3r-pink-light);
+}
+.dataview.table-view-table a {
+  color: var(--v4d3r-pink-light);
+  text-decoration: none;
+}
+.dataview.table-view-table a:hover {
+  text-decoration: underline;
+}
+.dataview.table-view-table code {
+  background: var(--v4d3r-black-rich);
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: monospace;
+  color: var(--v4d3r-grey-snow);
+}
+.dataview.table-view-table code:hover {
+  background: var(--v4d3r-black-charcoal);
+}
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P2: DATAVIEW LIST STYLING
+───────────────────────────────────────────────────────────────────────── */
+.dataview.list-view-ul {
+  padding-left: 0;
+}
+
+.dataview.list-view-ul li {
+  list-style: none;
+  padding: 8px 12px;
+  margin: 4px 0;
+  background: var(--v4d3r-black-rich);
+  border-left: 3px solid var(--v4d3r-pink-primary);
+  border-radius: 0 6px 6px 0;
+}
+
+.dataview.list-view-ul li:hover {
+  background: var(--v4d3r-black-charcoal);
+  border-left-color: var(--v4d3r-pink-light);
+}
+.dataview.list-view-ul li a {
+  color: var(--v4d3r-pink-light);
+  text-decoration: none;
+}
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P4: TASKS PLUGIN STYLING
+───────────────────────────────────────────────────────────────────────── */
+.tasks-plugin-task {
+  background: var(--v4d3r-black-rich);
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-radius: 6px;
+  border-left: 3px solid var(--v4d3r-grey-dark);
+}
+
+.tasks-plugin-task:hover {
+  background: var(--v4d3r-black-charcoal);
+}
+
+/* Task priority colors */
+.task-priority-highest {
+  border-left-color: var(--v4d3r-pink-primary) !important;
+}
+
+.task-priority-high {
+  border-left-color: var(--v4d3r-pink-dark) !important;
+}
+
+.task-priority-medium {
+  border-left-color: var(--v4d3r-warning) !important;
+}
+
+.task-priority-low {
+  border-left-color: var(--v4d3r-grey-medium) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P5: CUSTOM CHECKBOX STYLING
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view input[type="checkbox"],
+.markdown-rendered input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--v4d3r-grey-dark);
+  border-radius: 4px;
+  background: var(--v4d3r-black-rich);
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.markdown-preview-view input[type="checkbox"]:checked,
+.markdown-rendered input[type="checkbox"]:checked {
+  background: var(--v4d3r-pink-primary);
+  border-color: var(--v4d3r-pink-primary);
+}
+
+.markdown-preview-view input[type="checkbox"]:checked::after,
+.markdown-rendered input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  color: var(--v4d3r-grey-snow);
+  font-size: 14px;
+  top: -2px;
+  left: 2px;
+}
+
+.markdown-preview-view input[type="checkbox"]:hover,
+.markdown-rendered input[type="checkbox"]:hover {
+  border-color: var(--v4d3r-pink-light);
+  box-shadow: 0 0 4px var(--v4d3r-pink-glow);
+}
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P7: CALENDAR PLUGIN STYLING
+───────────────────────────────────────────────────────────────────────── */
+.calendar {
+  background: var(--v4d3r-black-charcoal);
+  border-radius: 8px;
+  border: 1px solid var(--v4d3r-grey-dark);
+}
+
+.calendar .title {
+  color: var(--v4d3r-pink-light);
+  font-weight: 600;
+}
+
+.calendar .day {
+  color: var(--v4d3r-grey-pale);
+}
+
+.calendar .today {
+  background: var(--v4d3r-pink-dark);
+  color: var(--v4d3r-grey-snow);
+  border-radius: 50%;
+}
+
+.calendar .active {
+  background: var(--v4d3r-pink-primary);
+  color: var(--v4d3r-grey-snow);
+}
+
+.calendar .has-note::after {
+  content: '•';
+  color: var(--v4d3r-pink-light);
+  position: absolute;
+  bottom: 2px;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P8: KANBAN PLUGIN STYLING
+───────────────────────────────────────────────────────────────────────── */
+.kanban-plugin {
+  background: var(--v4d3r-black-soft);
+}
+
+.kanban-plugin__lane {
+  background: var(--v4d3r-black-charcoal);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+}
+
+.kanban-plugin__lane-title-text {
+  color: var(--v4d3r-pink-light);
+  font-weight: 600;
+}
+
+.kanban-plugin__item {
+  background: var(--v4d3r-black-rich);
+  border-left: 3px solid var(--v4d3r-grey-dark);
+  border-radius: 4px;
+}
+
+.kanban-plugin__item:hover {
+  border-left-color: var(--v4d3r-pink-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.kanban-plugin__item-title-wrapper {
+  color: var(--v4d3r-grey-pale);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P9: EXCALIDRAW CONTAINER
+───────────────────────────────────────────────────────────────────────── */
+.excalidraw-embedded {
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+  background: var(--v4d3r-black-charcoal);
+}
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P11: OUTLINE PANE STYLING
+───────────────────────────────────────────────────────────────────────── */
+.outline-tree {
+  background: var(--v4d3r-black-charcoal);
+}
+
+.outline-tree .tree-item-self:hover {
+  background: rgba(220, 38, 129, 0.1);
+}
+
+.outline-tree .tree-item-self.is-active {
+  background: var(--v4d3r-pink-dark);
+  color: var(--v4d3r-grey-snow);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P12: GRAPH VIEW ACCENT COLORS
+───────────────────────────────────────────────────────────────────────── */
+.graph-view.color-fill-attachment {
+  color: var(--v4d3r-grey-medium);
+}
+
+.graph-view.color-fill-focused {
+  color: var(--v4d3r-pink-primary);
+}
+
+.graph-view.color-line-highlight {
+  color: var(--v4d3r-pink-light);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P13: BACKLINKS/OUTGOING LINKS PANE
+───────────────────────────────────────────────────────────────────────── */
+.backlink-pane,
+.outgoing-link-pane {
+  background: var(--v4d3r-black-charcoal);
+}
+
+.backlink-pane .search-result-file-title,
+.outgoing-link-pane .search-result-file-title {
+  color: var(--v4d3r-pink-light);
+}
+
+.backlink-pane .search-result-file-matches,
+.outgoing-link-pane .search-result-file-matches {
+  color: var(--v4d3r-pink-primary);
+  font-size: medium;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P16: EMBEDDED/TRANSCLUDED NOTES
+───────────────────────────────────────────────────────────────────────── */
+.markdown-embed {
+  background: var(--v4d3r-black-rich);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-left: 3px solid var(--v4d3r-pink-primary);
+  border-radius: 0 8px 8px 0;
+  padding: 16px;
+}
+
+.markdown-embed-title {
+  color: var(--v4d3r-pink-light);
+  font-weight: 600;
+}
+.markdown-embed:hover {
+  background: var(--v4d3r-black-charcoal);
+  border-left-color: var(--v4d3r-pink-light);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF V4D3R SNIPPET SYSTEM
+   
+   USAGE:
+   1. Enable all 3 snippet files in Obsidian Settings > Appearance > Snippets
+   2. Toggle individual features by commenting/uncommenting sections
+   3. Use cssclass variants in frontmatter for tables: table-compact, 
+      table-wide, table-borderless, table-minimal, table-latex, 
+      table-shadow, table-mono, table-align-center, table-align-right
+   
+   TOTAL FEATURES: 47 toggleable styling options
+   - M1-M13: Mermaid diagrams (13 features)
+   - T1-T17: Tables (17 features)  
+   - P1-P17: Plugins (17 features)
+═══════════════════════════════════════════════════════════════════════════ */
