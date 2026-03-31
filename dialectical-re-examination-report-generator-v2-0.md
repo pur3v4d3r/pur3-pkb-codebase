@@ -1555,6 +1555,8 @@ For checklist-style applications:
 
 > [!connections-and-links] **PKB Integration Map (Appendix Version)**
 >
+> This report on {topic} connects to existing knowledge in your PKB:
+> 
 > **Upstream Nodes** (concepts this report builds on and depends on):
 > - [[{Concept}]]: {Why this report cannot stand without this upstream concept. How it grounds the dialectical analysis.}
 >

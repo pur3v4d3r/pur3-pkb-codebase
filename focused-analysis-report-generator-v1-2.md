@@ -1341,6 +1341,8 @@ Each figure entry MUST include:
 
 > [!connections-and-links] **Knowledge Graph Integration**
 >
+> This report on {topic} connects to existing knowledge in your PKB:
+>
 > **Upstream Dependencies (this report builds on):**
 >
 > - **[[{Permanent Note Name}]]** — {2-4 sentences: How this existing note provides conceptual foundation for this report. What specific arguments here depend on that node. What this report adds to the reader's understanding of that node.}
