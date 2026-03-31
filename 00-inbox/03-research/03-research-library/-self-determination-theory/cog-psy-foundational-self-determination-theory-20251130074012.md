@@ -30,7 +30,7 @@ confidence: provisional
 next-review: 2025-12-07
 review-count: 0
 link-up:
-  - "[[cognitive-science-moc]]"
+  - "[[99-archive/05-moc's/cognitive-science-moc]]"
 link-related:
   - "[[2025-11-30|Daily-Note]]"
 ---

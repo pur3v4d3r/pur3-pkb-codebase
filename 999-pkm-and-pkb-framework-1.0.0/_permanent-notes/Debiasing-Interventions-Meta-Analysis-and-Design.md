@@ -1,0 +1,79 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Debiasing-Interventions-Meta-Analysis-and-Design"
+aliases:
+  - "Debiasing-Interventions-Meta-Analysis-and-Design"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - cognitive-psychology
+
+domain: cognitive-psychology
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-27
+updated: 2026-03-27
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 12
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[.permanent-notes-index]]"
+  - "[[📖-Askēsis]]"
+  - "[[📖-Epistemic-Cowardice]]"
+  - "[[📖-Intellectual-Courage]]"
+  - "[[📖-Intellectual-Empathy]]"
+  - "[[📖-Intellectual-Humility]]"
+  - "[[📖-Intellectual-Integrity]]"
+  - "[[📖-Intellectual-Perseverance]]"
+  - "[[📖-Intellectual-Virtues]]"
+  - "[[📖-Motivated-Reasoning]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: medium
+---
+
+# Debiasing-Interventions-Meta-Analysis-and-Design
+
+> [!definition] **Debiasing-Interventions-Meta-Analysis-and-Design**
+> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 12 permanent notes.*
+
+## Referenced By
+
+- [[.permanent-notes-index]]
+- [[📖-Askēsis]]
+- [[📖-Epistemic-Cowardice]]
+- [[📖-Intellectual-Courage]]
+- [[📖-Intellectual-Empathy]]
+- [[📖-Intellectual-Humility]]
+- [[📖-Intellectual-Integrity]]
+- [[📖-Intellectual-Perseverance]]
+- [[📖-Intellectual-Virtues]]
+- [[📖-Motivated-Reasoning]]
+- [[📖-The-Bias-Virtue-Correspondence]]
+- [[📖-Virtue-Epistemology]]

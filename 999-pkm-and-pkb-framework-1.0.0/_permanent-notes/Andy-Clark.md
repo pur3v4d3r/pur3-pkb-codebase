@@ -1,0 +1,88 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Andy-Clark"
+aliases:
+  - "Andy-Clark"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - other
+
+domain: other
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-27
+updated: 2026-03-27
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 48
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[.permanent-notes-index]]"
+  - "[[4E-Cognition]]"
+  - "[[Active-Externalism]]"
+  - "[[Active-Inference]]"
+  - "[[Classical-Cognitivism]]"
+  - "[[Cognitive-Offloading]]"
+  - "[[Cognitive-Scaffolding]]"
+  - "[[Controlled-Hallucination]]"
+  - "[[Coupling-Constitution-Fallacy]]"
+  - "[[Distributed-Cognition]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: high
+---
+
+# Andy-Clark
+
+> [!definition] **Andy-Clark**
+> *Stub note — concept referenced by 48 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 48 permanent notes.*
+
+## Referenced By
+
+- [[.permanent-notes-index]]
+- [[4E-Cognition]]
+- [[Active-Externalism]]
+- [[Active-Inference]]
+- [[Classical-Cognitivism]]
+- [[Cognitive-Offloading]]
+- [[Cognitive-Scaffolding]]
+- [[Controlled-Hallucination]]
+- [[Coupling-Constitution-Fallacy]]
+- [[Distributed-Cognition]]
+- [[Extended-Mind-Theory]]
+- [[Free-Energy-Principle]]
+- [[Generative-Model]]
+- [[Internalism]]
+- [[Mark-of-the-Cognitive]]
+- [[Parity-Principle]]
+- [[Passive-Externalism]]
+- [[Phenomenal-Self-Model]]
+- [[Precision-Flexibility]]
+- [[Precision-Weighting]]
+- *...and 28 more permanent notes*
