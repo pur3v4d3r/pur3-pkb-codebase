@@ -119,7 +119,7 @@ The operational mechanics of metacognition involve intricate neural and cognitiv
 
 ### 4.1 NEURAL SUBSTRATES OF METACOGNITIVE PROCESSING
 
-The neural basis of metacognition involves a distributed network with key nodes in the prefrontal cortex, with convergent evidence indicating that the rostral and dorsal aspect of the lateral prefrontal cortex is important for retrospective judgements of performance. The [[prefrontal cortex]] serves as the primary hub for metacognitive processing, but it operates in coordination with multiple brain regions:
+The neural basis of metacognition involves a distributed network with key nodes in the prefrontal cortex, with convergent evidence indicating that the rostral and dorsal aspect of the lateral prefrontal cortex is important for retrospective judgements of performance. The [[prefrontal-cortex]] serves as the primary hub for metacognitive processing, but it operates in coordination with multiple brain regions:
 
 The **rostral prefrontal cortex** (Brodmann area 10) appears specialized for metacognitive evaluation. Neuroimaging studies consistently show activation in this region during confidence judgments and error monitoring. Patients with lesions to this area show preserved first-order cognitive abilities but impaired metacognitive accuracy, suggesting its specific role in meta-level processing. Research using transcranial magnetic stimulation has demonstrated that brain stimulation over dorsomedial prefrontal cortex causally affects metacognitive bias.
 

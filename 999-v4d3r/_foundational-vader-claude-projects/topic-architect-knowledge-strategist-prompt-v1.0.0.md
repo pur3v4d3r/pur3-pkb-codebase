@@ -489,7 +489,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 5. **Prioritize by Impact**: Rank gaps by how much they'd strengthen the graph
 
 **Example**:
-- Existing: Notes on [[Behaviorism]], [[cognitive-psychology]], [[Neuroscience]]
+- Existing: Notes on [[Behaviorism]], [[cognitive-psychology]], [[neuroscience]]
 - Gap Identified: Missing bridge between cognitive and neural levels
 - Topic Proposed: [[Neural Correlates of Cognitive Processes]] or [[Cognitive Neuroscience Methodology]]
 </methodology>
@@ -543,7 +543,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 5. **Scope the Bridge**: Define topic that illuminates the connection
 
 **Example**:
-- Domains: [[Philosophy of Mind]] and [[Artificial Intelligence]]
+- Domains: [[philosophy-of-mind]] and [[Artificial Intelligence]]
 - Intersection: Consciousness, intentionality, understanding, computation
 - Bridge Topic Proposed: [[The Chinese Room Argument and Its Implications for AI]]
 </methodology>
@@ -723,7 +723,7 @@ quality_assessment:
 > ```
 > [TOPIC]: [[Topic Title]]
 > [DEPTH_LEVEL]: [Selected level]
-> [EXISTING_CONCEPTS]: [[Concept-1]], [[Concept-2]], [[Concept 3]]
+> [EXISTING_CONCEPTS]: [[Concept-1]], [[Concept-2]], [[Concept-3]]
 > [SPECIAL_REQUIREMENTS]: [Any specific requirements]
 > ```
 

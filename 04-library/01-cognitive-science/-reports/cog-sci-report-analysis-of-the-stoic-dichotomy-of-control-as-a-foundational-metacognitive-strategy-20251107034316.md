@@ -28,13 +28,13 @@ link-related:
 > [!pre-read-questions]
 > - How does the Stoic division between "what is up to us" and "what is not up to us" function as a foundational metacognitive strategy for behavioral self-regulation?
 > - In what specific ways do ancient Stoic principles map onto modern psychological constructs such as [[internal locus of control]], [[Cognitive-Reappraisal]], and [[Self-Determination-Theory]]?
-> - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[Emotional Regulation]], and sustained [[motivation]]?
+> - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[Emotional-Regulation]], and sustained [[motivation]]?
 > - How does the practice of systematically categorizing life experiences through the lens of personal agency versus external circumstances reshape neural processing patterns and behavioral responses?
 
 ---
 
 > [!abstract]
-> This article presents a rigorous academic analysis of the [[Stoic Dichotomy of Control]]—the philosophical principle dividing reality into elements within personal control (prohairesis) and those beyond it—as a foundational metacognitive framework for enhancing self-behavioral management, psychological resilience, and motivational fortitude. Drawing from both classical Stoic texts and contemporary psychological research, we demonstrate that this ancient distinction functions as a sophisticated cognitive architecture for [[Emotional Regulation]], [[Self-Regulation-Theory]], and adaptive coping.
+> This article presents a rigorous academic analysis of the [[Stoic Dichotomy of Control]]—the philosophical principle dividing reality into elements within personal control (prohairesis) and those beyond it—as a foundational metacognitive framework for enhancing self-behavioral management, psychological resilience, and motivational fortitude. Drawing from both classical Stoic texts and contemporary psychological research, we demonstrate that this ancient distinction functions as a sophisticated cognitive architecture for [[Emotional-Regulation]], [[Self-Regulation-Theory]], and adaptive coping.
 >
 > The analysis establishes that the Dichotomy of Control operates through multiple psychological mechanisms: it recalibrates [[attentional focus]] toward agentic domains, restructures [[causal attributions]] to emphasize internal locus of control, facilitates [[Cognitive-Reappraisal]] of adverse events, and promotes values-aligned action independent of outcome contingencies. Contemporary empirical research from [[Cognitive-Behavioral-Therapy]] (CBT), [[Metacognition]] studies, resilience science, and [[Self-Determination-Theory]] converges to validate the psychological efficacy of this Stoic framework. We examine how systematic application of this principle enhances [[metacognitive-awareness]], strengthens behavioral persistence, reduces maladaptive emotional reactivity, and cultivates what modern psychology terms "[[hardiness]]" or psychological resilience.
 >
@@ -235,7 +235,7 @@ The practitioner explicitly categorizes elements of the situation:
 - **Influenced But Not Controlled**: Outcomes of my actions, others' responses, future events, health, circumstances
 - **Completely Uncontrollable**: Past events, others' opinions and choices, natural phenomena, fate, mortality
 
-This categorization proves psychologically crucial because it prevents what social psychologists term the [[fundamental attribution error]]—the tendency to overestimate the role of personal agency in outcomes while underestimating circumstantial factors.[^48] The Stoic framework corrects this by rigorously distinguishing genuine agency from circumstantial influence.
+This categorization proves psychologically crucial because it prevents what social psychologists term the [[Fundamental-Attribution-Error]]—the tendency to overestimate the role of personal agency in outcomes while underestimating circumstantial factors.[^48] The Stoic framework corrects this by rigorously distinguishing genuine agency from circumstantial influence.
 
 **Step 4: Response Selection and Value Alignment**
 

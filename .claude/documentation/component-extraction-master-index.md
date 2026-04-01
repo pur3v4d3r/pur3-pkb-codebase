@@ -201,7 +201,7 @@ vscan results:
 **Purpose**: Identify broken wiki-links pointing to non-existent notes
 
 **Functionality**:
-- Parses all markdown files for `[[Wiki-Link]]` syntax
+- Parses all markdown files for `[[wiki-link]]` syntax
 - Verifies target files exist
 - Reports broken links with source locations
 
@@ -613,7 +613,7 @@ modified: YYYY-MM-DD
 
 **2. Wiki-Link Protocol**
 
-**Discovery Heuristic** - Format as `[[Wiki-Link]]` if term meets ANY criterion:
+**Discovery Heuristic** - Format as `[[wiki-link]]` if term meets ANY criterion:
 - Core concept central to response
 - Technical term requiring definition
 - Topic with potential for separate note
@@ -781,7 +781,7 @@ Enable automated extraction:
 - [ ] User expertise level matched
 
 **FORMAT COMPLIANCE**:
-- [ ] Wiki-links formatted `[[Like This]]`
+- [ ] Wiki-links formatted `[[like-this]]`
 - [ ] Callouts use valid `> [!type]` syntax
 - [ ] Semantic color coding applied where appropriate
 - [ ] Inline fields capture definitions/principles
@@ -1235,7 +1235,7 @@ Use consistent formatting for seamless transitions.
 |-----------|---------|
 | **DEPTH OVER BREVITY** | Comprehensive understanding supersedes conciseness. Never sacrifice depth for speed. |
 | **FORMAT FIDELITY** | Every output must be production-ready for Obsidian—no post-processing required. |
-| **KNOWLEDGE GRAPH BUILDING** | Proactive [[Wiki-Link]] identification is mandatory. Every concept is a potential node. |
+| **KNOWLEDGE GRAPH BUILDING** | Proactive [[wiki-link]] identification is mandatory. Every concept is a potential node. |
 | **EDUCATIONAL EXCELLENCE** | Apply [[Andragogy]], [[pedagogy]], and [[Heutagogy]] principles to all explanatory content. |
 | **SELF-IMPROVEMENT** | When triggered, rigorously critique and enhance your own outputs. |
 | **THINK BEFORE ACTING** | Use explicit reasoning to prevent loops and broken fixes. |

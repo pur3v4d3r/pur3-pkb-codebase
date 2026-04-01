@@ -139,7 +139,7 @@ related:
   - "[[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Executive-Function|Executive Function]]"
-  - "[[Goal-Setting Theory — Locke and Latham]]"
+  - "[[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]"
 
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
@@ -151,7 +151,7 @@ narrower:
   - "[[Metacognitive Monitoring Accuracy]]"
 
 see-also:
-  - "[[Deliberate Practice — Ericsson]]"
+  - "[[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Formative-Assessment|Formative Assessment]]"
 
@@ -176,7 +176,7 @@ enables:
   - "[[Academic Self-Regulation Interventions]]"
 
 expansion-topics:
-  - topic: "[[Metacognitive Monitoring Accuracy and Calibration]]"
+  - topic: "[[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]]"
     description: "Explores the Dunning-Kruger phenomenon and systematic biases in metacognitive accuracy — a critical understory to SRL's self-monitoring assumption"
     priority: high
   - topic: "[[SRL in Digital and AI-Enhanced Learning Environments]]"
@@ -366,7 +366,7 @@ Zimmerman's process goal research is particularly illuminating here. The shift f
 
 The performance phase is where the regulatory cycle contacts reality. Zimmerman describes it as composed of self-control processes (the deliberate execution of the chosen strategy) and self-monitoring (the ongoing tracking of performance quality against the goal standard). The standard characterization treats monitoring as a surveillance function — the learner watches themselves perform and notes discrepancies. This characterization is too passive.
 
-A more accurate account, consistent with [[Philip Winne|Winne]]'s information-processing model of SRL, treats self-monitoring as active hypothesis testing. The learner enters the performance phase with an implicit prediction about what performance should look like if the chosen strategy is working correctly. Monitoring consists of comparing incoming performance signals against this predicted pattern. When the signals match the prediction, monitoring confirms the strategy and supports continued execution. When signals deviate from prediction, monitoring generates a control signal — but the interpretation of that signal is not automatic.
+A more accurate account, consistent with [[Philip-Winne|Winne]]'s information-processing model of SRL, treats self-monitoring as active hypothesis testing. The learner enters the performance phase with an implicit prediction about what performance should look like if the chosen strategy is working correctly. Monitoring consists of comparing incoming performance signals against this predicted pattern. When the signals match the prediction, monitoring confirms the strategy and supports continued execution. When signals deviate from prediction, monitoring generates a control signal — but the interpretation of that signal is not automatic.
 
 > [!cross-domain-connection] **Control Systems Theory → SRL Monitoring-Control Coupling**
 > The monitoring-control dynamic in SRL maps precisely onto the architecture of a [[Negative-Feedback-Control-System|Negative Feedback Control System]] in engineering. In a proportional control system, the deviation between the current state and the target state generates a correction signal proportional to the error. The system's stability depends on the gain coefficient — too low, and the system corrects too slowly; too high, and it oscillates. The SRL analog is striking: learners with calibrated self-monitoring generate appropriately sized regulatory responses to detected discrepancies (moderate gain). Learners who catastrophize small discrepancies (high gain) show regulatory overreaction — they abandon working strategies after minor setbacks. Learners who discount performance feedback (low gain) persist with ineffective strategies long after monitoring signals should have triggered adjustment. The engineering framework suggests that the quality of the monitoring-control coupling is a tunable parameter — and that calibration rather than simply increasing monitoring intensity should be the intervention target.
@@ -498,13 +498,13 @@ This analysis contributes three things that a standard survey of SRL would not p
 >
 > - **[[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]** — The analysis here connects directly to the reflection phase breakdown identified in Phase IV: ability attribution (the hallmark of a fixed mindset) severs the self-reflection loop and prevents productive forethought revision. Dweck's implicit theories research and Zimmerman's SRL model are mechanistically complementary — growth mindset interventions work precisely by changing the attribution pattern at the reflection phase, which repairs the cycle. Understanding the SRL mechanism makes it possible to understand exactly why mindset matters and where its effect is located.
 >
-> - **[[Goal-Setting Theory — Locke and Latham]]** — Locke and Latham's finding that specific, challenging goals produce superior performance relative to vague or easy goals has a natural SRL interpretation: specific goals are standards that make monitoring possible. You cannot detect a discrepancy without a reference point, and vague goals provide insufficient precision to support genuine monitoring. The SRL analysis enriches goal-setting theory by explaining why specific goals work — they activate the monitoring-control coupling — rather than simply asserting that they do.
+> - **[[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]** — Locke and Latham's finding that specific, challenging goals produce superior performance relative to vague or easy goals has a natural SRL interpretation: specific goals are standards that make monitoring possible. You cannot detect a discrepancy without a reference point, and vague goals provide insufficient precision to support genuine monitoring. The SRL analysis enriches goal-setting theory by explaining why specific goals work — they activate the monitoring-control coupling — rather than simply asserting that they do.
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The expertise reversal effect identified in Phase III as a moderator of SRL intervention effectiveness is a cognitive load phenomenon: the working memory cost of self-monitoring competes with the working memory demands of processing novel content. Cognitive load theory provides the capacity account that explains why SRL is not simply better than direct instruction at all points — it is superior when learners have sufficient domain knowledge to reduce intrinsic load to the point where regulatory processes can be supported without cognitive compromise.
 >
 > - **[[Executive-Function|Executive Function]]** — The monitoring and control functions described in Zimmerman's performance phase map onto the executive function constructs of inhibitory control, working memory updating, and cognitive flexibility. Understanding SRL as drawing on executive function resources suggests an important boundary condition: learners under high cognitive load, emotional stress, or motivational threat will have reduced executive function resources available for self-regulation, predicting the motivational regulation failures that Pintrich's framework identifies but does not fully mechanistically explain.
 >
-> - **[[Deliberate Practice — Ericsson]]** — Ericsson's deliberate practice framework and Zimmerman's SRL model converge on a striking overlap: the structure of effective deliberate practice sessions (setting specific stretch goals, focused execution, immediate feedback, reflection and adjustment) is structurally isomorphic with a healthy SRL cycle. Deliberate practice may be SRL applied in expert coaching contexts — the coach externally scaffolds the forethought (goal-setting) and reflection (feedback interpretation) phases that the learner is not yet able to fully provide internally. This connection suggests that deliberate practice research provides process-level evidence for SRL mechanisms that is less subject to the self-report measurement problems of standard SRL research.
+> - **[[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]** — Ericsson's deliberate practice framework and Zimmerman's SRL model converge on a striking overlap: the structure of effective deliberate practice sessions (setting specific stretch goals, focused execution, immediate feedback, reflection and adjustment) is structurally isomorphic with a healthy SRL cycle. Deliberate practice may be SRL applied in expert coaching contexts — the coach externally scaffolds the forethought (goal-setting) and reflection (feedback interpretation) phases that the learner is not yet able to fully provide internally. This connection suggests that deliberate practice research provides process-level evidence for SRL mechanisms that is less subject to the self-report measurement problems of standard SRL research.
 >
 > **Synthetic Observation**: The pattern of connections reveals that SRL sits at a theoretical intersection point between cognitive science (cognitive load, executive function, metacognition), motivational psychology (self-efficacy, goal orientation, implicit theories), and skill acquisition research (deliberate practice). This intersection is its strength — it provides a comprehensive account of learning — and its weakness: it imports assumptions from each domain that may not cohere perfectly. The most important development opportunities in SRL theory lie at the seams between these traditions, particularly in better theorizing the motivational regulation of monitoring quality and the cognitive capacity constraints on regulatory execution.
 
@@ -600,7 +600,7 @@ This analysis contributes three things that a standard survey of SRL would not p
 
 > [!further-exploration] **Deepening Your Understanding**
 
-> [!topic-idea] [[Metacognitive Monitoring Accuracy and Calibration]]
+> [!topic-idea] [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]]
 > This expansion addresses the Dunning-Kruger phenomenon and related research on the conditions under which learners' confidence judgments are — and are not — calibrated to actual performance. It would explore the Feeling of Knowing (FOK) and Judgment of Learning (JOL) literatures, examine what interventions improve calibration, and analyze why calibration is particularly poor in novel domains. Directly extends this report's analysis of monitoring quality as the SRL bottleneck. Priority: HIGH — the monitoring-control coupling analysis demands this companion.
 
 > [!topic-idea] [[SRL in Digital and AI-Enhanced Learning Environments]]

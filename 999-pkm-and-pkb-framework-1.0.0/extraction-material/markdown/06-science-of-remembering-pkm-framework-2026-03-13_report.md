@@ -176,9 +176,9 @@ extraction_summary:
 > [!definition] [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] / [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] (Cognitive Psychology — Roediger & Karpicke, 2006; Abbott, 1909)
 > The empirically established phenomenon that actively retrieving information from memory — even without feedback — produces significantly stronger long-term retention than an equivalent period of re-studying the same material. Often called "the testing effect" because testing was historically the method used to induce retrieval, but the active mechanism is retrieval itself, not the evaluative component of tests. Karpicke and Roediger (2008) showed that repeated retrieval practice without re-study substantially outperformed repeated re-study without retrieval practice on delayed retention tests. The testing effect is one of the most practically significant findings in learning science precisely because it inverts folk intuition: re-reading material (which feels productive) is substantially weaker than being tested on it (which feels like measurement, not learning). For PKB users: passive re-reading of notes does not meaningfully strengthen memory for their content. Active recall — closing the note and reconstructing its content — does.
 
-#### 5. [DEFINITION] [[Interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008) *(Line 157)*
+#### 5. [DEFINITION] [[interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008) *(Line 157)*
 
-> [!definition] [[Interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008)
+> [!definition] [[interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008)
 > The practice of mixing multiple topics, subjects, or problem types within a single study session, rather than completing all practice on one topic before moving to the next (the latter being called "blocking"). Interleaving introduces difficulty — it requires the learner to continuously discriminate between problem types and select appropriate strategies — but this added difficulty enhances both long-term retention and the ability to apply knowledge across different contexts. Critically, interleaving *feels* less productive in the moment than blocking: learners consistently rate blocked practice as more effective, even when interleaved practice produces superior outcomes. This metacognitive illusion is not incidental; it is central to understanding why interleaving must be *designed into* PKB systems rather than left to emerge from user preference.
 
 #### 6. [DEFINITION] [[Desirable-Difficulties|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011) *(Line 160)*
@@ -617,7 +617,7 @@ extraction_summary:
 - [[Generation-Effect|Generation Effect]]
 - [[How it relates]]
 - [[How this applies]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Memory-Consolidation]]
@@ -649,7 +649,7 @@ extraction_summary:
 | 1 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Great PKB Paradox | 113 |
 | 2 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Great PKB Paradox | 115 |
 | 3 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Great PKB Paradox | 115 |
-| 4 | [[Interleaving]] | — | — | The Great PKB Paradox | 115 |
+| 4 | [[interleaving]] | — | — | The Great PKB Paradox | 115 |
 | 5 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Great PKB Paradox | 115 |
 | 6 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Great PKB Paradox | 115 |
 | 7 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Disciplinary Intersection | 123 |
@@ -659,7 +659,7 @@ extraction_summary:
 | 11 | [[Psychology of Learning]] | — | — | The Disciplinary Intersection | 123 |
 | 12 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Disciplinary Intersection | 123 |
 | 13 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Disciplinary Intersection | 123 |
-| 14 | [[Interleaving]] | — | — | The Disciplinary Intersection | 123 |
+| 14 | [[interleaving]] | — | — | The Disciplinary Intersection | 123 |
 | 15 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Disciplinary Intersection | 123 |
 | 16 | [[Educational-Psychology|Educational Psychology]] | — | — | The Disciplinary Intersection | 123 |
 | 17 | [[Knowledge-Management|Knowledge Management]] | — | — | The Disciplinary Intersection | 123 |
@@ -674,7 +674,7 @@ extraction_summary:
 | 26 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Memory Problem Every PKB User Faces | 151 |
 | 27 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
 | 28 | [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
-| 29 | [[Interleaving]] | — | — | The Memory Problem Every PKB User Faces | 157 |
+| 29 | [[interleaving]] | — | — | The Memory Problem Every PKB User Faces | 157 |
 | 30 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Memory Problem Every PKB User Faces | 160 |
 | 31 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | The Memory Problem Every PKB User Faces | 163 |
 | 32 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | The Memory Problem Every PKB User Faces | 166 |
@@ -690,7 +690,7 @@ extraction_summary:
 | 42 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 43 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 44 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 45 | [[Interleaving]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 45 | [[interleaving]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 46 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 47 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 48 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Initial Synthesis: Three Traditions, ... | 180 |
@@ -852,7 +852,7 @@ extraction_summary:
 - [[Generation-Effect|Generation Effect]]
 - [[How it relates]]
 - [[How this applies]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Memory-Consolidation]]
@@ -884,7 +884,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Encoding-Specificity|Encoding Specificity]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]

@@ -59,7 +59,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 ## 🗺️ Interface Elements & Use Cases
 
 > [!core-principle]
-> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive-Load]], and creates spatial memory anchors for frequently-used workflows.
+> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base]]. Strategic command placement reduces [[Context-Switching]] overhead, minimizes [[Cognitive-Load]], and creates spatial memory anchors for frequently-used workflows.
 
 ### 1️⃣ Left Ribbon (Primary Navigation Hub)
 
@@ -304,7 +304,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 > 
 > **Page Header Commands:**
 > 6. 🔖 `Add Zettel ID` (timestamp-based unique identifier)
-> 7. 🔗 `Insert [[Wiki-Link]] from Selection`
+> 7. 🔗 `Insert [[wiki-link]] from Selection`
 > 8. 📝 `Split Note Into Atomics` (custom macro)
 > 9. 🏷️ `Suggest Related Tags`
 > 10. 🧭 `Find Orphaned Backlinks`
@@ -648,7 +648,7 @@ This pattern transforms Commander from a command *organizer* into a workflow *or
 2. **[[Workspace Architecture in Obsidian]]**
    - *Connection*: Workspaces and Commander create synergistic context-switching systems
    - *Depth Potential*: Design mode-specific workspaces (Research, Writing, Review) with optimized command profiles
-   - *Knowledge Graph Role*: Connects to [[Context Switching]], [[Attention Management]], and [[Flow State]] concepts
+   - *Knowledge Graph Role*: Connects to [[Context-Switching]], [[Attention Management]], and [[Flow-State]] concepts
 
 3. **[[QuickAdd Macro Development]]**
    - *Connection*: QuickAdd creates custom commands that Commander can surface in UI
@@ -696,7 +696,7 @@ Information Architecture:
 8. Further Exploration
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal-Knowledge-Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
+[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal-Knowledge-Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context-Switching]]
 
 **CALLOUT STRATEGY:**
 - [!definition] for plugin overview

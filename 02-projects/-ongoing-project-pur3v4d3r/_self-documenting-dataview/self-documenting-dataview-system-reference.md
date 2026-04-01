@@ -674,7 +674,7 @@ WHERE contains(related-concepts, this.file.link)
 
 ### Integration Pattern 2: PARA Method
 
-For [[para method]] organization:
+For [[PARA-Method]] organization:
 
 ```yaml
 ---

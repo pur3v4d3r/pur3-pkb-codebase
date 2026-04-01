@@ -265,7 +265,7 @@ The deepest layers—power-user features, scripting interfaces, API access—rem
 
 ### The Capture-Develop-Review Cycle
 
-Psychologically sustainable PKB practice requires rhythms and rituals that make system engagement feel natural rather than imposed. One particularly effective pattern draws from [[David Allen]]'s [[Getting Things Done]] methodology while incorporating the psychological principles we've explored: the Capture-Develop-Review cycle.
+Psychologically sustainable PKB practice requires rhythms and rituals that make system engagement feel natural rather than imposed. One particularly effective pattern draws from [[David Allen]]'s [[Getting-Things-Done]] methodology while incorporating the psychological principles we've explored: the Capture-Develop-Review cycle.
 
 **Capture** occurs in the moment, whenever information or insight demands preservation. Psychological research on memory encoding emphasizes that the richer and more elaborate the initial capture, the stronger the resulting memory trace. This suggests that even brief captures should include some minimal processing—a fleeting reaction, a preliminary connection, a note about relevance. However, this elaboration must remain effortless enough not to disrupt the flow of work or thought. The system should facilitate capture that is simultaneously quick and meaningful, perhaps through templates that prompt minimal but valuable reflection.
 

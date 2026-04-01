@@ -852,7 +852,7 @@ Your script automatically assigns icons based on domain keywords. This helps you
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[DataviewJS Advanced Patterns]]**
+1. **[[DataviewJS-Advanced-Patterns]]**
    - *Connection*: Complex queries requiring JavaScript logic
    - *Depth Potential*: Custom aggregations, API integration, dynamic dashboards
    - *Knowledge Graph Role*: Technical implementation layer

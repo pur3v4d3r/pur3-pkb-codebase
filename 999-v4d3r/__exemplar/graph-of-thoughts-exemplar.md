@@ -1840,7 +1840,7 @@ if __name__ == "__main__":
 | Combine GoT With | Benefit | Implementation Pattern | Example Use Case |
 |------------------|---------|------------------------|------------------|
 | **[[Self-Consistency]]** | Validate synthesis reliability | Generate multiple GoT graphs → Vote on synthesis outputs → Select consensus | Critical decisions requiring high confidence |
-| **[[Chain of Verification]]** | Fact-check aggregated thoughts | GoT synthesis → Generate verification questions → Validate claims → Refine synthesis | Research analysis where accuracy crucial |
+| **[[Chain-of-Verification]]** | Fact-check aggregated thoughts | GoT synthesis → Generate verification questions → Validate claims → Refine synthesis | Research analysis where accuracy crucial |
 | **[[RAG Integration]]** | Ground thoughts in external knowledge | Retrieve docs → Generate thoughts per doc → Aggregate with citations → Synthesize | Literature review, policy analysis |
 | **[[Generated Knowledge]]** | Enrich perspectives with domain knowledge | Generate background knowledge → Use as context for GoT thoughts → Richer analyses | Technical decision-making |
 | **[[Meta-Prompting]]** | Optimize thought generation prompts | Meta-prompt generates optimal prompts for each GoT operation → Better thought quality | Recurring analysis workflows |

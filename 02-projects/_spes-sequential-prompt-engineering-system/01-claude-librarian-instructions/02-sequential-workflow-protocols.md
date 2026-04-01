@@ -43,7 +43,7 @@ Use this taxonomy to identify the problem:
   - Recommended workflow: [[least-to-most-prompting]], [[recursive-expansion-loop]]
 - **Technical Explanation**: High accuracy, examples, math
   - Examples: Algorithm explanations, scientific concepts
-  - Recommended workflow: [[chain-of-verification]]
+  - Recommended workflow: [[Chain-of-Verification]]
 - **Creative Writing**: Style consistency, narrative flow
   - Examples: Stories, marketing copy, world-building
   - Recommended workflow: [[staged-generation]]
@@ -54,10 +54,10 @@ Use this taxonomy to identify the problem:
   - Recommended workflow: [[parallel-convergence]]
 - **Research Synthesis**: Multiple sources, coherent narrative
   - Examples: Literature reviews, meta-analysis
-  - Recommended workflow: [[least-to-most-prompting]] + [[chain-of-verification]]
+  - Recommended workflow: [[least-to-most-prompting]] + [[Chain-of-Verification]]
 - **Critical Evaluation**: Deep analysis, evidence-based claims
   - Examples: Code review, argument analysis
-  - Recommended workflow: [[chain-of-verification]]
+  - Recommended workflow: [[Chain-of-Verification]]
 
 #### **Transformation Problems** (Modifying existing content)
 - **Format Conversion**: Restructure while preserving meaning

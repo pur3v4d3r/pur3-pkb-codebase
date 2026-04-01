@@ -2438,7 +2438,7 @@ class ThinkingQualityAssessor:
 
 ### 4. **[[Advanced Reasoning Technique Integration]]**
 
-**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
+**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain-of-Verification]] - providing implementation recipes for combined patterns.
 
 **Depth Potential**: Integration recipes for ToT+Extended Thinking, Self-Consistency with thinking-based validation [13], CoVe with thinking-based verification planning, multi-technique orchestration, technique selection frameworks.
 

@@ -693,7 +693,7 @@ PKB connection section planned: [YES]
 [Section prose: 400-500 words on the thinkers who shaped this topic. Not a list — narrative prose that treats intellectual development as a story.]
 
 > [!quote]
-> "[[Author Name]]" — [Relevant quote or paraphrase that captures the essence of a foundational contribution]
+> "[[Author-Name]]" — [Relevant quote or paraphrase that captures the essence of a foundational contribution]
 
 > [!cite]
 > [Citation or attribution for the quote/claim above — 30-50 words]
@@ -1249,7 +1249,7 @@ YAML METADATA BLOCK
 > 2. Who benefits from [[TOPIC]] being defined this way, and who might be harmed?
 > 3. What alternative definitions were possible, and what would they have revealed?
 
-[Prose: 300-400 words excavating the assumptions seriously — this is the most philosophically demanding section, connecting to [[Critical Theory]], [[Social Epistemology]], and [[Conceptual Genealogy]].]
+[Prose: 300-400 words excavating the assumptions seriously — this is the most philosophically demanding section, connecting to [[Critical Theory]], [[Social-Epistemology]], and [[Conceptual Genealogy]].]
 
 > [!key-claim]
 > **Most Important Assumption Uncovered:** [The assumption whose surfacing most changes how we see [[TOPIC]] — 80-100 words. State it clearly and explain why it matters.]
@@ -1266,7 +1266,7 @@ YAML METADATA BLOCK
 > 2. What would a world that took [[TOPIC]] seriously actually look like?
 > 3. What contradictions emerge when we pursue [[TOPIC]] consistently to its conclusions?
 
-[Prose: 300-400 words following the implications rigorously, connecting to [[Logical Consequence]] and [[Applied Ethics]] or the relevant applied domain.]
+[Prose: 300-400 words following the implications rigorously, connecting to [[Logical Consequence]] and [[Applied-Ethics]] or the relevant applied domain.]
 
 > [!argument]
 > **The Most Surprising Implication:** [80-100 words on an implication that the reader likely did not anticipate — something that follows from the analysis but challenges conventional assumptions about [[TOPIC]]]

@@ -2796,7 +2796,7 @@ Aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 **WIKI-LINK OPPORTUNITIES:**
 - Obsidian core concepts: [[Frontmatter]], [[Templates]], [[Folders]], [[Daily-Notes]], [[Metadata]]
 - Related plugins: [[Dataview]], [[QuickAdd]], [[Custom JS]], [[Natural Language Dates]]
-- Programming concepts: [[JavaScript]], [[Regular Expressions]], [[Async/Await]], [[Promises]], [[Date Objects]]
+- Programming concepts: [[JavaScript]], [[Regular-Expressions]], [[Async/Await]], [[Promises]], [[Date Objects]]
 - PKM concepts: [[Zettelkasten]], [[MOC]], [[Atomic-Notes]], [[Template Systems]], [[Automation Workflows]]
 - File system concepts: [[File Paths]], [[Working Directory]], [[Relative Paths]], [[Absolute Paths]]
 

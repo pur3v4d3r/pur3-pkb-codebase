@@ -873,7 +873,7 @@ Declare knowledge dependencies in frontmatter.
 ```yaml
 prerequisites:
   hard: ["[[Concept-1]]", "[[Concept-2]]"]  # Must understand first
-  soft: ["[[concept-3]]"]  # Helpful but not required
+  soft: ["[[Concept-3]]"]  # Helpful but not required
 enables:
   direct: ["[[concept-4]]", "[[concept-5]]"]  # This unlocks
   related: ["[[concept-6]]"]  # Benefits from this
@@ -1150,7 +1150,7 @@ IF topic scope exceeds reasonable treatment:
 
 ### Structural Validation
 - [ ] YAML frontmatter syntactically valid and complete
-- [ ] All wiki-links properly closed `[[like this]]`
+- [ ] All wiki-links properly closed `[[like-this]]`
 - [ ] All callouts use valid syntax `> [!type]`
 - [ ] Headers create logical hierarchy (no skipped levels)
 - [ ] No bullet points or numbered lists in explanatory prose
@@ -1519,7 +1519,7 @@ freshness:
 
 ## 📜 Theoretical Foundations & Historical Context
 
-<span style='color: #FFC700;'>**Chain-of-Thought prompting**</span> emerged from the convergence of three intellectual streams: the [[Few-Shot-Learning]] paradigm pioneered by [[GPT-3]], cognitive science research on [[Explicit Reasoning Protocols]], and computational complexity theory addressing the <span style='color: #FF00DC;'>serial computation bottleneck</span> in [[Transformer-Architecture]]. Prior to CoT, [[Large-Language-Models]] demonstrated remarkable fluency and knowledge retrieval but struggled catastrophically with <span style='color: #72FFF1;'>multi-step reasoning tasks</span> requiring systematic decomposition—arithmetic word problems, [[Symbolic Logic]], and [[Commonsense-Reasoning]] chains showed minimal improvement despite massive parameter scaling.
+<span style='color: #FFC700;'>**Chain-of-Thought prompting**</span> emerged from the convergence of three intellectual streams: the [[Few-Shot-Learning]] paradigm pioneered by [[GPT-3]], cognitive science research on [[Explicit-Reasoning-Protocols]], and computational complexity theory addressing the <span style='color: #FF00DC;'>serial computation bottleneck</span> in [[Transformer-Architecture]]. Prior to CoT, [[Large-Language-Models]] demonstrated remarkable fluency and knowledge retrieval but struggled catastrophically with <span style='color: #72FFF1;'>multi-step reasoning tasks</span> requiring systematic decomposition—arithmetic word problems, [[Symbolic-Logic]], and [[Commonsense-Reasoning]] chains showed minimal improvement despite massive parameter scaling.
 
 [**Historical-Context**:: CoT prompting originated from observing that transformers trained on internet-scale data had encountered reasoning traces in their training corpus (mathematics solutions, tutorial explanations, proof derivations) but lacked explicit mechanisms to surface these patterns during inference.]^established
 
@@ -1528,11 +1528,11 @@ The foundational insight—articulated by [[Wei et al. (2022)]]—recognized tha
 > [!definition] Chain-of-Thought Prompting
 > [**Chain-of-Thought-Prompting**:: A prompting methodology that elicits intermediate reasoning steps from language models by providing few-shot exemplars demonstrating explicit step-by-step problem decomposition, enabling the model to generate similar reasoning traces before producing final answers.]^verified
 
-The critical departure from standard [[Few-Shot Prompting]] lies in the <span style='color: #FFC700;'>explicit serialization of reasoning</span>. Where traditional prompts provide `<input, output>` pairs, CoT employs `<input, reasoning_chain, output>` triples. This seemingly minor structural modification unlocks <span style='color: #27FF00;'>emergent reasoning capabilities</span> that correlate strongly with model scale—a phenomenon central to understanding both the mechanism's efficacy and its limitations.
+The critical departure from standard [[Few-Shot-Prompting]] lies in the <span style='color: #FFC700;'>explicit serialization of reasoning</span>. Where traditional prompts provide `<input, output>` pairs, CoT employs `<input, reasoning_chain, output>` triples. This seemingly minor structural modification unlocks <span style='color: #27FF00;'>emergent reasoning capabilities</span> that correlate strongly with model scale—a phenomenon central to understanding both the mechanism's efficacy and its limitations.
 
 [**Cognitive-Science-Foundation**:: CoT prompting instantiates principles from cognitive psychology, particularly [[Protocol Analysis]] and [[Think-Aloud Protocols]], where verbalizing thought processes enhances problem-solving accuracy by externalizing working memory constraints and enabling metacognitive monitoring.]^established
 
-The relationship to [[Human Reasoning]] processes proves instructive. Cognitive scientists have long observed that <span style='color: #27FF00;'>explicit verbalization</span> of reasoning steps serves dual functions: <span style='color: #FFC700;'>offloading working memory demands</span> by externalizing intermediate computations, and <span style='color: #72FFF1;'>enabling error detection</span> through conscious inspection of logical steps. CoT prompting achieves analogous effects in transformer architectures, though the mechanisms differ fundamentally from human cognition.
+The relationship to [[Human-Reasoning]] processes proves instructive. Cognitive scientists have long observed that <span style='color: #27FF00;'>explicit verbalization</span> of reasoning steps serves dual functions: <span style='color: #FFC700;'>offloading working memory demands</span> by externalizing intermediate computations, and <span style='color: #72FFF1;'>enabling error detection</span> through conscious inspection of logical steps. CoT prompting achieves analogous effects in transformer architectures, though the mechanisms differ fundamentally from human cognition.
 
 ## ⚙️ Core Mechanism: Intermediate Token Generation as Computational Resource Allocation
 
@@ -1607,7 +1607,7 @@ The success of basic Chain-of-Thought prompting catalyzed development of increas
 
 The mechanism exploits <span style='color: #27FF00;'>reasoning diversity</span> while leveraging the <span style='color: #72FFF1;'>answer convergence property</span>. Consider a math word problem: one reasoning chain might solve it algebraically, another through step-by-step numerical substitution, another via proportion reasoning—but all should yield $x = 42$. <span style='color: #FF00DC;'>Errors in reasoning</span> (arithmetic mistakes, logical fallacies, incorrect variable assignments) produce scattered incorrect answers, while the <span style='color: #27FF00;'>correct answer appears with high frequency</span> despite pathway variation.
 
-%%synthesis-potential: self-consistency×ensemble-methods%% Self-Consistency instantiates principles from [[Ensemble Learning]] and [[Bootstrap Aggregating]], where model uncertainty and error reduction arise from aggregating diverse predictions. The critical difference: rather than training multiple models, Self-Consistency exploits the <span style='color: #72FFF1;'>stochastic sampling</span> of a single model to generate an ensemble of reasoning attempts.
+%%synthesis-potential: self-consistency×ensemble-methods%% Self-Consistency instantiates principles from [[Ensemble-Learning]] and [[Bootstrap Aggregating]], where model uncertainty and error reduction arise from aggregating diverse predictions. The critical difference: rather than training multiple models, Self-Consistency exploits the <span style='color: #72FFF1;'>stochastic sampling</span> of a single model to generate an ensemble of reasoning attempts.
 
 [**Self-Consistency-Limitation**:: The primary drawback involves computational cost—generating 20-40 reasoning chains increases inference latency proportionally and multiplies API costs linearly with sample count, making Self-Consistency prohibitively expensive for real-time applications or large-scale deployment.]^established
 

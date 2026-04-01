@@ -3049,7 +3049,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Cost-benefit tradeoff analysis
 - Integration anti-patterns to avoid
 
-**Knowledge Graph Role**: Practical application layer connecting reasoning theory to sophisticated implementations, linking [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Production Patterns]].
+**Knowledge Graph Role**: Practical application layer connecting reasoning theory to sophisticated implementations, linking [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain-of-Verification]], [[Production Patterns]].
 
 **Priority**: **High** - Bridges theory and practice, enabling sophisticated reasoning implementations beyond single-framework approaches.
 
@@ -3088,7 +3088,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Consciousness and self-awareness questions
 - Cognitive biases and mitigation strategies
 
-**Knowledge Graph Role**: Provides deep theoretical foundation connecting AI capabilities to established cognitive science, linking [[Cognitive-Science]], [[Neuroscience]], [[AI Architecture]], [[human-cognition]].
+**Knowledge Graph Role**: Provides deep theoretical foundation connecting AI capabilities to established cognitive science, linking [[Cognitive-Science]], [[neuroscience]], [[AI Architecture]], [[human-cognition]].
 
 **Priority**: **Medium** - Intellectually valuable but primarily for researchers rather than practitioners focused on implementation.
 

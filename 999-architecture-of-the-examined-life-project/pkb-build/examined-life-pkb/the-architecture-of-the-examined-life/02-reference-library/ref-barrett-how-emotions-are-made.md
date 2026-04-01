@@ -60,7 +60,7 @@ Against this view, Barrett argues that **emotions are constructed by the brain i
 
 1. **[[Interoceptive Prediction]]**: The brain continuously generates predictive models of the body's internal state — what [[Anil-Seth]] calls the "controlled hallucination" of bodily sensation. These predictions constitute **[[Core-Affect]]** — the raw material of emotional experience, characterized along dimensions of valence (pleasant/unpleasant) and arousal (activated/deactivated).
 
-2. **[[Conceptualization]]**: The brain applies learned **[[Emotion Concepts]]** to categorize this core affect into specific emotional experiences. Someone with rich emotion concepts can construct fine-grained emotional experiences (schadenfreude, moral indignation, wistful nostalgia); someone with coarse concepts experiences only broad affective states (good/bad, agitated/calm).
+2. **[[Conceptualization]]**: The brain applies learned **[[Emotion-Concepts]]** to categorize this core affect into specific emotional experiences. Someone with rich emotion concepts can construct fine-grained emotional experiences (schadenfreude, moral indignation, wistful nostalgia); someone with coarse concepts experiences only broad affective states (good/bad, agitated/calm).
 
 **The epistemic significance**: Emotions are not raw biological impulses that overwhelm reason but *constructed evaluations* that carry cognitive content. The quality of your emotional experience depends on the precision of your emotion concepts — which means **[[Emotional-Granularity]]** (the ability to make fine-grained emotional distinctions) is a trainable skill with direct practical consequences.
 
@@ -106,10 +106,10 @@ The mechanistic unification shows that inquiry activation, embodied cognition, e
 All of these concepts are developed in detail in the [[glossary]]:
 
 - **[[Core-Affect]]**: Pre-emotional interoceptive flux characterized by valence (pleasant/unpleasant) and arousal (activated/deactivated) — the raw material that emotion concepts categorize
-- **[[Emotion Concepts]]**: Learned categories applied to core affect to construct specific emotional experiences; richness of concepts determines granularity of emotional experience
+- **[[Emotion-Concepts]]**: Learned categories applied to core affect to construct specific emotional experiences; richness of concepts determines granularity of emotional experience
 - **[[Theory-of-Constructed-Emotion]]** (TCE): Barrett's framework that emotions are constructed instances built from interoceptive predictions and learned concepts, not universal innate responses
 - **[[Affective-Realism]]**: The phenomenon that emotional states shape perception itself, not just post-perceptual interpretation; demonstrated through altered perceptual decision parameters
-- **[[Emotional-Granularity]]** / [[Emotion Differentiation]]: The degree of specificity with which individuals distinguish emotional experiences; predicts better emotion regulation and decision-making
+- **[[Emotional-Granularity]]** / [[Emotion-Differentiation]]: The degree of specificity with which individuals distinguish emotional experiences; predicts better emotion regulation and decision-making
 - **[[Interoceptive Prediction]]**: The brain's continuous predictive modeling of the body's internal state, which constitutes the bodily dimension of emotional experience
 - **[[Classical-View-of-Emotion]]**: The rejected framework that each emotion has dedicated neural circuitry and universal expression — Barrett argues for population thinking and degeneracy instead
 - **[[Population Thinking]]**: Barrett's application of evolutionary biology's concept to emotion — no single canonical instance of "anger" or "fear," but variable populations of instances sharing family resemblance
@@ -162,4 +162,4 @@ Barrett, Lisa Feldman. (2017). *How Emotions Are Made: The Secret Life of the Br
   - [[report-09-the-embodied-reasoner|Report 09 — The Embodied Reasoner]] (interoceptive prediction foundation)
   - [[report-10-the-feeling-reasoner|Report 10 — The Feeling Reasoner]] (central framework role)
   - [[report-13-the-predictive-mind|Report 13 — The Predictive Mind]] (mechanistic integration)
-- **Key Glossary Terms**: [[Core-Affect]], [[Theory-of-Constructed-Emotion]], [[Affective-Realism]], [[Emotional-Granularity]], [[Emotion Concepts]]
+- **Key Glossary Terms**: [[Core-Affect]], [[Theory-of-Constructed-Emotion]], [[Affective-Realism]], [[Emotional-Granularity]], [[Emotion-Concepts]]

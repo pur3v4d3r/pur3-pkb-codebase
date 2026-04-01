@@ -360,7 +360,7 @@ SORT file.ctime DESC
 > [!topic-idea]
 > - **Topic or Idea**:: [[Metacognitive Planning]]
 > - **Key Figure(s)**:: *Barry Zimmerman*, *John H. Flavell*
-> - **Description**:: This is the **forethought phase** of [[Metacognition]], occurring *before* a task begins. It involves setting specific learning goals, activating relevant prior knowledge, analyzing the task's demands, and selecting the appropriate [[Cognitive Strategies]] and [[Metacognitive Strategies]] for the job. This is the "game plan" stage of [[Self-Regulated-Learning]].
+> - **Description**:: This is the **forethought phase** of [[Metacognition]], occurring *before* a task begins. It involves setting specific learning goals, activating relevant prior knowledge, analyzing the task's demands, and selecting the appropriate [[Cognitive Strategies]] and [[Metacognitive-strategies]] for the job. This is the "game plan" stage of [[Self-Regulated-Learning]].
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Metacognitive-Monitoring]]
@@ -373,7 +373,7 @@ SORT file.ctime DESC
 > - **Description**:: This is the **self-reflection phase** that occurs *after* a learning attempt, forming the crucial feedback loop in [[Self-Regulated-Learning]]. It involves **self-evaluation** (judging one's performance against the goal) and **self-reaction** (attributing outcomes to specific causes, like effort or strategy choice). This reflection is what informs and improves future [[Metacognitive Planning]].
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Metacognitive Strategies]]
+> - **Topic or Idea**:: [[Metacognitive-strategies]]
 > - **Key Figure(s)**:: *John H. Flavell*, *Michael Pressley*
 > - **Description**:: These are the specific, goal-directed procedures used to *regulate* cognition, as distinct from [[Cognitive Strategies]] which are used to *perform* the task. Metacognitive strategies include the active processes of **planning** (e.g., "What's my goal here?"), **monitoring** (e.g., "Am I understanding this?"), and **evaluating** (e.g., "How well did that strategy work?").
 

@@ -271,7 +271,7 @@ graph TD
 | 13 | [[Emotional Regulation & Resilient Learning]] | 2 | Stoic-learning bridge | [[Stoic Discipline]], [[Emotional Resilience]] |
 | 14 | [[Inquiry-Based Knowledge Building]] | 2 | Question-driven learning | [[Socratic-Method]], [[Pragmatist Inquiry]] |
 | 15 | [[Knowledge Organization at Scale]] | 2 | Classification science | [[Faceted-Classification]], [[Basic-Level-Categories]], [[Folksonomy]] |
-| 16 | [[Desirable Difficulties by Design]] | 2 | Strategic difficulty | [[Desirable-Difficulties]], [[Generation-Effect]], [[Interleaving]] |
+| 16 | [[Desirable Difficulties by Design]] | 2 | Strategic difficulty | [[Desirable-Difficulties]], [[Generation-Effect]], [[interleaving]] |
 | 17 | [[Note-Making as Knowledge Construction]] | 2 | Writing-to-learn | [[Elaborative-Interrogation]], [[Self-Explanation-Effect]] |
 | 18 | [[Calibration & Epistemic Humility]] | 2 | Knowledge calibration | [[Dunning-Kruger-Effect]], [[Epistemic-Humility]], [[Calibration]] |
 | 19 | [[Sustaining Lifelong Learning]] | 3 | Motivation over decades | [[Interest-Development-Theory]], [[Habit-Formation]] |
@@ -621,7 +621,7 @@ SORT doc_id ASC
 > The unified design framework in three tiers: 4 Foundational (Cognitive Isomorphism, Active Construction, Regulatory Embedding, Motivational Alignment); 5 Derived (Note Architecture, Linking Philosophy, Review Architecture, Active Processing Workflows, Calibration Systems); 3 Refinement (Evolutionary Architecture, Dialectical Deepening, Integration Metabolism).
 
 > [!definition] Desirable Difficulties
-> Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: [[Testing-Effect]] (d = 0.50), [[Spacing-Effect]], [[Interleaving]], [[Generation-Effect]]. Coined by Bjork (1994). Rated "high utility" by Dunlosky et al. (2013).
+> Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: [[Testing-Effect]] (d = 0.50), [[Spacing-Effect]], [[interleaving]], [[Generation-Effect]]. Coined by Bjork (1994). Rated "high utility" by Dunlosky et al. (2013).
 
 > [!definition] Fluency Illusion
 > A metacognitive error where perceptual/conceptual fluency (ease of processing) is mistaken for genuine understanding or durable learning. The universal PKM failure mode, amplified by AI-generated content. Countered by [[Retrieval-Practice]] and [[Calibration Systems]].

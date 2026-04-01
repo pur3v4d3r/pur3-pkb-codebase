@@ -97,7 +97,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 #### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
 `= [[Note-Name]].field-name`
-`= [[Project Alpha]].progress`
+`= [[Project-Alpha]].progress`
 `= [[2024-11-20]].mood`
 ```
 
@@ -190,17 +190,17 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > **Use Case:** Pull information from linked notes
 > 
 > ```markdown
-> Project Manager: `= [[Project Alpha]].manager`
+> Project Manager: `= [[Project-Alpha]].manager`
 > 
-> Team Size: `= length([[Project Alpha]].team-members)`
+> Team Size: `= length([[Project-Alpha]].team-members)`
 > 
-> Budget Remaining: $`= [[Project Alpha]].budget - [[Project Alpha]].spent`
+> Budget Remaining: $`= [[Project-Alpha]].budget - [[Project-Alpha]].spent`
 > 
-> Parent Project Status: `= [[Project Alpha]].status`
+> Parent Project Status: `= [[Project-Alpha]].status`
 > ```
 
 > [!connections-and-links]
-> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[MOC]] (Maps of Content) architectures and [[Dashboard-Design]].
+> This pattern enables **bi-directional information flow**. A change to `[[Project-Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[MOC]] (Maps of Content) architectures and [[Dashboard-Design]].
 
 ---
 
@@ -581,7 +581,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Daily-Notes]]
 - [[Zettelkasten]]
 - [[Progressive-Summarization]]
-- [[Regular Expressions]]
+- [[Regular-Expressions]]
 
 **Callout Strategy:**
 - [!definition] - Core concept explanation

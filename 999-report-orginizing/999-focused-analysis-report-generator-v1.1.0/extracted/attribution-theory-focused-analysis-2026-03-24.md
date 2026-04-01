@@ -345,7 +345,7 @@ The controllability dimension is the most analytically complex of Weiner's three
 
 ### 4.3 The Appraisal Theory Interface
 
-A genuinely illuminating structural connection exists between Weiner's emotion-attribution architecture and [[Appraisal-Theory]] as developed by [[Richard Lazarus|Lazarus]] (1966, 1991). Both frameworks claim that:
+A genuinely illuminating structural connection exists between Weiner's emotion-attribution architecture and [[Appraisal-Theory]] as developed by [[Richard-Lazarus|Lazarus]] (1966, 1991). Both frameworks claim that:
 
 1. Cognitive appraisals generate differentiated emotional responses
 2. The appraisal-to-emotion mapping is systematic and predictable

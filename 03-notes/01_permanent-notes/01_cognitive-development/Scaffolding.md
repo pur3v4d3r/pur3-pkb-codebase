@@ -27,7 +27,7 @@ link-related:
   - "[[Constructivist Learning]]"
   - "[[Critical-Thinking]]"
   - "[[Educational-Psychology]]"
-  - "[[Information Theory]]"
+  - "[[Information-Theory]]"
   - "[[Instructional-Design]]"
   - "[[Metacognitive-Knowledge]]"
   - "[[Metacognitive-Regulation]]"

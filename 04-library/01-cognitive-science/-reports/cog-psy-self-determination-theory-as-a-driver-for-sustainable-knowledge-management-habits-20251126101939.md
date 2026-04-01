@@ -120,7 +120,7 @@ The core of SDT rests on three basic psychological needs. These are not mere des
 
 #### 1. Autonomy: The Necessity of Volition
 
-Autonomy is often confused with independence, but in SDT, it specifically refers to **volition**. A person is autonomous when they fully endorse their own actions. In Knowledge Management, autonomy is the freedom to pursue [[Epistemic Curiosity]] without the constraints of a pre-determined curriculum or the pressure of "instrumental utility."
+Autonomy is often confused with independence, but in SDT, it specifically refers to **volition**. A person is autonomous when they fully endorse their own actions. In Knowledge Management, autonomy is the freedom to pursue [[epistemic-curiosity]] without the constraints of a pre-determined curriculum or the pressure of "instrumental utility."
 
 The greatest threat to autonomy in PKM is the concept of **Introjected Regulation**. This occurs when we internalize external pressures. We tell ourselves, "I *should* read this book on economics because successful people read it," or "I *must* process my inbox to zero every night." These are internal voices, but they are alien to the self. They are taskmasters. When a PKM system is built on Introjected Regulation, every note becomes a testament to an obligation. The system becomes a graveyard of "shoulds."
 

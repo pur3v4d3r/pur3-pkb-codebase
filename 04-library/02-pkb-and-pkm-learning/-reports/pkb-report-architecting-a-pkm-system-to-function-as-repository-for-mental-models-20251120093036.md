@@ -245,13 +245,13 @@ This is where the foundry *does its job*. We have two key structures for this:
 
 As discussed, this is a note that curates other notes.
 
-  - **How it works:** After you have 5-10 "atomic" notes on a similar topic (e.g., you've created `[[Confirmation-Bias]]`, `[[Availability-Heuristic]]`, `[[Sunk Cost Fallacy]]`), you *discover* a theme. You then create a *new note* called `[[MOC - Cognitive Biases]]`.
+  - **How it works:** After you have 5-10 "atomic" notes on a similar topic (e.g., you've created `[[Confirmation-Bias]]`, `[[Availability-Heuristic]]`, `[[Sunk-cost-fallacy]]`), you *discover* a theme. You then create a *new note* called `[[MOC - Cognitive Biases]]`.
   - **What it looks like:** This new note is just a structured list of links:
       - `## Biases of Belief`
           - `[[Confirmation-Bias]]`
           - `[[Availability-Heuristic]]`
       - `## Biases of Action`
-          - `[[Sunk Cost Fallacy]]`
+          - `[[Sunk-cost-fallacy]]`
   - **Goal Achieved:** This *is* **integration**. You are "arraying your models on a latticework." You are building the "curriculum" of your own mind.
 
 #### B. Application: The Decision Journal & Project Note

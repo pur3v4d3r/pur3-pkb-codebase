@@ -48,7 +48,7 @@ review-priority: medium
 # Philosophy of Mind
 
 > [!definition]
-> - **Key-Term**:[[Philosophy of Mind]]
+> - **Key-Term**:[[philosophy-of-mind]]
 > - [**Definition**:]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -85,7 +85,7 @@ LIMIT 15
 ### Direct Connections
 - [[Concept-1]]
 - [[Concept-2]]
-- [[Concept 3]]
+- [[Concept-3]]
 
 ## Practical Applications
 

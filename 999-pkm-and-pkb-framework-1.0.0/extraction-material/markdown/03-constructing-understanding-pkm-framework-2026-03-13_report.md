@@ -524,10 +524,10 @@ extraction_summary:
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
 - [[Gertzog]]
 - [[Henry Roediger]]
-- [[Herbert Simon]]
+- [[Herbert-Simon]]
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Jean-Piaget]]
 - [[John-Dewey|John Dewey]]
 - [[John-Sweller]]
@@ -546,16 +546,16 @@ extraction_summary:
 - [[Peter Graf]]
 - [[Peter Pearson]]
 - [[Posner]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prior Elaboration Note]]
 - [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 - [[Prior Knowledge Architecture]]
 - [[Report 01: Foundations of Knowledge Architecture]]
-- [[Report 02]]
+- [[Report-02]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report-06]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08]]
@@ -565,13 +565,13 @@ extraction_summary:
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 - [[Report 22]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard Anderson]]
+- [[Richard-Anderson]]
 - [[Robert-Bjork]]
 - [[Robert Slamecka]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
 - [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
-- [[Spaced Practice]]
+- [[spaced-practice]]
 - [[Strike]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 - [[Transfer-Appropriate Processing and PKB Retrieval Design]]
@@ -598,25 +598,25 @@ extraction_summary:
 | 11 | [[Schema-Progressive-Architecture|Schema-Progressive Architecture]] | — | — | Scope and Roadmap | 91 |
 | 12 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Scope and Roadmap | 93 |
 | 13 | [[Report 02: The Architecture of Learning]] | — | — | Scope and Roadmap | 93 |
-| 14 | [[Report 05]] | — | — | Scope and Roadmap | 93 |
+| 14 | [[Report-05]] | — | — | Scope and Roadmap | 93 |
 | 15 | [[Report 08]] | — | — | Scope and Roadmap | 93 |
 | 16 | [[Report 11]] | — | — | Scope and Roadmap | 93 |
 | 17 | [[Report 17]] | — | — | Scope and Roadmap | 93 |
 | 18 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
 | 19 | [[Frederic-Bartlett]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
 | 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Schema Theory: The Cognitive Architec... | 109 |
-| 21 | [[Richard Anderson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
+| 21 | [[Richard-Anderson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
 | 22 | [[Peter Pearson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
 | 23 | [[Constructivism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 24 | [[Jean-Piaget]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 25 | [[Lev-Vygotsky]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 26 | [[John-Dewey|John Dewey]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 27 | [[Pragmatism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 27 | [[pragmatism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Constructivism: The Philosophy of Kno... | 128 |
 | 29 | [[Charles-Reigeluth|Charles Reigeluth]] | — | — | Elaboration Theory: Designing Knowled... | 137 |
 | 30 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Elaboration Theory: Designing Knowled... | 137 |
 | 31 | [[William Chase]] | — | — | The Evidence Landscape | 171 |
-| 32 | [[Herbert Simon]] | — | — | The Evidence Landscape | 171 |
+| 32 | [[Herbert-Simon]] | — | — | The Evidence Landscape | 171 |
 | 33 | [[Chess-Schemas|Chess Schemas]] | — | — | The Evidence Landscape | 171 |
 | 34 | [[David-Ausubel|David Ausubel]] | — | — | The Evidence Landscape | 173 |
 | 35 | [[Advance-Organizer|Advance Organizer]] | — | — | The Evidence Landscape | 173 |
@@ -625,7 +625,7 @@ extraction_summary:
 | 38 | [[Leslie Leslie]] | — | — | The Evidence Landscape | 175 |
 | 39 | [[John-Sweller]] | — | — | The Evidence Landscape | 181 |
 | 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Evidence Landscape | 181 |
-| 41 | [[Report 02]] | — | — | The Evidence Landscape | 181 |
+| 41 | [[Report-02]] | — | — | The Evidence Landscape | 181 |
 | 42 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | The Evidence Landscape | 181 |
 | 43 | [[Generation-Effect|Generation Effect]] | — | — | The Evidence Landscape | 183 |
 | 44 | [[Robert Slamecka]] | — | — | The Evidence Landscape | 183 |
@@ -637,8 +637,8 @@ extraction_summary:
 | 50 | [[Gertzog]] | — | — | The Evidence Landscape | 185 |
 | 51 | [[Michelene Chi]] | — | — | The Evidence Landscape | 185 |
 | 52 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 191 |
-| 53 | [[Spaced Practice]] | — | — | The Evidence Landscape | 191 |
-| 54 | [[Interleaving]] | — | — | The Evidence Landscape | 191 |
+| 53 | [[spaced-practice]] | — | — | The Evidence Landscape | 191 |
+| 54 | [[interleaving]] | — | — | The Evidence Landscape | 191 |
 | 55 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Evidence Landscape | 191 |
 | 56 | [[Robert-Bjork]] | — | — | The Evidence Landscape | 191 |
 | 57 | [[Henry Roediger]] | — | — | The Evidence Landscape | 191 |
@@ -765,10 +765,10 @@ extraction_summary:
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
 - [[Gertzog]]
 - [[Henry Roediger]]
-- [[Herbert Simon]]
+- [[Herbert-Simon]]
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Jean-Piaget]]
 - [[John-Dewey|John Dewey]]
 - [[John-Sweller]]
@@ -787,16 +787,16 @@ extraction_summary:
 - [[Peter Graf]]
 - [[Peter Pearson]]
 - [[Posner]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prior Elaboration Note]]
 - [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 - [[Prior Knowledge Architecture]]
 - [[Report 01: Foundations of Knowledge Architecture]]
-- [[Report 02]]
+- [[Report-02]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report-06]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08]]
@@ -806,13 +806,13 @@ extraction_summary:
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 - [[Report 22]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard Anderson]]
+- [[Richard-Anderson]]
 - [[Robert-Bjork]]
 - [[Robert Slamecka]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
 - [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
-- [[Spaced Practice]]
+- [[spaced-practice]]
 - [[Strike]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 - [[Transfer-Appropriate Processing and PKB Retrieval Design]]

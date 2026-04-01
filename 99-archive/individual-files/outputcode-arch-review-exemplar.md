@@ -200,7 +200,7 @@ The content is organized as follows:
  76: ### By Use Case
  77: - **Complex Reasoning** → [[Tree-of-Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
  78: - **Tool Integration** → [[ReAct Framework]], [[ART Tool Use]], [[ReWOO]]
- 79: - **Quality Critical** → [[Chain of Verification]], [[Self-Refine]], [[Self-Consistency]]
+ 79: - **Quality Critical** → [[Chain-of-Verification]], [[Self-Refine]], [[Self-Consistency]]
  80: - **Autonomous Agents** → [[Reflexion]], [[ReAct Framework]], [[ART Tool Use]]
  81: - **Knowledge Gaps** → [[Generated Knowledge]], [[RAG Integration]], [[Recitation-Augmented]]
  82: - **Prompt Optimization** → [[APE]], [[OPRO]], [[Active-Prompt]], [[PromptBreeder]]
@@ -397,7 +397,7 @@ The content is organized as follows:
 273: **Recommended Stack**:
 274: 1. **[[Generated Knowledge]]** - Generate prerequisite concepts
 275: 2. **[[Chain-of-Thought]]** - Break down complex ideas
-276: 3. **[[Chain of Verification]]** - Ensure accuracy
+276: 3. **[[Chain-of-Verification]]** - Ensure accuracy
 277: 4. **[[Self-Refine]]** - Iterative improvement
 278: 
 279: **Why**: Ensures comprehensive, accurate notes with proper conceptual scaffolding.
@@ -410,7 +410,7 @@ The content is organized as follows:
 286: 1. **[[RAG Integration]]** - Retrieve relevant passages
 287: 2. **[[Tree-of-Thoughts]]** - Explore multiple synthesis angles
 288: 3. **[[Self-Consistency]]** - Validate conclusions across reasoning paths
-289: 4. **[[Chain of Verification]]** - Fact-check claims
+289: 4. **[[Chain-of-Verification]]** - Fact-check claims
 290: 
 291: **Why**: Handles complexity of multi-source synthesis with reliability.
 292: 
@@ -489,7 +489,7 @@ The content is organized as follows:
 365: **Start here**:
 366: 1. Read [[01-reasoning-techniques-guide#Self-Consistency]] - Easiest advanced technique
 367: 2. Try [[Generated Knowledge Prompting]] - Simple two-stage pattern
-368: 3. Implement [[Chain of Verification]] - Immediate quality improvement
+368: 3. Implement [[Chain-of-Verification]] - Immediate quality improvement
 369: 
 370: **Build up to**:
 371: 4. [[ReAct Framework]] - Learn tool integration
@@ -21190,7 +21190,7 @@ The content is organized as follows:
 324: 
 325: ---
 326: 
-327: **Related Techniques**: [[Generated Knowledge]], [[Recitation-Augmented]], [[Chain of Verification]]
+327: **Related Techniques**: [[Generated Knowledge]], [[Recitation-Augmented]], [[Chain-of-Verification]]
 328: **Full Guide**: [[05-knowledge-integration-guide#RAG]]
 ``````
 
@@ -32533,7 +32533,7 @@ The content is organized as follows:
  517:             mitigation: "Add specific quality anchors"
  518:         
  519:         related_concepts:
- 520:           - "[[Few-Shot Prompting]]"
+ 520:           - "[[Few-Shot-Prompting]]"
  521:           - "[[Instruction Tuning]]"
  522:           - "[[In-Context Learning]]"
  523:       

@@ -189,7 +189,7 @@ The very first word of your query defines the shape of your output.
 
 **Output:**
 
-- [[Project Alpha]]
+- [[Project-Alpha]]
 - [[Project Beta]]
 
 You can also list a *different* field. If you do this, the file link is often (but not always) hidden. A common pattern is to `LIST` an explicit field.
@@ -267,7 +267,7 @@ FROM #project
 
 |**File**|**status**|**priority**|
 |---|---|---|
-|[[Project Alpha]]|"in-progress"|"high"|
+|[[Project-Alpha]]|"in-progress"|"high"|
 |[[Project Beta]]|"complete"|"low"|
 
 You can hide the default `file.link` column by using `WITHOUT ID`:
@@ -304,7 +304,7 @@ FROM #project
 
 |**File**|**Current Status**|**Last Updated**|
 |---|---|---|
-|[[Project Alpha]]|"in-progress"|2025-10-15|
+|[[Project-Alpha]]|"in-progress"|2025-10-15|
 |[[Project Beta]]|"complete"|2025-10-14|
 
 > [!definition]
@@ -327,7 +327,7 @@ WHERE !completed
 
 **Output:**
 
-- [[Project Alpha]]
+- [[Project-Alpha]]
     - `[ ]` Design the architecture
     - `[ ]` Contact the client
 - [[Meeting 2025-10-16]]
@@ -348,7 +348,7 @@ WHERE !completed AND priority = "high"
 
 **Output:**
 
-- [[Project Alpha]]
+- [[Project-Alpha]]
     - `[ ]` Design the architecture
     - `[ ]` Contact the client
 
@@ -368,7 +368,7 @@ Now we explore the "clauses" that build your query, in the logical order they ar
 
 - **Tags:** `FROM #project` (Finds all notes with this tag)
 - **Folders:** `FROM "Projects/Active"` (Finds all notes in this folder and its subfolders)
-- **A Single Note:** `FROM [[Project Alpha]]` (This is for link-based queries, see below)
+- **A Single Note:** `FROM [[Project-Alpha]]` (This is for link-based queries, see below)
 - **Combinations (AND, OR):**
     - `FROM #project AND #priority/high` (Notes must have *both* tags)
     - `FROM "Projects/" OR "Archive/"` (Notes can be in *either* folder)

@@ -1665,7 +1665,7 @@ technique   template    experiment     literature
 
 ### Upstream (Foundation)
 - [[Master Tag Taxonomy]]
-- [[PKB Architecture]]
+- [[PKB-Architecture]]
 - [[Cognitive Abilities MOC]] — Understanding how prompting relates to cognition
 
 ### Parallel Domains

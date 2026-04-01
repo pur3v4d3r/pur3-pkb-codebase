@@ -286,7 +286,7 @@ The ACER Framework synthesizes four major traditions in critical thinking resear
 
 **Philosophical Tradition**: Drawing from Dewey's (1910) "reflective thinking," McPeck's (1981) "reflective skepticism," and Siegel's (1980) emphasis on rationality and principled reasoning. This tradition emphasizes [[Logical Analysis]], [[Argument Evaluation]], and adherence to objective standards.
 
-**Psychological Tradition**: Incorporating [[cognitive-psychology]] research on [[Information Processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
+**Psychological Tradition**: Incorporating [[cognitive-psychology]] research on [[information-processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
 
 **Information Literacy Tradition**: Recognizing overlap with [[Information Literacy]] frameworks (American Library Association, 1989), the ACER model includes skills for recognizing knowledge gaps, evaluating source reliability, and organizing information effectively—essential for [[Knowledge Construction]].
 
@@ -434,7 +434,7 @@ Organization transforms interpreted information into usable knowledge structures
 - [[Systems Thinking]] (understanding relationships and structures)
 - [[Synthesis]]
 - [[Selective Comparison]] (Sternberg) - relating new to known information
-- [[Knowledge Representation]]
+- [[knowledge-representation]]
 
 > [!key-claim]
 > **Strand 1 as Foundation for PKB Development**
@@ -532,7 +532,7 @@ Applying logic involves assessing whether conclusions follow from premises (vali
 > [!definition]
 > **Evaluating Claims**:: The ability to assess the credibility, reliability, and validity of information sources and knowledge claims using appropriate standards
 
-Evaluating claims extends beyond logical structure to assess the quality and trustworthiness of information itself. This involves [[Source Criticism]], [[Evidence Assessment]], and understanding standards of [[Epistemic Justification]]. It's essential for navigating contemporary information environments characterized by [[misinformation]] and conflicting claims.
+Evaluating claims extends beyond logical structure to assess the quality and trustworthiness of information itself. This involves [[Source Criticism]], [[Evidence Assessment]], and understanding standards of [[epistemic-justification]]. It's essential for navigating contemporary information environments characterized by [[misinformation]] and conflicting claims.
 
 **Observable Behaviors:**
 - Assesses source credibility (authority, expertise, bias, reliability)
@@ -678,7 +678,7 @@ This aspect draws from [[Multi-Criteria Decision Analysis]] (MCDA), [[Value Theo
 The second aspect involves systematic comparison of decision options. This requires identifying possible alternatives, predicting their likely consequences, assessing them against criteria, and recognizing trade-offs. It's the analytical core of decision-making, applying critical thinking to option evaluation.
 
 **Theoretical Foundation:**  
-This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect Theory]], and research on [[Judgment Under Uncertainty]]. It addresses both normative models (how decisions *should* be made) and descriptive insights (how biases affect actual decisions).
+This aspect draws from [[Decision Analysis]], [[scenario-planning]], [[Prospect Theory]], and research on [[Judgment Under Uncertainty]]. It addresses both normative models (how decisions *should* be made) and descriptive insights (how biases affect actual decisions).
 
 **Observable Behaviors:**
 - Identifies multiple viable alternatives (not just binary choices)
@@ -748,8 +748,8 @@ This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect 
 > Critical thinking in this aspect requires awareness of systematic biases:
 > - **[[Confirmation-Bias]]**: Favoring information supporting preferred option
 > - **[[Anchoring Bias]]**: Over-weighting first alternative considered
-> - **[[Status Quo Bias]]**: Preferring current state over change
-> - **[[Sunk Cost Fallacy]]**: Continuing investment due to past commitment
+> - **[[Status-quo-bias]]**: Preferring current state over change
+> - **[[Sunk-cost-fallacy]]**: Continuing investment due to past commitment
 > - **[[Availability-Heuristic]]**: Over-weighting easily recalled outcomes
 > - **[[Optimism Bias]]**: Underestimating likelihood of negative outcomes
 > 
@@ -1367,7 +1367,7 @@ This progression requires [[Deliberate-Practice]]: intentional application, feed
 
 3. **[[Decision-Making Under Uncertainty: Integrating Critical Thinking with Probabilistic Reasoning]]**
    - *Connection*: ACER Strand 3 (Making Decisions) provides structured process; real-world decisions involve uncertainty, risk, and probabilistic thinking not fully addressed in the framework
-   - *Depth Potential*: Deep dive into [[Bayesian Reasoning]], [[Decision-Theory]], [[Prospect Theory]], [[Risk Assessment]], and calibration of confidence; essential for high-stakes decisions
+   - *Depth Potential*: Deep dive into [[Bayesian-Reasoning]], [[Decision-Theory]], [[Prospect Theory]], [[Risk Assessment]], and calibration of confidence; essential for high-stakes decisions
    - *Knowledge Graph Role*: Extends ACER's decision-making strand with quantitative tools; connects to statistics, forecasting, and data science
 
 4. **[[Information Literacy and Digital Epistemology in the Age of AI]]**

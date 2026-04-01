@@ -196,7 +196,7 @@ aliases: [Stoic Reflection Practice, Daily Stoic Journaling, Stoic Self-Examinat
 ## 1. 📜 Philosophical Foundations & Historical Context
 
 > [!definition]
-> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
+> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational-Nature]].
 
 ### The Ancient Lineage
 
@@ -216,7 +216,7 @@ The practice manifests differently across the three major Roman Stoic voices:
 
 > [!key-claim]
 > **The Central Philosophical Claim**
-> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
+> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational-Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
 
 ### The Pythagorean Origin
 
@@ -262,7 +262,7 @@ Stoic journaling constantly returns to four evaluative standards:
 
 > [!methodology-and-sources]
 > **Virtue as the Evaluative Framework**
-> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External Achievement]].
+> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External-Achievement]].
 
 ### Spiritual Exercises as Psychological Technology
 
@@ -274,7 +274,7 @@ Journaling served as the container for multiple spiritual exercises:
 - **[[Premeditatio-Malorum]]** - Visualization of potential difficulties
 - **[[Negative Visualization]]** - Imagining loss to enhance appreciation
 - **[[Memento Mori]]** - Meditation on mortality
-- **[[Amor Fati]]** - Love of fate; acceptance of necessity
+- **[[Amor-Fati]]** - Love of fate; acceptance of necessity
 
 ### Self-Regulation Through Written Language
 
@@ -302,7 +302,7 @@ Modern [[Cognitive-Science]] provides empirical validation for mechanisms the St
 1. **Knowledge of Cognition** - Awareness of one's cognitive processes, strategies, and abilities
 2. **Regulation of Cognition** - Active monitoring and control of cognitive processes
 
-Studies using the [[Metacognitive Awareness Inventory]] (MAI) in 13-week interventions demonstrate that structured journaling increases both components, with semi-structured formats (like Stoic prompts) proving more effective than unstructured free-writing for developing regulatory capacity.
+Studies using the [[Metacognitive-Awareness-Inventory]] (MAI) in 13-week interventions demonstrate that structured journaling increases both components, with semi-structured formats (like Stoic prompts) proving more effective than unstructured free-writing for developing regulatory capacity.
 
 ### The CBT Connection: Philosophical Origins
 
@@ -321,7 +321,7 @@ The parallel mechanisms are striking:
 
 > [!evidence]
 > **Clinical Validation**
-> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear Extinction]], [[Emotional Regulation]], and [[Executive Control]]—align with the psychological architecture Stoic practices engage.
+> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear-Extinction]], [[Emotional-Regulation]], and [[Executive-Control]]—align with the psychological architecture Stoic practices engage.
 
 ### Emotional Regulation Through Cognitive Mediation
 
@@ -340,7 +340,7 @@ This cognitive mediation model enables intervention. If emotions arise from inte
 Contemporary neuroscience reveals that repeated practices physically reshape neural architecture through [[Neuroplasticity]]. The Stoics understood this functionally if not mechanistically—hence the emphasis on daily practice (*kathekon*) rather than occasional philosophical contemplation.
 
 Journaling practice strengthens:
-- **[[Prefrontal Cortex]] Function** - Executive control, planning, self-regulation
+- **[[prefrontal-cortex]] Function** - Executive control, planning, self-regulation
 - **[[Default Mode Network]] Regulation** - Reduced [[Self-Referential Rumination]]
 - **[[Hippocampal Consolidation]]** - Memory encoding and pattern recognition
 - **[[Amygdala Modulation]]** - Reduced threat reactivity
@@ -413,7 +413,7 @@ Throughout *Meditations*, Marcus employs recurring patterns:
 > - Universal context (how this fits cosmic order)
 > - Rational assessment (what virtue demands)
 > - Mortality reminder (brevity of life)
-> This multi-perspective analysis prevents [[Cognitive Narrowing]] and reveals hidden assumptions.
+> This multi-perspective analysis prevents [[Cognitive-Narrowing]] and reveals hidden assumptions.
 
 ### Seneca's Evening Forensic Examination
 
@@ -1427,7 +1427,7 @@ Measurable indicators:
 - **Procedural Knowledge**: Knowledge of strategy use
 - **Conditional Knowledge**: When/why to use strategies
 
-**Assessment Tool**: [[Metacognitive Awareness Inventory]] (MAI)
+**Assessment Tool**: [[Metacognitive-Awareness-Inventory]] (MAI)
 
 ### Stoic-Specific Outcome Measures
 
@@ -2340,7 +2340,7 @@ Goal: Eventually thinking like Stoic without journal, though journal remains val
 
 #### The Compounding Returns Model
 
-Like [[Compound Interest]], Stoic journaling generates returns that accelerate over time:
+Like [[Compound-Interest]], Stoic journaling generates returns that accelerate over time:
 
 ```
 Day 1: Single reflection → Small insight

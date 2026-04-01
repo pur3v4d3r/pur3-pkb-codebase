@@ -171,7 +171,7 @@ Mentally rehearse generic precepts
 	- [[Premeditatio-Malorum]]
 	- [[Negative Visualization]]
 	- [[Memento Mori]]
-	- [[Amor Fati]]
+	- [[Amor-Fati]]
 	- [[Discipline-of-Assent]] -> [synkatathesis]
 
 - [[Ataraxia]]
@@ -287,7 +287,7 @@ Writing is a form of [[Cognitive-Load-Theory]] management, by taking your though
 > 
 
 > [!the-philosophy]
->[[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity.[[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[Pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience.
+>[[Stoicism]] provides the psychological architecture for emotional resilience and cognitive stability under adversity.[[Constructivism]] offers the epistemological and developmental framework for how humans actively construct knowledge through experience. [[pragmatism]] supplies the methodological bridge that validates both through practical consequences, treating truth not as correspondence to external reality but as what emerges through successful engagement with lived experience.
 
 > [!analogy]
 > **The Archer's Control: A Stoic Metaphor for Agency**
@@ -311,12 +311,12 @@ The Dichotomy of Control
 > [!important]
 > **Distinguishing Premeditatio Malorum from Rumination**
 > 
-> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio-Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional Regulation|emotional regulation]] capacity.
+> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio-Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional-Regulation|emotional regulation]] capacity.
 
 > [!methodology-and-sources]
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[prefrontal-cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 > [!the-philosophy] 🌟 **Living According to Nature: The Foundation of Stoic Ethics**
 > The fundamental ethical principle of Stoicism—"live according to nature" (*kata physin*)—emerges directly from this physics. Since human beings *are* part of nature (not separate from or opposed to it), and since we possess a fragment of the divine Logos in the form of our rational capacity, **to live according to nature means to live according to reason**. More specifically, it means developing our distinctively human capacity—reason—to its fullest potential, which the Stoics identified with **virtue** (*aretē*). Just as it is the nature of a tree to grow, produce fruit, and contribute to the forest ecosystem, it is human nature to reason, make choices, and contribute to the human community. We fulfill our nature not by pursuing pleasure or accumulating external goods, but by **developing excellent character** and exercising our rational faculties in service of appropriate action. This is why Epictetus could insist, even as a former slave with a permanent physical disability, that he possessed everything necessary for human flourishing—because what truly matters lies within the domain of choice and judgment, which no external force can touch without our complicity.
@@ -350,7 +350,7 @@ Epictetus
 > 
 > > [!methodology-and-sources]
 > > **Virtue as the Evaluative Framework**
-> > Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External Achievement]].
+> > Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External-Achievement]].
 > > > [!analogy]
 > > > **The Mirror Metaphor**
 > > > The journal functions as a psychological mirror—not reflecting appearance but revealing the invisible architecture of our thoughts, judgments, and character. Just as physical mirrors enable grooming and self-presentation, the journal enables [[Moral Hygiene]] and [[Character Cultivation]].
@@ -399,7 +399,7 @@ Epictetus
 	- **[[Premeditatio-Malorum]]** - Visualization of potential difficulties
 	- **[[Negative Visualization]]** - Imagining loss to enhance appreciation
 	- **[[Memento Mori]]** - Meditation on mortality
-	- **[[Amor Fati]]** - Love of fate; acceptance of necessity
+	- **[[Amor-Fati]]** - Love of fate; acceptance of necessity
 - Research suggests that cognitive prompting with metacognitive prompting is the best option as one or the other alone doesn't do the same job if at all.
 	- This explains why Stoic frameworks work: they combine:
 		- **Cognitive Prompts** - "What happened? What did I do?"
@@ -429,7 +429,7 @@ Throughout *Meditations*, Marcus employs recurring patterns:
 > - Universal context (how this fits cosmic order)
 > - Rational assessment (what virtue demands)
 > - Mortality reminder (brevity of life)
-> This multi-perspective analysis prevents [[Cognitive Narrowing]] and reveals hidden assumptions.
+> This multi-perspective analysis prevents [[Cognitive-Narrowing]] and reveals hidden assumptions.
 ### Seneca
 > [!methodology-and-sources]
 > **The Seneca Evening Protocol** (from *De Ira* 3.36)

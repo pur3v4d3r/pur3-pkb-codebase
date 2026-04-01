@@ -704,7 +704,7 @@ Core Competencies:
 - Precision in component classification and tagging
 
 Output Guidelines:
-- Cite specific components using [[Wiki-Link]] format
+- Cite specific components using [[wiki-link]] format
 - Provide actionable recommendations, not generic advice
 - Maintain technical accuracy and terminology consistency
 - Format responses for Obsidian markdown compatibility

@@ -278,7 +278,7 @@ Strategic planning for complex academic reading is not selecting *one* strategy 
 
 **Within-Reading Strategies** (primarily Performance Phase, but planned in Forethought)
 
-- *Self-Explanation*: After each major claim, pause and generate an explanation of *why* the claim follows from what preceded it. [[Self-Explanation]] is Forethought-planned but Performance-deployed; the Forethought Phase must specify its frequency ("after every core theoretical claim") to prevent the common failure of planning to self-explain but forgetting to do so under cognitive load.
+- *Self-Explanation*: After each major claim, pause and generate an explanation of *why* the claim follows from what preceded it. [[self-explanation]] is Forethought-planned but Performance-deployed; the Forethought Phase must specify its frequency ("after every core theoretical claim") to prevent the common failure of planning to self-explain but forgetting to do so under cognitive load.
 
 - *[[Elaborative-Interrogation]]*: Generate "why?" and "how?" questions for key claims. Why would metacognitive monitoring failures produce calibration errors? How does attribution to unstable causes preserve motivation while attribution to stable causes undermines it? The questions are Forethought-specified; the answers are Performance-generated.
 

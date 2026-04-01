@@ -24,8 +24,8 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,13 +38,13 @@ referenced-by-count: 17
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Central-Executive]]"
   - "[[Chunking]]"
   - "[[Declarative-Memory]]"
   - "[[Encoding-Specificity-Principle]]"
   - "[[Episodic-Buffer]]"
   - "[[Episodic-Memory]]"
+  - "[[Identified-Techniques]]"
   - "[[Memory-Consolidation]]"
   - "[[Non-Declarative-Memory]]"
   - "[[Phonological-Loop]]"
@@ -66,13 +66,13 @@ importance: medium
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Central-Executive]]
 - [[Chunking]]
 - [[Declarative-Memory]]
 - [[Encoding-Specificity-Principle]]
 - [[Episodic-Buffer]]
 - [[Episodic-Memory]]
+- [[Identified-Techniques]]
 - [[Memory-Consolidation]]
 - [[Non-Declarative-Memory]]
 - [[Phonological-Loop]]

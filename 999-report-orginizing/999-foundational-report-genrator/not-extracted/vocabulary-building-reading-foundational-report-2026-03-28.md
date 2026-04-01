@@ -118,23 +118,23 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Memory Systems]]"
-  - "[[Schema Theory]]"
-  - "[[Levels of Processing Theory]]"
+  - "[[Memory-Systems|Memory Systems]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Levels-of-Processing-Theory|Levels of Processing Theory]]"
 
 related:
-  - "[[Reading Fluency]]"
-  - "[[Lexical Automaticity]]"
-  - "[[Simple View of Reading]]"
-  - "[[Verbal Efficiency Theory]]"
-  - "[[Matthew Effect]]"
-  - "[[Incidental Learning]]"
-  - "[[Dual-Coding Theory]]"
-  - "[[Situation Models in Text Comprehension]]"
+  - "[[Reading-Fluency|Reading Fluency]]"
+  - "[[Lexical-Automaticity|Lexical Automaticity]]"
+  - "[[Simple-View-of-Reading|Simple View of Reading]]"
+  - "[[Verbal-Efficiency-Theory|Verbal Efficiency Theory]]"
+  - "[[Matthew-Effect|Matthew Effect]]"
+  - "[[Incidental-Learning|Incidental Learning]]"
+  - "[[Dual-Coding-Theory|Dual-Coding Theory]]"
+  - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
 
 broader:
-  - "[[Cognitive Load Theory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
 
 narrower:
   - "[[Incidental Vocabulary Acquisition]]"
@@ -143,32 +143,32 @@ narrower:
   - "[[Nation's Vocabulary Size Thresholds]]"
 
 see-also:
-  - "[[Elaborative Interrogation]]"
-  - "[[Spaced Repetition]]"
-  - "[[Retrieval Practice]]"
-  - "[[Desirable Difficulties]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[Spaced-Repetition|Spaced Repetition]]"
+  - "[[Retrieval-Practice|Retrieval Practice]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
 
 contrasts-with:
-  - "[[Shallow Processing]]"
-  - "[[Rote Memorization]]"
+  - "[[Shallow-Processing|Shallow Processing]]"
+  - "[[Rote-memorization|Rote Memorization]]"
 
 applied-in:
-  - "[[Self-Directed Learning]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[Advance Organizers & Prior Knowledge Activation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Levels of Processing Theory]]"
-  - "[[Memory Systems]]"
-  - "[[Schema Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Reading Fluency]]"
+  - "[[Levels-of-Processing-Theory|Levels of Processing Theory]]"
+  - "[[Memory-Systems|Memory Systems]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Reading-Fluency|Reading Fluency]]"
 
 enables:
-  - "[[Situation Models in Text Comprehension]]"
-  - "[[Transfer of Learning]]"
+  - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Extensive Reading]]"
 
 expansion-topics:
@@ -277,7 +277,7 @@ The naive answer — you know a word if you know what it means — collapses imm
 >
 > **Operational Indicator:** A learner demonstrates strong word knowledge when they can (a) recognize the word in varied forms and contexts, (b) produce a contextually appropriate definition or paraphrase, (c) generate accurate example sentences, and (d) identify collocational partners with reasonable accuracy.
 >
-> **See also:** [[Vocabulary Breadth vs. Depth]], [[Semantic Memory]], [[Schema Theory]], [[Incidental Vocabulary Acquisition]]
+> **See also:** [[Vocabulary Breadth vs. Depth]], [[Semantic-Memory|Semantic Memory]], [[Schema-Theory|Schema Theory]], [[Incidental Vocabulary Acquisition]]
 
 This distinction between *breadth* (how many words one knows, at least partially) and *depth* (how well one knows those words, across all dimensions) is one of the most theoretically and practically important in the field. Reading builds breadth efficiently — each encounter with a word in a new context extends the word's known range. But depth, particularly productive control and collocational fluency, typically requires far more intentional engagement than passive reading delivers.
 
@@ -293,7 +293,7 @@ This distinction between *breadth* (how many words one knows, at least partially
 >
 > **Boundary:** Depth is not easily assessed and is often underrepresented in standard vocabulary tests, which may create an illusion that a reader has full word knowledge when they have only surface-level definitional access.
 >
-> **See also:** [[Levels of Processing Theory]], [[Dual-Coding Theory]], [[Semantic Memory]]
+> **See also:** [[Levels-of-Processing-Theory|Levels of Processing Theory]], [[Dual-Coding-Theory|Dual-Coding Theory]], [[Semantic-Memory|Semantic Memory]]
 
 ### The Zipfian Distribution and the Coverage Problem
 
@@ -316,7 +316,7 @@ A further distinction with practical consequences separates *receptive* vocabula
 >
 > **Boundary:** Receptive knowledge can be highly context-dependent — a reader may understand a word in one context but fail to recognize it in another. True receptive mastery implies cross-contextual recognition stability.
 >
-> **See also:** [[Reading Fluency]], [[Lexical Automaticity]], [[Verbal Efficiency Theory]]
+> **See also:** [[Reading-Fluency|Reading Fluency]], [[Lexical-Automaticity|Lexical Automaticity]], [[Verbal-Efficiency-Theory|Verbal Efficiency Theory]]
 
 > [!reflection] **Deepening Your Understanding**
 > 1. Which of the definitional distinctions in this phase surprised you most — breadth vs. depth, receptive vs. productive, or the Zipfian threshold? What did you previously assume about vocabulary that these distinctions revise?
@@ -329,26 +329,26 @@ A further distinction with practical consequences separates *receptive* vocabula
 
 ### The Vocabulary-Comprehension Spiral
 
-The central and most empirically robust theoretical claim in this area is that the relationship between vocabulary and reading comprehension is *bidirectional and cumulative*. [[Keith Stanovich]] articulated the formal version of this insight in his landmark 1986 paper on the [[Matthew Effect]] in reading — the observation that in literacy development, the rich get richer and the poor get poorer. Readers who enter schooling with larger vocabularies find reading easier, read more, and through that reading encounter more new words, which expand their vocabularies further, which makes reading still more accessible. Readers who enter with smaller vocabularies find reading harder, read less, and consequently fall progressively further behind their more advantaged peers.
+The central and most empirically robust theoretical claim in this area is that the relationship between vocabulary and reading comprehension is *bidirectional and cumulative*. [[Keith-Stanovich|Keith Stanovich]] articulated the formal version of this insight in his landmark 1986 paper on the [[Matthew-Effect|Matthew Effect]] in reading — the observation that in literacy development, the rich get richer and the poor get poorer. Readers who enter schooling with larger vocabularies find reading easier, read more, and through that reading encounter more new words, which expand their vocabularies further, which makes reading still more accessible. Readers who enter with smaller vocabularies find reading harder, read less, and consequently fall progressively further behind their more advantaged peers.
 
 > [!key-claim] **The Matthew Effect in Vocabulary (Stanovich, 1986)**
 > Vocabulary development exhibits a self-amplifying dynamic: vocabulary facilitates comprehension, which enables more reading, which provides more vocabulary encounters, which builds more vocabulary. Conversely, vocabulary deficits impair comprehension, reduce reading motivation and volume, and thereby reduce exposure to new words. The gap between strong and weak vocabulary learners therefore tends to widen over time rather than stabilize, independent of formal instruction.
 
 The practical consequence is that the best single intervention for vocabulary development in the long run is not vocabulary instruction per se, but increasing reading volume — provided the reader has sufficient vocabulary to sustain comprehension. This is the crucial insight that prevents the argument from becoming circular: the spiral only operates above the coverage threshold. Below threshold, increased reading volume does not effectively build vocabulary, because too many unknown words overwhelm the incidental learning mechanism.
 
-The vocabulary-comprehension relationship is also mediated by [[Schema Theory]]. Words are not stored in isolation; they are embedded in networks of associated concepts, contexts, and relationships. Encountering a known word in a new context does not simply confirm existing knowledge — it extends the word's schematic network, adding new associations, collocations, and pragmatic contexts. This is why repeated encounters with the same word in varied contexts produce qualitatively richer word knowledge than the same number of encounters in similar contexts. Each encounter potentially adds a new schematic dimension.
+The vocabulary-comprehension relationship is also mediated by [[Schema-Theory|Schema Theory]]. Words are not stored in isolation; they are embedded in networks of associated concepts, contexts, and relationships. Encountering a known word in a new context does not simply confirm existing knowledge — it extends the word's schematic network, adding new associations, collocations, and pragmatic contexts. This is why repeated encounters with the same word in varied contexts produce qualitatively richer word knowledge than the same number of encounters in similar contexts. Each encounter potentially adds a new schematic dimension.
 
 ### Verbal Efficiency Theory
 
-[[Charles Perfetti]]'s [[Verbal Efficiency Theory]] (1985, 1992) provides the cognitive mechanism that explains *why* vocabulary knowledge matters for comprehension. The central claim is that reading comprehension depends on the availability of cognitive resources for high-level text processing — constructing inferences, integrating information across the text, monitoring comprehension, relating the text to prior knowledge. These processes require working memory capacity.
+[[Charles Perfetti]]'s [[Verbal-Efficiency-Theory|Verbal Efficiency Theory]] (1985, 1992) provides the cognitive mechanism that explains *why* vocabulary knowledge matters for comprehension. The central claim is that reading comprehension depends on the availability of cognitive resources for high-level text processing — constructing inferences, integrating information across the text, monitoring comprehension, relating the text to prior knowledge. These processes require working memory capacity.
 
 > [!key-claim] **Verbal Efficiency Theory (Perfetti, 1985)**
 > The speed and automaticity of lower-level lexical processes (recognizing a word's form, accessing its phonological representation, retrieving its meaning) determines how much cognitive capacity remains available for higher-level comprehension processes. Slow, effortful word recognition consumes working memory resources that would otherwise be devoted to comprehension. The more efficient lexical access becomes, the more comprehension potential is freed.
 
-This is where vocabulary knowledge and [[Lexical Automaticity]] interact with [[Cognitive Load Theory]]. A reader whose word recognition is slow and effortful experiences high intrinsic cognitive load at the level of individual word decoding. The resulting cognitive bottleneck leaves fewer resources for inference, integration, and comprehension monitoring — all of which are required for deep text understanding. A reader with large, well-practiced vocabulary experiences word recognition as automatic and fast, making comprehension processes the primary site of cognitive engagement.
+This is where vocabulary knowledge and [[Lexical-Automaticity|Lexical Automaticity]] interact with [[Cognitive-Load-Theory|Cognitive Load Theory]]. A reader whose word recognition is slow and effortful experiences high intrinsic cognitive load at the level of individual word decoding. The resulting cognitive bottleneck leaves fewer resources for inference, integration, and comprehension monitoring — all of which are required for deep text understanding. A reader with large, well-practiced vocabulary experiences word recognition as automatic and fast, making comprehension processes the primary site of cognitive engagement.
 
 > [!insight] **Vocabulary as Cognitive Infrastructure**
-> Verbal Efficiency Theory reframes vocabulary knowledge from "knowing what words mean" (declarative) to "having fast, automatic access to word meanings" (procedural). The distinction mirrors the [[Levels of Processing Theory]] finding that deeply encoded information is more rapidly and reliably retrieved. A word known at depth — with rich associative networks, collocational knowledge, and experiential grounding — is retrieved faster and with less effort than a word known only definitionally. This has direct implications for what kind of vocabulary work produces reading fluency gains.
+> Verbal Efficiency Theory reframes vocabulary knowledge from "knowing what words mean" (declarative) to "having fast, automatic access to word meanings" (procedural). The distinction mirrors the [[Levels-of-Processing-Theory|Levels of Processing Theory]] finding that deeply encoded information is more rapidly and reliably retrieved. A word known at depth — with rich associative networks, collocational knowledge, and experiential grounding — is retrieved faster and with less effort than a word known only definitionally. This has direct implications for what kind of vocabulary work produces reading fluency gains.
 
 ### Incidental Acquisition: The Nation Program
 
@@ -364,7 +364,7 @@ The implications of incidental acquisition research for deliberate learners are 
 
 ### Deep Processing and Lexical Encoding
 
-[[Levels of Processing Theory]] (Craik & Lockhart, 1972) provides the cognitive learning framework that best explains *when* vocabulary encounters produce lasting retention. The core principle — that the depth of cognitive processing applied to information at encoding predicts the durability and accessibility of the resulting memory trace — applies directly to word learning.
+[[Levels-of-Processing-Theory|Levels of Processing Theory]] (Craik & Lockhart, 1972) provides the cognitive learning framework that best explains *when* vocabulary encounters produce lasting retention. The core principle — that the depth of cognitive processing applied to information at encoding predicts the durability and accessibility of the resulting memory trace — applies directly to word learning.
 
 Shallow processing of a new word (attending only to its visual form, perhaps noting vaguely that it seems to mean something like X) produces weak, rapidly forgotten representations. Deep processing — attending to meaning, connecting the word to prior knowledge, considering its use in this context versus other contexts, generating a sentence using the word — produces richer, more durable representations. This is the cognitive explanation for why multiple varied encounters produce better vocabulary acquisition than the same number of repeated encounters in the same context: varied encounters force re-processing from new angles, repeatedly deepening the lexical trace.
 
@@ -394,21 +394,21 @@ The proximate mechanism of incidental vocabulary acquisition from reading is *co
 >
 > **Operational Indicator:** A reader engaging in contextual inference pauses at an unknown word, re-reads the surrounding text, identifies semantic and syntactic cues, and formulates a provisional meaning before continuing. Readers who skip over unknown words are not engaging in contextual inference.
 >
-> **See also:** [[Incidental Learning]], [[Schema Theory]], [[Elaborative Inference]], [[Situation Models in Text Comprehension]]
+> **See also:** [[Incidental-Learning|Incidental Learning]], [[Schema-Theory|Schema Theory]], [[Elaborative-Inference|Elaborative Inference]], [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
 
 The success of contextual inference depends on several contextual-quality dimensions. Rich contexts — those that include synonyms, antonyms, examples, definitions embedded in the text, or conceptual contrast — enable high-quality inference. Sparse or neutral contexts — those where the unknown word's presence or absence would not substantially change the meaning of the sentence — provide little inferential leverage. An important practical implication is that the quality of the reading material matters as much as the quantity of reading for vocabulary development: texts with rich, varied, contextually informative vocabulary use are substantially more effective for incidental acquisition than texts that use complex vocabulary sparingly or without contextual support.
 
 ### The Multiple Encounters Principle
 
-A single encounter with a new word virtually never produces durable, deep word knowledge. The research consensus is that somewhere between 8 and 20 spaced encounters are required to produce robust knowledge of a new word, with the exact number varying by the complexity of the word's meaning, the quality of the contexts, and the amount of deliberate attention applied at each encounter. This is the vocabulary analog of the [[Spacing Effect]] in memory research.
+A single encounter with a new word virtually never produces durable, deep word knowledge. The research consensus is that somewhere between 8 and 20 spaced encounters are required to produce robust knowledge of a new word, with the exact number varying by the complexity of the word's meaning, the quality of the contexts, and the amount of deliberate attention applied at each encounter. This is the vocabulary analog of the [[Spacing-Effect|Spacing Effect]] in memory research.
 
 > [!key-claim] **Multiple Encounters and Incremental Vocabulary Learning (Nation, 2001; Horst, Cobb & Meara, 1998)**
 > Word knowledge is acquired incrementally across multiple encounters, not in a single complete learning event. Each encounter — provided the reader attends to the word — adds a small increment of knowledge: a new context of use, a new collocational partner, a new meaning shade, a new register distinction. Full word knowledge is the accumulated product of many such incremental additions. This incremental model predicts that word learning will be faster and deeper when encounters are varied (different contexts, different forms, different discourse positions) than when encounters are repeated in the same context.
 
-This incremental acquisition model integrates naturally with [[Spaced Repetition]] systems. The spacing effect — the finding that memory is stronger when learning episodes are distributed across time than when they are massed together — operates on vocabulary just as it does on other declarative knowledge. A vocabulary learning practice that exploits both encounter variety and temporal spacing will produce substantially deeper and more durable word knowledge than a practice that concentrates encounters in short-term intensive study.
+This incremental acquisition model integrates naturally with [[Spaced-Repetition|Spaced Repetition]] systems. The spacing effect — the finding that memory is stronger when learning episodes are distributed across time than when they are massed together — operates on vocabulary just as it does on other declarative knowledge. A vocabulary learning practice that exploits both encounter variety and temporal spacing will produce substantially deeper and more durable word knowledge than a practice that concentrates encounters in short-term intensive study.
 
 > [!insight] **The Encounter-Distribution Problem**
-> Reading naturally spaces vocabulary encounters in a haphazard way: a word is encountered in a book, then not again for weeks or months, then several times in a short stretch. This natural spacing is often actually beneficial — it prevents massed learning effects and forces re-encoding from partially forgotten traces, which research on [[Desirable Difficulties]] suggests strengthens retention. The challenge is that natural reading also produces highly uneven coverage: some words are encountered frequently, others rarely or only once. A deliberate vocabulary practice can complement reading by targeting the rare words that natural reading alone is unlikely to re-encounter at the right intervals.
+> Reading naturally spaces vocabulary encounters in a haphazard way: a word is encountered in a book, then not again for weeks or months, then several times in a short stretch. This natural spacing is often actually beneficial — it prevents massed learning effects and forces re-encoding from partially forgotten traces, which research on [[Desirable-Difficulties|Desirable Difficulties]] suggests strengthens retention. The challenge is that natural reading also produces highly uneven coverage: some words are encountered frequently, others rarely or only once. A deliberate vocabulary practice can complement reading by targeting the rare words that natural reading alone is unlikely to re-encounter at the right intervals.
 
 ### Morphological Awareness as a Force Multiplier
 
@@ -421,12 +421,12 @@ The interaction between morphological awareness and contextual inference is part
 
 ### The Role of Elaborative Processing in Word Learning
 
-The transition from encountered word to retained vocabulary item is governed by the same elaborative encoding principles that govern other memory formation. [[Dual-Coding Theory]] (Paivio, 1971) adds a further dimension: words that are encoded with both verbal and imagistic representations are more durably retained than words encoded verbally alone. Words that trigger vivid, concrete mental imagery (e.g., *scintillate*, *labyrinthine*, *effervescent*) tend to be acquired faster than abstract relational words (e.g., *coherence*, *contingency*, *predicate*), likely because the former naturally evoke dual-coded representations while the latter require deliberate elaborative effort to anchor concretely.
+The transition from encountered word to retained vocabulary item is governed by the same elaborative encoding principles that govern other memory formation. [[Dual-Coding-Theory|Dual-Coding Theory]] (Paivio, 1971) adds a further dimension: words that are encoded with both verbal and imagistic representations are more durably retained than words encoded verbally alone. Words that trigger vivid, concrete mental imagery (e.g., *scintillate*, *labyrinthine*, *effervescent*) tend to be acquired faster than abstract relational words (e.g., *coherence*, *contingency*, *predicate*), likely because the former naturally evoke dual-coded representations while the latter require deliberate elaborative effort to anchor concretely.
 
 > [!thought-experiment] **Grounding an Abstract Word**
 > Take the word *sycophant*. A purely verbal approach gives you a definition: "a person who acts obsequiously toward someone important in order to gain advantage." A dual-coded approach might involve visualizing a specific historical figure known for flattery, recalling a scene from a novel or film, or constructing a specific scenario where sycophantic behavior occurs. Which encoding would you expect to be more durable? Which would be more easily retrieved when the word appears unexpectedly in a new context?
 
-The [[Elaborative Interrogation]] research program (Pressley et al., 1992) showed that asking "why" questions about new information substantially improves retention by forcing the learner to generate elaborative connections to prior knowledge. Applied to vocabulary, this suggests that the question "Why would this context use this word rather than a near-synonym?" is a powerful encoding prompt — it forces attention to the word's specific meaning, its register, and its collocational constraints in ways that passive reading cannot produce.
+The [[Elaborative-Interrogation|Elaborative Interrogation]] research program (Pressley et al., 1992) showed that asking "why" questions about new information substantially improves retention by forcing the learner to generate elaborative connections to prior knowledge. Applied to vocabulary, this suggests that the question "Why would this context use this word rather than a near-synonym?" is a powerful encoding prompt — it forces attention to the word's specific meaning, its register, and its collocational constraints in ways that passive reading cannot produce.
 
 > [!reflection] **Understanding the Machinery**
 > 1. The contextual inference process is described as "selective and fallible." What makes it selective? What determines whether a reader will pause to infer a word's meaning or simply skip over it? What motivational and metacognitive factors are involved?
@@ -451,7 +451,7 @@ The theoretical landscape implies a set of evidence-informed design principles f
 > For a reader below the coverage threshold, the highest-leverage investment is breadth expansion — encountering and partially acquiring the high-frequency vocabulary that covers most general texts. Nation's Vocabulary Levels Test provides a diagnostic that identifies which frequency bands are and are not under control. For most adult readers in their target language, the first 3,000 word families cover approximately 90% of text, and the next 6,000 cover an additional 7–8%. Systematic attention to these frequency bands, through reading and deliberate study, can rapidly close coverage gaps.
 
 > [!best-practice] **Use Spaced Repetition for Deliberate Vocabulary Targets**
-> Incidental acquisition is efficient for frequent, context-rich words but unreliable for rare words that appear infrequently in natural reading. Deliberate vocabulary learning systems — particularly those based on [[Spaced Repetition]] — can productively complement reading by targeting vocabulary that natural exposure is unlikely to repeat at the right intervals. The design of effective vocabulary cards should avoid bare definition pairs (word → meaning) in favor of sentence-embedded examples, synonym discrimination tasks, and collocational prompts.
+> Incidental acquisition is efficient for frequent, context-rich words but unreliable for rare words that appear infrequently in natural reading. Deliberate vocabulary learning systems — particularly those based on [[Spaced-Repetition|Spaced Repetition]] — can productively complement reading by targeting vocabulary that natural exposure is unlikely to repeat at the right intervals. The design of effective vocabulary cards should avoid bare definition pairs (word → meaning) in favor of sentence-embedded examples, synonym discrimination tasks, and collocational prompts.
 
 ### Common Misconceptions
 
@@ -477,7 +477,7 @@ A number of persistent misconceptions about vocabulary acquisition deserve expli
 > [!reflection] **From Understanding to Action**
 > 1. The Zone of Productive Difficulty principle says that the best texts for vocabulary growth are challenging but not overwhelming. How would you identify where that zone is for you, for a particular text genre? What signals would tell you a text is too easy or too hard?
 > 2. The warning about vocabulary lists challenges a practice many people consider foundational. If lists are insufficient, what would a more cognitively sophisticated deliberate vocabulary practice look like? What would it preserve from list-based study and what would it replace?
-> 3. Think about the distinction between shallow and deep word knowledge in terms of [[Retrieval Practice]]. What kinds of retrieval practice prompts would exercise word knowledge at depth rather than at the surface level of definitions?
+> 3. Think about the distinction between shallow and deep word knowledge in terms of [[Retrieval-Practice|Retrieval Practice]]. What kinds of retrieval practice prompts would exercise word knowledge at depth rather than at the surface level of definitions?
 
 ---
 
@@ -496,19 +496,19 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > This report on vocabulary building through reading connects to existing knowledge in your PKB across several dimensions:
 >
-> **[[Levels of Processing Theory]]** — The depth-of-processing framework is the central cognitive-memory mechanism that explains when and why vocabulary encounters produce lasting retention. Every practical protocol recommendation in this report can be derived from LOP principles applied to lexical encoding. The relationship is not merely analogical; vocabulary learning is a direct application of LOP to a specific content domain.
+> **[[Levels-of-Processing-Theory|Levels of Processing Theory]]** — The depth-of-processing framework is the central cognitive-memory mechanism that explains when and why vocabulary encounters produce lasting retention. Every practical protocol recommendation in this report can be derived from LOP principles applied to lexical encoding. The relationship is not merely analogical; vocabulary learning is a direct application of LOP to a specific content domain.
 >
-> **[[Cognitive Load Theory]]** — Verbal Efficiency Theory maps directly onto CLT's intrinsic-extraneous-germane load architecture. Lexical automaticity reduces the intrinsic load of word recognition, freeing cognitive resources for germane processing of higher-level comprehension tasks. The vocabulary-comprehension connection is essentially a CLT story about resource allocation in reading.
+> **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Verbal Efficiency Theory maps directly onto CLT's intrinsic-extraneous-germane load architecture. Lexical automaticity reduces the intrinsic load of word recognition, freeing cognitive resources for germane processing of higher-level comprehension tasks. The vocabulary-comprehension connection is essentially a CLT story about resource allocation in reading.
 >
-> **[[Schema Theory]]** — Word knowledge and schematic knowledge are deeply intertwined. Each word is a schema node; knowing a word richly means having a developed schema for the concept it encodes. Vocabulary growth and schema development are not parallel processes; they are the same process viewed from different angles (lexical vs. conceptual).
+> **[[Schema-Theory|Schema Theory]]** — Word knowledge and schematic knowledge are deeply intertwined. Each word is a schema node; knowing a word richly means having a developed schema for the concept it encodes. Vocabulary growth and schema development are not parallel processes; they are the same process viewed from different angles (lexical vs. conceptual).
 >
-> **[[Reading Fluency]]** and **[[Lexical Automaticity]]** — These existing nodes treat the automaticity of word recognition as a reading-rate phenomenon. This report deepens those nodes by providing the theoretical account (Verbal Efficiency Theory) that explains *why* automaticity matters and by connecting word recognition automaticity to vocabulary knowledge depth, not just decoding speed.
+> **[[Reading-Fluency|Reading Fluency]]** and **[[Lexical-Automaticity|Lexical Automaticity]]** — These existing nodes treat the automaticity of word recognition as a reading-rate phenomenon. This report deepens those nodes by providing the theoretical account (Verbal Efficiency Theory) that explains *why* automaticity matters and by connecting word recognition automaticity to vocabulary knowledge depth, not just decoding speed.
 >
-> **[[Matthew Effect]]** — The existing node on the Matthew Effect likely covers it as a general educational phenomenon. This report provides the specific reading-and-vocabulary mechanism through which the Matthew Effect operates, enriching the node's causal account significantly.
+> **[[Matthew-Effect|Matthew Effect]]** — The existing node on the Matthew Effect likely covers it as a general educational phenomenon. This report provides the specific reading-and-vocabulary mechanism through which the Matthew Effect operates, enriching the node's causal account significantly.
 >
-> **[[Spaced Repetition]]** and **[[Retrieval Practice]]** — These nodes cover general memory-enhancement techniques. This report specifies how these techniques should be adapted for vocabulary learning in particular — including the distinction between breadth-building and depth-building practice modes, and the importance of sentence-embedded over bare-pair flashcard design.
+> **[[Spaced-Repetition|Spaced Repetition]]** and **[[Retrieval-Practice|Retrieval Practice]]** — These nodes cover general memory-enhancement techniques. This report specifies how these techniques should be adapted for vocabulary learning in particular — including the distinction between breadth-building and depth-building practice modes, and the importance of sentence-embedded over bare-pair flashcard design.
 >
-> **[[Self-Regulated Learning]]** — A complete vocabulary development practice requires SRL skills: goal-setting (which words to target), strategy use (contextual inference, morphological analysis, spaced repetition), self-monitoring (calibrating difficulty of reading material, tracking word familiarity), and self-reflection (adjusting strategies based on retention success). This report is an application domain for SRL theory.
+> **[[Self-Regulated-Learning|Self-Regulated Learning]]** — A complete vocabulary development practice requires SRL skills: goal-setting (which words to target), strategy use (contextual inference, morphological analysis, spaced repetition), self-monitoring (calibrating difficulty of reading material, tracking word familiarity), and self-reflection (adjusting strategies based on retention success). This report is an application domain for SRL theory.
 >
 > **Key Insight:** The convergence of these connections reveals that vocabulary building through reading is not a peripheral or specialized topic — it is a privileged application domain where virtually every major cognitive learning framework (memory, schema, load, motivation, metacognition, SRL) applies directly and illuminates specific actionable principles.
 
@@ -530,7 +530,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Boundary:** Incidental acquisition does not mean passive acquisition. Readers who actively attempt contextual inference and apply elaborative processing to unfamiliar words acquire vocabulary at substantially higher rates than readers who passively skip over unknown words. The "incidental" label refers to the absence of explicit learning intention, not the absence of cognitive effort.
 >
-> **See also:** [[Incidental Learning]], [[Contextual Inference Strategies]], [[Nation's Word Knowledge Framework]], [[Matthew Effect]]
+> **See also:** [[Incidental-Learning|Incidental Learning]], [[Contextual Inference Strategies]], [[Nation's Word Knowledge Framework]], [[Matthew-Effect|Matthew Effect]]
 
 > [!definition] **Coverage Threshold (Nation & Waring, 1997)**
 > The minimum proportion of running words in a text that a reader must know to sustain adequate comprehension and support incidental vocabulary acquisition from context. Research suggests that 95% coverage allows rough comprehension with significant inferential burden, while 98% coverage is the threshold for fluent reading with reliable incidental acquisition. Achieving 98% coverage of general English text requires knowledge of approximately 8,000–9,000 word families.
@@ -546,14 +546,14 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Boundary:** The Matthew Effect does not imply that vocabulary deficits are irreversible; it describes a tendency, not a determinism. Targeted, high-volume reading combined with deliberate vocabulary instruction can disrupt the negative spiral for learners with initial deficits.
 >
-> **See also:** [[Self-Efficacy Theory]], [[Growth Mindset]], [[Incidental Vocabulary Acquisition]], [[Vocabulary-Comprehension Spiral]]
+> **See also:** [[Self-Efficacy-Theory|Self-Efficacy Theory]], [[Growth-Mindset|Growth Mindset]], [[Incidental Vocabulary Acquisition]], [[Vocabulary-Comprehension Spiral]]
 
 > [!definition] **Verbal Efficiency Theory (Perfetti, 1985, 1992)**
 > A cognitive theory of reading comprehension holding that the efficiency of lower-level lexical processes (word recognition, phonological access, meaning retrieval) determines the availability of cognitive resources for higher-level comprehension processes (inference, integration, monitoring). Readers who achieve fast, automatic lexical access have more working memory resources available for comprehension; readers with slow, effortful word processing experience a cognitive bottleneck that impairs comprehension even when they nominally "know" the words encountered.
 >
 > **Boundary:** Verbal Efficiency Theory does not claim that fast lexical access alone is sufficient for comprehension. It claims it is necessary but not sufficient: a reader may have efficient lexical access and still fail at comprehension due to inadequate prior knowledge, poor inference skills, or inadequate text structure knowledge.
 >
-> **See also:** [[Lexical Automaticity]], [[Cognitive Load Theory]], [[Reading Fluency]], [[Working Memory]]
+> **See also:** [[Lexical-Automaticity|Lexical Automaticity]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Reading-Fluency|Reading Fluency]], [[Working-Memory|Working Memory]]
 
 > [!definition] **Morphological Awareness**
 > Explicit or implicit knowledge of the morphological structure of words — their decomposition into meaningful units (morphemes) including roots, prefixes, and suffixes — and the ability to use this knowledge to generate provisional meanings for unfamiliar derived and compound words. Morphological awareness functions as a *force multiplier* on vocabulary breadth because knowledge of a single morpheme enables probabilistic inference across all words sharing that morpheme.
@@ -574,7 +574,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Boundary:** The spiral is not unconditional — it operates most powerfully above the coverage threshold. Below threshold, the feedback loop is interrupted because texts that exceed vocabulary level impair rather than enhance both comprehension and incidental acquisition.
 >
-> **See also:** [[Matthew Effect]], [[Incidental Vocabulary Acquisition]], [[Schema Theory]], [[Self-Efficacy Theory]]
+> **See also:** [[Matthew-Effect|Matthew Effect]], [[Incidental Vocabulary Acquisition]], [[Schema-Theory|Schema Theory]], [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 
 ---
 
@@ -626,7 +626,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **This Report's Position:** Extensive reading is the primary vehicle; deliberate instruction is the complement, specifically targeting high-value words and the depth dimension of high-frequency words.
 >
-> **See also:** [[Incidental Learning]], [[Extensive Reading]], [[Desirable Difficulties]], [[Spaced Repetition]]
+> **See also:** [[Incidental-Learning|Incidental Learning]], [[Extensive Reading]], [[Desirable-Difficulties|Desirable Difficulties]], [[Spaced-Repetition|Spaced Repetition]]
 
 > [!open-question] **What Is the Optimal Text Difficulty for Vocabulary Learning?**
 >
@@ -640,7 +640,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Research Direction:** Development of practical real-time vocabulary-level matching tools, and longitudinal studies tracking vocabulary growth across reading difficulty conditions.
 >
-> **See also:** [[Zone of Proximal Development]], [[Desirable Difficulties]], [[Self-Regulated Learning]]
+> **See also:** [[Zone-of-Proximal-Development|Zone of Proximal Development]], [[Desirable-Difficulties|Desirable Difficulties]], [[Self-Regulated-Learning|Self-Regulated Learning]]
 
 ---
 
@@ -852,7 +852,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental Learning]]
+> > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental-Learning|Incidental Learning]]
 >
 > > [!topic-idea] [[Vocabulary Threshold Hypothesis]]
 > > **Description:** A focused analysis of the empirical evidence for vocabulary size thresholds in reading comprehension — the claim that a reader must know approximately 95–98% of text words to sustain adequate comprehension, and that achieving this threshold requires approximately 8,000–9,000 word families for general English. Would examine the evidence base, methodological limitations, cross-linguistic applications, and implications for vocabulary sequencing in instruction and self-directed study.
@@ -888,7 +888,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental Learning]]
+> > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental-Learning|Incidental Learning]]
 
 ---
 
@@ -899,37 +899,37 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Upstream Dependencies (this report builds on):**
 >
-> - **[[Levels of Processing Theory]]** — The deep-vs-shallow encoding distinction is the theoretical foundation for virtually every practical protocol recommendation in this report. Without LOP, there is no principled explanation for why elaborate vocabulary learning strategies outperform rote memorization; with it, the recommendations follow necessarily. This report is one of the clearest application cases in the PKB for LOP theory.
+> - **[[Levels-of-Processing-Theory|Levels of Processing Theory]]** — The deep-vs-shallow encoding distinction is the theoretical foundation for virtually every practical protocol recommendation in this report. Without LOP, there is no principled explanation for why elaborate vocabulary learning strategies outperform rote memorization; with it, the recommendations follow necessarily. This report is one of the clearest application cases in the PKB for LOP theory.
 >
-> - **[[Schema Theory]]** — Word knowledge is schematic knowledge: every deeply known word is a schema node embedded in networks of conceptual associations, collocational patterns, and contextual memories. The incremental acquisition model described in Phase IV is a schema elaboration story — each encounter adds a new schematic element. Schema Theory provides the knowledge-architecture account of why depth matters.
+> - **[[Schema-Theory|Schema Theory]]** — Word knowledge is schematic knowledge: every deeply known word is a schema node embedded in networks of conceptual associations, collocational patterns, and contextual memories. The incremental acquisition model described in Phase IV is a schema elaboration story — each encounter adds a new schematic element. Schema Theory provides the knowledge-architecture account of why depth matters.
 >
-> - **[[Cognitive Load Theory]]** — Verbal Efficiency Theory is essentially a CLT analysis of reading: lexical inefficiency produces intrinsic load overhead that reduces the cognitive resources available for germane processing. This report enriches the CLT node by providing a specific, well-developed application domain (reading) that illustrates the load-architecture principles with unusually strong empirical support.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Verbal Efficiency Theory is essentially a CLT analysis of reading: lexical inefficiency produces intrinsic load overhead that reduces the cognitive resources available for germane processing. This report enriches the CLT node by providing a specific, well-developed application domain (reading) that illustrates the load-architecture principles with unusually strong empirical support.
 >
-> - **[[Memory Systems]]** — Vocabulary knowledge is distributed across memory systems: phonological form in procedural/implicit memory, semantic knowledge in semantic memory, episodic first-encounter memories in episodic memory. This report's mechanisms section is implicitly a memory systems story and deepens the memory systems node by providing lexical acquisition as a rich case study.
+> - **[[Memory-Systems|Memory Systems]]** — Vocabulary knowledge is distributed across memory systems: phonological form in procedural/implicit memory, semantic knowledge in semantic memory, episodic first-encounter memories in episodic memory. This report's mechanisms section is implicitly a memory systems story and deepens the memory systems node by providing lexical acquisition as a rich case study.
 >
 > **Downstream Applications (this report enables):**
 >
-> - **[[Situation Models in Text Comprehension]]** — Constructing situation models of text depends heavily on vocabulary: unfamiliar words create gaps in the situation model, partial word knowledge produces imprecise situation models, and full word knowledge enables richly elaborated models. The vocabulary foundations of situation model construction will be better understood after engaging with this report.
+> - **[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]** — Constructing situation models of text depends heavily on vocabulary: unfamiliar words create gaps in the situation model, partial word knowledge produces imprecise situation models, and full word knowledge enables richly elaborated models. The vocabulary foundations of situation model construction will be better understood after engaging with this report.
 >
-> - **[[Transfer of Learning]]** — Vocabulary is one of the clearest instances of transfer: a word learned in one context must transfer to new contexts for it to be productively useful. The depth-breadth distinction and the multiple-varied-encounters principle are directly relevant to understanding why some vocabulary learning transfers readily and other vocabulary remains context-bound.
+> - **[[Transfer-of-Learning|Transfer of Learning]]** — Vocabulary is one of the clearest instances of transfer: a word learned in one context must transfer to new contexts for it to be productively useful. The depth-breadth distinction and the multiple-varied-encounters principle are directly relevant to understanding why some vocabulary learning transfers readily and other vocabulary remains context-bound.
 >
 > - **[[Extensive Reading]]** — The practical program for implementing this report's recommendations. Extensive reading is the application framework for the Zone of Productive Difficulty and incidental acquisition principles articulated here.
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[Self-Regulated Learning]]** — A sophisticated vocabulary learning practice is a domain-specific SRL application: goal-setting about which words to target and at what depth; strategy selection (contextual inference, morphological analysis, spaced repetition); monitoring (calibrating text difficulty, tracking retention); and reflection (adjusting strategies based on outcomes). The SRL Cyclical Model maps cleanly onto the vocabulary learning practices recommended here.
+> - **[[Self-Regulated-Learning|Self-Regulated Learning]]** — A sophisticated vocabulary learning practice is a domain-specific SRL application: goal-setting about which words to target and at what depth; strategy selection (contextual inference, morphological analysis, spaced repetition); monitoring (calibrating text difficulty, tracking retention); and reflection (adjusting strategies based on outcomes). The SRL Cyclical Model maps cleanly onto the vocabulary learning practices recommended here.
 >
-> - **[[Desirable Difficulties]]** — The Zone of Productive Difficulty principle and the multiple-varied-encounters principle are both instances of the desirable difficulties framework: the conditions that make learning temporarily harder (encountering words in challenging rather than easy contexts; spacing repetition to allow partial forgetting) tend to produce more durable and flexible learning outcomes.
+> - **[[Desirable-Difficulties|Desirable Difficulties]]** — The Zone of Productive Difficulty principle and the multiple-varied-encounters principle are both instances of the desirable difficulties framework: the conditions that make learning temporarily harder (encountering words in challenging rather than easy contexts; spacing repetition to allow partial forgetting) tend to produce more durable and flexible learning outcomes.
 >
-> - **[[Metacognition & Lifelong Learning]]** — Effective vocabulary development requires metacognitive monitoring of word knowledge states: calibrating which words are partially vs. fully known, recognizing when inference has failed vs. succeeded, and accurately assessing one's current vocabulary relative to a target text's demands. This report provides a concrete domain for applying metacognitive monitoring concepts.
+> - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Effective vocabulary development requires metacognitive monitoring of word knowledge states: calibrating which words are partially vs. fully known, recognizing when inference has failed vs. succeeded, and accurately assessing one's current vocabulary relative to a target text's demands. This report provides a concrete domain for applying metacognitive monitoring concepts.
 >
 > **Strengthened Permanent Notes:**
 >
-> - **[[Matthew Effect]]** — This report provides the specific vocabulary-comprehension mechanism through which the Matthew Effect operates in literacy, greatly enriching the causal account of the Matthew Effect node.
+> - **[[Matthew-Effect|Matthew Effect]]** — This report provides the specific vocabulary-comprehension mechanism through which the Matthew Effect operates in literacy, greatly enriching the causal account of the Matthew Effect node.
 >
-> - **[[Incidental Learning]]** — The vocabulary acquisition research program is the most developed and empirically detailed case study for the general incidental learning concept; this report provides substantial depth to the general incidental learning node.
+> - **[[Incidental-Learning|Incidental Learning]]** — The vocabulary acquisition research program is the most developed and empirically detailed case study for the general incidental learning concept; this report provides substantial depth to the general incidental learning node.
 >
-> - **[[Reading Fluency]]** — The Verbal Efficiency Theory account connects reading fluency (typically discussed as a reading-rate phenomenon) to vocabulary depth and lexical automaticity, enriching the fluency node with a mechanistic account of why vocabulary matters for fluency.
+> - **[[Reading-Fluency|Reading Fluency]]** — The Verbal Efficiency Theory account connects reading fluency (typically discussed as a reading-rate phenomenon) to vocabulary depth and lexical automaticity, enriching the fluency node with a mechanistic account of why vocabulary matters for fluency.
 >
 > **Key Insight:** This report sits at the intersection of the memory systems cluster (LOP, Schema Theory, Memory Systems, Dual-Coding), the reading cluster (Reading Fluency, Lexical Automaticity, Verbal Efficiency Theory, Simple View of Reading), and the self-regulated learning cluster (SRL, Metacognition, Desirable Difficulties). Its position at this intersection makes it a natural hub node — deepening understanding of all three clusters and revealing connections between them that might not otherwise be visible.
 

@@ -1270,7 +1270,7 @@ HEADERS:
 WIKI-LINKS:
 [[direct-link]] — Use for exact title match
 [[link|display text]] — Use for grammatical integration
-[[note#section]] — Use for specific section references
+[[Note#section]] — Use for specific section references
 [[glossary#term]] — Use for glossary anchors
 
 CALLOUTS:

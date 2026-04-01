@@ -23,41 +23,66 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 29
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Articulatory-Construction-Principle]]"
+  - "[[Audience-Simulation-Effect]]"
+  - "[[Cognitive-Surface-Area]]"
   - "[[Conceptual-Change]]"
-  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
+  - "[[Construction-Problem]]"
+  - "[[Cultural-Neutrality-Assumption]]"
+  - "[[Embodied-Cognition]]"
+  - "[[Epistemic-Action]]"
+  - "[[Expert-Blind-Spot]]"
+  - "[[Frederic-Bartlett]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: high
 ---
 
 # Cognitive-Disequilibrium
 
 > [!definition] **Cognitive-Disequilibrium**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 29 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 29 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Articulatory-Construction-Principle]]
+- [[Audience-Simulation-Effect]]
+- [[Cognitive-Surface-Area]]
 - [[Conceptual-Change]]
-- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
+- [[Construction-Problem]]
+- [[Cultural-Neutrality-Assumption]]
+- [[Embodied-Cognition]]
+- [[Epistemic-Action]]
+- [[Expert-Blind-Spot]]
+- [[Frederic-Bartlett]]
+- [[Generative-Learning-Theory]]
+- [[Generative-Processing]]
+- [[Knowledge-Telling-vs.-Knowledge-Transforming]]
+- [[Productive-Friction]]
+- [[Retrieval-Writing]]
+- [[Schema-Attractor]]
+- [[Schemas-as-Soft-Cognitive-Attractors]]
+- [[Situated-Cognition]]
+- [[The-Articulatory-Construction-Principle]]
+- [[The-Critical-Lens]]
+- *...and 9 more permanent notes*

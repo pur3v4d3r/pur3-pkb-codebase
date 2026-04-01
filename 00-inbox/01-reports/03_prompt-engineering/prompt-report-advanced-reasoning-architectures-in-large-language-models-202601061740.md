@@ -391,7 +391,7 @@ This GoT example demonstrates **insights emerging from non-linear integration**:
 
 [**Chain-of-Verification-Methodology**:: A four-stage quality assurance framework where models (1) generate initial responses, (2) create verification questions for factual claims, (3) answer verifications independently without seeing initial response, and (4) produce revised output incorporating verification results—reducing hallucination through systematic fact-checking.]
 
-A critical challenge in language model reasoning is **hallucination**: the confident generation of factually incorrect information. This occurs because models are trained to produce fluent text, not necessarily accurate text, and their training creates strong priors toward completing patterns regardless of factual grounding. [[Chain of Verification]] (CoVe) addresses this through structured self-verification.
+A critical challenge in language model reasoning is **hallucination**: the confident generation of factually incorrect information. This occurs because models are trained to produce fluent text, not necessarily accurate text, and their training creates strong priors toward completing patterns regardless of factual grounding. [[Chain-of-Verification]] (CoVe) addresses this through structured self-verification.
 
 **The Chain of Verification framework operates through four sequential stages**:
 
@@ -877,7 +877,7 @@ Query: "What are the latest treatment approaches for drug-resistant tuberculosis
 
 2. **[[Tree-of-Thoughts]] (Systematic Analysis)**: Structure exploration of multiple treatment approaches, evaluating each against efficacy evidence → Ensures comprehensive coverage of options
 
-3. **[[Chain of Verification]] (Accuracy Assurance)**: Generate verification questions for factual claims, validate against retrieved documents → Catches hallucinations or misinterpretations
+3. **[[Chain-of-Verification]] (Accuracy Assurance)**: Generate verification questions for factual claims, validate against retrieved documents → Catches hallucinations or misinterpretations
 
 4. **[[Self-Refine]] (Quality Polish)**: Refine explanation clarity for medical professional audience, ensuring completeness → Enhances communication effectiveness
 

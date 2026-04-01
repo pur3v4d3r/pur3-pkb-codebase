@@ -118,7 +118,7 @@ applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Medical Education]]"
   - "[[STEM Education]]"
-  - "[[e-Learning Design]]"
+  - "[[e-Learning-Design|e-Learning Design]]"
   - "[[Complex Skill Training]]"
 builds-on:
   - "[[Schema-Theory|Schema Theory]]"
@@ -335,7 +335,7 @@ When a learner first encounters novel material, every element must be held expli
 
 ### The Fading Principle and Completion Problems
 
-The most sophisticated CLT-derived instructional technique is not the simple choice between worked examples and problem solving, but the graduated transition between them — what is called the fading principle or completion problem technique. [[Completion Problem Effect|Completion problems]] present a partially worked solution with one or more steps omitted, requiring the learner to complete only those portions. As the learner develops expertise, more steps are removed until they are solving full problems independently. This approach aligns instruction with the schema formation process: the amount of cognitive support decreases as the learner's schemas increase in completeness, preventing both the underload of full worked examples for an advancing learner and the overload of full problem solving for a novice.
+The most sophisticated CLT-derived instructional technique is not the simple choice between worked examples and problem solving, but the graduated transition between them — what is called the fading principle or completion problem technique. [[Completion-Problem-Effect|Completion problems]] present a partially worked solution with one or more steps omitted, requiring the learner to complete only those portions. As the learner develops expertise, more steps are removed until they are solving full problems independently. This approach aligns instruction with the schema formation process: the amount of cognitive support decreases as the learner's schemas increase in completeness, preventing both the underload of full worked examples for an advancing learner and the overload of full problem solving for a novice.
 
 > [!best-practice] **Designing Fading Sequences**
 > CLT-derived fading sequences should: (1) begin with full worked examples for true novices; (2) transition to completion problems in which the final step is omitted, then penultimate steps, and so on; (3) incorporate self-explanation prompts at each stage (asking learners to explain why each step was taken promotes deeper schema formation); (4) assess learner expertise periodically and adjust the fading rate accordingly. The expertise reversal effect implies that a single linear fading sequence may not be optimal for all learners — faster-progressing students should receive accelerated fading. [[Adaptive-Instruction|Adaptive Instruction]] systems that implement dynamic fading represent the state of the art.
@@ -378,7 +378,7 @@ In formal educational settings, the most direct application of CLT is the worked
 
 [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]]'s [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]] (4C/ID) model represents the most fully elaborated CLT-derived instructional design framework for complex skill acquisition. It specifies four components: learning tasks (whole-task practice with real-world complexity), supportive information (schema-building information that scaffolds performance), procedural information (just-in-time guidance for routine aspects), and part-task practice (repetition to automaticity for critical components). The model explicitly operationalizes CLT's sequencing principles for complex domains like medical training, aviation, and engineering. A full treatment is flagged as a high-priority expansion topic.
 
-In the domain of [[e-Learning Design]] and [[Multimedia-Learning|Multimedia Learning]], CLT's influence is substantial. Mayer's CTML principles — which directly derive from CLT mechanisms — have been adopted by major e-learning development frameworks and are now considered standard guidance in instructional technology. The specific implications concern the use of audio narration over on-screen text, the spatial integration of text and visuals, the removal of decorative images and background music (coherence principle), and the use of signaling (highlighting key information) to direct learner attention. These applications are among the best-evidenced in educational technology.
+In the domain of [[e-Learning-Design|e-Learning Design]] and [[Multimedia-Learning|Multimedia Learning]], CLT's influence is substantial. Mayer's CTML principles — which directly derive from CLT mechanisms — have been adopted by major e-learning development frameworks and are now considered standard guidance in instructional technology. The specific implications concern the use of audio narration over on-screen text, the spatial integration of text and visuals, the removal of decorative images and background music (coherence principle), and the use of signaling (highlighting key information) to direct learner attention. These applications are among the best-evidenced in educational technology.
 
 ### The Measurement Challenge
 

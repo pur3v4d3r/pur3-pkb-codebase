@@ -2,9 +2,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Multimedia-Learning"
+title: "Multimedia Learning"
 aliases:
-  - "Multimedia-Learning"
   - "Multimedia Learning"
 type: permanent-note
 status: seedling
@@ -24,30 +23,30 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Counterexample-Search]]"
   - "[[Figure-Effect]]"
   - "[[Fleshing-Out]]"
-  - "[[Four-Component-Instructional-Design-4CID]]"
-  - "[[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]"
-  - "[[Long-Term-Memory]]"
   - "[[Mental-Image]]"
   - "[[Mental-Simulation]]"
-  - "[[Modality-Effect]]"
+  - "[[Model-Multiplicity]]"
+  - "[[Principle-of-Truth]]"
+  - "[[Synthetic-Model]]"
+  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
+  - "[[_Master-Reference-Index|_Master-Reference-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -57,26 +56,22 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Multimedia-Learning
+# Multimedia Learning
 
-> [!definition] **Multimedia-Learning**
-> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Multimedia Learning**
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Counterexample-Search]]
 - [[Figure-Effect]]
 - [[Fleshing-Out]]
-- [[Four-Component-Instructional-Design-4CID]]
-- [[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]
-- [[Long-Term-Memory]]
 - [[Mental-Image]]
 - [[Mental-Simulation]]
-- [[Modality-Effect]]
 - [[Model-Multiplicity]]
 - [[Principle-of-Truth]]
-- [[Redundancy-Effect]]
 - [[Synthetic-Model]]
+- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
+- [[_Master-Reference-Index|_Master-Reference-Index]]

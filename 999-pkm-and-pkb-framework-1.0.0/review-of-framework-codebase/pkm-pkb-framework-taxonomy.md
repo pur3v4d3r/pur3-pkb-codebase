@@ -95,7 +95,7 @@ builds_on:
 
 - **[[Desirable-Difficulties]]** — Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: testing, spacing, interleaving, generation. [Source: Report 16, Bjork 1994] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Generation-Effect]] — Self-generating information produces stronger memory traces than reading [Report 16, 17]
-  - [[Interleaving]] — Alternating between problem types during practice enhances discriminative contrast and transfer [Report 16]
+  - [[interleaving]] — Alternating between problem types during practice enhances discriminative contrast and transfer [Report 16]
   - [[Retrieval-Practice]] — Systematic practice of pulling information from memory rather than re-exposing to it [Report 20]
 
 - **[[Fluency-Illusion]]** — Metacognitive error where ease of processing is mistaken for genuine understanding. Universal PKM failure mode amplified by AI-generated content. [Source: Report 18, 30] [Status: <span style='color: #27FF00;'>Established</span>]

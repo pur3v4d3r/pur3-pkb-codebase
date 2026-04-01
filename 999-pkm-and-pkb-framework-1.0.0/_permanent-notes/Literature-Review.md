@@ -21,6 +21,11 @@ tags:
   - type/analysis
   - status/in-progress
   - educational-psychology
+  - pkm
+  - synthesis-workflow
+  - learning-theory/heutagogy
+  - learning-processes
+  - cognitive-resources
 
 domain: other
 subdomains:
@@ -29,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +46,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-03-27"
+extraction-date: "2026-04-01"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,6 +78,18 @@ see-also:
   - "[[Citation-Management|Citation Management]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Literature-Notes|Literature Notes]]"
+  - "[[Permanent-Notes|Permanent Notes]]"
+  - "[[Bidirectional-Linking|Bidirectional Linking]]"
+  - "[[Zettelkasten-Method|Zettelkasten Method]]"
+  - "[[Systematic-Review-Protocols|Systematic Review Protocols]]"
+  - "[[Critical-Appraisal-Tools|Critical Appraisal Tools]]"
+  - "[[Zettelkasten-Method|Zettelkasten Method]]"
+  - "[[Search-Strategy-Development|Search Strategy Development]]"
+  - "[[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]]"
+  - "[[Source-Evaluation|Source Evaluation]]"
+  - "[[Atomic-Notes|Atomic Notes]]"
+  - "[[Graph-View|Graph View]]"
+  - "[[Bidirectional-Linking|Bidirectional Linking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -96,12 +113,12 @@ importance: medium
 
 # Literature Review
 
-> [!definition] **Literature Review**
+> [!definition] **Literature Review** *(from [[pkb-report-literature-review-methodology-for-pkb-research-202512040139]])*
 > A systematic literature review represents a comprehensive approach to identifying, selecting, and analyzing relevant literature on specific research questions through structured protocols that minimize bias while maximizing the validity and reliability of findings. Within [[Personal-Knowledge-Management]] systems, this definition expands to encompass not merely the production of a review document but the *integration of sources into a living knowledge network* where individual insights become reusable nodes supporting multiple future investigations.
 
 ## Core Explanation
 
-> [!evidence] Supporting Evidence
+> [!evidence] Supporting Evidence *(from [[pkb-report-literature-review-methodology-for-pkb-research-202512040139]])*
 > **PRISMA Guidelines and Systematic Review Methodology**
 > - [PRISMA Statement Official Website](https://www.prisma-statement.org/)
 > - Page, M.J., McKenzie, J.E., Bossuyt, P.M., et al. (2021). ["The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"](https://link.springer.com/article/10.1186/s13643-021-01626-4), *Systematic Reviews*, 10(1), 89.
@@ -115,7 +132,7 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Personal-Knowledge-Base|Personal Knowledge Base]] · [[PRISMA-Guidelines|PRISMA Guidelines]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Zotero]] · [[Obsidian]] · [[Citation-Management|Citation Management]] · [[Personal-Knowledge-Management|Personal Knowledge Management]] · [[Literature-Notes|Literature Notes]] · [[Permanent-Notes|Permanent Notes]] · [[Bidirectional-Linking|Bidirectional Linking]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Systematic-Review-Protocols|Systematic Review Protocols]] · [[Critical-Appraisal-Tools|Critical Appraisal Tools]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Search-Strategy-Development|Search Strategy Development]]
+[[Personal-Knowledge-Base|Personal Knowledge Base]] · [[PRISMA-Guidelines|PRISMA Guidelines]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Zotero]] · [[Obsidian]] · [[Citation-Management|Citation Management]] · [[Personal-Knowledge-Management|Personal Knowledge Management]] · [[Literature-Notes|Literature Notes]] · [[Permanent-Notes|Permanent Notes]] · [[Bidirectional-Linking|Bidirectional Linking]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Systematic-Review-Protocols|Systematic Review Protocols]] · [[Critical-Appraisal-Tools|Critical Appraisal Tools]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Search-Strategy-Development|Search Strategy Development]] · [[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]] · [[Source-Evaluation|Source Evaluation]] · [[Atomic-Notes|Atomic Notes]] · [[Graph-View|Graph View]] · [[Bidirectional-Linking|Bidirectional Linking]] · [[Bibliographic-Metadata|Bibliographic Metadata]] · [[Reference-Notes|Reference Notes]] · [[Search-Strings|Search Strings]] · [[Meta-Analysis]] · [[Effect-Size-Calculations|Effect Size Calculations]] · [[Heterogeneity-Analyses|Heterogeneity Analyses]] · [[Publication-Bias-Assessments|Publication Bias Assessments]] · [[Scoping-Reviews|Scoping Reviews]] · [[Thematic-Analysis|Thematic Analysis]] · [[Conceptual-Framework-Development|Conceptual Framework Development]]
 
 ## References
 
@@ -152,6 +169,8 @@ importance: medium
 - NC State University Writing and Speaking Tutorial Service. ["Writing A Literature Review and Using a Synthesis Matrix"](https://case.fiu.edu/writingcenter/online-resources/_assets/synthesis-matrix-2.pdf)
 - Monash University. ["The process of writing a literature review"](https://www.monash.edu/student-academic-success/excel-at-writing/how-to-write/literature-review/the-process-of-writing-a-literature-review)
 - Central Michigan University Libraries. ["Synthesize - How to Conduct a Literature Review"](https://libguides.cmich.edu/lit_review/LR_synthesize)
+
+*Citations sourced from [[pkb-report-literature-review-methodology-for-pkb-research-202512040139]]*
 
 ---
 

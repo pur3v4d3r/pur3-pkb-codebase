@@ -75,7 +75,7 @@ The teaching-learning relationship involves a complex interplay where instructor
 
 The conceptualization of teaching methods has evolved dramatically across centuries, moving from the Socratic questioning methods of ancient Greece through medieval scholastic traditions to the progressive education movements of the 20th century. Each historical period contributed distinct insights into how humans learn and how instruction might be optimized. The scientific study of human learning dates back over 2000 years to Aristotle and Plato, with particularly rapid growth in educational theory development occurring in the last thirty years.
 
-Modern pedagogy distinguishes itself from historical approaches through systematic integration of empirical research from [[cognitive-psychology]], [[Neuroscience]], and [[Educational-Psychology]]. This evidence-based orientation has transformed pedagogy from an intuitive art practiced through apprenticeship into a disciplined field supported by rigorous research methodologies including [[Randomized Controlled Trials]], [[Meta-Analysis]], and [[Longitudinal Studies]].
+Modern pedagogy distinguishes itself from historical approaches through systematic integration of empirical research from [[cognitive-psychology]], [[neuroscience]], and [[Educational-Psychology]]. This evidence-based orientation has transformed pedagogy from an intuitive art practiced through apprenticeship into a disciplined field supported by rigorous research methodologies including [[Randomized Controlled Trials]], [[Meta-Analysis]], and [[Longitudinal Studies]].
 
 ### The Pedagogy-Andragogy-Heutagogy Continuum
 
@@ -158,7 +158,7 @@ Cognitivist principles inform teaching through:
 - [[Concept Mapping]] to externalize knowledge structures
 - [[Chunking]] information to respect working memory limitations
 - [[Elaborative-Rehearsal]] promoting deep processing
-- [[Metacognitive Strategies]] helping learners monitor their thinking
+- [[Metacognitive-strategies]] helping learners monitor their thinking
 - [[Scaffolding]] that progressively transfers cognitive responsibility
 
 ### 🏗️ Constructivism: Active Knowledge Construction
@@ -439,7 +439,7 @@ Overreliance on rote learning:
 
 > [!the-philosophy]
 > **Paradigm Evolution**
-> Contemporary pedagogical methods integrate insights from [[Cognitive-Science]], [[Neuroscience]], and rigorous educational research to optimize learning outcomes. These evidence-based approaches emphasize active engagement, metacognitive development, and authentic application while respecting principles of how human cognition actually functions.
+> Contemporary pedagogical methods integrate insights from [[Cognitive-Science]], [[neuroscience]], and rigorous educational research to optimize learning outcomes. These evidence-based approaches emphasize active engagement, metacognitive development, and authentic application while respecting principles of how human cognition actually functions.
 
 ### 🎯 Active Learning
 
@@ -1687,7 +1687,7 @@ Effective differentiation depends on ongoing assessment revealing:
 
 > [!definition]
 > - **Universal Design for Learning**:: An educational framework providing multiple means of engagement, representation, and action/expression to support all learners
-> - **Theoretical Foundation**:: [[Neuroscience]], [[Cognitive-Science]], [[Universal Design]]
+> - **Theoretical Foundation**:: [[neuroscience]], [[Cognitive-Science]], [[Universal Design]]
 > - **Developers**:: [[CAST]] (Center for Applied Special Technology)
 > - **Key Principle**:: Proactive design eliminating barriers rather than retrofitting accommodations
 

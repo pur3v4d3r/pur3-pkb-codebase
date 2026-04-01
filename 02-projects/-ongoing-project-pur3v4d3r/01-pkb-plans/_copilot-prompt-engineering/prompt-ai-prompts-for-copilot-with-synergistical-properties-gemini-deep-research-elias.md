@@ -783,7 +783,7 @@ To semi-automate the creation of a weekly project status report by generating a 
 #### The Master Prompt
 
 ```
-`Act as a Project Coordinator preparing a weekly status report in Obsidian. The report is for the project: **[[Project Name]]**.
+`Act as a Project Coordinator preparing a weekly status report in Obsidian. The report is for the project: **[[Project-Name]]**.
 
 This report is being generated inside my weekly note for the week of ****. Use this context to set the date ranges for all queries.
 
@@ -834,7 +834,7 @@ This prompt creates a powerful hybrid workflow, combining AI's summarization cap
 
 #### Example Usage
 
-**User Input:** The user runs this prompt in their weekly note `2024-W29.md`, replacing `[[Project Name]]` with `]` and the project folder with `"Projects/FusionCRM"`.
+**User Input:** The user runs this prompt in their weekly note `2024-W29.md`, replacing `[[Project-Name]]` with `]` and the project folder with `"Projects/FusionCRM"`.
 
 **AI Output:**
 

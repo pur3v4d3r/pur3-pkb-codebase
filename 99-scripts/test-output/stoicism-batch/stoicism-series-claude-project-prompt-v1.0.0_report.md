@@ -617,7 +617,7 @@ extraction_summary:
 - [[Concept-Name]]
 - [[Cynicism]]
 - [[Dichotomy-of-Control]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation]]
 - [[Emotional Resilience]]
 - [[Epictetus]]
 - [[Epicureanism]]
@@ -632,10 +632,10 @@ extraction_summary:
 - [[Next Report Title]]
 - [[Next relevant report]]
 - [[PKB Architect]]
-- [[PKB Architecture]]
+- [[PKB-Architecture]]
 - [[Philosophy MOC]]
 - [[Plato]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Previous Report Title]]
 - [[Previous relevant report]]
 - [[Prohairesis]]
@@ -672,7 +672,7 @@ extraction_summary:
 | 8 | [[Emotional Resilience]] | — | — | KNOWLEDGE GRAPH POSITIONING | 68 |
 | 9 | [[Virtue-Ethics]] | — | — | KNOWLEDGE GRAPH POSITIONING | 69 |
 | 10 | [[Metacognition]] | — | — | KNOWLEDGE GRAPH POSITIONING | 70 |
-| 11 | [[PKB Architecture]] | — | — | KNOWLEDGE GRAPH POSITIONING | 71 |
+| 11 | [[PKB-Architecture]] | — | — | KNOWLEDGE GRAPH POSITIONING | 71 |
 | 12 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 228 |
 | 13 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 232 |
 | 14 | [[Marcus-Aurelius]] | — | — | ═════════════════════════════════════... | 233 |
@@ -706,7 +706,7 @@ extraction_summary:
 | 42 | [[Sophrosyne]] | — | — | Wiki-Linking Protocol | 331 |
 | 43 | [[Cognitive-Behavioral-Therapy]] | — | — | Wiki-Linking Protocol | 332 |
 | 44 | [[Mindfulness]] | — | — | Wiki-Linking Protocol | 332 |
-| 45 | [[Emotional Regulation]] | — | — | Wiki-Linking Protocol | 332 |
+| 45 | [[Emotional-Regulation]] | — | — | Wiki-Linking Protocol | 332 |
 | 46 | [[Resilience]] | — | — | Wiki-Linking Protocol | 332 |
 | 47 | [[Stoicism MOC]] | — | — | Wiki-Linking Protocol | 333 |
 | 48 | [[Stoicism Series Overview]] | — | — | Wiki-Linking Protocol | 333 |
@@ -728,7 +728,7 @@ extraction_summary:
 | 64 | [[Logos]] | — | — | Cross-Report Consistency Requirements | 1065 |
 | 65 | [[Prohairesis]] | — | — | Cross-Report Consistency Requirements | 1066 |
 | 66 | [[Virtue]] | — | — | Cross-Report Consistency Requirements | 1067 |
-| 67 | [[Preferred Indifferents]] | — | — | Cross-Report Consistency Requirements | 1068 |
+| 67 | [[Preferred-Indifferents]] | — | — | Cross-Report Consistency Requirements | 1068 |
 | 68 | [[Eudaimonia]] | — | — | Cross-Report Consistency Requirements | 1069 |
 | 69 | [[Stoicism Series Overview]] | — | — | Cross-Report Consistency Requirements | 1079 |
 | 70 | [[Report N-1 Title]] | — | — | Cross-Report Consistency Requirements | 1081 |
@@ -1119,7 +1119,7 @@ subdomains:
 - [[Concept-Name]]
 - [[Cynicism]]
 - [[Dichotomy-of-Control]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation]]
 - [[Emotional Resilience]]
 - [[Epictetus]]
 - [[Epicureanism]]
@@ -1134,10 +1134,10 @@ subdomains:
 - [[Next Report Title]]
 - [[Next relevant report]]
 - [[PKB Architect]]
-- [[PKB Architecture]]
+- [[PKB-Architecture]]
 - [[Philosophy MOC]]
 - [[Plato]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Previous Report Title]]
 - [[Previous relevant report]]
 - [[Prohairesis]]

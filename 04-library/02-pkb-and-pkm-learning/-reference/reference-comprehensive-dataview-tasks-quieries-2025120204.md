@@ -197,7 +197,7 @@ Aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]
 - [[GTD-Workflow]]
 - [[Dashboard-Design]]
-- [[Query Performance]]
+- [[Query-Performance]]
 
 **Callout Strategy:**
 - [!abstract] - Overview/executive summary
@@ -457,7 +457,7 @@ LIMIT <number>
 > **Pattern variation for multiple projects:**
 > ```dataview
 > TASK
-> WHERE (contains(text, "[[Project Alpha]]") 
+> WHERE (contains(text, "[[Project-Alpha]]") 
 >    OR contains(text, "[[Project Beta]]"))
 >   AND !completed
 > GROUP BY regexreplace(text, ".*\[\[([^\]]+)\]\].*", "$1") as "Project"
@@ -714,7 +714,7 @@ dv.taskList(tasks);
 > 
 > **What it does:** Generates a statistical summary of vault-wide task status
 > 
-> **Use case:** [[Dashboard-Design]] / productivity analytics / [[Query Performance]] monitoring
+> **Use case:** [[Dashboard-Design]] / productivity analytics / [[Query-Performance]] monitoring
 
 ### Pattern 4: Dynamic Time-Blocked Schedule
 
@@ -991,7 +991,7 @@ dv.taskList(tasks);
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name]]")
 >   AND !scheduled
 >   AND !completed
 > SORT file.ctime DESC
@@ -1001,7 +1001,7 @@ dv.taskList(tasks);
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name]]")
 >   AND scheduled <= date(today)
 >   AND !completed
 > SORT priority DESC, due ASC
@@ -1011,7 +1011,7 @@ dv.taskList(tasks);
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name]]")
 >   AND contains(text, "[[Blocked]]")
 >   AND !completed
 > ```
@@ -1020,7 +1020,7 @@ dv.taskList(tasks);
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name]]")
 >   AND completion >= date(today) - dur(7 days)
 > SORT completion DESC
 > ```
@@ -1033,12 +1033,12 @@ dv.taskList(tasks);
 1. **[[Dataview Query Optimization Techniques]]**
    - *Connection*: Performance tuning builds on the query patterns documented here
    - *Depth Potential*: Deep dive into caching strategies, index optimization, and query plan analysis for large vaults (1000+ notes)
-   - *Knowledge Graph Role*: Technical optimization connecting to [[Query Performance]], [[Obsidian Architecture]], and [[JavaScript Performance]]
+   - *Knowledge Graph Role*: Technical optimization connecting to [[Query-Performance]], [[Obsidian Architecture]], and [[JavaScript Performance]]
 
 2. **[[Tasks Plugin Advanced Workflows]]**
    - *Connection*: This guide covers Dataview integration; separate guide needed for pure Tasks plugin capabilities
    - *Depth Potential*: Comprehensive coverage of recurrence rules, custom statuses, natural language parsing, and Tasks-specific filtering syntax
-   - *Knowledge Graph Role*: Complementary system documentation linking [[Task-Management]], [[GTD-Workflow]], [[Productivity Systems]]
+   - *Knowledge Graph Role*: Complementary system documentation linking [[Task-Management]], [[GTD-Workflow]], [[Productivity-Systems]]
 
 3. **[[DataviewJS Custom Functions Library]]**
    - *Connection*: Advanced task manipulation patterns require reusable JavaScript functions

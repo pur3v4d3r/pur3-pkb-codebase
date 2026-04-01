@@ -1556,7 +1556,7 @@ For consistency across all reports, the following callout types constitute the a
 ### Formatting Rules
 
 1. **Obsidian callout syntax**: `> [!callout-type] **Title**` — no deviation
-2. **Wiki-link format**: `[[Note Name]]` or `[[Note Name|Display Text]]` — consult permanent notes list
+2. **Wiki-link format**: `[[Note-Name]]` or `[[Note-Name|Display Text]]` — consult permanent notes list
 3. **YAML frontmatter**: Complete, all fields filled, no placeholders
 4. **Code fences**: Language-specified (` ```python `, ` ```markdown `, ` ``` ` for ASCII art)
 5. **Headers**: H1 for report title only; H2 for phases; H3 for subsections; H4 for appendix entries

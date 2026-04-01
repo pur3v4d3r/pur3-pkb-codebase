@@ -24,21 +24,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 44
+referenced-by-count: 46
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Aporia]]"
   - "[[Belonging-Uncertainty]]"
   - "[[CLT-as-a-Dynamic-Load-Optimization-Problem]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Cognitive-Load-Theory]]"
   - "[[Confirmation-Bias]]"
   - "[[Corroboration]]"
+  - "[[Cortico-Striatal-Learning-Loops]]"
   - "[[Defeasibility]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -60,13 +60,12 @@ importance: high
 # cognitive-psychology
 
 > [!definition] **cognitive-psychology**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 46 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+*Auto-generated stub — referenced by 46 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Aporia]]
 - [[Belonging-Uncertainty]]
 - [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
@@ -75,6 +74,7 @@ importance: high
 - [[Cognitive-Load-Theory]]
 - [[Confirmation-Bias]]
 - [[Corroboration]]
+- [[Cortico-Striatal-Learning-Loops]]
 - [[Defeasibility]]
 - [[Defeat-Defeater]]
 - [[Element-Interactivity]]
@@ -86,4 +86,4 @@ importance: high
 - [[Extraneous-Cognitive-Load]]
 - [[Fallibilism]]
 - [[Functional-Integration]]
-- *...and 24 more permanent notes*
+- *...and 26 more permanent notes*

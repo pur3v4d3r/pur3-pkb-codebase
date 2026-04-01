@@ -532,7 +532,7 @@ extraction_summary:
 - [[Dikaiosyne (Justice)]]
 - [[Andreia (Courage)]]
 - [[Sophrosyne (Temperance)]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[The Stoic Sage]]
 
 #### See Also

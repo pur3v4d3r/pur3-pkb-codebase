@@ -236,7 +236,7 @@ extraction_summary:
 > 
 > **The Situation**: Pigliucci describes deliberately practicing minor voluntary discomforts — eating simple food when he could afford better, foregoing comfortable transport, occasionally fasting for a day — not as punishments or performances of virtue, but as calibration exercises. The question the practice is designed to answer is: *What do I actually need for my wellbeing, and what do I merely prefer?*
 > 
-> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred Indifferents]] framework.
+> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred-Indifferents]] framework.
 > 
 > **The Lesson**: The practice is a form of what Seneca called *meditatio paupertas* — "meditation on poverty" — which he recommended as a periodic exercise: "Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" The answer, almost invariably, is no. And that no is one of the most liberating discoveries available to a Stoic practitioner.
 
@@ -287,7 +287,7 @@ extraction_summary:
 > 
 > **Stoic Grounding**: Marcus Aurelius, *Meditations* (passim — impermanence is one of the most consistent themes); Seneca, *On the Shortness of Life*; Epictetus, *Discourses* Book I.
 > 
-> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred Indifferents]] real rather than merely theoretical.
+> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred-Indifferents]] real rather than merely theoretical.
 > 
 > **Signs of Progress**: Increased warmth and appreciation toward people in ordinary moments; reduced intensity of craving for future goods; a growing capacity to find what Marcus called *euarestos* — contentment with what is present.
 
@@ -347,7 +347,7 @@ extraction_summary:
 > [!practice] Untitled
 > **Practice 7: Stoic Journaling**
 > 
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control]] help me today? Where did I fail to apply it? What [[Preferred-Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 > 
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 > 
@@ -373,7 +373,7 @@ extraction_summary:
 > **Obstacle 2: The Stoicism-as-Emotional-Suppression Misreading**
 > One of the most common misapplications of Stoic practice is using it as a philosophical permission structure for emotional suppression — refusing to feel or acknowledge pain, loss, or grief on the grounds that these are "externals." This is a profound misunderstanding that the Stoics themselves explicitly addressed. The Stoic goal is *apatheia* — freedom from irrational, distorting passions (*pathē*) — not the absence of all emotional response.
 > 
-> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
+> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred-Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
 
 #### 24. [WARNING] Untitled *(Line 573)*
 
@@ -499,8 +499,8 @@ extraction_summary:
 - [[Negative Visualization — Hedonic Adaptation Research]]
 - [[Pierre-Hadot]]
 - [[Pierre Hadot and the Recovery of Spiritual Exercises]]
-- [[Preferred Indifferent]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferent]]
+- [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Prosoche — Stoic Self-Attention]]
@@ -539,24 +539,24 @@ extraction_summary:
 | 20 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 302 |
 | 21 | [[Pierre-Hadot]] | — | — | Part 2: What the Stoics Said — The Ph... | 307 |
 | 22 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 309 |
-| 23 | [[Preferred Indifferents]] | — | — | Framework Principle 1: Training the D... | 321 |
+| 23 | [[Preferred-Indifferents]] | — | — | Framework Principle 1: Training the D... | 321 |
 | 24 | [[James Gross]] | — | — | The Neuroscience of Cognitive Reappra... | 360 |
 | 25 | [[James Pennebaker]] | — | — | The Cognitive Science of Journaling | 378 |
 | 26 | [[Cognitive-Behavioral-Therapy]] | — | — | The Cognitive Science of Journaling | 383 |
 | 27 | [[Aaron Beck]] | — | — | The Cognitive Science of Journaling | 383 |
 | 28 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 383 |
-| 29 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 389 |
+| 29 | [[Preferred-Indifferents]] | — | — | The Research on Voluntary Discomfort | 389 |
 | 30 | [[Self-Efficacy]] | — | — | The Research on Voluntary Discomfort | 389 |
 | 31 | [[Premeditatio-Malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 399 |
 | 32 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 33 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
-| 34 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 440 |
+| 34 | [[Preferred-Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 440 |
 | 35 | [[Prosoche]] | — | — | Part 6: The Practice Architecture — A... | 476 |
-| 36 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 491 |
+| 36 | [[Preferred-Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 491 |
 | 37 | [[Dichotomy-of-Control]] | — | — | Part 6: The Practice Architecture — A... | 543 |
-| 38 | [[Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 543 |
+| 38 | [[Preferred-Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 543 |
 | 39 | [[Pierre-Hadot]] | — | — | Part 6: The Practice Architecture — A... | 549 |
-| 40 | [[Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 571 |
+| 40 | [[Preferred-Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 571 |
 | 41 | [[Dichotomy-of-Control]] | — | — | Part 7: Common Obstacles and How the ... | 581 |
 | 42 | [[Prohairesis]] | — | — | Conclusion: Philosophy Becomes Posture | 621 |
 | 43 | [[Prosoche — Stoic Self-Attention]] | — | — | Expansion Topics for PKB | 689 |
@@ -623,8 +623,8 @@ extraction_summary:
 - [[Negative Visualization — Hedonic Adaptation Research]]
 - [[Pierre-Hadot]]
 - [[Pierre Hadot and the Recovery of Spiritual Exercises]]
-- [[Preferred Indifferent]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferent]]
+- [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Prosoche — Stoic Self-Attention]]

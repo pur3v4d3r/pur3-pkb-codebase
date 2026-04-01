@@ -132,7 +132,7 @@ related:
   - "[[Narrative Self-Model]]"
   - "[[Sources of the Self]]"
   - "[[Stoic Acceptance]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati|Amor Fati]]"
 
 broader:
   - "[[Philosophy of the Examined Life]]"
@@ -250,7 +250,7 @@ Ricoeur also distinguishes between two aspects of identity that narrative integr
 
 Frankl's account of how meaning is found is three-dimensional. Meaning can be found through *creative values* — through what one creates or contributes to the world; through *experiential values* — through what one encounters, experiences, or loves; and through *attitudinal values* — through the stance one takes toward unavoidable suffering. The last category is the most philosophically radical: Frankl claims that even when all other sources of meaning are stripped away — when one cannot create, when one can barely experience — one retains the freedom to choose one's *attitude* toward one's circumstances, and this attitudinal freedom is itself a source of meaning. "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances, to choose one's own way."
 
-This attitudinal dimension of meaning connects directly to the [[Stoic]] tradition's concept of [[Amor Fati]] — the love of fate — and to [[Epictetus]]'s foundational distinction between what is "up to us" (our judgments, impulses, desires, and aversions — the *prohairetic* sphere) and what is "not up to us" (external circumstances, other people's actions, the body's condition). The Stoics argued that the wise person maintains equanimity not by achieving control over external circumstances but by redirecting their attention and energy entirely toward the inner life — the domain of assent, of evaluation, of how one interprets and responds to what happens. This Stoic attitudinal orientation is, in Frankl's terms, a source of profound meaning: the meaning found not in what happens but in what one *does with* what happens.
+This attitudinal dimension of meaning connects directly to the [[Stoic]] tradition's concept of [[Amor-Fati|Amor Fati]] — the love of fate — and to [[Epictetus]]'s foundational distinction between what is "up to us" (our judgments, impulses, desires, and aversions — the *prohairetic* sphere) and what is "not up to us" (external circumstances, other people's actions, the body's condition). The Stoics argued that the wise person maintains equanimity not by achieving control over external circumstances but by redirecting their attention and energy entirely toward the inner life — the domain of assent, of evaluation, of how one interprets and responds to what happens. This Stoic attitudinal orientation is, in Frankl's terms, a source of profound meaning: the meaning found not in what happens but in what one *does with* what happens.
 
 ### Meaning in Life Research: The Empirical Cartography
 
@@ -484,7 +484,7 @@ Finally, the claim that the examined life is constitutively valuable — that it
 > **[[Ipseity]]** — Ricoeur's concept (from Latin *ipse*, self): the form of identity constituted by one's commitments, narrative continuity, and promises — who one has pledged to be, regardless of changes in biological or psychological characteristics over time. Distinguished from *idem* (sameness): the numerical and qualitative persistence of the same entity over time. Narrative identity is primarily a form of ipseity.
 
 > [!definition]
-> **[[Amor Fati]]** — Nietzsche's phrase (love of fate), central also to Stoic philosophy: the attitudinal disposition to embrace one's existence, including its difficulties and suffering, as constitutive of who one is rather than as obstacles to who one might have been. Amor fati is not passive resignation but active affirmation — saying yes to one's actual life, including its adversities, as the raw material of one's narrative identity.
+> **[[Amor-Fati|Amor Fati]]** — Nietzsche's phrase (love of fate), central also to Stoic philosophy: the attitudinal disposition to embrace one's existence, including its difficulties and suffering, as constitutive of who one is rather than as obstacles to who one might have been. Amor fati is not passive resignation but active affirmation — saying yes to one's actual life, including its adversities, as the raw material of one's narrative identity.
 
 ---
 

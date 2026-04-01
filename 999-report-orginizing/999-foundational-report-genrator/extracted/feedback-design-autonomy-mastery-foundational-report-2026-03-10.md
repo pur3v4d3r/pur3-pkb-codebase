@@ -275,7 +275,7 @@ The third distinction is between feedback that targets the *learner as a person*
 
 ### The Hattie–Timperley Four-Level Model
 
-[[John-Hattie|John Hattie]] and [[Helen Timperley]]'s 2007 synthesis, published in *Review of Educational Research*, represents the most influential contemporary theoretical architecture for understanding feedback. Drawing on Hattie's earlier meta-analyses of educational interventions — eventually consolidated in *Visible Learning* (2009) — Timperley and Hattie analysed not just whether feedback works but *what kinds* of feedback work, and why.
+[[John-Hattie|John Hattie]] and [[Helen-Timperley|Helen Timperley]]'s 2007 synthesis, published in *Review of Educational Research*, represents the most influential contemporary theoretical architecture for understanding feedback. Drawing on Hattie's earlier meta-analyses of educational interventions — eventually consolidated in *Visible Learning* (2009) — Timperley and Hattie analysed not just whether feedback works but *what kinds* of feedback work, and why.
 
 Their central contribution is a taxonomy of four distinct levels at which feedback can operate:
 
@@ -302,7 +302,7 @@ Feedback intersects with SDT at two nodes. First, feedback is a primary mechanis
 > [!key-claim] The Informational vs. Controlling Distinction
 > Feedback that is experienced as *informational* — providing relevant performance data without implying evaluative pressure — tends to support intrinsic motivation. Feedback experienced as *controlling* — implying that the learner must perform in a particular way to receive approval, avoid punishment, or maintain a self-image — tends to undermine intrinsic motivation. This distinction is partially about content but substantially about *tone, framing, and relational context*.
 
-[[Avi-Assor|Avi Assor]], [[Guy Roth]], and their colleagues have further elaborated the concept of *autonomy-supportive* versus *controlling* teaching, distinguishing behaviours that acknowledge learner perspective and foster self-initiation from those that impose demands and suppress voice. Their research confirms that students whose teachers are perceived as autonomy-supportive report higher intrinsic motivation, more conceptual learning, and greater psychological wellbeing — effects that hold across cultures and age groups.
+[[Avi-Assor|Avi Assor]], [[Guy-Roth|Guy Roth]], and their colleagues have further elaborated the concept of *autonomy-supportive* versus *controlling* teaching, distinguishing behaviours that acknowledge learner perspective and foster self-initiation from those that impose demands and suppress voice. Their research confirms that students whose teachers are perceived as autonomy-supportive report higher intrinsic motivation, more conceptual learning, and greater psychological wellbeing — effects that hold across cultures and age groups.
 
 ### Growth Mindset Theory: Attribution and Identity
 
@@ -330,7 +330,7 @@ The connection to feedback design is direct and empirically robust: the same fee
 
 ### The Formative Assessment Tradition: Closing the Gap
 
-[[Black-&-Wiliam|Black & Wiliam]]'s 1998 review — often cited as a landmark — synthesised evidence indicating that improving formative assessment practice could produce learning gains of 0.4 to 0.7 standard deviations, an effect size large enough to raise low-achieving students to the level of average-achieving students when applied systematically. Their framework, subsequently elaborated as the [[Assessment for Learning]] movement, centres on a simple but powerful model: learning occurs when there is a gap between where the learner is and where they need to be, and feedback is the mechanism through which that gap becomes visible and closeable to the learner.
+[[Black-&-Wiliam|Black & Wiliam]]'s 1998 review — often cited as a landmark — synthesised evidence indicating that improving formative assessment practice could produce learning gains of 0.4 to 0.7 standard deviations, an effect size large enough to raise low-achieving students to the level of average-achieving students when applied systematically. Their framework, subsequently elaborated as the [[Assessment-for-Learning|Assessment for Learning]] movement, centres on a simple but powerful model: learning occurs when there is a gap between where the learner is and where they need to be, and feedback is the mechanism through which that gap becomes visible and closeable to the learner.
 
 > [!key-claim] The Gap Model of Formative Assessment
 > Black & Wiliam's core claim: effective formative feedback must accomplish three things simultaneously. It must make the *goal* clear enough to the learner that they can locate themselves relative to it. It must convey *current status* with sufficient precision that the learner understands what specifically they need to develop. And it must suggest or scaffold a *route to close the gap* — a specific next action or set of actions. Feedback that is accurate about current status but provides no pathway forward may be honest but is not formative.
@@ -394,7 +394,7 @@ Consider the difference between these responses to a student's failure: "This cl
 
 ### Feedback Timing, Dosage, and Mode
 
-The *when* and *how much* of feedback are as consequential as the *what*. A substantial body of research on [[Feedback Timing]] establishes that the optimal timing depends on learning goals. Immediate feedback is most effective for *procedural* and *factual* learning — the learner needs to know quickly whether they are building the right automatised response. Delayed feedback is often more effective for *conceptual* and *strategic* learning — it allows learners to engage first in their own error-detection and hypothesis-revision processes before receiving external information.
+The *when* and *how much* of feedback are as consequential as the *what*. A substantial body of research on [[Feedback-Timing|Feedback Timing]] establishes that the optimal timing depends on learning goals. Immediate feedback is most effective for *procedural* and *factual* learning — the learner needs to know quickly whether they are building the right automatised response. Delayed feedback is often more effective for *conceptual* and *strategic* learning — it allows learners to engage first in their own error-detection and hypothesis-revision processes before receiving external information.
 
 > [!key-claim] The Spacing and Dosage Problem
 > Too much feedback can paradoxically impair learning by substituting external regulation for internal processing. When learners receive dense, comprehensive feedback on every dimension of their performance, they have reduced incentive and reduced opportunity to develop their own self-monitoring. Selective, strategically sparse feedback — targeting the highest-leverage dimension for development — tends to produce better long-term outcomes than exhaustive annotation. This is sometimes called the *feedback dosage problem*.

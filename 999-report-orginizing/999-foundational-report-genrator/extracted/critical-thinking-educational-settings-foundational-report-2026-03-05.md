@@ -170,16 +170,16 @@ expansion-topics:
   - topic: "[[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]"
     description: "Detailed treatment of structured Socratic dialogue as a classroom practice, including facilitation techniques, student preparation protocols, and assessment rubrics."
     priority: "high"
-  - topic: "[[Assessment of Critical Thinking — Tools and Methods]]"
+  - topic: "[[Assessment-of-Critical-Thinking-—-Tools-and-Methods|Assessment of Critical Thinking — Tools and Methods]]"
     description: "Systematic coverage of validated instruments for measuring CT, including the Watson-Glaser Critical Thinking Appraisal, the California Critical Thinking Skills Test, and portfolio-based approaches."
     priority: "high"
   - topic: "[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]"
     description: "Deep dive into how metacognitive awareness enables and sustains critical thinking, including strategies for building metacognitive habits in learners."
     priority: "high"
-  - topic: "[[Argument Mapping — Theory and Practice]]"
+  - topic: "[[Argument-Mapping-—-Theory-and-Practice|Argument Mapping — Theory and Practice]]"
     description: "Visual representation of argument structure as a tool for teaching and assessing analytical reasoning, with attention to software tools and classroom protocols."
     priority: "medium"
-  - topic: "[[Critical Thinking Across the Curriculum — Subject-Specific Integration]]"
+  - topic: "[[Critical-Thinking-Across-the-Curriculum-—-Subject-Specific-Integration|Critical Thinking Across the Curriculum — Subject-Specific Integration]]"
     description: "Frameworks and case studies for integrating critical thinking into science, mathematics, history, literature, and other disciplinary contexts."
     priority: "high"
   - topic: "[[Philosophy for Children (P4C) — Lipman's Programme]]"
@@ -574,16 +574,16 @@ And it enables intellectual humility about the limits of current knowledge — r
 > > [!topic-idea] [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]]
 > > This expansion report would provide a comprehensive treatment of Socratic seminars as a CT pedagogical practice — covering the design of opening texts, the structure of pre-seminar student preparation, facilitator moves during discussion, and assessment approaches. It would address the most common implementation failures (teacher dominance, avoidance of genuine disagreement, confusion between discussion and dialogue) and provide evidence-based protocols for productive seminar design at different educational levels. Priority: High — the Socratic method is the oldest and most theoretically grounded CT pedagogy, deserving dedicated treatment.
 >
-> > [!topic-idea] [[Assessment of Critical Thinking — Tools and Methods]]
+> > [!topic-idea] [[Assessment-of-Critical-Thinking-—-Tools-and-Methods|Assessment of Critical Thinking — Tools and Methods]]
 > > This expansion would systematically review the validated instruments for CT measurement — the Watson-Glaser Critical Thinking Appraisal, the California Critical Thinking Skills Test, the Collegiate Learning Assessment (CLA), and performance-based assessments — evaluating their psychometric properties, practical constraints, and alignment with different CT frameworks. It would also address the design of classroom-level CT rubrics and the use of portfolio assessment for capturing CT development over time. Priority: High — the assessment challenge is the single most significant practical obstacle to systematic CT development in schools.
 >
 > > [!topic-idea] [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 > > This report would provide a foundational treatment of metacognition as a construct, tracing its theoretical development from Flavell through Brown, Zimmerman, and Pintrich. It would examine the relationship between metacognitive monitoring, self-regulated learning strategies, and academic performance, with specific attention to how metacognitive habits can be explicitly taught. Priority: High — metacognition is identified in this report as the executive capacity underlying sustained CT, warranting dedicated foundational treatment.
 >
-> > [!topic-idea] [[Argument Mapping — Theory and Practice]]
+> > [!topic-idea] [[Argument-Mapping-—-Theory-and-Practice|Argument Mapping — Theory and Practice]]
 > > This expansion would treat argument mapping as both a theoretical tool for understanding argument structure and a practical pedagogical intervention. It would cover the major software tools (Rationale, Argument Web, iLogos), the empirical evidence for argument mapping's CT benefits, and the design of argument mapping exercises at different levels of complexity. Priority: Medium — strong empirical evidence for CT development, but requires specific technical implementation knowledge.
 >
-> > [!topic-idea] [[Critical Thinking Across the Curriculum — Subject-Specific Integration]]
+> > [!topic-idea] [[Critical-Thinking-Across-the-Curriculum-—-Subject-Specific-Integration|Critical Thinking Across the Curriculum — Subject-Specific Integration]]
 > > This report would examine how CT is instantiated within specific disciplinary contexts — historical thinking (sourcing, corroboration, contextualisation), scientific reasoning (hypothesis testing, experimental design, statistical evaluation), mathematical proof and problem-solving, and literary analysis. It would address the generality-specificity debate empirically by examining where disciplinary CT forms share common structures and where they genuinely diverge. Priority: High — directly addresses the most important theoretical debate in the field and has immediate practical implications for curriculum design.
 >
 > > [!topic-idea] [[Philosophy for Children (P4C) — Lipman's Programme]]

@@ -921,7 +921,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
@@ -1696,7 +1696,7 @@ Follow the full output scaffold below.
 > - [[Cognitive-Load-Theory]] → informs clarity and structure of prompts  
 > - [[Systems Thinking]] → models LLMs as components in knowledge workflows  
 > - [[First Principles]] → enables deconstruction of prompt failures  
-> - [[Spaced Practice]] → suggests iterative refinement cycles  
+> - [[spaced-practice]] → suggests iterative refinement cycles  
 > - [[Mental-Models]] → frames prompting as model-based reasoning  
 >  
 > Format: **[[Concept-Name]]** followed by explanation of the relationship.  

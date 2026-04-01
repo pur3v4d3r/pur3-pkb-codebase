@@ -24,21 +24,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 20
+referenced-by-count: 19
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Assumptions]]"
   - "[[Calibration]]"
   - "[[Concepts]]"
@@ -48,25 +47,25 @@ see-also:
   - "[[Defeat-Defeater]]"
   - "[[Epistemic-Calibration]]"
   - "[[Epistemic-Holism]]"
+  - "[[Epistemic-Humility]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # Paul-Elder-Framework
 
 > [!definition] **Paul-Elder-Framework**
-> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 20 permanent notes.*
+*Auto-generated stub — referenced by 19 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Assumptions]]
 - [[Calibration]]
 - [[Concepts]]

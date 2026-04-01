@@ -388,7 +388,7 @@ The motivational architecture described here directly enables three subsequent r
 **Section**: Document Start
 **Title**: 🔗 Grounding in the Series
 
-This report presupposes the inquiry activation mechanism described in [[Report-01]] and the fallibilist epistemological posture established in [[Report 02]]. The activated, fallibilist inquirer now needs to know *how* to build understanding once inquiry is engaged. Report 04 answers that question. I...
+This report presupposes the inquiry activation mechanism described in [[Report-01]] and the fallibilist epistemological posture established in [[Report-02]]. The activated, fallibilist inquirer now needs to know *how* to build understanding once inquiry is engaged. Report 04 answers that question. I...
 
 ---
 

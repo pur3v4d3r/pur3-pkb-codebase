@@ -646,7 +646,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>

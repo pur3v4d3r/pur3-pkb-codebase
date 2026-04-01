@@ -568,7 +568,7 @@ extraction_summary:
 - [[Object of PKM Activity]]
 - [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Personal Learning Environments]]
+- [[Personal-Learning-Environments]]
 - [[Personal Learning Environments and PKB Alignment]]
 - [[Physical Space Design and Knowledge Work Environments]]
 - [[Question-Embedded Notes]]
@@ -591,7 +591,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Reuven Feuerstein]]
-- [[Richard Anderson]]
+- [[Richard-Anderson]]
 - [[Schema-Construction|Schema Construction]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -641,13 +641,13 @@ extraction_summary:
 | 32 | [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]] | — | — | The Environmental Effects Literature:... | 246 |
 | 33 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | The Environmental Effects Literature:... | 246 |
 | 34 | [[Report 22: Tacit Knowledge and the Limits of Capture]] | — | — | The Environmental Effects Literature:... | 246 |
-| 35 | [[Personal Learning Environments]] | — | — | Evidence on Digital Learning Environm... | 250 |
+| 35 | [[Personal-Learning-Environments]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 37 | [[Universal Design for Learning]] | — | — | Evidence on Digital Learning Environm... | 255 |
 | 38 | [[Schema-Construction|Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 39 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 40 | [[Frederic-Bartlett]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
-| 41 | [[Richard Anderson]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 41 | [[Richard-Anderson]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 42 | [[John-Sweller]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 43 | [[Inquiry Notes]] | — | — | Mechanism 1: Problem Centrality and t... | 282 |
 | 44 | [[More-Knowledgeable-Other|More Knowledgeable Other]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 286 |
@@ -748,7 +748,7 @@ extraction_summary:
 - [[Object of PKM Activity]]
 - [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Personal Learning Environments]]
+- [[Personal-Learning-Environments]]
 - [[Personal Learning Environments and PKB Alignment]]
 - [[Physical Space Design and Knowledge Work Environments]]
 - [[Question-Embedded Notes]]
@@ -771,7 +771,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Reuven Feuerstein]]
-- [[Richard Anderson]]
+- [[Richard-Anderson]]
 - [[Schema-Construction|Schema Construction]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

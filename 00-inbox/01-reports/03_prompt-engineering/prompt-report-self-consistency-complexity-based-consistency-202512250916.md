@@ -116,7 +116,7 @@ type: reference
 related: [[Chain-of-Thought-Prompting]], [[Ensemble-Methods]], [[Reasoning Verification]], [[Majority Voting]], [[Cognitive Diversity]]
 prerequisites:
   hard: [[Chain-of-Thought-Prompting]], [[Temperature Sampling]]
-  soft: [[Ensemble Learning]], [[Bayesian Reasoning]]
+  soft: [[Ensemble-Learning]], [[Bayesian-Reasoning]]
 enables:
   direct: [[Complex Reasoning Tasks]], [[Math Word Problems]], [[Commonsense-Reasoning]], [[Multi-Step Inference]]
   related: [[Prompt Reliability Engineering]], [[LLM Calibration]], [[Error Detection]]
@@ -146,7 +146,7 @@ The classical [[Wisdom of Crowds]] operates on external diversity—aggregating 
 >
 > This assumption holds remarkably well in practice for [[Chain-of-Thought]] reasoning, where the model's vast parameter space and high-dimensional reasoning trajectories create genuine diversity. When the model samples with temperature $T \approx 0.7-1.0$, it explores distinct reasoning strategies: one chain might decompose a math problem arithmetically, another algebraically, a third through geometric intuition. Errors in these diverse approaches tend to be path-specific rather than universal, allowing correct reasoning to dominate the vote when present in multiple independent samples.
 
-The connection to [[Bayesian Reasoning]] provides additional theoretical grounding. From a Bayesian perspective, each sampled reasoning chain represents a hypothesis about the correct solution path, with the model's generation probability serving as an implicit prior. [[Majority Voting]] approximates a form of maximum likelihood estimation over these hypotheses, selecting the answer that maximizes posterior probability given multiple independent observations. The complexity-weighted variant refines this by incorporating reasoning chain length as an informative prior—longer chains signal higher model confidence in complex domains where detailed reasoning correlates with correctness.
+The connection to [[Bayesian-Reasoning]] provides additional theoretical grounding. From a Bayesian perspective, each sampled reasoning chain represents a hypothesis about the correct solution path, with the model's generation probability serving as an implicit prior. [[Majority Voting]] approximates a form of maximum likelihood estimation over these hypotheses, selecting the answer that maximizes posterior probability given multiple independent observations. The complexity-weighted variant refines this by incorporating reasoning chain length as an informative prior—longer chains signal higher model confidence in complex domains where detailed reasoning correlates with correctness.
 
 > [!analogy] Internal Jury Deliberation
 > Consider [[Self-Consistency]] as convening an internal jury where each juror (reasoning chain) independently examines the evidence (problem context) and arrives at a verdict (answer). Unlike human juries where deliberation allows influence and groupthink, these AI "jurors" reason in complete isolation—their diversity arises from different cognitive starting points (sampling randomness) rather than different knowledge bases. The final verdict emerges not from persuasion but from statistical consensus: which conclusion do multiple independent reasoning processes converge upon? This parallels the legal principle that unanimous agreement across diverse perspectives provides stronger confidence than a single expert opinion, however distinguished.

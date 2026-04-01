@@ -19,7 +19,7 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Decision Journal]]"
-  - "[[Pre-Mortem Analysis]]"
+  - "[[Pre-Mortem-Analysis]]"
   - "[[Cognitive-Biases]]"
   - "[[Calibration Theory]]"
   - "[[Confirmation-Bias]]"

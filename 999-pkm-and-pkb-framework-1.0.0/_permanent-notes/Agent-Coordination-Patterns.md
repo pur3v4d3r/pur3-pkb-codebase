@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,8 +38,8 @@ referenced-by-count: 3
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[#-Definition]]"
-  - "[[.permanent-notes-index]]"
   - "[[Self-Agent-Coordinator]]"
+  - "[[_permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,5 +59,5 @@ importance: low
 ## Referenced By
 
 - [[#-Definition]]
-- [[.permanent-notes-index]]
 - [[Self-Agent-Coordinator]]
+- [[_permanent-notes-index|_permanent-notes-index]]

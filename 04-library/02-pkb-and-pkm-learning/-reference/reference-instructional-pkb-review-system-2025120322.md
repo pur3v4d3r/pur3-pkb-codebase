@@ -374,7 +374,7 @@ This system filters knowledge through [[Stoic-Philosophy]] to distinguish betwee
 | **[[Premeditatio-Malorum]]** | During review, ask: "Where might this knowledge fail me? What am I missing?" |
 | **[[View from Above]]** | Periodically zoom out to assess how individual notes connect to your broader knowledge architecture |
 | **[[Memento Mori]]** | Prioritize reviewing knowledge that genuinely matters for your goals—not everything deserves equal attention |
-| **[[Amor Fati]]** | Embrace confusion and gaps discovered during review as *opportunities* for growth |
+| **[[Amor-Fati]]** | Embrace confusion and gaps discovered during review as *opportunities* for growth |
 
 > [!thought-experiment] The Stoic Review Stance
 > Imagine you're advising a future version of yourself who has forgotten this knowledge. What would that future self *need* to understand? What context would be missing? This perspective transforms review from maintenance into mentorship.
@@ -602,7 +602,7 @@ flowchart TD
 
 > [!helpful-tip] Preventing Review Fatigue
 >
-> - **Batch by Type**: Group similar notes (all prompt engineering, all cognitive science) to reduce [[Context Switching]]
+> - **Batch by Type**: Group similar notes (all prompt engineering, all cognitive science) to reduce [[Context-Switching]]
 > - **Time-Box Strictly**: 15 minutes for quick review means 15 minutes—respect the boundary
 > - **Interleave Difficulty**: Alternate between challenging and easier notes
 > - **Honor Energy Levels**: Deep reviews when fresh; quick reviews acceptable when tired
@@ -1521,7 +1521,7 @@ _%>
 2. **[[Spaced Repetition Algorithms]]**
    - *Connection*: Review intervals could be dynamically calculated using SM-2 or similar
    - *Depth Potential*: Implement algorithmic interval adjustment based on review success
-   - *Knowledge Graph Role*: Links to [[cognitive-science-moc]], [[Learning-Theory-MOC]]
+   - *Knowledge Graph Role*: Links to [[cognitive-science-moc]], [[learning-theory-moc]]
 
 3. **[[Review Friction Reduction]]**
    - *Connection*: Templates should minimize friction to encourage consistent practice

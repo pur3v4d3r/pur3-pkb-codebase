@@ -857,8 +857,8 @@ session-id: "{{date}}-{{time:HHmm}}-reflection"
 ## 🔗 PKB INTEGRATION
 
 ### New Permanent Notes Created or Updated
-- [ ] [[note-name]] — created / updated: key addition was
-- [ ] [[note-name]] — created / updated: key addition was
+- [ ] [[Note-Name]] — created / updated: key addition was
+- [ ] [[Note-Name]] — created / updated: key addition was
 
 ### New Connections Established
 - [[source-note]] → [[target-note]]: connection is

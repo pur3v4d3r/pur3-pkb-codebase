@@ -129,7 +129,7 @@ narrower:
   - "[[Dikaiosyne (Justice)]]"
   - "[[Andreia (Courage)]]"
   - "[[Sophrosyne (Temperance)]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[The Stoic Sage]]"
 
 see-also:
@@ -180,7 +180,7 @@ link-down:
   - "[[Dikaiosyne (Justice)]]"
   - "[[Andreia (Courage)]]"
   - "[[Sophrosyne (Temperance)]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[The Stoic Sage]]"
   - "[[Prohairesis]]"
 link-related:

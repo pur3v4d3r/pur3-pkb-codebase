@@ -134,7 +134,7 @@ The [[zettelkasten method]] has perhaps the richest history of naming convention
 
 ### 📦 PARA Method Naming
 
-Tiago Forte's [[para method]] organizes all information into four top-level categories: **Projects**, **Areas**, **Resources**, and **Archives**. While PARA is more about *folder structure* than *filenames*, it does imply certain naming conventions.
+Tiago Forte's [[PARA-Method]] organizes all information into four top-level categories: **Projects**, **Areas**, **Resources**, and **Archives**. While PARA is more about *folder structure* than *filenames*, it does imply certain naming conventions.
 
 **Typical PARA Naming Patterns:**
 
@@ -757,7 +757,7 @@ for root, dirs, files in os.walk(vault_path):
 
 > [!connections-and-links]
 > **Related Methodologies & Frameworks**
-> - `[[PARA Method]]` — Tiago Forte's project-oriented organization system
+> - `[[PARA-Method]]` — Tiago Forte's project-oriented organization system
 > - `[[Linking Your Thinking (LYT)]]` — Nick Milo's framework emphasizing MOCs
 > - `[[Johnny Decimal System]]` — A decimal-based hierarchical organization method
 > - `[[BASB (Building a Second Brain)]]` — The broader philosophy behind PARA
@@ -782,7 +782,7 @@ for root, dirs, files in os.walk(vault_path):
 * `[[Personal-Knowledge-Management]]`
 * `[[Zettelkasten Method]]`
 * `[[Information-Architecture]]`
-* `[[PARA Method]]`
+* `[[PARA-Method]]`
 * `[[Linking Your Thinking]]`
 * `[[Obsidian Workflow Optimization]]`
 * `[[Metadata and Frontmatter Strategies]]`

@@ -103,7 +103,7 @@ summary: "{{one-sentence-summary}}"
 
 ---
 **Related Notes**: [[Concept A]] | [[Concept B]] | [[Concept C]]  
-**Project Context**: [[Project Name]]  
+**Project Context**: [[Project-Name]]  
 **Review Status**: Next review {{date}}
 ```
 

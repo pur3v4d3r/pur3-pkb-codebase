@@ -54,7 +54,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 #### 2.1 Memory Optimization
 - **[[Spacing-Effect]]** — Distributed practice outperforms massed practice (Cepeda et al.) [Reports 06, 16, 20]
-- **[[Interleaving]]** — Mixing topics within practice sessions; improves retention and transfer (Bjork) [Reports 06, 16]
+- **[[interleaving]]** — Mixing topics within practice sessions; improves retention and transfer (Bjork) [Reports 06, 16]
 - **[[Desirable-Difficulties]]** — Conditions that impair short-term performance while enhancing long-term retention (Bjork & Bjork) [Reports 06, 16, 30]
 - **[[Spaced-Repetition-Systems]]** (SRS) — Algorithmic scheduling of review based on forgetting curve (Leitner, Wozniak) [Report 06]
 - **[[Transfer-Appropriate-Processing]]** — Memory is best when retrieval conditions match encoding conditions [Report 06]
@@ -175,7 +175,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
   - [[Stoic-Assent]] (Synkatathesis) — Act of accepting or rejecting an impression as accurately representing reality [Report 29]
   - [[Dichotomy-of-Control]] — Focus only on what is genuinely within one's control [Reports 07, 13]
 - **[[Epistemic-Justice]]** — Whose testimony and experience is recognized as credible knowledge (Fricker) [Report 29]
-- **[[Pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
+- **[[pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
 
 ---
 

@@ -173,7 +173,7 @@ extraction_summary:
 #### 5. [DEFINITION] Melete (Stoic Philosophy — Musonius Rufus, Epictetus) *(Line 175)*
 
 > [!definition] Melete (Stoic Philosophy — Musonius Rufus, Epictetus)
-> Stoic term for the discipline of philosophical *attention* and *practice*: the ongoing, daily habituation of philosophical principles through deliberate exercise. The Stoics distinguished between theoretical knowledge of correct principles and the practical habituation (*askēsis*) required to make them operative under conditions of emotional pressure. Knowing that difficulty is a natural part of learning does not automatically produce equanimity when difficulty arrives — melete is the training practice that builds the gap between stimulus and response into a reliable habit. This concept is structurally parallel to modern research on [[Emotional Regulation]] skill development, which similarly distinguishes knowing a regulation strategy from having it automatized as a response tendency.
+> Stoic term for the discipline of philosophical *attention* and *practice*: the ongoing, daily habituation of philosophical principles through deliberate exercise. The Stoics distinguished between theoretical knowledge of correct principles and the practical habituation (*askēsis*) required to make them operative under conditions of emotional pressure. Knowing that difficulty is a natural part of learning does not automatically produce equanimity when difficulty arrives — melete is the training practice that builds the gap between stimulus and response into a reliable habit. This concept is structurally parallel to modern research on [[Emotional-Regulation]] skill development, which similarly distinguishes knowing a regulation strategy from having it automatized as a response tendency.
 
 #### 6. [CROSS-DOMAIN-CONNECTION] Stoic Assent and Modern Cognitive Reappraisal *(Line 180)*
 
@@ -559,7 +559,7 @@ extraction_summary:
 - [[Competence-Need|Competence Need]]
 - [[Control-Value-Theory-CVT|Control-Value Theory]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Flow-Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -569,7 +569,7 @@ extraction_summary:
 - [[Mihaly-Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
-- [[Reinhard Pekrun]]
+- [[Reinhard-Pekrun]]
 - [[Relatedness-Need]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -594,9 +594,9 @@ extraction_summary:
 | 11 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Scope and Cross-Domain Preview | 151 |
 | 12 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
 | 13 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
-| 14 | [[Emotional Regulation]] | — | — | The Stoic Analysis of Destructive Emo... | 176 |
+| 14 | [[Emotional-Regulation]] | — | — | The Stoic Analysis of Destructive Emo... | 176 |
 | 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | SDT and the Emotional Consequences of... | 185 |
-| 16 | [[Reinhard Pekrun]] | — | — | Pekrun's Control-Value Theory of Acad... | 195 |
+| 16 | [[Reinhard-Pekrun]] | — | — | Pekrun's Control-Value Theory of Acad... | 195 |
 | 17 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Learned Helplessness and Its Antidotes | 211 |
 | 18 | [[Implicit-Theory-of-Intelligence]] | — | — | Learned Helplessness and Its Antidotes | 217 |
 | 19 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Learned Helplessness and Its Antidotes | 217 |
@@ -651,7 +651,7 @@ extraction_summary:
 - [[Competence-Need|Competence Need]]
 - [[Control-Value-Theory-CVT|Control-Value Theory]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Flow-Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -661,7 +661,7 @@ extraction_summary:
 - [[Mihaly-Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
-- [[Reinhard Pekrun]]
+- [[Reinhard-Pekrun]]
 - [[Relatedness-Need]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -702,7 +702,7 @@ extraction_summary:
 - [[Amotivation]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Gross Process Model]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Achievement Emotions]]
 - [[Boredom-in-Learning|Boredom in Learning]]
@@ -716,7 +716,7 @@ extraction_summary:
 - [[Adversity-Activated Development]]
 - [[Eudaimonia]]
 - [[Virtue-Ethics]]
-- [[Amor Fati]]
+- [[Amor-Fati]]
 - [[Stoic Sage]]
 - [[Helplessness Attribution]]
 - [[Locus-of-Control]]

@@ -42,7 +42,7 @@ review-priority: medium
 >
 > Checkpoint systems leverage this by creating **public commitments** and **forecasting records**. Philip Tetlock's research on [[Superforecasting]] demonstrates that requiring people to make explicit, falsifiable predictions and then tracking their accuracy over time dramatically improves judgment quality.[^14] The accountability comes not from punishment but from the desire to maintain epistemic credibility—to be someone whose judgments are worth taking seriously.
 >
-> [[Decision Journal|Decision journaling]], [[Pre-Mortem Analysis]] conducted in teams, and [[Epistemic Spot Check|epistemic spot checks]] all create accountability structures by making reasoning visible and creating records that can be evaluated against outcomes. This external scaffolding compensates for the limited internal motivation to debias.
+> [[Decision Journal|Decision journaling]], [[Pre-Mortem-Analysis]] conducted in teams, and [[Epistemic Spot Check|epistemic spot checks]] all create accountability structures by making reasoning visible and creating records that can be evaluated against outcomes. This external scaffolding compensates for the limited internal motivation to debias.
 
 > [!connections-and-links]
 > - [[atomic-notes_moc]]: This is a link to the *Main Hub* for all **Atomic Notes**, from there you will find sections of each of the various *Subjects* I have been **working on**.

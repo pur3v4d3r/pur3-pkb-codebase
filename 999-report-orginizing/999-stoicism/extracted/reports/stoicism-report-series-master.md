@@ -538,7 +538,7 @@ prerequisites:
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
-  - "[[Metacognitive Awareness Inventory]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
   - "[[Epistemic-Vigilance]]"
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
@@ -569,15 +569,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise Development]]"
-  - "[[Reflective Judgment Model]]"
+  - "[[Expertise-Development]]"
+  - "[[Reflective-Judgment-Model]]"
   - "[[Intellectual-Humility]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
   - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem Analysis]]"
-  - "[[Red Team Thinking]]"
-  - "[[Cognitive Forcing Functions]]"
+  - "[[Pre-Mortem-Analysis]]"
+  - "[[Red-Team-Thinking]]"
+  - "[[Cognitive-Forcing-Functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -930,14 +930,14 @@ series-connections:
   previous: null
   next: "[[Core Principles - Virtue Wisdom and Self-Control]]"
   related-reports:
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 broader:
   - "[[Philosophy MOC]]"
   - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
-  - "[[Hellenistic Period]]"
+  - "[[Hellenistic-period]]"
 
 narrower:
   - "[[Zeno of Citium]]"
@@ -1134,7 +1134,7 @@ The four virtues can be understood as follows:
 
 ### The Dichotomy of Control
 
-If virtue is the only true good, then what do we make of health, wealth, reputation, pleasure, and all the things that most people spend their lives pursuing? The Stoics had a precise and philosophically important answer: these things are *indifferent* (*adiaphora*). They are neither good nor bad in themselves; what matters is how we use them or relate to them. A person of virtue who is also wealthy is not better than a person of virtue who is poor, because the wealth adds nothing to the virtue. This may sound austere — even inhuman — but the Stoics had a sophisticated qualifier: while strictly speaking indifferent, external goods and circumstances are *preferred* or *dispreferred* — health is generally to be preferred over illness, friendship over isolation. These are called [[Preferred Indifferents]].
+If virtue is the only true good, then what do we make of health, wealth, reputation, pleasure, and all the things that most people spend their lives pursuing? The Stoics had a precise and philosophically important answer: these things are *indifferent* (*adiaphora*). They are neither good nor bad in themselves; what matters is how we use them or relate to them. A person of virtue who is also wealthy is not better than a person of virtue who is poor, because the wealth adds nothing to the virtue. This may sound austere — even inhuman — but the Stoics had a sophisticated qualifier: while strictly speaking indifferent, external goods and circumstances are *preferred* or *dispreferred* — health is generally to be preferred over illness, friendship over isolation. These are called [[Preferred-Indifferents]].
 
 [Preferred-Indifferents:: External goods — health, wealth, reputation, pleasure, good relationships — that the Stoics classified as neither good nor bad in the strict moral sense, but as naturally preferred or dispreferred. The sage will pursue preferred indifferents when possible, but will not be distressed if they are lost, because she recognizes that her genuine good — her virtue — is entirely secure and cannot be taken away by external events.]
 
@@ -1287,7 +1287,7 @@ The connection to modern psychology is not merely structural — it is genealogi
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred-Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 The central question that this series is designed to answer is deceptively simple: *How should I live?* Stoicism's answer — *according to reason and virtue, attending carefully to what is and is not in your power* — sounds almost disappointingly plain when stripped of context. What this report has attempted to provide is that context: the historical world that made such an answer feel urgent and radical, the intellectual tradition that gave it philosophical grounding, the remarkable people who lived it in conditions of genuine difficulty, and the concrete practices through which it can be embodied rather than merely understood.
@@ -1588,7 +1588,7 @@ narrower:
   - "[[Dikaiosyne (Justice)]]"
   - "[[Andreia (Courage)]]"
   - "[[Sophrosyne (Temperance)]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[The Stoic Sage]]"
 
 see-also:
@@ -1639,7 +1639,7 @@ link-down:
   - "[[Dikaiosyne (Justice)]]"
   - "[[Andreia (Courage)]]"
   - "[[Sophrosyne (Temperance)]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[The Stoic Sage]]"
   - "[[Prohairesis]]"
 link-related:
@@ -2432,7 +2432,7 @@ The seven core Stoic practices can be organized around Epictetus's Three Discipl
 
 ### Framework Principle 1: Training the Discipline of Desire — Wanting What Is Within Your Reach
 
-The deepest source of human unhappiness, in the Stoic analysis, is the habitual desire for things that are not within our power to secure: the approval of others, the stability of our health, the outcomes of our efforts, the continuity of what we love. This is not because these things are valueless — the Stoics explicitly recognized them as [[Preferred Indifferents]], things worth pursuing where possible. The problem is the *quality* of our desire for them: treating them as necessary for our wellbeing, such that their absence produces genuine distress.
+The deepest source of human unhappiness, in the Stoic analysis, is the habitual desire for things that are not within our power to secure: the approval of others, the stability of our health, the outcomes of our efforts, the continuity of what we love. This is not because these things are valueless — the Stoics explicitly recognized them as [[Preferred-Indifferents]], things worth pursuing where possible. The problem is the *quality* of our desire for them: treating them as necessary for our wellbeing, such that their absence produces genuine distress.
 
 The practices that address this vulnerability work through a common psychological mechanism: they force the practitioner to imaginatively inhabit the loss of what they value before that loss occurs, thereby reducing the power of those things to disturb them when circumstances inevitably change. The *premeditatio malorum* and *memento mori* practices belong primarily to this category.
 
@@ -2500,7 +2500,7 @@ The mechanism Pennebaker identifies is directly analogous to what the Stoics cal
 
 The Stoic practice of voluntary exposure to hardship — wearing light clothing in cold weather, skipping meals, sleeping on a hard surface — might seem merely ascetic. The psychological research suggests a more sophisticated rationale.
 
-[Voluntary-Discomfort-Rationale:: The Stoic practice of *meditatio paupertas* — periodic voluntary adoption of reduced circumstances — serves three distinct functions: (1) building self-efficacy through mastery experiences, demonstrating to the practitioner that they can function well in conditions below their accustomed standard; (2) resetting hedonic adaptation by temporarily depriving the practitioner of accustomed pleasures, which reliably increases the pleasure experienced when comfort is restored; and (3) calibrating the distinction between genuine needs and mere preferences, which is the experiential foundation of the [[Preferred Indifferents]] framework.] Studies on [[Self-Efficacy]] (Albert Bandura's concept of belief in one's own capacity to perform required behaviors) consistently show that successfully navigating challenging situations increases one's sense of competence and capacity for future challenges. Voluntary discomfort is, in this light, a form of *mastery experience* — deliberately engineering successful encounters with difficulty to build the psychological foundation for genuine resilience.
+[Voluntary-Discomfort-Rationale:: The Stoic practice of *meditatio paupertas* — periodic voluntary adoption of reduced circumstances — serves three distinct functions: (1) building self-efficacy through mastery experiences, demonstrating to the practitioner that they can function well in conditions below their accustomed standard; (2) resetting hedonic adaptation by temporarily depriving the practitioner of accustomed pleasures, which reliably increases the pleasure experienced when comfort is restored; and (3) calibrating the distinction between genuine needs and mere preferences, which is the experiential foundation of the [[Preferred-Indifferents]] framework.] Studies on [[Self-Efficacy]] (Albert Bandura's concept of belief in one's own capacity to perform required behaviors) consistently show that successfully navigating challenging situations increases one's sense of competence and capacity for future challenges. Voluntary discomfort is, in this light, a form of *mastery experience* — deliberately engineering successful encounters with difficulty to build the psychological foundation for genuine resilience.
 
 There is also a hedonic mechanism: voluntary temporary deprivation of comfort reliably increases the pleasure experienced when the comfort is restored. This is the mechanism underlying the Stoic practice of periodic fasting — Seneca and Epictetus both recommended it — and it produces a direct counteraction to hedonic adaptation, the psychological process whereby pleasures diminish with habituation.
 
@@ -2551,7 +2551,7 @@ The Stoic practice of voluntary discomfort finds its most striking modern advoca
 >
 > **The Situation**: Pigliucci describes deliberately practicing minor voluntary discomforts — eating simple food when he could afford better, foregoing comfortable transport, occasionally fasting for a day — not as punishments or performances of virtue, but as calibration exercises. The question the practice is designed to answer is: *What do I actually need for my wellbeing, and what do I merely prefer?*
 >
-> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred Indifferents]] framework.
+> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred-Indifferents]] framework.
 >
 > **The Lesson**: The practice is a form of what Seneca called *meditatio paupertas* — "meditation on poverty" — which he recommended as a periodic exercise: "Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" The answer, almost invariably, is no. And that no is one of the most liberating discoveries available to a Stoic practitioner.
 
@@ -2602,7 +2602,7 @@ The following practices constitute the core Stoic practical curriculum. They are
 >
 > **Stoic Grounding**: Marcus Aurelius, *Meditations* (passim — impermanence is one of the most consistent themes); Seneca, *On the Shortness of Life*; Epictetus, *Discourses* Book I.
 >
-> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred Indifferents]] real rather than merely theoretical.
+> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred-Indifferents]] real rather than merely theoretical.
 >
 > **Signs of Progress**: Increased warmth and appreciation toward people in ordinary moments; reduced intensity of craving for future goods; a growing capacity to find what Marcus called *euarestos* — contentment with what is present.
 
@@ -2654,7 +2654,7 @@ The following practices constitute the core Stoic practical curriculum. They are
 > [!practice]
 > **Practice 7: Stoic Journaling**
 >
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control]] help me today? Where did I fail to apply it? What [[Preferred-Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 >
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 >
@@ -2682,7 +2682,7 @@ Even the most intellectually committed practitioner encounters specific recurrin
 > **Obstacle 2: The Stoicism-as-Emotional-Suppression Misreading**
 > One of the most common misapplications of Stoic practice is using it as a philosophical permission structure for emotional suppression — refusing to feel or acknowledge pain, loss, or grief on the grounds that these are "externals." This is a profound misunderstanding that the Stoics themselves explicitly addressed. The Stoic goal is *apatheia* — freedom from irrational, distorting passions (*pathē*) — not the absence of all emotional response.
 >
-> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
+> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred-Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
 
 > [!warning]
 > **Obstacle 3: Philosophical Perfectionism — the All-or-Nothing Trap**
@@ -2989,7 +2989,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -3012,7 +3012,7 @@ related:
   - "[[Cognitive-Reappraisal]]"
 
 series-connections:
-  previous: "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  previous: "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   next: "[[Stoicism in Leadership and Decision-Making]]"
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
@@ -3139,7 +3139,7 @@ importance: high
 >
 > This is Report **04** of 10 in the [[Stoicism Series Overview]]
 >
-> ← Previous: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> ← Previous: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 > → Next: [[Stoicism in Leadership and Decision-Making]]
 >
 > **Series Arc Position**: Application
@@ -3237,7 +3237,7 @@ The convergences between Stoicism and modern psychology are deep, multiple, and 
 The most fundamental and important convergence is the agreement that emotional responses are not direct reactions to external events but are *constituted by cognitive appraisals* — by the meanings, interpretations, and evaluations that the mind assigns to events.
 
 > [!key-insight]
-> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
+> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard-Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
 
 What makes this convergence particularly striking is that it was arrived at by completely different routes. The Stoics derived their cognitive theory of emotion from their metaphysics — specifically their account of the rational soul (*logos*), the nature of impressions, and the role of assent. Modern cognitive psychologists derived theirs from clinical observation of patients, controlled experimentation, and the broader cognitive revolution in psychology. Two traditions, two methodologies, separated by twenty-three centuries, arriving at the same fundamental insight about the architecture of emotional life.
 
@@ -3635,7 +3635,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 related:
@@ -3648,10 +3648,10 @@ related:
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Kathêkon]]"
-  - "[[Reserve Clause]]"
+  - "[[Reserve-Clause]]"
   - "[[Logos]]"
   - "[[James Stockdale]]"
-  - "[[Emotional Regulation]]"
+  - "[[Emotional-Regulation]]"
   - "[[Cognitive-Reappraisal]]"
   - "[[Decision-Theory]]"
 
@@ -3660,7 +3660,7 @@ series-connections:
   next: "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
   related-reports:
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and Minimalism - Living a Simple Fulfilling Life]]"
 
@@ -3830,7 +3830,7 @@ The Stoic framework for leadership organizes around five interlocking principles
 
 ### Principle 1: Virtue Is the Foundation, Not the Constraint
 
-The most fundamental Stoic claim about leadership is that the foundation of genuine authority is the leader's own character. This is not a soft assertion about the importance of being a "good person." It is a precise philosophical claim: the leader who has not cultivated the [[Four Cardinal Virtues]] — wisdom (*sophia*), justice (*dikaiosyne*), courage (*andreia*), and temperance (*sophrosyne*) — lacks the most important resource leadership requires, regardless of how well-resourced they are in every other dimension.
+The most fundamental Stoic claim about leadership is that the foundation of genuine authority is the leader's own character. This is not a soft assertion about the importance of being a "good person." It is a precise philosophical claim: the leader who has not cultivated the [[Four-Cardinal-Virtues]] — wisdom (*sophia*), justice (*dikaiosyne*), courage (*andreia*), and temperance (*sophrosyne*) — lacks the most important resource leadership requires, regardless of how well-resourced they are in every other dimension.
 
 [Virtue-as-Leadership-Foundation:: The Stoic claim that the four cardinal virtues are not aspirational add-ons to technical leadership competence but its actual foundation — that the leader's wisdom determines the quality of their judgment, their justice determines the quality of their relationships, their courage enables the decisions that lesser character would avoid, and their temperance prevents the contamination of decision-making by reactive emotion.]
 
@@ -3901,7 +3901,7 @@ The research on decision-making quality in leadership contexts is sobering. [[Da
 > **Empirical Finding — Decision Contamination Under Stress**: Research by Mather and Lighthall (2012) and others in the field of "stress and decision-making" demonstrates that acute stress significantly alters decision-making in predictable ways: it increases reliance on prior habits (reducing flexibility), increases risk-taking in some domains while increasing risk-aversion in others, and narrows attentional focus to salient threats at the expense of broader contextual information. These are precisely the conditions under which leadership decisions are most consequential — and the Stoic practices of emotional self-regulation and the maintenance of equanimity are a direct counter-technology to these stress-induced distortions.
 
 > [!key-insight]
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve-Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 The research on authentic leadership — a body of work associated with Bruce Avolio, Bill George, and others — converges on a finding that is in deep accord with the Stoic framework: the leaders who sustain effectiveness over time, and whose organizations flourish rather than merely performing in the short term, are those whose self-awareness, values clarity, and relational integrity remain stable across changing circumstances. The correlation between what Avolio and George call "authentic leadership" and organizational outcomes is robust across cultures and contexts. This is essentially the empirical validation of the Stoic claim that virtue — understood as stable character rather than situational performance — is the foundation of genuine leadership effectiveness.
 
@@ -3943,7 +3943,7 @@ The most dramatic modern case of Stoic leadership principles operating under ext
 >
 > Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 >
-> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
+> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve-Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 >
 > **The Leadership Application**: The Stockdale case demonstrates that Stoic leadership is not for easy circumstances. It is specifically designed for conditions where the tools that ordinarily produce good outcomes — optimism, positive thinking, confidence in improvement — actively fail. The leader who understands the Stoic framework has a more robust resource than optimism: a commitment to acting well regardless of how the situation resolves, grounded in a clear understanding of what is genuinely theirs to control.
 
@@ -4059,11 +4059,11 @@ The developmental sequence is: the Virtue Lens and the Leadership Dichotomy Revi
 
 A sustainable Stoic leadership practice is also self-correcting. The practices are not designed to produce perfect leadership; they are designed to produce progressively better leadership through honest self-assessment and iterative correction. The Stoics did not believe the ideal of the fully virtuous Sage was achievable in practice — but they did believe that the direction of travel toward that ideal was the most important thing a person could do with their time and character. For a leader, every day provides abundant opportunities to practice: difficult conversations to navigate, decisions to make under uncertainty, reactive impulses to notice and restrain, moments of courage to either take or defer.
 
-The integration of Stoic leadership practice with the broader series is worth making explicit. The [[Dichotomy-of-Control]] applied here in the leadership domain builds directly on its introduction in [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) and its practical deployment in [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03). The psychological mechanism behind emotional governance connects to the detailed analysis in [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04). The reader who proceeds to [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) will find that the resilience practices developed there are a deepening of the same principles applied here in the leadership context.
+The integration of Stoic leadership practice with the broader series is worth making explicit. The [[Dichotomy-of-Control]] applied here in the leadership domain builds directly on its introduction in [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) and its practical deployment in [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03). The psychological mechanism behind emotional governance connects to the detailed analysis in [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04). The reader who proceeds to [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) will find that the resilience practices developed there are a deepening of the same principles applied here in the leadership context.
 
 > [!connection-ideas]
 > **Series Connections**:
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03) for the practical exercise vocabulary
 > - **Extends**: [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04) by applying the psychological framework to the specific context of organizational leadership
 > - **Prepares for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the practices developed here for managing emotion in leadership are closely related to the practices for managing adversity in life more broadly
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — the cognitive bias analysis and the Discipline of Assent are particularly relevant to leadership decision-making
@@ -4314,7 +4314,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -4326,14 +4326,14 @@ related:
   - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati]]"
   - "[[Memento Mori]]"
   - "[[Premeditatio-Malorum]]"
   - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Cognitive-Reappraisal]]"
   - "[[Post-Traumatic Growth]]"
-  - "[[Emotional Regulation]]"
+  - "[[Emotional-Regulation]]"
   - "[[James Stockdale]]"
 
 series-connections:
@@ -4342,7 +4342,7 @@ series-connections:
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
     - "[[Stoicism and CBT - Similarities Differences and Integration]]"
 
@@ -4354,7 +4354,7 @@ broader:
 
 narrower:
   - "[[Premeditatio-Malorum]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati]]"
   - "[[The Obstacle Is the Way]]"
   - "[[Stoic Consolation]]"
   - "[[Impermanence Meditation]]"
@@ -4409,7 +4409,7 @@ practical-components:
 link-up: "[[Stoicism MOC]]"
 link-down:
   - "[[Premeditatio-Malorum]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati]]"
   - "[[The Obstacle Is the Way (Principle)]]"
   - "[[Stoic Consolation Literature]]"
   - "[[Impermanence Contemplation]]"
@@ -4524,7 +4524,7 @@ The Stoic philosophical foundation for resilience rests on three interconnected 
 
 **Pillar 1**: The [[Dichotomy-of-Control]] — the clear and practiced distinction between what is within one's power (one's judgments, responses, values, and character) and what is not (external events, others' behavior, outcomes). Adversity loses its power to devastate when one is genuinely clear about the boundary.
 
-**Pillar 2**: The proper valuation of externals — what the Stoics called the doctrine of [[Preferred Indifferents]]. Health, wealth, reputation, the people we love: all these are genuinely valuable and reasonably pursued. But they are not constitutive of our flourishing in the way that virtue is. When we lose them, the loss is real and the pain is legitimate — but our capacity to live well is not destroyed along with them.
+**Pillar 2**: The proper valuation of externals — what the Stoics called the doctrine of [[Preferred-Indifferents]]. Health, wealth, reputation, the people we love: all these are genuinely valuable and reasonably pursued. But they are not constitutive of our flourishing in the way that virtue is. When we lose them, the loss is real and the pain is legitimate — but our capacity to live well is not destroyed along with them.
 
 **Pillar 3**: The relationship between [[Prohairesis]] and adversity. Prohairesis — the faculty of rational choice, the seat of our agency and character — cannot be taken from us by external events. A person can be imprisoned, impoverished, physically harmed, and stripped of every external comfort. What they cannot be stripped of, on the Stoic account, is the quality of their own judgment and response. This is not a consolation prize; it is the thing that matters most.
 
@@ -5055,7 +5055,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 related:
@@ -5815,7 +5815,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -5828,7 +5828,7 @@ related:
   - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[Meditatio Paupertatis]]"
   - "[[Hedonic-Adaptation]]"
   - "[[Voluntary Simplicity]]"
@@ -5844,7 +5844,7 @@ series-connections:
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]"
 
@@ -5856,7 +5856,7 @@ broader:
 
 narrower:
   - "[[Meditatio Paupertatis]]"
-  - "[[Discipline of Desire]]"
+  - "[[Discipline-of-Desire]]"
   - "[[Stoic Frugality]]"
   - "[[Voluntary Discomfort Practice]]"
   - "[[Negative Visualization]]"
@@ -5912,7 +5912,7 @@ practical-components:
 link-up: "[[Stoicism MOC]]"
 link-down:
   - "[[Meditatio Paupertatis]]"
-  - "[[Discipline of Desire]]"
+  - "[[Discipline-of-Desire]]"
   - "[[Stoic Frugality]]"
   - "[[Preferred Indifferents — Complete Taxonomy]]"
 link-related:
@@ -5967,7 +5967,7 @@ importance: high
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 >
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred-Indifferents]], [[Prohairesis]], and the [[Discipline-of-Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 ---
 
@@ -5993,7 +5993,7 @@ The Stoics made this argument approximately 2,300 years before the minimalism mo
 The Stoic engagement with material simplicity is not incidental to the system. It flows directly from the most foundational claims in Stoic ethics: that virtue is the only genuine good, that external goods have value of a different and lesser kind, and that confusing the two kinds of value is the primary error from which human unhappiness proceeds.
 
 > [!definition]
-> **[[Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
+> **[[Preferred-Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
 
 [Preferred-Indifferents-Status:: The Stoic category of things valuable enough to pursue through rational effort but not important enough to disturb one's equanimity if lost — a philosophically precise middle ground between "worthless" and "genuinely good" that most people, ancient and modern, fail to occupy because they treat preferred indifferents as if they were genuine goods.]
 
@@ -6035,7 +6035,7 @@ The first and most fundamental Stoic principle governing the relationship to mat
 > [!key-insight]
 > **Framework Principle 1: The Hierarchy of Value**
 >
-> The Stoic position is not that material goods are worthless — the category of [[Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
+> The Stoic position is not that material goods are worthless — the category of [[Preferred-Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
 
 [Correct-Valuation:: The Stoic cognitive practice of explicitly and repeatedly assigning material goods to the category of preferred indifferents rather than genuine goods — a discipline that requires active maintenance because hedonic adaptation and social comparison continuously pressure the practitioner toward reclassifying material goods as essential.]
 
@@ -6109,7 +6109,7 @@ The most vivid first-person account of voluntary simplicity from the Stoic tradi
 >
 > **The Situation**: In Letter XVIII of the *Epistulae Morales*, Seneca describes his practice of periodic voluntary simplicity, written with the self-aware irony of a very rich man telling a friend to be poor sometimes. He describes setting aside several days to live on minimal rations — coarse bread, water, no comfortable bed — not as penance but as philosophical calibration. "I am not setting this before you as a rule," he writes, "but as a test. Lay aside for a few days your usual comforts, and let yourself discover whether poverty frightens you as much as your habits have led you to believe."
 >
-> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
+> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
 >
 > **The Lesson**: The practice demonstrates that the felt sense of sufficiency — of having enough — is not a fixed quantity determined by one's material circumstances but a calibratable psychological state that can be maintained at a wide range of income levels through appropriate philosophical practice. The person who practices periodic simplicity is less vulnerable to the anxiety of potential loss, more capable of genuine appreciation for what they have, and less driven by the compulsive acquisition that the fear of insufficiency generates.
 
@@ -6135,7 +6135,7 @@ The contemporary minimalism movement has produced a variety of practitioners who
 >
 > **The Situation**: Potts's argument — developed without direct reference to Stoicism but with remarkable convergence — is that most people are time-poor and thing-rich in a way that inverts the actual conditions of a good life. The things that constitute genuine wellbeing (deep engagement with meaningful activities, rich relationships, the experience of novelty and growth) are time-intensive and materially cheap. The things that modern culture treats as constitutive of success (large homes, new vehicles, luxury goods) are materially expensive and time-consuming to maintain, and their wellbeing returns are subject to rapid hedonic adaptation. His prescription — reduce material complexity to create temporal and psychological space for intrinsically meaningful activity — is structurally identical to the Stoic framework.
 >
-> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
+> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 >
 > **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
@@ -6154,7 +6154,7 @@ The following practices translate the Stoic philosophical framework for material
 >
 > **Duration**: 48–72 hours minimum for full psychological effect; shorter periods are useful but may not achieve the depth of recalibration that multi-day practice provides
 >
-> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
+> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred-Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
 >
 > **Psychological Mechanism**: Counters hedonic adaptation by resetting the baseline against which ordinary goods are experienced. After several days of bread and water, a standard meal becomes genuinely experienced as a luxury. This recalibration of baseline produces the gratitude that hedonic adaptation normally suppresses — transforming what was background into foreground, what was entitled into appreciated.
 >
@@ -6246,8 +6246,8 @@ The integrated practice, maintained over months and years, tends to produce a ch
 > [!connection-ideas]
 > **Series Connections**
 >
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
-> - **Deepens**: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred-Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
+> - **Deepens**: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
 > - **Connects to**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the non-dependence on material goods cultivated in Stoic simplicity directly increases resilience; the person who has practiced sufficiency is less devastated by material loss than the person whose wellbeing depends on maintaining a certain standard.
 > - **Prepares for**: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] (Report 09) — the simplification of one's relationship to material goods creates the attentional space that mindfulness practice requires. It is structurally difficult to be genuinely present when one is preoccupied with maintaining material complexity.
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — Cognitive Behavioral Therapy's attention to the role of cognitive distortions in generating unnecessary suffering maps precisely onto the Stoic account of how misvalued preferred indifferents generate anxiety and compulsive acquisition.
@@ -6497,7 +6497,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -6522,7 +6522,7 @@ series-connections:
   previous: "[[Stoicism and Minimalism - Living a Simple Fulfilling Life]]"
   next: "[[Stoicism and CBT - Similarities Differences and Integration]]"
   related-reports:
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and CBT - Similarities Differences and Integration]]"
@@ -6646,7 +6646,7 @@ importance: high
 > → Next: [[Stoicism and CBT - Similarities Differences and Integration]]
 >
 > **Series Arc Position**: Integration
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 
 ---
 
@@ -6674,7 +6674,7 @@ This report makes the case for a specific and disciplined kind of integration: o
 
 The Stoics were deeply interested in the present moment — but their interest was embedded within a comprehensive philosophical system that must be understood to appreciate what present-moment attention meant for them and why they valued it.
 
-The Stoic universe is a rational cosmos, permeated by [[Logos]] — the universal reason that governs all things. Human beings, uniquely among earthly creatures, participate in this rationality through their capacity for [[Prohairesis]] — the faculty of rational choice. This capacity is the most important thing about us, the seat of our dignity, the ground of our moral worth, and the only thing that is genuinely "ours" in the sense Epictetus meant: it cannot be removed by illness, defeat, enslavement, or death. Everything else — health, wealth, reputation, pleasure, the opinions of others — belongs to the category of [[Preferred Indifferents]]: things worth pursuing under normal circumstances, but neither necessary for nor constitutive of the good life.
+The Stoic universe is a rational cosmos, permeated by [[Logos]] — the universal reason that governs all things. Human beings, uniquely among earthly creatures, participate in this rationality through their capacity for [[Prohairesis]] — the faculty of rational choice. This capacity is the most important thing about us, the seat of our dignity, the ground of our moral worth, and the only thing that is genuinely "ours" in the sense Epictetus meant: it cannot be removed by illness, defeat, enslavement, or death. Everything else — health, wealth, reputation, pleasure, the opinions of others — belongs to the category of [[Preferred-Indifferents]]: things worth pursuing under normal circumstances, but neither necessary for nor constitutive of the good life.
 
 This framework is essential context for understanding Stoic present-moment practice. When [[Marcus-Aurelius]] instructs himself to confine himself to the present, he is not articulating a general preference for present-mindedness. He is making a philosophically precise point: the future and the past are not in our power; only the present is the arena of *prohairesis*. To live mentally in the future — to anxiously anticipate outcomes, to rehearse feared possibilities as though catastrophic loss were inevitable — is to remove oneself from the only place where one can actually act virtuously. To live mentally in the past — to ruminate on old grievances, to replay defeats, to nurse wounds — is equally a flight from the only moment in which virtue can be exercised.
 
@@ -6759,7 +6759,7 @@ Both traditions prescribe not merely attention to the present but a specific *qu
 
 Both traditions prescribe meditations on impermanence as central contemplative exercises, and both identify the habitual failure to reckon honestly with impermanence as a primary source of psychological suffering.
 
-The Stoics engage impermanence through [[Memento Mori]] (remembrance of death), the *premeditatio malorum* (contemplation of potential loss), and Marcus Aurelius's extended reflections on the brevity of all things against the backdrop of cosmic time. The underlying insight is that everything in the category of [[Preferred Indifferents]] — health, relationships, wealth, reputation, one's own life — is contingent and temporary. Clinging to these things as necessities, treating their loss as catastrophes, produces a psychic fragility that the Stoics considered both philosophically confused and practically dangerous.
+The Stoics engage impermanence through [[Memento Mori]] (remembrance of death), the *premeditatio malorum* (contemplation of potential loss), and Marcus Aurelius's extended reflections on the brevity of all things against the backdrop of cosmic time. The underlying insight is that everything in the category of [[Preferred-Indifferents]] — health, relationships, wealth, reputation, one's own life — is contingent and temporary. Clinging to these things as necessities, treating their loss as catastrophes, produces a psychic fragility that the Stoics considered both philosophically confused and practically dangerous.
 
 [Buddhist-Anicca-and-Stoic-Impermanence:: Both Buddhism's *anicca* (impermanence) and the Stoic recognition of the contingency of all external goods point to the same experiential reality — that no phenomenon persists unchanged — and both derive from this recognition the same practical prescription: loosen the grip of attachment. Where they differ is in the philosophical framing: the Stoics ground this loosening in a rational theory of value (externals are not genuine goods and therefore need not be clung to), while Buddhism grounds it in direct meditative perception of impermanence (the meditator directly witnesses arising and passing and discovers through experience rather than argument that clinging to the impermanent produces suffering).]
 
@@ -7195,7 +7195,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 related:
@@ -7216,7 +7216,7 @@ related:
   - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[Cognitive Restructuring]]"
   - "[[Cognitive Distortions]]"
   - "[[Psychological Flexibility]]"
@@ -7229,7 +7229,7 @@ series-connections:
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]"
@@ -7351,7 +7351,7 @@ importance: high
 > → Next: *Series Complete*
 >
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred-Indifferents]], [[Virtue-Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 ---
 

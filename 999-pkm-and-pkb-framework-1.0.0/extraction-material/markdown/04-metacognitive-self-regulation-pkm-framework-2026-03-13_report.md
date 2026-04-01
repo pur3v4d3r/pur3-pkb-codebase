@@ -546,11 +546,11 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective-Practitioner|Reflective Practitioner]]
-- [[Report 02]]
+- [[Report-02]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 05: Motivation Architecture]]
 - [[Report 06: The Science of Remembering]]
@@ -585,7 +585,7 @@ extraction_summary:
 | 8 | [[Flavell]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 9 | [[Educational-Psychology|Educational Psychology]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 10 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 108 |
-| 11 | [[Pragmatism]] | — | — | Disciplinary Contributions and Their ... | 108 |
+| 11 | [[pragmatism]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 12 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 13 | [[Knowledge-Management|Knowledge Management]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 14 | [[Reflective-Practitioner|Reflective Practitioner]] | — | — | Disciplinary Contributions and Their ... | 108 |
@@ -604,7 +604,7 @@ extraction_summary:
 | 27 | [[Report 03: Constructing Understanding]] | — | — | Return and Deepen: Metacognition and ... | 302 |
 | 28 | [[Schema-Progressive-Architecture|Schema-Progressive Architecture]] | — | — | Return and Deepen: Metacognition and ... | 302 |
 | 29 | [[Working-Memory|Working Memory]] | — | — | The Externalization Principle | 313 |
-| 30 | [[Report 02]] | — | — | The Externalization Principle | 313 |
+| 30 | [[Report-02]] | — | — | The Externalization Principle | 313 |
 | 31 | [[Learning-Journal|Learning Journal]] | — | — | The Externalization Principle | 316 |
 | 32 | [[Report 10: Scaffolding and Fading]] | — | — | Unresolved Questions | 447 |
 | 33 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
@@ -694,11 +694,11 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 - [[Metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective-Practitioner|Reflective Practitioner]]
-- [[Report 02]]
+- [[Report-02]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 05: Motivation Architecture]]
 - [[Report 06: The Science of Remembering]]

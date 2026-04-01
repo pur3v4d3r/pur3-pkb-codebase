@@ -251,7 +251,7 @@ field: cognitive-science
 
 ## 🧪 Methodologies Referenced
 
-- methodology:: [[Experimental Design]]
+- methodology:: [[Experimental-Design]]
 - methodology:: [[Statistical Analysis]]
 
 ## 💡 Key Concepts
@@ -1586,7 +1586,7 @@ GROUP BY status
 **Schema:**
 ```yaml
 ---
-authors: [[Author Name]]
+authors: [[Author-Name]]
 theories: [[Theory A]], [[Theory B]]
 publication-year: 2023
 citation-key: smith2023
@@ -1614,7 +1614,7 @@ influenced-by: [[Note-taking History]]
 builds-on: [[Previous Research]]
 
 # People Relationships
-collaborators: [[Person A]], [[Person B]]
+collaborators: [[Person-A]], [[Person-B]]
 mentors: [[Advisor Name]]
 
 # Tool Relationships

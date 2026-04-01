@@ -473,7 +473,7 @@ prerequisites:
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
-  - "[[Metacognitive Awareness Inventory]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
   - "[[Epistemic-Vigilance]]"
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
@@ -504,15 +504,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise Development]]"
-  - "[[Reflective Judgment Model]]"
+  - "[[Expertise-Development]]"
+  - "[[Reflective-Judgment-Model]]"
   - "[[Intellectual-Humility]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
   - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem Analysis]]"
-  - "[[Red Team Thinking]]"
-  - "[[Cognitive Forcing Functions]]"
+  - "[[Pre-Mortem-Analysis]]"
+  - "[[Red-Team-Thinking]]"
+  - "[[Cognitive-Forcing-Functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -736,7 +736,7 @@ related_concepts:
   - "[[Cognitive-Load-Theory]]"
   - "[[Schema-Theory]]"
   - "[[Self-Determination-Theory]]"
-  - "[[Pragmatism]]"
+  - "[[pragmatism]]"
   - "[[Stoic-Philosophy]]"
   - "[[Critical-Thinking]]"
   - "[[Knowledge Organization]]"
@@ -970,11 +970,11 @@ Every report draws from a core set of disciplines, using them as complementary l
 | **[[Cognitive-Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process-Theory]], [[Working-Memory]], [[Cognitive-Architecture]] |
 | **[[cognitive-psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory]], [[Cognitive-Load-Theory]], [[Encoding-Specificity]] |
 | **[[Educational-Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Transfer]] |
-| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
+| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
 | **[[Instructional-Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory]] |
 | **[[Learning-Experience-Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
 | **[[Knowledge-Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems]] |
-| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[Spacing-Effect]], [[Testing-Effect]], [[Interleaving]], [[Desirable-Difficulties]] |
+| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[Spacing-Effect]], [[Testing-Effect]], [[interleaving]], [[Desirable-Difficulties]] |
 | **[[Stoic-Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy-of-Control]], [[Premeditatio-Malorum]], [[Virtue-Ethics]] |
 | **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[Socratic-Method]], [[Elenchus]], [[Aporia]] |
 | **[[Metacognition]]** | Thinking about thinking, self-monitoring, calibration | [[Metacognitive-Regulation]], [[Calibration]], [[Judgment-of-Learning]] |
@@ -1764,7 +1764,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
 
 **Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design**
-- **Synthesis Focus**: How do [[Spacing-Effect]], [[Testing-Effect]], [[Interleaving]], and [[Desirable-Difficulties]] research combine with [[Encoding-Specificity]] to inform PKB review and retrieval systems?
+- **Synthesis Focus**: How do [[Spacing-Effect]], [[Testing-Effect]], [[interleaving]], and [[Desirable-Difficulties]] research combine with [[Encoding-Specificity]] to inform PKB review and retrieval systems?
 - **Disciplines**: Cognitive Psychology (memory research), Psychology of Learning (spacing, testing), Educational Psychology (transfer), Knowledge Management (retrieval systems)
 - **PKM/PKB Design Target**: Spaced repetition integration, active recall workflows, interleaved review, retrieval practice embedded in PKB
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
@@ -1823,7 +1823,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Tag system architecture, emergent vs. imposed structure, scalable organization patterns
 
 **Report 16: Desirable Difficulties by Design — Making PKM Productively Hard**
-- **Synthesis Focus**: How do [[Desirable-Difficulties]], [[Generation-Effect]], [[Interleaving]], and [[Constructivist-Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
+- **Synthesis Focus**: How do [[Desirable-Difficulties]], [[Generation-Effect]], [[interleaving]], and [[Constructivist-Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
 - **Disciplines**: Psychology of Learning, Cognitive Psychology, Constructivism, Instructional Design
 - **PKM/PKB Design Target**: Effortful processing workflows, generation-based review, interleaved study paths
 
@@ -1887,7 +1887,7 @@ These reports operate at the meta-level, integrating the entire framework.
 - **PKM/PKB Design Target**: Comprehensive design specification document
 
 **Report 28: The Philosophy of Personal Knowledge — What It Means to "Know" in a PKB**
-- **Synthesis Focus**: How do [[epistemology]], [[Pragmatist-Truth]], [[Constructivist-Knowledge]], [[Stoic Wisdom]], and [[Socratic Knowing]] inform a coherent philosophy of what "knowledge" means in the context of a personal knowledge base?
+- **Synthesis Focus**: How do [[Epistemology]], [[Pragmatist-Truth]], [[Constructivist-Knowledge]], [[Stoic Wisdom]], and [[Socratic Knowing]] inform a coherent philosophy of what "knowledge" means in the context of a personal knowledge base?
 - **Disciplines**: Philosophy (epistemology, pragmatism, Stoicism, Socratic), Cognitive Science, Knowledge Management
 
 **Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work**

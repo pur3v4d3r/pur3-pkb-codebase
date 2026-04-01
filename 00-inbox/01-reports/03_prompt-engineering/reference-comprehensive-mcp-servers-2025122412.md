@@ -973,7 +973,7 @@ await server.connect(transport);
 > 
 > - **[[Unix-Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
 > - **[[API-Design-Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
-> - **[[Knowledge Graph Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
+> - **[[Knowledge-Graph-Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
 > - **[[Cognitive-Load-Theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
 
 > [!application-context]
@@ -1009,19 +1009,19 @@ await server.connect(transport);
 > [!atomic-candidates]
 > **Concepts Warranting Extraction**
 > 
-> - [[MCP Tools]] — Deep dive on tool primitive
-> - [[MCP Resources]] — Resource types and patterns
-> - [[MCP Prompts]] — Prompt template design
+> - [[MCP-Tools]] — Deep dive on tool primitive
+> - [[MCP-Resources]] — Resource types and patterns
+> - [[MCP-Prompts]] — Prompt template design
 > - [[FastMCP]] — Python framework reference
-> - [[MCP Security Best Practices]] — Security-focused atomic note
-> - [[Obsidian MCP Integration]] — Detailed setup guide
+> - [[MCP-Security-Best-Practices]] — Security-focused atomic note
+> - [[Obsidian-MCP-Integration]] — Detailed setup guide
 
 > [!synthesis-opportunities]
 > **Cross-Domain Bridges**
 > 
 > - **MCP × [[Zettelkasten]]**: AI-assisted atomic note creation and linking
 > - **MCP × [[Spaced-Repetition]]**: Automated review scheduling through PKB queries
-> - **MCP × [[PARA Method]]**: AI-driven project/area classification
+> - **MCP × [[PARA-Method]]**: AI-driven project/area classification
 > - **MCP × [[Cognitive-Load-Theory]]**: Reducing integration overhead preserves cognitive resources
 
 ---
@@ -1063,19 +1063,19 @@ await server.connect(transport);
 
 ### Core Extensions
 
-#### 1. **[[FastMCP Development Guide]]**
+#### 1. **[[FastMCP-Development-Guide]]**
 **Connection:** Deep technical reference for building Python MCP servers using FastMCP framework
 **Depth Potential:** Code patterns, async handling, error management, testing strategies, deployment
 **Knowledge Graph Role:** Technical implementation node under MCP development cluster
 **Priority:** High — Enables custom tool creation for personalized workflows
-**Prerequisites:** [[Python Fundamentals]], [[Async Programming]]
+**Prerequisites:** [[Python-Fundamentals]], [[Async-Programming]]
 
-#### 2. **[[MCP Security Hardening]]**
+#### 2. **[[MCP-Security-Hardening]]**
 **Connection:** Comprehensive security implementation guide building on risks identified here
 **Depth Potential:** Container configurations, network policies, monitoring dashboards, incident response
 **Knowledge Graph Role:** Security specialization branch from main MCP reference
 **Priority:** High — Critical for any production MCP deployment
-**Prerequisites:** [[Docker Fundamentals]], [[Network Security Basics]]
+**Prerequisites:** [[Docker-Fundamentals]], [[Network Security Basics]]
 
 ### Cross-Domain Connections
 

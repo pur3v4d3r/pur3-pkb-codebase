@@ -513,7 +513,7 @@ extraction_summary:
 - [[Motivational-Compounding-Model|Motivational Compounding Model]]
 - [[Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound|Narrative Identity Theory and PKB Design — McAdams and Beyound]]
 - [[PKB-Habit-Architecture-A-Practical-Design-Guide|PKB Habit Architecture: A Practical Design Guide]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report 05: Motivation Architecture]]
 - [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
 - [[Report 06: The Science of Remembering]]
@@ -542,7 +542,7 @@ extraction_summary:
 | 3 | [[Habit-Formation|Habit Formation]] | — | — | The Synthesis Question | 158 |
 | 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Synthesis Question | 158 |
 | 5 | [[Report 05: Motivation Architecture]] | — | — | The Synthesis Question | 160 |
-| 6 | [[Report 05]] | — | — | The Synthesis Question | 162 |
+| 6 | [[Report-05]] | — | — | The Synthesis Question | 162 |
 | 7 | [[Report 13: Emotional Regulation and Resilient Learning]] | — | — | The Synthesis Question | 162 |
 | 8 | [[Report 24: Self-Determined Learning and the PKB]] | — | — | The Synthesis Question | 162 |
 | 9 | [[Triggered-Situational-Interest|Triggered Situational Interest]] | — | — | Four Traditions on the Same Problem | 175 |
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Motivational-Compounding-Model|Motivational Compounding Model]]
 - [[Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound|Narrative Identity Theory and PKB Design — McAdams and Beyound]]
 - [[PKB-Habit-Architecture-A-Practical-Design-Guide|PKB Habit Architecture: A Practical Design Guide]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report 05: Motivation Architecture]]
 - [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
 - [[Report 06: The Science of Remembering]]

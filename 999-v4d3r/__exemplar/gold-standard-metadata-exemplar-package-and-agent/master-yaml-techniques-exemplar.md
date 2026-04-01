@@ -524,7 +524,7 @@ prompting_techniques:
             mitigation: "Add specific quality anchors"
         
         related_concepts:
-          - "[[Few-Shot Prompting]]"
+          - "[[Few-Shot-Prompting]]"
           - "[[Instruction Tuning]]"
           - "[[In-Context Learning]]"
       

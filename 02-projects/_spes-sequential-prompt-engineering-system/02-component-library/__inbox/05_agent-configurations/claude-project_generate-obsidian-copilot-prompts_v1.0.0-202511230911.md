@@ -466,7 +466,7 @@ You are a [[Knowledge Synthesis]] specialist. Your task is to analyze connection
 [4 related topics worth exploring further with wiki-links]
 
 **QUALITY STANDARDS:**
-- Use [[Wiki-Link]] format for all key concepts
+- Use [[wiki-link]] format for all key concepts
 - Cite source notes when referencing specific content
 - Identify contradictions or tensions between sources
 - Highlight novel insights from synthesis

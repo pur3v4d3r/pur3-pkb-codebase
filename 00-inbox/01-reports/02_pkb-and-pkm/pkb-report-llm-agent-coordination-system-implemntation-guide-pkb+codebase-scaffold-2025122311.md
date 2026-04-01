@@ -1300,14 +1300,14 @@ Agent uses knowledge graph + semantic similarity
 
 ## Cross-Domain Connections
 
-### 3. **[[Cognitive Load Theory Applied to AI Coordination]]**
+### 3. **[[Cognitive-Load-Theory-Applied-to-AI-Coordination]]**
 **Connection:** How CLT principles inform agent system design for reduced user burden  
 **Depth Potential:** Maps working memory constraints to system architecture decisions  
 **Knowledge Graph Role:** Semantic bridge between learning science and AI UX design  
 **Priority:** Medium - Theoretical foundation for system  
 **Prerequisites:** [[Cognitive-Load-Theory]], understanding of agent workflows
 
-### 4. **[[Knowledge Graph Dynamics in Multi-Agent Systems]]**
+### 4. **[[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems]]**
 **Connection:** How multiple agents collaboratively building a knowledge graph affects graph structure  
 **Depth Potential:** Graph theory + AI agency + PKM synthesis  
 **Knowledge Graph Role:** Advanced PKB architecture node  
@@ -1316,7 +1316,7 @@ Agent uses knowledge graph + semantic similarity
 
 ## Advanced Deep Dives
 
-### 5. **[[Agentic Prompt Engineering Workflows]]** *[Requires SPES completion]*
+### 5. **[[Agentic-Prompt-Engineering-Workflows]]** *[Requires SPES completion]*
 **Connection:** Uses SPES framework to enable agents to self-improve prompts  
 **Depth Potential:** Meta-learning system where agents optimize their own initialization  
 **Knowledge Graph Role:** Advanced automation / self-improving systems cluster  

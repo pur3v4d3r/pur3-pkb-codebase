@@ -63,7 +63,7 @@ related:
   - "[[Active-Note-Making]]"
   - "[[Note-Making-vs.-Note-Taking]]"
   - "[[Elaborative-Interrogation]]"
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
   - "[[Retrieval-Practice]]"
   - "[[Prior-Knowledge-Activation]]"
   - "[[Desirable-Difficulties]]"

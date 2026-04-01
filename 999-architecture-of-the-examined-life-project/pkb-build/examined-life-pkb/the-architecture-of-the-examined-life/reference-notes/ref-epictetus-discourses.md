@@ -68,7 +68,7 @@ The report synthesizes Stoic prosoche with dual-process theory: System 1 generat
 - **[[Prohairesis]]**: The capacity for choice and moral purpose; Epictetus's term for the authentic self that remains free even in slavery
 - **[[Impressions vs Assent]]**: Distinction between initial appearances (huphar phantasiai—not in your control) and whether you assent to them (in your control)
 - **[[The Handle]]**: Epictetus's metaphor—everything has two handles; grasp things by the handle that allows you to carry them (control-focus) vs. the one that breaks (outcome-focus)
-- **[[Reserve Clause]]**: Act with full commitment while adding mentally "if nothing prevents it"—effort without attachment to outcome
+- **[[Reserve-Clause]]**: Act with full commitment while adding mentally "if nothing prevents it"—effort without attachment to outcome
 - **[[Stoic Indifference]]**: External circumstances (health, wealth, reputation) are preferred or dispreferred but not genuinely good or bad—only virtue is good
 - **[[The Inner Citadel]]**: Your moral purpose is an impregnable fortress; external circumstances can't touch what truly matters unless you let them
 - **[[Role Ethics]]**: Play your assigned social roles virtuously while recognizing you didn't choose the roles (only your response to them)

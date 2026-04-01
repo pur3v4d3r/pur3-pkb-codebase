@@ -60,7 +60,7 @@ core-concepts: ["Critical Thinking", "Reflective Thinking", "Intellectual Dispos
 key-distinctions: ["Skills vs. Dispositions", "General vs. Domain-Specific", "Strong Sense vs. Weak Sense", "Infusion vs. Immersion"]
 prerequisites: ["[[Metacognition]]", "[[Reasoning]]", "[[Logic]]"]
 related: ["[[Metacognition-and-Critical-Thinking]]", "[[Self-Regulated-Learning]]", "[[Dual-Process-Theory]]", "[[Bloom's-Taxonomy]]", "[[Virtue-Epistemology]]"]
-broader: ["[[Cognitive-Psychology-Foundations]]", "[[Educational-Psychology]]", "[[epistemology]]"]
+broader: ["[[Cognitive-Psychology-Foundations]]", "[[Educational-Psychology]]", "[[Epistemology]]"]
 narrower: ["[[Critical-Thinking-in-Education]]", "[[Critical-Thinking-Pedagogy]]", "[[Argument-Analysis]]"]
 see-also: ["[[Actively-Open-Minded-Thinking]]", "[[Intellectual-Humility]]", "[[Socratic-Method]]"]
 builds-on: ["[[Dewey's-Reflective-Thinking]]", "[[Delphi-Report]]", "[[Paul-Elder-Framework]]"]
@@ -142,7 +142,7 @@ The Enlightenment's broader contribution was the normative assertion that reason
 > [!definition] Reflective Thinking (Dewey, 1910/1933)
 > [[Dewey's-Reflective-Thinking|Reflective thinking]] is defined by [[John-Dewey]] as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends" (*[[How-We-Think]]*, 1910, p. 6). This definition establishes reflective thinking as an active (not passive), sustained (not momentary), careful (not casual), and evidence-sensitive (not dogmatic) cognitive process.
 
-The modern field of critical thinking traces its most direct intellectual lineage to John Dewey, whose *How We Think* (1910, revised 1933) represents the first systematic attempt to analyze the psychological mechanisms of good thinking for educational purposes. Dewey's formulation was revolutionary for several reasons. First, it located critical thinking — which he called "reflective thought" — within the naturalistic framework of [[Pragmatism]], treating it not as an abstract logical capacity but as a biological organism's response to genuine problems. Thinking, for Dewey, begins with doubt — with an experienced disruption that creates a felt need for resolution.
+The modern field of critical thinking traces its most direct intellectual lineage to John Dewey, whose *How We Think* (1910, revised 1933) represents the first systematic attempt to analyze the psychological mechanisms of good thinking for educational purposes. Dewey's formulation was revolutionary for several reasons. First, it located critical thinking — which he called "reflective thought" — within the naturalistic framework of [[pragmatism]], treating it not as an abstract logical capacity but as a biological organism's response to genuine problems. Thinking, for Dewey, begins with doubt — with an experienced disruption that creates a felt need for resolution.
 
 Dewey identified five phases of reflective thought: (1) suggestion — the mind leaps to a possible solution; (2) intellectualization — the vague difficulty is formulated as a definite problem; (3) guiding idea or hypothesis — a tentative interpretation is developed; (4) reasoning — the hypothesis is elaborated through its implications; and (5) testing — the hypothesis is verified against experience. This phase model anticipates the process dimensions that later theorists would elaborate, and it embeds a crucial insight that many subsequent accounts neglect: reflective thinking is triggered by a genuine problematic situation, not by instruction to "think critically."
 
@@ -669,7 +669,7 @@ Returning to the guiding question posed in the schema activation: *What would it
 > **Definition:** Systematic patterns of deviation from normative standards in judgment and decision-making. Arise from reliance on simplifying [[Heuristics-and-Biases|heuristics]] that are generally adaptive but produce predictable errors in specific contexts.
 > **Boundary conditions:** Not all heuristic-based reasoning is biased — in ecologically valid environments, heuristics can outperform analytical strategies (Gigerenzer's "fast and frugal" heuristics). Bias is context-dependent.
 > **Report significance:** Frames the cognitive obstacles that critical thinking must overcome (Section 4).
-> **See also:** [[Availability-Heuristic]], [[Anchoring-Bias]], [[Representativeness-Heuristic]], [[Confirmation-Bias]]
+> **See also:** [[Availability-Heuristic]], [[Anchoring-Bias]], [[representativeness-heuristic]], [[Confirmation-Bias]]
 
 > [!definition] Self-Regulated Learning
 > **Term:** Self-Regulated Learning (Zimmerman, 2000; Pintrich, 2000)
@@ -750,7 +750,7 @@ Socrates (Method of Inquiry)
 > Can any standardized test validly assess critical thinking as it actually functions in real-world reasoning, given the domain-specificity of much CT and the social contexts in which reasoning occurs? The gap between test performance and real-world reasoning quality remains a significant challenge for assessment validity.
 
 > [!debate] Bias Correction: Awareness vs. Structural Change
-> **Position 1:** Awareness of cognitive biases, combined with metacognitive monitoring, enables individuals to correct for biases in their own reasoning ([[Debiasing|debiasing strategies]]).
+> **Position 1:** Awareness of cognitive biases, combined with metacognitive monitoring, enables individuals to correct for biases in their own reasoning ([[debiasing|debiasing strategies]]).
 > **Position 2:** Bias awareness is insufficient; biases operate below conscious awareness and persist even when people know about them. Effective correction requires structural changes (decision architecture, institutional processes, [[Nudge-Theory|nudge design]]) rather than individual effort.
 > **Current status:** Evidence supports elements of both positions. Individual debiasing is possible but difficult and inconsistent; structural interventions are more reliable but cannot cover all reasoning contexts.
 
@@ -896,7 +896,7 @@ Socrates (Method of Inquiry)
 > > **Depth potential:** Opens the social epistemology dimension of CT; connects to educational equity concerns.
 > > **Priority:** High — addresses a significant gap in the individualistic framing.
 >
-> > [!topic-idea] 3. [[Debiasing]] Strategies and Cognitive Intervention Science
+> > [!topic-idea] 3. [[debiasing]] Strategies and Cognitive Intervention Science
 > > **Connection:** Section 4 catalogued cognitive biases as CT barriers but did not thoroughly explore what works for mitigating them. The debiasing literature — including Lilienfeld et al.'s taxonomy, consider-the-opposite strategies, and Gigerenzer's ecological rationality critiques — maps directly onto CT pedagogy.
 > > **Depth potential:** Provides the bridge between cognitive bias identification and practical CT improvement strategies.
 > > **Priority:** High — directly actionable.
@@ -924,10 +924,10 @@ Socrates (Method of Inquiry)
 >
 > **Upstream Connections** (broader concepts this report draws from):
 > - [[Epistemology]] — the philosophical foundation for questions about knowledge quality, justification, and belief evaluation that motivate the entire CT enterprise
-> - [[Cognitive-Psychology]] — the empirical discipline providing the mechanisms (dual-process theory, working memory, heuristics) that explain how thinking works and fails
+> - [[cognitive-psychology]] — the empirical discipline providing the mechanisms (dual-process theory, working memory, heuristics) that explain how thinking works and fails
 > - [[Philosophy-of-Education]] — the normative tradition arguing that education should develop thinking capacity, not merely transmit information
 > - [[Virtue-Ethics]] — the ethical framework grounding the dispositional dimension of CT in character theory and the cultivation of excellence
-> - [[Philosophy-of-Science]] — scientific methodology as a domain-specific instantiation of CT principles; the demarcation problem as a CT challenge
+> - [[philosophy-of-science]] — scientific methodology as a domain-specific instantiation of CT principles; the demarcation problem as a CT challenge
 >
 > **Downstream Connections** (concepts this report enables or informs):
 > - [[Argument-Analysis]] — the practical application of CT frameworks to specific arguments; operationalized through informal logic and argumentation theory

@@ -319,7 +319,7 @@ Based on the plugin documentation:
 | Command | Transformation | Notes |
 |---------|---------------|-------|
 | **Markdown Links to Wikilinks** | `[text](url)` → `[[url\|text]]` | Converts standard markdown links |
-| **Wikilinks to Markdown** | `[[note]]` → `[note](note.md)` | URL encodes spaces |
+| **Wikilinks to Markdown** | `[[Note]]` → `[note](note.md)` | URL encodes spaces |
 | **Detect and Convert Links** | Auto-detect and convert bullet lists with links | Batch processing |
 
 > [!helpful-tip]

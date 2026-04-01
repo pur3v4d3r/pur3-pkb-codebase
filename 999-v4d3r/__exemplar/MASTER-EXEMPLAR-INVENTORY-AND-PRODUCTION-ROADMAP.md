@@ -108,7 +108,7 @@ assessment-status: phase-1-complete
    - **Words**: (words:: 5739)
    - **Lines**: (lines:: 1172)
    - **Contents**: 8 reasoning techniques with Python implementations
-   - **Techniques**: [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Program of Thoughts]], [[ReAct]], [[Reflexion]], [[Graph of Thoughts]], [[Chain-of-Thought]]
+   - **Techniques**: [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain-of-Verification]], [[Program of Thoughts]], [[ReAct]], [[Reflexion]], [[Graph of Thoughts]], [[Chain-of-Thought]]
    - **Features**: Decision frameworks, benchmarks, templates
    - **Quality**: (quality:: 9.5/10)
 

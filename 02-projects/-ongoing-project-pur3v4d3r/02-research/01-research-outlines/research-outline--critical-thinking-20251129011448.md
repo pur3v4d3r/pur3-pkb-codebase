@@ -155,7 +155,7 @@ Source: `= this.source`
 > 24. CT in PKB Systems → **Problem-Solving** (implementation)
 > **PKB INTEGRATION STRATEGY:**
 > - Create MOCs for: [[Critical-Thinking-Frameworks]], [[Intellectual-Standards]], [[Cognitive-Biases]]
-> - Heavy wiki-linking to concepts like [[Metacognition]], [[epistemology]], [[Logic]], [[Argumentation]]
+> - Heavy wiki-linking to concepts like [[Metacognition]], [[Epistemology]], [[Logic]], [[Argumentation]]
 > - Tag architecture: #critical-thinking/paul-elder, #critical-thinking/cognitive-biases, #critical-thinking/metacognition
 > - Each topic should generate atomic notes for key concepts
 > **VALIDATION:**
@@ -222,7 +222,7 @@ Applying CT skills to research, synthesis, and PKB integration
 4. How do different disciplines conceptualize and operationalize CT?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Critical-Thinking]], [[Metacognition]], [[Executive-Function]], [[Working-Memory]], [[Paul-Elder-Framework]], [[Bloom's-Taxonomy]], [[Facione's CT Model]], [[ACER Framework]], [[epistemology]], [[Cognitive-Architecture]]
+- Core concepts to wiki-link: [[Critical-Thinking]], [[Metacognition]], [[Executive-Function]], [[Working-Memory]], [[Paul-Elder-Framework]], [[Bloom's-Taxonomy]], [[Facione's CT Model]], [[ACER Framework]], [[Epistemology]], [[Cognitive-Architecture]]
 - Recommended tags: #critical-thinking/foundations #cognitive-science #educational-theory
 - Connection points: Links to existing [[Cognitive-Science]], [[Learning Theory]], [[philosophy]] notes; creates foundation for all subsequent CT topics
 
@@ -285,7 +285,7 @@ Applying CT skills to research, synthesis, and PKB integration
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Intellectual-Standards]], [[Clarity]], [[Accuracy]], [[Precision]], [[Relevance]], [[Depth]], [[Breadth]], [[Logic]], [[Significance]], [[Fairness]], [[Quality of Reasoning]], [[Evaluation Criteria]]
 - Recommended tags: #critical-thinking/intellectual-standards #evaluation-framework
-- Connection points: Links to [[MOC - Paul-Elder Framework]], [[epistemology]], [[Truth]], [[Evidence]], [[Argumentation]]
+- Connection points: Links to [[MOC - Paul-Elder Framework]], [[Epistemology]], [[Truth]], [[Evidence]], [[Argumentation]]
 
 **Prerequisites**: Topics 1-2 (CT foundations and Elements of Thought)
 
@@ -310,9 +310,9 @@ Applying CT skills to research, synthesis, and PKB integration
 5. What is the relationship between egocentric/sociocentric thinking and bias?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation-Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
+- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation-Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
 - Recommended tags: #cognitive-bias #logical-fallacies #critical-thinking/error-detection
-- Connection points: Create [[MOC - Cognitive Biases]]; links to [[Behavioral Economics]], [[Decision-Making]], [[epistemology]], [[psychology]]
+- Connection points: Create [[MOC - Cognitive Biases]]; links to [[Behavioral Economics]], [[Decision-Making]], [[Epistemology]], [[psychology]]
 
 **Prerequisites**: Topics 1-3 (foundation, elements, and standards provide framework for identifying violations)
 
@@ -340,7 +340,7 @@ Applying CT skills to research, synthesis, and PKB integration
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Argument]], [[Premise]], [[Conclusion]], [[Inference]], [[Validity]], [[Soundness]], [[Deductive-Reasoning]], [[Inductive-Reasoning]], [[Abductive-Reasoning]], [[Evidence]], [[Warrant]], [[Toulmin-Model]], [[Argument Structure]], [[Hidden Assumptions]]
 - Recommended tags: #argumentation #critical-thinking/analysis #logic
-- Connection points: Links to [[Logic]], [[Rhetoric]], [[epistemology]], [[Academic Writing]]; create [[MOC - Argumentation Theory]]
+- Connection points: Links to [[Logic]], [[Rhetoric]], [[Epistemology]], [[Academic Writing]]; create [[MOC - Argumentation Theory]]
 
 **Prerequisites**: Topics 1-4 (need Elements framework, Standards, and bias awareness)
 
@@ -368,7 +368,7 @@ Applying CT skills to research, synthesis, and PKB integration
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Intellectual-Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Fairmindedness]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Stages of CT Development]], [[Virtue-Epistemology]], [[Character Development]]
 - Recommended tags: #critical-thinking/intellectual-traits #virtue-epistemology #self-development
-- Connection points: Complete [[MOC - Paul-Elder Framework]]; links to [[Ethics]], [[Virtue-Ethics]], [[epistemology]], [[Self-Improvement]]
+- Connection points: Complete [[MOC - Paul-Elder Framework]]; links to [[Ethics]], [[Virtue-Ethics]], [[Epistemology]], [[Self-Improvement]]
 
 **Prerequisites**: Topics 1-5 (need full understanding of Elements and Standards framework)
 
@@ -567,7 +567,7 @@ Generate a comprehensive academic report on the Foundations of Critical Thinking
 5. **Provides PKB Capture Guidance**:
    - Key concepts to create atomic notes for: [[Critical-Thinking]], [[Paul-Elder-Framework]], [[Facione's CT Model]], [[Bloom's-Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive-Function]]
    - Recommended metadata tags: #critical-thinking/foundations #cognitive-science #educational-theory
-   - Connection points to [[Cognitive-Science]], [[Learning Theory]], [[philosophy]], [[epistemology]]
+   - Connection points to [[Cognitive-Science]], [[Learning Theory]], [[philosophy]], [[Epistemology]]
    - Suggest structure for [[MOC - Critical Thinking]]
 
 6. **Includes Practical Examples**:
@@ -748,7 +748,7 @@ Generate a comprehensive academic report on Intellectual Standards that:
    - Atomic notes: [[Intellectual-Standards]], [[Clarity]], [[Accuracy]], [[Precision]], [[Relevance]], [[Depth]], [[Breadth]], [[Logic]], [[Significance]], [[Fairness]]
    - Tags: #critical-thinking/intellectual-standards #evaluation-framework
    - Expand [[MOC - Paul-Elder Framework]]
-   - Links to [[epistemology]], [[Truth]], [[Evidence]], [[Quality of Reasoning]]
+   - Links to [[Epistemology]], [[Truth]], [[Evidence]], [[Quality of Reasoning]]
 
 Target Depth: Comprehensive with reusable evaluation tools
 Expected Length: 3500-4500 words
@@ -984,7 +984,7 @@ Generate a comprehensive academic report on Argument Analysis and Evaluation tha
    - Atomic notes: [[Argument]], [[Premise]], [[Conclusion]], [[Validity]], [[Soundness]], [[Deductive-Reasoning]], [[Inductive-Reasoning]], [[Abductive-Reasoning]], [[Evidence Evaluation]], [[Assumptions]]
    - Tags: #argumentation #critical-thinking/analysis #logic
    - Create argument analysis template for Obsidian
-   - Link to [[Logic]], [[Rhetoric]], [[Academic Writing]], [[epistemology]]
+   - Link to [[Logic]], [[Rhetoric]], [[Academic Writing]], [[Epistemology]]
 
 Target Depth: Comprehensive analytical toolkit with extensive examples
 Expected Length: 4500-5500 words
@@ -1495,7 +1495,7 @@ Generate a comprehensive academic report on Critical Thinking in Academic Knowle
     - Tags: #academic-skills #research-methods #critical-thinking/application
     - Create academic article analysis template
     - Create literature synthesis template
-    - Links to [[Research Methodology]], [[Academic Writing]], [[epistemology]], [[Information Literacy]]
+    - Links to [[Research Methodology]], [[Academic Writing]], [[Epistemology]], [[Information Literacy]]
 
 Target Depth: Comprehensive with extensive worked examples
 Expected Length: 5000-6000 words
@@ -1904,7 +1904,7 @@ This plan is a **living document**. Adapt based on:
 3. **[[Cognitive Science of Reasoning]]**
    - *Connection*: Scientific understanding of reasoning mechanisms underlying CT (dual-process theory, mental models, etc.)
    - *Depth Potential*: Empirical research on how humans actually reason vs how we ought to reason; neuroscience of executive function
-   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[cognitive-psychology]], [[Neuroscience]], [[Behavioral Economics]]
+   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[cognitive-psychology]], [[neuroscience]], [[Behavioral Economics]]
 
 4. **[[Rhetoric and Persuasion]]**
    - *Connection*: Complements CT's analytical focus with understanding of how arguments are constructed to persuade
@@ -1924,7 +1924,7 @@ This plan is a **living document**. Adapt based on:
 7. **[[Decision Making and Judgment Under Uncertainty]]**
    - *Connection*: CT applied to practical decision contexts; extends bias awareness from Topic 4
    - *Depth Potential*: Probability judgment, risk assessment, decision heuristics, medical/legal/business decision-making
-   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[Behavioral Economics]], [[Risk Management]], [[Applied Ethics]], [[Professional Practice]]
+   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[Behavioral Economics]], [[Risk Management]], [[Applied-Ethics]], [[Professional Practice]]
 
 8. **[[Creative Thinking and Innovation]]**
    - *Connection*: Complements CT's evaluative focus with generative thinking; shows how they work together

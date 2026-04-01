@@ -223,7 +223,7 @@ Each figure entry MUST include:
 > [!person] **Daniel Kahneman (b. 1934)**
 > Israeli-American psychologist, Nobel laureate (2002). With [[Amos-Tversky]], established the heuristics and biases research program that became Dual Process Theory. *Thinking, Fast and Slow* (2011) is the primary synthetic work referenced here.
 >
-> **Lineage:** Emerged from the judgment under uncertainty tradition of [[Ward Edwards]] and [[Herbert Simon]]. Tversky was the mathematical architect; Kahneman the psychological theorist. Extended by [[Keith-Stanovich]]'s individual differences approach and [[Wim De Neys]]'s conflict monitoring research.
+> **Lineage:** Emerged from the judgment under uncertainty tradition of [[Ward Edwards]] and [[Herbert-Simon]]. Tversky was the mathematical architect; Kahneman the psychological theorist. Extended by [[Keith-Stanovich]]'s individual differences approach and [[Wim-De-Neys]]'s conflict monitoring research.
 >
 > **Relationship to Report:** Provides the cognitive architecture (System 1/System 2) that operationalizes what Dewey described phenomenologically and what Socrates produced dialectically.
 
@@ -237,7 +237,7 @@ Each figure entry MUST include:
 > [!person] **John Flavell (b. 1928)**
 > American developmental psychologist, Stanford University. Founded metacognition as a research field with his 1979 *American Psychologist* paper. Defined the core constructs (metacognitive knowledge, metacognitive experiences, goals, strategies) that remain the framework's foundation.
 >
-> **Lineage:** Emerged from [[Piaget]]'s developmental epistemology and [[Vygotsky]]'s zone of proximal development. Extended by [[Gregory-Schraw]]'s Metacognitive Awareness Inventory, [[Stephen Fleming]]'s neuroscience of metacognition, and [[Janet Metcalfe]]'s region of proximal learning framework.
+> **Lineage:** Emerged from [[Piaget]]'s developmental epistemology and [[Vygotsky]]'s zone of proximal development. Extended by [[Gregory-Schraw]]'s Metacognitive Awareness Inventory, [[Stephen-Fleming]]'s neuroscience of metacognition, and [[Janet-Metcalfe]]'s region of proximal learning framework.
 >
 > **Relationship to Report:** Provides the metacognitive architecture that explains *how* the monitoring signals described by De Neys and Dewey are represented, tracked, and acted upon.
 
@@ -1342,7 +1342,7 @@ prerequisites:
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
-  - "[[Metacognitive Awareness Inventory]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
   - "[[Epistemic-Vigilance]]"
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
@@ -1373,15 +1373,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise Development]]"
-  - "[[Reflective Judgment Model]]"
+  - "[[Expertise-Development]]"
+  - "[[Reflective-Judgment-Model]]"
   - "[[Intellectual-Humility]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
   - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem Analysis]]"
-  - "[[Red Team Thinking]]"
-  - "[[Cognitive Forcing Functions]]"
+  - "[[Pre-Mortem-Analysis]]"
+  - "[[Red-Team-Thinking]]"
+  - "[[Cognitive-Forcing-Functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -3161,7 +3161,7 @@ For consistency across all reports, the following callout types constitute the a
 ### Formatting Rules
 
 1. **Obsidian callout syntax**: `> [!callout-type] **Title**` — no deviation
-2. **Wiki-link format**: `[[Note Name]]` or `[[Note Name|Display Text]]` — consult permanent notes list
+2. **Wiki-link format**: `[[Note-Name]]` or `[[Note-Name|Display Text]]` — consult permanent notes list
 3. **YAML frontmatter**: Complete, all fields filled, no placeholders
 4. **Code fences**: Language-specified (` ```python `, ` ```markdown `, ` ``` ` for ASCII art)
 5. **Headers**: H1 for report title only; H2 for phases; H3 for subsections; H4 for appendix entries

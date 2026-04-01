@@ -24,27 +24,27 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 35
+referenced-by-count: 38
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Apt-Epistemic-Performance]]"
   - "[[Concurrent-Expression]]"
   - "[[Epistemic-Character]]"
   - "[[Epistemic-Character-as-Concurrent-Expression]]"
   - "[[Functional-Psychology]]"
   - "[[Genetic-Epistemology]]"
+  - "[[Identified-Regulation-vs.-Integrated-Regulation]]"
   - "[[Integrated-Cognitive-Personhood]]"
   - "[[Metacognitive-Self-Regulation]]"
   - "[[Narrative-Coherence-as-Cognitive-Architecture]]"
@@ -60,30 +60,30 @@ importance: high
 # Dewey's-Reflective-Thinking
 
 > [!definition] **Dewey's-Reflective-Thinking**
-> *Stub note — concept referenced by 35 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 38 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 35 permanent notes.*
+*Auto-generated stub — referenced by 38 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Apt-Epistemic-Performance]]
 - [[Concurrent-Expression]]
 - [[Epistemic-Character]]
 - [[Epistemic-Character-as-Concurrent-Expression]]
 - [[Functional-Psychology]]
 - [[Genetic-Epistemology]]
+- [[Identified-Regulation-vs.-Integrated-Regulation]]
 - [[Integrated-Cognitive-Personhood]]
 - [[Metacognitive-Self-Regulation]]
 - [[Narrative-Coherence-as-Cognitive-Architecture]]
 - [[Pragmatic-Maxim]]
 - [[Prokoptn]]
 - [[Prokoptōn]]
+- [[Recursive-Self-Authorship]]
+- [[Scaffolded-Fading]]
+- [[Schema-Accommodation]]
 - [[Stream-of-Consciousness]]
 - [[The-Tier-1-Structural-Limitation]]
 - [[Viability]]
 - [[📖-Accommodation]]
-- [[📖-Apt-Epistemic-Performance]]
-- [[📖-Concurrent-Expression]]
-- [[📖-Epistemic-Character]]
-- *...and 15 more permanent notes*
+- *...and 18 more permanent notes*

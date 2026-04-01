@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 18
+referenced-by-count: 17
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Articulatory-Construction-Principle]]"
   - "[[Audience-Simulation-Effect]]"
   - "[[Cognitive-Surface-Area]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Knowledge-Telling-vs.-Knowledge-Transforming]]"
   - "[[Productive-Friction]]"
   - "[[Retrieval-Writing]]"
+  - "[[The-Articulatory-Construction-Principle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # writing-to-learn-focused-analysis-2026-03-21
 
 > [!definition] **writing-to-learn-focused-analysis-2026-03-21**
-> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 18 permanent notes.*
+*Auto-generated stub — referenced by 17 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Articulatory-Construction-Principle]]
 - [[Audience-Simulation-Effect]]
 - [[Cognitive-Surface-Area]]

@@ -159,7 +159,7 @@ dv.paragraph(`**Total Learning & Memory Notes**: ${total}`);
   - [**Ebbinghaus-Forgetting-Curve**:: the exponential decay function describing memory retention, showing rapid initial forgetting (50% loss within hours) followed by slower decline—mitigated by spaced review and meaningful encoding.]
 
 ### Information Processing
-- [[Information Theory]] - Quantifying information and communication
+- [[Information-Theory]] - Quantifying information and communication
   - [**Information-Theory-Application**:: Shannon's framework applies to human cognition through concepts like channel capacity (working memory limits), redundancy (elaborative encoding), and noise (interference)—providing mathematical tools for analyzing learning efficiency.]
 
 ```dataview
@@ -458,8 +458,8 @@ if (bridges.length > 0) {
 - [[Cognitive-Load-Theory]] ↔ [[Cognitive-Behavioral-Therapy]] (working memory in rumination)
 
 **Learning & Memory ↔ Philosophy**
-- [[Learning Theory]] ↔ [[epistemology]] (nature of knowledge)
-- [[Transfer-of-Learning]] ↔ [[Pragmatism]] (application to novel contexts)
+- [[Learning Theory]] ↔ [[Epistemology]] (nature of knowledge)
+- [[Transfer-of-Learning]] ↔ [[pragmatism]] (application to novel contexts)
 - [[Schema-Theory]] ↔ [[Epistemic-Cognition]] (knowledge organization)
 
 **Learning & Memory ↔ Applied Techniques**
@@ -484,9 +484,9 @@ if (bridges.length > 0) {
 ### External MOCs (Cross-References)
 - [[cognitive-science-moc]] - Broader cognitive architecture context
 - [[Educational Psychology MOC]] - Developmental and motivational aspects
-- [[Neuroscience MOC]] - Neural mechanisms of learning and memory
+- [[neuroscience-moc]] - Neural mechanisms of learning and memory
 - [[Psychology MOC]] - Motivation, emotion, individual differences
-- [[PKB & PKM MOC]] - Applied learning techniques in knowledge management
+- [[pkb-&-pkm-moc]] - Applied learning techniques in knowledge management
 - [[Planning & Study Techniques MOC]] - Practical implementation strategies
 
 ---

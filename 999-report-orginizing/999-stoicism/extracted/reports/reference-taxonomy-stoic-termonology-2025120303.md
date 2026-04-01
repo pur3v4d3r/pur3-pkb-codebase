@@ -379,7 +379,7 @@ The foundation of [[Stoicism]] rests on understanding **what we are striving for
 > - **Key-Term**:: [[Telos]] (τέλος)
 > - **Pronunciation**:: TEL-os
 > - **Definition**:: The ultimate aim or final end of human life; that which we pursue for its own sake and not for any other purpose
-> - **Stoic Specification**:: For Stoics, the telos is "living in agreement with nature" (homologoumenōs tē physei zēn), which means developing one's [[Rational Nature]] fully through [[Virtue]]
+> - **Stoic Specification**:: For Stoics, the telos is "living in agreement with nature" (homologoumenōs tē physei zēn), which means developing one's [[Rational-Nature]] fully through [[Virtue]]
 > - **Key Formulations**:: "Living according to nature" | "Living virtuously" | "Living in agreement with reason"
 > - **Practical Application**:: When making decisions, ask "Does this develop my character and reason?" rather than "Does this bring pleasure or profit?"
 > - **Cross-References**:: See [[Eudaimonia]], [[Arete]], [[Kata Physin]], [[Oikeiosis]]
@@ -392,7 +392,7 @@ The foundation of [[Stoicism]] rests on understanding **what we are striving for
 > - **Definition**:: The state of human flourishing, happiness, or well-being achieved through virtuous living; not pleasure or contentment but a deep sense of living well
 > - **Stoic Distinction**:: Unlike [[Epicureanism]] (pleasure) or popular conceptions (external success), Stoic eudaimonia is exclusively tied to [[Virtue]] and **cannot** be achieved through external goods
 > - **Marcus Aurelius**: "The happiness of your life depends upon the quality of your thoughts" (Meditations 4.3)
-> - **Common Misconception**:: This is NOT about "feeling happy" in the modern sense—it's about living in harmony with your [[Rational Nature]]
+> - **Common Misconception**:: This is NOT about "feeling happy" in the modern sense—it's about living in harmony with your [[Rational-Nature]]
 > - **Practical Application**:: Evaluate your day not by outcomes but by whether you acted with [[Wisdom]], [[Justice]], [[Courage]], and [[Temperance]]
 > - **Cross-References**:: See [[Arete]], [[Telos]], [[Apatheia]], [[Ataraxia]]
 
@@ -464,7 +464,7 @@ The Stoic [[Theory of Value]] provides a revolutionary framework for understandi
 
 ## ⚖️ Ethical Framework - Virtue & Character
 
-The Stoic [[Ethical Framework]] centers on [[Virtue]] as the sole good and [[Vice]] as the sole evil. This section explores the architecture of moral excellence through the [[Four Cardinal Virtues]], their opposites, and the path of moral development from beginner ([[Prokoptôn]]) to sage ([[Sophos]]).
+The Stoic [[Ethical Framework]] centers on [[Virtue]] as the sole good and [[Vice]] as the sole evil. This section explores the architecture of moral excellence through the [[Four-Cardinal-Virtues]], their opposites, and the path of moral development from beginner ([[Prokoptôn]]) to sage ([[Sophos]]).
 
 > [!principle-point]
 > **Foundation of Stoic Ethics**: Character is the only thing fully within our control ([[Eph' Hêmin]]) and therefore the only legitimate source of self-evaluation. External events test our character but cannot determine it—that power belongs exclusively to our [[Prohairesis]] (moral will).
@@ -523,7 +523,7 @@ The Stoic [[Ethical Framework]] centers on [[Virtue]] as the sole good and [[Vic
 > - **Cross-References**:: See [[Enkrateia]], [[Autarkeia]], [[Apatheia]], [[Metriopatheia]]
 
 > [!key-claim]
-> **Unity of the Virtues**: The Stoics held that the [[Four Cardinal Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
+> **Unity of the Virtues**: The Stoics held that the [[Four-Cardinal-Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
 
 ### Vice, Error, and Moral Progress
 
@@ -578,7 +578,7 @@ The Stoic [[Ethical Framework]] centers on [[Virtue]] as the sole good and [[Vic
 
 ## 🧠 Psychology & Cognition - Mental Operations
 
-The Stoic [[Philosophy of Mind]] provides a sophisticated model of how impressions become beliefs, beliefs become actions, and actions shape character. This psychological framework is the foundation of [[Stoic Practice]]—understanding the mental operations we control ([[Eph' Hêmin]]) versus what happens to us automatically.
+The Stoic [[philosophy-of-mind]] provides a sophisticated model of how impressions become beliefs, beliefs become actions, and actions shape character. This psychological framework is the foundation of [[Stoic Practice]]—understanding the mental operations we control ([[Eph' Hêmin]]) versus what happens to us automatically.
 
 > [!key-claim]
 > **The Stoic Psychological Chain**: Events → [[Phantasia]] (impression) → [[Sunkatathesis]] (assent) → [[hormê]] (impulse) → [[Praxis]] (action). The critical point where we have power is **assent**—we can examine impressions before accepting them as true.
@@ -735,7 +735,7 @@ Stoic [[Cosmology]] and [[Theology]] are inseparable from ethics—understanding
 > - **Marcus Aurelius**: "Accept whatever comes to you woven in the pattern of your destiny, for what could more aptly fit your needs?" (Meditations 5.8)
 > - **Practical Application**: Don't rage against what must be—focus on your [[Prohairesis]] (how you respond), which is truly yours
 > - **Therapeutic Function**: Accepting [[Heimarmenê]] eliminates anxiety about outcomes beyond our control
-> - **Cross-References**:: See [[Logos]], [[Pronoia]], [[Amor Fati]], [[Sympatheia]]
+> - **Cross-References**:: See [[Logos]], [[Pronoia]], [[Amor-Fati]], [[Sympatheia]]
 
 > [!definition]
 > - **Key-Term**:: [[Pronoia]] (πρόνοια)
@@ -836,7 +836,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Common Mistake**: Treating [[Ouk Eph' Hêmin]] as [[Eph' Hêmin]]—investing emotional energy in what we don't control
 > - **Result of Confusion**: Anxiety, frustration, anger, grief about externals all stem from treating [[Ouk Eph' Hêmin]] as important to happiness
 > - **Practical Application**: When anxious, check: "Am I worrying about something not actually in my power? Can I redirect focus to my response?"
-> - **Cross-References**:: See [[Eph' Hêmin]], [[Adiaphora]], [[Prohairesis]], [[Reserve Clause]]
+> - **Cross-References**:: See [[Eph' Hêmin]], [[Adiaphora]], [[Prohairesis]], [[Reserve-Clause]]
 
 > [!definition]
 > - **Key-Term**:: [[Kathêkon]] (καθῆκον)
@@ -858,7 +858,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Pronunciation**:: AH-skeh-sis
 > - **Translation**:: Training, discipline, exercise, practice
 > - **Definition**:: Systematic spiritual and ethical training designed to develop [[Virtue]]; disciplined practices that strengthen the soul just as physical exercise strengthens the body
-> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent]]
+> - **Epictetus' Three Topoi**: (1) [[Discipline-of-Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent]]
 > - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio-Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
 > - **Not Asceticism**: Goal is not self-denial for its own sake but training toward [[Virtue]] and [[Apatheia]]
 > - **Seneca**: "Cherish some man of high character, and keep him ever before your eyes, living as if he watched you, and ordering all your actions as if he beheld them" (Moral Letters 11.8)
@@ -919,7 +919,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Cross-References**:: See [[Askesis]], [[Prosochê]], [[Evening Review]], [[Marcus Aurelius Meditations]]
 
 > [!definition]
-> - **Key-Term**:: [[Amor Fati]] (Latin)
+> - **Key-Term**:: [[Amor-Fati]] (Latin)
 > - **Translation**:: "Love of fate" or "Love of one's fate"
 > - **Definition**:: The practice of embracing everything that happens as necessary, meaningful, and ultimately for the best; willing acceptance of all events, pleasant or difficult
 > - **Marcus Aurelius**: "A blazing fire makes flame and brightness out of everything that is thrown into it" (Meditations 10.31)
@@ -934,20 +934,20 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 
 ## 🔍 Logic & Epistemology - Reasoning & Truth
 
-Stoic [[Logic]] ([[Logikê]]) encompasses more than formal reasoning—it includes [[epistemology]] (theory of knowledge), [[Rhetoric]], and the study of language. For Stoics, logic was essential as the foundation for correct judgment, which in turn determines [[Virtue]]. The [[Three Disciplines]] structure Stoic spiritual practice around proper use of impressions, desires, and actions.
+Stoic [[Logic]] ([[Logikê]]) encompasses more than formal reasoning—it includes [[Epistemology]] (theory of knowledge), [[Rhetoric]], and the study of language. For Stoics, logic was essential as the foundation for correct judgment, which in turn determines [[Virtue]]. The [[Three Disciplines]] structure Stoic spiritual practice around proper use of impressions, desires, and actions.
 
 > [!definition]
 > - **Key-Term**:: [[The Three Disciplines / Topoi]] (τόποι)
 > - **Pronunciation**:: TOH-poy (plural)
 > - **Translation**:: The three areas of training, the three topics
-> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent]] (sunkatathesis)
+> - **Epictetus' Framework**: (1) [[Discipline-of-Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent]] (sunkatathesis)
 > - **Definition**:: The three domains of practical Stoic training, each addressing a different aspect of human psychology and corresponding to branches of philosophy
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
 > - **Pierre Hadot**: Identified these as structuring principle of [[Marcus-Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
-> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent]]
+> - **Cross-References**:: See [[Discipline-of-Desire]], [[Discipline of Action]], [[Discipline-of-Assent]]
 
 > [!definition]
 > - **Key-Term**:: [[Lekton]] (λεκτόν)

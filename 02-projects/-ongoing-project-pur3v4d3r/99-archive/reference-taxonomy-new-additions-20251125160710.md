@@ -891,7 +891,7 @@ Wiki-Link Opportunities:
 - [[Metacognition]]
 - [[Knowledge-Graph]]
 - [[Zettelkasten]]
-- [[PARA Method]]
+- [[PARA-Method]]
 - [[GTD]]
 - [[Spaced-Repetition]]
 - [[Active Recall]]
@@ -953,7 +953,7 @@ These tags categorize notes based on *what function* the brain/mind is performin
   * **`#cog-sci/memory`**: The storage and retrieval mechanisms.
       * *Use for:* [[Long-Term Potentiation]], [[Working-Memory]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]].
   * **`#cog-sci/attention`**: The allocation of cognitive resources.
-      * *Use for:* [[Selective-Attention]], [[Flow State]], [[Attentional Blink]].
+      * *Use for:* [[Selective-Attention]], [[Flow-State]], [[Attentional Blink]].
   * **`#cog-sci/learning`**: The acquisition of knowledge and skills.
       * *Use for:* [[Hebbian Learning]], [[Operant Conditioning]], [[Constructivism]].
   * **`#cog-sci/decision-making`**: Evaluation, judgment, and choice.

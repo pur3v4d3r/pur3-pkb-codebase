@@ -6598,7 +6598,7 @@ Identify and link any term that meets these criteria:
 - Named model, theory, or systematic approach
 - Attributed to specific researcher/thinker
 - Has literature/research supporting it
-- Examples: [[Dual-Coding-Theory]], [[PARA Method]], [[Bloom's-Taxonomy]]
+- Examples: [[Dual-Coding-Theory]], [[PARA-Method]], [[Bloom's-Taxonomy]]
 
 ✓ **Methodological Process**
 - Step-by-step procedure or technique
@@ -6623,7 +6623,7 @@ Identify and link any term that meets these criteria:
 **CATEGORY 3: Disciplinary Knowledge Domains**
 
 ✓ **Academic Fields**
-- Broad domains: [[Cognitive-Science]], [[Neuroscience]], [[Instructional-Design]]
+- Broad domains: [[Cognitive-Science]], [[neuroscience]], [[Instructional-Design]]
 - Subdisciplines: [[Educational-Psychology]], [[Human-Computer Interaction]]
 - Research areas: [[Learning-Analytics]], [[Metacognition]]
 
@@ -6654,7 +6654,7 @@ Identify and link any term that meets these criteria:
 
 ✓ **Named Methods & Systems**
 - Methods attributed to individuals: [[Feynman Technique]], [[Cornell Notes]]
-- Proprietary systems: [[Getting Things Done]], [[Bullet Journal]]
+- Proprietary systems: [[Getting-Things-Done]], [[Bullet Journal]]
 - Historical approaches: [[Commonplace Book]], [[Memory Palace]]
 
 ### Link Density Guidelines (Target Ranges)
@@ -7324,7 +7324,7 @@ and maintains readability.]
 
 **LIST-STYLE FORMAT** (Multiple values):
 ```markdown
-**Related-Concepts**:: [[Concept-1]], [[Concept-2]], [[Concept 3]]
+**Related-Concepts**:: [[Concept-1]], [[Concept-2]], [[Concept-3]]
 ```
 
 **SYNTAX RULES (Detailed):**
@@ -8582,7 +8582,7 @@ Include when:
 
 ## 🔄 Related MOCs
 
-- **[[Learning Theory MOC]]** - This note fits within broader collection of learning frameworks including behaviorism, constructivism, and connectivism
+- **[[learning-theory-moc]]** - This note fits within broader collection of learning frameworks including behaviorism, constructivism, and connectivism
 - **[[Instructional Design Frameworks MOC]]** - CLT is one of several evidence-based frameworks (ADDIE, Backwards Design, UDL) organized in this navigation hub
 
 ---``

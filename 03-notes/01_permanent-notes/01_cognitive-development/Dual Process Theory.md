@@ -26,7 +26,7 @@ link-related:
   - "[[Cognitive-Science]]"
   - "[[Critical-Thinking]]"
   - "[[Educational-Psychology]]"
-  - "[[Information Theory]]"
+  - "[[Information-Theory]]"
 date created: 2025-11-05T18:37:07
 date modified: 2025-11-05T21:48:01
 maturity: seedling

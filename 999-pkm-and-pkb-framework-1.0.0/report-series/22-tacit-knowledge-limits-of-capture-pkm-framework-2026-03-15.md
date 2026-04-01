@@ -98,7 +98,7 @@ related-concepts:
   - "[[Procedural-Memory|Procedural Memory]]"
   - "[[Declarative-Memory]]"
   - "[[Automaticity]]"
-  - "[[Reflection-in-Action]]"
+  - "[[Reflection-in-action]]"
   - "[[Reflection-on-Action]]"
   - "[[Schön Reflective Practitioner]]"
   - "[[Expert Intuition]]"
@@ -317,7 +317,7 @@ Report 08 introduced [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Le
 
 The Kolb cycle's most PKB-relevant stage — Abstract Conceptualization, where experience becomes generalizable insight — is precisely the SECI Externalization move. But Kolb's cycle also contains what SECI's framework makes explicit: Active Experimentation is Internalization — the return of explicit insight to embodied practice. The full cycle is not complete until Internalization has occurred; a PKB that captures Abstract Conceptualizations without prompting Active Experimentation is systematically missing the second half of the cycle.
 
-Furthermore, [[Schön's Reflective Practitioner]] framework, also introduced in Report 08, distinguishes [[Reflection-in-Action]] (the real-time, tacit adjustment of skilled practice) from [[Reflection-on-Action]] (the post-hoc, explicit articulation of what happened). A PKB captures Reflection-on-Action; Reflection-in-Action is uncapturable by definition — it is happening in the midst of performance, in a timeframe too compressed for documentation. The most sophisticated aspect of expert performance — the live adjustment, the felt sense of the situation changing — lives in Reflection-in-Action and is invisible to the PKB.
+Furthermore, [[Schön's Reflective Practitioner]] framework, also introduced in Report 08, distinguishes [[Reflection-in-action]] (the real-time, tacit adjustment of skilled practice) from [[Reflection-on-Action]] (the post-hoc, explicit articulation of what happened). A PKB captures Reflection-on-Action; Reflection-in-Action is uncapturable by definition — it is happening in the midst of performance, in a timeframe too compressed for documentation. The most sophisticated aspect of expert performance — the live adjustment, the felt sense of the situation changing — lives in Reflection-in-Action and is invisible to the PKB.
 
 > [!analytical-insight] **The PKB as a Reflection-on-Action Archive**
 > The PKB is precisely and only a Reflection-on-Action system. It captures what you know after the fact — what you can articulate in retrospect about experiences, concepts, and insights. It cannot capture Reflection-in-Action, which is where expert performance lives. This is not a flaw in the PKB; it is a structural feature. Knowing this boundary allows the PKB user to invest appropriately: rich, textured Reflection-on-Action capture is genuinely valuable (for building conceptual scaffolding, for developing novice and intermediate understanding, for the externalization that makes knowledge shareable and combinable). But it must be paired with deliberate practice that develops Reflection-in-Action through repeated situated engagement.
@@ -444,7 +444,7 @@ This synthesis raises questions that warrant further inquiry. Does the Observato
 >
 > - **[[Externalization-Exercises|Externalization Exercises]]** — A collection of structured prompts and formats for converting tacit knowledge to explicit form: analogy generation, extreme case comparison, teaching-to-novice drafts, annotated example sets. These are the operational tools of SECI Externalization and should be first-class note templates in a mature PKB.
 >
-> - **[[Reflection-in-Action]]** — The form of knowing that a PKB fundamentally cannot capture. Maintaining a link to this concept in expert-domain notes serves as a persistent reminder that the most important knowing in high-performance domains is happening in real-time, pre-reflectively, and is invisible to any documentation system.
+> - **[[Reflection-in-action]]** — The form of knowing that a PKB fundamentally cannot capture. Maintaining a link to this concept in expert-domain notes serves as a persistent reminder that the most important knowing in high-performance domains is happening in real-time, pre-reflectively, and is invisible to any documentation system.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >

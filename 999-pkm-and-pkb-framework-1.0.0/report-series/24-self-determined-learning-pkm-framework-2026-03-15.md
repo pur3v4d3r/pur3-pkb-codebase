@@ -72,7 +72,7 @@ related-concepts:
   - "[[Learning Identity]]"
   - "[[Epistemic Agency]]"
   - "[[Argyris & Schön]]"
-  - "[[Transformative Learning]]"
+  - "[[Transformative-Learning]]"
   - "[[Jack Mezirow]]"
   - "[[Hase & Kenyon]]"
   - "[[Malcolm-Knowles]]"

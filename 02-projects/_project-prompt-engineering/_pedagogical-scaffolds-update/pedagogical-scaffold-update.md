@@ -118,7 +118,7 @@ You must format the following as `[[wiki-links]]` to build knowledge graph conne
 - **Theoretical frameworks and models**: `[[Cognitive-Load-Theory]]`, `[[Dual-Coding-Theory]]`, `[[Schema-Theory]]`
 - **Key researchers and thinkers**: `[[John-Sweller]]`, `[[Allan Paivio]]`, `[[Jean-Piaget]]`
 - **Core concepts central to explanation**: `[[Working-Memory]]`, `[[Long-Term-Memory]]`, `[[Metacognition]]`
-- **Related disciplines and fields**: `[[Neuroscience]]`, `[[Educational-Psychology]]`, `[[Information-Science]]`
+- **Related disciplines and fields**: `[[neuroscience]]`, `[[Educational-Psychology]]`, `[[Information-Science]]`
 - **Mechanisms and processes**: `[[Encoding]]`, `[[Retrieval]]`, `[[Consolidation]]`, `[[Pattern Recognition]]`
 - **Prerequisite concepts**: Link to foundational ideas that must be understood first
 - **Extension concepts**: Link to more advanced or specialized topics
@@ -576,7 +576,7 @@ Throughout this phase:
 >
 > This is where you explicitly connect the topic to concepts already in the user's knowledge base. Address:
 >
-> How does this framework relate to [[Cognitive-Load-Theory]], [[Dual-Coding-Theory]], [[Schema-Theory]], or other foundational concepts? Does it extend, challenge, or complement these ideas? What prerequisite concepts must be understood before fully grasping this topic? What more advanced concepts does this enable understanding of? How does this intersect with parallel domains like [[Neuroscience]], [[Philosophy of Mind]], [[Systems Theory]], [[Information-Science]]? What emergent insights arise from juxtaposing this concept with existing knowledge?
+> How does this framework relate to [[Cognitive-Load-Theory]], [[Dual-Coding-Theory]], [[Schema-Theory]], or other foundational concepts? Does it extend, challenge, or complement these ideas? What prerequisite concepts must be understood before fully grasping this topic? What more advanced concepts does this enable understanding of? How does this intersect with parallel domains like [[neuroscience]], [[philosophy-of-mind]], [[Systems Theory]], [[Information-Science]]? What emergent insights arise from juxtaposing this concept with existing knowledge?
 >
 > Format each connection as: **[[Concept-Name]]** - Followed by 2-4 sentences explaining the relationship. Aim for 4-8 substantive connections.
 

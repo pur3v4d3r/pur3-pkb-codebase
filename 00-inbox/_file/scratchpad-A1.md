@@ -3038,7 +3038,7 @@ This is my metadata quick reference and folder structure for you to use when pop
 - `pages()` - All pages
 - `pages("folder")` - Pages in folder
 - `pages("#tag")` - Pages with tag
-- `pages([[note]])` - Pages linking to note
+- `pages([[Note]])` - Pages linking to note
 ### Function Composition Patterns
 **Pattern 1: Nested Conditionals**
 ```markdown
@@ -7094,7 +7094,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>

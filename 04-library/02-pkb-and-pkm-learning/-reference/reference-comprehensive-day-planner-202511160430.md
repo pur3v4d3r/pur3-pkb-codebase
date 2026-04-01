@@ -1777,7 +1777,7 @@ Templater script that runs when you close a daily note:
 
 ### Integration with Review Systems
 
-Day Planner shines when integrated with periodic review practices ([[GTD Weekly Review]], [[Quarterly Planning]], etc.).
+Day Planner shines when integrated with periodic review practices ([[GTD-Weekly-Review]], [[Quarterly Planning]], etc.).
 
 **Daily Review Integration:**
 

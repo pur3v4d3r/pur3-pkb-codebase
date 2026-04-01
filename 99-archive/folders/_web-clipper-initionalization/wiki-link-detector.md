@@ -40,7 +40,7 @@ These deserve wiki-links whenever mentioned:
 | Category | Examples |
 |----------|----------|
 | Named Theories | [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], [[Schema-Theory]] |
-| Named Frameworks | [[Zettelkasten]], [[PARA Method]], [[GTD]] |
+| Named Frameworks | [[Zettelkasten]], [[PARA-Method]], [[GTD]] |
 | Named Effects/Phenomena | [[Spacing-Effect]], [[Testing-Effect]], [[Dunning-Kruger-Effect]] |
 | Researchers/Thinkers | [[Hermann-Ebbinghaus]], [[Niklas Luhmann]], [[Daniel-Kahneman]] |
 | Key Methodologies | [[Spaced-Repetition]], [[Active Recall]], [[Retrieval-Practice]] |
@@ -124,7 +124,7 @@ Connect abstract concepts to their practical implementations:
 
 ### Research Paper Pattern
 ```
-[[Author Name]] proposed [[Theory Name]] based on research into [[Topic]].
+[[Author-Name]] proposed [[Theory Name]] based on research into [[Topic]].
 The study measured [[Dependent Variable]] using [[Methodology]].
 Results support [[Related Theory]] and extend [[Previous Finding]].
 ```

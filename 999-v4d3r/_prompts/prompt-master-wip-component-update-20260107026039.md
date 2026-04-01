@@ -384,7 +384,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
@@ -2606,7 +2606,7 @@ Anchor the concept of "Atomic Habits" to a foundational mental model.
 ```markdown
 > [!mental-model-anchor] Atomic Habits
 > **Primary Model Anchors**:
->   - [[Compound Interest]] — Small habits compound over time like interest.
+>   - [[Compound-Interest]] — Small habits compound over time like interest.
 >   - [[Activation Energy]] — Making habits small reduces the energy needed to start.
 > 
 > **Inverse Application**:

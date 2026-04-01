@@ -108,14 +108,14 @@ broader:
   - "[[Educational-Psychology|Educational Psychology]]"
 narrower:
   - "[[Learning-Contracts|Learning Contracts]]"
-  - "[[Personal Learning Environments]]"
+  - "[[Personal-Learning-Environments|Personal Learning Environments]]"
   - "[[Self-Directed-Learning-Readiness-Scale|Self-Directed Learning Readiness Scale]]"
   - "[[Heutagogy]]"
 see-also:
   - "[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]"
   - "[[Lifelong-learning|Lifelong Learning]]"
   - "[[Andragogy]]"
-  - "[[Transformative Learning]]"
+  - "[[Transformative-Learning|Transformative Learning]]"
   - "[[Online-Learning-Design|Online Learning Design]]"
 contrasts-with:
   - "[[Directed Instruction]]"
@@ -132,7 +132,7 @@ builds-on:
 enables:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Heutagogy]]"
-  - "[[Personal Learning Environments]]"
+  - "[[Personal-Learning-Environments|Personal Learning Environments]]"
   - "[[Inquiry-Based Learning Design & Evidence]]"
 expansion-topics:
   - topic: "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
@@ -141,13 +141,13 @@ expansion-topics:
   - topic: "[[Heutagogy]]"
     description: The theoretical extension of SDL toward full learner self-determination of competencies and learning pathways, with applications in capability development and digital learning environments
     priority: high
-  - topic: "[[Personal Learning Environments]]"
+  - topic: "[[Personal-Learning-Environments|Personal Learning Environments]]"
     description: The technological and organisational architectures through which SDL is enacted in digital contexts; connects SDL theory to contemporary learning technology design
     priority: high
   - topic: "[[Andragogy]]"
     description: Knowles's broader theory of adult learning from which SDL emerges; a dedicated report would cover andragogical assumptions, critiques of their cultural specificity, and the andragogy-pedagogy debate
     priority: medium
-  - topic: "[[Transformative Learning]]"
+  - topic: "[[Transformative-Learning|Transformative Learning]]"
     description: Mezirow's framework for deep shifts in frame of reference, which intersects with SDL in its emphasis on critical self-reflection and autonomous meaning-making
     priority: medium
   - topic: "[[Learning-Contracts|Learning Contracts]]"
@@ -293,7 +293,7 @@ The first is the *cultural universality debate*. SDL theory — particularly in 
 The second tension is between *readiness and opportunity*. Some research traditions treat low SDL readiness as a learner deficit to be remediated; others treat it as a reasonable response to educational environments that have consistently failed to provide opportunities for genuine learner initiative. If learners arrive at adult education programmes with low readiness for SDL, this may reflect not an internal limitation but a history of institutionalised dependency-creation. This tension has implications for how SDL interventions are designed: deficit models focus on building individual capacity; structural models focus on changing the environments in which learning occurs.
 
 > [!counter-argument] **The Critique of SDL as Ideology**
-> Several critical theorists, including [[Stephen Brookfield]], have argued that SDL discourse contains ideological components that warrant sceptical scrutiny. The emphasis on individual initiative, personal responsibility, and autonomous goal-setting maps suspiciously well onto neoliberal framings of educational and professional life that transfer responsibility from institutions to individuals, celebrate the self-managing subject, and treat structural barriers to learning as personal failures. This critique does not invalidate SDL as an educational approach, but it does call attention to the political dimensions of seemingly neutral pedagogical choices. A framework that treats "taking responsibility for your own learning" as an unambiguous good may obscure the ways in which some people's ability to self-direct is constrained by circumstances beyond their control.
+> Several critical theorists, including [[Stephen-Brookfield|Stephen Brookfield]], have argued that SDL discourse contains ideological components that warrant sceptical scrutiny. The emphasis on individual initiative, personal responsibility, and autonomous goal-setting maps suspiciously well onto neoliberal framings of educational and professional life that transfer responsibility from institutions to individuals, celebrate the self-managing subject, and treat structural barriers to learning as personal failures. This critique does not invalidate SDL as an educational approach, but it does call attention to the political dimensions of seemingly neutral pedagogical choices. A framework that treats "taking responsibility for your own learning" as an unambiguous good may obscure the ways in which some people's ability to self-direct is constrained by circumstances beyond their control.
 
 > [!reflection] **Engaging the Landscape**
 > 1. If you had to construct a composite framework drawing on Garrison's three-component model and the PRO model's process-person distinction, what would it look like? What from each framework would you preserve, and what would you modify?
@@ -322,7 +322,7 @@ Understanding SDL at the level of observable behaviour and theoretical construct
 
 **Self-management mechanisms** involve the learner's organised control of the external environment in service of learning. This includes time management (allocating sufficient, sustained time for learning activity without falling into either procrastination or sporadic bursts), resource identification and evaluation (locating and selecting among available learning resources based on quality, relevance, and accessibility), and task management (structuring the learning activity itself in a way that promotes progressive skill or knowledge development rather than aimless exploration). Research on learning projects suggests that naturally occurring SDL often lacks systematic planning — learners pursue resources opportunistically, revise their goals frequently, and measure success against practical performance outcomes rather than pre-specified learning objectives. This natural SDL process is effective precisely because it is tightly coupled to immediate application; the learner knows whether the learning has worked because they can or cannot do the thing they were trying to do. In formal educational settings, where the coupling between learning and application is often looser, more systematic self-management planning may be necessary to prevent learning from becoming unfocused.
 
-**Environmental and social mechanisms** are often underemphasised in a literature that tends toward individualism. SDL does not occur in a vacuum. Learners are embedded in social networks, organisational contexts, and cultural environments that shape what learning is available, valued, and supported. [[Personal Learning Environments]] — the collection of resources, tools, social connections, and practices through which an individual organises their learning — vary dramatically by social position, with those who have access to professional communities, libraries, mentoring relationships, and high-quality digital resources having structurally different SDL opportunities than those who do not. Moreover, learning is frequently social even when self-directed: the learner who teaches herself statistics is likely to be drawing on conversations with colleagues, seeking feedback from more knowledgeable others, and participating in communities of practice even if these social elements are not foregrounded in her self-account of the learning process. A theoretically adequate account of SDL needs to hold the individual learner and their social environment in view simultaneously.
+**Environmental and social mechanisms** are often underemphasised in a literature that tends toward individualism. SDL does not occur in a vacuum. Learners are embedded in social networks, organisational contexts, and cultural environments that shape what learning is available, valued, and supported. [[Personal-Learning-Environments|Personal Learning Environments]] — the collection of resources, tools, social connections, and practices through which an individual organises their learning — vary dramatically by social position, with those who have access to professional communities, libraries, mentoring relationships, and high-quality digital resources having structurally different SDL opportunities than those who do not. Moreover, learning is frequently social even when self-directed: the learner who teaches herself statistics is likely to be drawing on conversations with colleagues, seeking feedback from more knowledgeable others, and participating in communities of practice even if these social elements are not foregrounded in her self-account of the learning process. A theoretically adequate account of SDL needs to hold the individual learner and their social environment in view simultaneously.
 
 > [!example] **Learning Projects as a Window into Natural SDL**
 > Tough's original research on adult [[Learning-Projects|Learning Projects]] used a rigorous interview methodology that is worth understanding. Respondents were asked to describe any sustained, deliberate effort they had undertaken in the past year to gain knowledge or skill. To qualify as a learning project, the episode had to involve at least seven hours of deliberate effort. Respondents consistently underestimated their own learning until the interview process systematically probed for projects they had not initially thought of as "learning" — because they had occurred informally, outside educational institutions. Typical projects included learning to manage a health condition, mastering a new software tool, preparing to make a significant financial decision, and developing a hobby skill. What Tough found was not merely that adults learned outside institutions, but that this learning was *more* intentional, purposeful, and self-monitored than they themselves initially recognised — because their implicit model of learning was institutional.
@@ -500,13 +500,13 @@ The connections to the [[Metacognition-&-Motivation|Metacognition & Motivation]]
 > > [!topic-idea] [[Heutagogy]]
 > > A dedicated report on heutagogy would provide deeper theoretical treatment of self-determined learning beyond the sketch offered in this SDL report. Key areas would include: the capability development framework on which heutagogy draws; the double-loop learning mechanism and its relationship to transformative learning theory; empirical studies of heutagogy in higher education and professional development; and the design principles for technology-enhanced heutagogical environments. The report would also engage the critique that heutagogy is an ideological extension of neoliberal self-actualisation discourse rather than a genuine theoretical advance. **Priority: High**
 >
-> > [!topic-idea] [[Personal Learning Environments]]
+> > [!topic-idea] [[Personal-Learning-Environments|Personal Learning Environments]]
 > > This report would address the technological and organisational architectures through which SDL is enacted in digital learning contexts. Coverage would include the concept of the PLE as a distributed network of tools, resources, and social connections; the relationship between PLE design and SDL readiness development; the affordances and constraints of different PLE configurations; and the design implications for institutions that want to support rather than supplant learners' own learning ecologies. Directly relevant to online learning design and to any instructional context where learners access resources outside institutional boundaries. **Priority: High**
 >
 > > [!topic-idea] [[Andragogy]]
 > > A full treatment of Knowles's theory of adult learning that situates SDL within its broader theoretical context. Coverage would include the six andragogical assumptions and their empirical status, the historical development of andragogy as a field, the pedagogy-andragogy debate (and the largely correct conclusion that the two are not as dichotomous as Knowles claimed), cultural critiques of andragogical assumptions, and the relationship between andragogy and constructivist learning theory. This report would provide the theoretical parent for SDL and make explicit some of the assumptions that SDL theory inherits. **Priority: Medium**
 >
-> > [!topic-idea] [[Transformative Learning]]
+> > [!topic-idea] [[Transformative-Learning|Transformative Learning]]
 > > Mezirow's framework for fundamental shifts in learners' frames of reference — their assumptions, beliefs, and interpretive habits — intersects with SDL in its emphasis on critical self-reflection and autonomous meaning-making. A transformative learning report would cover Mezirow's critical discourse model, the role of disorienting dilemmas as catalysts for transformation, the relationship between perspective transformation and SDL development, and critiques of transformative learning theory from feminist and postcolonial perspectives. The SDL-TL connection is particularly important for understanding how self-directed learning can lead not just to skill acquisition but to fundamental reorientation of how learners understand themselves and their world. **Priority: Medium**
 >
 > > [!topic-idea] [[Learning-Contracts|Learning Contracts]]

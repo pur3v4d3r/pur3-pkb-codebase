@@ -21,7 +21,7 @@ link-related:
 Title: Strategic Inquiries into Attentional Control and Enhancement
 
 Tags: #CognitiveScience #Neuroscience #Attention #Productivity #ExecutiveFunction #DeepWork #Psychology
-Aliases: [[Attention Engineering]], [[Focus Enhancement Strategies]], [[Cognitive Control Mechanisms]]
+Aliases: [[Attention Engineering]], [[Focus Enhancement Strategies]], [[Cognitive-Control-Mechanisms]]
 
 > [!the-purpose]
 > This topic set provides a rigorous, structural breakdown of human attention, moving beyond simple self-help advice into the mechanisms of cognitive science. The topics cover the neurobiological underpinnings of focus, the impact of environmental design (the attention economy), and evidence-based protocols for enhancement such as mindfulness and flow state induction. It is designed to facilitate a comprehensive analysis of how the brain filters information, how that system is hijacked, and how it can be retrained for high-performance cognition.

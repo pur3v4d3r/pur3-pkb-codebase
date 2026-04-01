@@ -60,7 +60,7 @@ related_concepts:
   - "[[Extended-Thinking-Architecture]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
-  - "[[Chain of Verification]]"
+  - "[[Chain-of-Verification]]"
   - "[[Metacognitive-Monitoring]]"
   - "[[Prompt-Engineering]]"
   - "[[LLM Reasoning]]"
@@ -1400,7 +1400,7 @@ READY FOR VOTING: [List of normalized answers]
 > [!definition] Chain of Verification Tags
 > **[CoVe-Thinking-Tags**:: Multi-stage verification patterns implementing factual accuracy checking through (1) baseline response generation, (2) claim extraction and verification question planning, (3) independent verification execution WITHOUT access to baseline, and (4) corrected response synthesis - with critical requirement that verification happens in separate context to prevent confirmation bias.]**
 
-[[Chain of Verification]] reduces hallucinations through systematic fact-checking. The thinking tag system enables this through staged verification:
+[[Chain-of-Verification]] reduces hallucinations through systematic fact-checking. The thinking tag system enables this through staged verification:
 
 ### Tag Pattern 7: Claim Extraction Tags
 
@@ -2316,7 +2316,7 @@ optimal_k = optimal_sample_size(
 > [!definition] Chain of Verification
 > **[Chain-of-Verification-Protocol**:: Multi-stage systematic framework for reducing hallucinations through (1) baseline response generation, (2) extraction of verifiable factual claims, (3) independent verification of claims WITHOUT access to baseline response (preventing confirmation bias), and (4) corrected response synthesis incorporating verification results - with core innovation being context separation ensuring verification happens fresh rather than rationalizing initial assertions.]**
 
-[[Chain of Verification]] addresses the hallucination problem through systematic fact-checking.
+[[Chain-of-Verification]] addresses the hallucination problem through systematic fact-checking.
 
 ### The Confirmation Bias Problem
 

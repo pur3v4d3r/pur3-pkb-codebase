@@ -160,7 +160,7 @@ The concept of **retrieval cues** is central to organizational design. Every org
 ## 3. 🎯 Organizational Frameworks & Methodologies
 
 > [!definition]
-> - **[[para method]]**: A universal framework organizing information into Projects, Areas, Resources, and Archives based on actionability
+> - **[[PARA-Method]]**: A universal framework organizing information into Projects, Areas, Resources, and Archives based on actionability
 > - **[[Zettelkasten]]**: A note-taking methodology emphasizing atomic notes, organic linking, and emergent structure
 > - **[[Johnny Decimal]]**: A numerical organizational system providing unambiguous locations for information
 
@@ -243,7 +243,7 @@ There's no one right way to organize notes. These aren't all-or-nothing systems.
 
 > [!definition]
 > - **Vault**: The root folder containing all Obsidian notes and configuration
-> - **[[Wiki-Link]]**: Internal link syntax using [[double brackets]] to connect notes
+> - **[[wiki-link]]**: Internal link syntax using [[double brackets]] to connect notes
 > - **[[Frontmatter]]**: YAML metadata at the beginning of notes specifying properties
 
 ### The Three Pillars of Obsidian Organization
@@ -422,7 +422,7 @@ status: in-progress
 created: 2025-11-14
 modified: 2025-11-14
 author: Knowledge Worker Name
-project: [[Project Name]]
+project: [[Project-Name]]
 area: [[Area of Responsibility]]
 ---
 ```
@@ -592,7 +592,7 @@ Some practitioners profusely use internal links throughout the day using unique 
 |-------------------|---------|------------------------|----------|
 | **Is-A** (Taxonomy) | "Democracy is-a form of government" | `#concept/government/democracy` | Categorical organization |
 | **Part-Of** (Mereology) | "Hippocampus part-of brain" | Nested MOC structure | Hierarchical knowledge |
-| **Relates-To** (Association) | "Memory relates-to learning" | Standard [[Wiki-Link]] | Horizontal connections |
+| **Relates-To** (Association) | "Memory relates-to learning" | Standard [[wiki-link]] | Horizontal connections |
 | **Cites** (Attribution) | "Smith 2020 cites Jones 2018" | Literature notes linking | Academic/research |
 | **Contradicts** (Dialectic) | "Theory A contradicts Theory B" | Inline context + link | Critical analysis |
 | **Extends** (Development) | "New research extends prior findings" | Chronological note linking | Knowledge evolution |

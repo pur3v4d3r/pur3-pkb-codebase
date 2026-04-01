@@ -102,7 +102,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -127,7 +127,7 @@ series-connections:
   previous: "[[Stoicism and Minimalism - Living a Simple Fulfilling Life]]"
   next: "[[Stoicism and CBT - Similarities Differences and Integration]]"
   related-reports:
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and CBT - Similarities Differences and Integration]]"
@@ -251,7 +251,7 @@ importance: high
 > → Next: [[Stoicism and CBT - Similarities Differences and Integration]]
 >
 > **Series Arc Position**: Integration
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 
 ---
 
@@ -279,7 +279,7 @@ This report makes the case for a specific and disciplined kind of integration: o
 
 The Stoics were deeply interested in the present moment — but their interest was embedded within a comprehensive philosophical system that must be understood to appreciate what present-moment attention meant for them and why they valued it.
 
-The Stoic universe is a rational cosmos, permeated by [[Logos]] — the universal reason that governs all things. Human beings, uniquely among earthly creatures, participate in this rationality through their capacity for [[Prohairesis]] — the faculty of rational choice. This capacity is the most important thing about us, the seat of our dignity, the ground of our moral worth, and the only thing that is genuinely "ours" in the sense Epictetus meant: it cannot be removed by illness, defeat, enslavement, or death. Everything else — health, wealth, reputation, pleasure, the opinions of others — belongs to the category of [[Preferred Indifferents]]: things worth pursuing under normal circumstances, but neither necessary for nor constitutive of the good life.
+The Stoic universe is a rational cosmos, permeated by [[Logos]] — the universal reason that governs all things. Human beings, uniquely among earthly creatures, participate in this rationality through their capacity for [[Prohairesis]] — the faculty of rational choice. This capacity is the most important thing about us, the seat of our dignity, the ground of our moral worth, and the only thing that is genuinely "ours" in the sense Epictetus meant: it cannot be removed by illness, defeat, enslavement, or death. Everything else — health, wealth, reputation, pleasure, the opinions of others — belongs to the category of [[Preferred-Indifferents]]: things worth pursuing under normal circumstances, but neither necessary for nor constitutive of the good life.
 
 This framework is essential context for understanding Stoic present-moment practice. When [[Marcus-Aurelius]] instructs himself to confine himself to the present, he is not articulating a general preference for present-mindedness. He is making a philosophically precise point: the future and the past are not in our power; only the present is the arena of *prohairesis*. To live mentally in the future — to anxiously anticipate outcomes, to rehearse feared possibilities as though catastrophic loss were inevitable — is to remove oneself from the only place where one can actually act virtuously. To live mentally in the past — to ruminate on old grievances, to replay defeats, to nurse wounds — is equally a flight from the only moment in which virtue can be exercised.
 
@@ -364,7 +364,7 @@ Both traditions prescribe not merely attention to the present but a specific *qu
 
 Both traditions prescribe meditations on impermanence as central contemplative exercises, and both identify the habitual failure to reckon honestly with impermanence as a primary source of psychological suffering.
 
-The Stoics engage impermanence through [[Memento Mori]] (remembrance of death), the *premeditatio malorum* (contemplation of potential loss), and Marcus Aurelius's extended reflections on the brevity of all things against the backdrop of cosmic time. The underlying insight is that everything in the category of [[Preferred Indifferents]] — health, relationships, wealth, reputation, one's own life — is contingent and temporary. Clinging to these things as necessities, treating their loss as catastrophes, produces a psychic fragility that the Stoics considered both philosophically confused and practically dangerous.
+The Stoics engage impermanence through [[Memento Mori]] (remembrance of death), the *premeditatio malorum* (contemplation of potential loss), and Marcus Aurelius's extended reflections on the brevity of all things against the backdrop of cosmic time. The underlying insight is that everything in the category of [[Preferred-Indifferents]] — health, relationships, wealth, reputation, one's own life — is contingent and temporary. Clinging to these things as necessities, treating their loss as catastrophes, produces a psychic fragility that the Stoics considered both philosophically confused and practically dangerous.
 
 [Buddhist-Anicca-and-Stoic-Impermanence:: Both Buddhism's *anicca* (impermanence) and the Stoic recognition of the contingency of all external goods point to the same experiential reality — that no phenomenon persists unchanged — and both derive from this recognition the same practical prescription: loosen the grip of attachment. Where they differ is in the philosophical framing: the Stoics ground this loosening in a rational theory of value (externals are not genuine goods and therefore need not be clung to), while Buddhism grounds it in direct meditative perception of impermanence (the meditator directly witnesses arising and passing and discovers through experience rather than argument that clinging to the impermanent produces suffering).]
 

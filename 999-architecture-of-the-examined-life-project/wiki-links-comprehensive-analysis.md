@@ -122,7 +122,7 @@
 | [[Dual-Process-Theory]] ↔ [[Metacognitive-Monitoring]] | 7× |
 | [[Constructivism]] ↔ [[Self-Regulated-Learning]] | 6× |
 | [[Dual-Process-Theory]] ↔ [[Self-Regulated-Learning]] | 6× |
-| [[Dual-Process-Theory]] ↔ [[Philosophy of Mind]] | 6× |
+| [[Dual-Process-Theory]] ↔ [[philosophy-of-mind]] | 6× |
 | [[Eudaimonia]] ↔ [[Narrative-Identity]] | 6× |
 | [[Constructivism]] ↔ [[Fallibilism]] | 5× |
 | [[Prohairesis]] ↔ [[Self-Determination-Theory]] | 5× |
@@ -141,9 +141,9 @@
 | [[Dual-Process-Theory]] ↔ [[Schema-Theory]] | 4× |
 | [[Cognitive-Science]] ↔ [[Dual-Process-Theory]] | 4× |
 | [[Emotional-Granularity]] ↔ [[Phronesis]] | 4× |
-| [[Distributed-Cognition]] ↔ [[Social Epistemology]] | 4× |
-| [[Epistemic Injustice]] ↔ [[Social Epistemology]] | 4× |
-| [[Distributed-Cognition]] ↔ [[Epistemic Injustice]] | 4× |
+| [[Distributed-Cognition]] ↔ [[Social-Epistemology]] | 4× |
+| [[Epistemic-Injustice]] ↔ [[Social-Epistemology]] | 4× |
+| [[Distributed-Cognition]] ↔ [[Epistemic-Injustice]] | 4× |
 | [[Active-Inference]] ↔ [[Predictive-Processing]] | 4× |
 | [[Logotherapy]] ↔ [[Predictive-Processing]] | 4× |
 | [[Schema-Theory]] ↔ [[Zone-of-Proximal-Development]] | 4× |
@@ -180,7 +180,7 @@
 - [[Self-Determination-Theory]] — 2× explaining
 - [[Dual-Process-Theory]] — 2× explaining
 - [[Aporic-Receptivity]] — 2× explaining
-- [[Epistemic Injustice]] — 1× explaining
+- [[Epistemic-Injustice]] — 1× explaining
 - [[Argumentative Theory]] — 1× explaining
 - [[Predictive-Processing]] — 1× explaining
 - [[Growth-Mindset]] — 1× explaining
@@ -222,8 +222,8 @@
 - [[Fallibilism]] — 6× contrasting
 - [[Distributed-Cognition]] — 6× contrasting
 - [[Dual-Process-Theory]] — 5× contrasting
-- [[Social Epistemology]] — 5× contrasting
-- [[Epistemic Injustice]] — 5× contrasting
+- [[Social-Epistemology]] — 5× contrasting
+- [[Epistemic-Injustice]] — 5× contrasting
 - [[Narrative-Identity]] — 5× contrasting
 - [[Dewey's-Reflective-Thinking]] — 4× contrasting
 - [[Self-Regulated-Learning]] — 4× contrasting
@@ -247,9 +247,9 @@
 - [[Naturalistic-Decision-Making]] — 2× integrating
 - [[Virtue-Epistemology]] — 2× integrating
 - [[Kathekon]] — 2× integrating
-- [[Social Epistemology]] — 2× integrating
+- [[Social-Epistemology]] — 2× integrating
 - [[Distributed-Cognition]] — 2× integrating
-- [[Epistemic Injustice]] — 2× integrating
+- [[Epistemic-Injustice]] — 2× integrating
 - [[Argumentative Theory]] — 2× integrating
 
 ### Citing Contexts
@@ -344,13 +344,13 @@
 | [[Virtue-Epistemology]] | 8 | 748 |  | 80 |
 | [[Zone-of-Proximal-Development]] | 8 | 7407 |  | 80 |
 | [[Prohairesis]] | 7 | 6460 |  | 70 |
-| [[Philosophy of Mind]] | 7 | 126 |  | 70 |
+| [[philosophy-of-mind]] | 7 | 126 |  | 70 |
 | [[Stoic-Prosoche]] | 6 | 859 |  | 60 |
 | [[Embodied-Cognition]] | 6 | 6125 |  | 60 |
 | [[Somatic-Marker-Hypothesis]] | 6 | 6259 |  | 60 |
 | [[Prosoche]] | 6 | 6211 |  | 60 |
 | [[Pragmatic-Maxim]] | 6 | 7014 |  | 60 |
-| [[Social Epistemology]] | 6 | 6260 |  | 60 |
+| [[Social-Epistemology]] | 6 | 6260 |  | 60 |
 
 ---
 
@@ -413,7 +413,7 @@
 - [[Dual-Process-Theory]]
 - [[Self-Regulated-Learning]]
 - [[Metacognitive-Monitoring]]
-- [[Philosophy of Mind]]
+- [[philosophy-of-mind]]
 - [[Predictive-Processing]]
 - [[Virtue-Ethics]]
 - [[Constructivism]]
@@ -518,7 +518,7 @@ occurrences: 19
 
 - [[Metacognitive-Monitoring]] (7× co-occurrence)
 - [[Self-Regulated-Learning]] (6× co-occurrence)
-- [[Philosophy of Mind]] (6× co-occurrence)
+- [[philosophy-of-mind]] (6× co-occurrence)
 - [[Metacognitive-Self-Regulation]] (5× co-occurrence)
 - [[Schema-Theory]] (4× co-occurrence)
 
@@ -778,7 +778,7 @@ occurrences: 13
 - [[Eudaimonia]] (5× co-occurrence)
 - [[Active-Inference]] (4× co-occurrence)
 - [[Logotherapy]] (4× co-occurrence)
-- [[Social Epistemology]] (2× co-occurrence)
+- [[Social-Epistemology]] (2× co-occurrence)
 
 ## Appears In
 
@@ -1031,8 +1031,8 @@ occurrences: 11
 
 - [[Dual-Process-Theory]] (5× co-occurrence)
 - [[Prosoche]] (2× co-occurrence)
-- [[Philosophy of Mind]] (2× co-occurrence)
-- [[Debiasing]] (1× co-occurrence)
+- [[philosophy-of-mind]] (2× co-occurrence)
+- [[debiasing]] (1× co-occurrence)
 - [[Schema-Theory]] (1× co-occurrence)
 
 ## Appears In
@@ -1121,7 +1121,7 @@ occurrences: 10
 - [[Emotional-Granularity]] (4× co-occurrence)
 - [[Naturalistic-Decision-Making]] (3× co-occurrence)
 - [[Kathekon]] (2× co-occurrence)
-- [[Social Epistemology]] (2× co-occurrence)
+- [[Social-Epistemology]] (2× co-occurrence)
 - [[Distributed-Cognition]] (2× co-occurrence)
 
 ## Appears In
@@ -1418,8 +1418,8 @@ occurrences: 8
 - [[Prokoptōn]] (3×)
 - [[Metacognitive-Self-Regulation]] (3×)
 - [[Dreyfus Model of Skill Acquisition]] (2×)
-- [[Peirce's Doubt-Inquiry-Belief Cycle]] (1×)
-- [[Piaget's Perturbation-Accommodation-Equilibration Cycle]] (1×)
+- [[Peirce's-Doubt-Inquiry-Belief-Cycle]] (1×)
+- [[Piaget's-Perturbation-Accommodation-Equilibration-Cycle]] (1×)
 
 *...and 8 more*
 
@@ -1440,8 +1440,8 @@ occurrences: 8
 - [[Intellectual-Courage]] (9×)
 - [[Prohairesis]] (7×)
 - [[Somatic-Marker-Hypothesis]] (6×)
-- [[Social Epistemology]] (6×)
-- [[Amor Fati]] (5×)
+- [[Social-Epistemology]] (6×)
+- [[Amor-Fati]] (5×)
 - [[Physiological-Metacognition]] (5×)
 
 *...and 11 more*
@@ -1483,7 +1483,7 @@ occurrences: 8
 - [[Schema-Theory]] (9×)
 - [[Pragmatic-Maxim]] (7×)
 - [[Prohairesis]] (7×)
-- [[Philosophy of Mind]] (7×)
+- [[philosophy-of-mind]] (7×)
 - [[Metacognition]] (6×)
 
 *...and 85 more*
@@ -1538,7 +1538,7 @@ occurrences: 8
 | [[Somatic-Marker-Hypothesis]] | Phase III, Phase IV, Report 04 | 6× |
 | [[Emotional-Granularity]] | Phase III, Phase IV, Report 04 | 11× |
 | [[Pragmatic-Maxim]] | Phase II, Phase VI, Report 04 | 7× |
-| [[Social Epistemology]] | Phase II, Phase IV, Report 04 | 6× |
+| [[Social-Epistemology]] | Phase II, Phase IV, Report 04 | 6× |
 
 ---
 

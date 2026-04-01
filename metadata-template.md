@@ -338,7 +338,7 @@ prerequisites:
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
-  - "[[Metacognitive Awareness Inventory]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
   - "[[Epistemic-Vigilance]]"
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
@@ -369,15 +369,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise Development]]"
-  - "[[Reflective Judgment Model]]"
+  - "[[Expertise-Development]]"
+  - "[[Reflective-Judgment-Model]]"
   - "[[Intellectual-Humility]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
   - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem Analysis]]"
-  - "[[Red Team Thinking]]"
-  - "[[Cognitive Forcing Functions]]"
+  - "[[Pre-Mortem-Analysis]]"
+  - "[[Red-Team-Thinking]]"
+  - "[[Cognitive-Forcing-Functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"

@@ -931,7 +931,7 @@ Rotter (Locus of Control) ──────────────────
 >
 > **Lateral Connections** (related frameworks at similar level of analysis):
 > - [[Achievement-Goal-Theory]] — Parallel individual-difference approach to motivation with complementary predictions
-> - [[Implicit-Theories-of-Intelligence]] — Dweck's fixed/growth mindset construct shares conceptual territory with autonomy/control orientations
+> - [[implicit-theories-of-intelligence]] — Dweck's fixed/growth mindset construct shares conceptual territory with autonomy/control orientations
 > - [[Attachment-Theory]] — Developmental antecedents of orientations parallel secure/insecure attachment pathways
 > - [[Attribution-Theory]] — Weiner's attributional framework addresses similar perceived-causality questions from a different theoretical tradition
 > - [[Expectancy-Value-Theory]] — Complementary motivational framework addressing what COT does not (expectancy beliefs, subjective task value)

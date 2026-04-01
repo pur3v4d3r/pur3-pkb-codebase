@@ -20,6 +20,11 @@ tags:
   - series-report
   - epistemology
   - cognitive-science
+  - philosophy-of-knowledge
+  - educational-psychology
+  - pragmatism
+  - fallibilism
+  - constructivism
 
 domain: other
 subdomains:
@@ -28,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-03-27"
+extraction-date: "2026-04-01"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -72,6 +77,18 @@ see-also:
   - "[[Ernst-von-Glasersfeld|Ernst von Glasersfeld]]"
   - "[[Constructivist-Stance|Constructivist Stance]]"
   - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
+  - "[[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]]"
+  - "[[Metacognitive-Self-Regulation|metacognitive self-regulation]]"
+  - "[[Aporic-Receptivity|aporic receptivity]]"
+  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
+  - "[[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]]"
+  - "[[Fallibilism]]"
+  - "[[William-James|William James]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[warranted-assertibility|warranted assertibility]]"
+  - "[[Fallibilism]]"
+  - "[[Jean-Piaget|Jean Piaget]]"
+  - "[[Genetic-Epistemology|genetic epistemology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -95,7 +112,7 @@ importance: high
 
 # Pragmatic Maxim
 
-> [!definition] **Pragmatic Maxim**
+> [!definition] **Pragmatic Maxim** *(from [[report-02-the-fallible-knower]])*
 > 
 
 ## Core Explanation
@@ -110,7 +127,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Confirmation-Bias|confirmation bias]] · [[belief-perseverance|belief perseverance]] · [[Fallibilism]] · [[Jean-Piaget|Jean Piaget]] · [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] · [[Constructivist-Stance|Constructivist Stance]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] · [[Metacognitive-Self-Regulation|metacognitive self-regulation]] · [[Aporic-Receptivity|aporic receptivity]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] · [[Fallibilism]]
+[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Confirmation-Bias|confirmation bias]] · [[belief-perseverance|belief perseverance]] · [[Fallibilism]] · [[Jean-Piaget|Jean Piaget]] · [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] · [[Constructivist-Stance|Constructivist Stance]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Fallibilist-Constructivist-Epistemological-Posture|Fallibilist-Constructivist Epistemological Posture]] · [[Metacognitive-Self-Regulation|metacognitive self-regulation]] · [[Aporic-Receptivity|aporic receptivity]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]] · [[Fallibilism]] · [[William-James|William James]] · [[John-Dewey|John Dewey]] · [[warranted-assertibility|warranted assertibility]] · [[Fallibilism]] · [[Jean-Piaget|Jean Piaget]] · [[Genetic-Epistemology|genetic epistemology]] · [[Schema]] · [[Assimilation]] · [[Accommodation]] · [[Equilibration]] · [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] · [[radical-constructivism|radical constructivism]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[David-Rumelhart|David Rumelhart]] · [[Metacognition]]
 
 ---
 

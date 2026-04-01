@@ -130,22 +130,22 @@ enables:
   - "[[Mentorship Program Design]]"
   - "[[Relational Pedagogy]]"
 expansion-topics:
-  - topic: "[[Autonomy Support in Teaching — Mechanisms and Evidence]]"
+  - topic: "[[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]]"
     description: Deep dive into how teacher autonomy support operationalizes RMT principles in the classroom — covering Reeve's ISLE model, the distinction between structure and autonomy support, and intervention designs that improve both student motivation and learning outcomes.
     priority: high
-  - topic: "[[Conditional Positive Regard — Costs and Clinical Implications]]"
+  - topic: "[[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]]"
     description: Focused analysis of Deci et al.'s conditional positive regard research, tracing how contingent approval in relationships produces fragile self-esteem, performance anxiety, and ultimately need thwarting despite apparent warmth.
     priority: high
-  - topic: "[[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]"
+  - topic: "[[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]"
     description: Examines Reis, Clark & Holmes's model of responsiveness (feeling understood, validated, and cared for) as the primary phenomenological marker of need satisfaction within close relationships, and how responsiveness functions as a relational scaffold for need integration.
     priority: high
-  - topic: "[[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]"
+  - topic: "[[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]"
     description: Analyzes the theoretical and empirical overlap between attachment security and basic need satisfaction, examining whether attachment represents an evolved expression of BPN needs and where the two frameworks diverge.
     priority: medium
-  - topic: "[[Compassionate Goals vs. Self-Image Goals in Close Relationships]]"
+  - topic: "[[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]]"
     description: Examines Canevello and Crocker's work on how the goal orientation partners bring to a relationship (caring for vs. impression-managing) determines the quality of the motivational climate they create — a relational analog to mastery vs. performance goal orientation in learning.
     priority: medium
-  - topic: "[[Need Thwarting Dynamics — Beyond the Absence of Support]]"
+  - topic: "[[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]]"
     description: Focused analysis of Bartholomew et al.'s work establishing that need thwarting is not simply the absence of need support but an active undermining process with distinct antecedents and more severe outcomes — with implications for clinical and coaching contexts.
     priority: high
 empirical-support:
@@ -511,20 +511,20 @@ The question posed at the opening was: what is it about a relationship that make
 
 > [!further-exploration] **Deepening Your Practice**
 
-> [!topic-idea] [[Autonomy Support in Teaching — Mechanisms and Evidence]]
+> [!topic-idea] [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]]
 > This analysis would drill into Reeve's ISLE (Internally Structured Learning Environment) model and the substantial experimental evidence base for autonomy-supportive teaching. It would go beyond the Phase V summary here to examine the specific behavioral components of autonomy support, their differential effects on different student populations (particularly ego-involved, performance-oriented students who are most resistant to autonomy-supportive approaches), and the structural and psychological barriers that produce controlling teacher behavior even among teachers who endorse autonomy support as a value. Priority: HIGH — the most direct learning-science application of RMT.
 
-> [!topic-idea] [[Conditional Positive Regard — Costs and Clinical Implications]]
+> [!topic-idea] [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]]
 > A focused analysis examining the full mechanism chain from CPR in early caregiving to contingent self-esteem to downstream psychological costs — drawing on Deci et al.'s contingent self-worth research, Rogers's clinical foundation, and the developmental literature on parental conditional regard. Would analyze the paradox that CPR often co-occurs with genuine parental care and high investment, making it invisible as a harm-producing pattern, and examine therapeutic and relational conditions that can support repair. Priority: HIGH — directly addresses one of the most consequential mechanisms in RMT.
 
-> [!topic-idea] [[Need Thwarting Dynamics — Beyond the Absence of Support]]
+> [!topic-idea] [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]]
 > Focused analysis of the emerging need thwarting literature, examining Bartholomew and colleagues' work establishing the empirical separability of need thwarting from absence of support, the specific behavioral patterns associated with each form of thwarting, and the differential pathways through which thwarting affects ill-being vs. absence of support affects failure to flourish. Would also address the measurement challenges noted in Phase II's tension callout. Priority: HIGH — addresses a genuine theoretical gap in current RMT presentations.
 
-> [!topic-idea] [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
+> [!topic-idea] [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
 > The integration proposed in Phase VI's second original synthesis would be developed here into a full analysis. Would examine the overlapping and diverging predictions of attachment theory and RMT, test whether need satisfaction mediates the attachment security → well-being relationship (as the integration predicts), and analyze what attachment-based clinical approaches might gain from incorporating the motivational specificity of BPN theory. Priority: MEDIUM — intellectually rich but requires comfort with both bodies of literature.
 
-> [!topic-idea] [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
+> [!topic-idea] [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]]
 > Canevello and Crocker's research on how the goal orientation partners bring to a relationship shapes the motivational climate they create deserves a full focused analysis in this PKB. The direct parallel with mastery vs. performance goal orientation in SRL makes this a natural bridge between the motivational climate of learning and the motivational climate of relationships. Would examine what determines whether a person enters a relationship with compassionate vs. self-image goals, what relational contexts shift this orientation, and what the downstream effects on mutual responsiveness and need satisfaction look like over time. Priority: MEDIUM.
 
-> [!topic-idea] [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
+> [!topic-idea] [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 > Reis, Clark, and Holmes's PPR construct — feeling understood, validated, and cared for — is the phenomenological marker through which need-supportive behavior becomes experienced as genuine connection. A focused analysis would develop the measurement challenge (responsiveness is inherently subjective and partially projection), examine the behavioral cues that inform PPR judgments, and analyze how PPR functions as a real-time signal of need satisfaction quality within interactions. The key analytical question: what distinguishes accurate perception of genuine responsiveness from motivated perception that reads responsiveness into non-responsive behavior (a pattern associated with attachment anxiety)? Priority: HIGH.

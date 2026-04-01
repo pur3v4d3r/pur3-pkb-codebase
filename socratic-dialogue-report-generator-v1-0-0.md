@@ -323,7 +323,7 @@ document-features:
   reflective-questions: "{count, minimum 10}"
 
 # Source & Generation:
-generation-prompt: "[[Socratic Dialogue Report Generator v1.0]]"
+generation-prompt: "[[Socratic-Dialogue-Report-Generator-v1.0]]"
 ```
 
 All other metadata fields follow the [[Foundational-Report-Generator-v1.0]], Section 2 template. Generate the full YAML block with all fields populated.

@@ -26,8 +26,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +38,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-03-27"
+extraction-date: "2026-04-01"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,6 +70,19 @@ see-also:
   - "[[Dataview]]"
   - "[[03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]"
   - "[[filename]]"
+  - "[[Zettelkasten]]"
+  - "[[ISO-8601|ISO 8601]]"
+  - "[[Project-Management|Project Management]]"
+  - "[[Task-Management|Task Management]]"
+  - "[[Knowledge-Graph|Knowledge Graph]]"
+  - "[[Breadcrumbs]]"
+  - "[[Source-Note|Source Note]]"
+  - "[[Zotero]]"
+  - "[[Obsidian-Plugins|Obsidian Plugins]]"
+  - "[[Obsidian-Publish|Obsidian Publish]]"
+  - "[[Prompt-Engineering|Prompt Engineering]]"
+  - "[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]"
+  - "[[03_notes/01_permanent-notes/01_cognitive-development/Knowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -93,7 +106,7 @@ importance: medium
 
 # What is Frontmatter?
 
-> [!definition] **What is Frontmatter?**
+> [!definition] **What is Frontmatter?** *(from [[reference-guide-yaml-frontmatter-20251122124616]])*
 > Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] workflows.
 
 ## Core Explanation
@@ -108,9 +121,13 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[YAML-Frontmatter|YAML Frontmatter]] · [[YAML]] · [[Markdown]] · [[PKB]] · [[04-library00-obsidian-documentation02-Official-Documentation02-⚫🔌PluginsPlugin-🤖|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] · [[Dataview]] · [[03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] · [[filename]] · [[Zettelkasten]] · [[ISO-8601|ISO 8601]] · [[Project-Management|Project Management]] · [[Task-Management|Task Management]] · [[Knowledge-Graph|Knowledge Graph]] · [[Breadcrumbs]] · [[Source-Note|Source Note]]
+[[YAML-Frontmatter|YAML Frontmatter]] · [[YAML]] · [[Markdown]] · [[PKB]] · [[04-library00-obsidian-documentation02-Official-Documentation02-⚫🔌PluginsPlugin-🤖|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] · [[Dataview]] · [[03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management|03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] · [[filename]] · [[Zettelkasten]] · [[ISO-8601|ISO 8601]] · [[Project-Management|Project Management]] · [[Task-Management|Task Management]] · [[Knowledge-Graph|Knowledge Graph]] · [[Breadcrumbs]] · [[Source-Note|Source Note]] · [[Zotero]] · [[Obsidian-Plugins|Obsidian Plugins]] · [[Obsidian-Publish|Obsidian Publish]] · [[Dataview]] · [[Prompt-Engineering|Prompt Engineering]] · [[LLM]]
 
 ---
+
+**Related concepts** *(from reference-guide-yaml-frontmatter-20251122124616.md)*:
+[[YAML-Frontmatter|YAML Frontmatter]] * [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] * [[ISO-8601|ISO 8601]] * [[Project-Management|Project Management]] * [[Task-Management|Task Management]] * [[Knowledge-Graph|Knowledge Graph]] * [[Source-Note|Source Note]] * [[Obsidian-Plugins|Obsidian Plugins]] * [[Obsidian-Publish|Obsidian Publish]] * [[Prompt-Engineering|Prompt Engineering]]
+
 
 ## Source Attribution
 

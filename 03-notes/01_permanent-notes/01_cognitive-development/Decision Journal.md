@@ -20,7 +20,7 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Pre-Mortem Analysis]]"
+  - "[[Pre-Mortem-Analysis]]"
   - "[[Metacognition]]"
   - "[[Cognitive-Biases]]"
   - "[[Cognitive Distortions]]"

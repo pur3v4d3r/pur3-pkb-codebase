@@ -641,7 +641,7 @@ const defaults = {
 // Generate MOC links based on folder structure
 const generateMocLinks = () => {
   const folderPath = tp.file.folder();
-  if (folderPath.includes("prompt-definitions")) return "[[Prompt Engineering MOC]]";
+  if (folderPath.includes("prompt-definitions")) return "[[prompt-engineering-moc]]";
   if (folderPath.includes("prompt-analysis")) return "[[Analysis MOC]]";
   if (folderPath.includes("frameworks")) return "[[Frameworks MOC]]";
   return "[[General MOC]]";
@@ -774,7 +774,7 @@ priority: medium
 completion: 0
 created: 2023-12-07
 modified: 2023-12-07
-moc-links: [[Prompt Engineering MOC]]
+moc-links: [[prompt-engineering-moc]]
 ---
 # Customer Support Response Generator
 ## Prompt Structure

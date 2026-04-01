@@ -361,7 +361,7 @@ extraction_summary:
 > 
 > - **[[Externalization-Exercises|Externalization Exercises]]** — A collection of structured prompts and formats for converting tacit knowledge to explicit form: analogy generation, extreme case comparison, teaching-to-novice drafts, annotated example sets. These are the operational tools of SECI Externalization and should be first-class note templates in a mature PKB.
 > 
-> - **[[Reflection-in-Action]]** — The form of knowing that a PKB fundamentally cannot capture. Maintaining a link to this concept in expert-domain notes serves as a persistent reminder that the most important knowing in high-performance domains is happening in real-time, pre-reflectively, and is invisible to any documentation system.
+> - **[[Reflection-in-action]]** — The form of knowing that a PKB fundamentally cannot capture. Maintaining a link to this concept in expert-domain notes serves as a persistent reminder that the most important knowing in high-performance domains is happening in real-time, pre-reflectively, and is invisible to any documentation system.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -572,7 +572,7 @@ extraction_summary:
 - [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 - [[Portfolio-of-Evidence|Portfolio of Evidence]]
 - [[Procedural-Memory|Procedural Memory]]
-- [[Reflection-in-Action]]
+- [[Reflection-in-action]]
 - [[Reflection-on-Action]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]
@@ -598,7 +598,7 @@ extraction_summary:
 | 7 | [[Procedural-Memory|Procedural Memory]] | — | — | The Embodied Evidence | 243 |
 | 8 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Return-and-Deepen: Report 08's Experi... | 311 |
 | 9 | [[Schön's Reflective Practitioner]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
-| 10 | [[Reflection-in-Action]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
+| 10 | [[Reflection-in-action]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
 | 11 | [[Reflection-on-Action]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
 | 12 | [[Deliberate-Practice-Log|Deliberate Practice Log]] | — | — | Design Principle 1: The Externalizati... | 356 |
 | 13 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Return-and-Deepen: Report 10's Scaffo... | 415 |
@@ -607,7 +607,7 @@ extraction_summary:
 | 16 | [[Deliberate-Practice-Log|Deliberate Practice Log]] | — | — | Phase VII: PKB Connections & Cross-Re... | 436 |
 | 17 | [[Portfolio-of-Evidence|Portfolio of Evidence]] | — | — | Phase VII: PKB Connections & Cross-Re... | 438 |
 | 18 | [[Externalization-Exercises|Externalization Exercises]] | — | — | Phase VII: PKB Connections & Cross-Re... | 440 |
-| 19 | [[Reflection-in-Action]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
+| 19 | [[Reflection-in-action]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
 | 20 | [[Report 08: Reflective Practice and Experiential Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
 | 21 | [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
 | 22 | [[Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts]] | — | — | Phase VII: PKB Connections & Cross-Re... | 450 |
@@ -653,7 +653,7 @@ extraction_summary:
 - [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 - [[Portfolio-of-Evidence|Portfolio of Evidence]]
 - [[Procedural-Memory|Procedural Memory]]
-- [[Reflection-in-Action]]
+- [[Reflection-in-action]]
 - [[Reflection-on-Action]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]

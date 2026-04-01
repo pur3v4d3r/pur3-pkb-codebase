@@ -174,12 +174,12 @@ builds-on:
   - "[[Needs-Theories-in-Psychology|Needs Theories in Psychology]]"
 
 enables:
-  - "[[Designing Autonomy-Supportive Learning Environments]]"
+  - "[[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]"
   - "[[Motivational Interviewing in Educational Contexts]]"
   - "[[Need-Supportive Assessment Practices]]"
 
 expansion-topics:
-  - topic: "[[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]"
+  - topic: "[[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]"
     description: "The asymmetry between need satisfaction and need thwarting deserves dedicated treatment — examining the specific mechanisms by which thwarting produces controlled motivation, amotivation, and psychological ill-being, and what instructional practices are most corrosive"
     priority: "high"
   - topic: "[[Cultural Universality vs. Cultural Moderation in SDT]]"
@@ -634,10 +634,10 @@ For the learning scientist, this analysis matters because it identifies the need
 
 > [!further-exploration] **Deepening Your Understanding**
 
-> [!topic-idea] [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
+> [!topic-idea] [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
 > This analysis repeatedly flagged the need thwarting / need deprivation asymmetry as one of the most theoretically significant and practically underappreciated findings in contemporary SDT research. A dedicated focused analysis would examine: the specific instructional behaviors most associated with each form of need thwarting (autonomy thwarting via conditional regard and surveillance; competence thwarting via impossible standards and social comparison; relatedness thwarting via exclusion and indifference); the distinct psychological consequences of each form (controlled motivation, amotivation, ill-being, reactance); and the intervention implications that follow from treating thwarting as the primary target rather than satisfaction-maximization. Priority: **high** — the most direct extension of this analysis.
 
-> [!topic-idea] [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
+> [!topic-idea] [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]]
 > The emergence of adaptive learning systems, AI tutors, gamified platforms, and learning analytics creates new terrain for SDT's principles. Does algorithmic personalization of challenge satisfy the competence need, or does it undermine autonomy by removing learner agency from challenge selection? Does learning analytics monitoring constitute surveillance (autonomy thwarting) or informational feedback (competence satisfying)? Does the absence of a teacher presence create a relatedness vacuum, or can virtual community features substitute? A focused analysis would examine how each of the three need mechanisms operates in digital environments, identify the specific design affordances and risks, and propose SDT-consistent design principles for technology-mediated learning. Priority: **high** — immediate practical relevance.
 
 > [!topic-idea] [[SDT and Formative Assessment: Feedback as Informational or Controlling]]

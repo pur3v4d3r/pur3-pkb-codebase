@@ -104,7 +104,7 @@ The system serves three core functions:
 | Pattern | Use When | Typical Turns |
 |---------|----------|---------------|
 | [[least-to-most-prompting]] | Hierarchical problems needing foundation first | 3-5 |
-| [[chain-of-verification]] | High-accuracy requirements | 2-4 |
+| [[Chain-of-Verification]] | High-accuracy requirements | 2-4 |
 | [[recursive-expansion-loop]] | Long-form content generation | 4-8 |
 | [[parallel-convergence]] | Multiple perspectives needed | 3-5 |
 | [[staged-generation]] | Complex multi-section documents | 4-10 |

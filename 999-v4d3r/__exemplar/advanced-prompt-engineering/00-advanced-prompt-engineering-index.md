@@ -76,7 +76,7 @@ graph TD
 ### By Use Case
 - **Complex Reasoning** → [[Tree-of-Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
 - **Tool Integration** → [[ReAct Framework]], [[ART Tool Use]], [[ReWOO]]
-- **Quality Critical** → [[Chain of Verification]], [[Self-Refine]], [[Self-Consistency]]
+- **Quality Critical** → [[Chain-of-Verification]], [[Self-Refine]], [[Self-Consistency]]
 - **Autonomous Agents** → [[Reflexion]], [[ReAct Framework]], [[ART Tool Use]]
 - **Knowledge Gaps** → [[Generated Knowledge]], [[RAG Integration]], [[Recitation-Augmented]]
 - **Prompt Optimization** → [[APE]], [[OPRO]], [[Active-Prompt]], [[PromptBreeder]]
@@ -273,7 +273,7 @@ graph TD
 **Recommended Stack**:
 1. **[[Generated Knowledge]]** - Generate prerequisite concepts
 2. **[[Chain-of-Thought]]** - Break down complex ideas
-3. **[[Chain of Verification]]** - Ensure accuracy
+3. **[[Chain-of-Verification]]** - Ensure accuracy
 4. **[[Self-Refine]]** - Iterative improvement
 
 **Why**: Ensures comprehensive, accurate notes with proper conceptual scaffolding.
@@ -286,7 +286,7 @@ graph TD
 1. **[[RAG Integration]]** - Retrieve relevant passages
 2. **[[Tree-of-Thoughts]]** - Explore multiple synthesis angles
 3. **[[Self-Consistency]]** - Validate conclusions across reasoning paths
-4. **[[Chain of Verification]]** - Fact-check claims
+4. **[[Chain-of-Verification]]** - Fact-check claims
 
 **Why**: Handles complexity of multi-source synthesis with reliability.
 
@@ -365,7 +365,7 @@ graph TD
 **Start here**:
 1. Read [[01-reasoning-techniques-guide#Self-Consistency]] - Easiest advanced technique
 2. Try [[Generated Knowledge Prompting]] - Simple two-stage pattern
-3. Implement [[Chain of Verification]] - Immediate quality improvement
+3. Implement [[Chain-of-Verification]] - Immediate quality improvement
 
 **Build up to**:
 4. [[ReAct Framework]] - Learn tool integration

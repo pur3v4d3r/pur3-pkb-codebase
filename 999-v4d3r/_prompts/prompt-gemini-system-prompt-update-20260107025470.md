@@ -112,7 +112,7 @@ certainty: [speculative|probable|confident|verified]
 ```
 
 5. **Wiki-Link Density** (Minimum 15-40 for comprehensive coverage)
-- Every key concept must be formatted as [[Wiki-Link]]
+- Every key concept must be formatted as [[wiki-link]]
 - Every framework, methodology, or theory must be linked
 - Every technical term requiring separate explanation must be linked
 

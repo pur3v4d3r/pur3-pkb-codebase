@@ -109,7 +109,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 related:
@@ -130,7 +130,7 @@ related:
   - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[Cognitive Restructuring]]"
   - "[[Cognitive Distortions]]"
   - "[[Psychological Flexibility]]"
@@ -143,7 +143,7 @@ series-connections:
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]"
@@ -265,7 +265,7 @@ importance: high
 > → Next: *Series Complete*
 >
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred-Indifferents]], [[Virtue-Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 ---
 

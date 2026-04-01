@@ -36,7 +36,7 @@ aliases:
 ## Introduction
 
 [[John-Dewey]]'s *How We Think* (1910, revised 1933) is one of the foundational texts
-of [[Pragmatism]] and [[Educational-Philosophy]]. Written for teachers and educated
+of [[pragmatism]] and [[Educational-Philosophy]]. Written for teachers and educated
 general readers, it addresses a deceptively simple question: what does it mean to think
 *well*? Dewey's answer unfolds across nineteen chapters organized in three parts —
 diagnosing the problem of training thought, analyzing the logical structure of

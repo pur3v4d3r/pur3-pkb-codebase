@@ -11,7 +11,7 @@ tags:
   - cognitive-science/reframing
   - source-material
 author: [[Marcus-Aurelius]]
-related: [[Epictetus]], [[Stoic Physics]], [[Hegemonikon]], [[Amor Fati]]
+related: [[Epictetus]], [[Stoic Physics]], [[Hegemonikon]], [[Amor-Fati]]
 ---
 
 > [!the-purpose]
@@ -447,7 +447,7 @@ tags:
   - cognitive-science/reframing
   - source-material
 author: [[Marcus-Aurelius]]
-related: [[Oikeiosis]], [[Stoic Physics]], [[Amor Fati]], [[Murex]]
+related: [[Oikeiosis]], [[Stoic Physics]], [[Amor-Fati]], [[Murex]]
 ---
 
 > [!the-purpose]
@@ -829,7 +829,7 @@ When at any time thou art offended with any one's impudency, put presently this 
 
 > [!context]
 > **The Discipline of Assent**
-> Book X focuses on the acceptance of destiny ([[Amor Fati]]) and the definition of the Self. It contains the "Spider" analogy and the "Epithets" exercise.
+> Book X focuses on the acceptance of destiny ([[Amor-Fati]]) and the definition of the Self. It contains the "Spider" analogy and the "Epithets" exercise.
 
 ### VIII. The Identity Reset (The Epithets)
 
@@ -1122,7 +1122,7 @@ To navigate any event, apply these three filters in order.
 
 #### 2. The Discipline of Desire (Physics)
 * **Domain:** [[Stoic Physics]] / Metaphysics.
-* **Goal:** Acceptance ([[Amor Fati]]).
+* **Goal:** Acceptance ([[Amor-Fati]]).
 * **The Method:** **The View from Above**. Zoom out to cosmic time. Realize that what is happening to you is necessary for the health of the Whole ([[Cosmos]]). To reject it is to become a cancerous growth ("Aposteme") on the world.
 * **Command:** *"Whatsoever is expedient unto thee, O World, is expedient unto me."*
 * **Key Text:** Book IV, XXIII; Book X, VI.

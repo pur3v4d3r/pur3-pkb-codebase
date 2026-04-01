@@ -56,7 +56,7 @@ composite-type: [if composite] sequential-chain | parallel-branch | recursive-lo
 specialized-domain: [if specialized] educational | technical | creative | pkb-operations
 
 # Intelligence Layer
-concepts:: [[Concept-1]], [[Concept-2]], [[Concept 3]]
+concepts:: [[Concept-1]], [[Concept-2]], [[Concept-3]]
   # Key ideas this component addresses (auto-linkable for discovery)
 
 use-cases::
@@ -260,7 +260,7 @@ component-category: workflow
 composite-type: sequential-chain
 
 # Intelligence Layer
-concepts:: [[Claude-Code]], [[System Prompt]], [[PKB Architecture]], [[Multi-Mode Operation]], [[Semantic Color Coding]], [[Dataview Integration]], [[Quality Gates]]
+concepts:: [[Claude-Code]], [[System Prompt]], [[PKB-Architecture]], [[Multi-Mode Operation]], [[Semantic Color Coding]], [[Dataview Integration]], [[Quality Gates]]
 use-cases::
   - Operating Claude Code as PKB assistant in VS Code
   - Generating vault-native notes with full formatting

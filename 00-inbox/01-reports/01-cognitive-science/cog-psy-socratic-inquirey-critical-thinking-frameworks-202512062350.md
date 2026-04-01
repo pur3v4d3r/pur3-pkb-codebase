@@ -429,7 +429,7 @@ The most sophisticated understanding recognizes that the relationship between ex
 
 **Phase 3 - Framework Transcendence** (Proficient/Expert Stage): Mature critical thinkers operate primarily through cultivated intuition, with framework knowledge receding from conscious awareness. They've internalized the intellectual virtues and reasoning habits that frameworks codify, but they no longer need to consciously invoke framework terminology. Framework knowledge remains available for difficult cases requiring deliberate analysis or for metacognitive reflection and teaching others.
 
-This model aligns with both the [[Dreyfus Model of Skill Acquisition]] and research on [[Expertise Development]]. It suggests that educational practice should be **developmentally differentiated**: emphasize explicit frameworks for novices, encourage practice-based integration for intermediate learners, and foster framework-transcendent expertise for advanced students.
+This model aligns with both the [[Dreyfus Model of Skill Acquisition]] and research on [[Expertise-Development]]. It suggests that educational practice should be **developmentally differentiated**: emphasize explicit frameworks for novices, encourage practice-based integration for intermediate learners, and foster framework-transcendent expertise for advanced students.
 
 ### Implications for Critical Thinking Education
 
@@ -452,7 +452,7 @@ This refined understanding yields several practical implications:
 
 The deepest question remains: What is the relationship between **explicit methodological knowledge** (frameworks, principles, rules) and **implicit reasoning skill** (intuition, judgment, practical wisdom)?
 
-Research in [[Cognitive-Science]] and [[Philosophy of Mind]] suggests these forms of knowledge are not simply additive (more of each produces better thinking) but interactive in complex ways. Anderson's ACT-R theory of skill acquisition proposes that procedural knowledge develops through a process of "proceduralization"—declarative knowledge (explicit rules and facts) gradually transforms into procedural knowledge (automatic skills) through practice. Initially, you consciously follow the rule; eventually, the skill operates automatically without conscious rule-following.
+Research in [[Cognitive-Science]] and [[philosophy-of-mind]] suggests these forms of knowledge are not simply additive (more of each produces better thinking) but interactive in complex ways. Anderson's ACT-R theory of skill acquisition proposes that procedural knowledge develops through a process of "proceduralization"—declarative knowledge (explicit rules and facts) gradually transforms into procedural knowledge (automatic skills) through practice. Initially, you consciously follow the rule; eventually, the skill operates automatically without conscious rule-following.
 
 But this transformation is not simply one-directional. Expert performers sometimes engage in "declarative recovery"—bringing procedural knowledge back into conscious awareness for refinement, troubleshooting, or teaching others. A master chess player mostly relies on intuitive pattern recognition (procedural) but can, when needed, articulate strategic principles (declarative) to explain a move choice or teach a student.
 

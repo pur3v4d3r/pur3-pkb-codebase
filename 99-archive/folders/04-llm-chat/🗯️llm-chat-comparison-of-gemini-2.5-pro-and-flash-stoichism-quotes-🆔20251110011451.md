@@ -117,7 +117,7 @@ This is the central thesis. The following quotes explore its practical applicati
     - The ancient Greek and Roman philosophy founded by Zeno of Citium, focusing on virtue, reason, and living in accordance with nature.
 * [[Virtue (Stoic)]]
     - The sole good in Stoic ethics, often defined as a combination of four cardinal virtues: Wisdom (Sophia), Justice (Dikaiosyne), Courage (Andreia), and Temperance (Sophrosyne).
-* [[Amor Fati]]
+* [[Amor-Fati]]
     - A related concept, often translated as "love of fate," which involves enthusiastically accepting all events and situations as part of a larger, rational order ([[Logos]]).
 * [[Premeditatio-Malorum]]
     - The Stoic practice of "premeditation of evils," a form of negative visualization designed to build resilience by contemplating potential future misfortunes.

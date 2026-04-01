@@ -151,7 +151,7 @@ The architecture recognizes three critical constraints of current [[LLM]] system
 The system creates a <span style='color: #9E6CD3;'>**document-based knowledge structure**</span> but lacks explicit graph connectivity:
 
 - Files reference each other implicitly through naming conventions
-- No [[Wiki-Link]] style connections between documents
+- No [[wiki-link]] style connections between documents
 - No backlink or bi-directional reference tracking
 - `memory-index.md` provides hierarchical but not networked navigation
 

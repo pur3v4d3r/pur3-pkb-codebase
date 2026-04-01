@@ -157,7 +157,7 @@ integrated-frameworks:
   - "[[Socratic-Method]]"
   - "[[Metacognition]]"
   - "[[Dual-Process-Theory]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[Pragmatic-Maxim]]"
   - "[[Fallibilism]]"
   - "[[Constructivism]]"
@@ -190,7 +190,7 @@ related:
   - "[[Socratic-Method]]"
   - "[[Dual-Process-Theory]]"
   - "[[Self-Regulated-Learning]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[Stoicism]]"
   - "[[Constructivism]]"
   - "[[Self-Determination-Theory]]"
@@ -209,7 +209,7 @@ prerequisites:
 broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -228,7 +228,7 @@ see-also:
   - "[[Socratic Synthesis Protocol]]"
   - "[[PKB Metadata Template — Reports]]"
   - "[[Debiasing-Interventions]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
   - "[[Eudaimonia as Cognitive Achievement]]"
   - "[[Cognitive Ecology Design]]"
@@ -400,7 +400,7 @@ My goal is to work with these and potentially other systems suggested by you to 
 The central synthesis examines how [[Dewey's-Reflective-Thinking]], the [[Socratic-Method]], and [[Metacognitive-Monitoring]] converge as a unified activation system for critical thought. The report argues that inquiry is not a skill to be practiced but a *mode of encountering the world* — and that all three frameworks are pointing at the same underlying cognitive event from different philosophical angles. [[System-2-Thinking]] is brought in to explain why this mode is effortful and therefore requires deliberate activation protocols.
 
 **Report 02 — The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance**
-This report synthesizes [[epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] into a unified philosophy of knowledge acquisition. It argues that these frameworks collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions that carry practical consequences. The synthesis reveals how this posture is itself a form of metacognitive self-regulation. [[Schema-Theory]] is integrated to show how this posture operates at the structural level of cognition.
+This report synthesizes [[Epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] into a unified philosophy of knowledge acquisition. It argues that these frameworks collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions that carry practical consequences. The synthesis reveals how this posture is itself a form of metacognitive self-regulation. [[Schema-Theory]] is integrated to show how this posture operates at the structural level of cognition.
 
 **Report 03 — The Motivated Mind: Intrinsic Engagement and the Will to Think Well**
 This report synthesizes [[Self-Determination-Theory]], the [[Flow]] state, Stoic concepts of *prohairesis* (intentional choice) and the *dichotomy of control*, and the neuroscience of intrinsic motivation into a theory of *cognitive vitality*. The central argument is that the Stoics and SDT researchers are describing the same psychological architecture from two millennia apart — and that the intersection reveals why autonomy is not merely motivationally beneficial but *cognitively necessary* for the kind of deep thinking this framework demands.
@@ -409,13 +409,13 @@ This report synthesizes [[Self-Determination-Theory]], the [[Flow]] state, Stoic
 This report synthesizes the [[Zone-of-Proximal-Development]], the [[Pragmatic-Maxim]] (learning through consequences), [[Schema-Theory]] (building on existing structures), and [[Cognitive-Load-Theory]] into a theory of *intelligent cognitive construction*. It argues that Vygotsky and Dewey are describing the same pedagogical principle — that understanding is always built at the edge of what is already known — and that cognitive load theory provides the neuroscientific mechanism explaining why this is true.
 
 **Report 05 — The Virtuous Reasoner: Intellectual Character as Cognitive Infrastructure**
-This report synthesizes the intellectual virtues ([[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]]) with [[Stoic-Virtue-Ethics]], [[epistemology]]'s account of justified belief, and contemporary cognitive science on motivated reasoning and [[Cognitive-Biases]]. The central argument is that intellectual virtues are not decorative moral qualities but *functional cognitive tools* — each one corrects a specific systematic error in the reasoning architecture.
+This report synthesizes the intellectual virtues ([[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]]) with [[Stoic-Virtue-Ethics]], [[Epistemology]]'s account of justified belief, and contemporary cognitive science on motivated reasoning and [[Cognitive-Biases]]. The central argument is that intellectual virtues are not decorative moral qualities but *functional cognitive tools* — each one corrects a specific systematic error in the reasoning architecture.
 
 **Report 06 — Taming System 1: Metacognitive Regulation of Intuitive Thought**
-This report synthesizes [[Dual-Process-Theory]], the Stoic practice of [[Prosoche]] (self-attention) and impression management, [[Metacognitive-Self-Regulation]], and the cognitive science of [[Debiasing]] into a practical theory of *System 1 governance*. The central argument is that the Stoics had developed, through philosophical practice, something functionally equivalent to what cognitive scientists now call metacognitive monitoring — and that integrating the two traditions produces a more complete and practically actionable debiasing framework than either provides alone.
+This report synthesizes [[Dual-Process-Theory]], the Stoic practice of [[Prosoche]] (self-attention) and impression management, [[Metacognitive-Self-Regulation]], and the cognitive science of [[debiasing]] into a practical theory of *System 1 governance*. The central argument is that the Stoics had developed, through philosophical practice, something functionally equivalent to what cognitive scientists now call metacognitive monitoring — and that integrating the two traditions produces a more complete and practically actionable debiasing framework than either provides alone.
 
 **Report 07 — The Self-Directed Learner: Autonomy, Schema Construction, and Personal Learning Architecture**
-This report synthesizes [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive Strategies]] into a theory of *lifelong intellectual self-construction*. The central argument is that the most powerful learning systems are those in which the learner has internalized the regulatory architecture itself — becoming not just a learner within a system but the architect of their own learning system. The report provides a practical framework for constructing this architecture.
+This report synthesizes [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive-strategies]] into a theory of *lifelong intellectual self-construction*. The central argument is that the most powerful learning systems are those in which the learner has internalized the regulatory architecture itself — becoming not just a learner within a system but the architect of their own learning system. The report provides a practical framework for constructing this architecture.
 
 **Report 08 — The Examined Life in Practice: Deploying the Integrated Framework**
 The capstone report synthesizes insights from all seven preceding reports into an integrated cognitive practice. It is not a summary but a *new synthesis* — arguing that the complete framework described across the series constitutes a coherent *philosophy of mind* that is simultaneously descriptive (how excellent thinkers actually think) and prescriptive (what practices reliably develop that excellence). The report concludes with a worked example of the framework applied to a complex, real-world epistemic challenge.
@@ -457,14 +457,14 @@ The capstone report synthesizes insights from all seven preceding reports into a
 - [[Debugging Strategies for Reasoning Errors]]
 - [[Structural Encoding Techniques]]
 - [[Working Memory and Executive Function]]
-- [[Expertise Development]]
-- [[Reflective Judgment Model]]
+- [[Expertise-Development]]
+- [[Reflective-Judgment-Model]]
 - [[Intellectual-Humility]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning]]
 - [[Argument-Mapping]]
 - [[Socratic-Questioning]]
-- [[Pre-Mortem Analysis]]
-- [[Red Team Thinking]]
+- [[Pre-Mortem-Analysis]]
+- [[Red-Team-Thinking]]
 - [[Blue Team Thinking]]
 - [[Critical-Thinking]]
 - [[Reflective-Thinking]]
@@ -485,7 +485,7 @@ The capstone report synthesizes insights from all seven preceding reports into a
 - [[Socratic-Method]]
 - [[Dialectic]]
 - [[Elenchus]]
-- [[epistemology]]
+- [[Epistemology]]
 - [[Stoicism]]
 - [[Constructivism]]
 - [[Zone-of-Proximal-Development]]
@@ -503,7 +503,7 @@ The capstone report synthesizes insights from all seven preceding reports into a
 - [[Scientific-Reasoning]]
 - [[Transfer-of-Learning]]
 - [[Self-Regulated-Learning]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies]]
 - [[Reflective-Practice]]
 - [[Self-Assessment]]
 - [[Continuous Improvement]]
@@ -991,7 +991,7 @@ prerequisites:
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
-  - "[[Metacognitive Awareness Inventory]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
   - "[[Epistemic-Vigilance]]"
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
@@ -1022,15 +1022,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise Development]]"
-  - "[[Reflective Judgment Model]]"
+  - "[[Expertise-Development]]"
+  - "[[Reflective-Judgment-Model]]"
   - "[[Intellectual-Humility]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
   - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem Analysis]]"
-  - "[[Red Team Thinking]]"
-  - "[[Cognitive Forcing Functions]]"
+  - "[[Pre-Mortem-Analysis]]"
+  - "[[Red-Team-Thinking]]"
+  - "[[Cognitive-Forcing-Functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -1369,7 +1369,7 @@ related_concepts:
   - "[[Stoicism]]"
   - "[[Constructivism]]"
   - "[[Self-Determination-Theory]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[Pragmatic-Maxim]]"
   - "[[Dual-Process-Theory]]"
 
@@ -1440,7 +1440,7 @@ link-related:
 
 You are designated as the **Distinguished Synthesis Scholar** — an expert in the philosophy of mind, cognitive science, educational psychology, and the history of ideas. Your singular purpose within this Claude Project is to generate a series of long-form, deeply synthesized academic reports that weave together a constellation of intellectual frameworks into a coherent, practical philosophy of thinking and learning.
 
-You are not a summarizer. You are not an encyclopedist. You are a **synthesizer** — your task is to find the hidden architecture that connects [[Metacognition]], [[Reflective-Thinking]], [[Stoicism]], [[Constructivism]], [[Self-Determination-Theory]], [[epistemology]], [[Pragmatic-Maxim]], [[Socratic-Method]], and [[Dual-Process-Theory]] into something greater than their sum. Each report you generate is a permanent intellectual asset in a Personal Knowledge Base (PKB). It must be written and structured accordingly.
+You are not a summarizer. You are not an encyclopedist. You are a **synthesizer** — your task is to find the hidden architecture that connects [[Metacognition]], [[Reflective-Thinking]], [[Stoicism]], [[Constructivism]], [[Self-Determination-Theory]], [[Epistemology]], [[Pragmatic-Maxim]], [[Socratic-Method]], and [[Dual-Process-Theory]] into something greater than their sum. Each report you generate is a permanent intellectual asset in a Personal Knowledge Base (PKB). It must be written and structured accordingly.
 
 > [!the-purpose]
 > **Core Constitutional Mandate**
@@ -1469,7 +1469,7 @@ The series is titled **"The Architecture of Excellent Thinking: A Synthesis of C
 The central synthesis examines how [[Dewey's-Reflective-Thinking]], the [[Socratic-Method]], and [[Metacognitive-Monitoring]] converge as a unified activation system for critical thought. The report argues that inquiry is not a skill to be practiced but a *mode of encountering the world* — and that all three frameworks are pointing at the same underlying cognitive event from different philosophical angles. [[System-2-Thinking]] is brought in to explain why this mode is effortful and therefore requires deliberate activation protocols.
 
 **Report 02 — The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance**
-This report synthesizes [[epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] into a unified philosophy of knowledge acquisition. It argues that these frameworks collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions that carry practical consequences. The synthesis reveals how this posture is itself a form of metacognitive self-regulation. [[Schema-Theory]] is integrated to show how this posture operates at the structural level of cognition.
+This report synthesizes [[Epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] into a unified philosophy of knowledge acquisition. It argues that these frameworks collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions that carry practical consequences. The synthesis reveals how this posture is itself a form of metacognitive self-regulation. [[Schema-Theory]] is integrated to show how this posture operates at the structural level of cognition.
 
 **Report 03 — The Motivated Mind: Intrinsic Engagement and the Will to Think Well**
 This report synthesizes [[Self-Determination-Theory]], the [[Flow]] state, Stoic concepts of *prohairesis* (intentional choice) and the *dichotomy of control*, and the neuroscience of intrinsic motivation into a theory of *cognitive vitality*. The central argument is that the Stoics and SDT researchers are describing the same psychological architecture from two millennia apart — and that the intersection reveals why autonomy is not merely motivationally beneficial but *cognitively necessary* for the kind of deep thinking this framework demands.
@@ -1478,13 +1478,13 @@ This report synthesizes [[Self-Determination-Theory]], the [[Flow]] state, Stoic
 This report synthesizes the [[Zone-of-Proximal-Development]], the [[Pragmatic-Maxim]] (learning through consequences), [[Schema-Theory]] (building on existing structures), and [[Cognitive-Load-Theory]] into a theory of *intelligent cognitive construction*. It argues that Vygotsky and Dewey are describing the same pedagogical principle — that understanding is always built at the edge of what is already known — and that cognitive load theory provides the neuroscientific mechanism explaining why this is true.
 
 **Report 05 — The Virtuous Reasoner: Intellectual Character as Cognitive Infrastructure**
-This report synthesizes the intellectual virtues ([[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]]) with [[Stoic-Virtue-Ethics]], [[epistemology]]'s account of justified belief, and contemporary cognitive science on motivated reasoning and [[Cognitive-Biases]]. The central argument is that intellectual virtues are not decorative moral qualities but *functional cognitive tools* — each one corrects a specific systematic error in the reasoning architecture.
+This report synthesizes the intellectual virtues ([[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]]) with [[Stoic-Virtue-Ethics]], [[Epistemology]]'s account of justified belief, and contemporary cognitive science on motivated reasoning and [[Cognitive-Biases]]. The central argument is that intellectual virtues are not decorative moral qualities but *functional cognitive tools* — each one corrects a specific systematic error in the reasoning architecture.
 
 **Report 06 — Taming System 1: Metacognitive Regulation of Intuitive Thought**
-This report synthesizes [[Dual-Process-Theory]], the Stoic practice of [[Prosoche]] (self-attention) and impression management, [[Metacognitive-Self-Regulation]], and the cognitive science of [[Debiasing]] into a practical theory of *System 1 governance*. The central argument is that the Stoics had developed, through philosophical practice, something functionally equivalent to what cognitive scientists now call metacognitive monitoring — and that integrating the two traditions produces a more complete and practically actionable debiasing framework than either provides alone.
+This report synthesizes [[Dual-Process-Theory]], the Stoic practice of [[Prosoche]] (self-attention) and impression management, [[Metacognitive-Self-Regulation]], and the cognitive science of [[debiasing]] into a practical theory of *System 1 governance*. The central argument is that the Stoics had developed, through philosophical practice, something functionally equivalent to what cognitive scientists now call metacognitive monitoring — and that integrating the two traditions produces a more complete and practically actionable debiasing framework than either provides alone.
 
 **Report 07 — The Self-Directed Learner: Autonomy, Schema Construction, and Personal Learning Architecture**
-This report synthesizes [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive Strategies]] into a theory of *lifelong intellectual self-construction*. The central argument is that the most powerful learning systems are those in which the learner has internalized the regulatory architecture itself — becoming not just a learner within a system but the architect of their own learning system. The report provides a practical framework for constructing this architecture.
+This report synthesizes [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive-strategies]] into a theory of *lifelong intellectual self-construction*. The central argument is that the most powerful learning systems are those in which the learner has internalized the regulatory architecture itself — becoming not just a learner within a system but the architect of their own learning system. The report provides a practical framework for constructing this architecture.
 
 **Report 08 — The Examined Life in Practice: Deploying the Integrated Framework**
 The capstone report synthesizes insights from all seven preceding reports into an integrated cognitive practice. It is not a summary but a *new synthesis* — arguing that the complete framework described across the series constitutes a coherent *philosophy of mind* that is simultaneously descriptive (how excellent thinkers actually think) and prescriptive (what practices reliably develop that excellence). The report concludes with a worked example of the framework applied to a complex, real-world epistemic challenge.
@@ -1537,7 +1537,7 @@ A structural homology exists when two frameworks, developed independently and in
 A conceptual tension exists when two frameworks that should agree appear to conflict, or when a framework contains an internal contradiction that another framework resolves. [[Stoicism]]'s emphasis on accepting what one cannot control appears to tension with [[Self-Determination-Theory]]'s emphasis on autonomy and internal locus of causality. The productive synthesis does not dissolve this tension but *uses* it — arguing that the tension points to a genuine complexity in human cognition that a simpler framework would miss. The Stoic and SDT accounts of autonomy operate at different levels of analysis, and recognizing that distinction illuminates both frameworks.
 
 **Move 3: The Mutual Enrichment 💡**
-Mutual enrichment occurs when integrating two frameworks makes each individually more powerful than it was in isolation. [[Constructivism]]'s account of schema building is enriched by [[Cognitive-Load-Theory]]'s account of working memory constraints — now we understand not just *that* learning builds on prior knowledge, but *why* trying to build too much at once is cognitively destructive. [[epistemology]]'s account of justified belief is enriched by the [[Pragmatic-Maxim]]'s insistence on practical consequences — now justification is not just a logical property but a functional one, measured by the quality of action it enables. When you find mutual enrichment, describe precisely what each framework gains.
+Mutual enrichment occurs when integrating two frameworks makes each individually more powerful than it was in isolation. [[Constructivism]]'s account of schema building is enriched by [[Cognitive-Load-Theory]]'s account of working memory constraints — now we understand not just *that* learning builds on prior knowledge, but *why* trying to build too much at once is cognitively destructive. [[Epistemology]]'s account of justified belief is enriched by the [[Pragmatic-Maxim]]'s insistence on practical consequences — now justification is not just a logical property but a functional one, measured by the quality of action it enables. When you find mutual enrichment, describe precisely what each framework gains.
 
 **Move 4: The Emergent Insight 🌟**
 An emergent insight is a claim that becomes visible *only* when two or more frameworks are held together — it could not be derived from either alone. The synthesis of [[Dual-Process-Theory]], [[Stoic-Prosoche]], and [[Metacognitive-Monitoring]] produces an emergent insight: that the capacity for *reflective interruption* of automatic thought is not just a cognitive skill but a philosophical practice, one that requires sustained cultivation of a particular relationship to one's own mental life. No single framework contains this insight in full; it emerges from the collision. Every report must contain at least one emergent insight, named and argued for explicitly.
@@ -1930,7 +1930,7 @@ The series is titled **"The Architecture of Excellent Thinking: A Synthesis of C
 The central synthesis examines how [[Dewey's-Reflective-Thinking]], the [[Socratic-Method]], and [[Metacognitive-Monitoring]] converge as a unified activation system for critical thought. The report argues that inquiry is not a skill to be practiced but a *mode of encountering the world* — and that all three frameworks are pointing at the same underlying cognitive event from different philosophical angles. [[System-2-Thinking]] is brought in to explain why this mode is effortful and therefore requires deliberate activation protocols.
 
 **Report 02 — The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance**
-This report synthesizes [[epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] into a unified philosophy of knowledge acquisition. It argues that these frameworks collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions that carry practical consequences. The synthesis reveals how this posture is itself a form of metacognitive self-regulation. [[Schema-Theory]] is integrated to show how this posture operates at the structural level of cognition.
+This report synthesizes [[Epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] into a unified philosophy of knowledge acquisition. It argues that these frameworks collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions that carry practical consequences. The synthesis reveals how this posture is itself a form of metacognitive self-regulation. [[Schema-Theory]] is integrated to show how this posture operates at the structural level of cognition.
 
 **Report 03 — The Motivated Mind: Intrinsic Engagement and the Will to Think Well**
 This report synthesizes [[Self-Determination-Theory]], the [[Flow]] state, Stoic concepts of *prohairesis* (intentional choice) and the *dichotomy of control*, and the neuroscience of intrinsic motivation into a theory of *cognitive vitality*. The central argument is that the Stoics and SDT researchers are describing the same psychological architecture from two millennia apart — and that the intersection reveals why autonomy is not merely motivationally beneficial but *cognitively necessary* for the kind of deep thinking this framework demands.
@@ -1939,13 +1939,13 @@ This report synthesizes [[Self-Determination-Theory]], the [[Flow]] state, Stoic
 This report synthesizes the [[Zone-of-Proximal-Development]], the [[Pragmatic-Maxim]] (learning through consequences), [[Schema-Theory]] (building on existing structures), and [[Cognitive-Load-Theory]] into a theory of *intelligent cognitive construction*. It argues that Vygotsky and Dewey are describing the same pedagogical principle — that understanding is always built at the edge of what is already known — and that cognitive load theory provides the neuroscientific mechanism explaining why this is true.
 
 **Report 05 — The Virtuous Reasoner: Intellectual Character as Cognitive Infrastructure**
-This report synthesizes the intellectual virtues ([[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]]) with [[Stoic-Virtue-Ethics]], [[epistemology]]'s account of justified belief, and contemporary cognitive science on motivated reasoning and [[Cognitive-Biases]]. The central argument is that intellectual virtues are not decorative moral qualities but *functional cognitive tools* — each one corrects a specific systematic error in the reasoning architecture.
+This report synthesizes the intellectual virtues ([[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]]) with [[Stoic-Virtue-Ethics]], [[Epistemology]]'s account of justified belief, and contemporary cognitive science on motivated reasoning and [[Cognitive-Biases]]. The central argument is that intellectual virtues are not decorative moral qualities but *functional cognitive tools* — each one corrects a specific systematic error in the reasoning architecture.
 
 **Report 06 — Taming System 1: Metacognitive Regulation of Intuitive Thought**
-This report synthesizes [[Dual-Process-Theory]], the Stoic practice of [[Prosoche]] (self-attention) and impression management, [[Metacognitive-Self-Regulation]], and the cognitive science of [[Debiasing]] into a practical theory of *System 1 governance*. The central argument is that the Stoics had developed, through philosophical practice, something functionally equivalent to what cognitive scientists now call metacognitive monitoring — and that integrating the two traditions produces a more complete and practically actionable debiasing framework than either provides alone.
+This report synthesizes [[Dual-Process-Theory]], the Stoic practice of [[Prosoche]] (self-attention) and impression management, [[Metacognitive-Self-Regulation]], and the cognitive science of [[debiasing]] into a practical theory of *System 1 governance*. The central argument is that the Stoics had developed, through philosophical practice, something functionally equivalent to what cognitive scientists now call metacognitive monitoring — and that integrating the two traditions produces a more complete and practically actionable debiasing framework than either provides alone.
 
 **Report 07 — The Self-Directed Learner: Autonomy, Schema Construction, and Personal Learning Architecture**
-This report synthesizes [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive Strategies]] into a theory of *lifelong intellectual self-construction*. The central argument is that the most powerful learning systems are those in which the learner has internalized the regulatory architecture itself — becoming not just a learner within a system but the architect of their own learning system. The report provides a practical framework for constructing this architecture.
+This report synthesizes [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive-strategies]] into a theory of *lifelong intellectual self-construction*. The central argument is that the most powerful learning systems are those in which the learner has internalized the regulatory architecture itself — becoming not just a learner within a system but the architect of their own learning system. The report provides a practical framework for constructing this architecture.
 
 **Report 08 — The Examined Life in Practice: Deploying the Integrated Framework**
 The capstone report synthesizes insights from all seven preceding reports into an integrated cognitive practice. It is not a summary but a *new synthesis* — arguing that the complete framework described across the series constitutes a coherent *philosophy of mind* that is simultaneously descriptive (how excellent thinkers actually think) and prescriptive (what practices reliably develop that excellence). The report concludes with a worked example of the framework applied to a complex, real-world epistemic challenge.
@@ -2085,7 +2085,7 @@ broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 
 see-also:
   - "[[Comprehension-Monitoring]]"
@@ -2429,7 +2429,7 @@ The second limitation concerns cultural variation. Dewey's account of perplexity
 
 2. **[[Internalization of Socratic Dialogue]]** — Research on the developmental trajectory from external Socratic questioning to internal metacognitive monitoring — Vygotskian accounts of appropriation, research on how inner speech develops from social speech, and empirical studies on the transfer of dialogical thinking to solo cognitive contexts. This note is foundational for understanding how the two structural homologies play out over developmental time.
 
-3. **[[Aporic Receptivity as Epistemic Virtue]]** — The philosophical elaboration of the emergent concept proposed in this report: how aporic receptivity relates to intellectual humility and intellectual courage (see [[Report 05]]), how it might be operationalized for empirical study, and what pedagogical conditions produce it. This is the note most directly requiring philosophical development.
+3. **[[Aporic Receptivity as Epistemic Virtue]]** — The philosophical elaboration of the emergent concept proposed in this report: how aporic receptivity relates to intellectual humility and intellectual courage (see [[Report-05]]), how it might be operationalized for empirical study, and what pedagogical conditions produce it. This is the note most directly requiring philosophical development.
 
 4. **[[Activation Protocols for System 2 Thinking]]** — A practical compilation of evidence-based interventions for triggering and sustaining Type 2 cognitive processing in learning and reasoning contexts: implementation intentions, pre-mortem analysis, structured controversy protocols, and other techniques that operationalize the synthesis framework's practical prescriptions.
 
@@ -2578,19 +2578,19 @@ related:
   - "[[Schema-Theory]]"
   - "[[Pragmatic-Maxim]]"
   - "[[Fallibilism]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
 
 broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 expansion-topics:
-  - topic: "[[Epistemic Injustice]]"
+  - topic: "[[Epistemic-Injustice]]"
     description: "Miranda Fricker's framework shows how social structures shape whose epistemic posture is permitted — a crucial corrective to individualist accounts"
     priority: high
   - topic: "[[Belief Perseverance Research]]"
@@ -2664,7 +2664,7 @@ generated-by-prompt: "critical-thinking-synthesis-series-system-prompt-v1-0-0"
 > **The Central Question**
 > If knowledge is always provisional, always constructed from prior experience, and always answerable for its practical consequences — what kind of *relationship* must a thinker cultivate with their own beliefs? And is this relationship, so described philosophically, the same thing that cognitive science has independently discovered and named *metacognitive self-regulation*?
 
-There is an argument, rarely made in its full explicit form, that lies latent at the intersection of four of the most significant intellectual traditions bearing on human knowledge and learning. [[epistemology]], [[Constructivism]], the [[Pragmatic-Maxim]], and [[Fallibilism]] are typically introduced to students as separate conceptual territories — one the province of professional philosophy, one of developmental and educational psychology, one of American pragmatist philosophy, and one of philosophy of science. What the literature on each framework almost never says outright is that they are four different vantage points on the *same underlying cognitive event*: the moment when a knower encounters a belief, examines it against experience and consequence, and decides — consciously or unconsciously — whether to retain, revise, or abandon it.
+There is an argument, rarely made in its full explicit form, that lies latent at the intersection of four of the most significant intellectual traditions bearing on human knowledge and learning. [[Epistemology]], [[Constructivism]], the [[Pragmatic-Maxim]], and [[Fallibilism]] are typically introduced to students as separate conceptual territories — one the province of professional philosophy, one of developmental and educational psychology, one of American pragmatist philosophy, and one of philosophy of science. What the literature on each framework almost never says outright is that they are four different vantage points on the *same underlying cognitive event*: the moment when a knower encounters a belief, examines it against experience and consequence, and decides — consciously or unconsciously — whether to retain, revise, or abandon it.
 
 This report argues that what these four frameworks are collectively describing, across their different vocabularies and disciplinary homes, is an *epistemological posture*. A posture is not a conclusion; it is an orientation. The question is not "what do you know?" but "how do you stand in relation to what you think you know?" The posture in question is one in which beliefs are held as provisional constructions, understood to carry practical stakes, and recognized as potentially revisable in light of new experience. This posture is, the synthesis will argue, neither a mere philosophical preference nor an abstract intellectual virtue — it is the cognitive architecture that makes genuine learning possible at all.
 
@@ -2676,7 +2676,7 @@ The synthesis makes a second, stronger claim that elevates this report beyond a 
 
 The stakes of getting this right are not academic in the dismissive sense. The practical failure to adopt the epistemological posture — holding one's beliefs as foundational certainties rather than provisional constructions — is the cognitive root of some of the most consequential epistemic failures observable in individuals and institutions alike. Motivated reasoning, confirmation bias, belief perseverance in the face of disconfirming evidence, the inability to update a professional or personal worldview when the evidence demands it: these are not simply failures of information or intelligence. They are failures of *posture* — of the cognitive orientation from which a knower approaches their own beliefs. Understanding the philosophical and cognitive architecture of the correct posture is, therefore, not an idle inquiry. It is a prerequisite for constructing the kind of intellectual character capable of genuine learning over a lifetime.
 
-This report connects backward to [[Report-01]], which established that inquiry is a mode of encountering the world requiring deliberate activation — specifically that [[Dewey's-Reflective-Thinking]], the [[Socratic-Method]], and [[Metacognitive-Monitoring]] converge as activation mechanisms for critical thought. The epistemological posture described in this report is the *substrate* that the inquiry engine of Report 01 presupposes. A thinker cannot genuinely inquire unless they already relate to their beliefs as revisable; the inquiry engine needs fuel, and the epistemological posture is that fuel. This report connects forward to [[Report 03]], which will examine why a thinker would be motivated to maintain this cognitively demanding posture against the gravitational pull of [[Cognitive-Biases]] and the comfort of certainty. The intrinsic motivation account developed there is the energy source that keeps the posture alive.
+This report connects backward to [[Report-01]], which established that inquiry is a mode of encountering the world requiring deliberate activation — specifically that [[Dewey's-Reflective-Thinking]], the [[Socratic-Method]], and [[Metacognitive-Monitoring]] converge as activation mechanisms for critical thought. The epistemological posture described in this report is the *substrate* that the inquiry engine of Report 01 presupposes. A thinker cannot genuinely inquire unless they already relate to their beliefs as revisable; the inquiry engine needs fuel, and the epistemological posture is that fuel. This report connects forward to [[Report-03]], which will examine why a thinker would be motivated to maintain this cognitively demanding posture against the gravitational pull of [[Cognitive-Biases]] and the comfort of certainty. The intrinsic motivation account developed there is the energy source that keeps the posture alive.
 
 ---
 
@@ -2684,7 +2684,7 @@ This report connects backward to [[Report-01]], which established that inquiry i
 
 ### 🔍 Epistemology's Central Problem: The Knower Who Cannot Step Outside
 
-[[epistemology]] is the branch of philosophy concerned with the nature, sources, and limits of knowledge. Its central preoccupation, since Plato's Theaetetus, has been the question of what distinguishes knowledge from mere belief. The standard analysis — knowledge as justified true belief — has been enormously productive and enormously contested; Edmund Gettier's 1963 counterexamples demonstrated that justified true belief is insufficient to capture what we mean by knowledge, launching a literature of enormous technical sophistication. But for the synthesis developed in this report, a more important feature of epistemology than its internal debates about the conditions of knowledge is its gradually dawning recognition that the knower cannot occupy a view from nowhere. The Cartesian aspiration to find a foundation of absolute certainty — a bedrock of indubitables from which all knowledge could be reconstructed — was, the pragmatists and constructivists argue, both philosophically misguided and psychologically impossible.
+[[Epistemology]] is the branch of philosophy concerned with the nature, sources, and limits of knowledge. Its central preoccupation, since Plato's Theaetetus, has been the question of what distinguishes knowledge from mere belief. The standard analysis — knowledge as justified true belief — has been enormously productive and enormously contested; Edmund Gettier's 1963 counterexamples demonstrated that justified true belief is insufficient to capture what we mean by knowledge, launching a literature of enormous technical sophistication. But for the synthesis developed in this report, a more important feature of epistemology than its internal debates about the conditions of knowledge is its gradually dawning recognition that the knower cannot occupy a view from nowhere. The Cartesian aspiration to find a foundation of absolute certainty — a bedrock of indubitables from which all knowledge could be reconstructed — was, the pragmatists and constructivists argue, both philosophically misguided and psychologically impossible.
 
 What epistemology contributes to this synthesis is its rigorous account of *justification* — the question of what makes a belief rational to hold. The key epistemological insight relevant here is that justification is not an all-or-nothing property. Beliefs exist on a spectrum from highly warranted to barely warranted, and this spectrum is not fixed: new evidence, new arguments, and new experiences can move a belief up or down the spectrum, and a rational knower must be responsive to that movement. This is the epistemological basis for what will become the posture: a rational relationship to one's own beliefs requires tracking their justificatory status, which requires recognizing that justification is provisional, degree-varying, and experience-dependent. A knower who treats their beliefs as certain and unjustifiable has opted out of the epistemological enterprise itself.
 
@@ -2806,13 +2806,13 @@ These findings support the synthesis's central claim: if the epistemological pos
 
 ### 🌟 The Emergent Architecture of the Fallible Knower
 
-The synthesis is now ready to be stated in its most complete form. [[epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]], held together as a unified system rather than as a collection of separate frameworks, reveal the architecture of what might be called the *fallible knower* — not as a label for cognitive limitation, but as a description of the cognitive structure that makes genuine knowing possible at all.
+The synthesis is now ready to be stated in its most complete form. [[Epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]], held together as a unified system rather than as a collection of separate frameworks, reveal the architecture of what might be called the *fallible knower* — not as a label for cognitive limitation, but as a description of the cognitive structure that makes genuine knowing possible at all.
 
 The fallible knower is characterized not by what they believe but by how they hold their beliefs: as provisional constructions built from prior experience, answerable to further experience, and evaluated by their capacity to enable successful intelligent navigation of the world. This is simultaneously an epistemological description (the relationship to justification), a pragmatic description (the relationship to practical consequences), a fallibilist description (the relationship to uncertainty and revision), and a constructivist description (the relationship to prior cognitive structure). These four descriptions are not four separate features of the fallible knower; they are four perspectives on the same underlying cognitive orientation.
 
 The emergent insight — the claim that only becomes visible through the full synthesis — is that this orientation is not a philosophical luxury but a *cognitive necessity*. Consider what happens to a cognitive system that abandons the fallible knower's posture and adopts its opposite: a system that holds its beliefs with absolute certainty, treats its schemata as transparent windows onto reality rather than constructed frameworks, and evaluates beliefs by internal consistency rather than practical consequence. Such a system can *process* information; it cannot *learn* from it in the deepest sense, because genuine learning requires the accommodation of existing schemata to experience, which requires the metacognitive availability of those schemata as objects of revision rather than as cognitive bedrock. The system that cannot doubt cannot inquire; the system that cannot inquire cannot learn; the system that cannot learn is cognitively static regardless of how sophisticated its initial knowledge base might be.
 
-This emergent insight has a further dimension that points toward [[Report 03]]. The fallible knower's posture is not merely cognitively necessary; it is *psychologically demanding*. The comfort of certainty, the efficiency of assimilation, the social rewards of confident assertion — all of these create powerful incentives to abandon the posture. The empirical literature on belief perseverance and motivated reasoning documents how systematically and unconsciously this abandonment occurs even in sophisticated, well-educated thinkers. The question of what psychological resources sustain the posture against this pressure — what motivational architecture enables a thinker to maintain genuine epistemic openness over time — is precisely the question that [[Self-Determination-Theory]], the [[Flow]] state, and Stoic [[Prohairesis]] will address in Report 03.
+This emergent insight has a further dimension that points toward [[Report-03]]. The fallible knower's posture is not merely cognitively necessary; it is *psychologically demanding*. The comfort of certainty, the efficiency of assimilation, the social rewards of confident assertion — all of these create powerful incentives to abandon the posture. The empirical literature on belief perseverance and motivated reasoning documents how systematically and unconsciously this abandonment occurs even in sophisticated, well-educated thinkers. The question of what psychological resources sustain the posture against this pressure — what motivational architecture enables a thinker to maintain genuine epistemic openness over time — is precisely the question that [[Self-Determination-Theory]], the [[Flow]] state, and Stoic [[Prohairesis]] will address in Report 03.
 
 > [!connection-ideas]
 > **Threads to the Series**
@@ -2896,11 +2896,11 @@ The most important question that the synthesis raises for future investigation i
 
 ### Expansion Topics
 
-1. **[[Epistemic Injustice]]** — Miranda Fricker's account of how social structures shape whose testimony is credited and whose epistemic agency is recognized; essential complement to this report's individualist focus. Priority: High.
+1. **[[Epistemic-Injustice]]** — Miranda Fricker's account of how social structures shape whose testimony is credited and whose epistemic agency is recognized; essential complement to this report's individualist focus. Priority: High.
 2. **[[Belief Perseverance Research]]** — The empirical cognitive psychology literature documenting schema rigidity and disconfirmation bias; provides the psychological mechanism for why the fallibilist posture is difficult to maintain. Priority: High.
 3. **[[Situated Cognition and Distributed Knowing]]** — Extends constructivism beyond the individual to the material and social environment as cognitive scaffold. Priority: Medium.
 4. **[[Epistemic Calibration and Confidence]]** — The empirical literature on overconfidence, the hard-easy effect, and calibration training; directly applicable to the practical development of the fallibilist posture. Priority: High.
-5. **[[Social Epistemology]]** — The philosophical study of collective belief formation, testimony, and epistemic authority; addresses the principal limitation identified in Phase V. Priority: Medium.
+5. **[[Social-Epistemology]]** — The philosophical study of collective belief formation, testimony, and epistemic authority; addresses the principal limitation identified in Phase V. Priority: Medium.
 6. **[[Constructivism in Clinical and Therapeutic Contexts]]** — The application of constructivist epistemology to psychotherapy, where schema revision is simultaneously an epistemic and therapeutic goal; illuminates the emotional stakes of the epistemological posture. Priority: Medium.
 
 ---
@@ -3047,7 +3047,7 @@ broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -3520,7 +3520,7 @@ see-also:
   - "[[Expertise-Reversal-Effect]]"
   - "[[Worked-Example-Effect]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Interleaving]]"
+  - "[[interleaving]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -3640,7 +3640,7 @@ This has a profound implication that is central to the synthesis this report dev
 
 [[Dewey]]'s application of the [[Pragmatic-Maxim]] to education rests on a claim that is simultaneously epistemological and cognitive: the meaning of any concept is located in its practical consequences, in the difference it makes to experience when one acts on it rather than ignoring it. This is not a merely philosophical point about the definition of meaning. It is a cognitive claim about how schemas are built and revised. Dewey argued, with a consistency that permeates his entire philosophical project, that knowing is not a spectatorial relation between a mind and a fixed external reality but an active process of intelligent engagement with a problematic environment. Inquiry — the process of resolving doubt and achieving provisional stability — is triggered by the experience of genuine difficulty, and the knowledge it produces is validated not by correspondence to some mind-independent reality but by its success in transforming the problematic situation into a resolved one.
 
-Translated into cognitive terms: a concept is genuinely learned not when it has been encoded in memory but when it has been incorporated into a schema that generates accurate predictions about the consequences of acting on the concept. A student who can recite the definition of "compound interest" has encoded a verbal pattern; a student who can correctly predict the long-term behavior of a debt under varying interest rate assumptions has built a schema. The Pragmatic Maxim specifies the criterion for the latter: the schema is genuine — the learning is real — when it reliably produces the right consequences when deployed in action. This criterion is not merely motivationally useful (though it is that too, connecting to the account in [[Report 03]]); it is cognitively diagnostic. Consequential engagement with a concept is what forces schema revision rather than mere schema elaboration, because only in engagement with real situations does the inadequacy of a partial schema become apparent in a way that demands reconstruction rather than extension.
+Translated into cognitive terms: a concept is genuinely learned not when it has been encoded in memory but when it has been incorporated into a schema that generates accurate predictions about the consequences of acting on the concept. A student who can recite the definition of "compound interest" has encoded a verbal pattern; a student who can correctly predict the long-term behavior of a debt under varying interest rate assumptions has built a schema. The Pragmatic Maxim specifies the criterion for the latter: the schema is genuine — the learning is real — when it reliably produces the right consequences when deployed in action. This criterion is not merely motivationally useful (though it is that too, connecting to the account in [[Report-03]]); it is cognitively diagnostic. Consequential engagement with a concept is what forces schema revision rather than mere schema elaboration, because only in engagement with real situations does the inadequacy of a partial schema become apparent in a way that demands reconstruction rather than extension.
 
 The convergence of Dewey's consequentialism with Vygotsky's account of internalization is striking and non-obvious. For Vygotsky, learning begins as social and becomes individual. For Dewey, learning begins as experiential engagement and produces cognitive restructuring. Both are describing processes in which the encounter with genuine difficulty — with a situation that resists current cognitive resources — initiates a transformation in the learner's cognitive architecture. Neither is satisfied with learning as the passive accumulation of information. Both insist that genuine understanding requires that the learner's way of engaging with the world be changed by the encounter. The schemas that Vygotsky's internalization produces are the same schemas whose adequacy Dewey's consequentialism tests.
 
@@ -3976,7 +3976,7 @@ related:
   - "[[Intellectual-Integrity]]"
   - "[[Stoicism]]"
   - "[[Virtue-Ethics]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[Motivated-Reasoning]]"
   - "[[Cognitive-Biases]]"
   - "[[Metacognition]]"
@@ -3986,13 +3986,13 @@ broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 
 see-also:
   - "[[Virtue-Epistemology]]"
   - "[[Vice Epistemology]]"
   - "[[Epistemic Situationism]]"
-  - "[[Debiasing]]"
+  - "[[debiasing]]"
   - "[[Intellectual Character Education]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -4527,7 +4527,7 @@ related:
   - "[[Cognitive-Biases]]"
   - "[[Stoicism]]"
   - "[[Prosoche]]"
-  - "[[Debiasing]]"
+  - "[[debiasing]]"
   - "[[Metacognitive-Monitoring]]"
   - "[[System 1 Thinking]]"
   - "[[System-2-Thinking]]"
@@ -4536,7 +4536,7 @@ broader:
   - "[[cognitive-psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 
 see-also:
   - "[[Feeling of Rightness]]"
@@ -4630,7 +4630,7 @@ generated-by-prompt: "critical-thinking-synthesis-series-system-prompt-v1-0-0"
 
 The question of how human beings can govern their own automatic mental processes sits at the intersection of the oldest philosophical problems and the most active frontiers of contemporary cognitive science. Both disciplines agree on the basic architecture: the mind operates, in large part, through rapid, associative, affect-laden processes that produce conclusions before deliberation begins. Where they diverge is in their account of what can be done about it. The mainstream of cognitive science, through the towering influence of Daniel Kahneman's synthesis in *Thinking, Fast and Slow*, has tended toward a relatively pessimistic picture — [[Cognitive-Biases]] are pervasive, deeply rooted, and largely resistant to the kind of top-down control that [[System-2-Thinking]] would need to exercise to correct them. The Stoics, by contrast, built their entire philosophy around the claim that such governance is not only possible but is the very purpose of a human life well-lived.
 
-This report argues that both positions are partially correct, and that the synthesis of [[Dual-Process-Theory]], [[Stoic-Prosoche|Stoic prosochē]], [[Metacognitive-Self-Regulation]], and the contemporary science of [[Debiasing]] reveals something that neither tradition, in isolation, could articulate: effective governance of System 1 is not achieved by System 2 correcting System 1's outputs, but by the cultivation of a *third capacity* that operates between the two systems — a capacity for reflective interruption that the Stoics called the discipline of assent and that cognitive scientists are now beginning to recognize as the metacognitive control layer that *defines* the boundary between Type 1 and Type 2 processing.
+This report argues that both positions are partially correct, and that the synthesis of [[Dual-Process-Theory]], [[Stoic-Prosoche|Stoic prosochē]], [[Metacognitive-Self-Regulation]], and the contemporary science of [[debiasing]] reveals something that neither tradition, in isolation, could articulate: effective governance of System 1 is not achieved by System 2 correcting System 1's outputs, but by the cultivation of a *third capacity* that operates between the two systems — a capacity for reflective interruption that the Stoics called the discipline of assent and that cognitive scientists are now beginning to recognize as the metacognitive control layer that *defines* the boundary between Type 1 and Type 2 processing.
 
 This is not a trivial theoretical distinction. It has profound practical consequences. A model in which System 2 corrects System 1 generates one kind of training program: one focused on analytical skill-building, statistical reasoning, and logical competence. A model in which a third capacity must be cultivated before either system's outputs can be properly evaluated generates a radically different program — one closer to what the Stoics actually prescribed and what the most effective debiasing interventions in the empirical literature have actually implemented.
 
@@ -4638,7 +4638,7 @@ This is not a trivial theoretical distinction. It has profound practical consequ
 > **The Central Synthesis Argument**
 > The Stoics had developed, through centuries of philosophical practice, a functional equivalent to what cognitive scientists now call metacognitive monitoring — specifically, the capacity to detect the arrival of impressions (*phantasiai*) before assenting to them, to pause, examine, and withhold judgment from unreliable System 1 outputs. When dual-process theory is enriched by this Stoic account and both are grounded in the empirical debiasing literature, what emerges is a three-layer model of cognition that is more practically actionable than the two-layer model typically associated with Kahneman. The prior scholarship on Stoicism and psychology has largely focused on Stoicism's connections to Cognitive Behavioral Therapy — most notably through Donald Robertson's work — but has not fully developed the specific structural homology between Stoic impression management and the metacognitive monitoring literature in cognitive psychology. That homology is this report's central contribution.
 
-The intellectual stakes of this synthesis are high precisely because the problem it addresses is so consequential. If human reasoning is substantially governed by automatic processes that generate systematic errors — [[Confirmation-Bias|confirmation bias]], [[Availability-Heuristic|availability bias]], [[Anchoring Effect|anchoring]], [[Dunning-Kruger-Effect|overconfidence]], and the dozens of related biases catalogued since Tversky and Kahneman's landmark 1974 paper — and if these processes are largely invisible to introspection, then the question of how to govern them is not merely an academic puzzle. It is the question of whether rational agency, as understood in the tradition of [[epistemology]] and [[Reflective-Thinking]], is achievable at all. This report argues that it is achievable — but only through a specific kind of practice that has been independently discovered by ancient philosophers and modern cognitive scientists, and whose full dimensions become visible only when the two traditions are synthesized.
+The intellectual stakes of this synthesis are high precisely because the problem it addresses is so consequential. If human reasoning is substantially governed by automatic processes that generate systematic errors — [[Confirmation-Bias|confirmation bias]], [[Availability-Heuristic|availability bias]], [[Anchoring Effect|anchoring]], [[Dunning-Kruger-Effect|overconfidence]], and the dozens of related biases catalogued since Tversky and Kahneman's landmark 1974 paper — and if these processes are largely invisible to introspection, then the question of how to govern them is not merely an academic puzzle. It is the question of whether rational agency, as understood in the tradition of [[Epistemology]] and [[Reflective-Thinking]], is achievable at all. This report argues that it is achievable — but only through a specific kind of practice that has been independently discovered by ancient philosophers and modern cognitive scientists, and whose full dimensions become visible only when the two traditions are synthesized.
 
 The report builds on the series' prior foundations: Report 01's account of how inquiry is activated (the upstream precondition for metacognitive monitoring), Report 02's epistemological posture of [[Fallibilism|fallibilism]] (the philosophical motive for doubting System 1 outputs), Report 03's account of Stoic *prohairesis* (the volitional engine that drives sustained prosochē practice), and Report 05's treatment of intellectual virtues (the character dispositions, especially [[Intellectual-Humility]], that make such practice psychologically possible). What this report adds is the specific cognitive mechanism by which these dispositions and motivations actually operate on the mental processes that most often produce poor thinking.
 
@@ -4998,7 +4998,7 @@ related:
   - "[[Metacognition]]"
   - "[[Critical-Thinking]]"
   - "[[Self-Regulated-Learning]]"
-  - "[[Metacognitive Strategies]]"
+  - "[[Metacognitive-strategies]]"
   - "[[Schema-Theory]]"
   - "[[Zone-of-Proximal-Development]]"
   - "[[Organismic-Integration-Theory]]"
@@ -5013,7 +5013,7 @@ see-also:
   - "[[Reflective-Practice]]"
   - "[[Personal-Knowledge-Management]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Expertise Development]]"
+  - "[[Expertise-Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -5145,7 +5145,7 @@ The crucial distinction between identified and integrated regulation captures so
 
 ### Metacognitive Strategies: The Monitoring Layer
 
-[[Metacognitive Strategies]] refer to the specific cognitive operations through which a learner plans, monitors, and evaluates their own learning. John Flavell's (1979) foundational characterization distinguished metacognitive knowledge (what a person knows about cognition in general, about their own cognitive strengths and limitations, and about the cognitive demands of different tasks) from metacognitive monitoring (the in-progress awareness of how cognitive processes are proceeding) and metacognitive regulation (the actual adjustment of cognitive strategies in light of monitoring). In Zimmerman's SRL framework, metacognitive monitoring during the performance phase and self-evaluation during the reflection phase are the specific operations through which the cyclical system calibrates and improves itself over time.
+[[Metacognitive-strategies]] refer to the specific cognitive operations through which a learner plans, monitors, and evaluates their own learning. John Flavell's (1979) foundational characterization distinguished metacognitive knowledge (what a person knows about cognition in general, about their own cognitive strengths and limitations, and about the cognitive demands of different tasks) from metacognitive monitoring (the in-progress awareness of how cognitive processes are proceeding) and metacognitive regulation (the actual adjustment of cognitive strategies in light of monitoring). In Zimmerman's SRL framework, metacognitive monitoring during the performance phase and self-evaluation during the reflection phase are the specific operations through which the cyclical system calibrates and improves itself over time.
 
 The synthesis move available here is to recognize that the four frameworks introduced in this section are not describing four separate phenomena requiring four separate interventions. They are describing the same phenomenon — the development of intellectual self-direction — from four complementary angles, each of which illuminates something the others cannot.
 
@@ -5238,7 +5238,7 @@ The protocol is deliberately recursive: completing it is itself a metacognitive 
 
 ### The Emergent Insight: Metacognitive Identity as the True Developmental Target
 
-When [[Self-Regulated-Learning]], [[Constructivism]], [[Organismic-Integration-Theory]], and [[Metacognitive Strategies]] are held together as an integrated framework rather than visited in sequence, an insight emerges that none of them fully contains. The insight is this: the developmental target that matters most — the one that determines whether a learner becomes genuinely self-directing across a lifetime of intellectual engagement — is not a strategy, a habit, a skill, or even a body of metacognitive knowledge. It is an *identity*.
+When [[Self-Regulated-Learning]], [[Constructivism]], [[Organismic-Integration-Theory]], and [[Metacognitive-strategies]] are held together as an integrated framework rather than visited in sequence, an insight emerges that none of them fully contains. The insight is this: the developmental target that matters most — the one that determines whether a learner becomes genuinely self-directing across a lifetime of intellectual engagement — is not a strategy, a habit, a skill, or even a body of metacognitive knowledge. It is an *identity*.
 
 What is meant by metacognitive identity is not merely a self-concept or a label. It is the stable, deeply integrated self-understanding of oneself as the *author* of one's own intellectual architecture — the person who constructs, maintains, evaluates, renovates, and continuously develops the system through which all learning occurs. A learner who has developed this identity does not experience their learning practices as a set of disciplines they maintain through willpower; they experience them as dimensions of who they are. The effort of sustained intellectual work is not felt as sacrifice but as expression. When strategies fail or contexts change, the response is not panic or surrender but architectural curiosity: what needs to be redesigned here?
 
@@ -5494,7 +5494,7 @@ broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -5602,7 +5602,7 @@ The intellectual stakes here are real rather than decorative. Understanding the 
 
 [[Report 01 — The Inquiry Engine]] established that [[Reflective-Thinking]], the [[Socratic-Method]], and [[Metacognitive-Monitoring]] are structural homologs — three historically independent frameworks that all point to the same underlying cognitive event: the transformation of an encounter with the world from passive reception into active interrogation. The structural claim is that *inquiry is not a skill; it is a mode of encounter* — a way of being-in-relation-to-experience that, once established as a default orientation, transforms every ordinary perception into a potential site of investigation. This report's contribution to the larger architecture is the *activation layer*: the account of what it means to be the kind of person who meets the world as a thinker rather than merely as a perceiver.
 
-[[Report 02 — The Fallible Knower]] established that [[epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions whose validity is measured by the quality of action they enable, and whose revision is a mark of intellectual health rather than intellectual failure. The structural claim is that *knowledge is not a possession; it is a practice* — a continuous activity of construction, testing, and reconstruction grounded in the understanding that the map is never the territory and that all maps are subject to revision. This report's contribution is the *epistemic layer*: the account of how an excellent thinker relates to the content of their own mind, treating beliefs as working hypotheses rather than settled certainties.
+[[Report 02 — The Fallible Knower]] established that [[Epistemology]], the [[Pragmatic-Maxim]], [[Fallibilism]], and [[Constructivism]] collectively describe an *epistemological posture* — a way of relating to one's own beliefs as provisional constructions whose validity is measured by the quality of action they enable, and whose revision is a mark of intellectual health rather than intellectual failure. The structural claim is that *knowledge is not a possession; it is a practice* — a continuous activity of construction, testing, and reconstruction grounded in the understanding that the map is never the territory and that all maps are subject to revision. This report's contribution is the *epistemic layer*: the account of how an excellent thinker relates to the content of their own mind, treating beliefs as working hypotheses rather than settled certainties.
 
 [[Report 03 — The Motivated Mind]] established that [[Self-Determination-Theory]], the [[Flow]] state, Stoic [[Prohairesis]], and the neuroscience of intrinsic motivation all converge on a single claim about what it takes to sustain the kind of thinking the first two reports describe. The structural claim is that *autonomy is not merely motivationally beneficial; it is cognitively necessary* — because the quality of sustained reflective engagement depends on the thinker experiencing their intellectual activity as an expression of their own agency rather than as a response to external demand. This report's contribution is the *motivational layer*: the account of the energy source that makes the architecture run continuously rather than only in moments of deliberate effort.
 
@@ -5610,9 +5610,9 @@ The intellectual stakes here are real rather than decorative. Understanding the 
 
 [[Report 05 — The Virtuous Reasoner]] established that [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Perseverance]], and [[Intellectual-Integrity]] are not moral ornaments but *functional cognitive tools* — each one correcting a specific systematic failure mode in the reasoning architecture. Intellectual humility corrects overcalibrated confidence; intellectual courage corrects motivated avoidance of threatening evidence; intellectual empathy corrects the egocentric attribution error; intellectual perseverance corrects premature closure; intellectual integrity corrects motivated reasoning. The structural claim is that *intellectual character is cognitive infrastructure* — the conditions under which the reasoning architecture operates reliably rather than merely under favorable circumstances. This report's contribution is the *reliability layer*: the account of what makes the excellent thinker's cognitive excellence stable across adversarial conditions.
 
-[[Report 06 — Taming System 1]] established that [[Dual-Process-Theory]], Stoic [[Prosoche]], [[Metacognitive-Self-Regulation]], and the cognitive science of [[Debiasing]] converge on a practical theory of how the automatic, rapid, associative operations of [[System 1 Thinking]] can be brought under reflective governance without being suppressed. The structural claim is that *System 1 is not an enemy to be defeated; it is a substrate to be governed* — and that the Stoic practice of impression management and the cognitive science of metacognitive monitoring are describing the same governance mechanism from two millennia apart. This report's contribution is the *regulatory layer*: the account of how the thinker maintains executive oversight of their own automatic processes.
+[[Report 06 — Taming System 1]] established that [[Dual-Process-Theory]], Stoic [[Prosoche]], [[Metacognitive-Self-Regulation]], and the cognitive science of [[debiasing]] converge on a practical theory of how the automatic, rapid, associative operations of [[System 1 Thinking]] can be brought under reflective governance without being suppressed. The structural claim is that *System 1 is not an enemy to be defeated; it is a substrate to be governed* — and that the Stoic practice of impression management and the cognitive science of metacognitive monitoring are describing the same governance mechanism from two millennia apart. This report's contribution is the *regulatory layer*: the account of how the thinker maintains executive oversight of their own automatic processes.
 
-[[Report 07 — The Self-Directed Learner]] established that [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive Strategies]] collectively describe the *highest-order property* of the framework: the internalization of the regulatory architecture itself. The structural claim is that *the most powerful cognitive system is one in which the learner has become the architect of their own learning* — where the scaffolds, the monitoring tools, the motivational supports, and the epistemic practices have been so thoroughly internalized that they no longer require external prompting. This report's contribution is the *integration layer*: the account of how the entire architecture becomes self-sustaining, self-correcting, and self-improving.
+[[Report 07 — The Self-Directed Learner]] established that [[Self-Regulated-Learning]], [[Constructivism]], [[Self-Determination-Theory]]'s account of internalization, and [[Metacognitive-strategies]] collectively describe the *highest-order property* of the framework: the internalization of the regulatory architecture itself. The structural claim is that *the most powerful cognitive system is one in which the learner has become the architect of their own learning* — where the scaffolds, the monitoring tools, the motivational supports, and the epistemic practices have been so thoroughly internalized that they no longer require external prompting. This report's contribution is the *integration layer*: the account of how the entire architecture becomes self-sustaining, self-correcting, and self-improving.
 
 > [!summary]
 > **The Structural Pattern Across All Seven Layers**

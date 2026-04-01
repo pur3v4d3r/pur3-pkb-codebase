@@ -508,7 +508,7 @@ Rather than categorizing tags by syntax (opening vs. closing, self-closing vs. p
 | `<synthesis>` | Combining insights | Activates integration processes |
 | `<evaluation>` | Critical assessment | Engages evaluation criteria |
 | `<alternatives>` | Divergent thinking | Broadens search space |
-| `<verification>` | Fact-checking mode | Activates [[Chain of Verification]] |
+| `<verification>` | Fact-checking mode | Activates [[Chain-of-Verification]] |
 | `<example>` | Concrete instantiation | Grounds abstract concepts |
 | `<counter_example>` | Falsification testing | Searches for edge cases |
 
@@ -1172,7 +1172,7 @@ Based on extensive community experimentation and documented best practices from 
 - Hierarchical structure supports multiple examples
 - Prevents "bleeding" of example content into actual response
 
-**Effectiveness**: ^established Widely used for [[Few-Shot Prompting]] with consistent success
+**Effectiveness**: ^established Widely used for [[Few-Shot-Prompting]] with consistent success
 
 #### **Pattern 4: The Hierarchical Requirement Decomposition**
 

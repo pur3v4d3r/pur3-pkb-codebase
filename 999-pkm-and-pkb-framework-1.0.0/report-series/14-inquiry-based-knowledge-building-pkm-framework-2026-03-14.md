@@ -38,7 +38,7 @@ related_concepts:
   - "[[Productive-Failure|Productive Failure]]"
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
   - "[[Generative-Processing]]"
-  - "[[Epistemic Curiosity]]"
+  - "[[epistemic-curiosity]]"
   - "[[Schema Disequilibrium]]"
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKM Workflow Design]]"

@@ -12062,7 +12062,7 @@ FROM #project
 
 |**File**|**status**|**priority**|
 |---|---|---|
-|[[Project Alpha]]|"in-progress"|"high"|
+|[[Project-Alpha]]|"in-progress"|"high"|
 |[[Project Beta]]|"complete"|"low"|
 
 ```
@@ -12105,7 +12105,7 @@ FROM #project
 
 |**File**|**Current Status**|**Last Updated**|
 |---|---|---|
-|[[Project Alpha]]|"in-progress"|2025-10-15|
+|[[Project-Alpha]]|"in-progress"|2025-10-15|
 |[[Project Beta]]|"complete"|2025-10-14|
 
 ```
@@ -12129,7 +12129,7 @@ WHERE !completed
 ```
 **Output:**
 
-- [[Project Alpha]]
+- [[Project-Alpha]]
     - `[ ]` Design the architecture
     - `[ ]` Contact the client
 - [[Meeting 2025-10-16]]
@@ -20444,7 +20444,7 @@ But *first* I need to do a *few things*:
 
 [[Rhetorical Analysis]]: Create notes on the core appeals: [[Logos]] (logic), [[Pathos]] (emotion), and [[Ethos]] (credibility). Also, document common [[Rhetorical Devices]] (e.g., metaphor, synecdoche, hyperbole).
 
-[[Logical Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal-Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw Man]], [[False Dichotomy]]).
+[[Logical Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal-Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]]).
 
 [[Cognitive-Biases]]: This is a vast field. Start with the ones most relevant to reading, such as [[Confirmation-Bias]] (favoring info that confirms existing beliefs) and the [[Availability-Heuristic]] (overestimating the importance of easily recalled info).
 

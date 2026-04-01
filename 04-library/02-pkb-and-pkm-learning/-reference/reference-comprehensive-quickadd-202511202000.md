@@ -88,7 +88,7 @@ The plugin operates on a choice-based architecture where every QuickAdd command 
 
 The design philosophy centers on removing obstacles between thought and documentation. Traditional note creation requires multiple decisions: naming, location, format, metadata, initial content. Each decision point creates friction that can derail your thinking process. QuickAdd collapses these decision points into pre-configured workflows triggered instantly.
 
-This approach aligns perfectly with [[Zettelkasten methodology]] and [[Getting Things Done]] principles—capture first, process later, but with enough structure that processing becomes trivial.
+This approach aligns perfectly with [[Zettelkasten methodology]] and [[Getting-Things-Done]] principles—capture first, process later, but with enough structure that processing becomes trivial.
 
 > [!analogy]
 > **Illuminating Comparison**
@@ -707,7 +707,7 @@ module.exports = async (params) => {
 ### Macro 4: 🧩 Atomic Note Creation with Context
 
 > [!what-this-does]
-> **Purpose**: Create atomic Zettelkasten-style notes with proper [[Wiki-Link]] context, automatic ID generation, and bidirectional linking to source materials.
+> **Purpose**: Create atomic Zettelkasten-style notes with proper [[wiki-link]] context, automatic ID generation, and bidirectional linking to source materials.
 >
 > **Workflow**: User triggers → concept defined → related notes suggested → atomic note created → linked from source → MOC updated
 

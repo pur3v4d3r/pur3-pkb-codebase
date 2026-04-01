@@ -4446,7 +4446,7 @@ sequenceDiagram
 ### Variation 2: Project Management (WBS)
 *Optimized for planning and logistics.*
 ```prompt
-# 📅 Project WBS: [[Project Name]]
+# 📅 Project WBS: [[Project-Name]]
 
 ## 1. Milestones
 - **Phase 1**: {{Deliverable}}

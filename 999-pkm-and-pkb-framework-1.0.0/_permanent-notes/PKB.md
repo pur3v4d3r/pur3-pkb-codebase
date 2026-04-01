@@ -23,21 +23,20 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 26
+referenced-by-count: 25
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[API-First-AI-Integration]]"
   - "[[Context-Window]]"
   - "[[Counterexample-Search]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Forethought-Phase]]"
   - "[[Handlebars]]"
   - "[[MSLQ]]"
+  - "[[Mental-Image]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: high
 # PKB
 
 > [!definition] **PKB**
-> *Stub note — concept referenced by 26 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 25 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 26 permanent notes.*
+*Auto-generated stub — referenced by 25 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[API-First-AI-Integration]]
 - [[Context-Window]]
 - [[Counterexample-Search]]
@@ -85,4 +84,5 @@ importance: high
 - [[Pintrich's-Motivational-Integration]]
 - [[Principle-of-Truth]]
 - [[Self-Reflection-Phase]]
-- *...and 6 more permanent notes*
+- [[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]
+- *...and 5 more permanent notes*

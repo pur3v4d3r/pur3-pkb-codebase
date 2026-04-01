@@ -381,7 +381,7 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 > [!example] Key Concepts Learned
 > - **[[Concept-1]]**: Brief description and why it matters
 > - **[[Concept-2]]**: Brief description and source
-> - **[[Concept 3]]**: Application or next step
+> - **[[Concept-3]]**: Application or next step
 
 ### Skills Practiced
 
@@ -1726,7 +1726,7 @@ summary: "{{one-sentence-summary}}"
 
 ---
 **Related Notes**: [[Concept A]] | [[Concept B]] | [[Concept C]]  
-**Project Context**: [[Project Name]]  
+**Project Context**: [[Project-Name]]  
 **Review Status**: Next review {{date}}
 ```
 

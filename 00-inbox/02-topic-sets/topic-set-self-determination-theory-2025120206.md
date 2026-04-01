@@ -61,7 +61,7 @@ SDT topics would generate extensive wiki-links:
 - [[Autonomy]], [[Competence]], [[Relatedness]]
 - [[Internalization]], [[Integration]]
 - [[Controlled-Motivation]], [[Autonomous-Motivation]]
-- [[Amotivation]], [[Flow State]]
+- [[Amotivation]], [[Flow-State]]
 - [[Goal Theory]], [[Achievement Motivation]]
 - [[Self-Efficacy]], [[Locus-of-Control]]
 - [[Organismic-Integration]], [[Regulatory Styles]]
@@ -138,7 +138,7 @@ CET, developed in the 1970s-80s, was the first mini-theory within SDT and genera
 - [[Performance-Contingent Rewards]] versus [[Task-Contingent Rewards]]
 - [[Unexpected Rewards]] - do not undermine motivation
 - [[Self-Perception Theory]] - competing explanation
-- [[Interest]] as psychological state
+- [[interest]] as psychological state
 - [[Behavioral Regulation]] mechanisms
 **Analogical Potential**:
 External motivators function like training wheels on a bicycle—while they might provide initial support, if poorly designed they prevent the development of intrinsic balance and coordination, creating dependency rather than autonomous capability.

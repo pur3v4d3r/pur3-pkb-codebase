@@ -392,7 +392,7 @@ Current assessments of PKM tend to focus on easily quantifiable outcomes like wr
 ### 🔗 RELATED TOPICS FOR PERSONAL KNOWLEDGE BASE EXPANSION
 
 - [[Distributed Cognition Theory]] — how cognitive processes are distributed across individuals, artifacts, and environments
-- [[Knowledge Graph Theory]] — the mathematical and computational principles underlying networked information structures
+- [[Knowledge-Graph-Theory]] — the mathematical and computational principles underlying networked information structures
 - [[Spaced-Repetition-Systems]] — evidence-based techniques for optimizing long-term retention through strategic review
 - [[Double-Loop-Learning]] — Chris Argyris' framework for learning that questions underlying assumptions, not just strategies
 - [[Conceptual Metaphor Theory]] — how abstract thinking depends on metaphorical mappings from embodied experience

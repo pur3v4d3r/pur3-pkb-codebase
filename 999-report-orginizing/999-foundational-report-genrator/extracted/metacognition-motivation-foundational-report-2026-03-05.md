@@ -119,22 +119,22 @@ enables:
   - "[[Autonomy-Supportive Pedagogy]]"
   - "[[Self-Regulated Learning Interventions]]"
 expansion-topics:
-  - topic: "[[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]"
+  - topic: "[[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]"
     description: Deep-dive into the emotional and phenomenological dimension of metacognition — how feelings of knowing, ease of learning, and confidence ratings feed back into motivational states and persistence decisions.
     priority: high
-  - topic: "[[Designing Autonomy-Supportive Learning Environments]]"
+  - topic: "[[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]"
     description: Applied treatment of how instructional contexts can be structured to support metacognitive development and intrinsic motivation simultaneously, with evidence-based design principles.
     priority: high
-  - topic: "[[Self-Efficacy Theory and Academic Achievement]]"
+  - topic: "[[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]]"
     description: Bandura's full social cognitive framework and the specific mechanisms by which self-efficacy beliefs interact with metacognitive accuracy and motivational persistence.
     priority: high
   - topic: "[[Growth Mindset: Evidence, Nuance, and Practical Application]]"
     description: Critical treatment of Dweck's implicit theories framework, integrating recent replication studies and contextual moderators with practical implementation guidance.
     priority: medium
-  - topic: "[[Goal Orientation Theory in Educational Contexts]]"
+  - topic: "[[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]]"
     description: Mastery vs. performance goal orientations, their relationship to metacognitive engagement and intrinsic motivation, and how goal framing by instructors shapes learner psychology.
     priority: medium
-  - topic: "[[Flow Theory and Optimal Learning Experiences]]"
+  - topic: "[[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]]"
     description: Csikszentmihalyi's flow framework in relation to metacognitive monitoring, the challenge-skill balance, and its implications for intrinsically motivated learning.
     priority: medium
 empirical-support:
@@ -266,7 +266,7 @@ The implications for metacognition are significant. Metacognitive monitoring and
 
 ### The Cognitive-Motivational Model
 
-[[John Borkowski]] and colleagues developed what they termed the Cognitive-Motivational Model of academic performance, explicitly positioning metacognition and motivation as co-constitutive rather than independent contributors to learning. Their model proposes that high-achieving learners possess what they called a *metacognitive acquisition procedure* — a generalized, strategic approach to learning tasks — but that this procedure only becomes activated and self-sustaining when coupled with adaptive motivational beliefs, including a mastery orientation, high self-efficacy, and attribution of success and failure to effort and strategy rather than fixed ability.
+[[John-Borkowski|John Borkowski]] and colleagues developed what they termed the Cognitive-Motivational Model of academic performance, explicitly positioning metacognition and motivation as co-constitutive rather than independent contributors to learning. Their model proposes that high-achieving learners possess what they called a *metacognitive acquisition procedure* — a generalized, strategic approach to learning tasks — but that this procedure only becomes activated and self-sustaining when coupled with adaptive motivational beliefs, including a mastery orientation, high self-efficacy, and attribution of success and failure to effort and strategy rather than fixed ability.
 
 > [!insight] **The Bootstrap Problem**
 > Borkowski's model illuminates what might be called the bootstrap problem of metacognitive development: metacognitive skill requires motivated practice to develop, but motivated practice itself depends partly on metacognitive self-awareness (knowing that effort and strategy are controllable and consequential). Children and adults who begin with low self-efficacy and a fixed-ability attribution style may not invest the regulatory effort necessary to develop metacognitive skill, and the absence of metacognitive skill may in turn produce poor outcomes that confirm and deepen the low self-efficacy. Breaking this cycle is one of the central challenges of metacognitive education.
@@ -490,20 +490,20 @@ Understanding the metacognition-motivation relationship at this depth confers se
 
 > [!further-exploration] **Deepening Your Practice**
 
-> [!topic-idea] [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
+> [!topic-idea] [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
 > A deep-dive into Efklides' work on the phenomenological dimension of metacognition — how Feelings of Knowing, Ease of Learning, Judgments of Learning, and Feelings of Non-fluency constitute a semi-autonomous layer of self-monitoring that carries affective content. This report would examine calibration research, the systematic biases that plague metacognitive judgments (the illusion of knowing, overclaiming), and the specific conditions under which metacognitive feelings provide reliable vs. unreliable diagnostic information. Critical for anyone working in formative assessment, learning analytics, or reflective practice design.
 
-> [!topic-idea] [[Designing Autonomy-Supportive Learning Environments]]
+> [!topic-idea] [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]
 > Applied treatment of the SDT-derived principles for structuring educational and training contexts to support autonomous motivation and metacognitive engagement simultaneously. Would cover empirical evidence on autonomy-supportive vs. controlling instructor behavior, structural design choices (assessment design, choice provision, rationale-giving), and the specific challenge of maintaining autonomy support in high-stakes accountability contexts. Practical toolkit orientation with evidence base for each design principle.
 
-> [!topic-idea] [[Self-Efficacy Theory and Academic Achievement]]
+> [!topic-idea] [[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]]
 > Bandura's full social cognitive framework applied to educational contexts — tracing the four sources of self-efficacy (mastery experience, vicarious modeling, social persuasion, physiological interpretation) and their differential effectiveness in building durable vs. fragile academic self-efficacy. Would examine the self-efficacy → metacognitive depth pathway in detail, with attention to domain-specificity, developmental trajectories, and targeted intervention strategies for low-self-efficacy learners.
 
-> [!topic-idea] [[Goal Orientation Theory in Educational Contexts]]
+> [!topic-idea] [[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]]
 > A focused treatment of mastery vs. performance goal orientations — their measurement, developmental origins, contextual determinants, and differential consequences for metacognitive engagement and motivational sustainability. Would incorporate the 2×2 framework (Elliot & McGregor, 2001) distinguishing performance-approach from performance-avoidance, examine motivational climate research (Ames), and address the practical question of how goal framing in instructional language shapes learner psychology over time.
 
-> [!topic-idea] [[Flow Theory and Optimal Learning Experiences]]
+> [!topic-idea] [[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]]
 > Csikszentmihalyi's flow framework as a limiting case of intrinsic motivation and metacognitive transparency — examining how the challenge-skill balance produces states of absorbed engagement where metacognitive monitoring becomes largely implicit. Would connect flow conditions to learning design, examining how deliberately constructed experiences of appropriate challenge can build both intrinsic motivation and metacognitive repertoire simultaneously.
 
-> [!topic-idea] [[Attribution Theory and Learning Resilience]]
+> [!topic-idea] [[Attribution-Theory-and-Learning-Resilience|Attribution Theory and Learning Resilience]]
 > Weiner's attributional framework in depth — examining how the dimensions of locus, stability, and controllability interact to produce adaptive vs. maladaptive responses to academic failure. Would address the specific mechanism by which attribution retraining interventions (attributing failure to controllable, unstable factors) break vicious cycle dynamics and restore metacognitive effort investment in previously defeated learners.

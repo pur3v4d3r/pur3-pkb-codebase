@@ -927,7 +927,7 @@ Your system is working because it **externalizes your cognitive process**. The v
 
 1. **[[Obsidian File Organization Strategies]]**
    - *Connection*: Direct application of naming conventions within broader organizational philosophy
-   - *Depth Potential*: Explore folder structures, tag taxonomies, and [[para method]] vs. [[Zettelkasten]] approaches
+   - *Depth Potential*: Explore folder structures, tag taxonomies, and [[PARA-Method]] vs. [[Zettelkasten]] approaches
    - *Knowledge Graph Role*: Central hub connecting naming, tagging, and retrieval systems
 
 2. **[[Dataview Query Patterns for File Classification]]**

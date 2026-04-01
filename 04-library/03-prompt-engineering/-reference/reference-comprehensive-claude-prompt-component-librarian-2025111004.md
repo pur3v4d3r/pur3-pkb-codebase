@@ -51,7 +51,7 @@ link-related:
 
 > [!abstract]
 > **Executive Overview**
-> This reference document defines a comprehensive system for leveraging [[CLAUDE|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[Obsidian]] [[Personal-Knowledge-Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
+> This reference document defines a comprehensive system for leveraging [[Claude|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[Obsidian]] [[Personal-Knowledge-Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -75,7 +75,7 @@ link-related:
 
 > [!definition]
 > - **Key-Term**: [[Prompt Component Librarian]]
-> - **Definition**: A systematic role where an AI assistant (specifically [[CLAUDE]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
+> - **Definition**: A systematic role where an AI assistant (specifically [[Claude]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
 
 ### The Evolution from Ad-Hoc Prompting to Component-Based Systems
 
@@ -91,7 +91,7 @@ The [[Personal-Knowledge-Base]] provides the ideal substrate for this transforma
 
 ### Why Claude Desktop as Librarian?
 
-[[CLAUDE|Claude Desktop]] possesses unique characteristics that make it exceptionally well-suited for the librarian role. Unlike web-based Claude, the desktop application can integrate with your local file system through [[Model-Context-Protocol]] (MCP) servers, enabling it to directly read from and potentially write to your [[Obsidian vault]]. This creates a closed-loop system where Claude can browse your prompt component library, understand the relationships between components through your [[Knowledge-Graph]] structure, and suggest compositions based on semantic understanding rather than keyword matching.
+[[Claude|Claude Desktop]] possesses unique characteristics that make it exceptionally well-suited for the librarian role. Unlike web-based Claude, the desktop application can integrate with your local file system through [[Model-Context-Protocol]] (MCP) servers, enabling it to directly read from and potentially write to your [[Obsidian vault]]. This creates a closed-loop system where Claude can browse your prompt component library, understand the relationships between components through your [[Knowledge-Graph]] structure, and suggest compositions based on semantic understanding rather than keyword matching.
 
 Claude's [[extended context window]] (up to 200,000 tokens) allows it to maintain awareness of multiple prompt components simultaneously. When you're building a complex prompt system, Claude can hold the contents of dozens of component files in working memory, identifying potential conflicts, suggesting optimal orderings, and even detecting when you're about to reinvent a component that already exists in your library. This contextual awareness transforms prompt composition from manual assembly into intelligent orchestration.
 
@@ -818,7 +818,7 @@ This integration means prompt components aren't just tools—they're knowledge a
 
 These backlinks serve quality assessment: a component with dozens of backlinks to successful outputs has proven value; a component with no backlinks despite being in the library for months might be unpromising. They also provide learning resources: new users can follow component backlinks to see real examples of the component in action.
 
-**MOC Integration** positions your prompt component library within your [[Map of Content]] hierarchy. Create a [[Prompt Engineering MOC]] that serves as a hub connecting to your component categories, composition templates, usage guides, and related concepts. This MOC should link to relevant areas of your broader PKB (if you have MOCs for [[Technical Writing]], [[Data Analysis]], or [[Research Methodology]], those should link to domain-specific component collections).
+**MOC Integration** positions your prompt component library within your [[Map of Content]] hierarchy. Create a [[prompt-engineering-moc]] that serves as a hub connecting to your component categories, composition templates, usage guides, and related concepts. This MOC should link to relevant areas of your broader PKB (if you have MOCs for [[Technical Writing]], [[Data Analysis]], or [[Research Methodology]], those should link to domain-specific component collections).
 
 The MOC also serves as a meta-layer for documenting your prompt engineering philosophy, recording observations about what makes prompts effective, and tracking the evolution of your approach over time. It's both an access point for the component library and a knowledge artifact about prompt engineering itself.
 

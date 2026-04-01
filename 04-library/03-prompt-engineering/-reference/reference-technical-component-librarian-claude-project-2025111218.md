@@ -26,7 +26,7 @@ date modified: 2025-11-11T22:00:53
 ---
 
 > [!the-purpose]
-> This is the start of the [[CLAUDE]] [[Prompt-Component |prompt-component]] Library. (The start of it anyway) I will be using the system I have worked out with the LLM [[Gemini]] for building a robust set of [[Prompt-Component |prompting-components]] to be used as modular pieces in a [[Prompt Template|template]].
+> This is the start of the [[Claude]] [[Prompt-Component |prompt-component]] Library. (The start of it anyway) I will be using the system I have worked out with the LLM [[Gemini]] for building a robust set of [[Prompt-Component |prompting-components]] to be used as modular pieces in a [[Prompt Template|template]].
 
 ## 📊 Success Metrics for Completion
 
@@ -1139,7 +1139,7 @@ The *same* [[Prompt-Component]] with the *same* **composition** *should* produce
 > - [ ] Compatible with current Claude versions
 
 ## Component Discovery & Selection Workflow
-When [[CLAUDE]] can't find an appropriate [[Prompt-Component]] for your needs, that gap should be **documented**. 
+When [[Claude]] can't find an appropriate [[Prompt-Component]] for your needs, that gap should be **documented**. 
 - *Create a quick note*: 
 	- "Needed: component for [specific purpose]. Temporarily used [workaround]." 
 >[!important] These gap notes drive future component development, ensuring your library expands to cover real usage patterns rather than hypothetical scenarios.
@@ -1245,7 +1245,7 @@ Focuses on establishing basic infrastructure and capturing your first components
 1. Create the Directory: Where you plan to keep all of this information for now.
 - Review the Technical Architecture Section of this report for more information:[[20251110045351_claude-as-prompt-component-librarian_📚comprehensive-reference]]
 - Don't worry about perfection at the moment this is a stepping stone and refactoring can easily come later.
-2. Create the Template Master File for [[CLAUDE]] to use for generating the [[Prompt-Component|Prompt-Components]].
+2. Create the Template Master File for [[Claude]] to use for generating the [[Prompt-Component|Prompt-Components]].
 - Needs the finalized metadata and what section I want to have in the permanent note.
 - I Don't want to be here in six months trying to figure out how to reframe all of this metadata again. This needs to be done correctly.
 
@@ -1263,7 +1263,7 @@ Focuses on establishing basic infrastructure and capturing your first components
 Shifts focus from component creation to component *usage*.
 
 1. Use your components in real work.
-- When starting a new task with [[CLAUDE]] deliberately construct new [[Prompt-Component|prompt components]] to start to fill out the library.
+- When starting a new task with [[Claude]] deliberately construct new [[Prompt-Component|prompt components]] to start to fill out the library.
 - Note and Document BOTH What [[Prompt-Component|prompt components]] you ultimately use and Which [[Prompt-Component|prompt components]] you find you that you are missing. These will provide you with the necessary pathways going forward.
 - Note: Keep especially careful track of which [[Prompt-Component|prompt components]] you use most as these become candidates for refinement and for deeper documentation.
 2. 
@@ -2022,7 +2022,7 @@ Each folder should contain an `_index.md` file with:
 > - 🔑 Created archives for lifecycle management
 > - 🔑 Subdivided specialized categories for better organization
 
-This optimized hierarchy will scale effectively as your [[Prompt Component Library]] grows while maintaining navigability and supporting automated discovery through [[CLAUDE]] as your [[Prompt Component Librarian]].
+This optimized hierarchy will scale effectively as your [[Prompt Component Library]] grows while maintaining navigability and supporting automated discovery through [[Claude]] as your [[Prompt Component Librarian]].
 
 # 🏷️ NAMING CONVENTION ANALYSIS FOR PROMPT COMPONENT LIBRARY
 
@@ -2052,7 +2052,7 @@ Example: 20251112032632-Prompt-Architect-Linguist-Persona.md
 
 > [!key-claim]
 > **Decisive Recommendation**
-> For a [[Prompt Component Library]] managed by [[CLAUDE]] as a librarian, **Convention A (Type-Prefix)** is significantly superior for this specific use case, despite Convention B's advantages in other PKB contexts.
+> For a [[Prompt Component Library]] managed by [[Claude]] as a librarian, **Convention A (Type-Prefix)** is significantly superior for this specific use case, despite Convention B's advantages in other PKB contexts.
 
 ### WHY CONVENTION A EXCELS FOR COMPONENT LIBRARIES
 
@@ -2060,7 +2060,7 @@ The **type-prefix system** creates **semantic clustering** that mirrors how prom
 
 **Version tracking at the filename level** (`_v1`, `_v2`) provides immediate visibility of component evolution without opening files. In a library context where you might have multiple versions of the same component active simultaneously (for A/B testing or gradual migration), this explicit versioning is invaluable. The timestamp system buries this critical information inside file metadata.
 
-The **predictable parsing pattern** of Convention A enables superior automation. [[CLAUDE]] can instantly identify component type, name, and version through simple string operations. This facilitates automated assembly, where Claude might programmatically combine `atomic_*_persona_v*.md` with `atomic_*_instruction_v*.md`. The timestamp format requires opening and parsing files to understand their type and relationships.
+The **predictable parsing pattern** of Convention A enables superior automation. [[Claude]] can instantly identify component type, name, and version through simple string operations. This facilitates automated assembly, where Claude might programmatically combine `atomic_*_persona_v*.md` with `atomic_*_instruction_v*.md`. The timestamp format requires opening and parsing files to understand their type and relationships.
 
 > [!thought-experiment]
 > **Retrieval Scenario**
@@ -2531,7 +2531,7 @@ status: draft
 > - 🔑 **Automated metrics** via Dataview queries
 > - 🔑 **Visual status indicators** (emojis for quick scanning)
 
-This enhanced template will serve your [[Prompt Component Library]] effectively as it scales, providing both the structure needed for [[CLAUDE]] to function as your librarian and the flexibility needed for diverse component types.
+This enhanced template will serve your [[Prompt Component Library]] effectively as it scales, providing both the structure needed for [[Claude]] to function as your librarian and the flexibility needed for diverse component types.
 
 ---
 

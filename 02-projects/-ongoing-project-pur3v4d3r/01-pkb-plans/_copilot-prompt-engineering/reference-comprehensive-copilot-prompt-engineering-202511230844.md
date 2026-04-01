@@ -94,7 +94,7 @@ The core architectural components that influence prompt design include:
 
 | Mode | Primary Use Case | Prompt Strategy | Context Handling |
 |------|------------------|-----------------|------------------|
-| **Chat Mode** | General inquiries, explanations, or assistance that may not require searching through vault | Conversational, iterative refinement | Manual note referencing via `[[note]]` |
+| **Chat Mode** | General inquiries, explanations, or assistance that may not require searching through vault | Conversational, iterative refinement | Manual note referencing via `[[Note]]` |
 | **Vault QA (Basic)** | Plain language questions with answers from all notes using RAG, combining searching notes with AI responses | Query-focused, retrieval-optimized | Automatic semantic search + context injection |
 | **Copilot Plus** | Advanced AI tools including @vault for enhanced vault functions, @youtube for video insights, @websearch for real-time information, and @composer for direct note editing | Tool-augmented, agentic workflows | Multi-modal context (markdown, PDF, images, URLs) |
 
@@ -274,7 +274,7 @@ Key best practices include being specific in instructions to get the best result
 > 
 > ## Connections
 > - Related to: [[Concept-1]], [[Concept-2]]
-> - Contrasts with: [[Concept 3]]
+> - Contrasts with: [[Concept-3]]
 > 
 > ## Sources
 > - {activeNote}

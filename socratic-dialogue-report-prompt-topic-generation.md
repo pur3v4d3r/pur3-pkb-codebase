@@ -115,7 +115,7 @@ Appendix as specified.
 ---
 
 > [!tip] **Usage Note**
-> Copy the starter prompt above, replace `{INSERT TOPIC QUESTION HERE}` with any of the topic questions above (the bolded portion of each entry), and submit to a Claude Project running the [[Socratic Dialogue Report Generator v1.0]]. The starter prompt is intentionally minimal — the full structural and formatting instructions live in the system prompt, so the input only needs to name the topic clearly.
+> Copy the starter prompt above, replace `{INSERT TOPIC QUESTION HERE}` with any of the topic questions above (the bolded portion of each entry), and submit to a Claude Project running the [[Socratic-Dialogue-Report-Generator-v1.0]]. The starter prompt is intentionally minimal — the full structural and formatting instructions live in the system prompt, so the input only needs to name the topic clearly.
 
 
 
@@ -493,7 +493,7 @@ document-features:
   reflective-questions: "{count, minimum 10}"
 
 # Source & Generation:
-generation-prompt: "[[Socratic Dialogue Report Generator v1.0]]"
+generation-prompt: "[[Socratic-Dialogue-Report-Generator-v1.0]]"
 ```
 
 All other metadata fields follow the [[Foundational-Report-Generator-v1.0]], Section 2 template. Generate the full YAML block with all fields populated.

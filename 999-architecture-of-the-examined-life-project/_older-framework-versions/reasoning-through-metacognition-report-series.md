@@ -95,8 +95,8 @@ related:
   - "[[Cognitive-Load-Theory-Applied-to-LLM-Reasoning]]"
 
 broader:
-  - "[[Philosophy of Mind]]"
-  - "[[epistemology]]"
+  - "[[philosophy-of-mind]]"
+  - "[[Epistemology]]"
   - "[[Learning Science]]"
 
 narrower:
@@ -533,15 +533,15 @@ related:
   - "[[Cognitive-Scaffolding]]"
   - "[[Inference]]"
   - "[[Epistemic-Agency]]"
-  - "[[Philosophy-of-Mind]]"
+  - "[[philosophy-of-mind]]"
   - "[[Axiomatic-Reasoning]]"
   - "[[Representation-Theory]]"
   - "[[Metacognition]]"
 
 broader:
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
   - "[[Cognitive-Science]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
 
 narrower:
   - "[[Representation and Mental Content]]"
@@ -592,7 +592,7 @@ connection-strength:
     - "[[Metacognitive-Monitoring]]"
     - "[[Reflective-Thinking]]"
   medium:
-    - "[[Philosophy-of-Mind]]"
+    - "[[philosophy-of-mind]]"
     - "[[Cognitive-Scaffolding]]"
     - "[[Working-Memory]]"
   exploratory:
@@ -641,7 +641,7 @@ The conventional entry point into structured thinking — techniques like [[Dedu
 Before identifying the axioms, we must surface what ordinary discourse about thinking takes for granted. This is not criticism — it is archaeology. The assumptions are not wrong; they are simply invisible.
 
 > [!atomic-concept]
-> **Assumption 1 — Thoughts Are Private:** We routinely assume that thoughts happen "inside" the mind and are only made public through language or behaviour. This assumption is so pervasive it structures the entire vocabulary of [[Philosophy-of-Mind]]: *inner* states, *external* expression, the *mind–body problem*. But the assumption conceals a contestable choice. Some philosophers — notably [[Ludwig Wittgenstein]] in his private language argument — challenge whether genuinely private thought is even coherent. A first-principles analysis must not pre-commit to this assumption; it must hold it up to inspection. What we discover matters: if thought requires a kind of public or shareable structure to be thought at all, then the isolation many learners feel when they think in silence may actually be a constraint on the depth of thinking they can achieve alone.
+> **Assumption 1 — Thoughts Are Private:** We routinely assume that thoughts happen "inside" the mind and are only made public through language or behaviour. This assumption is so pervasive it structures the entire vocabulary of [[philosophy-of-mind]]: *inner* states, *external* expression, the *mind–body problem*. But the assumption conceals a contestable choice. Some philosophers — notably [[Ludwig Wittgenstein]] in his private language argument — challenge whether genuinely private thought is even coherent. A first-principles analysis must not pre-commit to this assumption; it must hold it up to inspection. What we discover matters: if thought requires a kind of public or shareable structure to be thought at all, then the isolation many learners feel when they think in silence may actually be a constraint on the depth of thinking they can achieve alone.
 
 > [!atomic-concept]
 > **Assumption 2 — Thinking and Language Are Inseparable:** Much of what we call "structured thought" — constructing arguments, identifying premises, following logical chains — is conducted in language. The assumption that thought just *is* linguistic, or at minimum requires language to be genuinely structured, is extremely common. Yet evidence from developmental psychology (pre-linguistic infants demonstrating proto-reasoning), cognitive science (visual-spatial reasoning, non-verbal problem-solving), and animal cognition challenges this assumption at every turn. If thinking does not require language, then what *does* it require? The axioms must be stated at a level deeper than linguistic competence.
@@ -957,8 +957,8 @@ related:
   - "[[Axioms-of-Structured-Thought]]"
 
 broader:
-  - "[[Philosophy-of-Mind]]"
-  - "[[epistemology]]"
+  - "[[philosophy-of-mind]]"
+  - "[[Epistemology]]"
 
 narrower:
   - "[[Intellectual-Virtues]]"
@@ -1372,7 +1372,7 @@ related:
   - "[[Metacognitive-Monitoring]]"
 
 broader:
-  - "[[Philosophy-of-Mind]]"
+  - "[[philosophy-of-mind]]"
   - "[[Lifelong-learning]]"
   - "[[Knowledge-Management-Philosophy]]"
 
@@ -1519,7 +1519,7 @@ Having interrogated the definition of what you are doing, we can now excavate th
 **Assumption 3 — The Solo-Sufficiency Assumption:** The third and most significant assumption is perhaps the most invisible: the assumption that the project of improving one's thinking is, primarily, a solo project. The entire design of the PKB-as-thinking-infrastructure treats the individual cognitive agent as the unit of improvement. You read, you note, you link, you review. The Socratic tradition — which this report embodies — begins from an entirely different premise: that genuine inquiry is *dialogical*. [[Socrates]] did not write books. He found people who were confident they knew something important, and he asked them questions until neither party was certain any longer. The discomfort that productive inquiry requires — the [[Productive-Doubt]] that [[Dewey]] identified as the engine of reflective thinking — is significantly harder to generate alone than in dialogue. When you read, you can skim the uncomfortable parts. When you take notes, you can paraphrase in ways that soften the challenge. When an interlocutor asks you a question you cannot answer, there is no equivalent escape.
 
 > [!key-claim]
-> **Most Important Assumption Uncovered — The Solo-Sufficiency Assumption:** The assumption that individual reading, reflection, and note-taking are sufficient infrastructure for the cognitive transformation associated with genuine critical thinking — when the deepest traditions of [[epistemology]], the empirical findings of [[Collaborative-Learning-Research]], and the structure of the Socratic method itself all suggest that interlocutors, disagreement, and social epistemic practices are not luxuries but constitutive features of serious inquiry. Your PKB cannot ask you a question you cannot answer. It cannot insist you explain yourself. It cannot notice when you have skipped over something uncomfortable. Another mind can.
+> **Most Important Assumption Uncovered — The Solo-Sufficiency Assumption:** The assumption that individual reading, reflection, and note-taking are sufficient infrastructure for the cognitive transformation associated with genuine critical thinking — when the deepest traditions of [[Epistemology]], the empirical findings of [[Collaborative-Learning-Research]], and the structure of the Socratic method itself all suggest that interlocutors, disagreement, and social epistemic practices are not luxuries but constitutive features of serious inquiry. Your PKB cannot ask you a question you cannot answer. It cannot insist you explain yourself. It cannot notice when you have skipped over something uncomfortable. Another mind can.
 
 ---
 

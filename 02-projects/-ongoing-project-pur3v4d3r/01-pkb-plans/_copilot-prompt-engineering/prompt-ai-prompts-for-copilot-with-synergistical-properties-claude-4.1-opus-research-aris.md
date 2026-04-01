@@ -916,7 +916,7 @@ Analyze all notes from this month and create:
     - From [old understanding] → To [new understanding]
     - Skill developed: [skill] - Progress: X%
     - Habit formed: [practice]
-6. **Insight Constellation:** (breakthrough moments) ⭐ Major insight: [[note]] - "One-line summary" ⭐ Connection made: [[note1]] + [[note2]] = [synthesis] ⭐ Problem solved: [challenge] → [solution]
+6. **Insight Constellation:** (breakthrough moments) ⭐ Major insight: [[Note]] - "One-line summary" ⭐ Connection made: [[note1]] + [[note2]] = [synthesis] ⭐ Problem solved: [challenge] → [solution]
     
 7. **Homepage Dashboard Update:**
 

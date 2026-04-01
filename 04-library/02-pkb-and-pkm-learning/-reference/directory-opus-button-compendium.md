@@ -1266,7 +1266,7 @@ type: reference
 ```
 
 > [!helpful-tip] Diff Tool Options
-> Adjust path to your preferred comparison tool. Popular options: [[WinMerge]], [[Beyond Compare]], VS Code with `code --diff file1 file2`
+> Adjust path to your preferred comparison tool. Popular options: [[WinMerge]], [[Beyond-Compare]], VS Code with `code --diff file1 file2`
 
 - --
 
@@ -1330,7 +1330,7 @@ type: reference
 ### Empty Recycle Bin
 
 > [!what-this-does] Function
-> Empties the Windows [[Recycle Bin]].
+> Empties the Windows [[Recycle-Bin]].
 
 ```xml
 <?xml version="1.0"?>
@@ -1547,19 +1547,19 @@ type: reference
 
 ## Core Extensions
 
-### 1. **[[Directory Opus Scripting]]**
+### 1. **[[Directory-Opus-Scripting]]**
 * *Connection:** These buttons use basic commands; scripting enables complex multi-step automation
 * *Depth Potential:** [[JScript]] and [[VBScript]] support allows conditional logic, loops, and external tool integration
 * *Knowledge Graph Role:** Advanced automation layer building on button fundamentals
 * *Priority:** High --- unlocks significantly more powerful workflows
-* *Prerequisites:** [[Directory Opus Button Basics]], [[JavaScript Fundamentals]]
+* *Prerequisites:** [[Directory-Opus-Button-Basics]], [[JavaScript-Fundamentals]]
 
-### 2. **[[Directory Opus Rename Scripts]]**
+### 2. **[[Directory-Opus-Rename-Scripts]]**
 * *Connection:** Rename buttons are among most used; advanced rename scripts enable regex, metadata extraction, and batch operations
 * *Depth Potential:** Regular expression renaming, [[EXIF]] date extraction, music tag integration
 * *Knowledge Graph Role:** Specialized renaming reference extending file operation buttons
 * *Priority:** High --- rename operations are daily workflow
-* *Prerequisites:** [[Regular Expressions]], [[Metadata Understanding]]
+* *Prerequisites:** [[Regular-Expressions]], [[Metadata Understanding]]
 
 ## Cross-Domain Connections
 
@@ -1584,13 +1584,13 @@ type: reference
 * *Depth Potential:** Custom columns, conditional formatting, dynamic labels
 * *Knowledge Graph Role:** Advanced customization extending basic button functionality
 * *Priority:** Low --- specialized need for power users
-* *Prerequisites:** [[Directory Opus Scripting]], [[Basic Programming Logic]]
+* *Prerequisites:** [[Directory-Opus-Scripting]], [[Basic Programming Logic]]
 
 ### 6. **[[Multi-Tool Automation Pipelines]]** *[Requires prerequisites]*
 * *Connection:** Buttons can trigger external tools; pipelines chain multiple tools together
 * *Depth Potential:** ImageMagick integration, FFmpeg processing, PDF manipulation chains
 * *Knowledge Graph Role:** Cross-tool automation building on single-tool buttons
 * *Priority:** Low --- specialized workflows requiring specific tool combinations
-* *Prerequisites:** [[CLI Tool Proficiency]], [[Directory Opus Scripting]]
+* *Prerequisites:** [[CLI Tool Proficiency]], [[Directory-Opus-Scripting]]
 
 - --

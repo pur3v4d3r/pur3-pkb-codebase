@@ -454,7 +454,7 @@ extraction_summary:
 - [[Marcus-Aurelius]]
 - [[Post-Traumatic Growth]]
 - [[Post-Traumatic Growth — The Stoic Dimension]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Resilience Science — Trajectories, Factors, and Mechanisms]]
 - [[Seneca]]
@@ -483,7 +483,7 @@ extraction_summary:
 | 11 | [[Epictetus]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 12 | [[Seneca]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 13 | [[Dichotomy-of-Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 311 |
-| 14 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 313 |
+| 14 | [[Preferred-Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 313 |
 | 15 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 315 |
 | 16 | [[Dichotomy-of-Control]] | — | — | Framework Principle 1: The Dichotomy ... | 330 |
 | 17 | [[Post-Traumatic Growth]] | — | — | Framework Principle 2: Adversity as M... | 350 |
@@ -552,7 +552,7 @@ extraction_summary:
 - [[Marcus-Aurelius]]
 - [[Post-Traumatic Growth]]
 - [[Post-Traumatic Growth — The Stoic Dimension]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Resilience Science — Trajectories, Factors, and Mechanisms]]
 - [[Seneca]]
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 
 #### Related
 
@@ -584,14 +584,14 @@ extraction_summary:
 - [[Virtue-Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
-- [[Amor Fati]]
+- [[Amor-Fati]]
 - [[Memento Mori]]
 - [[Premeditatio-Malorum]]
 - [[Cognitive-Behavioral-Therapy]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Cognitive-Reappraisal]]
 - [[Post-Traumatic Growth]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation]]
 - [[James Stockdale]]
 
 #### Broader
@@ -604,7 +604,7 @@ extraction_summary:
 #### Narrower
 
 - [[Premeditatio-Malorum]]
-- [[Amor Fati]]
+- [[Amor-Fati]]
 - [[The Obstacle Is the Way]]
 - [[Stoic Consolation]]
 - [[Impermanence Meditation]]

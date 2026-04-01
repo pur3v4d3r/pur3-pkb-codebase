@@ -31,7 +31,7 @@ related_concepts:
   - "[[Deliberate-Practice]]"
   - "[[Grit and Perseverance]]"
   - "[[Stereotype-Threat]]"
-  - "[[Academic Buoyancy]]"
+  - "[[Academic-Buoyancy]]"
   - "[[Self-Theories (Dweck)]]"
   - "[[Effort Praise]]"
   - "[[Entity-Theory-of-Intelligence]]"
@@ -140,7 +140,7 @@ link_related:
   - "[[Deliberate-Practice]]"
   - "[[Grit and Perseverance]]"
   - "[[Stereotype-Threat]]"
-  - "[[Academic Buoyancy]]"
+  - "[[Academic-Buoyancy]]"
   - "[[Replication-Crisis-in-Psychology]]"
 
 summary: "A first-principles deconstruction of Carol Dweck's growth mindset framework. The analysis audits eight significant assumptions — including directionality of mindset effects, coherence of ability beliefs as constructs, universality of effort praise, and the stability of mindset states — finding that four dissolve under scrutiny, two require significant revision, and two survive. The resulting axiom set, grounded in attribution theory and well-replicated motivational findings, generates a more precisely circumscribed reconstruction: attribution retraining in specific, high-stakes contexts can meaningfully support persistence after failure, but the packaging of this insight as 'mindset installation' overpromises. Novel insights include the goal-structure primacy hypothesis and the appreciation that mindset's apparent effects may be mediated by goal orientation rather than intelligence beliefs per se."
@@ -565,32 +565,32 @@ The deepest open question this analysis generates is also the most practically i
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive landscape report on attribution retraining as a distinct intervention category from growth mindset programs — mapping the evidence base, key techniques, domain-specific applications, and comparison with mindset intervention outcomes. This topic would directly extend the report's finding that attribution retraining has stronger empirical support than general mindset instruction, providing practitioners with a well-grounded alternative framework.
 > **Core Concepts**: Weiner's attribution model, attribution retraining protocols, domain-specific implementation, feedback design, teacher training requirements
-> **Related Topics**: [[Attribution-Theory]], [[Motivational-Interviewing]], [[Learned-Helplessness]], [[Academic Buoyancy]]
+> **Related Topics**: [[Attribution-Theory]], [[Motivational-Interviewing]], [[Learned-Helplessness]], [[Academic-Buoyancy]]
 
 > [!topic-idea]
 > **Topic**: Mastery-Experience Architecture in Instructional Design
 > **Report Type**: First Principles
 > **Description**: A first-principles analysis of how learning environments can be designed to ensure that students accumulate genuine mastery experiences — addressing the question of what counts as a mastery experience (vs. artificial easy wins), how scaffolding difficulty affects self-efficacy, and how to balance challenge and success to build domain-specific ability beliefs. Directly extends the Mastery-Experience Primacy Hypothesis derived in Phase IV.
 > **Core Concepts**: Zone of proximal development, scaffolding theory, deliberate practice, desirable difficulties, spaced retrieval, interleaving, expertise acquisition
-> **Related Topics**: [[Deliberate-Practice]], [[Expertise Acquisition]], [[Cognitive-Load-Theory]], [[Desirable-Difficulties]]
+> **Related Topics**: [[Deliberate-Practice]], [[Expertise-Acquisition]], [[Cognitive-Load-Theory]], [[Desirable-Difficulties]]
 
 > [!topic-idea]
 > **Topic**: Goal Climate Design in Educational Environments
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive survey of the goal climate literature — how the motivational environment created by instructional practices, evaluation structures, and classroom culture shapes students' goal orientations independent of their individual ability beliefs. This would operationalize the Goal Orientation Bypass identified as novel in Phase IV, giving practitioners actionable tools that do not require mindset instruction.
 > **Core Concepts**: Achievement Goal Theory, motivational climate, mastery-structured assessment, social comparison effects, normative grading, competency-based evaluation
-> **Related Topics**: [[Achievement-Goal-Theory]], [[Classroom Motivation]], [[Competency-Based Learning]], [[Self-Determination-Theory]]
+> **Related Topics**: [[Achievement-Goal-Theory]], [[Classroom-Motivation]], [[Competency-Based-Learning]], [[Self-Determination-Theory]]
 
 > [!topic-idea]
 > **Topic**: The Replication Crisis and Psychological Intervention Science
 > **Report Type**: First Principles
 > **Description**: A first-principles examination of the structural and methodological factors that produced the replication crisis in social and educational psychology, using growth mindset as a central case study but extending to broader lessons about how psychological findings acquire cultural authority before their replication record is established, and what institutional changes would produce more reliable intervention science.
 > **Core Concepts**: Publication bias, underpowered studies, researcher degrees of freedom, preregistration, registered reports, effect size inflation, conceptual vs. direct replication
-> **Related Topics**: [[Replication-Crisis-in-Psychology]], [[Open Science Framework]], [[Meta-Science]], [[Evidence-Based Education]]
+> **Related Topics**: [[Replication-Crisis-in-Psychology]], [[Open-Science-Framework]], [[Meta-Science]], [[Evidence-Based-Education]]
 
 > [!topic-idea]
 > **Topic**: Stereotype Threat and Attribution Interaction
 > **Report Type**: Socratic Dialogue
 > **Description**: A dialectical exploration of the interaction between stereotype threat and growth mindset, specifically examining the hypothesis that stereotype threat operates partly through the same attribution mechanism identified in this report's axioms (threat activates stable-ability attributions for difficulty), and that attribution-level interventions might interrupt stereotype threat more effectively than general mindset instruction. This topic benefits from Socratic treatment because the theoretical case is plausible but the empirical record is contested.
 > **Core Concepts**: Stereotype threat mechanisms, identity contingency, attributional ambiguity, domain identification, wise interventions
-> **Related Topics**: [[Stereotype-Threat]], [[Identity-Based Motivation]], [[Wise Interventions]], [[Attributional Ambiguity]]
+> **Related Topics**: [[Stereotype-Threat]], [[Identity-Based-Motivation]], [[Wise-Interventions]], [[Attributional-Ambiguity]]

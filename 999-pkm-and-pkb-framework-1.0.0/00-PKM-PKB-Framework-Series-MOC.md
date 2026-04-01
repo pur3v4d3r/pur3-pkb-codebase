@@ -114,7 +114,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[06-science-of-remembering-pkm-framework-2026-03-13|Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 
-**Synthesis Focus:** How do [[Spacing-Effect]], [[Testing-Effect]], [[Interleaving]], and [[Desirable-Difficulties]] combine to inform PKB review systems?
+**Synthesis Focus:** How do [[Spacing-Effect]], [[Testing-Effect]], [[interleaving]], and [[Desirable-Difficulties]] combine to inform PKB review systems?
 **Disciplines:** Cognitive Psychology, Psychology of Learning, Educational Psychology, Knowledge Management
 **Original Contribution:** **[[Retrieval-Oriented Note Architecture (RONA)]]** — Notes designed as retrieval training instruments from creation
 **Builds On:** Reports 01, 02, 04 | **Feeds Into:** Reports 09, 12, 16, 20

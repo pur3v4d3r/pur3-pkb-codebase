@@ -509,7 +509,7 @@ TGP supports multiple [[LLM]] providers through a unified interface:
 ### Anthropic Claude Configuration
 
 > [!important] Claude API Setup
-> To use [[Claude]] models with TGP, you need an [[Anthropic API]] key from [console.anthropic.com](https://console.anthropic.com). This is separate from any Claude Pro subscription. API access follows pay-per-token pricing (~$3/million input tokens, ~$15/million output tokens for Claude 3.5 Sonnet).
+> To use [[Claude]] models with TGP, you need an [[Anthropic-API]] key from [console.anthropic.com](https://console.anthropic.com). This is separate from any Claude Pro subscription. API access follows pay-per-token pricing (~$3/million input tokens, ~$15/million output tokens for Claude 3.5 Sonnet).
 
 **Configuration Steps:**
 
@@ -805,7 +805,7 @@ context: selection
 system: |
   You are an expert analyst specializing in critical thinking and knowledge synthesis.
   Always provide structured, actionable analysis with specific examples.
-  Use wiki-link format [[like this]] when suggesting connections.
+  Use wiki-link format [[like-this]] when suggesting connections.
 ---
 ```
 
@@ -1339,7 +1339,7 @@ You are a research assistant specializing in knowledge synthesis and critical an
 - Use Obsidian-compatible markdown
 - Include > [!definition] for key terms
 - Include > [!example] for illustrations
-- Suggest 3-5 [[related notes]] at the end
+- Suggest 3-5 [[related-notes]] at the end
 
 ## Domain Knowledge
 - Familiar with academic research methodology

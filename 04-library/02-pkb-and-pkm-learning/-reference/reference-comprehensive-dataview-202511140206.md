@@ -377,8 +377,8 @@ The calendar view automatically groups by month and shows dots on days where mat
 | **Tag** | `FROM #tag` | All pages with tag (and its subtags) |
 | **Folder** | `FROM "folder"` | All pages in folder (and subfolders) |
 | **Single File** | `FROM "path/to/file"` | One specific file |
-| **Incoming Links** | `FROM [[note]]` | All pages which link TO the note |
-| **Outgoing Links** | `FROM outgoing([[note]])` | All pages which link FROM the note |
+| **Incoming Links** | `FROM [[Note]]` | All pages which link TO the note |
+| **Outgoing Links** | `FROM outgoing([[Note]])` | All pages which link FROM the note |
 
 **Source Composition:**
 
@@ -1054,7 +1054,7 @@ WHERE due_date < date(today) AND status != "complete"
 ---
 type: book
 title: "Book Title"
-author: "[[Author Name]]"
+author: "[[Author-Name]]"
 genre: [fiction, scifi]
 rating: 8                # 1-10 scale
 status: reading          # reading | completed | want-to-read
@@ -1916,7 +1916,7 @@ GROUP BY genres
 
 **Link Field Requirements:**
 - Always quote links in frontmatter
-- Use [[Wiki-Link]] syntax for Dataview recognition
+- Use [[wiki-link]] syntax for Dataview recognition
 - Consider Obsidian's lack of tracking for quoted frontmatter links
 
 ### Query Organization Strategies
@@ -2088,7 +2088,7 @@ STRUCTURAL REASONING:
         - [[Obsidian]] ecosystem
         - [[YAML-Frontmatter]] conventions
         - [[Metadata Schema Design]]
-        - [[Regular Expressions]]
+        - [[Regular-Expressions]]
         - [[JavaScript]] for DataviewJS
         - [[SQL]] parallels for mental model
         - [[Knowledge-Graph]] building

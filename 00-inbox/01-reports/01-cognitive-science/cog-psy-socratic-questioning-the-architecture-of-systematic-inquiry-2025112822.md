@@ -555,7 +555,7 @@ The framework's power lies in its dual character as both **art and science**. Th
 2. **[[Intellectual Standards in Critical Thinking - The Quality Criteria for Thought]]**
    - *Connection*: While question types determine *what* aspect of thinking to probe, intellectual standards (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness) determine *how well* thinking meets quality criteria. Together they provide comprehensive assessment tools.
    - *Depth Potential*: Each standard operates as both a cognitive ideal and a practical evaluation criterion. Understanding how to operationalize standards—turning abstract ideals like "depth" into concrete questioning strategies—requires substantial elaboration.
-   - *Knowledge Graph Role*: This connects Socratic questioning to broader epistemology, linking to [[Epistemic Justification]], [[Truth-Seeking]], and [[Rational Discourse]].
+   - *Knowledge Graph Role*: This connects Socratic questioning to broader epistemology, linking to [[epistemic-justification]], [[Truth-Seeking]], and [[Rational Discourse]].
 
 3. **[[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]**
    - *Connection*: Socratic questioning functions as a debiasing tool by interrupting automatic processing and forcing engagement of deliberate reasoning. Each question type targets specific bias categories (e.g., assumption-probing combats confirmation bias, perspective-taking combats egocentric bias).

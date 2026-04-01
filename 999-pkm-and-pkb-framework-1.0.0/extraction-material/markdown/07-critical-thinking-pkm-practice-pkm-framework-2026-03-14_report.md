@@ -406,7 +406,7 @@ extraction_summary:
 #### 38. [DEFINITION] Steel-Manning (Argumentation / Critical Thinking) *(Line 512)*
 
 > [!definition] Steel-Manning (Argumentation / Critical Thinking)
-> The practice of constructing the strongest possible version of an opposing argument — the deliberate opposite of the [[Straw Man]] fallacy, which constructs the weakest version. A required component of genuine critical evaluation; ensures that opposing positions are engaged in their most challenging form, maximizing the epistemic benefit of the engagement.
+> The practice of constructing the strongest possible version of an opposing argument — the deliberate opposite of the [[Straw-Man]] fallacy, which constructs the weakest version. A required component of genuine critical evaluation; ensures that opposing positions are engaged in their most challenging form, maximizing the epistemic benefit of the engagement.
 
 #### 39. [DEFINITION] Elenchus (Socratic Philosophy) *(Line 515)*
 
@@ -536,7 +536,7 @@ extraction_summary:
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]]
 - [[Disequilibration]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
-- [[Dysrationalia]]
+- [[dysrationalia]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]
 - [[Epistemic-Status-Vocabulary|Epistemic Status Vocabulary]]
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning Protocol]]
 - [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
-- [[Straw Man]]
+- [[Straw-Man]]
 - [[System-1]]
 - [[System-2]]
 - [[The Epistemic Benefits of Disagreement: Adversarial Collaboration for PKM]]
@@ -595,7 +595,7 @@ extraction_summary:
 | 23 | [[Productive-Failure|Productive Failure]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 24 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 25 | [[Aporia]] | — | — | How Socratic Questioning Interrupts t... | 271 |
-| 26 | [[Dysrationalia]] | — | — | The Mechanics of Confirmation Bias in... | 279 |
+| 26 | [[dysrationalia]] | — | — | The Mechanics of Confirmation Bias in... | 279 |
 | 27 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | The Return-and-Deepen: Metacognitive ... | 297 |
 | 28 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The Return-and-Deepen: Metacognitive ... | 299 |
 | 29 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Design Principle 1: Embed Evaluation ... | 318 |
@@ -615,7 +615,7 @@ extraction_summary:
 | 43 | [[Report 14 — Inquiry-Based Knowledge Building]] | — | — | Phase VII: PKB Connections and Cross-... | 480 |
 | 44 | [[Report 18 — Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections and Cross-... | 482 |
 | 45 | [[Report 21 — Dialectical Knowledge Building]] | — | — | Phase VII: PKB Connections and Cross-... | 484 |
-| 46 | [[Straw Man]] | — | — | A. Lexicon of Key Terms | 513 |
+| 46 | [[Straw-Man]] | — | — | A. Lexicon of Key Terms | 513 |
 | 47 | [[Informal Logic and Argumentation Theory]] | — | — | D. Expansion Topics | 574 |
 | 48 | [[Intellectual Humility: Cognitive Science and Virtue Epistemology]] | — | — | D. Expansion Topics | 577 |
 | 49 | [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] | — | — | D. Expansion Topics | 580 |
@@ -684,7 +684,7 @@ extraction_summary:
 - [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]]
 - [[Disequilibration]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
-- [[Dysrationalia]]
+- [[dysrationalia]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]
 - [[Epistemic-Status-Vocabulary|Epistemic Status Vocabulary]]
@@ -709,7 +709,7 @@ extraction_summary:
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning Protocol]]
 - [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
-- [[Straw Man]]
+- [[Straw-Man]]
 - [[System-1]]
 - [[System-2]]
 - [[The Epistemic Benefits of Disagreement: Adversarial Collaboration for PKM]]
@@ -748,7 +748,7 @@ extraction_summary:
 - [[Belief-Revision|Belief Revision]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Cognitive-Miser|Cognitive Miser]]
-- [[Dysrationalia]]
+- [[dysrationalia]]
 - [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Steel-Manning]]
 - [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]

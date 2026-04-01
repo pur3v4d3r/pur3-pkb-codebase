@@ -979,7 +979,7 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Elaborative interrogation has its own rich research base (Pressley et al., 1987; Dunlosky et al., 2013) showing that self-explaining improves comprehension and retention. A dedicated note would explore how to systematically apply "why?" questions during Layer 3-4 processing, transform summaries into understanding, and leverage elaboration without overwhelming cognitive load.
 
-**Knowledge Graph Role:** Bridges [[Progressive-Summarization]] to [[Deep Processing Techniques]], connects to [[Self-Explanation-Effect]], and integrates with [[Metacognitive Strategies]]. Would serve as a methodological extension showing how to make progressive summarization even more effective through strategic question-asking.
+**Knowledge Graph Role:** Bridges [[Progressive-Summarization]] to [[Deep Processing Techniques]], connects to [[Self-Explanation-Effect]], and integrates with [[Metacognitive-strategies]]. Would serve as a methodological extension showing how to make progressive summarization even more effective through strategic question-asking.
 
 **Priority:** High — This represents the natural next step in optimizing progressive summarization for learning (not just discoverability), and has strong empirical support making it immediately actionable.
 
@@ -990,13 +990,13 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 ### 2. **[[Semantic Density and Information Compression Theory]]**
 **Connection:** Progressive summarization operationalizes compression, but lacks a formal theory of what makes "good" compression. Information theory (Shannon, 1948) and semantic compression research offer mathematical frameworks for understanding lossless vs. lossy compression, semantic preservation, and optimal compression ratios—all applicable to note-taking.
 
-**Depth Potential:** This would explore how [[Information Theory]] concepts (entropy, redundancy, compression algorithms) map onto knowledge work. What is the "semantic entropy" of a note? When does compression begin losing essential meaning? How do we formalize the "10-25% rule" Forte recommends for each layer? Deep mathematical/theoretical treatment connecting computer science to cognitive science.
+**Depth Potential:** This would explore how [[Information-Theory]] concepts (entropy, redundancy, compression algorithms) map onto knowledge work. What is the "semantic entropy" of a note? When does compression begin losing essential meaning? How do we formalize the "10-25% rule" Forte recommends for each layer? Deep mathematical/theoretical treatment connecting computer science to cognitive science.
 
-**Knowledge Graph Role:** Creates bridge between [[Progressive-Summarization]] and [[Information Theory]], [[Computer Science]], and [[Formal Knowledge Representation]]. Would provide theoretical grounding for what has been largely a practical heuristic method.
+**Knowledge Graph Role:** Creates bridge between [[Progressive-Summarization]] and [[Information-Theory]], [[Computer Science]], and [[Formal Knowledge Representation]]. Would provide theoretical grounding for what has been largely a practical heuristic method.
 
 **Priority:** Medium — Intellectually rich but less immediately actionable than elaborative interrogation. Best pursued after building strong foundational understanding of both progressive summarization practice and information theory basics.
 
-**Prerequisites:** [[Progressive-Summarization]], [[Information Theory Basics]], [[Semantic-Networks]], [[Knowledge Representation]]
+**Prerequisites:** [[Progressive-Summarization]], [[Information Theory Basics]], [[Semantic-Networks]], [[knowledge-representation]]
 
 ---
 

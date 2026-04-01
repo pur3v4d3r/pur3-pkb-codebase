@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 28
+referenced-by-count: 33
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
+  - "[[Assimilation,-Accommodation,-and-Equilibration]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomy-Supportive-Environment]]"
   - "[[Cognitive-Evaluation-Theory]]"
   - "[[Competence]]"
   - "[[Conditional-Regard]]"
+  - "[[Constructive-Attentiveness]]"
   - "[[Controlled-Regulation]]"
   - "[[Controlling-Environment]]"
-  - "[[Effectance]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Csikszentmihalyi
 
 > [!definition] **Csikszentmihalyi**
-> *Stub note — concept referenced by 28 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 33 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 28 permanent notes.*
+*Auto-generated stub — referenced by 33 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Amotivation]]
+- [[Assimilation,-Accommodation,-and-Equilibration]]
 - [[Autonomous-Regulation]]
 - [[Autonomy-Supportive-Environment]]
 - [[Cognitive-Evaluation-Theory]]
 - [[Competence]]
 - [[Conditional-Regard]]
+- [[Constructive-Attentiveness]]
 - [[Controlled-Regulation]]
 - [[Controlling-Environment]]
+- [[Dewey's-Continuity-and-Interaction-Principles]]
 - [[Effectance]]
 - [[Identified-Regulation]]
+- [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
 - [[Introjected-Regulation]]
 - [[Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score]]
 - [[Need-Thwarting]]
 - [[Organismic-Integration-Theory]]
 - [[Perceived-Locus-of-Causality]]
 - [[Relatedness]]
-- [[The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper]]
-- [[The-Regulatory-Spectrum]]
-- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
-- *...and 8 more permanent notes*
+- *...and 13 more permanent notes*

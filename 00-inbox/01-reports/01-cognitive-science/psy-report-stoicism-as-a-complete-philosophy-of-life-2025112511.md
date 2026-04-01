@@ -108,7 +108,7 @@ I need to search for:
 - [[Premeditatio-Malorum]], [[Dichotomy-of-Control]], [[Negative Visualization]]
 - [[Eudaimonia]], [[Virtue-Ethics]], [[Apatheia]], [[Ataraxia]]
 - [[Meditations]], [[Enchiridion]], [[Letters from a Stoic]]
-- [[Philosophy of Mind]], [[Ancient Greek Philosophy]], [[Hellenistic Philosophy]]
+- [[philosophy-of-mind]], [[Ancient Greek Philosophy]], [[Hellenistic Philosophy]]
 - [[Personal-Knowledge-Management]], [[Cognitive-Reappraisal]], [[Mental-Models]]
 
 **Callout Strategy:**
@@ -449,12 +449,12 @@ For someone like yourself, committed to building an [[Antifragility|antifragile]
 3. **[[Metacognition]] and Cognitive Monitoring**
    - *Connection*: Stoic practices like prosochē, pause-before-assent, and evening review are sophisticated metacognitive techniques for monitoring and regulating thought processes
    - *Depth Potential*: Investigating metacognition from contemporary cognitive science perspectives—metacognitive awareness, metacognitive control, cognitive monitoring strategies, and how expert learners differ from novices in metacognitive skill—would illuminate the cognitive mechanisms underlying Stoic practices
-   - *Knowledge Graph Role*: Links Stoicism to [[Self-Regulated-Learning]], [[Expert Performance]], and [[Cognitive-Science]], showing how ancient philosophical practices align with modern understanding of how skilled learners think about their own thinking
+   - *Knowledge Graph Role*: Links Stoicism to [[Self-Regulated-Learning]], [[expert-performance]], and [[Cognitive-Science]], showing how ancient philosophical practices align with modern understanding of how skilled learners think about their own thinking
 
 4. **[[Hellenistic Philosophy]] and the Philosophy-as-Therapy Tradition**
    - *Connection*: Stoicism emerged within the broader Hellenistic period (323 BCE–31 BCE) that produced Epicureanism, Skepticism, and Cynicism—all philosophies focused on achieving tranquility and flourishing through rational practice
    - *Depth Potential*: Understanding the intellectual context in which Stoicism developed—its debates with rival schools, shared assumptions about philosophy's therapeutic purpose, and distinctive contributions—would deepen appreciation for what makes Stoicism unique and why these ancient philosophers were so focused on practical wisdom rather than abstract theorizing
-   - *Knowledge Graph Role*: Connects Stoicism to [[Ancient Greek Philosophy]], [[Epicureanism]], [[Skepticism]], [[Philosophy of Mind]], and [[History of Psychology]], revealing the rich intellectual ecosystem from which Stoic insights emerged
+   - *Knowledge Graph Role*: Connects Stoicism to [[Ancient Greek Philosophy]], [[Epicureanism]], [[Skepticism]], [[philosophy-of-mind]], and [[History of Psychology]], revealing the rich intellectual ecosystem from which Stoic insights emerged
 
 ---
 

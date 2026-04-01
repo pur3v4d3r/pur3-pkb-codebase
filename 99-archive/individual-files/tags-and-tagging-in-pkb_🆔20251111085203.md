@@ -42,7 +42,7 @@ related:
   - "[[Information-Architecture]]"
   - "[[Obsidian Core Features]]"
   - "[[Zettelkasten Method]]"
-  - "[[Knowledge Graph Theory]]"
+  - "[[Knowledge-Graph-Theory]]"
 ---
 
 > [!the-purpose]
@@ -287,7 +287,7 @@ An **emergent** approach allows tags to arise organically as you take notes. You
 
 ### The PARA Method and Tags
 
-The **[[PARA Method]]** (Projects, Areas, Resources, Archives) developed by Tiago Forte is a popular framework for organizing digital information. In a tag-based implementation:
+The **[[PARA-Method]]** (Projects, Areas, Resources, Archives) developed by Tiago Forte is a popular framework for organizing digital information. In a tag-based implementation:
 
 ```yaml
 #para/project/dissertation
@@ -810,12 +810,12 @@ The key principle: *links carry the semantic load; tags provide access and organ
 > [!related-topics-to-consider]
 > **Broaden Your PKB Understanding:**
 > - `[[Maps of Content (MOCs)]]` — Curated navigation hubs that complement tag-based retrieval
-> - `[[Knowledge Graph Theory]]` — Understanding how networks of knowledge form and function
+> - `[[Knowledge-Graph-Theory]]` — Understanding how networks of knowledge form and function
 > - `[[Zettelkasten Method]]` — The foundational note-taking method that informed modern PKM
 > - `[[Information-Architecture]]` — Principles of organizing information systems for findability and usability
 > - `[[Metadata Management]]` — Broader strategies for managing metadata beyond tags
 > - `[[Dataview-Plugin]]` — Advanced querying and dynamic views using your tag system
-> - `[[PARA Method]]` — Tiago Forte's organizational framework and its relationship to tagging
+> - `[[PARA-Method]]` — Tiago Forte's organizational framework and its relationship to tagging
 > - `[[Controlled Vocabulary Design]]` — Library science principles for creating consistent taxonomies
 
 > [!connections-and-links]

@@ -27,7 +27,7 @@ link-related:
 # Expertise Development
 
 Tags: \#topic/academic \#type/masterclass \#psychology/cognitive \#education/andragogy \#skill-acquisition
-Aliases: [[Expertise Development]], [[Cognitive Mastery]], [[Advanced Andragogy]], [[Novice to Expert Continuum]]
+Aliases: [[Expertise-Development]], [[Cognitive Mastery]], [[Advanced Andragogy]], [[Novice to Expert Continuum]]
 
 **Structural Scaffold: Foundational Report**
 

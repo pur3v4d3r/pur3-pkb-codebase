@@ -273,7 +273,7 @@ created: 2025-01-01
 modified: 2025-01-15
 status: evergreen
 type: moc
-related: [[cognitive-science-moc]], [[AI Development MOC]], [[Learning Theory MOC]]
+related: [[cognitive-science-moc]], [[AI Development MOC]], [[learning-theory-moc]]
 ---
 ```
 

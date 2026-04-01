@@ -740,7 +740,7 @@ The exploration tree drives content structure. Each explored branch becomes a se
 ### 2. **[[Chain of Thought Exemplar Design]]**
 **Connection:** The 3 exemplars provided are templates; systematic methodology for designing CoT exemplars across domains would enable rapid prompt development
 **Depth Potential:** Exemplar selection criteria, exemplar diversity requirements, domain-specific adaptation patterns
-**Knowledge Graph Role:** Core node in [[Few-Shot-Learning]] cluster, connects to [[Cognitive Task Analysis]]
+**Knowledge Graph Role:** Core node in [[Few-Shot-Learning]] cluster, connects to [[Cognitive-Task-Analysis]]
 **Priority:** High — reusable skill for all future prompt engineering
 
 ### 3. **[[Backtracking in LLM Reasoning]]**
@@ -752,6 +752,6 @@ The exploration tree drives content structure. Each explored branch becomes a se
 ### 4. **[[Semantic Markup Systems for PKB]]**
 **Connection:** The prompt consolidates multiple marker systems; systematic treatment of semantic markup design principles would support future PKB infrastructure
 **Depth Potential:** Marker syntax optimization, Dataview query patterns, interoperability between systems
-**Knowledge Graph Role:** Central node connecting [[Obsidian Ecosystem]] to [[Knowledge Representation]]
+**Knowledge Graph Role:** Central node connecting [[Obsidian Ecosystem]] to [[knowledge-representation]]
 **Priority:** Medium — infrastructure improvement with compound benefits
 ````

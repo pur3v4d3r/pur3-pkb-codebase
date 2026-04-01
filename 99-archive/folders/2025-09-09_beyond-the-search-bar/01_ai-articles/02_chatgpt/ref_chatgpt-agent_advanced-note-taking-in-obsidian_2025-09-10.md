@@ -10,7 +10,7 @@ Obsidian stores everything as local Markdown files; there’s no opaque database
 
 Two core ideas:
 
--   **Notes are nodes; links are edges.** A link `[[Like this]]` connects notes. Backlinks, outgoing links, and the graph visualize these relationships![](obsidian-notes-guide/raw.png)screenshot.
+-   **Notes are nodes; links are edges.** A link `[[like-this]]` connects notes. Backlinks, outgoing links, and the graph visualize these relationships![](obsidian-notes-guide/raw.png)screenshot.
     
 -   **Properties** (structured metadata at the top of a note) make your notes queryable and consistent. In 2025, Obsidian added a richer properties editor—and even “Bases,” a way to treat sets of notes like databases—while still storing all metadata in YAML so your files remain plain text![](obsidian-notes-guide/raw.png)screenshot.
     

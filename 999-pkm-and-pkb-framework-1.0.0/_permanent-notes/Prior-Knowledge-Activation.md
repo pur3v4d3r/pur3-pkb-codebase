@@ -24,21 +24,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 28
+referenced-by-count: 27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Advance-Organizer]]"
   - "[[Advance-OrganizerAdvance-Organizer]]"
   - "[[Assimilation]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Comparative-Organizer]]"
   - "[[Comprehension]]"
   - "[[Elaborative-Interrogation]]"
+  - "[[Expository-Advance-Organizer]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: high
 # Prior-Knowledge-Activation
 
 > [!definition] **Prior-Knowledge-Activation**
-> *Stub note — concept referenced by 28 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 27 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 28 permanent notes.*
+*Auto-generated stub — referenced by 27 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Advance-Organizer]]
 - [[Advance-OrganizerAdvance-Organizer]]
 - [[Assimilation]]
@@ -86,4 +85,5 @@ importance: high
 - [[Perceptual-Span]]
 - [[Phonological-LoopPhonological-Loop]]
 - [[Prior-Knowledge]]
-- *...and 8 more permanent notes*
+- [[RSVP]]
+- *...and 7 more permanent notes*

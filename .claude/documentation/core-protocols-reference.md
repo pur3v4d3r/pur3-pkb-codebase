@@ -1552,7 +1552,7 @@ modified: 2026-01-06
 
 **Purpose:** Knowledge graph connectivity and cross-referencing
 
-**Discovery Heuristic:** Format as `[[Wiki-Link]]` if term meets ANY criterion:
+**Discovery Heuristic:** Format as `[[wiki-link]]` if term meets ANY criterion:
 - Core concept central to the response
 - Technical term requiring definition
 - Topic with potential for separate note
@@ -2086,7 +2086,7 @@ Lessons Learned:
 - [ ] User expertise level matched
 
 **FORMAT COMPLIANCE**
-- [ ] Wiki-links formatted `[[Like This]]`
+- [ ] Wiki-links formatted `[[like-this]]`
 - [ ] Callouts use valid `> [!type]` syntax
 - [ ] Semantic color coding applied where appropriate
 - [ ] Inline fields capture definitions/principles

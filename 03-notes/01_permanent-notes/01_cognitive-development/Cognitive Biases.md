@@ -80,7 +80,7 @@ review-priority: medium
       - [[Availability-Heuristic]]
       - [[Confirmation-Bias]]
       - [[Dunning-Kruger-Effect]]
-      - [[Fundamental Attribution Error]]
+      - [[Fundamental-Attribution-Error]]
       - [[Hindsight-Bias]]
       - [[Sunk Cost Fallacy (Irrational Escalation)]]
       - [[Survivorship Bias]]
@@ -173,7 +173,7 @@ Their initial work identified three foundational heuristics that explain a wide 
 > [!quick-reference]
 > **Rapid Lookup: The Original Heuristics**
 >
-> 1.  **[[Representativeness Heuristic]]**: Judging the probability of something based on how well it *matches* a prototype or stereotype, while ignoring statistical base rates.
+> 1.  **[[representativeness-heuristic]]**: Judging the probability of something based on how well it *matches* a prototype or stereotype, while ignoring statistical base rates.
 >       - *Bias*: Believing a quiet, poetry-reading person is more likely to be an Ivy League Classics professor than a truck driver (ignoring the fact that there are thousands of times more truck drivers than Classics professors).
 > 2.  **[[Availability-Heuristic]]**: Judging the frequency of an event by the *ease* with which instances come to mind.
 >       - *Bias*: Overestimating the risk of plane crashes after seeing one on the news.
@@ -209,7 +209,7 @@ The world is ambiguous. Once we filter data, we must "fill in the gaps" to make 
 > "We find stories and patterns even in sparse data. We fill in the gaps with stereotypes, generalities, and our own assumptions."
 
   - **Key Biases Include**:
-      - **[[Fundamental Attribution Error]]**: We attribute others' actions to their *character* ("he's a jerk") but our own to the *situation* ("I was in a hurry").
+      - **[[Fundamental-Attribution-Error]]**: We attribute others' actions to their *character* ("he's a jerk") but our own to the *situation* ("I was in a hurry").
       - **[[Halo Effect]]**: When we see one good trait in a person (e.g., they are attractive), we assume other good traits (e.g., they are also smart and kind).
       - **[[Just-World Hypothesis]]**: A bias to believe the world is fair, which leads to blaming victims ("they must have done something to deserve it").
       - **[[Gambler's Fallacy]]**: Believing a "run" of random events (e.g., 5 coin flips of "heads") will be corrected by an opposite outcome ("tails must be due").
@@ -223,10 +223,10 @@ We are constrained by time and information. We must be able to make a decision q
 > "To act, we must be confident in our ability to make an impact and feel what we do is important. We favor simple, immediate options over complex, delayed ones."
 
   - **Key Biases Include**:
-      - **[[Sunk Cost Fallacy]]**: We over-value things we have already invested time, money, or effort in, even if it's rational to abandon them.
-      - **[[Optimism Bias]] / [[Overconfidence Bias]]**: We are overly optimistic about our own abilities and the likelihood of positive outcomes.
+      - **[[Sunk-cost-fallacy]]**: We over-value things we have already invested time, money, or effort in, even if it's rational to abandon them.
+      - **[[Optimism Bias]] / [[Overconfidence-Bias]]**: We are overly optimistic about our own abilities and the likelihood of positive outcomes.
       - **[[Dunning-Kruger-Effect]]**: The least competent people are the most likely to overestimate their competence.
-      - **[[Status Quo Bias]]**: We prefer to keep things the same, as change (even for the better) is seen as a risk.
+      - **[[Status-quo-bias]]**: We prefer to keep things the same, as change (even for the better) is seen as a risk.
 
 ## QUADRANT 4: WHAT SHOULD WE REMEMBER?
 
@@ -274,7 +274,7 @@ This section provides brief, technical definitions for the most commonly-cited b
 
 > [!definition]
 >
->   - **Key-Term**:**[[Fundamental Attribution Error]]**
+>   - **Key-Term**:**[[Fundamental-Attribution-Error]]**
 >   - **Definition**:The tendency to over-emphasize dispositional or personality-based explanations for others' behaviors while under-emphasizing situational explanations. (e.g., "He cut me off because he's a bad person," not "He might be in a medical emergency.")
 >   - **Category**:[[\#Quadrant 2: Not Enough Meaning]]
 
@@ -316,10 +316,10 @@ This theory makes two central claims:
 
 ## THE ASYMMETRIC VALUE FUNCTION (LOSS AVERSION)
 
-The core of Prospect Theory is its S-shaped value function, which demonstrates [[Loss Aversion]].
+The core of Prospect Theory is its S-shaped value function, which demonstrates [[Loss-aversion]].
 
 > [!key-claim]
-> **Central Principle: [[Loss Aversion]]**
+> **Central Principle: [[Loss-aversion]]**
 > "Losses loom larger than gains." Research (Source 2.2, 2.8) suggests the pain of losing $100 is roughly **twice as powerful** as the pleasure of gaining $100.
 
 This asymmetry explains several key biases:
@@ -341,8 +341,8 @@ Cognitive biases are not just academic curiosities. They have massive, measurabl
 
 (Source 6.1)
 
-  - **[[Overconfidence Bias]]**: Traders believe they can "beat the market," leading to excessive trading and poor returns.
-  - **[[Loss Aversion]] / [[Sunk Cost Fallacy]]**: Investors hold on to losing stocks for far too long (to avoid realizing the "loss") and sell winning stocks too early (to lock in the "gain").
+  - **[[Overconfidence-Bias]]**: Traders believe they can "beat the market," leading to excessive trading and poor returns.
+  - **[[Loss-aversion]] / [[Sunk-cost-fallacy]]**: Investors hold on to losing stocks for far too long (to avoid realizing the "loss") and sell winning stocks too early (to lock in the "gain").
   - **[[Herd Behavior]]**: Investors follow the crowd, piling into a hot asset (like a bubble) or panic-selling during a crash, amplifying market volatility.
 
 ## MEDICINE
@@ -358,7 +358,7 @@ Cognitive biases are not just academic curiosities. They have massive, measurabl
 (Source 6.2)
 
   - **[[Halo Effect]] (Management)**: A manager sees that an employee is charismatic and assumes they are also competent and productive, leading to biased performance reviews.
-  - **[[Fundamental Attribution Error]] (Management)**: A manager attributes a missed deadline to an employee's "laziness" (disposition) rather than an "unrealistic timeline" (situation).
+  - **[[Fundamental-Attribution-Error]] (Management)**: A manager attributes a missed deadline to an employee's "laziness" (disposition) rather than an "unrealistic timeline" (situation).
   - **[[Hindsight-Bias]] (Law)**: After a tragedy, juries and judges are prone to believe the negative outcome was "obvious" and that the defendant *should have* foreseen it.
 
 -----
@@ -377,7 +377,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 | 🐢 **Slow Down** | Force the use of **[[System-2]]**. Resist the immediate, intuitive answer from [[System-1]]. Use checklists, algorithms, or formal decision-making frameworks. | Anchoring, Availability, Framing |
 | 😈 **Seek Disconfirmation** | Actively search for evidence that *contradicts* your hypothesis. Appoint a "devil's advocate" in a group meeting. | **[[Confirmation-Bias]]** (Primary counter) |
 | 🔭 **Take the "Outside View"** | Instead of analyzing your specific situation, ask "What happens to *most* people in this situation?" Use base rates and statistical data. | Planning Fallacy, Optimism Bias |
-| 🔄 **Re-frame the Problem** | Consciously re-state the problem in different ways. If framed as a "loss," re-frame it as a "gain" and see if your decision changes. | [[Framing Effect]], [[Loss Aversion]] |
+| 🔄 **Re-frame the Problem** | Consciously re-state the problem in different ways. If framed as a "loss," re-frame it as a "gain" and see if your decision changes. | [[Framing Effect]], [[Loss-aversion]] |
 | 📝 **Conduct a Pre-Mortem** | Before starting a project, imagine it has failed spectacularly. Have the team write down *why* it failed. This surfaces risks normally hidden by optimism. | Optimism Bias, Planning Fallacy |
 
 -----
@@ -407,7 +407,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 
 | Concept | Definition | Type | Example |
 |---|---|---|---|
-| **[[as]]** | A *systematic error* in thinking; a predictable deviation from rationality. | Unconscious Error (System 1) | **[[Sunk Cost Fallacy]]**: "I'll keep watching this bad movie because I already paid for the ticket." |
+| **[[as]]** | A *systematic error* in thinking; a predictable deviation from rationality. | Unconscious Error (System 1) | **[[Sunk-cost-fallacy]]**: "I'll keep watching this bad movie because I already paid for the ticket." |
 | **[[Logical Fallacy]]** | An *error in reasoning* or a flaw in the structure of a logical argument. | Conscious or Unconscious Error (System 2) | **Straw Man**: "You want to reduce defense spending? So you want to leave the country defenseless?" |
 | **[[Heuristic]]** | A *mental shortcut* or rule of thumb used to simplify decision-making. | Unconscious Process (System 1) | **[[Availability-Heuristic]]**: "I can think of 3 friends who got the flu, so it must be everywhere." |
 
@@ -422,7 +422,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 >
 >   - See [[https://www.google.com/search?q=%231-EF-foundational-concepts-the-what-how-and-why]] for the core definition and mechanism.
 >   - Compare [[\#Definition: Bias vs. Heuristic]] with [[\#Comparative Analysis]] to understand the distinction from logical fallacies.
->   - See [[https://www.google.com/search?q=%235---key-theoretical-model-prospect-theory]] for the deep-dive on [[Loss Aversion]] and [[Framing Effect]].
+>   - See [[https://www.google.com/search?q=%235---key-theoretical-model-prospect-theory]] for the deep-dive on [[Loss-aversion]] and [[Framing Effect]].
 >   - See [[https://www.google.com/search?q=%237----mitigation-strategies-debiasing]] for practical counters to the biases listed in [[https://www.google.com/search?q=%234---key-examples-a-rapid-reference-catalog]].
 
 ## 🌐 EXTERNAL KNOWLEDGE GRAPH
@@ -432,7 +432,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 >
 >   - **Parent Topic**: [[Cognitive-Science]], [[psychology]], [[Behavioral Economics]]
 >   - **Sibling Topics**: [[Logical Fallacies]], [[Mental-Models]], [[heuristics]]
->   - **Child Topics**: [[Confirmation-Bias]], [[Anchoring]], [[Loss Aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability-Heuristic]], [[Sunk Cost Fallacy]]
+>   - **Child Topics**: [[Confirmation-Bias]], [[Anchoring]], [[Loss-aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability-Heuristic]], [[Sunk-cost-fallacy]]
 
 -----
 

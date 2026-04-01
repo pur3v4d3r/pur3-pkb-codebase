@@ -1829,7 +1829,7 @@ Information Architecture:
 Wiki-Link Opportunities:
 - Core PKM concepts: [[Project Management]], [[Self-Regulated-Learning]], [[Zettelkasten]]
 - Plugin-specific: [[Dataview]], [[Templater]], [[QuickAdd]], [[Tasks-Plugin]], [[Kanban]]
-- Methodologies: [[SMART Goals]], [[GTD]], [[PARA Method]], [[Eisenhower Matrix]]
+- Methodologies: [[SMART Goals]], [[GTD]], [[PARA-Method]], [[Eisenhower Matrix]]
 - Cognitive frameworks: [[Executive-Function]], [[Metacognition]], [[Cognitive-Load-Theory]]
 
 Callout Strategy:

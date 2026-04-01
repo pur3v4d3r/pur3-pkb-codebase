@@ -173,7 +173,7 @@ A high-quality adaptive inference is:
 
 | ❌ Poor (vague, unactionable) | ✅ Good (specific, testable) |
 |---|---|
-| "Be more focused" | "Set a 25-minute timer and do a [[Self-Explanation]] at each section break" |
+| "Be more focused" | "Set a 25-minute timer and do a [[self-explanation]] at each section break" |
 | "Read more carefully" | "Use [[Elaborative-Interrogation]] on mechanism sections by asking 'why does this work?'" |
 | "Prepare better" | "Review [[specific PKB note]] before the session to activate relevant schema" |
 | "Take more time" | "Reduce scope to sections 1-3 only, saving sections 4-5 for a separate session" |

@@ -33,7 +33,7 @@ tags:
 
 ### Permanent Notes To-Create/Created
 
-[[Philosophy of Mind]]
+[[philosophy-of-mind]]
 [[Reflective Consciousness]]
 [[Schema-Theory]]
 [[Deep-Processing]]

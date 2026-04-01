@@ -555,21 +555,21 @@ Earlier, in Phase II, we established that GCT focuses on the *content* of goals 
 
 > [!further-exploration] **Deepening Your Understanding**
 
-> [!topic-idea] [[Intrinsic Goal Framing in Instructional Design — A Practical Guide]]
+> [!topic-idea] [[Intrinsic-Goal-Framing-in-Instructional-Design-—-A-Practical-Guide|Intrinsic Goal Framing in Instructional Design — A Practical Guide]]
 > Vansteenkiste's experimental findings have direct and underexplored applications in instructional design practice. A dedicated report would translate the goal framing research into specific design principles: how to write learning objectives that activate intrinsic rather than extrinsic goal processing, how to frame assessment rationales without undermining intrinsic motivation, and how to structure feedback to emphasize growth and mastery rather than comparative performance. This represents one of the highest-priority practical applications of the GCT literature for the PKB's instructional design audience.
 
-> [!topic-idea] [[Expectancy-Value Theory — Focused Analysis]]
+> [!topic-idea] [[Expectancy-Value-Theory-—-Focused-Analysis|Expectancy-Value Theory — Focused Analysis]]
 > Eccles and Wigfield's expectancy-value framework provides a complementary motivational analysis that overlaps substantially with GCT in its construct of "intrinsic value" but diverges in its treatment of utility value and attainment value. A comparative analysis would map the relationships between EVT's task value constructs and GCT's goal content categories, identifying where the frameworks converge (suggesting a robust psychological phenomenon), where they diverge (suggesting theoretically distinct processes), and what each framework explains that the other misses.
 
-> [!topic-idea] [[Materialism, Consumer Culture, and Psychological Well-Being]]
+> [!topic-idea] [[Materialism,-Consumer-Culture,-and-Psychological-Well-Being|Materialism, Consumer Culture, and Psychological Well-Being]]
 > Kasser's broader research program on materialistic values extends GCT into sociocultural analysis, examining how consumer culture systematically promotes extrinsic goal orientations and with what psychological consequences. A report at this scale would connect GCT to critical educational theory, examining how educational institutions may inadvertently reproduce extrinsic goal cultures, and what structural conditions support the development of intrinsic aspiration in learners.
 
-> [!topic-idea] [[Hedonic Adaptation and the Attainment Paradox — Cross-Theory Analysis]]
+> [!topic-idea] [[Hedonic-Adaptation-and-the-Attainment-Paradox-—-Cross-Theory-Analysis|Hedonic Adaptation and the Attainment Paradox — Cross-Theory Analysis]]
 > The attainment paradox in GCT and the hedonic adaptation phenomenon in positive psychology converge on a shared insight: outcome-based well-being predictions are systematically inaccurate. A cross-theory analysis would map the mechanisms through which these two frameworks explain why achievement fails to produce lasting flourishing, identifying where they share explanatory logic and where they offer genuinely distinct accounts — creating a richer synthetic understanding of the relationship between goal achievement and well-being than either framework alone provides.
 
-> [!topic-idea] [[Causality Orientations Theory — SDT Sub-Theory Analysis]]
+> [!topic-idea] [[Causality-Orientations-Theory-—-SDT-Sub-Theory-Analysis|Causality Orientations Theory — SDT Sub-Theory Analysis]]
 > COT examines individual differences in how people perceive the locus and meaning of motivational cues — autonomy-oriented individuals tend to perceive opportunities for self-determination in their environment, while control-oriented individuals perceive pressures and external contingencies. The connection to GCT is theoretically rich: autonomy orientation may be a dispositional antecedent to intrinsic goal development, while control orientation may predispose toward extrinsic goal salience. Understanding the relationship between orientations (how I habitually process motivational information) and aspirations (what I most want) would enrich both frameworks.
 
-> [!topic-idea] [[Psychological Safety and Basic Needs Environments in Educational Settings]]
+> [!topic-idea] [[Psychological-Safety-and-Basic-Needs-Environments-in-Educational-Settings|Psychological Safety and Basic Needs Environments in Educational Settings]]
 > If the compensatory hypothesis is correct — if extrinsic goal emphasis emerges partly from basic needs frustration in developmental and educational environments — then creating environments that reliably support basic needs should, over time, shift aspiration profiles toward more intrinsic content. This expansion topic would focus on the environmental design principles that support needs satisfaction at the institutional level, connecting GCT to psychological safety research, autonomy-supportive teaching practices, and the broader ecology of motivational climate in educational settings.
 ---

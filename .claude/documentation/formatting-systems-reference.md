@@ -388,11 +388,11 @@ tags: #learning #cognitive-science #atomic-concept
 ## System 2: Wiki-Link System
 
 > [!definition] Wiki-Link System
-> **Purpose**: Create bidirectional connections between notes using `[[Wiki-Link]]` syntax, building a knowledge graph that enables non-linear navigation, concept exploration, and emergent insight discovery.
+> **Purpose**: Create bidirectional connections between notes using `[[wiki-link]]` syntax, building a knowledge graph that enables non-linear navigation, concept exploration, and emergent insight discovery.
 
 ### System Overview
 
-[**Wiki-Link-Purpose**:: Bidirectional linking using `[[Wiki-Link]]` syntax to create knowledge graph connections, enabling non-linear navigation, context-aware exploration, concept relationship mapping, and emergent insight discovery through graph density.]
+[**Wiki-Link-Purpose**:: Bidirectional linking using `[[wiki-link]]` syntax to create knowledge graph connections, enabling non-linear navigation, context-aware exploration, concept relationship mapping, and emergent insight discovery through graph density.]
 
 **Core Principle:** <span style='color: #FFC700;'>Graph Density Over Isolation</span>
 
@@ -406,7 +406,7 @@ Notes without links are isolated islands. Connected notes form a navigable knowl
 
 ### Discovery Heuristic
 
-Format as `[[Wiki-Link]]` if term meets **ANY** of these criteria:
+Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 
 | Criterion | Description | Example |
 |-----------|-------------|---------|
@@ -1479,7 +1479,7 @@ When applied consistently and correctly, these systems create **production-ready
    - *Depth Potential*: Deep dive into plugin capabilities, configuration, integration patterns
    - *Knowledge Graph Role*: Technical infrastructure enabling formatting systems
 
-2. **[[Knowledge Graph Theory]]**
+2. **[[Knowledge-Graph-Theory]]**
    - *Connection*: Wiki-link system builds knowledge graph; understanding graph theory enhances usage
    - *Depth Potential*: Graph metrics, centrality, clustering, emergent properties
    - *Knowledge Graph Role*: Theoretical foundation for link-based knowledge organization

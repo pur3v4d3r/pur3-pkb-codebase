@@ -431,7 +431,7 @@ Strikethrough-Orange
 ##### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
 `= [[Note-Name]].field-name`
-`= [[Project Alpha]].progress`
+`= [[Project-Alpha]].progress`
 `= [[2024-11-20]].mood`
 ```
 > [!what-this-does]

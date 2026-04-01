@@ -73,7 +73,7 @@ These are some of my permanent notes created in the last week to give you approp
 [[Focus of Attention]]
 [[Illusions of Comprehension]]
 [[Instructional-Design]]
-[[Information Theory]]
+[[Information-Theory]]
 [[03_notes/01_permanent-notes/01_⭐Self Dev/Knowledge Management|Knowledge Management]]
 [[Library Science]]
 [[Logical Fallacy]]

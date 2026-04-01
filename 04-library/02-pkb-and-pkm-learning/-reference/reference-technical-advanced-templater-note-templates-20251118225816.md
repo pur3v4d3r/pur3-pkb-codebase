@@ -994,7 +994,7 @@ mode: "🎯 Deep Work Day"
 [[<% tp.date.now("YYYY-MM-DD", -1) %>]] ← | → [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 ```
 
-**Template Purpose:** Minimalist daily note for deep work days when extensive tracking would be counterproductive. Emphasizes singular focus, minimal sections, and distraction reduction for [[deep work]] and [[Flow State]] optimization.
+**Template Purpose:** Minimalist daily note for deep work days when extensive tracking would be counterproductive. Emphasizes singular focus, minimal sections, and distraction reduction for [[deep-work]] and [[Flow-State]] optimization.
 
 **Key Features:**
 - Single mission statement for day-level focus
@@ -1182,7 +1182,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 *Weekly review completed: [ ]*
 `````
 
-**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning]] at the weekly cadence.
+**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD-Weekly-Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning]] at the weekly cadence.
 
 **Key Features:**
 - Automatic weekly review triggers and checklists
@@ -1191,7 +1191,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 - Future week planning with daily intention setting
 - Links to all daily notes from the past and upcoming week
 - Balance between reflection and forward-looking action planning
-- Weekly review checklist based on [[Getting Things Done]] methodology
+- Weekly review checklist based on [[Getting-Things-Done]] methodology
 
 **Customization Points:**
 - Adjust review checklist items to match your GTD system
@@ -1375,7 +1375,7 @@ mode: "🌴 Rest & Recharge"
 *Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Weekend-specific daily note emphasizing rest, recharge, and non-work priorities while maintaining daily note continuity. Designed to prevent [[Burnout]], support [[work-life balance]], and intentionally structure recovery time for sustainable productivity.
+**Template Purpose:** Weekend-specific daily note emphasizing rest, recharge, and non-work priorities while maintaining daily note continuity. Designed to prevent [[Burnout]], support [[work-life-balance]], and intentionally structure recovery time for sustainable productivity.
 
 **Key Features:**
 - Rest vs. activity balance assessment and planning
@@ -1398,22 +1398,22 @@ mode: "🌴 Rest & Recharge"
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Time Blocking Methodology]]**
+1. **[[Time-Blocking-Methodology]]**
    - *Connection*: Deep dive into energy management, calendar blocking techniques, and attention architecture beyond basic daily scheduling
-   - *Depth Potential*: Explore Cal Newport's [[deep work]] principles, circadian rhythm optimization, protection strategies against context switching, and ideal-week design
+   - *Depth Potential*: Explore Cal Newport's [[deep-work]] principles, circadian rhythm optimization, protection strategies against context switching, and ideal-week design
    - *Knowledge Graph Role*: Productivity methodology hub connecting cognitive science, workflow design, and personal effectiveness principles
 
-2. **[[Habit Formation Science]]**
+2. **[[Habit-Formation-Science]]**
    - *Connection*: Neurological and behavioral foundations of habit development, including cue-routine-reward loops, habit stacking, and identity-based change
-   - *Depth Potential*: Synthesis of [[Atomic Habits]] (Clear), [[The Power of Habit]] (Duhigg), [[Tiny Habits]] (Fogg), implementation intention research, and environmental design
+   - *Depth Potential*: Synthesis of [[Atomic-Habits]] (Clear), [[The-Power-of-Habit]] (Duhigg), [[Tiny-Habits]] (Fogg), implementation intention research, and environmental design
    - *Knowledge Graph Role*: Behavioral psychology cluster linking neuroscience, personal development, and systems thinking
 
-3. **[[Daily Review Frameworks]]**
-   - *Connection*: Structured reflection methodologies beyond basic gratitude journaling, including [[Stoic Evening Meditation]], [[AAR (After Action Review)]], and evidence-based reflection practices
+3. **[[Daily-Review-Frameworks]]**
+   - *Connection*: Structured reflection methodologies beyond basic gratitude journaling, including [[Stoic-Evening-Meditation]], [[AAR (After Action Review)]], and evidence-based reflection practices
    - *Depth Potential*: Comparative analysis of reflection frameworks, metacognitive skill development, emotional regulation through structured processing, and learning consolidation research
    - *Knowledge Graph Role*: Self-improvement practices domain connecting psychology, learning theory, and wisdom traditions
 
-4. **[[Dataview Queries for Daily Notes]]**
+4. **[[Dataview-Queries-for-Daily-Notes]]**
    - *Connection*: Advanced Dataview query patterns for aggregating daily note data into actionable insights, habit statistics, productivity metrics, and longitudinal pattern analysis
    - *Depth Potential*: Technical implementation of automated daily note analysis, habit streak calculations, energy pattern visualization, goal progress tracking, and custom dashboard creation
    - *Knowledge Graph Role*: Technical skills cluster connecting Obsidian ecosystem, data analysis, and personal analytics capabilities
@@ -1678,11 +1678,11 @@ config.callouts.forEach(callout => {
 // Add automatic wiki-link suggestions based on note type
 scaffold += "\n## 🔗 Related Concepts\n\n";
 if (selectedType === "Literature Note") {
-    scaffold += "- [[Author Name]]\n- [[Key Concepts]]\n- [[Theoretical Framework]]\n\n";
+    scaffold += "- [[Author-Name]]\n- [[Key-Concepts]]\n- [[Theoretical Framework]]\n\n";
 } else if (selectedType === "Technical Documentation") {
     scaffold += "- [[Architecture Patterns]]\n- [[Technology Stack]]\n- [[Dependencies]]\n\n";
 } else {
-    scaffold += "- [[Concept-1]]\n- [[Concept-2]]\n- [[Concept 3]]\n\n";
+    scaffold += "- [[Concept-1]]\n- [[Concept-2]]\n- [[Concept-3]]\n\n";
 }
 tR = scaffold;
 -%>
@@ -2171,7 +2171,7 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 > [!example] Key Concepts Learned
 > - **[[Concept-1]]**: Brief description and why it matters
 > - **[[Concept-2]]**: Brief description and source
-> - **[[Concept 3]]**: Application or next step
+> - **[[Concept-3]]**: Application or next step
 
 ### Skills Practiced
 
@@ -3319,7 +3319,7 @@ modified: <% tp.date.now("YYYY-MM-DD") %>
 ## ✅ Integration Checklist
 
 ### Content Processing
-- [ ] Key concepts extracted and linked: [[Concept-1]], [[Concept-2]], [[Concept 3]]
+- [ ] Key concepts extracted and linked: [[Concept-1]], [[Concept-2]], [[Concept-3]]
 - [ ] Examples documented in separate notes if substantial
 - [ ] Code snippets saved to technical library
 - [ ] Diagrams/visualizations recreated or saved
@@ -4070,7 +4070,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
    - **How LLM explained it**: 
    - **My mental model**: 
 
-3. **[[Concept 3]]**: 
+3. **[[Concept-3]]**: 
    - **Definition**: 
    - **Why it matters**: 
    - **How LLM explained it**: 

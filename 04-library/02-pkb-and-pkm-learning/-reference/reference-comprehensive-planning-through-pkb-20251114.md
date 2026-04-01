@@ -2006,7 +2006,7 @@ This structure flows from abstract understanding → concrete methodology → sp
 - [[Deliberate-Practice]]
 - [[Time Blocking]]
 - [[GTD]] (Getting Things Done)
-- [[PARA Method]]
+- [[PARA-Method]]
 - [[Progressive-Summarization]]
 - [[Spaced-Repetition]]
 - [[Retrieval-Practice]]

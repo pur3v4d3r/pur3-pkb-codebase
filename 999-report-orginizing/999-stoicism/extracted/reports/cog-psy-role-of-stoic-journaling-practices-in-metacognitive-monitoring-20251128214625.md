@@ -107,7 +107,7 @@ This is a comprehensive request requiring deep analysis of the intersection betw
 - Integration with modern frameworks (SRL, SDT)
 
 **Wiki-Link Opportunities:**
-[[Stoicism]], [[Metacognition]], [[Self-Regulated-Learning]], [[Memory-Consolidation]], [[Behavioral-Modification]], [[Reflective Writing]], [[Marcus-Aurelius]], [[Seneca]], [[Epictetus]], [[Working-Memory]], [[Neuroplasticity]], [[Self-Determination-Theory]], [[Executive-Function]], [[Cognitive-Load-Theory]], [[Deliberate-Practice]], [[Habit-Formation]], [[Emotional Regulation]], [[Cognitive-Reappraisal]], [[Journaling]], [[Personal-Knowledge-Management]]
+[[Stoicism]], [[Metacognition]], [[Self-Regulated-Learning]], [[Memory-Consolidation]], [[Behavioral-Modification]], [[Reflective Writing]], [[Marcus-Aurelius]], [[Seneca]], [[Epictetus]], [[Working-Memory]], [[Neuroplasticity]], [[Self-Determination-Theory]], [[Executive-Function]], [[Cognitive-Load-Theory]], [[Deliberate-Practice]], [[Habit-Formation]], [[Emotional-Regulation]], [[Cognitive-Reappraisal]], [[Journaling]], [[Personal-Knowledge-Management]]
 
 **Callout Strategy:**
 - [!abstract] for overview
@@ -255,7 +255,7 @@ Contemporary [[Neuroplasticity|neuroscience]] has demonstrated that systematic m
 
 The mechanisms underlying these changes involve multiple neurobiological processes operating across timescales from minutes to months. At the synaptic level, repeated activation of neural circuits triggers [[Long-Term Potentiation|long-term potentiation]] (LTP)—the strengthening of synaptic connections between neurons that fire together. At the systems level, this produces what neuroscientists term "[[Functional Connectivity|functional connectivity]] changes"—altered patterns of coordinated activity across brain regions. At the structural level, sustained practice can increase gray matter density in relevant cortical areas and white matter integrity in connecting fiber tracts.
 
-For Stoic journaling specifically, the neuroscientific prediction would be strengthening of circuits supporting [[Executive-Function|executive control]] (particularly in [[Dorsolateral Prefrontal Cortex|dorsolateral prefrontal cortex]]), [[Emotional Regulation|emotional regulation]] (particularly in connections between prefrontal regions and [[Amygdala|amygdala]]), and [[Self-Referential Processing|self-referential processing]] (particularly in [[Medial Prefrontal Cortex|medial prefrontal cortex]] and [[Posterior Cingulate Cortex|posterior cingulate cortex]]). Regular writing strengthens connections between emotional and rational brain centers, precisely the neurobiological transformation Stoic philosophy sought through emphasis on rational supremacy over passion—now understood not as metaphorical "strengthening" but as literal structural and functional neural change.
+For Stoic journaling specifically, the neuroscientific prediction would be strengthening of circuits supporting [[Executive-Function|executive control]] (particularly in [[Dorsolateral Prefrontal Cortex|dorsolateral prefrontal cortex]]), [[Emotional-Regulation|emotional regulation]] (particularly in connections between prefrontal regions and [[Amygdala|amygdala]]), and [[Self-Referential Processing|self-referential processing]] (particularly in [[Medial Prefrontal Cortex|medial prefrontal cortex]] and [[Posterior Cingulate Cortex|posterior cingulate cortex]]). Regular writing strengthens connections between emotional and rational brain centers, precisely the neurobiological transformation Stoic philosophy sought through emphasis on rational supremacy over passion—now understood not as metaphorical "strengthening" but as literal structural and functional neural change.
 
 > [!connections-and-links] 🕸️ Framework Integration Map
 > **Stoic Journaling** interfaces with:
@@ -377,7 +377,7 @@ The **interaction between journaling and other practices** represents another un
 1. **[[Cognitive Behavioral Therapy and Stoicism Convergence]]**
    - *Connection*: CBT's core mechanism of identifying and restructuring maladaptive thoughts bears striking resemblance to Stoic cognitive reappraisal techniques, suggesting possible shared neurobiological substrates.
    - *Depth Potential*: Systematic comparison of CBT cognitive restructuring protocols versus Stoic judgment analysis could reveal whether ancient philosophical methods anticipated modern psychotherapeutic techniques or whether convergence reflects universal principles of cognitive change.
-   - *Knowledge Graph Role*: Bridges clinical psychology, philosophy, and cognitive neuroscience; connects to [[Emotional Regulation]], [[Metacognition]], and [[Neuroplasticity]].
+   - *Knowledge Graph Role*: Bridges clinical psychology, philosophy, and cognitive neuroscience; connects to [[Emotional-Regulation]], [[Metacognition]], and [[Neuroplasticity]].
 
 2. **[[The Neuroscience of Habit Formation and Extinction]]**
    - *Connection*: Stoic journaling functions partially through establishing meta-habits that monitor and adjust object-level behavioral patterns, requiring deep understanding of habit mechanisms at neural systems level.

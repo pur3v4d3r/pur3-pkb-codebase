@@ -103,7 +103,7 @@ The model fails to explain the paradox of the expert. It cannot account for why 
 
 > [!insight]
 > **What's Missing:**
-> The conventional model is missing the *engine* of learning. It describes the *superficial behaviors* of experts (they plan, they monitor) but mistakes these *symptoms* of expertise for the *cause*. The gap is the failure to recognize that these regulatory behaviors are not general-purpose tools *applied to* the domain; they are *emergent properties* that grow *out of* a deep, well-structured knowledge base *within* that domain. What's missing is the primacy of [[domain knowledge]].
+> The conventional model is missing the *engine* of learning. It describes the *superficial behaviors* of experts (they plan, they monitor) but mistakes these *symptoms* of expertise for the *cause*. The gap is the failure to recognize that these regulatory behaviors are not general-purpose tools *applied to* the domain; they are *emergent properties* that grow *out of* a deep, well-structured knowledge base *within* that domain. What's missing is the primacy of [[Domain-Knowledge]].
 
 -----
 
@@ -177,7 +177,7 @@ This is our new foundation. It is not a set of abstract "skills" but the physica
 >
 > The **second fundamental truth** is that **Learning *is* a Change in Long-Term Memory**. If nothing has been lastingly changed in [[Long-Term-Memory]], nothing has been learned. This moves the goalpost from "using a skill" to "building knowledge."
 >
-> The **third fundamental truth** is the **Primacy of [[Domain Knowledge]]**. All complex cognitive processes—such as problem-solving, critical thinking, and, yes, self-regulation—are utterly dependent on, and guided by, the content of [[Long-Term-Memory]]. An "empty" brain cannot think, plan, or monitor.
+> The **third fundamental truth** is the **Primacy of [[Domain-Knowledge]]**. All complex cognitive processes—such as problem-solving, critical thinking, and, yes, self-regulation—are utterly dependent on, and guided by, the content of [[Long-Term-Memory]]. An "empty" brain cannot think, plan, or monitor.
 >
 > The **fourth fundamental truth** is the **Mechanism of [[schemas]]**. Knowledge is not stored as a random list of facts. It is organized into interconnected structures or models called schemas. These schemas are what allow experts to bypass the limits of [[Working-Memory]] by treating complex, multi-part ideas as a single "chunk."
 

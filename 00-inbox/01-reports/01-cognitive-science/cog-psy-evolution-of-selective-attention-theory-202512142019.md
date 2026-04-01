@@ -544,7 +544,7 @@ The model effortlessly explains semantic breakthrough: participants detect their
 Words fitting ongoing context break through because semantic analysis has already occurred—the context simply elevates their pertinence scores, allowing access to awareness.
 
 **Advantage 3: Implicit Processing Evidence**  
-The model predicts that unattended stimuli should influence behavior even without explicit awareness—a prediction strongly supported by subsequent research on [[priming]], [[implicit memory]], and [[subliminal perception]].
+The model predicts that unattended stimuli should influence behavior even without explicit awareness—a prediction strongly supported by subsequent research on [[priming]], [[implicit-memory]], and [[subliminal-perception]].
 
 > [!evidence] Unconscious Semantic Processing (Moray, 1959; Von Wright et al., 1975)
 > <span style='color: #FF5700;'>Moray (1959)</span> conditioned galvanic skin responses (GSR—a physiological stress marker) to specific words paired with electric shocks. When those words appeared in the **unattended channel** during shadowing, participants showed robust GSRs despite reporting no conscious awareness of hearing the words. This demonstrated that: (1) semantic identification occurred ("shock-word" recognized), (2) emotional responses triggered automatically, yet (3) conscious awareness was denied. Late selection explains this dissociation—the word was fully processed, pertinence was assessed, but consciousness threshold wasn't exceeded.
@@ -623,7 +623,7 @@ Modern neuroscientific evidence supports this flexibility: <span style='color: #
 
 ### The Bottleneck Metaphor: Computational Necessity or Architectural Accident?
 
-All three models share a commitment to **bottleneck thinking**—the assumption that information processing contains structural narrow points limiting throughput. This metaphor, borrowed directly from [[Shannon Information Theory]] and engineering, shaped theoretical development profoundly.
+All three models share a commitment to **bottleneck thinking**—the assumption that information processing contains structural narrow points limiting throughput. This metaphor, borrowed directly from [[Shannon-Information-Theory]] and engineering, shaped theoretical development profoundly.
 
 [**Information-Bottleneck**:: A point in a processing system where information flow constricts due to capacity limitations. In attention models, the bottleneck prevents overloading downstream systems by restricting which inputs receive full processing. The debate centered on **where** bottlenecks exist (early perceptual vs. late response stages) and **why** they're necessary (structural limits vs. adaptive control).]
 
@@ -633,7 +633,7 @@ The theoretical justification varied:
 
 - **Broadbent:** The perceptual system has inherent **channel capacity limits** (analogous to communication channel bandwidth). Processing all inputs fully would exceed capacity, causing system breakdown.
 
-- **Treisman:** [[Working-Memory]] and [[conscious awareness]] have severe capacity constraints. While early parallel processing is possible, deeper semantic analysis for multiple streams simultaneously exceeds working memory's 7±2 item limit.
+- **Treisman:** [[Working-Memory]] and [[conscious-awareness]] have severe capacity constraints. While early parallel processing is possible, deeper semantic analysis for multiple streams simultaneously exceeds working memory's 7±2 item limit.
 
 - **Deutsch & Deutsch:** No perceptual bottleneck exists; semantic processing operates massively in parallel. The bottleneck emerges only at **response selection** and **conscious access**—we can think about/respond to only one thing at a time even if we've processed many things.
 
@@ -663,9 +663,9 @@ The selective attention debates fundamentally concerned how the brain manages **
 
 - **Broadbent's filter** anticipated [[Baddeley's-Working-Memory-Model]] (1974) by proposing that a limited-capacity central processor requires protection from overload.
 
-- **Treisman's variable thresholds** foreshadowed [[Cowan's Embedded Processes Model]] (1999), which emphasizes activated long-term memory with limited-capacity focus of attention selecting among activated representations.
+- **Treisman's variable thresholds** foreshadowed [[Cowan's-Embedded-Processes-Model]] (1999), which emphasizes activated long-term memory with limited-capacity focus of attention selecting among activated representations.
 
-- **Deutsch & Deutsch's pertinence weighting** anticipated [[biased competition models]] (Desimone & Duncan, 1995) where all stimuli compete for representation strength, with task-relevance and salience biasing the competition.
+- **Deutsch & Deutsch's pertinence weighting** anticipated [[biased-competition-models]] (Desimone & Duncan, 1995) where all stimuli compete for representation strength, with task-relevance and salience biasing the competition.
 
 [**Working-Memory-Attention-Link**:: Selective attention and working memory are deeply intertwined: attention determines what enters working memory (encoding), working memory maintains attended information (maintenance), and working memory contents bias attention toward related information (top-down control). The capacity limits of working memory (~4 chunks) may constitute the ultimate bottleneck driving selective attention.]
 
@@ -689,7 +689,7 @@ The Broadbent-Treisman-Deutsch progression established the foundational question
 
 2. **Selectivity vs. Capacity:** Are attention limits about selecting specific inputs or distributing limited capacity? → [[Load Theory]] (Lavie, 1995) and [[capacity-sharing models]]
 
-3. **Awareness vs. Processing:** Can processing occur without awareness? → Research on [[subliminal perception]], [[blindsight]], and [[unconscious cognition]]
+3. **Awareness vs. Processing:** Can processing occur without awareness? → Research on [[subliminal-perception]], [[blindsight]], and [[unconscious cognition]]
 
 4. **Early vs. Late Selection:** Where does the bottleneck occur? → **Flexible/multimode models** showing task-dependent selection (Johnston & Heinz, 1978)
 

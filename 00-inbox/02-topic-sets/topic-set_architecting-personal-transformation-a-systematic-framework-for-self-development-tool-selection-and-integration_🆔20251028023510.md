@@ -111,7 +111,7 @@ Title: **Architecting Personal Transformation: A Systematic Framework for Self-D
 > - **[[Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
 > - **[[Growth-Mindset-Theory]]** and **[[implicit-theories-of-intelligence]]**: How beliefs about changeability influence learning and persistence
 > - **[[Deliberate-Practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development
-> - **[[Atomic Habits]]** and **[[Behavioral Design]]**: The environmental and architectural approach to sustainable behavior change
+> - **[[Atomic-Habits]]** and **[[Behavioral Design]]**: The environmental and architectural approach to sustainable behavior change
 > - **[[Epistemic-Humility]]** and **[[Intellectual-Virtues]]**: Character-based approaches to improved thinking and learning
 
 ***

@@ -277,8 +277,8 @@ Important for efficiency, but system functions without them:
 
 > [!example]
 > **Good MOC Candidates from Your List**:
-> - [[Cognitive Psychology MOC]] (likely have many notes)
-> - [[Prompt Engineering MOC]] (active area)
+> - [[Cognitive-Psychology-MOC]] (likely have many notes)
+> - [[prompt-engineering-moc]] (active area)
 > - [[PKB Automation MOC]] (consolidates technical knowledge)
 
 ---
@@ -1033,7 +1033,7 @@ To generate outputs that integrate seamlessly into your PKB, I require specific 
 
 2. **Folder Purpose Definitions**: Brief description of each major folder's role
    - What types of notes belong where?
-   - Do you follow [[para method]], [[Johnny Decimal System]], or a custom taxonomy?
+   - Do you follow [[PARA-Method]], [[Johnny Decimal System]], or a custom taxonomy?
    - How do you distinguish between "Areas" and "Projects"?
    - Archive criteria (when does content move to archives?)
 

@@ -155,7 +155,7 @@ Provide concrete examples, use cases, and implementation guidance.
 | Topic with potential for separate note | 2 pts | "Progressive Summarization" |
 | Cross-reference to existing knowledge | 2 pts | "Spaced Repetition" when discussing learning |
 | Enhances knowledge graph connectivity | 1 pt | "Cognitive Load Theory" |
-**Decision Rule**: If term scores **≥ 4 points**, format as `[[Wiki-Link]]`
+**Decision Rule**: If term scores **≥ 4 points**, format as `[[wiki-link]]`
 **Target Density**: 
 - Simple responses: 3-8 wiki-links
 - Reference notes: 15-40 wiki-links
@@ -516,7 +516,7 @@ Run this checklist before finalizing any note-type response:
 - [ ] Complexity matches user's apparent expertise level
 - [ ] Prose-dominant structure (lists used sparingly)
 **Formatting Compliance**
-- [ ] Wiki-links formatted correctly `[[Like This]]`
+- [ ] Wiki-links formatted correctly `[[like-this]]`
 - [ ] Wiki-link density appropriate (scoring system applied)
 - [ ] Callouts use valid Obsidian syntax `> [!type]`
 - [ ] Callout density reasonable (2-4 per major section)

@@ -242,7 +242,7 @@ This connection to epistemology explains why CT emphasizes:
 - **Provisional conclusions**: [[Fallibilism]]'s recognition that knowledge claims remain open to revision
 - **Perspective-taking**: Recognition that knowledge is socially constructed, requiring consideration of multiple viewpoints
 
-[[Susan Haack]]'s foundherentist epistemology provides useful model for CT: beliefs justified through both foundational evidence (observation, testimony) and coherence with existing knowledge network. Critical thinking evaluates claims by assessing both evidential support (foundational) and integration with accepted knowledge (coherence) - neither alone suffices.
+[[Susan-Haack|Susan Haack]]'s foundherentist epistemology provides useful model for CT: beliefs justified through both foundational evidence (observation, testimony) and coherence with existing knowledge network. Critical thinking evaluates claims by assessing both evidential support (foundational) and integration with accepted knowledge (coherence) - neither alone suffices.
 
 The epistemological dimension also clarifies what makes thinking "critical" rather than merely "active": CT maintains **epistemic vigilance** - continuous monitoring for violations of standards for justified belief. This explains why disposition matters as much as skill - CT requires commitment to truth-seeking, intellectual honesty, and willingness to abandon beliefs failing epistemic tests.
 
@@ -259,7 +259,7 @@ The epistemological dimension also clarifies what makes thinking "critical" rath
 
 [**CT-Information-Processing-Architecture**:: Critical thinking emerges from human information processing system characterized by limited-capacity working memory, vast long-term memory storage, executive control mechanisms coordinating cognitive operations, and metacognitive monitoring regulating the entire system - with CT quality constrained by working memory capacity, enhanced by long-term memory expertise, and enabled by executive function and metacognition.]**
 
-The [[Information-Processing-Theory|Information Processing Theory]] established by [[Atkinson and Shiffrin]] provides foundational architecture for understanding cognitive limitations and capabilities underlying CT. This model conceptualizes cognition as flow through three memory systems:
+The [[Information-Processing-Theory|Information Processing Theory]] established by [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] provides foundational architecture for understanding cognitive limitations and capabilities underlying CT. This model conceptualizes cognition as flow through three memory systems:
 
 1. **Sensory Memory**: Brief (~1 second) retention of raw sensory input
 2. **Working Memory**: Limited-capacity (~4 chunks) conscious processing workspace
@@ -307,7 +307,7 @@ This explains why CT benefits from:
 
 [**Executive-Function-CT-Mechanism**:: Executive function represents set of top-down cognitive control processes - inhibition (suppressing automatic responses), working memory updating (dynamically revising mental models), and cognitive flexibility (shifting between mental sets) - that enable deliberate, goal-directed thinking characteristic of critical analysis as opposed to automatic, heuristic-driven processing.]**
 
-[[Miyake and Friedman]]'s research identified three core executive functions critical for CT:
+[[Miyake-and-Friedman|Miyake and Friedman]]'s research identified three core executive functions critical for CT:
 
 **1. Inhibitory Control**
 
@@ -316,7 +316,7 @@ This explains why CT benefits from:
 Research by [[Daniel-Kahneman|Daniel Kahneman]] on [[Dual-Process-Theory|Dual Process Theory]] demonstrates why inhibition matters. [[System-1|System 1]] thinking (fast, automatic, intuitive) generates rapid judgments based on heuristics and associations. [[System-2|System 2]] thinking (slow, deliberate, analytical) performs the effortful reasoning characteristic of CT. However, System 1 outputs enter consciousness first and feel subjectively compelling - creating strong tendency to stop thinking and accept initial intuition.
 
 > [!example] Inhibition in CT
-> The classic [[Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
+> The classic [[Bat-and-Ball-Problem|Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
 >
 > System 1 immediately suggests $0.10 (intuitive but wrong). Critical thinking requires inhibiting this prepotent response and engaging algebraic reasoning:
 > - Let ball = x
@@ -342,7 +342,7 @@ Beyond maintaining information, executive function must dynamically update worki
 
 [**Cognitive-Flexibility-CT**:: Capacity to shift between different task rules, mental sets, or perspectives - enabling critical thinkers to view problems from multiple angles, switch between analytical frameworks, and consider alternative interpretations. Deficits in flexibility manifest as cognitive rigidity: inability to abandon unproductive reasoning strategies or consider perspectives contradicting initial assumptions.]**
 
-Research on [[Wisconsin Card Sorting Task]] demonstrates individual differences in cognitive flexibility. Those with high flexibility quickly adapt sorting strategy when rules change; those with low flexibility perseverate on outdated approaches. In CT, flexibility enables:
+Research on [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] demonstrates individual differences in cognitive flexibility. Those with high flexibility quickly adapt sorting strategy when rules change; those with low flexibility perseverate on outdated approaches. In CT, flexibility enables:
 - Switching between analysis and synthesis
 - Shifting from "advocate" to "critic" perspectives
 - Considering both favorable and unfavorable evidence
@@ -365,7 +365,7 @@ Research on [[Wisconsin Card Sorting Task]] demonstrates individual differences 
 - **Evaluation**: Assessing outcomes and adjusting future strategy
 
 > [!key-claim] Metacognitive Superiority Effect
-> The defining characteristic separating expert from novice critical thinkers is **metacognitive sophistication** rather than raw analytical power. [[Larkin and Simon]]'s studies of expert problem solvers revealed experts spend proportionally more time planning approach and monitoring progress, while novices immediately apply formulas without strategic oversight.
+> The defining characteristic separating expert from novice critical thinkers is **metacognitive sophistication** rather than raw analytical power. [[Larkin-and-Simon|Larkin and Simon]]'s studies of expert problem solvers revealed experts spend proportionally more time planning approach and monitoring progress, while novices immediately apply formulas without strategic oversight.
 
 [**Epistemic-Cognition-CT**:: Specialized form of metacognition focused on knowledge evaluation - including calibration (aligning confidence with accuracy), source monitoring (tracking information origins), and uncertainty representation (distinguishing known, unknown, and unknowable). Critical thinking requires accurate epistemic cognition to avoid overconfidence, acknowledge knowledge gaps, and seek information appropriately.]**
 
@@ -943,7 +943,7 @@ The debate crystallized in exchange between [[McPeck]] and [[Ennis]]:
 
 **Ennis's Domain-Generality Counter**:
 - While CT applies to content, core principles transcend domains
-- Logical fallacies ([[Ad Hominem]], [[Straw Man]], [[False Dilemma]]) violate reason regardless of field
+- Logical fallacies ([[Ad Hominem]], [[Straw-Man|Straw Man]], [[False Dilemma]]) violate reason regardless of field
 - Basic operations (identifying assumptions, evaluating evidence) apply universally
 - General CT instruction provides transferable toolkit students adapt to specific contexts
 - Therefore: CT instruction should teach general principles students apply across domains

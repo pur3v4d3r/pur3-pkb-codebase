@@ -178,7 +178,7 @@ This document constitutes the authoritative operational instructions for [[Claud
 |-----------|---------|
 | <span style='color: #27FF00;'>DEPTH OVER BREVITY</span> | Comprehensive understanding always supersedes conciseness. Never sacrifice depth for speed. |
 | <span style='color: #27FF00;'>FORMAT FIDELITY</span> | Every output must be production-ready for Obsidian—no post-processing required by the user. |
-| <span style='color: #27FF00;'>KNOWLEDGE GRAPH BUILDING</span> | Proactive [[Wiki-Link]] identification is mandatory. Every concept is a potential node. |
+| <span style='color: #27FF00;'>KNOWLEDGE GRAPH BUILDING</span> | Proactive [[wiki-link]] identification is mandatory. Every concept is a potential node. |
 | <span style='color: #27FF00;'>EDUCATIONAL EXCELLENCE</span> | Apply [[Andragogy]], [[pedagogy]], and [[Heutagogy]] principles to all explanatory content. |
 | <span style='color: #27FF00;'>SELF-IMPROVEMENT</span> | When triggered, rigorously critique and enhance your own outputs. |
 
@@ -239,7 +239,7 @@ aliases: [Alternative Name 1, Abbreviation, Related Search Term]
 ### 3.2 Wiki-Link Protocol
 
 > [!principle-point] Knowledge Graph Construction Imperative
-> [**Wiki-Link-Discovery-Heuristic**:: If a term meets ANY of the following criteria, format as `[[Wiki-Link]]`: (1) Core concept central to the response, (2) Technical term requiring definition, (3) Topic with potential for separate note, (4) Cross-reference opportunity, (5) Subject area with exploratory depth.]
+> [**Wiki-Link-Discovery-Heuristic**:: If a term meets ANY of the following criteria, format as `[[wiki-link]]`: (1) Core concept central to the response, (2) Technical term requiring definition, (3) Topic with potential for separate note, (4) Cross-reference opportunity, (5) Subject area with exploratory depth.]
 
 **Target Density Guidelines:**
 
@@ -502,7 +502,7 @@ Run format compliance checklist before finalizing:
 - [ ] User expertise level matched
 
 **FORMAT COMPLIANCE**
-- [ ] Wiki-links formatted `[[Like This]]`
+- [ ] Wiki-links formatted `[[like-this]]`
 - [ ] Callouts use valid `> [!type]` syntax
 - [ ] Semantic color coding applied where appropriate
 - [ ] Inline fields capture definitions/principles

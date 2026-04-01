@@ -98,7 +98,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 related:
@@ -111,10 +111,10 @@ related:
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Kathêkon]]"
-  - "[[Reserve Clause]]"
+  - "[[Reserve-Clause]]"
   - "[[Logos]]"
   - "[[James Stockdale]]"
-  - "[[Emotional Regulation]]"
+  - "[[Emotional-Regulation]]"
   - "[[Cognitive-Reappraisal]]"
   - "[[Decision-Theory]]"
 
@@ -123,7 +123,7 @@ series-connections:
   next: "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
   related-reports:
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and Minimalism - Living a Simple Fulfilling Life]]"
 
@@ -293,7 +293,7 @@ The Stoic framework for leadership organizes around five interlocking principles
 
 ### Principle 1: Virtue Is the Foundation, Not the Constraint
 
-The most fundamental Stoic claim about leadership is that the foundation of genuine authority is the leader's own character. This is not a soft assertion about the importance of being a "good person." It is a precise philosophical claim: the leader who has not cultivated the [[Four Cardinal Virtues]] — wisdom (*sophia*), justice (*dikaiosyne*), courage (*andreia*), and temperance (*sophrosyne*) — lacks the most important resource leadership requires, regardless of how well-resourced they are in every other dimension.
+The most fundamental Stoic claim about leadership is that the foundation of genuine authority is the leader's own character. This is not a soft assertion about the importance of being a "good person." It is a precise philosophical claim: the leader who has not cultivated the [[Four-Cardinal-Virtues]] — wisdom (*sophia*), justice (*dikaiosyne*), courage (*andreia*), and temperance (*sophrosyne*) — lacks the most important resource leadership requires, regardless of how well-resourced they are in every other dimension.
 
 [Virtue-as-Leadership-Foundation:: The Stoic claim that the four cardinal virtues are not aspirational add-ons to technical leadership competence but its actual foundation — that the leader's wisdom determines the quality of their judgment, their justice determines the quality of their relationships, their courage enables the decisions that lesser character would avoid, and their temperance prevents the contamination of decision-making by reactive emotion.]
 
@@ -364,7 +364,7 @@ The research on decision-making quality in leadership contexts is sobering. [[Da
 > **Empirical Finding — Decision Contamination Under Stress**: Research by Mather and Lighthall (2012) and others in the field of "stress and decision-making" demonstrates that acute stress significantly alters decision-making in predictable ways: it increases reliance on prior habits (reducing flexibility), increases risk-taking in some domains while increasing risk-aversion in others, and narrows attentional focus to salient threats at the expense of broader contextual information. These are precisely the conditions under which leadership decisions are most consequential — and the Stoic practices of emotional self-regulation and the maintenance of equanimity are a direct counter-technology to these stress-induced distortions.
 
 > [!key-insight]
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve-Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 The research on authentic leadership — a body of work associated with Bruce Avolio, Bill George, and others — converges on a finding that is in deep accord with the Stoic framework: the leaders who sustain effectiveness over time, and whose organizations flourish rather than merely performing in the short term, are those whose self-awareness, values clarity, and relational integrity remain stable across changing circumstances. The correlation between what Avolio and George call "authentic leadership" and organizational outcomes is robust across cultures and contexts. This is essentially the empirical validation of the Stoic claim that virtue — understood as stable character rather than situational performance — is the foundation of genuine leadership effectiveness.
 
@@ -406,7 +406,7 @@ The most dramatic modern case of Stoic leadership principles operating under ext
 >
 > Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 >
-> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
+> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve-Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 >
 > **The Leadership Application**: The Stockdale case demonstrates that Stoic leadership is not for easy circumstances. It is specifically designed for conditions where the tools that ordinarily produce good outcomes — optimism, positive thinking, confidence in improvement — actively fail. The leader who understands the Stoic framework has a more robust resource than optimism: a commitment to acting well regardless of how the situation resolves, grounded in a clear understanding of what is genuinely theirs to control.
 
@@ -522,11 +522,11 @@ The developmental sequence is: the Virtue Lens and the Leadership Dichotomy Revi
 
 A sustainable Stoic leadership practice is also self-correcting. The practices are not designed to produce perfect leadership; they are designed to produce progressively better leadership through honest self-assessment and iterative correction. The Stoics did not believe the ideal of the fully virtuous Sage was achievable in practice — but they did believe that the direction of travel toward that ideal was the most important thing a person could do with their time and character. For a leader, every day provides abundant opportunities to practice: difficult conversations to navigate, decisions to make under uncertainty, reactive impulses to notice and restrain, moments of courage to either take or defer.
 
-The integration of Stoic leadership practice with the broader series is worth making explicit. The [[Dichotomy-of-Control]] applied here in the leadership domain builds directly on its introduction in [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) and its practical deployment in [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03). The psychological mechanism behind emotional governance connects to the detailed analysis in [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04). The reader who proceeds to [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) will find that the resilience practices developed there are a deepening of the same principles applied here in the leadership context.
+The integration of Stoic leadership practice with the broader series is worth making explicit. The [[Dichotomy-of-Control]] applied here in the leadership domain builds directly on its introduction in [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) and its practical deployment in [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03). The psychological mechanism behind emotional governance connects to the detailed analysis in [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04). The reader who proceeds to [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) will find that the resilience practices developed there are a deepening of the same principles applied here in the leadership context.
 
 > [!connection-ideas]
 > **Series Connections**:
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03) for the practical exercise vocabulary
 > - **Extends**: [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04) by applying the psychological framework to the specific context of organizational leadership
 > - **Prepares for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the practices developed here for managing emotion in leadership are closely related to the practices for managing adversity in life more broadly
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — the cognitive bias analysis and the Discipline of Assent are particularly relevant to leadership decision-making

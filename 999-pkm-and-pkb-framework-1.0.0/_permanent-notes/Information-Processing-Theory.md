@@ -23,22 +23,23 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 13
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Cognitive-Psychological-Conceptualization]]"
   - "[[Cortico-Striatal-Learning-Loops]]"
+  - "[[Delphi-Consensus-Definition]]"
   - "[[Desirable-Difficulties]]"
   - "[[Early-Selection]]"
   - "[[Epistemic-Cognition]]"
@@ -46,7 +47,6 @@ see-also:
   - "[[Intellectual-Standards]]"
   - "[[Late-Selection]]"
   - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,14 +59,15 @@ importance: medium
 # Information-Processing-Theory
 
 > [!definition] **Information-Processing-Theory**
-> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 13 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Cognitive-Psychological-Conceptualization]]
 - [[Cortico-Striatal-Learning-Loops]]
+- [[Delphi-Consensus-Definition]]
 - [[Desirable-Difficulties]]
 - [[Early-Selection]]
 - [[Epistemic-Cognition]]
@@ -75,6 +76,8 @@ importance: medium
 - [[Late-Selection]]
 - [[Metacognitive-Knowledge]]
 - [[Metacognitive-Regulation]]
+- [[Philosophical-Lineage]]
 - [[Reflective-Judgment]]
 - [[Stage-Characteristics-and-Training-Implications]]
+- [[The-Seven-Intellectual-Traits]]
 - [[Transfer]]

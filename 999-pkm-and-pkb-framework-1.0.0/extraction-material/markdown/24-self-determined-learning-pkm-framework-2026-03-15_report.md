@@ -591,7 +591,7 @@ extraction_summary:
 - [[Relatedness-Need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report 05: Motivation Architecture]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 10]]
@@ -621,7 +621,7 @@ extraction_summary:
 | 6 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 166 |
 | 7 | [[Knowledge Ecology Model]] | — | — | Scope and Cross-Domain Preview | 166 |
 | 8 | [[Report 10]] | — | — | Scope and Cross-Domain Preview | 168 |
-| 9 | [[Report 05]] | — | — | Scope and Cross-Domain Preview | 168 |
+| 9 | [[Report-05]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 10 | [[Report 19]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 11 | [[Report 28: The Philosophy of Personal Knowledge]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 12 | [[Heutagogy]] | — | — | Scope and Cross-Domain Preview | 170 |
@@ -716,7 +716,7 @@ extraction_summary:
 - [[Relatedness-Need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report 05: Motivation Architecture]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 10]]

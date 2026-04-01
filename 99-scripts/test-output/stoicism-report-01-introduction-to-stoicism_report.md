@@ -270,7 +270,7 @@ extraction_summary:
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred-Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 #### 18. [KEY-TAKEAWAY] Untitled *(Line 494)*
@@ -383,7 +383,7 @@ extraction_summary:
 - [[Plato]]
 - [[Platonism]]
 - [[Plutarch]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Preferred Indifferents — Stoic Value Theory]]
 - [[Prohairesis]]
 - [[Rational Emotive Behavior Therapy]]
@@ -431,7 +431,7 @@ extraction_summary:
 | 18 | [[Zeus]] | — | — | Philosophy as a Unified System | 302 |
 | 19 | [[fate]] | — | — | Philosophy as a Unified System | 302 |
 | 20 | [[Virtue]] | — | — | Philosophy as a Unified System | 306 |
-| 21 | [[Preferred Indifferents]] | — | — | The Dichotomy of Control | 324 |
+| 21 | [[Preferred-Indifferents]] | — | — | The Dichotomy of Control | 324 |
 | 22 | [[Dichotomy-of-Control]] | — | — | The Dichotomy of Control | 328 |
 | 23 | [[Prohairesis]] | — | — | The Dichotomy of Control | 337 |
 | 24 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
@@ -452,7 +452,7 @@ extraction_summary:
 | 39 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 6: Integration — How This Connec... | 476 |
 | 40 | [[Dichotomy-of-Control]] | — | — | Part 6: Integration — How This Connec... | 477 |
 | 41 | [[Virtue-Ethics]] | — | — | Part 6: Integration — How This Connec... | 477 |
-| 42 | [[Preferred Indifferents]] | — | — | Part 6: Integration — How This Connec... | 477 |
+| 42 | [[Preferred-Indifferents]] | — | — | Part 6: Integration — How This Connec... | 477 |
 | 43 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 6: Integration — How This Connec... | 478 |
 | 44 | [[Eudaimonia]] | — | — | Conclusion: The Living Practice | 495 |
 | 45 | [[Musonius Rufus — Roman Stoic Teacher]] | — | — | Expansion Topics for PKB | 558 |
@@ -522,7 +522,7 @@ extraction_summary:
 - [[Plato]]
 - [[Platonism]]
 - [[Plutarch]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Preferred Indifferents — Stoic Value Theory]]
 - [[Prohairesis]]
 - [[Rational Emotive Behavior Therapy]]
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Philosophy MOC]]
 - [[Virtue-Ethics]]
 - [[Ancient Philosophy]]
-- [[Hellenistic Period]]
+- [[Hellenistic-period]]
 
 #### Narrower
 

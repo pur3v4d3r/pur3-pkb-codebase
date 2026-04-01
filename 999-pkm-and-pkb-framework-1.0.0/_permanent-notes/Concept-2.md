@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Concept-2"
+title: "Concept 2"
 aliases:
-  - "Concept-2"
+  - "Concept 2"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 4
+referenced-by-count: 3
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Learning-Session-Overview]]"
   - "[[Research-Context]]"
   - "[[Research-Question]]"
@@ -50,16 +49,15 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Concept-2
+# Concept 2
 
-> [!definition] **Concept-2**
-> *Stub note — concept referenced by 4 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Concept 2**
+> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 4 permanent notes.*
+*Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Learning-Session-Overview]]
 - [[Research-Context]]
 - [[Research-Question]]

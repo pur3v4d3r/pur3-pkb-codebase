@@ -210,7 +210,7 @@ Wiki-Link Opportunities:
 - [[Stoicism]]
 - [[Dichotomy-of-Control]]
 - [[Virtue-Ethics]]
-- [[Amor Fati]]
+- [[Amor-Fati]]
 - [[Memento Mori]]
 - [[Marcus-Aurelius]]
 - [[Epictetus]]
@@ -378,7 +378,7 @@ Summum bonum means highest good, not merely a high good. There can only be one p
 
 To wish for what has happened to happen is clever—it avoids disappointment. But to actually feel gratitude for what happens, to love it? That's a recipe for happiness and joy. The Stoics taught this wasn't blind optimism but rather recognition that we cannot know the full implications of any event. What seems tragic today may prove necessary for tomorrow's growth.
 
-The Stoics advocated accepting the laws of nature and existence—that all humans are mortal and finite, that we are born, live, and die, and it is all natural, consistent with nature, inescapable, and therefore our destiny. [[Amor Fati]] represents the ultimate form of acceptance: embracing our mortality and fate as opportunities to affirm the meaning and love we've lived.
+The Stoics advocated accepting the laws of nature and existence—that all humans are mortal and finite, that we are born, live, and die, and it is all natural, consistent with nature, inescapable, and therefore our destiny. [[Amor-Fati]] represents the ultimate form of acceptance: embracing our mortality and fate as opportunities to affirm the meaning and love we've lived.
 
 > [!key-claim]
 > **Central Principle**
@@ -1259,7 +1259,7 @@ This reference note is designed to be directly integrated into your daily note p
 
 > [!the-philosophy]
 > **Underlying Philosophy**
-> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
+> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control]], [[Virtue]] as highest good, [[Amor-Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
 
 ### Cognitive Models for Understanding Stoicism
 

@@ -324,5 +324,5 @@ results = kb.retrieve(
 
 ---
 
-**Related Techniques**: [[Generated Knowledge]], [[Recitation-Augmented]], [[Chain of Verification]]
+**Related Techniques**: [[Generated Knowledge]], [[Recitation-Augmented]], [[Chain-of-Verification]]
 **Full Guide**: [[05-knowledge-integration-guide#RAG]]

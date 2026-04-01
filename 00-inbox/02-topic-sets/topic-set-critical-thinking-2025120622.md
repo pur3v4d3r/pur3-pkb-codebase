@@ -93,7 +93,7 @@ Epistemic vigilance represents the cognitive machinery that evolved to help huma
 - [[Belief Revision Mechanisms]]
 - [[Socratic-Ignorance]]
 - [[Argumentative Theory of Reasoning]]
-- [[Overconfidence Bias]]
+- [[Overconfidence-Bias]]
 - [[Calibrated Probability Judgment]]
 - [[Open-Mindedness]]
 - [[Intellectual Virtue Ethics]]
@@ -245,13 +245,13 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 - [[Confirmation-Bias]]
 - [[Anchoring Bias]]
 - [[Availability-Heuristic]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic]]
 - [[Hindsight-Bias]]
 - [[Consider-the-Opposite Strategy]]
 - [[Premortem Technique]]
 - [[Outside View (Reference Class Forecasting)]]
 - [[Nudge Theory]]
-- [[Choice Architecture]]
+- [[choice-architecture]]
 - [[Ecological-Rationality]]
 - [[Fast-and-Frugal-Heuristics]]
 - [[Bias Blind Spot]]
@@ -284,7 +284,7 @@ Debiasing as "cognitive error correction software"—just as autocorrect identif
 **Why This Topic is Foundationally Rich**:
 King & Kitchener's Reflective Judgment Model (RJM) represents one of the most empirically validated developmental frameworks for understanding how adults reason about complex, uncertain problems. It traces a seven-stage progression from pre-reflective (knowledge is certain and obtained directly) through quasi-reflective (knowledge is uncertain but this causes epistemic paralysis) to reflective thinking (knowledge is constructed through evidence and argument evaluation). This directly addresses your systematic self-questioning goal by providing a developmental roadmap. It connects to Perry's scheme, Kuhn's argumentative reasoning work, Baxter Magolda's epistemological reflection model, and integrates with your interest in Stoic epistemic practices (Epictetus on distinguishing what's "up to us" vs. externals mirrors epistemic judgment). The longitudinal research spans decades with clear implications for critical thinking pedagogy.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Reflective Judgment Model]]
+- [[Reflective-Judgment-Model]]
 - [[Ill-Structured-Problems]]
 - [[Epistemic Assumptions]]
 - [[Pre-Reflective Thinking]]
@@ -308,7 +308,7 @@ King & Kitchener's Reflective Judgment Model (RJM) represents one of the most em
 **Analogical Potential**:
 Reflective judgment development as "graduating from a fixed map to being a skilled cartographer"—early stages involve believing the map is reality (absolutism), middle stages involve doubting all maps are useful (relativism), and advanced stages involve understanding how to construct and evaluate maps based on terrain evidence (reflectivism).
 **Prerequisite Knowledge**:
-[[Piaget's Developmental Theory]], [[Epistemic Justification]], [[Constructivism in Learning]]
+[[Piaget's Developmental Theory]], [[epistemic-justification]], [[Constructivism in Learning]]
 **Research Starting Points**:
 - Key texts: King & Kitchener "Developing Reflective Judgment" (1994), Kuhn "The Skills of Argument" (1991)
 - Search: "reflective judgment model stages" + "epistemic cognition development"

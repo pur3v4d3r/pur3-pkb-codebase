@@ -27,7 +27,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Few-Shot Prompting]]
+> - **Key-Term**:: [[Few-Shot-Prompting]]
 > - [**Definition**:: Few-shot prompting is a technique for providing LLMs with a few examples of the desired output in addition to the prompt, helping the model better understand the task and generate more accurate and informative responses.]
 
 By including exemplars within the prompt itself, practitioners can demonstrate the specific format, style, tone, or reasoning pattern they expect the model to replicate. This approach leverages the [[In-Context Learning]] capabilities of large language models—their ability to adapt behavior based on examples provided within the input context without requiring parameter updates.

@@ -90,7 +90,7 @@ Source: `= this.source`
 > 12. PKB Integration Guidance
 > 13. Synthesis & Reflection
 > **WIKI-LINK OPPORTUNITIES:**
-> [[Critical-Thinking]], [[Paul-Elder-Framework]], [[Facione]], [[Bloom's-Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive-Function]], [[Working-Memory]], [[Cognitive-Science]], [[philosophy]], [[epistemology]], [[Learning Theory]], [[Knowledge Acquisition]], [[Analytical-Thinking]], [[Reflective-Judgment]], [[Cognitive-Bias]], [[Disposition]], [[Intellectual-Traits]]
+> [[Critical-Thinking]], [[Paul-Elder-Framework]], [[Facione]], [[Bloom's-Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive-Function]], [[Working-Memory]], [[Cognitive-Science]], [[philosophy]], [[Epistemology]], [[Learning Theory]], [[Knowledge Acquisition]], [[Analytical-Thinking]], [[Reflective-Judgment]], [[Cognitive-Bias]], [[Disposition]], [[Intellectual-Traits]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] for overview
 > - [!definition] for each CT definition
@@ -474,9 +474,9 @@ The connection between critical thinking and autonomy also explains why authorit
 >
 > **[[Cognitive-Science]]** - Critical thinking represents a higher-order cognitive phenomenon emerging from basic cognitive systems (attention, memory, perception) but qualitatively distinct in its deliberate, reflective, norm-governed character. Understanding critical thinking's cognitive architecture requires integrating working memory research, executive function theory, and metacognitive models.
 >
-> **[[epistemology]]** - Critical thinking serves as the practical implementation of epistemological principles about justified belief formation. The standards governing critical thinking (evidence, logic, coherence) translate abstract epistemological criteria into cognitive practices.
+> **[[Epistemology]]** - Critical thinking serves as the practical implementation of epistemological principles about justified belief formation. The standards governing critical thinking (evidence, logic, coherence) translate abstract epistemological criteria into cognitive practices.
 >
-> **[[Philosophy of Mind]]** - Critical thinking's relationship to consciousness, intentionality, and agency raises fundamental questions about mental causation and the nature of thought itself. Is critical thinking a species of [[Reflective Consciousness]]? How does metacognition relate to self-awareness?
+> **[[philosophy-of-mind]]** - Critical thinking's relationship to consciousness, intentionality, and agency raises fundamental questions about mental causation and the nature of thought itself. Is critical thinking a species of [[Reflective Consciousness]]? How does metacognition relate to self-awareness?
 >
 > **[[Learning Theory]]** - Constructivist learning theories emphasize that knowledge is actively constructed rather than passively received—a principle embodied in critical thinking's role mediating information-to-knowledge transformation. [[Schema-Theory]], [[Deep-Processing]], and [[Transfer-of-Learning]] all connect to critical thinking mechanisms.
 >

@@ -318,7 +318,7 @@ Use the Foundational Report Scaffold to create a comprehensive introduction to q
 
 [TOPIC]: Quantum Computing Fundamentals
 [DEPTH_LEVEL]: Encyclopedic overview with mathematical foundations
-[EXISTING_CONCEPTS]: [[Linear Algebra]], [[Probability Theory]], [[Classical Computing]], [[Information Theory]]
+[EXISTING_CONCEPTS]: [[Linear Algebra]], [[Probability Theory]], [[Classical Computing]], [[Information-Theory]]
 
 Follow all 5 phases meticulously. In Phase 2, ensure you cover:
 - Historical development

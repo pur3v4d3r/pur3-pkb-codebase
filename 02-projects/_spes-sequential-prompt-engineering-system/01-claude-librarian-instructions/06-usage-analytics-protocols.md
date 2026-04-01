@@ -465,7 +465,7 @@ Action: Mark as conflicting components
 Pattern Observed:
 Technical content workflows succeed when using:
 - [[technical-accuracy-persona]]
-- [[chain-of-verification]]
+- [[Chain-of-Verification]]
 - [[example-rich-format]]
 
 Success Rate: 90% across 10 uses

@@ -33,7 +33,7 @@ The technology stack combines Obsidian for knowledge management, Claude/Gemini f
 
 **Key Features Used**:
 - **Markdown-based**: Native `.md` file format for portability
-- **Graph View**: Visual representation of [[Wiki-Link]] network
+- **Graph View**: Visual representation of [[wiki-link]] network
 - **Community Plugins**: Extensive automation ecosystem
 - **Live Preview**: Real-time rendering while editing
 - **Vault Sync**: Local-first with optional cloud sync
@@ -42,7 +42,7 @@ The technology stack combines Obsidian for knowledge management, Claude/Gemini f
 - Location: `D:\10_pur3v4d3r's-vault`
 - Hidden folders: `.obsidian`, `.smart-env`, `.trash`, `.git`
 - Vault type: Markdown files with YAML frontmatter
-- Linking: `[[Wiki-Link]]` format (not markdown links)
+- Linking: `[[wiki-link]]` format (not markdown links)
 
 **Critical Dependencies**:
 - Community Plugins (see Plugin Ecosystem section)

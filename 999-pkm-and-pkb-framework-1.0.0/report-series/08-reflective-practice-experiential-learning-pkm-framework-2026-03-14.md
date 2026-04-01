@@ -22,7 +22,7 @@ related_concepts:
   - "[[Abstract-Conceptualization|Abstract Conceptualization]]"
   - "[[Active-Experimentation|Active Experimentation]]"
   - "[[Reflective-Practice|Reflective Practice]]"
-  - "[[Reflection-in-Action]]"
+  - "[[Reflection-in-action]]"
   - "[[Reflection-on-Action]]"
   - "[[Schön Reflective Practitioner]]"
   - "[[Gibbs Reflective Cycle]]"

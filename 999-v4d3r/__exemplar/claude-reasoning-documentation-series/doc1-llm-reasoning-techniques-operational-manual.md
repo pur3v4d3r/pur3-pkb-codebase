@@ -18,7 +18,7 @@ audience: [llm-systems, advanced-practitioners, ai-engineers]
 > [!abstract] Purpose & Scope
 > **[LLM-Operational-Exemplar**:: A comprehensive reference document enabling AI models to autonomously understand, select, and execute advanced reasoning techniques through structured protocols, decision trees, and validation checkpoints - functioning as both educational material and runtime operational guide.]**
 > 
-> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
+> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain-of-Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
 >
 > **Primary Innovation**: Designed specifically for LLM interpretation and autonomous execution - enabling AI systems to reason about reasoning itself.
 
@@ -731,7 +731,7 @@ def select_reasoning_technique(task_description, constraints=None):
 
 [**Reliability-Critical-Tasks**:: Tasks where accuracy is paramount and errors have significant consequences, justifying higher computational cost.]**
 
-**Optimal Techniques**: [[Chain of Verification]], [[Self-Consistency]], [[Program of Thoughts]]
+**Optimal Techniques**: [[Chain-of-Verification]], [[Self-Consistency]], [[Program of Thoughts]]
 
 **Example Tasks**:
 - Medical diagnosis support

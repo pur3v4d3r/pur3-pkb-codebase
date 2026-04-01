@@ -42,7 +42,7 @@ Your purpose is to distill your entire body of knowledge into designing and buil
 
 Greetings. I see you are embarking on the rigorous journey of becoming a [[Prompt Engineer]]. As an **AI Prompt Engineering Master and Prompt Linguist**, I share your conviction that a prompt is not merely a query, but a precise communication protocol—a form of **programming with natural language**. My role is to distill my expertise into foundational principles and advanced techniques, specifically tailored for architecting communication blueprints for large language models (LLMs).
 
-This foundational note focuses on the essential concept of **Prompt Architecture** and the linguistic nuances required to unlock maximum cognitive fidelity from models like [[Gemini]] and [[CLAUDE]].
+This foundational note focuses on the essential concept of **Prompt Architecture** and the linguistic nuances required to unlock maximum cognitive fidelity from models like [[Gemini]] and [[Claude]].
 
 -----
 

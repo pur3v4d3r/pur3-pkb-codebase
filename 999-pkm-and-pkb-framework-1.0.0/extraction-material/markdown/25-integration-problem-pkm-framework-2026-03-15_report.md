@@ -160,7 +160,7 @@ extraction_summary:
 #### 3. [DEFINITION] Conceptual Change (Educational Psychology, Vosniadou, Chi, Posner) *(Line 160)*
 
 > [!definition] Conceptual Change (Educational Psychology, Vosniadou, Chi, Posner)
-> The cognitive process by which learners' fundamental categories, frameworks, and ontological commitments are restructured — rather than merely extended — in response to new information. [[Conceptual-Change|Conceptual Change]] theory distinguishes between two fundamentally different kinds of learning: *enrichment* (adding new information to existing conceptual structures without altering those structures) and *revision* (reorganizing the conceptual structure itself). [[Stella Vosniadou]]'s [[Framework Theory]] identifies a third, most radical kind: *framework theory change*, in which the fundamental presuppositions that organize an entire domain of knowledge are restructured. This is what happens when a learner stops thinking of heat as a substance and begins thinking of it as a process, or stops thinking of knowledge as a collection of facts and begins thinking of it as a network of relationships. Most PKB practice produces enrichment; integration often requires revision or framework theory change.
+> The cognitive process by which learners' fundamental categories, frameworks, and ontological commitments are restructured — rather than merely extended — in response to new information. [[Conceptual-Change|Conceptual Change]] theory distinguishes between two fundamentally different kinds of learning: *enrichment* (adding new information to existing conceptual structures without altering those structures) and *revision* (reorganizing the conceptual structure itself). [[Stella-Vosniadou]]'s [[Framework Theory]] identifies a third, most radical kind: *framework theory change*, in which the fundamental presuppositions that organize an entire domain of knowledge are restructured. This is what happens when a learner stops thinking of heat as a substance and begins thinking of it as a process, or stops thinking of knowledge as a collection of facts and begins thinking of it as a network of relationships. Most PKB practice produces enrichment; integration often requires revision or framework theory change.
 
 #### 4. [DEFINITION] Small-World Networks (Network Science, Watts & Strogatz) *(Line 163)*
 
@@ -618,7 +618,7 @@ extraction_summary:
 - [[Productive Failure and Desirable Difficulties as Integration Catalysts]]
 - [[Ray Land]]
 - [[Report-01]]
-- [[Report 03]]
+- [[Report-03]]
 - [[Report 07]]
 - [[Report 11]]
 - [[Report 15]]
@@ -634,7 +634,7 @@ extraction_summary:
 - [[Small-World-Networks|Small-World Networks]]
 - [[Small-World-PKB-Principle|Small-World PKB Principle]]
 - [[Spreading-Activation|Spreading Activation]]
-- [[Stella Vosniadou]]
+- [[Stella-Vosniadou]]
 - [[Steven Strogatz]]
 - [[The Sociology of Personal Knowledge: How Social Networks Produce Integration]]
 - [[Threshold-Concepts|Threshold Concepts]]
@@ -655,7 +655,7 @@ extraction_summary:
 | 8 | [[Knowledge-Management|Knowledge Management]] | — | — | The Synthesis Question | 132 |
 | 9 | [[Marcia Linn]] | — | — | The Synthesis Question | 134 |
 | 10 | [[Knowledge Integration Framework]] | — | — | The Synthesis Question | 134 |
-| 11 | [[Stella Vosniadou]] | — | — | The Synthesis Question | 134 |
+| 11 | [[Stella-Vosniadou]] | — | — | The Synthesis Question | 134 |
 | 12 | [[Framework Theory]] | — | — | The Synthesis Question | 134 |
 | 13 | [[Michelene Chi]] | — | — | The Synthesis Question | 134 |
 | 14 | [[Ontological-Category-Shifts|Ontological Category Shifts]] | — | — | The Synthesis Question | 134 |
@@ -670,7 +670,7 @@ extraction_summary:
 | 23 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 24 | [[Report-01]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 25 | [[Schema-Theory|Schema Theory]] | — | — | Scope, Dependencies, and Roadmap | 140 |
-| 26 | [[Report 03]] | — | — | Scope, Dependencies, and Roadmap | 140 |
+| 26 | [[Report-03]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 27 | [[Report 11]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 28 | [[Report 20]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 29 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Scope, Dependencies, and Roadmap | 142 |
@@ -685,7 +685,7 @@ extraction_summary:
 | 38 | [[Knowledge-Integration|Knowledge Integration]] | — | — | The Four Concepts at the Center of In... | 158 |
 | 39 | [[Knowledge Integration Framework]] | — | — | The Four Concepts at the Center of In... | 158 |
 | 40 | [[Conceptual-Change|Conceptual Change]] | — | — | The Four Concepts at the Center of In... | 161 |
-| 41 | [[Stella Vosniadou]] | — | — | The Four Concepts at the Center of In... | 161 |
+| 41 | [[Stella-Vosniadou]] | — | — | The Four Concepts at the Center of In... | 161 |
 | 42 | [[Framework Theory]] | — | — | The Four Concepts at the Center of In... | 161 |
 | 43 | [[Duncan-Watts|Duncan Watts]] | — | — | The Four Concepts at the Center of In... | 164 |
 | 44 | [[Steven Strogatz]] | — | — | The Four Concepts at the Center of In... | 164 |
@@ -700,7 +700,7 @@ extraction_summary:
 | 53 | [[Inert-Knowledge|Inert Knowledge]] | — | — | The Four Concepts at the Center of In... | 176 |
 | 54 | [[Expert-Novice Comparisons]] | — | — | The Expert–Novice Knowledge Organizat... | 211 |
 | 55 | [[Michelene Chi]] | — | — | The Expert–Novice Knowledge Organizat... | 211 |
-| 56 | [[Stella Vosniadou]] | — | — | The Conceptual Change Evidence Base | 227 |
+| 56 | [[Stella-Vosniadou]] | — | — | The Conceptual Change Evidence Base | 227 |
 | 57 | [[Active-Note-Making|Active Note-Making]] | — | — | The Conceptual Change Evidence Base | 235 |
 | 58 | [[Report 17]] | — | — | The Conceptual Change Evidence Base | 235 |
 | 59 | [[Jan Meyer]] | — | — | The Conceptual Change Evidence Base | 237 |
@@ -808,7 +808,7 @@ extraction_summary:
 - [[Productive Failure and Desirable Difficulties as Integration Catalysts]]
 - [[Ray Land]]
 - [[Report-01]]
-- [[Report 03]]
+- [[Report-03]]
 - [[Report 07]]
 - [[Report 11]]
 - [[Report 15]]
@@ -824,7 +824,7 @@ extraction_summary:
 - [[Small-World-Networks|Small-World Networks]]
 - [[Small-World-PKB-Principle|Small-World PKB Principle]]
 - [[Spreading-Activation|Spreading Activation]]
-- [[Stella Vosniadou]]
+- [[Stella-Vosniadou]]
 - [[Steven Strogatz]]
 - [[The Sociology of Personal Knowledge: How Social Networks Produce Integration]]
 - [[Threshold-Concepts|Threshold Concepts]]

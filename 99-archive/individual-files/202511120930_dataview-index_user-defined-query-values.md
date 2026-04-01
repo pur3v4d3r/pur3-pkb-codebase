@@ -114,7 +114,7 @@ review
   - "[[Extended Mind]]"
   - "[[Goal Setting]]"
   - "[[Heutagogy]]"
-  - "[[Information Theory]]"
+  - "[[Information-Theory]]"
   - "[[Instructional-Design]]"
   - "[[Long-Term-Memory]]"
   - "[[Long Term Working Memory]]"

@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +38,9 @@ referenced-by-count: 4
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Embodied-Cognition]]"
   - "[[Germane-Cognitive-Load-Sweller,-van-Merriënboer-&-Paas,-1998-—-Original-Formulat]]"
+  - "[[Schema]]"
   - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -60,7 +60,7 @@ importance: low
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Embodied-Cognition]]
 - [[Germane-Cognitive-Load-Sweller,-van-Merriënboer-&-Paas,-1998-—-Original-Formulat]]
+- [[Schema]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

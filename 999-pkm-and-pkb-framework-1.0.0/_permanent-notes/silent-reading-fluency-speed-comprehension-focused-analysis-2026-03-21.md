@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 18
+referenced-by-count: 17
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Advance-OrganizerAdvance-Organizer]]"
   - "[[Bandwidth-Compression]]"
   - "[[Bandwidth-Expansion]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Lexical-Automaticity]]"
   - "[[Perceptual-Span]]"
   - "[[Phonological-LoopPhonological-Loop]]"
+  - "[[RSVP]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21
 
 > [!definition] **silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21**
-> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 18 permanent notes.*
+*Auto-generated stub — referenced by 17 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Advance-OrganizerAdvance-Organizer]]
 - [[Bandwidth-Compression]]
 - [[Bandwidth-Expansion]]

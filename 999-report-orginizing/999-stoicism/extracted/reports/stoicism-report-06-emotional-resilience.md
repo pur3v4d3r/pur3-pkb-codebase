@@ -100,7 +100,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -112,14 +112,14 @@ related:
   - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati]]"
   - "[[Memento Mori]]"
   - "[[Premeditatio-Malorum]]"
   - "[[Cognitive-Behavioral-Therapy]]"
   - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Cognitive-Reappraisal]]"
   - "[[Post-Traumatic Growth]]"
-  - "[[Emotional Regulation]]"
+  - "[[Emotional-Regulation]]"
   - "[[James Stockdale]]"
 
 series-connections:
@@ -128,7 +128,7 @@ series-connections:
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
     - "[[Stoicism and CBT - Similarities Differences and Integration]]"
 
@@ -140,7 +140,7 @@ broader:
 
 narrower:
   - "[[Premeditatio-Malorum]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati]]"
   - "[[The Obstacle Is the Way]]"
   - "[[Stoic Consolation]]"
   - "[[Impermanence Meditation]]"
@@ -195,7 +195,7 @@ practical-components:
 link-up: "[[Stoicism MOC]]"
 link-down:
   - "[[Premeditatio-Malorum]]"
-  - "[[Amor Fati]]"
+  - "[[Amor-Fati]]"
   - "[[The Obstacle Is the Way (Principle)]]"
   - "[[Stoic Consolation Literature]]"
   - "[[Impermanence Contemplation]]"
@@ -310,7 +310,7 @@ The Stoic philosophical foundation for resilience rests on three interconnected 
 
 **Pillar 1**: The [[Dichotomy-of-Control]] — the clear and practiced distinction between what is within one's power (one's judgments, responses, values, and character) and what is not (external events, others' behavior, outcomes). Adversity loses its power to devastate when one is genuinely clear about the boundary.
 
-**Pillar 2**: The proper valuation of externals — what the Stoics called the doctrine of [[Preferred Indifferents]]. Health, wealth, reputation, the people we love: all these are genuinely valuable and reasonably pursued. But they are not constitutive of our flourishing in the way that virtue is. When we lose them, the loss is real and the pain is legitimate — but our capacity to live well is not destroyed along with them.
+**Pillar 2**: The proper valuation of externals — what the Stoics called the doctrine of [[Preferred-Indifferents]]. Health, wealth, reputation, the people we love: all these are genuinely valuable and reasonably pursued. But they are not constitutive of our flourishing in the way that virtue is. When we lose them, the loss is real and the pain is legitimate — but our capacity to live well is not destroyed along with them.
 
 **Pillar 3**: The relationship between [[Prohairesis]] and adversity. Prohairesis — the faculty of rational choice, the seat of our agency and character — cannot be taken from us by external events. A person can be imprisoned, impoverished, physically harmed, and stripped of every external comfort. What they cannot be stripped of, on the Stoic account, is the quality of their own judgment and response. This is not a consolation prize; it is the thing that matters most.
 

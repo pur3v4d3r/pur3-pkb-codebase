@@ -47,7 +47,7 @@ review-priority: medium
 # Epistemology
 
 > [!definition]
-> - **Key-Term**:[[epistemology]]
+> - **Key-Term**:[[Epistemology]]
 > - **Definition**:
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -85,7 +85,7 @@ LIMIT 10
 ### Direct Connections
 - [[Concept-1]]
 - [[Concept-2]]
-- [[Concept 3]]
+- [[Concept-3]]
 
 ## Practical Applications
 

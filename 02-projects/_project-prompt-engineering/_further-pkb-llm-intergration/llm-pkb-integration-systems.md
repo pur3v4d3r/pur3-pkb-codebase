@@ -91,7 +91,7 @@ Your relationship vocabulary is excellent. I'd expand it with additional relatio
 
 | Type | Symbol | Use Case | Example |
 |------|--------|----------|---------|
-| `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[Information Processing]] |
+| `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[information-processing]] |
 | `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load]] →(operationalizes)→ [[Element-Interactivity]] |
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working-Memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[automation]] |
@@ -952,7 +952,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
@@ -2174,7 +2174,7 @@ Your relationship vocabulary is excellent. I'd expand it with additional relatio
 
 | Type | Symbol | Use Case | Example |
 |------|--------|----------|---------|
-| `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[Information Processing]] |
+| `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[information-processing]] |
 | `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load]] →(operationalizes)→ [[Element-Interactivity]] |
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working-Memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[automation]] |
@@ -3033,7 +3033,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>

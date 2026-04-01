@@ -33,7 +33,7 @@ The vault solves the context persistence problem for AI agents while maintaining
 ### Primary Objectives
 
 1. **Knowledge Graph Building**
-   - Comprehensive [[Wiki-Link]] network across all notes
+   - Comprehensive [[wiki-link]] network across all notes
    - Semantic relationships discoverable via embeddings
    - Cross-project pattern recognition
 
@@ -64,7 +64,7 @@ Agent memory persistence enables agents to recover project context after session
 **Knowledge Management**:
 - PKB architecture using [[Zettelkasten]]-inspired principles
 - [[MOC|Maps of Content]] for domain navigation
-- Atomic notes with high [[Wiki-Link]] density
+- Atomic notes with high [[wiki-link]] density
 - [[Dataview]], [[Templater]], and [[QuickAdd]] automation
 
 **Agent Integration**:
@@ -127,7 +127,7 @@ Technical constraints include Windows environment, Smart Connections embedding c
 - [ ] Zero manual context re-briefing
 
 **Knowledge Graph Quality**:
-- [ ] Every note has 2+ [[Wiki-Link|Wiki-Links]] in and out
+- [ ] Every note has 2+ [[wiki-link|Wiki-Links]] in and out
 - [ ] Orphan notes <5% of total
 - [ ] MOCs cover all major domains
 
@@ -198,7 +198,7 @@ The vault has three primary stakeholders: the user (pur3v4d3rpk) as project mana
 - Performance scoring
 
 **Priority 3**: Knowledge graph enrichment
-- Increase [[Wiki-Link]] density
+- Increase [[wiki-link]] density
 - Build domain MOCs
 - Cross-reference validation
 

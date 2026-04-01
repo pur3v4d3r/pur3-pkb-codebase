@@ -280,8 +280,8 @@ The **sources** you can currently select from are:
 3. **Single Files**: To select a single file *use*: `FROM path/to/file`
 4. **Tags**: to select from a tag (and all of its sub-tags) *use*: `FROM #tag`
 5. **Incoming/Outgoing links**: You can either select link that go **TO** a file or all the links **FROM** a file.
-	1. To obtain all the links going TO `[[NOTE]]` *use*: `FROM [[NOTE]]`
-	2. To obtain all the notes that link FROM `[[NOTE]]` *use*: `FROM outgoing([[note]])`
+	1. To obtain all the links going TO `[[Note]]` *use*: `FROM [[Note]]`
+	2. To obtain all the notes that link FROM `[[Note]]` *use*: `FROM outgoing([[Note]])`
 		- **Note**: This means all the links **IN** that file.
 
 *A way to customize your query further is to add in Boolean operators.*

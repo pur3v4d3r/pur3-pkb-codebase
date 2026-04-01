@@ -7,7 +7,7 @@ aliases: [Wiki-Link QRC, Linking Guide, Knowledge Graph Reference]
 
 ## Discovery Heuristic: When to Create Links
 
-**CREATE `[[Wiki-Link]]` if ANY of these are true:**
+**CREATE `[[wiki-link]]` if ANY of these are true:**
 
 ✅ Core concept central to response  
 ✅ Technical term requiring definition  

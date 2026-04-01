@@ -97,7 +97,7 @@ Optimal learning requires environmental conditions that promote neuroplasticity 
 
 Moderate stress activates the sympathetic nervous system, releasing cortisol and norepinephrine that enhance attention, focus, and memory consolidation. However, chronic or extreme stress damages the hippocampus (memory center) and impairs prefrontal cortex function (executive control).
 
-**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[Interleaving]], and [[Spacing-Effect]]—all of which introduce manageable stress that enhances learning.
+**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[interleaving]], and [[Spacing-Effect]]—all of which introduce manageable stress that enhances learning.
 
 ## 1.2 Working Memory and Cognitive Load
 
@@ -227,7 +227,7 @@ Long-term memory is not monolithic but comprises multiple specialized systems:
 
 > [!core-principle]
 > **Principle of Encoding Specificity**
-> Memory retrieval is most effective when the retrieval context matches the encoding context. This is why practicing recall in varied contexts (a form of [[Interleaving]]) builds more robust, transferable knowledge than studying in a single, consistent environment.
+> Memory retrieval is most effective when the retrieval context matches the encoding context. This is why practicing recall in varied contexts (a form of [[interleaving]]) builds more robust, transferable knowledge than studying in a single, consistent environment.
 
 Procedural memory (skills) benefits from repetitive practice to achieve automaticity, while declarative memory (facts, concepts) requires diverse, elaborative encoding strategies such as connection-making, self-explanation, and varied retrieval practice.
 
@@ -310,10 +310,10 @@ The spacing effect is one of the most robust findings in learning science, yet s
 
 This aligns with your understanding of [[The Insight Compounding Loop]]—spaced retrieval allows each practice session to build on partially-forgotten material, creating stronger encoding through effortful retrieval.
 
-**3. [[Interleaving]]**
+**3. [[interleaving]]**
 
 > [!definition]
-> **[[Interleaving]]**:: Mixing different types of problems or topics during study sessions rather than blocking them by type
+> **[[interleaving]]**:: Mixing different types of problems or topics during study sessions rather than blocking them by type
 
 Research shows that interleaving various problems and topics substantially improves test performance compared to blocking practice by problem type, even though interleaving feels more difficult during practice.
 
@@ -512,7 +512,7 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 |----------|-------------|-----------------|--------------|
 | **Retrieval Practice** | After initial exposure; periodically for review | Before initial understanding; for pure recognition tasks | Strengthens memory traces through effortful recall |
 | **[[Elaborative-Interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
-| **[[Interleaving]]** | When discriminating between problem types matters | Early skill acquisition (block first, then interleave) | Develops flexible, transferable knowledge |
+| **[[interleaving]]** | When discriminating between problem types matters | Early skill acquisition (block first, then interleave) | Develops flexible, transferable knowledge |
 | **[[Chunking]]** | When working memory is overwhelmed; in domains with patterns | For truly random information with no structure | Reduces cognitive load by grouping information |
 
 ## 3.3 Metacognitive Regulation
@@ -1709,7 +1709,7 @@ From user's existing notes (will extensively cross-reference):
 
 Additional concepts to introduce as wiki-links:
 - [[Deliberate-Practice]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Spacing-Effect]]
 - [[Desirable-Difficulties]]
 - [[Transfer-of-Learning]]

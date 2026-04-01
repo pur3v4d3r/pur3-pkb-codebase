@@ -143,7 +143,7 @@ extraction_summary:
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 > 
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred-Indifferents]], [[Prohairesis]], and the [[Discipline-of-Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 #### 3. [RESEARCH] Untitled *(Line 272)*
 
@@ -155,7 +155,7 @@ extraction_summary:
 #### 4. [DEFINITION] Untitled *(Line 287)*
 
 > [!definition] Untitled
-> **[[Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
+> **[[Preferred-Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
 
 #### 5. [QUOTE] Untitled *(Line 294)*
 
@@ -177,7 +177,7 @@ extraction_summary:
 > [!key-insight] Untitled
 > **Framework Principle 1: The Hierarchy of Value**
 > 
-> The Stoic position is not that material goods are worthless — the category of [[Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
+> The Stoic position is not that material goods are worthless — the category of [[Preferred-Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
 
 #### 9. [KEY-INSIGHT] Untitled *(Line 338)*
 
@@ -221,7 +221,7 @@ extraction_summary:
 > 
 > **The Situation**: In Letter XVIII of the *Epistulae Morales*, Seneca describes his practice of periodic voluntary simplicity, written with the self-aware irony of a very rich man telling a friend to be poor sometimes. He describes setting aside several days to live on minimal rations — coarse bread, water, no comfortable bed — not as penance but as philosophical calibration. "I am not setting this before you as a rule," he writes, "but as a test. Lay aside for a few days your usual comforts, and let yourself discover whether poverty frightens you as much as your habits have led you to believe."
 > 
-> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
+> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
 > 
 > **The Lesson**: The practice demonstrates that the felt sense of sufficiency — of having enough — is not a fixed quantity determined by one's material circumstances but a calibratable psychological state that can be maintained at a wide range of income levels through appropriate philosophical practice. The person who practices periodic simplicity is less vulnerable to the anxiety of potential loss, more capable of genuine appreciation for what they have, and less driven by the compulsive acquisition that the fear of insufficiency generates.
 
@@ -243,7 +243,7 @@ extraction_summary:
 > 
 > **The Situation**: Potts's argument — developed without direct reference to Stoicism but with remarkable convergence — is that most people are time-poor and thing-rich in a way that inverts the actual conditions of a good life. The things that constitute genuine wellbeing (deep engagement with meaningful activities, rich relationships, the experience of novelty and growth) are time-intensive and materially cheap. The things that modern culture treats as constitutive of success (large homes, new vehicles, luxury goods) are materially expensive and time-consuming to maintain, and their wellbeing returns are subject to rapid hedonic adaptation. His prescription — reduce material complexity to create temporal and psychological space for intrinsically meaningful activity — is structurally identical to the Stoic framework.
 > 
-> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
+> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 > 
 > **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
@@ -258,7 +258,7 @@ extraction_summary:
 > 
 > **Duration**: 48–72 hours minimum for full psychological effect; shorter periods are useful but may not achieve the depth of recalibration that multi-day practice provides
 > 
-> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
+> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred-Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
 > 
 > **Psychological Mechanism**: Counters hedonic adaptation by resetting the baseline against which ordinary goods are experienced. After several days of bread and water, a standard meal becomes genuinely experienced as a luxury. This recalibration of baseline produces the gratitude that hedonic adaptation normally suppresses — transforming what was background into foreground, what was entitled into appreciated.
 > 
@@ -350,8 +350,8 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > **Series Connections**
 > 
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
-> - **Deepens**: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred-Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
+> - **Deepens**: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
 > - **Connects to**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the non-dependence on material goods cultivated in Stoic simplicity directly increases resilience; the person who has practiced sufficiency is less devastated by material loss than the person whose wellbeing depends on maintaining a certain standard.
 > - **Prepares for**: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] (Report 09) — the simplification of one's relationship to material goods creates the attentional space that mindfulness practice requires. It is structurally difficult to be genuinely present when one is preoccupied with maintaining material complexity.
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — Cognitive Behavioral Therapy's attention to the role of cognitive distortions in generating unnecessary suffering maps precisely onto the Stoic account of how misvalued preferred indifferents generate anxiety and compulsive acquisition.
@@ -433,7 +433,7 @@ extraction_summary:
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
 - [[Dichotomy-of-Control]]
 - [[Diogenes of Sinope]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Hedonic-Adaptation]]
@@ -441,7 +441,7 @@ extraction_summary:
 - [[Marcus-Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Self-Determination-Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation]]
@@ -451,7 +451,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Emotional Resilience - Coping with Adversity]]
 - [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
 - [[Virtue-Ethics]]
@@ -469,11 +469,11 @@ extraction_summary:
 | 6 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | Stoicism and Minimalism: Living a Sim... | 258 |
 | 7 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and Minimalism: Living a Sim... | 259 |
 | 8 | [[Dichotomy-of-Control]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
-| 9 | [[Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
+| 9 | [[Preferred-Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 10 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
-| 11 | [[Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
+| 11 | [[Discipline-of-Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 12 | [[Hedonic-Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 270 |
-| 13 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
+| 13 | [[Preferred-Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 14 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
 | 16 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
@@ -483,25 +483,25 @@ extraction_summary:
 | 20 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
 | 21 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
 | 22 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
-| 23 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 330 |
+| 23 | [[Preferred-Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 330 |
 | 24 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 336 |
 | 25 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
 | 26 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 375 |
 | 27 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
 | 28 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 397 |
-| 29 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 404 |
+| 29 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 404 |
 | 30 | [[Marcus-Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 410 |
-| 31 | [[Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 430 |
+| 31 | [[Discipline-of-Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 430 |
 | 32 | [[Virtue-Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
-| 33 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 449 |
+| 33 | [[Preferred-Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 449 |
 | 34 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 462 |
 | 35 | [[Dichotomy-of-Control]] | — | — | Part 6: The Practice Architecture — A... | 475 |
 | 36 | [[Negative Visualization]] | — | — | Part 6: The Practice Architecture — A... | 488 |
 | 37 | [[Dichotomy-of-Control]] | — | — | Part 7: Common Obstacles and How the ... | 516 |
 | 38 | [[Prohairesis]] | — | — | Part 7: Common Obstacles and How the ... | 526 |
 | 39 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 541 |
-| 40 | [[Preferred Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 541 |
-| 41 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 542 |
+| 40 | [[Preferred-Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 541 |
+| 41 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 542 |
 | 42 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 543 |
 | 43 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Part 8: Integration — Building a Cohe... | 544 |
 | 44 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 545 |
@@ -543,7 +543,7 @@ extraction_summary:
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
 - [[Dichotomy-of-Control]]
 - [[Diogenes of Sinope]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Hedonic-Adaptation]]
@@ -551,7 +551,7 @@ extraction_summary:
 - [[Marcus-Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Self-Determination-Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation]]
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Emotional Resilience - Coping with Adversity]]
 - [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
 - [[Virtue-Ethics]]
@@ -574,7 +574,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 
 #### Related
 
@@ -588,7 +588,7 @@ extraction_summary:
 - [[Virtue-Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents]]
 - [[Meditatio Paupertatis]]
 - [[Hedonic-Adaptation]]
 - [[Voluntary Simplicity]]
@@ -608,7 +608,7 @@ extraction_summary:
 #### Narrower
 
 - [[Meditatio Paupertatis]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire]]
 - [[Stoic Frugality]]
 - [[Voluntary Discomfort Practice]]
 - [[Negative Visualization]]

@@ -141,7 +141,7 @@ Table: RACL Structured Output Schema (YAML Frontmatter)
 
 |**Field Key**|**Data Type**|**Description**|**Source**|
 |---|---|---|---|
-|`rag_source`|List of Links (`[[note]]`)|Explicit links to notes retrieved by Smart Connections (reported by LLM).|LLM Output (P3)|
+|`rag_source`|List of Links (`[[Note]]`)|Explicit links to notes retrieved by Smart Connections (reported by LLM).|LLM Output (P3)|
 |`review_date`|Date|Date of RACL processing.|Templater (P2)|
 |`status`|String (Draft/Scored/Archived)|Current phase in the RACL lifecycle.|QuickAdd/Manual (P4, P8)|
 |`critique`|Nested Object|Container for LLM-generated critical metrics.|LLM Output (P3)|

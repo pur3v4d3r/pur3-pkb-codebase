@@ -23,41 +23,63 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
-  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
-  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
+  - "[[Automaticity]]"
+  - "[[Cognitive-Bandwidth-Liberation]]"
+  - "[[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]"
+  - "[[Compensation-Trap]]"
+  - "[[Decoding]]"
+  - "[[Dyslexia]]"
+  - "[[Matthew-Effect-in-Reading]]"
+  - "[[Oral-Reading-Fluency]]"
+  - "[[Prosody]]"
+  - "[[Reading-Fluency]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # Dreyfus-Skill-Acquisition-Model
 
 > [!definition] **Dreyfus-Skill-Acquisition-Model**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 18 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Automaticity]]
+- [[Cognitive-Bandwidth-Liberation]]
+- [[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]
+- [[Compensation-Trap]]
+- [[Decoding]]
+- [[Dyslexia]]
+- [[Matthew-Effect-in-Reading]]
+- [[Oral-Reading-Fluency]]
+- [[Prosody]]
+- [[Reading-Fluency]]
+- [[Repeated-Reading]]
+- [[Schema-Automation-in-Reading]]
+- [[Simple-View-of-Reading]]
+- [[The-Fluency-Metacognition-Paradox]]
+- [[Verbal-Efficiency-Theory]]
+- [[Working-Memory-in-Reading]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

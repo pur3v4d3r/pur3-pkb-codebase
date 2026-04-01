@@ -128,9 +128,9 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Self-Regulated-Learning]]"
 prerequisites:
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[Cognitive-Science]]"
-  - "[[Philosophy of Mind]]"
+  - "[[philosophy-of-mind]]"
 builds_on:
   - "[[examined-life-pkb-planning]]"
   - "[[MASTER-PLAN-PKB-BUILD-EXECUTION]]"
@@ -334,7 +334,7 @@ Tier 2 extends the epistemic framework into domains that pure cognition cannot r
 
 **R11 ([[report-11-the-practical-reasoner|The Practical Reasoner]])** — Brings [[Aristotle|Aristotelian]] [[Phronesis]] (practical wisdom) into dialogue with [[Klein|Klein's]] Recognition-Primed Decision model from [[Naturalistic-Decision-Making]]. The **Action-Perception Link** names the insight that the [[phronimos]] and the RPD expert are the same kind of knower — both perceive what situations require through trained perceptual-evaluative capacities.
 
-**R12 ([[report-12-the-social-thinker|The Social Thinker]])** — Addresses the social dimension through [[epistemic injustice]] ([[Fricker]]), [[argumentative theory]] ([[Mercier & Sperber]]), and the novel concept of **Social Epistemic Virtue** — three community-level virtues that extend individual intellectual virtue into communal practices. The Socratic Dialectic ↔ Argumentative Theory homology suggests that Socratic questioning performs the same function that evolutionary argumentation theory posits: testing beliefs through adversarial collaboration.
+**R12 ([[report-12-the-social-thinker|The Social Thinker]])** — Addresses the social dimension through [[Epistemic-Injustice]] ([[Fricker]]), [[argumentative theory]] ([[Mercier & Sperber]]), and the novel concept of **Social Epistemic Virtue** — three community-level virtues that extend individual intellectual virtue into communal practices. The Socratic Dialectic ↔ Argumentative Theory homology suggests that Socratic questioning performs the same function that evolutionary argumentation theory posits: testing beliefs through adversarial collaboration.
 
 ### 2.3 Domain: Integrative Architecture (Tier 3 — Reports 13-15)
 
@@ -363,7 +363,7 @@ Tier 2 extends the epistemic framework into domains that pure cognition cannot r
 - **[[Askesis]]** (spiritual exercises) ↔ modern [[Deliberate-Practice]] (R08, via [[Hadot]])
 - **[[Prokoptōn]]** (the one making progress) ↔ the [[5-Stage Developmental Model]] (R15)
 
-The expansion topic on [[stoic-propatheiai-and-emotional-responses|Stoic Propatheiai]] provides the most comprehensive treatment: the full cognitive-affective sequence from [[phantasia]] → synkatathesis → [[hormē]] → [[pathos]], the Gellius storm-at-sea passage as key source text, the Posidonius controversy (challenging emotion monism), and modern resonances through [[LeDoux]], [[Damasio]], [[CBT]], and [[Nussbaum]].
+The expansion topic on [[stoic-propatheiai-and-emotional-responses|Stoic Propatheiai]] provides the most comprehensive treatment: the full cognitive-affective sequence from [[Phantasia]] → synkatathesis → [[hormē]] → [[pathos]], the Gellius storm-at-sea passage as key source text, the Posidonius controversy (challenging emotion monism), and modern resonances through [[LeDoux]], [[Damasio]], [[CBT]], and [[Nussbaum]].
 
 ### 2.5 Domain: Predictive Processing (Unifying Framework)
 
@@ -575,7 +575,7 @@ These concepts appear across the most reports and supporting documents, acting a
 
 ### Stage 5: Practical & Social Wisdom
 - **Read:** [[report-11-the-practical-reasoner|R11]] → [[report-12-the-social-thinker|R12]]
-- **Focus:** [[Phronesis|Practical wisdom]], [[epistemic injustice]], [[social epistemic virtue]]
+- **Focus:** [[Phronesis|Practical wisdom]], [[Epistemic-Injustice]], [[social epistemic virtue]]
 - **Supporting:** [[ref-aristotle-nicomachean-ethics]], [[ref-ryle-the-concept-of-mind]]
 - **Outcome:** Wisdom requires action and community, not just individual cognition
 

@@ -326,7 +326,7 @@ aliases: [Descriptive Alias, Topic Focus Area]
 3. [Question 3]
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Concept-1]], [[Concept-2]], [[Concept 3]]
+- Core concepts to wiki-link: [[Concept-1]], [[Concept-2]], [[Concept-3]]
 - Recommended tags: #tag1 #tag2
 - Connection points: [How this links to existing knowledge]
 

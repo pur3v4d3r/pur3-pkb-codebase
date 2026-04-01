@@ -29,7 +29,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Information Theory]]
+> - **Key-Term**:[[Information-Theory]]
 > - [**Definition**:(computing) a statistical theory dealing with the limits and efficiency of information processing.]
 
 

@@ -315,7 +315,7 @@ related: [[Cognitive-Load-Theory]], [[Working-Memory]], [[Schema-Theory]], [[Ins
 
 ### Discovery Heuristic
 
-**IF a term meets ANY criterion, format as [[Wiki-Link]]:**
+**IF a term meets ANY criterion, format as [[wiki-link]]:**
 
 ✅ **Core concept** central to the response  
 ✅ **Technical term** requiring definition or elaboration  
@@ -1246,7 +1246,7 @@ WHERE contains(file.content, "%%extract-atomic:")
 [[Helpful Context]]^soft-prerequisite
 
 %%prereq-hard: [[Working-Memory]]%% Must understand before proceeding
-%%prereq-soft: [[Information Processing]]%% Helpful but not required
+%%prereq-soft: [[information-processing]]%% Helpful but not required
 ```
 
 **Prerequisite Types:**
@@ -1981,7 +1981,7 @@ Based on the audit above, here are specific corrections and enhancements:
 **MISSED WIKI-LINKS** *(Should have been linked)*:
 - **[[Concept-1]]** - [Why this matters for knowledge graph]
 - **[[Concept-2]]** - [Why this matters for knowledge graph]
-- **[[Concept 3]]** - [Why this matters for knowledge graph]
+- **[[Concept-3]]** - [Why this matters for knowledge graph]
 
 **ADDITIONAL CONTEXT** *(Valuable information omitted)*:
 - **[Topic/Detail]**: [Why this would have added value]

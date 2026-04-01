@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 20
+referenced-by-count: 19
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Automaticity]]"
   - "[[Cognitive-Bandwidth-Liberation]]"
   - "[[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]"
@@ -47,25 +46,25 @@ see-also:
   - "[[Matthew-Effect-in-Reading]]"
   - "[[Oral-Reading-Fluency]]"
   - "[[Prosody]]"
+  - "[[Reading-Fluency]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # reading-fluency-automaticity-focused-analysis-2026-03-20
 
 > [!definition] **reading-fluency-automaticity-focused-analysis-2026-03-20**
-> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 20 permanent notes.*
+*Auto-generated stub — referenced by 19 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Automaticity]]
 - [[Cognitive-Bandwidth-Liberation]]
 - [[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]

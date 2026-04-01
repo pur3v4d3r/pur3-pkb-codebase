@@ -566,7 +566,7 @@ extraction_summary:
 - [[Cognitive-Evaluation-Theory]]
 - [[Competence]]
 - [[Cross-Cultural-Psychology]]
-- [[Effectance Motivation]]
+- [[Effectance-Motivation]]
 - [[Flow-Theory]]
 - [[Frankfurt's-Hierarchy-of-Desires]]
 - [[Growth-Mindset]]
@@ -605,7 +605,7 @@ extraction_summary:
 | 18 | [[Bratman's-Planning-Theory]] | — | — | Relationship to Other Report Types | 433 |
 | 19 | [[Korsgaard's-Self-Constitution]] | — | — | Relationship to Other Report Types | 433 |
 | 20 | [[Cross-Cultural-Psychology]] | — | — | Relationship to Other Report Types | 435 |
-| 21 | [[Effectance Motivation]] | — | — | The Invitation to Reconstruct Further | 441 |
+| 21 | [[Effectance-Motivation]] | — | — | The Invitation to Reconstruct Further | 441 |
 | 22 | [[Flow-Theory]] | — | — | The Invitation to Reconstruct Further | 441 |
 | 23 | [[Challenge-Skill-Balance]] | — | — | The Invitation to Reconstruct Further | 441 |
 
@@ -653,7 +653,7 @@ extraction_summary:
 - [[Cognitive-Evaluation-Theory]]
 - [[Competence]]
 - [[Cross-Cultural-Psychology]]
-- [[Effectance Motivation]]
+- [[Effectance-Motivation]]
 - [[Flow-Theory]]
 - [[Frankfurt's-Hierarchy-of-Desires]]
 - [[Growth-Mindset]]

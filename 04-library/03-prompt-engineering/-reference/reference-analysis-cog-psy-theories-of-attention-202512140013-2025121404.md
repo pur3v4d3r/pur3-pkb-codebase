@@ -576,7 +576,7 @@ improvement-potential: "Medium"
 >    - `[[Yerkes-Dodson Law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
 >    - `[[Iconic-Memory]]` and `[[Echoic-Memory]]` at line 396
->    - `[[Information Theory]]` at line 372
+>    - `[[Information-Theory]]` at line 372
 > 
 > 5. **Fix callout type** at line 337: Change `> [! ]` to valid callout type or remove
 

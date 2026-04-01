@@ -24,60 +24,66 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 29
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[4E-Cognition]]"
+  - "[[Active-Externalism]]"
+  - "[[Classical-Cognitivism]]"
   - "[[Client-Server-Architecture]]"
+  - "[[Cognitive-Offloading]]"
+  - "[[Cognitive-Scaffolding]]"
   - "[[Construction-Activation-Asymmetry]]"
+  - "[[Coupling-Constitution-Fallacy]]"
   - "[[Crystallization-Threshold]]"
   - "[[Data-Layer-Components]]"
-  - "[[FastMCP]]"
-  - "[[Literature-Review]]"
-  - "[[Model-Context-Protocol]]"
-  - "[[Restructuring]]"
-  - "[[Schema-Construction]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
 # Personal-Knowledge-Base
 
 > [!definition] **Personal-Knowledge-Base**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 29 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 29 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[4E-Cognition]]
+- [[Active-Externalism]]
+- [[Classical-Cognitivism]]
 - [[Client-Server-Architecture]]
+- [[Cognitive-Offloading]]
+- [[Cognitive-Scaffolding]]
 - [[Construction-Activation-Asymmetry]]
+- [[Coupling-Constitution-Fallacy]]
 - [[Crystallization-Threshold]]
 - [[Data-Layer-Components]]
+- [[Distributed-Cognition]]
+- [[Extended-Mind-Theory]]
 - [[FastMCP]]
+- [[Internalism]]
 - [[Literature-Review]]
+- [[Mark-of-the-Cognitive]]
 - [[Model-Context-Protocol]]
-- [[Restructuring]]
-- [[Schema-Construction]]
-- [[Schema-Crystallization-Event]]
-- [[Structural-Analogue]]
-- [[The-Analogy-First-Instructional-Principle]]
-- [[The-Bootstrapping-Constraint]]
-- [[The-Construction-Activation-Asymmetry-as-Schema-Theory's-Productive-Frontier]]
+- [[Operational-Targets]]
+- [[Parity-Principle]]
+- [[Passive-Externalism]]
+- *...and 9 more permanent notes*

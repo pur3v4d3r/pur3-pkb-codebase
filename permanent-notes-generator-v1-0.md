@@ -854,7 +854,7 @@ related:
   - "[[Metacognition]]"
   - "[[Schema-Theory]]"
   - "[[Dual-Process-Theory]]"
-  - "[[Expertise Development]]"
+  - "[[Expertise-Development]]"
   - "[[Self-Regulated-Learning]]"
 
 broader:
@@ -874,7 +874,7 @@ see-also:
 
 contrasts-with:
   - "[[Information Overload]]"
-  - "[[Flow State]]"
+  - "[[Flow-State]]"
 
 applied-in:
   - "[[Instructional-Design]]"

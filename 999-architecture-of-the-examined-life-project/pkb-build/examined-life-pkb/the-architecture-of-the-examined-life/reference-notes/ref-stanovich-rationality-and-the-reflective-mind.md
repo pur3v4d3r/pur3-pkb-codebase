@@ -58,12 +58,12 @@ Stanovich's distinction between System 1 (autonomous mind), System 2 algorithmic
 
 - **[[Algorithmic Mind]]**: System 2's computational capacity for executing learned procedures and solving problems through deliberate processing
 - **[[Reflective Mind]]**: The metacognitive capacity to evaluate, monitor, and override both System 1 intuitions and System 2 routines
-- **[[Dysrationalia]]**: The inability to think and behave rationally despite adequate intelligence; occurs when reflective mind is underdeveloped
+- **[[dysrationalia]]**: The inability to think and behave rationally despite adequate intelligence; occurs when reflective mind is underdeveloped
 - **[[Cognitive Reflection]]**: The disposition and ability to resist reporting the first response that comes to mind; measurable via cognitive reflection tests
 - **[[Mindware]]**: The rules, knowledge structures, and strategies that the reflective mind can deploy to override problematic default responses
 - **[[Myside-Bias]]**: The tendency to evaluate information in ways that favor your existing beliefs, even when trying to be objective
 - **[[Contaminated Mindware]]**: Beliefs and thinking patterns that actively impede rational thinking (conspiracy theories, pseudoscience, etc.)
-- **[[Reflective Equilibrium]]**: The process of balancing intuitive judgments against considered principles through reflective oversight
+- **[[Reflective-Equilibrium]]**: The process of balancing intuitive judgments against considered principles through reflective oversight
 
 ## 🎓 Accessibility Rating: 3/5 (Moderate)
 

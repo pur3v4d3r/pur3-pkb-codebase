@@ -77,14 +77,14 @@ prerequisites:
 
 builds_on:
   - "[[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]"
-  - "[[Logan Instance Theory]]"
-  - "[[Anderson ACT-R Framework]]"
+  - "[[Logan-Instance-Theory|Logan Instance Theory]]"
+  - "[[Anderson-ACT-R-Framework|Anderson ACT-R Framework]]"
 
 extends:
-  - "[[Cognitive Control Mechanisms]]"
-  - "[[Learning and Memory]]"
+  - "[[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]]"
+  - "[[Learning-and-Memory|Learning and Memory]]"
 
-part_of_series: "[[Cognitive Psychology Core Concepts]]"
+part_of_series: "[[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]]"
 
 # USAGE & REVIEW
 usage_count: 0
@@ -99,12 +99,12 @@ aliases:
   - "Automatic vs Controlled Processing"
   - "Attentional Efficiency Analysis"
 
-link_up: "[[Cognitive Psychology MOC]]"
+link_up: "[[Cognitive-Psychology-MOC|Cognitive Psychology MOC]]"
 link_related:
   - "[[Deliberate-Practice|Deliberate Practice]]"
-  - "[[Expertise Development]]"
-  - "[[Attentional Resources]]"
-  - "[[Neural Efficiency]]"
+  - "[[Expertise-Development|Expertise Development]]"
+  - "[[Attentional-Resources|Attentional Resources]]"
+  - "[[Neural-Efficiency|Neural Efficiency]]"
 ---
 ```
 
@@ -117,7 +117,7 @@ link_related:
 
 [**Automaticity**:: The capacity to execute cognitive or motor processes with minimal attentional demands, reduced conscious awareness, and increased efficiency - achieved through extensive practice that transforms controlled, effortful processing into rapid, parallel, and seemingly effortless performance.]
 
-The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive-psychology|cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.
+The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive-psychology|cognitive psychology]], affecting domains from [[motor-skill-learning|motor skill learning]] to [[language-comprehension|language comprehension]] to [[expert-performance|expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.
 
 ### Logan's Instance Theory: Memory-Based Automaticity
 
@@ -126,7 +126,7 @@ The transition from controlled to automatic processing represents one of the mos
 > [!definition] Instance Theory Core Mechanism
 > Instance theory proposes that each encounter with a stimulus creates a separate memory trace (instance) that can be retrieved in response to subsequent encounters. With sufficient practice, memory retrieval of solutions from past instances becomes faster than executing the algorithm de novo, leading to a race between algorithmic processing and memory retrieval. When memory consistently wins this race, performance appears automatic.
 
-Logan's framework rests on several foundational assumptions about [[memory representation]] and retrieval. First, every experience leaves a distinct memory trace - there is no abstraction or consolidation into generalized rules during the automatization process itself. ^established This contrasts sharply with [[production system theories]] like [[ACT-R]] (Anderson, 1982), which propose that practice leads to compilation of declarative knowledge into procedural productions. ^established Second, memory retrieval operates in parallel across all relevant instances simultaneously, with the fastest instance determining response time on any given trial. Third, the accumulation of instances provides redundancy that makes retrieval increasingly robust and rapid.
+Logan's framework rests on several foundational assumptions about [[memory-representation|memory representation]] and retrieval. First, every experience leaves a distinct memory trace - there is no abstraction or consolidation into generalized rules during the automatization process itself. ^established This contrasts sharply with [[production system theories]] like [[ACT-R]] (Anderson, 1982), which propose that practice leads to compilation of declarative knowledge into procedural productions. ^established Second, memory retrieval operates in parallel across all relevant instances simultaneously, with the fastest instance determining response time on any given trial. Third, the accumulation of instances provides redundancy that makes retrieval increasingly robust and rapid.
 
 The mathematical expression of instance theory captures these dynamics through what Logan termed the "instance representation of skill." If we denote the time to execute an algorithm as T_algorithm and the distribution of retrieval times for instances as T_retrieval(n), where n is the number of accumulated instances, then response time RT becomes:
 
@@ -195,7 +195,7 @@ The transition from controlled to automatic processing manifests not merely as a
 
 [**Prefrontal-Cortex-Control-Functions**:: The dorsolateral prefrontal cortex (dlPFC), anterior cingulate cortex (ACC), and lateral prefrontal regions collectively support controlled processing through mechanisms including working memory maintenance, goal representation, response inhibition, conflict monitoring, and task-set maintenance - functions that become less necessary as task performance automatizes.]
 
-Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[Working-Memory|working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.
+Early in skill acquisition, tasks demand substantial [[prefrontal-cortex|prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[Working-Memory|working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.
 
 As practice progresses and performance automatizes, this prefrontal engagement systematically decreases. Poldrack et al. (2005) tracked neural changes across 14 days of practice on a sequence learning task. Initial performance activated an extensive prefrontal-parietal network including bilateral dlPFC, ACC, and inferior frontal gyrus. By the final session, prefrontal activation had decreased by 40-60% while task-relevant posterior regions (motor cortex, supplementary motor area) showed stable or increased activation. ^established Critically, this neural reorganization correlated with the behavioral power law - regions showing power law decreases in activation predicted power law improvements in response time (r = 0.78).
 
@@ -223,7 +223,7 @@ The neural efficiency phenomenon extends beyond reduced activation to encompass 
 
 [**Basal-Ganglia-Proceduralization**:: The process whereby repeated stimulus-response patterns become encoded in cortico-striatal circuits, particularly the putamen and caudate nucleus, enabling automatic retrieval of appropriate actions through dopamine-modulated synaptic plasticity - forming the neural basis of procedural "habits" that execute efficiently without conscious control.]
 
-Beyond cortical reorganization, skill automatization critically depends on the [[basal ganglia]], a collection of subcortical nuclei essential for procedural learning, habit formation, and action selection. The striatum (comprising caudate nucleus and putamen) receives massive cortical input and projects through complex circuits back to cortex via thalamus, forming loops that support procedural skill consolidation (Alexander et al., 1986).
+Beyond cortical reorganization, skill automatization critically depends on the [[Basal-Ganglia|basal ganglia]], a collection of subcortical nuclei essential for procedural learning, habit formation, and action selection. The striatum (comprising caudate nucleus and putamen) receives massive cortical input and projects through complex circuits back to cortex via thalamus, forming loops that support procedural skill consolidation (Alexander et al., 1986).
 
 > [!definition] Cortico-Striatal Learning Loops
 > The basal ganglia organize into parallel loops connecting specific cortical regions through striatum to specific motor/cognitive outputs. The **motor loop** (motor cortex → putamen → GPi/SNr → thalamus → motor cortex) supports motor sequence learning. The **cognitive loop** (dlPFC → caudate → GPi/SNr → thalamus → dlPFC) supports cognitive skill automatization. These loops enable both motor and cognitive automaticity through common computational principles.

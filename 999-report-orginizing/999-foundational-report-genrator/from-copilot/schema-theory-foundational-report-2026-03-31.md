@@ -158,7 +158,7 @@ related:
   - "[[Advance-Organizers]]"
 
 broader:
-  - "[[Cognitive-Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Learning-Sciences]]"
   - "[[Constructivism]]"
 
@@ -179,7 +179,7 @@ see-also:
 
 contrasts-with:
   - "[[Behaviorism-Stimulus-Response-Learning]]"
-  - "[[Rote-Memorization]]"
+  - "[[Rote-memorization]]"
   - "[[Information-Processing-Model-Pure-Stage-Model]]"
 
 applied-in:
@@ -196,7 +196,7 @@ builds-on:
   - "[[Gestalt-Psychology-and-Perception]]"
   - "[[Piaget-Developmental-Stages]]"
   - "[[Bartlett-Reconstructive-Memory-Experiments]]"
-  - "[[Information-Processing-Model]]"
+  - "[[information-processing-model]]"
 
 enables:
   - "[[Cognitive-Load-Theory]]"
@@ -357,9 +357,9 @@ Several distinctions are load-bearing for the remainder of this report and for s
 
 **Schema versus Concept.** A concept is a mental category: a representation of class membership determined by features, functions, or family resemblance. A schema is a generative framework that includes not merely category membership but the full relational structure of typical instances — their parts, their causal relations, their typical contexts, their typical functions, the events that typically involve them, and the expectations they generate. The concept "restaurant" categorizes certain establishments. The [[restaurant schema]] includes: being seated, receiving a menu, ordering, waiting, eating, receiving a bill, paying, tipping. The concept recognizes; the schema predicts, structures, and generates inferences.
 
-**[[Declarative-schemas|Declarative]] versus [[Procedural-schemas|Procedural]] Schemas.** Declarative schemas encode knowledge *about* — facts, relationships, entity properties, event structures. Procedural schemas encode knowledge *for* — the sequenced actions required to perform a task, the conditions under which those actions are appropriate, and the monitoring routines that verify correct execution. This distinction maps onto [[John-Anderson|John Anderson]]'s influential separation of declarative and procedural knowledge in [[ACT-R-Theory|ACT-R theory]] and carries radical instructional implications: procedural schemas require practice and feedback to develop; declarative schemas are more amenable to direct instruction. Confusing the two leads to instruction that tells students facts about how to perform a skill without actually building the procedural schema the performance requires.
+**[[Declarative-schemas|Declarative]] versus [[Procedural-schemas|Procedural]] Schemas.** Declarative schemas encode knowledge *about* — facts, relationships, entity properties, event structures. Procedural schemas encode knowledge *for* — the sequenced actions required to perform a task, the conditions under which those actions are appropriate, and the monitoring routines that verify correct execution. This distinction maps onto [[John-Anderson|John Anderson]]'s influential separation of declarative and procedural knowledge in [[ACT-R-theory|ACT-R theory]] and carries radical instructional implications: procedural schemas require practice and feedback to develop; declarative schemas are more amenable to direct instruction. Confusing the two leads to instruction that tells students facts about how to perform a skill without actually building the procedural schema the performance requires.
 
-**Top-Down versus Bottom-Up Processing.** [[Top-down-processing|Top-down processing]] is schema-driven: the active schema constrains interpretation before all the incoming data has been processed, generating expectations that shape what is perceived. [[Bottom-up-processing|Bottom-up processing]] is data-driven: interpretation builds incrementally from the features of the stimulus itself. Neither is sufficient alone. Reading comprehension, for example, is characterized by continuous interaction between top-down schema activation and bottom-up lexical and syntactic processing. Expert comprehenders are distinguished partly by their ability to sustain productive top-down processing (via rich domain schemas) while remaining sensitive to bottom-up signals that disconfirm the current schema and require updating.
+**Top-Down versus Bottom-Up Processing.** [[top-down-processing|Top-down processing]] is schema-driven: the active schema constrains interpretation before all the incoming data has been processed, generating expectations that shape what is perceived. [[bottom-up-processing|Bottom-up processing]] is data-driven: interpretation builds incrementally from the features of the stimulus itself. Neither is sufficient alone. Reading comprehension, for example, is characterized by continuous interaction between top-down schema activation and bottom-up lexical and syntactic processing. Expert comprehenders are distinguished partly by their ability to sustain productive top-down processing (via rich domain schemas) while remaining sensitive to bottom-up signals that disconfirm the current schema and require updating.
 
 > [!reflection] **Deepening Your Understanding**
 > 1. Can you identify a domain — professional, academic, or recreational — in which you possess genuinely rich schemas? What does expert comprehension in that domain *feel like* compared to novice comprehension in an unfamiliar domain?

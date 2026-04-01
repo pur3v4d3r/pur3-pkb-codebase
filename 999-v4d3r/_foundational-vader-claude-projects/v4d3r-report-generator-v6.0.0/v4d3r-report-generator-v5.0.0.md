@@ -152,7 +152,7 @@ related_to:
   - "[[Extended-Thinking-Architecture]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency Ensemble]]"
-  - "[[Chain of Verification]]"
+  - "[[Chain-of-Verification]]"
   - "[[Graph of Thoughts]]"
   - "[[Personal-Knowledge-Base]]"
   - "[[Obsidian Vault System]]"

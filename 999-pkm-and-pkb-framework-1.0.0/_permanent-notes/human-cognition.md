@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,9 @@ referenced-by-count: 3
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Cognitive-Debt]]"
   - "[[Metacognitive-Capacity]]"
+  - "[[_permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -58,6 +58,6 @@ importance: low
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Cognitive-Debt]]
 - [[Metacognitive-Capacity]]
+- [[_permanent-notes-index|_permanent-notes-index]]

@@ -28,7 +28,7 @@ link-related:
 
 
 > [!the-philosophy]
-> The central piece of "common knowledge" or "best practice" that will be deconstructed is this: **We believe that to overcome [[as]], we simply need to be *aware* of it.** We assume that reading a list of biases—like [[Confirmation-Bias]], the [[Sunk Cost Fallacy]], or [[Anchoring Bias]]—and acknowledging their existence is sufficient to inoculate ourselves from their effects during a critical moment of [[Decision-Making]].
+> The central piece of "common knowledge" or "best practice" that will be deconstructed is this: **We believe that to overcome [[as]], we simply need to be *aware* of it.** We assume that reading a list of biases—like [[Confirmation-Bias]], the [[Sunk-cost-fallacy]], or [[Anchoring Bias]]—and acknowledging their existence is sufficient to inoculate ourselves from their effects during a critical moment of [[Decision-Making]].
 
 ---
 
@@ -37,7 +37,7 @@ link-related:
 >
 > We will then ignore this artifact and proceed to identify the true [[first principles]] of human cognition, primarily derived from [[Dual-Process-Theory]]. These "atoms" of thought—such as the law of [[Cognitive-Miserliness]], the automaticity of [[System-1]], and the lazy, deliberate nature of [[System-2]]—will form our foundation. We will establish that biases are not conscious flaws but rather the *unconscious byproducts* of an otherwise efficient default processing system.
 >
-> From these fundamental truths, we will "rebuild" a new, more robust solution. This reconstructed model demonstrates that the only reliable way to safeguard against distortion is not through passive awareness, but through *active, structured, and externalized intervention*. This new model is the [[Metacognitive Checkpoint System]]—a framework of tools like [[Pre-Mortem Analysis]], [[Decision Journaling Protocols]], and [[Epistemic Spot Checks]]—which act as a "cognitive exoskeleton" to deliberately interrupt our flawed default state and *force* the engagement of higher-level reasoning.
+> From these fundamental truths, we will "rebuild" a new, more robust solution. This reconstructed model demonstrates that the only reliable way to safeguard against distortion is not through passive awareness, but through *active, structured, and externalized intervention*. This new model is the [[Metacognitive Checkpoint System]]—a framework of tools like [[Pre-Mortem-Analysis]], [[Decision Journaling Protocols]], and [[Epistemic Spot Checks]]—which act as a "cognitive exoskeleton" to deliberately interrupt our flawed default state and *force* the engagement of higher-level reasoning.
 
 # 1.0 🧐 THE ARTIFACT: DECONSTRUCTING "COMMON KNOWLEDGE"
 
@@ -123,7 +123,7 @@ Now that we have our "atoms" (our first principles), this section uses them as "
 > [!phase-two]
 > **Building from Principle 3:** **[[Constructing the External Scaffolding]]**
 > - What does this "external scaffolding" (P3) look like? It is a *structured process* that forces [[Metacognition]]. This is where the specific frameworks mentioned in the prompt are not just "good ideas" but are the *logical engineering solutions* to the first-principles problem.
-> - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System-1]] "coherent story" of success), the scaffold is **[[Pre-Mortem Analysis]]**. This tool, developed by [[Gary-Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System-1]] narrative and *engages* [[System-2]] to analytically find risks.
+> - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System-1]] "coherent story" of success), the scaffold is **[[Pre-Mortem-Analysis]]**. This tool, developed by [[Gary-Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System-1]] narrative and *engages* [[System-2]] to analytically find risks.
 > - If our problem is [[Hindsight-Bias]] and a failure to learn from mistakes (a [[System-1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System-2]] review.
 > - If our problem is [[Confirmation-Bias]] (a [[System-1]] tendency to seek agreeable facts), the scaffold is an **[[Epistemic Spot Check]]**. This is a *mandatory* checklist (like the "TWED" mnemonic) that forces you to ask: "What is the *quality* of this evidence? What is the *strongest argument for the other side*? Have I actively tried to *disprove* my own hypothesis?" These questions are the *external* trigger to force [[System-2]] to do the hard work of analytical validation.
 
@@ -183,7 +183,7 @@ This section analyzes the new solution that was "rebuilt" in Section 3.0. We now
 > - *What is my* **analysis** *of this deconstruction process?*
 >  
 >      - This deconstruction was incredibly clarifying. The topic itself—a long, academic phrase—was a "System 1" artifact, a jumble of impressive-sounding terms. The deconstruction process *forced* a [[System-2]] engagement. It broke the "common knowledge" (awareness) by exposing its faulty assumptions.
->      - The "reconstruction" (Section 3.0) was the most valuable part. It rebuilt the *need* for tools like [[Pre-Mortem Analysis]] from the ground up. It showed that these aren't just clever ideas, but are the *necessary engineering solutions* to the fundamental *flaws* in our cognitive architecture. The insight is that we should stop trying to "fix our brains" and start *building better tools* for our brains to use.
+>      - The "reconstruction" (Section 3.0) was the most valuable part. It rebuilt the *need* for tools like [[Pre-Mortem-Analysis]] from the ground up. It showed that these aren't just clever ideas, but are the *necessary engineering solutions* to the fundamental *flaws* in our cognitive architecture. The insight is that we should stop trying to "fix our brains" and start *building better tools* for our brains to use.
 
 # 6.0 📚 REFERENCE/APPENDIX
 
@@ -211,6 +211,6 @@ This section analyzes the new solution that was "rebuilt" in Section 3.0. We now
 > - [[Mental-Models]]
 > - [[Deconstruction]]
 > - [[Dual-Process-Theory]]
-> - [[Choice Architecture]]
+> - [[choice-architecture]]
 > - [[Systems Thinking]]
-> - [[epistemology]]
+> - [[Epistemology]]

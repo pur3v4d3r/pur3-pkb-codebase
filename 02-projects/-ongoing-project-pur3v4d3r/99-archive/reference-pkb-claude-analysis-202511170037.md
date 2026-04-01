@@ -121,7 +121,7 @@ D:\10_pur3v4d3r's-vault/
 
 **Key Observations**:
 - Heavy focus on **Obsidian plugin mastery** (Templater, Dataview, Day Planner, QuickAdd)
-- Active engagement with [[Getting Things Done]] and [[Task-Management]] frameworks
+- Active engagement with [[Getting-Things-Done]] and [[Task-Management]] frameworks
 - Recent emphasis on [[Metacognition]] and [[Self-Directed-Learning]]
 - Systematic documentation of custom callout systems
 

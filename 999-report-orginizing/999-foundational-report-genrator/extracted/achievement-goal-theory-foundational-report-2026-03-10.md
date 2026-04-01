@@ -129,7 +129,7 @@ related:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Schema-Theory|Schema Theory]]"
-  - "[[Epistemic Curiosity]]"
+  - "[[epistemic-curiosity|Epistemic Curiosity]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
 
 broader:
@@ -156,7 +156,7 @@ contrasts-with:
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Classroom Motivational Climate]]"
-  - "[[Sports Psychology]]"
+  - "[[Sports-Psychology|Sports Psychology]]"
   - "[[Workplace Learning]]"
   - "[[Assessment-Design|Assessment Design]]"
 
@@ -172,7 +172,7 @@ enables:
   - "[[Motivational-Climate-Design|Motivational Climate Design]]"
   - "[[Adaptive-Instruction|Adaptive Instruction]]"
   - "[[Metacognitive Strategy Instruction]]"
-  - "[[Assessment for Learning]]"
+  - "[[Assessment-for-Learning|Assessment for Learning]]"
 
 expansion-topics:
   - topic: "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -349,7 +349,7 @@ This neat picture was, however, too neat. By the early 1990s, empirical anomalie
 
 ### The Trichotomous Model
 
-[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Judith Harackiewicz]] (1996) proposed a solution: split the performance goal category into two distinct orientations based on whether the person's valence is positive (approaching success, outperforming others) or negative (avoiding failure, avoiding appearing incompetent). This gave rise to the *trichotomous model* of achievement goals.
+[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Judith-Harackiewicz|Judith Harackiewicz]] (1996) proposed a solution: split the performance goal category into two distinct orientations based on whether the person's valence is positive (approaching success, outperforming others) or negative (avoiding failure, avoiding appearing incompetent). This gave rise to the *trichotomous model* of achievement goals.
 
 > [!definition] **Performance-Approach Goal**
 > A performance-approach goal is oriented toward the positive possibility of normative competence — demonstrating that one is more competent than others. The motivational focus is appetitive: moving toward success in the normative sense. Under this orientation, competition and social comparison are energising rather than threatening, and success in outperforming others is the primary desired outcome.
@@ -361,7 +361,7 @@ The trichotomous model preserved the undivided mastery goal and divided the perf
 
 ### The 2×2 Framework
 
-[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Marcy Church]] McGregor (2001) extended the approach-avoidance distinction to mastery goals as well, completing the logic that had motivated the trichotomous model. If approach and avoidance are fundamental motivational valences that can apply to any goal content, then there should also be a *mastery-avoidance* goal: the goal of avoiding doing worse than one has done before, or failing to live up to one's own past performance standards.
+[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Marcy-Church|Marcy Church]] McGregor (2001) extended the approach-avoidance distinction to mastery goals as well, completing the logic that had motivated the trichotomous model. If approach and avoidance are fundamental motivational valences that can apply to any goal content, then there should also be a *mastery-avoidance* goal: the goal of avoiding doing worse than one has done before, or failing to live up to one's own past performance standards.
 
 The resulting *2×2 framework* crossed two dimensions — goal content (mastery vs. performance) with motivational valence (approach vs. avoidance) — to yield four goal types:
 
@@ -382,7 +382,7 @@ The resulting *2×2 framework* crossed two dimensions — goal content (mastery 
 
 ### The 3×2 Model and Beyond
 
-[[Andrew-J.-Elliot|Andrew J. Elliot]], [[Kenji Murayama]], and [[Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
+[[Andrew-J.-Elliot|Andrew J. Elliot]], [[Kenji-Murayama|Kenji Murayama]], and [[Reinhard-Pekrun|Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
 
 > [!insight] **The Pattern Across Frameworks**
 > Looking across the dichotomous, trichotomous, 2×2, and 3×2 models, a clear pattern emerges: theoretical progress in AGT has consistently been driven by two moves — finer-grained differentiation of the competence standard (what counts as "doing well") and the incorporation of fundamental motivational distinctions (approach vs. avoidance, task vs. self vs. other). Each refinement has clarified the empirical landscape by separating what earlier models conflated.
@@ -482,7 +482,7 @@ The practical implications of Achievement Goal Theory for [[Fading-—-Instructi
 
 ### Applications in Sports, Workplace, and Beyond
 
-AGT was developed primarily in educational settings but its applicability is broadly demonstrated. In [[Sports Psychology]], mastery-oriented athletes demonstrate higher intrinsic motivation, more adaptive responses to setbacks, greater sustained engagement with training, and — over long careers — often superior outcomes to performance-avoidance-oriented athletes, who may win early but burn out or disengage. Coaches who create mastery climates (emphasising skill development, personal improvement, and the intrinsic satisfactions of sport) reliably produce more durable athlete motivation than coaches who emphasise rankings, winning, and comparative performance.
+AGT was developed primarily in educational settings but its applicability is broadly demonstrated. In [[Sports-Psychology|Sports Psychology]], mastery-oriented athletes demonstrate higher intrinsic motivation, more adaptive responses to setbacks, greater sustained engagement with training, and — over long careers — often superior outcomes to performance-avoidance-oriented athletes, who may win early but burn out or disengage. Coaches who create mastery climates (emphasising skill development, personal improvement, and the intrinsic satisfactions of sport) reliably produce more durable athlete motivation than coaches who emphasise rankings, winning, and comparative performance.
 
 In workplace learning and professional development, the same principles apply. Organisations whose learning cultures send strong mastery-climate signals — where effort and growth are recognised, where admitting uncertainty and asking for help is not penalised, where failure in service of learning is tolerated — tend to produce employees with stronger long-term skill development and higher intrinsic engagement. Performance-climate workplaces may produce short-term output, but often at the cost of learning, creativity, and resilience.
 

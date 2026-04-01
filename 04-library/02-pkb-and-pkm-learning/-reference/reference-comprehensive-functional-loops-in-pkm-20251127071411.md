@@ -139,7 +139,7 @@ I'll organize around loop categories:
 **Wiki-Link Opportunities:**
 Primary concepts: [[Feedback Loop]], [[Self-Regulated-Learning]], [[Retrieval-Practice]], [[Spacing-Effect]], [[Schema-Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge-Graph]], [[Habit-Formation]], [[Neural-Plasticity]], [[Desirable-Difficulties]], [[Transfer-of-Learning]], [[Intrinsic-Motivation]], [[Cognitive-Load-Theory]], [[Working-Memory]], [[Long-Term-Memory]], [[Zettelkasten]], [[Progressive-Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]]
 
-Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing-Effect]], [[Elaborative-Rehearsal]], [[Chunking]], [[Mental-Models]], [[Flow State]], [[Deliberate-Practice]], [[Distributed Practice]], [[Interleaving]], [[Generation-Effect]]
+Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing-Effect]], [[Elaborative-Rehearsal]], [[Chunking]], [[Mental-Models]], [[Flow-State]], [[Deliberate-Practice]], [[Distributed Practice]], [[interleaving]], [[Generation-Effect]]
 
 **Metadata Planning:**
 `Tags: #cognitive-science #educational-psychology #pkm #feedback-loops #reference-note #self-reinforcing-systems`
@@ -337,7 +337,7 @@ Each weekly reflection strengthens your understanding of your own [[Cognitive-Ar
 ## ⚡ Motivational & Engagement Loops
 
 > [!definition]
-> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic-Motivation]], and [[Flow State]] that increase engagement through positive feedback
+> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic-Motivation]], and [[Flow-State]] that increase engagement through positive feedback
 > - **Core Mechanism**:: Positive feedback loops involve setting learning goals that provide satisfaction, which drives higher goal-setting, termed as "rage to master" in gifted learners
 
 ### Foundational Concepts: The Success-Motivation Spiral
@@ -485,7 +485,7 @@ Each review cycle improves system quality, which makes next review more producti
 ## 🔄 Habit Formation & Automaticity Loops
 
 > [!definition]
-> - **Habit Loops**:: Neurological feedback cycles involving [[Cue]], [[Routine]], [[Reward]] that create automatic behavioral responses through [[Basal Ganglia]] encoding
+> - **Habit Loops**:: Neurological feedback cycles involving [[Cue]], [[Routine]], [[Reward]] that create automatic behavioral responses through [[Basal-Ganglia]] encoding
 > - **Core Mechanism**:: The habit loop consists of three key components: the cue triggering the brain to initiate behavior, the routine being the behavior carried out in response, and the reward providing satisfaction that reinforces the behavior, with repetition ingraining this loop into neural pathways creating subconscious habits
 
 ### Foundational Concepts: The Neurological Automaticity Cycle
@@ -499,20 +499,20 @@ Initially, behavior requires active cortical processing engaging executive funct
 **Three-Stage Habit Development**:
 
 1. **Cognitive Stage** (High effort, slow execution)
-   - [[Prefrontal Cortex]] actively engaged
+   - [[prefrontal-cortex]] actively engaged
    - Conscious decision-making required
    - High [[Cognitive-Load]]
    - PKB Example: "Where should I file this note? What template do I use?"
 
 2. **Associative Stage** (Moderate effort, faster execution)
-   - [[Basal Ganglia]] beginning to encode patterns
+   - [[Basal-Ganglia]] beginning to encode patterns
    - Conscious oversight still present but reduced
    - Moderate cognitive load
    - PKB Example: "This is a reference note, goes in 04_reference-library, use standard template"
 
 3. **Autonomous Stage** (Minimal effort, automatic execution)
-   - [[Basal Ganglia]] fully controls execution
-   - [[Prefrontal Cortex]] disengaged
+   - [[Basal-Ganglia]] fully controls execution
+   - [[prefrontal-cortex]] disengaged
    - Minimal cognitive load
    - PKB Example: Actions flow automatically without conscious thought
 
@@ -717,7 +717,7 @@ This loop explains why expert knowledge workers often say their PKB "surprises" 
 | **Metacognitive** | Weeks to years | [[Self-Monitoring]] | Learning efficiency | Lack of reflection prevents improvement |
 | **Motivational** | Minutes to months | [[Dopamine]] reward | Sustained engagement | Initial failures create avoidance |
 | **System Quality** | Weeks to months | Iterative refinement | Usability improvement | Premature optimization wastes effort |
-| **Habit Formation** | Weeks to months | [[Basal Ganglia]] encoding | Cognitive automation | Bad habits encode as easily as good |
+| **Habit Formation** | Weeks to months | [[Basal-Ganglia]] encoding | Cognitive automation | Bad habits encode as easily as good |
 | **Network Effects** | Months to years | Connection accumulation | Emergent insights | Sparse graphs provide minimal value |
 
 ### The Virtuous Cycle of PKB Mastery

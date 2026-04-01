@@ -530,7 +530,7 @@ extraction_summary:
 - [[Miller's Law]]
 - [[Modality Principle]]
 - [[Multimedia-Learning-Principles-for-Rich-PKB-Notes-Diagrams,-Code,-and-Visual-Rep|Multimedia Learning Principles for Rich PKB Notes: Diagrams, Code, and Visual Representations]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan]]
 - [[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]
 - [[Obsidian PKB Design]]
 - [[Progressive-Disclosure|Progressive Disclosure]]
@@ -569,7 +569,7 @@ extraction_summary:
 | 13 | [[Educational-Psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
 | 14 | [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] | — | — | Phase I: Orientation & Synthesis Focus | 120 |
 | 15 | [[Miller's Law]] | — | — | Working Memory: The Bottleneck of Lea... | 131 |
-| 16 | [[Nelson Cowan]] | — | — | Working Memory: The Bottleneck of Lea... | 131 |
+| 16 | [[Nelson-Cowan]] | — | — | Working Memory: The Bottleneck of Lea... | 131 |
 | 17 | [[Information-Architecture|Information Architecture]] | — | — | Cognitive Load Theory: The Three Type... | 147 |
 | 18 | [[Coherence-Principle|Coherence Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 19 | [[Signaling-Principle|Signaling Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
@@ -580,7 +580,7 @@ extraction_summary:
 | 24 | [[Segmenting Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 154 |
 | 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The CLT Evidence Base | 181 |
 | 26 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | The CLT Evidence Base | 187 |
-| 27 | [[Nelson Cowan]] | — | — | Working Memory Research: Capacity and... | 194 |
+| 27 | [[Nelson-Cowan]] | — | — | Working Memory Research: Capacity and... | 194 |
 | 28 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Working Memory Research: Capacity and... | 194 |
 | 29 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Working Memory Research: Capacity and... | 196 |
 | 30 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | The Expertise Reversal Effect | 216 |
@@ -650,7 +650,7 @@ extraction_summary:
 - [[Miller's Law]]
 - [[Modality Principle]]
 - [[Multimedia-Learning-Principles-for-Rich-PKB-Notes-Diagrams,-Code,-and-Visual-Rep|Multimedia Learning Principles for Rich PKB Notes: Diagrams, Code, and Visual Representations]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan]]
 - [[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]
 - [[Obsidian PKB Design]]
 - [[Progressive-Disclosure|Progressive Disclosure]]

@@ -24,21 +24,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 59
+referenced-by-count: 58
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[22-Framework]]"
   - "[[2×2-Framework]]"
   - "[[Achievement-Goal]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Autonomy-Support]]"
   - "[[Basic-Psychological-Needs]]"
   - "[[Belief-Bias]]"
+  - "[[Categorical-Syllogism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: high
 # Critical-Thinking-in-Education
 
 > [!definition] **Critical-Thinking-in-Education**
-> *Stub note — concept referenced by 59 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 58 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 59 permanent notes.*
+*Auto-generated stub — referenced by 58 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[22-Framework]]
 - [[2×2-Framework]]
 - [[Achievement-Goal]]
@@ -86,4 +85,5 @@ importance: high
 - [[Ego-Involvement]]
 - [[Ego-Involving-Feedback]]
 - [[Elaboration]]
-- *...and 39 more permanent notes*
+- [[Elaborative-Rehearsal]]
+- *...and 38 more permanent notes*

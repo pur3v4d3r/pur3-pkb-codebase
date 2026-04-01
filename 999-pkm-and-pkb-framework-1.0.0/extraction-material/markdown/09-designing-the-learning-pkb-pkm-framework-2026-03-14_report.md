@@ -563,7 +563,7 @@ extraction_summary:
 - [[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]
 - [[Report-01]]
 - [[Report 01: Foundations of Knowledge Architecture]]
-- [[Report 02]]
+- [[Report-02]]
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]
 - [[Report-04]]
@@ -624,7 +624,7 @@ extraction_summary:
 | 34 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Self-Regulated Learning Evidence:... | 228 |
 | 35 | [[Report-01]] | — | — | Mechanism 1: The Schema-Structure Cou... | 265 |
 | 36 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Mechanism 1: The Schema-Structure Cou... | 272 |
-| 37 | [[Report 02]] | — | — | Mechanism 2: The Three-Layer Cognitiv... | 276 |
+| 37 | [[Report-02]] | — | — | Mechanism 2: The Three-Layer Cognitiv... | 276 |
 | 38 | [[Report-04]] | — | — | Mechanism 3: The SRL-Structure Feedba... | 292 |
 | 39 | [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]] | — | — | Mechanism 4: The SECI Structural Requ... | 303 |
 | 40 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | The Central Question Revisited | 420 |
@@ -681,7 +681,7 @@ extraction_summary:
 - [[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]
 - [[Report-01]]
 - [[Report 01: Foundations of Knowledge Architecture]]
-- [[Report 02]]
+- [[Report-02]]
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]
 - [[Report-04]]

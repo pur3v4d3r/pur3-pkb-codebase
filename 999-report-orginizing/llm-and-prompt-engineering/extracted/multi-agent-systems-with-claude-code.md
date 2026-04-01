@@ -2817,16 +2817,16 @@ Claude Code provides three delegation mechanisms:
 >
 > **Child Concepts** (specialized topics that elaborate this):
 > - [[Agent-File-Format-Specification|Agent File Format Specification]] - Deep dive into YAML + markdown structure
-> - [[Coordination Pattern Library]] - Collection of proven orchestration strategies
-> - [[Tool Permission Grammar]] - Syntax for restricting agent capabilities
-> - [[State Management Protocols]] - Best practices for shared state files
-> - [[Agent Prompt Engineering]] - Specialized prompting for agents vs. main Claude
+> - [[Coordination-Pattern-Library|Coordination Pattern Library]] - Collection of proven orchestration strategies
+> - [[Tool-Permission-Grammar|Tool Permission Grammar]] - Syntax for restricting agent capabilities
+> - [[State-Management-Protocols|State Management Protocols]] - Best practices for shared state files
+> - [[Agent-Prompt-Engineering|Agent Prompt Engineering]] - Specialized prompting for agents vs. main Claude
 >
 > **Cross-Domain Bridges** (connections to other fields):
 > - [[Microservices-Architecture|Microservices Architecture]] → Agent isolation mirrors service boundaries
-> - [[Distributed Systems Design]] → State management, error handling, coordination
-> - [[Multi-Agent AI Systems]] → Academic research on agent coordination
-> - [[Software Engineering Workflows]] → CI/CD, git integration, code review
+> - [[Distributed-Systems-Design|Distributed Systems Design]] → State management, error handling, coordination
+> - [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]] → Academic research on agent coordination
+> - [[Software-Engineering-Workflows|Software Engineering Workflows]] → CI/CD, git integration, code review
 > - [[Team Collaboration Patterns]] → Async communication, role separation
 
 > [!atomic-candidates]
@@ -2961,7 +2961,7 @@ Claude Code provides three delegation mechanisms:
 3. **[[Agentic Workflow Design Patterns]]**
    - **Connection**: Catalog of reusable coordination patterns beyond sequential pipeline (event-driven, saga pattern, choreography vs. orchestration)
    - **Depth Potential**: 10-15 patterns with diagrams, code examples, use cases, and tradeoff analysis
-   - **Knowledge Graph Role**: Extension of coordination strategies; links to [[Distributed Systems Design]]
+   - **Knowledge Graph Role**: Extension of coordination strategies; links to [[Distributed-Systems-Design|Distributed Systems Design]]
    - **Priority**: Medium - Valuable for advanced users building complex workflows
 
 4. **[[Agent Observability and Debugging Toolkit]]**

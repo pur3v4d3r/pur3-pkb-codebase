@@ -20,6 +20,11 @@ tags:
   - academic-synthesis
   - epistemology/fallibilism
   - epistemology/justification
+  - philosophy/theory-of-knowledge
+  - philosophy-of-science/methodology
+  - education/critical-thinking
+  - theoretical-synthesis
+  - historical-analysis
 
 domain: other
 subdomains:
@@ -28,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-03-27"
+extraction-date: "2026-04-01"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,13 +70,25 @@ narrower:
 
 see-also:
   - "[[Fallibilism]]"
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
   - "[[Critical-Thinking|critical thinking]]"
   - "[[pedagogy]]"
   - "[[Descartes]]"
   - "[[scepticism]]"
   - "[[scepticism]]"
+  - "[[epistemic-relativism|epistemic relativism]]"
+  - "[[Epistemic-Humility|Epistemic humility]]"
+  - "[[cognitive-psychology|cognitive psychology]]"
+  - "[[Socrates]]"
+  - "[[Socratic-Method|Socratic method]]"
+  - "[[Pyrrhonian-sceptics|Pyrrhonian sceptics]]"
+  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
+  - "[[pragmatism]]"
+  - "[[Karl-Popper|Karl Popper]]"
+  - "[[Falsificationism]]"
+  - "[[W.V.O.-Quine|W.V.O. Quine]]"
+  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -108,49 +125,92 @@ importance: high
 
 # Defeasibility
 
-> [!definition] **Defeasibility**
+> [!definition] **Defeasibility** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > A property of justification or reasons: a justification J for belief B is *defeasible* if there is some additional evidence E such that J together with E no longer justifies B. The concept captures the fallibilist claim that justification is always provisional. A defeasible reason is a genuine reason — it actually supports the belief — but it can be "defeated" by defeating evidence. This is to be contrasted with deductive entailment, which is indefeasible: if premises P1 and P2 deductively entail conclusion C, no additional information can make C false given P1 and P2 (though it might give us reason to reject P1 or P2).
 
 ## Core Explanation
 
-> [!evidence] Supporting Evidence
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
 > The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
 
-> [!evidence] Supporting Evidence
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
 > Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
 
-> [!evidence] Supporting Evidence
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
 > The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
 
-> [!analytical-insight] Key Insight
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
+> Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
+
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
+> A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
+
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
+> The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
+
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
+> Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
+
+> [!evidence] Supporting Evidence *(from [[fallibilism-foundational-report-2026-03-06]])*
+> Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
+
+> [!analytical-insight] Key Insight *(from [[fallibilism-foundational-report-2026-03-06]])*
 > Fallibilism's core claim is this: **justified belief does not require the impossibility of error**. A person can know that p — can have well-justified, true, appropriately grounded belief that p — even if there is a non-zero epistemic probability that p is false. This separates fallibilism from both scepticism (which claims we know very little, because justification always falls short) and infallibilism (which claims we know only what we are certain about). Fallibilism holds that ordinary,…
 
-> [!analytical-insight] Key Insight
+> [!analytical-insight] Key Insight *(from [[fallibilism-foundational-report-2026-03-06]])*
 > The scientific method does not require that any particular inquiry be infallible. What it requires is that the method itself have the property of correcting its own errors over time. Error-detection and error-correction are baked into inquiry through the mechanisms of hypothesis testing, peer review, replication, and the social accountability of the scientific community. Individual fallibility and collective progress are not merely compatible — the acknowledgment of individual fallibility is a…
 
 ## Practical Implications
 
-> [!example] **Application**
+> [!example] **Application** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > One practically important implication of fallibilism in science communication is the importance of accurately representing the degree of certainty attached to scientific claims. Saying "the evidence strongly supports X" is both more accurate and more epistemically honest than "science has proven X." The former communicates the actual epistemic status of the claim; the latter creates unrealistic expectations that, when any revision occurs, can feed public distrust. Fallibilist communication is…
 
-> [!example] **Application**
+> [!example] **Application** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > Several evidence-informed strategies cultivate fallibilist dispositions in students. *Explicitly modelling intellectual revision* — teachers visibly updating their own positions in response to student challenges — teaches that revision is a sign of intellectual strength, not weakness. *Arguing for positions one does not hold* (the classical *in utramque partem* exercise from rhetoric) develops the capacity to imaginatively inhabit alternative perspectives. *Asking students to identify…
 
-> [!warning] **Key Distinction**
+> [!warning] **Key Distinction** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > A common objection to fallibilism is that it seems to undermine itself: if all beliefs could be wrong, then the belief that "all beliefs could be wrong" could itself be wrong — which would mean some beliefs could not be wrong, contradicting fallibilism. This objection has some dialectical bite, but most fallibilists defuse it by noting that fallibilism is best understood as a *methodological* claim about the appropriate epistemic attitude rather than a first-order metaphysical claim about the…
+
+> [!warning] **Key Distinction** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> In practice, fallibilism can be weaponised. Those with ideological commitments to denying well-established findings — in climate science, vaccine safety, evolutionary biology — sometimes invoke fallibilist language ("science changes all the time," "scientists have been wrong before") to manufacture apparent doubt about findings that are in fact overwhelmingly supported. This motivated deployment of fallibilism confuses the legitimate epistemic point that *in principle* scientific findings are…
 
 ## Reflection Prompts
 
-> [!reflection] **Reflect**
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > Before reading further, take a moment to identify a belief you currently hold with high confidence — something you feel certain about. It could be a scientific fact, a moral conviction, a professional judgment, or an everyday empirical claim. As you read, consider whether that belief could, in principle, be mistaken. What evidence would it take to revise it? Do you find the prospect of revision threatening or liberating? Noticing your starting intuitions about certainty will make the…
 
-> [!reflection] **Reflect**
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > 1. Which historical figure's version of epistemic caution resonates most with you — Socrates's method of relentless questioning, Peirce's community-based self-correction, or Popper's falsificationism? What does your intuitive response reveal about your own epistemic values?
 > 2. The distinction between fallibilism and scepticism is philosophically sharp, but in practice many people conflate them. Why do you think this conflation is so common? What cognitive or rhetorical tendencies might drive…
 
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> 1. Peirce and Popper both embrace fallibilism while offering quite different pictures of how inquiry progresses. Peirce emphasises convergence and community; Popper emphasises bold conjecture and rigorous refutation. Which picture feels more accurate to you, and why? Can they be reconciled?
+> 2. Quine's holism suggests that even our most fundamental logical principles are, in principle, revisable. Does this feel liberating or unsettling? What does your reaction tell you about how you conceive of…
+
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> Think of a belief you have held for several years — particularly one with some personal or professional significance. Have you actively sought out evidence against it? Have you spent comparable time with the best arguments for the opposing view as you have with arguments supporting your own position? If not, this is not a moral failing — it is confirmation bias operating as it does for virtually everyone. The question is whether knowing this changes how you approach the belief going forward.
+
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> 1. The defeater framework distinguishes rebutting defeaters (direct evidence against a belief) from undercutting defeaters (evidence against the justification for a belief). Which type of defeater do you find more compelling in practice? Can you recall an occasion when an undercutting defeater shifted your view on something, even though no new direct evidence about the target claim itself emerged?
+> 2. Marshall and Warren persisted in their H. pylori hypothesis against institutional resistance.…
+
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> 1. Dweck's growth mindset research suggests that students who embrace fallibility learn more effectively. Can you identify an intellectual domain — perhaps one where you have experienced significant personal development — where your growth was enabled precisely by your willingness to be wrong and revise? What made that openness possible?
+> 2. The distinction between legitimate fallibilism (maintaining that scientific findings could be revised) and motivated scepticism (strategically invoking…
+
+> [!reflection] **Reflect** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> 1. What is the single most important insight you've taken from this report? How does it change or deepen your prior understanding of how you know what you know?
+> 2. If you were to explain the essence of fallibilism to a colleague in three sentences, what would you say? Try it — and notice which aspects you find difficult to compress without distorting.
+> 3. The expansion topics in Phase VII suggest seven directions in which this foundation can be extended. Which one draws you most immediately?…
+
+## Concrete Examples
+
+> [!example] **Self-Correction in Practice: The Case of H. pylori** *(from [[fallibilism-foundational-report-2026-03-06]])*
+> For most of the twentieth century, the medical consensus held that stomach ulcers were caused by stress and excess acid. The gastric environment was considered too acidic to support bacterial life. In 1982, Australian physicians [[Barry-Marshall]] and [[Robin-Warren]] observed that most ulcer patients were infected with a spiral bacterium, *Helicobacter pylori*. Their claim was dismissed and their submitted papers rejected. Marshall famously drank a culture of H. pylori, developing gastritis, then treated himself with antibiotics. Over the following decade, increasingly rigorous evidence…
+
 ## Connections & Context
 
-**Cross-report connections:**
+**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
 - [[Fallibilism]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
@@ -160,7 +220,7 @@ importance: high
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 
 **Related concepts:**
-[[Fallibilism]] · [[epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+[[Fallibilism]] · [[Epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[pragmatism]] · [[Karl-Popper|Karl Popper]] · [[Falsificationism]] · [[W.V.O.-Quine|W.V.O. Quine]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Karl-Popper|Karl Popper]] · [[demarcation-problem|demarcation problem]] · [[Duhem-Quine-thesis|Duhem-Quine thesis]] · [[Thomas-Kuhn|Thomas Kuhn]] · [[W.V.O.-Quine|W.V.O. Quine]] · [[Epistemic-Holism|epistemic holism]] · [[epistemic-contextualism|epistemic contextualism]] · [[Stewart-Cohen|Stewart Cohen]] · [[David-Lewis|David Lewis]] · [[Virtue-Epistemology|Virtue epistemology]]
 
 ## References
 
@@ -169,10 +229,15 @@ importance: high
 - **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
 - **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
 - **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
+- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
+- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
+
+*Citations sourced from [[fallibilism-foundational-report-2026-03-06]]*
 
 ## Methodology Notes
 
-> [!methodology-and-sources] **Research Grounding for This Report**
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[fallibilism-foundational-report-2026-03-06]])*
 > This report synthesises the primary literature in epistemology and philosophy of science concerning fallibilism. It draws on the canonical texts of Peirce, Popper, Quine, and Dewey, and on secondary literature in virtue epistemology, contextualism, and educational philosophy. The historical narrative in Phase II is well established in the scholarly literature. The theoretical characterisations in Phase III represent the mainstream scholarly understanding of each framework, with genuine tensions and objections noted rather than flattened. The applications in Phase V draw on a combination of…
 
 ---

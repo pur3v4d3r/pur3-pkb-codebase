@@ -51,7 +51,7 @@ review-priority: medium
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 7 major sections covering all aspects of logical fallacies. Use the table of contents below for quick navigation, or search for specific fallacies using [[wiki-links]] (e.g., [[Ad Hominem]], [[Straw Man]]).
+> This reference note is organized into 7 major sections covering all aspects of logical fallacies. Use the table of contents below for quick navigation, or search for specific fallacies using [[wiki-links]] (e.g., [[Ad Hominem]], [[Straw-Man]]).
 
 # 📑 TABLE OF CONTENTS
 
@@ -212,7 +212,7 @@ The structure of modern digital communication platforms can amplify certain fall
 > **Real-World Applications**
 >
 > 1.  **Context**: Social Media (e.g., X/Twitter)
-> **Application**: Character limits and the fast pace of "the feed" make the [[Straw Man]] fallacy incredibly effective. It's easier to dunk on a simplified, misrepresentative version of an opponent's argument than to engage with its nuance. The [[Ad Populum]] (Bandwagon) fallacy is also amplified, where an idea's "virality" (likes/shares) is used as a proxy for its truth.
+> **Application**: Character limits and the fast pace of "the feed" make the [[Straw-Man]] fallacy incredibly effective. It's easier to dunk on a simplified, misrepresentative version of an opponent's argument than to engage with its nuance. The [[Ad Populum]] (Bandwagon) fallacy is also amplified, where an idea's "virality" (likes/shares) is used as a proxy for its truth.
 > 2.  **Context**: AI-Generated Content (e.g., LLMs)
 > **Application**: AI models can commit fallacies. A common one is a sophisticated **Appeal to Authority**. An AI, by stating information with confidence and a formal tone, acts as its own "authority." Because its knowledge is based on statistical patterns in data, it can also commit the **Post Hoc Ergo Propter Hoc** fallacy, presenting a correlation it found in its data as a causal relationship.
 > 3.  **Context**: Online Debates (e.g., Reddit/YouTube)
@@ -484,7 +484,7 @@ These fallacies rely on premises that are not logically relevant to the conclusi
 
 > [!definition]
 >
->   - **Key-Term**:[[Straw Man]]
+>   - **Key-Term**:[[Straw-Man]]
 >   - **Definition**:Misrepresenting, exaggerating, or fabricating an opponent's argument to make it easier to attack.
 > 
 > **Example**:
@@ -503,7 +503,7 @@ These fallacies rely on premises that are not logically relevant to the conclusi
 > 
 > **Example**: "While it's true that my company's environmental record is poor (original issue), you have to consider the economy\! Think of how many jobs we provide for this community (irrelevant topic)."
 >
-> **Flaw**: The issue of jobs, while important, is a separate conversation from the issue of the company's environmental record. It does not refute the original claim. (Compare with [[Straw Man]], which distorts the argument; a Red Herring *changes the subject*.)
+> **Flaw**: The issue of jobs, while important, is a separate conversation from the issue of the company's environmental record. It does not refute the original claim. (Compare with [[Straw-Man]], which distorts the argument; a Red Herring *changes the subject*.)
 
 ### 3.1.4 APPEAL TO AUTHORITY (ARGUMENTUM AD VERECUNDIAM)
 
@@ -679,7 +679,7 @@ These fallacies arise from the use of a word, phrase, or sentence structure that
 >
 >   - **Parent Topic**: [[Logic]], [[Rhetoric]], [[Critical-Thinking]]
 >   - **Sibling Topics**: [[as]], [[Argumentation-Theory]], [[Persuasion]]
->   - **Child Topics**: [[Ad Hominem]], [[Straw Man]], [[False Dilemma]] (and all other specific fallacies)
+>   - **Child Topics**: [[Ad Hominem]], [[Straw-Man]], [[False Dilemma]] (and all other specific fallacies)
 
 -----
 
@@ -705,8 +705,8 @@ Cognitive biases are often the *psychological cause* of logical fallacies.
 
 | Cognitive Bias (Thinking Error) | Can Lead To... | Logical Fallacy (Argument Error) |
 | :--- | :--- | :--- |
-| **[[Confirmation-Bias]]** (Tendency to favor info that confirms existing beliefs) | ... | **[[Hasty Generalization]]** (Cherry-picking data) or **[[Straw Man]]** (Ignoring an opponent's real argument) |
-| **[[Sunk Cost Fallacy]]** (Can't abandon a project due to past investment) | ... | **[[Appeal to Emotion]]** (Justifying a bad decision by lamenting the "waste" rather than using logic) |
+| **[[Confirmation-Bias]]** (Tendency to favor info that confirms existing beliefs) | ... | **[[Hasty Generalization]]** (Cherry-picking data) or **[[Straw-Man]]** (Ignoring an opponent's real argument) |
+| **[[Sunk-cost-fallacy]]** (Can't abandon a project due to past investment) | ... | **[[Appeal to Emotion]]** (Justifying a bad decision by lamenting the "waste" rather than using logic) |
 | **[[Availability-Heuristic]]** (Overestimating the importance of recent/vivid examples) | ... | **[[Hasty Generalization]]** (Basing a broad conclusion on a few memorable, but unrepresentative, examples) |
 | **[[Groupthink]]** (Desire for harmony leads to irrational consensus) | ... | **[[Bandwagon Fallacy]]** (Assuming the group's consensus must be correct) |
 
@@ -829,7 +829,7 @@ Cognitive biases are often the *psychological cause* of logical fallacies.
 └── **Internal link opportunities:**
 \* Each fallacy in the Table of Contents will link to its definition.
 \* [[Cognitive-Bias]] will be a major link from the Synthesis section.
-\* Within fallacy definitions, I will link to related fallacies. For example, [[Straw Man]] is related to [[Red Herring]] (both are fallacies of relevance/distraction). [[Post Hoc Ergo Propter Hoc]] will be linked as a specific *type* of [[False Cause]]. [[Begging the Question]] will be linked to [[Circular Reasoning]].
+\* Within fallacy definitions, I will link to related fallacies. For example, [[Straw-Man]] is related to [[Red Herring]] (both are fallacies of relevance/distraction). [[Post Hoc Ergo Propter Hoc]] will be linked as a specific *type* of [[False Cause]]. [[Begging the Question]] will be linked to [[Circular Reasoning]].
 
 -----
 

@@ -85,7 +85,7 @@ related_concepts:
   - "[[Chain of Density]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
-  - "[[Chain of Verification]]"
+  - "[[Chain-of-Verification]]"
   - "[[Quality Assurance Framework]]"
   - "[[Project Knowledge Integration]]"
   - "[[RAG Architecture]]"

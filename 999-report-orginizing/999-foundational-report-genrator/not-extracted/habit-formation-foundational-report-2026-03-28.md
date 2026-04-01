@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════
 title: "Habit Formation: Mechanisms, Theories, and Applications"
 aliases:
-  - "[[Habit Formation]]"
+  - "[[Habit-Formation|Habit Formation]]"
   - "[[Habit Science]]"
   - "[[Habit Loop]]"
   - "[[Behavioral Habit Research]]"
@@ -129,22 +129,22 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Cognitive Load Theory]]"
-  - "[[Memory Systems]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Memory-Systems|Memory Systems]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
 
 related:
   - "[[Automaticity]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Attribution Theory]]"
-  - "[[Growth Mindset]]"
-  - "[[Metacognitive Regulation]]"
+  - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Metacognitive-Regulation|Metacognitive Regulation]]"
   - "[[Volitional-Congruence]]"
 
 broader:
-  - "[[Cognitive Psychology Foundations]]"
+  - "[[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]"
   - "[[Behavioral-Modification]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
 
 narrower:
   - "[[Identity-Based-Habits]]"
@@ -171,10 +171,10 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive Load Theory]]"
-  - "[[Memory Systems]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Achievement Goal Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Memory-Systems|Memory Systems]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
 
 enables:
   - "[[Volitional-Congruence]]"
@@ -303,7 +303,7 @@ The distinction between [[habit]] and goal-directed action is foundational to th
 > **See also:** [[Behavioral-Modification]], [[Cortico-Striatal-Learning-Loops]], [[Schema-Theory]]
 
 > [!definition] **Routine**
-> The behavioral sequence that constitutes the habitual response itself — the "middle term" of the habit loop. Routines may be simple (a single motor gesture) or complex (an extended behavioral chain). What unifies them is that the entire sequence is packaged as a single executable unit in memory, typically through the process of chunking in the [[basal ganglia]].
+> The behavioral sequence that constitutes the habitual response itself — the "middle term" of the habit loop. Routines may be simple (a single motor gesture) or complex (an extended behavioral chain). What unifies them is that the entire sequence is packaged as a single executable unit in memory, typically through the process of chunking in the [[Basal-Ganglia|basal ganglia]].
 >
 > **See also:** [[Chunking]], [[Procedural-Memory]], [[Skill-Acquisition]]
 
@@ -383,7 +383,7 @@ This framework connects productively to the PKB's existing work on [[Growth-Mind
 
 ### The Cortico-Striatal Circuit and Neural Encoding of Habit
 
-The neurological basis of habit formation is now reasonably well understood at a functional level, primarily through decades of rodent research from Ann Graybiel's laboratory at MIT and the comparative work of Henry Yin and Barbara Knowlton. The key insight is that habitual behavior control shifts, with practice, from cortical systems (prefrontal cortex, hippocampus) to subcortical systems — specifically the [[Cortico-Striatal-Learning-Loops|dorsal striatum]], a region within the [[basal ganglia]].
+The neurological basis of habit formation is now reasonably well understood at a functional level, primarily through decades of rodent research from Ann Graybiel's laboratory at MIT and the comparative work of Henry Yin and Barbara Knowlton. The key insight is that habitual behavior control shifts, with practice, from cortical systems (prefrontal cortex, hippocampus) to subcortical systems — specifically the [[Cortico-Striatal-Learning-Loops|dorsal striatum]], a region within the [[Basal-Ganglia|basal ganglia]].
 
 > [!key-claim] **The Chunking Mechanism**
 > When a behavior is first learned, it is represented as a sequence of individual steps, each requiring attentional monitoring and motor planning. With repetition, the basal ganglia "chunk" the sequence into a single executable unit — marked by a start signal and a stop signal — that can be triggered as a whole. The internal steps of the chunk cease to be individually accessible to conscious monitoring; the entire routine executes as one piece. This is the neural substrate of what [[William-James]] described as habitual behavior becoming second nature.

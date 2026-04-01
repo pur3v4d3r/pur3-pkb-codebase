@@ -200,7 +200,7 @@ link-related:
 > - [[Bloom's-Taxonomy]]
 > - [[Argumentation-Theory]]
 > - [[Logic]]
-> - [[epistemology]]
+> - [[Epistemology]]
 > - [[Self-Regulated-Learning]]
 > - [[Reasoning]]
 > - [[Inference]]
@@ -1564,7 +1564,7 @@ The framework's discipline-neutral nature enables integration across fields:
 ### Strengths of the Framework
 
 #### Comprehensive Coverage
-The framework addresses cognitive (elements, standards) and affective (traits) dimensions, combining [[epistemology]], [[Logic]], and [[Virtue-Ethics]] into an integrated system. Its discipline-neutral terminology makes it applicable across all subjects, professions, and domains of life, allowing for shared understanding and discussion of critical thinking skills.
+The framework addresses cognitive (elements, standards) and affective (traits) dimensions, combining [[Epistemology]], [[Logic]], and [[Virtue-Ethics]] into an integrated system. Its discipline-neutral terminology makes it applicable across all subjects, professions, and domains of life, allowing for shared understanding and discussion of critical thinking skills.
 
 #### Systematic Structure
 The framework provides clear operational definitions and explicit criteria, moving critical thinking from vague aspiration to assessable skill set. It offers a common vocabulary for discussing, evaluating, and teaching critical thinking.

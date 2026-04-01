@@ -950,15 +950,15 @@ This developmental progression—from technical skill to character virtue—expl
 > 
 > **Logic and Argumentation**: Element analysis directly supports [[Argument-Analysis]], [[Premise-Conclusion-Structure]], [[Validity-and-Soundness]], and [[Informal-Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.
 > 
-> **Epistemology**: The Information and Inference elements connect to [[epistemology]], [[Justified-True-Belief]], [[Sources-of-Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
+> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified-True-Belief]], [[Sources-of-Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
 > 
 > **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring]], [[Self-Regulated-Learning]], and [[Reflective-Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 
-> **Scientific Reasoning**: Element analysis illuminates [[Scientific-Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
+> **Scientific Reasoning**: Element analysis illuminates [[Scientific-Method]], [[Hypothesis-Testing]], [[Experimental-Design]], and [[Theory-Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
 > 
-> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).
+> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical-Reasoning]], [[Moral-Philosophy]], and [[Applied-Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).
 > 
-> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
+> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual-Analysis]], and [[Historical-Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
 > 
 > **Cognitive Psychology**: The Elements align with findings in [[cognitive-psychology]], [[Heuristics and Biases]], [[Decision-Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
 > 

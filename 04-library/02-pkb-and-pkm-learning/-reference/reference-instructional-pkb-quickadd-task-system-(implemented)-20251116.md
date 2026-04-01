@@ -842,7 +842,7 @@ If you have existing tasks in daily notes:
 | Context | `[context:: @home/@work/@phone]` | GTD-style context filtering |
 | Estimate | `[estimated:: 2h]` | Time budgeting |
 | Assignee | `[assigned:: @person]` | Team task management |
-| Project | `[project:: [[Project Name]]]` | Roll-up queries |
+| Project | `[project:: [[Project-Name]]]` | Roll-up queries |
 
 **Implementation:** Add VALUE prompts to QuickAdd format:
 ```markdown
@@ -977,9 +977,9 @@ dv.taskList(unscheduled.limit(5), false);
    - *Depth Potential*: Complete DQL reference covering WHERE clauses, GROUP BY operations, functions, and DataviewJS for dynamic views
    - *Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard-Design]]
 
-4. **[[Time-Blocking Methodology]]**
+4. **[[Time-Blocking-Methodology]]**
    - *Connection*: Day Planner integration implements Cal Newport's time-blocking philosophy
-   - *Depth Potential*: Explore time-blocking research, cognitive benefits, implementation strategies, and integration with [[deep work]] principles
+   - *Depth Potential*: Explore time-blocking research, cognitive benefits, implementation strategies, and integration with [[deep-work]] principles
    - *Knowledge Graph Role*: Productivity methodology connecting [[Attention Management]], [[Calendar Blocking]], and [[Task Prioritization]]
 
 ---

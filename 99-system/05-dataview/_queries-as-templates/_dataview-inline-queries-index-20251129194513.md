@@ -229,11 +229,11 @@ Last reviewed on `= this.reviewed` by `= this.author`.
 
 ```markdown
 **Project Context**
-- Project Manager: `= [[Project Alpha]].manager`
-- Project Status: `= [[Project Alpha]].status`
-- Project Budget: $`= [[Project Alpha]].budget`
-- Team Size: `= length([[Project Alpha]].team-members)`
-- Completion: `= [[Project Alpha]].completion`%
+- Project Manager: `= [[Project-Alpha]].manager`
+- Project Status: `= [[Project-Alpha]].status`
+- Project Budget: $`= [[Project-Alpha]].budget`
+- Team Size: `= length([[Project-Alpha]].team-members)`
+- Completion: `= [[Project-Alpha]].completion`%
 ```
 
 ### 4.2 Calculated Cross-Note Values
@@ -242,10 +242,10 @@ Last reviewed on `= this.reviewed` by `= this.author`.
 
 ```markdown
 **Derived Metrics**
-- Budget Remaining: $`= [[Project Alpha]].budget - [[Project Alpha]].spent`
-- Budget Utilization: `= round(([[Project Alpha]].spent / [[Project Alpha]].budget) * 100, 1)`%
-- Days Since Project Start: `= (date(today) - [[Project Alpha]].start-date).days`
-- Estimated Days Remaining: `= ([[Project Alpha]].deadline - date(today)).days`
+- Budget Remaining: $`= [[Project-Alpha]].budget - [[Project-Alpha]].spent`
+- Budget Utilization: `= round(([[Project-Alpha]].spent / [[Project-Alpha]].budget) * 100, 1)`%
+- Days Since Project Start: `= (date(today) - [[Project-Alpha]].start-date).days`
+- Estimated Days Remaining: `= ([[Project-Alpha]].deadline - date(today)).days`
 ```
 
 ### 4.3 Multi-Note Aggregation

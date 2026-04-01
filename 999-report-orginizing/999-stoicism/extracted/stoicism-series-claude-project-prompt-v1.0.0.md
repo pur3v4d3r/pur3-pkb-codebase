@@ -68,7 +68,7 @@ related_concepts:
   - "[[Emotional Resilience]]"
   - "[[Virtue-Ethics]]"
   - "[[Metacognition]]"
-  - "[[PKB Architecture]]"
+  - "[[PKB-Architecture]]"
 
 # GOVERNANCE & VERSIONING
 stability: "stable"
@@ -329,7 +329,7 @@ Callouts must be **purposeful and semantically precise** — never decorative. U
 Standard wiki-linking targets for all reports:
 - All four major Stoics: [[Marcus-Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]
 - Core Stoic concepts: [[Dichotomy-of-Control]], [[Virtue-Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]
-- Psychological frameworks: [[Cognitive-Behavioral-Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]
+- Psychological frameworks: [[Cognitive-Behavioral-Therapy]], [[Mindfulness]], [[Emotional-Regulation]], [[Resilience]]
 - Series nodes: [[Stoicism MOC]], [[Stoicism Series Overview]]
 - Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]
 
@@ -1065,7 +1065,7 @@ The series follows a three-phase arc:
 - [[Logos]]: The rational principle underlying the cosmos; the universal reason in which all beings participate
 - [[Prohairesis]]: The faculty of rational choice; the seat of moral character; what is genuinely "ours"
 - [[Virtue]]: The only true good; the four cardinal Stoic virtues are wisdom (sophia), justice (dikaiosynē), courage (andreia), and temperance (sōphrosynē)
-- [[Preferred Indifferents]]: Things valuable but not constitutive of the good life — health, wealth, reputation
+- [[Preferred-Indifferents]]: Things valuable but not constitutive of the good life — health, wealth, reputation
 - [[Eudaimonia]]: Flourishing, often mistranslated as "happiness" — better understood as living in accordance with reason and virtue
 
 **Recurring Structure Elements**: Each report should include — at minimum — at least one direct quotation from a primary Stoic text, at least one practical exercise, and at least one connection to modern psychology or science. This gives the series a consistent character even as individual scaffolds vary.

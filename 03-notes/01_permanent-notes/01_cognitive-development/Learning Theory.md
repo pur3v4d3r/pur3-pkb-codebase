@@ -51,7 +51,7 @@ link-related:
   - "[[Educational-Psychology]]"
   - "[[Heutagogy]]"
   - "[[Illusions Of Comprehension]]"
-  - "[[Information Theory]]"
+  - "[[Information-Theory]]"
   - "[[Instructional-Design]]"
   - "[[Intrinsic-Motivation]]"
   - "[[Kolb's-Experiential-Learning-Cycle]]"
@@ -207,7 +207,7 @@ LIMIT 10
 ### Direct Connections
 - [[Concept-1]]
 - [[Concept-2]]
-- [[Concept 3]]
+- [[Concept-3]]
 
 ## Practical Applications
 

@@ -321,7 +321,7 @@ extraction_summary:
 #### 31. [ORIGINAL-SYNTHESIS] Untitled *(Line 405)*
 
 > [!original-synthesis] Untitled
-> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] (Clark & Chalmers), [[Zone-of-Proximal-Development|Zone of Proximal Development]] (Vygotsky), [[Desirable-Difficulties|Desirable Difficulties]] (Bjork et al.), and [[Constructivism]] (from [[Report 03]]) into a coherent design philosophy with four structural components.
+> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] (Clark & Chalmers), [[Zone-of-Proximal-Development|Zone of Proximal Development]] (Vygotsky), [[Desirable-Difficulties|Desirable Difficulties]] (Bjork et al.), and [[Constructivism]] (from [[Report-03]]) into a coherent design philosophy with four structural components.
 > 
 > **Component 1: Partnership, Not Delegation.** The user remains the primary cognitive agent in the knowledge-building process. AI participates as a thinking partner — contributing capacity, challenge, and synthesis — but does not replace the user's constructive engagement. The diagnostic test: after every AI-assisted work session, ask whether you *understand* something you didn't before, or whether you merely *have information* that you received. Partnership produces understanding; delegation produces information.
 > 
@@ -572,7 +572,7 @@ extraction_summary:
 - [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02: The Architecture of Learning]]
-- [[Report 03]]
+- [[Report-03]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 06: The Science of Remembering]]
@@ -660,7 +660,7 @@ extraction_summary:
 | 54 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Cognitive Partnership Model | 406 |
 | 55 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Cognitive Partnership Model | 406 |
 | 56 | [[Constructivism]] | — | — | The Cognitive Partnership Model | 406 |
-| 57 | [[Report 03]] | — | — | The Cognitive Partnership Model | 406 |
+| 57 | [[Report-03]] | — | — | The Cognitive Partnership Model | 406 |
 | 58 | [[Report 14]] | — | — | The Cognitive Partnership Model | 410 |
 | 59 | [[Scaffolding and Fading]] | — | — | The Cognitive Partnership Model | 412 |
 | 60 | [[Report 10]] | — | — | The Cognitive Partnership Model | 412 |
@@ -762,7 +762,7 @@ extraction_summary:
 - [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02: The Architecture of Learning]]
-- [[Report 03]]
+- [[Report-03]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 06: The Science of Remembering]]

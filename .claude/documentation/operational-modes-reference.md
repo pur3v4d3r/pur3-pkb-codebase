@@ -181,7 +181,7 @@ modified: YYYY-MM-DD
 
 **2. Wiki-Link Integration**
 - Identify all linkable concepts using discovery heuristic
-- Format as `[[Wiki-Link]]`
+- Format as `[[wiki-link]]`
 - Target density appropriate to note type
 - Prioritize graph connectivity over sparse isolation
 
@@ -343,7 +343,7 @@ Run mental pre-delivery checklist:
 The most common violation. Never create without checking. Duplication degrades graph quality and search effectiveness.
 
 **2. Under-Linking**
-Sparse wiki-links create isolated graph nodes. If a concept merits 2+ sentences of explanation, it merits a `[[Wiki-Link]]`.
+Sparse wiki-links create isolated graph nodes. If a concept merits 2+ sentences of explanation, it merits a `[[wiki-link]]`.
 
 **3. Metadata After Title**
 User feedback emphasized: YAML frontmatter MUST be at absolute top of file. Dataview cannot parse metadata placed below the title.

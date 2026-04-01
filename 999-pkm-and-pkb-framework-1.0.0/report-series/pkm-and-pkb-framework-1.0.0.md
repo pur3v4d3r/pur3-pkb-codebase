@@ -92,7 +92,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
 
 **Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design**
-- **Synthesis Focus**: How do [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[Interleaving]], and [[Desirable-Difficulties|Desirable Difficulties]] research combine with [[Encoding-Specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
+- **Synthesis Focus**: How do [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[interleaving]], and [[Desirable-Difficulties|Desirable Difficulties]] research combine with [[Encoding-Specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
 - **Disciplines**: Cognitive Psychology (memory research), Psychology of Learning (spacing, testing), Educational Psychology (transfer), Knowledge Management (retrieval systems)
 - **PKM/PKB Design Target**: Spaced repetition integration, active recall workflows, interleaved review, retrieval practice embedded in PKB
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
@@ -151,7 +151,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Tag system architecture, emergent vs. imposed structure, scalable organization patterns
 
 **Report 16: Desirable Difficulties by Design — Making PKM Productively Hard**
-- **Synthesis Focus**: How do [[Desirable-Difficulties|Desirable Difficulties]], [[Generation-Effect|Generation Effect]], [[Interleaving]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
+- **Synthesis Focus**: How do [[Desirable-Difficulties|Desirable Difficulties]], [[Generation-Effect|Generation Effect]], [[interleaving]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
 - **Disciplines**: Psychology of Learning, Cognitive Psychology, Constructivism, Instructional Design
 - **PKM/PKB Design Target**: Effortful processing workflows, generation-based review, interleaved study paths
 
@@ -595,7 +595,7 @@ related_concepts:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Pragmatism]]"
+  - "[[pragmatism]]"
   - "[[Stoic-Philosophy|Stoic Philosophy]]"
   - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Knowledge Organization]]"
@@ -905,11 +905,11 @@ Every report draws from a core set of disciplines, using them as complementary l
 | **[[Cognitive-Science|Cognitive Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process-Theory|Dual-Process Theory]], [[Working-Memory|Working Memory]], [[Cognitive-Architecture|Cognitive Architecture]] |
 | **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory|Schema Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Encoding-Specificity|Encoding Specificity]] |
 | **[[Educational-Psychology|Educational Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Transfer]] |
-| **[[Educational-Philosophy|Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
+| **[[Educational-Philosophy|Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
 | **[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory|Elaboration Theory]] |
 | **[[Learning-Experience-Design|Learning Experience Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
 | **[[Knowledge-Management|Knowledge Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model|SECI Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]] |
-| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[Interleaving]], [[Desirable-Difficulties|Desirable Difficulties]] |
+| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[interleaving]], [[Desirable-Difficulties|Desirable Difficulties]] |
 | **[[Stoic-Philosophy|Stoic Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy-of-Control|Dichotomy of Control]], [[Premeditatio-Malorum|Premeditatio Malorum]], [[Virtue-Ethics]] |
 | **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[Socratic-Method-Elenchus|Socratic Method]], [[Socratic-Method-Elenchus|Elenchus]], [[Aporia]] |
 | **[[Metacognition]]** | Thinking about thinking, self-monitoring, calibration | [[Metacognitive-Regulation|Metacognitive Regulation]], [[Calibration]], [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] |
@@ -1699,7 +1699,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
 
 **Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design**
-- **Synthesis Focus**: How do [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[Interleaving]], and [[Desirable-Difficulties|Desirable Difficulties]] research combine with [[Encoding-Specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
+- **Synthesis Focus**: How do [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[interleaving]], and [[Desirable-Difficulties|Desirable Difficulties]] research combine with [[Encoding-Specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
 - **Disciplines**: Cognitive Psychology (memory research), Psychology of Learning (spacing, testing), Educational Psychology (transfer), Knowledge Management (retrieval systems)
 - **PKM/PKB Design Target**: Spaced repetition integration, active recall workflows, interleaved review, retrieval practice embedded in PKB
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
@@ -1758,7 +1758,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Tag system architecture, emergent vs. imposed structure, scalable organization patterns
 
 **Report 16: Desirable Difficulties by Design — Making PKM Productively Hard**
-- **Synthesis Focus**: How do [[Desirable-Difficulties|Desirable Difficulties]], [[Generation-Effect|Generation Effect]], [[Interleaving]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
+- **Synthesis Focus**: How do [[Desirable-Difficulties|Desirable Difficulties]], [[Generation-Effect|Generation Effect]], [[interleaving]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
 - **Disciplines**: Psychology of Learning, Cognitive Psychology, Constructivism, Instructional Design
 - **PKM/PKB Design Target**: Effortful processing workflows, generation-based review, interleaved study paths
 
@@ -4936,7 +4936,7 @@ prerequisites:
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
-  - "[[Metacognitive Awareness Inventory]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
   - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
@@ -4967,15 +4967,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise Development]]"
-  - "[[Reflective Judgment Model]]"
+  - "[[Expertise-Development]]"
+  - "[[Reflective-Judgment-Model]]"
   - "[[Intellectual-Humility|Intellectual Humility]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping|Argument Mapping]]"
   - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem Analysis]]"
-  - "[[Red Team Thinking]]"
-  - "[[Cognitive Forcing Functions]]"
+  - "[[Pre-Mortem-Analysis]]"
+  - "[[Red-Team-Thinking]]"
+  - "[[Cognitive-Forcing-Functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"

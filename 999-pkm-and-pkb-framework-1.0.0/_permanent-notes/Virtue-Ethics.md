@@ -2,9 +2,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Virtue-Ethics"
+title: "Virtue Ethics"
 aliases:
-  - "Virtue-Ethics"
   - "Virtue Ethics"
 type: permanent-note
 status: seedling
@@ -24,41 +23,66 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 32
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
-  - "[[Core-Definition-Epistemic-Vigilance]]"
-  - "[[The-Stoic-Core-Insight]]"
+  - "[[Analogical-Representation]]"
+  - "[[Assumption-5-RuleModel-Dichotomy]]"
+  - "[[Attribution-Retraining]]"
+  - "[[Attribution-Theory]]"
+  - "[[Autonomy]]"
+  - "[[Autonomy-Support]]"
+  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
+  - "[[Basic-Psychological-Needs]]"
+  - "[[Core-Concept-Definition]]"
+  - "[[Dissolved-Assumption]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: high
 ---
 
-# Virtue-Ethics
+# Virtue Ethics
 
-> [!definition] **Virtue-Ethics**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Virtue Ethics**
+> *Stub note — concept referenced by 32 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 32 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
-- [[Core-Definition-Epistemic-Vigilance]]
-- [[The-Stoic-Core-Insight]]
+- [[Analogical-Representation]]
+- [[Assumption-5-RuleModel-Dichotomy]]
+- [[Attribution-Retraining]]
+- [[Attribution-Theory]]
+- [[Autonomy]]
+- [[Autonomy-Support]]
+- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
+- [[Basic-Psychological-Needs]]
+- [[Core-Concept-Definition]]
+- [[Dissolved-Assumption]]
+- [[Entity-Theory-of-Intelligence]]
+- [[Fixed-Mindset]]
+- [[Goal-Orientation]]
+- [[Growth-Mindset]]
+- [[Incremental-Theory-of-Intelligence]]
+- [[Internalization-Continuum]]
+- [[Intrinsic-Motivation]]
+- [[Mastery-Experience]]
+- [[Mental-Model]]
+- [[Mindset-Intervention]]
+- *...and 12 more permanent notes*

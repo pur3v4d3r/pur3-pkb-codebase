@@ -46,7 +46,7 @@ The user is requesting topic generation within the domain of **Socratic Thinking
    - Cognitive science research on questioning techniques
 
 4. **PKB Integration Potential**: ✅ EXCEPTIONAL
-   - Will connect to: [[Critical-Thinking]], [[epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[Philosophy of Education]], [[Informal Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
+   - Will connect to: [[Critical-Thinking]], [[Epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[Philosophy of Education]], [[Informal Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
    - Multiple cross-domain connections: philosophy, education, psychology, law, leadership
 
 5. **Conceptual Complexity**: ✅ HIGH
@@ -307,7 +307,7 @@ The Socratic Fallacy debate is like arguing whether you need to **read the sourc
 3. **[[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]]**
    - *Connection*: Socrates' famous claim "I know that I know nothing" appears to endorse skepticism, but actually establishes a sophisticated epistemological position distinct from ancient Skeptics (Pyrrho, Sextus Empiricus) who suspended judgment entirely.
    - *Depth Potential*: 1800-3000 words analyzing the difference between Socratic awareness of ignorance (which motivates inquiry) vs. Academic/Pyrrhonian skepticism (which may paralyze inquiry), including modern implications for intellectual humility and Dunning-Kruger effect.
-   - *Knowledge Graph Role*: Connects [[Socratic Philosophy]], [[Ancient Skepticism]], [[epistemology]], [[Intellectual-Virtues]], and [[Cognitive-Biases]]; essential for understanding limits and possibilities of human knowledge.
+   - *Knowledge Graph Role*: Connects [[Socratic Philosophy]], [[Ancient Skepticism]], [[Epistemology]], [[Intellectual-Virtues]], and [[Cognitive-Biases]]; essential for understanding limits and possibilities of human knowledge.
 
 4. **[[The Socratic Method in Legal Education - Langdell's Case Method and Its Critiques]]**
    - *Connection*: Christopher Columbus Langdell adapted Socratic questioning for Harvard Law School in the 1870s, creating the "case method" where professors interrogate students about legal principles through hypothetical scenarios—a technique both celebrated and criticized for its intellectual rigor and psychological pressure.

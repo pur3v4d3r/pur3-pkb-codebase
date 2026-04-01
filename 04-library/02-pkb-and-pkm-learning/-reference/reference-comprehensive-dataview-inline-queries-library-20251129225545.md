@@ -710,7 +710,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ### 📎 Basic Link Field Access
 
 ```markdown
-**Project Status**: `= [[Project Alpha]].status`
+**Project Status**: `= [[Project-Alpha]].status`
 **Author Name**: `= [[Book Note]].author`
 **Creation Date**: `= [[Reference]].file.ctime`
 **Tag List**: `= [[Related-Note]].file.tags`

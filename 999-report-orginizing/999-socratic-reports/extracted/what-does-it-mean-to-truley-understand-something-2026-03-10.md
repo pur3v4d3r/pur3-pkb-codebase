@@ -78,7 +78,7 @@ document-features:
   analytical-interludes: 6
   reflective-questions: 12
 
-generation-prompt: "[[Socratic Dialogue Report Generator v1.0]]"
+generation-prompt: "[[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]]"
 
 prerequisites:
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
@@ -87,14 +87,14 @@ prerequisites:
 
 builds_on:
   - "[[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]"
-  - "[[Socratic Dialogue Report Generator v1.0]]"
+  - "[[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]]"
 
 aliases:
   - "[[Understanding — Socratic Dialogue]]"
   - "[[What Does It Mean to Understand]]"
   - "[[The Nature of Understanding — Dialogue]]"
 
-link_up: "[[Epistemology MOC]]"
+link_up: "[[Epistemology-MOC|Epistemology MOC]]"
 link_down: []
 link_related:
   - "[[Tacit-Knowledge|Tacit Knowledge (Polanyi)]]"
@@ -480,5 +480,5 @@ keywords:
 
 ---
 
-*Generated using the [[Socratic Dialogue Report Generator v1.0]] | Report filed under [[Epistemology MOC]] | Cross-reference with [[Foundational Report: Philosophy of Mind]] and [[First Principles: What Is Knowledge?]]*
+*Generated using the [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]] | Report filed under [[Epistemology-MOC|Epistemology MOC]] | Cross-reference with [[Foundational-Report-Philosophy-of-Mind|Foundational Report: Philosophy of Mind]] and [[First-Principles-What-Is-Knowledge|First Principles: What Is Knowledge?]]*
 

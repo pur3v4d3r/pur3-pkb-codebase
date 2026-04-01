@@ -172,7 +172,7 @@ extraction_summary:
 #### 5. [CROSS-DOMAIN-CONNECTION] Situated Cognition Meets Deweyan Pragmatism *(Line 162)*
 
 > [!cross-domain-connection] Situated Cognition Meets Deweyan Pragmatism
-> The situated cognition framework and John Dewey's [[Pragmatism]] are structurally identical at a deep level, though they arrived at their shared conclusion through very different routes. Dewey's pragmatic maxim — that the meaning of a concept is exhausted by its possible practical consequences — implies that knowledge is inherently action-oriented: to know something is to know what it enables you to do, not merely to possess a verbal or symbolic formulation. Lave and Wenger arrived at a closely parallel position through anthropological fieldwork rather than philosophical argument: they observed that genuine knowing is constituted in and through practice. Both traditions converge on a claim that standard PKM practice violates: that knowledge divorced from its action contexts is, in an important sense, not yet fully knowledge. This convergence is not coincidental. It suggests that the transfer problem is a structural feature of treating knowledge as an object that can be stored independently of the contexts that give it meaning and deployability.
+> The situated cognition framework and John Dewey's [[pragmatism]] are structurally identical at a deep level, though they arrived at their shared conclusion through very different routes. Dewey's pragmatic maxim — that the meaning of a concept is exhausted by its possible practical consequences — implies that knowledge is inherently action-oriented: to know something is to know what it enables you to do, not merely to possess a verbal or symbolic formulation. Lave and Wenger arrived at a closely parallel position through anthropological fieldwork rather than philosophical argument: they observed that genuine knowing is constituted in and through practice. Both traditions converge on a claim that standard PKM practice violates: that knowledge divorced from its action contexts is, in an important sense, not yet fully knowledge. This convergence is not coincidental. It suggests that the transfer problem is a structural feature of treating knowledge as an object that can be stored independently of the contexts that give it meaning and deployability.
 
 #### 6. [DEFINITION] Encoding Specificity Principle (Cognitive Psychology; Tulving & Thomson 1973) *(Line 169)*
 
@@ -237,7 +237,7 @@ extraction_summary:
 #### 18. [CROSS-DOMAIN-CONNECTION] Schema Theory and Conditionalization: The Missing Slot *(Line 249)*
 
 > [!cross-domain-connection] Schema Theory and Conditionalization: The Missing Slot
-> Return to [[Report 03]]'s treatment of Schema Theory and Rumelhart's variable-slot architecture. A schema has slots that are filled by specific instances: the RESTAURANT schema has slots for HOST, MENU, FOOD, BILL. A fully elaborated schema for a learned principle should include a CONDITIONS slot — the situations in which the principle is applicable — and a FAILURE-MODE slot — the situations in which it is not, or generates negative transfer. Most PKB notes only fill the PRINCIPLE slot, perhaps an EXAMPLE slot, and occasionally an IMPLICATION slot. The CONDITIONS slot is routinely left empty. The encoding specificity principle predicts exactly what happens as a result: the knowledge can be retrieved in contexts that resemble its encoding context but cannot be activated by the *problem types* it is actually relevant to, because problem-type cues were never encoded. The fix is not just to add examples (that fills the EXAMPLE slot) but to explicitly articulate the class of problems the principle addresses.
+> Return to [[Report-03]]'s treatment of Schema Theory and Rumelhart's variable-slot architecture. A schema has slots that are filled by specific instances: the RESTAURANT schema has slots for HOST, MENU, FOOD, BILL. A fully elaborated schema for a learned principle should include a CONDITIONS slot — the situations in which the principle is applicable — and a FAILURE-MODE slot — the situations in which it is not, or generates negative transfer. Most PKB notes only fill the PRINCIPLE slot, perhaps an EXAMPLE slot, and occasionally an IMPLICATION slot. The CONDITIONS slot is routinely left empty. The encoding specificity principle predicts exactly what happens as a result: the knowledge can be retrieved in contexts that resemble its encoding context but cannot be activated by the *problem types* it is actually relevant to, because problem-type cues were never encoded. The fix is not just to add examples (that fills the EXAMPLE slot) but to explicitly articulate the class of problems the principle addresses.
 
 #### 19. [ANALYTICAL-INSIGHT] The Backward Note-Taking Problem *(Line 258)*
 
@@ -511,7 +511,7 @@ extraction_summary:
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Encoding-Specificity|Encoding Specificity]]
 - [[Encoding-Variability|Encoding Variability]]
-- [[Endel Tulving]]
+- [[Endel-Tulving]]
 - [[Etienne Wenger]]
 - [[Expected Value Theory]]
 - [[Exploitative versus Exploratory Strategies]]
@@ -519,22 +519,22 @@ extraction_summary:
 - [[Gentner]]
 - [[Inert-Knowledge|Inert Knowledge]]
 - [[Jean Lave]]
-- [[John Bransford]]
+- [[John-Bransford]]
 - [[John Seely Brown]]
 - [[Kapur]]
-- [[Keith Holyoak]]
+- [[Keith-Holyoak]]
 - [[Lave and Wenger]]
 - [[Manu-Kapur]]
 - [[Mimetic Desire]]
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
 - [[Productive-Failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
 - [[Reigeluth]]
-- [[Report 03]]
+- [[Report-03]]
 - [[Report 03: Constructing Understanding]]
 - [[Report-06]]
 - [[Report 06: The Science of Remembering]]
@@ -578,7 +578,7 @@ extraction_summary:
 | 8 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 9 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 10 | [[Dewey]] | — | — | The Most Expensive Failure in Persona... | 124 |
-| 11 | [[Pragmatism]] | — | — | The Most Expensive Failure in Persona... | 124 |
+| 11 | [[pragmatism]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 12 | [[Educational-Philosophy|Educational Philosophy]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 13 | [[Report 03: Constructing Understanding]] | — | — | The Most Expensive Failure in Persona... | 130 |
 | 14 | [[Report 06: The Science of Remembering]] | — | — | The Most Expensive Failure in Persona... | 130 |
@@ -590,7 +590,7 @@ extraction_summary:
 | 20 | [[Report 25]] | — | — | The Most Expensive Failure in Persona... | 130 |
 | 21 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Transfer of Learning: The Core Taxonomy | 141 |
 | 22 | [[Edward-Thorndike|Edward Thorndike]] | — | — | Transfer of Learning: The Core Taxonomy | 146 |
-| 23 | [[John Bransford]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
+| 23 | [[John-Bransford]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
 | 24 | [[Sequestered Problem Solving]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
 | 25 | [[Preparation-for-Future-Learning|Preparation for Future Learning]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
 | 26 | [[Situated-Cognition|Situated Cognition]] | — | — | Situated Cognition: Knowledge Is Neve... | 155 |
@@ -599,18 +599,18 @@ extraction_summary:
 | 29 | [[John Seely Brown]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 30 | [[Allan-Collins|Allan Collins]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 31 | [[Paul Duguid]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
-| 32 | [[Pragmatism]] | — | — | Situated Cognition: Knowledge Is Neve... | 163 |
+| 32 | [[pragmatism]] | — | — | Situated Cognition: Knowledge Is Neve... | 163 |
 | 33 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Encoding Specificity and Encoding Var... | 167 |
 | 34 | [[Encoding-Variability|Encoding Variability]] | — | — | Encoding Specificity and Encoding Var... | 167 |
-| 35 | [[Endel Tulving]] | — | — | Encoding Specificity and Encoding Var... | 172 |
+| 35 | [[Endel-Tulving]] | — | — | Encoding Specificity and Encoding Var... | 172 |
 | 36 | [[Duncan-Godden|Duncan Godden]] | — | — | Encoding Specificity and Encoding Var... | 172 |
 | 37 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Encoding Specificity and Encoding Var... | 172 |
 | 38 | [[Richard Gick]] | — | — | The Evidence for Transfer Failure | 196 |
-| 39 | [[Keith Holyoak]] | — | — | The Evidence for Transfer Failure | 196 |
+| 39 | [[Keith-Holyoak]] | — | — | The Evidence for Transfer Failure | 196 |
 | 40 | [[Dedre-Gentner|Dedre Gentner]] | — | — | The Evidence for Transfer Failure | 198 |
 | 41 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | The Evidence for Transfer Failure | 198 |
 | 42 | [[Situated-Cognition|Situated Cognition]] | — | — | The Evidence for Transfer Failure | 203 |
-| 43 | [[John Bransford]] | — | — | What Facilitates Transfer: The Positi... | 212 |
+| 43 | [[John-Bransford]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 44 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 45 | [[Preparation-for-Future-Learning|Preparation for Future Learning]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 46 | [[Manu-Kapur]] | — | — | What Facilitates Transfer: The Positi... | 214 |
@@ -620,8 +620,8 @@ extraction_summary:
 | 50 | [[Exploitative versus Exploratory Strategies]] | — | — | The Three-Layer Context Problem | 245 |
 | 51 | [[Report 07]] | — | — | The Three-Layer Context Problem | 247 |
 | 52 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]] | — | — | The Three-Layer Context Problem | 247 |
-| 53 | [[Report 03]] | — | — | The Three-Layer Context Problem | 250 |
-| 54 | [[Report 03]] | — | — | The Return of Elaboration Theory | 254 |
+| 53 | [[Report-03]] | — | — | The Three-Layer Context Problem | 250 |
+| 54 | [[Report-03]] | — | — | The Return of Elaboration Theory | 254 |
 | 55 | [[Reigeluth]] | — | — | The Return of Elaboration Theory | 254 |
 | 56 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Return of Elaboration Theory | 254 |
 | 57 | [[Kapur]] | — | — | The Productive Failure Mechanism | 263 |
@@ -629,7 +629,7 @@ extraction_summary:
 | 59 | [[Expected Value Theory]] | — | — | The Productive Failure Mechanism | 266 |
 | 60 | [[Mimetic Desire]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
 | 61 | [[Social Proof]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
-| 62 | [[Pragmatism]] | — | — | The Pragmatist Account of What Must C... | 283 |
+| 62 | [[pragmatism]] | — | — | The Pragmatist Account of What Must C... | 283 |
 | 63 | [[Nash-Equilibria|Nash Equilibria]] | — | — | Design Principle 2: Structural Linkin... | 309 |
 | 64 | [[Nash-Equilibria|Nash Equilibria]] | — | — | Design Principle 2: Structural Linkin... | 309 |
 | 65 | [[Encoding-Variability|Encoding Variability]] | — | — | Design Principle 3: Multiple Context ... | 313 |
@@ -639,7 +639,7 @@ extraction_summary:
 | 69 | [[Lave and Wenger]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 70 | [[Gentner]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 71 | [[Dewey]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
-| 72 | [[Report 03]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
+| 72 | [[Report-03]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
 | 73 | [[Schema-Theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
 | 74 | [[Report 03: Constructing Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 75 | [[Report 06: The Science of Remembering]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
@@ -711,7 +711,7 @@ extraction_summary:
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Encoding-Specificity|Encoding Specificity]]
 - [[Encoding-Variability|Encoding Variability]]
-- [[Endel Tulving]]
+- [[Endel-Tulving]]
 - [[Etienne Wenger]]
 - [[Expected Value Theory]]
 - [[Exploitative versus Exploratory Strategies]]
@@ -719,22 +719,22 @@ extraction_summary:
 - [[Gentner]]
 - [[Inert-Knowledge|Inert Knowledge]]
 - [[Jean Lave]]
-- [[John Bransford]]
+- [[John-Bransford]]
 - [[John Seely Brown]]
 - [[Kapur]]
-- [[Keith Holyoak]]
+- [[Keith-Holyoak]]
 - [[Lave and Wenger]]
 - [[Manu-Kapur]]
 - [[Mimetic Desire]]
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
 - [[Productive-Failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
 - [[Reigeluth]]
-- [[Report 03]]
+- [[Report-03]]
 - [[Report 03: Constructing Understanding]]
 - [[Report-06]]
 - [[Report 06: The Science of Remembering]]

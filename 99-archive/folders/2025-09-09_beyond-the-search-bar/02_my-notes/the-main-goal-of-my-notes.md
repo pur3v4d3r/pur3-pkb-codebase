@@ -16,7 +16,7 @@ summary: This note emphasizes the importance of active engagement with material 
 - [[Active Note-Taking]]
 - [[Knowledge Retention]]
 - [[Neural Pathways]]
-- [[Information Processing]]
+- [[information-processing]]
 - [[Note Review]]
 > [!INFO] Active Participation & Selectivity
 > Is to be selective at what I'm choosing to write down and how I choose to write. I MUST ACTIVLY participate with the material.

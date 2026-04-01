@@ -33,8 +33,8 @@ link-up:
   - "[[pkb-&-pkm-moc]]"
 link-related:
   - "[[Stoicism]]"
-  - "[[epistemology]]"
-  - "[[Pragmatism]]"
+  - "[[Epistemology]]"
+  - "[[pragmatism]]"
 philosophy-filter: all
 ---
 
@@ -114,7 +114,7 @@ for (let [domain, count] of Object.entries(domains)) {
 > [!principle-point] Core Doctrine
 > [**Stoicism-Core-Principle**:: The distinction between what is "up to us" (ἐφ' ἡμῖν) and what is not—our judgments, impulses, desires, and aversions versus external circumstances, others' actions, and outcomes beyond our control.]
 
-[[Stoicism]] represents the philosophical backbone of this practical philosophy collection. The [[Stoic-Philosophy]] tradition offers systematic techniques for [[emotional regulation]], [[cognitive reframing]], and [[virtue cultivation]].
+[[Stoicism]] represents the philosophical backbone of this practical philosophy collection. The [[Stoic-Philosophy]] tradition offers systematic techniques for [[Emotional-Regulation]], [[cognitive reframing]], and [[virtue cultivation]].
 
 ### 🔗 Stoic Concept Network
 
@@ -191,7 +191,7 @@ if (stoicPages.length > 0) {
 > [!principle-point] Domain Focus
 > [**Philosophy-of-Mind-Scope**:: The examination of mental phenomena—consciousness, intentionality, perception, and cognition—particularly as they relate to practical wisdom and self-understanding.]
 
-This branch explores the intersection of [[Philosophy of Mind]] with practical application, emphasizing how understanding mental processes enables better [[Self-Regulation]] and [[Metacognition]].
+This branch explores the intersection of [[philosophy-of-mind]] with practical application, emphasizing how understanding mental processes enables better [[Self-Regulation]] and [[Metacognition]].
 
 ### 🔗 Mind Philosophy Network
 
@@ -217,7 +217,7 @@ if (mindPages.length > 0) {
 #### 📚 Core Mind Concepts
 
 **Foundational:**
-- [[Philosophy of Mind]] — *Domain overview*
+- [[philosophy-of-mind]] — *Domain overview*
 - [[Stoic-Philosophy]] — *Ancient mind theory*
 - [[Socratic-Method]] — *Dialectical inquiry*
 - [[Socratic Thinking]] — *Applied questioning*
@@ -236,7 +236,7 @@ if (mindPages.length > 0) {
 > [!principle-point] Domain Focus  
 > [**Epistemology-Practical-Focus**:: The study of knowledge, belief, and justification—particularly as applied to evaluating information sources, calibrating confidence levels, and maintaining intellectual honesty in personal knowledge work.]
 
-[[epistemology]] grounds our [[PKM]] practice in philosophical rigor, ensuring we approach knowledge with appropriate [[Epistemic-Humility]] and [[validation practices]].
+[[Epistemology]] grounds our [[PKM]] practice in philosophical rigor, ensuring we approach knowledge with appropriate [[Epistemic-Humility]] and [[validation practices]].
 
 ### 🔗 Epistemology Network
 
@@ -272,7 +272,7 @@ if (epistemicPages.length > 0) {
 > [**Epistemic-Cognition**:: The cognitive processes involved in acquiring, evaluating, and using knowledge—including how individuals understand the nature of knowledge itself and calibrate their confidence appropriately.]
 
 **Primary Notes:**
-- [[epistemology]] — *Domain foundation*
+- [[Epistemology]] — *Domain foundation*
 - [[Epistemic Accountability]] — *Intellectual responsibility*
 - [[Epistemic-Cognition]] — *Knowledge processing*
 - [[Evolutionary Epistemology]] — *Naturalized knowledge theory*
@@ -289,7 +289,7 @@ if (epistemicPages.length > 0) {
 > [!principle-point] Domain Focus
 > [**Pragmatism-Core-Thesis**:: The philosophical tradition holding that the meaning and truth of ideas are determined by their practical consequences—"truth is what works" in guiding successful action and inquiry.]
 
-[[Pragmatism]] provides the meta-philosophical framework for this entire MOC, emphasizing that philosophical concepts earn their place through **practical utility**.
+[[pragmatism]] provides the meta-philosophical framework for this entire MOC, emphasizing that philosophical concepts earn their place through **practical utility**.
 
 ### 🔗 Pragmatism Network
 
@@ -318,7 +318,7 @@ if (pragmaticPages.length > 0) {
 > [**Pragmatic-Maxim**:: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." — Charles Sanders Peirce]
 
 **Primary Notes:**
-- [[Pragmatism]] — *Philosophical foundation*
+- [[pragmatism]] — *Philosophical foundation*
 - [[Practical Wisdom]] — *Phronesis*
 - [[Instrumentalism]] — *Ideas as tools*
 
@@ -386,7 +386,7 @@ if (bridges.length > 0) {
 | Epistemology Concept | Connects To | Integration Insight |
 |----------------------|-------------|---------------------|
 | [[Epistemic-Cognition]] | [[Metacognition]] | Cognitive science operationalizes epistemology |
-| [[Evolutionary Epistemology]] | [[Pragmatism]] | Both naturalize knowledge processes |
+| [[Evolutionary Epistemology]] | [[pragmatism]] | Both naturalize knowledge processes |
 | [[Confidence Calibration]] | [[Stoic Reservation]] | Ancient and modern uncertainty management |
 
 ---
@@ -519,8 +519,8 @@ action:
 
 **Foundation Layer:**
 1. [[Stoicism]] → [[Dichotomy-of-Control]] → [[Locus-of-Control]]
-2. [[epistemology]] → [[Epistemic Accountability]]
-3. [[Pragmatism]] → Evaluate philosophy by practical results
+2. [[Epistemology]] → [[Epistemic Accountability]]
+3. [[pragmatism]] → Evaluate philosophy by practical results
 
 **Application Layer:**
 1. [[Stoic-Philosophy]] → Daily practice techniques
@@ -546,7 +546,7 @@ action:
   - [[learning-theory-moc]] — *Education philosophy*
 - **Down:** 
   - [[Stoicism|Stoicism Index]]
-  - [[epistemology|Epistemology Index]]
+  - [[Epistemology|Epistemology Index]]
 
 ```dataviewjs
 // 🔗 ORPHAN DETECTION - Philosophy notes not linked from this MOC

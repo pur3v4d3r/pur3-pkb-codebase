@@ -24,21 +24,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 13
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Basic-Psychological-Need]]"
   - "[[Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra]]"
   - "[[Compensatory-Hypothesis]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Need-Substitute]]"
   - "[[Organismic-Meta-Theory]]"
   - "[[Perceived-Internal-Locus-of-Causation]]"
+  - "[[Relatedness-Need]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: medium
 # Attachment-Theory
 
 > [!definition] **Attachment-Theory**
-> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 13 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Basic-Psychological-Need]]
 - [[Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra]]
 - [[Compensatory-Hypothesis]]

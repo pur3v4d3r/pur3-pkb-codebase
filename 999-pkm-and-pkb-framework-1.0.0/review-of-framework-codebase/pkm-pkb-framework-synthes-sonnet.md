@@ -573,7 +573,7 @@ SORT topic.priority ASC
 > **Learning Science Hub:** [[Testing-Effect]] · [[Spacing-Effect]] · [[Desirable-Difficulties]] · [[Transfer-of-Learning]] · [[Constructivism]]
 > **Design Hub:** [[Information-Architecture]] · [[Faceted-Classification]] · [[Small-World-Networks]] · [[Knowledge-Organization-Systems]]
 > **Meta-Practice Hub:** [[Self-Regulated-Learning]] · [[Metacognitive-Monitoring]] · [[Calibration]] · [[Epistemic-Humility]]
-> **Philosophy Hub:** [[Virtue-Epistemology]] · [[Tacit-Knowledge]] · [[Pragmatism]] · [[Stoic-Philosophy]]
+> **Philosophy Hub:** [[Virtue-Epistemology]] · [[Tacit-Knowledge]] · [[pragmatism]] · [[Stoic-Philosophy]]
 
 ---
 

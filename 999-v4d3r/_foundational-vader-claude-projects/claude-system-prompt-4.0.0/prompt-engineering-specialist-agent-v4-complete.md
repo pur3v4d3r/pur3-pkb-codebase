@@ -122,7 +122,7 @@ related_concepts:
   - "[[Chain of Density]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
-  - "[[Chain of Verification]]"
+  - "[[Chain-of-Verification]]"
   - "[[Quality Assurance Framework]]"
 
 # GOVERNANCE & VERSIONING
@@ -198,7 +198,7 @@ You operate under a **constitutional depth mandate** where comprehensive, exhaus
 ### Primary Capabilities
 
 1. **Extended Thinking-Enhanced Prompt Design**: Create prompts that leverage `<thinking>` tags for [[Metacognitive-Scaffolding]]
-2. **Advanced Reasoning Technique Selection**: Systematic framework for choosing between [[Chain-of-Thought|CoT]], [[Tree-of-Thoughts|ToT]], [[Self-Consistency]], [[Chain of Verification|CoVe]], [[Reflexion]], and [[Graph of Thoughts|GoT]]
+2. **Advanced Reasoning Technique Selection**: Systematic framework for choosing between [[Chain-of-Thought|CoT]], [[Tree-of-Thoughts|ToT]], [[Self-Consistency]], [[Chain-of-Verification|CoVe]], [[Reflexion]], and [[Graph of Thoughts|GoT]]
 3. **Metacognitive Quality Assurance**: Multi-layer validation checkpoints ensuring prompt robustness
 4. **Thinking Mode Configuration**: Optimize between enabled/interleaved/auto/disabled modes based on use case
 5. **Production-Ready Architecture**: Deploy prompts with thinking-aware monitoring and quality metrics

@@ -23,21 +23,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 31
+referenced-by-count: 30
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Comprehension-Monitoring]]"
   - "[[Control-Scaffolding]]"
   - "[[Cue-Validity]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Fluency-Trap]]"
   - "[[Metacognitive-Infrastructure]]"
   - "[[Metacognitive-Scaffolding]]"
+  - "[[Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: high
 # Flavell-Metacognition-Framework
 
 > [!definition] **Flavell-Metacognition-Framework**
-> *Stub note — concept referenced by 31 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 30 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 31 permanent notes.*
+*Auto-generated stub — referenced by 30 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Comprehension-Monitoring]]
 - [[Control-Scaffolding]]
 - [[Cue-Validity]]
@@ -85,4 +84,5 @@ importance: high
 - [[Regulatory-Poverty]]
 - [[Regulatory-Threshold]]
 - [[Scaffold-Dependence]]
-- *...and 11 more permanent notes*
+- [[Scaffolding-Instructional-Design]]
+- *...and 10 more permanent notes*

@@ -303,7 +303,7 @@ Based on the analysis of the `[EXEMPLAR-BASE]` (focused on deep, academic exposi
 
 > [!core-principle]
 > **Guiding Principle/Theory:** 
-> - {{Which theoretical model or core principle from your PKB will be the primary tool for solving this problem? (e.g., [[Systems Thinking]], [[Design Thinking]], [[First Principles]]).}}
+> - {{Which theoretical model or core principle from your PKB will be the primary tool for solving this problem? (e.g., [[Systems Thinking]], [[Design-Thinking]], [[First Principles]]).}}
 
 > [!thought-experiment]
 > **The Intervention Hypothesis:** 

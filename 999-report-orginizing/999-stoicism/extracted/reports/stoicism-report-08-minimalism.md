@@ -107,7 +107,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -120,7 +120,7 @@ related:
   - "[[Virtue-Ethics]]"
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
-  - "[[Preferred Indifferents]]"
+  - "[[Preferred-Indifferents]]"
   - "[[Meditatio Paupertatis]]"
   - "[[Hedonic-Adaptation]]"
   - "[[Voluntary Simplicity]]"
@@ -136,7 +136,7 @@ series-connections:
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
     - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Emotional Resilience - Coping with Adversity]]"
     - "[[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]"
 
@@ -148,7 +148,7 @@ broader:
 
 narrower:
   - "[[Meditatio Paupertatis]]"
-  - "[[Discipline of Desire]]"
+  - "[[Discipline-of-Desire]]"
   - "[[Stoic Frugality]]"
   - "[[Voluntary Discomfort Practice]]"
   - "[[Negative Visualization]]"
@@ -204,7 +204,7 @@ practical-components:
 link-up: "[[Stoicism MOC]]"
 link-down:
   - "[[Meditatio Paupertatis]]"
-  - "[[Discipline of Desire]]"
+  - "[[Discipline-of-Desire]]"
   - "[[Stoic Frugality]]"
   - "[[Preferred Indifferents — Complete Taxonomy]]"
 link-related:
@@ -259,7 +259,7 @@ importance: high
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 >
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred-Indifferents]], [[Prohairesis]], and the [[Discipline-of-Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 ---
 
@@ -285,7 +285,7 @@ The Stoics made this argument approximately 2,300 years before the minimalism mo
 The Stoic engagement with material simplicity is not incidental to the system. It flows directly from the most foundational claims in Stoic ethics: that virtue is the only genuine good, that external goods have value of a different and lesser kind, and that confusing the two kinds of value is the primary error from which human unhappiness proceeds.
 
 > [!definition]
-> **[[Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
+> **[[Preferred-Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
 
 [Preferred-Indifferents-Status:: The Stoic category of things valuable enough to pursue through rational effort but not important enough to disturb one's equanimity if lost — a philosophically precise middle ground between "worthless" and "genuinely good" that most people, ancient and modern, fail to occupy because they treat preferred indifferents as if they were genuine goods.]
 
@@ -327,7 +327,7 @@ The first and most fundamental Stoic principle governing the relationship to mat
 > [!key-insight]
 > **Framework Principle 1: The Hierarchy of Value**
 >
-> The Stoic position is not that material goods are worthless — the category of [[Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
+> The Stoic position is not that material goods are worthless — the category of [[Preferred-Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
 
 [Correct-Valuation:: The Stoic cognitive practice of explicitly and repeatedly assigning material goods to the category of preferred indifferents rather than genuine goods — a discipline that requires active maintenance because hedonic adaptation and social comparison continuously pressure the practitioner toward reclassifying material goods as essential.]
 
@@ -401,7 +401,7 @@ The most vivid first-person account of voluntary simplicity from the Stoic tradi
 >
 > **The Situation**: In Letter XVIII of the *Epistulae Morales*, Seneca describes his practice of periodic voluntary simplicity, written with the self-aware irony of a very rich man telling a friend to be poor sometimes. He describes setting aside several days to live on minimal rations — coarse bread, water, no comfortable bed — not as penance but as philosophical calibration. "I am not setting this before you as a rule," he writes, "but as a test. Lay aside for a few days your usual comforts, and let yourself discover whether poverty frightens you as much as your habits have led you to believe."
 >
-> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
+> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
 >
 > **The Lesson**: The practice demonstrates that the felt sense of sufficiency — of having enough — is not a fixed quantity determined by one's material circumstances but a calibratable psychological state that can be maintained at a wide range of income levels through appropriate philosophical practice. The person who practices periodic simplicity is less vulnerable to the anxiety of potential loss, more capable of genuine appreciation for what they have, and less driven by the compulsive acquisition that the fear of insufficiency generates.
 
@@ -427,7 +427,7 @@ The contemporary minimalism movement has produced a variety of practitioners who
 >
 > **The Situation**: Potts's argument — developed without direct reference to Stoicism but with remarkable convergence — is that most people are time-poor and thing-rich in a way that inverts the actual conditions of a good life. The things that constitute genuine wellbeing (deep engagement with meaningful activities, rich relationships, the experience of novelty and growth) are time-intensive and materially cheap. The things that modern culture treats as constitutive of success (large homes, new vehicles, luxury goods) are materially expensive and time-consuming to maintain, and their wellbeing returns are subject to rapid hedonic adaptation. His prescription — reduce material complexity to create temporal and psychological space for intrinsically meaningful activity — is structurally identical to the Stoic framework.
 >
-> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
+> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 >
 > **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
@@ -446,7 +446,7 @@ The following practices translate the Stoic philosophical framework for material
 >
 > **Duration**: 48–72 hours minimum for full psychological effect; shorter periods are useful but may not achieve the depth of recalibration that multi-day practice provides
 >
-> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
+> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred-Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
 >
 > **Psychological Mechanism**: Counters hedonic adaptation by resetting the baseline against which ordinary goods are experienced. After several days of bread and water, a standard meal becomes genuinely experienced as a luxury. This recalibration of baseline produces the gratitude that hedonic adaptation normally suppresses — transforming what was background into foreground, what was entitled into appreciated.
 >
@@ -538,8 +538,8 @@ The integrated practice, maintained over months and years, tends to produce a ch
 > [!connection-ideas]
 > **Series Connections**
 >
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
-> - **Deepens**: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred-Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
+> - **Deepens**: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
 > - **Connects to**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the non-dependence on material goods cultivated in Stoic simplicity directly increases resilience; the person who has practiced sufficiency is less devastated by material loss than the person whose wellbeing depends on maintaining a certain standard.
 > - **Prepares for**: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] (Report 09) — the simplification of one's relationship to material goods creates the attentional space that mindfulness practice requires. It is structurally difficult to be genuinely present when one is preoccupied with maintaining material complexity.
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — Cognitive Behavioral Therapy's attention to the role of cognitive distortions in generating unnecessary suffering maps precisely onto the Stoic account of how misvalued preferred indifferents generate anxiety and compulsive acquisition.

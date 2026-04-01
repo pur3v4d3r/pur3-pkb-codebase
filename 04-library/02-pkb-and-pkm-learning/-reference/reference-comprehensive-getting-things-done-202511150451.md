@@ -2079,7 +2079,7 @@ SORT file.ctime DESC
 
 ### Planning Systems
 - [[Horizons of Focus Framework]]
-- [[PARA Method]]
+- [[PARA-Method]]
 - [[12 Week Year Methodology]]
 
 ## Atomic Concepts

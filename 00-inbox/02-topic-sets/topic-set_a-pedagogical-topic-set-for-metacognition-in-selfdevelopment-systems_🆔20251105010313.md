@@ -37,7 +37,7 @@ link-related:
 
 >[!topic-idea]
 >
-> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive-Monitoring]] and [[Executive Control]] in Personal Development Systems
+> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive-Monitoring]] and [[Executive-Control]] in Personal Development Systems
 >
 > **Scope & Angle:** This topic provides a comprehensive exposition of the dual-process model of metacognition (monitoring and control) and how these processes can be systematically applied to create a self-development framework. It covers the theoretical foundations from Flavell, Nelson & Narens, and modern neurocognitive research, then maps these concepts onto practical self-improvement methodologies. The focus is on understanding the complete taxonomy of metacognitive strategies and their specific applications in behavior change.
 

@@ -67,7 +67,7 @@ This reframes self-directed learning: it's not about heroic self-discipline but 
 - **[[Selective-Attention]]**: "My experience is what I agree to attend to"—we actively construct experience by choosing attentional focus
 - **[[habit]]**: Automated action patterns that free consciousness for novel challenges; "habit is the enormous flywheel of society"
 - **[[Voluntary Attention]]**: The ability to sustain attention on chosen objects even when they're not intrinsically interesting; the foundation of will
-- **[[Plasticity]]**: The brain's capacity for permanent modification through experience; neurological basis for habit formation
+- **[[plasticity]]**: The brain's capacity for permanent modification through experience; neurological basis for habit formation
 - **[[The Will]]**: Not a mysterious force but the capacity to choose and sustain attention; will operates through holding ideas in consciousness
 - **[[Pragmatic Method]]**: Truth is defined by practical consequences; ideas are tools to be evaluated by their effects
 - **[[The Self]]**: Not a soul-substance but a continuously constructed narrative—"the self of selves" emerges from memory and continuity

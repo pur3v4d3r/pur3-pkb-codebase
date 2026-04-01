@@ -613,7 +613,7 @@ The analytical architecture of this report has moved through OIT's theoretical f
 ### Lexicon of Key Terms
 
 > [!definition] Organismic Integration Theory (OIT)
-> The mini-theory within [[Self-Determination-Theory-(SDT)]] that addresses the process by which externally regulated behaviors and associated values are progressively internalized and integrated into the self-system, explaining the mechanisms underlying meaningful differences in regulatory motivation for activities initially engaged under external pressure. Introduced by Deci and Ryan (1985) and formally developed by Ryan and Connell (1989).
+> The mini-theory within [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination-Theory-(SDT)]] that addresses the process by which externally regulated behaviors and associated values are progressively internalized and integrated into the self-system, explaining the mechanisms underlying meaningful differences in regulatory motivation for activities initially engaged under external pressure. Introduced by Deci and Ryan (1985) and formally developed by Ryan and Connell (1989).
 
 > [!definition] Internalization
 > The process by which a person takes in a value, attitude, or regulatory process that was initially external and transforms it into a personally endorsed and internally regulated motivational resource. Distinguished from mere compliance (behavioral but not motivational), internalization involves genuine psychological incorporation of the value into the self-system. The term derives from [[Vygotsky]]'s concept of higher psychological function development through social interaction.
@@ -653,7 +653,7 @@ The analytical architecture of this report has moved through OIT's theoretical f
 ### Key Figures and Intellectual Lineage
 
 > [!person] Edward L. Deci (1942–2024)
-> Professor at the University of Rochester and principal co-creator of [[Self-Determination-Theory-(SDT)]]. With Ryan, developed the foundational theory of intrinsic motivation, the cognitive evaluation theory of reward effects, and the full SDT architecture. Deci's 1971 research on the undermining effect of external rewards was the empirical starting point for the entire SDT program. His collaborative work with Ryan spans five decades of theoretical development and empirical research across education, organizations, health, and development.
+> Professor at the University of Rochester and principal co-creator of [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination-Theory-(SDT)]]. With Ryan, developed the foundational theory of intrinsic motivation, the cognitive evaluation theory of reward effects, and the full SDT architecture. Deci's 1971 research on the undermining effect of external rewards was the empirical starting point for the entire SDT program. His collaborative work with Ryan spans five decades of theoretical development and empirical research across education, organizations, health, and development.
 
 > [!person] Richard M. Ryan
 > Professor at Australian Catholic University and co-founder of SDT. Ryan contributed particularly to the philosophical and phenomenological foundations of SDT, the theoretical elaboration of OIT's internalization framework, and the cross-cultural research program examining SDT's universality claims. Ryan and Connell (1989) established the empirical measurement framework for OIT through the SRQ assessment approach.
@@ -800,7 +800,7 @@ The analytical architecture of this report has moved through OIT's theoretical f
 > [!connections-and-links] PKB Connection Map
 
 **Upstream Connections (Foundational to OIT):**
-- [[Self-Determination-Theory-(SDT)]] — the comprehensive theoretical framework of which OIT is a component
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination-Theory-(SDT)]] — the comprehensive theoretical framework of which OIT is a component
 - [[Humanistic-Psychology]] — the theoretical tradition whose growth orientation and actualizing tendency OIT inherits
 - [[Cognitive-Evaluation-Theory-(CET)]] — the precursor SDT mini-theory focused on intrinsic motivation and reward effects
 - [[Basic-Psychological-Needs-Theory-(BPNT)]] — the SDT mini-theory specifying the universal needs OIT's facilitation conditions serve
@@ -815,7 +815,7 @@ The analytical architecture of this report has moved through OIT's theoretical f
 - [[Formative-Assessment]] — assessment design approach consistent with OIT's competence support framework
 - [[Self-Directed-Learning]] — ultimate OIT developmental endpoint in educational context
 - [[Heutagogy]] — theory of radically autonomous learning as the educational expression of integrated regulation
-- [[Lifelong-Learning]] — broad concept whose motivational underpinnings OIT explains
+- [[Lifelong-learning]] — broad concept whose motivational underpinnings OIT explains
 
 **Lateral Connections (Parallel or Intersecting):**
 - [[Growth-Mindset]] — structural parallel via incremental theory of intelligence and effort-engagement

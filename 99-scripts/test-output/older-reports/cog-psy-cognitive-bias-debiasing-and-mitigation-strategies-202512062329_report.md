@@ -239,7 +239,7 @@ extraction_summary:
 > [!abstract] Untitled
 > **Executive Summary**
 > 
-> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive-Bias|cognitive biases]] have been extensively catalogued since [[Daniel-Kahneman]] and [[Amos-Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[Choice Architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd-Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
+> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive-Bias|cognitive biases]] have been extensively catalogued since [[Daniel-Kahneman]] and [[Amos-Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[choice-architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd-Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 190)*
 
@@ -302,7 +302,7 @@ extraction_summary:
 > [!evidence] Untitled
 > **The MACBETH Game Studies**
 > 
-> In two longitudinal experiments, Morewedge et al. (2015) tested the effects of playing a serious video game (Missing: The Final Secret) or watching an instructional video that addressed biases critical to intelligence analysis, including [[Confirmation-Bias]], [[Bias Blind Spot]], and [[Fundamental Attribution Error]]. Both interventions produced medium to large debiasing effects immediately (games ≥ 31.94% reduction, videos ≥ 18.60% reduction) that persisted at least 2 months later (games ≥ 23.57%, videos ≥ 19.20%). Critically, the games—which provided personalized feedback and practice—outperformed the videos. Effects were domain-general, transferring to problems in different contexts and formats not taught in the interventions.
+> In two longitudinal experiments, Morewedge et al. (2015) tested the effects of playing a serious video game (Missing: The Final Secret) or watching an instructional video that addressed biases critical to intelligence analysis, including [[Confirmation-Bias]], [[Bias Blind Spot]], and [[Fundamental-Attribution-Error]]. Both interventions produced medium to large debiasing effects immediately (games ≥ 31.94% reduction, videos ≥ 18.60% reduction) that persisted at least 2 months later (games ≥ 23.57%, videos ≥ 19.20%). Critically, the games—which provided personalized feedback and practice—outperformed the videos. Effects were domain-general, transferring to problems in different contexts and formats not taught in the interventions.
 
 #### 13. [INSIGHT] Untitled *(Line 305)*
 
@@ -407,7 +407,7 @@ extraction_summary:
 - [[Carey Morewedge]]
 - [[Cass Sunstein]]
 - [[Choice Architect]]
-- [[Choice Architecture]]
+- [[choice-architecture]]
 - [[Cognitive-Bias]]
 - [[Cognitive Bias Debiasing and Mitigation Strategies]]
 - [[Cognitive Reflection Test]]
@@ -425,7 +425,7 @@ extraction_summary:
 - [[Emily Pronin]]
 - [[Fast-and-Frugal-Heuristics]]
 - [[Focalism]]
-- [[Fundamental Attribution Error]]
+- [[Fundamental-Attribution-Error]]
 - [[Gary-Klein]]
 - [[Gerd-Gigerenzer]]
 - [[Groupthink]]
@@ -450,7 +450,7 @@ extraction_summary:
 - [[Nudge Theory]]
 - [[Optimism Bias]]
 - [[Outside View]]
-- [[Overconfidence Bias]]
+- [[Overconfidence-Bias]]
 - [[Paul-Elder-Critical-Thinking-Framework]]
 - [[Planning Fallacy]]
 - [[Premeditatio-Malorum]]
@@ -460,7 +460,7 @@ extraction_summary:
 - [[Red Team Analysis]]
 - [[Reference Class Forecasting]]
 - [[Reference Class Problem]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic]]
 - [[Richard Thaler]]
 - [[Selective Accessibility]]
 - [[Self-Determination-Theory]]
@@ -482,7 +482,7 @@ extraction_summary:
 | 5 | [[Consider-the-Opposite Strategy]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 6 | [[Premortem Technique]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 7 | [[Nudge Theory]] | nudges | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 8 | [[Choice Architecture]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 8 | [[choice-architecture]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 9 | [[Bias Blind Spot]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 10 | [[Gerd-Gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 11 | [[Fast-and-Frugal-Heuristics]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
@@ -490,9 +490,9 @@ extraction_summary:
 | 13 | [[Confirmation-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 14 | [[Anchoring Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 15 | [[Availability-Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
-| 16 | [[Representativeness Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
+| 16 | [[representativeness-heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 17 | [[Hindsight-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
-| 18 | [[Overconfidence Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
+| 18 | [[Overconfidence-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 19 | [[Gerd-Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 20 | [[Adaptive Behavior and Cognition (ABC) Research Group]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 21 | [[Ecological-Rationality]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
@@ -541,7 +541,7 @@ extraction_summary:
 | 64 | [[Carey Morewedge]] | — | — | 🎮 Training Interventions: The Morewed... | 294 |
 | 65 | [[Confirmation-Bias]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
 | 66 | [[Bias Blind Spot]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
-| 67 | [[Fundamental Attribution Error]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
+| 67 | [[Fundamental-Attribution-Error]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
 | 68 | [[Anne-Laure Sellier]] | — | — | 🎮 Training Interventions: The Morewed... | 303 |
 | 69 | [[Irene Scopelliti]] | — | — | 🎮 Training Interventions: The Morewed... | 303 |
 | 70 | [[Paul-Elder-Critical-Thinking-Framework]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
@@ -794,7 +794,7 @@ for (let letter of sortedLetters) {
 - [[Carey Morewedge]]
 - [[Cass Sunstein]]
 - [[Choice Architect]]
-- [[Choice Architecture]]
+- [[choice-architecture]]
 - [[Cognitive-Bias]]
 - [[Cognitive Bias Debiasing and Mitigation Strategies]]
 - [[Cognitive Reflection Test]]
@@ -812,7 +812,7 @@ for (let letter of sortedLetters) {
 - [[Emily Pronin]]
 - [[Fast-and-Frugal-Heuristics]]
 - [[Focalism]]
-- [[Fundamental Attribution Error]]
+- [[Fundamental-Attribution-Error]]
 - [[Gary-Klein]]
 - [[Gerd-Gigerenzer]]
 - [[Groupthink]]
@@ -837,7 +837,7 @@ for (let letter of sortedLetters) {
 - [[Nudge Theory]]
 - [[Optimism Bias]]
 - [[Outside View]]
-- [[Overconfidence Bias]]
+- [[Overconfidence-Bias]]
 - [[Paul-Elder-Critical-Thinking-Framework]]
 - [[Planning Fallacy]]
 - [[Premeditatio-Malorum]]
@@ -847,7 +847,7 @@ for (let letter of sortedLetters) {
 - [[Red Team Analysis]]
 - [[Reference Class Forecasting]]
 - [[Reference Class Problem]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic]]
 - [[Richard Thaler]]
 - [[Selective Accessibility]]
 - [[Self-Determination-Theory]]

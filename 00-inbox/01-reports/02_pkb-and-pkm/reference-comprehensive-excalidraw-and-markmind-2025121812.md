@@ -434,7 +434,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 > 
 > **Phase 3: Elaborate** (15-20 min)
 > - Add explanatory text elements
-> - Embed supporting evidence: `![[Research Note]]`
+> - Embed supporting evidence: `![[Research-Note]]`
 > - Insert images/diagrams for context
 > - Create sticky notes for annotations
 > 
@@ -463,9 +463,9 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 │                                          │
 ├─────────────────────────────────────────┤
 │ Action Items:                            │
-│ • [[Task 1]]                             │
-│ • [[Task 2]]                             │
-│ • [[Task 3]]                             │
+│ • [[Task-1]]                             │
+│ • [[Task-2]]                             │
+│ • [[Task-3]]                             │
 └─────────────────────────────────────────┘
 ```
 > [!helpful-tip] Mobile Sketch Notes
@@ -1055,7 +1055,7 @@ Three methods to connect PDF annotations with mind map nodes:
 > When enabled (Settings → PDF → "Automatic create PDF annotation reference link"):
 > - Clicking annotation automatically copies formatted link
 > - Paste anywhere in vault
-> - Format: `[[PDF Name#^block-ref]]`
+> - Format: `[[PDF-Name#^block-ref]]`
 > - Opens PDF and scrolls to annotation when clicked
 
 ---
@@ -1090,7 +1090,7 @@ Three methods to connect PDF annotations with mind map nodes:
 > - Add brief comments to highlights
 > 
 > **Step 2: Structural Mapping** (15 min)
-> - Create mind map: "[[Paper Title]] - Key Concepts"
+> - Create mind map: "[[Paper-Title]] - Key Concepts"
 > - Root node: Paper title + authors
 > - Branches: Main sections (Theory, Method, Results, Discussion)
 > - Link annotations to appropriate branches
@@ -1099,7 +1099,7 @@ Three methods to connect PDF annotations with mind map nodes:
 > - Add summary nodes synthesizing multiple highlights
 > - Create boundaries grouping related findings
 > - Add related links connecting concepts across sections
-> - Link to existing vault notes: `[[Established Theory]]`
+> - Link to existing vault notes: `[[Established-Theory]]`
 > 
 > **Step 4: Integration** (10 min)
 > - Export mind map as image for visual reference
@@ -1113,7 +1113,7 @@ Three methods to connect PDF annotations with mind map nodes:
 <span style='color: #FFC700;'>**Scenario**</span>: Plan complex project with multiple phases
 > [!methodology-and-sources] Project Planning Workflow
 > **Setup:**
-> - Create mind map: "[[Project Name]] - Master Plan"
+> - Create mind map: "[[Project-Name]] - Master Plan"
 > - Use **Tree layout** for hierarchical structure
 > 
 > **Structure:**
@@ -1124,8 +1124,8 @@ Three methods to connect PDF annotations with mind map nodes:
 > │  ├─ User Interviews → Due: Date, Owner: Name
 > │  └─ Competitive Analysis → Due: Date, Owner: Name
 > ├─ Phase 2: Design
-> │  ├─ Wireframes → Links to [[Design Specs]]
-> │  └─ Prototypes → Links to [[Figma Files]]
+> │  ├─ Wireframes → Links to [[Design-Specs]]
+> │  └─ Prototypes → Links to [[Figma-Files]]
 > ├─ Phase 3: Development
 > │  └─ [Features as sub-nodes]
 > └─ Phase 4: Launch
@@ -1145,8 +1145,8 @@ Three methods to connect PDF annotations with mind map nodes:
 ```
 Meeting: [Topic] - [Date]
 ├─ Attendees
-│  ├─ [[Person A]]
-│  ├─ [[Person B]]
+│  ├─ [[Person-A]]
+│  ├─ [[Person-B]]
 │  └─ [[Person C]]
 ├─ Agenda Items
 │  ├─ Topic 1
@@ -1156,8 +1156,8 @@ Meeting: [Topic] - [Date]
 │  ├─ Decision 1 → Rationale
 │  └─ Decision 2 → Rationale
 └─ Action Items
-   ├─ [[Task 1]] - Owner: [[Person A]], Due: Date
-   └─ [[Task 2]] - Owner: [[Person B]], Due: Date
+   ├─ [[Task-1]] - Owner: [[Person-A]], Due: Date
+   └─ [[Task-2]] - Owner: [[Person-B]], Due: Date
 ```
 > [!helpful-tip] Live Capture Strategy
 > - Start with template structure (pre-loaded)
@@ -1268,7 +1268,7 @@ Meeting: [Topic] - [Date]
 > - Link annotations to mind map nodes
 > 
 > **Step 2: Visual Synthesis** (Excalidraw)
-> - Create drawing: "[[Paper Title]] - Visual Summary"
+> - Create drawing: "[[Paper-Title]] - Visual Summary"
 > - Draw key concepts as spatial diagram
 > - Show relationships with arrows/grouping
 > - Embed paper annotations: `![[Paper-annotate.md#^key-quote]]`
@@ -1466,7 +1466,7 @@ Meeting: [Topic] - [Date]
 **Depth Potential:** Complete API documentation with examples, integration patterns with [[Templater]], [[QuickAdd]], [[Dataview]], and [[MetaBind]]. Build script library for common automation tasks. Explore advanced use cases like automated mind map generation from markdown.
 **Knowledge Graph Role:** Advanced technical node connecting Excalidraw to [[Obsidian-Automation]], [[JavaScript in Obsidian]], [[Plugin Development]]. Enables expert-level workflows.
 **Priority:** Low-Medium (high for developers/automation enthusiasts)
-**Prerequisites:** [[JavaScript Fundamentals]], [[Excalidraw Advanced Features]], [[Templater Basics]]
+**Prerequisites:** [[JavaScript-Fundamentals]], [[Excalidraw Advanced Features]], [[Templater Basics]]
 
 ---
 ### 6. **[[Visual System Modeling & Diagramming]]** *[Requires systems thinking background]*

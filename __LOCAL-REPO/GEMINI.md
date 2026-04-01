@@ -557,7 +557,7 @@ The user is adopting **sequential prompting** and **task decomposition** princip
 - Bold/italic for emphasis
 
 **Deferred (for local LLM application later):**
-- Wiki-links [[Like This]]
+- Wiki-links [[like-this]]
 - Semantic color coding
 - Inline Dataview fields
 - Full callout taxonomy

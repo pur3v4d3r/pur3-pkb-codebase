@@ -24,21 +24,20 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 95
+referenced-by-count: 100
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[4E-Cognition]]"
   - "[[Active-Externalism]]"
   - "[[Advance-Organizer]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Autonomy]]"
   - "[[Autonomy-Support]]"
   - "[[Basic-Psychological-Needs]]"
+  - "[[Central-Executive]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: high
 # Feedback-Design-for-Autonomy-and-Mastery
 
 > [!definition] **Feedback-Design-for-Autonomy-and-Mastery**
-> *Stub note — concept referenced by 95 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 100 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 95 permanent notes.*
+*Auto-generated stub — referenced by 100 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[4E-Cognition]]
 - [[Active-Externalism]]
 - [[Advance-Organizer]]
@@ -84,6 +83,7 @@ importance: high
 - [[Cognitive-Scaffolding]]
 - [[Comparative-Advance-Organizer]]
 - [[Comparative-Organizer]]
+- [[Context-Regulation]]
 - [[Coupling-Constitution-Fallacy]]
 - [[Declarative-Memory]]
-- *...and 75 more permanent notes*
+- *...and 80 more permanent notes*

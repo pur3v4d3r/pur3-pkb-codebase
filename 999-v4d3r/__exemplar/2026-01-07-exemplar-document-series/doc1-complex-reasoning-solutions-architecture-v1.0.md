@@ -1565,7 +1565,7 @@ def decomposition_then_reasoning(complex_problem):
 
 ### Pattern 3: Verification-Enhanced Reasoning
 
-**Strategy**: Use [[Chain of Verification]] after reasoning technique to validate result.
+**Strategy**: Use [[Chain-of-Verification]] after reasoning technique to validate result.
 
 ```python
 def reasoning_with_verification(problem, reasoning_technique):

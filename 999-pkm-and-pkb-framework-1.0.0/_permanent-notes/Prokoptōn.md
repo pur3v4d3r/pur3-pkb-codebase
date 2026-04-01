@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -97,4 +97,4 @@ importance: medium
 
 ## Connections & Context
 
-**Related concepts:** [[AI-and-the-Examined-Life-—-Cognitive-Sovereignty|AI and the Examined Life — Cognitive Sovereignty]] · [[Allostatic-Load|Allostatic Load]] · [[Amor-Fati|Amor Fati]] · [[Aporia]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[Aristotle]] · [[Cognitive-Load|Cognitive Load]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructed-Emotion-Theory|Constructed Emotion Theory]] · [[Constructivism]] · [[Cross-Cultural-Examined-Life-—-Comparative-Philosophy|Cross-Cultural Examined Life — Comparative Philosophy]] · [[Debiasing]] · [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Distributed-Cognition|Distributed Cognition]] · [[Dreyfus-Model-of-Skill-Acquisition|Dreyfus Model of Skill Acquisition]]
+**Related concepts:** [[AI-and-the-Examined-Life-—-Cognitive-Sovereignty|AI and the Examined Life — Cognitive Sovereignty]] · [[Allostatic-Load|Allostatic Load]] · [[Amor-Fati|Amor Fati]] · [[Aporia]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[Aristotle]] · [[Cognitive-Load|Cognitive Load]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructed-Emotion-Theory|Constructed Emotion Theory]] · [[Constructivism]] · [[Cross-Cultural-Examined-Life-—-Comparative-Philosophy|Cross-Cultural Examined Life — Comparative Philosophy]] · [[debiasing]] · [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Distributed-Cognition|Distributed Cognition]] · [[Dreyfus-Model-of-Skill-Acquisition|Dreyfus Model of Skill Acquisition]]

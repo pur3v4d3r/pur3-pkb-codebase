@@ -396,7 +396,7 @@ This note demonstrates or uses the following concepts:
 
 - [[Concept-1]] - [How it's used]
 - [[Concept-2]] - [How it's used]
-- [[Concept 3]] - [How it's used]
+- [[Concept-3]] - [How it's used]
 
 ## 📝 Details
 

@@ -111,7 +111,7 @@ prerequisites:
   - "[[Stoicism MOC]]"
   - "[[Introduction to Stoicism - Origins and Key Figures]]"
   - "[[Core Principles - Virtue Wisdom and Self-Control]]"
-  - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
 
 related:
   - "[[Stoicism]]"
@@ -134,7 +134,7 @@ related:
   - "[[Cognitive-Reappraisal]]"
 
 series-connections:
-  previous: "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+  previous: "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
   next: "[[Stoicism in Leadership and Decision-Making]]"
   related-reports:
     - "[[Introduction to Stoicism - Origins and Key Figures]]"
@@ -261,7 +261,7 @@ importance: high
 >
 > This is Report **04** of 10 in the [[Stoicism Series Overview]]
 >
-> ← Previous: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> ← Previous: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 > → Next: [[Stoicism in Leadership and Decision-Making]]
 >
 > **Series Arc Position**: Application
@@ -359,7 +359,7 @@ The convergences between Stoicism and modern psychology are deep, multiple, and 
 The most fundamental and important convergence is the agreement that emotional responses are not direct reactions to external events but are *constituted by cognitive appraisals* — by the meanings, interpretations, and evaluations that the mind assigns to events.
 
 > [!key-insight]
-> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
+> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard-Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
 
 What makes this convergence particularly striking is that it was arrived at by completely different routes. The Stoics derived their cognitive theory of emotion from their metaphysics — specifically their account of the rational soul (*logos*), the nature of impressions, and the role of assent. Modern cognitive psychologists derived theirs from clinical observation of patients, controlled experimentation, and the broader cognitive revolution in psychology. Two traditions, two methodologies, separated by twenty-three centuries, arriving at the same fundamental insight about the architecture of emotional life.
 

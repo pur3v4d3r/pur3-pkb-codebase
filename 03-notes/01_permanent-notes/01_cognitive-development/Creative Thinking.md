@@ -85,7 +85,7 @@ LIMIT 15
 ### Direct Connections
 - [[Concept-1]]
 - [[Concept-2]]
-- [[Concept 3]]
+- [[Concept-3]]
 
 ## Practical Applications
 

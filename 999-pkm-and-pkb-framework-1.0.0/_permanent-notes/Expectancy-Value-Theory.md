@@ -24,26 +24,26 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 34
+referenced-by-count: 45
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
   - "[[Aspiration-Index]]"
   - "[[Attainment-Paradox]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomy-Supportive-Environment]]"
+  - "[[Causality-Orientations-Theory]]"
   - "[[Cognitive-Evaluation-Theory]]"
   - "[[Competence]]"
   - "[[Conditional-Regard]]"
@@ -60,18 +60,18 @@ importance: high
 # Expectancy-Value-Theory
 
 > [!definition] **Expectancy-Value-Theory**
-> *Stub note — concept referenced by 34 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 45 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 34 permanent notes.*
+*Auto-generated stub — referenced by 45 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Amotivation]]
 - [[Aspiration-Index]]
 - [[Attainment-Paradox]]
 - [[Autonomous-Regulation]]
 - [[Autonomy-Supportive-Environment]]
+- [[Causality-Orientations-Theory]]
 - [[Cognitive-Evaluation-Theory]]
 - [[Competence]]
 - [[Conditional-Regard]]
@@ -79,11 +79,11 @@ importance: high
 - [[Controlled-Regulation]]
 - [[Controlling-Environment]]
 - [[Effectance]]
+- [[Engagement-Contingent-Reward]]
 - [[Extrinsic-Goal-Content]]
+- [[Free-Choice-Behaviour]]
+- [[Functional-Significance]]
 - [[Goal-Content]]
 - [[Goal-Content-Theory]]
 - [[Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror]]
-- [[Goal-Framing]]
-- [[Hedonic-Adaptation]]
-- [[Identified-Regulation]]
-- *...and 14 more permanent notes*
+- *...and 25 more permanent notes*

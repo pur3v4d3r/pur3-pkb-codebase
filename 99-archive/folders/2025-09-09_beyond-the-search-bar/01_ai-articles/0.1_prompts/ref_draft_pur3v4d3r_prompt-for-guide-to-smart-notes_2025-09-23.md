@@ -427,7 +427,7 @@ tags: moc
 ## Related People & Events
 *Link to important figures, places, or events connected to this topic.*
 
-- [[Person A]]
+- [[Person-A]]
 - [[Event X]]
 
 ## Higher-Order MOCs

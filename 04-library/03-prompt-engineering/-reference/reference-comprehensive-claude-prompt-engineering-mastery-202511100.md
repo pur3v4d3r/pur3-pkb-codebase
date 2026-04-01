@@ -50,7 +50,7 @@ Aliases: [[Claude LLM]], [[Anthropic-Claude]], [[Claude Prompt Engineering]], [[
 ## 🧬 Claude Fundamentals: Architecture & Capabilities
 
 > [!definition]
-> - **Key-Term**:: [[CLAUDE]]
+> - **Key-Term**:: [[Claude]]
 > - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional-AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
 
 ### The Claude Model Family
@@ -78,7 +78,7 @@ Claude represents a tiered approach to [[AI capabilities]], with each model opti
 | [[Creative Writing]]       | Advanced          | Stylistic versatility, narrative coherence           | Content creation, ideation, worldbuilding                         |
 | [[Mathematical Reasoning]] | Advanced          | Formal logic, proof construction                     | Technical analysis, quantitative reasoning                        |
 | [[Instruction Following]]  | Exceptional       | Precision with complex, nested instructions          | Workflow automation, template execution                           |
-| [[Ethical Reasoning]]      | Superior          | Nuanced value alignment                              | Content moderation, policy analysis, ethical frameworks           |
+| [[Ethical-Reasoning]]      | Superior          | Nuanced value alignment                              | Content moderation, policy analysis, ethical frameworks           |
 
 ### Technical Specifications
 

@@ -185,7 +185,7 @@ extraction_summary:
 #### 8. [COUNTER-ARGUMENT] The Limits of Reflection *(Line 340)*
 
 > [!counter-argument] The Limits of Reflection
-> A significant body of critique has challenged unreflective celebrations of reflective practice. [[John Mason]]'s work on "noticing" highlights that reflection is not automatically accurate — the act of remembering and interpreting past cognitive experiences is itself subject to bias, reconstruction, and motivated reasoning. [[Keith-Stanovich]]'s research on [[Dysrationalia]] — the tendency of intelligent people to reason poorly in systematic ways — demonstrates that metacognitive capacity does not guarantee that one's cognitive monitoring will be accurate or unbiased. High metacognitive ability can, paradoxically, make individuals *more* confident in flawed reasoning, because they have more elaborate justifications for their beliefs. This is sometimes called the "myside bias premium": the tendency for reflective individuals to generate better arguments for their existing positions, increasing conviction without increasing accuracy.
+> A significant body of critique has challenged unreflective celebrations of reflective practice. [[John-Mason]]'s work on "noticing" highlights that reflection is not automatically accurate — the act of remembering and interpreting past cognitive experiences is itself subject to bias, reconstruction, and motivated reasoning. [[Keith-Stanovich]]'s research on [[dysrationalia]] — the tendency of intelligent people to reason poorly in systematic ways — demonstrates that metacognitive capacity does not guarantee that one's cognitive monitoring will be accurate or unbiased. High metacognitive ability can, paradoxically, make individuals *more* confident in flawed reasoning, because they have more elaborate justifications for their beliefs. This is sometimes called the "myside bias premium": the tendency for reflective individuals to generate better arguments for their existing positions, increasing conviction without increasing accuracy.
 
 #### 9. [REFLECTION] Engaging the Landscape *(Line 349)*
 
@@ -425,18 +425,18 @@ extraction_summary:
 - [[John-Dewey]]
 - [[John-H.-Flavell]]
 - [[John-Hattie]]
-- [[John Mason]]
-- [[Karen Kitchener]]
+- [[John-Mason]]
+- [[Karen-Kitchener]]
 - [[Keith-Stanovich]]
 - [[King-and-Kitchener]]
 - [[Linda-Elder]]
 - [[Metacognitive-Scaffolding-Design-Patterns]]
-- [[Patricia King]]
+- [[Patricia-King]]
 - [[Paul-Elder-Critical-Thinking-Framework]]
 - [[Paul-Elder-Framework]]
 - [[Peter-Facione]]
-- [[Reflection-in-Action]]
-- [[Reflective Judgment Model]]
+- [[Reflection-in-action]]
+- [[Reflective-Judgment-Model]]
 - [[Reflective-Practice]]
 - [[Richard-Paul]]
 - [[Robert-Ennis]]
@@ -448,8 +448,8 @@ extraction_summary:
 - [[William-James]]
 - [[Critical-Thinking]]
 - [[Desirable-Difficulties]]
-- [[domain knowledge]]
-- [[Dysrationalia]]
+- [[Domain-Knowledge]]
+- [[dysrationalia]]
 - [[Metacognition]]
 - [[Self-Regulated-Learning]]
 
@@ -479,18 +479,18 @@ extraction_summary:
 | 20 | [[Richard-Paul]] | — | — | The Paul-Elder Framework for Critical... | 327 |
 | 21 | [[Linda-Elder]] | — | — | The Paul-Elder Framework for Critical... | 327 |
 | 22 | [[Donald-Schön]] | — | — | Schön's Reflective Practice | 336 |
-| 23 | [[John Mason]] | — | — | Schön's Reflective Practice | 341 |
+| 23 | [[John-Mason]] | — | — | Schön's Reflective Practice | 341 |
 | 24 | [[Keith-Stanovich]] | — | — | Schön's Reflective Practice | 341 |
-| 25 | [[Dysrationalia]] | — | — | Schön's Reflective Practice | 341 |
-| 26 | [[Patricia King]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
-| 27 | [[Karen Kitchener]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
-| 28 | [[Reflective Judgment Model]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
+| 25 | [[dysrationalia]] | — | — | Schön's Reflective Practice | 341 |
+| 26 | [[Patricia-King]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
+| 27 | [[Karen-Kitchener]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
+| 28 | [[Reflective-Judgment-Model]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
 | 29 | [[Critical-Thinking]] | — | — | How Metacognition Enhances Critical R... | 362 |
 | 30 | [[Vygotsky]] | — | — | How Metacognition Enhances Critical R... | 362 |
 | 31 | [[Dunning-Kruger-Effect]] | — | — | How Metacognition Enhances Critical R... | 369 |
 | 32 | [[Keith-Stanovich]] | — | — | How Metacognition Enhances Critical R... | 369 |
-| 33 | [[domain knowledge]] | — | — | The Role of Prior Knowledge and Domai... | 376 |
-| 34 | [[Reflection-in-Action]] | — | — | Metacognitive Monitoring in Real Time | 383 |
+| 33 | [[Domain-Knowledge]] | — | — | The Role of Prior Knowledge and Domai... | 376 |
+| 34 | [[Reflection-in-action]] | — | — | Metacognitive Monitoring in Real Time | 383 |
 | 35 | [[John-Hattie]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 36 | [[Gregory-Yates]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 37 | [[Paul-Elder-Framework]] | — | — | Designing Learning Experiences for Me... | 408 |
@@ -536,18 +536,18 @@ extraction_summary:
 - [[John-Dewey]]
 - [[John-H.-Flavell]]
 - [[John-Hattie]]
-- [[John Mason]]
-- [[Karen Kitchener]]
+- [[John-Mason]]
+- [[Karen-Kitchener]]
 - [[Keith-Stanovich]]
 - [[King-and-Kitchener]]
 - [[Linda-Elder]]
 - [[Metacognitive-Scaffolding-Design-Patterns]]
-- [[Patricia King]]
+- [[Patricia-King]]
 - [[Paul-Elder-Critical-Thinking-Framework]]
 - [[Paul-Elder-Framework]]
 - [[Peter-Facione]]
-- [[Reflection-in-Action]]
-- [[Reflective Judgment Model]]
+- [[Reflection-in-action]]
+- [[Reflective-Judgment-Model]]
 - [[Reflective-Practice]]
 - [[Richard-Paul]]
 - [[Robert-Ennis]]
@@ -559,8 +559,8 @@ extraction_summary:
 - [[William-James]]
 - [[Critical-Thinking]]
 - [[Desirable-Difficulties]]
-- [[domain knowledge]]
-- [[Dysrationalia]]
+- [[Domain-Knowledge]]
+- [[dysrationalia]]
 - [[Metacognition]]
 - [[Self-Regulated-Learning]]
 
@@ -591,7 +591,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring]]
 - [[Critical Thinking Dispositions]]
 - [[Argumentation-Theory]]
-- [[Reflective Judgment Model]]
+- [[Reflective-Judgment-Model]]
 
 #### See Also
 

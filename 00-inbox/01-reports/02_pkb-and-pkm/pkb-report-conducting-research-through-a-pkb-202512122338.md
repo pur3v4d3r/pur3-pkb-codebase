@@ -403,7 +403,7 @@ Every research project, regardless of domain, follows a recognizable lifecycle t
 
 The lifecycle begins with **orientation**, where the researcher identifies a domain of inquiry, formulates initial questions, and establishes the boundaries of investigation. This phase is characterized by broad exploration, high uncertainty, and the need for flexible conceptual scaffolding. The PKB should support rapid capture, tentative categorization, and easy restructuring during this phase.
 
-**Immersion** follows, wherein the researcher dives deeply into source materials—books, papers, datasets, primary sources, expert conversations. The cognitive challenge here is [[information processing]]—transforming raw input into meaningful representations that can be integrated with existing knowledge. The PKB must support efficient capture, progressive refinement, and immediate linking to emerging conceptual structures.
+**Immersion** follows, wherein the researcher dives deeply into source materials—books, papers, datasets, primary sources, expert conversations. The cognitive challenge here is [[information-processing]]—transforming raw input into meaningful representations that can be integrated with existing knowledge. The PKB must support efficient capture, progressive refinement, and immediate linking to emerging conceptual structures.
 
 **Synthesis** represents the creative heart of research, where discrete pieces of information crystallize into coherent understanding. This phase requires the manipulation of ideas across levels of abstraction, the recognition of patterns spanning multiple sources, and the construction of original frameworks that integrate diverse inputs. The PKB's graph structure proves invaluable here, enabling researchers to traverse connections, identify clusters, and surface unexpected relationships.
 
@@ -668,7 +668,7 @@ Research projects eventually conclude, but their value should persist. Good PKB 
 > 
 > **[[Critical-Thinking-Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
 > 
-> **[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
+> **[[Knowledge-Graph-Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
 > 
 > **[[Distributed-Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
 

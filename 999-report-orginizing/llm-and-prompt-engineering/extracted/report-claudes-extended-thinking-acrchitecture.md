@@ -124,7 +124,7 @@ A particularly powerful aspect of Claude's architecture is [**Interleaved-Thinki
 
 ### 3.1 Chain of Thought (CoT): The Foundation
 
-[[Chain-of-Thought-Prompting|Chain of Thought Prompting]] emerged from the observation that [**Reasoning-Path-Dependency**:: LLM output quality for complex tasks strongly depends on whether intermediate reasoning steps are explicitly articulated versus implicitly computed, with explicit articulation enabling error detection and recovery.] The original CoT paper ([[Wei et al. 2022]]) demonstrated dramatic performance improvements on arithmetic, commonsense reasoning, and symbolic manipulation tasks.
+[[Chain-of-Thought-Prompting|Chain of Thought Prompting]] emerged from the observation that [**Reasoning-Path-Dependency**:: LLM output quality for complex tasks strongly depends on whether intermediate reasoning steps are explicitly articulated versus implicitly computed, with explicit articulation enabling error detection and recovery.] The original CoT paper ([[Wei-et-al.-2022|Wei et al. 2022]]) demonstrated dramatic performance improvements on arithmetic, commonsense reasoning, and symbolic manipulation tasks.
 
 **Classical CoT Implementation**:
 ```markdown
@@ -178,7 +178,7 @@ However, classical CoT has limitations:
 
 ### 3.3 Self-Consistency: Reliability Through Ensemble Reasoning
 
-[[Self-Consistency]] ([[Wang et al. 2022]]) addresses a fundamental challenge: [**Single-Sample-Unreliability**:: The problem that any individual reasoning path from a stochastic model may contain errors, even with CoT, making single responses insufficient for high-stakes decisions.] The solution: [**Ensemble-Verification-Principle**:: Generate multiple independent reasoning paths for the same problem, extract answers from each, and select the majority response—leveraging the statistical tendency for correct reasoning to converge while errors vary randomly.]
+[[Self-Consistency]] ([[Wang-et-al.-2022|Wang et al. 2022]]) addresses a fundamental challenge: [**Single-Sample-Unreliability**:: The problem that any individual reasoning path from a stochastic model may contain errors, even with CoT, making single responses insufficient for high-stakes decisions.] The solution: [**Ensemble-Verification-Principle**:: Generate multiple independent reasoning paths for the same problem, extract answers from each, and select the majority response—leveraging the statistical tendency for correct reasoning to converge while errors vary randomly.]
 
 **Self-Consistency Protocol**:
 
@@ -247,7 +247,7 @@ For problems requiring balanced treatment of multiple viewpoints, [**Structured-
 
 ### 4.3 The Chain of Verification Pattern
 
-[[Chain of Verification]] ([[Dhuliawala et al. 2023]]) addresses [**Hallucination-Risk-Management**:: The systematic challenge where LLMs confidently state false information, particularly factual claims, dates, citations, or technical specifications—requiring explicit verification protocols before accepting generated content.] The pattern works by generating claims, then independently verifying them without access to the original generation context.
+[[Chain-of-Verification|Chain of Verification]] ([[Dhuliawala et al. 2023]]) addresses [**Hallucination-Risk-Management**:: The systematic challenge where LLMs confidently state false information, particularly factual claims, dates, citations, or technical specifications—requiring explicit verification protocols before accepting generated content.] The pattern works by generating claims, then independently verifying them without access to the original generation context.
 
 **CoVe Implementation**:
 

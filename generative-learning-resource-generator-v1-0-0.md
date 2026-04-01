@@ -92,7 +92,7 @@ related_concepts:
   - "[[Socratic-Questioning]]"
   - "[[Desirable-Difficulties]]"
   - "[[Spacing-Effect]]"
-  - "[[Interleaving]]"
+  - "[[interleaving]]"
   - "[[Elaborative-Rehearsal]]"
   - "[[Schema-Theory]]"
   - "[[Cognitive-Load-Theory]]"
@@ -515,7 +515,7 @@ technique:
   name: "Interleaved Practice"
   id: "INTERLEAVE"
   scientific_basis: "Rohrer & Taylor (2007); Kornell & Bjork (2008) — mixing different problem types or topics during practice enhances discrimination learning and transfer"
-  wiki_links: ["[[Interleaving]]", "[[Desirable-Difficulties]]", "[[Transfer-of-Learning]]", "[[Discrimination-Learning]]"]
+  wiki_links: ["[[interleaving]]", "[[Desirable-Difficulties]]", "[[Transfer-of-Learning]]", "[[Discrimination-Learning]]"]
   position_in_sequence: 12
   scaffolding_type: "mixed_application"
   demonstration_length: "300-400 words"

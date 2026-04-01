@@ -92,7 +92,7 @@ aliases: [CoT Prompting, Reasoning Chain Techniques]
 ```
 
 ### Wiki-Link Discovery
-**Format as [[Wiki-Link]] if ANY criterion met:**
+**Format as [[wiki-link]] if ANY criterion met:**
 - Core concept central to response
 - Technical term requiring definition
 - Topic with separate note potential

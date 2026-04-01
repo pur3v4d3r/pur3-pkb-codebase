@@ -92,7 +92,7 @@ In educational implementations combining [[Cognitive-Load-Theory]] and [[Self-De
 > [!key-claim]
 > **The Autonomy-Structure Paradox:** Effective PKB systems must simultaneously provide structure (reducing cognitive load and supporting competence) while preserving autonomy (allowing personalized organization and individual sense-making). This is not contradiction but complementarity—structure enables autonomous action by making the system predictable and navigable.
 
-For Obsidian implementations, autonomy support manifests through several design features. The **plugin ecosystem** allows users to extend functionality according to personal needs rather than accepting imposed feature sets. The **plain text foundation** ensures users maintain actual ownership and control of their knowledge rather than depending on proprietary formats or cloud services. The **flexible organization paradigms**—users can employ pure [[Zettelkasten]] principles, [[Johnny.Decimal]] numbering, [[PARA Method]] categories, or hybrid approaches—honor individual differences in cognitive style and organizational preferences. The **customizable interface** through CSS snippets and community themes allows users to create visual environments that support their concentration and aesthetic preferences.
+For Obsidian implementations, autonomy support manifests through several design features. The **plugin ecosystem** allows users to extend functionality according to personal needs rather than accepting imposed feature sets. The **plain text foundation** ensures users maintain actual ownership and control of their knowledge rather than depending on proprietary formats or cloud services. The **flexible organization paradigms**—users can employ pure [[Zettelkasten]] principles, [[Johnny.Decimal]] numbering, [[PARA-Method]] categories, or hybrid approaches—honor individual differences in cognitive style and organizational preferences. The **customizable interface** through CSS snippets and community themes allows users to create visual environments that support their concentration and aesthetic preferences.
 
 Competence support emerges from different architectural decisions. The **immediate feedback** provided by rendered wikilinks (showing whether linked notes exist) creates a sense of building something tangible rather than shouting into a void. The **graph visualization** provides concrete evidence of knowledge network growth, satisfying the human need to see progress and development. The **search and query capabilities** through native search, Dataview queries, and similar tools create the experience of mastery—users develop increasing sophistication in retrieving exactly what they need. The **progressive disclosure of complexity**—beginning with simple markdown and gradually adopting more advanced features—prevents overwhelming novices while providing growth paths for developing expertise.
 
@@ -169,7 +169,7 @@ Systems must satisfy [[Autonomy]], [[Competence]], and [[Relatedness]] to sustai
 
 **Autonomy Support:**
 
-**Flexible organizational paradigms** allow users to employ pure [[Zettelkasten]], [[PARA Method]], [[Johnny.Decimal]], [[Access-Control-Select]], or hybrid approaches according to cognitive style preferences. The system should not impose single "correct" organizational principles but provide structural options users can adopt and adapt. This flexibility honors individual differences in [[Information Processing]] styles while maintaining sufficient structure to reduce [[Cognitive-Load]].
+**Flexible organizational paradigms** allow users to employ pure [[Zettelkasten]], [[PARA-Method]], [[Johnny.Decimal]], [[Access-Control-Select]], or hybrid approaches according to cognitive style preferences. The system should not impose single "correct" organizational principles but provide structural options users can adopt and adapt. This flexibility honors individual differences in [[information-processing]] styles while maintaining sufficient structure to reduce [[Cognitive-Load]].
 
 **Customization capabilities** through CSS snippets, community themes, and plugin selection transform the vault from a tool you use into an environment you inhabit. The aesthetic and functional customization process itself builds [[Competence]] through progressive mastery while satisfying [[Autonomy]] through personalization. Users should be encouraged to experiment with customization incrementally, avoiding overwhelming initial configuration sessions that create extraneous load before establishing basic competence.
 
@@ -255,7 +255,7 @@ The psychological concepts you identified map directly onto system architecture,
 
 **Philosophical and Theoretical Foundations:**
 
-[[Cognitive-Science]], [[Information Theory]], [[Library Science]], and [[Knowledge-Management]] provide interdisciplinary foundations ensuring systems build on established understanding rather than reinventing from ignorance. [[Networked Thought]] and [[Extended Mind]] theory establish that cognition extends beyond the brain into external tools and representations.
+[[Cognitive-Science]], [[Information-Theory]], [[Library Science]], and [[Knowledge-Management]] provide interdisciplinary foundations ensuring systems build on established understanding rather than reinventing from ignorance. [[Networked Thought]] and [[Extended Mind]] theory establish that cognition extends beyond the brain into external tools and representations.
 
 **Contextual and Planning Elements:**
 
@@ -301,7 +301,7 @@ The goal is not creating perfect systems but building **psychological architectu
 ---
 
 > [!connections-and-links]
-> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology]] (explaining how thinking works), [[Educational-Psychology]] (establishing how learning happens), [[Instructional-Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management]] (establishing organizational knowledge practices), [[Human-Computer Interaction]] (ensuring usable interfaces), and [[Philosophy of Mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
+> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology]] (explaining how thinking works), [[Educational-Psychology]] (establishing how learning happens), [[Instructional-Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management]] (establishing organizational knowledge practices), [[Human-Computer Interaction]] (ensuring usable interfaces), and [[philosophy-of-mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
 
 ---
 

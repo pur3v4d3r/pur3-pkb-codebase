@@ -155,11 +155,11 @@ dv.paragraph(`**Total Cognitive Science Notes**: ${total}`);
 ### Theoretical Models
 - [[Dual-Process-Theory]] - System 1 (automatic) vs System 2 (deliberate)
 - [[Signal Detection Theory]] - Decision-making under uncertainty
-- [[Information Theory]] - Quantifying information and communication
+- [[Information-Theory]] - Quantifying information and communication
 
 ### Related Systems
-- [[Philosophy of Mind]] - Metaphysical foundations
-- [[epistemology]] - Theory of knowledge
+- [[philosophy-of-mind]] - Metaphysical foundations
+- [[Epistemology]] - Theory of knowledge
 - [[Evolutionary Epistemology]] - Evolution of cognitive systems
 
 ```dataview
@@ -226,7 +226,7 @@ LIMIT 8
 ### Monitoring & Regulation
 - [[Cognitive Restructuring]] - Thought pattern modification
 - [[Cognitive-Reappraisal]] - Emotion regulation via reinterpretation
-- [[Emotional Regulation]] - Affect management strategies
+- [[Emotional-Regulation]] - Affect management strategies
 
 ### Neural Substrates
 - [[Default Mode Network]] - Task-negative baseline activity
@@ -303,7 +303,7 @@ LIMIT 10
 
 ### Monitoring & Control
 - [[Consider The Opposite]] - Debiasing through perspective-taking
-- [[Pre Mortem Analysis]] - Prospective failure analysis
+- [[Pre-Mortem-Analysis]] - Prospective failure analysis
 - [[Prospective Hindsight]] - Imagined retrospection
 - [[Planning]] - Goal-directed action sequencing
   - [[Habit-Formation]] - Automaticity development
@@ -322,7 +322,7 @@ LIMIT 10
   - [[Confirmation-Bias]] - Belief-confirming evidence preference
   - [[Anchoring Effect]] - Initial value over-influence
   - [[Availability-Heuristic]] - Ease-of-recall bias
-  - [[Representativeness Heuristic]] - Stereotype-based judgment
+  - [[representativeness-heuristic]] - Stereotype-based judgment
   - [[Illusions Of Comprehension]] - Metacognitive illusions
 
 ```dataview
@@ -355,7 +355,7 @@ LIMIT 12
 - [[Locus-of-Control]] - Agency attribution
 - [[Socratic-Method]] - Question-based inquiry
 - [[Socratic Thinking]] - Critical reasoning approach
-- [[Pragmatism]] - Action-oriented epistemology
+- [[pragmatism]] - Action-oriented epistemology
 
 ### Performance & Motivation
 - [[System-1]] - Fast, automatic processing
@@ -421,9 +421,9 @@ if (bridges.length > 0) {
 ### Known Integration Points
 
 **Cognitive Science ↔ Philosophy**
-- [[epistemology]] ↔ [[Cognitive Development]] (developmental epistemology)
+- [[Epistemology]] ↔ [[Cognitive Development]] (developmental epistemology)
 - [[Stoicism]] ↔ [[Cognitive Restructuring]] (ancient CBT parallels)
-- [[Philosophy of Mind]] ↔ [[Extended Mind]] (consciousness theories)
+- [[philosophy-of-mind]] ↔ [[Extended Mind]] (consciousness theories)
 
 **Cognitive Science ↔ Neuroscience**
 - [[Working-Memory]] ↔ [[Default Mode Network]] (neural correlates)
@@ -437,7 +437,7 @@ if (bridges.length > 0) {
 
 **Cognitive Science ↔ Clinical Psychology**
 - [[Cognitive-Biases]] ↔ [[Cognitive Distortions]] (systematic errors)
-- [[Cognitive-Reappraisal]] ↔ [[Emotional Regulation]] (affect management)
+- [[Cognitive-Reappraisal]] ↔ [[Emotional-Regulation]] (affect management)
 - [[Anxiety disorders]] ↔ [[Automatic Thoughts]] (pathological cognition)
 
 ---
@@ -454,11 +454,11 @@ if (bridges.length > 0) {
 - **Metacognition & Bias** → See Pillar V
 
 ### External MOCs (Cross-References)
-- [[Learning Theory MOC]] - Pedagogical frameworks
-- [[Neuroscience MOC]] - Brain structure and function
+- [[learning-theory-moc]] - Pedagogical frameworks
+- [[neuroscience-moc]] - Brain structure and function
 - [[Philosophy MOC]] - Epistemology and mind
 - [[Psychology MOC]] - Applied psychology domains
-- [[PKB & PKM MOC]] - Knowledge management applications
+- [[pkb-&-pkm-moc]] - Knowledge management applications
 
 ---
 
@@ -578,7 +578,7 @@ dv.list(sortedSources.map(([source, count]) => `**${source}**: ${count} notes`))
    - *Knowledge Graph Role*: Meta-theoretical framework potentially reorganizing entire MOC
 
 4. **[[Cognitive Phenomenology]]**
-   - *Connection*: Integrates [[Philosophy of Mind]] with empirical cognitive science
+   - *Connection*: Integrates [[philosophy-of-mind]] with empirical cognitive science
    - *Depth Potential*: Subjective experience of thinking, consciousness, qualia
    - *Knowledge Graph Role*: Bridges Pillar I with [[Mindfulness Meditation]] and phenomenology
 

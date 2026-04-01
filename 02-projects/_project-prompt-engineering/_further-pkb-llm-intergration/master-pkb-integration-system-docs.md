@@ -1061,7 +1061,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development]] — schema automation
 > - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
@@ -1491,7 +1491,7 @@ Identify and link any term that meets these criteria:
 - Named model, theory, or systematic approach
 - Attributed to specific researcher/thinker
 - Has literature/research supporting it
-- Examples: [[Dual-Coding-Theory]], [[PARA Method]], [[Bloom's-Taxonomy]]
+- Examples: [[Dual-Coding-Theory]], [[PARA-Method]], [[Bloom's-Taxonomy]]
 
 ✓ **Methodological Process**
 - Step-by-step procedure or technique
@@ -1516,7 +1516,7 @@ Identify and link any term that meets these criteria:
 **CATEGORY 3: Disciplinary Knowledge Domains**
 
 ✓ **Academic Fields**
-- Broad domains: [[Cognitive-Science]], [[Neuroscience]], [[Instructional-Design]]
+- Broad domains: [[Cognitive-Science]], [[neuroscience]], [[Instructional-Design]]
 - Subdisciplines: [[Educational-Psychology]], [[Human-Computer Interaction]]
 - Research areas: [[Learning-Analytics]], [[Metacognition]]
 
@@ -1547,7 +1547,7 @@ Identify and link any term that meets these criteria:
 
 ✓ **Named Methods & Systems**
 - Methods attributed to individuals: [[Feynman Technique]], [[Cornell Notes]]
-- Proprietary systems: [[Getting Things Done]], [[Bullet Journal]]
+- Proprietary systems: [[Getting-Things-Done]], [[Bullet Journal]]
 - Historical approaches: [[Commonplace Book]], [[Memory Palace]]
 
 ### Link Density Guidelines (Target Ranges)
@@ -2217,7 +2217,7 @@ and maintains readability.]
 
 **LIST-STYLE FORMAT** (Multiple values):
 ```markdown
-**Related-Concepts**:: [[Concept-1]], [[Concept-2]], [[Concept 3]]
+**Related-Concepts**:: [[Concept-1]], [[Concept-2]], [[Concept-3]]
 ```
 
 **SYNTAX RULES (Detailed):**
@@ -3475,7 +3475,7 @@ Include when:
 
 ## 🔄 Related MOCs
 
-- **[[Learning Theory MOC]]** - This note fits within broader collection of learning frameworks including behaviorism, constructivism, and connectivism
+- **[[learning-theory-moc]]** - This note fits within broader collection of learning frameworks including behaviorism, constructivism, and connectivism
 - **[[Instructional Design Frameworks MOC]]** - CLT is one of several evidence-based frameworks (ADDIE, Backwards Design, UDL) organized in this navigation hub
 
 ---``
@@ -8876,7 +8876,7 @@ related: [[Cognitive-Load-Theory]], [[Working-Memory]], [[Schema-Theory]], [[Ins
 
 ### Discovery Heuristic
 
-**IF a term meets ANY criterion, format as [[Wiki-Link]]:**
+**IF a term meets ANY criterion, format as [[wiki-link]]:**
 
 ✅ **Core concept** central to the response  
 ✅ **Technical term** requiring definition or elaboration  
@@ -9807,7 +9807,7 @@ WHERE contains(file.content, "%%extract-atomic:")
 [[Helpful Context]]^soft-prerequisite
 
 %%prereq-hard: [[Working-Memory]]%% Must understand before proceeding
-%%prereq-soft: [[Information Processing]]%% Helpful but not required
+%%prereq-soft: [[information-processing]]%% Helpful but not required
 ```
 
 **Prerequisite Types:**
@@ -10542,7 +10542,7 @@ Based on the audit above, here are specific corrections and enhancements:
 **MISSED WIKI-LINKS** *(Should have been linked)*:
 - **[[Concept-1]]** - [Why this matters for knowledge graph]
 - **[[Concept-2]]** - [Why this matters for knowledge graph]
-- **[[Concept 3]]** - [Why this matters for knowledge graph]
+- **[[Concept-3]]** - [Why this matters for knowledge graph]
 
 **ADDITIONAL CONTEXT** *(Valuable information omitted)*:
 - **[Topic/Detail]**: [Why this would have added value]
@@ -12540,7 +12540,7 @@ aliases: [Wiki-Link QRC, Linking Guide, Knowledge Graph Reference]
 
 ## Discovery Heuristic: When to Create Links
 
-**CREATE `[[Wiki-Link]]` if ANY of these are true:**
+**CREATE `[[wiki-link]]` if ANY of these are true:**
 
 ✅ Core concept central to response  
 ✅ Technical term requiring definition  

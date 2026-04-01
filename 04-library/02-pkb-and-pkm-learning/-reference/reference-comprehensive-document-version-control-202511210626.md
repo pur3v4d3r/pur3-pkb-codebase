@@ -241,7 +241,7 @@ Most knowledge workers suffer from the [[Planning Fallacy]]—systematic underes
 - Outcome-oriented (emphasizes value created, not time spent)
 - Easier to query by topic (tasks are naturally semantic)
 - Lower capture burden (document after completion)
-- Aligns with [[Getting Things Done]] and [[para method]] approaches
+- Aligns with [[Getting-Things-Done]] and [[PARA-Method]] approaches
 - Creates natural progress visibility
 
 **Disadvantages**:
@@ -479,7 +479,7 @@ tags: [#daily-note, #work-log]
 ## 📝 Work Log
 
 ### Morning Session (09:00 - 12:00)
-**Active Project**: [[Project Name]]
+**Active Project**: [[Project-Name]]
 **Time Tracked**: [Start - End]
 **Activities**:
 - 
@@ -489,7 +489,7 @@ tags: [#daily-note, #work-log]
 **Decisions Made**: 
 
 ### Afternoon Session (13:00 - 17:00)
-**Active Project**: [[Project Name]]
+**Active Project**: [[Project-Name]]
 **Time Tracked**: [Start - End]
 **Activities**:
 - 
@@ -1908,8 +1908,8 @@ Wiki-Link Opportunities Identified:
 - [[Semantic Versioning]]
 - [[Obsidian Daily Notes]]
 - [[Zettelkasten]]
-- [[PARA Method]]
-- [[Getting Things Done]]
+- [[PARA-Method]]
+- [[Getting-Things-Done]]
 - [[Version Control]]
 - [[Change Management]]
 - [[Documentation Systems]]

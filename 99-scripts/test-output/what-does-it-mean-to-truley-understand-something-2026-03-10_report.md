@@ -239,7 +239,7 @@ extraction_summary:
 #### 20. [INSIGHT] Final Analytical Interlude: What the Dialogue Has Given *(Line 389)*
 
 > [!insight] Final Analytical Interlude: What the Dialogue Has Given
-> A Foundational Report on understanding would have surveyed the landscape of philosophical accounts — the propositional knowledge tradition, the know-how/know-that distinction, contemporary [[philosophy of mind]] treatments. A First Principles Report would have decomposed understanding to its irreducible conditions and asked what would have to be true for any account of understanding to be adequate. This Socratic Dialogue did something neither of those approaches can: it *enacted* the problem. The reader has not just read about the inadequacy of the explanation-test; they have watched it be tested, pressured, and found wanting. They have experienced something structurally analogous to genuine aporia — the uncomfortable recognition that a confident framework was not as solid as it seemed.
+> A Foundational Report on understanding would have surveyed the landscape of philosophical accounts — the propositional knowledge tradition, the know-how/know-that distinction, contemporary [[philosophy-of-mind]] treatments. A First Principles Report would have decomposed understanding to its irreducible conditions and asked what would have to be true for any account of understanding to be adequate. This Socratic Dialogue did something neither of those approaches can: it *enacted* the problem. The reader has not just read about the inadequacy of the explanation-test; they have watched it be tested, pressured, and found wanting. They have experienced something structurally analogous to genuine aporia — the uncomfortable recognition that a confident framework was not as solid as it seemed.
 > 
 > This is what the Socratic method uniquely produces: not a conclusion carried from the page to the reader, but a capacity for inquiry that the reader has exercised by proxy. The Respondent's final position — that understanding is purposive functional integration, manifesting in productive inference, prediction, error-detection, analogical extension, and self-correction — is more sophisticated than the opening thesis. But more importantly, the reader now understands *why* it is more sophisticated: they have traversed the terrain of arguments and counterarguments that makes the revised position better than the original. That traversal is itself an exercise in understanding.
 
@@ -361,7 +361,7 @@ extraction_summary:
 
 - [[Aha!-moment]]
 - [[Dunning-Kruger-Effect]]
-- [[Epistemology MOC]]
+- [[Epistemology-MOC]]
 - [[First Principles: What Is Knowledge?]]
 - [[Foundational Report: Philosophy of Mind]]
 - [[Frank-Keil]]
@@ -373,7 +373,7 @@ extraction_summary:
 - [[Polanyian-Tacit-Knowing]]
 - [[Richard-Feynman]]
 - [[Rote-memorization]]
-- [[Socratic Dialogue Report Generator v1.0]]
+- [[Socratic-Dialogue-Report-Generator-v1.0]]
 - [[Tacit Knowledge (Polanyi)]]
 - [[Transfer-of-Learning]]
 - [[classical-mechanics]]
@@ -386,7 +386,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Calibration]]
 - [[pedagogy]]
-- [[philosophy of mind]]
+- [[philosophy-of-mind]]
 - [[sense-of-coherence]]
 - [[Tacit-Knowledge]]
 - [[understanding]]
@@ -423,9 +423,9 @@ extraction_summary:
 | 26 | [[fluency-effects]] | — | — | Movement VI: The Reconstruction — Dia... | 349 |
 | 27 | [[Metacognition]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
 | 28 | [[Dunning-Kruger-Effect]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
-| 29 | [[philosophy of mind]] | — | — | Movement VII: The Closing — What We'v... | 390 |
-| 30 | [[Socratic Dialogue Report Generator v1.0]] | — | — | D. Expansion Topics | 483 |
-| 31 | [[Epistemology MOC]] | — | — | D. Expansion Topics | 483 |
+| 29 | [[philosophy-of-mind]] | — | — | Movement VII: The Closing — What We'v... | 390 |
+| 30 | [[Socratic-Dialogue-Report-Generator-v1.0]] | — | — | D. Expansion Topics | 483 |
+| 31 | [[Epistemology-MOC]] | — | — | D. Expansion Topics | 483 |
 | 32 | [[Foundational Report: Philosophy of Mind]] | — | — | D. Expansion Topics | 483 |
 | 33 | [[First Principles: What Is Knowledge?]] | — | — | D. Expansion Topics | 483 |
 
@@ -440,7 +440,7 @@ extraction_summary:
 
 - [[Aha!-moment]]
 - [[Dunning-Kruger-Effect]]
-- [[Epistemology MOC]]
+- [[Epistemology-MOC]]
 - [[First Principles: What Is Knowledge?]]
 - [[Foundational Report: Philosophy of Mind]]
 - [[Frank-Keil]]
@@ -452,7 +452,7 @@ extraction_summary:
 - [[Polanyian-Tacit-Knowing]]
 - [[Richard-Feynman]]
 - [[Rote-memorization]]
-- [[Socratic Dialogue Report Generator v1.0]]
+- [[Socratic-Dialogue-Report-Generator-v1.0]]
 - [[Tacit Knowledge (Polanyi)]]
 - [[Transfer-of-Learning]]
 - [[classical-mechanics]]
@@ -465,7 +465,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Calibration]]
 - [[pedagogy]]
-- [[philosophy of mind]]
+- [[philosophy-of-mind]]
 - [[sense-of-coherence]]
 - [[Tacit-Knowledge]]
 - [[understanding]]
@@ -474,13 +474,13 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[epistemology]]
+- [[Epistemology]]
 - [[Philosophy of Education]]
 - [[Cognitive-Science]]
 
 #### Related Concepts
 
-- [[epistemology]]
+- [[Epistemology]]
 - [[Propositional Knowledge]]
 - [[Procedural-Knowledge]]
 - [[Tacit-Knowledge]]
@@ -503,7 +503,7 @@ extraction_summary:
 
 #### Link Up
 
-- [[Epistemology MOC]]
+- [[Epistemology-MOC]]
 
 ---
 

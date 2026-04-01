@@ -260,7 +260,7 @@ Document chains create learning paths where each note links to the next logical 
 **Pattern**: High-Density Semantic Network
 
 **Guidelines**:
-- Every note has 2+ [[Wiki-Link|Wiki-Links]] in and out
+- Every note has 2+ [[wiki-link|Wiki-Links]] in and out
 - Concepts mentioned ≥2 times become links
 - Over-link toward graph density (err on side of more links)
 - Orphan notes <5% of total
@@ -421,7 +421,7 @@ Task logs use a 30-day rolling window to prevent memory bloat while maintaining 
 **Components** (from [[__LOCAL-REPO/CLAUDE]] system prompt):
 
 1. **Metadata Headers** (YAML frontmatter)
-2. **Wiki-Links** (`[[Like This]]`)
+2. **Wiki-Links** (`[[like-this]]`)
 3. **Semantic Callouts** (`> [!type]`)
 4. **Semantic Color Coding** (HTML spans with hex colors)
 5. **Dataview Inline Fields** (`[**Field**:: value]`)

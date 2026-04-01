@@ -286,7 +286,7 @@ npm list --depth=0
   - Reference note: 15-40 links
   - MOC: 20-50+ links
 - [ ] All wiki-links resolve correctly (no broken links)
-- [ ] Links use `[[Wiki-Link]]` format (not markdown `[text](file.md)`)
+- [ ] Links use `[[wiki-link]]` format (not markdown `[text](file.md)`)
 - [ ] Links to related master documents present
 
 #### Cross-References

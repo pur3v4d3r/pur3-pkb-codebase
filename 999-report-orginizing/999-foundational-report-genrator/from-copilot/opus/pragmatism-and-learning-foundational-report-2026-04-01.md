@@ -63,7 +63,7 @@ related: ["[[Dewey's-Reflective-Thinking]]", "[[Inquiry-Based-Learning]]", "[[Si
 broader: ["[[American-pragmatism]]", "[[Epistemology]]"]
 narrower: ["[[Dewey's-Continuity-and-Interaction-Principles]]", "[[Pragmatic-Maxim]]"]
 see-also: ["[[Constructivism]]", "[[Self-Regulated-Learning]]", "[[Critical-Thinking]]"]
-builds-on: ["[[Pragmatism]]", "[[Fallibilism]]", "[[Reflective-Thinking]]"]
+builds-on: ["[[pragmatism]]", "[[Fallibilism]]", "[[Reflective-Thinking]]"]
 enables: ["[[Inquiry-Based-Learning]]", "[[Reflective-Practice]]", "[[Double-Loop-Learning]]"]
 
 # APPENDIX & DENSITY TRACKING
@@ -105,9 +105,9 @@ connection-strength:
 
 ## Abstract
 
-[[Pragmatism]] is one of the most consequential and distinctively American contributions to Western intellectual life, and its implications for how human beings learn, teach, and organize educational institutions are both radical and enduring. Emerging in the final decades of the nineteenth century through the work of [[Charles-Sanders-Peirce]], [[cog-psy-william-james|William James]], and most systematically in the educational philosophy of [[John-Dewey]], pragmatism challenged the received epistemological tradition by insisting that ideas are not passive mirrors of reality but active instruments for solving problems. Knowledge, on this view, is not something we possess but something we achieve through purposive engagement with an uncertain world.
+[[pragmatism]] is one of the most consequential and distinctively American contributions to Western intellectual life, and its implications for how human beings learn, teach, and organize educational institutions are both radical and enduring. Emerging in the final decades of the nineteenth century through the work of [[Charles-Sanders-Peirce]], [[cog-psy-william-james|William James]], and most systematically in the educational philosophy of [[John-Dewey]], pragmatism challenged the received epistemological tradition by insisting that ideas are not passive mirrors of reality but active instruments for solving problems. Knowledge, on this view, is not something we possess but something we achieve through purposive engagement with an uncertain world.
 
-This report offers a comprehensive analytical treatment of [[Pragmatism|pragmatism]] as a philosophy of learning and education. It traces the philosophical foundations of the pragmatist movement, distinguishing its core commitments — instrumentalism, [[Fallibilism|fallibilism]], and the centrality of [[Dewey's-Reflective-Thinking|reflective inquiry]] — from both rationalist and empiricist predecessors. It examines Dewey's theory of experience as the engine of learning, analyzing the principles of continuity and interaction that transform mere activity into educative growth. It investigates the structure of pragmatist inquiry as a cognitive model, presenting the famous five-step model of [[Reflective-Thinking|reflective thinking]] as a precursor to contemporary frameworks of [[Metacognition|metacognition]] and [[Self-Regulated-Learning|self-regulated learning]]. The report further addresses how pragmatism frames the social and contextual dimensions of cognition, anticipating later developments in [[Situated-Learning-Theory|situated cognition]] and [[Communities-of-Practice|communities of practice]]. Pedagogical implications are drawn systematically from theoretical commitments, and contemporary extensions — particularly in [[Constructivist-Learning-Theory|constructivist pedagogy]], inquiry-based instruction, and design thinking — are traced back to their pragmatist roots. The report concludes with a critical analysis of tensions within pragmatism and its lasting contributions to educational theory and practice.
+This report offers a comprehensive analytical treatment of [[pragmatism|pragmatism]] as a philosophy of learning and education. It traces the philosophical foundations of the pragmatist movement, distinguishing its core commitments — instrumentalism, [[Fallibilism|fallibilism]], and the centrality of [[Dewey's-Reflective-Thinking|reflective inquiry]] — from both rationalist and empiricist predecessors. It examines Dewey's theory of experience as the engine of learning, analyzing the principles of continuity and interaction that transform mere activity into educative growth. It investigates the structure of pragmatist inquiry as a cognitive model, presenting the famous five-step model of [[Reflective-Thinking|reflective thinking]] as a precursor to contemporary frameworks of [[Metacognition|metacognition]] and [[Self-Regulated-Learning|self-regulated learning]]. The report further addresses how pragmatism frames the social and contextual dimensions of cognition, anticipating later developments in [[Situated-Learning-Theory|situated cognition]] and [[Communities-of-Practice|communities of practice]]. Pedagogical implications are drawn systematically from theoretical commitments, and contemporary extensions — particularly in [[Constructivist-Learning-Theory|constructivist pedagogy]], inquiry-based instruction, and design thinking — are traced back to their pragmatist roots. The report concludes with a critical analysis of tensions within pragmatism and its lasting contributions to educational theory and practice.
 
 > [!schema-activation] Activating Prior Knowledge: Where Does This Connect?
 > Before engaging with this report, consider what you already know about [[Constructivism|constructivism]], [[Inquiry-Based-Learning|inquiry-based learning]], or the relationship between [[Critical-Thinking|critical thinking]] and experience. If you have encountered [[Dewey's-Reflective-Thinking|Dewey's reflective thinking]] in other notes, this report provides the philosophical scaffolding behind that model. If you have studied [[Metacognition|metacognition]] or [[Self-Regulated-Learning|self-regulated learning]], you will find that pragmatism anticipated many of their core insights generations earlier. The central guiding question for this report is: *How does pragmatist philosophy transform our understanding of what it means to know something, and what follows from that transformation for how we should teach and learn?* Keep this question active as you move through the sections — your answers will become progressively richer and more nuanced as the philosophical architecture unfolds.
@@ -177,7 +177,7 @@ Central to pragmatist epistemology is a reconceptualization of experience itself
 This transactional conception has direct implications for learning theory. Learning, on the pragmatist account, is not the accumulation of information in memory but the reconstruction of experience — the transformation of raw, undifferentiated engagement with the world into increasingly reflective, organized, and purposively directed ways of acting. Every genuine learning episode involves what Dewey called "reconstruction": the modification of existing habits and interpretive frameworks in light of the consequences of action. This is why [[Experiential-Learning|learning by doing]] is not merely a pedagogical technique for pragmatism — it is an epistemological necessity. You cannot learn to swim by reading about swimming; you cannot develop genuine understanding of historical causation by memorizing textbook summaries. The doing is not supplementary to the knowing; it is constitutive of it.
 
 > [!key-claim] Learning as Reconstruction of Experience
-> [[Pragmatism|Pragmatism]] defines learning not as information acquisition but as the *reconstruction* of experience — the ongoing modification of existing habits, schemas, and interpretive frameworks in light of the encountered consequences of purposive action. This means genuine learning is always transformative, not merely additive, and always requires active engagement with problematic situations, not passive receipt of organized content.
+> [[pragmatism|Pragmatism]] defines learning not as information acquisition but as the *reconstruction* of experience — the ongoing modification of existing habits, schemas, and interpretive frameworks in light of the encountered consequences of purposive action. This means genuine learning is always transformative, not merely additive, and always requires active engagement with problematic situations, not passive receipt of organized content.
 
 ### Habit, Intelligence, and the Growth of Competence
 
@@ -293,7 +293,7 @@ This five-phase model is simultaneously a logical account of inquiry, a psycholo
 
 The parallels between Dewey's model of reflective thinking and contemporary research on [[Metacognition|metacognition]] are striking and underexplored. Dewey's "location and definition of the problem" maps onto metacognitive planning and orientation — the phase in which the learner asks what kind of problem this is, what strategies are appropriate, and what resources are relevant. His "suggestion of possible solutions" maps onto metacognitive hypothesis generation. His phase of developing reasoning through implications maps onto the monitoring component of [[Metacognitive-Regulation|metacognitive regulation]] — tracking whether the current approach is making progress. And his testing phase maps onto the evaluation component of the [[Cyclical-Model-of-Self-Regulated-Learning|cyclical model of self-regulated learning]].
 
-The connection is not coincidental. [[John-Flavell|Flavell's]] original formulation of metacognition was deeply influenced by the tradition of educational philosophy that Dewey's work had shaped, and Dewey's conception of intelligence as the capacity to direct one's own inquiry — to monitor one's own thinking and adjust it in light of emerging difficulties — is essentially the pragmatist foundation for what became the cognitive-scientific concept of self-regulated learning. [[Paul-Pintrich|Pintrich's]] integrative [[Pintrichs-framework-srl-focused-analysis-2026-03-23|framework for self-regulated learning]] can in many respects be read as a cognitive-scientific formalization of Dewey's pedagogical vision.
+The connection is not coincidental. [[John-Flavell|Flavell's]] original formulation of metacognition was deeply influenced by the tradition of educational philosophy that Dewey's work had shaped, and Dewey's conception of intelligence as the capacity to direct one's own inquiry — to monitor one's own thinking and adjust it in light of emerging difficulties — is essentially the pragmatist foundation for what became the cognitive-scientific concept of self-regulated learning. [[Paul-Pintrich|Pintrich's]] integrative [[pintrichs-framework-srl-focused-analysis-2026-03-23|framework for self-regulated learning]] can in many respects be read as a cognitive-scientific formalization of Dewey's pedagogical vision.
 
 > [!claude-insight] Dewey as the Unacknowledged Pioneer of Metacognitive Theory
 > The historical record suggests a curious under-acknowledgment: Dewey's five-phase model of reflective inquiry, articulated in 1910, contains within it virtually all the structural features that [[Metacognition|metacognition]] research — not systematically developed until Flavell's work in the 1970s — would independently identify as central to skilled learning. The monitoring, controlling, and evaluating functions that define metacognitive regulation are present in Dewey's account of how a reflective thinker navigates a problematic situation. This is not to claim direct lineage (the routes of influence are complex), but to suggest that situating metacognition research within the pragmatist philosophical tradition illuminates its theoretical foundations in ways that purely cognitive-scientific framing cannot provide.
@@ -357,7 +357,7 @@ The convergence between pragmatism and [[Situated-Learning-Theory|situated learn
 [[Situated-Cognition|Situated cognition]] theory extends this insight by arguing that cognitive processes are not merely influenced by context but are partially constituted by it. The tools, artifacts, and social relations of a learning environment are not external scaffolding for mental processes occurring somewhere inside the individual skull; they are elements of an extended cognitive system. This convergence between situated cognition, [[Distributed-Cognition|distributed cognition]], [[Embodied-Cognition|embodied cognition]], and [[4E-Cognition|4E cognition]] represents one of the most philosophically interesting contemporary extensions of pragmatist themes.
 
 > [!section-summary] Section 5 Core Takeaways
-> 1. [[Pragmatism|Pragmatism]] is irreducibly social: genuine intelligence is developed through communication, collaboration, and participation in shared inquiry, not through solitary contemplation. [[Communities-of-Practice|Communities of practice]] and [[Situated-Learning-Theory|situated learning theory]] are the mid-twentieth-century formalizations of this pragmatist insight.
+> 1. [[pragmatism|Pragmatism]] is irreducibly social: genuine intelligence is developed through communication, collaboration, and participation in shared inquiry, not through solitary contemplation. [[Communities-of-Practice|Communities of practice]] and [[Situated-Learning-Theory|situated learning theory]] are the mid-twentieth-century formalizations of this pragmatist insight.
 > 2. [[Scaffolding|Scaffolding]] — the systematic provision of structured support that is progressively withdrawn as competence develops — is the practical implementation of the pragmatist-Vygotskian view that social mediation is the developmental pathway to autonomous competence.
 > 3. [[Situated-Cognition|Situated cognition]] theory extends pragmatism by arguing that cognitive processes are partially constituted by their environmental and social context — anticipating the broader turn toward [[4E-Cognition|4E cognition]] in contemporary cognitive science.
 
@@ -386,7 +386,7 @@ Dewey's Laboratory School at the University of Chicago (1896–1904) was the mos
 The contemporary [[Design-Thinking-Pedagogy|design thinking pedagogy]] movement is one of the most significant inheritors of this Dewey-inspired tradition. Design thinking projects — the design and prototyping of solutions to genuine community problems, for example — organize curriculum around iterative cycles of inquiry, experimentation, and feedback that map closely onto Dewey's inquiry model. They provide what standardized curricula rarely provide: genuine uncertainty, real stakes, immediate feedback from testing solutions against reality, and the integration of knowledge across conventional disciplinary boundaries.
 
 > [!example] Integrated Projects as Pragmatist Curriculum
-> A class designing a functional community garden encounters genuine problems in: site analysis and spatial reasoning (mathematics and geometry), soil chemistry and plant biology (science), food system history and community engagement (history and social studies), budget management (economics), and persuasive communication to relevant stakeholders (rhetoric and communication). No teacher needed to artificially motivate interest in any of these domains — the project's genuine stakes, real constraints, and immediate feedback from the world created the motivational and cognitive conditions for inquiry. This is [[Pragmatism|pragmatist curriculum]] in practice.
+> A class designing a functional community garden encounters genuine problems in: site analysis and spatial reasoning (mathematics and geometry), soil chemistry and plant biology (science), food system history and community engagement (history and social studies), budget management (economics), and persuasive communication to relevant stakeholders (rhetoric and communication). No teacher needed to artificially motivate interest in any of these domains — the project's genuine stakes, real constraints, and immediate feedback from the world created the motivational and cognitive conditions for inquiry. This is [[pragmatism|pragmatist curriculum]] in practice.
 
 ### Dewey's Critique of Student-Centered Education: A Corrective
 
@@ -545,7 +545,7 @@ Pragmatism's incompleteness is real — it has not solved the problem of standar
 ### A. Lexicon of Key Terms
 
 > [!definition] Pragmatism
-> **Term:** [[Pragmatism]] (Peirce, James, Dewey; late 19th–20th century)
+> **Term:** [[pragmatism]] (Peirce, James, Dewey; late 19th–20th century)
 > **Definition:** A philosophical tradition holding that the meaning of concepts lies in their practical consequences, that knowledge is constituted through purposive inquiry rather than passive contemplation, and that truth is best understood as the warranted assertibility achieved through communal, self-correcting investigation.
 > **Boundary Conditions:** Pragmatism is not mere utilitarianism or "whatever works" relativism — Peirce's pragmatic maxim demands that practical consequences be the *conceivable* consequences of sustained inquiry, not momentary expedience. James's more permissive version is often criticized for collapsing this distinction.
 > **Report Significance:** The foundational philosophical framework that generates every other concept in this report.
@@ -556,7 +556,7 @@ Pragmatism's incompleteness is real — it has not solved the problem of standar
 > **Definition:** The principle that the entire meaning of any concept consists in its conceivable practical effects — to clarify an idea, determine what difference it would make in practice if true or false. Disputes with no conceivable practical difference are "meaningless controversies."
 > **Boundary Conditions:** Peirce intended practical effects as the long-run effects for a community of inquirers, not short-term personal utility. James broadened this to individual experience, creating a lasting tension within pragmatism.
 > **Report Significance:** The methodological foundation from which pragmatist epistemology and educational theory derive their characteristic orientation toward consequences, action, and use.
-> **See Also:** [[Pragmatism]], [[Charles-Sanders-Peirce]], [[cog-psy-william-james|William James]]
+> **See Also:** [[pragmatism]], [[Charles-Sanders-Peirce]], [[cog-psy-william-james|William James]]
 
 > [!definition] Fallibilism
 > **Term:** [[Fallibilism]] (Peirce; developed by Dewey, Popper, Quine)
@@ -829,19 +829,19 @@ INTELLECTUAL LINEAGE MAP:
 > > [!topic-idea] 1. [[Self-Directed-Learning|Self-Directed Learning]] and Pragmatist Foundations
 > > - **Connection:** Dewey's concept of growth as the ongoing expansion of inquiry capacity provides the deepest philosophical justification for self-directed learning. The pragmatist learner is inherently self-directing because genuine inquiry cannot be externally mandated.
 > > - **Depth Potential:** A foundational report connecting SDL research (Knowles, Tough, Candy) to its largely unacknowledged pragmatist philosophical roots would fill a significant gap in the PKB.
-> > - **Knowledge Graph Role:** Bridges [[Pragmatism]] → [[Self-Directed-Learning]] → [[Heutagogy]] → [[Lifelong-learning]]
+> > - **Knowledge Graph Role:** Bridges [[pragmatism]] → [[Self-Directed-Learning]] → [[Heutagogy]] → [[Lifelong-learning]]
 > > - **Priority:** High
 >
 > > [!topic-idea] 2. [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
 > > - **Connection:** IBL is the most direct pedagogical descendant of pragmatist philosophy. A dedicated report would systematically examine the empirical evidence for its effectiveness, the conditions under which it succeeds and fails, and its relationship to [[Cognitive-Load-Theory|cognitive load theory]].
 > > - **Depth Potential:** The tension between discovery learning and direct instruction is one of the most contested issues in educational research. A foundational treatment would map the complete evidence landscape.
-> > - **Knowledge Graph Role:** Bridges [[Pragmatism]] → [[Inquiry-Based-Learning]] → [[Cognitive-Load-Theory]] → [[Scaffolding]]
+> > - **Knowledge Graph Role:** Bridges [[pragmatism]] → [[Inquiry-Based-Learning]] → [[Cognitive-Load-Theory]] → [[Scaffolding]]
 > > - **Priority:** High
 >
 > > [!topic-idea] 3. [[Embodied-Cognition|Embodied Cognition]] and Its Pragmatist Roots
 > > - **Connection:** The 4E cognition research program represents, in important respects, the cognitive-scientific elaboration of Dewey's organism-environment transaction thesis. A dedicated report would trace this lineage and assess its implications for learning theory.
 > > - **Depth Potential:** Embodied cognition is one of the most active research fronts in cognitive science; connecting it explicitly to its pragmatist ancestry would generate productive cross-fertilization.
-> > - **Knowledge Graph Role:** Bridges [[Pragmatism]] → [[Embodied-Cognition]] → [[4E-Cognition]] → [[Enactive-Cognition]] → [[Ecological-Psychology]]
+> > - **Knowledge Graph Role:** Bridges [[pragmatism]] → [[Embodied-Cognition]] → [[4E-Cognition]] → [[Enactive-Cognition]] → [[Ecological-Psychology]]
 > > - **Priority:** Medium
 >
 > > [!topic-idea] 4. [[Reflective-Practice|Reflective Practice]] in Professional Education
@@ -853,13 +853,13 @@ INTELLECTUAL LINEAGE MAP:
 > > [!topic-idea] 5. [[Productive-Failure|Productive Failure]] and [[Desirable-Difficulties|Desirable Difficulties]] — The Pragmatist Case for Struggle
 > > - **Connection:** Pragmatism's insistence that genuine learning begins with genuine difficulty provides the philosophical framework for understanding why pedagogical techniques that initially produce failure (Kapur's productive failure, Bjork's desirable difficulties) produce superior long-term learning.
 > > - **Depth Potential:** Would integrate findings from cognitive psychology, motivation research, and philosophy of education into a unified framework.
-> > - **Knowledge Graph Role:** Bridges [[Pragmatism]] → [[Productive-Failure]] → [[Desirable-Difficulties]] → [[Cognitive-Load-Theory]] → [[Schema-Construction]]
+> > - **Knowledge Graph Role:** Bridges [[pragmatism]] → [[Productive-Failure]] → [[Desirable-Difficulties]] → [[Cognitive-Load-Theory]] → [[Schema-Construction]]
 > > - **Priority:** Medium
 >
 > > [!topic-idea] 6. [[democratic-self-governance|Democratic Education]] and Pragmatist Citizenship
 > > - **Connection:** Dewey's *Democracy and Education* argues that democracy is not merely a form of government but a mode of associated living organized around shared inquiry. A dedicated report would examine the relationship between pragmatist pedagogy and democratic citizenship, with attention to contemporary challenges of epistemic fragmentation and [[political-polarization|political polarization]].
 > > - **Depth Potential:** Highly relevant to current discussions of civic education, media literacy, and the epistemic foundations of democratic participation.
-> > - **Knowledge Graph Role:** Bridges [[Pragmatism]] → [[democratic-self-governance]] → [[Critical-Thinking-in-Education]] → [[Epistemic-Citizenship]] → [[Deliberative-Democracy]]
+> > - **Knowledge Graph Role:** Bridges [[pragmatism]] → [[democratic-self-governance]] → [[Critical-Thinking-in-Education]] → [[Epistemic-Citizenship]] → [[Deliberative-Democracy]]
 > > - **Priority:** Exploratory
 
 ---
@@ -869,7 +869,7 @@ INTELLECTUAL LINEAGE MAP:
 > [!connections-and-links] PKB Network Integration
 >
 > **Upstream Connections (This Report Builds On):**
-> - [[Pragmatism]] — The philosophical tradition examined in this report; the primary upstream concept
+> - [[pragmatism]] — The philosophical tradition examined in this report; the primary upstream concept
 > - [[Fallibilism]] — Core epistemic commitment of pragmatism; foundational to the inquiry model
 > - [[Constructivism]] — Shares pragmatism's epistemological commitment to active knowledge construction
 > - [[Reflective-Thinking]] — Dewey's central cognitive model, treated as the engine of learning throughout
@@ -897,10 +897,10 @@ INTELLECTUAL LINEAGE MAP:
 >
 > **Strengthened Connections (Deepened by This Report):**
 > - [[Dewey's-Reflective-Thinking]] ↔ [[Metacognition]] — This report establishes Dewey's five-phase model as the historical and philosophical precursor to metacognitive regulation frameworks
-> - [[Pragmatism]] ↔ [[Constructivism]] — The report clarifies that constructivism is, in important respects, the pedagogical operationalization of pragmatist epistemology
+> - [[pragmatism]] ↔ [[Constructivism]] — The report clarifies that constructivism is, in important respects, the pedagogical operationalization of pragmatist epistemology
 > - [[Fallibilism]] ↔ [[Growth-Mindset]] — The report traces a philosophical lineage from Peirce's fallibilism through Dewey's growth concept to Dweck's growth mindset
 > - [[Inquiry-Based-Learning]] ↔ [[Cognitive-Load-Theory]] — The report addresses the scaffolding resolution to the tension between discovery learning and direct instruction
-> - [[Schema-Theory]] ↔ [[Pragmatism]] — The report identifies Dewey's "intelligent habit" as a philosophical precursor to cognitive schema theory
+> - [[Schema-Theory]] ↔ [[pragmatism]] — The report identifies Dewey's "intelligent habit" as a philosophical precursor to cognitive schema theory
 > - [[Double-Loop-Learning]] ↔ [[Dewey's-Reflective-Thinking]] — The report establishes double-loop learning as the organizational-level extension of Dewey's individual inquiry model
 
 ---

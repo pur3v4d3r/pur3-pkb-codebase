@@ -477,7 +477,7 @@ Document architects can deliberately design module sequences to maximize this ef
 **Prerequisites:** Familiarity with software architecture concepts or willingness to learn foundational patterns.
 ### 4. **[[Cognitive Load Management in Digital Knowledge Work]]**
 **Connection:** While this note applies cognitive load theory specifically to prompt engineering, the principles extend across all forms of complex digital knowledge work—writing, research synthesis, curriculum design, strategic planning. A broader exploration would position prompt engineering as one instance of a general class of cognitively demanding tasks.  
-**Depth Potential:** Topics include measuring cognitive load in different knowledge work contexts, personalized capacity assessment, strategic task scheduling based on cognitive state, and environmental design for reduced extraneous load. Would integrate insights from [[Neuroscience]], [[Ergonomics]], and [[Productivity Research]].  
+**Depth Potential:** Topics include measuring cognitive load in different knowledge work contexts, personalized capacity assessment, strategic task scheduling based on cognitive state, and environmental design for reduced extraneous load. Would integrate insights from [[neuroscience]], [[Ergonomics]], and [[Productivity Research]].  
 **Knowledge Graph Role:** Positions [[Cognitive-Load-Theory]] as a unifying framework applicable across diverse knowledge work domains, with modular prompt engineering as a compelling case study of theory-driven practice improvement.  
 **Priority:** Medium — Enriches understanding and extends applicability but not critical for prompt engineering specifically.  
 **Prerequisites:** Basic familiarity with cognitive psychology concepts and interest in self-optimization.
@@ -491,7 +491,7 @@ Document architects can deliberately design module sequences to maximize this ef
 ### 6. **[[Context Window Architectures and Memory Management]]** *[Requires prerequisites]*
 **Connection:** As noted in the limitations section, context window management becomes critical for very long documents. A dedicated exploration of strategies for information preservation, selective context injection, external memory integration, and hierarchical compression would address this technical frontier.  
 **Depth Potential:** Topics include theoretical models of optimal context allocation, empirical studies of information decay patterns in multi-module generation, architectural patterns for external memory systems, and the emerging landscape of extended-context LLMs and their implications for modular strategies.  
-**Knowledge Graph Role:** Bridges [[Prompt-Engineering]], [[Information Theory]], and [[Systems Architecture]], addressing a fundamental technical constraint that shapes what's possible in modular generation.  
+**Knowledge Graph Role:** Bridges [[Prompt-Engineering]], [[Information-Theory]], and [[Systems Architecture]], addressing a fundamental technical constraint that shapes what's possible in modular generation.  
 **Priority:** Medium — Critical for extreme-scale generation (>20,000 words) but less essential for typical use cases.  
 **Prerequisites:** Technical understanding of LLM architectures, transformer attention mechanisms, and information theory concepts.
 

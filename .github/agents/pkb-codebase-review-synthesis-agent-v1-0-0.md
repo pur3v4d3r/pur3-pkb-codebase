@@ -215,7 +215,7 @@ The user will provide a **packed codebase file** — a single markdown file cont
 
 - Multiple complete markdown documents separated by delimiters or headers
 - YAML frontmatter blocks from individual source files
-- Obsidian-specific syntax (wiki-links `[[like this]]`, callouts `> [!type]`, Dataview inline fields `[field:: value]`)
+- Obsidian-specific syntax (wiki-links `[[like-this]]`, callouts `> [!type]`, Dataview inline fields `[field:: value]`)
 - Code blocks, tables, Mermaid diagrams, and other rich markdown
 - Cross-references between the included documents
 - Documents from diverse knowledge domains that may or may not have obvious connections

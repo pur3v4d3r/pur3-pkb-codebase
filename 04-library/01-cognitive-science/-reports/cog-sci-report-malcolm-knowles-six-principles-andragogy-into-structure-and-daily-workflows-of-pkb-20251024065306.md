@@ -271,7 +271,7 @@ The deeper insight is that adults have the capacity to self-identify their own n
 > 
 > 1. **Make Progress Visible Without Quantifying It**: Instead of a note count, consider a periodic "Looking Back" practice where you review notes from months or years ago and observe how your thinking has evolved. Many practitioners maintain yearly "Things I've Learned" reflections—not to hit a target number but to document and celebrate intellectual growth. This makes progress tangible while keeping the focus on the *substance* of learning rather than its volume.
 > 
-> 1. **Design for Flow States**: The ultimate intrinsic motivator is the [[flow state]]—complete absorption in intellectually engaging work. Personal Knowledge Base workflows should minimize friction and distraction to enable flow. This means fast, intuitive tools; elimination of unnecessary decisions ("Where should I file this?"); and work sessions structured around deep engagement with ideas rather than organizational maintenance.
+> 1. **Design for Flow States**: The ultimate intrinsic motivator is the [[Flow-State]]—complete absorption in intellectually engaging work. Personal Knowledge Base workflows should minimize friction and distraction to enable flow. This means fast, intuitive tools; elimination of unnecessary decisions ("Where should I file this?"); and work sessions structured around deep engagement with ideas rather than organizational maintenance.
 > 
 > 1. **Connect to Personal Values and Goals**: Regularly revisit *why* you're building this knowledge base. What kind of person do you want to become? What contributions do you hope to make? What intellectual capacities do you want to develop? These intrinsic motivators should be explicitly documented and regularly revisited, serving as north stars for your knowledge work.
 
@@ -814,7 +814,7 @@ Each domain presents unique challenges and opportunities for implementing andrag
 - [[Constructivist-Learning-Theory]]
 - [[Extended Cognition and Cognitive Enhancement]]
 - [[Zettelkasten Method and Atomic Notes]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory]]
 - [[Self-Determination-Theory]]
 - [[Progressive Elaboration in Learning]]
 - [[Problem-Based Learning]]

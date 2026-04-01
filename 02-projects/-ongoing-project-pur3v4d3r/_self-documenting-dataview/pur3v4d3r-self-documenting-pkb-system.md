@@ -149,7 +149,7 @@ concepts: [[Concept-1]], [[Concept-2]]       # Theoretical frameworks
 methodologies: [[Method 1]]                  # Research/work methods
 tools: [[Obsidian]], [[Dataview]]           # Technologies
 fields: [[Cognitive-Science]]                # Academic domains
-people: [[Author Name]]                      # Collaborators/sources
+people: [[Author-Name]]                      # Collaborators/sources
 ---
 ```
 
@@ -172,7 +172,7 @@ related-concepts: [[Supporting Concept]]
 ```yaml
 # Reference Documents
 source-type: book | paper | article | course
-authors: [[Author Name]]
+authors: [[Author-Name]]
 theories: [[Theoretical Framework]]
 methodologies: [[Research Method]]
 fields: [[Academic Field]]
@@ -410,11 +410,11 @@ link-related: []
 
 # SELF-DOCUMENTING FIELDS
 source-type: book          # book | paper | article | course | video
-authors: []                # [[Author Name]]
+authors: []                # [[Author-Name]]
 theories: []               # [[Theoretical Framework]]
 methodologies: []          # [[Research Method]]
 fields: []                 # [[Academic Domain]]
-concepts: []               # [[Key Concepts]]
+concepts: []               # [[Key-Concepts]]
 
 # BIBLIOGRAPHIC
 publication-year: 2025

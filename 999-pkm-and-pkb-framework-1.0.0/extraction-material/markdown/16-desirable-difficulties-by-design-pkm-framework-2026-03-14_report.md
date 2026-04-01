@@ -509,7 +509,7 @@ extraction_summary:
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Generation-Effect|Generation Effect]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Interleaving-Effect|Interleaving Effect]]
 - [[Kapur's Productive Failure]]
 - [[Metacognitive Training for Desirable Difficulties Adoption]]
@@ -554,7 +554,7 @@ extraction_summary:
 | 7 | [[Productive-Failure|Productive Failure]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
 | 8 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 9 | [[Generation-Effect|Generation Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
-| 10 | [[Interleaving]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
+| 10 | [[interleaving]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 11 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 12 | [[Constructivist-Struggle|Constructivist Struggle]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 13 | [[Report 06: The Science of Remembering]] | Report 06 | — | Phase I: Orientation & Synthesis Focus | 121 |
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Generation-Effect|Generation Effect]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Interleaving-Effect|Interleaving Effect]]
 - [[Kapur's Productive Failure]]
 - [[Metacognitive Training for Desirable Difficulties Adoption]]

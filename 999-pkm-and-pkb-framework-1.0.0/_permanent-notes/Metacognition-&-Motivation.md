@@ -24,21 +24,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 44
+referenced-by-count: 43
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[22-Framework]]"
   - "[[Achievement-Goal]]"
   - "[[Attribution-Retraining]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Co-Constructed-Criteria]]"
   - "[[Counterexample-Search]]"
   - "[[Differentiated-Conception-of-Ability]]"
+  - "[[Ego-Involvement]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: high
 # Metacognition-&-Motivation
 
 > [!definition] **Metacognition-&-Motivation**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 43 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+*Auto-generated stub — referenced by 43 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[22-Framework]]
 - [[Achievement-Goal]]
 - [[Attribution-Retraining]]
@@ -86,4 +85,5 @@ importance: high
 - [[Formative-Feedback]]
 - [[Four-Component-Instructional-Design-4CID]]
 - [[Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation]]
-- *...and 24 more permanent notes*
+- [[Incremental-Theory]]
+- *...and 23 more permanent notes*

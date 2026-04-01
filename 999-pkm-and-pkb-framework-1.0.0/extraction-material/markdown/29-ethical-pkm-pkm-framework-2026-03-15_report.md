@@ -327,7 +327,7 @@ extraction_summary:
 #### 34. [CROSS-DOMAIN-CONNECTION] Intellectual Courage, Self-Determination Theory, and Intrinsic Motivation *(Line 357)*
 
 > [!cross-domain-connection] Intellectual Courage, Self-Determination Theory, and Intrinsic Motivation
-> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination-Theory|Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report 05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.
+> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination-Theory|Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report-05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.
 
 #### 35. [TENSION-IDENTIFIED] Privacy vs. Audience: The PKB's Epistemic Paradox *(Line 360)*
 
@@ -569,7 +569,7 @@ extraction_summary:
 - [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
 - [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report 07]]
 - [[Report 07: Critical Thinking as PKM Practice]]
 - [[Report 13: Emotional Regulation and Resilient Learning]]
@@ -628,7 +628,7 @@ extraction_summary:
 | 31 | [[Report 18: Calibration and Epistemic Humility]] | — | — | The Return-and-Deepen: Calibration as... | 337 |
 | 32 | [[Epistemic-Status|Epistemic Status]] | — | — | The Return-and-Deepen: Calibration as... | 342 |
 | 33 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Mechanism of Epistemic Courage in... | 358 |
-| 34 | [[Report 05]] | — | — | The Mechanism of Epistemic Courage in... | 358 |
+| 34 | [[Report-05]] | — | — | The Mechanism of Epistemic Courage in... | 358 |
 | 35 | [[Report 18]] | — | — | Design Principle 1: The Epistemic Sta... | 377 |
 | 36 | [[Report 21: Dialectical Knowledge Building]] | — | — | Design Principle 2: The Disconfirmati... | 398 |
 | 37 | [[Report 30: Future of PKM]] | — | — | Open Questions | 471 |
@@ -673,7 +673,7 @@ extraction_summary:
 - [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
 - [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation]]
-- [[Report 05]]
+- [[Report-05]]
 - [[Report 07]]
 - [[Report 07: Critical Thinking as PKM Practice]]
 - [[Report 13: Emotional Regulation and Resilient Learning]]

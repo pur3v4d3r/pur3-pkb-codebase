@@ -46,13 +46,13 @@ source_synthesis: "[[examined-life-synthesis]]"
 
 #### 1.3 Epistemic Virtue
 - **[[Bias-Virtue Correspondence]]** — Systematic mapping of 5 intellectual virtues onto 5 cognitive bias categories. [Source: R05] [Status: Novel synthesis]
-  - **[[Intellectual-Humility]]** ↔ [[Overconfidence Bias]] [Source: R05]
+  - **[[Intellectual-Humility]]** ↔ [[Overconfidence-Bias]] [Source: R05]
   - **[[Open-Mindedness]]** ↔ [[Confirmation-Bias]] [Source: R05]
   - **[[Intellectual-Courage]]** ↔ [[Conformity Bias]] [Source: R05]
   - **[[Intellectual Thoroughness]]** ↔ [[Availability Bias]]/[[Anchoring Bias]] [Source: R05]
   - **[[Intellectual Patience]]** ↔ [[Premature Closure]] [Source: R05]
 - **[[Social Epistemic Virtue]]** — Community-level virtues extending individual intellectual virtue into communal epistemic practices. [Source: R12] [Status: Novel synthesis]
-  - **[[Epistemic Injustice]]** — Injustice done to someone specifically in their capacity as a knower. Fricker's concept. [Source: R12] [Status: Established]
+  - **[[Epistemic-Injustice]]** — Injustice done to someone specifically in their capacity as a knower. Fricker's concept. [Source: R12] [Status: Established]
   - **[[Testimonial-Injustice]]** — Deflated credibility given to a speaker due to identity-based prejudice. [Source: R12] [Status: Established]
 
 ### 2. Cognitive Science & Metacognition
@@ -62,7 +62,7 @@ source_synthesis: "[[examined-life-synthesis]]"
 - **[[System-2]]** — Slow, effortful, deliberate cognitive processing. [Source: R06] [Status: Established]
 - **[[Governed Attentional Gap]]** — Space between System 1 automatic response and System 2 deliberate intervention, where metacognitive attention (prosoche) intervenes. [Source: R06] [Status: Novel synthesis]
 - **[[Stanovich Tripartite Model]]** — Autonomous mind, algorithmic mind, reflective mind — more differentiated than Kahneman's dual model. [Source: R06, ref-stanovich] [Status: Established]
-  - **[[Dysrationalia]]** — Systematic irrationality despite adequate intelligence. [Source: ref-stanovich] [Status: Established]
+  - **[[dysrationalia]]** — Systematic irrationality despite adequate intelligence. [Source: ref-stanovich] [Status: Established]
   - **[[Mindware]]** — Cognitive rules, procedures, and strategies available for deployment in thinking. [Source: ref-stanovich] [Status: Established]
 
 #### 2.2 Metacognition
@@ -77,7 +77,7 @@ source_synthesis: "[[examined-life-synthesis]]"
 
 #### 2.3 Cognitive Bias
 - **[[Cognitive-Bias]]** — Systematic patterns of deviation from rationality in judgment. [Source: R05, R06] [Status: Established]
-- **[[Overconfidence Bias]]** — Excessive confidence in one's own answers and judgments. [Source: R05] [Status: Established]
+- **[[Overconfidence-Bias]]** — Excessive confidence in one's own answers and judgments. [Source: R05] [Status: Established]
 - **[[Confirmation-Bias]]** — Tendency to seek, interpret, and recall information confirming existing beliefs. [Source: R05] [Status: Established]
 - **[[Conformity Bias]]** — Adjusting beliefs to align with perceived group consensus. [Source: R05] [Status: Established]
 - **[[Availability Bias]]** — Judging likelihood based on how easily examples come to mind. [Source: R05] [Status: Established]
@@ -236,7 +236,7 @@ These concepts are referenced across reports but lack dedicated expansion topics
 | [[Active-Inference]] | R13 | High — central to PP chapter |
 | [[Narrative-Identity]] (McAdams) | R14 | High — central to meaning chapter |
 | [[Theory-of-Constructed-Emotion]] | R10 | High — Barrett's full framework |
-| [[Epistemic Injustice]] (Fricker) | R12 | Medium — social chapter concept |
+| [[Epistemic-Injustice]] (Fricker) | R12 | Medium — social chapter concept |
 | [[Neuroplasticity]] | R04, R06 | Medium — underlying mechanism |
 | [[Dreyfus-Skill-Acquisition-Model]] | R15, staging | Medium — developmental backbone |
 | [[Cognitive-Reappraisal]] | R10, expansion | Medium — CBT-Stoic bridge |

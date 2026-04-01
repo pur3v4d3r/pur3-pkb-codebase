@@ -387,7 +387,7 @@ aliases: [Obsidian SR, SR Plugin, Spaced Repetition Plugin Guide, Flashcard Revi
 
 [<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[Obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[Personal-Knowledge-Base]], allowing you to transform passive notes into active learning materials without leaving your vault.
 
-Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[Zettelkasten]] or [[PARA Method]] organizational systems.
+Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[Zettelkasten]] or [[PARA-Method]] organizational systems.
 
 > [!core-principle]
 > The SR Plugin operates on a fundamental principle: [<span style='color: #27FF00;'>**Learning is strengthened through active retrieval**</span>:: the act of recalling information from memory creates stronger neural pathways than passive re-reading], and [<span style='color: #27FF00;'>**optimal spacing defeats the forgetting curve**</span>:: reviewing material just before you're likely to forget it maximizes retention while minimizing total review time].
@@ -1125,7 +1125,7 @@ The SR Plugin complements various [[Personal-Knowledge-Management]] methodologie
 - Use `#flashcards` tags to mark evergreen notes for review
 - Leverage backlink-based ease adjustment (OSR's PageRank feature)
 
-**With [[PARA Method]]:**
+**With [[PARA-Method]]:**
 - Store flashcards in relevant PARA categories:
   - **Projects**: Active learning materials
   - **Areas**: Ongoing knowledge domains (#flashcards/areas/finance)

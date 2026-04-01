@@ -866,7 +866,7 @@ BPNT & SDT Full Framework (Deci & Ryan, 1985, 2000)
 > - [[Organismic-Integration-Theory]] — SDT mini-theory whose internalization account BPNT explains
 > - [[Goal-Contents-Theory]] — SDT mini-theory linking intrinsic/extrinsic goal content to need satisfaction
 > - [[Motivational-Interviewing]] — Clinical behavior change method whose effectiveness BPNT partly explains
-> - [[Psychological-Well-Being]] — The outcome domain that need satisfaction most directly predicts
+> - [[psychological-well-being]] — The outcome domain that need satisfaction most directly predicts
 > - [[Eudaimonic-Well-Being]] — BPNT's account of flourishing is fundamentally eudaimonic
 > - [[Formative-Assessment]] — Assessment practice that aligns with competence need support
 >

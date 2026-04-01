@@ -303,7 +303,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. What are the primary methodological challenges in SDT research (e.g., correlational designs, self-report bias)?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Self-Regulation Questionnaire]], [[Basic Psychological Need Satisfaction Scale]], [[Intrinsic Motivation Inventory]], [[Meta-Analysis]], [[Experimental Design]], [[Longitudinal Studies]], [[Need Satisfaction Measurement]]
+- Core concepts to wiki-link: [[Self-Regulation Questionnaire]], [[Basic Psychological Need Satisfaction Scale]], [[Intrinsic Motivation Inventory]], [[Meta-Analysis]], [[Experimental-Design]], [[Longitudinal Studies]], [[Need Satisfaction Measurement]]
 - Recommended tags: #empirical-evidence #research-methods #measurement #validity
 - Connection points: Links to [[Research Methodology]], [[Psychometrics]], [[Validity]], [[Evidence-Based Practice]]
 

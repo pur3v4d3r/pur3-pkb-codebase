@@ -14,7 +14,7 @@ I have reviewed the [CLAUDE.md](__LOCAL-REPO/CLAUDE.md) system prompt which defi
 **Core Constitutional Principles**:
 1. DEPTH OVER BREVITY - Comprehensive understanding supersedes conciseness
 2. FORMAT FIDELITY - Production-ready Obsidian outputs
-3. KNOWLEDGE GRAPH BUILDING - Proactive [[Wiki-Link]] identification
+3. KNOWLEDGE GRAPH BUILDING - Proactive [[wiki-link]] identification
 4. EDUCATIONAL EXCELLENCE - Apply learning principles to content
 5. SELF-IMPROVEMENT - Rigorous self-critique
 6. THINK BEFORE ACTING - Explicit reasoning to prevent loops

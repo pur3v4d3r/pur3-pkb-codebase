@@ -118,70 +118,70 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Metacognition]]"
-  - "[[Metacognitive Knowledge]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
 
 related:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Nelson-Narens Model]]"
-  - "[[Metacognitive Experience]]"
+  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Nelson-Narens-Model|Nelson-Narens Model]]"
+  - "[[Metacognitive-Experience|Metacognitive Experience]]"
   - "[[Calibration]]"
-  - "[[Zimmerman's Cyclical Model of Self-Regulated Learning]]"
-  - "[[Pintrich's Integrative SRL Framework]]"
-  - "[[Winne & Hadwin's Metacognitive Processing Model]]"
-  - "[[Metacognition and Self-Regulated Learning]]"
+  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's Cyclical Model of Self-Regulated Learning]]"
+  - "[[Pintrich's-Integrative-SRL-Framework|Pintrich's Integrative SRL Framework]]"
+  - "[[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne & Hadwin's Metacognitive Processing Model]]"
+  - "[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]"
 
 broader:
   - "[[Metacognition]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Executive Function]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[Executive-Function|Executive Function]]"
 
 narrower:
-  - "[[Comprehension Monitoring]]"
-  - "[[Judgment of Learning]]"
-  - "[[Feeling of Knowing]]"
-  - "[[Metacognitive Strategy]]"
+  - "[[Comprehension-Monitoring|Comprehension Monitoring]]"
+  - "[[Judgment-of-Learning|Judgment of Learning]]"
+  - "[[Feeling-of-Knowing|Feeling of Knowing]]"
+  - "[[Metacognitive-Strategy|Metacognitive Strategy]]"
 
 see-also:
-  - "[[Metacognitive Accuracy]]"
-  - "[[Metacognitive Calibration]]"
-  - "[[Monitoring-Regulation Coupling]]"
-  - "[[Monitoring-Control Coupling]]"
-  - "[[Metacognitive Scaffolding]]"
-  - "[[Regulatory Reflexivity Problem]]"
+  - "[[Metacognitive-Accuracy|Metacognitive Accuracy]]"
+  - "[[Metacognitive-Calibration|Metacognitive Calibration]]"
+  - "[[Monitoring-Regulation-Coupling|Monitoring-Regulation Coupling]]"
+  - "[[Monitoring-Control-Coupling|Monitoring-Control Coupling]]"
+  - "[[Metacognitive-Scaffolding|Metacognitive Scaffolding]]"
+  - "[[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]]"
 
 contrasts-with:
-  - "[[Metacognitive Knowledge]]"
+  - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
   - "[[Pseudometacognition]]"
 
 applied-in:
-  - "[[Self-Directed Learning]]"
-  - "[[Elaborative Interrogation]]"
-  - "[[Retrieval Practice]]"
-  - "[[Situation Models in Text Comprehension]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[Retrieval-Practice|Retrieval Practice]]"
+  - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Metacognition]]"
-  - "[[Metacognitive Knowledge]]"
-  - "[[Working Memory]]"
-  - "[[Cognitive Control]]"
+  - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Cognitive-Control|Cognitive Control]]"
 
 enables:
-  - "[[Self-Directed Learning]]"
-  - "[[Metacognition & Lifelong Learning]]"
-  - "[[Metacognition & Critical Thinking]]"
-  - "[[Metacognition & Motivation]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
+  - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
+  - "[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]"
+  - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
 
 expansion-topics:
-  - "[[Metacognitive Accuracy]]"
-  - "[[Metacognitive Scaffolding]]"
-  - "[[Transfer of Learning]]"
-  - "[[Metacognitive Feelings]]"
-  - "[[Monitoring-Regulation Decoupling]]"
-  - "[[Regulatory Reflexivity Problem]]"
+  - "[[Metacognitive-Accuracy|Metacognitive Accuracy]]"
+  - "[[Metacognitive-Scaffolding|Metacognitive Scaffolding]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
+  - "[[Metacognitive-Feelings|Metacognitive Feelings]]"
+  - "[[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]]"
+  - "[[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # REPORT SERIES POSITIONING
@@ -233,9 +233,9 @@ original_contributions:
 
 The history of learning research contains a persistent and consequential puzzle: why do students who possess adequate declarative knowledge about a subject — who can articulate facts, recognize examples, and pass recognition tests — nonetheless perform poorly when required to solve novel problems, integrate material across sources, or sustain comprehension through extended and difficult texts? The deficiency is rarely attributable to raw intellectual capacity, nor to motivational absence. It is, characteristically, executive in nature. Such students do not monitor whether their current strategy is producing genuine understanding rather than comfortable familiarity. They do not detect, in the moment, when their comprehension has failed. They do not modulate their cognitive effort in response to genuine difficulty signals. They do not, in short, regulate their own cognition with the adaptive precision that expert learners display as a matter of course.
 
-This executive dimension of cognition — the oversight, direction, and corrective adjustment of one's own mental processes — is what the construct of [[Metacognitive Regulation]] designates. It is the operational face of [[Metacognition]]: where metacognitive knowledge constitutes the learner's repository of beliefs about cognitive tasks, strategies, and personal cognitive characteristics, metacognitive regulation is the deployment of those resources in the real-time orchestration of cognitive performance. The distinction, first articulated with clarity by [[Ann Brown]] (1978, 1987) and subsequently refined by [[Gregory Schraw]] and others, identifies [[Regulation of Cognition]] as one of the two major dimensions of metacognition — alongside [[Knowledge of Cognition]] — and positions it as the mechanism through which learning can become genuinely self-directed rather than merely self-described.
+This executive dimension of cognition — the oversight, direction, and corrective adjustment of one's own mental processes — is what the construct of [[Metacognitive-Regulation|Metacognitive Regulation]] designates. It is the operational face of [[Metacognition]]: where metacognitive knowledge constitutes the learner's repository of beliefs about cognitive tasks, strategies, and personal cognitive characteristics, metacognitive regulation is the deployment of those resources in the real-time orchestration of cognitive performance. The distinction, first articulated with clarity by [[Ann-Brown|Ann Brown]] (1978, 1987) and subsequently refined by [[Gregory-Schraw|Gregory Schraw]] and others, identifies [[Regulation-of-Cognition|Regulation of Cognition]] as one of the two major dimensions of metacognition — alongside [[Knowledge-of-Cognition|Knowledge of Cognition]] — and positions it as the mechanism through which learning can become genuinely self-directed rather than merely self-described.
 
-The significance of this topic reaches beyond academic psychology. Research spanning four decades has established that metacognitive regulation is among the most powerful predictors of learning outcome that educational research has identified, that it distinguishes expert from novice performance across virtually every studied domain, that it is teachable in ways that generalize beyond the training context, and that its failure produces characteristic pathologies — the [[Fluency Illusion]], the [[Illusion of Knowing]], the [[Dunning-Kruger Effect]] pattern — each representing a specific breakdown in the regulatory architecture that governs how learners know what they know. Understanding metacognitive regulation is, accordingly, not a specialist's concern but a prerequisite for understanding how adaptive cognition functions.
+The significance of this topic reaches beyond academic psychology. Research spanning four decades has established that metacognitive regulation is among the most powerful predictors of learning outcome that educational research has identified, that it distinguishes expert from novice performance across virtually every studied domain, that it is teachable in ways that generalize beyond the training context, and that its failure produces characteristic pathologies — the [[Fluency-Illusion|Fluency Illusion]], the [[Illusion-of-Knowing|Illusion of Knowing]], the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] pattern — each representing a specific breakdown in the regulatory architecture that governs how learners know what they know. Understanding metacognitive regulation is, accordingly, not a specialist's concern but a prerequisite for understanding how adaptive cognition functions.
 
 ### Scope of This Report
 
@@ -255,37 +255,37 @@ This report provides a comprehensive foundational treatment of metacognitive reg
 A rigorous treatment of metacognitive regulation requires, at the outset, a clean separation of the concept from its most common point of conflation: metacognitive knowledge. The conflation is understandable — both are metacognitive, both concern cognition as their object — but it is analytically costly, because the two constructs have different structural properties, different developmental trajectories, different measurement requirements, and different failure modes.
 
 > [!definition] **Metacognitive Knowledge (Flavell, 1979; Schraw & Moshman, 1995)**
-> Metacognitive knowledge is the learner's relatively stable declarative understanding of cognitive tasks, cognitive strategies, and personal cognitive characteristics. It encompasses knowledge about persons (including oneself as a cognitive agent), knowledge about tasks (how the structure of a task affects its processing demands), and knowledge about strategies (which strategies are effective for which task types under which conditions). Metacognitive knowledge is, in Flavell's original characterization, a subregion of [[Long-Term Memory]] — it is stored, retrievable, and capable of being updated through experience.
+> Metacognitive knowledge is the learner's relatively stable declarative understanding of cognitive tasks, cognitive strategies, and personal cognitive characteristics. It encompasses knowledge about persons (including oneself as a cognitive agent), knowledge about tasks (how the structure of a task affects its processing demands), and knowledge about strategies (which strategies are effective for which task types under which conditions). Metacognitive knowledge is, in Flavell's original characterization, a subregion of [[Long-Term-Memory|Long-Term Memory]] — it is stored, retrievable, and capable of being updated through experience.
 >
 > **Boundary:** Metacognitive knowledge is not itself regulatory. A learner who knows that distributed practice produces more durable retention than massed practice possesses this metacognitive knowledge, but possessing it does not entail using it. The translation of metacognitive knowledge into regulatory action is a separate process, one that can fail independently of the knowledge itself.
 >
-> **Historical Development:** Flavell's original framework (1976, 1979) treated knowledge and regulation as co-present within a broadly conceived metacognitive system. The formal separation of the two as distinct dimensions was consolidated by Brown (1978, 1987) and operationalized by [[Gregory Schraw]] & Moshman (1995).
+> **Historical Development:** Flavell's original framework (1976, 1979) treated knowledge and regulation as co-present within a broadly conceived metacognitive system. The formal separation of the two as distinct dimensions was consolidated by Brown (1978, 1987) and operationalized by [[Gregory-Schraw|Gregory Schraw]] & Moshman (1995).
 >
 > **Common Misconception:** It is frequently assumed that more metacognitive knowledge automatically produces better self-regulation. The research record contradicts this: metacognitive knowledge and metacognitive regulation show moderate but not high correlation, and interventions targeting knowledge do not reliably improve regulation unless the regulatory processes themselves are addressed.
 >
-> **See also:** [[Metacognition]], [[Knowledge of Cognition]], [[Declarative, Procedural, and Conditional Metacognitive Knowledge]], [[Metacognitive Strategy]], [[Self-Regulated Learning]]
+> **See also:** [[Metacognition]], [[Knowledge-of-Cognition|Knowledge of Cognition]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]], [[Metacognitive-Strategy|Metacognitive Strategy]], [[Self-Regulated-Learning|Self-Regulated Learning]]
 
 > [!definition] **Metacognitive Regulation (Schraw & Moshman, 1995; Brown, 1987)**
-> Metacognitive regulation designates the collection of activities through which a learner governs, oversees, adjusts, and evaluates her own cognitive processes during task engagement. It encompasses prospective regulation (planning before a task), concurrent regulation (monitoring and control during a task), and retrospective regulation (evaluating after a task). In the formal architecture of [[Regulation of Cognition]], metacognitive regulation is the action-side of metacognition — where knowledge is deployed, tested against performance signals, and revised.
+> Metacognitive regulation designates the collection of activities through which a learner governs, oversees, adjusts, and evaluates her own cognitive processes during task engagement. It encompasses prospective regulation (planning before a task), concurrent regulation (monitoring and control during a task), and retrospective regulation (evaluating after a task). In the formal architecture of [[Regulation-of-Cognition|Regulation of Cognition]], metacognitive regulation is the action-side of metacognition — where knowledge is deployed, tested against performance signals, and revised.
 >
 > **Boundary:** Metacognitive regulation, as technically defined, requires awareness — the learner must be, at least minimally, representing her own cognitive state in order to act on it. Automatic cognitive adjustments that occur without phenomenological accessibility — such as fluency-driven slowing in reading — are not, on most accounts, metacognitive regulation proper, though they may interact with it. This boundary is contested in the literature (see Phase III on the Efklides framework and Phase V on limitations).
 >
 > **Research Status:** Metacognitive regulation is among the most widely studied constructs in educational psychology. The research base is extensive and largely consistent, with specific measurement and operationalization challenges documented. Effect sizes for metacognitive regulation training on academic performance are moderate to large (mean d ≈ 0.53–0.69 across meta-analyses, though effect size variance is substantial and depends on operationalization).
 >
-> **See also:** [[Metacognitive Monitoring]], [[Metacognitive Self-Regulation]], [[Monitoring-Regulation Coupling]], [[Self-Regulated Learning]], [[Nelson-Narens Model]]
+> **See also:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]], [[Monitoring-Regulation-Coupling|Monitoring-Regulation Coupling]], [[Self-Regulated-Learning|Self-Regulated Learning]], [[Nelson-Narens-Model|Nelson-Narens Model]]
 
 ### The Four-Component Taxonomy of Regulation
 
-The most widely adopted taxonomic framework for metacognitive regulation, due primarily to the work of [[Gregory Schraw]] and Moshman (1995), identifies three primary regulatory components: planning, monitoring, and evaluating. Control (or regulating) is sometimes treated as a fourth distinct component and sometimes subsumed within monitoring. The report here treats all four as analytically distinct, following the more differentiated treatments in Pintrich's integrative SRL framework and in Winne and Hadwin's COPES model.
+The most widely adopted taxonomic framework for metacognitive regulation, due primarily to the work of [[Gregory-Schraw|Gregory Schraw]] and Moshman (1995), identifies three primary regulatory components: planning, monitoring, and evaluating. Control (or regulating) is sometimes treated as a fourth distinct component and sometimes subsumed within monitoring. The report here treats all four as analytically distinct, following the more differentiated treatments in Pintrich's integrative SRL framework and in Winne and Hadwin's COPES model.
 
 > [!definition] **Planning (Metacognitive)**
-> Planning is the prospective regulatory activity that occurs before task engagement and involves goal-setting, strategy selection, resource allocation, and activation of relevant prior knowledge. Effective metacognitive planning requires accurate task assessment (what does this task demand?), accurate personal assessment (what are my relevant strengths and limitations?), and adequate strategy knowledge (what approaches are likely to be effective?). Planning is the regulatory component most directly dependent on [[Metacognitive Knowledge]], since strategy selection without a knowledge base of available strategies is impossible.
+> Planning is the prospective regulatory activity that occurs before task engagement and involves goal-setting, strategy selection, resource allocation, and activation of relevant prior knowledge. Effective metacognitive planning requires accurate task assessment (what does this task demand?), accurate personal assessment (what are my relevant strengths and limitations?), and adequate strategy knowledge (what approaches are likely to be effective?). Planning is the regulatory component most directly dependent on [[Metacognitive-Knowledge|Metacognitive Knowledge]], since strategy selection without a knowledge base of available strategies is impossible.
 >
 > **Boundary:** Metacognitive planning, in the technical sense, is distinct from domain-level planning (planning a solution path in mathematics, for instance). Metacognitive planning operates one level above: it is planning about how to approach the cognitive work, not planning within the cognitive work itself.
 >
 > **Operational Indicator:** Metacognitive planning manifests behaviorally in activities such as pre-reading structure surveys, goal articulation before studying, time allocation across study sessions, and deliberate selection of a comprehension strategy before engaging a difficult text.
 >
-> **See also:** [[Self-Regulated Learning]], [[Forethought Phase]], [[Metacognitive Strategy]], [[Prior Knowledge Activation]]
+> **See also:** [[Self-Regulated-Learning|Self-Regulated Learning]], [[Forethought-Phase|Forethought Phase]], [[Metacognitive-Strategy|Metacognitive Strategy]], [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 
 > [!definition] **Metacognitive Monitoring**
 > Monitoring is the concurrent regulatory activity through which the learner tracks the ongoing state of her own cognition during task engagement. It encompasses comprehension monitoring (tracking whether meaning is being constructed or merely decoded), performance monitoring (tracking progress toward task goals), and strategy monitoring (tracking whether the current approach is productive). Monitoring is the informational foundation of adaptive regulation: without accurate monitoring, the control signals required for adaptive adjustment are absent or corrupted.
@@ -296,7 +296,7 @@ The most widely adopted taxonomic framework for metacognitive regulation, due pr
 >
 > **Research Status:** Monitoring accuracy — the correspondence between monitoring judgments and actual performance — is one of the most extensively studied metacognitive outcomes. The literature consistently demonstrates that monitoring accuracy is modest on average, that overconfidence predominates (particularly among lower-performing students), and that monitoring accuracy improves with domain expertise.
 >
-> **See also:** [[Metacognitive Monitoring]], [[Comprehension Monitoring]], [[Judgment of Learning]], [[Feeling of Knowing]], [[Metacognitive Calibration]], [[Calibration]]
+> **See also:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Comprehension-Monitoring|Comprehension Monitoring]], [[Judgment-of-Learning|Judgment of Learning]], [[Feeling-of-Knowing|Feeling of Knowing]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Calibration]]
 
 > [!definition] **Control (Metacognitive)**
 > Metacognitive control designates the regulatory activity through which the learner adjusts, modifies, or redirects her cognitive processes in response to monitoring signals. Control encompasses strategy selection and switching, effort regulation, attention reallocation, pacing adjustments, and help-seeking. Control is the effector component of the regulatory system: where monitoring detects discrepancies between current performance and desired performance, control enacts corrective responses.
@@ -305,18 +305,18 @@ The most widely adopted taxonomic framework for metacognitive regulation, due pr
 >
 > **Report-Specific Significance:** The gap between monitoring and control — the situation in which monitoring accurately detects a problem but control fails to respond adaptively — is one of this report's central analytical contributions. See Phase IV for extended treatment.
 >
-> **See also:** [[Monitoring-Control Coupling]], [[Monitoring-Regulation Coupling]], [[Monitoring Gap]], [[Metacognitive Strategy]], [[Regulation of Cognition]]
+> **See also:** [[Monitoring-Control-Coupling|Monitoring-Control Coupling]], [[Monitoring-Regulation-Coupling|Monitoring-Regulation Coupling]], [[Monitoring-Gap|Monitoring Gap]], [[Metacognitive-Strategy|Metacognitive Strategy]], [[Regulation-of-Cognition|Regulation of Cognition]]
 
 > [!definition] **Evaluating (Metacognitive)**
 > Evaluating is the retrospective regulatory activity through which the learner assesses the products and processes of a completed cognitive engagement. It encompasses assessment of goal attainment (did I achieve what I set out to achieve?), strategy assessment (was the approach I used effective?), and attribution (what accounts for the outcome?). Evaluating is the regulatory component most directly connected to the iterative improvement of regulation over time: it is through evaluation that regulatory strategies are updated, refined, or abandoned.
 >
 > **Boundary:** Metacognitive evaluating is not identical to task performance evaluation (receiving a grade, getting feedback from an external source). Evaluating, in the metacognitive sense, is a self-generated assessment that requires the learner to occupy the assessor's position with respect to her own performance — a representational feat that carries its own accuracy challenges.
 >
-> **See also:** [[Self-Reflection Phase]], [[Metacognitive Accuracy]], [[Attribution Theory]], [[Self-Regulated Learning]]
+> **See also:** [[Self-Reflection-Phase|Self-Reflection Phase]], [[Metacognitive-Accuracy|Metacognitive Accuracy]], [[Attribution-Theory|Attribution Theory]], [[Self-Regulated-Learning|Self-Regulated Learning]]
 
 ### The Nelson-Narens Architecture: Meta-Level and Object-Level
 
-The most formally precise account of the monitoring-control relationship is the model proposed by Thomas O. Nelson and Louis Narens in 1990 and elaborated in subsequent work. The [[Nelson-Narens Model]] introduces a structural distinction between two levels of cognitive processing that is foundational for understanding what metacognitive regulation is and why it can fail.
+The most formally precise account of the monitoring-control relationship is the model proposed by Thomas O. Nelson and Louis Narens in 1990 and elaborated in subsequent work. The [[Nelson-Narens-Model|Nelson-Narens Model]] introduces a structural distinction between two levels of cognitive processing that is foundational for understanding what metacognitive regulation is and why it can fail.
 
 At the **object-level**, the target cognitive process operates: solving a problem, reading a text, retrieving a memory, learning a list of items. At the **meta-level**, a distinct set of processes monitors and controls the object-level process. The model specifies two directional flows between these levels:
 
@@ -332,16 +332,16 @@ At the **object-level**, the target cognitive process operates: solving a proble
 
 ### Metacognitive Experiences: The Phenomenological Interface
 
-A conceptually distinct but practically integrated element of the regulatory architecture is the class of [[Metacognitive Experiences]] (Efklides, 2001, 2008). Metacognitive experiences are the phenomenological, affective-cognitive signals that accompany ongoing cognition and function as the accessible face of monitoring: the *feeling* of understanding, the *sense* of difficulty, the impression of familiarity or strangeness, the confidence that an answer is correct or imminent.
+A conceptually distinct but practically integrated element of the regulatory architecture is the class of [[Metacognitive-Experiences|Metacognitive Experiences]] (Efklides, 2001, 2008). Metacognitive experiences are the phenomenological, affective-cognitive signals that accompany ongoing cognition and function as the accessible face of monitoring: the *feeling* of understanding, the *sense* of difficulty, the impression of familiarity or strangeness, the confidence that an answer is correct or imminent.
 
 > [!definition] **Metacognitive Experiences (Efklides, 2001, 2008)**
 > Metacognitive experiences are the subjective, phenomenologically accessible states that arise during cognitive task engagement and carry information about the state of one's own cognitive processing. They include: the **Feeling of Knowing** (FOK) — an impression that a currently inaccessible piece of information is retrievable; the **Judgment of Learning** (JOL) — a prospective assessment of how well material currently being encoded will be retrievable at a later time; the **Feeling of Difficulty** — the subjective sense of how cognitively effortful the current task is; and the **Estimate of Solution Correctness** — the sense of confidence about a just-produced answer.
 >
 > **Boundary:** Metacognitive experiences are not equivalent to metacognitive monitoring in the full regulatory sense. They are the phenomenological signals that feed into monitoring — the accessible "readout" of object-level processing that the meta-level uses as informational input. They may be accurate or inaccurate, and their relationship to actual cognitive performance is one of the central empirical questions in metacognition research. In particular, metacognitive experiences are subject to systematic distortion: ease of processing — fluency — produces positive metacognitive experiences (feelings of understanding, high JOL) even when encoding is actually shallow.
 >
-> **Research Status:** There is extensive empirical documentation of the dissociation between metacognitive experiences and actual performance. The JOL literature demonstrates that immediate JOLs (taken shortly after study) are inflated relative to delayed JOLs, and that both may diverge substantially from actual retention. The phenomenon is particularly robust with respect to the [[Fluency Illusion]]: processing that feels smooth generates confident JOLs regardless of whether genuine comprehension has occurred.
+> **Research Status:** There is extensive empirical documentation of the dissociation between metacognitive experiences and actual performance. The JOL literature demonstrates that immediate JOLs (taken shortly after study) are inflated relative to delayed JOLs, and that both may diverge substantially from actual retention. The phenomenon is particularly robust with respect to the [[Fluency-Illusion|Fluency Illusion]]: processing that feels smooth generates confident JOLs regardless of whether genuine comprehension has occurred.
 >
-> **See also:** [[Metacognitive Experience]], [[Metacognitive Feelings]], [[Judgment of Learning]], [[Feeling of Knowing]], [[Ease of Learning]], [[Metacognitive Monitoring]], [[Fluency Illusion]]
+> **See also:** [[Metacognitive-Experience|Metacognitive Experience]], [[Metacognitive-Feelings|Metacognitive Feelings]], [[Judgment-of-Learning|Judgment of Learning]], [[Feeling-of-Knowing|Feeling of Knowing]], [[Ease-of-Learning|Ease of Learning]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Fluency-Illusion|Fluency Illusion]]
 
 > [!ask-yourself-this]
 > Consider your own experience of reading academic texts. At what points do you notice a metacognitive signal — a sense that something is not clicking, or conversely that you have genuinely understood? How reliable do you find these signals? Have you ever emerged from a reading session with a strong sense of understanding, only to discover on a test or discussion that the understanding was shallower than it felt? This is the experiential correlate of what the research on metacognitive experiences documents systematically.
@@ -354,7 +354,7 @@ Several distinctions are load-bearing for the theoretical landscape of Phase III
 
 **Accuracy vs. Validity of Monitoring**: Monitoring accuracy refers to the correspondence between metacognitive judgments (e.g., JOLs) and actual performance — the calibration question. Monitoring validity refers to whether the learner is monitoring the right things — whether the dimensions of cognition being tracked are the ones that matter for performance. A learner can monitor accurately with respect to what she is tracking while tracking the wrong thing. This distinction, underemphasized in the mainstream literature, has significant practical implications for intervention design.
 
-**Domain-General vs. Domain-Specific Regulation**: There is ongoing theoretical debate about whether metacognitive regulation is a general capacity — a domain-general executive skill — or a collection of domain-specific competences. The evidence suggests a mixture: there are general regulatory dispositions (a tendency to monitor more or less carefully, to plan more or less systematically) that cross domains, but effective regulatory deployment depends substantially on domain-specific knowledge of what adequate performance looks like and which strategies are available. This means that [[Transfer of Learning]] of metacognitive regulation skills is neither automatic nor impossible, but context-sensitive.
+**Domain-General vs. Domain-Specific Regulation**: There is ongoing theoretical debate about whether metacognitive regulation is a general capacity — a domain-general executive skill — or a collection of domain-specific competences. The evidence suggests a mixture: there are general regulatory dispositions (a tendency to monitor more or less carefully, to plan more or less systematically) that cross domains, but effective regulatory deployment depends substantially on domain-specific knowledge of what adequate performance looks like and which strategies are available. This means that [[Transfer-of-Learning|Transfer of Learning]] of metacognitive regulation skills is neither automatic nor impossible, but context-sensitive.
 
 > [!reflection]
 > 1. The distinction between metacognitive knowledge and metacognitive regulation implies that knowing *what* effective regulation looks like is insufficient for *doing* it. What does this imply for how students should be taught metacognitive skills — and for how such teaching is typically implemented?
@@ -367,9 +367,9 @@ Several distinctions are load-bearing for the theoretical landscape of Phase III
 
 ### Flavell and the Origin of the Field
 
-The intellectual history of metacognitive regulation begins, as a formal research program, with the work of [[John Flavell]] in the mid-1970s. Flavell (1976, 1979) introduced the construct of metacognition — "one's knowledge concerning one's own cognitive processes and products or anything related to them" — and articulated a framework that distinguished metacognitive knowledge, [[Metacognitive Experience|metacognitive experiences]], and metacognitive actions (later reformulated as regulation). The significance of Flavell's contribution was not merely definitional: it was the identification of a distinct level of cognitive processing and the proposal that this level is accessible to introspection, subject to developmental change, and consequential for cognitive performance.
+The intellectual history of metacognitive regulation begins, as a formal research program, with the work of [[John-Flavell|John Flavell]] in the mid-1970s. Flavell (1976, 1979) introduced the construct of metacognition — "one's knowledge concerning one's own cognitive processes and products or anything related to them" — and articulated a framework that distinguished metacognitive knowledge, [[Metacognitive-Experience|metacognitive experiences]], and metacognitive actions (later reformulated as regulation). The significance of Flavell's contribution was not merely definitional: it was the identification of a distinct level of cognitive processing and the proposal that this level is accessible to introspection, subject to developmental change, and consequential for cognitive performance.
 
-[[Flavell's Metacognitive Framework]] positions metacognitive regulation as comprising the strategies a cognitive agent deploys in service of cognitive goals, where these strategies are selected, monitored, and adjusted in response to metacognitive experiences and in the light of metacognitive knowledge. The framework is intentionally open and ecological — it does not specify a formal architecture for monitoring and control — but it establishes the basic vocabulary and sets the research agenda that subsequent theorists would formalize.
+[[Flavell's-Metacognitive-Framework|Flavell's Metacognitive Framework]] positions metacognitive regulation as comprising the strategies a cognitive agent deploys in service of cognitive goals, where these strategies are selected, monitored, and adjusted in response to metacognitive experiences and in the light of metacognitive knowledge. The framework is intentionally open and ecological — it does not specify a formal architecture for monitoring and control — but it establishes the basic vocabulary and sets the research agenda that subsequent theorists would formalize.
 
 > [!person] **John H. Flavell (1928–)**
 > Professor of developmental psychology at Stanford University. Flavell's foundational contributions to metacognition research span 1971 to the present, with the most influential theoretical papers appearing in 1976 ("Metacognitive aspects of problem solving") and 1979 ("Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry"). Flavell's empirical program focused particularly on the development of metacognitive competencies in children, establishing the developmental timeline for the emergence of effective monitoring and strategy use.
@@ -380,7 +380,7 @@ The intellectual history of metacognitive regulation begins, as a formal researc
 
 ### Ann Brown and the Regulatory Turn
 
-While Flavell's framework encompassed regulation, it was [[Ann Brown]]'s work (1978, 1987) that elevated regulation to co-equal status with knowledge within metacognition and developed it with greater mechanistic specificity. Brown distinguished "knowing about cognition" — which she associated with relatively stable metacognitive knowledge — from "regulation of cognition" — which she associated with the online, often momentary activities of monitoring and control. Her [[Regulation of Cognition]] construct captured what she characterized as the "executive" aspects of skilled cognition: the allocation of resources, the detection of failure, the selection of remedial strategies, the evaluation of outcomes.
+While Flavell's framework encompassed regulation, it was [[Ann-Brown|Ann Brown]]'s work (1978, 1987) that elevated regulation to co-equal status with knowledge within metacognition and developed it with greater mechanistic specificity. Brown distinguished "knowing about cognition" — which she associated with relatively stable metacognitive knowledge — from "regulation of cognition" — which she associated with the online, often momentary activities of monitoring and control. Her [[Regulation-of-Cognition|Regulation of Cognition]] construct captured what she characterized as the "executive" aspects of skilled cognition: the allocation of resources, the detection of failure, the selection of remedial strategies, the evaluation of outcomes.
 
 Brown's regulatory framework identified several specific regulatory activities: checking, planning, monitoring, testing, revising, and evaluating. These activities, she argued, are characteristic of expert learners and deficient in novices, particularly young children. Her developmental work demonstrated that younger children fail not primarily because they lack knowledge of strategies but because they fail to deploy available strategies spontaneously — a failure of regulatory initiation, not knowledge availability. This production deficiency (vs. mediation deficiency) distinction is a foundational empirical contribution to understanding why metacognitive knowledge training alone is insufficient.
 
@@ -393,7 +393,7 @@ Brown's regulatory framework identified several specific regulatory activities: 
 
 ### Nelson and Narens: Formal Architecture
 
-The most formally rigorous theoretical account of metacognitive regulation is the monitoring-control model proposed by Thomas O. Nelson and Louis Narens (1990, 1994). The [[Nelson-Narens Model]] — or [[The Nelson-Narens Monitoring-Control Model]] — is distinctive in providing an explicit computational-level specification of how metacognitive regulation operates, rather than merely describing its components.
+The most formally rigorous theoretical account of metacognitive regulation is the monitoring-control model proposed by Thomas O. Nelson and Louis Narens (1990, 1994). The [[Nelson-Narens-Model|Nelson-Narens Model]] — or [[The-Nelson-Narens-Monitoring-Control-Model|The Nelson-Narens Monitoring-Control Model]] — is distinctive in providing an explicit computational-level specification of how metacognitive regulation operates, rather than merely describing its components.
 
 The model's core architectural claim is that memory and learning involve two functionally distinct levels: the **meta-level** and the **object-level**. The meta-level holds a dynamic model of the object-level process — representations of what is being learned, how far learning has proceeded, and what resources are available. This meta-level model is updated through **monitoring**: information about the current state of object-level processing flows upward and is incorporated into the meta-level representation. In turn, **control** involves downward flow: meta-level evaluations generate commands (continue, terminate, study more, allocate attention here) that alter the ongoing object-level process.
 
@@ -411,7 +411,7 @@ Nelson and Narens identified a taxonomy of monitoring judgments — ease of lear
 
 ### Schraw and the Educational Psychology Synthesis
 
-[[Gregory Schraw]] and Moshman's (1995) synthesis, "Metacognitive theories," performed the crucial work of bringing the Flavell-Brown-Nelson-Narens theoretical lineage into coherent contact with educational psychology research on strategy instruction and self-regulated learning. Schraw and Moshman proposed a two-component model: **knowledge of cognition** (encompassing declarative, procedural, and conditional metacognitive knowledge) and **regulation of cognition** (encompassing planning, monitoring, and evaluating). This framework, though architecturally simpler than the Nelson-Narens model, proved highly tractable for measurement: it grounded the Metacognitive Awareness Inventory (MAI), a widely used self-report instrument that distinguishes knowledge and regulation subscales.
+[[Gregory-Schraw|Gregory Schraw]] and Moshman's (1995) synthesis, "Metacognitive theories," performed the crucial work of bringing the Flavell-Brown-Nelson-Narens theoretical lineage into coherent contact with educational psychology research on strategy instruction and self-regulated learning. Schraw and Moshman proposed a two-component model: **knowledge of cognition** (encompassing declarative, procedural, and conditional metacognitive knowledge) and **regulation of cognition** (encompassing planning, monitoring, and evaluating). This framework, though architecturally simpler than the Nelson-Narens model, proved highly tractable for measurement: it grounded the Metacognitive Awareness Inventory (MAI), a widely used self-report instrument that distinguishes knowledge and regulation subscales.
 
 Schraw's subsequent empirical work (1994, 1998) demonstrated that metacognitive regulation predicts academic performance above and beyond general ability measures, that it is teachable through explicit metacognitive instruction, and that the effects of metacognitive instruction generalize to untrained tasks to a degree that domain-specific skill training does not. These findings established metacognitive regulation as an educationally actionable construct — not merely a descriptive category for expert-novice differences but a target for deliberate instructional intervention.
 
@@ -426,7 +426,7 @@ Schraw's subsequent empirical work (1994, 1998) demonstrated that metacognitive 
 
 The most significant theoretical development in metacognition research since the Nelson-Narens model is [[Efklides]]' Metacognitive and Affective aspects of Self-Regulated Learning (MASRL) model (2001, 2008, 2011). Where the Nelson-Narens model treats metacognitive regulation in largely cognitive-computational terms, the MASRL model foregrounds the phenomenological and affective dimension of regulation — the felt quality of cognitive engagement that accompanies and modulates regulatory processes.
 
-Efklides' central claim is that [[Metacognitive Experiences]] — the feeling of difficulty, the feeling of familiarity, the feeling of confidence, the feeling of satisfaction — are not merely epiphenomenal accompaniments to monitoring but are *constitutive* elements of the regulatory process. They carry information from object-level processing in a form that is subjectively accessible, affectively valenced, and motivationally significant. A high feeling of difficulty, for instance, does not merely signal to the learner that the current task is demanding; it motivates investment of additional cognitive resources (if the learner is mastery-oriented) or triggers avoidance (if the learner is performance-avoidance oriented). The metacognitive experience is thus a mediating variable between cognitive processing and regulatory response, and its motivational entanglement with [[Achievement Goal Theory]], [[Self-Determination Theory]], and [[Self-Efficacy]] theory makes it a bridge construct between the cognitive and motivational traditions in SRL research.
+Efklides' central claim is that [[Metacognitive-Experiences|Metacognitive Experiences]] — the feeling of difficulty, the feeling of familiarity, the feeling of confidence, the feeling of satisfaction — are not merely epiphenomenal accompaniments to monitoring but are *constitutive* elements of the regulatory process. They carry information from object-level processing in a form that is subjectively accessible, affectively valenced, and motivationally significant. A high feeling of difficulty, for instance, does not merely signal to the learner that the current task is demanding; it motivates investment of additional cognitive resources (if the learner is mastery-oriented) or triggers avoidance (if the learner is performance-avoidance oriented). The metacognitive experience is thus a mediating variable between cognitive processing and regulatory response, and its motivational entanglement with [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Self-Determination-Theory|Self-Determination Theory]], and [[Self-Efficacy]] theory makes it a bridge construct between the cognitive and motivational traditions in SRL research.
 
 > [!person] **Anastasia Efklides**
 > Cognitive and educational psychologist at the Aristotle University of Thessaloniki. Efklides' contributions to metacognition research are particularly focused on metacognitive experiences as a phenomenological component of the metacognitive system — see especially "Metacognition and affect: What can metacognitive experiences tell us about the learning process?" (2006, *Educational Research Review*) and the comprehensive MASRL model (2011).
@@ -437,7 +437,7 @@ Efklides' central claim is that [[Metacognitive Experiences]] — the feeling of
 
 ### Winne and Hadwin: The COPES Model
 
-[[Winne & Hadwin's Metacognitive Processing Model]] — more formally, the COPES model (Conditions-Operations-Products-Evaluations-Standards) — provides the most architecturally elaborate account of metacognitive regulation within the SRL tradition (1998, 2008). Where Schraw's framework is taxonomic and the Nelson-Narens model is bipartite, the COPES model is a fully recursive computational specification of how learning episodes proceed under metacognitive regulation.
+[[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne & Hadwin's Metacognitive Processing Model]] — more formally, the COPES model (Conditions-Operations-Products-Evaluations-Standards) — provides the most architecturally elaborate account of metacognitive regulation within the SRL tradition (1998, 2008). Where Schraw's framework is taxonomic and the Nelson-Narens model is bipartite, the COPES model is a fully recursive computational specification of how learning episodes proceed under metacognitive regulation.
 
 In the COPES framework, self-regulated learning unfolds across four loosely ordered phases: task definition (establishing what the task is), goal setting and planning (establishing targets and selecting approaches), studying tactics (executing the learning activities), and adaptation (updating the learner's model of what works). Each phase involves monitoring against standards — the COPES model is explicit that standards are both internally generated and externally imposed — and generates products (cognitive outcomes) that are evaluated against those standards, producing discrepancy signals that regulate the next phase. Crucially, metacognitive regulation in the COPES model is not a separate control structure but is distributed across all phases: monitoring and control are internal to each phase, not supervisory processes operating from above.
 
@@ -450,12 +450,12 @@ In the COPES framework, self-regulated learning unfolds across four loosely orde
 
 ### Pintrich and Zimmerman: SRL Integration
 
-The integration of metacognitive regulation within the broader [[Self-Regulated Learning]] frameworks of [[Paul Pintrich]] and [[Barry Zimmerman]] marks the consolidation of the construct within educational psychology. Pintrich's (2000, 2004) [[Pintrich's Integrative SRL Framework]] situates metacognitive regulation as one of four regulatory areas — alongside motivational/affective regulation, behavioral regulation, and context regulation — within a [[Pintrich's 4×4 Matrix]] that cross-tabulates regulatory area with phase of learning (forethought/planning, monitoring, control, reflection/evaluation). This framework explicitly treats metacognitive regulation as embedded within a motivational context: the quality of metacognitive monitoring and the adequacy of control responses are modulated by motivational orientation, perceived task value, and goal structure.
+The integration of metacognitive regulation within the broader [[Self-Regulated-Learning|Self-Regulated Learning]] frameworks of [[Paul-Pintrich|Paul Pintrich]] and [[Barry-Zimmerman|Barry Zimmerman]] marks the consolidation of the construct within educational psychology. Pintrich's (2000, 2004) [[Pintrich's-Integrative-SRL-Framework|Pintrich's Integrative SRL Framework]] situates metacognitive regulation as one of four regulatory areas — alongside motivational/affective regulation, behavioral regulation, and context regulation — within a [[Pintrich's-4×4-Matrix|Pintrich's 4×4 Matrix]] that cross-tabulates regulatory area with phase of learning (forethought/planning, monitoring, control, reflection/evaluation). This framework explicitly treats metacognitive regulation as embedded within a motivational context: the quality of metacognitive monitoring and the adequacy of control responses are modulated by motivational orientation, perceived task value, and goal structure.
 
-[[Zimmerman's Cyclical Model of Self-Regulated Learning]] positions metacognitive processes across all three phases of the SRL cycle — [[Forethought Phase]], [[Performance Phase]], and [[Self-Reflection Phase]] — where metacognitive regulation is implicitly operative throughout but takes different forms in each phase: strategic planning in forethought, self-monitoring and self-instruction in performance, and self-evaluation with causal attribution in self-reflection. The cyclical architecture of Zimmerman's model captures a dimension that static taxonomic frameworks miss: metacognitive regulation is not episodic but iterative, with each cycle's evaluative products feeding into the next cycle's planning and monitoring dispositions.
+[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's Cyclical Model of Self-Regulated Learning]] positions metacognitive processes across all three phases of the SRL cycle — [[Forethought-Phase|Forethought Phase]], [[Performance-Phase|Performance Phase]], and [[Self-Reflection-Phase|Self-Reflection Phase]] — where metacognitive regulation is implicitly operative throughout but takes different forms in each phase: strategic planning in forethought, self-monitoring and self-instruction in performance, and self-evaluation with causal attribution in self-reflection. The cyclical architecture of Zimmerman's model captures a dimension that static taxonomic frameworks miss: metacognitive regulation is not episodic but iterative, with each cycle's evaluative products feeding into the next cycle's planning and monitoring dispositions.
 
 > [!insight]
-> The integration of metacognitive regulation within motivational SRL frameworks reveals a point that purely cognitive accounts obscure: metacognitive regulation is not motivationally neutral. The accuracy of monitoring, the threshold for triggering control, and the persistence of regulatory effort under difficulty are all modulated by motivational states. A learner operating under performance-avoidance goals, for instance, may have sufficient monitoring capacity to detect a comprehension failure but insufficient regulatory motivation to invest the effort required for genuine remediation. This insight — that [[Motivation Science]] and metacognitive regulation are functionally intertwined — has significant implications for interventions that target regulation in isolation from motivational context.
+> The integration of metacognitive regulation within motivational SRL frameworks reveals a point that purely cognitive accounts obscure: metacognitive regulation is not motivationally neutral. The accuracy of monitoring, the threshold for triggering control, and the persistence of regulatory effort under difficulty are all modulated by motivational states. A learner operating under performance-avoidance goals, for instance, may have sufficient monitoring capacity to detect a comprehension failure but insufficient regulatory motivation to invest the effort required for genuine remediation. This insight — that [[motivation-science|Motivation Science]] and metacognitive regulation are functionally intertwined — has significant implications for interventions that target regulation in isolation from motivational context.
 
 ---
 
@@ -467,9 +467,9 @@ Metacognitive planning operationalizes the learner's theory of the current task 
 
 **Task analysis** involves constructing a representation of the task's structural properties: what kind of cognitive work does it require, what are the criteria for success, what resources are relevant, and what constraints are operative? A learner who reads a dense philosophical argument and characterizes the task as "getting through it" rather than "identifying and evaluating the central argument's logical structure" has conducted an inadequate task analysis — and her subsequent regulatory responses will be miscalibrated to the actual demands.
 
-**Self-appraisal** involves retrieving and applying metacognitive knowledge about oneself as a cognitive agent: what are my strengths and limitations with respect to this task type, what strategies have I found effective in comparable contexts, what is my current cognitive state (fatigued? alert? distracted?). This self-appraisal is subject to systematic biases — the [[Dunning-Kruger Effect]] pattern being among the most well-documented — and is itself an exercise in monitoring that occurs before the target task begins.
+**Self-appraisal** involves retrieving and applying metacognitive knowledge about oneself as a cognitive agent: what are my strengths and limitations with respect to this task type, what strategies have I found effective in comparable contexts, what is my current cognitive state (fatigued? alert? distracted?). This self-appraisal is subject to systematic biases — the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] pattern being among the most well-documented — and is itself an exercise in monitoring that occurs before the target task begins.
 
-**Strategy selection** involves choosing from the available repertoire of cognitive approaches — those represented in the learner's [[Declarative, Procedural, and Conditional Metacognitive Knowledge]] store — the approach most likely to be effective given the task analysis and self-appraisal. Strategy selection is where metacognitive knowledge most directly enters the regulatory sequence, and it is also where the limitation of metacognitive knowledge without strategic repertoire bites most sharply: a learner who correctly assesses that her current strategy is inadequate but has no alternative available is in what researchers have termed **regulatory poverty** — accurate monitoring of failure without the regulatory resources to respond.
+**Strategy selection** involves choosing from the available repertoire of cognitive approaches — those represented in the learner's [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]] store — the approach most likely to be effective given the task analysis and self-appraisal. Strategy selection is where metacognitive knowledge most directly enters the regulatory sequence, and it is also where the limitation of metacognitive knowledge without strategic repertoire bites most sharply: a learner who correctly assesses that her current strategy is inadequate but has no alternative available is in what researchers have termed **regulatory poverty** — accurate monitoring of failure without the regulatory resources to respond.
 
 > [!key-claim]
 > Planning is the regulatory component most amenable to instruction precisely because it is the most knowledge-dependent. Interventions that expand a learner's strategic repertoire and explicitly train task-type analysis produce reliable improvements in planning quality and, through planning quality, downstream improvements in monitoring and control.
@@ -484,36 +484,36 @@ Monitoring draws on multiple cue types in constructing metacognitive judgments. 
 - **Extrinsic cues**: features of the study conditions — number of presentations, spacing, elaboration — that should, normatively, influence JOLs because they affect encoding quality, and in fact do influence JOLs but with imperfect calibration.
 - **Mnemonic cues**: online signals generated by the learning process itself — the sense of fluency, the subjective ease of retrieval, the feeling of familiarity — that serve as proxies for encoding strength.
 
-The critical empirical finding is that **mnemonic cues**, and specifically fluency, carry excessive weight in JOL construction. Learners treat subjective processing ease as a reliable signal of encoding quality — but this relationship is systematically misleading in many common study conditions. When material has been recently studied, when the surface features of material are familiar even if the semantic content is novel, or when a learner has encountered material in a different modality, fluency signals are high regardless of actual learning. The result is the **[[Fluency Illusion]]**: the experience of smooth processing generates confident metacognitive judgments even when encoding is superficial.
+The critical empirical finding is that **mnemonic cues**, and specifically fluency, carry excessive weight in JOL construction. Learners treat subjective processing ease as a reliable signal of encoding quality — but this relationship is systematically misleading in many common study conditions. When material has been recently studied, when the surface features of material are familiar even if the semantic content is novel, or when a learner has encountered material in a different modality, fluency signals are high regardless of actual learning. The result is the **[[Fluency-Illusion|Fluency Illusion]]**: the experience of smooth processing generates confident metacognitive judgments even when encoding is superficial.
 
 > [!evidence]
-> The most compelling experimental demonstrations of the fluency illusion come from experiments in which processing fluency is manipulated orthogonally to encoding quality. Reder & Ritter (1992) demonstrated that familiarity with problem form (independent of knowing the solution) elevated confidence judgments. Bjork and colleagues demonstrated that conditions that improve long-term retention (spacing, interleaving, testing) reduce subjective fluency and thereby reduce JOL confidence — meaning that the conditions most conducive to learning feel the least productive. This is among the most practically significant findings in the metacognitive regulation literature: learners' metacognitive judgments are systematically inverted with respect to the actual efficacy of [[Desirable Difficulties]].
+> The most compelling experimental demonstrations of the fluency illusion come from experiments in which processing fluency is manipulated orthogonally to encoding quality. Reder & Ritter (1992) demonstrated that familiarity with problem form (independent of knowing the solution) elevated confidence judgments. Bjork and colleagues demonstrated that conditions that improve long-term retention (spacing, interleaving, testing) reduce subjective fluency and thereby reduce JOL confidence — meaning that the conditions most conducive to learning feel the least productive. This is among the most practically significant findings in the metacognitive regulation literature: learners' metacognitive judgments are systematically inverted with respect to the actual efficacy of [[Desirable-Difficulties|Desirable Difficulties]].
 
 The monitoring mechanism can also fail through **monitoring instability**: JOLs taken at different points in the learning process diverge substantially, and learners do not always recognize this instability. Immediate JOLs (taken right after study) are consistently more inflated than delayed JOLs (taken 24 hours later), because the cue of item availability decays over time and better reflects actual long-term retention. This implies that monitoring systems calibrated on immediate feedback will systematically overestimate retention — a failure mode with direct implications for study scheduling.
 
 > [!insight]
-> The [[Comprehension Monitoring]] literature in reading parallels the JOL literature in metamemory: readers monitor comprehension primarily through signals of local coherence (does the current sentence connect to the previous one?), text-level familiarity, and subjective ease of decoding. These signals are poorly correlated with deep inferential comprehension, model-building, and retention of gist — precisely the dimensions that matter most for genuine understanding. This means that a reader can experience a subjective sense of comprehension throughout an encounter with a challenging text while constructing only a superficial [[Situation Models in Text Comprehension|situation model]].
+> The [[Comprehension-Monitoring|Comprehension Monitoring]] literature in reading parallels the JOL literature in metamemory: readers monitor comprehension primarily through signals of local coherence (does the current sentence connect to the previous one?), text-level familiarity, and subjective ease of decoding. These signals are poorly correlated with deep inferential comprehension, model-building, and retention of gist — precisely the dimensions that matter most for genuine understanding. This means that a reader can experience a subjective sense of comprehension throughout an encounter with a challenging text while constructing only a superficial [[Situation-Models-in-Text-Comprehension|situation model]].
 
 ### The Control Mechanism: Adaptive Regulatory Response
 
-If monitoring provides the information on which regulation depends, control is the mechanism through which that information is converted into cognitive action. Control operates by generating corrective or sustaining responses to discrepancies between monitored cognitive states and desired standards. When monitoring detects that comprehension has failed, control may respond with re-reading, reduced reading rate, explicit note-taking, self-questioning ([[Elaborative Interrogation]]), seeking external resources, or terminating engagement and declaring defeat. When monitoring indicates comprehension is adequate, control sustains the current approach.
+If monitoring provides the information on which regulation depends, control is the mechanism through which that information is converted into cognitive action. Control operates by generating corrective or sustaining responses to discrepancies between monitored cognitive states and desired standards. When monitoring detects that comprehension has failed, control may respond with re-reading, reduced reading rate, explicit note-taking, self-questioning ([[Elaborative-Interrogation|Elaborative Interrogation]]), seeking external resources, or terminating engagement and declaring defeat. When monitoring indicates comprehension is adequate, control sustains the current approach.
 
 The control mechanism is governed by **threshold dynamics**: not every monitoring signal generates a control response. Below a threshold of detected difficulty, the learner continues with the current approach. At or above the threshold, corrective control is triggered. This threshold is itself subject to regulatory modulation: learners under time pressure raise their thresholds (accepting more apparent difficulty without correcting); learners with high task interest lower their thresholds (intervening more readily at smaller signs of difficulty). The threshold dynamics of metacognitive control have not been extensively studied directly, but they are implied by converging lines of evidence regarding the effects of task framing and motivational orientation on regulatory behavior.
 
 > [!key-claim]
-> A learner who monitors accurately but maintains too high a control threshold will fail to respond to genuine comprehension failures — she will detect the problem but not act on it. This is a failure of **[[Monitoring-Control Coupling]]**: accurate monitoring is present, but the monitoring signal is not transduced into regulatory response with sufficient sensitivity. The **[[Monitoring-Regulation Decoupling]]** literature documents this as a distinct regulatory failure mode, separate from both inaccurate monitoring and deficient strategy knowledge.
+> A learner who monitors accurately but maintains too high a control threshold will fail to respond to genuine comprehension failures — she will detect the problem but not act on it. This is a failure of **[[Monitoring-Control-Coupling|Monitoring-Control Coupling]]**: accurate monitoring is present, but the monitoring signal is not transduced into regulatory response with sufficient sensitivity. The **[[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]]** literature documents this as a distinct regulatory failure mode, separate from both inaccurate monitoring and deficient strategy knowledge.
 
 ### The Calibration-Action Gap: An Original Contribution
 
-The mainstream metacognition literature concentrates attention on the **monitoring accuracy problem**: the fact that metacognitive judgments are often miscalibrated to actual performance. Extensive research on the fluency illusion, overconfidence effects, and the [[Dunning-Kruger Effect]] pattern documents this problem and proposes interventions (delayed JOLs, retrieval-based monitoring, generative testing) aimed at improving accuracy.
+The mainstream metacognition literature concentrates attention on the **monitoring accuracy problem**: the fact that metacognitive judgments are often miscalibrated to actual performance. Extensive research on the fluency illusion, overconfidence effects, and the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] pattern documents this problem and proposes interventions (delayed JOLs, retrieval-based monitoring, generative testing) aimed at improving accuracy.
 
 This focus, while empirically well-grounded, overlooks a structurally distinct problem that this report designates the **Calibration-Action Gap**: the failure of adaptive control to ensue even when monitoring is accurate. The gap is not a monitoring problem — by hypothesis, monitoring is accurate in this scenario — but a failure in the monitoring-to-control transduction. Several mechanisms can produce this gap:
 
 **Regulatory poverty**: The learner accurately detects a comprehension failure but has no alternative strategy to deploy. Without a repertoire of corrective approaches, accurate monitoring cannot translate into adaptive control. This is the strategic knowledge limitation, which is distinct from the monitoring limitation.
 
-**Motivational interruption**: The learner accurately detects difficulty but interprets it as evidence of incapacity (entity theory of intelligence, [[Fixed Mindset]]) or evaluates the cost of remediation as exceeding its value (low task utility beliefs). Here the monitoring signal is not absent but is interpreted through a motivational lens that suppresses the control response. The Efklides MASRL model anticipates this mechanism: metacognitive experiences carry motivational weight, and the same feeling of difficulty can motivate increased effort or motivate disengagement depending on the learner's motivational orientation and [[Self-Efficacy]].
+**Motivational interruption**: The learner accurately detects difficulty but interprets it as evidence of incapacity (entity theory of intelligence, [[Fixed-Mindset|Fixed Mindset]]) or evaluates the cost of remediation as exceeding its value (low task utility beliefs). Here the monitoring signal is not absent but is interpreted through a motivational lens that suppresses the control response. The Efklides MASRL model anticipates this mechanism: metacognitive experiences carry motivational weight, and the same feeling of difficulty can motivate increased effort or motivate disengagement depending on the learner's motivational orientation and [[Self-Efficacy]].
 
-**Regulatory overhead**: Deploying a corrective control response itself consumes [[Working Memory]] resources. A learner already operating near her cognitive load ceiling may not have the residual capacity to generate and execute a corrective strategy even when she has accurately detected the need for one. The interaction between [[Cognitive Load Theory]] and metacognitive regulation is undertheorized in the mainstream literature, but represents a real constraint on regulatory action under demanding conditions.
+**Regulatory overhead**: Deploying a corrective control response itself consumes [[Working-Memory|Working Memory]] resources. A learner already operating near her cognitive load ceiling may not have the residual capacity to generate and execute a corrective strategy even when she has accurately detected the need for one. The interaction between [[Cognitive-Load-Theory|Cognitive Load Theory]] and metacognitive regulation is undertheorized in the mainstream literature, but represents a real constraint on regulatory action under demanding conditions.
 
 > [!insight]
 > The Calibration-Action Gap implies that interventions targeting monitoring accuracy (e.g., delayed JOL training, retrieval-based self-testing) will be insufficient for learners whose failure mode is not inaccurate monitoring but regulatory poverty or motivational interruption. Diagnostic assessment of which failure mode is operative is therefore a prerequisite for targeted metacognitive intervention — rather than a one-size-fits-all approach to "improving metacognition."
@@ -531,9 +531,9 @@ Evaluation is also subject to a systematic bias analogous to the fluency illusio
 
 ### The Regulatory Reflexivity Problem
 
-A structural feature of metacognitive regulation that generates fundamental theoretical difficulties is its reflexivity: if metacognitive regulation is itself a cognitive process, it is presumably subject to monitoring and control. What monitors the monitoring? What regulates the regulation? This is the [[Regulatory Reflexivity Problem]], and it poses a genuine theoretical challenge that no framework has fully resolved.
+A structural feature of metacognitive regulation that generates fundamental theoretical difficulties is its reflexivity: if metacognitive regulation is itself a cognitive process, it is presumably subject to monitoring and control. What monitors the monitoring? What regulates the regulation? This is the [[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]], and it poses a genuine theoretical challenge that no framework has fully resolved.
 
-Practically, the regress is terminated empirically rather than principally: at some point, metacognitive processes operate without further metacognitive oversight, presumably because the cost of further oversight exceeds its benefit, or because lower-order processes are sufficiently automatized that higher-order oversight is not required. But this pragmatic termination is unsatisfying theoretically. The [[The Regulatory Reflexivity Problem-A Novel Framing]] in the PKB addresses this challenge; the [[Monitoring-Regulation Decoupling]] node documents empirical cases in which the anticipated regulatory response fails to materialize.
+Practically, the regress is terminated empirically rather than principally: at some point, metacognitive processes operate without further metacognitive oversight, presumably because the cost of further oversight exceeds its benefit, or because lower-order processes are sufficiently automatized that higher-order oversight is not required. But this pragmatic termination is unsatisfying theoretically. The [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing|The Regulatory Reflexivity Problem-A Novel Framing]] in the PKB addresses this challenge; the [[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]] node documents empirical cases in which the anticipated regulatory response fails to materialize.
 
 > [!reflection]
 > 1. The Calibration-Action Gap suggests that the most common intervention target in metacognition research (monitoring accuracy) may not be the most common failure mode in practice. What would a diagnostic protocol for identifying which failure mode is operative look like in a real educational context?
@@ -546,17 +546,17 @@ Practically, the regress is terminated empirically rather than principally: at s
 
 ### Application Domains
 
-**Reading Comprehension and Academic Text Processing**: The most extensively documented application of metacognitive regulation is reading comprehension, where it overlaps substantially with the [[Comprehension Monitoring]] literature. Expert readers regulate comprehension through a continuous cycle of strategy selection (choosing between skimming, close reading, rereading, or generating questions), monitoring (detecting failures of coherence, unfamiliar vocabulary, logical gaps), and control (slowing, rereading, pausing to integrate, seeking glosses). Research consistently demonstrates that explicit instruction in comprehension monitoring and control — as in reciprocal teaching (Palincsar & Brown, 1984), structured self-questioning protocols, and [[Elaborative Interrogation]] training — produces substantial improvements in reading comprehension outcomes, particularly for struggling readers.
+**Reading Comprehension and Academic Text Processing**: The most extensively documented application of metacognitive regulation is reading comprehension, where it overlaps substantially with the [[Comprehension-Monitoring|Comprehension Monitoring]] literature. Expert readers regulate comprehension through a continuous cycle of strategy selection (choosing between skimming, close reading, rereading, or generating questions), monitoring (detecting failures of coherence, unfamiliar vocabulary, logical gaps), and control (slowing, rereading, pausing to integrate, seeking glosses). Research consistently demonstrates that explicit instruction in comprehension monitoring and control — as in reciprocal teaching (Palincsar & Brown, 1984), structured self-questioning protocols, and [[Elaborative-Interrogation|Elaborative Interrogation]] training — produces substantial improvements in reading comprehension outcomes, particularly for struggling readers.
 
-The connection between metacognitive regulation and [[Situation Models in Text Comprehension]] is particularly important: building a rich situation model requires not merely decoding words and sentences but constructing, monitoring, and updating an integrated mental representation of the text's described world. Monitoring failures that allow inconsistencies into the situation model without triggering corrective re-reading result in degraded comprehension that is often invisible to the reader — a cardinal manifestation of the fluency illusion in a reading context.
+The connection between metacognitive regulation and [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] is particularly important: building a rich situation model requires not merely decoding words and sentences but constructing, monitoring, and updating an integrated mental representation of the text's described world. Monitoring failures that allow inconsistencies into the situation model without triggering corrective re-reading result in degraded comprehension that is often invisible to the reader — a cardinal manifestation of the fluency illusion in a reading context.
 
-**Study Strategy Self-Management**: Metacognitive regulation governs study strategy selection and monitoring in ways that have direct implications for the efficacy of study time. Research in the [[Spaced Repetition]] and [[Retrieval Practice]] traditions consistently demonstrates that learners left to their own regulatory devices choose massed study over spaced study, passive rereading over active self-testing — precisely because massed study and passive rereading produce higher subjective fluency (and therefore more positive JOLs) while producing inferior long-term retention. The metacognitive regulation mechanism here is one of monitoring-cue distortion: learners are regulating (they are monitoring and adjusting study effort), but their monitoring cues are systematically misleading.
+**Study Strategy Self-Management**: Metacognitive regulation governs study strategy selection and monitoring in ways that have direct implications for the efficacy of study time. Research in the [[Spaced-Repetition|Spaced Repetition]] and [[Retrieval-Practice|Retrieval Practice]] traditions consistently demonstrates that learners left to their own regulatory devices choose massed study over spaced study, passive rereading over active self-testing — precisely because massed study and passive rereading produce higher subjective fluency (and therefore more positive JOLs) while producing inferior long-term retention. The metacognitive regulation mechanism here is one of monitoring-cue distortion: learners are regulating (they are monitoring and adjusting study effort), but their monitoring cues are systematically misleading.
 
 Interventions that correct this regulatory failure take two forms: (1) **cue replacement** — training learners to use cue types that track actual learning rather than processing fluency (e.g., delayed testing, prediction before study); and (2) **strategy mandate** — requiring learners to use spaced or retrieval-based strategies regardless of their metacognitive judgments. The second approach is more robust for novices but fails to develop the metacognitive regulation capacity that transfers to novel contexts.
 
 **Expertise Development and Expert-Novice Differences**: Expert-novice differences in metacognitive regulation are among the most robust findings in cognitive science. Experts monitor more accurately, plan more systematically, deploy a broader and more differentiated strategic repertoire in response to monitoring signals, and evaluate their performance with greater precision. This expertise-regulation relationship is bidirectional: expertise produces better regulation because domain knowledge expands the standard-setting and strategy-selection resources available to monitoring and control; and better regulation accelerates expertise acquisition by making practice more efficiently targeted.
 
-The implication for deliberate practice design is that [[Metacognitive Scaffolding]] — externally provided monitoring and control support — can compensate for immature self-regulatory capacity during skill acquisition while providing models for internalized regulation. [[Scaffolding]] that is progressively faded as metacognitive competence develops mirrors the [[Zone of Proximal Development]] dynamics identified in Vygotsky's developmental theory.
+The implication for deliberate practice design is that [[Metacognitive-Scaffolding|Metacognitive Scaffolding]] — externally provided monitoring and control support — can compensate for immature self-regulatory capacity during skill acquisition while providing models for internalized regulation. [[Scaffolding]] that is progressively faded as metacognitive competence develops mirrors the [[Zone-of-Proximal-Development|Zone of Proximal Development]] dynamics identified in Vygotsky's developmental theory.
 
 ### Implications for Instruction and Intervention
 
@@ -564,7 +564,7 @@ The research on metacognitive regulation converges on several implications for i
 
 **Explicit metacognitive instruction is superior to implicit modeling**: Learners who are explicitly taught the rationale for regulatory strategies — why planning matters, what monitoring is tracking, how to evaluate process vs. outcome — outperform learners who observe expert regulation without explicit instruction.
 
-**Motivational integration is necessary**: Metacognitive regulation interventions that fail to address the motivational context of regulation — particularly [[Self-Efficacy]] beliefs, goal orientation, and the interpretation of difficulty — show attenuated effects. The Efklides MASRL framework's integration of affective and cognitive dimensions is the theoretical basis for this finding. Interventions embedded within [[Self-Determination Theory]]-consistent motivational climates show better transfer than cognitively isolated metacognitive training.
+**Motivational integration is necessary**: Metacognitive regulation interventions that fail to address the motivational context of regulation — particularly [[Self-Efficacy]] beliefs, goal orientation, and the interpretation of difficulty — show attenuated effects. The Efklides MASRL framework's integration of affective and cognitive dimensions is the theoretical basis for this finding. Interventions embedded within [[Self-Determination-Theory|Self-Determination Theory]]-consistent motivational climates show better transfer than cognitively isolated metacognitive training.
 
 **The diagnostic imperative**: Because metacognitive regulation failures have multiple distinct causes (monitoring inaccuracy, regulatory poverty, Calibration-Action Gap, regulatory overhead), effective intervention requires diagnosis of the operative failure mode. Undifferentiated metacognitive training — teaching all learners all regulatory strategies simultaneously — is less efficient than targeted intervention calibrated to the learner's specific regulatory deficit.
 
@@ -590,7 +590,7 @@ The research on metacognitive regulation converges on several implications for i
 >
 > **Why It Matters:** The answer determines whether very young children (whose executive function is immature) and animals can be said to regulate metacognitively — and thus the developmental and evolutionary scope of the construct.
 >
-> **See also:** [[Metacognition]], [[Executive Function]], [[Cognitive Control]], [[Dual-Process Theory]]
+> **See also:** [[Metacognition]], [[Executive-Function|Executive Function]], [[Cognitive-Control|Cognitive Control]], [[Dual-Process-Theory|Dual-Process Theory]]
 
 ---
 
@@ -619,37 +619,37 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > - **[[Metacognition]]** — The parent construct of which metacognitive regulation is the executive/regulatory dimension. This report presupposes Flavell's original framework and the metacognitive knowledge / metacognitive regulation distinction that structures the entire analysis.
 >
-> - **[[Working Memory]]** — The cognitive architecture within which regulatory processes are implemented. The regulatory overhead mechanism identified in Phase IV is grounded in the constraints of working memory capacity.
+> - **[[Working-Memory|Working Memory]]** — The cognitive architecture within which regulatory processes are implemented. The regulatory overhead mechanism identified in Phase IV is grounded in the constraints of working memory capacity.
 >
-> - **[[Cognitive Load Theory]]** — Provides the theoretical basis for the regulatory overhead mechanism: under high extraneous cognitive load, the resources available for metacognitive monitoring and control are reduced. CLT's prescriptions for instructional design intersect directly with the conditions under which metacognitive regulation can operate effectively.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Provides the theoretical basis for the regulatory overhead mechanism: under high extraneous cognitive load, the resources available for metacognitive monitoring and control are reduced. CLT's prescriptions for instructional design intersect directly with the conditions under which metacognitive regulation can operate effectively.
 >
-> - **[[Schema Theory]]** — Expert-novice differences in metacognitive regulation are mediated in part by schematic knowledge: experts have richer, more automated schemata that free working memory for metacognitive processing, while novices' schematic poverty contributes to both cognitive overload and regulatory poverty.
+> - **[[Schema-Theory|Schema Theory]]** — Expert-novice differences in metacognitive regulation are mediated in part by schematic knowledge: experts have richer, more automated schemata that free working memory for metacognitive processing, while novices' schematic poverty contributes to both cognitive overload and regulatory poverty.
 >
 > **Downstream Applications (this report enables):**
 >
-> - **[[Metacognition & Lifelong Learning]]** — Metacognitive regulation is the operational mechanism through which lifelong learning self-direction is achieved. The capacity to plan, monitor, control, and evaluate one's own cognition independent of external scaffolding is the definitional competence of the genuinely self-directed learner.
+> - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Metacognitive regulation is the operational mechanism through which lifelong learning self-direction is achieved. The capacity to plan, monitor, control, and evaluate one's own cognition independent of external scaffolding is the definitional competence of the genuinely self-directed learner.
 >
-> - **[[Metacognition & Critical Thinking]]** — Critical thinking, on the dominant Paul-Elder and Ennis formulations, requires metacognitive self-regulation as its executive dimension: the critical thinker must monitor her own reasoning for logical fallacies, cognitive biases, and assumptions — and this monitoring is metacognitive regulation applied to the domain of argument rather than the domain of learning.
+> - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — Critical thinking, on the dominant Paul-Elder and Ennis formulations, requires metacognitive self-regulation as its executive dimension: the critical thinker must monitor her own reasoning for logical fallacies, cognitive biases, and assumptions — and this monitoring is metacognitive regulation applied to the domain of argument rather than the domain of learning.
 >
-> - **[[Metacognition & Motivation]]** — The motivational dimension of metacognitive regulation — the Efklides MASRL model, the role of achievement goals and self-efficacy in threshold-setting, the Calibration-Action Gap's motivational interruption mechanism — is the primary site where metacognitive regulation theory connects to motivation science.
+> - **[[Metacognition-&-Motivation|Metacognition & Motivation]]** — The motivational dimension of metacognitive regulation — the Efklides MASRL model, the role of achievement goals and self-efficacy in threshold-setting, the Calibration-Action Gap's motivational interruption mechanism — is the primary site where metacognitive regulation theory connects to motivation science.
 >
-> - **[[Self-Directed Learning]]** — The operational architecture of self-directed learning is metacognitive regulation: the self-directed learner is one whose regulatory system operates with sufficient independence, accuracy, and adaptiveness to sustain effective learning without external direction.
+> - **[[Self-Directed-Learning|Self-Directed Learning]]** — The operational architecture of self-directed learning is metacognitive regulation: the self-directed learner is one whose regulatory system operates with sufficient independence, accuracy, and adaptiveness to sustain effective learning without external direction.
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[Elaborative Interrogation]]** — EI is a learning strategy that instrumentalizes metacognitive regulation: the why-questions that EI prescribes are monitoring devices (do I understand why this is the case?) and comprehension-construction mechanisms simultaneously.
+> - **[[Elaborative-Interrogation|Elaborative Interrogation]]** — EI is a learning strategy that instrumentalizes metacognitive regulation: the why-questions that EI prescribes are monitoring devices (do I understand why this is the case?) and comprehension-construction mechanisms simultaneously.
 >
-> - **[[Situation Models in Text Comprehension]]** — The construction of coherent situation models is both a target of metacognitive regulation (monitoring whether a model is being successfully built) and a precondition for accurate monitoring (understanding what an adequate situation model looks like sets the monitoring standard).
+> - **[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]** — The construction of coherent situation models is both a target of metacognitive regulation (monitoring whether a model is being successfully built) and a precondition for accurate monitoring (understanding what an adequate situation model looks like sets the monitoring standard).
 >
-> - **[[Extended Mind Theory]]** — Where metacognitive regulation is internalized cognitive self-governance, extended mind theory asks whether the boundary between self-regulation and environmental scaffolding is principled. The [[Metacognitive Scaffolding]] literature is the applied bridge between these two frameworks.
+> - **[[Extended-Mind-Theory|Extended Mind Theory]]** — Where metacognitive regulation is internalized cognitive self-governance, extended mind theory asks whether the boundary between self-regulation and environmental scaffolding is principled. The [[Metacognitive-Scaffolding|Metacognitive Scaffolding]] literature is the applied bridge between these two frameworks.
 >
-> - **[[Habit Formation]]** — Effective metacognitive regulation, when practiced consistently in specific contexts, may become habitual — shifting from deliberate regulatory oversight to automatic regulatory routine. The relationship between habituation and regulatory flexibility is theoretically important: automatized regulation is efficient but may be less responsive to novel task demands.
+> - **[[Habit-Formation|Habit Formation]]** — Effective metacognitive regulation, when practiced consistently in specific contexts, may become habitual — shifting from deliberate regulatory oversight to automatic regulatory routine. The relationship between habituation and regulatory flexibility is theoretically important: automatized regulation is efficient but may be less responsive to novel task demands.
 >
 > **Strengthened Permanent Notes:**
 >
-> - **[[Metacognitive Monitoring]]** — This report provides the most detailed mechanistic account of monitoring, including cue utilization, the fluency illusion, and monitoring instability, substantially deepening the Monitoring node.
-> - **[[Nelson-Narens Model]]** — The monitoring-control independence thesis and its implications for intervention design are elaborated here in more detail than in the Model node itself.
-> - **[[Zimmerman's Cyclical Model of Self-Regulated Learning]]** — This report's Phase III treatment of how metacognitive regulation distributes across the forethought, performance, and self-reflection phases enriches the Zimmerman node's regulatory dimension.
+> - **[[Metacognitive-Monitoring|Metacognitive Monitoring]]** — This report provides the most detailed mechanistic account of monitoring, including cue utilization, the fluency illusion, and monitoring instability, substantially deepening the Monitoring node.
+> - **[[Nelson-Narens-Model|Nelson-Narens Model]]** — The monitoring-control independence thesis and its implications for intervention design are elaborated here in more detail than in the Model node itself.
+> - **[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's Cyclical Model of Self-Regulated Learning]]** — This report's Phase III treatment of how metacognitive regulation distributes across the forethought, performance, and self-reflection phases enriches the Zimmerman node's regulatory dimension.
 >
 > **Key Insight:** The pattern of connections reveals that metacognitive regulation is genuinely a hub construct within the PKB — it receives inputs from the cognitive architecture (working memory, schema theory, cognitive load), connects horizontally to motivation and critical thinking, and enables the higher-order practical constructs (self-directed learning, lifelong learning). A disruption in metacognitive regulation propagates outward through all these connections.
 
@@ -671,7 +671,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Common Misconception:** Low coupling is frequently attributed to monitoring failure (inaccurate detection), when in practice it may reflect adequate monitoring with absent or blocked control — the Calibration-Action Gap mechanism described in Phase IV.
 >
-> **See also:** [[Monitoring-Control Coupling]], [[Monitoring-Regulation Coupling]], [[Monitoring-Regulation Decoupling]], [[Metacognitive Monitoring]], [[Regulation of Cognition]]
+> **See also:** [[Monitoring-Control-Coupling|Monitoring-Control Coupling]], [[Monitoring-Regulation-Coupling|Monitoring-Regulation Coupling]], [[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Regulation-of-Cognition|Regulation of Cognition]]
 
 > [!definition] **Calibration (Metacognitive) (Nelson & Narens, 1990; Koriat, 1997)**
 > Metacognitive calibration is the correspondence between metacognitive judgments — JOLs, FOK, confidence ratings — and actual cognitive performance. Perfect calibration (rarely achieved in practice) involves an exact one-to-one correspondence: predicted performance equals actual performance. Overconfidence (predicted > actual) is the most common calibration failure in educational contexts, though underconfidence is documented in specific populations (expert learners in unfamiliar domains; individuals with high anxiety). Calibration is typically measured by the **gamma coefficient** (the rank-order correlation between predicted and actual performance) or by a calibration curve that plots mean confidence against proportional correct.
@@ -682,7 +682,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Research Status:** The calibration literature is extensive and well-established. Consensus findings: (1) most learners are overconfident, (2) calibration improves with domain expertise, (3) calibration can be improved through retrieval-based self-testing and delayed JOL procedures, (4) calibration correlates positively with academic performance.
 >
-> **See also:** [[Calibration]], [[Metacognitive Calibration]], [[Metacognitive Accuracy]], [[Judgment of Learning]], [[Feeling of Knowing]], [[Fluency Illusion]]
+> **See also:** [[Calibration]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Metacognitive-Accuracy|Metacognitive Accuracy]], [[Judgment-of-Learning|Judgment of Learning]], [[Feeling-of-Knowing|Feeling of Knowing]], [[Fluency-Illusion|Fluency Illusion]]
 
 > [!definition] **Regulatory Poverty**
 > Regulatory poverty designates the condition in which a learner's metacognitive monitoring accurately detects a performance discrepancy — comprehension failure, strategy inadequacy, goal misalignment — but the learner's strategic repertoire does not include an appropriate corrective response. Regulatory poverty is a form of the Calibration-Action Gap in which the action failure is attributable specifically to strategic knowledge deficiency rather than to motivational interruption or regulatory overhead. The construct is implicit in Brown's (1987) analysis of production deficiency in children and in Schraw's framework, but has not been labeled as such in the mainstream literature.
@@ -691,7 +691,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Original Contribution Flag:** The specific labeling and three-mechanism taxonomy of the Calibration-Action Gap (regulatory poverty, motivational interruption, regulatory overhead) is original to this report. The constituent mechanisms are documented in the literature; the taxonomy and construct label are novel.
 >
-> **See also:** [[Metacognitive Strategy]], [[Metacognitive Knowledge]], [[Declarative, Procedural, and Conditional Metacognitive Knowledge]], [[Monitoring-Regulation Decoupling]]
+> **See also:** [[Metacognitive-Strategy|Metacognitive Strategy]], [[Metacognitive-Knowledge|Metacognitive Knowledge]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]], [[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]]
 
 > [!definition] **Judgment of Learning (JOL) (Nelson & Dunlosky, 1991)**
 > A Judgment of Learning is a prospective metacognitive assessment, made during or immediately after study, of the probability that a studied item will be successfully recalled on a future memory test. JOLs are the most extensively studied metacognitive judgment type in the Nelson-Narens tradition, and the correspondence between JOL and actual retention (JOL accuracy, measured by gamma) is the most common operationalization of monitoring accuracy in the metamemory literature.
@@ -702,7 +702,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Common Misconception:** JOL accuracy is frequently treated as equivalent to metacognitive monitoring accuracy generally. In fact, JOLs are one specific monitoring assessment with specific cue-utilization properties; monitoring during extended reading comprehension, problem-solving, or writing involves different judgment processes that are not fully captured by JOL accuracy paradigms.
 >
-> **See also:** [[Judgment of Learning]], [[Feeling of Knowing]], [[Ease of Learning]], [[Metacognitive Monitoring]], [[Calibration]], [[Nelson-Narens Model]]
+> **See also:** [[Judgment-of-Learning|Judgment of Learning]], [[Feeling-of-Knowing|Feeling of Knowing]], [[Ease-of-Learning|Ease of Learning]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Calibration]], [[Nelson-Narens-Model|Nelson-Narens Model]]
 
 > [!definition] **Pseudometacognition**
 > Pseudometacognition refers to regulatory-appearing cognitive or behavioral activity that does not involve genuine meta-level representation of one's own cognitive states. A learner who rereads a passage whenever she reaches a certain page count — regardless of monitored comprehension — is exhibiting a rereading behavior but not metacognitive regulation: there is no meta-level monitoring of comprehension that is triggering the control response. Similarly, a learner who correctly produces the vocabulary of metacognitive regulation ("I need to monitor my comprehension") without actually monitoring is demonstrating metacognitive knowledge but not metacognitive regulation.
@@ -711,42 +711,42 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Report-Specific Significance:** The pseudometacognition concept is essential for interpreting the results of metacognitive instruction research: if training produces behavioral changes (more rereading, more note-taking) without genuine meta-level monitoring, the intervention has produced behavioral change without metacognitive regulatory development — a distinction with significant implications for transfer.
 >
-> **See also:** [[Pseudometacognition]], [[Metacognitive Monitoring]], [[Metacognitive Self-Regulation]], [[Regulation of Cognition]]
+> **See also:** [[Pseudometacognition]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]], [[Regulation-of-Cognition|Regulation of Cognition]]
 
 > [!definition] **The Fluency Illusion (Bjork, 1994; Koriat, 1997)**
 > The fluency illusion is the systematic over-inference from subjective processing ease to depth of encoding and probability of subsequent retention. When cognitive processing is subjectively smooth — when text is easy to decode, when material is recently presented, when surface features are familiar — learners generate high JOLs and high comprehension confidence regardless of whether genuine encoding has occurred. The illusion is "illusory" because fluency is a valid cue under some conditions (genuinely well-learned material does process more fluently) but is an invalid cue under conditions of superficial encoding, recently-encountered but poorly integrated material, or high perceptual familiarity without semantic mastery.
 >
 > **Common Misconception:** The fluency illusion is sometimes treated as a cognitive bias to be eliminated. A more precise characterization is that fluency is an appropriate monitoring cue in most ordinary conditions but is an inappropriately weighted cue in the conditions characteristic of academic learning — where superficial encounter with material is common and where the fluency-encoding relationship is systematically distorted by re-exposure and by comprehension strategies that prioritize surface-level continuity over deep semantic integration.
 >
-> **See also:** [[Fluency Illusion]], [[Illusion of Knowing]], [[Metacognitive Experiences]], [[Judgment of Learning]], [[Desirable Difficulties]], [[Retrieval Practice]]
+> **See also:** [[Fluency-Illusion|Fluency Illusion]], [[Illusion-of-Knowing|Illusion of Knowing]], [[Metacognitive-Experiences|Metacognitive Experiences]], [[Judgment-of-Learning|Judgment of Learning]], [[Desirable-Difficulties|Desirable Difficulties]], [[Retrieval-Practice|Retrieval Practice]]
 
 > [!definition] **Metacognitive Scaffolding (Vygotsky tradition; Wood, Bruner & Ross, 1976)**
-> Metacognitive scaffolding designates externally provided support for regulatory processes that the learner cannot yet execute independently. In contrast to task-level scaffolding (which reduces the difficulty of the target cognitive task), metacognitive scaffolding targets the regulatory processes themselves: guiding planning, providing monitoring prompts, supplying control repertoire suggestions, and structuring evaluation. Metacognitive scaffolding is grounded theoretically in Vygotsky's [[Zone of Proximal Development]]: it enables regulatory performance within the learner's ZPD that could not be achieved independently, while providing a model for the internalization of regulatory processes.
+> Metacognitive scaffolding designates externally provided support for regulatory processes that the learner cannot yet execute independently. In contrast to task-level scaffolding (which reduces the difficulty of the target cognitive task), metacognitive scaffolding targets the regulatory processes themselves: guiding planning, providing monitoring prompts, supplying control repertoire suggestions, and structuring evaluation. Metacognitive scaffolding is grounded theoretically in Vygotsky's [[Zone-of-Proximal-Development|Zone of Proximal Development]]: it enables regulatory performance within the learner's ZPD that could not be achieved independently, while providing a model for the internalization of regulatory processes.
 >
 > **Boundary:** Metacognitive scaffolding, properly understood, is scaffolding of regulatory processes rather than of task content. A teacher who provides hints about problem solutions is offering task scaffolding; a teacher who asks "How do you know whether your current approach is working?" is offering metacognitive scaffolding. The two are often conflated in instructional practice.
 >
 > **Historical Development:** Reciprocal teaching (Palincsar & Brown, 1984) is the most empirically validated form of metacognitive scaffolding in the reading comprehension domain, demonstrating that structured modeling and practice of comprehension monitoring, questioning, summarizing, and predicting produces significant, durable comprehension gains.
 >
-> **See also:** [[Metacognitive Scaffolding]], [[Scaffolding]], [[Zone of Proximal Development]], [[Metacognitive Self-Regulation]], [[Self-Directed Learning]]
+> **See also:** [[Metacognitive-Scaffolding|Metacognitive Scaffolding]], [[Scaffolding]], [[Zone-of-Proximal-Development|Zone of Proximal Development]], [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]], [[Self-Directed-Learning|Self-Directed Learning]]
 
 > [!definition] **The Regulatory Reflexivity Problem**
 > The regulatory reflexivity problem designates the structural challenge that metacognitive regulation, being itself a cognitive process, is subject to the same monitoring and control demands as any other cognitive process — generating an apparent regress in which the regulation of regulation would require further regulation, ad infinitum. The problem is not merely philosophical: it has practical manifestations in the difficulty of evaluating one's own regulatory effectiveness (evaluating evaluation), and in the tendency for regulatory processes to become themselves objects of meta-regulatory concern in ways that generate anxiety and reduced regulatory efficacy.
 >
 > **Boundary:** The regress is practically terminated: at some level, regulatory processes operate without further metacognitive oversight, presumably because oversight costs exceed benefits or because lower-order processes are sufficiently reliable. But the principled location of this termination is not established by theory.
 >
-> **See also:** [[Regulatory Reflexivity Problem]], [[The Regulatory Reflexivity Problem-A Novel Framing]], [[Metacognitive Regulation]], [[Regulation of Cognition]]
+> **See also:** [[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]], [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing|The Regulatory Reflexivity Problem-A Novel Framing]], [[Metacognitive-Regulation|Metacognitive Regulation]], [[Regulation-of-Cognition|Regulation of Cognition]]
 
 > [!definition] **Monitoring-Regulation Decoupling**
 > Monitoring-regulation decoupling refers to the empirical condition in which the expected functional coupling between monitoring accuracy and regulatory response is absent or attenuated — that is, accurate monitoring does not produce the adaptive regulatory response that normative models predict. Decoupling represents the empirical instantiation of the Calibration-Action Gap: it is what is observed behaviorally when any of the three Calibration-Action Gap mechanisms (regulatory poverty, motivational interruption, regulatory overhead) is operative.
 >
 > **Research Status:** Monitoring-regulation decoupling is documented in several empirical contexts: strategy selection studies in which accurate comprehension monitoring does not produce strategy switching (Pressley et al., 1985); metacognitive calibration studies in which good JOL accuracy does not predict more adaptive allocation of study time (Metcalfe & Finn, 2008).
 >
-> **See also:** [[Monitoring-Regulation Decoupling]], [[Monitoring-Control Coupling]], [[Monitoring Gap]], [[Calibration]], [[Metacognitive Regulation]]
+> **See also:** [[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]], [[Monitoring-Control-Coupling|Monitoring-Control Coupling]], [[Monitoring-Gap|Monitoring Gap]], [[Calibration]], [[Metacognitive-Regulation|Metacognitive Regulation]]
 
 > [!definition] **Declarative, Procedural, and Conditional Metacognitive Knowledge (Paris, Lipson & Wixson, 1983; Schraw & Moshman, 1995)**
-> The taxonomy of [[Declarative, Procedural, and Conditional Metacognitive Knowledge]] designates three functionally distinct knowledge types within the knowledge-of-cognition dimension of metacognition. **Declarative** metacognitive knowledge is factual knowledge about cognitive processes and strategies ("I know that distributed practice improves retention more than massed practice"). **Procedural** metacognitive knowledge is knowledge of how to implement strategies ("I know how to create and execute a distributed practice schedule"). **Conditional** metacognitive knowledge is knowledge of when and why to use particular strategies ("I know that distributed practice is most beneficial when retention over a long interval is the goal, and less necessary for short-term performance"). Conditional metacognitive knowledge is the most sophisticated type, requiring integration of declarative and procedural knowledge with task context assessment, and it is the type most predictive of adaptive strategy selection.
+> The taxonomy of [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]] designates three functionally distinct knowledge types within the knowledge-of-cognition dimension of metacognition. **Declarative** metacognitive knowledge is factual knowledge about cognitive processes and strategies ("I know that distributed practice improves retention more than massed practice"). **Procedural** metacognitive knowledge is knowledge of how to implement strategies ("I know how to create and execute a distributed practice schedule"). **Conditional** metacognitive knowledge is knowledge of when and why to use particular strategies ("I know that distributed practice is most beneficial when retention over a long interval is the goal, and less necessary for short-term performance"). Conditional metacognitive knowledge is the most sophisticated type, requiring integration of declarative and procedural knowledge with task context assessment, and it is the type most predictive of adaptive strategy selection.
 >
-> **See also:** [[Declarative, Procedural, and Conditional Metacognitive Knowledge]], [[Metacognitive Knowledge]], [[Knowledge of Cognition]], [[Metacognitive Strategy]]
+> **See also:** [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]], [[Metacognitive-Knowledge|Metacognitive Knowledge]], [[Knowledge-of-Cognition|Knowledge of Cognition]], [[Metacognitive-Strategy|Metacognitive Strategy]]
 
 ---
 
@@ -819,7 +819,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **This Report's Position:** Both accuracy and validity are necessary but neither is sufficient. Effective monitoring requires both attending to the right dimensions of cognitive performance and accurately assessing those dimensions.
 >
-> **See also:** [[Calibration]], [[Metacognitive Monitoring]], [[Fluency Illusion]], [[Metacognitive Accuracy]]
+> **See also:** [[Calibration]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Fluency-Illusion|Fluency Illusion]], [[Metacognitive-Accuracy|Metacognitive Accuracy]]
 
 > [!tension] **Domain-Generality vs. Domain-Specificity of Metacognitive Regulation**
 >
@@ -835,7 +835,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **This Report's Position:** A mixture: there are general regulatory dispositions and domain-specific regulatory competences; the general dispositions provide the infrastructure, but effective deployment requires domain-specific knowledge of standards and strategies.
 >
-> **See also:** [[Transfer of Learning]], [[Metacognitive Self-Regulation]], [[Schema Theory]], [[Expertise]], [[Declarative, Procedural, and Conditional Metacognitive Knowledge]]
+> **See also:** [[Transfer-of-Learning|Transfer of Learning]], [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]], [[Schema-Theory|Schema Theory]], [[Expertise]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]]
 
 > [!tension] **Regulatory Consciousness: Deliberate vs. Automatic**
 >
@@ -849,7 +849,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Why It Matters:** Determines the developmental and evolutionary scope of the construct, and affects whether young children and non-human animals can be said to regulate metacognitively.
 >
-> **See also:** [[Metacognition]], [[Metacognitive Experience]], [[Dual-Process Theory]], [[Automaticity]], [[Executive Function]]
+> **See also:** [[Metacognition]], [[Metacognitive-Experience|Metacognitive Experience]], [[Dual-Process-Theory|Dual-Process Theory]], [[Automaticity]], [[Executive-Function|Executive Function]]
 
 > [!open-question] **What Regulates the Regulator?**
 >
@@ -859,9 +859,9 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **What We Don't Know:** Whether the termination is principled (determined by the phenomenological accessibility criterion: only processes accessible to awareness can be regulated metacognitively) or empirical (determined by cost-benefit dynamics of regulatory investment).
 >
-> **Why It Matters:** This is not merely a philosophical puzzle — the [[Regulatory Reflexivity Problem]] has practical manifestations in the form of regulatory anxiety (excessive metacognitive self-monitoring that impairs rather than aids performance, as documented in test anxiety and performance anxiety research).
+> **Why It Matters:** This is not merely a philosophical puzzle — the [[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]] has practical manifestations in the form of regulatory anxiety (excessive metacognitive self-monitoring that impairs rather than aids performance, as documented in test anxiety and performance anxiety research).
 >
-> **See also:** [[Regulatory Reflexivity Problem]], [[The Regulatory Reflexivity Problem-A Novel Framing]], [[Executive Function]], [[Metacognitive Regulation]]
+> **See also:** [[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]], [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing|The Regulatory Reflexivity Problem-A Novel Framing]], [[Executive-Function|Executive Function]], [[Metacognitive-Regulation|Metacognitive Regulation]]
 
 ---
 
@@ -1124,68 +1124,68 @@ For the self-directed learner, the operative implications of this analysis are d
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Metacognitive Accuracy]]
+> > [!topic-idea] [[Metacognitive-Accuracy|Metacognitive Accuracy]]
 > > **Description:** A dedicated foundational or focused analysis report on metacognitive accuracy — the calibration literature in detail. This report has addressed calibration as a mechanism but has not provided comprehensive coverage of measurement methods (gamma coefficient, calibration curves, within-person vs. between-person accuracy), the full range of calibration distortion patterns (overconfidence, underconfidence, resolution), or the empirical literature on calibration training. The accuracy literature is sufficiently rich to warrant its own report, with Koriat's cue-utilization framework, the delayed-JOL superiority effect, and the application to study self-monitoring as core content.
 > >
 > > **Connection to This Report:** Phase IV's monitoring accuracy section introduces the calibration problem; this expansion would develop it into a standalone node.
 > >
 > > **Priority:** Critical
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Metacognitive Monitoring]], [[Nelson-Narens Model]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Nelson-Narens-Model|Nelson-Narens Model]]
 
-> > [!topic-idea] [[Metacognitive Scaffolding]]
+> > [!topic-idea] [[Metacognitive-Scaffolding|Metacognitive Scaffolding]]
 > > **Description:** A foundational report on metacognitive scaffolding as an instructional strategy — covering reciprocal teaching (Palincsar & Brown), cognitive apprenticeship, self-explanation training, and the design principles for scaffolding that fades appropriately as metacognitive regulation becomes autonomous. The scaffolding literature connects to Vygotsky's ZPD, to the expertise literature (expert models of regulation), and to instructional design. This report has treated scaffolding as an application; a dedicated report would provide the theoretical and empirical foundation in detail.
 > >
 > > **Connection to This Report:** Phase V's applications section and the Metacognitive Scaffolding lexicon entry flag this as a high-value expansion.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Scaffolding]], [[Zone of Proximal Development]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Scaffolding]], [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
-> > [!topic-idea] [[Monitoring-Regulation Decoupling]]
+> > [!topic-idea] [[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]]
 > > **Description:** A focused analysis on the empirical documentation and theoretical explanation of monitoring-regulation decoupling — the condition in which accurate monitoring fails to produce adaptive control. This would cover Metcalfe & Finn's research on study time allocation despite accurate JOLs, Pressley et al.'s strategy-switching research, and the broader question of what additional factors (beyond monitoring accuracy) are necessary for adaptive regulatory response. This is directly implied by the Calibration-Action Gap construct developed in this report and would provide the empirical grounding for that construct.
 > >
 > > **Connection to This Report:** The Calibration-Action Gap (Phase IV original contribution) is the theoretical framework; this expansion would provide empirical grounding.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Metacognitive Monitoring]], [[Calibration]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Calibration]]
 
-> > [!topic-idea] [[Metacognitive Feelings]]
+> > [!topic-idea] [[Metacognitive-Feelings|Metacognitive Feelings]]
 > > **Description:** A dedicated report on Efklides' taxonomy of metacognitive experiences/feelings — feeling of knowing, feeling of difficulty, feeling of familiarity, feeling of confidence, feeling of satisfaction — as phenomenological monitoring signals with both informational and motivational significance. This would provide comprehensive coverage of the MASRL model's phenomenological dimension, the empirical literature on metacognitive feelings and their relationship to performance, and the implications for understanding the motivational entanglement of metacognitive regulation.
 > >
 > > **Connection to This Report:** Phase II's treatment of metacognitive experiences as the phenomenological interface introduces this construct; Phase III's Efklides section develops it partially.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Metacognitive Experience]], [[Nelson-Narens Model]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Metacognitive-Experience|Metacognitive Experience]], [[Nelson-Narens-Model|Nelson-Narens Model]]
 
-> > [!topic-idea] [[Regulatory Reflexivity Problem]]
+> > [!topic-idea] [[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]]
 > > **Description:** A focused philosophical and empirical analysis of the regulatory reflexivity problem — what regulates the regulator? This would cover the formal regress argument, empirical manifestations in regulatory anxiety and over-monitoring, the proposed solutions (pragmatic termination, phenomenological accessibility criterion), and connections to executive function research on the hierarchical organization of cognitive control. This is an underexplored conceptual frontier in the metacognition literature with significant practical implications for understanding metacognitive dysfunction.
 > >
 > > **Connection to This Report:** Phase IV and the Lexicon entry on the Regulatory Reflexivity Problem introduce this construct; a dedicated report would provide comprehensive philosophical and empirical treatment.
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** First Principles or Focused Analysis
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Regulatory Reflexivity Problem]], [[Executive Function]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Regulatory-Reflexivity-Problem|Regulatory Reflexivity Problem]], [[Executive-Function|Executive Function]]
 
-> > [!topic-idea] [[Metacognitive Strategy]]
+> > [!topic-idea] [[Metacognitive-Strategy|Metacognitive Strategy]]
 > > **Description:** A systematic catalog and analysis of the metacognitive strategies available for each regulatory component — planning strategies (KWLH, advance organizers, goal-setting frameworks), monitoring strategies (comprehension monitoring prompts, retrieval-based self-testing, think-aloud protocols), control strategies (strategy switching protocols, pacing adjustment, help-seeking), and evaluating strategies (post-reading recall tests, counterfactual analysis). This would address the regulatory poverty mechanism directly by providing the strategic repertoire content that effective control presupposes.
 > >
 > > **Connection to This Report:** The regulatory poverty mechanism (Phase IV) identifies strategic repertoire deficiency as a Calibration-Action Gap cause; this expansion provides the content that closes that gap.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Practical Protocols / Focused Analysis
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Declarative, Procedural, and Conditional Metacognitive Knowledge]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]]
 
-> > [!topic-idea] [[Motivated Strategies for Learning Questionnaire]]
+> > [!topic-idea] [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]]
 > > **Description:** A focused analysis on the MSLQ — the Motivated Strategies for Learning Questionnaire (Pintrich et al., 1991) — as a measurement instrument for metacognitive regulation in educational contexts. This would cover the instrument's subscales, their theoretical grounding, the empirical evidence for reliability and validity, the measurement limitations (self-report biases, low behavioral correspondence), and the implications for interpreting metacognitive regulation research that relies on self-report outcomes. Measurement literacy about the MSLQ is essential for critical reading of the SRL literature.
 > >
 > > **Connection to This Report:** Phase V's measurement limitations section identifies self-report limitations as a constraint; this expansion would provide the measurement-level analysis.
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Metacognitive Regulation]], [[Self-Regulated Learning]], [[Pintrich's Integrative SRL Framework]]
+> > **Prerequisites:** [[Metacognitive-Regulation|Metacognitive Regulation]], [[Self-Regulated-Learning|Self-Regulated Learning]], [[Pintrich's-Integrative-SRL-Framework|Pintrich's Integrative SRL Framework]]
 
 ---
 
@@ -1196,39 +1196,39 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > - **[[Metacognition]]** — The parent construct of which metacognitive regulation is the executive/regulatory dimension. This report's entire conceptual architecture presupposes the metacognition framework.
 >
-> - **[[Working Memory]]** — The cognitive architecture within which regulatory processes are implemented. The regulatory overhead mechanism is grounded in working memory capacity constraints, and the Baddeley model's central executive is the closest cognitive-level analog to metacognitive control.
+> - **[[Working-Memory|Working Memory]]** — The cognitive architecture within which regulatory processes are implemented. The regulatory overhead mechanism is grounded in working memory capacity constraints, and the Baddeley model's central executive is the closest cognitive-level analog to metacognitive control.
 >
-> - **[[Cognitive Load Theory]]** — CLT's account of intrinsic, extraneous, and germane load intersects with metacognitive regulation at the regulatory overhead mechanism and at the conditions under which metacognitive scaffolding is most beneficial.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT's account of intrinsic, extraneous, and germane load intersects with metacognitive regulation at the regulatory overhead mechanism and at the conditions under which metacognitive scaffolding is most beneficial.
 >
-> - **[[Schema Theory]]** — Expert schemas free working memory for metacognitive processing; novice schematic poverty contributes to both high cognitive load and regulatory poverty. Schema automation is a prerequisite for the metacognitive capacity that permits sophisticated regulation.
+> - **[[Schema-Theory|Schema Theory]]** — Expert schemas free working memory for metacognitive processing; novice schematic poverty contributes to both high cognitive load and regulatory poverty. Schema automation is a prerequisite for the metacognitive capacity that permits sophisticated regulation.
 >
 > - **[[Self-Efficacy]]** — Shapes the motivational interruption mechanism of the Calibration-Action Gap: low self-efficacy produces difficulty-triggered avoidance rather than engagement, blocking the control response that accurate monitoring should trigger.
 >
 > **Downstream Applications (this report enables):**
 >
-> - **[[Self-Directed Learning]]** — SDL is operationally defined by the internalized metacognitive regulation capacity that this report characterizes. The SDL learner is one whose planning, monitoring, control, and evaluating operate autonomously without external scaffolding.
+> - **[[Self-Directed-Learning|Self-Directed Learning]]** — SDL is operationally defined by the internalized metacognitive regulation capacity that this report characterizes. The SDL learner is one whose planning, monitoring, control, and evaluating operate autonomously without external scaffolding.
 >
-> - **[[Metacognition & Lifelong Learning]]** — The capacity for lifelong learning is substantially constituted by the capacity for metacognitive regulation in novel domains and with novel task types — the generalization challenge that this report addresses through the domain-general/domain-specific tension.
+> - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — The capacity for lifelong learning is substantially constituted by the capacity for metacognitive regulation in novel domains and with novel task types — the generalization challenge that this report addresses through the domain-general/domain-specific tension.
 >
-> - **[[Metacognition & Critical Thinking]]** — Critical thinking requires metacognitive monitoring of reasoning processes (detecting cognitive biases, monitoring logical validity, tracking assumption quality) and metacognitive control (adjusting reasoning strategies in response to detected errors). This is metacognitive regulation applied to the domain of argumentation.
+> - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — Critical thinking requires metacognitive monitoring of reasoning processes (detecting cognitive biases, monitoring logical validity, tracking assumption quality) and metacognitive control (adjusting reasoning strategies in response to detected errors). This is metacognitive regulation applied to the domain of argumentation.
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[Elaborative Interrogation]]** — EI is both a control strategy (a corrective response to monitoring failure) and a monitoring device (the why-question probes depth of understanding). The EI report and this report illuminate each other directly.
+> - **[[Elaborative-Interrogation|Elaborative Interrogation]]** — EI is both a control strategy (a corrective response to monitoring failure) and a monitoring device (the why-question probes depth of understanding). The EI report and this report illuminate each other directly.
 >
-> - **[[Habit Formation]]** — The relationship between habitized regulation (where regulatory routines become automatic) and flexible regulation (responsive to novel demands) is an underexplored frontier that [[Habit Formation]] and this report address from complementary directions.
+> - **[[Habit-Formation|Habit Formation]]** — The relationship between habitized regulation (where regulatory routines become automatic) and flexible regulation (responsive to novel demands) is an underexplored frontier that [[Habit-Formation|Habit Formation]] and this report address from complementary directions.
 >
-> - **[[Growth Mindset]]** — The growth mindset / incremental theory of intelligence shapes motivational interpretation of difficulty signals, directly modulating the motivational interruption mechanism of the Calibration-Action Gap.
+> - **[[Growth-Mindset|Growth Mindset]]** — The growth mindset / incremental theory of intelligence shapes motivational interpretation of difficulty signals, directly modulating the motivational interruption mechanism of the Calibration-Action Gap.
 >
 > **Strengthened Permanent Notes:**
 >
-> - **[[Metacognitive Monitoring]]** — This report provides its most detailed mechanistic account, including cue types, fluency effects, and monitoring instability.
+> - **[[Metacognitive-Monitoring|Metacognitive Monitoring]]** — This report provides its most detailed mechanistic account, including cue types, fluency effects, and monitoring instability.
 >
-> - **[[Nelson-Narens Model]]** — Phase III and Phase IV extend the model's implications more fully than the model-level note.
+> - **[[Nelson-Narens-Model|Nelson-Narens Model]]** — Phase III and Phase IV extend the model's implications more fully than the model-level note.
 >
-> - **[[Zimmerman's Cyclical Model of Self-Regulated Learning]]** — This report's Phase III and Phase VI treatments of how regulation distributes across the SRL cycle enrich the Zimmerman node's regulatory dimension.
+> - **[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's Cyclical Model of Self-Regulated Learning]]** — This report's Phase III and Phase VI treatments of how regulation distributes across the SRL cycle enrich the Zimmerman node's regulatory dimension.
 >
-> - **[[Motivation Science|Motivational Regulation]]** — The MASRL-grounded treatment of motivational interruption enriches the Motivational Regulation node's cognitive-motivational interface.
+> - **[[motivation-science|Motivational Regulation]]** — The MASRL-grounded treatment of motivational interruption enriches the Motivational Regulation node's cognitive-motivational interface.
 >
 > **Key Insight:** The PKB connections map reveals that metacognitive regulation is the operational link between the cognitive architecture cluster (working memory, schema theory, cognitive load) and the self-determination/motivational cluster (self-efficacy, growth mindset, achievement goals). It is, in network terms, a bridge node — and disruptions to it propagate in both directions.
 
@@ -1258,6 +1258,6 @@ For the self-directed learner, the operative implications of this analysis are d
 > - Two wiki-links are flagged as potentially absent from the registry: `[[Vocabulary Building Through Reading]]` ⚠ and `[[Motivational Inner Speech]]` ⚠ — these were not found in the 2026-03-19 registry and have been omitted from the report body to maintain link integrity.
 >
 > **Recommendations for Future Revision:**
-> - Add a developmental sub-section to Phase III covering Flavell's empirical work on metacognitive development in children, with connection to [[Zone of Proximal Development]] and [[Scaffolding]] research.
+> - Add a developmental sub-section to Phase III covering Flavell's empirical work on metacognitive development in children, with connection to [[Zone-of-Proximal-Development|Zone of Proximal Development]] and [[Scaffolding]] research.
 > - Add a neuropsychological section connecting metacognitive regulation to executive function and prefrontal cortex architecture.
 > - Develop the Calibration-Action Gap construct empirically through a dedicated focused analysis report that surveys existing evidence for monitoring-regulation decoupling.

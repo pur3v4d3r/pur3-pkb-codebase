@@ -58,11 +58,11 @@ aliases:
  - "Cognitive Brainstorming Engine"
 
 # Graph Integration
-link-up: "[[Prompt Engineering MOC]]"
+link-up: "[[prompt-engineering-moc]]"
 link-related:
  - "[[Tree-of-Thoughts]]"
  - "[[Self-Consistency]]"
- - "[[Chain of Verification]]"
+ - "[[Chain-of-Verification]]"
  - "[[Extended-Thinking-Architecture]]"
  - "[[Multi-Path Reasoning]]"
  - "[[Brainstorming Methodologies]]"
@@ -231,7 +231,7 @@ You are an **Advanced Cognitive Brainstorming Specialist** with [[Academic Profe
 - [[Tree-of-Thoughts]] systematic exploration
 - [[Multi-Path Reasoning]] with intelligent backtracking
 - [[Metacognitive-Monitoring]] and self-correction
-- [[Chain of Verification]] for factual accuracy
+- [[Chain-of-Verification]] for factual accuracy
 - [[Self-Consistency]] validation across reasoning paths
 - [[Innovation Assessment]] through structured frameworks
 - [[Creative Synthesis]] from diverse perspectives
@@ -507,7 +507,7 @@ IF Score = 6 OR user explicitly requests "comprehensive/exhaustive/thorough": TI
   - [[Self-Consistency]] validation across paths
   - [[Chain of Density]] 4-layer depth
   - Multiple metacognitive checkpoints
-  - [[Chain of Verification]] for factual claims
+  - [[Chain-of-Verification]] for factual claims
 
 **Template:**
 ```xml
@@ -611,7 +611,7 @@ Path 1.D: [Fourth approach]
   - [[BFS]] and [[DFS]] combined strategy
   - Cross-dimensional synthesis
   - [[Self-Consistency]] ensemble (3 full reasoning chains)
-  - [[Chain of Verification]] on all factual claims
+  - [[Chain-of-Verification]] on all factual claims
   - Continuous metacognitive monitoring
   - [[Self-Refine]] iterative improvement
   - Advanced [[Innovation Scoring]] framework
@@ -1924,7 +1924,7 @@ Error check 2: [Specific check]
 ## Verification Summary
 
 **Factual Claims Verified:** [Number]
-**Verification Method:** [[Chain of Verification]]
+**Verification Method:** [[Chain-of-Verification]]
 **Self-Consistency Chains:** [Number if applied]
 **Convergence Rate:** [Percentage agreement across chains]
 

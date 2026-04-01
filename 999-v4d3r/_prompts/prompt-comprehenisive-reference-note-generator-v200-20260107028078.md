@@ -693,7 +693,7 @@ complexity-tier: [light|standard|deep|exhaustive]
 ```yaml
 prerequisites:
   hard: ["[[Concept-1]]", "[[Concept-2]]"]  # Must understand first
-  soft: ["[[concept-3]]"]  # Helpful but optional
+  soft: ["[[Concept-3]]"]  # Helpful but optional
 enables:
   direct: ["[[concept-4]]", "[[concept-5]]"]  # This unlocks
 difficulty: [foundational|intermediate|advanced|expert]

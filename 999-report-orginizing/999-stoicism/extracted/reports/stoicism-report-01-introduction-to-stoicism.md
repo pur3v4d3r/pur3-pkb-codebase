@@ -117,14 +117,14 @@ series-connections:
   previous: null
   next: "[[Core Principles - Virtue Wisdom and Self-Control]]"
   related-reports:
-    - "[[Stoicism in Practice - Daily Exercises and Mindset Shifts]]"
+    - "[[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]"
     - "[[Stoicism and Modern Psychology - Parallels and Insights]]"
 
 broader:
   - "[[Philosophy MOC]]"
   - "[[Virtue-Ethics]]"
   - "[[Ancient Philosophy]]"
-  - "[[Hellenistic Period]]"
+  - "[[Hellenistic-period]]"
 
 narrower:
   - "[[Zeno of Citium]]"
@@ -321,7 +321,7 @@ The four virtues can be understood as follows:
 
 ### The Dichotomy of Control
 
-If virtue is the only true good, then what do we make of health, wealth, reputation, pleasure, and all the things that most people spend their lives pursuing? The Stoics had a precise and philosophically important answer: these things are *indifferent* (*adiaphora*). They are neither good nor bad in themselves; what matters is how we use them or relate to them. A person of virtue who is also wealthy is not better than a person of virtue who is poor, because the wealth adds nothing to the virtue. This may sound austere — even inhuman — but the Stoics had a sophisticated qualifier: while strictly speaking indifferent, external goods and circumstances are *preferred* or *dispreferred* — health is generally to be preferred over illness, friendship over isolation. These are called [[Preferred Indifferents]].
+If virtue is the only true good, then what do we make of health, wealth, reputation, pleasure, and all the things that most people spend their lives pursuing? The Stoics had a precise and philosophically important answer: these things are *indifferent* (*adiaphora*). They are neither good nor bad in themselves; what matters is how we use them or relate to them. A person of virtue who is also wealthy is not better than a person of virtue who is poor, because the wealth adds nothing to the virtue. This may sound austere — even inhuman — but the Stoics had a sophisticated qualifier: while strictly speaking indifferent, external goods and circumstances are *preferred* or *dispreferred* — health is generally to be preferred over illness, friendship over isolation. These are called [[Preferred-Indifferents]].
 
 [Preferred-Indifferents:: External goods — health, wealth, reputation, pleasure, good relationships — that the Stoics classified as neither good nor bad in the strict moral sense, but as naturally preferred or dispreferred. The sage will pursue preferred indifferents when possible, but will not be distressed if they are lost, because she recognizes that her genuine good — her virtue — is entirely secure and cannot be taken away by external events.]
 
@@ -474,7 +474,7 @@ The connection to modern psychology is not merely structural — it is genealogi
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred-Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 The central question that this series is designed to answer is deceptively simple: *How should I live?* Stoicism's answer — *according to reason and virtue, attending carefully to what is and is not in your power* — sounds almost disappointingly plain when stripped of context. What this report has attempted to provide is that context: the historical world that made such an answer feel urgent and radical, the intellectual tradition that gave it philosophical grounding, the remarkable people who lived it in conditions of genuine difficulty, and the concrete practices through which it can be embodied rather than merely understood.

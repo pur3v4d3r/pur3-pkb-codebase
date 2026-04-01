@@ -78,7 +78,7 @@ This comprehensive reference addresses the **RELIABILITY & ACCURACY CRITICAL** p
 4. **Uncertainty Quantification** - Measuring and communicating confidence levels
 
 **Core Techniques Covered:**
-- **[[Chain of Verification]]** (CoV) - Multi-step claim validation framework
+- **[[Chain-of-Verification]]** (CoV) - Multi-step claim validation framework
 - **[[Self-Consistency]]** - Ensemble reasoning validation through agreement
 - **[[Faithful Chain-of-Thought]]** - Evidence-grounded reasoning chains
 - **[[Universal Self-Consistency]]** - Unified answering with consistency guarantees
@@ -193,7 +193,7 @@ This input layer catches many reliability issues before generation, preventing "
 **Technique Application**: Apply reliability-enhancing prompting techniques during generation:
 - **[[Chain-of-Thought]]**: Force explicit reasoning that exposes logical gaps
 - **[[Self-Consistency]]**: Generate multiple reasoning paths for ensemble validation
-- **[[Chain of Verification]]**: Multi-step claim validation during generation
+- **[[Chain-of-Verification]]**: Multi-step claim validation during generation
 - **[[Faithful CoT]]**: Ground reasoning explicitly in source materials
 
 **Parameter Optimization**: Configure generation parameters for reliability:
@@ -252,7 +252,7 @@ This five-layer architecture creates redundant reliability mechanisms. Even if i
 > [!definition] Chain of Verification Framework
 > **[Chain-of-Verification**:: Systematic four-phase verification methodology that transforms potentially unreliable LLM generations into validated outputs by (1) generating baseline response, (2) extracting verifiable factual claims, (3) independently verifying each claim through targeted verification questions, and (4) generating final corrected response incorporating verification results - creating provably more reliable outputs through explicit validation cycles.]**
 
-[[Chain of Verification]] (CoV), introduced by [[Dhuliawala et al. (2023)]] in "Chain-of-Verification Reduces Hallucination in Large Language Models," represents a breakthrough in reliability engineering for LLM systems. The technique addresses the fundamental challenge that LLMs generate fluent, plausible responses that may contain factual errors, by adding explicit verification steps that catch and correct hallucinations.
+[[Chain-of-Verification]] (CoV), introduced by [[Dhuliawala et al. (2023)]] in "Chain-of-Verification Reduces Hallucination in Large Language Models," represents a breakthrough in reliability engineering for LLM systems. The technique addresses the fundamental challenge that LLMs generate fluent, plausible responses that may contain factual errors, by adding explicit verification steps that catch and correct hallucinations.
 
 #### Core Insight: Separation of Generation and Verification
 

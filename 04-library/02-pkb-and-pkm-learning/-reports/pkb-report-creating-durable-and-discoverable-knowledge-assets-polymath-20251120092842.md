@@ -155,7 +155,7 @@ A folder full of atomic notes is still just a list. The "magic" of the system—
 
 **How to Weave Context:**
 
-1. **Explicit Linking:** As you write a new atomic note (e.g., "The IKEA Effect"), you should actively ask: "What does this remind me of? What does this relate to?" You might link it to `[[Sunk Cost Fallacy]]`, `[[Effort Justification]]`, and `[[Labor Theory of Value]]`. You are manually wiring the new concept into your existing brain.
+1. **Explicit Linking:** As you write a new atomic note (e.g., "The IKEA Effect"), you should actively ask: "What does this remind me of? What does this relate to?" You might link it to `[[Sunk-cost-fallacy]]`, `[[Effort Justification]]`, and `[[Labor Theory of Value]]`. You are manually wiring the new concept into your existing brain.
 1. **Contextual Linking (MOCs):** Sometimes, you need a higher level of organization. A **Map of Content (MOC)**—also known as a "structure note" or "index note"—is the solution. An MOC is *a note whose only purpose is to link to other notes* about a specific topic.
     - You might create a note called `[[Productivity MOC]]`.
     - Inside this note, you would curate links to your atomic notes: `[[Eisenhower Matrix]]`, `[[Getting Things Done (GTD)]]`, `[[Parkinson's Law]]`, `[[Time Blocking]]`.
@@ -200,7 +200,7 @@ Let's break down the *purpose* of each metadata field:
 
 > [!helpful-tip] **Folders vs. Tags vs. Links: A Clear Distinction**
 >
-> - **Use Links (Context)** for *conceptual, granular, and associative* connections. This is the primary way to build knowledge. (e.g., `[[The IKEA Effect]]` links to `[[Sunk Cost Fallacy]]`).
+> - **Use Links (Context)** for *conceptual, granular, and associative* connections. This is the primary way to build knowledge. (e.g., `[[The IKEA Effect]]` links to `[[Sunk-cost-fallacy]]`).
 > 
 > - **Use Tags (Metadata)** for *broad, thematic "gatherers"* or *statuses*. (e.g., `#psychology/cognitive-bias` or `#status/in-progress`).
 > 

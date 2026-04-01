@@ -87,7 +87,7 @@ year: 2026
 > [!example] Key Concepts Learned
 > - **[[Concept-1]]**: Brief description and why it matters
 > - **[[Concept-2]]**: Brief description and source
-> - **[[Concept 3]]**: Application or next step
+> - **[[Concept-3]]**: Application or next step
 
 ### Skills Practiced
 

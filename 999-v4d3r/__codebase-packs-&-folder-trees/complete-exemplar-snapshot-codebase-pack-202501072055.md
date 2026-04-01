@@ -1699,7 +1699,7 @@ def decomposition_then_reasoning(complex_problem):
 
 ### Pattern 3: Verification-Enhanced Reasoning
 
-**Strategy**: Use [[Chain of Verification]] after reasoning technique to validate result.
+**Strategy**: Use [[Chain-of-Verification]] after reasoning technique to validate result.
 
 ```python
 def reasoning_with_verification(problem, reasoning_technique):
@@ -2279,7 +2279,7 @@ This comprehensive reference addresses the **RELIABILITY & ACCURACY CRITICAL** p
 4. **Uncertainty Quantification** - Measuring and communicating confidence levels
 
 **Core Techniques Covered:**
-- **[[Chain of Verification]]** (CoV) - Multi-step claim validation framework
+- **[[Chain-of-Verification]]** (CoV) - Multi-step claim validation framework
 - **[[Self-Consistency]]** - Ensemble reasoning validation through agreement
 - **[[Faithful Chain-of-Thought]]** - Evidence-grounded reasoning chains
 - **[[Universal Self-Consistency]]** - Unified answering with consistency guarantees
@@ -2394,7 +2394,7 @@ This input layer catches many reliability issues before generation, preventing "
 **Technique Application**: Apply reliability-enhancing prompting techniques during generation:
 - **[[Chain-of-Thought]]**: Force explicit reasoning that exposes logical gaps
 - **[[Self-Consistency]]**: Generate multiple reasoning paths for ensemble validation
-- **[[Chain of Verification]]**: Multi-step claim validation during generation
+- **[[Chain-of-Verification]]**: Multi-step claim validation during generation
 - **[[Faithful CoT]]**: Ground reasoning explicitly in source materials
 
 **Parameter Optimization**: Configure generation parameters for reliability:
@@ -2453,7 +2453,7 @@ This five-layer architecture creates redundant reliability mechanisms. Even if i
 > [!definition] Chain of Verification Framework
 > **[Chain-of-Verification**:: Systematic four-phase verification methodology that transforms potentially unreliable LLM generations into validated outputs by (1) generating baseline response, (2) extracting verifiable factual claims, (3) independently verifying each claim through targeted verification questions, and (4) generating final corrected response incorporating verification results - creating provably more reliable outputs through explicit validation cycles.]**
 
-[[Chain of Verification]] (CoV), introduced by [[Dhuliawala et al. (2023)]] in "Chain-of-Verification Reduces Hallucination in Large Language Models," represents a breakthrough in reliability engineering for LLM systems. The technique addresses the fundamental challenge that LLMs generate fluent, plausible responses that may contain factual errors, by adding explicit verification steps that catch and correct hallucinations.
+[[Chain-of-Verification]] (CoV), introduced by [[Dhuliawala et al. (2023)]] in "Chain-of-Verification Reduces Hallucination in Large Language Models," represents a breakthrough in reliability engineering for LLM systems. The technique addresses the fundamental challenge that LLMs generate fluent, plausible responses that may contain factual errors, by adding explicit verification steps that catch and correct hallucinations.
 
 #### Core Insight: Separation of Generation and Verification
 
@@ -10752,7 +10752,7 @@ graph TD
 ### By Use Case
 - **Complex Reasoning** → [[Tree-of-Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
 - **Tool Integration** → [[ReAct Framework]], [[ART Tool Use]], [[ReWOO]]
-- **Quality Critical** → [[Chain of Verification]], [[Self-Refine]], [[Self-Consistency]]
+- **Quality Critical** → [[Chain-of-Verification]], [[Self-Refine]], [[Self-Consistency]]
 - **Autonomous Agents** → [[Reflexion]], [[ReAct Framework]], [[ART Tool Use]]
 - **Knowledge Gaps** → [[Generated Knowledge]], [[RAG Integration]], [[Recitation-Augmented]]
 - **Prompt Optimization** → [[APE]], [[OPRO]], [[Active-Prompt]], [[PromptBreeder]]
@@ -10949,7 +10949,7 @@ graph TD
 **Recommended Stack**:
 1. **[[Generated Knowledge]]** - Generate prerequisite concepts
 2. **[[Chain-of-Thought]]** - Break down complex ideas
-3. **[[Chain of Verification]]** - Ensure accuracy
+3. **[[Chain-of-Verification]]** - Ensure accuracy
 4. **[[Self-Refine]]** - Iterative improvement
 
 **Why**: Ensures comprehensive, accurate notes with proper conceptual scaffolding.
@@ -10962,7 +10962,7 @@ graph TD
 1. **[[RAG Integration]]** - Retrieve relevant passages
 2. **[[Tree-of-Thoughts]]** - Explore multiple synthesis angles
 3. **[[Self-Consistency]]** - Validate conclusions across reasoning paths
-4. **[[Chain of Verification]]** - Fact-check claims
+4. **[[Chain-of-Verification]]** - Fact-check claims
 
 **Why**: Handles complexity of multi-source synthesis with reliability.
 
@@ -11041,7 +11041,7 @@ graph TD
 **Start here**:
 1. Read [[01-reasoning-techniques-guide#Self-Consistency]] - Easiest advanced technique
 2. Try [[Generated Knowledge Prompting]] - Simple two-stage pattern
-3. Implement [[Chain of Verification]] - Immediate quality improvement
+3. Implement [[Chain-of-Verification]] - Immediate quality improvement
 
 **Build up to**:
 4. [[ReAct Framework]] - Learn tool integration
@@ -26927,7 +26927,7 @@ results = kb.retrieve(
 
 ---
 
-**Related Techniques**: [[Generated Knowledge]], [[Recitation-Augmented]], [[Chain of Verification]]
+**Related Techniques**: [[Generated Knowledge]], [[Recitation-Augmented]], [[Chain-of-Verification]]
 **Full Guide**: [[05-knowledge-integration-guide#RAG]]
 
 ```
@@ -29839,7 +29839,7 @@ audience: [llm-systems, advanced-practitioners, ai-engineers]
 > [!abstract] Purpose & Scope
 > **[LLM-Operational-Exemplar**:: A comprehensive reference document enabling AI models to autonomously understand, select, and execute advanced reasoning techniques through structured protocols, decision trees, and validation checkpoints - functioning as both educational material and runtime operational guide.]**
 > 
-> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
+> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain-of-Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
 >
 > **Primary Innovation**: Designed specifically for LLM interpretation and autonomous execution - enabling AI systems to reason about reasoning itself.
 
@@ -30552,7 +30552,7 @@ def select_reasoning_technique(task_description, constraints=None):
 
 [**Reliability-Critical-Tasks**:: Tasks where accuracy is paramount and errors have significant consequences, justifying higher computational cost.]**
 
-**Optimal Techniques**: [[Chain of Verification]], [[Self-Consistency]], [[Program of Thoughts]]
+**Optimal Techniques**: [[Chain-of-Verification]], [[Self-Consistency]], [[Program of Thoughts]]
 
 **Example Tasks**:
 - Medical diagnosis support
@@ -33433,7 +33433,7 @@ class ThinkingQualityAssessor:
 
 ### 4. **[[Advanced Reasoning Technique Integration]]**
 
-**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
+**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain-of-Verification]] - providing implementation recipes for combined patterns.
 
 **Depth Potential**: Integration recipes for ToT+Extended Thinking, Self-Consistency with thinking-based validation, CoVe with thinking-based verification planning, multi-technique orchestration, technique selection frameworks.
 
@@ -39106,7 +39106,7 @@ prompting_techniques:
             mitigation: "Add specific quality anchors"
         
         related_concepts:
-          - "[[Few-Shot Prompting]]"
+          - "[[Few-Shot-Prompting]]"
           - "[[Instruction Tuning]]"
           - "[[In-Context Learning]]"
       
