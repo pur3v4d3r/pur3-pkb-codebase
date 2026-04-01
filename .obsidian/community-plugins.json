@@ -1,18 +1,9 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-git",
   "smart-environment",
   "callout-manager",
   "smart-chat",
-  "obsidian-style-settings",
-  "print",
-  "find-unlinked-files",
   "dataview",
-  "obsidian-meta-bind-plugin",
-  "obsidian-tasks-plugin",
-  "quickadd",
-  "templater-obsidian",
-  "obsidian-charts",
-  "cmdr",
-  "languagetool"
+  "languagetool",
+  "quickadd"
 ]
