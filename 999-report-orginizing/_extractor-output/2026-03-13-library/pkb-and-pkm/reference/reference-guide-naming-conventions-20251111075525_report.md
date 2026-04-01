@@ -567,7 +567,7 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > **Related Methodologies & Frameworks**
-> - `[[PARA Method]]` — Tiago Forte's project-oriented organization system
+> - `[[PARA-Method|PARA Method]]` — Tiago Forte's project-oriented organization system
 > - `[[Linking Your Thinking (LYT)]]` — Nick Milo's framework emphasizing MOCs
 > - `[[Johnny Decimal System]]` — A decimal-based hierarchical organization method
 > - `[[BASB (Building a Second Brain)]]` — The broader philosophy behind PARA
@@ -621,7 +621,7 @@ extraction_summary:
 - [[Metadata and Frontmatter Strategies]]
 - [[Obsidian Workflow Optimization]]
 - [[Overview]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Stoicism]]
 - [[Regular Expressions for Filename Parsing]]
@@ -637,7 +637,7 @@ extraction_summary:
 - [[Zettelkasten Method]]
 - [[Dataview]]
 - [[linking your thinking]]
-- [[para method]]
+- [[PARA-Method|para method]]
 - [[zettelkasten method]]
 
 ### All Occurrences
@@ -649,7 +649,7 @@ extraction_summary:
 | 3 | [[Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 54 |
 | 4 | [[zettelkasten method]] | — | — | 🗃️ Zettelkasten Approaches | 104 |
 | 5 | [[Obsidian]] | — | — | 🗃️ Zettelkasten Approaches | 111 |
-| 6 | [[para method]] | — | — | 📦 PARA Method Naming | 137 |
+| 6 | [[PARA-Method|para method]] | — | — | 📦 PARA Method Naming | 137 |
 | 7 | [[linking your thinking]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
 | 8 | [[Maps-of-Content-—-MOCs|MOCs]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
 | 9 | [[Obsidian]] | — | — | 🖥️ Obsidian-Specific Considerations | 255 |
@@ -675,7 +675,7 @@ extraction_summary:
 | 29 | [[Dataview for Vault Management]] | — | — | 🧭 Further Exploration | 754 |
 | 30 | [[Graph View Optimization]] | — | — | 🧭 Further Exploration | 755 |
 | 31 | [[Cross-Platform Sync Considerations]] | — | — | 🧭 Further Exploration | 756 |
-| 32 | [[PARA Method]] | — | — | 🧭 Further Exploration | 760 |
+| 32 | [[PARA-Method|PARA Method]] | — | — | 🧭 Further Exploration | 760 |
 | 33 | [[Linking Your Thinking (LYT)]] | — | — | 🧭 Further Exploration | 761 |
 | 34 | [[Johnny Decimal System]] | — | — | 🧭 Further Exploration | 762 |
 | 35 | [[BASB (Building a Second Brain)]] | — | — | 🧭 Further Exploration | 763 |
@@ -686,7 +686,7 @@ extraction_summary:
 | 40 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 782 |
 | 41 | [[Zettelkasten Method]] | — | — | 🔗 Related Topics for PKB Expansion | 783 |
 | 42 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 784 |
-| 43 | [[PARA Method]] | — | — | 🔗 Related Topics for PKB Expansion | 785 |
+| 43 | [[PARA-Method|PARA Method]] | — | — | 🔗 Related Topics for PKB Expansion | 785 |
 | 44 | [[Linking Your Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 786 |
 | 45 | [[Obsidian Workflow Optimization]] | — | — | 🔗 Related Topics for PKB Expansion | 787 |
 | 46 | [[Metadata and Frontmatter Strategies]] | — | — | 🔗 Related Topics for PKB Expansion | 788 |
@@ -986,7 +986,7 @@ for root, dirs, files in os.walk(vault_path):
 - [[Metadata and Frontmatter Strategies]]
 - [[Obsidian Workflow Optimization]]
 - [[Overview]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Stoicism]]
 - [[Regular Expressions for Filename Parsing]]
@@ -1002,7 +1002,7 @@ for root, dirs, files in os.walk(vault_path):
 - [[Zettelkasten Method]]
 - [[Dataview]]
 - [[linking your thinking]]
-- [[para method]]
+- [[PARA-Method|para method]]
 - [[zettelkasten method]]
 
 ---

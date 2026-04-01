@@ -383,7 +383,7 @@ extraction_summary:
 - [[Neuroimaging studies using fMRI and PET]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[Phronesis]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[reflective abstraction]]
 - [[tip-of-the-tongue]]
 
@@ -394,7 +394,7 @@ extraction_summary:
 | 1 | [[John-Flavell|John Flavell]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 62 |
 | 2 | [[Phronesis]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 64 |
 | 3 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 70 |
-| 4 | [[prefrontal cortex]] | — | — | 4.1 NEURAL SUBSTRATES OF METACOGNITIV... | 122 |
+| 4 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 4.1 NEURAL SUBSTRATES OF METACOGNITIV... | 122 |
 | 5 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 135 |
 | 6 | [[tip-of-the-tongue]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 141 |
 | 7 | [[Neuroimaging studies using fMRI and PET]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 164 |
@@ -460,7 +460,7 @@ I'll conduct comprehensive research on metacognition and its role as an integrat
 - [[Neuroimaging studies using fMRI and PET]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[Phronesis]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[reflective abstraction]]
 - [[tip-of-the-tongue]]
 

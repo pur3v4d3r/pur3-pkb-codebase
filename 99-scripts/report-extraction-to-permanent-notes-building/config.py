@@ -102,6 +102,19 @@ METHODOLOGY_CALLOUTS = ["methodology-and-sources"]
 CITATION_CALLOUTS = ["cite", "citation"]
 
 # ══════════════════════════════════════════════════════════════════════════════
+# ADDITIONAL CALLOUT TYPES (v2.2 — discovered in enhanced report generators)
+# ══════════════════════════════════════════════════════════════════════════════
+# These callout types appear in newer reports but were not previously extracted.
+
+SCHEMA_ACTIVATION_CALLOUTS = ["schema-activation"]
+SECTION_SUMMARY_CALLOUTS = ["section-summary"]
+CLAUDE_INSIGHT_CALLOUTS = ["claude-insight"]
+ACTIVE_READING_CALLOUTS = ["active-reading"]
+FAR_TRANSFER_CALLOUTS = ["far-transfer"]
+DEBATE_CALLOUTS = ["debate"]
+EXAMPLE_CALLOUTS = ["example"]
+
+# ══════════════════════════════════════════════════════════════════════════════
 # DOMAIN MAPPING
 # ══════════════════════════════════════════════════════════════════════════════
 # Maps domain strings found in definition callout titles (and report frontmatter)
@@ -199,26 +212,27 @@ MAX_FILENAME_LENGTH = 80  # Max characters for filename stem (excluding .md)
 # ══════════════════════════════════════════════════════════════════════════════
 # CONTENT LIMITS
 # ══════════════════════════════════════════════════════════════════════════════
-# Caps on supporting content per note to keep notes focused.
+# Raised in v2.2 — capture ALL meaningful content from reports.
+# Previous limits (v2.1) were too restrictive, discarding most content.
 
-MAX_EVIDENCE_PER_NOTE = 3
-MAX_INSIGHTS_PER_NOTE = 2
-MAX_CONNECTIONS_PER_NOTE = 2
-MAX_PRACTICES_PER_NOTE = 2
-MAX_WARNINGS_PER_NOTE = 1
-MAX_REFLECTIONS_PER_NOTE = 2
-MAX_EXPANSION_TOPICS = 4
-MAX_WIKI_LINKS_DISPLAY = 15
-MAX_RELATED_LINKS = 10
-MAX_SEE_ALSO_LINKS = 8
-MAX_REPORT_TAGS = 5
+MAX_EVIDENCE_PER_NOTE = 50
+MAX_INSIGHTS_PER_NOTE = 50
+MAX_CONNECTIONS_PER_NOTE = 50
+MAX_PRACTICES_PER_NOTE = 50
+MAX_WARNINGS_PER_NOTE = 20
+MAX_REFLECTIONS_PER_NOTE = 20
+MAX_EXPANSION_TOPICS = 20
+MAX_WIKI_LINKS_DISPLAY = 30
+MAX_RELATED_LINKS = 20
+MAX_SEE_ALSO_LINKS = 20
+MAX_REPORT_TAGS = 10
 
-# Enhanced content limits (v2.1)
-MAX_FLASHCARDS_PER_NOTE = 5
-MAX_PERSONS_PER_NOTE = 3
-MAX_TENSIONS_PER_NOTE = 2
-MAX_OPEN_QUESTIONS_PER_NOTE = 2
-MAX_PROTOCOLS_PER_NOTE = 2
-MAX_DIAGRAMS_PER_NOTE = 1
-MAX_CITATIONS_PER_NOTE = 5
-MAX_METHODOLOGY_PER_NOTE = 1
+# Enhanced content limits (v2.1 → raised in v2.2)
+MAX_FLASHCARDS_PER_NOTE = 50
+MAX_PERSONS_PER_NOTE = 20
+MAX_TENSIONS_PER_NOTE = 20
+MAX_OPEN_QUESTIONS_PER_NOTE = 20
+MAX_PROTOCOLS_PER_NOTE = 20
+MAX_DIAGRAMS_PER_NOTE = 10
+MAX_CITATIONS_PER_NOTE = 50
+MAX_METHODOLOGY_PER_NOTE = 10

@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,7 +37,6 @@ referenced-by-count: 13
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Aspiration-Index]]"
   - "[[Attainment-Paradox]]"
   - "[[Contingent-Self-Worth]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror]]"
   - "[[Goal-Framing]]"
   - "[[Hedonic-Adaptation]]"
+  - "[[Intrinsic-Goal-Content]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -65,7 +65,6 @@ importance: medium
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Aspiration-Index]]
 - [[Attainment-Paradox]]
 - [[Contingent-Self-Worth]]
@@ -77,4 +76,5 @@ importance: medium
 - [[Hedonic-Adaptation]]
 - [[Intrinsic-Goal-Content]]
 - [[Self-Concordance-Model]]
+- [[The-Organismic-Dialectical-Perspective]]
 - [[The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism]]

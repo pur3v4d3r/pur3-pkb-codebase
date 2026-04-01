@@ -716,7 +716,7 @@ extraction_summary:
 - [[Advanced Dataview Optimization Techniques]]
 - [[Alice]]
 - [[Assignment Math]]
-- [[Author Name]]
+- [[Author-Name|Author Name]]
 - [[Backlink]]
 - [[Bob]]
 - [[Bullet Lists]]
@@ -752,13 +752,13 @@ extraction_summary:
 - [[Person Name]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Project]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[Related-Note|Related Note]]
 - [[SQL]]
 - [[TABLE Query]]
 - [[TASK Query]]
 - [[Templater]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
@@ -766,7 +766,7 @@ extraction_summary:
 - [[flatten]]
 - [[from]]
 - [[link]]
-- [[note]]
+- [[Note]]
 - [[Obsidian]]
 - [[project-pur3v4d3r-20251121013128]]
 
@@ -809,8 +809,8 @@ extraction_summary:
 | 33 | [[Page Name]] | — | — | 2. Inline DQL Queries | 183 |
 | 34 | [[JavaScript]] | — | — | 3. DataviewJS | 200 |
 | 35 | [[flatten]] | — | — | TABLE Query | 274 |
-| 36 | [[note]] | — | — | FROM Command | 380 |
-| 37 | [[note]] | — | — | FROM Command | 381 |
+| 36 | [[Note]] | — | — | FROM Command | 380 |
+| 37 | [[Note]] | — | — | FROM Command | 381 |
 | 38 | [[Food]] | — | — | FROM Command | 389 |
 | 39 | [[Exercise]] | — | — | FROM Command | 389 |
 | 40 | [[Current Sprint]] | — | — | FROM Command | 400 |
@@ -831,9 +831,9 @@ extraction_summary:
 | 55 | [[John Smith]] | — | — | Project Note Schema Example | 1017 |
 | 56 | [[Alice]] | — | — | Project Note Schema Example | 1019 |
 | 57 | [[Bob]] | — | — | Project Note Schema Example | 1020 |
-| 58 | [[Author Name]] | — | — | Book Note Schema Example | 1057 |
+| 58 | [[Author-Name|Author Name]] | — | — | Book Note Schema Example | 1057 |
 | 59 | [[Friend Name]] | — | — | Book Note Schema Example | 1068 |
-| 60 | [[Wiki-Link]] | — | — | Metadata Management Guidelines | 1919 |
+| 60 | [[wiki-link]] | — | — | Metadata Management Guidelines | 1919 |
 | 61 | [[Advanced Dataview Optimization Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 1994 |
 | 62 | [[Metadata Schema Design Patterns for PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 1999 |
 | 63 | [[Knowledge-Management|Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2002 |
@@ -844,7 +844,7 @@ extraction_summary:
 | 68 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 2088 |
 | 69 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 2089 |
 | 70 | [[Metadata Schema Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2090 |
-| 71 | [[Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 2091 |
+| 71 | [[Regular-Expressions|Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 2091 |
 | 72 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 2092 |
 | 73 | [[SQL]] | — | — | 🔗 Related Topics for PKB Expansion | 2093 |
 | 74 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 2094 |
@@ -1102,8 +1102,8 @@ The calendar view automatically groups by month and shows dots on days where mat
 | **Tag** | `FROM #tag` | All pages with tag (and its subtags) |
 | **Folder** | `FROM "folder"` | All pages in folder (and subfolders) |
 | **Single File** | `FROM "path/to/file"` | One specific file |
-| **Incoming Links** | `FROM [[note]]` | All pages which link TO the note |
-| **Outgoing Links** | `FROM outgoing([[note]])` | All pages which link FROM the note |
+| **Incoming Links** | `FROM [[Note]]` | All pages which link TO the note |
+| **Outgoing Links** | `FROM outgoing([[Note]])` | All pages which link FROM the note |
 
 **Source Composition:**
 
@@ -2086,7 +2086,7 @@ Pages can appear multiple times in grouped results when matching multiple groups
 
 **Link Field Requirements:**
 - Always quote links in frontmatter
-- Use [[Wiki-Link]] syntax for Dataview recognition
+- Use [[wiki-link]] syntax for Dataview recognition
 - Consider Obsidian's lack of tracking for quoted frontmatter links
 # ... (4 more lines truncated)
 ```
@@ -2217,7 +2217,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[Advanced Dataview Optimization Techniques]]
 - [[Alice]]
 - [[Assignment Math]]
-- [[Author Name]]
+- [[Author-Name|Author Name]]
 - [[Backlink]]
 - [[Bob]]
 - [[Bullet Lists]]
@@ -2253,13 +2253,13 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[Person Name]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Project]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[Related-Note|Related Note]]
 - [[SQL]]
 - [[TABLE Query]]
 - [[TASK Query]]
 - [[Templater]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]
@@ -2267,7 +2267,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[flatten]]
 - [[from]]
 - [[link]]
-- [[note]]
+- [[Note]]
 - [[Obsidian]]
 - [[project-pur3v4d3r-20251121013128]]
 

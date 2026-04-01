@@ -468,7 +468,7 @@ extraction_summary:
 > [!example] Key Concepts Learned
 > - **[[Concept-1|Concept 1]]**: Brief description and why it matters
 > - **[[Concept-2|Concept 2]]**: Brief description and source
-> - **[[Concept 3]]**: Application or next step
+> - **[[Concept-3|Concept 3]]**: Application or next step
 
 #### 18. [HELPFUL-TIP] Gratitude Practice *(Line 2194)*
 
@@ -676,7 +676,7 @@ extraction_summary:
 - [[@Source1]]
 - [[@Source2]]
 - [[@Source3]]
-- [[AAR (After Action Review)]]
+- [[AAR-After-Action-Review|AAR (After Action Review)]]
 - [[AI-Assisted Research Verification Protocols]]
 - [[AI-Augmented Thinking]]
 - [[Academic Writing]]
@@ -687,8 +687,8 @@ extraction_summary:
 - [[Architecture Pattern]]
 - [[Architecture Patterns]]
 - [[Argument-Mapping|Argument Mapping]]
-- [[Atomic Habits]]
-- [[Author Name]]
+- [[Atomic-Habits|Atomic Habits]]
+- [[Author-Name|Author Name]]
 - [[Author Year - Title]]
 - [[Bullet Journaling]]
 - [[Burnout]]
@@ -698,7 +698,7 @@ extraction_summary:
 - [[Complementary Concept Conversation]]
 - [[Concept-1|Concept 1]]
 - [[Concept-2|Concept 2]]
-- [[Concept 3]]
+- [[Concept-3|Concept 3]]
 - [[Concept A]]
 - [[Concept B]]
 - [[Concept Card 1]]
@@ -714,9 +714,9 @@ extraction_summary:
 - [[Core Concept 1]]
 - [[Core Concept 2]]
 - [[Course Notes]]
-- [[Daily Review Frameworks]]
+- [[Daily-Review-Frameworks|Daily Review Frameworks]]
 - [[Dataview]]
-- [[Dataview Queries for Daily Notes]]
+- [[Dataview-Queries-for-Daily-Notes|Dataview Queries for Daily Notes]]
 - [[Day-Planner|Day Planner]]
 - [[Dependencies]]
 - [[Domain MOC]]
@@ -724,17 +724,17 @@ extraction_summary:
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Existing Concept 1]]
 - [[Existing Topic Note]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Framework X]]
 - [[Framework Z]]
-- [[GTD (Getting Things Done)]]
-- [[GTD Weekly Review]]
-- [[Getting Things Done]]
+- [[GTD|GTD (Getting Things Done)]]
+- [[GTD-Weekly-Review|GTD Weekly Review]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Goals-MOC|Goals MOC]]
-- [[Habit Formation Science]]
+- [[Habit-Formation-Science|Habit Formation Science]]
 - [[Hybrid Human-AI Knowledge Creation Workflows]]
 - [[JavaScript in Obsidian Templates]]
-- [[Key Concepts]]
+- [[Key-Concepts|Key Concepts]]
 - [[LLM Prompt Engineering for PKB]]
 - [[Learning-Log|Learning Log]]
 - [[Learning Theory]]
@@ -778,20 +778,20 @@ extraction_summary:
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) + 1 %>]]
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]]
 - [[Statistical Technique]]
-- [[Stoic Evening Meditation]]
+- [[Stoic-Evening-Meditation|Stoic Evening Meditation]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Tasks]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
 - [[Technology Stack]]
-- [[The Power of Habit]]
+- [[The-Power-of-Habit|The Power of Habit]]
 - [[Theoretical Concept]]
 - [[Theoretical Framework]]
 - [[Theory 1]]
 - [[Theory 2]]
 - [[Theory Name]]
-- [[Time Blocking Methodology]]
-- [[Tiny Habits]]
+- [[Time-Blocking-Methodology|Time Blocking Methodology]]
+- [[Tiny-Habits|Tiny Habits]]
 - [[Topic 1]]
 - [[Topic 2]]
 - [[Topic A]]
@@ -806,11 +806,11 @@ extraction_summary:
 - [[What led to this question]]
 - [[Zotero]]
 - [[Dataview]]
-- [[deep work]]
+- [[deep-work|deep work]]
 - [[Obsidian]]
 - [[productivity]]
 - [[wiki-links]]
-- [[work-life balance]]
+- [[work-life-balance|work-life balance]]
 
 ### All Occurrences
 
@@ -836,8 +836,8 @@ extraction_summary:
 | 18 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | ✅ Day Complete | 990 |
 | 19 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | ✅ Day Complete | 994 |
 | 20 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | ✅ Day Complete | 994 |
-| 21 | [[deep work]] | — | — | ✅ Day Complete | 997 |
-| 22 | [[Flow State]] | — | — | ✅ Day Complete | 997 |
+| 21 | [[deep-work|deep work]] | — | — | ✅ Day Complete | 997 |
+| 22 | [[Flow-State|Flow State]] | — | — | ✅ Day Complete | 997 |
 | 23 | [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] | — | — | ✅ Day Complete | 1010 |
 | 24 | [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Weekly Links | 1170 |
 | 25 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(1, 'day').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1173 |
@@ -845,35 +845,35 @@ extraction_summary:
 | 27 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(3, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1175 |
 | 28 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(4, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1176 |
 | 29 | [[<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(5, 'days').format("YYYY-MM-DD") %>]] | — | — | 🔗 Weekly Links | 1177 |
-| 30 | [[GTD Weekly Review]] | — | — | 🔗 Weekly Links | 1185 |
+| 30 | [[GTD-Weekly-Review|GTD Weekly Review]] | — | — | 🔗 Weekly Links | 1185 |
 | 31 | [[Strategic-Planning|Strategic Planning]] | — | — | 🔗 Weekly Links | 1185 |
-| 32 | [[Getting Things Done]] | — | — | 🔗 Weekly Links | 1194 |
+| 32 | [[Getting-Things-Done|Getting Things Done]] | — | — | 🔗 Weekly Links | 1194 |
 | 33 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | 🔗 Navigation | 1369 |
 | 34 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | 🔗 Navigation | 1370 |
 | 35 | [[Burnout]] | — | — | 🔗 Navigation | 1378 |
-| 36 | [[work-life balance]] | — | — | 🔗 Navigation | 1378 |
-| 37 | [[Time Blocking Methodology]] | — | — | 🔗 Related Topics for PKB Expansion | 1401 |
-| 38 | [[deep work]] | — | — | 🔗 Related Topics for PKB Expansion | 1403 |
-| 39 | [[Habit Formation Science]] | — | — | 🔗 Related Topics for PKB Expansion | 1406 |
-| 40 | [[Atomic Habits]] | — | — | 🔗 Related Topics for PKB Expansion | 1408 |
-| 41 | [[The Power of Habit]] | — | — | 🔗 Related Topics for PKB Expansion | 1408 |
-| 42 | [[Tiny Habits]] | — | — | 🔗 Related Topics for PKB Expansion | 1408 |
-| 43 | [[Daily Review Frameworks]] | — | — | 🔗 Related Topics for PKB Expansion | 1411 |
-| 44 | [[Stoic Evening Meditation]] | — | — | 🔗 Related Topics for PKB Expansion | 1412 |
-| 45 | [[AAR (After Action Review)]] | — | — | 🔗 Related Topics for PKB Expansion | 1412 |
-| 46 | [[Dataview Queries for Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 1416 |
+| 36 | [[work-life-balance|work-life balance]] | — | — | 🔗 Navigation | 1378 |
+| 37 | [[Time-Blocking-Methodology|Time Blocking Methodology]] | — | — | 🔗 Related Topics for PKB Expansion | 1401 |
+| 38 | [[deep-work|deep work]] | — | — | 🔗 Related Topics for PKB Expansion | 1403 |
+| 39 | [[Habit-Formation-Science|Habit Formation Science]] | — | — | 🔗 Related Topics for PKB Expansion | 1406 |
+| 40 | [[Atomic-Habits|Atomic Habits]] | — | — | 🔗 Related Topics for PKB Expansion | 1408 |
+| 41 | [[The-Power-of-Habit|The Power of Habit]] | — | — | 🔗 Related Topics for PKB Expansion | 1408 |
+| 42 | [[Tiny-Habits|Tiny Habits]] | — | — | 🔗 Related Topics for PKB Expansion | 1408 |
+| 43 | [[Daily-Review-Frameworks|Daily Review Frameworks]] | — | — | 🔗 Related Topics for PKB Expansion | 1411 |
+| 44 | [[Stoic-Evening-Meditation|Stoic Evening Meditation]] | — | — | 🔗 Related Topics for PKB Expansion | 1412 |
+| 45 | [[AAR-After-Action-Review|AAR (After Action Review)]] | — | — | 🔗 Related Topics for PKB Expansion | 1412 |
+| 46 | [[Dataview-Queries-for-Daily-Notes|Dataview Queries for Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 1416 |
 | 47 | [[QuickAdd]] | — | — | Intelligent Tag Generator with Semant... | 1490 |
 | 48 | [[Dataview]] | — | — | Intelligent Tag Generator with Semant... | 1491 |
 | 49 | [[Tasks]] | — | — | Validated Multi-Field User Input Coll... | 1584 |
-| 50 | [[Author Name]] | — | — | Adaptive Content Scaffold Builder | 1681 |
-| 51 | [[Key Concepts]] | — | — | Adaptive Content Scaffold Builder | 1681 |
+| 50 | [[Author-Name|Author Name]] | — | — | Adaptive Content Scaffold Builder | 1681 |
+| 51 | [[Key-Concepts|Key Concepts]] | — | — | Adaptive Content Scaffold Builder | 1681 |
 | 52 | [[Theoretical Framework]] | — | — | Adaptive Content Scaffold Builder | 1681 |
 | 53 | [[Architecture Patterns]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 54 | [[Technology Stack]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 55 | [[Dependencies]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 56 | [[Concept-1|Concept 1]] | — | — | Adaptive Content Scaffold Builder | 1685 |
 | 57 | [[Concept-2|Concept 2]] | — | — | Adaptive Content Scaffold Builder | 1685 |
-| 58 | [[Concept 3]] | — | — | Adaptive Content Scaffold Builder | 1685 |
+| 58 | [[Concept-3|Concept 3]] | — | — | Adaptive Content Scaffold Builder | 1685 |
 | 59 | [[QuickAdd]] | — | — | Adaptive Content Scaffold Builder | 1698 |
 | 60 | [[Day-Planner|Day Planner]] | — | — | Adaptive Content Scaffold Builder | 1700 |
 | 61 | [[Tasks]] | — | — | Adaptive Content Scaffold Builder | 1700 |
@@ -898,14 +898,14 @@ extraction_summary:
 | 80 | [[Dataview]] | — | — | 🔗 Related Sprints | 2061 |
 | 81 | [[Concept-1|Concept 1]] | — | — | New Knowledge Acquired | 2172 |
 | 82 | [[Concept-2|Concept 2]] | — | — | New Knowledge Acquired | 2173 |
-| 83 | [[Concept 3]] | — | — | New Knowledge Acquired | 2174 |
+| 83 | [[Concept-3|Concept 3]] | — | — | New Knowledge Acquired | 2174 |
 | 84 | [[Source 1]] | — | — | Content Consumed | 2184 |
 | 85 | [[Source 2]] | — | — | Content Consumed | 2185 |
 | 86 | [[Week <% tp.frontmatter.week_number - 1 %> Review - <% tp.frontmatter.year %>]] | — | — | 🔗 Connected Reviews | 2269 |
 | 87 | [[Week <% tp.frontmatter.week_number + 1 %> Review - <% tp.frontmatter.year %>]] | — | — | 🔗 Connected Reviews | 2270 |
 | 88 | [[<% moment(tp.date.now("YYYY-MM-DD")).format("YYYY-MM") %> Monthly Review]] | — | — | 🔗 Connected Reviews | 2271 |
 | 89 | [[<% tp.frontmatter.year %> Year in Review]] | — | — | 🔗 Connected Reviews | 2272 |
-| 90 | [[GTD (Getting Things Done)]] | — | — | 🔗 Connected Reviews | 2278 |
+| 90 | [[GTD|GTD (Getting Things Done)]] | — | — | 🔗 Connected Reviews | 2278 |
 | 91 | [[Bullet Journaling]] | — | — | 🔗 Connected Reviews | 2278 |
 | 92 | [[Positive Psychology]] | — | — | 🔗 Connected Reviews | 2278 |
 | 93 | [[Day-Planner|Day Planner]] | — | — | 🔗 Connected Reviews | 2291 |
@@ -953,7 +953,7 @@ extraction_summary:
 | 135 | [[Framework X]] | — | — | 💡 Personal Synthesis & Insights | 3300 |
 | 136 | [[Concept-1|Concept 1]] | — | — | Content Processing | 3322 |
 | 137 | [[Concept-2|Concept 2]] | — | — | Content Processing | 3322 |
-| 138 | [[Concept 3]] | — | — | Content Processing | 3322 |
+| 138 | [[Concept-3|Concept 3]] | — | — | Content Processing | 3322 |
 | 139 | [[MOC Name]] | — | — | PKB Integration | 3329 |
 | 140 | [[Research Topic 1]] | — | — | Knowledge Gaps Identified | 3336 |
 | 141 | [[Concept to investigate]] | — | — | Knowledge Gaps Identified | 3337 |
@@ -983,7 +983,7 @@ extraction_summary:
 | 165 | [[Related Implementation]] | — | — | 🔗 Technical Context & References | 3909 |
 | 166 | [[Concept-1|Concept 1]] | — | — | Core Concepts Grasped | 4061 |
 | 167 | [[Concept-2|Concept 2]] | — | — | Core Concepts Grasped | 4067 |
-| 168 | [[Concept 3]] | — | — | Core Concepts Grasped | 4073 |
+| 168 | [[Concept-3|Concept 3]] | — | — | Core Concepts Grasped | 4073 |
 | 169 | [[Concept-Name|Concept Name]] | — | — | Analogies & Mental Models | 4085 |
 | 170 | [[Topic A]] | — | — | Placement in Knowledge Structure | 4140 |
 | 171 | [[Topic B]] | — | — | Placement in Knowledge Structure | 4141 |
@@ -1206,7 +1206,7 @@ for (let i = 1; i <= taskCount; i++) {
 ### Code Block 7 — `plaintext` *(Lines 995-1017)*
 
 ```plaintext
-**Template Purpose:** Minimalist daily note for deep work days when extensive tracking would be counterproductive. Emphasizes singular focus, minimal sections, and distraction reduction for [[deep work]] and [[Flow State]] optimization.
+**Template Purpose:** Minimalist daily note for deep work days when extensive tracking would be counterproductive. Emphasizes singular focus, minimal sections, and distraction reduction for [[deep-work|deep work]] and [[Flow-State|Flow State]] optimization.
 
 **Key Features:**
 - Single mission statement for day-level focus
@@ -1243,7 +1243,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 9 — `plaintext` *(Lines 1183-1208)*
 
 ```plaintext
-**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning|Strategic Planning]] at the weekly cadence.
+**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD-Weekly-Review|GTD Weekly Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning|Strategic Planning]] at the weekly cadence.
 
 **Key Features:**
 - Automatic weekly review triggers and checklists
@@ -1252,7 +1252,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 - Future week planning with daily intention setting
 - Links to all daily notes from the past and upcoming week
 - Balance between reflection and forward-looking action planning
-- Weekly review checklist based on [[Getting Things Done]] methodology
+- Weekly review checklist based on [[Getting-Things-Done|Getting Things Done]] methodology
 
 **Customization Points:**
 - Adjust review checklist items to match your GTD system
@@ -1270,7 +1270,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 10 — `plaintext` *(Lines 1376-1432)*
 
 ```plaintext
-**Template Purpose:** Weekend-specific daily note emphasizing rest, recharge, and non-work priorities while maintaining daily note continuity. Designed to prevent [[Burnout]], support [[work-life balance]], and intentionally structure recovery time for sustainable productivity.
+**Template Purpose:** Weekend-specific daily note emphasizing rest, recharge, and non-work priorities while maintaining daily note continuity. Designed to prevent [[Burnout]], support [[work-life-balance|work-life balance]], and intentionally structure recovery time for sustainable productivity.
 
 **Key Features:**
 - Rest vs. activity balance assessment and planning
@@ -1293,12 +1293,12 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Time Blocking Methodology]]**
+1. **[[Time-Blocking-Methodology|Time Blocking Methodology]]**
    - *Connection*: Deep dive into energy management, calendar blocking techniques, and attention architecture beyond basic daily scheduling
-   - *Depth Potential*: Explore Cal Newport's [[deep work]] principles, circadian rhythm optimization, protection strategies against context switching, and ideal-week design
+   - *Depth Potential*: Explore Cal Newport's [[deep-work|deep work]] principles, circadian rhythm optimization, protection strategies against context switching, and ideal-week design
    - *Knowledge Graph Role*: Productivity methodology hub connecting cognitive science, workflow design, and personal effectiveness principles
 
-2. **[[Habit Formation Science]]**
+2. **[[Habit-Formation-Science|Habit Formation Science]]**
    - *Connection*: Neurological and behavioral foundations of habit development, including cue-routine-reward loops, habit stacking, and identity-based change
 # ... (23 more lines truncated)
 ```
@@ -1429,7 +1429,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 17 — `plaintext` *(Lines 2276-2298)*
 
 ```plaintext
-**Template Purpose:** Comprehensive weekly reflection combining [[GTD (Getting Things Done)]] principles, [[Bullet Journaling]] techniques, and [[Positive Psychology]] practices. Designed for holistic life review covering professional productivity, personal growth, and well-being.
+**Template Purpose:** Comprehensive weekly reflection combining [[GTD|GTD (Getting Things Done)]] principles, [[Bullet Journaling]] techniques, and [[Positive Psychology]] practices. Designed for holistic life review covering professional productivity, personal growth, and well-being.
 
 **Key Features:**
 - Automatic week number calculation and date range generation
@@ -2097,7 +2097,7 @@ graph LR
 - [[@Source1]]
 - [[@Source2]]
 - [[@Source3]]
-- [[AAR (After Action Review)]]
+- [[AAR-After-Action-Review|AAR (After Action Review)]]
 - [[AI-Assisted Research Verification Protocols]]
 - [[AI-Augmented Thinking]]
 - [[Academic Writing]]
@@ -2108,8 +2108,8 @@ graph LR
 - [[Architecture Pattern]]
 - [[Architecture Patterns]]
 - [[Argument-Mapping|Argument Mapping]]
-- [[Atomic Habits]]
-- [[Author Name]]
+- [[Atomic-Habits|Atomic Habits]]
+- [[Author-Name|Author Name]]
 - [[Author Year - Title]]
 - [[Bullet Journaling]]
 - [[Burnout]]
@@ -2119,7 +2119,7 @@ graph LR
 - [[Complementary Concept Conversation]]
 - [[Concept-1|Concept 1]]
 - [[Concept-2|Concept 2]]
-- [[Concept 3]]
+- [[Concept-3|Concept 3]]
 - [[Concept A]]
 - [[Concept B]]
 - [[Concept Card 1]]
@@ -2135,9 +2135,9 @@ graph LR
 - [[Core Concept 1]]
 - [[Core Concept 2]]
 - [[Course Notes]]
-- [[Daily Review Frameworks]]
+- [[Daily-Review-Frameworks|Daily Review Frameworks]]
 - [[Dataview]]
-- [[Dataview Queries for Daily Notes]]
+- [[Dataview-Queries-for-Daily-Notes|Dataview Queries for Daily Notes]]
 - [[Day-Planner|Day Planner]]
 - [[Dependencies]]
 - [[Domain MOC]]
@@ -2145,17 +2145,17 @@ graph LR
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Existing Concept 1]]
 - [[Existing Topic Note]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Framework X]]
 - [[Framework Z]]
-- [[GTD (Getting Things Done)]]
-- [[GTD Weekly Review]]
-- [[Getting Things Done]]
+- [[GTD|GTD (Getting Things Done)]]
+- [[GTD-Weekly-Review|GTD Weekly Review]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Goals-MOC|Goals MOC]]
-- [[Habit Formation Science]]
+- [[Habit-Formation-Science|Habit Formation Science]]
 - [[Hybrid Human-AI Knowledge Creation Workflows]]
 - [[JavaScript in Obsidian Templates]]
-- [[Key Concepts]]
+- [[Key-Concepts|Key Concepts]]
 - [[LLM Prompt Engineering for PKB]]
 - [[Learning-Log|Learning Log]]
 - [[Learning Theory]]
@@ -2199,20 +2199,20 @@ graph LR
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) + 1 %>]]
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]]
 - [[Statistical Technique]]
-- [[Stoic Evening Meditation]]
+- [[Stoic-Evening-Meditation|Stoic Evening Meditation]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Tasks]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
 - [[Technology Stack]]
-- [[The Power of Habit]]
+- [[The-Power-of-Habit|The Power of Habit]]
 - [[Theoretical Concept]]
 - [[Theoretical Framework]]
 - [[Theory 1]]
 - [[Theory 2]]
 - [[Theory Name]]
-- [[Time Blocking Methodology]]
-- [[Tiny Habits]]
+- [[Time-Blocking-Methodology|Time Blocking Methodology]]
+- [[Tiny-Habits|Tiny Habits]]
 - [[Topic 1]]
 - [[Topic 2]]
 - [[Topic A]]
@@ -2227,11 +2227,11 @@ graph LR
 - [[What led to this question]]
 - [[Zotero]]
 - [[Dataview]]
-- [[deep work]]
+- [[deep-work|deep work]]
 - [[Obsidian]]
 - [[productivity]]
 - [[wiki-links]]
-- [[work-life balance]]
+- [[work-life-balance|work-life balance]]
 
 ---
 

@@ -555,7 +555,7 @@ extraction_summary:
 - [[Reference $1]]
 - [[Reference $1 $2]]
 - [[Text Processing Pipeline Architecture]]
-- [[note]]
+- [[Note]]
 - [[url\]]
 
 ### All Occurrences
@@ -565,7 +565,7 @@ extraction_summary:
 | 1 | [[Formatting Options for Text Format Plugin]] | — | — | Document Start | 41 |
 | 2 | [[Benature]] | — | — | Formatting Options for Text Format Pl... | 246 |
 | 3 | [[url\]] | text | — | Available Commands | 321 |
-| 4 | [[note]] | — | — | Available Commands | 322 |
+| 4 | [[Note]] | — | — | Available Commands | 322 |
 | 5 | [[Reference $1]] | — | — | Comprehensive Custom Replacement Library | 769 |
 | 6 | [[Reference $1 $2]] | — | — | Comprehensive Custom Replacement Library | 773 |
 | 7 | [[Obsidian]] | — | — | 🎯 Integration & Workflows | 866 |
@@ -1164,7 +1164,7 @@ Replace: [$1]
 | Command | Transformation | Notes |
 | --- | --- | --- |
 | **Markdown Links to Wikilinks** | `[text](url)` → `[[url\ | text]]` | Converts standard markdown links |
-| **Wikilinks to Markdown** | `[[note]]` → `[note](note.md)` | URL encodes spaces |
+| **Wikilinks to Markdown** | `[[Note]]` → `[note](note.md)` | URL encodes spaces |
 | **Detect and Convert Links** | Auto-detect and convert bullet lists with links | Batch processing |
 
 ### Table 2 *(Line 249, 4 rows)*
@@ -1293,7 +1293,7 @@ $$
 - [[Reference $1]]
 - [[Reference $1 $2]]
 - [[Text Processing Pipeline Architecture]]
-- [[note]]
+- [[Note]]
 - [[url\]]
 
 ---

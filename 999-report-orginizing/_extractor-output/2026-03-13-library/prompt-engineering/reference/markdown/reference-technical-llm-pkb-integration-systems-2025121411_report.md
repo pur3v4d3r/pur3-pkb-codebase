@@ -498,7 +498,7 @@ extraction_summary:
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise Development]] — schema automation
+> - [[Expertise-Development|Expertise Development]] — schema automation
 > - [[Multimedia-Learning|Multimedia Learning]] — CLT application
 
 #### 16. [TENSION] Descriptive Tension Name *(Line 1512)*
@@ -671,15 +671,15 @@ extraction_summary:
 - [[Element-Interactivity|Element Interactivity]]
 - [[Epistemology for Knowledge Workers]]
 - [[Evidence-Based Practice]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Falsification]]
 - [[Filter Model]]
-- [[First Principles]]
+- [[First-Principles-What-Is-Knowledge|First Principles]]
 - [[First Principles Thinking]]
 - [[History of Cognitive Psychology]]
 - [[Illusion of Competence]]
 - [[Inert-Knowledge|Inert Knowledge]]
-- [[Information Processing]]
+- [[information-processing|Information Processing]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Instructional Design Principles]]
@@ -749,7 +749,7 @@ extraction_summary:
 | 2 | [[Cognitive-Science|Cognitive Science]] | — | — | 2. Bidirectional Link Hints — Relatio... | 389 |
 | 3 | [[Learning Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 389 |
 | 4 | [[Cognitive-Load-Theory|CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 395 |
-| 5 | [[Information Processing]] | — | — | 2. Bidirectional Link Hints — Relatio... | 395 |
+| 5 | [[information-processing|Information Processing]] | — | — | 2. Bidirectional Link Hints — Relatio... | 395 |
 | 6 | [[Intrinsic-Load|Intrinsic Load]] | — | — | 2. Bidirectional Link Hints — Relatio... | 396 |
 | 7 | [[Element-Interactivity|Element Interactivity]] | — | — | 2. Bidirectional Link Hints — Relatio... | 396 |
 | 8 | [[Working-Memory|Working Memory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 397 |
@@ -813,7 +813,7 @@ extraction_summary:
 | 66 | [[Research Methods in Cogsci]] | — | — | Inline Callout Alternative | 1246 |
 | 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Inline Callout Alternative | 1250 |
 | 68 | [[Instructional Design Principles]] | — | — | Inline Callout Alternative | 1251 |
-| 69 | [[Expertise Development]] | — | — | Inline Callout Alternative | 1254 |
+| 69 | [[Expertise-Development|Expertise Development]] | — | — | Inline Callout Alternative | 1254 |
 | 70 | [[Multimedia-Learning|Multimedia Learning]] | — | — | Inline Callout Alternative | 1255 |
 | 71 | [[Working-Memory]] | — | — | Learning Path Queries | 1315 |
 | 72 | [[Claim A]] | — | — | Inline Tension Markers | 1534 |
@@ -837,7 +837,7 @@ extraction_summary:
 | 90 | [[Mental-Model|Mental Model]] | — | — | Inline Model Anchors | 2084 |
 | 91 | [[Concept]] | — | — | Inline Model Anchors | 2086 |
 | 92 | [[Target Domain]] | — | — | Inline Model Anchors | 2086 |
-| 93 | [[First Principles]] | — | — | Core Mental Model Reference | 2095 |
+| 93 | [[First-Principles-What-Is-Knowledge|First Principles]] | — | — | Core Mental Model Reference | 2095 |
 | 94 | [[Inversion]] | — | — | Core Mental Model Reference | 2096 |
 | 95 | [[Second-Order Effects]] | — | — | Core Mental Model Reference | 2097 |
 | 96 | [[Systems Thinking]] | — | — | Core Mental Model Reference | 2098 |
@@ -2681,7 +2681,7 @@ Explicitly connect concepts to foundational mental models.
 
 | Model | Core Insight | Application Trigger |
 |-------|--------------|---------------------|
-| [[First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
+| [[First-Principles-What-Is-Knowledge|First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
 | [[Inversion]] | Solve by negation | "What would make this fail?" |
 | [[Second-Order Effects]] | Consequences of consequences | "And then what?" |
 | [[Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
@@ -2864,7 +2864,7 @@ for (let letter of sortedLetters) {
 
 | Type | Symbol | Use Case | Example |
 | --- | --- | --- | --- |
-| `extends` | →(extends)→ | Theoretical elaboration | [[Cognitive-Load-Theory|CLT]] →(extends)→ [[Information Processing]] |
+| `extends` | →(extends)→ | Theoretical elaboration | [[Cognitive-Load-Theory|CLT]] →(extends)→ [[information-processing|Information Processing]] |
 | `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load|Intrinsic Load]] →(operationalizes)→ [[Element-Interactivity|Element Interactivity]] |
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working-Memory|Working Memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[automation]] |
@@ -3021,15 +3021,15 @@ for (let letter of sortedLetters) {
 - [[Element-Interactivity|Element Interactivity]]
 - [[Epistemology for Knowledge Workers]]
 - [[Evidence-Based Practice]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Falsification]]
 - [[Filter Model]]
-- [[First Principles]]
+- [[First-Principles-What-Is-Knowledge|First Principles]]
 - [[First Principles Thinking]]
 - [[History of Cognitive Psychology]]
 - [[Illusion of Competence]]
 - [[Inert-Knowledge|Inert Knowledge]]
-- [[Information Processing]]
+- [[information-processing|Information Processing]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Instructional Design Principles]]

@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Achievement-Goal-Theory"
+title: "achievement-goal-theory"
 aliases:
-  - "Achievement-Goal-Theory"
+  - "achievement-goal-theory"
   - "Achievement Goal Theory"
 type: permanent-note
 status: seedling
@@ -24,66 +24,53 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 79
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
-  - "[[22-Framework]]"
-  - "[[2×2-Framework]]"
-  - "[[Achievement-Goal]]"
-  - "[[Adaptive-Inference]]"
-  - "[[Andragogy]]"
-  - "[[Attribution-Theory]]"
-  - "[[Calibration-Engine]]"
-  - "[[Central-Executive]]"
-  - "[[Chunking]]"
+  - "[[Belonging-Uncertainty]]"
+  - "[[Challenge-Avoidance]]"
+  - "[[Helpless-Response-Pattern]]"
+  - "[[Implicit-Theory-of-Intelligence]]"
+  - "[[Mastery-Goal-Orientation]]"
+  - "[[Mastery-Oriented-Response-Pattern]]"
+  - "[[Performance-Goal-Orientation]]"
+  - "[[Productive-Struggle]]"
+  - "[[Stereotype-Threat]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: low
 ---
 
-# Achievement-Goal-Theory
+# achievement-goal-theory
 
-> [!definition] **Achievement-Goal-Theory**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **achievement-goal-theory**
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
-- [[22-Framework]]
-- [[2×2-Framework]]
-- [[Achievement-Goal]]
-- [[Adaptive-Inference]]
-- [[Andragogy]]
-- [[Attribution-Theory]]
-- [[Calibration-Engine]]
-- [[Central-Executive]]
-- [[Chunking]]
-- [[Context-Regulation]]
-- [[Cyclical-Model-of-Self-Regulated-Learning]]
-- [[Declarative-Memory]]
-- [[Degenerate-Cycle]]
-- [[Differentiated-Conception-of-Ability]]
-- [[Dissolved-Assumption]]
-- [[Double-Loop-Learning]]
-- [[Ego-Involvement]]
-- [[Encoding-Specificity-Principle]]
-- [[Entity-Theory-of-Intelligence]]
-- *...and 59 more permanent notes*
+- [[Belonging-Uncertainty]]
+- [[Challenge-Avoidance]]
+- [[Helpless-Response-Pattern]]
+- [[Implicit-Theory-of-Intelligence]]
+- [[Mastery-Goal-Orientation]]
+- [[Mastery-Oriented-Response-Pattern]]
+- [[Performance-Goal-Orientation]]
+- [[Productive-Struggle]]
+- [[Stereotype-Threat]]

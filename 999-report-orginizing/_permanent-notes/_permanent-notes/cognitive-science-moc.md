@@ -5,6 +5,7 @@
 title: "cognitive-science-moc"
 aliases:
   - "cognitive-science-moc"
+  - "Cognitive Science MOC"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,23 +24,24 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 4
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Identified-Techniques]]"
   - "[[Maturity-Level-Definitions-&-Criteria]]"
   - "[[Standard-Template-Metadata]]"
+  - "[[_permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -52,12 +54,13 @@ importance: low
 # cognitive-science-moc
 
 > [!definition] **cognitive-science-moc**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 4 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 4 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Identified-Techniques]]
 - [[Maturity-Level-Definitions-&-Criteria]]
 - [[Standard-Template-Metadata]]
+- [[_permanent-notes-index|_permanent-notes-index]]

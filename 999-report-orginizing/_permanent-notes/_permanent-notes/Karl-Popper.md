@@ -23,53 +23,66 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 21
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Analogical-Reasoning]]"
   - "[[Bayesian-Inference]]"
+  - "[[Calibration]]"
   - "[[Causal-Induction]]"
+  - "[[Confirmation-Bias]]"
+  - "[[Corroboration]]"
+  - "[[Defeasibility]]"
+  - "[[Defeat-Defeater]]"
   - "[[Enumerative-Induction]]"
-  - "[[Falsificationism]]"
-  - "[[Inductive-Reasoning]]"
-  - "[[The-Problem-of-Induction]]"
-  - "[[Theory-Evidence-Coordination]]"
+  - "[[Epistemic-Calibration]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: high
 ---
 
 # Karl-Popper
 
 > [!definition] **Karl-Popper**
-> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 21 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 21 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Analogical-Reasoning]]
 - [[Bayesian-Inference]]
+- [[Calibration]]
 - [[Causal-Induction]]
+- [[Confirmation-Bias]]
+- [[Corroboration]]
+- [[Defeasibility]]
+- [[Defeat-Defeater]]
 - [[Enumerative-Induction]]
+- [[Epistemic-Calibration]]
+- [[Epistemic-Holism]]
+- [[Epistemic-Humility]]
+- [[Fallibilism]]
 - [[Falsificationism]]
 - [[Inductive-Reasoning]]
+- [[Infallibilism]]
+- [[Intellectual-Humility]]
+- [[Open-Society]]
+- [[Progressive-Approximation]]
 - [[The-Problem-of-Induction]]
-- [[Theory-Evidence-Coordination]]
+- *...and 1 more permanent notes*

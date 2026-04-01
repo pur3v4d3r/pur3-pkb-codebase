@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,9 @@ referenced-by-count: 10
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Knowledge-Telling]]"
   - "[[Knowledge-Transforming]]"
+  - "[[Maturity-Level-Definitions-&-Criteria]]"
   - "[[Self-Explanation-Effect]]"
   - "[[Testing-Effect-Retrieval-Practice-Effect]]"
   - "[[The-Fluency-Illusion]]"
@@ -65,9 +65,9 @@ importance: medium
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Knowledge-Telling]]
 - [[Knowledge-Transforming]]
+- [[Maturity-Level-Definitions-&-Criteria]]
 - [[Self-Explanation-Effect]]
 - [[Testing-Effect-Retrieval-Practice-Effect]]
 - [[The-Fluency-Illusion]]

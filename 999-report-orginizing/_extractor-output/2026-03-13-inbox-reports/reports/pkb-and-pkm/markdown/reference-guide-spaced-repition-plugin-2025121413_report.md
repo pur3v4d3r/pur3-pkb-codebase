@@ -508,7 +508,7 @@ extraction_summary:
 - [[Obsidian Publish]]
 - [[Obsidian Spaced Repetition Recall]]
 - [[Obsidian Tags]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Spaced Repetition Theory]]
@@ -528,7 +528,7 @@ extraction_summary:
 | 2 | [[Obsidian]] | — | — | 📖 Introduction to Spaced Repetition i... | 388 |
 | 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📖 Introduction to Spaced Repetition i... | 388 |
 | 4 | [[Zettelkasten]] | — | — | 📖 Introduction to Spaced Repetition i... | 390 |
-| 5 | [[PARA Method]] | — | — | 📖 Introduction to Spaced Repetition i... | 390 |
+| 5 | [[PARA-Method|PARA Method]] | — | — | 📖 Introduction to Spaced Repetition i... | 390 |
 | 6 | [[Cloze Deletion]] | cloze deletions | — | Key Capabilities | 399 |
 | 7 | [[Obsidian Tags]] | hierarchical tags | — | Key Capabilities | 400 |
 | 8 | [[Markdown]] | — | — | Key Capabilities | 401 |
@@ -544,7 +544,7 @@ extraction_summary:
 | 18 | [[Anki]] | — | — | Migrating from Anki | 967 |
 | 19 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | PKM System Integration | 1121 |
 | 20 | [[Zettelkasten]] | — | — | PKM System Integration | 1123 |
-| 21 | [[PARA Method]] | — | — | PKM System Integration | 1128 |
+| 21 | [[PARA-Method|PARA Method]] | — | — | PKM System Integration | 1128 |
 | 22 | [[Linking Your Thinking (LYT)]] | — | — | PKM System Integration | 1135 |
 | 23 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | MOCs | — | PKM System Integration | 1136 |
 | 24 | [[Dataview]] | — | — | Plugin Synergies | 1141 |
@@ -1187,7 +1187,7 @@ for (let letter of sortedLetters) {
 - [[Obsidian Publish]]
 - [[Obsidian Spaced Repetition Recall]]
 - [[Obsidian Tags]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Spaced Repetition Theory]]

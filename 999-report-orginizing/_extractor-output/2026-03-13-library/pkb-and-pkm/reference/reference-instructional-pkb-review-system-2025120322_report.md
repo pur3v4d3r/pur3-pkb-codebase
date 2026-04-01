@@ -621,7 +621,7 @@ extraction_summary:
 #### 12. [HELPFUL-TIP] Preventing Review Fatigue *(Line 603)*
 
 > [!helpful-tip] Preventing Review Fatigue
-> - **Batch by Type**: Group similar notes (all prompt engineering, all cognitive science) to reduce [[Context Switching]]
+> - **Batch by Type**: Group similar notes (all prompt engineering, all cognitive science) to reduce [[Context-Switching|Context Switching]]
 > - **Time-Box Strictly**: 15 minutes for quick review means 15 minutes—respect the boundary
 > - **Interleave Difficulty**: Alternate between challenging and easier notes
 > - **Honor Energy Levels**: Deep reviews when fresh; quick reviews acceptable when tired
@@ -1156,11 +1156,11 @@ extraction_summary:
 - [[<% currentFile %>]]
 - [[<% noteName %>]]
 - [[<% weekNumber %>]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[automation]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[cognitive-science-moc]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Dataview]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epistemic Beliefs]]
@@ -1172,7 +1172,7 @@ extraction_summary:
 - [[Illusion of Competence]]
 - [[Information-Architecture]]
 - [[Interactive Note Design]]
-- [[Learning-Theory-MOC]]
+- [[learning-theory-moc]]
 - [[Maturity]]
 - [[Memento Mori]]
 - [[Meta Bind]]
@@ -1250,11 +1250,11 @@ extraction_summary:
 | 21 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | 1.2 Stoic Integration Framework | 374 |
 | 22 | [[View from Above]] | — | — | 1.2 Stoic Integration Framework | 375 |
 | 23 | [[Memento Mori]] | — | — | 1.2 Stoic Integration Framework | 376 |
-| 24 | [[Amor Fati]] | — | — | 1.2 Stoic Integration Framework | 377 |
+| 24 | [[Amor-Fati|Amor Fati]] | — | — | 1.2 Stoic Integration Framework | 377 |
 | 25 | [[Epistemic Certainty]] | — | — | 2.2 Confidence Calibration Protocol | 425 |
 | 26 | [[ReAct Framework]] | — | — | 3.2 The REACT Review Protocol | 458 |
 | 27 | [[Metamemory]] | — | — | 3.2 The REACT Review Protocol | 464 |
-| 28 | [[Context Switching]] | — | — | 6.1 Cognitive Load Management | 605 |
+| 28 | [[Context-Switching|Context Switching]] | — | — | 6.1 Cognitive Load Management | 605 |
 | 29 | [[Phronesis]] | — | — | 7.1 From Information to Wisdom | 637 |
 | 30 | [[Socrates]] | — | — | 7.2 The Examined Knowledge Life | 653 |
 | 31 | [[pkb-&-pkm-moc]] | — | — | Note 2: Templater Templates Library | 695 |
@@ -1282,7 +1282,7 @@ extraction_summary:
 | 53 | [[Template-Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1519 |
 | 54 | [[Spaced Repetition Algorithms]] | — | — | 🔗 Related Topics for PKB Expansion | 1521 |
 | 55 | [[cognitive-science-moc]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
-| 56 | [[Learning-Theory-MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
+| 56 | [[learning-theory-moc]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
 | 57 | [[Review Friction Reduction]] | — | — | 🔗 Related Topics for PKB Expansion | 1526 |
 | 58 | [[PKM/Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1529 |
 | 59 | [[productivity]] | — | — | 🔗 Related Topics for PKB Expansion | 1529 |
@@ -2960,11 +2960,11 @@ flowchart TD
 - [[<% currentFile %>]]
 - [[<% noteName %>]]
 - [[<% weekNumber %>]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[automation]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[cognitive-science-moc]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Dataview]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epistemic Beliefs]]
@@ -2976,7 +2976,7 @@ flowchart TD
 - [[Illusion of Competence]]
 - [[Information-Architecture]]
 - [[Interactive Note Design]]
-- [[Learning-Theory-MOC]]
+- [[learning-theory-moc]]
 - [[Maturity]]
 - [[Memento Mori]]
 - [[Meta Bind]]

@@ -239,7 +239,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Executive Overview *(Line 365)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference note examines the intersection of [[Cognitive-Load-Theory|Cognitive Load Theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Productivity Systems]], and [[Knowledge Work]] optimization.
+> This comprehensive reference note examines the intersection of [[Cognitive-Load-Theory|Cognitive Load Theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context-Switching|Context Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Productivity-Systems|Productivity Systems]], and [[Knowledge Work]] optimization.
 
 #### 4. [DEFINITION] <span style='color: #FFC700;'>Cognitive Load</span> *(Line 372)*
 
@@ -361,7 +361,7 @@ extraction_summary:
 - [[Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]]
 - [[Computational Modeling in Neuroscience]]
 - [[Computational Models of Cognitive Control: From Conflict Monitoring to Model-Based Reinforcement Learning]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Executive-Function|Executive Function]]
 - [[Expertise Reversal Effect in Task-Switching Performance]]
@@ -378,8 +378,8 @@ extraction_summary:
 - [[Neural Network Architectures]]
 - [[Optimal-Challenge|Optimal Challenge]]
 - [[Pomodoro Technique]]
-- [[Prefrontal Cortex]]
-- [[Productivity Systems]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
+- [[Productivity-Systems|Productivity Systems]]
 - [[Prospective Memory]]
 - [[Psychological Refractory Period]]
 - [[Psychological Refractory Period and Response Selection Bottlenecks]]
@@ -404,15 +404,15 @@ extraction_summary:
 | 6 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Cognitive Load Theory and the Attenti... | 359 |
 | 7 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 8 | [[Attentional Bottleneck]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
-| 9 | [[Context Switching]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
+| 9 | [[Context-Switching|Context Switching]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 10 | [[Monotasking]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 11 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
-| 12 | [[Productivity Systems]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
+| 12 | [[Productivity-Systems|Productivity Systems]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 13 | [[Knowledge Work]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 14 | [[Working-Memory|Working Memory]] | — | — | 🧠 Theoretical Foundations: Cognitive ... | 375 |
 | 15 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🧠 Theoretical Foundations: Cognitive ... | 375 |
 | 16 | [[Working-Memory-Capacity|Working Memory Capacity]] | — | — | 📊 Quantifying Context Switching: Empi... | 418 |
-| 17 | [[Prefrontal Cortex]] | — | — | 🔬 The Neurological Substrate: Why Con... | 422 |
+| 17 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | 🔬 The Neurological Substrate: Why Con... | 422 |
 | 18 | [[Psychological Refractory Period]] | — | — | 📉 Context Switching Across Cognitive ... | 442 |
 | 19 | [[Pomodoro Technique]] | — | — | ✅ Monotasking Protocols: Empirical Ev... | 470 |
 | 20 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🌐 Integration with Self-Determination... | 489 |
@@ -430,7 +430,7 @@ extraction_summary:
 | 32 | [[Goal Activation]] | — | — | 3. **[[Interruption Science and Recov... | 525 |
 | 33 | [[Cognitive Fatigue and Resource Depletion Models]] | — | — | 4. **[[Cognitive Fatigue and Resource... | 527 |
 | 34 | [[Executive-Function|Executive Function]] | — | — | 4. **[[Cognitive Fatigue and Resource... | 533 |
-| 35 | [[Prefrontal Cortex]] | — | — | 4. **[[Cognitive Fatigue and Resource... | 533 |
+| 35 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | 4. **[[Cognitive Fatigue and Resource... | 533 |
 | 36 | [[Metabolic Constraints on Cognition]] | — | — | 4. **[[Cognitive Fatigue and Resource... | 533 |
 | 37 | [[Expertise Reversal Effect in Task-Switching Performance]] | — | — | 5. **[[Expertise Reversal Effect in T... | 537 |
 | 38 | [[Schema-Theory|Schema Theory]] | — | — | 5. **[[Expertise Reversal Effect in T... | 543 |
@@ -821,7 +821,7 @@ for (let letter of sortedLetters) {
 - [[Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols]]
 - [[Computational Modeling in Neuroscience]]
 - [[Computational Models of Cognitive Control: From Conflict Monitoring to Model-Based Reinforcement Learning]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Executive-Function|Executive Function]]
 - [[Expertise Reversal Effect in Task-Switching Performance]]
@@ -838,8 +838,8 @@ for (let letter of sortedLetters) {
 - [[Neural Network Architectures]]
 - [[Optimal-Challenge|Optimal Challenge]]
 - [[Pomodoro Technique]]
-- [[Prefrontal Cortex]]
-- [[Productivity Systems]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
+- [[Productivity-Systems|Productivity Systems]]
 - [[Prospective Memory]]
 - [[Psychological Refractory Period]]
 - [[Psychological Refractory Period and Response Selection Bottlenecks]]

@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 46
+referenced-by-count: 54
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Abduction]]"
   - "[[Abductive-Competence]]"
   - "[[Abductive-Reasoning]]"
+  - "[[Active-Inference]]"
   - "[[Anomaly]]"
   - "[[Calibration]]"
   - "[[Confirmation-Bias]]"
   - "[[Context-of-Discovery-vs.-Context-of-Justification]]"
+  - "[[Controlled-Hallucination]]"
   - "[[Corroboration]]"
-  - "[[Defeasibility]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,20 +60,21 @@ importance: high
 # Charles-Sanders-Peirce
 
 > [!definition] **Charles-Sanders-Peirce**
-> *Stub note — concept referenced by 46 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 54 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 46 permanent notes.*
+*Auto-generated stub — referenced by 54 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Abduction]]
 - [[Abductive-Competence]]
 - [[Abductive-Reasoning]]
+- [[Active-Inference]]
 - [[Anomaly]]
 - [[Calibration]]
 - [[Confirmation-Bias]]
 - [[Context-of-Discovery-vs.-Context-of-Justification]]
+- [[Controlled-Hallucination]]
 - [[Corroboration]]
 - [[Defeasibility]]
 - [[Defeat-Defeater]]
@@ -81,9 +82,8 @@ importance: high
 - [[Epistemic-Holism]]
 - [[Epistemic-Humility]]
 - [[Fallibilism]]
+- [[Free-Energy-Principle]]
+- [[Generative-Model]]
 - [[Genetic-Epistemology]]
 - [[Infallibilism]]
-- [[Inference-to-the-Best-Explanation]]
-- [[Inquiry-Based-Learning]]
-- [[Intellectual-Humility]]
-- *...and 26 more permanent notes*
+- *...and 34 more permanent notes*

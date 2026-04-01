@@ -726,7 +726,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Motivational Beliefs]]
 - [[Obsidian Templates]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[PKB]]
 - [[Periodic Notes]]
 - [[Possible Selves]]
@@ -848,7 +848,7 @@ extraction_summary:
 | 82 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Structural Planning | 2006 |
 | 83 | [[Time Blocking]] | — | — | Structural Planning | 2007 |
 | 84 | [[GTD]] | — | — | Structural Planning | 2008 |
-| 85 | [[PARA Method]] | — | — | Structural Planning | 2009 |
+| 85 | [[PARA-Method|PARA Method]] | — | — | Structural Planning | 2009 |
 | 86 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Structural Planning | 2010 |
 | 87 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Structural Planning | 2011 |
 | 88 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Structural Planning | 2012 |
@@ -1933,7 +1933,7 @@ graph TD
 - [[Metacognition]]
 - [[Motivational Beliefs]]
 - [[Obsidian Templates]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[PKB]]
 - [[Periodic Notes]]
 - [[Possible Selves]]

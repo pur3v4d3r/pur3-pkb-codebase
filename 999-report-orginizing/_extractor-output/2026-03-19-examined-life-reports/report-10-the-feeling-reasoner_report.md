@@ -454,8 +454,8 @@ extraction_summary:
 - [[Constructed-Emotion-Theory-—-Deep-Dive|Constructed Emotion Theory — Deep Dive]]
 - [[Damasio]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Emotion Concepts]]
-- [[Emotion Differentiation]]
+- [[Emotion-Concepts|Emotion Concepts]]
+- [[Emotion-Differentiation|Emotion Differentiation]]
 - [[Emotion Regulation]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
@@ -467,24 +467,24 @@ extraction_summary:
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Kahneman]]
-- [[Klaus Scherer]]
+- [[Klaus-Scherer|Klaus Scherer]]
 - [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
-- [[Margaret Graver]]
-- [[Martha Nussbaum]]
+- [[Margaret-Graver|Margaret Graver]]
+- [[Martha-Nussbaum|Martha Nussbaum]]
 - [[Moral Emotions and Ethical Perception]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Norbert-Schwarz|Norbert Schwarz]]
 - [[Nussbaum's Upheavals of Thought — Key Arguments]]
-- [[O'Toole, Bovard-Abbo, and Weightman]]
+- [[O'Toole,-Bovard-Abbo,-and-Weightman|O'Toole, Bovard-Abbo, and Weightman]]
 - [[Pathē]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Propatheiai]]
 - [[Prosoche]]
-- [[Richard Lazarus]]
+- [[Richard-Lazarus|Richard Lazarus]]
 - [[Schwarz-and-Clore|Schwarz and Clore]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
-- [[Siemer, Mauss, and Gross]]
+- [[Siemer,-Mauss,-and-Gross|Siemer, Mauss, and Gross]]
 - [[Somatic-Markers|Somatic Markers]]
 - [[Stanovich]]
 - [[Stoic Therapy of the Passions — Complete System]]
@@ -516,26 +516,26 @@ extraction_summary:
 | 17 | [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
 | 18 | [[Classical-View-of-Emotion|Classical View of Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
 | 19 | [[Anil-Seth|Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 299 |
-| 20 | [[Emotion Concepts]] | — | — | 2.1 The Theory of Constructed Emotion... | 306 |
+| 20 | [[Emotion-Concepts|Emotion Concepts]] | — | — | 2.1 The Theory of Constructed Emotion... | 306 |
 | 21 | [[Affective-Realism|Affective Realism]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
 | 22 | [[Barrett-and-Wormwood|Barrett and Wormwood]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
 | 23 | [[Anil-Seth|Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
 | 24 | [[Predictive-Processing|Predictive Processing]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
 | 25 | [[Appraisal-Theory|Appraisal Theory]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
-| 26 | [[Richard Lazarus]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
-| 27 | [[Klaus Scherer]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
+| 26 | [[Richard-Lazarus|Richard Lazarus]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
+| 27 | [[Klaus-Scherer|Klaus Scherer]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 28 | [[Component-Process-Model|Component Process Model]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
-| 29 | [[Siemer, Mauss, and Gross]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 322 |
+| 29 | [[Siemer,-Mauss,-and-Gross|Siemer, Mauss, and Gross]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 322 |
 | 30 | [[Chrysippus]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 331 |
 | 31 | [[Cicero]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 331 |
 | 32 | [[Galen]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 331 |
 | 33 | [[Seneca]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 331 |
 | 34 | [[Pathē]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 333 |
-| 35 | [[Margaret Graver]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 340 |
-| 36 | [[Martha Nussbaum]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 340 |
+| 35 | [[Margaret-Graver|Margaret Graver]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 340 |
+| 36 | [[Martha-Nussbaum|Martha Nussbaum]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 340 |
 | 37 | [[Emotional-Granularity|Emotional Granularity]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
-| 38 | [[Emotion Differentiation]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
-| 39 | [[O'Toole, Bovard-Abbo, and Weightman]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
+| 38 | [[Emotion-Differentiation|Emotion Differentiation]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
+| 39 | [[O'Toole,-Bovard-Abbo,-and-Weightman|O'Toole, Bovard-Abbo, and Weightman]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
 | 40 | [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
 | 41 | [[Emotion Regulation]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
 | 42 | [[Affect-as-Information-Theory|Affect-as-Information Theory]] | — | — | 3.1 The Master Tension: Information v... | 370 |
@@ -549,7 +549,7 @@ extraction_summary:
 | 50 | [[Damasio]] | — | — | 3.4 The Limits of Deliberate Reasonin... | 409 |
 | 51 | [[Schwarz-and-Clore|Schwarz and Clore]] | — | — | 4.2 The Epistemic Limits of Emotional... | 455 |
 | 52 | [[Emotional-Intelligence|Emotional Intelligence]] | — | — | 4.3 Developmental Implications | 472 |
-| 53 | [[Martha Nussbaum]] | — | — | 5.1 The Emergent Insight: Emotional G... | 495 |
+| 53 | [[Martha-Nussbaum|Martha Nussbaum]] | — | — | 5.1 The Emergent Insight: Emotional G... | 495 |
 | 54 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 501 |
 | 55 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
 | 56 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
@@ -605,8 +605,8 @@ extraction_summary:
 - [[Constructed-Emotion-Theory-—-Deep-Dive|Constructed Emotion Theory — Deep Dive]]
 - [[Damasio]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Emotion Concepts]]
-- [[Emotion Differentiation]]
+- [[Emotion-Concepts|Emotion Concepts]]
+- [[Emotion-Differentiation|Emotion Differentiation]]
 - [[Emotion Regulation]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
@@ -618,24 +618,24 @@ extraction_summary:
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Kahneman]]
-- [[Klaus Scherer]]
+- [[Klaus-Scherer|Klaus Scherer]]
 - [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
-- [[Margaret Graver]]
-- [[Martha Nussbaum]]
+- [[Margaret-Graver|Margaret Graver]]
+- [[Martha-Nussbaum|Martha Nussbaum]]
 - [[Moral Emotions and Ethical Perception]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Norbert-Schwarz|Norbert Schwarz]]
 - [[Nussbaum's Upheavals of Thought — Key Arguments]]
-- [[O'Toole, Bovard-Abbo, and Weightman]]
+- [[O'Toole,-Bovard-Abbo,-and-Weightman|O'Toole, Bovard-Abbo, and Weightman]]
 - [[Pathē]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Propatheiai]]
 - [[Prosoche]]
-- [[Richard Lazarus]]
+- [[Richard-Lazarus|Richard Lazarus]]
 - [[Schwarz-and-Clore|Schwarz and Clore]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
-- [[Siemer, Mauss, and Gross]]
+- [[Siemer,-Mauss,-and-Gross|Siemer, Mauss, and Gross]]
 - [[Somatic-Markers|Somatic Markers]]
 - [[Stanovich]]
 - [[Stoic Therapy of the Passions — Complete System]]

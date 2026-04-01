@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 47
+referenced-by-count: 72
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Active-Inference]]"
+  - "[[Affect-as-Information-Theory]]"
+  - "[[Affective-Realism]]"
+  - "[[Allostasis]]"
+  - "[[Allostatic-Load]]"
+  - "[[Apatheia]]"
+  - "[[Appraisal-Theory]]"
+  - "[[As-If-Body-Loop]]"
   - "[[Controlled-Hallucination]]"
-  - "[[Free-Energy-Principle]]"
-  - "[[Generative-Model]]"
-  - "[[Phenomenal-Self-Model]]"
-  - "[[Precision-Flexibility]]"
-  - "[[Precision-Weighting]]"
-  - "[[Prediction-Error]]"
-  - "[[Predictive-Processing]]"
+  - "[[Core-Affect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Anil-Seth
 
 > [!definition] **Anil-Seth**
-> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 47 permanent notes.*
+*Auto-generated stub — referenced by 72 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Active-Inference]]
+- [[Affect-as-Information-Theory]]
+- [[Affective-Realism]]
+- [[Allostasis]]
+- [[Allostatic-Load]]
+- [[Apatheia]]
+- [[Appraisal-Theory]]
+- [[As-If-Body-Loop]]
 - [[Controlled-Hallucination]]
+- [[Core-Affect]]
+- [[Embodied-vs.-Extended-vs.-Enactive-Cognition]]
+- [[Emotional-Calibration]]
+- [[Emotional-Granularity]]
+- [[Emotional-Granularity-as-Epistemic-Precision]]
+- [[Enactive-Cognition]]
+- [[Eupatheia]]
 - [[Free-Energy-Principle]]
 - [[Generative-Model]]
-- [[Phenomenal-Self-Model]]
-- [[Precision-Flexibility]]
-- [[Precision-Weighting]]
-- [[Prediction-Error]]
-- [[Predictive-Processing]]
-- [[📖-Allostasis]]
-- [[📖-Allostatic-Load]]
-- [[📖-Apatheia]]
-- [[📖-As-If-Body-Loop]]
-- [[📖-Embodied-vs.-Extended-vs.-Enactive-Cognition]]
-- [[📖-Enactive-Cognition]]
-- [[📖-Interoception]]
-- [[📖-Interoceptive-Inference]]
-- [[📖-Physiological-Metacognition]]
-- [[📖-Physiological-Metacognition-—-Formal-Definition]]
-- *...and 27 more permanent notes*
+- [[Interoception]]
+- [[Interoceptive-Inference]]
+- *...and 52 more permanent notes*

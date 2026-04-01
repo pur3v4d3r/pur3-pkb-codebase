@@ -341,7 +341,7 @@ extraction_summary:
 #### 10. [IMPORTANT] Claude API Setup *(Line 511)*
 
 > [!important] Claude API Setup
-> To use [[Claude]] models with TGP, you need an [[Anthropic API]] key from [console.anthropic.com](https://console.anthropic.com). This is separate from any Claude Pro subscription. API access follows pay-per-token pricing (~$3/million input tokens, ~$15/million output tokens for Claude 3.5 Sonnet).
+> To use [[Claude]] models with TGP, you need an [[Anthropic-API|Anthropic API]] key from [console.anthropic.com](https://console.anthropic.com). This is separate from any Claude Pro subscription. API access follows pay-per-token pricing (~$3/million input tokens, ~$15/million output tokens for Claude 3.5 Sonnet).
 
 #### 11. [WARNING] API Key Security *(Line 525)*
 
@@ -594,7 +594,7 @@ extraction_summary:
 - [[API Concepts]]
 - [[API Cost Optimization Strategies]]
 - [[Anthropic]]
-- [[Anthropic API]]
+- [[Anthropic-API|Anthropic API]]
 - [[Anthropic-Claude|Anthropic Claude]]
 - [[Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
@@ -637,8 +637,8 @@ extraction_summary:
 - [[Tokens]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
-- [[like this]]
-- [[related notes]]
+- [[like-this|like this]]
+- [[related-notes|related notes]]
 - [[wiki-link]]
 - [[wiki-links]]
 
@@ -693,13 +693,13 @@ extraction_summary:
 | 45 | [[HuggingFace]] | — | — | Supported Providers | 505 |
 | 46 | [[Ollama]] | — | — | Supported Providers | 506 |
 | 47 | [[Claude]] | — | — | Anthropic Claude Configuration | 512 |
-| 48 | [[Anthropic API]] | — | — | Anthropic Claude Configuration | 512 |
+| 48 | [[Anthropic-API|Anthropic API]] | — | — | Anthropic Claude Configuration | 512 |
 | 49 | [[Markdown]] | — | — | Template File Specifications | 530 |
 | 50 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Template File Specifications | 530 |
 | 51 | [[Handlebars]] | — | — | Context Variable Reference | 567 |
 | 52 | [[Handlebars]] | — | — | Handlebars Template Syntax | 726 |
 | 53 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Advanced Template Patterns | 798 |
-| 54 | [[like this]] | — | — | Advanced Template Patterns | 808 |
+| 54 | [[like-this|like this]] | — | — | Advanced Template Patterns | 808 |
 | 55 | [[Zettelkasten]] | — | — | Advanced Template Patterns | 813 |
 | 56 | [[wiki-links]] | — | — | Advanced Template Patterns | 829 |
 | 57 | [[wiki-link]] | — | — | Advanced Template Patterns | 842 |
@@ -716,7 +716,7 @@ extraction_summary:
 | 68 | [[<%= note.path %>]] | — | — | Practical Integration Templates | 1280 |
 | 69 | [[Claude-Projects|Claude Projects]] | — | — | Understanding Claude Projects Archite... | 1305 |
 | 70 | [[wiki-link]] | — | — | Core Behaviors | 1333 |
-| 71 | [[related notes]] | — | — | Output Standards | 1342 |
+| 71 | [[related-notes|related notes]] | — | — | Output Standards | 1342 |
 | 72 | [[<%= note.basename %>]] | — | — | Component 2: Knowledge Base → Smart C... | 1418 |
 | 73 | [[wiki-links]] | — | — | Output Requirements | 1572 |
 | 74 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | 1. **[[Prompt Engineering Fundamental... | 1838 |
@@ -1437,7 +1437,7 @@ You are a research assistant specializing in knowledge synthesis and critical an
 - Use Obsidian-compatible markdown
 - Include > [!definition] for key terms
 - Include > [!example] for illustrations
-- Suggest 3-5 [[related notes]] at the end
+- Suggest 3-5 [[related-notes|related notes]] at the end
 
 ## Domain Knowledge
 - Familiar with academic research methodology
@@ -2011,7 +2011,7 @@ $$
 - [[API Concepts]]
 - [[API Cost Optimization Strategies]]
 - [[Anthropic]]
-- [[Anthropic API]]
+- [[Anthropic-API|Anthropic API]]
 - [[Anthropic-Claude|Anthropic Claude]]
 - [[Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
@@ -2054,8 +2054,8 @@ $$
 - [[Tokens]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
-- [[like this]]
-- [[related notes]]
+- [[like-this|like this]]
+- [[related-notes|related notes]]
 - [[wiki-link]]
 - [[wiki-links]]
 

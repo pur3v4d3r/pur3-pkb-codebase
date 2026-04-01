@@ -156,7 +156,7 @@ extraction_summary:
 #### 3. [CORE-PRINCIPLE] Untitled *(Line 61)*
 
 > [!core-principle] Untitled
-> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base|Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive-Load|Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.
+> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base|Personal Knowledge Base]]. Strategic command placement reduces [[Context-Switching|Context Switching]] overhead, minimizes [[Cognitive-Load|Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.
 
 #### 4. [USE-CASES-AND-EXAMPLES] Untitled *(Line 68)*
 
@@ -359,7 +359,7 @@ extraction_summary:
 > 
 > **Page Header Commands:**
 > 6. 🔖 `Add Zettel ID` (timestamp-based unique identifier)
-> 7. 🔗 `Insert [[Wiki-Link]] from Selection`
+> 7. 🔗 `Insert [[wiki-link]] from Selection`
 > 8. 📝 `Split Note Into Atomics` (custom macro)
 > 9. 🏷️ `Suggest Related Tags`
 > 10. 🧭 `Find Orphaned Backlinks`
@@ -582,7 +582,7 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Command Palette]]
 - [[Command Palette Optimization]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Cross-Platform Knowledge Work]]
 - [[Custom CSS]]
 - [[Daily-Notes|Daily Notes]]
@@ -590,7 +590,7 @@ extraction_summary:
 - [[Day-Planner|Day Planner]]
 - [[Desktop Workflow]]
 - [[File Explorer]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Graph View]]
 - [[Hotkey Helper]]
 - [[Hotkeys]]
@@ -615,7 +615,7 @@ extraction_summary:
 - [[Templates]]
 - [[Ubiquitous Capture]]
 - [[User Interface Customization]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[Workflow Optimization]]
 - [[Workspace]]
 - [[Workspace Architecture in Obsidian]]
@@ -638,7 +638,7 @@ extraction_summary:
 | 5 | [[Mobile Workflow]] | — | — | Key Capabilities | 53 |
 | 6 | [[Desktop Workflow]] | — | — | Key Capabilities | 53 |
 | 7 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
-| 8 | [[Context Switching]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
+| 8 | [[Context-Switching|Context Switching]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
 | 9 | [[Cognitive-Load|Cognitive Load]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
 | 10 | [[Dataview]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 80 |
 | 11 | [[Templater]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 81 |
@@ -653,7 +653,7 @@ extraction_summary:
 | 20 | [[File Explorer]] | — | — | 6️⃣ File Menu (Context Menu) | 198 |
 | 21 | [[Literature Notes]] | — | — | 📚 Setup #1: Academic Researcher Confi... | 229 |
 | 22 | [[Zettelkasten]] | — | — | 🧠 Setup #3: Zettelkasten Purist Confi... | 302 |
-| 23 | [[Wiki-Link]] | — | — | 🧠 Setup #3: Zettelkasten Purist Confi... | 307 |
+| 23 | [[wiki-link]] | — | — | 🧠 Setup #3: Zettelkasten Purist Confi... | 307 |
 | 24 | [[Capture]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 329 |
 | 25 | [[Tasks]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 329 |
 | 26 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | 🚀 Setup #4: Rapid Capture & GTD Confi... | 333 |
@@ -683,9 +683,9 @@ extraction_summary:
 | 50 | [[Workflow Optimization]] | — | — | 🧭 Further Exploration | 646 |
 | 51 | [[Cognitive-Load|Cognitive Load]] | — | — | 🧭 Further Exploration | 646 |
 | 52 | [[Workspace Architecture in Obsidian]] | — | — | 🧭 Further Exploration | 648 |
-| 53 | [[Context Switching]] | — | — | 🧭 Further Exploration | 651 |
+| 53 | [[Context-Switching|Context Switching]] | — | — | 🧭 Further Exploration | 651 |
 | 54 | [[Attention Management]] | — | — | 🧭 Further Exploration | 651 |
-| 55 | [[Flow State]] | — | — | 🧭 Further Exploration | 651 |
+| 55 | [[Flow-State|Flow State]] | — | — | 🧭 Further Exploration | 651 |
 | 56 | [[QuickAdd Macro Development]] | — | — | 🧭 Further Exploration | 653 |
 | 57 | [[automation]] | — | — | 🧭 Further Exploration | 656 |
 | 58 | [[Template Systems]] | — | — | 🧭 Further Exploration | 656 |
@@ -717,7 +717,7 @@ extraction_summary:
 | 84 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 699 |
 | 85 | [[User Interface Customization]] | — | — | 🧭 Further Exploration | 699 |
 | 86 | [[Workflow Optimization]] | — | — | 🧭 Further Exploration | 699 |
-| 87 | [[Context Switching]] | — | — | 🧭 Further Exploration | 699 |
+| 87 | [[Context-Switching|Context Switching]] | — | — | 🧭 Further Exploration | 699 |
 
 ---
 
@@ -759,7 +759,7 @@ Information Architecture:
 8. Further Exploration
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes|Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[Maps-of-Content-—-MOCs|MOC]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
+[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes|Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[Maps-of-Content-—-MOCs|MOC]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context-Switching|Context Switching]]
 # ... (20 more lines truncated)
 ```
 
@@ -798,7 +798,7 @@ Information Architecture:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Command Palette]]
 - [[Command Palette Optimization]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Cross-Platform Knowledge Work]]
 - [[Custom CSS]]
 - [[Daily-Notes|Daily Notes]]
@@ -806,7 +806,7 @@ Information Architecture:
 - [[Day-Planner|Day Planner]]
 - [[Desktop Workflow]]
 - [[File Explorer]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Graph View]]
 - [[Hotkey Helper]]
 - [[Hotkeys]]
@@ -831,7 +831,7 @@ Information Architecture:
 - [[Templates]]
 - [[Ubiquitous Capture]]
 - [[User Interface Customization]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[Workflow Optimization]]
 - [[Workspace]]
 - [[Workspace Architecture in Obsidian]]

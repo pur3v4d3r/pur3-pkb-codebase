@@ -194,7 +194,7 @@ extraction_summary:
 
 - [[Chain-of-Thought|Chain of Thought]]
 - [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Cognitive Science Foundations of LLM Reasoning Techniques]]
 - [[Dhuliawala et al. 2023]]
 - [[Evaluation Methodologies for LLM Reasoning Quality]]
@@ -206,8 +206,8 @@ extraction_summary:
 - [[Shinn et al. 2023]]
 - [[Token Economics and Cost Optimization for Production LLM Systems]]
 - [[Tree-of-Thoughts|Tree of Thoughts]]
-- [[Wang et al. 2022]]
-- [[Wei et al. 2022]]
+- [[Wang-et-al.-2022|Wang et al. 2022]]
+- [[Wei-et-al.-2022|Wei et al. 2022]]
 - [[Yao et al. 2023]]
 
 ### All Occurrences
@@ -220,14 +220,14 @@ extraction_summary:
 | 4 | [[Reflexion]] | — | — | Abstract | 73 |
 | 5 | [[Chain-of-Thought|Chain of Thought]] | — | — | 2.3 The Reasoning-Response Pipeline | 143 |
 | 6 | [[Chain-of-Thought-Prompting|Chain of Thought Prompting]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
-| 7 | [[Wei et al. 2022]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
+| 7 | [[Wei-et-al.-2022|Wei et al. 2022]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
 | 8 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
 | 9 | [[Yao et al. 2023]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
 | 10 | [[Self-Consistency]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 232 |
-| 11 | [[Wang et al. 2022]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 232 |
+| 11 | [[Wang-et-al.-2022|Wang et al. 2022]] | — | — | 3.3 Self-Consistency: Reliability Thr... | 232 |
 | 12 | [[Reflexion]] | — | — | 3.4 Reflexion: Learning from Mistakes | 252 |
 | 13 | [[Shinn et al. 2023]] | — | — | 3.4 Reflexion: Learning from Mistakes | 252 |
-| 14 | [[Chain of Verification]] | — | — | 4.3 The Chain of Verification Pattern | 301 |
+| 14 | [[Chain-of-Verification|Chain of Verification]] | — | — | 4.3 The Chain of Verification Pattern | 301 |
 | 15 | [[Dhuliawala et al. 2023]] | — | — | 4.3 The Chain of Verification Pattern | 301 |
 | 16 | [[Prompt Engineering Taxonomy and Pattern Library]] | — | — | 1. **[[Prompt Engineering Taxonomy an... | 605 |
 | 17 | [[Token Economics and Cost Optimization for Production LLM Systems]] | — | — | 2. **[[Token Economics and Cost Optim... | 611 |
@@ -946,7 +946,7 @@ graph TD
 
 - [[Chain-of-Thought|Chain of Thought]]
 - [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Cognitive Science Foundations of LLM Reasoning Techniques]]
 - [[Dhuliawala et al. 2023]]
 - [[Evaluation Methodologies for LLM Reasoning Quality]]
@@ -958,8 +958,8 @@ graph TD
 - [[Shinn et al. 2023]]
 - [[Token Economics and Cost Optimization for Production LLM Systems]]
 - [[Tree-of-Thoughts|Tree of Thoughts]]
-- [[Wang et al. 2022]]
-- [[Wei et al. 2022]]
+- [[Wang-et-al.-2022|Wang et al. 2022]]
+- [[Wei-et-al.-2022|Wei et al. 2022]]
 - [[Yao et al. 2023]]
 
 ---

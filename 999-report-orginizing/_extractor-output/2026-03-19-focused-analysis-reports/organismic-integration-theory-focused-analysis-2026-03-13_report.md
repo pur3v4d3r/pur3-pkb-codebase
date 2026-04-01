@@ -361,7 +361,7 @@ extraction_summary:
 > 
 > - **[[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]** — This focused analysis is downstream of the SDT Foundational Report and presupposes its content. Readers who encounter OIT without SDT background should read the Foundational Report first. The Foundational Report covers SDT's full architecture including Cognitive Evaluation Theory, Basic Psychological Needs Theory, Causality Orientations Theory, Relationships Motivation Theory, and Goal Contents Theory — territories this analysis deliberately excludes to maintain its focused scope.
 > 
-> - **[[Self-Regulated Learning — Foundational Report]]** — The SRL report's treatment of motivation as a component of self-regulated learning would benefit from a connection note drawing on OIT's regulatory continuum. Specifically, the SRL literature's use of "intrinsic motivation" as a binary construct — you either have it or you don't — can be refined by OIT's more granular account. Not all non-intrinsic motivation is equivalent; identified regulation in SRL contexts produces very different outcomes than introjected regulation, even if both appear "non-intrinsically motivated" from the outside.
+> - **[[Self-Regulated-Learning-—-Foundational-Report|Self-Regulated Learning — Foundational Report]]** — The SRL report's treatment of motivation as a component of self-regulated learning would benefit from a connection note drawing on OIT's regulatory continuum. Specifically, the SRL literature's use of "intrinsic motivation" as a binary construct — you either have it or you don't — can be refined by OIT's more granular account. Not all non-intrinsic motivation is equivalent; identified regulation in SRL contexts produces very different outcomes than introjected regulation, even if both appear "non-intrinsically motivated" from the outside.
 > 
 > **Synthetic Observation**: OIT occupies a particular position in the broader knowledge base: it is the most mechanistically specific account of how the motivational quality that SDT and SRL both identify as crucial actually develops. It serves as the "how" to SDT's "what" and as the motivational substrate for the processes SRL describes. Its connections to CLT, Psychological Safety, and Growth Mindset point to a broader synthesis around the conditions for genuine learning engagement — one that spans motivational, cognitive, relational, and dispositional dimensions. A future integration note connecting these reports could develop the concept of an "engagement architecture" that treats autonomous motivation not as one variable among many but as the ground condition from which other learning processes become possible.
 
@@ -558,18 +558,18 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated Learning — Foundational Report]]
+- [[Self-Regulated-Learning-—-Foundational-Report|Self-Regulated Learning — Foundational Report]]
 - [[Soenens-&-Vansteenkiste-2011|Soenens & Vansteenkiste (2011)]]
-- [[Vansteenkiste, Lens, & Deci (2006)]]
+- [[Vansteenkiste,-Lens,-&-Deci-2006|Vansteenkiste, Lens, & Deci (2006)]]
 - [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
-- [[Williams et al. (2009)]]
+- [[Williams-et-al.-2009|Williams et al. (2009)]]
 - [[Williams,-Deci,-and-colleagues|Williams, Deci, and colleagues]]
 - [[Autonomy-Support|autonomy support]]
 - [[Integration]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|intrinsic motivation]]
-- [[perceived choice]]
-- [[quality-over-quantity heuristic]]
+- [[perceived-choice|perceived choice]]
+- [[quality-over-quantity-heuristic|quality-over-quantity heuristic]]
 - [[relative-autonomy|relative autonomy]]
 - [[Self-Determination]]
 
@@ -603,15 +603,15 @@ extraction_summary:
 | 24 | [[Autonomy-Support|autonomy support]] | — | — | What Autonomy Support Actually Does | 416 |
 | 25 | [[Johnmarshall-Reeve's|Johnmarshall Reeve's]] | — | — | What Autonomy Support Actually Does | 421 |
 | 26 | [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]] | — | — | What Autonomy Support Actually Does | 424 |
-| 27 | [[perceived choice]] | — | — | The Role of Perceived Volitional Nece... | 428 |
+| 27 | [[perceived-choice|perceived choice]] | — | — | The Role of Perceived Volitional Nece... | 428 |
 | 28 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Role of Perceived Volitional Nece... | 430 |
 | 29 | [[Koestner et al. (1984)]] | — | — | The Role of Perceived Volitional Nece... | 433 |
 | 30 | [[Assor, Kaplan, & Roth (2002)]] | — | — | The Role of Perceived Volitional Nece... | 433 |
 | 31 | [[Conditional-Regard|Conditional regard]] | — | — | The Introjection Trap in Learning Con... | 449 |
-| 32 | [[quality-over-quantity heuristic]] | — | — | Direct Implications of the Analysis | 470 |
-| 33 | [[Vansteenkiste, Lens, & Deci (2006)]] | — | — | Applications in Instructional Design | 478 |
+| 32 | [[quality-over-quantity-heuristic|quality-over-quantity heuristic]] | — | — | Direct Implications of the Analysis | 470 |
+| 33 | [[Vansteenkiste,-Lens,-&-Deci-2006|Vansteenkiste, Lens, & Deci (2006)]] | — | — | Applications in Instructional Design | 478 |
 | 34 | [[Motivational-Interviewing|Motivational Interviewing]] | — | — | Health Behavior Applications | 491 |
-| 35 | [[Williams et al. (2009)]] | — | — | Health Behavior Applications | 493 |
+| 35 | [[Williams-et-al.-2009|Williams et al. (2009)]] | — | — | Health Behavior Applications | 493 |
 | 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 565 |
 | 37 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 567 |
 | 38 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 567 |
@@ -622,7 +622,7 @@ extraction_summary:
 | 43 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Phase VII: PKB Connections & Cross-Re... | 573 |
 | 44 | [[Dweck's]] | — | — | Phase VII: PKB Connections & Cross-Re... | 573 |
 | 45 | [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 577 |
-| 46 | [[Self-Regulated Learning — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 579 |
+| 46 | [[Self-Regulated-Learning-—-Foundational-Report|Self-Regulated Learning — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 579 |
 | 47 | [[Conditional-Regard-and-the-Introjection-Trap|Conditional Regard and the Introjection Trap]] | — | — | D. Expansion Topics | 677 |
 | 48 | [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]] | — | — | D. Expansion Topics | 680 |
 | 49 | [[Gamification Through an OIT Lens]] | — | — | D. Expansion Topics | 683 |
@@ -675,18 +675,18 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated Learning — Foundational Report]]
+- [[Self-Regulated-Learning-—-Foundational-Report|Self-Regulated Learning — Foundational Report]]
 - [[Soenens-&-Vansteenkiste-2011|Soenens & Vansteenkiste (2011)]]
-- [[Vansteenkiste, Lens, & Deci (2006)]]
+- [[Vansteenkiste,-Lens,-&-Deci-2006|Vansteenkiste, Lens, & Deci (2006)]]
 - [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
-- [[Williams et al. (2009)]]
+- [[Williams-et-al.-2009|Williams et al. (2009)]]
 - [[Williams,-Deci,-and-colleagues|Williams, Deci, and colleagues]]
 - [[Autonomy-Support|autonomy support]]
 - [[Integration]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|intrinsic motivation]]
-- [[perceived choice]]
-- [[quality-over-quantity heuristic]]
+- [[perceived-choice|perceived choice]]
+- [[quality-over-quantity-heuristic|quality-over-quantity heuristic]]
 - [[relative-autonomy|relative autonomy]]
 - [[Self-Determination]]
 

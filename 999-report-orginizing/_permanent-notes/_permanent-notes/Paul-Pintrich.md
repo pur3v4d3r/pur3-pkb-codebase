@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 32
+referenced-by-count: 47
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Andragogy]]"
+  - "[[Attribution-Style]]"
   - "[[Autonomous-Motivation]]"
+  - "[[Autonomy-Need]]"
   - "[[Context-Regulation]]"
   - "[[Controlled-Motivation]]"
+  - "[[Double-Loop-Learning]]"
+  - "[[Extrinsic-Motivation]]"
   - "[[Flavell's-Metacognitive-Framework]]"
   - "[[Forethought-Phase]]"
-  - "[[Identified-Regulation-vs.-Integrated-Regulation]]"
-  - "[[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]"
-  - "[[MSLQ]]"
-  - "[[Metacognitive-Experience]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Paul-Pintrich
 
 > [!definition] **Paul-Pintrich**
-> *Stub note — concept referenced by 32 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 47 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 32 permanent notes.*
+*Auto-generated stub — referenced by 47 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Andragogy]]
+- [[Attribution-Style]]
 - [[Autonomous-Motivation]]
+- [[Autonomy-Need]]
 - [[Context-Regulation]]
 - [[Controlled-Motivation]]
+- [[Double-Loop-Learning]]
+- [[Extrinsic-Motivation]]
 - [[Flavell's-Metacognitive-Framework]]
 - [[Forethought-Phase]]
+- [[Heutagogy]]
 - [[Identified-Regulation-vs.-Integrated-Regulation]]
 - [[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]
+- [[Learning-Contracts]]
+- [[Learning-Projects]]
 - [[MSLQ]]
 - [[Metacognitive-Experience]]
+- [[Metacognitive-Feelings]]
 - [[Metacognitive-Monitoring]]
 - [[Monitoring-Control-Coupling]]
-- [[Motivational-Regulation]]
-- [[Performance-Phase]]
-- [[Phase-vs.-Area-A-Critical-Distinction]]
-- [[Pintrich's-44-Matrix]]
-- [[Pintrich's-Integrative-SRL-Framework]]
-- [[Pintrich's-Motivational-Integration]]
-- [[Recursive-Self-Authorship]]
-- [[Regulatory-Overhead]]
-- *...and 12 more permanent notes*
+- *...and 27 more permanent notes*

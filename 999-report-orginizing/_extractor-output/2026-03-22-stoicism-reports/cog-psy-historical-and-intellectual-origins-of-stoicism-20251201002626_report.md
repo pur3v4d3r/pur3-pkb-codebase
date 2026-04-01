@@ -146,7 +146,7 @@ extraction_summary:
 #### 1. [OVERVIEW] Untitled *(Line 41)*
 
 > [!overview] Untitled
-> - **Title**:: [[The Historical and Intellectual Origins of Stoicism]]
+> - **Title**:: [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 > - **Prompt/Topic Used**:: 
 > - **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -241,7 +241,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Hellenistic Philosophy's Common Ground**
 > 
-> Despite their profound differences, the three major Hellenistic schools—[[Stoicism]], [[Epicureanism]], and [[Academic Skepticism]]—shared certain features distinguishing them from classical Greek philosophy. All three were "dogmatic" in the technical sense (claiming to possess knowledge), except the Skeptics who suspended judgment. All three emphasized philosophy as a way of life aimed at *[[Eudaimonia]]*. All three developed systematic accounts spanning logic, physics, and ethics. And all three responded to the political instability of the Hellenistic age by focusing on what individuals could control regardless of external circumstances.
+> Despite their profound differences, the three major Hellenistic schools—[[Stoicism]], [[Epicureanism]], and [[Academic-Skepticism|Academic Skepticism]]—shared certain features distinguishing them from classical Greek philosophy. All three were "dogmatic" in the technical sense (claiming to possess knowledge), except the Skeptics who suspended judgment. All three emphasized philosophy as a way of life aimed at *[[Eudaimonia]]*. All three developed systematic accounts spanning logic, physics, and ethics. And all three responded to the political instability of the Hellenistic age by focusing on what individuals could control regardless of external circumstances.
 
 #### 15. [COUNTER-ARGUMENT] Untitled *(Line 255)*
 
@@ -262,7 +262,7 @@ extraction_summary:
 > [!example] Untitled
 > **The Paradox of the Wealthy Stoic**
 > 
-> [[Lucius Annaeus Seneca]] (c. 4 BCE-65 CE) embodied what critics saw as Stoicism's fundamental hypocrisy. He preached indifference to wealth while accumulating one of the largest fortunes in Rome. He wrote eloquently about withdrawing from political turmoil while serving as advisor and speech-writer to the emperor Nero. He advocated freedom from passion while his tragedies depicted violent emotion in lurid detail. His enemies mocked him as a hypocritical moralist who couldn't practice what he preached.
+> [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]] (c. 4 BCE-65 CE) embodied what critics saw as Stoicism's fundamental hypocrisy. He preached indifference to wealth while accumulating one of the largest fortunes in Rome. He wrote eloquently about withdrawing from political turmoil while serving as advisor and speech-writer to the emperor Nero. He advocated freedom from passion while his tragedies depicted violent emotion in lurid detail. His enemies mocked him as a hypocritical moralist who couldn't practice what he preached.
 
 #### 18. [KEY-CLAIM] Untitled *(Line 318)*
 
@@ -348,13 +348,13 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[-our-perceptions-shape-our-suffering-202512010031]]
-- [[Academic Skepticism]]
+- [[our-perceptions-shape-our-suffering-202512010031|-our-perceptions-shape-our-suffering-202512010031]]
+- [[Academic-Skepticism|Academic Skepticism]]
 - [[Academic Skeptics]]
 - [[Academy]]
 - [[Antisthenes]]
 - [[Arcesilaus]]
-- [[Aristotelian thought]]
+- [[Aristotelian-thought|Aristotelian thought]]
 - [[Aristotle]]
 - [[Arrian]]
 - [[Carneades]]
@@ -370,7 +370,7 @@ extraction_summary:
 - [[Cynic lifestyle]]
 - [[Cynic philosopher]]
 - [[Cynic philosophy]]
-- [[Cynic school]]
+- [[Cynic-school|Cynic school]]
 - [[Cynicism]]
 - [[Diadochi]]
 - [[Diogenes Laertius]]
@@ -384,11 +384,11 @@ extraction_summary:
 - [[Epistulae Morales ad Lucilium]]
 - [[Gaius Musonius Rufus]]
 - [[Garden]]
-- [[Hellenistic period]]
+- [[Hellenistic-period|Hellenistic period]]
 - [[Hymn to Zeus]]
 - [[Learning Theory]]
 - [[Logos]]
-- [[Lucius Annaeus Seneca]]
+- [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]]
 - [[Lyceum]]
 - [[Marcomannic Wars]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
@@ -400,7 +400,7 @@ extraction_summary:
 - [[Philosophy of Language]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Plato]]
-- [[Platonic philosophy]]
+- [[Platonic-philosophy|Platonic philosophy]]
 - [[Political-Philosophy|Political Philosophy]]
 - [[Posidonius]]
 - [[Posidonius of Apamea]]
@@ -418,7 +418,7 @@ extraction_summary:
 - [[Stoicism]]
 - [[Systems Thinking]]
 - [[Tacitus]]
-- [[The Historical and Intellectual Origins of Stoicism]]
+- [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 - [[The Stoic Theory of Passions and Therapy]]
 - [[Virtue-Ethics|Virtue Ethics]]
 - [[Apatheia]]
@@ -443,12 +443,12 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[-our-perceptions-shape-our-suffering-202512010031]] | — | — | The Historical and Intellectual Origi... | 39 |
-| 2 | [[The Historical and Intellectual Origins of Stoicism]] | — | — | The Historical and Intellectual Origi... | 42 |
+| 1 | [[our-perceptions-shape-our-suffering-202512010031|-our-perceptions-shape-our-suffering-202512010031]] | — | — | The Historical and Intellectual Origi... | 39 |
+| 2 | [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]] | — | — | The Historical and Intellectual Origi... | 42 |
 | 3 | [[Stoicism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 180 |
-| 4 | [[Hellenistic period]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
-| 5 | [[Platonic philosophy]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
-| 6 | [[Aristotelian thought]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
+| 4 | [[Hellenistic-period|Hellenistic period]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
+| 5 | [[Platonic-philosophy|Platonic philosophy]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
+| 6 | [[Aristotelian-thought|Aristotelian thought]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
 | 7 | [[polis]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
 | 8 | [[Diadochi]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 182 |
 | 9 | [[Plato]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
@@ -456,10 +456,10 @@ extraction_summary:
 | 11 | [[Eudaimonia]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 12 | [[Stoicism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 13 | [[Epicureanism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
-| 14 | [[Academic Skepticism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
+| 14 | [[Academic-Skepticism|Academic Skepticism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 184 |
 | 15 | [[Academy]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 186 |
 | 16 | [[Lyceum]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 186 |
-| 17 | [[Cynic school]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 186 |
+| 17 | [[Cynic-school|Cynic school]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 186 |
 | 18 | [[Garden]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 186 |
 | 19 | [[Crates of Thebes]] | — | — | Zeno of Citium: The Shipwrecked Merch... | 195 |
 | 20 | [[Cynic philosopher]] | — | — | Zeno of Citium: The Shipwrecked Merch... | 195 |
@@ -486,7 +486,7 @@ extraction_summary:
 | 41 | [[Apatheia]] | — | — | Chrysippus: "Without Him, There Would... | 236 |
 | 42 | [[Stoicism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
 | 43 | [[Epicureanism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
-| 44 | [[Academic Skepticism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
+| 44 | [[Academic-Skepticism|Academic Skepticism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
 | 45 | [[Eudaimonia]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 243 |
 | 46 | [[Stoicism]] | — | — | Stoicism and Epicureanism: Rival Visi... | 247 |
 | 47 | [[Epicureanism]] | — | — | Stoicism and Epicureanism: Rival Visi... | 247 |
@@ -509,7 +509,7 @@ extraction_summary:
 | 64 | [[Panaetius]] | — | — | 🌉 The Middle Stoa: Roman Influence an... | 291 |
 | 65 | [[Scipionic Circle]] | — | — | 🌉 The Middle Stoa: Roman Influence an... | 291 |
 | 66 | [[Posidonius]] | — | — | 🌉 The Middle Stoa: Roman Influence an... | 293 |
-| 67 | [[Lucius Annaeus Seneca]] | — | — | Seneca the Younger: Wealth, Power, an... | 306 |
+| 67 | [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]] | — | — | Seneca the Younger: Wealth, Power, an... | 306 |
 | 68 | [[Epistulae Morales ad Lucilium]] | — | — | Seneca the Younger: Wealth, Power, an... | 310 |
 | 69 | [[Tacitus]] | — | — | Seneca the Younger: Wealth, Power, an... | 314 |
 | 70 | [[Epictetus]] | — | — | Epictetus: From Slavery to Teaching | 321 |
@@ -661,13 +661,13 @@ LIMIT 15
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[-our-perceptions-shape-our-suffering-202512010031]]
-- [[Academic Skepticism]]
+- [[our-perceptions-shape-our-suffering-202512010031|-our-perceptions-shape-our-suffering-202512010031]]
+- [[Academic-Skepticism|Academic Skepticism]]
 - [[Academic Skeptics]]
 - [[Academy]]
 - [[Antisthenes]]
 - [[Arcesilaus]]
-- [[Aristotelian thought]]
+- [[Aristotelian-thought|Aristotelian thought]]
 - [[Aristotle]]
 - [[Arrian]]
 - [[Carneades]]
@@ -683,7 +683,7 @@ LIMIT 15
 - [[Cynic lifestyle]]
 - [[Cynic philosopher]]
 - [[Cynic philosophy]]
-- [[Cynic school]]
+- [[Cynic-school|Cynic school]]
 - [[Cynicism]]
 - [[Diadochi]]
 - [[Diogenes Laertius]]
@@ -697,11 +697,11 @@ LIMIT 15
 - [[Epistulae Morales ad Lucilium]]
 - [[Gaius Musonius Rufus]]
 - [[Garden]]
-- [[Hellenistic period]]
+- [[Hellenistic-period|Hellenistic period]]
 - [[Hymn to Zeus]]
 - [[Learning Theory]]
 - [[Logos]]
-- [[Lucius Annaeus Seneca]]
+- [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]]
 - [[Lyceum]]
 - [[Marcomannic Wars]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
@@ -713,7 +713,7 @@ LIMIT 15
 - [[Philosophy of Language]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Plato]]
-- [[Platonic philosophy]]
+- [[Platonic-philosophy|Platonic philosophy]]
 - [[Political-Philosophy|Political Philosophy]]
 - [[Posidonius]]
 - [[Posidonius of Apamea]]
@@ -731,7 +731,7 @@ LIMIT 15
 - [[Stoicism]]
 - [[Systems Thinking]]
 - [[Tacitus]]
-- [[The Historical and Intellectual Origins of Stoicism]]
+- [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 - [[The Stoic Theory of Passions and Therapy]]
 - [[Virtue-Ethics|Virtue Ethics]]
 - [[Apatheia]]

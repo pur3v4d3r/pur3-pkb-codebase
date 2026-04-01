@@ -566,14 +566,14 @@ extraction_summary:
 - [[Decision Frameworks]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Economic Cycles]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive-Function|Executive Function]]
 - [[Forcing Functions]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Implementation Intentions and Prospective Memory in Knowledge Systems]]
 - [[Industry Disruption Events]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Interview Performance Optimization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Job Market Conditions]]
@@ -588,7 +588,7 @@ extraction_summary:
 - [[Others' Hiring Decisions]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Portfolio Building]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Preference Communication Strategy]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Assignments]]
@@ -636,7 +636,7 @@ extraction_summary:
 | 16 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Claude Thinking: | 132 |
 | 17 | [[Prospective Memory]] | — | — | Claude Thinking: | 133 |
 | 18 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 134 |
-| 19 | [[Emotional Regulation]] | — | — | Claude Thinking: | 135 |
+| 19 | [[Emotional-Regulation|Emotional Regulation]] | — | — | Claude Thinking: | 135 |
 | 20 | [[Epictetus]] | — | — | Claude Thinking: | 136 |
 | 21 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 137 |
 | 22 | [[Julian Rotter]] | — | — | Claude Thinking: | 138 |
@@ -647,7 +647,7 @@ extraction_summary:
 | 27 | [[Decision Frameworks]] | — | — | Claude Thinking: | 143 |
 | 28 | [[Rational Assessment]] | — | — | Claude Thinking: | 144 |
 | 29 | [[Action Possibilities]] | — | — | Claude Thinking: | 145 |
-| 30 | [[Pragmatism]] | — | — | Claude Thinking: | 146 |
+| 30 | [[pragmatism]] | — | — | Claude Thinking: | 146 |
 | 31 | [[Constructivism]] | — | — | Claude Thinking: | 147 |
 | 32 | [[Stoic]] | — | — | Claude Thinking: | 226 |
 | 33 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 226 |
@@ -669,7 +669,7 @@ extraction_summary:
 | 49 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 50 | [[Seneca]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 51 | [[Cognitive-Load|Cognitive Load]] | cognitive resources | — | 📜 Historical Foundations: The Stoic O... | 232 |
-| 52 | [[Emotional Regulation]] | emotional responses | — | 📜 Historical Foundations: The Stoic O... | 232 |
+| 52 | [[Emotional-Regulation|Emotional Regulation]] | emotional responses | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 53 | [[Agency]] | psychological agency | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 54 | [[Albert Ellis]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 55 | [[Aaron Beck]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
@@ -693,7 +693,7 @@ extraction_summary:
 | 73 | [[Executive-Function|Executive Function]] | — | — | Self-Regulation: Executive Function a... | 280 |
 | 74 | [[Cognitive-Load|Cognitive Load]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 75 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
-| 76 | [[Information Theory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
+| 76 | [[Information-Theory|Information Theory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 77 | [[Metacognitive]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 78 | [[John-Sweller|John Sweller]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 79 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
@@ -743,7 +743,7 @@ extraction_summary:
 | 123 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Theory Implementation | 500 |
 | 124 | [[Metacognitive]] | — | — | Metacognition as Integrating Architec... | 506 |
 | 125 | [[Metacognition]] | — | — | Metacognition as Integrating Architec... | 511 |
-| 126 | [[Pragmatism]] | pragmatist | — | Pragmatist Methodology Bridge | 523 |
+| 126 | [[pragmatism]] | pragmatist | — | Pragmatist Methodology Bridge | 523 |
 | 127 | [[Constructivism]] | constructivist | — | Pragmatist Methodology Bridge | 525 |
 | 128 | [[Andragogy]] | — | — | Pragmatist Methodology Bridge | 525 |
 | 129 | [[Relevant Goal Note]] | — | — | Design Principle 3: Action-Possibilit... | 584 |
@@ -941,14 +941,14 @@ extraction_summary:
 - [[Decision Frameworks]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Economic Cycles]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive-Function|Executive Function]]
 - [[Forcing Functions]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Implementation Intentions and Prospective Memory in Knowledge Systems]]
 - [[Industry Disruption Events]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Interview Performance Optimization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Job Market Conditions]]
@@ -963,7 +963,7 @@ extraction_summary:
 - [[Others' Hiring Decisions]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Portfolio Building]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Preference Communication Strategy]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Assignments]]

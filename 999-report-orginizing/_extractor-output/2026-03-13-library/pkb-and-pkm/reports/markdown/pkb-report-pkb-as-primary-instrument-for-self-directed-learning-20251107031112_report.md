@@ -149,7 +149,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **System Boundary:**
->       - The boundary of the PKB system encompasses *everything* from the moment you decide to capture an idea through to the moment that idea influences your thinking or actions in the world. This includes the physical and digital tools you use (note-taking applications like [[Obsidian]], [[Notion]], or [[Roam Research]]), the **processes** you follow (capture, organize, distill, express—often called the **[[PARA Method|CODE]]** cycle), and most critically, the **mental habits** of reflection, connection-making, and review. What lies *outside* the system's boundary is the external world of information sources (books, lectures, conversations) and the downstream applications of your knowledge (writing projects, decisions, creative work). The PKB sits as a mediator between these two domains.
+>       - The boundary of the PKB system encompasses *everything* from the moment you decide to capture an idea through to the moment that idea influences your thinking or actions in the world. This includes the physical and digital tools you use (note-taking applications like [[Obsidian]], [[Notion]], or [[Roam Research]]), the **processes** you follow (capture, organize, distill, express—often called the **[[PARA-Method|CODE]]** cycle), and most critically, the **mental habits** of reflection, connection-making, and review. What lies *outside* the system's boundary is the external world of information sources (books, lectures, conversations) and the downstream applications of your knowledge (writing projects, decisions, creative work). The PKB sits as a mediator between these two domains.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 51)*
 
@@ -189,7 +189,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > - **Emergent Behavior 1: Serendipitous Insight Generation**
->   	  - The most celebrated emergent property of a mature PKB is what practitioners call **[[Serendipity|serendipitous insight]]**—the spontaneous recognition of patterns or connections that were not deliberately sought. You search for a note on [[Compound Interest]] for a finance project, and in the process, you stumble upon an old note about [[Habit-Formation|Habit Formation]]. Suddenly, you see the connection: habits compound like financial interest—small daily behaviors, repeated consistently, yield exponential results over time. This insight was not "contained" in either note individually; it *emerged* from the juxtaposition enabled by the system's structure. This emergent behavior arises from the interaction between the **Insight Compounding Loop** (which creates a dense network of connections) and the **Retrieval Practice Loop** (which surfaces notes during search). The denser the network, and the more frequently you traverse it, the higher the probability of serendipitous encounters.
+>   	  - The most celebrated emergent property of a mature PKB is what practitioners call **[[Serendipity|serendipitous insight]]**—the spontaneous recognition of patterns or connections that were not deliberately sought. You search for a note on [[Compound-Interest|Compound Interest]] for a finance project, and in the process, you stumble upon an old note about [[Habit-Formation|Habit Formation]]. Suddenly, you see the connection: habits compound like financial interest—small daily behaviors, repeated consistently, yield exponential results over time. This insight was not "contained" in either note individually; it *emerged* from the juxtaposition enabled by the system's structure. This emergent behavior arises from the interaction between the **Insight Compounding Loop** (which creates a dense network of connections) and the **Retrieval Practice Loop** (which surfaces notes during search). The denser the network, and the more frequently you traverse it, the higher the probability of serendipitous encounters.
 
 #### 14. [INSIGHT] Untitled *(Line 125)*
 
@@ -201,7 +201,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > - **Emergent Behavior 3: Personalized Epistemology**
->   	  - A third, more subtle emergent property is the development of a **[[epistemology|personalized epistemology]]**—a unique way of knowing and structuring knowledge that reflects *your* cognitive style, interests, and values. No two mature PKBs are alike, even if they use the same tools and methods, because the system co-evolves with the user. Your choice of what to capture, how to phrase notes, which connections to make, and which areas to develop reflects *your* thinking. Over time, the PKB becomes a mirror—not just of *what* you know, but of *how* you think. This emergent behavior arises from the cumulative effect of thousands of micro-decisions made within the loops. It is the PKB's "personality."
+>   	  - A third, more subtle emergent property is the development of a **[[Epistemology|personalized epistemology]]**—a unique way of knowing and structuring knowledge that reflects *your* cognitive style, interests, and values. No two mature PKBs are alike, even if they use the same tools and methods, because the system co-evolves with the user. Your choice of what to capture, how to phrase notes, which connections to make, and which areas to develop reflects *your* thinking. Over time, the PKB becomes a mirror—not just of *what* you know, but of *how* you think. This emergent behavior arises from the cumulative effect of thousands of micro-decisions made within the loops. It is the PKB's "personality."
 
 #### 16. [QUOTE] Untitled *(Line 133)*
 
@@ -315,7 +315,7 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Regulation Loop]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Connections]]
 - [[Consolidation]]
 - [[Donella Meadows]]
@@ -336,7 +336,7 @@ extraction_summary:
 - [[Niklas Luhmann]]
 - [[Note Creation]]
 - [[Notion]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Pruning]]
@@ -380,7 +380,7 @@ extraction_summary:
 | 14 | [[Obsidian]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 15 | [[Notion]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 16 | [[Roam Research]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
-| 17 | [[PARA Method]] | CODE | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
+| 17 | [[PARA-Method|PARA Method]] | CODE | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 18 | [[Atomic-Notes|Atomic Notes]] | Notes | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 19 | [[Zettelkasten Method]] | Zettelkasten | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 20 | [[Connections]] | Links | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
@@ -410,7 +410,7 @@ extraction_summary:
 | 44 | [[Pruning]] | deletion | — | 2.2 📉 Balancing Loops (The "Constrain... | 113 |
 | 45 | [[Archiving]] | archiving | — | 2.2 📉 Balancing Loops (The "Constrain... | 113 |
 | 46 | [[Serendipity]] | serendipitous insight | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
-| 47 | [[Compound Interest]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
+| 47 | [[Compound-Interest|Compound Interest]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
 | 48 | [[Habit-Formation|Habit Formation]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
 | 49 | [[Tiago Forte]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 127 |
 | 50 | [[Sönke Ahrens]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 127 |
@@ -535,7 +535,7 @@ Let me break down what I need to do:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Regulation Loop]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Connections]]
 - [[Consolidation]]
 - [[Donella Meadows]]
@@ -556,7 +556,7 @@ Let me break down what I need to do:
 - [[Niklas Luhmann]]
 - [[Note Creation]]
 - [[Notion]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Pruning]]

@@ -161,13 +161,13 @@ extraction_summary:
 > [!pre-read-questions] Untitled
 > - How does the Stoic division between "what is up to us" and "what is not up to us" function as a foundational metacognitive strategy for behavioral self-regulation?
 > - In what specific ways do ancient Stoic principles map onto modern psychological constructs such as [[internal locus of control]], [[Cognitive-Reappraisal|Cognitive Reappraisal]], and [[Self-Determination-Theory|Self-Determination Theory]]?
-> - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[Emotional Regulation]], and sustained [[motivation]]?
+> - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[Emotional-Regulation|Emotional Regulation]], and sustained [[motivation]]?
 > - How does the practice of systematically categorizing life experiences through the lens of personal agency versus external circumstances reshape neural processing patterns and behavioral responses?
 
 #### 3. [ABSTRACT] Untitled *(Line 36)*
 
 > [!abstract] Untitled
-> This article presents a rigorous academic analysis of the [[Stoic Dichotomy of Control]]—the philosophical principle dividing reality into elements within personal control (prohairesis) and those beyond it—as a foundational metacognitive framework for enhancing self-behavioral management, psychological resilience, and motivational fortitude. Drawing from both classical Stoic texts and contemporary psychological research, we demonstrate that this ancient distinction functions as a sophisticated cognitive architecture for [[Emotional Regulation]], [[Self-Regulation-Theory]], and adaptive coping.
+> This article presents a rigorous academic analysis of the [[Stoic Dichotomy of Control]]—the philosophical principle dividing reality into elements within personal control (prohairesis) and those beyond it—as a foundational metacognitive framework for enhancing self-behavioral management, psychological resilience, and motivational fortitude. Drawing from both classical Stoic texts and contemporary psychological research, we demonstrate that this ancient distinction functions as a sophisticated cognitive architecture for [[Emotional-Regulation|Emotional Regulation]], [[Self-Regulation-Theory]], and adaptive coping.
 > 
 > The analysis establishes that the Dichotomy of Control operates through multiple psychological mechanisms: it recalibrates [[attentional focus]] toward agentic domains, restructures [[causal attributions]] to emphasize internal locus of control, facilitates [[Cognitive-Reappraisal|Cognitive Reappraisal]] of adverse events, and promotes values-aligned action independent of outcome contingencies. Contemporary empirical research from [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] (CBT), [[Metacognition]] studies, resilience science, and [[Self-Determination-Theory|Self-Determination Theory]] converges to validate the psychological efficacy of this Stoic framework. We examine how systematic application of this principle enhances [[metacognitive-awareness|metacognitive awareness]], strengthens behavioral persistence, reduces maladaptive emotional reactivity, and cultivates what modern psychology terms "[[hardiness]]" or psychological resilience.
 > 
@@ -447,7 +447,7 @@ extraction_summary:
 - [[Cognitive Neuroscience of Self-Regulation]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Internal Locus of Control]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
@@ -469,7 +469,7 @@ extraction_summary:
 - [[cognitive reframing]]
 - [[cognitive schema]]
 - [[Contingent-Self-Worth|contingent self-worth]]
-- [[fundamental attribution error]]
+- [[Fundamental-Attribution-Error|fundamental attribution error]]
 - [[grit]]
 - [[hardiness]]
 - [[internal locus of control]]
@@ -496,10 +496,10 @@ extraction_summary:
 | 2 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Document Start | 30 |
 | 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 30 |
 | 4 | [[Psychological Resilience]] | — | — | Document Start | 31 |
-| 5 | [[Emotional Regulation]] | — | — | Document Start | 31 |
+| 5 | [[Emotional-Regulation|Emotional Regulation]] | — | — | Document Start | 31 |
 | 6 | [[motivation]] | — | — | Document Start | 31 |
 | 7 | [[Stoic Dichotomy of Control]] | — | — | Document Start | 37 |
-| 8 | [[Emotional Regulation]] | — | — | Document Start | 37 |
+| 8 | [[Emotional-Regulation|Emotional Regulation]] | — | — | Document Start | 37 |
 | 9 | [[Self-Regulation-Theory]] | — | — | Document Start | 37 |
 | 10 | [[attentional focus]] | — | — | Document Start | 39 |
 | 11 | [[causal attributions]] | — | — | Document Start | 39 |
@@ -541,7 +541,7 @@ extraction_summary:
 | 47 | [[regulatory focus]] | — | — | 3.1 ⚛️ Foundational Principles | 202 |
 | 48 | [[Metacognition]] | — | — | 3.1 ⚛️ Foundational Principles | 206 |
 | 49 | [[cognitive appraisal]] | — | — | 4.1 The Cognitive Appraisal Cascade | 216 |
-| 50 | [[fundamental attribution error]] | — | — | 4.1 The Cognitive Appraisal Cascade | 238 |
+| 50 | [[Fundamental-Attribution-Error|fundamental attribution error]] | — | — | 4.1 The Cognitive Appraisal Cascade | 238 |
 | 51 | [[Contingent-Self-Worth|contingent self-worth]] | — | — | 4.1 The Cognitive Appraisal Cascade | 244 |
 | 52 | [[cognitive distancing technique]] | — | — | 4.2 Emotional Regulation Through Cogn... | 254 |
 | 53 | [[grit]] | — | — | 4.3 Behavioral Persistence and Grit | 266 |
@@ -677,7 +677,7 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 - [[Cognitive Neuroscience of Self-Regulation]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Internal Locus of Control]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
@@ -699,7 +699,7 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 - [[cognitive reframing]]
 - [[cognitive schema]]
 - [[Contingent-Self-Worth|contingent self-worth]]
-- [[fundamental attribution error]]
+- [[Fundamental-Attribution-Error|fundamental attribution error]]
 - [[grit]]
 - [[hardiness]]
 - [[internal locus of control]]

@@ -339,7 +339,7 @@ extraction_summary:
 > - [[Markdown]]
 > - [[Obsidian]]
 > - [[Task-Management|Task Management]]
-> - [[GTD (Getting Things Done)]]
+> - [[GTD|GTD (Getting Things Done)]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[CSS Snippets]]
 > - [[Obsidian Plugins]]
@@ -629,7 +629,7 @@ extraction_summary:
 - [[Finite State Machine]]
 - [[Font Awesome]]
 - [[GTD]]
-- [[GTD (Getting Things Done)]]
+- [[GTD|GTD (Getting Things Done)]]
 - [[GitHub]]
 - [[HTML]]
 - [[Heroicons]]
@@ -683,7 +683,7 @@ extraction_summary:
 | 2 | [[Markdown]] | — | — | Tags & Classification | 190 |
 | 3 | [[Obsidian]] | — | — | Tags & Classification | 191 |
 | 4 | [[Task-Management|Task Management]] | — | — | Tags & Classification | 192 |
-| 5 | [[GTD (Getting Things Done)]] | — | — | Tags & Classification | 193 |
+| 5 | [[GTD|GTD (Getting Things Done)]] | — | — | Tags & Classification | 193 |
 | 6 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Tags & Classification | 194 |
 | 7 | [[CSS Snippets]] | — | — | Tags & Classification | 195 |
 | 8 | [[Obsidian Plugins]] | — | — | Tags & Classification | 196 |
@@ -1775,7 +1775,7 @@ stateDiagram-v2
 - [[Finite State Machine]]
 - [[Font Awesome]]
 - [[GTD]]
-- [[GTD (Getting Things Done)]]
+- [[GTD|GTD (Getting Things Done)]]
 - [[GitHub]]
 - [[HTML]]
 - [[Heroicons]]

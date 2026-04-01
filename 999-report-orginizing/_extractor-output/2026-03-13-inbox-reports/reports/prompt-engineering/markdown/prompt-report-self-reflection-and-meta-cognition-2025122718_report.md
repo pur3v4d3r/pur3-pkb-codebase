@@ -399,7 +399,7 @@ extraction_summary:
 - [[Capability Limitations in Self-Improving Systems]]
 - [[Capability ceilings]]
 - [[Chain-of-Verification]]
-- [[Chain-of-Verification (CoVe)]]
+- [[Chain-of-Verification|Chain-of-Verification (CoVe)]]
 - [[Confabulated Reflections]]
 - [[Constitutional-AI|Constitutional AI]]
 - [[Constitutional-AI|Constitutional AI (CAI)]]
@@ -451,7 +451,7 @@ extraction_summary:
 | 18 | [[Bai et al. (2022)]] | — | — | 3.2 Constitutional AI: Self-Critique ... | 390 |
 | 19 | [[Self-Refine]] | — | — | 3.3 Self-Refine: Iterative Refinement... | 394 |
 | 20 | [[Madaan et al. (2023)]] | — | — | 3.3 Self-Refine: Iterative Refinement... | 394 |
-| 21 | [[Chain-of-Verification (CoVe)]] | — | — | 3.4 Chain-of-Verification: Targeted S... | 435 |
+| 21 | [[Chain-of-Verification|Chain-of-Verification (CoVe)]] | — | — | 3.4 Chain-of-Verification: Targeted S... | 435 |
 | 22 | [[Dhuliawala et al. (2023)]] | — | — | 3.4 Chain-of-Verification: Targeted S... | 435 |
 | 23 | [[DSPy]] | — | — | 4.2 DSPy: Declarative Prompt Programming | 455 |
 | 24 | [[Stanford NLP Group]] | — | — | 4.2 DSPy: Declarative Prompt Programming | 455 |
@@ -1087,7 +1087,7 @@ flowchart TB
 - [[Capability Limitations in Self-Improving Systems]]
 - [[Capability ceilings]]
 - [[Chain-of-Verification]]
-- [[Chain-of-Verification (CoVe)]]
+- [[Chain-of-Verification|Chain-of-Verification (CoVe)]]
 - [[Confabulated Reflections]]
 - [[Constitutional-AI|Constitutional AI]]
 - [[Constitutional-AI|Constitutional AI (CAI)]]

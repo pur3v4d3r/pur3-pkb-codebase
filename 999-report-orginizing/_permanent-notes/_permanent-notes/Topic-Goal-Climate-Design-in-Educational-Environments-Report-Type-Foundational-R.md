@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 11
+referenced-by-count: 10
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Attribution-Theory]]"
   - "[[Dissolved-Assumption]]"
   - "[[Entity-Theory-of-Intelligence]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Incremental-Theory-of-Intelligence]]"
   - "[[Mastery-Experience]]"
   - "[[Mindset-Intervention]]"
+  - "[[Self-Efficacy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # Topic-Goal-Climate-Design-in-Educational-Environments-Report-Type-Foundational-R
 
 > [!definition] **Topic-Goal-Climate-Design-in-Educational-Environments-Report-Type-Foundational-R**
-> *Stub note — concept referenced by 11 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 11 permanent notes.*
+*Auto-generated stub — referenced by 10 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Attribution-Theory]]
 - [[Dissolved-Assumption]]
 - [[Entity-Theory-of-Intelligence]]

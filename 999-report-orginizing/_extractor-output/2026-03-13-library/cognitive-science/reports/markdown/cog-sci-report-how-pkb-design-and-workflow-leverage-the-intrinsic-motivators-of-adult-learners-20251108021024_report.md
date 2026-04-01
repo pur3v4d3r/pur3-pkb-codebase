@@ -313,7 +313,7 @@ extraction_summary:
 - [[Digital Gardens and Public Learning]]
 - [[Edward-Deci|Edward Deci]]
 - [[Flow-Theory|Flow Theory]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Graceful Degradation]]
 - [[Habit Formation and Behavioral Design]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
@@ -385,7 +385,7 @@ extraction_summary:
 | 39 | [[Graceful Degradation]] | — | — | Principle One: Honor Autonomy Through... | 194 |
 | 40 | [[Progressive Enhancement]] | — | — | Principle Seven: Embrace Progressive ... | 258 |
 | 41 | [[David Allen]] | — | — | The Capture-Develop-Review Cycle | 268 |
-| 42 | [[Getting Things Done]] | — | — | The Capture-Develop-Review Cycle | 268 |
+| 42 | [[Getting-Things-Done|Getting Things Done]] | — | — | The Capture-Develop-Review Cycle | 268 |
 | 43 | [[Obsidian]] | — | — | Social Practices: Learning From Commu... | 288 |
 | 44 | [[Roam Research]] | — | — | Social Practices: Learning From Commu... | 288 |
 | 45 | [[Logseq]] | — | — | Social Practices: Learning From Commu... | 288 |
@@ -500,7 +500,7 @@ I'll conduct comprehensive research on the psychological foundations of PKB desi
 - [[Digital Gardens and Public Learning]]
 - [[Edward-Deci|Edward Deci]]
 - [[Flow-Theory|Flow Theory]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Graceful Degradation]]
 - [[Habit Formation and Behavioral Design]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]

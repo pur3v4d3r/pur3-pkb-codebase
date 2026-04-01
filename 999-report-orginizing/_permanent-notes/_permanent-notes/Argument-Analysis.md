@@ -24,21 +24,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 15
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Assumptions]]"
   - "[[Cognitive-Psychological-Conceptualization]]"
   - "[[Concepts]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Implications-and-Consequences]]"
   - "[[Interpretation-and-Inference]]"
   - "[[Knowledge-of-Cognition]]"
+  - "[[PENCRISAL-Framework]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: medium
 # Argument-Analysis
 
 > [!definition] **Argument-Analysis**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 15 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Assumptions]]
 - [[Cognitive-Psychological-Conceptualization]]
 - [[Concepts]]

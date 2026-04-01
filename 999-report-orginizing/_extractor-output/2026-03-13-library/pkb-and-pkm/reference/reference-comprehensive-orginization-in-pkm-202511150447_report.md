@@ -253,7 +253,7 @@ extraction_summary:
 #### 11. [DEFINITION] Untitled *(Line 162)*
 
 > [!definition] Untitled
-> - **[[para method]]**: A universal framework organizing information into Projects, Areas, Resources, and Archives based on actionability
+> - **[[PARA-Method|para method]]**: A universal framework organizing information into Projects, Areas, Resources, and Archives based on actionability
 > - **[[Zettelkasten]]**: A note-taking methodology emphasizing atomic notes, organic linking, and emergent structure
 > - **[[Johnny Decimal]]**: A numerical organizational system providing unambiguous locations for information
 
@@ -285,7 +285,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **Vault**: The root folder containing all Obsidian notes and configuration
-> - **[[Wiki-Link]]**: Internal link syntax using [[double brackets]] to connect notes
+> - **[[wiki-link]]**: Internal link syntax using [[double brackets]] to connect notes
 > - **[[Frontmatter]]**: YAML metadata at the beginning of notes specifying properties
 
 #### 16. [HELPFUL-TIP] Untitled *(Line 282)*
@@ -537,19 +537,19 @@ extraction_summary:
 - [[Note Title]]
 - [[Periodic Notes]]
 - [[Personal Knowledge Bases]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Related Note 1]]
 - [[Related Note 2]]
 - [[Related Note 3]]
 - [[schemas]]
 - [[Taxonomy]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[wiki-links]]
 - [[Zettelkasten]]
 - [[double bracket syntax]]
 - [[double brackets]]
 - [[Obsidian]]
-- [[para method]]
+- [[PARA-Method|para method]]
 
 ### All Occurrences
 
@@ -565,14 +565,14 @@ extraction_summary:
 | 8 | [[wiki-links]] | — | — | Technical Specifications of Organizat... | 95 |
 | 9 | [[Mental frameworks]] | — | — | 2. 🧠 Cognitive Principles Underlying ... | 104 |
 | 10 | [[Chunking]] | — | — | Working Memory and Organizational Sca... | 124 |
-| 11 | [[para method]] | — | — | 3. 🎯 Organizational Frameworks & Meth... | 163 |
+| 11 | [[PARA-Method|para method]] | — | — | 3. 🎯 Organizational Frameworks & Meth... | 163 |
 | 12 | [[Zettelkasten]] | — | — | 3. 🎯 Organizational Frameworks & Meth... | 164 |
 | 13 | [[Johnny Decimal]] | — | — | 3. 🎯 Organizational Frameworks & Meth... | 165 |
 | 14 | [[Johnny Decimal]] | — | — | Other Organizational Methodologies | 235 |
 | 15 | [[LATCH]] | — | — | Other Organizational Methodologies | 236 |
 | 16 | [[Access-Based Organization]] | — | — | Other Organizational Methodologies | 237 |
 | 17 | [[Periodic Notes]] | — | — | Other Organizational Methodologies | 238 |
-| 18 | [[Wiki-Link]] | — | — | 4. 🏛️ Obsidian-Specific Organizationa... | 246 |
+| 18 | [[wiki-link]] | — | — | 4. 🏛️ Obsidian-Specific Organizationa... | 246 |
 | 19 | [[double brackets]] | — | — | 4. 🏛️ Obsidian-Specific Organizationa... | 246 |
 | 20 | [[Frontmatter]] | — | — | 4. 🏛️ Obsidian-Specific Organizationa... | 247 |
 | 21 | [[double bracket syntax]] | — | — | The Three Pillars of Obsidian Organiz... | 318 |
@@ -587,9 +587,9 @@ extraction_summary:
 | 30 | [[Adjacent Topic MOC]] | — | — | Related MOCs | 363 |
 | 31 | [[Taxonomy]] | — | — | 5. 🏷️ Metadata Systems & Schemas | 397 |
 | 32 | [[Folksonomy]] | — | — | 5. 🏷️ Metadata Systems & Schemas | 398 |
-| 33 | [[Project Name]] | — | — | Metadata Architecture in Knowledge Ma... | 425 |
+| 33 | [[Project-Name|Project Name]] | — | — | Metadata Architecture in Knowledge Ma... | 425 |
 | 34 | [[Area of Responsibility]] | — | — | Metadata Architecture in Knowledge Ma... | 426 |
-| 35 | [[Wiki-Link]] | — | — | Link Types and Semantic Relationships | 595 |
+| 35 | [[wiki-link]] | — | — | Link Types and Semantic Relationships | 595 |
 | 36 | [[schemas]] | — | — | Cognitive Models for Understanding Or... | 1206 |
 | 37 | [[Advanced Dataview Queries for Dynamic Organization]] | — | — | 🔗 Related Topics for PKB Expansion | 1289 |
 | 38 | [[Cognitive Load Theory Applied to Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1294 |
@@ -700,7 +700,7 @@ status: in-progress
 created: 2025-11-14
 modified: 2025-11-14
 author: Knowledge Worker Name
-project: [[Project Name]]
+project: [[Project-Name|Project Name]]
 area: [[Area of Responsibility]]
 ---
 ```
@@ -1037,7 +1037,7 @@ Depth requirement: HIGH - This is a foundational topic for the user's PKM master
 | --- | --- | --- | --- |
 | **Is-A** (Taxonomy) | "Democracy is-a form of government" | `#concept/government/democracy` | Categorical organization |
 | **Part-Of** (Mereology) | "Hippocampus part-of brain" | Nested MOC structure | Hierarchical knowledge |
-| **Relates-To** (Association) | "Memory relates-to learning" | Standard [[Wiki-Link]] | Horizontal connections |
+| **Relates-To** (Association) | "Memory relates-to learning" | Standard [[wiki-link]] | Horizontal connections |
 | **Cites** (Attribution) | "Smith 2020 cites Jones 2018" | Literature notes linking | Academic/research |
 | **Contradicts** (Dialectic) | "Theory A contradicts Theory B" | Inline context + link | Critical analysis |
 | **Extends** (Development) | "New research extends prior findings" | Chronological note linking | Knowledge evolution |
@@ -1121,19 +1121,19 @@ Depth requirement: HIGH - This is a foundational topic for the user's PKM master
 - [[Note Title]]
 - [[Periodic Notes]]
 - [[Personal Knowledge Bases]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Related Note 1]]
 - [[Related Note 2]]
 - [[Related Note 3]]
 - [[schemas]]
 - [[Taxonomy]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[wiki-links]]
 - [[Zettelkasten]]
 - [[double bracket syntax]]
 - [[double brackets]]
 - [[Obsidian]]
-- [[para method]]
+- [[PARA-Method|para method]]
 
 ---
 

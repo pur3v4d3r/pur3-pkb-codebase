@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 17
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Autonomous-Motivation-vs.-Controlled-Motivation]]"
   - "[[Challenge-Skill-Balance]]"
   - "[[Cognitive-Vitality]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Transient-Hypofrontality]]"
   - "[[📖-Autonomous-Motivation-vs.-Controlled-Motivation]]"
   - "[[📖-Challenge-Skill-Balance]]"
+  - "[[📖-Cognitive-Vitality]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # Howard-et-al.
 
 > [!definition] **Howard-et-al.**
-> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 17 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Autonomous-Motivation-vs.-Controlled-Motivation]]
 - [[Challenge-Skill-Balance]]
 - [[Cognitive-Vitality]]

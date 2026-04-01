@@ -5,6 +5,7 @@
 title: "Vygotsky's-Zone-of-Proximal-Development"
 aliases:
   - "Vygotsky's-Zone-of-Proximal-Development"
+  - "Vygotsky's Zone of Proximal Development"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,21 +24,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 17
+referenced-by-count: 16
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Desirable-Difficulties]]"
   - "[[Epistemic-Cognition]]"
   - "[[Integration]]"
@@ -47,6 +47,7 @@ see-also:
   - "[[Metacognitive-Knowledge]]"
   - "[[Metacognitive-Regulation]]"
   - "[[OIT's-Continuum-as-Motivational-Landscape]]"
+  - "[[Organismic-Integration-Tendency]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +60,12 @@ importance: medium
 # Vygotsky's-Zone-of-Proximal-Development
 
 > [!definition] **Vygotsky's-Zone-of-Proximal-Development**
-> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 17 permanent notes.*
+*Auto-generated stub — referenced by 16 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Desirable-Difficulties]]
 - [[Epistemic-Cognition]]
 - [[Integration]]

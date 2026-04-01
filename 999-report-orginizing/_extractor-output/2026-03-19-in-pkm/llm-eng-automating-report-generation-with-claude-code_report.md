@@ -268,7 +268,7 @@ extraction_summary:
 #### 28. [TOPIC-IDEA] Untitled *(Line 224)*
 
 > [!topic-idea] Untitled
-> **[[Report Quality Assurance in Autonomous Generation Pipelines]]** — Addressing the hallucination and consistency challenges in automated report generation through architectural mitigations: [[Chain of Verification]] applied to report claims, output validation schemas for structured report fields, human-in-the-loop checkpoints for high-stakes reports, and version control practices for detecting systematic drift in automated report quality over time.
+> **[[Report Quality Assurance in Autonomous Generation Pipelines]]** — Addressing the hallucination and consistency challenges in automated report generation through architectural mitigations: [[Chain-of-Verification|Chain of Verification]] applied to report claims, output validation schemas for structured report fields, human-in-the-loop checkpoints for high-stakes reports, and version control practices for detecting systematic drift in automated report quality over time.
 
 #### 29. [ASK-YOURSELF-THIS] Untitled *(Line 227)*
 
@@ -323,7 +323,7 @@ extraction_summary:
 - [[CI/CD Integration]]
 - [[CLAUDE.md]]
 - [[CLAUDE.md as Institutional Knowledge Architecture]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Claude-Code|Claude Code]]
 - [[Constitutional-AI|Constitutional AI]]
 - [[Cost Architecture for Claude Code Report Automation at Scale]]
@@ -395,7 +395,7 @@ extraction_summary:
 | 38 | [[Cost Architecture for Claude Code Report Automation at Scale]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 219 |
 | 39 | [[Event-Driven Reporting Systems with Claude Code Hooks]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 222 |
 | 40 | [[Report Quality Assurance in Autonomous Generation Pipelines]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 225 |
-| 41 | [[Chain of Verification]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 225 |
+| 41 | [[Chain-of-Verification|Chain of Verification]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 225 |
 | 42 | [[Agentic Workflow Design Patterns]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 228 |
 
 ---
@@ -488,7 +488,7 @@ Export to /reports/weekly/$(date +%Y-W%V).html
 - [[CI/CD Integration]]
 - [[CLAUDE.md]]
 - [[CLAUDE.md as Institutional Knowledge Architecture]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Claude-Code|Claude Code]]
 - [[Constitutional-AI|Constitutional AI]]
 - [[Cost Architecture for Claude Code Report Automation at Scale]]

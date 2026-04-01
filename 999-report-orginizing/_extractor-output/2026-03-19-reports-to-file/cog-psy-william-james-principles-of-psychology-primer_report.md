@@ -118,7 +118,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Summary *(Line 3)*
 
 > [!abstract] Executive Summary
-> This comprehensive primer prepares you for engaging with William James's twelve-hundred-page masterwork, *The Principles of Psychology* (1890)—widely considered the most important text in the history of modern psychology. The document provides historical context, maps the intellectual network that shaped James's thinking, explicates the four core theoretical pillars (stream of consciousness, emotion, habit, and will), and offers strategic guidance for navigating this dense but rewarding text. Particular attention is paid to connections with [[Pragmatism]], [[Functionalism]], and the foundations of modern [[Cognitive-Science|Cognitive Science]].
+> This comprehensive primer prepares you for engaging with William James's twelve-hundred-page masterwork, *The Principles of Psychology* (1890)—widely considered the most important text in the history of modern psychology. The document provides historical context, maps the intellectual network that shaped James's thinking, explicates the four core theoretical pillars (stream of consciousness, emotion, habit, and will), and offers strategic guidance for navigating this dense but rewarding text. Particular attention is paid to connections with [[pragmatism]], [[Functionalism]], and the foundations of modern [[Cognitive-Science|Cognitive Science]].
 
 #### 2. [KEY-CLAIM] Disciplinary Founding *(Line 18)*
 
@@ -201,7 +201,7 @@ extraction_summary:
 - [[Critical Thinking Deployment]]
 - [[Darwin]]
 - [[David-Hume|David Hume]]
-- [[Donald Hebb]]
+- [[Donald-Hebb|Donald Hebb]]
 - [[Edmund-Husserl|Edmund Husserl]]
 - [[Eduard von Hartmann]]
 - [[Educational-Psychology|Educational Psychology]]
@@ -248,7 +248,7 @@ extraction_summary:
 - [[phenomenology]]
 - [[Philip Bard]]
 - [[Positivism]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatism and Education]]
 - [[Process Philosophy]]
 - [[Social Psychology]]
@@ -268,7 +268,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Pragmatism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
+| 1 | [[pragmatism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 2 | [[Functionalism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 4 | [[Will]] | — | — | 🌟 Historical & Biographical Context | 12 |
@@ -284,7 +284,7 @@ extraction_summary:
 | 14 | [[Metaphysical Club]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
 | 15 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
 | 16 | [[Oliver Wendell Holmes Jr.]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
-| 17 | [[Pragmatism]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
+| 17 | [[pragmatism]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
 | 18 | [[Gestalt Psychology]] | — | — | 🎭 Intellectual Network & Philosophica... | 46 |
 | 19 | [[phenomenology]] | — | — | 🎭 Intellectual Network & Philosophica... | 46 |
 | 20 | [[Process Philosophy]] | — | — | 🎭 Intellectual Network & Philosophica... | 46 |
@@ -311,7 +311,7 @@ extraction_summary:
 | 41 | [[Walter Cannon]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
 | 42 | [[Philip Bard]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
 | 43 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
-| 44 | [[Donald Hebb]] | — | — | 3. The Architecture of Habit | 120 |
+| 44 | [[Donald-Hebb|Donald Hebb]] | — | — | 3. The Architecture of Habit | 120 |
 | 45 | [[Habit-Formation|Habit Formation]] | — | — | 3. The Architecture of Habit | 126 |
 | 46 | [[Neural-Plasticity|Neural Plasticity]] | — | — | 3. The Architecture of Habit | 126 |
 | 47 | [[Hebbian Learning]] | — | — | 3. The Architecture of Habit | 126 |
@@ -342,7 +342,7 @@ extraction_summary:
 | 72 | [[Helmholtz]] | — | — | 📋 Reading Strategy & Approach | 209 |
 | 73 | [[William-James|William James]] | — | — | 📋 Reading Strategy & Approach | 238 |
 | 74 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📋 Reading Strategy & Approach | 238 |
-| 75 | [[Pragmatism]] | — | — | 📋 Reading Strategy & Approach | 238 |
+| 75 | [[pragmatism]] | — | — | 📋 Reading Strategy & Approach | 238 |
 | 76 | [[Metacognition]] | — | — | 📋 Reading Strategy & Approach | 244 |
 | 77 | [[Educational-Psychology|Educational Psychology]] | — | — | 📋 Reading Strategy & Approach | 244 |
 | 78 | [[Critical-Thinking|Critical Thinking]] | — | — | 📋 Reading Strategy & Approach | 244 |
@@ -397,7 +397,7 @@ extraction_summary:
 - [[Critical Thinking Deployment]]
 - [[Darwin]]
 - [[David-Hume|David Hume]]
-- [[Donald Hebb]]
+- [[Donald-Hebb|Donald Hebb]]
 - [[Edmund-Husserl|Edmund Husserl]]
 - [[Eduard von Hartmann]]
 - [[Educational-Psychology|Educational Psychology]]
@@ -444,7 +444,7 @@ extraction_summary:
 - [[phenomenology]]
 - [[Philip Bard]]
 - [[Positivism]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatism and Education]]
 - [[Process Philosophy]]
 - [[Social Psychology]]

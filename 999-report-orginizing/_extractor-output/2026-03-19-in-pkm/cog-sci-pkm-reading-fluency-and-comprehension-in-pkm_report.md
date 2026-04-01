@@ -192,7 +192,7 @@ extraction_summary:
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 183)*
 
 > [!connections-and-links] Untitled
-> The reading workflow described here connects to several bodies of knowledge in the PKM vault: [[Metacognition]] and [[Metacognitive Awareness Inventory]] (self-monitoring of comprehension and retention during reading), [[Dual-Process-Theory|Dual Process Theory]] (the distinction between System 1 and System 2 engagement in reading), [[Cognitive-Load-Theory|Cognitive Load Theory]] (managing intrinsic, extraneous, and germane load across reading stages), [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] (the temporal architecture of review), [[Reflective-Thinking|Reflective Thinking]] as developed in Dewey's framework (the question-driven orientation to reading), and [[Schema-Theory|Schema Theory]] (the role of prior knowledge in determining what can be learned from reading). The integration of these frameworks into a coherent reading workflow represents one of the most direct practical applications of the broader critical thinking and metacognition knowledge base being developed in this vault.
+> The reading workflow described here connects to several bodies of knowledge in the PKM vault: [[Metacognition]] and [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] (self-monitoring of comprehension and retention during reading), [[Dual-Process-Theory|Dual Process Theory]] (the distinction between System 1 and System 2 engagement in reading), [[Cognitive-Load-Theory|Cognitive Load Theory]] (managing intrinsic, extraneous, and germane load across reading stages), [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] (the temporal architecture of review), [[Reflective-Thinking|Reflective Thinking]] as developed in Dewey's framework (the question-driven orientation to reading), and [[Schema-Theory|Schema Theory]] (the role of prior knowledge in determining what can be learned from reading). The integration of these frameworks into a coherent reading workflow represents one of the most direct practical applications of the broader critical thinking and metacognition knowledge base being developed in this vault.
 
 #### 16. [INSIGHT] Untitled *(Line 204)*
 
@@ -207,7 +207,7 @@ extraction_summary:
 #### 18. [CONNECTIONS-AND-LINKS] Untitled *(Line 220)*
 
 > [!connections-and-links] Untitled
-> **Cross-vault integration points:** This document connects directly to [[Metacognition and Metacognitive Awareness]], [[Dual Process Theory - Kahneman]], [[Cognitive Load Theory - Sweller]], [[John Dewey - Reflective Thinking]], [[William James - Habit Formation and Attention]], [[Schema Theory - Bartlett and Ausubel]], [[Spaced Repetition and the Ebbinghaus Legacy]], [[Zettelkasten Method - Luhmann]], [[Progressive Summarization - Forte]], [[PENCRISAL Critical Thinking Framework]] (reading as a context for applying critical reasoning), and the broader metacognitive regulation literature captured in the [[Metacognitive Awareness Inventory]] notes.
+> **Cross-vault integration points:** This document connects directly to [[Metacognition and Metacognitive Awareness]], [[Dual Process Theory - Kahneman]], [[Cognitive Load Theory - Sweller]], [[John Dewey - Reflective Thinking]], [[William James - Habit Formation and Attention]], [[Schema Theory - Bartlett and Ausubel]], [[Spaced Repetition and the Ebbinghaus Legacy]], [[Zettelkasten Method - Luhmann]], [[Progressive Summarization - Forte]], [[PENCRISAL Critical Thinking Framework]] (reading as a context for applying critical reasoning), and the broader metacognitive regulation literature captured in the [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] notes.
 
 #### 19. [FURTHER-EXPLORATION] Untitled *(Line 223)*
 
@@ -315,15 +315,15 @@ extraction_summary:
 - [[Forgetting-Curve|Forgetting Curve]]
 - [[Generative-Learning|Generative Learning]]
 - [[Information Overload]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Interleaving in Knowledge Work - Beyond Laboratory Studies]]
 - [[John Dewey - Reflective Thinking]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Meaningful-Learning|Meaningful Learning]]
 - [[Metacognition]]
 - [[Metacognition and Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
-- [[PARA Method]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
+- [[PARA-Method|PARA Method]]
 - [[PENCRISAL Critical Thinking Framework]]
 - [[PQ4R Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
@@ -385,7 +385,7 @@ extraction_summary:
 | 23 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 📜 Phase 2: Historical Foundations — F... | 43 |
 | 24 | [[Zettelkasten]] | — | — | 📜 Phase 2: Historical Foundations — F... | 45 |
 | 25 | [[Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
-| 26 | [[PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
+| 26 | [[PARA-Method|PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
 | 27 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
 | 28 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 58 |
 | 29 | [[Working-Memory|Working Memory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 58 |
@@ -412,7 +412,7 @@ extraction_summary:
 | 50 | [[self-explanation]] | — | — | 📊 Phase 5: Evidence Base — What the R... | 151 |
 | 51 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🌍 Phase 6: Implications & Application... | 170 |
 | 52 | [[Metacognition]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
-| 53 | [[Metacognitive Awareness Inventory]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
+| 53 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
 | 54 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
 | 55 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
 | 56 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🌍 Phase 6: Implications & Application... | 184 |
@@ -422,7 +422,7 @@ extraction_summary:
 | 60 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 202 |
 | 61 | [[SECI-Model|SECI Model]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 202 |
 | 62 | [[Protégé Effect]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 205 |
-| 63 | [[Interleaving]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 209 |
+| 63 | [[interleaving]] | — | — | 🔮 Phase 7: Frontier Research — Where ... | 209 |
 | 64 | [[Metacognition and Metacognitive Awareness]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
 | 65 | [[Dual Process Theory - Kahneman]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
 | 66 | [[Cognitive Load Theory - Sweller]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
@@ -433,7 +433,7 @@ extraction_summary:
 | 71 | [[Zettelkasten Method - Luhmann]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
 | 72 | [[Progressive Summarization - Forte]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
 | 73 | [[PENCRISAL Critical Thinking Framework]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
-| 74 | [[Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
+| 74 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 221 |
 | 75 | [[The Neuroscience of Deep Reading - Maryanne Wolf]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 227 |
 | 76 | [[Interleaving in Knowledge Work - Beyond Laboratory Studies]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 230 |
 | 77 | [[The Protégé Effect and Social PKM]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 233 |
@@ -503,15 +503,15 @@ $$
 - [[Forgetting-Curve|Forgetting Curve]]
 - [[Generative-Learning|Generative Learning]]
 - [[Information Overload]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Interleaving in Knowledge Work - Beyond Laboratory Studies]]
 - [[John Dewey - Reflective Thinking]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Meaningful-Learning|Meaningful Learning]]
 - [[Metacognition]]
 - [[Metacognition and Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
-- [[PARA Method]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
+- [[PARA-Method|PARA Method]]
 - [[PENCRISAL Critical Thinking Framework]]
 - [[PQ4R Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]

@@ -45,6 +45,14 @@ from config import (
     DIAGRAM_CALLOUTS,
     CITATION_CALLOUTS,
     METHODOLOGY_CALLOUTS,
+    # v2.2 additional callout types
+    SCHEMA_ACTIVATION_CALLOUTS,
+    SECTION_SUMMARY_CALLOUTS,
+    CLAUDE_INSIGHT_CALLOUTS,
+    ACTIVE_READING_CALLOUTS,
+    FAR_TRANSFER_CALLOUTS,
+    DEBATE_CALLOUTS,
+    EXAMPLE_CALLOUTS,
     MAX_EVIDENCE_PER_NOTE,
     MAX_INSIGHTS_PER_NOTE,
     MAX_CONNECTIONS_PER_NOTE,
@@ -250,6 +258,15 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
     citations = _collect_structured(callouts, CITATION_CALLOUTS, MAX_CITATIONS_PER_NOTE)
     methodology_items = _collect_structured(callouts, METHODOLOGY_CALLOUTS, MAX_METHODOLOGY_PER_NOTE)
 
+    # v2.2 additional callout types
+    schema_activations = _collect_structured(callouts, SCHEMA_ACTIVATION_CALLOUTS, 50)
+    section_summaries = _collect_structured(callouts, SECTION_SUMMARY_CALLOUTS, 50)
+    claude_insights = _collect_structured(callouts, CLAUDE_INSIGHT_CALLOUTS, 50)
+    active_readings = _collect_structured(callouts, ACTIVE_READING_CALLOUTS, 50)
+    far_transfers = _collect_structured(callouts, FAR_TRANSFER_CALLOUTS, 50)
+    debates = _collect_structured(callouts, DEBATE_CALLOUTS, 50)
+    examples = _collect_structured(callouts, EXAMPLE_CALLOUTS, 50)
+
     # Process note-generating callouts
     for callout in callouts:
         ctype = callout.get("type", "").lower()
@@ -339,6 +356,14 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
             diagrams=diagrams,
             citations=citations,
             methodology=methodology_items,
+            # v2.2 additional callout types
+            schema_activations=schema_activations,
+            section_summaries=section_summaries,
+            claude_insights=claude_insights,
+            active_readings=active_readings,
+            far_transfers=far_transfers,
+            debates=debates,
+            examples=examples,
         )
         candidates.append(candidate)
 

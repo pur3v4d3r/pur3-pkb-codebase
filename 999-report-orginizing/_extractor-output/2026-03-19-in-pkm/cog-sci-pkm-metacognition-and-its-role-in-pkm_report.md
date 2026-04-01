@@ -307,7 +307,7 @@ extraction_summary:
 #### 32. [EVIDENCE] Untitled *(Line 235)*
 
 > [!evidence] Untitled
-> Research by [[Stephen Fleming]] and colleagues at University College London, using functional neuroimaging and computational modeling, has demonstrated that metacognitive sensitivity—the degree to which subjective confidence tracks objective performance—is associated with gray matter volume in the anterior prefrontal cortex and with white matter connectivity between prefrontal and medial temporal regions. Crucially, this research demonstrates that metacognitive sensitivity is a trainable capacity: interventions that provide accurate performance feedback improve metacognitive calibration through a learning process that modifies the prefrontal monitoring system. This finding supports the claim that PKM practices embedding regular accuracy feedback—particularly spaced retrieval—are not merely effective for retention but are constitutive of metacognitive skill development.
+> Research by [[Stephen-Fleming|Stephen Fleming]] and colleagues at University College London, using functional neuroimaging and computational modeling, has demonstrated that metacognitive sensitivity—the degree to which subjective confidence tracks objective performance—is associated with gray matter volume in the anterior prefrontal cortex and with white matter connectivity between prefrontal and medial temporal regions. Crucially, this research demonstrates that metacognitive sensitivity is a trainable capacity: interventions that provide accurate performance feedback improve metacognitive calibration through a learning process that modifies the prefrontal monitoring system. This finding supports the claim that PKM practices embedding regular accuracy feedback—particularly spaced retrieval—are not merely effective for retention but are constitutive of metacognitive skill development.
 
 #### 33. [ARGUMENT] Untitled *(Line 242)*
 
@@ -334,7 +334,7 @@ extraction_summary:
 > **PKB Integration Map — Core Cross-References:**
 > 
 > This note is a primary connector in the critical thinking and metacognition cluster of the knowledge base, linking directly to:
-> - [[Metacognition]] → [[Metacognitive Awareness Inventory (MAI)]] → [[Knowledge-of-Cognition|Knowledge of Cognition]] / [[Regulation-of-Cognition|Regulation of Cognition]]
+> - [[Metacognition]] → [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory (MAI)]] → [[Knowledge-of-Cognition|Knowledge of Cognition]] / [[Regulation-of-Cognition|Regulation of Cognition]]
 > - [[John Dewey's Reflective Thinking Theory]] → historical precursor; the "inquiry cycle" maps to PKM review cycles
 > - [[William James's Psychology of Habit]] → habit formation in PKM workflows; automatization of metacognitive practices
 > - [[Dual-Process-Theory|Dual Process Theory]] → System 2 thinking as metacognitive regulation; System 1 capture heuristics
@@ -454,7 +454,7 @@ extraction_summary:
 - [[Extended Mind Theory and Personal Knowledge Vaults]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Feynman Technique]]
-- [[Getting Things Done (GTD)]]
+- [[Getting-Things-Done|Getting Things Done (GTD)]]
 - [[Gregory-Schraw|Gregory Schraw]]
 - [[Harold Jarche]]
 - [[Jean-Piaget|Jean Piaget]]
@@ -466,7 +466,7 @@ extraction_summary:
 - [[Knowledge-of-Cognition|Knowledge of Cognition]]
 - [[Louis Narens]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory (MAI)]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory (MAI)]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration Training Protocols for PKM]]
 - [[Metacognitive-Experiences|Metacognitive Experiences]]
@@ -476,7 +476,7 @@ extraction_summary:
 - [[Niklas Luhmann]]
 - [[Obsidian]]
 - [[Organizational Knowledge Management (OKM)]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[PENCRISAL-Framework|PENCRISAL Framework]]
 - [[Paul Dorsey]]
 - [[Paul-Pintrich|Paul Pintrich]]
@@ -490,7 +490,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]]
 - [[Social Learning Theory]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[The Social Dimension of Metacognitive PKM — Sharing as Calibration]]
 - [[Thomas Nelson]]
 - [[Transfer-Appropriate-Processing|Transfer Appropriate Processing]]
@@ -535,9 +535,9 @@ extraction_summary:
 | 28 | [[Niklas Luhmann]] | — | — | The Evolution of PKM as an Intellectu... | 51 |
 | 29 | [[Seek-Sense-Share Framework]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 30 | [[David Allen]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
-| 31 | [[Getting Things Done (GTD)]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
+| 31 | [[Getting-Things-Done|Getting Things Done (GTD)]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 32 | [[Building a Second Brain (BASB)]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
-| 33 | [[PARA Method]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
+| 33 | [[PARA-Method|PARA Method]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 34 | [[Progressive-Summarization|Progressive Summarization]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 35 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | The Bipartite Framework: Knowledge an... | 77 |
 | 36 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | The Bipartite Framework: Knowledge an... | 77 |
@@ -572,11 +572,11 @@ extraction_summary:
 | 65 | [[Communities-of-Practice|Communities of Practice]] | — | — | The Seek-Sense-Share Framework as Met... | 207 |
 | 66 | [[Etienne Wenger]] | — | — | The Seek-Sense-Share Framework as Met... | 207 |
 | 67 | [[Epistemic Hygiene]] | — | — | Metacognitive Failure Modes in Digita... | 229 |
-| 68 | [[Stephen Fleming]] | — | — | Neuroscience of Metacognition and PKM... | 236 |
+| 68 | [[Stephen-Fleming|Stephen Fleming]] | — | — | Neuroscience of Metacognition and PKM... | 236 |
 | 69 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | The Exocortex and Extended Mind Theory | 240 |
 | 70 | [[Dave Snowden]] | — | — | The Exocortex and Extended Mind Theory | 246 |
 | 71 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 263 |
-| 72 | [[Metacognitive Awareness Inventory (MAI)]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 263 |
+| 72 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory (MAI)]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 263 |
 | 73 | [[Knowledge-of-Cognition|Knowledge of Cognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 263 |
 | 74 | [[Regulation-of-Cognition|Regulation of Cognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 263 |
 | 75 | [[John Dewey's Reflective Thinking Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 264 |
@@ -659,7 +659,7 @@ extraction_summary:
 - [[Extended Mind Theory and Personal Knowledge Vaults]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Feynman Technique]]
-- [[Getting Things Done (GTD)]]
+- [[Getting-Things-Done|Getting Things Done (GTD)]]
 - [[Gregory-Schraw|Gregory Schraw]]
 - [[Harold Jarche]]
 - [[Jean-Piaget|Jean Piaget]]
@@ -671,7 +671,7 @@ extraction_summary:
 - [[Knowledge-of-Cognition|Knowledge of Cognition]]
 - [[Louis Narens]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory (MAI)]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory (MAI)]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration Training Protocols for PKM]]
 - [[Metacognitive-Experiences|Metacognitive Experiences]]
@@ -681,7 +681,7 @@ extraction_summary:
 - [[Niklas Luhmann]]
 - [[Obsidian]]
 - [[Organizational Knowledge Management (OKM)]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[PENCRISAL-Framework|PENCRISAL Framework]]
 - [[Paul Dorsey]]
 - [[Paul-Pintrich|Paul Pintrich]]
@@ -695,7 +695,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]]
 - [[Social Learning Theory]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[The Social Dimension of Metacognitive PKM — Sharing as Calibration]]
 - [[Thomas Nelson]]
 - [[Transfer-Appropriate-Processing|Transfer Appropriate Processing]]

@@ -430,7 +430,7 @@ extraction_summary:
 - [[Executive-Function|Executive Function]]
 - [[Iconic-Memory|Iconic Memory]]
 - [[Information Processing Approach]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Load Theory of Attention]]
 - [[Load Theory of Attention and Perceptual Load Effects]]
 - [[Metacognition]]
@@ -459,7 +459,7 @@ extraction_summary:
 | 3 | [[Allocation Policy]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
 | 4 | [[Dual-Task Performance]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
 | 5 | [[Arousal]] | — | — | 🧠 The Evolution of Capacity Theories ... | 370 |
-| 6 | [[Information Theory]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 374 |
+| 6 | [[Information-Theory|Information Theory]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 374 |
 | 7 | [[Information Processing Approach]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 378 |
 | 8 | [[Attentional Selection]] | — | — | 🎯 The Cognitive Revolution and the Pr... | 378 |
 | 9 | [[Iconic-Memory|Iconic Memory]] | — | — | The Engineering Metaphor and Informat... | 398 |
@@ -868,7 +868,7 @@ for (let letter of sortedLetters) {
 - [[Executive-Function|Executive Function]]
 - [[Iconic-Memory|Iconic Memory]]
 - [[Information Processing Approach]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Load Theory of Attention]]
 - [[Load Theory of Attention and Perceptual Load Effects]]
 - [[Metacognition]]

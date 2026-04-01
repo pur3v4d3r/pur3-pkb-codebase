@@ -457,7 +457,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dual-Process Theory and Metacognitive Intervention in Reasoning]]
 - [[Fallibilism]]
-- [[Formal Rule Theory]]
+- [[Formal-Rule-Theory|Formal Rule Theory]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[George-Boole|George Boole]]
 - [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]]
@@ -467,7 +467,7 @@ extraction_summary:
 - [[Jean-Piaget|Jean Piaget]]
 - [[Jonathan-Evans|Jonathan Evans]]
 - [[Karl-Popper|Karl Popper]]
-- [[Keith Holyoak]]
+- [[Keith-Holyoak|Keith Holyoak]]
 - [[Keith-Stanovich|Keith Stanovich]]
 - [[Lance-Rips|Lance Rips]]
 - [[Legal reasoning]]
@@ -476,13 +476,13 @@ extraction_summary:
 - [[Mathematical Proof in Secondary Education]]
 - [[Mental-Models-Theory|Mental Models Theory]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Patricia Cheng]]
+- [[Patricia-Cheng|Patricia Cheng]]
 - [[Peter-Wason|Peter Wason]]
 - [[Philip-Johnson-Laird|Philip Johnson-Laird]]
-- [[Ruth Byrne]]
+- [[Ruth-Byrne|Ruth Byrne]]
 - [[Schema-Theory|Schema Theory]]
 - [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]
-- [[Wason Selection Task]]
+- [[Wason-Selection-Task|Wason Selection Task]]
 - [[Abductive-Reasoning|abductive reasoning]]
 - [[Actively-Open-Minded-Thinking|actively open-minded thinking]]
 - [[Argumentation]]
@@ -500,7 +500,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Modus-Tollens|modus tollens]]
 - [[predicate-calculus|predicate calculus]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Working-Memory|working memory]]
 - [[Working-Memory-Capacity|working memory capacity]]
 
@@ -530,15 +530,15 @@ extraction_summary:
 | 20 | [[Alfred-North-Whitehead|Alfred North Whitehead]] | — | — | Historical and Intellectual Genealogy | 321 |
 | 21 | [[Cognitive-Science|cognitive science]] | — | — | Historical and Intellectual Genealogy | 323 |
 | 22 | [[Peter-Wason|Peter Wason]] | — | — | Historical and Intellectual Genealogy | 323 |
-| 23 | [[Wason Selection Task]] | — | — | The Central Puzzle: Why Do Intelligen... | 339 |
+| 23 | [[Wason-Selection-Task|Wason Selection Task]] | — | — | The Central Puzzle: Why Do Intelligen... | 339 |
 | 24 | [[Peter-Wason|Peter Wason]] | — | — | The Central Puzzle: Why Do Intelligen... | 339 |
 | 25 | [[Philip-Johnson-Laird|Philip Johnson-Laird]] | — | — | Mental Models Theory | 343 |
 | 26 | [[Mental-Models-Theory|Mental Models Theory]] | — | — | Mental Models Theory | 343 |
-| 27 | [[Ruth Byrne]] | — | — | Mental Models Theory | 343 |
-| 28 | [[Wason Selection Task]] | — | — | Mental Models Theory | 350 |
+| 27 | [[Ruth-Byrne|Ruth Byrne]] | — | — | Mental Models Theory | 343 |
+| 28 | [[Wason-Selection-Task|Wason Selection Task]] | — | — | Mental Models Theory | 350 |
 | 29 | [[Long-Term-Memory|long-term memory]] | — | — | Mental Models Theory | 350 |
 | 30 | [[Working-Memory|working memory]] | — | — | Mental Models Theory | 350 |
-| 31 | [[Formal Rule Theory]] | — | — | Formal Rule Theory | 354 |
+| 31 | [[Formal-Rule-Theory|Formal Rule Theory]] | — | — | Formal Rule Theory | 354 |
 | 32 | [[Lance-Rips|Lance Rips]] | — | — | Formal Rule Theory | 354 |
 | 33 | [[Martin-Braine|Martin Braine]] | — | — | Formal Rule Theory | 354 |
 | 34 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Dual-Process Theory | 363 |
@@ -546,11 +546,11 @@ extraction_summary:
 | 36 | [[Keith-Stanovich|Keith Stanovich]] | — | — | Dual-Process Theory | 363 |
 | 37 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Dual-Process Theory | 363 |
 | 38 | [[Belief-Bias|belief bias]] | — | — | Dual-Process Theory | 368 |
-| 39 | [[Patricia Cheng]] | — | — | Schema Theory and Pragmatic Reasoning | 375 |
-| 40 | [[Keith Holyoak]] | — | — | Schema Theory and Pragmatic Reasoning | 375 |
+| 39 | [[Patricia-Cheng|Patricia Cheng]] | — | — | Schema Theory and Pragmatic Reasoning | 375 |
+| 40 | [[Keith-Holyoak|Keith Holyoak]] | — | — | Schema Theory and Pragmatic Reasoning | 375 |
 | 41 | [[Working-Memory|working memory]] | — | — | The Anatomy of a Deductive Inference | 395 |
 | 42 | [[Working-Memory|working memory]] | — | — | The Role of Working Memory | 399 |
-| 43 | [[prefrontal cortex]] | — | — | The Role of Working Memory | 401 |
+| 43 | [[prefrontal-cortex|prefrontal cortex]] | — | — | The Role of Working Memory | 401 |
 | 44 | [[Cognitive-Load|cognitive load]] | — | — | The Role of Working Memory | 401 |
 | 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Role of Working Memory | 404 |
 | 46 | [[Cheng & Holyoak]] | — | — | Content Effects and Facilitation | 415 |
@@ -611,7 +611,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dual-Process Theory and Metacognitive Intervention in Reasoning]]
 - [[Fallibilism]]
-- [[Formal Rule Theory]]
+- [[Formal-Rule-Theory|Formal Rule Theory]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[George-Boole|George Boole]]
 - [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]]
@@ -621,7 +621,7 @@ extraction_summary:
 - [[Jean-Piaget|Jean Piaget]]
 - [[Jonathan-Evans|Jonathan Evans]]
 - [[Karl-Popper|Karl Popper]]
-- [[Keith Holyoak]]
+- [[Keith-Holyoak|Keith Holyoak]]
 - [[Keith-Stanovich|Keith Stanovich]]
 - [[Lance-Rips|Lance Rips]]
 - [[Legal reasoning]]
@@ -630,13 +630,13 @@ extraction_summary:
 - [[Mathematical Proof in Secondary Education]]
 - [[Mental-Models-Theory|Mental Models Theory]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Patricia Cheng]]
+- [[Patricia-Cheng|Patricia Cheng]]
 - [[Peter-Wason|Peter Wason]]
 - [[Philip-Johnson-Laird|Philip Johnson-Laird]]
-- [[Ruth Byrne]]
+- [[Ruth-Byrne|Ruth Byrne]]
 - [[Schema-Theory|Schema Theory]]
 - [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]
-- [[Wason Selection Task]]
+- [[Wason-Selection-Task|Wason Selection Task]]
 - [[Abductive-Reasoning|abductive reasoning]]
 - [[Actively-Open-Minded-Thinking|actively open-minded thinking]]
 - [[Argumentation]]
@@ -654,7 +654,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Modus-Tollens|modus tollens]]
 - [[predicate-calculus|predicate calculus]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Working-Memory|working memory]]
 - [[Working-Memory-Capacity|working memory capacity]]
 

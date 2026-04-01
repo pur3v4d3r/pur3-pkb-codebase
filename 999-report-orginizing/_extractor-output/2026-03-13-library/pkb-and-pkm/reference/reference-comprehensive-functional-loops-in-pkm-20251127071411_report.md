@@ -287,7 +287,7 @@ extraction_summary:
 #### 13. [DEFINITION] Untitled *(Line 339)*
 
 > [!definition] Untitled
-> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic-Motivation|Intrinsic Motivation]], and [[Flow State]] that increase engagement through positive feedback
+> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic-Motivation|Intrinsic Motivation]], and [[Flow-State|Flow State]] that increase engagement through positive feedback
 > - **Core Mechanism**:: Positive feedback loops involve setting learning goals that provide satisfaction, which drives higher goal-setting, termed as "rage to master" in gifted learners
 
 #### 14. [ANALOGY] Untitled *(Line 369)*
@@ -346,7 +346,7 @@ extraction_summary:
 #### 19. [DEFINITION] Untitled *(Line 487)*
 
 > [!definition] Untitled
-> - **Habit Loops**:: Neurological feedback cycles involving [[Cue]], [[Routine]], [[Reward]] that create automatic behavioral responses through [[Basal Ganglia]] encoding
+> - **Habit Loops**:: Neurological feedback cycles involving [[Cue]], [[Routine]], [[Reward]] that create automatic behavioral responses through [[Basal-Ganglia|Basal Ganglia]] encoding
 > - **Core Mechanism**:: The habit loop consists of three key components: the cue triggering the brain to initiate behavior, the routine being the behavior carried out in response, and the reward providing satisfaction that reinforces the behavior, with repetition ingraining this loop into neural pathways creating subconscious habits
 
 #### 20. [METHODOLOGY-AND-SOURCES] Untitled *(Line 521)*
@@ -527,7 +527,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Active Recall]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Basal Ganglia]]
+- [[Basal-Ganglia|Basal Ganglia]]
 - [[Chunking]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -550,11 +550,11 @@ extraction_summary:
 - [[Execution]]
 - [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Feedback Loop]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Generation-Effect|Generation Effect]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Stacking for PKB Workflow Design]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
@@ -575,7 +575,7 @@ extraction_summary:
 - [[PKB]]
 - [[PKB Feedback Mechanisms]]
 - [[Planning]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Reflection]]
 - [[Retrieval-Practice|Retrieval Practice]]
@@ -629,10 +629,10 @@ extraction_summary:
 | 24 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 25 | [[Chunking]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 26 | [[Mental-Models|Mental Models]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 27 | [[Flow State]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 27 | [[Flow-State|Flow State]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 28 | [[Deliberate-Practice|Deliberate Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 29 | [[Distributed Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 30 | [[Interleaving]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 30 | [[interleaving]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 31 | [[Generation-Effect|Generation Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 32 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
 | 33 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
@@ -673,7 +673,7 @@ extraction_summary:
 | 68 | [[Self-Knowledge]] | — | — | Meta-Insight | 333 |
 | 69 | [[Self-Efficacy]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
 | 70 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
-| 71 | [[Flow State]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
+| 71 | [[Flow-State|Flow State]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
 | 72 | [[Self-Efficacy-Theory|Self-Efficacy Theory]] | — | — | Foundational Concepts: The Success-Mo... | 347 |
 | 73 | [[Self-Efficacy]] | — | — | Foundational Concepts: The Success-Mo... | 360 |
 | 74 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Foundational Concepts: The Success-Mo... | 366 |
@@ -681,13 +681,13 @@ extraction_summary:
 | 76 | [[Cue]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
 | 77 | [[Routine]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
 | 78 | [[Reward]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
-| 79 | [[Basal Ganglia]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
+| 79 | [[Basal-Ganglia|Basal Ganglia]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
 | 80 | [[Habit-Formation|Habit Formation]] | — | — | Foundational Concepts: The Neurologic... | 493 |
-| 81 | [[Prefrontal Cortex]] | — | — | Foundational Concepts: The Neurologic... | 502 |
+| 81 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | Foundational Concepts: The Neurologic... | 502 |
 | 82 | [[Cognitive-Load|Cognitive Load]] | — | — | Foundational Concepts: The Neurologic... | 504 |
-| 83 | [[Basal Ganglia]] | — | — | Foundational Concepts: The Neurologic... | 508 |
-| 84 | [[Basal Ganglia]] | — | — | Foundational Concepts: The Neurologic... | 514 |
-| 85 | [[Prefrontal Cortex]] | — | — | Foundational Concepts: The Neurologic... | 515 |
+| 83 | [[Basal-Ganglia|Basal Ganglia]] | — | — | Foundational Concepts: The Neurologic... | 508 |
+| 84 | [[Basal-Ganglia|Basal Ganglia]] | — | — | Foundational Concepts: The Neurologic... | 514 |
+| 85 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | Foundational Concepts: The Neurologic... | 515 |
 | 86 | [[Metcalfe's Law]] | — | — | Foundational Concepts: The Metcalfe's... | 604 |
 | 87 | [[Emergent Properties]] | — | — | The "Critical Mass" Threshold | 637 |
 | 88 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Synthesis & Mastery Integration | 687 |
@@ -701,7 +701,7 @@ extraction_summary:
 | 96 | [[Neural-Plasticity|Neural Plasticity]] | — | — | Comparative Analysis: Functional Loop... | 716 |
 | 97 | [[Self-Monitoring]] | — | — | Comparative Analysis: Functional Loop... | 717 |
 | 98 | [[Dopamine]] | — | — | Comparative Analysis: Functional Loop... | 718 |
-| 99 | [[Basal Ganglia]] | — | — | Comparative Analysis: Functional Loop... | 720 |
+| 99 | [[Basal-Ganglia|Basal Ganglia]] | — | — | Comparative Analysis: Functional Loop... | 720 |
 | 100 | [[Cognitive Load Theory Applied to PKB Design]] | — | — | 🔗 Related Topics for PKB Expansion | 814 |
 | 101 | [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
 | 102 | [[Working-Memory|Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
@@ -838,7 +838,7 @@ More serendipitous discoveries possible
 | **Metacognitive** | Weeks to years | [[Self-Monitoring]] | Learning efficiency | Lack of reflection prevents improvement |
 | **Motivational** | Minutes to months | [[Dopamine]] reward | Sustained engagement | Initial failures create avoidance |
 | **System Quality** | Weeks to months | Iterative refinement | Usability improvement | Premature optimization wastes effort |
-| **Habit Formation** | Weeks to months | [[Basal Ganglia]] encoding | Cognitive automation | Bad habits encode as easily as good |
+| **Habit Formation** | Weeks to months | [[Basal-Ganglia|Basal Ganglia]] encoding | Cognitive automation | Bad habits encode as easily as good |
 | **Network Effects** | Months to years | Connection accumulation | Emergent insights | Sparse graphs provide minimal value |
 
 ### Table 5 *(Line 791, 1 rows)*
@@ -860,7 +860,7 @@ More serendipitous discoveries possible
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Active Recall]]
 - [[Atomic-Notes|Atomic Notes]]
-- [[Basal Ganglia]]
+- [[Basal-Ganglia|Basal Ganglia]]
 - [[Chunking]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -883,11 +883,11 @@ More serendipitous discoveries possible
 - [[Execution]]
 - [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
 - [[Feedback Loop]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Generation-Effect|Generation Effect]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Stacking for PKB Workflow Design]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
@@ -908,7 +908,7 @@ More serendipitous discoveries possible
 - [[PKB]]
 - [[PKB Feedback Mechanisms]]
 - [[Planning]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Reflection]]
 - [[Retrieval-Practice|Retrieval Practice]]

@@ -439,7 +439,7 @@ extraction_summary:
 - [[Gregory-Schraw|Gregory Schraw]]
 - [[Hypomnemata]]
 - [[Implementation Intentions and Bias Correction]]
-- [[Impression Management]]
+- [[Impression-Management|Impression Management]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
@@ -455,7 +455,7 @@ extraction_summary:
 - [[Pierre-Hadot|Pierre Hadot]]
 - [[Precision Weighting in Predictive Processing]]
 - [[Prosoche]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Stanovich]]
 - [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoic Spiritual Exercises and Their Modern Descendants]]
@@ -490,7 +490,7 @@ extraction_summary:
 | 22 | [[Working-Memory|Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 210 |
 | 23 | [[Cognitive-Decoupling|Cognitive Decoupling]] | cognitive decoupling | — | 🧠 The Architecture of Automatic Thoug... | 210 |
 | 24 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
-| 25 | [[Representativeness Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 25 | [[representativeness-heuristic|Representativeness Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 26 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 27 | [[Anchoring-and-Adjustment|Anchoring and Adjustment]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 28 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
@@ -501,7 +501,7 @@ extraction_summary:
 | 33 | [[Chrysippus]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
 | 34 | [[Dichotomy-of-Control|Dichotomy of Control]] | locus of freedom | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
 | 35 | [[Hypomnemata]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 234 |
-| 36 | [[Impression Management]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 236 |
+| 36 | [[Impression-Management|Impression Management]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 236 |
 | 37 | [[John-Flavell|John Flavell]] | John H. Flavell's | — | 🔬 The Scientific Framework: Metacogni... | 243 |
 | 38 | [[Gregory-Schraw|Gregory Schraw]] | — | — | 🔬 The Scientific Framework: Metacogni... | 245 |
 | 39 | [[Nature-Human-Behaviour|Nature Human Behaviour]] | — | — | 🎓 The Debiasing Science: What Interve... | 256 |
@@ -567,7 +567,7 @@ extraction_summary:
 - [[Gregory-Schraw|Gregory Schraw]]
 - [[Hypomnemata]]
 - [[Implementation Intentions and Bias Correction]]
-- [[Impression Management]]
+- [[Impression-Management|Impression Management]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
@@ -583,7 +583,7 @@ extraction_summary:
 - [[Pierre-Hadot|Pierre Hadot]]
 - [[Precision Weighting in Predictive Processing]]
 - [[Prosoche]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Stanovich]]
 - [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoic Spiritual Exercises and Their Modern Descendants]]
@@ -601,9 +601,9 @@ extraction_summary:
 
 #### Related
 
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive Forcing Functions]]
+- [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Working Memory and Executive Function]]
 - [[Mindfulness and Attention Regulation]]

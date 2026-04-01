@@ -23,8 +23,8 @@ domain: learning-science
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,7 +37,7 @@ referenced-by-count: 6
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Cognitive-Load]]"
   - "[[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
   - "[[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]"
   - "[[Knowledge-of-Cognition]]"
@@ -61,7 +61,7 @@ importance: low
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Cognitive-Load]]
 - [[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]
 - [[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]
 - [[Knowledge-of-Cognition]]

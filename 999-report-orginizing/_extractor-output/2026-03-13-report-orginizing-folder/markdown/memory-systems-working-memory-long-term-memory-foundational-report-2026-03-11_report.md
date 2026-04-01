@@ -226,7 +226,7 @@ extraction_summary:
 #### 17. [COUNTER-ARGUMENT] The Embedded-Processes View *(Line 361)*
 
 > [!counter-argument] The Embedded-Processes View
-> [[Nelson Cowan]] has proposed an influential alternative to the component-based Baddeley model. In Cowan's embedded-processes framework, working memory is not a separate system with its own storage buffers but is simply the activated portion of long-term memory — whatever subset of long-term memory representations is currently within the focus of attention. The focus of attention is itself limited to approximately four chunks. This view re-frames working memory capacity limits as attentional limits rather than storage limits. While the Baddeley and Cowan frameworks are not necessarily incompatible, they generate different predictions about the nature of working memory interference and the role of long-term memory in active cognition.
+> [[Nelson-Cowan|Nelson Cowan]] has proposed an influential alternative to the component-based Baddeley model. In Cowan's embedded-processes framework, working memory is not a separate system with its own storage buffers but is simply the activated portion of long-term memory — whatever subset of long-term memory representations is currently within the focus of attention. The focus of attention is itself limited to approximately four chunks. This view re-frames working memory capacity limits as attentional limits rather than storage limits. While the Baddeley and Cowan frameworks are not necessarily incompatible, they generate different predictions about the nature of working memory interference and the role of long-term memory in active cognition.
 
 #### 18. [EVIDENCE] The H.M. Case as Foundational Evidence *(Line 368)*
 
@@ -251,7 +251,7 @@ extraction_summary:
 #### 22. [COUNTER-ARGUMENT] Multiple Trace Theory *(Line 386)*
 
 > [!counter-argument] Multiple Trace Theory
-> [[Lynn Nadel]] and [[Morris Moscovitch]] have challenged the Standard Model with the **Multiple Trace Theory** (MTT). MTT argues that episodic memories remain hippocampus-dependent throughout their lifetime — each retrieval creates a new hippocampal trace, and the hippocampus is always required to reconstruct the contextual richness of episodic experience. What becomes neocortically independent over time is not episodic memory per se but the semantic knowledge extracted from repeated episodes. This framework predicts that remote episodic memories should be just as vulnerable to hippocampal damage as recent ones — a prediction supported by some neuropsychological evidence but contested by others. The debate between the Standard Model and MTT remains active and has important implications for understanding the distinction between semantic and episodic memory.
+> [[Lynn-Nadel|Lynn Nadel]] and [[Morris Moscovitch]] have challenged the Standard Model with the **Multiple Trace Theory** (MTT). MTT argues that episodic memories remain hippocampus-dependent throughout their lifetime — each retrieval creates a new hippocampal trace, and the hippocampus is always required to reconstruct the contextual richness of episodic experience. What becomes neocortically independent over time is not episodic memory per se but the semantic knowledge extracted from repeated episodes. This framework predicts that remote episodic memories should be just as vulnerable to hippocampal damage as recent ones — a prediction supported by some neuropsychological evidence but contested by others. The debate between the Standard Model and MTT remains active and has important implications for understanding the distinction between semantic and episodic memory.
 
 #### 23. [ASK-YOURSELF-THIS] A Theoretical Choice *(Line 389)*
 
@@ -268,7 +268,7 @@ extraction_summary:
 #### 25. [KEY-CLAIM] The Encoding Specificity Principle *(Line 405)*
 
 > [!key-claim] The Encoding Specificity Principle
-> [[Endel Tulving]] and [[Donald Thomson]]'s encoding specificity principle (1973) states that retrieval success depends on the match between encoding conditions and retrieval conditions. The cues available at retrieval are effective only to the extent that they overlap with the context encoded alongside the original memory trace. This has profound implications: information encoded in a specific context (emotional state, physical environment, background noise) may be inaccessible in a radically different retrieval context, not because it has been forgotten in the sense of degraded or lost, but because the appropriate retrieval cues are absent.
+> [[Endel-Tulving|Endel Tulving]] and [[Donald-Thomson|Donald Thomson]]'s encoding specificity principle (1973) states that retrieval success depends on the match between encoding conditions and retrieval conditions. The cues available at retrieval are effective only to the extent that they overlap with the context encoded alongside the original memory trace. This has profound implications: information encoded in a specific context (emotional state, physical environment, background noise) may be inaccessible in a radically different retrieval context, not because it has been forgotten in the sense of degraded or lost, but because the appropriate retrieval cues are absent.
 
 #### 26. [INSIGHT] Encoding is Prediction *(Line 410)*
 
@@ -501,7 +501,7 @@ extraction_summary:
 > > [!topic-idea] [[Forgetting: Decay, Interference, and Retrieval Failure]]
 > > **Priority: Medium.** A systematic treatment of the mechanisms by which memories become inaccessible, from Ebbinghaus's forgetting curve through interference theory, retrieval failure accounts, motivated forgetting, and the neuropsychology of amnesia. The current report touched on forgetting as the necessary cost of a functioning memory system; a full foundational report would provide the mechanisms in depth, distinguish between storage failure and retrieval failure with precision, and connect to inhibitory control as an executive function. This node would also connect to the testing effect (which combats forgetting) and to emotional regulation (which may involve motivated forgetting mechanisms).
 > 
-> > [!topic-idea] [[Sleep and Memory Consolidation]]
+> > [!topic-idea] [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
 > > **Priority: Medium.** The role of sleep — and specifically the coordinated activity of slow-wave sleep and REM sleep — in systems consolidation is one of the most active areas of current memory research. A foundational report would cover the hippocampal-neocortical dialogue during slow-wave sleep, sharp-wave ripples as consolidation events, the role of REM in emotional memory consolidation, the empirical evidence from sleep deprivation and selective sleep-stage manipulation studies, and the practical implications for learning schedules. This node would extend the consolidation material in Phase III of the current report and connect to the broader self-regulated learning literature (sleep hygiene as a learning strategy).
 > 
 > > [!topic-idea] [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
@@ -522,17 +522,17 @@ extraction_summary:
 - [[Akira Miyake and colleagues]]
 - [[Alan-Baddeley|Alan Baddeley]]
 - [[Amygdala]]
-- [[Basal Ganglia]]
+- [[Basal-Ganglia|Basal Ganglia]]
 - [[Central-Executive|Central Executive]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Daniel-Willingham|Daniel Willingham]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[Donald Thomson]]
+- [[Donald-Thomson|Donald Thomson]]
 - [[Ebbinghaus]]
 - [[Echoic-Memory|Echoic Memory]]
 - [[Elizabeth-Loftus|Elizabeth Loftus]]
 - [[Emotional Memory]]
-- [[Endel Tulving]]
+- [[Endel-Tulving|Endel Tulving]]
 - [[Episodic-Buffer|Episodic Buffer]]
 - [[Everyday Memory]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
@@ -549,15 +549,15 @@ extraction_summary:
 - [[Jean-Piaget|Jean Piaget]]
 - [[John-Sweller|John Sweller]]
 - [[Jorge Luis Borges]]
-- [[Larry Squire]]
+- [[Larry-Squire|Larry Squire]]
 - [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Lynn Nadel]]
+- [[Lynn-Nadel|Lynn Nadel]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Miyake and colleagues]]
+- [[Miyake-and-colleagues|Miyake and colleagues]]
 - [[Morris Moscovitch]]
 - [[Multiple Trace Theory]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan|Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
 - [[Norman-and-Shallice|Norman and Shallice]]
 - [[Phonological-Loop|Phonological Loop]]
@@ -569,7 +569,7 @@ extraction_summary:
 - [[Robert Lockhart]]
 - [[Savings-in-Relearning|Savings in Relearning]]
 - [[Schema-Theory|Schema Theory]]
-- [[Sleep and Memory Consolidation]]
+- [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
 - [[Spacing Effect and Distributed Practice]]
 - [[Standard-Model-of-Consolidation|Standard Model of Consolidation]]
 - [[Tip-of-the-Tongue Phenomenon]]
@@ -605,28 +605,28 @@ extraction_summary:
 | 20 | [[Central-Executive|Central Executive]] | — | — | The Working Memory Revolution | 311 |
 | 21 | [[Episodic-Buffer|Episodic Buffer]] | — | — | The Working Memory Revolution | 311 |
 | 22 | [[Norman-and-Shallice|Norman and Shallice]] | — | — | The Working Memory Revolution | 320 |
-| 23 | [[Endel Tulving]] | — | — | The Long-Term Memory Taxonomy | 332 |
+| 23 | [[Endel-Tulving|Endel Tulving]] | — | — | The Long-Term Memory Taxonomy | 332 |
 | 24 | [[Hippocampus]] | — | — | The Long-Term Memory Taxonomy | 335 |
 | 25 | [[Central-Executive|Central Executive]] | — | — | The Dominance and Limits of the Worki... | 357 |
 | 26 | [[Norman-and-Shallice|Norman and Shallice]] | — | — | The Dominance and Limits of the Worki... | 357 |
-| 27 | [[Miyake and colleagues]] | — | — | The Dominance and Limits of the Worki... | 357 |
+| 27 | [[Miyake-and-colleagues|Miyake and colleagues]] | — | — | The Dominance and Limits of the Worki... | 357 |
 | 28 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 29 | [[Schema-Theory|Schema Theory]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 30 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 31 | [[David-Rumelhart|David Rumelhart]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 32 | [[Jean-Piaget|Jean Piaget]] | — | — | The Dominance and Limits of the Worki... | 359 |
-| 33 | [[Nelson Cowan]] | — | — | The Dominance and Limits of the Worki... | 362 |
-| 34 | [[Larry Squire]] | — | — | The Multiple Memory Systems Framework | 366 |
-| 35 | [[Endel Tulving]] | — | — | The Multiple Memory Systems Framework | 366 |
-| 36 | [[Basal Ganglia]] | — | — | The Multiple Memory Systems Framework | 371 |
+| 33 | [[Nelson-Cowan|Nelson Cowan]] | — | — | The Dominance and Limits of the Worki... | 362 |
+| 34 | [[Larry-Squire|Larry Squire]] | — | — | The Multiple Memory Systems Framework | 366 |
+| 35 | [[Endel-Tulving|Endel Tulving]] | — | — | The Multiple Memory Systems Framework | 366 |
+| 36 | [[Basal-Ganglia|Basal Ganglia]] | — | — | The Multiple Memory Systems Framework | 371 |
 | 37 | [[Amygdala]] | — | — | The Multiple Memory Systems Framework | 371 |
 | 38 | [[Standard-Model-of-Consolidation|Standard Model of Consolidation]] | — | — | Consolidation: The Transition from Fr... | 384 |
-| 39 | [[Lynn Nadel]] | — | — | Consolidation: The Transition from Fr... | 387 |
+| 39 | [[Lynn-Nadel|Lynn Nadel]] | — | — | Consolidation: The Transition from Fr... | 387 |
 | 40 | [[Morris Moscovitch]] | — | — | Consolidation: The Transition from Fr... | 387 |
 | 41 | [[Fergus Craik]] | — | — | Encoding: How Information Enters Memory | 403 |
 | 42 | [[Robert Lockhart]] | — | — | Encoding: How Information Enters Memory | 403 |
-| 43 | [[Endel Tulving]] | — | — | Encoding: How Information Enters Memory | 406 |
-| 44 | [[Donald Thomson]] | — | — | Encoding: How Information Enters Memory | 406 |
+| 43 | [[Endel-Tulving|Endel Tulving]] | — | — | Encoding: How Information Enters Memory | 406 |
+| 44 | [[Donald-Thomson|Donald Thomson]] | — | — | Encoding: How Information Enters Memory | 406 |
 | 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Encoding: How Information Enters Memory | 408 |
 | 46 | [[von Restorff Effect]] | — | — | Encoding: How Information Enters Memory | 411 |
 | 47 | [[Emotional Memory]] | — | — | Encoding: How Information Enters Memory | 411 |
@@ -656,7 +656,7 @@ extraction_summary:
 | 71 | [[Levels-of-Processing-Theory|Levels of Processing Theory]] | — | — | D. Expansion Topics | 623 |
 | 72 | [[Spacing Effect and Distributed Practice]] | — | — | D. Expansion Topics | 626 |
 | 73 | [[Forgetting: Decay, Interference, and Retrieval Failure]] | — | — | D. Expansion Topics | 629 |
-| 74 | [[Sleep and Memory Consolidation]] | — | — | D. Expansion Topics | 632 |
+| 74 | [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]] | — | — | D. Expansion Topics | 632 |
 | 75 | [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]] | — | — | D. Expansion Topics | 635 |
 | 76 | [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 640 |
 
@@ -674,17 +674,17 @@ extraction_summary:
 - [[Akira Miyake and colleagues]]
 - [[Alan-Baddeley|Alan Baddeley]]
 - [[Amygdala]]
-- [[Basal Ganglia]]
+- [[Basal-Ganglia|Basal Ganglia]]
 - [[Central-Executive|Central Executive]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Daniel-Willingham|Daniel Willingham]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[Donald Thomson]]
+- [[Donald-Thomson|Donald Thomson]]
 - [[Ebbinghaus]]
 - [[Echoic-Memory|Echoic Memory]]
 - [[Elizabeth-Loftus|Elizabeth Loftus]]
 - [[Emotional Memory]]
-- [[Endel Tulving]]
+- [[Endel-Tulving|Endel Tulving]]
 - [[Episodic-Buffer|Episodic Buffer]]
 - [[Everyday Memory]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
@@ -701,15 +701,15 @@ extraction_summary:
 - [[Jean-Piaget|Jean Piaget]]
 - [[John-Sweller|John Sweller]]
 - [[Jorge Luis Borges]]
-- [[Larry Squire]]
+- [[Larry-Squire|Larry Squire]]
 - [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Lynn Nadel]]
+- [[Lynn-Nadel|Lynn Nadel]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Miyake and colleagues]]
+- [[Miyake-and-colleagues|Miyake and colleagues]]
 - [[Morris Moscovitch]]
 - [[Multiple Trace Theory]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan|Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
 - [[Norman-and-Shallice|Norman and Shallice]]
 - [[Phonological-Loop|Phonological Loop]]
@@ -721,7 +721,7 @@ extraction_summary:
 - [[Robert Lockhart]]
 - [[Savings-in-Relearning|Savings in Relearning]]
 - [[Schema-Theory|Schema Theory]]
-- [[Sleep and Memory Consolidation]]
+- [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
 - [[Spacing Effect and Distributed Practice]]
 - [[Standard-Model-of-Consolidation|Standard Model of Consolidation]]
 - [[Tip-of-the-Tongue Phenomenon]]
@@ -765,7 +765,7 @@ extraction_summary:
 #### See Also
 
 - [[Forgetting and Memory Decay]]
-- [[Sleep and Memory Consolidation]]
+- [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
 - [[Neuroscience of Memory]]
 - [[Emotional Memory and the Amygdala]]
 

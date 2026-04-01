@@ -246,7 +246,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > **What's Missing:**
-> The conventional model is missing the *engine* of learning. It describes the *superficial behaviors* of experts (they plan, they monitor) but mistakes these *symptoms* of expertise for the *cause*. The gap is the failure to recognize that these regulatory behaviors are not general-purpose tools *applied to* the domain; they are *emergent properties* that grow *out of* a deep, well-structured knowledge base *within* that domain. What's missing is the primacy of [[domain knowledge]].
+> The conventional model is missing the *engine* of learning. It describes the *superficial behaviors* of experts (they plan, they monitor) but mistakes these *symptoms* of expertise for the *cause*. The gap is the failure to recognize that these regulatory behaviors are not general-purpose tools *applied to* the domain; they are *emergent properties* that grow *out of* a deep, well-structured knowledge base *within* that domain. What's missing is the primacy of [[Domain-Knowledge|domain knowledge]].
 
 #### 12. [THE-PHILOSOPHY] Untitled *(Line 128)*
 
@@ -298,7 +298,7 @@ extraction_summary:
 > 
 > The **second fundamental truth** is that **Learning *is* a Change in Long-Term Memory**. If nothing has been lastingly changed in [[Long-Term-Memory|Long-Term Memory]], nothing has been learned. This moves the goalpost from "using a skill" to "building knowledge."
 > 
-> The **third fundamental truth** is the **Primacy of [[Domain Knowledge]]**. All complex cognitive processes—such as problem-solving, critical thinking, and, yes, self-regulation—are utterly dependent on, and guided by, the content of [[Long-Term-Memory|Long-Term Memory]]. An "empty" brain cannot think, plan, or monitor.
+> The **third fundamental truth** is the **Primacy of [[Domain-Knowledge|Domain Knowledge]]**. All complex cognitive processes—such as problem-solving, critical thinking, and, yes, self-regulation—are utterly dependent on, and guided by, the content of [[Long-Term-Memory|Long-Term Memory]]. An "empty" brain cannot think, plan, or monitor.
 > 
 > The **fourth fundamental truth** is the **Mechanism of [[schemas]]**. Knowledge is not stored as a random list of facts. It is organized into interconnected structures or models called schemas. These schemas are what allow experts to bypass the limits of [[Working-Memory|Working Memory]] by treating complex, multi-part ideas as a single "chunk."
 
@@ -932,7 +932,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking as Domain-Specific]]
-- [[Domain Knowledge]]
+- [[Domain-Knowledge|Domain Knowledge]]
 - [[Domain-Generality]]
 - [[Domain-Specificity]]
 - [[Economic Principles]]
@@ -956,7 +956,7 @@ extraction_summary:
 - [[The Fallacy of General Skills]]
 - [[The Nature of Proof and Derivation]]
 - [[Working-Memory|Working Memory]]
-- [[domain knowledge]]
+- [[Domain-Knowledge|domain knowledge]]
 - [[goal setting]]
 - [[history]]
 - [[human cognitive architecture]]
@@ -982,14 +982,14 @@ extraction_summary:
 | 11 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 1.2 The Inherited Framework | 82 |
 | 12 | [[Metacognition]] | — | — | 1.2 The Inherited Framework | 83 |
 | 13 | [[Learning Strategies]] | — | — | 1.2 The Inherited Framework | 84 |
-| 14 | [[domain knowledge]] | — | — | 1.3 The Need for Deconstruction | 106 |
+| 14 | [[Domain-Knowledge|domain knowledge]] | — | — | 1.3 The Need for Deconstruction | 106 |
 | 15 | [[quantum chromodynamics]] | — | — | 2.1 Cartesian Doubt: What Can We Ques... | 124 |
 | 16 | [[human cognitive architecture]] | — | — | 2.2 Stripping to Bedrock | 167 |
 | 17 | [[Human Cognitive Architecture]] | — | — | 2.2 Stripping to Bedrock | 176 |
 | 18 | [[Working-Memory|Working Memory]] | — | — | 2.2 Stripping to Bedrock | 176 |
 | 19 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 2.2 Stripping to Bedrock | 176 |
 | 20 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 2.2 Stripping to Bedrock | 178 |
-| 21 | [[Domain Knowledge]] | — | — | 2.2 Stripping to Bedrock | 180 |
+| 21 | [[Domain-Knowledge|Domain Knowledge]] | — | — | 2.2 Stripping to Bedrock | 180 |
 | 22 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 2.2 Stripping to Bedrock | 180 |
 | 23 | [[schemas]] | — | — | 2.2 Stripping to Bedrock | 182 |
 | 24 | [[Working-Memory|Working Memory]] | — | — | 2.2 Stripping to Bedrock | 182 |
@@ -1175,7 +1175,7 @@ graph TB
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking as Domain-Specific]]
-- [[Domain Knowledge]]
+- [[Domain-Knowledge|Domain Knowledge]]
 - [[Domain-Generality]]
 - [[Domain-Specificity]]
 - [[Economic Principles]]
@@ -1199,7 +1199,7 @@ graph TB
 - [[The Fallacy of General Skills]]
 - [[The Nature of Proof and Derivation]]
 - [[Working-Memory|Working Memory]]
-- [[domain knowledge]]
+- [[Domain-Knowledge|domain knowledge]]
 - [[goal setting]]
 - [[history]]
 - [[human cognitive architecture]]

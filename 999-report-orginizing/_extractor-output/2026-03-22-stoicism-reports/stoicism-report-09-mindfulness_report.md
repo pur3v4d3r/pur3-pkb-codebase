@@ -150,7 +150,7 @@ extraction_summary:
 > → Next: [[Stoicism and CBT - Similarities Differences and Integration]]
 > 
 > **Series Arc Position**: Integration
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 #### 3. [QUOTE] Untitled *(Line 286)*
 
@@ -389,7 +389,7 @@ extraction_summary:
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
 - [[Pierre-Hadot|Pierre Hadot]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Prosoche - Stoic Self-Attention Practice]]
@@ -399,7 +399,7 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Virtue-Ethics|Virtue Ethics]]
 
 ### All Occurrences
@@ -411,12 +411,12 @@ extraction_summary:
 | 3 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Stoicism and Mindfulness: Cultivating... | 251 |
 | 4 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
 | 5 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
-| 6 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
+| 6 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 254 |
 | 7 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 1: Introducing the Comparison — ... | 260 |
 | 8 | [[Siddhartha Gautama]] | — | — | Part 1: Introducing the Comparison — ... | 264 |
 | 9 | [[Logos]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
 | 10 | [[Prohairesis]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
-| 11 | [[Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
+| 11 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 282 |
 | 12 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: Portrait of Framework A — Sto... | 284 |
 | 13 | [[Epictetus]] | — | — | Part 2: Portrait of Framework A — Sto... | 290 |
 | 14 | [[Prosoche]] | — | — | Part 2: Portrait of Framework A — Sto... | 294 |
@@ -424,7 +424,7 @@ extraction_summary:
 | 16 | [[Mindfulness-Based Stress Reduction]] | — | — | Part 3: Portrait of Framework B — Bud... | 315 |
 | 17 | [[Mindfulness-Based Cognitive Therapy]] | — | — | Part 3: Portrait of Framework B — Bud... | 332 |
 | 18 | [[Memento Mori]] | — | — | Convergence 3: The Recognition of Imp... | 367 |
-| 19 | [[Preferred Indifferents]] | — | — | Convergence 3: The Recognition of Imp... | 367 |
+| 19 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Convergence 3: The Recognition of Imp... | 367 |
 | 20 | [[Apatheia]] | — | — | Convergence 4: Equanimity as the Idea... | 378 |
 | 21 | [[Logos]] | — | — | Divergence 1: The Nature of the Self | 401 |
 | 22 | [[Logos]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 425 |
@@ -495,7 +495,7 @@ extraction_summary:
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
 - [[Pierre-Hadot|Pierre Hadot]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Prosoche - Stoic Self-Attention Practice]]
@@ -505,7 +505,7 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Virtue-Ethics|Virtue Ethics]]
 
 ### Frontmatter Relationships
@@ -515,7 +515,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 #### Related
 

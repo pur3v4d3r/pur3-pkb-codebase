@@ -262,9 +262,9 @@ extraction_summary:
 - [[knowledge work]]
 - [[literature notes]]
 - [[nucleus accumbens]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Self-Efficacy]]
-- [[striatum]]
+- [[Striatum]]
 - [[ventral striatum]]
 - [[Zone-of-Proximal-Development|zone of proximal development]]
 
@@ -282,10 +282,10 @@ extraction_summary:
 | 8 | [[behaviorism]] | — | — | 🧠 The Architecture of Self-Determinat... | 145 |
 | 9 | [[knowledge work]] | — | — | 🧠 The Architecture of Self-Determinat... | 147 |
 | 10 | [[Autonomy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 158 |
-| 11 | [[prefrontal cortex]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 160 |
+| 11 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 160 |
 | 12 | [[Competence]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 162 |
 | 13 | [[Self-Efficacy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 162 |
-| 14 | [[striatum]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
+| 14 | [[Striatum]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 15 | [[ventral striatum]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 16 | [[nucleus accumbens]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 17 | [[Relatedness]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 166 |
@@ -296,7 +296,7 @@ extraction_summary:
 | 22 | [[Zettelkasten method]] | — | — | 📈 Competence Building Through Progres... | 213 |
 | 23 | [[literature notes]] | — | — | 🤝 Relatedness and the Social Dimensio... | 221 |
 | 24 | [[digital gardens]] | — | — | 🤝 Relatedness and the Social Dimensio... | 223 |
-| 25 | [[prefrontal cortex]] | — | — | 🎭 The Prefrontal Cortex: Executive Co... | 236 |
+| 25 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 🎭 The Prefrontal Cortex: Executive Co... | 236 |
 | 26 | [[Hippocampus]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 253 |
 | 27 | [[default mode network]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 255 |
 | 28 | [[digital gardens]] | — | — | 📚 Knowledge as Living System | 278 |
@@ -392,9 +392,9 @@ extraction_summary:
 - [[knowledge work]]
 - [[literature notes]]
 - [[nucleus accumbens]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Self-Efficacy]]
-- [[striatum]]
+- [[Striatum]]
 - [[ventral striatum]]
 - [[Zone-of-Proximal-Development|zone of proximal development]]
 

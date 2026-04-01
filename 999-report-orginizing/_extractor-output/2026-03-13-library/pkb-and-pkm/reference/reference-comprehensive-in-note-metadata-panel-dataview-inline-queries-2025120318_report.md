@@ -294,7 +294,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Overview *(Line 186)*
 
 > [!abstract] Overview
-> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard-Design|Dashboard Design]] and [[PKB Architecture]] implementations.
+> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard-Design|Dashboard Design]] and [[PKB-Architecture|PKB Architecture]] implementations.
 
 #### 4. [IMPORTANT] Inline Query Fundamentals *(Line 189)*
 
@@ -380,7 +380,7 @@ extraction_summary:
 #### 19. [KEY-CLAIM] Research Workflows *(Line 887)*
 
 > [!key-claim] Research Workflows
-> Inline queries support sophisticated academic and research tracking systems within [[PKB Architecture]].
+> Inline queries support sophisticated academic and research tracking systems within [[PKB-Architecture|PKB Architecture]].
 
 #### 20. [METHODOLOGY-AND-SOURCES] Publishing Workflows *(Line 941)*
 
@@ -460,7 +460,7 @@ extraction_summary:
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dataview]]
 - [[Dataview Inline Queries: In-Note Metadata Panel]]
-- [[DataviewJS Advanced Patterns]]
+- [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]]
 - [[File-Properties|File Properties]]
 - [[Frontmatter]]
 - [[Inline-Queries|Inline Queries]]
@@ -470,11 +470,11 @@ extraction_summary:
 - [[Meta Bind Reactive Fields]]
 - [[Metadata]]
 - [[Obsidian]]
-- [[PKB Architecture]]
+- [[PKB-Architecture|PKB Architecture]]
 - [[String-Manipulation|String Manipulation]]
 - [[Templater]]
 - [[Templater Integration with Dataview]]
-- [[Temporal Queries]]
+- [[Temporal-Queries|Temporal Queries]]
 - [[YAML]]
 - [[Zettelkasten]]
 
@@ -492,16 +492,16 @@ extraction_summary:
 | 8 | [[Obsidian]] | — | — | Tags & Classification | 176 |
 | 9 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Tags & Classification | 176 |
 | 10 | [[Link-Analysis|Link Analysis]] | — | — | Tags & Classification | 176 |
-| 11 | [[Temporal Queries]] | — | — | Tags & Classification | 176 |
+| 11 | [[Temporal-Queries|Temporal Queries]] | — | — | Tags & Classification | 176 |
 | 12 | [[Aggregation-Functions|Aggregation Functions]] | — | — | Tags & Classification | 176 |
 | 13 | [[Conditional-Logic|Conditional Logic]] | — | — | Tags & Classification | 176 |
 | 14 | [[String-Manipulation|String Manipulation]] | — | — | Tags & Classification | 176 |
 | 15 | [[File-Properties|File Properties]] | — | — | Tags & Classification | 176 |
 | 16 | [[Dashboard-Design|Dashboard Design]] | — | — | Tags & Classification | 176 |
-| 17 | [[PKB Architecture]] | — | — | Tags & Classification | 176 |
+| 17 | [[PKB-Architecture|PKB Architecture]] | — | — | Tags & Classification | 176 |
 | 18 | [[Dataview]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
 | 19 | [[Dashboard-Design|Dashboard Design]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
-| 20 | [[PKB Architecture]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
+| 20 | [[PKB-Architecture|PKB Architecture]] | — | — | 📊 Dataview Inline Queries: Complete R... | 187 |
 | 21 | [[Obsidian]] | — | — | A. Basic File Metadata Access | 205 |
 | 22 | [[Knowledge-Graph|Knowledge Graph]] | — | — | B. Link & Relationship Analysis | 245 |
 | 23 | [[Zettelkasten]] | — | — | B. Link & Relationship Analysis | 245 |
@@ -515,15 +515,15 @@ extraction_summary:
 | 31 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 37. **Review Scheduling** | 701 |
 | 32 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 41. **Network Status Panel** | 755 |
 | 33 | [[DQL]] | — | — | A. Complementary Inline Queries for T... | 846 |
-| 34 | [[PKB Architecture]] | — | — | A. Research & Academic Tracking | 888 |
+| 34 | [[PKB-Architecture|PKB Architecture]] | — | — | A. Research & Academic Tracking | 888 |
 | 35 | [[Andragogy]] | — | — | A. Learning Path Tracking | 975 |
 | 36 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 57. **Study Progress** | 987 |
 | 37 | [[Zettelkasten]] | — | — | A. Serendipity & Discovery | 1075 |
-| 38 | [[DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 1124 |
+| 38 | [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 1124 |
 | 39 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 1127 |
 | 40 | [[Templater Integration with Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 1129 |
 | 41 | [[Templater]] | — | — | 🔗 Related Topics for PKB Expansion | 1130 |
-| 42 | [[PKB Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1132 |
+| 42 | [[PKB-Architecture|PKB Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1132 |
 | 43 | [[Meta Bind Reactive Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1134 |
 | 44 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1137 |
 | 45 | [[Knowledge Graph Analytics Formulas]] | — | — | 🔗 Related Topics for PKB Expansion | 1139 |
@@ -1361,7 +1361,7 @@ LIMIT 15
 - [[Dashboard-Design|Dashboard Design]]
 - [[Dataview]]
 - [[Dataview Inline Queries: In-Note Metadata Panel]]
-- [[DataviewJS Advanced Patterns]]
+- [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]]
 - [[File-Properties|File Properties]]
 - [[Frontmatter]]
 - [[Inline-Queries|Inline Queries]]
@@ -1371,11 +1371,11 @@ LIMIT 15
 - [[Meta Bind Reactive Fields]]
 - [[Metadata]]
 - [[Obsidian]]
-- [[PKB Architecture]]
+- [[PKB-Architecture|PKB Architecture]]
 - [[String-Manipulation|String Manipulation]]
 - [[Templater]]
 - [[Templater Integration with Dataview]]
-- [[Temporal Queries]]
+- [[Temporal-Queries|Temporal Queries]]
 - [[YAML]]
 - [[Zettelkasten]]
 

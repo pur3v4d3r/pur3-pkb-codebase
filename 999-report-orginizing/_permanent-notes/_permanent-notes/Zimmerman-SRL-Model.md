@@ -23,30 +23,30 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 21
+referenced-by-count: 29
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Autonomous-Motivation]]"
+  - "[[Calibration-Dependency]]"
+  - "[[Cognitive-Transparency-Assumption]]"
   - "[[Context-Regulation]]"
   - "[[Controlled-Motivation]]"
+  - "[[Defensive-Inference]]"
+  - "[[Distributed-Regulation]]"
   - "[[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]"
-  - "[[Motivational-Regulation]]"
-  - "[[Phase-vs.-Area-A-Critical-Distinction]]"
-  - "[[Pintrich's-44-Matrix]]"
-  - "[[Pintrich's-4×4-Matrix]]"
-  - "[[Pintrich's-Integrative-SRL-Framework]]"
+  - "[[Metacognitive-Accuracy]]"
+  - "[[Monitoring-Regulation-Coupling]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,18 +59,24 @@ importance: high
 # Zimmerman-SRL-Model
 
 > [!definition] **Zimmerman-SRL-Model**
-> *Stub note — concept referenced by 21 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 29 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 21 permanent notes.*
+*Auto-generated stub — referenced by 29 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Autonomous-Motivation]]
+- [[Calibration-Dependency]]
+- [[Cognitive-Transparency-Assumption]]
 - [[Context-Regulation]]
 - [[Controlled-Motivation]]
+- [[Defensive-Inference]]
+- [[Distributed-Regulation]]
 - [[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]
+- [[Metacognitive-Accuracy]]
+- [[Monitoring-Regulation-Coupling]]
 - [[Motivational-Regulation]]
+- [[Normative-vs.-Descriptive-Model]]
 - [[Phase-vs.-Area-A-Critical-Distinction]]
 - [[Pintrich's-44-Matrix]]
 - [[Pintrich's-4×4-Matrix]]
@@ -79,10 +85,4 @@ importance: high
 - [[Regulatory-Reflexivity-Problem]]
 - [[Self-Determined-Self-Regulation]]
 - [[Self-Regulated-Learning-SRL]]
-- [[The-Motivational-Regulatory-Architecture-of-Learning]]
-- [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing]]
-- [[Tight-Loop-Assumption]]
-- [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]
-- [[Zimmerman's-Cyclical-SRL-Model]]
-- [[_Master-Definition-Index|_Master-Definition-Index]]
-- *...and 1 more permanent notes*
+- *...and 9 more permanent notes*

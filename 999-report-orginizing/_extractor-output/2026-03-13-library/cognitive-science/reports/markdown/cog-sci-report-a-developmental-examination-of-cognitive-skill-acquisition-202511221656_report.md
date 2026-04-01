@@ -238,7 +238,7 @@ extraction_summary:
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
 - [[Evolutionary Psychology]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Game Theory]]
 - [[Interleaving vs. Blocking]]
 - [[K. Anders Ericsson]]
@@ -252,7 +252,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Expertise Development]] | — | — | Expertise Development | 30 |
+| 1 | [[Expertise-Development|Expertise Development]] | — | — | Expertise Development | 30 |
 | 2 | [[Cognitive Mastery]] | — | — | Expertise Development | 30 |
 | 3 | [[Advanced Andragogy]] | — | — | Expertise Development | 30 |
 | 4 | [[Novice to Expert Continuum]] | — | — | Expertise Development | 30 |
@@ -362,7 +362,7 @@ $$
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
 - [[Evolutionary Psychology]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Game Theory]]
 - [[Interleaving vs. Blocking]]
 - [[K. Anders Ericsson]]

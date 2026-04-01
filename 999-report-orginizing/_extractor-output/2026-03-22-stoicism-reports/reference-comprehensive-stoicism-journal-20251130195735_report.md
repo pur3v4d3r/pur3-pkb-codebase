@@ -336,13 +336,13 @@ extraction_summary:
 #### 11. [DEFINITION] Untitled *(Line 198)*
 
 > [!definition] Untitled
-> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness|Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
+> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness|Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational-Nature|Rational Nature]].
 
 #### 12. [KEY-CLAIM] Untitled *(Line 217)*
 
 > [!key-claim] Untitled
 > **The Central Philosophical Claim**
-> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
+> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational-Nature|Rational Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
 
 #### 13. [PRINCIPLE-POINT] Untitled *(Line 235)*
 
@@ -354,7 +354,7 @@ extraction_summary:
 
 > [!methodology-and-sources] Untitled
 > **Virtue as the Evaluative Framework**
-> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External Achievement]].
+> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External-Achievement|External Achievement]].
 
 #### 15. [ANALOGY] Untitled *(Line 289)*
 
@@ -366,7 +366,7 @@ extraction_summary:
 
 > [!evidence] Untitled
 > **Clinical Validation**
-> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear Extinction]], [[Emotional Regulation]], and [[Executive Control]]—align with the psychological architecture Stoic practices engage.
+> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear-Extinction|Fear Extinction]], [[Emotional-Regulation|Emotional Regulation]], and [[Executive-Control|Executive Control]]—align with the psychological architecture Stoic practices engage.
 
 #### 17. [KEY-CLAIM] Untitled *(Line 376)*
 
@@ -384,7 +384,7 @@ extraction_summary:
 > - Universal context (how this fits cosmic order)
 > - Rational assessment (what virtue demands)
 > - Mortality reminder (brevity of life)
-> This multi-perspective analysis prevents [[Cognitive Narrowing]] and reveals hidden assumptions.
+> This multi-perspective analysis prevents [[Cognitive-Narrowing|Cognitive Narrowing]] and reveals hidden assumptions.
 
 #### 19. [METHODOLOGY-AND-SOURCES] Untitled *(Line 422)*
 
@@ -643,7 +643,7 @@ extraction_summary:
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Actions]]
 - [[Advanced Stoic Contemplative Practices]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Amygdala Modulation]]
 - [[Amygdalar]]
 - [[Anger]]
@@ -668,7 +668,7 @@ extraction_summary:
 - [[Cognitive Disputation]]
 - [[Cognitive Distortions]]
 - [[Cognitive Habit]]
-- [[Cognitive Narrowing]]
+- [[Cognitive-Narrowing|Cognitive Narrowing]]
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
@@ -677,7 +677,7 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Connor-Davidson Resilience Scale]]
 - [[Cosmopolitanism]]
 - [[Courage]]
@@ -690,7 +690,7 @@ extraction_summary:
 - [[Difficulties in Emotion Regulation Scale]]
 - [[Digital Stoic Practice Environment]]
 - [[Discipline-of-Assent]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Responses]]
 - [[Enchiridion]]
@@ -700,11 +700,11 @@ extraction_summary:
 - [[Equanimity]]
 - [[Eudaimonia]]
 - [[Evening Review Practice]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Exposure Therapy]]
-- [[External Achievement]]
+- [[External-Achievement|External Achievement]]
 - [[External Events]]
-- [[Fear Extinction]]
+- [[Fear-Extinction|Fear Extinction]]
 - [[Flourishing]]
 - [[Forensic Self-Analysis]]
 - [[Fractal Consistency]]
@@ -733,7 +733,7 @@ extraction_summary:
 - [[Meta Bind]]
 - [[Metacognition and Self-Regulated Learning - Research and Application]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Metacognitive Journaling]]
 - [[Metacognitive Monitoring System]]
 - [[Metacognitive Scaffold]]
@@ -759,7 +759,7 @@ extraction_summary:
 - [[philosophy]]
 - [[Pierre-Hadot|Pierre Hadot]]
 - [[Plain Text]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Propatheiai]]
 - [[Prosoche]]
@@ -770,7 +770,7 @@ extraction_summary:
 - [[Pythagorean Tradition]]
 - [[QuickAdd]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Rational Nature]]
+- [[Rational-Nature|Rational Nature]]
 - [[Ruling Faculty]]
 - [[Rumination]]
 - [[Ryan Holiday]]
@@ -830,7 +830,7 @@ extraction_summary:
 | 13 | [[Virtue]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 14 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 15 | [[Psychological Resilience]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
-| 16 | [[Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
+| 16 | [[Rational-Nature|Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 199 |
 | 17 | [[Stoic Daily Journaling]] | — | — | The Ancient Lineage | 203 |
 | 18 | [[philosophy]] | — | — | The Ancient Lineage | 203 |
 | 19 | [[Art of Living]] | — | — | The Ancient Lineage | 203 |
@@ -856,7 +856,7 @@ extraction_summary:
 | 39 | [[Judgments]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
 | 40 | [[Value-Assessments]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
 | 41 | [[Actions]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
-| 42 | [[Rational Nature]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
+| 42 | [[Rational-Nature|Rational Nature]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
 | 43 | [[Virtue]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
 | 44 | [[Moral Development]] | — | — | The Pythagorean Origin | 223 |
 | 45 | [[Antonine Plague]] | — | — | The Modern Rediscovery | 227 |
@@ -871,7 +871,7 @@ extraction_summary:
 | 54 | [[Justice]] | — | — | The Four Cardinal Virtues | 259 |
 | 55 | [[Courage]] | — | — | The Four Cardinal Virtues | 260 |
 | 56 | [[Moderation]] | — | — | The Four Cardinal Virtues | 261 |
-| 57 | [[External Achievement]] | — | — | The Four Cardinal Virtues | 265 |
+| 57 | [[External-Achievement|External Achievement]] | — | — | The Four Cardinal Virtues | 265 |
 | 58 | [[Spiritual Exercises]] | — | — | Spiritual Exercises as Psychological ... | 269 |
 | 59 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Spiritual Exercises as Psychological ... | 269 |
 | 60 | [[Prosoche]] | — | — | Spiritual Exercises as Psychological ... | 272 |
@@ -879,7 +879,7 @@ extraction_summary:
 | 62 | [[Premeditatio-Malorum]] | — | — | Spiritual Exercises as Psychological ... | 274 |
 | 63 | [[Negative Visualization]] | — | — | Spiritual Exercises as Psychological ... | 275 |
 | 64 | [[Memento Mori]] | — | — | Spiritual Exercises as Psychological ... | 276 |
-| 65 | [[Amor Fati]] | — | — | Spiritual Exercises as Psychological ... | 277 |
+| 65 | [[Amor-Fati|Amor Fati]] | — | — | Spiritual Exercises as Psychological ... | 277 |
 | 66 | [[Internal Experience]] | — | — | Self-Regulation Through Written Language | 281 |
 | 67 | [[Written Language]] | — | — | Self-Regulation Through Written Language | 281 |
 | 68 | [[Cognitive-Offloading|Cognitive Offloading]] | — | — | Self-Regulation Through Written Language | 283 |
@@ -892,7 +892,7 @@ extraction_summary:
 | 75 | [[Cognitive-Science|Cognitive Science]] | — | — | The Metacognitive Foundation | 299 |
 | 76 | [[Self-Regulated Learners]] | — | — | The Metacognitive Foundation | 299 |
 | 77 | [[Metacognitive Scaffold]] | — | — | The Metacognitive Foundation | 299 |
-| 78 | [[Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 305 |
+| 78 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 305 |
 | 79 | [[Rational Emotive Behavior Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
 | 80 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
 | 81 | [[Cognitive Restructuring]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
@@ -908,12 +908,12 @@ extraction_summary:
 | 91 | [[Exposure Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
 | 92 | [[Virtue]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
 | 93 | [[Values Clarification]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
-| 94 | [[Fear Extinction]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
-| 95 | [[Emotional Regulation]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
-| 96 | [[Executive Control]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
+| 94 | [[Fear-Extinction|Fear Extinction]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
+| 95 | [[Emotional-Regulation|Emotional Regulation]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
+| 96 | [[Executive-Control|Executive Control]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
 | 97 | [[Cognitive Activity]] | — | — | Emotional Regulation Through Cognitiv... | 328 |
 | 98 | [[Neuroplasticity]] | — | — | Neuroplasticity and Habit Formation | 340 |
-| 99 | [[Prefrontal Cortex]] | — | — | Neuroplasticity and Habit Formation | 343 |
+| 99 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | Neuroplasticity and Habit Formation | 343 |
 | 100 | [[Default Mode Network]] | — | — | Neuroplasticity and Habit Formation | 344 |
 | 101 | [[Self-Referential Rumination]] | — | — | Neuroplasticity and Habit Formation | 344 |
 | 102 | [[Hippocampal Consolidation]] | — | — | Neuroplasticity and Habit Formation | 345 |
@@ -928,7 +928,7 @@ extraction_summary:
 | 111 | [[Gratitude]] | — | — | Marcus Aurelius's Personal System | 391 |
 | 112 | [[Hedonic-Adaptation]] | — | — | Marcus Aurelius's Personal System | 394 |
 | 113 | [[Equanimity]] | — | — | Marcus Aurelius's Personal System | 398 |
-| 114 | [[Cognitive Narrowing]] | — | — | Marcus Aurelius's Personal System | 416 |
+| 114 | [[Cognitive-Narrowing|Cognitive Narrowing]] | — | — | Marcus Aurelius's Personal System | 416 |
 | 115 | [[Prospective Self-Monitoring]] | — | — | Seneca's Evening Forensic Examination | 435 |
 | 116 | [[Golden Verses of Pythagoras]] | — | — | Epictetus's Three-Question Framework | 439 |
 | 117 | [[Learning Cycle]] | — | — | Epictetus's Three-Question Framework | 445 |
@@ -992,7 +992,7 @@ extraction_summary:
 | 175 | [[Emotional Regulation Questionnaire]] | — | — | Primary Psychological Outcomes | 1404 |
 | 176 | [[Connor-Davidson Resilience Scale]] | — | — | Primary Psychological Outcomes | 1417 |
 | 177 | [[Brief Resilience Scale]] | — | — | Primary Psychological Outcomes | 1417 |
-| 178 | [[Metacognitive Awareness Inventory]] | — | — | Primary Psychological Outcomes | 1430 |
+| 178 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | Primary Psychological Outcomes | 1430 |
 | 179 | [[Self-Compassion]] | — | — | Red Flags and Negative Indicators | 1651 |
 | 180 | [[Apatheia]] | — | — | Emotional Suppression Misunderstanding | 1704 |
 | 181 | [[Apathy]] | — | — | Emotional Suppression Misunderstanding | 1704 |
@@ -1026,7 +1026,7 @@ extraction_summary:
 | 209 | [[Neuroplastic Change]] | — | — | The Three-Pillar Architecture | 2247 |
 | 210 | [[Second Nature]] | — | — | The Progression of Mastery | 2302 |
 | 211 | [[Metacognitive Scaffold]] | — | — | The Scaffold Model | 2332 |
-| 212 | [[Compound Interest]] | — | — | The Compounding Returns Model | 2343 |
+| 212 | [[Compound-Interest|Compound Interest]] | — | — | The Compounding Returns Model | 2343 |
 | 213 | [[Virtue]] | — | — | The Ultimate Purpose | 2447 |
 | 214 | [[Eudaimonia]] | — | — | The Ultimate Purpose | 2448 |
 | 215 | [[Psychological Resilience]] | — | — | The Ultimate Purpose | 2449 |
@@ -1693,7 +1693,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Actions]]
 - [[Advanced Stoic Contemplative Practices]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Amygdala Modulation]]
 - [[Amygdalar]]
 - [[Anger]]
@@ -1718,7 +1718,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Cognitive Disputation]]
 - [[Cognitive Distortions]]
 - [[Cognitive Habit]]
-- [[Cognitive Narrowing]]
+- [[Cognitive-Narrowing|Cognitive Narrowing]]
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
@@ -1727,7 +1727,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Connor-Davidson Resilience Scale]]
 - [[Cosmopolitanism]]
 - [[Courage]]
@@ -1740,7 +1740,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Difficulties in Emotion Regulation Scale]]
 - [[Digital Stoic Practice Environment]]
 - [[Discipline-of-Assent]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Responses]]
 - [[Enchiridion]]
@@ -1750,11 +1750,11 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Equanimity]]
 - [[Eudaimonia]]
 - [[Evening Review Practice]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Exposure Therapy]]
-- [[External Achievement]]
+- [[External-Achievement|External Achievement]]
 - [[External Events]]
-- [[Fear Extinction]]
+- [[Fear-Extinction|Fear Extinction]]
 - [[Flourishing]]
 - [[Forensic Self-Analysis]]
 - [[Fractal Consistency]]
@@ -1783,7 +1783,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Meta Bind]]
 - [[Metacognition and Self-Regulated Learning - Research and Application]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Metacognitive Journaling]]
 - [[Metacognitive Monitoring System]]
 - [[Metacognitive Scaffold]]
@@ -1809,7 +1809,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[philosophy]]
 - [[Pierre-Hadot|Pierre Hadot]]
 - [[Plain Text]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Propatheiai]]
 - [[Prosoche]]
@@ -1820,7 +1820,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Pythagorean Tradition]]
 - [[QuickAdd]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Rational Nature]]
+- [[Rational-Nature|Rational Nature]]
 - [[Ruling Faculty]]
 - [[Rumination]]
 - [[Ryan Holiday]]

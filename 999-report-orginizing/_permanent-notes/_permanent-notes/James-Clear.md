@@ -23,23 +23,28 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 3
+referenced-by-count: 8
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Context-Regulation]]"
+  - "[[Motivational-Regulation]]"
+  - "[[Phase-vs.-Area-A-Critical-Distinction]]"
   - "[[Phase-vs.-Area-—-A-Critical-Distinction]]"
+  - "[[Pintrich's-44-Matrix]]"
   - "[[Pintrich's-4×4-Matrix]]"
+  - "[[Regulatory-Reflexivity-Problem]]"
+  - "[[The-Regulatory-Reflexivity-Problem-A-Novel-Framing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -52,12 +57,17 @@ importance: low
 # James-Clear
 
 > [!definition] **James-Clear**
-> *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 3 permanent notes.*
+*Auto-generated stub — referenced by 8 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Context-Regulation]]
+- [[Motivational-Regulation]]
+- [[Phase-vs.-Area-A-Critical-Distinction]]
 - [[Phase-vs.-Area-—-A-Critical-Distinction]]
+- [[Pintrich's-44-Matrix]]
 - [[Pintrich's-4×4-Matrix]]
+- [[Regulatory-Reflexivity-Problem]]
+- [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing]]

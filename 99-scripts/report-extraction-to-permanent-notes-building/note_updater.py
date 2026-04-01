@@ -682,6 +682,125 @@ class NoteUpdater:
                     existing_methodology.append(meth_body)
                     action.methodology_added += 1
 
+        # -- 7k. Add schema-activation callouts (v2.2) --------------------
+        existing_schema = _extract_existing_callouts(body, "schema-activation")
+        for c in candidates:
+            for sa in getattr(c, 'schema_activations', []):
+                sa_body = sa.get("body", "")
+                sa_title = sa.get("title", "")
+                if not _is_duplicate_callout(sa_body, existing_schema):
+                    callout = _build_callout_block(
+                        "schema-activation",
+                        f"**{sa_title}** *(from {c.source_report})*" if sa_title else f"*(from {c.source_report})*",
+                        sa_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Schema Activations", callout
+                    )
+                    existing_schema.append(sa_body)
+
+        # -- 7l. Add active-reading callouts (v2.2) ------------------------
+        existing_ar = _extract_existing_callouts(body, "active-reading")
+        for c in candidates:
+            for ar in getattr(c, 'active_readings', []):
+                ar_body = ar.get("body", "")
+                ar_title = ar.get("title", "")
+                if not _is_duplicate_callout(ar_body, existing_ar):
+                    callout = _build_callout_block(
+                        "active-reading",
+                        f"**{ar_title}** *(from {c.source_report})*" if ar_title else f"*(from {c.source_report})*",
+                        ar_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Active Reading Prompts", callout
+                    )
+                    existing_ar.append(ar_body)
+
+        # -- 7m. Add far-transfer callouts (v2.2) -------------------------
+        existing_ft = _extract_existing_callouts(body, "far-transfer")
+        for c in candidates:
+            for ft in getattr(c, 'far_transfers', []):
+                ft_body = ft.get("body", "")
+                ft_title = ft.get("title", "")
+                if not _is_duplicate_callout(ft_body, existing_ft):
+                    callout = _build_callout_block(
+                        "far-transfer",
+                        f"**{ft_title}** *(from {c.source_report})*" if ft_title else f"*(from {c.source_report})*",
+                        ft_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Far Transfer Applications", callout
+                    )
+                    existing_ft.append(ft_body)
+
+        # -- 7n. Add debate callouts (v2.2) --------------------------------
+        existing_debates = _extract_existing_callouts(body, "debate")
+        for c in candidates:
+            for debate in getattr(c, 'debates', []):
+                debate_body = debate.get("body", "")
+                debate_title = debate.get("title", "")
+                if not _is_duplicate_callout(debate_body, existing_debates):
+                    callout = _build_callout_block(
+                        "debate",
+                        f"**{debate_title}** *(from {c.source_report})*" if debate_title else f"*(from {c.source_report})*",
+                        debate_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Debates", callout
+                    )
+                    existing_debates.append(debate_body)
+
+        # -- 7o. Add example callouts (v2.2) -------------------------------
+        existing_examples = _extract_existing_callouts(body, "example")
+        for c in candidates:
+            for ex in getattr(c, 'examples', []):
+                ex_body = ex.get("body", "")
+                ex_title = ex.get("title", "")
+                if not _is_duplicate_callout(ex_body, existing_examples):
+                    callout = _build_callout_block(
+                        "example",
+                        f"**{ex_title}** *(from {c.source_report})*" if ex_title else f"*(from {c.source_report})*",
+                        ex_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Concrete Examples", callout
+                    )
+                    existing_examples.append(ex_body)
+
+        # -- 7p. Add claude-insight callouts (v2.2) ------------------------
+        existing_ci = _extract_existing_callouts(body, "claude-insight")
+        for c in candidates:
+            for ci in getattr(c, 'claude_insights', []):
+                ci_body = ci.get("body", "")
+                ci_title = ci.get("title", "")
+                if not _is_duplicate_callout(ci_body, existing_ci):
+                    callout = _build_callout_block(
+                        "claude-insight",
+                        f"**{ci_title}** *(from {c.source_report})*" if ci_title else f"*(from {c.source_report})*",
+                        ci_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "AI Insights", callout
+                    )
+                    existing_ci.append(ci_body)
+
+        # -- 7q. Add section-summary callouts (v2.2) ----------------------
+        existing_ss = _extract_existing_callouts(body, "section-summary")
+        for c in candidates:
+            for ss in getattr(c, 'section_summaries', []):
+                ss_body = ss.get("body", "")
+                ss_title = ss.get("title", "")
+                if not _is_duplicate_callout(ss_body, existing_ss):
+                    callout = _build_callout_block(
+                        "section-summary",
+                        f"**{ss_title}** *(from {c.source_report})*" if ss_title else f"*(from {c.source_report})*",
+                        ss_body,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Section Summaries", callout
+                    )
+                    existing_ss.append(ss_body)
+
         # -- 8. Add new wiki-links to Connections section ------------------
         new_wl_for_body = []
         for c in candidates:

@@ -200,7 +200,7 @@ extraction_summary:
 #### 12. [COUNTER-ARGUMENT] The Definitional Problem in Organizer Research *(Line 348)*
 
 > [!counter-argument] The Definitional Problem in Organizer Research
-> A persistent methodological criticism — articulated by [[Richard-Mayer|Richard Mayer]], [[Frances Lawton]], and others — is that the advance organizer literature is definitionally incoherent. Many studies label their experimental materials "advance organizers" while presenting what are in fact overviews, summaries, or previews that do not meet Ausubel's stated criteria of greater generality and abstraction. When only studies using genuinely Ausubelian organizers are included, effect sizes shrink; when looser definitions are used, they grow. This makes the aggregate effect size figure difficult to interpret and cautions against treating any specific manipulation labeled "advance organizer" as interchangeable with any other.
+> A persistent methodological criticism — articulated by [[Richard-Mayer|Richard Mayer]], [[Frances-Lawton|Frances Lawton]], and others — is that the advance organizer literature is definitionally incoherent. Many studies label their experimental materials "advance organizers" while presenting what are in fact overviews, summaries, or previews that do not meet Ausubel's stated criteria of greater generality and abstraction. When only studies using genuinely Ausubelian organizers are included, effect sizes shrink; when looser definitions are used, they grow. This makes the aggregate effect size figure difficult to interpret and cautions against treating any specific manipulation labeled "advance organizer" as interchangeable with any other.
 
 #### 13. [COUNTER-ARGUMENT] The Inaccurate Prior Knowledge Problem *(Line 353)*
 
@@ -269,7 +269,7 @@ extraction_summary:
 #### 25. [BEST-PRACTICE] The KWL Strategy *(Line 415)*
 
 > [!best-practice] The KWL Strategy
-> The [[KWL-Strategy|KWL Strategy]] (Know, Want to Know, Learned) developed by [[Donna Ogle]] (1986) is a classroom-level prior knowledge activation protocol. Before reading or instruction, learners list what they *Know* about the topic (activating existing schemas), then articulate what they *Want* to know (establishing generative questions that direct attention), and after instruction, record what they *Learned*. The K and W phases function together as a diagnostic and activating advance organizer — surfacing existing knowledge (including potential misconceptions), establishing epistemic goals, and creating a framework into which new information can be actively fitted. KWL is particularly effective at the individual and small-group level because it makes knowledge heterogeneity visible, allowing instructors to differentiate.
+> The [[KWL-Strategy|KWL Strategy]] (Know, Want to Know, Learned) developed by [[Donna-Ogle|Donna Ogle]] (1986) is a classroom-level prior knowledge activation protocol. Before reading or instruction, learners list what they *Know* about the topic (activating existing schemas), then articulate what they *Want* to know (establishing generative questions that direct attention), and after instruction, record what they *Learned*. The K and W phases function together as a diagnostic and activating advance organizer — surfacing existing knowledge (including potential misconceptions), establishing epistemic goals, and creating a framework into which new information can be actively fitted. KWL is particularly effective at the individual and small-group level because it makes knowledge heterogeneity visible, allowing instructors to differentiate.
 
 #### 26. [EVIDENCE] Elaborative Interrogation vs. Advance Organizers *(Line 422)*
 
@@ -501,7 +501,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Advance-Organizers|Advance Organizers]]
-- [[Alexander, Kulikowich & Schulze (1994)]]
+- [[Alexander,-Kulikowich-&-Schulze-1994|Alexander, Kulikowich & Schulze (1994)]]
 - [[Analogical Reasoning in Instruction]]
 - [[Ann-Brown|Ann Brown]]
 - [[Assimilation-Theory|Assimilation Theory]]
@@ -513,22 +513,22 @@ extraction_summary:
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[David-Ausubel|David Ausubel]]
 - [[Dochy,-Segers-&-Buehl-1999|Dochy, Segers & Buehl (1999)]]
-- [[Donna Ogle]]
+- [[Donna-Ogle|Donna Ogle]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Episodic-Memory|Episodic Memory]]
 - [[Expository-Organizer|Expository Organizer]]
 - [[Feedback-Design|Feedback Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
-- [[Frances Lawton]]
+- [[Frances-Lawton|Frances Lawton]]
 - [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Jean-Piaget|Jean Piaget]]
-- [[John Bransford]]
+- [[John-Bransford|John Bransford]]
 - [[KWL-Strategy|KWL Strategy]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Luiten, Ames & Ackerson (1980)]]
-- [[Mayer (1979)]]
+- [[Luiten,-Ames-&-Ackerson-1980|Luiten, Ames & Ackerson (1980)]]
+- [[Mayer-1979|Mayer (1979)]]
 - [[Mental-Model|Mental Model]]
 - [[Metacognition]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
@@ -540,12 +540,12 @@ extraction_summary:
 - [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Prompt Engineering for Educational AI]]
 - [[Retrieval Practice & Testing Effect]]
-- [[Richard Anderson]]
+- [[Richard-Anderson|Richard Anderson]]
 - [[Richard-Mayer|Richard Mayer]]
 - [[Schema]]
 - [[Schema-Theory|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Stone (1983)]]
+- [[Stone-1983|Stone (1983)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[WEIRD-Sample-Bias|WEIRD-Sample Bias]]
 - [[Woloshyn,-Pressley-&-Schneider-1992|Woloshyn, Pressley & Schneider (1992)]]
@@ -583,17 +583,17 @@ extraction_summary:
 | 24 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory and the Constructivist ... | 332 |
 | 25 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | Schema Theory and the Constructivist ... | 332 |
 | 26 | [[Jean-Piaget|Jean Piaget]] | — | — | Schema Theory and the Constructivist ... | 332 |
-| 27 | [[Richard Anderson]] | — | — | Schema Theory and the Constructivist ... | 332 |
+| 27 | [[Richard-Anderson|Richard Anderson]] | — | — | Schema Theory and the Constructivist ... | 332 |
 | 28 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory and the Constructivist ... | 334 |
 | 29 | [[Prior-Knowledge|Prior Knowledge]] | prior knowledge | — | Schema Theory and the Constructivist ... | 337 |
-| 30 | [[John Bransford]] | — | — | Schema Theory and the Constructivist ... | 339 |
+| 30 | [[John-Bransford|John Bransford]] | — | — | Schema Theory and the Constructivist ... | 339 |
 | 31 | [[Ann-Brown|Ann Brown]] | — | — | Schema Theory and the Constructivist ... | 339 |
-| 32 | [[Luiten, Ames & Ackerson (1980)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
-| 33 | [[Stone (1983)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
-| 34 | [[Mayer (1979)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
+| 32 | [[Luiten,-Ames-&-Ackerson-1980|Luiten, Ames & Ackerson (1980)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
+| 33 | [[Stone-1983|Stone (1983)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
+| 34 | [[Mayer-1979|Mayer (1979)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
 | 35 | [[Richard-Mayer|Richard Mayer]] | — | — | The Empirical Debate: Do Advance Orga... | 349 |
-| 36 | [[Frances Lawton]] | — | — | The Empirical Debate: Do Advance Orga... | 349 |
-| 37 | [[Alexander, Kulikowich & Schulze (1994)]] | — | — | The Empirical Debate: Do Advance Orga... | 351 |
+| 36 | [[Frances-Lawton|Frances Lawton]] | — | — | The Empirical Debate: Do Advance Orga... | 349 |
+| 37 | [[Alexander,-Kulikowich-&-Schulze-1994|Alexander, Kulikowich & Schulze (1994)]] | — | — | The Empirical Debate: Do Advance Orga... | 351 |
 | 38 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | The Empirical Debate: Do Advance Orga... | 354 |
 | 39 | [[Working-Memory|Working Memory]] | — | — | The Cognitive Architecture of Organiz... | 367 |
 | 40 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Cognitive Architecture of Organiz... | 367 |
@@ -601,7 +601,7 @@ extraction_summary:
 | 42 | [[Piaget]] | — | — | What Happens When Prior Knowledge Act... | 388 |
 | 43 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | What Happens When Prior Knowledge Act... | 391 |
 | 44 | [[KWL-Strategy|KWL Strategy]] | — | — | Advance Organizer Design: A Practitio... | 416 |
-| 45 | [[Donna Ogle]] | — | — | Advance Organizer Design: A Practitio... | 416 |
+| 45 | [[Donna-Ogle|Donna Ogle]] | — | — | Advance Organizer Design: A Practitio... | 416 |
 | 46 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Beyond Classic Organizers: Activation... | 420 |
 | 47 | [[Pre-questioning]] | — | — | Beyond Classic Organizers: Activation... | 420 |
 | 48 | [[Bridging-Analogies|Bridging Analogies]] | — | — | Beyond Classic Organizers: Activation... | 420 |
@@ -649,7 +649,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Advance-Organizers|Advance Organizers]]
-- [[Alexander, Kulikowich & Schulze (1994)]]
+- [[Alexander,-Kulikowich-&-Schulze-1994|Alexander, Kulikowich & Schulze (1994)]]
 - [[Analogical Reasoning in Instruction]]
 - [[Ann-Brown|Ann Brown]]
 - [[Assimilation-Theory|Assimilation Theory]]
@@ -661,22 +661,22 @@ extraction_summary:
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[David-Ausubel|David Ausubel]]
 - [[Dochy,-Segers-&-Buehl-1999|Dochy, Segers & Buehl (1999)]]
-- [[Donna Ogle]]
+- [[Donna-Ogle|Donna Ogle]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Episodic-Memory|Episodic Memory]]
 - [[Expository-Organizer|Expository Organizer]]
 - [[Feedback-Design|Feedback Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
-- [[Frances Lawton]]
+- [[Frances-Lawton|Frances Lawton]]
 - [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Jean-Piaget|Jean Piaget]]
-- [[John Bransford]]
+- [[John-Bransford|John Bransford]]
 - [[KWL-Strategy|KWL Strategy]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Luiten, Ames & Ackerson (1980)]]
-- [[Mayer (1979)]]
+- [[Luiten,-Ames-&-Ackerson-1980|Luiten, Ames & Ackerson (1980)]]
+- [[Mayer-1979|Mayer (1979)]]
 - [[Mental-Model|Mental Model]]
 - [[Metacognition]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
@@ -688,12 +688,12 @@ extraction_summary:
 - [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Prompt Engineering for Educational AI]]
 - [[Retrieval Practice & Testing Effect]]
-- [[Richard Anderson]]
+- [[Richard-Anderson|Richard Anderson]]
 - [[Richard-Mayer|Richard Mayer]]
 - [[Schema]]
 - [[Schema-Theory|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Stone (1983)]]
+- [[Stone-1983|Stone (1983)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[WEIRD-Sample-Bias|WEIRD-Sample Bias]]
 - [[Woloshyn,-Pressley-&-Schneider-1992|Woloshyn, Pressley & Schneider (1992)]]
@@ -735,7 +735,7 @@ extraction_summary:
 
 - [[Worked Examples Effect]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Spaced Practice]]
+- [[spaced-practice|Spaced Practice]]
 - [[Analogical-Reasoning|Analogical Reasoning]]
 
 #### Contrasts With

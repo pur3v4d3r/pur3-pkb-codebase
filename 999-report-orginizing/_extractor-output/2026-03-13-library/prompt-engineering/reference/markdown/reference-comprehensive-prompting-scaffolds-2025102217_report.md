@@ -246,7 +246,7 @@ extraction_summary:
 - [[CRISPE]]
 - [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Chain-of-Verification]]
-- [[Chain-of-Verification (CoVe)]]
+- [[Chain-of-Verification|Chain-of-Verification (CoVe)]]
 - [[Constitutional-AI|Constitutional AI (Prompt style)]]
 - [[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]]
 - [[Evaluation Harnesses for Prompts (Rubrics, Benchmarks, Human-in-the-Loop)]]
@@ -319,7 +319,7 @@ extraction_summary:
 | 20 | [[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]] | — | — | Critique, Verification & Multi-Agent ... | 243 |
 | 21 | [[LLM-as-a-Judge / Rubric Grading]] | — | — | Critique, Verification & Multi-Agent ... | 249 |
 | 22 | [[Multi-Agent Debate / Deliberation]] | — | — | Critique, Verification & Multi-Agent ... | 255 |
-| 23 | [[Chain-of-Verification (CoVe)]] | — | — | Critique, Verification & Multi-Agent ... | 261 |
+| 23 | [[Chain-of-Verification|Chain-of-Verification (CoVe)]] | — | — | Critique, Verification & Multi-Agent ... | 261 |
 | 24 | [[Structured Output (JSON/Schemas)]] | — | — | Structured Output & Guardrails | 271 |
 | 25 | [[Guardrails: Llama Guard / Policy Classifiers]] | — | — | Structured Output & Guardrails | 277 |
 | 26 | [[CRISPE]] | — | — | Practitioner Frameworks (community pa... | 289 |
@@ -540,7 +540,7 @@ extraction_summary:
 ### Code Block 20 — `plaintext` *(Lines 260-264)*
 
 ```plaintext
-**Technique:** `[[Chain-of-Verification (CoVe)]]`
+**Technique:** `[[Chain-of-Verification|Chain-of-Verification (CoVe)]]`
 **Description:** Add a final pass that **lists claims**, then **verifies** each against sources (or recalculates) before publishing. Reduces factual slips in long outputs. (Multiple implementations; closely related to “verify-then-write” like ReWOO.)
 **Best Practices:** Require a **claims table**; re-query or re-compute **only** flagged claims; show a **diff** if any edits occur.
 ```
@@ -753,7 +753,7 @@ mindmap
 - [[CRISPE]]
 - [[Chain-of-Thought|Chain-of-Thought (CoT)]]
 - [[Chain-of-Verification]]
-- [[Chain-of-Verification (CoVe)]]
+- [[Chain-of-Verification|Chain-of-Verification (CoVe)]]
 - [[Constitutional-AI|Constitutional AI (Prompt style)]]
 - [[Constitutional-AI|Constitutional AI (Prompt-Style Variant)]]
 - [[Evaluation Harnesses for Prompts (Rubrics, Benchmarks, Human-in-the-Loop)]]

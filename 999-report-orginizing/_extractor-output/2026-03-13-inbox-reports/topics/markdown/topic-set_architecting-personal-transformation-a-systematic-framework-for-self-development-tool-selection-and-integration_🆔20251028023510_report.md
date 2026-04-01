@@ -153,7 +153,7 @@ extraction_summary:
 > - **[[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
 > - **[[Growth-Mindset-Theory|Growth Mindset Theory]]** and **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]**: How beliefs about changeability influence learning and persistence
 > - **[[Deliberate-Practice|Deliberate Practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development
-> - **[[Atomic Habits]]** and **[[Behavioral Design]]**: The environmental and architectural approach to sustainable behavior change
+> - **[[Atomic-Habits|Atomic Habits]]** and **[[Behavioral Design]]**: The environmental and architectural approach to sustainable behavior change
 > - **[[Epistemic-Humility|Epistemic Humility]]** and **[[Intellectual-Virtues|Intellectual Virtues]]**: Character-based approaches to improved thinking and learning
 
 ---
@@ -166,7 +166,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Atomic Habits]]
+- [[Atomic-Habits|Atomic Habits]]
 - [[Behavioral Design]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]]
 - [[Deliberate-Practice|Deliberate Practice]]
@@ -191,7 +191,7 @@ extraction_summary:
 | 6 | [[Growth-Mindset-Theory|Growth Mindset Theory]] | — | — | Further Exploration | 112 |
 | 7 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | Further Exploration | 112 |
 | 8 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Further Exploration | 113 |
-| 9 | [[Atomic Habits]] | — | — | Further Exploration | 114 |
+| 9 | [[Atomic-Habits|Atomic Habits]] | — | — | Further Exploration | 114 |
 | 10 | [[Behavioral Design]] | — | — | Further Exploration | 114 |
 | 11 | [[Epistemic-Humility|Epistemic Humility]] | — | — | Further Exploration | 115 |
 | 12 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | Further Exploration | 115 |
@@ -205,7 +205,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Atomic Habits]]
+- [[Atomic-Habits|Atomic Habits]]
 - [[Behavioral Design]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy (CBT)]]
 - [[Deliberate-Practice|Deliberate Practice]]

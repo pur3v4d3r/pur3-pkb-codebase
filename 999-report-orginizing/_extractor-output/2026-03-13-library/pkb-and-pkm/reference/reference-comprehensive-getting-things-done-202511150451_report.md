@@ -897,7 +897,7 @@ extraction_summary:
 - [[GTD Dashboard]]
 - [[GTD Dashboard Template]]
 - [[GTD vs PARA - Integration Strategies]]
-- [[Getting Things Done (GTD)]]
+- [[Getting-Things-Done|Getting Things Done (GTD)]]
 - [[Getting Things Done Core Principles]]
 - [[Goal - Publish 3 Peer-Reviewed Papers This Year]]
 - [[Goal-Launch-Online-Course]]
@@ -927,7 +927,7 @@ extraction_summary:
 - [[Natural Planning Model Deep Dive]]
 - [[Obsidian]]
 - [[Obsidian GTD Plugin Recommendations]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[PKB]]
 - [[Peak Performance]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
@@ -1094,12 +1094,12 @@ extraction_summary:
 | 73 | [[Project: Implement GTD in Obsidian]] | — | — | Active Exploration (Current Projects) | 2069 |
 | 74 | [[Project: Evaluate Time Blocking vs Task Batching]] | — | — | Active Exploration (Current Projects) | 2070 |
 | 75 | [[Project: Design Personal Productivity Dashboard]] | — | — | Active Exploration (Current Projects) | 2071 |
-| 76 | [[Getting Things Done (GTD)]] | — | — | Execution Systems | 2075 |
+| 76 | [[Getting-Things-Done|Getting Things Done (GTD)]] | — | — | Execution Systems | 2075 |
 | 77 | [[Time Blocking Method]] | — | — | Execution Systems | 2076 |
 | 78 | [[Pomodoro Technique]] | — | — | Execution Systems | 2077 |
 | 79 | [[Eisenhower Matrix]] | — | — | Execution Systems | 2078 |
 | 80 | [[Horizons of Focus Framework]] | — | — | Planning Systems | 2081 |
-| 81 | [[PARA Method]] | — | — | Planning Systems | 2082 |
+| 81 | [[PARA-Method|PARA Method]] | — | — | Planning Systems | 2082 |
 | 82 | [[12 Week Year Methodology]] | — | — | Planning Systems | 2083 |
 | 83 | [[Mind Like Water Philosophy]] | — | — | Atomic Concepts | 2086 |
 | 84 | [[Inbox Zero Principle]] | — | — | Atomic Concepts | 2087 |
@@ -2193,14 +2193,14 @@ Write idiomatic Rust code confidently, understanding ownership, borrowing, and l
 
 ## Core Frameworks
 ### Execution Systems
-- [[Getting Things Done (GTD)]] ⭐
+- [[Getting-Things-Done|Getting Things Done (GTD)]] ⭐
 - [[Time Blocking Method]]
 - [[Pomodoro Technique]]
 - [[Eisenhower Matrix]]
 
 ### Planning Systems
 - [[Horizons of Focus Framework]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[12 Week Year Methodology]]
 
 ## Atomic Concepts
@@ -2627,7 +2627,7 @@ graph TD
 - [[GTD Dashboard]]
 - [[GTD Dashboard Template]]
 - [[GTD vs PARA - Integration Strategies]]
-- [[Getting Things Done (GTD)]]
+- [[Getting-Things-Done|Getting Things Done (GTD)]]
 - [[Getting Things Done Core Principles]]
 - [[Goal - Publish 3 Peer-Reviewed Papers This Year]]
 - [[Goal-Launch-Online-Course]]
@@ -2657,7 +2657,7 @@ graph TD
 - [[Natural Planning Model Deep Dive]]
 - [[Obsidian]]
 - [[Obsidian GTD Plugin Recommendations]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[PKB]]
 - [[Peak Performance]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]

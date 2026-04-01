@@ -398,7 +398,7 @@ extraction_summary:
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Phronesis]]
 - [[Pragmatic-Maxim|Pragmatic Maxim]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prohairesis]]
 - [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[Self-Determination-Theory|SDT]]
@@ -417,7 +417,7 @@ extraction_summary:
 | 2 | [[Socratic-Method|Socratic Method]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
 | 3 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
 | 4 | [[Fallibilism]] | — | — | The Epistemological Layer: The Stance... | 189 |
-| 5 | [[Pragmatism]] | — | — | The Epistemological Layer: The Stance... | 189 |
+| 5 | [[pragmatism]] | — | — | The Epistemological Layer: The Stance... | 189 |
 | 6 | [[Constructivism]] | — | — | The Epistemological Layer: The Stance... | 189 |
 | 7 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Motivational Layer: The Engine of... | 193 |
 | 8 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | The Motivational Layer: The Engine of... | 193 |
@@ -480,7 +480,7 @@ extraction_summary:
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Phronesis]]
 - [[Pragmatic-Maxim|Pragmatic Maxim]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Prohairesis]]
 - [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[Self-Determination-Theory|SDT]]

@@ -151,7 +151,7 @@ extraction_summary:
 - [[External-Regulation|External Regulation]]
 - [[Extrinsic Life Goals]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Functional Significance of Events]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Goal Contents Theory (GCT) in Self-Determination Theory]]
@@ -163,7 +163,7 @@ extraction_summary:
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Integrated-Regulation|Integrated Regulation]]
 - [[Integration]]
-- [[Interest]]
+- [[interest]]
 - [[Internalization]]
 - [[Internalization Process]]
 - [[Intrinsic Life Goals]]
@@ -230,7 +230,7 @@ extraction_summary:
 | 8 | [[Controlled-Motivation|Controlled Motivation]] | — | — | Claude Thinking | 63 |
 | 9 | [[Autonomous-Motivation|Autonomous Motivation]] | — | — | Claude Thinking | 63 |
 | 10 | [[Amotivation]] | — | — | Claude Thinking | 64 |
-| 11 | [[Flow State]] | — | — | Claude Thinking | 64 |
+| 11 | [[Flow-State|Flow State]] | — | — | Claude Thinking | 64 |
 | 12 | [[Goal Theory]] | — | — | Claude Thinking | 65 |
 | 13 | [[Achievement Motivation]] | — | — | Claude Thinking | 65 |
 | 14 | [[Self-Efficacy]] | — | — | Claude Thinking | 66 |
@@ -273,7 +273,7 @@ extraction_summary:
 | 51 | [[Task-Contingent Rewards]] | — | — | Claude Thinking | 138 |
 | 52 | [[Unexpected Rewards]] | — | — | Claude Thinking | 139 |
 | 53 | [[Self-Perception Theory]] | — | — | Claude Thinking | 140 |
-| 54 | [[Interest]] | — | — | Claude Thinking | 141 |
+| 54 | [[interest]] | — | — | Claude Thinking | 141 |
 | 55 | [[Behavioral Regulation]] | — | — | Claude Thinking | 142 |
 | 56 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking | 146 |
 | 57 | [[Reinforcement Theory]] | — | — | Claude Thinking | 147 |
@@ -439,7 +439,7 @@ CET, developed in the 1970s-80s, was the first mini-theory within SDT and genera
 - [[Performance-Contingent Rewards]] versus [[Task-Contingent Rewards]]
 - [[Unexpected Rewards]] - do not undermine motivation
 - [[Self-Perception Theory]] - competing explanation
-- [[Interest]] as psychological state
+- [[interest]] as psychological state
 - [[Behavioral Regulation]] mechanisms
 **Analogical Potential**:
 External motivators function like training wheels on a bicycle—while they might provide initial support, if poorly designed they prevent the development of intrinsic balance and coordination, creating dependency rather than autonomous capability.
@@ -605,7 +605,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[External-Regulation|External Regulation]]
 - [[Extrinsic Life Goals]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Functional Significance of Events]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Goal Contents Theory (GCT) in Self-Determination Theory]]
@@ -617,7 +617,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Integrated-Regulation|Integrated Regulation]]
 - [[Integration]]
-- [[Interest]]
+- [[interest]]
 - [[Internalization]]
 - [[Internalization Process]]
 - [[Intrinsic Life Goals]]

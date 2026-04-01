@@ -166,7 +166,7 @@ extraction_summary:
 #### 7. [CONNECTION-IDEAS] 🔗 Preview — Interoceptive Inference and Predictive Processing *(Line 227)*
 
 > [!connection-ideas] 🔗 Preview — Interoceptive Inference and Predictive Processing
-> Interoceptive inference is the single most important bridge between this report and Report 13 ([[The Predictive Mind]]). When we understand that interoceptive processing uses the same hierarchical predictive architecture as all other cognitive processing, the unification of the embodied framework with the computational account of cognition becomes not merely plausible but almost inevitable. The body is not an exception to the brain's predictive processing — it is one of its primary targets.
+> Interoceptive inference is the single most important bridge between this report and Report 13 ([[The-Predictive-Mind|The Predictive Mind]]). When we understand that interoceptive processing uses the same hierarchical predictive architecture as all other cognitive processing, the unification of the embodied framework with the computational account of cognition becomes not merely plausible but almost inevitable. The body is not an exception to the brain's predictive processing — it is one of its primary targets.
 
 #### 8. [METHODOLOGY-AND-SOURCES] 🔬 Evidence Base for the Somatic Marker Hypothesis *(Line 236)*
 
@@ -413,13 +413,13 @@ extraction_summary:
 - [[Interoceptive-Inference|Interoceptive Inference]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Iowa-Gambling-Task|Iowa Gambling Task]]
-- [[Joseph Eyer]]
+- [[Joseph-Eyer|Joseph Eyer]]
 - [[Karl-Friston|Karl Friston]]
-- [[Lawrence Shapiro]]
+- [[Lawrence-Shapiro|Lawrence Shapiro]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Peter Sterling]]
+- [[Peter-Sterling|Peter Sterling]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Propatheiai]]
 - [[Report-01|Report 01]]
@@ -430,7 +430,7 @@ extraction_summary:
 - [[Stoic-Prohairesis|Stoic Prohairesis]]
 - [[Stoic-Prosoche|Stoic Prosoche]]
 - [[System-2|System 2]]
-- [[The Predictive Mind]]
+- [[The-Predictive-Mind|The Predictive Mind]]
 - [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]
 - [[Working-Memory|Working Memory]]
 
@@ -461,18 +461,18 @@ extraction_summary:
 | 21 | [[Eleanor-Rosch|Eleanor Rosch]] | — | — | 🧠 Embodied and Extended Cognition — T... | 204 |
 | 22 | [[Andy-Clark|Andy Clark]] | — | — | 🧠 Embodied and Extended Cognition — T... | 206 |
 | 23 | [[David-Chalmers|David Chalmers]] | — | — | 🧠 Embodied and Extended Cognition — T... | 206 |
-| 24 | [[Lawrence Shapiro]] | — | — | 🧠 Embodied and Extended Cognition — T... | 211 |
+| 24 | [[Lawrence-Shapiro|Lawrence Shapiro]] | — | — | 🧠 Embodied and Extended Cognition — T... | 211 |
 | 25 | [[Anil-Seth|Anil Seth]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
 | 26 | [[Karl-Friston|Karl Friston]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
 | 27 | [[Free-Energy-Principle|Free Energy Principle]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
 | 28 | [[Anterior-Insular-Cortex|Anterior Insular Cortex]] | — | — | 🌊 Interoceptive Inference — The Brain... | 220 |
-| 29 | [[The Predictive Mind]] | — | — | 🌊 Interoceptive Inference — The Brain... | 228 |
+| 29 | [[The-Predictive-Mind|The Predictive Mind]] | — | — | 🌊 Interoceptive Inference — The Brain... | 228 |
 | 30 | [[Antonio-Damasio|Antonio Damasio]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
 | 31 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
 | 32 | [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
 | 33 | [[Iowa-Gambling-Task|Iowa Gambling Task]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 237 |
-| 34 | [[Peter Sterling]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
-| 35 | [[Joseph Eyer]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
+| 34 | [[Peter-Sterling|Peter Sterling]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
+| 35 | [[Joseph-Eyer|Joseph Eyer]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
 | 36 | [[Homeostasis]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
 | 37 | [[Bruce-McEwen|Bruce McEwen]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 243 |
 | 38 | [[Hippocampus]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 246 |
@@ -539,13 +539,13 @@ extraction_summary:
 - [[Interoceptive-Inference|Interoceptive Inference]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Iowa-Gambling-Task|Iowa Gambling Task]]
-- [[Joseph Eyer]]
+- [[Joseph-Eyer|Joseph Eyer]]
 - [[Karl-Friston|Karl Friston]]
-- [[Lawrence Shapiro]]
+- [[Lawrence-Shapiro|Lawrence Shapiro]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Peter Sterling]]
+- [[Peter-Sterling|Peter Sterling]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Propatheiai]]
 - [[Report-01|Report 01]]
@@ -556,7 +556,7 @@ extraction_summary:
 - [[Stoic-Prohairesis|Stoic Prohairesis]]
 - [[Stoic-Prosoche|Stoic Prosoche]]
 - [[System-2|System 2]]
-- [[The Predictive Mind]]
+- [[The-Predictive-Mind|The Predictive Mind]]
 - [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]
 - [[Working-Memory|Working Memory]]
 

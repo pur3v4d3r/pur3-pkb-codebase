@@ -333,18 +333,18 @@ extraction_summary:
 ### Unique Targets
 
 - [[ACT-R]]
-- [[Anderson ACT-R Framework]]
+- [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]]
 - [[Attention]]
 - [[Attention Control and Executive Function in Complex Skills]]
 - [[Attention-Theory|Attention Theory]]
-- [[Attentional Resources]]
+- [[Attentional-Resources|Attentional Resources]]
 - [[Chase and Simon]]
 - [[Chunking Mechanisms in Skill Acquisition]]
 - [[Cognitive-Control|Cognitive Control]]
-- [[Cognitive Control Mechanisms]]
-- [[Cognitive Psychology Core Concepts]]
+- [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]]
+- [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]]
 - [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
-- [[Cognitive Psychology MOC]]
+- [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]]
 - [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
@@ -352,16 +352,16 @@ extraction_summary:
 - [[Ericsson]]
 - [[Event-related potential]]
 - [[Expertise]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Expertise in Complex Real-World Domains]]
 - [[Fitts and Posner]]
 - [[Implicit Learning and Unconscious Skill Acquisition]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Instance-Theory|Instance Theory]]
-- [[Learning and Memory]]
-- [[Logan Instance Theory]]
+- [[Learning-and-Memory|Learning and Memory]]
+- [[Logan-Instance-Theory|Logan Instance Theory]]
 - [[Memory-Systems|Memory Systems]]
-- [[Neural Efficiency]]
+- [[Neural-Efficiency|Neural Efficiency]]
 - [[Neural-Plasticity|Neural Plasticity]]
 - [[Neural Plasticity Mechanisms in Skill Learning]]
 - [[Power-Law-of-Practice|Power Law of Practice]]
@@ -374,21 +374,21 @@ extraction_summary:
 - [[Working-Memory|Working Memory]]
 - [[anterior cingulate cortex]]
 - [[attentional resource]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[cognitive-psychology|cognitive psychology]]
 - [[consistent mapping]]
 - [[declarative knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
 - [[dopamine]]
 - [[electrophysiology]]
-- [[expert performance]]
+- [[expert-performance|expert performance]]
 - [[functional neuroimaging]]
 - [[goal representations]]
-- [[language comprehension]]
+- [[language-comprehension|language comprehension]]
 - [[lesion studies]]
-- [[memory representation]]
-- [[motor skill learning]]
-- [[prefrontal cortex]]
+- [[memory-representation|memory representation]]
+- [[motor-skill-learning|motor skill learning]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Procedural-Knowledge|procedural knowledge]]
 - [[production system]]
 - [[production system theories]]
@@ -416,21 +416,21 @@ extraction_summary:
 | 15 | [[Memory-Systems|Memory Systems]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 75 |
 | 16 | [[Attention-Theory|Attention Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 76 |
 | 17 | [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 79 |
-| 18 | [[Logan Instance Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 80 |
-| 19 | [[Anderson ACT-R Framework]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 81 |
-| 20 | [[Cognitive Control Mechanisms]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 84 |
-| 21 | [[Learning and Memory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 85 |
-| 22 | [[Cognitive Psychology Core Concepts]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 87 |
-| 23 | [[Cognitive Psychology MOC]] | — | — | ALIASES & LINKING | 102 |
+| 18 | [[Logan-Instance-Theory|Logan Instance Theory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 80 |
+| 19 | [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 81 |
+| 20 | [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 84 |
+| 21 | [[Learning-and-Memory|Learning and Memory]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 85 |
+| 22 | [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]] | — | — | KNOWLEDGE GRAPH INTEGRATION | 87 |
+| 23 | [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]] | — | — | ALIASES & LINKING | 102 |
 | 24 | [[Deliberate-Practice|Deliberate Practice]] | — | — | ALIASES & LINKING | 104 |
-| 25 | [[Expertise Development]] | — | — | ALIASES & LINKING | 105 |
-| 26 | [[Attentional Resources]] | — | — | ALIASES & LINKING | 106 |
-| 27 | [[Neural Efficiency]] | — | — | ALIASES & LINKING | 107 |
+| 25 | [[Expertise-Development|Expertise Development]] | — | — | ALIASES & LINKING | 105 |
+| 26 | [[Attentional-Resources|Attentional Resources]] | — | — | ALIASES & LINKING | 106 |
+| 27 | [[Neural-Efficiency|Neural Efficiency]] | — | — | ALIASES & LINKING | 107 |
 | 28 | [[cognitive-psychology|cognitive psychology]] | — | — | Theoretical Foundations: Instance The... | 120 |
-| 29 | [[motor skill learning]] | — | — | Theoretical Foundations: Instance The... | 120 |
-| 30 | [[language comprehension]] | — | — | Theoretical Foundations: Instance The... | 120 |
-| 31 | [[expert performance]] | — | — | Theoretical Foundations: Instance The... | 120 |
-| 32 | [[memory representation]] | — | — | Logan's Instance Theory: Memory-Based... | 129 |
+| 29 | [[motor-skill-learning|motor skill learning]] | — | — | Theoretical Foundations: Instance The... | 120 |
+| 30 | [[language-comprehension|language comprehension]] | — | — | Theoretical Foundations: Instance The... | 120 |
+| 31 | [[expert-performance|expert performance]] | — | — | Theoretical Foundations: Instance The... | 120 |
+| 32 | [[memory-representation|memory representation]] | — | — | Logan's Instance Theory: Memory-Based... | 129 |
 | 33 | [[production system theories]] | — | — | Logan's Instance Theory: Memory-Based... | 129 |
 | 34 | [[ACT-R]] | — | — | Logan's Instance Theory: Memory-Based... | 129 |
 | 35 | [[consistent mapping]] | — | — | Logan's Instance Theory: Memory-Based... | 140 |
@@ -443,12 +443,12 @@ extraction_summary:
 | 42 | [[functional neuroimaging]] | — | — | Neural Mechanisms of Automatization: ... | 189 |
 | 43 | [[electrophysiology]] | — | — | Neural Mechanisms of Automatization: ... | 189 |
 | 44 | [[lesion studies]] | — | — | Neural Mechanisms of Automatization: ... | 189 |
-| 45 | [[prefrontal cortex]] | — | — | Prefrontal-to-Posterior Shifts: The C... | 198 |
+| 45 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Prefrontal-to-Posterior Shifts: The C... | 198 |
 | 46 | [[Working-Memory|working memory]] | — | — | Prefrontal-to-Posterior Shifts: The C... | 198 |
 | 47 | [[goal representations]] | — | — | Prefrontal-to-Posterior Shifts: The C... | 198 |
 | 48 | [[anterior cingulate cortex]] | — | — | Prefrontal-to-Posterior Shifts: The C... | 198 |
 | 49 | [[Effective connectivity]] | — | — | Posterior Cortical Specialization and... | 220 |
-| 50 | [[basal ganglia]] | — | — | Basal Ganglia and Procedural Consolid... | 226 |
+| 50 | [[Basal-Ganglia|basal ganglia]] | — | — | Basal Ganglia and Procedural Consolid... | 226 |
 | 51 | [[dopamine]] | — | — | Basal Ganglia and Procedural Consolid... | 233 |
 | 52 | [[sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
 | 53 | [[REM sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
@@ -859,18 +859,18 @@ production_ready: true
 > Each is a candidate for backlink creation in your PKB.
 
 - [[ACT-R]]
-- [[Anderson ACT-R Framework]]
+- [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]]
 - [[Attention]]
 - [[Attention Control and Executive Function in Complex Skills]]
 - [[Attention-Theory|Attention Theory]]
-- [[Attentional Resources]]
+- [[Attentional-Resources|Attentional Resources]]
 - [[Chase and Simon]]
 - [[Chunking Mechanisms in Skill Acquisition]]
 - [[Cognitive-Control|Cognitive Control]]
-- [[Cognitive Control Mechanisms]]
-- [[Cognitive Psychology Core Concepts]]
+- [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]]
+- [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]]
 - [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]
-- [[Cognitive Psychology MOC]]
+- [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]]
 - [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
@@ -878,16 +878,16 @@ production_ready: true
 - [[Ericsson]]
 - [[Event-related potential]]
 - [[Expertise]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Expertise in Complex Real-World Domains]]
 - [[Fitts and Posner]]
 - [[Implicit Learning and Unconscious Skill Acquisition]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Instance-Theory|Instance Theory]]
-- [[Learning and Memory]]
-- [[Logan Instance Theory]]
+- [[Learning-and-Memory|Learning and Memory]]
+- [[Logan-Instance-Theory|Logan Instance Theory]]
 - [[Memory-Systems|Memory Systems]]
-- [[Neural Efficiency]]
+- [[Neural-Efficiency|Neural Efficiency]]
 - [[Neural-Plasticity|Neural Plasticity]]
 - [[Neural Plasticity Mechanisms in Skill Learning]]
 - [[Power-Law-of-Practice|Power Law of Practice]]
@@ -900,21 +900,21 @@ production_ready: true
 - [[Working-Memory|Working Memory]]
 - [[anterior cingulate cortex]]
 - [[attentional resource]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[cognitive-psychology|cognitive psychology]]
 - [[consistent mapping]]
 - [[declarative knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
 - [[dopamine]]
 - [[electrophysiology]]
-- [[expert performance]]
+- [[expert-performance|expert performance]]
 - [[functional neuroimaging]]
 - [[goal representations]]
-- [[language comprehension]]
+- [[language-comprehension|language comprehension]]
 - [[lesion studies]]
-- [[memory representation]]
-- [[motor skill learning]]
-- [[prefrontal cortex]]
+- [[memory-representation|memory representation]]
+- [[motor-skill-learning|motor skill learning]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Procedural-Knowledge|procedural knowledge]]
 - [[production system]]
 - [[production system theories]]

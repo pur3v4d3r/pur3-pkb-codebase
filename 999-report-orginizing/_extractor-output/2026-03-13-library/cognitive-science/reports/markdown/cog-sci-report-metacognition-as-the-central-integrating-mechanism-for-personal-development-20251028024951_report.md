@@ -138,7 +138,7 @@ extraction_summary:
 
 > [!pre-read-questions] Untitled
 > - How does [[Metacognition]] serve as the architectural framework that unifies [[Constructivist Learning]], [[Critical-Thinking|Critical Thinking]], and [[Self-Regulation-Theory]]?
-> - What are the neuropsychological mechanisms in the [[prefrontal cortex]] that enable metacognitive monitoring and control, and how do these mechanisms develop across the lifespan?
+> - What are the neuropsychological mechanisms in the [[prefrontal-cortex|prefrontal cortex]] that enable metacognitive monitoring and control, and how do these mechanisms develop across the lifespan?
 > - In what ways does the [[Zone-of-Proximal-Development|Zone of Proximal Development]] create the conditions for metacognitive skill acquisition through social interaction?
 > - How do metacognitive strategies operationalize the transition from externally-guided learning to autonomous self-directed development?
 
@@ -220,7 +220,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Core Principle 5: Domain-Generality and Domain-Specificity Tension**
->     - A persistent question in metacognitive research concerns whether metacognitive capabilities are domain-general (applicable across diverse cognitive tasks) or domain-specific (tied to particular content areas). Contemporary evidence suggests a resolution: metacognition exhibits both domain-general and domain-specific components.[^14] Neuroimaging research by [[Stephen Fleming]] and colleagues (2018) revealed that anterior [[prefrontal cortex]] activity patterns predict confidence levels in a domain-specific manner, while domain-general signals appear in the [[medial prefrontal cortex]] and [[posterior cingulate cortex]].[^15] This implies that while certain core metacognitive processes (such as the basic monitoring-control architecture) operate across domains, the specific content and strategies of metacognitive knowledge vary by subject matter. A student may demonstrate excellent metacognitive awareness in mathematics but poor awareness in reading comprehension, suggesting that metacognitive development requires both cultivation of general metacognitive habits and domain-specific strategy instruction. This principle explains why metacognitive transfer between domains is often limited and why effective metacognitive instruction must balance teaching general principles of self-monitoring and regulation with domain-specific strategy knowledge.
+>     - A persistent question in metacognitive research concerns whether metacognitive capabilities are domain-general (applicable across diverse cognitive tasks) or domain-specific (tied to particular content areas). Contemporary evidence suggests a resolution: metacognition exhibits both domain-general and domain-specific components.[^14] Neuroimaging research by [[Stephen-Fleming|Stephen Fleming]] and colleagues (2018) revealed that anterior [[prefrontal-cortex|prefrontal cortex]] activity patterns predict confidence levels in a domain-specific manner, while domain-general signals appear in the [[medial prefrontal cortex]] and [[posterior cingulate cortex]].[^15] This implies that while certain core metacognitive processes (such as the basic monitoring-control architecture) operate across domains, the specific content and strategies of metacognitive knowledge vary by subject matter. A student may demonstrate excellent metacognitive awareness in mathematics but poor awareness in reading comprehension, suggesting that metacognitive development requires both cultivation of general metacognitive habits and domain-specific strategy instruction. This principle explains why metacognitive transfer between domains is often limited and why effective metacognitive instruction must balance teaching general principles of self-monitoring and regulation with domain-specific strategy knowledge.
 
 #### 15. [ANALOGY] Untitled *(Line 148)*
 
@@ -287,7 +287,7 @@ extraction_summary:
 
 > [!counter-argument] Untitled
 > - **An important counter-argument or alternative perspective suggests that:**
->     - Metacognition and critical thinking may have a more complex, bidirectional relationship than the unidirectional model (critical thinking → metacognition) suggests. Some researchers argue that metacognitive development must precede sophisticated critical thinking: one must first be able to observe one's own reasoning processes before one can apply critical standards to them. This perspective, associated with [[Deanna Kuhn]]'s developmental work (1999), proposes that metacognitive competencies—particularly metacognitive monitoring and awareness—are prerequisites for critical thinking rather than consequences of it.[^42] From this viewpoint, the failure of many critical thinking interventions may stem from attempting to teach critical thinking skills without first ensuring students have the metacognitive foundation to reflect on and regulate their own reasoning.
+>     - Metacognition and critical thinking may have a more complex, bidirectional relationship than the unidirectional model (critical thinking → metacognition) suggests. Some researchers argue that metacognitive development must precede sophisticated critical thinking: one must first be able to observe one's own reasoning processes before one can apply critical standards to them. This perspective, associated with [[Deanna-Kuhn|Deanna Kuhn]]'s developmental work (1999), proposes that metacognitive competencies—particularly metacognitive monitoring and awareness—are prerequisites for critical thinking rather than consequences of it.[^42] From this viewpoint, the failure of many critical thinking interventions may stem from attempting to teach critical thinking skills without first ensuring students have the metacognitive foundation to reflect on and regulate their own reasoning.
 >     - **This is important because:**
 >         - It suggests that educational interventions might be more effective if they explicitly sequence instruction, first developing metacognitive awareness and monitoring capabilities, then teaching critical thinking skills that build upon this metacognitive foundation. This sequencing question has practical implications for curriculum design: should elementary education focus primarily on metacognitive skill development (learning to learn, self-monitoring, strategy use) before introducing formal critical thinking instruction? Or can the two be developed simultaneously through carefully designed integrated instruction? Resolution of this debate requires longitudinal research tracking the co-development of metacognitive and critical thinking capabilities and experimental studies comparing different instructional sequences.
 
@@ -424,7 +424,7 @@ extraction_summary:
 - [[Constructivist Learning]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[David-Wood|David Wood]]
-- [[Deanna Kuhn]]
+- [[Deanna-Kuhn|Deanna Kuhn]]
 - [[Delay of gratification]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Dunning-Kruger Effect and Metacognitive Illusions]]
@@ -486,7 +486,7 @@ extraction_summary:
 - [[Self-Regulation-Theory]]
 - [[Sergio Rivas]]
 - [[Socratic Method and Metacognitive Dialogue]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[Theory of Mind Development]]
 - [[Thomas Nelson]]
 - [[Veenman and colleagues' research]]
@@ -511,7 +511,7 @@ extraction_summary:
 - [[metamemory]]
 - [[overconfidence]]
 - [[posterior cingulate cortex]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[reflective abstraction]]
 - [[Reflective-Judgment|reflective judgment]]
 - [[rostrolateral prefrontal cortex]]
@@ -532,7 +532,7 @@ extraction_summary:
 | 2 | [[Constructivist Learning]] | — | — | Document Start | 27 |
 | 3 | [[Critical-Thinking|Critical Thinking]] | — | — | Document Start | 27 |
 | 4 | [[Self-Regulation-Theory]] | — | — | Document Start | 27 |
-| 5 | [[prefrontal cortex]] | — | — | Document Start | 28 |
+| 5 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Document Start | 28 |
 | 6 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Document Start | 29 |
 | 7 | [[John-Flavell|John Flavell]] | — | — | Document Start | 35 |
 | 8 | [[Jean-Piaget|Jean Piaget]] | — | — | Document Start | 35 |
@@ -583,8 +583,8 @@ extraction_summary:
 | 53 | [[2025-11-04]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 112 |
 | 54 | [[theory of mind]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 116 |
 | 55 | [[2025-11-04]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 116 |
-| 56 | [[Stephen Fleming]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
-| 57 | [[prefrontal cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
+| 56 | [[Stephen-Fleming|Stephen Fleming]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
+| 57 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
 | 58 | [[medial prefrontal cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
 | 59 | [[posterior cingulate cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
 | 60 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 128 |
@@ -593,9 +593,9 @@ extraction_summary:
 | 63 | [[Prospective Metacognition]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
 | 64 | [[Asher Koriat]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
 | 65 | [[Illusions of Comprehension]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 132 |
-| 66 | [[prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 138 |
+| 66 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 138 |
 | 67 | [[rostrolateral prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 140 |
-| 68 | [[Stephen Fleming]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 140 |
+| 68 | [[Stephen-Fleming|Stephen Fleming]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 140 |
 | 69 | [[Raymond Dolan]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 140 |
 | 70 | [[dorsolateral prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 142 |
 | 71 | [[dorsomedial prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 142 |
@@ -643,7 +643,7 @@ extraction_summary:
 | 113 | [[Reflective-Judgment|reflective judgment]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
 | 114 | [[Peter-Facione|Peter Facione]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 241 |
 | 115 | [[Karl-Popper|Karl Popper]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 243 |
-| 116 | [[Deanna Kuhn]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 247 |
+| 116 | [[Deanna-Kuhn|Deanna Kuhn]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 247 |
 | 117 | [[Self-Regulation-Theory]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 253 |
 | 118 | [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 255 |
 | 119 | [[executive functions]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 257 |
@@ -772,7 +772,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Constructivist Learning]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[David-Wood|David Wood]]
-- [[Deanna Kuhn]]
+- [[Deanna-Kuhn|Deanna Kuhn]]
 - [[Delay of gratification]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Dunning-Kruger Effect and Metacognitive Illusions]]
@@ -834,7 +834,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Self-Regulation-Theory]]
 - [[Sergio Rivas]]
 - [[Socratic Method and Metacognitive Dialogue]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[Theory of Mind Development]]
 - [[Thomas Nelson]]
 - [[Veenman and colleagues' research]]
@@ -859,7 +859,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[metamemory]]
 - [[overconfidence]]
 - [[posterior cingulate cortex]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[reflective abstraction]]
 - [[Reflective-Judgment|reflective judgment]]
 - [[rostrolateral prefrontal cortex]]

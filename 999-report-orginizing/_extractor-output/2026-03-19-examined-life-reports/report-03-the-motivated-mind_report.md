@@ -380,14 +380,14 @@ extraction_summary:
 - [[Howard-et-al.|Howard et al.]]
 - [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]]
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
-- [[Norsworthy et al.]]
+- [[Norsworthy-et-al.|Norsworthy et al.]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Prohairesis]]
 - [[Relatedness]]
 - [[Richard-Ryan|Richard Ryan]]
-- [[SDT's Autonomy Need]]
+- [[SDT's-Autonomy-Need|SDT's Autonomy Need]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Stoic Askēsis]]
+- [[Stoic-Askēsis|Stoic Askēsis]]
 - [[Stoic-Prohairesis|Stoic Prohairesis]]
 - [[Striatum]]
 - [[System-2|System 2]]
@@ -417,18 +417,18 @@ extraction_summary:
 | 16 | [[Wang-et-al.|Wang et al.]] | — | — | Self-Determination Theory: The Three ... | 220 |
 | 17 | [[Flow-Theory|Flow Theory]] | — | — | Flow Theory: The Architecture of Opti... | 224 |
 | 18 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | Flow Theory: The Architecture of Opti... | 224 |
-| 19 | [[Norsworthy et al.]] | — | — | Flow Theory: The Architecture of Opti... | 226 |
+| 19 | [[Norsworthy-et-al.|Norsworthy et al.]] | — | — | Flow Theory: The Architecture of Opti... | 226 |
 | 20 | [[Challenge-Skill-Balance|Challenge-Skill Balance]] | — | — | Flow Theory: The Architecture of Opti... | 228 |
 | 21 | [[Transient-Hypofrontality|Transient Hypofrontality]] | — | — | Flow Theory: The Architecture of Opti... | 233 |
 | 22 | [[Striatum]] | — | — | Flow Theory: The Architecture of Opti... | 233 |
 | 23 | [[Prohairesis]] | — | — | Stoic Prohairesis and the Dichotomy o... | 237 |
 | 24 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoic Prohairesis and the Dichotomy o... | 244 |
-| 25 | [[Stoic Askēsis]] | — | — | Stoic Prohairesis and the Dichotomy o... | 246 |
+| 25 | [[Stoic-Askēsis|Stoic Askēsis]] | — | — | Stoic Prohairesis and the Dichotomy o... | 246 |
 | 26 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Growth Mindset: The Neural Dispositio... | 250 |
 | 27 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset: The Neural Dispositio... | 250 |
 | 28 | [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]] | — | — | Growth Mindset: The Neural Dispositio... | 257 |
 | 29 | [[Stoic-Prohairesis|Stoic Prohairesis]] | — | — | The Central Structural Homology: Proh... | 271 |
-| 30 | [[SDT's Autonomy Need]] | — | — | The Central Structural Homology: Proh... | 271 |
+| 30 | [[SDT's-Autonomy-Need|SDT's Autonomy Need]] | — | — | The Central Structural Homology: Proh... | 271 |
 | 31 | [[Flow-Theory|Flow Theory]] | — | — | The Resolution of the Effortfulness P... | 286 |
 | 32 | [[Transient-Hypofrontality|Transient Hypofrontality]] | — | — | The Resolution of the Effortfulness P... | 291 |
 | 33 | [[Competence-Need|Competence Need]] | — | — | A Second Structural Homology: Flow's ... | 297 |
@@ -478,14 +478,14 @@ extraction_summary:
 - [[Howard-et-al.|Howard et al.]]
 - [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]]
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
-- [[Norsworthy et al.]]
+- [[Norsworthy-et-al.|Norsworthy et al.]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Prohairesis]]
 - [[Relatedness]]
 - [[Richard-Ryan|Richard Ryan]]
-- [[SDT's Autonomy Need]]
+- [[SDT's-Autonomy-Need|SDT's Autonomy Need]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Stoic Askēsis]]
+- [[Stoic-Askēsis|Stoic Askēsis]]
 - [[Stoic-Prohairesis|Stoic Prohairesis]]
 - [[Striatum]]
 - [[System-2|System 2]]

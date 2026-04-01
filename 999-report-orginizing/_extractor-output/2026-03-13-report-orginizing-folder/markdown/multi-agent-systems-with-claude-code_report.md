@@ -2854,16 +2854,16 @@ extraction_summary:
 > 
 > **Child Concepts** (specialized topics that elaborate this):
 > - [[Agent-File-Format-Specification|Agent File Format Specification]] - Deep dive into YAML + markdown structure
-> - [[Coordination Pattern Library]] - Collection of proven orchestration strategies
-> - [[Tool Permission Grammar]] - Syntax for restricting agent capabilities
-> - [[State Management Protocols]] - Best practices for shared state files
-> - [[Agent Prompt Engineering]] - Specialized prompting for agents vs. main Claude
+> - [[Coordination-Pattern-Library|Coordination Pattern Library]] - Collection of proven orchestration strategies
+> - [[Tool-Permission-Grammar|Tool Permission Grammar]] - Syntax for restricting agent capabilities
+> - [[State-Management-Protocols|State Management Protocols]] - Best practices for shared state files
+> - [[Agent-Prompt-Engineering|Agent Prompt Engineering]] - Specialized prompting for agents vs. main Claude
 > 
 > **Cross-Domain Bridges** (connections to other fields):
 > - [[Microservices-Architecture|Microservices Architecture]] → Agent isolation mirrors service boundaries
-> - [[Distributed Systems Design]] → State management, error handling, coordination
-> - [[Multi-Agent AI Systems]] → Academic research on agent coordination
-> - [[Software Engineering Workflows]] → CI/CD, git integration, code review
+> - [[Distributed-Systems-Design|Distributed Systems Design]] → State management, error handling, coordination
+> - [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]] → Academic research on agent coordination
+> - [[Software-Engineering-Workflows|Software Engineering Workflows]] → CI/CD, git integration, code review
 > - [[Team Collaboration Patterns]] → Async communication, role separation
 
 #### 95. [ATOMIC-CANDIDATES] Untitled *(Line 2832)*
@@ -2994,7 +2994,7 @@ extraction_summary:
 - [[Agent Definition File Format]]
 - [[Agent-File-Format-Specification|Agent File Format Specification]]
 - [[Agent Observability and Debugging Toolkit]]
-- [[Agent Prompt Engineering]]
+- [[Agent-Prompt-Engineering|Agent Prompt Engineering]]
 - [[Agentic Workflow Design Patterns]]
 - [[Agile-Standups|Agile Standups]]
 - [[Bounded-Contexts|Bounded Contexts]]
@@ -3007,11 +3007,11 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive Load]]
 - [[Context Isolation Architecture]]
 - [[Conway's-Law|Conway's Law]]
-- [[Coordination Pattern Library]]
+- [[Coordination-Pattern-Library|Coordination Pattern Library]]
 - [[Custom-Commands|Custom Commands]]
 - [[Description Field Optimization]]
 - [[DevOps Practices]]
-- [[Distributed Systems Design]]
+- [[Distributed-Systems-Design|Distributed Systems Design]]
 - [[Enterprise Multi-Agent Governance]]
 - [[Enterprise Software Architecture]]
 - [[Error Handling in Multi-Agent Systems]]
@@ -3026,7 +3026,7 @@ extraction_summary:
 - [[Message-Queues|Message Queues]]
 - [[Microservices-Architecture|Microservices Architecture]]
 - [[Model Selection Economics]]
-- [[Multi-Agent AI Systems]]
+- [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]]
 - [[Multi-Agent PKM Automation]]
 - [[Output-Styles|Output Styles]]
 - [[PKM Systems]]
@@ -3038,10 +3038,10 @@ extraction_summary:
 - [[Shared State Coordination]]
 - [[Skills]]
 - [[Skills-System|Skills System]]
-- [[Software Engineering Workflows]]
-- [[State Management Protocols]]
+- [[Software-Engineering-Workflows|Software Engineering Workflows]]
+- [[State-Management-Protocols|State Management Protocols]]
 - [[Team Collaboration Patterns]]
-- [[Tool Permission Grammar]]
+- [[Tool-Permission-Grammar|Tool Permission Grammar]]
 - [[Tool Restriction Strategies]]
 - [[Working-Memory|Working Memory]]
 - [[YAML-Syntax|YAML Syntax]]
@@ -3075,14 +3075,14 @@ extraction_summary:
 | 23 | [[Output-Styles|Output Styles]] | — | — | 🔗 PKB Integration | 2815 |
 | 24 | [[Hooks-System|Hooks System]] | — | — | 🔗 PKB Integration | 2816 |
 | 25 | [[Agent-File-Format-Specification|Agent File Format Specification]] | — | — | 🔗 PKB Integration | 2819 |
-| 26 | [[Coordination Pattern Library]] | — | — | 🔗 PKB Integration | 2820 |
-| 27 | [[Tool Permission Grammar]] | — | — | 🔗 PKB Integration | 2821 |
-| 28 | [[State Management Protocols]] | — | — | 🔗 PKB Integration | 2822 |
-| 29 | [[Agent Prompt Engineering]] | — | — | 🔗 PKB Integration | 2823 |
+| 26 | [[Coordination-Pattern-Library|Coordination Pattern Library]] | — | — | 🔗 PKB Integration | 2820 |
+| 27 | [[Tool-Permission-Grammar|Tool Permission Grammar]] | — | — | 🔗 PKB Integration | 2821 |
+| 28 | [[State-Management-Protocols|State Management Protocols]] | — | — | 🔗 PKB Integration | 2822 |
+| 29 | [[Agent-Prompt-Engineering|Agent Prompt Engineering]] | — | — | 🔗 PKB Integration | 2823 |
 | 30 | [[Microservices-Architecture|Microservices Architecture]] | — | — | 🔗 PKB Integration | 2826 |
-| 31 | [[Distributed Systems Design]] | — | — | 🔗 PKB Integration | 2827 |
-| 32 | [[Multi-Agent AI Systems]] | — | — | 🔗 PKB Integration | 2828 |
-| 33 | [[Software Engineering Workflows]] | — | — | 🔗 PKB Integration | 2829 |
+| 31 | [[Distributed-Systems-Design|Distributed Systems Design]] | — | — | 🔗 PKB Integration | 2827 |
+| 32 | [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]] | — | — | 🔗 PKB Integration | 2828 |
+| 33 | [[Software-Engineering-Workflows|Software Engineering Workflows]] | — | — | 🔗 PKB Integration | 2829 |
 | 34 | [[Team Collaboration Patterns]] | — | — | 🔗 PKB Integration | 2830 |
 | 35 | [[Agent Definition File Format]] | — | — | 🔗 PKB Integration | 2837 |
 | 36 | [[Context Isolation Architecture]] | — | — | 🔗 PKB Integration | 2840 |
@@ -3097,7 +3097,7 @@ extraction_summary:
 | 45 | [[Claude Code MCP Server Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 2949 |
 | 46 | [[Production Agent Prompt Library]] | — | — | 🔗 Related Topics for PKB Expansion | 2955 |
 | 47 | [[Agentic Workflow Design Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 2961 |
-| 48 | [[Distributed Systems Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2964 |
+| 48 | [[Distributed-Systems-Design|Distributed Systems Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2964 |
 | 49 | [[Agent Observability and Debugging Toolkit]] | — | — | 🔗 Related Topics for PKB Expansion | 2967 |
 | 50 | [[DevOps Practices]] | — | — | 🔗 Related Topics for PKB Expansion | 2970 |
 | 51 | [[Multi-Agent PKM Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 2973 |
@@ -4975,7 +4975,7 @@ Main Agent (internal reasoning):
 - [[Agent Definition File Format]]
 - [[Agent-File-Format-Specification|Agent File Format Specification]]
 - [[Agent Observability and Debugging Toolkit]]
-- [[Agent Prompt Engineering]]
+- [[Agent-Prompt-Engineering|Agent Prompt Engineering]]
 - [[Agentic Workflow Design Patterns]]
 - [[Agile-Standups|Agile Standups]]
 - [[Bounded-Contexts|Bounded Contexts]]
@@ -4988,11 +4988,11 @@ Main Agent (internal reasoning):
 - [[Cognitive-Load|Cognitive Load]]
 - [[Context Isolation Architecture]]
 - [[Conway's-Law|Conway's Law]]
-- [[Coordination Pattern Library]]
+- [[Coordination-Pattern-Library|Coordination Pattern Library]]
 - [[Custom-Commands|Custom Commands]]
 - [[Description Field Optimization]]
 - [[DevOps Practices]]
-- [[Distributed Systems Design]]
+- [[Distributed-Systems-Design|Distributed Systems Design]]
 - [[Enterprise Multi-Agent Governance]]
 - [[Enterprise Software Architecture]]
 - [[Error Handling in Multi-Agent Systems]]
@@ -5007,7 +5007,7 @@ Main Agent (internal reasoning):
 - [[Message-Queues|Message Queues]]
 - [[Microservices-Architecture|Microservices Architecture]]
 - [[Model Selection Economics]]
-- [[Multi-Agent AI Systems]]
+- [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]]
 - [[Multi-Agent PKM Automation]]
 - [[Output-Styles|Output Styles]]
 - [[PKM Systems]]
@@ -5019,10 +5019,10 @@ Main Agent (internal reasoning):
 - [[Shared State Coordination]]
 - [[Skills]]
 - [[Skills-System|Skills System]]
-- [[Software Engineering Workflows]]
-- [[State Management Protocols]]
+- [[Software-Engineering-Workflows|Software Engineering Workflows]]
+- [[State-Management-Protocols|State Management Protocols]]
 - [[Team Collaboration Patterns]]
-- [[Tool Permission Grammar]]
+- [[Tool-Permission-Grammar|Tool Permission Grammar]]
 - [[Tool Restriction Strategies]]
 - [[Working-Memory|Working Memory]]
 - [[YAML-Syntax|YAML Syntax]]

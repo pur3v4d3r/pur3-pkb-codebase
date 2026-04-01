@@ -26,21 +26,20 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 19
+referenced-by-count: 18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomy-Supportive-Environment]]"
@@ -50,6 +49,7 @@ see-also:
   - "[[Controlled-Regulation]]"
   - "[[Controlling-Environment]]"
   - "[[Effectance]]"
+  - "[[Identified-Regulation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -62,13 +62,12 @@ importance: medium
 # Self-Determination-Theory-—-Foundational-Overview
 
 > [!definition] **Self-Determination-Theory-—-Foundational-Overview**
-> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 19 permanent notes.*
+*Auto-generated stub — referenced by 18 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Amotivation]]
 - [[Autonomous-Regulation]]
 - [[Autonomy-Supportive-Environment]]

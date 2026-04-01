@@ -468,11 +468,11 @@ extraction_summary:
 - [[Craik-and-Tulving|Craik and Tulving]]
 - [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Desirable Difficulties in Learning]]
-- [[Donald Thomson's]]
+- [[Donald-Thomson's|Donald Thomson's]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elaborative Interrogation as Study Strategy]]
 - [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
-- [[Endel Tulving]]
+- [[Endel-Tulving|Endel Tulving]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Fergus-I.-M.-Craik|Fergus I. M. Craik]]
 - [[Formative Assessment Design]]
@@ -483,7 +483,7 @@ extraction_summary:
 - [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Morris, Bransford, and Franks]]
+- [[Morris,-Bransford,-and-Franks|Morris, Bransford, and Franks]]
 - [[Motivation]]
 - [[Multi-Store-Model|Multi-Store Model]]
 - [[Orienting-Task|Orienting Task]]
@@ -491,7 +491,7 @@ extraction_summary:
 - [[Retrieval Practice and Processing Depth]]
 - [[Robert-S.-Lockhart|Robert S. Lockhart]]
 - [[Roediger]]
-- [[Rogers, Kuiper, and Kirker]]
+- [[Rogers,-Kuiper,-and-Kirker|Rogers, Kuiper, and Kirker]]
 - [[Rumelhart]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -530,14 +530,14 @@ extraction_summary:
 | 21 | [[Craik-and-Tulving|Craik and Tulving]] | — | — | The Original Framework and Its First ... | 341 |
 | 22 | [[Craik-and-Tulving|Craik and Tulving]] | — | — | The Original Framework and Its First ... | 346 |
 | 23 | [[Levels-of-Processing|Levels of Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 350 |
-| 24 | [[Morris, Bransford, and Franks]] | — | — | Transfer-Appropriate Processing: A Fu... | 350 |
+| 24 | [[Morris,-Bransford,-and-Franks|Morris, Bransford, and Franks]] | — | — | Transfer-Appropriate Processing: A Fu... | 350 |
 | 25 | [[Levels-of-Processing|Levels of Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
 | 26 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
 | 27 | [[Roediger]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
-| 28 | [[Rogers, Kuiper, and Kirker]] | — | — | The Self-Reference Effect: Deepest of... | 364 |
+| 28 | [[Rogers,-Kuiper,-and-Kirker|Rogers, Kuiper, and Kirker]] | — | — | The Self-Reference Effect: Deepest of... | 364 |
 | 29 | [[Self-Reference-Effect|Self-Reference Effect]] | — | — | The Self-Reference Effect: Deepest of... | 369 |
-| 30 | [[Endel Tulving]] | — | — | Encoding Specificity and the Broader ... | 373 |
-| 31 | [[Donald Thomson's]] | — | — | Encoding Specificity and the Broader ... | 373 |
+| 30 | [[Endel-Tulving|Endel Tulving]] | — | — | Encoding Specificity and the Broader ... | 373 |
+| 31 | [[Donald-Thomson's|Donald Thomson's]] | — | — | Encoding Specificity and the Broader ... | 373 |
 | 32 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 373 |
 | 33 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 375 |
 | 34 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 375 |
@@ -613,11 +613,11 @@ extraction_summary:
 - [[Craik-and-Tulving|Craik and Tulving]]
 - [[Critical-Thinking-in-Education|Critical Thinking in Education]]
 - [[Desirable Difficulties in Learning]]
-- [[Donald Thomson's]]
+- [[Donald-Thomson's|Donald Thomson's]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elaborative Interrogation as Study Strategy]]
 - [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
-- [[Endel Tulving]]
+- [[Endel-Tulving|Endel Tulving]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Fergus-I.-M.-Craik|Fergus I. M. Craik]]
 - [[Formative Assessment Design]]
@@ -628,7 +628,7 @@ extraction_summary:
 - [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Morris, Bransford, and Franks]]
+- [[Morris,-Bransford,-and-Franks|Morris, Bransford, and Franks]]
 - [[Motivation]]
 - [[Multi-Store-Model|Multi-Store Model]]
 - [[Orienting-Task|Orienting Task]]
@@ -636,7 +636,7 @@ extraction_summary:
 - [[Retrieval Practice and Processing Depth]]
 - [[Robert-S.-Lockhart|Robert S. Lockhart]]
 - [[Roediger]]
-- [[Rogers, Kuiper, and Kirker]]
+- [[Rogers,-Kuiper,-and-Kirker|Rogers, Kuiper, and Kirker]]
 - [[Rumelhart]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

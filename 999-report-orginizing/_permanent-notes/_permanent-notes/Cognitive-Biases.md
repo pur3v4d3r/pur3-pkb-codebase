@@ -24,61 +24,66 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 23
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Cognitive-Debt]]"
+  - "[[Cognitive-Decoupling]]"
   - "[[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
   - "[[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]"
   - "[[Knowledge-of-Cognition]]"
   - "[[Metacognitive-Capacity]]"
+  - "[[Mindware]]"
   - "[[PENCRISAL-Framework]]"
+  - "[[Prosoche]]"
   - "[[Regulation-of-Cognition]]"
-  - "[[📖-Cognitive-Decoupling]]"
-  - "[[📖-Mindware]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
 # Cognitive-Biases
 
 > [!definition] **Cognitive-Biases**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 23 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 23 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Cognitive-Debt]]
+- [[Cognitive-Decoupling]]
 - [[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]
 - [[Holistic-Critical-Thinking-Scoring-Rubric-Framework]]
 - [[Knowledge-of-Cognition]]
 - [[Metacognitive-Capacity]]
+- [[Mindware]]
 - [[PENCRISAL-Framework]]
+- [[Prosoche]]
 - [[Regulation-of-Cognition]]
+- [[Synkatathesis]]
+- [[Synkatathesis-Assent-and-the-Stoic-Gap]]
+- [[The-Governed-Attentional-Gap]]
+- [[Type-1-Processing]]
+- [[Type-2-Processing]]
 - [[📖-Cognitive-Decoupling]]
 - [[📖-Mindware]]
 - [[📖-Prosoche]]
 - [[📖-Synkatathesis]]
 - [[📖-Synkatathesis-Assent-and-the-Stoic-Gap]]
-- [[📖-The-Governed-Attentional-Gap]]
-- [[📖-Type-1-Processing]]
-- [[📖-Type-2-Processing]]
+- *...and 3 more permanent notes*

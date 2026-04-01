@@ -241,7 +241,7 @@ extraction_summary:
 - [[Knowledge Hiding and Knowledge Sharing Motivations]]
 - [[Need Crafting and Job Crafting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[PKB Architecture]]
+- [[PKB-Architecture|PKB Architecture]]
 - [[PKB Architecture Design]]
 - [[PKB Architectures]]
 - [[PKB Reward Structures]]
@@ -265,7 +265,7 @@ extraction_summary:
 | 9 | [[Basic Psychological Need Theory]] | — | — | 🔬 The Dual Processes: Need Satisfacti... | 89 |
 | 10 | [[PKB Architecture Design]] | — | — | 🏢 Applications to Knowledge Work and ... | 111 |
 | 11 | [[PKB Systems]] | — | — | 🏢 Applications to Knowledge Work and ... | 115 |
-| 12 | [[PKB Architecture]] | PKB architectures | — | 🏢 Applications to Knowledge Work and ... | 115 |
+| 12 | [[PKB-Architecture|PKB Architecture]] | PKB architectures | — | 🏢 Applications to Knowledge Work and ... | 115 |
 | 13 | [[PKB Reward Structures]] | — | — | 🏢 Applications to Knowledge Work and ... | 120 |
 | 14 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📚 Implications for Personal Knowledge... | 125 |
 | 15 | [[PKB Systems]] | — | — | 📚 Implications for Personal Knowledge... | 127 |
@@ -357,7 +357,7 @@ Search strategy:
 - [[Knowledge Hiding and Knowledge Sharing Motivations]]
 - [[Need Crafting and Job Crafting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[PKB Architecture]]
+- [[PKB-Architecture|PKB Architecture]]
 - [[PKB Architecture Design]]
 - [[PKB Architectures]]
 - [[PKB Reward Structures]]

@@ -1119,7 +1119,7 @@ extraction_summary:
 - [[Do Not Disturb]]
 - [[Follow-Up Task]]
 - [[Full Calendar]]
-- [[GTD Weekly Review]]
+- [[GTD-Weekly-Review|GTD Weekly Review]]
 - [[Google Calendar]]
 - [[Heatmap Calendar]]
 - [[Kanban]]
@@ -1225,7 +1225,7 @@ extraction_summary:
 | 59 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Command Palette Workflow | 1722 |
 | 60 | [[Templater]] | — | — | Automated Workflows | 1734 |
 | 61 | [[obsidian-ics]] | — | — | Automated Workflows | 1738 |
-| 62 | [[GTD Weekly Review]] | — | — | Integration with Review Systems | 1780 |
+| 62 | [[GTD-Weekly-Review|GTD Weekly Review]] | — | — | Integration with Review Systems | 1780 |
 | 63 | [[Quarterly Planning]] | — | — | Integration with Review Systems | 1780 |
 | 64 | [[Timeboxing Methodology]] | — | — | 🔗 Related Topics for PKB Expansion | 1839 |
 | 65 | [[Tasks Plugin for Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1844 |
@@ -1826,7 +1826,7 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 - [[Do Not Disturb]]
 - [[Follow-Up Task]]
 - [[Full Calendar]]
-- [[GTD Weekly Review]]
+- [[GTD-Weekly-Review|GTD Weekly Review]]
 - [[Google Calendar]]
 - [[Heatmap Calendar]]
 - [[Kanban]]

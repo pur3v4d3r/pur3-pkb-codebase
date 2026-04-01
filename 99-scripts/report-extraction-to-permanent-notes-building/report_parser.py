@@ -33,6 +33,9 @@ from config import (
     MAX_FLASHCARDS_PER_NOTE, MAX_PERSONS_PER_NOTE, MAX_TENSIONS_PER_NOTE,
     MAX_OPEN_QUESTIONS_PER_NOTE, MAX_PROTOCOLS_PER_NOTE, MAX_DIAGRAMS_PER_NOTE,
     MAX_CITATIONS_PER_NOTE, MAX_METHODOLOGY_PER_NOTE,
+    SCHEMA_ACTIVATION_CALLOUTS, SECTION_SUMMARY_CALLOUTS,
+    CLAUDE_INSIGHT_CALLOUTS, ACTIVE_READING_CALLOUTS,
+    FAR_TRANSFER_CALLOUTS, DEBATE_CALLOUTS, EXAMPLE_CALLOUTS,
 )
 
 
@@ -87,6 +90,14 @@ class NoteCandidate:
     diagrams: list[dict] = field(default_factory=list)         # {title, body}
     citations: list[dict] = field(default_factory=list)        # {title, body}
     methodology: list[dict] = field(default_factory=list)      # {title, body}
+    # Additional content fields (v2.2)
+    schema_activations: list[dict] = field(default_factory=list)   # {title, body}
+    section_summaries: list[dict] = field(default_factory=list)    # {title, body}
+    claude_insights: list[dict] = field(default_factory=list)      # {title, body}
+    active_readings: list[dict] = field(default_factory=list)      # {title, body}
+    far_transfers: list[dict] = field(default_factory=list)        # {title, body}
+    debates: list[dict] = field(default_factory=list)              # {title, body}
+    examples: list[dict] = field(default_factory=list)             # {title, body}
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -319,6 +330,14 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
     diagram_items = []
     citation_items = []
     methodology_items = []
+    # Additional content (v2.2)
+    schema_activation_items = []
+    section_summary_items = []
+    claude_insight_items = []
+    active_reading_items = []
+    far_transfer_items = []
+    debate_items = []
+    example_items = []
 
     for callout in callouts:
         ctype = callout.get("type", "")
@@ -379,6 +398,28 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
 
         elif ctype in METHODOLOGY_CALLOUTS and body:
             methodology_items.append({"title": title, "body": body})
+
+        # ── Additional callout types (v2.2) ───────────────────────────────
+        elif ctype in SCHEMA_ACTIVATION_CALLOUTS and body:
+            schema_activation_items.append({"title": title, "body": body})
+
+        elif ctype in SECTION_SUMMARY_CALLOUTS and body:
+            section_summary_items.append({"title": title, "body": body})
+
+        elif ctype in CLAUDE_INSIGHT_CALLOUTS and body:
+            claude_insight_items.append({"title": title, "body": body})
+
+        elif ctype in ACTIVE_READING_CALLOUTS and body:
+            active_reading_items.append({"title": title, "body": body})
+
+        elif ctype in FAR_TRANSFER_CALLOUTS and body:
+            far_transfer_items.append({"title": title, "body": body})
+
+        elif ctype in DEBATE_CALLOUTS and body:
+            debate_items.append({"title": title, "body": body})
+
+        elif ctype in EXAMPLE_CALLOUTS and body:
+            example_items.append({"title": title, "body": body})
 
     # ── Extract note-generating callouts ──────────────────────────────────
     candidates = []
@@ -455,6 +496,14 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
             diagrams=diagram_items[:MAX_DIAGRAMS_PER_NOTE],
             citations=citation_items[:MAX_CITATIONS_PER_NOTE],
             methodology=methodology_items[:MAX_METHODOLOGY_PER_NOTE],
+            # Additional content (v2.2)
+            schema_activations=schema_activation_items,
+            section_summaries=section_summary_items,
+            claude_insights=claude_insight_items,
+            active_readings=active_reading_items,
+            far_transfers=far_transfer_items,
+            debates=debate_items,
+            examples=example_items,
         )
         candidates.append(candidate)
 

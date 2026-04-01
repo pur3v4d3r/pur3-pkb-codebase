@@ -595,7 +595,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 
 #### Related

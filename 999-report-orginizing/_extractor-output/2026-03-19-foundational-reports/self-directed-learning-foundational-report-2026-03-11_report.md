@@ -194,7 +194,7 @@ extraction_summary:
 #### 12. [COUNTER-ARGUMENT] The Critique of SDL as Ideology *(Line 365)*
 
 > [!counter-argument] The Critique of SDL as Ideology
-> Several critical theorists, including [[Stephen Brookfield]], have argued that SDL discourse contains ideological components that warrant sceptical scrutiny. The emphasis on individual initiative, personal responsibility, and autonomous goal-setting maps suspiciously well onto neoliberal framings of educational and professional life that transfer responsibility from institutions to individuals, celebrate the self-managing subject, and treat structural barriers to learning as personal failures. This critique does not invalidate SDL as an educational approach, but it does call attention to the political dimensions of seemingly neutral pedagogical choices. A framework that treats "taking responsibility for your own learning" as an unambiguous good may obscure the ways in which some people's ability to self-direct is constrained by circumstances beyond their control.
+> Several critical theorists, including [[Stephen-Brookfield|Stephen Brookfield]], have argued that SDL discourse contains ideological components that warrant sceptical scrutiny. The emphasis on individual initiative, personal responsibility, and autonomous goal-setting maps suspiciously well onto neoliberal framings of educational and professional life that transfer responsibility from institutions to individuals, celebrate the self-managing subject, and treat structural barriers to learning as personal failures. This critique does not invalidate SDL as an educational approach, but it does call attention to the political dimensions of seemingly neutral pedagogical choices. A framework that treats "taking responsibility for your own learning" as an unambiguous good may obscure the ways in which some people's ability to self-direct is constrained by circumstances beyond their control.
 
 #### 13. [REFLECTION] Engaging the Landscape *(Line 368)*
 
@@ -406,13 +406,13 @@ extraction_summary:
 > > [!topic-idea] [[Heutagogy]]
 > > A dedicated report on heutagogy would provide deeper theoretical treatment of self-determined learning beyond the sketch offered in this SDL report. Key areas would include: the capability development framework on which heutagogy draws; the double-loop learning mechanism and its relationship to transformative learning theory; empirical studies of heutagogy in higher education and professional development; and the design principles for technology-enhanced heutagogical environments. The report would also engage the critique that heutagogy is an ideological extension of neoliberal self-actualisation discourse rather than a genuine theoretical advance. **Priority: High**
 > 
-> > [!topic-idea] [[Personal Learning Environments]]
+> > [!topic-idea] [[Personal-Learning-Environments|Personal Learning Environments]]
 > > This report would address the technological and organisational architectures through which SDL is enacted in digital learning contexts. Coverage would include the concept of the PLE as a distributed network of tools, resources, and social connections; the relationship between PLE design and SDL readiness development; the affordances and constraints of different PLE configurations; and the design implications for institutions that want to support rather than supplant learners' own learning ecologies. Directly relevant to online learning design and to any instructional context where learners access resources outside institutional boundaries. **Priority: High**
 > 
 > > [!topic-idea] [[Andragogy]]
 > > A full treatment of Knowles's theory of adult learning that situates SDL within its broader theoretical context. Coverage would include the six andragogical assumptions and their empirical status, the historical development of andragogy as a field, the pedagogy-andragogy debate (and the largely correct conclusion that the two are not as dichotomous as Knowles claimed), cultural critiques of andragogical assumptions, and the relationship between andragogy and constructivist learning theory. This report would provide the theoretical parent for SDL and make explicit some of the assumptions that SDL theory inherits. **Priority: Medium**
 > 
-> > [!topic-idea] [[Transformative Learning]]
+> > [!topic-idea] [[Transformative-Learning|Transformative Learning]]
 > > Mezirow's framework for fundamental shifts in learners' frames of reference — their assumptions, beliefs, and interpretive habits — intersects with SDL in its emphasis on critical self-reflection and autonomous meaning-making. A transformative learning report would cover Mezirow's critical discourse model, the role of disorienting dilemmas as catalysts for transformation, the relationship between perspective transformation and SDL development, and critiques of transformative learning theory from feminist and postcolonial perspectives. The SDL-TL connection is particularly important for understanding how self-directed learning can lead not just to skill acquisition but to fundamental reorientation of how learners understand themselves and their world. **Priority: Medium**
 > 
 > > [!topic-idea] [[Learning-Contracts|Learning Contracts]]
@@ -452,16 +452,16 @@ extraction_summary:
 - [[Online-Learning-Design|Online Learning Design]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[pedagogy]]
-- [[Personal Learning Environments]]
+- [[Personal-Learning-Environments|Personal Learning Environments]]
 - [[Philip-Candy|Philip Candy]]
 - [[Ralph-Hiemstra|Ralph Hiemstra]]
 - [[Roger-Brockett|Roger Brockett]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Stephen Brookfield]]
+- [[Stephen-Brookfield|Stephen Brookfield]]
 - [[Stewart-Hase|Stewart Hase]]
-- [[Transformative Learning]]
+- [[Transformative-Learning|Transformative Learning]]
 
 ### All Occurrences
 
@@ -497,12 +497,12 @@ extraction_summary:
 | 28 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Major Theoretical Frameworks | 350 |
 | 29 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Major Theoretical Frameworks | 350 |
 | 30 | [[Argyris-and-Schön|Argyris and Schön]] | — | — | Major Theoretical Frameworks | 352 |
-| 31 | [[Stephen Brookfield]] | — | — | Key Debates and Tensions | 366 |
+| 31 | [[Stephen-Brookfield|Stephen Brookfield]] | — | — | Key Debates and Tensions | 366 |
 | 32 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | How SDL Actually Operates | 384 |
 | 33 | [[Learning-Projects|Learning Projects]] | — | — | How SDL Actually Operates | 384 |
 | 34 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | How SDL Actually Operates | 386 |
 | 35 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | How SDL Actually Operates | 388 |
-| 36 | [[Personal Learning Environments]] | — | — | How SDL Actually Operates | 395 |
+| 36 | [[Personal-Learning-Environments|Personal Learning Environments]] | — | — | How SDL Actually Operates | 395 |
 | 37 | [[Learning-Projects|Learning Projects]] | — | — | How SDL Actually Operates | 398 |
 | 38 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Where SDL Theory Operates in Practice | 414 |
 | 39 | [[Learning-Contracts|Learning Contracts]] | learning contract | — | Where SDL Theory Operates in Practice | 416 |
@@ -519,9 +519,9 @@ extraction_summary:
 | 50 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | The Deep Structure of Self-Directed L... | 471 |
 | 51 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | D. Expansion Topics | 567 |
 | 52 | [[Heutagogy]] | — | — | D. Expansion Topics | 570 |
-| 53 | [[Personal Learning Environments]] | — | — | D. Expansion Topics | 573 |
+| 53 | [[Personal-Learning-Environments|Personal Learning Environments]] | — | — | D. Expansion Topics | 573 |
 | 54 | [[Andragogy]] | — | — | D. Expansion Topics | 576 |
-| 55 | [[Transformative Learning]] | — | — | D. Expansion Topics | 579 |
+| 55 | [[Transformative-Learning|Transformative Learning]] | — | — | D. Expansion Topics | 579 |
 | 56 | [[Learning-Contracts|Learning Contracts]] | — | — | D. Expansion Topics | 582 |
 | 57 | [[Online-Learning-Design|Online Learning Design]] | — | — | D. Expansion Topics | 585 |
 
@@ -555,16 +555,16 @@ extraction_summary:
 - [[Online-Learning-Design|Online Learning Design]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[pedagogy]]
-- [[Personal Learning Environments]]
+- [[Personal-Learning-Environments|Personal Learning Environments]]
 - [[Philip-Candy|Philip Candy]]
 - [[Ralph-Hiemstra|Ralph Hiemstra]]
 - [[Roger-Brockett|Roger Brockett]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Stephen Brookfield]]
+- [[Stephen-Brookfield|Stephen Brookfield]]
 - [[Stewart-Hase|Stewart Hase]]
-- [[Transformative Learning]]
+- [[Transformative-Learning|Transformative Learning]]
 
 ### Frontmatter Relationships
 
@@ -593,7 +593,7 @@ extraction_summary:
 #### Narrower
 
 - [[Learning-Contracts|Learning Contracts]]
-- [[Personal Learning Environments]]
+- [[Personal-Learning-Environments|Personal Learning Environments]]
 - [[Self-Directed-Learning-Readiness-Scale|Self-Directed Learning Readiness Scale]]
 - [[Heutagogy]]
 
@@ -602,7 +602,7 @@ extraction_summary:
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Lifelong-learning|Lifelong Learning]]
 - [[Andragogy]]
-- [[Transformative Learning]]
+- [[Transformative-Learning|Transformative Learning]]
 - [[Online-Learning-Design|Online Learning Design]]
 
 #### Contrasts With
@@ -627,7 +627,7 @@ extraction_summary:
 
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Heutagogy]]
-- [[Personal Learning Environments]]
+- [[Personal-Learning-Environments|Personal Learning Environments]]
 - [[Inquiry-Based Learning Design & Evidence]]
 
 ---

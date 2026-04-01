@@ -273,10 +273,10 @@ extraction_summary:
 - [[Attentional Blink]]
 - [[Automaticity]]
 - [[Baddeley's Model of Working Memory]]
-- [[Basal Ganglia]]
+- [[Basal-Ganglia|Basal Ganglia]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Ego Depletion]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Goal-Setting-Theory|Goal Setting Theory]]
@@ -364,14 +364,14 @@ extraction_summary:
 | 52 | [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]] | — | — | 🔗 Related Topics for PKB Expansion | 313 |
 | 53 | [[Automaticity]] | — | — | 🔗 Related Topics for PKB Expansion | 314 |
 | 54 | [[Habit-Loop|Habit Loop]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
-| 55 | [[Basal Ganglia]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
+| 55 | [[Basal-Ganglia|Basal Ganglia]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
 | 56 | [[Metacognitive Monitoring Accuracy and Its Role in Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 318 |
 | 57 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 319 |
 | 58 | [[Judgment-of-Learning|Judgment of Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
 | 59 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
 | 60 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
 | 61 | [[Attention Allocation and Task-Switching Costs in Multi-Context Knowledge Work]] | — | — | 🔗 Related Topics for PKB Expansion | 323 |
-| 62 | [[Context Switching]] | — | — | 🔗 Related Topics for PKB Expansion | 324 |
+| 62 | [[Context-Switching|Context Switching]] | — | — | 🔗 Related Topics for PKB Expansion | 324 |
 | 63 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
 | 64 | [[Attentional Blink]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
 | 65 | [[Inattentional Blindness]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
@@ -495,10 +495,10 @@ Let me start my research phase to gather current information on these topics.
 - [[Attentional Blink]]
 - [[Automaticity]]
 - [[Baddeley's Model of Working Memory]]
-- [[Basal Ganglia]]
+- [[Basal-Ganglia|Basal Ganglia]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
-- [[Context Switching]]
+- [[Context-Switching|Context Switching]]
 - [[Ego Depletion]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Goal-Setting-Theory|Goal Setting Theory]]

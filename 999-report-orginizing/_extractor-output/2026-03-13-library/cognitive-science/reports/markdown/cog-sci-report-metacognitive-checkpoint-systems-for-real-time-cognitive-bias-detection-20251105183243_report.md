@@ -160,14 +160,14 @@ extraction_summary:
 > [!abstract] Untitled
 > This comprehensive examination explores the architectural principles, implementation strategies, and empirical effectiveness of [[Metacognitive Checkpoint System]]—structured intervention frameworks designed to detect and mitigate [[Cognitive-Biases|Cognitive Biases]] during active learning and decision-making processes. Building upon foundational research by Daniel Kahneman, Amos Tversky, Gary Klein, and Julia Galef, we analyze how systematic "pause points" in cognitive processing can interrupt the automatic activation of heuristic-driven errors that emerge from [[System-1-and-System-2|dual-process cognition]].
 > 
-> The article examines four primary checkpoint mechanisms: [[Pre-Mortem Analysis]], which leverages [[Prospective Hindsight]] to identify failure modes before project initiation; [[Epistemic Spot Check|epistemic spot checks]], which establish accountability protocols for belief justification; [[Decision Journal|decision journaling]], which creates feedback loops for calibrating [[Metacognitive-Calibration|metacognitive calibration]]; and algorithmic reasoning aids, which provide structured frameworks to counteract systematic cognitive distortions. We synthesize evidence from cognitive psychology, behavioral economics, and organizational decision science to assess the conditions under which these interventions demonstrate measurable effectiveness, their limitations in complex real-world environments, and the psychological mechanisms that explain both their successes and failures.
+> The article examines four primary checkpoint mechanisms: [[Pre-Mortem-Analysis|Pre-Mortem Analysis]], which leverages [[Prospective Hindsight]] to identify failure modes before project initiation; [[Epistemic Spot Check|epistemic spot checks]], which establish accountability protocols for belief justification; [[Decision Journal|decision journaling]], which creates feedback loops for calibrating [[Metacognitive-Calibration|metacognitive calibration]]; and algorithmic reasoning aids, which provide structured frameworks to counteract systematic cognitive distortions. We synthesize evidence from cognitive psychology, behavioral economics, and organizational decision science to assess the conditions under which these interventions demonstrate measurable effectiveness, their limitations in complex real-world environments, and the psychological mechanisms that explain both their successes and failures.
 > 
 > Central to our analysis is the recognition that cognitive biases are not mere "thinking errors" but rather the predictable by-products of adaptive heuristics operating outside their evolutionary design specifications. Effective checkpoint systems must therefore work *with* rather than against the architecture of human cognition, creating environmental scaffolds and procedural protocols that redirect automatic processes toward more accurate representations of reality. The broader implications of this work extend to professional decision-making domains including medicine, finance, project management, and organizational strategy, where the compounding effects of systematic bias represent both substantial risk and opportunity for intervention.
 
 #### 4. [THE-PURPOSE] Untitled *(Line 47)*
 
 > [!the-purpose] Untitled
-> This article provides a rigorous, multi-faceted examination of [[Metacognitive Checkpoint Systems]]—the structured intervention frameworks that create systematic "pause points" in cognitive processing to detect and mitigate [[as|cognitive biases]] during active learning and decision-making. Our purpose is to synthesize decades of research from cognitive psychology, behavioral economics, and decision science into a comprehensive framework that explains *why* certain checkpoint systems work, *when* they are most effective, *how* they interact with the fundamental architecture of human cognition, and *what* their limitations reveal about the challenges of debiasing in complex environments. By examining specific techniques including [[Pre-Mortem Analysis]], [[Epistemic Spot Check|epistemic spot checks]], [[Decision Journal|decision journaling protocols]], and [[Algorithmic Reasoning Aid|algorithmic reasoning aids]], we establish both the theoretical foundations and practical implications of systematic bias detection for domains where decision quality carries substantial consequences.
+> This article provides a rigorous, multi-faceted examination of [[Metacognitive Checkpoint Systems]]—the structured intervention frameworks that create systematic "pause points" in cognitive processing to detect and mitigate [[as|cognitive biases]] during active learning and decision-making. Our purpose is to synthesize decades of research from cognitive psychology, behavioral economics, and decision science into a comprehensive framework that explains *why* certain checkpoint systems work, *when* they are most effective, *how* they interact with the fundamental architecture of human cognition, and *what* their limitations reveal about the challenges of debiasing in complex environments. By examining specific techniques including [[Pre-Mortem-Analysis|Pre-Mortem Analysis]], [[Epistemic Spot Check|epistemic spot checks]], [[Decision Journal|decision journaling protocols]], and [[Algorithmic Reasoning Aid|algorithmic reasoning aids]], we establish both the theoretical foundations and practical implications of systematic bias detection for domains where decision quality carries substantial consequences.
 
 #### 5. [QUOTE] Untitled *(Line 50)*
 
@@ -235,7 +235,7 @@ extraction_summary:
 > - **Hard-Easy Effect**: People are underconfident on easy tasks and overconfident on difficult tasks, with the crossover occurring around 80% actual performance.
 > - **Hindsight Bias**: After learning an outcome, people substantially overestimate how predictable it was beforehand ("I knew it all along").
 > 
-> The calibration problem has profound implications for checkpoint design. Simply asking people "How confident are you?" does not produce reliable indicators of judgment quality. Instead, effective checkpoints must *test* rather than *query* calibration. This is why techniques like the [[Pre-Mortem Analysis]] are effective—they don't ask whether the plan will succeed (which would elicit overconfident affirmation), but rather *assume* failure and work backwards to identify causes, thereby revealing unrecognized vulnerabilities.
+> The calibration problem has profound implications for checkpoint design. Simply asking people "How confident are you?" does not produce reliable indicators of judgment quality. Instead, effective checkpoints must *test* rather than *query* calibration. This is why techniques like the [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] are effective—they don't ask whether the plan will succeed (which would elicit overconfident affirmation), but rather *assume* failure and work backwards to identify causes, thereby revealing unrecognized vulnerabilities.
 
 #### 14. [PRINCIPLE-POINT] Untitled *(Line 126)*
 
@@ -264,7 +264,7 @@ extraction_summary:
 > 
 > Checkpoint systems leverage this by creating **public commitments** and **forecasting records**. Philip Tetlock's research on [[Superforecasting]] demonstrates that requiring people to make explicit, falsifiable predictions and then tracking their accuracy over time dramatically improves judgment quality.[^14] The accountability comes not from punishment but from the desire to maintain epistemic credibility—to be someone whose judgments are worth taking seriously.
 > 
-> [[Decision Journal|Decision journaling]], [[Pre-Mortem Analysis]] conducted in teams, and [[epistemic spot checks]] all create accountability structures by making reasoning visible and creating records that can be evaluated against outcomes. This external scaffolding compensates for the limited internal motivation to debias.
+> [[Decision Journal|Decision journaling]], [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] conducted in teams, and [[epistemic spot checks]] all create accountability structures by making reasoning visible and creating records that can be evaluated against outcomes. This external scaffolding compensates for the limited internal motivation to debias.
 
 #### 16. [ANALOGY] Untitled *(Line 176)*
 
@@ -448,7 +448,7 @@ extraction_summary:
 - [[Ecological Rationality and Adaptive Heuristics]]
 - [[Epistemic Accountability]]
 - [[Epistemic Spot Check]]
-- [[Expertise Development and Deliberate Practice]]
+- [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Forward Simulation]]
 - [[Good Judgment Project]]
 - [[Heuristics and Biases]]
@@ -468,11 +468,11 @@ extraction_summary:
 - [[Pattern Recognition]]
 - [[Planning Fallacy]]
 - [[Post-Mortem Analysis]]
-- [[Pre-Mortem Analysis]]
+- [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
 - [[Premature Closure]]
 - [[Prospective Hindsight]]
 - [[Reflective-Practice|Reflective Practice]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Roam Research]]
 - [[Scout Mindset]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
@@ -493,14 +493,14 @@ extraction_summary:
 | 2 | [[Metacognitive Checkpoint System]] | — | — | Document Start | 39 |
 | 3 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Document Start | 39 |
 | 4 | [[System-1-and-System-2|System 1 and System 2]] | dual-process cognition | — | Document Start | 39 |
-| 5 | [[Pre-Mortem Analysis]] | — | — | Document Start | 41 |
+| 5 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | Document Start | 41 |
 | 6 | [[Prospective Hindsight]] | — | — | Document Start | 41 |
 | 7 | [[Epistemic Spot Check]] | epistemic spot checks | — | Document Start | 41 |
 | 8 | [[Decision Journal]] | decision journaling | — | Document Start | 41 |
 | 9 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive calibration | — | Document Start | 41 |
 | 10 | [[Metacognitive Checkpoint Systems]] | — | — | 1.0 📜 INTRODUCTION | 48 |
 | 11 | [[as]] | cognitive biases | — | 1.0 📜 INTRODUCTION | 48 |
-| 12 | [[Pre-Mortem Analysis]] | — | — | 1.0 📜 INTRODUCTION | 48 |
+| 12 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 1.0 📜 INTRODUCTION | 48 |
 | 13 | [[Epistemic Spot Check]] | epistemic spot checks | — | 1.0 📜 INTRODUCTION | 48 |
 | 14 | [[Decision Journal]] | decision journaling protocols | — | 1.0 📜 INTRODUCTION | 48 |
 | 15 | [[Algorithmic Reasoning Aid]] | algorithmic reasoning aids | — | 1.0 📜 INTRODUCTION | 48 |
@@ -509,7 +509,7 @@ extraction_summary:
 | 18 | [[Metacognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
 | 19 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 60 |
 | 20 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
-| 21 | [[Representativeness Heuristic]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
+| 21 | [[representativeness-heuristic|Representativeness Heuristic]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
 | 22 | [[Anchoring Effect]] | anchoring and adjustment | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
 | 23 | [[Metacognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
 | 24 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
@@ -518,7 +518,7 @@ extraction_summary:
 | 27 | [[Naturalistic-Decision-Making|Naturalistic Decision Making]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 28 | [[Pattern Recognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 29 | [[Mental-Simulation|Mental Simulation]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
-| 30 | [[Pre-Mortem Analysis]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
+| 30 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 31 | [[Soldier Mindset]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
 | 32 | [[Scout Mindset]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
 | 33 | [[System-1-and-System-2|System 1 and System 2]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 94 |
@@ -526,7 +526,7 @@ extraction_summary:
 | 35 | [[System-2|System 2]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 94 |
 | 36 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 109 |
 | 37 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 113 |
-| 38 | [[Pre-Mortem Analysis]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 124 |
+| 38 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 124 |
 | 39 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 127 |
 | 40 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 129 |
 | 41 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 136 |
@@ -537,9 +537,9 @@ extraction_summary:
 | 46 | [[Epistemic Accountability]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 145 |
 | 47 | [[Superforecasting]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 147 |
 | 48 | [[Decision Journal]] | Decision journaling | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 149 |
-| 49 | [[Pre-Mortem Analysis]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 149 |
+| 49 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 149 |
 | 50 | [[epistemic spot checks]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 149 |
-| 51 | [[Pre-Mortem Analysis]] | — | — | 4.1 🔮 PRE-MORTEM ANALYSIS: PROSPECTIV... | 159 |
+| 51 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 4.1 🔮 PRE-MORTEM ANALYSIS: PROSPECTIV... | 159 |
 | 52 | [[Backward Reasoning]] | — | — | 4.1 🔮 PRE-MORTEM ANALYSIS: PROSPECTIV... | 174 |
 | 53 | [[Forward Simulation]] | — | — | 4.1 🔮 PRE-MORTEM ANALYSIS: PROSPECTIV... | 174 |
 | 54 | [[Prospective Hindsight]] | — | — | 4.1 🔮 PRE-MORTEM ANALYSIS: PROSPECTIV... | 177 |
@@ -577,12 +577,12 @@ extraction_summary:
 | 86 | [[Bayesian Reasoning and Base Rate Neglect]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 870 |
 | 87 | [[Social Epistemology and Collective Intelligence]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 871 |
 | 88 | [[Choice Architecture and Nudge Theory]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 872 |
-| 89 | [[Expertise Development and Deliberate Practice]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 873 |
+| 89 | [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 873 |
 | 90 | [[AI-Human Decision Partnership Models]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 874 |
 | 91 | [[Metacognition]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
 | 92 | [[Cognitive-Bias|Cognitive Bias]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
 | 93 | [[System-1-and-System-2|System 1 and System 2]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
-| 94 | [[Pre-Mortem Analysis]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
+| 94 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
 | 95 | [[Epistemic Spot Check]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
 | 96 | [[Decision Journal]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
 | 97 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 904 |
@@ -634,7 +634,7 @@ The output structure provided is perfect for this topic:
 - Frontier research: Current debates, AI-assisted metacognition, personalization
 
 **Key Concepts to Wiki-Link:**
-[[Metacognition]], [[Cognitive-Bias|Cognitive Bias]], [[System-1-and-System-2|System 1 and System 2]], [[Pre-Mortem Analysis]], [[Epistemic Spot Check]], [[Decision Journal]], [[Confirmation-Bias-Myside-Bias|Confirmation Bias]], [[Anchoring Effect]], [[Availability-Heuristic|Availability Heuristic]], [[Dunning-Kruger-Effect|Dunning-Kruger Effect]], [[Calibration]], [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Reflective-Practice|Reflective Practice]], [[Prospective Hindsight]]
+[[Metacognition]], [[Cognitive-Bias|Cognitive Bias]], [[System-1-and-System-2|System 1 and System 2]], [[Pre-Mortem-Analysis|Pre-Mortem Analysis]], [[Epistemic Spot Check]], [[Decision Journal]], [[Confirmation-Bias-Myside-Bias|Confirmation Bias]], [[Anchoring Effect]], [[Availability-Heuristic|Availability Heuristic]], [[Dunning-Kruger-Effect|Dunning-Kruger Effect]], [[Calibration]], [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Reflective-Practice|Reflective Practice]], [[Prospective Hindsight]]
 
 Let me conduct comprehensive web research first.
 # ... (12 more lines truncated)
@@ -693,7 +693,7 @@ Let me conduct comprehensive web research first.
 - [[Ecological Rationality and Adaptive Heuristics]]
 - [[Epistemic Accountability]]
 - [[Epistemic Spot Check]]
-- [[Expertise Development and Deliberate Practice]]
+- [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Forward Simulation]]
 - [[Good Judgment Project]]
 - [[Heuristics and Biases]]
@@ -713,11 +713,11 @@ Let me conduct comprehensive web research first.
 - [[Pattern Recognition]]
 - [[Planning Fallacy]]
 - [[Post-Mortem Analysis]]
-- [[Pre-Mortem Analysis]]
+- [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
 - [[Premature Closure]]
 - [[Prospective Hindsight]]
 - [[Reflective-Practice|Reflective Practice]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Roam Research]]
 - [[Scout Mindset]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]

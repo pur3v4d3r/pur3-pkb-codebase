@@ -502,29 +502,29 @@ extraction_summary:
 > [!topic-idea] [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
 > A focused analysis of Reeve's autonomy-supportive teaching framework: the specific behavioral repertoire (taking the learner's perspective, providing meaningful rationales, using informational rather than controlling language, minimizing external pressure) that constitutes genuine autonomy support rather than merely reduced directiveness. Would examine the Autonomy-Supportive Orientation Scale (ASOS), the experimental evidence that training teachers in autonomy-supportive behaviors produces measurable motivational and achievement gains, and the structural barriers (pressure for accountability, performance metrics, time constraints) that predictably push teachers toward controlling styles. Priority: HIGH — most directly actionable for educational design contexts.
 
-#### 66. [TOPIC-IDEA] [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]] *(Line 627)*
+#### 66. [TOPIC-IDEA] [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need Frustration and the Dark Side of Motivation — A Focused Analysis]] *(Line 627)*
 
-> [!topic-idea] [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
+> [!topic-idea] [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
 > Examines the motivational and behavioral consequences of chronic need frustration across the three needs — specifically the defensive psychological states, substitute satisfactions, and controlled motivational patterns documented by Ryan, Vansteenkiste, Bartholomew and colleagues. Would analyze obsessive passion vs. harmonious passion (Vallerand's dualistic model), the distinction between introjected and external regulation, and the clinical implications of BPNT for understanding motivation-related psychopathology (perfectionism, academic burnout, ego-protective performance orientation). Priority: HIGH — addresses the less-understood asymmetric side of BPNT that has significant practical implications for high-stakes learning environments.
 
-#### 67. [TOPIC-IDEA] [[Cultural Universality of Basic Psychological Needs — A Critical Examination]] *(Line 630)*
+#### 67. [TOPIC-IDEA] [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural Universality of Basic Psychological Needs — A Critical Examination]] *(Line 630)*
 
-> [!topic-idea] [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
+> [!topic-idea] [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural Universality of Basic Psychological Needs — A Critical Examination]]
 > A focused analysis of the cross-cultural evidence for BPNT universality, critically examining both the form/function distinction that defends universality and the measurement challenges that complicate it. Would engage with critiques from cultural psychology (the autonomy need as potentially Western) and examine what more nuanced measurement instruments — capturing culturally specific forms of autonomous functioning — have found. Priority: HIGH — essential for applying BPNT outside Western educational contexts.
 
-#### 68. [TOPIC-IDEA] [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]] *(Line 633)*
+#### 68. [TOPIC-IDEA] [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]] *(Line 633)*
 
-> [!topic-idea] [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
+> [!topic-idea] [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
 > Analysis of the intersection between CLT's cognitive resource constraints and BPNT's need-satisfaction requirements. Hypothesis: High intrinsic load simultaneously demands cognitive resources for learning and activates competence-need-frustration responses when scaffolding is inadequate, creating a feedback loop that reduces both cognitive and motivational functioning. Would examine whether CLT's load-reduction recommendations (worked examples, segmentation) work partly through need-satisfaction mechanisms. Priority: MEDIUM — represents a genuine theoretical gap in the current PKB that could generate original contribution.
 
-#### 69. [TOPIC-IDEA] [[Flow Theory and Competence Need — Structural Parallels]] *(Line 636)*
+#### 69. [TOPIC-IDEA] [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow Theory and Competence Need — Structural Parallels]] *(Line 636)*
 
-> [!topic-idea] [[Flow Theory and Competence Need — Structural Parallels]]
+> [!topic-idea] [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow Theory and Competence Need — Structural Parallels]]
 > Examines the structural convergence between Csikszentmihalyi's flow state conditions (challenge-skill balance, clear goals, unambiguous feedback) and BPNT's competence need satisfaction requirements (optimal challenge, informational feedback). Identifies where the two frameworks agree, where they diverge, and what each framework illuminates about the other. Would ask whether flow is the phenomenological correlate of competence need satisfaction or something more specific. Priority: MEDIUM — theoretically interesting cross-framework integration with practical implications for engagement design.
 
-#### 70. [TOPIC-IDEA] [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]] *(Line 639)*
+#### 70. [TOPIC-IDEA] [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory|BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]] *(Line 639)*
 
-> [!topic-idea] [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
+> [!topic-idea] [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory|BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
 > Examines the hypothesis that need frustration — particularly autonomy need frustration — may be the primary explanation for the knowing-doing gap documented in the SRL report: why learners who understand regulatory strategies often fail to execute them. Would analyze the motivational prerequisites for self-regulatory cycle execution, particularly the volitional engagement required for genuine monitoring and strategy adaptation, and what need-support conditions are necessary before SRL interventions can be effective. Priority: HIGH — directly bridges the two major analytic threads in the current PKB.
 
 ---
@@ -540,20 +540,20 @@ extraction_summary:
 - [[Attachment-Theory|Attachment Theory]]
 - [[Autonomy-Support-in-Education|Autonomy Support in Education]]
 - [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
-- [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
+- [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory|BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
-- [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
+- [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
+- [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural Universality of Basic Psychological Needs — A Critical Examination]]
 - [[Edward-Deci|Edward Deci]]
 - [[Flow-Theory|Flow Theory]]
-- [[Flow Theory and Competence Need — Structural Parallels]]
+- [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow Theory and Competence Need — Structural Parallels]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Maarten-Vansteenkiste|Maarten Vansteenkiste]]
 - [[Motivation-Continuum|Motivation Continuum]]
-- [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
+- [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -600,11 +600,11 @@ extraction_summary:
 | 31 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
 | 32 | [[Autonomy-Support-in-Education|Autonomy Support in Education]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
 | 33 | [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]] | — | — | D. Expansion Topics | 624 |
-| 34 | [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]] | — | — | D. Expansion Topics | 627 |
-| 35 | [[Cultural Universality of Basic Psychological Needs — A Critical Examination]] | — | — | D. Expansion Topics | 630 |
-| 36 | [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]] | — | — | D. Expansion Topics | 633 |
-| 37 | [[Flow Theory and Competence Need — Structural Parallels]] | — | — | D. Expansion Topics | 636 |
-| 38 | [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]] | — | — | D. Expansion Topics | 639 |
+| 34 | [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need Frustration and the Dark Side of Motivation — A Focused Analysis]] | — | — | D. Expansion Topics | 627 |
+| 35 | [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural Universality of Basic Psychological Needs — A Critical Examination]] | — | — | D. Expansion Topics | 630 |
+| 36 | [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]] | — | — | D. Expansion Topics | 633 |
+| 37 | [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow Theory and Competence Need — Structural Parallels]] | — | — | D. Expansion Topics | 636 |
+| 38 | [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory|BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]] | — | — | D. Expansion Topics | 639 |
 
 ---
 
@@ -618,20 +618,20 @@ extraction_summary:
 - [[Attachment-Theory|Attachment Theory]]
 - [[Autonomy-Support-in-Education|Autonomy Support in Education]]
 - [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
-- [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
+- [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory|BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
-- [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
+- [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
+- [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural Universality of Basic Psychological Needs — A Critical Examination]]
 - [[Edward-Deci|Edward Deci]]
 - [[Flow-Theory|Flow Theory]]
-- [[Flow Theory and Competence Need — Structural Parallels]]
+- [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow Theory and Competence Need — Structural Parallels]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Maarten-Vansteenkiste|Maarten Vansteenkiste]]
 - [[Motivation-Continuum|Motivation Continuum]]
-- [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
+- [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

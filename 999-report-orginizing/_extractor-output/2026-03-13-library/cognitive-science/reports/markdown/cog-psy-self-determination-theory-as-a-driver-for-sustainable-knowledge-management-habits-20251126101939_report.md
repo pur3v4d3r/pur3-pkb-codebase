@@ -217,7 +217,7 @@ extraction_summary:
 
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Epistemic Curiosity]]
+- [[epistemic-curiosity|Epistemic Curiosity]]
 - [[Flow-Theory|Flow Theory]]
 - [[Luhmann’s Zettelkasten]]
 - [[Metacognition]]
@@ -236,7 +236,7 @@ extraction_summary:
 | 3 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | 📈 Review System | 85 |
 | 4 | [[Luhmann’s Zettelkasten]] | — | — | 📈 Review System | 85 |
 | 5 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | The Philosophy of Nutritional Cognition | 100 |
-| 6 | [[Epistemic Curiosity]] | — | — | 1. Autonomy: The Necessity of Volition | 123 |
+| 6 | [[epistemic-curiosity|Epistemic Curiosity]] | — | — | 1. Autonomy: The Necessity of Volition | 123 |
 | 7 | [[Flow-Theory|Flow Theory]] | — | — | 2. Competence: The Architecture of Ma... | 131 |
 | 8 | [[Robert-Bjork|Robert Bjork]] | — | — | 2. Competence: The Architecture of Ma... | 138 |
 | 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase 3: Connective Tissue | 181 |
@@ -271,7 +271,7 @@ $$
 
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Epistemic Curiosity]]
+- [[epistemic-curiosity|Epistemic Curiosity]]
 - [[Flow-Theory|Flow Theory]]
 - [[Luhmann’s Zettelkasten]]
 - [[Metacognition]]

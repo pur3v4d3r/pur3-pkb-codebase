@@ -117,7 +117,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 44)*
 
 > [!abstract] Untitled
-> This comprehensive examination traces the intellectual heritage of systems design principles as applied to personal workflow architecture, revealing how insights from [[Cybernetics]], [[Systems Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], and [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]] converge to create frameworks for building resilient and adaptive personal knowledge systems. The synthesis demonstrates that effective personal workflow systems are not merely organizational tools but sophisticated information-processing architectures that reduce cognitive friction, enable [[Flow|flow]], and grow stronger under stress. By understanding the theoretical foundations from [[Norbert Wiener]]'s cybernetic feedback loops through [[Nassim Taleb]]'s concept of systems that benefit from disorder, we can construct [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management|PKM]] systems that function as true cognitive partners rather than passive repositories.
+> This comprehensive examination traces the intellectual heritage of systems design principles as applied to personal workflow architecture, revealing how insights from [[Cybernetics]], [[Systems Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], and [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]] converge to create frameworks for building resilient and adaptive personal knowledge systems. The synthesis demonstrates that effective personal workflow systems are not merely organizational tools but sophisticated information-processing architectures that reduce cognitive friction, enable [[Flow|flow]], and grow stronger under stress. By understanding the theoretical foundations from [[Norbert Wiener]]'s cybernetic feedback loops through [[Nassim-Taleb|Nassim Taleb]]'s concept of systems that benefit from disorder, we can construct [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management|PKM]] systems that function as true cognitive partners rather than passive repositories.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 53)*
 
@@ -350,14 +350,14 @@ extraction_summary:
 - [[Extended Mind]]
 - [[Extraneous-Load|Extraneous Load]]
 - [[Feedback Loops]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Fred-Paas|Fred Paas]]
 - [[Friction]]
 - [[General Systems Theory]]
 - [[Germane-Load|Germane Load]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
-- [[Herbert Simon]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Hierarchical Task Network Planning]]
 - [[Hydra]]
@@ -379,7 +379,7 @@ extraction_summary:
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Minimum Viable System]]
 - [[Nassim Nicholas Taleb]]
-- [[Nassim Taleb]]
+- [[Nassim-Taleb|Nassim Taleb]]
 - [[Network Effects]]
 - [[Niklas Luhmann]]
 - [[Norbert Wiener]]
@@ -427,7 +427,7 @@ extraction_summary:
 - [[Flow]]
 - [[hormesis]]
 - [[Obsidian]]
-- [[para method]]
+- [[PARA-Method|para method]]
 - [[zettelkasten method]]
 
 ### All Occurrences
@@ -438,9 +438,9 @@ extraction_summary:
 | 2 | [[Systems Theory]] | — | — | Document Start | 45 |
 | 3 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Document Start | 45 |
 | 4 | [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]] | — | — | Document Start | 45 |
-| 5 | [[Flow State]] | flow | — | Document Start | 45 |
+| 5 | [[Flow-State|Flow State]] | flow | — | Document Start | 45 |
 | 6 | [[Norbert Wiener]] | — | — | Document Start | 45 |
-| 7 | [[Nassim Taleb]] | — | — | Document Start | 45 |
+| 7 | [[Nassim-Taleb|Nassim Taleb]] | — | — | Document Start | 45 |
 | 8 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | PKM | — | Document Start | 45 |
 | 9 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 49 |
 | 10 | [[Cybernetics]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 51 |
@@ -461,13 +461,13 @@ extraction_summary:
 | 25 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 26 | [[Information-Architecture|Information Architecture]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 27 | [[Personal Information Management]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
-| 28 | [[Getting Things Done]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
+| 28 | [[Getting-Things-Done|Getting Things Done]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 29 | [[David Allen]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 30 | [[zettelkasten method]] | Zettelkasten | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 31 | [[Niklas Luhmann]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 32 | [[Building a Second Brain]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 33 | [[Tiago Forte]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
-| 34 | [[para method]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
+| 34 | [[PARA-Method|para method]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 35 | [[PKM]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
 | 36 | [[Obsidian]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
 | 37 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
@@ -502,9 +502,9 @@ extraction_summary:
 | 66 | [[Building a Second Brain]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 144 |
 | 67 | [[Flow]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
 | 68 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
-| 69 | [[Flow State]] | Flow | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
+| 69 | [[Flow-State|Flow State]] | Flow | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
 | 70 | [[David Allen]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 150 |
-| 71 | [[Getting Things Done]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 150 |
+| 71 | [[Getting-Things-Done|Getting Things Done]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 150 |
 | 72 | [[Two-Minute Rule]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 155 |
 | 73 | [[Habit-Formation|Habit Formation]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 157 |
 | 74 | [[Wendy Wood]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 157 |
@@ -512,7 +512,7 @@ extraction_summary:
 | 76 | [[decision fatigue]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 77 | [[Barry-Schwartz|Barry Schwartz]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 78 | [[Paradox of Choice]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
-| 79 | [[Herbert Simon]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 170 |
+| 79 | [[Herbert-Simon|Herbert Simon]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 170 |
 | 80 | [[Interstitial Journaling]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 177 |
 | 81 | [[Tony Stubblebine]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 177 |
 | 82 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 📊 Empirical Evidence: What Research R... | 183 |
@@ -530,7 +530,7 @@ extraction_summary:
 | 94 | [[Raimo Hämäläinen]] | — | — | 📊 Empirical Evidence: What Research R... | 203 |
 | 95 | [[Esa Saarinen]] | — | — | 📊 Empirical Evidence: What Research R... | 203 |
 | 96 | [[Zeigarnik Effect]] | — | — | 📊 Empirical Evidence: What Research R... | 205 |
-| 97 | [[Getting Things Done]] | — | — | 📊 Empirical Evidence: What Research R... | 205 |
+| 97 | [[Getting-Things-Done|Getting Things Done]] | — | — | 📊 Empirical Evidence: What Research R... | 205 |
 | 98 | [[Bluma Zeigarnik]] | — | — | 📊 Empirical Evidence: What Research R... | 205 |
 | 99 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 📊 Empirical Evidence: What Research R... | 210 |
 | 100 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 📊 Empirical Evidence: What Research R... | 210 |
@@ -709,14 +709,14 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Extended Mind]]
 - [[Extraneous-Load|Extraneous Load]]
 - [[Feedback Loops]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Fred-Paas|Fred Paas]]
 - [[Friction]]
 - [[General Systems Theory]]
 - [[Germane-Load|Germane Load]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
-- [[Herbert Simon]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Hierarchical Task Network Planning]]
 - [[Hydra]]
@@ -738,7 +738,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[Minimum Viable System]]
 - [[Nassim Nicholas Taleb]]
-- [[Nassim Taleb]]
+- [[Nassim-Taleb|Nassim Taleb]]
 - [[Network Effects]]
 - [[Niklas Luhmann]]
 - [[Norbert Wiener]]
@@ -786,7 +786,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Flow]]
 - [[hormesis]]
 - [[Obsidian]]
-- [[para method]]
+- [[PARA-Method|para method]]
 - [[zettelkasten method]]
 
 ---

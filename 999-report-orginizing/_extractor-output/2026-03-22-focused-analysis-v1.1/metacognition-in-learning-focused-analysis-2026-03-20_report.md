@@ -521,7 +521,7 @@ extraction_summary:
 - [[Achievement-Goal-Theory]]
 - [[Advance-Organizer]]
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Desirable-Difficulties]]
 - [[Double-Loop-Learning]]
 - [[Dual-Process-Theory]]
@@ -628,7 +628,7 @@ extraction_summary:
 | 61 | [[Self-Reflection-Phase]] | self-reflection | — | The Integration: What Earlier Concept... | 387 |
 | 62 | [[Extended-Thinking-Modes]] | LLMs with extended thinking | — | Abstract Principle 1: Low-Validity Cu... | 409 |
 | 63 | [[Self-Consistency]] | self-consistency | — | Abstract Principle 1: Low-Validity Cu... | 409 |
-| 64 | [[Chain of Verification]] | — | — | Abstract Principle 1: Low-Validity Cu... | 409 |
+| 64 | [[Chain-of-Verification|Chain of Verification]] | — | — | Abstract Principle 1: Low-Validity Cu... | 409 |
 | 65 | [[Metacognition]] | — | — | Phase VIII: PKB Connections & Cross-R... | 455 |
 | 66 | [[Metacognitive-Monitoring]] | — | — | Phase VIII: PKB Connections & Cross-R... | 457 |
 | 67 | [[Metacognitive-Regulation]] | — | — | Phase VIII: PKB Connections & Cross-R... | 459 |
@@ -674,7 +674,7 @@ extraction_summary:
 - [[Achievement-Goal-Theory]]
 - [[Advance-Organizer]]
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Desirable-Difficulties]]
 - [[Double-Loop-Learning]]
 - [[Dual-Process-Theory]]

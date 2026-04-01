@@ -506,7 +506,7 @@ extraction_summary:
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive landscape report on attribution retraining as a distinct intervention category from growth mindset programs — mapping the evidence base, key techniques, domain-specific applications, and comparison with mindset intervention outcomes. This topic would directly extend the report's finding that attribution retraining has stronger empirical support than general mindset instruction, providing practitioners with a well-grounded alternative framework.
 > **Core Concepts**: Weiner's attribution model, attribution retraining protocols, domain-specific implementation, feedback design, teacher training requirements
-> **Related Topics**: [[Attribution-Theory|Attribution Theory]], [[Motivational-Interviewing|Motivational Interviewing]], [[Learned-Helplessness|Learned Helplessness]], [[Academic Buoyancy]]
+> **Related Topics**: [[Attribution-Theory|Attribution Theory]], [[Motivational-Interviewing|Motivational Interviewing]], [[Learned-Helplessness|Learned Helplessness]], [[Academic-Buoyancy|Academic Buoyancy]]
 
 #### 57. [TOPIC-IDEA] Untitled *(Line 570)*
 
@@ -515,7 +515,7 @@ extraction_summary:
 > **Report Type**: First Principles
 > **Description**: A first-principles analysis of how learning environments can be designed to ensure that students accumulate genuine mastery experiences — addressing the question of what counts as a mastery experience (vs. artificial easy wins), how scaffolding difficulty affects self-efficacy, and how to balance challenge and success to build domain-specific ability beliefs. Directly extends the Mastery-Experience Primacy Hypothesis derived in Phase IV.
 > **Core Concepts**: Zone of proximal development, scaffolding theory, deliberate practice, desirable difficulties, spaced retrieval, interleaving, expertise acquisition
-> **Related Topics**: [[Deliberate-Practice|Deliberate Practice]], [[Expertise Acquisition]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Desirable-Difficulties|Desirable Difficulties]]
+> **Related Topics**: [[Deliberate-Practice|Deliberate Practice]], [[Expertise-Acquisition|Expertise Acquisition]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Desirable-Difficulties|Desirable Difficulties]]
 
 #### 58. [TOPIC-IDEA] Untitled *(Line 577)*
 
@@ -524,7 +524,7 @@ extraction_summary:
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive survey of the goal climate literature — how the motivational environment created by instructional practices, evaluation structures, and classroom culture shapes students' goal orientations independent of their individual ability beliefs. This would operationalize the Goal Orientation Bypass identified as novel in Phase IV, giving practitioners actionable tools that do not require mindset instruction.
 > **Core Concepts**: Achievement Goal Theory, motivational climate, mastery-structured assessment, social comparison effects, normative grading, competency-based evaluation
-> **Related Topics**: [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Classroom Motivation]], [[Competency-Based Learning]], [[Self-Determination-Theory|Self-Determination Theory]]
+> **Related Topics**: [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Classroom-Motivation|Classroom Motivation]], [[Competency-Based-Learning|Competency-Based Learning]], [[Self-Determination-Theory|Self-Determination Theory]]
 
 #### 59. [TOPIC-IDEA] Untitled *(Line 584)*
 
@@ -533,7 +533,7 @@ extraction_summary:
 > **Report Type**: First Principles
 > **Description**: A first-principles examination of the structural and methodological factors that produced the replication crisis in social and educational psychology, using growth mindset as a central case study but extending to broader lessons about how psychological findings acquire cultural authority before their replication record is established, and what institutional changes would produce more reliable intervention science.
 > **Core Concepts**: Publication bias, underpowered studies, researcher degrees of freedom, preregistration, registered reports, effect size inflation, conceptual vs. direct replication
-> **Related Topics**: [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]], [[Open Science Framework]], [[Meta-Science]], [[Evidence-Based Education]]
+> **Related Topics**: [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]], [[Open-Science-Framework|Open Science Framework]], [[Meta-Science]], [[Evidence-Based-Education|Evidence-Based Education]]
 
 #### 60. [TOPIC-IDEA] Untitled *(Line 591)*
 
@@ -542,7 +542,7 @@ extraction_summary:
 > **Report Type**: Socratic Dialogue
 > **Description**: A dialectical exploration of the interaction between stereotype threat and growth mindset, specifically examining the hypothesis that stereotype threat operates partly through the same attribution mechanism identified in this report's axioms (threat activates stable-ability attributions for difficulty), and that attribution-level interventions might interrupt stereotype threat more effectively than general mindset instruction. This topic benefits from Socratic treatment because the theoretical case is plausible but the empirical record is contested.
 > **Core Concepts**: Stereotype threat mechanisms, identity contingency, attributional ambiguity, domain identification, wise interventions
-> **Related Topics**: [[Stereotype-Threat|Stereotype Threat]], [[Identity-Based Motivation]], [[Wise Interventions]], [[Attributional Ambiguity]]
+> **Related Topics**: [[Stereotype-Threat|Stereotype Threat]], [[Identity-Based-Motivation|Identity-Based Motivation]], [[Wise-Interventions|Wise Interventions]], [[Attributional-Ambiguity|Attributional Ambiguity]]
 
 ---
 
@@ -554,35 +554,35 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Academic Buoyancy]]
+- [[Academic-Buoyancy|Academic Buoyancy]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attributional Ambiguity]]
+- [[Attributional-Ambiguity|Attributional Ambiguity]]
 - [[Carol-Dweck|Carol Dweck]]
-- [[Classroom Motivation]]
+- [[Classroom-Motivation|Classroom Motivation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Competency-Based Learning]]
+- [[Competency-Based-Learning|Competency-Based Learning]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
-- [[Evidence-Based Education]]
-- [[Expertise Acquisition]]
+- [[Evidence-Based-Education|Evidence-Based Education]]
+- [[Expertise-Acquisition|Expertise Acquisition]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Growth-Mindset|Growth Mindset]]
-- [[Identity-Based Motivation]]
+- [[Identity-Based-Motivation|Identity-Based Motivation]]
 - [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Meta-Science]]
 - [[Mindset-Interventions-in-Education|Mindset Interventions in Education]]
 - [[Motivational-Interviewing|Motivational Interviewing]]
-- [[Open Science Framework]]
+- [[Open-Science-Framework|Open Science Framework]]
 - [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Social-Psychological-Interventions-in-Education|Social-Psychological Interventions in Education]]
 - [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]]
 - [[Stereotype-Threat|Stereotype Threat]]
-- [[Wise Interventions]]
+- [[Wise-Interventions|Wise Interventions]]
 - [[Wise-Interventions-Walton-&-Wilson|Wise Interventions (Walton & Wilson)]]
 
 ### All Occurrences
@@ -614,23 +614,23 @@ extraction_summary:
 | 23 | [[Attribution-Theory|Attribution Theory]] | — | — | D. Expansion Topics | 568 |
 | 24 | [[Motivational-Interviewing|Motivational Interviewing]] | — | — | D. Expansion Topics | 568 |
 | 25 | [[Learned-Helplessness|Learned Helplessness]] | — | — | D. Expansion Topics | 568 |
-| 26 | [[Academic Buoyancy]] | — | — | D. Expansion Topics | 568 |
+| 26 | [[Academic-Buoyancy|Academic Buoyancy]] | — | — | D. Expansion Topics | 568 |
 | 27 | [[Deliberate-Practice|Deliberate Practice]] | — | — | D. Expansion Topics | 575 |
-| 28 | [[Expertise Acquisition]] | — | — | D. Expansion Topics | 575 |
+| 28 | [[Expertise-Acquisition|Expertise Acquisition]] | — | — | D. Expansion Topics | 575 |
 | 29 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 575 |
 | 30 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | D. Expansion Topics | 575 |
 | 31 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | D. Expansion Topics | 582 |
-| 32 | [[Classroom Motivation]] | — | — | D. Expansion Topics | 582 |
-| 33 | [[Competency-Based Learning]] | — | — | D. Expansion Topics | 582 |
+| 32 | [[Classroom-Motivation|Classroom Motivation]] | — | — | D. Expansion Topics | 582 |
+| 33 | [[Competency-Based-Learning|Competency-Based Learning]] | — | — | D. Expansion Topics | 582 |
 | 34 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | D. Expansion Topics | 582 |
 | 35 | [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] | — | — | D. Expansion Topics | 589 |
-| 36 | [[Open Science Framework]] | — | — | D. Expansion Topics | 589 |
+| 36 | [[Open-Science-Framework|Open Science Framework]] | — | — | D. Expansion Topics | 589 |
 | 37 | [[Meta-Science]] | — | — | D. Expansion Topics | 589 |
-| 38 | [[Evidence-Based Education]] | — | — | D. Expansion Topics | 589 |
+| 38 | [[Evidence-Based-Education|Evidence-Based Education]] | — | — | D. Expansion Topics | 589 |
 | 39 | [[Stereotype-Threat|Stereotype Threat]] | — | — | D. Expansion Topics | 596 |
-| 40 | [[Identity-Based Motivation]] | — | — | D. Expansion Topics | 596 |
-| 41 | [[Wise Interventions]] | — | — | D. Expansion Topics | 596 |
-| 42 | [[Attributional Ambiguity]] | — | — | D. Expansion Topics | 596 |
+| 40 | [[Identity-Based-Motivation|Identity-Based Motivation]] | — | — | D. Expansion Topics | 596 |
+| 41 | [[Wise-Interventions|Wise Interventions]] | — | — | D. Expansion Topics | 596 |
+| 42 | [[Attributional-Ambiguity|Attributional Ambiguity]] | — | — | D. Expansion Topics | 596 |
 
 ---
 
@@ -641,35 +641,35 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Academic Buoyancy]]
+- [[Academic-Buoyancy|Academic Buoyancy]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attributional Ambiguity]]
+- [[Attributional-Ambiguity|Attributional Ambiguity]]
 - [[Carol-Dweck|Carol Dweck]]
-- [[Classroom Motivation]]
+- [[Classroom-Motivation|Classroom Motivation]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Competency-Based Learning]]
+- [[Competency-Based-Learning|Competency-Based Learning]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
-- [[Evidence-Based Education]]
-- [[Expertise Acquisition]]
+- [[Evidence-Based-Education|Evidence-Based Education]]
+- [[Expertise-Acquisition|Expertise Acquisition]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Growth-Mindset|Growth Mindset]]
-- [[Identity-Based Motivation]]
+- [[Identity-Based-Motivation|Identity-Based Motivation]]
 - [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Meta-Science]]
 - [[Mindset-Interventions-in-Education|Mindset Interventions in Education]]
 - [[Motivational-Interviewing|Motivational Interviewing]]
-- [[Open Science Framework]]
+- [[Open-Science-Framework|Open Science Framework]]
 - [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Social-Psychological-Interventions-in-Education|Social-Psychological Interventions in Education]]
 - [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]]
 - [[Stereotype-Threat|Stereotype Threat]]
-- [[Wise Interventions]]
+- [[Wise-Interventions|Wise Interventions]]
 - [[Wise-Interventions-Walton-&-Wilson|Wise Interventions (Walton & Wilson)]]
 
 ### Frontmatter Relationships
@@ -691,7 +691,7 @@ extraction_summary:
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Grit and Perseverance]]
 - [[Stereotype-Threat|Stereotype Threat]]
-- [[Academic Buoyancy]]
+- [[Academic-Buoyancy|Academic Buoyancy]]
 - [[Self-Theories (Dweck)]]
 - [[Effort Praise]]
 - [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
@@ -705,7 +705,7 @@ extraction_summary:
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Grit and Perseverance]]
 - [[Stereotype-Threat|Stereotype Threat]]
-- [[Academic Buoyancy]]
+- [[Academic-Buoyancy|Academic Buoyancy]]
 - [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]
 
 #### Link Up

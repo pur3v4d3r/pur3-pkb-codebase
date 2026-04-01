@@ -198,7 +198,7 @@ extraction_summary:
 #### 13. [COUNTER-ARGUMENT] Untitled *(Line 141)*
 
 > [!counter-argument] Untitled
-> A significant critique of Dewey's framework, articulated by researchers including [[Jack Mezirow]] (1990) in his theory of [[Transformative Learning]], is that Dewey's account of inquiry focuses primarily on problem-solving within an established frame of reference, and does not adequately theorize the more radical form of reflection required when the frame itself is in question. Mezirow distinguishes between *technical* reflection (on the effectiveness of means), *practical* reflection (on the assumptions guiding practice), and *critical* reflection (on the premises and social conditions that generate those assumptions). Dewey's five-phase framework operates most naturally at the technical and practical levels; it does not provide equally explicit guidance for the kind of transformative reflection that challenges fundamental presuppositions. This critique has been taken up in the tradition of [[Critical Pedagogy]], associated with [[Paulo Freire]] and the [[Frankfurt School]], which insists that education must not only teach students to solve problems within the existing social order but to critically examine that order itself.
+> A significant critique of Dewey's framework, articulated by researchers including [[Jack Mezirow]] (1990) in his theory of [[Transformative-Learning|Transformative Learning]], is that Dewey's account of inquiry focuses primarily on problem-solving within an established frame of reference, and does not adequately theorize the more radical form of reflection required when the frame itself is in question. Mezirow distinguishes between *technical* reflection (on the effectiveness of means), *practical* reflection (on the assumptions guiding practice), and *critical* reflection (on the premises and social conditions that generate those assumptions). Dewey's five-phase framework operates most naturally at the technical and practical levels; it does not provide equally explicit guidance for the kind of transformative reflection that challenges fundamental presuppositions. This critique has been taken up in the tradition of [[Critical Pedagogy]], associated with [[Paulo Freire]] and the [[Frankfurt School]], which insists that education must not only teach students to solve problems within the existing social order but to critically examine that order itself.
 
 #### 14. [EXAMPLE] Untitled *(Line 152)*
 
@@ -219,7 +219,7 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > This convergence between Dewey's pragmatist epistemology and contemporary cognitive science creates productive links to your existing knowledge base:
-> — **[[Metacognition]]** and **[[Metacognitive Awareness Inventory|MAI]]** dimensions correspond directly to Dewey's three intellectual dispositions and to the self-monitoring that he sees as continuous with reflective inquiry.
+> — **[[Metacognition]]** and **[[Metacognitive-Awareness-Inventory|MAI]]** dimensions correspond directly to Dewey's three intellectual dispositions and to the self-monitoring that he sees as continuous with reflective inquiry.
 > — **[[Dual-Process-Theory|Dual Process Theory]]** provides the neural and cognitive mechanistic account of the distinction between habitual and reflective thinking that Dewey described philosophically.
 > — **[[Cognitive-Load-Theory|Cognitive Load Theory]]** illuminates the conditions under which the demands of reflective inquiry are likely to exceed working memory capacity, clarifying practical design constraints for inquiry-based instruction.
 > — **[[Donald-Schön|Donald Schön]]'s Reflective Practice** framework extends Dewey's theory into professional and applied contexts with a more explicit account of reflection-in-action.
@@ -239,7 +239,7 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > **PKB Integration — Key Connections to Your Knowledge Base:**
-> — **[[Metacognition]]** and the [[Metacognitive Awareness Inventory|MAI]]'s eight subdimensions are the contemporary operationalization of Dewey's intellectual dispositions and his account of the self-regulatory dimension of reflective inquiry.
+> — **[[Metacognition]]** and the [[Metacognitive-Awareness-Inventory|MAI]]'s eight subdimensions are the contemporary operationalization of Dewey's intellectual dispositions and his account of the self-regulatory dimension of reflective inquiry.
 > — **[[Dual-Process-Theory|Dual Process Theory]]** provides the cognitive-psychological architecture underlying the distinction between habitual action (System 1) and reflective inquiry (System 2) that Dewey described philosophically.
 > — **[[William-James|William James]] — Habit Theory** and **[[Principles of Psychology (1890)]]** (your current reading primer) — James's analysis of habit as the default cognitive mode provides the psychological counterpart to Dewey's philosophical account of why reflective thinking requires effort and cultivation.
 > — **[[Critical-Thinking|Critical Thinking]] — Domain Specificity** and the **infusion approach** you have identified as superior to general training methods are directly grounded in Dewey's argument that genuine reflection arises from real problems encountered in domain-specific experience.
@@ -354,7 +354,7 @@ extraction_summary:
 - [[Discussion Forums]]
 - [[Donald-Schön|Donald Schön]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic Curiosity]]
+- [[epistemic-curiosity|Epistemic Curiosity]]
 - [[Epistemic Curiosity — Psychology of Inquiry Motivation]]
 - [[Epistemic-Humility|Epistemic Humility]]
 - [[Epistemic Understanding]]
@@ -381,20 +381,20 @@ extraction_summary:
 - [[Keith-Stanovich|Keith Stanovich]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory]]
-- [[Michael Merzenich]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
+- [[Michael-Merzenich|Michael Merzenich]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Neuroplasticity]]
 - [[Paul Feyerabend]]
 - [[Paulo Freire]]
 - [[Peer Instruction]]
 - [[Plato]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatist Philosophy]]
 - [[Principles of Psychology (1890)]]
 - [[Problem-Based Learning]]
 - [[Process of Inquiry]]
-- [[Progressive Education]]
+- [[progressive-education|Progressive Education]]
 - [[Project-Based Curricula]]
 - [[Project-Based Learning]]
 - [[Reflective Journals]]
@@ -408,7 +408,7 @@ extraction_summary:
 - [[Synaptic Plasticity]]
 - [[The Eight-Year Study (1933-1941)]]
 - [[Theodor Adorno]]
-- [[Transformative Learning]]
+- [[Transformative-Learning|Transformative Learning]]
 - [[Transformative Learning Theory — Mezirow]]
 - [[University of Chicago Laboratory School]]
 - [[William-James|William James]]
@@ -434,7 +434,7 @@ extraction_summary:
 | 9 | [[Educational-Psychology|educational psychology]] | — | — | Document Start | 10 |
 | 10 | [[Rote Learning]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 22 |
 | 11 | [[Herbartian Method]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 22 |
-| 12 | [[Progressive Education]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 22 |
+| 12 | [[progressive-education|Progressive Education]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 22 |
 | 13 | [[Plato]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 14 | [[Descartes]] | — | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
 | 15 | [[American-pragmatism|American Pragmatism]] | pragmatist | — | 🌅 Phase 1: Overture — Why Dewey's Ref... | 24 |
@@ -444,7 +444,7 @@ extraction_summary:
 | 19 | [[Pragmatist Philosophy]] | pragmatist epistemology | — | The Pragmatist Epistemological Context | 32 |
 | 20 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 21 | [[William-James|William James]] | — | — | The Pragmatist Epistemological Context | 32 |
-| 22 | [[Pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
+| 22 | [[pragmatism]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 23 | [[Democratic Learning Community]] | — | — | The Pragmatist Epistemological Context | 32 |
 | 24 | [[University of Chicago Laboratory School]] | — | — | The Pragmatist Epistemological Context | 34 |
 | 25 | [[Critical-Thinking|critical thinking]] | — | — | The Two Editions and Their Significance | 38 |
@@ -472,7 +472,7 @@ extraction_summary:
 | 47 | [[Epistemic Understanding]] | — | — | Empirical Validation and Research Ext... | 137 |
 | 48 | [[Donald-Schön|Donald Schön]] | — | — | Empirical Validation and Research Ext... | 139 |
 | 49 | [[Jack Mezirow]] | — | — | Empirical Validation and Research Ext... | 142 |
-| 50 | [[Transformative Learning]] | — | — | Empirical Validation and Research Ext... | 142 |
+| 50 | [[Transformative-Learning|Transformative Learning]] | — | — | Empirical Validation and Research Ext... | 142 |
 | 51 | [[Critical Pedagogy]] | — | — | Empirical Validation and Research Ext... | 142 |
 | 52 | [[Paulo Freire]] | — | — | Empirical Validation and Research Ext... | 142 |
 | 53 | [[Frankfurt School]] | — | — | Empirical Validation and Research Ext... | 142 |
@@ -485,7 +485,7 @@ extraction_summary:
 | 60 | [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars]] | — | — | Fostering Genuine Inquiry: The Role o... | 166 |
 | 61 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Curiosity as the Motivational Engine | 172 |
 | 62 | [[Intellectual Interest]] | — | — | Curiosity as the Motivational Engine | 172 |
-| 63 | [[Epistemic Curiosity]] | — | — | Curiosity as the Motivational Engine | 172 |
+| 63 | [[epistemic-curiosity|Epistemic Curiosity]] | — | — | Curiosity as the Motivational Engine | 172 |
 | 64 | [[Collaborative Learning]] | — | — | Collaborative Learning and the Social... | 181 |
 | 65 | [[Peer Instruction]] | — | — | Collaborative Learning and the Social... | 181 |
 | 66 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Integration with Contemporary Cogniti... | 189 |
@@ -493,7 +493,7 @@ extraction_summary:
 | 68 | [[Keith-Stanovich|Keith Stanovich]] | — | — | Integration with Contemporary Cogniti... | 189 |
 | 69 | [[Richard-West|Richard West]] | — | — | Integration with Contemporary Cogniti... | 189 |
 | 70 | [[Metacognition]] | — | — | Integration with Contemporary Cogniti... | 193 |
-| 71 | [[Metacognitive Awareness Inventory]] | MAI | — | Integration with Contemporary Cogniti... | 193 |
+| 71 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | MAI | — | Integration with Contemporary Cogniti... | 193 |
 | 72 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Integration with Contemporary Cogniti... | 194 |
 | 73 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Integration with Contemporary Cogniti... | 195 |
 | 74 | [[Donald-Schön|Donald Schön]] | — | — | Integration with Contemporary Cogniti... | 196 |
@@ -501,7 +501,7 @@ extraction_summary:
 | 76 | [[Neuroplasticity]] | — | — | Integration with Contemporary Cogniti... | 199 |
 | 77 | [[Experiential Learning]] | — | — | Integration with Contemporary Cogniti... | 199 |
 | 78 | [[Synaptic Plasticity]] | — | — | Integration with Contemporary Cogniti... | 199 |
-| 79 | [[Michael Merzenich]] | — | — | Integration with Contemporary Cogniti... | 199 |
+| 79 | [[Michael-Merzenich|Michael Merzenich]] | — | — | Integration with Contemporary Cogniti... | 199 |
 | 80 | [[Eric Kandel]] | — | — | Integration with Contemporary Cogniti... | 199 |
 | 81 | [[Discussion Forums]] | — | — | Digital Environments and Technology-E... | 203 |
 | 82 | [[Digital Journaling]] | — | — | Digital Environments and Technology-E... | 203 |
@@ -515,7 +515,7 @@ extraction_summary:
 | 90 | [[Paulo Freire]] | — | — | The Frankfurt School, Critical Pedago... | 210 |
 | 91 | [[Henry Giroux]] | — | — | The Frankfurt School, Critical Pedago... | 210 |
 | 92 | [[Metacognition]] | — | — | For Your Personal Intellectual Develo... | 231 |
-| 93 | [[Metacognitive Awareness Inventory]] | MAI | — | For Your Personal Intellectual Develo... | 231 |
+| 93 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | MAI | — | For Your Personal Intellectual Develo... | 231 |
 | 94 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | For Your Personal Intellectual Develo... | 232 |
 | 95 | [[William-James|William James]] | — | — | For Your Personal Intellectual Develo... | 233 |
 | 96 | [[Principles of Psychology (1890)]] | — | — | For Your Personal Intellectual Develo... | 233 |
@@ -577,7 +577,7 @@ extraction_summary:
 - [[Discussion Forums]]
 - [[Donald-Schön|Donald Schön]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic Curiosity]]
+- [[epistemic-curiosity|Epistemic Curiosity]]
 - [[Epistemic Curiosity — Psychology of Inquiry Motivation]]
 - [[Epistemic-Humility|Epistemic Humility]]
 - [[Epistemic Understanding]]
@@ -604,20 +604,20 @@ extraction_summary:
 - [[Keith-Stanovich|Keith Stanovich]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory]]
-- [[Michael Merzenich]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
+- [[Michael-Merzenich|Michael Merzenich]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Neuroplasticity]]
 - [[Paul Feyerabend]]
 - [[Paulo Freire]]
 - [[Peer Instruction]]
 - [[Plato]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Pragmatist Philosophy]]
 - [[Principles of Psychology (1890)]]
 - [[Problem-Based Learning]]
 - [[Process of Inquiry]]
-- [[Progressive Education]]
+- [[progressive-education|Progressive Education]]
 - [[Project-Based Curricula]]
 - [[Project-Based Learning]]
 - [[Reflective Journals]]
@@ -631,7 +631,7 @@ extraction_summary:
 - [[Synaptic Plasticity]]
 - [[The Eight-Year Study (1933-1941)]]
 - [[Theodor Adorno]]
-- [[Transformative Learning]]
+- [[Transformative-Learning|Transformative Learning]]
 - [[Transformative Learning Theory — Mezirow]]
 - [[University of Chicago Laboratory School]]
 - [[William-James|William James]]

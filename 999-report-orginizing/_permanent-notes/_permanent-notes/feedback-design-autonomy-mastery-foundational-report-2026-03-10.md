@@ -23,21 +23,20 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 19
+referenced-by-count: 18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Attribution-Retraining]]"
   - "[[Autonomy]]"
   - "[[Autonomy-Support]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Entity-Theory]]"
   - "[[Feed-Forward]]"
   - "[[Formative-Assessment]]"
+  - "[[Formative-Feedback]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # feedback-design-autonomy-mastery-foundational-report-2026-03-10
 
 > [!definition] **feedback-design-autonomy-mastery-foundational-report-2026-03-10**
-> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 19 permanent notes.*
+*Auto-generated stub — referenced by 18 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Attribution-Retraining]]
 - [[Autonomy]]
 - [[Autonomy-Support]]

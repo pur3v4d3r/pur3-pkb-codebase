@@ -313,7 +313,7 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
 def build_body(candidate: NoteCandidate) -> str:
     """Build the markdown body for a permanent note.
 
-    Structure (v2.1):
+    Structure (v2.2):
       # Title
       > [!definition] ...
       ## Core Explanation (evidence + insights)
@@ -322,12 +322,26 @@ def build_body(candidate: NoteCandidate) -> str:
       ## Conceptual Tensions (tensions)
       ## Open Questions (open questions)
       ## Reflection Prompts (reflections)
+      ## Schema Activations (schema-activation)
+      ## Active Reading Prompts (active-reading)
+      ## Far Transfer Applications (far-transfer)
+      ## Debates (debate)
+      ## Examples (example)
+      ## AI Insights (claude-insight)
+      ## Section Summaries (section-summary)
       ## Spaced Repetition Seeds (flashcards)
       ## Protocols & Methods (protocols)
+      ## Visual Representations (diagrams)
       ## Connections & Context (connections + wiki-links)
+      ## References & Citations (citations)
+      ## Methodology Notes (methodology)
       ## Source Attribution (report metadata)
+
+    Every callout includes a source link back to the originating report.
     """
     lines = []
+    source_report_name = candidate.source_report.replace('.md', '') if candidate.source_report else ""
+    source_tag = f" *(from [[{source_report_name}]])*" if source_report_name else ""
 
     # ── Title ─────────────────────────────────────────────────────────────
     clean_name = _clean_concept_name(candidate.concept_name)
@@ -335,7 +349,7 @@ def build_body(candidate: NoteCandidate) -> str:
     lines.append('')
 
     # ── Definition callout ────────────────────────────────────────────────
-    lines.append(f'> [!definition] **{clean_name}**')
+    lines.append(f'> [!definition] **{clean_name}**{source_tag}')
     for body_line in candidate.definition_body.split('\n'):
         lines.append(f'> {body_line}')
     lines.append('')
@@ -351,14 +365,14 @@ def build_body(candidate: NoteCandidate) -> str:
 
     if candidate.evidence:
         for ev in candidate.evidence:
-            lines.append('> [!evidence] Supporting Evidence')
+            lines.append(f'> [!evidence] Supporting Evidence{source_tag}')
             for ev_line in _wrap_callout_body(ev):
                 lines.append(f'> {ev_line}')
             lines.append('')
 
     if candidate.insights:
         for insight in candidate.insights:
-            lines.append('> [!analytical-insight] Key Insight')
+            lines.append(f'> [!analytical-insight] Key Insight{source_tag}')
             for i_line in _wrap_callout_body(insight):
                 lines.append(f'> {i_line}')
             lines.append('')
@@ -373,7 +387,7 @@ def build_body(candidate: NoteCandidate) -> str:
 
     if candidate.practices:
         for practice in candidate.practices:
-            lines.append('> [!example] **Application**')
+            lines.append(f'> [!example] **Application**{source_tag}')
             for p_line in _wrap_callout_body(practice):
                 lines.append(f'> {p_line}')
             lines.append('')
@@ -384,7 +398,7 @@ def build_body(candidate: NoteCandidate) -> str:
 
     if candidate.warnings:
         for warning in candidate.warnings:
-            lines.append('> [!warning] **Key Distinction**')
+            lines.append(f'> [!warning] **Key Distinction**{source_tag}')
             for w_line in _wrap_callout_body(warning):
                 lines.append(f'> {w_line}')
             lines.append('')
@@ -397,9 +411,9 @@ def build_body(candidate: NoteCandidate) -> str:
             title = person.get("title", "")
             body = person.get("body", "")
             if title:
-                lines.append(f'> [!person] **{title}**')
+                lines.append(f'> [!person] **{title}**{source_tag}')
             else:
-                lines.append('> [!person] **Key Figure**')
+                lines.append(f'> [!person] **Key Figure**{source_tag}')
             for p_line in _wrap_callout_body(body, max_length=600):
                 lines.append(f'> {p_line}')
             lines.append('')
@@ -412,9 +426,9 @@ def build_body(candidate: NoteCandidate) -> str:
             title = tension.get("title", "")
             body = tension.get("body", "")
             if title:
-                lines.append(f'> [!tension] **{title}**')
+                lines.append(f'> [!tension] **{title}**{source_tag}')
             else:
-                lines.append('> [!tension] **Unresolved Tension**')
+                lines.append(f'> [!tension] **Unresolved Tension**{source_tag}')
             for t_line in _wrap_callout_body(body, max_length=600):
                 lines.append(f'> {t_line}')
             lines.append('')
@@ -427,9 +441,9 @@ def build_body(candidate: NoteCandidate) -> str:
             title = oq.get("title", "")
             body = oq.get("body", "")
             if title:
-                lines.append(f'> [!open-question] **{title}**')
+                lines.append(f'> [!open-question] **{title}**{source_tag}')
             else:
-                lines.append('> [!open-question]')
+                lines.append(f'> [!open-question]{source_tag}')
             for q_line in _wrap_callout_body(body, max_length=400):
                 lines.append(f'> {q_line}')
             lines.append('')
@@ -439,9 +453,114 @@ def build_body(candidate: NoteCandidate) -> str:
         lines.append('## Reflection Prompts')
         lines.append('')
         for reflection in candidate.reflections:
-            lines.append('> [!reflection] **Reflect**')
+            lines.append(f'> [!reflection] **Reflect**{source_tag}')
             for r_line in _wrap_callout_body(reflection):
                 lines.append(f'> {r_line}')
+            lines.append('')
+
+    # ── Schema Activations (v2.2) ─────────────────────────────────────────
+    if candidate.schema_activations:
+        lines.append('## Schema Activations')
+        lines.append('')
+        for sa in candidate.schema_activations:
+            title = sa.get("title", "")
+            body = sa.get("body", "")
+            if title:
+                lines.append(f'> [!schema-activation] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!schema-activation]{source_tag}')
+            for s_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {s_line}')
+            lines.append('')
+
+    # ── Active Reading Prompts (v2.2) ─────────────────────────────────────
+    if candidate.active_readings:
+        lines.append('## Active Reading Prompts')
+        lines.append('')
+        for ar in candidate.active_readings:
+            title = ar.get("title", "")
+            body = ar.get("body", "")
+            if title:
+                lines.append(f'> [!active-reading] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!active-reading]{source_tag}')
+            for a_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {a_line}')
+            lines.append('')
+
+    # ── Far Transfer Applications (v2.2) ──────────────────────────────────
+    if candidate.far_transfers:
+        lines.append('## Far Transfer Applications')
+        lines.append('')
+        for ft in candidate.far_transfers:
+            title = ft.get("title", "")
+            body = ft.get("body", "")
+            if title:
+                lines.append(f'> [!far-transfer] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!far-transfer]{source_tag}')
+            for f_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {f_line}')
+            lines.append('')
+
+    # ── Debates (v2.2) ────────────────────────────────────────────────────
+    if candidate.debates:
+        lines.append('## Debates')
+        lines.append('')
+        for debate in candidate.debates:
+            title = debate.get("title", "")
+            body = debate.get("body", "")
+            if title:
+                lines.append(f'> [!debate] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!debate]{source_tag}')
+            for d_line in _wrap_callout_body(body, max_length=800):
+                lines.append(f'> {d_line}')
+            lines.append('')
+
+    # ── Examples (v2.2) ───────────────────────────────────────────────────
+    if candidate.examples:
+        lines.append('## Concrete Examples')
+        lines.append('')
+        for ex in candidate.examples:
+            title = ex.get("title", "")
+            body = ex.get("body", "")
+            if title:
+                lines.append(f'> [!example] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!example]{source_tag}')
+            for e_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {e_line}')
+            lines.append('')
+
+    # ── AI Insights (v2.2) ────────────────────────────────────────────────
+    if candidate.claude_insights:
+        lines.append('## AI Insights')
+        lines.append('')
+        for ci in candidate.claude_insights:
+            title = ci.get("title", "")
+            body = ci.get("body", "")
+            if title:
+                lines.append(f'> [!claude-insight] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!claude-insight]{source_tag}')
+            for c_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {c_line}')
+            lines.append('')
+
+    # ── Section Summaries (v2.2) ──────────────────────────────────────────
+    if candidate.section_summaries:
+        lines.append('## Section Summaries')
+        lines.append('')
+        for ss in candidate.section_summaries:
+            title = ss.get("title", "")
+            body = ss.get("body", "")
+            if title:
+                lines.append(f'> [!section-summary] **{title}**{source_tag}')
+            else:
+                lines.append(f'> [!section-summary]{source_tag}')
+            for s_line in _wrap_callout_body(body, max_length=600):
+                lines.append(f'> {s_line}')
             lines.append('')
 
     # ── Spaced Repetition Seeds ───────────────────────────────────────────
@@ -451,7 +570,7 @@ def build_body(candidate: NoteCandidate) -> str:
         for i, card in enumerate(candidate.flashcards, 1):
             q = card.get("question", card.get("title", ""))
             a = card.get("answer", card.get("body", ""))
-            lines.append(f'> [!flashcard] **Card {i}**')
+            lines.append(f'> [!flashcard] **Card {i}**{source_tag}')
             lines.append(f'> **Q:** {q}')
             lines.append(f'> **A:** {a}')
             if card.get("difficulty"):
@@ -466,9 +585,9 @@ def build_body(candidate: NoteCandidate) -> str:
             title = protocol.get("title", "")
             body = protocol.get("body", "")
             if title:
-                lines.append(f'> [!protocol] **{title}**')
+                lines.append(f'> [!protocol] **{title}**{source_tag}')
             else:
-                lines.append('> [!protocol] **Method**')
+                lines.append(f'> [!protocol] **Method**{source_tag}')
             for pr_line in _wrap_callout_body(body, max_length=800):
                 lines.append(f'> {pr_line}')
             lines.append('')
@@ -481,9 +600,9 @@ def build_body(candidate: NoteCandidate) -> str:
             title = diagram.get("title", "")
             body = diagram.get("body", "")
             if title:
-                lines.append(f'> [!diagram] **{title}**')
+                lines.append(f'> [!diagram] **{title}**{source_tag}')
             else:
-                lines.append('> [!diagram]')
+                lines.append(f'> [!diagram]{source_tag}')
             for d_line in body.split('\n'):
                 lines.append(f'> {d_line}')
             lines.append('')
@@ -496,7 +615,7 @@ def build_body(candidate: NoteCandidate) -> str:
         for conn in candidate.connections:
             conn_links = re.findall(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]', conn)
             if conn_links:
-                lines.append('**Cross-report connections:**')
+                lines.append(f'**Cross-report connections**{source_tag}:')
                 for cl in conn_links[:10]:
                     lines.append(f'- {_pipe_link(cl)}')
                 lines.append('')
@@ -523,6 +642,8 @@ def build_body(candidate: NoteCandidate) -> str:
                 lines.append(f'- **{title}**: {body}')
             else:
                 lines.append(f'- {body}')
+        if source_report_name:
+            lines.append(f'\n*Citations sourced from [[{source_report_name}]]*')
         lines.append('')
 
     # ── Methodology Notes ─────────────────────────────────────────────────
@@ -533,9 +654,9 @@ def build_body(candidate: NoteCandidate) -> str:
             title = meth.get("title", "")
             body = meth.get("body", "")
             if title:
-                lines.append(f'> [!methodology-and-sources] **{title}**')
+                lines.append(f'> [!methodology-and-sources] **{title}**{source_tag}')
             else:
-                lines.append('> [!methodology-and-sources]')
+                lines.append(f'> [!methodology-and-sources]{source_tag}')
             for m_line in _wrap_callout_body(body, max_length=600):
                 lines.append(f'> {m_line}')
             lines.append('')

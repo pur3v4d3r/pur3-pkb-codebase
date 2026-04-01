@@ -390,14 +390,14 @@ extraction_summary:
 > [!connection-ideas] 🔗 Expansion Topic 2: [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
 > Carol Dweck's research reveals that implicit theories about the fixed or malleable nature of intelligence systematically predict the adoption or avoidance of the fallibilist-constructivist posture essential to self-directed development. The growth mindset is the motivational belief architecture that makes recursive self-authorship sustainable when difficulties arise. Priority: **High**.
 
-#### 55. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: [[Transfer of Learning and Near vs. Far Transfer]] *(Line 459)*
+#### 55. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]] *(Line 459)*
 
-> [!connection-ideas] 🔗 Expansion Topic 3: [[Transfer of Learning and Near vs. Far Transfer]]
+> [!connection-ideas] 🔗 Expansion Topic 3: [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]]
 > The most important and least understood outcome of self-directed learning is *transfer* — the application of knowledge and regulatory strategies to genuinely novel domains. Understanding the conditions under which SRL competencies transfer across domains would significantly extend and constrain this report's claims about the value of internalized regulatory capacity. Priority: **High**.
 
-#### 56. [CONNECTION-IDEAS] 🔗 Expansion Topic 4: [[Personal Knowledge Management Systems and Spaced Repetition]] *(Line 462)*
+#### 56. [CONNECTION-IDEAS] 🔗 Expansion Topic 4: [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]] *(Line 462)*
 
-> [!connection-ideas] 🔗 Expansion Topic 4: [[Personal Knowledge Management Systems and Spaced Repetition]]
+> [!connection-ideas] 🔗 Expansion Topic 4: [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]]
 > The practical infrastructure for implementing a personal learning architecture — methods like [[Zettelkasten]], spaced repetition systems (Anki), interleaved practice, and the practice of writing to think — are the concrete operationalizations of the SRL framework in adult self-directed learning contexts. Priority: **Medium**.
 
 #### 57. [CONNECTION-IDEAS] 🔗 Expansion Topic 5: [[Scaffolded Fading and Gradual Release of Responsibility]] *(Line 465)*
@@ -436,12 +436,12 @@ extraction_summary:
 - [[John-Flavell|John Flavell]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Lovett-et-al.|Lovett et al.]]
-- [[Metacognition Awareness Inventory]]
+- [[Metacognition-Awareness-Inventory|Metacognition Awareness Inventory]]
 - [[Metacognitive-Strategy|Metacognitive Strategy]]
-- [[Metacognitive strategies]]
+- [[Metacognitive-strategies|Metacognitive strategies]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Paul-Pintrich|Paul Pintrich]]
-- [[Personal Knowledge Management Systems and Spaced Repetition]]
+- [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]]
 - [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[SDT-Internalization-Continuum|SDT Internalization Continuum]]
@@ -449,7 +449,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Transfer of Learning and Near vs. Far Transfer]]
+- [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]]
 - [[Winne-and-Hadwin|Winne and Hadwin]]
 - [[Zettelkasten]]
 - [[Zimmerman]]
@@ -490,18 +490,18 @@ extraction_summary:
 | 29 | [[Edward-Deci|Edward Deci]] | — | — | SDT's Internalization Continuum: How ... | 232 |
 | 30 | [[Richard-Ryan|Richard Ryan]] | — | — | SDT's Internalization Continuum: How ... | 232 |
 | 31 | [[Gregory-Schraw|Gregory Schraw]] | — | — | Metacognitive Strategy Research: What... | 236 |
-| 32 | [[Metacognition Awareness Inventory]] | — | — | Metacognitive Strategy Research: What... | 241 |
+| 32 | [[Metacognition-Awareness-Inventory|Metacognition Awareness Inventory]] | — | — | Metacognitive Strategy Research: What... | 241 |
 | 33 | [[Zimmerman]] | — | — | The Master Structural Homology: Two D... | 255 |
 | 34 | [[Deci-and-Ryan|Deci and Ryan]] | — | — | The Master Structural Homology: Two D... | 255 |
 | 35 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | Report 01's | — | The Master Structural Homology: Two D... | 262 |
-| 36 | [[Metacognitive strategies]] | — | — | Metacognitive Strategies as the Opera... | 284 |
+| 36 | [[Metacognitive-strategies|Metacognitive strategies]] | — | — | Metacognitive Strategies as the Opera... | 284 |
 | 37 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 300 |
 | 38 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | competence problem | — | Worked Example: The Autodidact at the... | 313 |
 | 39 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 355 |
 | 40 | [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]] | — | — | Expansion Topics for PKB Development | 453 |
 | 41 | [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] | — | — | Expansion Topics for PKB Development | 456 |
-| 42 | [[Transfer of Learning and Near vs. Far Transfer]] | — | — | Expansion Topics for PKB Development | 459 |
-| 43 | [[Personal Knowledge Management Systems and Spaced Repetition]] | — | — | Expansion Topics for PKB Development | 462 |
+| 42 | [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]] | — | — | Expansion Topics for PKB Development | 459 |
+| 43 | [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]] | — | — | Expansion Topics for PKB Development | 462 |
 | 44 | [[Zettelkasten]] | — | — | Expansion Topics for PKB Development | 463 |
 | 45 | [[Scaffolded Fading and Gradual Release of Responsibility]] | — | — | Expansion Topics for PKB Development | 465 |
 | 46 | [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive Teaching and Learning Environments]] | — | — | Expansion Topics for PKB Development | 468 |
@@ -541,12 +541,12 @@ extraction_summary:
 - [[John-Flavell|John Flavell]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Lovett-et-al.|Lovett et al.]]
-- [[Metacognition Awareness Inventory]]
+- [[Metacognition-Awareness-Inventory|Metacognition Awareness Inventory]]
 - [[Metacognitive-Strategy|Metacognitive Strategy]]
-- [[Metacognitive strategies]]
+- [[Metacognitive-strategies|Metacognitive strategies]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Paul-Pintrich|Paul Pintrich]]
-- [[Personal Knowledge Management Systems and Spaced Repetition]]
+- [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]]
 - [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[SDT-Internalization-Continuum|SDT Internalization Continuum]]
@@ -554,7 +554,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Transfer of Learning and Near vs. Far Transfer]]
+- [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]]
 - [[Winne-and-Hadwin|Winne and Hadwin]]
 - [[Zettelkasten]]
 - [[Zimmerman]]

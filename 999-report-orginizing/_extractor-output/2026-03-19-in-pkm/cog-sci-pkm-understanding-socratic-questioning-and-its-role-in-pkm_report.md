@@ -286,7 +286,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **PKB Integration Connections:**
 > 
-> This exposition connects across the knowledge vault to [[Metacognitive Awareness Inventory]] (the primary measurement instrument for tracking the PKM effects of Socratic practice), [[Dual-Process-Theory|Dual Process Theory]] (the cognitive science foundation for why Socratic questions enforce System 2 engagement), [[Habit-Formation|Habit Formation]] (the master variable governing whether Socratic questioning becomes embedded behavioral practice or remains an aspirational framework), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the design science governing how much interrogative friction is productive versus overwhelming), [[Zettelkasten]] (the PKM architecture most philosophically aligned with Socratic knowledge construction), [[Elaborative-Interrogation|Elaborative Interrogation]] (the specific cognitive strategy — asking "why?" and "how?" about facts — that the empirical literature most consistently links to deep learning), [[John-Dewey|Deweyan Reflective Thinking]] (the pragmatist philosophical grounding), and [[Extended-Thinking-Architecture|Extended Thinking Architecture]] (the prompt engineering framework within which AI-mediated Socratic questioning for PKM can be implemented).
+> This exposition connects across the knowledge vault to [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] (the primary measurement instrument for tracking the PKM effects of Socratic practice), [[Dual-Process-Theory|Dual Process Theory]] (the cognitive science foundation for why Socratic questions enforce System 2 engagement), [[Habit-Formation|Habit Formation]] (the master variable governing whether Socratic questioning becomes embedded behavioral practice or remains an aspirational framework), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the design science governing how much interrogative friction is productive versus overwhelming), [[Zettelkasten]] (the PKM architecture most philosophically aligned with Socratic knowledge construction), [[Elaborative-Interrogation|Elaborative Interrogation]] (the specific cognitive strategy — asking "why?" and "how?" about facts — that the empirical literature most consistently links to deep learning), [[John-Dewey|Deweyan Reflective Thinking]] (the pragmatist philosophical grounding), and [[Extended-Thinking-Architecture|Extended Thinking Architecture]] (the prompt engineering framework within which AI-mediated Socratic questioning for PKM can be implemented).
 
 #### 27. [FURTHER-EXPLORATION] Untitled *(Line 274)*
 
@@ -299,7 +299,7 @@ extraction_summary:
 > 
 > > [!topic-idea]
 > > **[[AI-Mediated Socratic Questioning]] — LLMs as Epistemic Interlocutors**
-> > An examination of how large language models can serve as Socratic interlocutors for PKM practitioners — reviewing notes, generating targeted questions, identifying assumptions, and modeling the blind-spot-correcting function that external questioners provide. Connects to [[Extended-Thinking-Architecture|Extended Thinking Architecture]] and the [[Chain of Verification]] pattern for self-correction.
+> > An examination of how large language models can serve as Socratic interlocutors for PKM practitioners — reviewing notes, generating targeted questions, identifying assumptions, and modeling the blind-spot-correcting function that external questioners provide. Connects to [[Extended-Thinking-Architecture|Extended Thinking Architecture]] and the [[Chain-of-Verification|Chain of Verification]] pattern for self-correction.
 > 
 > > [!topic-idea]
 > > **[[Epistemic Depth Metrics]] — Measuring Knowledge Quality in the Knowledge Graph**
@@ -388,7 +388,7 @@ extraction_summary:
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Boghossian (2012)]]
 - [[Building a Second Brain]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Christopher Langdell]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Bias|Cognitive Bias]]
@@ -435,7 +435,7 @@ extraction_summary:
 - [[Maieutics]]
 - [[Metacognition]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Mintz (2006)]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
@@ -519,7 +519,7 @@ extraction_summary:
 | 42 | [[Anderson and Krathwohl]] | — | — | Parallel Intellectual Currents: Dewey... | 63 |
 | 43 | [[Metacognition]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
 | 44 | [[John-Flavell|John Flavell]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
-| 45 | [[Metacognitive Awareness Inventory]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
+| 45 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | Parallel Intellectual Currents: Dewey... | 65 |
 | 46 | [[Pseudo-Understanding]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 76 |
 | 47 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 82 |
 | 48 | [[Knowledge Synthesis]] | — | — | The Six-Type Taxonomy: A Cognitive Ar... | 85 |
@@ -568,7 +568,7 @@ extraction_summary:
 | 91 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Quantitative Models of Questioning Ef... | 246 |
 | 92 | [[Elaborative Encoding]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
 | 93 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
-| 94 | [[Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
+| 94 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 95 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 96 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 97 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
@@ -580,7 +580,7 @@ extraction_summary:
 | 103 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 279 |
 | 104 | [[AI-Mediated Socratic Questioning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 282 |
 | 105 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 283 |
-| 106 | [[Chain of Verification]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 283 |
+| 106 | [[Chain-of-Verification|Chain of Verification]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 283 |
 | 107 | [[Epistemic Depth Metrics]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 286 |
 | 108 | [[Dataview]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 287 |
 | 109 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 287 |
@@ -696,7 +696,7 @@ $$
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Boghossian (2012)]]
 - [[Building a Second Brain]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Christopher Langdell]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Bias|Cognitive Bias]]
@@ -743,7 +743,7 @@ $$
 - [[Maieutics]]
 - [[Metacognition]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Mintz (2006)]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]

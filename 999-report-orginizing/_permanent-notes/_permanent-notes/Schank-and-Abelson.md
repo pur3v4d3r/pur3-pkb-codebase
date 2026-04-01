@@ -23,47 +23,64 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 6
+referenced-by-count: 19
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Accommodation]]"
   - "[[Accretion,-Tuning,-Restructuring]]"
+  - "[[Conceptual-Change]]"
+  - "[[Construction-Problem]]"
+  - "[[Cultural-Neutrality-Assumption]]"
+  - "[[Embodied-Cognition]]"
   - "[[Equilibration]]"
+  - "[[Expert-Blind-Spot]]"
+  - "[[Frederic-Bartlett]]"
   - "[[Reconstructive-Memory]]"
-  - "[[Slot-Default-Value]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
 # Schank-and-Abelson
 
 > [!definition] **Schank-and-Abelson**
-> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 6 permanent notes.*
+*Auto-generated stub — referenced by 19 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Accommodation]]
 - [[Accretion,-Tuning,-Restructuring]]
+- [[Conceptual-Change]]
+- [[Construction-Problem]]
+- [[Cultural-Neutrality-Assumption]]
+- [[Embodied-Cognition]]
 - [[Equilibration]]
+- [[Expert-Blind-Spot]]
+- [[Frederic-Bartlett]]
 - [[Reconstructive-Memory]]
+- [[Schema-Attractor]]
+- [[Schemas-as-Soft-Cognitive-Attractors]]
+- [[Situated-Cognition]]
 - [[Slot-Default-Value]]
+- [[The-Critical-Lens]]
+- [[The-Empirical-Lens]]
+- [[The-Philosophical-Lens]]
+- [[The-Practical-Lens]]
+- [[The-Schema-Disruption-Pedagogical-Inversion]]

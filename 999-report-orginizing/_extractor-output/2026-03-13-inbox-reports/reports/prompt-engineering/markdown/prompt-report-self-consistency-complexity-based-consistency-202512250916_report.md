@@ -489,7 +489,7 @@ extraction_summary:
 - [[Agentic AI]]
 - [[Automated Theorem Proving]]
 - [[BIG-Bench]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Beam Search]]
 - [[Brown et al. (2023)]]
 - [[Calibrated Confidence Estimation]]
@@ -504,7 +504,7 @@ extraction_summary:
 - [[Confidence Calibration]]
 - [[Early Stopping]]
 - [[Early Stopping for Self-Consistency]]
-- [[Ensemble Learning]]
+- [[Ensemble-Learning|Ensemble Learning]]
 - [[Ensemble-Methods|Ensemble Methods]]
 - [[Ensemble Prompting]]
 - [[Error Detection]]
@@ -573,8 +573,8 @@ extraction_summary:
 | 6 | [[Cognitive Diversity]] | — | — | Foundational Understanding | 116 |
 | 7 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 118 |
 | 8 | [[Temperature Sampling]] | — | — | Foundational Understanding | 118 |
-| 9 | [[Ensemble Learning]] | — | — | Foundational Understanding | 119 |
-| 10 | [[Bayesian Reasoning]] | — | — | Foundational Understanding | 119 |
+| 9 | [[Ensemble-Learning|Ensemble Learning]] | — | — | Foundational Understanding | 119 |
+| 10 | [[Bayesian-Reasoning|Bayesian Reasoning]] | — | — | Foundational Understanding | 119 |
 | 11 | [[Complex Reasoning Tasks]] | — | — | Foundational Understanding | 121 |
 | 12 | [[Math Word Problems]] | — | — | Foundational Understanding | 121 |
 | 13 | [[Commonsense-Reasoning|Commonsense Reasoning]] | — | — | Foundational Understanding | 121 |
@@ -593,7 +593,7 @@ extraction_summary:
 | 26 | [[Self-Consistency]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 142 |
 | 27 | [[Language Model]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 142 |
 | 28 | [[Chain-of-Thought]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 147 |
-| 29 | [[Bayesian Reasoning]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 149 |
+| 29 | [[Bayesian-Reasoning|Bayesian Reasoning]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 149 |
 | 30 | [[Majority Voting]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 149 |
 | 31 | [[Self-Consistency]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 152 |
 | 32 | [[Chain-of-Thought]] | — | — | 🧠 Theoretical Foundations: The Cognit... | 154 |
@@ -1154,7 +1154,7 @@ $$
 - [[Agentic AI]]
 - [[Automated Theorem Proving]]
 - [[BIG-Bench]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Beam Search]]
 - [[Brown et al. (2023)]]
 - [[Calibrated Confidence Estimation]]
@@ -1169,7 +1169,7 @@ $$
 - [[Confidence Calibration]]
 - [[Early Stopping]]
 - [[Early Stopping for Self-Consistency]]
-- [[Ensemble Learning]]
+- [[Ensemble-Learning|Ensemble Learning]]
 - [[Ensemble-Methods|Ensemble Methods]]
 - [[Ensemble Prompting]]
 - [[Error Detection]]

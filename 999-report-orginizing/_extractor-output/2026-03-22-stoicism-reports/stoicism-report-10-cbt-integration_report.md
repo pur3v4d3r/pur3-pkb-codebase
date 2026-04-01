@@ -163,7 +163,7 @@ extraction_summary:
 > → Next: *Series Complete*
 > 
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred-Indifferents|Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 #### 3. [CONNECTION-IDEAS] Untitled *(Line 282)*
 
@@ -471,7 +471,7 @@ extraction_summary:
 - [[Joseph Wolpe]]
 - [[Logos]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Three Epictetan Disciplines]]
 - [[Seneca]]
@@ -490,7 +490,7 @@ extraction_summary:
 | 2 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and CBT: Similarities, Diffe... | 264 |
 | 3 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 4 | [[Prohairesis]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
-| 5 | [[Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
+| 5 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 6 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 7 | [[Eudaimonia]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 8 | [[Albert Ellis]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
@@ -573,7 +573,7 @@ extraction_summary:
 - [[Joseph Wolpe]]
 - [[Logos]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Three Epictetan Disciplines]]
 - [[Seneca]]
@@ -591,7 +591,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 
 #### Related
@@ -613,7 +613,7 @@ extraction_summary:
 - [[Virtue-Ethics|Virtue Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
-- [[Preferred Indifferents]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Distortions]]
 - [[Psychological Flexibility]]

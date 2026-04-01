@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,7 +37,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-03-27"
+extraction-date: "2026-04-01"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -61,7 +61,7 @@ narrower:
   []
 
 see-also:
-  - "[[epistemology]]"
+  - "[[Epistemology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
   - "[[Virtue-Ethics|Virtue Ethics]]"
   - "[[Social-Psychology|Social Psychology]]"
@@ -69,6 +69,17 @@ see-also:
   - "[[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]]"
   - "[[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]]"
   - "[[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Testimonial-Knowledge|Testimonial Knowledge]]"
+  - "[[Cultural-Transmission|Cultural Transmission]]"
+  - "[[Theory-of-Mind|Theory of Mind]]"
+  - "[[Source-Monitoring|Source Monitoring]]"
+  - "[[Pragmatics]]"
+  - "[[Relevance-Theory|Relevance Theory]]"
+  - "[[Confirmation-Bias|Confirmation Bias]]"
+  - "[[Motivated-Reasoning|Motivated Reasoning]]"
+  - "[[Critical-Thinking|Critical Thinking]]"
+  - "[[Bayesian-Reasoning|Bayesian Reasoning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -92,7 +103,7 @@ importance: medium
 
 # Core Definition: Epistemic Vigilance
 
-> [!definition] **Core Definition: Epistemic Vigilance**
+> [!definition] **Core Definition: Epistemic Vigilance** *(from [[cog-psy-epistemic-vigilance-and-epistemic-humility]])*
 > 
 
 ## Core Explanation
@@ -107,9 +118,13 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[epistemology]] · [[Cognitive-Science|Cognitive Science]] · [[Virtue-Ethics|Virtue Ethics]] · [[Social-Psychology|Social Psychology]] · [[Basic-Epistemology|Basic Epistemology]] · [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] · [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] · [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Testimonial-Knowledge|Testimonial Knowledge]] · [[Cultural-Transmission|Cultural Transmission]] · [[Theory-of-Mind|Theory of Mind]] · [[Source-Monitoring|Source Monitoring]] · [[Pragmatics]] · [[Relevance-Theory|Relevance Theory]]
+[[Epistemology]] · [[Cognitive-Science|Cognitive Science]] · [[Virtue-Ethics|Virtue Ethics]] · [[Social-Psychology|Social Psychology]] · [[Basic-Epistemology|Basic Epistemology]] · [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] · [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] · [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Testimonial-Knowledge|Testimonial Knowledge]] · [[Cultural-Transmission|Cultural Transmission]] · [[Theory-of-Mind|Theory of Mind]] · [[Source-Monitoring|Source Monitoring]] · [[Pragmatics]] · [[Relevance-Theory|Relevance Theory]] · [[Confirmation-Bias|Confirmation Bias]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Critical-Thinking|Critical Thinking]] · [[Theory-of-Mind|Theory of Mind]] · [[Bayesian-Reasoning|Bayesian Reasoning]] · [[Evolutionary-Psychology|Evolutionary Psychology]] · [[Availability-Heuristic|Availability Heuristic]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[Second-Order-Beliefs|Second-Order Beliefs]] · [[Justification]] · [[Open-Mindedness]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Intellectual-Humility-Project|Intellectual Humility Project]] · [[Calibrated-Probability-Judgment-and-Forecasting-Accuracy|Calibrated Probability Judgment and Forecasting Accuracy]] · [[The-Argumentative-Theory-of-Reasoning|The Argumentative Theory of Reasoning]]
 
 ---
+
+**Related concepts** *(from cog-psy-epistemic-vigilance-and-epistemic-humility.md)*:
+[[Cognitive-Science|Cognitive Science]] * [[Virtue-Ethics|Virtue Ethics]] * [[Social-Psychology|Social Psychology]] * [[Basic-Epistemology|Basic Epistemology]] * [[Cognitive-Bias-Fundamentals|Cognitive Bias Fundamentals]] * [[Evolutionary-Psychology-Principles|Evolutionary Psychology Principles]] * [[Argumentative-Theory-of-Reasoning|Argumentative Theory of Reasoning]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Testimonial-Knowledge|Testimonial Knowledge]] * [[Cultural-Transmission|Cultural Transmission]] * [[Theory-of-Mind|Theory of Mind]] * [[Source-Monitoring|Source Monitoring]] * [[Relevance-Theory|Relevance Theory]] * [[Confirmation-Bias|Confirmation Bias]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Bayesian-Reasoning|Bayesian Reasoning]] * [[Evolutionary-Psychology|Evolutionary Psychology]] * [[Availability-Heuristic|Availability Heuristic]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[Second-Order-Beliefs|Second-Order Beliefs]] * [[Intellectual-Humility-Project|Intellectual Humility Project]] * [[Calibrated-Probability-Judgment-and-Forecasting-Accuracy|Calibrated Probability Judgment and Forecasting Accuracy]] * [[The-Argumentative-Theory-of-Reasoning|The Argumentative Theory of Reasoning]] * [[Virtue-Epistemology-and-Intellectual-Character|Virtue Epistemology and Intellectual Character]] * [[Conspiracy-Thinking-and-Epistemic-Pathology|Conspiracy Thinking and Epistemic Pathology]] * [[Metacognitive-Monitoring-and-Confidence-Calibration|Metacognitive Monitoring and Confidence Calibration]] * [[Trust-in-Testimony-and-Social-Epistemology|Trust in Testimony and Social Epistemology]] * [[Socratic-Method|Socratic Method]] * [[Stoic-Epistemology|Stoic Epistemology]]
+
 
 ## Source Attribution
 

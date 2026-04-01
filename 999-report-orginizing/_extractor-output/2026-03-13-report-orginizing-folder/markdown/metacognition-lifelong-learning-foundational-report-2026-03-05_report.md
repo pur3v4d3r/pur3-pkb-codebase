@@ -422,7 +422,7 @@ extraction_summary:
 - [[Carol-Dweck|Carol Dweck]]
 - [[Claude Sonnet 4.6]]
 - [[Cognitive Biases and Their Impact on Self-Assessment]]
-- [[David Dunning]]
+- [[David-Dunning|David Dunning]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
@@ -433,7 +433,7 @@ extraction_summary:
 - [[Jean-Piaget|Jean Piaget]]
 - [[John-Flavell|John Flavell]]
 - [[Judgment-of-Learning|Judgment of Learning (JOL)]]
-- [[Justin Kruger]]
+- [[Justin-Kruger|Justin Kruger]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Lifelong-learning|Lifelong learning]]
 - [[Metacognition]]
@@ -462,21 +462,21 @@ extraction_summary:
 - [[Fluency]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[labor-in-vain effect]]
 - [[Lifelong-learning|lifelong learning]]
 - [[medical education]]
-- [[metacognitive judgments]]
-- [[prefrontal cortex]]
+- [[metacognitive-judgments|metacognitive judgments]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
 - [[reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
-- [[spaced practice]]
+- [[spaced-practice|spaced practice]]
 - [[study time allocation]]
-- [[variation practice]]
+- [[variation-practice|variation practice]]
 
 ### All Occurrences
 
@@ -503,19 +503,19 @@ extraction_summary:
 | 19 | [[Fluency]] | — | — | Calibration: The Accuracy Problem | 338 |
 | 20 | [[Retrieval-Practice|retrieval practice]] | — | — | Calibration: The Accuracy Problem | 338 |
 | 21 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Calibration: The Accuracy Problem | 343 |
-| 22 | [[David Dunning]] | — | — | Calibration: The Accuracy Problem | 343 |
-| 23 | [[Justin Kruger]] | — | — | Calibration: The Accuracy Problem | 343 |
+| 22 | [[David-Dunning|David Dunning]] | — | — | Calibration: The Accuracy Problem | 343 |
+| 23 | [[Justin-Kruger|Justin Kruger]] | — | — | Calibration: The Accuracy Problem | 343 |
 | 24 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 25 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 26 | [[Fixed-Mindset|fixed mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 27 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 28 | [[Robert-Bjork|Robert Bjork]] | — | — | Desirable Difficulties and the Scienc... | 356 |
 | 29 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Desirable Difficulties and the Scienc... | 356 |
-| 30 | [[spaced practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
-| 31 | [[Interleaving]] | — | — | Desirable Difficulties and the Scienc... | 358 |
+| 30 | [[spaced-practice|spaced practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
+| 31 | [[interleaving]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 32 | [[Retrieval-Practice|retrieval practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
-| 33 | [[variation practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
-| 34 | [[metacognitive judgments]] | — | — | The Monitoring System: How the Mind W... | 374 |
+| 33 | [[variation-practice|variation practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
+| 34 | [[metacognitive-judgments|metacognitive judgments]] | — | — | The Monitoring System: How the Mind W... | 374 |
 | 35 | [[Judgment-of-Learning|Judgment of Learning (JOL)]] | — | — | The Monitoring System: How the Mind W... | 376 |
 | 36 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]] | — | — | The Monitoring System: How the Mind W... | 378 |
 | 37 | [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]] | — | — | The Monitoring System: How the Mind W... | 380 |
@@ -526,7 +526,7 @@ extraction_summary:
 | 42 | [[Bernard-Weiner|Bernard Weiner]] | — | — | The Feedback Architecture of Learning | 393 |
 | 43 | [[Attribution-Theory|attribution theory]] | — | — | The Feedback Architecture of Learning | 393 |
 | 44 | [[Ann-Brown|Ann Brown]] | — | — | Metacognitive Development Across the ... | 402 |
-| 45 | [[prefrontal cortex]] | — | — | Metacognitive Development Across the ... | 404 |
+| 45 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Metacognitive Development Across the ... | 404 |
 | 46 | [[reciprocal teaching]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 47 | [[Ann-Brown|Ann Brown]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 48 | [[Annemarie Palincsar]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
@@ -572,7 +572,7 @@ extraction_summary:
 - [[Carol-Dweck|Carol Dweck]]
 - [[Claude Sonnet 4.6]]
 - [[Cognitive Biases and Their Impact on Self-Assessment]]
-- [[David Dunning]]
+- [[David-Dunning|David Dunning]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
@@ -583,7 +583,7 @@ extraction_summary:
 - [[Jean-Piaget|Jean Piaget]]
 - [[John-Flavell|John Flavell]]
 - [[Judgment-of-Learning|Judgment of Learning (JOL)]]
-- [[Justin Kruger]]
+- [[Justin-Kruger|Justin Kruger]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Lifelong-learning|Lifelong learning]]
 - [[Metacognition]]
@@ -612,21 +612,21 @@ extraction_summary:
 - [[Fluency]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[labor-in-vain effect]]
 - [[Lifelong-learning|lifelong learning]]
 - [[medical education]]
-- [[metacognitive judgments]]
-- [[prefrontal cortex]]
+- [[metacognitive-judgments|metacognitive judgments]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
 - [[reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
-- [[spaced practice]]
+- [[spaced-practice|spaced practice]]
 - [[study time allocation]]
-- [[variation practice]]
+- [[variation-practice|variation practice]]
 
 ### Frontmatter Relationships
 
@@ -665,7 +665,7 @@ extraction_summary:
 - [[Critical-Thinking|Critical Thinking]]
 - [[Epistemic-Humility|Epistemic Humility]]
 - [[Transfer-of-Learning|Transfer of Learning]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 
 #### Contrasts With
 

@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 82
+referenced-by-count: 113
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
   - "[[Aspiration-Index]]"
   - "[[Attainment-Paradox]]"
+  - "[[Attribution-Retraining]]"
+  - "[[Attribution-Style]]"
   - "[[Autonomous-Motivation]]"
   - "[[Autonomous-Motivation-vs.-Controlled-Motivation]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomous-Relationship-Motivation]]"
   - "[[Autonomous-vs.-Controlled-Motivation]]"
-  - "[[Autonomy-Relatedness-Integration]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Richard-Ryan
 
 > [!definition] **Richard-Ryan**
-> *Stub note — concept referenced by 82 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 113 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 82 permanent notes.*
+*Auto-generated stub — referenced by 113 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Amotivation]]
 - [[Aspiration-Index]]
 - [[Attainment-Paradox]]
+- [[Attribution-Retraining]]
+- [[Attribution-Style]]
 - [[Autonomous-Motivation]]
 - [[Autonomous-Motivation-vs.-Controlled-Motivation]]
 - [[Autonomous-Regulation]]
 - [[Autonomous-Relationship-Motivation]]
 - [[Autonomous-vs.-Controlled-Motivation]]
+- [[Autonomy]]
+- [[Autonomy-Need]]
 - [[Autonomy-Relatedness-Integration]]
+- [[Autonomy-Support]]
 - [[Autonomy-Supportive-Environment]]
 - [[Basic-Psychological-Need]]
+- [[Basic-Psychological-Needs]]
 - [[Basic-Psychological-Needs-Theory]]
 - [[Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra]]
-- [[Challenge-Skill-Balance]]
-- [[Cognitive-Evaluation-Theory]]
-- [[Cognitive-Vitality]]
-- [[Compensatory-Hypothesis]]
-- [[Competence]]
-- [[Competence-Need]]
-- *...and 62 more permanent notes*
+- [[Belonging-Uncertainty]]
+- *...and 93 more permanent notes*

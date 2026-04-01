@@ -373,16 +373,16 @@ extraction_summary:
 - [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]]
 - [[Emergent-Abilities|Emergent Abilities]]
 - [[Emergent-Abilities-in-LLMs|Emergent Abilities in LLMs]]
-- [[Ensemble Learning]]
+- [[Ensemble-Learning|Ensemble Learning]]
 - [[Ensemble-Methods|Ensemble Methods]]
-- [[Explicit Reasoning Protocols]]
+- [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]]
 - [[Feng et al. (2024)]]
 - [[Few-Shot-Learning|Few-Shot Learning]]
-- [[Few-Shot Prompting]]
+- [[Few-Shot-Prompting|Few-Shot Prompting]]
 - [[GPT-3]]
 - [[GSM8K]]
 - [[Google-Research|Google Research]]
-- [[Human Reasoning]]
+- [[Human-Reasoning|Human Reasoning]]
 - [[Image Captioning]]
 - [[Inference Optimization]]
 - [[Interpretability]]
@@ -419,7 +419,7 @@ extraction_summary:
 - [[Sparse Autoencoders]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[StrategyQA]]
-- [[Symbolic Logic]]
+- [[Symbolic-Logic|Symbolic Logic]]
 - [[System Design]]
 - [[Think-Aloud Protocols]]
 - [[Training Objectives]]
@@ -456,16 +456,16 @@ extraction_summary:
 | 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 14 | [[Few-Shot-Learning|Few-Shot Learning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 15 | [[GPT-3]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
-| 16 | [[Explicit Reasoning Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
+| 16 | [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 17 | [[Transformer-Architecture|Transformer Architecture]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 18 | [[Large-Language-Models|Large Language Models]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
-| 19 | [[Symbolic Logic]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
+| 19 | [[Symbolic-Logic|Symbolic Logic]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 20 | [[Commonsense-Reasoning|Commonsense Reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 21 | [[Wei et al. (2022)]] | — | — | 📜 Theoretical Foundations & Historica... | 132 |
-| 22 | [[Few-Shot Prompting]] | — | — | 📜 Theoretical Foundations & Historica... | 135 |
+| 22 | [[Few-Shot-Prompting|Few-Shot Prompting]] | — | — | 📜 Theoretical Foundations & Historica... | 135 |
 | 23 | [[Protocol Analysis]] | — | — | 📜 Theoretical Foundations & Historica... | 136 |
 | 24 | [[Think-Aloud Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 136 |
-| 25 | [[Human Reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 137 |
+| 25 | [[Human-Reasoning|Human Reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 137 |
 | 26 | [[Circuit-Complexity-Theory|Circuit Complexity Theory]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 139 |
 | 27 | [[Feng et al. (2024)]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 142 |
 | 28 | [[Attention-Mechanism|Attention Mechanism]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 144 |
@@ -477,7 +477,7 @@ extraction_summary:
 | 34 | [[Mechanistic-Interpretability|Mechanistic Interpretability]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 163 |
 | 35 | [[Meincke et al. (2025)]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 166 |
 | 36 | [[Wang-et-al.|Wang et al. (2022)]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 170 |
-| 37 | [[Ensemble Learning]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
+| 37 | [[Ensemble-Learning|Ensemble Learning]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
 | 38 | [[Bootstrap Aggregating]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
 | 39 | [[Yao et al. (2023)]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 186 |
 | 40 | [[Breadth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
@@ -1148,16 +1148,16 @@ $$
 - [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]]
 - [[Emergent-Abilities|Emergent Abilities]]
 - [[Emergent-Abilities-in-LLMs|Emergent Abilities in LLMs]]
-- [[Ensemble Learning]]
+- [[Ensemble-Learning|Ensemble Learning]]
 - [[Ensemble-Methods|Ensemble Methods]]
-- [[Explicit Reasoning Protocols]]
+- [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]]
 - [[Feng et al. (2024)]]
 - [[Few-Shot-Learning|Few-Shot Learning]]
-- [[Few-Shot Prompting]]
+- [[Few-Shot-Prompting|Few-Shot Prompting]]
 - [[GPT-3]]
 - [[GSM8K]]
 - [[Google-Research|Google Research]]
-- [[Human Reasoning]]
+- [[Human-Reasoning|Human Reasoning]]
 - [[Image Captioning]]
 - [[Inference Optimization]]
 - [[Interpretability]]
@@ -1194,7 +1194,7 @@ $$
 - [[Sparse Autoencoders]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[StrategyQA]]
-- [[Symbolic Logic]]
+- [[Symbolic-Logic|Symbolic Logic]]
 - [[System Design]]
 - [[Think-Aloud Protocols]]
 - [[Training Objectives]]

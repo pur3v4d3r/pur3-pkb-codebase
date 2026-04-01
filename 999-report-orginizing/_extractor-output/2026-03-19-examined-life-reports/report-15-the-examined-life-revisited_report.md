@@ -302,7 +302,7 @@ extraction_summary:
 
 - [[AI and the Examined Life — Cognitive Sovereignty]]
 - [[Allostatic-Load|Allostatic Load]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Aporia]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
@@ -319,7 +319,7 @@ extraction_summary:
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]]
-- [[Epistemic Injustice]]
+- [[Epistemic-Injustice|Epistemic Injustice]]
 - [[Eudaimonia]]
 - [[Evening Self-Examination — A Practice Manual for the Examined Life]]
 - [[Examined Life Under Constraint — Resource-Limited Flourishing]]
@@ -333,18 +333,18 @@ extraction_summary:
 - [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Logotherapy]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Miranda Fricker]]
+- [[Miranda-Fricker|Miranda Fricker]]
 - [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
 - [[Narrative-Identity|Narrative Identity]]
 - [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]]
 - [[Pedagogy of the Examined Life — Stage-Specific Curricula]]
-- [[Peirce's Fallibilism]]
+- [[Peirce's-Fallibilism|Peirce's Fallibilism]]
 - [[Phronesis]]
 - [[Phronimos]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Piaget's-Constructivism|Piaget's Constructivism]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
 - [[Prokoptōn]]
@@ -383,7 +383,7 @@ extraction_summary:
 | 9 | [[Socratic-Method|Socratic Method]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 10 | [[System-1|System 1]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 11 | [[Fallibilism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 12 | [[Pragmatism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 12 | [[pragmatism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 13 | [[Constructivism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 14 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 15 | [[Prohairesis]] | — | — | The Three-Tier Architecture in Retros... | 202 |
@@ -405,15 +405,15 @@ extraction_summary:
 | 31 | [[Naturalistic-Decision-Making|Naturalistic Decision Making]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 32 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 33 | [[Distributed-Cognition|Distributed Cognition]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 34 | [[Miranda Fricker]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 35 | [[Epistemic Injustice]] | — | — | The Three-Tier Architecture in Retros... | 208 |
+| 34 | [[Miranda-Fricker|Miranda Fricker]] | — | — | The Three-Tier Architecture in Retros... | 208 |
+| 35 | [[Epistemic-Injustice|Epistemic Injustice]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 36 | [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 37 | [[Predictive-Processing|Predictive Processing]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 38 | [[Narrative-Identity|Narrative Identity]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 39 | [[Logotherapy]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 40 | [[Eudaimonia]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 41 | [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] | — | — | The Master Structural Homology: One T... | 226 |
-| 42 | [[Peirce's Fallibilism]] | — | — | The Master Structural Homology: One T... | 226 |
+| 42 | [[Peirce's-Fallibilism|Peirce's Fallibilism]] | — | — | The Master Structural Homology: One T... | 226 |
 | 43 | [[Piaget's-Constructivism|Piaget's Constructivism]] | — | — | The Master Structural Homology: One T... | 226 |
 | 44 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Master Structural Homology: One T... | 226 |
 | 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Master Structural Homology: One T... | 226 |
@@ -453,7 +453,7 @@ extraction_summary:
 | 79 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | Worked Example Two: The Practical Lif... | 292 |
 | 80 | [[Testimonial-Injustice|Testimonial Injustice]] | — | — | Worked Example Two: The Practical Lif... | 292 |
 | 81 | [[Narrative-Identity|Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 294 |
-| 82 | [[Amor Fati]] | — | — | Worked Example Two: The Practical Lif... | 294 |
+| 82 | [[Amor-Fati|Amor Fati]] | — | — | Worked Example Two: The Practical Lif... | 294 |
 | 83 | [[Fallibilism]] | — | — | The Developmental Staging Model: From... | 305 |
 | 84 | [[Aporia]] | — | — | The Developmental Staging Model: From... | 307 |
 | 85 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Developmental Staging Model: From... | 309 |
@@ -508,7 +508,7 @@ extraction_summary:
 
 - [[AI and the Examined Life — Cognitive Sovereignty]]
 - [[Allostatic-Load|Allostatic Load]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Aporia]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
@@ -525,7 +525,7 @@ extraction_summary:
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]]
-- [[Epistemic Injustice]]
+- [[Epistemic-Injustice|Epistemic Injustice]]
 - [[Eudaimonia]]
 - [[Evening Self-Examination — A Practice Manual for the Examined Life]]
 - [[Examined Life Under Constraint — Resource-Limited Flourishing]]
@@ -539,18 +539,18 @@ extraction_summary:
 - [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Logotherapy]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Miranda Fricker]]
+- [[Miranda-Fricker|Miranda Fricker]]
 - [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
 - [[Narrative-Identity|Narrative Identity]]
 - [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]]
 - [[Pedagogy of the Examined Life — Stage-Specific Curricula]]
-- [[Peirce's Fallibilism]]
+- [[Peirce's-Fallibilism|Peirce's Fallibilism]]
 - [[Phronesis]]
 - [[Phronimos]]
 - [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Piaget's-Constructivism|Piaget's Constructivism]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
 - [[Prokoptōn]]

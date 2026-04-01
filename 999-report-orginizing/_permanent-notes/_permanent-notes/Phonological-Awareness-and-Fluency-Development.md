@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 18
+referenced-by-count: 17
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Automaticity]]"
   - "[[Cognitive-Bandwidth-Liberation]]"
   - "[[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Matthew-Effect-in-Reading]]"
   - "[[Oral-Reading-Fluency]]"
   - "[[Prosody]]"
+  - "[[Reading-Fluency]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # Phonological-Awareness-and-Fluency-Development
 
 > [!definition] **Phonological-Awareness-and-Fluency-Development**
-> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 18 permanent notes.*
+*Auto-generated stub — referenced by 17 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Automaticity]]
 - [[Cognitive-Bandwidth-Liberation]]
 - [[Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism]]

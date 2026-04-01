@@ -675,8 +675,8 @@ extraction_summary:
 > Critical thinking in this aspect requires awareness of systematic biases:
 > - **[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]**: Favoring information supporting preferred option
 > - **[[Anchoring Bias]]**: Over-weighting first alternative considered
-> - **[[Status Quo Bias]]**: Preferring current state over change
-> - **[[Sunk Cost Fallacy]]**: Continuing investment due to past commitment
+> - **[[Status-quo-bias|Status Quo Bias]]**: Preferring current state over change
+> - **[[Sunk-cost-fallacy|Sunk Cost Fallacy]]**: Continuing investment due to past commitment
 > - **[[Availability-Heuristic|Availability Heuristic]]**: Over-weighting easily recalled outcomes
 > - **[[Optimism Bias]]**: Underestimating likelihood of negative outcomes
 > 
@@ -1082,7 +1082,7 @@ extraction_summary:
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Assumption Detection]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Capture, Process, Connect]]
 - [[Categorical Thinking]]
@@ -1124,7 +1124,7 @@ extraction_summary:
 - [[Educational-Psychology|Educational Psychology]]
 - [[Emergence]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Evaluating Ideas]]
 - [[Evidence Assessment]]
@@ -1146,14 +1146,14 @@ extraction_summary:
 - [[Informal Logic]]
 - [[Information Literacy]]
 - [[Information Literacy and Digital Epistemology in the Age of AI]]
-- [[Information Processing]]
+- [[information-processing|Information Processing]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Judgment Under Uncertainty]]
 - [[Judgment and Decision-Making]]
 - [[Knowledge Construction]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Knowledge Representation]]
+- [[knowledge-representation|Knowledge Representation]]
 - [[Learning Theory]]
 - [[Lifelong-learning|Lifelong Learning]]
 - [[Logical Analysis]]
@@ -1194,7 +1194,7 @@ extraction_summary:
 - [[Reflective-Practice|Reflective Practice]]
 - [[Research Methods]]
 - [[Risk Assessment]]
-- [[Scenario Planning]]
+- [[scenario-planning|Scenario Planning]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Selective Combination]]
 - [[Selective Comparison]]
@@ -1208,9 +1208,9 @@ extraction_summary:
 - [[Source Evaluation Notes]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stakeholder Analysis]]
-- [[Status Quo Bias]]
+- [[Status-quo-bias|Status Quo Bias]]
 - [[Structural Thinking]]
-- [[Sunk Cost Fallacy]]
+- [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[Synthesis]]
 - [[Synthesis Notes]]
 - [[System-1|System 1]]
@@ -1260,7 +1260,7 @@ extraction_summary:
 | 27 | [[Logical Analysis]] | — | — | Philosophical & Theoretical Foundations | 287 |
 | 28 | [[Argument Evaluation]] | — | — | Philosophical & Theoretical Foundations | 287 |
 | 29 | [[cognitive-psychology|Cognitive Psychology]] | — | — | Philosophical & Theoretical Foundations | 289 |
-| 30 | [[Information Processing]] | — | — | Philosophical & Theoretical Foundations | 289 |
+| 30 | [[information-processing|Information Processing]] | — | — | Philosophical & Theoretical Foundations | 289 |
 | 31 | [[Metacognition]] | — | — | Philosophical & Theoretical Foundations | 289 |
 | 32 | [[Problem Solving]] | — | — | Philosophical & Theoretical Foundations | 289 |
 | 33 | [[Information Literacy]] | — | — | Philosophical & Theoretical Foundations | 291 |
@@ -1307,7 +1307,7 @@ extraction_summary:
 | 74 | [[Systems Thinking]] | — | — | Aspect 1.3: Organizing Information | 434 |
 | 75 | [[Synthesis]] | — | — | Aspect 1.3: Organizing Information | 435 |
 | 76 | [[Selective Comparison]] | — | — | Aspect 1.3: Organizing Information | 436 |
-| 77 | [[Knowledge Representation]] | — | — | Aspect 1.3: Organizing Information | 437 |
+| 77 | [[knowledge-representation|Knowledge Representation]] | — | — | Aspect 1.3: Organizing Information | 437 |
 | 78 | [[Personal Knowledge Bases]] | — | — | Aspect 1.3: Organizing Information | 441 |
 | 79 | [[Capture, Process, Connect]] | — | — | Aspect 1.3: Organizing Information | 441 |
 | 80 | [[Zettelkasten]] | — | — | Aspect 1.3: Organizing Information | 441 |
@@ -1340,7 +1340,7 @@ extraction_summary:
 | 107 | [[Conditional Reasoning]] | — | — | Aspect 2.2: Applying Logic | 528 |
 | 108 | [[Source Criticism]] | — | — | Aspect 2.3: Evaluating Claims | 535 |
 | 109 | [[Evidence Assessment]] | — | — | Aspect 2.3: Evaluating Claims | 535 |
-| 110 | [[Epistemic Justification]] | — | — | Aspect 2.3: Evaluating Claims | 535 |
+| 110 | [[epistemic-justification|Epistemic Justification]] | — | — | Aspect 2.3: Evaluating Claims | 535 |
 | 111 | [[misinformation]] | — | — | Aspect 2.3: Evaluating Claims | 535 |
 | 112 | [[Productivity Techniques]] | — | — | Aspect 2.3: Evaluating Claims | 548 |
 | 113 | [[Source Criticism]] | — | — | Aspect 2.3: Evaluating Claims | 559 |
@@ -1367,7 +1367,7 @@ extraction_summary:
 | 134 | [[Stakeholder Analysis]] | — | — | Aspect 3.1: Identifying Criteria for ... | 665 |
 | 135 | [[Ill-Structured-Problems|Ill-Structured Problems]] | — | — | Aspect 3.1: Identifying Criteria for ... | 669 |
 | 136 | [[Decision Analysis]] | — | — | Aspect 3.2: Considering Alternatives | 681 |
-| 137 | [[Scenario Planning]] | — | — | Aspect 3.2: Considering Alternatives | 681 |
+| 137 | [[scenario-planning|Scenario Planning]] | — | — | Aspect 3.2: Considering Alternatives | 681 |
 | 138 | [[Prospect Theory]] | — | — | Aspect 3.2: Considering Alternatives | 681 |
 | 139 | [[Judgment Under Uncertainty]] | — | — | Aspect 3.2: Considering Alternatives | 681 |
 | 140 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Aspect 3.2: Considering Alternatives | 696 |
@@ -1381,8 +1381,8 @@ extraction_summary:
 | 148 | [[Uncertainty Management]] | — | — | Aspect 3.2: Considering Alternatives | 743 |
 | 149 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Aspect 3.2: Considering Alternatives | 749 |
 | 150 | [[Anchoring Bias]] | — | — | Aspect 3.2: Considering Alternatives | 750 |
-| 151 | [[Status Quo Bias]] | — | — | Aspect 3.2: Considering Alternatives | 751 |
-| 152 | [[Sunk Cost Fallacy]] | — | — | Aspect 3.2: Considering Alternatives | 752 |
+| 151 | [[Status-quo-bias|Status Quo Bias]] | — | — | Aspect 3.2: Considering Alternatives | 751 |
+| 152 | [[Sunk-cost-fallacy|Sunk Cost Fallacy]] | — | — | Aspect 3.2: Considering Alternatives | 752 |
 | 153 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Aspect 3.2: Considering Alternatives | 753 |
 | 154 | [[Optimism Bias]] | — | — | Aspect 3.2: Considering Alternatives | 754 |
 | 155 | [[Reflective-Practice|Reflective Practice]] | — | — | Aspect 3.3: Monitoring Outcomes | 765 |
@@ -1430,7 +1430,7 @@ extraction_summary:
 | 197 | [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]] | — | — | 🔗 Related Topics for PKB Expansion | 1366 |
 | 198 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 🔗 Related Topics for PKB Expansion | 1366 |
 | 199 | [[Decision-Making Under Uncertainty: Integrating Critical Thinking with Probabilistic Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 1368 |
-| 200 | [[Bayesian Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 1370 |
+| 200 | [[Bayesian-Reasoning|Bayesian Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 1370 |
 | 201 | [[Decision-Theory|Decision Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 1370 |
 | 202 | [[Prospect Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 1370 |
 | 203 | [[Risk Assessment]] | — | — | 🔗 Related Topics for PKB Expansion | 1370 |
@@ -1781,7 +1781,7 @@ graph TD
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Assumption Detection]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Capture, Process, Connect]]
 - [[Categorical Thinking]]
@@ -1823,7 +1823,7 @@ graph TD
 - [[Educational-Psychology|Educational Psychology]]
 - [[Emergence]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 - [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Evaluating Ideas]]
 - [[Evidence Assessment]]
@@ -1845,14 +1845,14 @@ graph TD
 - [[Informal Logic]]
 - [[Information Literacy]]
 - [[Information Literacy and Digital Epistemology in the Age of AI]]
-- [[Information Processing]]
+- [[information-processing|Information Processing]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Judgment Under Uncertainty]]
 - [[Judgment and Decision-Making]]
 - [[Knowledge Construction]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Knowledge Representation]]
+- [[knowledge-representation|Knowledge Representation]]
 - [[Learning Theory]]
 - [[Lifelong-learning|Lifelong Learning]]
 - [[Logical Analysis]]
@@ -1893,7 +1893,7 @@ graph TD
 - [[Reflective-Practice|Reflective Practice]]
 - [[Research Methods]]
 - [[Risk Assessment]]
-- [[Scenario Planning]]
+- [[scenario-planning|Scenario Planning]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Selective Combination]]
 - [[Selective Comparison]]
@@ -1907,9 +1907,9 @@ graph TD
 - [[Source Evaluation Notes]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stakeholder Analysis]]
-- [[Status Quo Bias]]
+- [[Status-quo-bias|Status Quo Bias]]
 - [[Structural Thinking]]
-- [[Sunk Cost Fallacy]]
+- [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[Synthesis]]
 - [[Synthesis Notes]]
 - [[System-1|System 1]]

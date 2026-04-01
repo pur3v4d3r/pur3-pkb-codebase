@@ -355,7 +355,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Einstellung Effect]]
 - [[Expert-Novice Differences]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Explicit-Knowledge|Explicit Knowledge]]
 - [[Facione's Domain-Specific Approach]]
 - [[Facione's Dual-Dimensional Model]]
@@ -423,7 +423,7 @@ extraction_summary:
 | 38 | [[Pedagogical-Content-Knowledge|Pedagogical Content Knowledge]] | — | — | The Shared Vocabulary Hypothesis | 378 |
 | 39 | [[Adaptive Expertise]] | — | — | The Meta-Framework Analysis Hypothesis | 388 |
 | 40 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The Integration Model: Toward Sophist... | 432 |
-| 41 | [[Expertise Development]] | — | — | The Integration Model: Toward Sophist... | 432 |
+| 41 | [[Expertise-Development|Expertise Development]] | — | — | The Integration Model: Toward Sophist... | 432 |
 | 42 | [[Cognitive-Science|Cognitive Science]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 455 |
 | 43 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 455 |
 | 44 | [[Integration Hypothesis]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 461 |
@@ -621,7 +621,7 @@ for (let letter of sortedLetters) {
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Einstellung Effect]]
 - [[Expert-Novice Differences]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Explicit-Knowledge|Explicit Knowledge]]
 - [[Facione's Domain-Specific Approach]]
 - [[Facione's Dual-Dimensional Model]]

@@ -496,18 +496,18 @@ extraction_summary:
 - [[Incremental Formalization]]
 - [[Incremental Formalization in Software Development: Gradual Typing and Type Inference]]
 - [[Information-Architecture|Information Architecture]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Information Theory Basics]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Knowledge Engineering]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Architecture]]
-- [[Knowledge Representation]]
+- [[knowledge-representation|Knowledge Representation]]
 - [[Learning Science Applications]]
 - [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Logseq]]
 - [[Memory-Consolidation|Memory Consolidation]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies|Metacognitive Strategies]]
 - [[Network Science]]
 - [[Obsidian]]
 - [[Obsidian Web Clipper]]
@@ -632,20 +632,20 @@ extraction_summary:
 | 77 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 1. **[[Elaborative Interrogation as P... | 982 |
 | 78 | [[Deep Processing Techniques]] | — | — | 1. **[[Elaborative Interrogation as P... | 982 |
 | 79 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | 1. **[[Elaborative Interrogation as P... | 982 |
-| 80 | [[Metacognitive Strategies]] | — | — | 1. **[[Elaborative Interrogation as P... | 982 |
+| 80 | [[Metacognitive-strategies|Metacognitive Strategies]] | — | — | 1. **[[Elaborative Interrogation as P... | 982 |
 | 81 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 1. **[[Elaborative Interrogation as P... | 986 |
 | 82 | [[Working-Memory|Working Memory]] | — | — | 1. **[[Elaborative Interrogation as P... | 986 |
 | 83 | [[Depth of Processing Theory]] | — | — | 1. **[[Elaborative Interrogation as P... | 986 |
 | 84 | [[Semantic Density and Information Compression Theory]] | — | — | 2. **[[Semantic Density and Informati... | 990 |
-| 85 | [[Information Theory]] | — | — | 2. **[[Semantic Density and Informati... | 993 |
+| 85 | [[Information-Theory|Information Theory]] | — | — | 2. **[[Semantic Density and Informati... | 993 |
 | 86 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 2. **[[Semantic Density and Informati... | 995 |
-| 87 | [[Information Theory]] | — | — | 2. **[[Semantic Density and Informati... | 995 |
+| 87 | [[Information-Theory|Information Theory]] | — | — | 2. **[[Semantic Density and Informati... | 995 |
 | 88 | [[Computer Science]] | — | — | 2. **[[Semantic Density and Informati... | 995 |
 | 89 | [[Formal Knowledge Representation]] | — | — | 2. **[[Semantic Density and Informati... | 995 |
 | 90 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 2. **[[Semantic Density and Informati... | 999 |
 | 91 | [[Information Theory Basics]] | — | — | 2. **[[Semantic Density and Informati... | 999 |
 | 92 | [[Semantic-Networks|Semantic Networks]] | — | — | 2. **[[Semantic Density and Informati... | 999 |
-| 93 | [[Knowledge Representation]] | — | — | 2. **[[Semantic Density and Informati... | 999 |
+| 93 | [[knowledge-representation|Knowledge Representation]] | — | — | 2. **[[Semantic Density and Informati... | 999 |
 | 94 | [[The Spacing Effect and Optimal Review Scheduling]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1003 |
 | 95 | [[Spaced Repetition System]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1004 |
 | 96 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 3. **[[The Spacing Effect and Optimal... | 1008 |
@@ -1395,18 +1395,18 @@ for (let letter of sortedLetters) {
 - [[Incremental Formalization]]
 - [[Incremental Formalization in Software Development: Gradual Typing and Type Inference]]
 - [[Information-Architecture|Information Architecture]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Information Theory Basics]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Knowledge Engineering]]
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Architecture]]
-- [[Knowledge Representation]]
+- [[knowledge-representation|Knowledge Representation]]
 - [[Learning Science Applications]]
 - [[Levels-of-Processing-Theory|Levels of Processing Theory]]
 - [[Logseq]]
 - [[Memory-Consolidation|Memory Consolidation]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies|Metacognitive Strategies]]
 - [[Network Science]]
 - [[Obsidian]]
 - [[Obsidian Web Clipper]]

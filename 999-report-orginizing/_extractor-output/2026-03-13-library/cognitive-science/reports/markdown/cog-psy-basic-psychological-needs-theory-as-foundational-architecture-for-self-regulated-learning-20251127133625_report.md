@@ -190,7 +190,7 @@ extraction_summary:
 #### 10. [EXAMPLE] Untitled *(Line 192)*
 
 > [!example] Untitled
-> In the context of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], competence satisfaction manifests when learners successfully apply [[Metacognitive Strategies]] to overcome learning challenges, when they observe measurable progress in skill development, or when they successfully transfer knowledge to novel problem contexts. The subjective experience of "I can do this" or "I'm getting better" reflects competence need satisfaction and directly fuels continued engagement with demanding learning tasks.
+> In the context of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], competence satisfaction manifests when learners successfully apply [[Metacognitive-strategies|Metacognitive Strategies]] to overcome learning challenges, when they observe measurable progress in skill development, or when they successfully transfer knowledge to novel problem contexts. The subjective experience of "I can do this" or "I'm getting better" reflects competence need satisfaction and directly fuels continued engagement with demanding learning tasks.
 
 #### 11. [PRINCIPLE-POINT] Untitled *(Line 201)*
 
@@ -315,15 +315,15 @@ extraction_summary:
 - [[Edward-Deci|Edward Deci]]
 - [[Eudaimonia]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Flow-Theory|Flow Theory]]
 - [[Goal-Setting-Theory|Goal-Setting Theory]]
 - [[Integrated-Regulation|Integrated Regulation]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies|Metacognitive Strategies]]
 - [[Mindfulness and Need Satisfaction]]
 - [[Neuroplasticity]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -359,7 +359,7 @@ extraction_summary:
 | 11 | [[Integrated-Regulation|Integrated Regulation]] | — | — | Claude Thinking: | 110 |
 | 12 | [[Neuroplasticity]] | — | — | Claude Thinking: | 110 |
 | 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 110 |
-| 14 | [[Flow State]] | — | — | Claude Thinking: | 110 |
+| 14 | [[Flow-State|Flow State]] | — | — | Claude Thinking: | 110 |
 | 15 | [[Metacognition]] | — | — | Claude Thinking: | 110 |
 | 16 | [[Goal-Setting-Theory|Goal-Setting Theory]] | — | — | Claude Thinking: | 110 |
 | 17 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | 🎯 Abstract | 134 |
@@ -378,7 +378,7 @@ extraction_summary:
 | 30 | [[Robert White]] | — | — | Competence: The Experience of Effectance | 188 |
 | 31 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Competence: The Experience of Effectance | 188 |
 | 32 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Competence: The Experience of Effectance | 193 |
-| 33 | [[Metacognitive Strategies]] | — | — | Competence: The Experience of Effectance | 193 |
+| 33 | [[Metacognitive-strategies|Metacognitive Strategies]] | — | — | Competence: The Experience of Effectance | 193 |
 | 34 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Competence: The Experience of Effectance | 197 |
 | 35 | [[Communities-of-Practice|Communities of Practice]] | — | — | Relatedness: The Experience of Genuin... | 213 |
 | 36 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 Integration with Self-Regulated Lea... | 217 |
@@ -389,7 +389,7 @@ extraction_summary:
 | 41 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎓 Application to High-Performance Kno... | 285 |
 | 42 | [[Flow-Theory|Flow Theory]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 43 | [[Spacing-Effect|Spacing Effect]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
-| 44 | [[Interleaving]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
+| 44 | [[interleaving]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 45 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 46 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🎓 Application to High-Performance Kno... | 291 |
 | 47 | [[Stoicism]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
@@ -450,15 +450,15 @@ extraction_summary:
 - [[Edward-Deci|Edward Deci]]
 - [[Eudaimonia]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
-- [[Flow State]]
+- [[Flow-State|Flow State]]
 - [[Flow-Theory|Flow Theory]]
 - [[Goal-Setting-Theory|Goal-Setting Theory]]
 - [[Integrated-Regulation|Integrated Regulation]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Internalization]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies|Metacognitive Strategies]]
 - [[Mindfulness and Need Satisfaction]]
 - [[Neuroplasticity]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]

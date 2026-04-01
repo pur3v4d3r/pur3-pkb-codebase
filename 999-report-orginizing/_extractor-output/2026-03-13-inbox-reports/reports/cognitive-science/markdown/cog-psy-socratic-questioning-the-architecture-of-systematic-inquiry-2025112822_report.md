@@ -358,7 +358,7 @@ extraction_summary:
 - [[Elements of Thought - The Architecture of Reasoning]]
 - [[Elenchus|Elenchus]]
 - [[Epistemic-Humility|Epistemic Humility]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 - [[Evidence-Based Reasoning]]
 - [[False Dichotomy Thinking]]
 - [[Forward Reasoning]]
@@ -534,7 +534,7 @@ extraction_summary:
 | 108 | [[Argument-Analysis|Argument Analysis]] | — | — | 🔗 Related Topics for PKB Expansion | 553 |
 | 109 | [[Intellectual-Standards|Intellectual Standards]] | — | — | 🔗 Related Topics for PKB Expansion | 553 |
 | 110 | [[Intellectual Standards in Critical Thinking - The Quality Criteria for Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 555 |
-| 111 | [[Epistemic Justification]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
+| 111 | [[epistemic-justification|Epistemic Justification]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
 | 112 | [[Truth-Seeking]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
 | 113 | [[Rational Discourse]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
 | 114 | [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 560 |
@@ -613,7 +613,7 @@ extraction_summary:
 - [[Elements of Thought - The Architecture of Reasoning]]
 - [[Elenchus|Elenchus]]
 - [[Epistemic-Humility|Epistemic Humility]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 - [[Evidence-Based Reasoning]]
 - [[False Dichotomy Thinking]]
 - [[Forward Reasoning]]

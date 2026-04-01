@@ -264,7 +264,7 @@ extraction_summary:
 #### 24. [CONNECTIONS-AND-LINKS] Untitled *(Line 339)*
 
 > [!connections-and-links] Untitled
-> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate-Practice|Deliberate Practice]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Transfer-of-Learning|Transfer of Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
+> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate-Practice|Deliberate Practice]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Transfer-of-Learning|Transfer of Learning]], and [[Expertise-Development|Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
 
 #### 25. [ATTENTION] Untitled *(Line 384)*
 
@@ -310,7 +310,7 @@ extraction_summary:
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Executive-Function|Executive Function]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Feedback Loops]]
 - [[Forethought-Phase|Forethought Phase]]
 - [[Goal Setting]]
@@ -322,7 +322,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and Illusions of Competence]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies|Metacognitive Strategies]]
 - [[Motivation]]
 - [[Neuroplasticity]]
 - [[Obsidian]]
@@ -365,7 +365,7 @@ extraction_summary:
 | 12 | [[Performance-Phase|Performance Phase]] | — | — | Claude Thinking: | 116 |
 | 13 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | Claude Thinking: | 116 |
 | 14 | [[Cognitive Strategies]] | — | — | Claude Thinking: | 116 |
-| 15 | [[Metacognitive Strategies]] | — | — | Claude Thinking: | 116 |
+| 15 | [[Metacognitive-strategies|Metacognitive Strategies]] | — | — | Claude Thinking: | 116 |
 | 16 | [[Motivation]] | — | — | Claude Thinking: | 116 |
 | 17 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 116 |
 | 18 | [[Cybernetics]] | — | — | Claude Thinking: | 116 |
@@ -388,7 +388,7 @@ extraction_summary:
 | 35 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 36 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 37 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
-| 38 | [[Expertise Development]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
+| 38 | [[Expertise-Development|Expertise Development]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 39 | [[Cognitive-Science|Cognitive Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 40 | [[Neuroplasticity]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 41 | [[Learning Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
@@ -492,7 +492,7 @@ extraction_summary:
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Executive-Function|Executive Function]]
-- [[Expertise Development]]
+- [[Expertise-Development|Expertise Development]]
 - [[Feedback Loops]]
 - [[Forethought-Phase|Forethought Phase]]
 - [[Goal Setting]]
@@ -504,7 +504,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and Illusions of Competence]]
-- [[Metacognitive Strategies]]
+- [[Metacognitive-strategies|Metacognitive Strategies]]
 - [[Motivation]]
 - [[Neuroplasticity]]
 - [[Obsidian]]

@@ -133,7 +133,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Summary *(Line 9)*
 
 > [!abstract] Executive Summary
-> [[William-James|William James]] (1842-1910) stands as a towering figure in the intellectual landscape of modern [[psychology]] and [[philosophy]], whose *Principles of Psychology* (1890) fundamentally transformed our understanding of [[Habit-Formation|habit formation]], [[consciousness]], and mental life. As the inaugural professor of psychology at [[Harvard-University|Harvard University]] and a founding architect of [[American-pragmatism|American pragmatism]], James synthesized insights from [[evolutionary-theory|evolutionary theory]], [[neurology]], and [[phenomenology]] to construct a vision of mind that emphasized [[plasticity]], [[adaptation]], and the primacy of experience. His treatment of habit—conceptualized as neurological pathway formation through repeated experience—anticipated contemporary [[neuroscience]] discoveries by more than a century while simultaneously providing the psychological foundations that profoundly influenced [[John-Dewey|John Dewey]]'s educational philosophy and the broader [[progressive education]] movement.
+> [[William-James|William James]] (1842-1910) stands as a towering figure in the intellectual landscape of modern [[psychology]] and [[philosophy]], whose *Principles of Psychology* (1890) fundamentally transformed our understanding of [[Habit-Formation|habit formation]], [[consciousness]], and mental life. As the inaugural professor of psychology at [[Harvard-University|Harvard University]] and a founding architect of [[American-pragmatism|American pragmatism]], James synthesized insights from [[evolutionary-theory|evolutionary theory]], [[neurology]], and [[phenomenology]] to construct a vision of mind that emphasized [[plasticity]], [[adaptation]], and the primacy of experience. His treatment of habit—conceptualized as neurological pathway formation through repeated experience—anticipated contemporary [[neuroscience]] discoveries by more than a century while simultaneously providing the psychological foundations that profoundly influenced [[John-Dewey|John Dewey]]'s educational philosophy and the broader [[progressive-education|progressive education]] movement.
 
 #### 2. [THE-PHILOSOPHY] Core Philosophy *(Line 14)*
 
@@ -178,7 +178,7 @@ extraction_summary:
 #### 10. [INSIGHT] The Fringe of Consciousness *(Line 84)*
 
 > [!insight] The Fringe of Consciousness
-> James's concept of the "fringe" or "psychic overtone" surrounding focal awareness anticipated contemporary research on [[implicit cognition]], [[subliminal perception]], and [[contextual effects]]. He recognized that "every definite image in the mind is steeped and dyed in the free water that flows round it. With it goes the sense of its relations, near and remote, the dying echo of whence it came to us, the dawning sense of whither it is to lead." This "halo of relations" provides meaning and context, explaining how we experience [[semantic relationships]], [[goal-directedness]], and the [[tip-of-the-tongue]] phenomenon where we sense knowledge hovering just beyond explicit recall.
+> James's concept of the "fringe" or "psychic overtone" surrounding focal awareness anticipated contemporary research on [[implicit cognition]], [[subliminal-perception|subliminal perception]], and [[contextual effects]]. He recognized that "every definite image in the mind is steeped and dyed in the free water that flows round it. With it goes the sense of its relations, near and remote, the dying echo of whence it came to us, the dawning sense of whither it is to lead." This "halo of relations" provides meaning and context, explaining how we experience [[semantic relationships]], [[goal-directedness]], and the [[tip-of-the-tongue]] phenomenon where we sense knowledge hovering just beyond explicit recall.
 
 #### 11. [EVIDENCE] Adoption in Educational Institutions *(Line 99)*
 
@@ -248,7 +248,7 @@ extraction_summary:
 #### 24. [TOPIC-IDEA] [[Contemporary Habit Theory in Behavioral Economics]] *(Line 182)*
 
 > [!topic-idea] [[Contemporary Habit Theory in Behavioral Economics]]
-> Modern [[behavioral economics]] resurrects Jamesian themes through research on [[decision heuristics]], [[default options]], [[choice architecture]], and the pervasive role of habits in economic behavior. Figures like [[Daniel-Kahneman|Daniel Kahneman]], [[Richard Thaler]], and [[Cass Sunstein]] extend James's insights into policy domains, designing "nudges" that leverage automatic processes to promote beneficial outcomes.
+> Modern [[behavioral economics]] resurrects Jamesian themes through research on [[decision heuristics]], [[default options]], [[choice-architecture|choice architecture]], and the pervasive role of habits in economic behavior. Figures like [[Daniel-Kahneman|Daniel Kahneman]], [[Richard Thaler]], and [[Cass Sunstein]] extend James's insights into policy domains, designing "nudges" that leverage automatic processes to promote beneficial outcomes.
 
 #### 25. [CITE] Untitled *(Line 187)*
 
@@ -342,8 +342,8 @@ extraction_summary:
 - [[Neuroscience Fundamentals]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Pragmatism]]
-- [[Prefrontal cortex]]
+- [[pragmatism]]
+- [[prefrontal-cortex|Prefrontal cortex]]
 - [[Psychoanalysts]]
 - [[REM sleep]]
 - [[Richard Thaler]]
@@ -373,18 +373,18 @@ extraction_summary:
 - [[attentional ruts]]
 - [[automatic processes]]
 - [[Automaticity]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[behavioral economics]]
 - [[biological]]
 - [[brain anatomy]]
 - [[brain lesions]]
 - [[calcium]]
-- [[choice architecture]]
+- [[choice-architecture|choice architecture]]
 - [[Cognitive-Control|cognitive control]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Reappraisal|cognitive reappraisal]]
 - [[comparative anatomy]]
-- [[conscious attention]]
+- [[conscious-attention|conscious attention]]
 - [[consciousness]]
 - [[contextual effects]]
 - [[continuity]]
@@ -462,13 +462,13 @@ extraction_summary:
 - [[plasticity]]
 - [[practice]]
 - [[pragmatic philosophy]]
-- [[Pragmatism]]
-- [[prefrontal cortex]]
+- [[pragmatism]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[problem-based]]
 - [[procedural learning]]
 - [[Procedural-Memory|procedural memory]]
 - [[process philosophy]]
-- [[progressive education]]
+- [[progressive-education|progressive education]]
 - [[protein kinase]]
 - [[psychology]]
 - [[psychophysics]]
@@ -485,11 +485,11 @@ extraction_summary:
 - [[sleep]]
 - [[slow-wave sleep]]
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
-- [[striatum]]
+- [[Striatum]]
 - [[structuralism]]
 - [[student engagement]]
 - [[subjective experience]]
-- [[subliminal perception]]
+- [[subliminal-perception|subliminal perception]]
 - [[substantia nigra]]
 - [[synaptic efficacy]]
 - [[synaptic mechanisms]]
@@ -520,10 +520,10 @@ extraction_summary:
 | 12 | [[adaptation]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 13 | [[neuroscience]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 14 | [[John-Dewey|John Dewey]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
-| 15 | [[progressive education]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
+| 15 | [[progressive-education|progressive education]] | — | — | 📥 Introduction & Context: The Philoso... | 10 |
 | 16 | [[Skill-Acquisition|skill acquisition]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
 | 17 | [[Automaticity]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
-| 18 | [[conscious attention]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
+| 18 | [[conscious-attention|conscious attention]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
 | 19 | [[Procedural-Memory|procedural memory]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
 | 20 | [[Working-Memory|working memory]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
 | 21 | [[Attention]] | — | — | 📥 Introduction & Context: The Philoso... | 12 |
@@ -580,7 +580,7 @@ extraction_summary:
 | 72 | [[neurology]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 73 | [[brain anatomy]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 74 | [[experimental methods]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
-| 75 | [[Pragmatism]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
+| 75 | [[pragmatism]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 76 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | 📜 Historical Foundations: From Medici... | 33 |
 | 77 | [[nervous tissue]] | — | — | Layer 1: Foundational Understanding o... | 40 |
 | 78 | [[neural pathways]] | — | — | Layer 1: Foundational Understanding o... | 40 |
@@ -606,7 +606,7 @@ extraction_summary:
 | 98 | [[pragmatic philosophy]] | — | — | Layer 3: Integration with Broader Fra... | 65 |
 | 99 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | Layer 4: Advanced Synthesis and Resea... | 69 |
 | 100 | [[synaptic plasticity]] | — | — | Layer 4: Advanced Synthesis and Resea... | 69 |
-| 101 | [[basal ganglia]] | — | — | Layer 4: Advanced Synthesis and Resea... | 69 |
+| 101 | [[Basal-Ganglia|basal ganglia]] | — | — | Layer 4: Advanced Synthesis and Resea... | 69 |
 | 102 | [[procedural learning]] | — | — | Layer 4: Advanced Synthesis and Resea... | 69 |
 | 103 | [[cortico-striatal]] | — | — | Layer 4: Advanced Synthesis and Resea... | 69 |
 | 104 | [[Declarative-Memory|declarative memory]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
@@ -614,13 +614,13 @@ extraction_summary:
 | 106 | [[patient H.M.]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 107 | [[dopamine]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 108 | [[reward learning]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
-| 109 | [[prefrontal cortex]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
+| 109 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 110 | [[addiction]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 111 | [[continuity]] | — | — | The Continuous Flow of Mental Life | 78 |
 | 112 | [[selectivity]] | — | — | The Continuous Flow of Mental Life | 78 |
 | 113 | [[personal]] | — | — | The Continuous Flow of Mental Life | 78 |
 | 114 | [[implicit cognition]] | — | — | The Continuous Flow of Mental Life | 85 |
-| 115 | [[subliminal perception]] | — | — | The Continuous Flow of Mental Life | 85 |
+| 115 | [[subliminal-perception|subliminal perception]] | — | — | The Continuous Flow of Mental Life | 85 |
 | 116 | [[contextual effects]] | — | — | The Continuous Flow of Mental Life | 85 |
 | 117 | [[semantic relationships]] | — | — | The Continuous Flow of Mental Life | 85 |
 | 118 | [[goal-directedness]] | — | — | The Continuous Flow of Mental Life | 85 |
@@ -650,7 +650,7 @@ extraction_summary:
 | 142 | [[neurotransmitters]] | — | — | Critical Reception and Alternative Fr... | 113 |
 | 143 | [[neural networks]] | — | — | Critical Reception and Alternative Fr... | 113 |
 | 144 | [[Memory-Systems|memory systems]] | — | — | Critical Reception and Alternative Fr... | 113 |
-| 145 | [[progressive education]] | — | — | Talks to Teachers and Pedagogical Pra... | 119 |
+| 145 | [[progressive-education|progressive education]] | — | — | Talks to Teachers and Pedagogical Pra... | 119 |
 | 146 | [[voluntary attention]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 147 | [[interest]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 148 | [[external discipline]] | — | — | Attention, Interest, and the Classroom | 128 |
@@ -671,8 +671,8 @@ extraction_summary:
 | 163 | [[neuroimaging]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 164 | [[lesion studies]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 165 | [[electrophysiology]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
-| 166 | [[basal ganglia]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
-| 167 | [[striatum]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
+| 166 | [[Basal-Ganglia|basal ganglia]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
+| 167 | [[Striatum]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 168 | [[thalamus]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 169 | [[dorsolateral striatum]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 170 | [[dorsomedial striatum]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
@@ -691,7 +691,7 @@ extraction_summary:
 | 183 | [[REM sleep]] | — | — | Implications for Education and Interv... | 148 |
 | 184 | [[habit interruption]] | — | — | Implications for Education and Interv... | 150 |
 | 185 | [[Cognitive-Control|cognitive control]] | — | — | Implications for Education and Interv... | 150 |
-| 186 | [[Prefrontal cortex]] | — | — | Implications for Education and Interv... | 150 |
+| 186 | [[prefrontal-cortex|Prefrontal cortex]] | — | — | Implications for Education and Interv... | 150 |
 | 187 | [[dorsolateral prefrontal cortex]] | — | — | Implications for Education and Interv... | 150 |
 | 188 | [[executive functions]] | — | — | Implications for Education and Interv... | 150 |
 | 189 | [[mindfulness]] | — | — | Implications for Education and Interv... | 150 |
@@ -739,13 +739,13 @@ extraction_summary:
 | 231 | [[behavioral economics]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 232 | [[decision heuristics]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 233 | [[default options]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
-| 234 | [[choice architecture]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
+| 234 | [[choice-architecture|choice architecture]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 235 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 236 | [[Richard Thaler]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 237 | [[Cass Sunstein]] | — | — | 🎯 Synthesis & Conclusion: The Endurin... | 183 |
 | 238 | [[Educational-Psychology|Educational Psychology]] | — | — | 📚 References & Resources | 217 |
 | 239 | [[History of Psychology]] | — | — | 📚 References & Resources | 217 |
-| 240 | [[Pragmatism]] | — | — | 📚 References & Resources | 217 |
+| 240 | [[pragmatism]] | — | — | 📚 References & Resources | 217 |
 | 241 | [[Basic Psychology]] | — | — | 📚 References & Resources | 220 |
 | 242 | [[Neuroscience Fundamentals]] | — | — | 📚 References & Resources | 220 |
 | 243 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | 📚 References & Resources | 220 |
@@ -835,8 +835,8 @@ extraction_summary:
 - [[Neuroscience Fundamentals]]
 - [[Oliver Wendell Holmes Jr.]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Pragmatism]]
-- [[Prefrontal cortex]]
+- [[pragmatism]]
+- [[prefrontal-cortex|Prefrontal cortex]]
 - [[Psychoanalysts]]
 - [[REM sleep]]
 - [[Richard Thaler]]
@@ -866,18 +866,18 @@ extraction_summary:
 - [[attentional ruts]]
 - [[automatic processes]]
 - [[Automaticity]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[behavioral economics]]
 - [[biological]]
 - [[brain anatomy]]
 - [[brain lesions]]
 - [[calcium]]
-- [[choice architecture]]
+- [[choice-architecture|choice architecture]]
 - [[Cognitive-Control|cognitive control]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Reappraisal|cognitive reappraisal]]
 - [[comparative anatomy]]
-- [[conscious attention]]
+- [[conscious-attention|conscious attention]]
 - [[consciousness]]
 - [[contextual effects]]
 - [[continuity]]
@@ -955,13 +955,13 @@ extraction_summary:
 - [[plasticity]]
 - [[practice]]
 - [[pragmatic philosophy]]
-- [[Pragmatism]]
-- [[prefrontal cortex]]
+- [[pragmatism]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[problem-based]]
 - [[procedural learning]]
 - [[Procedural-Memory|procedural memory]]
 - [[process philosophy]]
-- [[progressive education]]
+- [[progressive-education|progressive education]]
 - [[protein kinase]]
 - [[psychology]]
 - [[psychophysics]]
@@ -978,11 +978,11 @@ extraction_summary:
 - [[sleep]]
 - [[slow-wave sleep]]
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
-- [[striatum]]
+- [[Striatum]]
 - [[structuralism]]
 - [[student engagement]]
 - [[subjective experience]]
-- [[subliminal perception]]
+- [[subliminal-perception|subliminal perception]]
 - [[substantia nigra]]
 - [[synaptic efficacy]]
 - [[synaptic mechanisms]]

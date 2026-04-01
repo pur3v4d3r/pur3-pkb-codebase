@@ -397,7 +397,7 @@ extraction_summary:
 - [[Burden of Proof]]
 - [[Calibrated Probability Judgment]]
 - [[Calibration of Confidence]]
-- [[Choice Architecture]]
+- [[choice-architecture|Choice Architecture]]
 - [[Claim-Reason-Warrant Structure]]
 - [[Cognitive Bias Debiasing and Mitigation Strategies]]
 - [[Cognitive Bias Fundamentals]]
@@ -434,7 +434,7 @@ extraction_summary:
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Assumptions]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 - [[Epistemic Uncertainty Tolerance]]
 - [[Epistemic Vigilance and Epistemic Humility]]
 - [[Epistemic Virtue Theory]]
@@ -473,7 +473,7 @@ extraction_summary:
 - [[Nudge Theory]]
 - [[Open-Mindedness]]
 - [[Outside View (Reference Class Forecasting)]]
-- [[Overconfidence Bias]]
+- [[Overconfidence-Bias|Overconfidence Bias]]
 - [[Parallel Competitive Model]]
 - [[Perry's Scheme of Intellectual Development]]
 - [[Personal Epistemology]]
@@ -487,12 +487,12 @@ extraction_summary:
 - [[Rationality Debate]]
 - [[Rebuttal and Refutation]]
 - [[Red Team Analysis]]
-- [[Reflective Judgment Model]]
+- [[Reflective-Judgment-Model|Reflective Judgment Model]]
 - [[Reflective Judgment and Epistemic Cognition Development]]
 - [[Reflective Mind]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective-Thinking|Reflective Thinking]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
@@ -529,7 +529,7 @@ extraction_summary:
 | 8 | [[Belief Revision Mechanisms]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 93 |
 | 9 | [[Socratic-Ignorance|Socratic Ignorance]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 94 |
 | 10 | [[Argumentative Theory of Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 95 |
-| 11 | [[Overconfidence Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 96 |
+| 11 | [[Overconfidence-Bias|Overconfidence Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 96 |
 | 12 | [[Calibrated Probability Judgment]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 97 |
 | 13 | [[Open-Mindedness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 98 |
 | 14 | [[Intellectual Virtue Ethics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 99 |
@@ -613,13 +613,13 @@ extraction_summary:
 | 92 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 245 |
 | 93 | [[Anchoring Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 246 |
 | 94 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 247 |
-| 95 | [[Representativeness Heuristic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 248 |
+| 95 | [[representativeness-heuristic|Representativeness Heuristic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 248 |
 | 96 | [[Hindsight-Bias|Hindsight Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 249 |
 | 97 | [[Consider-the-Opposite Strategy]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 250 |
 | 98 | [[Premortem Technique]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 251 |
 | 99 | [[Outside View (Reference Class Forecasting)]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 252 |
 | 100 | [[Nudge Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 253 |
-| 101 | [[Choice Architecture]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 254 |
+| 101 | [[choice-architecture|Choice Architecture]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 254 |
 | 102 | [[Ecological-Rationality|Ecological Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 255 |
 | 103 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 256 |
 | 104 | [[Bias Blind Spot]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 257 |
@@ -635,7 +635,7 @@ extraction_summary:
 | 114 | [[Rationality Concepts]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 269 |
 | 115 | [[Statistical Thinking Basics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 269 |
 | 116 | [[Reflective Judgment and Epistemic Cognition Development]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 279 |
-| 117 | [[Reflective Judgment Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 287 |
+| 117 | [[Reflective-Judgment-Model|Reflective Judgment Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 287 |
 | 118 | [[Ill-Structured-Problems|Ill-Structured Problems]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 288 |
 | 119 | [[Epistemic Assumptions]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 289 |
 | 120 | [[Pre-Reflective Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 290 |
@@ -657,7 +657,7 @@ extraction_summary:
 | 136 | [[Personal Epistemology]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 306 |
 | 137 | [[Ways of Knowing]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 307 |
 | 138 | [[Piaget's Developmental Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 311 |
-| 139 | [[Epistemic Justification]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 311 |
+| 139 | [[epistemic-justification|Epistemic Justification]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 311 |
 | 140 | [[Constructivism in Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 311 |
 | 141 | [[Applied Logic]] | — | — | Further Exploration | 1121 |
 | 142 | [[Cognitive Restructuring]] | — | — | Further Exploration | 1121 |
@@ -724,7 +724,7 @@ Epistemic vigilance represents the cognitive machinery that evolved to help huma
 - [[Belief Revision Mechanisms]]
 - [[Socratic-Ignorance|Socratic Ignorance]]
 - [[Argumentative Theory of Reasoning]]
-- [[Overconfidence Bias]]
+- [[Overconfidence-Bias|Overconfidence Bias]]
 - [[Calibrated Probability Judgment]]
 - [[Open-Mindedness]]
 - [[Intellectual Virtue Ethics]]
@@ -862,13 +862,13 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Anchoring Bias]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Consider-the-Opposite Strategy]]
 - [[Premortem Technique]]
 - [[Outside View (Reference Class Forecasting)]]
 - [[Nudge Theory]]
-- [[Choice Architecture]]
+- [[choice-architecture|Choice Architecture]]
 - [[Ecological-Rationality|Ecological Rationality]]
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Bias Blind Spot]]
@@ -895,7 +895,7 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 **Why This Topic is Foundationally Rich**:
 King & Kitchener's Reflective Judgment Model (RJM) represents one of the most empirically validated developmental frameworks for understanding how adults reason about complex, uncertain problems. It traces a seven-stage progression from pre-reflective (knowledge is certain and obtained directly) through quasi-reflective (knowledge is uncertain but this causes epistemic paralysis) to reflective thinking (knowledge is constructed through evidence and argument evaluation). This directly addresses your systematic self-questioning goal by providing a developmental roadmap. It connects to Perry's scheme, Kuhn's argumentative reasoning work, Baxter Magolda's epistemological reflection model, and integrates with your interest in Stoic epistemic practices (Epictetus on distinguishing what's "up to us" vs. externals mirrors epistemic judgment). The longitudinal research spans decades with clear implications for critical thinking pedagogy.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Reflective Judgment Model]]
+- [[Reflective-Judgment-Model|Reflective Judgment Model]]
 - [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Epistemic Assumptions]]
 - [[Pre-Reflective Thinking]]
@@ -1206,7 +1206,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Burden of Proof]]
 - [[Calibrated Probability Judgment]]
 - [[Calibration of Confidence]]
-- [[Choice Architecture]]
+- [[choice-architecture|Choice Architecture]]
 - [[Claim-Reason-Warrant Structure]]
 - [[Cognitive Bias Debiasing and Mitigation Strategies]]
 - [[Cognitive Bias Fundamentals]]
@@ -1243,7 +1243,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Assumptions]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 - [[Epistemic Uncertainty Tolerance]]
 - [[Epistemic Vigilance and Epistemic Humility]]
 - [[Epistemic Virtue Theory]]
@@ -1282,7 +1282,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Nudge Theory]]
 - [[Open-Mindedness]]
 - [[Outside View (Reference Class Forecasting)]]
-- [[Overconfidence Bias]]
+- [[Overconfidence-Bias|Overconfidence Bias]]
 - [[Parallel Competitive Model]]
 - [[Perry's Scheme of Intellectual Development]]
 - [[Personal Epistemology]]
@@ -1296,12 +1296,12 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Rationality Debate]]
 - [[Rebuttal and Refutation]]
 - [[Red Team Analysis]]
-- [[Reflective Judgment Model]]
+- [[Reflective-Judgment-Model|Reflective Judgment Model]]
 - [[Reflective Judgment and Epistemic Cognition Development]]
 - [[Reflective Mind]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Reflective-Thinking|Reflective Thinking]]
-- [[Representativeness Heuristic]]
+- [[representativeness-heuristic|Representativeness Heuristic]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]

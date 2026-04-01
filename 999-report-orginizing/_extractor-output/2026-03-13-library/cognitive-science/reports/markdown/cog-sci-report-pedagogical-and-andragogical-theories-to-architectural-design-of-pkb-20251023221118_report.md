@@ -461,7 +461,7 @@ extraction_summary:
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Heutagogy]]
 - [[Kiewra et al. (1991)]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[Luhmann's productivity]]
 - [[Metacognition]]
 - [[Mueller & Oppenheimer (2014)]]
@@ -498,7 +498,7 @@ extraction_summary:
 | 19 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 327 |
 | 20 | [[Metacognition]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 330 |
 | 21 | [[Distributed Cognition Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 394 |
-| 22 | [[Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 395 |
+| 22 | [[Knowledge-Graph-Theory|Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 395 |
 | 23 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 396 |
 | 24 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 397 |
 | 25 | [[Conceptual Metaphor Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 398 |
@@ -632,7 +632,7 @@ I'll structure the article following the provided template, incorporating rich e
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Heutagogy]]
 - [[Kiewra et al. (1991)]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[Luhmann's productivity]]
 - [[Metacognition]]
 - [[Mueller & Oppenheimer (2014)]]

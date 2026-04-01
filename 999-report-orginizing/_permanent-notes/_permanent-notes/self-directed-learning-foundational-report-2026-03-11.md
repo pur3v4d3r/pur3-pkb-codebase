@@ -23,21 +23,20 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 16
+referenced-by-count: 15
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Andragogy]]"
   - "[[Double-Loop-Learning]]"
   - "[[Heutagogy]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[SDL-as-Educational-Goal]]"
   - "[[Self-Directed-Learning]]"
   - "[[Self-Directed-Learning-Readiness-Scale]]"
+  - "[[Self-Directedness-Trait-or-Readiness-Sense]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # self-directed-learning-foundational-report-2026-03-11
 
 > [!definition] **self-directed-learning-foundational-report-2026-03-11**
-> *Stub note — concept referenced by 16 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 16 permanent notes.*
+*Auto-generated stub — referenced by 15 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Andragogy]]
 - [[Double-Loop-Learning]]
 - [[Heutagogy]]

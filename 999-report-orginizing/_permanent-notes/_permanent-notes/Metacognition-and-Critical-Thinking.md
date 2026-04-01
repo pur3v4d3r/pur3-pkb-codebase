@@ -24,21 +24,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 51
+referenced-by-count: 50
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Abduction]]"
   - "[[Abductive-Competence]]"
   - "[[Abductive-Reasoning]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Analogical-Reasoning]]"
   - "[[Anomaly]]"
   - "[[Availability-Heuristic]]"
+  - "[[Bayesian-Inference]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: high
 # Metacognition-and-Critical-Thinking
 
 > [!definition] **Metacognition-and-Critical-Thinking**
-> *Stub note — concept referenced by 51 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 51 permanent notes.*
+*Auto-generated stub — referenced by 50 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Abduction]]
 - [[Abductive-Competence]]
 - [[Abductive-Reasoning]]
@@ -86,4 +85,5 @@ importance: high
 - [[Defeasibility]]
 - [[Defeat-Defeater]]
 - [[Deliberative-Democracy]]
-- *...and 31 more permanent notes*
+- [[Enumerative-Induction]]
+- *...and 30 more permanent notes*

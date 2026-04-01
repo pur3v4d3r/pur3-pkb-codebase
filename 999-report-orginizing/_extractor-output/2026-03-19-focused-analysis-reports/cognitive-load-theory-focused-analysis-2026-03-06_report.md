@@ -358,15 +358,15 @@ extraction_summary:
 > 
 > - **[[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]** — CLT is, at its foundation, an application of schema theory to the instructional design problem. The two nodes have a direct dependency relationship: CLT's account of why worked examples work and why expertise changes optimal instruction depends entirely on the schema theory account of how long-term memory is structured and how schemas undergo automation. Reading CLT without schema theory provides effects without mechanisms; reading schema theory without CLT misses its most practically significant instantiation. These nodes should be linked bidirectionally with CLT-focused annotations on the schema theory node explaining which schema processes are most instructionally consequential.
 > 
-> - **[[Expertise Development and Deliberate Practice]]** — The expertise reversal effect intersects directly with research on expert performance. CLT's account of expertise (schema automation reducing effective element interactivity) provides a cognitive architecture account of what deliberate practice actually does cognitively. Conversely, Ericsson's deliberate practice framework provides a motivational and task-structure account of how the schema construction that CLT theorizes actually gets operationalized in high-achievement domains. The expertise reversal effect adds an important cautionary note to deliberate practice-informed instruction: expert coaching must be sensitive to expertise level not just to maximize benefit but to avoid actively harming the learners it targets.
+> - **[[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]** — The expertise reversal effect intersects directly with research on expert performance. CLT's account of expertise (schema automation reducing effective element interactivity) provides a cognitive architecture account of what deliberate practice actually does cognitively. Conversely, Ericsson's deliberate practice framework provides a motivational and task-structure account of how the schema construction that CLT theorizes actually gets operationalized in high-achievement domains. The expertise reversal effect adds an important cautionary note to deliberate practice-informed instruction: expert coaching must be sensitive to expertise level not just to maximize benefit but to avoid actively harming the learners it targets.
 > 
 > - **[[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]** — The calibration exercises embedded in this report reflect a deep connection between CLT and metacognitive research. CLT's expertise reversal effect assumes learners' working memory is being used efficiently; but research on metacognitive accuracy (Dunning-Kruger and related phenomena) shows that learners frequently misjudge their own expertise state. An important extension of CLT is the question of whether teaching learners to accurately monitor their own cognitive load would improve the effectiveness of CLT-informed instruction — a question that sits precisely at the intersection of CLT and metacognition research.
 > 
-> - **[[Desirable Difficulties — Bjork]]** — This node represents a productive tension with CLT that deserves careful analysis rather than simple integration. Bjork's desirable difficulties (spacing, interleaving, retrieval practice, generation effect) improve long-term retention by increasing encoding effort — which appears to contradict CLT's load-reduction emphasis. The resolution requires the schema-construction/extraneous load distinction: desirable difficulties increase schema-construction effort (productive) rather than extraneous effort (wasteful). But the practical implication — that sometimes harder is better — creates genuine instructional design tension that neither CLT nor desirable difficulties research alone fully resolves.
+> - **[[Desirable-Difficulties-—-Bjork|Desirable Difficulties — Bjork]]** — This node represents a productive tension with CLT that deserves careful analysis rather than simple integration. Bjork's desirable difficulties (spacing, interleaving, retrieval practice, generation effect) improve long-term retention by increasing encoding effort — which appears to contradict CLT's load-reduction emphasis. The resolution requires the schema-construction/extraneous load distinction: desirable difficulties increase schema-construction effort (productive) rather than extraneous effort (wasteful). But the practical implication — that sometimes harder is better — creates genuine instructional design tension that neither CLT nor desirable difficulties research alone fully resolves.
 > 
-> - **[[Multimedia Learning Theory — Mayer]]** — Richard Mayer's Cognitive Theory of Multimedia Learning is explicitly grounded in CLT but extends it into multimedia environments with a rich empirical program. The split-attention effect and redundancy effect that CLT identifies have direct counterparts in Mayer's coherence principle and redundancy principle. This node should be understood as a domain-specific application of CLT to digital and multimedia learning environments, with its own substantial empirical program that both validates CLT's core mechanisms and refines its application in technology-rich contexts.
+> - **[[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]]** — Richard Mayer's Cognitive Theory of Multimedia Learning is explicitly grounded in CLT but extends it into multimedia environments with a rich empirical program. The split-attention effect and redundancy effect that CLT identifies have direct counterparts in Mayer's coherence principle and redundancy principle. This node should be understood as a domain-specific application of CLT to digital and multimedia learning environments, with its own substantial empirical program that both validates CLT's core mechanisms and refines its application in technology-rich contexts.
 > 
-> - **[[Instructional Design Models — Overview]]** — CLT has become one of the most influential frameworks in contemporary instructional design, informing models like van Merriënboer's [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]] model, which represents one of the most comprehensive attempts to operationalize CLT's principles in a complete instructional design methodology. The foundational ID models node should cross-reference CLT as both a theoretical foundation for evidence-based instructional design and a framework whose prescriptions have been most clearly operationalized in the 4C/ID model.
+> - **[[Instructional-Design-Models-—-Overview|Instructional Design Models — Overview]]** — CLT has become one of the most influential frameworks in contemporary instructional design, informing models like van Merriënboer's [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]] model, which represents one of the most comprehensive attempts to operationalize CLT's principles in a complete instructional design methodology. The foundational ID models node should cross-reference CLT as both a theoretical foundation for evidence-based instructional design and a framework whose prescriptions have been most clearly operationalized in the 4C/ID model.
 > 
 > **Synthetic Observation**: The pattern of connections from this CLT analysis reveals something important about the theory's position in the knowledge landscape: CLT functions as a **theoretical bridge node** — it connects the cognitive architecture of individual minds (working memory, schema theory) to practical instructional decision-making, and it generates testable predictions that intersect with almost every other active research program in educational psychology and learning science. Its connections are not peripheral but structural. Understanding CLT well is not just understanding one theory; it is understanding the connective tissue of a large region of educational psychology.
 
@@ -532,20 +532,20 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive load]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulties and the Effortful Encoding Paradox]]
-- [[Desirable Difficulties — Bjork]]
+- [[Desirable-Difficulties-—-Bjork|Desirable Difficulties — Bjork]]
 - [[Desirable-Difficulties|Desirable difficulties]]
 - [[Educational-Psychology|Educational Psychology]]
 - [[Element-Interactivity|Element interactivity]]
-- [[Expertise Development and Deliberate Practice]]
+- [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Faded Worked Examples and Adaptive Instructional Design]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]
-- [[Instructional Design Models — Overview]]
+- [[Instructional-Design-Models-—-Overview|Instructional Design Models — Overview]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Multimedia Learning Theory]]
 - [[Multimedia Learning Theory and the Cognitive Theory of Multimedia Learning]]
-- [[Multimedia Learning Theory — Mayer]]
+- [[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]]
 - [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]
 - [[Self-Explanation Effect and Active Learning from Examples]]
 - [[Self-Determination-Theory|Self-determination theory]]
@@ -563,7 +563,7 @@ extraction_summary:
 - [[expertise-reversal|expertise reversal]]
 - [[Expertise-Reversal-Effect|expertise reversal effect]]
 - [[faded-worked-example|faded worked example]]
-- [[flow states]]
+- [[flow-states|flow states]]
 - [[Germane-Cognitive-Load|germane cognitive load]]
 - [[Germane-Load|germane load]]
 - [[Guidance-Fading-Principle|guidance fading principle]]
@@ -642,7 +642,7 @@ extraction_summary:
 | 52 | [[Cognitive-Load|Cognitive load]] | — | — | Honest Assessment of Limitations | 487 |
 | 53 | [[Self-Determination-Theory|Self-determination theory]] | — | — | Honest Assessment of Limitations | 491 |
 | 54 | [[interest]] | — | — | Honest Assessment of Limitations | 491 |
-| 55 | [[flow states]] | — | — | Honest Assessment of Limitations | 491 |
+| 55 | [[flow-states|flow states]] | — | — | Honest Assessment of Limitations | 491 |
 | 56 | [[self-explanation]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 57 | [[Desirable-Difficulties|desirable difficulties]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 58 | [[Retrieval-Practice|retrieval practice]] | — | — | The Three-Load Framework Revisited: W... | 514 |
@@ -650,11 +650,11 @@ extraction_summary:
 | 60 | [[Multimedia Learning Theory]] | — | — | The Central Question Revisited | 539 |
 | 61 | [[Adaptive-Instruction|Adaptive Instruction]] | — | — | The Central Question Revisited | 539 |
 | 62 | [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
-| 63 | [[Expertise Development and Deliberate Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 550 |
+| 63 | [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 550 |
 | 64 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 552 |
-| 65 | [[Desirable Difficulties — Bjork]] | — | — | Phase VII: PKB Connections & Cross-Re... | 554 |
-| 66 | [[Multimedia Learning Theory — Mayer]] | — | — | Phase VII: PKB Connections & Cross-Re... | 556 |
-| 67 | [[Instructional Design Models — Overview]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
+| 65 | [[Desirable-Difficulties-—-Bjork|Desirable Difficulties — Bjork]] | — | — | Phase VII: PKB Connections & Cross-Re... | 554 |
+| 66 | [[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]] | — | — | Phase VII: PKB Connections & Cross-Re... | 556 |
+| 67 | [[Instructional-Design-Models-—-Overview|Instructional Design Models — Overview]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
 | 68 | [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]] | — | — | Phase VII: PKB Connections & Cross-Re... | 558 |
 | 69 | [[Working-Memory|working memory]] | — | — | A. Lexicon of Key Terms | 569 |
 | 70 | [[Element-Interactivity|element interactivity]] | — | — | A. Lexicon of Key Terms | 575 |
@@ -689,20 +689,20 @@ extraction_summary:
 - [[Cognitive-Load|Cognitive load]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulties and the Effortful Encoding Paradox]]
-- [[Desirable Difficulties — Bjork]]
+- [[Desirable-Difficulties-—-Bjork|Desirable Difficulties — Bjork]]
 - [[Desirable-Difficulties|Desirable difficulties]]
 - [[Educational-Psychology|Educational Psychology]]
 - [[Element-Interactivity|Element interactivity]]
-- [[Expertise Development and Deliberate Practice]]
+- [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Faded Worked Examples and Adaptive Instructional Design]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]
-- [[Instructional Design Models — Overview]]
+- [[Instructional-Design-Models-—-Overview|Instructional Design Models — Overview]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Multimedia Learning Theory]]
 - [[Multimedia Learning Theory and the Cognitive Theory of Multimedia Learning]]
-- [[Multimedia Learning Theory — Mayer]]
+- [[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]]
 - [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]
 - [[Self-Explanation Effect and Active Learning from Examples]]
 - [[Self-Determination-Theory|Self-determination theory]]
@@ -720,7 +720,7 @@ extraction_summary:
 - [[expertise-reversal|expertise reversal]]
 - [[Expertise-Reversal-Effect|expertise reversal effect]]
 - [[faded-worked-example|faded worked example]]
-- [[flow states]]
+- [[flow-states|flow states]]
 - [[Germane-Cognitive-Load|germane cognitive load]]
 - [[Germane-Load|germane load]]
 - [[Guidance-Fading-Principle|guidance fading principle]]
@@ -751,9 +751,9 @@ extraction_summary:
 
 #### Related
 
-- [[Expertise Development and Deliberate Practice]]
+- [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Multimedia Learning Theory — Mayer]]
+- [[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]]
 - [[Instructional Design Models]]
 - [[Skill Acquisition Theory — Anderson ACT-R]]
 
@@ -771,10 +771,10 @@ extraction_summary:
 
 #### See Also
 
-- [[Desirable Difficulties — Bjork]]
+- [[Desirable-Difficulties-—-Bjork|Desirable Difficulties — Bjork]]
 - [[Dual Coding Theory — Paivio]]
 - [[Zone of Proximal Development — Vygotsky]]
-- [[Deliberate Practice — Ericsson]]
+- [[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]
 
 #### Contrasts With
 

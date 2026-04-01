@@ -521,9 +521,9 @@ extraction_summary:
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[John-G.-Nicholls|John G. Nicholls]]
-- [[Judith Harackiewicz]]
-- [[Kenji Murayama]]
-- [[Marcy Church]]
+- [[Judith-Harackiewicz|Judith Harackiewicz]]
+- [[Kenji-Murayama|Kenji Murayama]]
+- [[Marcy-Church|Marcy Church]]
 - [[Metacognition]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
@@ -531,14 +531,14 @@ extraction_summary:
 - [[Motivational Climate Design — Applied Guide]]
 - [[Motivational-Psychology|Motivational Psychology]]
 - [[Project-Based Learning]]
-- [[Reinhard Pekrun]]
+- [[Reinhard-Pekrun|Reinhard Pekrun]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[Self-Efficacy]]
 - [[Self-Regulation]]
-- [[Sports Psychology]]
+- [[Sports-Psychology|Sports Psychology]]
 - [[Universal Design for Learning]]
 
 ### All Occurrences
@@ -580,12 +580,12 @@ extraction_summary:
 | 33 | [[Carol-S.-Dweck|Carol S. Dweck]] | — | — | The Intellectual Genealogy | 330 |
 | 34 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | The Intellectual Genealogy | 330 |
 | 35 | [[Andrew-J.-Elliot|Andrew J. Elliot]] | — | — | The Trichotomous Model | 352 |
-| 36 | [[Judith Harackiewicz]] | — | — | The Trichotomous Model | 352 |
+| 36 | [[Judith-Harackiewicz|Judith Harackiewicz]] | — | — | The Trichotomous Model | 352 |
 | 37 | [[Andrew-J.-Elliot|Andrew J. Elliot]] | — | — | The 2×2 Framework | 364 |
-| 38 | [[Marcy Church]] | — | — | The 2×2 Framework | 364 |
+| 38 | [[Marcy-Church|Marcy Church]] | — | — | The 2×2 Framework | 364 |
 | 39 | [[Andrew-J.-Elliot|Andrew J. Elliot]] | — | — | The 3×2 Model and Beyond | 385 |
-| 40 | [[Kenji Murayama]] | — | — | The 3×2 Model and Beyond | 385 |
-| 41 | [[Reinhard Pekrun]] | — | — | The 3×2 Model and Beyond | 385 |
+| 40 | [[Kenji-Murayama|Kenji Murayama]] | — | — | The 3×2 Model and Beyond | 385 |
+| 41 | [[Reinhard-Pekrun|Reinhard Pekrun]] | — | — | The 3×2 Model and Beyond | 385 |
 | 42 | [[Carol-Ames|Carol Ames]] | — | — | Ames's Motivational Climate Theory | 392 |
 | 43 | [[Educational-Psychology|Educational Psychology]] | — | — | Ames's Motivational Climate Theory | 397 |
 | 44 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Ames's Motivational Climate Theory | 397 |
@@ -598,7 +598,7 @@ extraction_summary:
 | 51 | [[Metacognition]] | — | — | Mechanism 5: Interaction with Compete... | 461 |
 | 52 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Applications in Educational and Instr... | 469 |
 | 53 | [[Educational-Psychology|Educational Psychology]] | — | — | Applications in Educational and Instr... | 469 |
-| 54 | [[Sports Psychology]] | — | — | Applications in Sports, Workplace, an... | 485 |
+| 54 | [[Sports-Psychology|Sports Psychology]] | — | — | Applications in Sports, Workplace, an... | 485 |
 | 55 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | The "So What?": What This Understandi... | 534 |
 | 56 | [[Metacognition-&-Motivation|Metacognition & Motivation]] | — | — | The "So What?": What This Understandi... | 536 |
 | 57 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | The "So What?": What This Understandi... | 538 |
@@ -650,9 +650,9 @@ extraction_summary:
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[John-G.-Nicholls|John G. Nicholls]]
-- [[Judith Harackiewicz]]
-- [[Kenji Murayama]]
-- [[Marcy Church]]
+- [[Judith-Harackiewicz|Judith Harackiewicz]]
+- [[Kenji-Murayama|Kenji Murayama]]
+- [[Marcy-Church|Marcy Church]]
 - [[Metacognition]]
 - [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
@@ -660,14 +660,14 @@ extraction_summary:
 - [[Motivational Climate Design — Applied Guide]]
 - [[Motivational-Psychology|Motivational Psychology]]
 - [[Project-Based Learning]]
-- [[Reinhard Pekrun]]
+- [[Reinhard-Pekrun|Reinhard Pekrun]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
 - [[Self-Efficacy]]
 - [[Self-Regulation]]
-- [[Sports Psychology]]
+- [[Sports-Psychology|Sports Psychology]]
 - [[Universal Design for Learning]]
 
 ### Frontmatter Relationships
@@ -686,7 +686,7 @@ extraction_summary:
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Schema-Theory|Schema Theory]]
-- [[Epistemic Curiosity]]
+- [[epistemic-curiosity|Epistemic Curiosity]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 
 #### Broader
@@ -718,7 +718,7 @@ extraction_summary:
 
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Classroom Motivational Climate]]
-- [[Sports Psychology]]
+- [[Sports-Psychology|Sports Psychology]]
 - [[Workplace Learning]]
 - [[Assessment-Design|Assessment Design]]
 
@@ -733,7 +733,7 @@ extraction_summary:
 - [[Motivational-Climate-Design|Motivational Climate Design]]
 - [[Adaptive-Instruction|Adaptive Instruction]]
 - [[Metacognitive Strategy Instruction]]
-- [[Assessment for Learning]]
+- [[Assessment-for-Learning|Assessment for Learning]]
 
 ---
 

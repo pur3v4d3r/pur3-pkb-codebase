@@ -459,7 +459,7 @@ extraction_summary:
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[David-Hume|David Hume]]
-- [[Deanna Kuhn]]
+- [[Deanna-Kuhn|Deanna Kuhn]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dual Process Theory and Its Implications for Instruction]]
@@ -485,7 +485,7 @@ extraction_summary:
 - [[Probabilistic Reasoning]]
 - [[Problem of Induction]]
 - [[Project-Based Learning]]
-- [[Richard Nisbett]]
+- [[Richard-Nisbett|Richard Nisbett]]
 - [[Richard-West|Richard West]]
 - [[Scientific-Method|Scientific Method]]
 - [[Syllogism]]
@@ -515,10 +515,10 @@ extraction_summary:
 | 17 | [[Keith-Stanovich|Keith Stanovich]] | — | — | The Cognitive Science Perspective: Du... | 330 |
 | 18 | [[Richard-West|Richard West]] | — | — | The Cognitive Science Perspective: Du... | 330 |
 | 19 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | The Cognitive Science Perspective: Du... | 330 |
-| 20 | [[Deanna Kuhn]] | — | — | Developmental Trajectories: How Reaso... | 339 |
+| 20 | [[Deanna-Kuhn|Deanna Kuhn]] | — | — | Developmental Trajectories: How Reaso... | 339 |
 | 21 | [[Jean-Piaget|Jean Piaget]] | — | — | Developmental Trajectories: How Reaso... | 341 |
 | 22 | [[Educational-Psychology|Educational Psychology]] | — | — | The Epistemological Debate: Is Reason... | 348 |
-| 23 | [[Richard Nisbett]] | — | — | The Epistemological Debate: Is Reason... | 350 |
+| 23 | [[Richard-Nisbett|Richard Nisbett]] | — | — | The Epistemological Debate: Is Reason... | 350 |
 | 24 | [[Conceptual Understanding]] | conceptual learning | — | How Deductive Reasoning Works in Lear... | 368 |
 | 25 | [[Karl-Popper|Karl Popper]] | Popper's | — | How Inductive Reasoning Works in Lear... | 380 |
 | 26 | [[Concrete Examples]] | concrete examples | — | How Inductive Reasoning Works in Lear... | 385 |
@@ -577,7 +577,7 @@ extraction_summary:
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[David-Hume|David Hume]]
-- [[Deanna Kuhn]]
+- [[Deanna-Kuhn|Deanna Kuhn]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dual Process Theory and Its Implications for Instruction]]
@@ -603,7 +603,7 @@ extraction_summary:
 - [[Probabilistic Reasoning]]
 - [[Problem of Induction]]
 - [[Project-Based Learning]]
-- [[Richard Nisbett]]
+- [[Richard-Nisbett|Richard Nisbett]]
 - [[Richard-West|Richard West]]
 - [[Scientific-Method|Scientific Method]]
 - [[Syllogism]]

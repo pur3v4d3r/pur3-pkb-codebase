@@ -1119,7 +1119,7 @@ extraction_summary:
 
 > [!the-philosophy] Untitled
 > **Underlying Philosophy**
-> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
+> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue]] as highest good, [[Amor-Fati|Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
 
 #### 84. [METHODOLOGY-AND-SOURCES] Untitled *(Line 1309)*
 
@@ -1146,7 +1146,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Adversity]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Ancient Philosophy]]
 - [[Andreia]]
 - [[Anger]]
@@ -1199,7 +1199,7 @@ extraction_summary:
 | 2 | [[Stoicism]] | — | — | Claude Thinking | 210 |
 | 3 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking | 211 |
 | 4 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Claude Thinking | 212 |
-| 5 | [[Amor Fati]] | — | — | Claude Thinking | 213 |
+| 5 | [[Amor-Fati|Amor Fati]] | — | — | Claude Thinking | 213 |
 | 6 | [[Memento Mori]] | — | — | Claude Thinking | 214 |
 | 7 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking | 215 |
 | 8 | [[Epictetus]] | — | — | Claude Thinking | 216 |
@@ -1229,7 +1229,7 @@ extraction_summary:
 | 32 | [[Sophrosyne]] | — | — | Virtue as the Highest Good (Summum Bo... | 356 |
 | 33 | [[Eudaimonia]] | flourishing | — | Virtue as the Highest Good (Summum Bo... | 358 |
 | 34 | [[Virtue-Ethics|Virtue Ethics]] | virtue | — | Virtue as the Highest Good (Summum Bo... | 360 |
-| 35 | [[Amor Fati]] | — | — | Amor Fati (Love of Fate) | 381 |
+| 35 | [[Amor-Fati|Amor Fati]] | — | — | Amor Fati (Love of Fate) | 381 |
 | 36 | [[Gratitude]] | — | — | Memento Mori (Remember You Must Die) | 404 |
 | 37 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Marcus Aurelius - Meditations | 441 |
 | 38 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Marcus Aurelius - Meditations | 441 |
@@ -1254,7 +1254,7 @@ extraction_summary:
 | 57 | [[Stoicism]] | — | — | 🎯 Synthesis & Mastery | 1262 |
 | 58 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 🎯 Synthesis & Mastery | 1262 |
 | 59 | [[Virtue]] | — | — | 🎯 Synthesis & Mastery | 1262 |
-| 60 | [[Amor Fati]] | — | — | 🎯 Synthesis & Mastery | 1262 |
+| 60 | [[Amor-Fati|Amor Fati]] | — | — | 🎯 Synthesis & Mastery | 1262 |
 | 61 | [[Memento Mori]] | — | — | 🎯 Synthesis & Mastery | 1262 |
 | 62 | [[Premeditatio-Malorum]] | — | — | 🎯 Synthesis & Mastery | 1262 |
 | 63 | [[Wisdom]] | — | — | 🎯 Synthesis & Mastery | 1262 |
@@ -1413,7 +1413,7 @@ Event → [Pause for Judgment] → Response
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Adversity]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Ancient Philosophy]]
 - [[Andreia]]
 - [[Anger]]

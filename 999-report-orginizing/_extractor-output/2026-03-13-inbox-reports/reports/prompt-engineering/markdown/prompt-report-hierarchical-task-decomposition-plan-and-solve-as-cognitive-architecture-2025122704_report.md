@@ -415,7 +415,7 @@ extraction_summary:
 - [[General Problem Solver]]
 - [[Goal-Regression-Efficiency]]
 - [[HTN]]
-- [[Herbert Simon]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture]]
 - [[HuggingGPT]]
 - [[James Hendler]]
@@ -465,7 +465,7 @@ extraction_summary:
 | 10 | [[HTN]] | — | — | Foundational Understanding | 116 |
 | 11 | [[Classical Planning]] | — | — | Foundational Understanding | 116 |
 | 12 | [[Allen Newell]] | — | — | The Human Problem-Solving Heritage | 142 |
-| 13 | [[Herbert Simon]] | — | — | The Human Problem-Solving Heritage | 142 |
+| 13 | [[Herbert-Simon|Herbert Simon]] | — | — | The Human Problem-Solving Heritage | 142 |
 | 14 | [[Working-Memory|working memory]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 15 | [[Cowan's Capacity Limit]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 16 | [[Miller's 7±2]] | — | — | The Human Problem-Solving Heritage | 153 |
@@ -2405,7 +2405,7 @@ graph TD
 - [[General Problem Solver]]
 - [[Goal-Regression-Efficiency]]
 - [[HTN]]
-- [[Herbert Simon]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture]]
 - [[HuggingGPT]]
 - [[James Hendler]]

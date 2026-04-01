@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 31
+referenced-by-count: 30
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Asksis]]"
   - "[[Cognitive-Decoupling]]"
   - "[[Core-Concept-Definition]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Intellectual-Integrity]]"
   - "[[Intellectual-Perseverance]]"
   - "[[Intellectual-Virtues]]"
+  - "[[Mindware]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: high
 # Epictetus
 
 > [!definition] **Epictetus**
-> *Stub note — concept referenced by 31 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 30 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 31 permanent notes.*
+*Auto-generated stub — referenced by 30 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Asksis]]
 - [[Cognitive-Decoupling]]
 - [[Core-Concept-Definition]]
@@ -85,4 +84,5 @@ importance: high
 - [[Type-1-Processing]]
 - [[Type-2-Processing]]
 - [[Virtue-Epistemology]]
-- *...and 11 more permanent notes*
+- [[📖-Analysis-Paralysis]]
+- *...and 10 more permanent notes*

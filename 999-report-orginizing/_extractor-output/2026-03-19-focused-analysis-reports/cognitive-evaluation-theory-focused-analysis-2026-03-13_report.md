@@ -466,10 +466,10 @@ extraction_summary:
 > > [!topic-idea] [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 > > EVT (Eccles, Wigfield) and CET approach motivation from different directions: EVT focuses on the cognitive appraisal of tasks (do I expect to succeed? does this task have value for me?), while CET focuses on the source of regulation (am I doing this for internal or external reasons?). These frameworks are frequently treated as competitors, but they are better understood as complementary: EVT explains the structure of motivation (what determines whether someone will engage), while CET explains the quality and sustainability of motivation (what determines whether engagement is internally vs. externally regulated). A focused comparative analysis would map the intersection points, identify where each is insufficient alone, and propose an integration.
 > 
-> > [!topic-idea] [[Growth Mindset and CET]]
+> > [!topic-idea] [[Growth-Mindset-and-CET|Growth Mindset and CET]]
 > > Dweck's growth vs. fixed mindset framework shares important territory with CET — particularly around praise, competence feedback, and the effects of evaluative contexts on motivation and persistence. But the two frameworks make somewhat different predictions and are grounded in different theoretical mechanisms (implicit theories of ability vs. functional significance of feedback). A focused analysis would compare their predictions for specific instructional scenarios, examine where they converge (process praise) and diverge (the role of challenge and difficulty), and ask what an integrated account would look like.
 > 
-> > [!topic-idea] [[Gamification in Educational Contexts]]
+> > [!topic-idea] [[Gamification-in-Educational-Contexts|Gamification in Educational Contexts]]
 > > Gamification is the application of game-design elements (points, badges, leaderboards, progress bars, challenges) to non-game contexts, typically with the goal of increasing engagement. CET predicts that many common gamification elements introduce controlling functional significance and will undermine intrinsic motivation in the medium-to-long term, even if they increase short-term engagement. But the picture is more complicated: some game elements (challenge structures, mastery feedback, narrative framing) may activate the informational pathway. A focused analysis would use CET as a primary theoretical lens to evaluate specific gamification elements, develop a CET-informed gamification design framework, and examine the emerging empirical literature on gamification outcomes.
 
 ---
@@ -491,8 +491,8 @@ extraction_summary:
 - [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Gamification]]
-- [[Gamification in Educational Contexts]]
-- [[Growth Mindset and CET]]
+- [[Gamification-in-Educational-Contexts|Gamification in Educational Contexts]]
+- [[Growth-Mindset-and-CET|Growth Mindset and CET]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Self-Determination-Theory|SDT]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -539,8 +539,8 @@ extraction_summary:
 | 24 | [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] | — | — | D. Expansion Topics | 628 |
 | 25 | [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]] | — | — | D. Expansion Topics | 631 |
 | 26 | [[Expectancy-Value-Theory|Expectancy-Value Theory]] | — | — | D. Expansion Topics | 634 |
-| 27 | [[Growth Mindset and CET]] | — | — | D. Expansion Topics | 637 |
-| 28 | [[Gamification in Educational Contexts]] | — | — | D. Expansion Topics | 640 |
+| 27 | [[Growth-Mindset-and-CET|Growth Mindset and CET]] | — | — | D. Expansion Topics | 637 |
+| 28 | [[Gamification-in-Educational-Contexts|Gamification in Educational Contexts]] | — | — | D. Expansion Topics | 640 |
 | 29 | [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] | — | — | D. Expansion Topics | 645 |
 
 ---
@@ -561,8 +561,8 @@ extraction_summary:
 - [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 - [[Gamification]]
-- [[Gamification in Educational Contexts]]
-- [[Growth Mindset and CET]]
+- [[Gamification-in-Educational-Contexts|Gamification in Educational Contexts]]
+- [[Growth-Mindset-and-CET|Growth Mindset and CET]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Self-Determination-Theory|SDT]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

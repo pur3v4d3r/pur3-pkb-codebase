@@ -430,7 +430,7 @@ extraction_summary:
 >    - `[[Yerkes-Dodson Law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
 >    - `[[Iconic-Memory|Iconic Memory]]` and `[[Echoic-Memory|Echoic Memory]]` at line 396
->    - `[[Information Theory]]` at line 372
+>    - `[[Information-Theory|Information Theory]]` at line 372
 > 
 > 5. **Fix callout type** at line 337: Change `> [! ]` to valid callout type or remove
 
@@ -542,7 +542,7 @@ extraction_summary:
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Filter Model]]
 - [[Iconic-Memory|Iconic Memory]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Load Theory of Attention]]
 - [[Multiple Resources Theory]]
 - [[Output Analysis: The Evolution of Capacity Theories of Attention]]
@@ -599,7 +599,7 @@ extraction_summary:
 | 26 | [[Anne Treisman]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 577 |
 | 27 | [[Iconic-Memory|Iconic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
 | 28 | [[Echoic-Memory|Echoic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
-| 29 | [[Information Theory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 579 |
+| 29 | [[Information-Theory|Information Theory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 579 |
 | 30 | [[Working-Memory|Working Memory]] | — | — | 🔵 Tier 2: Structural Enhancements (5-... | 600 |
 | 31 | [[Self-Consistency]] | — | — | Prompt Engineering Recommendations | 618 |
 | 32 | [[Tree-of-Thoughts]] | — | — | Prompt Engineering Recommendations | 628 |
@@ -995,7 +995,7 @@ for (let letter of sortedLetters) {
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Filter Model]]
 - [[Iconic-Memory|Iconic Memory]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Load Theory of Attention]]
 - [[Multiple Resources Theory]]
 - [[Output Analysis: The Evolution of Capacity Theories of Attention]]

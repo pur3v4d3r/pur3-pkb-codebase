@@ -23,30 +23,30 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 13
+referenced-by-count: 19
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Calibration-Dependency]]"
   - "[[Cognitive-Transparency-Assumption]]"
+  - "[[Cue-Validity]]"
   - "[[Defensive-Inference]]"
   - "[[Distributed-Regulation]]"
   - "[[Metacognitive-Accuracy]]"
+  - "[[Metacognitive-Infrastructure]]"
+  - "[[Monitoring-Gap]]"
   - "[[Monitoring-Regulation-Coupling]]"
   - "[[Normative-vs.-Descriptive-Model]]"
-  - "[[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]]"
-  - "[[The-Zimmerman-Cycle-as-Normative-Architecture-and-Design-Target]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,20 +59,26 @@ importance: medium
 # Zimmerman's-Three-Phase-SRL-Cycle
 
 > [!definition] **Zimmerman's-Three-Phase-SRL-Cycle**
-> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 13 permanent notes.*
+*Auto-generated stub — referenced by 19 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Calibration-Dependency]]
 - [[Cognitive-Transparency-Assumption]]
+- [[Cue-Validity]]
 - [[Defensive-Inference]]
 - [[Distributed-Regulation]]
 - [[Metacognitive-Accuracy]]
+- [[Metacognitive-Infrastructure]]
+- [[Monitoring-Gap]]
 - [[Monitoring-Regulation-Coupling]]
 - [[Normative-vs.-Descriptive-Model]]
+- [[Phenomenological-Substitution]]
+- [[Regulatory-Poverty]]
+- [[Regulatory-Threshold]]
+- [[The-Infrastructure-Model-of-Metacognitive-Skill]]
 - [[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]]
 - [[The-Zimmerman-Cycle-as-Normative-Architecture-and-Design-Target]]
 - [[Tight-Loop-Assumption]]

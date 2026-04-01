@@ -291,7 +291,7 @@ extraction_summary:
 - [[Crystallized Intelligence]]
 - [[Domain Expertise]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Dysrationalia]]
+- [[dysrationalia]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Executive-Function|Executive Function]]
 - [[Fluid Intelligence]]
@@ -299,7 +299,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Myside-Bias|Myside Bias]]
 - [[Myside Bias and Motivated Reasoning]]
-- [[Pre-Mortem Analysis]]
+- [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[The Development of Adaptive Expertise]]
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -334,9 +334,9 @@ extraction_summary:
 | 23 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ⚙️ The Cognitive Mechanisms: How They... | 230 |
 | 24 | [[Active Open-Minded Thinking]] | — | — | ⚙️ The Cognitive Mechanisms: How They... | 241 |
 | 25 | [[Comprehensive Assessment of Rational Thinking]] | — | — | 📊 The Empirical Evidence: Measurement... | 258 |
-| 26 | [[Dysrationalia]] | — | — | 🔄 The Interactions: How the Three Con... | 312 |
+| 26 | [[dysrationalia]] | — | — | 🔄 The Interactions: How the Three Con... | 312 |
 | 27 | [[Myside-Bias|Myside Bias]] | — | — | 🔄 The Interactions: How the Three Con... | 329 |
-| 28 | [[Pre-Mortem Analysis]] | — | — | 🎓 Educational and Practical Implications | 355 |
+| 28 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 🎓 Educational and Practical Implications | 355 |
 | 29 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 384 |
 | 30 | [[Myside Bias and Motivated Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 389 |
 | 31 | [[The Development of Adaptive Expertise]] | — | — | 🔗 Related Topics for PKB Expansion | 394 |
@@ -477,7 +477,7 @@ LIMIT 15
 - [[Crystallized Intelligence]]
 - [[Domain Expertise]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Dysrationalia]]
+- [[dysrationalia]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Executive-Function|Executive Function]]
 - [[Fluid Intelligence]]
@@ -485,7 +485,7 @@ LIMIT 15
 - [[Metacognition]]
 - [[Myside-Bias|Myside Bias]]
 - [[Myside Bias and Motivated Reasoning]]
-- [[Pre-Mortem Analysis]]
+- [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[The Development of Adaptive Expertise]]
 - [[Transfer-of-Learning|Transfer of Learning]]

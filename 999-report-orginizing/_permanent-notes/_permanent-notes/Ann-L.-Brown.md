@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 7
+referenced-by-count: 6
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
   - "[[Deliberate-Practice]]"
   - "[[Feeling-of-Knowing]]"
@@ -56,13 +55,12 @@ importance: low
 # Ann-L.-Brown
 
 > [!definition] **Ann-L.-Brown**
-> *Stub note — concept referenced by 7 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 7 permanent notes.*
+*Auto-generated stub — referenced by 6 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
 - [[Deliberate-Practice]]
 - [[Feeling-of-Knowing]]

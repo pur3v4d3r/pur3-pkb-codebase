@@ -302,7 +302,7 @@ extraction_summary:
 #### 5. [DEFINITION] Cognitive Debt (Formal Definition) *(Line 401)*
 
 > [!definition] Cognitive Debt (Formal Definition)
-> <span style='color: #27FF00;'>**Cognitive debt** is the compounding deficit in psychological and developmental well-being arising from the persistent enactment of cognitive schemas, [[heuristics]], and [[Cognitive-Biases|cognitive biases]] that favor short-term, cognitively efficient responses over long-term, analytically optimal behaviors</span>. This debt manifests across two primary dimensions: an **internal dimension** (cognitive dissonance, reduced metacognitive awareness, diminished sense of agency) and an **external dimension** (suboptimal decisions, missed opportunities, relationship conflicts, career stagnation). The acquisition of cognitive debt is driven by systematic mechanisms including [[system-justification theory]], [[Confirmation-Bias-Myside-Bias|confirmation bias]], and [[Anchoring-Effects|anchoring effects]], which become self-reinforcing through repeated activation.
+> <span style='color: #27FF00;'>**Cognitive debt** is the compounding deficit in psychological and developmental well-being arising from the persistent enactment of cognitive schemas, [[heuristics]], and [[Cognitive-Biases|cognitive biases]] that favor short-term, cognitively efficient responses over long-term, analytically optimal behaviors</span>. This debt manifests across two primary dimensions: an **internal dimension** (cognitive dissonance, reduced metacognitive awareness, diminished sense of agency) and an **external dimension** (suboptimal decisions, missed opportunities, relationship conflicts, career stagnation). The acquisition of cognitive debt is driven by systematic mechanisms including [[system-justification-theory|system-justification theory]], [[Confirmation-Bias-Myside-Bias|confirmation bias]], and [[Anchoring-Effects|anchoring effects]], which become self-reinforcing through repeated activation.
 
 #### 6. [KEY-CLAIM] Biases as Adaptive Trade-offs *(Line 419)*
 
@@ -337,12 +337,12 @@ extraction_summary:
 #### 12. [EXAMPLE] Confirmation Bias Spiral *(Line 532)*
 
 > [!example] Confirmation Bias Spiral
-> Consider an individual holding the belief "people are fundamentally untrustworthy." This [[belief schema]] activates <span style='color: #9E6CD3;'>**attentional bias**</span> toward signs of untrustworthiness—they notice when colleagues arrive late, gossip, or make self-interested decisions. <span style='color: #9E6CD3;'>**Interpretation bias**</span> frames ambiguous behaviors (someone declining lunch invitation) as confirming untrustworthiness rather than benign alternatives (they're busy). <span style='color: #9E6CD3;'>**Memory bias**</span> preferentially encodes betrayals while discarding or minimizing examples of trustworthy behavior. Over months and years, this individual accumulates a mental database that "objectively" supports their belief—unaware their cognitive architecture systematically curated that database. Challenging this belief now requires confronting not just the original hypothesis but *years of accumulated subjective confirmation*.
+> Consider an individual holding the belief "people are fundamentally untrustworthy." This [[belief-schema|belief schema]] activates <span style='color: #9E6CD3;'>**attentional bias**</span> toward signs of untrustworthiness—they notice when colleagues arrive late, gossip, or make self-interested decisions. <span style='color: #9E6CD3;'>**Interpretation bias**</span> frames ambiguous behaviors (someone declining lunch invitation) as confirming untrustworthiness rather than benign alternatives (they're busy). <span style='color: #9E6CD3;'>**Memory bias**</span> preferentially encodes betrayals while discarding or minimizing examples of trustworthy behavior. Over months and years, this individual accumulates a mental database that "objectively" supports their belief—unaware their cognitive architecture systematically curated that database. Challenging this belief now requires confronting not just the original hypothesis but *years of accumulated subjective confirmation*.
 
 #### 13. [KEY-CLAIM] Identity Protection Mechanisms *(Line 547)*
 
 > [!key-claim] Identity Protection Mechanisms
-> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive-dissonance|cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect|disposition effect]] and [[sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
+> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive-dissonance|cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect|disposition effect]] and [[Sunk-cost-fallacy|sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
 
 #### 14. [ATTENTION] Echo Chamber Dynamics *(Line 560)*
 
@@ -352,12 +352,12 @@ extraction_summary:
 #### 15. [EXAMPLE] Career Trajectory Divergence *(Line 584)*
 
 > [!example] Career Trajectory Divergence
-> Consider two individuals, Alice and Bob, with identical starting capabilities and opportunities at age 25. Alice has developed [[metacognitive-awareness|metacognitive awareness]] and actively combats her biases; Bob has accumulated cognitive debt through unexamined biases. Over the next 20 years: Bob's [[overconfidence bias]] causes him to accept three job offers that exceed his actual competency level, each ending in termination or forced resignation after 18-24 months. His [[sunk cost fallacy]] keeps him in each position 6 months longer than warranted, accumulating reputation damage. His [[Confirmation-Bias-Myside-Bias|confirmation bias]] prevents him from accurately diagnosing why these failures occurred, so he repeats the pattern. By age 45, Bob's career trajectory has diverged dramatically from his potential—not because of lack of ability but because <span style='background-color: #FF00DC40; color: #FF00DC;'>accumulated cognitive debt produced 15-20 major decisions that systematically deviated from optimal by 10-30% each</span>.
+> Consider two individuals, Alice and Bob, with identical starting capabilities and opportunities at age 25. Alice has developed [[metacognitive-awareness|metacognitive awareness]] and actively combats her biases; Bob has accumulated cognitive debt through unexamined biases. Over the next 20 years: Bob's [[Overconfidence-Bias|overconfidence bias]] causes him to accept three job offers that exceed his actual competency level, each ending in termination or forced resignation after 18-24 months. His [[Sunk-cost-fallacy|sunk cost fallacy]] keeps him in each position 6 months longer than warranted, accumulating reputation damage. His [[Confirmation-Bias-Myside-Bias|confirmation bias]] prevents him from accurately diagnosing why these failures occurred, so he repeats the pattern. By age 45, Bob's career trajectory has diverged dramatically from his potential—not because of lack of ability but because <span style='background-color: #FF00DC40; color: #FF00DC;'>accumulated cognitive debt produced 15-20 major decisions that systematically deviated from optimal by 10-30% each</span>.
 
 #### 16. [KEY-CLAIM] The Opportunity Cost Snowball *(Line 596)*
 
 > [!key-claim] The Opportunity Cost Snowball
-> [[Loss aversion]] and [[status quo bias]] create conservative decision-making that rejects calculated risks. An individual foregoes an entrepreneurial opportunity at age 30 due to loss aversion (overweighting potential failure against potential success). That missed opportunity prevents developing entrepreneurial skills, network connections, and risk tolerance that would enable evaluating future opportunities more accurately. By age 40, they've missed 10 years of compounding entrepreneurial capital (financial, social, psychological), such that opportunities requiring that foundation are now effectively inaccessible. <span style='background-color: #FF00DC40; color: #FF00DC;'>The original biased decision didn't just cost one opportunity—it permanently closed entire branches of the possibility tree</span>.
+> [[Loss-aversion|Loss aversion]] and [[Status-quo-bias|status quo bias]] create conservative decision-making that rejects calculated risks. An individual foregoes an entrepreneurial opportunity at age 30 due to loss aversion (overweighting potential failure against potential success). That missed opportunity prevents developing entrepreneurial skills, network connections, and risk tolerance that would enable evaluating future opportunities more accurately. By age 40, they've missed 10 years of compounding entrepreneurial capital (financial, social, psychological), such that opportunities requiring that foundation are now effectively inaccessible. <span style='background-color: #FF00DC40; color: #FF00DC;'>The original biased decision didn't just cost one opportunity—it permanently closed entire branches of the possibility tree</span>.
 
 #### 17. [EVIDENCE] AI Assistance and Cognitive Offloading (MIT Study, 2025) *(Line 613)*
 
@@ -395,12 +395,12 @@ extraction_summary:
 #### 22. [KEY-CLAIM] Nudges, Decision Architecture, and Bias-Resistant Systems *(Line 699)*
 
 > [!key-claim] Nudges, Decision Architecture, and Bias-Resistant Systems
-> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[status quo bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[loss aversion]] and [[sunk cost fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2|system 2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias-Myside-Bias|confirmation bias]] through forced consideration of disconfirming evidence.
+> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice-architecture|choice architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias|status quo bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion|loss aversion]] and [[Sunk-cost-fallacy|sunk cost fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2|system 2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias-Myside-Bias|confirmation bias]] through forced consideration of disconfirming evidence.
 
 #### 23. [KEY-CLAIM] Biases as Autonomy Thieves *(Line 728)*
 
 > [!key-claim] Biases as Autonomy Thieves
-> [[Confirmation-Bias-Myside-Bias|Confirmation bias]] constrains autonomy by narrowing the perceived option set—individuals only seriously consider choices consistent with existing beliefs, experiencing this constrained search as "preference" rather than recognizing the bias-driven restriction. [[Sunk cost fallacy]] forces continuation of past choices due to prior investment rather than current values. [[Status quo bias]] defaults to existing arrangements regardless of whether they serve current needs. The accumulation of these biases creates <span style='background-color: #FF00DC40; color: #FF00DC;'>**pseudo-autonomy**: the subjective experience of choice without actual self-determination</span>. Cognitive debt repayment then becomes a prerequisite for authentic autonomy—not coincidentally, therapy often helps clients recognize how unconscious patterns constrain their choices.
+> [[Confirmation-Bias-Myside-Bias|Confirmation bias]] constrains autonomy by narrowing the perceived option set—individuals only seriously consider choices consistent with existing beliefs, experiencing this constrained search as "preference" rather than recognizing the bias-driven restriction. [[Sunk-cost-fallacy|Sunk cost fallacy]] forces continuation of past choices due to prior investment rather than current values. [[Status-quo-bias|Status quo bias]] defaults to existing arrangements regardless of whether they serve current needs. The accumulation of these biases creates <span style='background-color: #FF00DC40; color: #FF00DC;'>**pseudo-autonomy**: the subjective experience of choice without actual self-determination</span>. Cognitive debt repayment then becomes a prerequisite for authentic autonomy—not coincidentally, therapy often helps clients recognize how unconscious patterns constrain their choices.
 
 #### 24. [COMPARISON] Fixed vs. Growth Mindset Impact on Cognitive Debt *(Line 740)*
 
@@ -493,7 +493,7 @@ extraction_summary:
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]]
 - [[Computational Modeling]]
 - [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]]
@@ -509,21 +509,21 @@ extraction_summary:
 - [[Heuristics and Biases Research]]
 - [[Identity Formation]]
 - [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]
-- [[Loss aversion]]
+- [[Loss-aversion|Loss aversion]]
 - [[Metacognition]]
 - [[Metacognitive-Capacity|Metacognitive Capacity]]
 - [[Metacognitive Capacity Development: Training Protocols]]
 - [[Neural-Plasticity|Neural Plasticity]]
 - [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]
-- [[Overconfidence bias]]
+- [[Overconfidence-Bias|Overconfidence bias]]
 - [[Personal-Development|Personal Development]]
-- [[Pre-mortem analysis]]
+- [[Pre-Mortem-Analysis|Pre-mortem analysis]]
 - [[Psychopathology]]
 - [[Red team exercises]]
 - [[Selective exposure]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Status quo bias]]
-- [[Sunk cost fallacy]]
+- [[Status-quo-bias|Status quo bias]]
+- [[Sunk-cost-fallacy|Sunk cost fallacy]]
 - [[Systems Thinking]]
 - [[Acceptance-and-Commitment-Therapy|acceptance and commitment therapy]]
 - [[Anchoring-Effects|anchoring effects]]
@@ -531,8 +531,8 @@ extraction_summary:
 - [[Autonomy]]
 - [[Availability-Heuristic|availability heuristic]]
 - [[behavioral economics]]
-- [[belief schema]]
-- [[choice architecture]]
+- [[belief-schema|belief schema]]
+- [[choice-architecture|choice architecture]]
 - [[clinical psychology]]
 - [[Cognitive-Bias|cognitive bias]]
 - [[Cognitive-Biases|cognitive biases]]
@@ -543,7 +543,7 @@ extraction_summary:
 - [[Cognitive-Science|cognitive science]]
 - [[Cognitive-Behavioral-Therapy|cognitive-behavioral therapy]]
 - [[Competence]]
-- [[compound interest]]
+- [[Compound-Interest|compound interest]]
 - [[computational neuroscience]]
 - [[computational psychiatry]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
@@ -552,7 +552,7 @@ extraction_summary:
 - [[disposition-effect|disposition effect]]
 - [[ego-defensive bias]]
 - [[evolutionary psychology]]
-- [[expertise development]]
+- [[Expertise-Development|expertise development]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[groupthink]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
@@ -566,7 +566,7 @@ extraction_summary:
 - [[Intellectual-Humility|intellectual humility]]
 - [[interpretation bias]]
 - [[learning theory]]
-- [[loss aversion]]
+- [[Loss-aversion|loss aversion]]
 - [[mathematics]]
 - [[memory bias]]
 - [[Metacognition]]
@@ -584,9 +584,9 @@ extraction_summary:
 - [[opportunity costs]]
 - [[optimism bias]]
 - [[overconfidence]]
-- [[overconfidence bias]]
+- [[Overconfidence-Bias|overconfidence bias]]
 - [[planning fallacy]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[present bias]]
 - [[psychiatry]]
 - [[Relatedness]]
@@ -599,11 +599,11 @@ extraction_summary:
 - [[self-schema]]
 - [[self-verification theory]]
 - [[social psychology]]
-- [[status quo bias]]
-- [[sunk cost fallacy]]
+- [[Status-quo-bias|status quo bias]]
+- [[Sunk-cost-fallacy|sunk cost fallacy]]
 - [[System-1|system 1]]
 - [[System-2|system 2]]
-- [[system-justification theory]]
+- [[system-justification-theory|system-justification theory]]
 - [[systems theory]]
 - [[technical-debt|technical debt]]
 - [[trait conscientiousness]]
@@ -625,20 +625,20 @@ extraction_summary:
 | 10 | [[human-cognition|human cognition]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
 | 11 | [[heuristics]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 12 | [[Cognitive-Biases|cognitive biases]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
-| 13 | [[system-justification theory]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
+| 13 | [[system-justification-theory|system-justification theory]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 14 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 15 | [[Anchoring-Effects|anchoring effects]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 16 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | The Debt Metaphor: From Technical to ... | 404 |
 | 17 | [[Debiasing-What-Interventions-Actually-Work-and-Why|debiasing]] | — | — | The Debt Metaphor: From Technical to ... | 404 |
 | 18 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | Neuroevolutionary Origins: Why Biases... | 412 |
 | 19 | [[Availability-Heuristic|availability heuristic]] | — | — | Neuroevolutionary Origins: Why Biases... | 420 |
-| 20 | [[compound interest]] | — | — | The Compound Interest Model: Exponent... | 429 |
+| 20 | [[Compound-Interest|compound interest]] | — | — | The Compound Interest Model: Exponent... | 429 |
 | 21 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | The Compound Interest Model: Exponent... | 445 |
 | 22 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | The Compound Interest Model: Exponent... | 447 |
-| 23 | [[Compound Interest]] | — | — | The Compound Interest Model: Exponent... | 452 |
+| 23 | [[Compound-Interest|Compound Interest]] | — | — | The Compound Interest Model: Exponent... | 452 |
 | 24 | [[Neural-Plasticity|Neural Plasticity]] | — | — | The Compound Interest Model: Exponent... | 453 |
 | 25 | [[Adolescence]] | — | — | Adolescent Vulnerability: Critical Wi... | 461 |
-| 26 | [[prefrontal cortex]] | — | — | Adolescent Vulnerability: Critical Wi... | 461 |
+| 26 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Adolescent Vulnerability: Critical Wi... | 461 |
 | 27 | [[hypothalamic-pituitary-adrenal axis]] | — | — | Adolescent Vulnerability: Critical Wi... | 461 |
 | 28 | [[interpretation bias]] | — | — | Adolescent Vulnerability: Critical Wi... | 467 |
 | 29 | [[memory bias]] | — | — | Adolescent Vulnerability: Critical Wi... | 467 |
@@ -647,24 +647,24 @@ extraction_summary:
 | 32 | [[groupthink]] | — | — | Adult Trajectories: Career, Relations... | 496 |
 | 33 | [[optimism bias]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
 | 34 | [[present bias]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
-| 35 | [[sunk cost fallacy]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
-| 36 | [[belief schema]] | — | — | Self-Reinforcement Through Selective ... | 533 |
+| 35 | [[Sunk-cost-fallacy|sunk cost fallacy]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
+| 36 | [[belief-schema|belief schema]] | — | — | Self-Reinforcement Through Selective ... | 533 |
 | 37 | [[cognitive-dissonance|cognitive dissonance]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 38 | [[self-verification theory]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 39 | [[disposition-effect|disposition effect]] | — | — | Identity Integration: When Biases Bec... | 548 |
-| 40 | [[sunk cost fallacy]] | — | — | Identity Integration: When Biases Bec... | 548 |
+| 40 | [[Sunk-cost-fallacy|sunk cost fallacy]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 41 | [[Identity Formation]] | — | — | Identity Integration: When Biases Bec... | 553 |
 | 42 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Reinforcement: Echo Cha... | 558 |
 | 43 | [[selective exposure]] | — | — | Environmental Reinforcement: Echo Cha... | 561 |
 | 44 | [[Selective exposure]] | — | — | Environmental Reinforcement: Echo Cha... | 568 |
 | 45 | [[metacognitive-awareness|metacognitive awareness]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
-| 46 | [[overconfidence bias]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
-| 47 | [[sunk cost fallacy]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
+| 46 | [[Overconfidence-Bias|overconfidence bias]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
+| 47 | [[Sunk-cost-fallacy|sunk cost fallacy]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
 | 48 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
 | 49 | [[opportunity costs]] | — | — | Opportunity Cost Snowball: Missed Cha... | 594 |
-| 50 | [[Loss aversion]] | — | — | Opportunity Cost Snowball: Missed Cha... | 597 |
-| 51 | [[status quo bias]] | — | — | Opportunity Cost Snowball: Missed Cha... | 597 |
-| 52 | [[Loss aversion]] | — | — | Opportunity Cost Snowball: Missed Cha... | 603 |
+| 50 | [[Loss-aversion|Loss aversion]] | — | — | Opportunity Cost Snowball: Missed Cha... | 597 |
+| 51 | [[Status-quo-bias|status quo bias]] | — | — | Opportunity Cost Snowball: Missed Cha... | 597 |
+| 52 | [[Loss-aversion|Loss aversion]] | — | — | Opportunity Cost Snowball: Missed Cha... | 603 |
 | 53 | [[System-2|system 2]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
 | 54 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
 | 55 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 624 |
@@ -682,14 +682,14 @@ extraction_summary:
 | 67 | [[cognitive restructuring]] | — | — | Tertiary Prevention: Structured Debt ... | 681 |
 | 68 | [[Metacognitive-Capacity|Metacognitive Capacity]] | — | — | Tertiary Prevention: Structured Debt ... | 693 |
 | 69 | [[nudge theory]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 70 | [[choice architecture]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 71 | [[status quo bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 70 | [[choice-architecture|choice architecture]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 71 | [[Status-quo-bias|status quo bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 72 | [[present bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 73 | [[loss aversion]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 74 | [[sunk cost fallacy]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 73 | [[Loss-aversion|loss aversion]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 74 | [[Sunk-cost-fallacy|sunk cost fallacy]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 75 | [[System-2|system 2]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 76 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 77 | [[Pre-mortem analysis]] | — | — | Environmental Engineering: System-Lev... | 708 |
+| 77 | [[Pre-Mortem-Analysis|Pre-mortem analysis]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 78 | [[overconfidence]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 79 | [[planning fallacy]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 80 | [[Red team exercises]] | — | — | Environmental Engineering: System-Lev... | 708 |
@@ -700,9 +700,9 @@ extraction_summary:
 | 85 | [[Competence]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
 | 86 | [[Relatedness]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
 | 87 | [[Confirmation-Bias-Myside-Bias|Confirmation bias]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
-| 88 | [[Sunk cost fallacy]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
-| 89 | [[Status quo bias]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
-| 90 | [[Overconfidence bias]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
+| 88 | [[Sunk-cost-fallacy|Sunk cost fallacy]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
+| 89 | [[Status-quo-bias|Status quo bias]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
+| 90 | [[Overconfidence-Bias|Overconfidence bias]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
 | 91 | [[Dunning-Kruger-Effect|Dunning-Kruger effect]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
 | 92 | [[impostor syndrome]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
 | 93 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: Cognitive ... | 734 |
@@ -734,21 +734,21 @@ extraction_summary:
 | 119 | [[Metacognition]] | — | — | 1. **[[Metacognitive Capacity Develop... | 871 |
 | 120 | [[Cognitive-Bias|cognitive bias]] | — | — | 1. **[[Metacognitive Capacity Develop... | 871 |
 | 121 | [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]] | — | — | 2. **[[Environmental Architecture for... | 873 |
-| 122 | [[choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 874 |
+| 122 | [[choice-architecture|choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 874 |
 | 123 | [[nudge theory]] | — | — | 2. **[[Environmental Architecture for... | 874 |
 | 124 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 2. **[[Environmental Architecture for... | 878 |
 | 125 | [[behavioral economics]] | — | — | 2. **[[Environmental Architecture for... | 878 |
-| 126 | [[choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 878 |
+| 126 | [[choice-architecture|choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 878 |
 | 127 | [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]] | — | — | 3. **[[Compound Interest Dynamics in ... | 882 |
 | 128 | [[Habit-Formation|habit formation]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
 | 129 | [[trauma]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
-| 130 | [[expertise development]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
+| 130 | [[Expertise-Development|expertise development]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
 | 131 | [[relationship quality]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
 | 132 | [[mathematics]] | — | — | 3. **[[Compound Interest Dynamics in ... | 885 |
 | 133 | [[systems theory]] | — | — | 3. **[[Compound Interest Dynamics in ... | 885 |
 | 134 | [[behavioral economics]] | — | — | 3. **[[Compound Interest Dynamics in ... | 885 |
 | 135 | [[developmental psychology]] | — | — | 3. **[[Compound Interest Dynamics in ... | 885 |
-| 136 | [[Compound Interest]] | — | — | 3. **[[Compound Interest Dynamics in ... | 887 |
+| 136 | [[Compound-Interest|Compound Interest]] | — | — | 3. **[[Compound Interest Dynamics in ... | 887 |
 | 137 | [[Systems Thinking]] | — | — | 3. **[[Compound Interest Dynamics in ... | 887 |
 | 138 | [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]] | — | — | 4. **[[Identity-Level Integration of ... | 889 |
 | 139 | [[self-schema]] | — | — | 4. **[[Identity-Level Integration of ... | 890 |
@@ -1147,7 +1147,7 @@ for (let letter of sortedLetters) {
 | 18 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | which opportunities they pursue | 445 |
 | 19 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | how they interpret setbacks | 445 |
 | 20 | `#72FFF1` | Custom (#72FFF1) | The parameter determining how rapidly a cogniti... | 449 |
-| 21 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | maturation of the [[prefrontal cortex]] | 461 |
+| 21 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | maturation of the [[prefrontal-cortex|prefrontal cortex]] | 461 |
 | 22 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | refinement of the [[hypothalamic-pituitary-adre... | 461 |
 | 23 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | construction of identity schemas | 461 |
 | 24 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | consistently low risk | 467 |
@@ -1168,7 +1168,7 @@ for (let letter of sortedLetters) {
 | 39 | `#72FFF1` | Custom (#72FFF1) | A self-reinforcing cycle where cognitive biases... | 508 |
 | 40 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | **[[optimism bias]]** | 513 |
 | 41 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | **[[present bias]]** | 513 |
-| 42 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | **[[sunk cost fallacy]]** | 513 |
+| 42 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | **[[Sunk-cost-fallacy|sunk cost fallacy]]** | 513 |
 | 43 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | **selective attention** | 524 |
 | 44 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | **biased interpretation** | 524 |
 | 45 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | **preferential memory** | 524 |
@@ -1288,7 +1288,7 @@ for (let letter of sortedLetters) {
 - `%%cognitive-load: high%%` *(Line 441)*
 - `%%applies-to: mathematical-modeling%%` *(Line 442)*
 - `%%extract-atomic: Bias Reinforcement Dynamics%%` *(Line 451)*
-- `%%prereq-hard: [[Compound Interest]]%%` *(Line 452)*
+- `%%prereq-hard: [[Compound-Interest|Compound Interest]]%%` *(Line 452)*
 - `%%prereq-soft: [[Neural-Plasticity|Neural Plasticity]]%%` *(Line 453)*
 - `%%confidence: verified%%` *(Line 463)*
 - `%%evidence: multiple-studies%%` *(Line 464)*
@@ -1431,7 +1431,7 @@ $$
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]]
 - [[Computational Modeling]]
 - [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]]
@@ -1447,21 +1447,21 @@ $$
 - [[Heuristics and Biases Research]]
 - [[Identity Formation]]
 - [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]
-- [[Loss aversion]]
+- [[Loss-aversion|Loss aversion]]
 - [[Metacognition]]
 - [[Metacognitive-Capacity|Metacognitive Capacity]]
 - [[Metacognitive Capacity Development: Training Protocols]]
 - [[Neural-Plasticity|Neural Plasticity]]
 - [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]
-- [[Overconfidence bias]]
+- [[Overconfidence-Bias|Overconfidence bias]]
 - [[Personal-Development|Personal Development]]
-- [[Pre-mortem analysis]]
+- [[Pre-Mortem-Analysis|Pre-mortem analysis]]
 - [[Psychopathology]]
 - [[Red team exercises]]
 - [[Selective exposure]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Status quo bias]]
-- [[Sunk cost fallacy]]
+- [[Status-quo-bias|Status quo bias]]
+- [[Sunk-cost-fallacy|Sunk cost fallacy]]
 - [[Systems Thinking]]
 - [[Acceptance-and-Commitment-Therapy|acceptance and commitment therapy]]
 - [[Anchoring-Effects|anchoring effects]]
@@ -1469,8 +1469,8 @@ $$
 - [[Autonomy]]
 - [[Availability-Heuristic|availability heuristic]]
 - [[behavioral economics]]
-- [[belief schema]]
-- [[choice architecture]]
+- [[belief-schema|belief schema]]
+- [[choice-architecture|choice architecture]]
 - [[clinical psychology]]
 - [[Cognitive-Bias|cognitive bias]]
 - [[Cognitive-Biases|cognitive biases]]
@@ -1481,7 +1481,7 @@ $$
 - [[Cognitive-Science|cognitive science]]
 - [[Cognitive-Behavioral-Therapy|cognitive-behavioral therapy]]
 - [[Competence]]
-- [[compound interest]]
+- [[Compound-Interest|compound interest]]
 - [[computational neuroscience]]
 - [[computational psychiatry]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
@@ -1490,7 +1490,7 @@ $$
 - [[disposition-effect|disposition effect]]
 - [[ego-defensive bias]]
 - [[evolutionary psychology]]
-- [[expertise development]]
+- [[Expertise-Development|expertise development]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[groupthink]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
@@ -1504,7 +1504,7 @@ $$
 - [[Intellectual-Humility|intellectual humility]]
 - [[interpretation bias]]
 - [[learning theory]]
-- [[loss aversion]]
+- [[Loss-aversion|loss aversion]]
 - [[mathematics]]
 - [[memory bias]]
 - [[Metacognition]]
@@ -1522,9 +1522,9 @@ $$
 - [[opportunity costs]]
 - [[optimism bias]]
 - [[overconfidence]]
-- [[overconfidence bias]]
+- [[Overconfidence-Bias|overconfidence bias]]
 - [[planning fallacy]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[present bias]]
 - [[psychiatry]]
 - [[Relatedness]]
@@ -1537,11 +1537,11 @@ $$
 - [[self-schema]]
 - [[self-verification theory]]
 - [[social psychology]]
-- [[status quo bias]]
-- [[sunk cost fallacy]]
+- [[Status-quo-bias|status quo bias]]
+- [[Sunk-cost-fallacy|sunk cost fallacy]]
 - [[System-1|system 1]]
 - [[System-2|system 2]]
-- [[system-justification theory]]
+- [[system-justification-theory|system-justification theory]]
 - [[systems theory]]
 - [[technical-debt|technical debt]]
 - [[trait conscientiousness]]

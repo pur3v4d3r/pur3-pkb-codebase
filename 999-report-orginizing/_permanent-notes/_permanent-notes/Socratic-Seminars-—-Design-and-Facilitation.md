@@ -2,11 +2,12 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Socratic Seminars — Design and Facilitation"
+title: "Socratic-Seminars-—-Design-and-Facilitation"
 aliases:
-  - "Design and Facilitation"
-  - "Socratic Seminars"
+  - "-Design-and-Facilitation"
   - "Socratic Seminars — Design and Facilitation"
+  - "Socratic-Seminars-"
+  - "Socratic-Seminars-—-Design-and-Facilitation"
 type: permanent-note
 status: seedling
 confidence: low
@@ -25,15 +26,15 @@ domain: philosophy
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 10
+referenced-by-count: 9
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -48,22 +49,21 @@ see-also:
   - "[[Socratic-Method]]"
   - "[[Transfer-of-Learning]]"
   - "[[Weak-Sense-vs.-Strong-Sense-Critical-Thinking]]"
-  - "[[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
-# Socratic Seminars — Design and Facilitation
+# Socratic-Seminars-—-Design-and-Facilitation
 
-> [!definition] **Socratic Seminars — Design and Facilitation**
-> *Stub note — concept referenced by 10 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **Socratic-Seminars-—-Design-and-Facilitation**
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 10 permanent notes.*
+*Auto-generated stub — referenced by 9 permanent notes.*
 
 ## Referenced By
 
@@ -76,4 +76,3 @@ importance: medium
 - [[Socratic-Method]]
 - [[Transfer-of-Learning]]
 - [[Weak-Sense-vs.-Strong-Sense-Critical-Thinking]]
-- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

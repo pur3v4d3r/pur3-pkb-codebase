@@ -352,7 +352,7 @@ extraction_summary:
 > 
 > **[[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
 > 
-> **[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
+> **[[Knowledge-Graph-Theory|Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
 > 
 > **[[Distributed-Cognition|Distributed Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
 
@@ -427,7 +427,7 @@ extraction_summary:
 - [[Dataview-Plugin|Dataview plugin]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[George-Miller|George Miller]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[Literature Review Matrix Methods]]
 - [[Map of Content]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
@@ -455,7 +455,7 @@ extraction_summary:
 - [[Chunking]]
 - [[Distributed-Cognition|distributed cognition]]
 - [[extended mind]]
-- [[information processing]]
+- [[information-processing|information processing]]
 - [[literature notes]]
 - [[meta-level cognition]]
 - [[Metacognition]]
@@ -479,7 +479,7 @@ extraction_summary:
 | 7 | [[Metacognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
 | 8 | [[object-level cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
 | 9 | [[meta-level cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
-| 10 | [[information processing]] | — | — | The Research Lifecycle: From Question... | 406 |
+| 10 | [[information-processing|information processing]] | — | — | The Research Lifecycle: From Question... | 406 |
 | 11 | [[Map of Content]] | — | — | The Project Hub: Command Center for I... | 431 |
 | 12 | [[Nick Milo]] | — | — | The Project Hub: Command Center for I... | 431 |
 | 13 | [[reference manager]] | — | — | Resource Mapping and Source Planning | 456 |
@@ -512,7 +512,7 @@ extraction_summary:
 | 40 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Maintaining Research Value Long-Term | 667 |
 | 41 | [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]] | — | — | Maintaining Research Value Long-Term | 669 |
 | 42 | [[Paul-Elder model]] | — | — | Maintaining Research Value Long-Term | 669 |
-| 43 | [[Knowledge Graph Theory]] | — | — | Maintaining Research Value Long-Term | 671 |
+| 43 | [[Knowledge-Graph-Theory|Knowledge Graph Theory]] | — | — | Maintaining Research Value Long-Term | 671 |
 | 44 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Maintaining Research Value Long-Term | 673 |
 | 45 | [[Research Question Development Frameworks]] | — | — | 🔗 Related Topics for PKB Expansion | 734 |
 | 46 | [[Progressive Summarization Implementation]] | — | — | 🔗 Related Topics for PKB Expansion | 739 |
@@ -718,7 +718,7 @@ for (let letter of sortedLetters) {
 - [[Dataview-Plugin|Dataview plugin]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[George-Miller|George Miller]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[Literature Review Matrix Methods]]
 - [[Map of Content]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
@@ -746,7 +746,7 @@ for (let letter of sortedLetters) {
 - [[Chunking]]
 - [[Distributed-Cognition|distributed cognition]]
 - [[extended mind]]
-- [[information processing]]
+- [[information-processing|information processing]]
 - [[literature notes]]
 - [[meta-level cognition]]
 - [[Metacognition]]

@@ -24,56 +24,66 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 11
+referenced-by-count: 32
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Aspiration-Index]]"
+  - "[[Attainment-Paradox]]"
+  - "[[Attribution-Theory]]"
   - "[[Autonomous-Motivation]]"
+  - "[[Contingent-Self-Worth]]"
   - "[[Controlled-Motivation]]"
-  - "[[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]"
-  - "[[Pintrich's-Integrative-SRL-Framework]]"
-  - "[[Regulatory-Overhead]]"
-  - "[[Self-Determined-Self-Regulation]]"
-  - "[[Self-Regulated-Learning-SRL]]"
-  - "[[The-Motivational-Regulatory-Architecture-of-Learning]]"
-  - "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
+  - "[[Dissolved-Assumption]]"
+  - "[[Entity-Theory-of-Intelligence]]"
+  - "[[Extrinsic-Goal-Content]]"
+  - "[[Fixed-Mindset]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: high
 ---
 
 # Motivational-Interviewing
 
 > [!definition] **Motivational-Interviewing**
-> *Stub note — concept referenced by 11 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 32 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 11 permanent notes.*
+*Auto-generated stub — referenced by 32 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Aspiration-Index]]
+- [[Attainment-Paradox]]
+- [[Attribution-Theory]]
 - [[Autonomous-Motivation]]
+- [[Contingent-Self-Worth]]
 - [[Controlled-Motivation]]
+- [[Dissolved-Assumption]]
+- [[Entity-Theory-of-Intelligence]]
+- [[Extrinsic-Goal-Content]]
+- [[Fixed-Mindset]]
+- [[Goal-Content]]
+- [[Goal-Content-Theory]]
+- [[Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror]]
+- [[Goal-Framing]]
+- [[Goal-Orientation]]
+- [[Growth-Mindset]]
+- [[Hedonic-Adaptation]]
+- [[Incremental-Theory-of-Intelligence]]
 - [[Internalization-as-the-Developmental-Bridge-Between-Frameworks]]
-- [[Pintrich's-Integrative-SRL-Framework]]
-- [[Regulatory-Overhead]]
-- [[Self-Determined-Self-Regulation]]
-- [[Self-Regulated-Learning-SRL]]
-- [[The-Motivational-Regulatory-Architecture-of-Learning]]
-- [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]
-- [[Zimmerman's-Cyclical-SRL-Model]]
+- [[Intrinsic-Goal-Content]]
+- *...and 12 more permanent notes*

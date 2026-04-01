@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 20
+referenced-by-count: 27
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Apt-Epistemic-Performance]]"
+  - "[[Autonomous-Motivation-vs.-Controlled-Motivation]]"
+  - "[[Challenge-Skill-Balance]]"
+  - "[[Cognitive-Vitality]]"
   - "[[Concurrent-Expression]]"
+  - "[[Dichotomy-of-Control]]"
   - "[[Epistemic-Character]]"
   - "[[Epistemic-Character-as-Concurrent-Expression]]"
-  - "[[The-Tier-1-Structural-Limitation]]"
-  - "[[📖-Apt-Epistemic-Performance]]"
-  - "[[📖-Autonomous-Motivation-vs.-Controlled-Motivation]]"
-  - "[[📖-Challenge-Skill-Balance]]"
-  - "[[📖-Cognitive-Vitality]]"
+  - "[[Flow]]"
+  - "[[Personal-Workflow-Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,18 +59,25 @@ importance: high
 # Mihaly-Csikszentmihalyi
 
 > [!definition] **Mihaly-Csikszentmihalyi**
-> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 27 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 20 permanent notes.*
+*Auto-generated stub — referenced by 27 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Apt-Epistemic-Performance]]
+- [[Autonomous-Motivation-vs.-Controlled-Motivation]]
+- [[Challenge-Skill-Balance]]
+- [[Cognitive-Vitality]]
 - [[Concurrent-Expression]]
+- [[Dichotomy-of-Control]]
 - [[Epistemic-Character]]
 - [[Epistemic-Character-as-Concurrent-Expression]]
+- [[Flow]]
+- [[Personal-Workflow-Architecture]]
+- [[Prohairesis]]
 - [[The-Tier-1-Structural-Limitation]]
+- [[Transient-Hypofrontality]]
 - [[📖-Apt-Epistemic-Performance]]
 - [[📖-Autonomous-Motivation-vs.-Controlled-Motivation]]
 - [[📖-Challenge-Skill-Balance]]
@@ -78,10 +85,4 @@ importance: high
 - [[📖-Concurrent-Expression]]
 - [[📖-Dichotomy-of-Control]]
 - [[📖-Epistemic-Character]]
-- [[📖-Epistemic-Character-as-Concurrent-Expression]]
-- [[📖-Flow]]
-- [[📖-Growth-Mindset]]
-- [[📖-Prohairesis]]
-- [[📖-Self-Determination-Theory]]
-- [[📖-The-Tier-1-Structural-Limitation]]
-- [[📖-Transient-Hypofrontality]]
+- *...and 7 more permanent notes*

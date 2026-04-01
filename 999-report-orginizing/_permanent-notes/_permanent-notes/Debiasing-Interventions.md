@@ -23,21 +23,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 21
+referenced-by-count: 20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Asksis]]"
   - "[[Epistemic-Cowardice]]"
   - "[[Intellectual-Courage]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Intellectual-Virtues]]"
   - "[[The-Bias-Virtue-Correspondence]]"
   - "[[Virtue-Epistemology]]"
+  - "[[📖-Askēsis]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: high
 # Debiasing-Interventions
 
 > [!definition] **Debiasing-Interventions**
-> *Stub note — concept referenced by 21 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 21 permanent notes.*
+*Auto-generated stub — referenced by 20 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Asksis]]
 - [[Epistemic-Cowardice]]
 - [[Intellectual-Courage]]
@@ -85,4 +84,4 @@ importance: high
 - [[📖-Intellectual-Virtues]]
 - [[📖-Motivated-Reasoning]]
 - [[📖-The-Bias-Virtue-Correspondence]]
-- *...and 1 more permanent notes*
+- [[📖-Virtue-Epistemology]]

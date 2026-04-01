@@ -189,7 +189,7 @@ extraction_summary:
 #### 10. [KEY-CLAIM] Meaningful Learning as Anchoring *(Line 340)*
 
 > [!key-claim] Meaningful Learning as Anchoring
-> Ausubel distinguished between *rote learning* — the memorization of arbitrary associations — and *meaningful learning* — the deliberate anchoring of new material to relevant existing knowledge structures in [[cognitive structure]]. Meaningful learning produces durable, transferable understanding precisely because the new material is connected to an organized network of prior knowledge. Rote learning produces brittle, inert knowledge: accessible only in the context in which it was learned, and rapidly forgotten without that context.
+> Ausubel distinguished between *rote learning* — the memorization of arbitrary associations — and *meaningful learning* — the deliberate anchoring of new material to relevant existing knowledge structures in [[cognitive-structure|cognitive structure]]. Meaningful learning produces durable, transferable understanding precisely because the new material is connected to an organized network of prior knowledge. Rote learning produces brittle, inert knowledge: accessible only in the context in which it was learned, and rapidly forgotten without that context.
 
 #### 11. [INSIGHT] Ausubel's Underappreciated Subtlety *(Line 345)*
 
@@ -216,17 +216,17 @@ extraction_summary:
 #### 15. [KEY-CLAIM] Activation Is Probabilistic and Context-Dependent *(Line 377)*
 
 > [!key-claim] Activation Is Probabilistic and Context-Dependent
-> Schema activation is not all-or-nothing but graded and probabilistic. Multiple schemas may be partially activated simultaneously, with the most contextually appropriate schema winning the competition for full activation. The classic demonstration by [[Richard Anderson]] and colleagues (1977) presented participants with an ambiguous paragraph about a house — describable either as a potential purchase (viewed through a homebuyer schema) or as a potential burglary target (viewed through a criminal schema). Participants told to adopt one perspective reliably recalled different aspects of the passage, demonstrating that schema activation, not merely text content, governs what is encoded and remembered.
+> Schema activation is not all-or-nothing but graded and probabilistic. Multiple schemas may be partially activated simultaneously, with the most contextually appropriate schema winning the competition for full activation. The classic demonstration by [[Richard-Anderson|Richard Anderson]] and colleagues (1977) presented participants with an ambiguous paragraph about a house — describable either as a potential purchase (viewed through a homebuyer schema) or as a potential burglary target (viewed through a criminal schema). Participants told to adopt one perspective reliably recalled different aspects of the passage, demonstrating that schema activation, not merely text content, governs what is encoded and remembered.
 
 #### 16. [EXAMPLE] Bransford and Johnson's Context Studies *(Line 386)*
 
 > [!example] Bransford and Johnson's Context Studies
-> A landmark series of experiments by [[John Bransford]] and [[Marcia Johnson]] (1972) demonstrated that schema activation is a necessary condition for comprehension of even well-formed prose. Participants read a passage about washing clothes — a text that made perfect sense once one knew the topic but was nearly incomprehensible without that knowledge. Participants given the topic in advance ("washing clothes") comprehended and recalled significantly more than those given it after reading or not at all. The words were identical; the schema was different. This result elegantly demonstrated that comprehension is not a matter of decoding text but of matching text to organized prior knowledge.
+> A landmark series of experiments by [[John-Bransford|John Bransford]] and [[Marcia-Johnson|Marcia Johnson]] (1972) demonstrated that schema activation is a necessary condition for comprehension of even well-formed prose. Participants read a passage about washing clothes — a text that made perfect sense once one knew the topic but was nearly incomprehensible without that knowledge. Participants given the topic in advance ("washing clothes") comprehended and recalled significantly more than those given it after reading or not at all. The words were identical; the schema was different. This result elegantly demonstrated that comprehension is not a matter of decoding text but of matching text to organized prior knowledge.
 
 #### 17. [THOUGHT-EXPERIMENT] The Expert Recall Advantage *(Line 403)*
 
 > [!thought-experiment] The Expert Recall Advantage
-> Imagine two chess players — one a grandmaster, one a novice — who study the same chess position for five seconds and then reconstruct it from memory. Research by [[Adriaan de Groot]] and extended by [[William Chase]] and [[Herbert Simon]] (1973) showed that grandmasters reconstruct positions with near-perfect accuracy while novices recall only a handful of pieces. But here is the critical finding: when pieces are placed *randomly* rather than in positions arising from real games, grandmasters' advantage disappears. The schema — in this case, the organized patterns of meaningful chess positions — is what carries the recall advantage. Without meaningful structure, the expert's advantage evaporates. This thought experiment reveals that expertise is, to a significant degree, the possession of rich, differentiated schemas for the domain.
+> Imagine two chess players — one a grandmaster, one a novice — who study the same chess position for five seconds and then reconstruct it from memory. Research by [[Adriaan de Groot]] and extended by [[William Chase]] and [[Herbert-Simon|Herbert Simon]] (1973) showed that grandmasters reconstruct positions with near-perfect accuracy while novices recall only a handful of pieces. But here is the critical finding: when pieces are placed *randomly* rather than in positions arising from real games, grandmasters' advantage disappears. The schema — in this case, the organized patterns of meaningful chess positions — is what carries the recall advantage. Without meaningful structure, the expert's advantage evaporates. This thought experiment reveals that expertise is, to a significant degree, the possession of rich, differentiated schemas for the domain.
 
 #### 18. [ASK-YOURSELF-THIS] Testing Your Mechanistic Understanding *(Line 410)*
 
@@ -268,7 +268,7 @@ extraction_summary:
 #### 25. [IMPORTANT] Underspecification of Schema Formation Mechanisms *(Line 453)*
 
 > [!important] Underspecification of Schema Formation Mechanisms
-> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive-Load-Theory|Cognitive load theory]] and research on [[spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
+> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive-Load-Theory|Cognitive load theory]] and research on [[spaced-practice|spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
 
 #### 26. [REFLECTION] From Understanding to Action *(Line 458)*
 
@@ -426,29 +426,29 @@ extraction_summary:
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Frederic-Bartlett|Frederic Bartlett]]
 - [[George Posner]]
-- [[Herbert Simon]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Immanuel-Kant|Immanuel Kant]]
 - [[Jean-Piaget|Jean Piaget]]
 - [[John-Anderson|John Anderson]]
-- [[John Bransford]]
+- [[John-Bransford|John Bransford]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
-- [[Marcia Johnson]]
-- [[Marvin Minsky]]
+- [[Marcia-Johnson|Marcia Johnson]]
+- [[Marvin-Minsky|Marvin Minsky]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Piaget]]
 - [[Prior Knowledge and Learning — Research Synthesis]]
 - [[Procedural-schemas|Procedural schemas]]
-- [[Richard Anderson]]
-- [[Robert Abelson]]
-- [[Roger Schank]]
+- [[Richard-Anderson|Richard Anderson]]
+- [[Robert-Abelson|Robert Abelson]]
+- [[Roger-Schank|Roger Schank]]
 - [[Rumelhart]]
 - [[Schank-and-Abelson|Schank and Abelson]]
 - [[Schema-Theory-and-Learning|Schema Theory and Learning]]
 - [[Schema-Theory|Schema theory]]
 - [[Script Theory — Schank and Abelson in Depth]]
-- [[Stella Vosniadou]]
+- [[Stella-Vosniadou|Stella Vosniadou]]
 - [[Susan Carey]]
 - [[Transfer of Learning — Mechanisms and Conditions]]
 - [[William Chase]]
@@ -456,23 +456,23 @@ extraction_summary:
 - [[Advance-Organizer|advance organizer]]
 - [[Advance-Organizers|advance organizers]]
 - [[bottom-up-processing|bottom-up processing]]
-- [[cognitive structure]]
+- [[cognitive-structure|cognitive structure]]
 - [[conceptual change pedagogy]]
 - [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
 - [[constructivist]]
-- [[information processing]]
+- [[information-processing|information processing]]
 - [[interleaved practice]]
-- [[knowledge representation]]
+- [[knowledge-representation|knowledge representation]]
 - [[mathematics education]]
 - [[metacognitive-awareness|metacognitive awareness]]
 - [[naive physics]]
-- [[parallel distributed processing]]
+- [[parallel-distributed-processing|parallel distributed processing]]
 - [[reading comprehension]]
-- [[schema instantiation]]
-- [[spaced practice]]
+- [[schema-instantiation|schema instantiation]]
+- [[spaced-practice|spaced practice]]
 - [[Spreading-Activation|spreading activation]]
-- [[text structure]]
+- [[text-structure|text structure]]
 - [[top-down-processing|top-down processing]]
 - [[Worked-Examples|worked examples]]
 
@@ -500,25 +500,25 @@ extraction_summary:
 | 18 | [[top-down-processing|top-down processing]] | — | — | Foundational Distinctions | 316 |
 | 19 | [[bottom-up-processing|bottom-up processing]] | — | — | Foundational Distinctions | 316 |
 | 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Rumelhart's Computational Schema Theory | 329 |
-| 21 | [[information processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
-| 22 | [[parallel distributed processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
+| 21 | [[information-processing|information processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
+| 22 | [[parallel-distributed-processing|parallel distributed processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
 | 23 | [[Spreading-Activation|spreading activation]] | — | — | Rumelhart's Computational Schema Theory | 334 |
-| 24 | [[schema instantiation]] | — | — | Rumelhart's Computational Schema Theory | 334 |
+| 24 | [[schema-instantiation|schema instantiation]] | — | — | Rumelhart's Computational Schema Theory | 334 |
 | 25 | [[David-Ausubel|David Ausubel]] | — | — | Ausubel's Assimilation Theory and Adv... | 338 |
-| 26 | [[cognitive structure]] | — | — | Ausubel's Assimilation Theory and Adv... | 341 |
+| 26 | [[cognitive-structure|cognitive structure]] | — | — | Ausubel's Assimilation Theory and Adv... | 341 |
 | 27 | [[Advance-Organizer|advance organizer]] | — | — | Ausubel's Assimilation Theory and Adv... | 343 |
-| 28 | [[Roger Schank]] | — | — | Schank and Abelson's Script Theory | 350 |
-| 29 | [[Robert Abelson]] | — | — | Schank and Abelson's Script Theory | 350 |
-| 30 | [[text structure]] | — | — | Schank and Abelson's Script Theory | 355 |
-| 31 | [[Marvin Minsky]] | — | — | Minsky's Frame Theory | 359 |
-| 32 | [[knowledge representation]] | — | — | Minsky's Frame Theory | 359 |
-| 33 | [[Richard Anderson]] | — | — | Schema Activation: The Gateway to Com... | 378 |
-| 34 | [[John Bransford]] | — | — | Slot-Filling and Default Inference | 387 |
-| 35 | [[Marcia Johnson]] | — | — | Slot-Filling and Default Inference | 387 |
+| 28 | [[Roger-Schank|Roger Schank]] | — | — | Schank and Abelson's Script Theory | 350 |
+| 29 | [[Robert-Abelson|Robert Abelson]] | — | — | Schank and Abelson's Script Theory | 350 |
+| 30 | [[text-structure|text structure]] | — | — | Schank and Abelson's Script Theory | 355 |
+| 31 | [[Marvin-Minsky|Marvin Minsky]] | — | — | Minsky's Frame Theory | 359 |
+| 32 | [[knowledge-representation|knowledge representation]] | — | — | Minsky's Frame Theory | 359 |
+| 33 | [[Richard-Anderson|Richard Anderson]] | — | — | Schema Activation: The Gateway to Com... | 378 |
+| 34 | [[John-Bransford|John Bransford]] | — | — | Slot-Filling and Default Inference | 387 |
+| 35 | [[Marcia-Johnson|Marcia Johnson]] | — | — | Slot-Filling and Default Inference | 387 |
 | 36 | [[Elizabeth-Loftus|Elizabeth Loftus]] | — | — | Slot-Filling and Default Inference | 389 |
 | 37 | [[Adriaan de Groot]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 38 | [[William Chase]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
-| 39 | [[Herbert Simon]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
+| 39 | [[Herbert-Simon|Herbert Simon]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 40 | [[Conceptual-Change-Theory|conceptual change theory]] | — | — | Schema Change: From Learning to Conce... | 408 |
 | 41 | [[reading comprehension]] | — | — | Instructional Applications of Schema ... | 431 |
 | 42 | [[mathematics education]] | — | — | Instructional Applications of Schema ... | 431 |
@@ -526,7 +526,7 @@ extraction_summary:
 | 44 | [[naive physics]] | — | — | Instructional Applications of Schema ... | 438 |
 | 45 | [[conceptual change pedagogy]] | — | — | Instructional Applications of Schema ... | 438 |
 | 46 | [[Cognitive-Load-Theory|Cognitive load theory]] | — | — | Limitations and Open Questions | 454 |
-| 47 | [[spaced practice]] | — | — | Limitations and Open Questions | 454 |
+| 47 | [[spaced-practice|spaced practice]] | — | — | Limitations and Open Questions | 454 |
 | 48 | [[interleaved practice]] | — | — | Limitations and Open Questions | 454 |
 | 49 | [[connectionist models]] | — | — | Unresolved Questions | 481 |
 | 50 | [[Schema-Theory-and-Learning|Schema Theory and Learning]] | — | — | Unresolved Questions | 486 |
@@ -540,9 +540,9 @@ extraction_summary:
 | 58 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | C. Expansion Topics | 573 |
 | 59 | [[George Posner]] | — | — | C. Expansion Topics | 574 |
 | 60 | [[Susan Carey]] | — | — | C. Expansion Topics | 574 |
-| 61 | [[Stella Vosniadou]] | — | — | C. Expansion Topics | 574 |
+| 61 | [[Stella-Vosniadou|Stella Vosniadou]] | — | — | C. Expansion Topics | 574 |
 | 62 | [[Transfer of Learning — Mechanisms and Conditions]] | — | — | C. Expansion Topics | 576 |
-| 63 | [[John Bransford]] | — | — | C. Expansion Topics | 577 |
+| 63 | [[John-Bransford|John Bransford]] | — | — | C. Expansion Topics | 577 |
 | 64 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | C. Expansion Topics | 577 |
 | 65 | [[Prior Knowledge and Learning — Research Synthesis]] | — | — | C. Expansion Topics | 579 |
 | 66 | [[Expert-Novice Differences in Knowledge Organization]] | — | — | C. Expansion Topics | 582 |
@@ -580,29 +580,29 @@ extraction_summary:
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Frederic-Bartlett|Frederic Bartlett]]
 - [[George Posner]]
-- [[Herbert Simon]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
 - [[Immanuel-Kant|Immanuel Kant]]
 - [[Jean-Piaget|Jean Piaget]]
 - [[John-Anderson|John Anderson]]
-- [[John Bransford]]
+- [[John-Bransford|John Bransford]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
-- [[Marcia Johnson]]
-- [[Marvin Minsky]]
+- [[Marcia-Johnson|Marcia Johnson]]
+- [[Marvin-Minsky|Marvin Minsky]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Piaget]]
 - [[Prior Knowledge and Learning — Research Synthesis]]
 - [[Procedural-schemas|Procedural schemas]]
-- [[Richard Anderson]]
-- [[Robert Abelson]]
-- [[Roger Schank]]
+- [[Richard-Anderson|Richard Anderson]]
+- [[Robert-Abelson|Robert Abelson]]
+- [[Roger-Schank|Roger Schank]]
 - [[Rumelhart]]
 - [[Schank-and-Abelson|Schank and Abelson]]
 - [[Schema-Theory-and-Learning|Schema Theory and Learning]]
 - [[Schema-Theory|Schema theory]]
 - [[Script Theory — Schank and Abelson in Depth]]
-- [[Stella Vosniadou]]
+- [[Stella-Vosniadou|Stella Vosniadou]]
 - [[Susan Carey]]
 - [[Transfer of Learning — Mechanisms and Conditions]]
 - [[William Chase]]
@@ -610,23 +610,23 @@ extraction_summary:
 - [[Advance-Organizer|advance organizer]]
 - [[Advance-Organizers|advance organizers]]
 - [[bottom-up-processing|bottom-up processing]]
-- [[cognitive structure]]
+- [[cognitive-structure|cognitive structure]]
 - [[conceptual change pedagogy]]
 - [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
 - [[constructivist]]
-- [[information processing]]
+- [[information-processing|information processing]]
 - [[interleaved practice]]
-- [[knowledge representation]]
+- [[knowledge-representation|knowledge representation]]
 - [[mathematics education]]
 - [[metacognitive-awareness|metacognitive awareness]]
 - [[naive physics]]
-- [[parallel distributed processing]]
+- [[parallel-distributed-processing|parallel distributed processing]]
 - [[reading comprehension]]
-- [[schema instantiation]]
-- [[spaced practice]]
+- [[schema-instantiation|schema instantiation]]
+- [[spaced-practice|spaced practice]]
 - [[Spreading-Activation|spreading activation]]
-- [[text structure]]
+- [[text-structure|text structure]]
 - [[top-down-processing|top-down processing]]
 - [[Worked-Examples|worked examples]]
 

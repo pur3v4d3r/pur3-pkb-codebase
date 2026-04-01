@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 12
+referenced-by-count: 18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Control-Scaffolding]]"
+  - "[[Desirable-Difficulties]]"
+  - "[[Epistemic-Cognition]]"
+  - "[[Intellectual-Standards]]"
+  - "[[Metacognitive-Knowledge]]"
+  - "[[Metacognitive-Regulation]]"
   - "[[Metacognitive-Scaffolding]]"
   - "[[Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function]]"
   - "[[Monitoring-Scaffolding]]"
   - "[[Progressive-Disclosure]]"
-  - "[[Pseudometacognition]]"
-  - "[[Scaffold-Dependence]]"
-  - "[[Scaffolding-Instructional-Design]]"
-  - "[[The-Metacognitive-Scaffolding-Design-Triangle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,21 +59,27 @@ importance: medium
 # Vygotsky
 
 > [!definition] **Vygotsky**
-> *Stub note — concept referenced by 12 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 18 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 12 permanent notes.*
+*Auto-generated stub — referenced by 18 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Control-Scaffolding]]
+- [[Desirable-Difficulties]]
+- [[Epistemic-Cognition]]
+- [[Intellectual-Standards]]
+- [[Metacognitive-Knowledge]]
+- [[Metacognitive-Regulation]]
 - [[Metacognitive-Scaffolding]]
 - [[Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function]]
 - [[Monitoring-Scaffolding]]
 - [[Progressive-Disclosure]]
 - [[Pseudometacognition]]
+- [[Reflective-Judgment]]
 - [[Scaffold-Dependence]]
 - [[Scaffolding-Instructional-Design]]
 - [[The-Metacognitive-Scaffolding-Design-Triangle]]
 - [[The-Nelson-Narens-Monitoring-Control-Model]]
+- [[Transfer]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

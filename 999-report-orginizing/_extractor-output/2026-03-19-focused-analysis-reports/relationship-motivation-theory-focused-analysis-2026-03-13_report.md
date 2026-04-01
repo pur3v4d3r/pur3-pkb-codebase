@@ -454,34 +454,34 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Practice
 
-#### 59. [TOPIC-IDEA] [[Autonomy Support in Teaching — Mechanisms and Evidence]] *(Line 576)*
+#### 59. [TOPIC-IDEA] [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]] *(Line 576)*
 
-> [!topic-idea] [[Autonomy Support in Teaching — Mechanisms and Evidence]]
+> [!topic-idea] [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]]
 > This analysis would drill into Reeve's ISLE (Internally Structured Learning Environment) model and the substantial experimental evidence base for autonomy-supportive teaching. It would go beyond the Phase V summary here to examine the specific behavioral components of autonomy support, their differential effects on different student populations (particularly ego-involved, performance-oriented students who are most resistant to autonomy-supportive approaches), and the structural and psychological barriers that produce controlling teacher behavior even among teachers who endorse autonomy support as a value. Priority: HIGH — the most direct learning-science application of RMT.
 
-#### 60. [TOPIC-IDEA] [[Conditional Positive Regard — Costs and Clinical Implications]] *(Line 579)*
+#### 60. [TOPIC-IDEA] [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]] *(Line 579)*
 
-> [!topic-idea] [[Conditional Positive Regard — Costs and Clinical Implications]]
+> [!topic-idea] [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]]
 > A focused analysis examining the full mechanism chain from CPR in early caregiving to contingent self-esteem to downstream psychological costs — drawing on Deci et al.'s contingent self-worth research, Rogers's clinical foundation, and the developmental literature on parental conditional regard. Would analyze the paradox that CPR often co-occurs with genuine parental care and high investment, making it invisible as a harm-producing pattern, and examine therapeutic and relational conditions that can support repair. Priority: HIGH — directly addresses one of the most consequential mechanisms in RMT.
 
-#### 61. [TOPIC-IDEA] [[Need Thwarting Dynamics — Beyond the Absence of Support]] *(Line 582)*
+#### 61. [TOPIC-IDEA] [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]] *(Line 582)*
 
-> [!topic-idea] [[Need Thwarting Dynamics — Beyond the Absence of Support]]
+> [!topic-idea] [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]]
 > Focused analysis of the emerging need thwarting literature, examining Bartholomew and colleagues' work establishing the empirical separability of need thwarting from absence of support, the specific behavioral patterns associated with each form of thwarting, and the differential pathways through which thwarting affects ill-being vs. absence of support affects failure to flourish. Would also address the measurement challenges noted in Phase II's tension callout. Priority: HIGH — addresses a genuine theoretical gap in current RMT presentations.
 
-#### 62. [TOPIC-IDEA] [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]] *(Line 585)*
+#### 62. [TOPIC-IDEA] [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]] *(Line 585)*
 
-> [!topic-idea] [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
+> [!topic-idea] [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
 > The integration proposed in Phase VI's second original synthesis would be developed here into a full analysis. Would examine the overlapping and diverging predictions of attachment theory and RMT, test whether need satisfaction mediates the attachment security → well-being relationship (as the integration predicts), and analyze what attachment-based clinical approaches might gain from incorporating the motivational specificity of BPN theory. Priority: MEDIUM — intellectually rich but requires comfort with both bodies of literature.
 
-#### 63. [TOPIC-IDEA] [[Compassionate Goals vs. Self-Image Goals in Close Relationships]] *(Line 588)*
+#### 63. [TOPIC-IDEA] [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]] *(Line 588)*
 
-> [!topic-idea] [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
+> [!topic-idea] [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]]
 > Canevello and Crocker's research on how the goal orientation partners bring to a relationship shapes the motivational climate they create deserves a full focused analysis in this PKB. The direct parallel with mastery vs. performance goal orientation in SRL makes this a natural bridge between the motivational climate of learning and the motivational climate of relationships. Would examine what determines whether a person enters a relationship with compassionate vs. self-image goals, what relational contexts shift this orientation, and what the downstream effects on mutual responsiveness and need satisfaction look like over time. Priority: MEDIUM.
 
-#### 64. [TOPIC-IDEA] [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]] *(Line 591)*
+#### 64. [TOPIC-IDEA] [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]] *(Line 591)*
 
-> [!topic-idea] [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
+> [!topic-idea] [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 > Reis, Clark, and Holmes's PPR construct — feeling understood, validated, and cared for — is the phenomenological marker through which need-supportive behavior becomes experienced as genuine connection. A focused analysis would develop the measurement challenge (responsiveness is inherently subjective and partially projection), examine the behavioral cues that inform PPR judgments, and analyze how PPR functions as a real-time signal of need satisfaction quality within interactions. The key analytical question: what distinguishes accurate perception of genuine responsiveness from motivated perception that reads responsiveness into non-responsive behavior (a pattern associated with attachment anxiety)? Priority: HIGH.
 
 ---
@@ -494,17 +494,17 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
+- [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
 - [[Attachment-Theory|Attachment Theory]]
 - [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
-- [[Autonomy Support in Teaching — Mechanisms and Evidence]]
+- [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]]
 - [[Autonomy-Support|Autonomy support]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Canevello]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
+- [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]]
 - [[Conditional-Positive-Regard|Conditional Positive Regard]]
-- [[Conditional Positive Regard — Costs and Clinical Implications]]
+- [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]]
 - [[Crocker]]
 - [[Deci]]
 - [[Edward-Deci|Edward Deci]]
@@ -513,10 +513,10 @@ extraction_summary:
 - [[Knee]]
 - [[La-Guardia|La Guardia]]
 - [[Lonsbary]]
-- [[Need Thwarting Dynamics — Beyond the Absence of Support]]
+- [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Patrick]]
-- [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
+- [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 - [[Reeve]]
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard-Ryan|Richard Ryan]]
@@ -576,12 +576,12 @@ extraction_summary:
 | 38 | [[Conditional-Positive-Regard|Conditional Positive Regard]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 39 | [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 40 | [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
-| 41 | [[Autonomy Support in Teaching — Mechanisms and Evidence]] | — | — | D. Expansion Topics | 576 |
-| 42 | [[Conditional Positive Regard — Costs and Clinical Implications]] | — | — | D. Expansion Topics | 579 |
-| 43 | [[Need Thwarting Dynamics — Beyond the Absence of Support]] | — | — | D. Expansion Topics | 582 |
-| 44 | [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]] | — | — | D. Expansion Topics | 585 |
-| 45 | [[Compassionate Goals vs. Self-Image Goals in Close Relationships]] | — | — | D. Expansion Topics | 588 |
-| 46 | [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]] | — | — | D. Expansion Topics | 591 |
+| 41 | [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]] | — | — | D. Expansion Topics | 576 |
+| 42 | [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]] | — | — | D. Expansion Topics | 579 |
+| 43 | [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]] | — | — | D. Expansion Topics | 582 |
+| 44 | [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]] | — | — | D. Expansion Topics | 585 |
+| 45 | [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]] | — | — | D. Expansion Topics | 588 |
+| 46 | [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]] | — | — | D. Expansion Topics | 591 |
 
 ---
 
@@ -592,17 +592,17 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
+- [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]
 - [[Attachment-Theory|Attachment Theory]]
 - [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
-- [[Autonomy Support in Teaching — Mechanisms and Evidence]]
+- [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]]
 - [[Autonomy-Support|Autonomy support]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Canevello]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
+- [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]]
 - [[Conditional-Positive-Regard|Conditional Positive Regard]]
-- [[Conditional Positive Regard — Costs and Clinical Implications]]
+- [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]]
 - [[Crocker]]
 - [[Deci]]
 - [[Edward-Deci|Edward Deci]]
@@ -611,10 +611,10 @@ extraction_summary:
 - [[Knee]]
 - [[La-Guardia|La Guardia]]
 - [[Lonsbary]]
-- [[Need Thwarting Dynamics — Beyond the Absence of Support]]
+- [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Patrick]]
-- [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
+- [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 - [[Reeve]]
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard-Ryan|Richard Ryan]]

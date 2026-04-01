@@ -413,7 +413,7 @@ extraction_summary:
 > ├─ Agent architectures for research workflows
 > └─ Local LLM integration (Ollama)
 > **WIKI-LINK OPPORTUNITIES IDENTIFIED:**
-> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], [[Self-Consistency]], [[Constitutional-AI|Constitutional AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning|Few-shot Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search|Semantic Search]], [[Knowledge Graphs]], [[Obsidian Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
+> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic-API|Anthropic API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], [[Self-Consistency]], [[Constitutional-AI|Constitutional AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning|Few-shot Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search|Semantic Search]], [[Knowledge Graphs]], [[Obsidian Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] - Executive overview
 > - [!important] - Cost considerations and breaking points
@@ -900,7 +900,7 @@ extraction_summary:
 - [[Agent Protocols]]
 - [[Agentic Workflows]]
 - [[Anthropic]]
-- [[Anthropic API]]
+- [[Anthropic-API|Anthropic API]]
 - [[Anthropic Python SDK]]
 - [[Async Processing]]
 - [[Batch API]]
@@ -1067,7 +1067,7 @@ extraction_summary:
 | 13 | [[REST APIs]] | — | — | API LLM Adoption | 195 |
 | 14 | [[Python SDK]] | — | — | API LLM Adoption | 195 |
 | 15 | [[OpenAI API]] | — | — | API LLM Adoption | 195 |
-| 16 | [[Anthropic API]] | — | — | API LLM Adoption | 195 |
+| 16 | [[Anthropic-API|Anthropic API]] | — | — | API LLM Adoption | 195 |
 | 17 | [[Google AI API]] | — | — | API LLM Adoption | 195 |
 | 18 | [[Cost Optimization]] | — | — | API LLM Adoption | 195 |
 | 19 | [[Prompt Caching]] | — | — | API LLM Adoption | 195 |
@@ -2678,7 +2678,7 @@ for (let letter of sortedLetters) {
 - [[Agent Protocols]]
 - [[Agentic Workflows]]
 - [[Anthropic]]
-- [[Anthropic API]]
+- [[Anthropic-API|Anthropic API]]
 - [[Anthropic Python SDK]]
 - [[Async Processing]]
 - [[Batch API]]

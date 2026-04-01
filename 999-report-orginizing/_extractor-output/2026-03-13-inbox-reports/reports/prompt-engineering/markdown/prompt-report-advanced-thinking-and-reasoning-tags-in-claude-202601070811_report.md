@@ -387,7 +387,7 @@ extraction_summary:
 - [[Advanced Prompt Engineering for Extended Thinking]]
 - [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]]
 - [[Benchmarking]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science Foundations of Extended Thinking]]
 - [[Condorcet's Jury Theorem]]
@@ -398,7 +398,7 @@ extraction_summary:
 - [[Meta-Learning]]
 - [[Metacognition]]
 - [[Metacognitive AI Systems Beyond Thinking Tags]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[Production Deployment Patterns for Extended Thinking]]
 - [[Production ML Systems]]
 - [[Production Patterns]]
@@ -437,7 +437,7 @@ extraction_summary:
 | 19 | [[Reasoning Framework Integration Patterns]] | — | — | 4. **[[Reasoning Framework Integratio... | 3039 |
 | 20 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
 | 21 | [[Self-Consistency]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
-| 22 | [[Chain of Verification]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
+| 22 | [[Chain-of-Verification|Chain of Verification]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
 | 23 | [[Production Patterns]] | — | — | 4. **[[Reasoning Framework Integratio... | 3052 |
 | 24 | [[Thinking Quality Metrics and Benchmarking]] | — | — | 5. **[[Thinking Quality Metrics and B... | 3058 |
 | 25 | [[Extended Thinking]] | — | — | 5. **[[Thinking Quality Metrics and B... | 3072 |
@@ -446,7 +446,7 @@ extraction_summary:
 | 28 | [[Evaluation Metrics]] | — | — | 5. **[[Thinking Quality Metrics and B... | 3072 |
 | 29 | [[Cognitive Science Foundations of Extended Thinking]] | — | — | 6. **[[Cognitive Science Foundations ... | 3078 |
 | 30 | [[Cognitive-Science|Cognitive Science]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
-| 31 | [[Neuroscience]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
+| 31 | [[neuroscience]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 32 | [[AI Architecture]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 33 | [[human-cognition|Human Cognition]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 34 | [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]] | — | — | Active Review Task | 3218 |
@@ -2603,7 +2603,7 @@ description includes Review
 - [[Advanced Prompt Engineering for Extended Thinking]]
 - [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]]
 - [[Benchmarking]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science Foundations of Extended Thinking]]
 - [[Condorcet's Jury Theorem]]
@@ -2614,7 +2614,7 @@ description includes Review
 - [[Meta-Learning]]
 - [[Metacognition]]
 - [[Metacognitive AI Systems Beyond Thinking Tags]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[Production Deployment Patterns for Extended Thinking]]
 - [[Production ML Systems]]
 - [[Production Patterns]]

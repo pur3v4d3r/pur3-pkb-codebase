@@ -149,7 +149,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 128)*
 
 > [!abstract] Untitled
-> The remarkable longevity of [[Stoicism|Stoic]] philosophical practices—spanning more than two millennia—finds its validation not in tradition alone but in the fundamental correspondence between ancient introspective wisdom and modern [[cognitive-neuroscience|cognitive neuroscience]]. Contemporary research reveals that [[Stoic Techniques|Stoic techniques]] operate through specific, measurable psychological mechanisms that systematically reframe cognitive appraisals, decouple external events from internal responses, and promote [[Psychological Resilience|psychological resilience]] by engaging precise neural circuits involved in [[Emotional Regulation|emotional regulation]], [[Executive-Function|executive control]], and [[Neuroplasticity|adaptive plasticity]]. This convergence between ancient philosophy and empirical science demonstrates that [[Stoicism]] represents not merely a prescriptive ethical system but an evidence-based framework for cognitive restructuring whose efficacy derives from its alignment with the brain's inherent capacity for self-regulation and adaptive change.
+> The remarkable longevity of [[Stoicism|Stoic]] philosophical practices—spanning more than two millennia—finds its validation not in tradition alone but in the fundamental correspondence between ancient introspective wisdom and modern [[cognitive-neuroscience|cognitive neuroscience]]. Contemporary research reveals that [[Stoic Techniques|Stoic techniques]] operate through specific, measurable psychological mechanisms that systematically reframe cognitive appraisals, decouple external events from internal responses, and promote [[Psychological Resilience|psychological resilience]] by engaging precise neural circuits involved in [[Emotional-Regulation|emotional regulation]], [[Executive-Function|executive control]], and [[Neuroplasticity|adaptive plasticity]]. This convergence between ancient philosophy and empirical science demonstrates that [[Stoicism]] represents not merely a prescriptive ethical system but an evidence-based framework for cognitive restructuring whose efficacy derives from its alignment with the brain's inherent capacity for self-regulation and adaptive change.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 135)*
 
@@ -205,7 +205,7 @@ extraction_summary:
 > [!important] Untitled
 > **Distinguishing Premeditatio Malorum from Rumination**
 > 
-> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio-Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional Regulation|emotional regulation]] capacity.
+> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio-Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional-Regulation|emotional regulation]] capacity.
 
 #### 12. [THOUGHT-EXPERIMENT] Untitled *(Line 225)*
 
@@ -219,21 +219,21 @@ extraction_summary:
 > [!evidence] Untitled
 > **Neurobiological Foundations of Hormesis**
 > 
-> The principle underlying voluntary discomfort finds biological validation in the concept of *[[Hormesis|hormesis]]* — the phenomenon whereby exposure to low-level stressors triggers adaptive responses that enhance overall resilience. Exercise provides the clearest example: controlled physical stress damages muscle fibers and challenges cardiovascular systems, but this damage triggers repair processes that leave the organism stronger than before. Neurological research demonstrates similar hormetic effects for psychological stressors. Moderate, controllable challenges increase levels of [[Brain-Derived Neurotrophic Factor|brain-derived neurotrophic factor]] (BDNF), a protein that promotes [[Neuroplasticity|neuroplasticity]] and [[Neurogenesis|neurogenesis]] in the [[Hippocampus|hippocampus]] and [[Prefrontal Cortex|prefrontal cortex]]. Aerobic exercise, which the Stoics valued highly, has been shown to increase volume in the prefrontal cortex and hippocampus—regions typically diminished by chronic uncontrolled stress. This demonstrates that the critical variable is not stress intensity but the presence of *agency and control* during challenge.
+> The principle underlying voluntary discomfort finds biological validation in the concept of *[[Hormesis|hormesis]]* — the phenomenon whereby exposure to low-level stressors triggers adaptive responses that enhance overall resilience. Exercise provides the clearest example: controlled physical stress damages muscle fibers and challenges cardiovascular systems, but this damage triggers repair processes that leave the organism stronger than before. Neurological research demonstrates similar hormetic effects for psychological stressors. Moderate, controllable challenges increase levels of [[Brain-Derived Neurotrophic Factor|brain-derived neurotrophic factor]] (BDNF), a protein that promotes [[Neuroplasticity|neuroplasticity]] and [[Neurogenesis|neurogenesis]] in the [[Hippocampus|hippocampus]] and [[prefrontal-cortex|prefrontal cortex]]. Aerobic exercise, which the Stoics valued highly, has been shown to increase volume in the prefrontal cortex and hippocampus—regions typically diminished by chronic uncontrolled stress. This demonstrates that the critical variable is not stress intensity but the presence of *agency and control* during challenge.
 
 #### 14. [METHODOLOGY-AND-SOURCES] Untitled *(Line 253)*
 
 > [!methodology-and-sources] Untitled
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive-Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[prefrontal-cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 #### 15. [KEY-CLAIM] Untitled *(Line 268)*
 
 > [!key-claim] Untitled
 > **The Trainability of Resilience Circuits**
 > 
-> Perhaps the most psychologically liberating discovery of modern [[Neuroscience|neuroscience]] is that [[Resilience|resilience]] represents not a fixed trait but a *trainable capacity*. The brain regions and connectivity patterns associated with resilience exhibit remarkable plasticity in response to training. Studies on [[Mindfulness-Based Stress Reduction|mindfulness-based interventions]], which share substantial overlap with [[Stoic Practices|Stoic techniques]], demonstrate measurable increases in [[Gray Matter Density|gray matter density]] in the [[Prefrontal Cortex|prefrontal cortex]] and [[Hippocampus|hippocampus]] after just eight weeks of daily practice. These structural changes accompany functional improvements in [[Emotional Regulation|emotion regulation]], [[Cognitive Flexibility|cognitive flexibility]], and [[Stress Reactivity|stress reactivity]]. The implication is profound: regular practice of [[Cognitive-Reappraisal|cognitive reappraisal]], [[Premeditatio-Malorum|negative visualization]], and [[Self-Reflection|systematic self-reflection]] literally rebuilds the brain's regulatory architecture.
+> Perhaps the most psychologically liberating discovery of modern [[neuroscience|neuroscience]] is that [[Resilience|resilience]] represents not a fixed trait but a *trainable capacity*. The brain regions and connectivity patterns associated with resilience exhibit remarkable plasticity in response to training. Studies on [[Mindfulness-Based Stress Reduction|mindfulness-based interventions]], which share substantial overlap with [[Stoic Practices|Stoic techniques]], demonstrate measurable increases in [[Gray Matter Density|gray matter density]] in the [[prefrontal-cortex|prefrontal cortex]] and [[Hippocampus|hippocampus]] after just eight weeks of daily practice. These structural changes accompany functional improvements in [[Emotional-Regulation|emotion regulation]], [[Cognitive Flexibility|cognitive flexibility]], and [[Stress Reactivity|stress reactivity]]. The implication is profound: regular practice of [[Cognitive-Reappraisal|cognitive reappraisal]], [[Premeditatio-Malorum|negative visualization]], and [[Self-Reflection|systematic self-reflection]] literally rebuilds the brain's regulatory architecture.
 
 #### 16. [QUOTE] Untitled *(Line 283)*
 
@@ -326,7 +326,7 @@ extraction_summary:
 - [[Affective and Cognitive Neuroscience Lab]]
 - [[Agency]]
 - [[Albert Ellis]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Amygdala]]
 - [[Ancient Philosophy]]
 - [[Anger]]
@@ -384,7 +384,7 @@ extraction_summary:
 - [[Emotional Control]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity and Psychological Flexibility - Advanced Emotion Regulation]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Emotional Vulnerability]]
 - [[Epictetus]]
 - [[Episodic-Memory|Episodic Memory]]
@@ -393,11 +393,11 @@ extraction_summary:
 - [[Evening Examination]]
 - [[Evidence-Based Treatment]]
 - [[Evolutionary Biology]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Executive-Function|Executive Function]]
 - [[Exercise Physiology]]
 - [[Experiential Avoidance]]
-- [[Expert Performance]]
+- [[expert-performance|Expert Performance]]
 - [[Exposure Therapy]]
 - [[Expressive Suppression]]
 - [[Flourishing]]
@@ -439,7 +439,7 @@ extraction_summary:
 - [[Neuroimaging]]
 - [[Neuroplasticity]]
 - [[Neuroplasticity Mechanisms in Adult Learning and Habit Formation]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[Oikeiosis]]
 - [[Outcome Goals]]
 - [[Panaetius of Rhodes]]
@@ -450,7 +450,7 @@ extraction_summary:
 - [[Post-Traumatic Growth]]
 - [[Post-Traumatic Stress Disorder]]
 - [[Posterior Cingulate Cortex]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Prefrontal Cortex Volume]]
 - [[Prefrontal-Amygdala Connectivity]]
 - [[Prefrontal-Limbic Network]]
@@ -535,7 +535,7 @@ extraction_summary:
 | 1 | [[The Central Paradox: Ancient Wisdom Meets Modern Validation]] | — | — | The Central Paradox: Ancient Wisdom M... | 42 |
 | 2 | [[Stoicism]] | — | — | Claude Thinking: | 109 |
 | 3 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 109 |
-| 4 | [[Emotional Regulation]] | — | — | Claude Thinking: | 109 |
+| 4 | [[Emotional-Regulation|Emotional Regulation]] | — | — | Claude Thinking: | 109 |
 | 5 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 109 |
 | 6 | [[Resilience]] | — | — | Claude Thinking: | 109 |
 | 7 | [[Neuroplasticity]] | — | — | Claude Thinking: | 109 |
@@ -553,7 +553,7 @@ extraction_summary:
 | 19 | [[cognitive-neuroscience|Cognitive Neuroscience]] | cognitive neuroscience | — | Claude Thinking: | 129 |
 | 20 | [[Stoic Techniques]] | Stoic techniques | — | Claude Thinking: | 129 |
 | 21 | [[Psychological Resilience]] | psychological resilience | — | Claude Thinking: | 129 |
-| 22 | [[Emotional Regulation]] | emotional regulation | — | Claude Thinking: | 129 |
+| 22 | [[Emotional-Regulation|Emotional Regulation]] | emotional regulation | — | Claude Thinking: | 129 |
 | 23 | [[Executive-Function|Executive Function]] | executive control | — | Claude Thinking: | 129 |
 | 24 | [[Neuroplasticity]] | adaptive plasticity | — | Claude Thinking: | 129 |
 | 25 | [[Stoicism]] | — | — | Claude Thinking: | 129 |
@@ -570,11 +570,11 @@ extraction_summary:
 | 36 | [[Epictetus]] | — | — | 🧠 The Central Paradox: Ancient Wisdom... | 138 |
 | 37 | [[Affective Neuroscience]] | affective neuroscience | — | 🧠 The Central Paradox: Ancient Wisdom... | 138 |
 | 38 | [[Amygdala]] | amygdala | — | 🧠 The Central Paradox: Ancient Wisdom... | 138 |
-| 39 | [[Neuroscience]] | neuroscientific | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
+| 39 | [[neuroscience]] | neuroscientific | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
 | 40 | [[Magnetoencephalography]] | magnetoencephalography | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
-| 41 | [[Prefrontal Cortex]] | prefrontal cortex | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
+| 41 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal cortex | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
 | 42 | [[Human Agency]] | human agency | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
-| 43 | [[Prefrontal Cortex]] | prefrontal control | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
+| 43 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal control | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
 | 44 | [[Limbic System]] | limbic reactivity | — | 🧠 The Central Paradox: Ancient Wisdom... | 140 |
 | 45 | [[Amygdala]] | amygdala | — | 📊 The Three-Phase Model of Stoic Emot... | 146 |
 | 46 | [[Basolateral Amygdala]] | basolateral amygdala | — | 📊 The Three-Phase Model of Stoic Emot... | 146 |
@@ -590,7 +590,7 @@ extraction_summary:
 | 56 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
 | 57 | [[Dorsolateral Prefrontal Cortex]] | DLPFC | — | 📊 The Three-Phase Model of Stoic Emot... | 153 |
 | 58 | [[Limbic System]] | limbic | — | 📊 The Three-Phase Model of Stoic Emot... | 160 |
-| 59 | [[Prefrontal Cortex]] | prefrontal | — | 📊 The Three-Phase Model of Stoic Emot... | 160 |
+| 59 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal | — | 📊 The Three-Phase Model of Stoic Emot... | 160 |
 | 60 | [[Autonomic Nervous System]] | autonomic systems | — | 📊 The Three-Phase Model of Stoic Emot... | 160 |
 | 61 | [[Stoic Practices]] | Stoic practices | — | 🔬 Cognitive Reappraisal: The Central ... | 164 |
 | 62 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🔬 Cognitive Reappraisal: The Central ... | 164 |
@@ -601,7 +601,7 @@ extraction_summary:
 | 67 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
 | 68 | [[Ventrolateral Prefrontal Cortex]] | ventrolateral prefrontal cortex | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
 | 69 | [[Dorsomedial Prefrontal Cortex]] | dorsomedial prefrontal cortex | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
-| 70 | [[Executive Control]] | executive control | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
+| 70 | [[Executive-Control|Executive Control]] | executive control | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
 | 71 | [[Cognitive Flexibility]] | cognitive flexibility | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
 | 72 | [[Metacognition]] | metacognitive awareness | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
 | 73 | [[Amygdala]] | amygdala | — | 🔬 Cognitive Reappraisal: The Central ... | 166 |
@@ -618,7 +618,7 @@ extraction_summary:
 | 84 | [[Epictetus]] | — | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
 | 85 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | Acceptance and Commitment Therapy | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
 | 86 | [[Metacognition]] | metacognitive awareness | — | 🔬 Cognitive Reappraisal: The Central ... | 173 |
-| 87 | [[Prefrontal Cortex]] | prefrontal control | — | 🔬 Cognitive Reappraisal: The Central ... | 175 |
+| 87 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal control | — | 🔬 Cognitive Reappraisal: The Central ... | 175 |
 | 88 | [[Limbic Structures]] | limbic structures | — | 🔬 Cognitive Reappraisal: The Central ... | 175 |
 | 89 | [[Stoic Principle]] | Stoic principle | — | 🎯 The Dichotomy of Control: Reframing... | 179 |
 | 90 | [[Dichotomy-of-Control|Dichotomy of Control]] | dichotomy of control | — | 🎯 The Dichotomy of Control: Reframing... | 179 |
@@ -652,7 +652,7 @@ extraction_summary:
 | 118 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🌊 Premeditatio Malorum: Prospective C... | 199 |
 | 119 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
 | 120 | [[Stress Inoculation]] | stress inoculation | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
-| 121 | [[Prefrontal Cortex]] | prefrontal monitoring | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
+| 121 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal monitoring | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
 | 122 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
 | 123 | [[Exposure Therapy]] | exposure therapy | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
 | 124 | [[Amygdala]] | amygdala | — | 🌊 Premeditatio Malorum: Prospective C... | 201 |
@@ -681,7 +681,7 @@ extraction_summary:
 | 147 | [[Depression]] | depression | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
 | 148 | [[Anxiety]] | anxiety | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
 | 149 | [[Resilience]] | resilience | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
-| 150 | [[Emotional Regulation]] | emotional regulation | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
+| 150 | [[Emotional-Regulation|Emotional Regulation]] | emotional regulation | — | 🌊 Premeditatio Malorum: Prospective C... | 215 |
 | 151 | [[Stoic Exercise]] | Stoic exercise | — | 🧘 The View from Above: Cosmic Perspec... | 219 |
 | 152 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🧘 The View from Above: Cosmic Perspec... | 219 |
 | 153 | [[Cognitive Distancing]] | cognitive distancing | — | 🧘 The View from Above: Cosmic Perspec... | 221 |
@@ -713,7 +713,7 @@ extraction_summary:
 | 179 | [[Neuroplasticity]] | neuroplasticity | — | 💪 Voluntary Discomfort: Building Resi... | 241 |
 | 180 | [[Neurogenesis]] | neurogenesis | — | 💪 Voluntary Discomfort: Building Resi... | 241 |
 | 181 | [[Hippocampus]] | hippocampus | — | 💪 Voluntary Discomfort: Building Resi... | 241 |
-| 182 | [[Prefrontal Cortex]] | prefrontal cortex | — | 💪 Voluntary Discomfort: Building Resi... | 241 |
+| 182 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal cortex | — | 💪 Voluntary Discomfort: Building Resi... | 241 |
 | 183 | [[Self-Efficacy]] | self-efficacy | — | 💪 Voluntary Discomfort: Building Resi... | 243 |
 | 184 | [[Resilience]] | resilience | — | 💪 Voluntary Discomfort: Building Resi... | 243 |
 | 185 | [[Well-being]] | psychological well-being | — | 💪 Voluntary Discomfort: Building Resi... | 243 |
@@ -735,7 +735,7 @@ extraction_summary:
 | 201 | [[Virtue]] | virtue | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 202 | [[Executive-Function|Executive Function]] | executive function | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 203 | [[Self-Regulation-Theory]] | self-regulatory | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
-| 204 | [[Prefrontal Cortex]] | prefrontal cortex | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
+| 204 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal cortex | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 205 | [[Stoic Principle]] | Stoic principle | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 206 | [[Implementation-Intentions|Implementation Intentions]] | implementation intentions | — | 🔄 Evening Reflection: Metacognitive M... | 256 |
 | 207 | [[Self-Reflection]] | self-reflection | — | 🔄 Evening Reflection: Metacognitive M... | 258 |
@@ -753,19 +753,19 @@ extraction_summary:
 | 219 | [[Resilience]] | psychological resilience | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 220 | [[Prefrontal Cortex Volume]] | prefrontal cortex volume | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 221 | [[Executive-Function|Executive Function]] | executive function | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
-| 222 | [[Emotional Regulation]] | emotion regulation | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
-| 223 | [[Prefrontal Cortex]] | prefrontal regions | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
+| 222 | [[Emotional-Regulation|Emotional Regulation]] | emotion regulation | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
+| 223 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal regions | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 224 | [[Amygdala]] | amygdala | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 225 | [[Brain-Derived Neurotrophic Factor]] | BDNF | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
 | 226 | [[Hippocampal Neurogenesis]] | hippocampal neurogenesis | — | 🌐 The Neurobiology of Stoic Resilienc... | 266 |
-| 227 | [[Neuroscience]] | neuroscience | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
+| 227 | [[neuroscience]] | neuroscience | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 228 | [[Resilience]] | resilience | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 229 | [[Mindfulness-Based Stress Reduction]] | mindfulness-based interventions | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 230 | [[Stoic Practices]] | Stoic techniques | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 231 | [[Gray Matter Density]] | gray matter density | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
-| 232 | [[Prefrontal Cortex]] | prefrontal cortex | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
+| 232 | [[prefrontal-cortex|Prefrontal Cortex]] | prefrontal cortex | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 233 | [[Hippocampus]] | hippocampus | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
-| 234 | [[Emotional Regulation]] | emotion regulation | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
+| 234 | [[Emotional-Regulation|Emotional Regulation]] | emotion regulation | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 235 | [[Cognitive Flexibility]] | cognitive flexibility | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 236 | [[Stress Reactivity]] | stress reactivity | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
 | 237 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | 🌐 The Neurobiology of Stoic Resilienc... | 271 |
@@ -844,7 +844,7 @@ extraction_summary:
 | 310 | [[Self as Context]] | self-as-context | — | 🔮 Integration with Modern Psychologic... | 298 |
 | 311 | [[Values Clarification]] | values clarification | — | 🔮 Integration with Modern Psychologic... | 298 |
 | 312 | [[Committed Action]] | committed action | — | 🔮 Integration with Modern Psychologic... | 298 |
-| 313 | [[Amor Fati]] | amor fati | — | 🔮 Integration with Modern Psychologic... | 298 |
+| 313 | [[Amor-Fati|Amor Fati]] | amor fati | — | 🔮 Integration with Modern Psychologic... | 298 |
 | 314 | [[Polyvagal Theory]] | Polyvagal theory | — | 🔮 Integration with Modern Psychologic... | 303 |
 | 315 | [[Stoic Practices]] | Stoic practices | — | 🔮 Integration with Modern Psychologic... | 303 |
 | 316 | [[Autonomic Nervous System]] | autonomic nervous system | — | 🔮 Integration with Modern Psychologic... | 303 |
@@ -862,7 +862,7 @@ extraction_summary:
 | 328 | [[Stoic-Philosophy|Stoic Philosophy]] | Stoic philosophy | — | 🔮 Integration with Modern Psychologic... | 305 |
 | 329 | [[Stoic Path]] | Stoic path | — | 🔮 Integration with Modern Psychologic... | 305 |
 | 330 | [[Stoicism]] | Stoic wisdom | — | 🎯 Practical Implications and Contempo... | 309 |
-| 331 | [[Neuroscience]] | neuroscience | — | 🎯 Practical Implications and Contempo... | 309 |
+| 331 | [[neuroscience]] | neuroscience | — | 🎯 Practical Implications and Contempo... | 309 |
 | 332 | [[Psychological Resilience]] | psychological resilience | — | 🎯 Practical Implications and Contempo... | 309 |
 | 333 | [[Well-being]] | well-being | — | 🎯 Practical Implications and Contempo... | 309 |
 | 334 | [[Premeditatio-Malorum|Premeditatio Malorum]] | negative visualization | — | 🎯 Practical Implications and Contempo... | 311 |
@@ -915,8 +915,8 @@ extraction_summary:
 | 381 | [[Stoic Practices]] | Stoic practices | — | 🔗 Related Topics for PKB Expansion | 349 |
 | 382 | [[Neuroplasticity]] | neuroplasticity | — | 🔗 Related Topics for PKB Expansion | 349 |
 | 383 | [[Skill-Acquisition|Skill Acquisition]] | skill acquisition | — | 🔗 Related Topics for PKB Expansion | 350 |
-| 384 | [[Expert Performance]] | expertise development | — | 🔗 Related Topics for PKB Expansion | 350 |
-| 385 | [[Neuroscience]] | neuroscience | — | 🔗 Related Topics for PKB Expansion | 351 |
+| 384 | [[expert-performance|Expert Performance]] | expertise development | — | 🔗 Related Topics for PKB Expansion | 350 |
+| 385 | [[neuroscience]] | neuroscience | — | 🔗 Related Topics for PKB Expansion | 351 |
 | 386 | [[Learning Theory]] | learning theory | — | 🔗 Related Topics for PKB Expansion | 351 |
 | 387 | [[Habit Research]] | habit research | — | 🔗 Related Topics for PKB Expansion | 351 |
 | 388 | [[Meditation Research]] | contemplative science | — | 🔗 Related Topics for PKB Expansion | 351 |
@@ -1011,7 +1011,7 @@ extraction_summary:
 - [[Affective and Cognitive Neuroscience Lab]]
 - [[Agency]]
 - [[Albert Ellis]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Amygdala]]
 - [[Ancient Philosophy]]
 - [[Anger]]
@@ -1069,7 +1069,7 @@ extraction_summary:
 - [[Emotional Control]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity and Psychological Flexibility - Advanced Emotion Regulation]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Emotional Vulnerability]]
 - [[Epictetus]]
 - [[Episodic-Memory|Episodic Memory]]
@@ -1078,11 +1078,11 @@ extraction_summary:
 - [[Evening Examination]]
 - [[Evidence-Based Treatment]]
 - [[Evolutionary Biology]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Executive-Function|Executive Function]]
 - [[Exercise Physiology]]
 - [[Experiential Avoidance]]
-- [[Expert Performance]]
+- [[expert-performance|Expert Performance]]
 - [[Exposure Therapy]]
 - [[Expressive Suppression]]
 - [[Flourishing]]
@@ -1124,7 +1124,7 @@ extraction_summary:
 - [[Neuroimaging]]
 - [[Neuroplasticity]]
 - [[Neuroplasticity Mechanisms in Adult Learning and Habit Formation]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[Oikeiosis]]
 - [[Outcome Goals]]
 - [[Panaetius of Rhodes]]
@@ -1135,7 +1135,7 @@ extraction_summary:
 - [[Post-Traumatic Growth]]
 - [[Post-Traumatic Stress Disorder]]
 - [[Posterior Cingulate Cortex]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Prefrontal Cortex Volume]]
 - [[Prefrontal-Amygdala Connectivity]]
 - [[Prefrontal-Limbic Network]]

@@ -385,7 +385,7 @@ extraction_summary:
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Germane-Load|Germane Load]]
 - [[Information-Processing-Theory|Information Processing Theory]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Load|Intrinsic Load]]
 - [[Knowledge-Graph|Knowledge Graph]]
@@ -393,7 +393,7 @@ extraction_summary:
 - [[Modular Architecture]]
 - [[Modular Design]]
 - [[Modular Task Decomposition in Sequential Prompt Engineering]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[PKB]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
@@ -482,14 +482,14 @@ extraction_summary:
 | 58 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 3. **[[Software Architecture Patterns... | 475 |
 | 59 | [[Software Architecture]] | — | — | 3. **[[Software Architecture Patterns... | 475 |
 | 60 | [[Cognitive Load Management in Digital Knowledge Work]] | — | — | 4. **[[Cognitive Load Management in D... | 478 |
-| 61 | [[Neuroscience]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
+| 61 | [[neuroscience]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
 | 62 | [[Ergonomics]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
 | 63 | [[Productivity Research]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
 | 64 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 4. **[[Cognitive Load Management in D... | 481 |
 | 65 | [[Adaptive Orchestration and Meta-Learning in Prompt Systems]] | — | — | 5. **[[Adaptive Orchestration and Met... | 485 |
 | 66 | [[Context Window Architectures and Memory Management]] | — | — | 6. **[[Context Window Architectures a... | 491 |
 | 67 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 6. **[[Context Window Architectures a... | 494 |
-| 68 | [[Information Theory]] | — | — | 6. **[[Context Window Architectures a... | 494 |
+| 68 | [[Information-Theory|Information Theory]] | — | — | 6. **[[Context Window Architectures a... | 494 |
 | 69 | [[Systems Architecture]] | — | — | 6. **[[Context Window Architectures a... | 494 |
 | 70 | [[Modular Task Decomposition in Sequential Prompt Engineering]] | — | — | Active Review Task | 587 |
 | 71 | [[Modular Task Decomposition in Sequential Prompt Engineering]] | — | — | Active Review Task | 590 |
@@ -918,7 +918,7 @@ description includes Review
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Germane-Load|Germane Load]]
 - [[Information-Processing-Theory|Information Processing Theory]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Load|Intrinsic Load]]
 - [[Knowledge-Graph|Knowledge Graph]]
@@ -926,7 +926,7 @@ description includes Review
 - [[Modular Architecture]]
 - [[Modular Design]]
 - [[Modular Task Decomposition in Sequential Prompt Engineering]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[PKB]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]

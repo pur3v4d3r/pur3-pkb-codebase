@@ -24,30 +24,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 24
+referenced-by-count: 45
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[4E-Cognition]]"
+  - "[[Active-Externalism]]"
+  - "[[Analogical-Reasoning]]"
   - "[[Assimilation,-Accommodation,-and-Equilibration]]"
+  - "[[Bayesian-Inference]]"
+  - "[[Causal-Induction]]"
+  - "[[Classical-Cognitivism]]"
+  - "[[Cognitive-Offloading]]"
+  - "[[Cognitive-Scaffolding]]"
   - "[[Constructive-Attentiveness]]"
-  - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Dewey's-Continuity-and-Interaction-Principles]]"
-  - "[[Feeling-of-Knowing]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Identified-Regulation-vs.-Integrated-Regulation]]"
-  - "[[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Lev-Vygotsky
 
 > [!definition] **Lev-Vygotsky**
-> *Stub note — concept referenced by 24 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 45 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 24 permanent notes.*
+*Auto-generated stub — referenced by 45 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[4E-Cognition]]
+- [[Active-Externalism]]
+- [[Analogical-Reasoning]]
 - [[Assimilation,-Accommodation,-and-Equilibration]]
+- [[Bayesian-Inference]]
+- [[Causal-Induction]]
+- [[Classical-Cognitivism]]
+- [[Cognitive-Offloading]]
+- [[Cognitive-Scaffolding]]
 - [[Constructive-Attentiveness]]
+- [[Coupling-Constitution-Fallacy]]
 - [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
 - [[Deliberate-Practice]]
 - [[Dewey's-Continuity-and-Interaction-Principles]]
+- [[Distributed-Cognition]]
+- [[Enumerative-Induction]]
+- [[Extended-Mind-Theory]]
+- [[Falsificationism]]
 - [[Feeling-of-Knowing]]
 - [[Fluency-Illusion]]
-- [[Identified-Regulation-vs.-Integrated-Regulation]]
-- [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
-- [[Judgment-of-Learning]]
-- [[Recursive-Self-Authorship]]
-- [[Scaffolded-Fading]]
-- [[Scaffolding]]
-- [[Schema-Accommodation]]
-- [[Working-Memory-and-Long-Term-Memory-in-CLT]]
-- [[Zone-of-Proximal-Development]]
-- [[📖-Identified-Regulation-vs.-Integrated-Regulation]]
-- [[📖-Metacognitive-Regulation]]
-- [[📖-Organismic-Integration-Theory]]
-- *...and 4 more permanent notes*
+- *...and 25 more permanent notes*

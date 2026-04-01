@@ -200,7 +200,7 @@ extraction_summary:
 #### 11. [KEY-CLAIM] Theory-Ladenness and Abductive Sensitivity *(Line 368)*
 
 > [!key-claim] Theory-Ladenness and Abductive Sensitivity
-> Hanson's argument that observation is theory-laden means that developing abductive competence is inseparable from developing richer domain knowledge. A novice who lacks the conceptual framework to *recognize* an anomaly cannot initiate an abductive inference. A physicist trained in classical mechanics will not find quantum superposition initially surprising in the way a physicist fluent in classical mechanics will — because the surprise depends on knowing what the rule predicts and recognizing that the observed result deviates from it. This is one of the underappreciated reasons why [[Domain Knowledge]] acquisition and reasoning skill development are complementary rather than competing educational goals.
+> Hanson's argument that observation is theory-laden means that developing abductive competence is inseparable from developing richer domain knowledge. A novice who lacks the conceptual framework to *recognize* an anomaly cannot initiate an abductive inference. A physicist trained in classical mechanics will not find quantum superposition initially surprising in the way a physicist fluent in classical mechanics will — because the surprise depends on knowing what the rule predicts and recognizing that the observed result deviates from it. This is one of the underappreciated reasons why [[Domain-Knowledge|Domain Knowledge]] acquisition and reasoning skill development are complementary rather than competing educational goals.
 
 #### 12. [REFLECTION] Engaging the Landscape *(Line 377)*
 
@@ -418,14 +418,14 @@ extraction_summary:
 - [[Bas-van-Fraassen|Bas van Fraassen]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Creative Cognition]]
+- [[Creative-Cognition|Creative Cognition]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[David Klahr]]
+- [[David-Klahr|David Klahr]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Design Thinking]]
+- [[Design-Thinking|Design Thinking]]
 - [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]]
 - [[Design Thinking as Abductive Pedagogy — Theory and Practice]]
-- [[Domain Knowledge]]
+- [[Domain-Knowledge|Domain Knowledge]]
 - [[Donald-Schön|Donald Schön]]
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Epistemic Calibration and Uncertainty Tolerance in Learners]]
@@ -436,19 +436,19 @@ extraction_summary:
 - [[Inference to the Best Explanation — Philosophical Foundations]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
-- [[Jaakko Hintikka]]
+- [[Jaakko-Hintikka|Jaakko Hintikka]]
 - [[Lorenzo-Magnani|Lorenzo Magnani]]
 - [[Manu-Kapur|Manu Kapur]]
 - [[Metacognition]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Next Generation Science Standards]]
-- [[Norwood Russell Hanson]]
+- [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Peirce]]
 - [[Peter-Lipton|Peter Lipton]]
 - [[philosophy-of-science|Philosophy of Science]]
-- [[Roger Martin]]
+- [[Roger-Martin|Roger Martin]]
 - [[Scientific Discovery — Cognitive Models and Historical Case Studies]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]
@@ -480,16 +480,16 @@ extraction_summary:
 | 18 | [[Umberto-Eco|Umberto Eco]] | — | — | Eco-Cognitive and Model-Based Abduction | 353 |
 | 19 | [[Lorenzo-Magnani|Lorenzo Magnani]] | Lorenzo Magnani's | — | Eco-Cognitive and Model-Based Abduction | 357 |
 | 20 | [[Embodied-Cognition|Embodied Cognition]] | embodied and situated cognition | — | Eco-Cognitive and Model-Based Abduction | 357 |
-| 21 | [[Norwood Russell Hanson]] | — | — | Naturalized Accounts: Abduction in Co... | 364 |
-| 22 | [[Jaakko Hintikka]] | — | — | Naturalized Accounts: Abduction in Co... | 366 |
-| 23 | [[Domain Knowledge]] | — | — | Naturalized Accounts: Abduction in Co... | 369 |
-| 24 | [[Roger Martin]] | — | — | The Design Thinking Connection | 373 |
+| 21 | [[Norwood-Russell-Hanson|Norwood Russell Hanson]] | — | — | Naturalized Accounts: Abduction in Co... | 364 |
+| 22 | [[Jaakko-Hintikka|Jaakko Hintikka]] | — | — | Naturalized Accounts: Abduction in Co... | 366 |
+| 23 | [[Domain-Knowledge|Domain Knowledge]] | — | — | Naturalized Accounts: Abduction in Co... | 369 |
+| 24 | [[Roger-Martin|Roger Martin]] | — | — | The Design Thinking Connection | 373 |
 | 25 | [[Deductive-Reasoning|Deductive Reasoning]] | deductive | — | The Design Thinking Connection | 373 |
 | 26 | [[Inductive-Reasoning|Inductive Reasoning]] | inductive | — | The Design Thinking Connection | 373 |
-| 27 | [[Design Thinking]] | design thinking | — | The Design Thinking Connection | 375 |
-| 28 | [[Creative Cognition]] | Creative cognition | — | The Cognitive Anatomy of Abductive In... | 397 |
+| 27 | [[Design-Thinking|Design Thinking]] | design thinking | — | The Design Thinking Connection | 375 |
+| 28 | [[Creative-Cognition|Creative Cognition]] | Creative cognition | — | The Cognitive Anatomy of Abductive In... | 397 |
 | 29 | [[Scientific-Reasoning|Scientific Reasoning]] | scientific reasoning | — | The Cognitive Anatomy of Abductive In... | 406 |
-| 30 | [[David Klahr]] | David Klahr | — | The Cognitive Anatomy of Abductive In... | 406 |
+| 30 | [[David-Klahr|David Klahr]] | David Klahr | — | The Cognitive Anatomy of Abductive In... | 406 |
 | 31 | [[Metacognition]] | metacognitive | — | Metacognitive Dimensions of Abductive... | 417 |
 | 32 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | critical thinking research | — | Metacognitive Dimensions of Abductive... | 419 |
 | 33 | [[Donald-Schön|Donald Schön]] | Schön's | — | Metacognitive Dimensions of Abductive... | 419 |
@@ -532,14 +532,14 @@ extraction_summary:
 - [[Bas-van-Fraassen|Bas van Fraassen]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
-- [[Creative Cognition]]
+- [[Creative-Cognition|Creative Cognition]]
 - [[Critical-Thinking|Critical Thinking]]
-- [[David Klahr]]
+- [[David-Klahr|David Klahr]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Design Thinking]]
+- [[Design-Thinking|Design Thinking]]
 - [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]]
 - [[Design Thinking as Abductive Pedagogy — Theory and Practice]]
-- [[Domain Knowledge]]
+- [[Domain-Knowledge|Domain Knowledge]]
 - [[Donald-Schön|Donald Schön]]
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Epistemic Calibration and Uncertainty Tolerance in Learners]]
@@ -550,19 +550,19 @@ extraction_summary:
 - [[Inference to the Best Explanation — Philosophical Foundations]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
-- [[Jaakko Hintikka]]
+- [[Jaakko-Hintikka|Jaakko Hintikka]]
 - [[Lorenzo-Magnani|Lorenzo Magnani]]
 - [[Manu-Kapur|Manu Kapur]]
 - [[Metacognition]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Next Generation Science Standards]]
-- [[Norwood Russell Hanson]]
+- [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Peirce]]
 - [[Peter-Lipton|Peter Lipton]]
 - [[philosophy-of-science|Philosophy of Science]]
-- [[Roger Martin]]
+- [[Roger-Martin|Roger Martin]]
 - [[Scientific Discovery — Cognitive Models and Historical Case Studies]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]
@@ -603,8 +603,8 @@ extraction_summary:
 
 - [[Socratic-Questioning|Socratic Questioning]]
 - [[Analogical-Reasoning|Analogical Reasoning]]
-- [[Creative Cognition]]
-- [[Reflective Judgment Model]]
+- [[Creative-Cognition|Creative Cognition]]
+- [[Reflective-Judgment-Model|Reflective Judgment Model]]
 
 #### Contrasts With
 

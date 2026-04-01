@@ -190,7 +190,7 @@ extraction_summary:
 #### 11. [COUNTER-ARGUMENT] Untitled *(Line 333)*
 
 > [!counter-argument] Untitled
-> The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo Mercier]] and [[Dan-Sperber|Dan Sperber]]'s "argumentative theory of reasoning" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.
+> The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo-Mercier|Hugo Mercier]] and [[Dan-Sperber|Dan Sperber]]'s "argumentative theory of reasoning" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.
 
 #### 12. [EVIDENCE] Untitled *(Line 342)*
 
@@ -419,15 +419,15 @@ extraction_summary:
 
 - [[Affective-Intelligence-Theory|Affective Intelligence Theory]]
 - [[Affective Intelligence Theory — Full Treatment]]
-- [[Alexander Todorov]]
+- [[Alexander-Todorov|Alexander Todorov]]
 - [[Arthur Lupia]]
 - [[Backfire-Effect|Backfire Effect]]
 - [[Brendan-Nyhan|Brendan Nyhan]]
-- [[Charles Taber]]
+- [[Charles-Taber|Charles Taber]]
 - [[Christopher-Achen|Christopher Achen]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Cross-Cultural Variation in Political Reasoning]]
-- [[Dan Kahan]]
+- [[Dan-Kahan|Dan Kahan]]
 - [[Dan-Sperber|Dan Sperber]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deliberate Practice in Civic Reasoning]]
@@ -437,27 +437,27 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic-Humility|Epistemic humility]]
-- [[George Marcus]]
+- [[George-Marcus|George Marcus]]
 - [[Henri Tajfel]]
 - [[Heuristics in Voting Behavior]]
-- [[Hugo Mercier]]
+- [[Hugo-Mercier|Hugo Mercier]]
 - [[Inoculation-Theory|Inoculation theory]]
 - [[James Fishkin]]
 - [[John-Jost|John Jost]]
-- [[John MacKuen]]
+- [[John-MacKuen|John MacKuen]]
 - [[John Turner]]
-- [[Kahneman and Tversky]]
+- [[Kahneman-and-Tversky|Kahneman and Tversky]]
 - [[Larry-Bartels|Larry Bartels]]
 - [[Leonie Huddy]]
 - [[Media Literacy and Disinformation Resistance]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Michael Neuman]]
+- [[Michael-Neuman|Michael Neuman]]
 - [[Mike Caulfield]]
-- [[Milton Lodge]]
+- [[Milton-Lodge|Milton Lodge]]
 - [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]
 - [[Philip-Converse|Philip Converse]]
-- [[Philip Tetlock]]
+- [[Philip-Tetlock|Philip Tetlock]]
 - [[Political-Reasoning|Political reasoning]]
 - [[Retrospective voting]]
 - [[SIFT protocol]]
@@ -480,7 +480,7 @@ extraction_summary:
 - [[partisan sorting]]
 - [[political-heuristics|political heuristics]]
 - [[political-polarization|political polarization]]
-- [[representativeness heuristic]]
+- [[representativeness-heuristic|representativeness heuristic]]
 
 ### All Occurrences
 
@@ -502,20 +502,20 @@ extraction_summary:
 | 14 | [[John-Jost|John Jost]] | — | — | Dual Process Frameworks in Political ... | 320 |
 | 15 | [[Christopher-Achen|Christopher Achen]] | — | — | Dual Process Frameworks in Political ... | 320 |
 | 16 | [[Larry-Bartels|Larry Bartels]] | — | — | Dual Process Frameworks in Political ... | 320 |
-| 17 | [[Philip Tetlock]] | — | — | Dual Process Frameworks in Political ... | 322 |
-| 18 | [[Dan Kahan]] | — | — | Dual Process Frameworks in Political ... | 322 |
-| 19 | [[Milton Lodge]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
-| 20 | [[Charles Taber]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
-| 21 | [[Hugo Mercier]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
+| 17 | [[Philip-Tetlock|Philip Tetlock]] | — | — | Dual Process Frameworks in Political ... | 322 |
+| 18 | [[Dan-Kahan|Dan Kahan]] | — | — | Dual Process Frameworks in Political ... | 322 |
+| 19 | [[Milton-Lodge|Milton Lodge]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
+| 20 | [[Charles-Taber|Charles Taber]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
+| 21 | [[Hugo-Mercier|Hugo Mercier]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
 | 22 | [[Dan-Sperber|Dan Sperber]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
 | 23 | [[Affective-Intelligence-Theory|Affective Intelligence Theory]] | — | — | Affective Intelligence Theory | 338 |
-| 24 | [[George Marcus]] | — | — | Affective Intelligence Theory | 338 |
-| 25 | [[Michael Neuman]] | — | — | Affective Intelligence Theory | 338 |
-| 26 | [[John MacKuen]] | — | — | Affective Intelligence Theory | 338 |
-| 27 | [[Kahneman and Tversky]] | — | — | Heuristics-and-Biases in Political Ju... | 350 |
+| 24 | [[George-Marcus|George Marcus]] | — | — | Affective Intelligence Theory | 338 |
+| 25 | [[Michael-Neuman|Michael Neuman]] | — | — | Affective Intelligence Theory | 338 |
+| 26 | [[John-MacKuen|John MacKuen]] | — | — | Affective Intelligence Theory | 338 |
+| 27 | [[Kahneman-and-Tversky|Kahneman and Tversky]] | — | — | Heuristics-and-Biases in Political Ju... | 350 |
 | 28 | [[Availability-Heuristic|availability heuristic]] | — | — | Heuristics-and-Biases in Political Ju... | 352 |
-| 29 | [[representativeness heuristic]] | — | — | Heuristics-and-Biases in Political Ju... | 354 |
-| 30 | [[Alexander Todorov]] | — | — | Heuristics-and-Biases in Political Ju... | 354 |
+| 29 | [[representativeness-heuristic|representativeness heuristic]] | — | — | Heuristics-and-Biases in Political Ju... | 354 |
+| 30 | [[Alexander-Todorov|Alexander Todorov]] | — | — | Heuristics-and-Biases in Political Ju... | 354 |
 | 31 | [[Confirmation-Bias-Myside-Bias|Confirmation bias]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
 | 32 | [[Filter-Bubble-Information-Cocoon|information cocoon]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
 | 33 | [[Filter-Bubble-Information-Cocoon|filter bubble]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
@@ -531,7 +531,7 @@ extraction_summary:
 | 43 | [[Retrospective voting]] | — | — | Heuristics as Adaptive Shortcuts | 413 |
 | 44 | [[civic education]] | — | — | Civic Education and Critical Thinking | 433 |
 | 45 | [[Epistemic-Humility|Epistemic humility]] | — | — | Civic Education and Critical Thinking | 435 |
-| 46 | [[Philip Tetlock]] | — | — | Civic Education and Critical Thinking | 435 |
+| 46 | [[Philip-Tetlock|Philip Tetlock]] | — | — | Civic Education and Critical Thinking | 435 |
 | 47 | [[Socratic-Questioning|Socratic questioning]] | — | — | Civic Education and Critical Thinking | 438 |
 | 48 | [[media literacy]] | — | — | Media Literacy and Disinformation Res... | 442 |
 | 49 | [[Inoculation-Theory|Inoculation theory]] | — | — | Media Literacy and Disinformation Res... | 444 |
@@ -567,15 +567,15 @@ extraction_summary:
 
 - [[Affective-Intelligence-Theory|Affective Intelligence Theory]]
 - [[Affective Intelligence Theory — Full Treatment]]
-- [[Alexander Todorov]]
+- [[Alexander-Todorov|Alexander Todorov]]
 - [[Arthur Lupia]]
 - [[Backfire-Effect|Backfire Effect]]
 - [[Brendan-Nyhan|Brendan Nyhan]]
-- [[Charles Taber]]
+- [[Charles-Taber|Charles Taber]]
 - [[Christopher-Achen|Christopher Achen]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Cross-Cultural Variation in Political Reasoning]]
-- [[Dan Kahan]]
+- [[Dan-Kahan|Dan Kahan]]
 - [[Dan-Sperber|Dan Sperber]]
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Deliberate Practice in Civic Reasoning]]
@@ -585,27 +585,27 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic-Humility|Epistemic humility]]
-- [[George Marcus]]
+- [[George-Marcus|George Marcus]]
 - [[Henri Tajfel]]
 - [[Heuristics in Voting Behavior]]
-- [[Hugo Mercier]]
+- [[Hugo-Mercier|Hugo Mercier]]
 - [[Inoculation-Theory|Inoculation theory]]
 - [[James Fishkin]]
 - [[John-Jost|John Jost]]
-- [[John MacKuen]]
+- [[John-MacKuen|John MacKuen]]
 - [[John Turner]]
-- [[Kahneman and Tversky]]
+- [[Kahneman-and-Tversky|Kahneman and Tversky]]
 - [[Larry-Bartels|Larry Bartels]]
 - [[Leonie Huddy]]
 - [[Media Literacy and Disinformation Resistance]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Michael Neuman]]
+- [[Michael-Neuman|Michael Neuman]]
 - [[Mike Caulfield]]
-- [[Milton Lodge]]
+- [[Milton-Lodge|Milton Lodge]]
 - [[Partisan-Identity-and-Motivated-Reasoning|Partisan Identity and Motivated Reasoning]]
 - [[Philip-Converse|Philip Converse]]
-- [[Philip Tetlock]]
+- [[Philip-Tetlock|Philip Tetlock]]
 - [[Political-Reasoning|Political reasoning]]
 - [[Retrospective voting]]
 - [[SIFT protocol]]
@@ -628,7 +628,7 @@ extraction_summary:
 - [[partisan sorting]]
 - [[political-heuristics|political heuristics]]
 - [[political-polarization|political polarization]]
-- [[representativeness heuristic]]
+- [[representativeness-heuristic|representativeness heuristic]]
 
 ### Frontmatter Relationships
 

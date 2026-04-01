@@ -219,7 +219,7 @@ extraction_summary:
 - [[Obsidian]]
 - [[Berkshire Hathaway]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Equilibrium]]
 - [[First Principles Thinking]]
@@ -276,7 +276,7 @@ extraction_summary:
 | 21 | [[Unintended Consequences]] | — | — | Principle 2: Interconnection—Knowledg... | 181 |
 | 22 | [[System Dynamics]] | — | — | Principle 2: Interconnection—Knowledg... | 181 |
 | 23 | [[Policy Analysis]] | — | — | Principle 2: Interconnection—Knowledg... | 181 |
-| 24 | [[Compound Interest]] | — | — | Principle 2: Interconnection—Knowledg... | 181 |
+| 24 | [[Compound-Interest|Compound Interest]] | — | — | Principle 2: Interconnection—Knowledg... | 181 |
 | 25 | [[Equilibrium]] | — | — | Principle 2: Interconnection—Knowledg... | 183 |
 | 26 | [[Nash Equilibrium]] | — | — | Principle 2: Interconnection—Knowledg... | 183 |
 | 27 | [[Homeostasis]] | — | — | Principle 2: Interconnection—Knowledg... | 183 |
@@ -414,7 +414,7 @@ Based on my research, I now have a deep understanding of the key concepts needed
 - [[Obsidian]]
 - [[Berkshire Hathaway]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Compound Interest]]
+- [[Compound-Interest|Compound Interest]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Equilibrium]]
 - [[First Principles Thinking]]

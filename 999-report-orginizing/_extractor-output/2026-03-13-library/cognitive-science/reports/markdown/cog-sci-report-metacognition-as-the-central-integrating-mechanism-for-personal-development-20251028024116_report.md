@@ -335,7 +335,7 @@ extraction_summary:
 > [!question] Untitled
 > - *What is the* **single biggest unanswered question** *in this field right now?*
 > 
->       - **Where, and how, does the brain *do* metacognition?** We are getting closer. Research in **[[Metacognitive Neuroscience]]** consistently points to the **[[Prefrontal Cortex (PFC)]]**, especially the *anterior* and *dorsolateral* regions, as the "seat" of this executive function. [^13] When you are "monitoring" your thoughts, this is the area of your brain that is "lighting up." The frontier question is *how*? How do these neurons *model* the operations of *other* neural circuits? How does this "self-monitoring" circuit physically work?
+>       - **Where, and how, does the brain *do* metacognition?** We are getting closer. Research in **[[Metacognitive Neuroscience]]** consistently points to the **[[prefrontal-cortex|Prefrontal Cortex (PFC)]]**, especially the *anterior* and *dorsolateral* regions, as the "seat" of this executive function. [^13] When you are "monitoring" your thoughts, this is the area of your brain that is "lighting up." The frontier question is *how*? How do these neurons *model* the operations of *other* neural circuits? How does this "self-monitoring" circuit physically work?
 > 
 >   - **Other Frontier Questions:**
 > 
@@ -434,7 +434,7 @@ extraction_summary:
 - [[Metacognitive Neuroscience]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Mindfulness]]
-- [[Prefrontal Cortex (PFC)]]
+- [[prefrontal-cortex|Prefrontal Cortex (PFC)]]
 - [[Self-Behavioral-Management]]
 
 ### All Occurrences
@@ -447,7 +447,7 @@ extraction_summary:
 | 4 | [[Education Reform]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 365 |
 | 5 | [[Mental Health & Therapy]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 371 |
 | 6 | [[Metacognitive Neuroscience]] | — | — | 7.0 ❔ FRONTIER RESEARCH | 400 |
-| 7 | [[Prefrontal Cortex (PFC)]] | — | — | 7.0 ❔ FRONTIER RESEARCH | 400 |
+| 7 | [[prefrontal-cortex|Prefrontal Cortex (PFC)]] | — | — | 7.0 ❔ FRONTIER RESEARCH | 400 |
 | 8 | [[Constructivist Learning]] | — | — | 8.0 🦕 CONCLUSION | 422 |
 | 9 | [[Critical-Thinking|Critical Thinking]] | — | — | 8.0 🦕 CONCLUSION | 423 |
 | 10 | [[Self-Behavioral-Management]] | — | — | 8.0 🦕 CONCLUSION | 424 |
@@ -535,7 +535,7 @@ graph TD
 - [[Metacognitive Neuroscience]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Mindfulness]]
-- [[Prefrontal Cortex (PFC)]]
+- [[prefrontal-cortex|Prefrontal Cortex (PFC)]]
 - [[Self-Behavioral-Management]]
 
 ---

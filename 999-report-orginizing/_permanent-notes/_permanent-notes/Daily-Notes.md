@@ -2,9 +2,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Daily-Notes"
+title: "Daily Notes"
 aliases:
-  - "Daily-Notes"
   - "Daily Notes"
 type: permanent-note
 status: seedling
@@ -24,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,9 +37,9 @@ referenced-by-count: 3
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Core-DataviewJS-Task-Methods]]"
   - "[[TASK-Query-Type-Fundamentals]]"
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -50,15 +49,15 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Daily-Notes
+# Daily Notes
 
-> [!definition] **Daily-Notes**
+> [!definition] **Daily Notes**
 > *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 *Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Core-DataviewJS-Task-Methods]]
 - [[TASK-Query-Type-Fundamentals]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]

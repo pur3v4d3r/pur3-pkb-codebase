@@ -427,7 +427,7 @@ extraction_summary:
 - [[Dan-Sperber|Dan Sperber]]
 - [[David-Marr|David Marr]]
 - [[Emotional-Granularity|Emotional Granularity]]
-- [[Epistemic Injustice]]
+- [[Epistemic-Injustice|Epistemic Injustice]]
 - [[Epistemological Posture]]
 - [[Fallibilism]]
 - [[Flow]]
@@ -435,7 +435,7 @@ extraction_summary:
 - [[Free-Energy-Principle|Free Energy Principle]]
 - [[Generative-Model|Generative Model]]
 - [[Hilary-Putnam|Hilary Putnam]]
-- [[Hugo Mercier]]
+- [[Hugo-Mercier|Hugo Mercier]]
 - [[Intellectual Character]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Empathy|Intellectual Empathy]]
@@ -448,7 +448,7 @@ extraction_summary:
 - [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Maxwell Ramstead]]
 - [[Metacognition]]
-- [[Miranda Fricker]]
+- [[Miranda-Fricker|Miranda Fricker]]
 - [[Neurophenomenology and First-Person Methods]]
 - [[Phenomenal-Self-Model|Phenomenal Self-Model]]
 - [[Phronesis]]
@@ -507,10 +507,10 @@ extraction_summary:
 | 36 | [[Phronesis]] | phronesis | — | The Master Homology: A Single Mechani... | 288 |
 | 37 | [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] | Recognition-Primed Decision | — | The Master Homology: A Single Mechani... | 288 |
 | 38 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | social epistemology | — | The Master Homology: A Single Mechani... | 290 |
-| 39 | [[Hugo Mercier]] | Mercier | — | The Master Homology: A Single Mechani... | 290 |
+| 39 | [[Hugo-Mercier|Hugo Mercier]] | Mercier | — | The Master Homology: A Single Mechani... | 290 |
 | 40 | [[Dan-Sperber|Dan Sperber]] | Sperber | — | The Master Homology: A Single Mechani... | 290 |
-| 41 | [[Miranda Fricker]] | Fricker | — | The Master Homology: A Single Mechani... | 290 |
-| 42 | [[Epistemic Injustice]] | epistemic injustice | — | The Master Homology: A Single Mechani... | 290 |
+| 41 | [[Miranda-Fricker|Miranda Fricker]] | Fricker | — | The Master Homology: A Single Mechani... | 290 |
+| 42 | [[Epistemic-Injustice|Epistemic Injustice]] | epistemic injustice | — | The Master Homology: A Single Mechani... | 290 |
 | 43 | [[Hilary-Putnam|Hilary Putnam]] | — | — | The Central Conceptual Tension: Mecha... | 299 |
 | 44 | [[David-Marr|David Marr]] | — | — | The Central Conceptual Tension: Mecha... | 299 |
 | 45 | [[Epistemological Posture]] | epistemological posture | — | The Emergent Insight: Precision Flexi... | 382 |
@@ -569,7 +569,7 @@ extraction_summary:
 - [[Dan-Sperber|Dan Sperber]]
 - [[David-Marr|David Marr]]
 - [[Emotional-Granularity|Emotional Granularity]]
-- [[Epistemic Injustice]]
+- [[Epistemic-Injustice|Epistemic Injustice]]
 - [[Epistemological Posture]]
 - [[Fallibilism]]
 - [[Flow]]
@@ -577,7 +577,7 @@ extraction_summary:
 - [[Free-Energy-Principle|Free Energy Principle]]
 - [[Generative-Model|Generative Model]]
 - [[Hilary-Putnam|Hilary Putnam]]
-- [[Hugo Mercier]]
+- [[Hugo-Mercier|Hugo Mercier]]
 - [[Intellectual Character]]
 - [[Intellectual-Courage|Intellectual Courage]]
 - [[Intellectual-Empathy|Intellectual Empathy]]
@@ -590,7 +590,7 @@ extraction_summary:
 - [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]]
 - [[Maxwell Ramstead]]
 - [[Metacognition]]
-- [[Miranda Fricker]]
+- [[Miranda-Fricker|Miranda Fricker]]
 - [[Neurophenomenology and First-Person Methods]]
 - [[Phenomenal-Self-Model|Phenomenal Self-Model]]
 - [[Phronesis]]

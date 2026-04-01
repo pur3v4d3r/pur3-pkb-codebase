@@ -150,7 +150,7 @@ extraction_summary:
 > 
 > This is Report **04** of 10 in the [[Stoicism Series Overview]]
 > 
-> ← Previous: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> ← Previous: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 > → Next: [[Stoicism in Leadership and Decision-Making]]
 > 
 > **Series Arc Position**: Application
@@ -176,7 +176,7 @@ extraction_summary:
 #### 6. [KEY-INSIGHT] Untitled *(Line 361)*
 
 > [!key-insight] Untitled
-> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
+> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard-Lazarus|Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
 
 #### 7. [KEY-INSIGHT] Untitled *(Line 370)*
 
@@ -381,12 +381,12 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Dichotomy of Control]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Richard Lazarus]]
+- [[Richard-Lazarus|Richard Lazarus]]
 - [[Steven Hayes]]
 - [[Stoic Emotional Theory - Pathē and Eupatheia]]
 - [[Stoicism Series Overview]]
 - [[Stoicism in Leadership and Decision-Making]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Thomas Aquinas]]
 
 ### All Occurrences
@@ -394,7 +394,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism Series Overview]] | — | — | Stoicism and Modern Psychology: Paral... | 262 |
-| 2 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 264 |
+| 2 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 264 |
 | 3 | [[Stoicism in Leadership and Decision-Making]] | — | — | Stoicism and Modern Psychology: Paral... | 265 |
 | 4 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
 | 5 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
@@ -407,7 +407,7 @@ extraction_summary:
 | 12 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 337 |
 | 13 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 345 |
 | 14 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 349 |
-| 15 | [[Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
+| 15 | [[Richard-Lazarus|Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
 | 16 | [[James Gross]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
 | 17 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Convergence 3: The Locus of Control a... | 382 |
 | 18 | [[Thomas Aquinas]] | — | — | Part 7: Historical Connections — The ... | 488 |
@@ -462,12 +462,12 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Dichotomy of Control]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Richard Lazarus]]
+- [[Richard-Lazarus|Richard Lazarus]]
 - [[Steven Hayes]]
 - [[Stoic Emotional Theory - Pathē and Eupatheia]]
 - [[Stoicism Series Overview]]
 - [[Stoicism in Leadership and Decision-Making]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Thomas Aquinas]]
 
 ### Frontmatter Relationships
@@ -477,7 +477,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 #### Related
 

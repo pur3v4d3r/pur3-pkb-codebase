@@ -150,7 +150,7 @@ extraction_summary:
 > - **[[Dual-Coding-Theory|Dual Coding Theory]]** and its relationship to CLT, particularly how combining verbal and visual information channels can increase effective working memory capacity when applied to PKB design
 > - **[[Schema-Theory|Schema Theory]]** as the complementary framework to CLT, examining how organized knowledge structures in long-term memory reduce the effective cognitive load of complex information
 > - **[[Desirable-Difficulties|Desirable Difficulties]]** framework by Robert Bjork, exploring the productive tension between CLT's load reduction principles and the necessity of appropriate challenge for deep learning
-> - **[[Cognitive Task Analysis]]** methodologies for systematically identifying the cognitive demands of complex learning tasks before designing instructional or PKB structures
+> - **[[Cognitive-Task-Analysis|Cognitive Task Analysis]]** methodologies for systematically identifying the cognitive demands of complex learning tasks before designing instructional or PKB structures
 > - **[[The Testing Effect]]** and retrieval practice research, examining how active recall protocols can be integrated into PKB workflows while managing cognitive load
 > - **[[Distributed-Cognition|Distributed Cognition]]** theory, which extends beyond individual cognitive architecture to examine how knowledge and processing are distributed across people, tools, and environments—providing theoretical grounding for why PKBs can serve as genuine cognitive partners
 > - **[[Expertise Studies]]** literature examining the transition from novice to expert across domains, providing empirical grounding for understanding how schema development changes learning requirements over time
@@ -165,7 +165,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Cognitive Task Analysis]]
+- [[Cognitive-Task-Analysis|Cognitive Task Analysis]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
@@ -180,7 +180,7 @@ extraction_summary:
 | 1 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | Further Exploration | 100 |
 | 2 | [[Schema-Theory|Schema Theory]] | — | — | Further Exploration | 101 |
 | 3 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Further Exploration | 102 |
-| 4 | [[Cognitive Task Analysis]] | — | — | Further Exploration | 103 |
+| 4 | [[Cognitive-Task-Analysis|Cognitive Task Analysis]] | — | — | Further Exploration | 103 |
 | 5 | [[The Testing Effect]] | — | — | Further Exploration | 104 |
 | 6 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Further Exploration | 105 |
 | 7 | [[Expertise Studies]] | — | — | Further Exploration | 106 |
@@ -238,7 +238,7 @@ Let me deconstruct this into fundamental components:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Cognitive Task Analysis]]
+- [[Cognitive-Task-Analysis|Cognitive Task Analysis]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]

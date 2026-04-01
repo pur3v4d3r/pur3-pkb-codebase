@@ -478,7 +478,7 @@ extraction_summary:
 
 - [[Abramson et al.]]
 - [[Academic Help-Seeking]]
-- [[Assessment for Learning]]
+- [[Assessment-for-Learning|Assessment for Learning]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Attribution Theory in Education]]
 - [[Avi-Assor|Avi Assor]]
@@ -494,15 +494,15 @@ extraction_summary:
 - [[Feed-Forward]]
 - [[Feedback-Design|Feedback Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Feedback Timing]]
+- [[Feedback-Timing|Feedback Timing]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Formative Assessment Design]]
 - [[Formative-Feedback|Formative Feedback]]
 - [[Goal Orientation Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Guy Roth]]
+- [[Guy-Roth|Guy Roth]]
 - [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]
-- [[Helen Timperley]]
+- [[Helen-Timperley|Helen Timperley]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[John-Hattie|John Hattie]]
 - [[John-Sweller|John Sweller]]
@@ -545,24 +545,24 @@ extraction_summary:
 | 17 | [[Summative-Assessment|Summative Assessment]] | summative | — | Foundational Distinctions | 328 |
 | 18 | [[Feed-Forward]] | — | — | Foundational Distinctions | 333 |
 | 19 | [[John-Hattie|John Hattie]] | — | — | The Hattie–Timperley Four-Level Model | 348 |
-| 20 | [[Helen Timperley]] | — | — | The Hattie–Timperley Four-Level Model | 348 |
+| 20 | [[Helen-Timperley|Helen Timperley]] | — | — | The Hattie–Timperley Four-Level Model | 348 |
 | 21 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learners | — | The Hattie–Timperley Four-Level Model | 357 |
 | 22 | [[Edward-Deci|Edward Deci]] | — | — | Self-Determination Theory and the Aut... | 365 |
 | 23 | [[Richard-Ryan|Richard Ryan]] | — | — | Self-Determination Theory and the Aut... | 365 |
 | 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory and the Aut... | 365 |
 | 25 | [[Avi-Assor|Avi Assor]] | — | — | Self-Determination Theory and the Aut... | 375 |
-| 26 | [[Guy Roth]] | — | — | Self-Determination Theory and the Aut... | 375 |
+| 26 | [[Guy-Roth|Guy Roth]] | — | — | Self-Determination Theory and the Aut... | 375 |
 | 27 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset Theory: Attribution an... | 379 |
 | 28 | [[Claudia-Mueller|Claudia Mueller]] | — | — | Growth Mindset Theory: Attribution an... | 389 |
 | 29 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset Theory: Attribution an... | 389 |
 | 30 | [[Bernard-Weiner|Bernard Weiner]] | — | — | Attribution Theory: The Causal Landscape | 396 |
 | 31 | [[Attribution-Theory|Attribution Theory]] | — | — | Attribution Theory: The Causal Landscape | 396 |
 | 32 | [[Black-&-Wiliam|Black & Wiliam]] | — | — | The Formative Assessment Tradition: C... | 403 |
-| 33 | [[Assessment for Learning]] | — | — | The Formative Assessment Tradition: C... | 403 |
+| 33 | [[Assessment-for-Learning|Assessment for Learning]] | — | — | The Formative Assessment Tradition: C... | 403 |
 | 34 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Feedback Levels in Action: Moving Up ... | 443 |
 | 35 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Autonomy–Competence Interface | 449 |
 | 36 | [[Attribution-Theory|Attribution Theory]] | — | — | Attribution Retraining as Feedback Me... | 458 |
-| 37 | [[Feedback Timing]] | — | — | Feedback Timing, Dosage, and Mode | 467 |
+| 37 | [[Feedback-Timing|Feedback Timing]] | — | — | Feedback Timing, Dosage, and Mode | 467 |
 | 38 | [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 562 |
 | 39 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Unresolved Questions | 564 |
 | 40 | [[Metacognition-&-Motivation|Metacognition & Motivation]] | — | — | Unresolved Questions | 566 |
@@ -605,7 +605,7 @@ extraction_summary:
 
 - [[Abramson et al.]]
 - [[Academic Help-Seeking]]
-- [[Assessment for Learning]]
+- [[Assessment-for-Learning|Assessment for Learning]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Attribution Theory in Education]]
 - [[Avi-Assor|Avi Assor]]
@@ -621,15 +621,15 @@ extraction_summary:
 - [[Feed-Forward]]
 - [[Feedback-Design|Feedback Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Feedback Timing]]
+- [[Feedback-Timing|Feedback Timing]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Formative Assessment Design]]
 - [[Formative-Feedback|Formative Feedback]]
 - [[Goal Orientation Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Guy Roth]]
+- [[Guy-Roth|Guy Roth]]
 - [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]
-- [[Helen Timperley]]
+- [[Helen-Timperley|Helen Timperley]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[John-Hattie|John Hattie]]
 - [[John-Sweller|John Sweller]]

@@ -406,34 +406,34 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Practice
 
-#### 49. [TOPIC-IDEA] [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]] *(Line 551)*
+#### 49. [TOPIC-IDEA] [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]] *(Line 551)*
 
-> [!topic-idea] [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
+> [!topic-idea] [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
 > A deep-dive into Efklides' work on the phenomenological dimension of metacognition — how Feelings of Knowing, Ease of Learning, Judgments of Learning, and Feelings of Non-fluency constitute a semi-autonomous layer of self-monitoring that carries affective content. This report would examine calibration research, the systematic biases that plague metacognitive judgments (the illusion of knowing, overclaiming), and the specific conditions under which metacognitive feelings provide reliable vs. unreliable diagnostic information. Critical for anyone working in formative assessment, learning analytics, or reflective practice design.
 
-#### 50. [TOPIC-IDEA] [[Designing Autonomy-Supportive Learning Environments]] *(Line 554)*
+#### 50. [TOPIC-IDEA] [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]] *(Line 554)*
 
-> [!topic-idea] [[Designing Autonomy-Supportive Learning Environments]]
+> [!topic-idea] [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]
 > Applied treatment of the SDT-derived principles for structuring educational and training contexts to support autonomous motivation and metacognitive engagement simultaneously. Would cover empirical evidence on autonomy-supportive vs. controlling instructor behavior, structural design choices (assessment design, choice provision, rationale-giving), and the specific challenge of maintaining autonomy support in high-stakes accountability contexts. Practical toolkit orientation with evidence base for each design principle.
 
-#### 51. [TOPIC-IDEA] [[Self-Efficacy Theory and Academic Achievement]] *(Line 557)*
+#### 51. [TOPIC-IDEA] [[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]] *(Line 557)*
 
-> [!topic-idea] [[Self-Efficacy Theory and Academic Achievement]]
+> [!topic-idea] [[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]]
 > Bandura's full social cognitive framework applied to educational contexts — tracing the four sources of self-efficacy (mastery experience, vicarious modeling, social persuasion, physiological interpretation) and their differential effectiveness in building durable vs. fragile academic self-efficacy. Would examine the self-efficacy → metacognitive depth pathway in detail, with attention to domain-specificity, developmental trajectories, and targeted intervention strategies for low-self-efficacy learners.
 
-#### 52. [TOPIC-IDEA] [[Goal Orientation Theory in Educational Contexts]] *(Line 560)*
+#### 52. [TOPIC-IDEA] [[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]] *(Line 560)*
 
-> [!topic-idea] [[Goal Orientation Theory in Educational Contexts]]
+> [!topic-idea] [[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]]
 > A focused treatment of mastery vs. performance goal orientations — their measurement, developmental origins, contextual determinants, and differential consequences for metacognitive engagement and motivational sustainability. Would incorporate the 2×2 framework (Elliot & McGregor, 2001) distinguishing performance-approach from performance-avoidance, examine motivational climate research (Ames), and address the practical question of how goal framing in instructional language shapes learner psychology over time.
 
-#### 53. [TOPIC-IDEA] [[Flow Theory and Optimal Learning Experiences]] *(Line 563)*
+#### 53. [TOPIC-IDEA] [[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]] *(Line 563)*
 
-> [!topic-idea] [[Flow Theory and Optimal Learning Experiences]]
+> [!topic-idea] [[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]]
 > Csikszentmihalyi's flow framework as a limiting case of intrinsic motivation and metacognitive transparency — examining how the challenge-skill balance produces states of absorbed engagement where metacognitive monitoring becomes largely implicit. Would connect flow conditions to learning design, examining how deliberately constructed experiences of appropriate challenge can build both intrinsic motivation and metacognitive repertoire simultaneously.
 
-#### 54. [TOPIC-IDEA] [[Attribution Theory and Learning Resilience]] *(Line 566)*
+#### 54. [TOPIC-IDEA] [[Attribution-Theory-and-Learning-Resilience|Attribution Theory and Learning Resilience]] *(Line 566)*
 
-> [!topic-idea] [[Attribution Theory and Learning Resilience]]
+> [!topic-idea] [[Attribution-Theory-and-Learning-Resilience|Attribution Theory and Learning Resilience]]
 > Weiner's attributional framework in depth — examining how the dimensions of locus, stability, and controllability interact to produce adaptive vs. maladaptive responses to academic failure. Would address the specific mechanism by which attribution retraining interventions (attributing failure to controllable, unstable factors) break vicious cycle dynamics and restore metacognitive effort investment in previously defeated learners.
 
 ---
@@ -448,34 +448,34 @@ extraction_summary:
 
 - [[Ann-Brown|Ann Brown]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attribution Theory and Learning Resilience]]
+- [[Attribution-Theory-and-Learning-Resilience|Attribution Theory and Learning Resilience]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Carol-Dweck|Carol Dweck]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Motivational-Model|Cognitive-Motivational Model]]
-- [[Designing Autonomy-Supportive Learning Environments]]
+- [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Edward-Deci|Edward Deci]]
 - [[Efklides]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Flow Theory and Optimal Learning Experiences]]
-- [[Goal Orientation Theory in Educational Contexts]]
+- [[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]]
+- [[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[John Borkowski]]
+- [[John-Borkowski|John Borkowski]]
 - [[John-Flavell|John Flavell]]
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Metacognition]]
 - [[Metacognitive-Experiences|Metacognitive Experiences]]
-- [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
+- [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[Pintrich]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Efficacy Theory and Academic Achievement]]
+- [[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman]]
 
@@ -505,7 +505,7 @@ extraction_summary:
 | 20 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Self-Regulated Learning: The Structur... | 318 |
 | 21 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Self-Regulated Learning: The Structur... | 318 |
 | 22 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Self-Regulated Learning: The Structur... | 323 |
-| 23 | [[John Borkowski]] | — | — | The Cognitive-Motivational Model | 327 |
+| 23 | [[John-Borkowski|John Borkowski]] | — | — | The Cognitive-Motivational Model | 327 |
 | 24 | [[Carol-Dweck|Carol Dweck]] | — | — | Growth Mindset: Implicit Theories and... | 334 |
 | 25 | [[Growth-Mindset-Theory|Growth Mindset Theory]] | — | — | Growth Mindset: Implicit Theories and... | 334 |
 | 26 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | How Metacognitive Processes Influence... | 354 |
@@ -518,12 +518,12 @@ extraction_summary:
 | 33 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The "So What?" — Capabilities This Kn... | 464 |
 | 34 | [[Attribution-Theory|Attribution Theory]] | — | — | The "So What?" — Capabilities This Kn... | 466 |
 | 35 | [[Extended-Thinking-Architecture|Extended Thinking Architecture]] | — | — | The "So What?" — Capabilities This Kn... | 468 |
-| 36 | [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]] | — | — | D. Expansion Topics | 551 |
-| 37 | [[Designing Autonomy-Supportive Learning Environments]] | — | — | D. Expansion Topics | 554 |
-| 38 | [[Self-Efficacy Theory and Academic Achievement]] | — | — | D. Expansion Topics | 557 |
-| 39 | [[Goal Orientation Theory in Educational Contexts]] | — | — | D. Expansion Topics | 560 |
-| 40 | [[Flow Theory and Optimal Learning Experiences]] | — | — | D. Expansion Topics | 563 |
-| 41 | [[Attribution Theory and Learning Resilience]] | — | — | D. Expansion Topics | 566 |
+| 36 | [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]] | — | — | D. Expansion Topics | 551 |
+| 37 | [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]] | — | — | D. Expansion Topics | 554 |
+| 38 | [[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]] | — | — | D. Expansion Topics | 557 |
+| 39 | [[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]] | — | — | D. Expansion Topics | 560 |
+| 40 | [[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]] | — | — | D. Expansion Topics | 563 |
+| 41 | [[Attribution-Theory-and-Learning-Resilience|Attribution Theory and Learning Resilience]] | — | — | D. Expansion Topics | 566 |
 
 ---
 
@@ -536,34 +536,34 @@ extraction_summary:
 
 - [[Ann-Brown|Ann Brown]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attribution Theory and Learning Resilience]]
+- [[Attribution-Theory-and-Learning-Resilience|Attribution Theory and Learning Resilience]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Carol-Dweck|Carol Dweck]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Motivational-Model|Cognitive-Motivational Model]]
-- [[Designing Autonomy-Supportive Learning Environments]]
+- [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Edward-Deci|Edward Deci]]
 - [[Efklides]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Flow Theory and Optimal Learning Experiences]]
-- [[Goal Orientation Theory in Educational Contexts]]
+- [[Flow-Theory-and-Optimal-Learning-Experiences|Flow Theory and Optimal Learning Experiences]]
+- [[Goal-Orientation-Theory-in-Educational-Contexts|Goal Orientation Theory in Educational Contexts]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[John Borkowski]]
+- [[John-Borkowski|John Borkowski]]
 - [[John-Flavell|John Flavell]]
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Metacognition]]
 - [[Metacognitive-Experiences|Metacognitive Experiences]]
-- [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
+- [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments|Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[Pintrich]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Efficacy Theory and Academic Achievement]]
+- [[Self-Efficacy-Theory-and-Academic-Achievement|Self-Efficacy Theory and Academic Achievement]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman]]
 

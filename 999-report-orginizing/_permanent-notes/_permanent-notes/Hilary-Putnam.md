@@ -23,21 +23,20 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[4E-Cognition]]"
   - "[[Active-Externalism]]"
   - "[[Classical-Cognitivism]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Distributed-Cognition]]"
   - "[[Extended-Mind-Theory]]"
   - "[[Internalism]]"
+  - "[[Mark-of-the-Cognitive]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # Hilary-Putnam
 
 > [!definition] **Hilary-Putnam**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[4E-Cognition]]
 - [[Active-Externalism]]
 - [[Classical-Cognitivism]]

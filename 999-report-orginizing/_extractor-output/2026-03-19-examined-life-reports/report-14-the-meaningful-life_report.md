@@ -313,7 +313,7 @@ extraction_summary:
 #### 32. [DEFINITION] Untitled *(Line 486)*
 
 > [!definition] Untitled
-> **[[Amor Fati]]** — Nietzsche's phrase (love of fate), central also to Stoic philosophy: the attitudinal disposition to embrace one's existence, including its difficulties and suffering, as constitutive of who one is rather than as obstacles to who one might have been. Amor fati is not passive resignation but active affirmation — saying yes to one's actual life, including its adversities, as the raw material of one's narrative identity.
+> **[[Amor-Fati|Amor Fati]]** — Nietzsche's phrase (love of fate), central also to Stoic philosophy: the attitudinal disposition to embrace one's existence, including its difficulties and suffering, as constitutive of who one is rather than as obstacles to who one might have been. Amor fati is not passive resignation but active affirmation — saying yes to one's actual life, including its adversities, as the raw material of one's narrative identity.
 
 #### 33. [CITE] Untitled *(Line 493)*
 
@@ -437,7 +437,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
 - [[Charles Taylor]]
@@ -534,7 +534,7 @@ extraction_summary:
 | 30 | [[Existential Frustration]] | — | — | Logotherapy: The Will to Meaning | 249 |
 | 31 | [[Noögenic Neurosis]] | — | — | Logotherapy: The Will to Meaning | 249 |
 | 32 | [[Stoic]] | — | — | Logotherapy: The Will to Meaning | 253 |
-| 33 | [[Amor Fati]] | — | — | Logotherapy: The Will to Meaning | 253 |
+| 33 | [[Amor-Fati|Amor Fati]] | — | — | Logotherapy: The Will to Meaning | 253 |
 | 34 | [[Epictetus]] | — | — | Logotherapy: The Will to Meaning | 253 |
 | 35 | [[Meaning in Life]] | — | — | Meaning in Life Research: The Empiric... | 257 |
 | 36 | [[Michael Steger]] | — | — | Meaning in Life Research: The Empiric... | 257 |
@@ -580,7 +580,7 @@ extraction_summary:
 | 76 | [[Redemptive Sequence]] | — | — | Key Terms Lexicon | 478 |
 | 77 | [[Strong Evaluation]] | — | — | Key Terms Lexicon | 481 |
 | 78 | [[Ipseity]] | — | — | Key Terms Lexicon | 484 |
-| 79 | [[Amor Fati]] | — | — | Key Terms Lexicon | 487 |
+| 79 | [[Amor-Fati|Amor Fati]] | — | — | Key Terms Lexicon | 487 |
 | 80 | [[Terror Management Theory and Meaning]] | — | — | Expansion Topics for PKB Development | 546 |
 | 81 | [[Terror Management Theory]] | — | — | Expansion Topics for PKB Development | 547 |
 | 82 | [[Narrative Therapy]] | — | — | Expansion Topics for PKB Development | 550 |
@@ -623,7 +623,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
 - [[Charles Taylor]]
@@ -703,7 +703,7 @@ extraction_summary:
 - [[Narrative Self-Model]]
 - [[Sources of the Self]]
 - [[Stoic Acceptance]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 
 #### Broader
 

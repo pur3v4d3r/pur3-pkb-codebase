@@ -1913,7 +1913,7 @@ extraction_summary:
 #### 1. [OVERVIEW] Untitled *(Line 83)*
 
 > [!overview] Untitled
-> - **Title**:: [[The Historical and Intellectual Origins of Stoicism]]
+> - **Title**:: [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 > - **Prompt/Topic Used**:: 
 > - **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -2008,7 +2008,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Hellenistic Philosophy's Common Ground**
 > 
-> Despite their profound differences, the three major Hellenistic schools—[[Stoicism]], [[Epicureanism]], and [[Academic Skepticism]]—shared certain features distinguishing them from classical Greek philosophy. All three were "dogmatic" in the technical sense (claiming to possess knowledge), except the Skeptics who suspended judgment. All three emphasized philosophy as a way of life aimed at *[[Eudaimonia]]*. All three developed systematic accounts spanning logic, physics, and ethics. And all three responded to the political instability of the Hellenistic age by focusing on what individuals could control regardless of external circumstances.
+> Despite their profound differences, the three major Hellenistic schools—[[Stoicism]], [[Epicureanism]], and [[Academic-Skepticism|Academic Skepticism]]—shared certain features distinguishing them from classical Greek philosophy. All three were "dogmatic" in the technical sense (claiming to possess knowledge), except the Skeptics who suspended judgment. All three emphasized philosophy as a way of life aimed at *[[Eudaimonia]]*. All three developed systematic accounts spanning logic, physics, and ethics. And all three responded to the political instability of the Hellenistic age by focusing on what individuals could control regardless of external circumstances.
 
 #### 15. [COUNTER-ARGUMENT] Untitled *(Line 297)*
 
@@ -2029,7 +2029,7 @@ extraction_summary:
 > [!example] Untitled
 > **The Paradox of the Wealthy Stoic**
 > 
-> [[Lucius Annaeus Seneca]] (c. 4 BCE-65 CE) embodied what critics saw as Stoicism's fundamental hypocrisy. He preached indifference to wealth while accumulating one of the largest fortunes in Rome. He wrote eloquently about withdrawing from political turmoil while serving as advisor and speech-writer to the emperor Nero. He advocated freedom from passion while his tragedies depicted violent emotion in lurid detail. His enemies mocked him as a hypocritical moralist who couldn't practice what he preached.
+> [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]] (c. 4 BCE-65 CE) embodied what critics saw as Stoicism's fundamental hypocrisy. He preached indifference to wealth while accumulating one of the largest fortunes in Rome. He wrote eloquently about withdrawing from political turmoil while serving as advisor and speech-writer to the emperor Nero. He advocated freedom from passion while his tragedies depicted violent emotion in lurid detail. His enemies mocked him as a hypocritical moralist who couldn't practice what he preached.
 
 #### 18. [KEY-CLAIM] Untitled *(Line 360)*
 
@@ -2667,7 +2667,7 @@ extraction_summary:
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive landscape report on attribution retraining as a distinct intervention category from growth mindset programs — mapping the evidence base, key techniques, domain-specific applications, and comparison with mindset intervention outcomes. This topic would directly extend the report's finding that attribution retraining has stronger empirical support than general mindset instruction, providing practitioners with a well-grounded alternative framework.
 > **Core Concepts**: Weiner's attribution model, attribution retraining protocols, domain-specific implementation, feedback design, teacher training requirements
-> **Related Topics**: [[Attribution-Theory|Attribution Theory]], [[Motivational-Interviewing|Motivational Interviewing]], [[Learned-Helplessness|Learned Helplessness]], [[Academic Buoyancy]]
+> **Related Topics**: [[Attribution-Theory|Attribution Theory]], [[Motivational-Interviewing|Motivational Interviewing]], [[Learned-Helplessness|Learned Helplessness]], [[Academic-Buoyancy|Academic Buoyancy]]
 
 #### 99. [TOPIC-IDEA] Untitled *(Line 10952)*
 
@@ -2676,7 +2676,7 @@ extraction_summary:
 > **Report Type**: First Principles
 > **Description**: A first-principles analysis of how learning environments can be designed to ensure that students accumulate genuine mastery experiences — addressing the question of what counts as a mastery experience (vs. artificial easy wins), how scaffolding difficulty affects self-efficacy, and how to balance challenge and success to build domain-specific ability beliefs. Directly extends the Mastery-Experience Primacy Hypothesis derived in Phase IV.
 > **Core Concepts**: Zone of proximal development, scaffolding theory, deliberate practice, desirable difficulties, spaced retrieval, interleaving, expertise acquisition
-> **Related Topics**: [[Deliberate-Practice|Deliberate Practice]], [[Expertise Acquisition]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Desirable-Difficulties|Desirable Difficulties]]
+> **Related Topics**: [[Deliberate-Practice|Deliberate Practice]], [[Expertise-Acquisition|Expertise Acquisition]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Desirable-Difficulties|Desirable Difficulties]]
 
 #### 100. [TOPIC-IDEA] Untitled *(Line 10959)*
 
@@ -2685,7 +2685,7 @@ extraction_summary:
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive survey of the goal climate literature — how the motivational environment created by instructional practices, evaluation structures, and classroom culture shapes students' goal orientations independent of their individual ability beliefs. This would operationalize the Goal Orientation Bypass identified as novel in Phase IV, giving practitioners actionable tools that do not require mindset instruction.
 > **Core Concepts**: Achievement Goal Theory, motivational climate, mastery-structured assessment, social comparison effects, normative grading, competency-based evaluation
-> **Related Topics**: [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Classroom Motivation]], [[Competency-Based Learning]], [[Self-Determination-Theory|Self-Determination Theory]]
+> **Related Topics**: [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Classroom-Motivation|Classroom Motivation]], [[Competency-Based-Learning|Competency-Based Learning]], [[Self-Determination-Theory|Self-Determination Theory]]
 
 #### 101. [TOPIC-IDEA] Untitled *(Line 10966)*
 
@@ -2694,7 +2694,7 @@ extraction_summary:
 > **Report Type**: First Principles
 > **Description**: A first-principles examination of the structural and methodological factors that produced the replication crisis in social and educational psychology, using growth mindset as a central case study but extending to broader lessons about how psychological findings acquire cultural authority before their replication record is established, and what institutional changes would produce more reliable intervention science.
 > **Core Concepts**: Publication bias, underpowered studies, researcher degrees of freedom, preregistration, registered reports, effect size inflation, conceptual vs. direct replication
-> **Related Topics**: [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]], [[Open Science Framework]], [[Meta-Science]], [[Evidence-Based Education]]
+> **Related Topics**: [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]], [[Open-Science-Framework|Open Science Framework]], [[Meta-Science]], [[Evidence-Based-Education|Evidence-Based Education]]
 
 #### 102. [TOPIC-IDEA] Untitled *(Line 10973)*
 
@@ -2703,7 +2703,7 @@ extraction_summary:
 > **Report Type**: Socratic Dialogue
 > **Description**: A dialectical exploration of the interaction between stereotype threat and growth mindset, specifically examining the hypothesis that stereotype threat operates partly through the same attribution mechanism identified in this report's axioms (threat activates stable-ability attributions for difficulty), and that attribution-level interventions might interrupt stereotype threat more effectively than general mindset instruction. This topic benefits from Socratic treatment because the theoretical case is plausible but the empirical record is contested.
 > **Core Concepts**: Stereotype threat mechanisms, identity contingency, attributional ambiguity, domain identification, wise interventions
-> **Related Topics**: [[Stereotype-Threat|Stereotype Threat]], [[Identity-Based Motivation]], [[Wise Interventions]], [[Attributional Ambiguity]]
+> **Related Topics**: [[Stereotype-Threat|Stereotype Threat]], [[Identity-Based-Motivation|Identity-Based Motivation]], [[Wise-Interventions|Wise Interventions]], [[Attributional-Ambiguity|Attributional Ambiguity]]
 
 #### 103. [KEY-CLAIM] The Central Thesis of Mental Models Theory *(Line 32280)*
 
@@ -3167,13 +3167,13 @@ extraction_summary:
 #### 167. [DEFINITION] Untitled *(Line 32889)*
 
 > [!definition] Untitled
-> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness|Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational Nature]].
+> - **Stoic Daily Journaling**:: A systematic practice of written [[Self-Examination]] rooted in ancient [[Greco-Roman Philosophy]], specifically the [[Stoic School]] founded by [[Zeno of Citium]] (334-262 BCE), designed to cultivate [[Virtue]], develop [[metacognitive-awareness|Metacognitive Awareness]], and achieve [[Psychological Resilience]] through structured reflection on thoughts, actions, and alignment with [[Rational-Nature|Rational Nature]].
 
 #### 168. [KEY-CLAIM] Untitled *(Line 32908)*
 
 > [!key-claim] Untitled
 > **The Central Philosophical Claim**
-> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
+> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational-Nature|Rational Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
 
 #### 169. [PRINCIPLE-POINT] Untitled *(Line 32926)*
 
@@ -3185,7 +3185,7 @@ extraction_summary:
 
 > [!methodology-and-sources] Untitled
 > **Virtue as the Evaluative Framework**
-> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External Achievement]].
+> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External-Achievement|External Achievement]].
 
 #### 171. [ANALOGY] Untitled *(Line 32980)*
 
@@ -3197,7 +3197,7 @@ extraction_summary:
 
 > [!evidence] Untitled
 > **Clinical Validation**
-> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear Extinction]], [[Emotional Regulation]], and [[Executive Control]]—align with the psychological architecture Stoic practices engage.
+> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear-Extinction|Fear Extinction]], [[Emotional-Regulation|Emotional Regulation]], and [[Executive-Control|Executive Control]]—align with the psychological architecture Stoic practices engage.
 
 #### 173. [KEY-CLAIM] Untitled *(Line 33067)*
 
@@ -3215,7 +3215,7 @@ extraction_summary:
 > - Universal context (how this fits cosmic order)
 > - Rational assessment (what virtue demands)
 > - Mortality reminder (brevity of life)
-> This multi-perspective analysis prevents [[Cognitive Narrowing]] and reveals hidden assumptions.
+> This multi-perspective analysis prevents [[Cognitive-Narrowing|Cognitive Narrowing]] and reveals hidden assumptions.
 
 #### 175. [METHODOLOGY-AND-SOURCES] Untitled *(Line 33113)*
 
@@ -4431,7 +4431,7 @@ extraction_summary:
 
 > [!the-philosophy] Untitled
 > **Underlying Philosophy**
-> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
+> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue]] as highest good, [[Amor-Fati|Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
 
 #### 278. [METHODOLOGY-AND-SOURCES] Untitled *(Line 36562)*
 
@@ -4738,7 +4738,7 @@ extraction_summary:
 > - **Key-Term**:: [[Telos]] (τέλος)
 > - **Pronunciation**:: TEL-os
 > - **Definition**:: The ultimate aim or final end of human life; that which we pursue for its own sake and not for any other purpose
-> - **Stoic Specification**:: For Stoics, the telos is "living in agreement with nature" (homologoumenōs tē physei zēn), which means developing one's [[Rational Nature]] fully through [[Virtue]]
+> - **Stoic Specification**:: For Stoics, the telos is "living in agreement with nature" (homologoumenōs tē physei zēn), which means developing one's [[Rational-Nature|Rational Nature]] fully through [[Virtue]]
 > - **Key Formulations**:: "Living according to nature" | "Living virtuously" | "Living in agreement with reason"
 > - **Practical Application**:: When making decisions, ask "Does this develop my character and reason?" rather than "Does this bring pleasure or profit?"
 > - **Cross-References**:: See [[Eudaimonia]], [[Arete]], [[Kata Physin]], [[Oikeiosis]]
@@ -4753,7 +4753,7 @@ extraction_summary:
 > - **Definition**:: The state of human flourishing, happiness, or well-being achieved through virtuous living; not pleasure or contentment but a deep sense of living well
 > - **Stoic Distinction**:: Unlike [[Epicureanism]] (pleasure) or popular conceptions (external success), Stoic eudaimonia is exclusively tied to [[Virtue]] and **cannot** be achieved through external goods
 > - **Marcus Aurelius**: "The happiness of your life depends upon the quality of your thoughts" (Meditations 4.3)
-> - **Common Misconception**:: This is NOT about "feeling happy" in the modern sense—it's about living in harmony with your [[Rational Nature]]
+> - **Common Misconception**:: This is NOT about "feeling happy" in the modern sense—it's about living in harmony with your [[Rational-Nature|Rational Nature]]
 > - **Practical Application**:: Evaluate your day not by outcomes but by whether you acted with [[Wisdom]], [[Justice]], [[Courage]], and [[Temperance]]
 > - **Cross-References**:: See [[Arete]], [[Telos]], [[Apatheia]], [[Ataraxia]]
 
@@ -4894,7 +4894,7 @@ extraction_summary:
 #### 298. [KEY-CLAIM] Untitled *(Line 37134)*
 
 > [!key-claim] Untitled
-> **Unity of the Virtues**: The Stoics held that the [[Four Cardinal Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
+> **Unity of the Virtues**: The Stoics held that the [[Four-Cardinal-Virtues|Four Cardinal Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
 
 #### 299. [DEFINITION] Untitled *(Line 37139)*
 
@@ -5120,7 +5120,7 @@ extraction_summary:
 > - **Marcus Aurelius**: "Accept whatever comes to you woven in the pattern of your destiny, for what could more aptly fit your needs?" (Meditations 5.8)
 > - **Practical Application**: Don't rage against what must be—focus on your [[Prohairesis]] (how you respond), which is truly yours
 > - **Therapeutic Function**: Accepting [[Heimarmenê]] eliminates anxiety about outcomes beyond our control
-> - **Cross-References**:: See [[Logos]], [[Pronoia]], [[Amor Fati]], [[Sympatheia]]
+> - **Cross-References**:: See [[Logos]], [[Pronoia]], [[Amor-Fati|Amor Fati]], [[Sympatheia]]
 
 #### 316. [DEFINITION] Untitled *(Line 37349)*
 
@@ -5227,7 +5227,7 @@ extraction_summary:
 > - **Common Mistake**: Treating [[Ouk Eph' Hêmin]] as [[Eph' Hêmin]]—investing emotional energy in what we don't control
 > - **Result of Confusion**: Anxiety, frustration, anger, grief about externals all stem from treating [[Ouk Eph' Hêmin]] as important to happiness
 > - **Practical Application**: When anxious, check: "Am I worrying about something not actually in my power? Can I redirect focus to my response?"
-> - **Cross-References**:: See [[Eph' Hêmin]], [[Adiaphora]], [[Prohairesis]], [[Reserve Clause]]
+> - **Cross-References**:: See [[Eph' Hêmin]], [[Adiaphora]], [[Prohairesis]], [[Reserve-Clause|Reserve Clause]]
 
 #### 324. [DEFINITION] Untitled *(Line 37450)*
 
@@ -5251,7 +5251,7 @@ extraction_summary:
 > - **Pronunciation**:: AH-skeh-sis
 > - **Translation**:: Training, discipline, exercise, practice
 > - **Definition**:: Systematic spiritual and ethical training designed to develop [[Virtue]]; disciplined practices that strengthen the soul just as physical exercise strengthens the body
-> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent]]
+> - **Epictetus' Three Topoi**: (1) [[Discipline-of-Desire|Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent]]
 > - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio-Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
 > - **Not Asceticism**: Goal is not self-denial for its own sake but training toward [[Virtue]] and [[Apatheia]]
 > - **Seneca**: "Cherish some man of high character, and keep him ever before your eyes, living as if he watched you, and ordering all your actions as if he beheld them" (Moral Letters 11.8)
@@ -5322,7 +5322,7 @@ extraction_summary:
 #### 330. [DEFINITION] Untitled *(Line 37530)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[Amor Fati]] (Latin)
+> - **Key-Term**:: [[Amor-Fati|Amor Fati]] (Latin)
 > - **Translation**:: "Love of fate" or "Love of one's fate"
 > - **Definition**:: The practice of embracing everything that happens as necessary, meaningful, and ultimately for the best; willing acceptance of all events, pleasant or difficult
 > - **Marcus Aurelius**: "A blazing fire makes flame and brightness out of everything that is thrown into it" (Meditations 10.31)
@@ -5339,14 +5339,14 @@ extraction_summary:
 > - **Key-Term**:: [[The Three Disciplines / Topoi]] (τόποι)
 > - **Pronunciation**:: TOH-poy (plural)
 > - **Translation**:: The three areas of training, the three topics
-> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent]] (sunkatathesis)
+> - **Epictetus' Framework**: (1) [[Discipline-of-Desire|Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent]] (sunkatathesis)
 > - **Definition**:: The three domains of practical Stoic training, each addressing a different aspect of human psychology and corresponding to branches of philosophy
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
 > - **Pierre Hadot**: Identified these as structuring principle of [[Marcus-Aurelius|Marcus Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
-> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent]]
+> - **Cross-References**:: See [[Discipline-of-Desire|Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent]]
 
 #### 332. [DEFINITION] Untitled *(Line 37561)*
 
@@ -6014,7 +6014,7 @@ extraction_summary:
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue-Ethics|Virtue Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue-Ethics|Virtue Ethics]], and the distinction between [[Preferred-Indifferents|Preferred Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 #### 419. [KEY-TAKEAWAY] Untitled *(Line 38843)*
@@ -6413,7 +6413,7 @@ extraction_summary:
 > 
 > **The Situation**: Pigliucci describes deliberately practicing minor voluntary discomforts — eating simple food when he could afford better, foregoing comfortable transport, occasionally fasting for a day — not as punishments or performances of virtue, but as calibration exercises. The question the practice is designed to answer is: *What do I actually need for my wellbeing, and what do I merely prefer?*
 > 
-> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred Indifferents]] framework.
+> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred-Indifferents|Preferred Indifferents]] framework.
 > 
 > **The Lesson**: The practice is a form of what Seneca called *meditatio paupertas* — "meditation on poverty" — which he recommended as a periodic exercise: "Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" The answer, almost invariably, is no. And that no is one of the most liberating discoveries available to a Stoic practitioner.
 
@@ -6464,7 +6464,7 @@ extraction_summary:
 > 
 > **Stoic Grounding**: Marcus Aurelius, *Meditations* (passim — impermanence is one of the most consistent themes); Seneca, *On the Shortness of Life*; Epictetus, *Discourses* Book I.
 > 
-> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred Indifferents]] real rather than merely theoretical.
+> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred-Indifferents|Preferred Indifferents]] real rather than merely theoretical.
 > 
 > **Signs of Progress**: Increased warmth and appreciation toward people in ordinary moments; reduced intensity of craving for future goods; a growing capacity to find what Marcus called *euarestos* — contentment with what is present.
 
@@ -6524,7 +6524,7 @@ extraction_summary:
 > [!practice] Untitled
 > **Practice 7: Stoic Journaling**
 > 
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control|Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control|Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred-Indifferent|Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 > 
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 > 
@@ -6550,7 +6550,7 @@ extraction_summary:
 > **Obstacle 2: The Stoicism-as-Emotional-Suppression Misreading**
 > One of the most common misapplications of Stoic practice is using it as a philosophical permission structure for emotional suppression — refusing to feel or acknowledge pain, loss, or grief on the grounds that these are "externals." This is a profound misunderstanding that the Stoics themselves explicitly addressed. The Stoic goal is *apatheia* — freedom from irrational, distorting passions (*pathē*) — not the absence of all emotional response.
 > 
-> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
+> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred-Indifferent|Preferred Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
 
 #### 472. [WARNING] Untitled *(Line 40165)*
 
@@ -6658,7 +6658,7 @@ extraction_summary:
 > 
 > This is Report **04** of 10 in the [[Stoicism Series Overview]]
 > 
-> ← Previous: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> ← Previous: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 > → Next: [[Stoicism in Leadership and Decision-Making]]
 > 
 > **Series Arc Position**: Application
@@ -6684,7 +6684,7 @@ extraction_summary:
 #### 484. [KEY-INSIGHT] Untitled *(Line 40698)*
 
 > [!key-insight] Untitled
-> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
+> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard-Lazarus|Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
 
 #### 485. [KEY-INSIGHT] Untitled *(Line 40707)*
 
@@ -6930,7 +6930,7 @@ extraction_summary:
 #### 514. [KEY-INSIGHT] Untitled *(Line 41332)*
 
 > [!key-insight] Untitled
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control|Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control|Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve-Clause|Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 #### 515. [CONNECTION-IDEAS] Untitled *(Line 41337)*
 
@@ -6962,7 +6962,7 @@ extraction_summary:
 > 
 > Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control|Dichotomy of Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 > 
-> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
+> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve-Clause|Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 > 
 > **The Leadership Application**: The Stockdale case demonstrates that Stoic leadership is not for easy circumstances. It is specifically designed for conditions where the tools that ordinarily produce good outcomes — optimism, positive thinking, confidence in improvement — actively fail. The leader who understands the Stoic framework has a more robust resource than optimism: a commitment to acting well regardless of how the situation resolves, grounded in a clear understanding of what is genuinely theirs to control.
 
@@ -7076,7 +7076,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > **Series Connections**:
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
 > - **Extends**: [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04) by applying the psychological framework to the specific context of organizational leadership
 > - **Prepares for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the practices developed here for managing emotion in leadership are closely related to the practices for managing adversity in life more broadly
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — the cognitive bias analysis and the Discipline of Assent are particularly relevant to leadership decision-making
@@ -7763,7 +7763,7 @@ extraction_summary:
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 > 
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control|Dichotomy of Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control|Dichotomy of Control]], [[Preferred-Indifferents|Preferred Indifferents]], [[Prohairesis]], and the [[Discipline-of-Desire|Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 #### 593. [RESEARCH] Untitled *(Line 43328)*
 
@@ -7775,7 +7775,7 @@ extraction_summary:
 #### 594. [DEFINITION] Untitled *(Line 43343)*
 
 > [!definition] Untitled
-> **[[Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
+> **[[Preferred-Indifferents|Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
 
 #### 595. [QUOTE] Untitled *(Line 43350)*
 
@@ -7797,7 +7797,7 @@ extraction_summary:
 > [!key-insight] Untitled
 > **Framework Principle 1: The Hierarchy of Value**
 > 
-> The Stoic position is not that material goods are worthless — the category of [[Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
+> The Stoic position is not that material goods are worthless — the category of [[Preferred-Indifferents|Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
 
 #### 599. [KEY-INSIGHT] Untitled *(Line 43394)*
 
@@ -7841,7 +7841,7 @@ extraction_summary:
 > 
 > **The Situation**: In Letter XVIII of the *Epistulae Morales*, Seneca describes his practice of periodic voluntary simplicity, written with the self-aware irony of a very rich man telling a friend to be poor sometimes. He describes setting aside several days to live on minimal rations — coarse bread, water, no comfortable bed — not as penance but as philosophical calibration. "I am not setting this before you as a rule," he writes, "but as a test. Lay aside for a few days your usual comforts, and let yourself discover whether poverty frightens you as much as your habits have led you to believe."
 > 
-> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
+> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
 > 
 > **The Lesson**: The practice demonstrates that the felt sense of sufficiency — of having enough — is not a fixed quantity determined by one's material circumstances but a calibratable psychological state that can be maintained at a wide range of income levels through appropriate philosophical practice. The person who practices periodic simplicity is less vulnerable to the anxiety of potential loss, more capable of genuine appreciation for what they have, and less driven by the compulsive acquisition that the fear of insufficiency generates.
 
@@ -7863,7 +7863,7 @@ extraction_summary:
 > 
 > **The Situation**: Potts's argument — developed without direct reference to Stoicism but with remarkable convergence — is that most people are time-poor and thing-rich in a way that inverts the actual conditions of a good life. The things that constitute genuine wellbeing (deep engagement with meaningful activities, rich relationships, the experience of novelty and growth) are time-intensive and materially cheap. The things that modern culture treats as constitutive of success (large homes, new vehicles, luxury goods) are materially expensive and time-consuming to maintain, and their wellbeing returns are subject to rapid hedonic adaptation. His prescription — reduce material complexity to create temporal and psychological space for intrinsically meaningful activity — is structurally identical to the Stoic framework.
 > 
-> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
+> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire|Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 > 
 > **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
@@ -7878,7 +7878,7 @@ extraction_summary:
 > 
 > **Duration**: 48–72 hours minimum for full psychological effect; shorter periods are useful but may not achieve the depth of recalibration that multi-day practice provides
 > 
-> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
+> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred-Indifferents|Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
 > 
 > **Psychological Mechanism**: Counters hedonic adaptation by resetting the baseline against which ordinary goods are experienced. After several days of bread and water, a standard meal becomes genuinely experienced as a luxury. This recalibration of baseline produces the gratitude that hedonic adaptation normally suppresses — transforming what was background into foreground, what was entitled into appreciated.
 > 
@@ -7970,8 +7970,8 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > **Series Connections**
 > 
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
-> - **Deepens**: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred-Indifferents|Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
+> - **Deepens**: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
 > - **Connects to**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the non-dependence on material goods cultivated in Stoic simplicity directly increases resilience; the person who has practiced sufficiency is less devastated by material loss than the person whose wellbeing depends on maintaining a certain standard.
 > - **Prepares for**: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] (Report 09) — the simplification of one's relationship to material goods creates the attentional space that mindfulness practice requires. It is structurally difficult to be genuinely present when one is preoccupied with maintaining material complexity.
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — Cognitive Behavioral Therapy's attention to the role of cognitive distortions in generating unnecessary suffering maps precisely onto the Stoic account of how misvalued preferred indifferents generate anxiety and compulsive acquisition.
@@ -8054,7 +8054,7 @@ extraction_summary:
 > → Next: [[Stoicism and CBT - Similarities Differences and Integration]]
 > 
 > **Series Arc Position**: Integration
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 #### 623. [QUOTE] Untitled *(Line 43998)*
 
@@ -8282,7 +8282,7 @@ extraction_summary:
 > → Next: *Series Complete*
 > 
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred-Indifferents|Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 #### 649. [CONNECTION-IDEAS] Untitled *(Line 44650)*
 
@@ -9359,7 +9359,7 @@ extraction_summary:
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue-Ethics|Virtue Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control|Dichotomy of Control]], [[Virtue-Ethics|Virtue Ethics]], and the distinction between [[Preferred-Indifferents|Preferred Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 #### 857. [KEY-TAKEAWAY] Untitled *(Line 46427)*
@@ -9758,7 +9758,7 @@ extraction_summary:
 > 
 > **The Situation**: Pigliucci describes deliberately practicing minor voluntary discomforts — eating simple food when he could afford better, foregoing comfortable transport, occasionally fasting for a day — not as punishments or performances of virtue, but as calibration exercises. The question the practice is designed to answer is: *What do I actually need for my wellbeing, and what do I merely prefer?*
 > 
-> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred Indifferents]] framework.
+> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred-Indifferents|Preferred Indifferents]] framework.
 > 
 > **The Lesson**: The practice is a form of what Seneca called *meditatio paupertas* — "meditation on poverty" — which he recommended as a periodic exercise: "Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" The answer, almost invariably, is no. And that no is one of the most liberating discoveries available to a Stoic practitioner.
 
@@ -9809,7 +9809,7 @@ extraction_summary:
 > 
 > **Stoic Grounding**: Marcus Aurelius, *Meditations* (passim — impermanence is one of the most consistent themes); Seneca, *On the Shortness of Life*; Epictetus, *Discourses* Book I.
 > 
-> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred Indifferents]] real rather than merely theoretical.
+> **Psychological Mechanism**: Counteracts hedonic adaptation by making the contingency of present goods vivid; increases appreciation and gratitude; reduces the power of anticipated future goods over present wellbeing (the "I'll be happy when..." fallacy); trains the Discipline of Desire by making the impermanence of [[Preferred-Indifferents|Preferred Indifferents]] real rather than merely theoretical.
 > 
 > **Signs of Progress**: Increased warmth and appreciation toward people in ordinary moments; reduced intensity of craving for future goods; a growing capacity to find what Marcus called *euarestos* — contentment with what is present.
 
@@ -9869,7 +9869,7 @@ extraction_summary:
 > [!practice] Untitled
 > **Practice 7: Stoic Journaling**
 > 
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control|Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control|Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred-Indifferent|Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 > 
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 > 
@@ -9895,7 +9895,7 @@ extraction_summary:
 > **Obstacle 2: The Stoicism-as-Emotional-Suppression Misreading**
 > One of the most common misapplications of Stoic practice is using it as a philosophical permission structure for emotional suppression — refusing to feel or acknowledge pain, loss, or grief on the grounds that these are "externals." This is a profound misunderstanding that the Stoics themselves explicitly addressed. The Stoic goal is *apatheia* — freedom from irrational, distorting passions (*pathē*) — not the absence of all emotional response.
 > 
-> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
+> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred-Indifferent|Preferred Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
 
 #### 910. [WARNING] Untitled *(Line 47807)*
 
@@ -10003,7 +10003,7 @@ extraction_summary:
 > 
 > This is Report **04** of 10 in the [[Stoicism Series Overview]]
 > 
-> ← Previous: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> ← Previous: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 > → Next: [[Stoicism in Leadership and Decision-Making]]
 > 
 > **Series Arc Position**: Application
@@ -10029,7 +10029,7 @@ extraction_summary:
 #### 922. [KEY-INSIGHT] Untitled *(Line 48359)*
 
 > [!key-insight] Untitled
-> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
+> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard-Lazarus|Richard Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
 
 #### 923. [KEY-INSIGHT] Untitled *(Line 48368)*
 
@@ -10275,7 +10275,7 @@ extraction_summary:
 #### 952. [KEY-INSIGHT] Untitled *(Line 49023)*
 
 > [!key-insight] Untitled
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control|Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control|Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve-Clause|Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 #### 953. [CONNECTION-IDEAS] Untitled *(Line 49028)*
 
@@ -10307,7 +10307,7 @@ extraction_summary:
 > 
 > Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control|Dichotomy of Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 > 
-> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
+> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve-Clause|Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 > 
 > **The Leadership Application**: The Stockdale case demonstrates that Stoic leadership is not for easy circumstances. It is specifically designed for conditions where the tools that ordinarily produce good outcomes — optimism, positive thinking, confidence in improvement — actively fail. The leader who understands the Stoic framework has a more robust resource than optimism: a commitment to acting well regardless of how the situation resolves, grounded in a clear understanding of what is genuinely theirs to control.
 
@@ -10421,7 +10421,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > **Series Connections**:
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
 > - **Extends**: [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04) by applying the psychological framework to the specific context of organizational leadership
 > - **Prepares for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the practices developed here for managing emotion in leadership are closely related to the practices for managing adversity in life more broadly
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — the cognitive bias analysis and the Discipline of Assent are particularly relevant to leadership decision-making
@@ -11108,7 +11108,7 @@ extraction_summary:
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 > 
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control|Dichotomy of Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control|Dichotomy of Control]], [[Preferred-Indifferents|Preferred Indifferents]], [[Prohairesis]], and the [[Discipline-of-Desire|Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 #### 1031. [RESEARCH] Untitled *(Line 51100)*
 
@@ -11120,7 +11120,7 @@ extraction_summary:
 #### 1032. [DEFINITION] Untitled *(Line 51115)*
 
 > [!definition] Untitled
-> **[[Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
+> **[[Preferred-Indifferents|Preferred Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
 
 #### 1033. [QUOTE] Untitled *(Line 51122)*
 
@@ -11142,7 +11142,7 @@ extraction_summary:
 > [!key-insight] Untitled
 > **Framework Principle 1: The Hierarchy of Value**
 > 
-> The Stoic position is not that material goods are worthless — the category of [[Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
+> The Stoic position is not that material goods are worthless — the category of [[Preferred-Indifferents|Preferred Indifferents]] preserves their genuine relative value. The position is that they occupy the wrong position in most people's value hierarchy, and that repositioning them — understanding them as useful tools rather than essential constituents of flourishing — fundamentally changes one's relationship to both their presence and absence. A person who correctly values wealth as a preferred indifferent can enjoy it fully when it is present and lose it without catastrophe when it is not. A person who has misvalued wealth as a genuine good is enslaved to it whether they have it or not: always anxious to keep or get more, always threatened by the possibility of losing it.
 
 #### 1037. [KEY-INSIGHT] Untitled *(Line 51166)*
 
@@ -11186,7 +11186,7 @@ extraction_summary:
 > 
 > **The Situation**: In Letter XVIII of the *Epistulae Morales*, Seneca describes his practice of periodic voluntary simplicity, written with the self-aware irony of a very rich man telling a friend to be poor sometimes. He describes setting aside several days to live on minimal rations — coarse bread, water, no comfortable bed — not as penance but as philosophical calibration. "I am not setting this before you as a rule," he writes, "but as a test. Lay aside for a few days your usual comforts, and let yourself discover whether poverty frightens you as much as your habits have led you to believe."
 > 
-> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
+> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
 > 
 > **The Lesson**: The practice demonstrates that the felt sense of sufficiency — of having enough — is not a fixed quantity determined by one's material circumstances but a calibratable psychological state that can be maintained at a wide range of income levels through appropriate philosophical practice. The person who practices periodic simplicity is less vulnerable to the anxiety of potential loss, more capable of genuine appreciation for what they have, and less driven by the compulsive acquisition that the fear of insufficiency generates.
 
@@ -11208,7 +11208,7 @@ extraction_summary:
 > 
 > **The Situation**: Potts's argument — developed without direct reference to Stoicism but with remarkable convergence — is that most people are time-poor and thing-rich in a way that inverts the actual conditions of a good life. The things that constitute genuine wellbeing (deep engagement with meaningful activities, rich relationships, the experience of novelty and growth) are time-intensive and materially cheap. The things that modern culture treats as constitutive of success (large homes, new vehicles, luxury goods) are materially expensive and time-consuming to maintain, and their wellbeing returns are subject to rapid hedonic adaptation. His prescription — reduce material complexity to create temporal and psychological space for intrinsically meaningful activity — is structurally identical to the Stoic framework.
 > 
-> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
+> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire|Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 > 
 > **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
@@ -11223,7 +11223,7 @@ extraction_summary:
 > 
 > **Duration**: 48–72 hours minimum for full psychological effect; shorter periods are useful but may not achieve the depth of recalibration that multi-day practice provides
 > 
-> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
+> **Stoic Grounding**: Seneca's *Letters to Lucilius*, Letter XVIII; the practice of *frugalitas* as philosophical discipline. The practice operationalizes the [[Preferred-Indifferents|Preferred Indifferents]] doctrine by providing direct experiential evidence that comfort, while genuinely preferable, is not necessary for wellbeing.
 > 
 > **Psychological Mechanism**: Counters hedonic adaptation by resetting the baseline against which ordinary goods are experienced. After several days of bread and water, a standard meal becomes genuinely experienced as a luxury. This recalibration of baseline produces the gratitude that hedonic adaptation normally suppresses — transforming what was background into foreground, what was entitled into appreciated.
 > 
@@ -11315,8 +11315,8 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > **Series Connections**
 > 
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
-> - **Deepens**: [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) — the [[Preferred-Indifferents|Preferred Indifferents]] doctrine and the virtue-only-constitutes-the-good claim are the philosophical foundations that make Stoic minimalism coherent rather than arbitrary.
+> - **Deepens**: [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) — the meditatio paupertatis and negative visualization applied to material goods are advanced implementations of the practice framework established in Report 03.
 > - **Connects to**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the non-dependence on material goods cultivated in Stoic simplicity directly increases resilience; the person who has practiced sufficiency is less devastated by material loss than the person whose wellbeing depends on maintaining a certain standard.
 > - **Prepares for**: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] (Report 09) — the simplification of one's relationship to material goods creates the attentional space that mindfulness practice requires. It is structurally difficult to be genuinely present when one is preoccupied with maintaining material complexity.
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — Cognitive Behavioral Therapy's attention to the role of cognitive distortions in generating unnecessary suffering maps precisely onto the Stoic account of how misvalued preferred indifferents generate anxiety and compulsive acquisition.
@@ -11399,7 +11399,7 @@ extraction_summary:
 > → Next: [[Stoicism and CBT - Similarities Differences and Integration]]
 > 
 > **Series Arc Position**: Integration
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]], [[Core Principles - Virtue Wisdom and Self-Control]], [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 #### 1061. [QUOTE] Untitled *(Line 51801)*
 
@@ -11627,7 +11627,7 @@ extraction_summary:
 > → Next: *Series Complete*
 > 
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred-Indifferents|Preferred Indifferents]], [[Virtue-Ethics|Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 #### 1087. [CONNECTION-IDEAS] Untitled *(Line 52488)*
 
@@ -11921,7 +11921,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[${focusVirtue}]]
-- [[-our-perceptions-shape-our-suffering-202512010031]]
+- [[our-perceptions-shape-our-suffering-202512010031|-our-perceptions-shape-our-suffering-202512010031]]
 - [[2025]]
 - [[2025-11]]
 - [[2025-11-28]]
@@ -11937,9 +11937,9 @@ extraction_summary:
 - [[ABC Model REBT]]
 - [[Aaron Beck]]
 - [[Abraham-Maslow|Abraham Maslow]]
-- [[Academic Buoyancy]]
+- [[Academic-Buoyancy|Academic Buoyancy]]
 - [[Academic Research]]
-- [[Academic Skepticism]]
+- [[Academic-Skepticism|Academic Skepticism]]
 - [[Academic Skeptics]]
 - [[Academy]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
@@ -11959,7 +11959,7 @@ extraction_summary:
 - [[Alias 1]]
 - [[Alias 2]]
 - [[Amathia]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Amor Fati — Nietzsche, Stoicism, and the Love of Fate]]
 - [[Amor Fati — The Stoic and Nietzschean Traditions]]
 - [[Amygdala]]
@@ -11987,7 +11987,7 @@ extraction_summary:
 - [[Argument-Analysis|Argument Analysis]]
 - [[Argument-Mapping]]
 - [[Aristotelian Virtue Ethics]]
-- [[Aristotelian thought]]
+- [[Aristotelian-thought|Aristotelian thought]]
 - [[Aristotle]]
 - [[Arrian]]
 - [[Art of Living]]
@@ -11997,7 +11997,7 @@ extraction_summary:
 - [[Attachment-Theory|Attachment Theory]]
 - [[Attachment-Theory|Attachment Theory (Bowlby)]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attributional Ambiguity]]
+- [[Attributional-Ambiguity|Attributional Ambiguity]]
 - [[Autarkeia]]
 - [[Autexousion]]
 - [[Authentic Leadership]]
@@ -12011,7 +12011,7 @@ extraction_summary:
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Basic Argument Analysis]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Behavioral Change]]
 - [[Behavioral-Modification|Behavioral Modification]]
 - [[Beneficence]]
@@ -12046,7 +12046,7 @@ extraction_summary:
 - [[Chrēstotēs]]
 - [[Cicero]]
 - [[Circadian Optimization]]
-- [[Classroom Motivation]]
+- [[Classroom-Motivation|Classroom Motivation]]
 - [[Cleanthes]]
 - [[Cleanthes of Assos]]
 - [[Cognition]]
@@ -12074,12 +12074,12 @@ extraction_summary:
 - [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
-- [[Cognitive Forcing Functions]]
+- [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]]
 - [[Cognitive Habit]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Model of Emotion]]
-- [[Cognitive Narrowing]]
+- [[Cognitive-Narrowing|Cognitive Narrowing]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive Primacy]]
@@ -12098,8 +12098,8 @@ extraction_summary:
 - [[Comparative Philosophy]]
 - [[Comparing Stoicism, Buddhism, and Modern Psychology]]
 - [[Competence]]
-- [[Competency-Based Learning]]
-- [[Compound Interest]]
+- [[Competency-Based-Learning|Competency-Based Learning]]
+- [[Compound-Interest|Compound Interest]]
 - [[Concept A]]
 - [[Concept Y]]
 - [[Concept Z]]
@@ -12124,7 +12124,7 @@ extraction_summary:
 - [[Cynic lifestyle]]
 - [[Cynic philosopher]]
 - [[Cynic philosophy]]
-- [[Cynic school]]
+- [[Cynic-school|Cynic school]]
 - [[Cynicism]]
 - [[Cynicism (Philosophy)]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
@@ -12157,7 +12157,7 @@ extraction_summary:
 - [[Diogenes of Sinope]]
 - [[Diogenes the Cynic]]
 - [[Discipline of Action]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire|Discipline of Desire]]
 - [[Discipline-of-Assent]]
 - [[Discourses]]
 - [[Domain-Specific Critical Thinking]]
@@ -12174,7 +12174,7 @@ extraction_summary:
 - [[Educational-Psychology|Educational Psychology]]
 - [[Educational Psychology Knowledge Base]]
 - [[Edward-Deci|Edward Deci]]
-- [[Effectance Motivation]]
+- [[Effectance-Motivation|Effectance Motivation]]
 - [[Effort Praise]]
 - [[Ekloge]]
 - [[Ekpyrosis]]
@@ -12183,7 +12183,7 @@ extraction_summary:
 - [[Emotion Regulation Science]]
 - [[Emotional Control]]
 - [[Emotional-Dysregulation|Emotional Dysregulation]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Resilience]]
 - [[Emotional Responses]]
@@ -12231,19 +12231,19 @@ extraction_summary:
 - [[Euthumia]]
 - [[Evening Review]]
 - [[Evening Review Practice]]
-- [[Evidence-Based Education]]
+- [[Evidence-Based-Education|Evidence-Based Education]]
 - [[Evidence-Based Practice]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Executive-Function|Executive Function]]
 - [[Existential Therapy]]
 - [[Existentialism]]
-- [[Expertise Acquisition]]
-- [[Expertise Development]]
+- [[Expertise-Acquisition|Expertise Acquisition]]
+- [[Expertise-Development|Expertise Development]]
 - [[Exposure Therapy]]
-- [[External Achievement]]
+- [[External-Achievement|External Achievement]]
 - [[External Events]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
-- [[Fear Extinction]]
+- [[Fear-Extinction|Fear Extinction]]
 - [[First Movements]]
 - [[First Movements / Propatheiai]]
 - [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
@@ -12256,7 +12256,7 @@ extraction_summary:
 - [[Foundational-Logic|Foundational Logic]]
 - [[Foundational-Report|Foundational Report]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
-- [[Four Cardinal Virtues]]
+- [[Four-Cardinal-Virtues|Four Cardinal Virtues]]
 - [[Fractal Consistency]]
 - [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]]
 - [[Functional Connectivity]]
@@ -12283,11 +12283,11 @@ extraction_summary:
 - [[Hedonic-Adaptation]]
 - [[Hegemonikon]]
 - [[Heimarmenê]]
-- [[Hellenistic Period]]
+- [[Hellenistic-period|Hellenistic Period]]
 - [[Hellenistic Philosophy]]
 - [[Hellenistic Philosophy and Indian Philosophy]]
 - [[Hellenistic and Indian Philosophy - Ancient Encounters]]
-- [[Hellenistic period]]
+- [[Hellenistic-period|Hellenistic period]]
 - [[Heuristic-Based Decision Making]]
 - [[Hexis]]
 - [[Hierocles]]
@@ -12305,7 +12305,7 @@ extraction_summary:
 - [[Hymn to Zeus]]
 - [[Hypomnemata]]
 - [[Hêdonê]]
-- [[Identity-Based Motivation]]
+- [[Identity-Based-Motivation|Identity-Based Motivation]]
 - [[Impermanence]]
 - [[Impermanence Contemplation]]
 - [[Impermanence Meditation]]
@@ -12384,7 +12384,7 @@ extraction_summary:
 - [[Logos Spermatikos]]
 - [[Long-Term Potentiation]]
 - [[Lower-Level Concept]]
-- [[Lucius Annaeus Seneca]]
+- [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]]
 - [[Lupê]]
 - [[Lyceum]]
 - [[MBSR - Clinical Research Summary]]
@@ -12425,7 +12425,7 @@ extraction_summary:
 - [[Metacognition Fundamentals]]
 - [[Metacognition and Self-Regulated Learning - Research and Application]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Metacognitive Instruction Design]]
 - [[Metacognitive Intervention Design]]
 - [[Metacognitive Journaling]]
@@ -12483,7 +12483,7 @@ extraction_summary:
 - [[Oikeiosis]]
 - [[Oikeiosis — Natural Affiliation and the Expansion of Care]]
 - [[Oikeiosis — The Stoic Theory of Natural Affiliation]]
-- [[Open Science Framework]]
+- [[Open-Science-Framework|Open Science Framework]]
 - [[Operationalism in Psychology]]
 - [[Organismic-Integration|Organismic Integration]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -12529,7 +12529,7 @@ extraction_summary:
 - [[Pierre Hadot and the Recovery of Spiritual Exercises]]
 - [[Plain Text]]
 - [[Plato]]
-- [[Platonic philosophy]]
+- [[Platonic-philosophy|Platonic philosophy]]
 - [[Platonism]]
 - [[Plutarch]]
 - [[Pneuma]]
@@ -12545,14 +12545,14 @@ extraction_summary:
 - [[Practical Reasoning in Real-World Contexts]]
 - [[Praemeditatio]]
 - [[Praxis]]
-- [[Pre-Mortem Analysis]]
-- [[Preferred Indifferent]]
-- [[Preferred Indifferents]]
+- [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
+- [[Preferred-Indifferent|Preferred Indifferent]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Preferred Indifferents - Stoic Value Theory]]
 - [[Preferred Indifferents — A Complete Taxonomy]]
 - [[Preferred Indifferents — Complete Taxonomy]]
 - [[Preferred Indifferents — Stoic Value Theory]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
@@ -12596,11 +12596,11 @@ extraction_summary:
 - [[QuickAdd]]
 - [[Quintus Junius Rusticus]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Rational Nature]]
+- [[Rational-Nature|Rational Nature]]
 - [[Rationality Studies]]
 - [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]
-- [[Red Team Thinking]]
-- [[Reflective Judgment Model]]
+- [[Red-Team-Thinking|Red Team Thinking]]
+- [[Reflective-Judgment-Model|Reflective Judgment Model]]
 - [[Reflective Writing]]
 - [[Related Concept 1]]
 - [[Related Concept 2]]
@@ -12612,14 +12612,14 @@ extraction_summary:
 - [[Report 04 — Stoicism and Modern Psychology]]
 - [[Report 05 — Stoicism in Leadership and Decision-Making]]
 - [[Report 10 — Stoicism and CBT]]
-- [[Reserve Clause]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Reserve Clause in Practice]]
 - [[Reserve Clause in Stoic Practice]]
 - [[Resilience]]
 - [[Resilience Science — From Hardiness to Post-Traumatic Growth]]
 - [[Resilience Science — Trajectories, Factors, and Mechanisms]]
 - [[Rhetoric]]
-- [[Richard Lazarus]]
+- [[Richard-Lazarus|Richard Lazarus]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Ruling Faculty]]
 - [[Rumination]]
@@ -12726,7 +12726,7 @@ extraction_summary:
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Stoicism in Leadership and Decision-Making]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Structural Encoding Techniques]]
@@ -12747,7 +12747,7 @@ extraction_summary:
 - [[Templates]]
 - [[Temporal Distance]]
 - [[The Four Cardinal Virtues]]
-- [[The Historical and Intellectual Origins of Stoicism]]
+- [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 - [[The Neuroscience of Habit Formation and Extinction]]
 - [[The Obstacle Is the Way]]
 - [[The Obstacle Is the Way (Principle)]]
@@ -12804,7 +12804,7 @@ extraction_summary:
 - [[Voluntary Simplicity Movement]]
 - [[wiki-links]]
 - [[Wisdom]]
-- [[Wise Interventions]]
+- [[Wise-Interventions|Wise Interventions]]
 - [[Wise-Interventions-Walton-&-Wilson|Wise Interventions (Walton & Wilson)]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory and Executive Function]]
@@ -12847,12 +12847,12 @@ extraction_summary:
 | 4 | [[2025]] | — | — | 999-report-orginizing\999-stoicism\re... | 68 |
 | 5 | [[practical-philosophy-moc]] | — | — | 999-report-orginizing\999-stoicism\re... | 75 |
 | 6 | [[2025-12-01]] | Daily-Note | — | 999-report-orginizing\999-stoicism\re... | 77 |
-| 7 | [[-our-perceptions-shape-our-suffering-202512010031]] | — | — | The Historical and Intellectual Origi... | 81 |
-| 8 | [[The Historical and Intellectual Origins of Stoicism]] | — | — | The Historical and Intellectual Origi... | 84 |
+| 7 | [[our-perceptions-shape-our-suffering-202512010031|-our-perceptions-shape-our-suffering-202512010031]] | — | — | The Historical and Intellectual Origi... | 81 |
+| 8 | [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]] | — | — | The Historical and Intellectual Origi... | 84 |
 | 9 | [[Stoicism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 222 |
-| 10 | [[Hellenistic period]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
-| 11 | [[Platonic philosophy]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
-| 12 | [[Aristotelian thought]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
+| 10 | [[Hellenistic-period|Hellenistic period]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
+| 11 | [[Platonic-philosophy|Platonic philosophy]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
+| 12 | [[Aristotelian-thought|Aristotelian thought]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
 | 13 | [[polis]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
 | 14 | [[Diadochi]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 224 |
 | 15 | [[Plato]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 226 |
@@ -12860,10 +12860,10 @@ extraction_summary:
 | 17 | [[Eudaimonia]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 226 |
 | 18 | [[Stoicism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 226 |
 | 19 | [[Epicureanism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 226 |
-| 20 | [[Academic Skepticism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 226 |
+| 20 | [[Academic-Skepticism|Academic Skepticism]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 226 |
 | 21 | [[Academy]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 228 |
 | 22 | [[Lyceum]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 228 |
-| 23 | [[Cynic school]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 228 |
+| 23 | [[Cynic-school|Cynic school]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 228 |
 | 24 | [[Garden]] | — | — | 🌍 The Hellenistic Context: Philosophy... | 228 |
 | 25 | [[Crates of Thebes]] | — | — | Zeno of Citium: The Shipwrecked Merch... | 237 |
 | 26 | [[Cynic philosopher]] | — | — | Zeno of Citium: The Shipwrecked Merch... | 237 |
@@ -12890,7 +12890,7 @@ extraction_summary:
 | 47 | [[Apatheia]] | — | — | Chrysippus: "Without Him, There Would... | 278 |
 | 48 | [[Stoicism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 285 |
 | 49 | [[Epicureanism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 285 |
-| 50 | [[Academic Skepticism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 285 |
+| 50 | [[Academic-Skepticism|Academic Skepticism]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 285 |
 | 51 | [[Eudaimonia]] | — | — | 🗺️ The Philosophical Landscape: Stoic... | 285 |
 | 52 | [[Stoicism]] | — | — | Stoicism and Epicureanism: Rival Visi... | 289 |
 | 53 | [[Epicureanism]] | — | — | Stoicism and Epicureanism: Rival Visi... | 289 |
@@ -12913,7 +12913,7 @@ extraction_summary:
 | 70 | [[Panaetius]] | — | — | 🌉 The Middle Stoa: Roman Influence an... | 333 |
 | 71 | [[Scipionic Circle]] | — | — | 🌉 The Middle Stoa: Roman Influence an... | 333 |
 | 72 | [[Posidonius]] | — | — | 🌉 The Middle Stoa: Roman Influence an... | 335 |
-| 73 | [[Lucius Annaeus Seneca]] | — | — | Seneca the Younger: Wealth, Power, an... | 348 |
+| 73 | [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]] | — | — | Seneca the Younger: Wealth, Power, an... | 348 |
 | 74 | [[Epistulae Morales ad Lucilium]] | — | — | Seneca the Younger: Wealth, Power, an... | 352 |
 | 75 | [[Tacitus]] | — | — | Seneca the Younger: Wealth, Power, an... | 356 |
 | 76 | [[Epictetus]] | — | — | Epictetus: From Slavery to Teaching | 363 |
@@ -12974,7 +12974,7 @@ extraction_summary:
 | 131 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 599 |
 | 132 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Claude Thinking: | 599 |
 | 133 | [[Habit-Formation|Habit Formation]] | — | — | Claude Thinking: | 599 |
-| 134 | [[Emotional Regulation]] | — | — | Claude Thinking: | 599 |
+| 134 | [[Emotional-Regulation|Emotional Regulation]] | — | — | Claude Thinking: | 599 |
 | 135 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 599 |
 | 136 | [[Journaling]] | — | — | Claude Thinking: | 599 |
 | 137 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Claude Thinking: | 599 |
@@ -13063,7 +13063,7 @@ extraction_summary:
 | 220 | [[Functional Connectivity]] | functional connectivity | — | Neuroplasticity and the Neurobiology ... | 745 |
 | 221 | [[Executive-Function|Executive Function]] | executive control | — | Neuroplasticity and the Neurobiology ... | 747 |
 | 222 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | Neuroplasticity and the Neurobiology ... | 747 |
-| 223 | [[Emotional Regulation]] | emotional regulation | — | Neuroplasticity and the Neurobiology ... | 747 |
+| 223 | [[Emotional-Regulation|Emotional Regulation]] | emotional regulation | — | Neuroplasticity and the Neurobiology ... | 747 |
 | 224 | [[Amygdala]] | amygdala | — | Neuroplasticity and the Neurobiology ... | 747 |
 | 225 | [[Self-Referential Processing]] | self-referential processing | — | Neuroplasticity and the Neurobiology ... | 747 |
 | 226 | [[Medial Prefrontal Cortex]] | medial prefrontal cortex | — | Neuroplasticity and the Neurobiology ... | 747 |
@@ -13085,7 +13085,7 @@ extraction_summary:
 | 242 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | Unanswered Questions and Future Resea... | 849 |
 | 243 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | ACT | — | Unanswered Questions and Future Resea... | 849 |
 | 244 | [[Cognitive Behavioral Therapy and Stoicism Convergence]] | — | — | 🔗 Related Topics for PKB Expansion | 866 |
-| 245 | [[Emotional Regulation]] | — | — | 🔗 Related Topics for PKB Expansion | 869 |
+| 245 | [[Emotional-Regulation|Emotional Regulation]] | — | — | 🔗 Related Topics for PKB Expansion | 869 |
 | 246 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 869 |
 | 247 | [[Neuroplasticity]] | — | — | 🔗 Related Topics for PKB Expansion | 869 |
 | 248 | [[The Neuroscience of Habit Formation and Extinction]] | — | — | 🔗 Related Topics for PKB Expansion | 871 |
@@ -13120,7 +13120,7 @@ extraction_summary:
 | 277 | [[Deliberate-Practice|Deliberate Practice]] | — | — | ═════════════════════════════════════... | 10413 |
 | 278 | [[Grit and Perseverance]] | — | — | ═════════════════════════════════════... | 10414 |
 | 279 | [[Stereotype-Threat|Stereotype Threat]] | — | — | ═════════════════════════════════════... | 10415 |
-| 280 | [[Academic Buoyancy]] | — | — | ═════════════════════════════════════... | 10416 |
+| 280 | [[Academic-Buoyancy|Academic Buoyancy]] | — | — | ═════════════════════════════════════... | 10416 |
 | 281 | [[Self-Theories (Dweck)]] | — | — | ═════════════════════════════════════... | 10417 |
 | 282 | [[Effort Praise]] | — | — | ═════════════════════════════════════... | 10418 |
 | 283 | [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] | — | — | ═════════════════════════════════════... | 10419 |
@@ -13143,7 +13143,7 @@ extraction_summary:
 | 300 | [[Deliberate-Practice|Deliberate Practice]] | — | — | ═════════════════════════════════════... | 10522 |
 | 301 | [[Grit and Perseverance]] | — | — | ═════════════════════════════════════... | 10523 |
 | 302 | [[Stereotype-Threat|Stereotype Threat]] | — | — | ═════════════════════════════════════... | 10524 |
-| 303 | [[Academic Buoyancy]] | — | — | ═════════════════════════════════════... | 10525 |
+| 303 | [[Academic-Buoyancy|Academic Buoyancy]] | — | — | ═════════════════════════════════════... | 10525 |
 | 304 | [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] | — | — | ═════════════════════════════════════... | 10526 |
 | 305 | [[Growth-Mindset|Growth Mindset]] | — | — | The Standard Account | 10540 |
 | 306 | [[Carol-Dweck|Carol Dweck]] | — | — | The Standard Account | 10540 |
@@ -13170,23 +13170,23 @@ extraction_summary:
 | 327 | [[Attribution-Theory|Attribution Theory]] | — | — | D. Expansion Topics | 10950 |
 | 328 | [[Motivational-Interviewing|Motivational Interviewing]] | — | — | D. Expansion Topics | 10950 |
 | 329 | [[Learned-Helplessness|Learned Helplessness]] | — | — | D. Expansion Topics | 10950 |
-| 330 | [[Academic Buoyancy]] | — | — | D. Expansion Topics | 10950 |
+| 330 | [[Academic-Buoyancy|Academic Buoyancy]] | — | — | D. Expansion Topics | 10950 |
 | 331 | [[Deliberate-Practice|Deliberate Practice]] | — | — | D. Expansion Topics | 10957 |
-| 332 | [[Expertise Acquisition]] | — | — | D. Expansion Topics | 10957 |
+| 332 | [[Expertise-Acquisition|Expertise Acquisition]] | — | — | D. Expansion Topics | 10957 |
 | 333 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 10957 |
 | 334 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | D. Expansion Topics | 10957 |
 | 335 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | D. Expansion Topics | 10964 |
-| 336 | [[Classroom Motivation]] | — | — | D. Expansion Topics | 10964 |
-| 337 | [[Competency-Based Learning]] | — | — | D. Expansion Topics | 10964 |
+| 336 | [[Classroom-Motivation|Classroom Motivation]] | — | — | D. Expansion Topics | 10964 |
+| 337 | [[Competency-Based-Learning|Competency-Based Learning]] | — | — | D. Expansion Topics | 10964 |
 | 338 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | D. Expansion Topics | 10964 |
 | 339 | [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] | — | — | D. Expansion Topics | 10971 |
-| 340 | [[Open Science Framework]] | — | — | D. Expansion Topics | 10971 |
+| 340 | [[Open-Science-Framework|Open Science Framework]] | — | — | D. Expansion Topics | 10971 |
 | 341 | [[Meta-Science]] | — | — | D. Expansion Topics | 10971 |
-| 342 | [[Evidence-Based Education]] | — | — | D. Expansion Topics | 10971 |
+| 342 | [[Evidence-Based-Education|Evidence-Based Education]] | — | — | D. Expansion Topics | 10971 |
 | 343 | [[Stereotype-Threat|Stereotype Threat]] | — | — | D. Expansion Topics | 10978 |
-| 344 | [[Identity-Based Motivation]] | — | — | D. Expansion Topics | 10978 |
-| 345 | [[Wise Interventions]] | — | — | D. Expansion Topics | 10978 |
-| 346 | [[Attributional Ambiguity]] | — | — | D. Expansion Topics | 10978 |
+| 344 | [[Identity-Based-Motivation|Identity-Based Motivation]] | — | — | D. Expansion Topics | 10978 |
+| 345 | [[Wise-Interventions|Wise Interventions]] | — | — | D. Expansion Topics | 10978 |
+| 346 | [[Attributional-Ambiguity|Attributional Ambiguity]] | — | — | D. Expansion Topics | 10978 |
 | 347 | [[Mental-Models-Theory|Mental Models Theory]] | — | — | ═════════════════════════════════════... | 32172 |
 | 348 | [[Johnson-Laird]] | — | — | ═════════════════════════════════════... | 32173 |
 | 349 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ═════════════════════════════════════... | 32174 |
@@ -13242,7 +13242,7 @@ extraction_summary:
 | 399 | [[Virtue]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
 | 400 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
 | 401 | [[Psychological Resilience]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
-| 402 | [[Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
+| 402 | [[Rational-Nature|Rational Nature]] | — | — | 1. 📜 Philosophical Foundations & Hist... | 32890 |
 | 403 | [[Stoic Daily Journaling]] | — | — | The Ancient Lineage | 32894 |
 | 404 | [[philosophy]] | — | — | The Ancient Lineage | 32894 |
 | 405 | [[Art of Living]] | — | — | The Ancient Lineage | 32894 |
@@ -13268,7 +13268,7 @@ extraction_summary:
 | 425 | [[Judgments]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 32910 |
 | 426 | [[Value-Assessments]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 32910 |
 | 427 | [[Actions]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 32910 |
-| 428 | [[Rational Nature]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 32910 |
+| 428 | [[Rational-Nature|Rational Nature]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 32910 |
 | 429 | [[Virtue]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 32910 |
 | 430 | [[Moral Development]] | — | — | The Pythagorean Origin | 32914 |
 | 431 | [[Antonine Plague]] | — | — | The Modern Rediscovery | 32918 |
@@ -13283,7 +13283,7 @@ extraction_summary:
 | 440 | [[Justice]] | — | — | The Four Cardinal Virtues | 32950 |
 | 441 | [[Courage]] | — | — | The Four Cardinal Virtues | 32951 |
 | 442 | [[Moderation]] | — | — | The Four Cardinal Virtues | 32952 |
-| 443 | [[External Achievement]] | — | — | The Four Cardinal Virtues | 32956 |
+| 443 | [[External-Achievement|External Achievement]] | — | — | The Four Cardinal Virtues | 32956 |
 | 444 | [[Spiritual Exercises]] | — | — | Spiritual Exercises as Psychological ... | 32960 |
 | 445 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Spiritual Exercises as Psychological ... | 32960 |
 | 446 | [[Prosoche]] | — | — | Spiritual Exercises as Psychological ... | 32963 |
@@ -13291,7 +13291,7 @@ extraction_summary:
 | 448 | [[Premeditatio-Malorum]] | — | — | Spiritual Exercises as Psychological ... | 32965 |
 | 449 | [[Negative Visualization]] | — | — | Spiritual Exercises as Psychological ... | 32966 |
 | 450 | [[Memento Mori]] | — | — | Spiritual Exercises as Psychological ... | 32967 |
-| 451 | [[Amor Fati]] | — | — | Spiritual Exercises as Psychological ... | 32968 |
+| 451 | [[Amor-Fati|Amor Fati]] | — | — | Spiritual Exercises as Psychological ... | 32968 |
 | 452 | [[Internal Experience]] | — | — | Self-Regulation Through Written Language | 32972 |
 | 453 | [[Written Language]] | — | — | Self-Regulation Through Written Language | 32972 |
 | 454 | [[Cognitive-Offloading|Cognitive Offloading]] | — | — | Self-Regulation Through Written Language | 32974 |
@@ -13304,7 +13304,7 @@ extraction_summary:
 | 461 | [[Cognitive-Science|Cognitive Science]] | — | — | The Metacognitive Foundation | 32990 |
 | 462 | [[Self-Regulated Learners]] | — | — | The Metacognitive Foundation | 32990 |
 | 463 | [[Metacognitive Scaffold]] | — | — | The Metacognitive Foundation | 32990 |
-| 464 | [[Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 32996 |
+| 464 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 32996 |
 | 465 | [[Rational Emotive Behavior Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 33000 |
 | 466 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 33000 |
 | 467 | [[Cognitive Restructuring]] | — | — | The CBT Connection: Philosophical Ori... | 33006 |
@@ -13320,12 +13320,12 @@ extraction_summary:
 | 477 | [[Exposure Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 33010 |
 | 478 | [[Virtue]] | — | — | The CBT Connection: Philosophical Ori... | 33011 |
 | 479 | [[Values Clarification]] | — | — | The CBT Connection: Philosophical Ori... | 33011 |
-| 480 | [[Fear Extinction]] | — | — | The CBT Connection: Philosophical Ori... | 33015 |
-| 481 | [[Emotional Regulation]] | — | — | The CBT Connection: Philosophical Ori... | 33015 |
-| 482 | [[Executive Control]] | — | — | The CBT Connection: Philosophical Ori... | 33015 |
+| 480 | [[Fear-Extinction|Fear Extinction]] | — | — | The CBT Connection: Philosophical Ori... | 33015 |
+| 481 | [[Emotional-Regulation|Emotional Regulation]] | — | — | The CBT Connection: Philosophical Ori... | 33015 |
+| 482 | [[Executive-Control|Executive Control]] | — | — | The CBT Connection: Philosophical Ori... | 33015 |
 | 483 | [[Cognitive Activity]] | — | — | Emotional Regulation Through Cognitiv... | 33019 |
 | 484 | [[Neuroplasticity]] | — | — | Neuroplasticity and Habit Formation | 33031 |
-| 485 | [[Prefrontal Cortex]] | — | — | Neuroplasticity and Habit Formation | 33034 |
+| 485 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | Neuroplasticity and Habit Formation | 33034 |
 | 486 | [[Default Mode Network]] | — | — | Neuroplasticity and Habit Formation | 33035 |
 | 487 | [[Self-Referential Rumination]] | — | — | Neuroplasticity and Habit Formation | 33035 |
 | 488 | [[Hippocampal Consolidation]] | — | — | Neuroplasticity and Habit Formation | 33036 |
@@ -13340,7 +13340,7 @@ extraction_summary:
 | 497 | [[Gratitude]] | — | — | Marcus Aurelius's Personal System | 33082 |
 | 498 | [[Hedonic-Adaptation]] | — | — | Marcus Aurelius's Personal System | 33085 |
 | 499 | [[Equanimity]] | — | — | Marcus Aurelius's Personal System | 33089 |
-| 500 | [[Cognitive Narrowing]] | — | — | Marcus Aurelius's Personal System | 33107 |
+| 500 | [[Cognitive-Narrowing|Cognitive Narrowing]] | — | — | Marcus Aurelius's Personal System | 33107 |
 | 501 | [[Prospective Self-Monitoring]] | — | — | Seneca's Evening Forensic Examination | 33126 |
 | 502 | [[Golden Verses of Pythagoras]] | — | — | Epictetus's Three-Question Framework | 33130 |
 | 503 | [[Learning Cycle]] | — | — | Epictetus's Three-Question Framework | 33136 |
@@ -13404,7 +13404,7 @@ extraction_summary:
 | 561 | [[Emotional Regulation Questionnaire]] | — | — | Primary Psychological Outcomes | 34095 |
 | 562 | [[Connor-Davidson Resilience Scale]] | — | — | Primary Psychological Outcomes | 34108 |
 | 563 | [[Brief Resilience Scale]] | — | — | Primary Psychological Outcomes | 34108 |
-| 564 | [[Metacognitive Awareness Inventory]] | — | — | Primary Psychological Outcomes | 34121 |
+| 564 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | Primary Psychological Outcomes | 34121 |
 | 565 | [[Self-Compassion]] | — | — | Red Flags and Negative Indicators | 34342 |
 | 566 | [[Apatheia]] | — | — | Emotional Suppression Misunderstanding | 34395 |
 | 567 | [[Apathy]] | — | — | Emotional Suppression Misunderstanding | 34395 |
@@ -13438,7 +13438,7 @@ extraction_summary:
 | 595 | [[Neuroplastic Change]] | — | — | The Three-Pillar Architecture | 34938 |
 | 596 | [[Second Nature]] | — | — | The Progression of Mastery | 34993 |
 | 597 | [[Metacognitive Scaffold]] | — | — | The Scaffold Model | 35023 |
-| 598 | [[Compound Interest]] | — | — | The Compounding Returns Model | 35034 |
+| 598 | [[Compound-Interest|Compound Interest]] | — | — | The Compounding Returns Model | 35034 |
 | 599 | [[Virtue]] | — | — | The Ultimate Purpose | 35138 |
 | 600 | [[Eudaimonia]] | — | — | The Ultimate Purpose | 35139 |
 | 601 | [[Psychological Resilience]] | — | — | The Ultimate Purpose | 35140 |
@@ -13462,7 +13462,7 @@ extraction_summary:
 | 619 | [[Stoicism]] | — | — | Claude Thinking | 35463 |
 | 620 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking | 35464 |
 | 621 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Claude Thinking | 35465 |
-| 622 | [[Amor Fati]] | — | — | Claude Thinking | 35466 |
+| 622 | [[Amor-Fati|Amor Fati]] | — | — | Claude Thinking | 35466 |
 | 623 | [[Memento Mori]] | — | — | Claude Thinking | 35467 |
 | 624 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking | 35468 |
 | 625 | [[Epictetus]] | — | — | Claude Thinking | 35469 |
@@ -13492,7 +13492,7 @@ extraction_summary:
 | 649 | [[Sophrosyne]] | — | — | Virtue as the Highest Good (Summum Bo... | 35609 |
 | 650 | [[Eudaimonia]] | flourishing | — | Virtue as the Highest Good (Summum Bo... | 35611 |
 | 651 | [[Virtue-Ethics|Virtue Ethics]] | virtue | — | Virtue as the Highest Good (Summum Bo... | 35613 |
-| 652 | [[Amor Fati]] | — | — | Amor Fati (Love of Fate) | 35634 |
+| 652 | [[Amor-Fati|Amor Fati]] | — | — | Amor Fati (Love of Fate) | 35634 |
 | 653 | [[Gratitude]] | — | — | Memento Mori (Remember You Must Die) | 35657 |
 | 654 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Marcus Aurelius - Meditations | 35694 |
 | 655 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Marcus Aurelius - Meditations | 35694 |
@@ -13517,7 +13517,7 @@ extraction_summary:
 | 674 | [[Stoicism]] | — | — | 🎯 Synthesis & Mastery | 36515 |
 | 675 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 🎯 Synthesis & Mastery | 36515 |
 | 676 | [[Virtue]] | — | — | 🎯 Synthesis & Mastery | 36515 |
-| 677 | [[Amor Fati]] | — | — | 🎯 Synthesis & Mastery | 36515 |
+| 677 | [[Amor-Fati|Amor Fati]] | — | — | 🎯 Synthesis & Mastery | 36515 |
 | 678 | [[Memento Mori]] | — | — | 🎯 Synthesis & Mastery | 36515 |
 | 679 | [[Premeditatio-Malorum]] | — | — | 🎯 Synthesis & Mastery | 36515 |
 | 680 | [[Wisdom]] | — | — | 🎯 Synthesis & Mastery | 36515 |
@@ -13563,7 +13563,7 @@ extraction_summary:
 | 720 | [[Eudaimonia]] | — | — | 🎯 Foundation - The Goal of Stoic Life | 36983 |
 | 721 | [[Arete]] | — | — | 🎯 Foundation - The Goal of Stoic Life | 36983 |
 | 722 | [[Telos]] | — | — | Core Terms: Life's Ultimate Aim | 36988 |
-| 723 | [[Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 36991 |
+| 723 | [[Rational-Nature|Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 36991 |
 | 724 | [[Virtue]] | — | — | Core Terms: Life's Ultimate Aim | 36991 |
 | 725 | [[Eudaimonia]] | — | — | Core Terms: Life's Ultimate Aim | 36994 |
 | 726 | [[Arete]] | — | — | Core Terms: Life's Ultimate Aim | 36994 |
@@ -13575,7 +13575,7 @@ extraction_summary:
 | 732 | [[Eudaimonia]] | — | — | Core Terms: Life's Ultimate Aim | 36998 |
 | 733 | [[Epicureanism]] | — | — | Core Terms: Life's Ultimate Aim | 37002 |
 | 734 | [[Virtue]] | — | — | Core Terms: Life's Ultimate Aim | 37002 |
-| 735 | [[Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 37004 |
+| 735 | [[Rational-Nature|Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 37004 |
 | 736 | [[Wisdom]] | — | — | Core Terms: Life's Ultimate Aim | 37005 |
 | 737 | [[Justice]] | — | — | Core Terms: Life's Ultimate Aim | 37005 |
 | 738 | [[Courage]] | — | — | Core Terms: Life's Ultimate Aim | 37005 |
@@ -13630,7 +13630,7 @@ extraction_summary:
 | 787 | [[Ethical Framework]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
 | 788 | [[Virtue]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
 | 789 | [[Vice]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
-| 790 | [[Four Cardinal Virtues]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
+| 790 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
 | 791 | [[Prokoptôn]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
 | 792 | [[Sophos]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37076 |
 | 793 | [[Eph' Hêmin]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 37079 |
@@ -13691,7 +13691,7 @@ extraction_summary:
 | 848 | [[Autarkeia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 37132 |
 | 849 | [[Apatheia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 37132 |
 | 850 | [[Metriopatheia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 37132 |
-| 851 | [[Four Cardinal Virtues]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 37135 |
+| 851 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 37135 |
 | 852 | [[Virtue]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 37135 |
 | 853 | [[Kakon / Kakia]] | — | — | Vice, Error, and Moral Progress | 37140 |
 | 854 | [[Arete]] | — | — | Vice, Error, and Moral Progress | 37142 |
@@ -13880,7 +13880,7 @@ extraction_summary:
 | 1037 | [[Heimarmenê]] | — | — | Divine Reason and Cosmic Structure | 37346 |
 | 1038 | [[Logos]] | — | — | Divine Reason and Cosmic Structure | 37347 |
 | 1039 | [[Pronoia]] | — | — | Divine Reason and Cosmic Structure | 37347 |
-| 1040 | [[Amor Fati]] | — | — | Divine Reason and Cosmic Structure | 37347 |
+| 1040 | [[Amor-Fati|Amor Fati]] | — | — | Divine Reason and Cosmic Structure | 37347 |
 | 1041 | [[Sympatheia]] | — | — | Divine Reason and Cosmic Structure | 37347 |
 | 1042 | [[Pronoia]] | — | — | Divine Reason and Cosmic Structure | 37350 |
 | 1043 | [[Logos]] | — | — | Divine Reason and Cosmic Structure | 37353 |
@@ -13951,7 +13951,7 @@ extraction_summary:
 | 1108 | [[Eph' Hêmin]] | — | — | The Dichotomy of Control | 37448 |
 | 1109 | [[Adiaphora]] | — | — | The Dichotomy of Control | 37448 |
 | 1110 | [[Prohairesis]] | — | — | The Dichotomy of Control | 37448 |
-| 1111 | [[Reserve Clause]] | — | — | The Dichotomy of Control | 37448 |
+| 1111 | [[Reserve-Clause|Reserve Clause]] | — | — | The Dichotomy of Control | 37448 |
 | 1112 | [[Kathêkon]] | — | — | The Dichotomy of Control | 37451 |
 | 1113 | [[Kathêkonta]] | — | — | The Dichotomy of Control | 37456 |
 | 1114 | [[Katorthoma]] | — | — | The Dichotomy of Control | 37456 |
@@ -13966,7 +13966,7 @@ extraction_summary:
 | 1123 | [[Ta Kathêkonta]] | — | — | The Dichotomy of Control | 37461 |
 | 1124 | [[Askesis]] | — | — | Spiritual Exercises & Daily Practices | 37466 |
 | 1125 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 37469 |
-| 1126 | [[Discipline of Desire]] | — | — | Spiritual Exercises & Daily Practices | 37470 |
+| 1126 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | Spiritual Exercises & Daily Practices | 37470 |
 | 1127 | [[Discipline of Action]] | — | — | Spiritual Exercises & Daily Practices | 37470 |
 | 1128 | [[Discipline-of-Assent]] | — | — | Spiritual Exercises & Daily Practices | 37470 |
 | 1129 | [[Morning/Evening Review]] | — | — | Spiritual Exercises & Daily Practices | 37471 |
@@ -14019,7 +14019,7 @@ extraction_summary:
 | 1176 | [[Prosochê]] | — | — | Spiritual Exercises & Daily Practices | 37528 |
 | 1177 | [[Evening Review]] | — | — | Spiritual Exercises & Daily Practices | 37528 |
 | 1178 | [[Marcus Aurelius Meditations]] | — | — | Spiritual Exercises & Daily Practices | 37528 |
-| 1179 | [[Amor Fati]] | — | — | Spiritual Exercises & Daily Practices | 37531 |
+| 1179 | [[Amor-Fati|Amor Fati]] | — | — | Spiritual Exercises & Daily Practices | 37531 |
 | 1180 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 37535 |
 | 1181 | [[Nietzsche]] | — | — | Spiritual Exercises & Daily Practices | 37536 |
 | 1182 | [[Heimarmenê]] | — | — | Spiritual Exercises & Daily Practices | 37538 |
@@ -14036,11 +14036,11 @@ extraction_summary:
 | 1193 | [[Virtue]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37546 |
 | 1194 | [[Three Disciplines]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37546 |
 | 1195 | [[The Three Disciplines / Topoi]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37549 |
-| 1196 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37552 |
+| 1196 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37552 |
 | 1197 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37552 |
 | 1198 | [[Discipline-of-Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37552 |
 | 1199 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37557 |
-| 1200 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37559 |
+| 1200 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37559 |
 | 1201 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37559 |
 | 1202 | [[Discipline-of-Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37559 |
 | 1203 | [[Lekton]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 37562 |
@@ -14247,7 +14247,7 @@ extraction_summary:
 | 1404 | [[Bratman's-Planning-Theory|Bratman's Planning Theory]] | — | — | Relationship to Other Report Types | 38197 |
 | 1405 | [[Korsgaard's-Self-Constitution|Korsgaard's Self-Constitution]] | — | — | Relationship to Other Report Types | 38197 |
 | 1406 | [[Cross-Cultural-Psychology|Cross-Cultural Psychology]] | — | — | Relationship to Other Report Types | 38199 |
-| 1407 | [[Effectance Motivation]] | — | — | The Invitation to Reconstruct Further | 38205 |
+| 1407 | [[Effectance-Motivation|Effectance Motivation]] | — | — | The Invitation to Reconstruct Further | 38205 |
 | 1408 | [[Flow-Theory|Flow Theory]] | — | — | The Invitation to Reconstruct Further | 38205 |
 | 1409 | [[Challenge-Skill-Balance|Challenge-Skill Balance]] | — | — | The Invitation to Reconstruct Further | 38205 |
 | 1410 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 38450 |
@@ -14263,12 +14263,12 @@ extraction_summary:
 | 1420 | [[Cynicism]] | — | — | ═════════════════════════════════════... | 38462 |
 | 1421 | [[Socrates]] | — | — | ═════════════════════════════════════... | 38463 |
 | 1422 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 38467 |
-| 1423 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 38469 |
+| 1423 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 38469 |
 | 1424 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 38470 |
 | 1425 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 38473 |
 | 1426 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 38474 |
 | 1427 | [[Ancient Philosophy]] | — | — | ═════════════════════════════════════... | 38475 |
-| 1428 | [[Hellenistic Period]] | — | — | ═════════════════════════════════════... | 38476 |
+| 1428 | [[Hellenistic-period|Hellenistic Period]] | — | — | ═════════════════════════════════════... | 38476 |
 | 1429 | [[Zeno of Citium]] | — | — | ═════════════════════════════════════... | 38479 |
 | 1430 | [[Early Stoa]] | — | — | ═════════════════════════════════════... | 38480 |
 | 1431 | [[Middle Stoa]] | — | — | ═════════════════════════════════════... | 38481 |
@@ -14318,7 +14318,7 @@ extraction_summary:
 | 1475 | [[Zeus]] | — | — | Philosophy as a Unified System | 38651 |
 | 1476 | [[fate]] | — | — | Philosophy as a Unified System | 38651 |
 | 1477 | [[Virtue]] | — | — | Philosophy as a Unified System | 38655 |
-| 1478 | [[Preferred Indifferents]] | — | — | The Dichotomy of Control | 38673 |
+| 1478 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | The Dichotomy of Control | 38673 |
 | 1479 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Dichotomy of Control | 38677 |
 | 1480 | [[Prohairesis]] | — | — | The Dichotomy of Control | 38686 |
 | 1481 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 38703 |
@@ -14339,7 +14339,7 @@ extraction_summary:
 | 1496 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 6: Integration — How This Connec... | 38825 |
 | 1497 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: Integration — How This Connec... | 38826 |
 | 1498 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Part 6: Integration — How This Connec... | 38826 |
-| 1499 | [[Preferred Indifferents]] | — | — | Part 6: Integration — How This Connec... | 38826 |
+| 1499 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 6: Integration — How This Connec... | 38826 |
 | 1500 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 6: Integration — How This Connec... | 38827 |
 | 1501 | [[Eudaimonia]] | — | — | Conclusion: The Living Practice | 38844 |
 | 1502 | [[Musonius Rufus — Roman Stoic Teacher]] | — | — | Expansion Topics for PKB | 38907 |
@@ -14377,7 +14377,7 @@ extraction_summary:
 | 1534 | [[Dikaiosyne (Justice)]] | — | — | ═════════════════════════════════════... | 39092 |
 | 1535 | [[Andreia (Courage)]] | — | — | ═════════════════════════════════════... | 39093 |
 | 1536 | [[Sophrosyne (Temperance)]] | — | — | ═════════════════════════════════════... | 39094 |
-| 1537 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 39095 |
+| 1537 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 39095 |
 | 1538 | [[The Stoic Sage]] | — | — | ═════════════════════════════════════... | 39096 |
 | 1539 | [[Aristotelian Virtue Ethics]] | — | — | ═════════════════════════════════════... | 39099 |
 | 1540 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | ═════════════════════════════════════... | 39100 |
@@ -14389,7 +14389,7 @@ extraction_summary:
 | 1546 | [[Dikaiosyne (Justice)]] | — | — | ═════════════════════════════════════... | 39143 |
 | 1547 | [[Andreia (Courage)]] | — | — | ═════════════════════════════════════... | 39144 |
 | 1548 | [[Sophrosyne (Temperance)]] | — | — | ═════════════════════════════════════... | 39145 |
-| 1549 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 39146 |
+| 1549 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 39146 |
 | 1550 | [[The Stoic Sage]] | — | — | ═════════════════════════════════════... | 39147 |
 | 1551 | [[Prohairesis]] | — | — | ═════════════════════════════════════... | 39148 |
 | 1552 | [[Aristotelian Virtue Ethics]] | — | — | ═════════════════════════════════════... | 39150 |
@@ -14511,24 +14511,24 @@ extraction_summary:
 | 1668 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 39894 |
 | 1669 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 2: What the Stoics Said — The Ph... | 39899 |
 | 1670 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 39901 |
-| 1671 | [[Preferred Indifferents]] | — | — | Framework Principle 1: Training the D... | 39913 |
+| 1671 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Framework Principle 1: Training the D... | 39913 |
 | 1672 | [[James Gross]] | — | — | The Neuroscience of Cognitive Reappra... | 39952 |
 | 1673 | [[James Pennebaker]] | — | — | The Cognitive Science of Journaling | 39970 |
 | 1674 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | The Cognitive Science of Journaling | 39975 |
 | 1675 | [[Aaron Beck]] | — | — | The Cognitive Science of Journaling | 39975 |
 | 1676 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 39975 |
-| 1677 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 39981 |
+| 1677 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 39981 |
 | 1678 | [[Self-Efficacy]] | — | — | The Research on Voluntary Discomfort | 39981 |
 | 1679 | [[Premeditatio-Malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 39991 |
 | 1680 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 40025 |
 | 1681 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 40025 |
-| 1682 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 40032 |
+| 1682 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 40032 |
 | 1683 | [[Prosoche]] | — | — | Part 6: The Practice Architecture — A... | 40068 |
-| 1684 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 40083 |
+| 1684 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 40083 |
 | 1685 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 40135 |
-| 1686 | [[Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 40135 |
+| 1686 | [[Preferred-Indifferent|Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 40135 |
 | 1687 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 6: The Practice Architecture — A... | 40141 |
-| 1688 | [[Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 40163 |
+| 1688 | [[Preferred-Indifferent|Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 40163 |
 | 1689 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 40173 |
 | 1690 | [[Prohairesis]] | — | — | Conclusion: Philosophy Becomes Posture | 40213 |
 | 1691 | [[Prosoche — Stoic Self-Attention]] | — | — | Expansion Topics for PKB | 40281 |
@@ -14543,7 +14543,7 @@ extraction_summary:
 | 1700 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 40448 |
 | 1701 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 40449 |
 | 1702 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 40450 |
-| 1703 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 40451 |
+| 1703 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 40451 |
 | 1704 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 40454 |
 | 1705 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 40455 |
 | 1706 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 40456 |
@@ -14562,7 +14562,7 @@ extraction_summary:
 | 1719 | [[James Gross]] | — | — | ═════════════════════════════════════... | 40469 |
 | 1720 | [[Martin Seligman]] | — | — | ═════════════════════════════════════... | 40470 |
 | 1721 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 40471 |
-| 1722 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 40474 |
+| 1722 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 40474 |
 | 1723 | [[Stoicism in Leadership and Decision-Making]] | — | — | ═════════════════════════════════════... | 40475 |
 | 1724 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 40477 |
 | 1725 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 40478 |
@@ -14601,7 +14601,7 @@ extraction_summary:
 | 1758 | [[Psychological Flexibility and the Dichotomy of Control]] | — | — | ═════════════════════════════════════... | 40571 |
 | 1759 | [[Neuroplasticity and Philosophical Practice]] | — | — | ═════════════════════════════════════... | 40574 |
 | 1760 | [[Stoicism Series Overview]] | — | — | Stoicism and Modern Psychology: Paral... | 40599 |
-| 1761 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 40601 |
+| 1761 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 40601 |
 | 1762 | [[Stoicism in Leadership and Decision-Making]] | — | — | Stoicism and Modern Psychology: Paral... | 40602 |
 | 1763 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 40611 |
 | 1764 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Part 1: Introducing the Comparison — ... | 40611 |
@@ -14614,7 +14614,7 @@ extraction_summary:
 | 1771 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 40674 |
 | 1772 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 40682 |
 | 1773 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 40686 |
-| 1774 | [[Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 40699 |
+| 1774 | [[Richard-Lazarus|Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 40699 |
 | 1775 | [[James Gross]] | — | — | Convergence 1: The Cognitive Constitu... | 40699 |
 | 1776 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Convergence 3: The Locus of Control a... | 40719 |
 | 1777 | [[Thomas Aquinas]] | — | — | Part 7: Historical Connections — The ... | 40825 |
@@ -14626,7 +14626,7 @@ extraction_summary:
 | 1783 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 41064 |
 | 1784 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 41065 |
 | 1785 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 41066 |
-| 1786 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41067 |
+| 1786 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41067 |
 | 1787 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 41068 |
 | 1788 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 41071 |
 | 1789 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 41072 |
@@ -14637,16 +14637,16 @@ extraction_summary:
 | 1794 | [[Prohairesis]] | — | — | ═════════════════════════════════════... | 41077 |
 | 1795 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 41078 |
 | 1796 | [[Kathêkon]] | — | — | ═════════════════════════════════════... | 41079 |
-| 1797 | [[Reserve Clause]] | — | — | ═════════════════════════════════════... | 41080 |
+| 1797 | [[Reserve-Clause|Reserve Clause]] | — | — | ═════════════════════════════════════... | 41080 |
 | 1798 | [[Logos]] | — | — | ═════════════════════════════════════... | 41081 |
 | 1799 | [[James Stockdale]] | — | — | ═════════════════════════════════════... | 41082 |
-| 1800 | [[Emotional Regulation]] | — | — | ═════════════════════════════════════... | 41083 |
+| 1800 | [[Emotional-Regulation|Emotional Regulation]] | — | — | ═════════════════════════════════════... | 41083 |
 | 1801 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 41084 |
 | 1802 | [[Decision-Theory|Decision Theory]] | — | — | ═════════════════════════════════════... | 41085 |
 | 1803 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 41088 |
 | 1804 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 41089 |
 | 1805 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 41091 |
-| 1806 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41092 |
+| 1806 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41092 |
 | 1807 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 41093 |
 | 1808 | [[Stoicism and Minimalism - Living a Simple Fulfilling Life]] | — | — | ═════════════════════════════════════... | 41094 |
 | 1809 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 41097 |
@@ -14691,20 +14691,20 @@ extraction_summary:
 | 1848 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 41245 |
 | 1849 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 41249 |
 | 1850 | [[Kathêkon]] | — | — | Part 2: What the Stoics Said — The Ph... | 41249 |
-| 1851 | [[Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 41262 |
+| 1851 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 41262 |
 | 1852 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Principle 2: The Dichotomy of Control... | 41281 |
 | 1853 | [[Seneca]] | — | — | Principle 3: The Reserve Clause — Act... | 41296 |
 | 1854 | [[Kathêkon]] | — | — | Principle 4: Role Ethics and the Obli... | 41302 |
 | 1855 | [[Epictetus]] | — | — | Principle 5: Emotional Governance as ... | 41315 |
 | 1856 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 41327 |
 | 1857 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 41333 |
-| 1858 | [[Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 41333 |
+| 1858 | [[Reserve-Clause|Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 41333 |
 | 1859 | [[Authentic Leadership]] | — | — | Part 4: The Psychology Behind the Phi... | 41338 |
 | 1860 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Example 1: Marcus Aurelius and the We... | 41346 |
 | 1861 | [[Seneca]] | — | — | Example 2: Seneca on Clemency and the... | 41357 |
 | 1862 | [[James Stockdale]] | — | — | Example 3: James Stockdale and the Te... | 41368 |
 | 1863 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 3: James Stockdale and the Te... | 41373 |
-| 1864 | [[Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 41375 |
+| 1864 | [[Reserve-Clause|Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 41375 |
 | 1865 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 41394 |
 | 1866 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 41394 |
 | 1867 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 41439 |
@@ -14715,12 +14715,12 @@ extraction_summary:
 | 1872 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 41479 |
 | 1873 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 8: Integration — Building a Cohe... | 41491 |
 | 1874 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 41491 |
-| 1875 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 41491 |
+| 1875 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 41491 |
 | 1876 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 41491 |
 | 1877 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 41491 |
 | 1878 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 41495 |
 | 1879 | [[Prohairesis]] | — | — | Part 8: Integration — Building a Cohe... | 41495 |
-| 1880 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 41495 |
+| 1880 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 41495 |
 | 1881 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 41496 |
 | 1882 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 41497 |
 | 1883 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 41498 |
@@ -14734,7 +14734,7 @@ extraction_summary:
 | 1891 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 41711 |
 | 1892 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 41712 |
 | 1893 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 41713 |
-| 1894 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41714 |
+| 1894 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41714 |
 | 1895 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 41717 |
 | 1896 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 41718 |
 | 1897 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 41719 |
@@ -14744,20 +14744,20 @@ extraction_summary:
 | 1901 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 41723 |
 | 1902 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 41724 |
 | 1903 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 41725 |
-| 1904 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 41726 |
+| 1904 | [[Amor-Fati|Amor Fati]] | — | — | ═════════════════════════════════════... | 41726 |
 | 1905 | [[Memento Mori]] | — | — | ═════════════════════════════════════... | 41727 |
 | 1906 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 41728 |
 | 1907 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | ═════════════════════════════════════... | 41729 |
 | 1908 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | ═════════════════════════════════════... | 41730 |
 | 1909 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 41731 |
 | 1910 | [[Post-Traumatic Growth]] | — | — | ═════════════════════════════════════... | 41732 |
-| 1911 | [[Emotional Regulation]] | — | — | ═════════════════════════════════════... | 41733 |
+| 1911 | [[Emotional-Regulation|Emotional Regulation]] | — | — | ═════════════════════════════════════... | 41733 |
 | 1912 | [[James Stockdale]] | — | — | ═════════════════════════════════════... | 41734 |
 | 1913 | [[Stoicism in Leadership and Decision-Making]] | — | — | ═════════════════════════════════════... | 41737 |
 | 1914 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | ═════════════════════════════════════... | 41738 |
 | 1915 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 41740 |
 | 1916 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 41741 |
-| 1917 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41742 |
+| 1917 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 41742 |
 | 1918 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 41743 |
 | 1919 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | ═════════════════════════════════════... | 41744 |
 | 1920 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 41747 |
@@ -14765,7 +14765,7 @@ extraction_summary:
 | 1922 | [[Psychology of Resilience]] | — | — | ═════════════════════════════════════... | 41749 |
 | 1923 | [[Contemplative Practice]] | — | — | ═════════════════════════════════════... | 41750 |
 | 1924 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 41753 |
-| 1925 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 41754 |
+| 1925 | [[Amor-Fati|Amor Fati]] | — | — | ═════════════════════════════════════... | 41754 |
 | 1926 | [[The Obstacle Is the Way]] | — | — | ═════════════════════════════════════... | 41755 |
 | 1927 | [[Stoic Consolation]] | — | — | ═════════════════════════════════════... | 41756 |
 | 1928 | [[Impermanence Meditation]] | — | — | ═════════════════════════════════════... | 41757 |
@@ -14776,7 +14776,7 @@ extraction_summary:
 | 1933 | [[Hardiness Theory (Kobasa)]] | — | — | ═════════════════════════════════════... | 41764 |
 | 1934 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 41806 |
 | 1935 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 41808 |
-| 1936 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 41809 |
+| 1936 | [[Amor-Fati|Amor Fati]] | — | — | ═════════════════════════════════════... | 41809 |
 | 1937 | [[The Obstacle Is the Way (Principle)]] | — | — | ═════════════════════════════════════... | 41810 |
 | 1938 | [[Stoic Consolation Literature]] | — | — | ═════════════════════════════════════... | 41811 |
 | 1939 | [[Impermanence Contemplation]] | — | — | ═════════════════════════════════════... | 41812 |
@@ -14801,7 +14801,7 @@ extraction_summary:
 | 1958 | [[Epictetus]] | — | — | Part 1: The Problem Adversity Present... | 41874 |
 | 1959 | [[Seneca]] | — | — | Part 1: The Problem Adversity Present... | 41874 |
 | 1960 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 41922 |
-| 1961 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 41924 |
+| 1961 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 41924 |
 | 1962 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 41926 |
 | 1963 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Framework Principle 1: The Dichotomy ... | 41941 |
 | 1964 | [[Post-Traumatic Growth]] | — | — | Framework Principle 2: Adversity as M... | 41961 |
@@ -14834,7 +14834,7 @@ extraction_summary:
 | 1991 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 42421 |
 | 1992 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 42422 |
 | 1993 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 42423 |
-| 1994 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 42424 |
+| 1994 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 42424 |
 | 1995 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 42425 |
 | 1996 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 42428 |
 | 1997 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 42429 |
@@ -14937,7 +14937,7 @@ extraction_summary:
 | 2094 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 43163 |
 | 2095 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 43164 |
 | 2096 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 43165 |
-| 2097 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43166 |
+| 2097 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43166 |
 | 2098 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 43169 |
 | 2099 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 43170 |
 | 2100 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 43171 |
@@ -14948,7 +14948,7 @@ extraction_summary:
 | 2105 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 43176 |
 | 2106 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 43177 |
 | 2107 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 43178 |
-| 2108 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 43179 |
+| 2108 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 43179 |
 | 2109 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 43180 |
 | 2110 | [[Hedonic-Adaptation]] | — | — | ═════════════════════════════════════... | 43181 |
 | 2111 | [[Voluntary Simplicity]] | — | — | ═════════════════════════════════════... | 43182 |
@@ -14961,7 +14961,7 @@ extraction_summary:
 | 2118 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 43191 |
 | 2119 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 43193 |
 | 2120 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 43194 |
-| 2121 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43195 |
+| 2121 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43195 |
 | 2122 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 43196 |
 | 2123 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 43197 |
 | 2124 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 43200 |
@@ -14969,7 +14969,7 @@ extraction_summary:
 | 2126 | [[Ethics of Consumption]] | — | — | ═════════════════════════════════════... | 43202 |
 | 2127 | [[Ancient Philosophy]] | — | — | ═════════════════════════════════════... | 43203 |
 | 2128 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 43206 |
-| 2129 | [[Discipline of Desire]] | — | — | ═════════════════════════════════════... | 43207 |
+| 2129 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | ═════════════════════════════════════... | 43207 |
 | 2130 | [[Stoic Frugality]] | — | — | ═════════════════════════════════════... | 43208 |
 | 2131 | [[Voluntary Discomfort Practice]] | — | — | ═════════════════════════════════════... | 43209 |
 | 2132 | [[Negative Visualization]] | — | — | ═════════════════════════════════════... | 43210 |
@@ -14981,7 +14981,7 @@ extraction_summary:
 | 2138 | [[Eudaimonic Wellbeing Research]] | — | — | ═════════════════════════════════════... | 43218 |
 | 2139 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 43260 |
 | 2140 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 43262 |
-| 2141 | [[Discipline of Desire]] | — | — | ═════════════════════════════════════... | 43263 |
+| 2141 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | ═════════════════════════════════════... | 43263 |
 | 2142 | [[Stoic Frugality]] | — | — | ═════════════════════════════════════... | 43264 |
 | 2143 | [[Preferred Indifferents — Complete Taxonomy]] | — | — | ═════════════════════════════════════... | 43265 |
 | 2144 | [[Hedonic-Adaptation]] | — | — | ═════════════════════════════════════... | 43267 |
@@ -15001,11 +15001,11 @@ extraction_summary:
 | 2158 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | Stoicism and Minimalism: Living a Sim... | 43314 |
 | 2159 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and Minimalism: Living a Sim... | 43315 |
 | 2160 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and Minimalism: Living a Sim... | 43318 |
-| 2161 | [[Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 43318 |
+| 2161 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 43318 |
 | 2162 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 43318 |
-| 2163 | [[Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 43318 |
+| 2163 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 43318 |
 | 2164 | [[Hedonic-Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 43326 |
-| 2165 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 43344 |
+| 2165 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 43344 |
 | 2166 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 43344 |
 | 2167 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 43348 |
 | 2168 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 43348 |
@@ -15015,25 +15015,25 @@ extraction_summary:
 | 2172 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 43359 |
 | 2173 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 43359 |
 | 2174 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 43366 |
-| 2175 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 43386 |
+| 2175 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 43386 |
 | 2176 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 43392 |
 | 2177 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 43422 |
 | 2178 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 43431 |
 | 2179 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 43434 |
 | 2180 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 43453 |
-| 2181 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 43460 |
+| 2181 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 43460 |
 | 2182 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 43466 |
-| 2183 | [[Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 43486 |
+| 2183 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 43486 |
 | 2184 | [[Virtue-Ethics|Virtue Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 43488 |
-| 2185 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 43505 |
+| 2185 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 43505 |
 | 2186 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 43518 |
 | 2187 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 43531 |
 | 2188 | [[Negative Visualization]] | — | — | Part 6: The Practice Architecture — A... | 43544 |
 | 2189 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 43572 |
 | 2190 | [[Prohairesis]] | — | — | Part 7: Common Obstacles and How the ... | 43582 |
 | 2191 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 43597 |
-| 2192 | [[Preferred Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 43597 |
-| 2193 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 43598 |
+| 2192 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 43597 |
+| 2193 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 43598 |
 | 2194 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 43599 |
 | 2195 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Part 8: Integration — Building a Cohe... | 43600 |
 | 2196 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 43601 |
@@ -15046,7 +15046,7 @@ extraction_summary:
 | 2203 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 43814 |
 | 2204 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 43815 |
 | 2205 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 43816 |
-| 2206 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43817 |
+| 2206 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43817 |
 | 2207 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 43820 |
 | 2208 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 43821 |
 | 2209 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 43822 |
@@ -15066,7 +15066,7 @@ extraction_summary:
 | 2223 | [[Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 43836 |
 | 2224 | [[Stoicism and Minimalism - Living a Simple Fulfilling Life]] | — | — | ═════════════════════════════════════... | 43839 |
 | 2225 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | ═════════════════════════════════════... | 43840 |
-| 2226 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43842 |
+| 2226 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 43842 |
 | 2227 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 43843 |
 | 2228 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 43844 |
 | 2229 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | ═════════════════════════════════════... | 43845 |
@@ -15107,12 +15107,12 @@ extraction_summary:
 | 2264 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Stoicism and Mindfulness: Cultivating... | 43963 |
 | 2265 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | Stoicism and Mindfulness: Cultivating... | 43966 |
 | 2266 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism and Mindfulness: Cultivating... | 43966 |
-| 2267 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 43966 |
+| 2267 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 43966 |
 | 2268 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 1: Introducing the Comparison — ... | 43972 |
 | 2269 | [[Siddhartha Gautama]] | — | — | Part 1: Introducing the Comparison — ... | 43976 |
 | 2270 | [[Logos]] | — | — | Part 2: Portrait of Framework A — Sto... | 43994 |
 | 2271 | [[Prohairesis]] | — | — | Part 2: Portrait of Framework A — Sto... | 43994 |
-| 2272 | [[Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 43994 |
+| 2272 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 43994 |
 | 2273 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: Portrait of Framework A — Sto... | 43996 |
 | 2274 | [[Epictetus]] | — | — | Part 2: Portrait of Framework A — Sto... | 44002 |
 | 2275 | [[Prosoche]] | — | — | Part 2: Portrait of Framework A — Sto... | 44006 |
@@ -15120,7 +15120,7 @@ extraction_summary:
 | 2277 | [[Mindfulness-Based Stress Reduction]] | — | — | Part 3: Portrait of Framework B — Bud... | 44027 |
 | 2278 | [[Mindfulness-Based Cognitive Therapy]] | — | — | Part 3: Portrait of Framework B — Bud... | 44044 |
 | 2279 | [[Memento Mori]] | — | — | Convergence 3: The Recognition of Imp... | 44079 |
-| 2280 | [[Preferred Indifferents]] | — | — | Convergence 3: The Recognition of Imp... | 44079 |
+| 2280 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Convergence 3: The Recognition of Imp... | 44079 |
 | 2281 | [[Apatheia]] | — | — | Convergence 4: Equanimity as the Idea... | 44090 |
 | 2282 | [[Logos]] | — | — | Divergence 1: The Nature of the Self | 44113 |
 | 2283 | [[Logos]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 44137 |
@@ -15140,7 +15140,7 @@ extraction_summary:
 | 2297 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 44477 |
 | 2298 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 44478 |
 | 2299 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 44479 |
-| 2300 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 44480 |
+| 2300 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 44480 |
 | 2301 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 44481 |
 | 2302 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 44484 |
 | 2303 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 44485 |
@@ -15159,7 +15159,7 @@ extraction_summary:
 | 2316 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 44498 |
 | 2317 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 44499 |
 | 2318 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 44500 |
-| 2319 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 44501 |
+| 2319 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 44501 |
 | 2320 | [[Cognitive Restructuring]] | — | — | ═════════════════════════════════════... | 44502 |
 | 2321 | [[Cognitive Distortions]] | — | — | ═════════════════════════════════════... | 44503 |
 | 2322 | [[Psychological Flexibility]] | — | — | ═════════════════════════════════════... | 44504 |
@@ -15168,7 +15168,7 @@ extraction_summary:
 | 2325 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 44509 |
 | 2326 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 44512 |
 | 2327 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 44513 |
-| 2328 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 44514 |
+| 2328 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 44514 |
 | 2329 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 44515 |
 | 2330 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 44516 |
 | 2331 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 44517 |
@@ -15207,7 +15207,7 @@ extraction_summary:
 | 2364 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44632 |
 | 2365 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44636 |
 | 2366 | [[Prohairesis]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44636 |
-| 2367 | [[Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44636 |
+| 2367 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44636 |
 | 2368 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44636 |
 | 2369 | [[Eudaimonia]] | — | — | Stoicism and CBT: Similarities, Diffe... | 44636 |
 | 2370 | [[Albert Ellis]] | — | — | Part 1: Introducing the Comparison — ... | 44642 |
@@ -15261,7 +15261,7 @@ extraction_summary:
 | 2418 | [[Logical Reasoning Foundations]] | — | — | ═════════════════════════════════════... | 45656 |
 | 2419 | [[Metacognition]] | — | — | ═════════════════════════════════════... | 45659 |
 | 2420 | [[PENCRISAL Assessment Framework]] | — | — | ═════════════════════════════════════... | 45660 |
-| 2421 | [[Metacognitive Awareness Inventory]] | — | — | ═════════════════════════════════════... | 45661 |
+| 2421 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | ═════════════════════════════════════... | 45661 |
 | 2422 | [[Epistemic-Vigilance]] | — | — | ═════════════════════════════════════... | 45662 |
 | 2423 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ═════════════════════════════════════... | 45663 |
 | 2424 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | ═════════════════════════════════════... | 45664 |
@@ -15286,15 +15286,15 @@ extraction_summary:
 | 2443 | [[Debugging Strategies for Reasoning Errors]] | — | — | ═════════════════════════════════════... | 45687 |
 | 2444 | [[Structural Encoding Techniques]] | — | — | ═════════════════════════════════════... | 45688 |
 | 2445 | [[Working Memory and Executive Function]] | — | — | ═════════════════════════════════════... | 45691 |
-| 2446 | [[Expertise Development]] | — | — | ═════════════════════════════════════... | 45692 |
-| 2447 | [[Reflective Judgment Model]] | — | — | ═════════════════════════════════════... | 45693 |
+| 2446 | [[Expertise-Development|Expertise Development]] | — | — | ═════════════════════════════════════... | 45692 |
+| 2447 | [[Reflective-Judgment-Model|Reflective Judgment Model]] | — | — | ═════════════════════════════════════... | 45693 |
 | 2448 | [[Intellectual-Humility]] | — | — | ═════════════════════════════════════... | 45694 |
-| 2449 | [[Bayesian Reasoning]] | — | — | ═════════════════════════════════════... | 45695 |
+| 2449 | [[Bayesian-Reasoning|Bayesian Reasoning]] | — | — | ═════════════════════════════════════... | 45695 |
 | 2450 | [[Argument-Mapping]] | — | — | ═════════════════════════════════════... | 45696 |
 | 2451 | [[Socratic-Questioning|Socratic Questioning]] | — | — | ═════════════════════════════════════... | 45697 |
-| 2452 | [[Pre-Mortem Analysis]] | — | — | ═════════════════════════════════════... | 45698 |
-| 2453 | [[Red Team Thinking]] | — | — | ═════════════════════════════════════... | 45699 |
-| 2454 | [[Cognitive Forcing Functions]] | — | — | ═════════════════════════════════════... | 45700 |
+| 2452 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | ═════════════════════════════════════... | 45698 |
+| 2453 | [[Red-Team-Thinking|Red Team Thinking]] | — | — | ═════════════════════════════════════... | 45699 |
+| 2454 | [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]] | — | — | ═════════════════════════════════════... | 45700 |
 | 2455 | [[Heuristic-Based Decision Making]] | — | — | ═════════════════════════════════════... | 45703 |
 | 2456 | [[Intuitive Judgment]] | — | — | ═════════════════════════════════════... | 45704 |
 | 2457 | [[Unconscious Competence]] | — | — | ═════════════════════════════════════... | 45705 |
@@ -15329,12 +15329,12 @@ extraction_summary:
 | 2486 | [[Cynicism]] | — | — | ═════════════════════════════════════... | 46046 |
 | 2487 | [[Socrates]] | — | — | ═════════════════════════════════════... | 46047 |
 | 2488 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 46051 |
-| 2489 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 46053 |
+| 2489 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 46053 |
 | 2490 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 46054 |
 | 2491 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 46057 |
 | 2492 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 46058 |
 | 2493 | [[Ancient Philosophy]] | — | — | ═════════════════════════════════════... | 46059 |
-| 2494 | [[Hellenistic Period]] | — | — | ═════════════════════════════════════... | 46060 |
+| 2494 | [[Hellenistic-period|Hellenistic Period]] | — | — | ═════════════════════════════════════... | 46060 |
 | 2495 | [[Zeno of Citium]] | — | — | ═════════════════════════════════════... | 46063 |
 | 2496 | [[Early Stoa]] | — | — | ═════════════════════════════════════... | 46064 |
 | 2497 | [[Middle Stoa]] | — | — | ═════════════════════════════════════... | 46065 |
@@ -15384,7 +15384,7 @@ extraction_summary:
 | 2541 | [[Zeus]] | — | — | Philosophy as a Unified System | 46235 |
 | 2542 | [[fate]] | — | — | Philosophy as a Unified System | 46235 |
 | 2543 | [[Virtue]] | — | — | Philosophy as a Unified System | 46239 |
-| 2544 | [[Preferred Indifferents]] | — | — | The Dichotomy of Control | 46257 |
+| 2544 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | The Dichotomy of Control | 46257 |
 | 2545 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Dichotomy of Control | 46261 |
 | 2546 | [[Prohairesis]] | — | — | The Dichotomy of Control | 46270 |
 | 2547 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 46287 |
@@ -15405,7 +15405,7 @@ extraction_summary:
 | 2562 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 6: Integration — How This Connec... | 46409 |
 | 2563 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: Integration — How This Connec... | 46410 |
 | 2564 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Part 6: Integration — How This Connec... | 46410 |
-| 2565 | [[Preferred Indifferents]] | — | — | Part 6: Integration — How This Connec... | 46410 |
+| 2565 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 6: Integration — How This Connec... | 46410 |
 | 2566 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 6: Integration — How This Connec... | 46411 |
 | 2567 | [[Eudaimonia]] | — | — | Conclusion: The Living Practice | 46428 |
 | 2568 | [[Musonius Rufus — Roman Stoic Teacher]] | — | — | Expansion Topics for PKB | 46491 |
@@ -15443,7 +15443,7 @@ extraction_summary:
 | 2600 | [[Dikaiosyne (Justice)]] | — | — | ═════════════════════════════════════... | 46708 |
 | 2601 | [[Andreia (Courage)]] | — | — | ═════════════════════════════════════... | 46709 |
 | 2602 | [[Sophrosyne (Temperance)]] | — | — | ═════════════════════════════════════... | 46710 |
-| 2603 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 46711 |
+| 2603 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 46711 |
 | 2604 | [[The Stoic Sage]] | — | — | ═════════════════════════════════════... | 46712 |
 | 2605 | [[Aristotelian Virtue Ethics]] | — | — | ═════════════════════════════════════... | 46715 |
 | 2606 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | ═════════════════════════════════════... | 46716 |
@@ -15455,7 +15455,7 @@ extraction_summary:
 | 2612 | [[Dikaiosyne (Justice)]] | — | — | ═════════════════════════════════════... | 46759 |
 | 2613 | [[Andreia (Courage)]] | — | — | ═════════════════════════════════════... | 46760 |
 | 2614 | [[Sophrosyne (Temperance)]] | — | — | ═════════════════════════════════════... | 46761 |
-| 2615 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 46762 |
+| 2615 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 46762 |
 | 2616 | [[The Stoic Sage]] | — | — | ═════════════════════════════════════... | 46763 |
 | 2617 | [[Prohairesis]] | — | — | ═════════════════════════════════════... | 46764 |
 | 2618 | [[Aristotelian Virtue Ethics]] | — | — | ═════════════════════════════════════... | 46766 |
@@ -15577,24 +15577,24 @@ extraction_summary:
 | 2734 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 47536 |
 | 2735 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 2: What the Stoics Said — The Ph... | 47541 |
 | 2736 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 47543 |
-| 2737 | [[Preferred Indifferents]] | — | — | Framework Principle 1: Training the D... | 47555 |
+| 2737 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Framework Principle 1: Training the D... | 47555 |
 | 2738 | [[James Gross]] | — | — | The Neuroscience of Cognitive Reappra... | 47594 |
 | 2739 | [[James Pennebaker]] | — | — | The Cognitive Science of Journaling | 47612 |
 | 2740 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | The Cognitive Science of Journaling | 47617 |
 | 2741 | [[Aaron Beck]] | — | — | The Cognitive Science of Journaling | 47617 |
 | 2742 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 47617 |
-| 2743 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 47623 |
+| 2743 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 47623 |
 | 2744 | [[Self-Efficacy]] | — | — | The Research on Voluntary Discomfort | 47623 |
 | 2745 | [[Premeditatio-Malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 47633 |
 | 2746 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 47667 |
 | 2747 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 47667 |
-| 2748 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 47674 |
+| 2748 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 47674 |
 | 2749 | [[Prosoche]] | — | — | Part 6: The Practice Architecture — A... | 47710 |
-| 2750 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 47725 |
+| 2750 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 47725 |
 | 2751 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 47777 |
-| 2752 | [[Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 47777 |
+| 2752 | [[Preferred-Indifferent|Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 47777 |
 | 2753 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 6: The Practice Architecture — A... | 47783 |
-| 2754 | [[Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 47805 |
+| 2754 | [[Preferred-Indifferent|Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 47805 |
 | 2755 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 47815 |
 | 2756 | [[Prohairesis]] | — | — | Conclusion: Philosophy Becomes Posture | 47855 |
 | 2757 | [[Prosoche — Stoic Self-Attention]] | — | — | Expansion Topics for PKB | 47923 |
@@ -15609,7 +15609,7 @@ extraction_summary:
 | 2766 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 48109 |
 | 2767 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 48110 |
 | 2768 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 48111 |
-| 2769 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48112 |
+| 2769 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48112 |
 | 2770 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 48115 |
 | 2771 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 48116 |
 | 2772 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 48117 |
@@ -15628,7 +15628,7 @@ extraction_summary:
 | 2785 | [[James Gross]] | — | — | ═════════════════════════════════════... | 48130 |
 | 2786 | [[Martin Seligman]] | — | — | ═════════════════════════════════════... | 48131 |
 | 2787 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 48132 |
-| 2788 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48135 |
+| 2788 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48135 |
 | 2789 | [[Stoicism in Leadership and Decision-Making]] | — | — | ═════════════════════════════════════... | 48136 |
 | 2790 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 48138 |
 | 2791 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 48139 |
@@ -15667,7 +15667,7 @@ extraction_summary:
 | 2824 | [[Psychological Flexibility and the Dichotomy of Control]] | — | — | ═════════════════════════════════════... | 48232 |
 | 2825 | [[Neuroplasticity and Philosophical Practice]] | — | — | ═════════════════════════════════════... | 48235 |
 | 2826 | [[Stoicism Series Overview]] | — | — | Stoicism and Modern Psychology: Paral... | 48260 |
-| 2827 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 48262 |
+| 2827 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 48262 |
 | 2828 | [[Stoicism in Leadership and Decision-Making]] | — | — | Stoicism and Modern Psychology: Paral... | 48263 |
 | 2829 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 48272 |
 | 2830 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Part 1: Introducing the Comparison — ... | 48272 |
@@ -15680,7 +15680,7 @@ extraction_summary:
 | 2837 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 48335 |
 | 2838 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 48343 |
 | 2839 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 48347 |
-| 2840 | [[Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 48360 |
+| 2840 | [[Richard-Lazarus|Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 48360 |
 | 2841 | [[James Gross]] | — | — | Convergence 1: The Cognitive Constitu... | 48360 |
 | 2842 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Convergence 3: The Locus of Control a... | 48380 |
 | 2843 | [[Thomas Aquinas]] | — | — | Part 7: Historical Connections — The ... | 48486 |
@@ -15692,7 +15692,7 @@ extraction_summary:
 | 2849 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 48755 |
 | 2850 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 48756 |
 | 2851 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 48757 |
-| 2852 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48758 |
+| 2852 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48758 |
 | 2853 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 48759 |
 | 2854 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 48762 |
 | 2855 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 48763 |
@@ -15703,16 +15703,16 @@ extraction_summary:
 | 2860 | [[Prohairesis]] | — | — | ═════════════════════════════════════... | 48768 |
 | 2861 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 48769 |
 | 2862 | [[Kathêkon]] | — | — | ═════════════════════════════════════... | 48770 |
-| 2863 | [[Reserve Clause]] | — | — | ═════════════════════════════════════... | 48771 |
+| 2863 | [[Reserve-Clause|Reserve Clause]] | — | — | ═════════════════════════════════════... | 48771 |
 | 2864 | [[Logos]] | — | — | ═════════════════════════════════════... | 48772 |
 | 2865 | [[James Stockdale]] | — | — | ═════════════════════════════════════... | 48773 |
-| 2866 | [[Emotional Regulation]] | — | — | ═════════════════════════════════════... | 48774 |
+| 2866 | [[Emotional-Regulation|Emotional Regulation]] | — | — | ═════════════════════════════════════... | 48774 |
 | 2867 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 48775 |
 | 2868 | [[Decision-Theory|Decision Theory]] | — | — | ═════════════════════════════════════... | 48776 |
 | 2869 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 48779 |
 | 2870 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 48780 |
 | 2871 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 48782 |
-| 2872 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48783 |
+| 2872 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 48783 |
 | 2873 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 48784 |
 | 2874 | [[Stoicism and Minimalism - Living a Simple Fulfilling Life]] | — | — | ═════════════════════════════════════... | 48785 |
 | 2875 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 48788 |
@@ -15757,20 +15757,20 @@ extraction_summary:
 | 2914 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 48936 |
 | 2915 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 48940 |
 | 2916 | [[Kathêkon]] | — | — | Part 2: What the Stoics Said — The Ph... | 48940 |
-| 2917 | [[Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 48953 |
+| 2917 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 48953 |
 | 2918 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Principle 2: The Dichotomy of Control... | 48972 |
 | 2919 | [[Seneca]] | — | — | Principle 3: The Reserve Clause — Act... | 48987 |
 | 2920 | [[Kathêkon]] | — | — | Principle 4: Role Ethics and the Obli... | 48993 |
 | 2921 | [[Epictetus]] | — | — | Principle 5: Emotional Governance as ... | 49006 |
 | 2922 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 49018 |
 | 2923 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 49024 |
-| 2924 | [[Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 49024 |
+| 2924 | [[Reserve-Clause|Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 49024 |
 | 2925 | [[Authentic Leadership]] | — | — | Part 4: The Psychology Behind the Phi... | 49029 |
 | 2926 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Example 1: Marcus Aurelius and the We... | 49037 |
 | 2927 | [[Seneca]] | — | — | Example 2: Seneca on Clemency and the... | 49048 |
 | 2928 | [[James Stockdale]] | — | — | Example 3: James Stockdale and the Te... | 49059 |
 | 2929 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 3: James Stockdale and the Te... | 49064 |
-| 2930 | [[Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 49066 |
+| 2930 | [[Reserve-Clause|Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 49066 |
 | 2931 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 49085 |
 | 2932 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 49085 |
 | 2933 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 49130 |
@@ -15781,12 +15781,12 @@ extraction_summary:
 | 2938 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 49170 |
 | 2939 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 8: Integration — Building a Cohe... | 49182 |
 | 2940 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 49182 |
-| 2941 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 49182 |
+| 2941 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 49182 |
 | 2942 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 49182 |
 | 2943 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 49182 |
 | 2944 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 49186 |
 | 2945 | [[Prohairesis]] | — | — | Part 8: Integration — Building a Cohe... | 49186 |
-| 2946 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 49186 |
+| 2946 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 49186 |
 | 2947 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 49187 |
 | 2948 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 49188 |
 | 2949 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 49189 |
@@ -15800,7 +15800,7 @@ extraction_summary:
 | 2957 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 49434 |
 | 2958 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 49435 |
 | 2959 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 49436 |
-| 2960 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 49437 |
+| 2960 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 49437 |
 | 2961 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 49440 |
 | 2962 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 49441 |
 | 2963 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 49442 |
@@ -15810,20 +15810,20 @@ extraction_summary:
 | 2967 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 49446 |
 | 2968 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 49447 |
 | 2969 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 49448 |
-| 2970 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 49449 |
+| 2970 | [[Amor-Fati|Amor Fati]] | — | — | ═════════════════════════════════════... | 49449 |
 | 2971 | [[Memento Mori]] | — | — | ═════════════════════════════════════... | 49450 |
 | 2972 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 49451 |
 | 2973 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | ═════════════════════════════════════... | 49452 |
 | 2974 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | ═════════════════════════════════════... | 49453 |
 | 2975 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 49454 |
 | 2976 | [[Post-Traumatic Growth]] | — | — | ═════════════════════════════════════... | 49455 |
-| 2977 | [[Emotional Regulation]] | — | — | ═════════════════════════════════════... | 49456 |
+| 2977 | [[Emotional-Regulation|Emotional Regulation]] | — | — | ═════════════════════════════════════... | 49456 |
 | 2978 | [[James Stockdale]] | — | — | ═════════════════════════════════════... | 49457 |
 | 2979 | [[Stoicism in Leadership and Decision-Making]] | — | — | ═════════════════════════════════════... | 49460 |
 | 2980 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | ═════════════════════════════════════... | 49461 |
 | 2981 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 49463 |
 | 2982 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 49464 |
-| 2983 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 49465 |
+| 2983 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 49465 |
 | 2984 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 49466 |
 | 2985 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | ═════════════════════════════════════... | 49467 |
 | 2986 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 49470 |
@@ -15831,7 +15831,7 @@ extraction_summary:
 | 2988 | [[Psychology of Resilience]] | — | — | ═════════════════════════════════════... | 49472 |
 | 2989 | [[Contemplative Practice]] | — | — | ═════════════════════════════════════... | 49473 |
 | 2990 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 49476 |
-| 2991 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 49477 |
+| 2991 | [[Amor-Fati|Amor Fati]] | — | — | ═════════════════════════════════════... | 49477 |
 | 2992 | [[The Obstacle Is the Way]] | — | — | ═════════════════════════════════════... | 49478 |
 | 2993 | [[Stoic Consolation]] | — | — | ═════════════════════════════════════... | 49479 |
 | 2994 | [[Impermanence Meditation]] | — | — | ═════════════════════════════════════... | 49480 |
@@ -15842,7 +15842,7 @@ extraction_summary:
 | 2999 | [[Hardiness Theory (Kobasa)]] | — | — | ═════════════════════════════════════... | 49487 |
 | 3000 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 49529 |
 | 3001 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 49531 |
-| 3002 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 49532 |
+| 3002 | [[Amor-Fati|Amor Fati]] | — | — | ═════════════════════════════════════... | 49532 |
 | 3003 | [[The Obstacle Is the Way (Principle)]] | — | — | ═════════════════════════════════════... | 49533 |
 | 3004 | [[Stoic Consolation Literature]] | — | — | ═════════════════════════════════════... | 49534 |
 | 3005 | [[Impermanence Contemplation]] | — | — | ═════════════════════════════════════... | 49535 |
@@ -15867,7 +15867,7 @@ extraction_summary:
 | 3024 | [[Epictetus]] | — | — | Part 1: The Problem Adversity Present... | 49597 |
 | 3025 | [[Seneca]] | — | — | Part 1: The Problem Adversity Present... | 49597 |
 | 3026 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 49645 |
-| 3027 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 49647 |
+| 3027 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 49647 |
 | 3028 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 49649 |
 | 3029 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Framework Principle 1: The Dichotomy ... | 49664 |
 | 3030 | [[Post-Traumatic Growth]] | — | — | Framework Principle 2: Adversity as M... | 49684 |
@@ -15900,7 +15900,7 @@ extraction_summary:
 | 3057 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 50175 |
 | 3058 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 50176 |
 | 3059 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 50177 |
-| 3060 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 50178 |
+| 3060 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 50178 |
 | 3061 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 50179 |
 | 3062 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 50182 |
 | 3063 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 50183 |
@@ -16003,7 +16003,7 @@ extraction_summary:
 | 3160 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 50935 |
 | 3161 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 50936 |
 | 3162 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 50937 |
-| 3163 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 50938 |
+| 3163 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 50938 |
 | 3164 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 50941 |
 | 3165 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 50942 |
 | 3166 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 50943 |
@@ -16014,7 +16014,7 @@ extraction_summary:
 | 3171 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 50948 |
 | 3172 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 50949 |
 | 3173 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 50950 |
-| 3174 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 50951 |
+| 3174 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 50951 |
 | 3175 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 50952 |
 | 3176 | [[Hedonic-Adaptation]] | — | — | ═════════════════════════════════════... | 50953 |
 | 3177 | [[Voluntary Simplicity]] | — | — | ═════════════════════════════════════... | 50954 |
@@ -16027,7 +16027,7 @@ extraction_summary:
 | 3184 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 50963 |
 | 3185 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 50965 |
 | 3186 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 50966 |
-| 3187 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 50967 |
+| 3187 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 50967 |
 | 3188 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 50968 |
 | 3189 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 50969 |
 | 3190 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 50972 |
@@ -16035,7 +16035,7 @@ extraction_summary:
 | 3192 | [[Ethics of Consumption]] | — | — | ═════════════════════════════════════... | 50974 |
 | 3193 | [[Ancient Philosophy]] | — | — | ═════════════════════════════════════... | 50975 |
 | 3194 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 50978 |
-| 3195 | [[Discipline of Desire]] | — | — | ═════════════════════════════════════... | 50979 |
+| 3195 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | ═════════════════════════════════════... | 50979 |
 | 3196 | [[Stoic Frugality]] | — | — | ═════════════════════════════════════... | 50980 |
 | 3197 | [[Voluntary Discomfort Practice]] | — | — | ═════════════════════════════════════... | 50981 |
 | 3198 | [[Negative Visualization]] | — | — | ═════════════════════════════════════... | 50982 |
@@ -16047,7 +16047,7 @@ extraction_summary:
 | 3204 | [[Eudaimonic Wellbeing Research]] | — | — | ═════════════════════════════════════... | 50990 |
 | 3205 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 51032 |
 | 3206 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 51034 |
-| 3207 | [[Discipline of Desire]] | — | — | ═════════════════════════════════════... | 51035 |
+| 3207 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | ═════════════════════════════════════... | 51035 |
 | 3208 | [[Stoic Frugality]] | — | — | ═════════════════════════════════════... | 51036 |
 | 3209 | [[Preferred Indifferents — Complete Taxonomy]] | — | — | ═════════════════════════════════════... | 51037 |
 | 3210 | [[Hedonic-Adaptation]] | — | — | ═════════════════════════════════════... | 51039 |
@@ -16067,11 +16067,11 @@ extraction_summary:
 | 3224 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | Stoicism and Minimalism: Living a Sim... | 51086 |
 | 3225 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and Minimalism: Living a Sim... | 51087 |
 | 3226 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and Minimalism: Living a Sim... | 51090 |
-| 3227 | [[Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 51090 |
+| 3227 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 51090 |
 | 3228 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 51090 |
-| 3229 | [[Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 51090 |
+| 3229 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 51090 |
 | 3230 | [[Hedonic-Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 51098 |
-| 3231 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 51116 |
+| 3231 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 51116 |
 | 3232 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 51116 |
 | 3233 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 51120 |
 | 3234 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 51120 |
@@ -16081,25 +16081,25 @@ extraction_summary:
 | 3238 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 51131 |
 | 3239 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 51131 |
 | 3240 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 51138 |
-| 3241 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 51158 |
+| 3241 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 51158 |
 | 3242 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 51164 |
 | 3243 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 51194 |
 | 3244 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 51203 |
 | 3245 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 51206 |
 | 3246 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 51225 |
-| 3247 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 51232 |
+| 3247 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 51232 |
 | 3248 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 51238 |
-| 3249 | [[Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 51258 |
+| 3249 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 51258 |
 | 3250 | [[Virtue-Ethics|Virtue Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 51260 |
-| 3251 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 51277 |
+| 3251 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 51277 |
 | 3252 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 51290 |
 | 3253 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 51303 |
 | 3254 | [[Negative Visualization]] | — | — | Part 6: The Practice Architecture — A... | 51316 |
 | 3255 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 51344 |
 | 3256 | [[Prohairesis]] | — | — | Part 7: Common Obstacles and How the ... | 51354 |
 | 3257 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 51369 |
-| 3258 | [[Preferred Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 51369 |
-| 3259 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 51370 |
+| 3258 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 51369 |
+| 3259 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 51370 |
 | 3260 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 51371 |
 | 3261 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Part 8: Integration — Building a Cohe... | 51372 |
 | 3262 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 51373 |
@@ -16112,7 +16112,7 @@ extraction_summary:
 | 3269 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 51617 |
 | 3270 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 51618 |
 | 3271 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 51619 |
-| 3272 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 51620 |
+| 3272 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 51620 |
 | 3273 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 51623 |
 | 3274 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 51624 |
 | 3275 | [[Epictetus]] | — | — | ═════════════════════════════════════... | 51625 |
@@ -16132,7 +16132,7 @@ extraction_summary:
 | 3289 | [[Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 51639 |
 | 3290 | [[Stoicism and Minimalism - Living a Simple Fulfilling Life]] | — | — | ═════════════════════════════════════... | 51642 |
 | 3291 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | ═════════════════════════════════════... | 51643 |
-| 3292 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 51645 |
+| 3292 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 51645 |
 | 3293 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 51646 |
 | 3294 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 51647 |
 | 3295 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | ═════════════════════════════════════... | 51648 |
@@ -16173,12 +16173,12 @@ extraction_summary:
 | 3330 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Stoicism and Mindfulness: Cultivating... | 51766 |
 | 3331 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | Stoicism and Mindfulness: Cultivating... | 51769 |
 | 3332 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism and Mindfulness: Cultivating... | 51769 |
-| 3333 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 51769 |
+| 3333 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Mindfulness: Cultivating... | 51769 |
 | 3334 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 1: Introducing the Comparison — ... | 51775 |
 | 3335 | [[Siddhartha Gautama]] | — | — | Part 1: Introducing the Comparison — ... | 51779 |
 | 3336 | [[Logos]] | — | — | Part 2: Portrait of Framework A — Sto... | 51797 |
 | 3337 | [[Prohairesis]] | — | — | Part 2: Portrait of Framework A — Sto... | 51797 |
-| 3338 | [[Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 51797 |
+| 3338 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Part 2: Portrait of Framework A — Sto... | 51797 |
 | 3339 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 2: Portrait of Framework A — Sto... | 51799 |
 | 3340 | [[Epictetus]] | — | — | Part 2: Portrait of Framework A — Sto... | 51805 |
 | 3341 | [[Prosoche]] | — | — | Part 2: Portrait of Framework A — Sto... | 51809 |
@@ -16186,7 +16186,7 @@ extraction_summary:
 | 3343 | [[Mindfulness-Based Stress Reduction]] | — | — | Part 3: Portrait of Framework B — Bud... | 51830 |
 | 3344 | [[Mindfulness-Based Cognitive Therapy]] | — | — | Part 3: Portrait of Framework B — Bud... | 51847 |
 | 3345 | [[Memento Mori]] | — | — | Convergence 3: The Recognition of Imp... | 51882 |
-| 3346 | [[Preferred Indifferents]] | — | — | Convergence 3: The Recognition of Imp... | 51882 |
+| 3346 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Convergence 3: The Recognition of Imp... | 51882 |
 | 3347 | [[Apatheia]] | — | — | Convergence 4: Equanimity as the Idea... | 51893 |
 | 3348 | [[Logos]] | — | — | Divergence 1: The Nature of the Self | 51916 |
 | 3349 | [[Logos]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 51940 |
@@ -16206,7 +16206,7 @@ extraction_summary:
 | 3363 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 52315 |
 | 3364 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 52316 |
 | 3365 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 52317 |
-| 3366 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 52318 |
+| 3366 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 52318 |
 | 3367 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 52319 |
 | 3368 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 52322 |
 | 3369 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | ═════════════════════════════════════... | 52323 |
@@ -16225,7 +16225,7 @@ extraction_summary:
 | 3382 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ═════════════════════════════════════... | 52336 |
 | 3383 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 52337 |
 | 3384 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 52338 |
-| 3385 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 52339 |
+| 3385 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 52339 |
 | 3386 | [[Cognitive Restructuring]] | — | — | ═════════════════════════════════════... | 52340 |
 | 3387 | [[Cognitive Distortions]] | — | — | ═════════════════════════════════════... | 52341 |
 | 3388 | [[Psychological Flexibility]] | — | — | ═════════════════════════════════════... | 52342 |
@@ -16234,7 +16234,7 @@ extraction_summary:
 | 3391 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 52347 |
 | 3392 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 52350 |
 | 3393 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 52351 |
-| 3394 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 52352 |
+| 3394 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | ═════════════════════════════════════... | 52352 |
 | 3395 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | ═════════════════════════════════════... | 52353 |
 | 3396 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | ═════════════════════════════════════... | 52354 |
 | 3397 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 52355 |
@@ -16273,7 +16273,7 @@ extraction_summary:
 | 3430 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52470 |
 | 3431 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52474 |
 | 3432 | [[Prohairesis]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52474 |
-| 3433 | [[Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52474 |
+| 3433 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52474 |
 | 3434 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52474 |
 | 3435 | [[Eudaimonia]] | — | — | Stoicism and CBT: Similarities, Diffe... | 52474 |
 | 3436 | [[Albert Ellis]] | — | — | Part 1: Introducing the Comparison — ... | 52480 |
@@ -17536,7 +17536,7 @@ Goal: Eventually thinking like Stoic without journal, though journal remains val
 
 #### The Compounding Returns Model
 
-Like [[Compound Interest]], Stoic journaling generates returns that accelerate over time:
+Like [[Compound-Interest|Compound Interest]], Stoic journaling generates returns that accelerate over time:
 ```
 
 ### Code Block 43 — `plaintext` *(Lines 35042-35249)*
@@ -18398,7 +18398,7 @@ THE BELKNAP PRESS OF
 > Each is a candidate for backlink creation in your PKB.
 
 - [[${focusVirtue}]]
-- [[-our-perceptions-shape-our-suffering-202512010031]]
+- [[our-perceptions-shape-our-suffering-202512010031|-our-perceptions-shape-our-suffering-202512010031]]
 - [[2025]]
 - [[2025-11]]
 - [[2025-11-28]]
@@ -18414,9 +18414,9 @@ THE BELKNAP PRESS OF
 - [[ABC Model REBT]]
 - [[Aaron Beck]]
 - [[Abraham-Maslow|Abraham Maslow]]
-- [[Academic Buoyancy]]
+- [[Academic-Buoyancy|Academic Buoyancy]]
 - [[Academic Research]]
-- [[Academic Skepticism]]
+- [[Academic-Skepticism|Academic Skepticism]]
 - [[Academic Skeptics]]
 - [[Academy]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
@@ -18436,7 +18436,7 @@ THE BELKNAP PRESS OF
 - [[Alias 1]]
 - [[Alias 2]]
 - [[Amathia]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Amor Fati — Nietzsche, Stoicism, and the Love of Fate]]
 - [[Amor Fati — The Stoic and Nietzschean Traditions]]
 - [[Amygdala]]
@@ -18464,7 +18464,7 @@ THE BELKNAP PRESS OF
 - [[Argument-Analysis|Argument Analysis]]
 - [[Argument-Mapping]]
 - [[Aristotelian Virtue Ethics]]
-- [[Aristotelian thought]]
+- [[Aristotelian-thought|Aristotelian thought]]
 - [[Aristotle]]
 - [[Arrian]]
 - [[Art of Living]]
@@ -18474,7 +18474,7 @@ THE BELKNAP PRESS OF
 - [[Attachment-Theory|Attachment Theory]]
 - [[Attachment-Theory|Attachment Theory (Bowlby)]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attributional Ambiguity]]
+- [[Attributional-Ambiguity|Attributional Ambiguity]]
 - [[Autarkeia]]
 - [[Autexousion]]
 - [[Authentic Leadership]]
@@ -18488,7 +18488,7 @@ THE BELKNAP PRESS OF
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Basic Argument Analysis]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Behavioral Change]]
 - [[Behavioral-Modification|Behavioral Modification]]
 - [[Beneficence]]
@@ -18523,7 +18523,7 @@ THE BELKNAP PRESS OF
 - [[Chrēstotēs]]
 - [[Cicero]]
 - [[Circadian Optimization]]
-- [[Classroom Motivation]]
+- [[Classroom-Motivation|Classroom Motivation]]
 - [[Cleanthes]]
 - [[Cleanthes of Assos]]
 - [[Cognition]]
@@ -18551,12 +18551,12 @@ THE BELKNAP PRESS OF
 - [[Cognitive-Distortion|Cognitive Distortion]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
-- [[Cognitive Forcing Functions]]
+- [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]]
 - [[Cognitive Habit]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Model of Emotion]]
-- [[Cognitive Narrowing]]
+- [[Cognitive-Narrowing|Cognitive Narrowing]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive Primacy]]
@@ -18575,8 +18575,8 @@ THE BELKNAP PRESS OF
 - [[Comparative Philosophy]]
 - [[Comparing Stoicism, Buddhism, and Modern Psychology]]
 - [[Competence]]
-- [[Competency-Based Learning]]
-- [[Compound Interest]]
+- [[Competency-Based-Learning|Competency-Based Learning]]
+- [[Compound-Interest|Compound Interest]]
 - [[Concept A]]
 - [[Concept Y]]
 - [[Concept Z]]
@@ -18601,7 +18601,7 @@ THE BELKNAP PRESS OF
 - [[Cynic lifestyle]]
 - [[Cynic philosopher]]
 - [[Cynic philosophy]]
-- [[Cynic school]]
+- [[Cynic-school|Cynic school]]
 - [[Cynicism]]
 - [[Cynicism (Philosophy)]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
@@ -18634,7 +18634,7 @@ THE BELKNAP PRESS OF
 - [[Diogenes of Sinope]]
 - [[Diogenes the Cynic]]
 - [[Discipline of Action]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire|Discipline of Desire]]
 - [[Discipline-of-Assent]]
 - [[Discourses]]
 - [[Domain-Specific Critical Thinking]]
@@ -18651,7 +18651,7 @@ THE BELKNAP PRESS OF
 - [[Educational-Psychology|Educational Psychology]]
 - [[Educational Psychology Knowledge Base]]
 - [[Edward-Deci|Edward Deci]]
-- [[Effectance Motivation]]
+- [[Effectance-Motivation|Effectance Motivation]]
 - [[Effort Praise]]
 - [[Ekloge]]
 - [[Ekpyrosis]]
@@ -18660,7 +18660,7 @@ THE BELKNAP PRESS OF
 - [[Emotion Regulation Science]]
 - [[Emotional Control]]
 - [[Emotional-Dysregulation|Emotional Dysregulation]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Resilience]]
 - [[Emotional Responses]]
@@ -18708,19 +18708,19 @@ THE BELKNAP PRESS OF
 - [[Euthumia]]
 - [[Evening Review]]
 - [[Evening Review Practice]]
-- [[Evidence-Based Education]]
+- [[Evidence-Based-Education|Evidence-Based Education]]
 - [[Evidence-Based Practice]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Executive-Function|Executive Function]]
 - [[Existential Therapy]]
 - [[Existentialism]]
-- [[Expertise Acquisition]]
-- [[Expertise Development]]
+- [[Expertise-Acquisition|Expertise Acquisition]]
+- [[Expertise-Development|Expertise Development]]
 - [[Exposure Therapy]]
-- [[External Achievement]]
+- [[External-Achievement|External Achievement]]
 - [[External Events]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
-- [[Fear Extinction]]
+- [[Fear-Extinction|Fear Extinction]]
 - [[First Movements]]
 - [[First Movements / Propatheiai]]
 - [[First-Principles-Report-Generator-v1.0|First Principles Report Generator v1.0]]
@@ -18733,7 +18733,7 @@ THE BELKNAP PRESS OF
 - [[Foundational-Logic|Foundational Logic]]
 - [[Foundational-Report|Foundational Report]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
-- [[Four Cardinal Virtues]]
+- [[Four-Cardinal-Virtues|Four Cardinal Virtues]]
 - [[Fractal Consistency]]
 - [[Frankfurt's-Hierarchy-of-Desires|Frankfurt's Hierarchy of Desires]]
 - [[Functional Connectivity]]
@@ -18760,11 +18760,11 @@ THE BELKNAP PRESS OF
 - [[Hedonic-Adaptation]]
 - [[Hegemonikon]]
 - [[Heimarmenê]]
-- [[Hellenistic Period]]
+- [[Hellenistic-period|Hellenistic Period]]
 - [[Hellenistic Philosophy]]
 - [[Hellenistic Philosophy and Indian Philosophy]]
 - [[Hellenistic and Indian Philosophy - Ancient Encounters]]
-- [[Hellenistic period]]
+- [[Hellenistic-period|Hellenistic period]]
 - [[Heuristic-Based Decision Making]]
 - [[Hexis]]
 - [[Hierocles]]
@@ -18782,7 +18782,7 @@ THE BELKNAP PRESS OF
 - [[Hymn to Zeus]]
 - [[Hypomnemata]]
 - [[Hêdonê]]
-- [[Identity-Based Motivation]]
+- [[Identity-Based-Motivation|Identity-Based Motivation]]
 - [[Impermanence]]
 - [[Impermanence Contemplation]]
 - [[Impermanence Meditation]]
@@ -18861,7 +18861,7 @@ THE BELKNAP PRESS OF
 - [[Logos Spermatikos]]
 - [[Long-Term Potentiation]]
 - [[Lower-Level Concept]]
-- [[Lucius Annaeus Seneca]]
+- [[Lucius-Annaeus-Seneca|Lucius Annaeus Seneca]]
 - [[Lupê]]
 - [[Lyceum]]
 - [[MBSR - Clinical Research Summary]]
@@ -18902,7 +18902,7 @@ THE BELKNAP PRESS OF
 - [[Metacognition Fundamentals]]
 - [[Metacognition and Self-Regulated Learning - Research and Application]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Metacognitive Instruction Design]]
 - [[Metacognitive Intervention Design]]
 - [[Metacognitive Journaling]]
@@ -18960,7 +18960,7 @@ THE BELKNAP PRESS OF
 - [[Oikeiosis]]
 - [[Oikeiosis — Natural Affiliation and the Expansion of Care]]
 - [[Oikeiosis — The Stoic Theory of Natural Affiliation]]
-- [[Open Science Framework]]
+- [[Open-Science-Framework|Open Science Framework]]
 - [[Operationalism in Psychology]]
 - [[Organismic-Integration|Organismic Integration]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -19006,7 +19006,7 @@ THE BELKNAP PRESS OF
 - [[Pierre Hadot and the Recovery of Spiritual Exercises]]
 - [[Plain Text]]
 - [[Plato]]
-- [[Platonic philosophy]]
+- [[Platonic-philosophy|Platonic philosophy]]
 - [[Platonism]]
 - [[Plutarch]]
 - [[Pneuma]]
@@ -19022,14 +19022,14 @@ THE BELKNAP PRESS OF
 - [[Practical Reasoning in Real-World Contexts]]
 - [[Praemeditatio]]
 - [[Praxis]]
-- [[Pre-Mortem Analysis]]
-- [[Preferred Indifferent]]
-- [[Preferred Indifferents]]
+- [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
+- [[Preferred-Indifferent|Preferred Indifferent]]
+- [[Preferred-Indifferents|Preferred Indifferents]]
 - [[Preferred Indifferents - Stoic Value Theory]]
 - [[Preferred Indifferents — A Complete Taxonomy]]
 - [[Preferred Indifferents — Complete Taxonomy]]
 - [[Preferred Indifferents — Stoic Value Theory]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Premeditatio-Malorum]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
@@ -19073,11 +19073,11 @@ THE BELKNAP PRESS OF
 - [[QuickAdd]]
 - [[Quintus Junius Rusticus]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Rational Nature]]
+- [[Rational-Nature|Rational Nature]]
 - [[Rationality Studies]]
 - [[Reasoning-Biases-and-Heuristics|Reasoning Biases and Heuristics]]
-- [[Red Team Thinking]]
-- [[Reflective Judgment Model]]
+- [[Red-Team-Thinking|Red Team Thinking]]
+- [[Reflective-Judgment-Model|Reflective Judgment Model]]
 - [[Reflective Writing]]
 - [[Related Concept 1]]
 - [[Related Concept 2]]
@@ -19089,14 +19089,14 @@ THE BELKNAP PRESS OF
 - [[Report 04 — Stoicism and Modern Psychology]]
 - [[Report 05 — Stoicism in Leadership and Decision-Making]]
 - [[Report 10 — Stoicism and CBT]]
-- [[Reserve Clause]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Reserve Clause in Practice]]
 - [[Reserve Clause in Stoic Practice]]
 - [[Resilience]]
 - [[Resilience Science — From Hardiness to Post-Traumatic Growth]]
 - [[Resilience Science — Trajectories, Factors, and Mechanisms]]
 - [[Rhetoric]]
-- [[Richard Lazarus]]
+- [[Richard-Lazarus|Richard Lazarus]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Ruling Faculty]]
 - [[Rumination]]
@@ -19203,7 +19203,7 @@ THE BELKNAP PRESS OF
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Stoicism in Leadership and Decision-Making]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Structural Encoding Techniques]]
@@ -19224,7 +19224,7 @@ THE BELKNAP PRESS OF
 - [[Templates]]
 - [[Temporal Distance]]
 - [[The Four Cardinal Virtues]]
-- [[The Historical and Intellectual Origins of Stoicism]]
+- [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 - [[The Neuroscience of Habit Formation and Extinction]]
 - [[The Obstacle Is the Way]]
 - [[The Obstacle Is the Way (Principle)]]
@@ -19281,7 +19281,7 @@ THE BELKNAP PRESS OF
 - [[Voluntary Simplicity Movement]]
 - [[wiki-links]]
 - [[Wisdom]]
-- [[Wise Interventions]]
+- [[Wise-Interventions|Wise Interventions]]
 - [[Wise-Interventions-Walton-&-Wilson|Wise Interventions (Walton & Wilson)]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory and Executive Function]]

@@ -308,15 +308,15 @@ extraction_summary:
 - [[John-Flavell|John Flavell]]
 - [[Metacognition]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
-- [[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]]
-- [[Peirce's Doubt-Inquiry-Belief Cycle]]
+- [[Metacognitive-Self-Regulation's-Monitor-Detect-Regulate-Cycle|Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]]
+- [[Peirce's-Doubt-Inquiry-Belief-Cycle|Peirce's Doubt-Inquiry-Belief Cycle]]
 - [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]]
-- [[Piaget's Perturbation-Accommodation-Equilibration Cycle]]
+- [[Piaget's-Perturbation-Accommodation-Equilibration-Cycle|Piaget's Perturbation-Accommodation-Equilibration Cycle]]
 - [[Popper's Falsificationism]]
 - [[Pragmatic-Maxim|Pragmatic Maxim]]
 - [[Schema-Theory|Schema Theory]]
 - [[Social-Constructivism|Social Constructivism]]
-- [[The Fallibilist-Constructivist Epistemological Posture]]
+- [[The-Fallibilist-Constructivist-Epistemological-Posture|The Fallibilist-Constructivist Epistemological Posture]]
 - [[Viability]]
 - [[William-James|William James]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -330,7 +330,7 @@ extraction_summary:
 - [[Genetic-Epistemology|genetic epistemology]]
 - [[Intellectual-Humility|intellectual humility]]
 - [[Metacognitive-Self-Regulation|metacognitive self-regulation]]
-- [[radical constructivism]]
+- [[radical-constructivism|radical constructivism]]
 - [[Schema]]
 - [[warranted-assertibility|warranted assertibility]]
 
@@ -364,7 +364,7 @@ extraction_summary:
 | 24 | [[Accommodation]] | — | — | Constructivism: Knowledge as Built, N... | 245 |
 | 25 | [[Equilibration]] | — | — | Constructivism: Knowledge as Built, N... | 246 |
 | 26 | [[Ernst-von-Glasersfeld|Ernst von Glasersfeld]] | — | — | Constructivism: Knowledge as Built, N... | 247 |
-| 27 | [[radical constructivism]] | — | — | Constructivism: Knowledge as Built, N... | 247 |
+| 27 | [[radical-constructivism|radical constructivism]] | — | — | Constructivism: Knowledge as Built, N... | 247 |
 | 28 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | Constructivism: Knowledge as Built, N... | 248 |
 | 29 | [[David-Rumelhart|David Rumelhart]] | — | — | Constructivism: Knowledge as Built, N... | 249 |
 | 30 | [[Metacognition]] | — | — | Metacognitive Self-Regulation: The Ps... | 252 |
@@ -372,12 +372,12 @@ extraction_summary:
 | 32 | [[Gregory-Schraw|Gregory Schraw]] | — | — | Metacognitive Self-Regulation: The Ps... | 252 |
 | 33 | [[Metacognitive-Self-Regulation|metacognitive self-regulation]] | — | — | Metacognitive Self-Regulation: The Ps... | 252 |
 | 34 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | Metacognitive Self-Regulation: The Ps... | 256 |
-| 35 | [[Peirce's Doubt-Inquiry-Belief Cycle]] | — | — | The Master Structural Homology: Belie... | 276 |
-| 36 | [[Piaget's Perturbation-Accommodation-Equilibration Cycle]] | — | — | The Master Structural Homology: Belie... | 276 |
-| 37 | [[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]] | — | — | The Master Structural Homology: Belie... | 276 |
+| 35 | [[Peirce's-Doubt-Inquiry-Belief-Cycle|Peirce's Doubt-Inquiry-Belief Cycle]] | — | — | The Master Structural Homology: Belie... | 276 |
+| 36 | [[Piaget's-Perturbation-Accommodation-Equilibration-Cycle|Piaget's Perturbation-Accommodation-Equilibration Cycle]] | — | — | The Master Structural Homology: Belie... | 276 |
+| 37 | [[Metacognitive-Self-Regulation's-Monitor-Detect-Regulate-Cycle|Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]] | — | — | The Master Structural Homology: Belie... | 276 |
 | 38 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Master Structural Homology: Belie... | 278 |
 | 39 | [[Metacognitive-Self-Regulation|metacognitive self-regulation]] | — | — | The Master Structural Homology: Belie... | 290 |
-| 40 | [[The Fallibilist-Constructivist Epistemological Posture]] | — | — | The Emergent Insight: Epistemological... | 298 |
+| 40 | [[The-Fallibilist-Constructivist-Epistemological-Posture|The Fallibilist-Constructivist Epistemological Posture]] | — | — | The Emergent Insight: Epistemological... | 298 |
 | 41 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | The Emergent Insight: Epistemological... | 298 |
 | 42 | [[Intellectual-Humility|intellectual humility]] | — | — | The Emergent Insight: Epistemological... | 300 |
 | 43 | [[Developmental-Staging-Model|Developmental Staging Model]] | — | — | Phase IV: The Application — Worked Ex... | 325 |
@@ -443,15 +443,15 @@ extraction_summary:
 - [[John-Flavell|John Flavell]]
 - [[Metacognition]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
-- [[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]]
-- [[Peirce's Doubt-Inquiry-Belief Cycle]]
+- [[Metacognitive-Self-Regulation's-Monitor-Detect-Regulate-Cycle|Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]]
+- [[Peirce's-Doubt-Inquiry-Belief-Cycle|Peirce's Doubt-Inquiry-Belief Cycle]]
 - [[Peirce's-Pragmatic-Maxim|Peirce's Pragmatic Maxim]]
-- [[Piaget's Perturbation-Accommodation-Equilibration Cycle]]
+- [[Piaget's-Perturbation-Accommodation-Equilibration-Cycle|Piaget's Perturbation-Accommodation-Equilibration Cycle]]
 - [[Popper's Falsificationism]]
 - [[Pragmatic-Maxim|Pragmatic Maxim]]
 - [[Schema-Theory|Schema Theory]]
 - [[Social-Constructivism|Social Constructivism]]
-- [[The Fallibilist-Constructivist Epistemological Posture]]
+- [[The-Fallibilist-Constructivist-Epistemological-Posture|The Fallibilist-Constructivist Epistemological Posture]]
 - [[Viability]]
 - [[William-James|William James]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
@@ -465,7 +465,7 @@ extraction_summary:
 - [[Genetic-Epistemology|genetic epistemology]]
 - [[Intellectual-Humility|intellectual humility]]
 - [[Metacognitive-Self-Regulation|metacognitive self-regulation]]
-- [[radical constructivism]]
+- [[radical-constructivism|radical constructivism]]
 - [[Schema]]
 - [[warranted-assertibility|warranted assertibility]]
 
@@ -479,7 +479,7 @@ extraction_summary:
 
 #### Related
 
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Constructivism|Constructivism (Educational Psychology)]]
 - [[Schema-Theory|Schema Theory]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]

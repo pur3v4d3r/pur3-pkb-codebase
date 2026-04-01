@@ -203,7 +203,7 @@ extraction_summary:
 #### 13. [COUNTER-ARGUMENT] The Cognitive Bloat Problem *(Line 369)*
 
 > [!counter-argument] The Cognitive Bloat Problem
-> A related objection, raised by [[Robert Rupert]] among others: if we accept the Parity Principle without restriction, we seem committed to the view that vast swathes of the environment — every book in a library, every website, every storage system a person could potentially use — constitute parts of extended cognitive systems. This bloat seems to make the concept of a cognitive system so expansive as to lose theoretical purchase. Defenders respond that genuine cognitive extension requires a sufficiently intimate and reliable coupling — not mere potential accessibility — but spelling out that criterion with precision is an ongoing challenge.
+> A related objection, raised by [[Robert-Rupert|Robert Rupert]] among others: if we accept the Parity Principle without restriction, we seem committed to the view that vast swathes of the environment — every book in a library, every website, every storage system a person could potentially use — constitute parts of extended cognitive systems. This bloat seems to make the concept of a cognitive system so expansive as to lose theoretical purchase. Defenders respond that genuine cognitive extension requires a sufficiently intimate and reliable coupling — not mere potential accessibility — but spelling out that criterion with precision is an ongoing challenge.
 
 #### 14. [ASK-YOURSELF-THIS] Evaluating the Coupling-Constitution Objection *(Line 372)*
 
@@ -436,7 +436,7 @@ extraction_summary:
 - [[4E-Cognition|4E Cognition]]
 - [[Affordances and Ecological Psychology]]
 - [[Andy-Clark|Andy Clark]]
-- [[Assistive Technology]]
+- [[Assistive-Technology|Assistive Technology]]
 - [[Classical-Cognitivism|Classical Cognitivism]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
@@ -455,17 +455,17 @@ extraction_summary:
 - [[Frederick-Adams|Frederick Adams]]
 - [[Hilary-Putnam|Hilary Putnam]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
-- [[Kenneth Aizawa]]
+- [[Kenneth-Aizawa|Kenneth Aizawa]]
 - [[Lawrence-Barsalou|Lawrence Barsalou]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
-- [[Maravita and Iriki]]
+- [[Maravita-and-Iriki|Maravita and Iriki]]
 - [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal Knowledge Management — Cognitive Foundations]]
-- [[Risko and Gilbert]]
-- [[Robert Rupert]]
+- [[Risko-and-Gilbert|Risko and Gilbert]]
+- [[Robert-Rupert|Robert Rupert]]
 - [[Schema-Theory|Schema Theory]]
 - [[Technology as Cognitive Prosthesis]]
 - [[Tyler-Burge|Tyler Burge]]
@@ -497,10 +497,10 @@ extraction_summary:
 | 20 | [[Edwin-Hutchins|Edwin Hutchins]] | — | — | Distributed Cognition: Hutchins's Emp... | 351 |
 | 21 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Distributed Cognition: Hutchins's Emp... | 351 |
 | 22 | [[Frederick-Adams|Frederick Adams]] | — | — | The Critics: Adams, Aizawa, and the C... | 360 |
-| 23 | [[Kenneth Aizawa]] | — | — | The Critics: Adams, Aizawa, and the C... | 360 |
-| 24 | [[Robert Rupert]] | — | — | The Critics: Adams, Aizawa, and the C... | 370 |
-| 25 | [[Risko and Gilbert]] | — | — | Cognitive Offloading and the Phenomen... | 397 |
-| 26 | [[Maravita and Iriki]] | — | — | Cognitive Offloading and the Phenomen... | 404 |
+| 23 | [[Kenneth-Aizawa|Kenneth Aizawa]] | — | — | The Critics: Adams, Aizawa, and the C... | 360 |
+| 24 | [[Robert-Rupert|Robert Rupert]] | — | — | The Critics: Adams, Aizawa, and the C... | 370 |
+| 25 | [[Risko-and-Gilbert|Risko and Gilbert]] | — | — | Cognitive Offloading and the Phenomen... | 397 |
+| 26 | [[Maravita-and-Iriki|Maravita and Iriki]] | — | — | Cognitive Offloading and the Phenomen... | 404 |
 | 27 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
 | 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
 | 29 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Scaffolding, Zone of Proximal Develop... | 411 |
@@ -508,7 +508,7 @@ extraction_summary:
 | 31 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Implications for Learning Environment... | 427 |
 | 32 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Implications for Personal Knowledge M... | 439 |
 | 33 | [[Andy-Clark|Andy Clark]] | — | — | Implications for Personal Knowledge M... | 439 |
-| 34 | [[Assistive Technology]] | — | — | Applications in Assistive Technology ... | 445 |
+| 34 | [[Assistive-Technology|Assistive Technology]] | — | — | Applications in Assistive Technology ... | 445 |
 | 35 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Pulling the Threads Together | 488 |
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Pulling the Threads Together | 490 |
 | 37 | [[Schema-Theory|Schema Theory]] | — | — | Pulling the Threads Together | 492 |
@@ -534,7 +534,7 @@ extraction_summary:
 - [[4E-Cognition|4E Cognition]]
 - [[Affordances and Ecological Psychology]]
 - [[Andy-Clark|Andy Clark]]
-- [[Assistive Technology]]
+- [[Assistive-Technology|Assistive Technology]]
 - [[Classical-Cognitivism|Classical Cognitivism]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding]]
@@ -553,17 +553,17 @@ extraction_summary:
 - [[Frederick-Adams|Frederick Adams]]
 - [[Hilary-Putnam|Hilary Putnam]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
-- [[Kenneth Aizawa]]
+- [[Kenneth-Aizawa|Kenneth Aizawa]]
 - [[Lawrence-Barsalou|Lawrence Barsalou]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
-- [[Maravita and Iriki]]
+- [[Maravita-and-Iriki|Maravita and Iriki]]
 - [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal Knowledge Management — Cognitive Foundations]]
-- [[Risko and Gilbert]]
-- [[Robert Rupert]]
+- [[Risko-and-Gilbert|Risko and Gilbert]]
+- [[Robert-Rupert|Robert Rupert]]
 - [[Schema-Theory|Schema Theory]]
 - [[Technology as Cognitive Prosthesis]]
 - [[Tyler-Burge|Tyler Burge]]
@@ -607,7 +607,7 @@ extraction_summary:
 - [[Situated-Cognition|Situated Cognition]]
 - [[Personal Knowledge Base Theory]]
 - [[Externalism in Philosophy of Language]]
-- [[Epistemic Injustice]]
+- [[Epistemic-Injustice|Epistemic Injustice]]
 
 #### Contrasts With
 

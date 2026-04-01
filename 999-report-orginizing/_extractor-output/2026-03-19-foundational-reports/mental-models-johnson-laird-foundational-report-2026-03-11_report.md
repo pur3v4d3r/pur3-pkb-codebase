@@ -244,7 +244,7 @@ extraction_summary:
 #### 18. [EXAMPLE] Spatial Models in Everyday Reasoning *(Line 425)*
 
 > [!example] Spatial Models in Everyday Reasoning
-> Navigation provides a striking everyday illustration. When following verbal directions, people construct a spatial mental model — a cognitive map — that can be inspected from different viewpoints. Research by [[Roger Shepard]] and [[Lynn Cooper]] on mental rotation demonstrated that people manipulate spatial representations in ways that mirror physical rotation: reaction time to verify whether two figures are the same increases linearly with the angular distance between them, as though the person is actually rotating an internal representation. This metric is consistent with a model-based account and inconsistent with purely propositional processing.
+> Navigation provides a striking everyday illustration. When following verbal directions, people construct a spatial mental model — a cognitive map — that can be inspected from different viewpoints. Research by [[Roger-Shepard|Roger Shepard]] and [[Lynn-Cooper|Lynn Cooper]] on mental rotation demonstrated that people manipulate spatial representations in ways that mirror physical rotation: reaction time to verify whether two figures are the same increases linearly with the angular distance between them, as though the person is actually rotating an internal representation. This metric is consistent with a model-based account and inconsistent with purely propositional processing.
 
 #### 19. [KEY-CLAIM] The Mental Models of Counterfactuals (Byrne, 2005) *(Line 432)*
 
@@ -435,12 +435,12 @@ extraction_summary:
 #### 52. [TOPIC-IDEA] [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] *(Line 608)*
 
 > [!topic-idea] [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
-> A dedicated foundational report on this topic would provide comprehensive treatment of [[Walter Kintsch]]'s Construction-Integration model, [[Rolf Zwaan]]'s Event Indexing Model, and the multidimensional nature of situation model updating during reading. It would cover empirical methods (reading-time paradigms, recognition probes, inference verification) and connect to educational applications in reading comprehension instruction, particularly the distinction between strategies targeting text-base representation (summarising, rereading) and strategies targeting situation model quality (elaborative questioning, prediction tasks). Priority: **High** — foundational for understanding literate cognition.
+> A dedicated foundational report on this topic would provide comprehensive treatment of [[Walter-Kintsch|Walter Kintsch]]'s Construction-Integration model, [[Rolf-Zwaan|Rolf Zwaan]]'s Event Indexing Model, and the multidimensional nature of situation model updating during reading. It would cover empirical methods (reading-time paradigms, recognition probes, inference verification) and connect to educational applications in reading comprehension instruction, particularly the distinction between strategies targeting text-base representation (summarising, rereading) and strategies targeting situation model quality (elaborative questioning, prediction tasks). Priority: **High** — foundational for understanding literate cognition.
 
 #### 53. [TOPIC-IDEA] [[Conceptual-Change-Theory|Conceptual Change Theory]] *(Line 611)*
 
 > [!topic-idea] [[Conceptual-Change-Theory|Conceptual Change Theory]]
-> A foundational report on [[Stella Vosniadou]]'s framework-theory approach and its successors (including Chi's "knowledge-in-pieces" alternative). The report would cover mechanisms of conceptual change (accretion, restructuring, revision), empirical documentation of misconceptions across science domains, instructional interventions that succeed and fail, and the relationship between conceptual change and motivation (why students resist model revision even when presented with disconfirming evidence). Priority: **High** — essential for science educators and instructional designers.
+> A foundational report on [[Stella-Vosniadou|Stella Vosniadou]]'s framework-theory approach and its successors (including Chi's "knowledge-in-pieces" alternative). The report would cover mechanisms of conceptual change (accretion, restructuring, revision), empirical documentation of misconceptions across science domains, instructional interventions that succeed and fail, and the relationship between conceptual change and motivation (why students resist model revision even when presented with disconfirming evidence). Priority: **High** — essential for science educators and instructional designers.
 
 #### 54. [TOPIC-IDEA] [[Multimedia-Learning|Multimedia Learning]] *(Line 614)*
 
@@ -450,7 +450,7 @@ extraction_summary:
 #### 55. [TOPIC-IDEA] [[Counterfactual-Reasoning|Counterfactual Reasoning]] *(Line 617)*
 
 > [!topic-idea] [[Counterfactual-Reasoning|Counterfactual Reasoning]]
-> A foundational treatment of [[Ruth Byrne]]'s suppositional theory of counterfactuals, including the dual-model account (actual vs. imagined), the mutability principle (some facts are more easily mentally "undone" than others), and applications to regret, blame attribution, causal judgment, and legal reasoning. The report would engage with alternative accounts (simulation theory, possible worlds semantics) and discuss educational implications for teaching causal and hypothetical reasoning. Priority: **Medium**.
+> A foundational treatment of [[Ruth-Byrne|Ruth Byrne]]'s suppositional theory of counterfactuals, including the dual-model account (actual vs. imagined), the mutability principle (some facts are more easily mentally "undone" than others), and applications to regret, blame attribution, causal judgment, and legal reasoning. The report would engage with alternative accounts (simulation theory, possible worlds semantics) and discuss educational implications for teaching causal and hypothetical reasoning. Priority: **Medium**.
 
 #### 56. [TOPIC-IDEA] [[Spatial Mental Models]] *(Line 620)*
 
@@ -500,9 +500,9 @@ extraction_summary:
 - [[Kenneth-Craik|Kenneth Craik]]
 - [[Lance-Rips|Lance Rips]]
 - [[Lawrence-Barsalou|Lawrence Barsalou]]
-- [[Lynn Cooper]]
+- [[Lynn-Cooper|Lynn Cooper]]
 - [[Martin-Braine|Martin Braine]]
-- [[Mary Hegarty]]
+- [[Mary-Hegarty|Mary Hegarty]]
 - [[Mental-Logic-Theory|Mental Logic Theory]]
 - [[Mental-Models|Mental Models]]
 - [[Mental-Models-Theory|Mental Models Theory]]
@@ -511,7 +511,7 @@ extraction_summary:
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Multimedia-Learning|Multimedia Learning]]
-- [[Nancy Nersessian]]
+- [[Nancy-Nersessian|Nancy Nersessian]]
 - [[PKB]]
 - [[Perceptual Symbol Systems]]
 - [[Philip-Johnson-Laird|Philip Johnson-Laird]]
@@ -519,18 +519,18 @@ extraction_summary:
 - [[Reasoning-Types-in-Education|Reasoning Types in Education]]
 - [[Richard-Mayer|Richard Mayer]]
 - [[Richard-West|Richard West]]
-- [[Roger Shepard]]
-- [[Rolf Zwaan]]
-- [[Ruth Byrne]]
+- [[Roger-Shepard|Roger Shepard]]
+- [[Rolf-Zwaan|Rolf Zwaan]]
+- [[Ruth-Byrne|Ruth Byrne]]
 - [[Schema-Theory|Schema Theory]]
-- [[Situation Models]]
+- [[Situation-Models|Situation Models]]
 - [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
-- [[Spatial Cognition]]
+- [[Spatial-Cognition|Spatial Cognition]]
 - [[Spatial Mental Models]]
-- [[Stella Vosniadou]]
-- [[Walter Kintsch]]
+- [[Stella-Vosniadou|Stella Vosniadou]]
+- [[Walter-Kintsch|Walter Kintsch]]
 - [[Working-Memory|Working Memory]]
-- [[history and philosophy of science]]
+- [[history-and-philosophy-of-science|history and philosophy of science]]
 - [[Long-Term-Memory|long-term memory]]
 - [[possible-worlds-semantics|possible worlds semantics]]
 
@@ -566,29 +566,29 @@ extraction_summary:
 | 26 | [[Richard-West|Richard West]] | — | — | Dual-Process Connections and Complica... | 353 |
 | 27 | [[Jonathan-Evans|Jonathan Evans]] | — | — | Dual-Process Connections and Complica... | 353 |
 | 28 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual-Process Connections and Complica... | 356 |
-| 29 | [[Walter Kintsch]] | — | — | Situation Models and the Discourse Ex... | 360 |
-| 30 | [[Situation Models]] | situation model | — | Situation Models and the Discourse Ex... | 360 |
-| 31 | [[Rolf Zwaan]] | — | — | Situation Models and the Discourse Ex... | 365 |
+| 29 | [[Walter-Kintsch|Walter Kintsch]] | — | — | Situation Models and the Discourse Ex... | 360 |
+| 30 | [[Situation-Models|Situation Models]] | situation model | — | Situation Models and the Discourse Ex... | 360 |
+| 31 | [[Rolf-Zwaan|Rolf Zwaan]] | — | — | Situation Models and the Discourse Ex... | 365 |
 | 32 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Mental Models in Science Education | 372 |
-| 33 | [[Stella Vosniadou]] | — | — | Mental Models in Science Education | 372 |
+| 33 | [[Stella-Vosniadou|Stella Vosniadou]] | — | — | Mental Models in Science Education | 372 |
 | 34 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Mental Models in Science Education | 375 |
-| 35 | [[Nancy Nersessian]] | — | — | Mental Models in Science Education | 377 |
-| 36 | [[history and philosophy of science]] | — | — | Mental Models in Science Education | 377 |
+| 35 | [[Nancy-Nersessian|Nancy Nersessian]] | — | — | Mental Models in Science Education | 377 |
+| 36 | [[history-and-philosophy-of-science|history and philosophy of science]] | — | — | Mental Models in Science Education | 377 |
 | 37 | [[Long-Term-Memory|long-term memory]] | — | — | Fleshing Out and the Role of Backgrou... | 414 |
 | 38 | [[Schema-Theory|Schema Theory]] | schema activation | — | Fleshing Out and the Role of Backgrou... | 417 |
-| 39 | [[Spatial Cognition]] | spatial reasoning | — | Spatial Mental Models | 421 |
-| 40 | [[Mary Hegarty]] | — | — | Spatial Mental Models | 423 |
+| 39 | [[Spatial-Cognition|Spatial Cognition]] | spatial reasoning | — | Spatial Mental Models | 421 |
+| 40 | [[Mary-Hegarty|Mary Hegarty]] | — | — | Spatial Mental Models | 423 |
 | 41 | [[Mental-Simulation|Mental Simulation]] | mental simulation | — | Spatial Mental Models | 423 |
-| 42 | [[Roger Shepard]] | — | — | Spatial Mental Models | 426 |
-| 43 | [[Lynn Cooper]] | — | — | Spatial Mental Models | 426 |
-| 44 | [[Ruth Byrne]] | — | — | Counterfactual Reasoning | 430 |
+| 42 | [[Roger-Shepard|Roger Shepard]] | — | — | Spatial Mental Models | 426 |
+| 43 | [[Lynn-Cooper|Lynn Cooper]] | — | — | Spatial Mental Models | 426 |
+| 44 | [[Ruth-Byrne|Ruth Byrne]] | — | — | Counterfactual Reasoning | 430 |
 | 45 | [[Counterfactual-Reasoning|Counterfactual Reasoning]] | counterfactual reasoning | — | Counterfactual Reasoning | 430 |
 | 46 | [[Mental-Models|Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 446 |
 | 47 | [[Propositional-Representation|Propositional Representation]] | propositional knowledge | — | Instruction and the Goal of Model Bui... | 448 |
 | 48 | [[Richard-Mayer|Richard Mayer]] | — | — | Instruction and the Goal of Model Bui... | 453 |
 | 49 | [[Multimedia-Learning|Multimedia Learning]] | Multimedia Learning Theory | — | Instruction and the Goal of Model Bui... | 453 |
 | 50 | [[Mental-Models|Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 453 |
-| 51 | [[Stella Vosniadou]] | — | — | Science Education and the Problem of ... | 457 |
+| 51 | [[Stella-Vosniadou|Stella Vosniadou]] | — | — | Science Education and the Problem of ... | 457 |
 | 52 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | conceptual change | — | Science Education and the Problem of ... | 460 |
 | 53 | [[Working-Memory|Working Memory]] | — | — | Limitations and Boundary Conditions | 468 |
 | 54 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Limitations and Boundary Conditions | 468 |
@@ -619,14 +619,14 @@ extraction_summary:
 | 79 | [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] | — | — | B. Annotated References | 581 |
 | 80 | [[Multimedia-Learning|Multimedia Learning]] | Multimedia Learning Theory | — | B. Annotated References | 590 |
 | 81 | [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] | — | — | D. Expansion Topics | 608 |
-| 82 | [[Walter Kintsch]] | — | — | D. Expansion Topics | 609 |
-| 83 | [[Rolf Zwaan]] | — | — | D. Expansion Topics | 609 |
+| 82 | [[Walter-Kintsch|Walter Kintsch]] | — | — | D. Expansion Topics | 609 |
+| 83 | [[Rolf-Zwaan|Rolf Zwaan]] | — | — | D. Expansion Topics | 609 |
 | 84 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | D. Expansion Topics | 611 |
-| 85 | [[Stella Vosniadou]] | — | — | D. Expansion Topics | 612 |
+| 85 | [[Stella-Vosniadou|Stella Vosniadou]] | — | — | D. Expansion Topics | 612 |
 | 86 | [[Multimedia-Learning|Multimedia Learning]] | — | — | D. Expansion Topics | 614 |
 | 87 | [[Richard-Mayer|Richard Mayer]] | — | — | D. Expansion Topics | 615 |
 | 88 | [[Counterfactual-Reasoning|Counterfactual Reasoning]] | — | — | D. Expansion Topics | 617 |
-| 89 | [[Ruth Byrne]] | — | — | D. Expansion Topics | 618 |
+| 89 | [[Ruth-Byrne|Ruth Byrne]] | — | — | D. Expansion Topics | 618 |
 | 90 | [[Spatial Mental Models]] | — | — | D. Expansion Topics | 620 |
 | 91 | [[Analogical-Reasoning|Analogical Reasoning]] | — | — | D. Expansion Topics | 623 |
 | 92 | [[Dedre-Gentner|Dedre Gentner]] | — | — | D. Expansion Topics | 624 |
@@ -665,9 +665,9 @@ extraction_summary:
 - [[Kenneth-Craik|Kenneth Craik]]
 - [[Lance-Rips|Lance Rips]]
 - [[Lawrence-Barsalou|Lawrence Barsalou]]
-- [[Lynn Cooper]]
+- [[Lynn-Cooper|Lynn Cooper]]
 - [[Martin-Braine|Martin Braine]]
-- [[Mary Hegarty]]
+- [[Mary-Hegarty|Mary Hegarty]]
 - [[Mental-Logic-Theory|Mental Logic Theory]]
 - [[Mental-Models|Mental Models]]
 - [[Mental-Models-Theory|Mental Models Theory]]
@@ -676,7 +676,7 @@ extraction_summary:
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Multimedia-Learning|Multimedia Learning]]
-- [[Nancy Nersessian]]
+- [[Nancy-Nersessian|Nancy Nersessian]]
 - [[PKB]]
 - [[Perceptual Symbol Systems]]
 - [[Philip-Johnson-Laird|Philip Johnson-Laird]]
@@ -684,18 +684,18 @@ extraction_summary:
 - [[Reasoning-Types-in-Education|Reasoning Types in Education]]
 - [[Richard-Mayer|Richard Mayer]]
 - [[Richard-West|Richard West]]
-- [[Roger Shepard]]
-- [[Rolf Zwaan]]
-- [[Ruth Byrne]]
+- [[Roger-Shepard|Roger Shepard]]
+- [[Rolf-Zwaan|Rolf Zwaan]]
+- [[Ruth-Byrne|Ruth Byrne]]
 - [[Schema-Theory|Schema Theory]]
-- [[Situation Models]]
+- [[Situation-Models|Situation Models]]
 - [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
-- [[Spatial Cognition]]
+- [[Spatial-Cognition|Spatial Cognition]]
 - [[Spatial Mental Models]]
-- [[Stella Vosniadou]]
-- [[Walter Kintsch]]
+- [[Stella-Vosniadou|Stella Vosniadou]]
+- [[Walter-Kintsch|Walter Kintsch]]
 - [[Working-Memory|Working Memory]]
-- [[history and philosophy of science]]
+- [[history-and-philosophy-of-science|history and philosophy of science]]
 - [[Long-Term-Memory|long-term memory]]
 - [[possible-worlds-semantics|possible worlds semantics]]
 
@@ -712,9 +712,9 @@ extraction_summary:
 - [[Analogical-Reasoning|Analogical Reasoning]]
 - [[Causal Reasoning]]
 - [[Counterfactual-Reasoning|Counterfactual Reasoning]]
-- [[Situation Models]]
+- [[Situation-Models|Situation Models]]
 - [[Text Comprehension]]
-- [[Spatial Cognition]]
+- [[Spatial-Cognition|Spatial Cognition]]
 - [[Working-Memory|Working Memory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Dual-Process-Theory|Dual Process Theory]]
@@ -723,7 +723,7 @@ extraction_summary:
 
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
-- [[Knowledge Representation]]
+- [[knowledge-representation|Knowledge Representation]]
 
 #### Narrower
 

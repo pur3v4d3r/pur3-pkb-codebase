@@ -174,7 +174,7 @@ extraction_summary:
 #### 10. [KEY-CLAIM] Untitled *(Line 82)*
 
 > [!key-claim] Untitled
-> The multi-agent architecture is not merely an organizational convenience — it implements a form of [[Cognitive-Load-Theory|cognitive load management]] within the AI system itself. Each specialized agent operates within a narrower context than a general assistant, which means its available reasoning capacity is concentrated on a bounded problem space. A note-organizer agent whose system prompt focuses entirely on vault structural health will perform that function with greater reliability and depth than a general assistant dividing attention across all possible PKM tasks. This parallels the established finding in educational psychology that [[Distributed Practice]] and [[Interleaving]] of specialized sub-skills produces better learning outcomes than undifferentiated practice on composite tasks.
+> The multi-agent architecture is not merely an organizational convenience — it implements a form of [[Cognitive-Load-Theory|cognitive load management]] within the AI system itself. Each specialized agent operates within a narrower context than a general assistant, which means its available reasoning capacity is concentrated on a bounded problem space. A note-organizer agent whose system prompt focuses entirely on vault structural health will perform that function with greater reliability and depth than a general assistant dividing attention across all possible PKM tasks. This parallels the established finding in educational psychology that [[Distributed Practice]] and [[interleaving]] of specialized sub-skills produces better learning outcomes than undifferentiated practice on composite tasks.
 
 #### 11. [EQUATION] Untitled *(Line 91)*
 
@@ -329,12 +329,12 @@ extraction_summary:
 - [[Extended Mind]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation and PKM]]
 - [[Habit Formation as Architectural Variable]]
 - [[Habit Formation in PKM Systems]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Knowledge Graph Density]]
 - [[Knowledge Synthesis Workflows with Claude Code]]
 - [[MCP Protocol]]
@@ -345,7 +345,7 @@ extraction_summary:
 - [[Multi-Agent PKM Orchestration Patterns]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
@@ -387,7 +387,7 @@ extraction_summary:
 | 19 | [[Sönke Ahrens]] | Sönke Ahrens' | — | 📜 Phase 2: Historical Foundations — F... | 24 |
 | 20 | [[Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 21 | [[Tiago Forte]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
-| 22 | [[PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
+| 22 | [[PARA-Method|PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 23 | [[Obsidian]] | — | — | 📜 Phase 2: Historical Foundations — F... | 28 |
 | 24 | [[Claude-Code|Claude Code]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
 | 25 | [[Model-Context-Protocol|Model Context Protocol]] | — | — | 📜 Phase 2: Historical Foundations — F... | 33 |
@@ -403,10 +403,10 @@ extraction_summary:
 | 35 | [[Agentic Workflow Design Patterns]] | — | — | Specialized PKM Agents | 80 |
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | cognitive load management | — | Specialized PKM Agents | 83 |
 | 37 | [[Distributed Practice]] | — | — | Specialized PKM Agents | 83 |
-| 38 | [[Interleaving]] | — | — | Specialized PKM Agents | 83 |
+| 38 | [[interleaving]] | — | — | Specialized PKM Agents | 83 |
 | 39 | [[Model-Context-Protocol|Model Context Protocol]] | — | — | MCP Protocol Integration | 87 |
 | 40 | [[Knowledge Graph Density]] | knowledge graph density | — | MCP Protocol Integration | 92 |
-| 41 | [[Getting Things Done]] | — | — | The Goals Cascade Architecture | 96 |
+| 41 | [[Getting-Things-Done|Getting Things Done]] | — | — | The Goals Cascade Architecture | 96 |
 | 42 | [[Metacognition in Knowledge Management]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
 | 43 | [[Habit Formation and PKM]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
 | 44 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌍 Phase 6: Implications & Application... | 129 |
@@ -504,12 +504,12 @@ extraction_summary:
 - [[Extended Mind]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation and PKM]]
 - [[Habit Formation as Architectural Variable]]
 - [[Habit Formation in PKM Systems]]
-- [[Interleaving]]
+- [[interleaving]]
 - [[Knowledge Graph Density]]
 - [[Knowledge Synthesis Workflows with Claude Code]]
 - [[MCP Protocol]]
@@ -520,7 +520,7 @@ extraction_summary:
 - [[Multi-Agent PKM Orchestration Patterns]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]

@@ -213,7 +213,7 @@ extraction_summary:
 #### 14. [EXAMPLE] Self-Correction in Practice: The Case of H. pylori *(Line 394)*
 
 > [!example] Self-Correction in Practice: The Case of H. pylori
-> For most of the twentieth century, the medical consensus held that stomach ulcers were caused by stress and excess acid. The gastric environment was considered too acidic to support bacterial life. In 1982, Australian physicians [[Barry Marshall]] and [[Robin Warren]] observed that most ulcer patients were infected with a spiral bacterium, *Helicobacter pylori*. Their claim was dismissed and their submitted papers rejected. Marshall famously drank a culture of H. pylori, developing gastritis, then treated himself with antibiotics. Over the following decade, increasingly rigorous evidence accumulated, the consensus shifted, and in 2005 Marshall and Warren received the Nobel Prize in Physiology or Medicine. The episode illustrates both the fallibility of scientific consensus and the self-correcting power of inquiry when conducted with appropriate method and courage.
+> For most of the twentieth century, the medical consensus held that stomach ulcers were caused by stress and excess acid. The gastric environment was considered too acidic to support bacterial life. In 1982, Australian physicians [[Barry-Marshall|Barry Marshall]] and [[Robin-Warren|Robin Warren]] observed that most ulcer patients were infected with a spiral bacterium, *Helicobacter pylori*. Their claim was dismissed and their submitted papers rejected. Marshall famously drank a culture of H. pylori, developing gastritis, then treated himself with antibiotics. Over the following decade, increasingly rigorous evidence accumulated, the consensus shifted, and in 2005 Marshall and Warren received the Nobel Prize in Physiology or Medicine. The episode illustrates both the fallibility of scientific consensus and the self-correcting power of inquiry when conducted with appropriate method and courage.
 
 #### 15. [ASK-YOURSELF-THIS] Testing Your Own Inquiry Practices *(Line 401)*
 
@@ -427,11 +427,11 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Barry Marshall]]
+- [[Barry-Marshall|Barry Marshall]]
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 - [[Carol-Dweck|Carol Dweck]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
-- [[David Lewis]]
+- [[David-Lewis|David Lewis]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Descartes]]
 - [[Duhem-Quine-thesis|Duhem-Quine thesis]]
@@ -439,7 +439,7 @@ extraction_summary:
 - [[Epistemic Calibration and Bayesian Updating]]
 - [[Epistemic Injustice and Structural Fallibilism]]
 - [[Epistemic-Humility|Epistemic humility]]
-- [[Ernest Sosa]]
+- [[Ernest-Sosa|Ernest Sosa]]
 - [[Fallibilism]]
 - [[Intellectual Virtues and Epistemic Character]]
 - [[Karl-Popper|Karl Popper]]
@@ -447,11 +447,11 @@ extraction_summary:
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Moral Fallibilism and Ethical Uncertainty]]
-- [[Nicholas Rescher]]
+- [[Nicholas-Rescher|Nicholas Rescher]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Popper's Falsificationism — Deep Dive]]
 - [[Pyrrhonian-sceptics|Pyrrhonian sceptics]]
-- [[Robin Warren]]
+- [[Robin-Warren|Robin Warren]]
 - [[scepticism]]
 - [[Social Epistemology and Collective Fallibilism]]
 - [[Socrates]]
@@ -461,7 +461,7 @@ extraction_summary:
 - [[Thomas-Kuhn|Thomas Kuhn]]
 - [[Virtue-Epistemology|Virtue epistemology]]
 - [[W.V.O.-Quine|W.V.O. Quine]]
-- [[adversarial epistemology]]
+- [[adversarial-epistemology|adversarial epistemology]]
 - [[cognitive-psychology|cognitive psychology]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Critical-Thinking|critical thinking]]
@@ -470,16 +470,16 @@ extraction_summary:
 - [[epistemic-contextualism|epistemic contextualism]]
 - [[Epistemic-Holism|epistemic holism]]
 - [[Epistemic-Humility|epistemic humility]]
-- [[epistemic justification]]
+- [[epistemic-justification|epistemic justification]]
 - [[epistemic-relativism|epistemic relativism]]
 - [[Epistemic-Autonomy-—-Epistemology|epistemology]]
 - [[Fallibilism]]
 - [[Falsificationism]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
-- [[intellectual openness]]
+- [[intellectual-openness|intellectual openness]]
 - [[pedagogy]]
 - [[philosophy-of-science|philosophy of science]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -502,7 +502,7 @@ extraction_summary:
 | 13 | [[Socratic-Method|Socratic method]] | — | — | Historical Development | 314 |
 | 14 | [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] | — | — | Historical Development | 316 |
 | 15 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Historical Development | 318 |
-| 16 | [[Pragmatism]] | — | — | Historical Development | 318 |
+| 16 | [[pragmatism]] | — | — | Historical Development | 318 |
 | 17 | [[Karl-Popper|Karl Popper]] | — | — | Historical Development | 320 |
 | 18 | [[Falsificationism]] | — | — | Historical Development | 320 |
 | 19 | [[W.V.O.-Quine|W.V.O. Quine]] | — | — | Historical Development | 320 |
@@ -515,22 +515,22 @@ extraction_summary:
 | 26 | [[Epistemic-Holism|epistemic holism]] | — | — | Quine's Web of Belief and Epistemic H... | 353 |
 | 27 | [[epistemic-contextualism|epistemic contextualism]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
 | 28 | [[Stewart-Cohen|Stewart Cohen]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
-| 29 | [[David Lewis]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
+| 29 | [[David-Lewis|David Lewis]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
 | 30 | [[Virtue-Epistemology|Virtue epistemology]] | — | — | Virtue Epistemology's Contribution | 366 |
-| 31 | [[Ernest Sosa]] | — | — | Virtue Epistemology's Contribution | 366 |
+| 31 | [[Ernest-Sosa|Ernest Sosa]] | — | — | Virtue Epistemology's Contribution | 366 |
 | 32 | [[Linda-Zagzebski|Linda Zagzebski]] | — | — | Virtue Epistemology's Contribution | 366 |
-| 33 | [[epistemic justification]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
+| 33 | [[epistemic-justification|epistemic justification]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
 | 34 | [[Defeat-Defeater|defeater]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
-| 35 | [[Barry Marshall]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
-| 36 | [[Robin Warren]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
+| 35 | [[Barry-Marshall|Barry Marshall]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
+| 36 | [[Robin-Warren|Robin Warren]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
 | 37 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | How Fallibilism Works: The Machinery ... | 397 |
-| 38 | [[adversarial epistemology]] | — | — | How Fallibilism Works: The Machinery ... | 399 |
-| 39 | [[Nicholas Rescher]] | — | — | How Fallibilism Works: The Machinery ... | 404 |
+| 38 | [[adversarial-epistemology|adversarial epistemology]] | — | — | How Fallibilism Works: The Machinery ... | 399 |
+| 39 | [[Nicholas-Rescher|Nicholas Rescher]] | — | — | How Fallibilism Works: The Machinery ... | 404 |
 | 40 | [[philosophy-of-science|philosophy of science]] | — | — | Fallibilism in Science | 419 |
 | 41 | [[Karl-Popper|Karl Popper]] | — | — | Fallibilism in Science | 419 |
 | 42 | [[Thomas-Kuhn|Thomas Kuhn]] | — | — | Fallibilism in Science | 419 |
 | 43 | [[Epistemic-Humility|epistemic humility]] | — | — | Fallibilism in Education | 428 |
-| 44 | [[intellectual openness]] | — | — | Fallibilism in Education | 428 |
+| 44 | [[intellectual-openness|intellectual openness]] | — | — | Fallibilism in Education | 428 |
 | 45 | [[Carol-Dweck|Carol Dweck]] | — | — | Fallibilism in Education | 430 |
 | 46 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Fallibilism in Education | 430 |
 | 47 | [[Karl-Popper|Karl Popper]] | — | — | Fallibilism in Democratic and Politic... | 441 |
@@ -559,11 +559,11 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Barry Marshall]]
+- [[Barry-Marshall|Barry Marshall]]
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 - [[Carol-Dweck|Carol Dweck]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
-- [[David Lewis]]
+- [[David-Lewis|David Lewis]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Descartes]]
 - [[Duhem-Quine-thesis|Duhem-Quine thesis]]
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Epistemic Calibration and Bayesian Updating]]
 - [[Epistemic Injustice and Structural Fallibilism]]
 - [[Epistemic-Humility|Epistemic humility]]
-- [[Ernest Sosa]]
+- [[Ernest-Sosa|Ernest Sosa]]
 - [[Fallibilism]]
 - [[Intellectual Virtues and Epistemic Character]]
 - [[Karl-Popper|Karl Popper]]
@@ -579,11 +579,11 @@ extraction_summary:
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Moral Fallibilism and Ethical Uncertainty]]
-- [[Nicholas Rescher]]
+- [[Nicholas-Rescher|Nicholas Rescher]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Popper's Falsificationism — Deep Dive]]
 - [[Pyrrhonian-sceptics|Pyrrhonian sceptics]]
-- [[Robin Warren]]
+- [[Robin-Warren|Robin Warren]]
 - [[scepticism]]
 - [[Social Epistemology and Collective Fallibilism]]
 - [[Socrates]]
@@ -593,7 +593,7 @@ extraction_summary:
 - [[Thomas-Kuhn|Thomas Kuhn]]
 - [[Virtue-Epistemology|Virtue epistemology]]
 - [[W.V.O.-Quine|W.V.O. Quine]]
-- [[adversarial epistemology]]
+- [[adversarial-epistemology|adversarial epistemology]]
 - [[cognitive-psychology|cognitive psychology]]
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[Critical-Thinking|critical thinking]]
@@ -602,16 +602,16 @@ extraction_summary:
 - [[epistemic-contextualism|epistemic contextualism]]
 - [[Epistemic-Holism|epistemic holism]]
 - [[Epistemic-Humility|epistemic humility]]
-- [[epistemic justification]]
+- [[epistemic-justification|epistemic justification]]
 - [[epistemic-relativism|epistemic relativism]]
 - [[Epistemic-Autonomy-—-Epistemology|epistemology]]
 - [[Fallibilism]]
 - [[Falsificationism]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
-- [[intellectual openness]]
+- [[intellectual-openness|intellectual openness]]
 - [[pedagogy]]
 - [[philosophy-of-science|philosophy of science]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[scepticism]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
@@ -621,13 +621,13 @@ extraction_summary:
 
 - [[Epistemology — Overview]]
 - [[Propositional Knowledge]]
-- [[Epistemic Justification]]
+- [[epistemic-justification|Epistemic Justification]]
 
 #### Related
 
 - [[Critical-Thinking|Critical Thinking]]
 - [[philosophy-of-science|Philosophy of Science]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Reliabilism]]
 - [[Contextualism — Epistemological]]
@@ -648,7 +648,7 @@ extraction_summary:
 
 - [[Bayesian-Epistemology|Bayesian Epistemology]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
-- [[Epistemic Injustice]]
+- [[Epistemic-Injustice|Epistemic Injustice]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 
 #### Contrasts With

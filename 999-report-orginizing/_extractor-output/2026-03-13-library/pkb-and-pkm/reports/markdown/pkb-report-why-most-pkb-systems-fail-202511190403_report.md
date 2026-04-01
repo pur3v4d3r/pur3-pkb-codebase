@@ -286,8 +286,8 @@ extraction_summary:
 - [[Heutagogy]]
 - [[Human-Computer Interaction]]
 - [[Information-Architecture|Information Architecture]]
-- [[Information Processing]]
-- [[Information Theory]]
+- [[information-processing|Information Processing]]
+- [[Information-Theory|Information Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
@@ -305,7 +305,7 @@ extraction_summary:
 - [[Methodological Frameworks]]
 - [[Motivational Beliefs]]
 - [[Motivational Fortitude]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[pedagogy]]
 - [[Personal Information Management]]
 - [[Personal Reflection]]
@@ -392,7 +392,7 @@ extraction_summary:
 | 44 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Motivational Architecture: Sustaini... | 90 |
 | 45 | [[Zettelkasten]] | — | — | 🎯 Motivational Architecture: Sustaini... | 95 |
 | 46 | [[Johnny.Decimal]] | — | — | 🎯 Motivational Architecture: Sustaini... | 95 |
-| 47 | [[PARA Method]] | — | — | 🎯 Motivational Architecture: Sustaini... | 95 |
+| 47 | [[PARA-Method|PARA Method]] | — | — | 🎯 Motivational Architecture: Sustaini... | 95 |
 | 48 | [[Literature Notes]] | — | — | 🎯 Motivational Architecture: Sustaini... | 99 |
 | 49 | [[Personal Reflection]] | — | — | 🎯 Motivational Architecture: Sustaini... | 99 |
 | 50 | [[Synthesis Notes]] | — | — | 🎯 Motivational Architecture: Sustaini... | 99 |
@@ -421,10 +421,10 @@ extraction_summary:
 | 73 | [[Competence]] | — | — | 🎯 Motivational Architecture: Sustaini... | 168 |
 | 74 | [[Relatedness]] | — | — | 🎯 Motivational Architecture: Sustaini... | 168 |
 | 75 | [[Zettelkasten]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
-| 76 | [[PARA Method]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
+| 76 | [[PARA-Method|PARA Method]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
 | 77 | [[Johnny.Decimal]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
 | 78 | [[Access-Control-Select]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
-| 79 | [[Information Processing]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
+| 79 | [[information-processing|Information Processing]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
 | 80 | [[Cognitive-Load|Cognitive Load]] | — | — | 🎯 Motivational Architecture: Sustaini... | 172 |
 | 81 | [[Competence]] | — | — | 🎯 Motivational Architecture: Sustaini... | 174 |
 | 82 | [[Autonomy]] | — | — | 🎯 Motivational Architecture: Sustaini... | 174 |
@@ -481,7 +481,7 @@ extraction_summary:
 | 133 | [[Methodological Frameworks]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
 | 134 | [[Learning Workflow]] | — | — | 🌐 Integration: The Forty Concepts as ... | 254 |
 | 135 | [[Cognitive-Science|Cognitive Science]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
-| 136 | [[Information Theory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
+| 136 | [[Information-Theory|Information Theory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 137 | [[Library Science]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 138 | [[Knowledge-Management|Knowledge Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 139 | [[Networked Thought]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
@@ -661,8 +661,8 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Heutagogy]]
 - [[Human-Computer Interaction]]
 - [[Information-Architecture|Information Architecture]]
-- [[Information Processing]]
-- [[Information Theory]]
+- [[information-processing|Information Processing]]
+- [[Information-Theory|Information Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
@@ -680,7 +680,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Methodological Frameworks]]
 - [[Motivational Beliefs]]
 - [[Motivational Fortitude]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[pedagogy]]
 - [[Personal Information Management]]
 - [[Personal Reflection]]

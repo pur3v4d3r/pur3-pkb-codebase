@@ -200,7 +200,7 @@ extraction_summary:
 - [[AlfWorld]]
 - [[Automatic Prompt Engineer]]
 - [[Bereiter and Scardamalia's (1987)]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Chi et al. (1981)]]
@@ -256,7 +256,7 @@ extraction_summary:
 | 19 | [[Game of 24]] | — | — | Tree-Structured Reasoning: Exploratio... | 235 |
 | 20 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Graph-Structured Reasoning: Non-Linea... | 309 |
 | 21 | [[Graph of Thoughts]] | — | — | Graph-Structured Reasoning: Non-Linea... | 309 |
-| 22 | [[Chain of Verification]] | — | — | Verification-Augmented Reasoning: Err... | 394 |
+| 22 | [[Chain-of-Verification|Chain of Verification]] | — | — | Verification-Augmented Reasoning: Err... | 394 |
 | 23 | [[Dhuliawala et al. (2023)]] | — | — | Verification-Augmented Reasoning: Err... | 433 |
 | 24 | [[Self-Refine]] | — | — | Iterative Refinement: Self-Refine Fra... | 445 |
 | 25 | [[Generated Knowledge Prompting]] | — | — | Generated Knowledge Prompting | 535 |
@@ -277,7 +277,7 @@ extraction_summary:
 | 40 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Principle 1: Match Framework to Probl... | 860 |
 | 41 | [[RAG]] | — | — | Principle 2: Layer Frameworks Synergi... | 876 |
 | 42 | [[Tree-of-Thoughts|Tree of Thoughts]] | — | — | Principle 2: Layer Frameworks Synergi... | 878 |
-| 43 | [[Chain of Verification]] | — | — | Principle 2: Layer Frameworks Synergi... | 880 |
+| 43 | [[Chain-of-Verification|Chain of Verification]] | — | — | Principle 2: Layer Frameworks Synergi... | 880 |
 | 44 | [[Self-Refine]] | — | — | Principle 2: Layer Frameworks Synergi... | 882 |
 | 45 | [[Self-Consistency]] | — | — | Principle 2: Layer Frameworks Synergi... | 888 |
 | 46 | [[Self-Refine]] | — | — | Principle 2: Layer Frameworks Synergi... | 888 |
@@ -1075,7 +1075,7 @@ description includes Review
 - [[AlfWorld]]
 - [[Automatic Prompt Engineer]]
 - [[Bereiter and Scardamalia's (1987)]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Chi et al. (1981)]]

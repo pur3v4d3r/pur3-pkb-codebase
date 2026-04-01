@@ -613,7 +613,7 @@ extraction_summary:
 - [[Organizational Learning]]
 - [[Organizational Learning and Knowledge Management Systems]]
 - [[Peter Gollwitzer]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
 - [[Richard-Ryan|Richard Ryan]]
@@ -629,7 +629,7 @@ extraction_summary:
 - [[Vygotsky-inspired research on the Zone of Proximal Development]]
 - [[Wendy Wood]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[behavior tracking devices]]
 - [[behavioral psychology]]
 - [[computational narrative analysis]]
@@ -651,14 +651,14 @@ extraction_summary:
 - [[Legitimate-Peripheral-Participation|legitimate peripheral participation]]
 - [[medial prefrontal cortex]]
 - [[operant conditioning]]
-- [[prefrontal cortex]]
-- [[Reflection-in-Action]]
+- [[prefrontal-cortex|prefrontal cortex]]
+- [[Reflection-in-action]]
 - [[Reflection-on-Action]]
 - [[Reflective-Practice|reflective practice]]
 - [[Single-Loop-Learning|single-loop learning]]
 - [[Situated-Learning|situated learning]]
 - [[sociocultural theory]]
-- [[striatum]]
+- [[Striatum]]
 
 ### All Occurrences
 
@@ -673,15 +673,15 @@ extraction_summary:
 | 7 | [[Vygotsky]] | — | — | Document Start | 39 |
 | 8 | [[intention-behavior gap]] | — | — | 1.0 📜 INTRODUCTION | 53 |
 | 9 | [[Donald-Schön|Donald Schön]] | — | — | 1.0 📜 INTRODUCTION | 61 |
-| 10 | [[Reflection-in-Action]] | — | — | 1.0 📜 INTRODUCTION | 61 |
+| 10 | [[Reflection-in-action]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 11 | [[Reflective-Practice|reflective practice]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
-| 12 | [[Pragmatism]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
+| 12 | [[pragmatism]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
 | 13 | [[Kurt Lewin]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 79 |
 | 14 | [[David-Kolb|David Kolb]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
 | 15 | [[Experiential Learning Theory]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
 | 16 | [[Donald-Schön|Donald Schön]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 85 |
 | 17 | [[Reflection-on-Action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
-| 18 | [[Reflection-in-Action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
+| 18 | [[Reflection-in-action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
 | 19 | [[Chris Argyris]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
 | 20 | [[Single-Loop-Learning|single-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
 | 21 | [[Double-Loop-Learning|double-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
@@ -728,8 +728,8 @@ extraction_summary:
 | 62 | [[Habit-Formation|Habit Formation]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 267 |
 | 63 | [[Charles Duhigg]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
 | 64 | [[Habit-Loop|habit loop]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
-| 65 | [[basal ganglia]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
-| 66 | [[prefrontal cortex]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 274 |
+| 65 | [[Basal-Ganglia|basal ganglia]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
+| 66 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 274 |
 | 67 | [[Context-dependent memory]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
 | 68 | [[Wendy Wood]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
 | 69 | [[Implementation-Intentions|Implementation intentions]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 288 |
@@ -755,10 +755,10 @@ extraction_summary:
 | 89 | [[Organizational Learning]] | — | — | 6.1 FOR PROFESSIONAL DEVELOPMENT AND ... | 443 |
 | 90 | [[Learning Organizations]] | — | — | 6.1 FOR PROFESSIONAL DEVELOPMENT AND ... | 443 |
 | 91 | [[Cal Newport]] | — | — | 6.3 FOR PERSONAL LIFE MANAGEMENT | 475 |
-| 92 | [[prefrontal cortex]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
+| 92 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
 | 93 | [[Anterior Cingulate Cortex]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
 | 94 | [[insula]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
-| 95 | [[striatum]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
+| 95 | [[Striatum]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
 | 96 | [[Neuroplasticity]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 495 |
 | 97 | [[Sara Lazar]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 495 |
 | 98 | [[BDNF (Brain-Derived Neurotrophic Factor)]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 497 |
@@ -962,7 +962,7 @@ graph TD
 - [[Organizational Learning]]
 - [[Organizational Learning and Knowledge Management Systems]]
 - [[Peter Gollwitzer]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
 - [[Richard-Ryan|Richard Ryan]]
@@ -978,7 +978,7 @@ graph TD
 - [[Vygotsky-inspired research on the Zone of Proximal Development]]
 - [[Wendy Wood]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[behavior tracking devices]]
 - [[behavioral psychology]]
 - [[computational narrative analysis]]
@@ -1000,14 +1000,14 @@ graph TD
 - [[Legitimate-Peripheral-Participation|legitimate peripheral participation]]
 - [[medial prefrontal cortex]]
 - [[operant conditioning]]
-- [[prefrontal cortex]]
-- [[Reflection-in-Action]]
+- [[prefrontal-cortex|prefrontal cortex]]
+- [[Reflection-in-action]]
 - [[Reflection-on-Action]]
 - [[Reflective-Practice|reflective practice]]
 - [[Single-Loop-Learning|single-loop learning]]
 - [[Situated-Learning|situated learning]]
 - [[sociocultural theory]]
-- [[striatum]]
+- [[Striatum]]
 
 ---
 

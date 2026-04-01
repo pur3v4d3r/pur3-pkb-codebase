@@ -344,13 +344,13 @@ extraction_summary:
 > 
 > - **[[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]** — The analysis here connects directly to the reflection phase breakdown identified in Phase IV: ability attribution (the hallmark of a fixed mindset) severs the self-reflection loop and prevents productive forethought revision. Dweck's implicit theories research and Zimmerman's SRL model are mechanistically complementary — growth mindset interventions work precisely by changing the attribution pattern at the reflection phase, which repairs the cycle. Understanding the SRL mechanism makes it possible to understand exactly why mindset matters and where its effect is located.
 > 
-> - **[[Goal-Setting Theory — Locke and Latham]]** — Locke and Latham's finding that specific, challenging goals produce superior performance relative to vague or easy goals has a natural SRL interpretation: specific goals are standards that make monitoring possible. You cannot detect a discrepancy without a reference point, and vague goals provide insufficient precision to support genuine monitoring. The SRL analysis enriches goal-setting theory by explaining why specific goals work — they activate the monitoring-control coupling — rather than simply asserting that they do.
+> - **[[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]** — Locke and Latham's finding that specific, challenging goals produce superior performance relative to vague or easy goals has a natural SRL interpretation: specific goals are standards that make monitoring possible. You cannot detect a discrepancy without a reference point, and vague goals provide insufficient precision to support genuine monitoring. The SRL analysis enriches goal-setting theory by explaining why specific goals work — they activate the monitoring-control coupling — rather than simply asserting that they do.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The expertise reversal effect identified in Phase III as a moderator of SRL intervention effectiveness is a cognitive load phenomenon: the working memory cost of self-monitoring competes with the working memory demands of processing novel content. Cognitive load theory provides the capacity account that explains why SRL is not simply better than direct instruction at all points — it is superior when learners have sufficient domain knowledge to reduce intrinsic load to the point where regulatory processes can be supported without cognitive compromise.
 > 
 > - **[[Executive-Function|Executive Function]]** — The monitoring and control functions described in Zimmerman's performance phase map onto the executive function constructs of inhibitory control, working memory updating, and cognitive flexibility. Understanding SRL as drawing on executive function resources suggests an important boundary condition: learners under high cognitive load, emotional stress, or motivational threat will have reduced executive function resources available for self-regulation, predicting the motivational regulation failures that Pintrich's framework identifies but does not fully mechanistically explain.
 > 
-> - **[[Deliberate Practice — Ericsson]]** — Ericsson's deliberate practice framework and Zimmerman's SRL model converge on a striking overlap: the structure of effective deliberate practice sessions (setting specific stretch goals, focused execution, immediate feedback, reflection and adjustment) is structurally isomorphic with a healthy SRL cycle. Deliberate practice may be SRL applied in expert coaching contexts — the coach externally scaffolds the forethought (goal-setting) and reflection (feedback interpretation) phases that the learner is not yet able to fully provide internally. This connection suggests that deliberate practice research provides process-level evidence for SRL mechanisms that is less subject to the self-report measurement problems of standard SRL research.
+> - **[[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]** — Ericsson's deliberate practice framework and Zimmerman's SRL model converge on a striking overlap: the structure of effective deliberate practice sessions (setting specific stretch goals, focused execution, immediate feedback, reflection and adjustment) is structurally isomorphic with a healthy SRL cycle. Deliberate practice may be SRL applied in expert coaching contexts — the coach externally scaffolds the forethought (goal-setting) and reflection (feedback interpretation) phases that the learner is not yet able to fully provide internally. This connection suggests that deliberate practice research provides process-level evidence for SRL mechanisms that is less subject to the self-report measurement problems of standard SRL research.
 > 
 > **Synthetic Observation**: The pattern of connections reveals that SRL sits at a theoretical intersection point between cognitive science (cognitive load, executive function, metacognition), motivational psychology (self-efficacy, goal orientation, implicit theories), and skill acquisition research (deliberate practice). This intersection is its strength — it provides a comprehensive account of learning — and its weakness: it imports assumptions from each domain that may not cohere perfectly. The most important development opportunities in SRL theory lie at the seams between these traditions, particularly in better theorizing the motivational regulation of monitoring quality and the cognitive capacity constraints on regulatory execution.
 
@@ -478,9 +478,9 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Understanding
 
-#### 61. [TOPIC-IDEA] [[Metacognitive Monitoring Accuracy and Calibration]] *(Line 603)*
+#### 61. [TOPIC-IDEA] [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]] *(Line 603)*
 
-> [!topic-idea] [[Metacognitive Monitoring Accuracy and Calibration]]
+> [!topic-idea] [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]]
 > This expansion addresses the Dunning-Kruger phenomenon and related research on the conditions under which learners' confidence judgments are — and are not — calibrated to actual performance. It would explore the Feeling of Knowing (FOK) and Judgment of Learning (JOL) literatures, examine what interventions improve calibration, and analyze why calibration is particularly poor in novel domains. Directly extends this report's analysis of monitoring quality as the SRL bottleneck. Priority: HIGH — the monitoring-control coupling analysis demands this companion.
 
 #### 62. [TOPIC-IDEA] [[SRL in Digital and AI-Enhanced Learning Environments]] *(Line 606)*
@@ -523,7 +523,7 @@ extraction_summary:
 - [[Carol-Dweck|Carol Dweck]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and SRL — The Resource Competition Model]]
-- [[Deliberate Practice — Ericsson]]
+- [[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]
 - [[Executive-Function|Executive Function]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
@@ -531,7 +531,7 @@ extraction_summary:
 - [[General-Intelligence|General Intelligence]]
 - [[Goal-Orientation|Goal Orientation]]
 - [[Goal Orientation Theory — Achievement Goals in Depth]]
-- [[Goal-Setting Theory — Locke and Latham]]
+- [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
 - [[Innate-Immunity|Innate Immunity]]
@@ -542,13 +542,13 @@ extraction_summary:
 - [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Metacognitive Monitoring Accuracy and Calibration]]
+- [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]]
 - [[Motivational-Regulation|Motivational Regulation]]
 - [[Negative-Feedback-Control-System|Negative Feedback Control System]]
 - [[PKB]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[Performance-Phase|Performance Phase]]
-- [[Philip Winne]]
+- [[Philip-Winne|Philip Winne]]
 - [[SRL Intervention Design — Evidence-Based Principles]]
 - [[SRL in Digital and AI-Enhanced Learning Environments]]
 - [[Self-Efficacy]]
@@ -588,7 +588,7 @@ extraction_summary:
 | 23 | [[Self-Efficacy]] | — | — | What the Evidence Actually Shows vs. ... | 334 |
 | 24 | [[Goal-Orientation|Goal Orientation]] | goal orientation | — | What the Evidence Actually Shows vs. ... | 334 |
 | 25 | [[Carol-Dweck|Carol Dweck]] | Dweck | — | What the Evidence Actually Shows vs. ... | 334 |
-| 26 | [[Philip Winne]] | Winne | — | The Performance Phase: Self-Monitorin... | 369 |
+| 26 | [[Philip-Winne|Philip Winne]] | Winne | — | The Performance Phase: Self-Monitorin... | 369 |
 | 27 | [[Negative-Feedback-Control-System|Negative Feedback Control System]] | — | — | The Performance Phase: Self-Monitorin... | 372 |
 | 28 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | growth mindset | — | The Performance Phase: Self-Monitorin... | 374 |
 | 29 | [[Adaptive-Immunity|Adaptive Immunity]] | — | — | The Role of Goal Orientation in Shapi... | 391 |
@@ -597,11 +597,11 @@ extraction_summary:
 | 32 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 497 |
 | 33 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 497 |
 | 34 | [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] | — | — | Phase VII: PKB Connections & Cross-Re... | 499 |
-| 35 | [[Goal-Setting Theory — Locke and Latham]] | — | — | Phase VII: PKB Connections & Cross-Re... | 501 |
+| 35 | [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]] | — | — | Phase VII: PKB Connections & Cross-Re... | 501 |
 | 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 503 |
 | 37 | [[Executive-Function|Executive Function]] | — | — | Phase VII: PKB Connections & Cross-Re... | 505 |
-| 38 | [[Deliberate Practice — Ericsson]] | — | — | Phase VII: PKB Connections & Cross-Re... | 507 |
-| 39 | [[Metacognitive Monitoring Accuracy and Calibration]] | — | — | D. Expansion Topics | 603 |
+| 38 | [[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]] | — | — | Phase VII: PKB Connections & Cross-Re... | 507 |
+| 39 | [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]] | — | — | D. Expansion Topics | 603 |
 | 40 | [[SRL in Digital and AI-Enhanced Learning Environments]] | — | — | D. Expansion Topics | 606 |
 | 41 | [[Goal Orientation Theory — Achievement Goals in Depth]] | — | — | D. Expansion Topics | 609 |
 | 42 | [[Cognitive Load Theory and SRL — The Resource Competition Model]] | — | — | D. Expansion Topics | 612 |
@@ -622,7 +622,7 @@ extraction_summary:
 - [[Carol-Dweck|Carol Dweck]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and SRL — The Resource Competition Model]]
-- [[Deliberate Practice — Ericsson]]
+- [[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]
 - [[Executive-Function|Executive Function]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
@@ -630,7 +630,7 @@ extraction_summary:
 - [[General-Intelligence|General Intelligence]]
 - [[Goal-Orientation|Goal Orientation]]
 - [[Goal Orientation Theory — Achievement Goals in Depth]]
-- [[Goal-Setting Theory — Locke and Latham]]
+- [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
 - [[Innate-Immunity|Innate Immunity]]
@@ -641,13 +641,13 @@ extraction_summary:
 - [[Metacognitive-Experiences|Metacognitive Experiences]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Metacognitive Monitoring Accuracy and Calibration]]
+- [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive Monitoring Accuracy and Calibration]]
 - [[Motivational-Regulation|Motivational Regulation]]
 - [[Negative-Feedback-Control-System|Negative Feedback Control System]]
 - [[PKB]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[Performance-Phase|Performance Phase]]
-- [[Philip Winne]]
+- [[Philip-Winne|Philip Winne]]
 - [[SRL Intervention Design — Evidence-Based Principles]]
 - [[SRL in Digital and AI-Enhanced Learning Environments]]
 - [[Self-Efficacy]]
@@ -671,7 +671,7 @@ extraction_summary:
 - [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Executive-Function|Executive Function]]
-- [[Goal-Setting Theory — Locke and Latham]]
+- [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]
 
 #### Broader
 
@@ -686,7 +686,7 @@ extraction_summary:
 
 #### See Also
 
-- [[Deliberate Practice — Ericsson]]
+- [[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Formative-Assessment|Formative Assessment]]
 

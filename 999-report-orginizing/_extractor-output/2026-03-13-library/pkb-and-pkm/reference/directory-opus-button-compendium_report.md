@@ -147,8 +147,8 @@ extraction_summary:
   - ## 📑 Quick Reference: Variables
 - # 🔗 Related Topics for PKB Expansion
   - ## Core Extensions
-    - ### 1. **[[Directory Opus Scripting]]**
-    - ### 2. **[[Directory Opus Rename Scripts]]**
+    - ### 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]**
+    - ### 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]**
   - ## Cross-Domain Connections
     - ### 3. **[[File Management Workflow Design]]**
     - ### 4. **[[Windows Shell Integration]]**
@@ -536,7 +536,7 @@ extraction_summary:
 #### 68. [HELPFUL-TIP] Diff Tool Options *(Line 1268)*
 
 > [!helpful-tip] Diff Tool Options
-> Adjust path to your preferred comparison tool. Popular options: [[WinMerge]], [[Beyond Compare]], VS Code with `code --diff file1 file2`
+> Adjust path to your preferred comparison tool. Popular options: [[WinMerge]], [[Beyond-Compare|Beyond Compare]], VS Code with `code --diff file1 file2`
 
 #### 69. [WHAT-THIS-DOES] Function *(Line 1275)*
 
@@ -556,7 +556,7 @@ extraction_summary:
 #### 72. [WHAT-THIS-DOES] Function *(Line 1332)*
 
 > [!what-this-does] Function
-> Empties the Windows [[Recycle Bin]].
+> Empties the Windows [[Recycle-Bin|Recycle Bin]].
 
 #### 73. [WHAT-THIS-DOES] Function *(Line 1352)*
 
@@ -625,20 +625,20 @@ extraction_summary:
 
 - [[7-Zip]]
 - [[Basic Programming Logic]]
-- [[Beyond Compare]]
+- [[Beyond-Compare|Beyond Compare]]
 - [[CLI Tool Proficiency]]
 - [[Command-Prompt|Command Prompt]]
 - [[Directory-Opus|Directory Opus]]
-- [[Directory Opus Button Basics]]
+- [[Directory-Opus-Button-Basics|Directory Opus Button Basics]]
 - [[Directory Opus Evaluator Functions]]
-- [[Directory Opus Rename Scripts]]
-- [[Directory Opus Scripting]]
+- [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]
+- [[Directory-Opus-Scripting|Directory Opus Scripting]]
 - [[EXIF]]
 - [[File Management Workflow Design]]
 - [[GTD]]
 - [[JPEG]]
 - [[JScript]]
-- [[JavaScript Fundamentals]]
+- [[JavaScript-Fundamentals|JavaScript Fundamentals]]
 - [[MD5]]
 - [[Markdown]]
 - [[Metadata Understanding]]
@@ -648,8 +648,8 @@ extraction_summary:
 - [[PNG]]
 - [[Personal Productivity Systems]]
 - [[PowerShell]]
-- [[Recycle Bin]]
-- [[Regular Expressions]]
+- [[Recycle-Bin|Recycle Bin]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[SHA-256]]
 - [[URL]]
 - [[VBScript]]
@@ -688,20 +688,20 @@ extraction_summary:
 | 15 | [[Visual-Studio-Code|Visual Studio Code]] | — | — | Open in VS Code | 857 |
 | 16 | [[Obsidian]] | — | — | Go to Obsidian Vault | 1020 |
 | 17 | [[WinMerge]] | — | — | Compare Files (Side by Side) | 1269 |
-| 18 | [[Beyond Compare]] | — | — | Compare Files (Side by Side) | 1269 |
+| 18 | [[Beyond-Compare|Beyond Compare]] | — | — | Compare Files (Side by Side) | 1269 |
 | 19 | [[MD5]] | — | — | Hash (MD5) Selected Files | 1295 |
 | 20 | [[SHA-256]] | — | — | Hash (SHA256) Selected Files | 1314 |
-| 21 | [[Recycle Bin]] | — | — | Empty Recycle Bin | 1333 |
+| 21 | [[Recycle-Bin|Recycle Bin]] | — | — | Empty Recycle Bin | 1333 |
 | 22 | [[regex]] | — | — | Batch Rename (Advanced Dialog) | 1398 |
-| 23 | [[Directory Opus Scripting]] | — | — | 1. **[[Directory Opus Scripting]]** | 1550 |
-| 24 | [[JScript]] | — | — | 1. **[[Directory Opus Scripting]]** | 1552 |
-| 25 | [[VBScript]] | — | — | 1. **[[Directory Opus Scripting]]** | 1552 |
-| 26 | [[Directory Opus Button Basics]] | — | — | 1. **[[Directory Opus Scripting]]** | 1555 |
-| 27 | [[JavaScript Fundamentals]] | — | — | 1. **[[Directory Opus Scripting]]** | 1555 |
-| 28 | [[Directory Opus Rename Scripts]] | — | — | 2. **[[Directory Opus Rename Scripts]]** | 1557 |
-| 29 | [[EXIF]] | — | — | 2. **[[Directory Opus Rename Scripts]]** | 1559 |
-| 30 | [[Regular Expressions]] | — | — | 2. **[[Directory Opus Rename Scripts]]** | 1562 |
-| 31 | [[Metadata Understanding]] | — | — | 2. **[[Directory Opus Rename Scripts]]** | 1562 |
+| 23 | [[Directory-Opus-Scripting|Directory Opus Scripting]] | — | — | 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]** | 1550 |
+| 24 | [[JScript]] | — | — | 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]** | 1552 |
+| 25 | [[VBScript]] | — | — | 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]** | 1552 |
+| 26 | [[Directory-Opus-Button-Basics|Directory Opus Button Basics]] | — | — | 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]** | 1555 |
+| 27 | [[JavaScript-Fundamentals|JavaScript Fundamentals]] | — | — | 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]** | 1555 |
+| 28 | [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1557 |
+| 29 | [[EXIF]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1559 |
+| 30 | [[Regular-Expressions|Regular Expressions]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1562 |
+| 31 | [[Metadata Understanding]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1562 |
 | 32 | [[File Management Workflow Design]] | — | — | 3. **[[File Management Workflow Desig... | 1566 |
 | 33 | [[GTD]] | — | — | 3. **[[File Management Workflow Desig... | 1568 |
 | 34 | [[PARA]] | — | — | 3. **[[File Management Workflow Desig... | 1568 |
@@ -713,11 +713,11 @@ extraction_summary:
 | 40 | [[registry]] | — | — | 4. **[[Windows Shell Integration]]** | 1575 |
 | 41 | [[Windows Command Line Basics]] | — | — | 4. **[[Windows Shell Integration]]** | 1578 |
 | 42 | [[Directory Opus Evaluator Functions]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1582 |
-| 43 | [[Directory Opus Scripting]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1587 |
+| 43 | [[Directory-Opus-Scripting|Directory Opus Scripting]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1587 |
 | 44 | [[Basic Programming Logic]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1587 |
 | 45 | [[Multi-Tool Automation Pipelines]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1589 |
 | 46 | [[CLI Tool Proficiency]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1594 |
-| 47 | [[Directory Opus Scripting]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1594 |
+| 47 | [[Directory-Opus-Scripting|Directory Opus Scripting]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1594 |
 
 ---
 
@@ -1475,7 +1475,7 @@ extraction_summary:
 
 ```plaintext
 > [!helpful-tip] Diff Tool Options
-> Adjust path to your preferred comparison tool. Popular options: [[WinMerge]], [[Beyond Compare]], VS Code with `code --diff file1 file2`
+> Adjust path to your preferred comparison tool. Popular options: [[WinMerge]], [[Beyond-Compare|Beyond Compare]], VS Code with `code --diff file1 file2`
 
 - --
 
@@ -1515,7 +1515,7 @@ extraction_summary:
 ### Empty Recycle Bin
 
 > [!what-this-does] Function
-> Empties the Windows [[Recycle Bin]].
+> Empties the Windows [[Recycle-Bin|Recycle Bin]].
 ```
 
 ### Code Block 69 — `plaintext` *(Lines 1346-1355)*
@@ -1653,20 +1653,20 @@ extraction_summary:
 
 - [[7-Zip]]
 - [[Basic Programming Logic]]
-- [[Beyond Compare]]
+- [[Beyond-Compare|Beyond Compare]]
 - [[CLI Tool Proficiency]]
 - [[Command-Prompt|Command Prompt]]
 - [[Directory-Opus|Directory Opus]]
-- [[Directory Opus Button Basics]]
+- [[Directory-Opus-Button-Basics|Directory Opus Button Basics]]
 - [[Directory Opus Evaluator Functions]]
-- [[Directory Opus Rename Scripts]]
-- [[Directory Opus Scripting]]
+- [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]
+- [[Directory-Opus-Scripting|Directory Opus Scripting]]
 - [[EXIF]]
 - [[File Management Workflow Design]]
 - [[GTD]]
 - [[JPEG]]
 - [[JScript]]
-- [[JavaScript Fundamentals]]
+- [[JavaScript-Fundamentals|JavaScript Fundamentals]]
 - [[MD5]]
 - [[Markdown]]
 - [[Metadata Understanding]]
@@ -1676,8 +1676,8 @@ extraction_summary:
 - [[PNG]]
 - [[Personal Productivity Systems]]
 - [[PowerShell]]
-- [[Recycle Bin]]
-- [[Regular Expressions]]
+- [[Recycle-Bin|Recycle Bin]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[SHA-256]]
 - [[URL]]
 - [[VBScript]]

@@ -762,7 +762,7 @@ extraction_summary:
 - [[Personal Knowledge Management System Design]]
 - [[Promises]]
 - [[QuickAdd]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[Relative Paths]]
 - [[Research]]
 - [[Safe Mode]]
@@ -898,7 +898,7 @@ extraction_summary:
 | 101 | [[Custom JS]] | — | — | 🔗 Related Topics for PKB Expansion | 2798 |
 | 102 | [[Natural Language Dates]] | — | — | 🔗 Related Topics for PKB Expansion | 2798 |
 | 103 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 2799 |
-| 104 | [[Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 2799 |
+| 104 | [[Regular-Expressions|Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 2799 |
 | 105 | [[Async/Await]] | — | — | 🔗 Related Topics for PKB Expansion | 2799 |
 | 106 | [[Promises]] | — | — | 🔗 Related Topics for PKB Expansion | 2799 |
 | 107 | [[Date Objects]] | — | — | 🔗 Related Topics for PKB Expansion | 2799 |
@@ -2802,7 +2802,7 @@ Let me execute targeted searches:
 - [[Personal Knowledge Management System Design]]
 - [[Promises]]
 - [[QuickAdd]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[Relative Paths]]
 - [[Research]]
 - [[Safe Mode]]

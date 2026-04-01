@@ -523,7 +523,7 @@ extraction_summary:
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project]]
 - [[Project A]]
-- [[Project Alpha]]
+- [[Project-Alpha|Project Alpha]]
 - [[Project B]]
 - [[Project C]]
 - [[Project Management]]
@@ -582,7 +582,7 @@ extraction_summary:
 | 38 | [[Implicit Fields]] | — | — | ✅ Task Counting | 624 |
 | 39 | [[Metadata]] | — | — | 8. 🌐 Cross-Page Data Access | 708 |
 | 40 | [[wiki-links]] | — | — | 8. 🌐 Cross-Page Data Access | 708 |
-| 41 | [[Project Alpha]] | — | — | 📎 Basic Link Field Access | 713 |
+| 41 | [[Project-Alpha|Project Alpha]] | — | — | 📎 Basic Link Field Access | 713 |
 | 42 | [[Book Note]] | — | — | 📎 Basic Link Field Access | 714 |
 | 43 | [[Reference]] | — | — | 📎 Basic Link Field Access | 715 |
 | 44 | [[Related-Note|Related Note]] | — | — | 📎 Basic Link Field Access | 716 |
@@ -1276,7 +1276,7 @@ LIMIT 15
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project]]
 - [[Project A]]
-- [[Project Alpha]]
+- [[Project-Alpha|Project Alpha]]
 - [[Project B]]
 - [[Project C]]
 - [[Project Management]]

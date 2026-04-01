@@ -23,21 +23,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[CLT-as-a-Dynamic-Load-Optimization-Problem]]"
   - "[[Cognitive-Load-Theory]]"
   - "[[Element-Interactivity]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Guidance-Fading-Principle]]"
   - "[[Intrinsic-Cognitive-Load]]"
   - "[[Schema-Automation]]"
+  - "[[Split-Attention-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learning-CTML-is-the-most-systema
 
 > [!definition] **Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learning-CTML-is-the-most-systema**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
 - [[Cognitive-Load-Theory]]
 - [[Element-Interactivity]]

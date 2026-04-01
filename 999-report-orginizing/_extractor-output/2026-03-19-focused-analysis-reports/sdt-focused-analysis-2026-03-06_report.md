@@ -522,14 +522,14 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Understanding
 
-#### 68. [TOPIC-IDEA] [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] *(Line 637)*
+#### 68. [TOPIC-IDEA] [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] *(Line 637)*
 
-> [!topic-idea] [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
+> [!topic-idea] [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
 > This analysis repeatedly flagged the need thwarting / need deprivation asymmetry as one of the most theoretically significant and practically underappreciated findings in contemporary SDT research. A dedicated focused analysis would examine: the specific instructional behaviors most associated with each form of need thwarting (autonomy thwarting via conditional regard and surveillance; competence thwarting via impossible standards and social comparison; relatedness thwarting via exclusion and indifference); the distinct psychological consequences of each form (controlled motivation, amotivation, ill-being, reactance); and the intervention implications that follow from treating thwarting as the primary target rather than satisfaction-maximization. Priority: **high** — the most direct extension of this analysis.
 
-#### 69. [TOPIC-IDEA] [[Autonomy Support in Digital and AI-Mediated Learning Environments]] *(Line 640)*
+#### 69. [TOPIC-IDEA] [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]] *(Line 640)*
 
-> [!topic-idea] [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
+> [!topic-idea] [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]]
 > The emergence of adaptive learning systems, AI tutors, gamified platforms, and learning analytics creates new terrain for SDT's principles. Does algorithmic personalization of challenge satisfy the competence need, or does it undermine autonomy by removing learner agency from challenge selection? Does learning analytics monitoring constitute surveillance (autonomy thwarting) or informational feedback (competence satisfying)? Does the absence of a teacher presence create a relatedness vacuum, or can virtual community features substitute? A focused analysis would examine how each of the three need mechanisms operates in digital environments, identify the specific design affordances and risks, and propose SDT-consistent design principles for technology-mediated learning. Priority: **high** — immediate practical relevance.
 
 #### 70. [TOPIC-IDEA] [[SDT and Formative Assessment: Feedback as Informational or Controlling]] *(Line 643)*
@@ -562,7 +562,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
+- [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]]
 - [[Avi-Assor|Avi Assor]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Conditional-Regard|Conditional regard]]
@@ -575,7 +575,7 @@ extraction_summary:
 - [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
 - [[Intrinsic-Motivation|Intrinsic motivation]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
+- [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
 - [[Need-deprivation|Need deprivation]]
 - [[Need-Thwarting|Need thwarting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -616,8 +616,8 @@ extraction_summary:
 | 20 | [[Expectancy-Value-Theory|Expectancy-Value Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 545 |
 | 21 | [[Gamification-in-Learning|Gamification in Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 547 |
 | 22 | [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] | — | — | Phase VII: PKB Connections & Cross-Re... | 551 |
-| 23 | [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] | — | — | D. Expansion Topics | 637 |
-| 24 | [[Autonomy Support in Digital and AI-Mediated Learning Environments]] | — | — | D. Expansion Topics | 640 |
+| 23 | [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] | — | — | D. Expansion Topics | 637 |
+| 24 | [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]] | — | — | D. Expansion Topics | 640 |
 | 25 | [[SDT and Formative Assessment: Feedback as Informational or Controlling]] | — | — | D. Expansion Topics | 643 |
 | 26 | [[Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]] | — | — | D. Expansion Topics | 646 |
 | 27 | [[SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]] | — | — | D. Expansion Topics | 649 |
@@ -633,7 +633,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
+- [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]]
 - [[Avi-Assor|Avi Assor]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Conditional-Regard|Conditional regard]]
@@ -646,7 +646,7 @@ extraction_summary:
 - [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
 - [[Intrinsic-Motivation|Intrinsic motivation]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
+- [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
 - [[Need-deprivation|Need deprivation]]
 - [[Need-Thwarting|Need thwarting]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
@@ -718,7 +718,7 @@ extraction_summary:
 
 #### Enables
 
-- [[Designing Autonomy-Supportive Learning Environments]]
+- [[Designing-Autonomy-Supportive-Learning-Environments|Designing Autonomy-Supportive Learning Environments]]
 - [[Motivational Interviewing in Educational Contexts]]
 - [[Need-Supportive Assessment Practices]]
 

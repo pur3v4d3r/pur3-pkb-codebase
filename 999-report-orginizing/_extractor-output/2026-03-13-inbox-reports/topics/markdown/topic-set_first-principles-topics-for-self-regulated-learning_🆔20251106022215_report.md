@@ -159,7 +159,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman Self-Regulated Learning Model]]
 - [[Cognitive-Load|cognitive load]]
-- [[domain knowledge]]
+- [[Domain-Knowledge|domain knowledge]]
 - [[implicit learning]]
 - [[procedural fluency]]
 - [[Procedural-Memory|procedural memory]]
@@ -175,7 +175,7 @@ extraction_summary:
 | 5 | [[Cognitive-Load|cognitive load]] | — | — | First-Principles Topics for Self-Regu... | 55 |
 | 6 | [[Habit-Formation|Habit Formation]] | — | — | First-Principles Topics for Self-Regu... | 55 |
 | 7 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 68 |
-| 8 | [[domain knowledge]] | — | — | First-Principles Topics for Self-Regu... | 68 |
+| 8 | [[Domain-Knowledge|domain knowledge]] | — | — | First-Principles Topics for Self-Regu... | 68 |
 | 9 | [[procedural fluency]] | — | — | First-Principles Topics for Self-Regu... | 68 |
 | 10 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 81 |
 | 11 | [[Procedural-Memory|procedural memory]] | — | — | First-Principles Topics for Self-Regu... | 81 |
@@ -277,7 +277,7 @@ Topic 4: Deconstruct what "self" means in self-regulated learning
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman Self-Regulated Learning Model]]
 - [[Cognitive-Load|cognitive load]]
-- [[domain knowledge]]
+- [[Domain-Knowledge|domain knowledge]]
 - [[implicit learning]]
 - [[procedural fluency]]
 - [[Procedural-Memory|procedural memory]]

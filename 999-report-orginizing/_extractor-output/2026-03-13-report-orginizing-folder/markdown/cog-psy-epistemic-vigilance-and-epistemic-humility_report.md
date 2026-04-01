@@ -127,7 +127,7 @@ extraction_summary:
 - [[Argumentative Theory of Reasoning]]
 - [[Availability-Heuristic|Availability Heuristic]]
 - [[Basic Epistemology]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Calibrated Probability Judgment and Forecasting Accuracy]]
 - [[Cognitive Bias Fundamentals]]
 - [[Cognitive-Science|Cognitive Science]]
@@ -183,7 +183,7 @@ extraction_summary:
 | 17 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | Enrichment: Evidence, Mechanisms, and... | 77 |
 | 18 | [[Critical-Thinking|Critical Thinking]] | — | — | Enrichment: Evidence, Mechanisms, and... | 79 |
 | 19 | [[Theory of Mind]] | — | — | Integration: Connections, Application... | 87 |
-| 20 | [[Bayesian Reasoning]] | — | — | Integration: Connections, Application... | 87 |
+| 20 | [[Bayesian-Reasoning|Bayesian Reasoning]] | — | — | Integration: Connections, Application... | 87 |
 | 21 | [[Evolutionary Psychology]] | — | — | Integration: Connections, Application... | 87 |
 | 22 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Integration: Connections, Application... | 112 |
 | 23 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Foundational Architecture | 129 |
@@ -230,7 +230,7 @@ extraction_summary:
 - [[Argumentative Theory of Reasoning]]
 - [[Availability-Heuristic|Availability Heuristic]]
 - [[Basic Epistemology]]
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Calibrated Probability Judgment and Forecasting Accuracy]]
 - [[Cognitive Bias Fundamentals]]
 - [[Cognitive-Science|Cognitive Science]]

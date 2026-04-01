@@ -118,8 +118,8 @@ extraction_summary:
   - ## 📊 Metadata & Attribution
   - ## 🔗 Related Topics for PKB Expansion
     - ### Core Extensions
-      - #### 1. **[[FastMCP Development Guide]]**
-      - #### 2. **[[MCP Security Hardening]]**
+      - #### 1. **[[FastMCP-Development-Guide|FastMCP Development Guide]]**
+      - #### 2. **[[MCP-Security-Hardening|MCP Security Hardening]]**
     - ### Cross-Domain Connections
       - #### 3. **[[AI-Augmented Zettelkasten]]**
       - #### 4. **[[Prompt Engineering Version Control]]**
@@ -808,7 +808,7 @@ extraction_summary:
 > 
 > - **[[Unix-Philosophy|Unix Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
 > - **[[API-Design-Patterns|API Design Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
-> - **[[Knowledge Graph Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
+> - **[[Knowledge-Graph-Theory|Knowledge Graph Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
 
 #### 58. [APPLICATION-CONTEXT] Untitled *(Line 979)*
@@ -846,12 +846,12 @@ extraction_summary:
 > [!atomic-candidates] Untitled
 > **Concepts Warranting Extraction**
 > 
-> - [[MCP Tools]] — Deep dive on tool primitive
-> - [[MCP Resources]] — Resource types and patterns
-> - [[MCP Prompts]] — Prompt template design
+> - [[MCP-Tools|MCP Tools]] — Deep dive on tool primitive
+> - [[MCP-Resources|MCP Resources]] — Resource types and patterns
+> - [[MCP-Prompts|MCP Prompts]] — Prompt template design
 > - [[FastMCP]] — Python framework reference
-> - [[MCP Security Best Practices]] — Security-focused atomic note
-> - [[Obsidian MCP Integration]] — Detailed setup guide
+> - [[MCP-Security-Best-Practices|MCP Security Best Practices]] — Security-focused atomic note
+> - [[Obsidian-MCP-Integration|Obsidian MCP Integration]] — Detailed setup guide
 
 #### 61. [SYNTHESIS-OPPORTUNITIES] Untitled *(Line 1019)*
 
@@ -860,7 +860,7 @@ extraction_summary:
 > 
 > - **MCP × [[Zettelkasten]]**: AI-assisted atomic note creation and linking
 > - **MCP × [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]**: Automated review scheduling through PKB queries
-> - **MCP × [[PARA Method]]**: AI-driven project/area classification
+> - **MCP × [[PARA-Method|PARA Method]]**: AI-driven project/area classification
 > - **MCP × [[Cognitive-Load-Theory|Cognitive Load Theory]]**: Reducing integration overhead preserves cognitive resources
 
 #### 62. [METHODOLOGY-AND-SOURCES] Untitled *(Line 1031)*
@@ -1221,7 +1221,7 @@ extraction_summary:
 - [[AI-PKB-Integration|AI-PKB Integration]]
 - [[API-Design-Patterns|API Design Patterns]]
 - [[API-Fundamentals|API Fundamentals]]
-- [[Async Programming]]
+- [[Async-Programming|Async Programming]]
 - [[Claude-Code|Claude Code]]
 - [[Claude-Code-Workflows|Claude Code Workflows]]
 - [[Claude-Desktop|Claude Desktop]]
@@ -1233,10 +1233,10 @@ extraction_summary:
 - [[Custom-MCP-Server-Development|Custom MCP Server Development]]
 - [[Dataview]]
 - [[DevOps Practices]]
-- [[Docker Fundamentals]]
+- [[Docker-Fundamentals|Docker Fundamentals]]
 - [[Enterprise MCP Governance]]
 - [[FastMCP]]
-- [[FastMCP Development Guide]]
+- [[FastMCP-Development-Guide|FastMCP Development Guide]]
 - [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Git Fundamentals]]
 - [[HTTP/2 and SSE]]
@@ -1244,26 +1244,26 @@ extraction_summary:
 - [[IT Governance Frameworks]]
 - [[JSON-RPC]]
 - [[JSON-RPC Protocol]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[LSP]]
 - [[Local LLM Integration]]
 - [[Local LLMs]]
 - [[MCP Architecture]]
-- [[MCP Prompts]]
+- [[MCP-Prompts|MCP Prompts]]
 - [[MCP Resource URI]]
-- [[MCP Resources]]
+- [[MCP-Resources|MCP Resources]]
 - [[MCP Security]]
-- [[MCP Security Best Practices]]
-- [[MCP Security Hardening]]
+- [[MCP-Security-Best-Practices|MCP Security Best Practices]]
+- [[MCP-Security-Hardening|MCP Security Hardening]]
 - [[MCP-Servers|MCP Servers]]
-- [[MCP Tools]]
+- [[MCP-Tools|MCP Tools]]
 - [[MCP Transport Layer Internals]]
 - [[Network Security Basics]]
 - [[Node.js]]
 - [[Obsidian]]
 - [[Obsidian-Automation|Obsidian Automation]]
-- [[Obsidian MCP Integration]]
-- [[PARA Method]]
+- [[Obsidian-MCP-Integration|Obsidian MCP Integration]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Basics]]
@@ -1271,7 +1271,7 @@ extraction_summary:
 - [[Prompt-Library-Management|Prompt Library Management]]
 - [[Prompt Library Schema]]
 - [[Prompt Versioning]]
-- [[Python Fundamentals]]
+- [[Python-Fundamentals|Python Fundamentals]]
 - [[Second Brain]]
 - [[Second Brain Architecture]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
@@ -1309,7 +1309,7 @@ extraction_summary:
 | 22 | [[Templater]] | — | — | Advanced Integration Patterns | 591 |
 | 23 | [[Unix-Philosophy|Unix Philosophy]] | — | — | 🎯 Synthesis & Mastery | 974 |
 | 24 | [[API-Design-Patterns|API Design Patterns]] | — | — | 🎯 Synthesis & Mastery | 975 |
-| 25 | [[Knowledge Graph Theory]] | — | — | 🎯 Synthesis & Mastery | 976 |
+| 25 | [[Knowledge-Graph-Theory|Knowledge Graph Theory]] | — | — | 🎯 Synthesis & Mastery | 976 |
 | 26 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Synthesis & Mastery | 977 |
 | 27 | [[Claude-Code|Claude Code]] | — | — | 🔗 PKB Integration | 1002 |
 | 28 | [[Obsidian]] | — | — | 🔗 PKB Integration | 1003 |
@@ -1317,22 +1317,22 @@ extraction_summary:
 | 30 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | 🔗 PKB Integration | 1005 |
 | 31 | [[JSON-RPC]] | — | — | 🔗 PKB Integration | 1006 |
 | 32 | [[API-Design-Patterns|API Design Patterns]] | — | — | 🔗 PKB Integration | 1007 |
-| 33 | [[MCP Tools]] | — | — | 🔗 PKB Integration | 1012 |
-| 34 | [[MCP Resources]] | — | — | 🔗 PKB Integration | 1013 |
-| 35 | [[MCP Prompts]] | — | — | 🔗 PKB Integration | 1014 |
+| 33 | [[MCP-Tools|MCP Tools]] | — | — | 🔗 PKB Integration | 1012 |
+| 34 | [[MCP-Resources|MCP Resources]] | — | — | 🔗 PKB Integration | 1013 |
+| 35 | [[MCP-Prompts|MCP Prompts]] | — | — | 🔗 PKB Integration | 1014 |
 | 36 | [[FastMCP]] | — | — | 🔗 PKB Integration | 1015 |
-| 37 | [[MCP Security Best Practices]] | — | — | 🔗 PKB Integration | 1016 |
-| 38 | [[Obsidian MCP Integration]] | — | — | 🔗 PKB Integration | 1017 |
+| 37 | [[MCP-Security-Best-Practices|MCP Security Best Practices]] | — | — | 🔗 PKB Integration | 1016 |
+| 38 | [[Obsidian-MCP-Integration|Obsidian MCP Integration]] | — | — | 🔗 PKB Integration | 1017 |
 | 39 | [[Zettelkasten]] | — | — | 🔗 PKB Integration | 1022 |
 | 40 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🔗 PKB Integration | 1023 |
-| 41 | [[PARA Method]] | — | — | 🔗 PKB Integration | 1024 |
+| 41 | [[PARA-Method|PARA Method]] | — | — | 🔗 PKB Integration | 1024 |
 | 42 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 PKB Integration | 1025 |
-| 43 | [[FastMCP Development Guide]] | — | — | 1. **[[FastMCP Development Guide]]** | 1066 |
-| 44 | [[Python Fundamentals]] | — | — | 1. **[[FastMCP Development Guide]]** | 1071 |
-| 45 | [[Async Programming]] | — | — | 1. **[[FastMCP Development Guide]]** | 1071 |
-| 46 | [[MCP Security Hardening]] | — | — | 2. **[[MCP Security Hardening]]** | 1073 |
-| 47 | [[Docker Fundamentals]] | — | — | 2. **[[MCP Security Hardening]]** | 1078 |
-| 48 | [[Network Security Basics]] | — | — | 2. **[[MCP Security Hardening]]** | 1078 |
+| 43 | [[FastMCP-Development-Guide|FastMCP Development Guide]] | — | — | 1. **[[FastMCP-Development-Guide|FastMCP Development Guide]]** | 1066 |
+| 44 | [[Python-Fundamentals|Python Fundamentals]] | — | — | 1. **[[FastMCP-Development-Guide|FastMCP Development Guide]]** | 1071 |
+| 45 | [[Async-Programming|Async Programming]] | — | — | 1. **[[FastMCP-Development-Guide|FastMCP Development Guide]]** | 1071 |
+| 46 | [[MCP-Security-Hardening|MCP Security Hardening]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1073 |
+| 47 | [[Docker-Fundamentals|Docker Fundamentals]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1078 |
+| 48 | [[Network Security Basics]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1078 |
 | 49 | [[AI-Augmented Zettelkasten]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1082 |
 | 50 | [[Zettelkasten]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
 | 51 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
@@ -2382,7 +2382,7 @@ graph LR
 - [[AI-PKB-Integration|AI-PKB Integration]]
 - [[API-Design-Patterns|API Design Patterns]]
 - [[API-Fundamentals|API Fundamentals]]
-- [[Async Programming]]
+- [[Async-Programming|Async Programming]]
 - [[Claude-Code|Claude Code]]
 - [[Claude-Code-Workflows|Claude Code Workflows]]
 - [[Claude-Desktop|Claude Desktop]]
@@ -2394,10 +2394,10 @@ graph LR
 - [[Custom-MCP-Server-Development|Custom MCP Server Development]]
 - [[Dataview]]
 - [[DevOps Practices]]
-- [[Docker Fundamentals]]
+- [[Docker-Fundamentals|Docker Fundamentals]]
 - [[Enterprise MCP Governance]]
 - [[FastMCP]]
-- [[FastMCP Development Guide]]
+- [[FastMCP-Development-Guide|FastMCP Development Guide]]
 - [[Gemini-Code-Assist|Gemini Code Assist]]
 - [[Git Fundamentals]]
 - [[HTTP/2 and SSE]]
@@ -2405,26 +2405,26 @@ graph LR
 - [[IT Governance Frameworks]]
 - [[JSON-RPC]]
 - [[JSON-RPC Protocol]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[LSP]]
 - [[Local LLM Integration]]
 - [[Local LLMs]]
 - [[MCP Architecture]]
-- [[MCP Prompts]]
+- [[MCP-Prompts|MCP Prompts]]
 - [[MCP Resource URI]]
-- [[MCP Resources]]
+- [[MCP-Resources|MCP Resources]]
 - [[MCP Security]]
-- [[MCP Security Best Practices]]
-- [[MCP Security Hardening]]
+- [[MCP-Security-Best-Practices|MCP Security Best Practices]]
+- [[MCP-Security-Hardening|MCP Security Hardening]]
 - [[MCP-Servers|MCP Servers]]
-- [[MCP Tools]]
+- [[MCP-Tools|MCP Tools]]
 - [[MCP Transport Layer Internals]]
 - [[Network Security Basics]]
 - [[Node.js]]
 - [[Obsidian]]
 - [[Obsidian-Automation|Obsidian Automation]]
-- [[Obsidian MCP Integration]]
-- [[PARA Method]]
+- [[Obsidian-MCP-Integration|Obsidian MCP Integration]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Engineering Basics]]
@@ -2432,7 +2432,7 @@ graph LR
 - [[Prompt-Library-Management|Prompt Library Management]]
 - [[Prompt Library Schema]]
 - [[Prompt Versioning]]
-- [[Python Fundamentals]]
+- [[Python-Fundamentals|Python Fundamentals]]
 - [[Second Brain]]
 - [[Second Brain Architecture]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]

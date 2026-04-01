@@ -619,7 +619,7 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > **Integration with Cognitive Frameworks**  
-> - [[First Principles]] → enables deconstruction of automation needs  
+> - [[First-Principles-What-Is-Knowledge|First Principles]] → enables deconstruction of automation needs  
 > - [[Systems Thinking]] → maps interdependencies between tools  
 > - [[Second-Order Effects]] → anticipates ripple effects of automation  
 > - [[Constraint Theory]] → identifies bottlenecks in scripting workflows  
@@ -695,7 +695,7 @@ extraction_summary:
 
 > [!mental-model-anchor] Scripting Platforms
 > **Primary Model Anchors**:  
-> - [[First Principles]] — [Break down automation needs to core functions]  
+> - [[First-Principles-What-Is-Knowledge|First Principles]] — [Break down automation needs to core functions]  
 > - [[Inversion]] — [What breaks if scripting is misapplied?]  
 > - [[Systems Thinking]] — [Map interdependencies between platforms and tasks]
 
@@ -747,7 +747,7 @@ extraction_summary:
 - [[Dataview]]
 - [[DevOps]]
 - [[Education]]
-- [[First Principles]]
+- [[First-Principles-What-Is-Knowledge|First Principles]]
 - [[Future of Scripting: Emerging Trends]]
 - [[Gemini]]
 - [[Gemini-Code-Assist|Gemini Code Assist]]
@@ -889,7 +889,7 @@ extraction_summary:
 | 89 | [[Historical Development of Scripting Languages]] | — | — | 🔗 Related Topics for PKB Expansion | 1135 |
 | 90 | [[Common Scripting Misconceptions]] | — | — | 🔗 Related Topics for PKB Expansion | 1137 |
 | 91 | [[Future of Scripting: Emerging Trends]] | — | — | 🔗 Related Topics for PKB Expansion | 1138 |
-| 92 | [[First Principles]] | — | — | Section 1: PKB Integration | 1144 |
+| 92 | [[First-Principles-What-Is-Knowledge|First Principles]] | — | — | Section 1: PKB Integration | 1144 |
 | 93 | [[Systems Thinking]] | — | — | Section 1: PKB Integration | 1145 |
 | 94 | [[Second-Order Effects]] | — | — | Section 1: PKB Integration | 1146 |
 | 95 | [[Constraint Theory]] | — | — | Section 1: PKB Integration | 1147 |
@@ -901,7 +901,7 @@ extraction_summary:
 | 101 | [[Scripting Platforms]] | — | — | Section 2: Synthesis & Reflection | 1210 |
 | 102 | [[Data Science]] | — | — | Section 2: Synthesis & Reflection | 1211 |
 | 103 | [[DevOps]] | — | — | Section 2: Synthesis & Reflection | 1211 |
-| 104 | [[First Principles]] | — | — | Section 2: Synthesis & Reflection | 1242 |
+| 104 | [[First-Principles-What-Is-Knowledge|First Principles]] | — | — | Section 2: Synthesis & Reflection | 1242 |
 | 105 | [[Inversion]] | — | — | Section 2: Synthesis & Reflection | 1243 |
 | 106 | [[Systems Thinking]] | — | — | Section 2: Synthesis & Reflection | 1244 |
 | 107 | [[DevOps]] | — | — | Section 2: Synthesis & Reflection | 1247 |
@@ -1459,7 +1459,7 @@ description includes Review
 - [[Dataview]]
 - [[DevOps]]
 - [[Education]]
-- [[First Principles]]
+- [[First-Principles-What-Is-Knowledge|First Principles]]
 - [[Future of Scripting: Emerging Trends]]
 - [[Gemini]]
 - [[Gemini-Code-Assist|Gemini Code Assist]]

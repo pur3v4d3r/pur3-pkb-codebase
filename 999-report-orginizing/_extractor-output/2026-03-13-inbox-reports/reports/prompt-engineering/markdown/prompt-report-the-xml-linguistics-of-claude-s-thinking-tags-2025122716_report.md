@@ -528,7 +528,7 @@ extraction_summary:
 **]]
 - [[Advanced Prompt Engineering Architectures]]
 - [[Chain-of-Thought|Chain of Thought]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Chain of Verification Implementations]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in AI Interaction]]
@@ -536,7 +536,7 @@ extraction_summary:
 - [[Cross-Model Prompt Portability Strategies]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Distributed Cognition in Human-AI Systems]]
-- [[Few-Shot Prompting]]
+- [[Few-Shot-Prompting|Few-Shot Prompting]]
 - [[Formal Grammars for Prompt Engineering]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Structured Outputs]]
@@ -556,8 +556,8 @@ extraction_summary:
 | 6 | [[Chain-of-Thought|Chain of Thought]] | — | — | **Function Class 2: Reasoning Phase M... | 358 |
 | 7 | [[Structured Outputs]] | — | — | **Function Class 5: Data Structuring** | 463 |
 | 8 | [[Chain-of-Thought|Chain of Thought]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 506 |
-| 9 | [[Chain of Verification]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 511 |
-| 10 | [[Few-Shot Prompting]] | — | — | **Pattern 3: The Multi-Shot Example C... | 1175 |
+| 9 | [[Chain-of-Verification|Chain of Verification]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 511 |
+| 10 | [[Few-Shot-Prompting|Few-Shot Prompting]] | — | — | **Pattern 3: The Multi-Shot Example C... | 1175 |
 | 11 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | 7.2 Future Directions | 1318 |
 | 12 | [[Advanced Prompt Engineering Architectures]] | — | — | 🔗 Related Topics for PKB Expansion | 1365 |
 | 13 | [[Cognitive Load Theory in AI Interaction]] | — | — | 🔗 Related Topics for PKB Expansion | 1371 |
@@ -1523,7 +1523,7 @@ description includes Review
 | `<synthesis>` | Combining insights | Activates integration processes |
 | `<evaluation>` | Critical assessment | Engages evaluation criteria |
 | `<alternatives>` | Divergent thinking | Broadens search space |
-| `<verification>` | Fact-checking mode | Activates [[Chain of Verification]] |
+| `<verification>` | Fact-checking mode | Activates [[Chain-of-Verification|Chain of Verification]] |
 | `<example>` | Concrete instantiation | Grounds abstract concepts |
 | `<counter_example>` | Falsification testing | Searches for edge cases |
 
@@ -1566,7 +1566,7 @@ description includes Review
 **]]
 - [[Advanced Prompt Engineering Architectures]]
 - [[Chain-of-Thought|Chain of Thought]]
-- [[Chain of Verification]]
+- [[Chain-of-Verification|Chain of Verification]]
 - [[Chain of Verification Implementations]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in AI Interaction]]
@@ -1574,7 +1574,7 @@ description includes Review
 - [[Cross-Model Prompt Portability Strategies]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Distributed Cognition in Human-AI Systems]]
-- [[Few-Shot Prompting]]
+- [[Few-Shot-Prompting|Few-Shot Prompting]]
 - [[Formal Grammars for Prompt Engineering]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Structured Outputs]]

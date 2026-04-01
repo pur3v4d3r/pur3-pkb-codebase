@@ -521,8 +521,8 @@ extraction_summary:
 - [[Conditional-Regard|Conditional Regard]]
 - [[Cross-Cultural Validity of Basic Psychological Needs]]
 - [[Deci et al.'s 1999 meta-analysis]]
-- [[Edward L. Deci]]
-- [[Effectance Motivation]]
+- [[Edward-L.-Deci|Edward L. Deci]]
+- [[Effectance-Motivation|Effectance Motivation]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Geoffrey Williams]]
@@ -559,7 +559,7 @@ extraction_summary:
 - [[Reeve|Reeve (2009)]]
 - [[Relatedness]]
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
-- [[Richard M. Ryan]]
+- [[Richard-M.-Ryan|Richard M. Ryan]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Richard deCharms]]
 - [[Robert W. White]]
@@ -579,8 +579,8 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Edward L. Deci]] | — | — | Phase I: Orientation & Context Setting | 265 |
-| 2 | [[Richard M. Ryan]] | — | — | Phase I: Orientation & Context Setting | 267 |
+| 1 | [[Edward-L.-Deci|Edward L. Deci]] | — | — | Phase I: Orientation & Context Setting | 265 |
+| 2 | [[Richard-M.-Ryan|Richard M. Ryan]] | — | — | Phase I: Orientation & Context Setting | 267 |
 | 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Context Setting | 267 |
 | 4 | [[Basic-Psychological-Needs|Basic Psychological Needs]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 5 | [[Autonomy]] | — | — | Phase I: Orientation & Context Setting | 269 |
@@ -599,7 +599,7 @@ extraction_summary:
 | 18 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Why This Theory Matters for the PKB | 282 |
 | 19 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Intellectual Genealogy of SDT | 290 |
 | 20 | [[Robert W. White]] | — | — | The Intellectual Genealogy of SDT | 292 |
-| 21 | [[Effectance Motivation]] | — | — | The Intellectual Genealogy of SDT | 292 |
+| 21 | [[Effectance-Motivation|Effectance Motivation]] | — | — | The Intellectual Genealogy of SDT | 292 |
 | 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Intellectual Genealogy of SDT | 292 |
 | 23 | [[Carl-Rogers|Carl Rogers]] | — | — | The Intellectual Genealogy of SDT | 294 |
 | 24 | [[Abraham-Maslow|Abraham Maslow]] | — | — | The Intellectual Genealogy of SDT | 294 |
@@ -718,8 +718,8 @@ extraction_summary:
 - [[Conditional-Regard|Conditional Regard]]
 - [[Cross-Cultural Validity of Basic Psychological Needs]]
 - [[Deci et al.'s 1999 meta-analysis]]
-- [[Edward L. Deci]]
-- [[Effectance Motivation]]
+- [[Edward-L.-Deci|Edward L. Deci]]
+- [[Effectance-Motivation|Effectance Motivation]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Geoffrey Williams]]
@@ -756,7 +756,7 @@ extraction_summary:
 - [[Reeve|Reeve (2009)]]
 - [[Relatedness]]
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
-- [[Richard M. Ryan]]
+- [[Richard-M.-Ryan|Richard M. Ryan]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Richard deCharms]]
 - [[Robert W. White]]

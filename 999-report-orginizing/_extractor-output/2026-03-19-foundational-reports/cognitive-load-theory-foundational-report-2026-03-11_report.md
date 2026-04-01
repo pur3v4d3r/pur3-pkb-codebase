@@ -476,7 +476,7 @@ extraction_summary:
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
-- [[Completion Problem Effect]]
+- [[Completion-Problem-Effect|Completion Problem Effect]]
 - [[Daniel-Schwartz|Daniel Schwartz]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Element-Interactivity|Element Interactivity]]
@@ -507,7 +507,7 @@ extraction_summary:
 - [[Worked-Examples|Worked Examples]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Architecture — Multi-Component Models]]
-- [[e-Learning Design]]
+- [[e-Learning-Design|e-Learning Design]]
 
 ### All Occurrences
 
@@ -563,14 +563,14 @@ extraction_summary:
 | 48 | [[Automaticity]] | — | — | The Schema Formation Cycle | 401 |
 | 49 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Schema Formation Cycle | 401 |
 | 50 | [[Worked-Examples|Worked Examples]] | — | — | The Schema Formation Cycle | 404 |
-| 51 | [[Completion Problem Effect]] | Completion problems | — | The Fading Principle and Completion P... | 408 |
+| 51 | [[Completion-Problem-Effect|Completion Problem Effect]] | Completion problems | — | The Fading Principle and Completion P... | 408 |
 | 52 | [[Adaptive-Instruction|Adaptive Instruction]] | — | — | The Fading Principle and Completion P... | 411 |
 | 53 | [[Modality-Effect|Modality Effect]] | — | — | The Modality Effect: Working Memory a... | 424 |
 | 54 | [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] | — | — | The Modality Effect: Working Memory a... | 424 |
 | 55 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | CLT-Based Instructional Design in Pra... | 442 |
 | 56 | [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] | — | — | CLT-Based Instructional Design in Pra... | 449 |
 | 57 | [[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]] | — | — | CLT-Based Instructional Design in Pra... | 449 |
-| 58 | [[e-Learning Design]] | — | — | CLT-Based Instructional Design in Pra... | 451 |
+| 58 | [[e-Learning-Design|e-Learning Design]] | — | — | CLT-Based Instructional Design in Pra... | 451 |
 | 59 | [[Multimedia-Learning|Multimedia Learning]] | — | — | CLT-Based Instructional Design in Pra... | 451 |
 | 60 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Measurement Challenge | 455 |
 | 61 | [[Fred-Paas|Fred Paas]] | — | — | The Measurement Challenge | 455 |
@@ -617,7 +617,7 @@ extraction_summary:
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]
-- [[Completion Problem Effect]]
+- [[Completion-Problem-Effect|Completion Problem Effect]]
 - [[Daniel-Schwartz|Daniel Schwartz]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Element-Interactivity|Element Interactivity]]
@@ -648,7 +648,7 @@ extraction_summary:
 - [[Worked-Examples|Worked Examples]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Architecture — Multi-Component Models]]
-- [[e-Learning Design]]
+- [[e-Learning-Design|e-Learning Design]]
 
 ### Frontmatter Relationships
 
@@ -703,7 +703,7 @@ extraction_summary:
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Medical Education]]
 - [[STEM Education]]
-- [[e-Learning Design]]
+- [[e-Learning-Design|e-Learning Design]]
 - [[Complex Skill Training]]
 
 #### Builds On

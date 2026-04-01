@@ -329,7 +329,7 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Dashboard]]
 - [[Dataview]]
-- [[DataviewJS Advanced Patterns]]
+- [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]]
 - [[Dataviewjs Query Snippets]]
 - [[Facetted Classification]]
 - [[Hierarchical Taxonomy]]
@@ -398,7 +398,7 @@ extraction_summary:
 | 38 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 847 |
 | 39 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 848 |
 | 40 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 851 |
-| 41 | [[DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 855 |
+| 41 | [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 855 |
 | 42 | [[Metadata Schema Design]] | — | — | 🔗 Related Topics for PKB Expansion | 860 |
 | 43 | [[Obsidian Query Optimization]] | — | — | 🔗 Related Topics for PKB Expansion | 865 |
 | 44 | [[YAML Frontmatter Best Practices]] | — | — | 🔗 Related Topics for PKB Expansion | 870 |
@@ -1062,7 +1062,7 @@ for (let letter of sortedLetters) {
 - [[Cognitive-Science|Cognitive Science]]
 - [[Dashboard]]
 - [[Dataview]]
-- [[DataviewJS Advanced Patterns]]
+- [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]]
 - [[Dataviewjs Query Snippets]]
 - [[Facetted Classification]]
 - [[Hierarchical Taxonomy]]

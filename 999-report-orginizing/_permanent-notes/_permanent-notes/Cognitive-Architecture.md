@@ -24,21 +24,21 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 14
+referenced-by-count: 19
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
+  - "[[Context-Regulation]]"
   - "[[Counterexample-Search]]"
   - "[[Early-Selection]]"
   - "[[Figure-Effect]]"
@@ -47,7 +47,7 @@ see-also:
   - "[[Mental-Image]]"
   - "[[Mental-Simulation]]"
   - "[[Model-Multiplicity]]"
-  - "[[Phase-vs.-Area-—-A-Critical-Distinction]]"
+  - "[[Motivational-Regulation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,13 @@ importance: medium
 # Cognitive-Architecture
 
 > [!definition] **Cognitive-Architecture**
-> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 14 permanent notes.*
+*Auto-generated stub — referenced by 19 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Context-Regulation]]
 - [[Counterexample-Search]]
 - [[Early-Selection]]
 - [[Figure-Effect]]
@@ -75,8 +75,13 @@ importance: medium
 - [[Mental-Image]]
 - [[Mental-Simulation]]
 - [[Model-Multiplicity]]
+- [[Motivational-Regulation]]
+- [[Phase-vs.-Area-A-Critical-Distinction]]
 - [[Phase-vs.-Area-—-A-Critical-Distinction]]
+- [[Pintrich's-44-Matrix]]
 - [[Pintrich's-4×4-Matrix]]
 - [[Principle-of-Truth]]
+- [[Regulatory-Reflexivity-Problem]]
 - [[Synthetic-Model]]
+- [[The-Regulatory-Reflexivity-Problem-A-Novel-Framing]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]

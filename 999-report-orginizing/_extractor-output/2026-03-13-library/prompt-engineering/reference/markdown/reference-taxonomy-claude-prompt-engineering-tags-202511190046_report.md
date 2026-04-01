@@ -412,7 +412,7 @@ extraction_summary:
 - [[Open Source LLMs]]
 - [[Output Format Control]]
 - [[Output Validation]]
-- [[PKB Architecture]]
+- [[PKB-Architecture|PKB Architecture]]
 - [[PKM System Hub]]
 - [[Persona Pattern]]
 - [[Production Deployment]]
@@ -497,7 +497,7 @@ extraction_summary:
 | 48 | [[Prompt Engineering Hub]] | — | — | Phase 1: Foundation | 1630 |
 | 49 | [[Tag Taxonomy - Prompt Engineering]] | — | — | Phase 1: Foundation | 1631 |
 | 50 | [[Master Tag Taxonomy]] | — | — | Upstream (Foundation) | 1667 |
-| 51 | [[PKB Architecture]] | — | — | Upstream (Foundation) | 1668 |
+| 51 | [[PKB-Architecture|PKB Architecture]] | — | — | Upstream (Foundation) | 1668 |
 | 52 | [[Cognitive Abilities MOC]] | — | — | Upstream (Foundation) | 1669 |
 | 53 | [[Programming & Software Engineering MOC]] | — | — | Parallel Domains | 1672 |
 | 54 | [[Writing & Communication MOC]] | — | — | Parallel Domains | 1673 |
@@ -1803,7 +1803,7 @@ I need to create:
 - [[Open Source LLMs]]
 - [[Output Format Control]]
 - [[Output Validation]]
-- [[PKB Architecture]]
+- [[PKB-Architecture|PKB Architecture]]
 - [[PKM System Hub]]
 - [[Persona Pattern]]
 - [[Production Deployment]]

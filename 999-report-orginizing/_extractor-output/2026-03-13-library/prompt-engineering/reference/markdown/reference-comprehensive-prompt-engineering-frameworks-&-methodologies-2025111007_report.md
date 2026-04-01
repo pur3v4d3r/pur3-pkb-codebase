@@ -613,7 +613,7 @@ extraction_summary:
 - [[Human-Machine Communication]]
 - [[Hybrid Prompting]]
 - [[Information-Architecture|Information Architecture]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Instruction Following]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[LLM]]
@@ -689,7 +689,7 @@ extraction_summary:
 | 18 | [[AI systems]] | — | — | The Genesis of Structured Prompting | 69 |
 | 19 | [[Cognitive-Science|Cognitive Science]] | — | — | The Genesis of Structured Prompting | 71 |
 | 20 | [[Linguistics]] | — | — | The Genesis of Structured Prompting | 71 |
-| 21 | [[Information Theory]] | — | — | The Genesis of Structured Prompting | 71 |
+| 21 | [[Information-Theory|Information Theory]] | — | — | The Genesis of Structured Prompting | 71 |
 | 22 | [[Semantic Precision]] | — | — | The Genesis of Structured Prompting | 71 |
 | 23 | [[Context Windowing]] | — | — | The Genesis of Structured Prompting | 71 |
 | 24 | [[Instruction Following]] | — | — | The Genesis of Structured Prompting | 71 |
@@ -1075,7 +1075,7 @@ $$
 - [[Human-Machine Communication]]
 - [[Hybrid Prompting]]
 - [[Information-Architecture|Information Architecture]]
-- [[Information Theory]]
+- [[Information-Theory|Information Theory]]
 - [[Instruction Following]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[LLM]]

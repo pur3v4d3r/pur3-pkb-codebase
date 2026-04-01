@@ -146,7 +146,7 @@ extraction_summary:
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 20)*
 
 > [!the-philosophy] Untitled
-> We are living through the most dramatic expansion of accessible information in human history. A knowledge worker in 2026 is exposed, in a single day, to what a Renaissance scholar might have encountered across a decade of concentrated study. Yet the biological hardware processing that deluge—the roughly $1.4$ kilograms of neural tissue comprising the [[prefrontal cortex]], [[Hippocampus]], and associated cortical networks—has not meaningfully changed in ten thousand years. This radical asymmetry between the external information environment and internal cognitive capacity is the foundational problem that [[Personal-Knowledge-Management|Personal Knowledge Management]] attempts to address.
+> We are living through the most dramatic expansion of accessible information in human history. A knowledge worker in 2026 is exposed, in a single day, to what a Renaissance scholar might have encountered across a decade of concentrated study. Yet the biological hardware processing that deluge—the roughly $1.4$ kilograms of neural tissue comprising the [[prefrontal-cortex|prefrontal cortex]], [[Hippocampus]], and associated cortical networks—has not meaningfully changed in ten thousand years. This radical asymmetry between the external information environment and internal cognitive capacity is the foundational problem that [[Personal-Knowledge-Management|Personal Knowledge Management]] attempts to address.
 
 #### 3. [KEY-CLAIM] Untitled *(Line 27)*
 
@@ -156,7 +156,7 @@ extraction_summary:
 #### 4. [CORE-PRINCIPLE] Untitled *(Line 36)*
 
 > [!core-principle] Untitled
-> The cognitive science of PKM habit formation stands at the convergence of two intellectual traditions that developed largely in parallel for more than a century before beginning their productive synthesis. The first is the tradition of personal knowledge organization, traceable through scholars and polymaths who developed systematic methods for managing information before digital tools made such methods broadly accessible. The second is the scientific study of habit formation, rooted in the behavioral and neural sciences and now deeply grounded in the neurobiology of the [[basal ganglia]] and the [[dopaminergic reward system]]. Understanding how these traditions converge is essential for grasping why their integration represents a genuine conceptual advance rather than mere interdisciplinary decoration.
+> The cognitive science of PKM habit formation stands at the convergence of two intellectual traditions that developed largely in parallel for more than a century before beginning their productive synthesis. The first is the tradition of personal knowledge organization, traceable through scholars and polymaths who developed systematic methods for managing information before digital tools made such methods broadly accessible. The second is the scientific study of habit formation, rooted in the behavioral and neural sciences and now deeply grounded in the neurobiology of the [[Basal-Ganglia|basal ganglia]] and the [[dopaminergic reward system]]. Understanding how these traditions converge is essential for grasping why their integration represents a genuine conceptual advance rather than mere interdisciplinary decoration.
 
 #### 5. [QUOTE] Untitled *(Line 45)*
 
@@ -247,7 +247,7 @@ extraction_summary:
 #### 21. [CONNECTIONS-AND-LINKS] Untitled *(Line 219)*
 
 > [!connections-and-links] Untitled
-> **Core connections within the knowledge base:** This exposition connects to [[William James's Habit Theory]] (the foundational behavioral insight that automated practice frees the mind for higher work), [[John Dewey's Reflective Thinking]] (the daily PKM review cycle as structured reflective inquiry), [[Dual-Process-Theory|Dual Process Theory]] (the System 1/System 2 architecture governing the automation imperative), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the working memory constraints that PKM systems address through cognitive offloading), [[Metacognitive Awareness Inventory]] (the dimensions of metacognitive knowledge and regulation that PKM reviews exercise), [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] (the empirically validated retrieval strategy that addresses the forgetting curve within PKM systems), and [[Self-Determination-Theory|Self-Determination Theory]] (the motivational framework governing the sustainability of PKM practice). Secondary connections include [[Zettelkasten Method]], [[PENCRISAL Critical Thinking Assessment]], [[Second Brain Methodology]], and [[Knowledge Graph Architecture]].
+> **Core connections within the knowledge base:** This exposition connects to [[William James's Habit Theory]] (the foundational behavioral insight that automated practice frees the mind for higher work), [[John Dewey's Reflective Thinking]] (the daily PKM review cycle as structured reflective inquiry), [[Dual-Process-Theory|Dual Process Theory]] (the System 1/System 2 architecture governing the automation imperative), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the working memory constraints that PKM systems address through cognitive offloading), [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] (the dimensions of metacognitive knowledge and regulation that PKM reviews exercise), [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] (the empirically validated retrieval strategy that addresses the forgetting curve within PKM systems), and [[Self-Determination-Theory|Self-Determination Theory]] (the motivational framework governing the sustainability of PKM practice). Secondary connections include [[Zettelkasten Method]], [[PENCRISAL Critical Thinking Assessment]], [[Second Brain Methodology]], and [[Knowledge Graph Architecture]].
 
 #### 22. [FURTHER-EXPLORATION] Untitled *(Line 222)*
 
@@ -366,7 +366,7 @@ extraction_summary:
 - [[MAPK]]
 - [[Mem.ai]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[NMDA receptor]]
 - [[Nick Milo]]
@@ -401,7 +401,7 @@ extraction_summary:
 - [[adaptive PKM systems]]
 - [[associative memory]]
 - [[Autonomy]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[Communities-of-Practice|communities of practice]]
 - [[Competence]]
@@ -414,7 +414,7 @@ extraction_summary:
 - [[Dual-Process-Theory|dual process theory]]
 - [[Embodied-Cognition|embodied cognition]]
 - [[Executive-Function|executive function]]
-- [[flow states]]
+- [[flow-states|flow states]]
 - [[Forgetting-Curve|forgetting curve]]
 - [[forgetting curve modeling]]
 - [[habit clusters]]
@@ -432,7 +432,7 @@ extraction_summary:
 - [[neurofeedback]]
 - [[organizational knowledge management]]
 - [[pattern recognition]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Relatedness]]
 - [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]]
 - [[routine installation]]
@@ -441,7 +441,7 @@ extraction_summary:
 - [[social cognitive theory]]
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
 - [[spaced repetition research]]
-- [[striatum]]
+- [[Striatum]]
 - [[system reviews]]
 - [[temporal chunking]]
 - [[Testing-Effect|testing effect]]
@@ -460,7 +460,7 @@ extraction_summary:
 | 5 | [[spaced repetition research]] | — | — | 🧠 The Cognitive Science of PKM Habit ... | 12 |
 | 6 | [[metacognitive science]] | — | — | 🧠 The Cognitive Science of PKM Habit ... | 12 |
 | 7 | [[Self-Determination-Theory|self-determination theory]] | — | — | 🧠 The Cognitive Science of PKM Habit ... | 12 |
-| 8 | [[prefrontal cortex]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
+| 8 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 9 | [[Hippocampus]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 21 |
 | 11 | [[John-Sweller|John Sweller]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 23 |
@@ -470,7 +470,7 @@ extraction_summary:
 | 15 | [[knowledge workers]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 30 |
 | 16 | [[Niklas Luhmann]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 30 |
 | 17 | [[Zettelkasten]] | — | — | 🌐 Phase 1: Introduction & Context — T... | 30 |
-| 18 | [[basal ganglia]] | — | — | 📜 Phase 2: Historical Foundations — P... | 37 |
+| 18 | [[Basal-Ganglia|basal ganglia]] | — | — | 📜 Phase 2: Historical Foundations — P... | 37 |
 | 19 | [[dopaminergic reward system]] | — | — | 📜 Phase 2: Historical Foundations — P... | 37 |
 | 20 | [[Francis-Bacon|Francis Bacon]] | — | — | The Knowledge Management Tradition | 41 |
 | 21 | [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] | — | — | The Knowledge Management Tradition | 41 |
@@ -499,13 +499,13 @@ extraction_summary:
 | 44 | [[B.F. Skinner]] | — | — | The Habit Science Tradition | 54 |
 | 45 | [[social cognitive theory]] | — | — | The Habit Science Tradition | 54 |
 | 46 | [[Albert-Bandura|Albert Bandura]] | — | — | The Habit Science Tradition | 54 |
-| 47 | [[basal ganglia]] | — | — | The Habit Science Tradition | 56 |
-| 48 | [[striatum]] | — | — | The Habit Science Tradition | 56 |
-| 49 | [[prefrontal cortex]] | — | — | The Habit Science Tradition | 56 |
+| 47 | [[Basal-Ganglia|basal ganglia]] | — | — | The Habit Science Tradition | 56 |
+| 48 | [[Striatum]] | — | — | The Habit Science Tradition | 56 |
+| 49 | [[prefrontal-cortex|prefrontal cortex]] | — | — | The Habit Science Tradition | 56 |
 | 50 | [[Henry Yin]] | — | — | The Habit Science Tradition | 56 |
 | 51 | [[Barbara Knowlton]] | — | — | The Habit Science Tradition | 56 |
 | 52 | [[Habit-Loop|habit loop]] | — | — | The Habit Science Tradition | 56 |
-| 53 | [[prefrontal cortex]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
+| 53 | [[prefrontal-cortex|prefrontal cortex]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 54 | [[dorsolateral prefrontal cortex]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 55 | [[dorsolateral striatum]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 56 | [[Long-term potentiation]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
@@ -552,7 +552,7 @@ extraction_summary:
 | 97 | [[Metacognition]] | — | — | The Role of Metacognition in Sustaini... | 169 |
 | 98 | [[Metacognitive-Monitoring|metacognitive monitoring]] | — | — | The Role of Metacognition in Sustaini... | 169 |
 | 99 | [[system reviews]] | — | — | The Role of Metacognition in Sustaini... | 169 |
-| 100 | [[Metacognitive Awareness Inventory]] | — | — | The Role of Metacognition in Sustaini... | 171 |
+| 100 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | The Role of Metacognition in Sustaini... | 171 |
 | 101 | [[Metacognition]] | — | — | The Role of Metacognition in Sustaini... | 174 |
 | 102 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Role of Metacognition in Sustaini... | 174 |
 | 103 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Role of Metacognition in Sustaini... | 174 |
@@ -567,7 +567,7 @@ extraction_summary:
 | 112 | [[knowledge tracing]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 196 |
 | 113 | [[forgetting curve modeling]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 196 |
 | 114 | [[PKM system design]] | — | — | AI-Augmented PKM and Adaptive Retrieval | 196 |
-| 115 | [[flow states]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
+| 115 | [[flow-states|flow states]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
 | 116 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
 | 117 | [[theta wave]] | — | — | Neurofeedback and Flow State Optimiza... | 200 |
 | 118 | [[neurofeedback]] | — | — | Neurofeedback and Flow State Optimiza... | 202 |
@@ -579,7 +579,7 @@ extraction_summary:
 | 124 | [[John Dewey's Reflective Thinking]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 125 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 126 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
-| 127 | [[Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
+| 127 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 128 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 129 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 130 | [[Zettelkasten Method]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
@@ -687,7 +687,7 @@ $$
 - [[MAPK]]
 - [[Mem.ai]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[NMDA receptor]]
 - [[Nick Milo]]
@@ -722,7 +722,7 @@ $$
 - [[adaptive PKM systems]]
 - [[associative memory]]
 - [[Autonomy]]
-- [[basal ganglia]]
+- [[Basal-Ganglia|basal ganglia]]
 - [[Cognitive-Load-Theory|cognitive load theory]]
 - [[Communities-of-Practice|communities of practice]]
 - [[Competence]]
@@ -735,7 +735,7 @@ $$
 - [[Dual-Process-Theory|dual process theory]]
 - [[Embodied-Cognition|embodied cognition]]
 - [[Executive-Function|executive function]]
-- [[flow states]]
+- [[flow-states|flow states]]
 - [[Forgetting-Curve|forgetting curve]]
 - [[forgetting curve modeling]]
 - [[habit clusters]]
@@ -753,7 +753,7 @@ $$
 - [[neurofeedback]]
 - [[organizational knowledge management]]
 - [[pattern recognition]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[Relatedness]]
 - [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]]
 - [[routine installation]]
@@ -762,7 +762,7 @@ $$
 - [[social cognitive theory]]
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
 - [[spaced repetition research]]
-- [[striatum]]
+- [[Striatum]]
 - [[system reviews]]
 - [[temporal chunking]]
 - [[Testing-Effect|testing effect]]

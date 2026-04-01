@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Personal Knowledge Management"
+title: "Personal-Knowledge-Management"
 aliases:
-  - "Personal Knowledge Management"
+  - "Personal-Knowledge-Management"
 type: permanent-note
 status: seedling
 confidence: low
@@ -16,15 +16,15 @@ tags:
   - permanent-note
   - seedling
   - concept-stub
-  - learning-science
+  - other
 
-domain: learning-science
+domain: other
 
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,9 +37,9 @@ referenced-by-count: 3
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
+  - "[[Core-Concept-Definition]]"
   - "[[Literature-Review]]"
-  - "[[_Master-Definition-Index|_Master-Definition-Index]]"
-  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
+  - "[[Self-Determination-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -49,15 +49,15 @@ mastery-stage: seedling
 importance: low
 ---
 
-# Personal Knowledge Management
+# Personal-Knowledge-Management
 
-> [!definition] **Personal Knowledge Management**
+> [!definition] **Personal-Knowledge-Management**
 > *Stub note — concept referenced by 3 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 *Auto-generated stub — referenced by 3 permanent notes.*
 
 ## Referenced By
 
+- [[Core-Concept-Definition]]
 - [[Literature-Review]]
-- [[_Master-Definition-Index|_Master-Definition-Index]]
-- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
+- [[Self-Determination-Theory]]

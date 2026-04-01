@@ -354,17 +354,17 @@ extraction_summary:
 #### 45. [CONNECTION-IDEAS] 🔗 Expansion Topic 1: Expertise and Tacit Knowledge (Priority: High) *(Line 499)*
 
 > [!connection-ideas] 🔗 Expansion Topic 1: Expertise and Tacit Knowledge (Priority: High)
-> **Description:** Deep exploration of how practical wisdom is encoded in tacit, hard-to-articulate knowledge structures — extending [[Michael-Polanyi|Michael Polanyi]]'s "we know more than we can tell" to professional and practical domains. Addresses the acquisition, representation, and limits of tacit knowledge, including [[Harry Collins]]'s taxonomy of expertise and [[Dreyfus]]'s skill acquisition model. Connects directly to the RPD model's account of pattern-library development and to the series' developmental staging model.
+> **Description:** Deep exploration of how practical wisdom is encoded in tacit, hard-to-articulate knowledge structures — extending [[Michael-Polanyi|Michael Polanyi]]'s "we know more than we can tell" to professional and practical domains. Addresses the acquisition, representation, and limits of tacit knowledge, including [[Harry-Collins|Harry Collins]]'s taxonomy of expertise and [[Dreyfus]]'s skill acquisition model. Connects directly to the RPD model's account of pattern-library development and to the series' developmental staging model.
 
 #### 46. [CONNECTION-IDEAS] 🔗 Expansion Topic 2: Moral Perception in Professional Ethics (Priority: High) *(Line 502)*
 
 > [!connection-ideas] 🔗 Expansion Topic 2: Moral Perception in Professional Ethics (Priority: High)
-> **Description:** How phronesis manifests in professional contexts — the moral perceptions required of physicians deciding when rules of evidence-based medicine should yield to the clinical judgment that "this particular patient is different," teachers navigating the space between curriculum requirements and the needs of individual students, lawyers navigating the space between legal strategy and moral obligation. Draws on [[Pellegrino]] and [[Thomasma]]'s medical ethics, [[Nel Noddings]]'s ethics of care, and [[Schwartz & Sharpe]]'s practical wisdom in professional life.
+> **Description:** How phronesis manifests in professional contexts — the moral perceptions required of physicians deciding when rules of evidence-based medicine should yield to the clinical judgment that "this particular patient is different," teachers navigating the space between curriculum requirements and the needs of individual students, lawyers navigating the space between legal strategy and moral obligation. Draws on [[Pellegrino]] and [[Thomasma]]'s medical ethics, [[Nel-Noddings|Nel Noddings]]'s ethics of care, and [[Schwartz-&-Sharpe|Schwartz & Sharpe]]'s practical wisdom in professional life.
 
 #### 47. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: Robust Decision Making Under Deep Uncertainty (Priority: High) *(Line 505)*
 
 > [!connection-ideas] 🔗 Expansion Topic 3: Robust Decision Making Under Deep Uncertainty (Priority: High)
-> **Description:** Methodologies for navigating Knightian uncertainty: [[scenario planning]] (Wack, Schoemaker), [[robust satisficing]] (Ben-Haim's info-gap decision theory), [[Nassim Taleb]]'s [[antifragility]] and [[via negativa]] approaches, [[Ralf Stacey]]'s complexity model for organizational decision-making. Provides practical tools for implementing this report's theoretical framework in high-stakes personal and professional decisions.
+> **Description:** Methodologies for navigating Knightian uncertainty: [[scenario-planning|scenario planning]] (Wack, Schoemaker), [[robust-satisficing|robust satisficing]] (Ben-Haim's info-gap decision theory), [[Nassim-Taleb|Nassim Taleb]]'s [[antifragility]] and [[via negativa]] approaches, [[Ralf Stacey]]'s complexity model for organizational decision-making. Provides practical tools for implementing this report's theoretical framework in high-stakes personal and professional decisions.
 
 #### 48. [CONNECTION-IDEAS] 🔗 Expansion Topic 4: The Deliberation-Action Transition (Priority: Medium) *(Line 508)*
 
@@ -408,8 +408,8 @@ extraction_summary:
 - [[Frank-Knight|Frank Knight]]
 - [[Gary-Klein|Gary Klein]]
 - [[Gerd-Gigerenzer|Gerd Gigerenzer]]
-- [[Harry Collins]]
-- [[Herbert Simon]]
+- [[Harry-Collins|Harry Collins]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[hormê]]
 - [[John-Kay|John Kay]]
 - [[Kathêkon]]
@@ -418,16 +418,16 @@ extraction_summary:
 - [[Merleau-Ponty]]
 - [[Mervyn-King|Mervyn King]]
 - [[Michael-Polanyi|Michael Polanyi]]
-- [[Nassim Taleb]]
+- [[Nassim-Taleb|Nassim Taleb]]
 - [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
-- [[Nel Noddings]]
+- [[Nel-Noddings|Nel Noddings]]
 - [[Nicomachean-Ethics|Nicomachean Ethics]]
 - [[Pellegrino]]
 - [[Phantasia]]
 - [[Ralf Stacey]]
 - [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]
 - [[Satisficing]]
-- [[Schwartz & Sharpe]]
+- [[Schwartz-&-Sharpe|Schwartz & Sharpe]]
 - [[Simon's]]
 - [[Synkatathesis]]
 - [[Thomasma]]
@@ -439,8 +439,8 @@ extraction_summary:
 - [[intention]]
 - [[Kathekon]]
 - [[Phronesis]]
-- [[robust satisficing]]
-- [[scenario planning]]
+- [[robust-satisficing|robust satisficing]]
+- [[scenario-planning|scenario planning]]
 - [[theoretical-wisdom|theoretical wisdom]]
 - [[via negativa]]
 - [[will]]
@@ -474,7 +474,7 @@ extraction_summary:
 | 23 | [[Simon's]] | — | — | Gary Klein's Naturalistic Decision Ma... | 229 |
 | 24 | [[Gerd-Gigerenzer|Gerd Gigerenzer]] | — | — | Gigerenzer's Ecological Rationality: ... | 233 |
 | 25 | [[Ecological-Rationality|Ecological Rationality]] | ecological rationality | — | Gigerenzer's Ecological Rationality: ... | 233 |
-| 26 | [[Herbert Simon]] | — | — | Gigerenzer's Ecological Rationality: ... | 243 |
+| 26 | [[Herbert-Simon|Herbert Simon]] | — | — | Gigerenzer's Ecological Rationality: ... | 243 |
 | 27 | [[Satisficing]] | satisficing | — | Gigerenzer's Ecological Rationality: ... | 243 |
 | 28 | [[Artinger]] | — | — | Gigerenzer's Ecological Rationality: ... | 243 |
 | 29 | [[Phantasia]] | phantasia | — | The Stoic Theory of Action: Kathekon ... | 247 |
@@ -491,15 +491,15 @@ extraction_summary:
 | 40 | [[Epictetus]] | — | — | The Second Tension: Fallibilism and t... | 311 |
 | 41 | [[Dichotomy-of-Control|Dichotomy of Control]] | dichotomy of control | — | The Second Tension: Fallibilism and t... | 311 |
 | 42 | [[Michael-Polanyi|Michael Polanyi]] | — | — | PKB Expansion Topics | 500 |
-| 43 | [[Harry Collins]] | — | — | PKB Expansion Topics | 500 |
+| 43 | [[Harry-Collins|Harry Collins]] | — | — | PKB Expansion Topics | 500 |
 | 44 | [[Dreyfus]] | — | — | PKB Expansion Topics | 500 |
 | 45 | [[Pellegrino]] | — | — | PKB Expansion Topics | 503 |
 | 46 | [[Thomasma]] | — | — | PKB Expansion Topics | 503 |
-| 47 | [[Nel Noddings]] | — | — | PKB Expansion Topics | 503 |
-| 48 | [[Schwartz & Sharpe]] | — | — | PKB Expansion Topics | 503 |
-| 49 | [[scenario planning]] | — | — | PKB Expansion Topics | 506 |
-| 50 | [[robust satisficing]] | — | — | PKB Expansion Topics | 506 |
-| 51 | [[Nassim Taleb]] | — | — | PKB Expansion Topics | 506 |
+| 47 | [[Nel-Noddings|Nel Noddings]] | — | — | PKB Expansion Topics | 503 |
+| 48 | [[Schwartz-&-Sharpe|Schwartz & Sharpe]] | — | — | PKB Expansion Topics | 503 |
+| 49 | [[scenario-planning|scenario planning]] | — | — | PKB Expansion Topics | 506 |
+| 50 | [[robust-satisficing|robust satisficing]] | — | — | PKB Expansion Topics | 506 |
+| 51 | [[Nassim-Taleb|Nassim Taleb]] | — | — | PKB Expansion Topics | 506 |
 | 52 | [[antifragility]] | — | — | PKB Expansion Topics | 506 |
 | 53 | [[via negativa]] | — | — | PKB Expansion Topics | 506 |
 | 54 | [[Ralf Stacey]] | — | — | PKB Expansion Topics | 506 |
@@ -547,8 +547,8 @@ extraction_summary:
 - [[Frank-Knight|Frank Knight]]
 - [[Gary-Klein|Gary Klein]]
 - [[Gerd-Gigerenzer|Gerd Gigerenzer]]
-- [[Harry Collins]]
-- [[Herbert Simon]]
+- [[Harry-Collins|Harry Collins]]
+- [[Herbert-Simon|Herbert Simon]]
 - [[hormê]]
 - [[John-Kay|John Kay]]
 - [[Kathêkon]]
@@ -557,16 +557,16 @@ extraction_summary:
 - [[Merleau-Ponty]]
 - [[Mervyn-King|Mervyn King]]
 - [[Michael-Polanyi|Michael Polanyi]]
-- [[Nassim Taleb]]
+- [[Nassim-Taleb|Nassim Taleb]]
 - [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
-- [[Nel Noddings]]
+- [[Nel-Noddings|Nel Noddings]]
 - [[Nicomachean-Ethics|Nicomachean Ethics]]
 - [[Pellegrino]]
 - [[Phantasia]]
 - [[Ralf Stacey]]
 - [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]
 - [[Satisficing]]
-- [[Schwartz & Sharpe]]
+- [[Schwartz-&-Sharpe|Schwartz & Sharpe]]
 - [[Simon's]]
 - [[Synkatathesis]]
 - [[Thomasma]]
@@ -578,8 +578,8 @@ extraction_summary:
 - [[intention]]
 - [[Kathekon]]
 - [[Phronesis]]
-- [[robust satisficing]]
-- [[scenario planning]]
+- [[robust-satisficing|robust satisficing]]
+- [[scenario-planning|scenario planning]]
 - [[theoretical-wisdom|theoretical wisdom]]
 - [[via negativa]]
 - [[will]]

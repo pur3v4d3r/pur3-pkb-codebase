@@ -248,7 +248,7 @@ extraction_summary:
 #### 4. [ABSTRACT] Overview and Scope *(Line 356)*
 
 > [!abstract] Overview and Scope
-> This comprehensive reference note synthesizes the empirical evidence for [**Mindfulness-Based-Cognitive-Training-Efficacy**:: the demonstrated capacity of systematic mindfulness meditation practices to produce measurable improvements in executive function domains, specifically inhibitory control, working memory capacity, and salience network regulation, as established through meta-analytic evidence from over 200 randomized controlled trials encompassing more than 12,000 participants]. The evidence reveals small-to-moderate but practically significant cognitive enhancements, with effect sizes ranging from g=0.15 to g=0.42 depending on the specific executive function subdomain and intervention characteristics. The neural mechanisms involve functional connectivity changes in the [[Default Mode Network]], [[Salience Network]], and [[Central Executive Network]], alongside structural neuroplasticity in key regions including the [[Anterior Cingulate Cortex]], [[Prefrontal Cortex]], and [[Posterior Cingulate Cortex]]. This document provides a definitive, evidence-based synthesis suitable for researchers, clinicians, and cognitive enhancement practitioners seeking authoritative knowledge on mindfulness meditation as cognitive training.
+> This comprehensive reference note synthesizes the empirical evidence for [**Mindfulness-Based-Cognitive-Training-Efficacy**:: the demonstrated capacity of systematic mindfulness meditation practices to produce measurable improvements in executive function domains, specifically inhibitory control, working memory capacity, and salience network regulation, as established through meta-analytic evidence from over 200 randomized controlled trials encompassing more than 12,000 participants]. The evidence reveals small-to-moderate but practically significant cognitive enhancements, with effect sizes ranging from g=0.15 to g=0.42 depending on the specific executive function subdomain and intervention characteristics. The neural mechanisms involve functional connectivity changes in the [[Default Mode Network]], [[Salience Network]], and [[Central Executive Network]], alongside structural neuroplasticity in key regions including the [[Anterior Cingulate Cortex]], [[prefrontal-cortex|Prefrontal Cortex]], and [[Posterior Cingulate Cortex]]. This document provides a definitive, evidence-based synthesis suitable for researchers, clinicians, and cognitive enhancement practitioners seeking authoritative knowledge on mindfulness meditation as cognitive training.
 
 #### 5. [THE-PHILOSOPHY] The Mechanistic Logic of Mindfulness as Cognitive Training *(Line 367)*
 
@@ -635,7 +635,7 @@ extraction_summary:
 - [[Phonological-Loop|Phonological Loop]]
 - [[Picard]]
 - [[Posterior Cingulate Cortex]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Research Domain Criteria]]
 - [[Richard Davidson]]
 - [[STRONG Project]]
@@ -654,7 +654,7 @@ extraction_summary:
 - [[Transdiagnostic Mechanisms]]
 - [[Triple Network Model]]
 - [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
-- [[Wisconsin Card Sorting Task]]
+- [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Training Literature]]
 - [[Yi-Yuan Tang]]
@@ -676,7 +676,7 @@ extraction_summary:
 | 8 | [[Salience Network]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
 | 9 | [[Central Executive Network]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
 | 10 | [[Anterior Cingulate Cortex]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
-| 11 | [[Prefrontal Cortex]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
+| 11 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
 | 12 | [[Posterior Cingulate Cortex]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
 | 13 | [[Miyake]] | — | — | 🧠 Theoretical Foundations: Executive ... | 361 |
 | 14 | [[Stroop Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 361 |
@@ -690,7 +690,7 @@ extraction_summary:
 | 22 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
 | 23 | [[Set Shifting]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 24 | [[Task Switching]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
-| 25 | [[Wisconsin Card Sorting Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
+| 25 | [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 26 | [[Trail Making Test Part B]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 27 | [[Mindfulness Meditation]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
 | 28 | [[Selective-Attention|Selective Attention]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
@@ -1508,7 +1508,7 @@ for (let letter of sortedLetters) {
 - [[Phonological-Loop|Phonological Loop]]
 - [[Picard]]
 - [[Posterior Cingulate Cortex]]
-- [[Prefrontal Cortex]]
+- [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Research Domain Criteria]]
 - [[Richard Davidson]]
 - [[STRONG Project]]
@@ -1527,7 +1527,7 @@ for (let letter of sortedLetters) {
 - [[Transdiagnostic Mechanisms]]
 - [[Triple Network Model]]
 - [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
-- [[Wisconsin Card Sorting Task]]
+- [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Training Literature]]
 - [[Yi-Yuan Tang]]

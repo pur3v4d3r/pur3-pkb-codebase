@@ -239,7 +239,7 @@ extraction_summary:
 #### 4. [DEFINITION] Untitled *(Line 52)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[CLAUDE]]
+> - **Key-Term**:: [[Claude]]
 > - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional-AI|Constitutional AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
 
 #### 5. [KEY-CLAIM] Untitled *(Line 66)*
@@ -490,7 +490,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[CLAUDE]]
+- [[Claude]]
 - [[AI capabilities]]
 - [[Advanced Prompting Techniques]]
 - [[Advanced XML Architectures for Complex Workflows]]
@@ -514,7 +514,7 @@ extraction_summary:
 - [[Constitutional AI training process]]
 - [[Creative Writing]]
 - [[Ethical Frameworks for AI Interaction Design]]
-- [[Ethical Reasoning]]
+- [[Ethical-Reasoning|Ethical Reasoning]]
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Few-Shot Learning - Pattern Recognition in LLMs]]
 - [[In-Context Learning]]
@@ -556,7 +556,7 @@ extraction_summary:
 | 3 | [[Claude Prompt Engineering]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 4 | [[Claude AI Reference]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 5 | [[wiki-links]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 35 |
-| 6 | [[CLAUDE]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 53 |
+| 6 | [[Claude]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 53 |
 | 7 | [[Anthropic]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
 | 8 | [[Constitutional-AI|Constitutional AI]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
 | 9 | [[Reinforcement Learning from Human Feedback]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
@@ -571,7 +571,7 @@ extraction_summary:
 | 18 | [[Creative Writing]] | — | — | Core Capabilities Matrix | 78 |
 | 19 | [[Mathematical Reasoning]] | — | — | Core Capabilities Matrix | 79 |
 | 20 | [[Instruction Following]] | — | — | Core Capabilities Matrix | 80 |
-| 21 | [[Ethical Reasoning]] | — | — | Core Capabilities Matrix | 81 |
+| 21 | [[Ethical-Reasoning|Ethical Reasoning]] | — | — | Core Capabilities Matrix | 81 |
 | 22 | [[sliding attention window]] | — | — | Technical Specifications | 87 |
 | 23 | [[positional encoding]] | — | — | Technical Specifications | 87 |
 | 24 | [[byte-pair encoding]] | — | — | Technical Specifications | 89 |
@@ -2786,7 +2786,7 @@ QUERY 4 RATIONALE: Need information on Claude's XML tag preferences and why they
 | [[Creative Writing]] | Advanced | Stylistic versatility, narrative coherence | Content creation, ideation, worldbuilding |
 | [[Mathematical Reasoning]] | Advanced | Formal logic, proof construction | Technical analysis, quantitative reasoning |
 | [[Instruction Following]] | Exceptional | Precision with complex, nested instructions | Workflow automation, template execution |
-| [[Ethical Reasoning]] | Superior | Nuanced value alignment | Content moderation, policy analysis, ethical frameworks |
+| [[Ethical-Reasoning|Ethical Reasoning]] | Superior | Nuanced value alignment | Content moderation, policy analysis, ethical frameworks |
 
 ### Table 2 *(Line 194, 6 rows)*
 
@@ -2873,7 +2873,7 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[CLAUDE]]
+- [[Claude]]
 - [[AI capabilities]]
 - [[Advanced Prompting Techniques]]
 - [[Advanced XML Architectures for Complex Workflows]]
@@ -2897,7 +2897,7 @@ graph TD
 - [[Constitutional AI training process]]
 - [[Creative Writing]]
 - [[Ethical Frameworks for AI Interaction Design]]
-- [[Ethical Reasoning]]
+- [[Ethical-Reasoning|Ethical Reasoning]]
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Few-Shot Learning - Pattern Recognition in LLMs]]
 - [[In-Context Learning]]

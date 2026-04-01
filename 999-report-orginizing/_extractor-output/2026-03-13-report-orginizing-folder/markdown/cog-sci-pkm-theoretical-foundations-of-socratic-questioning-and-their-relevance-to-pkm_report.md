@@ -221,7 +221,7 @@ extraction_summary:
 #### 19. [CONNECTIONS-AND-LINKS] Untitled *(Line 151)*
 
 > [!connections-and-links] Untitled
-> The principles developed here connect to several existing knowledge structures within this vault. The relationship between Socratic questioning and [[Metacognitive Awareness Inventory|MAI]] frameworks is direct: both are concerned with monitoring the accuracy and completeness of one's own understanding. The connection to [[Cognitive-Load-Theory|Cognitive Load Theory]] is significant: Socratic questioning, properly scaffolded through template design, can reduce *extraneous* cognitive load (by providing the question structure explicitly) while increasing *germane* cognitive load (the effort devoted to schema construction and genuine understanding). The [[Dual-Process-Theory|Dual Process Theory]] connection—System 1 vs. System 2 thinking—positions Socratic questioning as precisely the kind of System 2 intervention that interrupts automatic, heuristic-driven belief acceptance and recruits deliberate analytical processing. Finally, the connection to [[Dewey]]'s theory of [[Reflective-Inquiry|Reflective Inquiry]] is foundational: Dewey's formulation that genuine thinking arises only from "perplexity, confusion, or doubt" about a genuinely problematic situation is the pragmatist translation of the Socratic insight that aporia precedes understanding.
+> The principles developed here connect to several existing knowledge structures within this vault. The relationship between Socratic questioning and [[Metacognitive-Awareness-Inventory|MAI]] frameworks is direct: both are concerned with monitoring the accuracy and completeness of one's own understanding. The connection to [[Cognitive-Load-Theory|Cognitive Load Theory]] is significant: Socratic questioning, properly scaffolded through template design, can reduce *extraneous* cognitive load (by providing the question structure explicitly) while increasing *germane* cognitive load (the effort devoted to schema construction and genuine understanding). The [[Dual-Process-Theory|Dual Process Theory]] connection—System 1 vs. System 2 thinking—positions Socratic questioning as precisely the kind of System 2 intervention that interrupts automatic, heuristic-driven belief acceptance and recruits deliberate analytical processing. Finally, the connection to [[Dewey]]'s theory of [[Reflective-Inquiry|Reflective Inquiry]] is foundational: Dewey's formulation that genuine thinking arises only from "perplexity, confusion, or doubt" about a genuinely problematic situation is the pragmatist translation of the Socratic insight that aporia precedes understanding.
 
 #### 20. [INSIGHT] Untitled *(Line 164)*
 
@@ -273,7 +273,7 @@ extraction_summary:
 #### 29. [TOPIC-IDEA] Untitled *(Line 203)*
 
 > [!topic-idea] Untitled
-> **[[Paul and Elder's Six Question Types as a Metacognitive Framework]]** — A deep theoretical analysis of the Paul-Elder taxonomy in relation to contemporary metacognitive theory, particularly the [[Metacognitive Awareness Inventory]] (MAI) dimensions of metacognitive knowledge and metacognitive regulation. The connection suggests that systematically practicing the six question types may function as an operationalization of metacognitive regulation skill-building.
+> **[[Paul and Elder's Six Question Types as a Metacognitive Framework]]** — A deep theoretical analysis of the Paul-Elder taxonomy in relation to contemporary metacognitive theory, particularly the [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] (MAI) dimensions of metacognitive knowledge and metacognitive regulation. The connection suggests that systematically practicing the six question types may function as an operationalization of metacognitive regulation skill-building.
 
 #### 30. [TOPIC-IDEA] Untitled *(Line 206)*
 
@@ -376,7 +376,7 @@ extraction_summary:
 - [[Mark McDaniel]]
 - [[Metacognition]]
 - [[Metacognition and Knowledge Management]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
 - [[Opposing Views]]
@@ -462,7 +462,7 @@ extraction_summary:
 | 49 | [[Obsidian]] | — | — | 🌍 Phase 6: Implications & Application... | 142 |
 | 50 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🌍 Phase 6: Implications & Application... | 144 |
 | 51 | [[Metacognition]] | — | — | 🌍 Phase 6: Implications & Application... | 149 |
-| 52 | [[Metacognitive Awareness Inventory]] | MAI | — | 🌍 Phase 6: Implications & Application... | 152 |
+| 52 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | MAI | — | 🌍 Phase 6: Implications & Application... | 152 |
 | 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌍 Phase 6: Implications & Application... | 152 |
 | 54 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🌍 Phase 6: Implications & Application... | 152 |
 | 55 | [[Dewey]] | — | — | 🌍 Phase 6: Implications & Application... | 152 |
@@ -495,7 +495,7 @@ extraction_summary:
 | 82 | [[The Maieutic Dimension of the Zettelkasten — Niklas Luhmann as Socratic Practitioner]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 198 |
 | 83 | [[AI Socratic Partners — Design Principles for LLM-Assisted Knowledge Interrogation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 201 |
 | 84 | [[Paul and Elder's Six Question Types as a Metacognitive Framework]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 204 |
-| 85 | [[Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 204 |
+| 85 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 204 |
 | 86 | [[Intellectual Humility as a PKM Disposition — Measuring and Cultivating the Socratic Stance]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 207 |
 
 ---
@@ -590,7 +590,7 @@ $$
 - [[Mark McDaniel]]
 - [[Metacognition]]
 - [[Metacognition and Knowledge Management]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Niklas Luhmann]]
 - [[Obsidian]]
 - [[Opposing Views]]

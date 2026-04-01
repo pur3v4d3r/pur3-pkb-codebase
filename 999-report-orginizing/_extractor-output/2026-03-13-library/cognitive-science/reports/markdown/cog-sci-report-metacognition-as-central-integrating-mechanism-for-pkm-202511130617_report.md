@@ -468,13 +468,13 @@ extraction_summary:
 - [[Michelene Chi]]
 - [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]]
 - [[Myside-Bias|Myside Bias]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan|Nelson Cowan]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Personal Knowledge Bases]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Peter-Facione|Peter Facione]]
-- [[Philip Winne]]
+- [[Philip-Winne|Philip Winne]]
 - [[Philippe Panadero]]
 - [[Piaget's Cognitive Development Theory]]
 - [[Plato]]
@@ -492,7 +492,7 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[Thomas Nelson]]
 - [[Tiago Forte]]
 - [[Visible Thinking]]
@@ -564,7 +564,7 @@ extraction_summary:
 | 52 | [[John-Sweller|John Sweller]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
 | 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
 | 54 | [[George-Miller|George Miller]] | — | — | Cognitive Load and Metacognitive Reso... | 175 |
-| 55 | [[Nelson Cowan]] | — | — | Cognitive Load and Metacognitive Reso... | 175 |
+| 55 | [[Nelson-Cowan|Nelson Cowan]] | — | — | Cognitive Load and Metacognitive Reso... | 175 |
 | 56 | [[Schemas in Long-Term Memory]] | — | — | Cognitive Load and Metacognitive Reso... | 177 |
 | 57 | [[automation]] | — | — | Cognitive Load and Metacognitive Reso... | 177 |
 | 58 | [[Critical-Thinking|Critical Thinking]] | — | — | 🤔 Metacognition and Critical Thinking... | 189 |
@@ -582,7 +582,7 @@ extraction_summary:
 | 70 | [[Adaptive Expertise]] | — | — | The Cyclical Nature of Self-Regulation | 273 |
 | 71 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Pintrich's Integration of Motivation ... | 280 |
 | 72 | [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Integration of Motivation ... | 282 |
-| 73 | [[Philip Winne]] | — | — | Winne and Hadwin's Information Proces... | 288 |
+| 73 | [[Philip-Winne|Philip Winne]] | — | — | Winne and Hadwin's Information Proces... | 288 |
 | 74 | [[Allyson Hadwin]] | — | — | Winne and Hadwin's Information Proces... | 288 |
 | 75 | [[Implementation-Intentions|Implementation Intentions]] | — | — | From Self-Regulated Learning to Self-... | 299 |
 | 76 | [[Habit-Formation|Habit Formation]] | — | — | From Self-Regulated Learning to Self-... | 301 |
@@ -592,7 +592,7 @@ extraction_summary:
 | 80 | [[Gerhard Büttner]] | — | — | Meta-Analytic Evidence | 353 |
 | 81 | [[Philippe Panadero]] | — | — | Meta-Analytic Evidence | 355 |
 | 82 | [[Diane-Halpern|Diane Halpern]] | — | — | Meta-Analytic Evidence | 357 |
-| 83 | [[Stephen Fleming]] | — | — | Neurobiological Evidence | 363 |
+| 83 | [[Stephen-Fleming|Stephen Fleming]] | — | — | Neurobiological Evidence | 363 |
 | 84 | [[Regina Vollmeyer]] | — | — | Intervention Studies | 369 |
 | 85 | [[Falko Rheinberg]] | — | — | Intervention Studies | 369 |
 | 86 | [[Roger Azevedo]] | — | — | Intervention Studies | 371 |
@@ -773,13 +773,13 @@ This requires the full academic report scaffold:
 - [[Michelene Chi]]
 - [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]]
 - [[Myside-Bias|Myside Bias]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan|Nelson Cowan]]
 - [[Paul-Pintrich|Paul Pintrich]]
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Personal Knowledge Bases]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Peter-Facione|Peter Facione]]
-- [[Philip Winne]]
+- [[Philip-Winne|Philip Winne]]
 - [[Philippe Panadero]]
 - [[Piaget's Cognitive Development Theory]]
 - [[Plato]]
@@ -797,7 +797,7 @@ This requires the full academic report scaffold:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[Thomas Nelson]]
 - [[Tiago Forte]]
 - [[Visible Thinking]]

@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Cognitive-Science"
+title: "cognitive-science"
 aliases:
-  - "Cognitive-Science"
+  - "cognitive-science"
   - "Cognitive Science"
 type: permanent-note
 status: seedling
@@ -24,30 +24,30 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 19
+referenced-by-count: 13
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
-  - "[[CLT-as-a-Dynamic-Load-Optimization-Problem]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Core-Definition-Epistemic-Vigilance]]"
-  - "[[Element-Interactivity]]"
-  - "[[Expertise-Reversal-Effect]]"
-  - "[[Extraneous-Cognitive-Load]]"
-  - "[[Germane-Cognitive-Load]]"
-  - "[[Guidance-Fading-Principle]]"
-  - "[[Intrinsic-Cognitive-Load]]"
+  - "[[Actively-Open-Minded-Thinking]]"
+  - "[[Belief-Bias]]"
+  - "[[Categorical-Syllogism]]"
+  - "[[Deductive-Reasoning]]"
+  - "[[Dual-Process-Theory]]"
+  - "[[Hypothetico-Deductive-Method]]"
+  - "[[Mental-Models]]"
+  - "[[Modus-Ponens]]"
+  - "[[Modus-Tollens]]"
+  - "[[Pragmatic-Reasoning-Schema]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -57,31 +57,25 @@ mastery-stage: seedling
 importance: medium
 ---
 
-# Cognitive-Science
+# cognitive-science
 
-> [!definition] **Cognitive-Science**
-> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **cognitive-science**
+> *Stub note — concept referenced by 13 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 19 permanent notes.*
+*Auto-generated stub — referenced by 13 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
-- [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
-- [[Cognitive-Load-Theory]]
-- [[Core-Definition-Epistemic-Vigilance]]
-- [[Element-Interactivity]]
-- [[Expertise-Reversal-Effect]]
-- [[Extraneous-Cognitive-Load]]
-- [[Germane-Cognitive-Load]]
-- [[Guidance-Fading-Principle]]
-- [[Intrinsic-Cognitive-Load]]
-- [[Maturity-Level-Definitions-&-Criteria]]
-- [[Schema]]
-- [[Schema-Automation]]
-- [[Split-Attention-Effect]]
-- [[Thinking-Tag-Semantics]]
-- [[Toward-an-Expertise-Indexed-Instructional-Design-Principle]]
-- [[Worked-Example-Effect]]
-- [[Working-Memory]]
-- [[Working-Memory-Capacity]]
+- [[Actively-Open-Minded-Thinking]]
+- [[Belief-Bias]]
+- [[Categorical-Syllogism]]
+- [[Deductive-Reasoning]]
+- [[Dual-Process-Theory]]
+- [[Hypothetico-Deductive-Method]]
+- [[Mental-Models]]
+- [[Modus-Ponens]]
+- [[Modus-Tollens]]
+- [[Pragmatic-Reasoning-Schema]]
+- [[Soundness]]
+- [[System-1-System-2]]
+- [[Validity]]

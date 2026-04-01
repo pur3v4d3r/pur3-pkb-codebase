@@ -23,21 +23,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 15
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Abduction]]"
   - "[[Abductive-Competence]]"
   - "[[Abductive-Reasoning]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Inquiry-Based-Learning]]"
   - "[[Manipulative-Abduction]]"
   - "[[Productive-Failure]]"
+  - "[[The-Abductive-Syllogism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: medium
 # abductive-reasoning-foundational-report-2026-03-06
 
 > [!definition] **abductive-reasoning-foundational-report-2026-03-06**
-> *Stub note — concept referenced by 15 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 15 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Abduction]]
 - [[Abductive-Competence]]
 - [[Abductive-Reasoning]]

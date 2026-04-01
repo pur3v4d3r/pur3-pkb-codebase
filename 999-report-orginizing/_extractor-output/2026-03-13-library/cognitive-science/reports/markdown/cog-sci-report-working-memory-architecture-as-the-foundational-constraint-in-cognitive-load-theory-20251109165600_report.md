@@ -138,7 +138,7 @@ extraction_summary:
 > [!key-claim] Untitled
 > **The Resolution of Capacity Limits: Why Both Numbers Are Correct**
 > 
-> The seeming contradiction between [[George-Miller|George Miller]]'s famous "magical number seven plus or minus two" and [[Nelson Cowan]]'s more restrictive estimate of approximately four chunks represents not competing theories but rather measurements of different aspects of the same system. Miller's 1956 estimate captured the effective capacity of working memory when learners can freely employ [[Chunking]] strategies and draw upon [[Long-Term-Memory|Long-Term Memory]] to group individual elements into larger meaningful units. Cowan's estimate, derived from more constrained experimental paradigms that minimize opportunities for chunking and long-term memory involvement, reveals the true core capacity of the [[Focus of Attention]]—the innermost component of working memory that holds information in its most activated, immediately accessible state.
+> The seeming contradiction between [[George-Miller|George Miller]]'s famous "magical number seven plus or minus two" and [[Nelson-Cowan|Nelson Cowan]]'s more restrictive estimate of approximately four chunks represents not competing theories but rather measurements of different aspects of the same system. Miller's 1956 estimate captured the effective capacity of working memory when learners can freely employ [[Chunking]] strategies and draw upon [[Long-Term-Memory|Long-Term Memory]] to group individual elements into larger meaningful units. Cowan's estimate, derived from more constrained experimental paradigms that minimize opportunities for chunking and long-term memory involvement, reveals the true core capacity of the [[Focus of Attention]]—the innermost component of working memory that holds information in its most activated, immediately accessible state.
 
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 72)*
 
@@ -152,7 +152,7 @@ extraction_summary:
 > [!insight] Untitled
 > **Attention as the Currency of Cognitive Processing**
 > 
-> Within the severely constrained workspace of working memory, [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] functions as the mechanism by which limited processing resources are allocated among competing demands. The [[Central-Executive|Central Executive]]—the component of [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] responsible for controlling attention allocation, inhibiting irrelevant information, shifting between tasks, and updating working memory contents—represents the "master controller" whose efficiency largely determines individual differences in working memory capacity and, consequently, in fluid intelligence and academic achievement. Critically, attention allocation is not infinitely flexible; when concurrent tasks compete for overlapping neural populations in the [[prefrontal cortex]], interference occurs, processing quality degrades, and effective working memory capacity shrinks further.
+> Within the severely constrained workspace of working memory, [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] functions as the mechanism by which limited processing resources are allocated among competing demands. The [[Central-Executive|Central Executive]]—the component of [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] responsible for controlling attention allocation, inhibiting irrelevant information, shifting between tasks, and updating working memory contents—represents the "master controller" whose efficiency largely determines individual differences in working memory capacity and, consequently, in fluid intelligence and academic achievement. Critically, attention allocation is not infinitely flexible; when concurrent tasks compete for overlapping neural populations in the [[prefrontal-cortex|prefrontal cortex]], interference occurs, processing quality degrades, and effective working memory capacity shrinks further.
 
 #### 7. [THE-PHILOSOPHY] Untitled *(Line 104)*
 
@@ -276,14 +276,14 @@ extraction_summary:
 - [[Long-Term Working Memory Theory]]
 - [[Memory Systems and Learning]]
 - [[Metacognitive Regulation of Cognitive Load]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan|Nelson Cowan]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Retrieval Structures]]
 - [[schemas]]
 - [[Sweller]]
 - [[Transactive-Memory-Systems|Transactive Memory Systems]]
 - [[WM-LTM Interface]]
-- [[Walter Kintsch]]
+- [[Walter-Kintsch|Walter Kintsch]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Capacity Limits]]
 - [[Zettelkasten]]
@@ -300,7 +300,7 @@ extraction_summary:
 - [[means-ends analysis]]
 - [[Modality-Effect|modality effect]]
 - [[Phonological-Loop|phonological loop]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[randomness as genesis principle]]
 - [[redundancy]]
 - [[Redundancy-Effect|redundancy effect]]
@@ -330,16 +330,16 @@ extraction_summary:
 | 13 | [[Biologically Primary Knowledge]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
 | 14 | [[David Geary]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
 | 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
-| 16 | [[prefrontal cortex]] | — | — | 🧠 The Architectural Foundation: Worki... | 51 |
+| 16 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 🧠 The Architectural Foundation: Worki... | 51 |
 | 17 | [[dorsolateral prefrontal cortex]] | — | — | 🧠 The Architectural Foundation: Worki... | 51 |
 | 18 | [[George-Miller|George Miller]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
-| 19 | [[Nelson Cowan]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
+| 19 | [[Nelson-Cowan|Nelson Cowan]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 20 | [[Chunking]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 21 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 22 | [[Focus of Attention]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 23 | [[George A. Miller]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 60 |
 | 24 | [[Chunking]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 62 |
-| 25 | [[Nelson Cowan]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 64 |
+| 25 | [[Nelson-Cowan|Nelson Cowan]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 64 |
 | 26 | [[Focus of Attention]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 66 |
 | 27 | [[Kolmogorov complexity]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 68 |
 | 28 | [[schemas]] | schemas | — | 🔄 The Working Memory-Long-Term Memory... | 75 |
@@ -348,12 +348,12 @@ extraction_summary:
 | 31 | [[automation]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 83 |
 | 32 | [[Long-Term Working Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 33 | [[K. Anders Ericsson]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
-| 34 | [[Walter Kintsch]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
+| 34 | [[Walter-Kintsch|Walter Kintsch]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 35 | [[Retrieval Structures]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 36 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
 | 37 | [[Central-Executive|Central Executive]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
 | 38 | [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
-| 39 | [[prefrontal cortex]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
+| 39 | [[prefrontal-cortex|prefrontal cortex]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
 | 40 | [[Baddeley and Hitch]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
 | 41 | [[Phonological-Loop|phonological loop]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
 | 42 | [[Visuospatial-Sketchpad|visuospatial sketchpad]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
@@ -520,14 +520,14 @@ Search Strategy:
 - [[Long-Term Working Memory Theory]]
 - [[Memory Systems and Learning]]
 - [[Metacognitive Regulation of Cognitive Load]]
-- [[Nelson Cowan]]
+- [[Nelson-Cowan|Nelson Cowan]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Retrieval Structures]]
 - [[schemas]]
 - [[Sweller]]
 - [[Transactive-Memory-Systems|Transactive Memory Systems]]
 - [[WM-LTM Interface]]
-- [[Walter Kintsch]]
+- [[Walter-Kintsch|Walter Kintsch]]
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Capacity Limits]]
 - [[Zettelkasten]]
@@ -544,7 +544,7 @@ Search Strategy:
 - [[means-ends analysis]]
 - [[Modality-Effect|modality effect]]
 - [[Phonological-Loop|phonological loop]]
-- [[prefrontal cortex]]
+- [[prefrontal-cortex|prefrontal cortex]]
 - [[randomness as genesis principle]]
 - [[redundancy]]
 - [[Redundancy-Effect|redundancy effect]]

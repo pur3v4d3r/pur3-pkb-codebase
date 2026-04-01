@@ -355,7 +355,7 @@ extraction_summary:
 > 
 > 1. **Make Progress Visible Without Quantifying It**: Instead of a note count, consider a periodic "Looking Back" practice where you review notes from months or years ago and observe how your thinking has evolved. Many practitioners maintain yearly "Things I've Learned" reflections—not to hit a target number but to document and celebrate intellectual growth. This makes progress tangible while keeping the focus on the *substance* of learning rather than its volume.
 > 
-> 1. **Design for Flow States**: The ultimate intrinsic motivator is the [[flow state]]—complete absorption in intellectually engaging work. Personal Knowledge Base workflows should minimize friction and distraction to enable flow. This means fast, intuitive tools; elimination of unnecessary decisions ("Where should I file this?"); and work sessions structured around deep engagement with ideas rather than organizational maintenance.
+> 1. **Design for Flow States**: The ultimate intrinsic motivator is the [[Flow-State|flow state]]—complete absorption in intellectually engaging work. Personal Knowledge Base workflows should minimize friction and distraction to enable flow. This means fast, intuitive tools; elimination of unnecessary decisions ("Where should I file this?"); and work sessions structured around deep engagement with ideas rather than organizational maintenance.
 > 
 > 1. **Connect to Personal Values and Goals**: Regularly revisit *why* you're building this knowledge base. What kind of person do you want to become? What contributions do you hope to make? What intellectual capacities do you want to develop? These intrinsic motivators should be explicitly documented and regularly revisited, serving as north stars for your knowledge work.
 
@@ -585,7 +585,7 @@ extraction_summary:
 - [[Heutagogy]]
 - [[Heutagogy and Self-Determined Learning]]
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Maps of Content and Emergent Structure]]
@@ -618,7 +618,7 @@ extraction_summary:
 - [[emergent structure]]
 - [[extended cognition]]
 - [[flexibility to reorganize]]
-- [[flow state]]
+- [[Flow-State|flow state]]
 - [[future-proof]]
 - [[opportunity cost]]
 - [[progressive elaboration]]
@@ -656,7 +656,7 @@ extraction_summary:
 | 25 | [[wiki-style links]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 192 |
 | 26 | [[Anti-fragile]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 242 |
 | 27 | [[opportunity cost]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 247 |
-| 28 | [[flow state]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 274 |
+| 28 | [[Flow-State|flow state]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 274 |
 | 29 | [[Project X]] | — | — | 4.1 🎯 THE CAPTURE PROCESS: INTENTIONA... | 300 |
 | 30 | [[Open Question Y]] | — | — | 4.1 🎯 THE CAPTURE PROCESS: INTENTIONA... | 300 |
 | 31 | [[Note Z]] | — | — | 4.1 🎯 THE CAPTURE PROCESS: INTENTIONA... | 301 |
@@ -682,7 +682,7 @@ extraction_summary:
 | 51 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 814 |
 | 52 | [[Extended Cognition and Cognitive Enhancement]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 815 |
 | 53 | [[Zettelkasten Method and Atomic Notes]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 816 |
-| 54 | [[Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 817 |
+| 54 | [[Knowledge-Graph-Theory|Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 817 |
 | 55 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 818 |
 | 56 | [[Progressive Elaboration in Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 819 |
 | 57 | [[Problem-Based Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 820 |
@@ -804,7 +804,7 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[Heutagogy]]
 - [[Heutagogy and Self-Determined Learning]]
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]
-- [[Knowledge Graph Theory]]
+- [[Knowledge-Graph-Theory|Knowledge Graph Theory]]
 - [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Maps of Content and Emergent Structure]]
@@ -837,7 +837,7 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[emergent structure]]
 - [[extended cognition]]
 - [[flexibility to reorganize]]
-- [[flow state]]
+- [[Flow-State|flow state]]
 - [[future-proof]]
 - [[opportunity cost]]
 - [[progressive elaboration]]

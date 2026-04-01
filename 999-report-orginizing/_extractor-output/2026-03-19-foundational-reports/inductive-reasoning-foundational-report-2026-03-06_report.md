@@ -408,11 +408,11 @@ extraction_summary:
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Data Literacy and Statistical Reasoning in Education]]
 - [[David-Hume|David Hume]]
-- [[Deanna Kuhn]]
+- [[Deanna-Kuhn|Deanna Kuhn]]
 - [[Dedre-Gentner|Dedre Gentner]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Discovery-Learning|Discovery Learning]]
-- [[Document-Based Questioning]]
+- [[Document-Based-Questioning|Document-Based Questioning]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Fluency-Illusion|Fluency Illusion]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
@@ -430,11 +430,11 @@ extraction_summary:
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard Nisbett]]
+- [[Richard-Nisbett|Richard Nisbett]]
 - [[Robert-Bjork|Robert Bjork]]
 - [[Scientific-Method|Scientific Method]]
-- [[Sleep and Memory Consolidation]]
-- [[Statistical Learning Theory]]
+- [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
+- [[Statistical-Learning-Theory|Statistical Learning Theory]]
 - [[Structure-Mapping-Theory|Structure-Mapping Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
@@ -468,20 +468,20 @@ extraction_summary:
 | 22 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 366 |
 | 23 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Dual-Process Theory and Inductive Heu... | 370 |
 | 24 | [[Metacognition]] | metacognitive | — | Dual-Process Theory and Inductive Heu... | 372 |
-| 25 | [[Statistical Learning Theory]] | statistical learning | — | How Inductive Reasoning Operates Duri... | 387 |
+| 25 | [[Statistical-Learning-Theory|Statistical Learning Theory]] | statistical learning | — | How Inductive Reasoning Operates Duri... | 387 |
 | 26 | [[Scientific-Method|Scientific Method]] | — | — | How Inductive Reasoning Operates Duri... | 392 |
-| 27 | [[Deanna Kuhn]] | — | — | How Inductive Reasoning Operates Duri... | 394 |
+| 27 | [[Deanna-Kuhn|Deanna Kuhn]] | — | — | How Inductive Reasoning Operates Duri... | 394 |
 | 28 | [[Dedre-Gentner|Dedre Gentner]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
 | 29 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
-| 30 | [[Sleep and Memory Consolidation]] | sleep-dependent memory consolidation | — | How Inductive Reasoning Operates Duri... | 411 |
+| 30 | [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]] | sleep-dependent memory consolidation | — | How Inductive Reasoning Operates Duri... | 411 |
 | 31 | [[Retrieval-Practice|Retrieval Practice]] | repeated retrieval | — | How Inductive Reasoning Operates Duri... | 411 |
 | 32 | [[Robert-Bjork|Robert Bjork]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
 | 33 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
 | 34 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Real-World Applications in Education | 426 |
-| 35 | [[Document-Based Questioning]] | — | — | Real-World Applications in Education | 433 |
+| 35 | [[Document-Based-Questioning|Document-Based Questioning]] | — | — | Real-World Applications in Education | 433 |
 | 36 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Instructional Design Principles | 444 |
 | 37 | [[Fluency-Illusion|Fluency Illusion]] | — | — | Limitations and Open Questions | 466 |
-| 38 | [[Richard Nisbett]] | — | — | Limitations and Open Questions | 468 |
+| 38 | [[Richard-Nisbett|Richard Nisbett]] | — | — | Limitations and Open Questions | 468 |
 | 39 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | The "So What?" | 498 |
 | 40 | [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]] | — | — | The "So What?" | 500 |
 | 41 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | The "So What?" | 502 |
@@ -518,11 +518,11 @@ extraction_summary:
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Data Literacy and Statistical Reasoning in Education]]
 - [[David-Hume|David Hume]]
-- [[Deanna Kuhn]]
+- [[Deanna-Kuhn|Deanna Kuhn]]
 - [[Dedre-Gentner|Dedre Gentner]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Discovery-Learning|Discovery Learning]]
-- [[Document-Based Questioning]]
+- [[Document-Based-Questioning|Document-Based Questioning]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Fluency-Illusion|Fluency Illusion]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
@@ -540,11 +540,11 @@ extraction_summary:
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard Nisbett]]
+- [[Richard-Nisbett|Richard Nisbett]]
 - [[Robert-Bjork|Robert Bjork]]
 - [[Scientific-Method|Scientific Method]]
-- [[Sleep and Memory Consolidation]]
-- [[Statistical Learning Theory]]
+- [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
+- [[Statistical-Learning-Theory|Statistical Learning Theory]]
 - [[Structure-Mapping-Theory|Structure-Mapping Theory]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
@@ -582,7 +582,7 @@ extraction_summary:
 
 #### See Also
 
-- [[Bayesian Reasoning]]
+- [[Bayesian-Reasoning|Bayesian Reasoning]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Problem-Based Learning]]
 - [[Discovery-Learning|Discovery Learning]]

@@ -201,7 +201,7 @@ extraction_summary:
 #### 12. [KEY-INSIGHT] Untitled *(Line 366)*
 
 > [!key-insight] Untitled
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control|Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control|Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve-Clause|Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 #### 13. [CONNECTION-IDEAS] Untitled *(Line 371)*
 
@@ -233,7 +233,7 @@ extraction_summary:
 > 
 > Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control|Dichotomy of Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 > 
-> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
+> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve-Clause|Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 > 
 > **The Leadership Application**: The Stockdale case demonstrates that Stoic leadership is not for easy circumstances. It is specifically designed for conditions where the tools that ordinarily produce good outcomes — optimism, positive thinking, confidence in improvement — actively fail. The leader who understands the Stoic framework has a more robust resource than optimism: a commitment to acting well regardless of how the situation resolves, grounded in a clear understanding of what is genuinely theirs to control.
 
@@ -347,7 +347,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > **Series Connections**:
-> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
+> - **Builds on**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) for the four cardinal virtues and [[Prohairesis]] as the conceptual foundation; [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] (Report 03) for the practical exercise vocabulary
 > - **Extends**: [[Stoicism and Modern Psychology - Parallels and Insights]] (Report 04) by applying the psychological framework to the specific context of organizational leadership
 > - **Prepares for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06) — the practices developed here for managing emotion in leadership are closely related to the practices for managing adversity in life more broadly
 > - **In dialogue with**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10) — the cognitive bias analysis and the Discipline of Assent are particularly relevant to leadership decision-making
@@ -431,7 +431,7 @@ extraction_summary:
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
-- [[Four Cardinal Virtues]]
+- [[Four-Cardinal-Virtues|Four Cardinal Virtues]]
 - [[James Stockdale]]
 - [[James Stockdale — Stoicism Under Extreme Conditions]]
 - [[Kathêkon]]
@@ -440,7 +440,7 @@ extraction_summary:
 - [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Marcus Aurelius — Leadership in the Antonine Plague]]
 - [[Prohairesis]]
-- [[Reserve Clause]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Seneca]]
 - [[Stoic Decision Heuristics — A Reference Toolkit]]
 - [[Stoicism]]
@@ -448,7 +448,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Emotional Resilience - Coping with Adversity]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 ### All Occurrences
 
@@ -471,20 +471,20 @@ extraction_summary:
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 279 |
 | 16 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 283 |
 | 17 | [[Kathêkon]] | — | — | Part 2: What the Stoics Said — The Ph... | 283 |
-| 18 | [[Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 296 |
+| 18 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 296 |
 | 19 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Principle 2: The Dichotomy of Control... | 315 |
 | 20 | [[Seneca]] | — | — | Principle 3: The Reserve Clause — Act... | 330 |
 | 21 | [[Kathêkon]] | — | — | Principle 4: Role Ethics and the Obli... | 336 |
 | 22 | [[Epictetus]] | — | — | Principle 5: Emotional Governance as ... | 349 |
 | 23 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 361 |
 | 24 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
-| 25 | [[Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
+| 25 | [[Reserve-Clause|Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
 | 26 | [[Authentic Leadership]] | — | — | Part 4: The Psychology Behind the Phi... | 372 |
 | 27 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Example 1: Marcus Aurelius and the We... | 380 |
 | 28 | [[Seneca]] | — | — | Example 2: Seneca on Clemency and the... | 391 |
 | 29 | [[James Stockdale]] | — | — | Example 3: James Stockdale and the Te... | 402 |
 | 30 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 3: James Stockdale and the Te... | 407 |
-| 31 | [[Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 409 |
+| 31 | [[Reserve-Clause|Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 409 |
 | 32 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 428 |
 | 33 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 428 |
 | 34 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 473 |
@@ -495,12 +495,12 @@ extraction_summary:
 | 39 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 513 |
 | 40 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 41 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
-| 42 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
+| 42 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 43 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 44 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 45 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 529 |
 | 46 | [[Prohairesis]] | — | — | Part 8: Integration — Building a Cohe... | 529 |
-| 47 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 529 |
+| 47 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 529 |
 | 48 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 530 |
 | 49 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 531 |
 | 50 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 532 |
@@ -545,7 +545,7 @@ extraction_summary:
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
-- [[Four Cardinal Virtues]]
+- [[Four-Cardinal-Virtues|Four Cardinal Virtues]]
 - [[James Stockdale]]
 - [[James Stockdale — Stoicism Under Extreme Conditions]]
 - [[Kathêkon]]
@@ -554,7 +554,7 @@ extraction_summary:
 - [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Marcus Aurelius — Leadership in the Antonine Plague]]
 - [[Prohairesis]]
-- [[Reserve Clause]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Seneca]]
 - [[Stoic Decision Heuristics — A Reference Toolkit]]
 - [[Stoicism]]
@@ -562,7 +562,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Emotional Resilience - Coping with Adversity]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 
 ### Frontmatter Relationships
 
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
+- [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts|Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 
 #### Related
@@ -585,10 +585,10 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Eudaimonia]]
 - [[Kathêkon]]
-- [[Reserve Clause]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Logos]]
 - [[James Stockdale]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Decision-Theory|Decision Theory]]
 

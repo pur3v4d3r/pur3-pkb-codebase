@@ -440,7 +440,7 @@ extraction_summary:
 - [[Dr. Frank]]
 - [[Dr. Reed]]
 - [[Meeting 2025-10-16]]
-- [[Project Alpha]]
+- [[Project-Alpha|Project Alpha]]
 - [[Project Beta]]
 - [[Some Note]]
 
@@ -450,20 +450,20 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dr. Evelyn Reed]] | — | — | 3. 📖 Foundational Principles: The "Why" | 127 |
 | 2 | [[Book]] | — | — | 3. 📖 Foundational Principles: The "Why" | 129 |
-| 3 | [[Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 192 |
+| 3 | [[Project-Alpha|Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 192 |
 | 4 | [[Project Beta]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 193 |
 | 5 | [[Dr. Reed]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 226 |
 | 6 | [[Dr. Frank]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 227 |
 | 7 | [[Dr. Reed]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 243 |
 | 8 | [[Dr. Frank]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 244 |
-| 9 | [[Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 270 |
+| 9 | [[Project-Alpha|Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 270 |
 | 10 | [[Project Beta]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 271 |
-| 11 | [[Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 307 |
+| 11 | [[Project-Alpha|Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 307 |
 | 12 | [[Project Beta]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 308 |
-| 13 | [[Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 330 |
+| 13 | [[Project-Alpha|Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 330 |
 | 14 | [[Meeting 2025-10-16]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 333 |
-| 15 | [[Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 351 |
-| 16 | [[Project Alpha]] | — | — | 4.2 The Data Pipeline: A Step-by-Step... | 371 |
+| 15 | [[Project-Alpha|Project Alpha]] | — | — | 4.1 The Query Types: LIST, TABLE, TASK | 351 |
+| 16 | [[Project-Alpha|Project Alpha]] | — | — | 4.2 The Data Pipeline: A Step-by-Step... | 371 |
 | 17 | [[Some Note]] | — | — | 4.2 The Data Pipeline: A Step-by-Step... | 377 |
 | 18 | [[Some Note]] | — | — | 4.2 The Data Pipeline: A Step-by-Step... | 378 |
 | 19 | [[Book A]] | — | — | 4.2 The Data Pipeline: A Step-by-Step... | 449 |
@@ -715,7 +715,7 @@ extraction_summary:
 
 | **File** | **status** | **priority** |
 | --- | --- | --- |
-| [[Project Alpha]] | "in-progress" | "high" |
+| [[Project-Alpha|Project Alpha]] | "in-progress" | "high" |
 | [[Project Beta]] | "complete" | "low" |
 
 ### Table 2 *(Line 254, 2 rows)*
@@ -729,7 +729,7 @@ extraction_summary:
 
 | **File** | **Current Status** | **Last Updated** |
 | --- | --- | --- |
-| [[Project Alpha]] | "in-progress" | 2025-10-15 |
+| [[Project-Alpha|Project Alpha]] | "in-progress" | 2025-10-15 |
 | [[Project Beta]] | "complete" | 2025-10-14 |
 
 ### Table 4 *(Line 421, 3 rows)*
@@ -775,7 +775,7 @@ extraction_summary:
 - [[Dr. Frank]]
 - [[Dr. Reed]]
 - [[Meeting 2025-10-16]]
-- [[Project Alpha]]
+- [[Project-Alpha|Project Alpha]]
 - [[Project Beta]]
 - [[Some Note]]
 

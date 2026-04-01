@@ -700,7 +700,7 @@ extraction_summary:
 - [[Token Throughput]]
 - [[Vector Database]]
 - [[Vector Embeddings]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[wiki-links]]
 - [[XML]]
 - [[Zettelkasten]]
@@ -755,7 +755,7 @@ extraction_summary:
 | 42 | [[Vector Embeddings]] | — | — | **Smart Connections** (Currently Conf... | 356 |
 | 43 | [[ChromaDB]] | — | — | **Smart Connections** (Currently Conf... | 357 |
 | 44 | [[RAG]] | — | — | **Smart Connections** (Currently Conf... | 359 |
-| 45 | [[Wiki-Link]] | — | — | Primary Librarian Model | 707 |
+| 45 | [[wiki-link]] | — | — | Primary Librarian Model | 707 |
 | 46 | [[Full Component: {component.filename}]] | — | — | Component: {component.title} | 801 |
 | 47 | [[Related Component 1]] | — | — | **Layer 5: Data Layer (Component Libr... | 867 |
 | 48 | [[Related Component 2]] | — | — | **Layer 5: Data Layer (Component Libr... | 868 |
@@ -944,7 +944,7 @@ Core Competencies:
 - Precision in component classification and tagging
 
 Output Guidelines:
-- Cite specific components using [[Wiki-Link]] format
+- Cite specific components using [[wiki-link]] format
 - Provide actionable recommendations, not generic advice
 - Maintain technical accuracy and terminology consistency
 - Format responses for Obsidian markdown compatibility
@@ -2377,7 +2377,7 @@ graph TD
 - [[Token Throughput]]
 - [[Vector Database]]
 - [[Vector Embeddings]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[wiki-links]]
 - [[XML]]
 - [[Zettelkasten]]

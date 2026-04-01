@@ -449,7 +449,7 @@ extraction_summary:
 > 
 > **Phase 3: Elaborate** (15-20 min)
 > - Add explanatory text elements
-> - Embed supporting evidence: `![[Research Note]]`
+> - Embed supporting evidence: `![[Research-Note|Research Note]]`
 > - Insert images/diagrams for context
 > - Create sticky notes for annotations
 > 
@@ -723,7 +723,7 @@ extraction_summary:
 > When enabled (Settings → PDF → "Automatic create PDF annotation reference link"):
 > - Clicking annotation automatically copies formatted link
 > - Paste anywhere in vault
-> - Format: `[[PDF Name#^block-ref]]`
+> - Format: `[[PDF-Name#^block-ref|PDF Name]]`
 > - Opens PDF and scrolls to annotation when clicked
 
 #### 48. [METHODOLOGY-AND-SOURCES] Research Synthesis Workflow *(Line 1086)*
@@ -735,7 +735,7 @@ extraction_summary:
 > - Add brief comments to highlights
 > 
 > **Step 2: Structural Mapping** (15 min)
-> - Create mind map: "[[Paper Title]] - Key Concepts"
+> - Create mind map: "[[Paper-Title|Paper Title]] - Key Concepts"
 > - Root node: Paper title + authors
 > - Branches: Main sections (Theory, Method, Results, Discussion)
 > - Link annotations to appropriate branches
@@ -744,7 +744,7 @@ extraction_summary:
 > - Add summary nodes synthesizing multiple highlights
 > - Create boundaries grouping related findings
 > - Add related links connecting concepts across sections
-> - Link to existing vault notes: `[[Established Theory]]`
+> - Link to existing vault notes: `[[Established-Theory|Established Theory]]`
 > 
 > **Step 4: Integration** (10 min)
 > - Export mind map as image for visual reference
@@ -756,7 +756,7 @@ extraction_summary:
 
 > [!methodology-and-sources] Project Planning Workflow
 > **Setup:**
-> - Create mind map: "[[Project Name]] - Master Plan"
+> - Create mind map: "[[Project-Name|Project Name]] - Master Plan"
 > - Use **Tree layout** for hierarchical structure
 > 
 > **Structure:**
@@ -767,8 +767,8 @@ extraction_summary:
 > │  ├─ User Interviews → Due: Date, Owner: Name
 > │  └─ Competitive Analysis → Due: Date, Owner: Name
 > ├─ Phase 2: Design
-> │  ├─ Wireframes → Links to [[Design Specs]]
-> │  └─ Prototypes → Links to [[Figma Files]]
+> │  ├─ Wireframes → Links to [[Design-Specs|Design Specs]]
+> │  └─ Prototypes → Links to [[Figma-Files|Figma Files]]
 > ├─ Phase 3: Development
 > │  └─ [Features as sub-nodes]
 > └─ Phase 4: Launch
@@ -820,7 +820,7 @@ extraction_summary:
 > - Link annotations to mind map nodes
 > 
 > **Step 2: Visual Synthesis** (Excalidraw)
-> - Create drawing: "[[Paper Title]] - Visual Summary"
+> - Create drawing: "[[Paper-Title|Paper Title]] - Visual Summary"
 > - Draw key concepts as spatial diagram
 > - Show relationships with arrows/grouping
 > - Embed paper annotations: `![[Paper-annotate.md#^key-quote]]`
@@ -937,19 +937,19 @@ extraction_summary:
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
 - [[Concept-Name|Concept Name]]
 - [[Dataview]]
-- [[Design Specs]]
+- [[Design-Specs|Design Specs]]
 - [[Domain]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
-- [[Established Theory]]
+- [[Established-Theory|Established Theory]]
 - [[ExcaliBrain]]
 - [[Excalidraw]]
 - [[Excalidraw Advanced Features]]
 - [[Excalidraw Basics]]
 - [[ExcalidrawAutomate API Reference]]
-- [[Figma Files]]
+- [[Figma-Files|Figma Files]]
 - [[Information Design]]
 - [[JavaScript-Basics|JavaScript Basics]]
-- [[JavaScript Fundamentals]]
+- [[JavaScript-Fundamentals|JavaScript Fundamentals]]
 - [[JavaScript in Obsidian]]
 - [[Knowledge-Visualization|Knowledge Visualization]]
 - [[LaTeX]]
@@ -971,17 +971,17 @@ extraction_summary:
 - [[Obsidian-Automation|Obsidian Automation]]
 - [[Obsidian-Basics|Obsidian Basics]]
 - [[PDF Annotation Workflows in Academia]]
-- [[PDF Name]]
+- [[PDF-Name|PDF Name]]
 - [[PDF-annotation|PDF annotation]]
 - [[PDF++]]
 - [[PKM]]
-- [[Paper Title]]
-- [[Person A]]
-- [[Person B]]
+- [[Paper-Title|Paper Title]]
+- [[Person-A|Person A]]
+- [[Person-B|Person B]]
 - [[Person C]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Development]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[QuickAdd]]
 - [[Reading Strategies]]
 - [[Related-Concept|Related Concept]]
@@ -997,9 +997,9 @@ extraction_summary:
 - [[System Architecture Mindmap]]
 - [[Systems Thinking]]
 - [[Systems Thinking Basics]]
-- [[Task 1]]
-- [[Task 2]]
-- [[Task 3]]
+- [[Task-1|Task 1]]
+- [[Task-2|Task 2]]
+- [[Task-3|Task 3]]
 - [[Tasks]]
 - [[Templater]]
 - [[Templater Basics]]
@@ -1053,9 +1053,9 @@ extraction_summary:
 | 33 | [[Subtopic-B|Subtopic B]] | — | — | Pattern 1: Visual MOC (Map of Content) | 406 |
 | 34 | [[Concept-Name|Concept Name]] | — | — | Pattern 2: Concept Sketching Workflow | 424 |
 | 35 | [[Related-Concept|Related Concept]] | — | — | Pattern 2: Concept Sketching Workflow | 433 |
-| 36 | [[Task 1]] | — | — | Pattern 3: Meeting Sketch Notes | 466 |
-| 37 | [[Task 2]] | — | — | Pattern 3: Meeting Sketch Notes | 467 |
-| 38 | [[Task 3]] | — | — | Pattern 3: Meeting Sketch Notes | 468 |
+| 36 | [[Task-1|Task 1]] | — | — | Pattern 3: Meeting Sketch Notes | 466 |
+| 37 | [[Task-2|Task 2]] | — | — | Pattern 3: Meeting Sketch Notes | 467 |
+| 38 | [[Task-3|Task 3]] | — | — | Pattern 3: Meeting Sketch Notes | 468 |
 | 39 | [[Tasks]] | — | — | Pattern 3: Meeting Sketch Notes | 472 |
 | 40 | [[wiki-links]] | — | — | 4. **Link Early, Link Often** <span s... | 568 |
 | 41 | [[Concept-Name|Concept Name]] | — | — | 4. **Link Early, Link Often** <span s... | 574 |
@@ -1064,21 +1064,21 @@ extraction_summary:
 | 44 | [[outlining]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 45 | [[PDF-annotation|PDF annotation]] | — | — | 🧠 Overview & Capabilities | 688 |
 | 46 | [[Obsidian]] | — | — | 🧠 Overview & Capabilities | 688 |
-| 47 | [[PDF Name]] | — | ^block-ref | Method 2: Auto-Create Links | 1058 |
-| 48 | [[Paper Title]] | — | — | Pattern 1: Research Paper Processing | 1093 |
-| 49 | [[Established Theory]] | — | — | Pattern 1: Research Paper Processing | 1102 |
-| 50 | [[Project Name]] | — | — | Pattern 2: Project Planning | 1116 |
-| 51 | [[Design Specs]] | — | — | Pattern 2: Project Planning | 1127 |
-| 52 | [[Figma Files]] | — | — | Pattern 2: Project Planning | 1128 |
-| 53 | [[Person A]] | — | — | Pattern 3: Meeting Mind Maps | 1148 |
-| 54 | [[Person B]] | — | — | Pattern 3: Meeting Mind Maps | 1149 |
+| 47 | [[PDF-Name|PDF Name]] | — | ^block-ref | Method 2: Auto-Create Links | 1058 |
+| 48 | [[Paper-Title|Paper Title]] | — | — | Pattern 1: Research Paper Processing | 1093 |
+| 49 | [[Established-Theory|Established Theory]] | — | — | Pattern 1: Research Paper Processing | 1102 |
+| 50 | [[Project-Name|Project Name]] | — | — | Pattern 2: Project Planning | 1116 |
+| 51 | [[Design-Specs|Design Specs]] | — | — | Pattern 2: Project Planning | 1127 |
+| 52 | [[Figma-Files|Figma Files]] | — | — | Pattern 2: Project Planning | 1128 |
+| 53 | [[Person-A|Person A]] | — | — | Pattern 3: Meeting Mind Maps | 1148 |
+| 54 | [[Person-B|Person B]] | — | — | Pattern 3: Meeting Mind Maps | 1149 |
 | 55 | [[Person C]] | — | — | Pattern 3: Meeting Mind Maps | 1150 |
-| 56 | [[Task 1]] | — | — | Pattern 3: Meeting Mind Maps | 1159 |
-| 57 | [[Person A]] | — | — | Pattern 3: Meeting Mind Maps | 1159 |
-| 58 | [[Task 2]] | — | — | Pattern 3: Meeting Mind Maps | 1160 |
-| 59 | [[Person B]] | — | — | Pattern 3: Meeting Mind Maps | 1160 |
+| 56 | [[Task-1|Task 1]] | — | — | Pattern 3: Meeting Mind Maps | 1159 |
+| 57 | [[Person-A|Person A]] | — | — | Pattern 3: Meeting Mind Maps | 1159 |
+| 58 | [[Task-2|Task 2]] | — | — | Pattern 3: Meeting Mind Maps | 1160 |
+| 59 | [[Person-B|Person B]] | — | — | Pattern 3: Meeting Mind Maps | 1160 |
 | 60 | [[PDF++]] | — | — | Known Limitations | 1207 |
-| 61 | [[Paper Title]] | — | — | Pattern 2: Research Annotation → Visu... | 1271 |
+| 61 | [[Paper-Title|Paper Title]] | — | — | Pattern 2: Research Annotation → Visu... | 1271 |
 | 62 | [[System Architecture Mindmap]] | — | — | Pattern 3: System Design Workflow | 1292 |
 | 63 | [[wiki-links]] | — | — | Issue 3: Links Not Clickable | 1383 |
 | 64 | [[Visual PKM Philosophy]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1430 |
@@ -1115,7 +1115,7 @@ extraction_summary:
 | 95 | [[Obsidian-Automation|Obsidian Automation]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
 | 96 | [[JavaScript in Obsidian]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
 | 97 | [[Plugin Development]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1467 |
-| 98 | [[JavaScript Fundamentals]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
+| 98 | [[JavaScript-Fundamentals|JavaScript Fundamentals]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
 | 99 | [[Excalidraw Advanced Features]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
 | 100 | [[Templater Basics]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
 | 101 | [[Visual System Modeling & Diagramming]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1472 |
@@ -1481,9 +1481,9 @@ extraction_summary:
 │                                          │
 ├─────────────────────────────────────────┤
 │ Action Items:                            │
-│ • [[Task 1]]                             │
-│ • [[Task 2]]                             │
-│ • [[Task 3]]                             │
+│ • [[Task-1|Task 1]]                             │
+│ • [[Task-2|Task 2]]                             │
+│ • [[Task-3|Task 3]]                             │
 └─────────────────────────────────────────┘
 ```
 
@@ -1565,8 +1565,8 @@ Vault/
 > │  ├─ User Interviews → Due: Date, Owner: Name
 > │  └─ Competitive Analysis → Due: Date, Owner: Name
 > ├─ Phase 2: Design
-> │  ├─ Wireframes → Links to [[Design Specs]]
-> │  └─ Prototypes → Links to [[Figma Files]]
+> │  ├─ Wireframes → Links to [[Design-Specs|Design Specs]]
+> │  └─ Prototypes → Links to [[Figma-Files|Figma Files]]
 > ├─ Phase 3: Development
 > │  └─ [Features as sub-nodes]
 > └─ Phase 4: Launch
@@ -1579,8 +1579,8 @@ Vault/
 ```plaintext
 Meeting: [Topic] - [Date]
 ├─ Attendees
-│  ├─ [[Person A]]
-│  ├─ [[Person B]]
+│  ├─ [[Person-A|Person A]]
+│  ├─ [[Person-B|Person B]]
 │  └─ [[Person C]]
 ├─ Agenda Items
 │  ├─ Topic 1
@@ -1590,8 +1590,8 @@ Meeting: [Topic] - [Date]
 │  ├─ Decision 1 → Rationale
 │  └─ Decision 2 → Rationale
 └─ Action Items
-   ├─ [[Task 1]] - Owner: [[Person A]], Due: Date
-   └─ [[Task 2]] - Owner: [[Person B]], Due: Date
+   ├─ [[Task-1|Task 1]] - Owner: [[Person-A|Person A]], Due: Date
+   └─ [[Task-2|Task 2]] - Owner: [[Person-B|Person B]], Due: Date
 ```
 
 ### Code Block 20 — `dataview` *(Lines 1518-1526)*
@@ -2078,19 +2078,19 @@ $$
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
 - [[Concept-Name|Concept Name]]
 - [[Dataview]]
-- [[Design Specs]]
+- [[Design-Specs|Design Specs]]
 - [[Domain]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
-- [[Established Theory]]
+- [[Established-Theory|Established Theory]]
 - [[ExcaliBrain]]
 - [[Excalidraw]]
 - [[Excalidraw Advanced Features]]
 - [[Excalidraw Basics]]
 - [[ExcalidrawAutomate API Reference]]
-- [[Figma Files]]
+- [[Figma-Files|Figma Files]]
 - [[Information Design]]
 - [[JavaScript-Basics|JavaScript Basics]]
-- [[JavaScript Fundamentals]]
+- [[JavaScript-Fundamentals|JavaScript Fundamentals]]
 - [[JavaScript in Obsidian]]
 - [[Knowledge-Visualization|Knowledge Visualization]]
 - [[LaTeX]]
@@ -2112,17 +2112,17 @@ $$
 - [[Obsidian-Automation|Obsidian Automation]]
 - [[Obsidian-Basics|Obsidian Basics]]
 - [[PDF Annotation Workflows in Academia]]
-- [[PDF Name]]
+- [[PDF-Name|PDF Name]]
 - [[PDF-annotation|PDF annotation]]
 - [[PDF++]]
 - [[PKM]]
-- [[Paper Title]]
-- [[Person A]]
-- [[Person B]]
+- [[Paper-Title|Paper Title]]
+- [[Person-A|Person A]]
+- [[Person-B|Person B]]
 - [[Person C]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Development]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[QuickAdd]]
 - [[Reading Strategies]]
 - [[Related-Concept|Related Concept]]
@@ -2138,9 +2138,9 @@ $$
 - [[System Architecture Mindmap]]
 - [[Systems Thinking]]
 - [[Systems Thinking Basics]]
-- [[Task 1]]
-- [[Task 2]]
-- [[Task 3]]
+- [[Task-1|Task 1]]
+- [[Task-2|Task 2]]
+- [[Task-3|Task 3]]
 - [[Tasks]]
 - [[Templater]]
 - [[Templater Basics]]

@@ -231,7 +231,7 @@ extraction_summary:
 #### 15. [HELPFUL-TIP] Folders vs. Tags vs. Links: A Clear Distinction *(Line 201)*
 
 > [!helpful-tip] Folders vs. Tags vs. Links: A Clear Distinction
-> - **Use Links (Context)** for *conceptual, granular, and associative* connections. This is the primary way to build knowledge. (e.g., `[[The IKEA Effect]]` links to `[[Sunk Cost Fallacy]]`).
+> - **Use Links (Context)** for *conceptual, granular, and associative* connections. This is the primary way to build knowledge. (e.g., `[[The IKEA Effect]]` links to `[[Sunk-cost-fallacy|Sunk Cost Fallacy]]`).
 > 
 > - **Use Tags (Metadata)** for *broad, thematic "gatherers"* or *statuses*. (e.g., `#psychology/cognitive-bias` or `#status/in-progress`).
 > 
@@ -283,13 +283,13 @@ extraction_summary:
 
 - [[Effort Justification]]
 - [[Eisenhower Matrix]]
-- [[Getting Things Done (GTD)]]
+- [[Getting-Things-Done|Getting Things Done (GTD)]]
 - [[Labor Theory of Value]]
 - [[Note A]]
 - [[Note B]]
 - [[Parkinson's Law]]
 - [[Productivity MOC]]
-- [[Sunk Cost Fallacy]]
+- [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[The IKEA Effect]]
 - [[The Psychology of Deadlines]]
 - [[Time Blocking]]
@@ -302,19 +302,19 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Note A]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 147 |
 | 2 | [[Note B]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 147 |
-| 3 | [[Sunk Cost Fallacy]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 158 |
+| 3 | [[Sunk-cost-fallacy|Sunk Cost Fallacy]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 158 |
 | 4 | [[Effort Justification]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 158 |
 | 5 | [[Labor Theory of Value]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 158 |
 | 6 | [[Productivity MOC]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 160 |
 | 7 | [[Eisenhower Matrix]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 161 |
-| 8 | [[Getting Things Done (GTD)]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 161 |
+| 8 | [[Getting-Things-Done|Getting Things Done (GTD)]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 161 |
 | 9 | [[Parkinson's Law]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 161 |
 | 10 | [[Time Blocking]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 161 |
 | 11 | [[Parkinson's Law]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 164 |
 | 12 | [[Productivity MOC]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 164 |
 | 13 | [[The Psychology of Deadlines]] | — | — | 4.2 The Symbiosis: Weaving *Context* | 164 |
 | 14 | [[The IKEA Effect]] | — | — | 4.3 The Retrieval Engine: Engineering... | 203 |
-| 15 | [[Sunk Cost Fallacy]] | — | — | 4.3 The Retrieval Engine: Engineering... | 203 |
+| 15 | [[Sunk-cost-fallacy|Sunk Cost Fallacy]] | — | — | 4.3 The Retrieval Engine: Engineering... | 203 |
 | 16 | [[a concept from biology]] | — | — | 6. 🌍 Broader Implications & Significa... | 218 |
 | 17 | [[a concept from economics]] | — | — | 6. 🌍 Broader Implications & Significa... | 218 |
 
@@ -401,13 +401,13 @@ tags: ["psychology/cognitive-bias", "economics/behavioral", "productivity"]
 
 - [[Effort Justification]]
 - [[Eisenhower Matrix]]
-- [[Getting Things Done (GTD)]]
+- [[Getting-Things-Done|Getting Things Done (GTD)]]
 - [[Labor Theory of Value]]
 - [[Note A]]
 - [[Note B]]
 - [[Parkinson's Law]]
 - [[Productivity MOC]]
-- [[Sunk Cost Fallacy]]
+- [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[The IKEA Effect]]
 - [[The Psychology of Deadlines]]
 - [[Time Blocking]]

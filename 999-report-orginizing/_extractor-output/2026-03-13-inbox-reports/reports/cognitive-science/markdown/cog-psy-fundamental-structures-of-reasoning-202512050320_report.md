@@ -588,11 +588,11 @@ extraction_summary:
 > 
 > **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], and [[Reflective-Practice|Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 
-> **Scientific Reasoning**: Element analysis illuminates [[Scientific-Method|Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
+> **Scientific Reasoning**: Element analysis illuminates [[Scientific-Method|Scientific Method]], [[Hypothesis-Testing|Hypothesis Testing]], [[Experimental-Design|Experimental Design]], and [[Theory-Construction|Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
 > 
-> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).
+> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical-Reasoning|Ethical Reasoning]], [[Moral-Philosophy|Moral Philosophy]], and [[Applied-Ethics|Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).
 > 
-> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
+> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual-Analysis|Textual Analysis]], and [[Historical-Interpretation|Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
 > 
 > **Cognitive Psychology**: The Elements align with findings in [[cognitive-psychology|Cognitive Psychology]], [[Heuristics and Biases]], [[Decision-Making|Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
 > 
@@ -650,7 +650,7 @@ extraction_summary:
 
 - [[Academic Writing]]
 - [[Analytical-Thinking|Analytical Thinking]]
-- [[Applied Ethics]]
+- [[Applied-Ethics|Applied Ethics]]
 - [[Argument-Analysis|Argument Analysis]]
 - [[Argumentation]]
 - [[Assumptions]]
@@ -661,13 +661,13 @@ extraction_summary:
 - [[Decision-Making|Decision Making]]
 - [[Dialectical Reasoning]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Ethical Reasoning]]
+- [[Ethical-Reasoning|Ethical Reasoning]]
 - [[Evidence-Based Argumentation]]
-- [[Experimental Design]]
+- [[Experimental-Design|Experimental Design]]
 - [[Hermeneutics]]
 - [[Heuristics and Biases]]
-- [[Historical Interpretation]]
-- [[Hypothesis Testing]]
+- [[Historical-Interpretation|Historical Interpretation]]
+- [[Hypothesis-Testing|Hypothesis Testing]]
 - [[Implications]]
 - [[Inference]]
 - [[Informal-Fallacies|Informal Fallacies]]
@@ -683,7 +683,7 @@ extraction_summary:
 - [[MOC - Paul-Elder Framework]]
 - [[Metacognition]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Moral Philosophy]]
+- [[Moral-Philosophy|Moral Philosophy]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Point-of-View|Point of View]]
 - [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
@@ -699,9 +699,9 @@ extraction_summary:
 - [[Socratic-Questioning|Socratic Questioning]]
 - [[Socratic Questioning - Disciplined Interrogation of Thinking]]
 - [[Sources-of-Knowledge|Sources of Knowledge]]
-- [[Textual Analysis]]
+- [[Textual-Analysis|Textual Analysis]]
 - [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]
-- [[Theory Construction]]
+- [[Theory-Construction|Theory Construction]]
 - [[Thesis Development]]
 - [[Validity-and-Soundness|Validity and Soundness]]
 
@@ -749,15 +749,15 @@ extraction_summary:
 | 38 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📚 Connections and Links | 955 |
 | 39 | [[Reflective-Practice|Reflective Practice]] | — | — | 📚 Connections and Links | 955 |
 | 40 | [[Scientific-Method|Scientific Method]] | — | — | 📚 Connections and Links | 957 |
-| 41 | [[Hypothesis Testing]] | — | — | 📚 Connections and Links | 957 |
-| 42 | [[Experimental Design]] | — | — | 📚 Connections and Links | 957 |
-| 43 | [[Theory Construction]] | — | — | 📚 Connections and Links | 957 |
-| 44 | [[Ethical Reasoning]] | — | — | 📚 Connections and Links | 959 |
-| 45 | [[Moral Philosophy]] | — | — | 📚 Connections and Links | 959 |
-| 46 | [[Applied Ethics]] | — | — | 📚 Connections and Links | 959 |
+| 41 | [[Hypothesis-Testing|Hypothesis Testing]] | — | — | 📚 Connections and Links | 957 |
+| 42 | [[Experimental-Design|Experimental Design]] | — | — | 📚 Connections and Links | 957 |
+| 43 | [[Theory-Construction|Theory Construction]] | — | — | 📚 Connections and Links | 957 |
+| 44 | [[Ethical-Reasoning|Ethical Reasoning]] | — | — | 📚 Connections and Links | 959 |
+| 45 | [[Moral-Philosophy|Moral Philosophy]] | — | — | 📚 Connections and Links | 959 |
+| 46 | [[Applied-Ethics|Applied Ethics]] | — | — | 📚 Connections and Links | 959 |
 | 47 | [[Hermeneutics]] | — | — | 📚 Connections and Links | 961 |
-| 48 | [[Textual Analysis]] | — | — | 📚 Connections and Links | 961 |
-| 49 | [[Historical Interpretation]] | — | — | 📚 Connections and Links | 961 |
+| 48 | [[Textual-Analysis|Textual Analysis]] | — | — | 📚 Connections and Links | 961 |
+| 49 | [[Historical-Interpretation|Historical Interpretation]] | — | — | 📚 Connections and Links | 961 |
 | 50 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 📚 Connections and Links | 963 |
 | 51 | [[Heuristics and Biases]] | — | — | 📚 Connections and Links | 963 |
 | 52 | [[Decision-Making|Decision Making]] | — | — | 📚 Connections and Links | 963 |
@@ -1473,7 +1473,7 @@ graph LR
 
 - [[Academic Writing]]
 - [[Analytical-Thinking|Analytical Thinking]]
-- [[Applied Ethics]]
+- [[Applied-Ethics|Applied Ethics]]
 - [[Argument-Analysis|Argument Analysis]]
 - [[Argumentation]]
 - [[Assumptions]]
@@ -1484,13 +1484,13 @@ graph LR
 - [[Decision-Making|Decision Making]]
 - [[Dialectical Reasoning]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Ethical Reasoning]]
+- [[Ethical-Reasoning|Ethical Reasoning]]
 - [[Evidence-Based Argumentation]]
-- [[Experimental Design]]
+- [[Experimental-Design|Experimental Design]]
 - [[Hermeneutics]]
 - [[Heuristics and Biases]]
-- [[Historical Interpretation]]
-- [[Hypothesis Testing]]
+- [[Historical-Interpretation|Historical Interpretation]]
+- [[Hypothesis-Testing|Hypothesis Testing]]
 - [[Implications]]
 - [[Inference]]
 - [[Informal-Fallacies|Informal Fallacies]]
@@ -1506,7 +1506,7 @@ graph LR
 - [[MOC - Paul-Elder Framework]]
 - [[Metacognition]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Moral Philosophy]]
+- [[Moral-Philosophy|Moral Philosophy]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Point-of-View|Point of View]]
 - [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
@@ -1522,9 +1522,9 @@ graph LR
 - [[Socratic-Questioning|Socratic Questioning]]
 - [[Socratic Questioning - Disciplined Interrogation of Thinking]]
 - [[Sources-of-Knowledge|Sources of Knowledge]]
-- [[Textual Analysis]]
+- [[Textual-Analysis|Textual Analysis]]
 - [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]
-- [[Theory Construction]]
+- [[Theory-Construction|Theory Construction]]
 - [[Thesis Development]]
 - [[Validity-and-Soundness|Validity and Soundness]]
 

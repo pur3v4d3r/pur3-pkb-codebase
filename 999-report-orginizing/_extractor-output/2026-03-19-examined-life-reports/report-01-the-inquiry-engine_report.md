@@ -421,7 +421,7 @@ extraction_summary:
 - [[Gregory-Vlastos|Gregory Vlastos]]
 - [[How-We-Think|How We Think]]
 - [[Inquiry-Based Learning Design: Principles and Evidence]]
-- [[Janet Metcalfe]]
+- [[Janet-Metcalfe|Janet Metcalfe]]
 - [[John-Dewey|John Dewey]]
 - [[John-Flavell|John Flavell]]
 - [[Jonathan-Evans|Jonathan Evans]]
@@ -434,17 +434,17 @@ extraction_summary:
 - [[Region-of-Proximal-Learning|Region of Proximal Learning]]
 - [[Richard-West|Richard West]]
 - [[Socratic-Method|Socratic Method]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[The Actively Open-Minded Thinking Scale: Measurement and Development]]
 - [[The Meno Paradox in Educational Theory]]
 - [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]
-- [[Wim De Neys]]
+- [[Wim-De-Neys|Wim De Neys]]
 - [[Aporia]]
 - [[Conflict-Monitoring|conflict monitoring]]
 - [[Elenchus|elenchus]]
-- [[epistemic curiosity]]
+- [[epistemic-curiosity|epistemic curiosity]]
 - [[Feeling-of-Knowing-—-FOK|feeling of knowing]]
 - [[Felt-Difficulty|felt difficulty]]
 - [[habit]]
@@ -481,7 +481,7 @@ extraction_summary:
 | 23 | [[Richard-West|Richard West]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
 | 24 | [[System-1|System 1]] | — | — | C. Dual Process Theory: The Cognitive... | 259 |
 | 25 | [[System-2|System 2]] | — | — | C. Dual Process Theory: The Cognitive... | 259 |
-| 26 | [[Wim De Neys]] | — | — | C. Dual Process Theory: The Cognitive... | 269 |
+| 26 | [[Wim-De-Neys|Wim De Neys]] | — | — | C. Dual Process Theory: The Cognitive... | 269 |
 | 27 | [[Conflict-Monitoring|conflict monitoring]] | — | — | C. Dual Process Theory: The Cognitive... | 269 |
 | 28 | [[Actively-Open-Minded-Thinking|Actively Open-Minded Thinking]] | — | — | C. Dual Process Theory: The Cognitive... | 274 |
 | 29 | [[John-Flavell|John Flavell]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
@@ -489,9 +489,9 @@ extraction_summary:
 | 31 | [[Metacognitive-Knowledge|metacognitive knowledge]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
 | 32 | [[Metacognitive-Experiences|metacognitive experiences]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
 | 33 | [[Feeling-of-Knowing-—-FOK|feeling of knowing]] | — | — | D. Metacognitive Monitoring: The Arch... | 280 |
-| 34 | [[Stephen Fleming]] | — | — | D. Metacognitive Monitoring: The Arch... | 285 |
-| 35 | [[Janet Metcalfe]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
-| 36 | [[epistemic curiosity]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
+| 34 | [[Stephen-Fleming|Stephen Fleming]] | — | — | D. Metacognitive Monitoring: The Arch... | 285 |
+| 35 | [[Janet-Metcalfe|Janet Metcalfe]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
+| 36 | [[epistemic-curiosity|epistemic curiosity]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
 | 37 | [[Region-of-Proximal-Learning|Region of Proximal Learning]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
 | 38 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | The Emergent Insight: Aporic Receptivity | 348 |
 | 39 | [[Elena]] | — | — | Worked Example: The Climate Policy En... | 362 |
@@ -558,7 +558,7 @@ extraction_summary:
 - [[Gregory-Vlastos|Gregory Vlastos]]
 - [[How-We-Think|How We Think]]
 - [[Inquiry-Based Learning Design: Principles and Evidence]]
-- [[Janet Metcalfe]]
+- [[Janet-Metcalfe|Janet Metcalfe]]
 - [[John-Dewey|John Dewey]]
 - [[John-Flavell|John Flavell]]
 - [[Jonathan-Evans|Jonathan Evans]]
@@ -571,17 +571,17 @@ extraction_summary:
 - [[Region-of-Proximal-Learning|Region of Proximal Learning]]
 - [[Richard-West|Richard West]]
 - [[Socratic-Method|Socratic Method]]
-- [[Stephen Fleming]]
+- [[Stephen-Fleming|Stephen Fleming]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[The Actively Open-Minded Thinking Scale: Measurement and Development]]
 - [[The Meno Paradox in Educational Theory]]
 - [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]
-- [[Wim De Neys]]
+- [[Wim-De-Neys|Wim De Neys]]
 - [[Aporia]]
 - [[Conflict-Monitoring|conflict monitoring]]
 - [[Elenchus|elenchus]]
-- [[epistemic curiosity]]
+- [[epistemic-curiosity|epistemic curiosity]]
 - [[Feeling-of-Knowing-—-FOK|feeling of knowing]]
 - [[Felt-Difficulty|felt difficulty]]
 - [[habit]]
@@ -604,7 +604,7 @@ extraction_summary:
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Epistemic Virtues]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Pragmatism]]
+- [[pragmatism]]
 - [[Socratic-Method|Socratic Method]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 

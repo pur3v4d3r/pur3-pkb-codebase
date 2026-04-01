@@ -24,21 +24,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 36
+referenced-by-count: 35
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[22-Framework]]"
   - "[[Achievement-Goal]]"
   - "[[Actively-Open-Minded-Thinking]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Deductive-Reasoning]]"
   - "[[Differentiated-Conception-of-Ability]]"
   - "[[Dual-Process-Theory]]"
+  - "[[Ego-Involvement]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,13 +60,12 @@ importance: high
 # Metacognition-&-Critical-Thinking
 
 > [!definition] **Metacognition-&-Critical-Thinking**
-> *Stub note — concept referenced by 36 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 35 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 36 permanent notes.*
+*Auto-generated stub — referenced by 35 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[22-Framework]]
 - [[Achievement-Goal]]
 - [[Actively-Open-Minded-Thinking]]
@@ -86,4 +85,5 @@ importance: high
 - [[Mental-Image]]
 - [[Mental-Models]]
 - [[Mental-Simulation]]
-- *...and 16 more permanent notes*
+- [[Model-Multiplicity]]
+- *...and 15 more permanent notes*

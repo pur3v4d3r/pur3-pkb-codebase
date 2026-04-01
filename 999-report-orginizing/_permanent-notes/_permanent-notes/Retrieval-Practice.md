@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "Retrieval-Practice"
+title: "retrieval-practice"
 aliases:
-  - "Retrieval-Practice"
+  - "retrieval-practice"
   - "Retrieval Practice"
 type: permanent-note
 status: seedling
@@ -24,62 +24,47 @@ domain: educational-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 17
+referenced-by-count: 6
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
-  - "[[Deep-Processing]]"
-  - "[[Distinctiveness]]"
-  - "[[Elaboration]]"
-  - "[[Elaborative-Rehearsal]]"
-  - "[[Incidental-Learning]]"
-  - "[[Levels-of-Processing]]"
-  - "[[Maintenance-Rehearsal]]"
-  - "[[Memory-Trace-Durability]]"
-  - "[[Orienting-Task]]"
+  - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
+  - "[[Deliberate-Practice]]"
+  - "[[Feeling-of-Knowing]]"
+  - "[[Fluency-Illusion]]"
+  - "[[Judgment-of-Learning]]"
+  - "[[Zone-of-Proximal-Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: medium
+importance: low
 ---
 
-# Retrieval-Practice
+# retrieval-practice
 
-> [!definition] **Retrieval-Practice**
-> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **retrieval-practice**
+> *Stub note — concept referenced by 6 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 17 permanent notes.*
+*Auto-generated stub — referenced by 6 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
-- [[Deep-Processing]]
-- [[Distinctiveness]]
-- [[Elaboration]]
-- [[Elaborative-Rehearsal]]
-- [[Incidental-Learning]]
-- [[Levels-of-Processing]]
-- [[Maintenance-Rehearsal]]
-- [[Memory-Trace-Durability]]
-- [[Orienting-Task]]
-- [[Orienting-Task-Paradigm]]
-- [[Processing-Depth]]
-- [[Schema]]
-- [[Self-Reference-Effect]]
-- [[Shallow-Processing]]
-- [[Subsequent-Memory-Effect]]
-- [[Transfer-Appropriate-Processing]]
+- [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]
+- [[Deliberate-Practice]]
+- [[Feeling-of-Knowing]]
+- [[Fluency-Illusion]]
+- [[Judgment-of-Learning]]
+- [[Zone-of-Proximal-Development]]

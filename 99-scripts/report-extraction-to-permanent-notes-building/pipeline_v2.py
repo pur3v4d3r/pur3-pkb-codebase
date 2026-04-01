@@ -89,6 +89,8 @@ REPORT_FOLDERS = [
     VAULT_ROOT / "999-report-orginizing" / "999-first-principles-reports",
     VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator",
     VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator",
+    VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator" / "from-copilot",
+    VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator" / "from-copilot" / "opus",
     VAULT_ROOT / "999-report-orginizing" / "999-socratic-reports",
     VAULT_ROOT / "999-report-orginizing" / "999-comparative-synthesis-report-generator",
     VAULT_ROOT / "999-report-orginizing" / "999-dialectical-re-examination-report-generator",
@@ -97,6 +99,8 @@ REPORT_FOLDERS = [
     VAULT_ROOT / "999-report-orginizing" / "reports-to-file",
     VAULT_ROOT / "999-report-orginizing" / "999-stoicism",
     VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator-v1.1.0",
+    VAULT_ROOT / "999-report-orginizing" / "999-generative-learning",
+    VAULT_ROOT / "999-report-orginizing" / "srl-practice",
 ]
 
 # Processed-batches tracker file for diff-aware runs

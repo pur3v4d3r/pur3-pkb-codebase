@@ -219,7 +219,7 @@ extraction_summary:
 #### 8. [EXAMPLE] Inhibition in CT *(Line 318)*
 
 > [!example] Inhibition in CT
-> The classic [[Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
+> The classic [[Bat-and-Ball-Problem|Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
 > 
 > System 1 immediately suggests $0.10 (intuitive but wrong). Critical thinking requires inhibiting this prepotent response and engaging algebraic reasoning:
 > - Let ball = x
@@ -232,7 +232,7 @@ extraction_summary:
 #### 9. [KEY-CLAIM] Metacognitive Superiority Effect *(Line 367)*
 
 > [!key-claim] Metacognitive Superiority Effect
-> The defining characteristic separating expert from novice critical thinkers is **metacognitive sophistication** rather than raw analytical power. [[Larkin and Simon]]'s studies of expert problem solvers revealed experts spend proportionally more time planning approach and monitoring progress, while novices immediately apply formulas without strategic oversight.
+> The defining characteristic separating expert from novice critical thinkers is **metacognitive sophistication** rather than raw analytical power. [[Larkin-and-Simon|Larkin and Simon]]'s studies of expert problem solvers revealed experts spend proportionally more time planning approach and monitoring progress, while novices immediately apply formulas without strategic oversight.
 
 #### 10. [METHODOLOGY-AND-SOURCES] Cognitive Systems Coordination in CT *(Line 396)*
 
@@ -364,10 +364,10 @@ extraction_summary:
 - [[Argument-Based Inquiry]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Assessment-Design|Assessment Design]]
-- [[Atkinson and Shiffrin]]
+- [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]]
 - [[Australian Council for Educational Research]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Bat-and-Ball Problem]]
+- [[Bat-and-Ball-Problem|Bat-and-Ball Problem]]
 - [[Behavioral Economics]]
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bruner]]
@@ -419,7 +419,7 @@ extraction_summary:
 - [[Kuhn-and-Dean|Kuhn and Dean]]
 - [[Kuhn and Weinstock]]
 - [[Kuhn's]]
-- [[Larkin and Simon]]
+- [[Larkin-and-Simon|Larkin and Simon]]
 - [[Lateral Reading]]
 - [[Learning Strategies]]
 - [[Linda-Elder|Linda Elder]]
@@ -430,7 +430,7 @@ extraction_summary:
 - [[Measurement Theory]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Michael-Polanyi|Michael Polanyi]]
-- [[Miyake and Friedman]]
+- [[Miyake-and-Friedman|Miyake and Friedman]]
 - [[Modus-Ponens|Modus Ponens]]
 - [[Modus-Tollens|Modus Tollens]]
 - [[Myside-Bias|Myside Bias]]
@@ -450,8 +450,8 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic-Method|Socratic Method]]
-- [[Straw Man]]
-- [[Susan Haack]]
+- [[Straw-Man|Straw Man]]
+- [[Susan-Haack|Susan Haack]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[Test of Reasoning and Argument]]
@@ -464,7 +464,7 @@ extraction_summary:
 - [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]
 - [[Willingham]]
 - [[Wineburg]]
-- [[Wisconsin Card Sorting Task]]
+- [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]]
 - [[Zettelkasten Method]]
 
 ### All Occurrences
@@ -495,23 +495,23 @@ extraction_summary:
 | 22 | [[Empiricism]] | — | — | The Epistemological Dimension: CT as ... | 240 |
 | 23 | [[Rationalism]] | — | — | The Epistemological Dimension: CT as ... | 241 |
 | 24 | [[Fallibilism]] | — | — | The Epistemological Dimension: CT as ... | 242 |
-| 25 | [[Susan Haack]] | — | — | The Epistemological Dimension: CT as ... | 245 |
+| 25 | [[Susan-Haack|Susan Haack]] | — | — | The Epistemological Dimension: CT as ... | 245 |
 | 26 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | The Information Processing Foundation | 262 |
-| 27 | [[Atkinson and Shiffrin]] | — | — | The Information Processing Foundation | 262 |
+| 27 | [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] | — | — | The Information Processing Foundation | 262 |
 | 28 | [[Cowan]] | — | — | Working Memory: The Cognitive Workspace | 272 |
 | 29 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Working Memory: The Cognitive Workspace | 274 |
 | 30 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Working Memory: The Cognitive Workspace | 296 |
 | 31 | [[Modus-Ponens|Modus Ponens]] | — | — | Working Memory: The Cognitive Workspace | 302 |
-| 32 | [[Miyake and Friedman]] | — | — | Executive Function: The Cognitive Con... | 310 |
+| 32 | [[Miyake-and-Friedman|Miyake and Friedman]] | — | — | Executive Function: The Cognitive Con... | 310 |
 | 33 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 34 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 35 | [[System-1|System 1]] | — | — | Executive Function: The Cognitive Con... | 316 |
 | 36 | [[System-2|System 2]] | — | — | Executive Function: The Cognitive Con... | 316 |
-| 37 | [[Bat-and-Ball Problem]] | — | — | Executive Function: The Cognitive Con... | 319 |
+| 37 | [[Bat-and-Ball-Problem|Bat-and-Ball Problem]] | — | — | Executive Function: The Cognitive Con... | 319 |
 | 38 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Executive Function: The Cognitive Con... | 339 |
-| 39 | [[Wisconsin Card Sorting Task]] | — | — | Executive Function: The Cognitive Con... | 345 |
+| 39 | [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] | — | — | Executive Function: The Cognitive Con... | 345 |
 | 40 | [[John-Flavell|John Flavell]] | — | — | Metacognition: Self-Regulation of Thi... | 355 |
-| 41 | [[Larkin and Simon]] | — | — | Metacognition: Self-Regulation of Thi... | 368 |
+| 41 | [[Larkin-and-Simon|Larkin and Simon]] | — | — | Metacognition: Self-Regulation of Thi... | 368 |
 | 42 | [[Kruger and Dunning]] | — | — | Metacognition: Self-Regulation of Thi... | 372 |
 | 43 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Metacognition: Self-Regulation of Thi... | 372 |
 | 44 | [[Goel and Dolan]] | — | — | Neural Substrates of Critical Thinking | 380 |
@@ -550,7 +550,7 @@ extraction_summary:
 | 77 | [[McPeck]] | — | — | Domain-General vs. Domain-Specific CT | 936 |
 | 78 | [[Ennis]] | — | — | Domain-General vs. Domain-Specific CT | 936 |
 | 79 | [[Ad Hominem]] | — | — | Domain-General vs. Domain-Specific CT | 946 |
-| 80 | [[Straw Man]] | — | — | Domain-General vs. Domain-Specific CT | 946 |
+| 80 | [[Straw-Man|Straw Man]] | — | — | Domain-General vs. Domain-Specific CT | 946 |
 | 81 | [[False Dilemma]] | — | — | Domain-General vs. Domain-Specific CT | 946 |
 | 82 | [[Willingham]] | — | — | Domain-General vs. Domain-Specific CT | 953 |
 | 83 | [[Wineburg]] | — | — | Historical CT | 989 |
@@ -1205,10 +1205,10 @@ extraction_summary:
 - [[Argument-Based Inquiry]]
 - [[Argumentation-Theory|Argumentation Theory]]
 - [[Assessment-Design|Assessment Design]]
-- [[Atkinson and Shiffrin]]
+- [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]]
 - [[Australian Council for Educational Research]]
 - [[Availability-Heuristic|Availability Heuristic]]
-- [[Bat-and-Ball Problem]]
+- [[Bat-and-Ball-Problem|Bat-and-Ball Problem]]
 - [[Behavioral Economics]]
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bruner]]
@@ -1260,7 +1260,7 @@ extraction_summary:
 - [[Kuhn-and-Dean|Kuhn and Dean]]
 - [[Kuhn and Weinstock]]
 - [[Kuhn's]]
-- [[Larkin and Simon]]
+- [[Larkin-and-Simon|Larkin and Simon]]
 - [[Lateral Reading]]
 - [[Learning Strategies]]
 - [[Linda-Elder|Linda Elder]]
@@ -1271,7 +1271,7 @@ extraction_summary:
 - [[Measurement Theory]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Michael-Polanyi|Michael Polanyi]]
-- [[Miyake and Friedman]]
+- [[Miyake-and-Friedman|Miyake and Friedman]]
 - [[Modus-Ponens|Modus Ponens]]
 - [[Modus-Tollens|Modus Tollens]]
 - [[Myside-Bias|Myside Bias]]
@@ -1291,8 +1291,8 @@ extraction_summary:
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic-Method|Socratic Method]]
-- [[Straw Man]]
-- [[Susan Haack]]
+- [[Straw-Man|Straw Man]]
+- [[Susan-Haack|Susan Haack]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
 - [[Test of Reasoning and Argument]]
@@ -1305,7 +1305,7 @@ extraction_summary:
 - [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]
 - [[Willingham]]
 - [[Wineburg]]
-- [[Wisconsin Card Sorting Task]]
+- [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]]
 - [[Zettelkasten Method]]
 
 ### Frontmatter Relationships

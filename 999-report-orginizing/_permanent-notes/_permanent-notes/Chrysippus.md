@@ -23,30 +23,30 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 24
+referenced-by-count: 35
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
-  - "[[Synkatathesis-Assent-and-the-Stoic-Gap]]"
-  - "[[_Master-Definition-Index|_Master-Definition-Index]]"
-  - "[[📖-Cognitive-Decoupling]]"
-  - "[[📖-Mindware]]"
-  - "[[📖-Prosoche]]"
-  - "[[📖-Synkatathesis]]"
-  - "[[📖-Synkatathesis-Assent-and-the-Stoic-Gap]]"
-  - "[[📖-The-Governed-Attentional-Gap]]"
-  - "[[📖-Type-1-Processing]]"
+  - "[[Affect-as-Information-Theory]]"
+  - "[[Affective-Realism]]"
+  - "[[Appraisal-Theory]]"
+  - "[[Core-Affect]]"
+  - "[[Emotional-Calibration]]"
+  - "[[Emotional-Granularity]]"
+  - "[[Emotional-Granularity-as-Epistemic-Precision]]"
+  - "[[Eupatheia]]"
+  - "[[Path]]"
+  - "[[Path-and-Eupatheia-The-Stoic-Distinction]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,14 +59,25 @@ importance: high
 # Chrysippus
 
 > [!definition] **Chrysippus**
-> *Stub note — concept referenced by 24 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 35 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 24 permanent notes.*
+*Auto-generated stub — referenced by 35 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
+- [[Affect-as-Information-Theory]]
+- [[Affective-Realism]]
+- [[Appraisal-Theory]]
+- [[Core-Affect]]
+- [[Emotional-Calibration]]
+- [[Emotional-Granularity]]
+- [[Emotional-Granularity-as-Epistemic-Precision]]
+- [[Eupatheia]]
+- [[Path]]
+- [[Path-and-Eupatheia-The-Stoic-Distinction]]
+- [[Somatic-Marker-Hypothesis]]
 - [[Synkatathesis-Assent-and-the-Stoic-Gap]]
+- [[Theory-of-Constructed-Emotion]]
 - [[_Master-Definition-Index|_Master-Definition-Index]]
 - [[📖-Cognitive-Decoupling]]
 - [[📖-Mindware]]
@@ -74,15 +85,4 @@ importance: high
 - [[📖-Synkatathesis]]
 - [[📖-Synkatathesis-Assent-and-the-Stoic-Gap]]
 - [[📖-The-Governed-Attentional-Gap]]
-- [[📖-Type-1-Processing]]
-- [[📖-Type-2-Processing]]
-- [[🔖-Affect-as-Information-Theory]]
-- [[🔖-Affective-Realism]]
-- [[🔖-Appraisal-Theory]]
-- [[🔖-Core-Affect]]
-- [[🔖-Emotional-Calibration]]
-- [[🔖-Emotional-Granularity]]
-- [[🔖-Emotional-Granularity-as-Epistemic-Precision]]
-- [[🔖-Eupatheia]]
-- [[🔖-Pathē]]
-- *...and 4 more permanent notes*
+- *...and 15 more permanent notes*

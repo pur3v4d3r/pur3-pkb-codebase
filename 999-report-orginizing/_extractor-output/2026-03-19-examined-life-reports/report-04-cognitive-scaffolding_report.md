@@ -140,7 +140,7 @@ extraction_summary:
 #### 2. [CONNECTION-IDEAS] 🔗 Grounding in the Series *(Line 189)*
 
 > [!connection-ideas] 🔗 Grounding in the Series
-> This report presupposes the inquiry activation mechanism described in [[Report-01|Report 01]] and the fallibilist epistemological posture established in [[Report 02]]. The activated, fallibilist inquirer now needs to know *how* to build understanding once inquiry is engaged. Report 04 answers that question. It also depends on [[Report 03]]'s account of intrinsic motivation — the sustained cognitive effort that schema construction requires must be motivationally powered — and will in turn transform how we understand both Report 03's motivational architecture and Report 01's activation mechanism.
+> This report presupposes the inquiry activation mechanism described in [[Report-01|Report 01]] and the fallibilist epistemological posture established in [[Report-02|Report 02]]. The activated, fallibilist inquirer now needs to know *how* to build understanding once inquiry is engaged. Report 04 answers that question. It also depends on [[Report-03|Report 03]]'s account of intrinsic motivation — the sustained cognitive effort that schema construction requires must be motivationally powered — and will in turn transform how we understand both Report 03's motivational architecture and Report 01's activation mechanism.
 
 #### 3. [QUESTION] 📚 The Expository Question *(Line 196)*
 
@@ -170,7 +170,7 @@ extraction_summary:
 #### 8. [INSIGHT] 💡 The Paradox at the Core *(Line 241)*
 
 > [!insight] 💡 The Paradox at the Core
-> Schema theory reveals a fundamental paradox of learning: schemas are simultaneously the *precondition* for understanding (you must have organized structures to connect new information to) and the *obstacle* to growth (schemas that have served well in familiar territory become active misrepresentations of unfamiliar territory). Learning requires holding schemas open for revision — using them as tools while simultaneously recognizing their provisional, revisable character. This is precisely the [[Fallibilist]] epistemological posture described in [[Report 02]]: the examined thinker treats their schemas as excellent but improvable models of reality, not as transparent windows onto it.
+> Schema theory reveals a fundamental paradox of learning: schemas are simultaneously the *precondition* for understanding (you must have organized structures to connect new information to) and the *obstacle* to growth (schemas that have served well in familiar territory become active misrepresentations of unfamiliar territory). Learning requires holding schemas open for revision — using them as tools while simultaneously recognizing their provisional, revisable character. This is precisely the [[Fallibilist]] epistemological posture described in [[Report-02|Report 02]]: the examined thinker treats their schemas as excellent but improvable models of reality, not as transparent windows onto it.
 
 #### 9. [DEFINITION] 📖 Working Memory and Long-Term Memory in CLT *(Line 248)*
 
@@ -200,7 +200,7 @@ extraction_summary:
 #### 14. [INSIGHT] 💡 The Paradox Resolved *(Line 289)*
 
 > [!insight] 💡 The Paradox Resolved
-> The tension between schema stability and schema growth is not a problem to be solved but a dynamic to be *managed*. The productive learner — the one practicing Constructive Attentiveness — is one who can recognize when existing schemas are sufficient for the current challenge (and should be relied upon) and when the challenge demands accommodation (and existing schemas must be held provisionally, exposed to disconfirmation, and revised). This is the epistemic skill that [[Report 02]]'s [[Fallibilist]] posture supports: not the abandonment of schemas but their provisional, revisable deployment. The examined thinker holds their schemas as excellent but improvable tools, not as transparent windows onto reality.
+> The tension between schema stability and schema growth is not a problem to be solved but a dynamic to be *managed*. The productive learner — the one practicing Constructive Attentiveness — is one who can recognize when existing schemas are sufficient for the current challenge (and should be relied upon) and when the challenge demands accommodation (and existing schemas must be held provisionally, exposed to disconfirmation, and revised). This is the epistemic skill that [[Report-02|Report 02]]'s [[Fallibilist]] posture supports: not the abandonment of schemas but their provisional, revisable deployment. The examined thinker holds their schemas as excellent but improvable tools, not as transparent windows onto reality.
 
 #### 15. [ASK-YOURSELF-THIS] 🤔 Reflective Question *(Line 306)*
 
@@ -269,7 +269,7 @@ extraction_summary:
 #### 28. [CONNECTIONS-AND-LINKS] 🔗 Report 03 *(Line 385)*
 
 > [!connections-and-links] 🔗 Report 03
-> **Report 03 enriched:** [[Self-Determination-Theory|Self-Determination Theory]]'s account of intrinsic motivation, and [[Csikszentmihalyi]]'s [[Flow]] theory, now acquire a precise cognitive-developmental grounding through the ZPD. Flow's central insight — that the intrinsically motivating state of optimal experience occurs when challenge and skill are in balance, at the upper edge of current competence — describes the motivational experience of operating within one's ZPD. The Zone of Proximal Development is precisely the challenge-skill balance point that Flow theory identifies as the source of intrinsic motivation. This means that the motivational architecture of [[Report 03]] and the developmental architecture of [[Report-04|Report 04]] are not separate systems but two descriptions of the same cognitive zone: the ZPD is where Flow is most naturally experienced because it is where challenge and current schemas are genuinely balanced. The examined thinker who cultivates Constructive Attentiveness is not only building better understanding — they are also cultivating the conditions for sustained intrinsic motivation.
+> **Report 03 enriched:** [[Self-Determination-Theory|Self-Determination Theory]]'s account of intrinsic motivation, and [[Csikszentmihalyi]]'s [[Flow]] theory, now acquire a precise cognitive-developmental grounding through the ZPD. Flow's central insight — that the intrinsically motivating state of optimal experience occurs when challenge and skill are in balance, at the upper edge of current competence — describes the motivational experience of operating within one's ZPD. The Zone of Proximal Development is precisely the challenge-skill balance point that Flow theory identifies as the source of intrinsic motivation. This means that the motivational architecture of [[Report-03|Report 03]] and the developmental architecture of [[Report-04|Report 04]] are not separate systems but two descriptions of the same cognitive zone: the ZPD is where Flow is most naturally experienced because it is where challenge and current schemas are genuinely balanced. The examined thinker who cultivates Constructive Attentiveness is not only building better understanding — they are also cultivating the conditions for sustained intrinsic motivation.
 
 #### 29. [SUMMARY] 📋 Phase V Summary *(Line 400)*
 
@@ -413,10 +413,10 @@ extraction_summary:
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Pragmatic-Maxim|Pragmatic Maxim]]
 - [[Report-01|Report 01]]
-- [[Report 02]]
-- [[Report 03]]
+- [[Report-02|Report 02]]
+- [[Report-03|Report 03]]
 - [[Report-04|Report 04]]
-- [[Report 05]]
+- [[Report-05|Report 05]]
 - [[Scaffolding]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -443,8 +443,8 @@ extraction_summary:
 | 14 | [[Epistemic-Architecture|Epistemic Architecture]] | — | — | Phase I — The Premise: The Architectu... | 187 |
 | 15 | [[Tier-1|Tier 1]] | — | — | Phase I — The Premise: The Architectu... | 187 |
 | 16 | [[Report-01|Report 01]] | — | — | Phase I — The Premise: The Architectu... | 190 |
-| 17 | [[Report 02]] | — | — | Phase I — The Premise: The Architectu... | 190 |
-| 18 | [[Report 03]] | — | — | Phase I — The Premise: The Architectu... | 190 |
+| 17 | [[Report-02|Report 02]] | — | — | Phase I — The Premise: The Architectu... | 190 |
+| 18 | [[Report-03|Report 03]] | — | — | Phase I — The Premise: The Architectu... | 190 |
 | 19 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | The Problem of the Productive Gap: Vy... | 201 |
 | 20 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Problem of the Productive Gap: Vy... | 201 |
 | 21 | [[Scaffolding]] | — | — | The Problem of the Productive Gap: Vy... | 208 |
@@ -458,17 +458,17 @@ extraction_summary:
 | 29 | [[Jean-Piaget|Jean Piaget]] | — | — | The Problem of Cognitive Architecture... | 232 |
 | 30 | [[David-Rumelhart|David Rumelhart]] | — | — | The Problem of Cognitive Architecture... | 239 |
 | 31 | [[Fallibilist]] | — | — | The Problem of Cognitive Architecture... | 242 |
-| 32 | [[Report 02]] | — | — | The Problem of Cognitive Architecture... | 242 |
+| 32 | [[Report-02|Report 02]] | — | — | The Problem of Cognitive Architecture... | 242 |
 | 33 | [[John-Sweller|John Sweller]] | — | — | The Problem of Cognitive Resource Eco... | 246 |
 | 34 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Problem of Cognitive Resource Eco... | 246 |
-| 35 | [[Report 02]] | — | — | The Conceptual Tension: Schema Stabil... | 290 |
+| 35 | [[Report-02|Report 02]] | — | — | The Conceptual Tension: Schema Stabil... | 290 |
 | 36 | [[Fallibilist]] | — | — | The Conceptual Tension: Schema Stabil... | 290 |
 | 37 | [[Discovery-Learning|Discovery Learning]] | — | — | The Discovery-Instruction Controversy... | 298 |
 | 38 | [[Direct-Instruction|Direct Instruction]] | — | — | The Discovery-Instruction Controversy... | 298 |
 | 39 | [[Constructive-Attentiveness|Constructive Attentiveness]] | — | — | Developmental Implications: Construct... | 350 |
 | 40 | [[Constructive-Attentiveness|Constructive Attentiveness]] | — | — | The Emergent Insight: Constructive At... | 361 |
 | 41 | [[Report-01|Report 01]] | — | — | The Emergent Insight: Constructive At... | 366 |
-| 42 | [[Report 05]] | — | — | The Emergent Insight: Constructive At... | 368 |
+| 42 | [[Report-05|Report 05]] | — | — | The Emergent Insight: Constructive At... | 368 |
 | 43 | [[Report-01|Report 01]] | — | — | Retroactive Enrichment of the Series | 380 |
 | 44 | [[Report-01|Report 01]] | — | — | Retroactive Enrichment of the Series | 380 |
 | 45 | [[Report-04|Report 04]] | — | — | Retroactive Enrichment of the Series | 380 |
@@ -476,7 +476,7 @@ extraction_summary:
 | 47 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Retroactive Enrichment of the Series | 386 |
 | 48 | [[Csikszentmihalyi]] | — | — | Retroactive Enrichment of the Series | 386 |
 | 49 | [[Flow]] | — | — | Retroactive Enrichment of the Series | 386 |
-| 50 | [[Report 03]] | — | — | Retroactive Enrichment of the Series | 386 |
+| 50 | [[Report-03|Report 03]] | — | — | Retroactive Enrichment of the Series | 386 |
 | 51 | [[Report-04|Report 04]] | — | — | Retroactive Enrichment of the Series | 386 |
 | 52 | [[Anders-Ericsson|Anders Ericsson]] | — | — | Expansion Topics for PKB Development | 482 |
 
@@ -535,10 +535,10 @@ extraction_summary:
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Pragmatic-Maxim|Pragmatic Maxim]]
 - [[Report-01|Report 01]]
-- [[Report 02]]
-- [[Report 03]]
+- [[Report-02|Report 02]]
+- [[Report-03|Report 03]]
 - [[Report-04|Report 04]]
-- [[Report 05]]
+- [[Report-05|Report 05]]
 - [[Scaffolding]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

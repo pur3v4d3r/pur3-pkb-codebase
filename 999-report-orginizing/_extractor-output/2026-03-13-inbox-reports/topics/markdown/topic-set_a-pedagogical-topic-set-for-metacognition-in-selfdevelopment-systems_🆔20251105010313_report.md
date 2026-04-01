@@ -105,7 +105,7 @@ extraction_summary:
 #### 2. [TOPIC-IDEA] Untitled *(Line 38)*
 
 > [!topic-idea] Untitled
-> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive-Monitoring|Metacognitive Monitoring]] and [[Executive Control]] in Personal Development Systems
+> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive-Monitoring|Metacognitive Monitoring]] and [[Executive-Control|Executive Control]] in Personal Development Systems
 > 
 > **Scope & Angle:** This topic provides a comprehensive exposition of the dual-process model of metacognition (monitoring and control) and how these processes can be systematically applied to create a self-development framework. It covers the theoretical foundations from Flavell, Nelson & Narens, and modern neurocognitive research, then maps these concepts onto practical self-improvement methodologies. The focus is on understanding the complete taxonomy of metacognitive strategies and their specific applications in behavior change.
 
@@ -182,7 +182,7 @@ extraction_summary:
 - [[Cambridge Brain Sciences Project]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ecological Momentary Assessment Methods]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Implementation Intentions and If-Then Planning]]
 - [[Interoception and Embodied Cognition]]
 - [[Introspection-Based vs. Behavior-Based Metacognitive Assessment]]
@@ -199,7 +199,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | A Pedagogical Topic Set for Metacogni... | 40 |
-| 2 | [[Executive Control]] | — | — | A Pedagogical Topic Set for Metacogni... | 40 |
+| 2 | [[Executive-Control|Executive Control]] | — | — | A Pedagogical Topic Set for Metacogni... | 40 |
 | 3 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | A Pedagogical Topic Set for Metacogni... | 53 |
 | 4 | [[Self-Awareness]] | — | — | A Pedagogical Topic Set for Metacogni... | 66 |
 | 5 | [[Self-Improvement]] | — | — | A Pedagogical Topic Set for Metacogni... | 66 |
@@ -285,7 +285,7 @@ For each pedagogical scaffold, I need to find the perfect angle:
 - [[Cambridge Brain Sciences Project]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ecological Momentary Assessment Methods]]
-- [[Executive Control]]
+- [[Executive-Control|Executive Control]]
 - [[Implementation Intentions and If-Then Planning]]
 - [[Interoception and Embodied Cognition]]
 - [[Introspection-Based vs. Behavior-Based Metacognitive Assessment]]

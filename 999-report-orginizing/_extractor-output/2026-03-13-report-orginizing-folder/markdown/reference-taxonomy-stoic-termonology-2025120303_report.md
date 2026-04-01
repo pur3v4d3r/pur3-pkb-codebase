@@ -428,7 +428,7 @@ extraction_summary:
 > - **Key-Term**:: [[Telos]] (τέλος)
 > - **Pronunciation**:: TEL-os
 > - **Definition**:: The ultimate aim or final end of human life; that which we pursue for its own sake and not for any other purpose
-> - **Stoic Specification**:: For Stoics, the telos is "living in agreement with nature" (homologoumenōs tē physei zēn), which means developing one's [[Rational Nature]] fully through [[Virtue]]
+> - **Stoic Specification**:: For Stoics, the telos is "living in agreement with nature" (homologoumenōs tē physei zēn), which means developing one's [[Rational-Nature|Rational Nature]] fully through [[Virtue]]
 > - **Key Formulations**:: "Living according to nature" | "Living virtuously" | "Living in agreement with reason"
 > - **Practical Application**:: When making decisions, ask "Does this develop my character and reason?" rather than "Does this bring pleasure or profit?"
 > - **Cross-References**:: See [[Eudaimonia]], [[Arete]], [[Kata Physin]], [[Oikeiosis]]
@@ -443,7 +443,7 @@ extraction_summary:
 > - **Definition**:: The state of human flourishing, happiness, or well-being achieved through virtuous living; not pleasure or contentment but a deep sense of living well
 > - **Stoic Distinction**:: Unlike [[Epicureanism]] (pleasure) or popular conceptions (external success), Stoic eudaimonia is exclusively tied to [[Virtue]] and **cannot** be achieved through external goods
 > - **Marcus Aurelius**: "The happiness of your life depends upon the quality of your thoughts" (Meditations 4.3)
-> - **Common Misconception**:: This is NOT about "feeling happy" in the modern sense—it's about living in harmony with your [[Rational Nature]]
+> - **Common Misconception**:: This is NOT about "feeling happy" in the modern sense—it's about living in harmony with your [[Rational-Nature|Rational Nature]]
 > - **Practical Application**:: Evaluate your day not by outcomes but by whether you acted with [[Wisdom]], [[Justice]], [[Courage]], and [[Temperance]]
 > - **Cross-References**:: See [[Arete]], [[Telos]], [[Apatheia]], [[Ataraxia]]
 
@@ -584,7 +584,7 @@ extraction_summary:
 #### 20. [KEY-CLAIM] Untitled *(Line 525)*
 
 > [!key-claim] Untitled
-> **Unity of the Virtues**: The Stoics held that the [[Four Cardinal Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
+> **Unity of the Virtues**: The Stoics held that the [[Four-Cardinal-Virtues|Four Cardinal Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
 
 #### 21. [DEFINITION] Untitled *(Line 530)*
 
@@ -810,7 +810,7 @@ extraction_summary:
 > - **Marcus Aurelius**: "Accept whatever comes to you woven in the pattern of your destiny, for what could more aptly fit your needs?" (Meditations 5.8)
 > - **Practical Application**: Don't rage against what must be—focus on your [[Prohairesis]] (how you respond), which is truly yours
 > - **Therapeutic Function**: Accepting [[Heimarmenê]] eliminates anxiety about outcomes beyond our control
-> - **Cross-References**:: See [[Logos]], [[Pronoia]], [[Amor Fati]], [[Sympatheia]]
+> - **Cross-References**:: See [[Logos]], [[Pronoia]], [[Amor-Fati|Amor Fati]], [[Sympatheia]]
 
 #### 38. [DEFINITION] Untitled *(Line 740)*
 
@@ -917,7 +917,7 @@ extraction_summary:
 > - **Common Mistake**: Treating [[Ouk Eph' Hêmin]] as [[Eph' Hêmin]]—investing emotional energy in what we don't control
 > - **Result of Confusion**: Anxiety, frustration, anger, grief about externals all stem from treating [[Ouk Eph' Hêmin]] as important to happiness
 > - **Practical Application**: When anxious, check: "Am I worrying about something not actually in my power? Can I redirect focus to my response?"
-> - **Cross-References**:: See [[Eph' Hêmin]], [[Adiaphora]], [[Prohairesis]], [[Reserve Clause]]
+> - **Cross-References**:: See [[Eph' Hêmin]], [[Adiaphora]], [[Prohairesis]], [[Reserve-Clause|Reserve Clause]]
 
 #### 46. [DEFINITION] Untitled *(Line 841)*
 
@@ -941,7 +941,7 @@ extraction_summary:
 > - **Pronunciation**:: AH-skeh-sis
 > - **Translation**:: Training, discipline, exercise, practice
 > - **Definition**:: Systematic spiritual and ethical training designed to develop [[Virtue]]; disciplined practices that strengthen the soul just as physical exercise strengthens the body
-> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent|Discipline of Assent]]
+> - **Epictetus' Three Topoi**: (1) [[Discipline-of-Desire|Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent|Discipline of Assent]]
 > - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio-Malorum|Premeditatio Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
 > - **Not Asceticism**: Goal is not self-denial for its own sake but training toward [[Virtue]] and [[Apatheia]]
 > - **Seneca**: "Cherish some man of high character, and keep him ever before your eyes, living as if he watched you, and ordering all your actions as if he beheld them" (Moral Letters 11.8)
@@ -1012,7 +1012,7 @@ extraction_summary:
 #### 52. [DEFINITION] Untitled *(Line 921)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[Amor Fati]] (Latin)
+> - **Key-Term**:: [[Amor-Fati|Amor Fati]] (Latin)
 > - **Translation**:: "Love of fate" or "Love of one's fate"
 > - **Definition**:: The practice of embracing everything that happens as necessary, meaningful, and ultimately for the best; willing acceptance of all events, pleasant or difficult
 > - **Marcus Aurelius**: "A blazing fire makes flame and brightness out of everything that is thrown into it" (Meditations 10.31)
@@ -1029,14 +1029,14 @@ extraction_summary:
 > - **Key-Term**:: [[The Three Disciplines / Topoi]] (τόποι)
 > - **Pronunciation**:: TOH-poy (plural)
 > - **Translation**:: The three areas of training, the three topics
-> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent|Discipline of Assent]] (sunkatathesis)
+> - **Epictetus' Framework**: (1) [[Discipline-of-Desire|Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent|Discipline of Assent]] (sunkatathesis)
 > - **Definition**:: The three domains of practical Stoic training, each addressing a different aspect of human psychology and corresponding to branches of philosophy
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
 > - **Pierre Hadot**: Identified these as structuring principle of [[Marcus-Aurelius|Marcus Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
-> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent|Discipline of Assent]]
+> - **Cross-References**:: See [[Discipline-of-Desire|Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent|Discipline of Assent]]
 
 #### 54. [DEFINITION] Untitled *(Line 952)*
 
@@ -1182,7 +1182,7 @@ extraction_summary:
 - [[Agchinoia]]
 - [[Aidēmosyne]]
 - [[Amathia]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Ancient Greek Philosophy]]
 - [[Andreia]]
 - [[Apatheia]]
@@ -1215,7 +1215,7 @@ extraction_summary:
 - [[Diogenes the Cynic]]
 - [[Discipline of Action]]
 - [[Discipline-of-Assent|Discipline of Assent]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire|Discipline of Desire]]
 - [[Doxa]]
 - [[Ekloge]]
 - [[Ekpyrosis]]
@@ -1244,7 +1244,7 @@ extraction_summary:
 - [[Existentialism]]
 - [[First Movements]]
 - [[First Movements / Propatheiai]]
-- [[Four Cardinal Virtues]]
+- [[Four-Cardinal-Virtues|Four Cardinal Virtues]]
 - [[Hamartia]]
 - [[Hegemonikon]]
 - [[Heimarmenê]]
@@ -1328,8 +1328,8 @@ extraction_summary:
 - [[Pseudo-Andronicus]]
 - [[Psychê]]
 - [[Pyr Technikon]]
-- [[Rational Nature]]
-- [[Reserve Clause]]
+- [[Rational-Nature|Rational Nature]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Rhetoric]]
 - [[Seneca]]
 - [[Socrates]]
@@ -1401,7 +1401,7 @@ extraction_summary:
 | 23 | [[Eudaimonia]] | — | — | 🎯 Foundation - The Goal of Stoic Life | 374 |
 | 24 | [[Arete]] | — | — | 🎯 Foundation - The Goal of Stoic Life | 374 |
 | 25 | [[Telos]] | — | — | Core Terms: Life's Ultimate Aim | 379 |
-| 26 | [[Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 382 |
+| 26 | [[Rational-Nature|Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 382 |
 | 27 | [[Virtue]] | — | — | Core Terms: Life's Ultimate Aim | 382 |
 | 28 | [[Eudaimonia]] | — | — | Core Terms: Life's Ultimate Aim | 385 |
 | 29 | [[Arete]] | — | — | Core Terms: Life's Ultimate Aim | 385 |
@@ -1413,7 +1413,7 @@ extraction_summary:
 | 35 | [[Eudaimonia]] | — | — | Core Terms: Life's Ultimate Aim | 389 |
 | 36 | [[Epicureanism]] | — | — | Core Terms: Life's Ultimate Aim | 393 |
 | 37 | [[Virtue]] | — | — | Core Terms: Life's Ultimate Aim | 393 |
-| 38 | [[Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 395 |
+| 38 | [[Rational-Nature|Rational Nature]] | — | — | Core Terms: Life's Ultimate Aim | 395 |
 | 39 | [[Wisdom]] | — | — | Core Terms: Life's Ultimate Aim | 396 |
 | 40 | [[Justice]] | — | — | Core Terms: Life's Ultimate Aim | 396 |
 | 41 | [[Courage]] | — | — | Core Terms: Life's Ultimate Aim | 396 |
@@ -1468,7 +1468,7 @@ extraction_summary:
 | 90 | [[Ethical Framework]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
 | 91 | [[Virtue]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
 | 92 | [[Vice]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
-| 93 | [[Four Cardinal Virtues]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
+| 93 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
 | 94 | [[Prokoptôn]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
 | 95 | [[Sophos]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 467 |
 | 96 | [[Eph' Hêmin]] | — | — | ⚖️ Ethical Framework - Virtue & Chara... | 470 |
@@ -1529,7 +1529,7 @@ extraction_summary:
 | 151 | [[Autarkeia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 523 |
 | 152 | [[Apatheia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 523 |
 | 153 | [[Metriopatheia]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 523 |
-| 154 | [[Four Cardinal Virtues]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 526 |
+| 154 | [[Four-Cardinal-Virtues|Four Cardinal Virtues]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 526 |
 | 155 | [[Virtue]] | — | — | The Four Cardinal Virtues (Tetrapharm... | 526 |
 | 156 | [[Kakon / Kakia]] | — | — | Vice, Error, and Moral Progress | 531 |
 | 157 | [[Arete]] | — | — | Vice, Error, and Moral Progress | 533 |
@@ -1718,7 +1718,7 @@ extraction_summary:
 | 340 | [[Heimarmenê]] | — | — | Divine Reason and Cosmic Structure | 737 |
 | 341 | [[Logos]] | — | — | Divine Reason and Cosmic Structure | 738 |
 | 342 | [[Pronoia]] | — | — | Divine Reason and Cosmic Structure | 738 |
-| 343 | [[Amor Fati]] | — | — | Divine Reason and Cosmic Structure | 738 |
+| 343 | [[Amor-Fati|Amor Fati]] | — | — | Divine Reason and Cosmic Structure | 738 |
 | 344 | [[Sympatheia]] | — | — | Divine Reason and Cosmic Structure | 738 |
 | 345 | [[Pronoia]] | — | — | Divine Reason and Cosmic Structure | 741 |
 | 346 | [[Logos]] | — | — | Divine Reason and Cosmic Structure | 744 |
@@ -1789,7 +1789,7 @@ extraction_summary:
 | 411 | [[Eph' Hêmin]] | — | — | The Dichotomy of Control | 839 |
 | 412 | [[Adiaphora]] | — | — | The Dichotomy of Control | 839 |
 | 413 | [[Prohairesis]] | — | — | The Dichotomy of Control | 839 |
-| 414 | [[Reserve Clause]] | — | — | The Dichotomy of Control | 839 |
+| 414 | [[Reserve-Clause|Reserve Clause]] | — | — | The Dichotomy of Control | 839 |
 | 415 | [[Kathêkon]] | — | — | The Dichotomy of Control | 842 |
 | 416 | [[Kathêkonta]] | — | — | The Dichotomy of Control | 847 |
 | 417 | [[Katorthoma]] | — | — | The Dichotomy of Control | 847 |
@@ -1804,7 +1804,7 @@ extraction_summary:
 | 426 | [[Ta Kathêkonta]] | — | — | The Dichotomy of Control | 852 |
 | 427 | [[Askesis]] | — | — | Spiritual Exercises & Daily Practices | 857 |
 | 428 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 860 |
-| 429 | [[Discipline of Desire]] | — | — | Spiritual Exercises & Daily Practices | 861 |
+| 429 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | Spiritual Exercises & Daily Practices | 861 |
 | 430 | [[Discipline of Action]] | — | — | Spiritual Exercises & Daily Practices | 861 |
 | 431 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | Spiritual Exercises & Daily Practices | 861 |
 | 432 | [[Morning/Evening Review]] | — | — | Spiritual Exercises & Daily Practices | 862 |
@@ -1857,7 +1857,7 @@ extraction_summary:
 | 479 | [[Prosochê]] | — | — | Spiritual Exercises & Daily Practices | 919 |
 | 480 | [[Evening Review]] | — | — | Spiritual Exercises & Daily Practices | 919 |
 | 481 | [[Marcus Aurelius Meditations]] | — | — | Spiritual Exercises & Daily Practices | 919 |
-| 482 | [[Amor Fati]] | — | — | Spiritual Exercises & Daily Practices | 922 |
+| 482 | [[Amor-Fati|Amor Fati]] | — | — | Spiritual Exercises & Daily Practices | 922 |
 | 483 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 926 |
 | 484 | [[Nietzsche]] | — | — | Spiritual Exercises & Daily Practices | 927 |
 | 485 | [[Heimarmenê]] | — | — | Spiritual Exercises & Daily Practices | 929 |
@@ -1874,11 +1874,11 @@ extraction_summary:
 | 496 | [[Virtue]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 497 | [[Three Disciplines]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 498 | [[The Three Disciplines / Topoi]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 940 |
-| 499 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
+| 499 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 500 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 501 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 502 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 948 |
-| 503 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
+| 503 | [[Discipline-of-Desire|Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 504 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 505 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 506 | [[Lekton]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 953 |
@@ -2302,7 +2302,7 @@ LIMIT 15
 - [[Agchinoia]]
 - [[Aidēmosyne]]
 - [[Amathia]]
-- [[Amor Fati]]
+- [[Amor-Fati|Amor Fati]]
 - [[Ancient Greek Philosophy]]
 - [[Andreia]]
 - [[Apatheia]]
@@ -2335,7 +2335,7 @@ LIMIT 15
 - [[Diogenes the Cynic]]
 - [[Discipline of Action]]
 - [[Discipline-of-Assent|Discipline of Assent]]
-- [[Discipline of Desire]]
+- [[Discipline-of-Desire|Discipline of Desire]]
 - [[Doxa]]
 - [[Ekloge]]
 - [[Ekpyrosis]]
@@ -2364,7 +2364,7 @@ LIMIT 15
 - [[Existentialism]]
 - [[First Movements]]
 - [[First Movements / Propatheiai]]
-- [[Four Cardinal Virtues]]
+- [[Four-Cardinal-Virtues|Four Cardinal Virtues]]
 - [[Hamartia]]
 - [[Hegemonikon]]
 - [[Heimarmenê]]
@@ -2448,8 +2448,8 @@ LIMIT 15
 - [[Pseudo-Andronicus]]
 - [[Psychê]]
 - [[Pyr Technikon]]
-- [[Rational Nature]]
-- [[Reserve Clause]]
+- [[Rational-Nature|Rational Nature]]
+- [[Reserve-Clause|Reserve Clause]]
 - [[Rhetoric]]
 - [[Seneca]]
 - [[Socrates]]

@@ -361,9 +361,9 @@ extraction_summary:
 
 - [[Aha!-moment|Aha! moment]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
-- [[Epistemology MOC]]
-- [[First Principles: What Is Knowledge?]]
-- [[Foundational Report: Philosophy of Mind]]
+- [[Epistemology-MOC|Epistemology MOC]]
+- [[First-Principles-What-Is-Knowledge|First Principles: What Is Knowledge?]]
+- [[Foundational-Report-Philosophy-of-Mind|Foundational Report: Philosophy of Mind]]
 - [[Frank-Keil|Frank Keil]]
 - [[Gilbert-Ryle|Gilbert Ryle]]
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
@@ -373,7 +373,7 @@ extraction_summary:
 - [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]
 - [[Richard-Feynman|Richard Feynman]]
 - [[Rote-memorization|Rote memorization]]
-- [[Socratic Dialogue Report Generator v1.0]]
+- [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]]
 - [[Tacit-Knowledge|Tacit Knowledge (Polanyi)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[classical-mechanics|classical mechanics]]
@@ -424,10 +424,10 @@ extraction_summary:
 | 27 | [[Metacognition]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
 | 28 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
 | 29 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|philosophy of mind]] | — | — | Movement VII: The Closing — What We'v... | 390 |
-| 30 | [[Socratic Dialogue Report Generator v1.0]] | — | — | D. Expansion Topics | 483 |
-| 31 | [[Epistemology MOC]] | — | — | D. Expansion Topics | 483 |
-| 32 | [[Foundational Report: Philosophy of Mind]] | — | — | D. Expansion Topics | 483 |
-| 33 | [[First Principles: What Is Knowledge?]] | — | — | D. Expansion Topics | 483 |
+| 30 | [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]] | — | — | D. Expansion Topics | 483 |
+| 31 | [[Epistemology-MOC|Epistemology MOC]] | — | — | D. Expansion Topics | 483 |
+| 32 | [[Foundational-Report-Philosophy-of-Mind|Foundational Report: Philosophy of Mind]] | — | — | D. Expansion Topics | 483 |
+| 33 | [[First-Principles-What-Is-Knowledge|First Principles: What Is Knowledge?]] | — | — | D. Expansion Topics | 483 |
 
 ---
 
@@ -440,9 +440,9 @@ extraction_summary:
 
 - [[Aha!-moment|Aha! moment]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
-- [[Epistemology MOC]]
-- [[First Principles: What Is Knowledge?]]
-- [[Foundational Report: Philosophy of Mind]]
+- [[Epistemology-MOC|Epistemology MOC]]
+- [[First-Principles-What-Is-Knowledge|First Principles: What Is Knowledge?]]
+- [[Foundational-Report-Philosophy-of-Mind|Foundational Report: Philosophy of Mind]]
 - [[Frank-Keil|Frank Keil]]
 - [[Gilbert-Ryle|Gilbert Ryle]]
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
@@ -452,7 +452,7 @@ extraction_summary:
 - [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]
 - [[Richard-Feynman|Richard Feynman]]
 - [[Rote-memorization|Rote memorization]]
-- [[Socratic Dialogue Report Generator v1.0]]
+- [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]]
 - [[Tacit-Knowledge|Tacit Knowledge (Polanyi)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[classical-mechanics|classical mechanics]]
@@ -503,7 +503,7 @@ extraction_summary:
 
 #### Link Up
 
-- [[Epistemology MOC]]
+- [[Epistemology-MOC|Epistemology MOC]]
 
 ---
 

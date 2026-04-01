@@ -417,7 +417,7 @@ extraction_summary:
 - [[Related Model 2]]
 - [[Second-Order Thinking]]
 - [[Stoicism]]
-- [[Sunk Cost Fallacy]]
+- [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[Systems Thinking]]
 
 ### All Occurrences
@@ -462,11 +462,11 @@ extraction_summary:
 | 36 | [[Book - Thinking, Fast and Slow]] | — | — | 🔗 Connections (Integration) | 237 |
 | 37 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
 | 38 | [[Availability-Heuristic|Availability Heuristic]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
-| 39 | [[Sunk Cost Fallacy]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
+| 39 | [[Sunk-cost-fallacy|Sunk Cost Fallacy]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
 | 40 | [[MOC - Cognitive Biases]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
 | 41 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | A. Integration: The Map of Content (MOC) | 251 |
 | 42 | [[Availability-Heuristic|Availability Heuristic]] | — | — | A. Integration: The Map of Content (MOC) | 252 |
-| 43 | [[Sunk Cost Fallacy]] | — | — | A. Integration: The Map of Content (MOC) | 254 |
+| 43 | [[Sunk-cost-fallacy|Sunk Cost Fallacy]] | — | — | A. Integration: The Map of Content (MOC) | 254 |
 | 44 | [[Decision - Choosing a New Career Path]] | — | — | B. Application: The Decision Journal ... | 263 |
 | 45 | [[Inversion]] | — | — | B. Application: The Decision Journal ... | 267 |
 | 46 | [[Second-Order Thinking]] | — | — | B. Application: The Decision Journal ... | 268 |
@@ -600,7 +600,7 @@ aliases: [Alternative name for model]
 - [[Related Model 2]]
 - [[Second-Order Thinking]]
 - [[Stoicism]]
-- [[Sunk Cost Fallacy]]
+- [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[Systems Thinking]]
 
 ---

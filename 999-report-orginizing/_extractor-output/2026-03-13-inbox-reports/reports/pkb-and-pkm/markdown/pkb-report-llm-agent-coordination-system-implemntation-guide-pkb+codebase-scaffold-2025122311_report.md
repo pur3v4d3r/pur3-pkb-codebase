@@ -169,10 +169,10 @@ extraction_summary:
     - ### 1. **[[Agent-Capability-Development-Framework|Agent Capability Development Framework]]**
     - ### 2. **[[Session Memory Optimization Patterns]]**
   - ## Cross-Domain Connections
-    - ### 3. **[[Cognitive Load Theory Applied to AI Coordination]]**
-    - ### 4. **[[Knowledge Graph Dynamics in Multi-Agent Systems]]**
+    - ### 3. **[[Cognitive-Load-Theory-Applied-to-AI-Coordination|Cognitive Load Theory Applied to AI Coordination]]**
+    - ### 4. **[[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems|Knowledge Graph Dynamics in Multi-Agent Systems]]**
   - ## Advanced Deep Dives
-    - ### 5. **[[Agentic Prompt Engineering Workflows]]** *[Requires SPES completion]*
+    - ### 5. **[[Agentic-Prompt-Engineering-Workflows|Agentic Prompt Engineering Workflows]]** *[Requires SPES completion]*
     - ### 6. **[[Multi-Modal Agent Coordination (Text + Vision + Code)]]** *[Requires both Claude + Gemini operational]*
     - ### Review Information
   - ## 📅 Review System
@@ -364,12 +364,12 @@ extraction_summary:
 - [[AI Agent Coordination System: Implementation Guide]]
 - [[Agent-Capability-Development-Framework|Agent Capability Development Framework]]
 - [[Agent-Coordination-Patterns|Agent Coordination Patterns]]
-- [[Agentic Prompt Engineering Workflows]]
+- [[Agentic-Prompt-Engineering-Workflows|Agentic Prompt Engineering Workflows]]
 - [[Claude-Code|Claude Code]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Load Theory Applied to AI Coordination]]
+- [[Cognitive-Load-Theory-Applied-to-AI-Coordination|Cognitive Load Theory Applied to AI Coordination]]
 - [[Gemini-Code-Assist|Gemini Code Assist]]
-- [[Knowledge Graph Dynamics in Multi-Agent Systems]]
+- [[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems|Knowledge Graph Dynamics in Multi-Agent Systems]]
 - [[Multi-Modal Agent Coordination (Text + Vision + Code)]]
 - [[Note 1]]
 - [[Note 2]]
@@ -399,10 +399,10 @@ extraction_summary:
 | 14 | [[Note 3]] | — | — | Reference Note Schema | 673 |
 | 15 | [[Agent-Capability-Development-Framework|Agent Capability Development Framework]] | — | — | 1. **[[Agent Capability Development F... | 1287 |
 | 16 | [[Session Memory Optimization Patterns]] | — | — | 2. **[[Session Memory Optimization Pa... | 1294 |
-| 17 | [[Cognitive Load Theory Applied to AI Coordination]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1303 |
+| 17 | [[Cognitive-Load-Theory-Applied-to-AI-Coordination|Cognitive Load Theory Applied to AI Coordination]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1303 |
 | 18 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1308 |
-| 19 | [[Knowledge Graph Dynamics in Multi-Agent Systems]] | — | — | 4. **[[Knowledge Graph Dynamics in Mu... | 1310 |
-| 20 | [[Agentic Prompt Engineering Workflows]] | — | — | 5. **[[Agentic Prompt Engineering Wor... | 1319 |
+| 19 | [[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems|Knowledge Graph Dynamics in Multi-Agent Systems]] | — | — | 4. **[[Knowledge Graph Dynamics in Mu... | 1310 |
+| 20 | [[Agentic-Prompt-Engineering-Workflows|Agentic Prompt Engineering Workflows]] | — | — | 5. **[[Agentic Prompt Engineering Wor... | 1319 |
 | 21 | [[SPES]] | — | — | 5. **[[Agentic Prompt Engineering Wor... | 1324 |
 | 22 | [[Multi-Modal Agent Coordination (Text + Vision + Code)]] | — | — | 6. **[[Multi-Modal Agent Coordination... | 1326 |
 | 23 | [[AI Agent Coordination System: Implementation Guide]] | — | — | Active Review Task | 1363 |
@@ -1290,12 +1290,12 @@ graph TD
 - [[AI Agent Coordination System: Implementation Guide]]
 - [[Agent-Capability-Development-Framework|Agent Capability Development Framework]]
 - [[Agent-Coordination-Patterns|Agent Coordination Patterns]]
-- [[Agentic Prompt Engineering Workflows]]
+- [[Agentic-Prompt-Engineering-Workflows|Agentic Prompt Engineering Workflows]]
 - [[Claude-Code|Claude Code]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Load Theory Applied to AI Coordination]]
+- [[Cognitive-Load-Theory-Applied-to-AI-Coordination|Cognitive Load Theory Applied to AI Coordination]]
 - [[Gemini-Code-Assist|Gemini Code Assist]]
-- [[Knowledge Graph Dynamics in Multi-Agent Systems]]
+- [[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems|Knowledge Graph Dynamics in Multi-Agent Systems]]
 - [[Multi-Modal Agent Coordination (Text + Vision + Code)]]
 - [[Note 1]]
 - [[Note 2]]

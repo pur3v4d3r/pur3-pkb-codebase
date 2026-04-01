@@ -176,7 +176,7 @@ extraction_summary:
 #### 7. [ATOMIC-CONCEPT] Untitled *(Line 92)*
 
 > [!atomic-concept] Untitled
-> **Schema Theory** — originally proposed by Bartlett (1932) and theoretically elaborated by Rumelhart (1980) and Anderson & Pearson (1984) — holds that human knowledge is organized in memory as structured, interconnected frameworks called [[schemata]] (singular: schema). Each schema is an abstract knowledge structure that represents a class of similar entities, events, or situations, containing slots for variable information that gets filled by specific contextual instances. Schema theory's central claim is that written text does not carry meaning intrinsically; rather, it provides directions for readers to construct meaning from their pre-existing schemata. Reading comprehension is, at its core, a process of [[schema activation]] followed by [[schema instantiation]] — activating the appropriate knowledge framework and then filling its slots with the specific content of the text being read.
+> **Schema Theory** — originally proposed by Bartlett (1932) and theoretically elaborated by Rumelhart (1980) and Anderson & Pearson (1984) — holds that human knowledge is organized in memory as structured, interconnected frameworks called [[schemata]] (singular: schema). Each schema is an abstract knowledge structure that represents a class of similar entities, events, or situations, containing slots for variable information that gets filled by specific contextual instances. Schema theory's central claim is that written text does not carry meaning intrinsically; rather, it provides directions for readers to construct meaning from their pre-existing schemata. Reading comprehension is, at its core, a process of [[schema activation]] followed by [[schema-instantiation|schema instantiation]] — activating the appropriate knowledge framework and then filling its slots with the specific content of the text being read.
 
 #### 8. [INSIGHT] Untitled *(Line 99)*
 
@@ -236,7 +236,7 @@ extraction_summary:
 #### 19. [CONNECTIONS-AND-LINKS] Untitled *(Line 212)*
 
 > [!connections-and-links] Untitled
-> **Cross-Domain Integration**: The reading-as-PKM framework connects to multiple strands already developed in this vault. The [[Dual-Process-Theory|Dual Process Theory]] discussed in Phase 3 connects to the broader vault entry on [[Cognitive Bias and System 1 Errors]]. The [[Schema-Theory|Schema Theory]] framework connects to the entry on [[John Dewey's Reflective Thinking Theory]], where schema activation maps onto Dewey's concept of "prior experience" as the substrate of reflective judgment. The [[Zettelkasten]] method connects to the vault's treatment of [[Metacognition]], since maintaining a Zettelkasten is itself a metacognitive practice — monitoring one's own understanding and externalizing the results. [[Retrieval-Practice|Retrieval practice]] connects to the vault entry on [[Metacognitive Awareness Inventory]], where monitoring one's own retrieval success is a key regulatory dimension of metacognitive skillfulness.
+> **Cross-Domain Integration**: The reading-as-PKM framework connects to multiple strands already developed in this vault. The [[Dual-Process-Theory|Dual Process Theory]] discussed in Phase 3 connects to the broader vault entry on [[Cognitive Bias and System 1 Errors]]. The [[Schema-Theory|Schema Theory]] framework connects to the entry on [[John Dewey's Reflective Thinking Theory]], where schema activation maps onto Dewey's concept of "prior experience" as the substrate of reflective judgment. The [[Zettelkasten]] method connects to the vault's treatment of [[Metacognition]], since maintaining a Zettelkasten is itself a metacognitive practice — monitoring one's own understanding and externalizing the results. [[Retrieval-Practice|Retrieval practice]] connects to the vault entry on [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]], where monitoring one's own retrieval success is a key regulatory dimension of metacognitive skillfulness.
 
 #### 20. [INSIGHT] Untitled *(Line 225)*
 
@@ -385,14 +385,14 @@ extraction_summary:
 - [[Long-Term Potentiation]]
 - [[Map of Content]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Multimodal Annotation and Embodied Cognition in Reading]]
 - [[NMDA receptor]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[Niklas Luhmann]]
 - [[Niklas Luhmann and the Zettelkasten]]
 - [[Obsidian]]
-- [[PARA method]]
+- [[PARA-Method|PARA method]]
 - [[Pedagogical Implications of Neural Plasticity]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Principle of Atomicity]]
@@ -401,7 +401,7 @@ extraction_summary:
 - [[Readwise Reader]]
 - [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
 - [[Retrieval-Practice|Retrieval practice]]
-- [[Richard Anderson]]
+- [[Richard-Anderson|Richard Anderson]]
 - [[Roam Research]]
 - [[Schema-Theory|Schema Theory]]
 - [[Situation Model Theory and Reading Comprehension]]
@@ -434,7 +434,7 @@ extraction_summary:
 - [[Schema]]
 - [[schema activation]]
 - [[schema enrichment]]
-- [[schema instantiation]]
+- [[schema-instantiation|schema instantiation]]
 - [[schemata]]
 - [[Situation-Model|situation model]]
 - [[Spacing-Effect|spacing effect]]
@@ -474,7 +474,7 @@ extraction_summary:
 | 26 | [[Spacing-Effect|Spacing Effect]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
 | 27 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 28 | [[Schema]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
-| 29 | [[Richard Anderson]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
+| 29 | [[Richard-Anderson|Richard Anderson]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 30 | [[David-Rumelhart|David Rumelhart]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 31 | [[Interactive Model of Reading]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 32 | [[Tiago Forte]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
@@ -489,7 +489,7 @@ extraction_summary:
 | 41 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
 | 42 | [[schemata]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
 | 43 | [[schema activation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
-| 44 | [[schema instantiation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
+| 44 | [[schema-instantiation|schema instantiation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
 | 45 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory: Prior Knowledge as the... | 97 |
 | 46 | [[active reading]] | — | — | Schema Theory: Prior Knowledge as the... | 102 |
 | 47 | [[Hypothesis]] | — | — | Schema Theory: Prior Knowledge as the... | 102 |
@@ -525,13 +525,13 @@ extraction_summary:
 | 77 | [[Tiago Forte]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
 | 78 | [[Building a Second Brain]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
 | 79 | [[CODE framework]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
-| 80 | [[PARA method]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
+| 80 | [[PARA-Method|PARA method]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
 | 81 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
 | 82 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 200 |
 | 83 | [[Generative-Processing|generative processing]] | — | — | Building a Second Brain: The CODE Fra... | 204 |
 | 84 | [[Map of Content]] | — | — | The Map of Content: Structural Naviga... | 208 |
 | 85 | [[Hebbian plasticity]] | — | — | The Map of Content: Structural Naviga... | 210 |
-| 86 | [[Neuroscience]] | — | — | The Map of Content: Structural Naviga... | 210 |
+| 86 | [[neuroscience]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 87 | [[Learning Theory]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 88 | [[Computational Modeling]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 89 | [[Educational-Psychology|Educational Psychology]] | — | — | The Map of Content: Structural Naviga... | 210 |
@@ -542,7 +542,7 @@ extraction_summary:
 | 94 | [[Zettelkasten]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 95 | [[Metacognition]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 96 | [[Retrieval-Practice|Retrieval practice]] | — | — | The Map of Content: Structural Naviga... | 213 |
-| 97 | [[Metacognitive Awareness Inventory]] | — | — | The Map of Content: Structural Naviga... | 213 |
+| 97 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 98 | [[Readwise Reader]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
 | 99 | [[Logseq]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
 | 100 | [[Elicit]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
@@ -628,14 +628,14 @@ extraction_summary:
 - [[Long-Term Potentiation]]
 - [[Map of Content]]
 - [[Metacognition]]
-- [[Metacognitive Awareness Inventory]]
+- [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Multimodal Annotation and Embodied Cognition in Reading]]
 - [[NMDA receptor]]
-- [[Neuroscience]]
+- [[neuroscience]]
 - [[Niklas Luhmann]]
 - [[Niklas Luhmann and the Zettelkasten]]
 - [[Obsidian]]
-- [[PARA method]]
+- [[PARA-Method|PARA method]]
 - [[Pedagogical Implications of Neural Plasticity]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Principle of Atomicity]]
@@ -644,7 +644,7 @@ extraction_summary:
 - [[Readwise Reader]]
 - [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]
 - [[Retrieval-Practice|Retrieval practice]]
-- [[Richard Anderson]]
+- [[Richard-Anderson|Richard Anderson]]
 - [[Roam Research]]
 - [[Schema-Theory|Schema Theory]]
 - [[Situation Model Theory and Reading Comprehension]]
@@ -677,7 +677,7 @@ extraction_summary:
 - [[Schema]]
 - [[schema activation]]
 - [[schema enrichment]]
-- [[schema instantiation]]
+- [[schema-instantiation|schema instantiation]]
 - [[schemata]]
 - [[Situation-Model|situation model]]
 - [[Spacing-Effect|spacing effect]]

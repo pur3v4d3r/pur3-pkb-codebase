@@ -287,7 +287,7 @@ extraction_summary:
 > - [[Metadata-Driven Workflows]]
 > - [[Query Languages]]
 > - [[Templater Plugin]]
-> - [[GTD (Getting Things Done)]]
+> - [[GTD|GTD (Getting Things Done)]]
 > - [[Project Management in Obsidian]]
 > - [[Dashboard-Design|Dashboard Design]]
 > - [[Inline-Fields|Inline Fields]]
@@ -930,7 +930,7 @@ extraction_summary:
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
 - [[Day-Planner|Day Planner]]
-- [[GTD (Getting Things Done)]]
+- [[GTD|GTD (Getting Things Done)]]
 - [[GTD (Getting Things Done) Implementation in Obsidian]]
 - [[Inline-Fields|Inline Fields]]
 - [[JavaScript in Dataview]]
@@ -962,7 +962,7 @@ extraction_summary:
 | 8 | [[Metadata-Driven Workflows]] | — | — | Review System | 218 |
 | 9 | [[Query Languages]] | — | — | Review System | 219 |
 | 10 | [[Templater Plugin]] | — | — | Review System | 220 |
-| 11 | [[GTD (Getting Things Done)]] | — | — | Review System | 221 |
+| 11 | [[GTD|GTD (Getting Things Done)]] | — | — | Review System | 221 |
 | 12 | [[Project Management in Obsidian]] | — | — | Review System | 222 |
 | 13 | [[Dashboard-Design|Dashboard Design]] | — | — | Review System | 223 |
 | 14 | [[Inline-Fields|Inline Fields]] | — | — | Review System | 224 |
@@ -1601,7 +1601,7 @@ WHERE due < date(today)
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
 - [[Day-Planner|Day Planner]]
-- [[GTD (Getting Things Done)]]
+- [[GTD|GTD (Getting Things Done)]]
 - [[GTD (Getting Things Done) Implementation in Obsidian]]
 - [[Inline-Fields|Inline Fields]]
 - [[JavaScript in Dataview]]

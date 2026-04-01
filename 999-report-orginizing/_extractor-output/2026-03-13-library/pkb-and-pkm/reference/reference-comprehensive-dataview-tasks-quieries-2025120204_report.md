@@ -387,7 +387,7 @@ extraction_summary:
 > **Pattern variation for multiple projects:**
 > ```dataview
 > TASK
-> WHERE (contains(text, "[[Project Alpha]]") 
+> WHERE (contains(text, "[[Project-Alpha|Project Alpha]]") 
 >    OR contains(text, "[[Project Beta]]"))
 >   AND !completed
 > GROUP BY regexreplace(text, ".*\[\[([^\]]+)\]\].*", "$1") as "Project"
@@ -630,7 +630,7 @@ extraction_summary:
 > 
 > **What it does:** Generates a statistical summary of vault-wide task status
 > 
-> **Use case:** [[Dashboard-Design|Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
+> **Use case:** [[Dashboard-Design|Dashboard Design]] / productivity analytics / [[Query-Performance|Query Performance]] monitoring
 
 #### 33. [EXAMPLE] Today's Schedule with Duration Extraction *(Line 721)*
 
@@ -866,7 +866,7 @@ extraction_summary:
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND !scheduled
 >   AND !completed
 > SORT file.ctime DESC
@@ -876,7 +876,7 @@ extraction_summary:
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND scheduled <= date(today)
 >   AND !completed
 > SORT priority DESC, due ASC
@@ -886,7 +886,7 @@ extraction_summary:
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND contains(text, "[[Blocked]]")
 >   AND !completed
 > ```
@@ -895,7 +895,7 @@ extraction_summary:
 > 
 > ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND completion >= date(today) - dur(7 days)
 > SORT completion DESC
 > ```
@@ -940,13 +940,13 @@ extraction_summary:
 - [[Obsidian API]]
 - [[Obsidian Architecture]]
 - [[Priority-Management|Priority Management]]
-- [[Productivity Systems]]
-- [[Project Alpha]]
+- [[Productivity-Systems|Productivity Systems]]
+- [[Project-Alpha|Project Alpha]]
 - [[Project Beta]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Project X]]
 - [[Q4 Planning]]
-- [[Query Performance]]
+- [[Query-Performance|Query Performance]]
 - [[Task-Management|Task Management]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Advanced Workflows]]
@@ -974,7 +974,7 @@ extraction_summary:
 | 14 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Claude Thinking | 197 |
 | 15 | [[GTD-Workflow|GTD Workflow]] | — | — | Claude Thinking | 198 |
 | 16 | [[Dashboard-Design|Dashboard Design]] | — | — | Claude Thinking | 199 |
-| 17 | [[Query Performance]] | — | — | Claude Thinking | 200 |
+| 17 | [[Query-Performance|Query Performance]] | — | — | Claude Thinking | 200 |
 | 18 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 224 |
 | 19 | [[Task-Management|Task Management]] | — | — | Claude Thinking | 224 |
 | 20 | [[Obsidian]] | — | — | Claude Thinking | 224 |
@@ -991,7 +991,7 @@ extraction_summary:
 | 31 | [[Tasks-Plugin|Tasks Plugin]] | — | — | 2. Priority & Urgency Queries | 351 |
 | 32 | [[Priority-Management|Priority Management]] | — | — | 2. Priority & Urgency Queries | 384 |
 | 33 | [[Project X]] | — | — | 4. Project & Context Queries | 448 |
-| 34 | [[Project Alpha]] | — | — | 4. Project & Context Queries | 460 |
+| 34 | [[Project-Alpha|Project Alpha]] | — | — | 4. Project & Context Queries | 460 |
 | 35 | [[Project Beta]] | — | — | 4. Project & Context Queries | 461 |
 | 36 | [[Daily-Notes|Daily Notes]] | — | — | 4. Project & Context Queries | 479 |
 | 37 | [[Inline-Fields|Inline Fields]] | — | — | 5. Custom Metadata Queries | 510 |
@@ -1005,7 +1005,7 @@ extraction_summary:
 | 45 | [[DataviewJS]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 46 | [[DQL]] | — | — | 🚀 DataviewJS Advanced Patterns | 613 |
 | 47 | [[Dashboard-Design|Dashboard Design]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
-| 48 | [[Query Performance]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
+| 48 | [[Query-Performance|Query Performance]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
 | 49 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
 | 50 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
 | 51 | [[Q4 Planning]] | — | — | Tasks Plugin Compatibility | 803 |
@@ -1014,19 +1014,19 @@ extraction_summary:
 | 54 | [[Inline-Fields|Inline Fields]] | — | — | Tasks Plugin Compatibility | 809 |
 | 55 | [[Daily-Notes|Daily Notes]] | — | — | Daily Notes Integration | 849 |
 | 56 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Daily Notes Integration | 849 |
-| 57 | [[Project Name]] | — | — | Project Task Board | 994 |
-| 58 | [[Project Name]] | — | — | Project Task Board | 1004 |
-| 59 | [[Project Name]] | — | — | Project Task Board | 1014 |
+| 57 | [[Project-Name|Project Name]] | — | — | Project Task Board | 994 |
+| 58 | [[Project-Name|Project Name]] | — | — | Project Task Board | 1004 |
+| 59 | [[Project-Name|Project Name]] | — | — | Project Task Board | 1014 |
 | 60 | [[Blocked]] | — | — | Project Task Board | 1015 |
-| 61 | [[Project Name]] | — | — | Project Task Board | 1023 |
+| 61 | [[Project-Name|Project Name]] | — | — | Project Task Board | 1023 |
 | 62 | [[Dataview Query Optimization Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 1033 |
-| 63 | [[Query Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
+| 63 | [[Query-Performance|Query Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 64 | [[Obsidian Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 65 | [[JavaScript Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 66 | [[Tasks Plugin Advanced Workflows]] | — | — | 🔗 Related Topics for PKB Expansion | 1038 |
 | 67 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 68 | [[GTD-Workflow|GTD Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
-| 69 | [[Productivity Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
+| 69 | [[Productivity-Systems|Productivity Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 70 | [[DataviewJS Custom Functions Library]] | — | — | 🔗 Related Topics for PKB Expansion | 1043 |
 | 71 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
 | 72 | [[Functional Programming]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
@@ -1505,7 +1505,7 @@ LIMIT <number>
 > 
 > **What it does:** Generates a statistical summary of vault-wide task status
 > 
-> **Use case:** [[Dashboard-Design|Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring
+> **Use case:** [[Dashboard-Design|Dashboard Design]] / productivity analytics / [[Query-Performance|Query Performance]] monitoring
 
 ### Pattern 4: Dynamic Time-Blocked Schedule
 
@@ -1777,7 +1777,7 @@ LIMIT <number>
 
 ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND !scheduled
 >   AND !completed
 > SORT file.ctime DESC
@@ -1788,7 +1788,7 @@ LIMIT <number>
 
 ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND scheduled <= date(today)
 >   AND !completed
 > SORT priority DESC, due ASC
@@ -1799,7 +1799,7 @@ LIMIT <number>
 
 ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND contains(text, "[[Blocked]]")
 >   AND !completed
 >
@@ -1809,7 +1809,7 @@ LIMIT <number>
 
 ```dataview
 > TASK
-> WHERE contains(text, "[[Project Name]]")
+> WHERE contains(text, "[[Project-Name|Project Name]]")
 >   AND completion >= date(today) - dur(7 days)
 > SORT completion DESC
 >
@@ -1896,13 +1896,13 @@ LIMIT <number>
 - [[Obsidian API]]
 - [[Obsidian Architecture]]
 - [[Priority-Management|Priority Management]]
-- [[Productivity Systems]]
-- [[Project Alpha]]
+- [[Productivity-Systems|Productivity Systems]]
+- [[Project-Alpha|Project Alpha]]
 - [[Project Beta]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Project X]]
 - [[Q4 Planning]]
-- [[Query Performance]]
+- [[Query-Performance|Query Performance]]
 - [[Task-Management|Task Management]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Tasks Plugin Advanced Workflows]]

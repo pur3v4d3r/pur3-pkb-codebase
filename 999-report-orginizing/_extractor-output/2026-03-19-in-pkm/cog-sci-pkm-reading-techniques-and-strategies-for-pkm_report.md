@@ -148,7 +148,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This exposition constitutes a comprehensive, university-level analysis of reading as a cognitively governed acquisition and retention technology, examined through the dual lens of contemporary cognitive science and personal knowledge management (PKM) systems design. Reading — in the context of deliberate knowledge work — is far more than a passive decoding exercise. It is an active, constructive, metabolic process through which the mind builds, refines, and integrates conceptual structures from symbolic input. The foundational argument advanced here is that most professional readers are grossly inefficient precisely because they have never been taught to read with cognitive intentionality: they mistake fluency for comprehension, re-reading for learning, and note-taking volume for knowledge acquisition.
 > 
-> The exposition proceeds from historical origins of reading science through the major theoretical frameworks — including [[Walter Kintsch]]'s Construction-Integration Model, [[Alan-Baddeley|Alan Baddeley]]'s Working Memory Model, [[John-Sweller|John Sweller]]'s [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Allan Paivio]]'s [[Dual-Coding-Theory|Dual Coding Theory]], and [[Robert-Bjork|Robert Bjork]]'s framework of [[Desirable-Difficulties|Desirable Difficulties]] — before arriving at a rigorous treatment of evidence-based reading strategies such as elaborative interrogation, spaced retrieval practice, and the annotation-encoding cycle. The final sections translate these theoretical structures into actionable, PKM-integrated reading systems with concrete protocols for Obsidian-style vaults, progressive summarization workflows, and individual calibration methodologies.
+> The exposition proceeds from historical origins of reading science through the major theoretical frameworks — including [[Walter-Kintsch|Walter Kintsch]]'s Construction-Integration Model, [[Alan-Baddeley|Alan Baddeley]]'s Working Memory Model, [[John-Sweller|John Sweller]]'s [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Allan Paivio]]'s [[Dual-Coding-Theory|Dual Coding Theory]], and [[Robert-Bjork|Robert Bjork]]'s framework of [[Desirable-Difficulties|Desirable Difficulties]] — before arriving at a rigorous treatment of evidence-based reading strategies such as elaborative interrogation, spaced retrieval practice, and the annotation-encoding cycle. The final sections translate these theoretical structures into actionable, PKM-integrated reading systems with concrete protocols for Obsidian-style vaults, progressive summarization workflows, and individual calibration methodologies.
 > 
 > The synthesis offered here bridges the gap between academic reading research (largely confined to laboratory memory studies and educational psychology journals) and the practical demands of knowledge workers who must not merely encounter ideas but permanently incorporate them into a growing, retrievable, and generative personal knowledge base.
 
@@ -481,7 +481,7 @@ extraction_summary:
 - [[Tiago Forte]]
 - [[Tulving]]
 - [[Visual Word Form Area]]
-- [[Walter Kintsch]]
+- [[Walter-Kintsch|Walter Kintsch]]
 - [[Wilkinson]]
 - [[Zettelkasten]]
 - [[Central-Executive|central executive]]
@@ -512,7 +512,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Walter Kintsch]] | — | — | Document Start | 10 |
+| 1 | [[Walter-Kintsch|Walter Kintsch]] | — | — | Document Start | 10 |
 | 2 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Document Start | 10 |
 | 3 | [[John-Sweller|John Sweller]] | — | — | Document Start | 10 |
 | 4 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Document Start | 10 |
@@ -554,7 +554,7 @@ extraction_summary:
 | 40 | [[Kenneth Goodman]] | — | — | The Cognitive Revolution and Reading ... | 55 |
 | 41 | [[David-Rumelhart|David Rumelhart]] | — | — | The Cognitive Revolution and Reading ... | 55 |
 | 42 | [[Teun van Dijk]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
-| 43 | [[Walter Kintsch]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
+| 43 | [[Walter-Kintsch|Walter Kintsch]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
 | 44 | [[Construction-Integration Model]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
 | 45 | [[Situation-Model|Situation Model]] | — | — | The Text Comprehension Revolution: Ki... | 62 |
 | 46 | [[Working-Memory|working memory]] | — | — | Working Memory as the Comprehension B... | 72 |
@@ -855,7 +855,7 @@ $$
 - [[Tiago Forte]]
 - [[Tulving]]
 - [[Visual Word Form Area]]
-- [[Walter Kintsch]]
+- [[Walter-Kintsch|Walter Kintsch]]
 - [[Wilkinson]]
 - [[Zettelkasten]]
 - [[Central-Executive|central executive]]

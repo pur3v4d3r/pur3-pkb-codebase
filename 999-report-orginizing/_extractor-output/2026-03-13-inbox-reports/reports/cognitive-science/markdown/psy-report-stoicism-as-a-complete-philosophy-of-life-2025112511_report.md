@@ -300,7 +300,7 @@ extraction_summary:
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Eudaimonia]]
-- [[Expert Performance]]
+- [[expert-performance|Expert Performance]]
 - [[George Washington]]
 - [[Hellenistic Philosophy]]
 - [[History of Psychology]]
@@ -432,7 +432,7 @@ extraction_summary:
 | 87 | [[Philosophy of Well-Being]] | — | — | 🔗 Related Topics for PKB Expansion | 447 |
 | 88 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 449 |
 | 89 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
-| 90 | [[Expert Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
+| 90 | [[expert-performance|Expert Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
 | 91 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
 | 92 | [[Hellenistic Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 454 |
 | 93 | [[Ancient Greek Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
@@ -513,7 +513,7 @@ extraction_summary:
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Eudaimonia]]
-- [[Expert Performance]]
+- [[expert-performance|Expert Performance]]
 - [[George Washington]]
 - [[Hellenistic Philosophy]]
 - [[History of Psychology]]

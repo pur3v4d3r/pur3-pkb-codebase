@@ -366,7 +366,7 @@ extraction_summary:
 - [[Edward-Deci|Edward Deci]]
 - [[Elaborative-Rehearsal|Elaborative Rehearsal]]
 - [[Emotional-Dysregulation|Emotional Dysregulation]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]
@@ -429,7 +429,7 @@ extraction_summary:
 | 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 110 |
 | 16 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Claude Thinking: | 110 |
 | 17 | [[Habit-Formation|Habit Formation]] | — | — | Claude Thinking: | 110 |
-| 18 | [[Emotional Regulation]] | — | — | Claude Thinking: | 110 |
+| 18 | [[Emotional-Regulation|Emotional Regulation]] | — | — | Claude Thinking: | 110 |
 | 19 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 110 |
 | 20 | [[Journaling]] | — | — | Claude Thinking: | 110 |
 | 21 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Claude Thinking: | 110 |
@@ -518,7 +518,7 @@ extraction_summary:
 | 104 | [[Functional Connectivity]] | functional connectivity | — | Neuroplasticity and the Neurobiology ... | 256 |
 | 105 | [[Executive-Function|Executive Function]] | executive control | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 106 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | Neuroplasticity and the Neurobiology ... | 258 |
-| 107 | [[Emotional Regulation]] | emotional regulation | — | Neuroplasticity and the Neurobiology ... | 258 |
+| 107 | [[Emotional-Regulation|Emotional Regulation]] | emotional regulation | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 108 | [[Amygdala]] | amygdala | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 109 | [[Self-Referential Processing]] | self-referential processing | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 110 | [[Medial Prefrontal Cortex]] | medial prefrontal cortex | — | Neuroplasticity and the Neurobiology ... | 258 |
@@ -540,7 +540,7 @@ extraction_summary:
 | 126 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | CBT | — | Unanswered Questions and Future Resea... | 360 |
 | 127 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | ACT | — | Unanswered Questions and Future Resea... | 360 |
 | 128 | [[Cognitive Behavioral Therapy and Stoicism Convergence]] | — | — | 🔗 Related Topics for PKB Expansion | 377 |
-| 129 | [[Emotional Regulation]] | — | — | 🔗 Related Topics for PKB Expansion | 380 |
+| 129 | [[Emotional-Regulation|Emotional Regulation]] | — | — | 🔗 Related Topics for PKB Expansion | 380 |
 | 130 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 380 |
 | 131 | [[Neuroplasticity]] | — | — | 🔗 Related Topics for PKB Expansion | 380 |
 | 132 | [[The Neuroscience of Habit Formation and Extinction]] | — | — | 🔗 Related Topics for PKB Expansion | 382 |
@@ -652,7 +652,7 @@ extraction_summary:
 - [[Edward-Deci|Edward Deci]]
 - [[Elaborative-Rehearsal|Elaborative Rehearsal]]
 - [[Emotional-Dysregulation|Emotional Dysregulation]]
-- [[Emotional Regulation]]
+- [[Emotional-Regulation|Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive-Function|Executive Function]]
 - [[Functional Connectivity]]

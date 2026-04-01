@@ -342,7 +342,7 @@ extraction_summary:
 #### 22. [WHAT-THIS-DOES] Untitled *(Line 709)*
 
 > [!what-this-does] Untitled
-> **Purpose**: Create atomic Zettelkasten-style notes with proper [[Wiki-Link]] context, automatic ID generation, and bidirectional linking to source materials.
+> **Purpose**: Create atomic Zettelkasten-style notes with proper [[wiki-link]] context, automatic ID generation, and bidirectional linking to source materials.
 > 
 > **Workflow**: User triggers → concept defined → related notes suggested → atomic note created → linked from source → MOC updated
 
@@ -466,7 +466,7 @@ extraction_summary:
 - [[Capture-to-Permanence Pipeline Architecture]]
 - [[Dataview]]
 - [[Dataview Query Optimization for Automated Indexes]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[JavaScript]]
 - [[JavaScript User Scripts - Obsidian API Deep Dive]]
 - [[Markdown]]
@@ -476,7 +476,7 @@ extraction_summary:
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Templater]]
 - [[Templater Advanced Patterns for QuickAdd Integration]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zettelkasten methodology]]
@@ -498,7 +498,7 @@ extraction_summary:
 | 4 | [[Templater]] | — | — | Foundational Understanding | 77 |
 | 5 | [[Dataview]] | — | — | Foundational Understanding | 77 |
 | 6 | [[Zettelkasten methodology]] | — | — | The QuickAdd Philosophy | 91 |
-| 7 | [[Getting Things Done]] | — | — | The QuickAdd Philosophy | 91 |
+| 7 | [[Getting-Things-Done|Getting Things Done]] | — | — | The QuickAdd Philosophy | 91 |
 | 8 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | Template Choice | 118 |
 | 9 | [[Templater]] | — | — | Template Choice | 121 |
 | 10 | [[{{LINKCURRENT}}]] | — | — | Variable System | 236 |
@@ -507,7 +507,7 @@ extraction_summary:
 | 13 | [[{{VALUE:projectFolder}}]] | — | — | 📁 Project Resources | 641 |
 | 14 | [[.md]] | — | — | 📁 Project Resources | 642 |
 | 15 | [[.md]] | — | — | 📁 Project Resources | 643 |
-| 16 | [[Wiki-Link]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 710 |
+| 16 | [[wiki-link]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 710 |
 | 17 | [[${currentFile.basename}]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 746 |
 | 18 | [[${f.basename}]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 753 |
 | 19 | [[${fileName}]] | ${concept} | — | 📊 Metadata | 852 |
@@ -1633,7 +1633,7 @@ graph TD
 - [[Capture-to-Permanence Pipeline Architecture]]
 - [[Dataview]]
 - [[Dataview Query Optimization for Automated Indexes]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[JavaScript]]
 - [[JavaScript User Scripts - Obsidian API Deep Dive]]
 - [[Markdown]]
@@ -1643,7 +1643,7 @@ graph TD
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Templater]]
 - [[Templater Advanced Patterns for QuickAdd Integration]]
-- [[Wiki-Link]]
+- [[wiki-link]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
 - [[Zettelkasten]]
 - [[Zettelkasten methodology]]

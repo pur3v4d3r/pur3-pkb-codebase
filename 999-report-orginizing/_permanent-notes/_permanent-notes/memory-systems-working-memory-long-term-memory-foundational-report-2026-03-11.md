@@ -23,21 +23,20 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 20
+referenced-by-count: 19
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Central-Executive]]"
   - "[[Chunking]]"
   - "[[Declarative-Memory]]"
@@ -47,25 +46,25 @@ see-also:
   - "[[Memory-Consolidation]]"
   - "[[Non-Declarative-Memory]]"
   - "[[Phonological-Loop]]"
+  - "[[Retrieval-Practice-Effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: high
+importance: medium
 ---
 
 # memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11
 
 > [!definition] **memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11**
-> *Stub note — concept referenced by 20 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 19 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 20 permanent notes.*
+*Auto-generated stub — referenced by 19 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Central-Executive]]
 - [[Chunking]]
 - [[Declarative-Memory]]

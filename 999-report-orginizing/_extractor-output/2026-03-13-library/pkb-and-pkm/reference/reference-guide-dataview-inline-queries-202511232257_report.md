@@ -248,19 +248,19 @@ extraction_summary:
 > **Use Case:** Pull information from linked notes
 > 
 > ```markdown
-> Project Manager: `= [[Project Alpha]].manager`
+> Project Manager: `= [[Project-Alpha|Project Alpha]].manager`
 > 
-> Team Size: `= length([[Project Alpha]].team-members)`
+> Team Size: `= length([[Project-Alpha|Project Alpha]].team-members)`
 > 
-> Budget Remaining: $`= [[Project Alpha]].budget - [[Project Alpha]].spent`
+> Budget Remaining: $`= [[Project-Alpha|Project Alpha]].budget - [[Project-Alpha|Project Alpha]].spent`
 > 
-> Parent Project Status: `= [[Project Alpha]].status`
+> Parent Project Status: `= [[Project-Alpha|Project Alpha]].status`
 > ```
 
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 202)*
 
 > [!connections-and-links] Untitled
-> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content) architectures and [[Dashboard-Design|Dashboard Design]].
+> This pattern enables **bi-directional information flow**. A change to `[[Project-Alpha|Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content) architectures and [[Dashboard-Design|Dashboard Design]].
 
 #### 16. [EXAMPLE] Untitled *(Line 209)*
 
@@ -569,9 +569,9 @@ extraction_summary:
 - [[Obsidian Metadata]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Summarization|Progressive Summarization]]
-- [[Project Alpha]]
+- [[Project-Alpha|Project Alpha]]
 - [[Projects]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[Task-Management|Task Management]]
 - [[Template Integration]]
 - [[Templater]]
@@ -592,16 +592,16 @@ extraction_summary:
 | 4 | [[YAML-Frontmatter|YAML Frontmatter]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
 | 5 | [[Inline-Fields|Inline Fields]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
 | 6 | [[Note-Name|Note Name]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 99 |
-| 7 | [[Project Alpha]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 100 |
+| 7 | [[Project-Alpha|Project Alpha]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 100 |
 | 8 | [[2024-11-20]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 101 |
 | 9 | [[wiki-links]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 105 |
 | 10 | [[Dataview Functions]] | — | — | 3️⃣ **Query Results** (Vault-Wide Agg... | 114 |
-| 11 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 193 |
-| 12 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 195 |
-| 13 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 197 |
-| 14 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 197 |
-| 15 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 199 |
-| 16 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
+| 11 | [[Project-Alpha|Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 193 |
+| 12 | [[Project-Alpha|Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 195 |
+| 13 | [[Project-Alpha|Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 197 |
+| 14 | [[Project-Alpha|Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 197 |
+| 15 | [[Project-Alpha|Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 199 |
+| 16 | [[Project-Alpha|Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 17 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 18 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 19 | [[Task-Management|Task Management]] | — | — | 📋 Task & Progress Tracking | 219 |
@@ -642,7 +642,7 @@ extraction_summary:
 | 54 | [[Daily-Notes|Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 581 |
 | 55 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 582 |
 | 56 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🔗 Related Topics for PKB Expansion | 583 |
-| 57 | [[Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 584 |
+| 57 | [[Regular-Expressions|Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 584 |
 
 ---
 
@@ -681,7 +681,7 @@ extraction_summary:
 
 ```markdown
 `= [[Note-Name|Note Name]].field-name`
-`= [[Project Alpha]].progress`
+`= [[Project-Alpha|Project Alpha]].progress`
 `= [[2024-11-20]].mood`
 ```
 
@@ -728,13 +728,13 @@ extraction_summary:
 ### Code Block 8 — `markdown` *(Lines 192-200)*
 
 ```markdown
-> Project Manager: `= [[Project Alpha]].manager`
+> Project Manager: `= [[Project-Alpha|Project Alpha]].manager`
 > 
-> Team Size: `= length([[Project Alpha]].team-members)`
+> Team Size: `= length([[Project-Alpha|Project Alpha]].team-members)`
 > 
-> Budget Remaining: $`= [[Project Alpha]].budget - [[Project Alpha]].spent`
+> Budget Remaining: $`= [[Project-Alpha|Project Alpha]].budget - [[Project-Alpha|Project Alpha]].spent`
 > 
-> Parent Project Status: `= [[Project Alpha]].status`
+> Parent Project Status: `= [[Project-Alpha|Project Alpha]].status`
 >
 ```
 
@@ -928,7 +928,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Daily-Notes|Daily Notes]]
 - [[Zettelkasten]]
 - [[Progressive-Summarization|Progressive Summarization]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 
 **Callout Strategy:**
 - [!definition] - Core concept explanation
@@ -987,9 +987,9 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Obsidian Metadata]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive-Summarization|Progressive Summarization]]
-- [[Project Alpha]]
+- [[Project-Alpha|Project Alpha]]
 - [[Projects]]
-- [[Regular Expressions]]
+- [[Regular-Expressions|Regular Expressions]]
 - [[Task-Management|Task Management]]
 - [[Template Integration]]
 - [[Templater]]

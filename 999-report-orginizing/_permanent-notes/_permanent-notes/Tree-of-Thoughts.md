@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,10 +37,10 @@ referenced-by-count: 5
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Chain-of-Thought-Prompting]]"
   - "[[Extended-Thinking-Modes]]"
   - "[[Identified-Techniques]]"
+  - "[[Thinking-Tag-Semantics]]"
   - "[[Tree-of-Thoughts-Framework]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -60,8 +60,8 @@ importance: low
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Chain-of-Thought-Prompting]]
 - [[Extended-Thinking-Modes]]
 - [[Identified-Techniques]]
+- [[Thinking-Tag-Semantics]]
 - [[Tree-of-Thoughts-Framework]]

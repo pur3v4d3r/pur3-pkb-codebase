@@ -628,7 +628,7 @@ extraction_summary:
 - [[Emacs]]
 - [[File Naming Conventions]]
 - [[Foam]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Git]]
 - [[Git for Knowledge Workers: Beyond Code]]
 - [[GitHub]]
@@ -646,13 +646,13 @@ extraction_summary:
 - [[Obsidian Daily Notes]]
 - [[Obsidian Git]]
 - [[Obsidian Tasks Plugin]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Planning Fallacy]]
 - [[Progress Principle]]
 - [[Project Management]]
 - [[Project Management in Personal Knowledge Bases]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Project Notes]]
 - [[Race Condition]]
 - [[Reflective-Practice|Reflective Practice]]
@@ -674,7 +674,7 @@ extraction_summary:
 - [[Dataview]]
 - [[diffs/v3.1-to-v3.2.diff]]
 - [[Obsidian]]
-- [[para method]]
+- [[PARA-Method|para method]]
 - [[project-proposal_v3.1.0_20251114.md]]
 - [[project-proposal_v3.2.0.md]]
 - [[project-proposal_v3.2.0_20251121.md]]
@@ -706,8 +706,8 @@ extraction_summary:
 | 17 | [[OAuth Implementation Guide]] | — | — | ✅ API Integration: OAuth Implementation | 222 |
 | 18 | [[Concurrency Patterns]] | — | — | ✅ API Integration: OAuth Implementation | 223 |
 | 19 | [[2025-11-21_Auth-Incident]] | — | — | ✅ Bug Fix: Production Auth Failure | 230 |
-| 20 | [[Getting Things Done]] | — | — | ⚠️ Database Migration Planning | 244 |
-| 21 | [[para method]] | — | — | ⚠️ Database Migration Planning | 244 |
+| 20 | [[Getting-Things-Done|Getting Things Done]] | — | — | ⚠️ Database Migration Planning | 244 |
+| 21 | [[PARA-Method|para method]] | — | — | ⚠️ Database Migration Planning | 244 |
 | 22 | [[Project Management]] | — | — | ⚠️ Database Migration Planning | 255 |
 | 23 | [[Goal-Oriented]] | — | — | ⚠️ Database Migration Planning | 257 |
 | 24 | [[Todoist]] | — | — | ⚠️ Database Migration Planning | 258 |
@@ -721,8 +721,8 @@ extraction_summary:
 | 32 | [[Obsidian]] | — | — | ⚙️ III. Practical Implementation Systems | 434 |
 | 33 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | ⚙️ III. Practical Implementation Systems | 434 |
 | 34 | [[Obsidian Daily Notes]] | — | — | Implementation Pattern 1: Obsidian Da... | 439 |
-| 35 | [[Project Name]] | — | — | Morning Session (09:00 - 12:00) | 482 |
-| 36 | [[Project Name]] | — | — | Afternoon Session (13:00 - 17:00) | 492 |
+| 35 | [[Project-Name|Project Name]] | — | — | Morning Session (09:00 - 12:00) | 482 |
+| 36 | [[Project-Name|Project Name]] | — | — | Afternoon Session (13:00 - 17:00) | 492 |
 | 37 | [[Related-Concept|Related Concept]] | — | — | 💡 Insights & Learning | 504 |
 | 38 | [[Weekly Review - Week <% tp.date.now("WW") %>]] | — | — | [[Weekly Review - Week <% tp.date.now... | 528 |
 | 39 | [[Dataview]] | — | — | [[Weekly Review - Week <% tp.date.now... | 532 |
@@ -781,8 +781,8 @@ extraction_summary:
 | 92 | [[Semantic Versioning]] | — | — | 🔗 Related Topics for PKB Expansion | 1908 |
 | 93 | [[Obsidian Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 1909 |
 | 94 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 1910 |
-| 95 | [[PARA Method]] | — | — | 🔗 Related Topics for PKB Expansion | 1911 |
-| 96 | [[Getting Things Done]] | — | — | 🔗 Related Topics for PKB Expansion | 1912 |
+| 95 | [[PARA-Method|PARA Method]] | — | — | 🔗 Related Topics for PKB Expansion | 1911 |
+| 96 | [[Getting-Things-Done|Getting Things Done]] | — | — | 🔗 Related Topics for PKB Expansion | 1912 |
 | 97 | [[Version Control]] | — | — | 🔗 Related Topics for PKB Expansion | 1913 |
 | 98 | [[Change Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1914 |
 | 99 | [[Documentation Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1915 |
@@ -1000,7 +1000,7 @@ tags: [#daily-note, #work-log]
 ## 📝 Work Log
 
 ### Morning Session (09:00 - 12:00)
-**Active Project**: [[Project Name]]
+**Active Project**: [[Project-Name|Project Name]]
 **Time Tracked**: [Start - End]
 **Activities**:
 - 
@@ -1010,7 +1010,7 @@ tags: [#daily-note, #work-log]
 **Decisions Made**: 
 
 ### Afternoon Session (13:00 - 17:00)
-**Active Project**: [[Project Name]]
+**Active Project**: [[Project-Name|Project Name]]
 **Time Tracked**: [Start - End]
 # ... (35 more lines truncated)
 ```
@@ -1677,8 +1677,8 @@ Wiki-Link Opportunities Identified:
 - [[Semantic Versioning]]
 - [[Obsidian Daily Notes]]
 - [[Zettelkasten]]
-- [[PARA Method]]
-- [[Getting Things Done]]
+- [[PARA-Method|PARA Method]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Version Control]]
 - [[Change Management]]
 - [[Documentation Systems]]
@@ -1882,7 +1882,7 @@ Callout Strategy:
 - [[Emacs]]
 - [[File Naming Conventions]]
 - [[Foam]]
-- [[Getting Things Done]]
+- [[Getting-Things-Done|Getting Things Done]]
 - [[Git]]
 - [[Git for Knowledge Workers: Beyond Code]]
 - [[GitHub]]
@@ -1900,13 +1900,13 @@ Callout Strategy:
 - [[Obsidian Daily Notes]]
 - [[Obsidian Git]]
 - [[Obsidian Tasks Plugin]]
-- [[PARA Method]]
+- [[PARA-Method|PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Planning Fallacy]]
 - [[Progress Principle]]
 - [[Project Management]]
 - [[Project Management in Personal Knowledge Bases]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Project Notes]]
 - [[Race Condition]]
 - [[Reflective-Practice|Reflective Practice]]
@@ -1928,7 +1928,7 @@ Callout Strategy:
 - [[Dataview]]
 - [[diffs/v3.1-to-v3.2.diff]]
 - [[Obsidian]]
-- [[para method]]
+- [[PARA-Method|para method]]
 - [[project-proposal_v3.1.0_20251114.md]]
 - [[project-proposal_v3.2.0.md]]
 - [[project-proposal_v3.2.0_20251121.md]]

@@ -24,30 +24,30 @@ domain: cognitive-psychology
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 22
+referenced-by-count: 50
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[Amotivation]]"
+  - "[[Analysis]]"
   - "[[Autonomous-Regulation]]"
   - "[[Autonomy-Supportive-Environment]]"
+  - "[[CLT-as-a-Dynamic-Load-Optimization-Problem]]"
   - "[[Cognitive-Evaluation-Theory]]"
+  - "[[Cognitive-Load-Theory]]"
   - "[[Competence]]"
   - "[[Conditional-Regard]]"
-  - "[[Controlled-Regulation]]"
-  - "[[Controlling-Environment]]"
-  - "[[Effectance]]"
+  - "[[Context-Regulation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,30 +60,30 @@ importance: high
 # Metacognition-and-Self-Regulated-Learning
 
 > [!definition] **Metacognition-and-Self-Regulated-Learning**
-> *Stub note — concept referenced by 22 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 22 permanent notes.*
+*Auto-generated stub — referenced by 50 permanent notes.*
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[Amotivation]]
+- [[Analysis]]
 - [[Autonomous-Regulation]]
 - [[Autonomy-Supportive-Environment]]
+- [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
 - [[Cognitive-Evaluation-Theory]]
+- [[Cognitive-Load-Theory]]
 - [[Competence]]
 - [[Conditional-Regard]]
+- [[Context-Regulation]]
 - [[Controlled-Regulation]]
 - [[Controlling-Environment]]
+- [[Critical-Thinking]]
+- [[Disposition]]
 - [[Effectance]]
-- [[Identified-Regulation]]
-- [[Introjected-Regulation]]
-- [[Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score]]
-- [[Need-Thwarting]]
-- [[Organismic-Integration-Theory]]
-- [[Perceived-Locus-of-Causality]]
-- [[Phase-vs.-Area-—-A-Critical-Distinction]]
-- [[Pintrich's-4×4-Matrix]]
-- [[Relatedness]]
-- [[The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper]]
-- *...and 2 more permanent notes*
+- [[Element-Interactivity]]
+- [[Evaluation]]
+- [[Expertise-Reversal-Effect]]
+- [[Extraneous-Cognitive-Load]]
+- [[Germane-Cognitive-Load]]
+- *...and 30 more permanent notes*

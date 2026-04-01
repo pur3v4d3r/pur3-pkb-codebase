@@ -146,7 +146,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 35)*
 
 > [!abstract] Untitled
-> Stars shine not because they possess some inherent property of "burning," but because they are sites where four fundamental forces—gravity, electromagnetism, the strong nuclear force, and quantum mechanics—interact in a specific hierarchical sequence. This document systematically deconstructs stellar luminosity from [[first principles]], beginning with the fundamental forces themselves, progressing through gravitational collapse and its thermodynamic consequences, deriving the conditions necessary for nuclear fusion from [[Coulomb repulsion]] and quantum tunneling, reconstructing the specific fusion pathways that dominate in stellar cores, analyzing how energy escapes through radiative diffusion and convection, and finally explaining why the photosphere emits characteristic blackbody radiation. Rather than accepting textbook statements, we rebuild each stage from the physical laws that make it *inevitable*, demonstrating that stellar luminosity is not a mysterious property but an emergent phenomenon arising from well-understood physics applied to a self-gravitating gas sphere.
+> Stars shine not because they possess some inherent property of "burning," but because they are sites where four fundamental forces—gravity, electromagnetism, the strong nuclear force, and quantum mechanics—interact in a specific hierarchical sequence. This document systematically deconstructs stellar luminosity from [[First-Principles-What-Is-Knowledge|first principles]], beginning with the fundamental forces themselves, progressing through gravitational collapse and its thermodynamic consequences, deriving the conditions necessary for nuclear fusion from [[Coulomb repulsion]] and quantum tunneling, reconstructing the specific fusion pathways that dominate in stellar cores, analyzing how energy escapes through radiative diffusion and convection, and finally explaining why the photosphere emits characteristic blackbody radiation. Rather than accepting textbook statements, we rebuild each stage from the physical laws that make it *inevitable*, demonstrating that stellar luminosity is not a mysterious property but an emergent phenomenon arising from well-understood physics applied to a self-gravitating gas sphere.
 
 #### 4. [THE-PURPOSE] Untitled *(Line 42)*
 
@@ -533,7 +533,7 @@ extraction_summary:
 - [[binding energy]]
 - [[convection]]
 - [[effective temperature]]
-- [[first principles]]
+- [[First-Principles-What-Is-Knowledge|first principles]]
 - [[hydrostatic equilibrium]]
 - [[mass defect]]
 - [[mean free path]]
@@ -551,7 +551,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[first principles]] | — | — | 🧱 First-Principles Reconstruction: Wh... | 36 |
+| 1 | [[First-Principles-What-Is-Knowledge|first principles]] | — | — | 🧱 First-Principles Reconstruction: Wh... | 36 |
 | 2 | [[Coulomb repulsion]] | — | — | 🧱 First-Principles Reconstruction: Wh... | 36 |
 | 3 | [[Universal Gravitation]] | — | — | 🔬 First Principle 1: [[Universal Grav... | 72 |
 | 4 | [[Electromagnetic Force]] | — | — | ⚡ First Principle 2: [[Electromagneti... | 83 |
@@ -1013,7 +1013,7 @@ $$
 - [[binding energy]]
 - [[convection]]
 - [[effective temperature]]
-- [[first principles]]
+- [[First-Principles-What-Is-Knowledge|first principles]]
 - [[hydrostatic equilibrium]]
 - [[mass defect]]
 - [[mean free path]]

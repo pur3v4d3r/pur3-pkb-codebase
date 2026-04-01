@@ -230,7 +230,7 @@ extraction_summary:
 
 > [!phase-four] Untitled
 > **Building from Principle 4 and 5:** [[Managing Load and Recovery—The Fitness-Fatigue Optimization]]
-> The [[fitness-fatigue model]] provides a quantitative framework for balancing stress and recovery across multiple timescales. At any moment, an individual's **preparedness** = **fitness** - **fatigue**. Fitness develops slowly and persists for weeks; fatigue accumulates rapidly but dissipates within days. During intensive work periods, fitness increases but fatigue accumulates faster, temporarily reducing preparedness. During recovery periods, fitness decays slowly while fatigue dissipates rapidly, increasing preparedness. The optimization challenge is ensuring that accumulated fatigue never exceeds recovery capacity while maximizing long-term fitness development. This requires continuous monitoring of both subjective (perceived energy, motivation, cognitive clarity) and objective (resting heart rate, heart rate variability, sleep quality) markers. When markers indicate excessive fatigue accumulation, the prescribed intervention is not increased effort but rather strategic load reduction through shortened work blocks, extended recovery periods, or an entire recovery mesocycle. This seemingly counterintuitive prescription—reducing work when falling behind—is justified by the recognition that continuing to accumulate stress in a fatigued state produces minimal fitness gains while risking system breakdown. Similarly, recognizing the finite nature of attentional resources requires accepting hard constraints on daily intensive work duration. Just as elite athletes cannot productively train for 10 hours daily regardless of motivation, knowledge workers cannot sustain more than 4-6 hours of genuine [[Deliberate-Practice|deliberate practice]] equivalent work without experiencing rapidly diminishing returns and elevated risk of [[cognitive overload]] and [[burnout]]. The solution is not to push through but rather to structure work so that available high-quality hours are protected, focused, and used maximally efficiently. This may mean working "less" by clock time but accomplishing far more in terms of genuine capacity development and high-value output production. Organizations that implement these principles report dramatic improvements in both productivity metrics and employee wellbeing indicators, as the system aligns biological reality with performance demands.
+> The [[fitness-fatigue model]] provides a quantitative framework for balancing stress and recovery across multiple timescales. At any moment, an individual's **preparedness** = **fitness** - **fatigue**. Fitness develops slowly and persists for weeks; fatigue accumulates rapidly but dissipates within days. During intensive work periods, fitness increases but fatigue accumulates faster, temporarily reducing preparedness. During recovery periods, fitness decays slowly while fatigue dissipates rapidly, increasing preparedness. The optimization challenge is ensuring that accumulated fatigue never exceeds recovery capacity while maximizing long-term fitness development. This requires continuous monitoring of both subjective (perceived energy, motivation, cognitive clarity) and objective (resting heart rate, heart rate variability, sleep quality) markers. When markers indicate excessive fatigue accumulation, the prescribed intervention is not increased effort but rather strategic load reduction through shortened work blocks, extended recovery periods, or an entire recovery mesocycle. This seemingly counterintuitive prescription—reducing work when falling behind—is justified by the recognition that continuing to accumulate stress in a fatigued state produces minimal fitness gains while risking system breakdown. Similarly, recognizing the finite nature of attentional resources requires accepting hard constraints on daily intensive work duration. Just as elite athletes cannot productively train for 10 hours daily regardless of motivation, knowledge workers cannot sustain more than 4-6 hours of genuine [[Deliberate-Practice|deliberate practice]] equivalent work without experiencing rapidly diminishing returns and elevated risk of [[cognitive overload]] and [[Burnout]]. The solution is not to push through but rather to structure work so that available high-quality hours are protected, focused, and used maximally efficiently. This may mean working "less" by clock time but accomplishing far more in terms of genuine capacity development and high-value output production. Organizations that implement these principles report dramatic improvements in both productivity metrics and employee wellbeing indicators, as the system aligns biological reality with performance demands.
 
 #### 19. [HELPFUL-TIP] Untitled *(Line 122)*
 
@@ -395,7 +395,7 @@ extraction_summary:
 - [[The Specificity and Time-Course of Biological Adaptation]]
 - [[Workflow Gamification and Temporal Structure]]
 - [[Yerkes-Dodson Law]]
-- [[burnout]]
+- [[Burnout]]
 - [[chronobiology]]
 - [[circadian misalignment]]
 - [[cognitive overload]]
@@ -501,7 +501,7 @@ extraction_summary:
 | 61 | [[fitness-fatigue model]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
 | 62 | [[Deliberate-Practice|deliberate practice]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
 | 63 | [[cognitive overload]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
-| 64 | [[burnout]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
+| 64 | [[Burnout]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 120 |
 | 65 | [[Basic Rest-Activity Cycle]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 132 |
 | 66 | [[Learning Efficiency Through Time Investment]] | — | — | 5.0 🧠 KEY QUESTIONS (METACOGNITION) | 152 |
 | 67 | [[Creativity Through Unstructured Brainstorming]] | — | — | 5.0 🧠 KEY QUESTIONS (METACOGNITION) | 152 |
@@ -675,7 +675,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 - [[The Specificity and Time-Course of Biological Adaptation]]
 - [[Workflow Gamification and Temporal Structure]]
 - [[Yerkes-Dodson Law]]
-- [[burnout]]
+- [[Burnout]]
 - [[chronobiology]]
 - [[circadian misalignment]]
 - [[cognitive overload]]

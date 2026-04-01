@@ -24,8 +24,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-03-27
-updated: 2026-03-27
+created: 2026-04-01
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,7 +38,6 @@ referenced-by-count: 14
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[.permanent-notes-index]]"
   - "[[API-First-AI-Integration]]"
   - "[[Chain-of-Thought-Prompting]]"
   - "[[Client-Server-Architecture]]"
@@ -48,6 +47,7 @@ see-also:
   - "[[Handlebars]]"
   - "[[Model-Context-Protocol]]"
   - "[[Prompty-Asset-Class]]"
+  - "[[Smart-Connections]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -66,7 +66,6 @@ importance: medium
 
 ## Referenced By
 
-- [[.permanent-notes-index]]
 - [[API-First-AI-Integration]]
 - [[Chain-of-Thought-Prompting]]
 - [[Client-Server-Architecture]]
@@ -80,3 +79,4 @@ importance: medium
 - [[Text-Generator-Plugin]]
 - [[Thinking-Tag-Semantics]]
 - [[Tree-of-Thoughts-Framework]]
+- [[What-is-Frontmatter]]

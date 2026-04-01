@@ -141,7 +141,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Attention Engineering]]
-- [[Cognitive Control Mechanisms]]
+- [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]]
 - [[Focus Enhancement Strategies]]
 
 ### All Occurrences
@@ -150,7 +150,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Attention Engineering]] | — | — | Document Start | 24 |
 | 2 | [[Focus Enhancement Strategies]] | — | — | Document Start | 24 |
-| 3 | [[Cognitive Control Mechanisms]] | — | — | Document Start | 24 |
+| 3 | [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]] | — | — | Document Start | 24 |
 
 ---
 
@@ -231,7 +231,7 @@ An Analysis of Exogenous Attentional Capture in the Digital Age, Exploring the C
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Attention Engineering]]
-- [[Cognitive Control Mechanisms]]
+- [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]]
 - [[Focus Enhancement Strategies]]
 
 ---

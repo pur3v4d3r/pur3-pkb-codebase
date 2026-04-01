@@ -454,14 +454,14 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Practice
 
-#### 57. [TOPIC-IDEA] [[Psychological Need Satisfaction and Developmental Trajectories]] *(Line 621)*
+#### 57. [TOPIC-IDEA] [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]] *(Line 621)*
 
-> [!topic-idea] [[Psychological Need Satisfaction and Developmental Trajectories]]
+> [!topic-idea] [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]]
 > This expansion examines the developmental pathways through which chronic need satisfaction or frustration produces stable causality orientations — the developmental mechanism that COT theorizes but that existing research has not adequately tested. Would cover attachment research as a developmental precursor, parenting style studies (Grolnick & Ryan's work on parental involvement and structure), and the sparse longitudinal evidence on orientation change across the lifespan. Priority: HIGH — the most important gap in the COT evidence base.
 
-#### 58. [TOPIC-IDEA] [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] *(Line 624)*
+#### 58. [TOPIC-IDEA] [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] *(Line 624)*
 
-> [!topic-idea] [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
+> [!topic-idea] [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
 > A focused analysis of how COT orientations shape the SRL cycle — a connection briefly analyzed in this report's PKB section but warranting dedicated treatment. Would examine Phase II (forethought quality as a function of orientation), Phase III (performance monitoring as informational vs. evaluative function of orientation), and Phase IV (error attribution as a function of orientation). Bridges the COT and SRL reports in the PKB with a synthetic analysis. Priority: HIGH.
 
 #### 59. [TOPIC-IDEA] [[The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]] *(Line 627)*
@@ -469,19 +469,19 @@ extraction_summary:
 > [!topic-idea] [[The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]]
 > A dedicated analysis of COT's most neglected orientation. Would examine the learned helplessness parallels in mechanistic depth, review the clinical literature on amotivation in depression and anxiety, and analyze what intervention research suggests about remediating impersonal orientation. The selection bias problem identified in this report — that impersonal-oriented individuals are underrepresented in research samples — would be addressed as a methodological challenge. Priority: HIGH.
 
-#### 60. [TOPIC-IDEA] [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]] *(Line 630)*
+#### 60. [TOPIC-IDEA] [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]] *(Line 630)*
 
-> [!topic-idea] [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
+> [!topic-idea] [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
 > How causality orientations manifest in leadership and management contexts. Covers the Deci, Connell, & Ryan (1989) research showing that managers trained to be more autonomy-supportive improved subordinate motivation and well-being, and examines how manager orientation shapes the motivational climate they create. Extends the interpersonal cascade mechanism from Phase IV into organizational systems. Priority: MEDIUM.
 
-#### 61. [TOPIC-IDEA] [[GCOS Psychometrics — Measurement Debates and Factor Structure]] *(Line 633)*
+#### 61. [TOPIC-IDEA] [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]] *(Line 633)*
 
-> [!topic-idea] [[GCOS Psychometrics — Measurement Debates and Factor Structure]]
+> [!topic-idea] [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]]
 > A critical evaluation of the GCOS instrument, including debates about whether the three-factor structure is empirically supported, whether control and impersonal orientations are genuinely distinct or empirically conflated, and whether the instrument requires updating for contemporary populations and cross-cultural use. Priority: MEDIUM — important for researchers using COT empirically.
 
-#### 62. [TOPIC-IDEA] [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]] *(Line 636)*
+#### 62. [TOPIC-IDEA] [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]] *(Line 636)*
 
-> [!topic-idea] [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
+> [!topic-idea] [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
 > Dweck's growth mindset (implicit theory of intelligence as malleable) predicts many of the same outcomes as COT's autonomy orientation: greater adaptive response to challenge, more mastery-oriented goal adoption, less defensiveness in the face of failure. Yet the theoretical grounds are different (implicit theories of intelligence vs. developmental need satisfaction history) and the measurement approaches are distinct. A focused comparison and integration would clarify whether these are parallel accounts of the same phenomenon, complementary accounts of different mechanisms, or theoretically incompatible frameworks whose apparent convergence reflects measurement overlap. Priority: MEDIUM.
 
 ---
@@ -497,24 +497,24 @@ extraction_summary:
 - [[Amotivation]]
 - [[Attentional-Deployment|Attentional Deployment]]
 - [[Autonomy-Orientation|Autonomy Orientation]]
-- [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
+- [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
-- [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
-- [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
+- [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
+- [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
 - [[Control-Orientation|Control Orientation]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
-- [[GCOS Psychometrics — Measurement Debates and Factor Structure]]
+- [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Metacognition-and-Motivation|Metacognition and Motivation]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Psychological Need Satisfaction and Developmental Trajectories]]
+- [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]]
 - [[Selective-Attention|Selective Attention]]
 - [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
 - [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
@@ -548,12 +548,12 @@ extraction_summary:
 | 22 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Phase VII: PKB Connections & Cross-Re... | 519 |
 | 23 | [[Metacognition-and-Motivation|Metacognition and Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 521 |
 | 24 | [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 525 |
-| 25 | [[Psychological Need Satisfaction and Developmental Trajectories]] | — | — | D. Expansion Topics | 621 |
-| 26 | [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] | — | — | D. Expansion Topics | 624 |
+| 25 | [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]] | — | — | D. Expansion Topics | 621 |
+| 26 | [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] | — | — | D. Expansion Topics | 624 |
 | 27 | [[The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]] | — | — | D. Expansion Topics | 627 |
-| 28 | [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]] | — | — | D. Expansion Topics | 630 |
-| 29 | [[GCOS Psychometrics — Measurement Debates and Factor Structure]] | — | — | D. Expansion Topics | 633 |
-| 30 | [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]] | — | — | D. Expansion Topics | 636 |
+| 28 | [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]] | — | — | D. Expansion Topics | 630 |
+| 29 | [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]] | — | — | D. Expansion Topics | 633 |
+| 30 | [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]] | — | — | D. Expansion Topics | 636 |
 
 ---
 
@@ -567,24 +567,24 @@ extraction_summary:
 - [[Amotivation]]
 - [[Attentional-Deployment|Attentional Deployment]]
 - [[Autonomy-Orientation|Autonomy Orientation]]
-- [[Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
+- [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
-- [[COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
-- [[COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
+- [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
+- [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
 - [[Control-Orientation|Control Orientation]]
 - [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
-- [[GCOS Psychometrics — Measurement Debates and Factor Structure]]
+- [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]]
 - [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Impersonal-Orientation|Impersonal Orientation]]
 - [[Learned-Helplessness|Learned Helplessness]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Metacognition-and-Motivation|Metacognition and Motivation]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Psychological Need Satisfaction and Developmental Trajectories]]
+- [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]]
 - [[Selective-Attention|Selective Attention]]
 - [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
 - [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]

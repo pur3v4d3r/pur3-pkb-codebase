@@ -240,14 +240,14 @@ extraction_summary:
 - [[JavaScript]]
 - [[Obsidian API]]
 - [[Obsidian Power Users]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Project X]]
 - [[QuickAdd Macro Development]]
 - [[TODAY'S DATE]]
 - [[Task Prioritization]]
-- [[Time-Blocking Methodology]]
+- [[Time-Blocking-Methodology|Time-Blocking Methodology]]
 - [[Workflow Automation]]
-- [[deep work]]
+- [[deep-work|deep work]]
 - [[Obsidian]]
 
 ### All Occurrences
@@ -267,7 +267,7 @@ extraction_summary:
 | 11 | [[TODAY'S DATE]] | — | — | Phase 4: Testing Procedure | 761 |
 | 12 | [[FILENAME]] | — | — | Phase 5: Migration of Existing Tasks ... | 796 |
 | 13 | [[2025-11-16]] | — | — | 1. Custom Inline Fields | 834 |
-| 14 | [[Project Name]] | — | — | 1. Custom Inline Fields | 845 |
+| 14 | [[Project-Name|Project Name]] | — | — | 1. Custom Inline Fields | 845 |
 | 15 | [[GTD Workflow in Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 965 |
 | 16 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 968 |
 | 17 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | 🔗 Related Topics for PKB Expansion | 968 |
@@ -279,8 +279,8 @@ extraction_summary:
 | 23 | [[Obsidian Power Users]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
 | 24 | [[Data Analysis]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
 | 25 | [[Dashboard-Design|Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 978 |
-| 26 | [[Time-Blocking Methodology]] | — | — | 🔗 Related Topics for PKB Expansion | 980 |
-| 27 | [[deep work]] | — | — | 🔗 Related Topics for PKB Expansion | 982 |
+| 26 | [[Time-Blocking-Methodology|Time-Blocking Methodology]] | — | — | 🔗 Related Topics for PKB Expansion | 980 |
+| 27 | [[deep-work|deep work]] | — | — | 🔗 Related Topics for PKB Expansion | 982 |
 | 28 | [[Attention Management]] | — | — | 🔗 Related Topics for PKB Expansion | 983 |
 | 29 | [[Calendar Blocking]] | — | — | 🔗 Related Topics for PKB Expansion | 983 |
 | 30 | [[Task Prioritization]] | — | — | 🔗 Related Topics for PKB Expansion | 983 |
@@ -885,7 +885,7 @@ dv.taskList(unscheduled.limit(5), false);
 | Context | `[context:: @home/@work/@phone]` | GTD-style context filtering |
 | Estimate | `[estimated:: 2h]` | Time budgeting |
 | Assignee | `[assigned:: @person]` | Team task management |
-| Project | `[project:: [[Project Name]]]` | Roll-up queries |
+| Project | `[project:: [[Project-Name|Project Name]]]` | Roll-up queries |
 
 ---
 
@@ -927,14 +927,14 @@ dv.taskList(unscheduled.limit(5), false);
 - [[JavaScript]]
 - [[Obsidian API]]
 - [[Obsidian Power Users]]
-- [[Project Name]]
+- [[Project-Name|Project Name]]
 - [[Project X]]
 - [[QuickAdd Macro Development]]
 - [[TODAY'S DATE]]
 - [[Task Prioritization]]
-- [[Time-Blocking Methodology]]
+- [[Time-Blocking-Methodology|Time-Blocking Methodology]]
 - [[Workflow Automation]]
-- [[deep work]]
+- [[deep-work|deep work]]
 - [[Obsidian]]
 
 ---

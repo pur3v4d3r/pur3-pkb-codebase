@@ -1079,7 +1079,7 @@ extraction_summary:
 - [[Daily-Template]]
 - [[Dataview]]
 - [[Executive-Function|Executive Function]]
-- [[GTD (Getting Things Done)]]
+- [[GTD|GTD (Getting Things Done)]]
 - [[GTD Implementation in Obsidian - Deep Dive]]
 - [[Goal Setting]]
 - [[Habit Formation & Behavioral Change Science]]
@@ -1130,7 +1130,7 @@ extraction_summary:
 | 8 | [[Reflective-Practice|Reflective Practice]] | — | — | 🎯 Foundations: Why Personal Reviews M... | 76 |
 | 9 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Foundations: Why Personal Reviews M... | 76 |
 | 10 | [[Metacognitive-Development|Metacognitive Development]] | — | — | 🎯 Foundations: Why Personal Reviews M... | 76 |
-| 11 | [[GTD (Getting Things Done)]] | — | — | The Purpose of Systematic Reviews | 80 |
+| 11 | [[GTD|GTD (Getting Things Done)]] | — | — | The Purpose of Systematic Reviews | 80 |
 | 12 | [[Building a Second Brain]] | — | — | The Purpose of Systematic Reviews | 80 |
 | 13 | [[Working-Memory|Working Memory]] | — | — | Review Cadences & Their Purposes | 95 |
 | 14 | [[Executive-Function|Executive Function]] | — | — | Review Cadences & Their Purposes | 96 |
@@ -1191,7 +1191,7 @@ extraction_summary:
 | 69 | [[Templater]] | — | — | 🔄 Version History | 2759 |
 | 70 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔄 Version History | 2760 |
 | 71 | [[Reflective-Practice|Reflective Practice]] | — | — | 🔄 Version History | 2761 |
-| 72 | [[GTD (Getting Things Done)]] | — | — | 🔄 Version History | 2762 |
+| 72 | [[GTD|GTD (Getting Things Done)]] | — | — | 🔄 Version History | 2762 |
 | 73 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🔄 Version History | 2763 |
 | 74 | [[Zettelkasten]] | — | — | 🔄 Version History | 2764 |
 | 75 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🔄 Version History | 2765 |
@@ -2275,7 +2275,7 @@ graph TD
 - [[Daily-Template]]
 - [[Dataview]]
 - [[Executive-Function|Executive Function]]
-- [[GTD (Getting Things Done)]]
+- [[GTD|GTD (Getting Things Done)]]
 - [[GTD Implementation in Obsidian - Deep Dive]]
 - [[Goal Setting]]
 - [[Habit Formation & Behavioral Change Science]]

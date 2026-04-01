@@ -459,7 +459,7 @@ extraction_summary:
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Ethnocentrism]]
 - [[Fallibilism]]
-- [[Fundamental Attribution Error]]
+- [[Fundamental-Attribution-Error|Fundamental Attribution Error]]
 - [[Heather-Battaly|Heather Battaly]]
 - [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Identity-Protective Cognition]]
@@ -476,9 +476,9 @@ extraction_summary:
 - [[Linda-Zagzebski|Linda Zagzebski]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Naive Realism]]
-- [[Overconfidence Bias]]
-- [[Perspective-Taking Failures]]
+- [[Naive-Realism|Naive Realism]]
+- [[Overconfidence-Bias|Overconfidence Bias]]
+- [[Perspective-Taking-Failures|Perspective-Taking Failures]]
 - [[Prohairesis]]
 - [[Reliabilism]]
 - [[Satisficing]]
@@ -536,15 +536,15 @@ extraction_summary:
 | 38 | [[Askēsis]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
 | 39 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 293 |
 | 40 | [[Heuristics-and-Biases-Program|Heuristics and Biases Program]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 300 |
-| 41 | [[Overconfidence Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
+| 41 | [[Overconfidence-Bias|Overconfidence Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
 | 42 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
 | 43 | [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
 | 44 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
 | 45 | [[Disconfirmation-Bias|Disconfirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
 | 46 | [[Backfire-Effect|Backfire Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
-| 47 | [[Fundamental Attribution Error]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
-| 48 | [[Naive Realism]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
-| 49 | [[Perspective-Taking Failures]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
+| 47 | [[Fundamental-Attribution-Error|Fundamental Attribution Error]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
+| 48 | [[Naive-Realism|Naive Realism]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
+| 49 | [[Perspective-Taking-Failures|Perspective-Taking Failures]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 50 | [[Ethnocentrism]] | in-group favoritism in epistemic evaluation | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 51 | [[Satisficing]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
 | 52 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
@@ -562,8 +562,8 @@ extraction_summary:
 | 64 | [[Disconfirmation-Bias|Disconfirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 65 | [[Backfire-Effect|Backfire Effect]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 66 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
-| 67 | [[Naive Realism]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
-| 68 | [[Fundamental Attribution Error]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
+| 67 | [[Naive-Realism|Naive Realism]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
+| 68 | [[Fundamental-Attribution-Error|Fundamental Attribution Error]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 69 | [[in-group favoritism in epistemic evaluation]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 70 | [[Cognitive-Miserliness|Cognitive Miserliness]] | — | — | 🗺️ The Complete Correspondence Map | 396 |
 | 71 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🗺️ The Complete Correspondence Map | 398 |
@@ -639,7 +639,7 @@ extraction_summary:
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Ethnocentrism]]
 - [[Fallibilism]]
-- [[Fundamental Attribution Error]]
+- [[Fundamental-Attribution-Error|Fundamental Attribution Error]]
 - [[Heather-Battaly|Heather Battaly]]
 - [[Heuristics-and-Biases-Program|Heuristics and Biases Program]]
 - [[Identity-Protective Cognition]]
@@ -656,9 +656,9 @@ extraction_summary:
 - [[Linda-Zagzebski|Linda Zagzebski]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Naive Realism]]
-- [[Overconfidence Bias]]
-- [[Perspective-Taking Failures]]
+- [[Naive-Realism|Naive Realism]]
+- [[Overconfidence-Bias|Overconfidence Bias]]
+- [[Perspective-Taking-Failures|Perspective-Taking Failures]]
 - [[Prohairesis]]
 - [[Reliabilism]]
 - [[Satisficing]]
