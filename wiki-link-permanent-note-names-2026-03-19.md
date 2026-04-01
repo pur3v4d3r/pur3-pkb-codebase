@@ -4,1579 +4,2263 @@ These are the note names of my permanent note collection use these as the Wiki-l
 
 
 📁 _permanent-notes
-⏱️  Generated in 17 ms
+⏱️  Generated in 23 ms
 ──────────────────────────────────────────────────
-├── _Master-Definition-Index.md
-├── _Master-Expansion-Topics-Index.md
-├── _Master-PKB-Connections-Index.md
-├── _Master-Reference-Index.md
-├── _permanent-notes-index.md
-├── .permanent-notes-index.md
-├── 2×2-Framework.md
-├── 03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management.md
-├── 4E-Cognition.md
-├── 7-Zip.md
-├── 22-Framework.md
-├── 999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning.md
-├── A-comprehensive-treatment-of-Anders-Ericsson's-research-program-on-expert-skill.md
-├── A-dedicated-analysis-of-COT's-most-neglected-orientation.-Would-examine-the-lear.md
-├── A-dedicated-foundational-report-on-this-topic-would-provide-comprehensive-treatm.md
-├── A-dedicated-Foundational-Report-on-transfer-would-be-one-of-the-highest-value-ad.md
-├── A-dedicated-investigation-of-the-most-efficient-protocols-for-building-vocabular.md
-├── A-dedicated-report-on-Popper's-philosophy-of-science,-covering-the-demarcation-p.md
-├── A-deep-dive-into-Efklides'-work-on-the-phenomenological-dimension-of-metacogniti.md
-├── A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm.md
-├── A-focused-analysis-examining-the-full-mechanism-chain-from-CPR-in-early-caregivi.md
-├── A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle-—-a-connection-br.md
-├── A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode.md
-├── A-focused-analysis-of-Reeve's-autonomy-supportive-teaching-framework-the-specifi.md
-├── A-focused-analysis-of-the-cross-cultural-evidence-for-BPNT-universality,-critica.md
-├── A-focused-analysis-of-the-structural-tension-between-the-cognitive-resources-req.md
-├── A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure.md
-├── A-foundational-report-on-Stella-Vosniadou's-framework-theory-approach-and-its-su.md
-├── A-foundational-treatment-of-Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learn.md
-├── A-foundational-treatment-of-Ruth-Byrne's-suppositional-theory-of-counterfactuals.md
-├── A-full-treatment-of-the-empirical-science-behind-retrieval-practice-—-the-most-r.md
-├── A-systematic-survey-of-how-cognitive-biases-distort-metacognitive-accuracy,-cove.md
-├── Abduction.md
-├── Abductive-Competence.md
-├── abductive-reasoning-foundational-report-2026-03-06.md
-├── Abductive-Reasoning.md
-├── Abraham-Maslow.md
-├── Acceptance-and-Commitment-Therapy.md
-├── Accommodation.md
-├── Accretion,-Tuning,-Restructuring.md
-├── achievement-goal-theory-foundational-report-2026-03-10.md
-├── Achievement-Goal-Theory.md
-├── Achievement-Goal.md
-├── Active-Externalism.md
-├── Active-Inference-and-Ethical-Agency.md
-├── Active-Inference.md
-├── Actively-Open-Minded-Thinking.md
-├── Actor-Observer-Bias.md
-├── adaptation.md
-├── Adaptive-Immunity.md
-├── Adaptive-Inference.md
-├── Adult-Education.md
-├── Advance-Organizer.md
-├── Advance-OrganizerAdvance-Organizer.md
-├── advance-organizers-prior-knowledge-foundational-report-2026-03-11.md
-├── Advance-Organizers.md
-├── Affect-as-Information-in-Decision-Making.md
-├── Affect-as-Information-Theory.md
-├── Affective-Intelligence-Theory.md
-├── Affective-Prediction-Errors.md
-├── Affective-Realism.md
-├── Agent-Capability-Development-Framework.md
-├── Agent-Coordination-Patterns.md
-├── Agent-File-Format-Specification.md
-├── Aggregation-Functions.md
-├── Agile-Standups.md
-├── AI-Agent-Architecture.md
-├── AI-Agent-Coordination-System-Implementation-Guide.md
-├── AI-Agents.md
-├── AI-PKB-Integration.md
-├── AI-Safety.md
-├── Albert-Bandura.md
-├── Alison-Gopnik.md
-├── Allen-Tough.md
-├── Allostasis.md
-├── Allostatic-Load.md
-├── American-pragmatism.md
-├── Amos-Tversky.md
-├── Amotivation.md
-├── Amy-Edmondson's.md
-├── An-exploration-of-how-the-spacing-effect-—-one-of-the-most-replicable-findings-i.md
-├── Analogical-Reasoning.md
-├── Analogical-Representation.md
-├── Analysis-of-the-intersection-between-CLT's-cognitive-resource-constraints-and-BP.md
-├── Analysis-Paralysis.md
-├── Analysis.md
-├── Anchoring-and-Adjustment.md
-├── Anders-Ericsson.md
-├── Andragogy.md
-├── Andy-Clark.md
-├── Anil-Seth.md
-├── Ann-Brown.md
-├── Ann-L.-Brown.md
-├── Anomaly.md
-├── Anterior-Insular-Cortex.md
-├── Antonio-Damasio.md
-├── Apatheia.md
-├── API-Design-Patterns.md
-├── API-First-AI-Integration.md
-├── API-Fundamentals.md
-├── API.md
-├── Aporia.md
-├── Aporic-Receptivity.md
-├── Applied-treatment-of-the-SDT-derived-principles-for-structuring-educational-and.md
-├── Appraisal-Accuracy.md
-├── Appraisal-Theory.md
-├── Apt-Epistemic-Performance.md
-├── Argument-Analysis-Fundamentals.md
-├── Argument-Analysis.md
-├── Argumentation-Theory.md
-├── Argumentation.md
-├── Aristotle.md
-├── Articulatory-Construction-Principle.md
-├── Artinger.md
-├── As-If-Body-Loop.md
-├── Askēsis.md
-├── Asksis.md
-├── Aspiration-Index.md
-├── Assessment-Design.md
-├── Assessment-is-the-instructional-domain-where-SDT's-CET-predictions-are-most-dire.md
-├── Assimilation-and-Accommodation.md
-├── Assimilation,-Accommodation,-and-Equilibration.md
-├── Assimilation.md
-├── Assor-&-Roth-2002.md
-├── Assumption-5-RuleModel-Dichotomy.md
-├── Assumptions.md
-├── Atkinson-Shiffrin-Multi-Store-Model.md
-├── Attachment-Theory-—-Bowlby-and-Ainsworth.md
-├── Attachment-Theory.md
-├── Attainment-Paradox.md
-├── Attention-and-Cognitive-Control.md
-├── Attention-and-Selective-Processing.md
-├── Attention-Mechanism.md
-├── Attention.md
-├── Attribution-Retraining-Interventions.md
-├── Attribution-Retraining.md
-├── Attribution-Style.md
-├── Attribution-Theory.md
-├── Audience-Simulation-Effect.md
-├── Automaticity.md
-├── Autonomous-Motivation-vs.-Controlled-Motivation.md
-├── Autonomous-Motivation.md
-├── Autonomous-Regulation.md
-├── Autonomous-Relationship-Motivation.md
-├── Autonomous-vs.-Controlled-Motivation.md
-├── Autonomy-Need.md
-├── Autonomy-Orientation.md
-├── Autonomy-Relatedness-Integration.md
-├── Autonomy-Support.md
-├── Autonomy-Supportive-Environment.md
-├── Autonomy-Supportive-Teaching-and-Learning-Environments.md
-├── Autonomy.md
-├── Availability-Heuristic.md
-├── Axiom-1-Systematicity-of-Reasoning-Errors.md
-├── Backfire-Effect.md
-├── Baddeley's-Working-Memory-Model.md
-├── Bandura.md
-├── Bandura's-full-social-cognitive-framework-applied-to-educational-contexts-—-trac.md
-├── Bandwidth-Compression.md
-├── Bandwidth-Expansion.md
-├── Barrett-and-Wormwood.md
-├── Barry-Schwartz.md
-├── Barry-Zimmerman.md
-├── Bart-Soenens.md
-├── Bartlett.md
-├── Bartlett's-Reconstructive-Memory-Experiments.md
-├── Basic-Psychological-Need.md
-├── Basic-Psychological-Needs-—-The-Three.md
-├── Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra.md
-├── Basic-Psychological-Needs-The-Three.md
-├── basic-psychological-needs-theory-focused-analysis-2026-03-13.md
-├── Basic-Psychological-Needs-Theory.md
-├── Basic-Psychological-Needs.md
-├── Bayesian-Brain-—-Empirical-Status-Review.md
-├── Bayesian-Epistemology.md
-├── Bayesian-Inference.md
-├── Bayesian-Reasoning-and-Probabilistic-Thinking.md
-├── Behavioral-Modification.md
-├── Behavioral-Signatures.md
-├── Behaviorist-vs.-Cognitive-Theories-of-Learning.md
-├── Belief-Bias.md
-├── belief-perseverance.md
-├── Belief-Revision.md
-├── Belonging-Uncertainty.md
-├── Benjamin-Bloom.md
-├── Black-&-Wiliam.md
-├── Bloom's-Taxonomy.md
-├── Bounded-Contexts.md
-├── Bounded-Rationality.md
-├── Bransford-and-Johnson.md
-├── Bratman.md
-├── Bratman's-Planning-Theory.md
-├── Brendan-Nyhan.md
-├── Bridging-Analogies.md
-├── Bruce-McEwen.md
-├── Byron-Fowers.md
-├── Calibration-Dependency.md
-├── Calibration-Engine.md
-├── Calibration.md
-├── Carl-Rogers.md
-├── Carol-Ames.md
-├── Carol-Dweck.md
-├── Carol-S.-Dweck.md
-├── Carole-Ames.md
-├── Categorical-Syllogism.md
-├── Causal-Induction.md
-├── Causality-Orientation.md
-├── Causality-Orientations-as-Motivational-Affordance-Systems.md
-├── causality-orientations-theory-focused-analysis-2026-03-13.md
-├── Causality-Orientations-Theory.md
-├── Central-Executive.md
-├── Chain-of-Thought-Prompting.md
-├── Chain-of-Thought.md
-├── Challenge-Avoidance.md
-├── Challenge-Skill-Balance.md
-├── Chanin-Of-Thought.md
-├── Charles-Sanders-Peirce.md
-├── Chi-et-al.md
-├── Choice-Function.md
-├── Christopher-Achen.md
-├── Chrysippus.md
-├── Chunking.md
-├── Cicero.md
-├── Circuit-Breaker-Pattern.md
-├── Circuit-Complexity-Theory.md
-├── Classical-Cognitivism.md
-├── classical-mechanics.md
-├── Classical-View-of-Emotion.md
-├── Claude-API.md
-├── Claude-Code-Basics.md
-├── Claude-Code-Workflows.md
-├── Claude-Code.md
-├── Claude-Opus-4.md
-├── Claude-Projects.md
-├── Claude-Sonnet-4.md
-├── CLAUDE.md-Files.md
-├── Claudia-Mueller.md
-├── Client-Server-Architecture.md
-├── CLT-as-a-Dynamic-Load-Optimization-Problem.md
-├── Co-Constructed-Criteria.md
-├── Cocktail-Party-Effect.md
-├── cog-psy-attentional-efficiency-and-skill-aquisition.md
-├── cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md
-├── cog-psy-critical-thinking-metacognitive-regulation.md
-├── cog-psy-evolution-of-selective-attention-theory-202512142019.md
-├── cog-psy-foundational-critical-thinking.md
-├── cog-psy-fundamental-structures-of-reasoning-202512050320.md
-├── cog-psy-john-dewey-how-we-think-review.md
-├── cog-psy-john-dewey.md
-├── cog-psy-mindfulness-based-cognitive-training-202512161937.md
-├── cog-psy-william-james.md
-├── cog-sci-pkm-cognitive-science-principles-for-habit-formation-in-pkm.md
-├── cog-sci-pkm-key-components-of-socratic-questioning-and-how-they-apply-to-pkm-pra.md
-├── cog-sci-pkm-metacognition-and-its-role-in-pkm.md
-├── cog-sci-pkm-reading-fluency-and-comprehension-in-pkm.md
-├── cog-sci-pkm-reading-techniques-and-strategies-for-pkm.md
-├── cog-sci-pkm-the-role-of-reading-in-pkm.md
-├── cog-sci-pkm-theoretical-foundations-of-socratic-questioning-and-their-relevance.md
-├── cog-sci-pkm-understanding-socratic-questioning-and-its-role-in-pkm.md
-├── cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511.md
-├── cog-sci-report-analysis-of-personal-knowledge-management-practices-as-applied-fr.md
-├── cog-sci-report-andragogy-and-higher-order-cognition-202511230656.md
-├── cog-sci-report-first-priciples-reconstruction-self-determination-theory-20251120.md
-├── cog-sci-report-first-principles-reconstruction-self-regulated-learning-as-a-doma.md
-├── cog-sci-report-metacognition-as-central-integrating-mechanism-for-pkm-2025111306.md
-├── Cognitive-Architecture-of-Learning.md
-├── Cognitive-Architecture-Working-Memory-&-Long-Term-Memory.md
-├── Cognitive-Architecture.md
-├── Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism.md
-├── Cognitive-Bandwidth-Liberation.md
-├── Cognitive-Behavioral-Therapy.md
-├── Cognitive-Bias-Research.md
-├── Cognitive-Bias.md
-├── Cognitive-Biases-and-Debiasing-Strategies.md
-├── Cognitive-Biases.md
-├── Cognitive-Control.md
-├── Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o.md
-├── Cognitive-Debt.md
-├── Cognitive-Decoupling.md
-├── Cognitive-Development-—-Piaget-and-Vygotsky.md
-├── Cognitive-Development-Theory.md
-├── Cognitive-Disequilibrium.md
-├── cognitive-evaluation-theory-focused-analysis-2026-03-13.md
-├── Cognitive-Evaluation-Theory.md
-├── Cognitive-Forcing-Functions-in-Clinical-Reasoning.md
-├── Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice.md
-├── Cognitive-Load-Theory-—-Focused-Analysis.md
-├── cognitive-load-theory-focused-analysis-2026-03-06.md
-├── cognitive-load-theory-foundational-report-2026-03-11.md
-├── Cognitive-Load-Theory.md
-├── Cognitive-Load.md
-├── Cognitive-Miserliness.md
-├── Cognitive-Motivational-Model.md
-├── Cognitive-Offloading.md
-├── Cognitive-Psychological-Conceptualization.md
-├── Cognitive-Psychology-Foundations.md
-├── cognitive-psychology.md
-├── Cognitive-Reflection-Test-and-Rationality-Quotient.md
-├── Cognitive-Scaffolding.md
-├── cognitive-science-moc.md
-├── Cognitive-Science.md
-├── Cognitive-Surface-Area.md
-├── Cognitive-Theory-of-Multimedia-Learning.md
-├── Cognitive-Transparency-Assumption.md
-├── Cognitive-Vitality.md
-├── Coherentism-and-Foundationalism.md
-├── command-line.md
-├── Command-Prompt.md
-├── communications-engineering.md
-├── Communities-of-Practice.md
-├── Community-Plugins.md
-├── Comparative-Advance-Organizer.md
-├── Comparative-Organizer.md
-├── Compensation-Trap.md
-├── Compensatory-Hypothesis.md
-├── Competence-Need.md
-├── Competence.md
-├── Complete-Agent-File-Format.md
-├── Complete-Project-Structure.md
-├── Component-Process-Model.md
-├── Comprehension-Monitoring.md
-├── Comprehension.md
-├── Comprehensive-Academic-Reference-Workflow.md
-├── Comprehensive-Refernece-MCP-Servers.md
-├── Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik.md
-├── Computational-Psychiatry-and-the-Examined-Life.md
-├── Concept-1.md
-├── Concept-2.md
-├── Concepts.md
-├── Conceptual-Change-Theory.md
-├── Conceptual-Change.md
-├── Concurrent-Expression.md
-├── Conditional-Logic.md
-├── conditional-metacognitive-knowledge.md
-├── Conditional-Positive-Regard.md
-├── Conditional-Regard-and-the-Introjection-Trap.md
-├── Conditional-Regard.md
-├── Confirmation-Bias-Myside-Bias.md
-├── Confirmation-Bias.md
-├── Conflict-Monitoring.md
-├── Confucian-practical-wisdom.md
-├── Conjunctive-System-Architecture.md
-├── consciousness.md
-├── Constitutional-AI.md
-├── Constructed-Emotion-Theory-—-Deep-Dive.md
-├── Constructed-Emotion-Theory.md
-├── Construction-Activation-Asymmetry.md
-├── Construction-Problem.md
-├── Constructive-Attentiveness.md
-├── Constructive-Threshold.md
-├── Constructivism.md
-├── Constructivist-Learning-Theory.md
-├── Constructivist-Stance.md
-├── constructivist.md
-├── Contemplative-Practice-and-Predictive-Processing.md
-├── Context-of-Discovery-vs.-Context-of-Justification.md
-├── Context-Regulation.md
-├── Context-Window.md
-├── Contingent-Self-Esteem.md
-├── Contingent-Self-Worth.md
-├── Contract-Style-Prompt-Structure.md
-├── Control-Orientation.md
-├── Control-Scaffolding.md
-├── Controlled-Hallucination.md
-├── Controlled-Motivation.md
-├── Controlled-Regulation.md
-├── Controlled-Relationship-Motivation.md
-├── Controlling-Environment.md
-├── Conway's-Law.md
-├── Core-Affect.md
-├── Core-Concept-Definition.md
-├── Core-DataviewJS-Task-Methods.md
-├── Core-Definition-Epistemic-Vigilance.md
-├── Corroboration.md
-├── Cortico-Striatal-Learning-Loops.md
-├── Counterexample-Search.md
-├── Counterfactual-Reasoning.md
-├── Coupling-Constitution-Fallacy.md
-├── Covers-how-intelligent-tutoring-systems,-learning-analytics-dashboards,-and-AI-b.md
-├── Craik-and-Lockhart's-1972-paper.md
-├── Craik.md
-├── Critical-Thinking-as-Metacognitively-Regulated-Reasoning.md
-├── critical-thinking-educational-settings-foundational-report-2026-03-05.md
-├── Critical-Thinking-in-Education.md
-├── Critical-Thinking-Pedagogy.md
-├── Critical-Thinking-Skills-and-Metacognitive-Self-Regulation.md
-├── Critical-Thinking.md
-├── Cross-Cultural-Psychology.md
-├── Crystallization-Threshold.md
-├── Csikszentmihalyi.md
-├── Cue-Validity.md
-├── Cultural-Affordances-in-Active-Inference.md
-├── Cultural-Neutrality-Assumption.md
-├── Custom-Commands.md
-├── Custom-MCP-Server-Development.md
-├── Cybernetics.md
-├── Cyclical-Model-of-Self-Regulated-Learning.md
-├── Daily-Notes.md
-├── Damasio.md
-├── Dan-Sperber.md
-├── Daniel-Kahneman.md
-├── Daniel-Willingham.md
-├── Darwinian.md
-├── Data-Layer-Components.md
-├── Dataview-Inline-Queries-In-Note-Metadata-Panel.md
-├── Dataview-Plugin.md
-├── Dataview-Task-Query-Reference.md
-├── Dataview.md
-├── DataviewJS.md
-├── Date-Functions.md
-├── David-Ausubel.md
-├── David-Chalmers.md
-├── David-Hume.md
-├── David-Marr.md
-├── David-Rumelhart.md
-├── David-Wood.md
-├── Day-Planner.md
-├── Debiasing-Interventions-Meta-Analysis-and-Design.md
-├── Debiasing-Interventions.md
-├── Deci-&-Ryan.md
-├── Deci-and-Ryan.md
-├── Deci,-Connell,-&-Ryan-1989.md
-├── Decision-Making.md
-├── Decision-Theory.md
-├── Declarative-Memory.md
-├── declarative-metacognitive-knowledge.md
-├── Declarative-schemas.md
-├── Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge.md
-├── Decoding.md
-├── deductive-reasoning-learning-foundational-report-2026-03-10.md
-├── Deductive-Reasoning.md
-├── Deep-Processing.md
-├── Defeasibility.md
-├── Defeat-Defeater.md
-├── Defensive-Inference.md
-├── Degenerate-Cycle.md
-├── Deliberate-Practice-and-Expert-Development.md
-├── Deliberate-Practice.md
-├── Deliberative-Democracy.md
-├── Delphi-Consensus-Definition.md
-├── Delphi-Report.md
-├── democratic-self-governance.md
-├── Descartes-—-Meditations.md
-├── Descartes.md
-├── Description-Field-Components.md
-├── Design-Thinking-Pedagogy.md
-├── Desirable-Difficulties.md
-├── Developmental-Need-Satisfaction-History.md
-├── Developmental-Staging-Model.md
-├── Dewey's-Continuity-and-Interaction-Principles.md
-├── Dewey's-Reflective-Thinking.md
-├── Diane-Halpern.md
-├── dichotic-listening-tasks.md
-├── dichotic-listening.md
-├── Dichotomy-of-Control.md
-├── Differentiated-Conception-of-Ability.md
-├── Digital-Reading-and-the-GCA.md
-├── Direct-Instruction.md
-├── Directory-Opus.md
-├── Disconfirmation-Bias.md
-├── Discovery-Learning.md
-├── Disposition.md
-├── Dissolved-Assumption.md
-├── Distinctiveness.md
-├── Distributed-Cognition.md
-├── Distributed-Regulation.md
-├── Domain.md
-├── DOpus-Built-in-Variables.md
-├── DOpus-Command-Modifiers.md
-├── Double-Loop-Learning.md
-├── DQL.md
-├── Drew-Westen.md
-├── Dreyfus-Skill-Acquisition-Model.md
-├── Dreyfus.md
-├── Dual-Coding-Theory.md
-├── Dual-Process-Theory.md
-├── Dunning-and-Kruger.md
-├── Dunning-Kruger-Effect.md
-├── Dweck's-framework-on-entity-vs.-incremental-theories-of-intelligence-is-the-cogn.md
-├── Dweck's.md
-├── Dyslexia.md
-├── Early-Selection.md
-├── Ease-of-Learning.md
-├── Eccles-and-Wigfield's-expectancy-value-framework-provides-a-complementary-motiva.md
-├── Echoic-Memory.md
-├── Ecological-Psychology.md
-├── Ecological-Rationality.md
-├── Educational-Psychology.md
-├── Edward-Deci.md
-├── Effectance.md
-├── Effort-Abandonment.md
-├── Efklides.md
-├── Ego-Involvement.md
-├── Ego-Involving-Feedback.md
-├── Elaboration.md
-├── Elaborative-Inference.md
-├── Elaborative-Interrogation.md
-├── Elaborative-Rehearsal.md
-├── Eleanor-Rosch.md
-├── electromagnetism.md
-├── Element-Interactivity.md
-├── Elenchus.md
-├── Elizabeth-Loftus.md
-├── Ellen-Leggett.md
-├── Embodied-Cognition.md
-├── Embodied-vs.-Extended-vs.-Enactive-Cognition.md
-├── Emergent-Abilities-in-LLMs.md
-├── Emergent-Abilities.md
-├── Emotional-Calibration.md
-├── Emotional-Granularity-as-Epistemic-Precision.md
-├── Emotional-Granularity.md
-├── Emotional-Intelligence.md
-├── Enactive-Cognition.md
-├── Encoding-Specificity-Principle.md
-├── Engagement-Contingent-Reward.md
-├── Ennis.md
-├── Ensemble-Methods.md
-├── Entity-Theory-of-Intelligence.md
-├── Entity-Theory.md
-├── Enumerative-Induction.md
-├── Epictetus.md
-├── Episodic-Buffer.md
-├── Episodic-Memory.md
-├── Epistemic-Action.md
-├── Epistemic-Actions.md
-├── Epistemic-Architecture.md
-├── Epistemic-Calibration.md
-├── Epistemic-Character-as-Concurrent-Expression.md
-├── Epistemic-Character.md
-├── Epistemic-Citizenship.md
-├── Epistemic-Cognition.md
-├── Epistemic-Cowardice.md
-├── Epistemic-Holism.md
-├── Epistemic-Humility.md
-├── epistemic-relativism.md
-├── Epistemic-Vigilance.md
-├── epistemology.md
-├── Equilibration.md
-├── Ericsson.md
-├── Ernst-von-Glasersfeld.md
-├── Error-Categories-in-Multi-Agent-Systems.md
-├── Eudaimonia.md
-├── Eupatheia.md
-├── Evaluation.md
-├── Evan-Thompson.md
-├── Event-Driven-Architecture.md
-├── evolutionary-theory.md
-├── Examined-Life.md
-├── Examines-how-fallibilism-scales-to-communities-and-institutions.-Key-topics-woul.md
-├── Examines-the-motivational-and-behavioral-consequences-of-chronic-need-frustratio.md
-├── Excalidraw-Library.md
-├── Excalidraw.md
-├── ExcalidrawAutomate.md
-├── Executive-Function.md
-├── EXIF.md
-├── Expectancy-Value-Theory.md
-├── Experimental-Methodology.md
-├── Expert-Blind-Spot.md
-├── Expertise-Reversal-Effect.md
-├── Expertise-Theory.md
-├── Expertise.md
-├── Expository-Advance-Organizer.md
-├── Expository-Organizer.md
-├── extended-mind-theory-foundational-report-2026-03-11.md
-├── Extended-Mind-Theory.md
-├── Extended-Thinking-Architecture-Implementation-Guide.md
-├── Extended-Thinking-Architecture.md
-├── Extended-Thinking-Modes.md
-├── Extends-the-virtue-epistemological-dimension-of-the-current-report-into-a-full-t.md
-├── External-Regulation.md
-├── Externalization-Protocol.md
-├── Extraneous-Cognitive-Load.md
-├── Extrinsic-Goal-Content.md
-├── Extrinsic-Motivation.md
-├── fallibilism-foundational-report-2026-03-06.md
-├── Fallibilism.md
-├── Fallibilist-Constructivist-Epistemological-Posture.md
-├── Fallibilist-Epistemological-Posture.md
-├── Fallibilist-Epistemology.md
-├── Fallibilist.md
-├── Falsificationism.md
-├── Far-Transfer.md
-├── Fast-and-Frugal-Heuristics.md
-├── FastMCP.md
-├── Feed-Forward.md
-├── feedback-design-autonomy-mastery-foundational-report-2026-03-10.md
-├── Feedback-Design-for-Autonomy-and-Mastery.md
-├── Feedback-Design.md
-├── Feeling-of-Knowing.md
-├── Felt-Difficulty.md
-├── Fergus-I.-M.-Craik.md
-├── Few-Shot-Learning.md
-├── Figure-Effect.md
-├── file-management.md
-├── File-Metadata-Queries.md
-├── File-Properties.md
-├── Filter-Bubble-Information-Cocoon.md
-├── First-Principles-Report-Generator-v1.0.md
-├── Fix-Up-Strategy.md
-├── Fixed-Mindset.md
-├── Flagged-as-high-priority-from-the-Feedback-Design-report-and-of-direct-relevance.md
-├── Flavell-Metacognition-Framework.md
-├── Flavell.md
-├── Flavell's-Metacognitive-Framework.md
-├── Fleshing-Out.md
-├── Flow-Theory.md
-├── Flow.md
-├── fluency-effects.md
-├── Fluency-Illusion.md
-├── Fluency-IllusionFluency-Illusion.md
-├── Fluency-Trap.md
-├── Fluency.md
-├── Focal-Subsidiary-Attention-Distinction.md
-├── Focused-analysis-of-the-emerging-need-thwarting-literature,-examining-Bartholome.md
-├── Focused-Analysis-Report-Generator-v1.0.md
-├── Forethought-Phase.md
-├── Forgetting-Curve.md
-├── Formative-Assessment.md
-├── Formative-Feedback.md
-├── Foundational-Logic.md
-├── Foundational-Report-Generator-v1.0.md
-├── Foundational-Report.md
-├── Foundations-of-Formal-Logic.md
-├── Four-Component-Instructional-Design-4CID.md
-├── Four-Component-Instructional-Design.md
-├── Fourfold-Motivational-Architecture.md
-├── Francis-Bacon.md
-├── Frank-Knight.md
-├── Frankfurt's-Hierarchy-of-Desires.md
-├── Fred-Paas.md
-├── Frederic-Bartlett.md
-├── Free-Choice-Behaviour.md
-├── Free-Energy-Principle.md
-├── Frontmatter.md
-├── Functional-Integration.md
-├── Functional-Psychology.md
-├── Functional-Significance.md
-├── Functionalism-Philosophy-of-Mind.md
-├── Gail-Ross.md
-├── Gamification-in-Learning.md
-├── Gamification.md
-├── Gary-Klein.md
-├── Gemini-Code-Assist.md
-├── General-Causality-Orientations-Scale.md
-├── Generation-Effect.md
-├── Generative-Cognition-Architecture.md
-├── Generative-Learning-Theory.md
-├── Generative-Model.md
-├── Generative-Processing.md
-├── Genetic-Epistemology.md
-├── George-Boole.md
-├── George-Miller.md
-├── Gerald-Clore.md
-├── Gerd-Gigerenzer.md
-├── Germane-Cognitive-Load-Sweller,-van-Merriënboer-&-Paas,-1998-—-Original-Formulat.md
-├── Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation.md
-├── Germane-Cognitive-Load.md
-├── Gestalt-Psychology-and-Perception.md
-├── Ghassani-Swaryandini.md
-├── Gilbert-Harman.md
-├── Gilbert-Ryle.md
-├── Git-Based-Workflow.md
-├── Goal-Content-Theory.md
-├── Goal-Content.md
-├── Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror.md
-├── goal-contents-theory-focused-analysis-2026-03-13.md
-├── Goal-Contents-Theory.md
-├── Goal-Framing.md
-├── Goal-Orientation.md
-├── Goals-MOC.md
-├── Google-Research.md
-├── Gottfried-Wilhelm-Leibniz.md
-├── Gottlob-Frege.md
-├── GPT-3.md
-├── Gregory-Schraw.md
-├── Gregory-Vlastos.md
-├── Gregory-Yates.md
-├── Grolnick-&-Ryan-1989.md
-├── GROUP-BY.md
-├── Growth-Mindset-and-Implicit-Theories-of-Intelligence.md
-├── Growth-Mindset-and-Incremental-Intelligence-Theory.md
-├── growth-mindset-first-principles-report-2026-03-11.md
-├── growth-mindset-learning-foundational-report-2026-03-05.md
-├── Growth-Mindset-Theory.md
-├── Growth-Mindset.md
-├── GTD-Workflow.md
-├── Guidance-Fading-Principle.md
-├── Habit-Formation.md
-├── habit.md
-├── Handlebars.md
-├── Hans-Reichenbach.md
-├── Harvard-University.md
-├── Hattie-&-Timperley-Feedback-Model.md
-├── Heather-Battaly.md
-├── Hedonic-Adaptation.md
-├── Helpless-Response-Pattern.md
-├── Hermann-Ebbinghaus.md
-├── Hermeneutic-Circle.md
-├── Heuristics-and-Biases-Program.md
-├── heuristics.md
-├── Heutagogy.md
-├── Hilary-Putnam.md
-├── Hippocampus.md
-├── Holistic-Critical-Thinking-Scoring-Rubric-Framework.md
-├── Hooks-System.md
-├── Horm.md
-├── hormê.md
-├── How-causality-orientations-manifest-in-leadership-and-management-contexts.-Cover.md
-├── How-We-Think.md
-├── Howard-et-al..md
-├── HuggingFace.md
-├── human-cognition.md
-├── Humanistic-Psychology.md
-├── Hypothetico-Deductive-Method.md
-├── ICAP-Framework.md
-├── Iconic-Memory.md
-├── Identified-Regulation-vs.-Integrated-Regulation.md
-├── Identified-Regulation.md
-├── Identified-Techniques.md
-├── Identity-Based-Habits.md
-├── Illusion-of-Explanatory-Depth.md
-├── Illusion-of-Knowing.md
-├── Immanuel-Kant.md
-├── Impersonal-Orientation.md
-├── Implications-and-Consequences.md
-├── Implications.md
-├── implicit-theories-of-intelligence.md
-├── Implicit-Theory-of-Intelligence.md
-├── Incidental-Learning.md
-├── Incremental-Theory-of-Intelligence.md
-├── Incremental-Theory.md
-├── inductive-reasoning-foundational-report-2026-03-06.md
-├── Inductive-Reasoning.md
-├── Infallibilism.md
-├── Inference-to-the-Best-Explanation.md
-├── Inference.md
-├── Inferential-Bridging.md
-├── Informal-Fallacies.md
-├── information-cocoons.md
-├── information-processing-model.md
-├── Information-Processing-Models.md
-├── Information-Processing-Theory.md
-├── Information.md
-├── Informational-Feedback.md
-├── Inline-Fields.md
-├── Inline-Queries.md
-├── Innate-Immunity.md
-├── Inoculation-Theory.md
-├── Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles.md
-├── Inquiry-Based-Learning.md
-├── Instance-Theory-Core-Mechanism.md
-├── Instance-Theory.md
-├── Instructional-Design.md
-├── Integrated-Cognitive-Personhood.md
-├── Integrated-Regulation.md
-├── Integration-Metabolism.md
-├── Integration-Paradox.md
-├── Integration.md
-├── Intellectual-Courage.md
-├── Intellectual-Empathy.md
-├── Intellectual-Humility-and-Epistemic-Virtue.md
-├── Intellectual-Humility.md
-├── Intellectual-Integrity.md
-├── Intellectual-Perseverance.md
-├── Intellectual-Standards.md
-├── Intellectual-Traits.md
-├── Intellectual-Virtue.md
-├── Intellectual-Virtues.md
-├── Intelligent-Tutoring-Systems-ITS-—-Educational-Technology.md
-├── Internalisation.md
-├── Internalism.md
-├── Internalization-as-the-Developmental-Bridge-Between-Frameworks.md
-├── Internalization-Continuum.md
-├── Internalization.md
-├── Interoception.md
-├── Interoceptive-Inference.md
-├── Interpretation-and-Inference.md
-├── Intrinsic-Cognitive-Load.md
-├── Intrinsic-Goal-Content.md
-├── Intrinsic-Motivation-and-Extrinsic-Motivation.md
-├── Intrinsic-Motivation-Research-Deci-1971-classic-studies.md
-├── Intrinsic-Motivation-Research-Deci-1971.md
-├── Intrinsic-Motivation.md
-├── Intrinsic-vs-Extrinsic-Motivation.md
-├── Intrinsic-vs.-Extrinsic-Motivation.md
-├── Intrinsic,-Extraneous,-and-Germane-Cognitive-Load.md
-├── Introduction-to-Critical-Thinking.md
-├── Introduction-to-Metacognition.md
-├── Introjected-Regulation.md
-├── Introjection.md
-├── Iowa-Gambling-Task.md
-├── Iterated-Prisoner's-Dilemma.md
-├── Jakob-Hohwy.md
-├── James-Clear.md
-├── James's-controversial-theory-that-emotions-arise-from-bodily-responses-rather-th.md
-├── James's-Gifford-Lectures-1901-1902-applying-pragmatic-method-to-religious-experi.md
-├── Jason-Baehr.md
-├── Jason-Wei.md
-├── Jean-Piaget.md
-├── Jeroen-van-Merriënboer.md
-├── Jerome-Bruner.md
-├── Jinja2.md
-├── John-Dewey.md
-├── John-Flavell.md
-├── John-G.-Nicholls.md
-├── John-H.-Flavell.md
-├── John-Hattie.md
-├── John-Jost.md
-├── John-Kay.md
-├── John-Stuart-Mill.md
-├── John-Sweller.md
-├── Johnson-Laird.md
-├── Jonathan-Evans.md
-├── Joshua-Tenenbaum.md
-├── JPEG.md
-├── JSON-RPC.md
-├── Judgment-of-Learning.md
-├── Justified-True-Belief.md
-├── Karl-Friston.md
-├── Karl-Popper.md
-├── Kasser's-broader-research-program-on-materialistic-values-extends-GCT-into-socio.md
-├── Kathekon.md
-├── Kathkon.md
-├── Keith-Stanovich.md
-├── Kenneth-Craik.md
-├── King-and-Kitchener.md
-├── Knightian-Uncertainty.md
-├── Knowing-That-Knowing-How.md
-├── Knowledge-Graph.md
-├── Knowledge-of-Cognition.md
-├── Knowledge-Telling-vs.-Knowledge-Transforming.md
-├── Knowledge-Telling.md
-├── Knowledge-Transforming.md
-├── Knowledge-Visualization.md
-├── Korsgaard's-Self-Constitution.md
-├── Kuhn-and-Dean.md
-├── KWL-Strategy.md
-├── Large-Language-Models.md
-├── Late-Selection.md
-├── Lawrence-Barsalou.md
-├── Learned-Helplessness.md
-├── Learning-Contracts.md
-├── Learning-Log.md
-├── Learning-Projects.md
-├── Learning-Session-Overview.md
-├── Learning-Theory-—-Foundational-Report.md
-├── Least-to-Most.md
-├── Lev-Vygotsky.md
-├── levels-of-processing-foundational-report-2026-03-13.md
-├── Levels-of-Processing-Theory.md
-├── Levels-of-Processing.md
-├── Lexical-Automaticity.md
-├── Lifelong-learning.md
-├── Linda-Zagzebski.md
-├── Link-Analysis.md
-├── Lisa-Feldman-Barrett.md
-├── Literature-Review.md
-├── llm-eng-automating-report-generation-with-claude-code.md
-├── llm-eng-building-pkm-system-with-claude-code.md
-├── Locus-of-Control.md
-├── Logic.md
-├── Logical-Reasoning.md
-├── Long-Term-Memory.md
-├── LOP-Theory.md
-├── Lovett-et-al..md
-├── Maarten-Vansteenkiste.md
-├── Macnamara-&-Burgoyne.md
-├── Maintenance-Rehearsal.md
-├── Malcolm-Knowles.md
-├── Manipulative-Abduction.md
-├── Manu-Kapur.md
-├── MapReduce.md
-├── Marcus-Aurelius.md
-├── Mark-of-the-Cognitive.md
-├── Markdown-Fundamentals.md
-├── Markdown.md
-├── MarkMind.md
-├── Mary-Bandura.md
-├── Mastery-Approach-Goal.md
-├── Mastery-Avoidance-Goal.md
-├── Mastery-Experience.md
-├── Mastery-Goal-Orientation.md
-├── Mastery-Goal.md
-├── Mastery-Oriented-Response-Pattern.md
-├── Matthew-Effect-in-Reading.md
-├── Matthew-Effect.md
-├── Maturity-Level-Definitions-&-Criteria.md
-├── Maurice-Merleau-Ponty.md
-├── Mayer's-CTML-program-deserves-its-own-node-as-a-CLT-extension-focused-specifical.md
-├── MCP-Servers.md
-├── McPeck.md
-├── Meaningful-Learning-Theory.md
-├── Meaningful-Learning.md
-├── Mechanistic-Interpretability.md
-├── Memory-Consolidation.md
-├── Memory-Systems-and-Encoding.md
-├── memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md
-├── Memory-Systems.md
-├── Memory-Trace-Durability.md
-├── Mental-Image.md
-├── Mental-Model.md
-├── mental-models-johnson-laird-first-principles-report-2026-03-11.md
-├── mental-models-johnson-laird-foundational-report-2026-03-11.md
-├── Mental-Models-Theory.md
-├── Mental-Models.md
-├── Mental-Simulation.md
-├── Mervyn-King.md
-├── Message-Queues.md
-├── Meta-Level-Object-Level-Model.md
-├── Metacognition-—-Foundational-Concepts.md
-├── Metacognition-&-Critical-Thinking.md
-├── Metacognition-&-Lifelong-Learning.md
-├── Metacognition-&-Motivation.md
-├── metacognition-and-critical-thinking-foundational-report-2026-03-05.md
-├── Metacognition-and-Critical-Thinking.md
-├── Metacognition-and-Lifelong-Learning.md
-├── Metacognition-and-Motivation.md
-├── Metacognition-and-Self-Regulated-Learning.md
-├── Metacognition-Foundational-Report.md
-├── metacognition-in-learning-focused-analysis-2026-03-20.md
-├── Metacognition-in-Learning.md
-├── metacognition-lifelong-learning-foundational-report-2026-03-05.md
-├── metacognition-motivation-foundational-report-2026-03-05.md
-├── metacognition-silent-reading-focused-analysis-2026-03-21.md
-├── Metacognition.md
-├── Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector.md
-├── Metacognitive-Accuracy.md
-├── metacognitive-awareness.md
-├── Metacognitive-Calibration.md
-├── Metacognitive-Capacity.md
-├── Metacognitive-Experience.md
-├── Metacognitive-Experiences.md
-├── Metacognitive-Feelings.md
-├── Metacognitive-Infrastructure.md
-├── Metacognitive-Knowledge.md
-├── Metacognitive-Monitoring-in-MetaICL.md
-├── Metacognitive-Monitoring.md
-├── Metacognitive-Regulation.md
-├── Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function.md
-├── Metacognitive-Scaffolding-Design-Patterns.md
-├── metacognitive-scaffolding-focused-analysis-2026-03-20.md
-├── Metacognitive-Scaffolding.md
-├── Metacognitive-Self-Regulation.md
-├── Metacognitive-Strategy.md
-├── Metadata.md
-├── Michael-Polanyi.md
-├── Microservices-Architecture.md
-├── Mihaly-Csikszentmihalyi.md
-├── Miller's-Magical-Number-Seven.md
-├── Mind-Mapping.md
-├── Mindset-Intervention.md
-├── mindset.md
-├── Mindware.md
-├── misinformation.md
-├── Modality-Effect.md
-├── Model-Completeness-Hypothesis.md
-├── Model-Context-Protocol.md
-├── Model-Multiplicity.md
-├── Model-Selection-Decision-Tree.md
-├── Moderator-Conditionality.md
-├── Modus-Ponens.md
-├── Modus-Tollens.md
-├── Monitoring-Control-Coupling.md
-├── Monitoring-Gap.md
-├── Monitoring-Regulation-Coupling.md
-├── Monitoring-Regulation-Decoupling.md
-├── Monitoring-Scaffolding.md
-├── Motivated-Reasoning.md
-├── Motivated-Strategies-for-Learning-Questionnaire.md
-├── motivation-science.md
-├── Motivation-Theory-Foundational-Report.md
-├── Motivational-Affordance.md
-├── Motivational-Asymmetry-and-Instructional-Design-Sequencing.md
-├── Motivational-Climate.md
-├── Motivational-Interviewing.md
-├── Motivational-Psychology.md
-├── Motivational-Regulation.md
-├── motor-learning.md
-├── MSLQ.md
-├── multi-agent-systems-with-claude-code.md
-├── Multi-Store-Model.md
-├── Multimedia-Learning.md
-├── Mutuality.md
-├── Narrative-Coherence-as-Cognitive-Architecture.md
-├── Narrative-Identity.md
-├── Naturalistic-Decision-Making.md
-├── Need-Absence.md
-├── Need-deprivation.md
-├── Need-Frustration.md
-├── Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score.md
-├── Need-Satisfaction.md
-├── Need-Substitute.md
-├── Need-Support.md
-├── Need-Thwarting.md
-├── Needs-Theories-in-Psychology.md
-├── Negative-Feedback-Control-System.md
-├── Nelson-Narens-Model.md
-├── Neural-Plasticity.md
-├── Neuroplasticity.md
-├── Non-Declarative-Memory.md
-├── Norbert-Schwarz.md
-├── Normative-vs.-Descriptive-Model.md
-├── Nutritive-Environment-Requirement.md
-├── Oaksford-&-Chater-Probabilistic-Approach.md
-├── Obliterative-Subsumption.md
-├── Observability-Layers.md
-├── Obsidian-Automation.md
-├── Obsidian-Basics.md
-├── Obsidian-PKB-Architecture.md
-├── Obsidian.md
-├── OIT's-Continuum-as-Motivational-Landscape.md
-├── Ollama.md
-├── One-of-the-most-significant-practical-limitations-of-CLT-is-the-difficulty-of-me.md
-├── Online-Learning-Design.md
-├── Open-Society.md
-├── OpenAI.md
-├── Operational-Targets.md
-├── Oral-Reading-Fluency.md
-├── Organismic-Integration-Tendency.md
-├── organismic-integration-theory-focused-analysis-2026-03-13.md
-├── Organismic-Integration-Theory.md
-├── Organismic-Integration.md
-├── Organismic-Meta-Theory.md
-├── Organismic-Theories-of-Human-Development.md
-├── Organismic-Valuing-Process.md
-├── Orienting-Task-Paradigm.md
-├── Orienting-Task.md
-├── Output-Style-Modes.md
-├── Output-Styles.md
-├── Overjustification-Effect.md
-├── Parity-Principle.md
-├── Partisan-Identity-and-Motivated-Reasoning.md
-├── Partisan-Identity.md
-├── Passive-Externalism.md
-├── Path-and-Eupatheia-The-Stoic-Distinction.md
-├── Path.md
-├── Pathē.md
-├── Paul-and-Elder.md
-├── Paul-Elder-Framework.md
-├── Paul-Pintrich.md
-├── pedagogy.md
-├── Peirce.md
-├── Peirce's-Pragmatic-Maxim.md
-├── PENCRISAL-Framework.md
-├── Perceived-Competence.md
-├── Perceived-Internal-Locus-of-Causality.md
-├── Perceived-Internal-Locus-of-Causation.md
-├── Perceived-Locus-of-Causality.md
-├── Perceived-Partner-Responsiveness.md
-├── Perception-and-Pattern-Recognition.md
-├── Perceptual-Attunement.md
-├── Perceptual-Psychology.md
-├── Perceptual-Span.md
-├── Performance-Approach-Goal.md
-├── Performance-Avoidance-Goal.md
-├── Performance-Goal-Orientation.md
-├── Performance-Goal.md
-├── Performance-Goals.md
-├── Performance-Phase.md
-├── Personal-Development.md
-├── Personal-Knowledge-Base.md
-├── Personal-Knowledge-Management.md
-├── Personal-Responsibility-Orientation.md
-├── Personal-Workflow-Architecture.md
-├── Peter-Facione.md
-├── Peter-Wason.md
-├── Phase-vs.-Area-—-A-Critical-Distinction.md
-├── Phase-vs.-Area-A-Critical-Distinction.md
-├── Phenomenal-Self-Model.md
-├── Phenomenological-Substitution.md
-├── phenomenology.md
-├── Philip-Converse.md
-├── Philip-Johnson-Laird.md
-├── Philosophical-Lineage.md
-├── Philosophy-of-Agency.md
-├── philosophy-of-science.md
-├── philosophy.md
-├── Phonological-Awareness-and-Fluency-Development.md
-├── Phonological-Loop.md
-├── Phonological-LoopPhonological-Loop.md
-├── Phronesis.md
-├── Physiological-Metacognition-Formal-Definition.md
-├── Physiological-Metacognition.md
-├── Piaget.md
-├── Piaget's-Constructivism.md
-├── Piaget's-Developmental-Stages.md
-├── Pierre-Hadot.md
-├── Pintrich's-4×4-Matrix.md
-├── Pintrich's-44-Matrix.md
-├── Pintrich's-Integrative-SRL-Framework.md
-├── Pintrich's-Motivational-Integration.md
-├── pintrichs-framework-srl-focused-analysis-2026-03-23.md
-├── Pipeline-Stages.md
-├── PKB-Automation.md
-├── pkb-report-literature-review-methodology-for-pkb-research-202512040139.md
-├── PKB.md
-├── PKM.md
-├── PNG.md
-├── Point-of-View.md
-├── Polanyian-Tacit-Knowing.md
-├── Political-Decision-Making.md
-├── political-heuristics.md
-├── political-polarization.md
-├── political-reasoning-decision-making-foundational-report-2026-03-06.md
-├── Political-Reasoning.md
-├── possible-worlds-semantics.md
-├── Power-Law-of-Practice.md
-├── PowerShell.md
-├── Pragmatic-Construction.md
-├── Pragmatic-Maxim.md
-├── Pragmatic-Reasoning-Schema.md
-├── Pragmatic-Reasoning-Schemas.md
-├── Pragmatism.md
-├── Pre-questioning.md
-├── Precision-Flexibility.md
-├── Precision-Weighting.md
-├── Prediction-Error.md
-├── Prediction-Performance-Gap.md
-├── Predictive-Processing.md
-├── Premise-Conclusion-Structure.md
-├── Previous-Concept.md
-├── Principle-of-Least-Privilege.md
-├── Principle-of-Truth.md
-├── Prior-Knowledge-Activation.md
-├── Prior-Knowledge.md
-├── Priority-Management.md
-├── Procedural-Knowledge.md
-├── Procedural-Memory.md
-├── procedural-metacognitive-knowledge.md
-├── Procedural-schemas.md
-├── Process-Praise.md
-├── Processing-Depth.md
-├── Productive-Failure.md
-├── Productive-Friction.md
-├── Productive-Struggle.md
-├── Progressive-Approximation.md
-├── Progressive-Disclosure.md
-├── Prohairesis.md
-├── Prokoptn.md
-├── Prokoptōn.md
-├── Prompt-Engineering-Fundamentals.md
-├── Prompt-Engineering-Specialist-Agent-v4.0.md
-├── Prompt-Engineering.md
-├── Prompt-Library-Management.md
-├── prompt-report-chain-of-thought-logic-2025122305.md
-├── prompt-report-self-consistency-complexity-based-consistency-202512250916.md
-├── Prompty-Asset-Class.md
-├── Propatheiai-The-Stoic-First-Movements.md
-├── Propatheiai.md
-├── Propositional-Representation.md
-├── Prosoche.md
-├── Prosody.md
-├── Pseudometacognition.md
-├── Psychological-Safety-in-Learning-Environments.md
-├── Psychological-Safety.md
-├── psychology.md
-├── Purpose-in-Reasoning.md
-├── Pyrrhonian-sceptics.md
-├── Question-at-Issue.md
-├── ReAct.md
-├── reading-fluency-automaticity-focused-analysis-2026-03-20.md
-├── Reading-Fluency.md
-├── Reasoning-Biases-and-Heuristics.md
-├── Reasoning-Types-in-Education.md
-├── Reasoning.md
-├── Recognition-Primed-Decision-Model.md
-├── Recognition-Primed-Decision-RPD-Model.md
-├── Reconstructive-Memory.md
-├── Recursive-Self-Authorship.md
-├── Redundancy-Effect.md
-├── reference-comprehensive-dataview-tasks-quieries-2025120204.md
-├── reference-comprehensive-excalidraw-and-markmind-2025121812.md
-├── reference-comprehensive-mcp-servers-2025122412.md
-├── reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2.md
-├── reference-instructional-pkb-review-system-2025120322.md
-├── reference-technical-advanced-templater-note-templates-20251118225816.md
-├── Reflective-Judgment.md
-├── Reflective-Practice.md
-├── Reflective-Thinking.md
-├── Reflexion.md
-├── Region-of-Proximal-Learning.md
-├── Regulation-of-Cognition.md
-├── Regulatory-Overhead.md
-├── Regulatory-Poverty.md
-├── Regulatory-Reflexivity-Problem.md
-├── Regulatory-Style.md
-├── Regulatory-Threshold.md
-├── Reinhard-Pekrun's-Control-Value-Theory-of-achievement-emotions-provides-a-rich-a.md
-├── Relatedness-Need.md
-├── Relatedness.md
-├── Relational-Emergent-Autonomy.md
-├── relationship-motivation-theory-focused-analysis-2026-03-13.md
-├── Relationship-Motivation-Theory.md
-├── Relationships-as-Motivational-Ecosystems-The-Bidirectional-Resource-Model.md
-├── Relative-Autonomy-Index.md
-├── relative-autonomy.md
-├── Repeated-Reading.md
-├── Replication-Crisis-in-Psychology.md
-├── report-01-the-inquiry-engine.md
-├── Report-01.md
-├── report-02-the-fallible-knower.md
-├── report-03-the-motivated-mind.md
-├── report-04-cognitive-scaffolding.md
-├── Report-04.md
-├── report-05-the-virtuous-reasoner.md
-├── report-06-taming-system-1.md
-├── Report-06.md
-├── report-07-the-self-directed-learner.md
-├── report-08-the-examined-life-in-practice.md
-├── report-09-the-embodied-thinker.md
-├── report-10-the-feeling-reasoner.md
-├── report-11-the-practical-reasoner.md
-├── report-13-the-predictive-mind.md
-├── report-15-the-examined-life-revisited.md
-├── Report-Generation-Prompt-Suite.md
-├── Research-Context.md
-├── Research-Question.md
-├── Restructuring.md
-├── Retrieval-Practice-and-the-Testing-Effect.md
-├── Retrieval-Practice-Effect.md
-├── Retrieval-Practice.md
-├── Retrieval-Writing.md
-├── Reward-Contingency-Types.md
-├── Richard-Atkinson.md
-├── Richard-Feynman.md
-├── Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learning-CTML-is-the-most-systema.md
-├── Richard-Ryan.md
-├── Richard-Shiffrin.md
-├── RMT-as-the-Motivational-Infrastructure-of-Attachment-Security.md
-├── Robert-Bjork's-desirable-difficulties-research-demonstrates-that-several-instruc.md
-├── Robert-Ennis.md
-├── Robert-S.-Lockhart.md
-├── Rote-memorization.md
-├── Routing-Decision-Factors.md
-├── RSVP.md
-├── Rubric.md
-├── Rumelhart.md
-├── Satisfaction-Frustration-Asymmetry.md
-├── Satisficing.md
-├── Savings-in-Relearning.md
-├── Scaffold-Dependence.md
-├── Scaffolded-Fading.md
-├── Scaffolding-—-Instructional-Design.md
-├── Scaffolding-Instructional-Design.md
-├── Scaffolding.md
-├── scepticism.md
-├── Schank-and-Abelson.md
-├── Schema-Accommodation.md
-├── Schema-Attractor.md
-├── Schema-Automation-and-Fluency-Development.md
-├── Schema-Automation-in-Reading.md
-├── Schema-Automation.md
-├── Schema-Construction-Problem-—-Original-Analytical-Insight.md
-├── schema-construction-problem-focused-analysis-2026-03-22.md
-├── Schema-Construction.md
-├── Schema-Crystallization-Event.md
-├── Schema-Progressive-Architecture.md
-├── Schema-Theory-and-Knowledge-Organization.md
-├── schema-theory-and-learning-foundational-report-2026-03-06.md
-├── Schema-Theory-and-Learning.md
-├── Schema-Theory-Bartlett,-Rumelhart.md
-├── schema-theory-dialectical-re-examination-2026-03-22.md
-├── Schema-Theory.md
-├── Schema.md
-├── Schemas-as-Soft-Cognitive-Attractors.md
-├── Schwarz-and-Clore.md
-├── Scientific-Method.md
-├── Scientific-Reasoning-in-Education.md
-├── Scientific-Reasoning.md
-├── SDL-as-Educational-Goal.md
-├── sdt-focused-analysis-2026-03-06.md
-├── SDT-Internalization-Continuum.md
-├── sdt-srl-comparative-synthesis-2026-03-19.md
-├── SDT.md
-├── SDT's-Regulatory-Continuum.md
-├── SDT's-universality-claim-—-that-the-three-needs-are-universal-in-their-importanc.md
-├── Secure-Base.md
-├── Self-Agent-Coordinator.md
-├── Self-Concordance-Model.md
-├── Self-Consistency.md
-├── Self-Determination-Theory-—-Focused-Analysis.md
-├── Self-Determination-Theory-—-Foundational-Overview.md
-├── Self-Determination-Theory-—-Foundational-Report.md
-├── Self-Determination-Theory-Deci-&-Ryan,-1985,-2000-is-the-dominant-motivational-f.md
-├── self-determination-theory-dialectical-re-examination-2026-03-19.md
-├── self-determination-theory-first-principles-report-2026-03-11.md
-├── self-determination-theory-focused-analysis-2026-03-19.md
-├── self-determination-theory-foundational-report-2026-03-11.md
-├── Self-Determination-Theory-Foundational-Report.md
-├── Self-Determination-Theory.md
-├── Self-Determination.md
-├── Self-Determined-Self-Regulation.md
-├── self-directed-learning-foundational-report-2026-03-11.md
-├── Self-Directed-Learning-Readiness-Scale.md
-├── Self-Directed-Learning.md
-├── Self-Directedness-—-Trait-or-Readiness-Sense.md
-├── Self-Directedness-Trait-or-Readiness-Sense.md
-├── Self-Efficacy-Theory.md
-├── Self-Efficacy.md
-├── Self-Esteem.md
-├── Self-Explanation-Effect.md
-├── Self-Explanation-in-PKB-Practice.md
-├── Self-Management.md
-├── Self-Monitoring.md
-├── Self-Reference-Effect.md
-├── Self-Reflection-Phase.md
-├── Self-Regulated-Learning-—-Focused-Analysis.md
-├── Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty.md
-├── self-regulated-learning-focused-analysis-2026-03-06.md
-├── Self-Regulated-Learning-SRL.md
-├── Self-Regulated-Learning.md
-├── Self-Regulation.md
-├── Semantic-Memory.md
-├── Seneca.md
-├── Sensory-Memory.md
-├── Shallow-Processing.md
-├── Shannon-Weaver-Information-Theory.md
-├── Shared-vs.-Personal-Agents.md
-├── Short-Term-Memory.md
-├── Signal-Threshold-Failure.md
-├── silent-reading-critical-analysis-focused-analysis-2026-03-21.md
-├── silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md
-├── Silent-Reading-Fluency.md
-├── Silent-Reading-Rate.md
-├── Simple-View-of-Reading.md
-├── Situated-Cognition.md
-├── Situated-Learning-Theory.md
-├── Situated-Learning.md
-├── Situation-Model.md
-├── Situation-Models-in-Text-Comprehension.md
-├── Situation-Models-van-Dijk-&-Kintsch.md
-├── Situation-ModelSituation-Model.md
-├── skill-acquisition-research.md
-├── Skill-Acquisition.md
-├── Skills-System.md
-├── Skills.md
-├── Slot-Default-Value.md
-├── Smart-Connections.md
-├── Social-Cognitive-Theory-—-Bandura.md
-├── Sociocultural-Approaches.md
-├── Socrates.md
-├── Socratic-Dialogue-on-Autonomy-and-Self-Determination.md
-├── Socratic-Dialogue-Report-Prompt.md
-├── Socratic-Dialogue-Report.md
-├── Socratic-Method.md
-├── Socratic-Questioning-Methodology.md
-├── Socratic-Seminars-—-Design-and-Facilitation.md
-├── Somatic-Marker-Hypothesis.md
-├── Somatic-Marker.md
-├── Somatic-Markers.md
-├── Soundness.md
-├── Sources-of-Knowledge.md
-├── Spaced-Repetition-Systems.md
-├── Spaced-Repetition.md
-├── Spacing-Effect.md
-├── speech-act-theory.md
-├── Split-Attention-Effect.md
-├── Stage-Characteristics-and-Training-Implications.md
-├── Standard-Template-Metadata.md
-├── Stanovich.md
-├── State-Management-Approaches.md
-├── Stereotype-Threat.md
-├── Stoic-Prohairesis.md
-├── Stoic-Virtue-Ethics.md
-├── stoicism-codebase-pack.md
-├── Stoicism.md
-├── Strategic-Planning.md
-├── Stream-of-Consciousness.md
-├── String-Manipulation.md
-├── Structural-Analogue.md
-├── Subagents-vs.-Coordinator.md
-├── Subsequent-Memory-Effect.md
-├── Subsumer-Anchoring-Idea.md
-├── Summative-Assessment.md
-├── Surveillance.md
-├── Synaptic-Consolidation.md
-├── Synkatathesis-Assent-and-the-Stoic-Gap.md
-├── Synkatathesis.md
-├── Synthetic-Model.md
-├── System-1-and-System-2.md
-├── System-1-System-2.md
-├── System-1.md
-├── System-2-Thinking.md
-├── System-2.md
-├── Systems-Consolidation.md
-├── Tacit-Knowledge-Polanyi.md
-├── Tacit-Knowledge.md
-├── TARGET-Framework.md
-├── Task-Involvement.md
-├── Task-Management.md
-├── TASK-Query-Type-Fundamentals.md
-├── Task-Value.md
-├── Tasks-Plugin.md
-├── technical-debt.md
-├── Teleological-Directionality.md
-├── Template-Engineering.md
-├── Templater.md
-├── Testing-Effect-Retrieval-Practice-Effect.md
-├── Testing-Effect.md
-├── Text-Generator-Plugin-Complete-API-Interface-Reference.md
-├── Text-Generator-Plugin.md
-├── Textbase.md
-├── The-Abductive-Syllogism.md
-├── The-Analogy-First-Instructional-Principle.md
-├── The-Articulatory-Construction-Principle.md
-├── The-Asymmetry-Thesis-as-a-General-Principle-for-Environment-Design.md
-├── The-attainment-paradox-in-GCT-and-the-hedonic-adaptation-phenomenon-in-positive.md
-├── The-Bandwidth-Expansion-vs.-Bandwidth-Compression-Distinction-as-a-Diagnostic-Fr.md
-├── The-Bias-Virtue-Correspondence.md
-├── The-Bootstrapping-Constraint.md
-├── The-Construction-Activation-Asymmetry-as-Schema-Theory's-Productive-Frontier.md
-├── The-Critical-Lens.md
-├── The-Elements-of-Thought-Fundamental-Structures-of-Reasoning.md
-├── The-emergence-of-adaptive-learning-systems,-AI-tutors,-gamified-platforms,-and-l.md
-├── The-Empirical-Lens.md
-├── The-Epistemic-Status-of-Notes-as-Process-Artifacts.md
-├── The-Evolution-of-Selective-Attention-Theory-From-Broadbent's-Filter-to-Late-Sele.md
-├── The-expertise-reversal-effect-demands-adaptive-instruction,-but-how-to-build-sys.md
-├── The-faded-worked-example-paradigm-represents-the-most-operationally-specific-and.md
-├── The-Fluency-Illusion.md
-├── The-Fluency-Metacognition-Paradox.md
-├── The-Fluency-Trap.md
-├── The-Four-Question-Generativity-Diagnostic.md
-├── The-Fourfold-Motivational-Architecture-for-PKB-Design.md
-├── The-Friction-Architecture-of-Learning-Through-Writing.md
-├── The-Generation-Effect.md
-├── The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading.md
-├── The-Generative-Constraint.md
-├── The-Generativity-Diagnostic.md
-├── The-Gettier-Problem.md
-├── The-Governed-Attentional-Gap.md
-├── The-informal-discussion-group-meeting-in-Cambridge,-Massachusetts-in-early-1870s.md
-├── The-Infrastructure-Model-of-Metacognitive-Skill.md
-├── The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper.md
-├── The-Integration-Paradox-as-a-Design-Constraint.md
-├── The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces.md
-├── The-Integration-Paradox.md
-├── The-integration-proposed-in-Phase-VI's-second-original-synthesis-would-be-develo.md
-├── The-Internalization-Continuum.md
-├── The-Internalization-Metabolism-Model.md
-├── The-Interpretive-Filter-Model-of-Functional-Significance.md
-├── The-Metacognitive-Monitoring-analysis-in-this-report-identifies-comprehension-mo.md
-├── The-Metacognitive-Scaffolding-Design-Triangle.md
-├── The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel.md
-├── The-Monitoring-Control-Model.md
-├── The-Motivational-Regulatory-Architecture-of-Learning.md
-├── The-MULTI-AGENT-PLAN.md-Pattern.md
-├── The-Nelson-Narens-Monitoring-Control-Model.md
-├── The-Organismic-Dialectical-Perspective.md
-├── The-Parity-Principle.md
-├── The-Philosophical-Lens.md
-├── The-Practical-Lens.md
-├── The-Problem-of-Induction.md
-├── The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism.md
-├── The-Reconceived-Universality-Thesis-Needs-as-Vulnerability-Structures-Rather-Tha.md
-├── The-Reconstructed-SDT-A-Motivational-Vulnerability-and-Resilience-Framework.md
-├── The-Regulatory-Reflexivity-Problem-A-Novel-Framing.md
-├── The-Regulatory-Spectrum.md
-├── The-Schema-Disruption-Pedagogical-Inversion.md
-├── The-Schema-Progressive-Architecture-for-PKB-Design.md
-├── The-Seven-Intellectual-Traits.md
-├── The-Situation-Modelsituation-model-is-the-gold-standard-for-reading-comprehensio.md
-├── The-SRL-Cycle-as-a-Calibration-Engine.md
-├── The-Stoic-Core-Insight.md
-├── The-Three-Orientation-System-as-a-Developmental-Risk-Architecture.md
-├── The-Three-Tier-Monitoring-Architecture-Model.md
-├── The-Tier-1-Structural-Limitation.md
-├── The-Undermining-Effect.md
-├── The-Zimmerman-Cycle-as-Normative-Architecture-and-Design-Target.md
-├── Theory-Evidence-Coordination.md
-├── Theory-Ladenness-of-Observation.md
-├── Theory-of-Constructed-Emotion.md
-├── Thinking-Tag-Semantics.md
-├── This-analysis-repeatedly-flagged-the-need-thwarting-need-deprivation-asymmetry-a.md
-├── This-analysis-would-drill-into-Reeve's-ISLE-Internally-Structured-Learning-Envir.md
-├── This-expansion-addresses-the-Dunning-Kruger-phenomenon-and-related-research-on-t.md
-├── This-expansion-examines-the-developmental-pathways-through-which-chronic-need-sa.md
-├── This-expansion-topic-follows-the-far-transfer-direction-applies-the-Bottleneck-L.md
-├── This-expansion-would-provide-a-rigorous-treatment-of-calibration-—-the-alignment.md
-├── This-treatment-of-William-James's-psychology-of-habit-suggests-numerous-directio.md
-├── Thomas-Kuhn.md
-├── Thomas-Metzinger.md
-├── Three-Tier-Monitoring-Architecture.md
-├── Tier-1-—-Epistemic-Architecture.md
-├── Tier-1.md
-├── Tier-2-—-Practical-Architecture.md
-├── Tier-3-—-Integrative-Architecture.md
-├── Tight-Loop-Assumption.md
-├── Tim-Kasser.md
-├── Tokens.md
-├── Tool-Access-Patterns.md
-├── Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr.md
-├── Topic-Autonomy-and-Agency-—-A-Philosophical-Dialogue-Report-Type-Socratic-Dialog.md
-├── Topic-Goal-Climate-Design-in-Educational-Environments-Report-Type-Foundational-R.md
-├── Topic-Mastery-Experience-Architecture-in-Instructional-Design-Report-Type-First.md
-├── Topic-SDT-Across-Cultures-—-Universality,-Variation,-and-Cultural-Psychology-Rep.md
-├── Topic-The-Competence-Need-—-Effectance,-Flow,-and-Challenge-Skill-Balance-Report.md
-├── Topic-The-Replication-Crisis-and-Psychological-Intervention-Science-Report-Type.md
-├── Topic-The-Undermining-Effect-—-Replication-Crisis-and-Reconceptualisation-Report.md
-├── topics-prompt.md
-├── Toward-an-Expertise-Indexed-Instructional-Design-Principle.md
-├── Tracker-Plugin.md
-├── Transfer-Appropriate-Processing.md
-├── Transfer-of-Learning-and-Deductive-Skill.md
-├── Transfer-of-Learning.md
-├── Transfer.md
-├── Transformer-Architecture.md
-├── Transient-Hypofrontality.md
-├── Tree-of-Thoughts-Framework.md
-├── Tree-of-Thoughts.md
-├── Tyler-Burge.md
-├── Type-1-Processing.md
-├── Type-2-Processing.md
-├── types-of-reasoning-foundational-report-2026-03-05.md
-├── Undermining-Effect.md
-├── understanding.md
-├── Undifferentiated-Conception-of-Ability.md
-├── Universal-Need.md
-├── URL.md
-├── VADER-Academic-Report-Generator-v4.0.md
-├── Validity-and-Soundness.md
-├── Validity.md
-├── Vansteenkiste's-experimental-findings-have-direct-and-underexplored-applications.md
-├── Vehicle-Externalism.md
-├── Ventromedial-Prefrontal-Cortex.md
-├── Verbal-Efficiency-Theory.md
-├── Viability.md
-├── Virtue-Epistemology.md
-├── Virtue-Ethics.md
-├── Visual-PKM.md
-├── Visual-Studio-Code.md
-├── Visual-Thinking.md
-├── Visuospatial-Sketchpad.md
-├── Volitional-Congruence.md
-├── VS-Code.md
-├── Vygotsky.md
-├── Vygotsky's-Zone-of-Proximal-Development.md
-├── Weak-Sense-vs.-Strong-Sense-Critical-Thinking.md
-├── Webb's-Depth-of-Knowledge.md
-├── WEIRD-Sample-Bias.md
-├── what-does-it-mean-to-truley-understand-something-2026-03-10.md
-├── What-is-Frontmatter.md
-├── WHERE-Clause.md
-├── William-James.md
-├── Williams,-Deci,-and-colleagues.md
-├── Windows-Terminal.md
-├── Winne-&-Hadwin's-Metacognitive-Processing-Model.md
-├── Winne-and-Hadwin.md
-├── Woloshyn,-Pressley-&-Schneider-1992.md
-├── Worked-Example-Effect.md
-├── Working-Memory-—-Baddeley-Model.md
-├── Working-Memory-and-Long-Term-Memory-in-CLT.md
-├── Working-Memory-Capacity.md
-├── Working-Memory-in-Reading.md
-├── Working-Memory.md
-├── writing-techniques-effective-learning-focused-analysis-2026-03-21.md
-├── writing-to-learn-focused-analysis-2026-03-21.md
-├── Writing-to-Learn.md
-├── XML.md
-├── YAML-Frontmatter.md
-├── YAML-Syntax.md
-├── YAML.md
-├── Zettelkasten.md
-├── zimmerman-cyclical-srl-focused-analysis-2026-03-23.md
-├── Zimmerman-SRL-Model.md
-├── Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning.md
-├── Zimmerman's-Cyclical-Model-of-Self-Regulation.md
-├── Zimmerman's-Cyclical-SRL-Model.md
-├── Zimmerman's-Three-Phase-SRL-Cycle.md
-├── zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23.md
-├── ZIP.md
-├── Ziva-Kunda.md
-├── Zone-of-Proximal-Development.md
-└── Zsolt-Viczian.md
+├── 📝 _Master-Definition-Index.md
+├── 📝 _Master-Expansion-Topics-Index.md
+├── 📝 _Master-PKB-Connections-Index.md
+├── 📝 _Master-Reference-Index (1).md
+├── 📝 _Master-Reference-Index.md
+├── 📝 .permanent-notes-index.md
+├── 📝 #-Definition.md
+├── 📝 +-l-+.md
+├── 📝 2×2-Framework.md
+├── 📝 03-notes01-permanent-notes01-cognitive-developmentKnowledge-Management.md
+├── 📝 4E-Cognition.md
+├── 📝 7-Zip.md
+├── 📝 22-Framework.md
+├── 📝 999-report-orginizing-permanent-notes-permanent-notesSelf-Regulated-Learning.md
+├── 📝 2025-Q4.md
+├── 📝 2025-W49.md
+├── 📝 AAR-After-Action-Review.md
+├── 📝 Abduction.md
+├── 📝 Abductive-Competence.md
+├── 📝 abductive-reasoning-foundational-report-2026-03-06.md
+├── 📝 Abductive-Reasoning.md
+├── 📝 Abraham-Maslow.md
+├── 📝 Academic-Buoyancy.md
+├── 📝 Academic-Emotions.md
+├── 📝 Academic-Skepticism.md
+├── 📝 Academy.md
+├── 📝 Acceptance-and-Commitment-Therapy.md
+├── 📝 Accommodation.md
+├── 📝 Accretion,-Tuning,-Restructuring.md
+├── 📝 achievement-goal-theory-foundational-report-2026-03-10.md
+├── 📝 Achievement-Goal-Theory.md
+├── 📝 Achievement-Goal.md
+├── 📝 Achievement-Goal.md.md
+├── 📝 ACT-R-theory.md
+├── 📝 Actions.md
+├── 📝 Active-Externalism.md
+├── 📝 Active-Inference-and-Ethical-Agency.md
+├── 📝 Active-Inference.md
+├── 📝 Active-Note-Making.md
+├── 📝 Actively-Open-Minded-Thinking.md
+├── 📝 Actor-Observer-Bias.md
+├── 📝 adaptation.md
+├── 📝 Adaptive-Immunity.md
+├── 📝 Adaptive-Inference.md
+├── 📝 Adaptive-Instruction.md
+├── 📝 Adolescence.md
+├── 📝 Adult-Education.md
+├── 📝 Advance-Organizer.md
+├── 📝 Advance-OrganizerAdvance-Organizer.md
+├── 📝 advance-organizers-prior-knowledge-foundational-report-2026-03-11.md
+├── 📝 Advance-Organizers.md
+├── 📝 adversarial-epistemology.md
+├── 📝 Affect-as-Information-in-Decision-Making.md
+├── 📝 Affect-as-Information-Theory.md
+├── 📝 Affective-Intelligence-Theory.md
+├── 📝 Affective-Prediction-Errors.md
+├── 📝 Affective-Realism.md
+├── 📝 Agent-Capability-Development-Framework.md
+├── 📝 Agent-Coordination-Patterns.md
+├── 📝 Agent-File-Format-Specification.md
+├── 📝 Agent-Prompt-Engineering.md
+├── 📝 Agentic-Prompt-Engineering-Workflows.md
+├── 📝 Aggregation-Functions.md
+├── 📝 Agile-Standups.md
+├── 📝 Aha!-moment.md
+├── 📝 AI-Agent-Architecture.md
+├── 📝 AI-Agent-Coordination-System-Implementation-Guide.md
+├── 📝 AI-Agents.md
+├── 📝 AI-Assisted-Reading-Comprehension-Risks-and-Safeguards.md
+├── 📝 AI-Assisted-Writing-and-the-Knowledge-Transformation-Mechanisms.md
+├── 📝 AI-Embeddings.md
+├── 📝 AI-PKB-Integration.md
+├── 📝 AI-Safety.md
+├── 📝 Alan-Baddeley.md
+├── 📝 Alan-Paivio.md
+├── 📝 Albert-Bandura.md
+├── 📝 Alexander-Todorov.md
+├── 📝 Alexander,-Kulikowich-&-Schulze-1994.md
+├── 📝 Alfred-North-Whitehead.md
+├── 📝 Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work.md
+├── 📝 Alice.md
+├── 📝 Alison-Gopnik.md
+├── 📝 Allen-Tough.md
+├── 📝 Allostasis.md
+├── 📝 Allostatic-Load.md
+├── 📝 American-pragmatism.md
+├── 📝 Ames-and-Archer.md
+├── 📝 Amor-Fati.md
+├── 📝 Amos-Tversky.md
+├── 📝 Amotivation.md
+├── 📝 Amy-Edmondson's.md
+├── 📝 Amygdala.md
+├── 📝 An-exploration-of-how-the-spacing-effect-—-one-of-the-most-replicable-findings-i.md
+├── 📝 Analogical-Reasoning.md
+├── 📝 Analogical-Representation.md
+├── 📝 Analogy-First-Instructional-Design-Practical-Implementation.md
+├── 📝 Analysis-of-the-intersection-between-CLT's-cognitive-resource-constraints-and-BP.md
+├── 📝 Analysis-Paralysis.md
+├── 📝 Analysis.md
+├── 📝 Analytical-Thinking.md
+├── 📝 Anchoring-and-Adjustment.md
+├── 📝 Anchoring-Effects.md
+├── 📝 Anders-Ericsson.md
+├── 📝 Anderson-ACT-R-Framework.md
+├── 📝 Andragogy.md
+├── 📝 Andrew-J.-Elliot.md
+├── 📝 Andy-Clark.md
+├── 📝 Anil-Seth.md
+├── 📝 Ann-Brown.md
+├── 📝 Ann-L.-Brown.md
+├── 📝 Anomaly.md
+├── 📝 Anterior-Insular-Cortex.md
+├── 📝 Anthropic-API.md
+├── 📝 Anthropic-Claude.md
+├── 📝 Anthropic.md
+├── 📝 Antonio-Damasio.md
+├── 📝 Apatheia.md
+├── 📝 API-Design-Patterns.md
+├── 📝 API-First-AI-Integration.md
+├── 📝 API-Fundamentals.md
+├── 📝 API.md
+├── 📝 Aporia.md
+├── 📝 Aporic-Receptivity.md
+├── 📝 Applied-Ethics.md
+├── 📝 Applied-treatment-of-the-SDT-derived-principles-for-structuring-educational-and.md
+├── 📝 Appraisal-Accuracy.md
+├── 📝 Appraisal-Theory.md
+├── 📝 Apt-Epistemic-Performance.md
+├── 📝 Arete.md
+├── 📝 Argument-Analysis-Fundamentals.md
+├── 📝 Argument-Analysis.md
+├── 📝 Argument-Mapping-—-Theory-and-Practice.md
+├── 📝 Argument-Mapping-and-Visualization.md
+├── 📝 Argumentation-Theory.md
+├── 📝 Argumentation.md
+├── 📝 Argyris-and-Schön.md
+├── 📝 Argyris-Double-Loop-Learning.md
+├── 📝 Aristotelian-thought.md
+├── 📝 Aristotle.md
+├── 📝 Articulatory-Construction-Principle.md
+├── 📝 artificial-intelligence-moc.md
+├── 📝 Artinger.md
+├── 📝 As-If-Body-Loop.md
+├── 📝 Askēsis.md
+├── 📝 Asksis.md
+├── 📝 Aspiration-Index.md
+├── 📝 Assessment-Design.md
+├── 📝 Assessment-for-Learning.md
+├── 📝 Assessment-is-the-instructional-domain-where-SDT's-CET-predictions-are-most-dire.md
+├── 📝 Assessment-of-Critical-Thinking-—-Tools-and-Methods.md
+├── 📝 Assimilation-and-Accommodation.md
+├── 📝 Assimilation-Theory.md
+├── 📝 Assimilation-vs.-Accommodation.md
+├── 📝 Assimilation,-Accommodation,-and-Equilibration.md
+├── 📝 Assimilation.md
+├── 📝 Assistive-Technology.md
+├── 📝 Assor-&-Roth-2002.md
+├── 📝 Assor,-Kaplan,-&-Roth-2002.md
+├── 📝 Assumption-5-RuleModel-Dichotomy.md
+├── 📝 Assumptions.md
+├── 📝 Async-Programming.md
+├── 📝 Atkinson-and-Shiffrin.md
+├── 📝 Atkinson-Shiffrin-Multi-Store-Model.md
+├── 📝 Atomic-Habits.md
+├── 📝 Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory.md
+├── 📝 Attachment-Theory-—-Bowlby-and-Ainsworth.md
+├── 📝 Attachment-Theory.md
+├── 📝 Attainment-Paradox.md
+├── 📝 Attention-and-Cognitive-Control.md
+├── 📝 Attention-and-Selective-Processing.md
+├── 📝 Attention-Mechanism.md
+├── 📝 Attention-Theory.md
+├── 📝 Attention.md
+├── 📝 Attentional-Deployment.md
+├── 📝 Attentional-Resources.md
+├── 📝 Attribution-Retraining-Interventions.md
+├── 📝 Attribution-Retraining.md
+├── 📝 Attribution-Style.md
+├── 📝 Attribution-Theory-and-Learning-Resilience.md
+├── 📝 Attribution-Theory.md
+├── 📝 Attributional-Ambiguity.md
+├── 📝 Audience-Simulation-Effect.md
+├── 📝 Augustus-de-Morgan.md
+├── 📝 Ausubel.md
+├── 📝 Author-Name.md
+├── 📝 Automaticity-and-Skill-Hierarchies-in-Athletic-Performance.md
+├── 📝 Automaticity.md
+├── 📝 automation.md
+├── 📝 Autonomous-Motivation-vs.-Controlled-Motivation.md
+├── 📝 Autonomous-Motivation.md
+├── 📝 Autonomous-Regulation.md
+├── 📝 Autonomous-Relationship-Motivation.md
+├── 📝 Autonomous-vs.-Controlled-Motivation.md
+├── 📝 Autonomy-Need.md
+├── 📝 Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface.md
+├── 📝 Autonomy-Orientation.md
+├── 📝 autonomy-relatedness-integration-problem.md
+├── 📝 Autonomy-Relatedness-Integration.md
+├── 📝 Autonomy-Support-—-Mechanisms-and-Measurement.md
+├── 📝 Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments.md
+├── 📝 Autonomy-Support-in-Education.md
+├── 📝 Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence.md
+├── 📝 Autonomy-Support.md
+├── 📝 Autonomy-Supportive-Environment.md
+├── 📝 Autonomy-Supportive-Teaching-and-Learning-Environments.md
+├── 📝 Autonomy.md
+├── 📝 Availability-Heuristic.md
+├── 📝 Avi-Assor.md
+├── 📝 Axiom-1-Systematicity-of-Reasoning-Errors.md
+├── 📝 Backfire-Effect.md
+├── 📝 Baddeley-&-Hitch's-multicomponent-model.md
+├── 📝 Baddeley's-Working-Memory-Model.md
+├── 📝 Bandura.md
+├── 📝 Bandura's-full-social-cognitive-framework-applied-to-educational-contexts-—-trac.md
+├── 📝 Bandwidth-Compression.md
+├── 📝 Bandwidth-Expansion.md
+├── 📝 Barrett-and-Wormwood (1).md
+├── 📝 Barrett-and-Wormwood.md
+├── 📝 Barry-Marshall.md
+├── 📝 Barry-Schwartz.md
+├── 📝 Barry-Zimmerman.md
+├── 📝 Bart-Soenens.md
+├── 📝 Bartlett.md
+├── 📝 Bartlett's-Reconstructive-Memory-Experiments.md
+├── 📝 Bartlett's-reconstructive-memory-theory.md
+├── 📝 Bas-van-Fraassen.md
+├── 📝 Basal-Ganglia.md
+├── 📝 Basic-Psychological-Need.md
+├── 📝 Basic-Psychological-Needs-—-The-Three.md
+├── 📝 Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra.md
+├── 📝 Basic-Psychological-Needs-The-Three.md
+├── 📝 basic-psychological-needs-theory-focused-analysis-2026-03-13.md
+├── 📝 Basic-Psychological-Needs-Theory.md
+├── 📝 Basic-Psychological-Needs.md
+├── 📝 Bat-and-Ball-Problem.md
+├── 📝 Bayesian-Brain-—-Empirical-Status-Review.md
+├── 📝 Bayesian-Epistemology.md
+├── 📝 Bayesian-Inference.md
+├── 📝 Bayesian-Reasoning-and-Probabilistic-Thinking.md
+├── 📝 Bayesian-Reasoning.md
+├── 📝 Behavioral-Modification.md
+├── 📝 Behavioral-Signatures.md
+├── 📝 Behaviorist-vs.-Cognitive-Theories-of-Learning.md
+├── 📝 Belief-Bias.md
+├── 📝 belief-perseverance.md
+├── 📝 Belief-Revision.md
+├── 📝 belief-schema.md
+├── 📝 Belonging-Uncertainty.md
+├── 📝 Benjamin-Bloom.md
+├── 📝 Bernard-Weiner.md
+├── 📝 Bertrand-Russell.md
+├── 📝 Beyond-Compare.md
+├── 📝 biased-competition-models.md
+├── 📝 Black-&-Wiliam.md
+├── 📝 Blocked.md
+├── 📝 Bloom's-Taxonomy.md
+├── 📝 Bob.md
+├── 📝 bottom-up-processing.md
+├── 📝 Bounded-Contexts.md
+├── 📝 Bounded-Rationality.md
+├── 📝 BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory.md
+├── 📝 Bransford-and-Johnson.md
+├── 📝 Bratman.md
+├── 📝 Bratman's-Planning-Theory.md
+├── 📝 Brendan-Nyhan.md
+├── 📝 Bridging-Analogies.md
+├── 📝 Bruce-McEwen.md
+├── 📝 Burnout.md
+├── 📝 Byron-Fowers.md
+├── 📝 Calibration-Dependency.md
+├── 📝 Calibration-Engine.md
+├── 📝 Calibration.md
+├── 📝 California-Critical-Thinking-Dispositions-Inventory.md
+├── 📝 California-Critical-Thinking-Skills-Test.md
+├── 📝 Canevello.md
+├── 📝 Carl-Rogers.md
+├── 📝 Carol-Ames.md
+├── 📝 Carol-Dweck.md
+├── 📝 Carol-S.-Dweck.md
+├── 📝 Carol.md
+├── 📝 Carole-Ames.md
+├── 📝 Categorical-Syllogism.md
+├── 📝 Causal-Induction.md
+├── 📝 Causality-Orientation.md
+├── 📝 Causality-Orientations-as-Motivational-Affordance-Systems.md
+├── 📝 Causality-Orientations-Theory-—-SDT-Sub-Theory-Analysis.md
+├── 📝 causality-orientations-theory-focused-analysis-2026-03-13.md
+├── 📝 Causality-Orientations-Theory.md
+├── 📝 Central-Executive.md
+├── 📝 Chain-of-Thought-Prompting.md
+├── 📝 Chain-of-Thought.md
+├── 📝 Chain-of-Verification.md
+├── 📝 Challenge-Avoidance.md
+├── 📝 challenge-seeking.md
+├── 📝 Challenge-Skill-Balance.md
+├── 📝 Chanin-Of-Thought.md
+├── 📝 Charles-Sanders-Peirce.md
+├── 📝 Charles-Taber.md
+├── 📝 ChatGPT.md
+├── 📝 Chi-et-al.md
+├── 📝 choice-architecture.md
+├── 📝 Choice-Function.md
+├── 📝 Chris-Kenyon.md
+├── 📝 Christopher-Achen.md
+├── 📝 Chrysippus.md
+├── 📝 chunk.md
+├── 📝 Chunking.md
+├── 📝 Cicero.md
+├── 📝 Circuit-Breaker-Pattern.md
+├── 📝 Circuit-Complexity-Theory.md
+├── 📝 Classical-Cognitivism.md
+├── 📝 classical-mechanics.md
+├── 📝 Classical-View-of-Emotion.md
+├── 📝 Classroom-Motivation.md
+├── 📝 Claude-3.5-Sonnet.md
+├── 📝 Claude-API.md
+├── 📝 Claude-Code-Basics.md
+├── 📝 Claude-Code-Workflows.md
+├── 📝 Claude-Code.md
+├── 📝 Claude-Desktop.md
+├── 📝 Claude-Opus-4.md
+├── 📝 Claude-Projects.md
+├── 📝 Claude-Sonnet-4.md
+├── 📝 Claude.ai.md
+├── 📝 Claude.md
+├── 📝 CLAUDE.md-Files.md
+├── 📝 Claudia-Mueller.md
+├── 📝 Client-Server-Architecture.md
+├── 📝 CLT-as-a-Dynamic-Load-Optimization-Problem.md
+├── 📝 Co-Constructed-Criteria.md
+├── 📝 Cocktail-Party-Effect.md
+├── 📝 cog-psy-attentional-efficiency-and-skill-aquisition.md
+├── 📝 cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md
+├── 📝 cog-psy-critical-thinking-metacognitive-regulation.md
+├── 📝 cog-psy-evolution-of-selective-attention-theory-202512142019.md
+├── 📝 cog-psy-foundational-critical-thinking.md
+├── 📝 cog-psy-fundamental-structures-of-reasoning-202512050320.md
+├── 📝 cog-psy-john-dewey-how-we-think-review.md
+├── 📝 cog-psy-john-dewey.md
+├── 📝 cog-psy-mindfulness-based-cognitive-training-202512161937.md
+├── 📝 cog-psy-william-james.md
+├── 📝 cog-sci-pkm-cognitive-science-principles-for-habit-formation-in-pkm.md
+├── 📝 cog-sci-pkm-key-components-of-socratic-questioning-and-how-they-apply-to-pkm-pra.md
+├── 📝 cog-sci-pkm-metacognition-and-its-role-in-pkm.md
+├── 📝 cog-sci-pkm-reading-fluency-and-comprehension-in-pkm.md
+├── 📝 cog-sci-pkm-reading-techniques-and-strategies-for-pkm.md
+├── 📝 cog-sci-pkm-the-role-of-reading-in-pkm.md
+├── 📝 cog-sci-pkm-theoretical-foundations-of-socratic-questioning-and-their-relevance.md
+├── 📝 cog-sci-pkm-understanding-socratic-questioning-and-its-role-in-pkm.md
+├── 📝 cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511.md
+├── 📝 cog-sci-report-analysis-of-personal-knowledge-management-practices-as-applied-fr.md
+├── 📝 cog-sci-report-andragogy-and-higher-order-cognition-202511230656.md
+├── 📝 cog-sci-report-first-priciples-reconstruction-self-determination-theory-20251120.md
+├── 📝 cog-sci-report-first-principles-reconstruction-self-regulated-learning-as-a-doma.md
+├── 📝 cog-sci-report-metacognition-as-central-integrating-mechanism-for-pkm-2025111306.md
+├── 📝 Cognitive-Architecture-of-Learning.md
+├── 📝 Cognitive-Architecture-Working-Memory-&-Long-Term-Memory.md
+├── 📝 Cognitive-Architecture.md
+├── 📝 Cognitive-Bandwidth-Liberation-as-the-Unifying-Mechanism.md
+├── 📝 Cognitive-Bandwidth-Liberation.md
+├── 📝 Cognitive-Behavioral-Therapy.md
+├── 📝 Cognitive-Bias-Research.md
+├── 📝 Cognitive-Bias.md
+├── 📝 Cognitive-Biases-and-Debiasing-Strategies.md
+├── 📝 Cognitive-Biases.md
+├── 📝 Cognitive-Chunking.md
+├── 📝 Cognitive-Conflict-Disequilibrium.md
+├── 📝 Cognitive-Control-Mechanisms.md
+├── 📝 Cognitive-Control.md
+├── 📝 Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o.md
+├── 📝 Cognitive-Debt.md
+├── 📝 Cognitive-Decoupling.md
+├── 📝 Cognitive-Development-—-Piaget-and-Vygotsky.md
+├── 📝 Cognitive-Development-Theory.md
+├── 📝 Cognitive-Disequilibrium.md
+├── 📝 Cognitive-Distortion.md
+├── 📝 cognitive-evaluation-theory-focused-analysis-2026-03-13.md
+├── 📝 Cognitive-Evaluation-Theory.md
+├── 📝 Cognitive-Forcing-Functions-in-Clinical-Reasoning.md
+├── 📝 Cognitive-Forcing-Functions.md
+├── 📝 Cognitive-Friction.md
+├── 📝 Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis.md
+├── 📝 Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice.md
+├── 📝 Cognitive-Load-Theory-—-Focused-Analysis.md
+├── 📝 Cognitive-Load-Theory-Applied-to-AI-Coordination.md
+├── 📝 cognitive-load-theory-focused-analysis-2026-03-06.md
+├── 📝 cognitive-load-theory-foundational-report-2026-03-11.md
+├── 📝 Cognitive-Load-Theory.md
+├── 📝 Cognitive-Load.md
+├── 📝 Cognitive-Miserliness.md
+├── 📝 Cognitive-Motivational-Model.md
+├── 📝 Cognitive-Narrowing.md
+├── 📝 cognitive-neuroscience.md
+├── 📝 Cognitive-Offloading.md
+├── 📝 Cognitive-Psychological-Conceptualization.md
+├── 📝 Cognitive-Psychology-Core-Concepts.md
+├── 📝 Cognitive-Psychology-Foundations.md
+├── 📝 Cognitive-Psychology-MOC.md
+├── 📝 cognitive-psychology.md
+├── 📝 Cognitive-Reflection-Test-and-Rationality-Quotient.md
+├── 📝 Cognitive-Scaffolding.md
+├── 📝 cognitive-science-moc.md
+├── 📝 Cognitive-Science.md
+├── 📝 cognitive-structure.md
+├── 📝 Cognitive-Surface-Area.md
+├── 📝 Cognitive-Task-Analysis.md
+├── 📝 Cognitive-Theory-of-Multimedia-Learning.md
+├── 📝 Cognitive-Transparency-Assumption.md
+├── 📝 Cognitive-Vitality.md
+├── 📝 Coherentism-and-Foundationalism.md
+├── 📝 command-line.md
+├── 📝 Command-Prompt.md
+├── 📝 Commonsense-Reasoning.md
+├── 📝 communications-engineering.md
+├── 📝 Communities-of-Practice.md
+├── 📝 Community-Plugins.md
+├── 📝 Comparative-Advance-Organizer.md
+├── 📝 Comparative-Organizer.md
+├── 📝 Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships.md
+├── 📝 Compensation-Trap.md
+├── 📝 Compensatory-Hypothesis.md
+├── 📝 Competence-Need.md
+├── 📝 Competence.md
+├── 📝 Competency-Based-Learning.md
+├── 📝 Complete-Agent-File-Format.md
+├── 📝 Complete-Project-Structure.md
+├── 📝 Completion-Problem-Effect.md
+├── 📝 Component-Process-Model.md
+├── 📝 Compound-Interest.md
+├── 📝 Comprehension-Monitoring-Training-Protocols.md
+├── 📝 Comprehension-Monitoring.md
+├── 📝 Comprehension.md
+├── 📝 Comprehensive-Academic-Reference-Workflow.md
+├── 📝 Comprehensive-Refernece-MCP-Servers.md
+├── 📝 Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik.md
+├── 📝 Computational-Psychiatry-and-the-Examined-Life.md
+├── 📝 Concept-1.md
+├── 📝 Concept-2.md
+├── 📝 Concept-3.md
+├── 📝 Concept-Name.md
+├── 📝 Conceptions-of-Ability.md
+├── 📝 Concepts.md
+├── 📝 Conceptual-Change-Theory-and-Schema-Restructuring.md
+├── 📝 Conceptual-Change-Theory.md
+├── 📝 Conceptual-Change.md
+├── 📝 Concurrent-Expression.md
+├── 📝 Conditional-Logic.md
+├── 📝 conditional-metacognitive-knowledge.md
+├── 📝 Conditional-Positive-Regard-—-Costs-and-Clinical-Implications.md
+├── 📝 Conditional-Positive-Regard.md
+├── 📝 Conditional-Regard-and-the-Introjection-Trap.md
+├── 📝 Conditional-Regard.md
+├── 📝 Confirmation-Bias-Myside-Bias.md
+├── 📝 Confirmation-Bias.md
+├── 📝 Conflict-Monitoring.md
+├── 📝 Confucian-practical-wisdom.md
+├── 📝 Conjunctive-System-Architecture.md
+├── 📝 conscious-attention.md
+├── 📝 conscious-awareness.md
+├── 📝 consciousness.md
+├── 📝 Constitutional-AI.md
+├── 📝 Constructed-Emotion-Theory-—-Deep-Dive.md
+├── 📝 Constructed-Emotion-Theory.md
+├── 📝 Construction-Activation-Asymmetry.md
+├── 📝 Construction-Problem.md
+├── 📝 Constructive-Attentiveness.md
+├── 📝 Constructive-Threshold.md
+├── 📝 Constructivism.md
+├── 📝 Constructivist-Learning-Theory.md
+├── 📝 Constructivist-Stance.md
+├── 📝 constructivist.md
+├── 📝 Contemplative-Practice-and-Predictive-Processing.md
+├── 📝 Context-of-Discovery-vs.-Context-of-Justification.md
+├── 📝 Context-Regulation.md
+├── 📝 Context-Switching.md
+├── 📝 Context-Window.md
+├── 📝 Contingent-Self-Esteem.md
+├── 📝 Contingent-Self-Worth.md
+├── 📝 Contract-Style-Prompt-Structure.md
+├── 📝 Control-Orientation.md
+├── 📝 Control-Scaffolding.md
+├── 📝 Control-Value-Theory.md
+├── 📝 Controlled-Hallucination.md
+├── 📝 Controlled-Motivation.md
+├── 📝 Controlled-Regulation.md
+├── 📝 Controlled-Relationship-Motivation.md
+├── 📝 Controlling-Environment.md
+├── 📝 Conway's-Law.md
+├── 📝 Coordination-Pattern-Library.md
+├── 📝 Core-Affect.md
+├── 📝 Core-Concept-Definition.md
+├── 📝 Core-DataviewJS-Task-Methods.md
+├── 📝 Core-Definition-Epistemic-Vigilance.md
+├── 📝 Corroboration.md
+├── 📝 Cortico-Striatal-Learning-Loops.md
+├── 📝 cosmology-moc.md
+├── 📝 COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology.md
+├── 📝 COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate.md
+├── 📝 Counterexample-Search.md
+├── 📝 Counterfactual-Reasoning.md
+├── 📝 Coupling-Constitution-Fallacy.md
+├── 📝 Covers-how-intelligent-tutoring-systems,-learning-analytics-dashboards,-and-AI-b.md
+├── 📝 Cowan.md
+├── 📝 Cowan's-Embedded-Processes-Model.md
+├── 📝 Craik-and-Lockhart's-1972-paper.md
+├── 📝 Craik-and-Tulving.md
+├── 📝 Craik.md
+├── 📝 Creative-Cognition.md
+├── 📝 Critical-Thinking-Across-the-Curriculum-—-Subject-Specific-Integration.md
+├── 📝 Critical-Thinking-as-Metacognitively-Regulated-Reasoning.md
+├── 📝 critical-thinking-educational-settings-foundational-report-2026-03-05.md
+├── 📝 Critical-Thinking-Frameworks.md
+├── 📝 Critical-Thinking-in-Education.md
+├── 📝 Critical-Thinking-Pedagogy.md
+├── 📝 Critical-Thinking-Skills-and-Metacognitive-Self-Regulation.md
+├── 📝 Critical-Thinking-Skills.md
+├── 📝 Critical-Thinking.md
+├── 📝 Crocker.md
+├── 📝 Cross-Cultural-Psychology.md
+├── 📝 Crystallization-Threshold.md
+├── 📝 Csikszentmihalyi.md
+├── 📝 Cue-Validity.md
+├── 📝 Cultural-Affordances-in-Active-Inference.md
+├── 📝 Cultural-Neutrality-Assumption.md
+├── 📝 Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination.md
+├── 📝 Cultural-Universality-vs.-Cultural-Moderation-in-SDT-A-Critical-Analysis.md
+├── 📝 Custom-Commands.md
+├── 📝 Custom-MCP-Server-Development.md
+├── 📝 Cybernetics.md
+├── 📝 Cyclical-Model-of-Self-Regulated-Learning.md
+├── 📝 Cynic-school.md
+├── 📝 D.-Randy-Garrison.md
+├── 📝 Daily-Notes.md
+├── 📝 Daily-Review-Frameworks.md
+├── 📝 Damasio.md
+├── 📝 Dan-Kahan.md
+├── 📝 Dan-Sperber.md
+├── 📝 Daniel-Kahneman.md
+├── 📝 Daniel-Schwartz.md
+├── 📝 Daniel-Willingham.md
+├── 📝 Darwinian.md
+├── 📝 Dashboard-Design.md
+├── 📝 Data-Layer-Components.md
+├── 📝 Dataview-Inline-Queries-In-Note-Metadata-Panel.md
+├── 📝 Dataview-Plugin.md
+├── 📝 Dataview-Queries-for-Daily-Notes.md
+├── 📝 Dataview-Task-Query-Reference.md
+├── 📝 Dataview.md
+├── 📝 DataviewJS-Advanced-Patterns.md
+├── 📝 DataviewJS.md
+├── 📝 Date-Functions.md
+├── 📝 David-Ausubel.md
+├── 📝 David-Chalmers.md
+├── 📝 David-Dunning.md
+├── 📝 David-Hume.md
+├── 📝 David-Klahr.md
+├── 📝 David-Lewis.md
+├── 📝 David-Marr.md
+├── 📝 David-Rumelhart.md
+├── 📝 David-Wood.md
+├── 📝 Day-Planner.md
+├── 📝 Deanna-Kuhn.md
+├── 📝 Debiasing-Interventions-Meta-Analysis-and-Design.md
+├── 📝 Debiasing-Interventions.md
+├── 📝 debiasing.md
+├── 📝 Deci-&-Ryan.md
+├── 📝 Deci-and-Ryan.md
+├── 📝 Deci,-Connell,-&-Ryan-1989.md
+├── 📝 Deci.md
+├── 📝 Decision-Making.md
+├── 📝 Decision-Theory.md
+├── 📝 Declarative-Memory.md
+├── 📝 declarative-metacognitive-knowledge.md
+├── 📝 Declarative-schemas.md
+├── 📝 Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge.md
+├── 📝 Decoding.md
+├── 📝 Dedre-Gentner.md
+├── 📝 deductive-reasoning-learning-foundational-report-2026-03-10.md
+├── 📝 Deductive-Reasoning.md
+├── 📝 Deep-Processing.md
+├── 📝 deep-work.md
+├── 📝 Defeasibility.md
+├── 📝 Defeat-Defeater.md
+├── 📝 Defensive-Inference.md
+├── 📝 Degenerate-Cycle.md
+├── 📝 Deliberate-Practice-—-Ericsson.md
+├── 📝 Deliberate-Practice-and-Expert-Development.md
+├── 📝 Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat.md
+├── 📝 Deliberate-Practice-and-the-Competence-Need.md
+├── 📝 Deliberate-Practice-Log.md
+├── 📝 Deliberate-Practice.md
+├── 📝 Deliberative-Democracy.md
+├── 📝 Delphi-Consensus-Definition.md
+├── 📝 Delphi-Report.md
+├── 📝 demarcation-problem.md
+├── 📝 democratic-self-governance.md
+├── 📝 Descartes-—-Meditations.md
+├── 📝 Descartes.md
+├── 📝 Description-Field-Components.md
+├── 📝 Design-Specs.md
+├── 📝 Design-Thinking-Pedagogy.md
+├── 📝 Design-Thinking.md
+├── 📝 Designing-Autonomy-Supportive-Learning-Environments.md
+├── 📝 Desirable-Difficulties-—-Bjork.md
+├── 📝 Desirable-Difficulties.md
+├── 📝 Developmental-Need-Satisfaction-History.md
+├── 📝 Developmental-Staging-Model.md
+├── 📝 Dewey's-Continuity-and-Interaction-Principles.md
+├── 📝 Dewey's-Reflective-Thinking.md
+├── 📝 Diadochi.md
+├── 📝 Dialectical-Knowledge-Building.md
+├── 📝 Dialectical-Thinking.md
+├── 📝 Diane-Halpern.md
+├── 📝 dichotic-listening-tasks.md
+├── 📝 dichotic-listening.md
+├── 📝 Dichotomy-of-Control.md
+├── 📝 Differentiated-Conception-of-Ability.md
+├── 📝 Digital-Reading-and-the-GCA.md
+├── 📝 Direct-Instruction.md
+├── 📝 Directory-Opus-Button-Basics.md
+├── 📝 Directory-Opus-Rename-Scripts.md
+├── 📝 Directory-Opus-Scripting.md
+├── 📝 Directory-Opus.md
+├── 📝 Discipline-of-Desire.md
+├── 📝 Disconfirmation-Bias.md
+├── 📝 Discovery-Learning.md
+├── 📝 Disposition.md
+├── 📝 Dissolved-Assumption.md
+├── 📝 Distinctiveness.md
+├── 📝 Distributed-Cognition.md
+├── 📝 Distributed-Regulation.md
+├── 📝 Distributed-Systems-Design.md
+├── 📝 Dochy,-Segers-&-Buehl-1999.md
+├── 📝 Docker-Fundamentals.md
+├── 📝 Document-Based-Questioning.md
+├── 📝 Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation.md
+├── 📝 Domain-Knowledge.md
+├── 📝 Domain.md
+├── 📝 Donald-Hebb.md
+├── 📝 Donald-Schön.md
+├── 📝 Donald-Thomson.md
+├── 📝 Donald-Thomson's.md
+├── 📝 Donna-Ogle.md
+├── 📝 DOpus-Built-in-Variables.md
+├── 📝 DOpus-Command-Modifiers.md
+├── 📝 Double-Loop-Learning.md
+├── 📝 DQL.md
+├── 📝 Drew-Westen.md
+├── 📝 Dreyfus-Skill-Acquisition-Model.md
+├── 📝 Dreyfus.md
+├── 📝 Dual-Coding-Theory.md
+├── 📝 Dual-Process-Theory.md
+├── 📝 Duhem-Quine-thesis.md
+├── 📝 Dunning-and-Kruger.md
+├── 📝 Dunning-Kruger-Effect.md
+├── 📝 Dweck's-framework-on-entity-vs.-incremental-theories-of-intelligence-is-the-cogn.md
+├── 📝 Dweck's.md
+├── 📝 Dyslexia.md
+├── 📝 dysrationalia.md
+├── 📝 e-Learning-Design.md
+├── 📝 Early-Selection.md
+├── 📝 Ease-of-Learning.md
+├── 📝 Eccles-and-Wigfield's-expectancy-value-framework-provides-a-complementary-motiva.md
+├── 📝 Echoic-Memory.md
+├── 📝 Ecological-Psychology.md
+├── 📝 Ecological-Rationality.md
+├── 📝 Edmund-Husserl.md
+├── 📝 Educational-Psychology.md
+├── 📝 Edward-Deci.md
+├── 📝 Edward-L.-Deci.md
+├── 📝 Edward-Titchener.md
+├── 📝 Edwin-Hutchins.md
+├── 📝 Effectance-Motivation.md
+├── 📝 Effectance.md
+├── 📝 Effort-Abandonment.md
+├── 📝 Efklides.md
+├── 📝 Ego-Involvement.md
+├── 📝 Ego-Involving-Feedback.md
+├── 📝 Elaboration.md
+├── 📝 Elaborative-Inference.md
+├── 📝 Elaborative-Interrogation.md
+├── 📝 Elaborative-Rehearsal.md
+├── 📝 Eleanor-Rosch.md
+├── 📝 electromagnetism.md
+├── 📝 Element-Interactivity.md
+├── 📝 Elena.md
+├── 📝 Elenchus.md
+├── 📝 Elizabeth-Loftus.md
+├── 📝 Ellen-Leggett.md
+├── 📝 Embodied-Cognition.md
+├── 📝 Embodied-vs.-Extended-vs.-Enactive-Cognition.md
+├── 📝 Emergent-Abilities-in-LLMs.md
+├── 📝 Emergent-Abilities.md
+├── 📝 Emotion-Concepts.md
+├── 📝 Emotion-Differentiation.md
+├── 📝 Emotional-Calibration.md
+├── 📝 Emotional-Dysregulation.md
+├── 📝 Emotional-Granularity-as-Epistemic-Precision.md
+├── 📝 Emotional-Granularity.md
+├── 📝 Emotional-Intelligence.md
+├── 📝 Emotional-Regulation.md
+├── 📝 Empiricism.md
+├── 📝 Enactive-Cognition.md
+├── 📝 Enactivism.md
+├── 📝 Enchiridion.md
+├── 📝 Encoding-Specificity-Principle.md
+├── 📝 Encoding-Specificity.md
+├── 📝 Endel-Tulving.md
+├── 📝 Engagement-Contingent-Reward.md
+├── 📝 Ennis.md
+├── 📝 Ensemble-Learning.md
+├── 📝 Ensemble-Methods.md
+├── 📝 Entity-Theory-of-Intelligence.md
+├── 📝 Entity-Theory.md
+├── 📝 Enumerative-Induction.md
+├── 📝 Epictetus.md
+├── 📝 Epicureanism.md
+├── 📝 Episodic-Buffer.md
+├── 📝 Episodic-Memory.md
+├── 📝 Epistemic-Action.md
+├── 📝 Epistemic-Actions.md
+├── 📝 Epistemic-Architecture.md
+├── 📝 Epistemic-Calibration.md
+├── 📝 Epistemic-Character-as-Concurrent-Expression.md
+├── 📝 Epistemic-Character.md
+├── 📝 Epistemic-Citizenship.md
+├── 📝 Epistemic-Cognition.md
+├── 📝 epistemic-contextualism.md
+├── 📝 Epistemic-Cowardice.md
+├── 📝 epistemic-curiosity.md
+├── 📝 Epistemic-Holism.md
+├── 📝 Epistemic-Humility.md
+├── 📝 Epistemic-Injustice.md
+├── 📝 epistemic-justification.md
+├── 📝 Epistemic-Peer-Disagreement.md
+├── 📝 epistemic-relativism.md
+├── 📝 Epistemic-Vigilance.md
+├── 📝 Epistemology-MOC.md
+├── 📝 Epistemology.md
+├── 📝 Equilibration.md
+├── 📝 Ericsson.md
+├── 📝 Ernest-Sosa.md
+├── 📝 Ernst-von-Glasersfeld.md
+├── 📝 Error-Categories-in-Multi-Agent-Systems.md
+├── 📝 Established-Theory.md
+├── 📝 Ethical-Reasoning.md
+├── 📝 Ethnocentrism.md
+├── 📝 Eudaimonia.md
+├── 📝 Eupatheia.md
+├── 📝 Evaluation.md
+├── 📝 Evan-Thompson.md
+├── 📝 Event-Driven-Architecture.md
+├── 📝 Evidence-Based-Education.md
+├── 📝 evolutionary-theory.md
+├── 📝 Examined-Life.md
+├── 📝 Examines-how-fallibilism-scales-to-communities-and-institutions.-Key-topics-woul.md
+├── 📝 Examines-the-motivational-and-behavioral-consequences-of-chronic-need-frustratio.md
+├── 📝 ExcaliBrain.md
+├── 📝 Excalidraw-Library.md
+├── 📝 Excalidraw.md
+├── 📝 ExcalidrawAutomate.md
+├── 📝 Executive-Control.md
+├── 📝 Executive-Function.md
+├── 📝 EXIF.md
+├── 📝 Expectancy-Value-Theory-—-Focused-Analysis.md
+├── 📝 Expectancy-Value-Theory.md
+├── 📝 Experimental-Design.md
+├── 📝 Experimental-Methodology.md
+├── 📝 Expert-Blind-Spot.md
+├── 📝 expert-performance.md
+├── 📝 Expertise-Acquisition.md
+├── 📝 Expertise-Development-and-Deliberate-Practice.md
+├── 📝 Expertise-Development.md
+├── 📝 Expertise-Reversal-Effect.md
+├── 📝 expertise-reversal.md
+├── 📝 Expertise-Theory.md
+├── 📝 Expertise.md
+├── 📝 Explicit-Reasoning-Protocols.md
+├── 📝 Expository-Advance-Organizer.md
+├── 📝 Expository-Organizer.md
+├── 📝 extended-mind-theory-foundational-report-2026-03-11.md
+├── 📝 Extended-Mind-Theory.md
+├── 📝 Extended-Thinking-Architecture-Implementation-Guide.md
+├── 📝 Extended-Thinking-Architecture.md
+├── 📝 Extended-Thinking-Modes.md
+├── 📝 Extends-the-virtue-epistemological-dimension-of-the-current-report-into-a-full-t.md
+├── 📝 External-Achievement.md
+├── 📝 External-Regulation.md
+├── 📝 Externalization-Protocol.md
+├── 📝 Extraneous-Cognitive-Load.md
+├── 📝 Extraneous-Load.md
+├── 📝 Extrinsic-Goal-Content.md
+├── 📝 Extrinsic-Motivation.md
+├── 📝 faded-worked-example.md
+├── 📝 fallibilism-foundational-report-2026-03-06.md
+├── 📝 Fallibilism.md
+├── 📝 Fallibilist-Constructivist-Epistemological-Posture.md
+├── 📝 Fallibilist-Epistemological-Posture.md
+├── 📝 Fallibilist-Epistemology.md
+├── 📝 Fallibilist.md
+├── 📝 Falsificationism.md
+├── 📝 Far-Transfer.md
+├── 📝 Fast-and-Frugal-Heuristics.md
+├── 📝 FastMCP-Development-Guide.md
+├── 📝 FastMCP.md
+├── 📝 Fear-Extinction.md
+├── 📝 Feed-Forward.md
+├── 📝 feedback-design-autonomy-mastery-foundational-report-2026-03-10.md
+├── 📝 Feedback-Design-for-Autonomy-and-Mastery.md
+├── 📝 Feedback-Design.md
+├── 📝 Feedback-Effects-on-Motivation-and-Learning.md
+├── 📝 Feedback-Timing.md
+├── 📝 Feeling-of-Knowing-—-FOK.md
+├── 📝 Feeling-of-Knowing-FOK.md
+├── 📝 Feeling-of-Knowing.md
+├── 📝 Felt-Difficulty.md
+├── 📝 Feng-et-al.-2024.md
+├── 📝 Fergus-I.-M.-Craik.md
+├── 📝 Few-Shot-Learning.md
+├── 📝 Few-Shot-Prompting.md
+├── 📝 Figma-Files.md
+├── 📝 Figure-Effect.md
+├── 📝 file-management.md
+├── 📝 File-Metadata-Queries.md
+├── 📝 File-Properties.md
+├── 📝 Filter-Bubble-Information-Cocoon.md
+├── 📝 First-Principles-Report-Generator-v1.0.md
+├── 📝 First-Principles-What-Is-Knowledge.md
+├── 📝 Fix-Up-Strategy.md
+├── 📝 Fixed-Mindset.md
+├── 📝 Flagged-as-high-priority-from-the-Feedback-Design-report-and-of-direct-relevance.md
+├── 📝 Flavell-Metacognition-Framework.md
+├── 📝 Flavell.md
+├── 📝 Flavell's-Metacognitive-Framework.md
+├── 📝 Flavell's-Metacognitive-Model.md
+├── 📝 Fleshing-Out.md
+├── 📝 Flourishing.md
+├── 📝 Flow-State.md
+├── 📝 flow-states.md
+├── 📝 Flow-Theory-and-Competence-Need-—-Structural-Parallels.md
+├── 📝 Flow-Theory-and-Optimal-Learning-Experiences.md
+├── 📝 Flow-Theory.md
+├── 📝 Flow.md
+├── 📝 Fluency-Assessment-and-the-Accuracy-Automaticity-Gap.md
+├── 📝 fluency-effects.md
+├── 📝 Fluency-Illusion.md
+├── 📝 Fluency-IllusionFluency-Illusion.md
+├── 📝 Fluency-Trap.md
+├── 📝 Fluency.md
+├── 📝 Focal-Subsidiary-Attention-Distinction.md
+├── 📝 Focused-analysis-of-the-emerging-need-thwarting-literature,-examining-Bartholome.md
+├── 📝 Focused-Analysis-Report-Generator-v1.0.md
+├── 📝 Forethought-Phase.md
+├── 📝 Forgetting-Curve.md
+├── 📝 Formal-Rule-Theories-of-Reasoning.md
+├── 📝 Formal-Rule-Theory.md
+├── 📝 Formative-Assessment.md
+├── 📝 Formative-Feedback.md
+├── 📝 Foundational-Logic.md
+├── 📝 Foundational-Report-Generator-v1.0.md
+├── 📝 Foundational-Report-Philosophy-of-Mind.md
+├── 📝 Foundational-Report.md
+├── 📝 Foundations-of-Formal-Logic.md
+├── 📝 Four-Cardinal-Virtues.md
+├── 📝 Four-Component-Instructional-Design-4CID.md
+├── 📝 Four-Component-Instructional-Design.md
+├── 📝 Fourfold-Motivational-Architecture.md
+├── 📝 Frances-Lawton.md
+├── 📝 Francis-Bacon.md
+├── 📝 Francisco-Varela.md
+├── 📝 Frank-Keil.md
+├── 📝 Frank-Knight.md
+├── 📝 Frankfurt's-Hierarchy-of-Desires.md
+├── 📝 Fred-Paas.md
+├── 📝 Frederic-Bartlett.md
+├── 📝 Frederick-Adams.md
+├── 📝 Free-Choice-Behaviour.md
+├── 📝 Free-Energy-Principle.md
+├── 📝 Frontmatter.md
+├── 📝 Functional-Integration.md
+├── 📝 Functional-Psychology.md
+├── 📝 Functional-Significance.md
+├── 📝 Functionalism-Philosophy-of-Mind.md
+├── 📝 Fundamental-Attribution-Error.md
+├── 📝 Gail-Ross.md
+├── 📝 Galen.md
+├── 📝 Gamification-in-Educational-Contexts.md
+├── 📝 Gamification-in-Learning.md
+├── 📝 Gamification.md
+├── 📝 Garden.md
+├── 📝 Gary-Klein.md
+├── 📝 GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure.md
+├── 📝 Gemini-Code-Assist.md
+├── 📝 General-Causality-Orientations-Scale.md
+├── 📝 General-Intelligence.md
+├── 📝 Generation-Effect.md
+├── 📝 Generative-Cognition-Architecture.md
+├── 📝 Generative-Learning-Theory.md
+├── 📝 Generative-Learning.md
+├── 📝 Generative-Model.md
+├── 📝 Generative-Processing.md
+├── 📝 Genetic-Epistemology.md
+├── 📝 George-Boole.md
+├── 📝 George-Marcus.md
+├── 📝 George-Miller.md
+├── 📝 Gerald-Clore.md
+├── 📝 Gerd-Gigerenzer.md
+├── 📝 Germane-Cognitive-Load-Sweller,-van-Merriënboer-&-Paas,-1998-—-Original-Formulat.md
+├── 📝 Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation.md
+├── 📝 Germane-Cognitive-Load.md
+├── 📝 Germane-Load.md
+├── 📝 Gestalt-Psychology-and-Perception.md
+├── 📝 Getting-Things-Done.md
+├── 📝 Ghassani-Swaryandini.md
+├── 📝 Gilbert-Harman.md
+├── 📝 Gilbert-Ryle.md
+├── 📝 Git-Based-Workflow.md
+├── 📝 Glaser.md
+├── 📝 Goal-Content-Theory.md
+├── 📝 Goal-Content.md
+├── 📝 Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror.md
+├── 📝 goal-contents-theory-focused-analysis-2026-03-13.md
+├── 📝 Goal-Contents-Theory.md
+├── 📝 Goal-Framing.md
+├── 📝 Goal-Orientation-Theory-in-Educational-Contexts.md
+├── 📝 Goal-Orientation.md
+├── 📝 Goal-Setting-Theory-—-Locke-and-Latham.md
+├── 📝 Goal-Setting-Theory.md
+├── 📝 Goals-MOC.md
+├── 📝 Google-Gemini.md
+├── 📝 Google-Research.md
+├── 📝 Google.md
+├── 📝 Gottfried-Wilhelm-Leibniz.md
+├── 📝 Gottlob-Frege.md
+├── 📝 GPT-3.md
+├── 📝 Graham-Hitch.md
+├── 📝 Gregory-Schraw.md
+├── 📝 Gregory-Vlastos.md
+├── 📝 Gregory-Yates.md
+├── 📝 Grolnick-&-Ryan-1989.md
+├── 📝 GROUP-BY.md
+├── 📝 Growth-Mindset-and-CET.md
+├── 📝 Growth-Mindset-and-Implicit-Theories-of-Intelligence.md
+├── 📝 Growth-Mindset-and-Incremental-Intelligence-Theory.md
+├── 📝 growth-mindset-first-principles-report-2026-03-11.md
+├── 📝 growth-mindset-learning-foundational-report-2026-03-05.md
+├── 📝 Growth-Mindset-Theory.md
+├── 📝 Growth-Mindset.md
+├── 📝 GTD-Weekly-Review.md
+├── 📝 GTD-Workflow.md
+├── 📝 GTD.md
+├── 📝 Guidance-Fading-Principle.md
+├── 📝 Guy-Roth.md
+├── 📝 Habit-Formation-Science.md
+├── 📝 Habit-Formation.md
+├── 📝 habit.md
+├── 📝 Handlebars.md
+├── 📝 Hans-Reichenbach.md
+├── 📝 Harry-Collins.md
+├── 📝 Harvard-University.md
+├── 📝 Hattie-&-Timperley-Feedback-Model.md
+├── 📝 Heather-Battaly.md
+├── 📝 Hebb's-rule.md
+├── 📝 Hedonic-Adaptation-and-the-Attainment-Paradox-—-Cross-Theory-Analysis.md
+├── 📝 Hedonic-Adaptation.md
+├── 📝 Helen-Timperley.md
+├── 📝 Hellenistic-period.md
+├── 📝 Helpless-Response-Pattern.md
+├── 📝 Herbert-Simon.md
+├── 📝 Hermann-Ebbinghaus.md
+├── 📝 Hermeneutic-Circle.md
+├── 📝 Hermeneutics.md
+├── 📝 Heuristics-and-Biases-Program.md
+├── 📝 heuristics.md
+├── 📝 Heutagogy.md
+├── 📝 Hilary-Putnam.md
+├── 📝 Hippocampus.md
+├── 📝 Historical-Interpretation.md
+├── 📝 history-and-philosophy-of-science.md
+├── 📝 Holistic-Critical-Thinking-Scoring-Rubric-Framework.md
+├── 📝 Hooks-System.md
+├── 📝 Horm.md
+├── 📝 hormê.md
+├── 📝 How-causality-orientations-manifest-in-leadership-and-management-contexts.-Cover.md
+├── 📝 How-We-Think.md
+├── 📝 Howard-et-al..md
+├── 📝 HuggingFace.md
+├── 📝 Hugo-Mercier.md
+├── 📝 human-cognition.md
+├── 📝 Human-Reasoning.md
+├── 📝 Humanistic-Psychology.md
+├── 📝 Hypomnemata.md
+├── 📝 Hypothesis-Testing.md
+├── 📝 Hypothetico-Deductive-Method.md
+├── 📝 ICAP-Framework.md
+├── 📝 Iconic-Memory.md
+├── 📝 Identified-Regulation-vs.-Integrated-Regulation.md
+├── 📝 Identified-Regulation.md
+├── 📝 Identified-Techniques.md
+├── 📝 Identity-Based-Habits.md
+├── 📝 Identity-Based-Motivation.md
+├── 📝 ill-being.md
+├── 📝 Illusion-of-Explanatory-Depth.md
+├── 📝 Illusion-of-Knowing.md
+├── 📝 Immanuel-Kant.md
+├── 📝 Impersonal-Orientation.md
+├── 📝 Impett.md
+├── 📝 Implementation-Intention.md
+├── 📝 Implications-and-Consequences.md
+├── 📝 Implications.md
+├── 📝 implicit-memory.md
+├── 📝 implicit-theories-of-intelligence.md
+├── 📝 Implicit-Theory-of-Intelligence.md
+├── 📝 Impression-Management.md
+├── 📝 Incidental-Learning.md
+├── 📝 Incremental-Theory-of-Intelligence.md
+├── 📝 Incremental-Theory.md
+├── 📝 inductive-reasoning-foundational-report-2026-03-06.md
+├── 📝 Inductive-Reasoning.md
+├── 📝 Inert-Knowledge.md
+├── 📝 Infallibilism.md
+├── 📝 Inference-to-the-Best-Explanation.md
+├── 📝 Inference.md
+├── 📝 Inferential-Bridging.md
+├── 📝 Informal-Fallacies.md
+├── 📝 Information-Architecture.md
+├── 📝 information-cocoons.md
+├── 📝 information-processing-model.md
+├── 📝 Information-Processing-Models.md
+├── 📝 Information-Processing-Theory.md
+├── 📝 information-processing.md
+├── 📝 Information-Theory.md
+├── 📝 Information.md
+├── 📝 Informational-Feedback.md
+├── 📝 Inline-Fields.md
+├── 📝 Inline-Queries.md
+├── 📝 Innate-Immunity.md
+├── 📝 Inoculation-Theory.md
+├── 📝 Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles.md
+├── 📝 Inquiry-Based-Learning.md
+├── 📝 Instance-Theory-Core-Mechanism.md
+├── 📝 Instance-Theory.md
+├── 📝 Instructional-Design-Models-—-Overview.md
+├── 📝 Instructional-Design.md
+├── 📝 Integrated-Cognitive-Personhood.md
+├── 📝 Integrated-Regulation.md
+├── 📝 Integration-Metabolism.md
+├── 📝 Integration-Paradox.md
+├── 📝 Integration.md
+├── 📝 Intellectual-Courage.md
+├── 📝 Intellectual-Empathy.md
+├── 📝 Intellectual-Humility-and-Epistemic-Virtue.md
+├── 📝 Intellectual-Humility.md
+├── 📝 Intellectual-Integrity.md
+├── 📝 intellectual-openness.md
+├── 📝 Intellectual-Perseverance.md
+├── 📝 Intellectual-Standards.md
+├── 📝 Intellectual-Traits.md
+├── 📝 Intellectual-Virtue.md
+├── 📝 Intellectual-Virtues.md
+├── 📝 Intelligent-Tutoring-Systems-ITS-—-Educational-Technology.md
+├── 📝 interest.md
+├── 📝 interleaving.md
+├── 📝 Internalisation.md
+├── 📝 Internalism.md
+├── 📝 Internalization-and-Academic-Identity-Why-Some-Students-Never-Reach-Integrated-R.md
+├── 📝 Internalization-as-the-Developmental-Bridge-Between-Frameworks.md
+├── 📝 Internalization-Continuum.md
+├── 📝 Internalization.md
+├── 📝 Interoception.md
+├── 📝 Interoceptive-Inference.md
+├── 📝 Interpretation-and-Inference.md
+├── 📝 Intrinsic-Cognitive-Load.md
+├── 📝 Intrinsic-Goal-Content.md
+├── 📝 Intrinsic-Goal-Framing-in-Instructional-Design-—-A-Practical-Guide.md
+├── 📝 Intrinsic-Motivation-and-Extrinsic-Motivation.md
+├── 📝 Intrinsic-Motivation-Research-Deci-1971-classic-studies.md
+├── 📝 Intrinsic-Motivation-Research-Deci-1971.md
+├── 📝 Intrinsic-Motivation.md
+├── 📝 Intrinsic-vs-Extrinsic-Motivation.md
+├── 📝 Intrinsic-vs.-Extrinsic-Motivation.md
+├── 📝 Intrinsic,-Extraneous,-and-Germane-Cognitive-Load.md
+├── 📝 Introduction-to-Critical-Thinking.md
+├── 📝 Introduction-to-Metacognition.md
+├── 📝 Introjected-Regulation.md
+├── 📝 Introjection.md
+├── 📝 Iowa-Gambling-Task.md
+├── 📝 Iterated-Prisoner's-Dilemma.md
+├── 📝 Jaakko-Hintikka.md
+├── 📝 Jakob-Hohwy.md
+├── 📝 James-Clear.md
+├── 📝 James's-controversial-theory-that-emotions-arise-from-bodily-responses-rather-th.md
+├── 📝 James's-Gifford-Lectures-1901-1902-applying-pragmatic-method-to-religious-experi.md
+├── 📝 Janet-Metcalfe.md
+├── 📝 Jason-Baehr.md
+├── 📝 Jason-Wei.md
+├── 📝 JavaScript-Basics.md
+├── 📝 JavaScript-Fundamentals.md
+├── 📝 Jean-Piaget.md
+├── 📝 Jean-Piaget's.md
+├── 📝 Jeroen-van-Merriënboer.md
+├── 📝 Jerome-Bruner.md
+├── 📝 Jinja2.md
+├── 📝 John-Anderson.md
+├── 📝 John-Borkowski.md
+├── 📝 John-Bransford.md
+├── 📝 John-Dewey.md
+├── 📝 John-Elliot.md
+├── 📝 John-Flavell.md
+├── 📝 John-G.-Nicholls.md
+├── 📝 John-H.-Flavell.md
+├── 📝 John-Hattie.md
+├── 📝 John-Jost.md
+├── 📝 John-Kay.md
+├── 📝 John-MacKuen.md
+├── 📝 John-Mason.md
+├── 📝 John-Stuart-Mill.md
+├── 📝 John-Sweller.md
+├── 📝 Johnmarshall-Reeve's.md
+├── 📝 Johnson-Laird.md
+├── 📝 Jonathan-Evans.md
+├── 📝 Joseph-Eyer.md
+├── 📝 Joshua-Tenenbaum.md
+├── 📝 JPEG.md
+├── 📝 JScript.md
+├── 📝 JSON-RPC.md
+├── 📝 Judgment-of-Learning-JOL.md
+├── 📝 Judgment-of-Learning.md
+├── 📝 Judgments.md
+├── 📝 Judith-Harackiewicz.md
+├── 📝 Justified-True-Belief.md
+├── 📝 Justin-Kruger.md
+├── 📝 Kahneman-and-Tversky.md
+├── 📝 Kali-Trzesniewski.md
+├── 📝 Karen-Kitchener.md
+├── 📝 Karl-Friston.md
+├── 📝 Karl-Popper.md
+├── 📝 Kasser's-broader-research-program-on-materialistic-values-extends-GCT-into-socio.md
+├── 📝 Kataleptic-Impression.md
+├── 📝 Kathekon.md
+├── 📝 Kathêkon.md
+├── 📝 Kathkon.md
+├── 📝 Keith-Holyoak.md
+├── 📝 Keith-Stanovich.md
+├── 📝 Kenji-Murayama.md
+├── 📝 Kenneth-Aizawa.md
+├── 📝 Kenneth-Craik.md
+├── 📝 Kennon-Sheldon.md
+├── 📝 Key-Concepts.md
+├── 📝 King-and-Kitchener.md
+├── 📝 Kirschner,-Sweller-&-Clark.md
+├── 📝 Klaus-Scherer.md
+├── 📝 Knee.md
+├── 📝 Knightian-Uncertainty.md
+├── 📝 Knowing-That-Knowing-How.md
+├── 📝 Knowledge-Graph-Dynamics-in-Multi-Agent-Systems.md
+├── 📝 Knowledge-Graph-Theory.md
+├── 📝 Knowledge-Graph.md
+├── 📝 Knowledge-of-Cognition.md
+├── 📝 knowledge-representation.md
+├── 📝 knowledge-schemas.md
+├── 📝 Knowledge-Telling-vs.-Knowledge-Transforming.md
+├── 📝 Knowledge-Telling.md
+├── 📝 Knowledge-Transforming.md
+├── 📝 Knowledge-Visualization.md
+├── 📝 Koestner-et-al.-1984.md
+├── 📝 Korsgaard's-Self-Constitution.md
+├── 📝 Kristjan-Kristjansson.md
+├── 📝 Kuhn-and-Dean.md
+├── 📝 KWL-Strategy.md
+├── 📝 La-Guardia.md
+├── 📝 Lance-Rips.md
+├── 📝 language-comprehension.md
+├── 📝 Large-Language-Models.md
+├── 📝 Larkin-and-Simon.md
+├── 📝 Larry-Bartels.md
+├── 📝 Larry-Squire.md
+├── 📝 Late-Selection.md
+├── 📝 LaTeX.md
+├── 📝 Lawrence-Barsalou.md
+├── 📝 Lawrence-Shapiro.md
+├── 📝 Learned-Helplessness.md
+├── 📝 Learning-and-Memory.md
+├── 📝 Learning-Contracts.md
+├── 📝 Learning-Log.md
+├── 📝 Learning-Metabolism.md
+├── 📝 Learning-Projects.md
+├── 📝 Learning-Session-Overview.md
+├── 📝 Learning-Theory-—-Foundational-Report.md
+├── 📝 learning-theory-moc.md
+├── 📝 Legitimate-Peripheral-Participation.md
+├── 📝 Leonid-Rozenblit.md
+├── 📝 Lev-Vygotsky.md
+├── 📝 levels-of-processing-foundational-report-2026-03-13.md
+├── 📝 Levels-of-Processing-Theory.md
+├── 📝 Levels-of-Processing.md
+├── 📝 Lexical-Automaticity.md
+├── 📝 Lifelong-learning.md
+├── 📝 like-this.md
+├── 📝 Linda-Darling-Hammond.md
+├── 📝 Linda-Elder.md
+├── 📝 Linda-Zagzebski.md
+├── 📝 Link-Analysis.md
+├── 📝 Lisa-Blackwell.md
+├── 📝 Lisa-Feldman-Barrett.md
+├── 📝 Literature-Review.md
+├── 📝 llm-eng-automating-report-generation-with-claude-code.md
+├── 📝 llm-eng-building-pkm-system-with-claude-code.md
+├── 📝 LLM.md
+├── 📝 Locus-of-Control.md
+├── 📝 Logan-Instance-Theory.md
+├── 📝 Logic.md
+├── 📝 Logical-Reasoning.md
+├── 📝 Logos.md
+├── 📝 Logotherapy.md
+├── 📝 Long-Term-Memory.md
+├── 📝 Lonsbary.md
+├── 📝 LOP-Theory.md
+├── 📝 Lorenzo-Magnani.md
+├── 📝 Loss-aversion.md
+├── 📝 Lovett-et-al..md
+├── 📝 Lucius-Annaeus-Seneca.md
+├── 📝 Lucy-Guglielmino.md
+├── 📝 Luiten,-Ames-&-Ackerson-1980.md
+├── 📝 Lyceum.md
+├── 📝 Lynn-Cooper.md
+├── 📝 Lynn-Nadel.md
+├── 📝 Maarten-Vansteenkiste.md
+├── 📝 Macnamara-&-Burgoyne.md
+├── 📝 Maintenance-Rehearsal.md
+├── 📝 Malcolm-Knowles.md
+├── 📝 Manipulative-Abduction.md
+├── 📝 Manu-Kapur.md
+├── 📝 MapReduce.md
+├── 📝 Maravita-and-Iriki.md
+├── 📝 Marcia-Johnson.md
+├── 📝 Marcus-Aurelius.md
+├── 📝 Marcus.md
+├── 📝 Marcy-Church.md
+├── 📝 Margaret-Graver.md
+├── 📝 Mark-of-the-Cognitive.md
+├── 📝 Markdown-Fundamentals.md
+├── 📝 Markdown.md
+├── 📝 MarkMind.md
+├── 📝 Martha-Nussbaum.md
+├── 📝 Martin-Braine.md
+├── 📝 Marvin-Minsky.md
+├── 📝 Mary-Bandura.md
+├── 📝 Mary-Hegarty.md
+├── 📝 Mastery-Approach-Goal.md
+├── 📝 Mastery-Avoidance-Goal.md
+├── 📝 Mastery-Experience.md
+├── 📝 Mastery-Goal-Orientation.md
+├── 📝 Mastery-Goal.md
+├── 📝 Mastery-Oriented-Response-Pattern.md
+├── 📝 Materialism,-Consumer-Culture,-and-Psychological-Well-Being.md
+├── 📝 Matthew-Effect-in-Reading.md
+├── 📝 Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps.md
+├── 📝 Matthew-Effect.md
+├── 📝 Maturity-Level-Definitions-&-Criteria.md
+├── 📝 Maurice-Merleau-Ponty.md
+├── 📝 Mayer-1979.md
+├── 📝 Mayer's-CTML-program-deserves-its-own-node-as-a-CLT-extension-focused-specifical.md
+├── 📝 MCP-Prompts.md
+├── 📝 MCP-Resources.md
+├── 📝 MCP-Security-Best-Practices.md
+├── 📝 MCP-Security-Hardening.md
+├── 📝 MCP-Servers.md
+├── 📝 MCP-Tools.md
+├── 📝 McPeck.md
+├── 📝 MD5.md
+├── 📝 Meaningful-Learning-Theory.md
+├── 📝 Meaningful-Learning.md
+├── 📝 Mechanistic-Interpretability.md
+├── 📝 Melete.md
+├── 📝 Memory-Consolidation.md
+├── 📝 memory-representation.md
+├── 📝 Memory-Systems-and-Encoding.md
+├── 📝 memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md
+├── 📝 Memory-Systems.md
+├── 📝 Memory-Trace-Durability.md
+├── 📝 Mental-Image.md
+├── 📝 Mental-Logic-Theory.md
+├── 📝 Mental-Model.md
+├── 📝 mental-models-johnson-laird-first-principles-report-2026-03-11.md
+├── 📝 mental-models-johnson-laird-foundational-report-2026-03-11.md
+├── 📝 Mental-Models-Theory.md
+├── 📝 Mental-Models.md
+├── 📝 Mental-Simulation.md
+├── 📝 Mervyn-King.md
+├── 📝 Message-Queues.md
+├── 📝 Meta-Level-Object-Level-Model.md
+├── 📝 Meta-Science.md
+├── 📝 Metacognition-—-Foundational-Concepts.md
+├── 📝 Metacognition-&-Critical-Thinking.md
+├── 📝 Metacognition-&-Lifelong-Learning.md
+├── 📝 Metacognition-&-Motivation.md
+├── 📝 metacognition-and-critical-thinking-foundational-report-2026-03-05.md
+├── 📝 Metacognition-and-Critical-Thinking.md
+├── 📝 Metacognition-and-Lifelong-Learning.md
+├── 📝 Metacognition-and-Motivation.md
+├── 📝 Metacognition-and-Self-Regulated-Learning.md
+├── 📝 Metacognition-Awareness-Inventory.md
+├── 📝 Metacognition-Foundational-Report.md
+├── 📝 metacognition-in-learning-focused-analysis-2026-03-20.md
+├── 📝 Metacognition-in-Learning.md
+├── 📝 metacognition-lifelong-learning-foundational-report-2026-03-05.md
+├── 📝 metacognition-motivation-foundational-report-2026-03-05.md
+├── 📝 metacognition-silent-reading-focused-analysis-2026-03-21.md
+├── 📝 Metacognition.md
+├── 📝 Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector.md
+├── 📝 Metacognitive-Accuracy.md
+├── 📝 Metacognitive-Awareness-Inventory.md
+├── 📝 metacognitive-awareness.md
+├── 📝 Metacognitive-Calibration-Training.md
+├── 📝 Metacognitive-Calibration.md
+├── 📝 Metacognitive-Capacity.md
+├── 📝 Metacognitive-Experience.md
+├── 📝 Metacognitive-Experiences.md
+├── 📝 Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments.md
+├── 📝 Metacognitive-Feelings.md
+├── 📝 Metacognitive-Infrastructure.md
+├── 📝 metacognitive-judgments.md
+├── 📝 Metacognitive-Knowledge.md
+├── 📝 Metacognitive-Monitoring-Accuracy-and-Calibration.md
+├── 📝 Metacognitive-Monitoring-in-MetaICL.md
+├── 📝 Metacognitive-Monitoring.md
+├── 📝 Metacognitive-Regulation.md
+├── 📝 Metacognitive-Scaffolding-as-Externalized-Prefrontal-Function.md
+├── 📝 Metacognitive-Scaffolding-Design-Patterns.md
+├── 📝 metacognitive-scaffolding-focused-analysis-2026-03-20.md
+├── 📝 Metacognitive-Scaffolding.md
+├── 📝 Metacognitive-Self-Regulation.md
+├── 📝 Metacognitive-Self-Regulation's-Monitor-Detect-Regulate-Cycle.md
+├── 📝 Metacognitive-strategies.md
+├── 📝 Metacognitive-Strategy.md
+├── 📝 Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains.md
+├── 📝 Metadata.md
+├── 📝 Michael-Merzenich.md
+├── 📝 Michael-Neuman.md
+├── 📝 Michael-Polanyi.md
+├── 📝 Microservices-Architecture.md
+├── 📝 Mihaly-Csikszentmihalyi.md
+├── 📝 Miller's-Magical-Number-Seven.md
+├── 📝 Milton-Lodge.md
+├── 📝 Mind-Mapping.md
+├── 📝 Mindset-Intervention.md
+├── 📝 Mindset-Interventions-in-Education.md
+├── 📝 mindset.md
+├── 📝 Mindware.md
+├── 📝 Miranda-Fricker.md
+├── 📝 misinformation.md
+├── 📝 Miyake-and-colleagues.md
+├── 📝 Miyake-and-Friedman.md
+├── 📝 Modality-Effect.md
+├── 📝 Model-Completeness-Hypothesis.md
+├── 📝 Model-Context-Protocol.md
+├── 📝 Model-Multiplicity.md
+├── 📝 Model-Selection-Decision-Tree.md
+├── 📝 Moderator-Conditionality.md
+├── 📝 Modus-Ponens.md
+├── 📝 Modus-Tollens.md
+├── 📝 Monitoring-Control-Coupling.md
+├── 📝 Monitoring-Gap.md
+├── 📝 Monitoring-Regulation-Coupling.md
+├── 📝 Monitoring-Regulation-Decoupling.md
+├── 📝 Monitoring-Scaffolding.md
+├── 📝 Moral-Philosophy.md
+├── 📝 Morris,-Bransford,-and-Franks.md
+├── 📝 Motivated-Reasoning.md
+├── 📝 Motivated-Strategies-for-Learning-Questionnaire.md
+├── 📝 Motivation-Continuum.md
+├── 📝 motivation-science.md
+├── 📝 Motivation-Theory-Foundational-Report.md
+├── 📝 Motivational-Affordance.md
+├── 📝 Motivational-Asymmetry-and-Instructional-Design-Sequencing.md
+├── 📝 Motivational-Climate-Design.md
+├── 📝 Motivational-Climate.md
+├── 📝 Motivational-Interviewing.md
+├── 📝 Motivational-Psychology.md
+├── 📝 Motivational-Regulation.md
+├── 📝 motor-learning.md
+├── 📝 motor-skill-learning.md
+├── 📝 MSLQ.md
+├── 📝 Mueller-and-Dweck-1998.md
+├── 📝 Multi-Agent-AI-Systems.md
+├── 📝 multi-agent-systems-with-claude-code.md
+├── 📝 Multi-Modal-Agent-Coordination-Text-+-Vision-+-Code.md
+├── 📝 Multi-Store-Model.md
+├── 📝 Multimedia-Learning-Theory-—-Mayer.md
+├── 📝 Multimedia-Learning.md
+├── 📝 Mutuality.md
+├── 📝 Myside-Bias.md
+├── 📝 Naive-Realism.md
+├── 📝 Nancy-Nersessian.md
+├── 📝 Narrative-Coherence-as-Cognitive-Architecture.md
+├── 📝 Narrative-Identity.md
+├── 📝 Nassim-Taleb.md
+├── 📝 Naturalistic-Decision-Making.md
+├── 📝 Nature-Human-Behaviour.md
+├── 📝 Need-Absence.md
+├── 📝 Need-deprivation.md
+├── 📝 Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis.md
+├── 📝 Need-Frustration.md
+├── 📝 Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score.md
+├── 📝 Need-Satisfaction-vs.-Need-Frustration.md
+├── 📝 Need-Satisfaction.md
+├── 📝 Need-Substitute.md
+├── 📝 Need-Support.md
+├── 📝 Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support.md
+├── 📝 Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis.md
+├── 📝 Need-Thwarting.md
+├── 📝 Needs-Theories-in-Psychology.md
+├── 📝 Negative-Feedback-Control-System.md
+├── 📝 Negative-Feedback-Loop.md
+├── 📝 Nel-Noddings.md
+├── 📝 Nelson-Cowan.md
+├── 📝 Nelson-Narens-Model.md
+├── 📝 Neural-Efficiency.md
+├── 📝 Neural-Plasticity.md
+├── 📝 neurology.md
+├── 📝 Neuroplasticity.md
+├── 📝 neuroscience-moc.md
+├── 📝 neuroscience.md
+├── 📝 Newell-and-Simon.md
+├── 📝 Nicholas-Rescher.md
+├── 📝 Nicomachean-Ethics.md
+├── 📝 Non-Declarative-Memory.md
+├── 📝 Norbert-Schwarz.md
+├── 📝 Norman-and-Shallice.md
+├── 📝 Normative-vs.-Descriptive-Model.md
+├── 📝 Norsworthy-et-al..md
+├── 📝 Norwood-Russell-Hanson.md
+├── 📝 Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible.md
+├── 📝 Note-Making-vs.-Note-Taking.md
+├── 📝 Note-Name.md
+├── 📝 Note.md
+├── 📝 Nutritive-Environment-Requirement.md
+├── 📝 O'Toole,-Bovard-Abbo,-and-Weightman.md
+├── 📝 Oaksford-&-Chater-Probabilistic-Approach.md
+├── 📝 Obliterative-Subsumption.md
+├── 📝 Observability-Layers.md
+├── 📝 Obsidian-Automation.md
+├── 📝 Obsidian-Basics.md
+├── 📝 Obsidian-MCP-Integration.md
+├── 📝 Obsidian-PKB-Architecture.md
+├── 📝 Obsidian.md
+├── 📝 OIT's-Continuum-as-Motivational-Landscape.md
+├── 📝 Ollama.md
+├── 📝 One-of-the-most-significant-practical-limitations-of-CLT-is-the-difficulty-of-me.md
+├── 📝 Online-Learning-Design.md
+├── 📝 Open-Science-Framework.md
+├── 📝 Open-Society.md
+├── 📝 OpenAI.md
+├── 📝 Operational-Targets.md
+├── 📝 Optimal-Challenge.md
+├── 📝 Oral-Reading-Fluency.md
+├── 📝 Organismic-Integration-Tendency.md
+├── 📝 organismic-integration-theory-focused-analysis-2026-03-13.md
+├── 📝 Organismic-Integration-Theory.md
+├── 📝 Organismic-Integration.md
+├── 📝 Organismic-Meta-Theory.md
+├── 📝 Organismic-Theories-of-Human-Development.md
+├── 📝 Organismic-Valuing-Process.md
+├── 📝 Orienting-Task-Paradigm.md
+├── 📝 Orienting-Task.md
+├── 📝 our-perceptions-shape-our-suffering-202512010031.md
+├── 📝 outlining.md
+├── 📝 Output-Style-Modes.md
+├── 📝 Output-Styles.md
+├── 📝 Overconfidence-Bias.md
+├── 📝 Overjustification-Effect.md
+├── 📝 PaLM.md
+├── 📝 Paper-Title.md
+├── 📝 PARA-Method.md
+├── 📝 parallel-distributed-processing.md
+├── 📝 Parity-Principle.md
+├── 📝 Partisan-Identity-and-Motivated-Reasoning.md
+├── 📝 Partisan-Identity.md
+├── 📝 Passive-Externalism.md
+├── 📝 Path-and-Eupatheia-The-Stoic-Distinction.md
+├── 📝 Path.md
+├── 📝 Pathē.md
+├── 📝 Patricia-Alexander.md
+├── 📝 Patricia-Cheng.md
+├── 📝 Patricia-King.md
+├── 📝 Patrick.md
+├── 📝 Paul-and-Elder.md
+├── 📝 Paul-Elder-Critical-Thinking-Framework.md
+├── 📝 Paul-Elder-Framework.md
+├── 📝 Paul-Pintrich.md
+├── 📝 PDF-annotation.md
+├── 📝 PDF-Name.md
+├── 📝 Pedagogical-Content-Knowledge.md
+├── 📝 pedagogy.md
+├── 📝 Peirce.md
+├── 📝 Peirce's-Doubt-Inquiry-Belief-Cycle.md
+├── 📝 Peirce's-Fallibilism.md
+├── 📝 Peirce's-Pragmatic-Maxim.md
+├── 📝 Pellegrino.md
+├── 📝 PENCRISAL-Framework.md
+├── 📝 PENCRISAL.md
+├── 📝 perceived-choice.md
+├── 📝 Perceived-Competence.md
+├── 📝 Perceived-Internal-Locus-of-Causality.md
+├── 📝 Perceived-Internal-Locus-of-Causation.md
+├── 📝 Perceived-Locus-of-Causality.md
+├── 📝 Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms.md
+├── 📝 Perceived-Partner-Responsiveness.md
+├── 📝 Perception-and-Pattern-Recognition.md
+├── 📝 Perceptual-Attunement.md
+├── 📝 Perceptual-Psychology.md
+├── 📝 Perceptual-Span.md
+├── 📝 Performance-Approach-Goal.md
+├── 📝 Performance-Avoidance-Goal.md
+├── 📝 Performance-Goal-Orientation.md
+├── 📝 Performance-Goal.md
+├── 📝 Performance-Goals.md
+├── 📝 Performance-Phase.md
+├── 📝 Person-A.md
+├── 📝 Person-B.md
+├── 📝 Personal-Development.md
+├── 📝 Personal-Knowledge-Base.md
+├── 📝 Personal-Knowledge-Management-Systems-and-Spaced-Repetition.md
+├── 📝 Personal-Knowledge-Management.md
+├── 📝 Personal-Learning-Environments.md
+├── 📝 Personal-Responsibility-Orientation.md
+├── 📝 Personal-Workflow-Architecture.md
+├── 📝 Perspective-Taking-Failures.md
+├── 📝 Peter-Facione.md
+├── 📝 Peter-Lipton.md
+├── 📝 Peter-Sterling.md
+├── 📝 Peter-Wason.md
+├── 📝 Phantasia.md
+├── 📝 Phase-vs.-Area-—-A-Critical-Distinction.md
+├── 📝 Phase-vs.-Area-A-Critical-Distinction.md
+├── 📝 Phenomenal-Self-Model.md
+├── 📝 Phenomenological-Substitution.md
+├── 📝 phenomenology.md
+├── 📝 Philip-Candy.md
+├── 📝 Philip-Converse.md
+├── 📝 Philip-Johnson-Laird.md
+├── 📝 Philip-Tetlock.md
+├── 📝 Philip-Winne.md
+├── 📝 Philosophical-Lineage.md
+├── 📝 Philosophy-for-Children-P4C-—-Lipman's-Programme.md
+├── 📝 Philosophy-of-Agency.md
+├── 📝 philosophy-of-mind.md
+├── 📝 philosophy-of-science.md
+├── 📝 philosophy.md
+├── 📝 Phonological-Awareness-and-Fluency-Development.md
+├── 📝 Phonological-Loop.md
+├── 📝 Phonological-LoopPhonological-Loop.md
+├── 📝 Phronesis.md
+├── 📝 Physiological-Metacognition-Formal-Definition.md
+├── 📝 Physiological-Metacognition.md
+├── 📝 Piaget.md
+├── 📝 Piaget's-Constructivism.md
+├── 📝 Piaget's-Developmental-Stages.md
+├── 📝 Piaget's-Perturbation-Accommodation-Equilibration-Cycle.md
+├── 📝 Pierre-Hadot.md
+├── 📝 Pintrich.md
+├── 📝 Pintrich's-4×4-Matrix.md
+├── 📝 Pintrich's-44-Matrix.md
+├── 📝 Pintrich's-Integrative-SRL-Framework.md
+├── 📝 Pintrich's-Motivational-Integration.md
+├── 📝 pintrichs-framework-srl-focused-analysis-2026-03-23.md
+├── 📝 Pipeline-Stages.md
+├── 📝 pkb-&-pkm-moc.md
+├── 📝 PKB-Architecture.md
+├── 📝 PKB-Automation.md
+├── 📝 PKB-Design-for-Pre-Crystallization-Knowledge-States.md
+├── 📝 PKB.md
+├── 📝 PKM.md
+├── 📝 plasticity.md
+├── 📝 Plato.md
+├── 📝 Platonic-philosophy.md
+├── 📝 PNG.md
+├── 📝 Point-of-View.md
+├── 📝 Polanyian-Tacit-Knowing.md
+├── 📝 polis.md
+├── 📝 Political-Decision-Making.md
+├── 📝 political-heuristics.md
+├── 📝 Political-Philosophy.md
+├── 📝 political-polarization.md
+├── 📝 political-reasoning-decision-making-foundational-report-2026-03-06.md
+├── 📝 Political-Reasoning.md
+├── 📝 possible-worlds-semantics.md
+├── 📝 Power-Law-of-Practice.md
+├── 📝 PowerShell.md
+├── 📝 practical-philosophy-moc.md
+├── 📝 Pragmatic-Construction.md
+├── 📝 Pragmatic-Maxim.md
+├── 📝 Pragmatic-Reasoning-Schema.md
+├── 📝 Pragmatic-Reasoning-Schemas.md
+├── 📝 pragmatism.md
+├── 📝 Praxis.md
+├── 📝 Pre-Mortem-Analysis.md
+├── 📝 Pre-questioning.md
+├── 📝 Precision-Flexibility.md
+├── 📝 Precision-Weighting.md
+├── 📝 predicate-calculus.md
+├── 📝 Prediction-Error.md
+├── 📝 Prediction-Performance-Gap.md
+├── 📝 Predictive-Processing.md
+├── 📝 Preferred-Indifferent.md
+├── 📝 Preferred-Indifferents.md
+├── 📝 prefrontal-cortex.md
+├── 📝 Premise-Conclusion-Structure.md
+├── 📝 Previous-Concept.md
+├── 📝 priming.md
+├── 📝 Principle-of-Least-Privilege.md
+├── 📝 Principle-of-Truth.md
+├── 📝 Prior-Knowledge-Activation.md
+├── 📝 Prior-Knowledge.md
+├── 📝 Priority-Management.md
+├── 📝 Procedural-Knowledge.md
+├── 📝 Procedural-Memory.md
+├── 📝 procedural-metacognitive-knowledge.md
+├── 📝 Procedural-schemas.md
+├── 📝 Process-Praise.md
+├── 📝 Processing-Depth.md
+├── 📝 Productive-Failure.md
+├── 📝 Productive-Friction.md
+├── 📝 Productive-Struggle.md
+├── 📝 Productivity-Systems.md
+├── 📝 productivity.md
+├── 📝 Progressive-Approximation.md
+├── 📝 Progressive-Disclosure.md
+├── 📝 progressive-education.md
+├── 📝 Prohairesis.md
+├── 📝 Project-Alpha.md
+├── 📝 Project-Name.md
+├── 📝 Prokoptn.md
+├── 📝 Prokoptōn.md
+├── 📝 Prompt-Engineering-Fundamentals.md
+├── 📝 prompt-engineering-moc.md
+├── 📝 Prompt-Engineering-Specialist-Agent-v4.0.md
+├── 📝 Prompt-Engineering.md
+├── 📝 Prompt-Library-Management.md
+├── 📝 prompt-report-chain-of-thought-logic-2025122305.md
+├── 📝 prompt-report-self-consistency-complexity-based-consistency-202512250916.md
+├── 📝 Prompty-Asset-Class.md
+├── 📝 Propatheiai-The-Stoic-First-Movements.md
+├── 📝 Propatheiai.md
+├── 📝 Propositional-Representation.md
+├── 📝 Prosoche.md
+├── 📝 Prosody.md
+├── 📝 pseudoexpertise.md
+├── 📝 Pseudometacognition.md
+├── 📝 Psychological-Need-Satisfaction-and-Developmental-Trajectories.md
+├── 📝 Psychological-Safety-and-Basic-Needs-Environments-in-Educational-Settings.md
+├── 📝 Psychological-Safety-in-Learning-Environments.md
+├── 📝 Psychological-Safety.md
+├── 📝 psychological-well-being.md
+├── 📝 psychology.md
+├── 📝 Purpose-in-Reasoning.md
+├── 📝 Pyrrhonian-sceptics.md
+├── 📝 Python-Fundamentals.md
+├── 📝 quality-over-quantity-heuristic.md
+├── 📝 Query-Performance.md
+├── 📝 Question-at-Issue.md
+├── 📝 QuickAdd.md
+├── 📝 radical-constructivism.md
+├── 📝 Ralph-Hiemstra.md
+├── 📝 Rational-Nature.md
+├── 📝 Rationalism.md
+├── 📝 ReAct.md
+├── 📝 reading-fluency-automaticity-focused-analysis-2026-03-20.md
+├── 📝 Reading-Fluency.md
+├── 📝 Reasoning-Biases-and-Heuristics.md
+├── 📝 Reasoning-Types-in-Education.md
+├── 📝 Reasoning.md
+├── 📝 Recognition-Primed-Decision-Model.md
+├── 📝 Recognition-Primed-Decision-RPD-Model.md
+├── 📝 Reconstructive-Memory.md
+├── 📝 Recursive-Self-Authorship.md
+├── 📝 Recycle-Bin.md
+├── 📝 Red-Team-Thinking.md
+├── 📝 Redundancy-Effect.md
+├── 📝 Reeve.md
+├── 📝 reference-comprehensive-dataview-tasks-quieries-2025120204.md
+├── 📝 reference-comprehensive-excalidraw-and-markmind-2025121812.md
+├── 📝 reference-comprehensive-mcp-servers-2025122412.md
+├── 📝 reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2.md
+├── 📝 Reference-Note.md
+├── 📝 reference-technical-advanced-templater-note-templates-20251118225816.md
+├── 📝 Reflection-in-action.md
+├── 📝 Reflective-Equilibrium.md
+├── 📝 Reflective-Judgment-Model.md
+├── 📝 Reflective-Judgment.md
+├── 📝 Reflective-Practice.md
+├── 📝 Reflective-Thinking.md
+├── 📝 Reflexion.md
+├── 📝 Region-of-Proximal-Learning.md
+├── 📝 Regular-Expressions.md
+├── 📝 Regulation-of-Cognition.md
+├── 📝 Regulatory-Overhead.md
+├── 📝 Regulatory-Poverty.md
+├── 📝 Regulatory-Reflexivity-Problem.md
+├── 📝 Regulatory-Style.md
+├── 📝 Regulatory-Threshold.md
+├── 📝 Reinhard-Pekrun.md
+├── 📝 Reinhard-Pekrun's-Control-Value-Theory-of-achievement-emotions-provides-a-rich-a.md
+├── 📝 Related-Concept.md
+├── 📝 Related-Note.md
+├── 📝 related-notes.md
+├── 📝 Relatedness-Need.md
+├── 📝 Relatedness.md
+├── 📝 Relational-Emergent-Autonomy.md
+├── 📝 relationship-motivation-theory-focused-analysis-2026-03-13.md
+├── 📝 Relationship-Motivation-Theory.md
+├── 📝 Relationships-as-Motivational-Ecosystems-The-Bidirectional-Resource-Model.md
+├── 📝 Relative-Autonomy-Index.md
+├── 📝 relative-autonomy.md
+├── 📝 Reliabilism.md
+├── 📝 Repeated-Reading.md
+├── 📝 Replication-Crisis-in-Psychology.md
+├── 📝 report-01-the-inquiry-engine.md
+├── 📝 Report-01.md
+├── 📝 report-02-the-fallible-knower.md
+├── 📝 Report-02.md
+├── 📝 report-03-the-motivated-mind.md
+├── 📝 Report-03.md
+├── 📝 report-04-cognitive-scaffolding.md
+├── 📝 Report-04.md
+├── 📝 report-05-the-virtuous-reasoner.md
+├── 📝 Report-05.md
+├── 📝 report-06-taming-system-1.md
+├── 📝 Report-06.md
+├── 📝 report-07-the-self-directed-learner.md
+├── 📝 report-08-the-examined-life-in-practice.md
+├── 📝 report-09-the-embodied-thinker.md
+├── 📝 report-10-the-feeling-reasoner.md
+├── 📝 report-11-the-practical-reasoner.md
+├── 📝 report-13-the-predictive-mind.md
+├── 📝 report-15-the-examined-life-revisited.md
+├── 📝 Report-Generation-Prompt-Suite.md
+├── 📝 representativeness-heuristic.md
+├── 📝 Research-Context.md
+├── 📝 Research-Note.md
+├── 📝 Research-Question.md
+├── 📝 Reserve-Clause.md
+├── 📝 Restructuring.md
+├── 📝 Retrieval-Practice-and-the-Testing-Effect.md
+├── 📝 Retrieval-Practice-Effect.md
+├── 📝 Retrieval-Practice.md
+├── 📝 Retrieval-Writing.md
+├── 📝 Reward-Contingency-Types.md
+├── 📝 Richard-Anderson.md
+├── 📝 Richard-Atkinson.md
+├── 📝 Richard-Feynman.md
+├── 📝 Richard-Lazarus.md
+├── 📝 Richard-M.-Ryan.md
+├── 📝 Richard-Mayer.md
+├── 📝 Richard-Mayer's-Cognitive-Theory-of-Multimedia-Learning-CTML-is-the-most-systema.md
+├── 📝 Richard-Nisbett.md
+├── 📝 Richard-Paul.md
+├── 📝 Richard-Ryan.md
+├── 📝 Richard-Shiffrin.md
+├── 📝 Richard-West.md
+├── 📝 Risko-and-Gilbert.md
+├── 📝 RMT-as-the-Motivational-Infrastructure-of-Attachment-Security.md
+├── 📝 Robert-Abelson.md
+├── 📝 Robert-Bjork.md
+├── 📝 Robert-Bjork's-desirable-difficulties-research-demonstrates-that-several-instruc.md
+├── 📝 Robert-Ennis.md
+├── 📝 Robert-Rupert.md
+├── 📝 Robert-S.-Lockhart.md
+├── 📝 Robin-Warren.md
+├── 📝 robust-satisficing.md
+├── 📝 Roediger.md
+├── 📝 Roger-Brockett.md
+├── 📝 Roger-Martin.md
+├── 📝 Roger-Schank.md
+├── 📝 Roger-Shepard.md
+├── 📝 Rogers,-Kuiper,-and-Kirker.md
+├── 📝 Rolf-Zwaan.md
+├── 📝 Rote-memorization.md
+├── 📝 Routing-Decision-Factors.md
+├── 📝 RSVP.md
+├── 📝 Rubric.md
+├── 📝 Rumelhart.md
+├── 📝 Ruth-Byrne.md
+├── 📝 Satisfaction-Frustration-Asymmetry.md
+├── 📝 Satisficing.md
+├── 📝 Savings-in-Relearning.md
+├── 📝 Scaffold-Dependence.md
+├── 📝 Scaffolded-Fading.md
+├── 📝 Scaffolding-—-Instructional-Design.md
+├── 📝 Scaffolding-Instructional-Design.md
+├── 📝 Scaffolding.md
+├── 📝 scenario-planning.md
+├── 📝 scepticism.md
+├── 📝 Schank-and-Abelson.md
+├── 📝 Schema-Accommodation.md
+├── 📝 Schema-Attractor.md
+├── 📝 Schema-Automation-and-Fluency-Development.md
+├── 📝 Schema-Automation-in-Reading.md
+├── 📝 Schema-Automation.md
+├── 📝 Schema-Construction-Problem-—-Original-Analytical-Insight.md
+├── 📝 schema-construction-problem-focused-analysis-2026-03-22.md
+├── 📝 Schema-Construction.md
+├── 📝 Schema-Crystallization-Event.md
+├── 📝 schema-instantiation.md
+├── 📝 Schema-Progressive-Architecture.md
+├── 📝 Schema-Theory-and-Knowledge-Organization.md
+├── 📝 schema-theory-and-learning-foundational-report-2026-03-06.md
+├── 📝 Schema-Theory-and-Learning.md
+├── 📝 Schema-Theory-Bartlett,-Rumelhart.md
+├── 📝 schema-theory-dialectical-re-examination-2026-03-22.md
+├── 📝 Schema-Theory.md
+├── 📝 Schema.md
+├── 📝 Schemas-as-Soft-Cognitive-Attractors.md
+├── 📝 schemas.md
+├── 📝 Schwartz-&-Sharpe.md
+├── 📝 Schwarz-and-Clore.md
+├── 📝 Scientific-Method.md
+├── 📝 Scientific-Reasoning-in-Education.md
+├── 📝 Scientific-Reasoning.md
+├── 📝 SDL-as-Educational-Goal.md
+├── 📝 SDT-and-Formative-Assessment-Feedback-as-Informational-or-Controlling.md
+├── 📝 sdt-focused-analysis-2026-03-06.md
+├── 📝 SDT-Internalization-Continuum.md
+├── 📝 SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos.md
+├── 📝 sdt-srl-comparative-synthesis-2026-03-19.md
+├── 📝 SDT.md
+├── 📝 SDT's-Autonomy-Need.md
+├── 📝 SDT's-Regulatory-Continuum.md
+├── 📝 SDT's-universality-claim-—-that-the-three-needs-are-universal-in-their-importanc.md
+├── 📝 Secure-Base.md
+├── 📝 Selective-Attention.md
+├── 📝 self-actualization.md
+├── 📝 Self-Agent-Coordinator.md
+├── 📝 Self-Concordance-Model.md
+├── 📝 Self-Consistency.md
+├── 📝 Self-Determination-Theory-—-Focused-Analysis.md
+├── 📝 Self-Determination-Theory-—-Foundational-Overview.md
+├── 📝 Self-Determination-Theory-—-Foundational-Report.md
+├── 📝 Self-Determination-Theory-Deci-&-Ryan,-1985,-2000-is-the-dominant-motivational-f.md
+├── 📝 self-determination-theory-dialectical-re-examination-2026-03-19.md
+├── 📝 self-determination-theory-first-principles-report-2026-03-11.md
+├── 📝 self-determination-theory-focused-analysis-2026-03-19.md
+├── 📝 self-determination-theory-foundational-report-2026-03-11.md
+├── 📝 Self-Determination-Theory-Foundational-Report.md
+├── 📝 Self-Determination-Theory.md
+├── 📝 Self-Determination.md
+├── 📝 Self-Determined-Self-Regulation.md
+├── 📝 self-directed-learning-foundational-report-2026-03-11.md
+├── 📝 Self-Directed-Learning-Readiness-Scale.md
+├── 📝 Self-Directed-Learning.md
+├── 📝 Self-Directedness-—-Trait-or-Readiness-Sense.md
+├── 📝 Self-Directedness-Trait-or-Readiness-Sense.md
+├── 📝 Self-Efficacy-Theory-and-Academic-Achievement.md
+├── 📝 Self-Efficacy-Theory.md
+├── 📝 Self-Efficacy.md
+├── 📝 Self-Esteem.md
+├── 📝 Self-Explanation-Effect.md
+├── 📝 Self-Explanation-in-PKB-Practice.md
+├── 📝 self-explanation.md
+├── 📝 Self-Management.md
+├── 📝 Self-Monitoring.md
+├── 📝 Self-Reference-Effect.md
+├── 📝 Self-Reflection-Phase.md
+├── 📝 Self-Regulated-Learning-—-Focused-Analysis.md
+├── 📝 Self-Regulated-Learning-—-Foundational-Report.md
+├── 📝 Self-Regulated-Learning-—-SRL.md
+├── 📝 Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty.md
+├── 📝 self-regulated-learning-focused-analysis-2026-03-06.md
+├── 📝 Self-Regulated-Learning-SRL.md
+├── 📝 Self-Regulated-Learning.md
+├── 📝 Self-Regulation.md
+├── 📝 Semantic-Memory.md
+├── 📝 Semantic-Search.md
+├── 📝 Seneca.md
+├── 📝 sense-of-coherence.md
+├── 📝 Sensory-Memory.md
+├── 📝 Sergei-Kalyuga.md
+├── 📝 SHA-256.md
+├── 📝 Shallow-Processing.md
+├── 📝 Shannon-Information-Theory.md
+├── 📝 Shannon-Weaver-Information-Theory.md
+├── 📝 Shared-vs.-Personal-Agents.md
+├── 📝 Shiffrin-and-Schneider-Two-Process-Theory.md
+├── 📝 Short-Term-Memory.md
+├── 📝 Siemer,-Mauss,-and-Gross.md
+├── 📝 Signal-Threshold-Failure.md
+├── 📝 silent-reading-critical-analysis-focused-analysis-2026-03-21.md
+├── 📝 silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md
+├── 📝 Silent-Reading-Fluency.md
+├── 📝 Silent-Reading-Rate.md
+├── 📝 Simon's.md
+├── 📝 Simple-View-of-Reading.md
+├── 📝 Single-Loop-Learning-vs.-Double-Loop-Learning.md
+├── 📝 Single-Loop-Learning.md
+├── 📝 Situated-Cognition.md
+├── 📝 Situated-Learning-Theory.md
+├── 📝 Situated-Learning.md
+├── 📝 Situation-Model.md
+├── 📝 Situation-Models-in-Text-Comprehension.md
+├── 📝 Situation-Models-van-Dijk-&-Kintsch.md
+├── 📝 Situation-Models.md
+├── 📝 Situation-ModelSituation-Model.md
+├── 📝 Skepticism.md
+├── 📝 Sketch.excalidraw.md
+├── 📝 skill-acquisition-research.md
+├── 📝 Skill-Acquisition.md
+├── 📝 Skills-System.md
+├── 📝 Skills.md
+├── 📝 Sleep-and-Memory-Consolidation.md
+├── 📝 Slot-Default-Value.md
+├── 📝 Smart-Connections.md
+├── 📝 Social-Cognitive-Theory-—-Bandura.md
+├── 📝 Social-Epistemology.md
+├── 📝 Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring.md
+├── 📝 Social-Psychological-Interventions-in-Education.md
+├── 📝 Socially-Shared-Regulation.md
+├── 📝 Socio-Cognitive-Conflict.md
+├── 📝 Sociocultural-Approaches.md
+├── 📝 Socrates.md
+├── 📝 Socratic-Dialogue-on-Autonomy-and-Self-Determination.md
+├── 📝 Socratic-Dialogue-Report-Generator-v1.0.md
+├── 📝 Socratic-Dialogue-Report-Prompt.md
+├── 📝 Socratic-Dialogue-Report.md
+├── 📝 Socratic-Method.md
+├── 📝 Socratic-Questioning-Methodology.md
+├── 📝 Socratic-Questioning.md
+├── 📝 Socratic-Seminars-—-Design-and-Facilitation.md
+├── 📝 Soenens-&-Vansteenkiste-2011.md
+├── 📝 Software-Engineering-Workflows.md
+├── 📝 Somatic-Marker-Hypothesis.md
+├── 📝 Somatic-Marker.md
+├── 📝 Somatic-Markers.md
+├── 📝 Soundness.md
+├── 📝 Sources-of-Knowledge.md
+├── 📝 spaced-practice.md
+├── 📝 Spaced-Repetition-Spacing-Effect.md
+├── 📝 Spaced-Repetition-Systems.md
+├── 📝 Spaced-Repetition.md
+├── 📝 Spacing-Effect.md
+├── 📝 Spatial-Cognition.md
+├── 📝 speech-act-theory.md
+├── 📝 Split-Attention-Effect.md
+├── 📝 Sports-Psychology.md
+├── 📝 Spreading-Activation.md
+├── 📝 SRL-Assessment-Methods-and-Measurement-Challenge.md
+├── 📝 Stage-Characteristics-and-Training-Implications.md
+├── 📝 Standard-Model-of-Consolidation.md
+├── 📝 Standard-Template-Metadata.md
+├── 📝 Stanovich.md
+├── 📝 State-Management-Approaches.md
+├── 📝 State-Management-Protocols.md
+├── 📝 Statistical-Learning-Theory.md
+├── 📝 Status-quo-bias.md
+├── 📝 Stella-Vosniadou.md
+├── 📝 Stephen-Brookfield.md
+├── 📝 Stephen-Fleming.md
+├── 📝 Stereotype-Threat.md
+├── 📝 Stewart-Cohen.md
+├── 📝 Stewart-Hase.md
+├── 📝 Stoic-Askēsis.md
+├── 📝 Stoic-Evening-Meditation.md
+├── 📝 Stoic-Philosophy.md
+├── 📝 Stoic-Prohairesis.md
+├── 📝 Stoic-Prosoche.md
+├── 📝 Stoic-Virtue-Ethics.md
+├── 📝 stoicism-codebase-pack.md
+├── 📝 Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts.md
+├── 📝 Stoicism.md
+├── 📝 Stone-1983.md
+├── 📝 Strategic-Planning.md
+├── 📝 Straw-Man.md
+├── 📝 Stream-of-Consciousness.md
+├── 📝 Striatum.md
+├── 📝 String-Manipulation.md
+├── 📝 Structural-Analogue (1).md
+├── 📝 Structural-Analogue (2).md
+├── 📝 Structural-Analogue.md
+├── 📝 Structural-Mapping-Theory.md
+├── 📝 Structure-Mapping-Theory.md
+├── 📝 Subagents-vs.-Coordinator.md
+├── 📝 subjective-mental-effort-ratings.md
+├── 📝 subliminal-perception.md
+├── 📝 Subsequent-Memory-Effect.md
+├── 📝 Subsumer-Anchoring-Idea.md
+├── 📝 Subtopic-A.md
+├── 📝 Subtopic-B.md
+├── 📝 Summative-Assessment.md
+├── 📝 Sunk-cost-fallacy.md
+├── 📝 Sunkatathesis.md
+├── 📝 Surveillance.md
+├── 📝 Susan-Haack.md
+├── 📝 Symbolic-Logic.md
+├── 📝 Synaptic-Consolidation.md
+├── 📝 Synkatathesis-Assent-and-the-Stoic-Gap.md
+├── 📝 Synkatathesis.md
+├── 📝 Synthetic-Model.md
+├── 📝 System-1-and-System-2.md
+├── 📝 System-1-System-2.md
+├── 📝 System-1.md
+├── 📝 System-2-Thinking.md
+├── 📝 System-2.md
+├── 📝 system-justification-theory.md
+├── 📝 Systems-Consolidation.md
+├── 📝 Tacit-Knowledge-Polanyi.md
+├── 📝 Tacit-Knowledge.md
+├── 📝 TARGET-Framework.md
+├── 📝 Task-1.md
+├── 📝 Task-2.md
+├── 📝 Task-3.md
+├── 📝 Task-Involvement.md
+├── 📝 Task-Management.md
+├── 📝 TASK-Query-Type-Fundamentals.md
+├── 📝 Task-Value.md
+├── 📝 Tasks-Plugin.md
+├── 📝 Tasks.md
+├── 📝 technical-debt.md
+├── 📝 Teleological-Directionality.md
+├── 📝 Template-Engineering.md
+├── 📝 Template-System.md
+├── 📝 Templater.md
+├── 📝 Temporal-Queries.md
+├── 📝 Testing-Effect-Retrieval-Practice-Effect.md
+├── 📝 Testing-Effect.md
+├── 📝 Text-Generator-Plugin-Complete-API-Interface-Reference.md
+├── 📝 Text-Generator-Plugin.md
+├── 📝 text-structure.md
+├── 📝 Textbase.md
+├── 📝 Textual-Analysis.md
+├── 📝 The-Abductive-Syllogism.md
+├── 📝 The-Analogy-First-Instructional-Principle.md
+├── 📝 The-Articulatory-Construction-Principle.md
+├── 📝 The-Asymmetry-Thesis-as-a-General-Principle-for-Environment-Design.md
+├── 📝 The-attainment-paradox-in-GCT-and-the-hedonic-adaptation-phenomenon-in-positive.md
+├── 📝 The-Bandwidth-Expansion-vs.-Bandwidth-Compression-Distinction-as-a-Diagnostic-Fr.md
+├── 📝 The-Bias-Virtue-Correspondence.md
+├── 📝 The-Bootstrapping-Constraint.md
+├── 📝 The-Construction-Activation-Asymmetry-as-Schema-Theory's-Productive-Frontier.md
+├── 📝 The-Critical-Lens.md
+├── 📝 The-Elements-of-Thought-Fundamental-Structures-of-Reasoning.md
+├── 📝 The-emergence-of-adaptive-learning-systems,-AI-tutors,-gamified-platforms,-and-l.md
+├── 📝 The-Empirical-Lens.md
+├── 📝 The-Encoding-Specificity-Principle-and-PKB-Retrieval-Design.md
+├── 📝 The-Epistemic-Status-of-Notes-as-Process-Artifacts.md
+├── 📝 The-Evolution-of-Selective-Attention-Theory-From-Broadbent's-Filter-to-Late-Sele.md
+├── 📝 The-expertise-reversal-effect-demands-adaptive-instruction,-but-how-to-build-sys.md
+├── 📝 The-faded-worked-example-paradigm-represents-the-most-operationally-specific-and.md
+├── 📝 The-Fallibilist-Constructivist-Epistemological-Posture.md
+├── 📝 The-Fluency-Illusion-in-Knowledge-Management.md
+├── 📝 The-Fluency-Illusion.md
+├── 📝 The-Fluency-Metacognition-Paradox-Instructional-Implications.md
+├── 📝 The-Fluency-Metacognition-Paradox.md
+├── 📝 The-Fluency-Trap (1).md
+├── 📝 The-Fluency-Trap.md
+├── 📝 The-Four-Question-Generativity-Diagnostic.md
+├── 📝 The-Fourfold-Motivational-Architecture-for-PKB-Design.md
+├── 📝 The-Friction-Architecture-of-Learning-Through-Writing.md
+├── 📝 The-GCA-in-Non-Reading-Domains-A-Transfer-Investigation.md
+├── 📝 The-Generation-Effect.md
+├── 📝 The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading.md
+├── 📝 The-Generative-Constraint.md
+├── 📝 The-Generativity-Diagnostic.md
+├── 📝 The-Gettier-Problem.md
+├── 📝 The-Governed-Attentional-Gap.md
+├── 📝 The-Historical-and-Intellectual-Origins-of-Stoicism.md
+├── 📝 The-Impersonal-Orientation-—-Learned-Helplessness,-Amotivation,-and-Clinical-Cor.md
+├── 📝 The-informal-discussion-group-meeting-in-Cambridge,-Massachusetts-in-early-1870s.md
+├── 📝 The-Infrastructure-Model-of-Metacognitive-Skill.md
+├── 📝 The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper.md
+├── 📝 The-Integration-Paradox-as-a-Design-Constraint.md
+├── 📝 The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces.md
+├── 📝 The-Integration-Paradox.md
+├── 📝 The-integration-proposed-in-Phase-VI's-second-original-synthesis-would-be-develo.md
+├── 📝 The-Internalization-Continuum.md
+├── 📝 The-Internalization-Metabolism-Model.md
+├── 📝 The-Interpretive-Filter-Model-of-Functional-Significance.md
+├── 📝 The-Learning-Metabolism-Framework.md
+├── 📝 The-Metacognitive-Monitoring-analysis-in-this-report-identifies-comprehension-mo.md
+├── 📝 The-Metacognitive-Scaffolding-Design-Triangle.md
+├── 📝 The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel.md
+├── 📝 The-Monitoring-Control-Model.md
+├── 📝 The-Motivational-Compounding-Model.md
+├── 📝 The-Motivational-Regulatory-Architecture-of-Learning.md
+├── 📝 The-MULTI-AGENT-PLAN.md-Pattern.md
+├── 📝 The-Nelson-Narens-Monitoring-Control-Model.md
+├── 📝 The-Organismic-Dialectical-Perspective.md
+├── 📝 The-Parity-Principle.md
+├── 📝 The-Philosophical-Lens.md
+├── 📝 The-Power-of-Habit.md
+├── 📝 The-Practical-Lens.md
+├── 📝 The-Predictive-Mind.md
+├── 📝 The-Problem-of-Induction.md
+├── 📝 The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism (1).md
+├── 📝 The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism (2).md
+├── 📝 The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism (3).md
+├── 📝 The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism.md
+├── 📝 The-Reconceived-Universality-Thesis-Needs-as-Vulnerability-Structures-Rather-Tha.md
+├── 📝 The-Reconstructed-SDT-A-Motivational-Vulnerability-and-Resilience-Framework.md
+├── 📝 The-Regulatory-Reflexivity-Problem-A-Novel-Framing.md
+├── 📝 The-Regulatory-Spectrum.md
+├── 📝 The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction.md
+├── 📝 The-Schema-Disruption-Pedagogical-Inversion.md
+├── 📝 The-Schema-Progressive-Architecture-for-PKB-Design.md
+├── 📝 The-Seven-Intellectual-Traits.md
+├── 📝 The-Situation-Model-in-Knowledge-Management.md
+├── 📝 The-Situation-Modelsituation-model-is-the-gold-standard-for-reading-comprehensio.md
+├── 📝 The-SRL-Cycle-as-a-Calibration-Engine.md
+├── 📝 The-Stoic-Core-Insight.md
+├── 📝 The-Structural-Metacognition-Principle.md
+├── 📝 The-Three-Orientation-System-as-a-Developmental-Risk-Architecture.md
+├── 📝 The-Three-Tier-Monitoring-Architecture-Model.md
+├── 📝 The-Tier-1-Structural-Limitation.md
+├── 📝 The-Undermining-Effect.md
+├── 📝 The-Zimmerman-Cycle-as-Normative-Architecture-and-Design-Target.md
+├── 📝 theoretical-wisdom.md
+├── 📝 Theory-Construction.md
+├── 📝 Theory-Evidence-Coordination.md
+├── 📝 Theory-Ladenness-of-Observation.md
+├── 📝 Theory-of-Constructed-Emotion.md
+├── 📝 Thinking-Tag-Semantics.md
+├── 📝 Thinking,-Fast-and-Slow.md
+├── 📝 This-analysis-repeatedly-flagged-the-need-thwarting-need-deprivation-asymmetry-a.md
+├── 📝 This-analysis-would-drill-into-Reeve's-ISLE-Internally-Structured-Learning-Envir.md
+├── 📝 This-expansion-addresses-the-Dunning-Kruger-phenomenon-and-related-research-on-t.md
+├── 📝 This-expansion-examines-the-developmental-pathways-through-which-chronic-need-sa.md
+├── 📝 This-expansion-topic-follows-the-far-transfer-direction-applies-the-Bottleneck-L.md
+├── 📝 This-expansion-would-provide-a-rigorous-treatment-of-calibration-—-the-alignment.md
+├── 📝 This-treatment-of-William-James's-psychology-of-habit-suggests-numerous-directio.md
+├── 📝 Thomas-Kuhn.md
+├── 📝 Thomas-Metzinger.md
+├── 📝 Thomasma.md
+├── 📝 Three-Tier-Monitoring-Architecture.md
+├── 📝 Tier-1-—-Epistemic-Architecture.md
+├── 📝 Tier-1.md
+├── 📝 Tier-2-—-Practical-Architecture.md
+├── 📝 Tier-3-—-Integrative-Architecture.md
+├── 📝 Tight-Loop-Assumption.md
+├── 📝 Tim-Kasser.md
+├── 📝 Tim-van-Gelder.md
+├── 📝 Time-Blocking-Methodology.md
+├── 📝 Tiny-Habits.md
+├── 📝 Tokens.md
+├── 📝 Tool-Access-Patterns.md
+├── 📝 Tool-Permission-Grammar.md
+├── 📝 top-down-processing.md
+├── 📝 Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr.md
+├── 📝 Topic-Autonomy-and-Agency-—-A-Philosophical-Dialogue-Report-Type-Socratic-Dialog.md
+├── 📝 Topic-Goal-Climate-Design-in-Educational-Environments-Report-Type-Foundational-R.md
+├── 📝 Topic-Mastery-Experience-Architecture-in-Instructional-Design-Report-Type-First.md
+├── 📝 Topic-SDT-Across-Cultures-—-Universality,-Variation,-and-Cultural-Psychology-Rep.md
+├── 📝 Topic-The-Competence-Need-—-Effectance,-Flow,-and-Challenge-Skill-Balance-Report.md
+├── 📝 Topic-The-Replication-Crisis-and-Psychological-Intervention-Science-Report-Type.md
+├── 📝 Topic-The-Undermining-Effect-—-Replication-Crisis-and-Reconceptualisation-Report.md
+├── 📝 topics-prompt.md
+├── 📝 Toward-an-Expertise-Indexed-Instructional-Design-Principle.md
+├── 📝 Tracker-Plugin.md
+├── 📝 Transfer-Appropriate-Processing.md
+├── 📝 Transfer-of-Learning-and-Deductive-Skill.md
+├── 📝 Transfer-of-Learning-and-Near-vs.-Far-Transfer.md
+├── 📝 Transfer-of-Learning.md
+├── 📝 Transfer.md
+├── 📝 Transformative-Learning.md
+├── 📝 Transformer-Architecture.md
+├── 📝 Transient-Hypofrontality.md
+├── 📝 Tree-of-Thoughts-Framework.md
+├── 📝 Tree-of-Thoughts.md
+├── 📝 Tyler-Burge.md
+├── 📝 Type-1-Processing.md
+├── 📝 Type-2-Processing.md
+├── 📝 types-of-reasoning-foundational-report-2026-03-05.md
+├── 📝 Umberto-Eco.md
+├── 📝 Undermining-Effect.md
+├── 📝 understanding.md
+├── 📝 Undifferentiated-Conception-of-Ability.md
+├── 📝 Universal-Need.md
+├── 📝 Unix-Philosophy.md
+├── 📝 URL.md
+├── 📝 VADER-Academic-Report-Generator-v4.0.md
+├── 📝 Validity-and-Soundness.md
+├── 📝 Validity.md
+├── 📝 Value-Assessments.md
+├── 📝 Vansteenkiste,-Lens,-&-Deci-2006.md
+├── 📝 Vansteenkiste's-experimental-findings-have-direct-and-underexplored-applications.md
+├── 📝 variation-practice.md
+├── 📝 Vehicle-Externalism.md
+├── 📝 Ventromedial-Prefrontal-Cortex.md
+├── 📝 Verbal-Efficiency-Theory.md
+├── 📝 Viability.md
+├── 📝 Victoria-Sisk.md
+├── 📝 Virtue-Epistemology.md
+├── 📝 Virtue-Ethics.md
+├── 📝 Virtue.md
+├── 📝 Visual-PKM.md
+├── 📝 Visual-Studio-Code.md
+├── 📝 Visual-Thinking.md
+├── 📝 Visuospatial-Sketchpad.md
+├── 📝 Vocabulary-Acquisition-for-Reading-Automaticity.md
+├── 📝 Volitional-Congruence.md
+├── 📝 VS-Code.md
+├── 📝 Vygotsky.md
+├── 📝 Vygotsky's-Zone-of-Proximal-Development.md
+├── 📝 W.V.O.-Quine.md
+├── 📝 Walter-Kintsch.md
+├── 📝 Wang-et-al.-2022.md
+├── 📝 Wang-et-al..md
+├── 📝 warranted-assertibility.md
+├── 📝 Wason-Selection-Task.md
+├── 📝 Watson-Glaser-Critical-Thinking-Appraisal.md
+├── 📝 Weak-Sense-vs.-Strong-Sense-Critical-Thinking.md
+├── 📝 Webb's-Depth-of-Knowledge.md
+├── 📝 Wei-et-al.-2022.md
+├── 📝 WEIRD-Sample-Bias.md
+├── 📝 what-does-it-mean-to-truley-understand-something-2026-03-10.md
+├── 📝 What-is-Frontmatter.md
+├── 📝 WHERE-Clause.md
+├── 📝 wiki-link.md
+├── 📝 wiki-links.md
+├── 📝 William-James.md
+├── 📝 Williams-et-al.-2009.md
+├── 📝 Williams,-Deci,-and-colleagues.md
+├── 📝 Wim-De-Neys.md
+├── 📝 Windows-Terminal.md
+├── 📝 WinMerge.md
+├── 📝 Winne-&-Hadwin's-Metacognitive-Processing-Model.md
+├── 📝 Winne-and-Hadwin.md
+├── 📝 Wisconsin-Card-Sorting-Task.md
+├── 📝 Wise-Interventions-Walton-&-Wilson.md
+├── 📝 Wise-Interventions.md
+├── 📝 Woloshyn,-Pressley-&-Schneider-1992.md
+├── 📝 work-life-balance.md
+├── 📝 Worked-Example-Effect.md
+├── 📝 Worked-Examples.md
+├── 📝 Working-Memory-—-Baddeley-Model.md
+├── 📝 Working-Memory-and-Long-Term-Memory-in-CLT.md
+├── 📝 Working-Memory-Capacity.md
+├── 📝 Working-Memory-in-Reading.md
+├── 📝 Working-Memory.md
+├── 📝 writing-techniques-effective-learning-focused-analysis-2026-03-21.md
+├── 📝 writing-to-learn-focused-analysis-2026-03-21.md
+├── 📝 Writing-to-Learn.md
+├── 📝 XML.md
+├── 📝 YAML-Frontmatter.md
+├── 📝 YAML-Syntax.md
+├── 📝 YAML.md
+├── 📝 Zettelkasten.md
+├── 📝 zimmerman-cyclical-srl-focused-analysis-2026-03-23.md
+├── 📝 Zimmerman-SRL-Model.md
+├── 📝 Zimmerman.md
+├── 📝 Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning.md
+├── 📝 Zimmerman's-Cyclical-Model-of-Self-Regulation.md
+├── 📝 Zimmerman's-Cyclical-SRL-Model.md
+├── 📝 Zimmerman's-Three-Phase-SRL-Cycle.md
+├── 📝 zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23.md
+├── 📝 ZIP.md
+├── 📝 Ziva-Kunda.md
+├── 📝 Zone-of-Proximal-Development.md
+├── 📝 Zotero.md
+└── 📝 Zsolt-Viczian.md
