@@ -77,13 +77,16 @@ see-also:
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Self-Determination]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Perceived-Locus-of-Causality|perceived locus of causality]]"
   - "[[Perceived-Competence|perceived competence]]"
+  - "[[Self-Determination]]"
   - "[[speech-act-theory|speech act theory]]"
   - "[[Gamification]]"
   - "[[Autonomy-Orientation|autonomy orientation]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Control-Orientation|control orientation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
 
@@ -262,22 +265,6 @@ importance: high
 **Related concepts:**
 [[CET]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[SDT]] · [[Intrinsic-Motivation|intrinsic motivation]] · [[Functional-Significance|functional significance]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Self-Determination]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Perceived-Locus-of-Causality|perceived locus of causality]] · [[Perceived-Competence|perceived competence]] · [[Self-Determination]] · [[speech-act-theory|speech act theory]] · [[Gamification]] · [[Autonomy-Orientation|autonomy orientation]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Control-Orientation|control orientation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Attribution-Theory|Attribution Theory]] · [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] · [[Attribution-Theory|attribution theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]] · [[Expectancy-Value-Theory|Expectancy-Value Theory]] · [[Growth-Mindset-and-CET|Growth Mindset and CET]] · [[Gamification-in-Educational-Contexts|Gamification in Educational Contexts]] · [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
 
-**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[Functional-Significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Locus-of-Causality|perceived locus of causality]] * [[speech-act-theory|speech act theory]] * [[Autonomy-Orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Control-Orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] * [[Feedback-Effects-on-Motivation-and-Learning|Feedback Effects on Motivation and Learning]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Growth-Mindset-and-CET|Growth Mindset and CET]] * [[Gamification-in-Educational-Contexts|Gamification in Educational Contexts]] * [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[speech-act-theory|speech act theory]]
-
-**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Attribution-Theory|Attribution Theory]]
-- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
-
-
-
-
 ## References
 
 - **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105–115.**: The foundational experimental study establishing the undermining effect with monetary rewards and Soma puzzle performance. While methodologically modest by contemporary standards, this study launched a 50-year research programme. Its value for this report is as the original empirical instantiation of the claim that extrinsic rewards can reduce subsequent free-choice engagement with intrinsically interesting activities.
@@ -293,39 +280,6 @@ importance: high
 - **Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.**: The foundational text for speech act theory. Included in this report's reference list because of the analytical connection drawn in Phase IV between CET's functional significance concept and Austin's distinction between locutionary, illocutionary, and perlocutionary acts. Specifically: the idea that an utterance's meaning is not in its propositional content but in the social act it performs maps precisely onto CET's claim that an external event's motivational effect is not in its structural properties but in the psychological function it performs.
 
 *Citations sourced from [[cognitive-evaluation-theory-focused-analysis-2026-03-13]]*
-
-- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105–115.**: The foundational experimental study establishing the undermining effect with monetary rewards and Soma puzzle performance. While methodologically modest by contemporary standards, this study launched a 50-year research programme. Its value for this report is as the original empirical instantiation of the claim that extrinsic rewards can reduce subsequent free-choice engagement with intrinsically interesting activities.
-
-- **Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis. *Journal of Personality and Social Psychology*, 28(1), 129–137.**: The paradigmatic overjustification study with preschool children and drawing materials. Methodologically important because it used a naturalistic observation measure (classroom free play) rather than laboratory free choice, providing greater ecological validity. The unexpected-reward control condition is particularly important for CET's theoretical interpretation.
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.**: The theoretical monograph that articulates Cognitive Evaluation Theory as a formal sub-theory and situates it within SDT. The most important primary source for understanding CET's conceptual architecture, including the functional significance concept, the two-pathway model, and the taxonomy of ambient conditions. Essential reading for anyone working seriously with CET.
-
-- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research*, 64(3), 363–423.**: The controversial meta-analysis arguing that rewards do not reliably undermine intrinsic motivation. Important as a cautionary methodological counterweight to uncritical acceptance of CET's claims. This report treats Cameron and Pierce's work not as refuting CET but as demonstrating the sensitivity of meta-analytic conclusions to coding and modelling decisions — and as providing useful disaggregation of reward types.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The comprehensive meta-analysis of 128 studies that provides the strongest evidence base for CET. The disaggregated findings by reward contingency type (engagement-contingent, completion-contingent, performance-contingent, verbal) are particularly important for instructional design applications. The exchange with Cameron and Pierce in the same issue of Psychological Bulletin is essential reading for understanding the limits of meta-analytic evidence.
-
-- **Lepper, M. R., & Greene, D. (1975). Turning play into work: Effects of adult surveillance and extrinsic rewards on children's intrinsic motivation. *Journal of Personality and Social Psychology*, 31(3), 479–486.**: The surveillance study showing that adult observation alone — without rewards or explicit evaluation — reduces intrinsic motivation. Important for this report because it demonstrates that the controlling functional significance can be activated without any formal reward structure, with implications for the design of digital learning environments and monitoring systems.
-
-- **Harackiewicz, J. M., & Manderlink, G. (1984). A process analysis of the effects of performance-contingent rewards on intrinsic motivation. *Journal of Experimental Social Psychology*, 20(6), 531–551.**: Distinguishes between ego-involving and task-involving performance feedback in the context of performance-contingent rewards. Shows that the same performance-contingent reward can either undermine (when delivered with ego-involving framing) or protect (when delivered with task-involving, informational framing) intrinsic motivation. Critical for understanding why the meta-analytic effects for performance-contingent rewards are smaller and more variable than for task-contingent rewards.
-
-- **Ryan, R. M., Mims, V., & Koestner, R. (1983). Relation of reward contingency and interpersonal context to intrinsic motivation: A review and test using cognitive evaluation theory. *Journal of Personality and Social Psychology*, 45(4), 736–750.**: Examines the interaction between reward contingency and the relational context in which rewards are administered. Demonstrates that performance-contingent rewards can enhance intrinsic motivation when administered in an autonomy-supportive interpersonal context and with explicitly informational language — providing important nuance for instructional applications.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: Comprehensive theoretical synthesis of SDT including CET, situating the theory within broader human motivation research and responding to critics. Particularly useful for understanding how CET connects to the other SDT mini-theories (Basic Psychological Needs Theory, Causality Orientations Theory, Organismic Integration Theory) and for understanding the empirical status of the basic needs postulate.
-
-- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist*, 41(1), 19–31.**: Extends CET into the educational domain, examining how intrinsic versus extrinsic goal framing (not just reward structures) affects the quality of motivation and learning outcomes. Shows that learning activities framed around intrinsic goals (curiosity, mastery, personal relevance) produce better outcomes than the same activities framed around extrinsic goals (grades, approval, performance) — consistent with CET's functional significance mechanism.
-
-- **Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.**: The foundational text for speech act theory. Included in this report's reference list because of the analytical connection drawn in Phase IV between CET's functional significance concept and Austin's distinction between locutionary, illocutionary, and perlocutionary acts. Specifically: the idea that an utterance's meaning is not in its propositional content but in the social act it performs maps precisely onto CET's claim that an external event's motivational effect is not in its structural properties but in the psychological function it performs.
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

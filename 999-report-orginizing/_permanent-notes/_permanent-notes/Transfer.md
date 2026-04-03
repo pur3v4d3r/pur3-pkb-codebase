@@ -72,9 +72,12 @@ see-also:
   - "[[Metacognition]]"
   - "[[Critical-Thinking|Critical thinking]]"
   - "[[John-Hattie|John Hattie]]"
+  - "[[Metacognition]]"
   - "[[John-H.-Flavell|John H. Flavell]]"
   - "[[John-Dewey|John Dewey]]"
+  - "[[Metacognition]]"
   - "[[Ann-Brown|Ann Brown]]"
+  - "[[Critical-Thinking|Critical thinking]]"
   - "[[Socrates]]"
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[Delphi-Report|Delphi Report]]"
@@ -82,6 +85,7 @@ see-also:
   - "[[Immanuel-Kant|Immanuel Kant]]"
   - "[[William-James|William James]]"
   - "[[Edmund-Husserl|Edmund Husserl]]"
+  - "[[John-Dewey|John Dewey]]"
   - "[[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]]"
   - "[[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]"
   - "[[Richard-Paul|Richard Paul]]"
@@ -207,24 +211,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[Critical-Thinking|Critical thinking]] · [[John-Hattie|John Hattie]] · [[Metacognition]] · [[John-H.-Flavell|John H. Flavell]] · [[John-Dewey|John Dewey]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]] · [[Critical-Thinking|Critical thinking]] · [[Socrates]] · [[Robert-Ennis|Robert Ennis]] · [[Delphi-Report|Delphi Report]] · [[Peter-Facione|Peter Facione]] · [[Immanuel-Kant|Immanuel Kant]] · [[William-James|William James]] · [[Edmund-Husserl|Edmund Husserl]] · [[John-Dewey|John Dewey]] · [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] · [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] · [[Richard-Paul|Richard Paul]] · [[Linda-Elder|Linda Elder]] · [[Donald-Schön|Donald Schön]] · [[John-Mason|John Mason]] · [[Keith-Stanovich|Keith Stanovich]] · [[dysrationalia]] · [[Patricia-King|Patricia King]] · [[Karen-Kitchener|Karen Kitchener]] · [[Reflective-Judgment-Model|Reflective Judgment Model]] · [[Critical-Thinking|Critical thinking]] · [[Vygotsky]]
 
-**Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
-[[Critical-Thinking|Critical thinking]] * [[John-Hattie|John Hattie]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]] * [[John-Mason|John Mason]] * [[Keith-Stanovich|Keith Stanovich]] * [[Patricia-King|Patricia King]] * [[Karen-Kitchener|Karen Kitchener]] * [[Reflective-Judgment-Model|Reflective Judgment Model]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[Domain-Knowledge|domain knowledge]] * [[Reflection-in-action|Reflection-in-action]] * [[Gregory-Yates|Gregory Yates]] * [[Paul-Elder-Framework|Paul-Elder framework]] * [[Desirable-Difficulties|desirable difficulties]] * [[King-and-Kitchener|King and Kitchener]] * [[Self-Regulated-Learning|self-regulated learning]] * [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-
-**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Reflective-Practice|Reflective Practice]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-
-**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Reflective-Practice|Reflective Practice]]
-- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-
-
-
-
 ## References
 
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
@@ -237,54 +223,6 @@ importance: high
 - **Stanovich, K. E. (2010). *Rationality and the Reflective Mind*. Oxford University Press.**: Stanovich's analysis of the distinction between algorithmic and reflective mind processes, and the investigation of "dysrationalia" — systematic reasoning failures in intelligent individuals. Important for understanding the limits of metacognitive monitoring and the role of intellectual dispositions. Supports Phase III counter-argument and Phase V limitations.
 
 *Citations sourced from [[metacognition-and-critical-thinking-foundational-report-2026-03-05]]*
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
-
-- **Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding* (pp. 65–116). Lawrence Erlbaum Associates.**: Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
-
-- **Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. The California Academic Press.**: The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
-
-- **Paul, R., & Elder, L. (2020). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (4th ed.). Pearson.**: The most comprehensive practical treatment of the Paul-Elder Framework, presenting the elements of reasoning, intellectual standards, and intellectual traits in accessible form. Foundational for Phase III.
-
-- **Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.**: Introduces the distinction between reflection-in-action and reflection-on-action and the concept of knowing-in-action, applied across multiple professions. Foundational for understanding the temporal structure of metacognitive regulation in professional contexts. Supports Phase III.
-
-- **King, P. M., & Kitchener, K. S. (1994). *Developing Reflective Judgment: Understanding and Promoting Intellectual Growth and Critical Thinking in Adolescents and Adults*. Jossey-Bass.**: The comprehensive presentation of the Reflective Judgment Model, including the seven-stage developmental sequence, the evidence base, and implications for higher education instruction. Essential for understanding the developmental dimension of critical thinking. Supports Phase III and V.
-
-- **Hattie, J. (2009). *Visible Learning: A Synthesis of over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The landmark meta-analytic synthesis identifying metacognitive strategies among the highest-effect educational interventions (d=0.69). Provides the empirical foundation for the claim that metacognitive development is among the most high-leverage educational investments. Supports Phase I and V.
-
-- **Stanovich, K. E. (2010). *Rationality and the Reflective Mind*. Oxford University Press.**: Stanovich's analysis of the distinction between algorithmic and reflective mind processes, and the investigation of "dysrationalia" — systematic reasoning failures in intelligent individuals. Important for understanding the limits of metacognitive monitoring and the role of intellectual dispositions. Supports Phase III counter-argument and Phase V limitations.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
-
-- **Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding* (pp. 65–116). Lawrence Erlbaum Associates.**: Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
-
-- **Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. The California Academic Press.**: The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
-
-- **Paul, R., & Elder, L. (2020). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (4th ed.). Pearson.**: The most comprehensive practical treatment of the Paul-Elder Framework, presenting the elements of reasoning, intellectual standards, and intellectual traits in accessible form. Foundational for Phase III.
-
-- **Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.**: Introduces the distinction between reflection-in-action and reflection-on-action and the concept of knowing-in-action, applied across multiple professions. Foundational for understanding the temporal structure of metacognitive regulation in professional contexts. Supports Phase III.
-
-- **King, P. M., & Kitchener, K. S. (1994). *Developing Reflective Judgment: Understanding and Promoting Intellectual Growth and Critical Thinking in Adolescents and Adults*. Jossey-Bass.**: The comprehensive presentation of the Reflective Judgment Model, including the seven-stage developmental sequence, the evidence base, and implications for higher education instruction. Essential for understanding the developmental dimension of critical thinking. Supports Phase III and V.
-
-- **Hattie, J. (2009). *Visible Learning: A Synthesis of over 800 Meta-Analyses Relating to Achievement*. Routledge.**: The landmark meta-analytic synthesis identifying metacognitive strategies among the highest-effect educational interventions (d=0.69). Provides the empirical foundation for the claim that metacognitive development is among the most high-leverage educational investments. Supports Phase I and V.
-
-- **Stanovich, K. E. (2010). *Rationality and the Reflective Mind*. Oxford University Press.**: Stanovich's analysis of the distinction between algorithmic and reflective mind processes, and the investigation of "dysrationalia" — systematic reasoning failures in intelligent individuals. Important for understanding the limits of metacognitive monitoring and the role of intellectual dispositions. Supports Phase III counter-argument and Phase V limitations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

@@ -5,7 +5,6 @@
 title: "Master Definition Index"
 aliases:
   - "Definition Index"
-  - "Master-Definition-Index"
 type: index-note
 status: evergreen
 confidence: high
@@ -60,8 +59,8 @@ importance: high
 | Metric | Count |
 |--------|-------|
 | Total definitions | 675 |
-| With permanent note | 675 |
-| Missing permanent note | 0 |
+| With permanent note | 562 |
+| Missing permanent note | 113 |
 
 **By Domain:**
 
@@ -104,7 +103,7 @@ importance: high
 
 ## _#
 
-> [!definition] **# Definition** **[perm-note]**
+> [!definition] **# Definition** *[needs-note]*
 > [**Note Title**:: [[**AI Agent Coordination System: Implementation Guide**]]]
 > [**Prompt Used**:: ]
 > ##### [✅`= dateformat(this.file.ctime, "MMMM dd, yyyy")` - Initial Creation]
@@ -118,7 +117,7 @@ importance: high
 > *Source: self-determination-theory-focused-analysis-2026-03-19* | *Domain: motivational-psychology*
 > *Permanent Note: [[The-Organismic-Dialectical-Perspective]]*
 
-> [!definition] **2×2 Framework** **[perm-note]**
+> [!definition] **2×2 Framework** *[needs-note]*
 > A theoretical model of achievement goals that crosses two dimensions — goal content (mastery vs. performance) with motivational valence (approach vs. avoidance) — to yield four distinct goal types: mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance. Currently the dominant framework in the field, though contested regarding the adaptive potential of performance-approach goals.
 > 
 > *Source: achievement-goal-theory-foundational-report-2026-03-10* | *Domain: Other / Uncategorised*
@@ -130,625 +129,625 @@ importance: high
 > *Source: extended-mind-theory-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[4E-Cognition|4E Cognition]]*
 
-> [!definition] **📖 Accommodation** **[perm-note]**
+> [!definition] **📖 Accommodation** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Accommodation|📖 Accommodation]]*
 
-> [!definition] **📖 Allostasis** **[perm-note]**
+> [!definition] **📖 Allostasis** *[needs-note]*
 > The physiological process of achieving stability through change — a reconceptualization of homeostasis in which the body predictively anticipates demands and pre-emptively adjusts regulatory parameters to meet them, rather than reactively correcting deviations from fixed set-points. Developed by Peter Sterling and Joseph Eyer (1988) as a more accurate account of how physiological regulation actually works.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Allostasis|📖 Allostasis]]*
 
-> [!definition] **📖 Allostatic Load** **[perm-note]**
+> [!definition] **📖 Allostatic Load** *[needs-note]*
 > The cumulative physiological cost of sustained regulatory activity, particularly under conditions of chronic stress, poor sleep, or other repeated challenges. Operationalized through multi-system biomarker profiles including neuroendocrine (cortisol, DHEA-S), immune (CRP, IL-6), metabolic (glucose, HbA1c, waist-hip ratio), and cardiovascular (blood pressure, heart rate variability) measures.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Allostatic-Load|📖 Allostatic Load]]*
 
-> [!definition] **📖 Analysis Paralysis** **[perm-note]**
+> [!definition] **📖 Analysis Paralysis** *[needs-note]*
 > A decision-making failure mode in which excessive deliberation prevents action. Characterized by the self-perpetuating cycle of more analysis → less action → more justification for delay → more analysis. Cognitively grounded in loss aversion (Kahneman & Tversky), decisional fatigue, intolerance of uncertainty, and maximizing rather than satisficing orientations. The practical wisdom corrective is not to stop thinking but to recognize when additional analysis has ceased to reduce uncertainty — when one has reached the limits of what deliberation can do — and to act from current best judgment.
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Analysis-Paralysis|📖 Analysis Paralysis]]*
 
-> [!definition] **📖 Apatheia** **[perm-note]**
+> [!definition] **📖 Apatheia** *[needs-note]*
 > The Stoic ideal of freedom from disruptive emotional disturbance — not the absence of all feeling (which the propatheiai concept shows is neither possible nor desirable) but the governance of full emotional responses (pathē) through rational assent. Often mistranslated as "apathy" in the English sense, which carries the incorrect connotation of indifference.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Apatheia|📖 Apatheia]]*
 
-> [!definition] **📖 Apt Epistemic Performance** **[perm-note]**
+> [!definition] **📖 Apt Epistemic Performance** *[needs-note]*
 > Performance that is adaptive (dynamically selects from a repertoire of epistemic aims, ideals, and reliable processes), appropriate (matches aims and processes to the task and context), and reflective (involves metacognitive knowledge about epistemic aims and processes, and regulatory control to adapt based on that knowledge). The Apt-AIR framework is the most current formal account of what this report calls the examined life's concurrent expression.
 > 
 > *Source: report-08-the-examined-life-in-practice* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Apt-Epistemic-Performance|📖 Apt Epistemic Performance]]*
 
-> [!definition] **📖 As-If Body Loop** **[perm-note]**
+> [!definition] **📖 As-If Body Loop** *[needs-note]*
 > Damasio's term for the neural mechanism through which the brain represents a bodily state without actually producing the corresponding peripheral changes — a simulation of the somatic marker rather than the marker itself. Allows rapid evaluation without the metabolic cost and time delay of actual bodily changes.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-As-If-Body-Loop|📖 As-If Body Loop]]*
 
-> [!definition] **📖 Askēsis** **[perm-note]**
+> [!definition] **📖 Askēsis** *[needs-note]*
 > **Askēsis** in the Stoic tradition refers to systematic, deliberate exercises designed to develop virtuous dispositions through practice rather than knowledge alone. Pierre Hadot's reconstruction of Stoic spiritual exercises identifies the central insight: philosophical knowledge alone does not transform character; only practiced, repeated exercise does. As Epictetus puts it: "It is not enough to know about virtue; one must act on it — not once, but habitually and consistently until it becomes one's nature."
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Askēsis|📖 Askēsis]]*
 
-> [!definition] **📖 Assimilation, Accommodation, and Equilibration** **[perm-note]**
+> [!definition] **📖 Assimilation, Accommodation, and Equilibration** *[needs-note]*
 > Piaget's three-part schema dynamics describe the continuous movement of cognitive development. *Assimilation* incorporates new information into existing schemas — the schema handles the new input, extending its application. *Accommodation* restructures the schema in response to information that existing schemas cannot adequately process — the schema is modified, differentiated, or replaced. *Equilibration* is the self-regulating process that seeks cognitive balance — a state in which the learner's schemas are adequate to handle their experience. When equilibration is disrupted (when a schem...
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Assimilation,-Accommodation,-and-Equilibration|📖 Assimilation, Accommodation, and Equilibration]]*
 
-> [!definition] **📖 Autonomous Motivation vs. Controlled Motivation** **[perm-note]**
+> [!definition] **📖 Autonomous Motivation vs. Controlled Motivation** *[needs-note]*
 > In SDT's framework, **autonomous motivation** encompasses intrinsic motivation (doing something because it is inherently interesting and satisfying) and identified regulation (doing something because one genuinely values and endorses it). **Controlled motivation** encompasses introjected regulation (doing something to avoid guilt or protect self-esteem) and external regulation (doing something for reward or to avoid punishment). The distinction is not between internal and external locus of causality but between self-authored and other-authored engagement — a critical nuance with profound im...
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Autonomous-Motivation-vs.-Controlled-Motivation|📖 Autonomous Motivation vs. Controlled Motivation]]*
 
-> [!definition] **📖 Challenge-Skill Balance** **[perm-note]**
+> [!definition] **📖 Challenge-Skill Balance** *[needs-note]*
 > The central condition for flow in Csikszentmihalyi's theory: flow emerges when the challenges posed by an activity closely match the person's current level of skill. When challenge substantially exceeds skill, anxiety results. When skill substantially exceeds challenge, boredom results. The challenge-skill balance is not a fixed point but a dynamic zone that expands as skill develops, creating a developmental trajectory in which maintaining flow requires and produces continuous growth.
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Challenge-Skill-Balance|📖 Challenge-Skill Balance]]*
 
-> [!definition] **📖 Cognitive Decoupling** **[perm-note]**
+> [!definition] **📖 Cognitive Decoupling** *[needs-note]*
 > In Stanovich and Evans's dual process theory, the defining feature of Type 2 processing: the capacity to hold representations of potential states of affairs in mind while keeping them functionally separated from one's current representations of actual states. Decoupling enables hypothetical reasoning (reasoning about what might be true without confusing that reasoning with one's current beliefs), counterfactual thinking, and the evaluation of alternative courses of action. It is cognitively expensive, requiring working memory resources, and it can be trained through practice. The Governed A...
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Cognitive-Decoupling|📖 Cognitive Decoupling]]*
 
-> [!definition] **📖 Cognitive Vitality** **[perm-note]**
+> [!definition] **📖 Cognitive Vitality** *[needs-note]*
 > The self-sustaining motivational state that emerges from the mutual reinforcement of autonomous engagement (SDT), optimal challenge calibration (Flow), growth-oriented interpretation of difficulty (Growth Mindset), and the neural reward systems activated by genuine intellectual achievement. In cognitive vitality, excellent thinking becomes its own continuous reward through a positive feedback loop: autonomous engagement → genuine effort → genuine achievement → competence satisfaction and dopaminergic reinforcement → increased intrinsic motivation → greater willingness to engage future chall...
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Cognitive-Vitality|📖 Cognitive Vitality]]*
 
-> [!definition] **📖 Concurrent Expression** **[perm-note]**
+> [!definition] **📖 Concurrent Expression** *[needs-note]*
 > The central claim of this report: that the components of the epistemic architecture function not sequentially but simultaneously, as mutually amplifying dimensions of a single cognitive orientation. The excellent thinker does not first inquire, then adopt a fallibilist posture, then activate intrinsic motivation — they are, in each epistemic engagement, simultaneously and concurrently enacting all seven dimensions of the architecture as an integrated whole.
 > 
 > *Source: report-08-the-examined-life-in-practice* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Concurrent-Expression|📖 Concurrent Expression]]*
 
-> [!definition] **📖 Constructive Attentiveness** **[perm-note]**
+> [!definition] **📖 Constructive Attentiveness** *[needs-note]*
 > Constructive Attentiveness is the cultivated metacognitive capacity to (1) locate one's current cognitive boundary — the precise edge between what one's existing schemas can handle independently and what demands new construction; (2) calibrate the challenge and support conditions that make construction at that boundary productive — neither so overwhelming that working memory is exhausted on search processes nor so easy that no genuine accommodation is required; (3) recognize consequential feedback that signals whether genuine schema construction has occurred or whether only verbal familiari...
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Constructive-Attentiveness|📖 Constructive Attentiveness]]*
 
-> [!definition] **📖 Dewey's Continuity and Interaction Principles** **[perm-note]**
+> [!definition] **📖 Dewey's Continuity and Interaction Principles** *[needs-note]*
 > Dewey (1938) proposed two fundamental criteria for genuinely educative experience. *Continuity* requires that each experience both draw upon and prepare the ground for future experience — it must connect to what the learner already knows and extend toward new understanding. *Interaction* requires that experience involve a genuine transaction between the learner's internal state and the external environment — both must be modified by the encounter. Experience that lacks continuity is disconnected and fails to build; experience that lacks interaction is passive and fails to teach.
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Dewey's-Continuity-and-Interaction-Principles|📖 Dewey's Continuity and Interaction Principles]]*
 
-> [!definition] **📖 Dichotomy of Control** **[perm-note]**
+> [!definition] **📖 Dichotomy of Control** *[needs-note]*
 > The Stoic distinction, articulated most systematically by Epictetus in the *Enchiridion*, between what is "up to us" (*eph' hēmin*) — our judgments, intentions, desires, and responses to impressions — and what is "not up to us" (*ouk eph' hēmin*) — external events, other people's actions, our bodies, reputations, and material circumstances. The practical application of this distinction redirects motivational investment from uncontrollable outcomes to controllable engagement, producing the combination of whole-hearted effort and philosophical equanimity about outcomes that characterizes Stoi...
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Dichotomy-of-Control|📖 Dichotomy of Control]]*
 
-> [!definition] **📖 Ecological Rationality** **[perm-note]**
+> [!definition] **📖 Ecological Rationality** *[needs-note]*
 > Gigerenzer's framework arguing that the rationality of a decision strategy depends on its fit with the structure of the environment in which it is deployed, rather than on conformity to abstract norms of logic or probability theory. A fast-and-frugal heuristic is ecologically rational if it performs well in the environment for which it is adapted, even if it violates formal decision-theoretic standards. The framework implies that there is no universally rational strategy — only strategies that are more or less well-suited to particular environmental structures.
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Ecological-Rationality|📖 Ecological Rationality]]*
 
-> [!definition] **📖 Embodied vs. Extended vs. Enactive Cognition** **[perm-note]**
+> [!definition] **📖 Embodied vs. Extended vs. Enactive Cognition** *[needs-note]*
 > **Embodied cognition** holds that cognitive processes are fundamentally shaped by the body's physical structure and sensorimotor capacities — how we think is constrained and constituted by how we are bodily organized. **Extended cognition** holds that cognitive processes can extend beyond the boundary of brain and body to include external resources (notebooks, instruments, devices) that play the same functional role as internal cognitive processes. **Enactive cognition** holds that cognition is not representation-based at all but consists in the organism's active, sensorimotor engagement wi...
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Embodied-vs.-Extended-vs.-Enactive-Cognition|📖 Embodied vs. Extended vs. Enactive Cognition]]*
 
-> [!definition] **📖 Enactive Cognition** **[perm-note]**
+> [!definition] **📖 Enactive Cognition** *[needs-note]*
 > The view, developed by Varela, Thompson, and Rosch in *The Embodied Mind* (1991), that cognition is not the processing of pre-given information according to formal rules but the active enactment of a world through organism-environment coupling. Cognition, on this view, is something living systems do through their sensorimotor engagement with their environment, not something that happens inside their heads.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Enactive-Cognition|📖 Enactive Cognition]]*
 
-> [!definition] **📖 Epistemic Character** **[perm-note]**
+> [!definition] **📖 Epistemic Character** *[needs-note]*
 > A stable, integrated configuration of cognitive dispositions — including aporic receptivity, the fallibilist posture, motivational self-authorship, constructive attentiveness, intellectual virtues, metacognitive governance, and recursive self-direction — that constitutes the excellent thinker's characteristic mode of cognitive engagement. Epistemic character is not a collection of skills deployed situationally but a *way of being* that manifests in every epistemic encounter.
 > 
 > *Source: report-08-the-examined-life-in-practice* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Epistemic-Character|📖 Epistemic Character]]*
 
-> [!definition] **📖 Epistemic Character as Concurrent Expression** **[perm-note]**
+> [!definition] **📖 Epistemic Character as Concurrent Expression** *[needs-note]*
 > **Epistemic Character as Concurrent Expression** is this report's central emergent concept: the claim that the excellent thinker does not sequentially apply the components of the epistemic architecture but simultaneously expresses them as dimensions of a single, unified cognitive orientation. Just as a person with genuine integrity does not decide case by case whether to be honest but is honest as a natural expression of who they are, the person living the examined life does not decide case by case whether to inquire fallibilistically, construct attentively, and monitor metacognitively — th...
 > 
 > *Source: report-08-the-examined-life-in-practice* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Epistemic-Character-as-Concurrent-Expression|📖 Epistemic Character as Concurrent Expression]]*
 
-> [!definition] **📖 Epistemic Cowardice** **[perm-note]**
+> [!definition] **📖 Epistemic Cowardice** *[needs-note]*
 > The disposition to form or withhold beliefs on the basis of their comfort or social acceptability rather than their evidential support. Jonathan Ichikawa's analysis identifies epistemic cowardice as a genuine epistemic vice — not merely a failure of character but a specific form of cognitive dishonesty that systematically distorts one's epistemic relationship to evidence. It is the vice corresponding to the confirmation bias cluster and the target of intellectual courage as its antidote.
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Epistemic-Cowardice|📖 Epistemic Cowardice]]*
 
-> [!definition] **📖 Expertise Reversal Effect** **[perm-note]**
+> [!definition] **📖 Expertise Reversal Effect** *[needs-note]*
 > Kalyuga's (2007) finding that instructional techniques effective for novice learners become ineffective or counterproductive for advanced learners. The primary mechanism is redundancy: for learners with well-developed schemas, explicit instruction and worked examples force them to process information their schemas already handle efficiently, consuming working memory resources unnecessarily. The expertise reversal effect is a practical expression of the need for continuous ZPD recalibration — as schemas develop, what constitutes appropriate scaffolding must shift toward productive challenge.
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Expertise-Reversal-Effect|📖 Expertise Reversal Effect]]*
 
-> [!definition] **📖 Fallibilism** **[perm-note]**
+> [!definition] **📖 Fallibilism** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Fallibilism|📖 Fallibilism]]*
 
-> [!definition] **📖 Fast-and-Frugal Heuristics** **[perm-note]**
+> [!definition] **📖 Fast-and-Frugal Heuristics** *[needs-note]*
 > Gigerenzer's term for simple decision rules that deliberately ignore information to make rapid, accurate decisions. Examples include "Take the Best" (look for the single best discriminating cue and decide on its basis alone), the "recognition heuristic" (if one option is recognized and the other is not, prefer the recognized one), and "tallying" (count the number of cues favoring each option without weighting them). Crucially, these heuristics do not perform well because they are approximating some more complex optimal procedure — they perform well *because* they are simple, exploiting the ...
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Fast-and-Frugal-Heuristics|📖 Fast-and-Frugal Heuristics]]*
 
-> [!definition] **📖 Flow** **[perm-note]**
+> [!definition] **📖 Flow** *[needs-note]*
 > A distinct psychological state characterized by complete absorption in an intrinsically rewarding activity, effortless concentration, altered time perception, and a sense of effortless control — first systematically described by Mihaly Csikszentmihalyi. Flow emerges at the intersection of high challenge and high skill — when a task's demands optimally match the person's current competence. Neurobiologically, flow involves transient hypofrontality (reduced dorsolateral prefrontal activity), enhanced dopaminergic reward, and striatal engagement.
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Flow|📖 Flow]]*
 
-> [!definition] **📖 Genetic Epistemology** **[perm-note]**
+> [!definition] **📖 Genetic Epistemology** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Genetic-Epistemology|📖 Genetic Epistemology]]*
 
-> [!definition] **📖 Growth Mindset** **[perm-note]**
+> [!definition] **📖 Growth Mindset** *[needs-note]*
 > In Carol Dweck's framework, a growth mindset is the implicit theory that intelligence, ability, and talent are malleable qualities developed through effort, effective strategy, and learning from failure — contrasted with a fixed mindset, which treats these qualities as stable, entity-like traits revealed by performance. Growth mindset produces approach motivation toward challenge and informational interpretation of error; fixed mindset produces avoidance motivation and identity-threatening interpretation of failure.
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Growth-Mindset|📖 Growth Mindset]]*
 
-> [!definition] **📖 Hormê** **[perm-note]**
+> [!definition] **📖 Hormê** *[needs-note]*
 > The Stoic term for the rational impulse toward action that follows assent to an impression. Not a brute motivational push but a complex intentional state whose content incorporates one's evaluation of the situation and one's judgment about what is appropriate. Hormê is thus continuous with reason — it is reason expressed as motivation, rather than a non-rational force that reason must govern or restrain. The theory of hormê is the Stoics' answer to the question of how rational judgment produces action, and it anticipates many features of contemporary intention theory in action philosophy.
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Hormê|📖 Hormê]]*
 
-> [!definition] **📖 Identified Regulation vs. Integrated Regulation** **[perm-note]**
+> [!definition] **📖 Identified Regulation vs. Integrated Regulation** *[needs-note]*
 > *Identified regulation* occurs when the individual has consciously valued an activity and accepts it as personally important, even if not inherently enjoyable — studying a difficult topic because one understands its importance for a valued goal. *Integrated regulation* is the most autonomous form of extrinsic motivation: the activity has been fully assimilated with one's sense of self, harmonized with other core values and identities. Both identified and integrated regulation are considered *autonomous* in SDT's taxonomy, and both predict outcomes similar to intrinsic motivation. *Intrinsic...
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Identified-Regulation-vs.-Integrated-Regulation|📖 Identified Regulation vs. Integrated Regulation]]*
 
-> [!definition] **📖 Intellectual Courage** **[perm-note]**
+> [!definition] **📖 Intellectual Courage** *[needs-note]*
 > **Intellectual courage** is the disposition to follow evidence and argument where they lead, even when doing so is uncomfortable, socially costly, or psychologically threatening — to entertain uncomfortable hypotheses, to maintain unpopular positions when evidence supports them, to expose one's beliefs to genuine disconfirmation, and to voice genuine disagreement when the epistemic situation demands it. Its opposite, [[Epistemic-Cowardice]] (developed by Jonathan Ichikawa), is the disposition to form or withhold beliefs based on their comfort rather than their evidential support.
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intellectual-Courage|📖 Intellectual Courage]]*
 
-> [!definition] **📖 Intellectual Empathy** **[perm-note]**
+> [!definition] **📖 Intellectual Empathy** *[needs-note]*
 > **Intellectual empathy** is the disposition to genuinely engage with perspectives other than one's own — to understand a viewpoint from the inside, to charitably reconstruct arguments before critiquing them, to recognize that one's own perspective is partial and that other viewpoints may contain insights that are invisible from one's current position. It is distinguished from mere tolerance (which acknowledges other views without engaging them) and intellectual ventriloquism (which superficially represents other views in order to refute them more effectively).
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intellectual-Empathy|📖 Intellectual Empathy]]*
 
-> [!definition] **📖 Intellectual Humility** **[perm-note]**
+> [!definition] **📖 Intellectual Humility** *[needs-note]*
 > **Intellectual humility** is the disposition to have an accurate assessment of one's epistemic limitations — to know what one does not know, to recognize the fallibility of one's beliefs, to acknowledge when one's evidence is insufficient, and to revise one's positions in light of better evidence without excessive psychological resistance. It is distinguished from epistemic timidity (which avoids commitment from anxiety) and sycophancy (which revises positions to please others). The humble person believes confidently where confidence is warranted and tentatively where only tentativeness is ...
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intellectual-Humility|📖 Intellectual Humility]]*
 
-> [!definition] **📖 Intellectual Integrity** **[perm-note]**
+> [!definition] **📖 Intellectual Integrity** *[needs-note]*
 > **Intellectual integrity** is the disposition to bring the same epistemic standards to bear on all beliefs and arguments — to not apply stricter scrutiny to conclusions one dislikes than to conclusions one favors, to acknowledge when one's reasoning has been influenced by non-epistemic factors, and to pursue truth even when it conflicts with self-interest, identity, or prior commitment. It is the cognitive virtue most directly opposed to [[Motivated-Reasoning]] — the disposition to reason accurately rather than directionally.
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intellectual-Integrity|📖 Intellectual Integrity]]*
 
-> [!definition] **📖 Intellectual Perseverance** **[perm-note]**
+> [!definition] **📖 Intellectual Perseverance** *[needs-note]*
 > **Intellectual perseverance**, analyzed with particular precision by [[Heather-Battaly]], is the disposition to continue pursuing worthwhile epistemic goals in the face of obstacles — to maintain inquiry through cognitive difficulty, fatigue, complexity, and the temptation to settle for adequate rather than excellent understanding. Battaly identifies three components: an appropriate response to specific obstacles, genuine epistemic motivation (not mere stubbornness), and genuine epistemic goals (not the mere defense of already-held positions). The persevering person is distinguished from bo...
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intellectual-Perseverance|📖 Intellectual Perseverance]]*
 
-> [!definition] **📖 Intellectual Virtues** **[perm-note]**
+> [!definition] **📖 Intellectual Virtues** *[needs-note]*
 > **Intellectual virtues**, in the responsibilist tradition inaugurated by [[Linda-Zagzebski]] and developed by [[Jason-Baehr]] and [[Heather-Battaly]], are stable, cultivated character traits whose exercise reliably promotes the acquisition of truth, the avoidance of error, and the achievement of epistemic goods (understanding, justified belief, intellectual growth). They have a two-component structure: a *motivational component* (genuine care for truth, understanding, and epistemic integrity) and a *competence component* (skill in the cognitive activities the virtue involves). Crucially, th...
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intellectual-Virtues|📖 Intellectual Virtues]]*
 
-> [!definition] **📖 Interoception** **[perm-note]**
+> [!definition] **📖 Interoception** *[needs-note]*
 > The sensing of the body's internal physiological condition — including cardiovascular, respiratory, gastrointestinal, genitourinary, and other visceral states. Distinguished from exteroception (sensing of the external environment) and proprioception (sensing of the body's position and movement). The anterior insular cortex is the primary cortical representation area for interoceptive information.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Interoception|📖 Interoception]]*
 
-> [!definition] **📖 Interoceptive Inference** **[perm-note]**
+> [!definition] **📖 Interoceptive Inference** *[needs-note]*
 > **Interoception** refers to the sensing of the body's internal physiological condition — heart rate, breathing, gut state, vascular tone, temperature. **Interoceptive inference** is the predictive processing framework's account of how the brain generates this sensing: not by passively receiving interoceptive signals but by generating *predictions* about the likely causes of those signals and updating predictions based on error. The brain's model of the body's interior is an *active construction*, not a passive readout.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Interoceptive-Inference|📖 Interoceptive Inference]]*
 
-> [!definition] **📖 Intrinsic, Extraneous, and Germane Cognitive Load** **[perm-note]**
+> [!definition] **📖 Intrinsic, Extraneous, and Germane Cognitive Load** *[needs-note]*
 > Sweller's (1988, 2010) three-category taxonomy of cognitive demands on working memory. *Intrinsic load* reflects the inherent element interactivity of the material — the number of elements that must be simultaneously held in working memory to understand the content — determined by both the material's complexity and the learner's existing schema state. *Extraneous load* is generated by instructional design factors that are not necessary for schema construction (redundant information, split attention, poor organization). *Germane load* is the cognitive effort directed specifically at schema c...
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Intrinsic,-Extraneous,-and-Germane-Cognitive-Load|📖 Intrinsic, Extraneous, and Germane Cognitive Load]]*
 
-> [!definition] **📖 Kathekon** **[perm-note]**
+> [!definition] **📖 Kathekon** *[needs-note]*
 > The Stoic concept of "appropriate action" — action that fits one's nature, one's role, and the particular circumstances of one's situation. Etymologically derived from *kata tina hêkein* (incumbent upon someone). Kathekon is contrasted with *katorthôma* (the perfectly virtuous action of the ideal sage) — it is the standard appropriate for the *prokoptôn* (person making progress), who acts as well as their current wisdom permits while remaining appropriately humble about their limitations. Central to the Stoic ethics of role (oikeiôsis) — different people in different roles have different ka...
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Kathekon|📖 Kathekon]]*
 
-> [!definition] **📖 Kathêkon** **[perm-note]**
+> [!definition] **📖 Kathêkon** *[needs-note]*
 > The Stoic concept of "appropriate action" — the action incumbent upon a person given their nature, role, circumstances, and current level of wisdom. Not the perfect action of the ideal sage (*katorthôma*) but the best action available to the person making progress (*prokoptôn*). The kathêkon is contextual and role-dependent: what is appropriate for a parent, a physician, a citizen, and a friend differs by role. The practical wisdom to perceive one's kathêkon in each situation is the practical expression of phronesis in Stoic terms.
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Kathêkon|📖 Kathêkon]]*
 
-> [!definition] **📖 Knightian Uncertainty** **[perm-note]**
+> [!definition] **📖 Knightian Uncertainty** *[needs-note]*
 > Frank Knight's term for situations where not only the probabilities but the possible outcomes themselves are unknown or unknowable — contrasted with *risk*, where outcomes are known and probabilities can be estimated. Under Knightian uncertainty, no amount of additional analysis can recover the probability distributions that expected utility theory requires, because the state space itself is not fully known. Implies that strategies designed for risky environments (optimization, exhaustive search, expected value maximization) may be actively counterproductive in uncertain environments.
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Knightian-Uncertainty|📖 Knightian Uncertainty]]*
 
-> [!definition] **📖 Metacognitive Regulation** **[perm-note]**
+> [!definition] **📖 Metacognitive Regulation** *[needs-note]*
 > The executive operations by which learners manage their own cognitive processes during learning, comprising *planning* (allocating resources before beginning), *monitoring* (tracking comprehension and strategy effectiveness during learning), and *evaluating* (assessing outcomes and strategy effectiveness after learning) (Schraw, 1998).
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Metacognitive-Regulation|📖 Metacognitive Regulation]]*
 
-> [!definition] **📖 Metacognitive Self-Regulation** **[perm-note]**
+> [!definition] **📖 Metacognitive Self-Regulation** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Metacognitive-Self-Regulation|📖 Metacognitive Self-Regulation]]*
 
-> [!definition] **📖 Mindware** **[perm-note]**
+> [!definition] **📖 Mindware** *[needs-note]*
 > Keith Stanovich's term for the cognitive software — the rules, strategies, beliefs, and reasoning frameworks — that Type 2 processing deploys in evaluating and potentially overriding Type 1 responses. Mindware can be "contaminated" (including biased frameworks that produce systematic errors even under deliberate reflection) or "missing" (lacking the relevant frameworks to evaluate a class of impressions). Effective metacognitive governance requires both good mindware (the right frameworks for evaluation) and the regulated attentional gap in which that mindware can be deployed.
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Mindware|📖 Mindware]]*
 
-> [!definition] **📖 Motivated Reasoning** **[perm-note]**
+> [!definition] **📖 Motivated Reasoning** *[needs-note]*
 > Reasoning in the service of directional goals (desired conclusions) rather than accuracy goals (correct conclusions). Kunda's analysis distinguishes two forms: accuracy-motivated reasoning (which enhances appropriate cognitive processes) and directional-motivated reasoning (which biases toward predetermined conclusions through biased memory search and selective heuristic deployment). The constraint: motivated reasoners must construct "seemingly reasonable justifications" — they cannot believe anything they wish, but only anything they can rationalize.
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Motivated-Reasoning|📖 Motivated Reasoning]]*
 
-> [!definition] **📖 Organismic Integration Theory** **[perm-note]**
+> [!definition] **📖 Organismic Integration Theory** *[needs-note]*
 > The second of SDT's six mini-theories, which addresses extrinsic motivation in its various forms. OIT describes a continuum of internalization from amotivation through external, introjected, identified, and integrated regulation to intrinsic motivation, and specifies that internalization is facilitated by the satisfaction of basic psychological needs for autonomy, competence, and relatedness (Deci & Ryan, 1990).
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Organismic-Integration-Theory|📖 Organismic Integration Theory]]*
 
-> [!definition] **📖 Phronesis** **[perm-note]**
+> [!definition] **📖 Phronesis** *[needs-note]*
 > *Phronesis* (φρόνησις): Aristotle's term for practical wisdom — the capacity to deliberate well about what promotes human flourishing (*eudaimonia*) in particular circumstances, to perceive the morally and practically salient features of concrete situations, and to act appropriately on that perception. Distinguished from *sophia* (theoretical wisdom about eternal truths) and from *deinotes* (mere cleverness, the technical capacity to achieve goals regardless of their worth). Phronesis integrates cognitive, emotional, and perceptual dimensions into a unified practical capacity that cannot be...
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Phronesis|📖 Phronesis]]*
 
-> [!definition] **📖 Physiological Metacognition** **[perm-note]**
+> [!definition] **📖 Physiological Metacognition** *[needs-note]*
 > The emergent concept of this report: the capacity to monitor and regulate one's bodily states as a form of cognitive self-management, extending the metacognitive self-regulation of Tier 1's epistemic architecture into the physiological domain. Components include interoceptive sensitivity, allostatic monitoring, somatic signal calibration, and extended cognitive ecology management.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Physiological-Metacognition|📖 Physiological Metacognition]]*
 
-> [!definition] **📖 Physiological Metacognition — Formal Definition** **[perm-note]**
+> [!definition] **📖 Physiological Metacognition — Formal Definition** *[needs-note]*
 > **Physiological metacognition** is the capacity to monitor and regulate one's bodily states as a form of cognitive self-management — extending the metacognitive self-regulation described in [[Metacognitive-Monitoring]] frameworks into the physiological domain. A practitioner with developed physiological metacognition can: (1) detect changes in their interoceptive state that signal changes in cognitive capacity; (2) identify the physiological sources of cognitive degradation (sleep deficit, elevated cortisol, metabolic disruption) with sufficient accuracy to address them; (3) distinguish bet...
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Physiological-Metacognition-—-Formal-Definition|📖 Physiological Metacognition — Formal Definition]]*
 
-> [!definition] **📖 Pragmatic Maxim** **[perm-note]**
+> [!definition] **📖 Pragmatic Maxim** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Pragmatic-Maxim|📖 Pragmatic Maxim]]*
 
-> [!definition] **📖 Prohairesis** **[perm-note]**
+> [!definition] **📖 Prohairesis** *[needs-note]*
 > From the Greek *pro* (before) and *hairesis* (choice/taking), prohairesis is literally the faculty of "choosing before" — the rational capacity to deliberate, evaluate impressions, and assent or withhold assent to them. For Epictetus, prohairesis is not simply "free will" in the contemporary sense; it is the entire domain of rational self-governance — one's judgments about what is good and bad, one's desires and aversions, one's responses to Fortune. What is "up to us" (*eph' hēmin*) is precisely what lies within prohairesis; everything else is "not up to us" (*ouk eph' hēmin*).
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Prohairesis|📖 Prohairesis]]*
 
-> [!definition] **📖 Propatheiai** **[perm-note]**
+> [!definition] **📖 Propatheiai** *[needs-note]*
 > The Stoic concept of pre-emotional bodily and affective responses — the "first movements" or "preludes to passion" — that occur involuntarily, before rational assent has been given or withheld. Phenomenologically described by Seneca and Epictetus as pallor, tears, quickened pulse, and similar bodily changes that the Stoic sage experiences but is not governed by.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Propatheiai|📖 Propatheiai]]*
 
-> [!definition] **📖 Propatheiai — The Stoic First Movements** **[perm-note]**
+> [!definition] **📖 Propatheiai — The Stoic First Movements** *[needs-note]*
 > **Propatheiai** (singular: *propatheia*) are the Stoic concept of pre-emotional bodily and affective responses that occur involuntarily, before the rational faculty has engaged with an impression and either assented to or rejected it. Examples include the pallor of fear when suddenly confronted with danger, the blush of embarrassment, tears at moving events, the startle response to a loud sound, and the quickened pulse of arousal. Crucially, the Stoics held that *propatheiai do not constitute emotions in the morally relevant sense* — they are not subject to rational control in the moment of...
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Propatheiai-—-The-Stoic-First-Movements|📖 Propatheiai — The Stoic First Movements]]*
 
-> [!definition] **📖 Prosoche** **[perm-note]**
+> [!definition] **📖 Prosoche** *[needs-note]*
 > The Stoic practice of continuous, vigilant attention to one's own impressions, desires, and actions as they arise — the foundational "spiritual attitude" (Hadot) of Stoic cognitive life. Prosoche operates before assent (synkatathesis) is given to an impression, creating the deliberate evaluation space in which rational agency exercises itself. Distinguished from modern mindfulness by its specifically cognitive-evaluative rather than relaxation-oriented character, and from mere introspection by its connection to specific Stoic standards of evaluation. Key sources: Epictetus, Discourses IV.12...
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Prosoche|📖 Prosoche]]*
 
-> [!definition] **📖 Recognition-Primed Decision (RPD) Model** **[perm-note]**
+> [!definition] **📖 Recognition-Primed Decision (RPD) Model** *[needs-note]*
 > Gary Klein's model of expert decision-making in naturalistic settings. When an expert encounters a situation, they rapidly match it to a prototype or schema built from prior experience. This recognition simultaneously activates an understanding of the situation's dynamics, relevant goals, cues to monitor, and a typical action script. The expert then mentally simulates the action to check for obvious obstacles. If no critical obstacle is found, the expert acts. If an obstacle is found, the expert modifies the action or searches sequentially for alternatives — not through comparative evaluati...
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Recognition-Primed-Decision-RPD-Model|📖 Recognition-Primed Decision (RPD) Model]]*
 
-> [!definition] **📖 Recognition-Primed Decision Model** **[perm-note]**
+> [!definition] **📖 Recognition-Primed Decision Model** *[needs-note]*
 > Klein's model of expert decision-making in naturalistic settings: upon encountering a situation, an expert rapidly matches it to a prototype or schema built from prior experience. This recognition simultaneously activates (a) an understanding of the situation's key dynamics, (b) a set of plausible goals, (c) a set of relevant cues to monitor, and (d) a typical action script for this type of situation. The expert then mentally simulates the action to check for obvious problems. If the simulation reveals no critical obstacle, the expert acts. If it does, the expert modifies the action or sear...
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Recognition-Primed-Decision-Model|📖 Recognition-Primed Decision Model]]*
 
-> [!definition] **📖 Recursive Self-Authorship** **[perm-note]**
+> [!definition] **📖 Recursive Self-Authorship** *[needs-note]*
 > **Recursive Self-Authorship** is the capacity to apply the examined life's epistemic practices — fallibilist inquiry, schema construction, metacognitive monitoring, intellectual virtue — to the very *process* of one's own intellectual development. It is the ability to treat one's learning system itself as an object of the same reflective, fallibilist, constructivist attention that the system applies to any other domain of knowledge. The recursion is essential: the self-directed learner does not merely *use* their learning architecture; they are continuously *revising* it based on evidence o...
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Recursive-Self-Authorship|📖 Recursive Self-Authorship]]*
 
-> [!definition] **📖 Satisficing** **[perm-note]**
+> [!definition] **📖 Satisficing** *[needs-note]*
 > Herbert Simon's term for the decision strategy of choosing the first option that meets a threshold of acceptability (an "aspiration level") rather than searching exhaustively for the optimal option. Satisficing acknowledges that decision-makers operate with bounded rationality — limited information, limited computational resources, limited time — and that in many environments, satisficing produces decisions that are as good as or better than optimization. Distinguished from merely accepting any option: the aspiration level can be set high, and the satisficer searches until they find an opti...
 > 
 > *Source: report-11-the-practical-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Satisficing|📖 Satisficing]]*
 
-> [!definition] **📖 Scaffolded Fading** **[perm-note]**
+> [!definition] **📖 Scaffolded Fading** *[needs-note]*
 > The instructional and developmental principle of deliberate, progressive withdrawal of external regulatory support as the learner's internal regulatory capacity develops. Scaffolded fading operationalizes the Vygotskian insight that effective support enables internalization precisely by being designed to become unnecessary.
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Scaffolded-Fading|📖 Scaffolded Fading]]*
 
-> [!definition] **📖 Scaffolding** **[perm-note]**
+> [!definition] **📖 Scaffolding** *[needs-note]*
 > The temporary, graduated support provided by a More Knowledgeable Other (teacher, peer, text, or self-designed structure) that enables a learner to operate within their ZPD. The term was coined by Jerome Bruner, David Wood, and Gail Ross (1976), not Vygotsky himself. Effective scaffolding has three characteristics: it enables the learner to engage with challenges beyond their independent capability; it is calibrated to the learner's current schema state; and it fades as the learner develops new schemas, preventing dependence. Hattie (2023): effect size d=0.82.
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Scaffolding|📖 Scaffolding]]*
 
-> [!definition] **📖 Schema** **[perm-note]**
+> [!definition] **📖 Schema** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Schema|📖 Schema]]*
 
-> [!definition] **📖 Schema Accommodation** **[perm-note]**
+> [!definition] **📖 Schema Accommodation** *[needs-note]*
 > In Piaget's cognitive constructivism, the process of restructuring an existing cognitive schema to incorporate new information that cannot be assimilated into existing structures. Accommodation is triggered by *disequilibrium* — the state of cognitive conflict when existing schemas fail — and represents genuine conceptual development rather than mere knowledge accumulation.
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Schema-Accommodation|📖 Schema Accommodation]]*
 
-> [!definition] **📖 Self-Determination Theory** **[perm-note]**
+> [!definition] **📖 Self-Determination Theory** *[needs-note]*
 > An empirically grounded theory of human motivation and personality developed by Edward Deci and Richard Ryan, postulating three universal psychological needs (autonomy, competence, relatedness) whose satisfaction promotes intrinsic motivation, well-being, and psychological growth, while whose frustration produces controlled motivation, ill-being, and psychological regression. SDT encompasses several sub-theories including Basic Psychological Needs Theory, Cognitive Evaluation Theory, Organismic Integration Theory, and Causality Orientations Theory.
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Self-Determination-Theory|📖 Self-Determination Theory]]*
 
-> [!definition] **📖 Self-Regulated Learning** **[perm-note]**
+> [!definition] **📖 Self-Regulated Learning** *[needs-note]*
 > Self-Regulated Learning is an active, constructive process in which learners set goals for their learning and then attempt to monitor, regulate, and control their cognition, motivation, and behavior, guided and constrained by their goals and the contextual features of the environment (Pintrich, 2000). SRL is distinguished from mere learning by the reflexive quality of the process: the learner is simultaneously the student and the teacher, the agent of cognition and its monitor.
 > 
 > *Source: report-07-the-self-directed-learner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Self-Regulated-Learning|📖 Self-Regulated Learning]]*
 
-> [!definition] **📖 Somatic Marker** **[perm-note]**
+> [!definition] **📖 Somatic Marker** *[needs-note]*
 > Damasio's term for the bodily signal — a change in visceral, muscular, or autonomic state — that rapidly pre-evaluates a decision option or course of action as good or bad before deliberate analysis is complete. Generated through the body loop (actual peripheral bodily change) or as-if body loop (neural simulation of bodily state).
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Somatic-Marker|📖 Somatic Marker]]*
 
-> [!definition] **📖 Synkatathesis** **[perm-note]**
+> [!definition] **📖 Synkatathesis** *[needs-note]*
 > In Stoic epistemology, the voluntary cognitive act by which the mind endorses an impression and allows it to govern subsequent thought and action. The Stoic claim that assent is voluntary — that it is within our power, at least in principle, to withhold assent from even compelling impressions — is the philosophical foundation of prosoche: if assent were automatic, there would be no space for governance. Synkatathesis is the precise Stoic correlate of what cognitive scientists call the point of Type 2 override: the moment at which deliberate processing either affirms or corrects the Type 1 d...
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Synkatathesis|📖 Synkatathesis]]*
 
-> [!definition] **📖 Synkatathesis (Assent) and the Stoic Gap** **[perm-note]**
+> [!definition] **📖 Synkatathesis (Assent) and the Stoic Gap** *[needs-note]*
 > In Stoic epistemology, *synkatathesis* (συγκατάθεσις) — assent — is the cognitive act by which the mind endorses an impression and allows it to govern subsequent thought and action. The Stoic insight, developed most extensively by [[Chrysippus]] and transmitted through Epictetus, is that assent is not automatic: it is a voluntary act, and it is the primary site of rational agency. The impression arrives without our choosing. Whether we assent to it — whether we treat it as an accurate guide to reality and allow it to shape our responses — is, within limits, up to us. This is the Stoic [[Dic...
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Synkatathesis-Assent-and-the-Stoic-Gap|📖 Synkatathesis (Assent) and the Stoic Gap]]*
 
-> [!definition] **📖 The Bias-Virtue Correspondence** **[perm-note]**
+> [!definition] **📖 The Bias-Virtue Correspondence** *[needs-note]*
 > The structural correspondence between five categories of cognitive bias and five intellectual virtues, representing the central emergent insight of this report: intellectual humility ↔ overconfidence biases; intellectual courage ↔ confirmation/disconfirmation biases; intellectual empathy ↔ perspective failure biases; intellectual perseverance ↔ premature closure biases; intellectual integrity ↔ motivated reasoning biases. Each cognitive bias is the empirical symptom of an absent or underdeveloped virtue; each intellectual virtue is the stable dispositional antidote to a category of systemat...
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-The-Bias-Virtue-Correspondence|📖 The Bias-Virtue Correspondence]]*
 
-> [!definition] **📖 The Governed Attentional Gap** **[perm-note]**
+> [!definition] **📖 The Governed Attentional Gap** *[needs-note]*
 > The emergent concept of this report: the cultivated cognitive dwelling in the space between Type 1 automatic impression and Type 2 deliberate response. It is the practical expression of the prosoche-metacognitive monitoring synthesis — a practiced, dispositionally grounded capacity to inhabit the regulatory space that dual process theory describes and Stoic philosophy cultivates. It is not a technique but a cognitive orientation, and its development follows the same dispositional-habituation trajectory as the intellectual virtues described in Report 05.
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-The-Governed-Attentional-Gap|📖 The Governed Attentional Gap]]*
 
-> [!definition] **📖 The Tier 1 Structural Limitation** **[perm-note]**
+> [!definition] **📖 The Tier 1 Structural Limitation** *[needs-note]*
 > The fundamental incompleteness of the epistemic architecture as a full account of the examined life: the framework describes an excellent cognitive *thinker* but not yet a full *person* — it lacks accounts of the body as cognitive infrastructure, emotions as epistemic partners, practical wisdom as the bridge from thought to action, and social cognition as a constitutive dimension of thinking. These are precisely the gaps that Tier 2 (Reports 09–12) is designed to fill.
 > 
 > *Source: report-08-the-examined-life-in-practice* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-The-Tier-1-Structural-Limitation|📖 The Tier 1 Structural Limitation]]*
 
-> [!definition] **📖 Transient Hypofrontality** **[perm-note]**
+> [!definition] **📖 Transient Hypofrontality** *[needs-note]*
 > A neurophysiological state, first proposed by Arne Dietrich and associated with flow and other states of absorbed engagement, characterized by reduced activity in the prefrontal cortex — particularly the dorsolateral prefrontal cortex associated with executive monitoring, self-referential processing, and effortful control. The subjective experience of "effortlessness" in flow corresponds to this partial offline status of executive monitoring, while enhanced subcortical activity (particularly striatal dopaminergic circuits) underlies the intrinsically rewarding quality of the experience.
 > 
 > *Source: report-03-the-motivated-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Transient-Hypofrontality|📖 Transient Hypofrontality]]*
 
-> [!definition] **📖 Type 1 Processing** **[perm-note]**
+> [!definition] **📖 Type 1 Processing** *[needs-note]*
 > The autonomous, rapid, parallel cognitive processes that operate without deliberate attention, do not compete for [[Working-Memory]] resources, and produce responses automatically in the presence of familiar triggering conditions. Type 1 processing is the defining feature of all learned automaticity — from reading to face recognition to expert intuition — and it executes below the threshold of deliberate awareness. Its defining property, in Evans and Stanovich's precise formulation, is *autonomy*: it cannot be withheld by the thinker and does not require the thinker's conscious initiation.
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Type-1-Processing|📖 Type 1 Processing]]*
 
-> [!definition] **📖 Type 2 Processing** **[perm-note]**
+> [!definition] **📖 Type 2 Processing** *[needs-note]*
 > The controlled, slow, serial cognitive processes that require [[Working-Memory]] resources, compete with other cognitive demands for cognitive capacity, and involve what Stanovich calls *[[Cognitive-Decoupling|cognitive decoupling]]* — the capacity to hold representations of potential states of affairs in mind while keeping them separated from one's current representations of the actual state of affairs. Type 2 is the machinery of hypothetical thinking: the capacity to reason about what might be, or what was, without confusing those simulations with what is. Its defining property is this de...
 > 
 > *Source: report-06-taming-system-1* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Type-2-Processing|📖 Type 2 Processing]]*
 
-> [!definition] **📖 Ventromedial Prefrontal Cortex** **[perm-note]**
+> [!definition] **📖 Ventromedial Prefrontal Cortex** *[needs-note]*
 > The orbital and medial prefrontal region critical, on Damasio's account, for integrating somatic markers with decision-making processes. Patients with VMPFC damage show preserved intellectual function but severely disrupted real-world decision-making, leading Damasio to propose that this region implements the integration of bodily signals with deliberate reasoning.
 > 
 > *Source: report-09-the-embodied-thinker* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Ventromedial-Prefrontal-Cortex|📖 Ventromedial Prefrontal Cortex]]*
 
-> [!definition] **📖 Viability** **[perm-note]**
+> [!definition] **📖 Viability** *[needs-note]*
 > 
 > 
 > *Source: report-02-the-fallible-knower* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Viability|📖 Viability]]*
 
-> [!definition] **📖 Virtue Epistemology** **[perm-note]**
+> [!definition] **📖 Virtue Epistemology** *[needs-note]*
 > The branch of epistemology that investigates the intellectual virtues — the stable cognitive character traits that reliably promote epistemic goods including true belief, knowledge, understanding, and epistemic growth. The responsibilist strand (Zagzebski, Baehr, Battaly) focuses on cultivated character traits and their motivational structure; the reliabilist strand (Sosa, Greco) focuses on reliable cognitive faculties like perception and memory. This report draws primarily on the responsibilist tradition.
 > 
 > *Source: report-05-the-virtuous-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Virtue-Epistemology|📖 Virtue Epistemology]]*
 
-> [!definition] **📖 Working Memory and Long-Term Memory in CLT** **[perm-note]**
+> [!definition] **📖 Working Memory and Long-Term Memory in CLT** *[needs-note]*
 > Cognitive Load Theory (Sweller, 1988) is grounded in a two-system account of memory. *Working memory* (WM) is severely limited in capacity (holding approximately 2–4 novel elements simultaneously) and duration (information persists for seconds without rehearsal). *Long-term memory* (LTM) is effectively unlimited in capacity but requires effortful transfer from WM. Crucially, schemas stored in LTM can be retrieved into WM as single functional units regardless of their internal complexity — a complex skill or concept that took months to learn can be activated as a single "slot" in WM once ade...
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Working-Memory-and-Long-Term-Memory-in-CLT|📖 Working Memory and Long-Term Memory in CLT]]*
 
-> [!definition] **📖 Zone of Proximal Development** **[perm-note]**
+> [!definition] **📖 Zone of Proximal Development** *[needs-note]*
 > The Zone of Proximal Development (Vygotsky, 1978) is defined as "the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem-solving under adult guidance or in collaboration with more capable peers." It describes not a property of the learner alone, but of the *interaction* between the learner and a supportive environment. It is the cognitive space where learning is simultaneously possible (the learner can engage) and generative (the engagement produces development).
 > 
 > *Source: report-04-cognitive-scaffolding* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[📖-Zone-of-Proximal-Development|📖 Zone of Proximal Development]]*
 
-> [!definition] **🔑 Core Concept Definition** **[perm-note]**
+> [!definition] **🔑 Core Concept Definition** *[needs-note]*
 > **Stoic Journaling as Metacognitive Tool**: The systematic practice of written self-examination rooted in ancient [[Stoicism|Stoic philosophy]], wherein practitioners engage in structured reflection to monitor cognitive processes, evaluate judgments, regulate emotional responses, and consciously reshape behavioral patterns through the externalization of thought into permanent textual form. This practice operates simultaneously as philosophical discipline, cognitive scaffold, and neuroplasticity intervention, bridging the 2000-year gap between [[Marcus-Aurelius]]'s *Meditations* and contempo...
 > 
 > *Source: cog-psy-role-of-stoic-journaling-practices-in-metacognitive-monitoring-20251128214625* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔑-Core-Concept-Definition|🔑 Core Concept Definition]]*
 
-> [!definition] **🔖 Affect-as-Information Theory** **[perm-note]**
+> [!definition] **🔖 Affect-as-Information Theory** *[needs-note]*
 > [[Schwarz-and-Clore]]'s framework establishing that people use their current affective states as information when making judgments — asking "how do I feel about this?" as a heuristic for evaluating options, situations, and prospects. The theory predicts both appropriate and inappropriate uses of affective information depending on the relevance of the affective state to the judgment at hand.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Affect-as-Information-Theory|🔖 Affect-as-Information Theory]]*
 
-> [!definition] **🔖 Affective Realism** **[perm-note]**
+> [!definition] **🔖 Affective Realism** *[needs-note]*
 > The finding that affective states influence not merely the interpretation of perceptual information but its literal perception — altering sensory processing parameters such that different emotional states produce genuinely different perceptual experiences of objectively identical stimuli. Documented in Barrett & Wormwood (2015) and subsequent replications.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Affective-Realism|🔖 Affective Realism]]*
 
-> [!definition] **🔖 Appraisal Theory** **[perm-note]**
+> [!definition] **🔖 Appraisal Theory** *[needs-note]*
 > The framework holds that emotions are generated by multi-dimensional appraisals of situations relative to the individual's goals, values, and well-being. Different configurations of appraisal dimensions generate different emotions: anger arises when a goal obstruction is appraised as caused by an agent (someone did this intentionally); sadness arises when a goal is irrecoverably lost; anxiety arises when threat is uncertain and coping capacity is doubted. The causal pathway from situation to emotion always runs through appraisal — there are no emotions without evaluation.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Appraisal-Theory|🔖 Appraisal Theory]]*
 
-> [!definition] **🔖 Core Affect** **[perm-note]**
+> [!definition] **🔖 Core Affect** *[needs-note]*
 > In Barrett's framework, the pre-emotional raw material of experience: continuous variations in valence (pleasant/unpleasant) and arousal (activated/deactivated) arising from interoceptive predictions. Core affect is the substrate from which specific emotional experiences are constructed through conceptualization.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Core-Affect|🔖 Core Affect]]*
 
-> [!definition] **🔖 Emotional Calibration** **[perm-note]**
+> [!definition] **🔖 Emotional Calibration** *[needs-note]*
 > The process of improving the accuracy and precision of emotional responses — increasing the degree to which affective signals accurately track situational features rather than projecting historical patterns, internal states, or miscalibrated evaluations. The synthesis proposed in this report argues that calibration, not suppression, is the appropriate goal of emotional development in the examined life.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Emotional-Calibration|🔖 Emotional Calibration]]*
 
-> [!definition] **🔖 Emotional Granularity** **[perm-note]**
+> [!definition] **🔖 Emotional Granularity** *[needs-note]*
 > The degree to which an individual's emotional experience is fine-grained and differentiated rather than global and undifferentiated. High emotional granularity involves reliably distinguishing among emotion concepts that share surface similarity (anxiety vs. excitement, guilt vs. shame, sadness vs. grief). Empirically associated with better mental health, more effective emotion regulation, and greater well-being.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Emotional-Granularity|🔖 Emotional Granularity]]*
 
-> [!definition] **🔖 Emotional Granularity as Epistemic Precision** **[perm-note]**
+> [!definition] **🔖 Emotional Granularity as Epistemic Precision** *[needs-note]*
 > Emotional granularity is the degree to which an individual's emotional experience is fine-grained, differentiated, and specific rather than global and undifferentiated. High granularity means reliably distinguishing between similar emotional states with different evaluative contents (e.g., guilt vs. shame, anger vs. moral indignation, sadness vs. grief). From an epistemic standpoint, emotional granularity is a form of *precision* — the ability to extract specific information from emotional signals rather than merely receiving a valenced alert.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Emotional-Granularity-as-Epistemic-Precision|🔖 Emotional Granularity as Epistemic Precision]]*
 
-> [!definition] **🔖 Eupatheia** **[perm-note]**
+> [!definition] **🔖 Eupatheia** *[needs-note]*
 > Well-calibrated emotional responses of the philosophically developed person, constituted by assent to accurate evaluative impressions about genuinely good things (virtues) and genuinely bad things (vices). The three eupatheia are joy (chara), wish (boulēsis), and caution (eulabeia). Eupatheia are not diminished emotions but emotionally rich, cognitively accurate responses.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Eupatheia|🔖 Eupatheia]]*
 
-> [!definition] **🔖 Pathē** **[perm-note]**
+> [!definition] **🔖 Pathē** *[needs-note]*
 > Disordered emotional responses constituted by assent to false evaluative impressions about external things — treating things that are genuinely indifferent (wealth, reputation, health, death) as genuinely good or bad. The four primary pathē are appetite, fear, pleasure, and distress.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Pathē|🔖 Pathē]]*
 
-> [!definition] **🔖 Pathē and Eupatheia — The Stoic Distinction** **[perm-note]**
+> [!definition] **🔖 Pathē and Eupatheia — The Stoic Distinction** *[needs-note]*
 > **Pathē** are emotionally disordered responses constituted by assent to false evaluative judgments about external things. They are "excessive impulses" — responses that represent the agent's evaluative system as out of rational alignment. **Eupatheia** (good feelings) are the correct emotional analogues: they arise when the same evaluative faculty reaches accurate conclusions about genuinely good and bad things (i.e., virtues and vices). The three eupatheia are: joy (*chara* — rational elation over genuine goods), wish (*boulēsis* — reasonable desire for what is genuinely good), and caution...
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Pathē-and-Eupatheia-—-The-Stoic-Distinction|🔖 Pathē and Eupatheia — The Stoic Distinction]]*
 
-> [!definition] **🔖 Propatheiai** **[perm-note]**
+> [!definition] **🔖 Propatheiai** *[needs-note]*
 > Pre-emotional "first movements" — initial bodily and cognitive stirrings that precede rational assent and constitute the raw material from which pathē or eupatheia are formed. The Stoic equivalent of Barrett's core affect: unavoidable pre-emotional responses that are not yet full emotions because they have not yet received rational assent.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Propatheiai|🔖 Propatheiai]]*
 
-> [!definition] **🔖 Somatic Marker Hypothesis** **[perm-note]**
+> [!definition] **🔖 Somatic Marker Hypothesis** *[needs-note]*
 > [[Antonio-Damasio]]'s theory that specific bodily states (somatic markers) become associated with particular outcomes through learning and serve as rapid pre-screening signals in decision-making. Damage to vmPFC disrupts somatic marker generation and produces catastrophic decision-making deficits despite intact deliberative capacities.
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Somatic-Marker-Hypothesis|🔖 Somatic Marker Hypothesis]]*
 
-> [!definition] **🔖 Theory of Constructed Emotion** **[perm-note]**
+> [!definition] **🔖 Theory of Constructed Emotion** *[needs-note]*
 > Barrett's framework holds that emotions are not innate, universal responses triggered by specific stimuli but *constructed* instances that the brain builds from interoceptive predictions (core affect) and learned emotion concepts. There are no dedicated emotion circuits; the same neural systems that support prediction, attention, and conceptualization throughout the brain participate in emotion construction. Emotion categories are learned through language and culture, which is why emotional experience is both biologically grounded (in interoception) and culturally variable (in conceptualiza...
 > 
 > *Source: report-10-the-feeling-reasoner* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔖-Theory-of-Constructed-Emotion|🔖 Theory of Constructed Emotion]]*
 
-> [!definition] **🔬 Active Inference** **[perm-note]**
+> [!definition] **🔬 Active Inference** *[needs-note]*
 > The extension of predictive processing to action: organisms not only update their models to fit sensory input (perceptual inference) but also act to bring sensory input into conformity with their predictions (active inference). Active inference provides a unified account of perception and action as complementary strategies for free energy minimization.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Active-Inference|🔬 Active Inference]]*
 
-> [!definition] **🔬 Controlled Hallucination** **[perm-note]**
+> [!definition] **🔬 Controlled Hallucination** *[needs-note]*
 > Anil Seth's formulation of the PP account of perception: all perception is a controlled hallucination in the sense that it is the brain's generative model's best prediction, constrained by but not simply read off from sensory data. The word "controlled" distinguishes normal perception from pathological hallucination: in normal perception, the model's predictions are continuously corrected by sensory prediction errors; in hallucination, this corrective process is disrupted.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Controlled-Hallucination|🔬 Controlled Hallucination]]*
 
-> [!definition] **🔬 Free Energy Principle** **[perm-note]**
+> [!definition] **🔬 Free Energy Principle** *[needs-note]*
 > Karl Friston's proposal that all self-organizing biological systems minimize *variational free energy* — a mathematical quantity that serves as an upper bound on the surprise (negative log evidence) of sensory observations. Minimizing free energy is equivalent to making one's generative model increasingly accurate. The FEP provides a unified account of both perception (updating the model) and action (changing the world to fit the model).
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Free-Energy-Principle|🔬 Free Energy Principle]]*
 
-> [!definition] **🔬 Generative Model** **[perm-note]**
+> [!definition] **🔬 Generative Model** *[needs-note]*
 > The brain's internal probabilistic representation of the causal structure that generates sensory input. A generative model specifies expected relationships between hidden world-states and observable sensory signals, enabling the brain to generate predictions about upcoming sensory experience. Generative models are hierarchically organized and continuously updated through prediction error.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Generative-Model|🔬 Generative Model]]*
 
-> [!definition] **🔬 Interoceptive Inference** **[perm-note]**
+> [!definition] **🔬 Interoceptive Inference** *[needs-note]*
 > The application of predictive processing to the brain's modeling of internal bodily states. The brain generates predictions about expected interoceptive signals (heart rate, blood pressure, metabolic state) and experiences the discrepancies as interoceptive prediction errors, which are the computational substrate of emotion, felt bodily states, and allostatic regulation.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Interoceptive-Inference|🔬 Interoceptive Inference]]*
 
-> [!definition] **🔬 Phenomenal Self-Model** **[perm-note]**
+> [!definition] **🔬 Phenomenal Self-Model** *[needs-note]*
 > Thomas Metzinger's concept of the brain's transparent self-representation: the model the brain creates of itself as an embodied agent is experienced not as a model but as direct reality (phenomenal transparency). The PSM is the mechanistic basis of the experience of selfhood and explains why self-knowledge is genuinely difficult — we do not experience our self-model as a model.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Phenomenal-Self-Model|🔬 Phenomenal Self-Model]]*
 
-> [!definition] **🔬 Precision Flexibility** **[perm-note]**
+> [!definition] **🔬 Precision Flexibility** *[needs-note]*
 > The emergent concept introduced by this report: the meta-capacity to maintain appropriate dynamic calibration of precision weights across epistemic contexts — neither chronically skeptical (uniformly low prior precision) nor dogmatically overconfident (uniformly high prior precision), but genuinely responsive to the epistemic context in determining how strongly to weight priors versus incoming evidence. Precision Flexibility is the computational specification of intellectual character.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Precision-Flexibility|🔬 Precision Flexibility]]*
 
-> [!definition] **🔬 Precision Weighting** **[perm-note]**
+> [!definition] **🔬 Precision Weighting** *[needs-note]*
 > **Precision weighting** is the mechanism by which the brain dynamically adjusts how much influence prediction errors at different levels of its hierarchy have on belief updating. High precision on a sensory channel makes that channel's information maximally influential; high precision on a prior prediction makes that prediction resistant to updating. The appropriate calibration of precision — neither too rigid nor too volatile — is the computational mechanism underlying adaptive learning, calibrated beliefs, and what the philosophical tradition calls epistemic virtues.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Precision-Weighting|🔬 Precision Weighting]]*
 
-> [!definition] **🔬 Prediction Error** **[perm-note]**
+> [!definition] **🔬 Prediction Error** *[needs-note]*
 > A **prediction error** is the discrepancy between what the generative model predicted would happen and what actually occurred in sensory input. Prediction errors are the primary signal driving learning and perception in the predictive processing framework. When the model's prediction closely matches the incoming signal, prediction error is low, processing is efficient, and little updating occurs. When prediction error is high, resources are directed toward revising the model to improve future predictions. This asymmetry — attending to surprises rather than confirmations — is why novelty cap...
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[🔬-Prediction-Error|🔬 Prediction Error]]*
 
-> [!definition] **🔬 Predictive Processing** **[perm-note]**
+> [!definition] **🔬 Predictive Processing** *[needs-note]*
 > The theoretical framework proposing that the brain is fundamentally a prediction machine that continuously generates internal models of sensory inputs and updates them based on prediction errors. PP encompasses predictive coding (the algorithmic implementation), the free energy principle (the computational objective), and active inference (the action-oriented extension). The framework provides a unified account of perception, cognition, emotion, action, and consciousness.
 > 
 > *Source: report-13-the-predictive-mind* | *Domain: Other / Uncategorised*
@@ -1112,7 +1111,7 @@ importance: high
 > *Source: self-determination-theory-dialectical-re-examination-2026-03-19* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]*
 
-> [!definition] **Basic-Psychological-Needs — The Three** **[perm-note]**
+> [!definition] **Basic-Psychological-Needs — The Three** *[needs-note]*
 > *[[Autonomy-Need|Autonomy]]*: The need to experience one's behavior as volitional and self-endorsed — to feel like the author of one's actions rather than their instrument. *[[Competence-Need|Competence]]*: The need to feel effective in interactions with the environment — to experience mastery and growth. *[[Relatedness-Need|Relatedness]]*: The need to feel connected to others, to care and to be cared for within secure relational contexts. These are *psychological* needs in the strict sense: their satisfaction supports growth, integration, and wellbeing; their frustration produces ill-being...
 > 
 > *Source: self-determination-theory-focused-analysis-2026-03-19* | *Domain: motivational-psychology*
@@ -2089,7 +2088,7 @@ importance: high
 > *Source: cognitive-load-theory-focused-analysis-2026-03-06* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Germane-Cognitive-Load|Germane Cognitive Load]]*
 
-> [!definition] **Germane Cognitive Load (Sweller, van Merriënboer & Paas, 1998) — Original Formulation** **[perm-note]**
+> [!definition] **Germane Cognitive Load (Sweller, van Merriënboer & Paas, 1998) — Original Formulation** *[needs-note]*
 > In the original three-component model, germane load referred to the cognitive effort specifically dedicated to schema formation and automation — the "good" load associated with active learning processes. The idea was that once extraneous load was minimized, designers could deliberately increase germane load (e.g., by introducing variability, by requiring self-explanation) to promote deeper schema formation. This construct became theoretically problematic (see Phase III) and was reconceptualized around 2010: subsequent accounts treat what was called germane load as a resource allocation desc...
 > 
 > *Source: cognitive-load-theory-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
@@ -3321,7 +3320,7 @@ importance: high
 > *Source: cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Personal-Workflow-Architecture|Personal Workflow Architecture]]*
 
-> [!definition] **Phase vs. Area — A Critical Distinction** **[perm-note]**
+> [!definition] **Phase vs. Area — A Critical Distinction** *[needs-note]*
 > Phases and areas interact, but they are not the same thing. A *phase* describes a temporal moment in the regulatory cycle; an *area* describes a domain of regulatory attention. The monitoring phase involves monitoring cognition, monitoring motivation, monitoring behavior, and monitoring context — four distinct monitoring activities happening within the same temporal window. Confusing phases with areas leads to systematically incomplete models that effectively reduce to single-area monitoring (usually cognition) spread across time.
 > 
 > *Source: pintrichs-framework-srl-focused-analysis-2026-03-23* | *Domain: Educational Psychology*
@@ -3365,7 +3364,7 @@ importance: high
 > *Source: report-15-the-examined-life-revisited* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Physiological-Metacognition|Physiological Metacognition]]*
 
-> [!definition] **Pintrich's 4×4 Matrix** **[perm-note]**
+> [!definition] **Pintrich's 4×4 Matrix** *[needs-note]*
 > **Definition:** A theoretical architecture for self-regulated learning consisting of four regulatory phases (Forethought/Planning/Activation; Monitoring; Control; Reaction/Reflection) crossed with four regulated areas (Cognition; Motivation/Affect; Behavior; Context), generating 16 cells each representing a distinct regulatory activity. The matrix is analytic — it decomposes simultaneous regulatory processes for examination — not sequential.
 > 
 > **Report-Specific Significance:** The matrix structure is both Pintrich's principal contribution and the source of the tractability problem identified...
@@ -3550,7 +3549,7 @@ importance: high
 > *Source: metacognitive-scaffolding-focused-analysis-2026-03-20* | *Domain: Educational Psychology*
 > *Permanent Note: [[Progressive-Disclosure|Progressive Disclosure]]*
 
-> [!definition] **Prokoptōn** **[perm-note]**
+> [!definition] **Prokoptōn** *[needs-note]*
 > The Stoic term for the person making progress — the one who is neither the unreflective ordinary person nor the achieved sage, but is genuinely oriented toward the ideal and actively developing toward it. The prokoptōn is the appropriate self-description at every stage of the developmental model: not "I have arrived" but "I am genuinely on the way." The concept captures an important philosophical point: the examined life is not a state to be achieved but an orientation to be maintained, and the orientation itself — the genuine commitment to honest engagement with reality — is the primary ac...
 > 
 > *Source: report-15-the-examined-life-revisited* | *Domain: Other / Uncategorised*
@@ -3891,7 +3890,7 @@ importance: high
 > *Source: metacognitive-scaffolding-focused-analysis-2026-03-20* | *Domain: Educational Psychology*
 > *Permanent Note: [[Scaffolded-Fading|Scaffolded Fading]]*
 
-> [!definition] **Scaffolding — Instructional Design** **[perm-note]**
+> [!definition] **Scaffolding — Instructional Design** *[needs-note]*
 > Contingent support provided to a learner working within their [[Zone-of-Proximal-Development]] that enables task performance currently beyond independent capability. Six defining functions: recruitment (engaging learner interest in the task), reduction of degrees of freedom (simplifying the task without eliminating its essential structure), direction maintenance (keeping the learner focused on the goal), marking critical features (highlighting key errors and relevant task features), frustration control (managing the affective response to difficulty), and demonstration (modelling ideal solut...
 > 
 > *Source: metacognitive-scaffolding-focused-analysis-2026-03-20* | *Domain: Educational Psychology*
@@ -4000,7 +3999,7 @@ importance: high
 > *Source: self-directed-learning-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Self-Directed-Learning-Readiness-Scale|Self-Directed Learning Readiness Scale]]*
 
-> [!definition] **Self-Directedness — Trait or Readiness Sense** **[perm-note]**
+> [!definition] **Self-Directedness — Trait or Readiness Sense** *[needs-note]*
 > A relatively stable cluster of attitudes, abilities, and personal characteristics associated with taking initiative and responsibility in learning. This includes openness to learning opportunities, self-concept as an effective and independent learner, initiative and independence in learning, informed acceptance of responsibility for one's own learning, love of learning, creativity, future orientation, and the ability to use basic study and problem-solving skills. Self-directedness, in this sense, is not something one does but something one *has* — a readiness or propensity that varies acros...
 > 
 > *Source: self-directed-learning-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*

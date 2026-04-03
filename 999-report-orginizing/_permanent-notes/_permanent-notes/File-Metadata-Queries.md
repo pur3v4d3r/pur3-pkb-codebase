@@ -88,7 +88,9 @@ see-also:
   - "[[File-Properties|File Properties]]"
   - "[[Dashboard-Design|Dashboard Design]]"
   - "[[PKB-Architecture|PKB Architecture]]"
-  - "[[Dataview-Inline-Queries:-In-Note-Metadata-Panel|Dataview Inline Queries: In-Note Metadata Panel]]"
+  - "[[Dataview]]"
+  - "[[Dashboard-Design|Dashboard Design]]"
+  - "[[PKB-Architecture|PKB Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -158,10 +160,6 @@ importance: medium
 
 **Related concepts:**
 [[Dataview-Inline-Queries-In-Note-Metadata-Panel|Dataview Inline Queries: In-Note Metadata Panel]] · [[Dataview]] · [[Inline-Queries|Inline Queries]] · [[Metadata]] · [[Frontmatter]] · [[YAML]] · [[DQL]] · [[Obsidian]] · [[Knowledge-Graph|Knowledge Graph]] · [[Link-Analysis|Link Analysis]] · [[Temporal-Queries|Temporal Queries]] · [[Aggregation-Functions|Aggregation Functions]] · [[Conditional-Logic|Conditional Logic]] · [[String-Manipulation|String Manipulation]] · [[File-Properties|File Properties]] · [[Dashboard-Design|Dashboard Design]] · [[PKB-Architecture|PKB Architecture]] · [[Dataview]] · [[Dashboard-Design|Dashboard Design]] · [[PKB-Architecture|PKB Architecture]] · [[Obsidian]] · [[Knowledge-Graph|Knowledge Graph]] · [[Zettelkasten]] · [[YAML]] · [[Dataview]] · [[Dataview]] · [[Dataview]] · [[+-l-+|" + l + "]] · [[Dashboard-Design|Dashboard Design]] · [[Zettelkasten]]
-
-**Related concepts** *(from reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md)*:
-[[Dataview-Inline-Queries:-In-Note-Metadata-Panel|Dataview Inline Queries: In-Note Metadata Panel]] * [[Inline-Queries|Inline Queries]] * [[Knowledge-Graph|Knowledge Graph]] * [[Link-Analysis|Link Analysis]] * [[Temporal-Queries|Temporal Queries]] * [[Aggregation-Functions|Aggregation Functions]] * [[Conditional-Logic|Conditional Logic]] * [[String-Manipulation|String Manipulation]] * [[File-Properties|File Properties]] * [[Dashboard-Design|Dashboard Design]] * [["-+-l-+-"|" + l + "]] * [[03-notes/01_permanent-notes/01_cognitive-development/Spaced-Repetition|03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] * [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] * [[Templater-Integration-with-Dataview|Templater Integration with Dataview]] * [[Templater|Templater]] * [[Meta-Bind-Reactive-Fields|Meta Bind Reactive Fields]] * [[Knowledge-Graph-Analytics-Formulas|Knowledge Graph Analytics Formulas]]
-
 
 ## Methodology Notes
 

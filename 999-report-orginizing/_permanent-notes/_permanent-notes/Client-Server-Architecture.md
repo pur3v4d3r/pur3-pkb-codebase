@@ -81,10 +81,15 @@ see-also:
   - "[[Gemini-Code-Assist|Gemini Code Assist]]"
   - "[[Obsidian-Automation|Obsidian Automation]]"
   - "[[Claude-Code|Claude Code]]"
+  - "[[Gemini-Code-Assist|Gemini Code Assist]]"
   - "[[Obsidian]]"
   - "[[Prompt-Engineering|Prompt Engineering]]"
   - "[[AI-Agents|AI Agents]]"
+  - "[[Claude-Code|Claude Code]]"
   - "[[Claude-Desktop|Claude Desktop]]"
+  - "[[Claude-Code|Claude Code]]"
+  - "[[Gemini-Code-Assist|Gemini Code Assist]]"
+  - "[[Obsidian]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -352,26 +357,6 @@ importance: medium
 
 **Related concepts:**
 [[Comprehensive-Refernece-MCP-Servers|**Comprehensive Refernece: MCP Servers**]] · [[API-Fundamentals|API Fundamentals]] · [[JSON-RPC]] · [[AI-Agent-Architecture|AI Agent Architecture]] · [[Custom-MCP-Server-Development|Custom MCP Server Development]] · [[AI-PKB-Integration|AI-PKB Integration]] · [[Prompt-Library-Management|Prompt Library Management]] · [[Claude-Code-Workflows|Claude Code Workflows]] · [[Gemini-Code-Assist|Gemini Code Assist]] · [[Obsidian-Automation|Obsidian Automation]] · [[Claude-Code|Claude Code]] · [[Gemini-Code-Assist|Gemini Code Assist]] · [[Obsidian]] · [[Prompt-Engineering|Prompt Engineering]] · [[AI-Agents|AI Agents]] · [[Claude-Code|Claude Code]] · [[Claude-Desktop|Claude Desktop]] · [[Claude-Code|Claude Code]] · [[Gemini-Code-Assist|Gemini Code Assist]] · [[Obsidian]] · [[Dataview]] · [[Templater]] · [[Unix-Philosophy|Unix Philosophy]] · [[API-Design-Patterns|API Design Patterns]] · [[Knowledge-Graph-Theory|Knowledge Graph Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Claude-Code|Claude Code]] · [[Obsidian]] · [[Prompt-Engineering|Prompt Engineering]] · [[AI-Agent-Architecture|AI Agent Architecture]]
-
-**Related concepts** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-[[API-Fundamentals|API Fundamentals]] * [[AI-Agent-Architecture|AI Agent Architecture]] * [[Custom-MCP-Server-Development|Custom MCP Server Development]] * [[AI-PKB-Integration|AI-PKB Integration]] * [[Prompt-Library-Management|Prompt Library Management]] * [[Claude-Code-Workflows|Claude Code Workflows]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Obsidian-Automation|Obsidian Automation]] * [[Claude-Code|Claude Code]] * [[Prompt-Engineering|Prompt Engineering]] * [[AI-Agents|AI Agents]] * [[Claude-Desktop|Claude Desktop]] * [[Unix-Philosophy|Unix Philosophy]] * [[API-Design-Patterns|API Design Patterns]] * [[Knowledge-Graph-Theory|Knowledge Graph Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[MCP-Tools|MCP Tools]] * [[MCP-Resources|MCP Resources]] * [[MCP-Prompts|MCP Prompts]] * [[FastMCP|FastMCP]] * [[MCP-Security-Best-Practices|MCP Security Best Practices]] * [[Obsidian-MCP-Integration|Obsidian MCP Integration]] * [[Zettelkasten|Zettelkasten]] * [[Spaced-Repetition|Spaced Repetition]] * [[PARA-Method|PARA Method]] * [[FastMCP-Development-Guide|FastMCP Development Guide]] * [[Python-Fundamentals|Python Fundamentals]] * [[Async-Programming|Async Programming]] * [[MCP-Security-Hardening|MCP Security Hardening]] * [[Docker-Fundamentals|Docker Fundamentals]]
-
-**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-- [[Claude-Code|Claude Code]]
-- [[Obsidian|Obsidian]]
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[AI-Agent-Architecture|AI Agent Architecture]]
-- [[JSON-RPC|JSON-RPC]]
-
-**Cross-report connections** *(from reference-comprehensive-mcp-servers-2025122412.md)*:
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Prompt-Engineering|Prompt Engineering]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[VS-Code|VS Code]]
-- [[Claude-Code|Claude Code]]
-
-
-
 
 ## Methodology Notes
 

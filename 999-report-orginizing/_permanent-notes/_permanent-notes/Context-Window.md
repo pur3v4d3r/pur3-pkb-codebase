@@ -81,13 +81,15 @@ see-also:
   - "[[API]]"
   - "[[Large-Language-Models|Large Language Models]]"
   - "[[Template-Engineering|Template Engineering]]"
+  - "[[Smart-Connections|Smart Connections]]"
   - "[[Claude-Projects|Claude Projects]]"
   - "[[PKB]]"
+  - "[[Obsidian]]"
+  - "[[Large-Language-Models|Large Language Models]]"
   - "[[OpenAI]]"
   - "[[Anthropic-Claude|Anthropic Claude]]"
   - "[[Google-Gemini|Google Gemini]]"
   - "[[HuggingFace]]"
-  - "[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -165,10 +167,6 @@ importance: medium
 
 **Related concepts:**
 [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] · [[Smart-Connections|Smart Connections]] · [[Templater]] · [[Dataview]] · [[Claude-API|Claude API]] · [[Prompt-Engineering|Prompt Engineering]] · [[PKB-Automation|PKB Automation]] · [[Obsidian]] · [[API]] · [[Large-Language-Models|Large Language Models]] · [[Template-Engineering|Template Engineering]] · [[Smart-Connections|Smart Connections]] · [[Claude-Projects|Claude Projects]] · [[PKB]] · [[Obsidian]] · [[Large-Language-Models|Large Language Models]] · [[OpenAI]] · [[Anthropic-Claude|Anthropic Claude]] · [[Google-Gemini|Google Gemini]] · [[HuggingFace]] · [[Ollama]] · [[Template-System|Template System]] · [[PKB]] · [[ChatGPT]] · [[Claude.ai]] · [[Cognitive-Load|Cognitive Load]] · [[API]] · [[Knowledge-Graph|Knowledge Graph]] · [[API]] · [[Template-System|Template System]]
-
-**Related concepts** *(from reference-comprehensive-text-generator-plugin-complete-api-interface-reference-2025121507.md)*:
-[[Text-Generator-Plugin:-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]] * [[Smart-Connections|Smart Connections]] * [[Claude-API|Claude API]] * [[Prompt-Engineering|Prompt Engineering]] * [[PKB-Automation|PKB Automation]] * [[Large-Language-Models|Large Language Models]] * [[Template-Engineering|Template Engineering]] * [[Claude-Projects|Claude Projects]] * [[Anthropic-Claude|Anthropic Claude]] * [[Google-Gemini|Google Gemini]] * [[Template-System|Template System]] * [[Cognitive-Load|Cognitive Load]] * [[Knowledge-Graph|Knowledge Graph]] * [[Semantic-Search|Semantic Search]] * [[Reference-Note|Reference Note]] * [[LLM|LLM]] * [[Anthropic|Anthropic]] * [[Google|Google]] * [[Claude|Claude]] * [[Anthropic-API|Anthropic API]] * [[Markdown|Markdown]] * [[YAML-Frontmatter|YAML Frontmatter]] * [[Handlebars|Handlebars]] * [[Personal-Knowledge-Management|Personal Knowledge Management]] * [[like-this|like this]] * [[wiki-links|wiki-links]] * [[wiki-link|wiki-link]] * [[AI-Embeddings|AI Embeddings]] * [[related-notes|related notes]] * [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-
 
 ## Methodology Notes
 

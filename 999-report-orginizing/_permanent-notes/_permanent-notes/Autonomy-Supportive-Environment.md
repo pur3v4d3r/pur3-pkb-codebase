@@ -285,26 +285,6 @@ importance: high
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] · [[Intrinsic-Motivation|Intrinsic motivation]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Need-deprivation|Need deprivation]] · [[Need-Thwarting|Need thwarting]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Csikszentmihalyi]] · [[Flow]] · [[Conditional-Regard|Conditional regard]] · [[Avi-Assor|Avi Assor]] · [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] · [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] · [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] · [[Expectancy-Value-Theory|Expectancy-Value Theory]] · [[Gamification-in-Learning|Gamification in Learning]] · [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] · [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] · [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]] · [[SDT-and-Formative-Assessment-Feedback-as-Informational-or-Controlling|SDT and Formative Assessment: Feedback as Informational or Controlling]] · [[Cultural-Universality-vs.-Cultural-Moderation-in-SDT-A-Critical-Analysis|Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]] · [[SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos|SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]] · [[Internalization-and-Academic-Identity-Why-Some-Students-Never-Reach-Integrated-R|Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]] · [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]
 
-**Related concepts** *(from sdt-focused-analysis-2026-03-06.md)*:
-[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-Motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-Thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Conditional-Regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Gamification-in-Learning|Gamification in Learning]] * [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis|Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]] * [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments|Autonomy Support in Digital and AI-Mediated Learning Environments]] * [[SDT-and-Formative-Assessment:-Feedback-as-Informational-or-Controlling|SDT and Formative Assessment: Feedback as Informational or Controlling]] * [[Cultural-Universality-vs.-Cultural-Moderation-in-SDT:-A-Critical-Analysis|Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]] * [[SDT-Meets-Achievement-Goal-Theory:-Convergences,-Divergences,-and-Integration-Possibilities|SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]] * [[Internalization-and-Academic-Identity:-Why-Some-Students-Never-Reach-Integrated-Regulation|Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
-
-**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
-- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Gamification-in-Learning|Gamification in Learning]]
-
-**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
-- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
-- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Gamification-in-Learning|Gamification in Learning]]
-
-
-
-
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
@@ -319,66 +299,6 @@ importance: high
 - **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
 
 *Citations sourced from [[sdt-focused-analysis-2026-03-06]]*
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
-
-- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
-
-- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
-
-- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
-
-- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
-
-- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
-
-- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
-
-- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
-
-- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
-
-- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
-
-- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
-
-- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
-
-- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
-
-- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
-
-- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
-
-- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
-
-- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
-
-- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

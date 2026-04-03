@@ -71,14 +71,19 @@ narrower:
 see-also:
   - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[Allen-Tough|Allen Tough]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[Adult-Education|Adult Education]]"
   - "[[Online-Learning-Design|Online Learning Design]]"
   - "[[Learning-Contracts|Learning Contracts]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
+  - "[[Adult-Education|Adult Education]]"
   - "[[Malcolm-Knowles|Malcolm Knowles]]"
   - "[[Andragogy]]"
   - "[[pedagogy]]"
+  - "[[Allen-Tough|Allen Tough]]"
   - "[[Philip-Candy|Philip Candy]]"
   - "[[Heutagogy]]"
   - "[[Stewart-Hase|Stewart Hase]]"
@@ -227,26 +232,6 @@ importance: high
 **Related concepts:**
 [[Self-Directed-Learning|Self-Directed Learning]] · [[Allen-Tough|Allen Tough]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Adult-Education|Adult Education]] · [[Online-Learning-Design|Online Learning Design]] · [[Learning-Contracts|Learning Contracts]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Adult-Education|Adult Education]] · [[Malcolm-Knowles|Malcolm Knowles]] · [[Andragogy]] · [[pedagogy]] · [[Allen-Tough|Allen Tough]] · [[Philip-Candy|Philip Candy]] · [[Heutagogy]] · [[Stewart-Hase|Stewart Hase]] · [[Chris-Kenyon|Chris Kenyon]] · [[Lucy-Guglielmino|Lucy Guglielmino]] · [[Roger-Brockett|Roger Brockett]] · [[Ralph-Hiemstra|Ralph Hiemstra]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[D.-Randy-Garrison|D. Randy Garrison]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Argyris-and-Schön|Argyris and Schön]]
 
-**Related concepts** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Philip-Candy|Philip Candy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]] * [[Ralph-Hiemstra|Ralph Hiemstra]] * [[D.-Randy-Garrison|D. Randy Garrison]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Argyris-and-Schön|Argyris and Schön]] * [[Stephen-Brookfield|Stephen Brookfield]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Personal-Learning-Environments|Personal Learning Environments]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Growth-Mindset|Growth Mindset]] * [[Transformative-Learning|Transformative Learning]]
-
-**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-- [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-- [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-
-
-
 ## References
 
 - **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
@@ -261,66 +246,6 @@ importance: high
 - **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The most influential statement of Self-Regulated Learning theory from a social cognitive perspective. Essential for understanding the distinction between SDL and SRL and for mapping the conceptual landscape around learner autonomy. Supports Phase III's discussion of the SDL-SRL distinction and Phase IV's metacognitive mechanisms section.
 
 *Citations sourced from [[self-directed-learning-foundational-report-2026-03-11]]*
-
-- **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
-
-- **Tough, A. (1971). *The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning*. Ontario Institute for Studies in Education.**: The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
-
-- **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
-
-- **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
-
-- **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-- **Garrison, D. R. (1997). Self-directed learning: Toward a comprehensive model. *Adult Education Quarterly, 48*(1), 18–33.**: The paper introducing the three-component SDL model integrating self-management, self-monitoring, and motivation. One of the most theoretically sophisticated and empirically grounded treatments in the literature. Directly supports Phase III and Phase IV. Essential reading for anyone who wants to connect SDL theory to cognitive psychology and motivational research.
-
-- **Hase, S., & Kenyon, C. (2000). From andragogy to heutagogy. *Ultibase Articles, 5*(3), 1–10.**: The original articulation of heutagogy as an extension of SDL. Short and accessible, though the theoretical foundations are sketched rather than developed. Should be read alongside Hase and Kenyon's 2007 elaboration for a more complete account. Important for connecting SDL theory to capability development and to the challenge of learning for complex, unpredictable environments.
-
-- **Brookfield, S. D. (1985). Self-directed learning: From theory to practice. *New Directions for Continuing Education, 1985*(25), 1–9.**: An early and still useful critical engagement with SDL that raises ideological questions about the autonomy discourse. Brookfield's subsequent work develops these critiques further. Essential reading for avoiding uncritical acceptance of SDL rhetoric and for understanding the political dimensions of apparently neutral pedagogical choices. Directly supports the critical section of Phase III.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The foundational statement of Self-Determination Theory. While not primarily about SDL, this paper provides the theoretical foundation for SDL's motivational mechanisms — specifically the distinction between intrinsic motivation, identified regulation, and external regulation, and their differential effects on learning quality and persistence. Essential background for understanding why not all self-directed learning is equally effective.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The most influential statement of Self-Regulated Learning theory from a social cognitive perspective. Essential for understanding the distinction between SDL and SRL and for mapping the conceptual landscape around learner autonomy. Supports Phase III's discussion of the SDL-SRL distinction and Phase IV's metacognitive mechanisms section.
-
-- **Knowles, M. S. (1975). *Self-Directed Learning: A Guide for Learners and Teachers*. Association Press.**: The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
-
-- **Tough, A. (1971). *The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning*. Ontario Institute for Studies in Education.**: The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
-
-- **Guglielmino, L. M. (1977). *Development of the Self-Directed Learning Readiness Scale* [Doctoral dissertation, University of Georgia]. Dissertation Abstracts International, 38(11A), 6467.**: The original development and validation study for the SDLRS. Should be read alongside later psychometric critiques (particularly Bonham, 1991, and Field, 1989) for a balanced view of the instrument's validity. Guglielmino's conceptualisation of self-directedness as a multi-faceted readiness construct, rather than a simple attitude, remains theoretically significant even where the specific factor structure is disputed.
-
-- **Candy, P. C. (1991). *Self-Direction for Lifelong Learning: A Comprehensive Guide to Theory and Practice*. Jossey-Bass.**: The most theoretically sophisticated and philosophically grounded treatment of SDL in the literature. Candy's constructivist account, his four-fold conceptual distinction, and his historical survey of the field remain the standard reference for scholars seeking rigorous engagement with the construct. The book is long and dense, but the opening conceptual chapters repay careful reading. Directly supports Phases II and III of this report.
-
-- **Brockett, R. G., & Hiemstra, R. (1991). *Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice*. Routledge.**: The source of the Personal Responsibility Orientation (PRO) model. Essential for understanding the process-person distinction that resolves the field's major definitional ambiguity. The authors also provide a comprehensive review of research to that point and a critical analysis of where the SDL field needed to go; their predictions about the field's development proved largely accurate.
-
-- **Garrison, D. R. (1997). Self-directed learning: Toward a comprehensive model. *Adult Education Quarterly, 48*(1), 18–33.**: The paper introducing the three-component SDL model integrating self-management, self-monitoring, and motivation. One of the most theoretically sophisticated and empirically grounded treatments in the literature. Directly supports Phase III and Phase IV. Essential reading for anyone who wants to connect SDL theory to cognitive psychology and motivational research.
-
-- **Hase, S., & Kenyon, C. (2000). From andragogy to heutagogy. *Ultibase Articles, 5*(3), 1–10.**: The original articulation of heutagogy as an extension of SDL. Short and accessible, though the theoretical foundations are sketched rather than developed. Should be read alongside Hase and Kenyon's 2007 elaboration for a more complete account. Important for connecting SDL theory to capability development and to the challenge of learning for complex, unpredictable environments.
-
-- **Brookfield, S. D. (1985). Self-directed learning: From theory to practice. *New Directions for Continuing Education, 1985*(25), 1–9.**: An early and still useful critical engagement with SDL that raises ideological questions about the autonomy discourse. Brookfield's subsequent work develops these critiques further. Essential reading for avoiding uncritical acceptance of SDL rhetoric and for understanding the political dimensions of apparently neutral pedagogical choices. Directly supports the critical section of Phase III.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The foundational statement of Self-Determination Theory. While not primarily about SDL, this paper provides the theoretical foundation for SDL's motivational mechanisms — specifically the distinction between intrinsic motivation, identified regulation, and external regulation, and their differential effects on learning quality and persistence. Essential background for understanding why not all self-directed learning is equally effective.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The most influential statement of Self-Regulated Learning theory from a social cognitive perspective. Essential for understanding the distinction between SDL and SRL and for mapping the conceptual landscape around learner autonomy. Supports Phase III's discussion of the SDL-SRL distinction and Phase IV's metacognitive mechanisms section.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

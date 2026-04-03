@@ -85,6 +85,7 @@ see-also:
   - "[[Knightian-Uncertainty|Knightian Uncertainty]]"
   - "[[John-Kay|John Kay]]"
   - "[[Mervyn-King|Mervyn King]]"
+  - "[[Aristotle]]"
   - "[[Nicomachean-Ethics|Nicomachean Ethics]]"
   - "[[theoretical-wisdom|theoretical wisdom]]"
   - "[[Kristjan-Kristjansson|Kristjan Kristjansson]]"
@@ -172,10 +173,6 @@ importance: high
 **Related concepts:**
 [[Phronesis]] · [[Gerd-Gigerenzer|Gerd Gigerenzer]] · [[Kathekon]] · [[hormê]] · [[Aristotle]] · [[Gary-Klein|Gary Klein]] · [[Naturalistic-Decision-Making|Naturalistic Decision Making]] · [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] · [[Ecological-Rationality|Ecological Rationality]] · [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] · [[Frank-Knight|Frank Knight]] · [[Knightian-Uncertainty|Knightian Uncertainty]] · [[John-Kay|John Kay]] · [[Mervyn-King|Mervyn King]] · [[Aristotle]] · [[Nicomachean-Ethics|Nicomachean Ethics]] · [[theoretical-wisdom|theoretical wisdom]] · [[Kristjan-Kristjansson|Kristjan Kristjansson]] · [[Byron-Fowers|Byron Fowers]] · [[Barry-Schwartz|Barry Schwartz]] · [[Gary-Klein|Gary Klein]] · [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] · [[Simon's]] · [[Gerd-Gigerenzer|Gerd Gigerenzer]] · [[Ecological-Rationality|Ecological Rationality]] · [[Herbert-Simon|Herbert Simon]] · [[Satisficing]] · [[Artinger]] · [[Phantasia]] · [[Synkatathesis]]
 
-**Related concepts** *(from report-11-the-practical-reasoner.md)*:
-[[Gerd-Gigerenzer|Gerd Gigerenzer]] * [[Gary-Klein|Gary Klein]] * [[Naturalistic-Decision-Making|Naturalistic Decision Making]] * [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] * [[Ecological-Rationality|Ecological Rationality]] * [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] * [[Frank-Knight|Frank Knight]] * [[Knightian-Uncertainty|Knightian Uncertainty]] * [[John-Kay|John Kay]] * [[Mervyn-King|Mervyn King]] * [[Nicomachean-Ethics|Nicomachean Ethics]] * [[theoretical-wisdom|theoretical wisdom]] * [[Kristjan-Kristjansson|Kristjan Kristjansson]] * [[Byron-Fowers|Byron Fowers]] * [[Barry-Schwartz|Barry Schwartz]] * [[Herbert-Simon|Herbert Simon]] * [[Kathêkon|Kathêkon]] * [[Epictetus|Epictetus]] * [[Fallibilism|Fallibilism]] * [[Analysis-Paralysis|Analysis paralysis]] * [[Dichotomy-of-Control|Dichotomy of Control]] * [[Michael-Polanyi|Michael Polanyi]] * [[Harry-Collins|Harry Collins]] * [[Dreyfus|Dreyfus]] * [[Pellegrino|Pellegrino]] * [[Thomasma|Thomasma]] * [[Nel-Noddings|Nel Noddings]] * [[Schwartz-&-Sharpe|Schwartz & Sharpe]] * [[scenario-planning|scenario planning]] * [[robust-satisficing|robust satisficing]]
-
-
 ## References
 
 - **📚 Aristotle. *Nicomachean Ethics*, Books VI and X**: Translated by T. Irwin. Hackett, 1999. The primary source for the phronesis framework. Books VI and X contain Aristotle's account of intellectual virtues, the distinction between sophia and phronesis, and the extended analysis of practical wisdom as irreducible practical intelligence.
@@ -192,30 +189,6 @@ importance: high
 - **📚 Epictetus. *Discourses* and *Enchiridion***: Translated by R. Dobbin. Oxford World's Classics, 2008. Primary Stoic sources for the kathekon/hormê framework, the dichotomy of control, and the theory of assent.
 
 *Citations sourced from [[report-11-the-practical-reasoner]]*
-
-- **📚 Aristotle. *Nicomachean Ethics*, Books VI and X**: Translated by T. Irwin. Hackett, 1999. The primary source for the phronesis framework. Books VI and X contain Aristotle's account of intellectual virtues, the distinction between sophia and phronesis, and the extended analysis of practical wisdom as irreducible practical intelligence.
-
-- **📚 Kristjansson, K., & Fowers, B. J. (2024). *Phronesis: Retrieving Practical Wisdom in Psychology, Philosophy, and Education***: Oxford University Press. doi: 10.1093/oso/9780192871473.001.0001. Contemporary neo-Aristotelian synthesis of phronesis research across psychology, philosophy, and education. Presents four-function model. Primary source for contemporary philosophical and empirical development of the phronesis framework.
-
-- **📚 Klein, G. A. (1999). *Sources of Power: How People Make Decisions***: MIT Press. Seminal presentation of the Recognition-Primed Decision model, based on fieldwork with firefighters, military commanders, and other expert practitioners. Primary source for naturalistic decision making research.
-
-- **📚 Klein, G. A. (2015). *Seeing What Others Don't: The Remarkable Ways We Gain Insights***: PublicAffairs. Extension of NDM research to insight and expertise. Develops the "triple path model" of insight generation.
-
-- **📚 Kay, J., & King, M. (2020). *Radical Uncertainty: Decision-Making Beyond the Numbers***: W. W. Norton. Extension of Knightian uncertainty to contemporary decision-making in economics, policy, and life. Argues for narrative-based approaches to irreducibly uncertain decisions.
-
-- **📚 Knight, F. H. (1921). *Risk, Uncertainty and Profit***: Hart, Schaffner & Marx. Original presentation of the risk/uncertainty distinction. Foundational for all subsequent work on Knightian uncertainty and its implications for decision theory.
-
-- **📚 Schwartz, B., & Sharpe, K. (2010). *Practical Wisdom: The Right Way to Do the Right Thing***: Riverhead Books. Accessible contemporary treatment of phronesis in professional contexts, demonstrating the inadequacy of rules-based approaches without practical wisdom.
-
-- **📚 Epictetus. *Discourses* and *Enchiridion***: Translated by R. Dobbin. Oxford World's Classics, 2008. Primary Stoic sources for the kathekon/hormê framework, the dichotomy of control, and the theory of assent.
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

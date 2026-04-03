@@ -80,13 +80,16 @@ see-also:
   - "[[Literature-Notes|Literature Notes]]"
   - "[[Permanent-Notes|Permanent Notes]]"
   - "[[Bidirectional-Linking|Bidirectional Linking]]"
+  - "[[Zettelkasten-Method|Zettelkasten Method]]"
   - "[[Systematic-Review-Protocols|Systematic Review Protocols]]"
   - "[[Critical-Appraisal-Tools|Critical Appraisal Tools]]"
+  - "[[Zettelkasten-Method|Zettelkasten Method]]"
   - "[[Search-Strategy-Development|Search Strategy Development]]"
   - "[[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]]"
   - "[[Source-Evaluation|Source Evaluation]]"
   - "[[Atomic-Notes|Atomic Notes]]"
   - "[[Graph-View|Graph View]]"
+  - "[[Bidirectional-Linking|Bidirectional Linking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -130,10 +133,6 @@ importance: medium
 
 **Related concepts:**
 [[Personal-Knowledge-Base|Personal Knowledge Base]] · [[PRISMA-Guidelines|PRISMA Guidelines]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Zotero]] · [[Obsidian]] · [[Citation-Management|Citation Management]] · [[Personal-Knowledge-Management|Personal Knowledge Management]] · [[Literature-Notes|Literature Notes]] · [[Permanent-Notes|Permanent Notes]] · [[Bidirectional-Linking|Bidirectional Linking]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Systematic-Review-Protocols|Systematic Review Protocols]] · [[Critical-Appraisal-Tools|Critical Appraisal Tools]] · [[Zettelkasten-Method|Zettelkasten Method]] · [[Search-Strategy-Development|Search Strategy Development]] · [[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]] · [[Source-Evaluation|Source Evaluation]] · [[Atomic-Notes|Atomic Notes]] · [[Graph-View|Graph View]] · [[Bidirectional-Linking|Bidirectional Linking]] · [[Bibliographic-Metadata|Bibliographic Metadata]] · [[Reference-Notes|Reference Notes]] · [[Search-Strings|Search Strings]] · [[Meta-Analysis]] · [[Effect-Size-Calculations|Effect Size Calculations]] · [[Heterogeneity-Analyses|Heterogeneity Analyses]] · [[Publication-Bias-Assessments|Publication Bias Assessments]] · [[Scoping-Reviews|Scoping Reviews]] · [[Thematic-Analysis|Thematic Analysis]] · [[Conceptual-Framework-Development|Conceptual Framework Development]]
-
-**Related concepts** *(from pkb-report-literature-review-methodology-for-pkb-research-202512040139.md)*:
-[[Personal-Knowledge-Base|Personal Knowledge Base]] * [[PRISMA-Guidelines|PRISMA Guidelines]] * [[Zettelkasten-Method|Zettelkasten Method]] * [[Citation-Management|Citation Management]] * [[Personal-Knowledge-Management|Personal Knowledge Management]] * [[Literature-Notes|Literature Notes]] * [[Permanent-Notes|Permanent Notes]] * [[Bidirectional-Linking|Bidirectional Linking]] * [[Systematic-Review-Protocols|Systematic Review Protocols]] * [[Critical-Appraisal-Tools|Critical Appraisal Tools]] * [[Search-Strategy-Development|Search Strategy Development]] * [[Inclusion-and-Exclusion-Criteria|Inclusion and Exclusion Criteria]] * [[Source-Evaluation|Source Evaluation]] * [[Atomic-Notes|Atomic Notes]] * [[Graph-View|Graph View]] * [[Bibliographic-Metadata|Bibliographic Metadata]] * [[Reference-Notes|Reference Notes]] * [[Search-Strings|Search Strings]] * [[Effect-Size-Calculations|Effect Size Calculations]] * [[Heterogeneity-Analyses|Heterogeneity Analyses]] * [[Publication-Bias-Assessments|Publication Bias Assessments]] * [[Scoping-Reviews|Scoping Reviews]] * [[Thematic-Analysis|Thematic Analysis]] * [[Conceptual-Framework-Development|Conceptual Framework Development]] * [[Rapid-Evidence-Assessments|Rapid Evidence Assessments]] * [[Realist-Reviews|Realist Reviews]] * [[Context-Mechanism-Outcome-Configurations|Context-Mechanism-Outcome Configurations]] * [[Meta-Ethnography|Meta-Ethnography]] * [[Conceptual-Networks|Conceptual Networks]] * [[Tag-Taxonomies|Tag Taxonomies]]
-
 
 ## References
 

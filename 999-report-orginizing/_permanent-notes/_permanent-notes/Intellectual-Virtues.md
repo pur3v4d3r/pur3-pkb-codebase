@@ -73,6 +73,7 @@ see-also:
   - "[[Amos-Tversky|Amos Tversky]]"
   - "[[Debiasing-Interventions|Debiasing Interventions]]"
   - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
   - "[[Linda-Zagzebski|Linda Zagzebski]]"
   - "[[Jason-Baehr|Jason Baehr]]"
   - "[[Heather-Battaly|Heather Battaly]]"
@@ -82,8 +83,11 @@ see-also:
   - "[[Cognitive-Bias-Research|Cognitive Bias Research]]"
   - "[[Motivated-Reasoning|Motivated Reasoning]]"
   - "[[Ziva-Kunda|Ziva Kunda]]"
+  - "[[Motivated-Reasoning|Motivated Reasoning]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
   - "[[Epistemology]]"
   - "[[Reliabilism]]"
+  - "[[Linda-Zagzebski|Linda Zagzebski]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -174,28 +178,6 @@ importance: high
 **Related concepts:**
 [[Heuristics-and-Biases-Program|Heuristics and Biases Program]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]] · [[Debiasing-Interventions|Debiasing Interventions]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Linda-Zagzebski|Linda Zagzebski]] · [[Jason-Baehr|Jason Baehr]] · [[Heather-Battaly|Heather Battaly]] · [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] · [[Epictetus]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Cognitive-Bias-Research|Cognitive Bias Research]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Ziva-Kunda|Ziva Kunda]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Virtue-Epistemology|Virtue Epistemology]] · [[Epistemology]] · [[Reliabilism]] · [[Linda-Zagzebski|Linda Zagzebski]] · [[Jason-Baehr|Jason Baehr]] · [[Heather-Battaly|Heather Battaly]] · [[Linda-Zagzebski|Linda Zagzebski]] · [[Jason-Baehr|Jason Baehr]] · [[Heather-Battaly|Heather Battaly]] · [[Intellectual-Perseverance|Intellectual Perseverance]] · [[Intellectual-Humility|Intellectual Humility]] · [[Intellectual-Courage|Intellectual Courage]] · [[Intellectual-Empathy|Intellectual Empathy]] · [[Intellectual-Perseverance|Intellectual Perseverance]]
 
-**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
-[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Intellectual-Integrity|Intellectual Integrity]] * [[Epistemic-Cowardice|Epistemic Cowardice]] * [[Stoic-Philosophy|Stoic Philosophy]] * [[Askēsis|Askēsis]] * [[Overconfidence-Bias|Overconfidence Bias]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] * [[Confirmation-Bias|Confirmation Bias]] * [[Disconfirmation-Bias|Disconfirmation Bias]] * [[Backfire-Effect|Backfire Effect]] * [[Fundamental-Attribution-Error|Fundamental Attribution Error]] * [[Naive-Realism|Naive Realism]] * [[Perspective-Taking-Failures|Perspective-Taking Failures]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Aporic-Receptivity|Aporic Receptivity]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Fallibilism|Fallibilism]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Prohairesis|Prohairesis]]
-
-**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
-- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
-
-
-
-
-
-
 ## References
 
 - **📚 Zagzebski, L. T. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
@@ -211,39 +193,6 @@ importance: high
 - **📚 Kahan, D. M., et al. (2012). The polarizing impact of science literacy and numeracy on perceived climate change risks. *Nature Climate Change*, 2, 732–735.**: Empirical demonstration that scientific literacy increases motivated reasoning when beliefs are identity-relevant, providing crucial evidence for why intellectual integrity (character-level change) is required for genuine epistemic improvement rather than information provision alone.
 
 *Citations sourced from [[report-05-the-virtuous-reasoner]]*
-
-- **📚 Zagzebski, L. T. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
-
-- **📚 Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.**: Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
-
-- **📚 Battaly, H. (2017). Intellectual perseverance. *Journal of Moral Philosophy*, 14(6), 658–708.**: The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
-
-- **📚 Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin*, 108(3), 480–498.**: The seminal account of motivated reasoning, distinguishing accuracy-motivated and directional-motivated reasoning and identifying the mechanisms through which directional motivations distort reasoning while maintaining the appearance of rationality. Cited 9,000+ times.
-
-- **📚 Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The comprehensive synthesis of the heuristics and biases research program, providing the most accessible and complete account of systematic cognitive biases and their relationship to dual process theory. Essential background for the bias taxonomy used in this report.
-
-- **📚 Ichikawa, J. (2024). *Epistemic Courage*. Oxford University Press.**: Develops the concept of epistemic cowardice as a genuine epistemic vice and argues that mainstream epistemology has a problematic skeptical/negative bias that fails to recognize the positive epistemic obligations involved in belief formation. Key source for the intellectual courage analysis.
-
-- **📚 Bowes, S. M., et al. (2024). Intellectual humility and susceptibility to misinformation. *Psychological Science* [meta-analysis].**: Meta-analysis finding significant associations between intellectual humility and reduced misinformation acceptance, reduced conspiracy belief, and improved metacognitive insight. Provides empirical support for the overconfidence-humility correspondence.
-
-- **📚 Porter, T., et al. (2022). Intellectual humility. *Nature Reviews Psychology*, 1(4), 199–212.**: Comprehensive review of the intellectual humility literature, arguing that IH is best understood as a meta-cognitive ability to recognize the limits and reliability of one's own knowledge. Provides the most up-to-date synthesis of the empirical literature.
-
-- **📚 Hadot, P. (1995). *Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault*. Blackwell.**: The foundational reconstruction of Stoic spiritual exercises as a technology for character transformation through deliberate practice. Essential for the askēsis component of the synthesis and the developmental mechanism argument.
-
-- **📚 Orona, G. A., et al. (2023). Cultivating intellectual virtues: A randomized trial of an intellectual virtue curriculum. *Journal of Educational Psychology* [early view].**: Randomized controlled trial of intellectual virtue curriculum in higher education settings, testing mechanisms for developing curiosity, humility, integrity, and tenacity. Provides the most rigorous empirical test of intellectual virtue development available.
-
-- **📚 Kahan, D. M., et al. (2012). The polarizing impact of science literacy and numeracy on perceived climate change risks. *Nature Climate Change*, 2, 732–735.**: Empirical demonstration that scientific literacy increases motivated reasoning when beliefs are identity-relevant, providing crucial evidence for why intellectual integrity (character-level change) is required for genuine epistemic improvement rather than information provision alone.
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

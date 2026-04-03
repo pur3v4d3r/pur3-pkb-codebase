@@ -73,6 +73,7 @@ see-also:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Intrinsic-Motivation|intrinsic motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Self-Determination]]"
   - "[[relative-autonomy|relative autonomy]]"
   - "[[Relative-Autonomy-Index|Relative Autonomy Index]]"
@@ -84,6 +85,7 @@ see-also:
   - "[[Deci,-Connell,-&-Ryan-1989|Deci, Connell, & Ryan (1989)]]"
   - "[[Grolnick-&-Ryan-1989|Grolnick & Ryan (1989)]]"
   - "[[Williams,-Deci,-and-colleagues|Williams, Deci, and colleagues]]"
+  - "[[Relative-Autonomy-Index|Relative Autonomy Index]]"
   - "[[Assor-&-Roth-2002|Assor & Roth (2002)]]"
   - "[[Soenens-&-Vansteenkiste-2011|Soenens & Vansteenkiste (2011)]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
@@ -277,34 +279,6 @@ importance: high
 **Related concepts:**
 [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Intrinsic-Motivation|intrinsic motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Determination]] · [[relative-autonomy|relative autonomy]] · [[Relative-Autonomy-Index|Relative Autonomy Index]] · [[Internalization]] · [[Integration]] · [[Bart-Soenens|Bart Soenens]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Deci-&-Ryan|Deci & Ryan]] · [[Deci,-Connell,-&-Ryan-1989|Deci, Connell, & Ryan (1989)]] · [[Grolnick-&-Ryan-1989|Grolnick & Ryan (1989)]] · [[Williams,-Deci,-and-colleagues|Williams, Deci, and colleagues]] · [[Relative-Autonomy-Index|Relative Autonomy Index]] · [[Assor-&-Roth-2002|Assor & Roth (2002)]] · [[Soenens-&-Vansteenkiste-2011|Soenens & Vansteenkiste (2011)]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Autonomy-Support|autonomy support]] · [[Johnmarshall-Reeve's|Johnmarshall Reeve's]] · [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]] · [[perceived-choice|perceived choice]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Koestner-et-al.-1984|Koestner et al. (1984)]] · [[Assor,-Kaplan,-&-Roth-2002|Assor, Kaplan, & Roth (2002)]]
 
-**Related concepts** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
-[[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Intrinsic-Motivation|intrinsic motivation]] * [[relative-autonomy|relative autonomy]] * [[Relative-Autonomy-Index|Relative Autonomy Index]] * [[Bart-Soenens|Bart Soenens]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Deci-&-Ryan|Deci & Ryan]] * [[Deci,-Connell,-&-Ryan-(1989)|Deci, Connell, & Ryan (1989)]] * [[Grolnick-&-Ryan-(1989)|Grolnick & Ryan (1989)]] * [[Williams,-Deci,-and-colleagues|Williams, Deci, and colleagues]] * [[Soenens-&-Vansteenkiste-(2011)|Soenens & Vansteenkiste (2011)]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Autonomy-Support|autonomy support]] * [[Johnmarshall-Reeve's|Johnmarshall Reeve's]] * [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]] * [[perceived-choice|perceived choice]] * [[Conditional-Regard|Conditional regard]] * [[quality-over-quantity-heuristic|quality-over-quantity heuristic]] * [[Vansteenkiste,-Lens,-&-Deci-(2006)|Vansteenkiste, Lens, & Deci (2006)]] * [[Motivational-Interviewing|Motivational Interviewing]] * [[Williams-et-al.-(2009)|Williams et al. (2009)]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Psychological-Safety|Psychological Safety]] * [[Amy-Edmondson's|Amy Edmondson's]] * [[Growth-Mindset|Growth Mindset]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]] * [[Self-Regulated-Learning-—-Foundational-Report|Self-Regulated Learning — Foundational Report]]
-
-**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
-- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
-
-**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
-- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
-
-**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-
-
-
-
-
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
@@ -320,72 +294,6 @@ importance: high
 - **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
 
 *Citations sourced from [[organismic-integration-theory-focused-analysis-2026-03-13]]*
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
-
-- **Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. *Journal of Educational Psychology, 81*(2), 143–154.**: Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
-
-- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
-
-- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
-
-- **Williams, G. C., Gagné, M., Ryan, R. M., & Deci, E. L. (2002). Facilitating autonomous motivation for smoking cessation. *Health Psychology, 21*(1), 40–50.**: Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
-
-- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist, 44*(3), 159–175.**: Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
-
-- **Koestner, R., Ryan, R. M., Bernieri, F., & Holt, K. (1984). Setting limits on children's behavior: The differential effects of controlling vs. informational styles on intrinsic motivation and creativity. *Journal of Personality, 52*(3), 233–248.**: Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
-
-- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review, 30*(1), 74–99.**: Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
-
-- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
-
-- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
-
-- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
-
-- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
-
-- **Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. *Journal of Educational Psychology, 81*(2), 143–154.**: Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
-
-- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
-
-- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
-
-- **Williams, G. C., Gagné, M., Ryan, R. M., & Deci, E. L. (2002). Facilitating autonomous motivation for smoking cessation. *Health Psychology, 21*(1), 40–50.**: Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
-
-- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist, 44*(3), 159–175.**: Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
-
-- **Koestner, R., Ryan, R. M., Bernieri, F., & Holt, K. (1984). Setting limits on children's behavior: The differential effects of controlling vs. informational styles on intrinsic motivation and creativity. *Journal of Personality, 52*(3), 233–248.**: Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
-
-- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review, 30*(1), 74–99.**: Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
-
-- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
-
-- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

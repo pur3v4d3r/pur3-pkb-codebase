@@ -5,7 +5,6 @@
 title: "Functional Psychology"
 aliases:
   - "Functional Psychology"
-  - "functional-psychology"
 type: permanent-note
 status: evergreen
 confidence: medium
@@ -167,34 +166,6 @@ importance: medium
 
 **Related concepts:**
 [[William-James|William James]] · [[psychology]] · [[philosophy]] · [[Habit-Formation|habit formation]] · [[consciousness]] · [[Harvard-University|Harvard University]] · [[American-pragmatism|American pragmatism]] · [[evolutionary-theory|evolutionary theory]] · [[neurology]] · [[phenomenology]] · [[plasticity]] · [[adaptation]] · [[neuroscience]] · [[John-Dewey|John Dewey]] · [[progressive-education|progressive education]] · [[Skill-Acquisition|skill acquisition]] · [[Automaticity]] · [[conscious-attention|conscious attention]] · [[Procedural-Memory|procedural memory]] · [[Working-Memory|working memory]] · [[Attention]] · [[Cognitive-Control|cognitive control]] · [[synaptic-plasticity|synaptic plasticity]] · [[neurogenesis]] · [[experience-dependent-brain-development|experience-dependent brain development]] · [[Metacognition]] · [[Critical-Thinking|critical thinking]] · [[Attention]] · [[natural-science|natural science]] · [[biological]]
-
-**Related concepts** *(from cog-psy-william-james.md)*:
-[[William-James|William James]] * [[Habit-Formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[Skill-Acquisition|skill acquisition]] * [[conscious-attention|conscious attention]] * [[Procedural-Memory|procedural memory]] * [[Working-Memory|working memory]] * [[Cognitive-Control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[experience-dependent-brain-development|experience-dependent brain development]] * [[Critical-Thinking|critical thinking]] * [[natural-science|natural science]] * [[subjective-experience|subjective experience]] * [[higher-cognitive-functions|higher cognitive functions]] * [[automatic-processes|automatic processes]] * [[British-empiricism|British empiricism]] * [[John-Locke|John Locke]] * [[David-Hume|David Hume]] * [[German-idealism|German idealism]] * [[Hegel|Hegel]] * [[Associationism|Associationism]] * [[Alexander-Bain|Alexander Bain]] * [[James-Mill|James Mill]] * [[Wilhelm-Wundt|Wilhelm Wundt]] * [[experience|experience]] * [[practice|practice]]
-
-**Cross-report connections** *(from cog-psy-william-james.md)*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from cog-psy-william-james.md)*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from cog-psy-william-james.md)*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from cog-psy-william-james.md)*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-
-
-
-
 
 ## References
 

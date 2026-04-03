@@ -227,22 +227,6 @@ importance: high
 **Related concepts:**
 [[Metacognition]] · [[John-Flavell|John Flavell]] · [[Lifelong-learning|Lifelong learning]] · [[Flavell]] · [[Metacognitive-Knowledge|Metacognitive Knowledge]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[Metacognitive-Regulation|Metacognitive Regulation]] · [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] · [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] · [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] · [[William-James|William James]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Ann-L.-Brown|Ann L. Brown]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Self-Regulated-Learning|self-regulated learning]] · [[Calibration]] · [[Robert-Bjork|Robert Bjork]] · [[Fluency]] · [[Retrieval-Practice|retrieval practice]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[David-Dunning|David Dunning]] · [[Justin-Kruger|Justin Kruger]] · [[Carol-Dweck|Carol Dweck]] · [[implicit-theories-of-intelligence|implicit theories of intelligence]] · [[Fixed-Mindset|fixed mindset]] · [[Growth-Mindset|growth mindset]] · [[Robert-Bjork|Robert Bjork]] · [[Desirable-Difficulties|desirable difficulties]] · [[spaced-practice|spaced practice]]
 
-**Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-[[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Self-Regulated-Learning|self-regulated learning]] * [[Robert-Bjork|Robert Bjork]] * [[Retrieval-Practice|retrieval practice]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[David-Dunning|David Dunning]] * [[Justin-Kruger|Justin Kruger]] * [[Carol-Dweck|Carol Dweck]] * [[implicit-theories-of-intelligence|implicit theories of intelligence]] * [[Fixed-Mindset|fixed mindset]] * [[Growth-Mindset|growth mindset]] * [[Desirable-Difficulties|desirable difficulties]] * [[spaced-practice|spaced practice]] * [[interleaving|interleaving]] * [[variation-practice|variation practice]] * [[metacognitive-judgments|metacognitive judgments]] * [[Judgment-of-Learning-(JOL)|Judgment of Learning (JOL)]] * [[Feeling-of-Knowing-(FOK)|Feeling of Knowing (FOK)]]
-
-**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
-- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
-- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
-
-**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
-- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
-- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
-
-
-
-
 ## References
 
 - **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
@@ -255,54 +239,6 @@ importance: high
 - **Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.**: The posthumously compiled English-language edition of Vygotsky's major work, including the Zone of Proximal Development concept and his account of how social interaction scaffolds the development of higher cognitive functions, including self-regulation. Foundational for understanding the social and developmental dimensions of metacognitive capacity.
 
 *Citations sourced from [[metacognition-lifelong-learning-foundational-report-2026-03-05]]*
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World* (pp. 59–68). Worth Publishers.**: An accessible synthesis of the desirable difficulties research program, including evidence for spaced practice, interleaving, and retrieval practice. Directly addresses the gap between subjective learning experience and objective learning outcomes — the core practical problem of metacognitive calibration.
-
-- **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: The landmark study establishing the testing effect under ecologically valid conditions. Participants who studied through retrieval practice retained 50% more material one week later than those who restudied. This paper is foundational for any practitioner interested in applying metacognitive research to actual study habits.
-
-- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The original paper documenting the inverse relationship between competence and metacognitive accuracy at low levels of skill. Essential for understanding the calibration challenges facing novice learners in any domain. Subsequent debates about the statistical robustness of the effect have refined but not eliminated the core empirical finding.
-
-- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's accessible synthesis of her research program on implicit theories of intelligence. While the trade-press format necessarily simplifies the empirical base, the framework is theoretically important for connecting motivational beliefs to metacognitive regulation, particularly around the interpretation of difficulty and error.
-
-- **Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363–406.**: The foundational empirical paper establishing deliberate practice as the mechanism of expert skill acquisition. The paper's analysis of what distinguishes productive practice from mere experience is a direct application of metacognitive principles to professional and artistic development.
-
-- **Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.**: The posthumously compiled English-language edition of Vygotsky's major work, including the Zone of Proximal Development concept and his account of how social interaction scaffolds the development of higher cognitive functions, including self-regulation. Foundational for understanding the social and developmental dimensions of metacognitive capacity.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World* (pp. 59–68). Worth Publishers.**: An accessible synthesis of the desirable difficulties research program, including evidence for spaced practice, interleaving, and retrieval practice. Directly addresses the gap between subjective learning experience and objective learning outcomes — the core practical problem of metacognitive calibration.
-
-- **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: The landmark study establishing the testing effect under ecologically valid conditions. Participants who studied through retrieval practice retained 50% more material one week later than those who restudied. This paper is foundational for any practitioner interested in applying metacognitive research to actual study habits.
-
-- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The original paper documenting the inverse relationship between competence and metacognitive accuracy at low levels of skill. Essential for understanding the calibration challenges facing novice learners in any domain. Subsequent debates about the statistical robustness of the effect have refined but not eliminated the core empirical finding.
-
-- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's accessible synthesis of her research program on implicit theories of intelligence. While the trade-press format necessarily simplifies the empirical base, the framework is theoretically important for connecting motivational beliefs to metacognitive regulation, particularly around the interpretation of difficulty and error.
-
-- **Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363–406.**: The foundational empirical paper establishing deliberate practice as the mechanism of expert skill acquisition. The paper's analysis of what distinguishes productive practice from mere experience is a direct application of metacognitive principles to professional and artistic development.
-
-- **Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.**: The posthumously compiled English-language edition of Vygotsky's major work, including the Zone of Proximal Development concept and his account of how social interaction scaffolds the development of higher cognitive functions, including self-regulation. Foundational for understanding the social and developmental dimensions of metacognitive capacity.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

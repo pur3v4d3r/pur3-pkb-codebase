@@ -84,6 +84,7 @@ see-also:
   - "[[Motivational-Regulation|Motivational Regulation]]"
   - "[[Goal-Orientation|Goal Orientation]]"
   - "[[Task-Value|Task Value]]"
+  - "[[Self-Efficacy]]"
   - "[[MSLQ]]"
   - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
   - "[[Metacognitive-Experiences|Metacognitive Experiences]]"
@@ -286,44 +287,6 @@ importance: high
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] · [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] · [[PKB]] · [[Forethought-Phase|Forethought Phase]] · [[Self-Efficacy]] · [[Performance-Phase|Performance Phase]] · [[Self-Monitoring]] · [[Self-Reflection-Phase|Self-Reflection Phase]] · [[Motivational-Regulation|Motivational Regulation]] · [[Goal-Orientation|Goal Orientation]] · [[Task-Value|Task Value]] · [[Self-Efficacy]] · [[MSLQ]] · [[Metacognitive-Knowledge|Metacognitive Knowledge]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[General-Intelligence|General Intelligence]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Expertise-Reversal-Effect|Expertise Reversal Effect]] · [[Self-Efficacy]] · [[Goal-Orientation|Goal Orientation]] · [[Carol-Dweck|Carol Dweck]] · [[Philip-Winne|Philip Winne]] · [[Negative-Feedback-Control-System|Negative Feedback Control System]] · [[Growth-Mindset|Growth Mindset]] · [[Adaptive-Immunity|Adaptive Immunity]] · [[Innate-Immunity|Innate Immunity]]
 
-**Related concepts** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[Forethought-Phase|Forethought Phase]] * [[Performance-Phase|Performance Phase]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[General-Intelligence|General Intelligence]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]] * [[Carol-Dweck|Carol Dweck]] * [[Philip-Winne|Philip Winne]] * [[Negative-Feedback-Control-System|Negative Feedback Control System]] * [[Growth-Mindset|Growth Mindset]] * [[Adaptive-Immunity|Adaptive Immunity]] * [[Innate-Immunity|Innate Immunity]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] * [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] * [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Executive-Function|Executive Function]] * [[Deliberate-Practice-—-Ericsson|Deliberate Practice — Ericsson]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Adaptive-Immunity|Adaptive Immunity]]
-- [[Innate-Immunity|Innate Immunity]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
-- [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Adaptive-Immunity|Adaptive Immunity]]
-- [[Innate-Immunity|Innate Immunity]]
-
-**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]
-- [[Goal-Setting-Theory-—-Locke-and-Latham|Goal-Setting Theory — Locke and Latham]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-
-
-
-
-
-
-
 ## References
 
 - **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The authoritative statement of Zimmerman's cyclical model, detailing the three-phase architecture and the role of self-motivational beliefs. Essential reading for the forethought phase mechanisms analyzed in Phases II and IV of this report.
@@ -339,72 +302,6 @@ importance: high
 - **Dweck, C. S. (2000). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: Dweck's framework on implicit theories of intelligence and their effects on attribution patterns following failure. The connection to SRL's self-reflection phase failure modes analyzed in Phase IV is direct and mechanistically specified.
 
 *Citations sourced from [[self-regulated-learning-focused-analysis-2026-03-06]]*
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The authoritative statement of Zimmerman's cyclical model, detailing the three-phase architecture and the role of self-motivational beliefs. Essential reading for the forethought phase mechanisms analyzed in Phases II and IV of this report.
-
-- **Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–250.**: Provides experimental evidence for the process-goal shift mechanism and the mediating role of self-efficacy. Directly supports the efficacy-calibration analysis in Phase IV.
-
-- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: Pintrich's definitive statement on motivational integration in SRL, distinguishing goal orientation types and their differential effects on regulatory behavior. Essential for Phase IV's goal orientation analysis.
-
-- **Pintrich, P. R., Smith, D. A., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the Motivated Strategies for Learning Questionnaire (MSLQ). *Educational and Psychological Measurement, 53*(3), 801–813.**: The primary validation study for the MSLQ. The limitations of self-report methodology discussed in Phase III require familiarity with this instrument's design and the assumptions embedded in it.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper distinguishing metacognitive knowledge from metacognitive experiences. The theoretical architecture of this distinction underpins the monitoring analysis throughout Phase IV.
-
-- **Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman.**: Bandura's comprehensive treatment of self-efficacy theory, including its sources, calibration, and effects on behavior. The dynamic recalibration of efficacy analyzed in Phase IV requires familiarity with chapters on efficacy appraisal processes.
-
-- **Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231–264.**: Meta-analysis of 74 intervention studies. The finding of high variance in effect sizes (the central puzzle motivating this analysis) is documented here, along with the moderating role of targeting metacognitive monitoring specifically.
-
-- **Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112.**: Influential analysis of feedback research identifying self-regulation feedback as the most potent feedback level. The distinction between feedback that does regulatory work for the learner versus feedback that builds regulatory capacity directly informs Phase V's intervention implications.
-
-- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Metacognition in Educational Theory and Practice* (pp. 277–304). Erlbaum.**: Introduces trace methodology and the information-processing model of SRL. The argument that self-monitoring is hypothesis testing rather than passive surveillance is developed here and directly informs the Phase IV mechanism analysis.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: Documents the expertise reversal effect that moderates SRL intervention effectiveness at different stages of domain knowledge development. Essential for the Phase III critique of universal SRL intervention application.
-
-- **Dweck, C. S. (2000). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: Dweck's framework on implicit theories of intelligence and their effects on attribution patterns following failure. The connection to SRL's self-reflection phase failure modes analyzed in Phase IV is direct and mechanistically specified.
-
-- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The authoritative statement of Zimmerman's cyclical model, detailing the three-phase architecture and the role of self-motivational beliefs. Essential reading for the forethought phase mechanisms analyzed in Phases II and IV of this report.
-
-- **Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–250.**: Provides experimental evidence for the process-goal shift mechanism and the mediating role of self-efficacy. Directly supports the efficacy-calibration analysis in Phase IV.
-
-- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: Pintrich's definitive statement on motivational integration in SRL, distinguishing goal orientation types and their differential effects on regulatory behavior. Essential for Phase IV's goal orientation analysis.
-
-- **Pintrich, P. R., Smith, D. A., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the Motivated Strategies for Learning Questionnaire (MSLQ). *Educational and Psychological Measurement, 53*(3), 801–813.**: The primary validation study for the MSLQ. The limitations of self-report methodology discussed in Phase III require familiarity with this instrument's design and the assumptions embedded in it.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper distinguishing metacognitive knowledge from metacognitive experiences. The theoretical architecture of this distinction underpins the monitoring analysis throughout Phase IV.
-
-- **Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. Freeman.**: Bandura's comprehensive treatment of self-efficacy theory, including its sources, calibration, and effects on behavior. The dynamic recalibration of efficacy analyzed in Phase IV requires familiarity with chapters on efficacy appraisal processes.
-
-- **Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231–264.**: Meta-analysis of 74 intervention studies. The finding of high variance in effect sizes (the central puzzle motivating this analysis) is documented here, along with the moderating role of targeting metacognitive monitoring specifically.
-
-- **Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112.**: Influential analysis of feedback research identifying self-regulation feedback as the most potent feedback level. The distinction between feedback that does regulatory work for the learner versus feedback that builds regulatory capacity directly informs Phase V's intervention implications.
-
-- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Metacognition in Educational Theory and Practice* (pp. 277–304). Erlbaum.**: Introduces trace methodology and the information-processing model of SRL. The argument that self-monitoring is hypothesis testing rather than passive surveillance is developed here and directly informs the Phase IV mechanism analysis.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: Documents the expertise reversal effect that moderates SRL intervention effectiveness at different stages of domain knowledge development. Essential for the Phase III critique of universal SRL intervention application.
-
-- **Dweck, C. S. (2000). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: Dweck's framework on implicit theories of intelligence and their effects on attribution patterns following failure. The connection to SRL's self-reflection phase failure modes analyzed in Phase IV is direct and mechanistically specified.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

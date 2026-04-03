@@ -78,12 +78,14 @@ see-also:
   - "[[Loose-Coupling|Loose Coupling]]"
   - "[[Homeostasis]]"
   - "[[Cognitive-Friction|Cognitive Friction]]"
+  - "[[Cybernetics]]"
   - "[[Information-Theory|Information Theory]]"
   - "[[Norbert-Wiener|Norbert Wiener]]"
   - "[[W.-Ross-Ashby|W. Ross Ashby]]"
   - "[[Douglas-Engelbart|Douglas Engelbart]]"
   - "[[Niklas-Luhmann|Niklas Luhmann]]"
   - "[[Zettelkasten]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Entropy]]"
   - "[[Information-Architecture|Information Architecture]]"
   - "[[Friction]]"
@@ -140,10 +142,6 @@ importance: medium
 
 **Related concepts:**
 [[Systems-Design|Systems Design]] · [[Cybernetics]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Information-Entropy|Information Entropy]] · [[Loose-Coupling|Loose Coupling]] · [[Homeostasis]] · [[Cognitive-Friction|Cognitive Friction]] · [[Cybernetics]] · [[Information-Theory|Information Theory]] · [[Norbert-Wiener|Norbert Wiener]] · [[W.-Ross-Ashby|W. Ross Ashby]] · [[Douglas-Engelbart|Douglas Engelbart]] · [[Niklas-Luhmann|Niklas Luhmann]] · [[Zettelkasten]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Entropy]] · [[Information-Architecture|Information Architecture]] · [[Friction]] · [[Desirable-Difficulty|Desirable Difficulty]] · [[Coupling]] · [[Iterative-Design|Iterative Design]] · [[Antifragility]] · [[Nassim-Nicholas-Taleb|Nassim Nicholas Taleb]] · [[Exocortex]] · [[Homeostasis]] · [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] · [[Flow-State|Flow State]] · [[Biomimicry-in-Engineering|Biomimicry in Engineering]] · [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
-
-**Related concepts** *(from cog-sci-report-system-desighn-priciples-in-personal-workflow-architecture-202511230649.md)*:
-[[Systems-Design|Systems Design]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Information-Entropy|Information Entropy]] * [[Loose-Coupling|Loose Coupling]] * [[Information-Theory|Information Theory]] * [[Norbert-Wiener|Norbert Wiener]] * [[W.-Ross-Ashby|W. Ross Ashby]] * [[Douglas-Engelbart|Douglas Engelbart]] * [[Niklas-Luhmann|Niklas Luhmann]] * [[Information-Architecture|Information Architecture]] * [[Nassim-Nicholas-Taleb|Nassim Nicholas Taleb]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Flow-State|Flow State]] * [[Biomimicry-in-Engineering|Biomimicry in Engineering]] * [[Complex-Adaptive-Systems|Complex Adaptive Systems]] * [[Urban-Planning|Urban Planning]] * [[Control-Theory|Control Theory]]
-
 
 ## References
 
