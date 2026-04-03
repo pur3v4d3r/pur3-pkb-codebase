@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "smart-environment",
-  "callout-manager",
   "smart-chat",
   "dataview",
   "languagetool",
-  "quickadd"
+  "quickadd",
+  "mysnippets-plugin"
 ]
