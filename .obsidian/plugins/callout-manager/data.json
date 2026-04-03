@@ -281,7 +281,8 @@
       "protocol",
       "flashcard",
       "navigation",
-      "quality-assessment"
+      "quality-assessment",
+      "grid"
     ],
     "settings": {
       "in-note-metadata": [
