@@ -27,9 +27,9 @@
 .nav-folder-title[data-path="00-inbox"] {
   color: #C0C0C0!important;
   font-weight: 300;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-border-right: 3px solid #008B51!important;
+border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -38,13 +38,13 @@ border-right: 3px solid #008B51!important;
   margin-right: 6px;
 }
 
-/* 000_databsae - Dark Emerald (Core Data) */
+/* 000_databsae - Dark Purple (Core Data) */
 .nav-folder-title[data-path="000_databsae"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -57,9 +57,9 @@ border-right: 3px solid #008B51!important;
 .nav-folder-title[data-path="01_daily-notes"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -72,9 +72,9 @@ border-right: 3px solid #008B51!important;
 .nav-folder-title[data-path="02-projects"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -88,9 +88,9 @@ border-right: 3px solid #008B51!important;
 .nav-folder-title[data-path="03-notes"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -103,9 +103,9 @@ border-right: 3px solid #008B51!important;
 .nav-folder-title[data-path="04-library"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -114,13 +114,13 @@ border-right: 3px solid #008B51!important;
   margin-right: 6px;
 }
 
-/* 05-tasks-&-reviews - Emerald (Action Items) */
+/* 05-tasks-&-reviews - Purple (Action Items) */
 .nav-folder-title[data-path="05-tasks-&-reviews"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -133,9 +133,9 @@ border-right: 3px solid #008B51!important;
 .nav-folder-title[data-path="06-dashboards"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -148,9 +148,9 @@ border-right: 3px solid #008B51!important;
 .nav-folder-title[data-path="07-mocs"] {
   color: #C0C0C0!important;
   font-weight: 700!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -166,7 +166,7 @@ border-right: 3px solid #008B51!important;
   background: rgba(49, 49, 49, 0.12)!important;
   opacity: 0.85!important;
   font-size: 18px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   padding: 4px 8px!important;
 }
 
@@ -175,18 +175,18 @@ border-right: 3px solid #008B51!important;
   margin-right: 6px;
 }
 
-/* 99-system - Dark Emerald (Infrastructure) */
+/* 99-system - Dark Purple (Infrastructure) */
 .nav-folder-title[data-path="99-system"] {
   color: #C0C0C0!important;
   font-weight: 600!important;
   background: rgba(49, 49, 49, 0.12)!important;
   opacity: 0.85!important;
   font-size: 18px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   padding: 4px 8px!important;
 }
 
-/* 99-scripts - Dark Emerald (Infrastructure) */
+/* 99-scripts - Dark Purple (Infrastructure) */
 .nav-folder-title[data-path="99-scripts"] {
   color: #C0C0C0!important;
   background: rgba(49, 49, 49, 0.12)!important;
@@ -194,7 +194,7 @@ border-right: 3px solid #008B51!important;
   opacity: 0.9!important;
   font-size: 18px!important; /* INCREASED from 12px */
   font-style: italic!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   padding: 4px 8px!important;
 }
 
@@ -207,13 +207,13 @@ border-right: 3px solid #008B51!important;
   content: "⚙️ ";
   margin-right: 6px;
 }
-/* 00-meta - Dark Emerald (Infrastructure) */
+/* 00-meta - Dark Purple (Infrastructure) */
 .nav-folder-title[data-path="00-meta"] {
   color: #C0C0C0!important;
-  background: rgba(0, 255, 149, 0.12)!important;
+  background: rgba(149, 0, 255, 0.12)!important;
   font-weight: 600!important;
   opacity: 0.9!important;
-   border-right: 3px solid #008B51!important;
+   border-right: 3px solid #51008B!important;
   font-size: 18px !important; /* INCREASED from 12px */
   padding: 4px 8px!important;
 }
@@ -264,7 +264,7 @@ border-right: 3px solid #008B51!important;
   top: 0!important;
   bottom: 8px!important;
   width: 2px!important;
-  background: linear-gradient(180deg,    rgba(0, 255, 149, 0.3) 0%,    transparent 100%)!important;
+  background: linear-gradient(180deg,    rgba(149, 0, 255, 0.3) 0%,    transparent 100%)!important;
   border-radius: 2px!important;
   -webkit-border-radius: 2px!important;
   -moz-border-radius: 2px!important;
@@ -301,19 +301,19 @@ border-right: 3px solid #008B51!important;
 
 /* [ACTIVE FILE] Current file highlight - FIXED */
 .nav-file-title.is-active {
-  color: #00E586!important;
+  color: #8600E5!important;
   background: linear-gradient(90deg,
-    rgba(0, 229, 134, 0.25) 0%,
-    rgba(0, 229, 134, 0.08) 100%!important);
-  border-left: 4px solid #00E586!important;
+    rgba(134, 0, 229, 0.25) 0%,
+    rgba(134, 0, 229, 0.08) 100%!important);
+  border-left: 4px solid #8600E5!important;
   font-weight: 600!important;
   padding-left: 24px!important; /* 4px border + 24px padding = 28px total (matches base) */
-  box-shadow: 0 2px 8px rgba(0, 229, 134, 0.2)!important;
+  box-shadow: 0 2px 8px rgba(134, 0, 229, 0.2)!important;
 }
 
 /* [HOVER EFFECTS] Interactive States - FIXED */
 .nav-folder-title:hover {
-  background: rgba(0, 229, 134, 0.15)!important;
+  background: rgba(134, 0, 229, 0.15)!important;
   /* REMOVED: transform: translateX(2px); */
   cursor: pointer!important;
 }
@@ -342,14 +342,14 @@ border-right: 3px solid #008B51!important;
 }
 
 .nav-folder:not(.is-collapsed) > .nav-folder-title .nav-folder-collapse-indicator {
-  color: #00E586!important;
+  color: #8600E5!important;
 }
 
 /* [SPECIAL FILES] Highlight important file patterns */
 
 /* System/Template Files (underscore prefix) - Bright Purple with System Icon */
 .nav-file-title[data-path*="/_"] {
-  color: #00E586 !important;
+  color: #8600E5 !important;
   opacity: 0.95!important;
   font-style: italic!important;
   font-weight: 500!important;
@@ -363,19 +363,19 @@ border-right: 3px solid #008B51!important;
 
 /* Reference Files - Reactor Orange */
 .nav-file-title[data-path*="reference"] {
-  color: #00FF95!important;
+  color: #9500FF!important;
   font-style: italic!important;
 }
 
 /* Template Files (generic) - Bright Purple */
 .nav-file-title[data-path*="template"] {
-  color: #00E586!important;
+  color: #8600E5!important;
   opacity: 0.95!important;
 }
 
 /* Dashboard Files - Terminal Green */
 .nav-file-title[data-path*="dashboard"] {
-  color: #00E586!important;
+  color: #8600E5!important;
   font-weight: 500!important;
 }
 
@@ -393,7 +393,7 @@ border-right: 3px solid #008B51!important;
 /* MOC Files - Electric Blue Navigation */
 .nav-file-title[data-path*="moc"],
 .nav-file-title[data-path*="07-mocs/"] {
-  color: #00E586 !important;
+  color: #8600E5 !important;
   font-weight: 500!important;
 }
 
@@ -412,7 +412,7 @@ border-right: 3px solid #008B51!important;
 .nav-file-title[data-path*="cog-sci-report-"],
 .nav-file-title[data-path*="psy-report-"],
 .nav-file-title[data-path*="cog-psy-"] {
-  color: #00E586 !important;
+  color: #8600E5 !important;
   font-weight: 500!important;
 }
 
@@ -426,7 +426,7 @@ border-right: 3px solid #008B51!important;
 /* PKB/PKM Reports - Knowledge Gold */
 .nav-file-title[data-path*="pkb-report-"],
 .nav-file-title[data-path*="pkm-report-"] {
-  color: #00E586 !important;
+  color: #8600E5 !important;
   font-weight: 500!important;
 }
 
@@ -439,7 +439,7 @@ border-right: 3px solid #008B51!important;
 /* Prompt Engineering Reports - AI Cyan */
 .nav-file-title[data-path*="prompt-report-"],
 .nav-file-title[data-path*="prompt-eng-"] {
-  color: #00E586 !important;
+  color: #8600E5 !important;
   font-weight: 500!important;
 }
 
@@ -452,7 +452,7 @@ border-right: 3px solid #008B51!important;
 /* Cosmology Reports */
 .nav-file-title[data-path*="cosmo-report-"],
 .nav-file-title[data-path*="astro-"] {
-  color: #00E586 !important;
+  color: #8600E5 !important;
   font-weight: 500!important;
 }
 
@@ -510,18 +510,18 @@ border-right: 3px solid #008B51!important;
 
 .nav-folder-title:focus-visible,
 .nav-file-title:focus-visible {
-  outline: 2px solid #00E586!important;
+  outline: 2px solid #8600E5!important;
   outline-offset: 2px!important;
 }
 
 /* [SCROLLBAR] Match theme */
 .nav-files-container::-webkit-scrollbar-thumb {
-  background: rgba(0, 229, 134, 0.3)!important;
+  background: rgba(134, 0, 229, 0.3)!important;
   border-radius: 4px;
 }
 
 .nav-files-container::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 229, 134, 0.5)!important;
+  background: rgba(134, 0, 229, 0.5)!important;
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -537,10 +537,10 @@ border-right: 3px solid #008B51!important;
 
 .nav-file-title[data-path*="-index.md"],
 .nav-file-title[data-path*="_index.md"] {
-  color: #00FF95 !important;
+  color: #9500FF !important;
   font-weight: 600!important;
-  background: rgba(53, 255, 225, 0.1);
-  border-left: 3px solid #00FF95!important;
+  background: rgba(225, 53, 255, 0.1);
+  border-left: 3px solid #9500FF!important;
   padding-left: 25px1!important; /* 3px border + 25px padding = 28px total (matches base) */
 }
 
@@ -560,7 +560,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700!important;
   background: rgba(0, 0, 0, 0.09)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -576,7 +576,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700!important;
   background: rgba(0, 0, 0, 0.09)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -591,7 +591,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700;
   background: rgba(0, 0, 0, 0.09);
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -607,7 +607,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700!important;
   background: rgba(0, 0, 0, 0.09)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -622,7 +622,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700!important;
   background: rgba(0, 0, 0, 0.09)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -637,7 +637,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700!important;
   background: rgba(0, 0, 0, 0.09)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -652,7 +652,7 @@ border-right: 3px solid #008B51!important;
   font-weight: 700!important;
   background: rgba(0, 0, 0, 0.09)!important;
   padding: 5px 8px!important;
-  border-right: 3px solid #008B51!important;
+  border-right: 3px solid #51008B!important;
   font-size: 18px!important;
 }
 
@@ -813,9 +813,9 @@ border-right: 3px solid #008B51!important;
    /* ─────────────────────────────────────────────────────────
    .nav-folder-children::before {
   background: linear-gradient(180deg,
-    rgba(0, 229, 134, 0.4) 0%,
+    rgba(134, 0, 229, 0.4) 0%,
     rgba(224, 224, 224, 0.3) 50%,
-    rgba(0, 251, 255, 0.2) 100%) !important;
+    rgba(255, 0, 251, 0.2) 100%) !important;
 }
 
 .nav-folder-children .nav-folder-children::before {
@@ -852,7 +852,7 @@ border-right: 3px solid #008B51!important;
 
 .nav-folder-title:hover {
   transform: scale(1.02) !important;
-  box-shadow: 0 2px 12px rgba(0, 229, 134, 0.3) !important;
+  box-shadow: 0 2px 12px rgba(134, 0, 229, 0.3) !important;
 }
 
 .nav-file-title:hover {

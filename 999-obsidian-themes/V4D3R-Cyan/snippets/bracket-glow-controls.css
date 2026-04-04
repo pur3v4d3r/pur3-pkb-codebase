@@ -9,19 +9,19 @@
 /* SUBTLE GLOW - Uncomment this section for minimal effect */
 /*
 :root {
-  --bracket-shadow: 0 0 1px var(--cyan-shadow);
+  --bracket-shadow: 0 0 1px var(--purple-shadow);
 }
 */
 
 /* MEDIUM GLOW - Uncomment this section for balanced effect */
 /*:root {
-  --bracket-shadow: 0 0 3px var(--cyan-shadow), 0 0 6px var(--cyan-shadow);
+  --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 6px var(--purple-shadow);
 }
 
 /* INTENSE GLOW - Uncomment this section for maximum effect */
 
 :root {
-  --bracket-shadow: 0 0 3px var(--cyan-shadow), 0 0 6px var(--cyan-shadow), 0 0 12px var(--cyan-shadow) , 0 0 18px var(--cyan-shadow) !important;
+  --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 6px var(--purple-shadow), 0 0 12px var(--purple-shadow) , 0 0 18px var(--purple-shadow) !important;
 }
 */
 
@@ -29,17 +29,17 @@
 
 /* Define the color variables */
 :root {
-  --cyan-glow: #00ccff;
-  --cyan-shadow: rgba(0, 204, 255, 0.9);
+  --purple-glow: #9500ff;
+  --purple-shadow: rgba(149, 0, 255, 0.9);
 }
 
 /* Keyframe animation */
 @keyframes bracket-pulse {
   0%, 100% { 
-    text-shadow: 0 0 3px var(--cyan-shadow); 
+    text-shadow: 0 0 3px var(--purple-shadow); 
   }
   50% { 
-    text-shadow: 0 0 8px var(--cyan-shadow), 0 0 12px var(--cyan-shadow); 
+    text-shadow: 0 0 8px var(--purple-shadow), 0 0 12px var(--purple-shadow); 
   }
 }
 
@@ -54,24 +54,24 @@
 span.cm-formatting.cm-formatting-link.cm-formatting-link-start,
 span.cm-formatting.cm-formatting-link.cm-formatting-link-end {
   animation: bracket-pulse 2s infinite ease-in-out !important;
-  color: var(--cyan-glow) !important;
-  text-shadow: 0 0 3px var(--cyan-shadow) !important;
+  color: var(--purple-glow) !important;
+  text-shadow: 0 0 3px var(--purple-shadow) !important;
 }
 
 /* Target wiki links with aliases - both brackets and pipe */
 .cm-link-has-alias .cm-formatting-link,
 .cm-link-alias-pipe {
   animation: bracket-pulse 2s infinite ease-in-out !important;
-  color: var(--cyan-glow) !important;
-  text-shadow: 0 0 3px var(--cyan-shadow) !important;
+  color: var(--purple-glow) !important;
+  text-shadow: 0 0 3px var(--purple-shadow) !important;
 }
 
 /* Target all internal link formatting */
 .cm-hmd-internal-link .cm-formatting,
 .cm-hmd-internal-link.cm-formatting-link {
   animation: bracket-pulse 2s infinite ease-in-out !important;
-  color: var(--cyan-glow) !important;
-  text-shadow: 0 0 3px var(--cyan-shadow) !important;
+  color: var(--purple-glow) !important;
+  text-shadow: 0 0 3px var(--purple-shadow) !important;
 }
 
 /* ═══════════════════════════════════════════════════════════════ */
@@ -81,7 +81,7 @@ span.cm-formatting.cm-formatting-link.cm-formatting-link-end {
 /* Make the whole link glow in reading mode (since brackets are hidden) */
 a.internal-link,
 .internal-link {
-  text-shadow: 0 0 3px var(--cyan-shadow) !important;
+  text-shadow: 0 0 3px var(--purple-shadow) !important;
   animation: bracket-pulse 2s infinite ease-in-out;
 }
 
@@ -92,30 +92,30 @@ a.internal-link,
 /* Link text in live preview */
 .cm-link.cm-underline,
 .cm-underline {
-  text-shadow: 0 0 2px var(--cyan-shadow);
+  text-shadow: 0 0 2px var(--purple-shadow);
 }
 
 /* COLOR VARIANTS - Replace red with other colors */
 /* BLUE VARIANT */
 /*
 :root {
-  --cyan-glow: #0066ff;
-  --cyan-shadow: rgba(0, 102, 255, 0.9);
+  --purple-glow: #0066ff;
+  --purple-shadow: rgba(0, 102, 255, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --cyan-glow: #00ff00;
-  --cyan-shadow: rgba(0, 255, 0, 0.9);
+  --purple-glow: #00ff00;
+  --purple-shadow: rgba(0, 255, 0, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --cyan-glow: #9900ff;
-  --cyan-shadow: rgba(153, 0, 255, 0.9);
+  --purple-glow: #9900ff;
+  --purple-shadow: rgba(153, 0, 255, 0.9);
 }
 */

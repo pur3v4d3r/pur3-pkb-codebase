@@ -42,8 +42,8 @@
   color: #000000ff !important;
   /*ImperialGold*/font-weight: 100 !important;
   /*Bold*/text-transform: uppercase;
-  filter: drop-shadow(0px 0px 5px rgba(0, 255, 149, 1));
-  -webkit-filter: drop-shadow(0px 0px 8px rgba(0, 255, 149, 1));
+  filter: drop-shadow(0px 0px 5px rgba(149, 0, 255, 1));
+  -webkit-filter: drop-shadow(0px 0px 8px rgba(149, 0, 255, 1));
   font-size: 1.25em !important;
 }
 
@@ -64,11 +64,11 @@
   /*ImperialGold*/
 }
 .theme-dark .dataview.inline-field-key:hover {
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*BrightRed*/
 }
 .theme-dark .dataview.inline-field-key:hover::after {
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*BrightRed*/
 }
 .theme-dark .dataview.inline-field-key {
@@ -76,15 +76,15 @@
 }
 .theme-dark .dataview.inline-field-key::after {
   content: ': ';
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*ImperialGold*/
 }
 .theme-dark .dataview.inline-field-key:hover {
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*BrightRed*/
 }
 .theme-dark .dataview.inline-field-key:hover::after {
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*BrightRed*/
 }
 .theme-dark .dataview.inline-field-key {
@@ -92,15 +92,15 @@
 }
 .theme-dark .dataview.inline-field-key::after {
   content: ': ';
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*ImperialGold*/
 }
 .theme-dark .dataview.inline-field-key:hover {
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*BrightRed*/
 }
 .theme-dark .dataview.inline-field-key:hover::after {
-  color: #00ff95ff !important;
+  color: #9500ffff !important;
   /*BrightRed*/
 }
 
@@ -152,7 +152,7 @@ body.dataview-inline-lists .dataview.inline-field {
 
 .theme-dark .dataview.dataview-error {
   color: var(--color-red) !important;         /* Red error text */
-  background: rgba(0, 255, 149, 0.1) !important; /* Light red background */
+  background: rgba(149, 0, 255, 0.1) !important; /* Light red background */
   border-left: 3px solid var(--color-red) !important;
   padding: 8px 12px !important;
   margin: 8px 0 !important;
@@ -177,7 +177,7 @@ body.dataview-inline-lists .dataview.inline-field {
 /* Today indicator */
 .theme-dark .dataview.dataview-calendar .dataview-calendar-day.is-today {
   background: rgba(255, 199, 0, 0.2) !important; /* Gold highlight */
-  border-color: #00E586 !important;
+  border-color: #8600E5 !important;
 }
 
 /* ══════════════════════════════════════════════════════════

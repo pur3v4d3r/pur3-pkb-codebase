@@ -67,16 +67,16 @@
   /* ─────────────────────────────────────────────────────────────────────────
      PRIMARY REDS - Core accent colors
      ───────────────────────────────────────────────────────────────────────── */
-  --callout-red-pure:        0, 255, 149;       /* #00FF95 - Vivid Emerald */
-  --callout-red-crimson:     20, 220, 97;     /* #14DC61 - Crimson */
-  --callout-red-fire:        34, 178, 118;     /* #22B276 - Firebrick */
-  --callout-red-dark:        0, 139, 81;       /* #008B51 - Dark Emerald */
-  --callout-red-maroon:      0, 128, 75;       /* #00804b - Maroon */
-  --callout-red-blood:       0, 102, 60;       /* #00663c - Blood Red */
-  --callout-red-wine:        47, 114, 78;     /* #2F724E - Wine */
-  --callout-red-rose:        69, 255, 178;     /* #45FFB2 - Rose Red */
-  --callout-red-coral:       92, 205, 158;     /* #5CCD9E - Indian Red */
-  --callout-red-salmon:      114, 250, 207;   /* #72FACF - Salmon */
+  --callout-red-pure:        149, 0, 255;       /* #9500FF - Vivid Purple */
+  --callout-red-crimson:     97, 20, 220;     /* #6114DC - Crimson */
+  --callout-red-fire:        118, 34, 178;     /* #7622B2 - Firebrick */
+  --callout-red-dark:        81, 0, 139;       /* #51008B - Dark Purple */
+  --callout-red-maroon:      75, 0, 128;       /* #4b0080 - Maroon */
+  --callout-red-blood:       59, 0, 102;       /* #3b0066 - Blood Red */
+  --callout-red-wine:        78, 47, 114;     /* #4E2F72 - Wine */
+  --callout-red-rose:        177, 69, 255;     /* #B145FF - Rose Red */
+  --callout-red-coral:       158, 92, 205;     /* #9E5CCD - Indian Red */
+  --callout-red-salmon:      207, 114, 250;   /* #CF72FA - Salmon */
   
   /* ─────────────────────────────────────────────────────────────────────────
      BLACKS - Deep tones

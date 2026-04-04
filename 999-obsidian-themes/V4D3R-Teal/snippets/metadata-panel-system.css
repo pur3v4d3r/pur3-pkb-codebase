@@ -8,7 +8,7 @@
  Obsidian Version: 1.5.0+
  
  COLOR PALETTE:
-   Primary Red:    #39E6D3 (Accent, active states)
+   Primary Red:    #9139E6 (Accent, active states)
    Dark Grey:      #2B2D30 (Backgrounds, surfaces)
    Medium Grey:    #4A4D52 (Borders, dividers)
    Light Grey:     #8B8D91 (Muted text, icons)
@@ -34,27 +34,27 @@
 .theme-dark,
 .theme-light {
   /* ─── Primary Palette ─── */
-  --metadata-accent: #39E6D3;
-  --metadata-accent-hover: #4DFFEC;
-  --metadata-accent-muted: rgba(57, 230, 211, 0.15);
-  --metadata-accent-subtle: rgba(57, 230, 211, 0.08);
+  --metadata-accent: #9139E6;
+  --metadata-accent-hover: #A84DFF;
+  --metadata-accent-muted: rgba(145, 57, 230, 0.15);
+  --metadata-accent-subtle: rgba(145, 57, 230, 0.08);
   
   /* ─── Neutral Palette ─── */
   --metadata-bg-primary: #000000ff;
   --metadata-bg-secondary: #2B2D30;
-  --metadata-bg-tertiary: #001817ff;
+  --metadata-bg-tertiary: #0e0018ff;
   --metadata-bg-hover: #4A4D52;
   
   /* ─── Text Colors ─── */
   --metadata-text-primary: #E8E9EA;
   --metadata-text-secondary: #B8B9BC;
   --metadata-text-muted: #8B8D91;
-  --metadata-text-accent: #39E6D3;
+  --metadata-text-accent: #9139E6;
   
   /* ─── Border & Dividers ─── */
   --metadata-border: #4A4D52;
   --metadata-border-subtle: #3A3D42;
-  --metadata-border-accent: rgba(57, 230, 211, 0.5);
+  --metadata-border-accent: rgba(145, 57, 230, 0.5);
   
   /* ─── Spacing System ─── */
   --metadata-spacing-xs: 4px;
@@ -350,7 +350,7 @@
 .metadata-property-value textarea {
   width: 100% !important;
   font-size: var(--metadata-font-size) !important;
-  color: #00fff7ff !important;
+  color: #9500ffff !important;
   background: var(--metadata-bg-primary) !important;
   border: 1px solid var(--metadata-border-subtle) !important;
   border-radius: var(--metadata-radius-md) !important;
@@ -1049,12 +1049,12 @@
   background: #0D0D0D;
   border: 1px solid var(--metadata-accent);
   box-shadow: 0 0 10px var(--metadata-accent-muted),
-              inset 0 0 20px rgba(57, 230, 211, 0.05);
+              inset 0 0 20px rgba(145, 57, 230, 0.05);
 }
 .metadata-container:hover {
   box-shadow: 0 0 20px var(--metadata-accent-muted),
-              0 0 40px rgba(57, 230, 211, 0.1),
-              inset 0 0 20px rgba(57, 230, 211, 0.05);
+              0 0 40px rgba(145, 57, 230, 0.1),
+              inset 0 0 20px rgba(145, 57, 230, 0.05);
 }
 .metadata-properties-title {
   color: var(--metadata-accent);
@@ -1159,7 +1159,7 @@
 /* ─── Priority Property ─── */
 
 .metadata-property[data-property-key="priority"] .multi-select-pill[data-value="high"] {
-  background: #39E6D3;
+  background: #9139E6;
   color: white;
 }
 .metadata-property[data-property-key="priority"] .multi-select-pill[data-value="medium"] {
@@ -1201,10 +1201,10 @@
 }
 
 /* ─── Contrast Verification Comments ─── */
-/* ✓ WCAG AA: #39E6D3 (Red) on #1A1B1E (Black) = 5.2:1 (Pass) */
+/* ✓ WCAG AA: #9139E6 (Red) on #1A1B1E (Black) = 5.2:1 (Pass) */
 /* ✓ WCAG AA: #E8E9EA (Light text) on #2B2D30 (Dark grey) = 11.3:1 (Pass) */
 /* ✓ WCAG AA: #8B8D91 (Muted) on #2B2D30 (Dark grey) = 4.7:1 (Pass) */
-/* ✓ WCAG AA: #1A1B1E (Black) on #39E6D3 (Red) = 5.2:1 (Pass - for inverted) */
+/* ✓ WCAG AA: #1A1B1E (Black) on #9139E6 (Red) = 5.2:1 (Pass - for inverted) */
 
 
 /* ═══════════════════════════════════════════════════════════════════════════
@@ -1252,7 +1252,7 @@
 
 /* Property key (label) - Gold */
 .theme-dark .metadata-property-key {
-  color: #00E5DD !important;                  /* Imperial gold */
+  color: #8600E5 !important;                  /* Imperial gold */
   font-weight: 600 !important;                /* Bold */
   min-width: 120px !important;                /* Consistent width */
 }
@@ -1283,8 +1283,8 @@ body.metadata-dividers .metadata-property {
   letter-spacing: 0.5px !important;            /* Spacing for readability */
   font-size: 11px !important;                  /* Slightly smaller */
   padding: 2px 6px !important;                 /* Internal spacing */
-  background: rgba(0, 229, 221, 0.15) !important; /* Subtle red background */
-  border-left: 3px solid #00E5DD !important;   /* Red accent bar */
+  background: rgba(134, 0, 229, 0.15) !important; /* Subtle red background */
+  border-left: 3px solid #8600E5 !important;   /* Red accent bar */
   border-radius: 3px !important;               /* Subtle rounding */
   margin-right: 8px !important;                /* Space before value */
 }

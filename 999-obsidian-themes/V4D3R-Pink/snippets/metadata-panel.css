@@ -25,10 +25,10 @@
     position: absolute !important;
     top: 6px !important;
     right: 12px !important; 
-    background: linear-gradient(135deg, #E5007341 35%, #E5007371 90%, #E5007370 15%) !important;
+    background: linear-gradient(135deg, #8600E541 35%, #8600E571 90%, #8600E570 15%) !important;
     padding: 4px 8px !important;
     border-radius: 6px !important;
-    box-shadow: 0 2px 8px rgba(255, 0, 128, 0.3) !important;
+    box-shadow: 0 2px 8px rgba(149, 0, 255, 0.3) !important;
     z-index: 10 !important; 
    /* slight glow and shadow to boxes */ 
 
@@ -44,8 +44,8 @@
   letter-spacing: 0.5px !important;            /* Spacing for readability */
   font-size: 11px !important;                  /* Slightly smaller */
   padding: 2px 6px !important;                 /* Internal spacing */
-  background: rgba(229, 0, 115, 0.15) !important; /* Subtle red background */
-  border-left: 3px solid #E50073 !important;   /* Red accent bar */
+  background: rgba(134, 0, 229, 0.15) !important; /* Subtle red background */
+  border-left: 3px solid #8600E5 !important;   /* Red accent bar */
   border-radius: 3px !important;               /* Subtle rounding */
   margin-right: 8px !important;                /* Space before value */
 }
@@ -55,21 +55,21 @@
   color: #9b9b9bff !important;                   /* Bright grey/white */
   background: rgba(18, 18, 18, 0.5) !important; /* Dark background */
   padding: 2px 8px !important;                 /* Internal spacing */
-  border: 1px solid #5e0d3638 !important;        /* Grey border */
+  border: 1px solid #3c0d5e38 !important;        /* Grey border */
   border-radius: 4px !important;               /* Rounded corners */
   font-family: "JetBrains Mono", "Consolas", monospace !important;
 }
 
 .metadata-property-value a {
-  color: #E50073 !important;                   /* Red for links */
+  color: #8600E5 !important;                   /* Red for links */
   text-decoration: none !important;            /* No underline default */
-  border-bottom: 1px solid rgba(229, 0, 115, 0.4) !important; /* Subtle underline */
+  border-bottom: 1px solid rgba(134, 0, 229, 0.4) !important; /* Subtle underline */
   transition: border-color 0.2s ease !important;
 }
 
 .metadata-property-value a:hover {
-  color: #FF0080 !important;                   /* Bright red on hover */
-  border-bottom: 2px solid #FF0080 !important; /* Thicker underline */
+  color: #9500FF !important;                   /* Bright red on hover */
+  border-bottom: 2px solid #9500FF !important; /* Thicker underline */
 }
 
 .metadata-property-description {

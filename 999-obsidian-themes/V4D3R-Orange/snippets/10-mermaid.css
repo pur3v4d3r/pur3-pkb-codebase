@@ -92,20 +92,20 @@
 }
 .mermaid:hover {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
-  border-color: #973f00ff; /* Red Arrow Highlight */
+  border-color: #580097ff; /* Red Arrow Highlight */
 }
 .node rect, .node circle, .node polygon {
-  fill: #121212 !important; stroke: #E17121 !important; stroke-width: 2px !important;
+  fill: #121212 !important; stroke: #9026DC !important; stroke-width: 2px !important;
 }
 .edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
-.marker { fill: #E17121 !important; stroke: #E17121 !important; }
+.marker { fill: #9026DC !important; stroke: #9026DC !important; }
 .label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
 /*node Hover effect*/
 .node:hover rect, .node:hover circle, .node:hover polygon {
-  fill: #1F1F1F !important; stroke: #FF6A00 !important; stroke-width: 2px !important;
+  fill: #1F1F1F !important; stroke: #9500FF !important; stroke-width: 2px !important;
 }
-.edgePath:hover .path { stroke: #FF6A00 !important; stroke-width: 2px !important; }
-.marker:hover { fill: #FF6A00 !important; stroke-width: 2px !important; }
+.edgePath:hover .path { stroke: #9500FF !important; stroke-width: 2px !important; }
+.marker:hover { fill: #9500FF !important; stroke-width: 2px !important; }
 .label:hover { color: #FFFFFF !important; font-family: "JetBrains Mono" !important; }
 
 
@@ -182,15 +182,15 @@
 
 /* Flowchart nodes */
 .theme-dark .mermaid .node rect {
-  fill: rgba(229, 95, 0, 0.1) !important;    /* Purple tint */
-  stroke: #E55F00 !important;                 /* Purple border */
+  fill: rgba(134, 0, 229, 0.1) !important;    /* Purple tint */
+  stroke: #8600E5 !important;                 /* Purple border */
   stroke-width: 2px;
 }
 
 /* Sequence diagram boxes */
 .theme-dark .mermaid .actor {
   fill: var(--background-secondary) !important;
-  stroke: #E55F00 !important;                 /* Gold border */
+  stroke: #8600E5 !important;                 /* Gold border */
 }
 
 

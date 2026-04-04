@@ -15,12 +15,12 @@
 
 :root {
   /* ─── PRIMARY RED PALETTE ─── */
-  --v4d3r-cyan-primary: #00ccffff;
-  --v4d3r-cyan-dark: #18829C;
-  --v4d3r-cyan-darker: #1B6D81;
-  --v4d3r-cyan-light: #40CFF3;
-  --v4d3r-cyan-pale: #00ccffff;
-  --v4d3r-cyan-glow: rgba(33, 186, 225, 0.4);
+  --v4d3r-purple-primary: #9500ffff;
+  --v4d3r-purple-dark: #641B99;
+  --v4d3r-purple-darker: #561D7F;
+  --v4d3r-purple-light: #A844EF;
+  --v4d3r-purple-pale: #9500ffff;
+  --v4d3r-purple-glow: rgba(144, 38, 220, 0.4);
   
   /* ─── BLACK PALETTE ─── */
   --v4d3r-black-pure: #000000;
@@ -38,15 +38,15 @@
   --v4d3r-grey-snow: #F3F4F6;
   
   /* ─── ACCENT COLORS ─── */
-  --v4d3r-accent-crimson: #189CBD;
-  --v4d3r-accent-rose: #18E6E2;
-  --v4d3r-accent-maroon: #108b7e;
+  --v4d3r-accent-crimson: #781CB9;
+  --v4d3r-accent-rose: #641DE1;
+  --v4d3r-accent-maroon: #331388;
   
   /* ─── SEMANTIC COLORS ─── */
   --v4d3r-success: #059669;
-  --v4d3r-warning: #013BDE;
+  --v4d3r-warning: #D906C0;
   --v4d3r-info: #6B7280;
-  --v4d3r-error: var(--v4d3r-cyan-primary);
+  --v4d3r-error: var(--v4d3r-purple-primary);
 }
 
 /* ═══════════════════════════════════════════════════════════════════════════
@@ -80,8 +80,8 @@
 .mermaid marker#arrowhead path,
 .mermaid marker path,
 .mermaid .marker {
-  fill: var(--v4d3r-cyan-primary) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
@@ -96,8 +96,8 @@
 }
 
 .mermaid .cluster .label {
-  color: var(--v4d3r-cyan-light) !important;
-  fill: var(--v4d3r-cyan-light) !important;
+  color: var(--v4d3r-purple-light) !important;
+  fill: var(--v4d3r-purple-light) !important;
   font-weight: 600;
 }
 
@@ -109,8 +109,8 @@
 }
 
 .mermaid .marker {
-  fill: var(--v4d3r-cyan-primary) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
@@ -121,7 +121,7 @@
 .mermaid .actor ellipse,
 .mermaid .actor polygon {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .actor text {
   fill: var(--v4d3r-grey-pale) !important;
@@ -133,22 +133,22 @@
   fill: var(--v4d3r-grey-light) !important;
 }
 .mermaid .activationRect {
-  fill: var(--v4d3r-cyan-dark) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-dark) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .sequenceDiagram .divider {
   stroke: var(--v4d3r-grey-dark) !important;
 }
 .mermaid .sequenceDiagram .noteRect {
   fill: var(--v4d3r-black-charcoal) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .sequenceDiagram .noteText {
   fill: var(--v4d3r-grey-pale) !important;
 }
 .mermaid .actor {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 .mermaid .actor-line {
@@ -172,15 +172,15 @@
 .mermaid .activation0,
 .mermaid .activation1,
 .mermaid .activation2 {
-  fill: var(--v4d3r-cyan-dark) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-dark) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M8: GANTT CHART STYLING
 ───────────────────────────────────────────────────────────────────────── */
 .mermaid .gantt-bar {
-  fill: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
   stroke: var(--v4d3r-black-pure) !important;
   stroke-width: 1px !important;
 }
@@ -206,8 +206,8 @@
 }
 
 .mermaid .task {
-  fill: var(--v4d3r-cyan-dark) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-dark) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 .mermaid .taskText {
@@ -254,7 +254,7 @@
 ───────────────────────────────────────────────────────────────────────── */
 .mermaid .classNode rect {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .classNode text {
   fill: var(--v4d3r-grey-pale) !important;
@@ -263,11 +263,11 @@
   stroke: var(--v4d3r-grey-medium) !important;
 }
 .mermaid .classMarker path {
-  fill: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .classGroup rect {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .classGroup .title {
   fill: var(--v4d3r-grey-pale) !important;
@@ -275,11 +275,11 @@
 
 .mermaid .classGroup rect {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 .mermaid .classGroup .title {
-  fill: var(--v4d3r-cyan-light) !important;
+  fill: var(--v4d3r-purple-light) !important;
 }
 
 .mermaid .classGroup line {
@@ -306,7 +306,7 @@
 .mermaid .stateNode circle,
 .mermaid .stateNode ellipse {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .stateNode text {
   fill: var(--v4d3r-grey-pale) !important;
@@ -315,11 +315,11 @@
   stroke: var(--v4d3r-grey-medium) !important;
 }
 .mermaid .stateMarker path {
-  fill: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .stateGroup rect {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 
 .mermaid .stateGroup .title {
@@ -332,7 +332,7 @@
 
 .mermaid .start-state,
 .mermaid .end-state {
-  fill: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
@@ -343,7 +343,7 @@
 .mermaid .mindmap-node ellipse,
 .mermaid .mindmap-node polygon {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .mindmap-node text {
   fill: var(--v4d3r-grey-pale) !important;
@@ -352,11 +352,11 @@
   stroke: var(--v4d3r-grey-medium) !important;
 }
 .mermaid .mindmap-marker path {
-  fill: var(--v4d3r-cyan-primary) !important;
+  fill: var(--v4d3r-purple-primary) !important;
 }
 .mermaid .mindmap-node rect {
   fill: var(--v4d3r-black-rich) !important;
-  stroke: var(--v4d3r-cyan-primary) !important;
+  stroke: var(--v4d3r-purple-primary) !important;
   rx: 8px;
   ry: 8px;
 }
@@ -381,7 +381,7 @@
 .mermaid .node:hover path {
   stroke: var(--v4d3r-accent-crimson) !important;
   stroke-width: 8px !important;
-  filter: drop-shadow(0 0 6px var(--v4d3r-cyan-glow)) !important;
+  filter: drop-shadow(0 0 6px var(--v4d3r-purple-glow)) !important;
 
 }
 .mermaid .node:hover .label {
@@ -508,20 +508,20 @@
 }
 .mermaid:hover {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
-  border-color: #007997ff; /* Red Arrow Highlight */
+  border-color: #580097ff; /* Red Arrow Highlight */
 }
 .node rect, .node circle, .node polygon {
-  fill: #121212 !important; stroke: #21BAE1 !important; stroke-width: 2px !important;
+  fill: #121212 !important; stroke: #9026DC !important; stroke-width: 2px !important;
 }
 .edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
-.marker { fill: #21BAE1 !important; stroke: #21BAE1 !important; }
+.marker { fill: #9026DC !important; stroke: #9026DC !important; }
 .label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
 /*node Hover effect*/
 .node:hover rect, .node:hover circle, .node:hover polygon {
-  fill: #1F1F1F !important; stroke: #00CCFF !important; stroke-width: 2px !important;
+  fill: #1F1F1F !important; stroke: #9500FF !important; stroke-width: 2px !important;
 }
-.edgePath:hover .path { stroke: #00CCFF !important; stroke-width: 2px !important; }
-.marker:hover { fill: #00CCFF !important; stroke-width: 2px !important; }
+.edgePath:hover .path { stroke: #9500FF !important; stroke-width: 2px !important; }
+.marker:hover { fill: #9500FF !important; stroke-width: 2px !important; }
 .label:hover { color: #FFFFFF !important; font-family: "JetBrains Mono" !important; }
 
 
@@ -598,15 +598,15 @@
 
 /* Flowchart nodes */
 .theme-dark .mermaid .node rect {
-  fill: rgba(0, 183, 229, 0.1) !important;    /* Purple tint */
-  stroke: #00B7E5 !important;                 /* Purple border */
+  fill: rgba(134, 0, 229, 0.1) !important;    /* Purple tint */
+  stroke: #8600E5 !important;                 /* Purple border */
   stroke-width: 2px;
 }
 
 /* Sequence diagram boxes */
 .theme-dark .mermaid .actor {
   fill: var(--background-secondary) !important;
-  stroke: #00B7E5 !important;                 /* Gold border */
+  stroke: #8600E5 !important;                 /* Gold border */
 }
 
 

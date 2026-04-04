@@ -127,6 +127,57 @@ COLOR_SCHEMES: list[ColorScheme] = [
         description="Dark theme with vibrant Cyan, Black, and Grey palette",
         saturation_mult=1.05,
     ),
+    ColorScheme(
+        name="Magenta",
+        slug="magenta",
+        target_hue=300.0,
+        description="Dark theme with vibrant Magenta, Black, and Grey palette",
+        saturation_mult=1.05,
+    ),
+    ColorScheme(
+        name="Yellow",
+        slug="yellow",
+        target_hue=60.0,
+        description="Dark theme with vibrant Yellow, Black, and Grey palette",
+        saturation_mult=1.1,
+    ),
+    ColorScheme(
+        name="Green",
+        slug="green",
+        target_hue=120.0,
+        description="Dark theme with vibrant Green, Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Red",
+        slug="red",
+        target_hue=0.0,
+        description="Dark theme with vibrant Red, Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Indigo",
+        slug="indigo",
+        target_hue=245.0,
+        description="Dark theme with vibrant Indigo, Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Violet",
+        slug="violet",
+        target_hue=270.0,
+        description="Dark theme with vibrant Violet, Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Golden",
+        slug="golden",
+        target_hue=45.0,
+        description="Dark theme with vibrant Golden, Black, and Grey palette",
+        saturation_mult=1.1,
+    ),
+    ColorScheme(
+        name="Rose",
+        slug="rose",
+        target_hue=345.0,
+        description="Dark theme with vibrant Rose, Black, and Grey palette",
+    ),
 ]
 
 # ── PATHS ─────────────────────────────────────────────────────────────────────

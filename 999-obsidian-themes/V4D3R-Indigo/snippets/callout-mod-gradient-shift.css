@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CALLOUT MOD: Gradient Shift                                                 ║
+║  Animated gradient backgrounds using the callout's accent color              ║
+║                                                                              ║
+║  REQUIRES: callout-base.css enabled                                          ║
+║  CONFLICTS: Other layout/effect mods (enable only ONE mod at a time)         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+/* --- Gradient Container --- */
+.callout {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(var(--callout-color), 0.08) 0%,
+      rgba(var(--co-bg), 0.95) 40%,
+      rgba(var(--co-surface), 0.95) 70%,
+      rgba(var(--callout-color), 0.05) 100%
+    ) !important;
+  background-size: 250% 250% !important;
+  animation: co-gradient-pan 12s ease-in-out infinite !important;
+  border: 1px solid rgba(var(--callout-color), 0.2) !important;
+  border-top: 2px solid rgba(var(--callout-color), 0.5) !important;
+  border-radius: var(--co-radius-lg) !important;
+  padding: 0 !important;
+  margin: 1.5em 0 !important;
+  overflow: hidden !important;
+  position: relative !important;
+  box-shadow:
+    0 4px 14px rgba(0, 0, 0, 0.3),
+    0 0 8px rgba(var(--callout-color), 0.08) !important;
+  transition:
+    box-shadow var(--co-speed) var(--co-ease),
+    border-color var(--co-speed) var(--co-ease) !important;
+}
+
+.callout:hover {
+  border-color: rgba(var(--callout-color), 0.5) !important;
+  box-shadow:
+    0 6px 20px rgba(0, 0, 0, 0.4),
+    0 0 14px rgba(var(--callout-color), 0.15) !important;
+}
+
+/* --- Gradient highlight line along top --- */
+.callout::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 100% !important;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(var(--callout-color), 0.06) 0%,
+      transparent 30%
+    ) !important;
+  pointer-events: none !important;
+  z-index: 0 !important;
+}
+
+/* --- Title with gradient tint --- */
+.callout-title {
+  background: transparent !important;
+  padding: 12px 18px !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.15) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 600 !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* --- Content --- */
+.callout-content {
+  background: transparent !important;
+  padding: 14px 18px !important;
+  color: rgba(var(--co-text), 0.9) !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* --- Bold gradient text --- */
+.callout-content strong,
+.callout-content b {
+  color: rgb(var(--callout-color)) !important;
+  text-shadow: 0 0 4px rgba(var(--callout-color), 0.2) !important;
+}
+
+/* --- Icon --- */
+.callout-icon {
+  filter: drop-shadow(0 0 2px rgba(var(--callout-color), 0.3)) !important;
+}
+
+/* --- No after pseudo needed --- */
+.callout::after { display: none !important; }
+
+/* --- Nested --- */
+.callout .callout {
+  background-size: 200% 200% !important;
+  animation-duration: 16s !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout {
+    animation: none !important;
+    background-size: 100% 100% !important;
+  }
+}
