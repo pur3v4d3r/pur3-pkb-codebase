@@ -1,0 +1,116 @@
+/*
+ * print.css — Print-specific overrides for Obsidian Print plugin
+ * ─────────────────────────────────────────────────────────────────
+ * The Print plugin now injects ALL enabled CSS snippets + the active
+ * theme into every print job. Use this file for overrides that should
+ * ONLY apply when printing (e.g. stripping dark backgrounds, hiding
+ * UI chrome, adjusting colors for paper readability).
+ *
+ * Toggle this snippet on/off under Appearance > CSS Snippets, or via
+ * the "Custom CSS" toggle in the Print plugin settings.
+ * ─────────────────────────────────────────────────────────────────
+ */
+
+@media print {
+
+    /* ─── Force light background + pure black text ───────────── */
+    body,
+    .obsidian-print-note {
+        background: #ffffff !important;
+        color: #000000 !important;
+    }
+
+    /* ─── Override dark CSS variables with print-safe values ────── */
+    :root,
+    .theme-dark,
+    .theme-light {
+        --background-primary:         #ffffff !important;
+        --background-secondary:       #f5f5f5 !important;
+        --background-modifier-border: #cccccc !important;
+        --text-normal:                #000000 !important;
+        --text-muted:                 #333333 !important;
+        --text-faint:                 #555555 !important;
+        --text-on-accent:             #ffffff !important;
+        --interactive-accent:         #d1d1d1 !important;
+        --callout-color:              100, 80, 160 !important;
+    }
+
+    /* ─── Direct black override on all text-bearing elements ────── */
+    /* Catches anything still using var(--text-*) from the dark theme */
+    p, li, dt, dd, blockquote,
+    h1, h2, h3, h4, h5, h6,
+    span, label, caption, figcaption,
+    .el-p, .el-li, .el-h1, .el-h2, .el-h3, .el-h4, .el-h5, .el-h6,
+    .markdown-rendered,
+    .markdown-preview-view,
+    .markdown-preview-section {
+        color: #000000 !important;
+    }
+
+    /* ─── Callout baseline for print ───────────────────────────── */
+    .callout {
+        border-left-width: 3px !important;
+        background: rgba(0, 0, 0, 0.04) !important;
+        break-inside: avoid;
+    }
+
+    .callout-title {
+        font-weight: 600;
+    }
+
+    /* ─── Hide interactive / screen-only elements ───────────────── */
+    .callout-fold,
+    .copy-code-button,
+    .metadata-container,
+    .collapse-indicator,
+    .nav-buttons-container,
+    pre button {
+        display: none !important;
+    }
+
+    /* ─── Mermaid diagrams — ensure they render fully ───────────── */
+    .mermaid,
+    .mermaid svg {
+        max-width: 100%;
+        overflow: visible;
+        break-inside: avoid;
+    }
+
+    /* ─── Code blocks ───────────────────────────────────────────── */
+    pre,
+    code {
+        background: #f4f4f4 !important;
+        color: #000000 !important;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        font-size: 0.85em;
+        white-space: pre-wrap;
+        word-break: break-word;
+    }
+
+    /* ─── Tags ──────────────────────────────────────────────────── */
+    .tag {
+        background: #e8e8e8 !important;
+        color: #333 !important;
+        border: 1px solid #ccc;
+        padding: 1px 5px;
+        border-radius: 3px;
+    }
+
+    /* ─── Links ─────────────────────────────────────────────────── */
+    a,
+    a.internal-link,
+    a.external-link {
+        color: #bbbbbb !important;
+        text-decoration: underline;
+    }
+
+    /* ─── Page break utilities ──────────────────────────────────── */
+    .print-page-break {
+        page-break-before: always;
+    }
+
+    .print-no-break {
+        break-inside: avoid;
+    }
+}

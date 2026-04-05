@@ -1,0 +1,204 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Icon Style Variations
+
+ Purpose: Enhance callout icons with various visual treatments
+ Effect: Styled icon containers with backgrounds, shapes, and effects
+ Inspired by: Modern icon design systems, badge UIs, app interfaces
+ Compatible with: All callout styles
+
+ Enable this snippet for:
+ - Prominent icon styling
+ - Background circles/squares for icons
+ - Icon badges and containers
+ - Enhanced visual hierarchy
+ - Modern icon treatment
+
+ CHOOSE YOUR STYLE: Comment/uncomment sections below
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 1: Circular Icon Badges (Default - Enabled)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-icon {
+  background: rgba(var(--callout-color), 0.2) !important;
+  border-radius: 50% !important;
+  padding: 8px !important;
+  width: 32px !important;
+  height: 32px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow: 0 2px 8px rgba(var(--callout-color), 0.3) !important;
+  border: 2px solid rgba(var(--callout-color), 0.4) !important;
+}
+
+.callout:hover .callout-icon {
+  background: rgba(var(--callout-color), 0.3) !important;
+  box-shadow: 0 4px 12px rgba(var(--callout-color), 0.4) !important;
+  border-color: rgba(var(--callout-color), 0.6) !important;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 2: Square Icon Badges (Uncomment to use)
+   ═══════════════════════════════════════════════════════════════════════════
+
+.callout-icon {
+  background: rgba(var(--callout-color), 0.2) !important;
+  border-radius: 8px !important;
+  padding: 8px !important;
+  width: 32px !important;
+  height: 32px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow: 0 2px 8px rgba(var(--callout-color), 0.3) !important;
+}
+
+.callout:hover .callout-icon {
+  background: rgba(var(--callout-color), 0.35) !important;
+  box-shadow: 0 4px 12px rgba(var(--callout-color), 0.5) !important;
+  transform: rotate(5deg) scale(1.1) !important;
+}
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 3: Hexagonal Icon Badges (Uncomment to use)
+   ═══════════════════════════════════════════════════════════════════════════
+
+.callout-icon {
+  background: rgba(var(--callout-color), 0.2) !important;
+  clip-path: polygon(
+    30% 0%, 70% 0%, 100% 30%,
+    100% 70%, 70% 100%, 30% 100%,
+    0% 70%, 0% 30%
+  ) !important;
+  padding: 10px !important;
+  width: 36px !important;
+  height: 36px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.callout:hover .callout-icon {
+  background: rgba(var(--callout-color), 0.35) !important;
+  transform: rotate(20deg) scale(1.15) !important;
+}
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 4: Glowing Icon Aura (Uncomment to use)
+   ═══════════════════════════════════════════════════════════════════════════
+
+.callout-icon {
+  background: transparent !important;
+  padding: 6px !important;
+  filter: drop-shadow(0 0 8px rgba(var(--callout-color), 0.6))
+          drop-shadow(0 0 16px rgba(var(--callout-color), 0.4)) !important;
+  position: relative !important;
+}
+
+.callout-icon::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  width: 40px !important;
+  height: 40px !important;
+  background: radial-gradient(
+    circle,
+    rgba(var(--callout-color), 0.3) 0%,
+    rgba(var(--callout-color), 0.1) 50%,
+    transparent 100%
+  ) !important;
+  border-radius: 50% !important;
+  z-index: -1 !important;
+}
+
+.callout:hover .callout-icon {
+  filter: drop-shadow(0 0 12px rgba(var(--callout-color), 0.8))
+          drop-shadow(0 0 24px rgba(var(--callout-color), 0.6))
+          drop-shadow(0 0 36px rgba(var(--callout-color), 0.4)) !important;
+  transform: scale(1.2) !important;
+}
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 5: Outlined Icon (Uncomment to use)
+   ═══════════════════════════════════════════════════════════════════════════
+
+.callout-icon {
+  background: transparent !important;
+  border: 2px solid rgba(var(--callout-color), 0.6) !important;
+  border-radius: 50% !important;
+  padding: 8px !important;
+  width: 32px !important;
+  height: 32px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.callout:hover .callout-icon {
+  border-color: rgba(var(--callout-color), 1) !important;
+  border-width: 3px !important;
+  box-shadow: 0 0 15px rgba(var(--callout-color), 0.5) !important;
+}
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 6: Icon with Gradient Background (Uncomment to use)
+   ═══════════════════════════════════════════════════════════════════════════
+
+.callout-icon {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.3) 0%,
+    rgba(var(--callout-color), 0.1) 100%) !important;
+  border-radius: 12px !important;
+  padding: 8px !important;
+  width: 34px !important;
+  height: 34px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow:
+    0 4px 12px rgba(var(--callout-color), 0.25),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1) !important;
+}
+
+.callout:hover .callout-icon {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.5) 0%,
+    rgba(var(--callout-color), 0.2) 100%) !important;
+  box-shadow:
+    0 6px 16px rgba(var(--callout-color), 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+}
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 7: Minimal - No Icon Background (Uncomment to use)
+   ═══════════════════════════════════════════════════════════════════════════
+
+.callout-icon {
+  background: transparent !important;
+  border: none !important;
+  padding: 4px !important;
+  box-shadow: none !important;
+}
+
+.callout:hover .callout-icon {
+  transform: scale(1.15) !important;
+  filter: brightness(1.2) !important;
+}
+*/
+
+/* Icon size adjustments for all styles */
+.callout-icon svg {
+  width: 16px !important;
+  height: 16px !important;
+}
