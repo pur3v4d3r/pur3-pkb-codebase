@@ -1,0 +1,157 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ SNIPPET: Glowing Headers System
+ Category: Typography
+ Purpose: Neon glow heading hierarchy with RED/BLACK/GREY palette
+ Author: Pur3v4d3r
+ Created: 2025-12-29
+ Version: 1.0.0
+
+ Description:
+ Complete heading hierarchy (H1-H6) featuring dark text with glowing
+ purple neon text-shadow effects. Uses JetBrains Mono with all-small-caps
+ for a professional cyberpunk aesthetic.
+
+ Color Palette:
+ - Primary Glow: #9500FF (Vivid Purple)
+ - Secondary Glow: #8600E5 (Deep Purple)
+ - Tertiary Glow: #6800B3 (Dark Purple)
+ - Text Base: #040404 (Near Black)
+ - Accent Grey: #858585 (Medium Grey)
+
+ Font Requirements:
+ - JetBrains Mono (recommended)
+ - Download: https://www.jetbrains.com/lp/mono/
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 1 - Intense Red Glow
+   Primary headings with maximum glow intensity
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1,
+.theme-dark .cm-header-1,
+.markdown-preview-view h1,
+.cm-header-1,
+h1 {
+    font-family: "Jetbrains Mono", var(--font-monospace) !important;
+    font-size: 1.8em !important;
+    font-weight: 600 !important;
+    font-variant: all-small-caps !important;
+    color: #000000 !important;                  /* Pure Black */
+    text-decoration: underline !important;
+    text-shadow: 0 0 3px #9500ffff, 0 0 6px #9500ffee, 0 0 10px #9500ffcc,
+                 0 0 14px #9500ffaa, 0 0 18px #9500ff77;
+                 /* Strong purple neon glow */
+  }
+  
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 2 - Strong Red Glow
+   Section headings with bold presence
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2,
+.theme-dark .cm-header-2,
+.markdown-preview-view h2,
+.cm-header-2,
+h2 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.8em !important;
+  font-weight: 600 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 3px #9500ffff, 0 0 6px #9500ffee, 0 0 10px #9500ffcc,
+               0 0 14px #9500ffaa, 0 0 18px #9500ff77;
+               /* Strong purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 3 - Medium Red Glow
+   Subsection headings with reduced intensity
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h3,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3,
+.theme-dark .cm-header-3,
+.markdown-preview-view h3,
+.cm-header-3,
+h3 {
+    font-family: "Jetbrains Mono", var(--font-monospace) !important;
+    font-size: 1.8em !important;
+    font-weight: 100 !important;
+    font-variant: all-small-caps !important;
+    color: #000000ff !important;                  /* Pure Black */
+    text-decoration: underline !important;
+    text-shadow: 0 0 30px #36005cff, 0 0 20px #000000ee, 0 0 30px #9500ffcc,
+                 0 0 30px #000000aa, 0 0 50px #9500ff77;
+                 /* Strong purple neon glow */
+  }
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 4 - Subtle Red Glow
+   Minor section headings with softer effect
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h4,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-4,
+.theme-dark .cm-header-4,
+.markdown-preview-view h4,
+.cm-header-4,
+h4 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.3em !important;
+  font-weight: 500 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #9500ffdd, 0 0 5px #9500ffbb, 0 0 8px #9500ff99,
+               0 0 11px #9500ff66;
+               /* Subtle purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 5 - Grey-Red Hybrid Glow
+   Detail headings with grey undertones
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h5,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-5,
+.theme-dark .cm-header-5,
+.markdown-preview-view h5,
+.cm-header-5,
+h5 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.15em !important;
+  font-weight: 400 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #9500ffcc, 0 0 4px #9500ffaa, 0 0 7px #9500ff77,
+               0 0 10px #9500ff55;
+               /* Soft purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 6 - Minimal Red Glow
+   Smallest headings with faint purple effect
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h6,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-6,
+.theme-dark .cm-header-6,
+.markdown-preview-view h6,
+.cm-header-6,
+h6 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.05em !important;
+  font-weight: 400 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #9500ffaa, 0 0 4px #9500ff88, 0 0 6px #9500ff55;
+               /* Minimal purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   END OF GLOWING HEADERS SYSTEM
+   ══════════════════════════════════════════════════════════ */

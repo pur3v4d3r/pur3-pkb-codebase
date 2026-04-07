@@ -5,9 +5,9 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --crimson-gold-glow: #ff8b00ff;
-  --crimson-gold-glow-bright: #ffbe33;
-  --crimson-gold-shadow: rgba(255, 139, 0, 0.7);
+  --crimson-gold-glow: #67625fff;
+  --crimson-gold-glow-bright: #7c7673;
+  --crimson-gold-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--crimson-gold-shadow), 0 0 5px var(--crimson-gold-shadow);
 }
 
@@ -234,12 +234,12 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --crimson-gold-shadow: rgba(255, 139, 0, 0.7);
+  --crimson-gold-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--crimson-gold-shadow), 0 0 5px var(--crimson-gold-shadow);
 }
 
 .theme-light {
-  --crimson-gold-shadow: rgba(255, 139, 0, 0.55);
+  --crimson-gold-shadow: rgba(103, 98, 95, 0.55);
   --bracket-shadow: 0 0 2px var(--crimson-gold-shadow), 0 0 4px var(--crimson-gold-shadow);
 }
 
@@ -265,7 +265,7 @@ pre[class*="language-"] .token.bracket,
 .test-brackets * {
   color: var(--crimson-gold-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
-  background: rgba(255, 139, 0, 1) !important;
+  background: rgba(103, 98, 95, 1) !important;
 }
 /* ══════════════════════════════════════════════════════════════════════════════════
    BRACKET GLOW INTENSITY CONTROL
@@ -364,24 +364,24 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 /* BLUE VARIANT */
 /*
 :root {
-  --crimson-gold-glow: #0066ff;
-  --crimson-gold-shadow: rgba(0, 102, 255, 0.9);
+  --crimson-gold-glow: #67625f;
+  --crimson-gold-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --crimson-gold-glow: #00ff00;
-  --crimson-gold-shadow: rgba(0, 255, 0, 0.9);
+  --crimson-gold-glow: #67625f;
+  --crimson-gold-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --crimson-gold-glow: #9900ff;
-  --crimson-gold-shadow: rgba(153, 0, 255, 0.9);
+  --crimson-gold-glow: #67625f;
+  --crimson-gold-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */

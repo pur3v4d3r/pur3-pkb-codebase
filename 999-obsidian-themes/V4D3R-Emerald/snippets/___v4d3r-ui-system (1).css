@@ -40,11 +40,11 @@
 /* === DARK THEME VARIANT (DEFAULT) === */
 .theme-dark {
   /* ─── PRIMARY RED PALETTE ─── */
-  --v4d3r-emerald-primary: #31e986 !important;
-  --v4d3r-emerald-secondary: #47ffa2 !important;
-  --v4d3r-emerald-accent: #6bffb2 !important;
-  --v4d3r-emerald-muted: #1e8b51 !important;
-  --v4d3r-emerald-dark: #145c32 !important;
+  --v4d3r-emerald-primary: #726d6a !important;
+  --v4d3r-emerald-secondary: #847e7a !important;
+  --v4d3r-emerald-accent: #928c89 !important;
+  --v4d3r-emerald-muted: #45413f !important;
+  --v4d3r-emerald-dark: #2d2b2a !important;
   
   /* ─── BLACK SPECTRUM ─── */
   --v4d3r-black-pure: #000000 !important;
@@ -87,8 +87,8 @@
   --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
   --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.6) !important;
   --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.7) !important;
-  --v4d3r-glow-red: 0 0 10px rgba(49, 233, 134, 0.3) !important;
-  --v4d3r-glow-red-intense: 0 0 20px rgba(49, 233, 134, 0.5) !important;
+  --v4d3r-glow-red: 0 0 10px rgba(114, 109, 106, 0.3) !important;
+  --v4d3r-glow-red-intense: 0 0 20px rgba(114, 109, 106, 0.5) !important;
 }
 
  
@@ -97,11 +97,11 @@
 /* === LIGHT THEME VARIANT (Uncomment to enable) === */
 /*
 .theme-light {
-  --v4d3r-emerald-primary: #2fd38f !important;
-  --v4d3r-emerald-secondary: #35e5a0 !important;
-  --v4d3r-emerald-accent: #28c684 !important;
-  --v4d3r-emerald-muted: #cdffe5 !important;
-  --v4d3r-emerald-dark: #1cb776 !important;
+  --v4d3r-emerald-primary: #696461 !important;
+  --v4d3r-emerald-secondary: #726d6a !important;
+  --v4d3r-emerald-accent: #615c59 !important;
+  --v4d3r-emerald-muted: #b6b3b0 !important;
+  --v4d3r-emerald-dark: #56514f !important;
   
   --v4d3r-black-pure: #000000 !important;
   --v4d3r-black-deep: #1a1a1a !important;
@@ -139,8 +139,8 @@
   --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.1) !important;
   --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.15) !important;
   --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.2) !important;
-  --v4d3r-glow-red: 0 0 10px rgba(47, 211, 143, 0.2) !important;
-  --v4d3r-glow-red-intense: 0 0 20px rgba(47, 211, 143, 0.4) !important;
+  --v4d3r-glow-red: 0 0 10px rgba(105, 100, 97, 0.2) !important;
+  --v4d3r-glow-red-intense: 0 0 20px rgba(105, 100, 97, 0.4) !important;
 }
 */
 
@@ -239,7 +239,7 @@
 .theme-dark .markdown-preview-view strong,
 .theme-dark .markdown-source-view.mod-cm6 .cm-strong,
 .cm-strong {
-  color: #e1ff00ff !important;  
+  color: #67625fff !important;  
   text-transform: uppercase !important;  /* Capitalize bold text */
   font-weight: 600 !important;                /* Semi-bold weight */
 }
@@ -262,13 +262,13 @@
   font-weight: 100 !important;
   border-radius: 8px !important;
   margin-right: 4px !important;
-  box-shadow: 0 10px 15px rgba(0, 255, 149, 0.44) !important;
+  box-shadow: 0 10px 15px rgba(103, 98, 95, 0.44) !important;
   }
   .theme-dark .workspace-tab-header.is-active {
-  background: #0047295c !important;
+  background: #1c1c1c5c !important;
   color: var(--ui-bg-surface) !important;
   font-weight: 600 !important;
-  box-shadow: 0 10px 15px rgba(0, 255, 149, 1) !important;
+  box-shadow: 0 10px 15px rgba(103, 98, 95, 1) !important;
   }
 
 /*
@@ -418,7 +418,7 @@
   color: rgba(255, 255, 255, 0.8) !important;}
 
 .workspace-ribbon.mod-left .clickable-icon:hover {
-  color: #ffffff !important;  background-color: rgba(74, 63, 63, 0.1) !important;}
+  color: #ffffff !important;  background-color: rgba(56, 53, 51, 0.1) !important;}
 */
 /* --- END TOGGLE: Colored Ribbon Accent --- */
 
@@ -969,16 +969,16 @@
 /* --- BEGIN TOGGLE: Rainbow Folder Backgrounds --- */
 /*
 .nav-folder-children .nav-folder-children {
-  background-color: rgba(38, 220, 144, 0.03) !important;}
+  background-color: rgba(105, 100, 97, 0.03) !important;}
 
 .nav-folder-children .nav-folder-children .nav-folder-children {
-  background-color: rgba(38, 220, 144, 0.05) !important;}
+  background-color: rgba(105, 100, 97, 0.05) !important;}
 
 .nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-children {
-  background-color: rgba(38, 220, 144, 0.07) !important;}
+  background-color: rgba(105, 100, 97, 0.07) !important;}
 
 .nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-children {
-  background-color: rgba(38, 220, 144, 0.09) !important;}
+  background-color: rgba(105, 100, 97, 0.09) !important;}
 */
 /* --- END TOGGLE: Rainbow Folder Backgrounds --- */
 
@@ -1292,11 +1292,11 @@
 
 /* Success notice */
 .notice.mod-success {
-  border-left-color: #4ade80 !important;}
+  border-left-color: #78726f !important;}
 
 /* Warning notice */
 .notice.mod-warning {
-  border-left-color: #fbbf24 !important;}
+  border-left-color: #746f6b !important;}
 
 /* Error notice */
 .notice.mod-error {
@@ -1716,5 +1716,5 @@ textarea::placeholder {
   .popover.hover-popover,
   .menu,
   .suggestion-container {
-    box-shadow: 0 0px 48px rgba(0, 255, 149, 0.3) !important;
+    box-shadow: 0 0px 48px rgba(103, 98, 95, 0.3) !important;
   }

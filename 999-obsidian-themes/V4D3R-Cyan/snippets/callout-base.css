@@ -50,22 +50,22 @@
   /* These are the accent colors available for callout types.               */
   /* Change any value to customize. Format: R, G, B                         */
 
-  --co-purple:       149, 0, 255;     /* #9500FF — Electric Purple         */
-  --co-purple-dim:   119, 0, 204;     /* #7700CC — Muted Purple            */
-  --co-purple-deep:  89, 0, 153;      /* #590099 — Deep Purple             */
-  --co-cyan:         0, 255, 255;     /* #00FFFF — Neon Cyan               */
-  --co-green:        0, 255, 128;     /* #00FF80 — Neon Green              */
-  --co-pink:         255, 0, 220;     /* #FF00DC — Hot Pink / Magenta      */
-  --co-blue:         0, 150, 255;     /* #0096FF — Electric Blue           */
-  --co-amber:        255, 183, 0;     /* #FFB700 — Amber / Gold            */
-  --co-red:          0, 255, 238;      /* #00FFEE — Cyan             */
-  --co-orange:       0, 85, 255;     /* #0055FF — Warm Orange             */
-  --co-teal:         0, 204, 163;     /* #00CCA3 — Teal                    */
-  --co-lavender:     160, 140, 255;   /* #A08CFF — Soft Lavender           */
-  --co-steel:        102, 136, 170;   /* #6688AA — Steel Blue              */
-  --co-gold:         204, 170, 68;    /* #CCAA44 — Muted Gold              */
-  --co-lime:         180, 255, 0;     /* #B4FF00 — Electric Lime           */
-  --co-coral:        100, 224, 255;   /* #64E0FF — Soft Coral              */
+  --co-purple:       103, 98, 95;     /* #232121 — Electric Purple         */
+  --co-purple-dim:   83, 79, 76;     /* #534F4C — Muted Purple            */
+  --co-purple-deep:  62, 59, 57;      /* #3e3b39 — Deep Purple             */
+  --co-cyan:         103, 98, 95;     /* #67625F — Neon Cyan               */
+  --co-green:        103, 98, 95;     /* #67625F — Neon Green              */
+  --co-pink:         103, 98, 95;     /* #67625F — Hot Pink / Magenta      */
+  --co-blue:         103, 98, 95;     /* #67625F — Electric Blue           */
+  --co-amber:        103, 98, 95;     /* #67625F — Amber / Gold            */
+  --co-red:          103, 98, 95;      /* #67625F — Cyan             */
+  --co-orange:       103, 98, 95;     /* #67625F — Warm Orange             */
+  --co-teal:         83, 79, 76;     /* #534F4C — Teal                    */
+  --co-lavender:     158, 153, 150;   /* #9E9996 — Soft Lavender           */
+  --co-steel:        110, 105, 102;   /* #6E6966 — Steel Blue              */
+  --co-gold:         110, 105, 102;    /* #6E6966 — Muted Gold              */
+  --co-lime:         103, 98, 95;     /* #67625F — Electric Lime           */
+  --co-coral:        143, 137, 134;   /* #8F8986 — Soft Coral              */
 
   /* ─── SURFACE & TEXT COLORS ───────────────────────────────────────────── */
   --co-bg-pure:      0, 0, 0;        /* #000000 — Pure black background   */
@@ -360,6 +360,13 @@
 .callout[data-callout="terms"],
 .callout[data-callout="details"],
 .callout[data-callout="about-the-author"],
+.callout[data-callout="section-summary"],
+.callout[data-callout="claude-insight"],
+.callout[data-callout="far-transfer"],
+.callout[data-callout="debate"],
+.callout[data-callout="schema-activation"],
+.callout[data-callout="active-reading"],
+.callout[data-callout="active-reading-prompt"],
 .callout[data-callout="comprehensive-reference"] {
   --callout-color: var(--co-purple);
 }

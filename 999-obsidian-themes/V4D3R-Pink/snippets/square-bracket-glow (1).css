@@ -5,9 +5,9 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --pink-glow: #ff0080ff;
-  --pink-glow-bright: #ff3399;
-  --pink-shadow: rgba(255, 0, 128, 0.7);
+  --pink-glow: #67625fff;
+  --pink-glow-bright: #7c7673;
+  --pink-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--pink-shadow), 0 0 5px var(--pink-shadow);
 }
 
@@ -234,12 +234,12 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --pink-shadow: rgba(255, 0, 128, 0.7);
+  --pink-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--pink-shadow), 0 0 5px var(--pink-shadow);
 }
 
 .theme-light {
-  --pink-shadow: rgba(255, 0, 128, 0.55);
+  --pink-shadow: rgba(103, 98, 95, 0.55);
   --bracket-shadow: 0 0 2px var(--pink-shadow), 0 0 4px var(--pink-shadow);
 }
 
@@ -265,7 +265,7 @@ pre[class*="language-"] .token.bracket,
 .test-brackets * {
   color: var(--pink-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
-  background: rgba(255, 0, 128, 1) !important;
+  background: rgba(103, 98, 95, 1) !important;
 }
 /* ══════════════════════════════════════════════════════════════════════════════════
    BRACKET GLOW INTENSITY CONTROL
@@ -364,24 +364,24 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 /* BLUE VARIANT */
 /*
 :root {
-  --pink-glow: #0066ff;
-  --pink-shadow: rgba(0, 102, 255, 0.9);
+  --pink-glow: #67625f;
+  --pink-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --pink-glow: #00ff00;
-  --pink-shadow: rgba(0, 255, 0, 0.9);
+  --pink-glow: #67625f;
+  --pink-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --pink-glow: #9900ff;
-  --pink-shadow: rgba(153, 0, 255, 0.9);
+  --pink-glow: #67625f;
+  --pink-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */

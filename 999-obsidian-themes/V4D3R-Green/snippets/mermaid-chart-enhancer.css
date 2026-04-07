@@ -190,7 +190,7 @@
 
 /* Mermaid text elements */
 .theme-dark .mermaid text {
-  fill: #580097ff !important;        /* Match theme text */
+  fill: #3d3a39ff !important;        /* Match theme text */
 }
 
 /* Mermaid node backgrounds */
@@ -213,15 +213,15 @@
 
 /* Flowchart nodes */
 .theme-dark .mermaid .node rect {
-  fill: rgba(134, 0, 229, 0.1) !important;    /* Purple tint */
-  stroke: #8600E5 !important;                 /* Purple border */
+  fill: rgba(93, 88, 86, 0.1) !important;    /* Purple tint */
+  stroke: #5D5856 !important;                 /* Purple border */
   stroke-width: 2px;
 }
 
 /* Sequence diagram boxes */
 .theme-dark .mermaid .actor {
   fill: var(--background-secondary) !important;
-  stroke: #8600E5 !important;                 /* Gold border */
+  stroke: #5D5856 !important;                 /* Gold border */
 }
 
 /* ══════════════════════════════════════════════════════════
@@ -287,11 +287,11 @@ margin: 1rem auto;                          /* Center container itself */
     transition: box-shadow 0.2s ease;
     }
     .node rect, .node circle, .node polygon {
-      fill: #121212 !important; stroke: #9026DC !important; stroke-width: 2px !important;
+      fill: #121212 !important; stroke: #696461 !important; stroke-width: 2px !important;
     }
-    .edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
-    .marker { fill: #9026DC !important; stroke: #9026DC !important; }
-    .label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
+    .edgePath .path { stroke: #5F5B58 !important; stroke-width: 2px !important; }
+    .marker { fill: #696461 !important; stroke: #696461 !important; }
+    .label { color: #B8B4B2 !important; font-family: "JetBrains Mono" !important; }
 /* ══════════════════════════════════════════════════════════
    HOVER EFFECTS
     Visual feedback when interacting
@@ -302,7 +302,7 @@ margin: 1rem auto;                          /* Center container itself */
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);    /* Lift effect */
   border-color: var(--text-accent);          
   /*Adjust Color of Arrow*/
- border-color: #580097ff;           /* Highlight border (red) */
+ border-color: #3d3a39ff;           /* Highlight border (red) */
 }
 
 /* [FROM: __v4d3r-mermaid.css & mermaid-chart-enhancer.css] */
@@ -316,15 +316,15 @@ margin: 1rem auto;                          /* Center container itself */
 .mermaid svg { width: auto !important; height: auto !important; max-width: none !important; }
 .mermaid:hover {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
-  border-color: #580097ff; /* Red Arrow Highlight */
+  border-color: #3d3a39ff; /* Red Arrow Highlight */
 }
 /* Node Styling */
 .mermaid .node rect, .mermaid .node circle, .mermaid .node polygon {
-  fill: #121212 !important; stroke: #9026DC !important; stroke-width: 2px !important;
+  fill: #121212 !important; stroke: #696461 !important; stroke-width: 2px !important;
 }
-.mermaid .edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
-.mermaid .marker { fill: #9026DC !important; stroke: #9026DC !important; }
-.mermaid .label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
+.mermaid .edgePath .path { stroke: #5F5B58 !important; stroke-width: 2px !important; }
+.mermaid .marker { fill: #696461 !important; stroke: #696461 !important; }
+.mermaid .label { color: #B8B4B2 !important; font-family: "JetBrains Mono" !important; }
 
 /* [FROM: __v4d3r-tables.css] */
 .markdown-rendered table {
@@ -332,23 +332,23 @@ margin: 1rem auto;                          /* Center container itself */
   background: #1A1A1A; border: 1px solid #2d2d2d; border-radius: 8px; overflow: hidden;
 }
 .markdown-rendered th {
-  background: linear-gradient(135deg, #32145c, #561D7F);
-  color: #F3F4F6; font-weight: 600; padding: 12px 16px;
-  border-bottom: 2px solid #8631e9;
+  background: linear-gradient(135deg, #2d2b2a, #3F3C3A);
+  color: #BAB7B5; font-weight: 600; padding: 12px 16px;
+  border-bottom: 2px solid #726d6a;
   text-transform: uppercase; letter-spacing: 0.05em;
 }
-.markdown-rendered td { padding: 10px 16px; border-bottom: 1px solid #252525; color: #D1D5DB; }
+.markdown-rendered td { padding: 10px 16px; border-bottom: 1px solid #252525; color: #AAA6A3; }
 .markdown-rendered tr:nth-child(even) { background: #1a1a1a; }
-.markdown-rendered tr:hover { background: rgba(144, 38, 220, 0.15) !important; }
+.markdown-rendered tr:hover { background: rgba(105, 100, 97, 0.15) !important; }
 
 /* [FROM: __v4d3r-plugins.css & _dataview.css] */
 /* Dataview Tables */
 .dataview.table-view-table { background: #1A1A1A; border: 1px solid #2d2d2d; border-radius: 8px; }
-.dataview.table-view-table th { background: #32145c; color: #F3F4F6; border-bottom: 2px solid #8631e9; }
+.dataview.table-view-table th { background: #2d2b2a; color: #BAB7B5; border-bottom: 2px solid #726d6a; }
 /* Inline Fields */
 .theme-dark .dataview.inline-field-key {
   color: #000000ff !important; font-weight: 600!important; text-transform: uppercase;
-  background: #9500ffff !important; /* Bright Red Background for Key */
+  background: #67625fff !important; /* Bright Red Background for Key */
   padding: 2px 6px; border-radius: 4px 0 0 4px;
 }
 .theme-dark .dataview.inline-field-value {
@@ -361,8 +361,8 @@ margin: 1rem auto;                          /* Center container itself */
   border: 2px solid #2d2d2d; border-radius: 4px; background: #121212;
 }
 .markdown-preview-view input[type="checkbox"]:checked {
-  background: #8631e9; border-color: #8631e9;
+  background: #726d6a; border-color: #726d6a;
 }
 .markdown-preview-view input[type="checkbox"]:checked::after {
-  content: '✓'; position: absolute; color: #F3F4F6; font-size: 14px; top: -2px; left: 2px;
+  content: '✓'; position: absolute; color: #BAB7B5; font-size: 14px; top: -2px; left: 2px;
 }

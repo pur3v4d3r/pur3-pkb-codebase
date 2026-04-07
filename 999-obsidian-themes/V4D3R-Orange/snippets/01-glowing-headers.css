@@ -13,9 +13,9 @@
  for a professional cyberpunk aesthetic.
 
  Color Palette:
- - Primary Glow: #9500FF (Vivid Purple)
- - Secondary Glow: #8600E5 (Deep Purple)
- - Tertiary Glow: #6800B3 (Dark Purple)
+ - Primary Glow: #67625F (Vivid Purple)
+ - Secondary Glow: #5D5856 (Deep Purple)
+ - Tertiary Glow: #494543 (Dark Purple)
  - Text Base: #040404 (Near Black)
  - Accent Grey: #858585 (Medium Grey)
 
@@ -43,8 +43,8 @@ h1 {
     font-variant: all-small-caps !important;
     color: #000000 !important;                  /* Pure Black */
     text-decoration: underline !important;
-    text-shadow: 0 0 3px #9500ffff, 0 0 6px #9500ffee, 0 0 10px #9500ffcc,
-                 0 0 14px #9500ffaa, 0 0 18px #9500ff77;
+    text-shadow: 0 0 3px #67625fff, 0 0 6px #67625fee, 0 0 10px #67625fcc,
+                 0 0 14px #67625faa, 0 0 18px #67625f77;
                  /* Strong purple neon glow */
   }
   
@@ -64,8 +64,8 @@ h2 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 3px #9500ffff, 0 0 6px #9500ffee, 0 0 10px #9500ffcc,
-               0 0 14px #9500ffaa, 0 0 18px #9500ff77;
+  text-shadow: 0 0 3px #67625fff, 0 0 6px #67625fee, 0 0 10px #67625fcc,
+               0 0 14px #67625faa, 0 0 18px #67625f77;
                /* Strong purple neon glow */
 }
 
@@ -85,8 +85,8 @@ h3 {
     font-variant: all-small-caps !important;
     color: #000000ff !important;                  /* Pure Black */
     text-decoration: underline !important;
-    text-shadow: 0 0 30px #36005cff, 0 0 20px #000000ee, 0 0 30px #9500ffcc,
-                 0 0 30px #000000aa, 0 0 50px #9500ff77;
+    text-shadow: 0 0 30px #252322ff, 0 0 20px #000000ee, 0 0 30px #67625fcc,
+                 0 0 30px #000000aa, 0 0 50px #67625f77;
                  /* Strong purple neon glow */
   }
 
@@ -106,8 +106,8 @@ h4 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #9500ffdd, 0 0 5px #9500ffbb, 0 0 8px #9500ff99,
-               0 0 11px #9500ff66;
+  text-shadow: 0 0 2px #67625fdd, 0 0 5px #67625fbb, 0 0 8px #67625f99,
+               0 0 11px #67625f66;
                /* Subtle purple neon glow */
 }
 
@@ -127,8 +127,8 @@ h5 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #9500ffcc, 0 0 4px #9500ffaa, 0 0 7px #9500ff77,
-               0 0 10px #9500ff55;
+  text-shadow: 0 0 2px #67625fcc, 0 0 4px #67625faa, 0 0 7px #67625f77,
+               0 0 10px #67625f55;
                /* Soft purple neon glow */
 }
 
@@ -148,7 +148,7 @@ h6 {
   font-variant: all-small-caps !important;
   color: #000000 !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #9500ffaa, 0 0 4px #9500ff88, 0 0 6px #9500ff55;
+  text-shadow: 0 0 2px #67625faa, 0 0 4px #67625f88, 0 0 6px #67625f55;
                /* Minimal purple neon glow */
 }
 

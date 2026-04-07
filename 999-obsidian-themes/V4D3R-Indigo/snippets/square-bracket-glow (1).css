@@ -5,9 +5,9 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --indigo-glow: #1500ffff;
-  --indigo-glow-bright: #4433ff;
-  --indigo-shadow: rgba(21, 0, 255, 0.7);
+  --indigo-glow: #67625fff;
+  --indigo-glow-bright: #7c7673;
+  --indigo-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--indigo-shadow), 0 0 5px var(--indigo-shadow);
 }
 
@@ -234,12 +234,12 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --indigo-shadow: rgba(21, 0, 255, 0.7);
+  --indigo-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--indigo-shadow), 0 0 5px var(--indigo-shadow);
 }
 
 .theme-light {
-  --indigo-shadow: rgba(21, 0, 255, 0.55);
+  --indigo-shadow: rgba(103, 98, 95, 0.55);
   --bracket-shadow: 0 0 2px var(--indigo-shadow), 0 0 4px var(--indigo-shadow);
 }
 
@@ -265,7 +265,7 @@ pre[class*="language-"] .token.bracket,
 .test-brackets * {
   color: var(--indigo-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
-  background: rgba(21, 0, 255, 1) !important;
+  background: rgba(103, 98, 95, 1) !important;
 }
 /* ══════════════════════════════════════════════════════════════════════════════════
    BRACKET GLOW INTENSITY CONTROL
@@ -364,24 +364,24 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 /* BLUE VARIANT */
 /*
 :root {
-  --indigo-glow: #0066ff;
-  --indigo-shadow: rgba(0, 102, 255, 0.9);
+  --indigo-glow: #67625f;
+  --indigo-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --indigo-glow: #00ff00;
-  --indigo-shadow: rgba(0, 255, 0, 0.9);
+  --indigo-glow: #67625f;
+  --indigo-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --indigo-glow: #9900ff;
-  --indigo-shadow: rgba(153, 0, 255, 0.9);
+  --indigo-glow: #67625f;
+  --indigo-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */

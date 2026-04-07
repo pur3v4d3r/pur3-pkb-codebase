@@ -2,9 +2,9 @@
 ═══════════════════════════════════════════════════════════
  SNIPPET NAME: Custom Ordered List Numbers (Colored)
  Purpose: Color-coded numbered list markers by nesting level
-          Level 1: Numbers (Gold #8600E5)
-          Level 2: Arrow → (Purple #8600E5)
-          Level 3: Dash — (Teal #8600E5)
+          Level 1: Numbers (Gold #5D5856)
+          Level 2: Arrow → (Purple #5D5856)
+          Level 3: Dash — (Teal #5D5856)
           Level 4: Plus + (White)
  Author: Pur3v4d3r
  Date: 2025-12-05
@@ -52,7 +52,7 @@
 
 /* Level 1: Gold numbers */
 .cm-formatting-list-ol.cm-list-1 {
-    color: #8600E5 !important; /* ✓ WCAG AA: 10.8:1 on dark backgrounds */
+    color: #ff0040 !important; /* ✓ WCAG AA: 10.8:1 on dark backgrounds */
     font-weight: 300 !important;
     font-size: 18 !important;
     position: relative !important;
@@ -68,7 +68,7 @@
 
 .cm-formatting-list-ol.cm-list-2::after {
     content: "->" !important; /* → Arrow */
-    color: #8600E5 !important; /* Teal */
+    color: #ff0040 !important; /* Teal */
     font-weight: 300 !important;
     font-size: 18px !important;
     position: absolute !important;
@@ -86,7 +86,7 @@
 
 .cm-formatting-list-ol.cm-list-3::after {
     content: "-" !important; /* — Em dash */
-    color: #8600E5 !important; /* Teal */
+    color: #ff0040 !important; /* Teal */
     font-weight: 300 !important;
     font-size: 18 !important;
     position: absolute !important;
@@ -142,7 +142,7 @@
     position: absolute !important;
     left: var(--ol-level1-left) !important;
     top: var(--ol-level1-top) !important;
-    color: #8600E5 !important; /* Gold */
+    color: #ff0040 !important; /* Gold */
     font-weight: var(--ol-level1-weight) !important;
     font-size: var(--ol-level1-size) !important;
     padding-right: var(--ol-marker-spacing) !important;
@@ -156,7 +156,7 @@
 .markdown-rendered ol ol:not(ol ol ol) > li::before {
     content: "\2192 " !important; /* → Arrow */
     position: absolute !important;
-    color: #8600E5 !important;
+    color: #ff0040 !important;
     left: var(--ol-level2-left) !important;
     top: var(--ol-level2-top) !important;
     font-weight: var(--ol-level2-weight) !important;
@@ -172,7 +172,7 @@
 .markdown-rendered ol ol ol:not(ol ol ol ol) > li::before {
     content: "\2014 " !important; /* — Em dash */
     position: absolute !important;
-    color: #8600E5 !important;
+    color: #ff0040 !important;
     left: var(--ol-level3-left) !important;
     top: var(--ol-level3-top) !important;
     font-weight: var(--ol-level3-weight) !important;
@@ -188,7 +188,7 @@
 .markdown-rendered ol ol ol ol > li::before {
     content: "\002B " !important; /* + Plus */
     position: absolute !important;
-    color: #8600E5 !important;
+    color: #ff0040 !important;
     left: var(--ol-level4-left) !important;
     top: var(--ol-level4-top) !important;
     font-weight: var(--ol-level4-weight) !important;
@@ -204,28 +204,28 @@
 
 .markdown-preview-view ol:not(ol ol) > li::before {
     content: counter(list-item) ". " !important;
-    color: #8600E5 !important;
+    color: #5D5856 !important;
     font-size: var(--ol-level1-size) !important;
     font-weight: var(--ol-level1-weight) !important;
 }
 
 .markdown-preview-view ol ol:not(ol ol ol) > li::before {
     content: "\2192 " !important;
-    color: #8600E5 !important;
+    color: #5D5856 !important;
     font-size: var(--ol-level2-size) !important;
     font-weight: var(--ol-level2-weight) !important;
 }
 
 .markdown-preview-view ol ol ol:not(ol ol ol ol) > li::before {
     content: "\2014 " !important;
-    color: #8600E5 !important;
+    color: #5D5856 !important;
     font-size: var(--ol-level3-size) !important;
     font-weight: var(--ol-level3-weight) !important;
 }
 
 .markdown-preview-view ol ol ol ol > li::before {
     content: "\002B " !important;
-    color: #8600E5 !important;
+    color: #5D5856 !important;
     font-size: var(--ol-level4-size) !important;
     font-weight: var(--ol-level4-weight) !important;
 }
@@ -287,7 +287,7 @@
 /* Level 3 (third indent) - Plus */
 .cm-formatting-list-ul.cm-list-3 > .list-bullet::after {
     content: "\002B" !important; /* + */
-    color: rgb(229, 255, 0) !important;
+    color: rgb(103, 98, 95) !important;
     font-size: 1.30em !important;
     font-weight: 300 !important;
     top: -0.27em !important;
@@ -297,7 +297,7 @@
 /* Level 2 (second indent) - Dash */
 .cm-formatting-list-ul.cm-list-2 > .list-bullet::after {
     content: "-" !important;
-    color: rgb(229, 255, 0) !important;
+    color: rgb(103, 98, 95) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
     top: -0.12em !important;
@@ -307,7 +307,7 @@
 /* Level 1 (first indent) - Arrow */
 .cm-formatting-list-ul.cm-list-1 > .list-bullet::after {
     content: "->" !important;
-    color: rgb(229, 255, 0) !important;
+    color: rgb(103, 98, 95) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
     position: relative !important;
@@ -364,7 +364,7 @@
 .markdown-rendered ul:not(ul ul) > li::before,
 .markdown-preview-view ul:not(ul ul) > li::before {
     content: "->" !important;
-    color: rgb(229, 255, 0) !important;
+    color: rgb(103, 95, 95) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
     top: 0.05em !important;
@@ -374,7 +374,7 @@
 .markdown-rendered ul ul:not(ul ul ul) > li::before,
 .markdown-preview-view ul ul:not(ul ul ul) > li::before {
     content: "-" !important;
-    color: rgb(229, 255, 0) !important;
+    color: rgb(103, 98, 95) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
     top: 0.05em !important;
@@ -384,7 +384,7 @@
 .markdown-rendered ul ul ul:not(ul ul ul ul) > li::before,
 .markdown-preview-view ul ul ul:not(ul ul ul ul) > li::before {
     content: "+" !important;
-    color: rgb(229, 255, 0) !important;
+    color: rgb(103, 98, 95) !important;
     font-size: 1.10em !important;
     font-weight: 300 !important;
     top: -0.02em !important;

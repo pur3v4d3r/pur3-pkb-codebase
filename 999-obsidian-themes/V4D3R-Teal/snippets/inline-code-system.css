@@ -8,7 +8,7 @@
  
  COLOR PALETTE: Red/Grey/Black
  ─────────────────────────────────────────────────────────────────────────────
- Primary Red:     #A035E5 (Vibrant) | #761CB7 (Deep/Dark)
+ Primary Red:     #726D6A (Vibrant) | #56514F (Deep/Dark)
  Grey Spectrum:   #424242 → #9E9E9E → #E0E0E0
  Black Base:      #1A1A1A (True Dark) | #2D2D2D (Soft Dark)
  
@@ -43,10 +43,10 @@
 .theme-light,
 .theme-dark {
   /* ─── Primary Color Palette ─── */
-  --inline-code-red-vibrant: #A035E5;
-  --inline-code-red-deep: #761CB7;
-  --inline-code-red-soft: #C759FF;
-  --inline-code-red-muted: #8428C6;
+  --inline-code-red-vibrant: #726D6A;
+  --inline-code-red-deep: #56514F;
+  --inline-code-red-soft: #8B8581;
+  --inline-code-red-muted: #615C59;
   
   /* ─── Grey Spectrum ─── */
   --inline-code-grey-900: #212121;
@@ -103,7 +103,7 @@
 
 .markdown-source-view.mod-cm6 .cm-inline-code,
 .markdown-preview-view .inline-code {
-  /*Background-Transparentpurplewithdepth*/background-color: #8600E54D !important;
+  /*Background-Transparentpurplewithdepth*/background-color: #5D58564D !important;
   /*30%opacitypurple*/text-transform: uppercase !important;
   /*Text-Brightcyanforcontrast*/color: #E0E0E0ff !important;
   /*Cybercyan*//*Border-Blackoutline*/border: 3.20px solid #000000cc !important;
@@ -112,7 +112,7 @@
   /*Font-Monospaceforcode*/font-family: 'Jetbrains Mono', var(--font-monospace-override), monospace !important;
   font-weight: 100 !important;
   /*Thinweight*/font-size: 0.95em !important;
-  /*Slightlysmaller*//*Gloweffect-Purpleshadow*/box-shadow: 0 0 6px #8600E5FF;
+  /*Slightlysmaller*//*Gloweffect-Purpleshadow*/box-shadow: 0 0 6px #5D5856FF;
   /*Softpurpleglow*//*Smoothtransitions*/transition: box-shadow 0.2s ease-in-out !important;
   -webkit-border-radius: 4px !important;
   -moz-border-radius: 4px !important;
@@ -280,7 +280,7 @@ table code:not(pre code) {
 .theme-light .markdown-rendered code:not(pre code),
 .theme-light .markdown-preview-view code:not(pre code) {
   color: var(--inline-code-red-deep);
-  background-color: rgba(160, 53, 229, 0.12);
+  background-color: rgba(114, 109, 106, 0.12);
   padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
   border-radius: var(--inline-code-border-radius);
   border-left: 2px solid var(--inline-code-red-vibrant);
@@ -291,7 +291,7 @@ table code:not(pre code) {
 .theme-dark .markdown-rendered code:not(pre code),
 .theme-dark .markdown-preview-view code:not(pre code) {
   color: var(--inline-code-red-soft);
-  background-color: rgba(160, 53, 229, 0.15);
+  background-color: rgba(114, 109, 106, 0.15);
   padding: var(--inline-code-padding-y) var(--inline-code-padding-x);
   border-radius: var(--inline-code-border-radius);
   border-left: 2px solid var(--inline-code-red-vibrant);
@@ -362,8 +362,8 @@ table code:not(pre code) {
   border-radius: var(--inline-code-border-radius);
   border: 1px solid var(--inline-code-red-muted);
   box-shadow: 
-    0 0 4px rgba(160, 53, 229, 0.3),
-    0 0 8px rgba(160, 53, 229, 0.15);
+    0 0 4px rgba(114, 109, 106, 0.3),
+    0 0 8px rgba(114, 109, 106, 0.15);
 }
 
 .markdown-rendered code:not(pre code),
@@ -374,8 +374,8 @@ table code:not(pre code) {
   border-radius: var(--inline-code-border-radius);
   border: 1px solid var(--inline-code-red-muted);
   box-shadow: 
-    0 0 4px rgba(160, 53, 229, 0.3),
-    0 0 8px rgba(160, 53, 229, 0.15);
+    0 0 4px rgba(114, 109, 106, 0.3),
+    0 0 8px rgba(114, 109, 106, 0.15);
 }
 
 .theme-light .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
@@ -385,8 +385,8 @@ table code:not(pre code) {
   color: var(--inline-code-red-deep);
   background-color: var(--inline-code-grey-100);
   box-shadow: 
-    0 0 4px rgba(118, 28, 183, 0.2),
-    0 0 8px rgba(118, 28, 183, 0.1);
+    0 0 4px rgba(86, 81, 79, 0.2),
+    0 0 8px rgba(86, 81, 79, 0.1);
 }
 
 
@@ -557,9 +557,9 @@ table code:not(pre code) {
  
  WCAG CONTRAST RATIOS VERIFIED:
  ─────────────────────────────────────────────────────────────────────────────
- • #A035E5 on #FFFFFF: 4.0:1 (AA Large Text ✓)
- • #761CB7 on #FFFFFF: 7.8:1 (AAA ✓)
- • #C759FF on #1A1A1A: 6.2:1 (AA ✓)
+ • #726D6A on #FFFFFF: 4.0:1 (AA Large Text ✓)
+ • #56514F on #FFFFFF: 7.8:1 (AAA ✓)
+ • #8B8581 on #1A1A1A: 6.2:1 (AA ✓)
  • #212121 on #EEEEEE: 14.5:1 (AAA ✓)
  • #E0E0E0 on #2D2D2D: 10.2:1 (AAA ✓)
  

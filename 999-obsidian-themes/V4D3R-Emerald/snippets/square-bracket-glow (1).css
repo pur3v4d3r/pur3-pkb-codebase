@@ -5,9 +5,9 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --emerald-glow: #00ff95ff;
-  --emerald-glow-bright: #33ffaa;
-  --emerald-shadow: rgba(0, 255, 149, 0.7);
+  --emerald-glow: #67625fff;
+  --emerald-glow-bright: #7c7673;
+  --emerald-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--emerald-shadow), 0 0 5px var(--emerald-shadow);
 }
 
@@ -234,12 +234,12 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --emerald-shadow: rgba(0, 255, 149, 0.7);
+  --emerald-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--emerald-shadow), 0 0 5px var(--emerald-shadow);
 }
 
 .theme-light {
-  --emerald-shadow: rgba(0, 255, 149, 0.55);
+  --emerald-shadow: rgba(103, 98, 95, 0.55);
   --bracket-shadow: 0 0 2px var(--emerald-shadow), 0 0 4px var(--emerald-shadow);
 }
 
@@ -265,7 +265,7 @@ pre[class*="language-"] .token.bracket,
 .test-brackets * {
   color: var(--emerald-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
-  background: rgba(0, 255, 149, 1) !important;
+  background: rgba(103, 98, 95, 1) !important;
 }
 /* ══════════════════════════════════════════════════════════════════════════════════
    BRACKET GLOW INTENSITY CONTROL
@@ -364,24 +364,24 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 /* BLUE VARIANT */
 /*
 :root {
-  --emerald-glow: #0066ff;
-  --emerald-shadow: rgba(0, 102, 255, 0.9);
+  --emerald-glow: #67625f;
+  --emerald-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --emerald-glow: #00ff00;
-  --emerald-shadow: rgba(0, 255, 0, 0.9);
+  --emerald-glow: #67625f;
+  --emerald-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --emerald-glow: #9900ff;
-  --emerald-shadow: rgba(153, 0, 255, 0.9);
+  --emerald-glow: #67625f;
+  --emerald-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */

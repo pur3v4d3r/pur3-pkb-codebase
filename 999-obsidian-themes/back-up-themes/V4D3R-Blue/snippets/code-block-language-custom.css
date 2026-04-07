@@ -1,0 +1,335 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ SNIPPET NAME: Code Block Language Custom Syntax Colors
+ Purpose: Apply unique visual theming to code blocks based on declared language
+ Author: Pur3v4d3r
+ Date: 2026-01-07
+ Color Theme: RED, Black & Grey
+ Obsidian Version: 1.5+
+ Installation: Place in .obsidian/snippets/ and enable in Settings → Appearance
+ 
+ NOTE: Uses code[class*="language-xxx"] selector pattern - targets the code element
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: PROMPT - Primary Red
+   Usage: ```prompt
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Container styling via parent pre */
+.markdown-preview-view pre:has(code[class*="language-prompt"]),
+.markdown-rendered pre:has(code[class*="language-prompt"]) {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(144, 38, 220, 0.12) 0%, rgba(120, 28, 185, 0.08) 100%) !important;
+  border: 2px solid rgba(144, 38, 220, 0.4) !important;
+  border-left: 4px solid #9026DC !important;
+  border-radius: 12px !important;
+  box-shadow: 0 0 20px rgba(144, 38, 220, 0.15) !important;
+}
+
+/* Badge label */
+.markdown-preview-view pre:has(code[class*="language-prompt"])::before,
+.markdown-rendered pre:has(code[class*="language-prompt"])::before {
+  content: "⚡ PROMPT" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: linear-gradient(135deg, #9026DC 0%, #781CB9 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(144, 38, 220, 0.4) !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 2: PROMPT-COMPONENT - Bright Red
+   Usage: ```prompt-component
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-prompt-component"]),
+.markdown-rendered pre:has(code[class*="language-prompt-component"]) {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(168, 68, 239, 0.12) 0%, rgba(144, 38, 220, 0.08) 100%) !important;
+  border: 2px solid rgba(168, 68, 239, 0.4) !important;
+  border-left: 4px solid #A844EF !important;
+  border-radius: 12px !important;
+  box-shadow: 0 0 20px rgba(168, 68, 239, 0.15) !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-prompt-component"])::before,
+.markdown-rendered pre:has(code[class*="language-prompt-component"])::before {
+  content: "🧩 COMPONENT" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: linear-gradient(135deg, #A844EF 0%, #9026DC 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(168, 68, 239, 0.4) !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: CLAUDE-PROJECT - Crimson
+   Usage: ```claude-project
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-claude-project"]),
+.markdown-rendered pre:has(code[class*="language-claude-project"]) {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(120, 28, 185, 0.12) 0%, rgba(100, 27, 153, 0.08) 100%) !important;
+  border: 2px solid rgba(120, 28, 185, 0.4) !important;
+  border-left: 4px solid #781CB9 !important;
+  border-radius: 12px !important;
+  box-shadow: 0 0 20px rgba(120, 28, 185, 0.15) !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-claude-project"])::before,
+.markdown-rendered pre:has(code[class*="language-claude-project"])::before {
+  content: "🤖 CLAUDE" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: linear-gradient(135deg, #781CB9 0%, #641B99 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(120, 28, 185, 0.4) !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: GEMINI-GEM - Rose Red
+   Usage: ```gemini-gem
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-gemini-gem"]),
+.markdown-rendered pre:has(code[class*="language-gemini-gem"]) {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(138, 63, 244, 0.12) 0%, rgba(100, 29, 225, 0.08) 100%) !important;
+  border: 2px solid rgba(138, 63, 244, 0.4) !important;
+  border-left: 4px solid #8A3FF4 !important;
+  border-radius: 12px !important;
+  box-shadow: 0 0 20px rgba(138, 63, 244, 0.15) !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-gemini-gem"])::before,
+.markdown-rendered pre:has(code[class*="language-gemini-gem"])::before {
+  content: "💎 GEMINI" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: linear-gradient(135deg, #8A3FF4 0%, #641DE1 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(138, 63, 244, 0.4) !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 5: SYSTEM - Scarlet
+   Usage: ```system
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-system"]),
+.markdown-rendered pre:has(code[class*="language-system"]) {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(100, 29, 225, 0.12) 0%, rgba(76, 18, 190, 0.08) 100%) !important;
+  border: 2px solid rgba(100, 29, 225, 0.4) !important;
+  border-left: 4px solid #641DE1 !important;
+  border-radius: 12px !important;
+  box-shadow: 0 0 20px rgba(100, 29, 225, 0.15) !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-system"])::before,
+.markdown-rendered pre:has(code[class*="language-system"])::before {
+  content: "⚙️ SYSTEM" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: linear-gradient(135deg, #641DE1 0%, #4C12BE 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(100, 29, 225, 0.4) !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 6: USER - Medium Grey
+   Usage: ```user
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-user"]),
+.markdown-rendered pre:has(code[class*="language-user"]) {
+  position: relative !important;
+  background: rgba(82, 82, 82, 0.12) !important;
+  border: 2px solid rgba(82, 82, 82, 0.4) !important;
+  border-left: 4px solid #525252 !important;
+  border-radius: 12px !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-user"])::before,
+.markdown-rendered pre:has(code[class*="language-user"])::before {
+  content: "👤 USER" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: #525252 !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 7: ASSISTANT - Dark Grey
+   Usage: ```assistant
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-assistant"]),
+.markdown-rendered pre:has(code[class*="language-assistant"]) {
+  position: relative !important;
+  background: rgba(64, 64, 64, 0.12) !important;
+  border: 2px solid rgba(64, 64, 64, 0.4) !important;
+  border-left: 4px solid #404040 !important;
+  border-radius: 12px !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-assistant"])::before,
+.markdown-rendered pre:has(code[class*="language-assistant"])::before {
+  content: "🤖 ASSISTANT" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: #404040 !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 8: MARKDOWN - Neutral Grey
+   Usage: ```markdown
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre:has(code[class*="language-markdown"]),
+.markdown-rendered pre:has(code[class*="language-markdown"]) {
+  position: relative !important;
+  background: rgba(115, 115, 115, 0.08) !important;
+  border: 2px solid rgba(115, 115, 115, 0.3) !important;
+  border-left: 4px solid #737373 !important;
+  border-radius: 12px !important;
+}
+
+.markdown-preview-view pre:has(code[class*="language-markdown"])::before,
+.markdown-rendered pre:has(code[class*="language-markdown"])::before {
+  content: "📝 MARKDOWN" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  padding: 4px 12px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: #737373 !important;
+  color: #FFFFFF !important;
+  border-radius: 6px !important;
+  z-index: 10 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   ACCESSIBILITY: Reduced Motion
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+  .markdown-preview-view pre,
+  .markdown-rendered pre {
+    transition: none !important;
+  }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   EXTENSION GUIDE:
+   
+   To add a new custom language, copy this pattern:
+   
+   .markdown-preview-view pre:has(code[class*="language-NEWLANG"]),
+   .markdown-rendered pre:has(code[class*="language-NEWLANG"]) {
+     position: relative !important;
+     background: rgba(R, G, B, 0.12) !important;
+     border: 2px solid rgba(R, G, B, 0.4) !important;
+     border-left: 4px solid #HEXCOLOR !important;
+     border-radius: 12px !important;
+   }
+   
+   .markdown-preview-view pre:has(code[class*="language-NEWLANG"])::before,
+   .markdown-rendered pre:has(code[class*="language-NEWLANG"])::before {
+     content: "🏷️ LABEL" !important;
+     position: absolute !important;
+     top: 6px !important;
+     right: 12px !important;
+     padding: 4px 12px !important;
+     font-family: "JetBrains Mono", "Consolas", monospace !important;
+     font-size: 11px !important;
+     font-weight: 600 !important;
+     text-transform: uppercase !important;
+     letter-spacing: 0.5px !important;
+     background: #HEXCOLOR !important;
+     color: #FFFFFF !important;
+     border-radius: 6px !important;
+     z-index: 10 !important;
+   }
+   
+   ═══════════════════════════════════════════════════════════════════════════ */
