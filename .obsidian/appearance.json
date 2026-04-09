@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Crimson",
+  "cssTheme": "V4D3R Purple",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -24,14 +24,14 @@
     "custom-ordered-list-numbers-(colored)-",
     "custom-horizontal-rules-",
     "square-bracket-glow",
-    "___v4d3r-ui-system",
     "__text-rendering-animation-rendering",
     "__v4d3r-mermaid",
     "__v4d3r-plugins",
     "__v4d3r-tables",
     "_dataview",
     "code-block-language-custom",
-    "callout-base"
+    "callout-base",
+    "___v4d3r-ui-system (1)"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
